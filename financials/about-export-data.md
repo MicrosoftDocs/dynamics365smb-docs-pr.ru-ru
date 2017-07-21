@@ -1,6 +1,6 @@
 ---
-title: "Экспорт данных в Excel из Dynamics 365 for Financials | Документы Майкрософт"
-description: "Узнайте, как экспортировать данные в Excel из Dynamics 365 for Financials."
+title: "Экспорт данных из Financials в Excel| Документы Майкрософт"
+description: "Вы можете экспортировать финансовые отчеты и данные бизнес-аналитики из Dynamics 365 for Financials в Excel или открыть данные Financials в Excel."
 services: project-madeira
 documentationcenter: 
 author: edupont04
@@ -10,17 +10,17 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: analysis, reporting, financial report, business intelligence, BI, Excel
-ms.date: 02/22/2017
+ms.date: 06/02/2017
 ms.author: edupont
 ms.translationtype: Human Translation
-ms.sourcegitcommit: a31be0f9d07e2abb591e26f6bae34c6f6e4dcda6
-ms.openlocfilehash: 94b2bbcd3db4b5071221b6f24e0f960355db3af1
+ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
+ms.openlocfilehash: 054288659215df61a99564ab856bfb5f72ee7f39
 ms.contentlocale: ru-ru
-ms.lasthandoff: 05/04/2017
+ms.lasthandoff: 07/07/2017
 
 
 ---
-# <a name="exporting-your-data-to-excel-from-dynamics-365-for-financials"></a>Экспорт данных в Excel из Dynamics 365 for Financials
+# <a name="exporting-your-business-data-to-excel"></a>Экспорт бизнес-данных в Excel
 Если вы хотите работать с данными из [!INCLUDE[d365fin](includes/d365fin_md.md)] в Excel, вы можете открыть все списки в Excel и работать с ними там. Аналогично, если требуется отменить подписку на [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)], вы можете экспортировать данные в Excel, чтобы забрать их с собой.
 
 ## <a name="opening-lists-in-excel"></a>Открытие списков в Excel
@@ -56,14 +56,15 @@ ms.lasthandoff: 05/04/2017
 * Операции бюджета ГК  
 * Предложения по продаже  
 * Счета продажи  
-* Счета покупок  
+* Счета покупки  
 * Контакты  
 * Менеджеры  
 
-**Примечание**. Если настроено несколько организаций в [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)], необходимо экспортировать соответствующие данные из каждой организации.
+> [!NOTE]  
+>   Если настроено несколько организаций в [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)], необходимо экспортировать соответствующие данные из каждой организации.
 
 ## <a name="see-also"></a>См. также
-[Отмена подписки на [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](madeira-cancel.md)  
+[Отмена подписки [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](madeira-cancel.md)  
 [Импорт бизнес-данных из других финансовых систем](upload-data.md)  
 [Финансы](finance.md)  
 [Общие бизнес-функции](ui-across-business-areas.md)  

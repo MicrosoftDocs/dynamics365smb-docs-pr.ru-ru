@@ -1,6 +1,6 @@
 ---
-title: "Практическое руководство. Закрытие отчета о прибылях и убытках | Документы Майкрософт"
-description: "Описывает процедуру закрытия отчета о прибылях и убытках."
+title: "Закрытие счетов отчета о прибылях и убытках | Документы Майкрософт"
+description: "При закрытии года вы должны выполнить пакетное задание \"Закрытие отчета о прибылях и убытках\", чтобы закрыть отчетные периоды, составляющие финансовый год."
 services: project-madeira
 documentationcenter: 
 author: jswymer
@@ -10,22 +10,22 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: year closing, close accounting period, close fiscal year, bank account detailed trial balance
-ms.date: 03/29/2017
+ms.date: 06/02/2017
 ms.author: jswymer
 ms.translationtype: Human Translation
-ms.sourcegitcommit: a31be0f9d07e2abb591e26f6bae34c6f6e4dcda6
-ms.openlocfilehash: dde7b93c6a3dcf78173494f1c6fa09a38207e676
+ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
+ms.openlocfilehash: 6ddd7b504f6faa856e92c336f889ad08db0b3d8b
 ms.contentlocale: ru-ru
-ms.lasthandoff: 05/04/2017
+ms.lasthandoff: 07/07/2017
 
 
 ---
-# <a name="close-income-statement"></a>Закрытие отчета о прибылях и убытках
+# <a name="how-to-close-income-statement-accounts"></a>Практическое руководство. Закрытие счетов отчета о прибылях и убытках
 При завершении финансового года следует завершить периоды, которые его образуют. Для этого выполните пакетное задание **Закрытие отчета о прибылях и убытках**. Это задание переносит результат года на балансовый счет и закрывает счета отчета о прибылях и убытках. Это осуществляется путем создания строк в журнале, который затем можно учесть.
 
 ## <a name="to-run-the-close-income-statement-batch-job"></a>Запуск пакетного задания "Закрытие отчета о прибылях и убытках".
 1. Закройте финансовый год. Пакетное задание можно запустить только после закрытия финансового года. Дополнительные сведения см. в разделе [Практическое руководство. Закрытие учетных периодов](year-close-account-periods.md).
-2. В правом вернем углу щелкните значок **Поиск страницы или отчета** ![Поиск страницы или отчета](media/ui-search/search_small.png "значок "Поиск страницы или отчета"") , введите **Закрытие отчета о прибылях и убытках** и выберите связанную ссылку.
+2. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Закрытие отчета о прибылях и убытках**, а затем выберите связанную ссылку.
 3. Нажмите кнопку **ОК** для запуска пакетного задания.
 
 ## <a name="about-the-close-income-statement-batch-job"></a>О пакетном задании "Закрытие отчета о прибылях и убытках".
@@ -39,7 +39,7 @@ ms.lasthandoff: 05/04/2017
 
 ## <a name="see-also"></a>См. также
 [Закрытие книг](year-close-books.md)  
-[Практическое руководство. Учет операции закрытия года](year-how-post-year-end-close-entry.md)  
+[Практическое руководство: учет операции закрытия года](year-how-post-year-end-close-entry.md)  
 [Практическое руководство. Открытие нового финансового года](finance-how-open-new-fiscal-year.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

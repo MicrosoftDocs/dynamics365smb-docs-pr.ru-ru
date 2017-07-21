@@ -1,6 +1,6 @@
 ---
-title: "Способы оплаты | Документы Майкрософт"
-description: "Описывает, что такое способы оплаты и как они используются."
+title: "Настройка способов оплаты | Документы Майкрософт"
+Description: "Способы оплаты, например, чеки, банковские переводы, наличные или PayPal используются для того, чтобы определять, как именно должны оплачиваться счета."
 services: project-madeira
 documentationcenter: 
 author: edupont04
@@ -10,19 +10,24 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: check, bank transfer, cash, PayPal
-ms.date: 03/24/2017
+ms.date: 06/15/2017
 ms.author: edupont
 ms.translationtype: Human Translation
-ms.sourcegitcommit: a31be0f9d07e2abb591e26f6bae34c6f6e4dcda6
-ms.openlocfilehash: ea9f4044e158395591b372fe905128e6c0335d04
+ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
+ms.openlocfilehash: 0c76b481d4a4c49b9cf0db353edaf1e2885fd4d6
 ms.contentlocale: ru-ru
-ms.lasthandoff: 05/04/2017
+ms.lasthandoff: 07/07/2017
 
 
 ---
-# <a name="payment-methods"></a>Способы оплаты
+# <a name="defining-payment-methods"></a>Определение способов оплаты
 Способы оплаты определяют, как будет оплачиваться счет. Можно настроить любое число способов оплаты. Примерами способов платежа являются БАНК, КАССА, ЧЕК и СЧЕТ.
 Способы оплаты связаны с поставщиками, чтобы указать, как должен оплачиваться счет от определенного поставщика.
+
+## <a name="to-set-up-a-payment-methods"></a>Настройка способов оплаты
+Несколько стандартных способов оплаты уже определены в [!INCLUDE[d365fin](includes/d365fin_md.md)]. Вы можете определить новых способы оплаты в окне **Способы оплаты**, которое можно найти с помощью функции поиска или открыть из поля **Способ оплаты** на карточке клиента или поставщика.
+1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Способы оплаты**, а затем выберите связанную ссылку.
+2. Заполните соответствующим образом поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 
 ## <a name="see-also"></a>См. также
 [Финансы](finance.md)  

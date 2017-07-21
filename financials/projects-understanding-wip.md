@@ -1,6 +1,6 @@
 ---
-title: "Общее представление о методах учета НЗП | Документы Майкрософт"
-description: "Описываются различные методы НЗП, которые можно использовать для учета и отслеживания финансовой информации для незавершенных работ."
+title: "Методы расчета НЗП для расчета и записи хода выполнения работ | Документы Майкрософт"
+description: "Описываются различные методы НЗП, которые можно использовать для учета, отслеживания и расчета финансовой информации для текущих незавершенных работ."
 services: project-madeira
 documentationcenter: 
 author: SorenGP
@@ -10,13 +10,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: work in process, work in progress, calculate project WIP
-ms.date: 03/28/2017
+ms.date: 06/06/2017
 ms.author: sgroespe
 ms.translationtype: Human Translation
-ms.sourcegitcommit: a31be0f9d07e2abb591e26f6bae34c6f6e4dcda6
-ms.openlocfilehash: d6f82b3eb086b53be8a091e7a805c745a74ac10f
+ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
+ms.openlocfilehash: 78758a6876595c7dea94d9e5c707dc5a717947a3
 ms.contentlocale: ru-ru
-ms.lasthandoff: 05/04/2017
+ms.lasthandoff: 07/07/2017
 
 
 ---

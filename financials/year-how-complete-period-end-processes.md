@@ -1,6 +1,6 @@
 ---
-title: "Закрытие периодов | Документы Майкрософт"
-description: "Содержит описание процессов закрытия периодов."
+title: "Необязательные действия для закрытия периодов | Документы Майкрософт"
+description: "В этом разделе описываются необязательные процессы и действия по закрытию учетных периодов в Financials."
 services: project-madeira
 documentationcenter: 
 author: jswymer
@@ -10,17 +10,17 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: year closing, close accounting period, close fiscal year, aging, creditor payments, vendor payments
-ms.date: 03/21/2017
+ms.date: 06/02/2017
 ms.author: jswymer
 ms.translationtype: Human Translation
-ms.sourcegitcommit: a31be0f9d07e2abb591e26f6bae34c6f6e4dcda6
-ms.openlocfilehash: 1d0af3dbc94c32447facfbd24747ddc140cc1691
+ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
+ms.openlocfilehash: 678cebc065594ed0ed6fea897676f109ff2c1dce
 ms.contentlocale: ru-ru
-ms.lasthandoff: 05/04/2017
+ms.lasthandoff: 07/07/2017
 
 
 ---
-# <a name="closing-periods"></a>Закрытие периодов
+# <a name="overview-of-tasks-to-close-accounting-periods"></a>Обзор задач по закрытию учетных периодов
 [!INCLUDE[d365fin](includes/d365fin_md.md)] не требует принудительного закрытия периодов, однако предусмотрено множество действий на конец периода (месяца), которые можно выполнить. В этом разделе представлен обзор дополнительных процессов и действий для закрытия периодов.  
 
 ## <a name="general-ledger"></a>Главная книга

@@ -1,6 +1,6 @@
 ---
-title: "Настройка покупки | Документы Майкрософт"
-description: "Настройка покупки"
+title: "Обзор задач для настройки закупок | Документы Майкрософт"
+description: "Описывает задачи по определению политик закупки организации и настройки процессы покупки."
 services: project-madeira
 documentationcenter: 
 author: SorenGP
@@ -13,10 +13,10 @@ ms.search.keywords: procurement, supply, vendor order
 ms.date: 03/29/2017
 ms.author: sgroespe
 ms.translationtype: Human Translation
-ms.sourcegitcommit: a31be0f9d07e2abb591e26f6bae34c6f6e4dcda6
-ms.openlocfilehash: dbefd446d58395ce6aeb85bbb0e29be343acba0b
+ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
+ms.openlocfilehash: bc4578131489baa66d31e8c25b4815b87f992fdf
 ms.contentlocale: ru-ru
-ms.lasthandoff: 05/04/2017
+ms.lasthandoff: 07/07/2017
 
 
 ---
@@ -33,7 +33,6 @@ ms.lasthandoff: 05/04/2017
 | --- | --- |
 | Создание карточки поставщика для каждого поставщика, у которого производится покупка. |[Практическое руководство. Регистрация новых поставщиков](purchasing-how-register-new-vendors.md) |
 | Введите различные скидки и специальные цена, которые предлагает поставщик в зависимости от товара, количества или даты. |[Практическое руководство. Регистрация соглашений о цене покупки, скидках и платежах](purchasing-how-record-purchase-price-discount-payment-agreements.md) |
-|Узнайте, как [!INCLUDE[d365fin](includes/d365fin_md.md)] автоматически оптимизирует прибыль по торговым операциям при регистрации специальных соглашений по ценами и скидкам.|[Дополнительно. Расчет лучшей цены](advanced-best-price-calculation.md) |
 | Назначьте приоритеты поставщикам. |[Практическое руководство. Назначение приоритетов поставщикам](purchasing-how-prioritize-vendors.md) |
 | Настройте менеджеров по закупкам. |[Практическое руководство. Настройка менеджеров по закупкам](purchasing-how-setup-purchasers.md) |
 

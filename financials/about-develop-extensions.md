@@ -1,6 +1,6 @@
 ---
-title: "Узнайте, как расширить Dynamics 365 for Financials | Документы Майкрософт"
-description: "Создание, демонстрация и продвижение расширений Dynamics 365 for Financials"
+title: "Настройка Dynamics 365 for Financials | Документы Майкрософт"
+description: "Создание, демонстрация и продвижение приложений и расширений Dynamics 365 for Financials."
 services: project-madeira
 documentationcenter: 
 author: edupont04
@@ -10,17 +10,17 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: app, add-in, manifest, customize
-ms.date: 03/22/2017
+ms.date: 06/02/2017
 ms.author: edupont
 ms.translationtype: Human Translation
-ms.sourcegitcommit: a31be0f9d07e2abb591e26f6bae34c6f6e4dcda6
-ms.openlocfilehash: 110216a4466733b5e5b9f31eb5b73e428c74da91
+ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
+ms.openlocfilehash: cc355c7b4cd51412ec0b5c95398c2d7b50a13f94
 ms.contentlocale: ru-ru
-ms.lasthandoff: 05/04/2017
+ms.lasthandoff: 07/07/2017
 
 
 ---
-# <a name="extend-included365finlongincludesd365finlongmdmd"></a>Расширение [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]
+# <a name="extending-included365finlongincludesd365finlongmdmd"></a>Расширение [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]
 Существует множество преимуществ использования [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)] как платформы для конструкторов приложений:
 
 * Пополняйте [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)], проверенное сетевое решение Майкрософт, своими профессиональными знаниями.  
@@ -68,7 +68,7 @@ ms.lasthandoff: 05/04/2017
 
 ## <a name="further-resources"></a>Дополнительные ресурсы
 Дополнительные ресурсы по разработке приложений см. на тематической странице DLP [Тематическая страница DLP](https://mbspartner.microsoft.com/BFI/Topic/76). Вот некоторые из них:
--    [Регистрация пользователей и последующее выставление счетов ](http://download.microsoft.com/download/3/2/0/320D0286-8810-4A8F-B7DD-523ED87D441B/FAQ on apps for Dynamics 365 for Financials.pdf)
+-   [Регистрация пользователей и последующее выставление счетов ](http://download.microsoft.com/download/3/2/0/320D0286-8810-4A8F-B7DD-523ED87D441B/FAQ on apps for Dynamics 365 for Financials.pdf)
 
 
 

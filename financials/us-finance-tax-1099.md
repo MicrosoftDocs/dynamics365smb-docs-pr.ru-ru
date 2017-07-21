@@ -1,6 +1,6 @@
 ---
 title: "Отчетность по зарплате по форме 1099 в США | Документы Майкрософт"
-description: "В документах покупки можно указать, что он подходит для формы 1099, а также указать код 1099 для поставщика."
+description: "Налоговое ведомств IRS требует налоговую форму 1099 для платежей поставщикам, и вы можете указать, что документ продажи подлежит учету по форме 1099, и задать код 1099 для поставщика."
 services: project-madeira
 documentationcenter: 
 author: edupont04
@@ -13,14 +13,15 @@ ms.search.keywords: local
 ms.date: 03/29/2017
 ms.author: edupont
 ms.translationtype: Human Translation
-ms.sourcegitcommit: a31be0f9d07e2abb591e26f6bae34c6f6e4dcda6
-ms.openlocfilehash: a0a31c28b6c96dc80593ac3862b97b36c3ec81c7
+ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
+ms.openlocfilehash: c20c52927aa979e56aeef7975fbcee1564ca4dd7
 ms.contentlocale: ru-ru
-ms.lasthandoff: 05/04/2017
+ms.lasthandoff: 07/07/2017
 
 
 ---
-# <a name="reporting-1099-transactions-in-the-us"></a>Отчетность по зарплате по форме 1099 в США
+# <a name="reporting-transactions-as-1099-liable-in-the-us"></a>Отчетность по транзакциям, подлежащим учету по форме 1099 в США
+
 Налоговое ведомство Internal Revenue Service (IRS) требует одну или несколько версий налоговой формы 1099 для платежей поставщикам. Копии этих форм необходимо отправлять поставщикам ежегодно в последний день января или ранее. В документах покупки можно указать, что он подходит для формы 1099, а также указать код 1099 для поставщика.  
 
 ## <a name="1099-codes"></a>Коды 1099

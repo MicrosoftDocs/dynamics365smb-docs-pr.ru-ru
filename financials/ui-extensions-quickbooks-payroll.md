@@ -1,6 +1,6 @@
 ---
-title: "Зарплата Quickbooks | Документы Майкрософт"
-description: "Предоставляется информация о расширении &quot;Зарплата Quickbooks&quot;."
+title: "Использование расширение импорта файла зарплаты | Документы Майкрософт"
+description: "Описывает использование расширения для импорта транзакция по зарплате из службы Quickbooks Payroll."
 services: project-madeira
 documentationcenter: 
 author: SorenGP
@@ -13,10 +13,10 @@ ms. search.keywords: app, add-in, manifest, customize, salary, wage
 ms.date: 03/29/2017
 ms.author: SorenGP
 ms.translationtype: Human Translation
-ms.sourcegitcommit: a31be0f9d07e2abb591e26f6bae34c6f6e4dcda6
-ms.openlocfilehash: dd934265607e4073ab13b089c3dd98ceb4ead9c3
+ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
+ms.openlocfilehash: b719a7d2b6b5590ae63920b63aaba8c2313a8661
 ms.contentlocale: ru-ru
-ms.lasthandoff: 05/04/2017
+ms.lasthandoff: 07/07/2017
 
 
 ---
@@ -28,7 +28,7 @@ ms.lasthandoff: 05/04/2017
 Расширение импорта файла зарплаты Quickbooks позволяет импортировать транзакции зарплаты из службы зарплаты Quickbooks.
 
 ## <a name="see-also"></a>См. также
-[Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью расширений ](ui-extensions.md)    
+[Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью расширений](ui-extensions.md)    
 [Финансы](finance.md)    
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

@@ -1,6 +1,6 @@
 ---
-title: "Управление персоналом | Документы Майкрософт"
-description: "Описывается, как зарегистрировать сотрудников, зарегистрировать и проанализировать отсутствие."
+title: "Использование функций управления персоналом | Документы Майкрософт"
+description: "Вы можете регистрировать новый персонал, редактировать информацию об имеющихся сотрудниках, регистрировать и анализировать их отсутствие."
 services: project-madeira
 documentationcenter: 
 author: SorenGP
@@ -10,20 +10,21 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: personnel, people, employee, staff, HR
-ms.date: 03/28/2017
+ms.date: 06/27/2017
 ms.author: SorenGP
 ms.translationtype: Human Translation
-ms.sourcegitcommit: a31be0f9d07e2abb591e26f6bae34c6f6e4dcda6
-ms.openlocfilehash: a0549521892c1ecd34ff62ed45a2e10d6f276508
+ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
+ms.openlocfilehash: b5bb86fe4f76d5ebd12aba9279b1c1b6ef9e9d9b
 ms.contentlocale: ru-ru
-ms.lasthandoff: 05/04/2017
+ms.lasthandoff: 07/07/2017
 
 
 ---
-# <a name="manage-human-resources"></a>Управление персоналом
+# <a name="human-resources"></a>Персонал и зарплата
 В [!INCLUDE[d365fin](includes/d365fin_md.md)] можно хранить подробные записи о сотрудниках. В программе можно регистрировать и хранить такие сведения о сотрудниках, как трудовые соглашения, конфиденциальная информация, квалификации и контактные данные сотрудников.
 
-**Примечание**. Эта функция требует, чтобы было задано значение **Пакет**. Дополнительные сведения см. в разделе [Настройка взаимодействия [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-experiences.md).
+> [!NOTE]  
+>   Эта функция требует, чтобы было задано значение **Пакет**. Дополнительные сведения см. в разделе [Настройка взаимодействия [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-experiences.md).
 
 Чтобы начать пользоваться функцией "Персонал", необходимо настроить сотрудников и другую базовую информацию. Затем можно связать различные коды с сотрудником, что позволяет фильтровать информацию по определенным сотрудникам.
 

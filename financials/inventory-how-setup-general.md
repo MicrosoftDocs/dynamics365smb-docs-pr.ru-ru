@@ -1,6 +1,6 @@
 ---
-title: "Практическое руководство. Настройка общей информации по запасам | Документы Майкрософт"
-description: "Описывается, как определить общую информацию по запасам, например серии номеров и использование складов."
+title: "Определение общих параметров запасов | Документы Майкрософт"
+description: "Описывает, как определить общие параметры запасов, такие как серии номеров и склады, чтобы вы могли, например, управлять своими складами или запасами."
 services: project-madeira
 documentationcenter: 
 author: SorenGP
@@ -10,13 +10,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: warehouse, stock
-ms.date: 03/28/2017
+ms.date: 06/02/2017
 ms.author: SorenGP
 ms.translationtype: Human Translation
-ms.sourcegitcommit: a31be0f9d07e2abb591e26f6bae34c6f6e4dcda6
-ms.openlocfilehash: f4075d3ec4eea1241eeca204a9e800c0dba9f5c6
+ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
+ms.openlocfilehash: 328b522107b58029687dd9e3263ff53b10ede9a9
 ms.contentlocale: ru-ru
-ms.lasthandoff: 05/04/2017
+ms.lasthandoff: 07/07/2017
 
 
 ---
@@ -24,7 +24,7 @@ ms.lasthandoff: 05/04/2017
 Можно указать общую информацию по запасам в окне **Настройка запасов**.
 
 ## <a name="to-set-up-general-inventory-information"></a>Настройка общей информации по запасам
-1. В правом вернем углу щелкните значок **Поиск страницы или отчета** ![Поиск страницы или отчета](media/ui-search/search_small.png "значок "Поиск страницы или отчета""), введите **Настройка запасов** и выберите связанную ссылку.
+1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Настройка модуля "Запасы"**, а затем выберите связанную ссылку.
 2. В окне **Настройка запасов** заполните требуемые поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 
 ## <a name="see-also"></a>См. также

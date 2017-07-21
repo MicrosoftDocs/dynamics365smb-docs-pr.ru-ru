@@ -1,5 +1,5 @@
 ---
-title: "Использование Excel для переноса устаревших данных в Financials | Документы Майкрософт"
+title: "Использование Excel для импорта данных в Financials | Документы Майкрософт"
 description: "Используйте пакет конфигурации по умолчанию для добавления данных в Excel и импорта данных обратно в Dynamics 365 for Financials."
 author: edupont04
 ms.service: dynamics365-financials
@@ -8,13 +8,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: migration, Excel
-ms.date: 04/27/2017
+ms.date: 07/05/2017
 ms.author: edupont
 ms.translationtype: Human Translation
-ms.sourcegitcommit: a31be0f9d07e2abb591e26f6bae34c6f6e4dcda6
-ms.openlocfilehash: 0151b1c3d8bddd4692c494d1c0e5d1c036da424e
+ms.sourcegitcommit: 2a38dc36cb9ff609c5582acd489841b20013d4bc
+ms.openlocfilehash: 8cf36afea60b089afac8f1c27d126cd19b88ce94
 ms.contentlocale: ru-ru
-ms.lasthandoff: 05/04/2017
+ms.lasthandoff: 07/07/2017
 
 
 ---
@@ -22,6 +22,9 @@ ms.lasthandoff: 05/04/2017
 Можно импортировать основные данные и некоторые транзакционные данные из других финансовых систем на основе пакета конфигурации по умолчанию в [!INCLUDE[d365fin](includes/d365fin_md.md)]. В окне **Пакеты конфигураций** можно использовать пакет для импорта и проверки данных перед применением пакета.  
 
 Если вам знакомы службы RapidStart для Microsoft Dynamics, вам также знакомы пакеты конфигураций. Пакет конфигурации по умолчанию поддерживает наиболее распространенные типы данных, которые требуется импортировать из устаревшей системы. Затем в Excel можно добавить данные устаревшей системы и настроить их согласно бизнес-логике [!INCLUDE[d365fin](includes/d365fin_md.md)].  
+
+> [!TIP]  
+>   Кроме того, можно использовать мастеры миграции данных для импорта данных из QuickBooks или Dynamics GP. Дополнительные сведения см. в разделе [Миграция данных QuickBooks](ui-extensions-quickbooks-data-migration.md) или [Миграция данных Dynamics GP](ui-extensions-dynamicsgp-data-migration.md).  
 
 ## <a name="working-with-data-in-excel"></a>Работа с данными в Excel
 При экспорте пакета конфигурации по умолчанию в Excel созданная книга содержит лист для каждой таблицы в пакете. Чтобы упростить задачи, можно воспользоваться преимуществами инструментов управления XML, которые встроены в Excel. Также можно воспользоваться встроенными функциями Excel, чтобы помочь с форматом данных и поместить данные в правильную ячейку. Например, добавьте пустой лист и скопируйте в него устаревшие данные. Затем создайте формулу Excel для сопоставления данных в листе преобразования между полями в экспортированном листе и устаревшими данными клиента. После сопоставления всех данных скопируйте диапазон данных в табличный журнал.  
@@ -64,5 +67,8 @@ ms.lasthandoff: 05/04/2017
 
 ## <a name="see-also"></a>См. также
 [Импорт бизнес-данных из других финансовых систем](upload-data.md)  
+[Миграция данных QuickBooks](ui-extensions-quickbooks-data-migration.md)  
+[Миграция данных Dynamics GP](ui-extensions-dynamicsgp-data-migration.md)  
 
 ## [!INCLUDE[d365fin](includes/free_trial_md.md)]
+

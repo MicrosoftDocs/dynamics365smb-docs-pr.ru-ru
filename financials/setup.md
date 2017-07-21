@@ -1,6 +1,6 @@
 ---
-title: "Настройка Financials | Документы Майкрософт"
-description: "Настройка Financials"
+title: "Обзор задач для настройки Dynamics 365 for Financials | Документы Майкрософт"
+description: "Описываются задачи по настройке, инициализации и конфигурированию Dynamics 365 for Financials в соответствии с вашими потребностями."
 services: project-madeira
 documentationcenter: 
 author: edupont04
@@ -10,13 +10,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: configure, initialize
-ms.date: 04/27/2017
+ms.date: 06/07/2017
 ms.author: edupont
 ms.translationtype: Human Translation
-ms.sourcegitcommit: a31be0f9d07e2abb591e26f6bae34c6f6e4dcda6
-ms.openlocfilehash: 5be24b9017b105adc6c857655c8de63d67b6aa29
+ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
+ms.openlocfilehash: e6efc11442a693da00c289866b726345ef97fb39
 ms.contentlocale: ru-ru
-ms.lasthandoff: 05/04/2017
+ms.lasthandoff: 07/07/2017
 
 
 ---
@@ -40,6 +40,7 @@ ms.lasthandoff: 05/04/2017
 | Настройка способа выпуска, ведения и амортизации основных средств, а также способа регистрации стоимости основных средств в книгах организации. |[Настройка основных средств](fa-setup.md) |
 | Настройка уникальных идентификационных кодов для записей, таких как карточки, документы и строки журнала, чтобы отслеживать их в системе. |[Создание серий номеров](ui-create-number-series.md) |
 | Настройка окна **Настройка эл. почты (SMTP)** для отправки и получения сообщений электронной почты из документов в [!INCLUDE[d365fin](includes/d365fin_md.md)]. |[Практическое руководство. Настройка электронной почты](madeira-how-setup-email.md) |
+| Настройка уникальных идентификационных кодов. |[Практическое руководство. Создание серий номеров](ui-create-number-series.md) |
 
 ## <a name="see-also"></a>См. также
 [Финансы](finance.md)  

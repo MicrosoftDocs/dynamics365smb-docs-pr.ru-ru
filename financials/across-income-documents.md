@@ -1,6 +1,6 @@
 ---
-title: "Входящие документы | Документы Майкрософт"
-description: "Управление входящими документами"
+title: "Работа с входящими документами | Документы Майкрософт"
+description: "Вы можете управлять входящими документами, например квитанциями о входящих платежах или PDF-документами, управлять задачами OCR и преобразовывать файлы в электронные документы и записи Financials."
 services: project-madeira
 documentationcenter: 
 author: SorenGP
@@ -10,13 +10,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: electronic document, e-invoice, incoming document, OCR, ecommerce, document exchange, import invoice
-ms.date: 01/16/2017
+ms.date: 06/02/2017
 ms.author: sgroespe
 ms.translationtype: Human Translation
-ms.sourcegitcommit: a31be0f9d07e2abb591e26f6bae34c6f6e4dcda6
-ms.openlocfilehash: 8fe06d78320970c667f638341da4abc28fa1e4ac
+ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
+ms.openlocfilehash: 8c15fded4b70ee0fce8ad43f90b915a33523fc77
 ms.contentlocale: ru-ru
-ms.lasthandoff: 05/04/2017
+ms.lasthandoff: 07/07/2017
 
 
 ---

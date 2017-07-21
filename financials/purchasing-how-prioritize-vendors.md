@@ -1,6 +1,6 @@
 ---
-title: "Практическое руководство. Назначение приоритетов поставщикам | Документы Майкрософт"
-description: "Практическое руководство. Назначение приоритетов поставщикам"
+title: "Назначение уровня приоритета поставщику | Документы Майкрософт"
+description: "Вы можете назначать номера поставщика для их приоритизации и поддержки функции предложений платежей в Financials."
 services: project-madeira
 documentationcenter: 
 author: SorenGP
@@ -13,10 +13,10 @@ ms.search.keywords: supplier, payment priority
 ms.date: 03/29/2017
 ms.author: sgroespe
 ms.translationtype: Human Translation
-ms.sourcegitcommit: a31be0f9d07e2abb591e26f6bae34c6f6e4dcda6
-ms.openlocfilehash: ae80ae9ecc15838b59999ded775c7fa0063c8a54
+ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
+ms.openlocfilehash: 2c91b28daf27ddd2b698ffe4338bbf92fd1f9adf
 ms.contentlocale: ru-ru
-ms.lasthandoff: 05/04/2017
+ms.lasthandoff: 07/07/2017
 
 
 ---
@@ -26,7 +26,7 @@ ms.lasthandoff: 05/04/2017
 Во-первых, следует назначить приоритеты поставщикам путем назначения им номеров.
 
 ## <a name="to-prioritize-vendors"></a>Назначение приоритета поставщикам
-1. В правом вернем углу щелкните значок **Поиск страницы или отчета** ![Поиск страницы или отчета](media/ui-search/search_small.png "значок "Поиск страницы или отчета""), введите **Поставщики** и выберите связанную ссылку.
+1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Поставщики**, а затем выберите связанную ссылку.
 2. Выберите соответствующего поставщика, а затем выберите **Правка**.
 3. В поле **Приоритет** введите номер.
 

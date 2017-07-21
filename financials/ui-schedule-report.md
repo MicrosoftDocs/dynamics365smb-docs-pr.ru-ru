@@ -1,6 +1,6 @@
 ---
-title: "Планирование выполнения отчета | Документы Майкрософт"
-description: "Узнайте, как можно спланировать выполнение отчета в будущем."
+title: "Планирование запуска отчета в определенную дату и время | Документы Майкрософт"
+description: "Узнайте о вводе отчета в очередь заданий и планирование его обработки в конкретные дату и время."
 services: project-madeira
 documentationcenter: 
 author: SusanneWindfeldPedersen
@@ -13,10 +13,10 @@ ms.search.keywords: task, process, job queue
 ms.date: 03/29/2017
 ms.author: solsen
 ms.translationtype: Human Translation
-ms.sourcegitcommit: a31be0f9d07e2abb591e26f6bae34c6f6e4dcda6
-ms.openlocfilehash: 50d0d76857b71cc2b2c706cf2a585fde5e7449e8
+ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
+ms.openlocfilehash: 0b97a5e48c4b339375ca9ad8cbe8388c5d47bb44
 ms.contentlocale: ru-ru
-ms.lasthandoff: 05/04/2017
+ms.lasthandoff: 07/07/2017
 
 
 ---

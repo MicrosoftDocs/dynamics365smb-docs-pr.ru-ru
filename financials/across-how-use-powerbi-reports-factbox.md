@@ -1,6 +1,6 @@
 ---
-title: "Использование отчетов Power BI в представлениях списка в Dynamics 365 for Financials | Документы Майкрософт"
-description: "Можно добавить отчеты Power BI, предоставляющие дополнительные сведения о данных в списках, в Financials."
+title: "Отображение пользовательских отчетов Power BI | Документы Майкрософт"
+description: "Можно использовать отчеты Power B для сбора дополнительных сведений о данных в списках в Financials."
 services: project-madeira
 documentationcenter: 
 author: edupont04
@@ -10,20 +10,21 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: business intelligence, KPI, Odata, Power App, SOAP, analysis
-ms.date: 02/02/2017
+ms.date: 06/02/2017
 ms.author: edupont
 ms.translationtype: Human Translation
-ms.sourcegitcommit: a31be0f9d07e2abb591e26f6bae34c6f6e4dcda6
-ms.openlocfilehash: 3c58c71a9ebc3df4e55202f50e856a715d64854f
+ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
+ms.openlocfilehash: 53c588f65232656d2362873347c6c7dc0d412449
 ms.contentlocale: ru-ru
-ms.lasthandoff: 05/04/2017
+ms.lasthandoff: 07/07/2017
 
 
 ---
-# <a name="using-power-bi-reports-in-your-list-views-in-dynamics-365-for-financials"></a>Использование отчетов Power BI в представлениях списка в Dynamics 365 for Financials
+# <a name="viewing-list-data-in-power-bi-reports-in-dynamics-365-for-financials"></a>Просмотр данных в списках в отчетах Power BI в Dynamics 365 for Financials
 [!INCLUDE[d365fin](includes/d365fin_md.md)] включает элемент управления информационной панелью на нескольких ключевых страницах списков, который предоставляет дополнительные сведения о данных в списке. При перемещении между строками в списке отчет обновляется и фильтруется в соответствии с выбранной операцией. Можно создать пользовательские отчеты для отображения в этом элементе управления, но существует несколько правил, которые следует соблюдать при создании отчетов для обеспечения требуемого поведения.  
 
-**Примечание**. Вы должны иметь допустимую учетную запись в [!INCLUDE[d365fin](includes/d365fin_md.md)] и в Power BI. Кроме того, необходимо загрузить [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/). Дополнительные сведения см. в разделе [Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] как источника данных Power BI](across-how-use-financials-data-source-powerbi.md).  
+> [!NOTE]  
+>   Вы должны иметь допустимую учетную запись в [!INCLUDE[d365fin](includes/d365fin_md.md)] и в Power BI. Кроме того, необходимо загрузить [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/). Дополнительные сведения см. в разделе [Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] как источника данных Power BI](across-how-use-financials-data-source-powerbi.md).  
 
 ## <a name="report-data-set"></a>Набор данных отчета
 При создании отчета в Power BI Desktop укажите источник данных или веб-службу, содержащую данные, связанные со списком, с которым требуется связать отчет. Например, если нужно создать отчет для списка продаж, убедитесь, что набор данных содержит информацию, связанную с продажами.  
@@ -49,7 +50,8 @@ ms.lasthandoff: 05/04/2017
 ## <a name="reports-with-multiple-pages"></a>Отчеты с несколькими страницами
 В Power BI можно создать один отчет с несколькими страницами. Визуальные элементы, которые должны отображаться на страницах списка [!INCLUDE[d365fin](includes/d365fin_md.md)], должны находиться на первой странице отчета в Power BI.  
 
-**Примечание.** На информационной панели Power BI может отображаться только первая страница отчета. Если необходимо отобразить другие страницы, следует развернуть отчет и использовать вкладки в нижней части отчета для перехода на другие страницы.  
+> [!NOTE]  
+>  На информационной панели Power BI может отображаться только первая страница отчета. Если необходимо отобразить другие страницы, следует развернуть отчет и использовать вкладки в нижней части отчета для перехода на другие страницы.  
 
 ## <a name="saving-your-report"></a>Сохранение отчета
 
@@ -73,6 +75,6 @@ ms.lasthandoff: 05/04/2017
 ## <a name="see-also"></a>См. также
 [Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] как источника данных Power BI](across-how-use-financials-data-source-powerbi.md)  
 [Добро пожаловать в [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md)    
-[Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md)    
+[Установка [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md)    
 [Финансы](finance.md)  
 

@@ -1,6 +1,6 @@
 ---
-title: "Сортировка | Документы Майкрософт"
-description: "Узнайте, как работает сортировка."
+title: "Упорядочивание данных с помощью функции сортировки | Документы Майкрософт"
+description: "Функция сортировки помогает получить общее представление о данных. Например, вы можете отсортировать клиентов по коду валюты, чтобы получить выборку клиентов."
 services: project-madeira
 documentationcenter: 
 author: SusanneWindfeldPedersen
@@ -12,10 +12,10 @@ ms.workload: na
 ms.date: 02/07/2017
 ms.author: solsen
 ms.translationtype: Human Translation
-ms.sourcegitcommit: a31be0f9d07e2abb591e26f6bae34c6f6e4dcda6
-ms.openlocfilehash: 284d03333af17e8c9bcf94cc20e40f87ee063e24
+ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
+ms.openlocfilehash: 4f63d34f4dffc0a6e8c6aa7f8e3fe72710d9bce5
 ms.contentlocale: ru-ru
-ms.lasthandoff: 05/04/2017
+ms.lasthandoff: 07/07/2017
 
 
 ---
@@ -24,7 +24,8 @@ ms.lasthandoff: 05/04/2017
 
 Выберите заголовок столбца и небольшую стрелку для сортировки по возрастанию или по убыванию.  
 
-**Примечание**. Не поддерживается сортировка изображений, полей BLOB, полей FlowFilter и полей, которые не принадлежат таблице.
+> [!NOTE]  
+>   Не поддерживается сортировка изображений, полей BLOB, полей FlowFilter и полей, которые не принадлежат таблице.
 
 ## <a name="see-also"></a>См. также
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  

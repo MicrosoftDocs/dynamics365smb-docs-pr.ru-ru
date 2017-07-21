@@ -1,6 +1,6 @@
 ---
-title: "Отображение списков в различных представлениях | Документы Майкрософт"
-description: "Отображение списков в различных представлениях"
+title: "Настройка объема подробностей, отображаемых в списках | Документы Майкрософт"
+description: "Списки можно открывать в подробных представлениях, содержащих дополнительные сведения, или в виде плиток, которые удобно просматривать."
 services: project-madeira
 documentationcenter: 
 author: SusanneWindfeldPedersen
@@ -10,17 +10,17 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: personalization
-ms.date: 09/08/2016
+ms.date: 06/02/2017
 ms.author: solsen
 ms.translationtype: Human Translation
-ms.sourcegitcommit: a31be0f9d07e2abb591e26f6bae34c6f6e4dcda6
-ms.openlocfilehash: 0b5ce8ff631061dd2fafb685efb638947f8b6752
+ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
+ms.openlocfilehash: a93843c39c38692fb6a7703b5befedfbc78007a7
 ms.contentlocale: ru-ru
-ms.lasthandoff: 05/04/2017
+ms.lasthandoff: 07/07/2017
 
 
 ---
-# <a name="displaying-lists-in-different-views"></a>Отображение списков в различных представлениях
+# <a name="displaying-lists-in-different-ways"></a>Отображение списков различными способами
 В правом углу любого списка в [!INCLUDE[d365fin](includes/d365fin_md.md)] находятся значки, позволяющие переключать представление списка. Список можно просматривать как подробный список, что является представлением по умолчанию. Однако вы также можете переключиться на представление плиток, в котором содержится меньше информации о конкретных записях, а все операции размещены в виде плиток. Это представление очень полезно для получения общего представления о нескольких операциях, особенно на небольших устройствах, поскольку такой список проще нажимать.
 
 ## <a name="items-list"></a>Список товаров

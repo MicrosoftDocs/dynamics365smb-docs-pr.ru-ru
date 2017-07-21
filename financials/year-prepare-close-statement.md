@@ -1,6 +1,6 @@
 ---
-title: "Подготовка отчетов о закрытии | Документы Майкрософт"
-description: "Содержит обзор отчетов, которые могут быть полезны при закрытии финансового года."
+title: "Обзор отчетов, помогающих готовить отчеты о закрытии | Документы Майкрософт"
+description: "Содержит обзор отчетов, которые можно использовать для сбора информации для подготовки отчетов о закрытии при закрытии финансового года организацией."
 services: project-madeira
 documentationcenter: 
 author: jswymer
@@ -10,13 +10,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: year closing, close accounting period, close fiscal year, aging, creditor payments, vendor payments, assets, liabilities, equity, analysis, reporting, financial report, business intelligence, BI, Power Bi, KPI
-ms.date: 03/21/2017
+ms.date: 06/02/2017
 ms.author: jswymer
 ms.translationtype: Human Translation
-ms.sourcegitcommit: a31be0f9d07e2abb591e26f6bae34c6f6e4dcda6
-ms.openlocfilehash: 2979ac7aa3013b3c7ee70a557db0cc581d546624
+ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
+ms.openlocfilehash: 9070d8d1454b43ccfc25276ac679c099b9e809ab
 ms.contentlocale: ru-ru
-ms.lasthandoff: 05/04/2017
+ms.lasthandoff: 07/07/2017
 
 
 ---
@@ -35,9 +35,10 @@ ms.lasthandoff: 05/04/2017
 | Печать финансового отчета для анализа цифр на счетах главной книги или сравнения фактических операций главной книги с операциями бюджета главной книги. |Финансовый отчет |
 | Проверка согласованности операций книг клиентов и поставщиков с соответствующими операциями главной книги. |Выверка счетов клиента и поставщика |
 
-Чтобы просмотреть отчет, в правом вернем углу щелкните значок **Поиск страницы или отчета** ![Поиск страницы или отчета](media/ui-search/search_small.png "значок "Поиск страницы или отчета""), введите имя так, как оно отображается в таблице, а затем выберите связанную ссылку.
+Чтобы просмотреть отчет, выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите имя в том виде, в котором оно отображается в таблице, а затем щелкните связанную ссылку.
 
 ## <a name="see-also"></a>См. также
 [Закрытие года и периодов](year-close-years-periods.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Бизнес-аналитика](bi.md)
 

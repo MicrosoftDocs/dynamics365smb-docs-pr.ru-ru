@@ -1,6 +1,6 @@
 ---
-title: "Управление сегментами | Документы Майкрософт"
-description: "Описываются сегменты для контактов в Financials."
+title: "Управление сегментами и выбор контактов для | Документация Майкрософт"
+description: "Описываются задачи по созданию сегмента для выбора группы контактов по определенному критерию, например по определенной отрасли, с которой вы хотите взаимодействовать."
 services: project-madeira
 documentationcenter: 
 author: jswymer
@@ -10,13 +10,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: relationship, prospect
-ms.date: 03/28/2017
+ms.date: 06/06/2017
 ms.author: jswymer
 ms.translationtype: Human Translation
-ms.sourcegitcommit: a31be0f9d07e2abb591e26f6bae34c6f6e4dcda6
-ms.openlocfilehash: 430199404ebab6d72f2f7748bb90e5ed3cd223c4
+ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
+ms.openlocfilehash: 2ca2e771e4f7ec141cd152e1f643efad2db1b7dc
 ms.contentlocale: ru-ru
-ms.lasthandoff: 05/04/2017
+ms.lasthandoff: 07/07/2017
 
 
 ---
@@ -34,7 +34,7 @@ ms.lasthandoff: 05/04/2017
 | --- | --- |
 | Создать сегменты, позволяющие выбрать группу контактов. Например, прямая почтовая рассылка. |[Практическое руководство. Создание сегментов](marketing-how-create-segment.md) |
 | Управление контактами, назначенными сегментам. |[Практическое руководство. Добавление контактов к сегментам](marketing-add-contact-segment.md) |
-| Узнайте об использовании взаимодействий и сегментов, включая их регистрацию. |[Взаимодействие и сегменты](marketing-interaction-segments.md) |
+| Узнайте об использовании взаимодействий и сегментов, включая их регистрацию. |[Управление взаимодействием и сегментами](marketing-interaction-segments.md) |
 
 ## <a name="see-also"></a>См. также
 [Управление возможностями продаж](marketing-manage-sales-opportunities.md)  

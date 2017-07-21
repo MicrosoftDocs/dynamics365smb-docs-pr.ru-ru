@@ -1,8 +1,6 @@
 ---
-title: "Использование Dynamics 365 for Financials как источника данных Power BI | Документы Майкрософт"
+title: "Создание источника данных Power BI в Financials | Microsoft Docs"
 description: "Можно сделать данные Financials доступными в качестве источника данных в Power BI и создать мощные отчеты о состоянии вашего бизнеса."
-services: project-madeira
-documentationcenter: 
 author: edupont04
 ms.service: dynamics365-financials
 ms.topic: article
@@ -10,20 +8,21 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: business intelligence, KPI, Odata, Power App, SOAP, analysis
-ms.date: 12/02/2016
+ms.date: 06/06/2017
 ms.author: edupont
 ms.translationtype: Human Translation
-ms.sourcegitcommit: a31be0f9d07e2abb591e26f6bae34c6f6e4dcda6
-ms.openlocfilehash: 5213b515dfdf1f0e538a6d003cf921781ca6b3ff
+ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
+ms.openlocfilehash: 53fb2ae7bbbaf3215ca2549e207512f7c06838b4
 ms.contentlocale: ru-ru
-ms.lasthandoff: 05/04/2017
+ms.lasthandoff: 07/07/2017
 
 
 ---
-# <a name="using-dynamics-365-for-financials-as-a-power-bi-data-source"></a>Использование Dynamics 365 for Financials как источника данных Power BI
+# <a name="using-included365finincludesd365finmdmd-as-a-power-bi-data-source"></a>Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] как источника данных Power BI
 Можно сделать данные [!INCLUDE[d365fin](includes/d365fin_md.md)] доступными в качестве источника данных в Power BI и создать мощные отчеты о состоянии вашего бизнеса.  
 
-**Примечание**. Вы должны иметь допустимую учетную запись в [!INCLUDE[d365fin](includes/d365fin_md.md)] и в Power BI. Кроме того, необходимо загрузить [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/).  
+> [!NOTE]  
+>   Вы должны иметь допустимую учетную запись в [!INCLUDE[d365fin](includes/d365fin_md.md)] и в Power BI. Кроме того, необходимо загрузить [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/).  
 
 ## <a name="to-add-included365finincludesd365finmdmd-as-a-data-source-in-power-bi-desktop"></a>Добавление [!INCLUDE[d365fin](includes/d365fin_md.md)] как источника данных в Power BI Desktop
 1. В Power BI Desktop в левой области навигации выберите **Получить данные**.
@@ -34,9 +33,10 @@ ms.lasthandoff: 05/04/2017
    Для параметра *URL-адрес OData* можно скопировать URL-адрес OData V4 любой из веб-служб, перечисленных на странице **Веб-службы** в [!INCLUDE[d365fin](includes/d365fin_md.md)], например `https://mycompany.financials.dynamics.com:7048/MS/ODataV4/`.  
 
    Для параметра *Название организации* используйте название, которое отображается в поле **Имя** в окне **Информация об организации** в [!INCLUDE[d365fin](includes/d365fin_md.md)]. Если [!INCLUDE[d365fin](includes/d365fin_md.md)] содержит несколько организаций, выберите соответствующее название организации из списка в окне **Организации**. В обоих случаях убедитесь, что название, указываемое в мастере Power BI точно соответствует тексту, отображаемому в [!INCLUDE[d365fin](includes/d365fin_md.md)], например `My Company`.
-3. После ввода информации нажмите кнопку OK. Следующий шаг в мастере — ввод имени пользователя и пароля.
+3. После ввода информации нажмите кнопку ОК. Следующий шаг в мастере — ввод имени пользователя и пароля.
 
-   **Примечание**. Если доступны другие параметры проверки подлинности в левой области навигации, выберите *Базовый*.
+   > [!NOTE]  
+>    Если доступны другие параметры проверки подлинности в левой области навигации, выберите *Базовый*.
 4. Введите имя пользователя и пароль. Эти сведения можно найти в окне **Пользователи** в [!INCLUDE[d365fin](includes/d365fin_md.md)]. Используйте **Ключ веб-доступа** в качестве пароля.
 
    Например, ваше имя пользователя — *ADMIN*, а ключ доступа веб-службы, который используется как пароль, — *EgzeUFQ9Uv0o5O0lUMyqCzo1ueUW9yRF3SsLU=*.
@@ -46,13 +46,14 @@ ms.lasthandoff: 05/04/2017
 6. Укажите данные, которые требуется добавить в модель данных, а затем нажмите кнопку **Загрузить**.
 7. Повторите предыдущие шаги для добавления дополнительных данных [!INCLUDE[d365fin](includes/d365fin_md.md)] в модель данных Power BI.
 
-   **Примечание**. После успешного подключения к [!INCLUDE[d365fin](includes/d365fin_md.md)] вводить URL-адрес OData, имя пользователя или пароль повторно не требуется.
+   > [!NOTE]  
+>    После успешного подключения к [!INCLUDE[d365fin](includes/d365fin_md.md)] вводить URL-адрес OData, имя пользователя или пароль повторно не требуется.
 
 После загрузки данные отобразятся в правой области навигации на странице. На этом шаге вы успешно подключились с данным Dynamics 365 и готовы начать создание отчета Power BI. Дополнительные сведения см. в разделе [Документация Power BI](https://powerbi.microsoft.com/documentation/powerbi-landing-page/).
 
 ## <a name="see-also"></a>См. также
 [Добро пожаловать в [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md)  
 [Импорт бизнес-данных из других финансовых систем](upload-data.md)  
-[Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md)  
+[Установка [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md)  
 [Финансы](finance.md)  
 

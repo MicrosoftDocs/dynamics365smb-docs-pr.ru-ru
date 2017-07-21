@@ -1,6 +1,6 @@
 ---
-title: "Управление дебиторской задолженностью | Документы Майкрософт"
-description: "Управление дебиторской задолженностью"
+title: "Обзор задач для управления дебиторской задолженностью | Документы Майкрософт"
+description: "Описываются задачи по управлению дебиторской задолженностью и применению платежей к операциям книг клиентов и поставщиков."
 services: project-madeira
 documentationcenter: 
 author: SorenGP
@@ -10,13 +10,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: customer payment, debtor, balance due, AR
-ms.date: 03/29/2017
+ms.date: 06/01/2017
 ms.author: sgroespe
 ms.translationtype: Human Translation
-ms.sourcegitcommit: a31be0f9d07e2abb591e26f6bae34c6f6e4dcda6
-ms.openlocfilehash: 62d59546331a5faa5ecb7aea0f9bb8dedea719f9
+ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
+ms.openlocfilehash: 79b64e3cacdf582d4c1737b46dc197929b8a1450
 ms.contentlocale: ru-ru
-ms.lasthandoff: 05/04/2017
+ms.lasthandoff: 07/07/2017
 
 
 ---
@@ -41,7 +41,7 @@ ms.lasthandoff: 05/04/2017
 | Применение платежей к открытым операциям книги клиентов на основании ручного ввода в список неоплаченных документов продажи. |[Практическое руководство. Выверка платежей клиентов вручную из списка неоплаченных документов продажи](receivables-how-reconcile-customer-payments-list-unpaid-sales-documents.md) |
 | Учет приходных кассовых ордеров или возмещений для клиентов в журнале приходных кассовых ордеров и их применение к операциям книги клиентов из журнала или из учтенных операций книги. |[Практическое руководство. Выверка платежей клиентов вручную](receivables-how-apply-sales-transactions-manually.md) |
 | Напоминание клиентам о просроченных суммах, вычисление процентов и финансовых расходов, в также управление дебиторской задолженностью. |[Практическое руководство. Сбор непогашенных остатков задолженности](receivables-collect-outstanding-balances.md) |
-
+|Проверьте, что вам известна себестоимость отгруженных товаров, назначив дополнительную себестоимость товаров, например за транспортировку, физическое обращение, страхование и другие расходы, которые вы несли при продаже.|[Практическое руководство. Использование товарных издержек для учета дополнительных торговых расходов](payables-how-assign-item-charges.md)|
 ## <a name="see-also"></a>См. также
 [Продажи](sales-manage-sales.md)  
 [Управление кредиторской задолженностью](payables-manage-payables.md)  

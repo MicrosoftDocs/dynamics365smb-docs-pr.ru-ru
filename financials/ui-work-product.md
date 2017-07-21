@@ -1,6 +1,6 @@
 ---
-title: "Работа с Financials | Документы Майкрософт"
-description: "Работа с Dynamics 365 for Financials"
+title: "Использование общих функций Dynamics 365 for Financials | Документы Майкрософт"
+description: "Описываются общие функции, которые вы используете для работы с данными в Financials, например ввод значений, сортировка данных и изменение представлений."
 services: 
 documentationcenter: 
 author: SusanneWindfeldPedersen
@@ -9,13 +9,13 @@ ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.date: 01/12/2017
+ms.date: 05/29/2017
 ms.author: solsen
 ms.translationtype: Human Translation
-ms.sourcegitcommit: a31be0f9d07e2abb591e26f6bae34c6f6e4dcda6
-ms.openlocfilehash: 9593131a1c0a18f5599ebbe8a253f007e4fc6c4b
+ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
+ms.openlocfilehash: 0a50b92a952c0d4be2b68dc4278cedd9362348f0
 ms.contentlocale: ru-ru
-ms.lasthandoff: 05/04/2017
+ms.lasthandoff: 07/07/2017
 
 
 ---
@@ -32,14 +32,16 @@ ms.lasthandoff: 05/04/2017
 | См. поля, которые должны быть заполнены. |[Обязательные поля](ui-mandatory-fields.md) |
 | Используйте поиск для поиска определенных страниц или отчетов. |[Использование поиска страницы или отчета](ui-search.md) |
 | Узнайте о том, как сортировать данные. |[Сортировка](ui-sorting.md) |
-| Измените способ просмотра списков, например списков клиентов, поставщиков или товаров. |[Отображение списков в различных представлениях](across-display-lists-different-views.md) |
+| Измените способ просмотра списков, например списков клиентов, поставщиков или товаров. |[Отображение списков различными способами](across-display-lists-different-views.md) |
 | Изменяйте цветной индикатор в очередях. |[Практическое руководство. Настройка цветного индикатора в очередях](ui-how-setup-colored-indicator-cues.md) |
 | Изменение базовых настроек, таких как организация или рабочая дата. |[Изменение базовых настроек](ui-change-basic-settings.md) |
 | Измените ролевой центр и связанную домашнюю страницу в соответствии с ролью. |[Практическое руководство. Изменение ролевого центра](change-role.md) |
 | Измените поля и действия, которые будут отображаться в пользовательском интерфейсе, в соответствии с бизнес-процессами вашей организации. |[Настройка взаимодействия [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-experiences.md) |
+| Получение отчетов для отображения данных для определенных диапазонов дат. |[Ввод диапазонов дат в Dynamics 365 for Financials](ui-enter-date-ranges.md) |
 
 ## <a name="see-also"></a>См. также
 [Общие бизнес-функции](ui-across-business-areas.md)  
 [Настройка взаимодействия [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-experiences.md)  
 
 ## [!INCLUDE[d365fin](includes/free_trial_md.md)]
+

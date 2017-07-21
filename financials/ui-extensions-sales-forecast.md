@@ -1,6 +1,6 @@
 ---
-title: "Прогноз продаж и запасов | Документы Майкрософт"
-description: "Предоставляет информацию о расширении &quot;Прогноз запасов и продаж&quot;."
+title: "Использование расширения \"Прогноз продаж и запасов\" для управления запасами | Документы Майкрософт"
+description: "Это расширение позволяет вам предсказывать продажи, получать четкую информацию о товарах, которые скоро закончатся, и даже создавать запросы на пополнение для поставщиков."
 services: project-madeira
 documentationcenter: 
 author: edupont04
@@ -13,10 +13,10 @@ ms. search.keywords: app, add-in, manifest, customize, budget
 ms.date: 03/29/2017
 ms.author: edupont
 ms.translationtype: Human Translation
-ms.sourcegitcommit: a31be0f9d07e2abb591e26f6bae34c6f6e4dcda6
-ms.openlocfilehash: ebaea8b98264e981f9ad2e0abda592e2e4a72427
+ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
+ms.openlocfilehash: a0cac0236611c90d3d1fdf1bae9deaaeb235b540
 ms.contentlocale: ru-ru
-ms.lasthandoff: 05/04/2017
+ms.lasthandoff: 07/07/2017
 
 
 ---

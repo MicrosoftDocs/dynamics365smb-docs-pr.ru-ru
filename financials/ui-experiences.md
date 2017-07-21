@@ -1,6 +1,6 @@
 ---
-title: "Настройка взаимодействия Dynamics 365 for Financials | Документы Майкрософт"
-description: "Узнайте, что означают уровни взаимодействия с пользователем в Dynamics 365 for Financials."
+title: "Настройка интерфейса, чтобы отображать или скрывать расширенные функции | Документы Майкрософт"
+description: "Узнайте о вариантах настройки \"Базовая\" и \"Пакет\" — что это значит с точки зрения пользовательского интерфейса, областей приложения и вашей организации в Dynamics 365 for Financials."
 documentationcenter: 
 author: edupont04
 ms.service: dynamics365-financials
@@ -8,14 +8,14 @@ ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms. search.keywords: Suite, Basic, user interface, application area
+ms.search.keywords: Suite, Basic, user interface, application area
 ms.date: 03/29/2017
 ms.author: edupont
 ms.translationtype: Human Translation
-ms.sourcegitcommit: a31be0f9d07e2abb591e26f6bae34c6f6e4dcda6
-ms.openlocfilehash: 6b9dcc81565818deec3100e182eb2fbd0e4c69a3
+ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
+ms.openlocfilehash: 6add50f8d24d75e58abd12d110c881628d1fa6d9
 ms.contentlocale: ru-ru
-ms.lasthandoff: 05/04/2017
+ms.lasthandoff: 07/07/2017
 
 
 ---
@@ -25,7 +25,8 @@ ms.lasthandoff: 05/04/2017
 ## <a name="choosing-a-user-experience"></a>Выбор взаимодействия с пользователем
 Взаимодействие с пользователем определяет, какая часть базовой функциональности доступна, когда вы и ваши коллеги используют [!INCLUDE[d365fin](includes/d365fin_md.md)]. Взаимодействие с пользователем можно выбрать в окне **Информация об организации** в поле **Взаимодействие**.
 
-**Примечание**. Эта настройка относится ко всем пользователям в вашей организации.
+> [!NOTE]  
+>   Эта настройка относится ко всем пользователям в вашей организации.
 
 ![Опыт](media/ui-experience/experience.gif)
 

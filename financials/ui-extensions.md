@@ -1,7 +1,6 @@
 ---
-title: "Настройка Dynamics 365 for Financials с помощью расширений | Документы Майкрософт"
-description: "Настройка Dynamics 365 for Financials с помощью расширений"
-services: project-madeira
+title: "Установка расширений для настройки Dynamics 365 for Financials | Документы Майкрософт"
+description: "Узнайте о добавлении функций и настройке Dynamics 365 for Financials путем установки расширений."
 documentationcenter: 
 author: edupont04
 ms.service: dynamics365-financials
@@ -9,14 +8,14 @@ ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms. search.keywords: app, add-in, manifest, customize
-ms.date: 04/24/2017
+ms.search.keywords: app, add-in, manifest, customize
+ms.date: 07/05/2017
 ms.author: edupont
 ms.translationtype: Human Translation
-ms.sourcegitcommit: a31be0f9d07e2abb591e26f6bae34c6f6e4dcda6
-ms.openlocfilehash: 1de01d9944489f862dfc6db145c1542c3d0dd2e3
+ms.sourcegitcommit: 85d15de13739e944ff8817b402b37ae1c7e1b144
+ms.openlocfilehash: 6bf7d2024ff9f0254e1d885580126fb16c0c6fce
 ms.contentlocale: ru-ru
-ms.lasthandoff: 05/04/2017
+ms.lasthandoff: 07/07/2017
 
 
 ---
@@ -29,13 +28,15 @@ ms.lasthandoff: 05/04/2017
 
 Управление расширениями осуществляется в окне **Управление расширениями**. Это окно доступно с начальной страницы. Либо в правом вернем углу щелкните значок **Поиск страницы или отчета** ![Поиск страницы или отчета](media/ui-search/search_small.png "значок "Поиск страницы или отчета""), введите **Расширение** и выберите связанную ссылку.  
 
-**Примечание**. Если вы считаете, что у вас должен быть доступ к расширению, но вы не можете найти его функциональные возможности, проверьте окно **Управление расширениями**. Если расширение не указано в списке, вы можете установить его, как описано в следующем разделе.  
+> [!NOTE]  
+>   Если вы считаете, что у вас должен быть доступ к расширению, но вы не можете найти его функциональные возможности, проверьте окно **Управление расширениями**. Если расширение не указано в списке, вы можете установить его, как описано в следующем разделе.  
 
 ## <a name="installing-an-extension"></a>Установка расширения
-Новые расширения новые получить из магазина по адресу [AppSource.microsoft.com](https://appsource.microsoft.com/). Здесь отображаются все доступные расширения для [!INCLUDE[d365fin](includes/d365fin_md.md)], и можно получить приложения, расширения и пакеты содержимого для других продуктов Майкрософт. Установите соответствующие фильтры, просмотрите информацию для каждого расширения и получите расширение для [!INCLUDE[d365fin](includes/d365fin_md.md)].  
-**Примечание**. Войдите на сайт [AppSource.microsoft.com](https://appsource.microsoft.com/), используя учетную запись электронной почты, которая используется для [!INCLUDE[d365fin](includes/d365fin_md.md)]. Для удобства используйте эту же учетную запись для других служб и продуктов.  
+Новые расширения новые получить из магазина по адресу [AppSource.microsoft.com](https://appsource.microsoft.com/en-us/marketplace/apps?product=dynamics-365%3Bdynamics-365-for-financials&page=1). Здесь отображаются все доступные расширения для [!INCLUDE[d365fin](includes/d365fin_md.md)], и можно получить приложения, расширения и пакеты содержимого для других продуктов Майкрософт. Установите соответствующие фильтры, просмотрите информацию для каждого расширения и получите расширение для [!INCLUDE[d365fin](includes/d365fin_md.md)].  
+> [!NOTE]  
+>   Войдите на сайт [AppSource.microsoft.com](https://appsource.microsoft.com/), используя учетную запись электронной почты, которая используется для [!INCLUDE[d365fin](includes/d365fin_md.md)]. Для удобства используйте эту же учетную запись для других служб и продуктов.  
 
-Можно также перейти в магазин из [!INCLUDE[d365fin](includes/d365fin_md.md)]. В окне **Управление расширениями** отображаются все текущие установленные расширения, и можно открыть страницу **Магазин расширений**, на которой отображаются расширения для [!INCLUDE[d365fin](includes/d365fin_md.md)], доступные на данный момент на сайте AppSource. Если выбрать ссылку *Еще приложения*, производится переход на сайт [AppSource.microsoft.com](https://appsource.microsoft.com/).  
+Можно также перейти в магазин из [!INCLUDE[d365fin](includes/d365fin_md.md)]. В окне **Управление расширениями** отображаются все текущие установленные расширения, и можно открыть страницу **Магазин расширений**, на которой отображаются расширения для [!INCLUDE[d365fin](includes/d365fin_md.md)], доступные на данный момент на сайте AppSource. Если выбрать ссылку *Еще приложения*, производится переход на сайт [AppSource.microsoft.com](https://appsource.microsoft.com/en-us/marketplace/apps?product=dynamics-365%3Bdynamics-365-for-financials&page=1).  
 
 Если вы выберите расширение, вы можете прочитать о его возможностях и открыть справку по расширению для получения более подробной информации. Если вы хотите получить расширение, необходимо согласиться с условиями использования. Если вы получили расширение с веб-сайта AppSource, для завершения установки выполняется вход в [!INCLUDE[d365fin](includes/d365fin_md.md)].  
 
@@ -57,6 +58,12 @@ ms.lasthandoff: 05/04/2017
 * [Импорт файла зарплаты Quickbooks](ui-extensions-quickbooks-payroll.md)  
 * [WorldPay Payments Standard](ui-extensions-worldpay-payments-standard.md)
 * [Почтовые индексы Великобритании GetAddress.io](ui-extensions-getaddressio.md)
+* [Миграция данных QuickBooks Online](ui-extensions-quickbooks-online-data-migration.md)
+* [Портал бухгалтера](ui-extensions-accountant-portal.md)  
+* [Анализатор изображений](ui-extensions-image-analyzer.md)
+
+> [!NOTE]  
+>  Новые расширения не становятся доступными в AppSource сразу после объявления об обновлении. Вы можете следить за расширениями на сайте [AppSource.microsoft.com](https://appsource.microsoft.com/en-us/marketplace/apps?product=dynamics-365%3Bdynamics-365-for-financials&page=1).
 
 ## <a name="see-also"></a>См. также
 [Практическое руководство. Настройка службы банковских выписок Envestnet Yodlee](bank-how-setup-bank-statement-service.md)  
@@ -67,3 +74,4 @@ ms.lasthandoff: 05/04/2017
 [Добро пожаловать в [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md)  
 
 ## [!INCLUDE[d365fin](includes/free_trial_md.md)]
+

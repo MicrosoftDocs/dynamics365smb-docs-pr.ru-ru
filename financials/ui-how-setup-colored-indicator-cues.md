@@ -1,6 +1,6 @@
 ---
-title: "Практическое руководство. Настройка цветного индикатора в очередях | Документы Майкрософт"
-description: "Узнайте, как использовать цветной индикатор в очередях в ролевом центре."
+title: "Настройка цветных индикаторов, чтобы задать визуальные обозначения действий очереди | Документы Майкрософт"
+description: "Настраивайте цветные индикаторы на плитке очереди, чтобы установить индивидуальные обозначения действий очереди."
 services: project-madeira
 documentationcenter: 
 author: SusanneWindfeldPedersen
@@ -13,10 +13,10 @@ ms.search.keywords: personalize, customize
 ms.date: 03/29/2017
 ms.author: solsen
 ms.translationtype: Human Translation
-ms.sourcegitcommit: a31be0f9d07e2abb591e26f6bae34c6f6e4dcda6
-ms.openlocfilehash: 3c5aff53c522729a95763485eb79d13c0f051831
+ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
+ms.openlocfilehash: 0cb10770954f485d9c0a3474615e6c69411de321
 ms.contentlocale: ru-ru
-ms.lasthandoff: 05/04/2017
+ms.lasthandoff: 07/07/2017
 
 
 ---
@@ -38,7 +38,7 @@ ms.lasthandoff: 05/04/2017
 
 | Параметр | Цвет |
 | --- | --- |
-| **Нет** |Без цвета (цвет плитки очереди) |
+| **Нет** |Без цвета (цвет плитки очереди |
 | **Положительный** |Зеленый |
 | **Отрицательный** |Красный |
 | **Нераспознанные** |Желтый |
