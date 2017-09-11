@@ -20,42 +20,42 @@ ms.lasthandoff: 07/07/2017
 
 
 ---
-# <a name="how-to-suggest-vendor-payments"></a>Как предложить оплаты поставщикам
-В окне **Журнал платежей** можно использовать пакетное задание **Предлож. оплаты поставщикам** для предложения строк платежей. Строки для таких элементов, как платежи, для которых скоро наступает крайний срок, или платежей, для которых доступна скидка, предлагаются на основании ваших настроек.
+# <a name="how-to-suggest-vendor-payments"></a><span data-ttu-id="40a6a-103">Как предложить оплаты поставщикам</span><span class="sxs-lookup"><span data-stu-id="40a6a-103">How to: Suggest Vendor Payments</span></span>
+<span data-ttu-id="40a6a-104">В окне **Журнал платежей** можно использовать пакетное задание **Предлож. оплаты поставщикам** для предложения строк платежей.</span><span class="sxs-lookup"><span data-stu-id="40a6a-104">In the **Payment Journal** window, you can use the **Suggest Vendor Payments** batch job to suggest payment lines.</span></span> <span data-ttu-id="40a6a-105">Строки для таких элементов, как платежи, для которых скоро наступает крайний срок, или платежей, для которых доступна скидка, предлагаются на основании ваших настроек.</span><span class="sxs-lookup"><span data-stu-id="40a6a-105">Lines for things like payments that are due soon, or payments where a payment discount is available, are suggested based on your settings.</span></span>
 
-Чтобы максимально эффективно использовать предложенные строки, необходимо сначала назначить приоритеты поставщикам. Дополнительные сведения см. в разделе [Практическое руководство. Назначение приоритетов поставщикам](purchasing-how-prioritize-vendors.md).  
+<span data-ttu-id="40a6a-106">Чтобы максимально эффективно использовать предложенные строки, необходимо сначала назначить приоритеты поставщикам.</span><span class="sxs-lookup"><span data-stu-id="40a6a-106">To benefit fully from suggested lines, you must first prioritize your vendors.</span></span> <span data-ttu-id="40a6a-107">Дополнительные сведения см. в разделе [Практическое руководство. Назначение приоритетов поставщикам](purchasing-how-prioritize-vendors.md).</span><span class="sxs-lookup"><span data-stu-id="40a6a-107">For more information, see [How to: Prioritize Vendors](purchasing-how-prioritize-vendors.md).</span></span>  
 
-Операции поставщиков, которые не **На удержании**, не включаются.  
-
-> [!IMPORTANT]  
->   Если вы хотите воспользоваться скидками оплаты и ввели доступную сумму, сумма будет использоваться для:  
-
-* Сначала по просроченным операциям поставщиков с назначенными приоритетами.  
-* По просроченным операциям поставщиков, которым не назначены приоритеты.  
-* Для открытых операций поставщиков, которые квалифицируются по скидкам оплаты в порядке номеров поставщиков.  
-
-## <a name="to-use-the-suggest-vendor-payments-function"></a>Использование функции предложения оплаты поставщикам
-1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Журналы платежей**, а затем выберите связанную ссылку.  
-2. Откройте соответствующий журнал, а затем выберите действие **Предлож. оплаты поставщикам**.  
-3. Заполните соответствующим образом поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
-4. Нажмите кнопку **ОК**.  
-
-## <a name="to-insert-the-due-date-as-posting-date-on-payment-journal-lines"></a>Вставка срока оплаты в качестве даты учета в строках журнала платежей
-При использовании пакетного задания **Предлож. оплаты поставщикам** для создания строк платежей для поставщиков можно также заполнить два специальных поля, чтобы убедиться, что в созданных строках используется дата оплаты для вычисления даты учета. Это поля **Рассчитать дату учета на основе срока оплаты примен. документа** и **Примен. смещения срока оплаты документа**.  
+<span data-ttu-id="40a6a-108">Операции поставщиков, которые не **На удержании**, не включаются.</span><span class="sxs-lookup"><span data-stu-id="40a6a-108">Vendor entries that are not **On Hold** are not included.</span></span>  
 
 > [!IMPORTANT]  
->   Невозможно использовать поле **Рассчитать дату учета на основе срока оплаты примен. документа** вместе с полем **Найти скидки оплаты** или **Суммировать по поставщикам**. Если дата учета основана на дате оплаты, некоторые скидки по оплате могут вычисляться неверно, поскольку дата учета следует после даты скидки по оплате.  
+>   <span data-ttu-id="40a6a-109">Если вы хотите воспользоваться скидками оплаты и ввели доступную сумму, сумма будет использоваться для:</span><span class="sxs-lookup"><span data-stu-id="40a6a-109">If you want to take advantage of payment discounts, and have entered an available amount, the amount will be used for:</span></span>  
 
-Кроме того, если расчетная дата учета уже прошла, дата учета будет изменена на рабочую дату и отобразится предупреждение.  
+* <span data-ttu-id="40a6a-110">Сначала по просроченным операциям поставщиков с назначенными приоритетами.</span><span class="sxs-lookup"><span data-stu-id="40a6a-110">Prioritized overdue vendor entries first in order of priority.</span></span>  
+* <span data-ttu-id="40a6a-111">По просроченным операциям поставщиков, которым не назначены приоритеты.</span><span class="sxs-lookup"><span data-stu-id="40a6a-111">Overdue vendor entries that are not prioritized.</span></span>  
+* <span data-ttu-id="40a6a-112">Для открытых операций поставщиков, которые квалифицируются по скидкам оплаты в порядке номеров поставщиков.</span><span class="sxs-lookup"><span data-stu-id="40a6a-112">Open vendor entries that qualify for payment discounts, arranged by vendor number.</span></span>  
 
-Либо можно вручную создать строки платежа с использованием срока оплаты для вычисления даты учета. После применения операций книги поставщиков можно использовать действие **Расчет даты учета** для обновления даты учета в строку журнала сроком оплаты связанного счета покупки. Дополнительные сведения см. в разделе [Практическое руководство. Применение транзакций платежей вручную](payables-how-apply-purchase-transactions-manually.md).  
+## <a name="to-use-the-suggest-vendor-payments-function"></a><span data-ttu-id="40a6a-113">Использование функции предложения оплаты поставщикам</span><span class="sxs-lookup"><span data-stu-id="40a6a-113">To use the Suggest Vendor Payments function</span></span>
+1. <span data-ttu-id="40a6a-114">Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Журналы платежей**, а затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="40a6a-114">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Payment Journals**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="40a6a-115">Откройте соответствующий журнал, а затем выберите действие **Предлож. оплаты поставщикам**.</span><span class="sxs-lookup"><span data-stu-id="40a6a-115">Open the relevant journal, and then choose the **Suggest Vendor Payments** action.</span></span>  
+3. <span data-ttu-id="40a6a-116">Заполните соответствующим образом поля.</span><span class="sxs-lookup"><span data-stu-id="40a6a-116">Fill in the fields as necessary.</span></span> [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
+4. <span data-ttu-id="40a6a-117">Нажмите кнопку **ОК**.</span><span class="sxs-lookup"><span data-stu-id="40a6a-117">Choose the **OK** button.</span></span>  
+
+## <a name="to-insert-the-due-date-as-posting-date-on-payment-journal-lines"></a><span data-ttu-id="40a6a-118">Вставка срока оплаты в качестве даты учета в строках журнала платежей</span><span class="sxs-lookup"><span data-stu-id="40a6a-118">To insert the due date as posting date on payment journal lines</span></span>
+<span data-ttu-id="40a6a-119">При использовании пакетного задания **Предлож. оплаты поставщикам** для создания строк платежей для поставщиков можно также заполнить два специальных поля, чтобы убедиться, что в созданных строках используется дата оплаты для вычисления даты учета.</span><span class="sxs-lookup"><span data-stu-id="40a6a-119">When you use the **Suggest Vendor Payments** batch job to create payment lines for your vendors, you can fill two special fields to make sure that the generated lines use the due date to calculate the posting date.</span></span> <span data-ttu-id="40a6a-120">Это поля **Рассчитать дату учета на основе срока оплаты примен. документа** и **Примен. смещения срока оплаты документа**.</span><span class="sxs-lookup"><span data-stu-id="40a6a-120">These fields are **Calculate Posting Date from Applies-to-Doc Due Date** and **Applies-to-Doc Due Date Offset**.</span></span>  
+
+> [!IMPORTANT]  
+>   <span data-ttu-id="40a6a-121">Невозможно использовать поле **Рассчитать дату учета на основе срока оплаты примен. документа** вместе с полем **Найти скидки оплаты** или **Суммировать по поставщикам**.</span><span class="sxs-lookup"><span data-stu-id="40a6a-121">You cannot use the **Calculate Posting Date from Applies-to-Doc Due Date** field together with the **Find Payment Discounts** field or the **Summarize per Vendor** field.</span></span> <span data-ttu-id="40a6a-122">Если дата учета основана на дате оплаты, некоторые скидки по оплате могут вычисляться неверно, поскольку дата учета следует после даты скидки по оплате.</span><span class="sxs-lookup"><span data-stu-id="40a6a-122">If the posting date is based on the due date, some payment discounts may not calculate correctly because the posting date is after the payment discount date.</span></span>  
+
+<span data-ttu-id="40a6a-123">Кроме того, если расчетная дата учета уже прошла, дата учета будет изменена на рабочую дату и отобразится предупреждение.</span><span class="sxs-lookup"><span data-stu-id="40a6a-123">Also, if the calculated posting date is in the past, then the posting date is moved up to the work date, and a warning is displayed.</span></span>  
+
+<span data-ttu-id="40a6a-124">Либо можно вручную создать строки платежа с использованием срока оплаты для вычисления даты учета.</span><span class="sxs-lookup"><span data-stu-id="40a6a-124">Alternatively, you can manually create payment lines using the due date to calculate the posting date.</span></span> <span data-ttu-id="40a6a-125">После применения операций книги поставщиков можно использовать действие **Расчет даты учета** для обновления даты учета в строку журнала сроком оплаты связанного счета покупки.</span><span class="sxs-lookup"><span data-stu-id="40a6a-125">After you apply vendor ledger entries, you can use the **Calculate Posting Date** action to update the posting date on the journal line with the due date of the related purchase invoice.</span></span> <span data-ttu-id="40a6a-126">Дополнительные сведения см. в разделе [Практическое руководство. Применение транзакций платежей вручную](payables-how-apply-purchase-transactions-manually.md).</span><span class="sxs-lookup"><span data-stu-id="40a6a-126">For more information, see [How to: Apply Purchase Transactions Manually](payables-how-apply-purchase-transactions-manually.md).</span></span>  
 
 > [!NOTE]  
->   Если счет покупки просрочен, в качестве даты учета устанавливается рабочая дата и цвет шрифта в строке меняется на красный.  
+>   <span data-ttu-id="40a6a-127">Если счет покупки просрочен, в качестве даты учета устанавливается рабочая дата и цвет шрифта в строке меняется на красный.</span><span class="sxs-lookup"><span data-stu-id="40a6a-127">If the purchase invoice is overdue, the posting date is set to the work date, and the font on the line becomes red.</span></span>  
 
-## <a name="see-also"></a>См. также
-[Управление кредиторской задолженностью](payables-manage-payables.md)  
-[Осуществление платежей](payables-make-payments.md)  
-[Работа с финансовыми журналами](ui-work-general-journals.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+## <a name="see-also"></a><span data-ttu-id="40a6a-128">См. также</span><span class="sxs-lookup"><span data-stu-id="40a6a-128">See Also</span></span>
+[<span data-ttu-id="40a6a-129">Управление кредиторской задолженностью</span><span class="sxs-lookup"><span data-stu-id="40a6a-129">Managing Payables</span></span>](payables-manage-payables.md)  
+[<span data-ttu-id="40a6a-130">Осуществление платежей</span><span class="sxs-lookup"><span data-stu-id="40a6a-130">Make Payments</span></span>](payables-make-payments.md)  
+[<span data-ttu-id="40a6a-131">Работа с финансовыми журналами</span><span class="sxs-lookup"><span data-stu-id="40a6a-131">Working with General Journals</span></span>](ui-work-general-journals.md)  
+<span data-ttu-id="40a6a-132">[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="40a6a-132">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>  
 

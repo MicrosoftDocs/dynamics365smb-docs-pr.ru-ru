@@ -16,44 +16,43 @@ ms.translationtype: Human Translation
 ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
 ms.openlocfilehash: 42e5357eb78df09437bbd22a288f4e583de27e67
 ms.contentlocale: ru-ru
-ms.lasthandoff: 07/07/2017
-
+ms.lasthandoff: 09/11/2017
 
 ---
-# <a name="how-to-create-interactions-on-contacts-and-segments"></a>Практическое руководство. Создание взаимодействий для контактов и сегментов
-Можно создавать взаимодействия для того, чтобы регистрировать все взаимодействия и коммуникации с контактами и сегментами, например, прямые почтовые рассылки.
+# <a name="how-to-create-interactions-on-contacts-and-segments"></a><span data-ttu-id="a61db-103">Практическое руководство. Создание взаимодействий для контактов и сегментов</span><span class="sxs-lookup"><span data-stu-id="a61db-103">How to: Create Interactions on Contacts and Segments</span></span>
+<span data-ttu-id="a61db-104">Можно создавать взаимодействия для того, чтобы регистрировать все взаимодействия и коммуникации с контактами и сегментами, например, прямые почтовые рассылки.</span><span class="sxs-lookup"><span data-stu-id="a61db-104">You can create interactions to record all the interactions and communications you have with your contacts and segments, for example, direct mail.</span></span>
 
-Перед созданием взаимодействий следует настроить шаблоны взаимодействия. Дополнительные сведения см. в разделе [Настройка шаблона взаимодействий](marketing-interactions.md).
+<span data-ttu-id="a61db-105">Перед созданием взаимодействий следует настроить шаблоны взаимодействия.</span><span class="sxs-lookup"><span data-stu-id="a61db-105">Before you create interactions, you must set up interaction templates.</span></span> <span data-ttu-id="a61db-106">Дополнительные сведения см. в разделе [Настройка шаблона взаимодействий](marketing-interactions.md).</span><span class="sxs-lookup"><span data-stu-id="a61db-106">For more information, see  [Set Up Interaction Templates](marketing-interactions.md).</span></span>
 
-## <a name="to-create-an-interaction"></a>Создание взаимодействия
-1. Откройте контакт, менеджера по продажам или операцию журнала взаимодействий.
-2. Выберите действие **Создать взаимодействие**.
-3. Заполните поля и нажмите кнопку **ОК**.
+## <a name="to-create-an-interaction"></a><span data-ttu-id="a61db-107">Создание взаимодействия</span><span class="sxs-lookup"><span data-stu-id="a61db-107">To create an interaction</span></span>
+1. <span data-ttu-id="a61db-108">Откройте контакт, менеджера по продажам или операцию журнала взаимодействий.</span><span class="sxs-lookup"><span data-stu-id="a61db-108">Open the contact, salesperson, or interaction log entry.</span></span>
+2. <span data-ttu-id="a61db-109">Выберите действие **Создать взаимодействие**.</span><span class="sxs-lookup"><span data-stu-id="a61db-109">Choose the **Create Interaction** action.</span></span>
+3. <span data-ttu-id="a61db-110">Заполните поля и нажмите кнопку **ОК**.</span><span class="sxs-lookup"><span data-stu-id="a61db-110">Fill in the fields, and then choose the **OK** button.</span></span>
 
 > [!NOTE]  
->   Если необходимо выполнить другую задачу до завершения взаимодействия, можно нажать **Отмена** и завершить взаимодействие позднее. Взаимодействие будет отложено.
+>   <span data-ttu-id="a61db-111">Если необходимо выполнить другую задачу до завершения взаимодействия, можно нажать **Отмена** и завершить взаимодействие позднее.</span><span class="sxs-lookup"><span data-stu-id="a61db-111">If you need to perform another task before finishing the interaction, you can choose **Cancel** and then finish the interaction at a later time.</span></span> <span data-ttu-id="a61db-112">Взаимодействие будет отложено.</span><span class="sxs-lookup"><span data-stu-id="a61db-112">This postpones the interaction.</span></span>
 
-## <a name="to-finish-and-delete-postponed-interactions"></a>Завершение и удаление отложенных взаимодействий
-1. Откройте контакт, менеджера по продажам или операцию журнала взаимодействий.
-2. Выберите **Отложенные взаимодействия**.
-3. Выберите взаимодействие, которое требуется завершить, а затем выберите действие **Возобновить**.
+## <a name="to-finish-and-delete-postponed-interactions"></a><span data-ttu-id="a61db-113">Завершение и удаление отложенных взаимодействий</span><span class="sxs-lookup"><span data-stu-id="a61db-113">To finish and delete postponed interactions</span></span>
+1. <span data-ttu-id="a61db-114">Откройте контакт, менеджера по продажам или операцию журнала взаимодействий.</span><span class="sxs-lookup"><span data-stu-id="a61db-114">Open the contact, salesperson, or interaction log entry.</span></span>
+2. <span data-ttu-id="a61db-115">Выберите **Отложенные взаимодействия**.</span><span class="sxs-lookup"><span data-stu-id="a61db-115">Choose **Postponed Interactions**.</span></span>
+3. <span data-ttu-id="a61db-116">Выберите взаимодействие, которое требуется завершить, а затем выберите действие **Возобновить**.</span><span class="sxs-lookup"><span data-stu-id="a61db-116">Select the interaction you want to finish, and then choose the **Resume** action.</span></span>
 
-## <a name="to-create-an-interaction-on-a-segment"></a>Создание взаимодействия для сегмента
-1. На начальной странице выберите **Активные сегменты** или выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Сегменты**, а затем выберите связанную ссылку.
-2. В окне **Сегмент** в разделе **Взаимодействие** заполните поля, чтобы указать, какое взаимодействие следует назначить сегменту.
+## <a name="to-create-an-interaction-on-a-segment"></a><span data-ttu-id="a61db-117">Создание взаимодействия для сегмента</span><span class="sxs-lookup"><span data-stu-id="a61db-117">To create an interaction on a segment</span></span>
+1. <span data-ttu-id="a61db-118">На начальной странице выберите **Активные сегменты** или выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Сегменты**, а затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="a61db-118">On the Home page, choose **Active Segments**, or choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Segments**, and then choose the related link.</span></span>
+2. <span data-ttu-id="a61db-119">В окне **Сегмент** в разделе **Взаимодействие** заполните поля, чтобы указать, какое взаимодействие следует назначить сегменту.</span><span class="sxs-lookup"><span data-stu-id="a61db-119">In the **Segment window**, in the **Interaction** section, fill in the fields to specify which interaction you want to assign to the segment.</span></span>
 
-    После назначения взаимодействия сегменту можно персонализировать взаимодействие для каждого отдельного контакта внутри сегмента, например, выбрав другой шаблон взаимодействия в строках окна **Сегмент**.  
-3. Чтобы зарегистрировать сегмент и взаимодействия, выберите действие **Журнал**. Откроется окно **Регистрировать сегмент**.
-4. Если необходимо создать новый сегмент с такими же контактами, установите флажок **Создать контрольный сегмент**. Чтобы создать контрольный сегмент, необходимо указать серии номеров для сегментов в окне **Маркетинг - настройка**.
+    <span data-ttu-id="a61db-120">После назначения взаимодействия сегменту можно персонализировать взаимодействие для каждого отдельного контакта внутри сегмента, например, выбрав другой шаблон взаимодействия в строках окна **Сегмент**.</span><span class="sxs-lookup"><span data-stu-id="a61db-120">After you have assigned an interaction to the segment, you can personalize the interaction for each particular contact within the segment, for example, by selecting another interaction template on the lines in the **Segment** window.</span></span>  
+3. <span data-ttu-id="a61db-121">Чтобы зарегистрировать сегмент и взаимодействия, выберите действие **Журнал**.</span><span class="sxs-lookup"><span data-stu-id="a61db-121">To log the segment and interactions, choose the **Log** action.</span></span> <span data-ttu-id="a61db-122">Откроется окно **Регистрировать сегмент**.</span><span class="sxs-lookup"><span data-stu-id="a61db-122">The **Log Segment** window opens.</span></span>
+4. <span data-ttu-id="a61db-123">Если необходимо создать новый сегмент с такими же контактами, установите флажок **Создать контрольный сегмент**.</span><span class="sxs-lookup"><span data-stu-id="a61db-123">If you want to create a new segment containing the same contacts, select the **Create Follow-up Segment** check box.</span></span> <span data-ttu-id="a61db-124">Чтобы создать контрольный сегмент, необходимо указать серии номеров для сегментов в окне **Маркетинг - настройка**.</span><span class="sxs-lookup"><span data-stu-id="a61db-124">To create a follow-up segment, you must have specified number series for segments in the **Marketing Setup** window.</span></span>
 
-Взаимодействие записывается для каждого контакта внутри сегмента в таблице **Журнал взаимодействия**, а сегмент регистрируется. Фиксированные сегменты могут быть найдены в окне **Зарегистрированный cегмент**.
+<span data-ttu-id="a61db-125">Взаимодействие записывается для каждого контакта внутри сегмента в таблице **Журнал взаимодействия**, а сегмент регистрируется.</span><span class="sxs-lookup"><span data-stu-id="a61db-125">An interaction is recorded for each contact within the segment in the **Interaction Log Entry** table, and the segment is logged.</span></span> <span data-ttu-id="a61db-126">Фиксированные сегменты могут быть найдены в окне **Зарегистрированный cегмент**.</span><span class="sxs-lookup"><span data-stu-id="a61db-126">Logged segments can be found in the **Logged Segment** window.</span></span>
 
-Если установлен флажок в поле **Создать контрольный сегмент**, программа автоматически создает новый сегмент, содержащий те же контакты, что и только что зарегистрированный.
+<span data-ttu-id="a61db-127">Если установлен флажок в поле **Создать контрольный сегмент**, программа автоматически создает новый сегмент, содержащий те же контакты, что и только что зарегистрированный.</span><span class="sxs-lookup"><span data-stu-id="a61db-127">If you have selected the **Create Follow-up Segment** check box, a new segment is created that contains the same contacts as the segment you have just logged.</span></span>
 
-## <a name="see-also"></a>См. также
-[Регистрация взаимодействий](marketing-interactions.md)  
-[Управление контактами](marketing-contacts.md)  
-[Управление возможностями продаж](marketing-manage-sales-opportunities.md)  
-[Настройка управления отношениями](marketing-setup-marketing.md)  
-[Работа с Financials](ui-work-product.md)
+## <a name="see-also"></a><span data-ttu-id="a61db-128">См. также</span><span class="sxs-lookup"><span data-stu-id="a61db-128">See Also</span></span>
+[<span data-ttu-id="a61db-129">Регистрация взаимодействий</span><span class="sxs-lookup"><span data-stu-id="a61db-129">Recording Interactions</span></span>](marketing-interactions.md)  
+[<span data-ttu-id="a61db-130">Управление контактами</span><span class="sxs-lookup"><span data-stu-id="a61db-130">Managing Contacts</span></span>](marketing-contacts.md)  
+[<span data-ttu-id="a61db-131">Управление возможностями продаж</span><span class="sxs-lookup"><span data-stu-id="a61db-131">Managing Sales Opportunities</span></span>](marketing-manage-sales-opportunities.md)  
+[<span data-ttu-id="a61db-132">Настройка управления отношениями</span><span class="sxs-lookup"><span data-stu-id="a61db-132">Setting Up Relationship Management</span></span>](marketing-setup-marketing.md)  
+[<span data-ttu-id="a61db-133">Работа с Financials</span><span class="sxs-lookup"><span data-stu-id="a61db-133">Working with Financials</span></span>](ui-work-product.md)
 

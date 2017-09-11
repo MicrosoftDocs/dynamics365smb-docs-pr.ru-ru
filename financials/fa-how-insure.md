@@ -16,108 +16,108 @@ ms.translationtype: Human Translation
 ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
 ms.openlocfilehash: 421d45e7f35ffdc46801fea85221ba453d52c516
 ms.contentlocale: ru-ru
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 09/11/2017
 
 
 ---
-# <a name="how-to-insure-fixed-assets"></a>Практическое руководство. Страхование основных средств
-Страховой полис для основного средства представляется страховой карточкой. Можно назначить одно основное средство одному страховому полису или несколько основных средств одному страховому полису.
+# <a name="how-to-insure-fixed-assets"></a><span data-ttu-id="ac276-103">Практическое руководство. Страхование основных средств</span><span class="sxs-lookup"><span data-stu-id="ac276-103">How to: Insure Fixed Assets</span></span>
+<span data-ttu-id="ac276-104">Страховой полис для основного средства представляется страховой карточкой.</span><span class="sxs-lookup"><span data-stu-id="ac276-104">An insurance policy for a fixed asset is represented by an insurance card.</span></span> <span data-ttu-id="ac276-105">Можно назначить одно основное средство одному страховому полису или несколько основных средств одному страховому полису.</span><span class="sxs-lookup"><span data-stu-id="ac276-105">You can assign one fixed asset to one insurance policy or multiple fixed assets to one insurance policy.</span></span>
 
-Можно назначить основное средство страховому полису путем учета в книге страхового покрытия из окна **Журнал страхования**.
+<span data-ttu-id="ac276-106">Можно назначить основное средство страховому полису путем учета в книге страхового покрытия из окна **Журнал страхования**.</span><span class="sxs-lookup"><span data-stu-id="ac276-106">You assign a fixed asset to an insurance policy by posting to the insurance coverage ledger from the **Insurance Journal** window.</span></span>
 
-Кроме этого, можно назначить основное средство страховому полису и создать записи книги страхования при учете стоимости приобретения. Это делается путем разноски стоимости приобретения из журнала ОС с заполненным полем **Номер страхования** . Необходимо установить флажок **Автомат. учет страхования** в окне **Настройка модуля ОС**. Дополнительные сведения см. в пункте "Разноска приобретения основного средства вручную с помощью журнала ОС ГК" раздела [Практическое руководство. Приобретение основных средств](fa-how-acquire.md).
+<span data-ttu-id="ac276-107">Кроме этого, можно назначить основное средство страховому полису и создать записи книги страхования при учете стоимости приобретения.</span><span class="sxs-lookup"><span data-stu-id="ac276-107">In addition, you can assign a fixed asset to an insurance policy and create coverage ledger entries when you post its acquisition cost.</span></span> <span data-ttu-id="ac276-108">Это делается путем разноски стоимости приобретения из журнала ОС с заполненным полем **Номер страхования**</span><span class="sxs-lookup"><span data-stu-id="ac276-108">You do this by posting an acquisition cost from the fixed asset journal with the **Insurance No.**</span></span> <span data-ttu-id="ac276-109">.</span><span class="sxs-lookup"><span data-stu-id="ac276-109">field filled in.</span></span> <span data-ttu-id="ac276-110">Необходимо установить флажок **Автомат. учет страхования** в окне **Настройка модуля ОС**.</span><span class="sxs-lookup"><span data-stu-id="ac276-110">The **Automatic Insurance Posting** check box in the **Fixed Asset Setup** window must be selected.</span></span> <span data-ttu-id="ac276-111">Дополнительные сведения см. в пункте "Разноска приобретения основного средства вручную с помощью журнала ОС ГК" раздела [Практическое руководство. Приобретение основных средств](fa-how-acquire.md).</span><span class="sxs-lookup"><span data-stu-id="ac276-111">For more information, see the "To post a fixed asset acquisition manually with the fixed asset G/L journal" section in [How to: Acquire Fixed Assets](fa-how-acquire.md).</span></span>
 
-Если флажок **Автомат. учет страхования** в окне **Настройка модуля ОС** не установлен, то при разноске приобретения из журнала ОС будут создаваться строки в окне **Журнал страхования**, которые затем следует разнести вручную.
+<span data-ttu-id="ac276-112">Если флажок **Автомат. учет страхования** в окне **Настройка модуля ОС** не установлен, то при разноске приобретения из журнала ОС будут создаваться строки в окне **Журнал страхования**, которые затем следует разнести вручную.</span><span class="sxs-lookup"><span data-stu-id="ac276-112">If the **Automatic Insurance Posting** check box in the **Fixed Asset Setup** window is not selected, then posting acquisitions from the fixed asset journal will create lines in the **Insurance Journal** window, which you must then post manually.</span></span>
 
 > [!WARNING]  
->   Если флажок **Автомат. учет страхования** в окне **Настройка модуля ОС** не установлен, ваш журнал страхования доложен быть основан на шаблоне журнала без серии номеров. Это связано с тем, что в противном случае вставленные номера документа из строки журнала основного средства будут противоречить серии номеров журнала страхования. Для получения дополнительных сведений о шаблонах журналов и разделах см. раздел [Практическое руководство. Настройка общей информации об основных средствах](fa-how-setup-general.md).
+>   <span data-ttu-id="ac276-113">Если флажок **Автомат. учет страхования** в окне **Настройка модуля ОС** не установлен, ваш журнал страхования доложен быть основан на шаблоне журнала без серии номеров.</span><span class="sxs-lookup"><span data-stu-id="ac276-113">If you do not select the **Automatic Insurance Posting** check box in the **Fixed Asset Setup** window, then your insurance journal should be based on a journal template without a number series.</span></span> <span data-ttu-id="ac276-114">Это связано с тем, что в противном случае вставленные номера документа из строки журнала основного средства будут противоречить серии номеров журнала страхования.</span><span class="sxs-lookup"><span data-stu-id="ac276-114">This is because the inserted document numbers from the fixed asset journal line will otherwise conflict with the number series of the insurance journal.</span></span> <span data-ttu-id="ac276-115">Для получения дополнительных сведений о шаблонах журналов и разделах см. раздел [Практическое руководство. Настройка общей информации об основных средствах](fa-how-setup-general.md).</span><span class="sxs-lookup"><span data-stu-id="ac276-115">For more information about journal templates and batches, see [How to: Set Up General Fixed Assets Information](fa-how-setup-general.md).</span></span>
 
-После того как пользователь назначил основное средство страховому полису, устанавливается флажок **Застраховано** в карточке основного средства. При продаже основного средства этот флажок автоматически снимается.
+<span data-ttu-id="ac276-116">После того как пользователь назначил основное средство страховому полису, устанавливается флажок **Застраховано** в карточке основного средства.</span><span class="sxs-lookup"><span data-stu-id="ac276-116">After you have assigned a fixed asset to an insurance policy, the **Insured** check box is selected on the fixed asset card.</span></span> <span data-ttu-id="ac276-117">При продаже основного средства этот флажок автоматически снимается.</span><span class="sxs-lookup"><span data-stu-id="ac276-117">When you sell the fixed asset, the check box is automatically deselected.</span></span>
 
-## <a name="to-create-or-modify-an-insurance-card"></a>Создание или изменение страховой карточки
-Страховой полис для основного средства должен быть представлен страховой карточкой.
+## <a name="to-create-or-modify-an-insurance-card"></a><span data-ttu-id="ac276-118">Создание или изменение страховой карточки</span><span class="sxs-lookup"><span data-stu-id="ac276-118">To create or modify an insurance card</span></span>
+<span data-ttu-id="ac276-119">Страховой полис для основного средства должен быть представлен страховой карточкой.</span><span class="sxs-lookup"><span data-stu-id="ac276-119">An insurance policy for a fixed asset must be represented by an insurance card.</span></span>
 
-При получении информации об изменениях в сумме покрытия необходимо ввести новую информацию в окне **Страховая карточка** для обеспечения правильности анализа покрытия страхового полиса.  
+<span data-ttu-id="ac276-120">При получении информации об изменениях в сумме покрытия необходимо ввести новую информацию в окне **Страховая карточка** для обеспечения правильности анализа покрытия страхового полиса.</span><span class="sxs-lookup"><span data-stu-id="ac276-120">When you receive information about changes in the coverage amount, you must enter the new information in the **Insurance Card** window to ensure that you analyze insurance policy coverage correctly.</span></span>  
 
-1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Страхование**, а затем выберите связанную ссылку.
-2. Выберите действие **Создать** для создания новой карты для страхового полиса. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
-3. Можно также выбрать политику страхования, которую необходимо изменить, затем выбрать действие **Правка**.
+1. <span data-ttu-id="ac276-121">Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Страхование**, а затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="ac276-121">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Insurance**, and then choose the related link.</span></span>
+2. <span data-ttu-id="ac276-122">Выберите действие **Создать** для создания новой карты для страхового полиса.</span><span class="sxs-lookup"><span data-stu-id="ac276-122">Choose the **New** action to create a new card for an insurance policy.</span></span> [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
+3. <span data-ttu-id="ac276-123">Можно также выбрать политику страхования, которую необходимо изменить, затем выбрать действие **Правка**.</span><span class="sxs-lookup"><span data-stu-id="ac276-123">Alternatively, select the insurance policy that you want to change, and then choose the **Edit** action.</span></span>
 
-## <a name="to-assign-a-fixed-asset-to-an-insurance-policy-by-posting-from-the-insurance-journal"></a>Назначение основного средства страховому полису путем разноски из журнала страхования
-Основное средство назначается страховому полису путем разноски в книгу страхового покрытия.  
+## <a name="to-assign-a-fixed-asset-to-an-insurance-policy-by-posting-from-the-insurance-journal"></a><span data-ttu-id="ac276-124">Назначение основного средства страховому полису путем разноски из журнала страхования</span><span class="sxs-lookup"><span data-stu-id="ac276-124">To assign a fixed asset to an insurance policy by posting from the insurance journal</span></span>
+<span data-ttu-id="ac276-125">Основное средство назначается страховому полису путем разноски в книгу страхового покрытия.</span><span class="sxs-lookup"><span data-stu-id="ac276-125">You assign a fixed asset to an insurance policy by posting to the insurance coverage ledger.</span></span>  
 
-В следующей процедуре объясняется, как вручную создать строку журнала страхования. Если установлен флажок **Автомат. учет страхования** в окне **Настройка ОС**, то строки страхового журнала автоматически создаются при учете стоимости приобретения. В таком случае все, что необходимо сделать, это выполнить учет журнала.  
+<span data-ttu-id="ac276-126">В следующей процедуре объясняется, как вручную создать строку журнала страхования.</span><span class="sxs-lookup"><span data-stu-id="ac276-126">The following procedure explains how to create an insurance journal line manually.</span></span> <span data-ttu-id="ac276-127">Если установлен флажок **Автомат. учет страхования** в окне **Настройка ОС**, то строки страхового журнала автоматически создаются при учете стоимости приобретения.</span><span class="sxs-lookup"><span data-stu-id="ac276-127">If the **Automatic Insurance Posting** check box is selected in the **FA Setup** window, then insurance journal lines are automatically created when you post acquisition costs.</span></span> <span data-ttu-id="ac276-128">В таком случае все, что необходимо сделать, это выполнить учет журнала.</span><span class="sxs-lookup"><span data-stu-id="ac276-128">In that case, all you have to do is to post the journal.</span></span>  
 
-1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Журналы страхования**, а затем выберите связанную ссылку.  
-2. Откройте соответствующий журнал и заполните строки журнала, как требуется.  
-3. Чтобы назначить несколько основных средств одному страховому полису, создайте строки журнала с тем же значением в поле **Номер страхования** и другими значениями в поле **Код ОС** .  
-4. Выберите действие **Учесть**.  
-
-    > [!NOTE]  
->   Операции из журнала страхования учитываются только в книгу страхования.  
-
-## <a name="to-update-the-insurance-value-of-a-fixed-asset"></a>Для обновления суммы страхования основного средства
-Можно использовать пакетное задание **Индекс страхования** для обновления покрываемых страховкой основных средств.  
-
-1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Индекс страхования**, а затем выберите связанную ссылку.
-2. Заполните соответствующим образом поля.
+1. <span data-ttu-id="ac276-129">Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Журналы страхования**, а затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="ac276-129">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Insurance Journals**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="ac276-130">Откройте соответствующий журнал и заполните строки журнала, как требуется.</span><span class="sxs-lookup"><span data-stu-id="ac276-130">Open the relevant journal, and fill in the journal lines as necessary.</span></span>  
+3. <span data-ttu-id="ac276-131">Чтобы назначить несколько основных средств одному страховому полису, создайте строки журнала с тем же значением в поле **Номер страхования**</span><span class="sxs-lookup"><span data-stu-id="ac276-131">To assign multiple fixed assets to one insurance policy, create journal lines with the same value in the **Insurance No.**</span></span> <span data-ttu-id="ac276-132">и другими значениями в поле **Код ОС**</span><span class="sxs-lookup"><span data-stu-id="ac276-132">field and different values in the **FA No.**</span></span> <span data-ttu-id="ac276-133">.</span><span class="sxs-lookup"><span data-stu-id="ac276-133">field.</span></span>  
+4. <span data-ttu-id="ac276-134">Выберите действие **Учесть**.</span><span class="sxs-lookup"><span data-stu-id="ac276-134">Choose the **Post** action.</span></span>  
 
     > [!NOTE]  
->   В поле **Цифра индекса** значение уменьшения на, например, 5% вводится как 95, а значение увеличения на 2% вводится как 102.  
-3. Нажмите кнопку **ОК**.  
+>   <span data-ttu-id="ac276-135">Операции из журнала страхования учитываются только в книгу страхования.</span><span class="sxs-lookup"><span data-stu-id="ac276-135">The entries from an insurance journal are only posted to the insurance coverage ledger.</span></span>  
 
-   Пакетное задание рассчитывает новую сумму как процент от общей страховой суммы, указанной в окне **Статистика страхования**, и создает строку в страховом журнале.  
-4. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Журналы страхования**, а затем выберите связанную ссылку.  
-5. Откройте соответствующий журнал страхования, просмотрите созданные значения, затем учтите их в книге страхового покрытия.  
+## <a name="to-update-the-insurance-value-of-a-fixed-asset"></a><span data-ttu-id="ac276-136">Для обновления суммы страхования основного средства</span><span class="sxs-lookup"><span data-stu-id="ac276-136">To update the insurance value of a fixed asset</span></span>
+<span data-ttu-id="ac276-137">Можно использовать пакетное задание **Индекс страхования** для обновления покрываемых страховкой основных средств.</span><span class="sxs-lookup"><span data-stu-id="ac276-137">You can use the **Index Insurance** batch job to update the value of the fixed assets that are covered.</span></span>  
 
-## <a name="to-monitor-insurance-coverage"></a>Мониторинг страхового покрытия
-В [!INCLUDE[d365fin](includes/d365fin_md.md)] предусмотрены специальные окна отчетов и статистики для использования при анализе страховых полисов и сумм страхового покрытия для основных средств (не являются ли они недостаточными или избыточными).  
+1. <span data-ttu-id="ac276-138">Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Индекс страхования**, а затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="ac276-138">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Index Insurance**, and then choose the related link.</span></span>
+2. <span data-ttu-id="ac276-139">Заполните соответствующим образом поля.</span><span class="sxs-lookup"><span data-stu-id="ac276-139">Fill in the fields as necessary.</span></span>
 
-### <a name="overview-of-insurance-policies"></a>Обзор страховых полисов.
-Чтобы просмотреть сведения о страховых полисах, предварительно просмотрите или напечатайте отчет **Страхов. - список**. Отчет показывает все полисы и наиболее важные поля из страховых карточек.  
+    > [!NOTE]  
+>   <span data-ttu-id="ac276-140">В поле **Цифра индекса** значение уменьшения на, например, 5% вводится как 95, а значение увеличения на 2% вводится как 102.</span><span class="sxs-lookup"><span data-stu-id="ac276-140">In the **Index Figure** field, you enter a decrease of 5%, for example, as 95, whereas you enter an increase of 2% as 102.</span></span>  
+3. <span data-ttu-id="ac276-141">Нажмите кнопку **ОК**.</span><span class="sxs-lookup"><span data-stu-id="ac276-141">Choose the **OK** button.</span></span>  
 
-### <a name="insurance-coverage"></a>Страховое покрытие.
-Чтобы посмотреть, какие страховые полисы покрывают средство и в какой сумме, можно просмотреть или напечатать отчет **Страхов. - общая застрах. стоим.**.  
+   <span data-ttu-id="ac276-142">Пакетное задание рассчитывает новую сумму как процент от общей страховой суммы, указанной в окне **Статистика страхования**, и создает строку в страховом журнале.</span><span class="sxs-lookup"><span data-stu-id="ac276-142">The batch job calculates the new amount as a percentage of the total value insured, as stated in the **Insurance Statistics** window, and then creates a line in the insurance journal.</span></span>  
+4. <span data-ttu-id="ac276-143">Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Журналы страхования**, а затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="ac276-143">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Insurance Journals**, and then choose the related link.</span></span>  
+5. <span data-ttu-id="ac276-144">Откройте соответствующий журнал страхования, просмотрите созданные значения, затем учтите их в книге страхового покрытия.</span><span class="sxs-lookup"><span data-stu-id="ac276-144">Open the relevant insurance journal, review the created values, and then post them to the insurance coverage ledger.</span></span>  
 
-### <a name="overunder-coverage"></a>Избыточное/недостаточное покрытие.
-Проверить, не является ли страховая сумма для основного средства избыточной или недостаточной, можно одним из следующих способов:  
+## <a name="to-monitor-insurance-coverage"></a><span data-ttu-id="ac276-145">Мониторинг страхового покрытия</span><span class="sxs-lookup"><span data-stu-id="ac276-145">To monitor insurance coverage</span></span>
+<span data-ttu-id="ac276-146">В [!INCLUDE[d365fin](includes/d365fin_md.md)] предусмотрены специальные окна отчетов и статистики для использования при анализе страховых полисов и сумм страхового покрытия для основных средств (не являются ли они недостаточными или избыточными).</span><span class="sxs-lookup"><span data-stu-id="ac276-146">[!INCLUDE[d365fin](includes/d365fin_md.md)] provides dedicated reports and statistics windows for use in analyzing insurance policies and whether your fixed assets are over- or under-insured.</span></span>  
 
-* Окно **Статистика страхования**. Положительная сумма в поле **Недострахованный/перестрахованный** означает, что основное средство перестраховано. Отрицательная сумма означает неполное страхование.  
-* Окно **Статистика ОС**. Выберите поле **Общая страховая сумма** для просмотра окна **Книга операций по страхованию**.  
-* Отчет **Избыточное/недостаточное покрытие**.  
-* Отчет **Страхование - анализ**.  
+### <a name="overview-of-insurance-policies"></a><span data-ttu-id="ac276-147">Обзор страховых полисов.</span><span class="sxs-lookup"><span data-stu-id="ac276-147">Overview of Insurance Policies</span></span>
+<span data-ttu-id="ac276-148">Чтобы просмотреть сведения о страховых полисах, предварительно просмотрите или напечатайте отчет **Страхов. - список**.</span><span class="sxs-lookup"><span data-stu-id="ac276-148">To get an overview of your insurance policies, preview or print the **Insurance - List** report.</span></span> <span data-ttu-id="ac276-149">Отчет показывает все полисы и наиболее важные поля из страховых карточек.</span><span class="sxs-lookup"><span data-stu-id="ac276-149">The report shows all the policies and the most important fields from the insurance cards.</span></span>  
 
-### <a name="uninsured-fixed-assets"></a>Незастрахованные основные средства
-Для проверки того, был ли назначен страховой полис для основного средства, можно напечатать или просмотреть отчет **Страхов. - незастрах. ОС**. В этот отчет выводятся те основные средства, для которых суммы не были учтены в книге страхового покрытия.  
+### <a name="insurance-coverage"></a><span data-ttu-id="ac276-150">Страховое покрытие.</span><span class="sxs-lookup"><span data-stu-id="ac276-150">Insurance Coverage</span></span>
+<span data-ttu-id="ac276-151">Чтобы посмотреть, какие страховые полисы покрывают средство и в какой сумме, можно просмотреть или напечатать отчет **Страхов. - общая застрах. стоим.**.</span><span class="sxs-lookup"><span data-stu-id="ac276-151">To see which insurance policies cover each asset and by which amount, you can preview or print the **Insurance - Tot. Value Insured** report.</span></span>  
 
-## <a name="to-view-insurance-coverage-ledger-entries"></a>Просмотр операций книги страхования
-Можно просматривать операции, выполненные в книге страхового покрытия.  
+### <a name="overunder-coverage"></a><span data-ttu-id="ac276-152">Избыточное/недостаточное покрытие.</span><span class="sxs-lookup"><span data-stu-id="ac276-152">Over/Under Coverage</span></span>
+<span data-ttu-id="ac276-153">Проверить, не является ли страховая сумма для основного средства избыточной или недостаточной, можно одним из следующих способов:</span><span class="sxs-lookup"><span data-stu-id="ac276-153">You can check if fixed assets are over- or under-insured in the following ways:</span></span>  
 
-1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Страхование**, а затем выберите связанную ссылку.  
-2. Выберите нужный полис страхования и выберите действие **Книга операций по страхованию**.  
+* <span data-ttu-id="ac276-154">Окно **Статистика страхования**.</span><span class="sxs-lookup"><span data-stu-id="ac276-154">The **Insurance Statistics** window.</span></span> <span data-ttu-id="ac276-155">Положительная сумма в поле **Недострахованный/перестрахованный** означает, что основное средство перестраховано.</span><span class="sxs-lookup"><span data-stu-id="ac276-155">A positive amount in the **Over/Under Insured** field means that the fixed asset is over-insured.</span></span> <span data-ttu-id="ac276-156">Отрицательная сумма означает неполное страхование.</span><span class="sxs-lookup"><span data-stu-id="ac276-156">A negative amount means that it is underinsured.</span></span>  
+* <span data-ttu-id="ac276-157">Окно **Статистика ОС**.</span><span class="sxs-lookup"><span data-stu-id="ac276-157">The **Fixed Asset Statistics** window.</span></span> <span data-ttu-id="ac276-158">Выберите поле **Общая страховая сумма** для просмотра окна **Книга операций по страхованию**.</span><span class="sxs-lookup"><span data-stu-id="ac276-158">Choose the **Total Value Insured** field to view the **Ins. Coverage Ledger Entries** window.</span></span>  
+* <span data-ttu-id="ac276-159">Отчет **Избыточное/недостаточное покрытие**.</span><span class="sxs-lookup"><span data-stu-id="ac276-159">The **Over/Under Coverage** report.</span></span>  
+* <span data-ttu-id="ac276-160">Отчет **Страхование - анализ**.</span><span class="sxs-lookup"><span data-stu-id="ac276-160">The **Insurance Analysis** report.</span></span>  
 
-## <a name="to-view-the-total-insurance-value-of-fixed-assets"></a>Просмотр общих страховых значений для основных средств
-В отдельном окне матрицы отображаются страховые суммы, которые зарегистрированы для каждого страхового полиса и для каждого основного средства в результате учтенных сумм, связанных со страхованием.  
+### <a name="uninsured-fixed-assets"></a><span data-ttu-id="ac276-161">Незастрахованные основные средства</span><span class="sxs-lookup"><span data-stu-id="ac276-161">Uninsured Fixed Assets</span></span>
+<span data-ttu-id="ac276-162">Для проверки того, был ли назначен страховой полис для основного средства, можно напечатать или просмотреть отчет **Страхов. - незастрах. ОС**.</span><span class="sxs-lookup"><span data-stu-id="ac276-162">To check if you have forgotten to assign a fixed asset to an insurance policy, you can print or preview the **Insurance - Uninsured FAs** report.</span></span> <span data-ttu-id="ac276-163">В этот отчет выводятся те основные средства, для которых суммы не были учтены в книге страхового покрытия.</span><span class="sxs-lookup"><span data-stu-id="ac276-163">This report displays fixed assets for which amounts have not been posted to the insurance coverage ledger.</span></span>  
 
-1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Страхование**, а затем выберите связанную ссылку.  
-2. Выберите соответствующий страховой полис, затем выберите действие **Общая страховая сумма по ОС**.  
-3. Заполните соответствующим образом поля.  
-4. Выберите действие **Показать матрицу**.  
-5. Для просмотра операций книги страхования выберите значение в матрице.  
+## <a name="to-view-insurance-coverage-ledger-entries"></a><span data-ttu-id="ac276-164">Просмотр операций книги страхования</span><span class="sxs-lookup"><span data-stu-id="ac276-164">To view insurance coverage ledger entries</span></span>
+<span data-ttu-id="ac276-165">Можно просматривать операции, выполненные в книге страхового покрытия.</span><span class="sxs-lookup"><span data-stu-id="ac276-165">You can view the entries that you have made in the insurance coverage ledger.</span></span>  
 
-## <a name="to-correct-insurance-coverage-entries"></a>Исправление операций страхового покрытия
-Если основное средство было назначено неправильному страховому полису, это можно исправить, создав две операции переклассификации из журнала страхования.  
+1. <span data-ttu-id="ac276-166">Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Страхование**, а затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="ac276-166">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Insurance**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="ac276-167">Выберите нужный полис страхования и выберите действие **Книга операций по страхованию**.</span><span class="sxs-lookup"><span data-stu-id="ac276-167">Select the relevant insurance policy, and then choose the **Coverage Ledger Entries** action.</span></span>  
 
-1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Журналы страхования**, а затем выберите связанную ссылку.  
-2. Создайте одну строку журнала для основного средства и правильного страхового полиса, в которой поле **Сумма** содержит положительное значение.  
-3. Создайте вторую строку журнала для основного средства и неправильного страхового полиса, в которой поле **Сумма** содержит отрицательное значение.  
-4. Выберите действие **Учесть**.  
+## <a name="to-view-the-total-insurance-value-of-fixed-assets"></a><span data-ttu-id="ac276-168">Просмотр общих страховых значений для основных средств</span><span class="sxs-lookup"><span data-stu-id="ac276-168">To view the total insurance value of fixed assets</span></span>
+<span data-ttu-id="ac276-169">В отдельном окне матрицы отображаются страховые суммы, которые зарегистрированы для каждого страхового полиса и для каждого основного средства в результате учтенных сумм, связанных со страхованием.</span><span class="sxs-lookup"><span data-stu-id="ac276-169">A dedicated matrix window shows the insurance values that are registered for each insurance policy for each fixed asset as a result of insurance-related amounts that you have posted.</span></span>  
 
-Основное средство будет отсоединено от неправильного страхового полиса из второй строки и будет связано с правильным страховым полисом из первой строки.  
+1. <span data-ttu-id="ac276-170">Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Страхование**, а затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="ac276-170">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Insurance**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="ac276-171">Выберите соответствующий страховой полис, затем выберите действие **Общая страховая сумма по ОС**.</span><span class="sxs-lookup"><span data-stu-id="ac276-171">Select the relevant insurance policy, and then choose the **Total Value Insures per FA** action.</span></span>  
+3. <span data-ttu-id="ac276-172">Заполните соответствующим образом поля.</span><span class="sxs-lookup"><span data-stu-id="ac276-172">Fill in the fields as necessary.</span></span>  
+4. <span data-ttu-id="ac276-173">Выберите действие **Показать матрицу**.</span><span class="sxs-lookup"><span data-stu-id="ac276-173">Choose the **Show Matrix** action.</span></span>  
+5. <span data-ttu-id="ac276-174">Для просмотра операций книги страхования выберите значение в матрице.</span><span class="sxs-lookup"><span data-stu-id="ac276-174">To see the underlying insurance coverage ledger entries, choose a value in the matrix.</span></span>  
 
-## <a name="see-also"></a>См. также
-[Основные Средства](fa-manage.md)  
-[Настройка основных средств](fa-setup.md)  
-[Финансы](finance.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+## <a name="to-correct-insurance-coverage-entries"></a><span data-ttu-id="ac276-175">Исправление операций страхового покрытия</span><span class="sxs-lookup"><span data-stu-id="ac276-175">To correct insurance coverage entries</span></span>
+<span data-ttu-id="ac276-176">Если основное средство было назначено неправильному страховому полису, это можно исправить, создав две операции переклассификации из журнала страхования.</span><span class="sxs-lookup"><span data-stu-id="ac276-176">If a fixed asset has been attached to the wrong insurance policy, you can correct it by creating two reclassification entries from the insurance journal.</span></span>  
+
+1. <span data-ttu-id="ac276-177">Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Журналы страхования**, а затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="ac276-177">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Insurance Journals**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="ac276-178">Создайте одну строку журнала для основного средства и правильного страхового полиса, в которой поле **Сумма** содержит положительное значение.</span><span class="sxs-lookup"><span data-stu-id="ac276-178">Create one journal line for the fixed asset and the correct insurance policy where the value in the **Amount** field is positive.</span></span>  
+3. <span data-ttu-id="ac276-179">Создайте вторую строку журнала для основного средства и неправильного страхового полиса, в которой поле **Сумма** содержит отрицательное значение.</span><span class="sxs-lookup"><span data-stu-id="ac276-179">Create another journal line for the fixed asset and the incorrect insurance policy where the value in the **Amount** field is negative.</span></span>  
+4. <span data-ttu-id="ac276-180">Выберите действие **Учесть**.</span><span class="sxs-lookup"><span data-stu-id="ac276-180">Choose the **Post** action.</span></span>  
+
+<span data-ttu-id="ac276-181">Основное средство будет отсоединено от неправильного страхового полиса из второй строки и будет связано с правильным страховым полисом из первой строки.</span><span class="sxs-lookup"><span data-stu-id="ac276-181">The fixed asset will be detached from the incorrect insurance policy, on the second line, and attached to the correct insurance policy, on the first line.</span></span>  
+
+## <a name="see-also"></a><span data-ttu-id="ac276-182">См. также</span><span class="sxs-lookup"><span data-stu-id="ac276-182">See Also</span></span>
+[<span data-ttu-id="ac276-183">Основные Средства</span><span class="sxs-lookup"><span data-stu-id="ac276-183">Fixed Assets</span></span>](fa-manage.md)  
+[<span data-ttu-id="ac276-184">Настройка основных средств</span><span class="sxs-lookup"><span data-stu-id="ac276-184">Setting Up Fixed Assets</span></span>](fa-setup.md)  
+[<span data-ttu-id="ac276-185">Финансы</span><span class="sxs-lookup"><span data-stu-id="ac276-185">Finance</span></span>](finance.md)  
+<span data-ttu-id="ac276-186">[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="ac276-186">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>  
 

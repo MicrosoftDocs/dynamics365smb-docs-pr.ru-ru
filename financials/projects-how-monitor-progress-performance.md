@@ -16,87 +16,86 @@ ms.translationtype: Human Translation
 ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
 ms.openlocfilehash: 9b374c80a649a1e05c98fcbcea1ca447ec0b8d27
 ms.contentlocale: ru-ru
-ms.lasthandoff: 07/07/2017
-
+ms.lasthandoff: 09/11/2017
 
 ---
-# <a name="how-to-monitor-job-progress-and-performance"></a>Практическое руководство. Отслеживание хода выполнения работ и производительности
-По мере выполнения работы, материалы, ресурсы и т. д. потребляются и подлежат учету. Незавершенное производство (НЗП) — это функция, позволяющая в процессе выполнения работы оценивать ее стоимость с финансовый точки зрения в Главной книге, пока работы еще не завершены. В большинстве случаев затраты можно учесть до выставления счета по работе. Если учитывать только расходы, финансовый отчет будет неточным. Дополнительные сведения см. в разделе [Общее представление о методах учета НЗП](projects-understanding-wip.md).
+# <a name="how-to-monitor-job-progress-and-performance"></a><span data-ttu-id="d9736-102">Практическое руководство. Отслеживание хода выполнения работ и производительности</span><span class="sxs-lookup"><span data-stu-id="d9736-102">How to: Monitor Job Progress and Performance</span></span>
+<span data-ttu-id="d9736-103">По мере выполнения работы, материалы, ресурсы и т. д. потребляются и подлежат учету.</span><span class="sxs-lookup"><span data-stu-id="d9736-103">As a job progresses, materials, resources, and other expenses are consumed and must be posted to the job.</span></span> <span data-ttu-id="d9736-104">Незавершенное производство (НЗП) — это функция, позволяющая в процессе выполнения работы оценивать ее стоимость с финансовый точки зрения в Главной книге, пока работы еще не завершены.</span><span class="sxs-lookup"><span data-stu-id="d9736-104">Work in Process (WIP) is a feature that enables you to estimate the financial value of jobs in the general ledger while the jobs are ongoing.</span></span> <span data-ttu-id="d9736-105">В большинстве случаев затраты можно учесть до выставления счета по работе.</span><span class="sxs-lookup"><span data-stu-id="d9736-105">In many cases, you might post expenses for a job before invoicing a job.</span></span> <span data-ttu-id="d9736-106">Если учитывать только расходы, финансовый отчет будет неточным.</span><span class="sxs-lookup"><span data-stu-id="d9736-106">When only expenses have been posted, your financial statement will be inaccurate.</span></span> <span data-ttu-id="d9736-107">Дополнительные сведения см. в разделе [Общее представление о методах учета НЗП](projects-understanding-wip.md).</span><span class="sxs-lookup"><span data-stu-id="d9736-107">For more information, see [Understanding WIP Methods](projects-understanding-wip.md).</span></span>
 
-Для трассировки стоимости в Главной книге, можно рассчитать НЗП и учесть стоимость в Главной книге.
+<span data-ttu-id="d9736-108">Для трассировки стоимости в Главной книге, можно рассчитать НЗП и учесть стоимость в Главной книге.</span><span class="sxs-lookup"><span data-stu-id="d9736-108">To track the value in the general ledger, you can calculate WIP and post the value to the general ledger.</span></span>
 
-НЗП можно рассчитать на основе следующих параметров:
+<span data-ttu-id="d9736-109">НЗП можно рассчитать на основе следующих параметров:</span><span class="sxs-lookup"><span data-stu-id="d9736-109">You can calculate WIP based on the following:</span></span>
 
-* себестоимость,
-* сумма реализации,
-* признаваемые затраты,
-* процент завершения,
-* выполненный контракт.
+* <span data-ttu-id="d9736-110">себестоимость,</span><span class="sxs-lookup"><span data-stu-id="d9736-110">Cost Value</span></span>
+* <span data-ttu-id="d9736-111">сумма реализации,</span><span class="sxs-lookup"><span data-stu-id="d9736-111">Sales Value</span></span>
+* <span data-ttu-id="d9736-112">признаваемые затраты,</span><span class="sxs-lookup"><span data-stu-id="d9736-112">Recognizable Cost</span></span>
+* <span data-ttu-id="d9736-113">процент завершения,</span><span class="sxs-lookup"><span data-stu-id="d9736-113">Percentage of Completion</span></span>
+* <span data-ttu-id="d9736-114">выполненный контракт.</span><span class="sxs-lookup"><span data-stu-id="d9736-114">Completed Contract</span></span>
 
-Чтобы просмотреть результат другим способом, можно изменить метод и заново рассчитать НЗП. НЗП можно рассчитывать неограниченное число раз. НЗП только рассчитывается, но не учитывается в Главной книге. После расчета НЗП его можно учесть в Главной книге.
+<span data-ttu-id="d9736-115">Чтобы просмотреть результат другим способом, можно изменить метод и заново рассчитать НЗП.</span><span class="sxs-lookup"><span data-stu-id="d9736-115">If you want to view the result using a different method, you can change the method and calculate WIP again.</span></span> <span data-ttu-id="d9736-116">НЗП можно рассчитывать неограниченное число раз.</span><span class="sxs-lookup"><span data-stu-id="d9736-116">There is no limit to the number of times that you calculate WIP.</span></span> <span data-ttu-id="d9736-117">НЗП только рассчитывается, но не учитывается в Главной книге.</span><span class="sxs-lookup"><span data-stu-id="d9736-117">WIP is only calculated, it does not get posted to the general ledger.</span></span> <span data-ttu-id="d9736-118">После расчета НЗП его можно учесть в Главной книге.</span><span class="sxs-lookup"><span data-stu-id="d9736-118">After you have calculated WIP, you can post to the general ledger.</span></span>
 
-## <a name="to-create-a-job-wip-method"></a>Создание метода НЗП для работы
-Можно создать метод НЗП работы, отражающий потребности организации. После создания его можно установить методом расчета НЗП по умолчанию в организации.  
+## <a name="to-create-a-job-wip-method"></a><span data-ttu-id="d9736-119">Создание метода НЗП для работы</span><span class="sxs-lookup"><span data-stu-id="d9736-119">To create a job WIP method</span></span>
+<span data-ttu-id="d9736-120">Можно создать метод НЗП работы, отражающий потребности организации.</span><span class="sxs-lookup"><span data-stu-id="d9736-120">You can create a job WIP method that reflects the needs of your organization.</span></span> <span data-ttu-id="d9736-121">После создания его можно установить методом расчета НЗП по умолчанию в организации.</span><span class="sxs-lookup"><span data-stu-id="d9736-121">After you have created it, you can set it as the default job WIP calculation method that will be used in your organization.</span></span>  
 
-**Примечание**. После использования нового метода для создания операций НЗП нельзя удалить этот метод или изменить его.  
+<span data-ttu-id="d9736-122">**Примечание**.</span><span class="sxs-lookup"><span data-stu-id="d9736-122">**Note**.</span></span> <span data-ttu-id="d9736-123">После использования нового метода для создания операций НЗП нельзя удалить этот метод или изменить его.</span><span class="sxs-lookup"><span data-stu-id="d9736-123">After you have used your new method to create WIP entries, you cannot delete the method or modify it.</span></span>  
 
-1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Методы работ по незавершенному производству**, а затем выберите связанную ссылку.  
-2. Выберите действие **Создать**, затем введите в поля требуемые данные. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
-3. Закройте данное окно.   
-4. Чтобы сделать этот новый метод методом по умолчанию, выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страниц или отчета"), введите **Настройка работ**, а затем выберите связанную ссылку.  
-5. В поле **Метод НЗП по умолчанию** выберите метод из списка.
+1. <span data-ttu-id="d9736-124">Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Методы работ по незавершенному производству**, а затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="d9736-124">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Job WIP Methods**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="d9736-125">Выберите действие **Создать**, затем введите в поля требуемые данные.</span><span class="sxs-lookup"><span data-stu-id="d9736-125">Choose the **New** action, and then fill in the fields as necessary.</span></span> [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
+3. <span data-ttu-id="d9736-126">Закройте данное окно.</span><span class="sxs-lookup"><span data-stu-id="d9736-126">Close the window.</span></span>   
+4. <span data-ttu-id="d9736-127">Чтобы сделать этот новый метод методом по умолчанию, выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страниц или отчета"), введите **Настройка работ**, а затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="d9736-127">To make this new method the default, choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Jobs Setup**, and then choose the related link.</span></span>  
+5. <span data-ttu-id="d9736-128">В поле **Метод НЗП по умолчанию** выберите метод из списка.</span><span class="sxs-lookup"><span data-stu-id="d9736-128">In the **Default WIP Method** field, choose the method from the list.</span></span>
 
-## <a name="to-define-a-wip-method-for-a-job"></a>Определение метода оценки НЗП для работы
-При создании новой работы необходимо указать, какой метод учета НЗП будет применяться для этой работы. В некоторых случаях, когда метод НЗП работы, который можно использовать, был задан по умолчанию.
+## <a name="to-define-a-wip-method-for-a-job"></a><span data-ttu-id="d9736-129">Определение метода оценки НЗП для работы</span><span class="sxs-lookup"><span data-stu-id="d9736-129">To define a WIP method for a job</span></span>
+<span data-ttu-id="d9736-130">При создании новой работы необходимо указать, какой метод учета НЗП будет применяться для этой работы.</span><span class="sxs-lookup"><span data-stu-id="d9736-130">When you create a new job, you must specify which job WIP method that applies.</span></span> <span data-ttu-id="d9736-131">В некоторых случаях, когда метод НЗП работы, который можно использовать, был задан по умолчанию.</span><span class="sxs-lookup"><span data-stu-id="d9736-131">In some cases, which Job WIP method that you can use has been set up for you as a default.</span></span>
 
-1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Работы**, а затем выберите связанную ссылку.
-2. Выберите действие **Создать**. Дополнительные сведения см. в разделе [Практическое руководство. Создание работ](projects-how-create-jobs.md).  
-3. В окне **Карточка работы** в поле **Метод НЗП** выберите метод НЗП из списка. Если метод по умолчанию определен, вы можете выбрать другой вариант, если требуется.  
+1. <span data-ttu-id="d9736-132">Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Работы**, а затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="d9736-132">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Jobs**, and then choose the related link.</span></span>
+2. <span data-ttu-id="d9736-133">Выберите действие **Создать**.</span><span class="sxs-lookup"><span data-stu-id="d9736-133">Choose the **New** action.</span></span> <span data-ttu-id="d9736-134">Дополнительные сведения см. в разделе [Практическое руководство. Создание работ](projects-how-create-jobs.md).</span><span class="sxs-lookup"><span data-stu-id="d9736-134">For more information, see [How to: Create Jobs](projects-how-create-jobs.md).</span></span>  
+3. <span data-ttu-id="d9736-135">В окне **Карточка работы** в поле **Метод НЗП** выберите метод НЗП из списка.</span><span class="sxs-lookup"><span data-stu-id="d9736-135">In the **Job Card** window, in the **WIP Method** field, select a WIP method from the list.</span></span> <span data-ttu-id="d9736-136">Если метод по умолчанию определен, вы можете выбрать другой вариант, если требуется.</span><span class="sxs-lookup"><span data-stu-id="d9736-136">If a default method has been defined, you can select another option if needed.</span></span>  
 
-## <a name="to-calculate-wip"></a>Расчет НЗП
-Вы можете определить сумму НЗП, которую необходимо учесть в балансовых счетах для отчетности по завершении периода. Для этого используйте пакетное задание **Работа по расчету НЗП**.  
+## <a name="to-calculate-wip"></a><span data-ttu-id="d9736-137">Расчет НЗП</span><span class="sxs-lookup"><span data-stu-id="d9736-137">To calculate WIP</span></span>
+<span data-ttu-id="d9736-138">Вы можете определить сумму НЗП, которую необходимо учесть в балансовых счетах для отчетности по завершении периода.</span><span class="sxs-lookup"><span data-stu-id="d9736-138">You can determine the WIP amount that is to be posted to balance sheet accounts for the period end reporting.</span></span> <span data-ttu-id="d9736-139">Для этого используйте пакетное задание **Работа по расчету НЗП**.</span><span class="sxs-lookup"><span data-stu-id="d9736-139">You use the **Job Calculate WIP** batch job to do this.</span></span>  
 
-1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Расчет НЗП по работам**, а затем выберите связанную ссылку.  
-2. Выберите действие **Рассчитать НЗП**.
-3. В окне **Расчет НЗП по работам** заполните требуемые поля.
-4. Нажмите кнопку **ОК**.  
-
-> [!NOTE]  
->   Пакетное задание только вычисляет НЗП. Операция не учитывается в Главной книге. Для учета после вычисления НЗП следует выполнить пакетное задание **Учет НЗП в ГК**. Дополнительные сведения см. в следующей процедуре.
-
-## <a name="to-post-wip"></a>Учет НЗП
-После вычисления НЗП можно выполнить учет НЗП в балансовых счетах для отчетности в конце периода. Для этого используйте пакетное задание **Работа - учет НЗП в ГК**.
-
-1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Работа - учет НЗП в ГК**, а затем выберите связанную ссылку.  
-2. В окне **Работа - учет НЗП в ГК** заполните требуемые поля.  
-3. Нажмите кнопку **ОК**.
-
-## <a name="to-view-job-usage-estimates-and-post-updates"></a>Просмотра оценок потребления работы и учет обновлений
-Для просмотра потребления по работе вплоть до завершения проекта достаточно одного действия: воспользоваться пакетным заданием **Работа - расчет остаточного потребления** для всех задач до завершения работы включительно.  
-
-Это позволяет отследить и сравнить первоначальные оценки с фактическими результатами, и при необходимости внести изменения или создать новые операции. Пусть, например, рассчитаны показали, что для выполнения работы необходимо 10 часов, а сегодняшний день выполнение заняло 15 часов. Программа позволяет добавить дополнительные 5 часов в существующей строке журнала или создать новую строку для записи этих дополнительных 5 часов как сверхурочных, что соответствует другому типу работы. Себестоимость и цена рассчитаны правильно и их можно учесть в журнале.  
+1. <span data-ttu-id="d9736-140">Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Расчет НЗП по работам**, а затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="d9736-140">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Job Calculate WIP**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="d9736-141">Выберите действие **Рассчитать НЗП**.</span><span class="sxs-lookup"><span data-stu-id="d9736-141">Choose the **Calculate WIP** action.</span></span>
+3. <span data-ttu-id="d9736-142">В окне **Расчет НЗП по работам** заполните требуемые поля.</span><span class="sxs-lookup"><span data-stu-id="d9736-142">In the **Job Calculate WIP** window, fill in the fields as necessary.</span></span>
+4. <span data-ttu-id="d9736-143">Нажмите кнопку **ОК**.</span><span class="sxs-lookup"><span data-stu-id="d9736-143">Choose the **OK** button.</span></span>  
 
 > [!NOTE]  
->   Операции товара приводят к созданию операций журнала товаров и уменьшению количества запасов. Пакетное задание **Учет себест. запасов в ГК** переносит себестоимость из книги запасов в Главную книгу. Операции ресурсов приводят к созданию операций книги ресурсов.  
+>   <span data-ttu-id="d9736-144">Пакетное задание только вычисляет НЗП.</span><span class="sxs-lookup"><span data-stu-id="d9736-144">The batch job only calculates the WIP.</span></span> <span data-ttu-id="d9736-145">Операция не учитывается в Главной книге.</span><span class="sxs-lookup"><span data-stu-id="d9736-145">It is not posted to the general ledger.</span></span> <span data-ttu-id="d9736-146">Для учета после вычисления НЗП следует выполнить пакетное задание **Учет НЗП в ГК**.</span><span class="sxs-lookup"><span data-stu-id="d9736-146">To do so, you must run the **Post WIP to G/L** batch job when you have calculated the WIP.</span></span> <span data-ttu-id="d9736-147">Дополнительные сведения см. в следующей процедуре.</span><span class="sxs-lookup"><span data-stu-id="d9736-147">For more information, see the following procedure.</span></span>
 
-1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Журналы работ**, а затем выберите связанную ссылку.  
-2. Выберите соответствующий журнал работ, затем выберите действие **Расчет остаточного потребления**.  
-3. В окне **Работа - расчет остаточного потребления** введите номер документа и дату учета, которые следует вставить в журнал, затем выберите кнопку **ОК**.  
-4. Обновите журнал, внеся в него все изменения, которые могут требоваться.  
-5. Выберите **Учесть**.
+## <a name="to-post-wip"></a><span data-ttu-id="d9736-148">Учет НЗП</span><span class="sxs-lookup"><span data-stu-id="d9736-148">To post WIP</span></span>
+<span data-ttu-id="d9736-149">После вычисления НЗП можно выполнить учет НЗП в балансовых счетах для отчетности в конце периода.</span><span class="sxs-lookup"><span data-stu-id="d9736-149">When you have calculated WIP, you can post it to balance sheet accounts for the period end reporting.</span></span> <span data-ttu-id="d9736-150">Для этого используйте пакетное задание **Работа - учет НЗП в ГК**.</span><span class="sxs-lookup"><span data-stu-id="d9736-150">You use the **Job Post WIP to G/L** batch job to do this.</span></span>
 
-## <a name="to-view-job-ledger-entries"></a>Просмотр операций книги работ
-Все записи, связанные с работой, регистрируются в регистрах работ и нумеруются последовательно, начиная с 1. Перечень всех учтенных операций работ содержится в регистрах работ, откуда можно получить их всесторонний обзор.    
+1. <span data-ttu-id="d9736-151">Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Работа - учет НЗП в ГК**, а затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="d9736-151">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Job Post WIP to G/L**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="d9736-152">В окне **Работа - учет НЗП в ГК** заполните требуемые поля.</span><span class="sxs-lookup"><span data-stu-id="d9736-152">In the **Job Post WIP to G/L** window, fill in the fields as necessary.</span></span>  
+3. <span data-ttu-id="d9736-153">Нажмите кнопку **ОК**.</span><span class="sxs-lookup"><span data-stu-id="d9736-153">Choose the **OK** button.</span></span>
 
-1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Регистры работ**, а затем выберите связанную ссылку.
-2. Выберите соответствующий регистр, затем выберите действие **Книга работ**.
+## <a name="to-view-job-usage-estimates-and-post-updates"></a><span data-ttu-id="d9736-154">Просмотра оценок потребления работы и учет обновлений</span><span class="sxs-lookup"><span data-stu-id="d9736-154">To view job usage estimates and post updates</span></span>
+<span data-ttu-id="d9736-155">Для просмотра потребления по работе вплоть до завершения проекта достаточно одного действия:</span><span class="sxs-lookup"><span data-stu-id="d9736-155">You can view job usage up to the completion of a project in one step.</span></span> <span data-ttu-id="d9736-156">воспользоваться пакетным заданием **Работа - расчет остаточного потребления** для всех задач до завершения работы включительно.</span><span class="sxs-lookup"><span data-stu-id="d9736-156">To do so, you use the **Job Calc. Remaining Usage** batch job for all the tasks up to and including the end of a job.</span></span>  
 
-В окне **Операции книги работ** можно просматривать операции, связанные с любой работой.  
+<span data-ttu-id="d9736-157">Это позволяет отследить и сравнить первоначальные оценки с фактическими результатами, и при необходимости внести изменения или создать новые операции.</span><span class="sxs-lookup"><span data-stu-id="d9736-157">This lets you track and compare your original estimates against actual results and make modifications or new entries as needed.</span></span> <span data-ttu-id="d9736-158">Пусть, например, рассчитаны показали, что для выполнения работы необходимо 10 часов, а сегодняшний день выполнение заняло 15 часов.</span><span class="sxs-lookup"><span data-stu-id="d9736-158">For example, you may have estimated that a job required 10 hours, and to date, it has taken 15 hours.</span></span> <span data-ttu-id="d9736-159">Программа позволяет добавить дополнительные 5 часов в существующей строке журнала или создать новую строку для записи этих дополнительных 5 часов как сверхурочных, что соответствует другому типу работы.</span><span class="sxs-lookup"><span data-stu-id="d9736-159">You can add the extra five hours to the existing journal line or create a new journal line to report these five hours as overtime, which is another work type.</span></span> <span data-ttu-id="d9736-160">Себестоимость и цена рассчитаны правильно и их можно учесть в журнале.</span><span class="sxs-lookup"><span data-stu-id="d9736-160">The appropriate cost and price are calculated, and you can then post to the journal.</span></span>  
 
-## <a name="see-also"></a>См. также
-[Управление проектами](projects-manage-projects.md)  
-[Финансы](finance.md)  
-[Покупки](purchasing-manage-purchasing.md)         
-[Продажи](sales-manage-sales.md)      
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+> [!NOTE]  
+>   <span data-ttu-id="d9736-161">Операции товара приводят к созданию операций журнала товаров и уменьшению количества запасов.</span><span class="sxs-lookup"><span data-stu-id="d9736-161">Item entries create item ledger entries and reduce the inventory quantity.</span></span> <span data-ttu-id="d9736-162">Пакетное задание **Учет себест. запасов в ГК** переносит себестоимость из книги запасов в Главную книгу.</span><span class="sxs-lookup"><span data-stu-id="d9736-162">The **Post Inventory Cost to G/L** batch job transfers the cost from inventory to the general ledger.</span></span> <span data-ttu-id="d9736-163">Операции ресурсов приводят к созданию операций книги ресурсов.</span><span class="sxs-lookup"><span data-stu-id="d9736-163">Resource entries create resource ledger entries.</span></span>  
+
+1. <span data-ttu-id="d9736-164">Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Журналы работ**, а затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="d9736-164">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Job Journals**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="d9736-165">Выберите соответствующий журнал работ, затем выберите действие **Расчет остаточного потребления**.</span><span class="sxs-lookup"><span data-stu-id="d9736-165">Select a relevant job journal, and then choose the **Calc. Remaining Usage** action.</span></span>  
+3. <span data-ttu-id="d9736-166">В окне **Работа - расчет остаточного потребления** введите номер документа и дату учета, которые следует вставить в журнал, затем выберите кнопку **ОК**.</span><span class="sxs-lookup"><span data-stu-id="d9736-166">In the **Job Calc. Remaining Usage** window, enter the document number and posting date that is to be inserted in the journal, and then choose the **OK** button.</span></span>  
+4. <span data-ttu-id="d9736-167">Обновите журнал, внеся в него все изменения, которые могут требоваться.</span><span class="sxs-lookup"><span data-stu-id="d9736-167">Update the journal with any modifications that may be needed.</span></span>  
+5. <span data-ttu-id="d9736-168">Выберите **Учесть**.</span><span class="sxs-lookup"><span data-stu-id="d9736-168">Choose the **Post**.</span></span>
+
+## <a name="to-view-job-ledger-entries"></a><span data-ttu-id="d9736-169">Просмотр операций книги работ</span><span class="sxs-lookup"><span data-stu-id="d9736-169">To view job ledger entries</span></span>
+<span data-ttu-id="d9736-170">Все записи, связанные с работой, регистрируются в регистрах работ и нумеруются последовательно, начиная с 1.</span><span class="sxs-lookup"><span data-stu-id="d9736-170">All job-related entries are recorded in job registers and are numbered sequentially, starting with 1.</span></span> <span data-ttu-id="d9736-171">Перечень всех учтенных операций работ содержится в регистрах работ, откуда можно получить их всесторонний обзор.</span><span class="sxs-lookup"><span data-stu-id="d9736-171">From the job register, you can get an overview of all job ledger entries.</span></span>    
+
+1. <span data-ttu-id="d9736-172">Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Регистры работ**, а затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="d9736-172">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Job Registers**, and then choose the related link.</span></span>
+2. <span data-ttu-id="d9736-173">Выберите соответствующий регистр, затем выберите действие **Книга работ**.</span><span class="sxs-lookup"><span data-stu-id="d9736-173">Select a relevant register, and then choose **Job Ledger** action.</span></span>
+
+<span data-ttu-id="d9736-174">В окне **Операции книги работ** можно просматривать операции, связанные с любой работой.</span><span class="sxs-lookup"><span data-stu-id="d9736-174">In the **Job Ledger Entries** window you can review the entries that are associated with any job.</span></span>  
+
+## <a name="see-also"></a><span data-ttu-id="d9736-175">См. также</span><span class="sxs-lookup"><span data-stu-id="d9736-175">See Also</span></span>
+[<span data-ttu-id="d9736-176">Управление проектами</span><span class="sxs-lookup"><span data-stu-id="d9736-176">Manage Projects</span></span>](projects-manage-projects.md)  
+[<span data-ttu-id="d9736-177">Финансы</span><span class="sxs-lookup"><span data-stu-id="d9736-177">Finance</span></span>](finance.md)  
+<span data-ttu-id="d9736-178">[Покупки](purchasing-manage-purchasing.md)       </span><span class="sxs-lookup"><span data-stu-id="d9736-178">[Purchasing](purchasing-manage-purchasing.md)       </span></span>  
+<span data-ttu-id="d9736-179">[Продажи](sales-manage-sales.md)    </span><span class="sxs-lookup"><span data-stu-id="d9736-179">[Sales](sales-manage-sales.md)    </span></span>  
+<span data-ttu-id="d9736-180">[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="d9736-180">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>  
 

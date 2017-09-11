@@ -16,46 +16,46 @@ ms.translationtype: Human Translation
 ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
 ms.openlocfilehash: 20661cce60bc9007adb9767388bf5af6f9c3acb9
 ms.contentlocale: ru-ru
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 09/11/2017
 
 
 ---
-# <a name="how-to-transfer-bank-funds"></a>Практическое руководство. Перевод банковских средств
-Иногда бывает необходимо перевести сумму с одного банковского счета на другой. Для этого необходимо учесть транзакцию в финансовом журнале. Задача зависит от того, используется на банковских счетах одна валюта или различные валюты.
+# <a name="how-to-transfer-bank-funds"></a><span data-ttu-id="7581a-103">Практическое руководство. Перевод банковских средств</span><span class="sxs-lookup"><span data-stu-id="7581a-103">How to: Transfer Bank Funds</span></span>
+<span data-ttu-id="7581a-104">Иногда бывает необходимо перевести сумму с одного банковского счета на другой.</span><span class="sxs-lookup"><span data-stu-id="7581a-104">You may sometimes need to transfer an amount from one bank account to another.</span></span> <span data-ttu-id="7581a-105">Для этого необходимо учесть транзакцию в финансовом журнале.</span><span class="sxs-lookup"><span data-stu-id="7581a-105">To do this, you must post the a transaction in the general journal.</span></span> <span data-ttu-id="7581a-106">Задача зависит от того, используется на банковских счетах одна валюта или различные валюты.</span><span class="sxs-lookup"><span data-stu-id="7581a-106">The task varies depending on whether the bank accounts use the same currency or different currencies.</span></span>
 
-## <a name="to-post-a-transfer-between-bank-accounts-with-the-same-currency-code"></a>Учет перемещения между банковскими счетами с одним кодом валюты
-1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Финансовый журнал**, а затем выберите связанную ссылку.
-2. В строке журнала заполните поля **Дата учета** и **Номер документа** .
-3. В поле **Тип счета** выберите значение **Банковский счет**.
-4. В поле **Номер счета** выберите банк, из которого необходимо перевести средства.
-5. В поле **Сумма** укажите сумму для перевода.
-6. В поле **Тип баланс. счета** выберите **Банковский счет.**
-7. В поле **Номер баланс. счета** выберите банковский счет, на который необходимо перевести средства.
-8. Учтите журнал.
+## <a name="to-post-a-transfer-between-bank-accounts-with-the-same-currency-code"></a><span data-ttu-id="7581a-107">Учет перемещения между банковскими счетами с одним кодом валюты</span><span class="sxs-lookup"><span data-stu-id="7581a-107">To post a transfer between bank accounts with the same currency code</span></span>
+1. <span data-ttu-id="7581a-108">Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Финансовый журнал**, а затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="7581a-108">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **General Journal**, and then choose the related link.</span></span>
+2. <span data-ttu-id="7581a-109">В строке журнала заполните поля **Дата учета** и **Номер документа**</span><span class="sxs-lookup"><span data-stu-id="7581a-109">On a journal line, fill in the **Posting Date** and **Document No.**</span></span> <span data-ttu-id="7581a-110">.</span><span class="sxs-lookup"><span data-stu-id="7581a-110">fields.</span></span>
+3. <span data-ttu-id="7581a-111">В поле **Тип счета** выберите значение **Банковский счет**.</span><span class="sxs-lookup"><span data-stu-id="7581a-111">In the **Account Type** field, select **Bank Account**.</span></span>
+4. <span data-ttu-id="7581a-112">В поле **Номер счета**</span><span class="sxs-lookup"><span data-stu-id="7581a-112">In the **Account No.**</span></span> <span data-ttu-id="7581a-113">выберите банк, из которого необходимо перевести средства.</span><span class="sxs-lookup"><span data-stu-id="7581a-113">field, select the bank from which you want to transfer the funds.</span></span>
+5. <span data-ttu-id="7581a-114">В поле **Сумма** укажите сумму для перевода.</span><span class="sxs-lookup"><span data-stu-id="7581a-114">In the **Amount** field, enter the amount to be transferred.</span></span>
+6. <span data-ttu-id="7581a-115">В поле **Тип баланс. счета** выберите **Банковский счет.**</span><span class="sxs-lookup"><span data-stu-id="7581a-115">In the **Bal. Account Type** field, select **Bank Account**.</span></span>
+7. <span data-ttu-id="7581a-116">В поле **Номер баланс. счета**</span><span class="sxs-lookup"><span data-stu-id="7581a-116">In the **Bal. Account No.**</span></span> <span data-ttu-id="7581a-117">выберите банковский счет, на который необходимо перевести средства.</span><span class="sxs-lookup"><span data-stu-id="7581a-117">field, select the bank account to which you want to transfer the funds.</span></span>
+8. <span data-ttu-id="7581a-118">Учтите журнал.</span><span class="sxs-lookup"><span data-stu-id="7581a-118">Post the journal.</span></span>
 
-## <a name="to-post-a-transfer-between-bank-accounts-with-different-currency-codes"></a>Учет перемещения между банковскими счетами с разными кодами валют
-Для переноса средств между банковскими счетами, которые используют различные валюты, необходимо учесть две строки финансового журнала.
+## <a name="to-post-a-transfer-between-bank-accounts-with-different-currency-codes"></a><span data-ttu-id="7581a-119">Учет перемещения между банковскими счетами с разными кодами валют</span><span class="sxs-lookup"><span data-stu-id="7581a-119">To post a transfer between bank accounts with different currency codes</span></span>
+<span data-ttu-id="7581a-120">Для переноса средств между банковскими счетами, которые используют различные валюты, необходимо учесть две строки финансового журнала.</span><span class="sxs-lookup"><span data-stu-id="7581a-120">To transfer funds between bank accounts that use different currencies, you must post two general journal lines.</span></span>
 
-1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Финансовый журнал**, а затем выберите связанную ссылку.
-2. Создайте две строки журнала и заполните поля **Дата учета** и **Номер документа** .
-3. В первой строке журнала в поле **Тип** выберите **Банковский счет**.
-4. В поле **Номер счета** выберите банковский счет, c которого необходимо перевести средства.
-5. В поле **Сумма** введите сумму в валюте банковского счета. Введите суммы кредита со знаком "минус". Введите суммы дебета без знака "минус".
-6. В поле **Тип баланс. счета** выберите **Банковский счет.**
-7. В поле **Номер баланс. счета** выберите банковский счет, на который необходимо перевести средства.
-8. Во второй строке журнала в поле **Тип** выберите **Банковский счет**.
-9. В поле **Номер счета** выберите банковский счет, на который необходимо перевести средства.
-10. В поле **Сумма** введите сумму в валюте банковского счета. Введите суммы кредита со знаком "минус". Введите суммы дебета без знака "минус".
-11. В поле **Тип баланс. счета** выберите **Банковский счет.**  
-12. В поле **Номер баланс. счета** выберите банковский счет, c которого необходимо перевести средства.
+1. <span data-ttu-id="7581a-121">Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Финансовый журнал**, а затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="7581a-121">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **General Journal**, and then choose the related link.</span></span>
+2. <span data-ttu-id="7581a-122">Создайте две строки журнала и заполните поля **Дата учета** и **Номер документа**</span><span class="sxs-lookup"><span data-stu-id="7581a-122">Create two journal lines, and fill in the **Posting Date** and **Document No.**</span></span> <span data-ttu-id="7581a-123">.</span><span class="sxs-lookup"><span data-stu-id="7581a-123">fields.</span></span>
+3. <span data-ttu-id="7581a-124">В первой строке журнала в поле **Тип** выберите **Банковский счет**.</span><span class="sxs-lookup"><span data-stu-id="7581a-124">On the first journal line, in the **Type** field, select **Bank Account**.</span></span>
+4. <span data-ttu-id="7581a-125">В поле **Номер счета**</span><span class="sxs-lookup"><span data-stu-id="7581a-125">In the **Account No.**</span></span> <span data-ttu-id="7581a-126">выберите банковский счет, c которого необходимо перевести средства.</span><span class="sxs-lookup"><span data-stu-id="7581a-126">field, select the bank account from which you want to transfer the funds.</span></span>
+5. <span data-ttu-id="7581a-127">В поле **Сумма** введите сумму в валюте банковского счета.</span><span class="sxs-lookup"><span data-stu-id="7581a-127">In the **Amount** field, enter the amount in the currency of the bank account.</span></span> <span data-ttu-id="7581a-128">Введите суммы кредита со знаком "минус".</span><span class="sxs-lookup"><span data-stu-id="7581a-128">Enter credit amounts with a minus sign.</span></span> <span data-ttu-id="7581a-129">Введите суммы дебета без знака "минус".</span><span class="sxs-lookup"><span data-stu-id="7581a-129">Enter debit amounts without a minus sign.</span></span>
+6. <span data-ttu-id="7581a-130">В поле **Тип баланс. счета** выберите **Банковский счет.**</span><span class="sxs-lookup"><span data-stu-id="7581a-130">In the **Bal. Account Type** field, select **Bank Account**.</span></span>
+7. <span data-ttu-id="7581a-131">В поле **Номер баланс. счета**</span><span class="sxs-lookup"><span data-stu-id="7581a-131">In the **Bal. Account No.**</span></span> <span data-ttu-id="7581a-132">выберите банковский счет, на который необходимо перевести средства.</span><span class="sxs-lookup"><span data-stu-id="7581a-132">field, select the bank account to which you want to transfer the funds.</span></span>
+8. <span data-ttu-id="7581a-133">Во второй строке журнала в поле **Тип** выберите **Банковский счет**.</span><span class="sxs-lookup"><span data-stu-id="7581a-133">On the second journal line, in the **Type** field, select **Bank Account**.</span></span>
+9. <span data-ttu-id="7581a-134">В поле **Номер счета**</span><span class="sxs-lookup"><span data-stu-id="7581a-134">In the **Account No.**</span></span> <span data-ttu-id="7581a-135">выберите банковский счет, на который необходимо перевести средства.</span><span class="sxs-lookup"><span data-stu-id="7581a-135">field, select the bank account to which you want to transfer the funds.</span></span>
+10. <span data-ttu-id="7581a-136">В поле **Сумма** введите сумму в валюте банковского счета.</span><span class="sxs-lookup"><span data-stu-id="7581a-136">In the **Amount** field, enter the amount in the currency of the bank account.</span></span> <span data-ttu-id="7581a-137">Введите суммы кредита со знаком "минус".</span><span class="sxs-lookup"><span data-stu-id="7581a-137">Enter credit amounts with a minus sign.</span></span> <span data-ttu-id="7581a-138">Введите суммы дебета без знака "минус".</span><span class="sxs-lookup"><span data-stu-id="7581a-138">Enter debit amounts without a minus sign.</span></span>
+11. <span data-ttu-id="7581a-139">В поле **Тип баланс. счета** выберите **Банковский счет.**</span><span class="sxs-lookup"><span data-stu-id="7581a-139">In the **Bal. Account Type** field, select **Bank Account**.</span></span>  
+12. <span data-ttu-id="7581a-140">В поле **Номер баланс. счета**</span><span class="sxs-lookup"><span data-stu-id="7581a-140">In the **Bal. Account No.**</span></span> <span data-ttu-id="7581a-141">выберите банковский счет, c которого необходимо перевести средства.</span><span class="sxs-lookup"><span data-stu-id="7581a-141">field, select the bank account from which you want to transfer the funds.</span></span>
 
     > [!NOTE]  
->   Если валютные курсы, используемые в журнале, отличаются от валютных курсов в окне **Валютные курсы**, введите в третью строку положительную или отрицательную курсовую разницу. Введите **Счет ГК** в поле **Тип счета**. Введите номер счета ГК для прибыли или убытка по курсовой разнице в поле **Номер счета** . Введите прибыль или убыток по курсовой разнице в поле **Сумма** со знаком минус или без него для сумм кредита и дебета соответственно.
-13. Выполните учет журнала.
+>   <span data-ttu-id="7581a-142">Если валютные курсы, используемые в журнале, отличаются от валютных курсов в окне **Валютные курсы**, введите в третью строку положительную или отрицательную курсовую разницу.</span><span class="sxs-lookup"><span data-stu-id="7581a-142">If the exchange rates used in the journal are different than the exchange rates in the **Currency Exchange Rates** window, enter a third line for the exchange rate gain or loss.</span></span> <span data-ttu-id="7581a-143">Введите **Счет ГК** в поле **Тип счета**.</span><span class="sxs-lookup"><span data-stu-id="7581a-143">Enter **G/L Account** in the **Account Type** field.</span></span> <span data-ttu-id="7581a-144">Введите номер счета ГК для прибыли или убытка по курсовой разнице в поле **Номер счета**</span><span class="sxs-lookup"><span data-stu-id="7581a-144">Enter the G/L account number for exchange rate gain or loss in the **Account No.**</span></span> <span data-ttu-id="7581a-145">.</span><span class="sxs-lookup"><span data-stu-id="7581a-145">field.</span></span> <span data-ttu-id="7581a-146">Введите прибыль или убыток по курсовой разнице в поле **Сумма** со знаком минус или без него для сумм кредита и дебета соответственно.</span><span class="sxs-lookup"><span data-stu-id="7581a-146">Enter the exchange rate gain or loss in the **Amount** field with or without a minus sign for credits and debits respectively.</span></span>
+13. <span data-ttu-id="7581a-147">Выполните учет журнала.</span><span class="sxs-lookup"><span data-stu-id="7581a-147">Post the journal.</span></span>
 
-## <a name="see-also"></a>См. также
-[Управление банковскими счетами](bank-manage-bank-accounts.md)  
-[Настройка банковских операций](bank-setup-banking.md)  
-[Работа с финансовыми журналами](ui-work-general-journals.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+## <a name="see-also"></a><span data-ttu-id="7581a-148">См. также</span><span class="sxs-lookup"><span data-stu-id="7581a-148">See Also</span></span>
+[<span data-ttu-id="7581a-149">Управление банковскими счетами</span><span class="sxs-lookup"><span data-stu-id="7581a-149">Managing Bank Accounts</span></span>](bank-manage-bank-accounts.md)  
+[<span data-ttu-id="7581a-150">Настройка банковских операций</span><span class="sxs-lookup"><span data-stu-id="7581a-150">Setting Up Banking</span></span>](bank-setup-banking.md)  
+[<span data-ttu-id="7581a-151">Работа с финансовыми журналами</span><span class="sxs-lookup"><span data-stu-id="7581a-151">Working with General Journals</span></span>](ui-work-general-journals.md)  
+<span data-ttu-id="7581a-152">[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="7581a-152">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>
 

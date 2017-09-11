@@ -16,31 +16,30 @@ ms.translationtype: Human Translation
 ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
 ms.openlocfilehash: 7ce0a022520b161fd0159fceb1cc1ecd3d14f4ec
 ms.contentlocale: ru-ru
-ms.lasthandoff: 07/07/2017
-
+ms.lasthandoff: 09/11/2017
 
 ---
-# <a name="creating-contact-persons"></a>Создание контактных лиц
-Чтобы создать контакт, настройте карточку контакта для лица. Чтобы создать контактное лицо, используйте имеющиеся контактные организации или создайте независимое контактное лицо.
+# <a name="creating-contact-persons"></a><span data-ttu-id="a7bb6-103">Создание контактных лиц</span><span class="sxs-lookup"><span data-stu-id="a7bb6-103">Creating Contact Persons</span></span>
+<span data-ttu-id="a7bb6-104">Чтобы создать контакт, настройте карточку контакта для лица.</span><span class="sxs-lookup"><span data-stu-id="a7bb6-104">You create a contact by setting up a contact card for the person.</span></span> <span data-ttu-id="a7bb6-105">Чтобы создать контактное лицо, используйте имеющиеся контактные организации или создайте независимое контактное лицо.</span><span class="sxs-lookup"><span data-stu-id="a7bb6-105">You can create contact persons from existing contact companies, or you can create independent contact persons.</span></span>
 
-Например, после встречи с представителями интересующей вас организации вы встретились с менеджером. Можно создать для этого лица карточку контакта, чтобы сделать коммуникацию управляемой.
+<span data-ttu-id="a7bb6-106">Например, после встречи с представителями интересующей вас организации вы встретились с менеджером.</span><span class="sxs-lookup"><span data-stu-id="a7bb6-106">For example, after meeting with a prospective company, you meet the purchaser.</span></span> <span data-ttu-id="a7bb6-107">Можно создать для этого лица карточку контакта, чтобы сделать коммуникацию управляемой.</span><span class="sxs-lookup"><span data-stu-id="a7bb6-107">You can create a contact card for this person so communication can be more tailored.</span></span>
 
-Также вам может потребоваться перевод публикаций о ваших продуктах, и после некоторых исследований вы можете остановиться на переводчике-фрилансере. Можно записать этот контакт как независимое контактное лицо.
+<span data-ttu-id="a7bb6-108">Также вам может потребоваться перевод публикаций о ваших продуктах, и после некоторых исследований вы можете остановиться на переводчике-фрилансере.</span><span class="sxs-lookup"><span data-stu-id="a7bb6-108">You may also need some publications about your products translated and after some research decide on a freelance translator.</span></span> <span data-ttu-id="a7bb6-109">Можно записать этот контакт как независимое контактное лицо.</span><span class="sxs-lookup"><span data-stu-id="a7bb6-109">You should record this contact as an independent contact person.</span></span>
 
-Записав как можно больше сведений о контактном лице, вы найти нужные сведения среди всех групп и организаций.
+<span data-ttu-id="a7bb6-110">Записав как можно больше сведений о контактном лице, вы найти нужные сведения среди всех групп и организаций.</span><span class="sxs-lookup"><span data-stu-id="a7bb6-110">By recording as many details as possible about a contact person ensures that all groups at your company can find the relevant information.</span></span>
 
-В следующей таблице приводится последовательность задач со ссылками на разделы, в которых они описываются. Эти задачи перечислены в обычном порядке их выполнения.
+<span data-ttu-id="a7bb6-111">В следующей таблице приводится последовательность задач со ссылками на разделы, в которых они описываются.</span><span class="sxs-lookup"><span data-stu-id="a7bb6-111">The following table describes a sequence of tasks, with links to the topics that describe them.</span></span> <span data-ttu-id="a7bb6-112">Эти задачи перечислены в обычном порядке их выполнения.</span><span class="sxs-lookup"><span data-stu-id="a7bb6-112">These tasks are listed in the order in which they are generally performed.</span></span>
 
-| Действие | Ссылка |
+| <span data-ttu-id="a7bb6-113">Действие</span><span class="sxs-lookup"><span data-stu-id="a7bb6-113">To</span></span> | <span data-ttu-id="a7bb6-114">Ссылка</span><span class="sxs-lookup"><span data-stu-id="a7bb6-114">See</span></span> |
 | --- | --- |
-| Предоставить сведения о контактном лице. |[Практическое руководство. Создание контактных лиц](marketing-how-create-contact-persons.md) |
-| Настройка альтернативного адреса для контакта. |[Практическое руководство. Назначение альтернативных адресов](marketing-how-assign-alternate-address.md) |
-| Описать деловые отношения с контактной организацией. |[Практическое руководство. Настройка должностных обязанностей в контактах](marketing-job-responsibilities.md) |
-| Опишите организационный уровень своих контактов. |[Практическое руководство. Настройка организационных уровней для контактных лиц](marketing-organizational-levels.md) |
-| Присвоение групп рассылки контактам |[Присвоение групп рассылки контакту](marketing-mailing-groups.md) |
+| <span data-ttu-id="a7bb6-115">Предоставить сведения о контактном лице.</span><span class="sxs-lookup"><span data-stu-id="a7bb6-115">Provide information about a contact person.</span></span> |[<span data-ttu-id="a7bb6-116">Практическое руководство. Создание контактных лиц</span><span class="sxs-lookup"><span data-stu-id="a7bb6-116">How to: Create Contact Persons</span></span>](marketing-how-create-contact-persons.md) |
+| <span data-ttu-id="a7bb6-117">Настройка альтернативного адреса для контакта.</span><span class="sxs-lookup"><span data-stu-id="a7bb6-117">Set up an alternate address for a contact.</span></span> |[<span data-ttu-id="a7bb6-118">Практическое руководство. Назначение альтернативных адресов</span><span class="sxs-lookup"><span data-stu-id="a7bb6-118">How to: Assign Alternative Addresses</span></span>](marketing-how-assign-alternate-address.md) |
+| <span data-ttu-id="a7bb6-119">Описать деловые отношения с контактной организацией.</span><span class="sxs-lookup"><span data-stu-id="a7bb6-119">Describe the business relationship of a company contact.</span></span> |[<span data-ttu-id="a7bb6-120">Практическое руководство. Настройка должностных обязанностей в контактах</span><span class="sxs-lookup"><span data-stu-id="a7bb6-120">How to: Set Up Job Responsibilities on Contacts</span></span>](marketing-job-responsibilities.md) |
+| <span data-ttu-id="a7bb6-121">Опишите организационный уровень своих контактов.</span><span class="sxs-lookup"><span data-stu-id="a7bb6-121">Describe the organizational level of your contacts.</span></span> |[<span data-ttu-id="a7bb6-122">Практическое руководство. Настройка организационных уровней для контактных лиц</span><span class="sxs-lookup"><span data-stu-id="a7bb6-122">How to: Set Up Organizational Levels for Contact Persons</span></span>](marketing-organizational-levels.md) |
+| <span data-ttu-id="a7bb6-123">Присвоение групп рассылки контактам</span><span class="sxs-lookup"><span data-stu-id="a7bb6-123">Assign mailing groups your contacts</span></span> |[<span data-ttu-id="a7bb6-124">Присвоение групп рассылки контакту</span><span class="sxs-lookup"><span data-stu-id="a7bb6-124">Assigning Mailing Groups to a Contact</span></span>](marketing-mailing-groups.md) |
 
-## <a name="see-also"></a>См. также
-[Создание контактных организаций](marketing-create-contact-companies.md)  
-[Создание контактов и управление ими](marketing-create-contact-persons.md)  
-[Работа с Financials](ui-work-product.md)
+## <a name="see-also"></a><span data-ttu-id="a7bb6-125">См. также</span><span class="sxs-lookup"><span data-stu-id="a7bb6-125">See Also</span></span>
+[<span data-ttu-id="a7bb6-126">Создание контактных организаций</span><span class="sxs-lookup"><span data-stu-id="a7bb6-126">Creating Contact Companies</span></span>](marketing-create-contact-companies.md)  
+[<span data-ttu-id="a7bb6-127">Создание контактов и управление ими</span><span class="sxs-lookup"><span data-stu-id="a7bb6-127">Creating and Managing Contacts</span></span>](marketing-create-contact-persons.md)  
+[<span data-ttu-id="a7bb6-128">Работа с Financials</span><span class="sxs-lookup"><span data-stu-id="a7bb6-128">Working with Financials</span></span>](ui-work-product.md)
 

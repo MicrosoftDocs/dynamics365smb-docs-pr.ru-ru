@@ -16,14 +16,13 @@ ms.translationtype: Human Translation
 ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
 ms.openlocfilehash: 106ad2acf2703e8182033a43a39c693a8b060d8f
 ms.contentlocale: ru-ru
-ms.lasthandoff: 07/07/2017
-
+ms.lasthandoff: 09/11/2017
 
 ---
-# <a name="specify-printer-selection-for-reports"></a>Выбор принтера для отчета
-Эта страница пустая, поскольку еще невозможно настроить определенные принтеры для конкретных отчетов. Мы работаем над разрешением этой проблемы.
+# <a name="specify-printer-selection-for-reports"></a><span data-ttu-id="1c85f-103">Выбор принтера для отчета</span><span class="sxs-lookup"><span data-stu-id="1c85f-103">Specify Printer Selection for Reports</span></span>
+<span data-ttu-id="1c85f-104">Эта страница пустая, поскольку еще невозможно настроить определенные принтеры для конкретных отчетов.</span><span class="sxs-lookup"><span data-stu-id="1c85f-104">This page is empty because you cannot yet set up specific printers for specific reports.</span></span> <span data-ttu-id="1c85f-105">Мы работаем над разрешением этой проблемы.</span><span class="sxs-lookup"><span data-stu-id="1c85f-105">We are working on solving this.</span></span>
 
-Между тем, если вам требуется напечатать отчет, вам следует сначала загрузить отчет как PDF-документ, нажав кнопку **Отправить**. Затем выберите тип файла для загрузки отчета, в данном случае — **Документ PDF**. Теперь можно либо открыть PDF-документ сразу же и напечатать его, либо сохранить документ и напечатать его позже.
+<span data-ttu-id="1c85f-106">Между тем, если вам требуется напечатать отчет, вам следует сначала загрузить отчет как PDF-документ, нажав кнопку **Отправить**.</span><span class="sxs-lookup"><span data-stu-id="1c85f-106">In the meantime, when you want to print a report you have to download the report as a PDF document first by choosing the **Send to** button.</span></span> <span data-ttu-id="1c85f-107">Затем выберите тип файла для загрузки отчета, в данном случае — **Документ PDF**.</span><span class="sxs-lookup"><span data-stu-id="1c85f-107">Then you select the type of file to download the report as, and here you should pick **PDF Document**.</span></span> <span data-ttu-id="1c85f-108">Теперь можно либо открыть PDF-документ сразу же и напечатать его, либо сохранить документ и напечатать его позже.</span><span class="sxs-lookup"><span data-stu-id="1c85f-108">Now, you can either open the PDF document right-away and print it, or save it and print it later.</span></span>
 
 <!--
 
@@ -46,8 +45,8 @@ The following table describes the combination of values to specify when you set 
 |Print a specific report to a specific printer for a specific user|Specify values in all three fields.|
 -->
 
-## <a name="see-also"></a>См. также
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
-[Практическое руководство. Запуск пакетных заданий](ui-how-run-batch-jobs.md)  
-[Практическое руководство. Отправка документов по электронной почте](ui-how-send-documents-email.md)  
+## <a name="see-also"></a><span data-ttu-id="1c85f-109">См. также</span><span class="sxs-lookup"><span data-stu-id="1c85f-109">See Also</span></span>
+<span data-ttu-id="1c85f-110">[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="1c85f-110">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>  
+[<span data-ttu-id="1c85f-111">Практическое руководство. Запуск пакетных заданий</span><span class="sxs-lookup"><span data-stu-id="1c85f-111">How to: Run Batch Jobs</span></span>](ui-how-run-batch-jobs.md)  
+[<span data-ttu-id="1c85f-112">Практическое руководство. Отправка документов по электронной почте</span><span class="sxs-lookup"><span data-stu-id="1c85f-112">How to: Send Documents by Email</span></span>](ui-how-send-documents-email.md)  
 

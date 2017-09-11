@@ -15,30 +15,29 @@ ms.translationtype: Human Translation
 ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
 ms.openlocfilehash: aedd27545da932155d453bf6aa476a4e9f898fc6
 ms.contentlocale: ru-ru
-ms.lasthandoff: 07/07/2017
-
+ms.lasthandoff: 09/11/2017
 
 ---
-# <a name="how-to-set-up-email-manually-or-using-the-assisted-setup"></a>Практическое руководство. Настройка электронной почты вручную или с помощью сопровождаемой настройки
-Для отправки и получения сообщений электронной почты в [!INCLUDE[d365fin](includes/d365fin_md.md)] следует заполнить поля в окне **Настройка эл. почты (SMTP)**.
+# <a name="how-to-set-up-email-manually-or-using-the-assisted-setup"></a><span data-ttu-id="a6106-103">Практическое руководство. Настройка электронной почты вручную или с помощью сопровождаемой настройки</span><span class="sxs-lookup"><span data-stu-id="a6106-103">How to: Set Up Email Manually or Using the Assisted Setup</span></span>
+<span data-ttu-id="a6106-104">Для отправки и получения сообщений электронной почты в [!INCLUDE[d365fin](includes/d365fin_md.md)] следует заполнить поля в окне **Настройка эл. почты (SMTP)**.</span><span class="sxs-lookup"><span data-stu-id="a6106-104">To send and receive emails from within [!INCLUDE[d365fin](includes/d365fin_md.md)], you must fill in the fields in the **SMTP Mail Setup** window.</span></span>
 
 > [!NOTE]  
->   Вместо ввода сведений о сервере SMTP можно использовать функцию для их ввода вместе с данными из вашей подписки Office 365.
+>   <span data-ttu-id="a6106-105">Вместо ввода сведений о сервере SMTP можно использовать функцию для их ввода вместе с данными из вашей подписки Office 365.</span><span class="sxs-lookup"><span data-stu-id="a6106-105">Instead of entering the SMTP server details, you can use a function to enter them with information from your Office 365 subscription.</span></span>
 
-Можно либо настроить электронную посту вручную, либо получить справку с помощью сопровождаемой настройки **Настройка электронной почты**. Дополнительные сведения см. в разделе [Подготовьтесь к ведению бизнеса](ui-get-ready-business.md).  
+<span data-ttu-id="a6106-106">Можно либо настроить электронную посту вручную, либо получить справку с помощью сопровождаемой настройки **Настройка электронной почты**.</span><span class="sxs-lookup"><span data-stu-id="a6106-106">You can either set email up manually or you can get help by using the **Email Setup** assisted setup.</span></span> <span data-ttu-id="a6106-107">Дополнительные сведения см. в разделе [Подготовьтесь к ведению бизнеса](ui-get-ready-business.md).</span><span class="sxs-lookup"><span data-stu-id="a6106-107">For more information, see [Getting Ready for Doing Business](ui-get-ready-business.md).</span></span>  
 
-## <a name="to-set-up-email"></a>Настройка электронной почты
-1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Настройка эл. почты (SMTP)**, а затем выберите связанную ссылку.
-2. Заполните соответствующим образом поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
-3. Либо выберите действие **Применить настройки сервера Office 365** для вставки сведений, которые уже определены для подписки Office 365.
-4. После правильного заполнения всех полей выберите действие **Проверить настройку эл. почты**.
-5. После успешного выполнения теста закройте окно.
+## <a name="to-set-up-email"></a><span data-ttu-id="a6106-108">Настройка электронной почты</span><span class="sxs-lookup"><span data-stu-id="a6106-108">To set up email</span></span>
+1. <span data-ttu-id="a6106-109">Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Настройка эл. почты (SMTP)**, а затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="a6106-109">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **SMTP Email Setup**, and then choose the related link.</span></span>
+2. <span data-ttu-id="a6106-110">Заполните соответствующим образом поля.</span><span class="sxs-lookup"><span data-stu-id="a6106-110">Fill in the fields as necessary.</span></span> [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
+3. <span data-ttu-id="a6106-111">Либо выберите действие **Применить настройки сервера Office 365** для вставки сведений, которые уже определены для подписки Office 365.</span><span class="sxs-lookup"><span data-stu-id="a6106-111">Alternatively, choose the **Apply Office 365 Server Settings** action to insert any information that is already defined for your Office 365 subscription.</span></span>
+4. <span data-ttu-id="a6106-112">После правильного заполнения всех полей выберите действие **Проверить настройку эл. почты**.</span><span class="sxs-lookup"><span data-stu-id="a6106-112">When all the fields are correctly filled in, choose the **Test Email Setup** action.</span></span>
+5. <span data-ttu-id="a6106-113">После успешного выполнения теста закройте окно.</span><span class="sxs-lookup"><span data-stu-id="a6106-113">When the test succeeds, close the window.</span></span>
 
-## <a name="see-also"></a>См. также  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
-[Установка [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md)  
-[Практическое руководство. Отправка документов по электронной почте](ui-how-send-documents-email.md)  
-[Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью расширений](ui-extensions.md)  
-[Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] в качестве рабочего почтового ящика в Outlook](madeira-outlook.md)  
-[Получение [!INCLUDE[d365fin](includes/d365fin_md.md)] на мобильном устройстве](install-mobile-app.md)
+## <a name="see-also"></a><span data-ttu-id="a6106-114">См. также</span><span class="sxs-lookup"><span data-stu-id="a6106-114">See Also</span></span>  
+<span data-ttu-id="a6106-115">[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="a6106-115">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>  
+<span data-ttu-id="a6106-116">[Установка [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md)</span><span class="sxs-lookup"><span data-stu-id="a6106-116">[Setting Up [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md)</span></span>  
+[<span data-ttu-id="a6106-117">Практическое руководство. Отправка документов по электронной почте</span><span class="sxs-lookup"><span data-stu-id="a6106-117">How to: Send Documents by Email</span></span>](ui-how-send-documents-email.md)  
+<span data-ttu-id="a6106-118">[Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью расширений](ui-extensions.md)</span><span class="sxs-lookup"><span data-stu-id="a6106-118">[Customizing [!INCLUDE[d365fin](includes/d365fin_md.md)] Using Extensions](ui-extensions.md)</span></span>  
+<span data-ttu-id="a6106-119">[Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] в качестве рабочего почтового ящика в Outlook](madeira-outlook.md)</span><span class="sxs-lookup"><span data-stu-id="a6106-119">[Using [!INCLUDE[d365fin](includes/d365fin_md.md)] as Your Business Inbox in Outlook](madeira-outlook.md)</span></span>  
+<span data-ttu-id="a6106-120">[Получение [!INCLUDE[d365fin](includes/d365fin_md.md)] на мобильном устройстве](install-mobile-app.md)</span><span class="sxs-lookup"><span data-stu-id="a6106-120">[Getting [!INCLUDE[d365fin](includes/d365fin_md.md)] on My Mobile Device](install-mobile-app.md)</span></span>
 
