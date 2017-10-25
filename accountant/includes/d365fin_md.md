@@ -1,1 +1,1 @@
-Финансовые документы
+<span data-ttu-id="41651-101">Financials</span><span class="sxs-lookup"><span data-stu-id="41651-101">Financials</span></span>

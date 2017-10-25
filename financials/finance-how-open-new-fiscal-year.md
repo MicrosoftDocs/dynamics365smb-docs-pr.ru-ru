@@ -1,8 +1,6 @@
 ---
-title: "Открытие нового финансового года | Документы Майкрософт"
+title: "Создание учетных периодов и финансовых лет | Документы Майкрософт"
 description: "Перед началом учета в финансовом году следует открыть его и определить учетные периоды."
-services: project-madeira
-documentationcenter: 
 author: edupont04
 ms.service: dynamics365-financials
 ms.topic: article
@@ -10,31 +8,34 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: accounting year, fiscal period
-ms.date: 06/02/2017
+ms.date: 07/17/2017
 ms.author: edupont
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
-ms.openlocfilehash: c653a43329f95c817560c5888fb282e64b57ba24
+ms.translationtype: HT
+ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
+ms.openlocfilehash: 1ae20c24b4a75a897a1bc7bc7f34898539a75449
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/11/2017
+ms.lasthandoff: 09/22/2017
 
 ---
-# <a name="how-to-open-a-new-fiscal-year"></a><span data-ttu-id="b4008-103">Практическое руководство. Открытие нового финансового года</span><span class="sxs-lookup"><span data-stu-id="b4008-103">How to: Open a New Fiscal Year</span></span>
-<span data-ttu-id="b4008-104">Перед началом учета в финансовом году следует открыть его и определить учетные периоды.</span><span class="sxs-lookup"><span data-stu-id="b4008-104">Before you can post in a fiscal year, you must open the fiscal year and define its accounting periods.</span></span>
+# <a name="how-to-open-a-new-fiscal-year-and-create-accounting-periods"></a><span data-ttu-id="1e8d6-103">Практическое руководство. Открытие финансового года и создание учетных периодов</span><span class="sxs-lookup"><span data-stu-id="1e8d6-103">How to: Open a New Fiscal Year and Create Accounting Periods</span></span>
+<span data-ttu-id="1e8d6-104">Перед началом учета в финансовом году следует открыть его и определить учетные периоды.</span><span class="sxs-lookup"><span data-stu-id="1e8d6-104">Before you can post in a fiscal year, you must open the fiscal year and define its accounting periods.</span></span>  
 
-## <a name="to-open-a-new-fiscal-year"></a><span data-ttu-id="b4008-105">Открытие нового финансового года</span><span class="sxs-lookup"><span data-stu-id="b4008-105">To open a new fiscal year</span></span>
-1. <span data-ttu-id="b4008-106">Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Учетные периоды**, а затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="b4008-106">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Accounting Periods**, and then choose the related link.</span></span>
-2. <span data-ttu-id="b4008-107">В окне **Учетные периоды** выберите действие **Создать год**.</span><span class="sxs-lookup"><span data-stu-id="b4008-107">In the **Accounting Periods** window, choose the **Create Year** action.</span></span>
-3. <span data-ttu-id="b4008-108">Заполните поля, чтобы определить структуру финансового года.</span><span class="sxs-lookup"><span data-stu-id="b4008-108">Fill in the fields to define the structure of the fiscal year.</span></span>
+<span data-ttu-id="1e8d6-105">Для многих организаций финансовый год не совпадает с календарным годом.</span><span class="sxs-lookup"><span data-stu-id="1e8d6-105">For many companies, the fiscal year does not coincide with the calendar year.</span></span> <span data-ttu-id="1e8d6-106">Финансовые периоды могут измеряться в других единицах времени, таких как месяцы или кварталы.</span><span class="sxs-lookup"><span data-stu-id="1e8d6-106">Fiscal periods can be measured in other units of time, such as months or quarters.</span></span> <span data-ttu-id="1e8d6-107">Можно использовать окно **Создание фин. года** для настройки учетных периодов в соответствии с потребностями бизнеса.</span><span class="sxs-lookup"><span data-stu-id="1e8d6-107">You can use the **Create Fiscal Year** window to set up the accounting periods that suit your business needs.</span></span> <span data-ttu-id="1e8d6-108">Однако,</span><span class="sxs-lookup"><span data-stu-id="1e8d6-108">However,</span></span>   
 
-    <span data-ttu-id="b4008-109">Как правило, финансовый год состоит из 12 периодов продолжительностью в один месяц каждый, но можно задать и другую его структуру.</span><span class="sxs-lookup"><span data-stu-id="b4008-109">The fiscal year is typically 12 periods of one month each, but you can also divide it in other ways.</span></span>
-4. <span data-ttu-id="b4008-110">Нажмите кнопку **ОК**.</span><span class="sxs-lookup"><span data-stu-id="b4008-110">Choose the **OK** button.</span></span>
+## <a name="to-open-a-new-fiscal-year"></a><span data-ttu-id="1e8d6-109">Открытие нового финансового года</span><span class="sxs-lookup"><span data-stu-id="1e8d6-109">To open a new fiscal year</span></span>
+1. <span data-ttu-id="1e8d6-110">Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Учетные периоды**, а затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="1e8d6-110">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Accounting Periods**, and then choose the related link.</span></span>
+2. <span data-ttu-id="1e8d6-111">В окне **Учетные периоды** выберите действие **Создать год**.</span><span class="sxs-lookup"><span data-stu-id="1e8d6-111">In the **Accounting Periods** window, choose the **Create Year** action.</span></span>
+3. <span data-ttu-id="1e8d6-112">Заполните поля, чтобы определить структуру финансового года.</span><span class="sxs-lookup"><span data-stu-id="1e8d6-112">Fill in the fields to define the structure of the fiscal year.</span></span>
 
-<span data-ttu-id="b4008-111">Учетные периоды будут добавлены на страницу.</span><span class="sxs-lookup"><span data-stu-id="b4008-111">The accounting periods are added to the page.</span></span> <span data-ttu-id="b4008-112">Будут заполнены поля **Дата начала** и **Название**.</span><span class="sxs-lookup"><span data-stu-id="b4008-112">The **Starting Date** and **Name** fields are filled in.</span></span> <span data-ttu-id="b4008-113">Поле **Название** использует название месяца из даты начала.</span><span class="sxs-lookup"><span data-stu-id="b4008-113">The **Name** field uses the name of the month from the starting date.</span></span> <span data-ttu-id="b4008-114">По окончании последнего периода финансового года будет вставлен учетный период и выбран флажок **Новый финансовый год**.</span><span class="sxs-lookup"><span data-stu-id="b4008-114">After the last period in the fiscal year, an accounting period is inserted and the **New Fiscal Year** check box is selected.</span></span>
+    <span data-ttu-id="1e8d6-113">Как правило, финансовый год состоит из 12 периодов продолжительностью в один месяц каждый, но можно задать и другую его структуру.</span><span class="sxs-lookup"><span data-stu-id="1e8d6-113">The fiscal year is typically 12 periods of one month each, but you can also divide it in other ways.</span></span>
+4. <span data-ttu-id="1e8d6-114">Нажмите кнопку **ОК**.</span><span class="sxs-lookup"><span data-stu-id="1e8d6-114">Choose the **OK** button.</span></span>
 
-## <a name="see-also"></a><span data-ttu-id="b4008-115">См. также</span><span class="sxs-lookup"><span data-stu-id="b4008-115">See Also</span></span>
-[<span data-ttu-id="b4008-116">Практическое руководство. Задание учетных периодов</span><span class="sxs-lookup"><span data-stu-id="b4008-116">How to: Specify Posting Periods</span></span>](finance-how-specify-posting-periods.md)  
-[<span data-ttu-id="b4008-117">Практическое руководство. Учет операции закрытия года</span><span class="sxs-lookup"><span data-stu-id="b4008-117">How to: Post the Year-End Closing Entry</span></span>](year-how-post-year-end-close-entry.md)  
-[<span data-ttu-id="b4008-118">Финансы</span><span class="sxs-lookup"><span data-stu-id="b4008-118">Finance</span></span>](finance.md)  
-<span data-ttu-id="b4008-119">[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="b4008-119">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>
+<span data-ttu-id="1e8d6-115">Учетные периоды добавляются на страницу с заполненными полями **Дата начала** и **Название**.</span><span class="sxs-lookup"><span data-stu-id="1e8d6-115">The accounting periods are added to the page with the **Starting Date** and **Name** fields filled in.</span></span> <span data-ttu-id="1e8d6-116">Названия по умолчанию основаны на названии месяца из даты начала, но имеется возможность изменить название.</span><span class="sxs-lookup"><span data-stu-id="1e8d6-116">The default names are based on the name of the month from the starting date, but you can change the name.</span></span> <span data-ttu-id="1e8d6-117">По окончании последнего периода финансового года будет вставлен дополнительный учетный период с установленным флажком **Новый финансовый год**.</span><span class="sxs-lookup"><span data-stu-id="1e8d6-117">After the last period in the fiscal year, an additional accounting period is inserted with the **New Fiscal Year** check box selected.</span></span>  
+
+
+## <a name="see-also"></a><span data-ttu-id="1e8d6-118">См. также</span><span class="sxs-lookup"><span data-stu-id="1e8d6-118">See Also</span></span>
+[<span data-ttu-id="1e8d6-119">Практическое руководство. Задание учетных периодов</span><span class="sxs-lookup"><span data-stu-id="1e8d6-119">How to: Specify Posting Periods</span></span>](finance-how-specify-posting-periods.md)  
+[<span data-ttu-id="1e8d6-120">Практическое руководство: учет операции закрытия года</span><span class="sxs-lookup"><span data-stu-id="1e8d6-120">How to: Post the Year-End Closing Entry</span></span>](year-how-post-year-end-close-entry.md)  
+[<span data-ttu-id="1e8d6-121">Финансы</span><span class="sxs-lookup"><span data-stu-id="1e8d6-121">Finance</span></span>](finance.md)  
+<span data-ttu-id="1e8d6-122">[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="1e8d6-122">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>
 
