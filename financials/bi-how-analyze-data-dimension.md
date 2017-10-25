@@ -12,12 +12,11 @@ ms.workload: na
 ms.search.keywords: bi, power BI, analysis, KPI
 ms.date: 06/13/2017
 ms.author: sgroespe
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
-ms.openlocfilehash: 463dcad5d918e9655cd92991403d00a76aca7d69
+ms.translationtype: HT
+ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
+ms.openlocfilehash: aebeb7a0e3a5fa83ba329bf222c50492f9cb003a
 ms.contentlocale: ru-ru
-ms.lasthandoff: 07/07/2017
-
+ms.lasthandoff: 09/22/2017
 
 ---
 #  <a name="how-to-analyze-data-by-dimensions"></a>Практическое руководство. Анализ данных по измерениям
@@ -25,8 +24,11 @@ ms.lasthandoff: 07/07/2017
 
 Анализ данных по измерениям позволяет осуществлять более глубокое исследование бизнес-процессов для анализа того, насколько успешно они выполняются, в каких областях происходит бизнес-рост, а в каких — нет, а также мест, в которых требуются дополнительные ресурсы.
 
+> [!TIP]
+> Для быстрого анализа транзакционных данных по измерениям можно отфильтровать итоговые суммы в планах счетов и записи во всех окнах **Операции** по измерениям. Найдите действие **Установить фильтр измерений**.
+
 > [!NOTE]  
->   Эта функция требует, чтобы было задано значение **Пакет**. Дополнительные сведения см. в разделе [Настройка взаимодействия [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-experiences.md).
+>   Эта функция требует, чтобы было задано значение **Suite**. Дополнительные сведения см. в разделе [Настройка взаимодействия [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-experiences.md).
 
 ## <a name="to-set-up-an-analysis-view"></a>Настройка аналитического отчета  
 Анализ по измерениям отображает выбранную комбинацию измерений. Каждый настроенный аналитический отчет можно сохранять и вызывать из базы данных. Информация для настройки анализа хранится на карточке **Представление анализа** в целях упрощения анализа в будущем.  
@@ -78,5 +80,6 @@ ms.lasthandoff: 07/07/2017
 [Финансы](finance.md)  
 [Настройка финансов](finance-setup-finance.md)  
 [Главная книга и план счетов](finance-general-ledger.md)  
+[Работа с измерениями](finance-dimensions.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 

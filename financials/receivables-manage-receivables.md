@@ -10,14 +10,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: customer payment, debtor, balance due, AR
-ms.date: 06/01/2017
+ms.date: 08/10/2017
 ms.author: sgroespe
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
-ms.openlocfilehash: 79b64e3cacdf582d4c1737b46dc197929b8a1450
+ms.translationtype: HT
+ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
+ms.openlocfilehash: a7944daaa0b07336361a03a9f46097f346481e66
 ms.contentlocale: ru-ru
-ms.lasthandoff: 07/07/2017
-
+ms.lasthandoff: 09/22/2017
 
 ---
 # <a name="managing-receivables"></a>Управление дебиторской задолженностью
@@ -42,6 +41,7 @@ ms.lasthandoff: 07/07/2017
 | Учет приходных кассовых ордеров или возмещений для клиентов в журнале приходных кассовых ордеров и их применение к операциям книги клиентов из журнала или из учтенных операций книги. |[Практическое руководство. Выверка платежей клиентов вручную](receivables-how-apply-sales-transactions-manually.md) |
 | Напоминание клиентам о просроченных суммах, вычисление процентов и финансовых расходов, в также управление дебиторской задолженностью. |[Практическое руководство. Сбор непогашенных остатков задолженности](receivables-collect-outstanding-balances.md) |
 |Проверьте, что вам известна себестоимость отгруженных товаров, назначив дополнительную себестоимость товаров, например за транспортировку, физическое обращение, страхование и другие расходы, которые вы несли при продаже.|[Практическое руководство. Использование товарных издержек для учета дополнительных торговых расходов](payables-how-assign-item-charges.md)|
+|Настройте отклонение, при котором система закрывает счет, даже если платеж, включая все скидки, не полностью покрывает сумму счета.|[Практическое руководство. Работа с отклонениями в оплате и отклонениями скидки по оплате](finance-payment-tolerance-and-payment-discount-tolerance.md)|
 ## <a name="see-also"></a>См. также
 [Продажи](sales-manage-sales.md)  
 [Управление кредиторской задолженностью](payables-manage-payables.md)  

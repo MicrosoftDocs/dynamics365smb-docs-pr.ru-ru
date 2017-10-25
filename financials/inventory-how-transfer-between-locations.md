@@ -12,12 +12,11 @@ ms.workload: na
 ms.search.keywords: move, warehouse
 ms.date: 06/02/2017
 ms.author: SorenGP
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
-ms.openlocfilehash: d54b75240cb0a2dddcfabc488a18e0bf9635f82c
+ms.translationtype: HT
+ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
+ms.openlocfilehash: 41804dc183f9fa05ec1599db34c2b4f76a790a72
 ms.contentlocale: ru-ru
-ms.lasthandoff: 07/07/2017
-
+ms.lasthandoff: 09/22/2017
 
 ---
 # <a name="how-to-transfer-inventory-between-locations"></a>Практическое руководство. Перемещение запасов между складами
@@ -33,14 +32,14 @@ ms.lasthandoff: 07/07/2017
 Для перемещения товаров, следует настроить склады и маршруты перемещения. Дополнительные сведения см. в разделе [Практическое руководство. Настройка складов](inventory-how-setup-locations.md).
 
 > [!NOTE]  
->   Эта функция требует, чтобы было задано значение **Пакет**. Дополнительные сведения см. в разделе [Настройка взаимодействия [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-experiences.md).
+>   Эта функция требует, чтобы было задано значение **Suite**. Дополнительные сведения см. в разделе [Настройка взаимодействия [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-experiences.md).
 
 ## <a name="to-transfer-items-with-a-transfer-order"></a>Перемещение товаров с помощью заказа на перемещение
 1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Заказы на перемещение**, а затем выберите связанную ссылку.
 2. В окне **Заказ на перемещение** заполните требуемые поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 
     > [!NOTE]  
->   Если заполнены поля **Код транзитного склада**, **Код экспедитора** и **Услуги экспедитора** в окне **Спец. транс. маршрута** при настройке маршрута перемещения, то соответствующие поля в заказе на перемещение заполняется автоматически.
+>   После заполнения полей **Код транзитного склада**, **Код экспедитора** и **Услуги экспедитора** в окне **Спец. транс. маршрута** при настройке маршрута перемещения соответствующие поля в заказе на перемещение заполняются автоматически.
 
     После заполнения поля **Услуги экспедитора** дата приемки на складе-получателе рассчитывается путем добавления времени услуг экспедитора к дате отгрузки.
 
@@ -65,7 +64,7 @@ ms.lasthandoff: 07/07/2017
 ## <a name="see-also"></a>См. также
 [Управление запасами](inventory-manage-inventory.md)  
 [Практическое руководство. Настройка складов](inventory-how-setup-locations.md)  
-[Цепочка поставок](madeira-supply-chain.md)  
+  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 [Настройка взаимодействия [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-experiences.md)  
 [Общие бизнес-функции](ui-across-business-areas.md)

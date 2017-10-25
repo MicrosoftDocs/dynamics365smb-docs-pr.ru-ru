@@ -10,14 +10,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: accounting, auditing, bookkeeping
-ms.date: 06/07/2017
+ms.date: 08/10/2017
 ms.author: edupont
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
-ms.openlocfilehash: 52fd9ae967dab9c6f90733e1ea25b6c875374243
+ms.translationtype: HT
+ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
+ms.openlocfilehash: b63e2e65f92edbbe10bcb5e2c340db31b1acda28
 ms.contentlocale: ru-ru
-ms.lasthandoff: 07/07/2017
-
+ms.lasthandoff: 09/22/2017
 
 ---
 # <a name="setting-up-finance"></a>Настройка финансов
@@ -31,13 +30,17 @@ ms.lasthandoff: 07/07/2017
 | --- | --- |
 | Выбор способа оплаты поставщикам. |[Определение способов оплаты](finance-payment-methods.md) |
 | Определяйте учетные группы, которые сопоставляют объекты, такие как клиенты, поставщики, товары, ресурсы и документов продажи и покупки со счетами главной книги. |[Настройка учетных групп](finance-posting-groups.md)|
+|Настройте отклонение, при котором система закрывает счет, даже если платеж, включая все скидки, не полностью покрывает сумму счета.|[Практическое руководство. Работа с отклонениями в оплате и отклонениями скидки по оплате](finance-payment-tolerance-and-payment-discount-tolerance.md)|
 | Настройте финансовые периоды. |[Практическое руководство. Открытие нового финансового года](finance-how-open-new-fiscal-year.md) |
 | Определите способ подачи в налоговые органы отчетов о суммах налога на добавленную стоимость, собранного в результате продаж. |[Практическое руководство. Подача отчета об НДС в налоговые органы](finance-how-report-vat.md)|
-| Настройка или обновление дополнительных валют при ведении международной торговли. |[Практическое руководство. Обновление валютных курсов](finance-how-update-currencies.md) |
+| Настройка функций продаж и покупок для обработки платежей в иностранных валютах.|[Практическое руководство. Включение операций книги в разных валютах](finance-how-enable-application-ledger-entries-different-currencies.md)
 | Добавление новых счетов для существующего плана счетов. |[Настройка плана счетов](finance-setup-chart-accounts.md) |
 | Настройка диаграмм бизнес-аналитики для анализа движения денежных средств. |[Настройка анализа движения денежных средств](finance-setup-cash-flow-analyses.md) |
+|Включение выставления счетов клиенту, который не настроен в системе.|[Практическое руководство. Настройка клиентов, оплачивающих наличными](finance-how-to-set-up-cash-customers.md)|
+| Настройка отчетности Интрастат и отправка отчета в уполномоченные органы | [Практическое руководство. Настройка и подача отчетности Интрастат](finance-how-setup-report-intrastat.md)|
 
 ## <a name="see-also"></a>См. также
+[Финансы](finance.md)  
 [Управление банковскими счетами](bank-manage-bank-accounts.md)  
 [Работа с измерениями](finance-dimensions.md)  
 [Импорт бизнес-данных из других финансовых систем](upload-data.md)  
@@ -45,3 +48,4 @@ ms.lasthandoff: 07/07/2017
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 
 ## [!INCLUDE[d365fin](includes/free_trial_md.md)]
+

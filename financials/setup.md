@@ -1,8 +1,6 @@
 ---
 title: "Обзор задач для настройки Dynamics 365 for Financials | Документы Майкрософт"
 description: "Описываются задачи по настройке, инициализации и конфигурированию Dynamics 365 for Financials в соответствии с вашими потребностями."
-services: project-madeira
-documentationcenter: 
 author: edupont04
 ms.service: dynamics365-financials
 ms.topic: article
@@ -10,14 +8,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: configure, initialize
-ms.date: 06/07/2017
+ms.date: 09/01/2017
 ms.author: edupont
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
-ms.openlocfilehash: e6efc11442a693da00c289866b726345ef97fb39
+ms.translationtype: HT
+ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
+ms.openlocfilehash: cbf0f6521db686f4e1a820070969bd0193227015
 ms.contentlocale: ru-ru
-ms.lasthandoff: 07/07/2017
-
+ms.lasthandoff: 09/22/2017
 
 ---
 # <a name="setting-up-dynamics-365-for-financials"></a>Настройка Dynamics 365 for Financials
@@ -38,15 +35,28 @@ ms.lasthandoff: 07/07/2017
 | Настройка правил и значений, которые определяют политики управления запасами организации, настройка местонахождений, если запасы хранятся на нескольких складах, а также классификация товаров для улучшения поиска и сортировки. |[Настройка запасов](inventory-setup-inventory.md) |
 | Настройка ресурсов, табелей учета рабочего времени и работ для управления проектами. |[Настройка управления проектами](projects-setup-projects.md) |
 | Настройка способа выпуска, ведения и амортизации основных средств, а также способа регистрации стоимости основных средств в книгах организации. |[Настройка основных средств](fa-setup.md) |
+|Определить общие правила и значения для складских процессов, а также конкретные параметры обработки на каждом складе.|[Настройка управления складом](warehouse-setup-warehouse.md)|
+|Подготовка производственных спецификаций и маршрутов для определения, как производятся конечные товары, и подготовка машинных или производственных центров для выполнения необходимых операций.|[Настройка производства](production-configure-production-processes.md)|
 | Настройка уникальных идентификационных кодов для записей, таких как карточки, документы и строки журнала, чтобы отслеживать их в системе. |[Создание серий номеров](ui-create-number-series.md) |
 | Настройка окна **Настройка эл. почты (SMTP)** для отправки и получения сообщений электронной почты из документов в [!INCLUDE[d365fin](includes/d365fin_md.md)]. |[Практическое руководство. Настройка электронной почты](madeira-how-setup-email.md) |
 | Настройка уникальных идентификационных кодов. |[Практическое руководство. Создание серий номеров](ui-create-number-series.md) |
 
+Для некоторых областей требуется, чтобы вы были администратором в вашей подписке [!INCLUDE[d365fin](includes/d365fin_md.md)]. Дополнительные сведения см. в разделе [Настройка и администрирование в Dynamics 365 for Financials](admin-setup-and-administration.md).  
+
 ## <a name="see-also"></a>См. также
 [Финансы](finance.md)  
-[Продажи](sales-manage-sales.md)  
+[Продажи](sales-manage-sales.md)
 [Покупки](purchasing-manage-purchasing.md)  
+[Наличие](inventory-manage-inventory.md)    
+[Управление проектом](projects-manage-projects.md)
+[Основные средства](fa-manage.md)    
+[Управление сборкой](assembly-assemble-items.md)  
+[Производство](production-manage-manufacturing.md)  
+[Управление складом](warehouse-manage-warehouse.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
-[Добро пожаловать в [!INCLUDE[d365fin](includes/d365fin_long_md.md)]](index.md)  
+[Настройка и администрирование в Dynamics 365 for Financials](admin-setup-and-administration.md)  
+[Создание новых организаций в [!INCLUDE[d365fin](includes/d365fin_md.md)]](about-new-company.md)  
+[Добро пожаловать в [!INCLUDE[d365fin](includes/d365fin_md.md)]](index.md)  
 
 ## [!INCLUDE[d365fin](includes/free_trial_md.md)]
+

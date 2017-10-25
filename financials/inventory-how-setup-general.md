@@ -10,14 +10,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: warehouse, stock
-ms.date: 06/02/2017
+ms.date: 08/23/2017
 ms.author: SorenGP
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
-ms.openlocfilehash: 328b522107b58029687dd9e3263ff53b10ede9a9
+ms.translationtype: HT
+ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
+ms.openlocfilehash: 79c1d376358cc6b2a622bc589627968c1197df03
 ms.contentlocale: ru-ru
-ms.lasthandoff: 07/07/2017
-
+ms.lasthandoff: 09/22/2017
 
 ---
 # <a name="how-to-set-up-general-inventory-information"></a>Практическое руководство. Настройка общей информации по запасам
@@ -27,10 +26,11 @@ ms.lasthandoff: 07/07/2017
 1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Настройка модуля "Запасы"**, а затем выберите связанную ссылку.
 2. В окне **Настройка запасов** заполните требуемые поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 
+Если требуется учитывать в расчетах входящее время обработки склада при планирования заказов в строке покупки, для запаса и склада это можно задать в окне **Настройка модуля "Запасы"** в качестве поведения по умолчанию. Дополнительные сведения см. в разделе [Практическое руководство. Расчет сроков планирования заказов](sales-how-to-calculate-order-promising-dates.md).  
+
 ## <a name="see-also"></a>См. также
 [Настройка запасов](inventory-setup-inventory.md)  
 [Управление запасами](inventory-manage-inventory.md)  
-[Цепочка поставок](madeira-supply-chain.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 [Настройка взаимодействия [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-experiences.md)  
 [Общие бизнес-функции](ui-across-business-areas.md)

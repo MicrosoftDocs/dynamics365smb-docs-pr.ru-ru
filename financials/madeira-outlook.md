@@ -12,12 +12,11 @@ ms.workload: na
 ms.search.keywords: SMTP, mail, Office 365
 ms.date: 06/02/2017
 ms.author: edupont
-ms.translationtype: Human Translation
+ms.translationtype: HT
 ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
 ms.openlocfilehash: 1944d7633c5f19a42ae8bbe022b8ef026e9515cd
 ms.contentlocale: ru-ru
-ms.lasthandoff: 07/07/2017
-
+ms.lasthandoff: 09/22/2017
 
 ---
 # <a name="using-dynamics-365-for-financials-as-your-business-inbox-in-outlook"></a>Использование Dynamics 365 for Financials в качестве рабочего почтового ящика в Outlook
@@ -57,7 +56,7 @@ ms.lasthandoff: 07/07/2017
 
 Аналогичным образом, в настольном клиенте Outlook можно проверить, что приложение [!INCLUDE[d365fin](includes/d365fin_md.md)] установлено, в окне **Управление надстройками**.  
 
-В обоих случаях, если [!INCLUDE[d365fin](includes/d365fin_md.md)] все еще отсутствует, необходимо получить файлы манифеста надстройки. Для получения более подробных сведений обратитесь к системному администратору Office 365.
+В обоих случаях, если [!INCLUDE[d365fin](includes/d365fin_md.md)] все еще отсутствует, необходимо получить файлы манифеста надстройки. Для получения более подробных сведений обратитесь к администратору Office 365.
 
 ## <a name="see-also"></a>См. также
 [Добро пожаловать в [!INCLUDE[d365fin](includes/d365fin_md.md)]](index.md)  

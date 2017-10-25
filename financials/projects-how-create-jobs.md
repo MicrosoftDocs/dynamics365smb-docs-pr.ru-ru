@@ -12,12 +12,11 @@ ms.workload: na
 ms.search.keywords: project management, task
 ms.date: 06/06/2017
 ms.author: sgroespe
-ms.translationtype: Human Translation
+ms.translationtype: HT
 ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
 ms.openlocfilehash: 50ea98d45875fa418d12c5ba378f26208d739126
 ms.contentlocale: ru-ru
-ms.lasthandoff: 07/07/2017
-
+ms.lasthandoff: 09/22/2017
 
 ---
 # <a name="how-to-create-jobs"></a>Практическое руководство. Создание работ
@@ -33,7 +32,7 @@ ms.lasthandoff: 07/07/2017
 >   Действие **Создать работу** ролевом центре **Менеджер проекта** запускает сопровождаемую настройку, которая направляет вас по шагам создания работы с интегрированными заданиями и строками планирования. Следующая процедура описывает выполнение этих шагов вручную.
 
 > [!NOTE]  
->   Эта функция требует, чтобы было задано значение **Пакет**. Дополнительные сведения см. в разделе [Настройка взаимодействия [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-experiences.md).
+>   Эта функция требует, чтобы было задано значение **Suite**. Дополнительные сведения см. в разделе [Настройка взаимодействия [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-experiences.md).
 
 ## <a name="to-create-a-job-card"></a>Создание карточки работы
 Вы создаете карточку работы, затем создаете строки рабочего задания и строки планирования работ для него.

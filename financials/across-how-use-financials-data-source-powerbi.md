@@ -10,12 +10,11 @@ ms.workload: na
 ms.search.keywords: business intelligence, KPI, Odata, Power App, SOAP, analysis
 ms.date: 06/06/2017
 ms.author: edupont
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
-ms.openlocfilehash: 53fb2ae7bbbaf3215ca2549e207512f7c06838b4
+ms.translationtype: HT
+ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
+ms.openlocfilehash: 3f98a08415a896c37868bf0ed5efd9314d5ab07a
 ms.contentlocale: ru-ru
-ms.lasthandoff: 07/07/2017
-
+ms.lasthandoff: 09/22/2017
 
 ---
 # <a name="using-included365finincludesd365finmdmd-as-a-power-bi-data-source"></a>Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] как источника данных Power BI
@@ -43,6 +42,7 @@ ms.lasthandoff: 07/07/2017
 5. Нажмите кнопку **Подключение**, чтобы продолжить. Мастер Power BI отобразит список источников данных [!INCLUDE[d365fin](includes/d365fin_md.md)]. Эти источники данных представляют все веб-службы, которые вы опубликовали из [!INCLUDE[d365fin](includes/d365fin_md.md)].
 
    Либо создайте новый URL-адрес веб-службы в [!INCLUDE[d365fin](includes/d365fin_md.md)], используя действие **Создать набор данных** на странице **Веб-службы** с помощью руководства по сопровождаемой настройке **Настройка отчетов** либо используя действие **Изменить в Excel** в любом списке.
+
 6. Укажите данные, которые требуется добавить в модель данных, а затем нажмите кнопку **Загрузить**.
 7. Повторите предыдущие шаги для добавления дополнительных данных [!INCLUDE[d365fin](includes/d365fin_md.md)] в модель данных Power BI.
 
@@ -52,6 +52,7 @@ ms.lasthandoff: 07/07/2017
 После загрузки данные отобразятся в правой области навигации на странице. На этом шаге вы успешно подключились с данным Dynamics 365 и готовы начать создание отчета Power BI. Дополнительные сведения см. в разделе [Документация Power BI](https://powerbi.microsoft.com/documentation/powerbi-landing-page/).
 
 ## <a name="see-also"></a>См. также
+[Бизнес-аналитика](bi.md)  
 [Добро пожаловать в [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md)  
 [Импорт бизнес-данных из других финансовых систем](upload-data.md)  
 [Установка [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md)  

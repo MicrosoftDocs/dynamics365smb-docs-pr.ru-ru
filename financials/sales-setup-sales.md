@@ -10,14 +10,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: trade, sell, configure
-ms.date: 06/01/2017
+ms.date: 08/23/2017
 ms.author: sgroespe
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
-ms.openlocfilehash: 75ed584feda066a6c412f861bd624646c4c31085
+ms.translationtype: HT
+ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
+ms.openlocfilehash: a16201e48cc823e687c9941082d34044d9612a29
 ms.contentlocale: ru-ru
-ms.lasthandoff: 07/07/2017
-
+ms.lasthandoff: 09/22/2017
 
 ---
 # <a name="setting-up-sales"></a>Настройка продаж
@@ -37,6 +36,8 @@ ms.lasthandoff: 07/07/2017
 | Настройте менеджеров по продажам таким образом, чтобы вы могли назначать их контактным лицам клиента и изменять производительность менеджеров для расчета комиссионных от продажи или премий. |[Практическое руководство. Настройка менеджеров по продажам](sales-how-setup-salespeople.md) |
 | Определите для отдельных клиентов или для всех клиентов, как документы продажи должны по умолчанию отправлять при выборе действия **Учесть и отправить**. |[Практическое руководство. Настройка профилей отправки документов](sales-how-setup-document-send-profiles.md) |
 | Настройте электронную почту, чтобы она содержала сводные сведения об отправляемом документе продажи. |[Практическое руководство. Отправка документов по электронной почте](ui-how-send-documents-email.md) |
+|Использование веб-службы ЕС для проверки ИНН клиента.|[Практическое руководство. Проверка регистрационных номеров НДС](sales-how-to-verify-vat-registration-numbers.md)|
+|Ввести сведения о различных используемых перевозчиках, включая ссылки на их службу отслеживания пакетов.|[Практическое руководство. Настройка экспедиторов](sales-how-to-set-up-shipping-agents.md)|
 
 ## <a name="see-also"></a>См. также
 [Продажи](sales-manage-sales.md)  

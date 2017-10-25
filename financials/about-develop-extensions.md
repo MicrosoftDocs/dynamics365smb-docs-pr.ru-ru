@@ -12,12 +12,11 @@ ms.workload: na
 ms.search.keywords: app, add-in, manifest, customize
 ms.date: 06/02/2017
 ms.author: edupont
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
-ms.openlocfilehash: cc355c7b4cd51412ec0b5c95398c2d7b50a13f94
+ms.translationtype: HT
+ms.sourcegitcommit: c50aeb38a13569316f3208c27e5e8dc3d7b6d771
+ms.openlocfilehash: fdb60d82c7e8d2215c59d2c087105f42fe37eb84
 ms.contentlocale: ru-ru
-ms.lasthandoff: 07/07/2017
-
+ms.lasthandoff: 09/22/2017
 
 ---
 # <a name="extending-included365finlongincludesd365finlongmdmd"></a>Расширение [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]
@@ -48,6 +47,9 @@ ms.lasthandoff: 07/07/2017
 + Опубликуйте приложение  
 Прежде чем опубликовать приложение, мы свяжемся с вами, чтобы гарантировать, что ваше приложение будет выделяться в Microsoft AppSource и на вашей собственной целевой странице. Нам необходимо проверить приложение для оценки того, насколько хорошо обо прорекламировано, насколько оно надежно и актуально.
 Дополнительные сведения о процессе проверки и о том, как опубликовать приложение, см. в документе [Опубликуйте приложение.pdf](https://go.microsoft.com/fwlink/?linkid=841517) в центре загрузки.
+
+## <a name="learn-more-about-extensions-v20"></a>Подробнее о расширениях v2.0
+Новые инструменты разработки, которые позволяют создавать расширения v2.0, в настоящее время находятся на этапе предварительного ознакомления и скоро будут включены для службы Dynamics 365 for Financials. Если вы хотите прямо сейчас познакомиться с новыми инструментами или подробнее узнать о расширениях версии 2.0, перейдите по адресу [aka.ms/GetStartedWithApps](http://aka.ms/GetStartedWithApps).  
 
 ## <a name="need-help"></a>Нужна помощь?
 Если вам необходимо обучение, вы можете связаться со специалистом в области приложения из следующего списка:

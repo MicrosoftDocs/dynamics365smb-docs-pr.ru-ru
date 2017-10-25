@@ -9,17 +9,16 @@ ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.date: 03/15/2017
+ms.date: 08/15/2017
 ms.author: sgroespe
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
-ms.openlocfilehash: 99a76141f13efde3c7edb86037d6daaa0dbbb9d4
+ms.translationtype: HT
+ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
+ms.openlocfilehash: 3ca73c8298101eb02aac397894f87f7a5f58a5c2
 ms.contentlocale: ru-ru
-ms.lasthandoff: 07/07/2017
-
+ms.lasthandoff: 09/22/2017
 
 ---
-# <a name="letting-dynamics-365-for-financials-suggest-values"></a>Предложение значений в Dynamics 365 for Financials
+# <a name="letting-included365finincludesd365finmdmd-suggest-values"></a>Разрешение [!INCLUDE[d365fin](includes/d365fin_md.md)] предлагать значения
 [!INCLUDE[d365fin](includes/d365fin_md.md)] помогает выполнять задачи быстрее и с меньшим числом ошибок благодаря автоматическому заполнению полей или строк данными, которые в противном случае вам пришлось бы рассчитываться и вводить самостоятельно. Хотя такой автоматический ввод данных всегда верен, при необходимости вы можете изменить эти значения.
 
 Функция, которая заполняет за вас значения данных, обычно доступна для задач, где вам нужно вводить большие объемы транзакционных данных и вы хотите избежать ошибок и сэкономить время. В этом разделе описана часть таких функций. В будущих обновлениях [!INCLUDE[d365fin](includes/d365fin_md.md)] будут добавлены еще разделы.
@@ -46,6 +45,5 @@ ms.lasthandoff: 07/07/2017
 
 ## <a name="see-also"></a>См. также
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
-[Финансы](Finance.md)
-
+[Финансы](finance.md)
 

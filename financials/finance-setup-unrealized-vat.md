@@ -10,21 +10,20 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: cash, VAT, unrealized, cash-based
-ms.date: 04/20/2017
+ms.date: 09/08/2017
 ms.author: bholtorf
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
-ms.openlocfilehash: c22e17c931fcb262abe2d2059af89ec6f930ecb5
+ms.translationtype: HT
+ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
+ms.openlocfilehash: 79851c90a2a2fd8ac2e744173a04b7eda50b98e8
 ms.contentlocale: ru-ru
-ms.lasthandoff: 07/07/2017
-
+ms.lasthandoff: 09/22/2017
 
 ---
 
-# <a name="set-up-unrealized-vat-for-cash-based-accounting"></a>Настройка нереализованного НДС для учета на основании кассы
+# <a name="how-to-set-up-unrealized-vat-for-cash-based-accounting"></a>Практическое руководство. Настройка нереализованного НДС для учета на основании кассы
 При использовании методов учета на основании кассы можно настроить [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)] для обработки нереализованного НДС.
 
-## <a name="use-general-ledger-accounts-for-unrealized-vat"></a>Использование счетов главной книги для нереализованного НДС
+## <a name="to-use-general-ledger-accounts-for-unrealized-vat"></a>Использование счетов главной книги для нереализованного НДС
 Суммы НДС могут вычисляться и учитываться на временном счете главной книги при учете счета, а затем учитываться на правильном счете главной книги и включаться в отчеты по НДС при учете фактической оплаты счета. Перед тем, как это сделать, следует произвести настройку учета НДС.
 
 Чтобы использовать счета для нереализованного НДС, выполните следующие действия:

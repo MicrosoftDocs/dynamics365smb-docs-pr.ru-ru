@@ -12,12 +12,11 @@ ms.workload: na
 ms.search.keywords: COA, cha of acc
 ms.date: 06/02/2017
 ms.author: edupont
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
-ms.openlocfilehash: ceb01999525139cabc7c31e2304f738dcc9267f8
+ms.translationtype: HT
+ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
+ms.openlocfilehash: 69d4a8d4482999ed9d622d73654c3d8a4c3d8394
 ms.contentlocale: ru-ru
-ms.lasthandoff: 07/07/2017
-
+ms.lasthandoff: 09/22/2017
 
 ---
 # <a name="setting-up-or-changing-the-chart-of-accounts"></a>Настройка или изменение плана счетов
@@ -41,7 +40,7 @@ ms.lasthandoff: 07/07/2017
 [Управление банковскими счетами](bank-manage-bank-accounts.md)  
 [Работа с измерениями](finance-dimensions.md)  
 [Импорт из других финансовых систем](upload-data.md)  
-[Практическое руководство. Работа с кодами GIFI в Канаде](ca-finance-work-gifi-codes.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 
 ## [!INCLUDE[d365fin](includes/free_trial_md.md)]
+

@@ -1,6 +1,6 @@
 ---
 title: "Настройка интерфейса, чтобы отображать или скрывать расширенные функции | Документы Майкрософт"
-description: "Узнайте о вариантах настройки \"Базовая\" и \"Пакет\" — что это значит с точки зрения пользовательского интерфейса, областей приложения и вашей организации в Dynamics 365 for Financials."
+description: "Узнайте о вариантах настройки \"Базовая\" и \"Suite\" — что это значит с точки зрения пользовательского интерфейса, областей приложения и вашей организации в Dynamics 365 for Financials."
 documentationcenter: 
 author: edupont04
 ms.service: dynamics365-financials
@@ -9,14 +9,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: Suite, Basic, user interface, application area
-ms.date: 03/29/2017
+ms.date: 08/22/2017
 ms.author: edupont
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
-ms.openlocfilehash: 6add50f8d24d75e58abd12d110c881628d1fa6d9
+ms.translationtype: HT
+ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
+ms.openlocfilehash: f2336dbb8381c1ed1961ed97ab4dd782ef846a10
 ms.contentlocale: ru-ru
-ms.lasthandoff: 07/07/2017
-
+ms.lasthandoff: 09/22/2017
 
 ---
 # <a name="customizing-your-dynamics-365-for-financials-experience"></a>Настройка взаимодействия Dynamics 365 for Financials
@@ -34,8 +33,8 @@ ms.lasthandoff: 07/07/2017
 
 | Опыт | Влияние на пользовательский интерфейс |
 | --- | --- |
-| Базовая |Отображаются только основные действия и поля для основных бизнес- областей, такие как покупки, продажи, финансы и управление возможностями. |
-| Пакет |Отображается больше действий и полей для основных бизнес-областей и для других областей, такие как управление проектами, управление основными средствами и анализ по измерениям. |
+| Базовая |Отображаются только базовые действия и поля в рамках общих бизнес-функций, таких как продажи, покупки, запасы и финансы. |
+| Suite |Отображаются все действия и поля для всех доступных функций поля бизнеса.|
 
 ## <a name="see-also"></a>См. также
 [Изменение базовых настроек](ui-change-basic-settings.md)  
@@ -43,3 +42,4 @@ ms.lasthandoff: 07/07/2017
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 
 ## [!INCLUDE[d365fin](includes/free_trial_md.md)]
+

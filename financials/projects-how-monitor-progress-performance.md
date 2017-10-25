@@ -10,14 +10,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: project management, KPI, work in process, work in progress
-ms.date: 06/06/2017
+ms.date: 07/04/2017
 ms.author: sgroespe
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
-ms.openlocfilehash: 9b374c80a649a1e05c98fcbcea1ca447ec0b8d27
+ms.translationtype: HT
+ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
+ms.openlocfilehash: 076b509ab5e9cf0f87f0910de11e49cda17f330a
 ms.contentlocale: ru-ru
-ms.lasthandoff: 07/07/2017
-
+ms.lasthandoff: 09/22/2017
 
 ---
 # <a name="how-to-monitor-job-progress-and-performance"></a>Практическое руководство. Отслеживание хода выполнения работ и производительности
@@ -38,7 +37,8 @@ ms.lasthandoff: 07/07/2017
 ## <a name="to-create-a-job-wip-method"></a>Создание метода НЗП для работы
 Можно создать метод НЗП работы, отражающий потребности организации. После создания его можно установить методом расчета НЗП по умолчанию в организации.  
 
-**Примечание**. После использования нового метода для создания операций НЗП нельзя удалить этот метод или изменить его.  
+> [!NOTE]
+> После использования нового метода для создания операций НЗП нельзя удалить этот метод или изменить его.  
 
 1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Методы работ по незавершенному производству**, а затем выберите связанную ссылку.  
 2. Выберите действие **Создать**, затем введите в поля требуемые данные. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
@@ -94,7 +94,8 @@ ms.lasthandoff: 07/07/2017
 В окне **Операции книги работ** можно просматривать операции, связанные с любой работой.  
 
 ## <a name="see-also"></a>См. также
-[Управление проектами](projects-manage-projects.md)  
+[Управление проектами](projects-manage-projects.md)
+[Управление себестоимостью товаров](finance-manage-inventory-costs.md)   
 [Финансы](finance.md)  
 [Покупки](purchasing-manage-purchasing.md)         
 [Продажи](sales-manage-sales.md)      

@@ -1,5 +1,5 @@
 ---
-title: "Управление проектами | Документы Майкрософт"
+title: "Рабочие задания с использованием ресурсов и табелей учета рабочего времени | Документы Майкрософт"
 description: "Описывается, как использовать ресурсы, табели учета рабочего времени и работы для управления проектами."
 services: project-madeira
 documentationcenter: 
@@ -10,14 +10,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: projects
-ms.date: 03/28/2017
+ms.date: 06/06/2017
 ms.author: sgroespe
-ms.translationtype: Human Translation
-ms.sourcegitcommit: a31be0f9d07e2abb591e26f6bae34c6f6e4dcda6
-ms.openlocfilehash: 608817222d087a04293a25913064e7b47f1c78f0
+ms.translationtype: HT
+ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
+ms.openlocfilehash: e823f58ac796b22a488ab6fd54ed6dc00e262c87
 ms.contentlocale: ru-ru
-ms.lasthandoff: 05/04/2017
-
+ms.lasthandoff: 09/22/2017
 
 ---
 # <a name="project-management"></a>Управление проектами
@@ -25,7 +24,8 @@ ms.lasthandoff: 05/04/2017
 
 Прежде чем использовать [!INCLUDE[d365fin](includes/d365fin_md.md)] для управления проектами, необходимо настроить ресурсы, табели и работы. Дополнительные сведения см. в разделе [Настройка управления проектами](projects-setup-projects.md).  
 
-**Примечание**. Эта функция требует, чтобы было задано значение **Пакет**. Дополнительные сведения см. в разделе [Настройка взаимодействия [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-experiences.md).
+> [!NOTE]  
+>   Эта функция требует, чтобы было задано значение **Suite**. Дополнительные сведения см. в разделе [Настройка взаимодействия [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-experiences.md).
 
 В следующей таблице приводится последовательность задач со ссылками на разделы, в которых они описываются.
 
@@ -44,7 +44,7 @@ ms.lasthandoff: 05/04/2017
 ## <a name="see-also"></a>См. также
 [Настройка управления проектами](projects-setup-projects.md)  
 [Настройка взаимодействия [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-experiences.md)      
-[Покупка](purchasing-manage-purchasing.md)         
+[Покупки](purchasing-manage-purchasing.md)         
 [Продажи](sales-manage-sales.md)    
 [Финансы](finance.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  

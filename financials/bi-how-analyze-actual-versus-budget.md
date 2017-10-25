@@ -12,12 +12,11 @@ ms.workload: na
 ms.search.keywords: bi, power BI, analysis, KPI
 ms.date: 06/01/2017
 ms.author: sgroespe
-ms.translationtype: Human Translation
+ms.translationtype: HT
 ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
 ms.openlocfilehash: 126c8da9b9ef80e954510fa8e5089906d7dd6f01
 ms.contentlocale: ru-ru
-ms.lasthandoff: 07/07/2017
-
+ms.lasthandoff: 09/22/2017
 
 ---
 # <a name="how-to-analyze-actual-amounts-versus-budgeted-amounts"></a>Практическое руководство. Анализ фактических сумм в с равнении с суммами бюджета
@@ -26,7 +25,7 @@ ms.lasthandoff: 07/07/2017
 Чтобы проанализировать суммы бюджетов, сначала нужно создать бюджеты. Дополнительные сведения см. в разделе [Практическое руководство. Создание бюджетов](finance-how-create-budgets.md).
 
 > [!NOTE]  
->   Эта функция требует, чтобы было задано значение **Пакет**. Дополнительные сведения см. в разделе [Настройка взаимодействия [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-experiences.md).
+>   Эта функция требует, чтобы было задано значение **Suite**. Дополнительные сведения см. в разделе [Настройка взаимодействия [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-experiences.md).
 
 ## <a name="to-view-a-budget"></a>Просмотр бюджета
 Для бюджета с измерениями операции можно фильтровать и просматривать конкретные бюджеты.

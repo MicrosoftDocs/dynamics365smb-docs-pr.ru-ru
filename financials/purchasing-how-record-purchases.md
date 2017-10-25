@@ -9,14 +9,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: procurement
-ms.date: 03/29/2017
+ms.date: 08/08/2017
 ms.author: sgroespe
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
-ms.openlocfilehash: 60906dde627216903b5ef82e34ce4bc918f3c988
+ms.translationtype: HT
+ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
+ms.openlocfilehash: 5bd635465626c192d8650cbd2a999dd0fbceb15e
 ms.contentlocale: ru-ru
-ms.lasthandoff: 07/07/2017
-
+ms.lasthandoff: 09/22/2017
 
 ---
 # <a name="how-to-record-purchases"></a>Практическое руководство. Регистрация покупок
@@ -35,7 +34,7 @@ ms.lasthandoff: 07/07/2017
 Товар может иметь тип **Запасы** или **Услуга**. Дополнительные сведения см. в разделе [Практическое руководство. Регистрация новых товаров](inventory-how-register-new-items.md). Процедура обработки счетов покупки такая же для обоих типов товаров.
 
 > [!NOTE]  
->   Функция заказа на покупку требует, чтобы было задано значение **Пакет**. Дополнительные сведения см. в разделе [Настройка взаимодействия [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-experiences.md).
+>   Функция заказа на покупку требует, чтобы было задано значение **Suite**. Дополнительные сведения см. в разделе [Настройка взаимодействия [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-experiences.md).
 
 Можно заполнить поля поставщика в счете покупки двумя способами в зависимости от того, зарегистрирован ли уже поставщик.
 
@@ -58,7 +57,7 @@ ms.lasthandoff: 07/07/2017
 
     > [!NOTE]  
 >   Если заданы строки типовых покупок для поставщика, например ежемесячный заказ пополнения заказов, можно вставить строки в счет, выбрав действие **Получить строки типовых покупок**.
-10. На экспресс-вкладке **Строки** в поле **Номенклатурный номер** введите номер товара в запасах или услуги.
+10. На экспресс-вкладке **Строки** в поле **Номер товара** введите количество товара в запасах или объем услуг.
 11. В поле **Кол-во** введите количество покупаемых товаров.
 
     > [!NOTE]  
@@ -78,6 +77,7 @@ ms.lasthandoff: 07/07/2017
 ## <a name="see-also"></a>См. также
 [Покупки](purchasing-manage-purchasing.md)  
 [Настройка покупки](purchasing-setup-purchasing.md)  
+[Практическое руководство. Запрос предложений](purchasing-how-request-quotes.md)  
 [Практическое руководство. Покупка товаров для продажи](purchasing-how-purchase-products-sale.md)  
 [Практическое руководство. Регистрация новых поставщиков](purchasing-how-register-new-vendors.md)  
 [Практическое руководство. Подготовка прямых поставок](sales-how-drop-shipment.md)  

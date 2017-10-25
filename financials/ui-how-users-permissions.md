@@ -1,8 +1,6 @@
 ---
 title: "Назначение прав доступа пользователям и создание и изменение наборов разрешений | Документы Майкрософт"
 description: "Описывает порядок добавления пользователей Office 365 в Financials и назначения им разрешений, прав доступа и параметров безопасности."
-services: project-madeira
-documentationcenter: 
 author: SorenGP
 ms.service: dynamics365-financials
 ms.topic: article
@@ -12,16 +10,15 @@ ms.workload: na
 ms.search.keywords: access, right, security
 ms.date: 06/27/2017
 ms.author: sgroespe
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
-ms.openlocfilehash: 564ef68a1571611efee32db1cf3759cda6a04c80
+ms.translationtype: HT
+ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
+ms.openlocfilehash: a944a6135feeb81b32d1f7edcb823b9da89cd404
 ms.contentlocale: ru-ru
-ms.lasthandoff: 07/07/2017
-
+ms.lasthandoff: 09/22/2017
 
 ---
 # <a name="how-to-manage-users-and-permissions"></a>Практическое руководство. Управление пользователями и разрешениями
-Для добавления пользователей в [!INCLUDE[d365fin](includes/d365fin_md.md)] администратор Office 365 организации сначала должен создать пользователей в центре администрирования Office 365. Дополнительные сведения см. в разделе [Добавление пользователей в Office 365 для бизнеса](https://support.office.com/en-us/article/Add-users-to-Office-365-for-business-435ccec3-09dd-4587-9ebd-2f3cad6bc2bc).
+Для добавления пользователей в [!INCLUDE[d365fin](includes/d365fin_md.md)] администратор Office 365 организации сначала должен создать пользователей в центре администрирования Office 365. Дополнительные сведения см. в разделе [Добавление пользователей в Office 365 для бизнеса](https://support.office.com/en-us/article/Add-users-to-Office-365-for-business-435ccec3-09dd-4587-9ebd-2f3cad6bc2bc)
 
 После создания пользователей в Office 365 их можно импортировать в окно **Пользователи** с помощью действия **Получить пользователей из Office 365**. Пользователям назначаются наборы разрешений в зависимости от плана, назначенного пользователю в Office 365.
 
@@ -34,7 +31,7 @@ ms.lasthandoff: 07/07/2017
 Администраторы могут использовать окно **Настройка пользователей**, чтобы определить периоды времени, в течение которых указанные пользователи могут выполнять учет, а также указать, регистрирует ли система время, в течение которого указанные пользователи находятся в системе.
 
 > [!NOTE]  
->   Эта функция требует, чтобы было задано значение "Пакет". Дополнительные сведения см. в разделе [Настройка взаимодействия [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-experiences.md).
+>   Эта функция требует, чтобы было задано значение "Suite". Дополнительные сведения см. в разделе [Настройка взаимодействия [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-experiences.md).
 
 ## <a name="to-assign-permissions-to-a-user"></a>Назначение разрешений пользователю
 1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Пользователи**, а затем выберите связанную ссылку.
@@ -112,6 +109,7 @@ ms.lasthandoff: 07/07/2017
 
 ## <a name="see-also"></a>См. также
 [Подготовьтесь к ведению бизнеса](ui-get-ready-business.md)  
+[Настройка и администрирование в Dynamics 365 for Financials](admin-setup-and-administration.md)  
 [Добро пожаловать в [!INCLUDE[d365fin](includes/d365fin_md.md)]](index.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 

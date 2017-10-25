@@ -10,20 +10,22 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: Yodlee, feed, stream, payment process
-ms.date: 06/02/2017
+ms.date: 09/14/2017
 ms.author: sgroespe
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
-ms.openlocfilehash: ef5c6f4b9106b1b289cc5ed060fc28426fde0ae2
+ms.translationtype: HT
+ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
+ms.openlocfilehash: 7691b7a0aab87309d02833517a91eb9938ee3a32
 ms.contentlocale: ru-ru
-ms.lasthandoff: 07/07/2017
-
+ms.lasthandoff: 09/22/2017
 
 ---
 # <a name="how-to-set-up-the-envestnet-yodlee-bank-feeds-service"></a>Практическое руководство. Настройка службы банковских выписок Envestnet Yodlee
 Вы можете импортировать электронные банковские выписки для быстрого заполнения окна **Журнал выверки платежей**, чтобы можно было применять платежи и выверять банковский счет. Дополнительные сведения см. в разделе [Автоматическое применение платежей и выверка банковских счетов](receivables-apply-payments-auto-reconcile-bank-accounts.md).
 
 Служба банковских выписок Envestnet Yodlee устанавливается как расширение [!INCLUDE[d365fin](includes/d365fin_md.md)] и готова к включению. Дополнительные сведения см. в разделе [Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью расширений](ui-extensions.md).
+
+> [!NOTE]
+> Служба банковских выписок поддерживается только в США, Канаде и Великобритании.
 
 После включения службы банковских выписок вы должны связать банковский счет со счетом интернет-банка, с которого поступают выписки. Банковские счета связываются со счетами интернет-банков в следующих различных ситуациях:
 

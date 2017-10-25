@@ -9,14 +9,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: app, add-in, manifest, customize
-ms.date: 07/05/2017
+ms.date: 07/07/2017
 ms.author: edupont
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 85d15de13739e944ff8817b402b37ae1c7e1b144
-ms.openlocfilehash: 6bf7d2024ff9f0254e1d885580126fb16c0c6fce
+ms.translationtype: HT
+ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
+ms.openlocfilehash: 2aefbfade71ed78c89c59597f76c6e6707110d16
 ms.contentlocale: ru-ru
-ms.lasthandoff: 07/07/2017
-
+ms.lasthandoff: 09/22/2017
 
 ---
 # <a name="customizing-dynamics-365-for-financials-using-extensions"></a>Настройка Dynamics 365 for Financials с помощью расширений
@@ -51,6 +50,7 @@ ms.lasthandoff: 07/07/2017
 
 * [Миграция данных Dynamics GP](ui-extensions-dynamicsgp-data-migration.md)  
 * [Банковские выписки Envestnet Yodlee](ui-extensions-yodlee-bank-feeds.md)  
+* [Microsoft Pay](ui-extensions-microsoft-pay-payments.md)
 * [PayPal Payments Standard](ui-extensions-paypal-payments-standard.md)  
 * [Миграция данных QuickBooks](ui-extensions-quickbooks-data-migration.md)  
 * [Прогноз продаж и запасов](ui-extensions-sales-forecast.md)  
@@ -69,7 +69,7 @@ ms.lasthandoff: 07/07/2017
 [Практическое руководство. Настройка службы банковских выписок Envestnet Yodlee](bank-how-setup-bank-statement-service.md)  
 [Практическое руководство. Включение платежей клиентов через PayPal](sales-how-enable-payment-service-extensions.md)  
 [Миграция бизнес-данных из других финансовых систем](upload-data.md)  
-[Настройка расширения "Почтовые индексы Великобритании GetAddress.io"](uk-setup-postal-code-service.md)  
+[Настройка расширения "Почтовые индексы Великобритании GetAddress.io"](LocalFunctionality/UnitedKingdom/uk-setup-postal-code-service.md)  
 [Расширения [!INCLUDE[d365fin](includes/d365fin_md.md)] от других поставщиков](ui-extensions-other.md)  
 [Добро пожаловать в [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md)  
 

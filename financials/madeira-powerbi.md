@@ -1,8 +1,6 @@
 ---
 title: "Dynamics 365 for Financials и пакеты содержимого Power BI | Документы Майкрософт"
 description: "Анализ данных, бизнес-аналитика и КПЭ на основе данных Financials становятся проще благодаря пакетам содержимого Power BI и Financials."
-services: project-madeira
-documentationcenter: 
 author: edupont04
 ms.service: dynamics365-financials
 ms.topic: get-started-article
@@ -10,25 +8,35 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: account schedule, analysis, reporting, financial report, business intelligence, KPI
-ms.date: 06/02/2017
+ms.date: 09/05/2017
 ms.author: edupont
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
-ms.openlocfilehash: 537effab2f406d619c5000efad12754db678e8b8
+ms.translationtype: HT
+ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
+ms.openlocfilehash: d165efbb6a157c6f95f8f59e6aa0d9b7100daa91
 ms.contentlocale: ru-ru
-ms.lasthandoff: 07/07/2017
-
+ms.lasthandoff: 09/22/2017
 
 ---
 # <a name="enabling-your-business-data-for-power-bi"></a>Включение бизнес-данных для Power BI
 Анализ данных [!INCLUDE[d365fin](includes/d365fin_md.md)] становится проще благодаря Power BI и пакетам содержимого [!INCLUDE[d365fin](includes/d365fin_md.md)]. Power BI извлекает ваши данные и строки готовую панель мониторинга и отчеты на основе этих данных.  
 
-Пакеты содержимого предварительно настроены для работы с данными продаж и финансовыми данными из демонстрационной организации, которую вы получаете при регистрации в [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)].  
+Майкрософт опубликовывала следующие пакеты содержимого:
 
-* Выберите любой из визуальных элементов панели мониторинга, чтобы открыть один из семи отчетов.  
+| Приложение | Описанием |
+| --- | --- |
+| Microsoft Dynamics 365 for Financials | Обеспечивает панель мониторинга с ключевыми финансовыми данными в зависимости от времени, такими как прибыль и расходы, текущая прибыль и наличный цикл.|
+| Microsoft Dynamics 365 for Financials - CRM | Предоставляет панель мониторинга с ключевыми данными о возможных сделках по продажам и контактах.  |
+| Microsoft Dynamics 365 for Financials - Sales | Предоставляет панель мониторинга с ключевыми данными о продажах и запасах. |
+
+## <a name="using-the-dashboards"></a>Использование панелей мониторинга
+Каждый пакет содержимого предоставляет отчеты, которые можно подробно изучать:
+
+* Выберите любой из визуальных элементов панели мониторинга, чтобы открыть один из отчетов.  
 * Отфильтруйте отчет или добавьте поля, которые вы хотите отслеживать.  
 * Прикрепите настроенное представление к панели мониторинга для дальнейшего отслеживания.  
-  Панель мониторинга и соответствующие отчеты обновляются ежедневно. Вы можете управлять графиком обновления и изменять периодичность построения набора данных.  
+  Можно обновить данные вручную, а также можно настроить график обновления. Дополнительные сведения см. в разделе [Настройка графика обновления](https://powerbi.microsoft.com/en-us/documentation/powerbi-refresh-scheduled-refresh/).  
+
+Пакеты содержимого предварительно настроены для работы с данными из демонстрационной организации, которую вы получаете при регистрации в [!INCLUDE[d365fin](includes/d365fin_md.md)]. Когда вы устанавливайте приложения в Power BI и подключаетесь к своим собственным данным, некоторые отчеты могут не работать, так как в них используются данные, которые отсутствуют в вашей организации. В таких случаях можно просто удалить этот отчет с панели мониторинга.  
 
 > [!NOTE]  
 >   Также можно создать собственные отчеты и панели мониторинга в Power BI на основании данных [!INCLUDE[d365fin](includes/d365fin_md.md)]. Дополнительные сведения см. в разделе [Подключение ваших бизнес-данных к Power BI](across-how-use-financials-data-source-powerbi.md).  
@@ -50,13 +58,13 @@ ms.lasthandoff: 07/07/2017
 | **Имя пользователя** |Ваше имя так, как оно отображается в вашей учетной записи в [!INCLUDE[d365fin](includes/d365fin_md.md)], например *Джон Смит*. |
 | **Пароль** |Это ключ доступа к веб-службе для учетной записи пользователя в [!INCLUDE[d365fin](includes/d365fin_md.md)]. |
 
-Иными словами, вам нужно получить из Financials 3 фрагмента информации: URL-адрес OData и ключ доступа к веб-службе для вашей учетной записи пользователя.  
+Иными словами, вам нужно получить из [!INCLUDE[d365fin](includes/d365fin_md.md)] 2 фрагмента информации: *URL-адрес OData* и *ключ доступа к веб-службе* для вашей учетной записи пользователя.  
 
 ### <a name="getting-the-url"></a>Получение URL-адреса
 При добавлении [!INCLUDE[d365fin](includes/d365fin_md.md)] в Power BI вы должны указать URL-адрес, чтобы Power BI мог обращаться к данным вашей организации. На странице подключения URL-адрес называется **URL-адрес потока OData**, и он должен иметь следующий формат:
 
          https://mybusiness.financials.dynamics.com:7048/MS/ODataV4/Company('CRONUS%20US')  
-В этом примере *mybusiness* — название вашей службы Financials, а *CRONUS US* — название демонстрационной организации. Символы *%20* обозначают пробел в названии.   
+В этом примере *mybusiness* — название вашей службы [!INCLUDE[d365fin](includes/d365fin_md.md)], а *CRONUS US* — название демонстрационной организации. Символы *%20* обозначают пробел в названии.   
 Чтобы получить URL-адрес, в [!INCLUDE[d365fin](includes/d365fin_md.md)] найдите и откройте окно **Веб-службы**. В этом окне перечисляются веб-службы, которые в настоящий момент доступны, и вы можете скопировать ссылку из поля **URL-адрес OData** для одной из веб-служб OData по умолчанию.  
 
 ### <a name="getting-the-user-name-and-the-web-service-access-key"></a>Получение имени пользователя и ключа доступа к веб-службе
@@ -65,15 +73,7 @@ ms.lasthandoff: 07/07/2017
 Чтобы найти эти сведения, в [!INCLUDE[d365fin](includes/d365fin_md.md)] найдите окно **Пользователи**, а затем откройте карточку вашей учетной записи пользователя. На экспресс-вкладке **Общее** скопируйте содержимое поля **Имя пользователя** и на экспресс-вкладке **Доступ к веб-службе** скопируйте содержимое поля **Ключ доступа к веб-службе**. Если поле **Ключ доступа к веб-службе** не заполнено, то на ленте выберите **Изменить ключ доступа к веб-службе**, выберите поле **Бессрочный ключ**, а затем нажмите кнопку ОК. Теперь можно скопировать ключ.  
 
 ## <a name="getting-data-from-included365finincludesd365finmdmd"></a>Получение данных из [!INCLUDE[d365fin](includes/d365fin_md.md)]
-На панели мониторинга [!INCLUDE[d365fin](includes/d365fin_md.md)] отображаются наиболее типичные отчеты,, которые можно использовать для отслеживания бизнеса. Данные извлекаются из вашей организации [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью веб-службы чтения данных в реальном времени. В [!INCLUDE[d365fin](includes/d365fin_md.md)] в окне **Веб-службы** перечисляются веб-службы, которые были настроены, в том числе следующие, которые используются пакетом содержимого в Power BI:  
-
-* ItemSalesAndProfit  
-* ItemSalesByCustomer  
-* powerbifinance  
-* SalesDashboard  
-* SalesOpportunities  
-* SalesOrdersBySalesPerson  
-* TopCustomerOverview  
+На панели мониторинга [!INCLUDE[d365fin](includes/d365fin_md.md)] отображаются наиболее типичные отчеты,, которые можно использовать для отслеживания бизнеса. Данные извлекаются из вашей организации [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью веб-службы чтения данных в реальном времени. В [!INCLUDE[d365fin](includes/d365fin_md.md)] в окне **Веб-службы** перечисляются веб-службы, настроенные для вас.
 
 > [!NOTE]  
 >   Если вы измените имя любой из этих веб-служб, данные не будут отображаться в Power BI.  
@@ -108,19 +108,21 @@ ms.lasthandoff: 07/07/2017
 
 * Проверьте, что URL-адрес имеет ранее указанную структуру:
 
-    https://mybusiness.financials.dynamics.com:7048/MS/ODataV4/Company('CRONUS%20US')  
+    `https://mybusiness.financials.dynamics.com:7048/MS/ODataV4/Company('CRONUS%20US')`  
 * Типичная ошибка — указать URL-адрес конкретной веб-службы:
 
-    https://mybusiness.financials.dynamics.com:7048/MS/ODataV4/Company('CRONUS%20US')/powerbifinance  
+    `https://mybusiness.financials.dynamics.com:7048/MS/ODataV4/Company('CRONUS%20US')/powerbifinance`
 * Либо вы могли пропустить название организации:
 
-    https://mybusiness.financials.dynamics.com:7048/MS/ODataV4/  
+    `https://mybusiness.financials.dynamics.com:7048/MS/ODataV4/`
 
 ## <a name="see-also"></a>См. также
+[Бизнес-аналитика](bi.md)  
 [Добро пожаловать в [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md)  
 [Миграция бизнес-данных из других финансовых систем](upload-data.md)  
 [Использование [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)] как источника данных Power BI](across-how-use-financials-data-source-powerbi.md)  
 [Использование [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)] как источника данных PowerApps](across-how-use-financials-data-source-powerapps.md)  
-[Использование [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)] в Microsoft Flow](across-how-use-financials-data-source-flow.md)  
+[Использование [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)] в Microsoft Flow](across-how-use-financials-data-source-flow.md)   
 
 ## [!INCLUDE[d365fin](includes/free_trial_md.md)]
+

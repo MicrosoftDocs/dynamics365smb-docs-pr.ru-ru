@@ -12,12 +12,11 @@ ms.workload: na
 ms.search.keywords: supply planning, sales demand, replenish
 ms.date: 05/16/2017
 ms.author: sgroespe
-ms.translationtype: Human Translation
+ms.translationtype: HT
 ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
 ms.openlocfilehash: 2d7eb238395a0b1060668996fbbc3e13d9dd8a94
 ms.contentlocale: ru-ru
-ms.lasthandoff: 07/07/2017
-
+ms.lasthandoff: 09/22/2017
 
 ---
 # <a name="how-to-purchase-items-for-a-sale"></a>Практическое руководство. Покупка товаров для продажи
@@ -31,7 +30,7 @@ ms.lasthandoff: 07/07/2017
 Чтобы создать заказ на покупку для каждого недостающего количества товаров в заказе на продажу, можно воспользоваться функцией **Создать заказы на покупку**. 
 
 > [!NOTE]  
->   Эта функция требует, чтобы было задано значение **Пакет**. Дополнительные сведения см. в разделе [Настройка взаимодействия [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-experiences.md).
+>   Эта функция требует, чтобы было задано значение **Suite**. Дополнительные сведения см. в разделе [Настройка взаимодействия [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-experiences.md).
 
 1. На начальной странице выберите плитку **Текущие заказы на продажу**.
 2. Откройте заказ на продажу, для которого требуется купить товары.

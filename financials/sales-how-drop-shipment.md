@@ -12,12 +12,11 @@ ms.workload: na
 ms.search.keywords: direct shipment
 ms.date: 03/29/2017
 ms.author: sgroespe
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
-ms.openlocfilehash: 977debf7386ad1113ef54147b20fd24c7c285a78
+ms.translationtype: HT
+ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
+ms.openlocfilehash: 990867cb428f860b1001177738d1a027f72485bc
 ms.contentlocale: ru-ru
-ms.lasthandoff: 07/07/2017
-
+ms.lasthandoff: 09/22/2017
 
 ---
 # <a name="how-to-make-drop-shipments"></a>Практическое руководство. Выполнение прямых поставок
@@ -32,7 +31,7 @@ ms.lasthandoff: 07/07/2017
 2. В строке заказа на продажу для прямой поставки установите флажок **Прямая поставка**. Используйте функцию **Выбрать столбцы**, если поле не отображается. Дополнительные сведения см. в разделе [Персонализация пользователя](ui-user-personalization.md).
 
 > [!NOTE]  
->   Эта функция требует, чтобы было задано значение **Пакет**. Дополнительные сведения см. в разделе [Настройка взаимодействия [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-experiences.md).
+>   Эта функция требует, чтобы было задано значение **Suite**. Дополнительные сведения см. в разделе [Настройка взаимодействия [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-experiences.md).
 
 ## <a name="to-create-the-purchase-order-for-drop-shipment"></a>Создание заказа на покупку для прямой поставки
 Для подготовки прямой поставки для продаваемого товара следует создать обычный заказ на покупку, но необходимо указать в заказе на покупку, что он должен быть доставлен клиенту, а не вам.
@@ -60,9 +59,10 @@ ms.lasthandoff: 07/07/2017
 5. Выберите вариант **Отгрузить** (чтобы счет был выставлен позже) или вариант **Отгрузить и выставить счет** (чтобы счет был выставлен незамедлительно).
 
 ## <a name="see-also"></a>См. также
+[Практическое руководство. Создание специальных заказов](sales-how-to-create-special-orders.md)|  
 [Практическое руководство. Продажа продукции](sales-how-sell-products.md)  
 [Практическое руководство. Регистрация покупок](purchasing-how-record-purchases.md)  
 [Продажи](sales-manage-sales.md)  
-[Запасы](inventory-manage-inventory.md)  
+[Наличие](inventory-manage-inventory.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

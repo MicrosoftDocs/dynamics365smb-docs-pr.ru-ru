@@ -10,14 +10,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: year closing, close accounting period, close fiscal year, aging, creditor payments, vendor payments
-ms.date: 06/02/2017
+ms.date: 06/19/2017
 ms.author: jswymer
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
-ms.openlocfilehash: 678cebc065594ed0ed6fea897676f109ff2c1dce
+ms.translationtype: HT
+ms.sourcegitcommit: eea34afbee429d14ab150894729cb4ea3843bb2b
+ms.openlocfilehash: ddc2dbda549414a7beecf5f307c525b53166fa15
 ms.contentlocale: ru-ru
-ms.lasthandoff: 07/07/2017
-
+ms.lasthandoff: 09/22/2017
 
 ---
 # <a name="overview-of-tasks-to-close-accounting-periods"></a>Обзор задач по закрытию учетных периодов
@@ -47,15 +46,15 @@ ms.lasthandoff: 07/07/2017
 * Выполните отчет **Кредиторская задолженность по срокам давности** и проведите выверку кредиторской задолженности с главной книгой.  
 * Выполните пакетное задание **Удалить заказы на покупку, по которым выставлены счета**.  
 
-<!-- ### Fixed Assets
-* Post all maintenance costs have been posted through the fixed asset journals or invoices.
-* Post adjustments.
-* Post appreciation.
-* Post depreciation.
-* Update and post the recurring fixed asset journal.-->
+Основные средства
+* Учет всех затрат на обслуживание, учтенных через журналы ОС или счета.
+* Учет корректировок.
+* Учет повышения стоимости.
+* Учет амортизации.
+* Обновление и учет типового журнала основных средств.
 
-<!--### Intercompany
-* Process Intercompany Postings.-->
+Межфирмен
+* Обработка межфирменных транзакций
 
 ## <a name="calculate-and-process-sales-tax"></a>Расчет и обработка налога с продаж
 * Завершите отчеты по НДС.  
