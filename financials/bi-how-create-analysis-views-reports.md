@@ -13,10 +13,10 @@ ms.search.keywords: bi, power BI, analysis, KPI
 ms.date: 06/16/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: eea34afbee429d14ab150894729cb4ea3843bb2b
-ms.openlocfilehash: b96ff2d1f4339b137a6f7d2c2c1266185e2dc69c
+ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
+ms.openlocfilehash: b2efb52ce874643fffc0af805fc7ff0dac792462
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 11/10/2017
 
 ---
 #  <a name="how-to-create-analysis-reports"></a><span data-ttu-id="c0f85-103">Практическое руководство. Создание аналитических отчетов</span><span class="sxs-lookup"><span data-stu-id="c0f85-103">How to: Create Analysis Reports</span></span>
@@ -50,13 +50,12 @@ ms.lasthandoff: 09/22/2017
 
 <span data-ttu-id="c0f85-134">На основе настроенных строк и столбцов программа будет выполнять агрегирование результатов отчета в окне таблицы **Аналитический отчет**, как в следующем примере:</span><span class="sxs-lookup"><span data-stu-id="c0f85-134">Based on the lines and columns you have set up, the program will aggregate the result of your report in the **Analysis Report** matrix window, such as in this example:</span></span>  
 
-|||||  
+| |<span data-ttu-id="c0f85-135">Продажи в текущем месяце</span><span class="sxs-lookup"><span data-stu-id="c0f85-135">Sales Current Month</span></span>|<span data-ttu-id="c0f85-136">Продажи за прошлый месяц</span><span class="sxs-lookup"><span data-stu-id="c0f85-136">Sales Last Month</span></span>|<span data-ttu-id="c0f85-137">Продажи в % к прошлому месяцу</span><span class="sxs-lookup"><span data-stu-id="c0f85-137">Sales Last Month %</span></span>|  
 |-|-|-|-|  
-||<span data-ttu-id="c0f85-135">Продажи в текущем месяце</span><span class="sxs-lookup"><span data-stu-id="c0f85-135">Sales Current Month</span></span>|<span data-ttu-id="c0f85-136">Продажи за прошлый месяц</span><span class="sxs-lookup"><span data-stu-id="c0f85-136">Sales Last Month</span></span>|<span data-ttu-id="c0f85-137">Продажи в % к прошлому месяцу</span><span class="sxs-lookup"><span data-stu-id="c0f85-137">Sales Last Month %</span></span>|  
-|<span data-ttu-id="c0f85-138">Компьютеры</span><span class="sxs-lookup"><span data-stu-id="c0f85-138">Computers</span></span>||||  
-|<span data-ttu-id="c0f85-139">Мониторы</span><span class="sxs-lookup"><span data-stu-id="c0f85-139">Displays</span></span>||||  
-|<span data-ttu-id="c0f85-140">Запчасти</span><span class="sxs-lookup"><span data-stu-id="c0f85-140">Spare parts</span></span>||||  
-|<span data-ttu-id="c0f85-141">Всего</span><span class="sxs-lookup"><span data-stu-id="c0f85-141">Total</span></span>||||  
+|<span data-ttu-id="c0f85-138">Компьютеры</span><span class="sxs-lookup"><span data-stu-id="c0f85-138">Computers</span></span>| | | |  
+|<span data-ttu-id="c0f85-139">Мониторы</span><span class="sxs-lookup"><span data-stu-id="c0f85-139">Displays</span></span>| | | |  
+|<span data-ttu-id="c0f85-140">Запчасти</span><span class="sxs-lookup"><span data-stu-id="c0f85-140">Spare parts</span></span>| | | |  
+|<span data-ttu-id="c0f85-141">Всего</span><span class="sxs-lookup"><span data-stu-id="c0f85-141">Total</span></span>| | | |  
 
  <span data-ttu-id="c0f85-142">При этом можно, например, настроить один набор строк и несколько наборов схем столбцов для отображения месячных и годовых отчетов соответственно.</span><span class="sxs-lookup"><span data-stu-id="c0f85-142">You can, for example, set up one set of lines and several sets of column layouts to show monthly and annual reports respectively.</span></span>
 
