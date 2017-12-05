@@ -1,5 +1,5 @@
 ---
-title: "Электронные документы в Dynamics 365 for Financials | Документы Майкрософт"
+title: "Электронные документы в Dynamics 365 Business edition    | Microsoft Docs"
 description: "Введение в отправку и получение электронных документов в [!INCLUDE[d365fin](includes/d365fin_md.md)]."
 author: SorenGP
 ms.service: dynamics365-financials
@@ -11,12 +11,13 @@ ms.search.keywords:
 ms.date: 09/19/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 8b2e20e694279a8c06188e0e429ef3b4fb43aea2
-ms.openlocfilehash: dac82da00a2f4afe16bc784641abea8f6a29c537
+ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
+ms.openlocfilehash: 4397c5b935afccc666fac91c73c04c59958fd8eb
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/27/2017
+ms.lasthandoff: 11/10/2017
 
 ---
+
 # <a name="exchanging-data-electronically"></a>Электронный обмен данными
 Можно использовать платформу обмена данными, чтобы обмениваться бизнес-документами, банковскими файлами, курсами обмена валют и другими файлами данных с бизнес-партнерами.
 
@@ -49,7 +50,7 @@ ms.lasthandoff: 09/27/2017
 
 В следующей таблице приводится последовательность задач со ссылками на разделы, в которых они описываются.  
 
-|По|Ссылка|  
+|Действие|Ссылка|  
 |--------|---------|  
 |Дополнительные сведения о работе структуры обмена данными.|[О структуре обмена данными](across-about-the-data-exchange-framework.md)|  
 |Подготовка к обмену данными в файле посредством повторного использования XML-схемы файла. Настройка определений обмена данными. Настройка основных данных для отправки электронного документа. Настройка различных полей импорта/экспорта банковских файлов.|[Настройка обмена данными](across-set-up-data-exchange.md)|  

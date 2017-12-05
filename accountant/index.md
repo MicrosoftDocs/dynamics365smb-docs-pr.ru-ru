@@ -1,25 +1,32 @@
 ---
-title: "Управление клиентами в Dynamics 365 — Accountant Hub | Документы Майкрософт"
-description: "Dynamics 365 — Accountant Hub улучшает представление общих данных о клиентах, чтобы можно было проще переключаться между клиентами."
+title: "Управление клиентами в Dynamics 365 | Microsoft Docs"
+description: "Accountant Hub обеспечивает удобное обзорное представление ваших клиентов, позволяя вам легко переключаться между ними."
 author: edupont04
-ms.service: dynamics365-financials
+ms.service: dynamics365-accountant
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: setup wizard, accountant
-ms.date: 08/15/2017
+ms.date: 10/23/2017
 ms.author: edupont
-ROBOTS: NOINDEX,NOFOLLOW
 ms.translationtype: HT
-ms.sourcegitcommit: 8b2e20e694279a8c06188e0e429ef3b4fb43aea2
-ms.openlocfilehash: 7aa7e46acf2e060cb2956b550696b89a8c4c0e99
+ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
+ms.openlocfilehash: 021ca5cebb5de3357a36c802a725d806c592e40f
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/27/2017
+ms.lasthandoff: 11/10/2017
 
 ---
 # <a name="welcome-to-included365acclongincludesd365acclongmdmd"></a>Добро пожаловать в [!INCLUDE[d365acc_long](includes/d365acc_long_md.md)]
 [!INCLUDE[d365fin_early_release](includes/d365fin_early_release.md.md)]
+
+Если вы бухгалтер, в которого несколько клиентов, вы можете использовать [!INCLUDE[d365acc](includes/d365acc_md.md)] в качестве панели мониторинга для более наглядного представления информации о своих клиентах. Отсюда вы можете получить доступ к данным каждого из клиентов.  
+
+![Accountant Hub](./media/accountant-get-started/accountant-dashboard.png)
+
+Получить доступ к [!INCLUDE[d365acc](includes/d365acc_md.md)] можно, зарегистрировавшись на странице [Dynamics 365 — Accountant Hub на Microsoft.com](https://www.microsoft.com/en-us/dynamics365/financial-insights-for-accountants). Регистрация бесплатна, и вы сможете быстро начать работу и добавить своих клиентов на панель мониторинга. Дополнительные сведения см. в разделе [Начало работы с Accountant Hub](get-started.md).  
+
+В текущей версии [!INCLUDE[d365acc](includes/d365acc_md.md)] вы можете добавлять клиентов, которые используют [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)] для управления своей организацией.  
 
 ## <a name="see-also"></a>См. также
 [Документация по Microsoft Dynamics 365](https://docs.microsoft.com/en-us/dynamics365/#pivot=solutions&panel=solutions_financials)  

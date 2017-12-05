@@ -1,6 +1,6 @@
 ---
-title: "Создание новых организаций с помощью руководства мастера настройки | Документы Майкрософт"
-description: "В Dynamics 365 for Financials можно легко создать новую пустую организацию. Руководство мастера настройки помогает выполнить требуемые шаги, а также можно импортировать существующие коммерческие данные."
+title: "Создание новых организаций с помощью руководства мастера настройки | Microsoft Docs"
+description: "В Dynamics 365 Business edition можно легко создать новую пустую организацию. Руководство мастера настройки помогает выполнить требуемые шаги, а также можно импортировать существующие коммерческие данные."
 author: edupont04
 ms.service: dynamics365-financials
 ms.topic: article
@@ -11,10 +11,10 @@ ms.search.keywords: company, setup wizard
 ms.date: 07/14/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: eea34afbee429d14ab150894729cb4ea3843bb2b
-ms.openlocfilehash: 3ff3c7af87033595d64e583b62b0e0242b22d2f1
+ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
+ms.openlocfilehash: c4152a77fcd3e5995aaf09c17b0a3a2c227aa2fa
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 11/10/2017
 
 ---
 # <a name="creating-new-companies-in-included365finlongincludesd365finlongmdmd"></a>Создание новых организаций в [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]
@@ -44,10 +44,10 @@ ms.lasthandoff: 09/22/2017
 
 Например, адрес организации используется в счетах и других документах, банковские реквизиты используются в платежах, а метод учета себестоимости используется для расчета цены и оценки стоимости запасов.  
 
-После настройки основных параметров можно настроить остальные основные области. Затем вы будете готовы добавить коммерческие данные, таких как клиенты и поставщики. Для получения более подробной информации см. [Настройка Dynamics 365 for Financials](setup.md).  
+После настройки основных параметров можно настроить остальные основные области. Затем вы будете готовы добавить коммерческие данные, таких как клиенты и поставщики. Дополнительные сведения см. на странице [Настройка Dynamics 365 Business edition](setup.md).  
 
 ## <a name="see-also"></a>См. также
-[Настройка Dynamics 365 for Financials](setup.md)  
+[Настройка Dynamics 365 Business edition ](setup.md)  
 [Импорт бизнес-данных из других финансовых систем](upload-data.md)  
 [Изменение базовых настроек](ui-change-basic-settings.md)  
 [Добро пожаловать в [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md)  

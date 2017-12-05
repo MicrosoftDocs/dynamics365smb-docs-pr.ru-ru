@@ -1,5 +1,5 @@
 ---
-title: "Настройка входящих документов| Документы Майкрософт"
+title: "Настройка входящих документов| Microsoft Docs"
 description: "Используйте функцию входящих документов для создания документов, управления задачами OCR, импорта счетов преобразования файлов изображений."
 services: project-madeira
 documentationcenter: 
@@ -13,10 +13,10 @@ ms.search.keywords: electronic document, e-invoice, incoming document, OCR, ecom
 ms.date: 06/02/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
-ms.openlocfilehash: 69cb1037da2f3873ecb9a3f498ce5fadfeabac1d
+ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
+ms.openlocfilehash: 9a07389bf676468ea17516f8b00b8b1a235dc853
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 11/10/2017
 
 ---
 # <a name="how-to-set-up-incoming-documents"></a>Практическое руководство. Настройка входящих документов
@@ -58,5 +58,5 @@ ms.lasthandoff: 09/22/2017
 [Обработка входящих документов](across-process-income-documents.md)  
 [Входящие документы](across-income-documents.md)  
 [Покупки](purchasing-manage-purchasing.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](ui-work-product.md)
 

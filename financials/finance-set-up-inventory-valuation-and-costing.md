@@ -1,5 +1,5 @@
 ---
-title: "Настройка оценки стоимости запасов и учета себестоимости | Документы Майкрософт"
+title: "Настройка оценки стоимости запасов и учета себестоимости | Microsoft Docs"
 description: "В следующей таблице приводится последовательность задач со ссылками на разделы, в которых они описываются."
 services: project-madeira
 documentationcenter: 
@@ -13,10 +13,10 @@ ms.search.keywords:
 ms.date: 07/06/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
-ms.openlocfilehash: aa5ee6d9942390a2b4ad0aa8787172b0f7b141d0
+ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
+ms.openlocfilehash: 86fd8f6b15b8a2f868db2938278df6147a092725
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 11/10/2017
 
 ---
 # <a name="setting-up-inventory-valuation-and-costing"></a>Настройка оценки стоимости запасов и учета себестоимости
@@ -39,6 +39,6 @@ ms.lasthandoff: 09/22/2017
 
 ## <a name="see-also"></a>См. также  
 [Управление себестоимостью товаров](finance-manage-inventory-costs.md)  
-[Работа с Financials](ui-work-product.md)  
+[Работа с Dynamics 365](ui-work-product.md)  
 [Финансы](finance.md)  
 

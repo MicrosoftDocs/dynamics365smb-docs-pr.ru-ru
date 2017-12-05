@@ -1,6 +1,6 @@
 ---
-title: "Добавление внешнего бухгалтера в Financials | Документы Майкрософт"
-description: "Узнайте, как можно пригласить внешнего бухгалтера в Dynamics 365 for Financials."
+title: "Добавление внешнего бухгалтера в Financials | Microsoft Docs"
+description: "Узнайте, как пригласить внешнего бухгалтера в Dynamics 365 Business edition."
 author: edupont04
 ms.service: dynamics365-financials
 ms.topic: article
@@ -8,13 +8,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: accountant, accounting
-ms.date: 09/05/2017
+ms.date: 11/10/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
-ms.openlocfilehash: b7efbb724f322d371e9e1b725612cb4eb0b3ceb2
+ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
+ms.openlocfilehash: 9769d4b1e34da62290cc97de291462ee2d22c747
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 11/10/2017
 
 ---
 # <a name="inviting-your-external-accountant-to-your-included365finincludesd365finmdmd"></a>Приглашение внешнего бухгалтера в ваш экземпляр [!INCLUDE[d365fin](includes/d365fin_md.md)]
@@ -23,7 +23,7 @@ ms.lasthandoff: 09/22/2017
 Как только бухгалтер получит доступ к вашему экземпляру [!INCLUDE[d365fin](includes/d365fin_md.md)], он сможет использовать ролевой центр **Бухгалтер**, который предоставляет простой доступ к наиболее важным для его работы окнам.  
 
 > [!NOTE]  
->  Эта функция требует, чтобы было задано значение **Suite**. Дополнительные сведения см. в разделе [Настройка взаимодействия Financials](ui-experiences.md).  
+>  Для этой функциональности необходимо использовать вариант настройки интерфейса **Suite**. Дополнительные сведения см. в разделе [Настройка интерфейса Dynamics 365](ui-experiences.md).  
 
 ## <a name="invite-your-accountant-to-your-included365finincludesd365finmdmd"></a>Приглашение бухгалтера в ваш экземпляр [!INCLUDE[d365fin](includes/d365fin_md.md)]
 В последней версии [!INCLUDE[d365fin](includes/d365fin_md.md)] мы упростили для вас приглашение внешнего бухгалтера. Просто откройте окно **Пользователи**, затем выберите действие **Пригласить внешнего бухгалтера** на ленте. Для вас подготавливается сообщение эл. почты, просто добавьте адрес рабочей эл. почты своего бухгалтера и отправьте приглашение.  
@@ -31,7 +31,10 @@ ms.lasthandoff: 09/22/2017
 ![Приглашение бухгалтера](./media/finance-invite-accountant/invite-accountant.png)
 
 > [!TIP]  
->  Для этого необходимо, чтобы была настроена эл. почта SMTP. Это можно сделать самому или обратиться к партнеру [!INCLUDE[d365fin](includes/d365fin_md.md)]. Кроме того, необходимо, чтоб вы выполнили вход в [!INCLUDE[d365fin](includes/d365fin_md.md)] как администратор пользователей, а не как владелец бизнеса или другие пользователи.  
+>  Для этого необходимо, чтобы была настроена эл. почта SMTP. Это можно сделать самому или обратиться к партнеру [!INCLUDE[d365fin](includes/d365fin_md.md)]. Кроме того, необходимо, чтоб вы выполнили вход в [!INCLUDE[d365fin](includes/d365fin_md.md)] как администратор пользователей, а не как владелец бизнеса или другие пользователи. Наконец, необходимо,чтобы вы вышли из пробной организации, т. е. у вас должен быть администратор Azure Active Directory.  
+
+> [!IMPORTANT]  
+>  Адрес электронной почты бухгалтера должен представлять собой рабочий адрес, основанный на Active Directory. Если у бухгалтера электронная почта другого типа, отправить приглашение не удастся.  
 
 ### <a name="separate-license"></a>Отдельная лицензия
 За кулисами бухгалтер добавляется в вашу область арендатора Active Directory. Ваш администратор может проверить, что бухгалтер принял приглашение и ему назначена правильная лицензия. Соответствующие шаги зависят от типа учетной записи, которую вы использовали при регистрации в [!INCLUDE[d365fin](includes/d365fin_md.md)]. В этом разделе описано использование учетной записи Office 365, которая использует Microsoft Azure Active Directory.  
@@ -43,6 +46,6 @@ ms.lasthandoff: 09/22/2017
 ## <a name="see-also"></a>См. также
 [Финансы](finance.md)  
 [Практическое руководство. Настройка электронной почты вручную или с помощью сопровождаемой настройки](madeira-how-setup-email.md)  
-[Работа бухгалтера в Dynamics 365 for Financials](finance-accounting.md)  
-[Financials для бухгалтеров на Microsoft.com](https://www.microsoft.com/en-us/dynamics365/financial-insights-for-accountants)  
+[Работа бухгалтера в Dynamics 365 Business edition ](finance-accounting.md)  
+[Dynamics 365 для бухгалтеров на Microsoft.com](https://www.microsoft.com/en-us/dynamics365/financial-insights-for-accountants)  
 

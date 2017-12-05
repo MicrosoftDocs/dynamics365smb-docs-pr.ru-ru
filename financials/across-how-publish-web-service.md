@@ -1,5 +1,5 @@
 ---
-title: "Предоставление объектов как веб-службы | Документы Майкрософт"
+title: "Предоставление объектов как веб-службы | Microsoft Docs"
 description: "При публикации объектов [!INCLUDE[d365fin](includes/d365fin_md.md)] в виде веб-служб они сразу же становятся доступными по сети."
 author: edupont04
 ms.service: dynamics365-financials
@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 09/01/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
-ms.openlocfilehash: 278515fc479a72957fb52dad71ce2f98d354ee32
+ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
+ms.openlocfilehash: af1aef6ec730083c49b17ae8c0c9e39c7f663244
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 11/10/2017
 
 ---
 # <a name="how-to-publish-a-web-service"></a>Практическое руководство. Публикация веб-службы
@@ -44,27 +44,13 @@ ms.lasthandoff: 09/22/2017
 
 #### <a name="to-verify-the-availability-of-a-web-service"></a>Проверка наличия веб-службы  
 
-1.  В браузере введите соответствующий URL-адрес. Следующая таблица описывает типы URL-адресов, которые можно ввести. Для веб-служб SOAP используйте следующий формат URI.  
+1.  В браузере введите соответствующий URL-адрес. Следующая таблица описывает типы URL-адресов, которые можно ввести.  
 
-    <table>
-    <tr>
-    <th>Тип веб-службы</th>
-    <th>Синтаксис</th>
-    <th>Пример</th>
-    </tr>
-    <tr>
-    <td>SOAP</td>
-    <td>https://*Server*:*SOAPWebServicePort*/*ServerInstance*/WS/*CompanyName*/salesDocuments/</td>
-    <td>https://mycompany.financials.dynamics.com:7047/MS/WS/MyCompany/Page/salesDocuments?tenant=mycompany.financials.dynamics.com</td>
-    </tr>
-    <tr>
-    <td>OData</td>
-    <td>https://*Server*:*ODataWebServicePort*/*ServerInstance*/OData/Company('*CompanyName*')</td>
-    <td>https://MyCompany.financials.dynamics.com:7048/MS/OData/Company('MyCompany')/salesDocuments?tenant=MyCompany.financials.dynamics.com
-
-         The company name is case-sensitive.</td>
-    </tr>
-    </table>
+    >    [!div class="mx-tdBreakAll"]
+    >    |Тип веб-службы|Синтаксис|Пример|  
+    >    |----------------|------|-------|
+    >    |SOAP |https://*Server*:*SOAPWebServicePort*/*ServerInstance*/WS/*CompanyName*/salesDocuments/ |https://mycompany.financials.dynamics.com:7047/MS/WS/MyCompany/Page/salesDocuments?tenant=mycompany.financials.dynamics.com |  
+    >    |OData |https://*Server*:*ODataWebServicePort*/*ServerInstance*/OData/Company('*CompanyName*')|[https://MyCompany.financials.dynamics.com:7048/MS/OData/Company('MyCompany')/salesDocuments?tenant=MyCompany.financials.dynamics.com](https://MyCompany.financials.dynamics.com:7048/MS/OData/Company('MyCompany')/salesDocuments?tenant=MyCompany.financials.dynamics.com) <br />    Название организации учитывает регистр.|
 
 2.  Просмотрите сведения, которые отражаются в браузере. Удостоверьтесь, что созданное вами имя веб-службы отображается правильно.  
 

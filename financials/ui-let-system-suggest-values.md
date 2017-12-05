@@ -1,8 +1,6 @@
 ---
-title: "Настройка предлагаемых значений полей | Документы Майкрософт"
-description: "Чтобы избежать ручных подсчетов и быстро и точно выполнять задачи, вы можете настроить автоматический ввод данных, чтобы программа Financials заполняла выбранные поля."
-services: project-madeira
-documentationcenter: 
+title: "Настройка предлагаемых значений полей | Microsoft Docs"
+description: "Чтобы избежать ручных подсчетов и быстро и точно выполнять задачи, вы можете настроить автоматический ввод данных, чтобы программа Dynamics 365 заполняла выбранные поля."
 author: SorenGP
 ms.service: dynamics365-financials
 ms.topic: article
@@ -12,13 +10,13 @@ ms.workload: na
 ms.date: 08/15/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
-ms.openlocfilehash: 3ca73c8298101eb02aac397894f87f7a5f58a5c2
+ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
+ms.openlocfilehash: 26a66f87f85cac1ff6f6ba6eb4cb90527565f236
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 11/10/2017
 
 ---
-# <a name="letting-included365finincludesd365finmdmd-suggest-values"></a>Разрешение [!INCLUDE[d365fin](includes/d365fin_md.md)] предлагать значения
+# <a name="letting-included365finlongincludesd365finlongmdmd-suggest-values"></a>Разрешение [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)] предлагать значения
 [!INCLUDE[d365fin](includes/d365fin_md.md)] помогает выполнять задачи быстрее и с меньшим числом ошибок благодаря автоматическому заполнению полей или строк данными, которые в противном случае вам пришлось бы рассчитываться и вводить самостоятельно. Хотя такой автоматический ввод данных всегда верен, при необходимости вы можете изменить эти значения.
 
 Функция, которая заполняет за вас значения данных, обычно доступна для задач, где вам нужно вводить большие объемы транзакционных данных и вы хотите избежать ошибок и сэкономить время. В этом разделе описана часть таких функций. В будущих обновлениях [!INCLUDE[d365fin](includes/d365fin_md.md)] будут добавлены еще разделы.
@@ -44,6 +42,6 @@ ms.lasthandoff: 09/22/2017
 3. Откройте окно **Регистрация платежей** и перейдите к обработке входящих платежей клиентов с помощью описанной функции автоматического ввода значения поля.
 
 ## <a name="see-also"></a>См. также
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Работа с [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](ui-work-product.md)  
 [Финансы](finance.md)
 

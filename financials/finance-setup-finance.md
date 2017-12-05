@@ -1,5 +1,5 @@
 ---
-title: "Настройка финансовых процессов | Документы Майкрософт"
+title: "Настройка финансовых процессов | Microsoft Docs"
 description: "Узнайте о задачах по настройке финансов для своего бизнеса в соответствии требованиями учет и аудита."
 services: project-madeira
 documentationcenter: 
@@ -13,10 +13,10 @@ ms.search.keywords: accounting, auditing, bookkeeping
 ms.date: 08/10/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
-ms.openlocfilehash: b63e2e65f92edbbe10bcb5e2c340db31b1acda28
+ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
+ms.openlocfilehash: 2d8863ba9037f6470232372dedd4536664fd3404
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 11/10/2017
 
 ---
 # <a name="setting-up-finance"></a>Настройка финансов
@@ -26,7 +26,7 @@ ms.lasthandoff: 09/22/2017
 
 В следующей таблице приводится последовательность задач со ссылками на разделы, в которых они описываются.
 
-| По | Ссылка |
+| Действие | Ссылка |
 | --- | --- |
 | Выбор способа оплаты поставщикам. |[Определение способов оплаты](finance-payment-methods.md) |
 | Определяйте учетные группы, которые сопоставляют объекты, такие как клиенты, поставщики, товары, ресурсы и документов продажи и покупки со счетами главной книги. |[Настройка учетных групп](finance-posting-groups.md)|

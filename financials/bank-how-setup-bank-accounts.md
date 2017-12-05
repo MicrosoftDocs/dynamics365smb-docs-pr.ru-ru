@@ -1,5 +1,5 @@
 ---
-title: "Настройка банковских счетов| Документы Майкрософт"
+title: "Настройка банковских счетов| Microsoft Docs"
 description: "Вы можете выверять банковские счета в Financials на основании выписок из банка."
 services: project-madeira
 documentationcenter: 
@@ -10,13 +10,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: Yodlee, feed, stream
-ms.date: 06/02/2017
+ms.date: 09/26/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
-ms.openlocfilehash: f46e95e24ef39a93bc93cfda1b9c575b07273566
+ms.sourcegitcommit: bd69a3da7a0a5e766a232e8999056ac60109e7b1
+ms.openlocfilehash: 83d4d7b10ce9bd09e9947f48eee0c1094815aa1e
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 10/02/2017
 
 ---
 # <a name="how-to-set-up-bank-accounts"></a>Практическое руководство. Настройка банковских счетов
@@ -26,6 +26,9 @@ ms.lasthandoff: 09/22/2017
 1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Банковские счета**, а затем выберите связанную ссылку.
 2. В окне **Банковские счета** выберите действие **Создать**.
 3. Заполните соответствующим образом поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
+
+> [!NOTE]
+> Чтобы занести в поле **Сальдо** начальное сальдо, необходимо учесть в книге банковских счетов операцию на соответствующую сумму. Это можно сделать, выполнив выверку банковского счета. Дополнительные сведения см. в разделе [Практическое руководство. Выверка банковских счетов по-отдельности](bank-how-reconcile-bank-accounts-separately.md). Кроме того, можно реализовать начальное сальдо как часть общего создания данных в новых организациях с помощью мастера настройки **Миграция бизнес-данных**. Дополнительные сведения см. в разделе [Добро пожаловать в [!INCLUDE[d365fin](includes/d365fin_md.md)](index.md).
 
 ## <a name="to-set-up-your-bank-account-for-import-or-export-of-bank-files"></a>Настройка банковского счета для импорта или экспорта банковских файлов
 Поля на экспресс-вкладке **Перемещение** в окне **Карточка банковского счета** связаны с импортом и экспортом банковских файлов и выписок. Дополнительные сведения см. в разделах [Практическое руководство. Настройка службы конвертации банковских данных](bank-how-setup-bank-data-conversion-service.md) и [Практическое руководство. Настройка службы банковских выписок Envestnet Yodlee](bank-how-setup-bank-statement-service.md).
@@ -44,6 +47,9 @@ ms.lasthandoff: 09/22/2017
 2. Откройте карточку поставщика, на банковских счет которого будут экспортироваться банковские файлы платежей.
 3. Выберите действие **Банковские счета**.
 3. В окне **Карточка банк. счета поставщика** на экспресс-вкладке **Перемещение** заполните требуемые поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
+
+## <a name="to-set-the-opening-balance-on-new-bank-accounts"></a>Задание начального сальдо на новых банковских счетах
+
 
 ## <a name="see-also"></a>См. также
 [Настройка банковских операций](bank-setup-banking.md)  

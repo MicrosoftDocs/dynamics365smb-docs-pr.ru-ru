@@ -1,6 +1,6 @@
 ---
-title: "Экспорт данных из Financials в Excel| Документы Майкрософт"
-description: "Вы можете экспортировать финансовые отчеты и данные бизнес-аналитики из Dynamics 365 for Financials в Excel или открыть данные Financials в Excel."
+title: "Экспорт данных из Financials в Excel | Microsoft Docs"
+description: "Вы можете экспортировать финансовые отчеты и данные бизнес-аналитики из Dynamics 365 Business edition в Excel или открыть данные Financials в Excel."
 services: project-madeira
 documentationcenter: 
 author: edupont04
@@ -13,10 +13,10 @@ ms.search.keywords: analysis, reporting, financial report, business intelligence
 ms.date: 06/02/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
-ms.openlocfilehash: 054288659215df61a99564ab856bfb5f72ee7f39
+ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
+ms.openlocfilehash: 36d3e31300fbdc3a29f345a331cabbf50875c77f
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 11/10/2017
 
 ---
 # <a name="exporting-your-business-data-to-excel"></a>Экспорт бизнес-данных в Excel
@@ -67,5 +67,5 @@ ms.lasthandoff: 09/22/2017
 [Импорт бизнес-данных из других финансовых систем](upload-data.md)  
 [Финансы](finance.md)  
 [Общие бизнес-функции](ui-across-business-areas.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Работа с [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](ui-work-product.md)  
 

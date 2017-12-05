@@ -1,5 +1,5 @@
 ---
-title: "Создание контактных лиц | Документы Майкрософт"
+title: "Создание контактных лиц | Microsoft Docs"
 description: "Содержит обзор задач по созданию карточку контакта для лица, например для потенциального клиента или поставщика, что помогает определить отношения и наладить связь."
 services: project-madeira
 documentationcenter: 
@@ -13,10 +13,10 @@ ms.search.keywords: relationship, prospect
 ms.date: 06/06/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
-ms.openlocfilehash: 1e7d9f6e05f12ff826959dee420917f36258b573
+ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
+ms.openlocfilehash: 59ab4fdc2cedb39296985dfaf9c5ac66fd5bf61d
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 11/10/2017
 
 ---
 # <a name="creating-contact-persons"></a>Создание контактных лиц
@@ -28,9 +28,9 @@ ms.lasthandoff: 09/22/2017
 
 Записав как можно больше сведений о контактном лице, вы найти нужные сведения среди всех групп и организаций.
 
-В следующей таблице приводится последовательность задач со ссылками на разделы, в которых они описываются. 
+В следующей таблице приводится последовательность задач со ссылками на разделы, в которых они описываются.
 
-| По | Ссылка |
+| Действие | Ссылка |
 | --- | --- |
 | Предоставить сведения о контактном лице. |[Практическое руководство. Создание контактных лиц](marketing-how-create-contact-persons.md) |
 | Настройка альтернативного адреса для контакта. |[Практическое руководство. Назначение альтернативных адресов](marketing-how-assign-alternate-address.md) |
@@ -41,5 +41,5 @@ ms.lasthandoff: 09/22/2017
 ## <a name="see-also"></a>См. также
 [Создание контактных организаций](marketing-create-contact-companies.md)  
 [Создание контактов и управление ими]()  
-[Работа с Financials](ui-work-product.md)
+[Работа с Dynamics 365](ui-work-product.md)
 

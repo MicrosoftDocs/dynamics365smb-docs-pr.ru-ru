@@ -1,5 +1,5 @@
 ---
-title: "Создание контактных лиц | Документы Майкрософт"
+title: "Создание контактных лиц | Microsoft Docs"
 description: "Описывается, как создать карточку контакта для каждого нового лица или потенциального клиента, с которым у вас деловые отношения."
 services: project-madeira
 documentationcenter: 
@@ -13,10 +13,10 @@ ms.search.keywords: relationship, prospect
 ms.date: 06/06/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
-ms.openlocfilehash: a4558787532b1e4713a2a0681bb8acf910519504
+ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
+ms.openlocfilehash: 208c49d0f86ae0a3c8ef4db8008fa2995f77e674
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 11/10/2017
 
 ---
 # <a name="how-to-create-contact-persons"></a>Как создать контактные лица
@@ -43,5 +43,5 @@ ms.lasthandoff: 09/22/2017
 [Практическое руководство. Настройка должностных обязанностей в контактах](marketing-job-responsibilities.md)  
 [Практическое руководство. Настройка организационных уровней для контактных лиц](marketing-organizational-levels.md)  
 [Синхронизация контактов с клиентами, поставщиками и банковскими счетами](marketing-synchronize-contacts-customers-vendors-bank-accounts.md)  
-[Работа с Financials](ui-work-product.md)  
+[Работа с Dynamics 365](ui-work-product.md)  
 

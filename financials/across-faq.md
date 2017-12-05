@@ -1,5 +1,5 @@
 ---
-title: "Вопросы и ответы об использовании Financials | Документы Майкрософт"
+title: "Вопросы и ответы об использовании Financials | Microsoft Docs"
 description: "Ответы на типичные вопросы об том, как зарегистрироваться Financials и начать работу."
 author: edupont04
 ms.service: dynamics365-financials
@@ -11,10 +11,10 @@ ms.search.keywords: FAQ, email, Office 365, subscription, trial, plan
 ms.date: 07/27/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: eea34afbee429d14ab150894729cb4ea3843bb2b
-ms.openlocfilehash: d81e73ec99d8ef993cff8ec3b5f5f38d00741c7a
+ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
+ms.openlocfilehash: 0823414b222c2f578a6e6c6908f403240cf104d5
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 11/10/2017
 
 ---
 # <a name="frequently-asked-questions"></a>Вопросы и ответы
@@ -26,7 +26,7 @@ ms.lasthandoff: 09/22/2017
 При попытке зарегистрироваться с личного адреса электронной почты вы получите сообщение о том, что нужно использовать рабочий или учебный адрес электронной почты. Дополнительные сведения см. в разделе [Устранение неполадок при самостоятельной регистрации](ui-troubleshoot-self-signup.md)  
 
 ## <a name="do-i-have-to-buy-office-365"></a>Нужно ли мне покупать Office 365?
-№ Но если вы хотите попробовать [!INCLUDE[d365fin](includes/d365fin_md.md)] с полной интеграцией в Office 365, вы можете зарегистрировать 1-месячную бесплатную пробную версию Office 365 [здесь](https://products.office.com/try).  
+Нет. Но если вы хотите попробовать [!INCLUDE[d365fin](includes/d365fin_md.md)] с полной интеграцией в Office 365, вы можете зарегистрировать 1-месячную бесплатную пробную версию Office 365 [здесь](https://products.office.com/try).  
 
 ## <a name="what-is-the-integration-with-office-365-about"></a>Что такое интеграция с Office 365?
 [!INCLUDE[d365fin](includes/d365fin_md.md)] полностью интегрирован с Office 365, чтобы можно было легко перемещаться между приложениями Office 365 и [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью средства запуска приложений. В [!INCLUDE[d365fin](includes/d365fin_md.md)] можно, например, открывать данные в Excel, печатать отчеты с помощью Word и работать с данными [!INCLUDE[d365fin](includes/d365fin_md.md)] в Outlook. Дополнительные сведения см. в разделе, [Использование [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)] в качестве рабочего почтового ящика в Outlook](madeira-outlook.md).  
@@ -35,7 +35,7 @@ ms.lasthandoff: 09/22/2017
 Да, но в зависимости от способа регистрации в [!INCLUDE[d365fin](includes/d365fin_md.md)] ваши данные могут быть удалены или сохранены. Дополнительные сведения см. в разделе [Отмена [!INCLUDE[d365fin](includes/d365fin_md.md)]](madeira-cancel.md).  
 
 ## <a name="where-do-i-go-if-i-have-questions"></a>Что делать, если у меня есть вопросы?
-Если у вас есть вопросы о [!INCLUDE[d365fin](includes/d365fin_md.md)] и вы можете найти ответ в этой документации, задайте вопрос в сообществе Dynamics 365 for Financials. Дополнительные сведения см. на странице [Сообщество Dynamics 365, Business edition](https://community.dynamics.com/business). Кроме того, группа службы поддержки публикует советы и рекомендации. Дополнительные сведения см. в разделе [Блог службы поддержки Dynamics 365 for Financials](https://blogs.msdn.microsoft.com/dyn365finsupport).  
+Если у вас есть вопросы по [!INCLUDE[d365fin](includes/d365fin_md.md)], на которые вы не можете найти ответ в документации, задайте вопрос в сообществе Dynamics 365 Business edition. Дополнительные сведения см. на странице [Сообщество Dynamics 365, Business edition](https://community.dynamics.com/business). Кроме того, группа службы поддержки публикует советы и рекомендации. Дополнительные сведения см. в [блоге службы поддержки Dynamics 365 Business edition](https://blogs.msdn.microsoft.com/dyn365finsupport).  
 
 ## <a name="is-it-possible-to-extend-my-30-day-new-company-trial-period"></a>Можно ли продлить 30-дневный пробный период "Новая организация"?
 Да. Если вам требуется продлить пробный период, обратитесь в Майкрософт по телефону 1-888-477-7989 (США) или 1-800-741-9206 (Канада). ПРИМЕЧАНИЕ. Завершение процесса продления пробного периода может занять до 2 рабочих дней.  
@@ -51,5 +51,5 @@ ms.lasthandoff: 09/22/2017
 [Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] в качестве рабочего почтового ящика в Outlook](madeira-outlook.md)  
 [Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] без Outlook](madeira-no-outlook.md)  
 [Практическое руководство. Изменение ролевого центра](change-role.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Работа с [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](ui-work-product.md)  
 

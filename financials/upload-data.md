@@ -1,20 +1,20 @@
 ---
-title: "Импорт устаревших бизнес-данных в Financials | Документы Майкрософт"
-description: "Вы можете перенести данные по клиентам, поставщикам и запасам, например из Excel, QuickBooks или Dynamics GP, в Financials."
+title: "Импорт старых бизнес-данных в Dynamics 365 | Microsoft Docs"
+description: "Вы можете перенести данные по клиентам, поставщикам и запасам, например из Excel, QuickBooks или Dynamics GP, в Dynamics 365."
 author: edupont04
 ms.service: dynamics365-financials
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: migrate, initialize, implement
+ms.search.keywords: QuickBooks, transfer, import, migrate, initialize, implement
 ms.date: 09/25/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 8b2e20e694279a8c06188e0e429ef3b4fb43aea2
-ms.openlocfilehash: c5571a6d5dcb7a228ce0debd9aa3bcf18607e8a4
+ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
+ms.openlocfilehash: 3f1df4bf771586c5e3e4d79d23c26051bf19c763
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/27/2017
+ms.lasthandoff: 11/10/2017
 
 ---
 # <a name="importing-business-data-from-other-finance-systems"></a>Импорт бизнес-данных из других финансовых систем
@@ -24,7 +24,7 @@ ms.lasthandoff: 09/27/2017
 
 [!INCLUDE[d365fin](includes/d365fin_md.md)] включает шаблоны для счетов, клиентов, поставщиков и складских товаров, которые можно выбрать для применения при импорте данных.  
 
-## <a name="importing-data-from-quickbooks-or-dynamics-gp"></a>Импорт данных из QuickBooks или Dynamics GP
+## <a name="importing-data-from-quickbooks-desktop-quickbooks-online-or-dynamics-gp"></a>Импорт данных из QuickBooks Desktop, QuickBooks Online или Dynamics GP
 Если ваша организация использует QuickBooks или Dynamics GP, вы можете экспортировать требуемую информацию в файл. Затем вы сможете открыть руководство по сопровождаемой настройке для переноса данных.
 Например, если ваш файл включает информацию о клиентах и поставщиках, вы можете остановиться на переносе только данных о клиентах. Остальную информацию можно будет перенести позже.  
 

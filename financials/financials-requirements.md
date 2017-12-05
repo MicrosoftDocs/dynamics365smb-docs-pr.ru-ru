@@ -1,8 +1,6 @@
 ---
-title: "Минимальные требования для использования Financials | Документы Майкрософт"
-description: "Узнайте о минимальных требованиях к системе и версии для использования Dynamics 365 for Financials."
-services: project-madeira
-documentationcenter: 
+title: "Минимальные требования для использования Dynamics 365 Business edition | Microsoft Docs"
+description: "Узнайте о минимальных требованиях к системе и версии для использования Dynamics 365 Business edition."
 author: edupont04
 ms.service: dynamics365-financials
 ms.topic: get-started-article
@@ -10,16 +8,16 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: version
-ms.date: 06/02/2017
+ms.date: 09/22/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
-ms.openlocfilehash: e1f5b9c3a8ef7337d3b958e733e034c79a9bc2bc
+ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
+ms.openlocfilehash: fb17aada5494bb700edc005599ff8cbc764abe83
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 11/10/2017
 
 ---
-# <a name="minimum-requirements-for-using-dynamics-365-for-financials"></a>Минимальные требования к использованию Dynamics 365 for Financials
+# <a name="minimum-requirements-for-using-dynamics-365-business-edition"></a>Минимальные требования для использования Dynamics 365 Business edition
 Перед началом работы с [!INCLUDE[d365fin](includes/d365fin_md.md)] мы рекомендуем проверить, что ваш компьютер и мобильное устройство соответствуют минимальным требованиям для продукта или превышают их. В этой статье перечислены эти требования.  
 
 ## <a name="browsers"></a>Браузеры

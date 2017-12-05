@@ -1,6 +1,6 @@
 ---
-title: "Создание возможностей продаж | Документы Майкрософт"
-description: "Описывается создание возможностей из менеджеров по продажам или контактов в Financials."
+title: "Создание возможностей продаж | Microsoft Docs"
+description: "Здесь рассматривается создание возможностей из менеджеров по продажам или контактов в Dynamics 365 Business edition."
 services: project-madeira
 documentationcenter: 
 author: jswymer
@@ -13,10 +13,10 @@ ms.search.keywords: relationship, prospect
 ms.date: 06/06/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
-ms.openlocfilehash: 3137ed6aeaa235e2f2b4db7fdfb7dd7b8570c886
+ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
+ms.openlocfilehash: 2d280e80be237abb5f2b16b2130f446894497171
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 11/10/2017
 
 ---
 # <a name="how-to-create-sales-opportunities"></a>Практическое руководство. Создание возможностей продаж
@@ -45,5 +45,5 @@ ms.lasthandoff: 09/22/2017
 ## <a name="see-also"></a>См. также
 [Продажи](sales-manage-sales.md)  
 [Создание контактов и управление ими](marketing-contacts.md)  
-[Работа с Financials](ui-work-product.md)
+[Работа с Dynamics 365](ui-work-product.md)
 

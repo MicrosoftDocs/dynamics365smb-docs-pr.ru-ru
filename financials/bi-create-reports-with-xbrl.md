@@ -1,5 +1,5 @@
 ---
-title: "Практическое руководство. Создание отчетов с XBRL | Документы Майкрософт"
+title: "Практическое руководство. Создание отчетов с XBRL | Microsoft Docs"
 description: "XBRL расшифровывается как eXtensible Business Reporting Language — расширяемый язык бизнес-отчетности. Это основанный на XML язык для разметки финансовых данных, помогающий эффективно и точно их обрабатывать, а также совместно их использовать."
 services: project-madeira
 documentationcenter: 
@@ -13,10 +13,10 @@ ms.search.keywords:
 ms.date: 08/16/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
-ms.openlocfilehash: 9034287316f4d2c3f110182edf7676934453015d
+ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
+ms.openlocfilehash: de7cf91736fd97943604237cee7093017e7c01f9
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 11/10/2017
 
 ---
 # <a name="how-to-create-reports-with-xbrl"></a>Практическое руководство. Создание отчетов с XBRL
@@ -108,5 +108,5 @@ XBRL **документ** это бизнес-отчет, например фи�
 ## <a name="see-also"></a>См. также
 [Финансы](finance.md)    
 [Бизнес-аналитика](bi.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)](ui-work-product.md)
+[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

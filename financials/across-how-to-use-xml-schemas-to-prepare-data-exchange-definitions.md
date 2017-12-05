@@ -1,5 +1,5 @@
 ---
-title: "Создание XMLports на основе XML-схем | Документы Майкрософт"
+title: "Создание XMLports на основе XML-схем | Microsoft Docs"
 description: "Используйте XML-схемы для настройки платформы обмена документами."
 author: SorenGP
 ms.service: dynamics365-financials
@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 08/21/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 8b2e20e694279a8c06188e0e429ef3b4fb43aea2
-ms.openlocfilehash: d44e4f55dc43e4ad6b8e8bc1742eed3c966eb918
+ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
+ms.openlocfilehash: 5b10eaff0d412ee26ead2137a353054c41d05113
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/27/2017
+ms.lasthandoff: 11/10/2017
 
 ---
 # <a name="how-to-use-xml-schemas-to-prepare-data-exchange-definitions"></a>Практическое руководство. Использование XML-схем для определения обмена данными
@@ -46,7 +46,7 @@ ms.lasthandoff: 09/27/2017
 
 4.  Заполните поля, как описано в следующей таблице.  
 
-    |Поле|[Описание]|  
+    |Поле|Описанием|  
     |---------------------------------|---------------------------------------|  
     |**Код**|Указание кода для определения XML-схемы.|  
     |**Описание**|Указание описания XML-схемы.|  

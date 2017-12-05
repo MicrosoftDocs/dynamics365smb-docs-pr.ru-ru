@@ -1,6 +1,6 @@
 ---
-title: "Использование общих функций Dynamics 365 for Financials | Документы Майкрософт"
-description: "Описываются общие функции, которые вы используете для работы с данными в Financials, например ввод значений, сортировка данных и изменение представлений."
+title: "Использование общих функций Dynamics 365 Business edition | Microsoft Docs"
+description: "Описываются общие функции, которые вы используете для работы с данными в Dynamics 365, например ввод значений, сортировка данных и изменение представлений."
 services: 
 documentationcenter: 
 author: SusanneWindfeldPedersen
@@ -12,13 +12,13 @@ ms.workload: na
 ms.date: 05/29/2017
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
-ms.openlocfilehash: 0a50b92a952c0d4be2b68dc4278cedd9362348f0
+ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
+ms.openlocfilehash: d9f0fd40b34637a8a31e28871b19bd2adb3aab40
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 11/10/2017
 
 ---
-# <a name="working-with-included365finincludesd365finlongmdmd"></a>Работа с [!INCLUDE[d365fin](includes/d365fin_long_md.md)]
+# <a name="working-with-included365finlongincludesd365finlongmdmd"></a>Работа с [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]
 При выполнении бизнес-задач приходится производить разнообразные действия с данными, например создавать записи и вводить данные, сортировать и фильтровать данные, создавать заметки и выводить данные в другие приложения.
 
 Например, можно скорректировать размер и положение любого окна, увеличить ширину столбцов и высоту заголовков столбцов, а также изменить сортировку данных в столбцах. А если необходимо использовать горизонтальную полосу прокрути для просмотра всех столбцов на странице списка или в строках документа, можно использовать вертикальную область закрепления, чтобы ограничить прокрутку некоторых столбцов.
@@ -35,12 +35,12 @@ ms.lasthandoff: 09/22/2017
 | Изменяйте цветной индикатор в очередях. |[Практическое руководство. Настройка цветного индикатора в очередях](ui-how-setup-colored-indicator-cues.md) |
 | Изменение базовых настроек, таких как организация или рабочая дата. |[Изменение базовых настроек](ui-change-basic-settings.md) |
 | Измените ролевой центр и связанную домашнюю страницу в соответствии с ролью. |[Практическое руководство. Изменение ролевого центра](change-role.md) |
-| Измените поля и действия, которые будут отображаться в пользовательском интерфейсе, в соответствии с бизнес-процессами вашей организации. |[Настройка взаимодействия [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-experiences.md) |
-| Получение отчетов для отображения данных для определенных диапазонов дат. |[Ввод диапазонов дат в Dynamics 365 for Financials](ui-enter-date-ranges.md) |
+| Измените поля и действия, которые будут отображаться в пользовательском интерфейсе, в соответствии с бизнес-процессами вашей организации. |[Настройка интерфейса [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-experiences.md) |
+| Получение отчетов для отображения данных для определенных диапазонов дат. |[Ввод диапазонов дат в Dynamics 365 Business edition](ui-enter-date-ranges.md) |
 
 ## <a name="see-also"></a>См. также
 [Общие бизнес-функции](ui-across-business-areas.md)  
-[Настройка взаимодействия [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-experiences.md)  
+[Настройка интерфейса [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](ui-experiences.md)  
 
-## [!INCLUDE[d365fin](includes/free_trial_md.md)]
+## [!INCLUDE[free_trial](includes/free_trial_md.md)]
 

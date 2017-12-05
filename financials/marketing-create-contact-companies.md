@@ -1,5 +1,5 @@
 ---
-title: "Создание контактных организаций | Документы Майкрософт"
+title: "Создание контактных организаций | Microsoft Docs"
 ddescription: Outlines the tasks to create contact companies, including assigning relevant data about prospects and defining the business relationships you have with companies.
 services: project-madeira
 documentationcenter: 
@@ -13,10 +13,10 @@ ms.search.keywords: relationship, prospect
 ms.date: 06/06/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
-ms.openlocfilehash: 2deb992855857a83955c3c119eb7903fe45088d2
+ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
+ms.openlocfilehash: 3c80d937a8b849cf7174952e02bbde243ca0ac5c
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 11/10/2017
 
 ---
 # <a name="creating-contact-companies"></a>Создание контактных организаций
@@ -26,9 +26,9 @@ ms.lasthandoff: 09/22/2017
 
 Можно также определить, какие деловые отношения установлены с данным контактом. Так, контакт может быть потенциальным клиентом, банком или контрагентом.
 
-В следующей таблице приводится последовательность задач со ссылками на разделы, в которых они описываются. 
+В следующей таблице приводится последовательность задач со ссылками на разделы, в которых они описываются.
 
-| По | Ссылка |
+| Действие | Ссылка |
 | --- | --- |
 | Настройте карточку контакта для новой организации с нуля или из клиента, поставщика или банковского счета. |[Практическое руководство. Создание контактных организаций](marketing-how-create-contact-companies.md) |
 | Синхронизация информации в контактах с общей информацией в поставщиках, клиентах и банковских счетах. |[Синхронизация контактов с клиентами, поставщиками и банковскими счетами](marketing-synchronize-contacts-customers-vendors-bank-accounts.md) |
@@ -40,5 +40,5 @@ ms.lasthandoff: 09/22/2017
 
 ## <a name="see-also"></a>См. также
 [Создание контактных лиц](marketing-create-contact-persons.md)   
-[Работа с Financials](ui-work-product.md)
+[Работа с Dynamics 365](ui-work-product.md)
 

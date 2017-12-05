@@ -1,6 +1,6 @@
 ---
-title: "Использование общих функций в различных деловых областях | Документы Майкрософт"
-description: "Узнайте о функциях, которые доступны в различных деловых областях Dynamics 365 for Financials."
+title: "Использование общих функций в различных деловых областях | Microsoft Docs"
+description: "Узнайте о функциях, которые доступны в различных деловых областях Dynamics 365 Business edition."
 services: project-madeira
 documentationcenter: 
 author: SusanneWindfeldPedersen
@@ -13,10 +13,10 @@ ms.search.keywords: feature overview, functionality
 ms.date: 08/21/2017
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: 8b2e20e694279a8c06188e0e429ef3b4fb43aea2
-ms.openlocfilehash: bd035a6fa6dc86dcea12783c6d7684e6ffbae4a3
+ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
+ms.openlocfilehash: 5a5238c3333551cc00fbb6b81c04309e76013f82
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/27/2017
+ms.lasthandoff: 11/10/2017
 
 ---
 # <a name="general-business-functionality"></a>Общие бизнес-функции
@@ -24,7 +24,7 @@ ms.lasthandoff: 09/27/2017
 
 В следующей таблице перечислены эти общие деловые области и приведены ссылки на разделы, в которых они описываются.
 
-| По | Ссылка |
+| Действие | Ссылка |
 | --- | --- |
 | Настройка стандартных текстовых кодов для расширения возможностей работы с текстом путем добавления дополнительных строк и настройки условий для этих строк. |[Практическое руководство. Определение расширенного текста](ui-how-define-ext-text.md) |
 | Узнайте о том, как работать с финансовыми журналами, которые используются для учета на счетах главной книги и других счетах, таких как банковские счета, счета клиентов, поставщиков или основных средств. |[Работа с финансовыми журналами](ui-work-general-journals.md) |

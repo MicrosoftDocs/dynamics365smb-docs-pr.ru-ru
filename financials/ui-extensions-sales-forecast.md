@@ -1,5 +1,5 @@
 ---
-title: "Использование расширения \"Прогноз продаж и запасов\" для управления запасами | Документы Майкрософт"
+title: "Использование расширения \"Прогноз продаж и запасов\" для управления запасами | Microsoft Docs"
 description: "Это расширение позволяет вам предсказывать продажи, получать четкую информацию о товарах, которые скоро закончатся, и даже создавать запросы на пополнение для поставщиков."
 services: project-madeira
 documentationcenter: 
@@ -13,13 +13,13 @@ ms. search.keywords: app, add-in, manifest, customize, budget
 ms.date: 03/29/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
-ms.openlocfilehash: a0cac0236611c90d3d1fdf1bae9deaaeb235b540
+ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
+ms.openlocfilehash: b4f49d7d103bebeb6512d825a68c5941c8835214
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 11/10/2017
 
 ---
-# <a name="sales-and-inventory-forecast-for-dynamics-365-for-financials"></a>Прогноз запасов и продаж для Dynamics 365 for Financials
+# <a name="sales-and-inventory-forecast-for-dynamics-365-business-edition"></a>Прогноз продаж и запасов для Dynamics 365 Business edition 
 Управление запасами представляет собой компромисс между обслуживанием клиентов и управлением себестоимостью. В одной стороны, низкие запасы требуют меньшего оборотного капитала, но, с другой стороны, отсутствие товара на складе потенциально ведет к упущенным продажам. Расширение прогноза продаж и запасов прогнозирует потенциальные продажи с использованием данных за прошедшие периоды и предоставляет ясный обзор ожидаемых случаев исчерпания складских запасов. На основании прогноза расширение помогает создавать запросы на пополнение для ваших поставщиков и экономит ваше время.  
 
 ## <a name="setting-up-forecasting"></a>Настройка прогнозирования

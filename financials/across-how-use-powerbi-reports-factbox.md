@@ -1,5 +1,5 @@
 ---
-title: "Отображение пользовательских отчетов Power BI | Документы Майкрософт"
+title: "Отображение пользовательских отчетов Power BI | Microsoft Docs"
 description: "Можно использовать отчеты Power B для сбора дополнительных сведений о данных в списках в Financials."
 services: project-madeira
 documentationcenter: 
@@ -13,13 +13,13 @@ ms.search.keywords: business intelligence, KPI, Odata, Power App, SOAP, analysis
 ms.date: 06/02/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
-ms.openlocfilehash: 53c588f65232656d2362873347c6c7dc0d412449
+ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
+ms.openlocfilehash: 1c82ab613d8f1fc5e71a81e6eead60cf9c0bf196
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 11/10/2017
 
 ---
-# <a name="viewing-list-data-in-power-bi-reports-in-dynamics-365-for-financials"></a>Просмотр данных в списках в отчетах Power BI в Dynamics 365 for Financials
+# <a name="viewing-list-data-in-power-bi-reports-in-dynamics-365-business-edition"></a>Просмотр данных в списках в отчетах Power BI в Dynamics 365 Business edition 
 [!INCLUDE[d365fin](includes/d365fin_md.md)] включает элемент управления информационной панелью на нескольких ключевых страницах списков, который предоставляет дополнительные сведения о данных в списке. При перемещении между строками в списке отчет обновляется и фильтруется в соответствии с выбранной операцией. Можно создать пользовательские отчеты для отображения в этом элементе управления, но существует несколько правил, которые следует соблюдать при создании отчетов для обеспечения требуемого поведения.  
 
 > [!NOTE]  

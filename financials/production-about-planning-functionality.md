@@ -1,5 +1,5 @@
 ---
-title: "О функции планирования | Документы Майкрософт"
+title: "О функции планирования | Microsoft Docs"
 description: "Система планирования учитывает все данные спроса и предложения, сравнивает результаты и генерирует предложения для соответствия между предложением и спросом."
 services: project-madeira
 documentationcenter: 
@@ -13,10 +13,10 @@ ms.search.keywords:
 ms.date: 09/06/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
-ms.openlocfilehash: 0910760881decc98ba1bfa6e8753566316386b2c
+ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
+ms.openlocfilehash: a00f88aaf70464c8911d59b829b08dda900dc474
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 11/10/2017
 
 ---
 # <a name="about-planning-functionality"></a>О функциональности планирования
@@ -75,7 +75,7 @@ ms.lasthandoff: 09/22/2017
 
 Поля настройки глобального планирования в окне **Производство - настройка** включают:  
 
--   Динамич. код нижнего уровня]  
+-   Динамический код нижнего уровня  
 -   Текущий прогноз производства  
 -   Исп. прогноз по складам  
 -   Страховой запас времени подготовки по умолчанию  

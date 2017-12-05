@@ -1,6 +1,6 @@
 ---
-title: "Dynamics 365 for Financials и пакеты содержимого Power BI | Документы Майкрософт"
-description: "Анализ данных, бизнес-аналитика и КПЭ на основе данных Financials становятся проще благодаря пакетам содержимого Power BI и Financials."
+title: "Dynamics 365 Business edition и пакеты содержимого Power BI | Microsoft Docs"
+description: "Анализ данных, бизнес-аналитика и КПЭ на основе данных Dynamics 365 становятся проще благодаря Power BI и пакетам содержимого для Dynamics 365."
 author: edupont04
 ms.service: dynamics365-financials
 ms.topic: get-started-article
@@ -11,10 +11,10 @@ ms.search.keywords: account schedule, analysis, reporting, financial report, bus
 ms.date: 09/05/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
-ms.openlocfilehash: d165efbb6a157c6f95f8f59e6aa0d9b7100daa91
+ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
+ms.openlocfilehash: f9a85074f2bc3ed2bff6022b9c248d3568a04e93
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 11/10/2017
 
 ---
 # <a name="enabling-your-business-data-for-power-bi"></a>Включение бизнес-данных для Power BI
@@ -44,7 +44,7 @@ ms.lasthandoff: 09/22/2017
 ## <a name="accessing-included365finincludesd365finmdmd-in-power-bi"></a>Доступ к [!INCLUDE[d365fin](includes/d365fin_md.md)] в Power BI
 Чтобы увидеть данные [!INCLUDE[d365fin](includes/d365fin_md.md)] в Power BI, необходимо выполнить следующее:  
 
-* Получите доступ к [!INCLUDE[d365fin](includes/d365fin_md.md)]. Дополнительные сведения см. в разделе [Financials](http://go.microsoft.com/fwlink/?LinkID=759714).  
+* Получите доступ к [!INCLUDE[d365fin](includes/d365fin_md.md)]. Дополнительные сведения см. на странице [Dynamics 365 Business edition](http://go.microsoft.com/fwlink/?LinkID=759714).  
 * Откройте Power BI. Дополнительные сведения см. в разделе [Power BI](https://powerbi.microsoft.com).
 
 На сайте Power BI также можно просмотреть дополнительные сведения о [подключении к службам с помощью пакетов содержимого для Power BI](http://go.microsoft.com/fwlink/?LinkID=760850).  

@@ -1,6 +1,6 @@
 ---
-title: "Настройка Dynamics 365 for Financials | Документы Майкрософт"
-description: "Создание, демонстрация и продвижение приложений и расширений Dynamics 365 for Financials."
+title: "Настройка Dynamics 365 Business edition | Microsoft Docs"
+description: "Создание, демонстрация и продвижение приложений и расширений для Dynamics 365 Business edition."
 services: project-madeira
 documentationcenter: 
 author: edupont04
@@ -13,10 +13,10 @@ ms.search.keywords: app, add-in, manifest, customize
 ms.date: 06/02/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: c50aeb38a13569316f3208c27e5e8dc3d7b6d771
-ms.openlocfilehash: fdb60d82c7e8d2215c59d2c087105f42fe37eb84
+ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
+ms.openlocfilehash: b0034f678b59f988ed23257f9aa579cc3a8a7628
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 11/10/2017
 
 ---
 # <a name="extending-included365finlongincludesd365finlongmdmd"></a>Расширение [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]
@@ -49,7 +49,7 @@ ms.lasthandoff: 09/22/2017
 Дополнительные сведения о процессе проверки и о том, как опубликовать приложение, см. в документе [Опубликуйте приложение.pdf](https://go.microsoft.com/fwlink/?linkid=841517) в центре загрузки.
 
 ## <a name="learn-more-about-extensions-v20"></a>Подробнее о расширениях v2.0
-Новые инструменты разработки, которые позволяют создавать расширения v2.0, в настоящее время находятся на этапе предварительного ознакомления и скоро будут включены для службы Dynamics 365 for Financials. Если вы хотите прямо сейчас познакомиться с новыми инструментами или подробнее узнать о расширениях версии 2.0, перейдите по адресу [aka.ms/GetStartedWithApps](http://aka.ms/GetStartedWithApps).  
+Новые инструменты разработки, которые позволяют создавать расширения v2.0, в настоящее время находятся на этапе предварительного ознакомления и вскоре будут доступны в службе Dynamics 365 Business edition. Если вы хотите прямо сейчас познакомиться с новыми инструментами или подробнее узнать о расширениях версии 2.0, перейдите по адресу [aka.ms/GetStartedWithApps](http://aka.ms/GetStartedWithApps).  
 
 ## <a name="need-help"></a>Нужна помощь?
 Если вам необходимо обучение, вы можете связаться со специалистом в области приложения из следующего списка:
@@ -70,7 +70,7 @@ ms.lasthandoff: 09/22/2017
 
 ## <a name="further-resources"></a>Дополнительные ресурсы
 Дополнительные ресурсы по разработке приложений см. на тематической странице DLP [Тематическая страница DLP](https://mbspartner.microsoft.com/BFI/Topic/76). Вот некоторые из них:
--   [Регистрация пользователей и последующее выставление счетов ](http://download.microsoft.com/download/3/2/0/320D0286-8810-4A8F-B7DD-523ED87D441B/FAQ on apps for Dynamics 365 for Financials.pdf)
+-   [Регистрация пользователей и последующее выставление счетов ](http://download.microsoft.com/download/3/2/0/320D0286-8810-4A8F-B7DD-523ED87D441B/FAQ on apps for Dynamics 365 Business edition .pdf)
 
 
 

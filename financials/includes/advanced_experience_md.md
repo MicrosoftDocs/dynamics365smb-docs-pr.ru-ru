@@ -1,1 +1,1 @@
-<blockquote STYLE="background: #81BEF7;border-left:None"><b>ДОПОЛНИТЕЛЬНО</b><br />Эта функция доступна только с расширенными возможностями. Дополнительные сведения см. в разделе [Настройка взаимодействия Dynamics 365 for Financials](../ui-experiences.md) </blockquote>
+<blockquote STYLE="background: #81BEF7;border-left:None"><b>ДОПОЛНИТЕЛЬНО</b><br />Эта функция доступна только с расширенными возможностями. Дополнительные сведения см. в разделе [Настройка интерфейса Dynamics 365 Business edition](../ui-experiences.md) </blockquote>

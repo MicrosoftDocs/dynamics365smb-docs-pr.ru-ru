@@ -1,6 +1,6 @@
 ---
-title: "Поиск документов без вложений| Документы Майкрософт"
-Description: "Вы можете осуществлять поиск операций главной книги для учтенных документов покупок и продаж, у которых нет входящих электронных документов, например для импортированных счетов."
+title: "Поиск документов без вложений| Microsoft Docs"
+Description: You can search for general ledger entries for posted purchase and sales documents that do not have incoming electronic documents, such as imported invoices.
 services: project-madeira
 documentationcenter: 
 author: SorenGP
@@ -13,10 +13,10 @@ ms.search.keywords: electronic document, e-invoice, incoming document, OCR, ecom
 ms.date: 06/02/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
-ms.openlocfilehash: 263146eca72e4c83b4ad6887a84844e7aa15dd87
+ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
+ms.openlocfilehash: 8219b8a054901f81785ef1376c6f86763560cc31
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 11/10/2017
 
 ---
 # <a name="how-to-find-posted-documents-without-incoming-document-records"></a>Поиск учтенных документов без записей входящих документов
@@ -41,5 +41,5 @@ ms.lasthandoff: 09/22/2017
 [Обработка входящих документов](across-process-income-documents.md)  
 [Входящие документы](across-income-documents.md)  
 [Покупки](purchasing-manage-purchasing.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](ui-work-product.md)
 

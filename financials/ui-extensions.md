@@ -1,6 +1,6 @@
 ---
-title: "Установка расширений для настройки Dynamics 365 for Financials | Документы Майкрософт"
-description: "Узнайте о добавлении функций и настройке Dynamics 365 for Financials путем установки расширений."
+title: "Установка расширений для настройки Dynamics 365 Business edition | Microsoft Docs"
+description: "Узнайте об увеличении функциональности и настройке Dynamics 365 Business edition путем установки расширений."
 documentationcenter: 
 author: edupont04
 ms.service: dynamics365-financials
@@ -12,13 +12,13 @@ ms.search.keywords: app, add-in, manifest, customize
 ms.date: 07/07/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
-ms.openlocfilehash: 2aefbfade71ed78c89c59597f76c6e6707110d16
+ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
+ms.openlocfilehash: 2f6bbbc213bce74b31bb4e8c64198559db2d105d
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 11/10/2017
 
 ---
-# <a name="customizing-dynamics-365-for-financials-using-extensions"></a>Настройка Dynamics 365 for Financials с помощью расширений
+# <a name="customizing-dynamics-365-business-edition-using-extensions"></a>Настройка Dynamics 365, Business edition с помощью расширений
 Вы можете изменить [!INCLUDE[d365fin](includes/d365fin_md.md)] за счет установки расширений, которые добавляют функциональность, изменяют поведение или, например, предоставляют доступ к новым интернет-службам.
 При первом запуске [!INCLUDE[d365fin](includes/d365fin_md.md)] некоторые расширения уже установлены. Со временем вам станут доступны дополнительные расширения, и вы сможете выбрать, хотите ли вы использовать эти расширения.
 
@@ -61,9 +61,11 @@ ms.lasthandoff: 09/22/2017
 * [Миграция данных QuickBooks Online](ui-extensions-quickbooks-online-data-migration.md)
 * [Портал бухгалтера](ui-extensions-accountant-portal.md)  
 * [Анализатор изображений](ui-extensions-image-analyzer.md)
+* [Платежи и выверки (DK)](ui-extensions-payments-reconciliation-formats-dk.md)
+* [Миграция данных C5](ui-extensions-c5-data-migration.md)
 
 > [!NOTE]  
->  Новые расширения не становятся доступными в AppSource сразу после объявления об обновлении. Вы можете следить за расширениями на сайте [AppSource.microsoft.com](https://appsource.microsoft.com/en-us/marketplace/apps?product=dynamics-365%3Bdynamics-365-for-financials&page=1).
+>  Новые расширения не становятся доступными в AppSource сразу после объявления об обновлении. Следить за выходом новых расширений можно на сайте [AppSource.microsoft.com](https://appsource.microsoft.com/en-us/marketplace/apps?product=dynamics-365%3Bdynamics-365-for-financials&page=1).
 
 ## <a name="see-also"></a>См. также
 [Практическое руководство. Настройка службы банковских выписок Envestnet Yodlee](bank-how-setup-bank-statement-service.md)  

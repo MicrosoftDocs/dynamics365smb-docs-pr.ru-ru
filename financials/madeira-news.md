@@ -1,6 +1,6 @@
 ---
-title: "Новые возможности Dynamics 365 for Financials | Документы Майкрософт"
-description: "Описание последних новостей и обновлений Dynamics 365 for Financials."
+title: "Новые возможности Dynamics 365 Business edition | Microsoft Docs"
+description: "Последние новости и описание обновлений Dynamics 365 Business edition."
 services: project-madeira
 documentationcenter: 
 author: SorenGP
@@ -13,18 +13,18 @@ ms.search.keywords: news
 ms.date: 06/02/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
-ms.openlocfilehash: 00fd623b6323b10a811d64c47b4a24d9a47b9f88
+ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
+ms.openlocfilehash: 83637fe211ce764b4b18429ab4c2c79cc06f3d20
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 11/10/2017
 
 ---
-# <a name="whats-new-in-dynamics-365-for-financials"></a>Новые возможности Dynamics 365 for Financials
-Добро пожаловать в [!INCLUDE[d365fin](includes/d365fin_md.md)]! Если вы еще этого не сделали, зарегистрируйтесь в пробной версии, позвольте нам показать вам основные возможности [!INCLUDE[d365fin](includes/d365fin_md.md)], а затем попробуйте сами поработать с программой. Когда вы будете готовы, вы сможете открыть пустую организацию и настроить все самостоятельно.  
+# <a name="whats-new-in-dynamics-365-for-finance-and-operations-business-edition"></a>Новые возможности Dynamics 365 for Finance and Operations, Business edition
+Добро пожаловать в [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]! Если вы еще этого не сделали, зарегистрируйтесь в пробной версии, позвольте нам показать вам основные возможности [!INCLUDE[d365fin](includes/d365fin_md.md)], а затем попробуйте сами поработать с программой. Когда вы будете готовы, вы сможете открыть пустую организацию и настроить все самостоятельно.  
 
-Регулярно мы будем обновлять [!INCLUDE[d365fin](includes/d365fin_md.md)], включая дополнительные возможности в основное приложение и добавляя новые [расширения](ui-extensions.md). Обзор предстоящих обновлений и доступных в настоящее время возможностей см. в разделе [Дорожная карта Dynamics 365](https://roadmap.dynamics.com/), и не забудьте отфильтровать по [!INCLUDE[d365fin](includes/d365fin_md.md)].  
+Регулярно мы будем обновлять [!INCLUDE[d365fin](includes/d365fin_md.md)], включая дополнительные возможности в основное приложение и добавляя новые [расширения](ui-extensions.md). Обзор предстоящих обновлений и доступных в настоящее время возможностей см. в разделе [Dynamics 365 Roadmap](https://roadmap.dynamics.com/), и не забудьте отфильтровать по [!INCLUDE[d365fin](includes/d365fin_md.md)].  
 
-На этой странице отображаются области, которые стали доступны в предварительной версии. После этого найдите обновления в [Дорожной карте Dynamics 365](https://roadmap.dynamics.com/).
+На этой странице отображаются области, которые стали доступны в предварительной версии. После этого найдите обновления в [Dynamics 365 Roadmap](https://roadmap.dynamics.com/).
 
 ## <a name="november-2016-launch-of-included365finlongincludesd365finlongmdmd"></a>Запуск [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)] в ноябре 2016 г.
 Как объявлено в блоге, мы предоставляем службу, которую вы можете использовать в своем бизнесе. Но это обновление также добавляет новые возможности и новое расширение.
@@ -129,5 +129,5 @@ ms.lasthandoff: 09/22/2017
 ## <a name="see-also"></a>См. также
 [Добро пожаловать в [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
-[Дорожная карта Dynamics 365](https://roadmap.dynamics.com/)  
+[Dynamics 365 Roadmap](https://roadmap.dynamics.com/)  
 

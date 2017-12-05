@@ -1,5 +1,5 @@
 ---
-title: "Создание клиента или поставщика из контакта | Документы Майкрософт"
+title: "Создание клиента или поставщика из контакта | Microsoft Docs"
 description: "Вы можете сохранить существующий контакт как клиента, поставщика или банковский счет с помощью имеющихся данных и указав деловое отношение."
 services: project-madeira
 documentationcenter: 
@@ -13,10 +13,10 @@ ms.search.keywords: relationship, client, prospect
 ms.date: 06/06/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
-ms.openlocfilehash: 142c1649438ad31b604767d6b6f35a1caeb3f9e4
+ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
+ms.openlocfilehash: 289213b9c44b07387fd0dcf315b9d08750bdd9f7
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 11/10/2017
 
 ---
 # <a name="how-to-create-a-customer-vendor-or-bank-account-from-a-contact"></a>Практическое руководство. Создание клиента, поставщика или банковского счета из контакта
@@ -39,5 +39,5 @@ ms.lasthandoff: 09/22/2017
 [Синхронизация контактов с клиентами, поставщиками и банковскими счетами](marketing-synchronize-contacts-customers-vendors-bank-accounts.md)  
 [Практическое руководство. Связывание контактов с существующими клиентами, поставщиками или банковскими счетами](marketing-how-link-contact.md)  
 [Назначение деловых отношений контакту](marketing-business-relations.md#AssignBusRelContact)  
-[Работа с Financials](ui-work-product.md)
+[Работа с Dynamics 365](ui-work-product.md)
 

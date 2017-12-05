@@ -1,6 +1,6 @@
 ---
-title: "Персонализация отображения информации для учетной записи пользователя | Документы Майкрософт"
-description: "Описывается процедура настройки внешнего вида Financials для учетной записи пользователя."
+title: "Персонализация отображения информации для учетной записи пользователя | Microsoft Docs"
+description: "Описывается процедура настройки внешнего вида Dynamics 365 для учетной записи пользователя."
 services: project-madeira
 documentationcenter: 
 author: SorenGP
@@ -13,10 +13,10 @@ ms.search.keywords: customize, personalize
 ms.date: 03/29/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
-ms.openlocfilehash: 754ce16624db4d939da98baf2da74f14bd383920
+ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
+ms.openlocfilehash: e986d20ff368c07f3b1fd02223f3485b090673e1
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 11/10/2017
 
 ---
 # <a name="user-personalization"></a>Персонализация пользователя

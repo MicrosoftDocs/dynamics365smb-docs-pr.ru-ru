@@ -1,5 +1,5 @@
 ---
-title: "Сведения о проектировании — Codeunit 408 Dimension Management | Документы Майкрософт"
+title: "Сведения о проектировании — Codeunit 408 Dimension Management | Microsoft Docs"
 description: "Codeunit 408 Dimension Management — это библиотека функций, обрабатывающих общие задачи, связанные с измерениями, такие как копирование из одной таблицы в другую или из одного документа в другой."
 services: project-madeira
 documentationcenter: 
@@ -13,10 +13,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
-ms.openlocfilehash: a811c565a8eb0ce774d35d15776e65b6dce6a31a
+ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
+ms.openlocfilehash: 32f67c058570f03d4aa1c84d9bb32289b1f07bec
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 11/10/2017
 
 ---
 # <a name="design-details-codeunit-408-dimension-management"></a>Сведения о проектировании: Codeunit 408 Dimension Management
@@ -175,7 +175,7 @@ Codeunit 408 Dimension Management — это библиотека функций
 
  TestNewDimValue  
 
- MoveDimBufToItemBudgetDim. (Удалено, поскольку удалена таблица ItemBudgetDim.)  
+ MoveDimBufToItemBudgetDim. (Удалить, поскольку удалена таблица ItemBudgetDim.)  
 
  GetServContractDim  
 

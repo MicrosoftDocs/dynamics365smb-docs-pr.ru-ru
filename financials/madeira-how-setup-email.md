@@ -1,6 +1,6 @@
 ---
-title: "Настройка электронной почты | Документы Майкрософт"
-description: "Описывается, как использовать сервер SMTP организации для отправки и получения сообщений электронной почты в Financials либо как использовать настройки сервера электронной почты, созданные в подписке Office 365."
+title: "Настройка электронной почты в Dynamics 365 Business edition | Microsoft Docs"
+description: "Описывается, как использовать сервер SMTP организации для отправки и получения сообщений электронной почты в Dynamics 365 либо как использовать настройки сервера электронной почты, созданные в подписке Office 365."
 documentationcenter: 
 author: edupont04
 ms.service: dynamics365-financials
@@ -12,10 +12,10 @@ ms.search.keywords: SMTP, mail, Office 365
 ms.date: 06/02/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
-ms.openlocfilehash: aedd27545da932155d453bf6aa476a4e9f898fc6
+ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
+ms.openlocfilehash: 59d97a3bd838c80e66d62ed16c2bcb1c525938c4
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 11/10/2017
 
 ---
 # <a name="how-to-set-up-email-manually-or-using-the-assisted-setup"></a>Практическое руководство. Настройка электронной почты вручную или с помощью сопровождаемой настройки

@@ -1,6 +1,6 @@
 ---
-title: "Обзор задач для настройки Dynamics 365 for Financials | Документы Майкрософт"
-description: "Описываются задачи по настройке, инициализации и конфигурированию Dynamics 365 for Financials в соответствии с вашими потребностями."
+title: "Обзор задач для настройки Dynamics 365 Business edition | Microsoft Docs"
+description: "Описываются задачи по настройке, инициализации и конфигурированию Dynamics 365 Business edition в соответствии с вашими потребностями."
 author: edupont04
 ms.service: dynamics365-financials
 ms.topic: article
@@ -11,13 +11,13 @@ ms.search.keywords: configure, initialize
 ms.date: 09/01/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
-ms.openlocfilehash: cbf0f6521db686f4e1a820070969bd0193227015
+ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
+ms.openlocfilehash: 68a4563aab0edc6a0ac5b8cbcc5e053c449f20f8
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 11/10/2017
 
 ---
-# <a name="setting-up-dynamics-365-for-financials"></a>Настройка Dynamics 365 for Financials
+# <a name="setting-up-included365finlongincludesd365finlongmdmd"></a>Настройка [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]
 [!INCLUDE[d365fin](includes/d365fin_md.md)] содержит стандартные конфигурации для большинства бизнес-процессов, но вы можете изменить их в соответствии с потребностями организации.
 
 Например, в план счетов подставлены готовые к использованию номера счетов учета. Конечно, вы можете изменить план счетов в соответствии со своими потребностями. Дополнительные сведения см. в разделе [Финансы](finance.md).
@@ -41,7 +41,7 @@ ms.lasthandoff: 09/22/2017
 | Настройка окна **Настройка эл. почты (SMTP)** для отправки и получения сообщений электронной почты из документов в [!INCLUDE[d365fin](includes/d365fin_md.md)]. |[Практическое руководство. Настройка электронной почты](madeira-how-setup-email.md) |
 | Настройка уникальных идентификационных кодов. |[Практическое руководство. Создание серий номеров](ui-create-number-series.md) |
 
-Для некоторых областей требуется, чтобы вы были администратором в вашей подписке [!INCLUDE[d365fin](includes/d365fin_md.md)]. Дополнительные сведения см. в разделе [Настройка и администрирование в Dynamics 365 for Financials](admin-setup-and-administration.md).  
+Для некоторых областей требуется, чтобы вы были администратором в вашей подписке [!INCLUDE[d365fin](includes/d365fin_md.md)]. Дополнительные сведения см. в разделе [Настройка и администрирование в [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](admin-setup-and-administration.md).  
 
 ## <a name="see-also"></a>См. также
 [Финансы](finance.md)  
@@ -54,7 +54,7 @@ ms.lasthandoff: 09/22/2017
 [Производство](production-manage-manufacturing.md)  
 [Управление складом](warehouse-manage-warehouse.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
-[Настройка и администрирование в Dynamics 365 for Financials](admin-setup-and-administration.md)  
+[Настройка и администрирование в [!INCLUDE[d365fin](includes/d365fin_md.md)]](admin-setup-and-administration.md)  
 [Создание новых организаций в [!INCLUDE[d365fin](includes/d365fin_md.md)]](about-new-company.md)  
 [Добро пожаловать в [!INCLUDE[d365fin](includes/d365fin_md.md)]](index.md)  
 
