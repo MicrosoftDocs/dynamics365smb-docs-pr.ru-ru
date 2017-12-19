@@ -11,10 +11,10 @@ ms.search.keywords: setup wizard
 ms.date: 09/14/2017
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
-ms.openlocfilehash: 0bd6edbefbfa46ec7214f806bf28e7a523930740
+ms.sourcegitcommit: a49e50213f808fb72b43dfa22a34833b306ef12d
+ms.openlocfilehash: 0173f682ccb09b2b4c02b9d7d74638f6b08e9a93
 ms.contentlocale: ru-ru
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 12/14/2017
 
 ---
 # <a name="welcome-to-included365finlongincludesd365finlongmdmd"></a>Добро пожаловать в [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]
@@ -32,7 +32,7 @@ ms.lasthandoff: 11/10/2017
 
 Дополнительные сведения см. в разделе [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md).  
 
-Когда вы будете готовы приступить к более сложным задачам и захотите просмотреть некоторые бизнес-процессы, поддерживаемые в [!INCLUDE[d365fin](includes/d365fin_md.md)], см. раздел [Функциональные бизнес-возможности](madeira-business-functionality.md). Обзор текущих возможностей и предстоящих обновлений см. на дорожной контакте по адресу [roadmap.dynamics.com](https://roadmap.dynamics.com/#edition=1#application=a56e2c12-2a92-e611-80dc-c4346bac0910#status=3a708a86-ae97-e611-80df-c4346baceb68).  
+Когда вы будете готовы приступить к работе и захотите просмотреть некоторые бизнес-процессы, поддерживаемые в [!INCLUDE[d365fin](includes/d365fin_md.md)], см. раздел [Функциональные бизнес-возможности](madeira-business-functionality.md). Обзор текущих возможностей и предстоящих обновлений см. на дорожной контакте по адресу [roadmap.dynamics.com](https://roadmap.dynamics.com/#edition=1#application=a56e2c12-2a92-e611-80dc-c4346bac0910#status=3a708a86-ae97-e611-80df-c4346baceb68).  
 
 ## <a name="the-home-pages"></a>Домашние страницы
 Домашние страницы имеют ориентированный на роль дизайн для предоставления быстрого доступа к бизнес-процессам и интеллектуальным инструментам, необходимым для выполнения работы. Например, бухгалтер может отслеживать платежи и утверждения, а также просматривать диаграммы финансового исполнения. Чтобы просмотреть различные домашние страницы, щелкните значок **Параметры** ![Параметры](media/ui-experience/settings_icon_small.png "Значок "Параметры" для ролевого центра") в правом верхнем углу, щелкните **Мои настройки** и выберите ролевой центр для изучения. Выполните вход еще раз, чтобы применить изменение. Дополнительные сведения см. в разделе [Изменение ролевого центра](change-role.md).  

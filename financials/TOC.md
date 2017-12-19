@@ -24,6 +24,7 @@
 ## [Предложение значений в Dynamics 365](ui-let-system-suggest-values.md)
 ## [Печать отчета](ui-work-report.md#PrintReport)
 ## [Видео о распространенных задачах](across-videos.md)
+## [Специальные возможности и сочетания клавиш](ui-accessibility.md)
 ## [Язык и языковой стандарт](about-locale-language.md)  
 ## [Языки на сайте Docs](about-languages.md)
 
@@ -173,7 +174,7 @@
 ### [Приглашение внешнего бухгалтера в Dynamics 365](finance-invite-external-accountant.md)  
 ## [Сведения о главной книге и плане счетов](finance-general-ledger.md)
 ## [Работа с измерениями](finance-dimensions.md)
-## [Практическое руководство. Создание бюджетов](finance-how-create-budgets.md)
+## [Практическое руководство. Создание бюджетов ГК](finance-how-create-budgets.md)
 ## [Практическое руководство. Учет транзакций непосредственно в главной книге](finance-how-post-transactions-directly.md).
 ## [Практическое руководство. Сторнирование учета](finance-how-reverse-journal-posting.md)
 ## [Практическое руководство. Распределение затрат и дохода](year-allocate-costs-income.md)

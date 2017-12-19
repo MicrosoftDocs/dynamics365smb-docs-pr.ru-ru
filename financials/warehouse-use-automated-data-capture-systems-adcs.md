@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 09/18/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
-ms.openlocfilehash: 56d191c465b611c1764cf3c97e507c4952fe6287
+ms.sourcegitcommit: a49e50213f808fb72b43dfa22a34833b306ef12d
+ms.openlocfilehash: ab97e9beb67ac5c8e827f44c2976b51af2696109
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 12/14/2017
 
 ---
 # <a name="how-to-enable-automated-data-capture-systems-adcs"></a>Практическое руководство. Включение автоматизированных систем сбора данных (ADCS)
@@ -28,7 +28,7 @@ ms.lasthandoff: 09/22/2017
 - Текстовая информация.  
 - Сообщения для отображения подтверждений или ошибок, связанных с действиями, выполненными и зарегистрированными пользователем ручного терминала.
 
-Дополнительные сведения, см. в разделе [Настройка автоматизированной системы сбора данных](https://msdn.microsoft.com/en-us/library/dd338742.aspx) на веб-сайте MSDN.
+Дополнительные сведения см. в разделе [Настройка автоматизированной системы сбора данных](/dynamics-nav/Configuring-Automated-Data-Capture-System) для ИТ-специалистов и разработчиков.
 
 ## <a name="to-set-up-a-warehouse-to-use-adcs"></a>Настройка склада на использование ADCS  
 Чтобы использовать ADCS, необходимо определить, на каких складах используется технология.  
@@ -107,7 +107,7 @@ ms.lasthandoff: 09/22/2017
 
 В среде разработки [!INCLUDE[d365fin](includes/d365fin_md.md)] введите код в поле **Модуль обработки Codeunit** для создания или измените код, чтобы выполнить необходимое действие или ответ.
 
-Дополнительные сведения, см. в разделе [Настройка автоматизированной системы сбора данных](https://msdn.microsoft.com/en-us/library/dd338742.aspx) на веб-сайте MSDN.
+Дополнительные сведения см. в разделе [Настройка автоматизированной системы сбора данных](/dynamics-nav/Configuring-Automated-Data-Capture-System) для ИТ-специалистов и разработчиков.
 
 ## <a name="see-also"></a>См. также  
 [Управление складом](warehouse-manage-warehouse.md)  

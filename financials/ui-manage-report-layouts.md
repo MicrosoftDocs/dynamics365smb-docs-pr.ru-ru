@@ -13,10 +13,10 @@ ms.search.keywords: customized report, document layout, logo, personalize
 ms.date: 03/29/2017
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
-ms.openlocfilehash: 445172287ae09032ff53e02d0e64dc967456a7bb
+ms.sourcegitcommit: a49e50213f808fb72b43dfa22a34833b306ef12d
+ms.openlocfilehash: 34a25ed48ff16971120b272421560bf1416af60f
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 12/14/2017
 
 ---
 # <a name="managing-report-and-document-layouts"></a>Управление макетами отчетов и документов
@@ -42,7 +42,7 @@ ms.lasthandoff: 09/22/2017
  ![Пример документа макета отчета Word для NAV](media/nav_wordreportlayout_edit_in_word_example.png "NAV_WordReportLayout_Edit_In_Word_Example")  
 
 ## <a name="rdlc-layout-overview"></a>Обзор макета RDLC
-Макеты RDLC основаны на клиентских макетах определения отчета (типы файла RDLC или RDL). Эти макеты создаются и изменяются с использованием конструктора отчетов SQL Server Report Builder. Дизайнерская концепция макетов RDLC схожа с макетами Word, где макет определяет общий формат отчета и включаемые в него поля из набора данных. Разработка макетов RDLC более сложная, чем макетов Word. Дополнительные сведения см. в разделе [Разработка макетов отчетов RDLC](https://msdn.microsoft.com/en-us/dynamics-nav/designing-rdlc-report-layouts).
+Макеты RDLC основаны на клиентских макетах определения отчета (типы файла RDLC или RDL). Эти макеты создаются и изменяются с использованием конструктора отчетов SQL Server Report Builder. Дизайнерская концепция макетов RDLC схожа с макетами Word, где макет определяет общий формат отчета и включаемые в него поля из набора данных. Разработка макетов RDLC более сложная, чем макетов Word. Дополнительные сведения см. в разделе [Разработка макетов отчетов RDLC](/dynamics-nav/Designing-RDLC-Report-Layouts).
 
 ## <a name="built-in-and-custom-report-layouts"></a>Встроенные и пользовательские макеты отчетов
 [!INCLUDE[d365fin](includes/d365fin_md.md)] включает несколько встроенных макетов. Встроенные макеты — это предопределенные макеты, предназначенные для определенных отчетов. Отчеты [!INCLUDE[d365fin](includes/d365fin_md.md)] будут иметь встроенный макет RDLC, макет отчета Word, а в некоторых случаях оба макета. Невозможно изменить встроенные макеты отчетов в [!INCLUDE[d365fin](includes/d365fin_md.md)], но можно использовать их в качестве начальной точки для создания собственных пользовательских макетов отчетов.

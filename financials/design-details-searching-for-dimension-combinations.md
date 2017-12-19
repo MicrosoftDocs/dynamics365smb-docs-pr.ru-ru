@@ -1,8 +1,6 @@
 ---
 title: "Сведения о проектировании — поиск комбинаций измерений | Документы Майкрософт"
-description: "Если окно закрывается после редактирования набора измерений [!INCLUDE[d365fin](includes/d365fin_md.md)] определяет, существует ли отредактированный набор измерений. Если набор не существует, создается новый набор и возвращается код комбинации измерений."
-services: project-madeira
-documentationcenter: 
+description: "Если окно закрывается после редактирования набора измерений Dynamics 365 определяет, существует ли отредактированный набор измерений. Если набор не существует, создается новый набор и возвращается код комбинации измерений."
 author: SorenGP
 ms.service: dynamics365-financials
 ms.topic: article
@@ -13,10 +11,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
-ms.openlocfilehash: 9e36a8a1a5eeede5023da32bcb40a06042173fb4
+ms.sourcegitcommit: a49e50213f808fb72b43dfa22a34833b306ef12d
+ms.openlocfilehash: 64e5191fd2947a8e19595d8c9f1ece4eeff77ec0
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 12/14/2017
 
 ---
 # <a name="design-details-searching-for-dimension-combinations"></a>Сведения о проектировании: поиск комбинаций измерений
@@ -75,7 +73,7 @@ EXIT(DimSet.ID);
 ```  
 
 ## <a name="see-also"></a>См. также  
- [Функция GET (запись)](https://msdn.microsoft.com/en-us/library/dd301056.aspx)    
+ [Функция GET (запись)](/dynamics-nav/GET-Function--Record-)    
  [Сведения о проектировании: операции набора измерений](design-details-dimension-set-entries.md)   
  [Обзор записей набора измерений](design-details-dimension-set-entries-overview.md)   
  [Сведения о проектировании: структура таблицы](design-details-table-structure.md)   

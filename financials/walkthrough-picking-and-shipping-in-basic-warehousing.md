@@ -1,8 +1,6 @@
 ---
 title: "Пошаговое руководство. Подбор и отгрузка в основных складских конфигурациях | Документы Майкрософт"
-description: "В [!INCLUDE[d365fin](includes/d365fin_md.md)] исходящие процессы по подбору и отгрузке могут быть выполнены четырьмя способами при помощи различных функций в зависимости от уровня сложности склада."
-services: project-madeira
-documentationcenter: 
+description: "В Dynamics 365 исходящие процессы по подбору и отгрузке могут быть выполнены четырьмя способами при помощи различных функций в зависимости от уровня сложности склада."
 author: SorenGP
 ms.service: dynamics365-financials
 ms.topic: article
@@ -13,10 +11,10 @@ ms.search.keywords:
 ms.date: 09/07/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
-ms.openlocfilehash: 993d3f092db9f423aba9a67d58f53895df0d5c2f
+ms.sourcegitcommit: aa56764b5f3210229ad21eae6891fb201462209c
+ms.openlocfilehash: 2ef41d6b1d224c016da4663d3059717c11611d92
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 12/14/2017
 
 ---
 # <a name="walkthrough-picking-and-shipping-in-basic-warehouse-configurations"></a>Пошаговое руководство. Подбор и отгрузка в основных складских конфигурациях
@@ -69,8 +67,8 @@ ms.lasthandoff: 09/22/2017
 
         |Тип операции|Код товара|Код склада|Код ячейки|Количество|  
         |----------------|-----------------|-------------------|--------------|--------------|  
-        |Приход|LS-81|СЕРЕБР.|S-01-0001 **Примечание.** Ячейка товара по умолчанию в CRONUS|2.0|  
-        |Приход|LS-81|СЕРЕБР.|С-01-0002|2.0|  
+        |Приход|LS-81|СЕРЕБР.|S-01-0001 **Примечание.** Ячейка товара по умолчанию в CRONUS|20|  
+        |Приход|LS-81|СЕРЕБР.|С-01-0002|20|  
 
     3.  Выберите действие **Учет**, затем выберите кнопку **Да**.  
 

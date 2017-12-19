@@ -1,5 +1,5 @@
 ---
-title: "Бизнес-функциональность, поддерживаемая Dynamics 365 Business edition | Microsoft Docs"
+title: "Бизнес-функциональность, поддерживаемая Dynamics 365, Business edition | Microsoft Docs"
 Description: Provides a feature overview of all the business functions and departments that are supported by application areas, such as Finance, Inventory, and Project Management.
 services: project-madeira
 documentationcenter: 
@@ -13,14 +13,14 @@ ms.search.keywords: feature overview
 ms.date: 09/08/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
-ms.openlocfilehash: f71c19abdc225b92a76a98992a2e3d78769b6dc5
+ms.sourcegitcommit: a49e50213f808fb72b43dfa22a34833b306ef12d
+ms.openlocfilehash: 3b68f53f2ca2f1553b0d19a617ae58b25f29acdb
 ms.contentlocale: ru-ru
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 12/14/2017
 
 ---
-# <a name="overview-of-business-functionality-in-dynamics-365-for-finance-and-operations-business-edition"></a>Обзор функциональных возможностей для бизнеса в Dynamics 365 for Finance and Operations, Business edition
-[!INCLUDE[d365fin](includes/d365fin_md.md)] предоставляет функциональные возможности для распространенных бизнес-процессов в небольших и средних организациях, в основном занимающихся оптовыми продажами и профессиональными услугами.
+# <a name="business-functionality"></a>Функциональные бизнес-возможности
+[!INCLUDE[d365fin](includes/d365fin_md.md)] предоставляет функциональные возможности для распространенных бизнес-процессов в небольших и средних организациях, в основном занимающихся оптовыми продажами и профессиональными услугами. Однако также поддерживаются более сложные процессы, такие как сборка, производство, сервис и расширенное управление складом. 
 
 [!INCLUDE[d365fin](includes/d365fin_md.md)] содержит стандартные конфигурации для большинства бизнес-процессов, но вы можете изменить их в соответствии со своими бизнес-потребностями. На домашней странице вы можете получить доступ к руководствам по настройке, помогающим настроить определенные сценарии и добавить функции в [!INCLUDE[d365fin](includes/d365fin_md.md)]. Некоторые области бизнес-функций должны настраиваться вручную. Дополнительные сведения см. в разделе [Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md).
 

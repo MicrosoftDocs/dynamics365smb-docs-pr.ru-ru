@@ -10,13 +10,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: print check, vendor payment, creditor, debt, balance due, AP
-ms.date: 06/28/2017
+ms.date: 11/17/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: daa014eaa78caa7a317b05ca92ff27c1d1530c06
-ms.openlocfilehash: c8766d42b579397e63676c1d46fb8a03cbe24aae
+ms.sourcegitcommit: aa56764b5f3210229ad21eae6891fb201462209c
+ms.openlocfilehash: 6cd7b9922f047d05a2cc37a9157de47221f67a7f
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/17/2017
+ms.lasthandoff: 12/14/2017
 
 ---
 # <a name="making-payments"></a>Осуществление платежей
@@ -38,7 +38,8 @@ ms.lasthandoff: 10/17/2017
 | Выписывайте чеки по платежам поставщикам, в печатном виде или в электронном виде. Аннулируйте чеки перед учетом или после него. |[Практическое руководство. Работа с платежными документами](payables-how-work-checks.md) |
 | Платите поставщику наличными или чеком, и учитывайте платеж при учете счета. |[Как немедленно создать документ "Счет покупки"](finance-how-to-settle-purchase-invoices-promptly.md) |
 | Убедитесь, что банк выполняет клиринг только проверенных платежных документов и сумм, отправив ему файл, содержащий сведения о поставщике, платежном документе и платеже. |[Практическое руководство. Экспорт файла Positive Pay](finance-how-positive-pay.md) |
-|Экспортируйте платежи из окна **Журнал платежей** в банковский файл, отправленный в банк для обработки, включая EFT (электронный платеж) в Северной Америке. |[Практическое руководство. Экспорт платежей в банковский файл](payables-how-export-payments-bank-file.md)|  
+|Экспортируйте платежи из окна **Журнал платежей** в банковский файл, отправленный в банк для обработки, включая EFT (электронный платеж) в Северной Америке. |[Практическое руководство. Экспорт платежей в банковский файл](payables-how-export-payments-bank-file.md)|
+|Выполнение электронных платежей согласно стандарту кредитового перевода SEPA в ЕС.|[Выполнение платежей с помощью службы конвертации банковских данных или кредитового перевода SEPA](finance-make-payments-with-bank-data-conversion-service-or-sepa-credit-transfer.md)|    
 
 ## <a name="see-also"></a>См. также
 [Управление кредиторской задолженностью](payables-manage-payables.md)  
