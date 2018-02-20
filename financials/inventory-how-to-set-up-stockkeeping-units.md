@@ -13,36 +13,36 @@ ms.search.keywords:
 ms.date: 08/23/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
-ms.openlocfilehash: e5ac1c791b10c26a3cecd20711e7899bb7eaee3c
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: bc323e4dac1b62802e999e2780352634e25e482d
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 01/30/2018
 
 ---
-# Как настроить единицы хранения
-Единицы хранения используются для записи информации о товарах для кода конкретного склада или кода конкретного варианта.  
+# <a name="set-up-stockkeeping-units"></a><span data-ttu-id="23ecc-103">Настройка единиц хранения</span><span class="sxs-lookup"><span data-stu-id="23ecc-103">Set Up Stockkeeping Units</span></span>
+<span data-ttu-id="23ecc-104">Единицы хранения используются для записи информации о товарах для кода конкретного склада или кода конкретного варианта.</span><span class="sxs-lookup"><span data-stu-id="23ecc-104">You can use stockkeeping units to record information about your items for a specific location or a specific variant code.</span></span>  
 
- Единицы хранения являются дополнением к карточкам товара. Они не заменяют их, хотя связаны с ними. Единицы хранения позволяют различать для одного и того же товара информацию о товаре, предназначенном для конкретной площадки хранения (как складской комплекс или центр дистрибуции) или для конкретного варианта хранения (таких как различные номера полок и различная информация о пополнении).  
+ <span data-ttu-id="23ecc-105">Единицы хранения являются дополнением к карточкам товара.</span><span class="sxs-lookup"><span data-stu-id="23ecc-105">Stockkeeping units are a supplement to item cards.</span></span> <span data-ttu-id="23ecc-106">Они не заменяют их, хотя связаны с ними.</span><span class="sxs-lookup"><span data-stu-id="23ecc-106">They do not replace them, although they are related to them.</span></span> <span data-ttu-id="23ecc-107">Единицы хранения позволяют различать для одного и того же товара информацию о товаре, предназначенном для конкретной площадки хранения (как складской комплекс или центр дистрибуции) или для конкретного варианта хранения (таких как различные номера полок и различная информация о пополнении).</span><span class="sxs-lookup"><span data-stu-id="23ecc-107">Stockkeeping units allow you to differentiate information about an item for a specific location, such as a warehouse or distribution center, or a specific variant, such as different shelf numbers and different replenishment information, for the same item.</span></span>  
 
-## Настройка единицы хранения  
+## <a name="to-set-up-a-stockkeeping-unit"></a><span data-ttu-id="23ecc-108">Настройка единицы хранения</span><span class="sxs-lookup"><span data-stu-id="23ecc-108">To set up a stockkeeping unit</span></span>  
 
-1.  Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), войдите в **Единицы хранения**, затем выберите связанную ссылку.  
-2.  Выберите действие **Создать**.  
-3.  Заполните поля в карточке. Следующие поля являются обязательными: **Код товара**, **Код склада** и/или **Код варианта**. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
+1.  <span data-ttu-id="23ecc-109">Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), войдите в **Единицы хранения**, затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="23ecc-109">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Stockkeeping Units**, and then choose the related link.</span></span>  
+2.  <span data-ttu-id="23ecc-110">Выберите действие **Создать**.</span><span class="sxs-lookup"><span data-stu-id="23ecc-110">Choose the **New** action.</span></span>  
+3.  <span data-ttu-id="23ecc-111">Заполните поля в карточке.</span><span class="sxs-lookup"><span data-stu-id="23ecc-111">Fill in the fields on the card.</span></span> <span data-ttu-id="23ecc-112">Следующие поля являются обязательными: **Код товара**, **Код склада** и/или **Код варианта**.</span><span class="sxs-lookup"><span data-stu-id="23ecc-112">The following fields are required: **Item No.**, **Location Code**, and/or **Variant Code**.</span></span> [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
 
-После настройки первой единицы хранения для товара устанавливается флажок **Есть единица хранения** в карточке **Товар**.  
+<span data-ttu-id="23ecc-113">После настройки первой единицы хранения для товара устанавливается флажок **Есть единица хранения** в карточке **Товар**.</span><span class="sxs-lookup"><span data-stu-id="23ecc-113">When you have set up the first stockkeeping unit for an item, the **Stockkeeping Unit Exists** check box on the **Item** card is selected.</span></span>  
 
-Для создания нескольких единиц хранения для одного товара используется пакетное задание **Создание единицы хранения**.  
+<span data-ttu-id="23ecc-114">Для создания нескольких единиц хранения для одного товара используется пакетное задание **Создание единицы хранения**.</span><span class="sxs-lookup"><span data-stu-id="23ecc-114">To create several stockkeeping units for an item, use the **Create Stockkeeping Unit** batch job.</span></span>  
 
 > [!NOTE]  
->  Информация в карточке **Единица хранения** обладает более высоким приоритетом по сравнению с информацией в карточке **Товар**.  
+>  <span data-ttu-id="23ecc-115">Информация в карточке **Единица хранения** обладает более высоким приоритетом по сравнению с информацией в карточке **Товар**.</span><span class="sxs-lookup"><span data-stu-id="23ecc-115">The information on the **Stockkeeping Unit** card has priority over the **Item** card.</span></span>  
 
-## См. также  
-[Практическое руководство. Регистрация новых товаров](inventory-how-register-new-items.md)  
-[Настройка управления складом](warehouse-setup-warehouse.md)  
-[Управление складом](warehouse-manage-warehouse.md)  
-[Наличие](inventory-manage-inventory.md)  
-[Управление сборкой](assembly-assemble-items.md)    
-[Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+## <a name="see-also"></a><span data-ttu-id="23ecc-116">См. также</span><span class="sxs-lookup"><span data-stu-id="23ecc-116">See Also</span></span>  
+[<span data-ttu-id="23ecc-117">Регистрация новых товаров</span><span class="sxs-lookup"><span data-stu-id="23ecc-117">Register New Items</span></span>](inventory-how-register-new-items.md)  
+[<span data-ttu-id="23ecc-118">Настройка управления складом</span><span class="sxs-lookup"><span data-stu-id="23ecc-118">Setting Up Warehouse Management</span></span>](warehouse-setup-warehouse.md)  
+[<span data-ttu-id="23ecc-119">Управление складом</span><span class="sxs-lookup"><span data-stu-id="23ecc-119">Warehouse Management</span></span>](warehouse-manage-warehouse.md)  
+[<span data-ttu-id="23ecc-120">Наличие</span><span class="sxs-lookup"><span data-stu-id="23ecc-120">Inventory</span></span>](inventory-manage-inventory.md)  
+<span data-ttu-id="23ecc-121">[Управление сборкой](assembly-assemble-items.md)  </span><span class="sxs-lookup"><span data-stu-id="23ecc-121">[Assembly Management](assembly-assemble-items.md)  </span></span>  
+[<span data-ttu-id="23ecc-122">Сведения о проектировании: управление складом</span><span class="sxs-lookup"><span data-stu-id="23ecc-122">Design Details: Warehouse Management</span></span>](design-details-warehouse-management.md)  
+<span data-ttu-id="23ecc-123">[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="23ecc-123">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>  
 
