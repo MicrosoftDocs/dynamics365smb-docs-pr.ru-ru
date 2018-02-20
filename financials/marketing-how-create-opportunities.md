@@ -1,6 +1,6 @@
 ---
 title: "Создание возможностей продаж | Microsoft Docs"
-description: "Здесь рассматривается создание возможностей из менеджеров по продажам или контактов в Dynamics 365 Business edition."
+description: "Здесь рассматривается создание возможностей из менеджеров по продажам или контактов в Finance and Operations, Business edition."
 services: project-madeira
 documentationcenter: 
 author: jswymer
@@ -13,18 +13,18 @@ ms.search.keywords: relationship, prospect
 ms.date: 06/06/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
-ms.openlocfilehash: 2d280e80be237abb5f2b16b2130f446894497171
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: ff4318d9da902847166ac5747adf469584a3d2a2
 ms.contentlocale: ru-ru
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 01/30/2018
 
 ---
-# <a name="how-to-create-sales-opportunities"></a>Практическое руководство. Создание возможностей продаж
+# <a name="create-sales-opportunities"></a>Создание возможностей продаж
 Можно создать возможности для возможностей торговли с имеющимися у вас контактами. Все возможности должны назначаться менеджеру или специалисту по закупкам, а также должны содержать контакт.
 
 Возможности продаж можно создавать в окне **Список возможностей**. Но обычно возможности создаются из конкретных контактов или менеджеров по продажам.
 
-Перед созданием возможностей необходимо настроить циклы продаж возможностей. Дополнительные сведения см. в разделе [Практическое руководство. Настройка циклов продаж и этапов для возможностей](marketing-how-setup-opportunity-sales-cycles-stages.md).
+Перед созданием возможностей необходимо настроить циклы продаж возможностей. Дополнительные сведения см. в разделе [Настройка циклов продаж и этапов](marketing-how-setup-opportunity-sales-cycles-stages.md).
 
 ## <a name="to-create-an-opportunity-from-a-salesperson"></a>Создание возможности для менеджера по продажам
 1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Менеджеры**, а затем выберите связанную ссылку.
@@ -45,5 +45,5 @@ ms.lasthandoff: 11/10/2017
 ## <a name="see-also"></a>См. также
 [Продажи](sales-manage-sales.md)  
 [Создание контактов и управление ими](marketing-contacts.md)  
-[Работа с Dynamics 365](ui-work-product.md)
+[Работа с Finance and Operations, Business edition](ui-work-product.md)
 

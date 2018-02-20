@@ -13,13 +13,13 @@ ms.search.keywords: relationship, prospect
 ms.date: 06/06/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
-ms.openlocfilehash: c0e678b07c1d5ca73808a2abb5631771dce76fd0
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: ed0f75f1e0ee8a282b58458e4fed3b4eef7c46fb
 ms.contentlocale: ru-ru
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 01/30/2018
 
 ---
-# <a name="how-to-create-contact-companies"></a>Как создать контактные организации
+# <a name="create-contact-companies"></a>Создание контактных организаций
 Вы можете создать контакт для каждой новой организации, с которой происходит взаимодействие, например заказчика, поставщика, банка, юридической организации, консультанта и т. д.
 
 Есть два способа создания контактов: с нуля или на основе имеющегося клиента, поставщика или банковского счета.
@@ -58,6 +58,6 @@ ms.lasthandoff: 11/10/2017
 [Назначение деловых отношений контакту](marketing-business-relations.md#AssignBusRelContact)  
 [Присвоение отраслевых групп контакту](marketing-industry-groups.md#AssignIndustryGroupContact)  
 [Назначение групп рассылки контакту](marketing-mailing-groups.md#AssignMailGroupContact)  
-[Как создать контактные лица](marketing-create-contact-persons.md)  
-[Работа с Dynamics 365](ui-work-product.md)
+[Создание контактных лиц](marketing-create-contact-persons.md)  
+[Работа с Finance and Operations, Business edition](ui-work-product.md)
 

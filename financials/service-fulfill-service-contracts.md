@@ -13,10 +13,10 @@ ms.search.keywords: contract, agreement, configure
 ms.date: 08/23/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
-ms.openlocfilehash: 338fc294813487438073391495035d40635f9202
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: 6ad29dddb5a3dac2063e06fd973f1e41dc51d08a
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 01/30/2018
 
 ---
 # <a name="fulfilling-service-contracts"></a>Выполнение контрактов на обслуживание 
@@ -29,12 +29,12 @@ ms.lasthandoff: 09/22/2017
 |**Задача**|**Ссылка**|  
 |------------|-------------|  
 |Работа с сервисным товаром из нескольких контрактов. | [Несколько контрактов](service-multiple-contracts.md)|  
-|Создание сервисных контрактов вручную или на основе предложения по сервисному контракту.| [Практическое руководство. Создание сервисных контрактов и предложений по сервисному контракту](service-how-to-create-service-contracts-and-service-contract-quotes.md)|
-|Корректировка суммы, на которую будет ежегодно выставляться счет, чтобы обеспечить выставление счета на правильную сумму.|[Практическое руководство. Изменение годовой суммы в сервисном контракте или в предложении по контракту](service-how-to-change-the-annual-amount-on-service-contracts-or-contract-quotes.md)|
+|Создание сервисных контрактов вручную или на основе предложения по сервисному контракту.| [Создание сервисных контрактов и предложений по сервисному контракту](service-how-to-create-service-contracts-and-service-contract-quotes.md)|
+|Корректировка суммы, на которую будет ежегодно выставляться счет, чтобы обеспечить выставление счета на правильную сумму.|[Изменение годовой суммы в сервисном контракте или в предложении по контракту](service-how-to-change-the-annual-amount-on-service-contracts-or-contract-quotes.md)|
 
 ## <a name="see-also"></a>См. также
 [Планирование сервисного обслуживания](service-plan-service.md)  
 [Предоставление услуги](service-deliver-service.md)  
 [Настройка управления сервисным обслуживанием](service-setup-service.md)  
-[Практическое руководство. Создание сервисных контрактов и предложений по сервисному контракту](service-how-to-create-service-contracts-and-service-contract-quotes.md)  
+[Создание сервисных контрактов и предложений по сервисному контракту](service-how-to-create-service-contracts-and-service-contract-quotes.md)  
 

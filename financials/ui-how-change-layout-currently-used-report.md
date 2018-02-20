@@ -13,13 +13,13 @@ ms.search.keywords: customized report, document layout, logo, personalize
 ms.date: 03/29/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
-ms.openlocfilehash: 677b7319baff476671c4c8ade4afed843f936c36
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: 0cf867dc453b01b074010ee47c7c4c6560195361
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 01/30/2018
 
 ---
-# <a name="how-to-change-which-layout-is-currently-used-on-a-report"></a>Практическое руководство. Изменение макета, в настоящее время используемого в отчете
+# <a name="change-which-layout-is-currently-used-on-a-report"></a>Изменение макета, в настоящее время используемого в отчете
 Отчет можно настроить с использованием нескольких макетов, между которыми затем при необходимости можно будет переключаться.
 
 В зависимости от доступных для отчета макетов можно принять решение об использовании встроенного макета отчета RDLC, встроенного макета отчета Word или пользовательского макета. Дополнительные сведения о макетах отчетов RDLC и Word, встроенных и пользовательских макетах и др. см. в разделе [Управление макетами отчетов](ui-manage-report-layouts.md).

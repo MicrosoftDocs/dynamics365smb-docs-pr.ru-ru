@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 09/01/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
-ms.openlocfilehash: 10524be6bcfdc99672496b54903e4f04c33108ce
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: 60438f0b6f0d5da60925b5b9c309cc359a8422e3
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 01/30/2018
 
 ---
 # <a name="manage-documents"></a>Управление документами
@@ -32,5 +32,5 @@ ms.lasthandoff: 09/22/2017
 Однако сервисные заказы не удаляются автоматически, если общее количество по заказу было учтено не из самого заказа, а из окна **Сервисный счет**. В этом случае может понадобиться удалить вручную заказы, по которым выставлены счета и которые не были удалены программой. Это можно выполнить путем запуска пакетного задания **Удалить серв. заказы, по кот. выст. сч.**.  
 
 ## <a name="see-also"></a>См. также  
-[Настройка и администрирование в Dynamics 365 for Financials](admin-setup-and-administration.md)  
+[Настройка и администрирование в Finance and Operations, Business edition](admin-setup-and-administration.md)  
 

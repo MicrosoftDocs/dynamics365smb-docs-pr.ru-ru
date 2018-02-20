@@ -13,16 +13,16 @@ ms.search.keywords: check, clearing
 ms.date: 06/16/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
-ms.openlocfilehash: dfae1975a78c9380b5b6d4086569d63fe3793832
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: 57580354c2ea5b63162e1539cf2f97eb9770c50b
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 01/30/2018
 
 ---
-# <a name="how-to-export-a-positive-pay-file"></a>Практическое руководство. Экспорт файла Positive Pay
+# <a name="export-a-positive-pay-file"></a>Экспорт файла Positive Pay
 Чтобы гарантировать, чтобы банк выполнял клиринг только по проверенным платежным документам и суммам, можно экспортировать файл Positive Pay, содержащий информацию о поставщике, номер платежного документа, сумму платежа, который можно затем переслать в банк для справки при обработке платежей.
 
-Программа [!INCLUDE[d365fin](includes/d365fin_md.md)] предварительно настроена для поддержки файлов Positive Pay оплаты для банков Bank of America и City Bank.
+[!INCLUDE[d365fin](includes/d365fin_md.md)] предварительно настроена для поддержки файлов Positive Pay оплаты для банков Bank of America и City Bank.
 
 ## <a name="to-set-up-a-bank-account-for-positive-pay"></a>Настройка банковского счета для Positive Pay
 1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Банковские счета**, а затем выберите связанную ссылку.

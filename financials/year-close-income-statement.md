@@ -13,17 +13,17 @@ ms.search.keywords: year closing, close accounting period, close fiscal year, ba
 ms.date: 06/02/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
-ms.openlocfilehash: 6ddd7b504f6faa856e92c336f889ad08db0b3d8b
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: 237c03e2ba6408bde65aba5f652468a3b700fa0a
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 01/30/2018
 
 ---
-# <a name="how-to-close-income-statement-accounts"></a>Практическое руководство. Закрытие счетов отчета о прибылях и убытках
+# <a name="close-income-statement-accounts"></a>Закрытие счетов отчета о прибылях и убытках
 При завершении финансового года следует завершить периоды, которые его образуют. Для этого выполните пакетное задание **Закрытие отчета о прибылях и убытках**. Это задание переносит результат года на балансовый счет и закрывает счета отчета о прибылях и убытках. Это осуществляется путем создания строк в журнале, который затем можно учесть.
 
 ## <a name="to-run-the-close-income-statement-batch-job"></a>Запуск пакетного задания "Закрытие отчета о прибылях и убытках".
-1. Закройте финансовый год. Пакетное задание можно запустить только после закрытия финансового года. Дополнительные сведения см. в разделе [Практическое руководство. Закрытие учетных периодов](year-close-account-periods.md).
+1. Закройте финансовый год. Пакетное задание можно запустить только после закрытия финансового года. Дополнительные сведения см. в разделе [Закрытие учетных периодов](year-close-account-periods.md).
 2. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Закрытие отчета о прибылях и убытках**, а затем выберите связанную ссылку.
 3. Нажмите кнопку **ОК** для запуска пакетного задания.
 
@@ -38,7 +38,7 @@ ms.lasthandoff: 09/22/2017
 
 ## <a name="see-also"></a>См. также
 [Закрытие книг](year-close-books.md)  
-[Практическое руководство: учет операции закрытия года](year-how-post-year-end-close-entry.md)  
-[Практическое руководство. Открытие нового финансового года](finance-how-open-new-fiscal-year.md)  
+[Учет операции закрытия года](year-how-post-year-end-close-entry.md)  
+[Открытие нового финансового года](finance-how-open-new-fiscal-year.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

@@ -1,6 +1,6 @@
 ---
-title: "Представляем Dynamics 365 Business edition | Microsoft Docs"
-description: "Узнайте о возможностях и рабочих сценариях в Dynamics 365 Business edition — решении по управлению деятельностью для небольших и средних предприятий."
+title: "Представляем Finance and Operations, Business edition | Microsoft Docs"
+description: "Узнайте о возможностях и рабочих сценариях в Finance and Operations, Business edition — решении по управлению деятельностью для небольших и средних предприятий."
 author: SusanneWindfeldPedersen
 ms.service: dynamics365-financials
 ms.topic: get-started-article
@@ -11,10 +11,10 @@ ms.search.keywords: setup wizard
 ms.date: 09/14/2017
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: a49e50213f808fb72b43dfa22a34833b306ef12d
-ms.openlocfilehash: 0173f682ccb09b2b4c02b9d7d74638f6b08e9a93
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: 2f17af763663ffc7d10c9730ca433ca1574d6552
 ms.contentlocale: ru-ru
-ms.lasthandoff: 12/14/2017
+ms.lasthandoff: 01/30/2018
 
 ---
 # <a name="welcome-to-included365finlongincludesd365finlongmdmd"></a>Добро пожаловать в [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]
@@ -40,7 +40,7 @@ ms.lasthandoff: 12/14/2017
 Каждая домашняя страница содержит кнопку **Настройка и расширения**. Здесь вы получаете доступ к списку сопровождаемой настройки, которая может помочь облегчить начало работы за счет быстрой настройки выбранных областей. Если область не включена в сопровождаемую настройку, выберите действие **Ручная настройка** для доступа к окнам настройки, в которых можно заполнить поля настройки для всех областей вручную. Дополнительные сведения см. также в разделе [Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md).  
 
 > [!NOTE]  
->   Список доступных руководств по настройке, расширений и служб отличается в зависимости от взаимодействия с пользователем, выбранного для организации. Взаимодействие **Базовый** предоставляет доступ к меньшему числу компонентов, чем взаимодействие **Suite**. При первом входе в систему используется взаимодействие "Базовый". Дополнительные сведения см. в разделе [Настройка интерфейса [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-experiences.md).  
+>   Список доступных руководств по настройке, расширений и служб отличается в зависимости от взаимодействия с пользователем, выбранного для организации. Взаимодействие **Базовый** предоставляет доступ к меньшему числу компонентов, чем взаимодействие **Suite**. При первом входе в систему используется взаимодействие "Базовый". Дополнительные сведения см. в разделе [Настройка взаимодействия [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-experiences.md).  
 
 В окне **Сопровождаемая настройка** доступно следующее, если выбрано взаимодействие **Suite**:
 
@@ -57,7 +57,7 @@ ms.lasthandoff: 12/14/2017
 | Настройка отчетов |Настройка наборов данных, которые можно использовать для создания мощных отчетов, например с помощью Excel или Power BI. |
 | Настройка рабочего процесса утверждения товара |Настройка возможности отправлять уведомления утверждающему, когда пользователь изменяет или создает товар. |
 | Настройка рабочего процесса утверждения платежа |Настройка возможности отправлять уведомления утверждающему, когда пользователь отправляет строки журнала платежей на утверждение. |
-| Настройка Dynamics 365 Connector |Настройка подключения к Dynamics 365 for Sales, которое позволяет синхронизировать данные, такие как контакты и заказы на продажу. |
+| Настройка соединителя Finance and Operations, Business edition |Настройка подключения к Dynamics 365 for Sales, которое позволяет синхронизировать данные, такие как контакты и заказы на продажу. |
 | Настройка налога с продаж |Начало работы с налоговыми группами по умолчанию и назначение кодов налоговых областей, которые можно назначать клиентам и поставщикам для автоматического расчета налога с продаж в документах продажи или покупки. |
 
 ## <a name="trying-things-out-in-your-own-company"></a>Изучение компонентов в собственной организации
@@ -66,22 +66,21 @@ ms.lasthandoff: 12/14/2017
 Чтобы создать организацию для ознакомления с компонентами приложения, перейдите в меню **Мои настройки** в правом верхнем углу и измените организацию на **Моя организация**. Выйдите из [!INCLUDE[d365fin](includes/d365fin_md.md)], а затем снова войдите, чтобы применить изменение. Руководство по сопровождаемой настройке поможет вам предоставить базовую информацию о организации. После этого изучите домашнюю страницу и найдите действие **Сопровождаемая настройка**.  
 
 ## <a name="ready-to-subscribe"></a>Готовы подписаться?
-При каждом выполнении входа во время пробного периода отображается уведомление вверху в синем поле с указанием оставшегося времени. Если вы решите приобрести подписку, перейдите по ссылке в уведомлении, чтобы связаться с Майкрософт. Можно также связаться с группой продаж [!INCLUDE[d365fin](includes/d365fin_md.md)] на странице [Microsoft Dynamics 365 Business edition](https://go.microsoft.com/fwlink/?linkid=828707).  
+При каждом выполнении входа во время пробного периода отображается уведомление вверху в синем поле с указанием оставшегося времени. Если вы решите приобрести подписку, перейдите по ссылке в уведомлении, чтобы связаться с Майкрософт. Можно также связаться с группой [!INCLUDE[d365fin](includes/d365fin_md.md)] Sales](https://go.microsoft.com/fwlink/?linkid=828707).  
 
-## <a name="other-dynamics-365-apps"></a>Другие приложения Dynamics 365
-Перейдите к содержимому о других приложениях Dynamics 365 , выбрав ссылку [Dynamics 365](https://docs.microsoft.com/dynamics365) на синем баннере вверху этой страницы. Дополнительные сведения можно также получить на [веб-сайте Dynamics 365](https://www.microsoft.com/en-us/dynamics365/).  
+## <a name="other-finance-and-operations-business-edition-apps"></a>Другие приложения Finance and Operations, Business edition
+Перейдите к содержимому о других приложениях Finance and Operations, Business edition, перейдя по ссылке [Finance and Operations, Business edition](https://docs.microsoft.com/dynamics365) на синем баннере вверху этой страницы. Дополнительные сведения можно также получить на [веб-сайте Dynamics 365 for Finance and Operations, Business edition](https://www.microsoft.com/en-us/dynamics365/).  
 
 Если вы бухгалтер, вы можете зарегистрироваться в [!INCLUDE[d365acc_long](includes/d365acc_long_md.md)] для полной интеграции с [!INCLUDE[d365fin](includes/d365fin_md.md)]. Дополнительные сведения см. в разделе [Добро пожаловать в Dynamics 365 — Accountant Hub](/dynamics365/accountants/index).
 
 ## <a name="see-also"></a>См. также
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
-[Установка [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md)  
-[Финансы](finance.md)  
+[Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md)  
 [Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью расширений](ui-extensions.md)  
 [Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] в качестве рабочего почтового ящика в Outlook](madeira-outlook.md)  
 [Получение [!INCLUDE[d365fin](includes/d365fin_md.md)] на мобильном устройстве](install-mobile-app.md)  
-[Документация по Microsoft Dynamics 365](https://docs.microsoft.com/en-us/dynamics365/#pivot=solutions&panel=solutions_financials)  
-[roadmap.dynamics.com](https://roadmap.dynamics.com/#edition=1#application=a56e2c12-2a92-e611-80dc-c4346bac0910#status=3a708a86-ae97-e611-80df-c4346baceb68)  
+[Документация по Dynamics 365](https://docs.microsoft.com/en-us/dynamics365/#pivot=solutions&panel=solutions_financials)  
+[Дорожная карта Finance and Operations, Business edition](https://roadmap.dynamics.com/#edition=1#application=a56e2c12-2a92-e611-80dc-c4346bac0910#status=3a708a86-ae97-e611-80df-c4346baceb68)  
 [Microsoft Dynamics 365 for Finance and Operations, Business edition](https://go.microsoft.com/fwlink/?linkid=828707)  
 
 ## [!INCLUDE[d365fin](includes/free_trial_md.md)]

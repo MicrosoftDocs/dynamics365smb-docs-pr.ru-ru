@@ -13,13 +13,13 @@ ms.search.keywords:
 ms.date: 08/22/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
-ms.openlocfilehash: 7ee0dc8f0f44e9bb62fc87caf85eaf92d438abe6
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: fb65a8b978a0f87b27cc48a634c4ec64d230221d
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 01/30/2018
 
 ---
-# <a name="how-to-create-service-invoices-or-credit-memos"></a>Практическое руководство. Создание сервисных счетов или кредит-нот
+# <a name="create-service-invoices-or-credit-memos"></a>Создание сервисных счетов или кредит-нот
 Простота выставления счетов по сервисным заказам — ключевая особенность [!INCLUDE[d365fin](includes/d365fin_md.md)]. Счета можно отправлять клиентам в любое время, а также периодически создавать счета.  
   
 Для непосредственного создания счета используется окно **Сервисный контракт**. Можно настроить систему так, чтобы технический персонал, работающий на выезде, мог создавать счета без привязки к конкретным контрактам или заказам.  
@@ -99,7 +99,7 @@ ms.lasthandoff: 09/22/2017
 4. В строках кредит-ноты введите информацию о товарах, которые были возвращены или исключены, или о компенсации, которая будет предоставлена клиенту.  
 
 ## <a name="see-also"></a>См. также
-[Практическое руководство. Учет сервисных счетов](service-how-to-post-service-orders.md)  
+[Учет сервисных счетов](service-how-to-post-service-orders.md)  
 [Настройка управления сервисным обслуживанием](service-setup-service.md)  
 [Учет сервиса](service-service-posting.md)  
 

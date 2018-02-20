@@ -1,6 +1,6 @@
 ---
 title: "Способы устранения или обхода неполадок при самостоятельной регистрации | Microsoft Docs"
-description: "Узнайте о типичных причинах проблем при регистрации в Dynamics 365 Business edition и способах их обхода."
+description: "Узнайте о типичных причинах проблем при регистрации в Finance and Operations, Business edition и способах их обхода."
 author: SusanneWindfeldPedersen
 ms.service: dynamics365-financials
 ms.topic: article
@@ -10,16 +10,16 @@ ms.workload: na
 ms.date: 06/02/2017
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
-ms.openlocfilehash: c97d406d0213c7b2ade23a2d209adf54bf9dfcae
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: 109865854aef62b818baa39c4314874a98f59191
 ms.contentlocale: ru-ru
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 01/30/2018
 
 ---
 # <a name="troubleshooting-self-service-sign-up"></a>Устранение неполадок при самостоятельной регистрации
 Регистрация в [!INCLUDE[d365fin](includes/d365fin_md.md)] проста и выполняется очень быстро. Вы можете создать бесплатную учетную запись, даже если у вас есть существующая организация. В этой статье рассмотрены проблемы, которые могут возникнуть при регистрации.
 
-## <a name="what-email-address-can-i-use-with-dynamics-365"></a>Какой адрес электронной почты можно использовать с Dynamics 365?
+## <a name="what-email-address-can-i-use-with-finance-and-operations-business-edition"></a>Какой адрес электронной почты можно использовать с Finance and Operations, Business edition?
 [!INCLUDE[d365fin](includes/d365fin_md.md)] требует для регистрации использования рабочего или учебного адреса электронной почты. [!INCLUDE[d365fin](includes/d365fin_md.md)] не поддерживает адреса электронной почты, предоставленные общедоступными сервисами электронной почты и поставщиками услуг связи. К таким адресам относятся outlook.com, hotmail.com, gmail.com и т. д.
 
 При попытке зарегистрироваться с личного адреса электронной почты вы получите сообщение о том, что нужно использовать рабочий или учебный адрес электронной почты.

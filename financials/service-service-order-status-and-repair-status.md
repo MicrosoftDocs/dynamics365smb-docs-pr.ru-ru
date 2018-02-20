@@ -13,10 +13,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
-ms.openlocfilehash: a1d2177ab417eb932110ea610474b969acf7a26b
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: 21f4a6fc048688858cad77fb3d306fb39bd5620c
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 01/30/2018
 
 ---
 # <a name="service-order-status-and-repair-status"></a>Статус сервисного заказа и ремонта
@@ -63,6 +63,6 @@ ms.lasthandoff: 09/22/2017
 Например, если один сервисный товар имеет статус ремонта **Начальный** (связанный со статусом сервисного заказа **Ожидание**), другой - **В работе** (связанный со статусом сервисного заказа **В работе**), а третий – **Запчасти заказаны** (связанный со статусом сервисного заказа **На удержании**), то тогда окончательный статус сервисного заказа будет **В работе**, поскольку он имеет наивысший приоритет.  
   
 ## <a name="see-also"></a>См. также  
-[Практическое руководство. Настройка статусов для сервисных заказов и ремонтных работ](service-order-repair-status.md)  
+[Настройка статусов для сервисных заказов и ремонтных работ](service-order-repair-status.md)  
 [Настройка управления сервисным обслуживанием](service-setup-service.md)  
 

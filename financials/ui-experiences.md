@@ -1,6 +1,6 @@
 ---
-title: "Настройка интерфейса, чтобы отображать или скрывать расширенные функции | Microsoft Docs"
-description: "Узнайте о вариантах настройки \"Базовая\" и \"Suite\" — что это значит с точки зрения пользовательского интерфейса, областей приложения и вашей организации в Dynamics 365 Business edition."
+title: "Настройка взаимодействия с пользователем для отображения или скрытия расширенных функций | Microsoft Docs"
+description: "Узнайте о вариантах настройки Basic и Essentials — что это значит с точки зрения пользовательского интерфейса, областей приложения и вашей организации."
 documentationcenter: 
 author: edupont04
 ms.service: dynamics365-financials
@@ -8,27 +8,25 @@ ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: Suite, Basic, user interface, application area
-ms.date: 08/22/2017
+ms.search.keywords: essentials, basic, user interface, application area, experience
+ms.date: 01/24/2018
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
-ms.openlocfilehash: 361019af4ba1832cd0b9ac39c20bf22e98b38a76
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: f019ffbc0c8f02d6facfe58e96de469e90a26a3c
 ms.contentlocale: ru-ru
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 01/30/2018
 
 ---
-# <a name="customizing-your-included365finlongincludesd365finlongmdmd-experience"></a>Настройка интерфейса [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]
-Приложение [!INCLUDE[d365fin](includes/d365fin_md.md)] призвано помочь вам вести бизнес независимо от сферы деятельности. К базовым функциям [!INCLUDE[d365fin](includes/d365fin_md.md)] относится финансовая отчетность, а также процессы продажи и покупки. Вы расширяете взаимодействие с пользователями в соответствии со своими бизнес-потребностями, добавляя расширения из AppSource. Вы также можете увеличить и уменьшить объем взаимодействия с пользователем и выбрать необходимые функции для организации. Дополнительные сведения см. в разделе [Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью расширений](ui-extensions.md).
+# <a name="customizing-your-included365finincludesd365finmdmd-experience"></a>Настройка взаимодействия [!INCLUDE[d365fin](includes/d365fin_md.md)]
+[!INCLUDE[d365fin](includes/d365fin_md.md)] Приложение  призвано помочь вам вести бизнес независимо от сферы деятельности. К базовым функциям [!INCLUDE[d365fin](includes/d365fin_md.md)] относится финансовая отчетность, а также процессы продажи и покупки. К этому вы добавляете функции в соответствии со своими потребностями бизнеса, добавляя расширения из AppSource или изменяя параметр "Функциональность" для организации. Дополнительные сведения см. в разделе [Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью расширений](ui-extensions.md) или в разделе *Выбор взаимодействия с пользователем* ниже.
 
-## <a name="choosing-a-user-experience"></a>Выбор взаимодействия с пользователем
+## <a name="choosing-a-user-experience-to-show-or-hide-features"></a>Выбор взаимодействия с пользователем для отображения или скрытия функций
 Взаимодействие с пользователем определяет, какая часть базовой функциональности доступна, когда вы и ваши коллеги используют [!INCLUDE[d365fin](includes/d365fin_md.md)]. Взаимодействие с пользователем можно выбрать в окне **Информация об организации** в поле **Взаимодействие**.
-
+  
 > [!NOTE]  
->   Эта настройка относится ко всем пользователям в вашей организации.
-
-![Опыт](media/ui-experience/experience.gif)
-
+> Эта настройка относится ко всем пользователям в вашей организации. Пользователи могут более точно настраивать свое взаимодействие, изменяя макеты и содержимое страниц. Дополнительные сведения см. в разделе [Персонализация рабочей области и страниц](ui-personalization-user.md).  
+  
 В следующей таблице перечислены типы взаимодействия, доступные в настоящий момент.
 
 | Опыт | Влияние на пользовательский интерфейс |
@@ -38,8 +36,8 @@ ms.lasthandoff: 11/10/2017
 
 ## <a name="see-also"></a>См. также
 [Изменение базовых настроек](ui-change-basic-settings.md)  
-[Настройка [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)] с помощью расширений](ui-extensions.md)  
-[Работа с [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](ui-work-product.md)
+[Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью расширений](ui-extensions.md)  
+[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 
 ## [!INCLUDE[d365fin](includes/free_trial_md.md)]
 

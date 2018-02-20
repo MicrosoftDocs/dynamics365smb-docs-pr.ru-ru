@@ -11,13 +11,13 @@ ms.search.keywords:
 ms.date: 08/18/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 8b2e20e694279a8c06188e0e429ef3b4fb43aea2
-ms.openlocfilehash: c014e3ee7ed580fd893470c0e0b89273eaceb429
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: ac95d7b05eefdb71e9a7da9025c83e50466ad13a
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/27/2017
+ms.lasthandoff: 01/30/2018
 
 ---
-# <a name="how-to-set-up-a-document-exchange-service"></a>Практическое руководство. Настройка службы обмена документами
+# <a name="set-up-a-document-exchange-service"></a>Настройка службы обмена документами
 Внешний поставщик службы используется для обмена электронными документами с деловыми партнерами. Дополнительные сведения см. в разделе [Электронный обмен данными](across-data-exchange.md).  
 
 ## <a name="to-set-up-a-document-exchange-service"></a>Настройка служб обмена документами  

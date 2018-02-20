@@ -13,13 +13,13 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
-ms.openlocfilehash: 7cafdcb9f6002d0732ee86b643b784d96e8c2aa1
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: 3b52f7c62cc13d27ff4d96ff5b9087d3560d6fbc
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 01/30/2018
 
 ---
-# <a name="how-to-post-service-orders-and-credit-memos"></a>Практическое руководство. Учет сервисных заказов и кредит-нот
+# <a name="post-service-orders-and-credit-memos"></a>Учет сервисных заказов и кредит-нот
 После создания сервисного заказа, заполнения всей необходимой информации и внесения всех изменений, можно учесть этот сервисный заказ. Чтобы получить возможность учета сервисного заказа, он должен содержать, по меньшей мере, одну строку сервисного товара и одну строку сервиса. Если в заказе содержится несколько сервисных строк, будет выполнен учет всех строк одновременно.  
 
 При наличии большого количества сервисных заказов можно экономить время, используя пакетное задание для их одновременного учета. Пакетное задание можно запустить из любого сервисного заказа.
@@ -133,5 +133,5 @@ ms.lasthandoff: 09/22/2017
   
 ## <a name="see-also"></a>См. также  
 [Учет в сервисном обслуживании](service-service-posting.md)  
-[Практическое руководство. Создание сервисного заказа](service-how-to-create-service-orders.md)  
+[Создание сервисного заказа](service-how-to-create-service-orders.md)  
 

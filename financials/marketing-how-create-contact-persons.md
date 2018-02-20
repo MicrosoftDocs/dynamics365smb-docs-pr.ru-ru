@@ -13,13 +13,13 @@ ms.search.keywords: relationship, prospect
 ms.date: 06/06/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
-ms.openlocfilehash: 208c49d0f86ae0a3c8ef4db8008fa2995f77e674
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: 2bb49ed17db6a4b6f7eafef76c9109e2652fa76b
 ms.contentlocale: ru-ru
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 01/30/2018
 
 ---
-# <a name="how-to-create-contact-persons"></a>Как создать контактные лица
+# <a name="create-contact-persons"></a>Создание контактных лиц
 Можно создавать карточку контакта для каждого контакта внутри организации, с которой происходит взаимодействие. Для каждой контактной организации можно ввести любое желаемое число контактных лиц. Также можно создавать карточки контакта, которые будут зарегистрированы как независимые.
 
 > [!TIP]  
@@ -40,8 +40,8 @@ ms.lasthandoff: 11/10/2017
 ## <a name="see-also"></a>См. также
 [Настройка управления отношениями](marketing-setup-marketing.md)  
 [Присвоение групп рассылки контакту](marketing-mailing-groups.md#AssignMailGroupContact)  
-[Практическое руководство. Настройка должностных обязанностей в контактах](marketing-job-responsibilities.md)  
-[Практическое руководство. Настройка организационных уровней для контактных лиц](marketing-organizational-levels.md)  
+[Настройка должностных обязанностей в контактах](marketing-job-responsibilities.md)  
+[Настройка организационных уровней для контактных лиц](marketing-organizational-levels.md)  
 [Синхронизация контактов с клиентами, поставщиками и банковскими счетами](marketing-synchronize-contacts-customers-vendors-bank-accounts.md)  
-[Работа с Dynamics 365](ui-work-product.md)  
+[Работа с Finance and Operations, Business edition](ui-work-product.md)  
 

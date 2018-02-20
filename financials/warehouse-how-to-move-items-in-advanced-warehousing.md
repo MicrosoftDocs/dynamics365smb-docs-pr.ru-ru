@@ -13,13 +13,13 @@ ms.search.keywords:
 ms.date: 08/232017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
-ms.openlocfilehash: 019d60da5611174b873d07e8adb25ed78b01467b
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: 4caa041c6b3acef5d0cbf6c037f0ec535cd3176e
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 01/30/2018
 
 ---
-# <a name="how-to-move-items-in-advanced-warehouse-configurations"></a>Практическое руководство. Перемещение товаров в расширенных конфигурациях склада
+# <a name="move-items-in-advanced-warehouse-configurations"></a>Перемещение товаров в расширенных конфигурациях склада
 В расширенных настройках складов, в которых используются расширенный подбор и размещение, складские перемещения между ячейками выполняются мастером склада, который подготавливает перемещения в журнале передвижений, а затем создает складские передвижения, которые должны выполнить сотрудники склада.  
 
 ## <a name="to-move-items-with-the-warehouse-movement-worksheet"></a>Перемещение товаров с помощью журнала складских передвижений

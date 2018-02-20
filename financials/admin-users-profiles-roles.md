@@ -1,6 +1,6 @@
 ---
 title: "Управление пользователями и ролями | Документы Майкрософт"
-description: "Узнайте, как управлять пользователями и ролевыми центрами в Dynamics 365 for Financials."
+description: "Узнайте, как управлять пользователями и ролевыми центрами в Finance and Operations, Business edition."
 author: edupont04
 ms.service: dynamics365-financials
 ms.topic: article
@@ -11,17 +11,17 @@ ms.search.keywords:
 ms.date: 09/01/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
-ms.openlocfilehash: e8989767618962a2db861b2df60aa03a2ca2b484
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: b06c5ee737db74e5011c7854601a21bc04d8872a
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 01/30/2018
 
 ---
-# <a name="users-profiles-and-role-centers-in-dynamics-365-for-financials"></a>Пользователи, профили и ролевые центры в Dynamics 365 for Financials
+# <a name="users-profiles-and-role-centers-in-finance-and-operations-business-edition"></a>Пользователи, профили и ролевые центры в Finance and Operations, Business edition
 Всем пользователям в организации, которые имеют доступ к [!INCLUDE[d365fin](includes/d365fin_md.md)], назначается *профиль*, открывающий им доступ к центру *Ролевой центр*. Как администратор, вы можете назначать и изменять профили в [!INCLUDE[d365fin](includes/d365fin_md.md)], а также добавлять и удалять пользователей в рамках своей подписки на [!INCLUDE[d365fin](includes/d365fin_md.md)].  
 
 ## <a name="adding-users"></a>Добавление пользователей
-Для добавления пользователей в [!INCLUDE[d365fin](includes/d365fin_md.md)] администратор Office 365 организации сначала должен создать пользователей в центре администрирования Office 365. Дополнительные сведения см. в разделе [Практическое руководство. Управление пользователями и разрешениями](ui-how-users-permissions.md).  
+Для добавления пользователей в [!INCLUDE[d365fin](includes/d365fin_md.md)] администратор Office 365 организации сначала должен создать пользователей в центре администрирования Office 365. Дополнительные сведения см. в разделе [Управление пользователями и разрешениями](ui-how-users-permissions.md).  
 
 ## <a name="profiles"></a>Профили
 Профили — это коллекции пользователей [!INCLUDE[d365fin](includes/d365fin_md.md)], которые относятся к одному ролевому центру. Ролевой центр — тип страницы, на которой можно разместить различные части. Каждая часть представляет собой контейнер, в котором можно размещать другие страницы или предварительно заданные части системы, например части Outlook для добавления задач, уведомлений или заметок.  
@@ -41,7 +41,7 @@ ms.lasthandoff: 09/22/2017
 Пользователи персонализируют пользовательский интерфейс персональной версии, настраивая ИП после входа со своими учетными данными. Эта персонализация может быть удалена администратором.  
 
 ## <a name="see-also"></a>См. также  
-[Практическое руководство. Управление пользователями и разрешениями](ui-how-users-permissions.md)  
+[Управление пользователями и разрешениями](ui-how-users-permissions.md)  
 <!-- [Customize the User Interface](../customize-the-user-interface.md)   
  [Security Overview](../Security%20Overview.md)-->
 

@@ -1,6 +1,6 @@
 ---
-title: "Dynamics 365 Business edition и пакеты содержимого Power BI | Microsoft Docs"
-description: "Анализ данных, бизнес-аналитика и КПЭ на основе данных Dynamics 365 становятся проще благодаря Power BI и пакетам содержимого для Dynamics 365."
+title: "Finance and Operations, Business edition и пакеты содержимого Power BI | Microsoft Docs"
+description: "Анализ данных, бизнес-аналитика и КПЭ на основе данных Finance and Operations, Business edition становятся проще благодаря пакетам содержимого Power BI и Finance and Operations, Business edition."
 author: edupont04
 ms.service: dynamics365-financials
 ms.topic: get-started-article
@@ -11,10 +11,10 @@ ms.search.keywords: account schedule, analysis, reporting, financial report, bus
 ms.date: 09/05/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
-ms.openlocfilehash: f9a85074f2bc3ed2bff6022b9c248d3568a04e93
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: 61d339e584107d48e22bd4c250085e9468271d7e
 ms.contentlocale: ru-ru
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 01/30/2018
 
 ---
 # <a name="enabling-your-business-data-for-power-bi"></a>Включение бизнес-данных для Power BI
@@ -24,9 +24,9 @@ ms.lasthandoff: 11/10/2017
 
 | Приложение | Описанием |
 | --- | --- |
-| Microsoft Dynamics 365 for Financials | Обеспечивает панель мониторинга с ключевыми финансовыми данными в зависимости от времени, такими как прибыль и расходы, текущая прибыль и наличный цикл.|
-| Microsoft Dynamics 365 for Financials - CRM | Предоставляет панель мониторинга с ключевыми данными о возможных сделках по продажам и контактах.  |
-| Microsoft Dynamics 365 for Financials - Sales | Предоставляет панель мониторинга с ключевыми данными о продажах и запасах. |
+| Microsoft Finance and Operations, Business edition | Обеспечивает панель мониторинга с ключевыми финансовыми данными в зависимости от времени, такими как прибыль и расходы, текущая прибыль и наличный цикл.|
+| Microsoft Finance and Operations, Business edition - CRM | Предоставляет панель мониторинга с ключевыми данными о возможных сделках по продажам и контактах.  |
+| Microsoft Finance and Operations, Business edition - Sales | Предоставляет панель мониторинга с ключевыми данными о продажах и запасах. |
 
 ## <a name="using-the-dashboards"></a>Использование панелей мониторинга
 Каждый пакет содержимого предоставляет отчеты, которые можно подробно изучать:
@@ -44,7 +44,7 @@ ms.lasthandoff: 11/10/2017
 ## <a name="accessing-included365finincludesd365finmdmd-in-power-bi"></a>Доступ к [!INCLUDE[d365fin](includes/d365fin_md.md)] в Power BI
 Чтобы увидеть данные [!INCLUDE[d365fin](includes/d365fin_md.md)] в Power BI, необходимо выполнить следующее:  
 
-* Получите доступ к [!INCLUDE[d365fin](includes/d365fin_md.md)]. Дополнительные сведения см. на странице [Dynamics 365 Business edition](http://go.microsoft.com/fwlink/?LinkID=759714).  
+* Получите доступ к [!INCLUDE[d365fin](includes/d365fin_md.md)]. Дополнительные сведения см. в разделе [Finance and Operations, Business edition](http://go.microsoft.com/fwlink/?LinkID=759714).  
 * Откройте Power BI. Дополнительные сведения см. в разделе [Power BI](https://powerbi.microsoft.com).
 
 На сайте Power BI также можно просмотреть дополнительные сведения о [подключении к службам с помощью пакетов содержимого для Power BI](http://go.microsoft.com/fwlink/?LinkID=760850).  
@@ -120,9 +120,10 @@ ms.lasthandoff: 11/10/2017
 [Бизнес-аналитика](bi.md)  
 [Добро пожаловать в [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md)  
 [Миграция бизнес-данных из других финансовых систем](upload-data.md)  
-[Использование [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)] как источника данных Power BI](across-how-use-financials-data-source-powerbi.md)  
-[Использование [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)] как источника данных PowerApps](across-how-use-financials-data-source-powerapps.md)  
-[Использование [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)] в Microsoft Flow](across-how-use-financials-data-source-flow.md)   
+[Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] как источника данных Power BI](across-how-use-financials-data-source-powerbi.md)  
+[Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] как источника данных PowerApps](across-how-use-financials-data-source-powerapps.md)  
+[Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] в Microsoft Flow](across-how-use-financials-data-source-flow.md)   
 
-## [!INCLUDE[d365fin](includes/free_trial_md.md)]
+## [!INCLUDE[d365fin](includes/free_trial_md.md)]  
+## [!INCLUDE[d365fin](includes/training_link_md.md)]
 

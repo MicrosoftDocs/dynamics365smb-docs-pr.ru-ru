@@ -1,8 +1,6 @@
 ---
-title: "Использование Dynamics 365 Business edition с Outlook | Microsoft Docs"
-description: "Dynamics 365 Business edition обладает глубокой интеграцией с Office 365, что позволяет вам вести все свои дела и взаимодействовать по электронной почте с клиентами и поставщиками непосредственно из Outlook."
-services: project-madeira
-documentationcenter: 
+title: "Использование Finance and Operations, Business edition с Outlook | Microsoft Docs"
+description: "Эта служба обладает глубокой интеграцией с Office 365, что позволяет вам вести бизнес и взаимодействовать по электронной почте с клиентами и поставщиками непосредственно из Outlook."
 author: edupont04
 ms.service: dynamics365-financials
 ms.topic: get-started-article
@@ -13,19 +11,19 @@ ms.search.keywords: SMTP, mail, Office 365
 ms.date: 06/02/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: de6cbcdc8e7ca4aff06461192e2038831ba6b5b3
-ms.openlocfilehash: 473c21085c54c7f97f34404eeb18683cf4479e41
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: 3e22e907667127508634ce56b9d40e4b9cad01f5
 ms.contentlocale: ru-ru
-ms.lasthandoff: 12/20/2017
+ms.lasthandoff: 01/30/2018
 
 ---
-# <a name="using-dynamics-365-for-finance-and-operations-business-edition-as-your-business-inbox-in-outlook"></a>Использование Dynamics 365 for Finance and Operations, Business edition в качестве рабочего почтового ящика в Outlook
-В [!INCLUDE[d365fin](includes/d365fin_md.md)] появилась возможность управления бизнес-взаимодействиями с клиентами и поставщиками непосредственно в Microsoft Outlook. С помощью надстроек [!INCLUDE[d365fin](includes/d365fin_md.md)] Outlook вы можете просматривать финансовые данные, связанные с клиентами и поставщиками, а также создавать и отправлять финансовые документы, такие как предложения и счета.  
+# <a name="using-finance-and-operations-business-edition-as-your-business-inbox-in-outlook"></a>Использование Finance and Operations, Business edition в качестве рабочего почтового ящика в Outlook
+[!INCLUDE[d365fin](includes/d365fin_md.md)] появилась возможность управления бизнес-взаимодействиями с клиентами и поставщиками непосредственно в Microsoft Outlook. С помощью надстроек [!INCLUDE[d365fin](includes/d365fin_md.md)] Outlook вы можете просматривать финансовые данные, связанные с клиентами и поставщиками, а также создавать и отправлять финансовые документы, такие как предложения и счета.  
 
 ## <a name="getting-the-add-in"></a>Получение надстройки
 В [!INCLUDE[d365fin](includes/d365fin_md.md)] один из шагов по сопровождаемой настройки "Приступая к работе" выполняется в окне **Управление бизнесом из Office 365**. В этом окне при нажатии кнопки **Настроить в Outlook** вы должны указать имя пользователя и пароль для Office 365. После этого надстройки [!INCLUDE[d365fin](includes/d365fin_md.md)] будут автоматически добавлены в Outlook.  
 
-Затем при открытии Outlook отобразится сообщение электронной почты от администратора Dynamics 365. Новая надстройка будет добавлена в ленту Outlook, а в Outlook Web Access вы сможете видеть ее в ленте надстроек непосредственно над телом сообщения электронной почты. Сама надстройка будет обновляться периодически, и вы будете получать уведомления о том, что новая версия готова к использованию в Outlook.  
+Затем при открытии Outlook отобразится сообщение электронной почты от администратора Finance and Operations, Business edition. Новая надстройка будет добавлена в ленту Outlook, а в Outlook Web Access вы сможете видеть ее в ленте надстроек непосредственно над телом сообщения электронной почты. Сама надстройка будет обновляться периодически, и вы будете получать уведомления о том, что новая версия готова к использованию в Outlook.  
 
 Некоторые организации, использующие Office 365, ограничивают права пользователей на развертывание надстроек. Поэтому вам следует убедиться, что вы используете подписку Office 365, включающую электронную почту и позволяющую развертывать надстройки. Если вы хотите попробовать надстройку в любом случае, вы можете [попробовать Office 365 бесплатно](https://products.office.com/try).  
 

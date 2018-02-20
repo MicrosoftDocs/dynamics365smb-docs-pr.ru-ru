@@ -11,13 +11,13 @@ ms.search.keywords: special price, alternate price, pricing
 ms.date: 09/08/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
-ms.openlocfilehash: 3bb16f6f192e3a3ca29911cf6215fe1f00bfcb68
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: bfb0a5b68768c3fe5e0fcf2874752b55bd96708e
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 01/30/2018
 
 ---
-# <a name="how-to-record-special-sales-prices-and-discounts"></a>Практическое руководство. Регистрация специальных цен продажи и скидок
+# <a name="record-special-sales-prices-and-discounts"></a>Регистрация специальных цен продажи и скидок
 Чтобы к документам продажи, созданным для клиентов, применялись согласованные правила и значения, необходимо определить различные соглашения в отношении цен и скидок, которые будут применяться при продаже товаров различным клиентам.
 
 После регистрации специальных цен и скидок по строке для покупок и продаж [!INCLUDE[d365fin](includes/d365fin_md.md)] гарантирует, что ваша прибыль от торговли товаром будет всегда оптимальна, автоматически рассчитывая наилучшую цену в документах продажи и покупки и в строках журнала товаров и работ. Дополнительные сведения см. в разделе "Расчет лучшей цены".

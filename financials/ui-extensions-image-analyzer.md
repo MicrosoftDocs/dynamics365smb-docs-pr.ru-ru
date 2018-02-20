@@ -1,6 +1,6 @@
 ---
 title: "Использование расширения \"Анализатор изображений\" | Microsoft Docs"
-description: "Это расширение позволяет анализировать изображения контактных лиц и товаров для обнаружения атрибутов, которые можно быстро присвоить им в Dynamics 365."
+description: "Это расширение позволяет анализировать изображения контактных лиц и товаров, для обнаружения атрибутов, которые можно быстро присвоить им в Finance and Operations, Business edition."
 documentationcenter: 
 author: bholtorf
 ms.service: dynamics365-financials
@@ -12,14 +12,14 @@ ms.search.keywords: API, extension, Cognitive Services, image, computer vision, 
 ms.date: 06/19/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
-ms.openlocfilehash: 4329a54114476885285da1d28cd292a4f9684e99
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: 6b7db51399f965f290e8871c74b30b9925553f83
 ms.contentlocale: ru-ru
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 01/30/2018
 
 ---
 
-# <a name="the-image-analyzer-extension-for-microsoft-dynamics-365-business-edition"></a>Расширение "Анализатор изображений" для Microsoft Dynamics 365 Business edition
+# <a name="the-image-analyzer-extension-for-microsoft-finance-and-operations-business-edition"></a>Расширение "Анализатора изображений" для Microsoft Finance and Operations, Business edition
 Расширение "Анализатор изображений" использует мощные механизмы анализа изображений, предоставленные API компьютерного зрения для Microsoft Cognitive Services, чтобы обнаруживать атрибуты на изображениях, которые вы импортируете для товаров и контактных лиц, чтобы вы могли их легко проверять и назначать. Для товаров это могут быть такие атрибуты как "стол" или "автомобиль", либо "красный" или "синий". Для контактных лиц атрибутом может быть пол или возраст.
 
 "Анализатор изображений" предлагает атрибуты на основании тегов, которые находит API компьютерного зрения, и уровня достоверности. По умолчанию он предлагает атрибуты только в случае уверенности не ниже 80%. При необходимости вы можете установить другой уровень достоверности. Чтобы получить дополнительные сведения о том, как определяются уровни доверия и теги, см. раздел [API компьютерного зрения](https://go.microsoft.com/fwlink/?linkid=851476).  
@@ -92,7 +92,7 @@ ms.lasthandoff: 11/10/2017
 2. Снимите флажок **Включать анализатор изображений**.  
 
 ## <a name="see-also"></a>См. также
-[Практическое руководство. Работа с атрибутами товаров](inventory-how-work-item-attributes.md)  
+[Работа с атрибутами товаров](inventory-how-work-item-attributes.md)  
 [Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью расширений](ui-extensions.md)  
 [Добро пожаловать в [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md)  
 

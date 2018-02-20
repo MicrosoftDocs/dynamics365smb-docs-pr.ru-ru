@@ -13,10 +13,10 @@ ms.search.keywords:
 ms.date: 09/26/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 8b2e20e694279a8c06188e0e429ef3b4fb43aea2
-ms.openlocfilehash: 1ca27811bef8e04fa96ccd920ca9b7327ad4d849
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: 3632aba536d15fb975c0672eef18ae03181c7727
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/27/2017
+ms.lasthandoff: 01/30/2018
 
 ---
 # <a name="about-production-orders"></a>О производственных заказах
@@ -58,7 +58,7 @@ ms.lasthandoff: 09/27/2017
 -   Созданы в окне **Планирование заказов**  
 -   С помощью функции **Перепланировать** в производственных заказах  
 
-Дополнительные сведения см. в разделе [Практическое руководство. Отслеживание связей между спросом и предложением](production-how-track-demand-supply.md).
+Дополнительные сведения см. в разделе [Отслеживание связей между спросом и предложением](production-how-track-demand-supply.md).
 
 Для производственных заказов, созданных другими способами, автоматическое резервирование и отслеживание не выполняются.   
 

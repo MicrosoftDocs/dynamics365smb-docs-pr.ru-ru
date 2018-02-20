@@ -13,13 +13,13 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
-ms.openlocfilehash: 80071e9fd584ad3232b8ae55169948f9a05d22be
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: 068d141ee8490cc34e8b2092b7dcfda36139660d
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 01/30/2018
 
 ---
-# <a name="how-to-set-up-service-items-and-service-item-components"></a>Практическое руководство. Настройка сервисных товаров и компонентов сервисных товаров
+# <a name="set-up-service-items-and-service-item-components"></a>Настройка сервисных товаров и компонентов сервисных товаров
 Для работы с сервисными товарами необходимо настроить следующее
 
 * Группы сервисных товаров. 
@@ -63,5 +63,5 @@ ms.lasthandoff: 09/22/2017
 2. Заполните соответствующим образом поля.
 
 ## <a name="see-also"></a>См. также
-[Практическое руководство. Настройка кодов для стандартных сервисов](service-how-setup-service-coding.md)   
-[Практическое руководство. Настройка устранения проблем](service-how-setup-troubleshooting.md)
+[Настройка кодов для стандартных сервисов](service-how-setup-service-coding.md)   
+[Настройка устранения проблем](service-how-setup-troubleshooting.md)

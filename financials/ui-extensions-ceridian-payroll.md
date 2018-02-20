@@ -13,16 +13,16 @@ ms. search.keywords: app, add-in, manifest, customize, salary, wage
 ms.date: 03/29/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
-ms.openlocfilehash: 3c67d6bd4d24d5b58462fa05168f2ac764b2c695
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: 442459e82ebeb6b5b767b443e49c62ff0d4364d1
 ms.contentlocale: ru-ru
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 01/30/2018
 
 ---
-# <a name="the-ceridian-payroll-extension-to-dynamics-365-business-edition"></a>Расширение "Зарплата Ceridian" для Dynamics 365 Business edition 
+# <a name="the-ceridian-payroll-extension-to-finance-and-operations-business-edition"></a>Расширение зарплаты Ceridian для Finance and Operations, Business edition 
 Для учета выплаты зарплаты и связанных транзакций необходимо импортировать и учесть финансовые транзакции, сделанные поставщиком системы зарплаты, в главную книгу.
 
-Чтобы это сделать, следует сначала импортировать файл, полученный от поставщика системы зарплаты, в окно **Финансовый журнал**. Затем следует сопоставить внешние счета в файле зарплаты с соответствующими счетами ГК. Наконец требуется учесть транзакции зарплаты в соответствии с сопоставлением счетов. Дополнительные сведения см. в разделе [Практическое руководство. Импорт транзакций зарплаты](finance-how-import-payroll-transactions.md).
+Чтобы это сделать, следует сначала импортировать файл, полученный от поставщика системы зарплаты, в окно **Финансовый журнал**. Затем следует сопоставить внешние счета в файле зарплаты с соответствующими счетами ГК. Наконец требуется учесть транзакции зарплаты в соответствии с сопоставлением счетов. Дополнительные сведения см. в разделе [Импорт транзакций зарплаты](finance-how-import-payroll-transactions.md).
 
 Расширение "Зарплата Ceridian" позволяет импортировать транзакции зарплаты из служб Ceridian HR/Payroll (США) и Ceridian PowerPay (Канада).
 

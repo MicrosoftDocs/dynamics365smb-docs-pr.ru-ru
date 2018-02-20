@@ -13,10 +13,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
-ms.openlocfilehash: d87aa7fe44b183a823457be4448c84631cd75db6
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: 015acdfbbc349477b9e86225f2c971f993215000
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 01/30/2018
 
 ---
 # <a name="walkthrough-selling-assembling-and-shipping-kits"></a>Пошаговое руководство: продажа, сборка и отгрузка наборов
@@ -432,10 +432,10 @@ ms.lasthandoff: 09/22/2017
 
 ## <a name="see-also"></a>См. также  
  [Сборка на заказ и сборка на склад](assembly-assemble-to-order-or-assemble-to-stock.md)   
- [Практическое руководство. Сборка товаров](assembly-how-to-assemble-items.md)   
- [Практическое руководство. Подбор товаров для складской отгрузки](warehouse-how-to-pick-items-for-warehouse-shipment.md)   
- [Практическое руководство. Продажа товара, собранного на заказ](assembly-how-to-sell-items-assembled-to-order.md)   
- [Практическое руководство. Сборка товаров](assembly-how-to-assemble-items.md)   
+ [Сборка товаров](assembly-how-to-assemble-items.md)   
+ [Подбор товаров для складской отгрузки](warehouse-how-to-pick-items-for-warehouse-shipment.md)   
+ [Продажа товара, собранного на заказ](assembly-how-to-sell-items-assembled-to-order.md)   
+ [Сборка товаров](assembly-how-to-assemble-items.md)   
  [Сведения о проектировании: учет заказа на сборку](design-details-assembly-order-posting.md)   
  [Сведения о проектировании: внутренние складские потоки](design-details-internal-warehouse-flows.md)   
  [Сведения о проектировании. Исходящий складской поток](design-details-outbound-warehouse-flow.md)   

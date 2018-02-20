@@ -1,6 +1,6 @@
 ---
-title: "Создание сегментов | Microsoft Docs"
-description: "Описывается процедура создания сегмента для группы контактов в Dynamics 365 Business edition, например, чтобы обращаться к нескольким контактам с помощью прямой почтовой рассылки."
+title: "Создание сегментов | Документы Майкрософт"
+description: "Описывается процедура создания сегмента для группы контактов в Finance and Operations, Business edition, например, чтобы обращаться к нескольким контактам с помощью прямой почтовой рассылки."
 services: project-madeira
 documentationcenter: 
 author: jswymer
@@ -13,13 +13,13 @@ ms.search.keywords: relationship, prospect
 ms.date: 06/06/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
-ms.openlocfilehash: dc915aaf2bb273417d87f6ea8bf1b1f5eb142ff3
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: 4e76980237c79919b0e90ae75115c1571a6cdb85
 ms.contentlocale: ru-ru
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 01/30/2018
 
 ---
-# <a name="how-to-create-segments"></a>Как создать сегменты
+# <a name="create-segments"></a>Создание сегментов
 Для выбора группы контактов можно создать сегменты, например, если требуется создать взаимодействие, в которое вовлечены несколько контактов, таких как прямая почтовая рассылка.
 
 ## <a name="to-create-a-segment"></a>Создание сегмента
@@ -30,7 +30,7 @@ ms.lasthandoff: 11/10/2017
     Или, если в окне **Маркетинг - настройка** задана серия номеров для сегментов, можно нажать клавишу ВВОД, чтобы выбрать следующий доступный номер сегмента.
 4. Заполните остальные поля в заголовке.
 
-Теперь в сегмент можно добавить контакты. Дополнительные сведения см. в разделе [Практическое руководство. Добавление контактов к сегментам](marketing-add-contact-segment.md).
+Теперь в сегмент можно добавить контакты. Дополнительные сведения см. в разделе [Добавление контактов к сегментам](marketing-add-contact-segment.md).
 
 ## <a name="see-also"></a>См. также
 [Управление сегментами](marketing-segments.md)  

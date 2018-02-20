@@ -1,6 +1,6 @@
 ---
 title: "Создание взаимодействий для контактов и сегментов | Microsoft Docs"
-description: "Описывается, как создавать взаимодействия для ваших коммуникаций с контактами и сегментами в Dynamics 365, например прямых почтовых рассылок."
+description: "Описывается, как создавать взаимодействия ваших коммуникаций с контактами и сегментами в Finance and Operations, Business edition, например прямые почтовые рассылки."
 services: project-madeira
 documentationcenter: 
 author: jswymer
@@ -13,13 +13,13 @@ ms.search.keywords: relationship, prospect
 ms.date: 06/15/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
-ms.openlocfilehash: 57cbc08ab2e05777fae54018fe714d44b64d14e0
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: 93d5bc9fd8189d5a8341faa252de9eac257901d2
 ms.contentlocale: ru-ru
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 01/30/2018
 
 ---
-# <a name="how-to-create-interactions-on-contacts-and-segments"></a>Практическое руководство. Создание взаимодействий для контактов и сегментов
+# <a name="create-interactions-on-contacts-and-segments"></a>Создание взаимодействий для контактов и сегментов
 Можно создавать взаимодействия для того, чтобы регистрировать все взаимодействия и коммуникации с контактами и сегментами, например, прямые почтовые рассылки.
 
 Перед созданием взаимодействий следует настроить шаблоны взаимодействия. Дополнительные сведения см. в разделе [Настройка шаблона взаимодействий](marketing-interactions.md).
@@ -54,5 +54,5 @@ ms.lasthandoff: 11/10/2017
 [Управление контактами](marketing-contacts.md)  
 [Управление возможностями продаж](marketing-manage-sales-opportunities.md)  
 [Настройка управления отношениями](marketing-setup-marketing.md)  
-[Работа с Dynamics 365](ui-work-product.md)
+[Работа с Finance and Operations, Business edition](ui-work-product.md)
 

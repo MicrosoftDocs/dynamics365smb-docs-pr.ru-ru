@@ -1,6 +1,6 @@
 ---
 title: "Работа с финансовыми обзорами в Excel | Microsoft Docs"
-description: "Узнайте, как открывать финансовые отчеты в Microsoft Excel из Dynamics 365 Business edition для более тщательного их анализа."
+description: "Узнайте, как открывать финансовые отчеты в Microsoft Excel из Finance and Operations, Business edition для более тщательного их анализа."
 author: edupont04
 ms.service: dynamics365-financials
 ms.topic: article
@@ -11,10 +11,10 @@ ms.search.keywords: accountant, accounting, financial report
 ms.date: 09/01/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
-ms.openlocfilehash: e58d412b9fb182a8a8f640593f78decf0e6aecc1
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: 23ac4cc6df1841c1cd37159b98e71d063a3c8f9d
 ms.contentlocale: ru-ru
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 01/30/2018
 
 ---
 # <a name="analyzing-financial-statements-in-microsoft-excel"></a>Анализ финансовых отчетов в Microsoft Excel
@@ -45,5 +45,5 @@ ms.lasthandoff: 11/10/2017
 [Финансы](finance.md)  
 [Настройка финансов](finance-setup-finance.md)  
 [Главная книга и план счетов](finance-general-ledger.md)  
-[Работа с Dynamics 365](ui-work-product.md)  
+[Работа с Finance and Operations, Business edition](ui-work-product.md)  
 

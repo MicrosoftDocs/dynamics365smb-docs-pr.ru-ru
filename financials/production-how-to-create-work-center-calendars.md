@@ -13,13 +13,13 @@ ms.search.keywords:
 ms.date: 09/14/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
-ms.openlocfilehash: f42941328d49aee4e823007284fd14417866cbae
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: cf54f63e94ab3249f30d2fcdbef2c35e323e4cd8
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 01/30/2018
 
 ---
-# <a name="how-to-set-up-shop-calendars"></a>Практическое руководство. Настройка производственных календарей
+# <a name="set-up-shop-calendars"></a>Настройка производственных календарей
 Календарь рабочего центра или машин определяет рабочие дни и часы, смены, праздники и простои, которые определяют общую производственную мощность (измеренную во временных единицах) рабочего центра согласно его определенным значениям эффективности и мощности.
 
 В качестве основы для вычисления календаря рабочего или машинного центра сначала следует настроить один или больше общих производственных календарей. Производственный календарь определяет стандартную рабочую неделю в соответствии с временем начала и окончания каждого рабочего дня и рабочих смен. Кроме того, производственный календарь определяет утвержденные праздники на весь год.  
@@ -108,8 +108,8 @@ ms.lasthandoff: 09/22/2017
 Производственная мощность выбранного дня теперь уменьшена на введенное время простоя.  
 
 ## <a name="see-also"></a>См. также  
-[Практическое руководство. Настройка базовых календарей](across-how-to-assign-base-calendars.md)  
-[Практическое руководство. Настройка рабочих центров и машинных центров](production-how-to-set-up-work-and-machine-centers.md)  
+[Настройка базовых календарей](across-how-to-assign-base-calendars.md)  
+[Настройка производственных и машинных центров](production-how-to-set-up-work-and-machine-centers.md)  
 [Настройка производства](production-configure-production-processes.md)  
 [Производство](production-manage-manufacturing.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  

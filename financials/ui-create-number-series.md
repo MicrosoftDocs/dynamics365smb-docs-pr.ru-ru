@@ -1,6 +1,6 @@
 ---
-title: "Практическое руководство. Создание серий номеров | Microsoft Docs"
-description: "Узнайте, как настроить серии номеров для присвоения уникальных кодов счетам и документам в Dynamics 365 Business edition."
+title: "Создание серий номеров | Microsoft Docs"
+description: "Узнайте, как настроить серии номеров для присвоения уникальных кодов счетам и документам в Finance and Operations, Business edition."
 documentationcenter: 
 author: SusanneWindfeldPedersen
 ms.service: dynamics365-financials
@@ -12,13 +12,13 @@ ms.search.keywords: numbers, numbering
 ms.date: 06/02/2017
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
-ms.openlocfilehash: 8605c5273ac69ff7a5b8b8dab59b0856795ed706
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: 3f50bc1153ccd6b58bc502974c042626ce696078
 ms.contentlocale: ru-ru
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 01/30/2018
 
 ---
-# <a name="how-to-create-number-series"></a>Практическое руководство. Создание серий номеров
+# <a name="create-number-series"></a>Создание серий номеров
 В каждой настраиваемой организации таким объектам, как счета главной книги, клиентов и поставщиков, счета и другие документы, следует присвоить уникальные идентификационные коды. Нумерация необходима не только для идентификации. Хорошо продуманная система нумерации позволяет повысить управляемость организации, упростить анализ и сократить количество ошибок, возникающих при вводе данных.
 
 > [!NOTE]  
@@ -58,6 +58,6 @@ ms.lasthandoff: 11/10/2017
 Теперь, после настройки атрибутов, требующих нумерации, можно использовать созданные связи для выбора связанных серий номеров.
 
 ## <a name="see-also"></a>См. также
-[Установка [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md)  
+[Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 

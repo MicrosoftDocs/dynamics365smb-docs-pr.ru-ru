@@ -13,13 +13,13 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
-ms.openlocfilehash: 45bfe558c8bdc1f7c0befc4c929e895c54b7d85f
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: 3f371a772f710576a70bac4808b15be091a61d66
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 01/30/2018
 
 ---
-# <a name="how-to-set-up-cost-objects"></a>Практическое руководство. Настройка объектов затрат
+# <a name="set-up-cost-objects"></a>Настройка объектов затрат
 Объекты затрат — это проекты, продукты или сервисы организации. Диаграмма объектов затрат аналогична информации об измерениях для главной книги. Диаграмму объектов затрат можно настроить одним из следующих способов:  
 
 * Перенос значений измерений главной книги в план объектов затрат. Все необходимые изменения можно внести после перевода.  

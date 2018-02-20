@@ -13,13 +13,13 @@ ms.search.keywords:
 ms.date: 09/05/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
-ms.openlocfilehash: 78170bd2bf64b110d5346855d5592837abf2b73e
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: ac9813b06da171f2da0e179f3b7d360f4dcae3f5
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 01/30/2018
 
 ---
-# <a name="how-to-set-up-standard-routing-lines"></a>Практическое руководство. Настройка стандартных строк маршрута
+# <a name="set-up-standard-routing-lines"></a>Настройка стандартных строк маршрута
 Использование стандартных задач упрощает создание и обслуживание маршрутов. Они позволяют быстро добавить дополнительные сведения в типовые операции.
 
 ## <a name="to-set-up-a-standard-task"></a>Чтобы настроить стандартную задачу
@@ -35,8 +35,8 @@ ms.lasthandoff: 09/22/2017
 3. Выберите нужную строку маршрута, выберите действие **Операции**, затем выберите действие **Инструменты**, **Персонал**, **Описание** или **Инструменты**.
 
 ## <a name="see-also"></a>См. также  
-[Практическое руководство. Создание маршрутов](production-how-to-create-routings.md)  
-[Практическое руководство. Создание производственных спецификаций](production-how-to-create-production-boms.md)     
+[Создание маршрутов](production-how-to-create-routings.md)  
+[Создание производственных спецификаций](production-how-to-create-production-boms.md)     
 [Настройка производства](production-configure-production-processes.md)   
 [Производство](production-manage-manufacturing.md)    
 [Планирование](production-planning.md)   

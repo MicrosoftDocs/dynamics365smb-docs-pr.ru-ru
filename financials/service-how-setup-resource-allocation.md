@@ -13,14 +13,14 @@ ms.search.keywords: resource, skill, service, zones
 ms.date: 08/22/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
-ms.openlocfilehash: 6c20c0b346186adad6e4b125dbd48bd0d3f56ab2
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: b16ba9366aefc108f39667678fe8ab70ce421b83
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 01/30/2018
 
 ---
 
-# <a name="how-to-set-up-resource-allocation"></a>Практическое руководство. Настройка распределения ресурсов
+# <a name="set-up-resource-allocation"></a>Настройка распределения ресурсов
 Для обеспечения хорошего качества выполнения сервисной задачи важно найти квалифицированный ресурс, обладающий квалификацией для выполнения работы. Можно настроить [!INCLUDE[d365fin](includes/d365fin_md.md)] таким образом, чтобы было легко выделить для работы сотрудника с требуемой квалификацией. В [!INCLUDE[d365fin](includes/d365fin_md.md)] это называется _распределением ресурсов_. Ресурсы можно распределять на основе квалификации, доступности или по принадлежности к той же зоне обслуживания, что и клиент. 
 
 Для использования распределения ресурсов необходимо настроить:  
@@ -80,10 +80,10 @@ ms.lasthandoff: 09/22/2017
     * Удалить коды квалификации или обновить их связь: выберите это параметр, если требуется изменить код квалификации только для данного товара. Код квалификации связанных сервисных товаров будет переопределен, то есть будет обновлено поле **Кем назначено**.  
   
 ## <a name="see-also"></a>См. также
-[Практическое руководство. Распределение ресурсов](service-how-to-allocate-resources.md)  
-[Практическое руководство. Настройка рабочих часов и часов работы сервиса](service-how-setup-work-service-hours.md)  
-[Практическое руководство. Настройка отчетности по неисправностям](service-how-setup-fault-reporting.md)  
-[Практическое руководство. Настройка кодов для стандартных сервисов](service-how-setup-service-coding.md)  
+[Распределение ресурсов](service-how-to-allocate-resources.md)  
+[Настройка рабочих часов и часов работы сервиса](service-how-setup-work-service-hours.md)  
+[Настройка отчетности по неисправностям](service-how-setup-fault-reporting.md)  
+[Настройка кодов для стандартных сервисов](service-how-setup-service-coding.md)  
  
 
 

@@ -13,13 +13,13 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
-ms.openlocfilehash: 3a257ba6434f8689a78e975811a0c5897b3836f8
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: 9564da28e9850e30e42ea2824043e25041f5adaa
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 01/30/2018
 
 ---
-# <a name="how-to-import-and-export-a-report-or-document-layout"></a>Практическое руководство. Импорт и экспорт макета отчета или документа
+# <a name="import-and-export-a-report-or-document-layout"></a>Импорт и экспорт макета отчета или документа
 Можно импортировать и экспортировать существующий пользовательский макет отчета в виде файла в расположении на компьютере или в сети. Например, можно экспортировать макет отчета, а затем отправить файл другому лицу для изменения. Это лицо может затем внести изменения в макет и вернуть файл, чтобы вы могли импортировать его обратно.  
   
 > [!IMPORTANT]  
@@ -52,6 +52,6 @@ ms.lasthandoff: 09/22/2017
  Исходный пользовательский макет отчета заменяется на импортированный макет отчета.  
   
 ## <a name="see-also"></a>См. также  
- [Практическое руководство. Создание и изменение пользовательского макета отчета](ui-how-create-custom-report-layout.md)   
+ [Создание и изменение пользовательского макета отчета](ui-how-create-custom-report-layout.md)   
  [Управление макетами отчетов и документов](ui-manage-report-layouts.md)  
  [Работа с отчетами](ui-work-report.md)    

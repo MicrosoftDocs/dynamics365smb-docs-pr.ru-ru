@@ -13,13 +13,13 @@ ms.search.keywords:
 ms.date: 09/04/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
-ms.openlocfilehash: a0261ee242abf0fedcfb22f4a22252636a0074b4
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: 3de644d63c57402b81a3d688fa6e533d717ae089
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 01/30/2018
 
 ---
-# <a name="how-to-create-production-orders-from-sales-orders"></a>Практическое руководство. Создание производственных заказов из заказов на продажу
+# <a name="create-production-orders-from-sales-orders"></a>Создание производственных заказов из заказов на продажу
 Можно создавать производственные заказы для произведенных товаров непосредственно из заказов на продажу.  
 
 ## <a name="to-create-a-production-order-from-a-sales-order"></a>Создание производственного заказа из заказа на продажу  
@@ -31,7 +31,7 @@ ms.lasthandoff: 09/22/2017
 5.  Выберите статус и тип заказа.  
 6.  Нажмите кнопку **Да**, чтобы создать производственный заказ.
 
-Также можно решить создать проектный производственный заказ. Дополнительные сведения см. в разделе [Практическое руководство. Планирование заказов проекта](production-how-to-plan-project-orders.md).   
+Также можно решить создать проектный производственный заказ. Дополнительные сведения см. в разделе [Планирование заказов проекта](production-how-to-plan-project-orders.md).   
 
 ## <a name="see-also"></a>См. также  
 [Настройка производства](production-configure-production-processes.md)  

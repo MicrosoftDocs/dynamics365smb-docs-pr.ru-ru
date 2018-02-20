@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 08/18/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 8b2e20e694279a8c06188e0e429ef3b4fb43aea2
-ms.openlocfilehash: 6df3619f0b458c3215ed5032dd24aabcfe7fe4a6
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: c5da0214548d1bcc2584db681a1974ada8d265ee
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/27/2017
+ms.lasthandoff: 01/30/2018
 
 ---
 # <a name="about-the-data-exchange-framework-in-included365finincludesd365finmdmd"></a>О структуре обмена данными в [!INCLUDE[d365fin](includes/d365fin_md.md)]
@@ -28,7 +28,7 @@ ms.lasthandoff: 09/27/2017
 
 ## <a name="see-also"></a>См. также  
 [Электронный обмен данными](across-data-exchange.md)  
-[Практическое руководство. Использование XML-схем для определения обмена данными](across-how-to-use-xml-schemas-to-prepare-data-exchange-definitions.md)  
+[Использование XML-схем для определения обмена данными](across-how-to-use-xml-schemas-to-prepare-data-exchange-definitions.md)  
 [Настройка обмена данными](across-set-up-data-exchange.md)  
 [Обмен данными](across-exchange-data.md)  
 [Входящие документы](across-income-documents.md)  

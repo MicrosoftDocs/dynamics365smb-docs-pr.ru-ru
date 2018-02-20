@@ -1,5 +1,5 @@
 ---
-title: "Бизнес-функциональность, поддерживаемая Dynamics 365, Business edition | Microsoft Docs"
+title: "Бизнес-функции, поддерживаемые Finance and Operations, Business edition | Microsoft Docs"
 Description: Provides a feature overview of all the business functions and departments that are supported by application areas, such as Finance, Inventory, and Project Management.
 services: project-madeira
 documentationcenter: 
@@ -13,10 +13,10 @@ ms.search.keywords: feature overview
 ms.date: 09/08/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a49e50213f808fb72b43dfa22a34833b306ef12d
-ms.openlocfilehash: 3b68f53f2ca2f1553b0d19a617ae58b25f29acdb
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: d764a759095e6cdf4e1157bc7b1f850800de3217
 ms.contentlocale: ru-ru
-ms.lasthandoff: 12/14/2017
+ms.lasthandoff: 01/30/2018
 
 ---
 # <a name="business-functionality"></a>Функциональные бизнес-возможности
@@ -48,7 +48,7 @@ ms.lasthandoff: 12/14/2017
 
 
 ## <a name="see-also"></a>См. также
-[Установка [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md)  
+[Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md)  
 [Добро пожаловать в [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 

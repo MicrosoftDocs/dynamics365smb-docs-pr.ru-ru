@@ -1,6 +1,6 @@
 ---
 title: "Определение кодов деловых отношений для контактов | Microsoft Docs"
-description: "Деловые отношения в Dynamics 365 помогают в маркетинге и показывают ваши деловые отношения с потенциальными и текущими клиентами и партнерами, например с банком или с поставщиком услуг."
+description: "Деловые отношения в Finance and Operations, Business edition помогают в маркетинге и показывают ваши деловые отношения с потенциальными и текущими клиентами и партнерами, например с банком или с поставщиком услуг."
 services: project-madeira
 documentationcenter: 
 author: jswymer
@@ -13,10 +13,10 @@ ms.search.keywords: marketing, prospect, contact, client, customer
 ms.date: 06/06/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
-ms.openlocfilehash: ee7373ae4b58ce0d31bed5fbf853ae8e039833d4
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: a72563f5057a1f9136a2d2b3aced6f028dc24051
 ms.contentlocale: ru-ru
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 01/30/2018
 
 ---
 # <a name="setting-up-business-relations-on-contact-companies"></a>Настройка деловых отношений в организациях контактов
@@ -46,7 +46,7 @@ ms.lasthandoff: 11/10/2017
 
 Количество деловых отношений, назначенных контакту, отображается в поле **Число деловых связей** в разделе **Сегментация** окна **Контакт**.
 
-После назначения контактам деловых отношений можно использовать эту информацию для выбора контактов для сегментов. Дополнительные сведения см. в разделе [Практическое руководство. Добавление контактов к сегментам](marketing-add-contact-segment.md).
+После назначения контактам деловых отношений можно использовать эту информацию для выбора контактов для сегментов. Дополнительные сведения см. в разделе [Добавление контактов к сегментам](marketing-add-contact-segment.md).
 
 ## <a name="see-also"></a>См. также
 [Создание контактных организаций](marketing-create-contact-companies.md)  

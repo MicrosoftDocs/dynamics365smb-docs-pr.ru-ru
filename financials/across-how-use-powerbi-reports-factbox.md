@@ -13,13 +13,13 @@ ms.search.keywords: business intelligence, KPI, Odata, Power App, SOAP, analysis
 ms.date: 06/02/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
-ms.openlocfilehash: 1c82ab613d8f1fc5e71a81e6eead60cf9c0bf196
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: 9b4190ca0ffbc0a922c6679fcf98367a72980eea
 ms.contentlocale: ru-ru
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 01/30/2018
 
 ---
-# <a name="viewing-list-data-in-power-bi-reports-in-dynamics-365-business-edition"></a>Просмотр данных в списках в отчетах Power BI в Dynamics 365 Business edition 
+# <a name="viewing-list-data-in-power-bi-reports-in-finance-and-operations-business-edition"></a>Просмотр данных в списках в отчетах Power BI в Finance and Operations, Business edition 
 [!INCLUDE[d365fin](includes/d365fin_md.md)] включает элемент управления информационной панелью на нескольких ключевых страницах списков, который предоставляет дополнительные сведения о данных в списке. При перемещении между строками в списке отчет обновляется и фильтруется в соответствии с выбранной операцией. Можно создать пользовательские отчеты для отображения в этом элементе управления, но существует несколько правил, которые следует соблюдать при создании отчетов для обеспечения требуемого поведения.  
 
 > [!NOTE]  
@@ -74,6 +74,6 @@ ms.lasthandoff: 11/10/2017
 ## <a name="see-also"></a>См. также
 [Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] как источника данных Power BI](across-how-use-financials-data-source-powerbi.md)  
 [Добро пожаловать в [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md)    
-[Установка [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md)    
+[Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md)    
 [Финансы](finance.md)  
 

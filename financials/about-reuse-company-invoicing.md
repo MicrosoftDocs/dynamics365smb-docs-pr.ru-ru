@@ -1,6 +1,6 @@
 ---
-title: "Использование Invoicing и Dynamics 365 | Microsoft Docs"
-description: "Обходное решение для доступа к Microsoft Invoicing при регистрации на Dynamics 365."
+title: "Использование Invoicing и Finance and Operations, Business edition | Microsoft Docs"
+description: "Обходное решение для доступа к Microsoft Invoicing при регистрации в Dynamics 365 for Finance and Operations, Business edition."
 author: edupont04
 ms.service: dynamics365-financials
 ms.topic: article
@@ -11,13 +11,13 @@ ms.search.keywords:
 ms.date: 11/22/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: aa56764b5f3210229ad21eae6891fb201462209c
-ms.openlocfilehash: db76c49d8f453b978e95d65afa14234cf9ccdffe
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: abceec5b1bc588e2842d0f512240c30eccbf6f8e
 ms.contentlocale: ru-ru
-ms.lasthandoff: 12/14/2017
+ms.lasthandoff: 01/30/2018
 
 ---
-# <a name="using-the-same-office-365-account-in-included365finincludesd365finmdmd-and-microsoft-invoicing"></a>Использование одной и той же учетной записи Office 365 в [!INCLUDE[d365fin](includes/d365fin_md.md)] и Microsoft Invoicing
+# <a name="using-the-same-office-365-account-in-included365finincludesd365finlongmdmd-and-microsoft-invoicing"></a>Использование одной и той же учетной записи Office 365 в [!INCLUDE[d365fin](includes/d365fin_long_md.md)] и Microsoft Invoicing
 При регистрации на пробную версию [!INCLUDE[d365fin](includes/d365fin_md.md)] можно перейти на 30-дневную фазу оценки, начать подписку или прекратить использование [!INCLUDE[d365fin](includes/d365fin_md.md)]. Во всех случаях при входе на портал Office может отобразиться плитка **Бизнес-центр**, которую можно нажать. Это часть подписки Office 365 Business Premium, поэтому не все пользователи увидят эту плитку на портале Office.  
 
 При доступе к бизнес-центру отобразится раздел **Выставление счетов**. Если открыть этот раздел, отобразится сообщение о невозможности получить доступ к Microsoft Invoicing, поскольку ваша учетная запись используется в [!INCLUDE[d365fin](includes/d365fin_md.md)].  
@@ -31,7 +31,7 @@ Invoicing и [!INCLUDE[d365fin](includes/d365fin_md.md)] используют о
 
 ### <a name="to-rename-your-company"></a>Переименование организации
 1.  Войдите в [!INCLUDE[d365fin](includes/d365fin_md.md)].  
-2.  Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок "Поиск страницы или отчета""), введите **Организации**, затем выберите связанную ссылку.  
+2.  Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Организации**, затем выберите связанную ссылку.  
 3.  В окне **Организации** нажмите кнопку **Изменить список**.  
 4.  Измените имя записи *Моя организация* на другое.  
 

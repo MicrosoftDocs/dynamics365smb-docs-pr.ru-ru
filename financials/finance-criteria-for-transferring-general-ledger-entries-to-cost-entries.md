@@ -13,10 +13,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
-ms.openlocfilehash: 59faad50504bff05e6cdb1c78d00553e85faf47e
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: 67cc593691b4d3fe6a13cd960dce150c1e552da0
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 01/30/2018
 
 ---
 # <a name="criteria-for-transferring-general-ledger-entries-to-cost-entries"></a>Критерии для переноса операций главной книги в операции затрат
@@ -41,7 +41,7 @@ ms.lasthandoff: 09/22/2017
 
 ## <a name="see-also"></a>См. также  
 [Учет по затратам](finance-manage-cost-accounting.md)  
- [Практическое руководство: перенос операций ГК в операции затрат](finance-how-to-transfer-general-ledger-entries-to-cost-entries.md)   
+ [Перенос операций ГК в операции затрат](finance-how-to-transfer-general-ledger-entries-to-cost-entries.md)   
  [Перемещение и операции учета затрат](finance-transfer-and-post-cost-entries.md)   
  [Об учете затрат](finance-about-cost-accounting.md)  
  [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

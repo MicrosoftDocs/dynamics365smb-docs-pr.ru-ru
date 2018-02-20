@@ -13,13 +13,13 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
-ms.openlocfilehash: 9163bdb48a10d9b36b670e4bc67c696fbade6b37
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: 67db510085c5a858c88565087683ffeeb4f77bd1
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 01/30/2018
 
 ---
-# <a name="how-to-manage-notification-templates"></a>Практическое руководство. Управление шаблонами уведомлений
+# <a name="manage-notification-templates"></a>Управление шаблонами уведомлений
 Пользователи потоков операций получают уведомления, поясняющие, какие шаги им следует предпринять, либо информирующие их о статусе подзадач процесса. Можно задать, кто и когда будет получать уведомление, указав утверждающих пользователей, график уведомления пользователей, а также отклики процесса для определения получателя уведомления. Дополнительные сведения см. в разделе [Настройка уведомлений рабочего процесса](across-setting-up-workflow-notifications.md).  
 
  Уведомления создаются на базе шаблонов, определяющих их структуру и содержимое. Содержимое шаблона уведомления можно экспортировать, изменить и затем импортировать в этот же или новый шаблон уведомлений. Это описано в следующих процедурах.  
@@ -76,10 +76,10 @@ ms.lasthandoff: 09/22/2017
 
 ## <a name="see-also"></a>См. также  
  [Настройка уведомлений рабочего процесса](across-setting-up-workflow-notifications.md)   
- [Практическое руководство. Настройка электронной почты](madeira-how-setup-email.md)   
- [Практическое руководство. Настройка пользователей рабочих процессов](across-how-to-set-up-workflow-users.md)   
- [Практическое руководство. Настройка утверждающих пользователей](across-how-to-set-up-approval-users.md)   
- [Практическое руководство. Создание рабочих процессов](across-how-to-create-workflows.md)   
+ [Настройка электронной почты](madeira-how-setup-email.md)   
+ [Настройка пользователей рабочих процессов](across-how-to-set-up-workflow-users.md)   
+ [Настройка утверждающих пользователей](across-how-to-set-up-approval-users.md)   
+ [Создание рабочих процессов](across-how-to-create-workflows.md)   
  [Использование очередей работ для планирования задач](admin-job-queues-schedule-tasks.md)   
  [Рабочий процесс](across-workflow.md)   
 

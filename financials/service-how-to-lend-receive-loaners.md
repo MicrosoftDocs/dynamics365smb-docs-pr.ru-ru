@@ -13,13 +13,13 @@ ms.search.keywords:
 ms.date: 08/28/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
-ms.openlocfilehash: ab8ac8e4cdfda63ed797415fcd183b410feea6bc
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: 06b697ee8335f5c24b61414e9d7aebc5add2c5b0
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 01/30/2018
 
 ---
-# <a name="how-to-lend-and-receive-loaners"></a>Практическое руководство. Предоставление и прием товаров для временного пользования
+# <a name="lend-and-receive-loaners"></a>Предоставление и прием товаров для временного пользования
 Можно предоставлять клиентам аренду, чтобы временно заменить сервисные товары, полученные вами для обслуживания.  
   
 ## <a name="to-lend-a-loaner-item"></a>Предоставление товара во временное пользование    
@@ -47,5 +47,5 @@ ms.lasthandoff: 09/22/2017
 5. В поле **Комментарий** введите комментарий. Можно ввести максимум 80 знаков. Если необходимо ввести дополнительный текст, перейдите на следующую строку. Можно заполнить столько строк, сколько необходимо.  
   
 ## <a name="see-also"></a>См. также  
-[Практическое руководство. Настройка программы предоставления товаров во временное пользование](service-how-setup-loaner-program.md)   
+[Настройка программы временного пользования](service-how-setup-loaner-program.md)   
 

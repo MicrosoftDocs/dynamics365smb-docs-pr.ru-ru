@@ -13,13 +13,13 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
-ms.openlocfilehash: c9944bc25131a5cb51015483511bd7d4854f4c1a
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: cc24989d2cf770cd88bbde23d483e3859ff4a68a
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 01/30/2018
 
 ---
-# <a name="how-to-trace-item-tracked-items"></a>Практическое руководство: отслеживание товаров, трассируемых по товарам
+# <a name="trace-item-tracked-items"></a>Трассировка товаров, трассируемых по товарам
 Можно просмотреть, где использовался товар, для которого требуется трассировка, включая то, как и где он был получен или произведен, перемещен, продан, потреблен или возвращен. Также можно найти все текущие экземпляры определенного серийного номера или номера партии в базе данных. Функции, которые позволяют это сделать: "Навигатор" и "Трассировка товаров".  
 
  Эти функции могут быть особенно удобны в контроле качества, когда необходимо узнать, какие клиенты получили продукты с конкретным номером лота или из какого лота поступил дефектный компонент.  
@@ -69,7 +69,7 @@ ms.lasthandoff: 09/22/2017
 [Наличие](inventory-manage-inventory.md)  
 [Сведения о проектировании. Трассировка товаров](design-details-item-tracking.md)
 [Сведения о проектировании. Отслеживание и резервирование товара](design-details-item-tracking-and-reservations.md)  
-[Практическое руководство. Резервирование товаров](inventory-how-to-reserve-items.md)  
+[Резервирование товаров](inventory-how-to-reserve-items.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 [Пошаговое руководство. Трассировка серийных номеров и номеров партии](walkthrough-tracing-serial-lot-numbers.md)
 

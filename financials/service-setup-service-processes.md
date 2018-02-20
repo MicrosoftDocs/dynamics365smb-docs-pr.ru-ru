@@ -13,13 +13,13 @@ ms.search.keywords: service, number sequences, setup, warnings, fee, contracts, 
 ms.date: 08/22/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
-ms.openlocfilehash: 708569e88d443f1dc4f1d17d8015da98cf186e6d
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: 87a18af2c88955d4d0b78eb37fea161e3332c4b3
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 01/30/2018
 
 ---
-# <a name="how-to-configure-service-processes"></a>Практическое руководство. Настройка сервисных процессов
+# <a name="configure-service-processes"></a>Настройка сервисных процессов
 Ниже приведены некоторые примеры настроек, которые могут быть применены к процессами сервисного управления:  
   
 * Некоторые общие настройки для различных процессов, таких как предупреждения, вычисления следующего сервиса для сервисных товаров, начальный взнос для оценки, используемый уровень отчетности по неисправностям и так далее.  
@@ -33,10 +33,10 @@ ms.lasthandoff: 09/22/2017
 2. Заполните соответствующим образом поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
 
 ## <a name="see-also"></a>См. также  
-[Практическое руководство. Настройка отчетности по неисправностям](service-how-setup-fault-reporting.md)  
-[Практическое руководство. Настройка распределения ресурсов](service-how-setup-resource-allocation.md)  
-[Практическое руководство. Настройка кодов для стандартных сервисов](service-how-setup-service-coding.md)  
-[Практическое руководство. Настройка дополнительных затрат для сервисов](service-how-setup-service-costs-pricing.md)  
-[Практическое руководство. Настройка устранения проблем](service-how-setup-troubleshooting.md)  
+[Настройка отчетности по неисправностям](service-how-setup-fault-reporting.md)  
+[Настройка распределения ресурсов](service-how-setup-resource-allocation.md)  
+[Настройка кодов для стандартных сервисов](service-how-setup-service-coding.md)  
+[Настройка дополнительных затрат для сервисов](service-how-setup-service-costs-pricing.md)  
+[Настройка устранения проблем](service-how-setup-troubleshooting.md)  
 [Сервисный центр](service-service.md)  
 

@@ -1,6 +1,6 @@
 ---
-title: "Настройка Dynamics 365 Business edition | Microsoft Docs"
-description: "Создание, демонстрация и продвижение приложений и расширений для Dynamics 365 Business edition."
+title: "Настройка Dynamics 365 for Finance and Operations, Business edition | Microsoft Docs"
+description: "Создание, демонстрация и продвижение приложений и расширений для Finance and Operations, Business edition."
 services: project-madeira
 documentationcenter: 
 author: edupont04
@@ -13,17 +13,17 @@ ms.search.keywords: app, add-in, manifest, customize
 ms.date: 06/02/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
-ms.openlocfilehash: b0034f678b59f988ed23257f9aa579cc3a8a7628
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: 8c8f01a97fa215932fff0adc6baff2be13621585
 ms.contentlocale: ru-ru
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 01/30/2018
 
 ---
 # <a name="extending-included365finlongincludesd365finlongmdmd"></a>Расширение [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]
 Существует множество преимуществ использования [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)] как платформы для конструкторов приложений:
 
 * Пополняйте [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)], проверенное сетевое решение Майкрософт, своими профессиональными знаниями.  
-* Используйте бренд Dynamics 365 — бренд, который знают и которому доверяют миллионы пользователей.  
+* Используйте бренд Finance and Operations, Business edition — бренд, который знают и которому доверяют миллионы пользователей.  
 * Привлекайте больше клиентов к своим бизнес-приложениям с помощью [Microsoft AppSource](https://appsource.microsoft.com/).  
 * Достигайте большего с помощью платформы, предлагающей современный подход и объем предложений.  
 * Объединяйтесь с интеллектуальными бизнес-приложениями, такими как PowerApps, Flow, Power BI, Cortana Intelligence и многие другие.  
@@ -49,7 +49,7 @@ ms.lasthandoff: 11/10/2017
 Дополнительные сведения о процессе проверки и о том, как опубликовать приложение, см. в документе [Опубликуйте приложение.pdf](https://go.microsoft.com/fwlink/?linkid=841517) в центре загрузки.
 
 ## <a name="learn-more-about-extensions-v20"></a>Подробнее о расширениях v2.0
-Новые инструменты разработки, которые позволяют создавать расширения v2.0, в настоящее время находятся на этапе предварительного ознакомления и вскоре будут доступны в службе Dynamics 365 Business edition. Если вы хотите прямо сейчас познакомиться с новыми инструментами или подробнее узнать о расширениях версии 2.0, перейдите по адресу [aka.ms/GetStartedWithApps](http://aka.ms/GetStartedWithApps).  
+Новые инструменты разработки, которые позволяют создавать расширения v2.0, в настоящее время находятся на этапе предварительного ознакомления и вскоре будут доступны в службе Finance and Operations, Business edition. Если вы хотите прямо сейчас познакомиться с новыми инструментами или подробнее узнать о расширениях версии 2.0, перейдите по адресу [aka.ms/GetStartedWithApps](http://aka.ms/GetStartedWithApps).  
 
 ## <a name="need-help"></a>Нужна помощь?
 Если вам необходимо обучение, вы можете связаться со специалистом в области приложения из следующего списка:
@@ -70,7 +70,7 @@ ms.lasthandoff: 11/10/2017
 
 ## <a name="further-resources"></a>Дополнительные ресурсы
 Дополнительные ресурсы по разработке приложений см. на тематической странице DLP [Тематическая страница DLP](https://mbspartner.microsoft.com/BFI/Topic/76). Вот некоторые из них:
--   [Регистрация пользователей и последующее выставление счетов ](http://download.microsoft.com/download/3/2/0/320D0286-8810-4A8F-B7DD-523ED87D441B/FAQ on apps for Dynamics 365 Business edition .pdf)
+-   [Регистрация пользователей и последующее выставление счетов ](http://download.microsoft.com/download/3/2/0/320D0286-8810-4A8F-B7DD-523ED87D441B/FAQ on apps for Dynamics 365 for Financials.pdf)
 
 
 
@@ -79,4 +79,6 @@ ms.lasthandoff: 11/10/2017
 [Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью расширений](ui-extensions.md)  
 [https://appsource.microsoft.com](https://appsource.microsoft.com/en-us/marketplace/apps?product=dynamics-365-for-financials&page=1)  
 
-## [!INCLUDE[d365fin](includes/free_trial_md.md)]
+## [!INCLUDE[d365fin](includes/free_trial_md.md)]  
+## [!INCLUDE[d365fin](includes/training_link_md.md)]
+

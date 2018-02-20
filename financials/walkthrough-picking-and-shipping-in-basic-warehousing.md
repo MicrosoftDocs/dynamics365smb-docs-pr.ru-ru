@@ -1,6 +1,6 @@
 ---
 title: "Пошаговое руководство. Подбор и отгрузка в основных складских конфигурациях | Документы Майкрософт"
-description: "В Dynamics 365 исходящие процессы по подбору и отгрузке могут быть выполнены четырьмя способами при помощи различных функций в зависимости от уровня сложности склада."
+description: "В Finance and Operations, Business edition исходящие процессы по подбору и отгрузке могут быть выполнены четырьмя способами при помощи различных функций в зависимости от уровня сложности склада."
 author: SorenGP
 ms.service: dynamics365-financials
 ms.topic: article
@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 09/07/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: aa56764b5f3210229ad21eae6891fb201462209c
-ms.openlocfilehash: 2ef41d6b1d224c016da4663d3059717c11611d92
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: 41a23df0e19bda1262dafbfaf89df7518b2b40b6
 ms.contentlocale: ru-ru
-ms.lasthandoff: 12/14/2017
+ms.lasthandoff: 01/30/2018
 
 ---
 # <a name="walkthrough-picking-and-shipping-in-basic-warehouse-configurations"></a>Пошаговое руководство. Подбор и отгрузка в основных складских конфигурациях
@@ -119,12 +119,12 @@ ms.lasthandoff: 12/14/2017
     Теперь 30 громкоговорителей зарегистрированы как подобранные из ячеек С-01-0001 и С-01-0002, и создана отрицательная операция товарной книги, отражающая учтенную расходную накладную продажи.  
 
 ## <a name="see-also"></a>См. также  
- [Практическое руководство. Подбор товаров с помощью подбора запасов](warehouse-how-to-pick-items-with-inventory-picks.md)   
- [Практическое руководство. Подбор товаров для складской отгрузки](warehouse-how-to-pick-items-for-warehouse-shipment.md)   
- [Практическое руководство. Настройка базовых складов с помощью зон операций](warehouse-how-to-set-up-basic-warehouses-with-operations-areas.md)   
- [Практическое руководство. Перемещение компонентов в производственную зону в основных конфигурациях склада](warehouse-how-to-move-components-to-an-operation-area-in-basic-warehousing.md)   
- [Практическое руководство. Подбор для производства или сборки](warehouse-how-to-pick-for-production.md)   
- [Практическое руководство. Перемещение специальных товаров в основных конфигурациях склада](warehouse-how-to-move-items-ad-hoc-in-basic-warehousing.md)   
+ [Подбор товаров с помощью подбора запасов](warehouse-how-to-pick-items-with-inventory-picks.md)   
+ [Подбор товаров для складской отгрузки](warehouse-how-to-pick-items-for-warehouse-shipment.md)   
+ [Настройка базовых складов с помощью зон операций](warehouse-how-to-set-up-basic-warehouses-with-operations-areas.md)   
+ [Перемещение компонентов в производственную зону в базовых конфигурациях склада](warehouse-how-to-move-components-to-an-operation-area-in-basic-warehousing.md)   
+ [Подбор для производства или сборки](warehouse-how-to-pick-for-production.md)   
+ [Перемещение специальных товаров в базовых конфигурациях склада](warehouse-how-to-move-items-ad-hoc-in-basic-warehousing.md)   
  [Сведения о проектировании: исходящий складской поток](design-details-outbound-warehouse-flow.md)   
  [Пошаговые описания бизнес-процессов](walkthrough-business-process-walkthroughs.md)  
  [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

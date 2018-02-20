@@ -13,13 +13,13 @@ ms.search.keywords: purchasing agent
 ms.date: 03/29/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
-ms.openlocfilehash: 98b9dfce0b0a9723992fe3de77a1130ca2b05e7a
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: 66e6233df8204476e5f856e230e5e3d502d309c4
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 01/30/2018
 
 ---
-# <a name="how-to-set-up-purchasers"></a>Практическое руководство. Настройка менеджеров по закупкам
+# <a name="set-up-purchasers"></a>Настройка менеджеров по закупкам
 Если несколько менеджеров работают в родственной организации, то можно выбрать их в окне и присвоить им код. Затем можно использовать данные коды для подготовки статистики и для фильтрации информации в печатаемых отчетах.
 
 ## <a name="to-set-up-purchasers"></a>Настройка менеджеров

@@ -13,13 +13,13 @@ ms.search.keywords:
 ms.date: 09/08/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
-ms.openlocfilehash: 1f3a90b9bc9cce2e138e490d3064f6d505a088b9
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: ec7a0c7c34e164b6ca6c8e65938a8c5e53e65514
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 01/30/2018
 
 ---
-# <a name="how-to-create-bin-contents"></a>Практическое руководство. Создание содержимого ячейки
+# <a name="create-bin-contents"></a>Создание содержимого ячейки
 После настройки ячеек можно настроить содержимое ячеек. Другими словами, можно задавать товары, которые предполагается хранить в каждой конкретной ячейке, и правила заполнения ячейки конкретным товаром. Это можно сделать вручную в окне **Содержимое ячейки** или автоматически с помощью окна **Создание журнала содержимого ячейки**.
 
 ## <a name="to-create-bin-content-manually"></a>Создания содержимого ячейки вручную  
@@ -56,7 +56,7 @@ ms.lasthandoff: 09/22/2017
 В данном журнале вы работаете с несколькими строками содержимого ячейки для нескольких ячеек и, следовательно, получаете хороший обзор того, что помещается в различные ячейки в данной зоне, пролете или ряду.  
 
 ## <a name="see-also"></a>См. также
-[Практическое руководство. Расчет пополнения ячеек](warehouse-how-to-calculate-bin-replenishment.md)    
+[Расчет пополнения ячеек](warehouse-how-to-calculate-bin-replenishment.md)    
 [Управление складом](warehouse-manage-warehouse.md)  
 [Наличие](inventory-manage-inventory.md)  
 [Настройка управления складом](warehouse-setup-warehouse.md)     

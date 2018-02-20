@@ -12,10 +12,10 @@ ms.workload: na
 ms.date: 05/12/2017
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
-ms.openlocfilehash: 349ad16c943f7efef7ca920f7adad82c8a1c0d5e
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: 9f389fb58252100eb1302d4b546bef58902f3208
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 01/30/2018
 
 ---
 # <a name="post-documents-and-journals"></a>Учет документов и журналов
@@ -30,8 +30,8 @@ ms.lasthandoff: 09/22/2017
 | Получение сведений об учете документов покупки. |[Учет покупок](ui-post-purchases.md) |
 | Получение сведений об учете документов продажи. |[Учет продаж](ui-post-sales.md) |
 | Получение сведений об учете финансовых журналов. |[Работа с финансовыми журналами](ui-work-general-journals.md) |
-| Предварительный просмотр в окне операций, которые будут созданы при учете. |[Практическое руководство. Предварительный просмотр результатов учета](ui-how-preview-post-results.md) |
-| Предварительный просмотр в отчете операций, которые будут созданы при учете. |[Практическое руководство. Просмотр отчетов о тестировании перед учетом](ui-how-view-test-reports-posting.md) |
+| Предварительный просмотр в окне операций, которые будут созданы при учете. |[Предварительный просмотр результатов учета](ui-how-preview-post-results.md) |
+| Предварительный просмотр в отчете операций, которые будут созданы при учете. |[Просмотр тестовых отчетов перед учетом](ui-how-view-test-reports-posting.md) |
 
 ## <a name="see-also"></a>См. также
 [Общие бизнес-функции](ui-across-business-areas.md)  

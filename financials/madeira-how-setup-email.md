@@ -1,6 +1,6 @@
 ---
-title: "Настройка электронной почты в Dynamics 365 Business edition | Microsoft Docs"
-description: "Описывается, как использовать сервер SMTP организации для отправки и получения сообщений электронной почты в Dynamics 365 либо как использовать настройки сервера электронной почты, созданные в подписке Office 365."
+title: "Настройка электронной почты в Finance and Operations, Business edition | Microsoft Docs"
+description: "Описывается, как использовать сервер SMTP организации для отправки и получения сообщений электронной почты в Finance and Operations, Business edition либо как использовать настройки сервера электронной почты, созданные в подписке Office 365."
 documentationcenter: 
 author: edupont04
 ms.service: dynamics365-financials
@@ -12,13 +12,13 @@ ms.search.keywords: SMTP, mail, Office 365
 ms.date: 06/02/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
-ms.openlocfilehash: 59d97a3bd838c80e66d62ed16c2bcb1c525938c4
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: 2389c97c37a2b35da01c846b32a81a1c7bbf2bad
 ms.contentlocale: ru-ru
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 01/30/2018
 
 ---
-# <a name="how-to-set-up-email-manually-or-using-the-assisted-setup"></a>Практическое руководство. Настройка электронной почты вручную или с помощью сопровождаемой настройки
+# <a name="set-up-email-manually-or-using-the-assisted-setup"></a>Настройка электронной почты вручную или с помощью мастера настройки
 Для отправки и получения сообщений электронной почты в [!INCLUDE[d365fin](includes/d365fin_md.md)] следует заполнить поля в окне **Настройка эл. почты (SMTP)**.
 
 > [!NOTE]  
@@ -35,8 +35,8 @@ ms.lasthandoff: 11/10/2017
 
 ## <a name="see-also"></a>См. также  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
-[Установка [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md)  
-[Практическое руководство. Отправка документов по электронной почте](ui-how-send-documents-email.md)  
+[Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md)  
+[Отправка документов по электронной почте](ui-how-send-documents-email.md)  
 [Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью расширений](ui-extensions.md)  
 [Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] в качестве рабочего почтового ящика в Outlook](madeira-outlook.md)  
 [Получение [!INCLUDE[d365fin](includes/d365fin_md.md)] на мобильном устройстве](install-mobile-app.md)

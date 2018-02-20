@@ -13,10 +13,10 @@ ms.search.keywords: personalization
 ms.date: 06/02/2017
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
-ms.openlocfilehash: 35a075d5c77dfacb4f817446ebdfd0f137a19a1a
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: f3ba7676ec2312c78b9d3cc7883f79db936cb2d7
 ms.contentlocale: ru-ru
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 01/30/2018
 
 ---
 # <a name="displaying-lists-in-different-ways"></a>Отображение списков различными способами
@@ -28,6 +28,6 @@ ms.lasthandoff: 11/10/2017
 Чтобы импортировать изображение для конкретного товара, откройте карточку **Товар**, выберите **Изображение** справа и выберите **Импорт**. Аналогично можно экспортировать изображение в файл или удалить картину для товара.  
 
 ## <a name="see-also"></a>См. также
-[Работа с [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](ui-work-product.md)  
-[Практическое руководство. Регистрация новых товаров](inventory-how-register-new-items.md)  
+[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Регистрация новых товаров](inventory-how-register-new-items.md)  
 

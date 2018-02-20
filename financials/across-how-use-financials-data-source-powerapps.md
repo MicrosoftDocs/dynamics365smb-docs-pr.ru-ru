@@ -13,10 +13,10 @@ ms.search.keywords: Odata, Power App, SOAP
 ms.date: 06/02/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
-ms.openlocfilehash: 694affae6dfe3015fdc73bf9e2d9dfe3357dfae7
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: 40f8d00c8ee064fdee4b676e4863279ec9e50d6d
 ms.contentlocale: ru-ru
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 01/30/2018
 
 ---
 # <a name="connecting-to-your-financials-data-to-build-a-business-app-using-powerapps"></a>Подключение к данным Financials для создания бизнес-приложения с помощью PowerApps
@@ -32,7 +32,7 @@ ms.lasthandoff: 11/10/2017
 
    PowerApps Studio для Windows — это приложение рабочего стола, используемое для создания и публикации PowerApps. PowerApps Studio для сети — это веб-решение, используемое для создания и публикации PowerApps.
 4. Следующий шаг создания PowerApp — выбор данных. Щелкните значок стрелки, а затем выберите параметр **Новое подключение** в левом верхнем углу страницы.
-5. В списке доступных подключений выберите **Dynamics 365 Business edition**.
+5. В списке доступных подключений выберите **Dynamics 365 for Finance and Operations, Business edition**.
 6. PowerApps отобразит страницу подключения с запросом на ввод информации, необходимой для подключения к данным [!INCLUDE[d365fin](includes/d365fin_md.md)]. Чтобы подключиться, следует указать URL-адрес OData, имя пользователя, пароль и название организации.
 
    Для параметра *URL-адрес OData* можно скопировать URL-адрес OData V4 любой из веб-служб, перечисленных на странице **Веб-службы** в [!INCLUDE[d365fin](includes/d365fin_md.md)], например `https://mycompany.financials.dynamics.com:7048/MS/ODataV4/`.  
@@ -51,11 +51,11 @@ ms.lasthandoff: 11/10/2017
    > [!NOTE]  
 >    После успешного подключения к [!INCLUDE[d365fin](includes/d365fin_md.md)] вводить URL-адрес OData, имя пользователя или пароль повторно не требуется.
 
-На этом шаге вы успешно подключились с данным Dynamics 365 и готовы начать создание PowerApp. Дополнительные сведения см. в разделе [Документация PowerApps](https://powerapps.microsoft.com/tutorials/getting-started/).
+На этом шаге вы успешно подключились с данным Finance and Operations, Business edition и готовы начать создание PowerApp. Дополнительные сведения см. в разделе [Документация PowerApps](https://powerapps.microsoft.com/tutorials/getting-started/).
 
 ## <a name="see-also"></a>См. также
 [Добро пожаловать в [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md)  
 [Импорт бизнес-данных из других финансовых систем](upload-data.md)  
-[Установка [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md)  
+[Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md)  
 [Финансы](finance.md)  
 

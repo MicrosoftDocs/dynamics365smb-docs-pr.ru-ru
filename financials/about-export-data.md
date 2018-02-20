@@ -1,6 +1,6 @@
 ---
 title: "Экспорт данных из Financials в Excel | Microsoft Docs"
-description: "Вы можете экспортировать финансовые отчеты и данные бизнес-аналитики из Dynamics 365 Business edition в Excel или открыть данные Financials в Excel."
+description: "Вы можете экспортировать финансовые отчеты и данные бизнес-аналитики из Finance and Operations, Business edition в Excel или открыть данные Financials в Excel."
 services: project-madeira
 documentationcenter: 
 author: edupont04
@@ -13,14 +13,14 @@ ms.search.keywords: analysis, reporting, financial report, business intelligence
 ms.date: 06/02/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
-ms.openlocfilehash: 36d3e31300fbdc3a29f345a331cabbf50875c77f
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: 6f82017a0e5178e39b5c06e4d52c6e35ec84d848
 ms.contentlocale: ru-ru
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 01/30/2018
 
 ---
 # <a name="exporting-your-business-data-to-excel"></a>Экспорт бизнес-данных в Excel
-Если вы хотите работать с данными из [!INCLUDE[d365fin](includes/d365fin_md.md)] в Excel, вы можете открыть все списки в Excel и работать с ними там. Аналогично, если требуется отменить подписку на [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)], вы можете экспортировать данные в Excel, чтобы забрать их с собой.
+Если вы хотите работать с данными из [!INCLUDE[d365fin](includes/d365fin_md.md)] в Excel, вы можете открыть все списки в Excel и работать с ними там. Аналогично, если требуется отменить подписку на [!INCLUDE[d365fin](includes/d365fin_md.md)], вы можете экспортировать данные в Excel, чтобы забрать их с собой.
 
 ## <a name="opening-lists-in-excel"></a>Открытие списков в Excel
 Можно открыть данные в Excel из любого журнала, списка или листа. Для откройте требуемую станицу и выберите **Открыть в Excel**. Например, откройте список клиентов (поиск по слову **Клиенты**) и выберите **Открыть в Excel**. Ваш браузер выдаст запрос на открытие или сохранение созданной книги Excel.  
@@ -60,12 +60,12 @@ ms.lasthandoff: 11/10/2017
 * Менеджеры  
 
 > [!NOTE]  
->   Если настроено несколько организаций в [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)], необходимо экспортировать соответствующие данные из каждой организации.
+>   Если настроено несколько организаций в [!INCLUDE[d365fin](includes/d365fin_md.md)], необходимо экспортировать соответствующие данные из каждой организации.
 
 ## <a name="see-also"></a>См. также
-[Отмена подписки [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](madeira-cancel.md)  
+[Отмена подписки [!INCLUDE[d365fin](includes/d365fin_md.md)]](madeira-cancel.md)  
 [Импорт бизнес-данных из других финансовых систем](upload-data.md)  
 [Финансы](finance.md)  
 [Общие бизнес-функции](ui-across-business-areas.md)  
-[Работа с [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](ui-work-product.md)  
+[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 

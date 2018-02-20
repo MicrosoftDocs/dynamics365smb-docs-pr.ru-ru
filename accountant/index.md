@@ -11,10 +11,10 @@ ms.search.keywords: setup wizard, accountant
 ms.date: 10/23/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
-ms.openlocfilehash: 021ca5cebb5de3357a36c802a725d806c592e40f
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: 419c13f4d7b35f66fae04d71d269208d9c172613
 ms.contentlocale: ru-ru
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 01/30/2018
 
 ---
 # <a name="welcome-to-included365acclongincludesd365acclongmdmd"></a>Добро пожаловать в [!INCLUDE[d365acc_long](includes/d365acc_long_md.md)]
@@ -26,7 +26,7 @@ ms.lasthandoff: 11/10/2017
 
 Получить доступ к [!INCLUDE[d365acc](includes/d365acc_md.md)] можно, зарегистрировавшись на странице [Dynamics 365 — Accountant Hub на Microsoft.com](https://www.microsoft.com/en-us/dynamics365/financial-insights-for-accountants). Регистрация бесплатна, и вы сможете быстро начать работу и добавить своих клиентов на панель мониторинга. Дополнительные сведения см. в разделе [Начало работы с Accountant Hub](get-started.md).  
 
-В текущей версии [!INCLUDE[d365acc](includes/d365acc_md.md)] вы можете добавлять клиентов, которые используют [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)] для управления своей организацией.  
+В текущей версии [!INCLUDE[d365acc](includes/d365acc_md.md)] вы можете добавлять клиентов, которые используют [!INCLUDE[d365fin](includes/d365fin_long_md.md)] для управления своей организацией.  
 
 ## <a name="see-also"></a>См. также
 [Документация по Microsoft Dynamics 365](https://docs.microsoft.com/en-us/dynamics365/#pivot=solutions&panel=solutions_financials)  

@@ -13,13 +13,13 @@ ms. search.keywords: app, add-in, manifest, customize, budget
 ms.date: 03/29/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
-ms.openlocfilehash: b4f49d7d103bebeb6512d825a68c5941c8835214
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: 6151889b4c002fd6e72dbf0a9f5585f039509bbb
 ms.contentlocale: ru-ru
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 01/30/2018
 
 ---
-# <a name="sales-and-inventory-forecast-for-dynamics-365-business-edition"></a>Прогноз продаж и запасов для Dynamics 365 Business edition 
+# <a name="sales-and-inventory-forecast-for-finance-and-operations-business-edition"></a>Прогноз продаж и запасов для Finance and Operations, Business edition 
 Управление запасами представляет собой компромисс между обслуживанием клиентов и управлением себестоимостью. В одной стороны, низкие запасы требуют меньшего оборотного капитала, но, с другой стороны, отсутствие товара на складе потенциально ведет к упущенным продажам. Расширение прогноза продаж и запасов прогнозирует потенциальные продажи с использованием данных за прошедшие периоды и предоставляет ясный обзор ожидаемых случаев исчерпания складских запасов. На основании прогноза расширение помогает создавать запросы на пополнение для ваших поставщиков и экономит ваше время.  
 
 ## <a name="setting-up-forecasting"></a>Настройка прогнозирования

@@ -1,6 +1,6 @@
 ---
 title: "Использование расширения для миграции данных QuickBooks | Microsoft Docs"
-description: "Описывается, как использовать расширение для миграции клиентов, поставщиков, товаров и счетов из QuickBooks Online в Dynamics 365."
+description: "Описывает, как использовать расширение для миграции клиентов, поставщиков, товаров и счетов из QuickBooks Online в Finance and Operations, Business edition."
 author: bholtorf
 ms.service: dynamics365-financials
 ms.topic: article
@@ -11,14 +11,14 @@ ms. search.keywords: extension, migrate, data, QuickBooks, import
 ms.date: 05/24/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
-ms.openlocfilehash: e73db91a37fd5aee249de032d231df2c5e36b4ba
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: 8ed245276a6bebd369a3ec32791a9939e8db5aa1
 ms.contentlocale: ru-ru
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 01/30/2018
 
 ---
 
-# <a name="the-quickbooks-online-data-migration-extension-for-dynamics-365-business-edition"></a>Расширение для миграции данных QuickBooks Online для Dynamics 365 Business edition
+# <a name="the-quickbooks-online-data-migration-extension-for-finance-and-operations-business-edition"></a>Расширение "Миграция данных QuickBooks Online" для Finance and Operations, Business edition
 Это расширение входит в руководстве по сопровождаемой настройке **Миграция данных**, которое помогает переносить важные бизнес-данные из QuickBooks Online в [!INCLUDE[d365fin](includes/d365fin_md.md)]. Например, это бывает полезно, если ваш бизнес расет, и вы решили обновить свое приложение для управления бизнесом и перейти на [!INCLUDE[d365fin](includes/d365fin_md.md)].
 
 ## <a name="what-data-can-i-import-from-quickbooks-online"></a>Какие данные можно импортировать из QuickBooks Online?

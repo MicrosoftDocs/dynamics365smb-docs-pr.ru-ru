@@ -1,6 +1,6 @@
 ---
-title: "Обзор задач для настройки Dynamics 365 Business edition | Microsoft Docs"
-description: "Описываются задачи по настройке, инициализации и конфигурированию Dynamics 365 Business edition в соответствии с вашими потребностями."
+title: "Обзор задач по настройке Finance and Operations, Business edition | Microsoft Docs"
+description: "Описываются задачи по настройке, инициализации и конфигурированию Finance and Operations, Business edition в соответствии с вашими потребностями."
 author: edupont04
 ms.service: dynamics365-financials
 ms.topic: article
@@ -11,13 +11,13 @@ ms.search.keywords: configure, initialize
 ms.date: 09/01/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: a49e50213f808fb72b43dfa22a34833b306ef12d
-ms.openlocfilehash: 7acca4df366752355e5bf28ace6c82fbca196725
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: 14d3c2639fcbc6c0a1ecf47fd89a2c0452e06fb9
 ms.contentlocale: ru-ru
-ms.lasthandoff: 12/14/2017
+ms.lasthandoff: 01/30/2018
 
 ---
-# <a name="setting-up-included365finlongincludesd365finlongmdmd"></a>Настройка [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]
+# <a name="setting-up-included365finincludesd365finmdmd"></a>Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)]
 [!INCLUDE[d365fin](includes/d365fin_md.md)] содержит стандартные конфигурации для большинства бизнес-процессов, но вы можете изменить их в соответствии с потребностями организации.
 
 Например, в план счетов подставлены готовые к использованию номера счетов учета. Конечно, вы можете изменить план счетов в соответствии со своими потребностями. Дополнительные сведения см. в разделе [Финансы](finance.md).
@@ -38,10 +38,10 @@ ms.lasthandoff: 12/14/2017
 |Определить общие правила и значения для складских процессов, а также конкретные параметры обработки на каждом складе.|[Настройка управления складом](warehouse-setup-warehouse.md)|
 |Подготовка производственных спецификаций и маршрутов для определения, как производятся конечные товары, и подготовка машинных или производственных центров для выполнения необходимых операций.|[Настройка производства](production-configure-production-processes.md)|
 | Настройка уникальных идентификационных кодов для записей, таких как карточки, документы и строки журнала, чтобы отслеживать их в системе. |[Создание серий номеров](ui-create-number-series.md) |
-| Настройка окна **Настройка эл. почты (SMTP)** для отправки и получения сообщений электронной почты из документов в [!INCLUDE[d365fin](includes/d365fin_md.md)]. |[Практическое руководство. Настройка электронной почты](madeira-how-setup-email.md) |
-| Настройка уникальных идентификационных кодов. |[Практическое руководство. Создание серий номеров](ui-create-number-series.md) |
+| Настройка окна **Настройка эл. почты (SMTP)** для отправки и получения сообщений электронной почты из документов в [!INCLUDE[d365fin](includes/d365fin_md.md)]. |[Настройка электронной почты](madeira-how-setup-email.md) |
+| Настройка уникальных идентификационных кодов. |[Создание серий номеров](ui-create-number-series.md) |
 
-Для некоторых областей требуется, чтобы вы были администратором в вашей подписке [!INCLUDE[d365fin](includes/d365fin_md.md)]. Дополнительные сведения см. в разделе [Настройка и администрирование в [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](admin-setup-and-administration.md).  
+Для некоторых областей требуется, чтобы вы были администратором в вашей подписке [!INCLUDE[d365fin](includes/d365fin_md.md)]. Дополнительные сведения см. в разделе [Настройка и администрирование в [!INCLUDE[d365fin](includes/d365fin_md.md)]](admin-setup-and-administration.md).  
 
 ## <a name="see-also"></a>См. также
 [Финансы](finance.md)  
@@ -58,5 +58,6 @@ ms.lasthandoff: 12/14/2017
 [Создание новых организаций в [!INCLUDE[d365fin](includes/d365fin_md.md)]](about-new-company.md)  
 [Добро пожаловать в [!INCLUDE[d365fin](includes/d365fin_md.md)]](index.md)  
 
-## [!INCLUDE[d365fin](includes/free_trial_md.md)]
+## [!INCLUDE[d365fin](includes/free_trial_md.md)]  
+## [!INCLUDE[d365fin](includes/training_link_md.md)]
 

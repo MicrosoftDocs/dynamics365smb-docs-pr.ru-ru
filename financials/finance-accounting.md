@@ -1,6 +1,6 @@
 ---
 title: "Работа бухгалтера в Financials | Microsoft Docs"
-description: "Узнайте о портале бухгалтера в Dynamics 365 Business edition и ролевом центре \"Бухгалтер\", которые позволяют организовать работу внутренних и внешних бухгалтеров в организации-клиенте."
+description: "Узнайте о портале бухгалтера в Finance and Operations, Business edition и ролевом центре \"Бухгалтер\", которые позволяют организовать работу внутренних и внешних бухгалтеров в организации-клиенте."
 author: edupont04
 ms.service: dynamics365-financials
 ms.topic: article
@@ -11,10 +11,10 @@ ms.search.keywords: accountant, accounting, financial report
 ms.date: 09/14/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
-ms.openlocfilehash: f28bb6f02438dcc8dd00bf87fa2ccd9f02859641
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: 594c4cca94ee23904eaadc913f0e29ef0590f3f8
 ms.contentlocale: ru-ru
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 01/30/2018
 
 ---
 # <a name="accountant-experiences-in-included365finlongincludesd365finlongmdmd"></a>Работа бухгалтера в [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]
@@ -24,9 +24,6 @@ ms.lasthandoff: 11/10/2017
 Ролевой центр — это панель мониторинга с плитками, которые показывают основные показатели в реальном времени и дают быстрый доступ к данным. На ленте в верхней части окна доступны дополнительные действия, такие как открытие часто используемых финансовых отчетов и выписок в Microsoft Excel. В области навигации слева можно быстро переходить между списками, которые чаще всего используются. Если развернуть меню **Главная** в области навигации, то можно видеть другие области, например **Учтенные документы** с различными типами документов, которые были учтены организацией.  
 
 Если вы впервые работаете с [!INCLUDE[d365fin](includes/d365fin_md.md)], вы можете запустить список видео в правой части начальной страницы. Можно также запустить тур **Приступая к работе**, содержащее основную информацию.  
-
-> [!NOTE]  
->  Для этой функциональности необходимо использовать вариант настройки интерфейса **Suite**. Дополнительные сведения см. в разделе [Настройка интерфейса Dynamics 365](ui-experiences.md).  
 
 ## <a name="accountant-hub"></a>Accountant Hub
 Если вы бухгалтер, у которого несколько клиентов, вы можете использовать [!INCLUDE[d365acc_long](includes/d365acc_long_md.md)] для более наглядного представления информации о своих клиентах. Отсюда вы сможете открывать арендаторов каждого клиента в [!INCLUDE[d365fin](includes/d365fin_md.md)] и использовать ролевой центр бухгалтера, как описано выше. Дополнительные сведения см. в разделе [Добро пожаловать в [!INCLUDE[d365acc_long](includes/d365acc_long_md.md)]](/dynamics365/accountants/index).  
@@ -42,5 +39,5 @@ ms.lasthandoff: 11/10/2017
 [Настройка анализа движения денежных средств](finance-setup-cash-flow-analyses.md)  
 [Приглашение внешнего бухгалтера в свой экземпляр [!INCLUDE[d365fin](includes/d365fin_md.md)]](finance-invite-external-accountant.md)  
 [Добро пожаловать в [!INCLUDE[d365acc_long](includes/d365acc_long_md.md)]](/dynamics365/accountants/index)  
-[Financials для бухгалтеров на Microsoft.com](https://www.microsoft.com/en-us/dynamics365/financial-insights-for-accountants)  
+[Dynamics 365 — Accountant Hub на Microsoft.com](https://www.microsoft.com/en-us/dynamics365/financial-insights-for-accountants)  
 

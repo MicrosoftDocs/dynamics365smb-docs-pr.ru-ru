@@ -12,10 +12,10 @@ ms.workload: na
 ms.date: 07/07/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: aa56764b5f3210229ad21eae6891fb201462209c
-ms.openlocfilehash: 6fb27bb277d3ad1b5363da40c26d879663ff616b
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: e92ac00e08008e8de6a60ec46e0d71500bb03eaa
 ms.contentlocale: ru-ru
-ms.lasthandoff: 12/14/2017
+ms.lasthandoff: 01/30/2018
 
 ---
 # <a name="the-microsoft-pay-extension-to-included365finincludesd365finlongmdmd"></a>Расширение Microsoft Pay для [!INCLUDE[d365fin](includes/d365fin_long_md.md)]
@@ -31,7 +31,7 @@ ms.lasthandoff: 12/14/2017
 - Ссылка Microsoft Pay может автоматически внедряться в каждый документ счета или пользователем.
 - Поскольку данная функция построена как расширение, ее можно свободно включать тогда, когда это нужно для ваших бизнес-процессов.
 
-Включение расширения службы платежей в [!INCLUDE[d365fin](includes/d365fin_md.md)] бесплатно, однако вам потребуется связаться со службой платежей для получения учетной записи. Дополнительные сведения см. в разделе [Практическое руководство. Включение платежей клиентов через службу платежей](sales-how-enable-payment-service-extensions.md).
+Включение расширения службы платежей в [!INCLUDE[d365fin](includes/d365fin_md.md)] бесплатно, однако вам потребуется связаться со службой платежей для получения учетной записи. Дополнительные сведения см. в разделе [Включение платежей клиентов через службу платежей](sales-how-enable-payment-service-extensions.md).
 
 ## <a name="see-also"></a>См. также
 [Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью расширений](ui-extensions.md)  

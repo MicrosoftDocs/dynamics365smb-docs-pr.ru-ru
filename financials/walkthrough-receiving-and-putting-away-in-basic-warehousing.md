@@ -1,6 +1,6 @@
 ---
 title: "Пошаговое руководство. Получение и складирование в базовых конфигурациях склада | Microsoft Docs"
-description: "В Dynamics 365 входящие процессы по получению и размещению могут быть выполнены четырьмя способами при помощи различных функций в зависимости от уровня сложности склада."
+description: "В Finance and Operations, Business edition входящие процессы по получению и размещению могут быть выполнены четырьмя способами при помощи различных функций в зависимости от уровня сложности склада."
 author: SorenGP
 ms.service: dynamics365-financials
 ms.topic: article
@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 09/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: aa56764b5f3210229ad21eae6891fb201462209c
-ms.openlocfilehash: 52b017591b389c883e8a0bbeb35c1e3a3a9e7377
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: b420bc1cc0707824385cda832ac905c016cdd706
 ms.contentlocale: ru-ru
-ms.lasthandoff: 12/14/2017
+ms.lasthandoff: 01/30/2018
 
 ---
 # <a name="walkthrough-receiving-and-putting-away-in-basic-warehouse-configurations"></a>Пошаговое руководство. Получение и складирование в базовых конфигурациях склада
@@ -134,11 +134,11 @@ ms.lasthandoff: 12/14/2017
     Теперь 40 громкоговорителей зарегистрированы как размещенные в ячейке С-01-0001, и создана положительная операция товарной книги, отражающая учтенную приходную накладную покупки.  
 
 ## <a name="see-also"></a>См. также  
- [Практическое руководство. Размещение товаров с помощью складского размещения](warehouse-how-to-put-items-away-with-inventory-put-aways.md)   
- [Практическое руководство. Настройка базовых складов с помощью зон операций](warehouse-how-to-set-up-basic-warehouses-with-operations-areas.md)   
- [Практическое руководство. Перемещение компонентов в производственную зону в базовых конфигурациях склада](warehouse-how-to-move-components-to-an-operation-area-in-basic-warehousing.md)   
- [Практическое руководство. Подбор для производства или сборки](warehouse-how-to-pick-for-production.md)   
- [Практическое руководство. Перемещение специальных товаров в базовых конфигурациях склада](warehouse-how-to-move-items-ad-hoc-in-basic-warehousing.md)   
+ [Размещение товаров с помощью складского размещения](warehouse-how-to-put-items-away-with-inventory-put-aways.md)   
+ [Настройка базовых складов с помощью зон операций](warehouse-how-to-set-up-basic-warehouses-with-operations-areas.md)   
+ [Перемещение компонентов в производственную зону в базовых конфигурациях склада](warehouse-how-to-move-components-to-an-operation-area-in-basic-warehousing.md)   
+ [Подбор для производства или сборки](warehouse-how-to-pick-for-production.md)   
+ [Перемещение специальных товаров в базовых конфигурациях склада](warehouse-how-to-move-items-ad-hoc-in-basic-warehousing.md)   
  [Сведения о проектировании: входящий складской поток](design-details-inbound-warehouse-flow.md)   
  [Пошаговые описания бизнес-процессов](walkthrough-business-process-walkthroughs.md)  
  [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

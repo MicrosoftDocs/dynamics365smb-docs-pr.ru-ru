@@ -13,10 +13,10 @@ ms.search.keywords: IC, group, consolidation, affiliate, subsidiary
 ms.date: 06/20/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: eea34afbee429d14ab150894729cb4ea3843bb2b
-ms.openlocfilehash: 5ffaed472ab61d086e2b57579523340504bde119
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: 341fccc4cb11f27e11d80558bbd9651ae4ad91be
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 01/30/2018
 
 ---
 # <a name="managing-intercompany-transactions"></a>Управление межфирменными транзакциями
@@ -39,13 +39,16 @@ ms.lasthandoff: 09/22/2017
 
  |По |Ссылка|
  |---|---|
- |Создание межфирменных поставщиков и клиентов как так называемых межфирменных партнеров (партнеры МФ) и настройка межфирменного плана счетов.|[Практическое руководство. Настройка межфирменных взаимодействий](intercompany-how-setup.md)|
- |Использование межфирменных документов или журналов для учета транзакций, выполненных с межфирменными партнерами.|[Практическое руководство. Работа с межфирменными документами и журналами](intercompany-how-work-documents-journals.md)|
- |Упорядочение и обработка входящих и исходящих транзакций, которыми вы обмениваетесь с межфирменными партнерами.|[Практическое руководство. Управление межфирменными входящими и исходящими ящиками](intercompany-how-manage-intercompany-inbox.md)|
+ |Создание межфирменных поставщиков и клиентов как так называемых межфирменных партнеров (партнеры МФ) и настройка межфирменного плана счетов.|[Настройка межфирменных взаимодействий](intercompany-how-setup.md)|
+ |Использование межфирменных документов или журналов для учета транзакций, выполненных с межфирменными партнерами.|[Работа с межфирменными документами и журналами](intercompany-how-work-documents-journals.md)|
+ |Упорядочение и обработка входящих и исходящих транзакций, которыми вы обмениваетесь с межфирменными партнерами.|[Управление межфирменными входящими и исходящими ящиками](intercompany-how-manage-intercompany-inbox.md)|
 
 ## <a name="see-also"></a>См. также
 [Финансы](finance.md)  
 [Настройка финансов](finance-setup-finance.md)  
 [Работа с финансовыми журналами](ui-work-general-journals.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+
+## [!INCLUDE[d365fin](includes/free_trial_md.md)]  
+## [!INCLUDE[d365fin](includes/training_link_md.md)]
 

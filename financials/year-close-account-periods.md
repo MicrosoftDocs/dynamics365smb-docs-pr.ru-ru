@@ -13,13 +13,13 @@ ms.search.keywords: year closing, close accounting period, close fiscal year, ba
 ms.date: 06/02/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
-ms.openlocfilehash: 859801a5e9d9b900aed6af5fe672f650932b2e79
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: e136195c7b89635ca85601cdae5047493c237d09
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 01/30/2018
 
 ---
-# <a name="how-to-close-accounting-periods"></a>Как завершать учетные периоды
+# <a name="close-accounting-periods"></a>Закрытие учетных периодов
 При завершении финансового года следует завершить периоды, которые его образуют.
 
 ## <a name="to-close-accounting-periods"></a>Практическое руководство. Закрытие учетных периодов
@@ -40,7 +40,7 @@ ms.lasthandoff: 09/22/2017
 
 ## <a name="see-also"></a>См. также
 [Закрытие книг](year-close-books.md)  
-[Практическое руководство: учет операции закрытия года](year-how-post-year-end-close-entry.md)  
-[Практическое руководство. Открытие нового финансового года](finance-how-open-new-fiscal-year.md)  
+[Учет операции закрытия года](year-how-post-year-end-close-entry.md)  
+[Открытие нового финансового года](finance-how-open-new-fiscal-year.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

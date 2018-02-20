@@ -1,6 +1,6 @@
 ---
-title: "Выставление счетов по резервированиям в Dynamics 365 | Microsoft Docs"
-description: "Узнайте, как массово выставлять счета из Microsoft Bookings в Dynamics 365 Business edition."
+title: "Выставление счетов по резервированиям в Finance and Operations, Business edition | Microsoft Docs"
+description: "Узнайте, как массово выставлять счета из Microsoft Bookings в Finance and Operations, Business edition."
 author: edupont04
 ms.service: dynamics365-financials
 ms.topic: article
@@ -11,10 +11,10 @@ ms.search.keywords: invoicing, bookings
 ms.date: 06/14/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
-ms.openlocfilehash: 154a4719cdd0e28280c5b0a5de85479beb0b9262
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: d387bbbf59550a6ca11dff534b76683a07808ca4
 ms.contentlocale: ru-ru
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 01/30/2018
 
 ---
 # <a name="bulk-invoicing-for-microsoft-bookings-in-included365finincludesd365finmdmd"></a>Массовое выставление счетов для Microsoft Bookings в [!INCLUDE[d365fin](includes/d365fin_md.md)]
@@ -28,11 +28,11 @@ ms.lasthandoff: 11/10/2017
 ## <a name="invoice-appointments"></a>Выставить счета по назначениям
 Когда придет время отправки счетов за завершенные резервирования, откройте страницу **Bookings без выставления счета**. В зависимости от того, как часто синхронизируется информация, список может быть длинным или коротким. Вы можете создать счета для всех резервирований в списке или по одному резервированию за раз. Вы можете выбрать одну или несколько операций в списке и выставить счета только по ним.  
 
-Поддержка выставления счетов по назначениям в Bookings проще, чем полны рабочий процесс с предложениями продажи, заказами на продажу и счетами продажи. Дополнительные сведения см. в разделе [Практическое руководство. Выставление счетов продажи](sales-how-invoice-sales.md). Вы можете продавать свои услуги через [!INCLUDE[d365fin](includes/d365fin_md.md)] или выбрать Bookings в зависимости от потребностей бизнеса.  
+Поддержка выставления счетов по назначениям в Bookings проще, чем полны рабочий процесс с предложениями продажи, заказами на продажу и счетами продажи. Дополнительные сведения см. в разделе [Выставление счетов продажи](sales-how-invoice-sales.md). Вы можете продавать свои услуги через [!INCLUDE[d365fin](includes/d365fin_md.md)] или выбрать Bookings в зависимости от потребностей бизнеса.  
 
 ## <a name="see-also"></a>См. также
 [Финансы](finance.md)  
-[Практическое руководство. Выставление счетов продажи](sales-how-invoice-sales.md)  
+[Выставление счетов продажи](sales-how-invoice-sales.md)  
 [Настройка продаж](sales-setup-sales.md)  
 [Microsoft Bookings](https://products.office.com/en-us/business/scheduling-and-booking-app)  
 

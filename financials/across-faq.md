@@ -11,14 +11,14 @@ ms.search.keywords: FAQ, email, Office 365, subscription, trial, plan
 ms.date: 07/27/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
-ms.openlocfilehash: 0823414b222c2f578a6e6c6908f403240cf104d5
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: b14df6dbf21e405464431600eb5e743b528edbee
 ms.contentlocale: ru-ru
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 01/30/2018
 
 ---
 # <a name="frequently-asked-questions"></a>Вопросы и ответы
-В этом разделе содержатся вопросы и ответы о регистрации и использовании [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)].  
+В этом разделе содержатся вопросы и ответы о регистрации и использовании [!INCLUDE[d365fin](includes/d365fin_md.md)].  
 
 ## <a name="what-email-address-can-i-use-with-included365finincludesd365finmdmd"></a>Какой адрес электронной почты можно использовать с [!INCLUDE[d365fin](includes/d365fin_md.md)]?
 [!INCLUDE[d365fin](includes/d365fin_md.md)] требует для регистрации использования рабочего или учебного адреса электронной почты. [!INCLUDE[d365fin](includes/d365fin_md.md)] не поддерживает адреса электронной почты, предоставленные общедоступными сервисами электронной почты и поставщиками услуг связи. К таким адресам относятся outlook.com, hotmail.com, gmail.com и т. д.  
@@ -35,7 +35,7 @@ ms.lasthandoff: 11/10/2017
 Да, но в зависимости от способа регистрации в [!INCLUDE[d365fin](includes/d365fin_md.md)] ваши данные могут быть удалены или сохранены. Дополнительные сведения см. в разделе [Отмена [!INCLUDE[d365fin](includes/d365fin_md.md)]](madeira-cancel.md).  
 
 ## <a name="where-do-i-go-if-i-have-questions"></a>Что делать, если у меня есть вопросы?
-Если у вас есть вопросы по [!INCLUDE[d365fin](includes/d365fin_md.md)], на которые вы не можете найти ответ в документации, задайте вопрос в сообществе Dynamics 365 Business edition. Дополнительные сведения см. на странице [Сообщество Dynamics 365, Business edition](https://community.dynamics.com/business). Кроме того, группа службы поддержки публикует советы и рекомендации. Дополнительные сведения см. в [блоге службы поддержки Dynamics 365 Business edition](https://blogs.msdn.microsoft.com/dyn365finsupport).  
+Если у вас есть вопросы по [!INCLUDE[d365fin](includes/d365fin_md.md)], на которые вы не можете найти ответ в документации, задайте вопрос в сообществе Finance and Operations, Business edition. Дополнительные сведения см. в разделе [Сообщество Dynamics 365 for Finance and Operations, Business edition](https://community.dynamics.com/business). Кроме того, группа службы поддержки публикует советы и рекомендации. Дополнительные сведения см. в разделе [Блог службы поддержки Dynamics 365 for Finance and Operations, Business edition](https://blogs.msdn.microsoft.com/dyn365finsupport).  
 
 ## <a name="is-it-possible-to-extend-my-30-day-new-company-trial-period"></a>Можно ли продлить 30-дневный пробный период "Новая организация"?
 Да. Если вам требуется продлить пробный период, обратитесь в Майкрософт по телефону 1-888-477-7989 (США) или 1-800-741-9206 (Канада). ПРИМЕЧАНИЕ. Завершение процесса продления пробного периода может занять до 2 рабочих дней.  
@@ -50,6 +50,6 @@ ms.lasthandoff: 11/10/2017
 [Добро пожаловать в [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md)  
 [Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] в качестве рабочего почтового ящика в Outlook](madeira-outlook.md)  
 [Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] без Outlook](madeira-no-outlook.md)  
-[Практическое руководство. Изменение ролевого центра](change-role.md)  
-[Работа с [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](ui-work-product.md)  
+[Изменение ролевого центра](change-role.md)  
+[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 

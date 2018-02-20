@@ -13,13 +13,13 @@ ms.search.keywords: bank account transfer, multiple currencies
 ms.date: 06/02/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
-ms.openlocfilehash: 20661cce60bc9007adb9767388bf5af6f9c3acb9
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: d3bd448ef67f742794e3a162bd828e38366775bb
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 01/30/2018
 
 ---
-# <a name="how-to-transfer-bank-funds"></a>Практическое руководство. Перевод банковских средств
+# <a name="transfer-bank-funds"></a>Перевод банковских средств
 Иногда бывает необходимо перевести сумму с одного банковского счета на другой. Для этого необходимо учесть транзакцию в финансовом журнале. Задача зависит от того, используется на банковских счетах одна валюта или различные валюты.
 
 ## <a name="to-post-a-transfer-between-bank-accounts-with-the-same-currency-code"></a>Учет перемещения между банковскими счетами с одним кодом валюты

@@ -1,6 +1,6 @@
 ---
-title: "Использование Dynamics 365 на мобильном устройстве | Microsoft Docs"
-description: "Данные Dynamics 365 можно просматривать и редактировать на телефоне или планшете."
+title: "Использование Finance and Operations, Business edition на мобильном устройстве | Microsoft Docs"
+description: "Данные Finance and Operations, Business edition можно просматривать и редактировать на телефоне или планшете."
 documentationcenter: 
 author: SusanneWindfeldPedersen
 ms.service: dynamics365-financials
@@ -12,14 +12,14 @@ ms.search.keywords: phone, tablet
 ms.date: 06/02/2017
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
-ms.openlocfilehash: 56f2ef7c7b0c604f0966736020dcb9cff546dddd
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: 14bd909e8ec09a940285317a5980c76d0ba22b99
 ms.contentlocale: ru-ru
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 01/30/2018
 
 ---
 
-# <a name="getting-dynamics-365-for-finance-and-operations-on-your-mobile-device"></a>Получение доступа к Dynamics 365 for Finance and Operations на мобильном устройстве
+# <a name="getting-finance-and-operations-business-edition-for-finance-and-operations-on-your-mobile-device"></a>Получение Finance and Operations, Business edition для Finance and Operations на мобильном устройстве
 Работайте с данными [!INCLUDE[d365fin](includes/d365fin_md.md)] с мобильного устройства. Вы можете просматривать бизнес-данные, использовать такие функции, как отправка в Excel или Office 365, просматривать последние диаграммы и ключевые показатели эффективности, отправлять по электронной почте предложения и счета, а также делать фотографии с помощью камеры и прикладывать снимки. Выполните следующие действия для загрузки приложения и начала работы.
 
 ## <a name="to-get-the-app-on-my-mobile-device"></a>Установка приложения на мобильном устройстве

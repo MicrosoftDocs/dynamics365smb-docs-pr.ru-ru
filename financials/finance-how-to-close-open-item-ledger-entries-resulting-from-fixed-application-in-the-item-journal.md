@@ -13,13 +13,13 @@ ms.search.keywords:
 ms.date: 08/09/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
-ms.openlocfilehash: d30a1316b48bd1b80ab4658ee99b14f0a0217478
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: 1553b5f85cd9f00f9de15b59bcf258fba412967b
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 01/30/2018
 
 ---
-# <a name="how-to-close-open-item-ledger-entries-resulting-from-fixed-application-in-the-item-journal"></a>Практическое руководство: закрытие открытых операций в книге товаров, появившихся в результате фиксированного применения в товарном журнале
+# <a name="close-open-item-ledger-entries-resulting-from-fixed-application-in-the-item-journal"></a>Закрытие открытых операций в книге товаров, появившихся в результате фиксированного применения в товарном журнале
 Используйте поле **Примен. из операции** в окне **Журнал товаров**, чтобы создать фиксированное применение между входящей транзакцией и исходной исходящей транзакцией. Например, для исправления исходящей транзакции или обработки ее возврата. Дополнительные сведения см. в поле "Примен. из операции".  
 
 > [!IMPORTANT]  
@@ -35,8 +35,8 @@ ms.lasthandoff: 09/22/2017
 2.  Используйте поле **Примен. к операции** для учета расходов. Это закрывает исходную корректирующую положительную операцию с фиксированным применением.  
 
 ## <a name="see-also"></a>См. также  
-[Практическое руководство. Удаление и повторное применение операций журнала товаров](finance-how-to-remove-and-reapply-item-entries.md)  
- [Практическое руководство. Обработка возвратов и отмены продажи](sales-how-process-sales-returns-cancellations.md)   
+[Удаление и повторное применение операций журнала товаров](finance-how-to-remove-and-reapply-item-entries.md)  
+ [Обработка возвратов и отмены продажи](sales-how-process-sales-returns-cancellations.md)   
  [Настройка оценки стоимости запасов и учета себестоимости](finance-set-up-inventory-valuation-and-costing.md)   
  [Управление себестоимостью товаров](finance-manage-inventory-costs.md)   
  [Сведения о проектировании: методы учета себестоимости](design-details-costing-methods.md)

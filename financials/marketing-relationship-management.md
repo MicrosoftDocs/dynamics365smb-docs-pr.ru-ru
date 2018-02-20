@@ -1,6 +1,6 @@
 ---
 title: "Управление отношениями | Microsoft Docs"
-description: "Управление отношениями в Dynamics 365 помогает осуществлять продажи и предоставляет доступ к информации о контактах и потенциальных клиентах для эффективного обслуживания клиентов."
+description: "Управление отношениями в Finance and Operations, Business edition помогает осуществлять продажи и предоставляет доступ к информации о контактах и потенциальных клиентах для эффективного обслуживания клиентов."
 services: project-madeira
 documentationcenter: 
 author: jswymer
@@ -13,10 +13,10 @@ ms.search.keywords: contact, prospect, client
 ms.date: 06/06/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
-ms.openlocfilehash: cf1ba18fff8691fd6b197f83ddbe9a983fe1a340
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: d639c37c8eada6921e7df91703d5413dc7772e38
 ms.contentlocale: ru-ru
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 01/30/2018
 
 ---
 # <a name="managing-relationships"></a>Управление отношениями
@@ -37,4 +37,7 @@ ms.lasthandoff: 11/10/2017
 [Настройка управления отношениями](marketing-setup-marketing.md)  
 [Управление клиентами и продажами, созданными в Dynamics 365 for Sales](marketing-integrate-dynamicscrm.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+
+## [!INCLUDE[d365fin](includes/free_trial_md.md)]  
+## [!INCLUDE[d365fin](includes/training_link_md.md)]
 

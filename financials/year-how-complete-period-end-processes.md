@@ -1,6 +1,6 @@
 ---
 title: "Необязательные действия для закрытия периодов | Microsoft Docs"
-description: "В этом разделе описываются необязательные процессы и действия по закрытию учетных периодов в Dynamics 365."
+description: "В этом разделе описываются необязательные процессы и действия по закрытию учетных периодов в Finance and Operations, Business edition."
 services: project-madeira
 documentationcenter: 
 author: jswymer
@@ -13,10 +13,10 @@ ms.search.keywords: year closing, close accounting period, close fiscal year, ag
 ms.date: 06/19/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
-ms.openlocfilehash: 526ae1811768f38b04f961e378454fed79a8426b
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: 344e294083813d41b415ad07e6e8acdd3fe5047b
 ms.contentlocale: ru-ru
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 01/30/2018
 
 ---
 # <a name="overview-of-tasks-to-close-accounting-periods"></a>Обзор задач по закрытию учетных периодов
@@ -25,7 +25,7 @@ ms.lasthandoff: 11/10/2017
 ## <a name="general-ledger"></a>Главная книга
 * Укажите системные и пользовательские периоды учета.  
 
-    Они определяют даты, между которыми возможен учет. В зависимости от бизнеса можно разрешить учет в начале процесса или ближе к концу. Дополнительные сведения см. в разделе [Практическое руководство. Определение периодов учета](finance-how-specify-posting-periods.md).  
+    Они определяют даты, между которыми возможен учет. В зависимости от бизнеса можно разрешить учет в начале процесса или ближе к концу. Дополнительные сведения см. в разделе [Определение периодов учета](finance-how-specify-posting-periods.md).  
 * Внесите все необходимые корректировки в ГК.  
 * Обновите и учтите типовые журналы.  
   <!--* Process Consolidations-->

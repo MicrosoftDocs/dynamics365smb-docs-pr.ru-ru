@@ -13,10 +13,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
-ms.openlocfilehash: b48d7f73b640b98d0cdab6e2e7e7486a3bdb39db
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: 9b58c3889196cba3a6ddbeb50249a6ae962c4ea1
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 01/30/2018
 
 ---
 # <a name="scenario-example-defining-static-allocations-based-on-allocation-ratio"></a>Пример сценария. Определение статических распределений на основе отношения распределений
@@ -59,7 +59,7 @@ ms.lasthandoff: 09/22/2017
 >  [!INCLUDE[d365fin](includes/d365fin_md.md)] автоматически вычисляет поле **Процент** с помощью процента, который зависит от всех трех соотношений распределения, которые вводятся в поле **Доля** для всех трех строк.  
 
 ## <a name="see-also"></a>См. также  
-[Практическое руководство. Настройка источника и целей распределения](finance-how-to-set-up-allocation-source-and-targets.md)   
+[Настройка источника и целей распределения](finance-how-to-set-up-allocation-source-and-targets.md)   
 [Определение и распределение затрат](finance-define-and-allocate-costs.md)   
 [Пример сценария. Определение динамических распределений на основе проданных товаров](finance-scenario-example-defining-dynamic-allocations-based-on-items-sold.md)   
 [Определение и распределение затрат](finance-define-and-allocate-costs.md)

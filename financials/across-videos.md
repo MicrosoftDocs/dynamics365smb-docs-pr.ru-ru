@@ -1,5 +1,5 @@
 ---
-title: "Видео с инструкциями по использованию Dynamics 365 Business edition | Microsoft Docs"
+title: "Видео с инструкциями по использованию Finance and Operations, Business edition | Microsoft Docs"
 description: "Обеспечивает доступ к видео по началу работы, которые иллюстрируют выполнение типовых задач."
 services: project-madeira
 documentationcenter: 
@@ -13,10 +13,10 @@ ms.search.keywords: video, library, how to
 ms.date: 06/02/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
-ms.openlocfilehash: c3cb769e45d2ef2ade6eb82118cd6f79b5e3cf9d
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: 747a3f83d5e0387a557eebaf9ad5d2ef5dcd0673
 ms.contentlocale: ru-ru
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 01/30/2018
 
 ---
 # <a name="visit-our-video-library"></a>Посетите нашу библиотеку видео
@@ -39,7 +39,7 @@ ms.lasthandoff: 11/10/2017
 
 В дополнение к видео **Бизнес-помощь** содержит такие ресурсы, как ссылки на разделы справки и руководства по сопровождаемой настройке, помогающие выполнять настройку. Эти ресурсы заменяют диаграмму в ролевом центре. После изучения ресурсов вы можете вернуться в диаграмму в меню **Бизнес-помощь**, выбрав **Показать диаграмму**.  
   
-Вы можете просмотреть наши видео с инструкциями и много другого содержимого на канале YouTube, который мы создали для Microsoft Dynamics 365. Чтобы открыть канал, [щелкните здесь](https://go.microsoft.com/fwlink/?linkid=851533).
+Вы можете просмотреть наши видео с инструкциями и много другого содержимого на канале YouTube, который мы создали для Microsoft Finance and Operations, Business edition. Чтобы открыть канал, [щелкните здесь](https://go.microsoft.com/fwlink/?linkid=851533).
 
 ## <a name="see-also"></a>См. также
 [Добро пожаловать в [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md)

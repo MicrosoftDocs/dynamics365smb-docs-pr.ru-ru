@@ -13,10 +13,10 @@ ms.search.keywords: relationship, prospect
 ms.date: 06/06/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
-ms.openlocfilehash: cfb32511dd5ba564572050a3d52058fcc2c2f9d3
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: 2c17f14809ecfe9a335c3f8e6bb7ddeb4e26e1e9
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 01/30/2018
 
 ---
 # <a name="managing-segments"></a>Управление сегментами
@@ -31,8 +31,8 @@ ms.lasthandoff: 09/22/2017
 
 | По | Ссылка |
 | --- | --- |
-| Создать сегменты, позволяющие выбрать группу контактов. Например, прямая почтовая рассылка. |[Практическое руководство. Создание сегментов](marketing-how-create-segment.md) |
-| Управление контактами, назначенными сегментам. |[Практическое руководство. Добавление контактов к сегментам](marketing-add-contact-segment.md) |
+| Создать сегменты, позволяющие выбрать группу контактов. Например, прямая почтовая рассылка. |[Создание сегментов](marketing-how-create-segment.md) |
+| Управление контактами, назначенными сегментам. |[Добавление контактов к сегментам](marketing-add-contact-segment.md) |
 | Узнайте об использовании взаимодействий и сегментов, включая их регистрацию. |[Управление взаимодействием и сегментами](marketing-interaction-segments.md) |
 
 ## <a name="see-also"></a>См. также

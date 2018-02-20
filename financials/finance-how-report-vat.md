@@ -11,10 +11,10 @@ ms.search.keywords: VAT, tax, report, EC sales list, statement
 ms.date: 07/17/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: aa56764b5f3210229ad21eae6891fb201462209c
-ms.openlocfilehash: eb261f0b5b2aae94cebd79c6b23b0a21cb9451ae
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: 3d9a803f16ebe5f88a659d3e9e6dab35efe1eed9
 ms.contentlocale: ru-ru
-ms.lasthandoff: 12/14/2017
+ms.lasthandoff: 01/30/2018
 
 ---
 
@@ -114,7 +114,7 @@ ms.lasthandoff: 12/14/2017
 
 ## <a name="see-also"></a>См. также
 [Настройка методов расчета и учета налога на добавленную стоимость](finance-setup-vat.md)  
-[Практическое руководство. Работа с НДС по продажам и покупкам](finance-work-with-vat.md)  
+[Работа с НДС по продажам и покупкам](finance-work-with-vat.md)  
 [Настройка продаж](sales-setup-sales.md)  
-[Практическое руководство. Выставление счетов продажи](sales-setup-sales.md)  
+[Выставление счетов продажи](sales-setup-sales.md)  
 

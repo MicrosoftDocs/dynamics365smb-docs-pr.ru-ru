@@ -13,13 +13,13 @@ ms.search.keywords: relationship, prospect
 ms.date: 06/06/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
-ms.openlocfilehash: 8149c89e2031a7fd44f9942d7aba213158700dc9
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: e7bac54306953628e8aab21ffab66badf9a1c8fe
 ms.contentlocale: ru-ru
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 01/30/2018
 
 ---
-# <a name="how-to-set-up-alternative-addresses-for-contacts"></a>Практическое руководство. Настройка альтернативных адресов контактов
+# <a name="set-up-alternative-addresses-for-contacts"></a>Настройка альтернативных адресов контактов
 Можно присваивать альтернативные адреса, по которым контактам иногда отсылается почта, например летний коттедж. Можно также присваивать один или несколько диапазонов дат каждому альтернативному адресу, созданному для контакта, чтобы указать, когда каждый из адресов действителен.
 
 ## <a name="to-assign-an-alternate-address"></a>Присвоение альтернативного адреса
@@ -41,5 +41,5 @@ ms.lasthandoff: 11/10/2017
 
 ## <a name="see-also"></a>См. также
 [Создание контактных организаций](marketing-create-contact-companies.md)  
-[Работа с Dynamics 365](ui-work-product.md)
+[Работа с Finance and Operations, Business edition](ui-work-product.md)
 

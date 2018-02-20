@@ -13,10 +13,10 @@ ms.search.keywords: service, work hours, configure, price, pricing
 ms.date: 08/23/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
-ms.openlocfilehash: d23e006f6af51fe51db3624f931be5d163272c04
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: 2d02977377f0d88229fdbfd4c2df96d88cd82f2e
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 01/30/2018
 
 ---
 # <a name="planning-services"></a>Планирование сервисов
@@ -29,7 +29,7 @@ ms.lasthandoff: 09/22/2017
 |**Задача**|**Ссылка**|  
 |------------|-------------|  
 |Задайте цены для предоставляемых сервисных услуг.|[Управление ценами на сервисное обслуживание](service-service-price-management.md)|
-|Установка и настройка сервисного товара и сервисных групп. Это включает определение необходимых квалификаций для каждого вида услуги и руководств по устранению неполадок.| [Практическое руководство. Создание сервисных товаров](service-how-to-create-service-items.md)|  
+|Установка и настройка сервисного товара и сервисных групп. Это включает определение необходимых квалификаций для каждого вида услуги и руководств по устранению неполадок.| [Создание сервисных товаров](service-how-to-create-service-items.md)|  
 |Узнайте, как управлять статусом ремонтных работ в сервисных заказах и как определять их приоритет.|[Сервисный заказ и статус ремонта](service-service-order-status-and-repair-status.md)|  
 |Узнайте о связи между статусами ремонта, и об их влиянии на выделенные ресурсы, и наоборот.|[Статус распределения и ремонта](service-allocation-status-and-repair-status.md)|  
 |Используйте статистические данные для анализа своих сервисных процессов. | [Просмотр сервисной статистики](service-service-statistics.md) |
@@ -37,8 +37,8 @@ ms.lasthandoff: 09/22/2017
 ## <a name="see-also"></a>См. также
 [Выполнение контрактов на обслуживание](service-fulfill-service-contracts.md)  
 [Предоставление услуги](service-deliver-service.md)  
-[Практическое руководство. Настройка цен и дополнительных издержек для сервисов](service-how-setup-service-costs-pricing.md)  
-[Практическое руководство. Настройка сервисных товаров и компонентов сервисных товаров](service-how-setup-service-items.md)  
-[Практическое руководство. Настройка статусов для сервисных заказов и ремонтных работ](service-order-repair-status.md)  
+[Настройка цен и дополнительных издержек для сервисов](service-how-setup-service-costs-pricing.md)  
+[Настройка сервисных товаров и компонентов сервисных товаров](service-how-setup-service-items.md)  
+[Настройка статусов для сервисных заказов и ремонтных работ](service-order-repair-status.md)  
 [Настройка управления сервисным обслуживанием](service-setup-service.md)  
 

@@ -11,13 +11,13 @@ ms.search.keywords: accounting year, fiscal period
 ms.date: 07/17/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
-ms.openlocfilehash: 1ae20c24b4a75a897a1bc7bc7f34898539a75449
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: da22c77f35c1a893d3ee80fb6468553670977686
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 01/30/2018
 
 ---
-# <a name="how-to-open-a-new-fiscal-year-and-create-accounting-periods"></a>Практическое руководство. Открытие финансового года и создание учетных периодов
+# <a name="open-a-new-fiscal-year-and-create-accounting-periods"></a>Открытие финансового года и создание учетных периодов
 Перед началом учета в финансовом году следует открыть его и определить учетные периоды.  
 
 Для многих организаций финансовый год не совпадает с календарным годом. Финансовые периоды могут измеряться в других единицах времени, таких как месяцы или кварталы. Можно использовать окно **Создание фин. года** для настройки учетных периодов в соответствии с потребностями бизнеса. Однако,   
@@ -34,8 +34,8 @@ ms.lasthandoff: 09/22/2017
 
 
 ## <a name="see-also"></a>См. также
-[Практическое руководство. Задание учетных периодов](finance-how-specify-posting-periods.md)  
-[Практическое руководство: учет операции закрытия года](year-how-post-year-end-close-entry.md)  
+[Задание учетных периодов](finance-how-specify-posting-periods.md)  
+[Учет операции закрытия года](year-how-post-year-end-close-entry.md)  
 [Финансы](finance.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

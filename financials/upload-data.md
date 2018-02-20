@@ -1,6 +1,6 @@
 ---
-title: "Импорт старых бизнес-данных в Dynamics 365 | Microsoft Docs"
-description: "Вы можете перенести данные по клиентам, поставщикам и запасам, например из Excel, QuickBooks или Dynamics GP, в Dynamics 365."
+title: "Импорт устаревших бизнес-данных в Finance and Operations, Business edition | Microsoft Docs"
+description: "Вы можете перенести данные по клиентам, поставщикам и запасам, например из Excel, QuickBooks или Dynamics GP, в Finance and Operations, Business edition."
 author: edupont04
 ms.service: dynamics365-financials
 ms.topic: article
@@ -11,10 +11,10 @@ ms.search.keywords: QuickBooks, transfer, import, migrate, initialize, implement
 ms.date: 09/25/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
-ms.openlocfilehash: 3f1df4bf771586c5e3e4d79d23c26051bf19c763
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: f1339468507efc474c709f35fa04d61ca7e5b9a2
 ms.contentlocale: ru-ru
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 01/30/2018
 
 ---
 # <a name="importing-business-data-from-other-finance-systems"></a>Импорт бизнес-данных из других финансовых систем
@@ -45,7 +45,8 @@ ms.lasthandoff: 11/10/2017
 [Миграция данных QuickBooks Online](ui-extensions-quickbooks-online-data-migration.md)  
 [Миграция данных Dynamics GP](ui-extensions-dynamicsgp-data-migration.md)  
 [Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью расширений](ui-extensions.md)   
-[Установка [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md)
+[Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md)
 
-## [!INCLUDE[d365fin](includes/free_trial_md.md)]
+## [!INCLUDE[d365fin](includes/free_trial_md.md)]  
+## [!INCLUDE[d365fin](includes/training_link_md.md)]
 

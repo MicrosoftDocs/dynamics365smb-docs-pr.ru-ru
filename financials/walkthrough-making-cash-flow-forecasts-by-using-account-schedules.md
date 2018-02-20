@@ -13,10 +13,10 @@ ms.search.keywords:
 ms.date: 09/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
-ms.openlocfilehash: c66fc5da322ddb1d217b61da0b563faab27b344e
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: 25319bae1d601d6beddca35cf8edc032ac11eda6
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 01/30/2018
 
 ---
 # <a name="walkthrough-making-cash-flow-forecasts-by-using-account-schedules"></a>Пошаговое руководство: создание прогнозов движения денежных средств с использованием финансовых отчетов
@@ -34,7 +34,7 @@ ms.lasthandoff: 09/22/2017
 ### <a name="prerequisites"></a>Предварительные требования  
 Для выполнения данного пошагового руководства необходимо выполнить следующие действия.  
 
-- Установлен [!INCLUDE[d365fin](includes/d365fin_md.md)].  
+- [!INCLUDE[d365fin](includes/d365fin_md.md)] Установлен .  
 - Строки журнала движения денежных средств регистрируются.  
 
 ## <a name="roles"></a>Роли  
@@ -88,7 +88,7 @@ ms.lasthandoff: 09/22/2017
 3.  Выберите действие **Печать** для печати прогноза движения денежных средств.  
 
 ## <a name="see-also"></a>См. также  
- [Практическое руководство. Работа с финансовыми отчетами](bi-how-work-account-schedule.md)   
+ [Работа с финансовыми отчетами](bi-how-work-account-schedule.md)   
  [Пошаговые описания бизнес-процессов](walkthrough-business-process-walkthroughs.md)  
  [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

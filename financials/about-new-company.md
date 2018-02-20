@@ -1,6 +1,6 @@
 ---
 title: "Создание новых организаций с помощью руководства мастера настройки | Microsoft Docs"
-description: "В Dynamics 365 Business edition можно легко создать новую пустую организацию. Руководство мастера настройки помогает выполнить требуемые шаги, а также можно импортировать существующие коммерческие данные."
+description: "В Finance and Operations, Business edition можно легко создать новую пустую организацию. Руководство мастера настройки помогает выполнить требуемые шаги, а также можно импортировать существующие коммерческие данные."
 author: edupont04
 ms.service: dynamics365-financials
 ms.topic: article
@@ -11,13 +11,13 @@ ms.search.keywords: company, setup wizard
 ms.date: 07/14/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
-ms.openlocfilehash: c4152a77fcd3e5995aaf09c17b0a3a2c227aa2fa
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: d18845dfb3c904139b1b392619d04611522c6e12
 ms.contentlocale: ru-ru
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 01/30/2018
 
 ---
-# <a name="creating-new-companies-in-included365finlongincludesd365finlongmdmd"></a>Создание новых организаций в [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]
+# <a name="creating-new-companies-in-included365finincludesd365finmdmd"></a>Создание новых организаций в [!INCLUDE[d365fin](includes/d365fin_md.md)]
 В [!INCLUDE[d365fin](includes/d365fin_md.md)] контейнеры для коммерческой информации, которая относится к филиалу или юридическому лицу, называются *организация*. При оформлении подписки на [!INCLUDE[d365fin](includes/d365fin_md.md)] вам предоставляется демонстрационная организация и пустая организация *Моя организация*. Переключаться между организациями легко, просто откройте **Мои настройки** и перейдите в другую организацию. Однако можно также создавать новые организации в [!INCLUDE[d365fin](includes/d365fin_md.md)], в зависимости от потребностей бизнеса. При создании новой организации мастер настройки помогает правильно задать основные параметры. После этого можно импортировать соответствующие данные из своей старой системы или другой организации в [!INCLUDE[d365fin](includes/d365fin_md.md)].  
 
 ## <a name="create-new-company"></a>Создать новую компанию
@@ -44,10 +44,10 @@ ms.lasthandoff: 11/10/2017
 
 Например, адрес организации используется в счетах и других документах, банковские реквизиты используются в платежах, а метод учета себестоимости используется для расчета цены и оценки стоимости запасов.  
 
-После настройки основных параметров можно настроить остальные основные области. Затем вы будете готовы добавить коммерческие данные, таких как клиенты и поставщики. Дополнительные сведения см. на странице [Настройка Dynamics 365 Business edition](setup.md).  
+После настройки основных параметров можно настроить остальные основные области. Затем вы будете готовы добавить коммерческие данные, таких как клиенты и поставщики. Дополнительные сведения см. в разделе [Настройка Finance and Operations, Business edition](setup.md).  
 
 ## <a name="see-also"></a>См. также
-[Настройка Dynamics 365 Business edition ](setup.md)  
+[Настройка Finance and Operations, Business edition](setup.md)  
 [Импорт бизнес-данных из других финансовых систем](upload-data.md)  
 [Изменение базовых настроек](ui-change-basic-settings.md)  
 [Добро пожаловать в [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md)  

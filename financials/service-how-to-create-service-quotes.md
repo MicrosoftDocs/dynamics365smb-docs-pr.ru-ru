@@ -13,13 +13,13 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
-ms.openlocfilehash: d5348e7b15eb0337f2a5f829c871dadcf3133b86
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: 9d4f8d21d0c79adbac238b2d26accc4c08656c77
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 01/30/2018
 
 ---
-# <a name="how-to-create-service-quotes"></a>Практическое руководство. Создание сервисных предложений
+# <a name="create-service-quotes"></a>Создание сервисных предложений
 Сервисные предложения можно рассматривать как основу для сервисных заказов. Фактически, они почти полностью идентичны. Они содержат такие сведения, как клиент, тип заказа, товар, который требует обслуживания, сведения для выставления счетов и отгрузки, а также информацию о фактической сервисной работе.
  
 Можно использовать сервисное предложение как предварительный черновик сервисного заказа, а затем преобразовать предложение в сервисный заказ.  
@@ -38,7 +38,7 @@ ms.lasthandoff: 09/22/2017
 7. Зарегистрируйте ожидаемые себестоимости в строках сервиса.  
   
 ## <a name="see-also"></a>См. также  
-[Практическое руководство. Создание сервисных заказов](service-how-to-create-service-orders.md)  
-[Практическое руководство. Работа с сервисными задачами](service-how-to-work-on-service-tasks.md)  
+[Создание сервисных заказов](service-how-to-create-service-orders.md)  
+[Работа с сервисными задачами](service-how-to-work-on-service-tasks.md)  
 
  

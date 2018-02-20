@@ -13,13 +13,13 @@ ms. search.keywords: app, add-in, manifest, customize
 ms.date: 03/29/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
-ms.openlocfilehash: 43511c3c509c495555f4583fdbe982d8b98aa648
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: 64d1a76c4d35a87ab7af85e3325b786156f5a62f
 ms.contentlocale: ru-ru
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 01/30/2018
 
 ---
-# <a name="the-paypal-payments-standard-extension-to-dynamics-365-business-edition"></a>Расширение PayPal Payments Standard для Dynamics 365 Business edition 
+# <a name="the-paypal-payments-standard-extension-to-finance-and-operations-business-edition"></a>Расширение PayPal Payments Standard для Finance and Operations, Business edition 
 Клиенты постоянно требуют более высокого качества обслуживания как с точки зрения качества продукции, так и с точки зрения вариантов доставки и оплаты. Служба стандарта платежей PayPal помогает улучшить качество обслуживания.
 
 В качестве альтернативы сбору платежей через банковские переводы или кредитные карты вы можете предложить клиентам оплату через учетную запись PayPal. Когда вы отправляете счет продажи или заказ на продажу по электронной почте, в содержании сообщения эл. почты и во вложенном PDF-документе имеется ссылка PayPal. Когда клиент выбирает эту ссылку, открывается страница сервиса для его учетной записи PayPal, содержащая сведения об оплате этой продажи. Затем клиент может оплатить счет как любой другой платеж PayPal.
@@ -34,7 +34,7 @@ ms.lasthandoff: 11/10/2017
 * Служба стандарта платежей PayPal не включает ежемесячные расходы или сборы за установку.
 * Поскольку она является расширением, вы можете легко включать службу стандарта платежей PayPal только тогда, когда она нужна для вашего бизнеса.  
 
-Дополнительные сведения см. в разделе [Практическое руководство. Включение платежей клиентов через PayPal](sales-how-enable-payment-service-extensions.md).
+Дополнительные сведения см. в разделе [Включение платежей клиентов через PayPal](sales-how-enable-payment-service-extensions.md).
 
 ## <a name="see-also"></a>См. также
 [Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью расширений](ui-extensions.md)  

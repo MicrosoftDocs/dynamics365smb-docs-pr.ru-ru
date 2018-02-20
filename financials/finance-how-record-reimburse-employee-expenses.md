@@ -13,13 +13,13 @@ ms.search.keywords: reimbursement
 ms.date: 06/28/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: daa014eaa78caa7a317b05ca92ff27c1d1530c06
-ms.openlocfilehash: 0e10011c598678134cb7badbd9a3be97751b4424
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: c12561f4851cd75bdc4098e506c113e50d3bc3be
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/17/2017
+ms.lasthandoff: 01/30/2018
 
 ---
-# <a name="how-to-record-and-reimburse-employees-expenses"></a>Практическое руководство. Регистрация и возмещение расходов сотрудников
+# <a name="record-and-reimburse-employees-expenses"></a>Регистрация и возмещение расходов сотрудников
 [!INCLUDE[d365fin](includes/d365fin_md.md)] поддерживает транзакции для сотрудников аналогично тому, как это делается для поставщиков. Соответственно, учетные группы сотрудников существуют, чтобы обеспечить учет операций из книги операций по сотрудникам на соответствующих счетах в главной книге.
 
 > [!NOTE]  
@@ -47,12 +47,12 @@ ms.lasthandoff: 10/17/2017
 5. Выберите действие **Учесть** для регистрации возмещения.  
 
 ## <a name="to-reconcile-reimbursements-with-employee-ledger-entries"></a>Для выверки выплат возмещения расходов с книгой операций по сотрудникам
-Выплаты сотруднику применяются к соответствующим открытым операциям книги сотрудников таким же образом, как для платежей поставщикам, например в окне **Журнал выверки платежей**, на основе соответствующих операций банковской выписки. Дополнительные сведения см. в разделе [Автоматическое применение платежей и выверка банковских счетов](receivables-apply-payments-auto-reconcile-bank-accounts.md). Можно также применить вручную в окне **Книга операций по сотрудникам**. Дополнительные сведения см. в разделе [Практическое руководство. Выверка платежей поставщикам вручную](payables-how-apply-purchase-transactions-manually.md).  
+Выплаты сотруднику применяются к соответствующим открытым операциям книги сотрудников таким же образом, как для платежей поставщикам, например в окне **Журнал выверки платежей**, на основе соответствующих операций банковской выписки. Дополнительные сведения см. в разделе [Автоматическое применение платежей и выверка банковских счетов](receivables-apply-payments-auto-reconcile-bank-accounts.md). Можно также применить вручную в окне **Книга операций по сотрудникам**. Дополнительные сведения см. в разделе [Выверка платежей поставщикам вручную](payables-how-apply-purchase-transactions-manually.md).  
 
 ## <a name="see-also"></a>См. также
-[Практическое руководство. Учет транзакций непосредственно в главной книге](finance-how-post-transactions-directly.md).  
+[Учет транзакций непосредственно в главной книге](finance-how-post-transactions-directly.md).  
 [Работа с финансовыми журналами](ui-work-general-journals.md)  
-[Практическое руководство. Сторнирование учета](finance-how-reverse-journal-posting.md)  
+[Сторнирование учета](finance-how-reverse-journal-posting.md)  
 [Финансы](finance.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 

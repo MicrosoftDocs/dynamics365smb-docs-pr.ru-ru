@@ -13,13 +13,13 @@ ms.search.keywords: year closing, close accounting period, close fiscal year, ba
 ms.date: 03/29/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
-ms.openlocfilehash: 68017b8b031ee4bd368936b6fb4de157328d7030
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: 78039e9387866ce17ff3be5a2ff509545e8439d2
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 01/30/2018
 
 ---
-# <a name="how-to-post-the-year-end-closing-entry"></a>Практическое руководство: учет операции закрытия года
+# <a name="post-the-year-end-closing-entry"></a>Учет операции закрытия года
 После использования пакетного задания **Закрытие отчета о прибылях и убытках** для создания закрывающей операции (операций) на конец года необходимо открыть журнал, указанный для пакетного задания, и затем просмотреть и учесть записи.
 
 ## <a name="to-post-the-year-end-closing-entry"></a>Учет операции закрытия года
@@ -32,7 +32,7 @@ ms.lasthandoff: 09/22/2017
 >   При обнаружении ошибки отображается сообщение об ошибке. Если учет выполнен успешно, система удалит учтенные записи из журнала. После завершения учета запись учитывается во всех счетах прибылей и убытков, при этом ее сальдо становится нулевым, и результат года переносится в балансовый отчет.
 
 ## <a name="see-also"></a>См. также
-[Практическое руководство. Закрытие учетных периодов](year-close-account-periods.md)  
+[Закрытие учетных периодов](year-close-account-periods.md)  
 [Закрытие книг](year-close-books.md)  
 [Закрытие отчета о прибылях и убытках](year-close-income-statement.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

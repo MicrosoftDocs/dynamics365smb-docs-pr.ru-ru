@@ -13,10 +13,10 @@ ms.search.keywords: vendor payment, creditor, debt, balance due, AP
 ms.date: 06/28/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: daa014eaa78caa7a317b05ca92ff27c1d1530c06
-ms.openlocfilehash: 2939c4bf99b0fec05fd3625af589f05710a05a3c
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: 04416ae3b9433ccc3bf1295f006df0f4c72f27b5
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/17/2017
+ms.lasthandoff: 01/30/2018
 
 ---
 # <a name="managing-payables"></a>Управление кредиторской задолженностью
@@ -32,13 +32,16 @@ ms.lasthandoff: 10/17/2017
 | --- | --- |
 | Создавайте причитающиеся выплаты поставщиками или выплаты для возмещения расходов сотрудников, подготавливайте платежи чеками и экспортируйте платежи в банковский файл при учете. |[Осуществление платежей](payables-make-payments.md) |
 | Автоматическое применение платежей поставщикам к неоплаченным счетам покупки путем импорта файла банковской выписки. |[Автоматическое применение платежей и выверка банковских счетов](receivables-apply-payments-auto-reconcile-bank-accounts.md) |
-| Применение платежей поставщикам к неоплаченным счетам покупки вручную. |[Практическое руководство. Выверка платежей поставщикам вручную](payables-how-apply-purchase-transactions-manually.md) |
-|Проверьте правильность переоценки запасов, назначив дополнительную себестоимость товаров, например за транспортировку, физическое обращение, страхование и другие расходы, которые вы несли при покупке.|[Практическое руководство. Использование товарных издержек для учета дополнительных торговых расходов](payables-how-assign-item-charges.md)|
+| Применение платежей поставщикам к неоплаченным счетам покупки вручную. |[Выверка платежей поставщикам вручную](payables-how-apply-purchase-transactions-manually.md) |
+|Проверьте правильность переоценки запасов, назначив дополнительную себестоимость товаров, например за транспортировку, физическое обращение, страхование и другие расходы, которые вы несли при покупке.|[Использование товарных издержек для учета дополнительных торговых расходов](payables-how-assign-item-charges.md)|
 
 ## <a name="see-also"></a>См. также
 [Покупки](purchasing-manage-purchasing.md)  
 [Управление дебиторской задолженностью](receivables-manage-receivables.md)  
-[Практическое руководство. Использование товарных издержек для учета дополнительных торговых расходов](payables-how-assign-item-charges.md)  
+[Использование товарных издержек для учета дополнительных торговых расходов](payables-how-assign-item-charges.md)  
 [Общие бизнес-функции](ui-across-business-areas.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+
+## [!INCLUDE[d365fin](includes/free_trial_md.md)]  
+## [!INCLUDE[d365fin](includes/training_link_md.md)]
 

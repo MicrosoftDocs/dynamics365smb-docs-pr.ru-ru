@@ -13,10 +13,10 @@ ms.search.keywords: electronic document, e-invoice, incoming document, OCR, ecom
 ms.date: 06/02/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 81636fc2e661bd9b07c54da1cd5d0d27e30d01a2
-ms.openlocfilehash: 8c15fded4b70ee0fce8ad43f90b915a33523fc77
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: d38f1ed77ac3fac7c9283af6ea0f92479adbf89f
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 01/30/2018
 
 ---
 # <a name="incoming-documents"></a>Входящие документы
@@ -41,7 +41,7 @@ ms.lasthandoff: 09/22/2017
 
 | Действие | Ссылка |
 | --- | --- |
-| Настраивайте функции входящих документов и службу OCR. |[Практическое руководство. Настройка входящих документов](across-how-setup-income-documents.md) |
+| Настраивайте функции входящих документов и службу OCR. |[Настройка входящих документов](across-how-setup-income-documents.md) |
 | Создавайте записи входящих документов, вложенные файлы, используйте OCR для преобразования PDF-файлов в электронные документы, преобразуйте электронные документы в записи документа, выполняйте аудит учтенных документов продажи и покупки по записям входящих документов. |[Обработка входящих документов](across-process-income-documents.md) |
 
 ## <a name="see-also"></a>См. также

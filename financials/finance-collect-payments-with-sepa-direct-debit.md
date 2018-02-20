@@ -1,5 +1,5 @@
 ---
-title: "Прямой дебет SEPA в Dynamics 365 | Документы Майкрософт"
+title: "Прямое дебетование SEPA в Finance and Operations, Business edition | Microsoft Docs"
 description: "Можно собирать оплаты непосредственно из окна банковского счета клиента в соответствии с форматом SEPA."
 author: SorenGP
 ms.service: dynamics365-financials
@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 08/21/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 8b2e20e694279a8c06188e0e429ef3b4fb43aea2
-ms.openlocfilehash: 0447e6c9f84457589df5cbc1efaecb2de24e7295
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: cf07a08eebe8bfffc99f7351a96526452728552e
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/27/2017
+ms.lasthandoff: 01/30/2018
 
 ---
 # <a name="collecting-payments-with-sepa-direct-debit"></a>Сбор платежей с прямым дебетом SEPA
@@ -35,10 +35,10 @@ ms.lasthandoff: 09/27/2017
 
 |**Задача**|**Ссылка**|  
 |------------|-------------|  
-|Подготовьте форматы банковского счета, методы оплаты и соглашения с клиентом для прямого дебета SEPA.|[Практическое руководство. Настройка прямого дебетования SEPA](finance-how-to-set-up-sepa-direct-debit.md)|  
-|Проинструктируйте банк, чтобы он переводил суммы платежей из банковских счетов ваших клиентов на счет вашей организации в соответствии с настройкой прямого дебета SEPA.|[Практическое руководство. Создание операций погашения прямого дебета SEPA и их экспорт в файл банка](finance-how-create-sepa-direct-debit-collection-entries-export-bank-file.md)|  
-|Настройте стандартные коды продаж клиента для счетов с прямым дебетированием и создайте счета продаж со сведениями о прямом дебете, когда счета будут представлены к оплате.|[Практическое руководство. Создание типовых строк продажи и покупки](sales-how-work-standard-lines.md)|  
-|Учет платежей, сделанных как прямые дебеты SEPA.|[Практическое руководство. Учет платежной квитанции по прямому дебету SEPA](finance-how-to-post-sepa-direct-debit-payment-receipts.md)|  
+|Подготовьте форматы банковского счета, методы оплаты и соглашения с клиентом для прямого дебета SEPA.|[Настройка прямого дебетования SEPA](finance-how-to-set-up-sepa-direct-debit.md)|  
+|Проинструктируйте банк, чтобы он переводил суммы платежей из банковских счетов ваших клиентов на счет вашей организации в соответствии с настройкой прямого дебета SEPA.|[Создание операций погашения прямого дебета SEPA и их экспорт в файл банка](finance-how-create-sepa-direct-debit-collection-entries-export-bank-file.md)|  
+|Настройте стандартные коды продаж клиента для счетов с прямым дебетированием и создайте счета продаж со сведениями о прямом дебете, когда счета будут представлены к оплате.|[Создание типовых строк продажи и покупки](sales-how-work-standard-lines.md)|  
+|Учет платежей, сделанных как прямые дебеты SEPA.|[Учет платежной квитанции по прямому дебету SEPA](finance-how-to-post-sepa-direct-debit-payment-receipts.md)|  
 
 ## <a name="see-also"></a>См. также  
 [Управление дебиторской задолженностью](receivables-manage-receivables.md)

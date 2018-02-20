@@ -1,6 +1,6 @@
 ---
 title: "Пошаговое руководство. Получение и складирование в расширенных конфигурациях склада | Microsoft Docs"
-description: "В Dynamics 365 входящие процессы по получению и размещению могут быть выполнены четырьмя способами при помощи различных функций в зависимости от уровня сложности склада."
+description: "В Finance and Operations, Business edition входящие процессы по получению и размещению могут быть выполнены четырьмя способами при помощи различных функций в зависимости от уровня сложности склада."
 author: SorenGP
 ms.service: dynamics365-financials
 ms.topic: article
@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 09/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: aa56764b5f3210229ad21eae6891fb201462209c
-ms.openlocfilehash: 1d5cdff996da2d9886dce0d59d4f38796534972a
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: 991256bf2737297710d25f5a25854f4803185fc3
 ms.contentlocale: ru-ru
-ms.lasthandoff: 12/14/2017
+ms.lasthandoff: 01/30/2018
 
 ---
 # <a name="walkthrough-receiving-and-putting-away-in-advanced-warehouse-configurations"></a>Пошаговое руководство. Получение и складирование в расширенных конфигурациях склада
@@ -151,8 +151,8 @@ ms.lasthandoff: 12/14/2017
     Полученные принадлежности теперь размещаются в стандартные ячейки товаров, а 40 шарниров помещаются на сборочный участок. Принятые товары теперь доступны для подбора по внутреннему спросу, например для сборочные заказов, или по внешнему спросу, например для расходных накладных продаж.  
 
 ## <a name="see-also"></a>См. также  
- [Практическое руководство. Размещение товаров товары с помощью складских размещений](warehouse-how-to-put-items-away-with-warehouse-put-aways.md)   
- [Практическое руководство. Перемещение товаров в расширенных конфигурациях склада](warehouse-how-to-move-items-in-advanced-warehousing.md)   
+ [Размещение товаров с помощью складских размещений](warehouse-how-to-put-items-away-with-warehouse-put-aways.md)   
+ [Перемещение товаров в расширенных конфигурациях склада](warehouse-how-to-move-items-in-advanced-warehousing.md)   
  [Сведения о проектировании: входящий складской поток](design-details-inbound-warehouse-flow.md)   
  [Пошаговое руководство. Получение и складирование в базовых конфигурациях склада](walkthrough-receiving-and-putting-away-in-basic-warehousing.md)   
  [Пошаговые описания бизнес-процессов](walkthrough-business-process-walkthroughs.md)

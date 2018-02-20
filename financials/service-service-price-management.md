@@ -13,10 +13,10 @@ ms.search.keywords:
 ms.date: 08/28/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
-ms.openlocfilehash: e9eb165c8ccb196f687c11f4cb4353d88c71de3c
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: b2607dce0b62a3a1433362491692687d4c868d06
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 01/30/2018
 
 ---
 # <a name="service-price-management"></a>Управление сервисной ценой
@@ -67,6 +67,6 @@ ms.lasthandoff: 09/22/2017
 |**Минимум**|Это означает, что для клиента устанавливается нижняя граница издержек, независимо от реальной себестоимости или стандартной оплаты. Если выбран этот параметр, коррекция сервисной цены производится только тогда, когда общая сумма оказывается ниже суммы, указанной для ценовой группы сервиса.|  
   
 ## <a name="see-also"></a>См. также  
-[Практическое руководство. Настройка цен и дополнительных издержек для сервисов](service-how-setup-service-costs-pricing.md)  
+[Настройка цен и дополнительных издержек для сервисов](service-how-setup-service-costs-pricing.md)  
 [Настройка управления сервисным обслуживанием](service-setup-service.md)  
 

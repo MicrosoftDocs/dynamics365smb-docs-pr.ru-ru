@@ -13,10 +13,10 @@ ms.search.keywords: task, process, report
 ms.date: 07/06/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: de6cbcdc8e7ca4aff06461192e2038831ba6b5b3
-ms.openlocfilehash: 16c9c8c896e3517f08a7326eef88ebc646834b1a
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: c1accaa517efa3fb9958316d2586b06fa8cadb80
 ms.contentlocale: ru-ru
-ms.lasthandoff: 12/20/2017
+ms.lasthandoff: 01/30/2018
 
 ---
 # <a name="working-with-reports"></a>Работа с отчетами
@@ -67,10 +67,10 @@ ms.lasthandoff: 12/20/2017
 >Как администратор, вы можете создавать и управлять сохраненными параметрами для отчетов для всех пользователей. Дополнительные сведения см. в разделе [Управление сохраненными настройками в отчетах](reports-saving-reusing-settings.md).
 
 ## <a name="changing-the-layout-and-look-of-a-report"></a>Изменение макета и вида отчета
-Макет отчета определяет, что отображается в отчете, как он скомпонован и в каком стиле. Если требуется переключиться на другой макет, см. раздел [Практическое руководство. Смена макета, используемого для отчета](ui-how-change-layout-currently-used-report.md). Если требуется настроить собственный макет отчета, см. раздел [Практическое руководство. Создание и изменение пользовательского макета отчета](ui-how-create-custom-report-layout.md).
+Макет отчета определяет, что отображается в отчете, как он скомпонован и в каком стиле. Если требуется переключиться на другой макет, см. раздел [Смена макета, используемого для отчета](ui-how-change-layout-currently-used-report.md). Если требуется настроить собственный макет отчета, см. раздел [Создание и изменение пользовательского макета отчета](ui-how-create-custom-report-layout.md).
 
 ## <a name="see-also"></a>См. также
 [Выбор принтера для отчета](ui-specify-printer-selection-reports.md)  
 [Управление макетами отчетов и документов](ui-manage-report-layouts.md)  
-[Работа с [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

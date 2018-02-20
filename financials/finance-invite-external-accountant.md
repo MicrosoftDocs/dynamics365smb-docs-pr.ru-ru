@@ -1,6 +1,6 @@
 ---
 title: "Добавление внешнего бухгалтера в Financials | Microsoft Docs"
-description: "Узнайте, как пригласить внешнего бухгалтера в Dynamics 365 Business edition."
+description: "Узнайте, как пригласить внешнего бухгалтера в Finance and Operations, Business edition."
 author: edupont04
 ms.service: dynamics365-financials
 ms.topic: article
@@ -8,22 +8,19 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: accountant, accounting
-ms.date: 11/10/2017
+ms.date: 01/25/2018
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
-ms.openlocfilehash: 9769d4b1e34da62290cc97de291462ee2d22c747
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: fde920f4626079d66f285f366114d10807e7821b
 ms.contentlocale: ru-ru
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 01/30/2018
 
 ---
 # <a name="inviting-your-external-accountant-to-your-included365finincludesd365finmdmd"></a>Приглашение внешнего бухгалтера в ваш экземпляр [!INCLUDE[d365fin](includes/d365fin_md.md)]
 Если вы используете внешнего бухгалтера для управления вашим учетом и финансовой отчетностью, вы можете пригласить его в свой экземпляр [!INCLUDE[d365fin](includes/d365fin_md.md)], чтобы он работал в вашими данными.
 
 Как только бухгалтер получит доступ к вашему экземпляру [!INCLUDE[d365fin](includes/d365fin_md.md)], он сможет использовать ролевой центр **Бухгалтер**, который предоставляет простой доступ к наиболее важным для его работы окнам.  
-
-> [!NOTE]  
->  Для этой функциональности необходимо использовать вариант настройки интерфейса **Suite**. Дополнительные сведения см. в разделе [Настройка интерфейса Dynamics 365](ui-experiences.md).  
 
 ## <a name="invite-your-accountant-to-your-included365finincludesd365finmdmd"></a>Приглашение бухгалтера в ваш экземпляр [!INCLUDE[d365fin](includes/d365fin_md.md)]
 В последней версии [!INCLUDE[d365fin](includes/d365fin_md.md)] мы упростили для вас приглашение внешнего бухгалтера. Просто откройте окно **Пользователи**, затем выберите действие **Пригласить внешнего бухгалтера** на ленте. Для вас подготавливается сообщение эл. почты, просто добавьте адрес рабочей эл. почты своего бухгалтера и отправьте приглашение.  
@@ -45,7 +42,7 @@ ms.lasthandoff: 11/10/2017
 
 ## <a name="see-also"></a>См. также
 [Финансы](finance.md)  
-[Практическое руководство. Настройка электронной почты вручную или с помощью сопровождаемой настройки](madeira-how-setup-email.md)  
-[Работа бухгалтера в Dynamics 365 Business edition ](finance-accounting.md)  
-[Dynamics 365 для бухгалтеров на Microsoft.com](https://www.microsoft.com/en-us/dynamics365/financial-insights-for-accountants)  
+[Настройка электронной почты вручную или с помощью сопровождаемой настройки](madeira-how-setup-email.md)  
+[Работа бухгалтера в Finance and Operations, Business edition](finance-accounting.md)  
+[Finance and Operations, Business edition для бухгалтеров на Microsoft.com](https://www.microsoft.com/en-us/dynamics365/financial-insights-for-accountants)  
 

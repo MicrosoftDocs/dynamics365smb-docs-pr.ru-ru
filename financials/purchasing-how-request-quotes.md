@@ -12,19 +12,19 @@ ms.search.keywords: rfq
 ms.date: 08/08/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: aa56764b5f3210229ad21eae6891fb201462209c
-ms.openlocfilehash: df1793d811dea11c01ff5e7d90a9f52b9e987c13
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: 3fe5eca9c26380248471facbd945838b1bf47a1d
 ms.contentlocale: ru-ru
-ms.lasthandoff: 12/14/2017
+ms.lasthandoff: 01/30/2018
 
 ---
-# <a name="how-to-request-quotes"></a>Практическое руководство. Запрос предложений
+# <a name="request-quotes"></a>Запрос предложений
 Предложение по покупке может использоваться в качестве предварительного предложения по заказу на покупку, а заказ затем может быть преобразован в счет или заказ на покупку.
 
 
 ## <a name="to-create-a-purchase-quote"></a>Создание предложения по покупке
 1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Предложения по покупке**, затем выберите связанную ссылку.
-2. Создайте новый документ, так же, как это делается для заказа на покупку. Дополнительные сведения см. в разделе [Практическое руководство. Регистрация покупок](purchasing-how-record-purchases.md).
+2. Создайте новый документ, так же, как это делается для заказа на покупку. Дополнительные сведения см. в разделе [Регистрация покупок](purchasing-how-record-purchases.md).
 
 ## <a name="to-convert-a-purchase-quote-to-a-purchase-order"></a>Преобразование предложения по покупке в заказ на покупку
 Когда вы приняли предложение поставщика, можно преобразовать его в счет или заказ покупки для обработки покупки.
@@ -36,6 +36,6 @@ ms.lasthandoff: 12/14/2017
 ## <a name="see-also"></a>См. также
 [Покупки](purchasing-manage-purchasing.md)  
 [Настройка покупки](purchasing-setup-purchasing.md)  
-[Практическое руководство. Отправка документов по электронной почте](ui-how-send-documents-email.md)  
+[Отправка документов по электронной почте](ui-how-send-documents-email.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

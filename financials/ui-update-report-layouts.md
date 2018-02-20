@@ -13,10 +13,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
-ms.openlocfilehash: c94729c84470267421207a6edaa413116718f715
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: 0395cf37d56282684c2a6e4c2066fd9b249f16f0
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/22/2017
+ms.lasthandoff: 01/30/2018
 
 ---
 # <a name="updating-report-or-document-layouts"></a>Обновление макетов отчетов или документов
@@ -60,7 +60,7 @@ ms.lasthandoff: 09/22/2017
   
  Наиболее распространенная проблема происходит, если поле, используемое в макете, было удалено из набора данных отчета. В данном случае отобразится строка в сообщении об ошибке, где будет указано, что товар был удален. Для устранения этой проблемы потребуется изменить макет и удалить соответствующее поле.  
   
- Дополнительные сведения см. в разделе [Практическое руководство. Создание и изменение пользовательского макета отчета](ui-how-create-custom-report-layout.md#ModifyCustomLayout).  
+ Дополнительные сведения см. в разделе [Создание и изменение пользовательского макета отчета](ui-how-create-custom-report-layout.md#ModifyCustomLayout).  
   
  После изменения макета попытайтесь обновить его снова.  
   

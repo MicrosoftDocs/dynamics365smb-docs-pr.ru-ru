@@ -1,6 +1,6 @@
 ---
-title: "Установка расширений для настройки Dynamics 365 Business edition | Microsoft Docs"
-description: "Узнайте об увеличении функциональности и настройке Dynamics 365 Business edition путем установки расширений."
+title: "Установка расширений для настройки Finance and Operations, Business edition | Microsoft Docs"
+description: "Узнайте о добавлении функций и настройке Finance and Operations, Business edition путем установки расширений."
 documentationcenter: 
 author: edupont04
 ms.service: dynamics365-financials
@@ -12,20 +12,20 @@ ms.search.keywords: app, add-in, manifest, customize
 ms.date: 07/07/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: cfe0eed4090ef458e774da8d0bc03910247570d7
-ms.openlocfilehash: fb13cfe2d5e5a397d33f66b9fd4db14e46dcc5e1
+ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
+ms.openlocfilehash: 5deba7ee0f88c47738f3f964b9da912c730a1bd4
 ms.contentlocale: ru-ru
-ms.lasthandoff: 12/14/2017
+ms.lasthandoff: 01/30/2018
 
 ---
-# <a name="customizing-dynamics-365-business-edition-using-extensions"></a>Настройка Dynamics 365, Business edition с помощью расширений
+# <a name="customizing-finance-and-operations-business-edition-using-extensions"></a>Настройка Finance and Operations, Business edition с помощью расширений
 Вы можете изменить [!INCLUDE[d365fin](includes/d365fin_md.md)] за счет установки расширений, которые добавляют функциональность, изменяют поведение или, например, предоставляют доступ к новым интернет-службам.
 При первом запуске [!INCLUDE[d365fin](includes/d365fin_md.md)] некоторые расширения уже установлены. Со временем вам станут доступны дополнительные расширения, и вы сможете выбрать, хотите ли вы использовать эти расширения.
 
 Например, корпорация Майкрософт предлагает расширение, которое обеспечивает интеграцию с PayPal Payments Standard. Это расширение установлено по умолчанию.
 Но если появится другое расширение, предлагающее интеграцию с другой службой платежей, вы можете установить его и выбрать службу платежей для использования.  
 
-Управление расширениями осуществляется в окне **Управление расширениями**. Это окно доступно с начальной страницы. Либо в правом вернем углу щелкните значок **Поиск страницы или отчета** ![Поиск страницы или отчета](media/ui-search/search_small.png "значок "Поиск страницы или отчета""), введите **Расширение** и выберите связанную ссылку.  
+Управление расширениями осуществляется в окне **Управление расширениями**. Это окно доступно с начальной страницы. Либо в правом вернем углу щелкните значок **Поиск страницы или отчета** ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Расширение** и выберите связанную ссылку.  
 
 > [!NOTE]  
 >   Если вы считаете, что у вас должен быть доступ к расширению, но вы не можете найти его функциональные возможности, проверьте окно **Управление расширениями**. Если расширение не указано в списке, вы можете установить его, как описано в следующем разделе.  
@@ -68,12 +68,13 @@ ms.lasthandoff: 12/14/2017
 >  Новые расширения не становятся доступными в AppSource сразу после объявления об обновлении. Следить за выходом новых расширений можно на сайте [AppSource.microsoft.com](https://appsource.microsoft.com/en-us/marketplace/apps?product=dynamics-365%3Bdynamics-365-for-financials&page=1).
 
 ## <a name="see-also"></a>См. также
-[Практическое руководство. Настройка службы банковских выписок Envestnet Yodlee](bank-how-setup-bank-statement-service.md)  
-[Практическое руководство. Включение платежей клиентов через PayPal](sales-how-enable-payment-service-extensions.md)  
+[Настройка службы банковских выписок Envestnet Yodlee](bank-how-setup-bank-statement-service.md)  
+[Включение платежей клиентов через PayPal](sales-how-enable-payment-service-extensions.md)  
 [Миграция бизнес-данных из других финансовых систем](upload-data.md)  
 [Настройка расширения "Почтовые индексы Великобритании GetAddress.io"](LocalFunctionality/UnitedKingdom/uk-setup-postal-code-service.md)  
 [Расширения [!INCLUDE[d365fin](includes/d365fin_md.md)] от других поставщиков](ui-extensions-other.md)  
 [Добро пожаловать в [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md)  
 
-## [!INCLUDE[d365fin](includes/free_trial_md.md)]
+## [!INCLUDE[d365fin](includes/free_trial_md.md)]  
+## [!INCLUDE[d365fin](includes/training_link_md.md)]
 
