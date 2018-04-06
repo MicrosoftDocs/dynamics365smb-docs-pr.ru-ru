@@ -1,0 +1,1 @@
+<span data-ttu-id="8ea09-101">Функции Isabel доступны только для локальных развертываний.</span><span class="sxs-lookup"><span data-stu-id="8ea09-101">The Isabel features are available only for on-premises deployments.</span></span>

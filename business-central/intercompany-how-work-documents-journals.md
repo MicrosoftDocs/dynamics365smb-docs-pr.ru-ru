@@ -1,0 +1,63 @@
+---
+title: "Учет межфирменных документов и журналов | Документы Майкрософт"
+description: "Использование межфирменных документов для учета транзакций с МФ-партнерами."
+services: project-madeira
+documentationcenter: 
+author: SorenGP
+ms.service: dynamics365-business-central
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: IC, group, consolidation, affiliate, subsidiary
+ms.date: 06/21/2017
+ms.author: sgroespe
+ms.translationtype: HT
+ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
+ms.openlocfilehash: 2f56dd9746ab065628f5785715153b82fa02a155
+ms.contentlocale: ru-ru
+ms.lasthandoff: 03/22/2018
+
+---
+# <a name="work-with-intercompany-documents-and-journals"></a><span data-ttu-id="6025c-103">Работа с межфирменными документами и журналами</span><span class="sxs-lookup"><span data-stu-id="6025c-103">Work with Intercompany Documents and Journals</span></span>
+<span data-ttu-id="6025c-104">Межфирменные документы или журналы можно использовать для учета транзакций, выполненных с партнерами по межфирменным операциям.</span><span class="sxs-lookup"><span data-stu-id="6025c-104">You use intercompany documents or journals to post transactions with your intercompany partners.</span></span> <span data-ttu-id="6025c-105">При учете межфирменного документа или строки журнала в вашей организации в вашем межфирменном выходном ящике создается соответствующий документ или строка журнала, которые можно передать партнеру.</span><span class="sxs-lookup"><span data-stu-id="6025c-105">When you post an intercompany document or journal line in your company, a corresponding document or journal line is created in your intercompany outbox that you can transfer to your partner.</span></span> <span data-ttu-id="6025c-106">Затем партнер может учесть соответствующую транзакцию в своей организации без повторного ввода данных.</span><span class="sxs-lookup"><span data-stu-id="6025c-106">Your partner can then post the corresponding transaction in their company, without having to re-enter the data.</span></span>
+
+<span data-ttu-id="6025c-107">Для документов покупки и продажи код межфирменного партнера для соответствующего клиента или поставщика обеспечивает, что все заказы и счета, создаваемые в связи с транзакциями с этими организациями, будут создавать соответствующие документы в партнерской организации, что приведет к правильно балансировке счетов.</span><span class="sxs-lookup"><span data-stu-id="6025c-107">For sales and purchase documents, the intercompany partner code on the involved customer or vendor ensures that all orders and invoices generated pertaining to transactions with these companies will produce corresponding documents in the partner company, resulting in correct balancing of the accounts.</span></span>
+
+<span data-ttu-id="6025c-108">Для строк межфирменного финансового журнала нет необходимости указывать счета для отдельных наборов журналов, достаточно дать идентификатор организации-партнера.</span><span class="sxs-lookup"><span data-stu-id="6025c-108">For intercompany general journal lines, you do not need to specify the accounts for an individual set of books, but simply give the identification of the partner company.</span></span> <span data-ttu-id="6025c-109">Соответствующие стоки межфирменного финансового журнала затем создаются в организации-партнере, которые после учета обеспечивают балансировку журналов обеих организаций, участвующих в транзакции.</span><span class="sxs-lookup"><span data-stu-id="6025c-109">Corresponding intercompany general journal lines are then created in the partner company that result in the balancing of the books of both companies involved in a transaction.</span></span>
+
+## <a name="to-fill-in-and-send-an-intercompany-sales-order"></a><span data-ttu-id="6025c-110">Заполнение и отправка межфирменного заказа на продажу</span><span class="sxs-lookup"><span data-stu-id="6025c-110">To fill in and send an intercompany sales order</span></span>
+<span data-ttu-id="6025c-111">До учета можно отправить заказы на продажу и покупку, а также заказы на возврат.</span><span class="sxs-lookup"><span data-stu-id="6025c-111">You can send sales and purchase orders and return orders before posting.</span></span> <span data-ttu-id="6025c-112">Счета-фактуры и заявки на кредит не могут быть отправлены, пока не будут учтены.</span><span class="sxs-lookup"><span data-stu-id="6025c-112">Invoices and credit memos cannot be sent until they are posted.</span></span>
+
+<span data-ttu-id="6025c-113">Следующая процедура описывает, как заполнить и отправить межфирменный заказ на продажу.</span><span class="sxs-lookup"><span data-stu-id="6025c-113">The following procedure describes how to fill in and send an intercompany sales order.</span></span> <span data-ttu-id="6025c-114">Эти же действия применяются к межфирменным заказам на покупку и возвратам, а также к учтенным межфирменным счетам и кредит-нотам.</span><span class="sxs-lookup"><span data-stu-id="6025c-114">The same steps apply to intercompany purchase orders and return orders, and to posted intercompany invoices and credit memos.</span></span>  
+
+1. <span data-ttu-id="6025c-115">Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Заказы на продажу**, а затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="6025c-115">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Sales Orders**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="6025c-116">Чтобы создать новый заказ на продажу, выберите **Создать**.</span><span class="sxs-lookup"><span data-stu-id="6025c-116">Choose **New** to create a new sales order.</span></span> <span data-ttu-id="6025c-117">Дополнительные сведения см. в разделе [Продажа продукции](sales-how-sell-products.md).</span><span class="sxs-lookup"><span data-stu-id="6025c-117">For more information, see [Sell Products](sales-how-sell-products.md).</span></span>  
+3. <span data-ttu-id="6025c-118">Заполните соответствующим образом поля.</span><span class="sxs-lookup"><span data-stu-id="6025c-118">Fill in the fields as necessary.</span></span> [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
+4. <span data-ttu-id="6025c-119">Убедитесь, что клиент является межфирменным партнером.</span><span class="sxs-lookup"><span data-stu-id="6025c-119">Make sure the customer is an intercompany partner.</span></span>
+5. <span data-ttu-id="6025c-120">Для отправки заказа на продажу до его учета выберите действие **Отправить межфирменный заказ на продажу**.</span><span class="sxs-lookup"><span data-stu-id="6025c-120">To send the sales order before you post it, choose the **Send IC Sales Order** action.</span></span>
+
+> [!NOTE]
+> <span data-ttu-id="6025c-121">Если шаг 4 будет выполнен, то заказ на продажу будет перемещен в межфирменный выходной ящик, откуда его можно отправить позже.</span><span class="sxs-lookup"><span data-stu-id="6025c-121">If you do perform step 4, then the sales order will be moved to your intercompany outbox where you can send it later.</span></span> <span data-ttu-id="6025c-122">Дополнительные сведения см. в разделе [Управление межфирменными входящими и исходящими ящиками](intercompany-how-manage-intercompany-inbox.md).</span><span class="sxs-lookup"><span data-stu-id="6025c-122">For more information, see [Manage the Intercompany Inbox and Outbox](intercompany-how-manage-intercompany-inbox.md).</span></span>
+
+## <a name="to-fill-in-and-post-an-intercompany-journal"></a><span data-ttu-id="6025c-123">Заполнение и учет межфирменного журнала</span><span class="sxs-lookup"><span data-stu-id="6025c-123">To fill in and post an intercompany journal</span></span>
+<span data-ttu-id="6025c-124">При учете строки межфирменного финансового журнала в вашей организации в вашем межфирменном выходном ящике создается соответствующая строка журнала, которую можно передать партнеру.</span><span class="sxs-lookup"><span data-stu-id="6025c-124">When you post an intercompany general journal line in your company, a corresponding journal line is created in your intercompany outbox that you can transfer to your partner.</span></span> <span data-ttu-id="6025c-125">Затем партнер может учесть соответствующую транзакцию в своей организации без повторного ввода данных.</span><span class="sxs-lookup"><span data-stu-id="6025c-125">Your partner can then post the corresponding transaction in their company, without having to re-enter the data.</span></span>
+
+1. <span data-ttu-id="6025c-126">Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **МФ - финансовые журналы**, затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="6025c-126">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **IC General Journals**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="6025c-127">Откройте соответствующий раздел журнала.</span><span class="sxs-lookup"><span data-stu-id="6025c-127">Open the relevant journal batch.</span></span> <span data-ttu-id="6025c-128">Дополнительные сведения см. в разделе [Работа с финансовыми журналами](ui-work-general-journals.md).</span><span class="sxs-lookup"><span data-stu-id="6025c-128">For more information, see [Working with General Journals](ui-work-general-journals.md).</span></span>
+3. <span data-ttu-id="6025c-129">Заполните соответствующим образом поля.</span><span class="sxs-lookup"><span data-stu-id="6025c-129">Fill in the fields as necessary.</span></span>
+4. <span data-ttu-id="6025c-130">В поле **МФ Номер счета ГК партнера** введите счет межфирменной ГК, сумма с которого будет учтена в партнерской организации.</span><span class="sxs-lookup"><span data-stu-id="6025c-130">In the **IC Partner G/L Acc. No.** field, enter the intercompany general ledger account that the amount will be posted to in your partner's company.</span></span>
+
+    > [!NOTE]
+    > <span data-ttu-id="6025c-131">Это поле должно быть заполнено вводом банковского счета или счета главной книги в поле **Номер счета** или **Номер бал. счета**.</span><span class="sxs-lookup"><span data-stu-id="6025c-131">This field must be filled in on a line with a bank account or general ledger account in either the **Account No.** field or the **Bal. Account No.** field.</span></span>  
+5. <span data-ttu-id="6025c-132">Выберите действие **Учесть**.</span><span class="sxs-lookup"><span data-stu-id="6025c-132">Choose the **Post** action.</span></span>
+
+<span data-ttu-id="6025c-133">Соответствующие операции учитываются в вашей организации, и журнал с соответствующими операциями создается в межфирменном исходящем ящике, который можно отправить в вашей партнерскую организацию.</span><span class="sxs-lookup"><span data-stu-id="6025c-133">The involved entries are posted in your company and a journal with the corresponding entries are created in your intercompany outbox that you can send to your partner company.</span></span> <span data-ttu-id="6025c-134">Дополнительные сведения см. в разделе [Управление межфирменными входящими и исходящими ящиками](intercompany-how-manage-intercompany-inbox.md).</span><span class="sxs-lookup"><span data-stu-id="6025c-134">For more information, see [Manage the Intercompany Inbox and Outbox](intercompany-how-manage-intercompany-inbox.md).</span></span> 
+
+## <a name="see-also"></a><span data-ttu-id="6025c-135">См. также</span><span class="sxs-lookup"><span data-stu-id="6025c-135">See Also</span></span>
+[<span data-ttu-id="6025c-136">Управление межфирменными транзакциями</span><span class="sxs-lookup"><span data-stu-id="6025c-136">Managing Intercompany Transactions</span></span>](intercompany-manage.md)  
+[<span data-ttu-id="6025c-137">Финансы</span><span class="sxs-lookup"><span data-stu-id="6025c-137">Finance</span></span>](finance.md)  
+[<span data-ttu-id="6025c-138">Настройка финансов</span><span class="sxs-lookup"><span data-stu-id="6025c-138">Setting Up Finance</span></span>](finance-setup-finance.md)  
+[<span data-ttu-id="6025c-139">Работа с финансовыми журналами</span><span class="sxs-lookup"><span data-stu-id="6025c-139">Working with General Journals</span></span>](ui-work-general-journals.md)  
+<span data-ttu-id="6025c-140">[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="6025c-140">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>
+

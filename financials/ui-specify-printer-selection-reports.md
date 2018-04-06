@@ -16,13 +16,13 @@ ms.translationtype: HT
 ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
 ms.openlocfilehash: 9612d1b0859639bf25713dd8bcfbebdaacd3517e
 ms.contentlocale: ru-ru
-ms.lasthandoff: 01/30/2018
+ms.lasthandoff: 03/22/2018
 
 ---
-# <a name="specify-printer-selection-for-reports"></a><span data-ttu-id="4adeb-103">Выбор принтера для отчета</span><span class="sxs-lookup"><span data-stu-id="4adeb-103">Specify Printer Selection for Reports</span></span>
-<span data-ttu-id="4adeb-104">Эта страница пустая, поскольку еще невозможно настроить определенные принтеры для конкретных отчетов.</span><span class="sxs-lookup"><span data-stu-id="4adeb-104">This page is empty because you cannot yet set up specific printers for specific reports.</span></span> <span data-ttu-id="4adeb-105">Мы работаем над разрешением этой проблемы.</span><span class="sxs-lookup"><span data-stu-id="4adeb-105">We are working on solving this.</span></span>
+# <a name="specify-printer-selection-for-reports"></a><span data-ttu-id="ee8a8-103">Выбор принтера для отчета</span><span class="sxs-lookup"><span data-stu-id="ee8a8-103">Specify Printer Selection for Reports</span></span>
+<span data-ttu-id="ee8a8-104">Эта страница пустая, поскольку еще невозможно настроить определенные принтеры для конкретных отчетов.</span><span class="sxs-lookup"><span data-stu-id="ee8a8-104">This page is empty because you cannot yet set up specific printers for specific reports.</span></span> <span data-ttu-id="ee8a8-105">Мы работаем над разрешением этой проблемы.</span><span class="sxs-lookup"><span data-stu-id="ee8a8-105">We are working on solving this.</span></span>
 
-<span data-ttu-id="4adeb-106">Между тем, если вам требуется напечатать отчет, вам следует сначала загрузить отчет как PDF-документ, нажав кнопку **Отправить**.</span><span class="sxs-lookup"><span data-stu-id="4adeb-106">In the meantime, when you want to print a report, you have to download the report as a PDF document first by choosing the **Send to** button.</span></span> <span data-ttu-id="4adeb-107">Затем выберите тип файла для загрузки отчета, в данном случае — **Документ PDF**.</span><span class="sxs-lookup"><span data-stu-id="4adeb-107">Then you select the type of file to download the report as, and here you should pick **PDF Document**.</span></span> <span data-ttu-id="4adeb-108">Теперь можно либо открыть PDF-документ сразу же и напечатать его, либо сохранить документ и напечатать его позже.</span><span class="sxs-lookup"><span data-stu-id="4adeb-108">Now, you can either open the PDF document right-away and print it, or save it and print it later.</span></span>
+<span data-ttu-id="ee8a8-106">Между тем, если вам требуется напечатать отчет, вам следует сначала загрузить отчет как PDF-документ, нажав кнопку **Отправить**.</span><span class="sxs-lookup"><span data-stu-id="ee8a8-106">In the meantime, when you want to print a report, you have to download the report as a PDF document first by choosing the **Send to** button.</span></span> <span data-ttu-id="ee8a8-107">Затем выберите тип файла для загрузки отчета, в данном случае — **Документ PDF**.</span><span class="sxs-lookup"><span data-stu-id="ee8a8-107">Then you select the type of file to download the report as, and here you should pick **PDF Document**.</span></span> <span data-ttu-id="ee8a8-108">Теперь можно либо открыть PDF-документ сразу же и напечатать его, либо сохранить документ и напечатать его позже.</span><span class="sxs-lookup"><span data-stu-id="ee8a8-108">Now, you can either open the PDF document right-away and print it, or save it and print it later.</span></span>
 
 <!--
 
@@ -45,8 +45,8 @@ The following table describes the combination of values to specify when you set 
 |Print a specific report to a specific printer for a specific user|Specify values in all three fields.|
 -->
 
-## <a name="see-also"></a><span data-ttu-id="4adeb-109">См. также</span><span class="sxs-lookup"><span data-stu-id="4adeb-109">See Also</span></span>
-<span data-ttu-id="4adeb-110">[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="4adeb-110">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>  
-[<span data-ttu-id="4adeb-111">Запуск пакетных заданий</span><span class="sxs-lookup"><span data-stu-id="4adeb-111">Run Batch Jobs</span></span>](ui-how-run-batch-jobs.md)  
-[<span data-ttu-id="4adeb-112">Отправка документов по электронной почте</span><span class="sxs-lookup"><span data-stu-id="4adeb-112">Send Documents by Email</span></span>](ui-how-send-documents-email.md)  
+## <a name="see-also"></a><span data-ttu-id="ee8a8-109">См. также</span><span class="sxs-lookup"><span data-stu-id="ee8a8-109">See Also</span></span>
+<span data-ttu-id="ee8a8-110">[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="ee8a8-110">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>  
+[<span data-ttu-id="ee8a8-111">Запуск пакетных заданий</span><span class="sxs-lookup"><span data-stu-id="ee8a8-111">Run Batch Jobs</span></span>](ui-how-run-batch-jobs.md)  
+[<span data-ttu-id="ee8a8-112">Отправка документов по электронной почте</span><span class="sxs-lookup"><span data-stu-id="ee8a8-112">Send Documents by Email</span></span>](ui-how-send-documents-email.md)  
 

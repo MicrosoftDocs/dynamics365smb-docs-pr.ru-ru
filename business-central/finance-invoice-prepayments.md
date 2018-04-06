@@ -1,0 +1,39 @@
+---
+title: "Предоплата по счету | Документы Майкрософт"
+description: "Предоплата — это платежи, для которых выставление счетов и учет в заказах на предоплату при продажах или покупках осуществляется до окончательного выставления счетов. Может требоваться аванс перед началом производства товаров по заказу или платеж перед из отгрузкой клиенту. Благодаря функции предоплаты можно выставлять счета и собирать необходимые авансы от клиентов либо переводить авансы поставщикам. Таким образом, можно гарантировать учет всех платежей по счету."
+services: project-madeira
+documentationcenter: 
+author: SorenGP
+ms.service: dynamics365-business-central
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: 
+ms.date: 08/07/2017
+ms.author: sgroespe
+ms.translationtype: HT
+ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
+ms.openlocfilehash: 5cdc1ddde1762976a89d60f7906fb3e7363982f0
+ms.contentlocale: ru-ru
+ms.lasthandoff: 03/22/2018
+
+---
+# <a name="invoicing-prepayments"></a><span data-ttu-id="cbfb0-106">Выставление счетов на предоплату</span><span class="sxs-lookup"><span data-stu-id="cbfb0-106">Invoicing Prepayments</span></span>
+<span data-ttu-id="cbfb0-107">Предоплата — это платежи, для которых выставление счетов и учет в заказах на предоплату при продажах или покупках осуществляется до окончательного выставления счетов.</span><span class="sxs-lookup"><span data-stu-id="cbfb0-107">Prepayments are payments that are invoiced and posted to a sales or purchase prepayment order before final invoicing.</span></span> <span data-ttu-id="cbfb0-108">Может требоваться аванс перед началом производства товаров по заказу или платеж перед из отгрузкой клиенту.</span><span class="sxs-lookup"><span data-stu-id="cbfb0-108">You might require a deposit before you manufacture items to order, or you might require payment before you ship items to a customer.</span></span> <span data-ttu-id="cbfb0-109">Благодаря функции предоплаты можно выставлять счета и собирать необходимые авансы от клиентов либо переводить авансы поставщикам.</span><span class="sxs-lookup"><span data-stu-id="cbfb0-109">The prepayments functionality enables you to invoice and collect deposits required from customers or to remit deposits to vendors.</span></span> <span data-ttu-id="cbfb0-110">Таким образом, можно гарантировать учет всех платежей по счету.</span><span class="sxs-lookup"><span data-stu-id="cbfb0-110">Thus, you can ensure that all payments are posted against an invoice.</span></span>  
+
+ <span data-ttu-id="cbfb0-111">Необходимость предоплаты можно определить для клиента или поставщика для всех или выбранных товаров.</span><span class="sxs-lookup"><span data-stu-id="cbfb0-111">Prepayment requirements can be defined for a customer or vendor for all items or selected items.</span></span> <span data-ttu-id="cbfb0-112">После завершения необходимой настройки можно сгенерировать счета на предоплату на основе заказов на продажу или покупку для вычисленных сумм предоплаты.</span><span class="sxs-lookup"><span data-stu-id="cbfb0-112">After you complete the required setup, you can generate prepayment invoices from sales and purchase orders for the calculated prepayment amount.</span></span> <span data-ttu-id="cbfb0-113">При необходимости суммы в счете можно изменить.</span><span class="sxs-lookup"><span data-stu-id="cbfb0-113">You can change the amounts on the invoice as needed.</span></span> <span data-ttu-id="cbfb0-114">Например, можно указать общую сумму для всего заказа.</span><span class="sxs-lookup"><span data-stu-id="cbfb0-114">For example, you can specify a total amount for the entire order.</span></span> <span data-ttu-id="cbfb0-115">Можно также отправить дополнительные счета на предоплату, если, к примеру, в заказ были добавлены дополнительные товары.</span><span class="sxs-lookup"><span data-stu-id="cbfb0-115">You can also send additional prepayment invoices if, for example, additional items are added to the order.</span></span> <span data-ttu-id="cbfb0-116">После осуществления предоплаты можно увеличить количества или добавить в заказ новые строки, а затем — учесть еще один счет на предоплату.</span><span class="sxs-lookup"><span data-stu-id="cbfb0-116">You can increase quantities or add new lines to an order after issuing a prepayment, and then you can post another prepayment invoice.</span></span> <span data-ttu-id="cbfb0-117">Если требуется удалить строку, для которой уже выставлен счет на предоплату, прежде чем это сделать, необходимо выдать кредит-ноту предоплаты.</span><span class="sxs-lookup"><span data-stu-id="cbfb0-117">If you want to delete a line for which a prepayment has already been invoiced, you must issue a prepayment credit memo before you can delete the line.</span></span>  
+
+ <span data-ttu-id="cbfb0-118">В следующей таблице приводится последовательность задач со ссылками на разделы, в которых они описываются.</span><span class="sxs-lookup"><span data-stu-id="cbfb0-118">The following table describes a sequence of tasks, with links to the topics that describe them.</span></span>
+
+|<span data-ttu-id="cbfb0-119">**Задача**</span><span class="sxs-lookup"><span data-stu-id="cbfb0-119">**To**</span></span>|<span data-ttu-id="cbfb0-120">**Ссылка**</span><span class="sxs-lookup"><span data-stu-id="cbfb0-120">**See**</span></span>|  
+|------------|-------------|  
+|<span data-ttu-id="cbfb0-121">Настройка учетных групп и серий номеров для предоплаты, а также настройка процента предоплаты по умолчанию для клиентов, поставщиков и товаров.</span><span class="sxs-lookup"><span data-stu-id="cbfb0-121">Set up prepayment posting groups and number series, and set up default prepayment percentages for customers, vendors, and items.</span></span>|[<span data-ttu-id="cbfb0-122">Настройка предоплаты</span><span class="sxs-lookup"><span data-stu-id="cbfb0-122">Set Up Prepayments</span></span>](finance-set-up-prepayments.md)|
+|<span data-ttu-id="cbfb0-123">Создание заказа, коррекция суммы предоплаты и выставление счета на сумму предоплаты.</span><span class="sxs-lookup"><span data-stu-id="cbfb0-123">Create an order, adjust the prepayment amounts, and issue an invoice for prepayment amounts.</span></span>|[<span data-ttu-id="cbfb0-124">Создание счетов на предоплату</span><span class="sxs-lookup"><span data-stu-id="cbfb0-124">Create Prepayment Invoices</span></span>](finance-how-to-create-prepayment-invoices.md)|  
+|<span data-ttu-id="cbfb0-125">Выставление дополнительного счета на предоплату для дополнительных товаров или дополнительного аванса по исходному заказу, или выдача кредит-ноты предоплаты.</span><span class="sxs-lookup"><span data-stu-id="cbfb0-125">Issue an additional prepayment invoice, either for additional items or for an additional deposit on the original order, or issue a prepayment credit memo.</span></span>|[<span data-ttu-id="cbfb0-126">Корректировка предоплат</span><span class="sxs-lookup"><span data-stu-id="cbfb0-126">Correct Prepayments</span></span>](finance-how-to-correct-prepayments.md)|  
+
+## <a name="see-also"></a><span data-ttu-id="cbfb0-127">См. также</span><span class="sxs-lookup"><span data-stu-id="cbfb0-127">See Also</span></span>  
+[<span data-ttu-id="cbfb0-128">Пошаговое руководство. Настройка и выставление счетов на продажу</span><span class="sxs-lookup"><span data-stu-id="cbfb0-128">Walkthrough: Setting Up and Invoicing Sales Prepayments</span></span>](walkthrough-setting-up-and-invoicing-sales-prepayments.md)  
+[<span data-ttu-id="cbfb0-129">Финансы</span><span class="sxs-lookup"><span data-stu-id="cbfb0-129">Finance</span></span>](finance.md)  
+<span data-ttu-id="cbfb0-130">[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="cbfb0-130">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>
+
