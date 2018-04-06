@@ -14,11 +14,11 @@ ms.translationtype: HT
 ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
 ms.openlocfilehash: 9f99b1fce3c44fdf2053a74b8fa090c6b69aef1a
 ms.contentlocale: ru-ru
-ms.lasthandoff: 01/30/2018
+ms.lasthandoff: 03/22/2018
 
 ---
 # <a name="field-mapping-when-importing-sepa-camt-files"></a>Сопоставление полей при импорте файлов SEPA CAMT
-[!INCLUDE[d365fin](includes/d365fin_md.md)] поддерживает региональные стандарты SEPA для импорта банковских выписок SEPA (формат CAMT). Дополнительные сведения см. в разделе [Настройка службы преобразования банковских данных](bank-how-setup-bank-data-conversion-service.md).  
+[!INCLUDE[d365fin](includes/d365fin_md.md)]поддерживает региональные стандарты SEPA для импорта банковских выписок SEPA (формат CAMT). Дополнительные сведения см. в разделе [Настройка службы преобразования банковских данных](bank-how-setup-bank-data-conversion-service.md).  
 
  Стандарт SEPA CAMT имеет локальные вариации. Следовательно, возможно придется изменить определение универсального обмена данными, представляемое кодом **SEPA CAMT** в окне **Определения учета обмена**, чтобы адаптировать его к локальной вариации стандарта. В следующих таблицах показаны сопоставления элементов полям для таблиц 81, 273 и 274 в реализации SEPA CAMT в [!INCLUDE[d365fin](includes/d365fin_md.md)].  
 

@@ -14,7 +14,7 @@ ms.translationtype: HT
 ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
 ms.openlocfilehash: 446ed1f08c7ee5f1060dc2add65826c1a8db674f
 ms.contentlocale: ru-ru
-ms.lasthandoff: 12/14/2017
+ms.lasthandoff: 03/22/2018
 
 ---
 # <a name="adding-and-viewing-notes-on-records"></a>Добавление и просмотр заметок в записях
@@ -41,7 +41,7 @@ ms.lasthandoff: 12/14/2017
   
      If **Notify** is selected, the note will be sent as a notification to the user's **My Notifications** on the Role Center.  -->
   
-3.  Выберите **OK**.  
+3.  Выберите **ОК**.  
 
 ## <a name="see-also"></a>См. также
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  

@@ -16,7 +16,7 @@ ms.translationtype: HT
 ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
 ms.openlocfilehash: 6766559f314c6fd9031f9599f414dae0eff984f8
 ms.contentlocale: ru-ru
-ms.lasthandoff: 01/30/2018
+ms.lasthandoff: 03/22/2018
 
 ---
 # <a name="become-a-reseller-of-included365finlongincludesd365finlongmdmd"></a>Станьте торговым посредником [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]
@@ -27,7 +27,7 @@ ms.lasthandoff: 01/30/2018
 [!INCLUDE[d365fin](includes/d365fin_md.md)] может помочь развить и углубить связи с клиентами благодаря возможности предоставления сквозного решения по управлению деятельностью, которое связывает людей и процессы как никогда раньше и встроено в знакомые инструменты Microsoft Office, которые небольшие и средние предприятия используют каждый день.  
 
 ## <a name="get-started"></a>Начало работы
-Зарегистрируйтесь в предварительной версии [!INCLUDE[d365fin](includes/d365fin_md.md)] по адресу [https://microsoft.com/dynamics365/financials](https://www.microsoft.com/en-us/dynamics365/financials).  
+Зарегистрируйтесь на предварительную версию [!INCLUDE[d365fin](includes/d365fin_md.md)] по адресу [https://microsoft.com/dynamics365/financials](https://www.microsoft.com/en-us/dynamics365/financials).  
 Отправьте отзыв по адресу [https://community.dynamics.com/business](https://community.dynamics.com/business/f/758).  
 Если вы хотите получить дополнительные сведения о том, как стать торговым посредником [!INCLUDE[d365fin](includes/d365fin_md.md)], свяжитесь с нами по адресу электронной почты [d365-smb@microsoft.com](mailto:d365-smb@microsoft.com).  
 

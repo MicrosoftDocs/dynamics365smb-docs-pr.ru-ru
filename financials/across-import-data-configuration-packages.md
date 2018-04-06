@@ -8,19 +8,20 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: migration, Excel
-ms.date: 07/05/2017
+ms.date: 03/07/2018
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
-ms.openlocfilehash: 53c32e77be0ec3dad95ca61cefa1f0db6ac4809b
+ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
+ms.openlocfilehash: 591d8100100ee717a932d188a87545fe4098a001
 ms.contentlocale: ru-ru
-ms.lasthandoff: 01/30/2018
+ms.lasthandoff: 03/22/2018
 
 ---
 # <a name="importing-data-from-legacy-accounting-software-using-a-configuration-package"></a>Импорт данных из устаревшего ПО учета с использованием пакета конфигурации
 Можно импортировать основные данные и некоторые транзакционные данные из других финансовых систем на основе пакета конфигурации по умолчанию в [!INCLUDE[d365fin](includes/d365fin_md.md)]. В окне **Пакеты конфигураций** можно использовать пакет для импорта и проверки данных перед применением пакета.  
 
-Если вам знакомы службы RapidStart для Microsoft Dynamics, вам также знакомы пакеты конфигураций. Пакет конфигурации по умолчанию поддерживает наиболее распространенные типы данных, которые требуется импортировать из устаревшей системы. Затем в Excel можно добавить данные устаревшей системы и настроить их согласно бизнес-логике [!INCLUDE[d365fin](includes/d365fin_md.md)].  
+> [!NOTE]  
+> Пакеты конфигурации являются частью служб RapidStart Services для [!INCLUDE[d365fin](includes/d365fin_md.md)], обширного набора средств для настройки новых решений, основанных на бизнес-требованиях и данных настройки клиентов. Службы RapidStart Services также предоставляют функциональные возможности для импорта старых данных. Дополнительные сведения см. в разделе [Настройка организации со службами RapidStart Services](admin-set-up-a-company-with-rapidstart.md).
 
 > [!TIP]  
 >   Кроме того, можно использовать мастеры миграции данных для импорта данных из QuickBooks или Dynamics GP. Дополнительные сведения см. в разделе [Миграция данных QuickBooks](ui-extensions-quickbooks-data-migration.md) или [Миграция данных Dynamics GP](ui-extensions-dynamicsgp-data-migration.md).  
@@ -66,6 +67,7 @@ ms.lasthandoff: 01/30/2018
 
 ## <a name="see-also"></a>См. также
 [Импорт бизнес-данных из других финансовых систем](upload-data.md)  
+[Настройка компании с помощью служб RapidStart Services](admin-set-up-a-company-with-rapidstart.md)  
 [Миграция данных QuickBooks](ui-extensions-quickbooks-data-migration.md)  
 [Миграция данных Dynamics GP](ui-extensions-dynamicsgp-data-migration.md)  
 

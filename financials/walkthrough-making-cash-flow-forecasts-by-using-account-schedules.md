@@ -16,7 +16,7 @@ ms.translationtype: HT
 ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
 ms.openlocfilehash: 25319bae1d601d6beddca35cf8edc032ac11eda6
 ms.contentlocale: ru-ru
-ms.lasthandoff: 01/30/2018
+ms.lasthandoff: 03/22/2018
 
 ---
 # <a name="walkthrough-making-cash-flow-forecasts-by-using-account-schedules"></a>Пошаговое руководство: создание прогнозов движения денежных средств с использованием финансовых отчетов
@@ -34,7 +34,7 @@ ms.lasthandoff: 01/30/2018
 ### <a name="prerequisites"></a>Предварительные требования  
 Для выполнения данного пошагового руководства необходимо выполнить следующие действия.  
 
-- [!INCLUDE[d365fin](includes/d365fin_md.md)] Установлен .  
+- Установлен [!INCLUDE[d365fin](includes/d365fin_md.md)].  
 - Строки журнала движения денежных средств регистрируются.  
 
 ## <a name="roles"></a>Роли  

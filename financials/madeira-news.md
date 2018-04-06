@@ -13,10 +13,10 @@ ms.search.keywords: news
 ms.date: 06/02/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
-ms.openlocfilehash: 78f340d619f622c6bca91bd97f0fcd8ae6b28acd
+ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
+ms.openlocfilehash: 46e2150432c4e304fbfce63ae5eecea443391efe
 ms.contentlocale: ru-ru
-ms.lasthandoff: 01/30/2018
+ms.lasthandoff: 03/22/2018
 
 ---
 # <a name="whats-new-in-dynamics-365-for-finance-and-operations-business-edition"></a>Новые возможности Dynamics 365 for Finance and Operations, Business edition
@@ -90,7 +90,7 @@ ms.lasthandoff: 01/30/2018
 Теперь в надстройке Outlook доступен календарь Outlook. Во встрече в календаре можно открыть надстройку [!INCLUDE[d365fin](includes/d365fin_md.md)] и получить обзор клиента, связанного со встречей. После этого можно создать и отправить счет за услуги, предоставленные на встрече, и все это можно сделать прямо в календаре Outlook. Дополнительные сведения см. в разделе, [Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] в качестве рабочего почтового ящика в Outlook](madeira-outlook.md).  
 
 ### <a name="appsource-marketplace-for-extensions"></a>Магазин AppSource для расширений
-[!INCLUDE[d365fin](includes/d365fin_md.md)] расширения теперь доступны в магазине AppSource на сайте [AppSource.microsoft.com](https://appsource.microsoft.com/). Вы сможете искать и находить расширения в магазине. Вы сможете просматривать информацию, включая маркетинговые материалы, снимки экрана, видео и ссылки на дополнительные сведения. Дополнительные сведения см. в разделе [Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью расширений](ui-extensions.md).  
+Расширения [!INCLUDE[d365fin](includes/d365fin_md.md)] теперь доступны в магазине AppSource на сайте [AppSource.microsoft.com](https://appsource.microsoft.com/). Вы сможете искать и находить расширения в магазине. Вы сможете просматривать информацию, включая маркетинговые материалы, снимки экрана, видео и ссылки на дополнительные сведения. Дополнительные сведения см. в разделе [Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью расширений](ui-extensions.md).  
 
 ### <a name="shipping-agents-and-item-attributes"></a>Экспедиторы и атрибуты товаров
 Можно добавить атрибуты к складским товарами, что упростит поиск правильного продукта, который необходим клиенту. Дополнительные сведения см. в разделе [Работа с атрибутами продуктов](inventory-how-work-item-attributes.md).  
@@ -100,7 +100,7 @@ ms.lasthandoff: 01/30/2018
 Дополнительные сведения см. в разделе [Расширения [!INCLUDE[d365fin](includes/d365fin_md.md)] от других поставщиков](ui-extensions-other.md).  
 
 ### <a name="manage-your-customer-relationships-using-microsoft-dynamics-365-for-sales-from-inside-included365finincludesd365finmdmd"></a>Управляйте отношениями с клиентами с помощью Microsoft Dynamics 365 for Sales из [!INCLUDE[d365fin](includes/d365fin_md.md)]
-Мы добавили новое руководство по сопровождаемой настройке на домашнюю страницу "Бизнес-руководитель", с помощью которого можно пройти шаги процесса настройки для подключения к Dynamics 365 for Sales. После этого будет установлено надежное связывание записей Dynamics 365 for Sales с записями [!INCLUDE[d365fin](includes/d365fin_md.md)]. Дополнительные сведения см. в разделе [Управление связями с клиентом с помощью Microsoft Dynamics 365 for Sales в [!INCLUDE[d365fin](includes/d365fin_md.md)] ](marketing-integrate-dynamicscrm.md).
+Мы добавили новое руководство мастера настройки в ролевой центр "Бизнес-руководитель", с помощью которого можно пройти шаги процесса настройки для подключения к Dynamics 365 for Sales. После этого будет установлено надежное связывание записей Dynamics 365 for Sales с записями [!INCLUDE[d365fin](includes/d365fin_md.md)]. Дополнительные сведения см. в разделе [Управление связями с клиентом с помощью Microsoft Dynamics 365 for Sales в [!INCLUDE[d365fin](includes/d365fin_md.md)] ](marketing-integrate-dynamicscrm.md).
 
 ## <a name="may-2016-update"></a>Обновление за май 2016 г.
 Это обновление [!INCLUDE[d365fin](includes/d365fin_md.md)] добавило новые возможности, как [было объявлено в блоге](https://community.dynamics.com/business/b/financials/archive/2016/06/01/new-and-updated-capabilities-in-the-first-update-of-project-quot-madeira-quot).  
@@ -122,7 +122,7 @@ ms.lasthandoff: 01/30/2018
 - [Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] в качестве рабочего почтового ящика в Outlook](madeira-no-outlook.md)  
 - [Получение [!INCLUDE[d365fin](includes/d365fin_md.md)] на мобильном устройстве](install-mobile-app.md)  
 - [Включение бизнес-данных для Power BI](madeira-powerbi.md)  
-- [Изменение ролевого центра](change-role.md)  
+- [Изменение базовых настроек](ui-change-basic-settings.md)  
 
 
 

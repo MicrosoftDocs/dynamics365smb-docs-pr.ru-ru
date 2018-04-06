@@ -11,16 +11,18 @@ ms.search.keywords:
 ms.date: 12/04/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
-ms.openlocfilehash: 4934b5ca71ed93fcd6327d41784443d9faedfc1b
+ms.sourcegitcommit: b34f276a764f0e828fbc1f015429df9852242a4c
+ms.openlocfilehash: a9e622dbf9b9edf5e74386dd5c651d7b585d3b46
 ms.contentlocale: ru-ru
-ms.lasthandoff: 01/30/2018
+ms.lasthandoff: 03/22/2018
 
 ---
 # <a name="accessibility-and-keyboard-shortcuts-in-included365finincludesd365finmdmd"></a>Специальные возможности и сочетания клавиш в [!INCLUDE[d365fin](includes/d365fin_md.md)]
 В этом разделе приведены сведения о функциях, благодаря которым решение [!INCLUDE[d365fin](includes/d365fin_md.md)] доступно для использования людям с ограниченными возможностями. [!INCLUDE[d365fin](includes/d365fin_md.md)] поддерживает следующие специальные возможности:  
 
--   сочетания клавиш;  
+-   сочетания клавиш;
+
+    Дополнительные сведения см. в разделе [Сочетания клавиш](keyboard-shortcuts.md)
 
 -   Навигация  
 
@@ -30,18 +32,21 @@ ms.lasthandoff: 01/30/2018
 
 -   Поддержка общих вспомогательных технологий  
 
-##  <a name="Keyboard"></a> Сочетания клавиш в браузере
- [!INCLUDE[d365fin](includes/d365fin_md.md)]  поддерживает сочетания клавиш, поддерживаемые большинством веб-браузеров. Сочетания клавиш, описанные здесь, относятся к раскладке клавиатуры для США. Раскладка клавиш на других клавиатурах может не соответствовать клавишам на клавиатуре для США.  
+<!-- moved to separate article
+##  <a name="Keyboard"></a> Keyboard Shortcuts in the browser
+ [!INCLUDE[d365fin](includes/d365fin_md.md)] supports the keyboard shortcuts that are supported by most web browsers. The keyboard shortcuts described here refer to the U.S. keyboard layout. The layout of the keys on other keyboards may not correspond exactly to the keys on a U.S. keyboard.  
 
-|Действие|Нажать|  
+|To do this|Press|  
 |----------------|-----------|  
-|Перемещение фокуса на следующий или предыдущий элемент управления на странице, например кнопки, поля или элементы в списке.|TAB, SHIFT+TAB|  
-|Включение или доступ к элементу или элементу управления в фокусе.|ВВОД|  
-|Прокрутка элементов списка вверх и вниз.|СТРЕЛКА ВВЕРХ, СТРЕЛКА ВНИЗ|  
-|Прокрутка столбцов элемента влево и вправо в списке.|СТРЕЛКА ВЛЕВО, СТРЕЛКА ВПРАВО|  
-|Открытие раскрывающегося списка или поиск значения для поля.|ALT+СТРЕЛКА ВНИЗ|  
-|Перемещение фокуса на следующий элемент вне списка.|CTRL+ENTER|  
-|Просмотр транзакций, которые привели к рассчитанному значению в поле.|ALT + Стрелка вправо|  
+|To move focus to the next or previous control or element on a page, such as buttons, fields, or items in a list.|Tab, Shift+Tab|  
+|To enable or access the element or control that is in focus.|Enter|  
+|To scroll items up and down in a list.|Up Arrow, Down Arrow|  
+|To scroll columns of an item left and right in a list.|Left Arrow, Right Arrow|  
+|To open a drop-down list or look up a value for a field.|Alt+Down Arrow|  
+|To move focus to the next element outside the list.|Ctrl + Enter|  
+|To see the transactions that resulted in a calculated value in a field.|Alt+Right Arrow|  
+
+-->
 
 ##  <a name="Navigation"></a> Навигация  
  Можно переходить между вкладками и действиями в ленте, элементами на панели навигации и другими элементами управления на страницах и отчетах [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью клавиатуры. Чтобы переместить фокус с одной вкладки,действия или элемента управления на другой, нажмите клавишу TAB для перехода вперед. Нажмите SHIFT+TAB для перехода назад.  
@@ -55,7 +60,7 @@ ms.lasthandoff: 01/30/2018
  Описательный текст для изображений задается с помощью атрибута ALT в теге IMG. Описательный текст для гиперссылок задается с помощью атрибута TITLE в теге A.  
 
 ##  <a name="AssistiveTech"></a> Вспомогательные технологии  
-[!INCLUDE[d365fin](includes/d365fin_md.md)]  поддерживает различные вспомогательные технологии, такие как высокий контраст, средства чтения с экрана и ПО распознавания голоса. Некоторые вспомогательные технологии могут не работать должным образом с конкретными элементами на страницах [!INCLUDE[d365fin](includes/d365fin_md.md)].  
+[!INCLUDE[d365fin](includes/d365fin_md.md)] поддерживает различные вспомогательные технологии, такие как высокий контраст, средства чтения с экрана и ПО распознавания голоса. Некоторые вспомогательные технологии могут не работать должным образом с конкретными элементами на страницах [!INCLUDE[d365fin](includes/d365fin_md.md)].  
 
 ## <a name="for-more-accessibility-information"></a>Дополнительные сведения о специальных возможностях  
 Дополнительные сведения о специальных возможностях и вспомогательных технологиях в продуктах Microsoft см. на сайте [Специальные возможности Microsoft](http://go.microsoft.com/fwlink/?LinkId=262160).

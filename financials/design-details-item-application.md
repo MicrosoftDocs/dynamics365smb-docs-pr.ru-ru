@@ -1,8 +1,6 @@
 ---
 title: "Сведения о проектировании — применение товара | Документы Майкрософт"
 description: "В этом разделе описывается, где регистрируются количество и стоимость запасов при учете складской транзакции."
-services: project-madeira
-documentationcenter: 
 author: SorenGP
 ms.service: dynamics365-financials
 ms.topic: article
@@ -10,13 +8,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: design, items, ledger entries, posting, inventory
-ms.date: 07/01/2017
+ms.date: 11/23/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
-ms.openlocfilehash: e8b3015cfbf9c474d49d2e3dab6e3397e6ad6c80
+ms.sourcegitcommit: b34f276a764f0e828fbc1f015429df9852242a4c
+ms.openlocfilehash: a70d1c31d867f3e005f51af0fc1b6352cb23ce91
 ms.contentlocale: ru-ru
-ms.lasthandoff: 12/14/2017
+ms.lasthandoff: 03/22/2018
 
 ---
 # <a name="design-details-item-application"></a>Сведения о проектировании: применение товара
@@ -242,11 +240,12 @@ ms.lasthandoff: 12/14/2017
 [!INCLUDE[d365fin](includes/d365fin_md.md)] включает функцию анализа и коррекции применений товаров. Эта процедура выполняется в окне **Журнал применения**.  
 
 ## <a name="see-also"></a>См. также  
-[Сведения о проектировании: себестоимость запасов](design-details-inventory-costing.md)   
-[Сведения о проектировании: методы учета себестоимости](design-details-costing-methods.md)   
+[Сведения о проектировании: известная проблема применения товара](design-details-inventory-zero-level-open-item-ledger-entries.md)  
+[Сведения о проектировании: себестоимость запасов](design-details-inventory-costing.md)  
+[Сведения о проектировании: методы учета себестоимости](design-details-costing-methods.md)  
 [Сведения о проектировании: средняя себестоимость](design-details-average-cost.md)   
-[Сведения о проектировании: коррекция себестоимости](design-details-cost-adjustment.md)
+[Сведения о проектировании: коррекция себестоимости](design-details-cost-adjustment.md)  
 [Управление себестоимостью товаров](finance-manage-inventory-costs.md)  
 [Финансы](finance.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 

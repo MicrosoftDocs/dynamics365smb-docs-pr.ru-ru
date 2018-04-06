@@ -8,21 +8,24 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: QuickBooks, transfer, import, migrate, initialize, implement
-ms.date: 09/25/2017
+ms.date: 03/07/2018
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
-ms.openlocfilehash: f1339468507efc474c709f35fa04d61ca7e5b9a2
+ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
+ms.openlocfilehash: fe1f89ee875924370a206359a3f7238f0224ab80
 ms.contentlocale: ru-ru
-ms.lasthandoff: 01/30/2018
+ms.lasthandoff: 03/22/2018
 
 ---
 # <a name="importing-business-data-from-other-finance-systems"></a>Импорт бизнес-данных из других финансовых систем
 При регистрации в [!INCLUDE[d365fin](includes/d365fin_md.md)] вы можете создать пустую организации, чтоб загрузить собственные данные и протестировать новую организацию [!INCLUDE[d365fin](includes/d365fin_md.md)]. В зависимости от финансового решения, которое вы используете сейчас, вы можете перенести информацию о клиентах, поставщиках, запасах и банковских счетах.  
 
-На начальной странице вы можете запустить руководство по настройке, помогающее перенести бизнес-данные из файла Excel или из других форматов. Тип файлов, которые можно загружать, зависит от доступных расширений. Например, вы можете перенести данные из QuickBooks, поскольку [!INCLUDE[d365fin](includes/d365fin_md.md)] включает расширение, которое обрабатывает преобразование из QuickBooks. Если вам нужно перенести данные из других финансовых решений, вы должны проверить, есть ли расширение для этого решения, или импортировать из Excel.  
+Из ролевого центра вы можете запустить руководство по настройке, помогающее перенести бизнес-данные из файла Excel или из других форматов. Тип файлов, которые можно загружать, зависит от доступных расширений. Например, вы можете перенести данные из QuickBooks, поскольку [!INCLUDE[d365fin](includes/d365fin_md.md)] включает расширение, которое обрабатывает преобразование из QuickBooks. Если вам нужно перенести данные из других финансовых решений, вы должны проверить, есть ли расширение для этого решения, или импортировать из Excel.  
 
-[!INCLUDE[d365fin](includes/d365fin_md.md)] включает шаблоны для счетов, клиентов, поставщиков и складских товаров, которые можно выбрать для применения при импорте данных.  
+[!INCLUDE[d365fin](includes/d365fin_md.md)] включает шаблоны для счетов, клиентов, поставщиков и складских товаров, которые можно выбрать для применения при импорте данных.
+
+> [!NOTE]  
+> Для более крупной работы по реализации можно использовать службы RapidStart Services для [!INCLUDE[d365fin](includes/d365fin_md.md)], которые представляют собой обширный набор средств для настройки новых решений, основанных на бизнес-требованиях и данных настройки клиентов. Службы RapidStart Services также предоставляют функциональные возможности для импорта бизнес-данных. Дополнительные сведения см. в разделе [Настройка организации со службами RapidStart Services](admin-set-up-a-company-with-rapidstart.md).  
 
 ## <a name="importing-data-from-quickbooks-desktop-quickbooks-online-or-dynamics-gp"></a>Импорт данных из QuickBooks Desktop, QuickBooks Online или Dynamics GP
 Если ваша организация использует QuickBooks или Dynamics GP, вы можете экспортировать требуемую информацию в файл. Затем вы сможете открыть руководство по сопровождаемой настройке для переноса данных.
@@ -41,6 +44,7 @@ ms.lasthandoff: 01/30/2018
 ## <a name="see-also"></a>См. также
 [Финансы](finance.md)  
 [Импорт данных из устаревшего ПО учета с использованием пакета конфигурации](across-import-data-configuration-packages.md)  
+[Настройка компании с помощью служб RapidStart Services](admin-set-up-a-company-with-rapidstart.md)  
 [Миграция данных QuickBooks Desktop](ui-extensions-quickbooks-data-migration.md)  
 [Миграция данных QuickBooks Online](ui-extensions-quickbooks-online-data-migration.md)  
 [Миграция данных Dynamics GP](ui-extensions-dynamicsgp-data-migration.md)  

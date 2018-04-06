@@ -9,16 +9,16 @@ ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.date: 01/16/2017
+ms.date: 03/02/2018
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
-ms.openlocfilehash: 52e5b2b69da1f9a78906563d054d91de2dfe0925
+ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
+ms.openlocfilehash: 7f83b9fa8803e3b6611e0167a972c0e54f5eff79
 ms.contentlocale: ru-ru
-ms.lasthandoff: 01/30/2018
+ms.lasthandoff: 03/22/2018
 
 ---
-# <a name="set-up-extended-item-text"></a>Настройка расширенного текста товара
+# <a name="adding-extended-item-text"></a>Добавление расширенного текста товара
 Можно расширить стандартный текст для товаров, добавив дополнительные строки, и настроить условия использования этих строк. Сделать это можно из карточек товара.
 
 ## <a name="to-define-extended-text-for-an-item-description"></a>Определение расширенного текста для описания товара
@@ -30,6 +30,10 @@ ms.lasthandoff: 01/30/2018
 6. Заполните поля **Дата начала** и **Дата окончания** для ограничения времени использования расширенного текста.
 7. Установите соответствующие флажки для тех типов документов, в которых необходимо печатать расширенный текст.
 8. Закройте данное окно.
+
+## <a name="to-add-an-extended-item-text-on-a-sales-order-line"></a>Добавление расширенного текста товара в строку заказа на продажу
+1. Откройте заказ на продажу со строкой продажи для товара, для которого определен расширенный текст. Дополнительные сведения см. в разделе [Продажа продукции](sales-how-sell-products.md).
+2. Выберите соответствующую строку, затем выберите действие **Вставить расширенный текст**.
 
 ## <a name="see-also"></a>См. также
 [Настройка запасов](inventory-setup-inventory.md)  

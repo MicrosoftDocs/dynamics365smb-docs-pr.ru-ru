@@ -1,8 +1,6 @@
 ---
 title: "Сведения о проектировании — коррекция себестоимости | Документы Майкрософт"
 description: "Основная цель корректировки затрат — пересылка изменений стоимости от источников затрат получателям затрат в соответствии с методом учета стоимости товара и с целью правильной оценки запасов."
-services: project-madeira
-documentationcenter: 
 author: SorenGP
 ms.service: dynamics365-financials
 ms.topic: article
@@ -10,13 +8,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: 
-ms.date: 07/01/2017
+ms.date: 23/23/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
-ms.openlocfilehash: 8520630e03e26c8c2aab5157fc1efb853552919a
+ms.sourcegitcommit: b34f276a764f0e828fbc1f015429df9852242a4c
+ms.openlocfilehash: d0733c7d96f10969a7d266031e5d1d0d7f83519f
 ms.contentlocale: ru-ru
-ms.lasthandoff: 01/30/2018
+ms.lasthandoff: 03/22/2018
 
 ---
 # <a name="design-details-cost-adjustment"></a>Сведения о проектировании: коррекция себестоимости
@@ -171,13 +169,20 @@ ms.lasthandoff: 01/30/2018
 Если настроена автоматическая коррекция себестоимости для применения к учетам, которые выполняются в течение одного дня или недели с текущей рабочей даты, автоматическая коррекция себестоимости не запускается и себестоимость покупки не отправляется в продажу, пока вы не будет выполнено пакетное задание **Коррекция себест. запасов**.  
 
 ## <a name="see-also"></a>См. также
+<<<<<<< ЗАГОЛОВОК [Корректировка себестоимости товаров](inventory-how-adjust-item-costs.md)  
+[Подробности разработки: дата учета для операции коррекции стоимости](design-details-inventory-adjustment-value-entry-posting-date.md)  
+[Сведения о проектировании: себестоимость запасов](design-details-inventory-costing.md)  
+[Сведения о проектировании: выверка с главной книгой](design-details-reconciliation-with-the-general-ledger.md)  
+[Сведения о проектировании: учет запасов](design-details-inventory-posting.md)  
+[Сведения о проектировании: отклонение](design-details-variance.md)  
+=======
 [Корректировка себестоимости товаров](inventory-how-adjust-item-costs.md)   
 [Сведения о проектировании: себестоимость запасов](design-details-inventory-costing.md)   
 [Сведения о проектировании: выверка с главной книгой](design-details-reconciliation-with-the-general-ledger.md)   
 [Сведения о проектировании: учет запасов](design-details-inventory-posting.md)   
 [Сведения о проектировании: отклонение](design-details-variance.md)   
-[Сведения о проектировании: учет заказа на сборку](design-details-assembly-order-posting.md)   
-[Сведения о проектировании: учет производственного заказа](design-details-production-order-posting.md)
+>>>>>>> refs/remotes/origin/Update13 [Сведения о проектировании: учет заказа на сборку](design-details-assembly-order-posting.md)   
+[Сведения о проектировании: учет производственного заказа](design-details-production-order-posting.md)  
 [Управление себестоимостью товаров](finance-manage-inventory-costs.md)  
 [Финансы](finance.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
