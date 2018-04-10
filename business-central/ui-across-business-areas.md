@@ -10,11 +10,11 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: feature overview, functionality
-ms.date: 03/02/2018
+ms.date: 03/20/2018
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: eb0b77de0be1ac9d86750bf406f0ef2a6e9770df
+ms.sourcegitcommit: e7dcdc0935a8793ae226dfc2f9709b5b8f487a62
+ms.openlocfilehash: fe75b81e2eae2520c6952cf1751ee4259eb3fb68
 ms.contentlocale: ru-ru
 ms.lasthandoff: 03/22/2018
 
@@ -28,6 +28,7 @@ ms.lasthandoff: 03/22/2018
 
 | По | Ссылка |
 | --- | --- |
+|Просмотр текущих, учтенных или архивных документов, связанных со строками заказов на продажу или покупку.|[Отслеживание строк документа](across-how-to-track-document-lines.md)|
 | Быстрая передача содержимого деловых документов бизнес-партнерам, например передача информации о платежах в документах продажи клиентам. |[Отправка документов в виде эл. сообщения](ui-how-send-documents-email.md) |
 | Настройка стандартных текстовых кодов для расширения возможностей работы с текстом путем добавления дополнительных строк и настройки условий для этих строк. |[Определение расширенного текста](ui-how-define-ext-text.md) |
 |Создайте задачи, чтобы напоминать о работе, которая должна быть выполнена. Можно создавать задачи для себя, но можно также назначать задачи другим или вам могут быть назначены задачи кем-то еще из вашей организации.|[Определение задач пользователя](across-user-tasks.md)|

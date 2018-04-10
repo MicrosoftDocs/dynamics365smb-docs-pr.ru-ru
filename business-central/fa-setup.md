@@ -12,8 +12,8 @@ ms.search.keywords: machinery, buildings
 ms.date: 01/25/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: c20d4997e84db416e2103d2318533082adc04b49
+ms.sourcegitcommit: e7dcdc0935a8793ae226dfc2f9709b5b8f487a62
+ms.openlocfilehash: fac857ae94152104ea6640782a5f315424b739e7
 ms.contentlocale: ru-ru
 ms.lasthandoff: 03/22/2018
 
@@ -44,6 +44,6 @@ ms.lasthandoff: 03/22/2018
 ## <a name="see-also"></a>См. также
 [Основные Средства](fa-manage.md)  
 [Финансы](finance.md)  
-[Добро пожаловать в [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md)  
+[Приступая к работе](product-get-started.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

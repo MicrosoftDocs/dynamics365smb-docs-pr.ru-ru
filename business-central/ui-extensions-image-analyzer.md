@@ -12,8 +12,8 @@ ms.search.keywords: API, extension, Cognitive Services, image, computer vision, 
 ms.date: 06/19/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: e075aedde1bd52a6b852fd92e419aca11367b742
+ms.sourcegitcommit: e7dcdc0935a8793ae226dfc2f9709b5b8f487a62
+ms.openlocfilehash: b767588b4dae6953371e112fd4e8e5cd4af7b1e0
 ms.contentlocale: ru-ru
 ms.lasthandoff: 03/22/2018
 
@@ -94,5 +94,5 @@ ms.lasthandoff: 03/22/2018
 ## <a name="see-also"></a>См. также
 [Работа с атрибутами товаров](inventory-how-work-item-attributes.md)  
 [Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью расширений](ui-extensions.md)  
-[Добро пожаловать в [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md)  
+[Приступая к работе](product-get-started.md)  
 

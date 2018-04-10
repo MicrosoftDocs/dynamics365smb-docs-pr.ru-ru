@@ -11,8 +11,8 @@ ms.search.keywords: account schedule, analysis, reporting, financial report, bus
 ms.date: 09/05/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: 6b72de70da67a7401bad90bd55d1a31a1ae6d880
+ms.sourcegitcommit: e7dcdc0935a8793ae226dfc2f9709b5b8f487a62
+ms.openlocfilehash: 7b62652e34c15831b44975a7c33b088e2be873e4
 ms.contentlocale: ru-ru
 ms.lasthandoff: 03/22/2018
 
@@ -101,7 +101,7 @@ ms.lasthandoff: 03/22/2018
 * Экземпляр [!INCLUDE[d365fin](includes/d365fin_md.md)], к которому вы пытаетесь подключиться, не имеет допустимого сертификата SSL. В этом случае вы получите более подробное сообщение об ошибке ("Не удается установить доверенные отношения SSL").
 
     > [!NOTE]  
->   Самозаверяющие сертификаты не поддерживаются.  
+    >   Самозаверяющие сертификаты не поддерживаются.  
 
 **"Проблема"**  
 Если после проверки подлинности появляется сообщение об ошибке "Проблема", это чаще всего вызвано проблемой при подключении к данным из пакета содержимого.
@@ -118,7 +118,7 @@ ms.lasthandoff: 03/22/2018
 
 ## <a name="see-also"></a>См. также
 [Бизнес-аналитика](bi.md)  
-[Добро пожаловать в [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md)  
+[Приступая к работе](product-get-started.md)  
 [Миграция бизнес-данных из других финансовых систем](upload-data.md)  
 [Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] как источника данных Power BI](across-how-use-financials-data-source-powerbi.md)  
 [Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] как источника данных PowerApps](across-how-use-financials-data-source-powerapps.md)  

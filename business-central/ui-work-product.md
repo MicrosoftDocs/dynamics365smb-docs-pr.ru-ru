@@ -12,8 +12,8 @@ ms.workload: na
 ms.date: 03/02/2018
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: 0ce84903f1273540e744006cc3b042e12113ab5c
+ms.sourcegitcommit: e7dcdc0935a8793ae226dfc2f9709b5b8f487a62
+ms.openlocfilehash: 26729b9ced13d6727437db91d464d7a42907b0a1
 ms.contentlocale: ru-ru
 ms.lasthandoff: 03/22/2018
 
@@ -45,7 +45,7 @@ ms.lasthandoff: 03/22/2018
 |Просмотр видеороликов по выбранной функциональной возможности, помогающих приступить к работе.|[Видео о распространенных задачах](across-videos.md)|  
 
 ## <a name="see-also"></a>См. также
-[Приступая к работе](index.md)  
+[Приступая к работе](product-get-started.md)  
 [Настройка Business Central](setup.md)  
 [Общие бизнес-функции](ui-across-business-areas.md)  
 

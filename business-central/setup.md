@@ -8,11 +8,11 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: configure, initialize
-ms.date: 03/12/2018
+ms.date: 03/22/2018
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: 7d41317f1f5e071c70dfd5ae265b046b3bea4825
+ms.sourcegitcommit: e7dcdc0935a8793ae226dfc2f9709b5b8f487a62
+ms.openlocfilehash: f669e4b4dd43a6ac32fafc0dc1e408e1b87be98b
 ms.contentlocale: ru-ru
 ms.lasthandoff: 03/22/2018
 
@@ -25,7 +25,7 @@ ms.lasthandoff: 03/22/2018
 Из ролевого центра вы можете получить доступ к руководствам по настройке, помогающим настроить определенные сценарии и добавить функции в [!INCLUDE[d365fin](includes/d365fin_md.md)]. Дополнительные сведения о том, как получить доступ ко всем окнам сопровождаемой и ручной настройки, см. в разделе [Подготовьтесь к ведению бизнеса](ui-get-ready-business.md).
 
 > [!NOTE]
-> Можно настроить новую организацию в [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью служб RapidStart Services, которые представляют собой инструмент, предназначенный для ускорения развертывания, повышения качества внедрения, использования единого подхода к внедрению и повышения производительности за счет автоматизации и упрощения повторяющихся задач. Дополнительные сведения см. в разделе ## [Настройка организации со службами RapidStart Services](admin-set-up-a-company-with-rapidstart.md).
+> Можно настроить новую организацию в [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью служб RapidStart Services, которые представляют собой инструмент, предназначенный для ускорения развертывания, повышения качества внедрения, использования единого подхода к внедрению и повышения производительности за счет автоматизации и упрощения повторяющихся задач. Дополнительные сведения см. в разделе [Настройка организации со службами RapidStart Services](admin-set-up-a-company-with-rapidstart.md).
 
 Некоторые функции, как общие, так и для конкретных бизнес-процессов, можно настроить вручную в дополнение к сопровождаемой настройке. Ниже приводится список некоторых функций, которые можно настроить вручную.
 
@@ -59,9 +59,9 @@ ms.lasthandoff: 03/22/2018
 [Производство](production-manage-manufacturing.md)  
 [Управление складом](warehouse-manage-warehouse.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
-[Настройка и администрирование в [!INCLUDE[d365fin](includes/d365fin_md.md)]](admin-setup-and-administration.md)  
+[Администрация](admin-setup-and-administration.md)  
 [Создание новых организаций в [!INCLUDE[d365fin](includes/d365fin_md.md)]](about-new-company.md)  
-[Добро пожаловать в [!INCLUDE[d365fin](includes/d365fin_md.md)]](index.md)  
+[Приступая к работе](product-get-started.md)  
 
 ## [!INCLUDE[d365fin](includes/free_trial_md.md)]  
 ## [!INCLUDE[d365fin](includes/training_link_md.md)]

@@ -11,8 +11,8 @@ ms.search.keywords: preview, trial, sandbox
 ms.date: 01/05/2018
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: fa7d084f69765a0b274dc9d4e1f6c1a38752f3b5
+ms.sourcegitcommit: e7dcdc0935a8793ae226dfc2f9709b5b8f487a62
+ms.openlocfilehash: 3e7c5ca600a5f64b44fca419ce33cad868f15595
 ms.contentlocale: ru-ru
 ms.lasthandoff: 03/22/2018
 
@@ -68,6 +68,6 @@ ms.lasthandoff: 03/22/2018
 [!INCLUDE[d365fin](includes/d365fin_md.md)] предоставляет средства, которые можно использовать для реализации ваших собственных надстроек или встроенных функциональных возможностей, нужных для добавления новых сквозных отраслевых функций или интеграции решений третьей стороны. Например, можно использовать интерфейс API для построения подключенного приложения для обмена данными между [!INCLUDE[d365fin](includes/d365fin_md.md)] и вашим приложением ведомости зарплаты. Подключенные приложения также могут использовать расширения для создания страниц, которые будут использоваться для настройки, конфигурации или поддержки функций, специфичных для приложения. Дополнительные сведения см. в разделе [Разработка приложений для [!INCLUDE[d365fin](includes/d365fin_md.md)]](https://aka.ms/getstartedwithapps).
 
 ##<a name="see-also"></a>См. также
-[Добро пожаловать в [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md)  
+[Приступая к работе](product-get-started.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 

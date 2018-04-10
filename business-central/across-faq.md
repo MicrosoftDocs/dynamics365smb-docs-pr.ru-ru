@@ -11,8 +11,8 @@ ms.search.keywords: FAQ, email, Office 365, subscription, trial, plan
 ms.date: 07/27/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: 72fdb96907c4feeb21cdc40b4b781e75e4f1119c
+ms.sourcegitcommit: e7dcdc0935a8793ae226dfc2f9709b5b8f487a62
+ms.openlocfilehash: d015f3c2e4b06a7e93b7b4e0fe678c5066afbb8c
 ms.contentlocale: ru-ru
 ms.lasthandoff: 03/22/2018
 
@@ -40,14 +40,14 @@ ms.lasthandoff: 03/22/2018
 ## <a name="is-it-possible-to-extend-my-30-day-new-company-trial-period"></a>Можно ли продлить 30-дневный пробный период "Новая организация"?
 Да. Если вам требуется продлить пробный период, обратитесь в Майкрософт по телефону 1-888-477-7989 (США) или 1-800-741-9206 (Канада). ПРИМЕЧАНИЕ. Завершение процесса продления пробного периода может занять до 2 рабочих дней.  
 
-## <a name="our-administrator-has-moved-me-to-another-plan-to-give-me-another-role-but-i-still-see-the-same-home-page-in-included365finincludesd365finmdmd"></a>Наш администратор изменил мой план, чтобы предоставить мне другую роль, но я по-прежнему вижу ту же домашнюю страницу в [!INCLUDE[d365fin](includes/d365fin_md.md)]?
+## <a name="our-administrator-has-moved-me-to-another-plan-to-give-me-another-role-but-i-still-see-the-same-role-center-in-included365finincludesd365finmdmd"></a>Наш администратор изменил мой план, чтобы предоставить мне другую роль, но я по-прежнему вижу тот же ролевой центр в [!INCLUDE[d365fin](includes/d365fin_md.md)]?
 Это немного сложно, но, похоже, администратор не изменил ваш ролевой центр и не назначил группы пользователей, соответствующие новой лицензии. По существу, ваш доступ к [!INCLUDE[d365fin](includes/d365fin_md.md)] определяется вашим типом плана (лицензией), а он задает разрешения и страницу ролевого центра по умолчанию. Можно вручную изменить ролевой центр в разделе "Мои настройки", но при переходе на другой план, например при переходе с плана "Бизнес" на план "Члены группы", может отображаться старая домашняя страница, поскольку ваши разрешения не были изменены.  
 
 ## <a name="why-cant-i-find-that-capability-in-my-included365finincludesd365finmdmd"></a>Почему я не могу найти эту функциональную возможность в моем [!INCLUDE[d365fin](includes/d365fin_md.md)]?
 Вы недавно прочитали о новой функциональной возможности в дорожной карте или в нашем блоге? В таком случае возможно, что [!INCLUDE[d365fin](includes/d365fin_md.md)] еще не обновлен до последней версии. Если функциональная возможность опубликована как расширение в AppSource, то после объявления расширения оно появляется в AppSource с некоторой задержкой.
 
 ## <a name="see-also"></a>См. также
-[Добро пожаловать в [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md)  
+[Приступая к работе](product-get-started.md)  
 [Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] в качестве рабочего почтового ящика в Outlook](admin-outlook.md)  
 [Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] без Outlook](admin-no-outlook.md)  
 [Изменение базовых настроек](ui-change-basic-settings.md)  

@@ -11,8 +11,8 @@ ms.search.keywords:
 ms.date: 09/01/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: 292231a907970de2821daeba87003eca7bf54cdc
+ms.sourcegitcommit: e7dcdc0935a8793ae226dfc2f9709b5b8f487a62
+ms.openlocfilehash: 696100bfbcc987b1d684e7987e7fd43979813282
 ms.contentlocale: ru-ru
 ms.lasthandoff: 03/22/2018
 
@@ -32,5 +32,5 @@ ms.lasthandoff: 03/22/2018
 Однако сервисные заказы не удаляются автоматически, если общее количество по заказу было учтено не из самого заказа, а из окна **Сервисный счет**. В этом случае может понадобиться удалить вручную заказы, по которым выставлены счета и которые не были удалены программой. Это можно выполнить путем запуска пакетного задания **Удалить серв. заказы, по кот. выст. сч.**.  
 
 ## <a name="see-also"></a>См. также  
-[Настройка и администрирование в Business Central](admin-setup-and-administration.md)  
+[Администрация](admin-setup-and-administration.md)  
 
