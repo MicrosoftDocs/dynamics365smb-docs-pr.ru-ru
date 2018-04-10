@@ -1,5 +1,6 @@
-# [Приступая к работе](index.md)
-## [Минимальные требования](financials-requirements.md)
+# [Добро пожаловать в Business Central](index.md)
+# [Приступая к работе](product-get-started.md)
+## [Минимальные требования](product-requirements.md)
 ## [Вопросы и ответы](across-faq.md)
 ## [Видео о распространенных задачах](across-videos.md)
 ## [Обзор бизнес-функций](across-business-functionality.md)
@@ -348,6 +349,7 @@
 ## [Предоставление услуги](service-deliver-service.md)
 
 # [Общие бизнес-функции](ui-across-business-areas.md)
+## [Отслеживание строк документа](across-how-to-track-document-lines.md)
 ## [Отправка документов в виде эл. сообщения](ui-how-send-documents-email.md)
 ## [Добавление расширенного текста товара](ui-how-define-ext-text.md)
 ## [Определение задач пользователя](across-user-tasks.md)
