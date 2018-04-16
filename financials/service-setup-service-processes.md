@@ -30,7 +30,7 @@ ms.lasthandoff: 03/22/2018
 
 ## <a name="to-enter-general-and-mandatory-settings"></a>Ввод общих и обязательных настроек
 1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Настройка сервиса**, а затем выберите связанную ссылку.
-2. Заполните соответствующим образом поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
+2. Заполните соответствующим образом поля. [!INCLUDE [tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
 
 ## <a name="see-also"></a>См. также  
 [Настройка отчетности по неисправностям](service-how-setup-fault-reporting.md)  

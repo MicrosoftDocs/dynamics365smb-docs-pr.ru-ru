@@ -29,7 +29,7 @@ ms.lasthandoff: 03/22/2018
 ## <a name="to-set-up-a-document-sending-profile"></a>Настройка профиля отправки документов
 1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Профили отправки документов**, а затем выберите связанную ссылку.
 2. В окне **Профили отправки документов** выберите действие **Создать**.
-3. Заполните соответствующим образом поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
+3. Заполните соответствующим образом поля. [!INCLUDE [tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 
 ## <a name="to-specify-a-sending-profile-on-a-customer-card"></a>Определение профиля отправки в карточке клиента
 1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Клиенты**, а затем выберите связанную ссылку.

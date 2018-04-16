@@ -28,12 +28,12 @@ ms.lasthandoff: 03/22/2018
   
 ## <a name="to-set-up-a-standard-service-code"></a>Настройка стандартного сервисного кода    
 1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Стандартные коды сервиса**, затем выберите связанную ссылку.  
-2. Заполните соответствующим образом поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
-4. Заполните строки сервиса, связанные с данным сервисным кодом.  
+2. Заполните соответствующим образом поля. [!INCLUDE [tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
+3. Заполните строки сервиса, связанные с данным сервисным кодом.  
 
 ## <a name="to-assign-a-standard-service-code-to-a-service-item-group"></a>Присвоение стандартного сервисного кода группе сервисных товаров
 1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Группы сервисных товаров**, затем выберите связанную ссылку.  
-2. Заполните соответствующим образом поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
+2. Заполните соответствующим образом поля. [!INCLUDE [tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 3. Заполните строки сервиса, связанные с данным сервисным кодом.  
 
 ## <a name="see-also"></a>См. также

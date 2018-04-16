@@ -47,7 +47,7 @@ ms.lasthandoff: 03/22/2018
 
 ## <a name="to-send-the-customer-statement-report"></a>Отправка отчета по клиенту.
 1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Отчет по клиенту**, а затем выберите связанную ссылку.
-2. Заполните соответствующим образом поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
+2. Заполните соответствующим образом поля. [!INCLUDE [tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 3. В поле **Параметры вывода** выберите способ отправки отчета клиенту.
 
 > [!NOTE]  

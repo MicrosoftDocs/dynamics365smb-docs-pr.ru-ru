@@ -32,7 +32,7 @@ ms.lasthandoff: 03/22/2018
 ## <a name="to-set-up-an-employee"></a>Настройка сотрудника
 1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Сотрудники**, а затем выберите связанную ссылку.
 2. Выберите действие **Создать**.
-3. В окне **Карточка сотрудника** заполните требуемые поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
+3. В окне **Карточка сотрудника** заполните требуемые поля. [!INCLUDE [tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 
 ## <a name="to-insert-a-picture-of-an-employee"></a>Вставка фотографии сотрудника
 В карточку сотрудника можно добавить фотографию сотрудника в формате BMP.

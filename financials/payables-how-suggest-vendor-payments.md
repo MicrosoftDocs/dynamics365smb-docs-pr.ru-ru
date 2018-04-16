@@ -36,7 +36,7 @@ ms.lasthandoff: 03/22/2018
 ## <a name="to-use-the-suggest-vendor-payments-function"></a>Использование функции предложения оплаты поставщикам
 1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Журналы платежей**, а затем выберите связанную ссылку.  
 2. Откройте соответствующий журнал, а затем выберите действие **Предлож. оплаты поставщикам**.  
-3. Заполните соответствующим образом поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
+3. Заполните соответствующим образом поля. [!INCLUDE [tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
 4. Нажмите кнопку **ОК**.  
 
 ## <a name="to-insert-the-due-date-as-posting-date-on-payment-journal-lines"></a>Вставка срока оплаты в качестве даты учета в строках журнала платежей
