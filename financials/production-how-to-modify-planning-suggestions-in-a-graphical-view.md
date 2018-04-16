@@ -13,10 +13,10 @@ ms.search.keywords:
 ms.date: 09/06/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
-ms.openlocfilehash: 9217d8707ab65d231a6759e86f6f2b2866835bb8
+ms.sourcegitcommit: acef03f32124c5983846bc6ed0c4d332c9c8b347
+ms.openlocfilehash: 26e144490fb5b33449643fe67bede8a96bc6079c
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 04/16/2018
 
 ---
 # <a name="modify-planning-suggestions-in-a-graphical-view"></a><span data-ttu-id="c3d85-104">Изменение предложений по планированию в графическом виде</span><span class="sxs-lookup"><span data-stu-id="c3d85-104">Modify Planning Suggestions in a Graphical View</span></span>
@@ -59,6 +59,7 @@ ms.lasthandoff: 03/22/2018
 <span data-ttu-id="c3d85-148">Чтобы применить изменения плана поставки, необходимо следовать указаниям сообщений об итоговых действиях из журнала планирования или заявок.</span><span class="sxs-lookup"><span data-stu-id="c3d85-148">To implement the supply plan changes, you must follow the resulting action messages from the planning or requisition worksheet.</span></span> <span data-ttu-id="c3d85-149">Дополнительные сведения см. в пакетном задании "Выполнение указаний - план.".</span><span class="sxs-lookup"><span data-stu-id="c3d85-149">For more information, see Carry Out Action Msg.-Plan..</span></span>
 
 ## <a name="symbols-and-icons-on-the-timeline-fasttab"></a><span data-ttu-id="c3d85-150">Символы и значки на экспресс-вкладке "График времени"</span><span class="sxs-lookup"><span data-stu-id="c3d85-150">Symbols and Icons on the Timeline FastTab</span></span>
+
  |<span data-ttu-id="c3d85-151">Символ/значок</span><span class="sxs-lookup"><span data-stu-id="c3d85-151">Symbol/Icon</span></span>|<span data-ttu-id="c3d85-152">Описанием</span><span class="sxs-lookup"><span data-stu-id="c3d85-152">Description</span></span>|  
  |------------------|---------------------------------------|  
  |<span data-ttu-id="c3d85-153">Черный крест</span><span class="sxs-lookup"><span data-stu-id="c3d85-153">Black cross</span></span>|<span data-ttu-id="c3d85-154">Заказы (спрос и предложение).</span><span class="sxs-lookup"><span data-stu-id="c3d85-154">Orders (both supply and demand).</span></span><br /><br /> <span data-ttu-id="c3d85-155">-   Не может быть изменено.</span><span class="sxs-lookup"><span data-stu-id="c3d85-155">-   Cannot be modified.</span></span><br /><span data-ttu-id="c3d85-156">-   Отображается, если выбрано поле **Показать прогнозируемые запасы** (оранжевая диаграмма).</span><span class="sxs-lookup"><span data-stu-id="c3d85-156">-   Visible when the **Show Projected Inventory** field is selected (orange graph).</span></span>|  

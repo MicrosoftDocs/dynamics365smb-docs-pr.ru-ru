@@ -12,10 +12,10 @@ ms.search.keywords: procurement
 ms.date: 01/25/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: 3228d82190e81198817d0e1fa5c86f6c9d0f784f
+ms.sourcegitcommit: acef03f32124c5983846bc6ed0c4d332c9c8b347
+ms.openlocfilehash: a57ab953304a89f0caeedd66f6be55e3cf5030bb
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 04/16/2018
 
 ---
 # <a name="record-purchases"></a><span data-ttu-id="8d080-103">Регистрация покупок</span><span class="sxs-lookup"><span data-stu-id="8d080-103">Record Purchases</span></span>
@@ -48,17 +48,17 @@ ms.lasthandoff: 03/22/2018
 8. <span data-ttu-id="8d080-138">Заполнив карточку поставщика, нажмите кнопку **ОК**, чтобы вернуться в окно **Счет покупки**.</span><span class="sxs-lookup"><span data-stu-id="8d080-138">When you have completed the vendor card, choose the **OK** button to return to the **Purchase Invoice** window.</span></span>
 
     <span data-ttu-id="8d080-139">Несколько полей в окне **Счет покупки** заполняются сведениями, указанными в новой карточке поставщика.</span><span class="sxs-lookup"><span data-stu-id="8d080-139">Several fields in the **Purchase Invoice** window are filled with information that you specified on the new vendor card.</span></span>
-9. <span data-ttu-id="8d080-140">Заполните остальные поля в окне **Счет покупки**, как требуется.</span><span class="sxs-lookup"><span data-stu-id="8d080-140">Fill in the remaining fields in the **Purchase Invoice** window as necessary.</span></span> [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
+9. <span data-ttu-id="8d080-140">Заполните остальные поля в окне **Счет покупки**, как требуется.</span><span class="sxs-lookup"><span data-stu-id="8d080-140">Fill in the remaining fields in the **Purchase Invoice** window as necessary.</span></span> [!INCLUDE [tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 
     <span data-ttu-id="8d080-141">Теперь вы готовы к заполнению строк счета покупки сведениями о товарах в запасах или услугах, приобретенных у поставщика.</span><span class="sxs-lookup"><span data-stu-id="8d080-141">You are now ready to fill in the purchase invoice lines with inventory items or services that you have purchased from the vendor.</span></span>
 
     > [!NOTE]  
->   <span data-ttu-id="8d080-142">Если заданы строки типовых покупок для поставщика, например ежемесячный заказ пополнения заказов, можно вставить строки в счет, выбрав действие **Получить строки типовых покупок**.</span><span class="sxs-lookup"><span data-stu-id="8d080-142">If you have set up recurring purchase lines for the vendor, such as a monthly replenishment order, then you can insert these lines on the invoice by choosing the **Get Recurring Purchase Lines** action.</span></span>
+   >   <span data-ttu-id="8d080-142">Если заданы строки типовых покупок для поставщика, например ежемесячный заказ пополнения заказов, можно вставить строки в счет, выбрав действие **Получить строки типовых покупок**.</span><span class="sxs-lookup"><span data-stu-id="8d080-142">If you have set up recurring purchase lines for the vendor, such as a monthly replenishment order, then you can insert these lines on the invoice by choosing the **Get Recurring Purchase Lines** action.</span></span>
 10. <span data-ttu-id="8d080-143">На экспресс-вкладке **Строки** в поле **Номер товара** введите количество товара в запасах или объем услуг.</span><span class="sxs-lookup"><span data-stu-id="8d080-143">On the **Lines** FastTab, in the **Item No.** field, enter the number of an inventory item or service.</span></span>
 11. <span data-ttu-id="8d080-144">В поле **Кол-во** введите количество покупаемых товаров.</span><span class="sxs-lookup"><span data-stu-id="8d080-144">In the **Quantity** field, enter the number of items to be purchased.</span></span>
 
     > [!NOTE]  
->   <span data-ttu-id="8d080-145">Количество товаров типа **Услуга** измеряется в единицах времени, например часах, как указано в поле **Код единицы измерения** строки.</span><span class="sxs-lookup"><span data-stu-id="8d080-145">For items of type **Service**, the quantity is a time unit, such as hours, as indicated in the **Unit of Measure Code** field on the line.</span></span>
+    >   <span data-ttu-id="8d080-145">Количество товаров типа **Услуга** измеряется в единицах времени, например часах, как указано в поле **Код единицы измерения** строки.</span><span class="sxs-lookup"><span data-stu-id="8d080-145">For items of type **Service**, the quantity is a time unit, such as hours, as indicated in the **Unit of Measure Code** field on the line.</span></span>
 
     <span data-ttu-id="8d080-146">Поле **Сумма строки** обновляется и отображает значение в поле **Прямая себестоимость единицы**, умноженное на значение в поле **Кол-во**.</span><span class="sxs-lookup"><span data-stu-id="8d080-146">The **Line Amount** field is updated to show the value in the **Direct Unit Cost** field multiplied by the value in the **Quantity** field.</span></span>
 
@@ -66,7 +66,7 @@ ms.lasthandoff: 03/22/2018
 12. <span data-ttu-id="8d080-148">В поле **Сумма скидки по счету** введите сумму, которую нужно вычесть из значения, отображенного в поле **Всего с учетом налога** в нижней части счета.</span><span class="sxs-lookup"><span data-stu-id="8d080-148">In the **Invoice Discount Amount** field, enter an amount that should be deducted from the value shown in the **Total Incl. Tax** field at the bottom of the invoice.</span></span>
 
     > [!NOTE]  
->   <span data-ttu-id="8d080-149">Если установлены скидки по счету для поставщика, то указанное значение процента автоматически вводится в поле **Скидка по счету поставщика, %**, если соблюдены условия, а связанная сумма вводится в поле **Сумма скидки по счету**.</span><span class="sxs-lookup"><span data-stu-id="8d080-149">If you have set up invoice discounts for the vendor, then the specified percentage value is automatically inserted in the **Vendor Invoice Discount %** field if the criteria are met, and the related amount is inserted in the **Invoice Discount Amount** field.</span></span>
+    >   <span data-ttu-id="8d080-149">Если установлены скидки по счету для поставщика, то указанное значение процента автоматически вводится в поле **Скидка по счету поставщика, %**, если соблюдены условия, а связанная сумма вводится в поле **Сумма скидки по счету**.</span><span class="sxs-lookup"><span data-stu-id="8d080-149">If you have set up invoice discounts for the vendor, then the specified percentage value is automatically inserted in the **Vendor Invoice Discount %** field if the criteria are met, and the related amount is inserted in the **Invoice Discount Amount** field.</span></span>
 13. <span data-ttu-id="8d080-150">При получении приобретенных товаров или услуг выберите **Учесть**.</span><span class="sxs-lookup"><span data-stu-id="8d080-150">When you receive the purchased items or services, choose **Post**.</span></span>
 
 <span data-ttu-id="8d080-151">Покупка теперь отражается в запасах и финансовых записях, а платеж поставщику активирован.</span><span class="sxs-lookup"><span data-stu-id="8d080-151">The purchase is now reflected in inventory and financial records, and the vendor payment is activated.</span></span> <span data-ttu-id="8d080-152">Счет покупки удаляется из списка счетов покупки и заменяется новым документом в списке учтенных счетов покупки.</span><span class="sxs-lookup"><span data-stu-id="8d080-152">The purchase invoice is removed from the list of purchase invoices and replaced with a new document in the list of posted purchase invoices.</span></span>

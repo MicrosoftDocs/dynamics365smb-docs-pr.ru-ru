@@ -13,10 +13,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: ba26b354d235981bd7291f9ac6402779f554ac7a
-ms.openlocfilehash: d2a2ee196be4562f62604afd4faed608ff07411f
+ms.sourcegitcommit: acef03f32124c5983846bc6ed0c4d332c9c8b347
+ms.openlocfilehash: c588e4273fa9b23f9ace044a85f5132e12112916
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 04/16/2018
 
 ---
 # <a name="design-details-loading-the-inventory-profiles"></a><span data-ttu-id="f1a04-103">Сведения о проектировании: отправка профилей запасов</span><span class="sxs-lookup"><span data-stu-id="f1a04-103">Design Details: Loading the Inventory Profiles</span></span>
@@ -28,15 +28,15 @@ ms.lasthandoff: 03/22/2018
 
  <span data-ttu-id="f1a04-112">В целом, система планирования может изменить все заказы на поставку после даты начала планирования, чтобы удовлетворить спрос.</span><span class="sxs-lookup"><span data-stu-id="f1a04-112">In general, the planning system considers all supply orders after the planning starting date as subject to change in order to fulfill demand.</span></span> <span data-ttu-id="f1a04-113">Однако как только количества учитывается из заказа на поставку, его больше невозможно изменить с помощью системы планирования.</span><span class="sxs-lookup"><span data-stu-id="f1a04-113">However, as soon as a quantity is posted from a supply order, it can no longer be changed by the planning system.</span></span> <span data-ttu-id="f1a04-114">Соответственно, следующие различные заказы невозможно перепланировать:</span><span class="sxs-lookup"><span data-stu-id="f1a04-114">Accordingly, the following different orders cannot be replanned:</span></span>  
 
--   <span data-ttu-id="f1a04-115">Запущенные производственные заказы, в которых учтено потребление или выход.</span><span class="sxs-lookup"><span data-stu-id="f1a04-115">Released production orders where consumption or output has been posted.</span></span>  
+- <span data-ttu-id="f1a04-115">Запущенные производственные заказы, в которых учтено потребление или выход.</span><span class="sxs-lookup"><span data-stu-id="f1a04-115">Released production orders where consumption or output has been posted.</span></span>  
 
--   <span data-ttu-id="f1a04-116">Заказы на сборку, в которых учтено потребление или выход.</span><span class="sxs-lookup"><span data-stu-id="f1a04-116">Assembly orders where consumption or output has been posted.</span></span>  
+- <span data-ttu-id="f1a04-116">Заказы на сборку, в которых учтено потребление или выход.</span><span class="sxs-lookup"><span data-stu-id="f1a04-116">Assembly orders where consumption or output has been posted.</span></span>  
 
--   <span data-ttu-id="f1a04-117">Заказы на перемещение с учтенной расходной накладной.</span><span class="sxs-lookup"><span data-stu-id="f1a04-117">Transfer orders where shipment has been posted.</span></span>  
+- <span data-ttu-id="f1a04-117">Заказы на перемещение с учтенной расходной накладной.</span><span class="sxs-lookup"><span data-stu-id="f1a04-117">Transfer orders where shipment has been posted.</span></span>  
 
--   <span data-ttu-id="f1a04-118">Заказы на покупку, в которых учтена приходная накладная.</span><span class="sxs-lookup"><span data-stu-id="f1a04-118">Purchase orders where receipt has been posted.</span></span>  
+- <span data-ttu-id="f1a04-118">Заказы на покупку, в которых учтена приходная накладная.</span><span class="sxs-lookup"><span data-stu-id="f1a04-118">Purchase orders where receipt has been posted.</span></span>  
 
- <span data-ttu-id="f1a04-119">Помимо загрузки типов спроса и поставки некоторые типы загружаются с учетом специальных правил и зависимостей, описанных ниже.</span><span class="sxs-lookup"><span data-stu-id="f1a04-119">Apart from loading demand and supply types, certain types are loaded with attention to special rules and dependencies that are described in the following.</span></span>  
+  <span data-ttu-id="f1a04-119">Помимо загрузки типов спроса и поставки некоторые типы загружаются с учетом специальных правил и зависимостей, описанных ниже.</span><span class="sxs-lookup"><span data-stu-id="f1a04-119">Apart from loading demand and supply types, certain types are loaded with attention to special rules and dependencies that are described in the following.</span></span>  
 
 ## <a name="item-dimensions-are-separated"></a><span data-ttu-id="f1a04-120">Измерения товара разделяются</span><span class="sxs-lookup"><span data-stu-id="f1a04-120">Item Dimensions are Separated</span></span>  
  <span data-ttu-id="f1a04-121">План поставки необходимо вычислить для комбинации измерений товаров, например варианта или склада.</span><span class="sxs-lookup"><span data-stu-id="f1a04-121">The supply plan must be calculated per combination of the item dimensions, such as variant and location.</span></span> <span data-ttu-id="f1a04-122">Однако нет причин для расчета теоретических комбинаций.</span><span class="sxs-lookup"><span data-stu-id="f1a04-122">However, there is no reason to calculate any theoretical combination.</span></span> <span data-ttu-id="f1a04-123">Следует рассчитать только те комбинации, которые включают спрос и/или поставку.</span><span class="sxs-lookup"><span data-stu-id="f1a04-123">Only those combinations that carry a demand and/or supply need to be calculated.</span></span>  

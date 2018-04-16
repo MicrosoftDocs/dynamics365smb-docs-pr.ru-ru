@@ -151,7 +151,7 @@
 
 # [Финансы](finance.md)
 ## [Управление дебиторской задолженностью](receivables-manage-receivables.md)
-###[Автоматическое применение платежей и выверка банковских счетов](receivables-apply-payments-auto-reconcile-bank-accounts.md)
+### [Автоматическое применение платежей и выверка банковских счетов](receivables-apply-payments-auto-reconcile-bank-accounts.md)
 ### [Выверка платежей клиентов вручную из списка неоплаченных документов продажи](receivables-how-reconcile-customer-payments-list-unpaid-sales-documents.md)
 ### [Применение платежей клиентов вручную](receivables-how-apply-sales-transactions-manually.md)  
 ### [Сбор непогашенных остатков задолженности](receivables-collect-outstanding-balances.md)

@@ -13,10 +13,10 @@ ms.search.keywords: trade
 ms.date: 03/26/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: ea9b4a6310df319df06d02c53b9d6156caaee24f
-ms.openlocfilehash: 7d1e9196e4fa4e24eb01f6a7f6b824e0c4f857ca
+ms.sourcegitcommit: acef03f32124c5983846bc6ed0c4d332c9c8b347
+ms.openlocfilehash: 214edd3973930abf82f0fdf41347efa5f99f7f24
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/28/2018
+ms.lasthandoff: 04/16/2018
 
 ---
 # <a name="sell-products"></a><span data-ttu-id="05dad-103">Продажа продуктов</span><span class="sxs-lookup"><span data-stu-id="05dad-103">Sell Products</span></span>
@@ -55,7 +55,7 @@ ms.lasthandoff: 03/28/2018
 7. <span data-ttu-id="05dad-146">Заполнив карточку клиента, нажмите кнопку **ОК**, чтобы вернуться в окно **Заказ на продажу**.</span><span class="sxs-lookup"><span data-stu-id="05dad-146">When you have completed the customer card, choose the **OK** button to return to the **Sales Order** window.</span></span>
 
     <span data-ttu-id="05dad-147">Несколько полей в заказе на продажу заполняются сведениями, указанными в новой карточке клиента.</span><span class="sxs-lookup"><span data-stu-id="05dad-147">Several fields on the sales order are now filled with information that you specified on the new customer card.</span></span>
-8. <span data-ttu-id="05dad-148">Заполните остальные поля в окне **Заказ на продажу** по мере необходимости.</span><span class="sxs-lookup"><span data-stu-id="05dad-148">Fill in the remaining fields in the **Sales Order** window as necessary.</span></span> [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
+8. <span data-ttu-id="05dad-148">Заполните остальные поля в окне **Заказ на продажу** по мере необходимости.</span><span class="sxs-lookup"><span data-stu-id="05dad-148">Fill in the remaining fields in the **Sales Order** window as necessary.</span></span> [!INCLUDE [tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 
     <span data-ttu-id="05dad-149">Теперь вы готовы к заполнению строк заказа на продажу сведениями о товарах в запасах или услугах, которые вы хотите продать клиенту.</span><span class="sxs-lookup"><span data-stu-id="05dad-149">You are now ready to fill in the sales order lines with inventory items or services that you want to sell to the customer.</span></span>
 
@@ -64,7 +64,7 @@ ms.lasthandoff: 03/28/2018
 10. <span data-ttu-id="05dad-152">В поле **Кол-во** укажите количество товаров, которые будут проданы.</span><span class="sxs-lookup"><span data-stu-id="05dad-152">In the **Quantity** field, enter the number of items to be sold.</span></span>
 
     > [!NOTE]  
->   <span data-ttu-id="05dad-153">Количество товаров типа "Услуга" измеряется в единицах времени, например часах, как указано в поле **Код единицы измерения** строки.</span><span class="sxs-lookup"><span data-stu-id="05dad-153">For items of type Service, the quantity is a time unit, such as hours, as indicated in the **Unit of Measure Code** field on the line.</span></span>
+    >   <span data-ttu-id="05dad-153">Количество товаров типа "Услуга" измеряется в единицах времени, например часах, как указано в поле **Код единицы измерения** строки.</span><span class="sxs-lookup"><span data-stu-id="05dad-153">For items of type Service, the quantity is a time unit, such as hours, as indicated in the **Unit of Measure Code** field on the line.</span></span>
 
     <span data-ttu-id="05dad-154">Поле **Сумма строки** обновляется и отображает значение в поле **Цена единицы**, умноженное на значение в поле **Кол-во**.</span><span class="sxs-lookup"><span data-stu-id="05dad-154">The **Line Amount** field is updated to show the value in the **Unit Price** field multiplied by the value in the **Quantity** field.</span></span>
 
@@ -79,12 +79,12 @@ ms.lasthandoff: 03/28/2018
 14. <span data-ttu-id="05dad-163">В новой карточке клиента отобразится информация из выбранного шаблона клиента.</span><span class="sxs-lookup"><span data-stu-id="05dad-163">A new customer card displays the information on the selected customer template.</span></span> <span data-ttu-id="05dad-164">Заполните остальные поля.</span><span class="sxs-lookup"><span data-stu-id="05dad-164">Fill in the remaining fields.</span></span> <span data-ttu-id="05dad-165">Дополнительные сведения см. в разделе [Регистрация новых клиентов](sales-how-register-new-customers.md).</span><span class="sxs-lookup"><span data-stu-id="05dad-165">For more information, see [Register New Customers](sales-how-register-new-customers.md).</span></span>  
 15. <span data-ttu-id="05dad-166">Заполнив карточку клиента, нажмите кнопку **ОК**, чтобы вернуться в окно **Заказ на продажу**.</span><span class="sxs-lookup"><span data-stu-id="05dad-166">When you have completed the customer card, choose the **OK** button to return to the **Sales Order** window.</span></span>
 
-   <span data-ttu-id="05dad-167">Несколько полей в заказе на продажу заполняются сведениями, указанными в новой карточке клиента.</span><span class="sxs-lookup"><span data-stu-id="05dad-167">Several fields on the sales Order are now filled with information that you specified on the new customer card.</span></span>  
-16. <span data-ttu-id="05dad-168">Заполните остальные поля в окне **Заказ на продажу** по мере необходимости.</span><span class="sxs-lookup"><span data-stu-id="05dad-168">Fill in the remaining fields in the **Sales Order** window as necessary.</span></span> [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
+    <span data-ttu-id="05dad-167">Несколько полей в заказе на продажу заполняются сведениями, указанными в новой карточке клиента.</span><span class="sxs-lookup"><span data-stu-id="05dad-167">Several fields on the sales Order are now filled with information that you specified on the new customer card.</span></span>  
+16. <span data-ttu-id="05dad-168">Заполните остальные поля в окне **Заказ на продажу** по мере необходимости.</span><span class="sxs-lookup"><span data-stu-id="05dad-168">Fill in the remaining fields in the **Sales Order** window as necessary.</span></span> [!INCLUDE [tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
 
-   <span data-ttu-id="05dad-169">Теперь вы готовы заполнить строки заказа на продажу для продуктов, которые вы продаете клиенту, или для всех транзакций с клиентом, которые необходимо записать на счете ГК.</span><span class="sxs-lookup"><span data-stu-id="05dad-169">You are now ready to fill in the sales order lines for products that you are selling to the customer or for any transaction with the customer that you want to record in a G/L account.</span></span>   
+    <span data-ttu-id="05dad-169">Теперь вы готовы заполнить строки заказа на продажу для продуктов, которые вы продаете клиенту, или для всех транзакций с клиентом, которые необходимо записать на счете ГК.</span><span class="sxs-lookup"><span data-stu-id="05dad-169">You are now ready to fill in the sales order lines for products that you are selling to the customer or for any transaction with the customer that you want to record in a G/L account.</span></span>   
 
-   <span data-ttu-id="05dad-170">Если заданы строки типовых продаж для клиента, например ежемесячный заказ пополнения заказов, можно вставить эти строки в заказ выбрав действие **Получить строки типовых продаж**.</span><span class="sxs-lookup"><span data-stu-id="05dad-170">If you have set up recurring sales lines for the customer, such as a monthly replenishment order, then you can insert these lines on the order by choosing the **Get Recurring Sales Lines** action.</span></span>  
+    <span data-ttu-id="05dad-170">Если заданы строки типовых продаж для клиента, например ежемесячный заказ пополнения заказов, можно вставить эти строки в заказ выбрав действие **Получить строки типовых продаж**.</span><span class="sxs-lookup"><span data-stu-id="05dad-170">If you have set up recurring sales lines for the customer, such as a monthly replenishment order, then you can insert these lines on the order by choosing the **Get Recurring Sales Lines** action.</span></span>  
 17. <span data-ttu-id="05dad-171">На экспресс-вкладке **Строки** в поле **Тип** выберите тип продукта, издержки или транзакцию, которая будет учтена для клиента в строке продажи.</span><span class="sxs-lookup"><span data-stu-id="05dad-171">On the **Lines** FastTab, in the **Type** field, select what type of product, charge, or transaction that you will post for the customer with the sales line.</span></span>
 18. <span data-ttu-id="05dad-172">В поле **Номер**</span><span class="sxs-lookup"><span data-stu-id="05dad-172">In the **No.**</span></span> <span data-ttu-id="05dad-173">выберите запись для учета согласно значению в поле **Тип**.</span><span class="sxs-lookup"><span data-stu-id="05dad-173">field, select a record to post according to the value in the **Type** field.</span></span>
 
@@ -94,7 +94,7 @@ ms.lasthandoff: 03/28/2018
 19. <span data-ttu-id="05dad-180">В поле **Количество** укажите, сколько единиц продукта, издержек или транзакции будет регистрироваться в этой строке для клиента.</span><span class="sxs-lookup"><span data-stu-id="05dad-180">In the **Quantity** field, enter how many units of the product, charge, or transaction that the line will record for the customer.</span></span>  
 
     > [!NOTE]  
->   <span data-ttu-id="05dad-181">Если товар принадлежит к типу **Товар - Сервис** или **Ресурс**, количество измеряется в единицах времени, например в часах, как указано в поле **Код единицы измерения** строки.</span><span class="sxs-lookup"><span data-stu-id="05dad-181">If the item is of type **Item - Service** or **Resource**, the quantity is a time unit, such as hours, as indicated in the **Unit of Measure Code** field on the line.</span></span> <span data-ttu-id="05dad-182">Дополнительные сведения см. в разделе [Настройка единиц измерения товара](inventory-how-setup-units-of-measure.md).</span><span class="sxs-lookup"><span data-stu-id="05dad-182">For more information, see [Set Up Item Units of Measure](inventory-how-setup-units-of-measure.md).</span></span>
+    >   <span data-ttu-id="05dad-181">Если товар принадлежит к типу **Товар - Сервис** или **Ресурс**, количество измеряется в единицах времени, например в часах, как указано в поле **Код единицы измерения** строки.</span><span class="sxs-lookup"><span data-stu-id="05dad-181">If the item is of type **Item - Service** or **Resource**, the quantity is a time unit, such as hours, as indicated in the **Unit of Measure Code** field on the line.</span></span> <span data-ttu-id="05dad-182">Дополнительные сведения см. в разделе [Настройка единиц измерения товара](inventory-how-setup-units-of-measure.md).</span><span class="sxs-lookup"><span data-stu-id="05dad-182">For more information, see [Set Up Item Units of Measure](inventory-how-setup-units-of-measure.md).</span></span>
 
     <span data-ttu-id="05dad-183">Значение в поле **Сумма строки** рассчитывается как *Цена единицы* х *Количество*.</span><span class="sxs-lookup"><span data-stu-id="05dad-183">The value in the **Line Amount** field is calculated as *Unit Price* x *Quantity*.</span></span>  
 

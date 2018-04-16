@@ -13,20 +13,20 @@ ms.search.keywords:
 ms.date: 09/07/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
-ms.openlocfilehash: f8cd19f97c530397dd6b499157e13340331aa3ba
+ms.sourcegitcommit: acef03f32124c5983846bc6ed0c4d332c9c8b347
+ms.openlocfilehash: fab392260f07405156c8c9874f141b05d24e681b
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 04/16/2018
 
 ---
 # <a name="create-bins"></a><span data-ttu-id="7825f-103">Создание ячеек</span><span class="sxs-lookup"><span data-stu-id="7825f-103">Create Bins</span></span>
 <span data-ttu-id="7825f-104">Наиболее эффективным способом создания ячеек склада является генерация групп одинаковых ячеек в журнале создания ячеек, но ячейки также можно создавать по отдельности из карточки склада.</span><span class="sxs-lookup"><span data-stu-id="7825f-104">The most effective way to create the bins of your warehouse is to generate groups of similar bins in the bin creation worksheet, but you can also create your bins individually from the location card.</span></span> <span data-ttu-id="7825f-105">Можно также использовать функцию в окне **Журнал создания ячеек** для автоматического создания ячеек.</span><span class="sxs-lookup"><span data-stu-id="7825f-105">You can also use a function in the **Bin Creation Worksheet** window to create bins automatically.</span></span>  
 
 ## <a name="to-create-a-bin-from-the-location-card"></a><span data-ttu-id="7825f-106">Создание ячейки из карточки склада</span><span class="sxs-lookup"><span data-stu-id="7825f-106">To create a bin from the location card</span></span>  
-1.  <span data-ttu-id="7825f-107">Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Склады** и выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="7825f-107">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Locations**, and choose the related link.</span></span>  
-2.  <span data-ttu-id="7825f-108">Выберите склад-источник для создания ячейки, затем выберите действие **Ячейки**.</span><span class="sxs-lookup"><span data-stu-id="7825f-108">Select the location that you want to create a bin from, and then choose the **Bins** action.</span></span>  
+1. <span data-ttu-id="7825f-107">Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Склады** и выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="7825f-107">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Locations**, and choose the related link.</span></span>  
+2. <span data-ttu-id="7825f-108">Выберите склад-источник для создания ячейки, затем выберите действие **Ячейки**.</span><span class="sxs-lookup"><span data-stu-id="7825f-108">Select the location that you want to create a bin from, and then choose the **Bins** action.</span></span>  
 3. <span data-ttu-id="7825f-109">Выберите действие **Создать**.</span><span class="sxs-lookup"><span data-stu-id="7825f-109">Choose the **New** action.</span></span>
-4. <span data-ttu-id="7825f-110">Заполните соответствующим образом поля.</span><span class="sxs-lookup"><span data-stu-id="7825f-110">Fill in the fields as necessary.</span></span> [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
+4. <span data-ttu-id="7825f-110">Заполните соответствующим образом поля.</span><span class="sxs-lookup"><span data-stu-id="7825f-110">Fill in the fields as necessary.</span></span> [!INCLUDE [tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
 
 ## <a name="to-create-bins-individually-in-the-bin-creation-worksheet"></a><span data-ttu-id="7825f-111">Создание отдельных ячеек в журнале создания ячеек</span><span class="sxs-lookup"><span data-stu-id="7825f-111">To create bins individually in the bin creation worksheet</span></span>  
 1.  <span data-ttu-id="7825f-112">Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Журнал создания ячеек**, затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="7825f-112">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Bin Creation Worksheet**, and choose the related link.</span></span>  

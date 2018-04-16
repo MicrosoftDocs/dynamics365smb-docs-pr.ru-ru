@@ -13,10 +13,10 @@ ms.search.keywords: project management, consumption
 ms.date: 06/06/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
-ms.openlocfilehash: b0bd4f9a4c0963520631e1571fd182adce85fdd9
+ms.sourcegitcommit: acef03f32124c5983846bc6ed0c4d332c9c8b347
+ms.openlocfilehash: 15bddf7d0e1ed651bc4b2be6fafd24db360f952c
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 04/16/2018
 
 ---
 # <a name="record-usage-for-jobs"></a><span data-ttu-id="ae1e5-103">Запись потребления для работ</span><span class="sxs-lookup"><span data-stu-id="ae1e5-103">Record Usage for Jobs</span></span>
@@ -34,7 +34,7 @@ ms.lasthandoff: 03/22/2018
 
     <span data-ttu-id="ae1e5-118">В поле **Остаток** отображается количество, оставшееся для завершения работы и переноса в журнал.</span><span class="sxs-lookup"><span data-stu-id="ae1e5-118">The **Remaining Quantity** field shows the quantity that remains to complete the job and be transferred to the journal.</span></span>  
 5. <span data-ttu-id="ae1e5-119">Выберите действие **Создать строки журнала работ**.</span><span class="sxs-lookup"><span data-stu-id="ae1e5-119">Choose the **Create Job Journal Lines** action.</span></span>
-6. <span data-ttu-id="ae1e5-120">В окне **Строка планирования работ по переносу работ** заполните поля по мере необходимости, затем нажмите кнопку **ОК**.</span><span class="sxs-lookup"><span data-stu-id="ae1e5-120">In the **Job Transfer Job Planning Line** window, fill in the fields as necessary, and then choose the **OK** button.</span></span> [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
+6. <span data-ttu-id="ae1e5-120">В окне **Строка планирования работ по переносу работ** заполните поля по мере необходимости, затем нажмите кнопку **ОК**.</span><span class="sxs-lookup"><span data-stu-id="ae1e5-120">In the **Job Transfer Job Planning Line** window, fill in the fields as necessary, and then choose the **OK** button.</span></span> [!INCLUDE [tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 7. <span data-ttu-id="ae1e5-121">Выберите действие **Открыть журнал работ**.</span><span class="sxs-lookup"><span data-stu-id="ae1e5-121">Choose the **Open Job Journal** action.</span></span>  
 8. <span data-ttu-id="ae1e5-122">В окне **Журнал работ** выберите соответствующую строку, затем выберите действие **Учет**.</span><span class="sxs-lookup"><span data-stu-id="ae1e5-122">In the **Job Journal** window, select the relevant line and then choose the **Post** action.</span></span>
 9. <span data-ttu-id="ae1e5-123">В окне **Строки планирования работы** просмотрите записанного потребление, проверив поля **Количество**, **Остаток** и **Количество для переноса в журнал**.</span><span class="sxs-lookup"><span data-stu-id="ae1e5-123">In the **Job Planning Lines** window, review the recorded usage by observing the **Quantity**, **Remaining Quantity**, and **Qty. To Transfer to Journal** fields.</span></span>  

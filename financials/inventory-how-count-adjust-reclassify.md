@@ -13,10 +13,10 @@ ms.search.keywords: adjustment, negative, positive, increase, decrease
 ms.date: 11/29/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
-ms.openlocfilehash: f2ab1e60eb826b93a1b8b7ae354bcadfa0fafd62
+ms.sourcegitcommit: acef03f32124c5983846bc6ed0c4d332c9c8b347
+ms.openlocfilehash: 6b196839db87a40308bab69da255092222df8a4b
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 04/16/2018
 
 ---
 # <a name="count-adjust-and-reclassify-inventory"></a><span data-ttu-id="c8468-103">Подсчет, корректировка и повторная классификация запасов</span><span class="sxs-lookup"><span data-stu-id="c8468-103">Count, Adjust, and Reclassify Inventory</span></span>
@@ -99,7 +99,7 @@ ms.lasthandoff: 03/22/2018
     <span data-ttu-id="c8468-173">Связанные поля обновляются соответствующим образом.</span><span class="sxs-lookup"><span data-stu-id="c8468-173">The related fields are updated accordingly.</span></span>
 
     > [!NOTE]  
->   <span data-ttu-id="c8468-174">Если при физическом расчете выявлены разницы, возникшие в результате выполнения учета товаров с ошибочными кодами склада, не вводите эти разницы в журнал инвентаризации.</span><span class="sxs-lookup"><span data-stu-id="c8468-174">If the physical count reveals differences that are caused by items posted with incorrect location codes, do not enter the differences in the physical inventory journal.</span></span> <span data-ttu-id="c8468-175">Вместо этого, используйте журнал реклассификации или заказ на перемещение для перемещения товаров в нужные склады.</span><span class="sxs-lookup"><span data-stu-id="c8468-175">Instead, use the reclassification journal or a transfer order to redirect the items to the correct locations.</span></span> <span data-ttu-id="c8468-176">Дополнительные сведения см. в разделе "Журнал реклассификации товаров" или "Создание заказов на перемещение".</span><span class="sxs-lookup"><span data-stu-id="c8468-176">For more information, see Item Reclass. Journal or Create Transfer Orders.</span></span>
+   >   <span data-ttu-id="c8468-174">Если при физическом расчете выявлены разницы, возникшие в результате выполнения учета товаров с ошибочными кодами склада, не вводите эти разницы в журнал инвентаризации.</span><span class="sxs-lookup"><span data-stu-id="c8468-174">If the physical count reveals differences that are caused by items posted with incorrect location codes, do not enter the differences in the physical inventory journal.</span></span> <span data-ttu-id="c8468-175">Вместо этого, используйте журнал реклассификации или заказ на перемещение для перемещения товаров в нужные склады.</span><span class="sxs-lookup"><span data-stu-id="c8468-175">Instead, use the reclassification journal or a transfer order to redirect the items to the correct locations.</span></span> <span data-ttu-id="c8468-176">Дополнительные сведения см. в разделе "Журнал реклассификации товаров" или "Создание заказов на перемещение".</span><span class="sxs-lookup"><span data-stu-id="c8468-176">For more information, see Item Reclass. Journal or Create Transfer Orders.</span></span>
 
 2. <span data-ttu-id="c8468-177">Чтобы скорректировать рассчитанное количество до фактического подсчитанного количества, выберите действие **Учет**.</span><span class="sxs-lookup"><span data-stu-id="c8468-177">To adjust the calculated quantities to the actual counted quantities, choose the **Post** action.</span></span>
 
@@ -134,7 +134,7 @@ ms.lasthandoff: 03/22/2018
 <span data-ttu-id="c8468-200">Сначала нужно настроить периодичность проведения инвентаризации, которая затем присваивается каждому товару.</span><span class="sxs-lookup"><span data-stu-id="c8468-200">You set up the inventory counting periods that you want to use and then assign one to each item.</span></span> <span data-ttu-id="c8468-201">При выполнении инвентаризацию и использовании функции **Расчет периода подсчета** в журнале инвентаризации строки для товаров создаются автоматически.</span><span class="sxs-lookup"><span data-stu-id="c8468-201">When you perform a physical inventory and use the **Calculate Counting Period** in the physical inventory journal, lines for the items are created automatically.</span></span>
 
 1. <span data-ttu-id="c8468-202">Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Периоды проведения инвентаризации**, а затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="c8468-202">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Phys. Invt. Counting Periods**, and then choose the related link.</span></span>  
-2. <span data-ttu-id="c8468-203">Заполните соответствующим образом поля.</span><span class="sxs-lookup"><span data-stu-id="c8468-203">Fill in the fields as necessary.</span></span> [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
+2. <span data-ttu-id="c8468-203">Заполните соответствующим образом поля.</span><span class="sxs-lookup"><span data-stu-id="c8468-203">Fill in the fields as necessary.</span></span> [!INCLUDE [tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 
 ### <a name="to-assign-a-counting-period-to-an-item"></a><span data-ttu-id="c8468-204">Назначение периода пересчета товару</span><span class="sxs-lookup"><span data-stu-id="c8468-204">To assign a counting period to an item</span></span>  
 1. <span data-ttu-id="c8468-205">Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Товары**, а затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="c8468-205">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Items**, and then choose the related link.</span></span>  
@@ -180,7 +180,7 @@ ms.lasthandoff: 03/22/2018
 <span data-ttu-id="c8468-240">Если журнал товаров часто используется для учета одинаковых или похожих строк журнала, например, в связи с расходом материалов, для упрощения повторяющейся работы можно использовать окно **Стандартный журнал товаров**.</span><span class="sxs-lookup"><span data-stu-id="c8468-240">If you often use the item journal to post the same or similar journal lines, for example, in connection with material consumption, you can use the **Standard Item Journal** window to make this recurring work easier.</span></span> <span data-ttu-id="c8468-241">Дополнительные сведения см в подразделе "Стандартные журналы" раздела [Работа с финансовыми журналами](ui-work-general-journals.md).</span><span class="sxs-lookup"><span data-stu-id="c8468-241">For more information, see the "Standard Journals" section in [Working with General Journals](ui-work-general-journals.md).</span></span>
 
 1. <span data-ttu-id="c8468-242">Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Журналы товаров**, а затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="c8468-242">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Item Journals**, and then choose the related link.</span></span>
-2. <span data-ttu-id="c8468-243">Заполните соответствующим образом поля.</span><span class="sxs-lookup"><span data-stu-id="c8468-243">Fill in the fields as necessary.</span></span> [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
+2. <span data-ttu-id="c8468-243">Заполните соответствующим образом поля.</span><span class="sxs-lookup"><span data-stu-id="c8468-243">Fill in the fields as necessary.</span></span> [!INCLUDE [tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 3. <span data-ttu-id="c8468-244">Выберите действие **Учет**, чтобы выполнить корректировки товаров.</span><span class="sxs-lookup"><span data-stu-id="c8468-244">Choose the **Post** action to make the inventory adjustments.</span></span>
 
 > [!NOTE]  

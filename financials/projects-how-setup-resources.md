@@ -13,10 +13,10 @@ ms.search.keywords: project management, capacity, staff
 ms.date: 06/06/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
-ms.openlocfilehash: 01c640a033c9607c0401ad471d257003e65ca636
+ms.sourcegitcommit: acef03f32124c5983846bc6ed0c4d332c9c8b347
+ms.openlocfilehash: 182bad8e3a667da151005fe105b12c1e5397805a
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 04/16/2018
 
 ---
 # <a name="set-up-resources"></a><span data-ttu-id="d25e0-103">Настройка ресурсов</span><span class="sxs-lookup"><span data-stu-id="d25e0-103">Set Up Resources</span></span>
@@ -31,7 +31,7 @@ ms.lasthandoff: 03/22/2018
 
 1. <span data-ttu-id="d25e0-112">Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Ресурсы**, а затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="d25e0-112">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Resources**, and then choose the related link.</span></span>
 2. <span data-ttu-id="d25e0-113">Выберите действие **Создать**.</span><span class="sxs-lookup"><span data-stu-id="d25e0-113">Choose the **New** action.</span></span>
-3. <span data-ttu-id="d25e0-114">Заполните соответствующим образом поля.</span><span class="sxs-lookup"><span data-stu-id="d25e0-114">Fill in the fields as necessary.</span></span> [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
+3. <span data-ttu-id="d25e0-114">Заполните соответствующим образом поля.</span><span class="sxs-lookup"><span data-stu-id="d25e0-114">Fill in the fields as necessary.</span></span> [!INCLUDE [tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
 
 ## <a name="to-set-up-a-resource-group"></a><span data-ttu-id="d25e0-115">Настройка группы ресурсов</span><span class="sxs-lookup"><span data-stu-id="d25e0-115">To set up a resource group</span></span>
 <span data-ttu-id="d25e0-116">Можно комбинировать несколько ресурсов в одной группе ресурсов.</span><span class="sxs-lookup"><span data-stu-id="d25e0-116">You can combine several resources in one resource group.</span></span> <span data-ttu-id="d25e0-117">Все произв. мощности и бюджеты групп ресурсов суммируются для отдельных ресурсов.</span><span class="sxs-lookup"><span data-stu-id="d25e0-117">All capacities and budgets of resource groups are accumulated from the individual resources.</span></span> <span data-ttu-id="d25e0-118">Можно также вводить произв. мощности групп ресурсов либо независимо от суммарных значений, либо в дополнение к ним.</span><span class="sxs-lookup"><span data-stu-id="d25e0-118">It is also possible to enter capacities for resource groups either independently of the accumulated values or in addition to them.</span></span>

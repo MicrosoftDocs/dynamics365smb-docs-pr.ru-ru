@@ -13,10 +13,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
-ms.openlocfilehash: 5dc35d82dee8d3a9b93c04de497e7363b7bafb90
+ms.sourcegitcommit: acef03f32124c5983846bc6ed0c4d332c9c8b347
+ms.openlocfilehash: 6f6ec5d60325ecfdad3c7fb29cf2208b0d1aa557
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 04/16/2018
 
 ---
 # <a name="about-calculating-standard-cost"></a><span data-ttu-id="f07aa-104">О расчете стандартной себестоимости</span><span class="sxs-lookup"><span data-stu-id="f07aa-104">About Calculating Standard Cost</span></span>
@@ -80,8 +80,8 @@ ms.lasthandoff: 03/22/2018
 
 <span data-ttu-id="f07aa-167">Нормы времени для каждого из этих типов времени настраиваются для каждого машинного или рабочего центра на отдельных маршрутах.</span><span class="sxs-lookup"><span data-stu-id="f07aa-167">You set up the rates for each time type for each machine or work center on an individual routing.</span></span>  
 
-> [!NOTE]  
-    >  <span data-ttu-id="f07aa-168">Хотя нормы времени выполнения применяются к каждой единице произведенного товара, настройка нормы времени выполнения применяется к каждой партии.</span><span class="sxs-lookup"><span data-stu-id="f07aa-168">While run time rates apply for each item unit that is produced, the setup time rates apply for each lot.</span></span> <span data-ttu-id="f07aa-169">Поэтому время настройки маршрута для каждой операции должно быть пропорционально распределено по размеру партии.</span><span class="sxs-lookup"><span data-stu-id="f07aa-169">Therefore, you must prorate the routing setup time for each operation over the lot size.</span></span> <span data-ttu-id="f07aa-170">Размер партии указывается в соответствующем поле на экспресс-вкладке **Заказ** карточки товара.</span><span class="sxs-lookup"><span data-stu-id="f07aa-170">You specify the lot size in the corresponding field on the **Ordering** FastTab of the item card.</span></span>  
+> [!NOTE]
+>  <span data-ttu-id="f07aa-168">Хотя нормы времени выполнения применяются к каждой единице произведенного товара, настройка нормы времени выполнения применяется к каждой партии.</span><span class="sxs-lookup"><span data-stu-id="f07aa-168">While run time rates apply for each item unit that is produced, the setup time rates apply for each lot.</span></span> <span data-ttu-id="f07aa-169">Поэтому время настройки маршрута для каждой операции должно быть пропорционально распределено по размеру партии.</span><span class="sxs-lookup"><span data-stu-id="f07aa-169">Therefore, you must prorate the routing setup time for each operation over the lot size.</span></span> <span data-ttu-id="f07aa-170">Размер партии указывается в соответствующем поле на экспресс-вкладке **Заказ** карточки товара.</span><span class="sxs-lookup"><span data-stu-id="f07aa-170">You specify the lot size in the corresponding field on the **Ordering** FastTab of the item card.</span></span>  
 
 <span data-ttu-id="f07aa-171">Чтобы указать время настройки на маршруте для планирования, но не включать этот расход в расчет стандартной себестоимости, снимите флажок в поле **Себест. вкл. наладку** в окне **Настройка модуля "Производство"**.</span><span class="sxs-lookup"><span data-stu-id="f07aa-171">To specify setup time on the routing for planning but not include this expense in the standard cost calculation, clear the **Cost Incl. Setup** field in the **Manufacturing Setup** window.</span></span>  
 

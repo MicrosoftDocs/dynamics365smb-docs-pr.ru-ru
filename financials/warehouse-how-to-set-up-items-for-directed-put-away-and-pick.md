@@ -13,10 +13,10 @@ ms.search.keywords:
 ms.date: 08/23/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
-ms.openlocfilehash: 5c802ee014df6c992a9e5b1e975f2cdc981e3a5a
+ms.sourcegitcommit: acef03f32124c5983846bc6ed0c4d332c9c8b347
+ms.openlocfilehash: bf5c4f7c90cc627e08b582255f6dd3c174f77cd0
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 04/16/2018
 
 ---
 # <a name="set-up-items-and-locations-for-directed-put-away-and-pick"></a><span data-ttu-id="e9c34-103">Настройка товаров и складов для использования расширенного подбора и размещения</span><span class="sxs-lookup"><span data-stu-id="e9c34-103">Set Up Items and Locations for Directed Put-away and Pick</span></span>
@@ -51,9 +51,9 @@ ms.lasthandoff: 03/22/2018
 <span data-ttu-id="e9c34-131">Теперь можно перейти к настройке зон, если на складе требуется работать с зонами.</span><span class="sxs-lookup"><span data-stu-id="e9c34-131">You are now ready to set up zones, if you want to operate zones in your warehouse.</span></span> <span data-ttu-id="e9c34-132">При использовании зон сокращается количество полей, которые нужно заполнять при настройке ячеек, поскольку созданные внутри зон ячейки наследуют свойства этих зон.</span><span class="sxs-lookup"><span data-stu-id="e9c34-132">Using zones reduces the number of fields you need to fill in when you set up your bins, because bins created within zones inherit several properties from the zone.</span></span> <span data-ttu-id="e9c34-133">Зоны также облегчают новым или временным работникам ориентацию на складе.</span><span class="sxs-lookup"><span data-stu-id="e9c34-133">Zones can also make it easier for new or temporary employees to orient themselves in your warehouse.</span></span> <span data-ttu-id="e9c34-134">Обратите внимание, что поток контролируется ячейками, поэтому можно работать с разными ячейками, но только с одной зоной.</span><span class="sxs-lookup"><span data-stu-id="e9c34-134">Note that flow is controlled by bins, therefore it is possible to operate with bins and only one zone.</span></span>  
 
 ## <a name="to-set-up-a-zone-in-your-warehouse"></a><span data-ttu-id="e9c34-135">Настройка зоны на складе</span><span class="sxs-lookup"><span data-stu-id="e9c34-135">To set up a zone in your warehouse</span></span>  
-1.  <span data-ttu-id="e9c34-136">Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Склады**, а затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="e9c34-136">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Locations**, and then choose the related link.</span></span>  
-2.  <span data-ttu-id="e9c34-137">Выберите расположение, где необходимо настроить зону, и откройте карточку склада, затем выберите действие **Зоны**.</span><span class="sxs-lookup"><span data-stu-id="e9c34-137">Select the location where you want to set up zone and open the location card, and then choose the **Zones** action.</span></span>  
-3.  <span data-ttu-id="e9c34-138">В окне **Зоны** заполните поля по мере необходимости.</span><span class="sxs-lookup"><span data-stu-id="e9c34-138">In the **Zones** window, fill in the fields as necessary.</span></span> [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
+1. <span data-ttu-id="e9c34-136">Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Склады**, а затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="e9c34-136">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Locations**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="e9c34-137">Выберите расположение, где необходимо настроить зону, и откройте карточку склада, затем выберите действие **Зоны**.</span><span class="sxs-lookup"><span data-stu-id="e9c34-137">Select the location where you want to set up zone and open the location card, and then choose the **Zones** action.</span></span>  
+3. <span data-ttu-id="e9c34-138">В окне **Зоны** заполните поля по мере необходимости.</span><span class="sxs-lookup"><span data-stu-id="e9c34-138">In the **Zones** window, fill in the fields as necessary.</span></span> [!INCLUDE [tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
 
 <span data-ttu-id="e9c34-139">При изменении параметра зоны все ячейки, созданные после этого в данной зоне, будут иметь новые характеристики, однако исходные ячейки не изменятся.</span><span class="sxs-lookup"><span data-stu-id="e9c34-139">When you change a zone parameter, all bins created thereafter in that zone will have the new characteristics, but the original bins will not be changed.</span></span>  
 

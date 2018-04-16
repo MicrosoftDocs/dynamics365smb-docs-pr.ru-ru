@@ -13,10 +13,10 @@ ms.search.keywords:
 ms.date: 09/08/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
-ms.openlocfilehash: b1a8eb26783b7e93e9afe04b13298972af83175d
+ms.sourcegitcommit: acef03f32124c5983846bc6ed0c4d332c9c8b347
+ms.openlocfilehash: cd03233b872773b95119ab8ec42c85c539122e82
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 04/16/2018
 
 ---
 # <a name="work-with-responsibility-centers"></a><span data-ttu-id="ce1a1-104">Работа с центрами ответственности</span><span class="sxs-lookup"><span data-stu-id="ce1a1-104">Work with Responsibility Centers</span></span>
@@ -29,11 +29,11 @@ ms.lasthandoff: 03/22/2018
 <span data-ttu-id="ce1a1-117">Центры ответственности расширяют функцию нескольких складов, чтобы пользователи могли управлять административными центрами.</span><span class="sxs-lookup"><span data-stu-id="ce1a1-117">Responsibility centers extends the multiple locations functionality by providing users the ability to handle administrative centers.</span></span> <span data-ttu-id="ce1a1-118">Центр ответственности может быть центром затрат, центром прибыли, центром инвестиций или другим определенным организацией центром.</span><span class="sxs-lookup"><span data-stu-id="ce1a1-118">A responsibility center can be a cost center, a profit center, an investment center, or other company-defined administrative center.</span></span> <span data-ttu-id="ce1a1-119">Примеры центров ответственности: отдел продаж, отдел снабжения для нескольких складов и отдел планирования завода.</span><span class="sxs-lookup"><span data-stu-id="ce1a1-119">Examples of responsibility centers are a sales office, a purchasing department for several locations, and a plant planning office.</span></span> <span data-ttu-id="ce1a1-120">Используя данную функцию, организации могут, например, задавать пользовательские представления документов продажи и покупки, относящиеся к исключительно к конкретному центру ответственности.</span><span class="sxs-lookup"><span data-stu-id="ce1a1-120">Using this functionality, for example, companies can set up user-specific views of sales and purchase documents related exclusively to a particular responsibility center.</span></span>
 
 ## <a name="to-set-up-a-responsibility-center"></a><span data-ttu-id="ce1a1-121">Настройка центра ответственности</span><span class="sxs-lookup"><span data-stu-id="ce1a1-121">To set up a responsibility center</span></span>  
-1.  <span data-ttu-id="ce1a1-122">Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Центры ответственности**, затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="ce1a1-122">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Responsibility Centers**, and then choose the related link.</span></span>  
-2.  <span data-ttu-id="ce1a1-123">Выберите действие **Создать**.</span><span class="sxs-lookup"><span data-stu-id="ce1a1-123">Choose the **New** action.</span></span>  
-3.  <span data-ttu-id="ce1a1-124">Заполните соответствующим образом поля.</span><span class="sxs-lookup"><span data-stu-id="ce1a1-124">Fill in the fields as necessary.</span></span> [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
+1. <span data-ttu-id="ce1a1-122">Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Центры ответственности**, затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="ce1a1-122">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Responsibility Centers**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="ce1a1-123">Выберите действие **Создать**.</span><span class="sxs-lookup"><span data-stu-id="ce1a1-123">Choose the **New** action.</span></span>  
+3. <span data-ttu-id="ce1a1-124">Заполните соответствующим образом поля.</span><span class="sxs-lookup"><span data-stu-id="ce1a1-124">Fill in the fields as necessary.</span></span> [!INCLUDE [tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
 
-    <span data-ttu-id="ce1a1-125">Если для управления организацией используются центры ответственности, может оказаться полезным настроить центр ответственности по умолчанию для организации.</span><span class="sxs-lookup"><span data-stu-id="ce1a1-125">If you are using responsibility centers to administer your company, it can be useful to have a default responsibility center for your company.</span></span>
+   <span data-ttu-id="ce1a1-125">Если для управления организацией используются центры ответственности, может оказаться полезным настроить центр ответственности по умолчанию для организации.</span><span class="sxs-lookup"><span data-stu-id="ce1a1-125">If you are using responsibility centers to administer your company, it can be useful to have a default responsibility center for your company.</span></span>
 4. <span data-ttu-id="ce1a1-126">Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Информация об организации**, затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="ce1a1-126">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Company Information**, and then choose the related link.</span></span>
 5. <span data-ttu-id="ce1a1-127">В поле **Центр ответственности** введите код центра ответственности.</span><span class="sxs-lookup"><span data-stu-id="ce1a1-127">In the **Responsibility Center** field, enter a responsibility center code.</span></span>
 

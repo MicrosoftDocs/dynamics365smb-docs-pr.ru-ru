@@ -13,10 +13,10 @@ ms.search.keywords: incoming document
 ms.date: 07/07/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
-ms.openlocfilehash: abeb3ee24434ca3549e7ed88ecfae54cc395002d
+ms.sourcegitcommit: acef03f32124c5983846bc6ed0c4d332c9c8b347
+ms.openlocfilehash: 446357ae219555e402fd30962071ec23c08b552d
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 04/16/2018
 
 ---
 # <a name="manage-the-intercompany-inbox-and-outbox"></a><span data-ttu-id="25fd4-103">Управление межфирменными входящими и исходящими ящиками</span><span class="sxs-lookup"><span data-stu-id="25fd4-103">Manage the Intercompany Inbox and Outbox</span></span>
@@ -69,7 +69,7 @@ ms.lasthandoff: 03/22/2018
 
 1. <span data-ttu-id="25fd4-142">Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Входящие межфирменные транзакции**, затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="25fd4-142">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Intercompany Inbox Transactions**, and then choose the related link.</span></span>  
 2. <span data-ttu-id="25fd4-143">В окне **Входящие межфирменные транзакции** выберите строку, затем выберите действие, такое как **Принять** для обработки этой строки.</span><span class="sxs-lookup"><span data-stu-id="25fd4-143">In the **Intercompany Inbox Transactions** window, select a line, and then choose an action, such as **Accept**, to process the line.</span></span>
-3. <span data-ttu-id="25fd4-144">В окне **Завершение действия со вход. МФ** заполните требуемые поля.</span><span class="sxs-lookup"><span data-stu-id="25fd4-144">In the **Complete IC Inbox Action** window, fill in the fields as necessary.</span></span> [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
+3. <span data-ttu-id="25fd4-144">В окне **Завершение действия со вход. МФ** заполните требуемые поля.</span><span class="sxs-lookup"><span data-stu-id="25fd4-144">In the **Complete IC Inbox Action** window, fill in the fields as necessary.</span></span> [!INCLUDE [tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 4. <span data-ttu-id="25fd4-145">Нажмите кнопку **ОК**.</span><span class="sxs-lookup"><span data-stu-id="25fd4-145">Choose the **OK** button.</span></span>  
 
 <span data-ttu-id="25fd4-146">Для строк, которые вы обработали с помощью действия **Принять**, в вашей компании будут созданы строки документа или журнала.</span><span class="sxs-lookup"><span data-stu-id="25fd4-146">For lines that you processed with the **Accept** action, document or journal lines will be created in your company.</span></span> <span data-ttu-id="25fd4-147">Откройте каждый документ или журнал, выполните необходимые изменения, затем выполните их учет.</span><span class="sxs-lookup"><span data-stu-id="25fd4-147">Open each document or journal, make any necessary changes, and then post them.</span></span>  

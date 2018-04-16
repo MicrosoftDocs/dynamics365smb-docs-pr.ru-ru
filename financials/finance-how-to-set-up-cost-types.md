@@ -13,10 +13,10 @@ ms.search.keywords: cost types, general ledger, accounts
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
-ms.openlocfilehash: 945a60af52eec7fb4f00842acdac42472d735a12
+ms.sourcegitcommit: acef03f32124c5983846bc6ed0c4d332c9c8b347
+ms.openlocfilehash: c89170fd159428d771df105ca16a1d91d29651e4
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 04/16/2018
 
 ---
 # <a name="set-up-cost-types"></a><span data-ttu-id="fb609-103">Настройка типов затрат</span><span class="sxs-lookup"><span data-stu-id="fb609-103">Set Up Cost Types</span></span>
@@ -35,17 +35,17 @@ ms.lasthandoff: 03/22/2018
     >  <span data-ttu-id="fb609-119">Функция **Внести типы затрат в план счетов** обновляет связь между планом счетов и диаграммой типов затрат.</span><span class="sxs-lookup"><span data-stu-id="fb609-119">The **Register Cost Types in Chart of Accounts** function updates the relationship between the chart of accounts and the chart of cost types.</span></span> <span data-ttu-id="fb609-120">Поле **Номер**</span><span class="sxs-lookup"><span data-stu-id="fb609-120">The **No.**</span></span> <span data-ttu-id="fb609-121">заполняется и проверяется, чтобы гарантировать, что все счета главной книги относятся только к одному типу затрат.</span><span class="sxs-lookup"><span data-stu-id="fb609-121">field is filled and verified to make sure that each general ledger account is related to only one cost type.</span></span> <span data-ttu-id="fb609-122">Функция выполняется автоматически до передачи операций главной книги в учет затрат.</span><span class="sxs-lookup"><span data-stu-id="fb609-122">The function runs automatically before transferring general ledger entries to cost accounting.</span></span>  
 
 ## <a name="to-set-up-new-cost-types-in-the-chart-of-cost-types-window"></a><span data-ttu-id="fb609-123">Настройка новых типов себестоимости в окне "Диаграмма типов затрат"</span><span class="sxs-lookup"><span data-stu-id="fb609-123">To set up new cost types in the Chart of Cost Types window</span></span>  
-1.  <span data-ttu-id="fb609-124">Откройте окно **Диаграмма типов затрат** в режиме редактирования.</span><span class="sxs-lookup"><span data-stu-id="fb609-124">Open the **Chart of Cost Types** window in edit mode.</span></span>  
-2.  <span data-ttu-id="fb609-125">Заполните поля, как описано, по мере необходимости.</span><span class="sxs-lookup"><span data-stu-id="fb609-125">Fill in the fields as described as necessary.</span></span> [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
+1. <span data-ttu-id="fb609-124">Откройте окно **Диаграмма типов затрат** в режиме редактирования.</span><span class="sxs-lookup"><span data-stu-id="fb609-124">Open the **Chart of Cost Types** window in edit mode.</span></span>  
+2. <span data-ttu-id="fb609-125">Заполните поля, как описано, по мере необходимости.</span><span class="sxs-lookup"><span data-stu-id="fb609-125">Fill in the fields as described as necessary.</span></span> [!INCLUDE [tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 
-    > [!NOTE]  
-    >  <span data-ttu-id="fb609-126">Можно настроить и обслуживать типы затрат в окне **Карта типов затрат** или в окне **Диаграмма типов затрат**.</span><span class="sxs-lookup"><span data-stu-id="fb609-126">You can set up and maintain cost types in either the **Cost Type Card** window or in the **Chart of Cost Types** window.</span></span> <span data-ttu-id="fb609-127">В рамках этой процедуры настраиваются типы затрат в окне **Диаграмма типов затрат**.</span><span class="sxs-lookup"><span data-stu-id="fb609-127">In this procedure, you set up cost types in the **Chart of Cost Types** window.</span></span>
+   > [!NOTE]  
+   >  <span data-ttu-id="fb609-126">Можно настроить и обслуживать типы затрат в окне **Карта типов затрат** или в окне **Диаграмма типов затрат**.</span><span class="sxs-lookup"><span data-stu-id="fb609-126">You can set up and maintain cost types in either the **Cost Type Card** window or in the **Chart of Cost Types** window.</span></span> <span data-ttu-id="fb609-127">В рамках этой процедуры настраиваются типы затрат в окне **Диаграмма типов затрат**.</span><span class="sxs-lookup"><span data-stu-id="fb609-127">In this procedure, you set up cost types in the **Chart of Cost Types** window.</span></span>
 
-3.  <span data-ttu-id="fb609-128">После создания всех типов затрат выберите действие **Сдвинуть типы затрат**.</span><span class="sxs-lookup"><span data-stu-id="fb609-128">After you have created all cost types, choose the **Indent Cost Types** action.</span></span> <span data-ttu-id="fb609-129">В диалоговом окне нажмите кнопку **Да**.</span><span class="sxs-lookup"><span data-stu-id="fb609-129">In the dialog box, choose the **Yes** button.</span></span>  
-4.  <span data-ttu-id="fb609-130">Связывание нового типа себестоимости с соответствующим счетом Главной книги.</span><span class="sxs-lookup"><span data-stu-id="fb609-130">Link the new cost type to the corresponding general ledger account.</span></span>  
+3. <span data-ttu-id="fb609-128">После создания всех типов затрат выберите действие **Сдвинуть типы затрат**.</span><span class="sxs-lookup"><span data-stu-id="fb609-128">After you have created all cost types, choose the **Indent Cost Types** action.</span></span> <span data-ttu-id="fb609-129">В диалоговом окне нажмите кнопку **Да**.</span><span class="sxs-lookup"><span data-stu-id="fb609-129">In the dialog box, choose the **Yes** button.</span></span>  
+4. <span data-ttu-id="fb609-130">Связывание нового типа себестоимости с соответствующим счетом Главной книги.</span><span class="sxs-lookup"><span data-stu-id="fb609-130">Link the new cost type to the corresponding general ledger account.</span></span>  
 
-    > [!IMPORTANT]  
-    >  <span data-ttu-id="fb609-131">Если в полях **Группировка** для типа строки **Сумма (до)** были введены определения до выполнения функции **Сдвинуть типы затрат**, их следует ввести снова после выполнения этой функции, так как она производит запись значений поверх старых во всех полях **Сумма (до)**.</span><span class="sxs-lookup"><span data-stu-id="fb609-131">If you have entered definitions in the **Totaling** fields for the line type of **End-Total** before you run the **Indent Cost Types** function, then you must enter the definitions again because the function overwrites the values in all **End-Total** fields.</span></span>  
+   > [!IMPORTANT]  
+   >  <span data-ttu-id="fb609-131">Если в полях **Группировка** для типа строки **Сумма (до)** были введены определения до выполнения функции **Сдвинуть типы затрат**, их следует ввести снова после выполнения этой функции, так как она производит запись значений поверх старых во всех полях **Сумма (до)**.</span><span class="sxs-lookup"><span data-stu-id="fb609-131">If you have entered definitions in the **Totaling** fields for the line type of **End-Total** before you run the **Indent Cost Types** function, then you must enter the definitions again because the function overwrites the values in all **End-Total** fields.</span></span>  
 
 ## <a name="to-update-cost-types"></a><span data-ttu-id="fb609-132">Обновление типов затрат</span><span class="sxs-lookup"><span data-stu-id="fb609-132">To update cost types</span></span>  
 1.  <span data-ttu-id="fb609-133">В окне **Настройка учета затрат** выберите, если требуется, диаграмму типов затрат, чтобы она автоматически обновлялась, когда диаграмма счетов изменена.</span><span class="sxs-lookup"><span data-stu-id="fb609-133">In the **Cost Accounting Setup** window, select if you want the chart of cost types to be automatically updated when the chart of accounts is changed.</span></span>  

@@ -13,10 +13,10 @@ ms.search.keywords: customized report, document layout, logo, personalize
 ms.date: 03/29/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
-ms.openlocfilehash: 0cf867dc453b01b074010ee47c7c4c6560195361
+ms.sourcegitcommit: acef03f32124c5983846bc6ed0c4d332c9c8b347
+ms.openlocfilehash: adbae31d6c9b601f4a484b8ea8bacecf0179a408
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 04/16/2018
 
 ---
 # <a name="change-which-layout-is-currently-used-on-a-report"></a><span data-ttu-id="feedb-103">Изменение макета, в настоящее время используемого в отчете</span><span class="sxs-lookup"><span data-stu-id="feedb-103">Change Which Layout is Currently Used on a Report</span></span>
@@ -34,8 +34,8 @@ ms.lasthandoff: 03/22/2018
    * <span data-ttu-id="feedb-115">Пользовательский, использует пользовательский макет отчета.</span><span class="sxs-lookup"><span data-stu-id="feedb-115">Custom, uses a custom layout on the report.</span></span>  
      <span data-ttu-id="feedb-116">Можно просмотреть, какие пользовательские отчеты доступны для отчета на информационной панели "Часть макетов отчета".</span><span class="sxs-lookup"><span data-stu-id="feedb-116">You can see which custom layouts are available for the report in the Report Layouts Part FactBox.</span></span> <span data-ttu-id="feedb-117">Если отсутствуют пользовательские макеты для отчета, сначала необходимо создать их.</span><span class="sxs-lookup"><span data-stu-id="feedb-117">If there are no custom layouts for the report, then you will have to create one first.</span></span> <span data-ttu-id="feedb-118">Если выбрать этот вариант, перейдите к следующей процедуре, чтобы задать пользовательский макет, который требуется использовать.</span><span class="sxs-lookup"><span data-stu-id="feedb-118">If you choose this option, go to the next procedure to specify the custom layout that you want to use.</span></span>
 
-    > [!NOTE]  
-    >   <span data-ttu-id="feedb-119">Если выбрано значение **RDLC (встроенный)** или **Word (встроенный)** и пользователь получает сообщение об ошибке, что этот отчет не имеет макета заданного типа, необходимо выбрать другой макет или создать пользовательский макет отчета нужного типа.</span><span class="sxs-lookup"><span data-stu-id="feedb-119">If you choose **RDLC (built-in)** or **Word (built-in)** and you get an error message that the report does not have a layout of the specified type, then you must choose another layout option or create a custom report layout of the type that you want to use.</span></span>
+     > [!NOTE]  
+     >   <span data-ttu-id="feedb-119">Если выбрано значение **RDLC (встроенный)** или **Word (встроенный)** и пользователь получает сообщение об ошибке, что этот отчет не имеет макета заданного типа, необходимо выбрать другой макет или создать пользовательский макет отчета нужного типа.</span><span class="sxs-lookup"><span data-stu-id="feedb-119">If you choose **RDLC (built-in)** or **Word (built-in)** and you get an error message that the report does not have a layout of the specified type, then you must choose another layout option or create a custom report layout of the type that you want to use.</span></span>
 
 <span data-ttu-id="feedb-120">Если выбран встроенный макет отчета RDLC или Word, никакие дальнейшие действия не требуются, а макет будет использоваться при следующем выполнении отчета.</span><span class="sxs-lookup"><span data-stu-id="feedb-120">If you selected a built-in RDLC or Word report layout, then no further action is required and the layout will be used the next time the report is run.</span></span>
 

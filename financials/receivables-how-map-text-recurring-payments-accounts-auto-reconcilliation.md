@@ -13,10 +13,10 @@ ms.search.keywords: account linking, direct payment posting, automatic payment p
 ms.date: 03/29/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
-ms.openlocfilehash: c5f6f041083e291feca4544f42d43d5ebe3b7e9c
+ms.sourcegitcommit: acef03f32124c5983846bc6ed0c4d332c9c8b347
+ms.openlocfilehash: b10995edffd00b29615e48a7a87ccf98c9fcbf80
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 04/16/2018
 
 ---
 # <a name="map-text-on-recurring-payments-to-accounts-for-automatic-reconciliation"></a><span data-ttu-id="61dc9-103">Сопоставление текста на типовых платежах со счетами для автоматической выверки</span><span class="sxs-lookup"><span data-stu-id="61dc9-103">Map Text on Recurring Payments to Accounts for Automatic Reconciliation</span></span>
@@ -38,7 +38,7 @@ ms.lasthandoff: 03/22/2018
 4. <span data-ttu-id="61dc9-120">В поле **Текст сопоставления** введите любой текст, который встречается в платежах, которые требуется учесть на заданных счетах без применения к открытой операции.</span><span class="sxs-lookup"><span data-stu-id="61dc9-120">In the **Mapping Text** field, enter any text that occurs on payments that you want to post to specified accounts without applying to an open entry.</span></span> <span data-ttu-id="61dc9-121">Можно ввести до 50-ти символов.</span><span class="sxs-lookup"><span data-stu-id="61dc9-121">You can enter up to 50 characters.</span></span>
 
     > [!NOTE]  
->   <span data-ttu-id="61dc9-122">Если нет других платежей с данным сопоставляемым текстом, сопоставление текста со счетом выполняется даже в том случае, если только часть текста в платеже имеется в сопоставляемом тексте.</span><span class="sxs-lookup"><span data-stu-id="61dc9-122">If no other payments exist with the mapping text in question, then the text-to-account mapping will occur even when only a part of the text on the payment exists as a mapping text.</span></span>
+   >   <span data-ttu-id="61dc9-122">Если нет других платежей с данным сопоставляемым текстом, сопоставление текста со счетом выполняется даже в том случае, если только часть текста в платеже имеется в сопоставляемом тексте.</span><span class="sxs-lookup"><span data-stu-id="61dc9-122">If no other payments exist with the mapping text in question, then the text-to-account mapping will occur even when only a part of the text on the payment exists as a mapping text.</span></span>
 5. <span data-ttu-id="61dc9-123">В поле **Номер поставщика** укажите поставщика, для которого будут учитываться платежи.</span><span class="sxs-lookup"><span data-stu-id="61dc9-123">In the **Vendor No.** field, enter the vendor that the payments will be posted to.</span></span>
 6. <span data-ttu-id="61dc9-124">В поле **Тип источника сальдо** укажите, будет ли платеж учтен на счете ГК или на счете клиента либо поставщика.</span><span class="sxs-lookup"><span data-stu-id="61dc9-124">In the **Bal. Source Type** field, specify if the payment will be posted to a general ledger account or to a customer or vendor account.</span></span>
 7. <span data-ttu-id="61dc9-125">В поле **Номер источника сальдо** укажите счет, на котором будет учтен платеж в зависимости от варианта выбора в поле **Тип источника сальдо**.</span><span class="sxs-lookup"><span data-stu-id="61dc9-125">In the **Bal. Source No.** field, specify the account that the payment will be posted to, depending on your selection in the **Bal. Source Type** field.</span></span>
@@ -57,7 +57,7 @@ ms.lasthandoff: 03/22/2018
 | --- | --- | --- | --- | --- |
 | <span data-ttu-id="61dc9-140">Shell</span><span class="sxs-lookup"><span data-stu-id="61dc9-140">Shell</span></span> |<span data-ttu-id="61dc9-141">ПУСТО</span><span class="sxs-lookup"><span data-stu-id="61dc9-141">BLANK</span></span> |<span data-ttu-id="61dc9-142">8510</span><span class="sxs-lookup"><span data-stu-id="61dc9-142">8510</span></span> |<span data-ttu-id="61dc9-143">Счет ГК</span><span class="sxs-lookup"><span data-stu-id="61dc9-143">G/L Account</span></span> |<span data-ttu-id="61dc9-144">ПУСТО</span><span class="sxs-lookup"><span data-stu-id="61dc9-144">BLANK</span></span> |
 
-> [!TIP]  
+> [!TIP]
 >   <span data-ttu-id="61dc9-145">Дополнительные сведения о работе с полями и столбцами см. в разделе [Работа с [!INCLUDE[d365fin](includes/d365fin_long_md.md)]](ui-work-product.md).</span><span class="sxs-lookup"><span data-stu-id="61dc9-145">For more information about how to work with fields and columns, see [Working with [!INCLUDE[d365fin](includes/d365fin_long_md.md)]](ui-work-product.md).</span></span> <span data-ttu-id="61dc9-146">Дополнительные сведения о поиске определенных страниц см. в разделе [Поиск](ui-search.md).</span><span class="sxs-lookup"><span data-stu-id="61dc9-146">For more information about how to find specific pages, see [Search](ui-search.md).</span></span>
 
 ## <a name="see-also"></a><span data-ttu-id="61dc9-147">См. также</span><span class="sxs-lookup"><span data-stu-id="61dc9-147">See Also</span></span>

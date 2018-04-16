@@ -13,10 +13,10 @@ ms.search.keywords: purchasing agent
 ms.date: 03/29/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
-ms.openlocfilehash: 66e6233df8204476e5f856e230e5e3d502d309c4
+ms.sourcegitcommit: acef03f32124c5983846bc6ed0c4d332c9c8b347
+ms.openlocfilehash: fca44f18a43a1d3f4a5ad10678e7cd4fd3801aa0
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 04/16/2018
 
 ---
 # <a name="set-up-purchasers"></a><span data-ttu-id="7efd3-103">Настройка менеджеров по закупкам</span><span class="sxs-lookup"><span data-stu-id="7efd3-103">Set Up Purchasers</span></span>
@@ -25,7 +25,7 @@ ms.lasthandoff: 03/22/2018
 ## <a name="to-set-up-purchasers"></a><span data-ttu-id="7efd3-106">Настройка менеджеров</span><span class="sxs-lookup"><span data-stu-id="7efd3-106">To set up purchasers</span></span>
 1. <span data-ttu-id="7efd3-107">Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Менеджеры по продажам/закупкам**, а затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="7efd3-107">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Salespeople/Purchasers**, and then choose the related link.</span></span>
 2. <span data-ttu-id="7efd3-108">В окне **Менеджеры по продажам/закупкам** выберите действие **Создать**.</span><span class="sxs-lookup"><span data-stu-id="7efd3-108">In the **Salespeople/Purchasers** window, choose **New**.</span></span>
-3. <span data-ttu-id="7efd3-109">В окне **Карточка менеджера по продажам/закупкам** заполните требуемые поля.</span><span class="sxs-lookup"><span data-stu-id="7efd3-109">In the **Salesperson/Purchaser Card** window, fill in the fields as necessary.</span></span> [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
+3. <span data-ttu-id="7efd3-109">В окне **Карточка менеджера по продажам/закупкам** заполните требуемые поля.</span><span class="sxs-lookup"><span data-stu-id="7efd3-109">In the **Salesperson/Purchaser Card** window, fill in the fields as necessary.</span></span> [!INCLUDE [tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 
 ## <a name="to-assign-purchasers-to-vendors"></a><span data-ttu-id="7efd3-110">Назначение менеджеров поставщикам</span><span class="sxs-lookup"><span data-stu-id="7efd3-110">To assign purchasers to vendors</span></span>
 1. <span data-ttu-id="7efd3-111">Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Поставщики**, а затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="7efd3-111">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Vendors**, and then choose the related link.</span></span>

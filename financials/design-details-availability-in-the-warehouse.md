@@ -13,10 +13,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 2c13559bb3dc44cdb61697f5135c5b931e34d2a8
-ms.openlocfilehash: 0b560d61d39ba22f0008e6cb5ef11d2f6c9aa9e0
+ms.sourcegitcommit: acef03f32124c5983846bc6ed0c4d332c9c8b347
+ms.openlocfilehash: ee8fe08f9c8e9d9e32052bc55539a0fa3e56e4d4
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 04/16/2018
 
 ---
 # <a name="design-details-availability-in-the-warehouse"></a><span data-ttu-id="1a9f2-103">Сведения о проектировании: наличие на складе</span><span class="sxs-lookup"><span data-stu-id="1a9f2-103">Design Details: Availability in the Warehouse</span></span>
@@ -51,16 +51,16 @@ ms.lasthandoff: 03/22/2018
 
  <span data-ttu-id="1a9f2-128">Должно быть возможно зарезервировать все товары в запасах за исключением тех, для которых уже начата исходящая обработка.</span><span class="sxs-lookup"><span data-stu-id="1a9f2-128">It should be possible to reserve all items in inventory, except those that have started outbound processing.</span></span> <span data-ttu-id="1a9f2-129">Соответственно, количество, доступное для резервирования, определяется как количество во всех документах и всех типах ячеек за исключением следующих исходящих количеств:</span><span class="sxs-lookup"><span data-stu-id="1a9f2-129">Accordingly, the quantity that is available to reserve is defined as the quantity on all documents and all bin types, except the following outbound quantities:</span></span>  
 
--   <span data-ttu-id="1a9f2-130">Количество в незарегистрированных документах подбора</span><span class="sxs-lookup"><span data-stu-id="1a9f2-130">Quantity on unregistered pick documents</span></span>  
--   <span data-ttu-id="1a9f2-131">Количество в ячейках отгрузки</span><span class="sxs-lookup"><span data-stu-id="1a9f2-131">Quantity in shipment bins</span></span>  
--   <span data-ttu-id="1a9f2-132">Количество во входящих производственных ячейках</span><span class="sxs-lookup"><span data-stu-id="1a9f2-132">Quantity in to-production bins</span></span>  
--   <span data-ttu-id="1a9f2-133">Количество в ячейках общего доступа</span><span class="sxs-lookup"><span data-stu-id="1a9f2-133">Quantity in open shop floor bins</span></span>  
--   <span data-ttu-id="1a9f2-134">Количества в ячейках сборки</span><span class="sxs-lookup"><span data-stu-id="1a9f2-134">Quantity in to-assembly bins</span></span>  
--   <span data-ttu-id="1a9f2-135">Количество в ячейках коррекции</span><span class="sxs-lookup"><span data-stu-id="1a9f2-135">Quantity in adjustment bins</span></span>  
+- <span data-ttu-id="1a9f2-130">Количество в незарегистрированных документах подбора</span><span class="sxs-lookup"><span data-stu-id="1a9f2-130">Quantity on unregistered pick documents</span></span>  
+- <span data-ttu-id="1a9f2-131">Количество в ячейках отгрузки</span><span class="sxs-lookup"><span data-stu-id="1a9f2-131">Quantity in shipment bins</span></span>  
+- <span data-ttu-id="1a9f2-132">Количество во входящих производственных ячейках</span><span class="sxs-lookup"><span data-stu-id="1a9f2-132">Quantity in to-production bins</span></span>  
+- <span data-ttu-id="1a9f2-133">Количество в ячейках общего доступа</span><span class="sxs-lookup"><span data-stu-id="1a9f2-133">Quantity in open shop floor bins</span></span>  
+- <span data-ttu-id="1a9f2-134">Количества в ячейках сборки</span><span class="sxs-lookup"><span data-stu-id="1a9f2-134">Quantity in to-assembly bins</span></span>  
+- <span data-ttu-id="1a9f2-135">Количество в ячейках коррекции</span><span class="sxs-lookup"><span data-stu-id="1a9f2-135">Quantity in adjustment bins</span></span>  
 
- <span data-ttu-id="1a9f2-136">Результат отображается в поле **Общее доступное кол-во** в окне **Резервирование**.</span><span class="sxs-lookup"><span data-stu-id="1a9f2-136">The result is displayed in the **Total Available Quantity** field in the **Reservation** window.</span></span>  
+  <span data-ttu-id="1a9f2-136">Результат отображается в поле **Общее доступное кол-во** в окне **Резервирование**.</span><span class="sxs-lookup"><span data-stu-id="1a9f2-136">The result is displayed in the **Total Available Quantity** field in the **Reservation** window.</span></span>  
 
- <span data-ttu-id="1a9f2-137">В строке резервирования количество, которое невозможно зарезервировать, поскольку оно распределено на склад, отображается в поле **Кол-во, распред. на складе** в окне **Reservation**.</span><span class="sxs-lookup"><span data-stu-id="1a9f2-137">On a reservation line, the quantity that cannot be reserved, because it is allocated in the warehouse, is displayed in the **Qty. Allocated in Warehouse** field in the **Reservation** window.</span></span>  
+  <span data-ttu-id="1a9f2-137">В строке резервирования количество, которое невозможно зарезервировать, поскольку оно распределено на склад, отображается в поле **Кол-во, распред. на складе** в окне **Reservation**.</span><span class="sxs-lookup"><span data-stu-id="1a9f2-137">On a reservation line, the quantity that cannot be reserved, because it is allocated in the warehouse, is displayed in the **Qty. Allocated in Warehouse** field in the **Reservation** window.</span></span>  
 
 ### <a name="calculating-the-quantity-available-to-reserve"></a><span data-ttu-id="1a9f2-138">Расчет количества, доступного для резервирования</span><span class="sxs-lookup"><span data-stu-id="1a9f2-138">Calculating the Quantity Available to Reserve</span></span>  
  <span data-ttu-id="1a9f2-139">Доступное для резервирования количество вычисляется следующим образом.</span><span class="sxs-lookup"><span data-stu-id="1a9f2-139">The quantity available to reserve is calculated as follows:</span></span>  

@@ -13,10 +13,10 @@ ms.search.keywords:
 ms.date: 08/14/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
-ms.openlocfilehash: c9f2464014f2078f2a86f2e7d8a72873fa4015a8
+ms.sourcegitcommit: acef03f32124c5983846bc6ed0c4d332c9c8b347
+ms.openlocfilehash: 64171b3dd3d165c6204594920a8c0e8a1f852c74
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 04/16/2018
 
 ---
 # <a name="combine-shipments-on-a-single-invoice"></a><span data-ttu-id="dfe86-103">Объединение поставок в один счет</span><span class="sxs-lookup"><span data-stu-id="dfe86-103">Combine Shipments on a Single Invoice</span></span>
@@ -31,17 +31,17 @@ ms.lasthandoff: 03/22/2018
 4. <span data-ttu-id="dfe86-114">На экспресс-вкладке **Строки** выберите действие **Получение строк отгрузки**.</span><span class="sxs-lookup"><span data-stu-id="dfe86-114">On the **Lines** FastTab, choose the **Get Shipment Lines** action.</span></span>  
 5. <span data-ttu-id="dfe86-115">Выберите строку расходной накладной, которую необходимо включить в этот счет.</span><span class="sxs-lookup"><span data-stu-id="dfe86-115">Select the shipment line that you want to include in the invoice:</span></span>  
 
-    - <span data-ttu-id="dfe86-116">Чтобы вставить все строки, выделите все строки и нажмите кнопку **ОК**.</span><span class="sxs-lookup"><span data-stu-id="dfe86-116">To insert all lines, select all lines and choose the **OK** button.</span></span>  
-    - <span data-ttu-id="dfe86-117">Чтобы вставить определенные строки, выделите эти строки и нажмите кнопку **ОК**.</span><span class="sxs-lookup"><span data-stu-id="dfe86-117">To insert specific lines, select the lines and choose the **OK** button.</span></span> <span data-ttu-id="dfe86-118">Для выбора нескольких непоследовательных строк можно использовать клавишу Ctrl.</span><span class="sxs-lookup"><span data-stu-id="dfe86-118">You can use the Ctrl key to select multiple nonsequential lines.</span></span>  
+   - <span data-ttu-id="dfe86-116">Чтобы вставить все строки, выделите все строки и нажмите кнопку **ОК**.</span><span class="sxs-lookup"><span data-stu-id="dfe86-116">To insert all lines, select all lines and choose the **OK** button.</span></span>  
+   - <span data-ttu-id="dfe86-117">Чтобы вставить определенные строки, выделите эти строки и нажмите кнопку **ОК**.</span><span class="sxs-lookup"><span data-stu-id="dfe86-117">To insert specific lines, select the lines and choose the **OK** button.</span></span> <span data-ttu-id="dfe86-118">Для выбора нескольких непоследовательных строк можно использовать клавишу Ctrl.</span><span class="sxs-lookup"><span data-stu-id="dfe86-118">You can use the Ctrl key to select multiple nonsequential lines.</span></span>  
 
-    <span data-ttu-id="dfe86-119">Если строка расходной накладной была выделена ошибочно или необходимо начать сначала, то можно просто удалить строки счета и запустить функцию **Получить строки расх. накл.** повторно.</span><span class="sxs-lookup"><span data-stu-id="dfe86-119">If an incorrect shipment line was selected or you want to start over, you can simply delete the lines on the invoice and re-run the **Get Shipment Lines** function.</span></span>  
-7. <span data-ttu-id="dfe86-120">Чтобы учесть счет, выберите действие **Учесть**.</span><span class="sxs-lookup"><span data-stu-id="dfe86-120">To post the invoice, choose the **Post** action.</span></span>  
+     <span data-ttu-id="dfe86-119">Если строка расходной накладной была выделена ошибочно или необходимо начать сначала, то можно просто удалить строки счета и запустить функцию **Получить строки расх. накл.** повторно.</span><span class="sxs-lookup"><span data-stu-id="dfe86-119">If an incorrect shipment line was selected or you want to start over, you can simply delete the lines on the invoice and re-run the **Get Shipment Lines** function.</span></span>  
+6. <span data-ttu-id="dfe86-120">Чтобы учесть счет, выберите действие **Учесть**.</span><span class="sxs-lookup"><span data-stu-id="dfe86-120">To post the invoice, choose the **Post** action.</span></span>  
 
 ## <a name="to-automatically-combine-shipments-on-a-single-invoice"></a><span data-ttu-id="dfe86-121">Автоматическое объединение поставок в один счет</span><span class="sxs-lookup"><span data-stu-id="dfe86-121">To automatically combine shipments on a single invoice</span></span>  
 1. <span data-ttu-id="dfe86-122">Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Объединение поставок**, затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="dfe86-122">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Combine Shipments**, and then choose the related link.</span></span> <span data-ttu-id="dfe86-123">Откроется окно запроса пакетного задания.</span><span class="sxs-lookup"><span data-stu-id="dfe86-123">The batch job request window opens.</span></span>  
-2. <span data-ttu-id="dfe86-124">Заполните соответствующим образом поля.</span><span class="sxs-lookup"><span data-stu-id="dfe86-124">Fill in the fields as necessary.</span></span> [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
+2. <span data-ttu-id="dfe86-124">Заполните соответствующим образом поля.</span><span class="sxs-lookup"><span data-stu-id="dfe86-124">Fill in the fields as necessary.</span></span> [!INCLUDE [tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 3. <span data-ttu-id="dfe86-125">Установите флажок **Учет счетов**.</span><span class="sxs-lookup"><span data-stu-id="dfe86-125">Select the **Post Invoices** check box.</span></span>  
-4.  <span data-ttu-id="dfe86-126">Нажмите кнопку **ОК**.</span><span class="sxs-lookup"><span data-stu-id="dfe86-126">Choose the **OK** button.</span></span>  
+4. <span data-ttu-id="dfe86-126">Нажмите кнопку **ОК**.</span><span class="sxs-lookup"><span data-stu-id="dfe86-126">Choose the **OK** button.</span></span>  
 
 > [!NOTE]  
 >  <span data-ttu-id="dfe86-127">В том случае, когда флажок **Учет счетов** в пакетном задании не установлен, потребуется выполнить учет счетов вручную.</span><span class="sxs-lookup"><span data-stu-id="dfe86-127">You will need to manually post the invoices if the **Post Invoices** check box was not selected on the batch job.</span></span>  

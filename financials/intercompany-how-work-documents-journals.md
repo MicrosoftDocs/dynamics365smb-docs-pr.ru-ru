@@ -13,10 +13,10 @@ ms.search.keywords: IC, group, consolidation, affiliate, subsidiary
 ms.date: 06/21/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
-ms.openlocfilehash: 98e0d9012dfdd998431aaed8dade02f592af47c8
+ms.sourcegitcommit: acef03f32124c5983846bc6ed0c4d332c9c8b347
+ms.openlocfilehash: f7ae482ebc1d89bb925457ad5cbc3592d245933f
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 04/16/2018
 
 ---
 # <a name="work-with-intercompany-documents-and-journals"></a><span data-ttu-id="70a24-103">Работа с межфирменными документами и журналами</span><span class="sxs-lookup"><span data-stu-id="70a24-103">Work with Intercompany Documents and Journals</span></span>
@@ -33,7 +33,7 @@ ms.lasthandoff: 03/22/2018
 
 1. <span data-ttu-id="70a24-115">Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Заказы на продажу**, а затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="70a24-115">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Sales Orders**, and then choose the related link.</span></span>  
 2. <span data-ttu-id="70a24-116">Чтобы создать новый заказ на продажу, выберите **Создать**.</span><span class="sxs-lookup"><span data-stu-id="70a24-116">Choose **New** to create a new sales order.</span></span> <span data-ttu-id="70a24-117">Дополнительные сведения см. в разделе [Продажа продукции](sales-how-sell-products.md).</span><span class="sxs-lookup"><span data-stu-id="70a24-117">For more information, see [Sell Products](sales-how-sell-products.md).</span></span>  
-3. <span data-ttu-id="70a24-118">Заполните соответствующим образом поля.</span><span class="sxs-lookup"><span data-stu-id="70a24-118">Fill in the fields as necessary.</span></span> [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
+3. <span data-ttu-id="70a24-118">Заполните соответствующим образом поля.</span><span class="sxs-lookup"><span data-stu-id="70a24-118">Fill in the fields as necessary.</span></span> [!INCLUDE [tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 4. <span data-ttu-id="70a24-119">Убедитесь, что клиент является межфирменным партнером.</span><span class="sxs-lookup"><span data-stu-id="70a24-119">Make sure the customer is an intercompany partner.</span></span>
 5. <span data-ttu-id="70a24-120">Для отправки заказа на продажу до его учета выберите действие **Отправить межфирменный заказ на продажу**.</span><span class="sxs-lookup"><span data-stu-id="70a24-120">To send the sales order before you post it, choose the **Send IC Sales Order** action.</span></span>
 

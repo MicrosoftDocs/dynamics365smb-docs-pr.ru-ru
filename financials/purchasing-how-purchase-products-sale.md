@@ -13,14 +13,15 @@ ms.search.keywords: supply planning, sales demand, replenish
 ms.date: 01/25/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: bb89654d7bc48ad9746265b15cf0b6270fec2f7c
+ms.sourcegitcommit: acef03f32124c5983846bc6ed0c4d332c9c8b347
+ms.openlocfilehash: 52ac51bc028b09f9dd38c1114312f1d613951cad
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 04/16/2018
 
 ---
 # <a name="purchase-items-for-a-sale"></a><span data-ttu-id="cc16f-103">Покупка товаров для продажи</span><span class="sxs-lookup"><span data-stu-id="cc16f-103">Purchase Items for a Sale</span></span>
 <span data-ttu-id="cc16f-104">Из заказов на продажу и счетов продажи можно быстро создавать документы покупки на недостающие количества товаров, требуемые для продажи.</span><span class="sxs-lookup"><span data-stu-id="cc16f-104">From sales orders and sales invoices, you can use functions to quickly create purchase documents for missing item quantities that are required by the sale.</span></span> <span data-ttu-id="cc16f-105">Вы можете использовать две различные функции в зависимости от типа документа.</span><span class="sxs-lookup"><span data-stu-id="cc16f-105">You can use two different functions depending on the document type.</span></span>
+
 |<span data-ttu-id="cc16f-106">Функция</span><span class="sxs-lookup"><span data-stu-id="cc16f-106">Function</span></span>|<span data-ttu-id="cc16f-107">Описанием</span><span class="sxs-lookup"><span data-stu-id="cc16f-107">Description</span></span>|
 |--------|-----------|
 |<span data-ttu-id="cc16f-108">**Создать заказы на покупку**</span><span class="sxs-lookup"><span data-stu-id="cc16f-108">**Create Purchase Orders**</span></span>|<span data-ttu-id="cc16f-109">Из заказа на продажу эта функция позволяет создать заказ на покупку для каждого поставщика товаров в заказе на продажу.</span><span class="sxs-lookup"><span data-stu-id="cc16f-109">From a sales order, this function creates a purchase order for each vendor of items on the sales order.</span></span> <span data-ttu-id="cc16f-110">Вы можете изменить количество покупки, прежде чем создать заказы на покупку.</span><span class="sxs-lookup"><span data-stu-id="cc16f-110">You can edit the purchase quantity before you create the purchase orders.</span></span> <span data-ttu-id="cc16f-111">Предлагаются только недостающие количества.</span><span class="sxs-lookup"><span data-stu-id="cc16f-111">Only unavailable sales quantities are suggested.</span></span>
@@ -39,11 +40,11 @@ ms.lasthandoff: 03/22/2018
 4. <span data-ttu-id="cc16f-124">Чтобы купить количество, отличное от недоступного для продажи, измените значение поля **Кол-во для покупки**.</span><span class="sxs-lookup"><span data-stu-id="cc16f-124">To purchase another quantity than the unavailable sales quantity, edit the value in the **Quantity to Purchase** field.</span></span>
 
     > [!NOTE]  
->   <span data-ttu-id="cc16f-125">Также можно изменить поле **Кол-во для покупки** в серых строках, даже если они представляют полностью доступное количество для продажи.</span><span class="sxs-lookup"><span data-stu-id="cc16f-125">You can also change the **Quantity to Purchase** field on grayed lines even though they represent fully available sales quantities.</span></span>
+   >   <span data-ttu-id="cc16f-125">Также можно изменить поле **Кол-во для покупки** в серых строках, даже если они представляют полностью доступное количество для продажи.</span><span class="sxs-lookup"><span data-stu-id="cc16f-125">You can also change the **Quantity to Purchase** field on grayed lines even though they represent fully available sales quantities.</span></span>
 5. <span data-ttu-id="cc16f-126">Нажмите кнопку **ОК**.</span><span class="sxs-lookup"><span data-stu-id="cc16f-126">Choose the **OK** button.</span></span>
 
     <span data-ttu-id="cc16f-127">Заказ на покупку создается для каждого поставщика товаров в заказа на продажу и включает все изменения количества, которые вы сделали в окне **Создать заказы на покупку**.</span><span class="sxs-lookup"><span data-stu-id="cc16f-127">A purchase order is created for each vendor of items on the sales order, including any quantity changes that you made in the **Create Purchase Orders** window.</span></span>
-7. <span data-ttu-id="cc16f-128">Продолжите обработку заказов на покупку, например изменив или добавив строки заказов на покупку.</span><span class="sxs-lookup"><span data-stu-id="cc16f-128">Proceed to process the purchase order or orders, for example, by editing or adding purchase order lines.</span></span> <span data-ttu-id="cc16f-129">Дополнительные сведения см. в разделе [Регистрация покупок](purchasing-how-record-purchases.md).</span><span class="sxs-lookup"><span data-stu-id="cc16f-129">For more information, see [Record Purchases](purchasing-how-record-purchases.md).</span></span>
+6. <span data-ttu-id="cc16f-128">Продолжите обработку заказов на покупку, например изменив или добавив строки заказов на покупку.</span><span class="sxs-lookup"><span data-stu-id="cc16f-128">Proceed to process the purchase order or orders, for example, by editing or adding purchase order lines.</span></span> <span data-ttu-id="cc16f-129">Дополнительные сведения см. в разделе [Регистрация покупок](purchasing-how-record-purchases.md).</span><span class="sxs-lookup"><span data-stu-id="cc16f-129">For more information, see [Record Purchases](purchasing-how-record-purchases.md).</span></span>
 
 
 ## <a name="to-create-a-purchase-invoice-from-a-sales-order-or-sales-invoice"></a><span data-ttu-id="cc16f-130">Создание счета покупки из заказа на продажу или счета продажи</span><span class="sxs-lookup"><span data-stu-id="cc16f-130">To create a purchase invoice from a sales order or sales invoice</span></span>
