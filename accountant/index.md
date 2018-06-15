@@ -8,28 +8,27 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: setup wizard, accountant
-ms.date: 10/23/2017
+ms.date: 05/09/2018
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: bec0619be0a65e3625759e13d2866ac615d7513c
-ms.openlocfilehash: 419c13f4d7b35f66fae04d71d269208d9c172613
+ms.sourcegitcommit: 75501b9402bb1c14fcfeb2fc6e61f055a2247493
+ms.openlocfilehash: daca65a5b4808800147024bb4f96244e45b4368a
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 05/15/2018
 
 ---
-# <a name="welcome-to-included365acclongincludesd365acclongmdmd"></a><span data-ttu-id="56ba3-103">Добро пожаловать в [!INCLUDE[d365acc_long](includes/d365acc_long_md.md)]</span><span class="sxs-lookup"><span data-stu-id="56ba3-103">Welcome to [!INCLUDE[d365acc_long](includes/d365acc_long_md.md)]</span></span>
-[!INCLUDE[d365fin_early_release](includes/d365fin_early_release.md.md)]
+# <a name="welcome-to-include-d365acclongincludesd365acclongmdmd"></a><span data-ttu-id="a18d3-103">Добро пожаловать в [!INCLUDE [d365acc_long](includes/d365acc_long_md.md)]</span><span class="sxs-lookup"><span data-stu-id="a18d3-103">Welcome to [!INCLUDE [d365acc_long](includes/d365acc_long_md.md)]</span></span>
+[!INCLUDE [d365fin_early_release](includes/d365fin_early_release.md.md)]
 
-<span data-ttu-id="56ba3-104">Если вы бухгалтер, в которого несколько клиентов, вы можете использовать [!INCLUDE[d365acc](includes/d365acc_md.md)] в качестве панели мониторинга для более наглядного представления информации о своих клиентах.</span><span class="sxs-lookup"><span data-stu-id="56ba3-104">If you are an accountant with several clients, you can use [!INCLUDE[d365acc](includes/d365acc_md.md)] as your dashboard for a better overview of your clients.</span></span> <span data-ttu-id="56ba3-105">Отсюда вы можете получить доступ к данным каждого из клиентов.</span><span class="sxs-lookup"><span data-stu-id="56ba3-105">From there, you can access each client's data.</span></span>  
+<span data-ttu-id="a18d3-104">Если вы бухгалтер, в которого несколько клиентов, вы можете использовать [!INCLUDE [d365acc](includes/d365acc_md.md)] в качестве панели мониторинга для более наглядного представления информации о своих клиентах.</span><span class="sxs-lookup"><span data-stu-id="a18d3-104">If you are an accountant with several clients, you can use [!INCLUDE [d365acc](includes/d365acc_md.md)] as your dashboard for a better overview of your clients.</span></span> <span data-ttu-id="a18d3-105">Отсюда вы можете получить доступ к данным каждого из клиентов.</span><span class="sxs-lookup"><span data-stu-id="a18d3-105">From there, you can access each client's data.</span></span>  
 
 ![Accountant Hub](./media/accountant-get-started/accountant-dashboard.png)
 
-<span data-ttu-id="56ba3-107">Получить доступ к [!INCLUDE[d365acc](includes/d365acc_md.md)] можно, зарегистрировавшись на странице [Dynamics 365 — Accountant Hub на Microsoft.com](https://www.microsoft.com/en-us/dynamics365/financial-insights-for-accountants). Регистрация бесплатна, и вы сможете быстро начать работу и добавить своих клиентов на панель мониторинга.</span><span class="sxs-lookup"><span data-stu-id="56ba3-107">You can get access to [!INCLUDE[d365acc](includes/d365acc_md.md)] by signing up from [Dynamics 365 — Accountant Hub on Microsoft.com](https://www.microsoft.com/en-us/dynamics365/financial-insights-for-accountants). It's free of charge, and it's quick to get started and add your clients to the dashboard.</span></span> <span data-ttu-id="56ba3-108">Дополнительные сведения см. в разделе [Начало работы с Accountant Hub](get-started.md).</span><span class="sxs-lookup"><span data-stu-id="56ba3-108">For more information, see [Get Started with Accountant Hub](get-started.md).</span></span>  
+<span data-ttu-id="a18d3-107">Получить доступ к [!INCLUDE [d365acc](includes/d365acc_md.md)] можно, зарегистрировавшись на странице [Dynamics 365 — Accountant Hub на Microsoft.com](https://www.microsoft.com/en-us/dynamics365/financial-insights-for-accountants). Регистрация бесплатна, и вы сможете быстро начать работу и добавить своих клиентов на панель мониторинга.</span><span class="sxs-lookup"><span data-stu-id="a18d3-107">You can get access to [!INCLUDE [d365acc](includes/d365acc_md.md)] by signing up from [Dynamics 365 — Accountant Hub on Microsoft.com](https://www.microsoft.com/en-us/dynamics365/financial-insights-for-accountants). It's free of charge, and it's quick to get started and add your clients to the dashboard.</span></span> <span data-ttu-id="a18d3-108">Дополнительные сведения см. в разделе [Начало работы с Accountant Hub](get-started.md).</span><span class="sxs-lookup"><span data-stu-id="a18d3-108">For more information, see [Get Started with Accountant Hub](get-started.md).</span></span>  
 
-<span data-ttu-id="56ba3-109">В текущей версии [!INCLUDE[d365acc](includes/d365acc_md.md)] вы можете добавлять клиентов, которые используют [!INCLUDE[d365fin](includes/d365fin_long_md.md)] для управления своей организацией.</span><span class="sxs-lookup"><span data-stu-id="56ba3-109">In the current version of [!INCLUDE[d365acc](includes/d365acc_md.md)], you can add clients who use [!INCLUDE[d365fin](includes/d365fin_long_md.md)] to run their business.</span></span>  
+<span data-ttu-id="a18d3-109">В текущей версии [!INCLUDE [d365acc](includes/d365acc_md.md)] вы можете добавлять клиентов, которые используют [!INCLUDE [d365fin](includes/d365fin_long_md.md)] для управления своей организацией.</span><span class="sxs-lookup"><span data-stu-id="a18d3-109">In the current version of [!INCLUDE [d365acc](includes/d365acc_md.md)], you can add clients who use [!INCLUDE [d365fin](includes/d365fin_long_md.md)] to run their business.</span></span>  
 
-## <a name="see-also"></a><span data-ttu-id="56ba3-110">См. также</span><span class="sxs-lookup"><span data-stu-id="56ba3-110">See Also</span></span>
-[<span data-ttu-id="56ba3-111">Документация по Microsoft Dynamics 365</span><span class="sxs-lookup"><span data-stu-id="56ba3-111">Microsoft Dynamics 365 Documentation</span></span>](https://docs.microsoft.com/en-us/dynamics365/#pivot=solutions&panel=solutions_financials)  
-[<span data-ttu-id="56ba3-112">roadmap.dynamics.com</span><span class="sxs-lookup"><span data-stu-id="56ba3-112">roadmap.dynamics.com</span></span>](https://roadmap.dynamics.com/#edition=1#application=a56e2c12-2a92-e611-80dc-c4346bac0910#status=3a708a86-ae97-e611-80df-c4346baceb68)  
-[<span data-ttu-id="56ba3-113">Microsoft Dynamics 365</span><span class="sxs-lookup"><span data-stu-id="56ba3-113">Microsoft Dynamics 365</span></span>](https://go.microsoft.com/fwlink/?linkid=828707)  
+## <a name="see-also"></a><span data-ttu-id="a18d3-110">См. также</span><span class="sxs-lookup"><span data-stu-id="a18d3-110">See Also</span></span>
+[<span data-ttu-id="a18d3-111">Начало работы с Accountant Hub</span><span class="sxs-lookup"><span data-stu-id="a18d3-111">Get Started with Accountant Hub</span></span>](get-started.md)  
+[<span data-ttu-id="a18d3-112">Документация по Microsoft Dynamics 365</span><span class="sxs-lookup"><span data-stu-id="a18d3-112">Microsoft Dynamics 365 Documentation</span></span>](https://docs.microsoft.com/en-us/dynamics365/#pivot=main&panel=apps)  
 

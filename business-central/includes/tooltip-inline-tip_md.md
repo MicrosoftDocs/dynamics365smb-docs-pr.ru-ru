@@ -1,1 +1,1 @@
-<span data-ttu-id="2215a-101">Выберите поле для чтения краткого описания поля или ссылки на дополнительную информацию.</span><span class="sxs-lookup"><span data-stu-id="2215a-101">Choose a field to read a short description of the field or link to more information.</span></span>
+<span data-ttu-id="4554b-101">Наведите указатель на поле, чтобы увидеть короткое описание.</span><span class="sxs-lookup"><span data-stu-id="4554b-101">Hover over a field to read a short description.</span></span>
