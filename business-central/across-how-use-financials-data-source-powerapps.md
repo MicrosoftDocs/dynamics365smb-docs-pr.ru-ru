@@ -13,10 +13,10 @@ ms.search.keywords: Odata, Power App, SOAP
 ms.date: 06/02/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: e7dcdc0935a8793ae226dfc2f9709b5b8f487a62
-ms.openlocfilehash: 0e6310e9789e8a0f2ceaed44f1209cdcf425ef1e
+ms.sourcegitcommit: ad1b888d475c0523c5a905e804a3f89ab4531b28
+ms.openlocfilehash: 0b0329ac5cd90a0f0595a16505ab22234cc34c92
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 05/17/2018
 
 ---
 # <a name="connecting-to-your-financials-data-to-build-a-business-app-using-powerapps"></a>Подключение к данным Financials для создания бизнес-приложения с помощью PowerApps
@@ -55,7 +55,7 @@ ms.lasthandoff: 03/22/2018
 
 ## <a name="see-also"></a>См. также
 [Приступая к работе](product-get-started.md)  
-[Импорт бизнес-данных из других финансовых систем](upload-data.md)  
+[Импорт бизнес-данных из других финансовых систем](across-import-data-configuration-packages.md)  
 [Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md)  
 [Финансы](finance.md)  
 

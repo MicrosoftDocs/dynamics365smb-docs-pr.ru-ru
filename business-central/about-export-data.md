@@ -13,10 +13,10 @@ ms.search.keywords: analysis, reporting, financial report, business intelligence
 ms.date: 06/02/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: adc21c24476cc7e4ab9f19ee1b028138bd086a7a
+ms.sourcegitcommit: ad1b888d475c0523c5a905e804a3f89ab4531b28
+ms.openlocfilehash: dee56e0f56dc3878cbb6de0ba6391b52c46625e7
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 05/17/2018
 
 ---
 # <a name="exporting-your-business-data-to-excel"></a>Экспорт бизнес-данных в Excel
@@ -64,7 +64,7 @@ ms.lasthandoff: 03/22/2018
 
 ## <a name="see-also"></a>См. также
 [Отмена подписки [!INCLUDE[d365fin](includes/d365fin_md.md)]](admin-cancel.md)  
-[Импорт бизнес-данных из других финансовых систем](upload-data.md)  
+[Импорт бизнес-данных из других финансовых систем](across-import-data-configuration-packages.md)  
 [Финансы](finance.md)  
 [Общие бизнес-функции](ui-across-business-areas.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  

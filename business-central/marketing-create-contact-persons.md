@@ -1,8 +1,6 @@
 ---
 title: "Создание контактных лиц | Microsoft Docs"
 description: "Содержит обзор задач по созданию карточку контакта для лица, например для потенциального клиента или поставщика, что помогает определить отношения и наладить связь."
-services: project-madeira
-documentationcenter: 
 author: jswymer
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -10,13 +8,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: relationship, prospect
-ms.date: 06/06/2017
+ms.date: 05/09/2018
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: 3701bf4f4470b84d05ce8f7a7686a6b8d37b7025
+ms.sourcegitcommit: 75501b9402bb1c14fcfeb2fc6e61f055a2247493
+ms.openlocfilehash: 341cd12db4ca130539a2ba2838c3aa95a96cb6ab
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 05/15/2018
 
 ---
 # <a name="creating-contact-persons"></a>Создание контактных лиц
@@ -40,6 +38,7 @@ ms.lasthandoff: 03/22/2018
 
 ## <a name="see-also"></a>См. также
 [Создание контактных организаций](marketing-create-contact-companies.md)  
-[Создание контактов и управление ими]()  
+[Создание контактных лиц](marketing-create-contact-persons.md)  
+[Использование анкет профилей для классификации бизнес-контактов](marketing-create-contact-profile-questionnaire.md)  
 [Работа с Business Central](ui-work-product.md)
 

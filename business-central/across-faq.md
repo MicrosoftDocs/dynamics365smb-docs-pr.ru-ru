@@ -8,13 +8,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: FAQ, email, Office 365, subscription, trial, plan
-ms.date: 07/27/2017
+ms.date: 04/19/2018
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: e7dcdc0935a8793ae226dfc2f9709b5b8f487a62
-ms.openlocfilehash: d015f3c2e4b06a7e93b7b4e0fe678c5066afbb8c
+ms.sourcegitcommit: dc7e739bc2b8ac9e8efce3a0f52acb945352416e
+ms.openlocfilehash: 24b6001df4937df491be8a90fee806cd0f074830
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 04/19/2018
 
 ---
 # <a name="frequently-asked-questions"></a>Вопросы и ответы
@@ -45,6 +45,15 @@ ms.lasthandoff: 03/22/2018
 
 ## <a name="why-cant-i-find-that-capability-in-my-included365finincludesd365finmdmd"></a>Почему я не могу найти эту функциональную возможность в моем [!INCLUDE[d365fin](includes/d365fin_md.md)]?
 Вы недавно прочитали о новой функциональной возможности в дорожной карте или в нашем блоге? В таком случае возможно, что [!INCLUDE[d365fin](includes/d365fin_md.md)] еще не обновлен до последней версии. Если функциональная возможность опубликована как расширение в AppSource, то после объявления расширения оно появляется в AppSource с некоторой задержкой.
+
+## <a name="why-are-some-ui-elements-that-i-used-in-dynamics-nav-not-visible-in-included365finincludesd365finmdmd"></a>Почему некоторые элементы интерфейса, которые я использовал(а) в Dynamics NAV, не видны в [!INCLUDE[d365fin](includes/d365fin_md.md)]?
+В [!INCLUDE[d365fin](includes/d365fin_md.md)] система областей приложения и параметры функциональности позволяют отображать/скрывать соответствующие компоненты продукта в зависимости от приобретенного плана (Essential или Premium) и в соответствии с потребностями вашего бизнеса.
+
+Эти возможности уже используются для упрощения пользовательского интерфейса в стандартной версии [!INCLUDE[d365fin](includes/d365fin_md.md)]. Например, редко используемые поля, такие как **Факс**, были удалены, а на лентах в списках и карточках были удалены дублирующиеся действия, а наиболее часто используемые действия перенесены в более заметные места. Некоторые функциональные компоненты, такие как "Комментарии", в настоящее время полностью оптимизируются для веб-клиента, а потому недоступны в [!INCLUDE[d365fin](includes/d365fin_md.md)].
+
+Соответственно, некоторые элементы пользовательского интерфейса, которые видны в стандартной версии Dynamics NAV, не видны в [!INCLUDE[d365fin](includes/d365fin_md.md)]. В настоящее время этим элементам управления присвоен тег области приложения #Advanced. 
+
+Если вы хотите, чтобы ваше решение [!INCLUDE[d365fin](includes/d365fin_md.md)] содержало те же элементы пользовательского интерфейса, что и ваше решение Dynamics NAV, необходимо предпринять некоторые действия в среде разработки, чтобы отобразить элементы управления с тегом #Advanced посредством расширения. Дополнительные сведения см. в разделе [Расширение областей приложения](https://docs.microsoft.com/en-us/dynamics-nav/developer/devenv-extending-application-areas).
 
 ## <a name="see-also"></a>См. также
 [Приступая к работе](product-get-started.md)  

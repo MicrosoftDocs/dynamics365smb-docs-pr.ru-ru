@@ -10,13 +10,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: feature overview, functionality
-ms.date: 03/20/2018
+ms.date: 05/09/2018
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: e7dcdc0935a8793ae226dfc2f9709b5b8f487a62
-ms.openlocfilehash: fe75b81e2eae2520c6952cf1751ee4259eb3fb68
+ms.sourcegitcommit: 75501b9402bb1c14fcfeb2fc6e61f055a2247493
+ms.openlocfilehash: f35e361d083ce9fd497f76cb3b8417fef233438c
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 05/15/2018
 
 ---
 # <a name="general-business-functionality"></a>Общие бизнес-функции
@@ -35,7 +35,7 @@ ms.lasthandoff: 03/22/2018
 |Система может помогать выполнять задачи быстрее и с меньшим числом ошибок благодаря автоматическому заполнению полей или строк данными, которые в противном случае вам пришлось бы рассчитываться и вводить самостоятельно.|[Разрешение Business Central предлагать значения](ui-let-system-suggest-values.md)|
 |Запись внешних документов в Financials, включая вложенные файлы, и создание связанных документов вручную или автоматическое преобразование файлов в электронные документы.|[Входящие документы](across-income-documents.md)|
 |Настраивайте и используйте рабочие процессы, включающие задачи, выполняемые разными пользователями или системой – такие как автоматический учет. Типичные шаги рабочего процесса – запрос и выдача разрешения на создание или учет документа.|[Рабочий процесс](across-workflow.md)|
-| Настройка определений обмена данными, чтобы можно было отправлять и получать электронные документы. |[Электронный обмен данными](across-data-exchange.md) |
+| Настройка определений обмена данными, с помощью которых можно будет отправлять и получать электронные документы. |[Электронный обмен данными](across-data-exchange.md) |
 
 ## <a name="see-also"></a>См. также
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  

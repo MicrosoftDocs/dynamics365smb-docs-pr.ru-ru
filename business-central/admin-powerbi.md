@@ -8,17 +8,19 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: account schedule, analysis, reporting, financial report, business intelligence, KPI
-ms.date: 09/05/2017
+ms.date: 04/12/2018
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: e7dcdc0935a8793ae226dfc2f9709b5b8f487a62
-ms.openlocfilehash: 7b62652e34c15831b44975a7c33b088e2be873e4
+ms.sourcegitcommit: ad1b888d475c0523c5a905e804a3f89ab4531b28
+ms.openlocfilehash: c7359c5246ebbc588673409740fdfbad01685308
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 05/17/2018
 
 ---
 # <a name="enabling-your-business-data-for-power-bi"></a>Включение бизнес-данных для Power BI
 Анализ данных [!INCLUDE[d365fin](includes/d365fin_md.md)] становится проще благодаря Power BI и пакетам содержимого [!INCLUDE[d365fin](includes/d365fin_md.md)]. Power BI извлекает ваши данные и строки готовую панель мониторинга и отчеты на основе этих данных.  
+
+Вы должны иметь допустимую учетную запись в Dynamics 365 и Power BI. Кроме того, необходимо загрузить [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/), если вы хотите создавать свои собственные отчеты Power BI. Для пакетов содержимого Power BI требуются разрешения к таблицам, из которых извлекаются данные. Дополнительные сведения о требованиях см. ниже.  
 
 Майкрософт опубликовывала следующие пакеты содержимого:
 
@@ -41,85 +43,128 @@ ms.lasthandoff: 03/22/2018
 > [!NOTE]  
 >   Также можно создать собственные отчеты и панели мониторинга в Power BI на основании данных [!INCLUDE[d365fin](includes/d365fin_md.md)]. Дополнительные сведения см. в разделе [Подключение ваших бизнес-данных к Power BI](across-how-use-financials-data-source-powerbi.md).  
 
-## <a name="accessing-included365finincludesd365finmdmd-in-power-bi"></a>Доступ к [!INCLUDE[d365fin](includes/d365fin_md.md)] в Power BI
-Чтобы увидеть данные [!INCLUDE[d365fin](includes/d365fin_md.md)] в Power BI, необходимо выполнить следующее:  
+## <a name="how-to-connect"></a>Подключение
+1. Выберите **Получить данные** в нижней части левой панели навигации.  
+![Переход к разделу "Получить данные"](./media/across-how-to-connect-powerbi-d365-content-packs/powerbi-get-data.png)
 
-* Получите доступ к [!INCLUDE[d365fin](includes/d365fin_md.md)]. Дополнительные сведения см. в разделе [Business Central](http://go.microsoft.com/fwlink/?LinkID=759714)  
-* Откройте Power BI. Дополнительные сведения см. в разделе [Power BI](https://powerbi.microsoft.com).
+Можно также начать работать из Dynamics 365 Business Edition. Из ролевого центра перейдите к пункту **Выбор отчета** части ролевого центра Power BI. Выберите на ленте **Сервис** или **Моя организация**. Когда выбрано одно из этих действий, производится переход к галерее "Организация" в Power BI или к библиотеке сервисов в Power BI, которые также будут отфильтрованы для отображения только соответствующих пакетов, имеющих отношение к [!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)].
 
-На сайте Power BI также можно просмотреть дополнительные сведения о [подключении к службам с помощью пакетов содержимого для Power BI](http://go.microsoft.com/fwlink/?LinkID=760850).  
+2. В поле **Службы** выберите **Получить**. Откроется окно **AppSource** и **Приложения для приложений Power BI**.  
+![Выбор пакетов содержимого из веб-служб](./media/across-how-to-connect-powerbi-d365-content-packs/powerbi-online-services-get.png)
+3. Выберите **Приложения** на вкладке **Приложения для приложений Power BI**, выберите требуемый пакет содержимого **Microsoft Dynamics 365 Business Central** и щелкните **Получить сейчас**.  
+![Выберите Dynamics 365 Business Central и выберите "Получить сейчас"](./media/across-how-to-connect-powerbi-d365-content-packs/powerbi-dynamics365-for-financials-get-it-now.png)
+4. При появлении запроса ведите имя *вашей организации* в [!INCLUDE[d365fin_md](includes/d365fin_long_md.md)]. Это не отображаемое имя. Название организации можно найти на странице "Организации" в вашем экземпляре [!INCLUDE[d365fin_md](includes/d365fin_long_md.md)].  
+![Выберите Dynamics 365 Business Central и выберите "Получить сейчас"](./media/across-how-to-connect-powerbi-d365-content-packs/powerbi-connect-to-d365-finance-and-operations-crm.png)
+5. После подключения панель мониторинга, отчет и набор данных будут автоматически отправлены в рабочую область Power BI. По завершении плитки обновятся для отображения данных из вашей организации [!INCLUDE[d365fin_md](includes/d365fin_long_md.md)].
+![Выберите Dynamics 365 Business Central и выберите "Получить сейчас"](./media/across-how-to-connect-powerbi-d365-content-packs/powerbi-workspace-dashboard-report-dataset.png)
 
-Для получения доступа к данным [!INCLUDE[d365fin](includes/d365fin_md.md)] в Power BI на странице подключения необходимо указать следующие сведения:
+## <a name="what-now"></a>Что теперь?
 
-| Поле | Описанием |
-| --- | --- |
-| **URL-адрес потока OData** |URL-адрес OData, чтобы с помощью Power BI можно было обращаться к данным вашей организации, например https://mybusiness.financials.dynamics.com:7048/MS/ODataV4/Company('My%2Business'). |
-| **Метод проверки подлинности** |Выберите **Базовая**. |
-| **Имя пользователя** |Ваше имя так, как оно отображается в вашей учетной записи в [!INCLUDE[d365fin](includes/d365fin_md.md)], например *Джон Смит*. |
-| **Пароль** |Это ключ доступа к веб-службе для учетной записи пользователя в [!INCLUDE[d365fin](includes/d365fin_md.md)]. |
+- Попробуйте [задать вопрос в поле "Вопросы и ответы"](https://docs.microsoft.com/en-us/power-bi/service-q-and-a) вверху панели мониторинга.
+- [Измените плитки](https://docs.microsoft.com/en-us/power-bi/service-dashboard-edit-tile) на панели мониторинга.  
+- [Выберите плитку](https://docs.microsoft.com/en-us/power-bi/service-dashboard-tiles), чтобы открыть основной отчет.  
+- Хотя набор данных будет обновляться ежедневно, можно изменить график обновлений или попытаться обновить его по требованию с помощью функции **Обновить сейчас**.
 
-Иными словами, вам нужно получить из [!INCLUDE[d365fin](includes/d365fin_md.md)] 2 фрагмента информации: *URL-адрес OData* и *ключ доступа к веб-службе* для вашей учетной записи пользователя.  
+## <a name="system-requirements"></a>Требования к системе
+Чтобы импортировать данные [!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)] в Power BI, необходимо иметь разрешения на доступ к веб-службам, используемым для извлечения данных. Веб-службы, необходимые для каждого пакета содержимого:
 
-### <a name="getting-the-url"></a>Получение URL-адреса
-При добавлении [!INCLUDE[d365fin](includes/d365fin_md.md)] в Power BI вы должны указать URL-адрес, чтобы Power BI мог обращаться к данным вашей организации. На странице подключения URL-адрес называется **URL-адрес потока OData**, и он должен иметь следующий формат:
+## <a name="role-center-reports"></a>Отчеты ролевого центра
 
-         https://mybusiness.financials.dynamics.com:7048/MS/ODataV4/Company('CRONUS%20US')  
-В этом примере *mybusiness* — название вашей службы [!INCLUDE[d365fin](includes/d365fin_md.md)], а *CRONUS US* — название демонстрационной организации. Символы *%20* обозначают пробел в названии.   
-Чтобы получить URL-адрес, в [!INCLUDE[d365fin](includes/d365fin_md.md)] найдите и откройте окно **Веб-службы**. В этом окне перечисляются веб-службы, которые в настоящий момент доступны, и вы можете скопировать ссылку из поля **URL-адрес OData** для одной из веб-служб OData по умолчанию.  
+**Microsoft Dynamics 365 Business Central – CRM**
+- Возможности продаж
+- Организация для просмотра шаблона Excel
+- Метки отчетов Power BI
 
-### <a name="getting-the-user-name-and-the-web-service-access-key"></a>Получение имени пользователя и ключа доступа к веб-службе
-Для использования данных из [!INCLUDE[d365fin](includes/d365fin_md.md)] в Power BI в окне **Подключиться к Financials** необходимо указать имя пользователя и пароль. Имя пользователя — это ваше имя так, как оно отображается в учетной записи в [!INCLUDE[d365fin](includes/d365fin_md.md)], чтобы приложение Power BI могло выполнить вход в [!INCLUDE[d365fin](includes/d365fin_md.md)]. Пароль — это ключ доступа к веб-службе, который настраивается для учетной записи пользователя в [!INCLUDE[d365fin](includes/d365fin_md.md)].  
+**Microsoft Dynamics 365 Business Central – Finance**
+- PowerBIFinance
+- Организация для просмотра шаблона Excel
+- Метки отчетов Power BI
 
-Чтобы найти эти сведения, в [!INCLUDE[d365fin](includes/d365fin_md.md)] найдите окно **Пользователи**, а затем откройте карточку вашей учетной записи пользователя. На экспресс-вкладке **Общее** скопируйте содержимое поля **Имя пользователя** и на экспресс-вкладке **Доступ к веб-службе** скопируйте содержимое поля **Ключ доступа к веб-службе**. Если поле **Ключ доступа к веб-службе** не заполнено, то на ленте выберите **Изменить ключ доступа к веб-службе**, выберите поле **Бессрочный ключ**, а затем нажмите кнопку ОК. Теперь можно скопировать ключ.  
+**Microsoft Dynamics 365 Business Central – Jobs**
+- Список работ
+- Строки планирования работ
+- Строки рабочего задания
+- Метки отчетов Power BI
+- Организация для просмотра шаблона Excel
 
-## <a name="getting-data-from-included365finincludesd365finmdmd"></a>Получение данных из [!INCLUDE[d365fin](includes/d365fin_md.md)]
-На панели мониторинга [!INCLUDE[d365fin](includes/d365fin_md.md)] отображаются наиболее типичные отчеты,, которые можно использовать для отслеживания бизнеса. Данные извлекаются из вашей организации [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью веб-службы чтения данных в реальном времени. В [!INCLUDE[d365fin](includes/d365fin_md.md)] в окне **Веб-службы** перечисляются веб-службы, настроенные для вас.
+**Microsoft Dynamics 365 Business Central - Sales**
+- Панель мониторинга продажи
+- Организация для просмотра шаблона Excel
+- Метки отчетов Power BI
 
-> [!NOTE]  
->   Если вы измените имя любой из этих веб-служб, данные не будут отображаться в Power BI.  
-Если вы хотите добавить использование других данных в Power BI, необходимо найти таблицы в [!INCLUDE[d365fin](includes/d365fin_md.md)], предоставить к ним доступ в виде веб-служб, а затем добавить их в пакет содержимого. Это более сложный сценарий, и мы рекомендуем вам начать с данных, которые уже доступны в Power BI.  
+## <a name="list-page-reports"></a>Список отчетов страниц
+
+**Microsoft Dynamics 365 Business Central – Customers List**
+- Продажа товаров по клиенту
+- Список покупок товаров Power BI
+- Список продаж товаров Power BI
+- Панель мониторинга продажи
+- Список клиентов Power BI
+- ExcelTemplateViewCompany
+- Метки отчетов Power BI
+
+**Microsoft Dynamics 365 Business Central - General Ledger Entries List**
+- Список сумм ГК Power BI
+- Сумма бюджета ГК Power BI
+- ExcelTemplateViewCompany
+- Метки отчетов Power BI
+
+**Microsoft Dynamics 365 Business Central – Items List**
+- Продажа товаров по клиенту
+- Список покупок товаров Power BI
+- Список продаж товаров Power BI
+- Панель мониторинга продажи
+- ExcelTemplateViewCompany
+- Метки отчетов Power BI
+
+**Microsoft Dynamics 365 Business Central – Jobs List**
+- Список работ Power BI
+- ExcelTemplateViewCompany
+- Метки отчетов Power BI
+
+**Microsoft Dynamics 365 Business Central – Purchase Invoices List**
+- Список покупок Power BI
+- ExcelTemplateViewCompany
+- Метки отчетов Power BI
+
+**Microsoft Dynamics 365 Business Central – Sales Orders List**
+- Список продаж Power BI
+- ExcelTemplateViewCompany
+- Метки отчетов Power BI
+
+
+**Microsoft Dynamics 365 Business Central – Vendors List**
+- Список покупок товаров Power BI
+- Список продаж товаров Power BI
+- Список поставщиков Power BI
+- ExcelTemplateViewCompany
+- Метки отчетов Power BI
+
+## <a name="web-services"></a>Веб-службы
+Простой способ найти веб-службы — найти веб-службы в [!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)]. В списке проверьте, что установлен флажок "Опубликовать" для веб-служб, перечисленных выше.
 
 ## <a name="troubleshooting"></a>Устранение неполадок
-Панель мониторинга Power BI основана на опубликованных веб-службах, которые перечислены выше, и содержит данные демонстрационной организации или вашей организации, если вы импортировали данные из текущего финансового решения. Однако если что-то работает некорректно, в этом разделе предложено обходное решение для типичных проблем.  
+Панель мониторинга Power BI основана на опубликованных веб-службах, которые перечислены выше, и содержит данные демонстрационной организации или вашей организации, если вы импортировали данные из текущего финансового решения. Однако если что-то работает некорректно, в этом разделе предложено обходное решение для типичных проблем.
 
-**"Ошибка при проверке параметра. Убедитесь, что все параметры допустимы"**  
-Если после ввода URL-адреса [!INCLUDE[d365fin](includes/d365fin_md.md)] вы видите это сообщение, убедитесь, что соблюдаются следующие требования:  
+### <a name="incorrect-company-name"></a>Неверное название организации  
+Распространенной ошибкой является ввод отображаемого имени организации вместо названия организации. Чтобы найти название организации, найдите **Организации**. Затем в поле **Название** введите название организации.
 
-* URL-адрес имеет следующую структуру:
+### <a name="incorrect-user-name-and-password"></a>Неверные имя пользователя и пароль  
+Имя пользователя и пароль, используемые для подключения, аналогичны используемым для подключения к учетной записи Microsoft Office 365.  
 
-    https://mybusiness.financials.dynamics.com:7048/MS/ODataV4/Company('CRONUS%20US')  
-* Удалите весь текст после названия организации в скобках  
-* Убедитесь, что в конце URL-адреса нет символа косой черты.  
-* Убедитесь, что используется защищенное подключение (т. е. URL-адрес начинается с *https*).  
+Также для пакетов содержимого требуется наличие учетной записи Microsoft [!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)]. После ввода учетных данных будут автоматически обнаружены все арендаторы Microsoft [!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)], к которым у вас есть доступ. Если у вас нет лицензированной или пробной учетной записи Microsoft [!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)], вы получите сообщение об ошибке.
 
-**"Сбой при входе"**  
-Если при попытке войти в панель мониторинга с использованием учетных данных [!INCLUDE[d365fin](includes/d365fin_md.md)] появляется ошибка "Сбой при входе", это может быть вызвано одной из следующих причин:
-
-* У используемой учетной записи нет разрешений на чтение данных [!INCLUDE[d365fin](includes/d365fin_md.md)] для вашей учетной записи.
-
-    Проверьте учетную запись пользователя в [!INCLUDE[d365fin](includes/d365fin_md.md)] и убедитесь, что используются правильный ключ доступа к веб-службе и пароль, а затем повторите попытку.  
-* Экземпляр [!INCLUDE[d365fin](includes/d365fin_md.md)], к которому вы пытаетесь подключиться, не имеет допустимого сертификата SSL. В этом случае вы получите более подробное сообщение об ошибке ("Не удается установить доверенные отношения SSL").
-
-    > [!NOTE]  
-    >   Самозаверяющие сертификаты не поддерживаются.  
-
-**"Проблема"**  
-Если после проверки подлинности появляется сообщение об ошибке "Проблема", это чаще всего вызвано проблемой при подключении к данным из пакета содержимого.
-
-* Проверьте, что URL-адрес имеет ранее указанную структуру:
-
-    `https://mybusiness.financials.dynamics.com:7048/MS/ODataV4/Company('CRONUS%20US')`  
-* Типичная ошибка — указать URL-адрес конкретной веб-службы:
-
-    `https://mybusiness.financials.dynamics.com:7048/MS/ODataV4/Company('CRONUS%20US')/powerbifinance`
-* Либо вы могли пропустить название организации:
-
-    `https://mybusiness.financials.dynamics.com:7048/MS/ODataV4/`
+### <a name="the-key-didnt-match-any-rows-in-the-table"></a>Ключ не соответствует ни одной из строк в таблице
+Если ввести недействительное имя организации в процессе подключения, можно получить сообщение об ошибке "Ключ не соответствует ни одной из строк в таблице". Укажите правильное название организации и попробуйте подключиться снова.
 
 ## <a name="see-also"></a>См. также
+[Начало работы с Power BI](https://docs.microsoft.com/en-us/power-bi/service-get-started)  
+[Power BI — основные понятия](https://docs.microsoft.com/en-us/power-bi/service-basic-concepts)  
 [Бизнес-аналитика](bi.md)  
 [Приступая к работе](product-get-started.md)  
-[Миграция бизнес-данных из других финансовых систем](upload-data.md)  
+[Импорт бизнес-данных из других финансовых систем](across-import-data-configuration-packages.md)  
+[Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md)  
+[Импорт бизнес-данных из других финансовых систем](across-import-data-configuration-packages.md)  
 [Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] как источника данных Power BI](across-how-use-financials-data-source-powerbi.md)  
 [Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] как источника данных PowerApps](across-how-use-financials-data-source-powerapps.md)  
 [Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] в Microsoft Flow](across-how-use-financials-data-source-flow.md)   

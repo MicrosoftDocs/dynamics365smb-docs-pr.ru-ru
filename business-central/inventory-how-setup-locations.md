@@ -13,10 +13,10 @@ ms.search.keywords: warehouse, distribution center
 ms.date: 01/25/2018
 ms.author: SorenGP
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: a44fccc118d5a52877309f1bf5e635e0f76068c9
+ms.sourcegitcommit: 7c346455a9e27d7274b116754f1d594484b95d67
+ms.openlocfilehash: 45943ef97eee9d6bf24fd679e5dbbab96f5177f8
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 04/18/2018
 
 ---
 # <a name="set-up-locations"></a>Настройка складов
@@ -25,7 +25,7 @@ ms.lasthandoff: 03/22/2018
 Затем вы сможете создать строки документа для определенного склада, просмотреть доступность по складу и переместить запасы между складами. Дополнительные сведения см. в разделе [Управление запасами](inventory-manage-inventory.md).
 
 ## <a name="to-create-a-location-card"></a>Создание карточки склада
-1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Склады**, а затем выберите связанную ссылку.
+1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Склады**, а затем выберите соответствующую ссылку.
 2. Выберите действие **Создать**.
 3. В окне **Карточка склада** заполните требуемые поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 4. Повторите шаги 2 и 3 для каждого склада, на котором необходимо хранить запасы.
@@ -34,7 +34,7 @@ ms.lasthandoff: 03/22/2018
 > Многие поля в карточке склада относятся к обработке товаров во входящих и исходящих процессах склада. Дополнительные сведения см. в разделе [Настройка управления складом](warehouse-setup-warehouse.md).
 
 ## <a name="to-create-a-transfer-route"></a>Создание маршрута перемещения
-1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Маршруты перемещения**, а затем выберите связанную ссылку.
+1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Маршруты перемещения**, а затем выберите соответствующую ссылку.
 2. Либо в любом окне **Карточка склада** выберите действие **Маршруты перемещения**.
 3. Выберите действие **Создать**.
 4. В окне **Карточка склада** заполните требуемые поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
@@ -45,6 +45,6 @@ ms.lasthandoff: 03/22/2018
 [Управление запасами](inventory-manage-inventory.md)  
 [Перемещение запасов между складами](inventory-how-transfer-between-locations.md)    
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
-[Настройка взаимодействия [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-experiences.md)  
+[Изменение набора отображаемых функций](ui-experiences.md)  
 [Общие бизнес-функции](ui-across-business-areas.md)
 

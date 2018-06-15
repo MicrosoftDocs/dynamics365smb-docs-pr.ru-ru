@@ -11,10 +11,10 @@ ms.search.keywords: business intelligence, KPI, Odata, Power App, SOAP, analysis
 ms.date: 04/03/2018
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 9cad9c7e2b54506e60af7d38d42f413599a44d01
-ms.openlocfilehash: 4e25432fe5f21f29b9533c8c909e58bf24f0eb7a
+ms.sourcegitcommit: ad1b888d475c0523c5a905e804a3f89ab4531b28
+ms.openlocfilehash: c7782d6f74a56f72b40dfb6cfd59a44ab4a33ae7
 ms.contentlocale: ru-ru
-ms.lasthandoff: 04/03/2018
+ms.lasthandoff: 05/17/2018
 
 ---
 # <a name="using-included365finlongmdincludesd365finlongmdmd-as-power-bi-data-source-for-building-reports"></a>Использование [!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)] как источника данных Power BI для создания отчетов
@@ -43,7 +43,7 @@ ms.lasthandoff: 04/03/2018
 ## <a name="see-also"></a>См. также
 [Бизнес-аналитика](bi.md)  
 [Приступая к работе](product-get-started.md)  
-[Импорт бизнес-данных из других финансовых систем](upload-data.md)  
+[Импорт бизнес-данных из других финансовых систем](across-import-data-configuration-packages.md)  
 [Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md)   
 [Финансы](finance.md)  
 [Подключение Power BI к [!INCLUDE[d365fin](includes/d365fin_md.md)]](across-how-to-connect-powerbi-dynamics-365-content-packs-help.md)  

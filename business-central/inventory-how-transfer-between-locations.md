@@ -11,10 +11,10 @@ ms.search.keywords: move, warehouse
 ms.date: 01/25/2018
 ms.author: SorenGP
 ms.translationtype: HT
-ms.sourcegitcommit: e7dcdc0935a8793ae226dfc2f9709b5b8f487a62
-ms.openlocfilehash: 6f83607606d79d894cbe8f154566b9fe7a65a94c
+ms.sourcegitcommit: 7c346455a9e27d7274b116754f1d594484b95d67
+ms.openlocfilehash: 653fee8d327635f2e53a2f3c890f0b52649697f9
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 04/18/2018
 
 ---
 # <a name="transfer-inventory-between-locations"></a>Перемещение запасов между складами
@@ -30,7 +30,7 @@ ms.lasthandoff: 03/22/2018
 Для перемещения товаров, следует настроить склады и маршруты перемещения. Дополнительные сведения см. в разделе [Настройка складов](inventory-how-setup-locations.md).
 
 ## <a name="to-transfer-items-with-a-transfer-order"></a>Перемещение товаров с помощью заказа на перемещение
-1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Заказы на перемещение**, а затем выберите связанную ссылку.
+1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Заказы на перемещение**, а затем выберите соответствующую ссылку.
 2. В окне **Заказ на перемещение** заполните требуемые поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 
     > [!NOTE]  
@@ -47,19 +47,19 @@ ms.lasthandoff: 03/22/2018
 4. Выберите действие **Учет**, выберите параметр **Получить** и нажмите кнопку **ОК**.
 
 ## <a name="to-transfer-items-with-the-item-reclassification-journal"></a>Перемещение товаров с помощью журнала реклассификации товаров
-1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Журналы реклассификации товаров**, а затем выберите связанную ссылку.
+1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Журналы реклассификации товаров**, а затем выберите соответствующую ссылку.
 2. В окне **Журнал реклассификации товаров** заполните требуемые поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 3. В поле **Код склада** введите склад, на котором хранятся товары в данный момент.
 
     > [!NOTE]  
     >   Для перемещения товаров без кода склада оставьте поле **Код склада** пустым.
 4. В поле **Новый код склада** введите склад, на который требуется переместить товары.
-5. Выберите действие **Учесть**.
+5. Выберите действие **Учет**.
 
 ## <a name="see-also"></a>См. также
 [Управление запасами](inventory-manage-inventory.md)  
 [Настройка складов](inventory-how-setup-locations.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
-[Настройка взаимодействия [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-experiences.md)  
+[Изменение набора отображаемых функций](ui-experiences.md)  
 [Общие бизнес-функции](ui-across-business-areas.md)
 

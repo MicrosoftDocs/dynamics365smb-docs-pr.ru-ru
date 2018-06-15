@@ -1,8 +1,6 @@
 ---
 title: "Создание контактных лиц | Microsoft Docs"
 description: "Описывается, как создать карточку контакта для каждого нового лица или потенциального клиента, с которым у вас деловые отношения."
-services: project-madeira
-documentationcenter: 
 author: jswymer
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -10,13 +8,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: relationship, prospect
-ms.date: 06/06/2017
+ms.date: 05/09/2018
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: 5a5f1bc0157309c18f92253803b27ccc29263e84
+ms.sourcegitcommit: 75501b9402bb1c14fcfeb2fc6e61f055a2247493
+ms.openlocfilehash: 38f42e4d44dd38fe70816035711e00561fd9e777
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 05/15/2018
 
 ---
 # <a name="create-contact-persons"></a>Создание контактных лиц
@@ -26,7 +24,7 @@ ms.lasthandoff: 03/22/2018
 >   Перед созданием контакта может понадобиться проверить настройки **Наследования** в окне **Маркетинг - настройка**. Настройка наследования позволяет автоматически копировать информацию об организациях контактов, которая является общей для контактных лиц (например, адреса), из организации контакта в контактное лицо при каждом создании контактного лица для зарегистрированной контактной организации.
 
 ## <a name="to-create-a-contact-card-for-a-person"></a>Создание карточки контакта для отдельного лица
-1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Контакты**, а затем выберите связанную ссылку.
+1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Контакты**, а затем выберите соответствующую ссылку.
 2. Выберите действие **Создать**.
 3. В поле **Номер** введите номер контакта.
 
@@ -43,5 +41,6 @@ ms.lasthandoff: 03/22/2018
 [Настройка должностных обязанностей в контактах](marketing-job-responsibilities.md)  
 [Настройка организационных уровней для контактных лиц](marketing-organizational-levels.md)  
 [Синхронизация контактов с клиентами, поставщиками и банковскими счетами](marketing-synchronize-contacts-customers-vendors-bank-accounts.md)  
+[Использование анкет профилей для классификации бизнес-контактов](marketing-create-contact-profile-questionnaire.md)  
 [Работа с Business Central](ui-work-product.md)  
 
