@@ -170,5 +170,5 @@ ms.lasthandoff: 05/17/2018
 [Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] в Microsoft Flow](across-how-use-financials-data-source-flow.md)   
 
 ## [!INCLUDE[d365fin](includes/free_trial_md.md)]  
-## [!INCLUDE[d365fin](includes/training_link_md.md)]
+ 
 

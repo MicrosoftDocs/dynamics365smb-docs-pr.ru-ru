@@ -64,5 +64,5 @@ ms.lasthandoff: 03/22/2018
 [Приступая к работе](product-get-started.md)  
 
 ## [!INCLUDE[d365fin](includes/free_trial_md.md)]  
-## [!INCLUDE[d365fin](includes/training_link_md.md)]
+ 
 
