@@ -1,33 +1,10 @@
 ---
-title: "Использование Finance and Operations, Business edition без Outlook | Microsoft Docs"
-description: "Благодаря интеграции с Office 365 Finance and Operations, Business edition можно использовать в качестве рабочего почтового ящика в Outlook, однако вы также можете работать без Outlook — в браузере или на мобильном устройстве."
-documentationcenter: 
-author: edupont04
-ms.service: dynamics365-financials
-ms.topic: get-started-article
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
-ms.search.keywords: SMTP, mail, Office 365
-ms.date: 0602/2017
-ms.author: edupont
+redirect_url: /dynamics365/business-central/admin-no-outlook
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: 29304bbbac28926247dfd6a6304647770dcd8114
+ms.sourcegitcommit: 2cce334e74ebcf37d53224d1b3246b2d0f9bd0fb
+ms.openlocfilehash: bbd22732f5458f85bec95d935da5956441950070
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 07/09/2018
 
 ---
-# <a name="using-finance-and-operations-business-edition-without-outlook"></a><span data-ttu-id="87503-103">Использование Finance and Operations, Business edition без Outlook</span><span class="sxs-lookup"><span data-stu-id="87503-103">Using Finance and Operations, Business edition without Outlook</span></span>
-[!INCLUDE[d365fin](includes/d365fin_md.md)]<span data-ttu-id="87503-104"> имеет глубокую интеграцию с Office 365, и вы можете использовать [!INCLUDE[d365fin](includes/d365fin_md.md)] в качестве рабочего почтового ящика в Outlook.</span><span class="sxs-lookup"><span data-stu-id="87503-104"> has deep integration with Office 365, and you can use [!INCLUDE[d365fin](includes/d365fin_md.md)] as your business inbox in Outlook.</span></span> <span data-ttu-id="87503-105">Но если у вас нет Outlook, вы можете работать с [!INCLUDE[d365fin](includes/d365fin_md.md)] в браузере или на мобильном устройстве.</span><span class="sxs-lookup"><span data-stu-id="87503-105">But if you do not have Outlook, you can work with [!INCLUDE[d365fin](includes/d365fin_md.md)] in the browser or on your mobile device.</span></span>  
-
-## <a name="sending-email"></a><span data-ttu-id="87503-106">Отправка электронной почты</span><span class="sxs-lookup"><span data-stu-id="87503-106">Sending Email</span></span>
-<span data-ttu-id="87503-107">Вы можете отправлять документы, например счета, по электронной почты, используя рабочий адрес эл. почты.</span><span class="sxs-lookup"><span data-stu-id="87503-107">You can send documents such as invoices as email using your business email address.</span></span> <span data-ttu-id="87503-108">В ролевом центре вы можете открыть руководство по настройке, помогающее настроить электронную почту.</span><span class="sxs-lookup"><span data-stu-id="87503-108">From your Role Center, you can access an assisted setup guide that helps you set up email.</span></span> <span data-ttu-id="87503-109">Если вы не используете учетную запись электронной почты Office 365, вы должны указать технические параметры своего сервера.</span><span class="sxs-lookup"><span data-stu-id="87503-109">If you do not use an Office 365 email account, you must specify technical information about your mail server.</span></span> <span data-ttu-id="87503-110">Если у вас нет этой информации, обратитесь к сотрудникам службы ИТ-поддержки.</span><span class="sxs-lookup"><span data-stu-id="87503-110">If you do not have this information available, please contact your IT support staff.</span></span>  
-
-
-## <a name="see-also"></a><span data-ttu-id="87503-111">См. также</span><span class="sxs-lookup"><span data-stu-id="87503-111">See Also</span></span>
-<span data-ttu-id="87503-112">[Добро пожаловать в [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md)</span><span class="sxs-lookup"><span data-stu-id="87503-112">[Welcome to [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md)</span></span>  
-[<span data-ttu-id="87503-113">Использование Finance and Operations, Business edition в качестве рабочего почтового ящика в Outlook</span><span class="sxs-lookup"><span data-stu-id="87503-113">Using Finance and Operations, Business edition as your Business Inbox in Outlook</span></span>](madeira-outlook.md)  
-[<span data-ttu-id="87503-114">Получение доступа к Finance and Operations, Business edition на мобильном устройстве</span><span class="sxs-lookup"><span data-stu-id="87503-114">Getting Finance and Operations, Business edition on my Mobile Device</span></span>](install-mobile-app.md)  
-[<span data-ttu-id="87503-115">Отправка документов по электронной почте</span><span class="sxs-lookup"><span data-stu-id="87503-115">Send Documents by Email</span></span>](ui-how-send-documents-email.md)
 
