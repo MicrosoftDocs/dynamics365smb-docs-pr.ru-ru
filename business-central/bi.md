@@ -10,13 +10,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: bi, power BI, analysis, KPI
-ms.date: 06/16/2017
+ms.date: 05/31/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: ad1b888d475c0523c5a905e804a3f89ab4531b28
-ms.openlocfilehash: b7e0ad1c632b21a26be01e68178388512d6dbbea
+ms.sourcegitcommit: 2286b728a464943841b192031cfea13644441013
+ms.openlocfilehash: baaa62e11f9abfac900d5fe6abb14cec9fafdacf
 ms.contentlocale: ru-ru
-ms.lasthandoff: 05/17/2018
+ms.lasthandoff: 06/28/2018
 
 ---
 # <a name="business-intelligence"></a>Бизнес-аналитика
@@ -32,7 +32,7 @@ ms.lasthandoff: 05/17/2018
 | По | Ссылка |
 | --- | --- |
 |Просмотр фактических сумм в сравнении с суммами бюджетов для всех счетов и для нескольких периодов.|[Анализ фактических сумм в с равнении с суммами бюджета](bi-how-analyze-actual-versus-budget.md)|
-|Создание нового финансового отчета для определения финансовых выписок для отчетности и для отображения в виде диаграмм.|[Работа с финансовыми отчетами](bi-how-work-account-schedule.md)|
+|Создание нового финансового отчета для определения финансовых выписок для отчетности и для отображения в виде диаграмм.|[Подготовка финансовой отчетности с помощью финансовых отчетов и категорий счетов](bi-how-work-account-schedule.md)|
 |Проанализируйте ваши финансовые показатели путем настройки КИП на основе финансовых отчетов, которые затем следует опубликовать как веб-службы. Ключевые индикаторы производительности опубликованного финансового отчета можно просмотреть на веб-сайте или импортировать в Microsoft Excel с помощью веб-служб OData.|[Настройка и публикация веб-служб ключевых показателей эффективности, которые основаны на финансовых отчетах](bi-how-to-set-up-and-publish-kpi-web-services-based-on-account-schedules.md)|
 |Настройка представлений анализа для анализа данных с помощью измерений.|[Анализ данных по измерениям](bi-how-analyze-data-dimension.md)|
 |Создание новых аналитических отчетов для продаж, покупок и запасов, а также настройка шаблонов анализа.|[Создание аналитических отчетов](bi-how-create-analysis-views-reports.md)|
@@ -40,11 +40,11 @@ ms.lasthandoff: 05/17/2018
 
 ## <a name="see-also"></a>См. также
 [Финансы](finance.md)    
-[Использование Financials как источника данных Power BI](across-how-use-financials-data-source-powerbi.md)  
+[Использование Business Central в качестве источника данных Power BI](across-how-use-financials-data-source-powerbi.md)  
 [Закрытие финансовых периодов](year-close-years-periods.md)  
 [Импорт данных из других финансовых систем](across-import-data-configuration-packages.md)(across-import-data-configuration-packages.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 
 ## [!INCLUDE[d365fin](includes/free_trial_md.md)]  
-## [!INCLUDE[d365fin](includes/training_link_md.md)]
+ 
 

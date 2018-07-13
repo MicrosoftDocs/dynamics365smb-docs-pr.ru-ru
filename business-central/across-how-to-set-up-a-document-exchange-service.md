@@ -8,13 +8,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: 
-ms.date: 08/18/2017
+ms.date: 06/08/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: 043034d281eb4b58fab8ab4344987d5d3ca5f494
+ms.sourcegitcommit: e73c2dd0533aade4aa6225c9d2f385baaea3cfd1
+ms.openlocfilehash: 0e57f02f1689de12e75595a26c489eeda68a4b89
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 06/11/2018
 
 ---
 # <a name="set-up-a-document-exchange-service"></a>Настройка службы обмена документами
@@ -37,12 +37,8 @@ ms.lasthandoff: 03/22/2018
     |**Маркер**|Введите 3-сторонний ключ OAuth для маркера. Он предоставляется поставщиком службы обмена документами.|  
     |**Секрет маркера**|Введите секрет, защищающий маркер. Он предоставляется поставщиком службы обмена документами.|  
 
-> [!NOTE]  
->  Рекомендуется защищать данные для входа, введенные в окне **Настройка VAN**. Можно зашифровать данные на сервере, создав новые или импортировав существующие ключи шифрования, включаемые на экземпляре сервера, подключенном к базе данных. Это описано в следующей процедуре.  
-
-## <a name="to-encrypt-your-logon-information"></a>Шифрование данных для входа  
-1. В окне **Настройка VAN** выберите действие **Управление шифрованием**.  
-2. В окне **Управление шифрованием данных** включите шифрование данных. <!--For more information, see [Manage Data Encryption](../manage-data-encryption.md).-->  
+    > [!NOTE]  
+    > Ваши учетные данные автоматически шифруются.
 
 ## <a name="see-also"></a>См. также  
 [Настройка обмена данными](across-set-up-data-exchange.md)  

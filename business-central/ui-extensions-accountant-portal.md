@@ -11,10 +11,10 @@ ms. search.keywords: app, add-in, manifest, customize, accountant
 ms.date: 09/14/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: e7dcdc0935a8793ae226dfc2f9709b5b8f487a62
-ms.openlocfilehash: 0e7778f0a118280ef18c2ddb61a1c0b0ee7b2452
+ms.sourcegitcommit: e3917573a912a4e51416c4e926443c87513728fe
+ms.openlocfilehash: cb4933268be7f0a571622e6d8eccec6bd9ee2d09
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 06/01/2018
 
 ---
 # <a name="accountant-portal-for-business-central"></a>Портал бухгалтера для Business Central
@@ -34,7 +34,7 @@ ms.lasthandoff: 03/22/2018
 >  Текущая версия расширения требует, чтобы ваши клиенты использовали [!INCLUDE[d365fin](includes/d365fin_md.md)].  
 
 ## <a name="using-the-extension"></a>Использование расширения
-Это расширение через несколько месяцев будет считаться устаревшим. Рекомендуем вместо установки этого расширения зарегистрироваться в [!INCLUDE[d365acc_long](includes/d365acc_long_md.md)] на странице [Financials для бухгалтеров на Microsoft.com](https://www.microsoft.com/en-us/dynamics365/financial-insights-for-accountants).
+Это расширение через несколько месяцев будет считаться устаревшим. Рекомендуем вместо установки этого расширения зарегистрироваться в [!INCLUDE[d365acc_long](includes/d365acc_long_md.md)] на странице [Business Central для бухгалтеров на Microsoft.com](https://www.microsoft.com/en-us/dynamics365/financial-insights-for-accountants).
 
 Дополнительные сведения см. в разделе [Добро пожаловать в Dynamics 365 — Accountant Hub](/dynamics365/accountants/index).  
 

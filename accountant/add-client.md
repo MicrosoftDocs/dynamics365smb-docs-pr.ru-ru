@@ -8,13 +8,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: accountant, accounting, financial report
-ms.date: 10/23/2017
+ms.date: 05/15/2018
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 75501b9402bb1c14fcfeb2fc6e61f055a2247493
-ms.openlocfilehash: 8b8d92e114733d87b1866d66ee3111208e233ad3
+ms.sourcegitcommit: 4bc9199b879c23115082b07a81d6da5a0b46e60d
+ms.openlocfilehash: 00e0d0a131b586d3aee39b3d08064defff81814a
 ms.contentlocale: ru-ru
-ms.lasthandoff: 05/15/2018
+ms.lasthandoff: 05/31/2018
 
 ---
 # <a name="add-clients-to-your-dashboard-in-include-d365acclongincludesd365acclongmdmd"></a>Добавление клиентов на панель мониторинга в [!INCLUDE [d365acc_long](includes/d365acc_long_md.md)]
@@ -24,10 +24,15 @@ ms.lasthandoff: 05/15/2018
 
 ![Добавление клиента](./media/accountant-add-client/manage-client.png)
 
-Данные в карточке для каждого контакта задаются вами, и вы можете изменять их при необходимости. Однако поле **URL-адрес клиента** является критическим. С его помощью вы получаете доступ к [!INCLUDE [d365fin](includes/d365fin_md.md)] каждого клиента. Воспользуйтесь действием **Проверить URL-адрес клиента** на ленте, чтобы убедиться, что вы указали правильную ссылку. URL-адрес, который вы должны ввести, указывает на [!INCLUDE [d365fin](includes/d365fin_md.md)] клиента, например *<https://mybusiness.financials.dynamics.com>*. Этот URL-адрес затем используется при выборе пункта меню **Перейти к компании** на панели мониторинга [!INCLUDE [d365acc](includes/d365acc_md.md)].  
+Данные в карточке для каждого контакта задаются вами, и вы можете изменять их при необходимости. Однако поле **URL-адрес клиента** является критическим. С его помощью вы получаете доступ к [!INCLUDE [d365fin](includes/d365fin_md.md)] каждого клиента. Воспользуйтесь действием **Проверить URL-адрес клиента** на ленте, чтобы убедиться, что вы указали правильную ссылку. Вводимый URL-адрес должен указывать на [!INCLUDE [d365fin](includes/d365fin_md.md)] клиента и включать адрес домена. Например, если клиент указал домен MyBusiness.com, то ссылка на их [!INCLUDE [d365fin](includes/d365fin_md.md)] будет иметь вид *https://businesscentral.dynamics.com/mybusiness.com?redirectedfromsignup=1*.  
+
+> [!NOTE]
+>  До обновления от мая 2018 года указываемый URL-адрес имел другой формат и начинался с адреса компании клиента. После мая 2018 года он имеет формат ```https://businesscentral.dynamics.com/clientdomain?redirectedfromsignup=1```, где ```clientdomain``` — домен клиента.  
+
+URL-адрес клиента затем используется при выборе пункта меню **Перейти к компании** на панели мониторинга [!INCLUDE [d365acc](includes/d365acc_md.md)].  
 
 ### <a name="get-invited-to-a-clients-include-d365finlongincludesd365finlongmdmd"></a>Получение приглашения в [!INCLUDE [d365fin_long](includes/d365fin_long_md.md)] клиента
-Компания, которая использует [!INCLUDE [d365fin](includes/d365fin_md.md)], может пригласить вас [!INCLUDE [d365fin](includes/d365fin_md.md)] как внешнего бухгалтера. Чтобы получить приглашение, вы должны предоставить такой компании адрес электронной почты, который вы используете в [!INCLUDE [d365acc](includes/d365acc_md.md)], например <em>me@accountant.com</em>. После этого администратор компании-клиента может добавить вас в свою систему с помощью мастера **Пригласить внешнего бухгалтера**.  
+Компания, которая использует [!INCLUDE [d365fin](includes/d365fin_md.md)], может пригласить вас [!INCLUDE [d365fin](includes/d365fin_md.md)] как внешнего бухгалтера. Для получения приглашения необходимо предоставить адрес электронной почты для [!INCLUDE [d365acc](includes/d365acc_md.md)], например <em>me@accountant.com</em>. Администратор клиента может добавить вас в свою систему с помощью мастера **Пригласить внешнего бухгалтера**.  
 
 После этого получите от компании-клиента сообщение электронной почты со ссылками на ее [!INCLUDE [d365fin](includes/d365fin_md.md)] Первая ссылка представляет собой приглашение для получения доступа к компании. Перейдите по этой ссылке и согласитесь с действиями, в результате которых вы будете добавлены в [!INCLUDE [d365fin](includes/d365fin_md.md)] своего клиента. Вторая ссылка предназначена для добавления этого клиента на вашу панель мониторинга в [!INCLUDE [d365acc](includes/d365acc_md.md)], как описано выше.  
 

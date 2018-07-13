@@ -8,13 +8,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: preview, trial, sandbox
-ms.date: 01/05/2018
+ms.date: 06/28/2018
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: e7dcdc0935a8793ae226dfc2f9709b5b8f487a62
-ms.openlocfilehash: 3e7c5ca600a5f64b44fca419ce33cad868f15595
+ms.sourcegitcommit: 2286b728a464943841b192031cfea13644441013
+ms.openlocfilehash: 0829c825ec0635a20c040fe17cd3e7cfc667ffd7
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 06/28/2018
 
 ---
 # <a name="access-to-the-included365finlongincludesd365finlongmdmd-preview"></a>Доступ к предварительной версии [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]
@@ -43,7 +43,7 @@ ms.lasthandoff: 03/22/2018
 3.  Выберите **Создать**. Открывается вкладка, на которой можно завершить настройку песочницы.
 
     > [!Note]
-    > Если в браузере включена блокировка всплывающих окон, измените ее, чтобы разрешить URL-адреса с адреса *.financials.dynamics.com*.  
+    > Если в браузере включена блокировка всплывающих окон, измените ее, чтобы разрешить URL-адреса с адреса *.businesscentral.dynamics.com*.  
 
 4.  Когда песочница будет готова, отображается страница приветствия.  
 5.  Если требуется почитать о сценариях, которые можно попробовать в песочнице, например как разрабатывать расширения, выберите ссылку **Подробнее**. В противном случае выберите **Закрыть**, чтобы перейти в ролевой центр экземпляра "песочницы" [!INCLUDE[d365fin](includes/d365fin_md.md)].  
@@ -67,7 +67,7 @@ ms.lasthandoff: 03/22/2018
 
 [!INCLUDE[d365fin](includes/d365fin_md.md)] предоставляет средства, которые можно использовать для реализации ваших собственных надстроек или встроенных функциональных возможностей, нужных для добавления новых сквозных отраслевых функций или интеграции решений третьей стороны. Например, можно использовать интерфейс API для построения подключенного приложения для обмена данными между [!INCLUDE[d365fin](includes/d365fin_md.md)] и вашим приложением ведомости зарплаты. Подключенные приложения также могут использовать расширения для создания страниц, которые будут использоваться для настройки, конфигурации или поддержки функций, специфичных для приложения. Дополнительные сведения см. в разделе [Разработка приложений для [!INCLUDE[d365fin](includes/d365fin_md.md)]](https://aka.ms/getstartedwithapps).
 
-##<a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также
 [Приступая к работе](product-get-started.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 

@@ -1,29 +1,29 @@
 ---
 title: "Приступая к работе | Документы Майкрософт"
 description: "Узнайте о возможностях и рабочих сценариях в Business Central, решении по управлению деятельностью для небольших и средних предприятий."
-author: SusanneWindfeldPedersen
+author: edupont04
 ms.service: dynamics365-business-central
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: setup wizard
-ms.date: 03/21/2018
-ms.author: solsen
+ms.date: 06/20/2018
+ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 7c346455a9e27d7274b116754f1d594484b95d67
-ms.openlocfilehash: 7dda76b03bb4bff5bb75be38710f2c851b106823
+ms.sourcegitcommit: 2286b728a464943841b192031cfea13644441013
+ms.openlocfilehash: 655f67778ed52794df893cec8965eec990f41b3f
 ms.contentlocale: ru-ru
-ms.lasthandoff: 04/18/2018
+ms.lasthandoff: 06/28/2018
 
 ---
 # <a name="getting-started-with-included365finlongincludesd365finlongmdmd"></a>Приступая к работе с [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]
-[!INCLUDE[d365fin](includes/d365fin_md.md)] — это решение по управлению деятельностью для малых и средних предприятий, позволяющее автоматизировать и упростить бизнес процессы и лучше управлять бизнесом. Регистрация очень проста, и вы можете перенести существующие бизнес-данные из своей системы.
+[!INCLUDE[d365fin](includes/d365fin_md.md)] — это решение по управлению деятельностью для малых и средних предприятий, позволяющее автоматизировать и упростить бизнес процессы и лучше управлять бизнесом. Регистрация очень проста, и вы можете перенести существующие бизнес-данные из своей системы. Чтобы разобраться с подпиской, найдите партнера [!INCLUDE[d365fin](includes/d365fin_md.md)] [здесь](https://www.microsoft.com/en-us/solution-providers/search).  
 
 После регистрации в предварительной версии [!INCLUDE[d365fin](includes/d365fin_md.md)] вы получаете доступ к демонстрационной организации. Демонстрационная организация содержит примеры данных, но вы можете создавать собственные документы продажи, например, настроить банковский счет.  
 
 ## <a name="get-to-know-included365finincludesd365finmdmd"></a>Обзор [!INCLUDE[d365fin](includes/d365fin_md.md)]
-В [!INCLUDE[d365fin](includes/d365fin_md.md)] некоторые моменты будут хорошо знакомы вам, а другие могут быть незнакомы. В демонстрационной организации визуальные руководства объясняют основные функции и помогают попробовать выполнить ежедневные задачи, такие как создание счета продажи и просмотр отчета. Если вы выйдите из руководства, например для того, чтобы изучить [!INCLUDE[d365fin](includes/d365fin_md.md)] самостоятельно, но захотите вернуться в него, перейдите обратно в ролевой центр и запустите тур "Приступая к работе".
+В [!INCLUDE[d365fin](includes/d365fin_md.md)] некоторые моменты будут хорошо знакомы вам, а другие могут быть незнакомы. В демонстрационной организации визуальные руководства объясняют основные функции и помогают попробовать выполнить ежедневные задачи, такие как создание счета продажи и просмотр отчета. Если вы выйдите из руководства, например для того, чтобы изучить [!INCLUDE[d365fin](includes/d365fin_md.md)] самостоятельно, но захотите вернуться в него, перейдите обратно в ролевой центр и запустите тур "Приступая к работе". Если вам нужна дополнительная помощь, найдите партнера [!INCLUDE[d365fin](includes/d365fin_md.md)] [здесь](https://www.microsoft.com/en-us/solution-providers/search).  
 
 > [!TIP]  
 > Можно вернуться назад в ролевой центр, выбрав название организации в левом верхнем углу.
@@ -71,8 +71,10 @@ ms.lasthandoff: 04/18/2018
 
 Чтобы создать организацию для ознакомления с компонентами приложения, перейдите в меню **Мои настройки** в правом верхнем углу и измените организацию на **Моя организация**. Выйдите из [!INCLUDE[d365fin](includes/d365fin_md.md)], а затем снова войдите, чтобы применить изменение. Руководство по сопровождаемой настройке поможет вам предоставить базовую информацию о организации. После этого изучите ролевой центр и найдите действие **Сопровождаемая настройка**.  
 
+Либо найдите партнера [!INCLUDE[d365fin](includes/d365fin_md.md)] [здесь](https://www.microsoft.com/en-us/solution-providers/search).
+
 ## <a name="ready-to-subscribe"></a>Готовы подписаться?
-При каждом выполнении входа во время пробного периода отображается уведомление вверху в синем поле с указанием оставшегося времени. Если вы решите приобрести подписку, перейдите по ссылке в уведомлении, чтобы связаться с Майкрософт. Можно также связаться с [группой [!INCLUDE[d365fin](includes/d365fin_md.md)] Sales](https://go.microsoft.com/fwlink/?linkid=828707).  
+При каждом выполнении входа во время пробного периода отображается уведомление вверху в синем поле с указанием оставшегося времени. Если вы решили оформить подписку, найдите партнера [!INCLUDE[d365fin](includes/d365fin_md.md)] [здесь](https://www.microsoft.com/en-us/solution-providers/search). Можно также связаться с [группой [!INCLUDE[d365fin](includes/d365fin_md.md)] Sales](https://go.microsoft.com/fwlink/?linkid=828707).  
 
 ## <a name="other-dynamics-365-apps"></a>Другие приложения Dynamics 365
 Перейдите к содержимому о других приложениях Dynamics 365 , выбрав ссылку [Dynamics 365](https://docs.microsoft.com/dynamics365) на синем баннере вверху этой страницы. Дополнительные сведения можно также получить на [веб-сайте Dynamics 365 Business Central](https://dynamics.microsoft.com/en-us/business-central/overview/).  
@@ -90,5 +92,5 @@ ms.lasthandoff: 04/18/2018
 [Microsoft Dynamics 365 Business Central](https://go.microsoft.com/fwlink/?linkid=828707)  
 
 ## [!INCLUDE[d365fin](includes/free_trial_md.md)]  
-## [!INCLUDE[d365fin](includes/training_link_md.md)]
+ 
 

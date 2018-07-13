@@ -1,5 +1,5 @@
 ---
-title: "Работа бухгалтера в Dynamics 365 | Microsoft Docs"
+title: "Работа бухгалтера в Dynamics 365 | Документы Майкрософт"
 description: "Узнайте об Accountant Hub для Dynamics 365."
 author: edupont04
 ms.service: dynamics365-accountant
@@ -8,13 +8,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: accountant, accounting, financial report
-ms.date: 05/09/2018
+ms.date: 05/15/2018
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 75501b9402bb1c14fcfeb2fc6e61f055a2247493
-ms.openlocfilehash: 8901216a843440e922ae4df9d7508b543a6c1322
+ms.sourcegitcommit: 4bc9199b879c23115082b07a81d6da5a0b46e60d
+ms.openlocfilehash: bb700a7c65721efb7c1322420a4929eb7adc4433
 ms.contentlocale: ru-ru
-ms.lasthandoff: 05/15/2018
+ms.lasthandoff: 05/31/2018
 
 ---
 # <a name="get-started-with-include-d365acclongincludesd365acclongmdmd"></a>Начало работы с [!INCLUDE [d365acc_long](includes/d365acc_long_md.md)]
@@ -25,7 +25,7 @@ ms.lasthandoff: 05/15/2018
 Получить доступ к [!INCLUDE [d365acc](includes/d365acc_md.md)] можно, зарегистрировавшись на странице [Dynamics 365 — Accountant Hub на Microsoft.com](https://www.microsoft.com/en-us/dynamics365/financial-insights-for-accountants).  
 
 > [!TIP]
->  При регистрации в [!INCLUDE [d365acc](includes/d365acc_md.md)] вы должны указать свой рабочий адрес электронной почты, например <em>me@accountant.com</em>. Рекомендуем использовать этот же адрес электронной почты при работе в [!INCLUDE [d365fin_long](includes/d365fin_long_md.md)] ваших клиентов, чтобы вы могли легко переключаться между клиентами. Адрес электронной почты должен представлять собой рабочий адрес, основанный на Active Directory.
+>  Когда вы регистрируетесь на [!INCLUDE [d365acc](includes/d365acc_md.md)], вы должны указать свой рабочий адрес электронной почты, например <em>me@accountant.com</em>. Рекомендуется использовать этот же адрес электронной почты при работе в клиентах [!INCLUDE [d365fin_long](includes/d365fin_long_md.md)], чтобы вы могли легко переключаться между клиентами. Адрес электронной почты должен представлять собой рабочий адрес, основанный на Active Directory.
 
 ## <a name="working-with-individual-clients"></a>Работа с индивидуальными клиентами
 На панели мониторинга отображается наиболее важная информация о каждом клиенте.  
