@@ -8,13 +8,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: FAQ, email, Office 365, subscription, trial, plan
-ms.date: 06/28/2018
+ms.date: 07/20/2018
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 2286b728a464943841b192031cfea13644441013
-ms.openlocfilehash: 9284476557de94e57680bbaa68dfd62ed6d50afc
+ms.sourcegitcommit: c6f10f8252c00bf0a599f9fa794ee36c41ce92be
+ms.openlocfilehash: 4c20da1a46879ddc342250a0e074b0f8097a64ab
 ms.contentlocale: ru-ru
-ms.lasthandoff: 06/28/2018
+ms.lasthandoff: 07/31/2018
 
 ---
 # <a name="frequently-asked-questions"></a>Вопросы и ответы
@@ -50,6 +50,10 @@ ms.lasthandoff: 06/28/2018
 Да, можете. Но в текущий момент вы должны обратиться к своему партнеру. Если вы не знаете партнера, найдите партнера по Business Central [здесь](https://www.microsoft.com/en-us/solution-providers/search).  
 
 Если у вас есть доступ к Microsoft CustomerSource, вы можете использовать сайт Imagine Academy и материалы eLearning. Дополнительные сведения о том, как получить доступ, см. на странице [Обучение Microsoft Dynamics 365](/dynamics365/get-started/training/index#dynamics-365-customers).  
+
+## <a name="is-included365finincludesd365finmdmd-available-in-my-country"></a>Приложение [!INCLUDE[d365fin](includes/d365fin_md.md)] доступно в моей стране?
+
+[!INCLUDE[d365fin](includes/d365fin_md.md)] доступно в ограниченном количестве стран, но новые страны добавляются ежеквартально за счет локализации, проводимой корпорацией Майкрософт или партнерами. Дополнительные сведения см. в разделе [Поддерживаемые страны и переводы](/dynamics365/business-central/dev-itpro/compliance/apptest-countries-and-translations).  
 
 ## <a name="why-are-some-ui-elements-that-i-used-in-dynamics-nav-not-visible-in-included365finincludesd365finmdmd"></a>Почему некоторые элементы интерфейса, которые я использовал(а) в Dynamics NAV, не видны в [!INCLUDE[d365fin](includes/d365fin_md.md)]?
 В [!INCLUDE[d365fin](includes/d365fin_md.md)] система областей приложения и параметры функциональности позволяют отображать/скрывать соответствующие компоненты продукта в зависимости от приобретенного плана (Essential или Premium) и в соответствии с потребностями вашего бизнеса.

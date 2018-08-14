@@ -9,13 +9,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: warehouse, stock
-ms.date: 09/08/2017
+ms.date: 07/23/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: f5b69dce5426f828572fa57e73c03ac35332e101
+ms.sourcegitcommit: c6f10f8252c00bf0a599f9fa794ee36c41ce92be
+ms.openlocfilehash: 745da790218ee57e4fb44b8c0bab2bce504eda3b
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 07/31/2018
 
 ---
 
@@ -47,6 +47,7 @@ ms.lasthandoff: 03/22/2018
 |Резервирование запасов или исходящих товаров для заказов на продажу, заказов на покупку, сервисных заказов, заказов на сборку или производственных заказов.|[Резервирование товаров](inventory-how-to-reserve-items.md)|
 |Название серийных номеров или номеров партий любому исходящему документу или строке журнала, например для отслеживания товаров в случае отзыва.|[Работа с серийными номерами и номерами партий](inventory-how-work-item-tracking.md)|
 |Поиск места использования любого серийного номера или номера партии в цепочке поставок, например в случае отзыва.|[Трассировка товаров, трассируемых по товарам](inventory-how-to-trace-item-tracked-items.md)|
+|Блокировка ввода товаров в строки продажи или покупки либо учета товаров в любой транзакции.|[Блокировка товаров](inventory-how-block-items.md)|
 |Управление бизнес-операциями в офисах продаж, отделах закупки или отделах планирования завода в нескольких местах.|[Работа с центрами ответственности](inventory-responsibility-centers.md)|
 
 ## <a name="see-also"></a>См. также  
@@ -57,5 +58,4 @@ ms.lasthandoff: 03/22/2018
 [Общие бизнес-функции](ui-across-business-areas.md)
 
 ## [!INCLUDE[d365fin](includes/free_trial_md.md)]  
- 
 

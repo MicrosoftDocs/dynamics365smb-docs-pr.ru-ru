@@ -10,10 +10,10 @@ ms.workload: na
 ms.date: 03/16/2018
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 046a42582dc66368fded90a4bb45add71a95d979
-ms.openlocfilehash: 62bb5421667ad53d619d0529d04cf8803890a6aa
+ms.sourcegitcommit: d7664360941313da6ea0b797ef00df2e9810ad62
+ms.openlocfilehash: de07dac85b9e24f50eb60570630feb6199089ec4
 ms.contentlocale: ru-ru
-ms.lasthandoff: 07/02/2018
+ms.lasthandoff: 07/09/2018
 
 ---
 # <a name="troubleshooting-self-service-sign-up"></a>Устранение неполадок при самостоятельной регистрации
@@ -37,26 +37,30 @@ ms.lasthandoff: 07/02/2018
 | Если ваша учетная запись Office 365 зарегистрирована в поддерживаемой стране и вы подписываетесь на [!INCLUDE[d365fin](includes/d365fin_md.md)], находясь в другой стране, во время регистрации вы получите сообщение, подобное следующему:<br /><br />**Ошибка. Мы еще не поддерживаем вашу страну или регион.**| Подписка на Office 365 вашей организации зарегистрирована в конкретной стране на портале администрирования Office 365. В процедуре регистрации для [!INCLUDE[d365fin](includes/d365fin_md.md)] используются язык и языковые стандарты, которые используются в текущем браузере; в результате можно получить сообщение об ошибке, даже если вы находитесь в поддерживаемой стране. Попросите своего ИТ-администратора проверить страну, которая указана в профиле организации на [портале администрирования Office 365](https://portal.office.com/adminportal/home#/companyprofile). Может потребоваться использовать другую учетную запись для [!INCLUDE[d365fin](includes/d365fin_md.md)].|
 
 ## <a name="regional-availability"></a>Доступность в регионах
-[!INCLUDE[d365fin](includes/d365fin_md.md)] в данный момент доступен на следующих рынках:
+Список поддерживаемых в данный момент стран см. в разделе [Международная доступность Microsoft Dynamics 365](https://docs.microsoft.com/en-us/dynamics365/get-started/availability) и на целевой странице [Локальная функциональность](about-localization.md).
 
-| Европа | Северная Америка |
+<!-- [!INCLUDE[d365fin](includes/d365fin_md.md)] is currently available in the following markets:
+
+| Europe | North America |
 | --- | --- |
-| Австралия | Канада |
-| Австрия | |
-| Бельгия | Соединенные Штаты |
-| Дания | |
-| Германия | |
-| Финляндия | |
-| Франция | |
-| Италия | |
-| Нидерланды | |
-| Новая Зеландия | |
-| Испания | |
-| Швеция | |
-| Швейцария | |
-| Соединенное Королевство | |
+| Australia | Canada |
+| Austria | |
+| Belgium | United States |
+| Denmark | |
+| Germany | |
+| Finland | |
+| France | |
+| Italy | |
+| Netherlands | |
+| New Zealand | |
+| Spain | |
+| Sweden | |
+| Switzerland | |
+| United Kingdom | |
+-->
 
 ## <a name="see-also"></a>См. также
 [Добро пожаловать в [!INCLUDE[d365fin](includes/d365fin_long_md.md)]](index.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Локальная функциональность](about-localization.md)  
 

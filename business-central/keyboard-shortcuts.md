@@ -11,10 +11,10 @@ ms.search.keywords: accessibility, shortcuts, keyboarding
 ms.date: 05/18/2018
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fceff1a6cf728608a49182a9704f187d31767fe
-ms.openlocfilehash: f0e7b7a560bacb3791524b94d721f413b3c72310
+ms.sourcegitcommit: 42deec3d94209a7963e596e7deb5584fccd6db7f
+ms.openlocfilehash: 2695ebc582ee2c161b566522bffd62f534fbc013
 ms.contentlocale: ru-ru
-ms.lasthandoff: 05/28/2018
+ms.lasthandoff: 07/19/2018
 
 ---
 
@@ -91,6 +91,22 @@ ms.lasthandoff: 05/28/2018
 |ВВОД|Выбор даты, на которой установлен фокус.|
 |Ctrl+End<br />(Cmd+End)|Закрыть календарь и удалить текущую дату.|
 |Esc|Закрыть календарь без выбора, оставив текущую дату.|
+
+
+## <a name="keyboard-shortcuts-in-the-report-preview"></a>Сочетания клавиш в предварительном просмотре отчетов
+
+|Нажмите эти клавиши<br />(в macOS)|Действие|
+|-----------------|-------|
+|Стрелка вниз|Прокрутка страницы вниз.|  
+|Клавиша со стрелкой вверх|Прокрутка страницы вверх.|
+|Клавиша со стрелкой вправо|Прокрутка направо, если увеличен масштаб страницы и она отображается не полностью. |
+|Стрелка влево|Прокрутка налево, если увеличен масштаб страницы и она отображается не полностью. |
+|CTRL+0 (ноль)<br />(Cmd+0)|Отображение страницы по размеру окна. |
+|Ctrl+Home<br />(Cmd+Home)|Переход к первой странице отчета.|
+|Ctrl+End<br />(Cmd+Home)|Переход к последней странице отчета.|
+|Page Down<br />(Fn+Стрелка вниз)|Переход к следующей странице отчета.|
+|Page Upbr />(Fn+Стрелка вверх)|Переход к предыдущей странице отчета.|
+
 
 <!--
 ## Keyboard shortcuts in list (shown as tiles)

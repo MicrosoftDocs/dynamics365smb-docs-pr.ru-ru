@@ -12,10 +12,10 @@ ms.search.keywords: workflow, Odata, Power App, SOAP
 ms.date: 05/09/2018
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: e3917573a912a4e51416c4e926443c87513728fe
-ms.openlocfilehash: 4dd987ee51cd2b5d8575d6d97ad21d00ec85739a
+ms.sourcegitcommit: c6f10f8252c00bf0a599f9fa794ee36c41ce92be
+ms.openlocfilehash: b8c9f05335c76884ba0d61451b0730d64bd1bfce
 ms.contentlocale: ru-ru
-ms.lasthandoff: 06/01/2018
+ms.lasthandoff: 07/31/2018
 
 ---
 # <a name="using-included365finincludesd365finmdmd-in-an-automated-workflow"></a>Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] в автоматическом бизнес-процессе
@@ -60,7 +60,7 @@ ms.lasthandoff: 06/01/2018
 11. Поток предложит вам выбрать организацию с вашем арендаторе [!INCLUDE[d365fin_md](includes/d365fin_md.md)]. Поскольку каждый этап в потоке не зависит от следующего, при использовании шаблона Flow [!INCLUDE[d365fin_md](includes/d365fin_md.md)] может потребоваться определить организацию несколько раз.
 
 > [!NOTE]  
-> Шаблон Flow [!INCLUDE[d365fin_md](includes/d365fin_md.md)] интегрируется с базовым механизмом обработки бизнес-процессов [!INCLUDE[d365fin_md](includes/d365fin_md.md)]. Это означает, что каждый раз, когда вы используете один из шаблонов для создания потока, создается соответствующий бизнес-процесс в [!INCLUDE[d365fin_md](includes/d365fin_md.md)]. Дополнительные сведения см. в разделе [Рабочий процесс](across-workflow.md).
+> Шаблон Flow [!INCLUDE[d365fin_md](includes/d365fin_md.md)] интегрируется с базовым механизмом обработки бизнес-процессов [!INCLUDE[d365fin_md](includes/d365fin_md.md)]. Это означает, что каждый раз, когда вы используете один из шаблонов для создания потока, создается соответствующий бизнес-процесс в [!INCLUDE[d365fin_md](includes/d365fin_md.md)]. Кроме того, пользователя, создающего поток, следует настроить как утверждающего в руководстве мастера настройки. Дополнительные сведения см. в разделе [Рабочий процесс](across-workflow.md).
 
 Дополнительные сведения см. в разделе [Документация Flow](https://docs.microsoft.com/en-us/flow/getting-started).
 
