@@ -266,6 +266,7 @@
 ## [Перемещение запасов между складами](inventory-how-transfer-between-locations.md)
 ## [Резервирование товаров](inventory-how-to-reserve-items.md)
 ## [Работа с серийными номерами и номерами партий](inventory-how-work-item-tracking.md)
+## [Блокировка товаров](inventory-how-block-items.md)
 ## [Работа с центрами ответственности](inventory-responsibility-centers.md)
 
 # [Управление проектами](projects-manage-projects.md)
@@ -390,7 +391,7 @@
 ## [Сведения о проектировании: трассировка товара](design-details-item-tracking.md)
 ## [Сведения о проектировании: строка учета финансового журнала](design-details-general-journal-post-line.md)
 
-# Локальная функциональность
+# [Локальная функциональность](about-localization.md)
 ## [Австралия](LocalFunctionality/Australia/australia-local-functionality.md)  
 ## [Австрия](LocalFunctionality/Austria/austria-local-functionality.md)
 ## [Бельгия](LocalFunctionality/Belgium/belgium-local-functionality.md)

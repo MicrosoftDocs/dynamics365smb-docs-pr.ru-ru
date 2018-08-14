@@ -1,0 +1,58 @@
+---
+title: "Локальная функциональность в Business Central | Microsoft Docs"
+description: "Узнайте о локальной доступности и соответствии нормативным документам приложения Dynamics 365 Business Central."
+author: edupont04
+ms.service: dynamics365-business-central
+ms.topic: conceptual
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: availability, localization
+ms.date: 07/06/2018
+ms.author: edupont
+ms.translationtype: HT
+ms.sourcegitcommit: d7664360941313da6ea0b797ef00df2e9810ad62
+ms.openlocfilehash: ffe2c700ed409a0881c94ddfd0157cf32141c60f
+ms.contentlocale: ru-ru
+ms.lasthandoff: 07/09/2018
+
+---
+# <a name="local-functionality-in-included365finlongincludesd365finlongmdmd"></a><span data-ttu-id="56cd7-103">Локальная функциональность в [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]</span><span class="sxs-lookup"><span data-stu-id="56cd7-103">Local Functionality in [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]</span></span>
+[!INCLUDE[d365fin](includes/d365fin_md.md)]<span data-ttu-id="56cd7-104"> предлагает стратегию объединенной локализации, включая модели под управлением Майкрософт и партнеров.</span><span class="sxs-lookup"><span data-stu-id="56cd7-104"> has a combined localization strategy inclusive of both Microsoft-led and partner-led models.</span></span> <span data-ttu-id="56cd7-105">В этом разделе представлены описания функций, применимых к странам, в которых корпорация Майкрософт обеспечивает соблюдение нормативных требований, и других локальных функций.</span><span class="sxs-lookup"><span data-stu-id="56cd7-105">In this section, you can see descriptions of functionality that applies to the countries where Microsoft provides the regulatory compliance and other local functionality.</span></span>  
+
+<span data-ttu-id="56cd7-106">Список поддерживаемых в данный момент стран см. в разделе [Международная доступность Microsoft Dynamics 365](https://docs.microsoft.com/en-us/dynamics365/get-started/availability).</span><span class="sxs-lookup"><span data-stu-id="56cd7-106">For a list of currently supported markets, see the [International availability of Microsoft Dynamics 365](https://docs.microsoft.com/en-us/dynamics365/get-started/availability) deck.</span></span>  
+
+## <a name="local-functionality"></a><span data-ttu-id="56cd7-107">Локальная функциональность</span><span class="sxs-lookup"><span data-stu-id="56cd7-107">Local Functionality</span></span>
+<span data-ttu-id="56cd7-108">Для получения сведений о локальной функциональности для каждой страны перейдите по связанной ссылке:</span><span class="sxs-lookup"><span data-stu-id="56cd7-108">To learn about the local functionality for each country, choose the related link:</span></span>
+
+| <span data-ttu-id="56cd7-109">Регион</span><span class="sxs-lookup"><span data-stu-id="56cd7-109">Region</span></span> | <span data-ttu-id="56cd7-110">Страна</span><span class="sxs-lookup"><span data-stu-id="56cd7-110">Country</span></span> | <span data-ttu-id="56cd7-111">Дополнительная информация</span><span class="sxs-lookup"><span data-stu-id="56cd7-111">More information</span></span> |
+| --- | --- |--- |
+| <span data-ttu-id="56cd7-112">Европа</span><span class="sxs-lookup"><span data-stu-id="56cd7-112">Europe</span></span> |  | |
+|        | <span data-ttu-id="56cd7-113">Австрия</span><span class="sxs-lookup"><span data-stu-id="56cd7-113">Austria</span></span> | [<span data-ttu-id="56cd7-114">Функциональность локальной версии для Австрии</span><span class="sxs-lookup"><span data-stu-id="56cd7-114">Austria Local Functionality</span></span>](localfunctionality/austria/austria-local-functionality.md) |
+|        | <span data-ttu-id="56cd7-115">Бельгия</span><span class="sxs-lookup"><span data-stu-id="56cd7-115">Belgium</span></span> |  [<span data-ttu-id="56cd7-116">Функциональность локальной версии для Австралии</span><span class="sxs-lookup"><span data-stu-id="56cd7-116">Australia Local Functionality</span></span>](localfunctionality/belgium/belgium-local-functionality.md) |
+|        | <span data-ttu-id="56cd7-117">Дания</span><span class="sxs-lookup"><span data-stu-id="56cd7-117">Denmark</span></span> | [<span data-ttu-id="56cd7-118">Локальная функциональность в Дании</span><span class="sxs-lookup"><span data-stu-id="56cd7-118">Denmark Local Functionality</span></span>](localfunctionality/denmark/denmark-local-functionality.md) |
+|        | <span data-ttu-id="56cd7-119">Германия</span><span class="sxs-lookup"><span data-stu-id="56cd7-119">Germany</span></span> | [<span data-ttu-id="56cd7-120">Функциональность локальной версии для Германии</span><span class="sxs-lookup"><span data-stu-id="56cd7-120">Germany Local Functionality</span></span>](localfunctionality/germany/germany-local-functionality.md) |
+|        | <span data-ttu-id="56cd7-121">Финляндия</span><span class="sxs-lookup"><span data-stu-id="56cd7-121">Finland</span></span> | [<span data-ttu-id="56cd7-122">Локальная функциональность для Финляндии</span><span class="sxs-lookup"><span data-stu-id="56cd7-122">Finland Local Functionality</span></span>](localfunctionality/finland/finland-local-functionality.md) |
+|        | <span data-ttu-id="56cd7-123">Франция</span><span class="sxs-lookup"><span data-stu-id="56cd7-123">France</span></span> | [<span data-ttu-id="56cd7-124">Локальная функциональность во Франции</span><span class="sxs-lookup"><span data-stu-id="56cd7-124">France Local Functionality</span></span>](localfunctionality/france/france-local-functionality.md) |
+|        | <span data-ttu-id="56cd7-125">Италия</span><span class="sxs-lookup"><span data-stu-id="56cd7-125">Italy</span></span> | [<span data-ttu-id="56cd7-126">Локальная функциональность в Италии</span><span class="sxs-lookup"><span data-stu-id="56cd7-126">Italy Local Functionality</span></span>](localfunctionality/italy/italy-local-functionality.md) |
+|        | <span data-ttu-id="56cd7-127">Нидерланды</span><span class="sxs-lookup"><span data-stu-id="56cd7-127">Netherlands</span></span> | [<span data-ttu-id="56cd7-128">Локальная функциональность Нидерландов</span><span class="sxs-lookup"><span data-stu-id="56cd7-128">Netherlands Local Functionality</span></span>](localfunctionality/netherlands/netherlands-local-functionality.md) |
+|        | <span data-ttu-id="56cd7-129">Испания</span><span class="sxs-lookup"><span data-stu-id="56cd7-129">Spain</span></span> | [<span data-ttu-id="56cd7-130">Локальная функциональность в Испании</span><span class="sxs-lookup"><span data-stu-id="56cd7-130">Spain Local Functionality</span></span>](localfunctionality/spain/spain-local-functionality.md) |
+|        | <span data-ttu-id="56cd7-131">Швеция</span><span class="sxs-lookup"><span data-stu-id="56cd7-131">Sweden</span></span> | [<span data-ttu-id="56cd7-132">Локальная функциональность в Швеции</span><span class="sxs-lookup"><span data-stu-id="56cd7-132">Sweden Local Functionality</span></span>](localfunctionality/sweden/sweden-local-functionality.md) |
+|        | <span data-ttu-id="56cd7-133">Швейцария</span><span class="sxs-lookup"><span data-stu-id="56cd7-133">Switzerland</span></span> | [<span data-ttu-id="56cd7-134">Локальная функциональность для Швейцарии</span><span class="sxs-lookup"><span data-stu-id="56cd7-134">Switzerland Local Functionality</span></span>](localfunctionality/switzerland/switzerland-local-functionality.md) |
+|        | <span data-ttu-id="56cd7-135">Соединенное Королевство</span><span class="sxs-lookup"><span data-stu-id="56cd7-135">United Kingdom</span></span> | [<span data-ttu-id="56cd7-136">Локальная функциональность в Великобритании</span><span class="sxs-lookup"><span data-stu-id="56cd7-136">United Kingdom Local Functionality</span></span>](localfunctionality/unitedkingdom/united-kingdom-local-functionality.md) |
+| <span data-ttu-id="56cd7-137">Северная Америка</span><span class="sxs-lookup"><span data-stu-id="56cd7-137">North America</span></span> |       |  |
+|               | <span data-ttu-id="56cd7-138">Канада</span><span class="sxs-lookup"><span data-stu-id="56cd7-138">Canada</span></span>|[<span data-ttu-id="56cd7-139">Локальная функциональность для Канады</span><span class="sxs-lookup"><span data-stu-id="56cd7-139">Canada Local Functionality</span></span>](localfunctionality/canada/canada-local-functionality.md) |
+|               | <span data-ttu-id="56cd7-140">Соединенные Штаты</span><span class="sxs-lookup"><span data-stu-id="56cd7-140">United States</span></span>|[<span data-ttu-id="56cd7-141">Локальная функциональность в США</span><span class="sxs-lookup"><span data-stu-id="56cd7-141">United States Local Functionality</span></span>](localfunctionality/unitedstates/united-states-local-functionality.md) |
+| <span data-ttu-id="56cd7-142">Азиатско-тихоокеанский регион</span><span class="sxs-lookup"><span data-stu-id="56cd7-142">Asia Pacific</span></span> |       |  |
+|        | <span data-ttu-id="56cd7-143">Австралия</span><span class="sxs-lookup"><span data-stu-id="56cd7-143">Australia</span></span> | [<span data-ttu-id="56cd7-144">Функциональность локальной версии для Австралии</span><span class="sxs-lookup"><span data-stu-id="56cd7-144">Australia Local Functionality</span></span>](localfunctionality/australia/australia-local-functionality.md) |
+|        | <span data-ttu-id="56cd7-145">Новая Зеландия</span><span class="sxs-lookup"><span data-stu-id="56cd7-145">New Zealand</span></span> | [<span data-ttu-id="56cd7-146">Локальная функциональность Новой Зеландии</span><span class="sxs-lookup"><span data-stu-id="56cd7-146">New Zealand Local Functionality</span></span>](localfunctionality/newzealand/new-zealand-local-functionality.md) |
+
+### <a name="other-countries"></a><span data-ttu-id="56cd7-147">Другие страны</span><span class="sxs-lookup"><span data-stu-id="56cd7-147">Other Countries</span></span>
+[!INCLUDE[d365fin](includes/d365fin_md.md)]<span data-ttu-id="56cd7-148"> также доступно в других странах в виде локализованных приложений.</span><span class="sxs-lookup"><span data-stu-id="56cd7-148"> is also available in other markets through localization apps.</span></span> <span data-ttu-id="56cd7-149">Если партнер Майкрософт разработал локализированное приложение для вашей страны, его можно найти в [AppSource](https://appsource.microsoft.com/en-us/product/dynamics-365-business-central/).</span><span class="sxs-lookup"><span data-stu-id="56cd7-149">If a Microsoft partner has developed a localization app for your country, you can find it in [AppSource](https://appsource.microsoft.com/en-us/product/dynamics-365-business-central/).</span></span>
+
+## <a name="see-also"></a><span data-ttu-id="56cd7-150">См. также</span><span class="sxs-lookup"><span data-stu-id="56cd7-150">See Also</span></span>
+[<span data-ttu-id="56cd7-151">Приступая к работе</span><span class="sxs-lookup"><span data-stu-id="56cd7-151">Getting Started</span></span>](product-get-started.md)  
+[<span data-ttu-id="56cd7-152">Соответствие</span><span class="sxs-lookup"><span data-stu-id="56cd7-152">Compliance</span></span>](compliance/compliance-overview.md)  
+[<span data-ttu-id="56cd7-153">Международная доступность Microsoft Dynamics 365</span><span class="sxs-lookup"><span data-stu-id="56cd7-153">International availability of Microsoft Dynamics 365</span></span>](https://docs.microsoft.com/en-us/dynamics365/get-started/availability)  
+[<span data-ttu-id="56cd7-154">Разработка локализационного решения</span><span class="sxs-lookup"><span data-stu-id="56cd7-154">Development of a Localization Solution</span></span>](/dynamics365/business-central/dev-itpro/developer/readiness/readiness-develop-localization)  
+
