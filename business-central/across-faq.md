@@ -7,8 +7,8 @@ ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: FAQ, email, Office 365, subscription, trial, plan
-ms.date: 07/20/2018
+ms.search.keywords: FAQ, email, Office 365, subscription, trial, plan, application area, experience
+ms.date: 08/15/2018
 ms.author: edupont
 ms.translationtype: HT
 ms.sourcegitcommit: c6f10f8252c00bf0a599f9fa794ee36c41ce92be
@@ -56,6 +56,7 @@ ms.lasthandoff: 07/31/2018
 [!INCLUDE[d365fin](includes/d365fin_md.md)] доступно в ограниченном количестве стран, но новые страны добавляются ежеквартально за счет локализации, проводимой корпорацией Майкрософт или партнерами. Дополнительные сведения см. в разделе [Поддерживаемые страны и переводы](/dynamics365/business-central/dev-itpro/compliance/apptest-countries-and-translations).  
 
 ## <a name="why-are-some-ui-elements-that-i-used-in-dynamics-nav-not-visible-in-included365finincludesd365finmdmd"></a>Почему некоторые элементы интерфейса, которые я использовал(а) в Dynamics NAV, не видны в [!INCLUDE[d365fin](includes/d365fin_md.md)]?
+
 В [!INCLUDE[d365fin](includes/d365fin_md.md)] система областей приложения и параметры функциональности позволяют отображать/скрывать соответствующие компоненты продукта в зависимости от приобретенного плана (Essential или Premium) и в соответствии с потребностями вашего бизнеса.
 
 Эти возможности уже используются для упрощения пользовательского интерфейса в стандартной версии [!INCLUDE[d365fin](includes/d365fin_md.md)]. Например, редко используемые поля, такие как **Факс**, были удалены, а на лентах в списках и карточках были удалены дублирующиеся действия, а наиболее часто используемые действия перенесены в более заметные места. Некоторые функциональные компоненты, такие как "Комментарии", в настоящее время полностью оптимизируются для веб-клиента, а потому недоступны в [!INCLUDE[d365fin](includes/d365fin_md.md)].
