@@ -1,8 +1,6 @@
 ---
 title: "Экспорт данных из Business Central в Excel | Microsoft Docs"
 description: "Вы можете экспортировать финансовые отчеты и данные бизнес-аналитики из Business Central в Excel или открыть данные в Excel."
-services: project-madeira
-documentationcenter: 
 author: edupont04
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -10,13 +8,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: analysis, reporting, financial report, business intelligence, BI, Excel
-ms.date: 06/02/2017
+ms.date: 08/13/2018
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: e3917573a912a4e51416c4e926443c87513728fe
-ms.openlocfilehash: 3bd7442582fe13809ea04d1f298b7aecbf9b45ed
+ms.sourcegitcommit: ded6baf8247bfbc34063f5595d42ebaf6bb300d8
+ms.openlocfilehash: 0407e0c34578e6487b37f4254f6a600fe99e967a
 ms.contentlocale: ru-ru
-ms.lasthandoff: 06/01/2018
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="exporting-your-business-data-to-excel"></a>Экспорт бизнес-данных в Excel
@@ -26,6 +24,9 @@ ms.lasthandoff: 06/01/2018
 Можно открыть данные в Excel из любого журнала, списка или листа. Для откройте требуемую станицу и выберите **Открыть в Excel**. Например, откройте список клиентов (поиск по слову **Клиенты**) и выберите **Открыть в Excel**. Ваш браузер выдаст запрос на открытие или сохранение созданной книги Excel.  
 
 Каждый список включает число столбцов, а экспорт в Excel будет включать все столбцы, имеющиеся в текущем представлении. Если вы хотите добавить или удалить столбцы перед открытием списка в Excel, достаточно открыть контекстное меню для любого столбца, а затем указать, какие столбцы требуется отображать. Этот список столбцов отличается для большинства списков и отражает структуру в базе данных, в которой хранятся данные. Если вы не уверены, какой тип данных содержится в определенном столбце, вы можете добавить его в представление, а затем решить, требуется ли его снова удалить.  
+
+### <a name="edit-data-in-excel"></a>Изменить данные в Excel
+Если [!INCLUDE[d365fin](includes/d365fin_md.md)] включает надстройку для Excel, можно изменять данные в Excel. Дополнительные сведения см. в разделе [Анализ финансовых выписок в Microsoft Excel](finance-analyze-excel.md).  
 
 ## <a name="exporting-data-to-other-finance-systems"></a>Экспорт данных в другие финансовые системы
 Если требуется отменить подписку на [!INCLUDE[d365fin](includes/d365fin_md.md)], вы можете экспортировать данные в Excel и перенести их в следующую финансовую систему.  
@@ -65,6 +66,7 @@ ms.lasthandoff: 06/01/2018
 ## <a name="see-also"></a>См. также
 [Отмена подписки [!INCLUDE[d365fin](includes/d365fin_md.md)]](admin-cancel.md)  
 [Импорт бизнес-данных из других финансовых систем](across-import-data-configuration-packages.md)  
+[Анализ финансовых отчетов в Microsoft Excel](finance-analyze-excel.md)  
 [Финансы](finance.md)  
 [Общие бизнес-функции](ui-across-business-areas.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  

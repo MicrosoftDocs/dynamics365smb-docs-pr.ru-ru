@@ -110,7 +110,6 @@
 ### [Подсчет, корректировка или повторная классификация запасов](inventory-how-count-adjust-reclassify.md)
 ### [Разрешение автоматической разбивки с расширенным подбором и размещением](warehouse-enable-automatic-breaking-bulk-with-directed-put-away-and-pick.md)
 ### [Включение подбора по методу FEFO](warehouse-picking-by-fefo.md)
-### [Включение автоматизированных систем сбора данных (ADCS)](warehouse-use-automated-data-capture-systems-adcs.md)
 ### [Изменение структуры складов](warehouse-how-to-restructure-warehouses.md)
 ## [Настройка производства](production-configure-production-processes.md)
 ### [Создание календарей производственного центра](production-how-to-create-work-center-calendars.md)

@@ -10,13 +10,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: 
-ms.date: 09/08/2017
+ms.date: 08/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: 4d57e87363830c521a90f00b552146dd09654f68
+ms.sourcegitcommit: d0ef9148b082b05a46283f89c3cb98bb1cd0c6d0
+ms.openlocfilehash: caa494729c4408334fadd50903f0d17df330409d
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 08/06/2018
 
 ---
 # <a name="setting-up-warehouse-management"></a>Настройка управления складом
@@ -40,8 +40,8 @@ ms.lasthandoff: 03/22/2018
 |Определить, когда и где выполняется инвентаризация товаров на складах в целях управления или финансовой отчетности.|[Подсчет, корректировка или повторная классификация запасов](inventory-how-count-adjust-reclassify.md)|
 |Разрешить работникам склада разбивать крупные единицы измерения на более мелкие для выполнения требований первичных документов.|[Разрешение автоматической разбивки с расширенным подбором и размещением](warehouse-enable-automatic-breaking-bulk-with-directed-put-away-and-pick.md)|  
 |Настроить склад на автоматическое предложение товаров при подборе в порядке истечения срока их хранения, при этом товары с ближайшим сроком предлагаются первыми.|[Включение подбора по методу FEFO](warehouse-picking-by-fefo.md)|
-|Интегрировать устройства чтения штрих-кода в решение управления складом.|[Использование автоматизированных систем сбора данных (ADCS)](warehouse-use-automated-data-capture-systems-adcs.md)|  
-|Получить подсказки по реорганизации складов, ячеек или зон для улучшения эффективности складских действий.|[Изменение структуры складов](warehouse-how-to-restructure-warehouses.md)|  
+|Получить подсказки по реорганизации складов, ячеек или зон для улучшения эффективности складских действий.|[Изменение структуры складов](warehouse-how-to-restructure-warehouses.md)|
+<!-- |Интегрировать устройства чтения штрих-кода в решение управления складом.|[Использование автоматизированных систем сбора данных (ADCS)](warehouse-use-automated-data-capture-systems-adcs.md)| -->  
 
 ## <a name="see-also"></a>См. также  
 [Управление складом](warehouse-manage-warehouse.md)  

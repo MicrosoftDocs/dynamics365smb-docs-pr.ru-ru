@@ -1,6 +1,6 @@
 ---
-title: "Сведения о проектировании — закрытие спроса и поставки | Microsoft Docs"
-description: "Если процедуры балансировки поставки выполнены, возможны три конечных ситуации."
+title: "Сведения о проектировании: примеры кода измененных шаблонов в модификациях | Microsoft Docs"
+description: "Примеры кода, показывающие измененные шаблоны при модификации и миграции кода измерения для пяти разных сценариев. В нем сравниваются примеры кода в более ранних версиях с примерами кода в Business Central."
 services: project-madeira
 documentationcenter: 
 author: SorenGP
@@ -10,41 +10,190 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: 
-ms.date: 07/01/2017
+ms.date: 08/13/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: 2be48e11d562f469ab9ef5ac156fdeb46ea51107
+ms.sourcegitcommit: ded6baf8247bfbc34063f5595d42ebaf6bb300d8
+ms.openlocfilehash: a20a40e0f2d7198ce8af71298093893f16df5299
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 08/13/2018
 
 ---
-# <a name="design-details-closing-demand-and-supply"></a>Сведения о проектировании: закрытие спроса и поставки
-Если процедуры балансировки поставки выполнены, возможны три конечных ситуации.  
+# <a name="design-details-code-examples-of-changed-patterns-in-modifications"></a>Сведения о проектировании: примеры кода измененных шаблонов в модификациях
+В этом разделе приводятся примеры кода, чтобы отобразить измененные шаблоны при модификации и миграции кода измерения для пяти разных сценариев. В нем сравниваются примеры кода в более ранних версиях с примерами кода в Business Central.
 
--   Требуемое количество и дата событий спроса удовлетворены, их планирование можно закрывать. Событие поставки все еще открыто и, возможно, сможет охватить следующий спрос, чтобы процедуру уравновешивания можно было заново начать с текущего события поставки и следующего спроса.  
+## <a name="posting-a-journal-line"></a>Учет строки журнала  
+Ключевые изменения перечислены следующим образом:  
+  
+- Таблицы измерений строки журнала удаляются.  
+  
+- Код набора измерений создается в поле **Код набора измерений**.  
+  
+**Более ранние версии**  
+  
+```  
+ResJnlLine."Qty. per Unit of Measure" :=   
+  SalesLine."Qty. per Unit of Measure";  
+  
+TempJnlLineDim.DELETEALL;  
+TempDocDim.RESET;  
+TempDocDim.SETRANGE(  
+  "Table ID",DATABASE::"Sales Line");  
+TempDocDim.SETRANGE(  
+  "Line No.",SalesLine."Line No.");  
+DimMgt.CopyDocDimToJnlLineDim(  
+  TempDocDim,TempJnlLineDim);  
+ResJnlPostLine.RunWithCheck(  
+  ResJnlLine,TempJnlLineDim);  
+  
+```  
+  
+ **[!INCLUDE[d365fin](includes/d365fin_md.md)]**  
+  
+```  
+  
+ResJnlLine."Qty. per Unit of Measure" :=   
+  SalesLine."Qty. per Unit of Measure";  
+  
+ResJnlLine."Dimension Set ID" :=   
+  SalesLine." Dimension Set ID ";  
+ResJnlPostLine.Run(ResJnlLine);  
+  
+```  
+  
+## <a name="posting-a-document"></a>Учет документа  
+ При учете документа в [!INCLUDE[d365fin](includes/d365fin_md.md)] более не требуется копировать измерения документов.  
+  
+ **Более ранние версии**  
+  
+```  
+DimMgt.MoveOneDocDimToPostedDocDim(  
+  TempDocDim,DATABASE::"Sales Line",  
+  "Document Type",  
+  "No.",  
+  SalesShptLine."Line No.",  
+  DATABASE::"Sales Shipment Line",  
+  SalesShptHeader."No.");  
+```  
+  
+ **[!INCLUDE[d365fin](includes/d365fin_md.md)]**  
+  
+```  
+SalesShptLine."Dimension Set ID”  
+  := SalesLine."Dimension Set ID”  
+```  
+  
+## <a name="editing-dimensions-from-a-document"></a>Изменение измерений из документа  
+ Можно редактировать измерения из документа. Например, можно изменить строку заказа на продажу.  
+  
+ **Более ранние версии**  
+  
+```  
+Table 37, function ShowDimensions:  
+TESTFIELD("Document No.");  
+TESTFIELD("Line No.");  
+DocDim.SETRANGE("Table ID",DATABASE::"Sales Line");  
+DocDim.SETRANGE("Document Type","Document Type");  
+DocDim.SETRANGE("Document No.","Document No.");  
+DocDim.SETRANGE("Line No.","Line No.");  
+DocDimensions.SETTABLEVIEW(DocDim);  
+DocDimensions.RUNMODAL;  
+```  
+  
+ **[!INCLUDE[d365fin](includes/d365fin_md.md)]**  
+  
+```  
+Table 37, function ShowDimensions:  
+"Dimension ID" :=   
+  DimSetEntry.EditDimensionSet(  
+    "Dimension ID");  
+```  
+  
+## <a name="showing-dimensions-from-posted-entries"></a>Отображение измерений из учтенных операций  
+ Можно отобразить измерения из учтенных операций, например строки расходной накладной.  
+  
+ **Более ранние версии**  
+  
+```  
+Table 111, function ShowDimensions:  
+TESTFIELD("No.");  
+TESTFIELD("Line No.");  
+PostedDocDim.SETRANGE(  
+  "Table ID",DATABASE::"Sales Shipment Line");  
+PostedDocDim.SETRANGE(  
+  "Document No.","Document No.");  
+PostedDocDim.SETRANGE("Line No.","Line No.");  
+PostedDocDimensions.SETTABLEVIEW(PostedDocDim);  
+PostedDocDimensions.RUNMODAL;  
+```  
+  
+ **[!INCLUDE[d365fin](includes/d365fin_md.md)]**  
+  
+```  
+Table 111, function ShowDimensions:  
+DimSetEntry.ShowDimensionSet(  
+  "Dimension ID");  
+```  
+  
+## <a name="getting-default-dimensions-for-a-document"></a>Получение измерений по умолчанию для документа  
+ Можно получить измерения по умолчанию для документа, например строку заказа на продажу.  
+  
+ **Более ранние версии**  
+  
+```  
+Table 37, function CreateDim()  
+SourceCodeSetup.GET;  
+TableID[1] := Type1;  
+No[1] := No1;  
+TableID[2] := Type2;  
+No[2] := No2;  
+TableID[3] := Type3;  
+No[3] := No3;  
+"Shortcut Dimension 1 Code" := '';  
+"Shortcut Dimension 2 Code" := '';  
+DimMgt.GetPreviousDocDefaultDim(  
+  DATABASE::"Sales Header","Document Type",  
+  "Document No.",0,  
+  DATABASE::Customer,  
+  "Shortcut Dimension 1 Code",  
+  "Shortcut Dimension 2 Code");  
+DimMgt.GetDefaultDim(  
+  TableID,No,SourceCodeSetup.Sales,  
+  "Shortcut Dimension 1 Code",  
+  "Shortcut Dimension 2 Code");  
+IF "Line No." <> 0 THEN  
+  DimMgt.UpdateDocDefaultDim(  
+    DATABASE::"Sales Line","Document Type",  
+    "Document No.","Line No.",  
+    "Shortcut Dimension 1 Code",  
+    "Shortcut Dimension 2 Code");  
+```  
+  
+ **[!INCLUDE[d365fin](includes/d365fin_md.md)]**  
+  
+```  
+Table 37, function CreateDim()  
+SourceCodeSetup.GET;  
+TableID[1] := Type1;  
+No[1] := No1;  
+TableID[2] := Type2;  
+No[2] := No2;  
+TableID[3] := Type3;  
+No[3] := No3;  
+"Shortcut Dimension 1 Code" := '';  
+"Shortcut Dimension 2 Code" := '';  
+GetSalesHeader;  
+"Dimension ID" :=  
+  DimMgt.GetDefaultDimID(  
+    TableID,No,SourceCodeSetup.Sales,  
+    "Shortcut Dimension 1 Code",  
+    "Shortcut Dimension 2 Code",  
+    SalesHeader."Dimension ID",  
+    DATABASE::"Sales Header");
 
--   Заказ на поставку невозможно изменить, чтобы покрыть весь спрос. Событие спроса все еще открыто, некоторое неохваченное количество которого может быть покрыто следующим событием предложения. Таким образом, текущее событие поставки закрыто, поэтому действие балансировки можно начинать с текущего события спроса и следующего события поставки.  
-
--   Весь спрос удовлетворен, последующего спроса нет (либо спрос отсутствовал вовсе). Если существует излишняя поставка, можно уменьшить (или отменить) ее количество, а затем закрыть поставку. Возможно, дополнительные события поставки будут существовать далее в цепочке, поэтому их также требуется отменить.  
-
- Наконец, система планирования создаст связь трассировки заказа между поставкой и спросом.  
-
-## <a name="creating-the-planning-line-suggested-action"></a>Создание строки планирования (предлагаемое действие)  
- Если предлагается любое действие ("Создание", "Изменение кол-ва", "Перепланирование", "Перепланирование и изменение кол-ва" или "Отмена") для изменения заказа на поставку, система планирования создает строку планирования в журнале планирования. Из-за планирования заказа строка планирования создается не только когда закрывается событие поставки, но и когда закрывается событие спроса, даже если событие поставки еще открыто и в него могут вноситься изменения при обработке следующего события спроса. Это означает, что при создании впервые строка планирования снова может быть изменена.  
-
- Для того чтобы уменьшить доступ к базе данных при обработке производственных заказов, можно поддерживать строку планирования на трех уровнях, пытаясь обеспечить наименее требовательный уровень обслуживания.  
-
--   Создайте только строку планирования с текущим сроком оплаты и количеством, но без маршрута и компонентов.  
-
--   Включите маршрут: создается запланированный маршрут, включая расчет с дат и времени начала и окончания. Это сложно с точки зрения доступа к базе данных. Определение конечных дат и сроков оплаты может потребовать вычисления этого значения, даже если событие поставки не было закрыто (в случае прямого планирования).  
-
--   Включите развертывание спецификации: это может подождать до самого закрытия события.  
-
- Это завершает описание процедуры загрузки спроса и предложения, определения приоритетности и уравновешивания в системе планирования. При интеграции с этой операцией планирования поставок система должна гарантировать, что требуемый уровень запасов каждого запланированного товара будет поддерживаться в соответствии с политиками дозаказа.  
+```  
 
 ## <a name="see-also"></a>См. также  
- [Сведения о проектировании: балансировка спроса и поставки](design-details-balancing-demand-and-supply.md)   
- [Сведения о проектировании: основные понятия системы планирования](design-details-central-concepts-of-the-planning-system.md)   
- [Сведения о проектировании: планирование поставок](design-details-supply-planning.md)
-
+[Сведения о проектировании: операции набора измерений](design-details-dimension-set-entries.md)   
+[Сведения о проектировании: структура таблицы](design-details-table-structure.md)   
+[Сведения о проектировании: Codeunit 408 Dimension Management](design-details-codeunit-408-dimension-management.md)
