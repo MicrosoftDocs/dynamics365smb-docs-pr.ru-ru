@@ -8,17 +8,17 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: COA, cha of acc
-ms.date: 04/16/2018
+ms.date: 10/01/2018
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: ad1b888d475c0523c5a905e804a3f89ab4531b28
-ms.openlocfilehash: 9f84af8bb4ac3be9132ab621906c463cfc9b91ff
+ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.openlocfilehash: fd943924120667256809fac0300be1c30cfeb493
 ms.contentlocale: ru-ru
-ms.lasthandoff: 05/17/2018
+ms.lasthandoff: 09/28/2018
 
 ---
 # <a name="setting-up-or-changing-the-chart-of-accounts"></a><span data-ttu-id="a5ae9-103">Настройка или изменение плана счетов</span><span class="sxs-lookup"><span data-stu-id="a5ae9-103">Setting Up or Changing the Chart of Accounts</span></span>
-<span data-ttu-id="a5ae9-104">В плане счетов отображаются счета главной книги, на которых хранятся финансовые данные.</span><span class="sxs-lookup"><span data-stu-id="a5ae9-104">The chart of accounts shows the ledger accounts that store your financial data.</span></span> [!INCLUDE[d365fin](includes/d365fin_md.md)]<span data-ttu-id="a5ae9-105"> включает стандартный план счетов, готовый к использованию в вашей организации.</span><span class="sxs-lookup"><span data-stu-id="a5ae9-105"> includes a standard chart of accounts that is ready to support your business.</span></span>
+<span data-ttu-id="a5ae9-104">В плане счетов отображаются счета главной книги, на которых хранятся финансовые данные.</span><span class="sxs-lookup"><span data-stu-id="a5ae9-104">The chart of accounts shows the ledger accounts that store your financial data.</span></span> [!INCLUDE[d365fin](includes/d365fin_md.md)] <span data-ttu-id="a5ae9-105">включает стандартный план счетов, готовый к использованию в вашей организации.</span><span class="sxs-lookup"><span data-stu-id="a5ae9-105"> includes a standard chart of accounts that is ready to support your business.</span></span>
 <span data-ttu-id="a5ae9-106">Однако вы можете изменить счета по умолчанию и добавить новые счета.</span><span class="sxs-lookup"><span data-stu-id="a5ae9-106">However, you can change the default accounts, and you can add new accounts.</span></span>  
 
 ## <a name="adding-or-changing-accounts"></a><span data-ttu-id="a5ae9-107">Добавление или изменение счетов</span><span class="sxs-lookup"><span data-stu-id="a5ae9-107">Adding or Changing Accounts</span></span>
@@ -31,7 +31,7 @@ ms.lasthandoff: 05/17/2018
 * <span data-ttu-id="a5ae9-112">В окне **Настройка Главной книги** должно быть задано поле **Разрешить удаление счета ГК до**, а на счете не должно быть операций книги в эту дату и после нее.</span><span class="sxs-lookup"><span data-stu-id="a5ae9-112">The **Allow G/L Acc. Deletion Before** field must be set in the **General Ledger Setup** window, and the account must not have ledger entries on or after that date.</span></span>  
 * <span data-ttu-id="a5ae9-113">Если в окне **Настройка Главной книги** установлен флажок **Проверка использования счета ГК**, то счет не должен использоваться ни в одной из учетных групп или настроек учета.</span><span class="sxs-lookup"><span data-stu-id="a5ae9-113">If the **Check G/L Account Usage** field in the **General Ledger Setup** window is selected, then the account must not be used in any posting groups or posting setup.</span></span>  
 
-[!INCLUDE[d365fin](includes/d365fin_md.md)]<span data-ttu-id="a5ae9-114"> не допускает удаления счета главной книги, на котором хранятся данные, необходимые для плана счетов.</span><span class="sxs-lookup"><span data-stu-id="a5ae9-114"> will prevent you from deleting a general ledger account that stores data that is needed in the chart of accounts.</span></span>  
+[!INCLUDE[d365fin](includes/d365fin_md.md)] <span data-ttu-id="a5ae9-114">не допускает удаления счета главной книги, на котором хранятся данные, необходимые для плана счетов.</span><span class="sxs-lookup"><span data-stu-id="a5ae9-114"> will prevent you from deleting a general ledger account that stores data that is needed in the chart of accounts.</span></span>  
 
 ## <a name="see-also"></a><span data-ttu-id="a5ae9-115">См. также</span><span class="sxs-lookup"><span data-stu-id="a5ae9-115">See Also</span></span>
 [<span data-ttu-id="a5ae9-116">Главная книга и план счетов</span><span class="sxs-lookup"><span data-stu-id="a5ae9-116">The General Ledger and the Chart of Accounts</span></span>](finance-general-ledger.md)  

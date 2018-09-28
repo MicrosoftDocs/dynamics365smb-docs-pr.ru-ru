@@ -8,13 +8,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: contacts, Office 365
-ms.date: 04/09/2018
+ms.date: 10/01/2018
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: fa6779ee8fb2bbb453014e32cb7f3cf8dcfa18da
-ms.openlocfilehash: b535255be4b751744ae8c459bdc3d87cd1271dee
+ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.openlocfilehash: ef58b87146d84dc46ba9ad7a96ce0e57cbfe51c6
 ms.contentlocale: ru-ru
-ms.lasthandoff: 04/11/2018
+ms.lasthandoff: 09/28/2018
 
 ---
 # <a name="synchronize-contacts-in-business-central-with-contacts-in-microsoft-outlook"></a><span data-ttu-id="26e05-103">Синхронизация контактов в Business Central с контактами в Microsoft Outlook</span><span class="sxs-lookup"><span data-stu-id="26e05-103">Synchronize Contacts in Business Central with Contacts in Microsoft Outlook</span></span>
@@ -44,7 +44,7 @@ ms.lasthandoff: 04/11/2018
 
   <span data-ttu-id="26e05-131">Это действие синхронизирует все контакты в обоих направлениях вне зависимости от даты последней синхронизации и даты последнего изменения.</span><span class="sxs-lookup"><span data-stu-id="26e05-131">This action synchronizes all contacts in both directions regardless of the last sync date and last modified date.</span></span>  
 
-<span data-ttu-id="26e05-132">В обоих случаях контакты из Outlook синхронизируются только при условии, что в них заполнены обязательные поля.</span><span class="sxs-lookup"><span data-stu-id="26e05-132">In both cases, contacts are only synchronized from Outlook if they have the required fields filled in.</span></span> <span data-ttu-id="26e05-133">Обязательными полями для синхронизации в Office 365 являются **Фамилия, имя, отчество**, **Адрес электронной почты**, причем они должны быть типа "Физическое лицо".</span><span class="sxs-lookup"><span data-stu-id="26e05-133">The required fields to synchronize to Office 365 are **Name**, **Email address** and they must be of type Person.</span></span> [!INCLUDE[d365fin](includes/d365fin_md.md)]<span data-ttu-id="26e05-134"> — это главное хранилище информации о контактах, поэтому в случае дубликатов будет сохранена контактная информация из [!INCLUDE[d365fin](includes/d365fin_md.md)].</span><span class="sxs-lookup"><span data-stu-id="26e05-134"> is the master of the contact information, so the [!INCLUDE[d365fin](includes/d365fin_md.md)] contact information will be saved in the event of duplicates.</span></span>  
+<span data-ttu-id="26e05-132">В обоих случаях контакты из Outlook синхронизируются только при условии, что в них заполнены обязательные поля.</span><span class="sxs-lookup"><span data-stu-id="26e05-132">In both cases, contacts are only synchronized from Outlook if they have the required fields filled in.</span></span> <span data-ttu-id="26e05-133">Обязательными полями для синхронизации в Office 365 являются **Фамилия, имя, отчество**, **Адрес электронной почты**, причем они должны быть типа "Физическое лицо".</span><span class="sxs-lookup"><span data-stu-id="26e05-133">The required fields to synchronize to Office 365 are **Name**, **Email address** and they must be of type Person.</span></span> [!INCLUDE[d365fin](includes/d365fin_md.md)] <span data-ttu-id="26e05-134">— это главное хранилище информации о контактах, поэтому в случае дубликатов будет сохранена контактная информация из [!INCLUDE[d365fin](includes/d365fin_md.md)].</span><span class="sxs-lookup"><span data-stu-id="26e05-134"> is the master of the contact information, so the [!INCLUDE[d365fin](includes/d365fin_md.md)] contact information will be saved in the event of duplicates.</span></span>  
 
 <span data-ttu-id="26e05-135">В Outlook контакты из [!INCLUDE[d365fin](includes/d365fin_md.md)] отображаются в папке **Другие контакты** в представлении **Люди**.</span><span class="sxs-lookup"><span data-stu-id="26e05-135">In Outlook, the contacts from [!INCLUDE[d365fin](includes/d365fin_md.md)] are shown in a folder under **Other contacts** in the **People**  view.</span></span> <span data-ttu-id="26e05-136">Если вы не знакомы с представлением "Люди" в Outlook, вы можете получить к нему доступ с помощью параметров навигации в нижнем левом углу Outlook.</span><span class="sxs-lookup"><span data-stu-id="26e05-136">If you are not familiar with the People view in Outlook, then you can get to it from the navigation options in the bottom left corner of Outlook.</span></span>  
 

@@ -10,17 +10,17 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: bi, power BI, analysis, KPI
-ms.date: 05/31/2018
+ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 2286b728a464943841b192031cfea13644441013
-ms.openlocfilehash: baaa62e11f9abfac900d5fe6abb14cec9fafdacf
+ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.openlocfilehash: 5aafee4e7d41826fe11c3dc64622db0c7e1fe088
 ms.contentlocale: ru-ru
-ms.lasthandoff: 06/28/2018
+ms.lasthandoff: 09/28/2018
 
 ---
 # <a name="business-intelligence"></a><span data-ttu-id="f25c9-103">Бизнес-аналитика</span><span class="sxs-lookup"><span data-stu-id="f25c9-103">Business Intelligence</span></span>
-<span data-ttu-id="f25c9-104">Во время делового процесса в организации обрабатываются огромные объемы данных.</span><span class="sxs-lookup"><span data-stu-id="f25c9-104">Businesses capture a tremendous amount of data through daily activity.</span></span> <span data-ttu-id="f25c9-105">Эти данные, отражающие цифры продаж, покупок, текущих расходов, оплаты труда сотрудников, сальдо и т. д., могут представлять из себя ценную информацию, или интеллектуальные ресурсы, для принятия решений.</span><span class="sxs-lookup"><span data-stu-id="f25c9-105">This data, which reflects such things as the organization's sales figures, purchases, operational expenses, employee salaries, and budgets, can become valuable information, or business intelligence, for decision makers.</span></span> [!INCLUDE[d365fin](includes/d365fin_md.md)]<span data-ttu-id="f25c9-106"> содержит множество функций, помогающих собирать, анализировать и совместно использовать данные организации.</span><span class="sxs-lookup"><span data-stu-id="f25c9-106"> contains a number of features that help you gather, analyze, and share your company data.</span></span>
+<span data-ttu-id="f25c9-104">Во время делового процесса в организации обрабатываются огромные объемы данных.</span><span class="sxs-lookup"><span data-stu-id="f25c9-104">Businesses capture a tremendous amount of data through daily activity.</span></span> <span data-ttu-id="f25c9-105">Эти данные, отражающие цифры продаж, покупок, текущих расходов, оплаты труда сотрудников, сальдо и т. д., могут представлять из себя ценную информацию, или интеллектуальные ресурсы, для принятия решений.</span><span class="sxs-lookup"><span data-stu-id="f25c9-105">This data, which reflects such things as the organization's sales figures, purchases, operational expenses, employee salaries, and budgets, can become valuable information, or business intelligence, for decision makers.</span></span> [!INCLUDE[d365fin](includes/d365fin_md.md)] <span data-ttu-id="f25c9-106">содержит множество функций, помогающих собирать, анализировать и совместно использовать данные организации.</span><span class="sxs-lookup"><span data-stu-id="f25c9-106"> contains a number of features that help you gather, analyze, and share your company data.</span></span>
 
 <span data-ttu-id="f25c9-107">Функция измерений играет важную роль в бизнес-аналитике.</span><span class="sxs-lookup"><span data-stu-id="f25c9-107">The Dimensions functionality plays an important role in business intelligence.</span></span> <span data-ttu-id="f25c9-108">Измерением называются данные, которые можно добавить в операции в качестве своего рода маркера.</span><span class="sxs-lookup"><span data-stu-id="f25c9-108">A dimension is data that you can add to an entry as a kind of marker.</span></span> <span data-ttu-id="f25c9-109">Эти данные используются для группировки операций со сходными характеристиками, такими как клиенты, регионы, товары или менеджеры, и удобного извлечениях этих групп для анализа.</span><span class="sxs-lookup"><span data-stu-id="f25c9-109">This data is used to group entries with similar characteristics, such as customers, regions, products, and salesperson, and easily retrieve these groups for analysis.</span></span> <span data-ttu-id="f25c9-110">Кроме того, измерения могут также использоваться при определении представлений анализа и создании финансовых отчетов для отчетности.</span><span class="sxs-lookup"><span data-stu-id="f25c9-110">Among other uses, you use dimensions  when defining analysis views and when creating account schedules for reporting.</span></span> <span data-ttu-id="f25c9-111">Дополнительные сведения см. в разделе [Работа с измерениями](finance-dimensions.md).</span><span class="sxs-lookup"><span data-stu-id="f25c9-111">For more information, see [Working with Dimensions](finance-dimensions.md).</span></span>
 

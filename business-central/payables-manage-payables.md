@@ -1,25 +1,24 @@
 ---
 title: "Обзор задач управления кредиторской задолженностью | Microsoft Docs"
 description: "Описываются задачи управления кредиторской задолженностью, например, оплата кредиторам или применение исходящих платежей к операциями книг для закрытия счетов или кредит-нот."
-services: project-madeira
-documentationcenter: 
-author: SorenGP
+author: edupont04
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: vendor payment, creditor, debt, balance due, AP
-ms.date: 06/28/2017
-ms.author: sgroespe
+ms.date: 10/01/2018
+ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 2286b728a464943841b192031cfea13644441013
-ms.openlocfilehash: 730596534df93b7aa16f7975b5c5b1307a7f571a
+ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.openlocfilehash: 3e8a3fcdc792a5b4be180905f9a74b611dcbde5e
 ms.contentlocale: ru-ru
-ms.lasthandoff: 06/28/2018
+ms.lasthandoff: 09/28/2018
 
 ---
 # <a name="managing-payables"></a><span data-ttu-id="edb29-103">Управление кредиторской задолженностью</span><span class="sxs-lookup"><span data-stu-id="edb29-103">Managing Payables</span></span>
+
 <span data-ttu-id="edb29-104">Большая часть управлении кредиторской задолженностью заключается в оплате поставщикам или в возмещении расходов, понесенных сотрудниками.</span><span class="sxs-lookup"><span data-stu-id="edb29-104">A big part of managing accounts payable is paying your vendors, or reimbursing your employees for expenses.</span></span> <span data-ttu-id="edb29-105">Вы можете использовать функции для добавления строк платежей в счета покупки к оплате в окне **Журнал платежей**.</span><span class="sxs-lookup"><span data-stu-id="edb29-105">You can use functions to add payments lines for purchase invoices that are due in the **Payment Journal** window.</span></span> <span data-ttu-id="edb29-106">Чтобы отправить транзакции в банк, вы можете экспортировать несколько строк журнала платежей в файл, а затем отправить файл в банк.</span><span class="sxs-lookup"><span data-stu-id="edb29-106">To send transactions to your bank, you can export multiple payment journal lines to a file, and then upload the file to your bank.</span></span> <span data-ttu-id="edb29-107">Кроме того, вы можете осуществлять оплату с помощью платежных документов, в том числе через электронные платежи.</span><span class="sxs-lookup"><span data-stu-id="edb29-107">You can also make payments by check, including transmitting checks as electronic payments.</span></span>
 
 <span data-ttu-id="edb29-108">Еще одна типичная задача — применение исходящих платежей к соответствующим операциям книги поставщиков или сотрудников, чтобы закрывать счета, кредит-ноты покупки или счета сотрудников как оплаченные.</span><span class="sxs-lookup"><span data-stu-id="edb29-108">Another typical task is to apply outgoing payments to their related vendor or employee ledger entries in order to close purchase invoices, purchase credit memos, or employee accounts as paid.</span></span> <span data-ttu-id="edb29-109">Эту задачу можно выполнять в окне **Журнал выверки платежей**, импортировав файл банковской выписки для регистрации платежей.</span><span class="sxs-lookup"><span data-stu-id="edb29-109">You can do this in the **Payment Reconciliation Journal** window by importing a bank statement file to register the payments.</span></span> <span data-ttu-id="edb29-110">Платежи применяются к открытым операциям книги поставщиков, клиентов или сотрудников путем сопоставления текста платежа и информации операции.</span><span class="sxs-lookup"><span data-stu-id="edb29-110">The payments are applied to open vendor, customer, or employee ledger entries by matching payment text and entry information.</span></span> <span data-ttu-id="edb29-111">Существуют различные способы просмотреть и изменить сопоставления перед учетом журнала.</span><span class="sxs-lookup"><span data-stu-id="edb29-111">There are various ways to review and change the matches before you post the journal.</span></span> <span data-ttu-id="edb29-112">Вы можете закрыть любую открытую операцию книги банковских счетов, связанную с примененными операциями книги, при учете журнала.</span><span class="sxs-lookup"><span data-stu-id="edb29-112">You can choose to close any open bank account ledger entries related to the applied ledger entries when you post the journal.</span></span> <span data-ttu-id="edb29-113">Банковский счет автоматически выверяется после применения всех платежей.</span><span class="sxs-lookup"><span data-stu-id="edb29-113">The bank account is automatically reconciled when all payments are applied.</span></span>
@@ -43,5 +42,4 @@ ms.lasthandoff: 06/28/2018
 <span data-ttu-id="edb29-131">[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="edb29-131">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>
 
 ## [!INCLUDE[d365fin](includes/free_trial_md.md)]  
- 
 

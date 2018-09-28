@@ -8,13 +8,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: design, items, ledger entries, posting, inventory
-ms.date: 11/23/2017
+ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: 12fa67c9e0c161d99faab376c440f6299fa8aa52
+ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.openlocfilehash: 9628976ace37f672f86e23b365e49a7ce2f49aea
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 09/28/2018
 
 ---
 # <a name="design-details-item-application"></a><span data-ttu-id="11588-103">Сведения о проектировании: применение товара</span><span class="sxs-lookup"><span data-stu-id="11588-103">Design Details: Item Application</span></span>
@@ -22,7 +22,7 @@ ms.lasthandoff: 03/22/2018
 
 <span data-ttu-id="11588-106">Кроме того, создается применение товара, чтобы связать получателя затрат и источник затрат для обеспечения перенаправления себестоимости в соответствии с методом учета себестоимости.</span><span class="sxs-lookup"><span data-stu-id="11588-106">In addition, an item application is made to link the cost recipient to its cost source to provide cost forwarding according to the costing method.</span></span> <span data-ttu-id="11588-107">Дополнительные сведения см. в разделе [Сведения о проектировании: методы учета себестоимости](design-details-costing-methods.md).</span><span class="sxs-lookup"><span data-stu-id="11588-107">For more information, see [Design Details: Costing Methods](design-details-costing-methods.md).</span></span>  
 
-[!INCLUDE[d365fin](includes/d365fin_md.md)]<span data-ttu-id="11588-108"> предлагает два вида применения товара.</span><span class="sxs-lookup"><span data-stu-id="11588-108"> makes two types of item application.</span></span>  
+[!INCLUDE[d365fin](includes/d365fin_md.md)] <span data-ttu-id="11588-108">предлагает два вида применения товара.</span><span class="sxs-lookup"><span data-stu-id="11588-108"> makes two types of item application.</span></span>  
 
 |<span data-ttu-id="11588-109">Тип применения</span><span class="sxs-lookup"><span data-stu-id="11588-109">Application type</span></span>|<span data-ttu-id="11588-110">Описанием</span><span class="sxs-lookup"><span data-stu-id="11588-110">Description</span></span>|  
 |----------------------|---------------------------------------|  
@@ -237,7 +237,7 @@ ms.lasthandoff: 03/22/2018
 * <span data-ttu-id="11588-524">Необходимо переопределить приложение, созданное автоматически при учете в соответствии с методом учета себестоимости товара.</span><span class="sxs-lookup"><span data-stu-id="11588-524">You want to overrule the application created automatically when posting, according to the item’s costing method.</span></span>  
 * <span data-ttu-id="11588-525">Необходимо вернуть товар, к которому уже вручную была применена продажа, не используя функцию **Получить учт. строки документов для сторнир.**; следовательно, необходимо отменить применение продажи.</span><span class="sxs-lookup"><span data-stu-id="11588-525">You have to return an item to which a sale has already been manually applied, without using the **Get Posted Document Lines to Reverse** function, and you must therefore undo the application.</span></span>  
 
-[!INCLUDE[d365fin](includes/d365fin_md.md)]<span data-ttu-id="11588-526"> включает функцию анализа и коррекции применений товаров.</span><span class="sxs-lookup"><span data-stu-id="11588-526"> offers a feature for analyzing and correcting item applications.</span></span> <span data-ttu-id="11588-527">Эта процедура выполняется в окне **Журнал применения**.</span><span class="sxs-lookup"><span data-stu-id="11588-527">This work is performed in the **Application Worksheet** window.</span></span>  
+[!INCLUDE[d365fin](includes/d365fin_md.md)] <span data-ttu-id="11588-526">включает функцию анализа и коррекции применений товаров.</span><span class="sxs-lookup"><span data-stu-id="11588-526"> offers a feature for analyzing and correcting item applications.</span></span> <span data-ttu-id="11588-527">Эта процедура выполняется в окне **Журнал применения**.</span><span class="sxs-lookup"><span data-stu-id="11588-527">This work is performed in the **Application Worksheet** window.</span></span>  
 
 ## <a name="see-also"></a><span data-ttu-id="11588-528">См. также</span><span class="sxs-lookup"><span data-stu-id="11588-528">See Also</span></span>  
 [<span data-ttu-id="11588-529">Сведения о проектировании: известная проблема применения товара</span><span class="sxs-lookup"><span data-stu-id="11588-529">Design Details: Known Item Application Issue</span></span>](design-details-inventory-zero-level-open-item-ledger-entries.md)  

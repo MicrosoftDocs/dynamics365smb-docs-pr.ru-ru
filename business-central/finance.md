@@ -10,17 +10,17 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: accounting, auditing, bookkeeping
-ms.date: 02/28/2018
+ms.date: 10/01/2018
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 2286b728a464943841b192031cfea13644441013
-ms.openlocfilehash: 37c1f1b29dd60024c2601f313105aadc6215c77d
+ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.openlocfilehash: 4ac052f6a757c60dbe1a87f511c37910616f6206
 ms.contentlocale: ru-ru
-ms.lasthandoff: 06/28/2018
+ms.lasthandoff: 09/28/2018
 
 ---
 # <a name="finance"></a><span data-ttu-id="9c919-103">Финансы</span><span class="sxs-lookup"><span data-stu-id="9c919-103">Finance</span></span>
-[!INCLUDE[d365fin](includes/d365fin_md.md)]<span data-ttu-id="9c919-104"> содержит стандартную конфигурацию большинства финансовых процессов, но вы можете изменить ее в соответствии со своими бизнес-потребностями.</span><span class="sxs-lookup"><span data-stu-id="9c919-104"> includes a standard configuration of most financial processes, but you can change the configuration to suit your business.</span></span> <span data-ttu-id="9c919-105">Дополнительные сведения см. в разделе [Настройка финансов](finance-setup-finance.md).</span><span class="sxs-lookup"><span data-stu-id="9c919-105">For more information, see [Setting Up Finance](finance-setup-finance.md).</span></span>
+[!INCLUDE[d365fin](includes/d365fin_md.md)] <span data-ttu-id="9c919-104">содержит стандартную конфигурацию большинства финансовых процессов, но вы можете изменить ее в соответствии со своими бизнес-потребностями.</span><span class="sxs-lookup"><span data-stu-id="9c919-104"> includes a standard configuration of most financial processes, but you can change the configuration to suit your business.</span></span> <span data-ttu-id="9c919-105">Дополнительные сведения см. в разделе [Настройка финансов](finance-setup-finance.md).</span><span class="sxs-lookup"><span data-stu-id="9c919-105">For more information, see [Setting Up Finance](finance-setup-finance.md).</span></span>
 
 <span data-ttu-id="9c919-106">Конфигурация по умолчанию включает план счетов и стандартные учетные группы, что позволяет сделать более эффективным процесс назначения учетных счетов главной книги клиентам, поставщикам и товарам.</span><span class="sxs-lookup"><span data-stu-id="9c919-106">The default configuration includes a chart of accounts and standard posting groups that make the process of assigning default general ledger posting accounts to customers, vendors, and items more efficient.</span></span>  
 

@@ -10,17 +10,17 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: 
-ms.date: 03/06/2018
+ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: fc8e8f34220643b7cd3fd357aea3807641cee911
+ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.openlocfilehash: 612eb9cfa5c6cd45bf154f4813efa3b349f44841
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 09/28/2018
 
 ---
 # <a name="create-journal-opening-balances"></a><span data-ttu-id="4eae2-104">Создание входящего сальдо журнала</span><span class="sxs-lookup"><span data-stu-id="4eae2-104">Create Journal Opening Balances</span></span>
-[!INCLUDE[d365fin](includes/d365fin_md.md)]<span data-ttu-id="4eae2-105"> включает несколько пакетных заданий, которые помогают перенести предыдущие сальдо счетов в заново настроенную организацию.</span><span class="sxs-lookup"><span data-stu-id="4eae2-105"> includes several batch jobs that are provided to help in the transfer of legacy account balances to a newly configured company.</span></span> <span data-ttu-id="4eae2-106">Можно легко перенести эти данные с помощью журнала клиентов, журнала поставщиков, журнала товаров или журнала ГК.</span><span class="sxs-lookup"><span data-stu-id="4eae2-106">You can easily transfer this data with the customer journal, the vendor journal, the item journal, or the G/L journal.</span></span>
+[!INCLUDE[d365fin](includes/d365fin_md.md)] <span data-ttu-id="4eae2-105">включает несколько пакетных заданий, которые помогают перенести предыдущие сальдо счетов в заново настроенную организацию.</span><span class="sxs-lookup"><span data-stu-id="4eae2-105"> includes several batch jobs that are provided to help in the transfer of legacy account balances to a newly configured company.</span></span> <span data-ttu-id="4eae2-106">Можно легко перенести эти данные с помощью журнала клиентов, журнала поставщиков, журнала товаров или журнала ГК.</span><span class="sxs-lookup"><span data-stu-id="4eae2-106">You can easily transfer this data with the customer journal, the vendor journal, the item journal, or the G/L journal.</span></span>
 
 <span data-ttu-id="4eae2-107">Первым этапом является создание пакета конфигурации, включающего таблицы настройки таких журналов.</span><span class="sxs-lookup"><span data-stu-id="4eae2-107">The first step is to create a configuration package that includes the setup tables for those journals.</span></span> <span data-ttu-id="4eae2-108">Следующая процедура предполагает, что этот шаг выполнен.</span><span class="sxs-lookup"><span data-stu-id="4eae2-108">The following procedure assumes that this step is completed.</span></span> <span data-ttu-id="4eae2-109">Дополнительные сведения см. в разделе [Настройка конфигурации организации](admin-set-up-company-configuration.md).</span><span class="sxs-lookup"><span data-stu-id="4eae2-109">For more information, see [Set Up Company Configuration](admin-set-up-company-configuration.md).</span></span> <span data-ttu-id="4eae2-110">Эта процедура описывает последовательные действия, в число которых включается применение пакета, предоставленного партнером.</span><span class="sxs-lookup"><span data-stu-id="4eae2-110">This procedure describes the subsequent steps, which include applying the package that is provided by a partner.</span></span>  
 
