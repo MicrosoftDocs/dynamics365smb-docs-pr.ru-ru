@@ -10,13 +10,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: design, reconciliation, general ledger, inventory
-ms.date: 07/01/2017
+ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: 813af57a2e1de62ce038990116f9cf92f741a78d
+ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.openlocfilehash: 67392093b4643b6083514859655ce3adc61d1d5b
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 09/28/2018
 
 ---
 # <a name="design-details-reconciliation-with-the-general-ledger"></a>Сведения о проектировании: выверка с главной книгой
@@ -84,16 +84,16 @@ ms.lasthandoff: 03/22/2018
     1. Промежуточные счета списываются. (Продажа)  
     2. Стоимость проданных товаров (COGS) учтена. (Продажа)  
 
-        ![Результаты учета продаж на счетах ГК](media/design_details_inventory_costing_3_gl_posting_sales.png "design_details_inventory_costing_3_GL_posting_sales")  
+        ![Результаты учета продаж на счетах ГК](media/design_details_inventory_costing_3_gl_posting_sales.png "Результаты учета продаж на счетах ГК")  
 5. Пользователь учитывает потребление 150 звеньев, то есть число звеньев, используемое для создания одной цепи. (Расход, материал)  
 
-    ![Результаты учета материалов на счетах ГК](media/design_details_inventory_costing_3_gl_posting_material.png "design_details_inventory_costing_3_GL_posting_material")  
+    ![Результаты учета материалов на счетах ГК](media/design_details_inventory_costing_3_gl_posting_material.png "Результаты учета материалов на счетах ГК")  
 6. Производственному центру потребовалось на производство цепи 60 минут. Пользователь учитывает себестоимость преобразования. (Потребление, производственная мощность)  
 
     1. Учитываются прямые затраты. (Потребление, производственная мощность)  
     2. Косвенные затраты вычисляются и разносятся. (Потребление, производственная мощность)  
 
-        ![Результаты учета мощностей на счетах ГК](media/design_details_inventory_costing_3_gl_posting_capacity.png "design_details_inventory_costing_3_GL_posting_capacity")  
+        ![Результаты учета мощностей на счетах ГК](media/design_details_inventory_costing_3_gl_posting_capacity.png "Результаты учета мощностей на счетах ГК")  
 7. Пользователь учитывает ожидаемую себестоимость одной цепи. (Выход)  
 8. Пользователь завершает производственный заказ и выполняет пакетное задание **Коррекция себест. запасов**. (Выход)  
 
@@ -102,7 +102,7 @@ ms.lasthandoff: 03/22/2018
     3. Косвенные затраты (накладные) переносятся со счета косвенных затрат на складской счет. (Выход)  
     4. В результате сумма отклонения составляет 157,00 руб. Отклонения вычисляются только для товаров со стандартной себестоимостью. (Выход)  
 
-        ![Результаты учета выхода на счетах ГК](media/design_details_inventory_costing_3_gl_posting_output.png "design_details_inventory_costing_3_GL_posting_output")  
+        ![Результаты учета выхода на счетах ГК](media/design_details_inventory_costing_3_gl_posting_output.png "Результаты учета выхода на счетах ГК")  
 
         > [!NOTE]  
         >  Для простоты отображается только один счет отклонений. Фактически существует пять различных счетов:  
@@ -115,7 +115,7 @@ ms.lasthandoff: 03/22/2018
 
 9. Пользователь переоценивает цепь со 150,00 до 140,00 рублей. (Коррекция/Переоценка/Округление/Перемещение)  
 
-    ![Результаты учета коррекции на счетах ГК](media/design_details_inventory_costing_3_gl_posting_adjustment.png "design_details_inventory_costing_3_GL_posting_adjustment")  
+    ![Результаты учета коррекции на счетах ГК](media/design_details_inventory_costing_3_gl_posting_adjustment.png "Результаты учета коррекции на счетах ГК")  
 
 Дополнительные сведения об отношениях между типами счетов и другими типами операций стоимости см. в разделе [Сведения о проектировании: счета в главной книге](design-details-accounts-in-the-general-ledger.md).  
 

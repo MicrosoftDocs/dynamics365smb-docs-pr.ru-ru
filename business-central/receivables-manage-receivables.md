@@ -10,13 +10,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: customer payment, debtor, balance due, AR
-ms.date: 04/30/2018
+ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 75501b9402bb1c14fcfeb2fc6e61f055a2247493
-ms.openlocfilehash: 01a195130a6834256b30efea8c06841c88af354d
+ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.openlocfilehash: f153bd8ff54ed00604ad5ac894b9368575050505
 ms.contentlocale: ru-ru
-ms.lasthandoff: 05/15/2018
+ms.lasthandoff: 09/28/2018
 
 ---
 # <a name="managing-receivables"></a>Управление дебиторской задолженностью
@@ -42,6 +42,8 @@ ms.lasthandoff: 05/15/2018
 | Применение платежей к открытым операциям книги клиентов на основании ручного ввода в список неоплаченных документов продажи. |[Выверка платежей клиентов вручную из списка неоплаченных документов продажи](receivables-how-reconcile-customer-payments-list-unpaid-sales-documents.md) |
 | Учет приходных кассовых ордеров или возмещений для клиентов в журнале приходных кассовых ордеров и их применение к операциям книги клиентов из журнала или из учтенных операций книги. |[Сводка клиентских платежей вручную](receivables-how-apply-sales-transactions-manually.md) |
 | Напоминание клиентам о просроченных суммах, вычисление процентов и финансовых расходов, в также управление дебиторской задолженностью. |[Сбор непогашенных остатков задолженности](receivables-collect-outstanding-balances.md) |
+| Прогноз просрочки платежей для документов продажи. | [Расширение прогноза просрочки платежа](ui-extensions-late-payment-prediction.md) |
+|Блокировка ввода клиента в документы или учета его операций, например из-за несостоятельности.|[Блокировка клиентов](receivables-how-block-customers.md)|
 |Проверьте, что вам известна себестоимость отгруженных товаров, назначив дополнительную себестоимость товаров, например за транспортировку, физическое обращение, страхование и другие расходы, которые вы несли при продаже.|[Использование товарных издержек для учета дополнительных торговых расходов](payables-how-assign-item-charges.md)|
 |Настройте отклонение, при котором система закрывает счет, даже если платеж, включая все скидки, не полностью покрывает сумму счета.|[Работа с отклонениями в оплате и отклонениями скидки по оплате](finance-payment-tolerance-and-payment-discount-tolerance.md)|
 ## <a name="see-also"></a>См. также
@@ -51,5 +53,4 @@ ms.lasthandoff: 05/15/2018
 [Общие бизнес-функции](ui-across-business-areas.md)
 
 ## [!INCLUDE[d365fin](includes/free_trial_md.md)]  
- 
 

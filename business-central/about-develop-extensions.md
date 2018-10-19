@@ -1,7 +1,6 @@
 ---
 title: "Настройка Dynamics 365 Business Central | Документы Майкрософт"
 description: "Создание, демонстрация и продвижение приложений и расширений для Business Central."
-services: project-madeira
 documentationcenter: 
 author: edupont04
 ms.service: dynamics365-business-central
@@ -10,13 +9,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: app, add-in, manifest, customize
-ms.date: 04/12/2018
+ms.date: 10/01/2018
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 2286b728a464943841b192031cfea13644441013
-ms.openlocfilehash: 69f660f8a19bd1fd9cb39a79d5be7977e68d3a47
+ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.openlocfilehash: fc926afbf0c1442bb610531b28507fbb2c1b1cf4
 ms.contentlocale: ru-ru
-ms.lasthandoff: 06/28/2018
+ms.lasthandoff: 09/28/2018
 
 ---
 # <a name="extending-included365finlongincludesd365finlongmdmd"></a>Расширение [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]
@@ -38,7 +37,7 @@ Microsoft [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)] — это ре�
 **отдельных приложений** — для вывода на рынок ваших отраслевых наработок;  
 **пакетных консультационных услуг** — для вывода на рынок готовых консалтинговых программ.
 
-Новые инструменты разработки позволяют создавать расширения для пользователей [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]. Если вы хотите сейчас ознакомиться с новыми инструментами или узнать о расширениях версии 2.0, перейдите по адресу [aka.ms/GetStartedWithApps](http://aka.ms/GetStartedWithApps).  
+Новые инструменты разработки позволяют создавать расширения для пользователей [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]. Если вы хотите сейчас ознакомиться с новыми инструментами или узнать о расширениях версии 2.0, перейдите по адресу [aka.ms/GetStartedWithApps](https://aka.ms/GetStartedWithApps).  
 
 Также вы можете найти информацию о приложениях и консультационных услугах, имеющихся в настоящее время [Microsoft AppSource](https://appsource.microsoft.com/en-us/marketplace/consulting-services?country=US&page=1).
 
@@ -71,9 +70,9 @@ Microsoft [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)] — это ре�
 ## <a name="the-ready-to-go-program"></a>Программа Ready to Go
 Назначение программы Ready to Go — помочь вам представить свои предложения, связанные с Microsoft [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)], в Microsoft AppSource. Программа включает в себя: 
 
-- [онлайн-обучение](http://aka.ms/ReadyToGoOnlineLearning);
-- [тренинги и семинары](/dynamics365/business-central/dev-itpro/developer/readiness/readiness-ready-to-go#the-ready-to-go-coaching);
-- [платформу Microsoft Collaborate](http://aka.ms/Collaborate).
+- [онлайн-обучение](https://aka.ms/ReadyToGoOnlineLearning);
+- [тренинги и семинары](/dynamics365/business-central/dev-itpro/developer/readiness/readiness-ready-to-go);
+- [платформу Microsoft Collaborate](https://aka.ms/Collaborate).
 
 Узнайте подробнее, как разработать предложение для [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)] с помощью [программы Ready to Go](/dynamics365/business-central/dev-itpro/developer/readiness/readiness-ready-to-go). Если у вас есть вопросы или пожелания относительно программы **Ready to Go**, вы можете [связаться с нами](mailto:dyn365bep@microsoft.com). 
 

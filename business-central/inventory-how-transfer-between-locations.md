@@ -8,13 +8,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: move, warehouse
-ms.date: 01/25/2018
+ms.date: 10/01/2018
 ms.author: SorenGP
 ms.translationtype: HT
-ms.sourcegitcommit: 7c346455a9e27d7274b116754f1d594484b95d67
-ms.openlocfilehash: 653fee8d327635f2e53a2f3c890f0b52649697f9
+ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.openlocfilehash: 0e21299ab25f05f465b8a33d3a12bc35d9037d0b
 ms.contentlocale: ru-ru
-ms.lasthandoff: 04/18/2018
+ms.lasthandoff: 09/28/2018
 
 ---
 # <a name="transfer-inventory-between-locations"></a>Перемещение запасов между складами
@@ -30,7 +30,7 @@ ms.lasthandoff: 04/18/2018
 Для перемещения товаров, следует настроить склады и маршруты перемещения. Дополнительные сведения см. в разделе [Настройка складов](inventory-how-setup-locations.md).
 
 ## <a name="to-transfer-items-with-a-transfer-order"></a>Перемещение товаров с помощью заказа на перемещение
-1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Заказы на перемещение**, а затем выберите соответствующую ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Заказы на перемещение**, затем выберите связанную ссылку.
 2. В окне **Заказ на перемещение** заполните требуемые поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 
     > [!NOTE]  
@@ -47,7 +47,7 @@ ms.lasthandoff: 04/18/2018
 4. Выберите действие **Учет**, выберите параметр **Получить** и нажмите кнопку **ОК**.
 
 ## <a name="to-transfer-items-with-the-item-reclassification-journal"></a>Перемещение товаров с помощью журнала реклассификации товаров
-1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Журналы реклассификации товаров**, а затем выберите соответствующую ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Журналы рекласс. товаров**, затем выберите связанную ссылку.
 2. В окне **Журнал реклассификации товаров** заполните требуемые поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 3. В поле **Код склада** введите склад, на котором хранятся товары в данный момент.
 

@@ -10,13 +10,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: 
-ms.date: 03/06/2018
+ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: cc2c7d5ecbff5d7cd0109c56e3c76ca137564d30
+ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.openlocfilehash: d52c54b18ccb7794f7556919e20b23df65c95acd
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 09/28/2018
 
 ---
 # <a name="manage-company-configuration-in-a-worksheet"></a>Управление конфигурацией организации в журнале
@@ -30,7 +30,7 @@ ms.lasthandoff: 03/22/2018
 
 ## <a name="to-open-the-configuration-worksheet"></a>Открытие журнала конфигураций  
 1.  В [!INCLUDE[d365fin](includes/d365fin_md.md)] откройте организацию, которая является базисом конфигурации, а затем откройте начальную страницу ее ролевого центра "Внедряющий мастер служб RapidStart Services".  
-2.  Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Журнал конфигураций**, затем выберите связанную ссылку.  
+2.  Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Журнал конфигураций**, затем выберите связанную ссылку.  
 
 ## <a name="to-add-a-table-to-the-worksheet"></a>Добавление таблицы в журнал  
 1.  В окне **Журнал конфигураций** выберите действие **Изменить список**.  

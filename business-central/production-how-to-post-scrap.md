@@ -10,13 +10,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: 
-ms.date: 09/06/2017
+ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: fd7acef0c0c4a132eb0975f6e145ef861703afba
+ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.openlocfilehash: 5a10b42849f283cdd77c1f754d039dbcd7515f8a
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 09/28/2018
 
 ---
 # <a name="post-scrap-manually"></a>Учет брака/отходов вручную
@@ -26,7 +26,7 @@ ms.lasthandoff: 03/22/2018
 > Добавление количества брака/отхода не увеличивает количество выхода.  
 
 ## <a name="to-post-scrap-manually"></a>Учет брака вручную  
-1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Журнал выхода продукции**, затем выберите связанную ссылку.  
+1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Журнал выхода продукции**, затем выберите связанную ссылку.  
 2. Заполните соответствующим образом поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
 3. В поле **Кол-во брака/отхода** введите количество брака/отхода.  
 4. В поле **Код брака** введите код брака/отхода.  

@@ -10,13 +10,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: 
-ms.date: 07/01/2017
+ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: 92d3e28fc9d7dc5aa9b2c5e25df6a0c965ab725d
+ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.openlocfilehash: 7362518cbade8132fb07f49e7b2e9be67c4bce29
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 09/28/2018
 
 ---
 # <a name="set-up-cost-centers"></a>Настройка центров затрат
@@ -27,7 +27,7 @@ ms.lasthandoff: 03/22/2018
 
 ## <a name="to-transfer-dimension-values-in-the-general-ledger-to-the-chart-of-cost-centers"></a>Перенос значений измерений главной книги в план мест возникновения затрат  
 1.  Установите измерение, которое должно быть измерением центра затрат, в окне **Обновить измерения учета затрат**. Передаются только значения данного измерения.  
-2.  Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Центры затрат**, затем выберите связанную ссылку.  
+2.  Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Диаграмма центров затрат**, затем выберите связанную ссылку.  
 3.  На вкладке **Действия** в группе **Функции** выберите **Получить места возникновения затрат из измерения** для возвращения значений измерений в диаграмму мест возникновения затрат. Функция перемещает значения измерений, заданные на шаге 1.  
 
     > [!NOTE]  

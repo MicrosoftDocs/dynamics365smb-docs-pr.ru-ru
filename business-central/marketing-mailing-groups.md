@@ -10,13 +10,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: marketing, campaign, promo, prospect
-ms.date: 06/06/2017
+ms.date: 10/01/2018
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: e3917573a912a4e51416c4e926443c87513728fe
-ms.openlocfilehash: b4ed119845ef460ac3235a2e56a18f99e5cc4ee3
+ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.openlocfilehash: a7b9c39b1f213bf2b09ee24e3e6172df027e042c
 ms.contentlocale: ru-ru
-ms.lasthandoff: 06/01/2018
+ms.lasthandoff: 09/28/2018
 
 ---
 # <a name="set-up-mailing-groups-for-contacts"></a>Настройка групп рассылки для контактов
@@ -27,7 +27,7 @@ ms.lasthandoff: 06/01/2018
 ## <a name="to-define-mailing-group-codes"></a>Определение кодов групп рассылки
 Код группы рассылки определяет тип или категорию группы, например ПЕРЕЕЗД для переезда офиса или ПОДАРОК для праздничных подарков. Допускается наличие нескольких кодов отраслевых групп. Для определения отраслевых групп используется окно **Группы рассылки**.
 
-1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Группы рассылки**, а затем выберите связанную ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Группы рассылки**, затем выберите связанную ссылку.
 2. Выберите действие **Создать**, введите код и описание. Длина кода не должна превышать 11 знаков (допускается сочетание букв и цифр).
 
 ## <a name="AssignMailGroupContact"></a> Назначение групп рассылки контакту

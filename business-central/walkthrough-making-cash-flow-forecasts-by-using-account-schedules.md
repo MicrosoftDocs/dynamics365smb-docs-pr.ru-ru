@@ -10,13 +10,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: 
-ms.date: 09/01/2017
+ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: 3747515bbea41a207c9467600065b5049b7f3575
+ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.openlocfilehash: 59264fada4455f3f0a40ba225d45159d2fb77194
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 09/28/2018
 
 ---
 # <a name="walkthrough-making-cash-flow-forecasts-by-using-account-schedules"></a>Пошаговое руководство: создание прогнозов движения денежных средств с использованием финансовых отчетов
@@ -50,7 +50,7 @@ ms.lasthandoff: 03/22/2018
 
 ### <a name="to-set-up-a-new-account-schedule-name"></a>Задание нового названия финансового отчета  
 
-1.  Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Финансовые отчеты**, а затем выберите связанную ссылку.  
+1.  Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Финансовые отчеты**, затем выберите связанную ссылку.  
 2.  В окне **Названия финансовых отчетов** на выберите действие **Создать**, чтобы создать новое название графика счета движения денежных средств.  
 3.  В поле **Имя** введите **Прогноз**.  
 4.  В поле **Описание** введите **Прогноз движения денежных средств**.  

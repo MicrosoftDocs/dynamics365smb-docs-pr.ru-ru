@@ -8,13 +8,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: 
-ms.date: 08/21/2017
+ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: 2daa52e1ee4546356ecb7d94b5c01ab9e22bbbd6
+ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.openlocfilehash: ee07ca7ba498858fac794f1ee1f27f281de8ae02
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 09/28/2018
 
 ---
 # <a name="post-sepa-direct-debit-payment-receipts"></a>Учет платежной квитанции по прямому дебету SEPA
@@ -23,7 +23,7 @@ ms.lasthandoff: 03/22/2018
 Учесть платежную квитанции можно непосредственно в окне **Коллекции прямого дебетования** или в окне **Операции коллекции прямого дебетования**. Кроме того, можно передать работу другому пользователю путем подготовки связанных строк журнала.  
 
 ## <a name="to-post-a-direct-debit-payment-receipt-from-the-direct-debit-collections-window"></a>Учет платежной квитанции по прямому дебету в окне погашений прямого дебета  
-1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Коллекции прямого дебетования**, затем выберите связанную ссылку.  
+1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Сбор платежей с помощью прямого дебетования**, затем выберите связанную ссылку.  
 2. Выберите строку для коллекции прямого дебета, экспортированную в файл банка и успешно обработанную банком. Дополнительные сведения см. в разделе [Создание операций погашения прямого дебета SEPA и их экспорт в файл банка](finance-how-create-sepa-direct-debit-collection-entries-export-bank-file.md).  
 3. Выберите действие **Поступления после платежа**.  
 4. В окне **Учет коллекции прямого дебетования** заполните поля, как описано в следующей таблице.  

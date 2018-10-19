@@ -10,25 +10,26 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: 
-ms.date: 07/01/2017
+ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: ffaa6b174d495b4a22423cabd13b74025db021ed
+ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.openlocfilehash: c6c7adb07337643360baa9cacf4eff659e7557c3
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 09/28/2018
 
 ---
 # <a name="design-details-the-concept-of-balancing-in-brief"></a>Сведения о проектировании: краткие сведения о балансировке
 Спрос предоставляется клиентами организации. Поставка — это то, что организация может создать или удалить для обеспечения баланса. Система планирования начинает с независимого спроса, а затем в обратном направлении выполняет отслеживание до предложения.  
-  
+
  Профили инвентаризации используются для хранения информации о спросе и предложении, количествах и времени. Эти профили составляют две стороны шкалы уравновешивания.  
-  
+
  Задача механизма планирования — уравновешивать спрос и предложение товара, чтобы убедиться, что предложение соответствует спросу и это достигается целесообразным способом, как определено параметрами и правилами планирования.  
-  
- ![](media/nav_app_supply_planning_2_balancing.png "NAV_APP_supply_planning_2_balancing")  
-  
+
+ ![Обзор уравновешивания спроса и предложения](media/nav_app_supply_planning_2_balancing.png "Обзор уравновешивания спроса и предложения")  
+
 ## <a name="see-also"></a>См. также  
  [Сведения о проектировании: балансировка спроса и поставки](design-details-balancing-demand-and-supply.md)   
  [Сведения о проектировании: основные понятия системы планирования](design-details-central-concepts-of-the-planning-system.md)   
  [Сведения о проектировании: планирование поставок](design-details-supply-planning.md)
+

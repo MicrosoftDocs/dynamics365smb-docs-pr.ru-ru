@@ -10,13 +10,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: relationship, client, prospect
-ms.date: 06/06/2017
+ms.date: 10/01/2018
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: 974133ffb0324cf6bc3ed37436adb9fb237f5e4d
+ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.openlocfilehash: 6680a5dedcbedc3ed7e430c4290871d5fbaaf9ad
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 09/28/2018
 
 ---
 # <a name="set-up-organizational-levels-for-contact-persons"></a>Настройка организационных уровней для контактных лиц
@@ -27,7 +27,7 @@ ms.lasthandoff: 03/22/2018
 ## <a name="to-define-an-organizational-level-code"></a>Определение кода организационного уровня
 Код организационного уровня определяет тип или категорию организационного уровня, например ГЕД или ФИД. Допускается наличие нескольких кодов организационных уровней. Для определения организационного уровня используется окно **Организационные уровни**.
 
-1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Организационные уровни**, а затем выберите связанную ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Организационные уровни**, затем выберите связанную ссылку.
 2. Выберите действие **Создать**, введите код и описание. Длина кода не должна превышать 11 знаков (допускается сочетание букв и цифр).
 
 ## <a name="to-assign-organizational-levels-to-a-contact-person"></a>Назначение организационных уровней контактному лицу

@@ -10,13 +10,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: 
-ms.date: 09/06/2017
+ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: 2fc2ef2528a1edc85c0a7694c1afc5bec7a0065a
+ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.openlocfilehash: e532893b1823ef84256403fb7bf5ef9fabd59f2e
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 09/28/2018
 
 ---
 # <a name="design-details-staying-under-the-overflow-level"></a>Сведения о проектировании: нахождение ниже уровня допустимого избытка
@@ -24,7 +24,7 @@ ms.lasthandoff: 03/22/2018
 
 *Внимание! Прогнозируемые запасы [xx] больше, чем допустимый избыток [xx] на срок выполнения [xx].*  
 
-![Допустимый избыток запасов](media/supplyplanning_2_overflow1_new.png "supplyplanning_2_overflow1_new")  
+![Допустимый избыток запасов](media/supplyplanning_2_overflow1_new.png "Допустимый избыток запасов")  
 
 ##  <a name="calculating-the-overflow-level"></a>Расчет допустимого избытка  
 Допустимый избыток вычисляется разными способами в зависимости от настройки планирования.  
@@ -100,7 +100,7 @@ ms.lasthandoff: 03/22/2018
 ### <a name="resulting-planning-lines"></a>Результирующие строки планирования  
  Создается одна строка планирования (предупреждение) для уменьшения количества покупки 30 с 90 до 60 для соответствия прогнозируемых запасов 100 допустимому избытку.  
 
-![Планирование в соответствии с допустимым избытком](media/nav_app_supply_planning_2_overflow2.png "nav_app_supply_planning_2_overflow2")  
+![Планирование в соответствии с допустимым избытком](media/nav_app_supply_planning_2_overflow2.png "Планирование в соответствии с допустимым избытком")  
 
 > [!NOTE]  
 >  Без функции допустимого избытка никаких предупреждений не создается, если прогнозируемый уровень склада выше максимальных запасов. Это может вызвать поставку с излишками в количестве 30.  

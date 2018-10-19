@@ -10,13 +10,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: 
-ms.date: 07/01/2017
+ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: 42e03563ac3d1d12226df4089e4fe42aa2713a9b
+ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.openlocfilehash: 714ebd289407293f2a9fb8f05cad68330c79ad9a
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 09/28/2018
 
 ---
 # <a name="specify-when-and-how-to-receive-notifications"></a>Определение сроков и порядка получения уведомлений пользователями
@@ -30,7 +30,7 @@ ms.lasthandoff: 03/22/2018
 
 ## <a name="specify-when-and-how-users-receive-notifications"></a>Определите, когда и как пользователи получают уведомления  
 
-1.  Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Настройка пользователя для утверждений**, затем выберите связанную ссылку.  
+1.  Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка пользователя для утверждений**, затем выберите связанную ссылку.  
 2.  Выберите строку для пользователя, для которого требуется задать параметры уведомлений, затем выберите действие **Настройка уведомлений**.  
 3.  Заполните поля в окне **Настройка уведомлений**, как описано в следующей таблице.  
 

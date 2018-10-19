@@ -10,13 +10,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: kit, kitting
-ms.date: 08/15/2017
+ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: b03cc5a21ca49f85fa859736b074bd72cb5c6499
+ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.openlocfilehash: 7dbdc368350687c9ac8ab78d13312aa059f1c385
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 09/28/2018
 
 ---
 # <a name="sell-items-assembled-to-order"></a>Продажа товара, собранного на заказ
@@ -31,7 +31,7 @@ ms.lasthandoff: 03/22/2018
 >  Следующая процедура не включает стандартные шаги заказа на продажу до шага, на котором указывается товар сборки на заказ для строки заказа на продажу.  
 
 ## <a name="to-sell-an-item-that-is-assembled-to-order"></a>Продажа товара, собранного на заказ  
-1.  Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Заказы на продажу**, а затем выберите связанную ссылку.  
+1.  Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Заказы на продажу**, затем выберите связанную ссылку.  
 2.  Создайте заказ на продажу. Дополнительные сведения см. в разделе [Продажа продукции](sales-how-sell-products.md).  
 3.  В поле **Номер** введите товар, который настроен для сборки на заказ.  
 4.  В поле **Код склада** укажите, с какого склада должен быть продан товар. Процесс сборки будет выполняться на этом складе.  

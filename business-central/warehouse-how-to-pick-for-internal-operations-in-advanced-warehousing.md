@@ -10,13 +10,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: 
-ms.date: 09/06/2017
+ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: a2ac3261e90b59a7286c9ab0bc64b6681a134134
+ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.openlocfilehash: 228755cbc36ae9fbdd0f80be6f778b11fb5b3d6a
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 09/28/2018
 
 ---
 # <a name="pick-for-assembly-or-production-in-advanced-warehouse-configurations"></a>Подбор для сборки или производства в расширенных конфигурациях склада
@@ -42,7 +42,7 @@ ms.lasthandoff: 03/22/2018
 |Заказ на сборку|Измените статус на "Выпущено".|  
 
 ## <a name="to-pick-components-using-the-pick-worksheet"></a>Подбор компонентов из журнала подбора  
-1.  Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Журнал подбора**, затем выберите связанную ссылку.  
+1.  Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Журнал подбора**, затем выберите связанную ссылку.  
 2.  Выберите действие **Получить складские документы**, затем выберите строки компонента из запущенного производственного заказа.  
 3.  Проверить строки, отсортировать их для обеспечения эффективного цикла подбора и при необходимости скомбинировать с другими строками журнала для наиболее эффективного использования времени работника.  
 4.  Выберите действие **Создать подбор**.  

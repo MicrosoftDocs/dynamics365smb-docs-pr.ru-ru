@@ -10,13 +10,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: 
-ms.date: 03/05/2018
+ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: 7feaa0e41cf5800ffd51d5807a90f6929492804e
+ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.openlocfilehash: e26174fcf723e13ef5a9ed0b386006c0439e1c7a
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 09/28/2018
 
 ---
 # <a name="create-custom-company-configuration-packages"></a>Создание настраиваемых пакетов конфигурации организации
@@ -39,7 +39,7 @@ ms.lasthandoff: 03/22/2018
 -   НДС настройка учета  
 -   Настройка учета запасов  
 
-Для просмотра полного списка таблиц настройки выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Настройка**, затем выберите связанную ссылку.  
+Для просмотра полного списка таблиц настройки выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка**, затем выберите связанную ссылку.  
 
 ## <a name="to-create-a-custom-company-configuration-package"></a>Создание настраиваемых пакетов конфигурации организации  
 1.  Откройте новый [!INCLUDE[d365fin](includes/d365fin_md.md)]. ***НЕВОЗМОЖНО Ссылка на справку для "Создание нового арендатора"***.   

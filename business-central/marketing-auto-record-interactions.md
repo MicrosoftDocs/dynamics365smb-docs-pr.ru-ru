@@ -10,13 +10,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: marketing, relationship, prospect, contact, client, customer
-ms.date: 06/06/2017
+ms.date: 10/01/2018
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: 16865ddb74c2d7c6bbdf84033daba816ba0405de
+ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.openlocfilehash: 28891eb7cef2faba6004cbf97480c438c58df892
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 09/28/2018
 
 ---
 # <a name="recording-interactions-with-contacts-automatically"></a>Автоматическая регистрация взаимодействий с контактами
@@ -29,7 +29,7 @@ ms.lasthandoff: 03/22/2018
 * Звонить контактам, если у вас есть имеется TAPI-совместимый телефон и приложение установлено соответствующим образом.
 
 Для настройки автоматической регистрации этих взаимодействий вы должны задать шаблоны взаимодействия для этих документов и действий с помощью окна **Настройка шаблона взаимодействия**.  
-Чтобы открыть окно **Настройка шаблона взаимодействия** выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Настройка шаблона взаимодействия**, затем выберите связанную ссылку.
+Чтобы открыть окно **Настройка шаблона взаимодействия**, выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка шаблона взаимодействия**, затем выберите связанную ссылку.
 
 ## <a name="see-also"></a>См. также
 [Регистрация взаимодействий с контактами](marketing-interactions.md)  

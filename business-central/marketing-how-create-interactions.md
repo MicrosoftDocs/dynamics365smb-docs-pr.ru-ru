@@ -10,13 +10,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: relationship, prospect
-ms.date: 06/15/2017
+ms.date: 10/01/2018
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: aa6be34f1b43dfe0b1f82cbb6a2cefd06edb0f83
+ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.openlocfilehash: ee1c27157febaf848c417eb163adea2eaa586e1f
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 09/28/2018
 
 ---
 # <a name="create-interactions-on-contacts-and-segments"></a>Создание взаимодействий для контактов и сегментов
@@ -38,7 +38,7 @@ ms.lasthandoff: 03/22/2018
 3. Выберите взаимодействие, которое требуется завершить, а затем выберите действие **Возобновить**.
 
 ## <a name="to-create-an-interaction-on-a-segment"></a>Создание взаимодействия для сегмента
-1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Сегменты**, а затем выберите связанную ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Сегменты**, затем выберите связанную ссылку.
 2. В окне **Сегмент** в разделе **Взаимодействие** заполните поля, чтобы указать, какое взаимодействие следует назначить сегменту.
 
     После назначения взаимодействия сегменту можно персонализировать взаимодействие для каждого отдельного контакта внутри сегмента, например, выбрав другой шаблон взаимодействия в строках окна **Сегмент**.  

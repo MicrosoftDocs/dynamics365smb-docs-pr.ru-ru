@@ -10,13 +10,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: design, supply, inventory, planning
-ms.date: 07/01/2017
+ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: 5ee71f3c0a677115bba920e4b6d25eee6342e87e
+ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.openlocfilehash: 336b5c300cf3640d7356313d2d627f6b4008c7b4
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 09/28/2018
 
 ---
 # <a name="design-details-monitoring-the-projected-inventory-level-and-the-reorder-point"></a>Сведения о проектировании: отслеживание уровня прогнозируемых запасов и точки дозаказа
@@ -50,7 +50,7 @@ ms.lasthandoff: 03/22/2018
 
 Далее этот принцип проиллюстрирован графически.  
 
-![](media/nav_app_supply_planning_2_projected_inventory.png "NAV_APP_supply_planning_2_projected_inventory")  
+![Определение уровня прогнозируемых запасов](media/nav_app_supply_planning_2_projected_inventory.png "Определение уровня прогнозируемых запасов")  
 
 1. Поставка **Sa** на 4 штуки (фиксированная) закрывает спрос **Da** на -3 штуки.  
 2. CloseDemand: создается напоминание об уменьшении на -3 (не показано).  

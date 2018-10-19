@@ -10,13 +10,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: 
-ms.date: 08/01/2018
+ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: d0ef9148b082b05a46283f89c3cb98bb1cd0c6d0
-ms.openlocfilehash: caa494729c4408334fadd50903f0d17df330409d
+ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.openlocfilehash: 22d79f478486bc2a7a58545345d604ac3ddd9755
 ms.contentlocale: ru-ru
-ms.lasthandoff: 08/06/2018
+ms.lasthandoff: 09/28/2018
 
 ---
 # <a name="setting-up-warehouse-management"></a>Настройка управления складом
@@ -41,7 +41,7 @@ ms.lasthandoff: 08/06/2018
 |Разрешить работникам склада разбивать крупные единицы измерения на более мелкие для выполнения требований первичных документов.|[Разрешение автоматической разбивки с расширенным подбором и размещением](warehouse-enable-automatic-breaking-bulk-with-directed-put-away-and-pick.md)|  
 |Настроить склад на автоматическое предложение товаров при подборе в порядке истечения срока их хранения, при этом товары с ближайшим сроком предлагаются первыми.|[Включение подбора по методу FEFO](warehouse-picking-by-fefo.md)|
 |Получить подсказки по реорганизации складов, ячеек или зон для улучшения эффективности складских действий.|[Изменение структуры складов](warehouse-how-to-restructure-warehouses.md)|
-<!-- |Интегрировать устройства чтения штрих-кода в решение управления складом.|[Использование автоматизированных систем сбора данных (ADCS)](warehouse-use-automated-data-capture-systems-adcs.md)| -->  
+|Интегрировать устройства чтения штрих-кода в решение управления складом.|[Использование автоматизированных систем сбора данных (ADCS)](warehouse-use-automated-data-capture-systems-adcs.md)|
 
 ## <a name="see-also"></a>См. также  
 [Управление складом](warehouse-manage-warehouse.md)  

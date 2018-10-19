@@ -10,13 +10,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: 
-ms.date: 08/21/2017
+ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: e58c5da8b1364b2c9035188c847176f1ea0aaf73
+ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.openlocfilehash: 420aac30c9b9a76c8874e6697cfa0e105bb1744a
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 09/28/2018
 
 ---
 # <a name="pick-items-for-warehouse-shipment"></a>Подбор товаров для складской отгрузки
@@ -40,7 +40,7 @@ ms.lasthandoff: 03/22/2018
 >  Для получения информации о подборе компонентов для сборочных заказов, в том числе о ситуациях когда сборочный элемент не должен быть в расходной накладной, см. раздел [Подбор для производства или сборки](warehouse-how-to-pick-for-production.md).  
 
 ## <a name="to-pick-items-for-warehouse-shipment"></a>Складской подбор товаров для отгрузки  
-1.  Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Складской подбор**, затем выберите связанную ссылку.  
+1.  Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Складской подбор**, затем выберите связанную ссылку.  
 
     Если необходимо работать с определенным подбором, выберите этот подбор в списке или отфильтруйте список, чтобы найти подборы, назначенные для вас. Откройте карточку подбора.  
 2.  Если поле **Код исполнителя** пустое, при необходимости введите для идентификации свой код.  

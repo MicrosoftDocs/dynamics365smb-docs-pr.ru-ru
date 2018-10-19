@@ -10,13 +10,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: multiple currencies
-ms.date: 01/25/2018
+ms.date: 10/01/2018
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: 35ecddf35dbe094ef05760ba4148f8ae79e7bf26
+ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.openlocfilehash: 7d22d0849e2212d5f3586935601c6dee73f4e10b
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 09/28/2018
 
 ---
 # <a name="update-currency-exchange-rates"></a>Обновление валютных курсов
@@ -44,13 +44,13 @@ ms.lasthandoff: 03/22/2018
 ## <a name="to-set-up-a-currency-exchange-rate-service"></a>Настройка служб валютных курсов
 Для обновления валютных курсов можно использовать внешнюю службу, например FloatRates.
 
-1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Службы валютных курсов**, а затем выберите связанную ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Службы валютных курсов**, затем выберите связанную ссылку.
 2. Выберите действие **Создать**.
 3. В окне **Служба валютных курсов** заполните требуемые поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 4. Установите флажок **Включено** для включения службы.
 
 ## <a name="to-update-currency-exchange-rates-through-a-service"></a>Обновление валютных курсов с использованием службы
-1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Валюты**, а затем выберите связанную ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Валюты**, затем выберите связанную ссылку.
 2. Выберите действие **Обновить валютные курсы**.
 
 Значение в поле **Валютный курс** в окне **Валюты** обновляется до самого актуального валютного курса.

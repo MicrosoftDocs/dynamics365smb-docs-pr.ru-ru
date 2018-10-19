@@ -8,13 +8,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: check, bank transfer, cash, PayPal
-ms.date: 06/15/2017
+ms.date: 10/01/2018
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: 996469413f23d6620e0464313b90c5c771f38f86
+ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.openlocfilehash: 9583d69f91963d8ee6a69e7145930c1f6c2df955
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 09/28/2018
 
 ---
 # <a name="defining-payment-methods"></a>Определение способов оплаты
@@ -23,7 +23,7 @@ ms.lasthandoff: 03/22/2018
 
 ## <a name="to-set-up-a-payment-methods"></a>Настройка способов оплаты
 Несколько стандартных способов оплаты уже определены в [!INCLUDE[d365fin](includes/d365fin_md.md)]. Вы можете определить новых способы оплаты в окне **Способы оплаты**, которое можно найти с помощью функции поиска или открыть из поля **Способ оплаты** на карточке клиента или поставщика.
-1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Способы оплаты**, а затем выберите связанную ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Способы оплаты**, затем выберите связанную ссылку.
 2. Заполните соответствующим образом поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 
 ## <a name="see-also"></a>См. также

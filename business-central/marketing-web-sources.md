@@ -10,13 +10,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: internet
-ms.date: 06/06/2017
+ms.date: 10/01/2018
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: 4fb61c804d1f01326349d7733e52de48811c18e3
+ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.openlocfilehash: b8c59f24eae07efe8f2c4ca1e4e22d05fd4f1b1c
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 09/28/2018
 
 ---
 # <a name="set-up-web-sources-for-contact-companies"></a>Настройка веб-источников для контактных организаций
@@ -25,7 +25,7 @@ ms.lasthandoff: 03/22/2018
 Использование веб-источников для контактов — это двухэтапный процесс. Сначала вы определяете код веб-источника. Этот шаг нужно выполнить один раз для каждого веб-источника. После настройки кода веб-источника можно начинать назначение кода контактным лицам.
 
 ## <a name="to-define-a-web-source-code"></a>Определение кода веб-источника
-1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Веб-источники**, а затем выберите связанную ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Веб-источники**, затем выберите связанную ссылку.
 2. Выберите действия **Создать**.
 3. Заполните поля **Код**, **Описание** и **URL-адрес**.
 

@@ -8,13 +8,13 @@ ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.date: 06/057/2018
+ms.date: 10/01/2018
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: e7dcdc0935a8793ae226dfc2f9709b5b8f487a62
-ms.openlocfilehash: 26729b9ced13d6727437db91d464d7a42907b0a1
+ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.openlocfilehash: bb055a2520af17d5b1b9aa2239ade210016bd2ac
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 09/28/2018
 
 ---
 # <a name="working-with-included365finincludesd365finmdmd"></a>Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]
@@ -28,7 +28,7 @@ ms.lasthandoff: 03/22/2018
 | --- | --- |
 | Изменение базовых настроек, таких как организация, рабочая дата и ролевой центр. |[Изменение базовых настроек](ui-change-basic-settings.md) |
 | Поиск конкретной страницы или отчета. |[Использование поиска страницы или отчета](ui-search.md) |
-| Фильтрация данных в представлениях, отчетах или функциях с помощью специальных символов и знаков. |[Ввод критериев в фильтрах](ui-enter-criteria-filters.md) |
+| Фильтрация данных в представлениях, отчетах или функциях с помощью специальных символов и знаков. |[Поиск, фильтрация и сортировка данных](ui-enter-criteria-filters.md) |
 | Узнайте о том, как сортировать данные. |[Сортировка данных](ui-sorting.md) |
 | Просмотр или обработка данных в определенные диапазоны дат. |[Ввод диапазонов дат](ui-enter-date-ranges.md) |
 | См. поля, которые должны быть заполнены. |[Выявление обязательных полей](ui-mandatory-fields.md) |
@@ -43,11 +43,15 @@ ms.lasthandoff: 03/22/2018
 |Знакомство с функциями и возможностями, обеспечиваемыми в [!INCLUDE[d365fin](includes/d365fin_md.md)] для лица с ограниченными возможностями.|[Специальные возможности и сочетания клавиш](ui-accessibility.md)|
 |Просмотр видеороликов по выбранной функциональной возможности, помогающих приступить к работе.|[Видео о распространенных задачах](across-videos.md)|  
 
+## <a name="getting-around-in-business-central"></a>Навигация в Business Central
+Здесь приведено короткое видео о том, как перемещаться в [!INCLUDE[d365fin](includes/d365fin_md.md)].
+
+> [!VIDEO https://www.youtube.com/embed/zqz03iMihx0]
+
 ## <a name="see-also"></a>См. также
 [Приступая к работе](product-get-started.md)  
 [Настройка Business Central](setup.md)  
 [Общие бизнес-функции](ui-across-business-areas.md)  
 
 ## [!INCLUDE[d365fin](includes/free_trial_md.md)]  
- 
 

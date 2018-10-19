@@ -10,13 +10,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: 
-ms.date: 07/01/2017
+ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: c871eaea1eb7d7755b4b9fce6b6db87a15e1eed5
+ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.openlocfilehash: 3eb90611939dce2134d9413812918c2afb82c083
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 09/28/2018
 
 ---
 # <a name="set-up-cost-objects"></a>Настройка объектов затрат
@@ -27,7 +27,7 @@ ms.lasthandoff: 03/22/2018
 
 ## <a name="to-transfer-dimension-values-from-the-general-ledger-to-the-chart-of-cost-objects"></a>Перенос значений измерений из главной книги в план объектов затрат  
 1.  Установите измерение, которое должно быть измерением объекта затрат, в окне **Обновить измерения CA**. Передаются только значения данного измерения.  
-2.  Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Диаграмма объектов затрат**, затем выберите связанную ссылку.  
+2.  Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Диаграмма объектов затрат**, затем выберите связанную ссылку.  
 3.  Выберите действие **Получить объекты затрат из измерения** для возвращения значений измерений в диаграмму объектов затрат. Функция перемещает значения измерений, заданные на шаге 1.  
 
     > [!NOTE]  

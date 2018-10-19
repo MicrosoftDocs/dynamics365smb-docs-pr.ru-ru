@@ -8,13 +8,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: planning, design
-ms.date: 05/04/2018
+ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 75501b9402bb1c14fcfeb2fc6e61f055a2247493
-ms.openlocfilehash: d5606d6e8714c96a675f4d5f4074e431aa818ec7
+ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.openlocfilehash: a108de9d4fe537f2d014c705583b910dc7be66a7
 ms.contentlocale: ru-ru
-ms.lasthandoff: 05/15/2018
+ms.lasthandoff: 09/28/2018
 
 ---
 # <a name="design-details-planning-parameters"></a>Сведения о проектировании: параметры планирования
@@ -80,25 +80,25 @@ ms.lasthandoff: 05/15/2018
 
 Время периода перепланирования, буферного периода и периода накопления лота отсчитывается от даты поставки. Горизонт планирования основан на начальной дате планирования, как показано на следующей иллюстрации.  
 
-![Элементы горизонта планирования](media/supply_planning_5_time_bucket_elements.png "supply_planning_5_time_bucket_elements")  
+![Элементы горизонта планирования](media/supply_planning_5_time_bucket_elements.png "Элементы горизонта планирования")  
 
 В следующих примерах черные стрелки представляют существующую поставку (вверх) и спрос (вниз). Красные, зеленые и оранжевые стрелки обозначают предложения по планированию.  
 
 **Пример 1**. Измененная дата находится за пределами периода перепланирования, что приводит к отмене существующей поставки. Предлагается новая поставка для удовлетворения спроса в период накопления лота.  
 
-![Период перепланирования, период накопления лота](media/supply_planning_5_recheduling_period_lot_accumulation_period.png "supply_planning_5_recheduling_period_lot_accumulation_period")  
+![Период перепланирования и период накопления лота](media/supply_planning_5_recheduling_period_lot_accumulation_period.png "Период перепланирования и период накопления лота")  
 
 **Пример 2**. Измененная дата находится в пределах периода перепланирования, что приводит к перепланированию существующей поставки. Предлагается новая поставка для удовлетворения спроса за пределами периода накопления лота.  
 
-![Период перепланирования, период накопления лота, перепланирование](media/supply_planning_5_recheduling_period_lot_accum_period_reschedule.png "supply_planning_5_recheduling_period_lot_accum_period_reschedule")  
+![Период перепланирования, период накопления лота и перепланирование](media/supply_planning_5_recheduling_period_lot_accum_period_reschedule.png "Период перепланирования, период накопления лота и перепланирование")  
 
 **Пример 3**. В буферном периоде имеется спрос, и количество поставки в периоде накопления лота соответствует количеству поставки. Следующий спрос не удовлетворен, поэтому предложена новая поставка.  
 
-![Буферный период, период накопления лота](media/supply_planning_5_dampener_period_lot_accumulation_period.png "supply_planning_5_dampener_period_lot_accumulation_period")  
+![Буферный период и период накопления лота](media/supply_planning_5_dampener_period_lot_accumulation_period.png "Буферный период и период накопления лота")  
 
 **Пример 4**. В буферном периоде имеется спрос, и дата поставки остается неизменной. Однако текущего количества поставки недостаточно для удовлетворения спроса в период накопления лота, поэтому предлагается действие по изменению количества для существующего заказа на поставку.  
 
-![Буферный период, период накопления лота, изменение количества](media/supply_planning_5_dampener_period_lot_accum_period_change_qty.png "supply_planning_5_dampener_period_lot_accum_period_change_qty")  
+![Буферный период, период накопления лота и изменение количества](media/supply_planning_5_dampener_period_lot_accum_period_change_qty.png "Буферный период, период накопления лота и изменение количества")  
 
 **Значения по умолчанию.** По умолчанию поле **Горизонт планирования** и три поля периода дозаказа не заполнены. Для всех полей за исключением поля **Буферный период** это означает значение 0D (ноль дней). Если поле **Буферный период** пустое, будет использоваться глобальное значение в поле **Буферный период по умолчанию** в окне **Производство - настройка**.  
 

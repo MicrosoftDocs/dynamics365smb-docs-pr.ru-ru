@@ -8,13 +8,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: preview, trial, sandbox
-ms.date: 06/28/2018
+ms.date: 10/01/2018
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: 2286b728a464943841b192031cfea13644441013
-ms.openlocfilehash: 0829c825ec0635a20c040fe17cd3e7cfc667ffd7
+ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.openlocfilehash: 50d1429a58b878766c76ed97f65936db78191ee0
 ms.contentlocale: ru-ru
-ms.lasthandoff: 06/28/2018
+ms.lasthandoff: 09/28/2018
 
 ---
 # <a name="access-to-the-included365finlongincludesd365finlongmdmd-preview"></a>Доступ к предварительной версии [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]
@@ -39,7 +39,7 @@ ms.lasthandoff: 06/28/2018
 
 ### <a name="to-create-a-sandbox-environment"></a>Создание среды "песочницы"
 1.  Выполните вход в производственный или предварительный экземпляр [!INCLUDE[d365fin](includes/d365fin_md.md)].  
-2.  Выберите ![Поиск страницы или отчета](media/ui-search/search_small.png "значок поиска страницы или отчета"), введите **Среда "песочницы"**, затем выберите соответствующую ссылку.
+2.  Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Среда "песочницы"**, затем выберите связанную ссылку.
 3.  Выберите **Создать**. Открывается вкладка, на которой можно завершить настройку песочницы.
 
     > [!Note]

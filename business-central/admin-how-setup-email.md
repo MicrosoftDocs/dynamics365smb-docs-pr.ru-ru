@@ -9,13 +9,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: SMTP, mail, Office 365
-ms.date: 06/02/2017
+ms.date: 10/01/2018
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: 6e9dcc286b460460abb3f5d960b6c065651cf31f
+ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.openlocfilehash: 5bede56db06b7bac991f3f910c11e1dae61c7463
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 09/28/2018
 
 ---
 # <a name="set-up-email-manually-or-using-the-assisted-setup"></a>Настройка электронной почты вручную или с помощью мастера настройки
@@ -27,7 +27,7 @@ ms.lasthandoff: 03/22/2018
 Можно либо настроить электронную посту вручную, либо получить справку с помощью сопровождаемой настройки **Настройка электронной почты**. Дополнительные сведения см. в разделе [Подготовьтесь к ведению бизнеса](ui-get-ready-business.md).  
 
 ## <a name="to-set-up-email"></a>Настройка электронной почты
-1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Настройка эл. почты (SMTP)**, а затем выберите связанную ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка эл. почты (SMTP)**, затем выберите связанную ссылку.
 2. Заполните соответствующим образом поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 3. Либо выберите действие **Применить настройки сервера Office 365** для вставки сведений, которые уже определены для подписки Office 365.
 4. После правильного заполнения всех полей выберите действие **Проверить настройку эл. почты**.

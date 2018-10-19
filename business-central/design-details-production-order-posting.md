@@ -10,13 +10,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: 
-ms.date: 07/01/2017
+ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: e3917573a912a4e51416c4e926443c87513728fe
-ms.openlocfilehash: 4180e40f318e3e735c91f8670ef9a52ee8d72f6e
+ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.openlocfilehash: b71f12ad075197f1630e681b826ec3dff1f4ddff
 ms.contentlocale: ru-ru
-ms.lasthandoff: 06/01/2018
+ms.lasthandoff: 09/28/2018
 
 ---
 # <a name="design-details-production-order-posting"></a>Сведения о проектировании: учет производственного заказа
@@ -60,11 +60,11 @@ ms.lasthandoff: 06/01/2018
 
 На следующей схеме показаны процедуры учета в учета в модуле codeunit 22.  
 
-![Процедуры учета производственных заказов](media/design_details_inventory_costing_14_production_posting_1.png "design_details_inventory_costing_14_production_posting_1")  
+![Процедуры учета производственных заказов](media/design_details_inventory_costing_14_production_posting_1.png "Процедуры учета производственных заказов")  
 
 На следующей схеме показаны связи между результирующими операциями и объектами затрат.  
 
-![Схема производственных операций](media/design_details_inventory_costing_14_production_posting_2.png "design_details_inventory_costing_14_production_posting_2")  
+![Схема производственных операций](media/design_details_inventory_costing_14_production_posting_2.png "Схема производственных операций")  
 
 Книга операций по произв. мощностям описывается использование производственных мощностей в терминах времени, в то время как соответствующая операция стоимости описывает стоимость соответствующего потребления мощности.  
 

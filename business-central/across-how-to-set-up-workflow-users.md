@@ -9,13 +9,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: reject, delegate, request
-ms.date: 08/01/2017
+ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: 0fe05d44acd7fb163996e8a663adb309d229b203
+ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.openlocfilehash: 847cce9d48b6e5f3c98d1b64eef0d912f6dcf5fd
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 09/28/2018
 
 ---
 # <a name="set-up-workflow-users"></a>Настройка пользователей рабочих процессов
@@ -32,7 +32,7 @@ ms.lasthandoff: 03/22/2018
 
 ### <a name="to-set-up-a-workflow-user"></a>Настройка пользователя рабочего процесса  
 
-1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Группы пользователей рабочего процесса**, затем выберите связанную ссылку.  
+1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Группы пользователей рабочего процесса**, затем выберите связанную ссылку.  
 2. Выберите действие **Создать**. Откроется окно **Группа пользователей рабочего процесса**.  
 3. В поле **Код** введите не более 20 знаков для обозначения рабочего процесса.  
 4. В поле **Описание** введите описание рабочего процесса.  

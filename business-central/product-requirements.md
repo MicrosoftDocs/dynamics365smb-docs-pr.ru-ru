@@ -8,13 +8,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: version
-ms.date: 04/17/2018
+ms.date: 10/01/2018
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: dc7e739bc2b8ac9e8efce3a0f52acb945352416e
-ms.openlocfilehash: a1910acdfb80de7a7e6a4d1b701bf1108b384996
+ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.openlocfilehash: 650fb7c92e5d66d238462911011369201d102ea0
 ms.contentlocale: ru-ru
-ms.lasthandoff: 04/19/2018
+ms.lasthandoff: 09/28/2018
 
 ---
 # <a name="minimum-requirements-for-using-business-central"></a>Минимальные требования для использования Business Central
@@ -24,16 +24,16 @@ ms.lasthandoff: 04/19/2018
 **Chrome для Windows и Firefox для Windows:** программа [!INCLUDE[d365fin](includes/d365fin_md.md)] предназначена для работы с текущей версией этих настольных браузеров.  
 **Safari:** программа [!INCLUDE[d365fin](includes/d365fin_md.md)] предназначена для работы с текущей версией Safari в OSX.  
 **Microsoft Edge:** программа [!INCLUDE[d365fin](includes/d365fin_md.md)] предназначена для работы с текущей версией Microsoft Edge.  
-**Internet Explorer:** программа [!INCLUDE[d365fin](includes/d365fin_md.md)] предназначена для работы с Internet Explorer (11) (сборка 11.0.9600.17239) для Windows 10 и 8.1 (32-разрядная и 64-разрядная версии). Мы рекомендуем обновиться до последней версии Internet Explorer, которая поддерживается вашей версией Windows.  
+**Internet Explorer:** программа [!INCLUDE[d365fin](includes/d365fin_md.md)] предназначена для работы с Internet Explorer (11) (сборка 11.0.9600.17239) для Windows 10 (32-разрядная и 64-разрядная версии). Мы рекомендуем обновиться до последней версии Internet Explorer, которая поддерживается вашей версией Windows.  
 
 ## <a name="mobile-devices"></a>Мобильные устройства
-**Windows:** [!INCLUDE[d365fin](includes/d365fin_md.md)] для Windows можно установить на устройства, имеющие хотя бы 1 ГБ ОЗУ и Windows 10 Phone, Home, Pro, Enterprise или Education (32-разрядная и 64-разрядная версии).  
-**iOS:** [!INCLUDE[d365fin](includes/d365fin_md.md)] для iPad и iPhone требует iOS 9.0 или более поздней версии.  
-**Android:** [!INCLUDE[d365fin](includes/d365fin_md.md)] для планшетов Android и телефонов Android можно установить на устройства, имеющие ОЗУ не менее 1 ГБ и Android 5.0 или более поздней версии.  
+**Windows:** [!INCLUDE[d365fin](includes/d365fin_md.md)] для Windows можно установить на устройства, имеющие хотя бы 1 ГБ ОЗУ и Windows 10 Home, Pro, Enterprise или Education (32-разрядная и 64-разрядная версии).  
+**iOS:** [!INCLUDE[d365fin](includes/d365fin_md.md)] для iPad и iPhone требует iOS 10.0 или более поздней версии.  
+**Android:** [!INCLUDE[d365fin](includes/d365fin_md.md)] для планшетов Android и телефонов Android можно установить на устройства, имеющие ОЗУ не менее 1 ГБ и Android 6.0 или более поздней версии.  
 **Размер устройства:** [!INCLUDE[d365fin](includes/d365fin_md.md)] поддерживается на смартфонах с минимальным размером экрана 4 дюйма и планшетах с минимальным размером экрана 7 дюймов.  
 
 ## <a name="outlook"></a>Outlook
-**Приложения Outlook:** Для использования [!INCLUDE[d365fin](includes/d365fin_md.md)] как папки "Входящие" для бизнеса в Outlook требуется Outlook 2013 или более поздней версии, веб-приложение Outlook, OWA для iPhone, OWA для iPad или OWA для Android.  
+**Приложения Outlook:** Для использования [!INCLUDE[d365fin](includes/d365fin_md.md)] как папки "Входящие" для бизнеса в Outlook требуется Outlook 2016 или более поздней версии, веб-приложение Outlook, OWA для iPhone, OWA для iPad или OWA для Android.  
 **Браузеры:** При использовании [!INCLUDE[d365fin](includes/d365fin_md.md)] в качестве папки "Входящие" для бизнеса в веб-приложении Outlook (OWA) надстройка требует, чтобы на компьютере был установлен один из браузеров, перечисленных в качестве поддерживаемых ранее в этой статье.  
 **Платформы:** При использовании надстройки [!INCLUDE[d365fin](includes/d365fin_md.md)] для Outlook в OWA для iPhone, OWA для iPad, OWA для Android надстройка требует, чтобы в качестве мобильного устройства использовалось одно из поддерживаемых мобильных устройств для [!INCLUDE[d365fin](includes/d365fin_md.md)].  
 
@@ -42,4 +42,5 @@ ms.lasthandoff: 04/19/2018
 
 ## <a name="see-also"></a>См. также
 [Приступая к работе](product-get-started.md)  
+[Системные требования для Dynamics 365 Business Central On-premises](/dynamics365/business-central/dev-itpro/deployment/system-requirement-business-central)  
 

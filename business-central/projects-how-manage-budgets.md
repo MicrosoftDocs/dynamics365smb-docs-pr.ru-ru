@@ -10,13 +10,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: project budget, forecast
-ms.date: 06/06/2017
+ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: 1dbca885e47b19c9ce1b78d092d1dc15dc23449e
+ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.openlocfilehash: 995d181496dc1827f21c0b3edd9e52dd6c15c297
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 09/28/2018
 
 ---
 # <a name="manage-job-budgets"></a>Управление бюджетами работ
@@ -27,7 +27,7 @@ ms.lasthandoff: 03/22/2018
 ## <a name="JobBudgetCosts"></a> Оценка бюджетных затрат для работы
 Когда клиент хочет знать цену работы, накладная по которой будет выставлена на основе потребления, необходимо определить бюджетные затраты на работу. Для этого используйте окно **Рабочее задание — строки**.
 
-1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Работы**, а затем выберите связанную ссылку.  
+1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Работы**, затем выберите связанную ссылку.  
 2. Откройте соответствующую работу.
 3. Выделите строку задачи типа "Учет", затем выберите действие **Строки планирования работ**.
 4. На новой строке заполните поля, как требуется. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]   

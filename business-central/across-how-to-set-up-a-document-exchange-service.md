@@ -8,20 +8,20 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: 
-ms.date: 06/08/2018
+ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: e73c2dd0533aade4aa6225c9d2f385baaea3cfd1
-ms.openlocfilehash: 0e57f02f1689de12e75595a26c489eeda68a4b89
+ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.openlocfilehash: d785dfd1a9c3879fc0ddfc79c7c254adbc2ddb52
 ms.contentlocale: ru-ru
-ms.lasthandoff: 06/11/2018
+ms.lasthandoff: 09/28/2018
 
 ---
 # <a name="set-up-a-document-exchange-service"></a>Настройка службы обмена документами
 Внешний поставщик службы используется для обмена электронными документами с деловыми партнерами. Дополнительные сведения см. в разделе [Электронный обмен данными](across-data-exchange.md).  
 
 ## <a name="to-set-up-a-document-exchange-service"></a>Настройка служб обмена документами  
-1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Настройка сервиса обмена документами**, а затем выберите связанную ссылку.  
+1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка сервиса обмена документами**, затем выберите связанную ссылку.  
 2. Заполните поля, как описано в следующей таблице.  
 
     |Поле|Описанием|  

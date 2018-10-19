@@ -10,13 +10,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: direct shipment
-ms.date: 01/25/2018
+ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: 4840cde44374f17dcbd2befb167bfdf6110fe6fe
+ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.openlocfilehash: 0fc9fee94f06b2452fa38a0a754f054a0ed16a0d
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 09/28/2018
 
 ---
 # <a name="make-drop-shipments"></a>Выполнение прямых поставок
@@ -49,14 +49,15 @@ ms.lasthandoff: 03/22/2018
 ## <a name="to-post-a-drop-shipment"></a>Учет прямой поставки
 После отгрузки товаров поставщиком можно учесть заказ на продажу как отгруженный. Можно также учесть заказ на покупку, но только с параметром **Получить**, пока не будет выставлен счет по заказу на продажу.
 
-1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Заказы на продажу**, а затем выберите связанную ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Заказы на продажу**, затем выберите связанную ссылку.
 2. Откройте заказ на продажу, созданный в разделе "Создание заказа на продажу по прямой поставке".
 3. В поле **Кол-во для отгрузки** укажите, какое количество из заказа следует доставить, полное или частичное количество по заказу.
 4. Выберите действие **Учесть** или **Учесть и отправить**.
 5. Выберите вариант **Отгрузить** (чтобы счет был выставлен позже) или вариант **Отгрузить и выставить счет** (чтобы счет был выставлен незамедлительно).
 
 ## <a name="see-also"></a>См. также
-[Создание специальных заказов](sales-how-to-create-special-orders.md)|  
+[Создание специальных заказов](sales-how-to-create-special-orders.md)  
+[Покупка товаров для продажи](purchasing-how-purchase-products-sale.md)  
 [Продажа продуктов](sales-how-sell-products.md)  
 [Регистрация покупок](purchasing-how-record-purchases.md)  
 [Продажи](sales-manage-sales.md)  

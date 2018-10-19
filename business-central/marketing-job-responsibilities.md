@@ -10,13 +10,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: task, to-do, relationship, prospect
-ms.date: 06/06/2017
+ms.date: 10/01/2018
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: e3917573a912a4e51416c4e926443c87513728fe
-ms.openlocfilehash: 7bab8449c957048e49b84eed53647e2921123fe7
+ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.openlocfilehash: b531cfcb024444e098363725a4e0098d4651396b
 ms.contentlocale: ru-ru
-ms.lasthandoff: 06/01/2018
+ms.lasthandoff: 09/28/2018
 
 ---
 # <a name="set-up-job-responsibilities-for-contact-persons"></a>Настройка должностных обязанностей для контактных лиц
@@ -27,7 +27,7 @@ ms.lasthandoff: 06/01/2018
 ## <a name="to-define-a-job-responsibility-code"></a>Определение кода должностной обязанности
 Код должностной обязанности определяет тип или категорию работы, например МАРКЕТИНГ или ЗАКУПКИ. Допускается наличие нескольких кодов должностных обязанностей. Для определения должностной обязанности используется окно **Должностные обязанности**.
 
-1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Должностные обязанности**, а затем выберите связанную ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Должностные обязанности**, затем выберите связанную ссылку.
 2. Выберите действие **Создать**, введите код и описание. Длина кода не должна превышать 11 знаков (допускается сочетание букв и цифр).
 
 ## <a name="to-assign-job-responsibilities-to-a-contact-person"></a>Назначение должностных обязанностей контактному лицу

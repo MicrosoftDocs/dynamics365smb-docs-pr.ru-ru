@@ -10,13 +10,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: 
-ms.date: 07/01/2017
+ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: 75f6883961f62b82ec751306693dd29a031b409c
+ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.openlocfilehash: fda754e366dab52ee2632fa9e959c8cd717e25b9
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 09/28/2018
 
 ---
 # <a name="design-details-inbound-warehouse-flow"></a>Сведения о проектировании: входящий складской поток
@@ -53,7 +53,7 @@ ms.lasthandoff: 03/22/2018
 ## <a name="basic-warehouse-configurations"></a>Базовые конфигурации склада  
 На следующей схеме показаны входящие складские потоки по типам документов в базовых конфигурациях склада. Номер на схеме соответствует шагам в разделах после схемы.  
 
-![Входящий поток в базовых конфигурациях склада](media/design_details_warehouse_management_inbound_basic_flow.png "design_details_warehouse_management_inbound_basic_flow")  
+![Входящий поток в базовых конфигурациях склада](media/design_details_warehouse_management_inbound_basic_flow.png "Входящий поток в базовых конфигурациях склада")  
 
 ### <a name="1-release-source-document--create-inventory-put-away"></a>1. Выпуск документа-источника / Создание размещения запасов  
 При получении товаров на складе ответственный пользователь издает документ-источник, например заказ на покупку или входящий заказ на перемещение, чтобы дать складским рабочим понять, что полученные товары можно размещать в запасах. В качестве альтернативы пользователь может создать документы размещения запасов для отдельных строк заказа в режиме распределения на основе указанных ячеек и количеств для обработки.  
@@ -72,7 +72,7 @@ ms.lasthandoff: 03/22/2018
 ## <a name="advanced-warehouse-configurations"></a>Расширенные конфигурации склада  
 На следующей схеме показан входящий складской поток по типу документов в расширенных конфигурациях склада. Номер на схеме соответствует шагам в разделах после схемы.  
 
-![Входящий поток в расширенных конфигурациях склада](media/design_details_warehouse_management_inbound_advanced_flow.png "design_details_warehouse_management_inbound_advanced_flow")  
+![Входящий поток в расширенных конфигурациях склада](media/design_details_warehouse_management_inbound_advanced_flow.png "Входящий поток в расширенных конфигурациях склада")  
 
 ### <a name="1-release-source-document"></a>1. Выпуск документа-источника  
 При получении товаров на складе ответственный пользователь издает документ-источник, например заказ на покупку или входящий заказ на перемещение, чтобы дать складским рабочим понять, что полученные товары можно размещать в запасах.  

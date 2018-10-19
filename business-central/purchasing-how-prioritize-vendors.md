@@ -10,13 +10,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: supplier, payment priority
-ms.date: 03/29/2017
+ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: f7834f0f99b775125425eb7209c3c648de4ccd1f
+ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.openlocfilehash: cb3556c9bd8fb893448d61c4e8f18131b96a9841
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 09/28/2018
 
 ---
 # <a name="prioritize-vendors"></a>Назначение приоритетов поставщикам
@@ -25,7 +25,7 @@ ms.lasthandoff: 03/22/2018
 Во-первых, следует назначить приоритеты поставщикам путем назначения им номеров.
 
 ## <a name="to-prioritize-vendors"></a>Назначение приоритета поставщикам
-1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Поставщики**, а затем выберите связанную ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Поставщики**, затем выберите связанную ссылку.
 2. Выберите соответствующего поставщика, а затем выберите **Правка**.
 3. В поле **Приоритет** введите номер.
 

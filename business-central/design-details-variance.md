@@ -10,13 +10,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: 
-ms.date: 07/01/2017
+ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: f01c57c3686764866c9d2a3c25d426e7f9a986a6
+ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
+ms.openlocfilehash: 36062fc6fa40c3fc2b928ffad7e3b242634149fc
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 09/28/2018
 
 ---
 # <a name="design-details-variance"></a>Сведения о проектировании: отклонение
@@ -40,7 +40,7 @@ ms.lasthandoff: 03/22/2018
 
  В следующей таблице показаны результирующие операции стоимости.  
 
- ![Расчет отклонения покупки](media/design_details_inventory_costing_11_purchase_variance.png "design_details_inventory_costing_11_purchase_variance")  
+ ![Расчет отклонения покупки](media/design_details_inventory_costing_11_purchase_variance.png "Расчет отклонения покупки")  
 
 ## <a name="determining-the-standard-cost"></a>Определение стандартной себестоимости  
  Стандартная стоимость используется при расчете вариации и капитализируемой суммы. Поскольку стандартную себестоимость можно изменять с течением времени в результате внесенных вручную обновлений расчета, необходимо указать точку во времени, когда стандартная себестоимость будет фиксированной для расчета отклонения. Это точка, когда выставляется счет на складской приход. В случае произведенных или собранных товаров стандартная себестоимость определяется при коррекции себестоимости.  
@@ -50,16 +50,16 @@ ms.lasthandoff: 03/22/2018
 |Доля себестоимости|Приобретенный товар|Произведенный или собранный товар|  
 |----------------|--------------------|------------------------------|  
 |**Стандартная себестоимость**||Одноуровневая стоимость материалов + одноур. стоимость произв. мощности + одноуровневая субподрядная себестоимость + одноуровневая себестоимость накладных расходов производственной мощности + одноуров. произ. накладные расходы|  
-|**Одноуровневая стоимость материалов**|Себестоимость единицы|![Уравнение 1](media/design_details_inventory_costing_11_equation_1.png "design_details_inventory_costing_11_equation_1")|  
-|**Одноур. стоимость произв. мощности**|Неприменимо|![Уравнение 2](media/design_details_inventory_costing_11_equation_2.png "design_details_inventory_costing_11_equation_2")|  
-|**Одноуровневая субподрядная себестоимость**|Неприменимо|![Уравнение 3](media/design_details_inventory_costing_11_equation_3.png "design_details_inventory_costing_11_equation_3")|  
-|**Одноуровневая себестоимость накладных расходов производственной мощности**|Неприменимо|![Уравнение 4](media/design_details_inventory_costing_11_equation_4.png "design_details_inventory_costing_11_equation_4")|  
+|**Одноуровневая стоимость материалов**|Себестоимость единицы|![Уравнение 1](media/design_details_inventory_costing_11_equation_1.png "Уравнение 1")|  
+|**Одноур. стоимость произв. мощности**|Неприменимо|![Уравнение 2](media/design_details_inventory_costing_11_equation_2.png "Уравнение 2")|  
+|**Одноуровневая субподрядная себестоимость**|Неприменимо|![Уравнение 3](media/design_details_inventory_costing_11_equation_3.png "Уравнение 3")|  
+|**Одноуровневая себестоимость накладных расходов производственной мощности**|Неприменимо|![Уравнение 4](media/design_details_inventory_costing_11_equation_4.png "Уравнение 4")|  
 |**Одноуров. произ. накладные расходы**|Неприменимо|(Одноуровневая стоимость материалов + одноуровневая стоимость производственной мощности + одноуровневая субподрядная себестоимость) * косвенные затраты % / 100 + норма накладных расходов|  
-|**Сведенная себест. материалов**|Себестоимость единицы|![Уравнение 5](media/design_details_inventory_costing_11_equation_5.png "design_details_inventory_costing_11_equation_5")|  
-|**Сведенная стоимость произв. мощностей**|Неприменимо|![Уравнение 6](media/design_details_inventory_costing_11_equation_6.png "design_details_inventory_costing_11_equation_6")|  
-|**Сведенная себест. субподряда**|Неприменимо|![Уравнение 7](media/design_details_inventory_costing_11_equation_7.png "design_details_inventory_costing_11_equation_7")|  
-|**Свернутая себестоимость накладных расходов по производственным мощностям**|Неприменимо|![Уравнение 8](media/design_details_inventory_costing_11_equation_8.png "design_details_inventory_costing_11_equation_8")|  
-|**Сведенная стоимость накладных расходов производства**|Неприменимо|![Уравнение 9](media/design_details_inventory_costing_11_equation_9.png "design_details_inventory_costing_11_equation_9")|  
+|**Сведенная себест. материалов**|Себестоимость единицы|![Уравнение 5](media/design_details_inventory_costing_11_equation_5.png "Уравнение 5")|  
+|**Сведенная стоимость произв. мощностей**|Неприменимо|![Уравнение 6](media/design_details_inventory_costing_11_equation_6.png "Уравнение 6")|  
+|**Сведенная себест. субподряда**|Неприменимо|![Уравнение 7](media/design_details_inventory_costing_11_equation_7.png "Уравнение 7")|  
+|**Свернутая себестоимость накладных расходов по производственным мощностям**|Неприменимо|![Уравнение 8](media/design_details_inventory_costing_11_equation_8.png "Уравнение 8")|  
+|**Сведенная стоимость накладных расходов производства**|Неприменимо|![Уравнение 9](media/design_details_inventory_costing_11_equation_9.png "Уравнение 9")|  
 
 ## <a name="see-also"></a>См. также  
  [Сведения о проектировании: себестоимость запасов](design-details-inventory-costing.md)   
