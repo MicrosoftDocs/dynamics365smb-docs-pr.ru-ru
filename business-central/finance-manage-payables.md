@@ -14,11 +14,12 @@ ms.topic: article
 ms.search.keywords: vendor payment, creditor, debt, balance due, AP
 ms.date: 10/01/2018
 ms.author: bholtorf
+redirect_url: finance-set-up-cost-accounting
 ms.translationtype: HT
-ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
-ms.openlocfilehash: 558d9cc314dec5ec8daaae42adf6b7efd443274b
+ms.sourcegitcommit: 67400e424305cc705db5c1bd52a8e4de17ecc5a9
+ms.openlocfilehash: cd46393c8e629b1d959c62c001680c692ea3c51f
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/28/2018
+ms.lasthandoff: 11/20/2018
 
 ---
 # <a name="managing-payables"></a><span data-ttu-id="1d64d-103">Управление кредиторской задолженностью</span><span class="sxs-lookup"><span data-stu-id="1d64d-103">Managing Payables</span></span>
@@ -35,7 +36,7 @@ ms.lasthandoff: 09/28/2018
 <span data-ttu-id="1d64d-113">В [!INCLUDE[d365fin](includes/d365fin_md.md)] предлагаются различные виды оплат поставщикам, например оплаты, которые должны быть произведены быстро, или оплаты, для которых возможны скидки.</span><span class="sxs-lookup"><span data-stu-id="1d64d-113">[!INCLUDE[d365fin](includes/d365fin_md.md)] can suggest various payments to vendors, such as payments that will be due soon, or payments where a discount is available.</span></span> <span data-ttu-id="1d64d-114">Предложение оплаты может принимать в расчет сумму, которая определена как сумма имеющихся фондов оплаты и как сумма, подходящая для скидок оплаты.</span><span class="sxs-lookup"><span data-stu-id="1d64d-114">The payment suggestion can consider an amount that you specify as available funds for payment, and eligibility for payment discounts.</span></span>
 
 ## <a name="issue-checks"></a><span data-ttu-id="1d64d-115">Выпуск платежных документов</span><span class="sxs-lookup"><span data-stu-id="1d64d-115">Issue Checks</span></span>
-[!INCLUDE[d365fin](includes/d365fin_md.md)] <span data-ttu-id="1d64d-116">позволяет выпускать платежные документы для поставщиков вручную и в электронном виде.</span><span class="sxs-lookup"><span data-stu-id="1d64d-116"> lets you issue checks to vendors manually and electronically.</span></span> <span data-ttu-id="1d64d-117">Оба способа доступны в окне **Журналы платежей**, в котором также можно аннулировать платежные документы и просмотреть операции с платежными документами.</span><span class="sxs-lookup"><span data-stu-id="1d64d-117">You do both in the **Payment Journals** window, where you can also void checks and view check ledger entries.</span></span>
+[!INCLUDE[d365fin](includes/d365fin_md.md)] <span data-ttu-id="1d64d-116">позволяет выпускать платежные документы для поставщиков вручную и в электронном виде.</span><span class="sxs-lookup"><span data-stu-id="1d64d-116">lets you issue checks to vendors manually and electronically.</span></span> <span data-ttu-id="1d64d-117">Оба способа доступны в окне **Журналы платежей**, в котором также можно аннулировать платежные документы и просмотреть операции с платежными документами.</span><span class="sxs-lookup"><span data-stu-id="1d64d-117">You do both in the **Payment Journals** window, where you can also void checks and view check ledger entries.</span></span>
 
 ## <a name="export-payments-to-a-bank-file"></a><span data-ttu-id="1d64d-118">Экспорт платежей в банковский файл</span><span class="sxs-lookup"><span data-stu-id="1d64d-118">Export Payments to a Bank File</span></span>
 <span data-ttu-id="1d64d-119">Когда все будет готово для осуществления платежей поставщику, в окне **Журнал платежей** можно экспортировать файл со сведениями о платежах из строк журнала.</span><span class="sxs-lookup"><span data-stu-id="1d64d-119">When you are ready to pay a vendor, from the **Payment Journal** window you can export a file with the payment information from the journal lines.</span></span> <span data-ttu-id="1d64d-120">Затем можно отправить файл в электронный банк для обработки денежных переводов.</span><span class="sxs-lookup"><span data-stu-id="1d64d-120">You can then upload the file to your electronic bank to process the money transfers.</span></span>

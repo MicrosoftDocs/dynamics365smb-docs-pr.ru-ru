@@ -10,13 +10,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: 
-ms.date: 10/01/2018
+ms.date: 11/12/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
-ms.openlocfilehash: 93207b1bbccd389c6a3e60b0587cdb0044bf2259
+ms.sourcegitcommit: 46a37fb00319647ea1c4b4630e4d9369687dd7cf
+ms.openlocfilehash: 1cec78cad8dca74e0a554ea183dae7a75c1b3451
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/28/2018
+ms.lasthandoff: 11/12/2018
 
 ---
 # <a name="design-details-item-tracking"></a><span data-ttu-id="2b047-103">Сведения о проектировании: трассировка товара</span><span class="sxs-lookup"><span data-stu-id="2b047-103">Design Details: Item Tracking</span></span>
@@ -25,12 +25,12 @@ ms.lasthandoff: 09/28/2018
 <span data-ttu-id="2b047-106">Система трассировки товаров должна предоставлять организации простые функции обработки серийных номеров и номеров партий, учитывая особенности каждой уникальной штуки товара: время и место получения, а также время и место продажи.</span><span class="sxs-lookup"><span data-stu-id="2b047-106">An item tracking system should provide a company with easy handling of serial and lot numbers, considering each unique piece of merchandise: when and where received, where stored, when and where sold.</span></span> <span data-ttu-id="2b047-107">В [!INCLUDE[d365fin](includes/d365fin_md.md)] постепенно были добавлены функции для выполнения этого бизнес-требования, и на данный момент программа предоставляет общие для приложений функциональные возможности и надежную базу для разработки расширений.</span><span class="sxs-lookup"><span data-stu-id="2b047-107">[!INCLUDE[d365fin](includes/d365fin_md.md)] has gradually expanded its coverage of this business requirement and today provides application-wide functionality and a solid core on which to develop extensions.</span></span>  
 
 ## <a name="in-this-section"></a><span data-ttu-id="2b047-108">В этом разделе</span><span class="sxs-lookup"><span data-stu-id="2b047-108">In This Section</span></span>  
-* [<span data-ttu-id="2b047-109">Сведения о проектировании: разработка трассировки товара</span><span class="sxs-lookup"><span data-stu-id="2b047-109">Design Details: Item Tracking Design</span></span>](design-details-item-tracking-design.md)  
-* [<span data-ttu-id="2b047-110">Сведения о проектировании: структура учета трассировки товаров</span><span class="sxs-lookup"><span data-stu-id="2b047-110">Design Details: Item Tracking Posting Structure</span></span>](design-details-item-tracking-posting-structure.md)  
-* [<span data-ttu-id="2b047-111">Сведения о проектировании: активные и исторические операции трассировки товаров</span><span class="sxs-lookup"><span data-stu-id="2b047-111">Design Details: Active versus Historic Item Tracking Entries</span></span>](design-details-active-versus-historic-item-tracking-entries.md)  
-* [<span data-ttu-id="2b047-112">Сведения о проектировании: окно "Строки трассировки товаров"</span><span class="sxs-lookup"><span data-stu-id="2b047-112">Design Details: Item Tracking Lines Window</span></span>](design-details-item-tracking-lines-window.md)  
-* [<span data-ttu-id="2b047-113">Сведения о проектировании: доступность трассировки товара</span><span class="sxs-lookup"><span data-stu-id="2b047-113">Design Details: Item Tracking Availability</span></span>](design-details-item-tracking-availability.md)  
-* [<span data-ttu-id="2b047-114">Сведения о проектировании: трассировка и планирование товара</span><span class="sxs-lookup"><span data-stu-id="2b047-114">Design Details: Item Tracking and Planning</span></span>](design-details-item-tracking-and-planning.md)  
-* [<span data-ttu-id="2b047-115">Сведения о проектировании: трассировка и резервирование товара</span><span class="sxs-lookup"><span data-stu-id="2b047-115">Design Details: Item Tracking and Reservations</span></span>](design-details-item-tracking-and-reservations.md)  
-* [<span data-ttu-id="2b047-116">Сведения о проектировании: трассировка товара на складе</span><span class="sxs-lookup"><span data-stu-id="2b047-116">Design Details: Item Tracking in the Warehouse</span></span>](design-details-item-tracking-in-the-warehouse.md)
+[<span data-ttu-id="2b047-109">Сведения о проектировании: разработка трассировки товара</span><span class="sxs-lookup"><span data-stu-id="2b047-109">Design Details: Item Tracking Design</span></span>](design-details-item-tracking-design.md)  
+[<span data-ttu-id="2b047-110">Сведения о проектировании: структура учета трассировки товаров</span><span class="sxs-lookup"><span data-stu-id="2b047-110">Design Details: Item Tracking Posting Structure</span></span>](design-details-item-tracking-posting-structure.md)  
+[<span data-ttu-id="2b047-111">Сведения о проектировании: активные и исторические операции трассировки товаров</span><span class="sxs-lookup"><span data-stu-id="2b047-111">Design Details: Active versus Historic Item Tracking Entries</span></span>](design-details-active-versus-historic-item-tracking-entries.md)  
+[<span data-ttu-id="2b047-112">Сведения о проектировании: окно "Строки трассировки товаров"</span><span class="sxs-lookup"><span data-stu-id="2b047-112">Design Details: Item Tracking Lines Window</span></span>](design-details-item-tracking-lines-window.md)  
+[<span data-ttu-id="2b047-113">Сведения о проектировании: доступность трассировки товара</span><span class="sxs-lookup"><span data-stu-id="2b047-113">Design Details: Item Tracking Availability</span></span>](design-details-item-tracking-availability.md)  
+[<span data-ttu-id="2b047-114">Сведения о проектировании: трассировка и планирование товара</span><span class="sxs-lookup"><span data-stu-id="2b047-114">Design Details: Item Tracking and Planning</span></span>](design-details-item-tracking-and-planning.md)  
+[<span data-ttu-id="2b047-115">Сведения о проектировании: трассировка и резервирование товара</span><span class="sxs-lookup"><span data-stu-id="2b047-115">Design Details: Item Tracking and Reservations</span></span>](design-details-item-tracking-and-reservations.md)  
+[<span data-ttu-id="2b047-116">Сведения о проектировании: трассировка товара на складе</span><span class="sxs-lookup"><span data-stu-id="2b047-116">Design Details: Item Tracking in the Warehouse</span></span>](design-details-item-tracking-in-the-warehouse.md)
 
