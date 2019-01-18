@@ -1,6 +1,6 @@
 ---
-title: "Прикрепление файлов к основным данным | Документы Майкрософт"
-description: "Добавляйте рисунки, документы или изображения к клиентам, поставщикам и другим основным записям, и разрешите прикреплять их также и к счетам."
+title: "Прикрепление файлов к картам и документам | Документы Майкрософт"
+description: "Можно прикреплять изображения, документы и файлы других типов ко всем карточкам, таким как карточки товаров и карточки заданий, а также можно прикреплять файлы ко всем типам документов покупки и продажи."
 author: edupont04
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -8,23 +8,28 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: 
-ms.date: 10/01/2018
+ms.date: 11/21/2018
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
-ms.openlocfilehash: 8f23bfb14e982cc38af67c091d9fc8e9ca2cc8ee
+ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
+ms.openlocfilehash: 02a590e3389e2453f146db6bac1c487c039f5177
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/28/2018
+ms.lasthandoff: 11/26/2018
 
 ---
-# <a name="attaching-documents-to-master-data"></a><span data-ttu-id="70af9-103">Прикрепление документов к основным данным</span><span class="sxs-lookup"><span data-stu-id="70af9-103">Attaching Documents to Master Data</span></span>
-<span data-ttu-id="70af9-104">Можно прикреплять рисунки, документы и изображения к товарам, клиентам, поставщикам, заданиям и ресурсам.</span><span class="sxs-lookup"><span data-stu-id="70af9-104">You can attach pictures, documents, or images to items, customers, vendors, jobs, and resources.</span></span> <span data-ttu-id="70af9-105">При необходимости можно также разрешить прикреплять вложения к документам продажи и покупки для этой основной записи.</span><span class="sxs-lookup"><span data-stu-id="70af9-105">Optionally, let the attachments be attached to sales and purchase documents for that master record as well.</span></span>  
+# <a name="attaching-files-to-cards-and-documents"></a><span data-ttu-id="235ff-103">Прикрепление файлов к картам и документам</span><span class="sxs-lookup"><span data-stu-id="235ff-103">Attaching Files to Cards and Documents</span></span>
+<span data-ttu-id="235ff-104">Можно прикреплять изображения, документы и файлы других типов ко всем карточкам, таким как карточки товаров и карточки заданий, а также можно прикреплять файлы ко всем типам документов покупки и продажи.</span><span class="sxs-lookup"><span data-stu-id="235ff-104">You can attach pictures, documents, and other types of files to all cards, such as the item card and job card, and you can attach files to all types of sales and purchase documents.</span></span>
 
-## <a name="adding-attachments"></a><span data-ttu-id="70af9-106">Добавление вложений</span><span class="sxs-lookup"><span data-stu-id="70af9-106">Adding Attachments</span></span>
+## <a name="to-attach-a-file-to-a-sales-order"></a><span data-ttu-id="235ff-105">Чтобы прикрепить файл к заказу на продажу.</span><span class="sxs-lookup"><span data-stu-id="235ff-105">To attach a file to a sales order.</span></span>
+<span data-ttu-id="235ff-106">Следующая процедура основана на заказе на продажу.</span><span class="sxs-lookup"><span data-stu-id="235ff-106">The following procedure is based on a sales order.</span></span> <span data-ttu-id="235ff-107">Шаги аналогичны всем остальным документам продажи и покупки, а также для всех карточек.</span><span class="sxs-lookup"><span data-stu-id="235ff-107">The steps are similar for all other sales and purchase documents and for all cards.</span></span>
 
+1. <span data-ttu-id="235ff-108">Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Заказы на продажу**, затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="235ff-108">Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Sales Orders**, and then choose the related link.</span></span>
+2. <span data-ttu-id="235ff-109">Откройте продажи, к которым требуется прикрепить файл.</span><span class="sxs-lookup"><span data-stu-id="235ff-109">Open the sales that you want to attach a file to.</span></span>
+3. <span data-ttu-id="235ff-110">Выберите действие **Вложения**.</span><span class="sxs-lookup"><span data-stu-id="235ff-110">Choose the **Attachments** action.</span></span>
+4. <span data-ttu-id="235ff-111">На странице **Вложенные документы** в поле **Вложение** нажмите кнопку **Выберите файл**.</span><span class="sxs-lookup"><span data-stu-id="235ff-111">On the **Attached Documents** page, in the **Attachment** field, choose the **Select File** button.</span></span>
+5. <span data-ttu-id="235ff-112">Выберите файл из любого расположения, затем нажмите кнопку **Открыть**.</span><span class="sxs-lookup"><span data-stu-id="235ff-112">Select a file from any location, and then choose the **Open** button.</span></span>
 
-## <a name="see-also"></a><span data-ttu-id="70af9-107">См. также</span><span class="sxs-lookup"><span data-stu-id="70af9-107">See Also</span></span>
-[<span data-ttu-id="70af9-108">Регистрация новых клиентов</span><span class="sxs-lookup"><span data-stu-id="70af9-108">Register New Customers</span></span>](sales-how-register-new-customers.md)  
-[<span data-ttu-id="70af9-109">Регистрация новых поставщиков</span><span class="sxs-lookup"><span data-stu-id="70af9-109">Register New Vendors</span></span>](purchasing-how-register-new-vendors.md)  
-[<span data-ttu-id="70af9-110">Регистрация новых товаров</span><span class="sxs-lookup"><span data-stu-id="70af9-110">Register New Items</span></span>](inventory-how-register-new-items.md)  
+## <a name="see-also"></a><span data-ttu-id="235ff-113">См. также</span><span class="sxs-lookup"><span data-stu-id="235ff-113">See Also</span></span>
+[<span data-ttu-id="235ff-114">Регистрация новых товаров</span><span class="sxs-lookup"><span data-stu-id="235ff-114">Register New Items</span></span>](inventory-how-register-new-items.md)  
+[<span data-ttu-id="235ff-115">Продажа продуктов</span><span class="sxs-lookup"><span data-stu-id="235ff-115">Sell Products</span></span>](sales-how-sell-products.md)
 

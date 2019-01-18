@@ -13,27 +13,27 @@ ms.search.keywords: year closing, close accounting period, close fiscal year, ba
 ms.date: 10/01/2018
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
-ms.openlocfilehash: 0a5eaa15fdfbc1d578d755b246b0304030a82b1c
+ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
+ms.openlocfilehash: cd555cc389ff7d9e306645475ef042f7ee9bc934
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/28/2018
+ms.lasthandoff: 11/26/2018
 
 ---
-# <a name="post-the-year-end-closing-entry"></a><span data-ttu-id="b6845-103">Учет операции закрытия года</span><span class="sxs-lookup"><span data-stu-id="b6845-103">Post the Year-End Closing Entry</span></span>
-<span data-ttu-id="b6845-104">После использования пакетного задания **Закрытие отчета о прибылях и убытках** для создания закрывающей операции (операций) на конец года необходимо открыть журнал, указанный для пакетного задания, и затем просмотреть и учесть записи.</span><span class="sxs-lookup"><span data-stu-id="b6845-104">After you use the **Close Income Statement** batch job to generate the year-end closing entry or entries, you must open the journal you specified in the batch job, and then review and post the entries.</span></span>
+# <a name="post-the-year-end-closing-entry"></a><span data-ttu-id="9cff1-103">Учет операции закрытия года</span><span class="sxs-lookup"><span data-stu-id="9cff1-103">Post the Year-End Closing Entry</span></span>
+<span data-ttu-id="9cff1-104">После использования пакетного задания **Закрытие отчета о прибылях и убытках** для создания закрывающей операции (операций) на конец года необходимо открыть журнал, указанный для пакетного задания, и затем просмотреть и учесть записи.</span><span class="sxs-lookup"><span data-stu-id="9cff1-104">After you use the **Close Income Statement** batch job to generate the year-end closing entry or entries, you must open the journal you specified in the batch job, and then review and post the entries.</span></span>
 
-## <a name="to-post-the-year-end-closing-entry"></a><span data-ttu-id="b6845-105">Учет операции закрытия года</span><span class="sxs-lookup"><span data-stu-id="b6845-105">To post the year end closing entry</span></span>
-1. <span data-ttu-id="b6845-106">Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Финансовый журнал**, затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="b6845-106">Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **General Journal**, and then choose the related link.</span></span>
-2. <span data-ttu-id="b6845-107">В окне **Финансовый журнал** в поле **Код раздела** выберите раздел, который содержит закрывающие операции.</span><span class="sxs-lookup"><span data-stu-id="b6845-107">In the **General Journal** window, in the **Batch Name** field, select the batch that contains the closing entries.</span></span>
-3. <span data-ttu-id="b6845-108">Проверьте записи.</span><span class="sxs-lookup"><span data-stu-id="b6845-108">Review the entries.</span></span>
-4. <span data-ttu-id="b6845-109">Чтобы учесть журнал, выберите действие **Учет**.</span><span class="sxs-lookup"><span data-stu-id="b6845-109">To post the journal, choose the **Post** action.</span></span>
+## <a name="to-post-the-year-end-closing-entry"></a><span data-ttu-id="9cff1-105">Учет операции закрытия года</span><span class="sxs-lookup"><span data-stu-id="9cff1-105">To post the year end closing entry</span></span>
+1. <span data-ttu-id="9cff1-106">Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Финансовый журнал**, затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="9cff1-106">Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **General Journal**, and then choose the related link.</span></span>
+2. <span data-ttu-id="9cff1-107">На странице **Финансовый журнал** в поле **Код раздела** выберите раздел, который содержит закрывающие операции.</span><span class="sxs-lookup"><span data-stu-id="9cff1-107">On the **General Journal** page, in the **Batch Name** field, select the batch that contains the closing entries.</span></span>
+3. <span data-ttu-id="9cff1-108">Проверьте записи.</span><span class="sxs-lookup"><span data-stu-id="9cff1-108">Review the entries.</span></span>
+4. <span data-ttu-id="9cff1-109">Чтобы учесть журнал, выберите действие **Учет**.</span><span class="sxs-lookup"><span data-stu-id="9cff1-109">To post the journal, choose the **Post** action.</span></span>
 
 > [!NOTE]  
->   <span data-ttu-id="b6845-110">При обнаружении ошибки отображается сообщение об ошибке.</span><span class="sxs-lookup"><span data-stu-id="b6845-110">If an error is detected, an error message is displayed.</span></span> <span data-ttu-id="b6845-111">Если учет выполнен успешно, система удалит учтенные записи из журнала.</span><span class="sxs-lookup"><span data-stu-id="b6845-111">If the posting is successful, the posted entries are removed from the journal.</span></span> <span data-ttu-id="b6845-112">После завершения учета запись учитывается во всех счетах прибылей и убытков, при этом ее сальдо становится нулевым, и результат года переносится в балансовый отчет.</span><span class="sxs-lookup"><span data-stu-id="b6845-112">After posting is complete, an entry is posted to each income statement account so that its balance becomes zero and the year's result is transferred to the balance sheet.</span></span>
+>   <span data-ttu-id="9cff1-110">При обнаружении ошибки отображается сообщение об ошибке.</span><span class="sxs-lookup"><span data-stu-id="9cff1-110">If an error is detected, an error message is displayed.</span></span> <span data-ttu-id="9cff1-111">Если учет выполнен успешно, система удалит учтенные записи из журнала.</span><span class="sxs-lookup"><span data-stu-id="9cff1-111">If the posting is successful, the posted entries are removed from the journal.</span></span> <span data-ttu-id="9cff1-112">После завершения учета запись учитывается во всех счетах прибылей и убытков, при этом ее сальдо становится нулевым, и результат года переносится в балансовый отчет.</span><span class="sxs-lookup"><span data-stu-id="9cff1-112">After posting is complete, an entry is posted to each income statement account so that its balance becomes zero and the year's result is transferred to the balance sheet.</span></span>
 
-## <a name="see-also"></a><span data-ttu-id="b6845-113">См. также</span><span class="sxs-lookup"><span data-stu-id="b6845-113">See Also</span></span>
-[<span data-ttu-id="b6845-114">Закрытие учетных периодов</span><span class="sxs-lookup"><span data-stu-id="b6845-114">Close Accounting Periods</span></span>](year-close-account-periods.md)  
-[<span data-ttu-id="b6845-115">Закрытие книг</span><span class="sxs-lookup"><span data-stu-id="b6845-115">Closing Books</span></span>](year-close-books.md)  
-[<span data-ttu-id="b6845-116">Закрытие отчета о прибылях и убытках</span><span class="sxs-lookup"><span data-stu-id="b6845-116">Close Income Statement</span></span>](year-close-income-statement.md)  
-<span data-ttu-id="b6845-117">[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="b6845-117">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>
+## <a name="see-also"></a><span data-ttu-id="9cff1-113">См. также</span><span class="sxs-lookup"><span data-stu-id="9cff1-113">See Also</span></span>
+[<span data-ttu-id="9cff1-114">Закрытие учетных периодов</span><span class="sxs-lookup"><span data-stu-id="9cff1-114">Close Accounting Periods</span></span>](year-close-account-periods.md)  
+[<span data-ttu-id="9cff1-115">Закрытие книг</span><span class="sxs-lookup"><span data-stu-id="9cff1-115">Closing Books</span></span>](year-close-books.md)  
+[<span data-ttu-id="9cff1-116">Закрытие отчета о прибылях и убытках</span><span class="sxs-lookup"><span data-stu-id="9cff1-116">Close Income Statement</span></span>](year-close-income-statement.md)  
+<span data-ttu-id="9cff1-117">[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="9cff1-117">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>
 
