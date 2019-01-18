@@ -13,10 +13,10 @@ ms.search.keywords: multiple currencies, payment, reconcile
 ms.date: 10/01/2018
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
-ms.openlocfilehash: f8216885adb734dde214570c65b5f6036caa37d2
+ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
+ms.openlocfilehash: 6d58c088c776a953cb76d102b7deeb3b8d69b42a
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/28/2018
+ms.lasthandoff: 11/26/2018
 
 ---
 # <a name="enable-application-of-ledger-entries-in-different-currencies"></a>Включение операций книги в разных валютах
@@ -24,7 +24,7 @@ ms.lasthandoff: 09/28/2018
 
 Аналогично, если продажа клиенту осуществляется в одной валюте, а оплата от него поступает в другой валюте, оплату можно применить к счету продажи.
 
-Далее описывается процедура настройки для операций книги поставщиков в окне **Настройка модуля "Покупки"**. Настройка аналогична для операций книги клиентов в **Настройка модуля "Продажи"**.
+Далее описывается процедура настройки для операций книги поставщиков на странице **Настройка модуля "Покупки"**. Настройка аналогична для операций книги клиентов на странице **Настройка модуля "Продажи"**.
 
 ## <a name="to-enable-application-of-vendor-ledger-entries-in-different-currencies"></a>Включение применения операций книги поставщиков в различных валютах
 1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка модуля "Покупки"**, затем выберите связанную ссылку.

@@ -11,10 +11,10 @@ ms.search.keywords: account schedule, analysis, reporting, financial report, bus
 ms.date: 10/01/2018
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
-ms.openlocfilehash: eae7e97ec122b91a479ad956176a0b34b269bcb6
+ms.sourcegitcommit: caf7cf5afe370af0c4294c794c0ff9bc8ff4c31c
+ms.openlocfilehash: 26fe722a863ada2bcd017e2bc614b976a7119a25
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/28/2018
+ms.lasthandoff: 11/22/2018
 
 ---
 # <a name="enabling-your-business-data-for-power-bi"></a>Включение бизнес-данных для Power BI
@@ -49,7 +49,7 @@ ms.lasthandoff: 09/28/2018
 
 Можно также начать работать из Dynamics 365 Business Edition. Из ролевого центра перейдите к пункту **Выбор отчета** части ролевого центра Power BI. Выберите на ленте **Сервис** или **Моя организация**. Когда выбрано одно из этих действий, производится переход к галерее "Организация" в Power BI или к библиотеке сервисов в Power BI, которые также будут отфильтрованы для отображения только соответствующих пакетов, имеющих отношение к [!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)].
 
-2. В поле **Службы** выберите **Получить**. Откроется окно **AppSource** и **Приложения для приложений Power BI**.  
+2. В поле **Службы** выберите **Получить**. Откроется страница **AppSource** и **Приложения для приложений Power BI**.  
 ![Выбор пакетов содержимого из веб-служб](./media/across-how-to-connect-powerbi-d365-content-packs/powerbi-online-services-get.png)
 3. Выберите **Приложения** на вкладке **Приложения для приложений Power BI**, выберите требуемый пакет содержимого **Microsoft Dynamics 365 Business Central** и щелкните **Получить сейчас**.  
 ![Выберите Dynamics 365 Business Central и выберите "Получить сейчас"](./media/across-how-to-connect-powerbi-d365-content-packs/powerbi-dynamics365-for-financials-get-it-now.png)

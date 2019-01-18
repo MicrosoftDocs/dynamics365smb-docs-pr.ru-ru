@@ -9,17 +9,20 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: workflow, Odata, Power App, SOAP
-ms.date: 10/01/2018
+ms.date: 10/16/2018
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
-ms.openlocfilehash: f7ae293942318c682202a84f0a54ae8b0516c77b
+ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
+ms.openlocfilehash: 6f79bd9a5e3f79d4366a1a43411fe39942ac4e4f
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/28/2018
+ms.lasthandoff: 11/26/2018
 
 ---
 # <a name="using-included365finincludesd365finmdmd-in-an-automated-workflow"></a>Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] в автоматическом бизнес-процессе
-Можно использовать данные [!INCLUDE[d365fin](includes/d365fin_md.md)] как часть рабочего процесса в Microsoft Flow.  
+Можно использовать данные [!INCLUDE[d365fin](includes/d365fin_md.md)] как часть рабочего процесса в Microsoft Flow.
+
+> [!NOTE]
+> В дополнение к Microsoft Flow, можно использовать функцию рабочего процесса в [!INCLUDE[d365fin](includes/d365fin_md.md)]. Обратите внимание, что хотя это две отдельных системы рабочих процессов, любой шаблон Flow, созданный в Microsoft Flow, добавляется в список шаблонов рабочих процессов в [!INCLUDE[d365fin](includes/d365fin_md.md)]. Дополнительные сведения см. в разделе [Рабочий процесс](across-workflow.md).  
 
 > [!NOTE]  
 >   Вы должны иметь допустимую учетную запись в [!INCLUDE[d365fin](includes/d365fin_md.md)] и в Flow.  
@@ -28,7 +31,7 @@ ms.lasthandoff: 09/28/2018
 1. В браузере перейдите к [flow.microsoft.com](https://flow.microsoft.com/en-us/) и выполните вход.
 2. Выберите **Мои Flow** в ленте вверху страницы.
 3. Предусмотрено 2 способа создания потока Flow; **Создать из шаблона** и **Создать новый**. Шаблон представляет собой предопределенный поток Flow, уже созданный для пользователя.  Чтобы использовать шаблон, просто выберите его и создайте подключение для каждого сервиса, используемого шаблоном. Пустой шаблон позволяет создать полностью новый поток Flow.
-4. Чтобы создать полностью новый поток, в окне **Мои Flow** выберите вариант **Создать новый**.
+4. Чтобы создать полностью новый поток, на странице **Мои Flow** выберите вариант **Создать новый**.
 5. Найдите соединитель **Microsoft [!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)]**.
 6. Из списка доступных триггеров выберите один из доступных триггеров [!INCLUDE[d365fin](includes/d365fin_md.md)]:  
     *Если запрашивается утверждение клиента*  
@@ -58,9 +61,6 @@ ms.lasthandoff: 09/28/2018
     *Запросить утверждение раздела финансового журнала Microsoft [!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)]*.  
     *Запросить утверждение строк финансового журнала Microsoft [!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)]*.  
 11. Поток предложит вам выбрать организацию с вашем арендаторе [!INCLUDE[d365fin_md](includes/d365fin_md.md)]. Поскольку каждый этап в потоке не зависит от следующего, при использовании шаблона Flow [!INCLUDE[d365fin_md](includes/d365fin_md.md)] может потребоваться определить организацию несколько раз.
-
-> [!NOTE]  
-> Шаблон Flow [!INCLUDE[d365fin_md](includes/d365fin_md.md)] интегрируется с базовым механизмом обработки бизнес-процессов [!INCLUDE[d365fin_md](includes/d365fin_md.md)]. Это означает, что каждый раз, когда вы используете один из шаблонов для создания потока, создается соответствующий бизнес-процесс в [!INCLUDE[d365fin_md](includes/d365fin_md.md)]. Кроме того, пользователя, создающего поток, следует настроить как утверждающего в руководстве мастера настройки. Дополнительные сведения см. в разделе [Рабочий процесс](across-workflow.md).
 
 Дополнительные сведения см. в разделе [Документация Flow](https://docs.microsoft.com/en-us/flow/getting-started).
 

@@ -11,10 +11,10 @@ ms.search.keywords: business intelligence, KPI, Odata, Power App, SOAP, analysis
 ms.date: 10/01/2018
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
-ms.openlocfilehash: 0e0ac36bb83709b766d234e34297c2b721daabad
+ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
+ms.openlocfilehash: ca4c27eaa1fe66e9bee678d6ec197fee7b928bdd
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/28/2018
+ms.lasthandoff: 11/26/2018
 
 ---
 # <a name="using-included365finlongmdincludesd365finlongmdmd-as-power-bi-data-source-for-building-reports"></a>Использование [!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)] как источника данных Power BI для создания отчетов
@@ -24,10 +24,10 @@ ms.lasthandoff: 09/28/2018
 
 ## <a name="to-add-included365finlongmdincludesd365finlongmdmd-as-a-data-source-in-power-bi-desktop"></a>Добавление [!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)] как источника данных в Power BI Desktop
 1. В Power BI Desktop в левой области навигации выберите **Получить данные**.
-2. В окне **Получить данные** выберите **Веб-службы**, выберите **Microsoft Dynamics 365 Business Central**, затем нажмите кнопку **Подключиться**.
+2. На странице **Получить данные** выберите **Веб-службы**, выберите **Microsoft Dynamics 365 Business Central**, затем нажмите кнопку **Подключиться**.
 3. Power BI отобразит мастер с руководством по [процессу подключения](across-how-to-connect-powerbi-dynamics-365-content-packs-help.md). Будет предложено выполнить вход в службу. Выберите **Войти** и выберите учетную запись для входа. Это должна быть та же учетная запись, которая использовалась для входа в [!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)].
 4. Нажмите кнопку **Подключиться**, чтобы продолжить. Мастер Power BI отобразит список организаций и источников данных Microsoft [!INCLUDE[d365fin](includes/d365fin_md.md)]. Эти источники данных представляют все веб-службы, которые вы опубликовали из каждой организации в Microsoft [!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)].
-5. Либо создайте новый URL-адрес веб-службы в [!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)], используя действие **Создать набор данных** в окне **Веб-службы** с помощью руководства по сопровождаемой настройке **Настройка отчетов** либо используя действие **Изменить в Excel** в любом списке.
+5. Либо создайте новый URL-адрес веб-службы в [!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)], используя действие **Создать набор данных** на странице **Веб-службы** с помощью руководства по сопровождаемой настройке **Настройка отчетов** либо используя действие **Изменить в Excel** в любом списке.
 6. Укажите данные, которые требуется добавить в модель данных, а затем нажмите кнопку **Загрузить**.
 7. Повторите предыдущие шаги для добавления дополнительных данных Microsoft [!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)] или других данных в модель данных Power BI.
 

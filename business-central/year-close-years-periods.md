@@ -13,10 +13,10 @@ ms.search.keywords: year closing, close accounting period, close fiscal year, ba
 ms.date: 10/01/2018
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: 7b125edfcfd5e03882568b8ab6eb264418f15bef
+ms.sourcegitcommit: caf7cf5afe370af0c4294c794c0ff9bc8ff4c31c
+ms.openlocfilehash: 8ecd532a043ad53b7a1d5d6c38e87a7102407003
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 11/22/2018
 
 ---
 # <a name="closing-years-and-periods"></a>Закрытие года и периодов
@@ -26,6 +26,7 @@ ms.lasthandoff: 03/22/2018
 
 | По | Ссылка |
 | --- | --- |
+| Определите финансовый год и разделите его на периоды времени, для которых требуется отчетность о финансовых показателях. | [Работы с учетными периодами и финансовыми годами](finance-accounting-periods-and-fiscal-years.md)|
 | Укажите системные и пользовательские диапазоны дат учета. В зависимости от потребностей бизнеса можно ограничить пользовательские диапазоны дат учета в начале процесса завершения периода или после него. |[Задание учетных периодов](finance-how-specify-posting-periods.md) |
 | Получите обзор действий, которые обычно выполняются в конце периода, например учет всех документов и журналов или формирование финансовых отчетов. |[Закрытие периодов](year-how-complete-period-end-processes.md) |
 | Обновление валютных курсов и их коррекция для учтенных операций по клиентам, поставщикам и банковским счетам. |[Обновление валютных курсов](finance-how-update-currencies.md) |

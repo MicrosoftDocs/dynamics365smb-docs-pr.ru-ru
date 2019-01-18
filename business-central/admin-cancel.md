@@ -11,10 +11,10 @@ ms.search.keywords: remove, delete
 ms.date: 10/01/2018
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
-ms.openlocfilehash: 473b2fb8f20b30ce49265e6891a99291b663f6a8
+ms.sourcegitcommit: caf7cf5afe370af0c4294c794c0ff9bc8ff4c31c
+ms.openlocfilehash: 3da4de9eee04f240d88d4128fefe273999f20cfc
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/28/2018
+ms.lasthandoff: 11/22/2018
 
 ---
 # <a name="unsubscribe-remove-or-reset-included365finincludesd365finmdmd"></a>Отмена подписки, удаление или сброс [!INCLUDE[d365fin](includes/d365fin_md.md)]
@@ -38,7 +38,7 @@ ms.lasthandoff: 09/28/2018
 Если вы зарегистрировались на [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью учетной записи, не являющейся деловой учетной записью Office 365, у вас нет администратора Office 365. Вместо этого следует отменить подписку, связавшись с отделом отмены [!INCLUDE[d365fin](includes/d365fin_md.md)] путем отправки сообщения электронной почты по адресу cancelbusinesscentra@microsoft.com. Вы должны указать имя своего арендатора [!INCLUDE[d365fin](includes/d365fin_md.md)] в сообщении, чтобы мы могли идентифицировать вас. Самый простой способ сделать это — скопировать URL-адрес со своей домашней страницы [!INCLUDE[d365fin](includes/d365fin_md.md)].  
 
 ## <a name="resetting-your-included365finincludesd365finmdmd-experience"></a>Сброс [!INCLUDE[d365fin](includes/d365fin_md.md)]
-Если вы добавили данные в свою бесплатную пробную версию [!INCLUDE[d365fin](includes/d365fin_md.md)] и хотите начать с нуля, вы можете создать новую организацию, а затем сбросить первую организацию. Если открыть окно **Организации**, можно создать копию текущей организации, выйти, а затем войти в новую организацию и сбросить исходную организацию.  
+Если вы добавили данные в свою бесплатную пробную версию [!INCLUDE[d365fin](includes/d365fin_md.md)] и хотите начать с нуля, вы можете создать новую организацию, а затем сбросить первую организацию. Если открыть страницу **Организации**, можно создать копию текущей организации, выйти, а затем войти в новую организацию и сбросить исходную организацию.  
 > [!NOTE]  
 >   При сбросе организации, которую вы совместно используете с другими людьми в своей компании, вы должны убедиться, что другие пользователи не находятся в системе в момент сброса организации.  
 

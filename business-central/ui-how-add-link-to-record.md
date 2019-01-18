@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 10/01/2018
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
-ms.openlocfilehash: c2e70ad534a28cf5062e9e54a2dfbd3af6afaa39
+ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
+ms.openlocfilehash: 8927d2ca670b3faa38cd03ea10ae524e595721ad
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/28/2018
+ms.lasthandoff: 11/26/2018
 
 ---
 # <a name="adding-links-to-websites-documents-or-programs-on-records"></a>Добавление в записи ссылок на веб-сайты, документы или программы
@@ -26,7 +26,7 @@ ms.lasthandoff: 09/28/2018
 
 1.  Откройте запись, в которую требуется вложить ссылку, например карточку клиента или заказ на продажу. Если нужно вложить ссылку в конкретную строку, например строку журнала, выделите эту строку.  
 
-2.  Выберите действие **Ссылки**, чтобы открыть окно **Ссылки**, в котором отображаются все текущие ссылки, которые добавлены в запись.
+2.  Выберите действие **Ссылки**, чтобы открыть страницу **Ссылки**, в котором отображаются все текущие ссылки, которые добавлены в запись.
 
 3. Чтобы добавить новую ссылку, выберите **+создать**.
 
@@ -43,7 +43,7 @@ ms.lasthandoff: 09/28/2018
 
 ## <a name="to-delete-a-link-from-a-record"></a>Удаление ссылки из записи  
 
-Чтобы удалить ссылку, можно в окне **Ссылки** выбрать **...**, затем **Удалить**.
+Чтобы удалить ссылку, можно на странице **Ссылки** выбрать **...**, затем **Удалить**.
 
 При удалении одной записи, например строки заказа на продажу, заказа на продажу или клиента, будут удалены все ссылки, вложенные в эту запись. Однако если записи удаляются с помощью пакетного задания, например пакетного задания **Удаление заказов на продажу, по которым выставлены счета**, то ссылки будут по-прежнему храниться в базе данных. Чтобы удалить их из базы данных, необходимо запустить модуль Codeunit **Удаление зависших ссылок на записи**. Чтобы сделать это, выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Удаление зависших ссылок на записи**, затем выберите связанную ссылку.   
 
@@ -51,7 +51,7 @@ ms.lasthandoff: 09/28/2018
 
 1.  Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Data Deletion**, and then choose the related link.  
 
-2.  In the **Data Deletion** window, choose **Tasks**, and then choose **Delete Orphaned Record Links**.  -->
+2.  On the **Data Deletion** page, choose **Tasks**, and then choose **Delete Orphaned Record Links**.  -->
 
 ## <a name="see-also"></a>См. также  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  

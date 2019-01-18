@@ -13,14 +13,14 @@ ms.search.keywords:
 ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
-ms.openlocfilehash: dd1bfde6dcffffa65ab58591d891a9f8b179a7eb
+ms.sourcegitcommit: caf7cf5afe370af0c4294c794c0ff9bc8ff4c31c
+ms.openlocfilehash: 5a740651cd2413415076f2a29726793f0c36db02
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/28/2018
+ms.lasthandoff: 11/22/2018
 
 ---
 # <a name="view-load-on-work-and-machine-centers"></a>Просмотр загрузки производственных и машинных центров
-В окнах **Карточка производственного центра** и **Карточка машинного центра** можно просмотреть загрузку цеха как результат запланированных и запущенных производственных заказов.    
+На страницах **Карточка производственного центра** и **Карточка машинного центра** можно просмотреть загрузку цеха как результат запланированных и запущенных производственных заказов.    
 
 ## <a name="to-view-the-load-on-work-centers"></a>Просмотр загрузки рабочих центров  
 1.  Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Рабочие центры**, затем выберите связанную ссылку.  

@@ -11,10 +11,10 @@ ms.search.keywords: online payment
 ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
-ms.openlocfilehash: 883eb47f59a060befc67bdb702053810517fb5a2
+ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
+ms.openlocfilehash: eac58a651989fff8b1d2cc6b6dbed2a380ae8ef8
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/28/2018
+ms.lasthandoff: 11/26/2018
 
 ---
 # <a name="enable-customer-payments-through-payment-services"></a>Включение платежей клиентов через службу платежей
@@ -26,11 +26,11 @@ ms.lasthandoff: 09/28/2018
 
 ## <a name="to-enable-a-payment-service-in-included365finincludesd365finmdmd"></a>Включение службы платежей в [!INCLUDE[d365fin](includes/d365fin_md.md)]
 1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Службы платежей**, затем выберите связанную ссылку.  
-2. В окне **Службы платежей** выберите действие **Создать**.  
-3. Выберите службу платежей, а затем закройте окно.  
-4. В окне **Службы платежей** выберите действие **Настройка**.  
+2. На странице **Службы платежей** выберите действие **Создать**.  
+3. Выберите службу платежей, затем закройте страницу.  
+4. На странице **Службы платежей** выберите действие **Настройка**.  
 5. Заполните соответствующим образом поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
-6. Закройте данное окно.  
+6. Закройте страницу.  
 
 ## <a name="to-select-a-payment-service-on-a-sales-invoice"></a>Выбор службы платежей в счете продажи
 1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Счета продажи**, затем выберите связанную ссылку.  

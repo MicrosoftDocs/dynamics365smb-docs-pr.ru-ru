@@ -13,10 +13,10 @@ ms.search.keywords:
 ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
-ms.openlocfilehash: dea237fa837b34e565d9df6156ae6bbfb8508ee6
+ms.sourcegitcommit: caf7cf5afe370af0c4294c794c0ff9bc8ff4c31c
+ms.openlocfilehash: 53bf1355c9f7b1d5727e6e63f89a7d2db56cfc48
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/28/2018
+ms.lasthandoff: 11/22/2018
 
 ---
 # <a name="put-items-away-with-warehouse-put-aways"></a>Размещение товаров с помощью складских размещений
@@ -72,7 +72,7 @@ ms.lasthandoff: 09/28/2018
     Если поле **Статус документа** пустое, приходная накладная не была размещена. В противном случае в поле отмечено, что поступление является частичным или полным размещением.  
 
 4.  Если приходная накладная частично размещена или совсем не размещена, выберите действие **Создать размещение**.  
-5.  Заполните окно запроса пакетного задания и нажмите кнопку **ОК**.   
+5.  Заполните страницу запроса пакетного задания и нажмите кнопку **ОК**.   
 
 ## <a name="see-also"></a>См. также  
 [Управление складом](warehouse-manage-warehouse.md)  

@@ -13,10 +13,10 @@ ms.search.keywords: warehouse, distribution center
 ms.date: 10/01/2018
 ms.author: SorenGP
 ms.translationtype: HT
-ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
-ms.openlocfilehash: 503655e65b7df83c89e52d76a22396b672b2d28e
+ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
+ms.openlocfilehash: 828979bf181f1cd7f7a66d2c7c8ac8a2700b732b
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/28/2018
+ms.lasthandoff: 11/26/2018
 
 ---
 # <a name="set-up-locations"></a>Настройка складов
@@ -27,7 +27,7 @@ ms.lasthandoff: 09/28/2018
 ## <a name="to-create-a-location-card"></a>Создание карточки склада
 1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Склады**, затем выберите связанную ссылку.
 2. Выберите действие **Создать**.
-3. В окне **Карточка склада** заполните требуемые поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
+3. На странице **Карточка склада** заполните требуемые поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 4. Повторите шаги 2 и 3 для каждого склада, на котором необходимо хранить запасы.
 
 > [!NOTE]  
@@ -35,9 +35,9 @@ ms.lasthandoff: 09/28/2018
 
 ## <a name="to-create-a-transfer-route"></a>Создание маршрута перемещения
 1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Маршруты перемещения**, затем выберите связанную ссылку.
-2. Либо в любом окне **Карточка склада** выберите действие **Маршруты перемещения**.
+2. Либо на любой странице **Карточка склада** выберите действие **Маршруты перемещения**.
 3. Выберите действие **Создать**.
-4. В окне **Карточка склада** заполните требуемые поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
+4. На странице **Карточка склада** заполните требуемые поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 
 Теперь вы можете перемещать складские товары между складами. Дополнительные сведения см. в разделе [Перемещение запасов между складами](inventory-how-transfer-between-locations.md).    
 

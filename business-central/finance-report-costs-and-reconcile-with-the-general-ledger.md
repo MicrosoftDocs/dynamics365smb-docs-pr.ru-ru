@@ -13,10 +13,10 @@ ms.search.keywords:
 ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: e8072a9e21349f3a8e8f9d21f5b011bae72a69e0
+ms.sourcegitcommit: caf7cf5afe370af0c4294c794c0ff9bc8ff4c31c
+ms.openlocfilehash: 1b2a83ddbac54d5034b043c3124f698613be4642
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 11/22/2018
 
 ---
 # <a name="reporting-costs-and-reconciling-with-the-general-ledger"></a>Отчет о затратах и выверка с главной книгой
@@ -31,7 +31,7 @@ ms.lasthandoff: 03/22/2018
 |Просмотр стоимости запасов для выбранных товаров, включая их фактическую и ожидаемую себестоимость на заданную дату.|Отчет **Оценка запасов - специф. себест.**|  
 |Использование отчета для анализа причин отклонения себестоимости или анализа доли себестоимости для проданных товаров (себестоимости продажи).|Отчет **Анализ структуры себестоимости**|  
 |Периодический учет операций стоимости транзакций товаров из книги инвентаризации в связанных счетах ГК для выверки двух книг.|[Выверка себестоимости товаров с главной книгой](finance-how-to-post-inventory-costs-to-the-general-ledger.md)|  
-|Использование одного окна для аудита выверки книги инвентаризации и главной книги.|[Выверка себестоимости товаров с главной книгой](finance-how-to-post-inventory-costs-to-the-general-ledger.md)|  
+|Использование одной страницы для аудита выверки книги инвентаризации и главной книги.|[Выверка себестоимости товаров с главной книгой](finance-how-to-post-inventory-costs-to-the-general-ledger.md)|  
 |Определение суммы НЗП, которую необходимо учесть в балансовых счетах для отчетности по завершении периода.|[Отслеживание хода выполнения работ и производительности](projects-how-monitor-progress-performance.md)|
 
 ## <a name="see-also"></a>См. также  

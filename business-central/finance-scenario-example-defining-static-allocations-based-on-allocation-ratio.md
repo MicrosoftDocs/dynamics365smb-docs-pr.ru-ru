@@ -12,11 +12,12 @@ ms.workload: na
 ms.search.keywords: 
 ms.date: 10/01/2018
 ms.author: sgroespe
+redirect_url: finance-define-and-allocate-costs
 ms.translationtype: HT
-ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
-ms.openlocfilehash: 036aa1f317c1b1de7fc1548e03d40eca8c25be89
+ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
+ms.openlocfilehash: d35fd5de7a0583c3864268d0749384322bf947ed
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/28/2018
+ms.lasthandoff: 11/26/2018
 
 ---
 # <a name="scenario-example-defining-static-allocations-based-on-allocation-ratio"></a>Пример сценария. Определение статических распределений на основе отношения распределений
@@ -30,7 +31,7 @@ ms.lasthandoff: 09/28/2018
 ## <a name="to-define-the-allocation-source-prod-cost-center-on-the-general-fasttab"></a>Определение места возникновения затрат ПРОД по источнику распределения на экспресс-вкладке "Общее"  
 
 1.  Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Распределение затрат**, затем выберите связанную ссылку.  
-2.  В окне **Распределение затрат** выберите действие **Создать**.  
+2.  На странице **Распределение затрат** выберите действие **Создать**.  
 3.  В поле **ИД** нажмите кнопку ВВОД или введите идентификатор.  
 4.  В поле **Уровень** введите **1**.  
 5.  В полях **Действительно с** и **Действительно по** введите соответствующие даты.  
@@ -59,8 +60,5 @@ ms.lasthandoff: 09/28/2018
 >  [!INCLUDE[d365fin](includes/d365fin_md.md)] автоматически вычисляет поле **Процент** с помощью процента, который зависит от всех трех соотношений распределения, которые вводятся в поле **Доля** для всех трех строк.  
 
 ## <a name="see-also"></a>См. также  
-[Настройка источника и целей распределения](finance-how-to-set-up-allocation-source-and-targets.md)   
 [Определение и распределение затрат](finance-define-and-allocate-costs.md)   
-[Пример сценария. Определение динамических распределений на основе проданных товаров](finance-scenario-example-defining-dynamic-allocations-based-on-items-sold.md)   
-[Определение и распределение затрат](finance-define-and-allocate-costs.md)
 

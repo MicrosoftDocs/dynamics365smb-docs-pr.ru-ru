@@ -13,10 +13,10 @@ ms.search.keywords:
 ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
-ms.openlocfilehash: 2865d938c9bde4a64898e48d0381ed73b8c94d6e
+ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
+ms.openlocfilehash: a82ce6867a86dcc5ba09949b7e7611550d744a83
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/28/2018
+ms.lasthandoff: 11/26/2018
 
 ---
 # <a name="set-up-bin-types"></a>Настройка типов ячеек
@@ -26,7 +26,7 @@ ms.lasthandoff: 09/28/2018
 
 ## <a name="to-set-up-the-bin-types-you-want-to-use"></a>Настройка необходимых типов ячеек  
 1.  Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Типы ячеек**, затем выберите связанную ссылку.  
-2.  В окне **Типы ячейки** создайте код из десяти символов для типа ячейки.  
+2.  На странице **Типы ячейки** создайте код из десяти символов для типа ячейки.  
 3.  Выберите действия, которые можно выполнить с каждым типом ячейки.  
 
 > [!NOTE]  

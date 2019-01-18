@@ -13,10 +13,10 @@ ms.search.keywords:
 ms.date: 11/12/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: bdf0ab2dc31a9060bb50088e57eece26ee671985
+ms.sourcegitcommit: caf7cf5afe370af0c4294c794c0ff9bc8ff4c31c
+ms.openlocfilehash: 1dce0ea658a2083c3d896fe6324751f63aabce06
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 11/22/2018
 
 ---
 # <a name="design-details-item-tracking"></a>Сведения о проектировании: трассировка товара
@@ -28,7 +28,7 @@ ms.lasthandoff: 03/22/2018
 [Сведения о проектировании: разработка трассировки товара](design-details-item-tracking-design.md)  
 [Сведения о проектировании: структура учета трассировки товаров](design-details-item-tracking-posting-structure.md)  
 [Сведения о проектировании: активные и исторические операции трассировки товаров](design-details-active-versus-historic-item-tracking-entries.md)  
-[Сведения о проектировании: окно "Строки трассировки товаров"](design-details-item-tracking-lines-window.md)  
+[Сведения о проектировании: — страница "Строки трассировки товаров"](design-details-item-tracking-lines-window.md)  
 [Сведения о проектировании: доступность трассировки товара](design-details-item-tracking-availability.md)  
 [Сведения о проектировании: трассировка и планирование товара](design-details-item-tracking-and-planning.md)  
 [Сведения о проектировании: трассировка и резервирование товара](design-details-item-tracking-and-reservations.md)  
