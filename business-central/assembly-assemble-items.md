@@ -10,13 +10,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: kit, kitting
-ms.date: 10/01/2018
+ms.date: 12/20/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: 4ce03eb7a3685f53869795ded646ef6917a1730a
+ms.sourcegitcommit: 5801fcc1284edfe1b8578518c084455c336d5a40
+ms.openlocfilehash: f40c0b422bfde2d3a186b4458c3780932934d497
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 12/27/2018
 
 ---
 # <a name="assembly-management"></a>Управление сборкой
@@ -43,6 +43,7 @@ ms.lasthandoff: 03/22/2018
 |Продавайте сборочные элементы, которых нет в данный момент в наличии, создавая связанный заказ на сборку для поставки полного или частичного количества по заказу на продажу.|[Продажа товара, собранного на заказ](assembly-how-to-sell-items-assembled-to-order.md)|
 |Если некоторые товары сборки на заказ уже находятся на складе, вычтите это количество из сборочного заказа и зарезервируйте его со склада.|[Продажа складских товаров в потоках сборки на заказ](assembly-how-to-sell-inventory-items-in-assemble-to-order-flows.md)|  
 |Если продаются сборочные элементы из запасов, и все товары недоступны, можно указать, чтобы сборочный заказ автоматически поставлял часть или все количество для заказа на продажу.|[Совместная продажа товаров, собираемых на заказ, и складских товаров](assembly-how-to-sell-assemble-to-order-items-and-inventory-items-together.md)|
+|Создавайте настраиваемые сборочные элементы для общих заказов на продажу до периодического создания заказов на продажу по договору общего заказа.|[Создание общих заказов на сборку](assembly-how-to-create-blanket-assembly-orders.md)|
 |Отмените учтенный заказ на сборку, например если заказ был учтен с ошибками, которые необходимо исправить.|[Отмена учета сборки](assembly-how-to-undo-assembly-posting.md)|
 |Узнайте о разнице между сборочными спецификациями и производственными спецификациями и отличиях в их обработке.|[Работа со спецификациями](inventory-how-work-BOMs.md)|
 |Узнайте о том, как потребление при сборке и выход обрабатываются при учете сборочных заказов и как производный товар и себестоимость ресурсов обрабатываются и распределяются в Главной книге.|[Сведения о проектировании: учет заказа на сборку](design-details-assembly-order-posting.md)|  
@@ -54,5 +55,4 @@ ms.lasthandoff: 03/22/2018
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 
 ## [!INCLUDE[d365fin](includes/free_trial_md.md)]  
- 
 

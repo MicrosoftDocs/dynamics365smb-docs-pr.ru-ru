@@ -8,13 +8,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: 
-ms.date: 11/08/2018
+ms.date: 01/24/2019
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 46a37fb00319647ea1c4b4630e4d9369687dd7cf
-ms.openlocfilehash: 26057b4838681b4b6036c4a56aab4fd6d49ac1dd
+ms.sourcegitcommit: c129dd63b3aabeeac15c6684f961e04bd2b08a2a
+ms.openlocfilehash: 9b45c50d2c3e1f1b7eab8cb8269445d61523011b
 ms.contentlocale: ru-ru
-ms.lasthandoff: 11/12/2018
+ms.lasthandoff: 01/24/2019
 
 ---
 # <a name="administration"></a>Администрация
@@ -45,6 +45,7 @@ ms.lasthandoff: 11/12/2018
 |Можно отображать страницы, модули codeunit и запросы как веб-службы.|[Публикация веб-службы](across-how-publish-web-service.md)|
 |В рамках создания приложений-связей между [!INCLUDE[d365fin](includes/d365fin_md.md)] и сторонними решениями через API-интерфейсы REST определите шаблоны, которые используются для заполнения пустых свойств в объекте, при создании действия POST через API.|[Конфигурирование шаблонов API](admin-configuring-api-template.md)|
 |Можно зашифровать данные на [!INCLUDE[d365fin](includes/d365fin_md.md)] Server, создав новые или импортировав существующие ключи шифрования, включаемые на сервере.|[Управление шифрованием данных](admin-manage-data-encryption.md)|
+|Подключите Dynamics 365 for Sales к [!INCLUDE[d365fin](includes/d365fin_md.md)] для получения бесшовной интеграции между отношениями с клиентами и обработкой заказов в процессах от интереса до получения денег.|[Интеграция с Dynamics 365 for Sales](marketing-integrate-dynamicscrm.md)|
 
 ## <a name="see-also"></a>См. также
 [Функциональные бизнес-возможности](across-business-functionality.md)  

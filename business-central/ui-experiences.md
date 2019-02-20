@@ -9,13 +9,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: essential, basic, user interface, application area, experience
-ms.date: 10/01/2018
+ms.date: 02/04/2019
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
-ms.openlocfilehash: 9b9422fbbfec61fb4d5812ed02e2b76e74b6f8c8
+ms.sourcegitcommit: ce612d546349d05883016646fe14a35553c2f55a
+ms.openlocfilehash: 3317df5f54a359e5b143d5b288a378a350d49440
 ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
+ms.lasthandoff: 02/04/2019
 
 ---
 # <a name="changing-which-features-are-displayed"></a>Изменение набора отображаемых функций
@@ -35,7 +35,7 @@ ms.lasthandoff: 11/26/2018
 | **Премиум** |Показывает все действия и поля для всех бизнес-функций, включая управление производством и обслуживанием.|
 
 > [!NOTE]  
-> Взаимодействия, которые можно выбрать в [!INCLUDE[d365fin](includes/d365fin_md.md)], зависят от вашей лицензии, называемой планом. Сведения о планах **Основной** и **Премиум** см. в разделе [Business Central](https://go.microsoft.com/fwlink/?linkid=870242) на маркетинговом сайте Microsoft Dynamics 365. См. также [Руководство по лицензированию [!INCLUDE[d365fin](includes/d365fin_md.md)]](https://go.microsoft.com/fwlink/?LinkId=871590&clcid=0x409).
+> Взаимодействия, которые можно выбрать в [!INCLUDE[d365fin](includes/d365fin_md.md)], зависят от вашей лицензии, называемой планом. Сведения о планах **Основной** и **Премиум** см. в разделе [Business Central](https://go.microsoft.com/fwlink/?linkid=870242) на маркетинговом сайте Microsoft Dynamics 365. См. также [Руководство по лицензированию [!INCLUDE[d365fin](includes/d365fin_md.md)]](https://go.microsoft.com/fwlink/?linkid=2068931) (требуется доступ к CustomerSource или PartnerSource).
 
 > [!IMPORTANT]  
 > Все обычным пользователям решения должен быть назначен один и тот же план — Essential или Premium — прежде чем для компании можно будет выбрать соответствующую функциональность. Соответственно, один пользователь не может иметь доступ к функциональным компонентам Premium, если другой пользователь (или несколько других пользователей) имеют доступ только к функциональным компонентам Essential. Это не относится к пользователям типа "Член группы", "Внутренний администратор", "Внешний бухгалтер", "Делегированный администратор", который может быть назначен другой план, не такой, как остальным пользователям в решении.

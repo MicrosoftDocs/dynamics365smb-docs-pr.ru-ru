@@ -10,13 +10,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: 
-ms.date: 10/01/2018
+ms.date: 12/07/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: 16f444fa31e3d63a7d61567667184facf2c3a7d6
+ms.sourcegitcommit: 8a73de1aa2f4a0f633c401ea341bb7bde6579723
+ms.openlocfilehash: d7476674407dd505fafa8e82f3bfecc3aa5a5fee
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 12/11/2018
 
 ---
 # <a name="setting-up-a-company-with-rapidstart-services"></a>Настройка компании с помощью служб RapidStart Services
@@ -44,7 +44,8 @@ ms.lasthandoff: 03/22/2018
 |Разверните настроенный пакет для вашего клиента для реализации.|[Применение конфигураций к новым организациям](admin-apply-configuration-to-new-companies.md)|
 |Определите и проверьте значения настройки клиента для всех ключевых областей, таких как сведения об организации, главная книга, запасы, продажи или производство.|[Сбор значений настройки клиента](admin-gather-customer-setup-values.md)|  
 |Настройте записи основных данных ядра, используя шаблоны, чтобы подготовиться к миграции существующих данных по клиентам.|[Подготовка к миграции данных клиента](admin-use-templates-to-prepare-customer-data-for-migration.md)|  
-|Определите таблицы и поля, проверьте существующие данные клиента и выполните миграцию данных в базу данных [!INCLUDE[d365fin](includes/d365fin_md.md)].|[Миграция данных клиента](admin-migrate-customer-data.md)|  
+|Определите таблицы и поля, проверьте существующие данные клиента и выполните миграцию данных в базу данных [!INCLUDE[d365fin](includes/d365fin_md.md)].|[Миграция данных клиента](admin-migrate-customer-data.md)|
+|Подготовка к повторному использованию конфигураций организации в других организациях.|[Создание настраиваемых пакетов конфигурации организации](admin-how-to-create-custom-company-configuration-packages.md)|
 |Найдите решения известных проблем в наборе инструментов служб RapidStart Services.|[Советы и подсказки. Службы RapidStart Services](admin-tips-and-tricks-rapidstart-services.md)|  
 
 ## <a name="see-also"></a>См. также  

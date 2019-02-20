@@ -10,16 +10,16 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: 
-ms.date: 10/01/2018
+ms.date: 01/22/2019
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
-ms.openlocfilehash: 7e4a489b49c5a97cd0df077544a51c6ba73a4a85
+ms.sourcegitcommit: 5d6d2d9527e81a92987f6b8fcdbe8e087c3c537a
+ms.openlocfilehash: bb4941c948c2e4479ec36fdebee11f1d75e62c68
 ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
+ms.lasthandoff: 01/22/2019
 
 ---
-# <a name="pick-for-assembly-or-production-in-advanced-warehouse-configurations"></a>Подбор для сборки или производства в расширенных конфигурациях склада
+# <a name="pick-for-production-or-assembly-in-advanced-warehouse-configurations"></a>Подбор для производства или сборки в расширенных конфигурациях склада
 В расширенных конфигурациях склада, где склад настроен на использование подбора и отгрузки, можно выбрать компоненты для производственных и сборочных действий на странице **Складской подбор**.  
 
 Кроме того, можно использовать страницу **Журнал перемещений** для перемещения товаров между ячейками на ходу, то есть без ссылки на документ-источник. Дополнительные сведения см. в разделе [Перемещение товаров в расширенных конфигурациях склада](warehouse-how-to-move-items-in-advanced-warehousing.md).  

@@ -8,13 +8,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: availability, localization
-ms.date: 10/01/2018
+ms.date: 12/06/2018
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: d7664360941313da6ea0b797ef00df2e9810ad62
-ms.openlocfilehash: ffe2c700ed409a0881c94ddfd0157cf32141c60f
+ms.sourcegitcommit: 9d0836083f4e8506efbd077f9b0cd733b6dbf623
+ms.openlocfilehash: c7b581f7524199c33959756e858476aa9bbaac15
 ms.contentlocale: ru-ru
-ms.lasthandoff: 07/09/2018
+ms.lasthandoff: 02/01/2019
 
 ---
 # <a name="local-functionality-in-included365finlongincludesd365finlongmdmd"></a>Локальная функциональность в [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]
@@ -29,20 +29,23 @@ ms.lasthandoff: 07/09/2018
 | --- | --- |--- |
 | Европа |  | |
 |        | Австрия | [Функциональность локальной версии для Австрии](localfunctionality/austria/austria-local-functionality.md) |
-|        | Бельгия |  [Функциональность локальной версии для Австралии](localfunctionality/belgium/belgium-local-functionality.md) |
+|        | Бельгия |  [Функциональность локальной версии для Бельгии](localfunctionality/belgium/belgium-local-functionality.md) |
 |        | Дания | [Локальная функциональность в Дании](localfunctionality/denmark/denmark-local-functionality.md) |
 |        | Германия | [Функциональность локальной версии для Германии](localfunctionality/germany/germany-local-functionality.md) |
 |        | Финляндия | [Локальная функциональность для Финляндии](localfunctionality/finland/finland-local-functionality.md) |
 |        | Франция | [Локальная функциональность во Франции](localfunctionality/france/france-local-functionality.md) |
+|        | Исландия | [Локальная функциональность для Исландии](localfunctionality/iceland/iceland-local-functionality.md) |
 |        | Италия | [Локальная функциональность в Италии](localfunctionality/italy/italy-local-functionality.md) |
 |        | Нидерланды | [Локальная функциональность Нидерландов](localfunctionality/netherlands/netherlands-local-functionality.md) |
+|        | Норвегия | [Локальная функциональность для Норвегии](localfunctionality/norway/norway-local-functionality.md) |
 |        | Испания | [Локальная функциональность в Испании](localfunctionality/spain/spain-local-functionality.md) |
 |        | Швеция | [Локальная функциональность в Швеции](localfunctionality/sweden/sweden-local-functionality.md) |
 |        | Швейцария | [Локальная функциональность для Швейцарии](localfunctionality/switzerland/switzerland-local-functionality.md) |
 |        | Соединенное Королевство | [Локальная функциональность в Великобритании](localfunctionality/unitedkingdom/united-kingdom-local-functionality.md) |
 | Северная Америка |       |  |
-|               | Канада|[Локальная функциональность для Канады](localfunctionality/canada/canada-local-functionality.md) |
-|               | Соединенные Штаты|[Локальная функциональность в США](localfunctionality/unitedstates/united-states-local-functionality.md) |
+|        | Канада|[Локальная функциональность для Канады](localfunctionality/canada/canada-local-functionality.md) |
+|        | Мексика | [Локальная функциональность в Мексике](localfunctionality/mexico/mexico-local-functionality.md) |
+|        | Соединенные Штаты|[Локальная функциональность в США](localfunctionality/unitedstates/united-states-local-functionality.md) |
 | Азиатско-тихоокеанский регион |       |  |
 |        | Австралия | [Функциональность локальной версии для Австралии](localfunctionality/australia/australia-local-functionality.md) |
 |        | Новая Зеландия | [Локальная функциональность Новой Зеландии](localfunctionality/newzealand/new-zealand-local-functionality.md) |

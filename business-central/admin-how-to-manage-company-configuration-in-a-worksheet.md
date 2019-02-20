@@ -10,13 +10,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: 
-ms.date: 10/01/2018
+ms.date: 12/07/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
-ms.openlocfilehash: e00b99c963669bb8a8577d8277082e5656d45d66
+ms.sourcegitcommit: 8a73de1aa2f4a0f633c401ea341bb7bde6579723
+ms.openlocfilehash: 1ba27ee0ac252bbe1fd47b900654980df5b18fdf
 ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
+ms.lasthandoff: 12/11/2018
 
 ---
 # <a name="manage-company-configuration-in-a-worksheet"></a>Управление конфигурацией организации в журнале
@@ -107,6 +107,22 @@ ms.lasthandoff: 11/26/2018
 
     > [!NOTE]  
     >  Таблицы остаются в пакете, даже если они удалены из журнала.  
+
+## <a name="to-review-and-customize-existing-database-data"></a>Просмотр или настройка существующих данных базы данных
+По мере создания пакета конфигурации для решения можно просматривать и настраивать доступные данные в базе данных в соответствии с потребностями клиента. Таблица базы данных должна иметь соответствующую страницу.  
+
+## <a name="to-customize-data-in-the-database"></a>Настройка данных в базе данных  
+
+1.  На странице **Журнал конфигураций** определите таблицы, данные которых необходимо просмотреть или изменить.  
+
+    > [!NOTE]  
+    >  Убедитесь, что каждая таблица имеет код страницы, присвоенный ей. Для стандартных таблиц [!INCLUDE[d365fin](includes/d365fin_md.md)] это значение заполняется автоматически. В случае пользовательских таблиц вам следует указать код.  
+
+2.  Выберите действие **Данные базы данных**.  
+
+     Откроется страница [!INCLUDE[d365fin](includes/d365fin_md.md)] для этой страницы.  
+
+3.  Просмотрите имеющуюся информацию. Измените его по мере необходимости путем удаления ненужных записей или добавления новых.
 
 ## <a name="see-also"></a>См. также  
 [Настройка конфигурации организации](admin-set-up-company-configuration.md)  

@@ -1,5 +1,5 @@
 ---
-title: "Встречайте Microsoft Dynamics Business Central"
+title: "Встречайте Microsoft Dynamics 365 Business Central"
 description: "Узнайте о возможностях и рабочих сценариях в Business Central, решении по управлению деятельностью для небольших и средних предприятий."
 author: SorenGP
 ms.service: dynamics365-business-central
@@ -10,10 +10,10 @@ ms.workload: na
 ms.date: 10/01/2018
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: e7dcdc0935a8793ae226dfc2f9709b5b8f487a62
-ms.openlocfilehash: c0ae00a8994f41b54356a50418eafdc090c701e7
+ms.sourcegitcommit: 3f158d7ed56445d6d2acf2ef8e5e9ab8e7487531
+ms.openlocfilehash: 423518d27902cf8c4507a583f660932296789c6e
 ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 12/04/2018
 
 ---
 # <a name="welcome-to-included365finlongincludesd365finlongmdmd"></a>Добро пожаловать в [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]
@@ -25,7 +25,7 @@ ms.lasthandoff: 03/22/2018
 |-|-|  
 |**Бизнес-процессы**|-   [Приступая к работе](product-get-started.md)<br />-   [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)<br />-   [Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md)<br />-   [Администрация](admin-setup-and-administration.md)<br />-   [Функциональные бизнес-возможности](across-business-functionality.md)<br />-   [Локальная функциональность](LocalFunctionality/Austria/austria-local-functionality.md)<br />-   [Общие бизнес-функции](ui-across-business-areas.md)<br />-   [Пошаговые описания бизнес-процессов](walkthrough-business-process-walkthroughs.md)<br />-   [Сведения о структуре приложения](design-details-application-design.md)|  
 |**Разработка**|-   [Приступая к работе](/dynamics365/business-central/dev-itpro/index)<br />-   [Разработка в AL](/dynamics365/business-central/dev-itpro/developer/devenv-dev-overview)<br />-   [Среда разработки AL](/dynamics365/business-central/dev-itpro/developer/devenv-reference-overview)<br />-   [Правила и рекомендации для кода AL](/dynamics365/business-central/dev-itpro/compliance/apptest-overview)|  
-|**Ресурсы сообщества**|-   [Сообщество Microsoft Dynamics Business Central](https://community.dynamics.com/business)<br />-   [Блог Microsoft Dynamics Business Central](https://community.dynamics.com/business/b/financials)<br />-   [Microsoft Dynamics Business Central Roadmap](https://roadmap.dynamics.com/#edition=1#application=a56e2c12-2a92-e611-80dc-c4346bac0910#status=3a708a86-ae97-e611-80df-c4346baceb68)<br />-   [Microsoft Dynamics PartnerSource \(требуется учетная запись PartnerSource\)](https://mbs.microsoft.com/partnersource)<br />-   [Microsoft Partner Network \(требуется учетная запись члена Microsoft Partner Network\)](https://mspartner.microsoft.com/en/us/Pages/index.aspx)|  
+|**Ресурсы сообщества**|-   [Сообщество Microsoft Dynamics 365 Business Central](https://community.dynamics.com/business)<br />-   [Блог Microsoft Dynamics 365 Business Central](https://community.dynamics.com/business/b/financials)<br />-   [Заметки к выпуску Microsoft Dynamics 365 Business Central](https://go.microsoft.com/fwlink/?linkid=2047422)<br />-   [Microsoft Dynamics PartnerSource \(требуется учетная запись PartnerSource\)](https://mbs.microsoft.com/partnersource)<br />-   [Microsoft Partner Network \(требуется учетная запись члена Microsoft Partner Network\)](https://mspartner.microsoft.com/en/us/windows/index.aspx)|  
 
 ## <a name="see-also"></a>См. также
 [Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью расширений](ui-extensions.md)  

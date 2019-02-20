@@ -5,13 +5,13 @@ author: edupont04
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: FAQ, email, Office 365, subscription, trial, plan, application area, experience, support
-ms.date: 11/05/2018
+ms.date: 01/24/2019
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
-ms.openlocfilehash: 0cbc9a9d5aa42539e6be2dcc2b2f35b0b9a6a4ba
+ms.sourcegitcommit: 2650de67a756b0d6ec6c750b9b9f99edb21c2476
+ms.openlocfilehash: 99936e75dfe93d1002226fd227f5525b6afddcf2
 ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
+ms.lasthandoff: 01/24/2019
 
 ---
 # <a name="frequently-asked-questions"></a>Вопросы и ответы
@@ -27,6 +27,10 @@ ms.lasthandoff: 11/26/2018
 ## <a name="do-i-have-to-buy-office-365"></a>Нужно ли мне покупать Office 365?
 № Но если вы хотите попробовать [!INCLUDE[d365fin](includes/d365fin_md.md)] с полной интеграцией в Office 365, вы можете зарегистрировать 1-месячную бесплатную пробную версию Office 365 [здесь](https://products.office.com/try).  
 
+Если учетная запись, с которой выполнена регистрация, не является рабочей учетной записью Office 365 (например, joe@mysolution.com) и у вас есть подписка на Office 365, можно связать ваш домен (mysolution.com) с подпиской на Office 365. Дополнительные сведения см. в разделе [Получение помощи по доменам Office 365](/office365/admin/get-help-with-domains/get-help-with-domains?view=o365-worldwide).  
+
+Если у вас нет подписки на Office 365 и вы не хотите приобретать ее, то при выполнении регистрации мы подготовим новый клиент Azure Active Directory для вас, чтобы у вас был доступ к порталу Azure, на котором имеется доступ к расширенным средствам управления.  
+
 ## <a name="what-is-the-integration-with-office-365-about"></a>Что такое интеграция с Office 365?
 [!INCLUDE[d365fin](includes/d365fin_md.md)] полностью интегрирован с Office 365, чтобы можно было легко перемещаться между приложениями Office 365 и [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью средства запуска приложений. В [!INCLUDE[d365fin](includes/d365fin_md.md)] можно, например, открывать данные в Excel, печатать отчеты с помощью Word и работать с данными [!INCLUDE[d365fin](includes/d365fin_md.md)] в Outlook. Дополнительные сведения см. в разделе, [Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] в качестве рабочего почтового ящика в Outlook](admin-outlook.md).  
 
@@ -34,7 +38,11 @@ ms.lasthandoff: 11/26/2018
 Да, но в зависимости от способа регистрации в [!INCLUDE[d365fin](includes/d365fin_md.md)] ваши данные могут быть удалены или сохранены. Дополнительные сведения см. в разделе [Отмена [!INCLUDE[d365fin](includes/d365fin_md.md)]](admin-cancel.md).  
 
 ## <a name="where-do-i-go-if-i-have-questions"></a>Что делать, если у меня есть вопросы?
-Если у вас есть вопросы по [!INCLUDE[d365fin](includes/d365fin_md.md)], на которые вы не можете найти ответ в документации, задайте вопрос в сообществе Business Central. Дополнительные сведения см. на странице [Сообщество Dynamics 365 Business Central](https://community.dynamics.com/business). Кроме того, группа службы поддержки публикует советы и рекомендации. Дополнительные сведения см. в [блоге службы поддержки Dynamics 365 Business Central](https://blogs.msdn.microsoft.com/dyn365finsupport).  
+Если у вас есть вопросы по [!INCLUDE[d365fin](includes/d365fin_md.md)], на которые вы не можете найти ответ в документации, задайте вопрос в сообществе Business Central. Дополнительные сведения см. на странице [Сообщество Dynamics 365 Business Central](https://community.dynamics.com/business).  
+
+На начальной странице сообщества можно также найти ссылки на наши блоги, где также можно найти советы и подсказки. Дополнительные сведения см. в разделах [Блог по Dynamics 365 Business Central](https://community.dynamics.com/business/b/financials) и [Блок по поддержке Dynamics 365 Business Central](https://community.dynamics.com/business/b/dynamics365financialssupport).  
+
+Наконец, можно связаться с нашим торговым партнером [!INCLUDE[d365fin](includes/d365fin_md.md)]. Дополнительные сведения см. в разделе [Как получить техническую поддержку](across-faq.md#how-do-i-get-technical-support-for-).  
 
 ## <a name="is-it-possible-to-extend-my-30-day-new-company-trial-period"></a>Можно ли продлить 30-дневный пробный период "Новая организация"?
 Да. Если требуется продлит срок действия пробной версии, необходимо обратиться в компанию Майкрософт в вашей стране или регионе. Правильный номер телефона можно найти в списке в [CustomerSource](https://mbs.microsoft.com/customersource/northamerica/CRM/support/support-news/Support_Telephone#linkc). В этом списке указаны номера телефонов для Dynamics CRM Online, но эти же номера действительны для всех приложений Dynamics 365.  
@@ -46,10 +54,10 @@ ms.lasthandoff: 11/26/2018
 Это немного сложно, но, похоже, администратор не изменил ваш ролевой центр и не назначил группы пользователей, соответствующие новой лицензии. По существу, ваш доступ к [!INCLUDE[d365fin](includes/d365fin_md.md)] определяется вашим типом плана (лицензией), а он задает разрешения и страницу ролевого центра по умолчанию. Можно вручную изменить ролевой центр в разделе "Мои настройки", но при переходе на другой план, например при переходе с плана "Бизнес" на план "Члены группы", может отображаться старая домашняя страница, поскольку ваши разрешения не были изменены.  
 
 ## <a name="why-cant-i-find-that-capability-in-my-included365finincludesd365finmdmd"></a>Почему я не могу найти эту функциональную возможность в моем [!INCLUDE[d365fin](includes/d365fin_md.md)]?
-Вы недавно прочитали о новой функциональной возможности в дорожной карте или в нашем блоге? В таком случае возможно, что [!INCLUDE[d365fin](includes/d365fin_md.md)] еще не обновлен до последней версии. Если функциональная возможность опубликована как расширение в AppSource, то после объявления расширения оно появляется в AppSource с некоторой задержкой.  
+Вы недавно прочитали о новой функциональной возможности в заметках к выпуску или в нашем блоге? В таком случае возможно, что [!INCLUDE[d365fin](includes/d365fin_md.md)] еще не обновлен до последней версии. Если функциональная возможность опубликована как расширение в AppSource, то после объявления расширения оно появляется в AppSource с некоторой задержкой.  
 
 ## <a name="can-i-get-training-in-included365finincludesd365finmdmd"></a>Я могу пройти обучение по [!INCLUDE[d365fin](includes/d365fin_md.md)]?
-Да, можете. Но в текущий момент вы должны обратиться к своему партнеру. Если вы не знаете партнера, найдите партнера по Business Central [здесь](https://go.microsoft.com/fwlink/?linkid=2038145).  
+Да, можете. Но в текущий момент вы должны обратиться к своему партнеру. Если вы не знаете, кто это, найдите партнера Business Central на странице [Я ищу поставщика решений](https://go.microsoft.com/fwlink/?linkid=2038145).  
 
 Если у вас есть доступ к Microsoft CustomerSource, вы можете использовать сайт Imagine Academy и материалы eLearning. Дополнительные сведения о том, как получить доступ, см. на странице [Обучение Microsoft Dynamics 365](/dynamics365/get-started/training/index#dynamics-365-customers).  
 
@@ -63,10 +71,10 @@ ms.lasthandoff: 11/26/2018
 
 Если в подписались на пробную версию и пока еще не приобрели [!INCLUDE[d365fin](includes/d365fin_md.md)], у вас нет продавца-партнера, и вы не можете связаться с группой поддержки компании Майкрософт.  
 
-Партнера Business Central можно найти на странице [https://www.microsoft.com/solution-providers/search](https://go.microsoft.com/fwlink/?linkid=2038145).  
+Вы можете найти партнера Business Central на странице [Я ищу поставщика решений](https://go.microsoft.com/fwlink/?linkid=2038145).  
 
 ## <a name="why-does-help-describe-functionality-that-i-cannot-access"></a>Почему в справке описываются функциональные возможности, к которым я не могу получить доступ?
-Если на странице **Информация об организации** для параметра "Функциональность" задано значение **Essential**, то элементы пользовательского интерфейса для функций управления производством и обслуживанием не будут видны вам, поскольку они требуют функциональности **Premium**. Текстовое примечание вставляется в разделы высокого уровня для этих функциональных областей. Дополнительные сведения см. в разделе [Изменение набора отображаемых функций](ui-experiences.md).    
+Если на странице **Информация об организации** для параметра "Функциональность" задано значение **Essential**, то элементы пользовательского интерфейса для функций управления производством и обслуживанием не будут видны вам, поскольку они требуют функциональности **Premium**. Текстовое примечание вставляется в разделы высокого уровня для этих функциональных областей. Дополнительные сведения см. в разделе [Изменение набора отображаемых функций](ui-experiences.md).  
 
 ## <a name="see-also"></a>См. также
 [Приступая к работе](product-get-started.md)  
@@ -74,6 +82,8 @@ ms.lasthandoff: 11/26/2018
 [Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] без Outlook](admin-no-outlook.md)  
 [Изменение базовых настроек](ui-change-basic-settings.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Получение ответов на вопросы](product-get-started.md#getting-answers-to-questions)  
+[Управление пользователями и разрешениями](ui-how-users-permissions.md)  
 
 ## [!INCLUDE[d365fin](includes/free_trial_md.md)]  
 

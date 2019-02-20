@@ -8,13 +8,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: setup wizard
-ms.date: 10/01/2018
+ms.date: 12/03/2018
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
-ms.openlocfilehash: b30a97ad3f7c03b1c42e5cd845698337899a0294
+ms.sourcegitcommit: 3f158d7ed56445d6d2acf2ef8e5e9ab8e7487531
+ms.openlocfilehash: 15c54c7c6514ce275ff242d620df7404f9f2fee4
 ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
+ms.lasthandoff: 12/04/2018
 
 ---
 # <a name="getting-started-with-included365finlongincludesd365finlongmdmd"></a>Приступая к работе с [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]
@@ -36,7 +36,7 @@ ms.lasthandoff: 11/26/2018
 
 Дополнительные сведения см. в разделе [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md).  
 
-Когда вы будете готовы приступить к работе и захотите просмотреть некоторые бизнес-процессы, поддерживаемые в [!INCLUDE[d365fin](includes/d365fin_md.md)], см. раздел [Функциональные бизнес-возможности](across-business-functionality.md). Обзор текущих возможностей и предстоящих обновлений см. на дорожной контакте по адресу [roadmap.dynamics.com](https://roadmap.dynamics.com/#edition=1#application=a56e2c12-2a92-e611-80dc-c4346bac0910#status=3a708a86-ae97-e611-80df-c4346baceb68).  
+Когда вы будете готовы приступить к работе и захотите просмотреть некоторые бизнес-процессы, поддерживаемые в [!INCLUDE[d365fin](includes/d365fin_md.md)], см. раздел [Функциональные бизнес-возможности](across-business-functionality.md). Обзор текущих возможностей и возможностей, которые скоро появятся, см. в заметках к выпуску по ссылке [Заметки к выпуску Microsoft Dynamics 365 Business Central](https://go.microsoft.com/fwlink/?linkid=2047422).  
 
 ## <a name="the-role-centers"></a>Ролевые центры
 Страница ролевого центра основана на ориентированном на роль дизайне для предоставления быстрого доступа к бизнес-процессам и интеллектуальным инструментам, необходимым для выполнения работы. Например, бухгалтер может отслеживать платежи и утверждения, а также просматривать диаграммы финансового исполнения. Чтобы просмотреть различные ролевые центры, щелкните значок **Параметры** ![Параметры](media/ui-experience/settings_icon_small.png "Значок \"Параметры\" для ролевого центра") в правом верхнем углу, щелкните **Мои настройки** и выберите ролевой центр для изучения. Выполните вход еще раз, чтобы применить изменение. Дополнительные сведения см. в разделе [Изменение базовых настроек](ui-change-basic-settings.md).
@@ -69,9 +69,17 @@ ms.lasthandoff: 11/26/2018
 
 Чтобы создать организацию для ознакомления с компонентами приложения, перейдите в меню **Мои настройки** в правом верхнем углу и измените организацию на **Моя организация**. Выйдите из [!INCLUDE[d365fin](includes/d365fin_md.md)], а затем снова войдите, чтобы применить изменение. Руководство по сопровождаемой настройке поможет вам предоставить базовую информацию о организации. После этого изучите ролевой центр и найдите действие **Сопровождаемая настройка**.  
 
-Либо найдите партнера [!INCLUDE[d365fin](includes/d365fin_md.md)] [здесь](https://www.microsoft.com/en-us/solution-providers/search).
+Либо найдите партнера [!INCLUDE[d365fin](includes/d365fin_md.md)] [здесь](https://www.microsoft.com/en-us/solution-providers/search).  
 
-## <a name="ready-to-subscribe"></a>Готовы подписаться?
+## <a name="getting-answers-to-questions"></a>Получение ответов на вопросы
+
+Если вы не уверены, как сделать что-то в [!INCLUDE[d365fin](includes/d365fin_md.md)], вы, вероятно, сможете найти ответ во всплывающей подсказке для поля, в котором не уверены, или ознакомившись с содержимым, которое открывается по ссылке *Дополнительно* во всплывающей подсказке. Документацию можно также получить, выбрав связанную ссылку в меню "Справка".  
+
+Все поля в [!INCLUDE[d365fin](includes/d365fin_md.md)] описаны во всплывающих подсказках. Можно получить доступ к всплывающей подсказке, выбор название поля. Например, на такой странице, как **Карточка клиента**, просто выберите имя поля, чтобы прочитать всплывающую подсказку. В списке, таком как список **Клиенты**, или в строках в документе, например в заказе на продажу, следует выбрать выпадающее меню справа от названия столбца, затем выбрать пункт меню **Что это?**.  
+
+При наличии дополнительных вопросов рекомендуется задать их в сообществе или связаться с торговым партнером. Дополнительные сведения см. в разделе [Что делать, если у меня есть вопросы?](across-faq.md#where-do-i-go-if-i-have-questions).  
+
+## <a name="ready-to-subscribe"></a>Готовы оформить подписку?
 При каждом выполнении входа во время пробного периода отображается уведомление вверху в синем поле с указанием оставшегося времени. Если вы решили оформить подписку, найдите партнера [!INCLUDE[d365fin](includes/d365fin_md.md)] [здесь](https://www.microsoft.com/en-us/solution-providers/search). Можно также связаться с [группой [!INCLUDE[d365fin](includes/d365fin_md.md)] Sales](https://go.microsoft.com/fwlink/?linkid=828707).  
 
 ## <a name="other-dynamics-365-apps"></a>Другие приложения Dynamics 365
@@ -86,7 +94,7 @@ ms.lasthandoff: 11/26/2018
 [Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] в качестве рабочего почтового ящика в Outlook](admin-outlook.md)  
 [Получение [!INCLUDE[d365fin](includes/d365fin_md.md)] на мобильном устройстве](install-mobile-app.md)  
 [Документация по Dynamics 365](https://docs.microsoft.com/en-us/dynamics365/)  
-[Business Central Roadmap](https://roadmap.dynamics.com/#edition=1#application=a56e2c12-2a92-e611-80dc-c4346bac0910#status=3a708a86-ae97-e611-80df-c4346baceb68)  
+[Заметки к выпуску Microsoft Dynamics 365 Business Central](https://go.microsoft.com/fwlink/?linkid=2047422)  
 [Microsoft Dynamics 365 Business Central](https://go.microsoft.com/fwlink/?linkid=828707)  
 
 ## [!INCLUDE[d365fin](includes/free_trial_md.md)]  

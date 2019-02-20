@@ -12,14 +12,14 @@ ms. search.keywords: app, add-in, manifest, customize, import, implement
 ms.date: 10/01/2018
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
-ms.openlocfilehash: 357be92799a016b21a123692f7ed612d66005017
+ms.sourcegitcommit: 34a6789780fb3d55c0a97b29408dca659992f781
+ms.openlocfilehash: 1441e15785b159f7a8c13ee59c8ebea4c32512dc
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/28/2018
+ms.lasthandoff: 01/30/2019
 
 ---
 # <a name="the-dynamics-gp-data-migration-extension"></a>Расширение для миграции данных Dynamics GP 
-Это расширение позволяет легко переносить клиентов, поставщиков, товары, счета ГК, открытые транзакции кредиторской или дебиторской задолженности из Dynamics GP в [!INCLUDE[prodshort](includes/prodshort.md)]. Если сейчас ваша компания использует Dynamics GP, вы можете экспортировать соответствующие записи, а затем открыть руководство по сопровождаемой настройке, чтобы добавить данные в [!INCLUDE[prodshort](includes/prodshort.md)]. Дополнительные сведения см. в разделе [Импорт бизнес-данных из других финансовых систем](across-import-data-configuration-packages.md).
+Это расширение позволяет легко переносить клиентов, поставщиков, товары, счета ГК, открытые транзакции кредиторской или дебиторской задолженности из Dynamics GP в [!INCLUDE[prodshort](includes/prodshort.md)]. Если сейчас ваша компания использует Dynamics GP, вы можете экспортировать соответствующие записи, а затем открыть руководство по сопровождаемой настройке, чтобы добавить данные в [!INCLUDE[prodshort](includes/prodshort.md)]. Расширение миграции работает для всех поддерживаемых версий Microsoft Dyanmics GP. Дополнительные сведения см. в разделе [Импорт бизнес-данных из других финансовых систем](across-import-data-configuration-packages.md).
 
 ## <a name="exporting-data-from-dynamics-gp"></a>Экспорт данных из Dynamics GP
 Вы должны экспортировать некоторые или всех существующих клиентов, поставщиков, складские товары и счета ГК с помощью функции экспорта данных в Dynamics GP. При выборе данных для экспорта можно выбрать следующие типы:

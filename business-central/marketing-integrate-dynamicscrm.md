@@ -8,18 +8,21 @@ ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: integration, synchronize, map
-ms.date: 10/01/2018
+ms.search.keywords: integration, synchronize, map, Sales
+ms.date: 01/24/2019
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
-ms.openlocfilehash: 65466039efae2b18821fb03b6465f4c8c5e18f68
+ms.sourcegitcommit: c129dd63b3aabeeac15c6684f961e04bd2b08a2a
+ms.openlocfilehash: bba9fb9a83856cea43e4f4215e7c148b713252a9
 ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
+ms.lasthandoff: 01/24/2019
 
 ---
-# <a name="managing-customers-and-sales-created-in-dynamics-365-for-sales"></a>Управление клиентами и продажами, созданными в Dynamics 365 for Sales
-Если вы используете Dynamics 365 for Sales (Sales) для взаимодействия с клиентами, вы можете использовать [!INCLUDE[d365fin](includes/d365fin_md.md)] для обработки заказов и финансов, а также обеспечить плавную интеграцию с процессом продвижения от интереса до получения выручки.
+# <a name="integrating-with-dynamics-365-for-sales"></a>Интеграция с Dynamics 365 for Sales
+Если вы используете Dynamics 365 for Sales для взаимодействия с клиентами, вы можете использовать [!INCLUDE[d365fin](includes/d365fin_md.md)] для обработки заказов и финансов, а также обеспечить плавную интеграцию с процессом продвижения от интереса до получения выручки.
+
+> [!NOTE]
+> В этом разделе предполагается, что как [!INCLUDE[d365fin](includes/d365fin_md.md)], так и интегрированное решение Sales, развернуты в среде SaaS. Смешивание интернет-версий и локальных версий возможно, но требует особенной конфигурации. Дополнительные сведения см. в разделе [Подготовка к интеграции Dynamics 365 for Sales On-Premises](/dynamics365/business-central/dev-itpro/administration/prepare-dynamics-365-for-sales-for-integration).
 
 После настройки приложения для интеграции с Sales вы получите доступ к данным Sales из [!INCLUDE[d365fin](includes/d365fin_md.md)] и наоборот в некоторых случаях. Эта интеграция позволяет работать с типами данных, которые являются общими для обеих служб, такими как клиенты, контакты и сведения о продажах, синхронизировать эти данные и следить за их актуальностью в обеих службах.  
 
@@ -144,6 +147,7 @@ ms.lasthandoff: 11/26/2018
 Если описание товара в исходном заказе на продажу является слишком длинным, то создается дополнительная строка заказа типа "Комментарий", чтобы в ней хранился полный текст заказа на продажу в [!INCLUDE[d365fin](includes/d365fin_md.md)].
 
 ## <a name="see-also"></a>См. также
+[Подготовка к интеграции Dynamics 365 for Sales On-Premises](/dynamics365/business-central/dev-itpro/administration/prepare-dynamics-365-for-sales-for-integration)  
 [Управление отношениями](marketing-relationship-management.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 [Изменение набора отображаемых функций](ui-experiences.md)  

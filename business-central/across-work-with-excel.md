@@ -1,0 +1,49 @@
+---
+title: "Просмотр и редактирование в Excel из Business Central | Документы Microsoft"
+description: "Узнайте, как открывать страницы в Microsoft Excel из Business Central для более тщательного анализа данных."
+author: jswymer
+ms.service: dynamics365-business-central
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: accountant, accounting, financial report
+ms.date: 12/07/2018
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 5d6d2d9527e81a92987f6b8fcdbe8e087c3c537a
+ms.openlocfilehash: 27c137ea6309d40cddc94bc676ec7ea27d5c01fa
+ms.contentlocale: ru-ru
+ms.lasthandoff: 01/22/2019
+
+---
+# <a name="viewing-and-editing-in-excel-from-business-central"></a>Просмотр и редактирование в Excel из Business Central 
+
+В случае страниц, на которых отображается список записей в строках и столбцах, например список клиентов, заказов на продажи или счетов, можно также просмотреть записи с помощью Microsoft Excel. Для этого существует два варианта. Можно выбрать действие **Открыть в Excel** или действие **Изменить в Excel** на странице. Различия между двумя действиями состоят в следующем:  
+
+## <a name="open-in-excel"></a>Открыть в Excel
+
+-    С помощью этого действия Excel учитывает все фильтры на странице для ограничения отображаемых записей. Это означает, что книга Excel будет содержать те же строки и столбцы, которые отображаются на странице в [!INCLUDE[prodshort](includes/prodshort.md)].
+
+-    Можно внести изменения в записи в Excel, но невозможно опубликовать изменения обратно в [!INCLUDE[prodshort](includes/prodshort.md)]. Можно только сохранить изменения в файл Microsoft Excel на компьютере. 
+
+-    Это действие работает как в Windows, так и в macOS. 
+
+>[!NOTE]
+>Для [!INCLUDE[prodshort](includes/prodshort.md)] On-premises действие **Открыть в Excel** недоступно, если имеется действие **Изменить в Excel**.
+
+## <a name="edit-in-excel"></a>Изменить в Excel
+
+-    С помощью этого действия книга Excel не будет учитывать фильтры на странице для ограничения отображаемых записей. Это означает, что книга Excel будет содержать все доступные учетные записи и столбцы, независимо от того, что отображается на странице. 
+
+-    Преимущество действия **Изменить в Excel** заключается в том, что оно позволяет внести изменения в записи в Excel, затем опубликовать эти изменения обратно в [!INCLUDE[prodshort](includes/prodshort.md)].
+
+-    Оно работает только в Windows, но не в macOS.
+
+>[!NOTE]
+>Для [!INCLUDE[prodshort](includes/prodshort.md)] On-premises действие **Изменить в Excel** доступно только в том случае, если ваш администратор установил надстройку Excel. Для администраторов порядок установки надстройки Excel приведен в разделе [Настройка надстройки Excel](https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/administration/configuring-excel-addin).
+
+## <a name="see-also"></a>См. также
+
+[Работа с Business Central](ui-work-product.md)  
+

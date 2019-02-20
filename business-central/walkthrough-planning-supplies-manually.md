@@ -10,16 +10,19 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: 
-ms.date: 10/01/2018
+ms.date: 01/31/2019
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
-ms.openlocfilehash: d0a7088e436def55b3c7ddc3115065c66686b7fb
+ms.sourcegitcommit: a94c4f2f8d622a91b74ba0de6f0f18e7eb84a5ef
+ms.openlocfilehash: bed38cf158e5372ff9c4e2f23667fba8af93ec74
 ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
+ms.lasthandoff: 01/31/2019
 
 ---
 # <a name="walkthrough-planning-supplies-manually"></a>Пошаговое руководство. Планирование поставок вручную
+
+**Примечание**. Это пошаговое руководство должно выполняться в демонстрационной организации с параметром **Полный ознакомительный выпуск - полный пример данных**, который доступен в среде-песочнице. Дополнительные сведения см. в разделе [Создание среды-песочницы](across-how-create-sandbox-environment.md).
+
 В этом пошаговом руководстве демонстрируется процесс планирования заказов на продажу для выполнения нового требования. Планирование поставок можно инициировать с фиксированным интервалом, например каждое утро или каждый понедельник, или при получении уведомления от отдела продаж либо с производства, в зависимости от типа требования. В данном пошаговом руководстве будет использоваться страница **Планирование заказов** — простой инструмент планирования поставок на основе выполняемого вручную процесса принятия решений вместо автоматического планирования на основе параметров.  
 
 ## <a name="about-this-walkthrough"></a>Об этом пошаговом руководстве  
@@ -57,7 +60,7 @@ ms.lasthandoff: 11/26/2018
 
 ## <a name="using-the-order-planning-page"></a>Использование страницы «Планирование заказов»  
 
-<!-- 
+<!--
 The **Order Planning** page can be accessed from several different locations on the **Departments** menu in the navigation pane:  
 
 -   Manufacturing, Planning  
