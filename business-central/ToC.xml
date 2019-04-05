@@ -280,7 +280,7 @@
     <Node Name="" DisplayName="Управление возможностями продаж" Page="marketing-manage-sales-opportunities.html"/>
     <Node Name="" DisplayName="Управление клиентами и продажами, созданными в Dynamics 365 for Sales" Page="marketing-integrate-dynamicscrm.html"/>
   </Node>
-  <Node Name="" DisplayName="Персонал" Page="hr-manage-human-resources.html">
+  <Node Name="" DisplayName="Персонал и зарплата" Page="hr-manage-human-resources.html">
     <Node Name="" DisplayName="Практическое руководство. Регистрация сотрудников" Page="hr-how-register-employees.html"/>
     <Node Name="" DisplayName="Практическое руководство. Управление простоем сотрудника" Page="hr-how-manage-absence.html"/>
   </Node>
@@ -398,7 +398,7 @@
     <Node Name="" DisplayName="Испания" Page="LocalFunctionality/Spain/spain-local-functionality.html"/>
     <Node Name="" DisplayName="Швеция" Page="LocalFunctionality/Sweden/sweden-local-functionality.html"/>
     <Node Name="" DisplayName="Швейцария" Page="LocalFunctionality/Switzerland/switzerland-local-functionality.html"/>
-    <Node Name="" DisplayName="Соединенное Королевство" Page="LocalFunctionality/UnitedKingdom/united-kingdom-local-functionality.html"/>
+    <Node Name="" DisplayName="Великобритания" Page="LocalFunctionality/UnitedKingdom/united-kingdom-local-functionality.html"/>
     <Node Name="" DisplayName="Соединенные Штаты" Page="LocalFunctionality/UnitedStates/united-states-local-functionality.html"/>
   </Node>
 </Node>

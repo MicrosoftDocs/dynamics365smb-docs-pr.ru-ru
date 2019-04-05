@@ -1,7 +1,7 @@
 ---
-title: "Создание и управление товарами из каталога | Документы Майкрософт"
-description: "Далее описывается процедура торговли товарами, которые находятся в списке поставщиков товаров, но не в вашем списке товаров."
-documentationcenter: 
+title: Создание и управление товарами из каталога | Документы Майкрософт
+description: Далее описывается процедура торговли товарами, которые находятся в списке поставщиков товаров, но не в вашем списке товаров.
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -9,14 +9,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: non-inventoriable
-ms.date: 10/01/2018
+ms.date: 03/12/2019
 ms.author: sgroespe
+ms.openlocfilehash: 780aabb1bcd37cfd912f84da7b956a146a918eef
+ms.sourcegitcommit: 3291f0d92c1f2af3bbbefb90d53af4db72fe1a93
 ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
-ms.openlocfilehash: c65d498fb63668a6cd83f61303ae99c54d0a2452
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/12/2019
+ms.locfileid: "836139"
 ---
 # <a name="work-with-catalog-items"></a>Работа с товарами из каталога
 Для удобства клиентов можно предлагать им некоторые товары, которые вы не хотите обрабатывать в своей системе до начала торговли ими. Когда вы решите начать управлять такими товарами в своей системе, можно будет преобразовать их в обычные карточки товаров одним из двух способов.
@@ -66,11 +66,10 @@ ms.lasthandoff: 11/26/2018
 Затем можно заполнить или отредактировать поля в новой карточке товара, как требуется. Дополнительные сведения см. в разделе [Регистрация новых товаров](inventory-how-register-new-items.md).
 
 > [!NOTE]  
->   Для поставщика товара автоматически создается запись перекрестной ссылки между номером товара у поставщика и вашим новым номером товара.
+>   Для поставщика товара автоматически создается запись перекрестной ссылки между номером товара у поставщика и вашим новым номером товара. Дополнительные сведения см. в разделе [Использование перекрестных ссылок по товару](inventory-how-use-item-cross-refs.md).
 
 ## <a name="see-also"></a>См. также
 [Регистрация новых товаров](inventory-how-register-new-items.md)  
 [Создание специальных заказов](sales-how-to-create-special-orders.md)|  
 [Наличие](inventory-manage-inventory.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
-

@@ -1,8 +1,8 @@
 ---
-title: "Управление финансами | Документы Майкрософт"
-description: "Узнайте о задачах по настройке финансов для своего бизнеса в соответствии требованиями учет и аудита."
+title: Управление финансами | Документы Майкрософт
+description: Узнайте о задачах по настройке финансов для своего бизнеса в соответствии требованиями учет и аудита.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: edupont04
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: accounting, auditing, bookkeeping
-ms.date: 10/01/2018
+ms.date: 03/11/2019
 ms.author: edupont
+ms.openlocfilehash: d095e710d33882cc39772c35a495b39e08e0c729
+ms.sourcegitcommit: 2b2c3b488a610a5d3b51fc8218c40b0b732fddf3
 ms.translationtype: HT
-ms.sourcegitcommit: ad1b888d475c0523c5a905e804a3f89ab4531b28
-ms.openlocfilehash: e4cda1f4770117065d1650a0c51dbd46fdf8baac
-ms.contentlocale: ru-ru
-ms.lasthandoff: 05/17/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/11/2019
+ms.locfileid: "832532"
 ---
 # <a name="finance"></a>Финансы
 [!INCLUDE[d365fin](includes/d365fin_md.md)] содержит стандартную конфигурацию большинства финансовых процессов, но вы можете изменить ее в соответствии со своими бизнес-потребностями. Дополнительные сведения см. в разделе [Настройка финансов](finance-setup-finance.md).
@@ -33,7 +33,7 @@ ms.lasthandoff: 05/17/2018
 |Требуйте от клиентов оплату до отгрузки им товаров или производите оплату поставщикам до того, как они отгрузят товары вам.|[Выставление счетов на предоплату](finance-invoice-prepayments.md)|
 | Выверка банковских счетов и перемещение средств между банковскими счетами. |[Управление банковскими счетами](bank-manage-bank-accounts.md) |
 |Настройка межфирменных партнеров и обработка транзакций вручную или автоматически между юридическими лицами в пределах одной и той же организации.|[Управление межфирменными транзакциями](intercompany-manage.md)|
-|Объединение операций главной книги из нескольких организаций в одной виртуальной "консолидированной организации" для финансового анализа.|[Консолидация финансовых данных из нескольких организаций](finance-consolidated-company-reporting.md)|
+|Объединение операций главной книги из нескольких организаций в одной виртуальной консолидированной организации для финансового анализа.|[Консолидация финансовых данных из нескольких организаций](finance-consolidated-company-reporting.md)|
 |Анализ прибыльности организации путем распределения на центры затрат фактических и бюджетных затрат по операциям, подразделениям, продуктам и проектам.|[Учет по затратам](finance-manage-cost-accounting.md)|
 |Управление запасами и себестоимостью производства, создание отчетов о себестоимости и сверка себестоимости с главной книгой.|[Управление себестоимостью товаров](finance-manage-inventory-costs.md)|
 | Принципы работы с главной книгой и планом счетов. |[Сведения о главной книге и плане счетов](finance-general-ledger.md) |
@@ -58,10 +58,8 @@ ms.lasthandoff: 05/17/2018
 [Покупки](purchasing-manage-purchasing.md)  
 [Закрытие финансовых периодов](year-close-years-periods.md)  
 [Управление проектами](projects-manage-projects.md)    
-[Импорт данных из других финансовых систем](across-import-data-configuration-packages.md)(across-import-data-configuration-packages.md)  
+[Импорт данных из других финансовых систем](across-import-data-configuration-packages.md)  
 [Работа с финансовыми журналами](ui-work-general-journals.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 
 ## [!INCLUDE[d365fin](includes/free_trial_md.md)]  
- 
-

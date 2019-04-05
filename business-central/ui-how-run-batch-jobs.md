@@ -1,8 +1,8 @@
 ---
-title: "Создание и запуск пакетных заданий | Документы Майкрософт"
-description: "Пакетные задания запускаются для обработки данных и обновления информации, например для выполнения периодических действий и других расчетов."
+title: Создание и запуск пакетных заданий | Документы Майкрософт
+description: Пакетные задания запускаются для обработки данных и обновления информации, например для выполнения периодических действий и других расчетов.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SusanneWindfeldPedersen
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: task, process
 ms.date: 10/01/2018
 ms.author: solsen
+ms.openlocfilehash: 260cd7761b130bbe3748de3cc109a9f4f56c1384
+ms.sourcegitcommit: d09f5ee0e164c7716f4ccb2ed71e2f9732a1f4f9
 ms.translationtype: HT
-ms.sourcegitcommit: caf7cf5afe370af0c4294c794c0ff9bc8ff4c31c
-ms.openlocfilehash: 7357ae501c4b53ae66869bbbc1ce415a3996f542
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/22/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "853262"
 ---
 # <a name="run-batch-jobs"></a>Запуск пакетных заданий
 Пакетное задание — это процедура обработки данных в пакетах, например пакетное задание **Коррекция валютных курсов**. В некоторых пакетных заданиях выполняются периодические действия, связанные с учетом, например закрытие отчета о прибыли и убытках в конце финансового года. Во многих пакетных заданиях выполняются вычисления, например вычисление финансовых выплат, коррекция валютного курса и вычисление цены единицы.
@@ -31,6 +31,5 @@ ms.lasthandoff: 11/22/2018
 4. Нажмите кнопку **OK** для запуска пакетного задания.
 
 ## <a name="see-also"></a>См. также
-[Поиск, фильтрация и сортировка данных](ui-enter-criteria-filters.md)  
+[Сортировка, поиск и фильтрация списков](ui-enter-criteria-filters.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
-

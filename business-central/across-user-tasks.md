@@ -1,6 +1,6 @@
 ---
-title: "Назначение задач и управление ими | Microsoft Docs"
-description: "Узнайте, как назначать задачи пользователям, включая вашего бухгалтера, в Business Central"
+title: Назначение задач и управление ими | Microsoft Docs
+description: Узнайте, как назначать задачи пользователям, включая вашего бухгалтера, в Business Central
 author: edupont04
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -10,14 +10,14 @@ ms.workload: na
 ms.search.keywords: tasks, work
 ms.date: 10/01/2018
 ms.author: edupont
+ms.openlocfilehash: 492eeda86a392320c8b8205d3faa76416a9cf6fb
+ms.sourcegitcommit: d09f5ee0e164c7716f4ccb2ed71e2f9732a1f4f9
 ms.translationtype: HT
-ms.sourcegitcommit: caf7cf5afe370af0c4294c794c0ff9bc8ff4c31c
-ms.openlocfilehash: b225eb16a3cfa0d70f03fde01051c8ea6a956454
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/22/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "852359"
 ---
-# <a name="defining-user-tasks"></a>Определение задач пользователя
+# <a name="define-user-tasks"></a>Определение задач пользователя
 В [!INCLUDE[d365fin](includes/d365fin_md.md)] можно создавать задачи, чтобы напоминать о работе, которая должна быть выполнена. Можно создавать задачи для себя, но можно также назначать задачи другим или вам могут быть назначены задачи кем-то еще из вашей организации.  
 
 ## <a name="managing-user-tasks"></a>Управление задачами пользователя
@@ -41,4 +41,3 @@ ms.lasthandoff: 11/22/2018
 ## <a name="see-also"></a>См. также
 [Поиск страницы или отчета](ui-search.md)  
 [Работа бухгалтера в [!INCLUDE[d365fin](includes/d365fin_md.md)]](finance-accounting.md)  
-

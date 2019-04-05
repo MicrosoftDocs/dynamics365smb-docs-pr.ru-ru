@@ -1,8 +1,8 @@
 ---
-title: "Обязательные поля для выполнения процессов | Документы Майкрософт"
-description: "Узнайте о полях, помеченных красной звездочкой, что означает, они являются обязательными и должны быть заполнены для завершения процесса."
+title: Обязательные поля для выполнения процессов | Документы Майкрософт
+description: Узнайте о полях, помеченных красной звездочкой, что означает, они являются обязательными и должны быть заполнены для завершения процесса.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SusanneWindfeldPedersen
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -11,14 +11,14 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.date: 10/01/2018
 ms.author: solsen
+ms.openlocfilehash: 6778536df70ef70b1e3e67e956768b0a474acd89
+ms.sourcegitcommit: d09f5ee0e164c7716f4ccb2ed71e2f9732a1f4f9
 ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
-ms.openlocfilehash: 01e517daea89c5371f95df963831ab8f8d9bf523
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "853239"
 ---
-# <a name="mandatory-fields"></a>Обязательные поля
+# <a name="detecting-mandatory-fields"></a>Выявление обязательных полей
 При вводе данных на страницах в [!INCLUDE[d365fin](includes/d365fin_md.md)] некоторые поля помечаются красной звездочкой. Красная звездочка означает, что необходимо заполнить поле, чтобы завершить определенную процедуру, в которой используется это поле, например учесть транзакцию, в которой используется значение в поле.
 
 Даже если в поле содержится красная звездочка, не обязательно заполнять поле, чтобы перейти к другим полям или закрыть страницу. Красная звездочка исключительно служит напоминанием, что определенный процесс будет заблокирован.
@@ -30,5 +30,3 @@ ms.lasthandoff: 11/26/2018
 
 ## <a name="see-also"></a>См. также
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
-
-

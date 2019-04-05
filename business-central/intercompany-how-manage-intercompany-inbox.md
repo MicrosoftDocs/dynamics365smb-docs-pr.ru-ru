@@ -1,8 +1,8 @@
 ---
-title: "Обработка входящих и исходящих межфирменных транзакций | Документы Майкрософт"
-description: "Межфирменные транзакции, получаемые от межфирменных партнеров, отображаются в списке во входящем межфирменном ящике, где их можно обрабатывать вручную или автоматически."
+title: Обработка входящих и исходящих межфирменных транзакций | Документы Майкрософт
+description: Межфирменные транзакции, получаемые от межфирменных партнеров, отображаются в списке во входящем межфирменном ящике, где их можно обрабатывать вручную или автоматически.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: incoming document
 ms.date: 10/01/2018
 ms.author: sgroespe
+ms.openlocfilehash: c7bf0c1c22d2f43220d9b101a1a54757add900e9
+ms.sourcegitcommit: d09f5ee0e164c7716f4ccb2ed71e2f9732a1f4f9
 ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
-ms.openlocfilehash: 8432eea92738682bbdab55f8c3f6dae16f401149
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "853285"
 ---
 # <a name="manage-the-intercompany-inbox-and-outbox"></a>Управление межфирменными входящими и исходящими ящиками
 Все межфирменные транзакции, получаемые электронным способом от межфирменных партнеров, отображаются в списке в межфирменном входящем почтовом ящике.  
@@ -43,7 +43,7 @@ ms.lasthandoff: 11/26/2018
 #### <a name="returned-from-intercompany-partner"></a>Возвращено межфирменным партнером  
  Если транзакция отвергнута межфирменным партнером, единственно возможный выбор — отмена транзакции во входном почтовом ящике. Затем необходимо создать строки исправления либо изменить журнал или документ в вашей организации.  
 
-## <a name="re-creating-inbox-entries"></a>Восстановление операций во входном ящике  
+## <a name="recreating-inbox-entries"></a>Восстановление операций во входном ящике  
  Если после принятия транзакции документ или журнал был удален, а не учтен, можно восстановить запись во входном ящике и снова ее принять.  
 
 ## <a name="getting-an-overview-of-intercompany-transactions-for-a-period"></a>Просмотр межфирменных транзакций за некоторый период  
@@ -105,4 +105,3 @@ ms.lasthandoff: 11/26/2018
 [Настройка финансов](finance-setup-finance.md)  
 [Работа с финансовыми журналами](ui-work-general-journals.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
-

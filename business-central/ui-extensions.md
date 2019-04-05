@@ -1,7 +1,7 @@
 ---
-title: "Установка расширений для настройки Business Central | Документы Майкрософт"
-description: "Узнайте о добавлении функций и настройке Business Central путем установки расширений."
-documentationcenter: 
+title: Установка расширений для настройки Business Central | Документы Майкрософт
+description: Узнайте о добавлении функций и настройке Business Central путем установки расширений.
+documentationcenter: ''
 author: edupont04
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -11,12 +11,12 @@ ms.workload: na
 ms.search.keywords: app, add-in, manifest, customize
 ms.date: 11/27/2018
 ms.author: edupont
+ms.openlocfilehash: f093a9ce2a654d5ee693ee91f32e87f6546279d1
+ms.sourcegitcommit: d09f5ee0e164c7716f4ccb2ed71e2f9732a1f4f9
 ms.translationtype: HT
-ms.sourcegitcommit: add32e82465610830b68a979e238103bfa10d438
-ms.openlocfilehash: 8b68012cc6032d14071ec0eb30c0efaf947344a0
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/29/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "852451"
 ---
 # <a name="customizing-business-central-using-extensions"></a>Настройка Business Central с помощью расширений
 Вы можете изменить [!INCLUDE[d365fin](includes/d365fin_md.md)] за счет установки расширений, которые добавляют функциональность, изменяют поведение или, например, предоставляют доступ к новым интернет-службам.
@@ -31,7 +31,7 @@ ms.lasthandoff: 11/29/2018
 >   Если вы считаете, что у вас должен быть доступ к расширению, но вы не можете найти его функциональные возможности, проверьте страницу **Управление расширениями**. Если расширение не указано в списке, вы можете установить его, как описано в следующем разделе.  
 
 ## <a name="installing-an-extension"></a>Установка расширения
-Новые расширения новые получить из магазина по адресу [AppSource.microsoft.com](https://appsource.microsoft.com/en-us/marketplace/apps?src=dynamics365website&product=dynamics-365-business-central). Здесь отображаются все доступные расширения для [!INCLUDE[d365fin](includes/d365fin_md.md)], и можно получить приложения, расширения и пакеты содержимого для других продуктов Майкрософт. Установите соответствующие фильтры, просмотрите информацию для каждого расширения и получите расширение для [!INCLUDE[d365fin](includes/d365fin_md.md)].  
+Новые расширения можно получить из магазина по адресу [AppSource.microsoft.com](https://appsource.microsoft.com/en-us/marketplace/apps?src=dynamics365website&product=dynamics-365-business-central). Здесь отображаются все доступные расширения для [!INCLUDE[d365fin](includes/d365fin_md.md)], и можно получить приложения, расширения и пакеты содержимого для других продуктов Майкрософт. Установите соответствующие фильтры, просмотрите информацию для каждого расширения и получите расширение для [!INCLUDE[d365fin](includes/d365fin_md.md)].  
 > [!NOTE]  
 >   Войдите на сайт [AppSource.microsoft.com](https://appsource.microsoft.com/), используя учетную запись электронной почты, которая используется для [!INCLUDE[d365fin](includes/d365fin_md.md)]. Для удобства используйте эту же учетную запись для других служб и продуктов.  
 
@@ -71,6 +71,7 @@ ms.lasthandoff: 11/29/2018
 
 ## <a name="see-also"></a>См. также
 [Расширение Dynamics 365 Business Central](about-develop-extensions.md)  
+[Расширения для Business Central от других поставщиков](ui-extensions-other.md)  
 [Настройка службы банковских выписок Envestnet Yodlee](bank-how-setup-bank-statement-service.md)  
 [Включение платежей клиентов через PayPal](sales-how-enable-payment-service-extensions.md)  
 [Миграция бизнес-данных из других финансовых систем](across-import-data-configuration-packages.md)  
@@ -79,4 +80,3 @@ ms.lasthandoff: 11/29/2018
 [Приступая к работе](product-get-started.md)  
 
 ## [!INCLUDE[d365fin](includes/free_trial_md.md)]  
-

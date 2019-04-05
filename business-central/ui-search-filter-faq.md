@@ -1,6 +1,6 @@
 ---
-title: "О поиске и фильтрации в Business Central"
-description: "Ответы на часто задаваемые вопросы о поиске и фильтрации."
+title: О поиске и фильтрации в Business Central
+description: Ответы на часто задаваемые вопросы о поиске и фильтрации.
 author: mikebcMSFT
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -10,15 +10,14 @@ ms.workload: na
 ms.search.keywords: keyboarding, productivity, how do i, filter pane
 ms.date: 10/01/2018
 ms.author: mikebc
+ms.openlocfilehash: a4bcdca8ecff80d8d47bf9c198cd69a71f09cd2a
+ms.sourcegitcommit: d09f5ee0e164c7716f4ccb2ed71e2f9732a1f4f9
 ms.translationtype: HT
-ms.sourcegitcommit: 5d6d2d9527e81a92987f6b8fcdbe8e087c3c537a
-ms.openlocfilehash: 099a2a800cb71e7a0b8dd02901928b43dfa199ca
-ms.contentlocale: ru-ru
-ms.lasthandoff: 01/22/2019
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "852060"
 ---
-
-# <a name="about-searching-and-filtering-in-included365finincludesd365finmdmd"></a>О поиске и фильтрации в [!INCLUDE[d365fin](includes/d365fin_md.md)]
+# <a name="searching-and-filtering-faq"></a>Вопросы и ответы по поиску и фильтрации
 Эта статья отвечает на часто возникающие вопросы по поиску и фильтрации.
 
 ## <a name="is-there-a-difference-between-searching-and-filtering"></a>Имеется ли разница между поиском и фильтрацией?
@@ -30,7 +29,7 @@ ms.lasthandoff: 01/22/2019
 Поиск и фильтрация хорошо оптимизированы для пользователей, которые предпочитают не использовать мышь, чтобы они могли эффективно работать со своими данными. Имеет множество сочетаний клавиш, которые можно использовать последовательно, чтобы работать на большой скорости. Дополнительные сведения см. в разделе [Сочетания клавиш](keyboard-shortcuts.md#KeyboardFilter).
 
 ## <a name="is-the-filter-pane-available-on-all-lists"></a>Область фильтров доступна во всех списках?
-Область фильтров доступна на страницах, на которых список является основным содержимым на странице, например листы и страницы списока, включая списки, на которые можно перейти из навигационной панели. Область фильтров еще недоступна для внедренных списков, таких как строки продажи в заказах на продажу, или для списков с динамическими столбцами (часто называемыми матричными страницами). 
+Область фильтров доступна на страницах, на которых список является основным содержимым на странице, например листы и страницы списока, включая списки, на которые можно перейти из навигационной панели. Область фильтров еще недоступна для внедренных списков, таких как строки продажи в заказах на продажу, или для списков с динамическими столбцами (часто называемыми матричными страницами).
 
 ## <a name="how-can-i-save-my-filters"></a>Как можно сохранить мои фильтры?
 
@@ -57,4 +56,3 @@ ms.lasthandoff: 01/22/2019
 ## <a name="see-also"></a>См. также
 [Приступая к работе](product-get-started.md)  
 [Сортировка, поиск и фильтрация в списках](ui-enter-criteria-filters.md)
-

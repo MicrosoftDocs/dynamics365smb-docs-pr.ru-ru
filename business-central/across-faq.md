@@ -1,21 +1,60 @@
 ---
-title: "Вопросы и ответы об использовании Business Central | Microsoft Docs"
-description: "Ответы на типичные вопросы о том, как зарегистрироваться в Business Central и начать работу."
+title: Вопросы и ответы об использовании Business Central | Microsoft Docs
+description: Ответы на общие вопросы о том, как зарегистрироваться на Business Central или приобрести его, получить пробную версию, получить поддержку, продлить пробную версию, отменить подписку, а также найти обучение и другую поддержку.
 author: edupont04
 ms.service: dynamics365-business-central
 ms.topic: article
-ms.search.keywords: FAQ, email, Office 365, subscription, trial, plan, application area, experience, support
-ms.date: 01/24/2019
+ms.search.keywords: FAQ, email, Office 365, subscription, subscribe, trial, plan, application area, experience, support, buy, upgrade, extend
+ms.date: 02/21/2019
 ms.author: edupont
+ms.openlocfilehash: 72fcf1b698b464cd21107184cd2bb166a8612cae
+ms.sourcegitcommit: d09f5ee0e164c7716f4ccb2ed71e2f9732a1f4f9
 ms.translationtype: HT
-ms.sourcegitcommit: 2650de67a756b0d6ec6c750b9b9f99edb21c2476
-ms.openlocfilehash: 99936e75dfe93d1002226fd227f5525b6afddcf2
-ms.contentlocale: ru-ru
-ms.lasthandoff: 01/24/2019
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "852290"
 ---
 # <a name="frequently-asked-questions"></a>Вопросы и ответы
-В этом разделе содержатся вопросы и ответы о регистрации и использовании [!INCLUDE[d365fin](includes/d365fin_md.md)].  
+
+В этом разделе содержатся ответы на часто задаваемые вопросы по регистрации на пробную версию, приобретению подписки и использованию [!INCLUDE[d365fin](includes/d365fin_md.md)]. Можно также узнать порядок получения технической поддержки.  
+
+## <a name="is-included365finincludesd365finmdmd-available-in-my-country"></a>Приложение [!INCLUDE[d365fin](includes/d365fin_md.md)] доступно в моей стране?
+
+[!INCLUDE[d365fin](includes/d365fin_md.md)] доступно в ограниченном количестве стран, но новые страны добавляются ежеквартально за счет локализации, проводимой корпорацией Майкрософт или партнерами. Дополнительные сведения см. в разделе [Поддерживаемые страны и переводы](/dynamics365/business-central/dev-itpro/compliance/apptest-countries-and-translations).  
+
+## <a name="how-do-i-get-include-prodshortincludesprodshortmd"></a>Как получить [!INCLUDE [prodshort](includes/prodshort.md)]?
+
+Можно зарегистрироваться на бесплатную пробную версию, чтобы изучить [!INCLUDE [prodshort](includes/prodshort.md)]. [!INCLUDE [free_trial_md](includes/free_trial_md.md)] Если требуется больше времени на ознакомление, [можно продлить срок действия пробной версии](#can-i-extend-my-30-day-new-company-trial-period).  
+
+Чтобы вы могли быстрее приступить к работе в [!INCLUDE [prodshort](includes/prodshort.md)], можно просмотреть руководства по сопровождаемой настройке, видео или разделы справки для выбранных задач настройки. Дополнительные сведения см. в разделе [Подготовьтесь к ведению бизнеса](ui-get-ready-business.md).  
+
+Когда вы будете готовы приобрести [!INCLUDE [prodshort](includes/prodshort.md)], вы можете найти партнера [!INCLUDE [prodshort](includes/prodshort.md)] на странице [Я ищу поставщика решений](https://go.microsoft.com/fwlink/?linkid=2038145).  
+
+## <a name="where-do-i-go-if-i-have-questions"></a>Что делать, если у меня есть вопросы?
+Если у вас есть вопросы по [!INCLUDE[d365fin](includes/d365fin_md.md)], на которые вы не можете найти ответ в документации, задайте вопрос в сообществе Business Central. Дополнительные сведения см. в разделе [Сообщество Dynamics 365 Business Central](https://community.dynamics.com/business).  
+
+На начальной странице сообщества можно также найти ссылки на наши блоги, где также можно найти советы и подсказки. Дополнительные сведения см. в разделах [Блог Dynamics 365 Business Central](https://community.dynamics.com/business/b/financials) и [Блог службы поддержки Dynamics 365 Business Central](https://community.dynamics.com/business/b/dynamics365financialssupport).  
+
+Наконец, можно связаться с нашим торговым партнером [!INCLUDE[d365fin](includes/d365fin_md.md)]. Дополнительные сведения см. в разделе [Как получить техническую поддержку](across-faq.md#how-do-i-get-technical-support-for-).  
+
+## <a name="why-cant-i-find-that-capability-in-my-included365finincludesd365finmdmd"></a>Почему я не могу найти эту функциональную возможность в моем [!INCLUDE[d365fin](includes/d365fin_md.md)]?
+Вы недавно прочитали о новой функциональной возможности в заметках к выпуску или в нашем блоге? В таком случае возможно, что [!INCLUDE[d365fin](includes/d365fin_md.md)] еще не обновлен до последней версии. Если функциональная возможность опубликована как расширение в AppSource, то после объявления расширения оно появляется в AppSource с некоторой задержкой.  
+
+## <a name="can-i-get-training-in-included365finincludesd365finmdmd"></a>Я могу пройти обучение по [!INCLUDE[d365fin](includes/d365fin_md.md)]?
+Да, можете. Но в текущий момент вы должны обратиться к своему партнеру. Если вы не знаете, кто это, найдите партнера Business Central на странице [Я ищу поставщика решений](https://go.microsoft.com/fwlink/?linkid=2038145).  
+
+Если у вас есть доступ к Microsoft CustomerSource, вы можете использовать сайт Imagine Academy и материалы eLearning. Дополнительные сведения о том, как получить доступ, см. на странице [Обучение Microsoft Dynamics 365](/dynamics365/get-started/training/index#dynamics-365-customers).  
+
+## <a name="how-do-i-get-technical-support-for-included365finincludesd365finmdmd"></a>Как получить техническую поддержку для [!INCLUDE[d365fin](includes/d365fin_md.md)]?
+
+[!INCLUDE[d365fin](includes/d365fin_md.md)] продается через партнеров, и для получения помощи по техническим проблемам следует обращаться к вашему партнеру-продавцу. Если ваш партнер [!INCLUDE[d365fin](includes/d365fin_md.md)] не может разрешить проблему, он создаст билет поддержки в компании Майкрософт.  
+
+Если в подписались на пробную версию и пока еще не приобрели [!INCLUDE[d365fin](includes/d365fin_md.md)], у вас нет продавца-партнера, и вы не можете связаться с группой поддержки компании Майкрософт.  
+
+Вы можете найти партнера Business Central на странице [Я ищу поставщика решений](https://go.microsoft.com/fwlink/?linkid=2038145).  
+
+## <a name="why-does-help-describe-functionality-that-i-cannot-access"></a>Почему в справке описываются функциональные возможности, к которым я не могу получить доступ?
+Если на странице **Информация об организации** для параметра "Функциональность" задано значение **Essential**, то элементы пользовательского интерфейса для функций управления производством и обслуживанием не будут видны вам, поскольку они требуют функциональности **Premium**. Текстовое примечание вставляется в разделы высокого уровня для этих функциональных областей. Дополнительные сведения см. в разделе [Изменение набора отображаемых функций](ui-experiences.md).  
 
 ## <a name="what-email-address-can-i-use-with-included365finincludesd365finmdmd"></a>Какой адрес электронной почты можно использовать с [!INCLUDE[d365fin](includes/d365fin_md.md)]?
 [!INCLUDE[d365fin](includes/d365fin_md.md)] требует для регистрации использования рабочего или учебного адреса электронной почты. [!INCLUDE[d365fin](includes/d365fin_md.md)] не поддерживает адреса электронной почты, предоставленные общедоступными сервисами электронной почты и поставщиками услуг связи. К таким адресам относятся outlook.com, hotmail.com, gmail.com и т. д.  
@@ -34,49 +73,23 @@ ms.lasthandoff: 01/24/2019
 ## <a name="what-is-the-integration-with-office-365-about"></a>Что такое интеграция с Office 365?
 [!INCLUDE[d365fin](includes/d365fin_md.md)] полностью интегрирован с Office 365, чтобы можно было легко перемещаться между приложениями Office 365 и [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью средства запуска приложений. В [!INCLUDE[d365fin](includes/d365fin_md.md)] можно, например, открывать данные в Excel, печатать отчеты с помощью Word и работать с данными [!INCLUDE[d365fin](includes/d365fin_md.md)] в Outlook. Дополнительные сведения см. в разделе, [Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] в качестве рабочего почтового ящика в Outlook](admin-outlook.md).  
 
-## <a name="can-i-cancel-my-subscription"></a>Я могу отменить свою подписку?
-Да, но в зависимости от способа регистрации в [!INCLUDE[d365fin](includes/d365fin_md.md)] ваши данные могут быть удалены или сохранены. Дополнительные сведения см. в разделе [Отмена [!INCLUDE[d365fin](includes/d365fin_md.md)]](admin-cancel.md).  
-
-## <a name="where-do-i-go-if-i-have-questions"></a>Что делать, если у меня есть вопросы?
-Если у вас есть вопросы по [!INCLUDE[d365fin](includes/d365fin_md.md)], на которые вы не можете найти ответ в документации, задайте вопрос в сообществе Business Central. Дополнительные сведения см. на странице [Сообщество Dynamics 365 Business Central](https://community.dynamics.com/business).  
-
-На начальной странице сообщества можно также найти ссылки на наши блоги, где также можно найти советы и подсказки. Дополнительные сведения см. в разделах [Блог по Dynamics 365 Business Central](https://community.dynamics.com/business/b/financials) и [Блок по поддержке Dynamics 365 Business Central](https://community.dynamics.com/business/b/dynamics365financialssupport).  
-
-Наконец, можно связаться с нашим торговым партнером [!INCLUDE[d365fin](includes/d365fin_md.md)]. Дополнительные сведения см. в разделе [Как получить техническую поддержку](across-faq.md#how-do-i-get-technical-support-for-).  
-
-## <a name="is-it-possible-to-extend-my-30-day-new-company-trial-period"></a>Можно ли продлить 30-дневный пробный период "Новая организация"?
-Да. Если требуется продлит срок действия пробной версии, необходимо обратиться в компанию Майкрософт в вашей стране или регионе. Правильный номер телефона можно найти в списке в [CustomerSource](https://mbs.microsoft.com/customersource/northamerica/CRM/support/support-news/Support_Telephone#linkc). В этом списке указаны номера телефонов для Dynamics CRM Online, но эти же номера действительны для всех приложений Dynamics 365.  
+## <a name="can-i-extend-my-30-day-new-company-trial-period"></a>Можно ли продлить 30-дневный срок пробной версии "Новая организация"?
+Да. Если срок действия пробной версии подходит к концу, при входе в систему отображается уведомление с предупреждением. Уведомление содержит ссылку на руководство **Продление пробного периода**, которое можно использовать для продления пробного периода. Дополнительные 30 дней начинаются с момента выбора пункта **Продлить пробный период** в руководстве. Один раз вы можете продлить пробный период самостоятельно. После этого партнер Microsoft может продлить его еще на 30 дней. Дополнительные сведения см. в разделе [Продление пробной версии](admin-extend-trial.md). Чтобы связать с партнером Microsoft в вашей стране или регионе сейчас, см. список телефонов в разделе [CustomerSource](https://mbs.microsoft.com/customersource/northamerica/CRM/support/support-news/Support_Telephone#linkc).  
 
 > [!NOTE]
-> Завершение процесса продления пробного периода может занять до 2 рабочих дней.  
+> Завершение процесса продления пробного периода может занять до двух рабочих дней.  
 
 ## <a name="our-administrator-has-moved-me-to-another-plan-to-give-me-another-role-but-i-still-see-the-same-role-center-in-included365finincludesd365finmdmd"></a>Наш администратор изменил мой план, чтобы предоставить мне другую роль, но я по-прежнему вижу тот же ролевой центр в [!INCLUDE[d365fin](includes/d365fin_md.md)]?
 Это немного сложно, но, похоже, администратор не изменил ваш ролевой центр и не назначил группы пользователей, соответствующие новой лицензии. По существу, ваш доступ к [!INCLUDE[d365fin](includes/d365fin_md.md)] определяется вашим типом плана (лицензией), а он задает разрешения и страницу ролевого центра по умолчанию. Можно вручную изменить ролевой центр в разделе "Мои настройки", но при переходе на другой план, например при переходе с плана "Бизнес" на план "Члены группы", может отображаться старая домашняя страница, поскольку ваши разрешения не были изменены.  
 
-## <a name="why-cant-i-find-that-capability-in-my-included365finincludesd365finmdmd"></a>Почему я не могу найти эту функциональную возможность в моем [!INCLUDE[d365fin](includes/d365fin_md.md)]?
-Вы недавно прочитали о новой функциональной возможности в заметках к выпуску или в нашем блоге? В таком случае возможно, что [!INCLUDE[d365fin](includes/d365fin_md.md)] еще не обновлен до последней версии. Если функциональная возможность опубликована как расширение в AppSource, то после объявления расширения оно появляется в AppSource с некоторой задержкой.  
+## <a name="can-i-cancel-my-subscription"></a>Я могу отменить свою подписку?
+Да, но в зависимости от способа регистрации в [!INCLUDE[d365fin](includes/d365fin_md.md)] ваши данные могут быть удалены или сохранены. Дополнительные сведения см. в разделе [Отмена [!INCLUDE[d365fin](includes/d365fin_md.md)]](admin-cancel.md).  
 
-## <a name="can-i-get-training-in-included365finincludesd365finmdmd"></a>Я могу пройти обучение по [!INCLUDE[d365fin](includes/d365fin_md.md)]?
-Да, можете. Но в текущий момент вы должны обратиться к своему партнеру. Если вы не знаете, кто это, найдите партнера Business Central на странице [Я ищу поставщика решений](https://go.microsoft.com/fwlink/?linkid=2038145).  
-
-Если у вас есть доступ к Microsoft CustomerSource, вы можете использовать сайт Imagine Academy и материалы eLearning. Дополнительные сведения о том, как получить доступ, см. на странице [Обучение Microsoft Dynamics 365](/dynamics365/get-started/training/index#dynamics-365-customers).  
-
-## <a name="is-included365finincludesd365finmdmd-available-in-my-country"></a>Приложение [!INCLUDE[d365fin](includes/d365fin_md.md)] доступно в моей стране?
-
-[!INCLUDE[d365fin](includes/d365fin_md.md)] доступно в ограниченном количестве стран, но новые страны добавляются ежеквартально за счет локализации, проводимой корпорацией Майкрософт или партнерами. Дополнительные сведения см. в разделе [Поддерживаемые страны и переводы](/dynamics365/business-central/dev-itpro/compliance/apptest-countries-and-translations).  
-
-## <a name="how-do-i-get-technical-support-for-included365finincludesd365finmdmd"></a>Как получить техническую поддержку для [!INCLUDE[d365fin](includes/d365fin_md.md)]?
-
-[!INCLUDE[d365fin](includes/d365fin_md.md)] продается через партнеров, и для получения помощи по техническим проблемам следует обращаться к вашему партнеру-продавцу. Если ваш партнер [!INCLUDE[d365fin](includes/d365fin_md.md)] не может разрешить проблему, он создаст билет поддержки в компании Майкрософт.  
-
-Если в подписались на пробную версию и пока еще не приобрели [!INCLUDE[d365fin](includes/d365fin_md.md)], у вас нет продавца-партнера, и вы не можете связаться с группой поддержки компании Майкрософт.  
-
-Вы можете найти партнера Business Central на странице [Я ищу поставщика решений](https://go.microsoft.com/fwlink/?linkid=2038145).  
-
-## <a name="why-does-help-describe-functionality-that-i-cannot-access"></a>Почему в справке описываются функциональные возможности, к которым я не могу получить доступ?
-Если на странице **Информация об организации** для параметра "Функциональность" задано значение **Essential**, то элементы пользовательского интерфейса для функций управления производством и обслуживанием не будут видны вам, поскольку они требуют функциональности **Premium**. Текстовое примечание вставляется в разделы высокого уровня для этих функциональных областей. Дополнительные сведения см. в разделе [Изменение набора отображаемых функций](ui-experiences.md).  
+## <a name="can-i-use-multi-factor-authentication"></a>Я могу использовать многофакторную проверку подлинности?
+Конечно. Если это сделать, может потребоваться пароль приложения для отправки сообщений электронной почты. Пароли приложения обеспечивают приложению или устройству доступ к вашей учетной записи электронной почты. Шаги для получения пароля приложения зависят от поставщика электронной почты. Дополнительные сведения см. в справке вашего поставщика. Например, если используется Outlook, см. раздел [Создание пароля для Office 365](https://go.microsoft.com/fwlink/?linkid=2082543).
 
 ## <a name="see-also"></a>См. также
+
 [Приступая к работе](product-get-started.md)  
 [Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] в качестве рабочего почтового ящика в Outlook](admin-outlook.md)  
 [Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] без Outlook](admin-no-outlook.md)  
@@ -86,4 +99,3 @@ ms.lasthandoff: 01/24/2019
 [Управление пользователями и разрешениями](ui-how-users-permissions.md)  
 
 ## [!INCLUDE[d365fin](includes/free_trial_md.md)]  
-

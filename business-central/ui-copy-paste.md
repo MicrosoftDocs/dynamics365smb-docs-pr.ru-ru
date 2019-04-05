@@ -1,6 +1,6 @@
 ---
-title: "Копирование и вставка данных"
-description: "Копируйте поля и строки со страниц Business Central и вставляйте их в другие места."
+title: Копирование и вставка данных
+description: Копируйте поля и строки со страниц Business Central и вставляйте их в другие места.
 author: jswymer
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -10,15 +10,14 @@ ms.workload: na
 ms.search.keywords: accessibility, shortcuts, keyboarding
 ms.date: 10/01/2018
 ms.author: jswymer
+ms.openlocfilehash: 6f731940714a754275611026749afa4d79a94443
+ms.sourcegitcommit: d09f5ee0e164c7716f4ccb2ed71e2f9732a1f4f9
 ms.translationtype: HT
-ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
-ms.openlocfilehash: e924eeb10e98b81035837ca498ec4f1a7b28bf60
-ms.contentlocale: ru-ru
-ms.lasthandoff: 09/28/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "853075"
 ---
-
-# <a name="copying-and-pasting-in-included365finincludesd365finmdmd"></a>Копирование и вставка в [!INCLUDE[d365fin](includes/d365fin_md.md)]
+# <a name="copying-and-pasting"></a>Копирование и вставка
 Можно скопировать один или несколько строк из списка или одно поле на странице, а затем вставить скопированное на ту же страницу, другую страницу или во внешний документ (например, Microsoft Excel или сообщение электронной почты Outlook). Вкратце, чтобы скопировать, нажмите CTRL+C (cmd+C в macOS) на клавиатуре. Для вставки нажмите CTRL+V (cmd+V в macOS).
 
 Имеется нескольких других сочетаний клавиш для копирования и вставки, которые помогаю экономить время при вводе данных. Дополнительные сведения о них см. в разделе [Сочетания клавиш](keyboard-shortcuts.md#CopyRows).
@@ -72,4 +71,3 @@ ms.lasthandoff: 09/28/2018
 [Приступая к работе](product-get-started.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 [Вопросы и ответы](across-faq.md)  
-

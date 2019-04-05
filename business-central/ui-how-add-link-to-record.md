@@ -1,23 +1,23 @@
 ---
-title: "Практическое руководство: добавление в записях ссылок на внешние документы или программы | Microsoft Docs"
-description: "Присоединение гиперссылок к документам или веб-сайтам на конкретную запись, например, на клиента или документ."
+title: 'Практическое руководство: добавление в записях ссылок на внешние документы или программы | Microsoft Docs'
+description: Присоединение гиперссылок к документам или веб-сайтам на конкретную запись, например, на клиента или документ.
 author: jswymer
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 10/01/2018
 ms.author: jswymer
+ms.openlocfilehash: 3fbd9fa2e68ab84c7abb82bdef42b10e9e2cc93e
+ms.sourcegitcommit: d09f5ee0e164c7716f4ccb2ed71e2f9732a1f4f9
 ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
-ms.openlocfilehash: 8927d2ca670b3faa38cd03ea10ae524e595721ad
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "853308"
 ---
-# <a name="adding-links-to-websites-documents-or-programs-on-records"></a>Добавление в записи ссылок на веб-сайты, документы или программы
+# <a name="add-links-to-websites-documents-or-programs-on-records"></a>Добавление в записи ссылок на веб-сайты, документы или программы
 На определенную запись, такую как клиент, документ или заказ на продажу, можно добавить ссылку на внешний документ, веб-сайт или программу. Кроме того, может понадобиться ссылка, при выборе которой будет открываться новое пустое сообщение электронной почты определенному получателю. Страница карточки для некоторых записей, таких как карточки клиентов и поставщиков, предусмотрено поле **Интернет-адрес**, в котором можно ввести URL-адрес. Для включения других ссылок можно воспользоваться методом, описанным в данной статье.
 
 Другим примером может быть получение распечатанных счетов от поставщиков. Можно отсканировать их и сохранить в виде PDF-файлов на сайте SharePoint. Затем в счете покупки в [!INCLUDE[d365fin_md](includes/d365fin_md.md)] можно добавить ссылку на соответствующий счет на сервере SharePoint. Кроме того, в карточке товара можно добавить ссылку на соответствующую страницу в онлайновом каталоге поставщика.
@@ -55,4 +55,3 @@ ms.lasthandoff: 11/26/2018
 
 ## <a name="see-also"></a>См. также  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
-

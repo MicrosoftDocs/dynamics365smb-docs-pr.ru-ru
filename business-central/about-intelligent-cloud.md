@@ -1,6 +1,6 @@
 ---
-title: "Интеллектуально облако | Документы Майкрософт"
-description: "Получите облачную копию данных, чтобы быть подключенным к интеллектуальному облаку."
+title: Интеллектуально облако | Документы Майкрософт
+description: Получите облачную копию данных, чтобы быть подключенным к интеллектуальному облаку.
 author: bmeier94
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -11,15 +11,14 @@ ms.reviewer: edupont
 ms. search.keywords: cloud, edge
 ms.date: 10/01/2018
 ms.author: bmeier
+ms.openlocfilehash: 932b6f45ed4f8704b48873518ba2b096efc33e7a
+ms.sourcegitcommit: d09f5ee0e164c7716f4ccb2ed71e2f9732a1f4f9
 ms.translationtype: HT
-ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
-ms.openlocfilehash: 0abf01698e25ae04a2e34696fb2443ff7d413a26
-ms.contentlocale: ru-ru
-ms.lasthandoff: 09/28/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "852133"
 ---
-
-# <a name="your-access-to-the-intelligent-cloud-with-includeprodlongincludesprodlongmd"></a>Для доступа к интеллектуальному облаку служит [!INCLUDE[prodlong](includes/prodlong.md)]
+# <a name="your-access-to-the-intelligent-cloud-with-includeprodshortincludesprodshortmd"></a>Для доступа к интеллектуальному облаку служит [!INCLUDE[prodshort](includes/prodshort.md)]
 
 Как пользователь [!INCLUDE[prodshort](includes/prodshort.md)] Online, у вас имеется полный доступ к сценариям, основанным на интеллектуальном облаке, таким как редактирование данных в Excel и возврат изменений обратно в [!INCLUDE[prodshort](includes/prodshort.md)], или просмотр данных в Power BI. Однако, когда [!INCLUDE[prodshort](includes/prodshort.md)] является в первую очередь облачным сервисом, также те клиенты, которым необходимо выполнять их рабочие нагрузки полностью локально или на умном крае, подключенному к облаку, могут сделать так.  
 
@@ -53,4 +52,3 @@ ms.lasthandoff: 09/28/2018
 [Расширение интеллектуального облака Business Central](ui-extensions-intelligent-cloud.md)  
 [Расширение репликации данных](ui-extensions-data-replication.md)  
 [Подключение к интеллектуальному облаку](/dynamics365/business-central/dev-itpro/administration/about-intelligent-edge)  
-
