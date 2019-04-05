@@ -1,7 +1,7 @@
 ---
-title: "Практическое руководство. Учет себестоимости товаров в главной книге | Документы Майкрософт"
-description: "Описывает процедуру управления физическими продуктами, которыми вы торгуете, например обработку запасов на складе."
-documentationcenter: 
+title: Практическое руководство. Учет себестоимости товаров в главной книге | Документы Майкрософт
+description: Описывает процедуру управления физическими продуктами, которыми вы торгуете, например обработку запасов на складе.
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -11,12 +11,12 @@ ms.workload: na
 ms.search.keywords: warehouse, stock
 ms.date: 10/01/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: 0e9b610d54f955c3dec9cba6b2327a74663288a2
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "805250"
 ---
 # <a name="reconcile-inventory-costs-with-the-general-ledger"></a>Выверка себестоимости товаров с главной книгой
 При учете складских транзакций, таких как расходные накладные, счета покупки или корректировки запасов измененные значения себестоимости товаров записываются в операциях стоимости товаров. Чтобы отразить такое изменение стоимости запасов в финансовых книгах, себестоимость товаров автоматически учитывается на соответствующих счетах запасов в главной книге. Для каждой учитываемой складской транзакции учитываются соответствующие стоимости в товарном счете, счете коррекции и счете себестоимости продажи в главной книге.
@@ -75,4 +75,3 @@ ms.lasthandoff: 11/26/2018
 [Продажи](sales-manage-sales.md)    
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 [Общие бизнес-функции](ui-across-business-areas.md)
-

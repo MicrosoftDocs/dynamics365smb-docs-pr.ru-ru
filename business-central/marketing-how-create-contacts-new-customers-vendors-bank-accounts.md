@@ -1,8 +1,8 @@
 ---
-title: "Создание клиента или поставщика из контакта | Microsoft Docs"
-description: "Вы можете сохранить существующий контакт как клиента, поставщика или банковский счет с помощью имеющихся данных и указав деловое отношение."
+title: Создание клиента или поставщика из контакта | Microsoft Docs
+description: Вы можете сохранить существующий контакт как клиента, поставщика или банковский счет с помощью имеющихся данных и указав деловое отношение.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: jswymer
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -13,12 +13,12 @@ ms.search.keywords: relationship, client, prospect
 ms.date: 10/01/2018
 ms.author: jswymer
 redirect_url: marketing-create-contact-companies
+ms.openlocfilehash: 5f5e690a8db82c2f95f190d5fac4b6430f900b57
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
 ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
-ms.openlocfilehash: 9125e31ce579b6cda55aee8a79cb299e3c4d75a0
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "805174"
 ---
 # <a name="create-a-customer-vendor-or-bank-account-from-a-contact"></a>Создание клиента, поставщика или банковского счета из клиента
 Вам может понадобиться записать некоторые существующие контакты как клиентов, поставщиков или банковские счета. Создание клиента, поставщика или банковского счета из контакта позволяет использовать существующие данные. При создании клиента, поставщика или банковского счета таким образом они синхронизируются с контактом. Синхронизация делает общую информацию между контактами и клиентами, поставщиками или банковским счетом одинаковой.
@@ -36,9 +36,7 @@ ms.lasthandoff: 11/26/2018
 ## <a name="see-also"></a>См. также
 [Создание контактных организаций](marketing-create-contact-companies.md)  
 [Создание контактных лиц](marketing-create-contact-persons.md)  
-[Настройка управления отношениями](marketing-setup-marketing.md)  
 [Синхронизация контактов с клиентами, поставщиками и банковскими счетами](marketing-synchronize-contacts-customers-vendors-bank-accounts.md)  
 [Связывание контактов с существующими клиентами, поставщиками или банковскими счетами](marketing-how-link-contact.md)  
 [Назначение деловых отношений контакту](marketing-business-relations.md#AssignBusRelContact)  
 [Работа с Business Central](ui-work-product.md)
-

@@ -1,23 +1,23 @@
 ---
-title: "Рекомендации по настройке. Политики повторного заказа | Документы Майкрософт"
-description: "Поле Политика дозаказа в карточках товара содержит четыре разных метода планирования, которые определяют способ взаимодействия отдельных параметров планирования."
+title: Рекомендации по настройке. Политики повторного заказа | Документы Майкрософт
+description: Поле Политика дозаказа в карточках товара содержит четыре разных метода планирования, которые определяют способ взаимодействия отдельных параметров планирования.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 10/01/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: b8a5f4dcfa9a4e3f728c8de3786e7d5716ac82c7
 ms.openlocfilehash: cc333a1a17173abeff36ba556f2ff0d235af225f
-ms.contentlocale: ru-ru
-ms.lasthandoff: 10/04/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804908"
 ---
 # <a name="setup-best-practices-reordering-policies"></a>Рекомендации по настройке. Политики повторного заказа
 Поле **Политика дозаказа** в карточках товара содержит четыре разных метода планирования, которые определяют способ взаимодействия отдельных параметров планирования.  
@@ -52,4 +52,3 @@ ABC-классификация показывает, что время и сре
  [Сведения о проектировании: максимальное количество](design-details-maximum-qty.md)   
  [Настройка сложных областей приложения с помощью рекомендаций](set-up-complex-application-areas-using-best-practices.md)  
  [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
-

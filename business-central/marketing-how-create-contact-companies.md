@@ -1,8 +1,8 @@
 ---
-title: "Создание контактных организаций | Microsoft Docs"
-description: "Описывается, как создать контакт для каждой новой организации или потенциального клиента, с которым вы взаимодействуете."
+title: Создание контактных организаций | Microsoft Docs
+description: Описывается, как создать контакт для каждой новой организации или потенциального клиента, с которым вы взаимодействуете.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: jswymer
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -13,19 +13,17 @@ ms.search.keywords: relationship, prospect
 ms.date: 10/01/2018
 ms.author: jswymer
 redirect_url: marketing-create-contact-companies
+ms.openlocfilehash: ff585f1a96d509ef317aaaf3671bc91ca46a430a
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
 ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
-ms.openlocfilehash: d607b23f5cd41db8551a61b68be6bf265e85d328
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "805328"
 ---
-# <a name="create-contact-companies"></a>Создание контактных организаций
+# <a name="create-contacts"></a>Создание контактов
 Вы можете создать контакт для каждой новой организации, с которой происходит взаимодействие, например заказчика, поставщика, банка, юридической организации, консультанта и т. д.
 
 Есть два способа создания контактов: с нуля или на основе имеющегося клиента, поставщика или банковского счета.
-
-Перед созданием контакта может понадобиться проверить настройки на странице **Маркетинг - настройка**. Дополнительные сведения см. в разделе [Настройка управления отношениями](marketing-setup-marketing.md).
 
 ## <a name="create-a-company-contact-from-scratch"></a>Создание контакта организации с нуля
 1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Контакты**, затем выберите связанную ссылку.
@@ -61,4 +59,3 @@ ms.lasthandoff: 11/26/2018
 [Назначение групп рассылки контакту](marketing-mailing-groups.md#AssignMailGroupContact)  
 [Создание контактных лиц](marketing-create-contact-persons.md)  
 [Работа с Business Central](ui-work-product.md)
-

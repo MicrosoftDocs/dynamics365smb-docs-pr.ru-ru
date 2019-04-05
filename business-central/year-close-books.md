@@ -1,8 +1,8 @@
 ---
-title: "Обзор задач по закрытию книг | Документы Майкрософт"
-description: "Узнайте о процессе закрытия книг за финансовый год или период, а также о том, что происходит после закрытия в конце года."
+title: Обзор задач по закрытию книг | Документы Майкрософт
+description: Узнайте о процессе закрытия книг за финансовый год или период, а также о том, что происходит после закрытия в конце года.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: jswymer
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: year closing, close accounting period, close fiscal year, bank account detailed trial balance
 ms.date: 10/01/2018
 ms.author: jswymer
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: 6894fad3654f204d79144946776b36dcb2d43665
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "805156"
 ---
 # <a name="closing-the-books"></a>Закрытие книг
 После проверки актуальности всех счетов и распределения затрат и прибылей можно закрыть книги для финансового года или периода.
@@ -56,4 +56,3 @@ ms.lasthandoff: 11/26/2018
 ## <a name="see-also"></a>См. также
 [Открытие нового финансового года](finance-how-open-new-fiscal-year.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
-

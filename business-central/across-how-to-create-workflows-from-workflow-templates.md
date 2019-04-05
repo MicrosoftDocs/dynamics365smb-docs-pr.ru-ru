@@ -1,23 +1,23 @@
 ---
-title: "Создание рабочих процессов из шаблонов рабочих процессов | Документы Майкрософт"
-description: "Для экономии времени при создании новых рабочих процессов можно создавать рабочие процессы из шаблонов рабочих процессов."
+title: Создание рабочих процессов из шаблонов рабочих процессов | Документы Майкрософт
+description: Для экономии времени при создании новых рабочих процессов можно создавать рабочие процессы из шаблонов рабочих процессов.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 10/01/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: 0ae5a7a308568dd8ede10c485564824685963bf4
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "805194"
 ---
 # <a name="create-workflows-from-workflow-templates"></a>Создание рабочих процессов из шаблонов рабочих процессов
 Для экономии времени при создании новых рабочих процессов можно создавать рабочие процессы из шаблонов рабочих процессов.  
@@ -45,4 +45,3 @@ ms.lasthandoff: 11/26/2018
  [Настройка рабочих процессов](across-set-up-workflows.md)   
  [Использование рабочих процессов](across-use-workflows.md)   
  [Рабочий процесс](across-workflow.md)   
-

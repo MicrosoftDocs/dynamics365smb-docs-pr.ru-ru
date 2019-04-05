@@ -1,7 +1,7 @@
 ---
-title: "Использование расширения \"Анализатор изображений\" | Microsoft Docs"
-description: "Это расширение позволяет анализировать изображения контактных лиц и товаров, для обнаружения атрибутов, которые можно быстро присвоить им в Business Central."
-documentationcenter: 
+title: Использование расширения "Анализатор изображений" | Microsoft Docs
+description: Это расширение позволяет анализировать изображения контактных лиц и товаров, для обнаружения атрибутов, которые можно быстро присвоить им в Business Central.
+documentationcenter: ''
 author: bholtorf
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -11,14 +11,13 @@ ms.workload: na
 ms.search.keywords: API, extension, Cognitive Services, image, computer vision, attribute, tag, recognition
 ms.date: 10/01/2018
 ms.author: bholtorf
-ms.translationtype: HT
-ms.sourcegitcommit: caf7cf5afe370af0c4294c794c0ff9bc8ff4c31c
 ms.openlocfilehash: 803d755a7caa470b97bf606f0f8916d0135d047e
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/22/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "805005"
 ---
-
 # <a name="the-image-analyzer-extension"></a>Расширение "Анализатор изображений"
 Расширение "Анализатор изображений" использует мощные механизмы анализа изображений, предоставленные API компьютерного зрения для Microsoft Cognitive Services, чтобы обнаруживать атрибуты на изображениях, которые вы импортируете для товаров и контактных лиц, чтобы вы могли их легко проверять и назначать. Для товаров это могут быть такие атрибуты как "стол" или "автомобиль", либо "красный" или "синий". Для контактных лиц атрибутом может быть пол или возраст.
 
@@ -95,4 +94,3 @@ ms.lasthandoff: 11/22/2018
 [Работа с атрибутами товаров](inventory-how-work-item-attributes.md)  
 [Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью расширений](ui-extensions.md)  
 [Приступая к работе](product-get-started.md)  
-

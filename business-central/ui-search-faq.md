@@ -1,6 +1,6 @@
 ---
-title: "Вопросы и ответы о функции \"Что вы хотите сделать\" | Документы Майкрософт"
-description: "Эта статья содержит ответы на вопросы, которые наши партнеры и клиенты часто задают по поводу функции \"Что вы хотите сделать\"."
+title: Вопросы и ответы о функции "Что вы хотите сделать" | Документы Майкрософт
+description: Эта статья содержит ответы на вопросы, которые наши партнеры и клиенты часто задают по поводу функции "Что вы хотите сделать".
 author: bholtorf
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: find
 ms.date: 10/01/2018
 ms.author: bholtorf
-ms.translationtype: HT
-ms.sourcegitcommit: 74cd6b136cf5785237640b124472cd26aeff97de
 ms.openlocfilehash: 70ab7fb07cda5ce9d86b3f39dd14321829e85a52
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/29/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804898"
 ---
 # <a name="tell-me-faq"></a>Вопросы и ответы о функции "Что вы хотите сделать"
 В этом разделе приводятся ответы на вопросы, которые опытные пользователи часто задают о новой функции "Что вы хотите сделать", которая заменила предыдущую функцию поиска страниц, известную под названием **Поиск страниц и отчетов**.
@@ -43,4 +43,3 @@ ms.lasthandoff: 11/29/2018
 
 ## <a name="see-also"></a>См. также  
 [Обнаружение функций и информации](ui-search.md)
-

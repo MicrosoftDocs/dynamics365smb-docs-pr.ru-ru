@@ -1,8 +1,8 @@
 ---
-title: "Конфигурирование шаблонов API | Microsoft Docs"
-description: "Описываются действия, которые необходимо выполнить для настройки шаблонов API для Dynamics 365 Business Central."
+title: Конфигурирование шаблонов API | Microsoft Docs
+description: Описываются действия, которые необходимо выполнить для настройки шаблонов API для Dynamics 365 Business Central.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SusanneWindfeldPedersen
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,14 +12,13 @@ ms.workload: na
 ms.search.keywords: API templates, configuring templates
 ms.date: 10/01/2018
 ms.author: solsen
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: 7420bd1b8c1c246b608910a35a47ac025eec6b8b
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "805067"
 ---
-
 # <a name="configuring-api-templates"></a>Конфигурирование шаблонов API
 Библиотека API для [!INCLUDE[d365fin_md](includes/d365fin_md.md)] предоставляет разработчикам упрощенное представление лежащих в ее основе объектов. Не все свойства в приложении предоставляются через связанный API. Страница **Настройка API** позволяет определить шаблоны, используемые для заполнения пустых свойств в объекте при создании действия POST через API. 
 

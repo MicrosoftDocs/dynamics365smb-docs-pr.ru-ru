@@ -1,8 +1,8 @@
 ---
-title: "Управление банковскими счетами | Microsoft Docs"
-description: "Вы должны регулярно выверять операции банковских книг с соответствующими банковскими транзакциями на банковских счетах."
+title: Управление банковскими счетами | Microsoft Docs
+description: Вы должны регулярно выверять операции банковских книг с соответствующими банковскими транзакциями на банковских счетах.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: reconcile
 ms.date: 10/01/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: 62b2bf8987146a69d17bd343f88d31d60a205ffb
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804870"
 ---
 # <a name="managing-bank-accounts"></a>Управление банковскими счетами
 Через равные промежутки времени вы должны выверять банковские счета в [!INCLUDE[d365fin](includes/d365fin_md.md)] с соответствующими банковскими транзакциями на счетах в вашем банке, а затем учитывать сальдо на своем банковском счете. Эту задачу можно выполнить в рамках обработки платежей, представленных в банковской выписке в **Журнале выверки платежей**. Кроме того, задачу можно выполнить отдельно от обработки платежей на странице **Выверка банковского счета**, где производится сопоставление (сверка) строк банковской выписки в левой области с вашими внутренними операциями книги банковских счетов в правой области. На обеих страницах информацию банковской выписки можно ввести путем импорта файла или потока, а также можно использоваться автоматические предложения по сопоставлению.
@@ -46,4 +46,3 @@ ms.lasthandoff: 11/26/2018
 
 ## [!INCLUDE[d365fin](includes/free_trial_md.md)]  
  
-

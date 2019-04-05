@@ -1,21 +1,21 @@
 ---
-title: "О структуре обмена данными | Документы Майкрософт"
-description: "Формат файлов для обмена данными в файлах банка, электронных документах, курсах валюты и прочим с ERP-системами зависит от поставщика файла или потока данных, а также страны/региона."
+title: О структуре обмена данными | Документы Майкрософт
+description: Формат файлов для обмена данными в файлах банка, электронных документах, курсах валюты и прочим с ERP-системами зависит от поставщика файла или потока данных, а также страны/региона.
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 10/01/2018
 ms.author: sgroespe
+ms.openlocfilehash: 4c0fdd965f56f811ab9ce3346b3c408702df87bf
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: 4b63e47d812f3a263848e1d7388b6ca7f7b3eb9f
-ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "805033"
 ---
 # <a name="about-the-data-exchange-framework-in-included365finincludesd365finmdmd"></a>О структуре обмена данными в [!INCLUDE[d365fin](includes/d365fin_md.md)]
 Формат файлов для обмена данными в файлах банка, электронных документах, курсах валюты и прочим с ERP-системами зависит от поставщика файла или потока данных, а также страны/региона. [!INCLUDE[d365fin](includes/d365fin_md.md)] поддерживает различные форматы файлов банка и стандарты предоставления данных. Чтобы обеспечить поддержку других форматов электронных документов, следует использовать платформу обмена данными. Дополнительные сведения см. в разделе [Электронный обмен данными](across-data-exchange.md).    
@@ -33,4 +33,3 @@ ms.lasthandoff: 03/22/2018
 [Обмен данными](across-exchange-data.md)  
 [Входящие документы](across-income-documents.md)  
 [Общие бизнес-функции](ui-across-business-areas.md)  
-

@@ -1,8 +1,8 @@
 ---
-title: "Сведения о проектировании — перемещения при планировании | Документы Майкрософт"
-description: "В этом разделе описывается, как использовать заказы на перемещение в качестве источника поставки при планировании уровней запасов."
+title: Сведения о проектировании — перемещения при планировании | Документы Майкрософт
+description: В этом разделе описывается, как использовать заказы на перемещение в качестве источника поставки при планировании уровней запасов.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: design, transfer, sku, locations, warehouse
 ms.date: 10/01/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: caf7cf5afe370af0c4294c794c0ff9bc8ff4c31c
 ms.openlocfilehash: dbf1658893d5210c38994302ae817afa7349884a
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/22/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804879"
 ---
 # <a name="design-details-transfers-in-planning"></a>Сведения о проектировании: перемещения при планировании
 Заказы на перемещение также являются источником поставок при работе на уровне единиц складского хранения. При использовании нескольких местоположений (например, складов) систему пополнения единиц хранения можно настроить на перемещение, подразумевая, что расположение пополняется путем переноса товаров из другого местоположения. Если в организации используется несколько складов, она может иметь цепочку перемещений, в которой поставка на склад ЗЕЛЕНЫЙ перемещается со склада ЖЕЛТЫЙ, поставка на склад ЖЕЛТЫЙ перемещается со склада КРАСНЫЙ и так далее. В начале цепочки находится система пополнения "Произ. зак." или "Покупка".  
@@ -168,4 +168,3 @@ ms.lasthandoff: 11/22/2018
 [Сведения о проектировании: основные понятия системы планирования](design-details-central-concepts-of-the-planning-system.md)   
 [Сведения о проектировании: балансировка спроса и поставки](design-details-balancing-demand-and-supply.md)   
 [Сведения о проектировании: планирование поставок](design-details-supply-planning.md)
-

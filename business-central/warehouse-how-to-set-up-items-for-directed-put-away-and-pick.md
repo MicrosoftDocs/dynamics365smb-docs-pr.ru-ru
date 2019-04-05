@@ -1,23 +1,23 @@
 ---
-title: "Настройка расширенного размещения и подбора | Документы Майкрософт"
-description: "Если склад настраивается на расширенный подбор и размещение, возникает возможность использования нового набора функций, которые обеспечивают поддержку максимально эффективного функционирования склада."
+title: Настройка расширенного размещения и подбора | Документы Майкрософт
+description: Если склад настраивается на расширенный подбор и размещение, возникает возможность использования нового набора функций, которые обеспечивают поддержку максимально эффективного функционирования склада.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 10/01/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: 0f69cfc3257de42aacf01c26090230350f83dfba
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804973"
 ---
 # <a name="set-up-items-and-locations-for-directed-put-away-and-pick"></a>Настройка товаров и складов для использования расширенного подбора и размещения
 Если склад настраивается на расширенный подбор и размещение, возникает возможность использования нового набора функций, которые обеспечивают поддержку максимально эффективного функционирования склада. Чтобы в полной мере использовать эти функциональные возможности, нужно предоставить дополнительную информацию о товарах, которая позволит провести необходимые вычисления для определения наиболее целесообразных и эффективных способов руководства деятельностью склада. Дополнительные сведения см. в разделе [Сведения о проектировании: настройка склада](design-details-warehouse-setup.md).
@@ -71,4 +71,3 @@ ms.lasthandoff: 11/26/2018
 [Управление сборкой](assembly-assemble-items.md)    
 [Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
-

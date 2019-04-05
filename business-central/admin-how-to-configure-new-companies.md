@@ -1,23 +1,23 @@
 ---
-title: "Как настраивать новые организации | Microsoft Docs"
-description: "Можно установить и настроить только что созданную организацию. Точная настройка реализации состоит из трех этапов."
+title: Как настраивать новые организации | Microsoft Docs
+description: Можно установить и настроить только что созданную организацию. Точная настройка реализации состоит из трех этапов.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
-ms.date: 10/01/2018
+ms.search.keywords: ''
+ms.date: 03/01/2019
 ms.author: sgroespe
+ms.openlocfilehash: b1c953b0a5e1247115b26a8984a632478f80cdda
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
 ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
-ms.openlocfilehash: a52a95bf3fc96b89e664041e3d2b289b6042c046
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "805332"
 ---
 # <a name="configure-new-companies"></a>Настройка новых организаций
 Настройка новой организации в вашей реализации решения обычно производится в три этапа. На первом этапе необходимо импортировать пакет конфигурации в виде файла .rapidstart с информацией о конфигурации. Во второй фазе изменяется информация о конфигурации и затем применяется к новой организации. На конечном этапе можно просмотреть и исправить все ошибки.  
@@ -71,10 +71,9 @@ ms.lasthandoff: 11/26/2018
     > [!NOTE]  
     >  Если импортируется один и тот же пакет снова, можно перезаписать уже сделанные изменения данных. Для этого можно добавить новые таблицы в новый пакет и импортировать его.  
 
-7. Примените данные к базе данных, как описано в разделе "Изменение и применение данных пакета".
+7. Примените данные к базе данных, как описано в разделе [Изменение и применение данных пакета](admin-how-to-configure-new-companies.md#to-modify-and-apply-package-data).
 
 ## <a name="see-also"></a>См. также  
 [Применение конфигураций к новым организациям](admin-apply-configuration-to-new-companies.md)  
 [Настройка компании с помощью служб RapidStart Services](admin-set-up-a-company-with-rapidstart.md)  
 [Администрация](admin-setup-and-administration.md)
-

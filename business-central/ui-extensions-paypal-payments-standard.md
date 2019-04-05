@@ -1,8 +1,8 @@
 ---
-title: "Использование расширения PayPal Payments Standard | Microsoft Docs"
-description: "Описывается порядок использования расширения, чтобы клиенты могли совершать платежи через PayPal."
+title: Использование расширения PayPal Payments Standard | Microsoft Docs
+description: Описывается порядок использования расширения, чтобы клиенты могли совершать платежи через PayPal.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +12,12 @@ ms.workload: na
 ms. search.keywords: app, add-in, manifest, customize
 ms.date: 10/01/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
 ms.openlocfilehash: 6aa3eec4afc365789b1fd85d64781593156ba068
-ms.contentlocale: ru-ru
-ms.lasthandoff: 09/28/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804823"
 ---
 # <a name="the-paypal-payments-standard-extension"></a>Расширение PayPal Payments Standard
 Клиенты постоянно требуют более высокого качества обслуживания как с точки зрения качества продукции, так и с точки зрения вариантов доставки и оплаты. Служба стандарта платежей PayPal помогает улучшить качество обслуживания.
@@ -40,4 +40,3 @@ ms.lasthandoff: 09/28/2018
 [Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью расширений](ui-extensions.md)  
 [Настройка продаж](sales-setup-sales.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
-

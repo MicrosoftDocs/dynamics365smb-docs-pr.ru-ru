@@ -1,21 +1,21 @@
 ---
-title: "Практическое руководство. Создание общих заказов на продажу | Документы Майкрософт"
-description: "Общие заказы используются, когда клиент берет на себя обязательство покупки больших количеств товара, поставка которых должна осуществляться несколькими партиями меньшего размера в течение определенного периода времени."
+title: Практическое руководство. Создание общих заказов на продажу | Документы Майкрософт
+description: Общие заказы используются, когда клиент берет на себя обязательство покупки больших количеств товара, поставка которых должна осуществляться несколькими партиями меньшего размера в течение определенного периода времени.
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 12/20/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: 5801fcc1284edfe1b8578518c084455c336d5a40
 ms.openlocfilehash: ac2582e48d03738974d5db51841e1efdf4c0a316
-ms.contentlocale: ru-ru
-ms.lasthandoff: 12/27/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "805211"
 ---
 # <a name="work-with-blanket-sales-orders"></a>Работа с общими заказами на продажу
 Общий заказ представляет собой долгосрочное рамочное соглашение между организацией и клиентом.
@@ -97,4 +97,3 @@ ms.lasthandoff: 12/27/2018
 [Создание общих заказов на сборку](assembly-how-to-create-blanket-assembly-orders.md)  
 [Настройка продаж](sales-setup-sales.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
-

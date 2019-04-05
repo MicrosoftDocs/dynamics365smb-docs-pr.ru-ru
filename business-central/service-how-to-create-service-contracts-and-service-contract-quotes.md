@@ -1,23 +1,23 @@
 ---
-title: "Как работать с сервисными контрактами и предложениями по сервисным контрактам | Документы Майкрософт"
-description: "Сервисный контракт можно создать как вручную, так и на основе предложения по сервисному контракту. Можно создать контракт на основе предложения по сервисному контракту."
+title: Как работать с сервисными контрактами и предложениями по сервисным контрактам | Документы Майкрософт
+description: Сервисный контракт можно создать как вручную, так и на основе предложения по сервисному контракту. Можно создать контракт на основе предложения по сервисному контракту.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: bholtorf
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 10/01/2018
 ms.author: bholtorf
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: 8f27a27941130a56f8ad1c1c5ef22d3e448e455b
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "805319"
 ---
 # <a name="work-with-service-contracts-and-service-contract-quotes"></a>Работа с сервисными контрактами и предложениями по сервисным контрактам
 Сервисный контракт можно создать как вручную, так и на основе предложения по сервисному контракту. Можно использовать предложение по сервисному контракту в качестве предварительного документа для создания сервисного контракта, в котором организация делает предложение клиенту, причем предложение должно быть одобрено клиентом до его преобразования в сервисный контракт. Процедуры создания сервисного контракта или предложения по сервисному контракту похожи.  
@@ -202,4 +202,3 @@ ms.lasthandoff: 11/26/2018
 [Настройка сервисных контрактов](service-how-setup-service-contracts.md)  
 [Сервисный центр](service-service.md)  
 [Преобразование сервисных контрактов, которые включают суммы НДС](service-how-to-convert-service-contracts.md)  
-

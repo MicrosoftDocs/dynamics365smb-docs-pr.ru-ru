@@ -1,8 +1,8 @@
 ---
-title: "Сведения о проектировании — определение приоритета заказов | Документы Майкрософт"
-description: "Узнайте, как задавать приоритеты для удовлетворения требований как спроса, так и предложения."
+title: Сведения о проектировании — определение приоритета заказов | Документы Майкрософт
+description: Узнайте, как задавать приоритеты для удовлетворения требований как спроса, так и предложения.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -13,12 +13,12 @@ ms.search.keywords: design, priority, prioritize, order, sku, demand, supply
 ms.date: 10/01/2018
 ms.author: sgroespe
 redirect_url: design-details-balancing-demand-and-supply
+ms.openlocfilehash: 1d58a02bdfe4810d1116d20866d3b435bc7341bc
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: 6e09ad64750493f99210d47516410d8471a83011
-ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "805287"
 ---
 # <a name="design-details-prioritizing-orders"></a>Сведения о проектировании: определение приоритета заказов
 В пределах заданной единицы хранения запрошенная или доступная дата представляет наивысший приоритет; спрос сегодняшнего дня необходимо удовлетворить перед спросом следующей недели. Но в дополнение к этому общему приоритету система планирования предложит тип спроса, который требуется удовлетворить до удовлетворения другого спроса. Аналогично она укажет, какой источник поставки следует применить до применения других источников поставки. Это осуществляется в соответствии с приоритетами заказов.  
@@ -60,4 +60,3 @@ ms.lasthandoff: 03/22/2018
 [Сведения о проектировании: балансировка спроса и поставки](design-details-balancing-demand-and-supply.md)   
 [Сведения о проектировании: основные понятия системы планирования](design-details-central-concepts-of-the-planning-system.md)   
 [Сведения о проектировании: планирование поставок](design-details-supply-planning.md)
-

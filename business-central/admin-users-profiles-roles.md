@@ -1,18 +1,18 @@
 ---
-title: "Управление пользователями и ролями | Документы Майкрософт"
-description: "Узнайте, как управлять пользователями и ролевыми центрами в Business Central."
+title: Управление пользователями и ролями | Документы Майкрософт
+description: Узнайте, как управлять пользователями и ролевыми центрами в Business Central.
 author: edupont04
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: profiles, users
 ms.date: 10/24/2018
 ms.author: edupont
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: 7ecd8a5ad2b321d4d1683047e70ede90c7ce229f
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804918"
 ---
 # <a name="understanding-users-profiles-and-role-centers"></a>Знакомство с пользователями, профилями и ролевыми центрами
 
@@ -99,4 +99,3 @@ The administrator configures the user interface for multiple users by customizin
 [Управление пользователями и разрешениями](ui-how-users-permissions.md)  
 [Управление персонализацией в качестве администратора](ui-personalization-manage.md)  
 [Персонализация рабочей области](ui-personalization-user.md)  
-

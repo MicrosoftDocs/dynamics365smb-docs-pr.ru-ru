@@ -1,23 +1,23 @@
 ---
-title: "Как использовать семейства товаров в производстве | Документы Майкрософт"
-description: "Главной задачей при настройке личного календаря для вашей организации или организации-партнера является внесение необходимых изменений статуса рабочих и нерабочих дней."
+title: Как использовать семейства товаров в производстве | Документы Майкрософт
+description: Главной задачей при настройке личного календаря для вашей организации или организации-партнера является внесение необходимых изменений статуса рабочих и нерабочих дней.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 11/05/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: c3cb9f82688f89f00f934d1468492cfa752742fd
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "805016"
 ---
 # <a name="work-with-production-families"></a>Работа с производственными семействами
 Производственное семейство — это группа отдельных товаров, взаимосвязь которых основана на подобии процессов изготовления. Формирование производственных семейств позволяет некоторым товарам производиться дважды или более раз в одном производстве, что оптимизирует потребление материалов.
@@ -47,4 +47,3 @@ ms.lasthandoff: 11/26/2018
 [Наличие](inventory-manage-inventory.md)  
 [Покупки](purchasing-manage-purchasing.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
-

@@ -1,8 +1,8 @@
 ---
-title: "Создание бюджетов ГК | Microsoft Docs"
-description: "Описывает порядок создания бюджетов ГК для прогнозирования различных финансовых действий и назначения измерений для целей бизнес-анализа."
+title: Создание бюджетов ГК | Microsoft Docs
+description: Описывает порядок создания бюджетов ГК для прогнозирования различных финансовых действий и назначения измерений для целей бизнес-анализа.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: postpone
 ms.date: 01/07/2019
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: a98027c3ef3171491f84197897f93cbed4e288c2
 ms.openlocfilehash: ca0648c3c3ccbfb02c910a063e6ac199e7b4b6d4
-ms.contentlocale: ru-ru
-ms.lasthandoff: 01/07/2019
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804822"
 ---
 # <a name="create-gl-budgets"></a>Создание бюджетов ГК
 Путем создания бюджетов с различными кодами можно для одного и того же промежутка времени создать несколько бюджетов. Сначала настраивается код бюджета и заносятся бюджетные данные. Название бюджета затем помещается во все созданные бюджетные операции.  
@@ -57,4 +57,3 @@ ms.lasthandoff: 01/07/2019
 [Настройка финансов](finance-setup-finance.md)  
 [Главная книга и план счетов](finance-general-ledger.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
-

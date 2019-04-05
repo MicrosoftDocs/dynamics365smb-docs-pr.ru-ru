@@ -1,6 +1,6 @@
 ---
-title: "Ответ на запросы о личных данных"
-description: "Необходимо отвечать на запросы субъектов данных."
+title: Ответ на запросы о личных данных
+description: Необходимо отвечать на запросы субъектов данных.
 author: bholtorf
 ms.service: dynamics365-business-central
 ms.author: bholtorf
@@ -8,14 +8,13 @@ ms.custom: na
 ms.date: 11/06/2018
 ms.reviewer: na
 ms.topic: article
-ms.translationtype: HT
-ms.sourcegitcommit: add32e82465610830b68a979e238103bfa10d438
 ms.openlocfilehash: f7a217bd61b185586c71d5982d783840dd7ffd2e
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/29/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804867"
 ---
-
 # <a name="responding-to-requests-about-personal-data"></a>Ответ на запросы о личных данных  
 Субъекты данных могут запрашивать различные типы действий в отношении своих личных данных. Например, согласно Общему регламенту по защите данных (GDPR), жители ЕС имеют право потребовать экспорта, удаления и изменения своих личных данных. Это называется *запросом субъекта данных*. Если вы классифицировали конфиденциальность своих данных и уверены, что они правильны, администратор может отвечать на запросы с помощью параметров в разделе **Конфиденциальность данных** в ролевом центре **Управление пользователями, группами пользователей и разрешениями** или, если вы используете клиент Windows, в ролевом центре **Руководитель ИТ-отдела**. Дополнительную информацию о классификации данных и классификации конфиденциальности данных в [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)] см. в разделах [Классификация данных](/dynamics-nav/classifying-data?toc=/dynamics365/business-central/toc.json) и [Классификация конфиденциальности данных](admin-classifying-data-sensitivity.md).  
 
@@ -63,4 +62,3 @@ ms.lasthandoff: 11/29/2018
 [Экспорт бизнес-данных в Excel](about-export-data.md)  
 [Регистрация изменений](across-log-changes.md)  
 [Запросы субъектов данных в соответствии с GDPR](/microsoft-365/compliance/gdpr-data-subject-requests)  
-

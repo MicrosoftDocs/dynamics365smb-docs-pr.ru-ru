@@ -1,21 +1,21 @@
 ---
-title: "Сопоставление полей для экспорта файлов банковских платежей | Microsoft Docs"
-description: "При экспорте файлов платежей с помощью функции службы конвертации банковских данных экспортируемые данные станут доступны поставщику службы конвертации банковских данных."
+title: Сопоставление полей для экспорта файлов банковских платежей | Microsoft Docs
+description: При экспорте файлов платежей с помощью функции службы конвертации банковских данных экспортируемые данные станут доступны поставщику службы конвертации банковских данных.
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 10/01/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
 ms.openlocfilehash: 80112e892c72283254d3894e6ce4102cc9350e0b
-ms.contentlocale: ru-ru
-ms.lasthandoff: 09/28/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "805040"
 ---
 # <a name="field-mapping-when-exporting-payment-files-using-bank-data-conversion-service"></a>Сопоставление полей при экспорте файлов платежей с помощью службы конвертации банковских данных
 При экспорте файлов платежей с помощью функции службы конвертации банковских данных экспортируемые данные станут доступны поставщику службы конвертации банковских данных. Поставщик услуг отвечает за конфиденциальность этих данных. Дополнительные сведения о работе функции службы конвертации банковских данных см. в разделе [О структуре обмена данными](across-about-the-data-exchange-framework.md).  
@@ -72,4 +72,3 @@ ms.lasthandoff: 09/28/2018
 [Электронный обмен данными](across-data-exchange.md)
 [Настройка службы конвертации банковских данных](bank-how-setup-bank-data-conversion-service.md)   
 [Выполнение платежей с помощью службы конвертации банковских данных или кредитового перевода SEPA](finance-make-payments-with-bank-data-conversion-service-or-sepa-credit-transfer.md)   
-

@@ -1,6 +1,6 @@
 ---
-title: "Передача контактов между Business Central и Outlook | Microsoft Docs"
-description: "Этот сервис глубоко интегрирован с Office 365, поэтому вы можете передавать контакты из Outlook в Business Central и наоборот."
+title: Передача контактов между Business Central и Outlook | Microsoft Docs
+description: Этот сервис глубоко интегрирован с Office 365, поэтому вы можете передавать контакты из Outlook в Business Central и наоборот.
 author: edupont04
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: contacts, Office 365
 ms.date: 10/01/2018
 ms.author: edupont
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: 5e4bd35edea680c46cb0df753b50916b1aeb93be
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "805208"
 ---
 # <a name="synchronize-contacts-in-business-central-with-contacts-in-microsoft-outlook"></a>Синхронизация контактов в Business Central с контактами в Microsoft Outlook
 Вы можете видеть в [!INCLUDE[d365fin](includes/d365fin_md.md)] те же контакты, что и в Outlook, если настроите синхронизацию контактов. Например, если вы занимаетесь продажами, вы можете выполнять часть своей работы в Outlook, а часть своей работы в [!INCLUDE[d365fin](includes/d365fin_md.md)]. Если в обоих местах контакты одинаковые, вам будет проще работать.  
@@ -54,4 +54,3 @@ ms.lasthandoff: 11/26/2018
 [Продажи](sales-manage-sales.md)  
 [Покупки](purchasing-manage-purchasing.md)  
 [Использование контактов в Outlook в Интернете](https://support.office.com/en-us/article/Using-contacts-People-in-Outlook-on-the-web-1e3438c7-26b2-420c-87de-3cea9d31b5cb?appver=OWB150)  
-

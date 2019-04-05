@@ -1,6 +1,6 @@
 ---
-title: "Специальные и альтернативные цены и скидки для поставщиков | Документы Майкрософт"
-description: "Вы можете задать соглашения об альтернативных ценах и скидках и применять их к документам покупки для поставщиков."
+title: Специальные и альтернативные цены и скидки для поставщиков | Документы Майкрософт
+description: Вы можете задать соглашения об альтернативных ценах и скидках и применять их к документам покупки для поставщиков.
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -8,19 +8,19 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: special price, alternate price, pricing
-ms.date: 10/01/2018
+ms.date: 03/01/2019
 ms.author: sgroespe
+ms.openlocfilehash: ffdb6c4abc4c3a14714c84c8b53798ab8dcee7f2
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
 ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
-ms.openlocfilehash: 0a718c45256a1e7cc7fbde794491814f1c26dd4a
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "805079"
 ---
 # <a name="record-special-purchase-prices-and-discounts"></a>Регистрация специальных цен покупки и скидок
 Необходимо определить соглашения о скидках и ценах, которые будут применяться при покупке у различных поставщиков, чтобы к документам покупки, созданным для поставщика, применялись согласованные правила и значения.
 
-После регистрации специальных цен и скидок по строке для покупок и продаж [!INCLUDE[d365fin](includes/d365fin_md.md)] гарантирует, что ваша прибыль от торговли товаром будет всегда оптимальна, автоматически рассчитывая наилучшую цену в документах продажи и покупки и в строках журнала товаров и работ. Дополнительные сведения см. в разделе "Расчет лучшей цены".
+После регистрации специальных цен и скидок по строке для покупок и продаж [!INCLUDE[d365fin](includes/d365fin_md.md)] гарантирует, что ваша прибыль от торговли товаром будет всегда оптимальна, автоматически рассчитывая наилучшую цену в документах продажи и покупки и в строках журнала товаров и работ. Дополнительные сведения см. в разделе [Расчет лучшей цены](purchasing-how-record-purchase-price-discount-payment-agreements.md#best-price-calculation).
 
 В отношении цен, вы можете вводить в строки покупок определенную цену для определенного сочетания поставщика, минимального количества, единицы измерения или даты начала/окончания.
 
@@ -125,4 +125,3 @@ ms.lasthandoff: 11/26/2018
 [Настройка покупки](purchasing-setup-purchasing.md)  
 [Покупки](purchasing-manage-purchasing.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
-

@@ -1,23 +1,23 @@
 ---
-title: "Пошаговое руководство. Автоматическое планирование поставок | Документы Майкрософт"
-description: "Фразами \"процесс планирования\" или \"процесс MRP\" обозначается вычисление основного плана производства (MPS) и плана потребности в материалах (MRP) на основе фактического и прогнозируемого требования."
+title: Пошаговое руководство. Автоматическое планирование поставок | Документы Майкрософт
+description: Фразами "процесс планирования" или "процесс MRP" обозначается вычисление основного плана производства (MPS) и плана потребности в материалах (MRP) на основе фактического и прогнозируемого требования.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 01/31/2019
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: a94c4f2f8d622a91b74ba0de6f0f18e7eb84a5ef
 ms.openlocfilehash: c4239904c17db334cee006d5de08ea8c0e80b750
-ms.contentlocale: ru-ru
-ms.lasthandoff: 01/31/2019
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "805234"
 ---
 # <a name="walkthrough-planning-supplies-automatically"></a>Пошаговое руководство. Автоматическое планирование поставок
 
@@ -269,4 +269,3 @@ ms.lasthandoff: 01/31/2019
  [Пошаговые описания бизнес-процессов](walkthrough-business-process-walkthroughs.md)   
  [Пошаговое руководство. Планирование поставок вручную](walkthrough-planning-supplies-manually.md)   
  [Сведения о проектировании: планирование поставок](design-details-supply-planning.md)
-

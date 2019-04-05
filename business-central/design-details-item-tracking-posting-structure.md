@@ -1,8 +1,8 @@
 ---
-title: "Сведения о проектировании — структура учета трассировки товаров | Документы Майкрософт"
-description: "Узнайте, как использовать операции книги товаров как основной носитель номеров трассировки товара."
+title: Сведения о проектировании — структура учета трассировки товаров | Документы Майкрософт
+description: Узнайте, как использовать операции книги товаров как основной носитель номеров трассировки товара.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: design, item tracking, posting, inventory
 ms.date: 10/01/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: caf7cf5afe370af0c4294c794c0ff9bc8ff4c31c
 ms.openlocfilehash: b2cb135991a067b86b7c5579e0386ffd199aefcf
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/22/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "805117"
 ---
 # <a name="design-details-item-tracking-posting-structure"></a>Сведения о проектировании: структура учета трассировки товаров
 Для того чтобы скоординировать с функцией учета стоимости товаров и получить более простое и надежное решение, операции журнала товаров используются как основные носители номеров трассировки товаров.  

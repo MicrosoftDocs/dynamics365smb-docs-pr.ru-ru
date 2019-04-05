@@ -1,8 +1,8 @@
 ---
-title: "Изменение внешнего вида отчета путем выбора другого макета | Документы Майкрософт"
-description: "Вы можете использовать различные макеты для отчетов и переключаться между ними, чтобы изменять внешний вид отчета."
+title: Изменение внешнего вида отчета путем выбора другого макета | Документы Майкрософт
+description: Вы можете использовать различные макеты для отчетов и переключаться между ними, чтобы изменять внешний вид отчета.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: jswymer
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: customized report, document layout, logo, personalize
 ms.date: 10/01/2018
 ms.author: jswymer
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: a68c26e94aa4adda7c1f546e57331a741dcfe94b
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "805311"
 ---
 # <a name="change-which-layout-is-currently-used-on-a-report"></a>Изменение макета, в настоящее время используемого в отчете
 Отчет можно настроить с использованием нескольких макетов, между которыми затем при необходимости можно будет переключаться.
@@ -48,4 +48,3 @@ ms.lasthandoff: 11/26/2018
 ## <a name="see-also"></a>См. также
 [Управление макетами отчетов](ui-manage-report-layouts.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
-

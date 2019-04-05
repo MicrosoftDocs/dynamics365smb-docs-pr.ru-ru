@@ -1,8 +1,8 @@
 ---
-title: "Настройка процессов управления сервисом | Документы Майкрософт"
-description: "Узнайте, как настраивать процессы, помогающие обеспечить удовлетворенность клиентов вашей службой обслуживания клиентов."
+title: Настройка процессов управления сервисом | Документы Майкрософт
+description: Узнайте, как настраивать процессы, помогающие обеспечить удовлетворенность клиентов вашей службой обслуживания клиентов.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: bholtorf
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: service, number sequences, setup, warnings, fee, contracts, warranties
 ms.date: 10/01/2018
 ms.author: bholtorf
-ms.translationtype: HT
-ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
 ms.openlocfilehash: 31817c277df03a774145ac308d2cc1cf128bfce0
-ms.contentlocale: ru-ru
-ms.lasthandoff: 09/28/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "805285"
 ---
 # <a name="configure-service-processes"></a>Настройка сервисных процессов
 Ниже приведены некоторые примеры настроек, которые могут быть применены к процессами сервисного управления:  
@@ -39,4 +39,3 @@ ms.lasthandoff: 09/28/2018
 [Настройка дополнительных затрат для сервисов](service-how-setup-service-costs-pricing.md)  
 [Настройка устранения проблем](service-how-setup-troubleshooting.md)  
 [Сервисный центр](service-service.md)  
-

@@ -1,6 +1,6 @@
 ---
-title: "Создание новых организаций с помощью руководства мастера настройки | Microsoft Docs"
-description: "В Business Central можно легко создать новую пустую организацию. Руководство мастера настройки помогает выполнить требуемые шаги, а также можно импортировать существующие коммерческие данные."
+title: Создание новых организаций с помощью руководства мастера настройки | Microsoft Docs
+description: В Business Central можно легко создать новую пустую организацию. Руководство мастера настройки помогает выполнить требуемые шаги, а также можно импортировать существующие коммерческие данные.
 author: edupont04
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: company, setup wizard
 ms.date: 10/01/2018
 ms.author: edupont
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: 9831dd53ffa3ba94202a8a15dc0bdaffdb6d2d2d
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "805039"
 ---
 # <a name="creating-new-companies-in-included365finincludesd365finmdmd"></a>Создание новых организаций в [!INCLUDE[d365fin](includes/d365fin_md.md)]
 В [!INCLUDE[d365fin](includes/d365fin_md.md)] контейнеры для коммерческой информации, которая относится к филиалу или юридическому лицу, называются *организация*. При оформлении подписки на [!INCLUDE[d365fin](includes/d365fin_md.md)] вам предоставляется демонстрационная организация и пустая организация *Моя организация*. Переключаться между организациями легко, просто откройте **Мои настройки** и перейдите в другую организацию. Однако можно также создавать новые организации в [!INCLUDE[d365fin](includes/d365fin_md.md)], в зависимости от потребностей бизнеса. При создании новой организации мастер настройки помогает правильно задать основные параметры. После этого можно импортировать соответствующие данные из своей старой системы или другой организации в [!INCLUDE[d365fin](includes/d365fin_md.md)].  
@@ -53,4 +53,3 @@ ms.lasthandoff: 11/26/2018
 [Импорт бизнес-данных из других финансовых систем](across-import-data-configuration-packages.md)  
 [Изменение базовых настроек](ui-change-basic-settings.md)  
 [Приступая к работе](product-get-started.md)  
-

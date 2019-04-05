@@ -1,6 +1,6 @@
 ---
-title: "Настройка отчетов для Business Central в Power BI | Документы Майкрософт"
-description: "Можно сделать данные доступными в качестве источника данных в Power BI и создать мощные отчеты о состоянии вашего бизнеса."
+title: Настройка отчетов для Business Central в Power BI | Документы Майкрософт
+description: Можно сделать данные доступными в качестве источника данных в Power BI и создать мощные отчеты о состоянии вашего бизнеса.
 author: edupont04
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -10,17 +10,17 @@ ms.workload: na
 ms.search.keywords: business intelligence, KPI, Odata, Power App, SOAP, analysis
 ms.date: 10/01/2018
 ms.author: edupont
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: ca4c27eaa1fe66e9bee678d6ec197fee7b928bdd
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804906"
 ---
 # <a name="using-included365finlongmdincludesd365finlongmdmd-as-power-bi-data-source-for-building-reports"></a>Использование [!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)] как источника данных Power BI для создания отчетов
 Можно сделать данные [!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)] доступными в качестве источника данных в Power BI и создать мощные отчеты о состоянии вашего бизнеса.  
 
-Вы должны иметь допустимую учетную запись в [!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)] и в Power BI. Кроме того, необходимо загрузить [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/).  
+Вы должны иметь допустимую учетную запись в [!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)] и в Power BI. Кроме того, необходимо скачать [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/).  
 
 ## <a name="to-add-included365finlongmdincludesd365finlongmdmd-as-a-data-source-in-power-bi-desktop"></a>Добавление [!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)] как источника данных в Power BI Desktop
 1. В Power BI Desktop в левой области навигации выберите **Получить данные**.
@@ -38,7 +38,7 @@ ms.lasthandoff: 11/26/2018
 
 Перед построением отчета рекомендуется импортировать файлы темы Microsoft [!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)].  Файл темы создаст цветовую палитру, чтобы можно было создавать отчеты с таким же цветовым стилем, что и пакет содержимого Microsoft [!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)] без необходимости определения настраиваемых цветов для каждого визуального элемента.
 
-Дополнительные сведения см. в разделе [Документация Power BI](https://powerbi.microsoft.com/documentation/powerbi-landing-page/).
+Дополнительные сведения см. в разделе [Документация по Power BI](https://powerbi.microsoft.com/documentation/powerbi-landing-page/).
 
 ## <a name="see-also"></a>См. также
 [Бизнес-аналитика](bi.md)  
@@ -47,4 +47,3 @@ ms.lasthandoff: 11/26/2018
 [Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md)   
 [Финансы](finance.md)  
 [Подключение Power BI к [!INCLUDE[d365fin](includes/d365fin_md.md)]](across-how-to-connect-powerbi-dynamics-365-content-packs-help.md)  
-

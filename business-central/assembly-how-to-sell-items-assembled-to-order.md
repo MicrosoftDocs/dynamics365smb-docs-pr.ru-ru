@@ -1,8 +1,8 @@
 ---
-title: "Практическое руководство. Продажа товара, собранного на заказ | Microsoft Docs"
-description: "Если товар настроен для сборки на заказ, его наличие на складе не ожидается, и товар должен быть собран специально для заказа на продажу. При вводе товара в строке заказа продажи автоматически создается сборочный заказ и связывается с заказом на продажу."
+title: Практическое руководство. Продажа товара, собранного на заказ | Microsoft Docs
+description: Если товар настроен для сборки на заказ, его наличие на складе не ожидается, и товар должен быть собран специально для заказа на продажу. При вводе товара в строке заказа продажи автоматически создается сборочный заказ и связывается с заказом на продажу.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: kit, kitting
 ms.date: 10/01/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: 5540c45eefb1272c5dfa5c790586f6b33b4f4848
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804874"
 ---
 # <a name="sell-items-assembled-to-order"></a>Продажа товара, собранного на заказ
 Если поле **Политика сборки** в карточке товара сборочного элемента имеет значение **Сборка на заказ**, данный элемент товара не относится к складским запасам, он должен быть специально собран к заказу на продажу. При вводе товара в строке заказа продажи автоматически создается сборочный заказ и связывается с заказом на продажу.  
@@ -65,4 +65,3 @@ ms.lasthandoff: 11/26/2018
 [Наличие](inventory-manage-inventory.md)  
 [Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
-

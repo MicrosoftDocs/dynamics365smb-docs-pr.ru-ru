@@ -1,24 +1,24 @@
 ---
-title: "Управление шаблонами уведомлений | Документы Майкрософт"
-description: "Пользователи потоков операций получают уведомления, поясняющие, какие шаги им следует предпринять, либо информирующие их о статусе подзадач процесса. Можно задать, кто и когда будет получать уведомление, указав утверждающих пользователей, график уведомления пользователей, а также отклики процесса для определения получателя уведомления."
+title: Управление шаблонами уведомлений | Документы Майкрософт
+description: Пользователи потоков операций получают уведомления, поясняющие, какие шаги им следует предпринять, либо информирующие их о статусе подзадач процесса. Можно задать, кто и когда будет получать уведомление, указав утверждающих пользователей, график уведомления пользователей, а также отклики процесса для определения получателя уведомления.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 11/08/2018
 ms.author: sgroespe
 redirect_url: across-how-to-specify-when-and-how-to-receive-notifications
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: 6c84e5e9e0284249ee7be3f92a82cca2a2fbb3d5
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "805190"
 ---
 # <a name="manage-notification-templates"></a>Управление шаблонами уведомлений
 Пользователи потоков операций получают уведомления, поясняющие, какие шаги им следует предпринять, либо информирующие их о статусе подзадач процесса. Можно задать, кто и когда будет получать уведомление, указав утверждающих пользователей, график уведомления пользователей, а также отклики процесса для определения получателя уведомления. Дополнительные сведения см. в разделе [Настройка уведомлений рабочего процесса](across-setting-up-workflow-notifications.md).  
@@ -83,4 +83,3 @@ ms.lasthandoff: 11/26/2018
  [Создание рабочих процессов](across-how-to-create-workflows.md)   
  [Использование очередей работ для планирования задач](admin-job-queues-schedule-tasks.md)   
  [Рабочий процесс](across-workflow.md)   
-

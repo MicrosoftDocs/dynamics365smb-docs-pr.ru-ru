@@ -1,25 +1,24 @@
 ---
-title: "Сервисная статистика | Microsoft Docs"
-description: "Получите быстрый обзор содержимого сервисного документа, такого как заказы, предложения, счета или кредит-ноты, сведения по конкретным строкам сервиса и сервисным товарам."
+title: Сервисная статистика | Microsoft Docs
+description: Получите быстрый обзор содержимого сервисного документа, такого как заказы, предложения, счета или кредит-ноты, сведения по конкретным строкам сервиса и сервисным товарам.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: bholtorf
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 10/01/2018
 ms.author: bholtorf
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: 03074e2296c95a2afec9f5852a9c4277efa0a37a
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "805322"
 ---
-
 # <a name="viewing-service-statistics"></a>Просмотр сервисной статистики
 Вы можете использовать статистику для анализа сервисных документов и определения качества управления процессами сервиса. Можно анализировать сервисные контракты, товары, предложения, заказы, счета и кредит-ноты, выбрав действия **Статистика**. Для сервисных товаров и контрактов можно также использовать **Анализ тренда сервисного товара** или **Анализ тренда контракта** для просмотра сводки операций книги сервиса для конкретного сервисного товара.   
 
@@ -115,4 +114,3 @@ ms.lasthandoff: 11/26/2018
 [Создание сервисных заказов](service-how-to-create-service-orders.md)   
 [Создание сервисных товаров](service-how-to-create-service-items.md)   
 [Планирование сервисного обслуживания](service-plan-service.md)  
-

@@ -1,6 +1,6 @@
 ---
-title: "Отмена Business Central | Документы Майкрософт"
-description: "Описывается, как убрать или удалить подписку на Business Central."
+title: Отмена Business Central | Документы Майкрософт
+description: Описывается, как убрать или удалить подписку на Business Central.
 author: edupont04
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: remove, delete
 ms.date: 10/01/2018
 ms.author: edupont
-ms.translationtype: HT
-ms.sourcegitcommit: caf7cf5afe370af0c4294c794c0ff9bc8ff4c31c
 ms.openlocfilehash: 3da4de9eee04f240d88d4128fefe273999f20cfc
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/22/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804947"
 ---
 # <a name="unsubscribe-remove-or-reset-included365finincludesd365finmdmd"></a>Отмена подписки, удаление или сброс [!INCLUDE[d365fin](includes/d365fin_md.md)]
 Если вы хотите прекратить пользоваться [!INCLUDE[d365fin](includes/d365fin_md.md)], вы можете закрыть свою учетную запись или попросить удалить лицензию из вашей учетной записи. Действия, которые необходимо предпринять, отличаются в зависимости от того, пользуетесь ли вы бесплатной пробной версией или у вас есть ежемесячная подписка в вашей учетной записи Office 365.  
@@ -51,4 +51,3 @@ ms.lasthandoff: 11/22/2018
 [Экспорт бизнес-данных в Excel](about-export-data.md)  
 [Портал Office](https://portal.office.com)  
 [Какова продолжительность пробного периода и как отменить подписку?](https://community.dynamics.com/business/b/financials/archive/2016/11/28/how-long-is-the-trial-period-and-how-do-i-cancel)  
-

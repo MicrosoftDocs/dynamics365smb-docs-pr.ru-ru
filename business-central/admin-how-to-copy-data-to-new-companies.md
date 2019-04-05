@@ -1,23 +1,23 @@
 ---
-title: "Копирование данных в новые организации | Документы Майкрософт"
-description: "Области можно скопировать из существующей организации в новую, если обе организации находится в одной и той же базе данных. Например, если имеется стандартный список кодов симптомов, общий для всех сервисных реализаций, коды можно легко скопировать из одной организации в другую."
+title: Копирование данных в новые организации | Документы Майкрософт
+description: Области можно скопировать из существующей организации в новую, если обе организации находится в одной и той же базе данных. Например, если имеется стандартный список кодов симптомов, общий для всех сервисных реализаций, коды можно легко скопировать из одной организации в другую.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 10/01/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: 8fc06a83a4bbf6acb5da076e21169819a6bb07de
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "805160"
 ---
 # <a name="copy-data-to-new-companies"></a>Копирование данных в новые организации
 Области можно скопировать из существующей организации в новую, если обе организации находится в одной и той же базе данных. Например, если имеется стандартный список кодов симптомов, общий для всех сервисных реализаций, коды можно легко скопировать из одной организации в другую.  
@@ -33,4 +33,3 @@ ms.lasthandoff: 11/26/2018
 [Применение конфигураций к новым организациям](admin-apply-configuration-to-new-companies.md)  
 [Настройка компании с помощью служб RapidStart Services](admin-set-up-a-company-with-rapidstart.md)  
 [Администрация](admin-setup-and-administration.md)
-

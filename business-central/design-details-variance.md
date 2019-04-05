@@ -1,23 +1,23 @@
 ---
-title: "Сведения о проектировании — отклонение | Документы Майкрософт"
-description: "Отклонение определяется как разница между фактическими и стандартными затратами, как описано в следующей формуле."
+title: Сведения о проектировании — отклонение | Документы Майкрософт
+description: Отклонение определяется как разница между фактическими и стандартными затратами, как описано в следующей формуле.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 10/01/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
 ms.openlocfilehash: 36062fc6fa40c3fc2b928ffad7e3b242634149fc
-ms.contentlocale: ru-ru
-ms.lasthandoff: 09/28/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "805099"
 ---
 # <a name="design-details-variance"></a>Сведения о проектировании: отклонение
 Отклонение определяется как разница между фактическими и стандартными затратами, как описано в следующей формуле.  
@@ -66,4 +66,3 @@ ms.lasthandoff: 09/28/2018
  [Сведения о проектировании: методы учета себестоимости](design-details-costing-methods.md) [Управление себестоимостью товаров](finance-manage-inventory-costs.md)  
  [Финансы](finance.md)  
  [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
-

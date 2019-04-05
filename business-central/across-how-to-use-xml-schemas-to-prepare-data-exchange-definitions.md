@@ -1,21 +1,21 @@
 ---
-title: "Создание XMLports на основе XML-схем | Microsoft Docs"
-description: "Используйте XML-схемы для настройки платформы обмена документами."
+title: Создание XMLports на основе XML-схем | Microsoft Docs
+description: Используйте XML-схемы для настройки платформы обмена документами.
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 10/01/2018
 ms.author: sgroespe
+ms.openlocfilehash: 91f21f3b6382aee410ea1de51f371999ac86281c
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
 ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
-ms.openlocfilehash: fbbf44cd7a98598ed25dadeb4d6e3a8d37a0bfb0
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804886"
 ---
 # <a name="use-xml-schemas-to-prepare-data-exchange-definitions"></a>Использование XML-схем для определения обмена данными
 Чтобы разрешить импорт или экспорт данных в файл в формате XML с использованием платформы обмена данными в [!INCLUDE[d365fin](includes/d365fin_md.md)], можно воспользоваться XML-схемами для определения элементов данных, которыми можно обмениваться с [!INCLUDE[d365fin](includes/d365fin_md.md)]. Эта работа выполняется на странице **Средство просмотра схем XML** путем загрузки файла XML-схемы. Для этого нужно выбрать соответствующие элементы данных и инициализировать определение обмена данными или XMLport.  
@@ -123,7 +123,7 @@ ms.lasthandoff: 11/26/2018
 
 4.  Убедитесь, что выбраны соответствующие узлы. Дополнительные сведения см. в разделе "Выбор или отмена выбора узлов на XML-схеме".  
 
-5.  На вкладке **Главная** в группе **Процесс** выберите **Создать XMLPort** и сохраните объект как TXT-файл в соответствующем местоположении.  
+5.  На вкладке **Главная** в группе **Процесс** выберите **Создать XMLport** и сохраните объект как TXT-файл в соответствующем местоположении.  
 
 6. Импортируйте новый XMLport в среду разработки [!INCLUDE[d365fin](includes/d365fin_md.md)] и скомпилируйте его.
 
@@ -132,4 +132,3 @@ ms.lasthandoff: 11/26/2018
 [Экспорт платежей в банковский файл](payables-how-export-payments-bank-file.md)   
 [Сбор платежей с прямым дебетом SEPA](finance-collect-payments-with-sepa-direct-debit.md)   
 [О структуре обмена данными](across-about-the-data-exchange-framework.md)
-

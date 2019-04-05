@@ -1,8 +1,8 @@
 ---
-title: "Рабочие задания с использованием ресурсов и табелей учета рабочего времени | Документы Майкрософт"
-description: "Описывается, как использовать ресурсы, табели учета рабочего времени и работы для управления проектами."
+title: Рабочие задания с использованием ресурсов и табелей учета рабочего времени | Документы Майкрософт
+description: Описывается, как использовать ресурсы, табели учета рабочего времени и работы для управления проектами.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: projects
 ms.date: 10/01/2018
 ms.author: sgroespe
+ms.openlocfilehash: 1de8a8feaa7ae9c7d2dd656a525be84cd5424dc6
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
 ms.translationtype: HT
-ms.sourcegitcommit: 7c346455a9e27d7274b116754f1d594484b95d67
-ms.openlocfilehash: 545c09e5b462dd712dffa68a27341b1acde17071
-ms.contentlocale: ru-ru
-ms.lasthandoff: 04/18/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "805155"
 ---
 # <a name="project-management"></a>Управление проектами
 В [!INCLUDE[d365fin](includes/d365fin_md.md)] можно выполнять общие задачи управления проектом, такие как настройка работы и планирование ресурсов, а также предоставление информации, необходимой для управления бюджетами и мониторинга хода выполнения работ. С помощью табелей можно отслеживать количество часов работы машин и сотрудников. Как менеджер проекта, вы имеете хороший обзор не только по отдельным работам, но и по распределению сотрудников, механизмов и других ресурсов, используемых во всех проектах.
@@ -48,4 +48,3 @@ ms.lasthandoff: 04/18/2018
 
 ## [!INCLUDE[d365fin](includes/free_trial_md.md)]  
  
-

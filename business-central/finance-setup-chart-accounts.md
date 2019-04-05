@@ -1,6 +1,6 @@
 ---
-title: "Настройка плана счетов"
-description: "Вы можете изменить счета по умолчанию в плане счетов и добавить новые счета."
+title: Настройка плана счетов
+description: Вы можете изменить счета по умолчанию в плане счетов и добавить новые счета.
 author: edupont04
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: COA, cha of acc
 ms.date: 12/10/2018
 ms.author: edupont
-ms.translationtype: HT
-ms.sourcegitcommit: 8a73de1aa2f4a0f633c401ea341bb7bde6579723
 ms.openlocfilehash: 962f0b81d39e8e79fb7273ee93417b01be8d9e5a
-ms.contentlocale: ru-ru
-ms.lasthandoff: 12/11/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "805308"
 ---
 # <a name="setting-up-or-changing-the-chart-of-accounts"></a>Настройка или изменение плана счетов
 В плане счетов отображаются счета главной книги, на которых хранятся финансовые данные. [!INCLUDE[d365fin](includes/d365fin_md.md)] включает стандартный план счетов, готовый к использованию в вашей организации.
@@ -37,9 +37,8 @@ ms.lasthandoff: 12/11/2018
 [Главная книга и план счетов](finance-general-ledger.md)  
 [Управление банковскими счетами](bank-manage-bank-accounts.md)  
 [Работа с измерениями](finance-dimensions.md)  
-[Импорт данных из других финансовых систем](across-import-data-configuration-packages.md)(across-import-data-configuration-packages.md)  
+[Импорт данных из других финансовых систем](across-import-data-configuration-packages.md)  
 [Работа с финансовыми отчетами](bi-how-work-account-schedule.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 
 ## [!INCLUDE[d365fin](includes/free_trial_md.md)]
-

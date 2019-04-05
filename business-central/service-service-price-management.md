@@ -1,23 +1,23 @@
 ---
-title: "Управление сервисной ценой | Документы Майкрософт"
-description: "В этом разделе описывается, как использовать лучшие цены в сервисных заказах, создавать для клиентов персонализированные соглашения по сервисным ценам, повышать эффективность работы обслуживающего персонала и ускорять процесс выставления счетов."
+title: Управление сервисной ценой | Документы Майкрософт
+description: В этом разделе описывается, как использовать лучшие цены в сервисных заказах, создавать для клиентов персонализированные соглашения по сервисным ценам, повышать эффективность работы обслуживающего персонала и ускорять процесс выставления счетов.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: bholtorf
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 10/01/2018
 ms.author: bholtorf
+ms.openlocfilehash: eb3d9b075f7209634cdc8b6f88a24409f18811e7
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: 75c50a7044e3494df5aadb90caa1c008a6ac101c
-ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804900"
 ---
 # <a name="service-price-management"></a>Управление сервисной ценой
 Функциональные возможности управления сервисной ценой позволяют использовать лучшие цены в сервисных заказах, создавать для клиентов персонализированные соглашения по сервисным ценам, повышать эффективность работы обслуживающего персонала и ускорять процесс выставления счетов.  
@@ -69,4 +69,3 @@ ms.lasthandoff: 03/22/2018
 ## <a name="see-also"></a>См. также  
 [Настройка цен и дополнительных издержек для сервисов](service-how-setup-service-costs-pricing.md)  
 [Настройка управления сервисным обслуживанием](service-setup-service.md)  
-

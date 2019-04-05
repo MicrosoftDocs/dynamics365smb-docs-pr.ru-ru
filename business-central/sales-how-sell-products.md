@@ -1,6 +1,6 @@
 ---
-title: "Создание заказа на продажу и продажа продукции | Документы Майкрософт"
-description: "Описывается порядок создания заказа на продажу для записи вашего соглашения с клиентом на продажу продукции или торговлю ею на определенных условиях."
+title: Создание заказа на продажу и продажа продукции | Документы Майкрософт
+description: Описывается порядок создания заказа на продажу для записи вашего соглашения с клиентом на продажу продукции или торговлю ею на определенных условиях.
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: trade
 ms.date: 10/01/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: 615002593edbb459b448ba75f98601e37cf59792
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804848"
 ---
 # <a name="sell-products"></a>Продажа продуктов
 Счет продажи или заказ на продажу создаются для записи соглашения с клиентом о продаже определенных товаров на определенных условиях доставки и оплаты.
@@ -128,4 +128,3 @@ ms.lasthandoff: 11/26/2018
 [Наличие](inventory-manage-inventory.md)  
 [Отправка документов по электронной почте](ui-how-send-documents-email.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
-

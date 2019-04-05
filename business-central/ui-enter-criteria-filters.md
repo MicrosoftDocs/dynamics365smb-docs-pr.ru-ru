@@ -1,6 +1,6 @@
 ---
-title: "Сортировка, поиск и фильтрация списков | Документы Майкрософт"
-description: "Работайте в списках эффективно, выполняя поиск в своих данных, сортируя столбцы и уточняя результаты с помощью мощных символов фильтров и сочетаний клавиш."
+title: Сортировка, поиск и фильтрация списков | Документы Майкрософт
+description: Работайте в списках эффективно, выполняя поиск в своих данных, сортируя столбцы и уточняя результаты с помощью мощных символов фильтров и сочетаний клавиш.
 author: jswymer
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: delimit, FlowFilter, totals, limit, advanced
 ms.date: 10/01/2018
 ms.author: jswymer
-ms.translationtype: HT
-ms.sourcegitcommit: 5d6d2d9527e81a92987f6b8fcdbe8e087c3c537a
 ms.openlocfilehash: c6eb9465d07b702e545347cad5acf0a42f01d1de
-ms.contentlocale: ru-ru
-ms.lasthandoff: 01/22/2019
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804951"
 ---
 # <a name="sorting-searching-and-filtering-lists"></a>Сортировка, поиск и фильтрация списков
 Есть несколько вещей, которые могут помочь сканировать, искать и ограничивать записи в списке. Сюда входят сортировка, поиск и фильтрация. Некоторые или все из них можно применить одновременно для быстрого поиска или анализа данных.
@@ -164,7 +164,7 @@ The Quick Filter provides an easy access to filter data by entering plain text, 
 |`23..`|с 23 текущего месяца текущего года 00:00:00 до конца|  
 |`22..23`|с 22 текущего месяца текущего года 0:00:00 по 23 текущего месяца текущего года 23:59:59|  
 
-### <a name="124-eitheror"></a>(&#124;) Либо/или  
+### <a name="124-eitheror"></a>(&#124;) Или/или  
 
 |Образец выражения|Отображаемые записи|  
 |-----------------------|-----------------------|  
@@ -287,4 +287,3 @@ The Quick Filter provides an easy access to filter data by entering plain text, 
 ## <a name="see-also"></a>См. также
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 [Общие вопросы и поиске и фильтрации](ui-search-filter-faq.md)
-

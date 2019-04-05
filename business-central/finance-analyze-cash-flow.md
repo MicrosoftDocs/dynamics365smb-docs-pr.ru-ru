@@ -1,8 +1,8 @@
 ---
-title: "Анализ движения денежных средств | Документы Майкрософт"
-description: "Описывается, как использовать диаграммы цикла кассы, дохода и расхода, движения денежных средств и прогноза движения денежных средств для анализа и будущего переноса кассы в организацию и из нее."
+title: Анализ движения денежных средств | Документы Майкрософт
+description: Описывается, как использовать диаграммы цикла кассы, дохода и расхода, движения денежных средств и прогноза движения денежных средств для анализа и будущего переноса кассы в организацию и из нее.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: bholtorf
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: money flow, expense and income, liquidity, cash receipts minus cash payments, Cartera
 ms.date: 10/01/2018
 ms.author: bholtorf
+ms.openlocfilehash: 686f678c7459c608f0ef0dccb7bf959bf843e5e6
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: ac5abf6fe38b60b385ac00d6e0ced982cd59df22
-ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "805097"
 ---
 # <a name="analyzing-cash-flow-in-your-company"></a>Анализ движения денежных средств в организации
 Как говорят, деньги решают все. Диаграммы в ролевом центре бухгалтера предоставляют сведения, которые помогут принимать обоснованные решения относительно того, что сделать с кассой.  
@@ -53,4 +53,3 @@ ms.lasthandoff: 03/22/2018
 [Настройка финансов](finance-setup-finance.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 [Настройка анализа движения денежных средств](finance-setup-cash-flow-analyses.md)  
-

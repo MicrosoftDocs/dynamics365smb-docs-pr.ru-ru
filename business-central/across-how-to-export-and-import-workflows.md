@@ -1,21 +1,21 @@
 ---
-title: "Экспорт и импорт рабочих процессов | Документы Майкрософт"
-description: "Для передачи рабочих процессов в другие базы данных Business Central, например для экономии времени при создании рабочих процессов, рабочие процессы можно экспортировать и импортировать."
+title: Экспорт и импорт рабочих процессов | Документы Майкрософт
+description: Для передачи рабочих процессов в другие базы данных Business Central, например для экономии времени при создании рабочих процессов, рабочие процессы можно экспортировать и импортировать.
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 10/01/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: a0a67c3b6a706820c8b5fb073c090a6586435ca7
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "805077"
 ---
 # <a name="export-and-import-workflows"></a>Экспорт и импорт рабочих процессов
 Для передачи рабочих процессов в другие базы данных [!INCLUDE[d365fin](includes/d365fin_md.md)], например для экономии времени при создании рабочих процессов, рабочие процессы можно экспортировать и импортировать.  
@@ -47,4 +47,3 @@ ms.lasthandoff: 11/26/2018
  [Настройка рабочих процессов](across-set-up-workflows.md)   
  [Использование рабочих процессов](across-use-workflows.md)   
  [Рабочий процесс](across-workflow.md)   
-

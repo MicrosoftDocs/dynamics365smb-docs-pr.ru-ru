@@ -1,8 +1,8 @@
 ---
-title: "Видео с инструкциями по использованию Business Central | Microsoft Docs"
-description: "Обеспечивает доступ к видео по началу работы, которые иллюстрируют выполнение типовых задач."
+title: Видео с инструкциями по использованию Business Central | Microsoft Docs
+description: Обеспечивает доступ к видео по началу работы, которые иллюстрируют выполнение типовых задач.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: bholtorf
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: video, library, how to
 ms.date: 10/01/2018
 ms.author: bholtorf
+ms.openlocfilehash: 71e92f587ac5697b96aca937e6a6d4b00dc41902
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
 ms.translationtype: HT
-ms.sourcegitcommit: e7dcdc0935a8793ae226dfc2f9709b5b8f487a62
-ms.openlocfilehash: b9f8ba9113cdac79dfd8b20d99c194e834578a8e
-ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "805168"
 ---
 # <a name="visit-our-video-library"></a>Посетите нашу библиотеку видео
 Наберитесь терпения, пока мы перестраиваем нашу библиотеку видео с инструкциями. Побочный эффект недавних улучшений в [!INCLUDE[d365fin](includes/d365fin_md.md)] заключается в том, что нам необходимо переделать наш контент, чтобы он точно отражал продукт. 
@@ -35,7 +35,7 @@ ms.lasthandoff: 03/22/2018
 > [!Tip]  
 > Видеоролики в библиотеке отображаются в рамке, которая может показаться вам слишком маленькой. Чтобы сделать рамку больше, щелкните значок двусторонней стрелки в верхнем правом углу. После этого видеоролики будут отображаться в увеличенной рамке, пока вы снова ее не уменьшите.
 
-Вы можете также просмотреть наши видео с инструкциями и много другого содержимого на канале YouTube, который мы создали для [!INCLUDE[d365fin](includes/d365fin_md.md)]. Чтобы открыть канал, [щелкните здесь](https://go.microsoft.com/fwlink/?linkid=851533).
+Вы также можете просмотреть наши видео с инструкциями и много другого содержимого на канале YouTube, который мы создали для [!INCLUDE[d365fin](includes/d365fin_md.md)]. Чтобы открыть канал, [щелкните здесь](https://go.microsoft.com/fwlink/?linkid=851533).
 
 ## <a name="content-that-is-coming-soon"></a>Контент, который скоро появится
 Просто для примера — видео, которые мы обновляем, будут показывать, как выполнять следующие действия:  
@@ -49,4 +49,3 @@ ms.lasthandoff: 03/22/2018
 
 ## <a name="see-also"></a>См. также
 [Приступая к работе](product-get-started.md)
-

@@ -1,7 +1,7 @@
 ---
-title: "Создание счета покупки и запись покупок | Документы Майкрософт"
-description: "Описывается, как приобрести товары типа \"Запасы\" или \"Услуга\" путем создания и учета счетов покупки или заказов на покупку."
-documentationcenter: 
+title: Создание счета покупки и запись покупок | Документы Майкрософт
+description: Описывается, как приобрести товары типа "Запасы" или "Услуга" путем создания и учета счетов покупки или заказов на покупку.
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -11,12 +11,12 @@ ms.workload: na
 ms.search.keywords: procurement
 ms.date: 10/01/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: cc0a5e88342e9f4c7493cf9d3390c248e6dd36b9
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804841"
 ---
 # <a name="record-purchases"></a>Регистрация покупок
 Счет покупки или заказ на покупку создается для записи стоимости покупок и отслеживания кредиторской задолженности. Если требуется управлять запасами, счета покупки и заказы на покупку также используются для динамического обновления уровней запасов, чтобы уменьшить себестоимости запасов и обеспечить лучшее обслуживание клиентов. Расходы на покупку, включая затраты на обслуживание, и стоимость запасов, полученная из учета счетов покупки или заказов, составляют показатели прибыли и другие ключевые показатели эффективности финансовой деятельности в ролевом центре.
@@ -79,4 +79,3 @@ ms.lasthandoff: 11/26/2018
 [Регистрация новых поставщиков](purchasing-how-register-new-vendors.md)  
 [Подготовка прямых поставок](sales-how-drop-shipment.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
-

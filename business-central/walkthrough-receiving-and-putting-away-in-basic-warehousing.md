@@ -1,21 +1,21 @@
 ---
-title: "Пошаговое руководство. Получение и складирование в базовых конфигурациях склада | Microsoft Docs"
-description: "В Business Central входящие процессы по получению и размещению могут быть выполнены четырьмя способами при помощи различных функций в зависимости от уровня сложности склада."
+title: Пошаговое руководство. Получение и складирование в базовых конфигурациях склада | Microsoft Docs
+description: В Business Central входящие процессы по получению и размещению могут быть выполнены четырьмя способами при помощи различных функций в зависимости от уровня сложности склада.
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 01/31/2019
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: a94c4f2f8d622a91b74ba0de6f0f18e7eb84a5ef
 ms.openlocfilehash: 2f92a8977905f5507fdcfd26613d422ebf6c23b2
-ms.contentlocale: ru-ru
-ms.lasthandoff: 01/31/2019
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "805092"
 ---
 # <a name="walkthrough-receiving-and-putting-away-in-basic-warehouse-configurations"></a>Пошаговое руководство. Получение и складирование в базовых конфигурациях склада
 
@@ -62,7 +62,7 @@ ms.lasthandoff: 01/31/2019
 ## <a name="prerequisites"></a>Предварительные требования  
 Для выполнения данного пошагового руководства необходимо выполнить следующие действия.  
 
--   Установлен "Cronus Россия ЗАО".  
+-   Установлена организация "CRONUS Россия ЗАО".  
 -   Чтобы назначить себя работником СЕРЕБРЯНОГО склада, выполните следующие действия.  
 
     1.  Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Сотрудники склада**, затем выберите связанную ссылку.  
@@ -145,4 +145,3 @@ ms.lasthandoff: 01/31/2019
  [Сведения о проектировании: входящий складской поток](design-details-inbound-warehouse-flow.md)   
  [Пошаговые описания бизнес-процессов](walkthrough-business-process-walkthroughs.md)  
  [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
-

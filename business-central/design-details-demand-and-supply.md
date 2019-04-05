@@ -1,24 +1,24 @@
 ---
-title: "Сведения о проектировании — спрос и предложение | Документы Майкрософт"
-description: "Спрос — это общий термин, используемый для любого типа общего спроса, такого как заказ на продажу и требуемый компонент в производственном заказе. Кроме того, в программе предусмотрены более технические типы спроса, например отрицательные остатки и возврат покупки."
+title: Сведения о проектировании — спрос и предложение | Документы Майкрософт
+description: Спрос — это общий термин, используемый для любого типа общего спроса, такого как заказ на продажу и требуемый компонент в производственном заказе. Кроме того, в программе предусмотрены более технические типы спроса, например отрицательные остатки и возврат покупки.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 10/01/2018
 ms.author: sgroespe
 redirect_url: design-details-balancing-demand-and-supply
+ms.openlocfilehash: ad6684bb1fefe10fc965c3c8a7780c6aa8a9d685
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: db4defc0a2bccd7c4aaa69cd06832c486178e70a
-ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804963"
 ---
 # <a name="design-details-demand-and-supply"></a>Сведения о проектировании: спрос и поставка
 Спрос — это общий термин, используемый для любого типа общего спроса, такого как заказ на продажу и требуемый компонент в производственном заказе. Кроме того, в программе предусмотрены более технические типы спроса, например отрицательные остатки и возврат покупки.  
@@ -35,4 +35,3 @@ ms.lasthandoff: 03/22/2018
  [Сведения о проектировании: балансировка спроса и поставки](design-details-balancing-demand-and-supply.md)   
  [Сведения о проектировании: основные понятия системы планирования](design-details-central-concepts-of-the-planning-system.md)   
  [Сведения о проектировании: планирование поставок](design-details-supply-planning.md)
-

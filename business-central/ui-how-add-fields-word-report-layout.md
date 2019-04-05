@@ -1,23 +1,23 @@
 ---
-title: "Практическое руководство. Добавление полей в макет отчета Word | Документы Майкрософт"
-description: "Описывается процедура добавления полей набора данных отчета в существующий макет отчета Word для отчета."
+title: Практическое руководство. Добавление полей в макет отчета Word | Документы Майкрософт
+description: Описывается процедура добавления полей набора данных отчета в существующий макет отчета Word для отчета.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: jswymer
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 10/22/2018
 ms.author: jswymer
-ms.translationtype: HT
-ms.sourcegitcommit: 78c689aafe31cdec7be1e1740422f781352bbd3c
 ms.openlocfilehash: 5293b5298a2084c8cd36ae4dcc60beda75f5014e
-ms.contentlocale: ru-ru
-ms.lasthandoff: 10/25/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "805143"
 ---
 # <a name="add-fields-to-a-word-report-layout"></a>Добавление полей в макет отчета Word
 Набор данных отчета может состоять из полей, отображающих метки, данные и изображения. В этом разделе описывается процедура добавления полей набора данных отчета в существующий макет отчета Word для отчета. Поля добавляются с использованием пользовательской части XML в Word для отчета и путем добавления элементов управления содержимым, сопоставляемых полям в наборе данных отчета. Добавление полей требует определенных знаний набора данных отчета, чтобы можно было идентифицировать поля, которые требуется добавить в макет.  
@@ -125,4 +125,3 @@ ms.lasthandoff: 10/25/2018
   
 ## <a name="see-also"></a>См. также  
  [Создание и изменение пользовательского макета отчета](ui-how-create-custom-report-layout.md)   
-

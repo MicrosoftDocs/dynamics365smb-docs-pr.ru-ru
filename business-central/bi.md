@@ -1,8 +1,8 @@
 ---
-title: "Бизнес-аналитика | Документы Майкрософт"
-description: "Фиксируйте и анализируйте бизнес-данные, например цифры продаж, покупок, текущих расходов, оплаты труда сотрудников и бюджеты, которые могут представлять собой ценную информацию для бизнес-аналитики и принятия решений."
+title: Бизнес-аналитика | Документы Майкрософт
+description: Фиксируйте и анализируйте бизнес-данные, например цифры продаж, покупок, текущих расходов, оплаты труда сотрудников и бюджеты, которые могут представлять собой ценную информацию для бизнес-аналитики и принятия решений.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: bi, power BI, analysis, KPI
 ms.date: 10/01/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: caf7cf5afe370af0c4294c794c0ff9bc8ff4c31c
 ms.openlocfilehash: 702ebfd345c7f2e09f7d84105d7d0a3e76f0550f
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/22/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804966"
 ---
 # <a name="business-intelligence"></a>Бизнес-аналитика
 Во время делового процесса в организации обрабатываются огромные объемы данных. Эти данные, отражающие цифры продаж, покупок, текущих расходов, оплаты труда сотрудников, сальдо и т. д., могут представлять из себя ценную информацию, или интеллектуальные ресурсы, для принятия решений. [!INCLUDE[d365fin](includes/d365fin_md.md)] содержит множество функций, помогающих собирать, анализировать и совместно использовать данные организации.
@@ -42,9 +42,8 @@ ms.lasthandoff: 11/22/2018
 [Финансы](finance.md)    
 [Использование Business Central в качестве источника данных Power BI](across-how-use-financials-data-source-powerbi.md)  
 [Закрытие финансовых периодов](year-close-years-periods.md)  
-[Импорт данных из других финансовых систем](across-import-data-configuration-packages.md)(across-import-data-configuration-packages.md)  
+[Импорт данных из других финансовых систем](across-import-data-configuration-packages.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 
 ## [!INCLUDE[d365fin](includes/free_trial_md.md)]  
  
-

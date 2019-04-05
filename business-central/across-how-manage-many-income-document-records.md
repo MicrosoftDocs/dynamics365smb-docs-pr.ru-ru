@@ -1,8 +1,8 @@
 ---
-title: "Определение входящих документов, которые должны быть видны| Microsoft Docs"
-description: "Корректируйте представление по умолчанию для входящих документов, например для электронных счетов, чтобы иметь лучшее представление обработанных и необработанных записей."
+title: Определение входящих документов, которые должны быть видны| Microsoft Docs
+description: Корректируйте представление по умолчанию для входящих документов, например для электронных счетов, чтобы иметь лучшее представление обработанных и необработанных записей.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: electronic document, e-invoice, incoming document, OCR, ecommerce, document exchange, import invoice
 ms.date: 10/01/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: 97ca5aab24b04f6c2d0677c6fd9626b93fcd8ca8
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804952"
 ---
 # <a name="manage-many-incoming-document-records"></a>Управление большим количеством записей входящих документов
 По мере создания или обработки записей входящих документов количество строк на странице **Входящие документы** может увеличиться настолько, что вам сложно будет иметь общее представление об этих документах. Поэтому вы можете установить для записей входящих документов статус "Обработано", чтобы они не отображались в представлении по умолчанию. При выборе действий **Показать все** вы можете просматривать как обработанные, так и необработанные записи.
@@ -57,4 +57,3 @@ ms.lasthandoff: 11/26/2018
 [Входящие документы](across-income-documents.md)  
 [Покупки](purchasing-manage-purchasing.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
-

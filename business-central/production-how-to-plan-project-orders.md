@@ -1,23 +1,23 @@
 ---
-title: "Как планировать заказы проекта | Документы Майкрософт"
-description: "Выполнение этой задачи планирования начинается с заказа на продажу и производится на странице **Планирование заказа на продажу**. После создания проектного производственного заказа его планирование может быть продолжено на странице **Планирование заказов**."
+title: Как планировать заказы проекта | Документы Майкрософт
+description: Выполнение этой задачи планирования начинается с заказа на продажу и производится на странице **Планирование заказа на продажу**. После создания проектного производственного заказа его планирование может быть продолжено на странице **Планирование заказов**.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 10/01/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: 4cb63a7dc26e13c7947ba2ae071c3dff87c53e9d
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "805172"
 ---
 # <a name="plan-project-orders"></a>Планирование заказов проекта
 Выполнение этой задачи планирования начинается с заказа на продажу и производится на странице **Планирование заказа на продажу**. После создания проектного производственного заказа его планирование может быть продолжено на странице **Планирование заказов**.  
@@ -50,4 +50,3 @@ ms.lasthandoff: 11/26/2018
 [Сведения о проектировании: планирование поставок](design-details-supply-planning.md)   
 [Рекомендации по настройке. Планирование поставок](setup-best-practices-supply-planning.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
-

@@ -1,23 +1,23 @@
 ---
-title: "Как выполнять полное планирование, MPS и MRP | Microsoft Docs"
-description: "Термины «запуск журнала планирования» или «выполнение MRP» относятся к расчету сводного производственного плана и потребностей в материалах на основании фактического и прогнозируемого спроса. Система планирования может рассчитать Сводный план-график (MPS) или План потребностей в материалах (MRP) (по запросу), либо оба плана одновременно."
+title: Как выполнять полное планирование, MPS и MRP | Microsoft Docs
+description: Термины «запуск журнала планирования» или «выполнение MRP» относятся к расчету сводного производственного плана и потребностей в материалах на основании фактического и прогнозируемого спроса. Система планирования может рассчитать Сводный план-график (MPS) или План потребностей в материалах (MRP) (по запросу), либо оба плана одновременно.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 10/01/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: 3cb3c77600ef8e83612bb144f1ddfc3abed0eff1
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804949"
 ---
 # <a name="run-full-planning-mps-or-mrp"></a>Выполнение полного планирования, MPS или MRP
 Термины «запуск журнала планирования» или «выполнение MRP» относятся к расчету сводного производственного плана и потребностей в материалах на основании фактического и прогнозируемого спроса. Система планирования может рассчитать Сводный план-график (MPS) или План потребностей в материалах (MRP) (по запросу), либо оба плана одновременно.  
@@ -114,4 +114,3 @@ ms.lasthandoff: 11/26/2018
 [Сведения о проектировании: планирование поставок](design-details-supply-planning.md)   
 [Рекомендации по настройке. Планирование поставок](setup-best-practices-supply-planning.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
-

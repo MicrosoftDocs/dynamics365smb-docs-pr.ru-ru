@@ -1,8 +1,8 @@
 ---
-title: "Управление сборкой | Документы Майкрософт"
-description: "Поддерживайте компании, которые поставляют продукты своим клиентам, объединяя компоненты в простые процессы без потребности в функциях производства, но с функциями сборки товаров, интегрирующиеся с существующими функциями, например для организации продаж, планирования, резервирования и складской деятельности."
+title: Управление сборкой | Документы Майкрософт
+description: Поддерживайте компании, которые поставляют продукты своим клиентам, объединяя компоненты в простые процессы без потребности в функциях производства, но с функциями сборки товаров, интегрирующиеся с существующими функциями, например для организации продаж, планирования, резервирования и складской деятельности.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: kit, kitting
 ms.date: 12/20/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: 5801fcc1284edfe1b8578518c084455c336d5a40
 ms.openlocfilehash: f40c0b422bfde2d3a186b4458c3780932934d497
-ms.contentlocale: ru-ru
-ms.lasthandoff: 12/27/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804938"
 ---
 # <a name="assembly-management"></a>Управление сборкой
 Для обеспечения поддержки компаний, которые поставляют продукты своим клиентам, объединяя компоненты в простые процессы без потребности в функциях производства, [!INCLUDE[d365fin](includes/d365fin_md.md)] содержит функции сборки товаров, интегрирующиеся с существующими функциями, например для организации продаж, планирования, резервирования и складской деятельности.  
@@ -55,4 +55,3 @@ ms.lasthandoff: 12/27/2018
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 
 ## [!INCLUDE[d365fin](includes/free_trial_md.md)]  
-

@@ -1,8 +1,8 @@
 ---
-title: "Подробнее о главной книге и плане счетов | Документы Майкрософт"
-description: "Описывает главную книгу, план счетов и категории счетов."
+title: Подробнее о главной книге и плане счетов | Документы Майкрософт
+description: Описывает главную книгу, план счетов и категории счетов.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: edupont04
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: analysis, history, track
 ms.date: 10/01/2018
 ms.author: edupont
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: 40363e1ef9deeda6b39e2d554c5c3dc3a85334b8
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "805011"
 ---
 # <a name="understanding-the-general-ledger-and-the-coa"></a>Сведения о главной книге и плане счетов
 В главной книге хранятся финансовые данные, а в план счетов показывает счета, на которых учитываются все операции главной книги. [!INCLUDE[d365fin](includes/d365fin_md.md)] включает стандартный план счетов, готовый к использованию в вашей организации.
@@ -65,4 +65,3 @@ ms.lasthandoff: 11/26/2018
 [Финансы](finance.md)  
 [Настройка или изменение плана счетов](finance-setup-chart-accounts.md)  
 [Бизнес-аналитика](bi.md)  
-

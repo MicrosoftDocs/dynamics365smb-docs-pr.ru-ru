@@ -1,23 +1,23 @@
 ---
-title: "Советы и подсказки — службы RapidStart Services | Документы Майкрософт"
-description: "При настройке организаций с помощью служб RapidStart Services можно воспользоваться некоторыми советами и подсказками для упрощения реализации."
+title: Советы и подсказки — службы RapidStart Services | Документы Майкрософт
+description: При настройке организаций с помощью служб RapidStart Services можно воспользоваться некоторыми советами и подсказками для упрощения реализации.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 10/01/2018
 ms.author: sgroespe
+ms.openlocfilehash: 875ab6f5875a842fb4c2ab906f39ae95607f6ba8
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: 4e8dc4436b01f69292a01afbc7a5d0381b544a77
-ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "805209"
 ---
 # <a name="tips-and-tricks-rapidstart-services"></a>Советы и подсказки. Службы RapidStart Services
 При настройке организаций с помощью служб RapidStart Services можно воспользоваться некоторыми советами и подсказками для упрощения реализации.  
@@ -42,4 +42,3 @@ ms.lasthandoff: 03/22/2018
 ## <a name="see-also"></a>См. также  
 [Настройка компании с помощью служб RapidStart Services](admin-set-up-a-company-with-rapidstart.md)  
 [Администрация](admin-setup-and-administration.md)
-

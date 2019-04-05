@@ -1,6 +1,6 @@
 ---
-title: "Выставление счетов по резервированиям в Business Central | Документы Майкрософт"
-description: "Узнайте, как массово выставлять счета из Microsoft Bookings в Business Central."
+title: Выставление счетов по резервированиям в Business Central | Документы Майкрософт
+description: Узнайте, как массово выставлять счета из Microsoft Bookings в Business Central.
 author: edupont04
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -10,14 +10,14 @@ ms.workload: na
 ms.search.keywords: invoicing, bookings
 ms.date: 01/07/2019
 ms.author: edupont
-ms.translationtype: HT
-ms.sourcegitcommit: a98027c3ef3171491f84197897f93cbed4e288c2
 ms.openlocfilehash: 65542f3855eff3a5ed117bff3247adbf05def6e2
-ms.contentlocale: ru-ru
-ms.lasthandoff: 01/07/2019
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "805052"
 ---
-# <a name="bulk-invoicing-for-microsoft-bookings-in-included365finincludesd365finmdmd"></a>Массовое выставление счетов для Microsoft Bookings в [!INCLUDE[d365fin](includes/d365fin_md.md)]
+# <a name="bulk-invoicing-for-microsoft-bookings-in-included365finincludesd365finmdmd"></a>Пакетное выставление счетов для Microsoft Bookings в [!INCLUDE[d365fin](includes/d365fin_md.md)]
 Если ваша организация использует приложение Bookings в Office 365, вы можете массово выставлять счета для назначений. На странице **Bookings без выставления счета** в [!INCLUDE[d365fin](includes/d365fin_md.md)] представлен список завершенных резервирований организации. На этой странице можно быстро выбрать назначения, по которым требуется создать счет, и создать черновики счетов за оказанные услуги.  
 
 ## <a name="connect-to-bookings"></a>Подклчюение к Bookings
@@ -43,4 +43,3 @@ ms.lasthandoff: 01/07/2019
 [Выставление счетов продажи](sales-how-invoice-sales.md)  
 [Настройка продаж](sales-setup-sales.md)  
 [Microsoft Bookings](https://products.office.com/en-us/business/scheduling-and-booking-app)  
-

@@ -1,24 +1,24 @@
 ---
-title: "Практическое руководство. Настройка объектов затрат | Документы Майкрософт"
-description: "Узнайте, как настраивать объекты затрат, которые аналогичны измерениям для главной книги."
+title: Практическое руководство. Настройка объектов затрат | Документы Майкрософт
+description: Узнайте, как настраивать объекты затрат, которые аналогичны измерениям для главной книги.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 11/13/2018
 ms.author: sgroespe
 redirect_url: finance-set-up-cost-accounting
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: 616fcbe937e556c17e8beb79f68bc961ea8bbe18
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "805153"
 ---
 # <a name="set-up-cost-objects"></a>Настройка объектов затрат
 Объекты затрат — это проекты, продукты или сервисы организации. Диаграмма объектов затрат аналогична информации об измерениях для главной книги. Диаграмму объектов затрат можно настроить одним из следующих способов:  
@@ -61,4 +61,3 @@ ms.lasthandoff: 11/26/2018
 [Терминология в учете затрат](finance-terminology-in-cost-accounting.md)   
 [Об учете затрат](finance-about-cost-accounting.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
-

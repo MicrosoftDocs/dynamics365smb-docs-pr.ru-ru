@@ -1,8 +1,8 @@
 ---
-title: "Создание взаимодействий для контактов и сегментов | Microsoft Docs"
-description: "Описывается, как создавать взаимодействия ваших коммуникаций с контактами и сегментами в Business Central, например прямые почтовые рассылки."
+title: Создание взаимодействий для контактов и сегментов | Microsoft Docs
+description: Описывается, как создавать взаимодействия ваших коммуникаций с контактами и сегментами в Business Central, например прямые почтовые рассылки.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: jswymer
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: relationship, prospect
 ms.date: 10/01/2018
 ms.author: jswymer
+ms.openlocfilehash: fc88c43e7e404c715893e11a10f0ca5fb794163a
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
 ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
-ms.openlocfilehash: 250e56b8bb2ced4745536092bf7cd4f3fa797dee
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "805142"
 ---
 # <a name="create-interactions-on-contacts-and-segments"></a>Создание взаимодействий для контактов и сегментов
 Можно создавать взаимодействия для того, чтобы регистрировать все взаимодействия и коммуникации с контактами и сегментами, например, прямые почтовые рассылки.
@@ -50,9 +50,7 @@ ms.lasthandoff: 11/26/2018
 Если установлен флажок в поле **Создать контрольный сегмент**, программа автоматически создает новый сегмент, содержащий те же контакты, что и только что зарегистрированный.
 
 ## <a name="see-also"></a>См. также
-[Регистрация взаимодействий](marketing-interactions.md)  
+[Запись взаимодействий](marketing-interactions.md)  
 [Управление контактами](marketing-contacts.md)  
 [Управление возможностями продаж](marketing-manage-sales-opportunities.md)  
-[Настройка управления отношениями](marketing-setup-marketing.md)  
 [Работа с Business Central](ui-work-product.md)
-

@@ -1,8 +1,8 @@
 ---
-title: "Сведения о проектировании — роль точки дозаказа | Документы Майкрософт"
-description: "В этом разделе подчеркивается важность задания момента повторного заказа, чтобы знать, когда заказывать дополнительные запасы."
+title: Сведения о проектировании — роль точки дозаказа | Документы Майкрософт
+description: В этом разделе подчеркивается важность задания момента повторного заказа, чтобы знать, когда заказывать дополнительные запасы.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -13,12 +13,12 @@ ms.search.keywords: desigh, reorder, demand, supply
 ms.date: 10/01/2018
 ms.author: sgroespe
 redirect_url: design-details-handling-reordering-policies
+ms.openlocfilehash: e39a7efdc796e8745bd9d8f7d74cdcfb171d851f
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: a64d71ca9f163793c959126da09ffa4ef281b5e0
-ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "805310"
 ---
 # <a name="design-details-the-role-of-the-reorder-point"></a>Сведения о проектировании: роль точки дозаказа
 В дополнение к общей балансировке спроса и поставки система планирования также отслеживает уровни запасов для соответствующих товаров, чтобы соблюсти требования политики дозаказа.  
@@ -34,4 +34,3 @@ ms.lasthandoff: 03/22/2018
 [Сведения о проектировании: параметры планирования](design-details-planning-parameters.md)   
 [Сведения о проектировании: обработка политик дозаказа](design-details-handling-reordering-policies.md)   
 [Сведения о проектировании: планирование поставок](design-details-supply-planning.md)
-

@@ -1,8 +1,8 @@
 ---
-title: "Настройка банковских выписок Yodlee | Microsoft Docs"
-description: "Вы можете преобразовывать информацию о платежах в любые форматы, требуемые вашим банком, и делать возможным импорт и экспорт банковских файлов."
+title: Настройка банковских выписок Yodlee | Microsoft Docs
+description: Вы можете преобразовывать информацию о платежах в любые форматы, требуемые вашим банком, и делать возможным импорт и экспорт банковских файлов.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: Yodlee, feed, stream, payment process
-ms.date: 10/01/2018
+ms.date: 02/26/2019
 ms.author: sgroespe
+ms.openlocfilehash: ea1641dd475d28fb02dda354bbf287d508e96854
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
 ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
-ms.openlocfilehash: 30c0e6ebface6ccfd65cab6bd2ce97a09044ff42
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "805249"
 ---
 # <a name="set-up-the-envestnet-yodlee-bank-feeds-service"></a>Настройка службы банковских выписок Envestnet Yodlee
 Вы можете импортировать электронные банковские выписки для быстрого заполнения страницы **Журнал выверки платежей**, чтобы можно было применять платежи и выверять банковский счет. Дополнительные сведения см. в разделе [Автоматическое применение платежей и выверка банковских счетов](receivables-apply-payments-auto-reconcile-bank-accounts.md).
@@ -25,7 +25,8 @@ ms.lasthandoff: 11/26/2018
 Служба банковских выписок Envestnet Yodlee устанавливается как расширение [!INCLUDE[d365fin](includes/d365fin_md.md)] и готова к включению. Дополнительные сведения см. в разделе [Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью расширений](ui-extensions.md).
 
 > [!NOTE]
-> Служба банковских выписок поддерживается только в США, Канаде и Великобритании.
+> Служба банковских выписок поддерживается только в США, Канаде и Великобритании.<br /><br />
+> Эта функция поддерживается только в сетевой версии Business Central. Чтобы воспользоваться этой функцией в локальной версии, необходимо получить кобрендинговую учетную запись у Envestnet Yodlee.
 
 После включения службы банковских выписок вы должны связать банковский счет со счетом интернет-банка, с которого поступают выписки. Банковские счета связываются со счетами интернет-банков в следующих различных ситуациях:
 
@@ -45,6 +46,9 @@ ms.lasthandoff: 11/26/2018
 3. На странице **Банковский счет** в поле **Формат импорта банковской выписки** выберите YODLEEBANKFEED.  
 
 Служба банковских выписок будет включена, когда вы свяжете банковский счет со связанным счетом интернет-банка. Перейти к следующей процедуре.  
+
+> [!NOTE]
+> Если используется мастер настройки **Настройка организации**, этот сервис включается установкой флажка **Использовать службу банковских выписок**. Дополнительную информацию см. в разделе [Создание новой организации в Business Central](about-new-company.md).
 
 ## <a name="to-create-a-new-linked-bank-account"></a>Создание нового связанного банковского счета
 1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Банковские счета**, затем выберите связанную ссылку.
@@ -120,4 +124,3 @@ ms.lasthandoff: 11/26/2018
 [Автоматическое применение платежей и выверка банковских счетов](receivables-apply-payments-auto-reconcile-bank-accounts.md)  
 [Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью расширений](ui-extensions.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
-

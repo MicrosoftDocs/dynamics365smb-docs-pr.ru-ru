@@ -1,6 +1,6 @@
 ---
-title: "Функции бухгалтерского учета в Business Central | Microsoft Docs"
-description: "Узнайте о портале бухгалтера для Business Central и ролевом центре бухгалтера, которые поддерживают работу внутренних и внешних бухгалтеров в организации клиента."
+title: Функции бухгалтерского учета в Business Central | Microsoft Docs
+description: Узнайте о портале бухгалтера для Business Central и ролевом центре бухгалтера, которые поддерживают работу внутренних и внешних бухгалтеров в организации клиента.
 author: edupont04
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: accountant, accounting, financial report
 ms.date: 10/01/2018
 ms.author: edupont
-ms.translationtype: HT
-ms.sourcegitcommit: caf7cf5afe370af0c4294c794c0ff9bc8ff4c31c
 ms.openlocfilehash: 3a6b49b754eff669e9991e8c4245ef7acd2689db
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/22/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804995"
 ---
 # <a name="accountant-experiences-in-included365finlongincludesd365finlongmdmd"></a>Работа бухгалтера в [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]
 Любой организации нужно вести учет и подписывать соответствующую документацию. Некоторые организации используют внешнего бухгалтера, а у других — бухгалтер в штате. Независимо от того, какой бухгалтер у вас, вы можете использовать ролевой центр **Бухгалтер** в качестве начальной страницы [!INCLUDE[d365fin](includes/d365fin_md.md)]. Отсюда можно получить доступ ко всем страницам, которые нужны для работы.  
@@ -40,4 +40,3 @@ ms.lasthandoff: 11/22/2018
 [Приглашение внешнего бухгалтера в свой экземпляр [!INCLUDE[d365fin](includes/d365fin_md.md)]](finance-invite-external-accountant.md)  
 [Добро пожаловать в [!INCLUDE[d365acc_long](includes/d365acc_long_md.md)]](/dynamics365/accountants/index)  
 [Dynamics 365 — Accountant Hub на Microsoft.com](https://www.microsoft.com/en-us/dynamics365/financial-insights-for-accountants)  
-

@@ -1,6 +1,6 @@
 ---
-title: "Прогноз просрочки оплаты по документам продажи | Microsoft Docs"
-description: "Используйте нашу прогностическую модель для прогноза, будет ли накладная оплачена вовремя."
+title: Прогноз просрочки оплаты по документам продажи | Microsoft Docs
+description: Используйте нашу прогностическую модель для прогноза, будет ли накладная оплачена вовремя.
 author: bholtorf
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: customer, payment, invoice, sales, invoice, quote
 ms.date: 10/01/2018
 ms.author: bholtorf
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: 4e47858bf1f7253f8fb8951fe8ea3cb611138852
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "805010"
 ---
 # <a name="the-late-payment-prediction-extension"></a>Расширение прогноза просрочки платежа  
 Важно эффективно управлять дебиторской задолженностью для общего финансового здоровья бизнеса. Расширение прогноза просрочки платежа может помочь сократить просроченную дебиторскую задолженность и настроить стратегию сбора платежей, прогнозируя, какие накладные на продажу будут оплачены вовремя. Например, если прогнозируется задержка оплаты, вы можете решить скорректировать условия платежа или способ платежа для клиента.
@@ -72,4 +72,3 @@ On the **Late Payment Prediction Setup** page you can schedule updates to paymen
 [Документация студии машинного обучения Azure](https://go.microsoft.com/fwlink/?linkid=861765)  
 [Настройка Business Central с помощью расширений](ui-extensions.md)  
 [Добро пожаловать в [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md)  
-

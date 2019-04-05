@@ -1,8 +1,8 @@
 ---
-title: "Обзор задач по настройке процессов продаж | Microsoft Docs"
-description: "Описываются задачи по настройке правил и значений для определения политик и процессов продаж."
+title: Обзор задач по настройке процессов продаж | Microsoft Docs
+description: Описываются задачи по настройке правил и значений для определения политик и процессов продаж.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: trade, sell, configure
 ms.date: 10/01/2018
 ms.author: sgroespe
+ms.openlocfilehash: 445b2c8ad3b5d4989324bae3d27423163d6808b5
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: 00e83452109c6fa31c3eb56d5631f972e5239314
-ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "805237"
 ---
 # <a name="setting-up-sales"></a>Настройка продаж
 Прежде чем приступать к управлению процессами продажи, необходимо настроить правила и значения, которые определяют политики продажи в организации.
@@ -42,4 +42,3 @@ ms.lasthandoff: 03/22/2018
 ## <a name="see-also"></a>См. также
 [Продажи](sales-manage-sales.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
-

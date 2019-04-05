@@ -1,6 +1,6 @@
 ---
-title: "Добавление внешнего бухгалтера в Business Central | Microsoft Docs"
-description: "Узнайте, как можно пригласить внешнего бухгалтера в ваш экземпляр Business Central."
+title: Добавление внешнего бухгалтера в Business Central | Microsoft Docs
+description: Узнайте, как можно пригласить внешнего бухгалтера в ваш экземпляр Business Central.
 author: edupont04
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: accountant, accounting
 ms.date: 01/14/2019
 ms.author: edupont
-ms.translationtype: HT
-ms.sourcegitcommit: 79729b42b660399893aebe1116c80ef3b3209042
 ms.openlocfilehash: aff05be6ade45224a57f57c92c2d52fcf9e6eb13
-ms.contentlocale: ru-ru
-ms.lasthandoff: 01/15/2019
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "805315"
 ---
 # <a name="inviting-your-external-accountant-to-your-included365finincludesd365finmdmd"></a>Приглашение внешнего бухгалтера в ваш экземпляр [!INCLUDE[d365fin](includes/d365fin_md.md)]
 Если вы используете внешнего бухгалтера для управления вашим учетом и финансовой отчетностью, вы можете пригласить его в свой экземпляр [!INCLUDE[d365fin](includes/d365fin_md.md)], чтобы он работал в вашими данными.
@@ -46,4 +46,3 @@ ms.lasthandoff: 01/15/2019
 [Настройка электронной почты вручную или с помощью сопровождаемой настройки](admin-how-setup-email.md)  
 [Работа бухгалтера в Business Central](finance-accounting.md)  
 [Business Central для бухгалтеров на Microsoft.com](https://www.microsoft.com/en-us/dynamics365/financial-insights-for-accountants)  
-
