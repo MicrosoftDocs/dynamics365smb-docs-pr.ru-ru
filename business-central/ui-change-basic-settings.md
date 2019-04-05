@@ -1,6 +1,6 @@
 ---
-title: "Просмотр и изменение базовых параметров | Microsoft Docs"
-description: "Узнайте, как изменять некоторые из базовых параметров, например ролевой центр, компанию или рабочую дату."
+title: Просмотр и изменение базовых параметров | Microsoft Docs
+description: Узнайте, как изменять некоторые из базовых параметров, например ролевой центр, компанию или рабочую дату.
 author: SusanneWindfeldPedersen
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: change Role Center, notification, change company, change work date
 ms.date: 11/19/2018
 ms.author: solsen
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: 353662322e36a564f30bc911f056817cafa7440c
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804425"
 ---
 # <a name="changing-basic-settings"></a>Изменение базовых настроек
 На странице [**Мои настройки**](https://businesscentral.dynamics.com?page=9176 "Прямой переход на вашу страницу пользовательских настроек в Business Central") можно просмотреть и изменить базовые настройки для [!INCLUDE[d365fin](includes/d365fin_md.md)]. Изменения, которые вы вносите, влияют только на вашу рабочую область, но не на рабочие области других пользователей.  
@@ -65,4 +65,3 @@ ms.lasthandoff: 11/26/2018
 ## <a name="see-also"></a>См. также
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 [Изменение набора отображаемых функций](ui-experiences.md)  
-

@@ -1,23 +1,23 @@
 ---
-title: "Настройка нескольких процентных ставок"
-description: "Можно вычислять финансовые сборы с несколькими процентными ставками за определенный период. Расчет процентов аналогичен для всех финансовых издержек, изменяются только проценты за определенный период."
+title: Настройка нескольких процентных ставок
+description: Можно вычислять финансовые сборы с несколькими процентными ставками за определенный период. Расчет процентов аналогичен для всех финансовых издержек, изменяются только проценты за определенный период.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 10/01/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: 85e295997089ea10b956fe0a5d087652c190fb44
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804191"
 ---
 # <a name="set-up-multiple-interest-rates"></a>Настройка нескольких процентных ставок
 Несколько процентных ставок используются для различных периодов для задержанных платежей в торговых транзакциях. Например, государство определяет максимальный процент, начисляемый потребителю. Данную процентную ставку можно изменять дважды в год 1-го января и 1-го июля. Процентная ставка между компаниями (B2B) устанавливается по соглашению сторон, и для этой группе клиентов нет ограничений. Объявленная ставка обычно на 4 процента выше обычного банковского процента.
@@ -38,4 +38,3 @@ ms.lasthandoff: 11/26/2018
 ## <a name="see-also"></a>См. также  
 [Сбор непогашенных остатков задолженности](receivables-collect-outstanding-balances.md)  
 [Настройка финансов](finance-setup-finance.md)
-

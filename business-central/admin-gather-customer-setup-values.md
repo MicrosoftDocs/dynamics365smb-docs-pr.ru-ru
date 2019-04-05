@@ -1,23 +1,23 @@
 ---
-title: "Сбор значений настроек клиента | Microsoft Docs"
-description: "Анкета конфигурации используется для упрощения снижения рабочей нагрузки благодаря оптимизации настройки новой организации. Можно сгенерировать анкету конфигурации в Business Central, а затем передать ее клиенту в файле Excel (.xls) или XML."
+title: Сбор значений настроек клиента | Microsoft Docs
+description: Анкета конфигурации используется для упрощения снижения рабочей нагрузки благодаря оптимизации настройки новой организации. Можно сгенерировать анкету конфигурации в Business Central, а затем передать ее клиенту в файле Excel (.xls) или XML.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 10/01/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: 9231f63266ba030bbf4b3ca41641d5210bcd49b8
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804545"
 ---
 # <a name="gather-customer-setup-values"></a>Сбор значений настройки клиента
 Анкета конфигурации используется для упрощения снижения рабочей нагрузки благодаря оптимизации настройки новой организации. Можно сгенерировать анкету конфигурации в [!INCLUDE[d365fin](includes/d365fin_md.md)], а затем передать ее клиенту в файле Excel или XML.  
@@ -121,4 +121,3 @@ ms.lasthandoff: 11/26/2018
 ## <a name="see-also"></a>См. также  
 [Настройка компании с помощью служб RapidStart Services](admin-set-up-a-company-with-rapidstart.md)  
 [Администрация](admin-setup-and-administration.md)
-

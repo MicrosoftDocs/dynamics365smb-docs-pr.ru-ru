@@ -1,6 +1,6 @@
 ---
-title: "Business Central и пакеты содержимого Power BI | Документы Майкрософт"
-description: "Анализ данных, бизнес-аналитика и КПЭ на основе данных Business Central становятся проще благодаря пакетам содержимого Power BI и Business Central."
+title: Business Central и пакеты содержимого Power BI | Документы Майкрософт
+description: Анализ данных, бизнес-аналитика и КПЭ на основе данных Business Central становятся проще благодаря пакетам содержимого Power BI и Business Central.
 author: edupont04
 ms.service: dynamics365-business-central
 ms.topic: get-started-article
@@ -10,17 +10,17 @@ ms.workload: na
 ms.search.keywords: account schedule, analysis, reporting, financial report, business intelligence, KPI
 ms.date: 10/01/2018
 ms.author: edupont
-ms.translationtype: HT
-ms.sourcegitcommit: caf7cf5afe370af0c4294c794c0ff9bc8ff4c31c
 ms.openlocfilehash: 26fe722a863ada2bcd017e2bc614b976a7119a25
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/22/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "803979"
 ---
 # <a name="enabling-your-business-data-for-power-bi"></a>Включение бизнес-данных для Power BI
-Анализ данных [!INCLUDE[d365fin](includes/d365fin_md.md)] становится проще благодаря Power BI и пакетам содержимого [!INCLUDE[d365fin](includes/d365fin_md.md)]. Power BI извлекает ваши данные и строки готовую панель мониторинга и отчеты на основе этих данных.  
+Анализ данных [!INCLUDE[d365fin](includes/d365fin_md.md)] становится проще благодаря Power BI и пакетам содержимого [!INCLUDE[d365fin](includes/d365fin_md.md)]. Power BI извлекает ваши данные и строит готовую панель мониторинга и отчеты на основе этих данных.  
 
-Вы должны иметь допустимую учетную запись в Dynamics 365 и Power BI. Кроме того, необходимо загрузить [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/), если вы хотите создавать свои собственные отчеты Power BI. Для пакетов содержимого Power BI требуются разрешения к таблицам, из которых извлекаются данные. Дополнительные сведения о требованиях см. ниже.  
+Вы должны иметь допустимую учетную запись в Dynamics 365 и в Power BI. Кроме того, необходимо скачать [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/), если вы хотите создавать собственные отчеты Power BI. Для пакетов содержимого Power BI требуются разрешения к таблицам, из которых извлекаются данные. Дополнительные сведения о требованиях см. ниже.  
 
 Майкрософт опубликовывала следующие пакеты содержимого:
 
@@ -47,7 +47,7 @@ ms.lasthandoff: 11/22/2018
 1. Выберите **Получить данные** в нижней части левой панели навигации.  
 ![Переход к разделу "Получить данные"](./media/across-how-to-connect-powerbi-d365-content-packs/powerbi-get-data.png)
 
-Можно также начать работать из Dynamics 365 Business Edition. Из ролевого центра перейдите к пункту **Выбор отчета** части ролевого центра Power BI. Выберите на ленте **Сервис** или **Моя организация**. Когда выбрано одно из этих действий, производится переход к галерее "Организация" в Power BI или к библиотеке сервисов в Power BI, которые также будут отфильтрованы для отображения только соответствующих пакетов, имеющих отношение к [!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)].
+Можно также начать с Dynamics 365 Business Edition. Из ролевого центра перейдите к пункту **Выбор отчета** части ролевого центра Power BI. Выберите на ленте **Сервис** или **Моя организация**. Когда выбрано одно из этих действий, производится переход к галерее "Организация" в Power BI или к библиотеке сервисов в Power BI, которые также будут отфильтрованы для отображения только соответствующих пакетов, имеющих отношение к [!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)].
 
 2. В поле **Службы** выберите **Получить**. Откроется страница **AppSource** и **Приложения для приложений Power BI**.  
 ![Выбор пакетов содержимого из веб-служб](./media/across-how-to-connect-powerbi-d365-content-packs/powerbi-online-services-get.png)
@@ -73,72 +73,72 @@ ms.lasthandoff: 11/22/2018
 **Microsoft Dynamics 365 Business Central – CRM**
 - Возможности продаж
 - Организация для просмотра шаблона Excel
-- Метки отчетов Power BI
+- Метки отчета Power BI
 
-**Microsoft Dynamics 365 Business Central – Finance**
+**Microsoft Dynamics 365 Business Central — Финансы**
 - PowerBIFinance
 - Организация для просмотра шаблона Excel
-- Метки отчетов Power BI
+- Метки отчета Power BI
 
-**Microsoft Dynamics 365 Business Central – Jobs**
+**Microsoft Dynamics 365 Business Central — Работы**
 - Список работ
 - Строки планирования работ
 - Строки рабочего задания
-- Метки отчетов Power BI
+- Метки отчета Power BI
 - Организация для просмотра шаблона Excel
 
-**Microsoft Dynamics 365 Business Central - Sales**
+**Microsoft Dynamics 365 Business Central — Продажи**
 - Панель мониторинга продажи
 - Организация для просмотра шаблона Excel
-- Метки отчетов Power BI
+- Метки отчета Power BI
 
 ## <a name="list-page-reports"></a>Список отчетов страниц
 
-**Microsoft Dynamics 365 Business Central – Customers List**
+**Microsoft Dynamics 365 Business Central — Список клиентов**
 - Продажа товаров по клиенту
 - Список покупок товаров Power BI
 - Список продаж товаров Power BI
 - Панель мониторинга продажи
 - Список клиентов Power BI
 - ExcelTemplateViewCompany
-- Метки отчетов Power BI
+- Метки отчета Power BI
 
-**Microsoft Dynamics 365 Business Central - General Ledger Entries List**
+**Microsoft Dynamics 365 Business Central — Список операций ГК**
 - Список сумм ГК Power BI
 - Сумма бюджета ГК Power BI
 - ExcelTemplateViewCompany
-- Метки отчетов Power BI
+- Метки отчета Power BI
 
-**Microsoft Dynamics 365 Business Central – Items List**
+**Microsoft Dynamics 365 Business Central — Список товаров**
 - Продажа товаров по клиенту
 - Список покупок товаров Power BI
 - Список продаж товаров Power BI
 - Панель мониторинга продажи
 - ExcelTemplateViewCompany
-- Метки отчетов Power BI
+- Метки отчета Power BI
 
-**Microsoft Dynamics 365 Business Central – Jobs List**
+**Microsoft Dynamics 365 Business Central — Список работ**
 - Список работ Power BI
 - ExcelTemplateViewCompany
-- Метки отчетов Power BI
+- Метки отчета Power BI
 
-**Microsoft Dynamics 365 Business Central – Purchase Invoices List**
+**Microsoft Dynamics 365 Business Central — Список счетов на покупку**
 - Список покупок Power BI
 - ExcelTemplateViewCompany
-- Метки отчетов Power BI
+- Метки отчета Power BI
 
-**Microsoft Dynamics 365 Business Central – Sales Orders List**
+**Microsoft Dynamics 365 Business Central — Список заказов на продажу**
 - Список продаж Power BI
 - ExcelTemplateViewCompany
-- Метки отчетов Power BI
+- Метки отчета Power BI
 
 
-**Microsoft Dynamics 365 Business Central – Vendors List**
+**Microsoft Dynamics 365 Business Central — Список поставщиков**
 - Список покупок товаров Power BI
 - Список продаж товаров Power BI
 - Список поставщиков Power BI
 - ExcelTemplateViewCompany
-- Метки отчетов Power BI
+- Метки отчета Power BI
 
 ## <a name="web-services"></a>Веб-службы
 Простой способ найти веб-службы — найти веб-службы в [!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)]. В списке проверьте, что установлен флажок "Опубликовать" для веб-служб, перечисленных выше.
@@ -170,4 +170,3 @@ ms.lasthandoff: 11/22/2018
 [Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] в Microsoft Flow](across-how-use-financials-data-source-flow.md)   
 
 ## [!INCLUDE[d365fin](includes/free_trial_md.md)]  
-

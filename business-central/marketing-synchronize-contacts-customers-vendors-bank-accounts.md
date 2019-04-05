@@ -1,8 +1,8 @@
 ---
-title: "Синхронизация контактов с клиентами и поставщиками | Документы Майкрософт"
-description: "Вы можете связать или синхронизировать информацию о контактах, т. е. о клиентах, поставщиках или банковских счетах, чтобы централизованно обновлять эту информацию."
+title: Синхронизация контактов с клиентами и поставщиками | Документы Майкрософт
+description: Вы можете связать или синхронизировать информацию о контактах, т. е. о клиентах, поставщиках или банковских счетах, чтобы централизованно обновлять эту информацию.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: edupont04
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -13,17 +13,15 @@ ms.search.keywords: relationship, CRM, integration, couple
 ms.date: 10/01/2018
 ms.author: edupont
 redirect_url: marketing-create-contact-companies
+ms.openlocfilehash: 4785e0644e2cb4c615ed79fbd23bef74d25ca547
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
 ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
-ms.openlocfilehash: 84cb3a6a96826ad5e3d1824ed5182dfcd972d0b3
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804306"
 ---
 # <a name="synchronizing-contacts-with-customers-vendors-and-bank-accounts"></a>Синхронизация контактов с клиентами, поставщиками и банковскими счетами
 Если какие-то контакты являются еще и клиентами, поставщиками или банковскими счетами, можно синхронизировать контактную информацию с соответствующим клиентом, поставщиком или банковским счетом. Синхронизация делает общую информацию между контактами и клиентами, поставщиками или банковским счетом одинаковой.  
-
-Прежде чем синхронизировать контакты с клиентами, поставщиками или банковскими счетами, следует указать код делового отношения для клиентов, поставщиков и банковских счетов на странице **Настройка модуля Маркетинг**. Дополнительные сведения см. в разделе [Настройка управления отношениями](marketing-setup-marketing.md).
 
 ## <a name="different-ways-to-synchronize-contacts-with-customers-vendors-and-bank-accounts"></a>Различные способы синхронизации контактов с клиентами, поставщиками и банковскими счетами
 Контакты можно синхронизировать с заказчиками, поставщиками или банковскими счетами тремя способами:
@@ -48,4 +46,3 @@ ms.lasthandoff: 11/26/2018
 ## <a name="see-also"></a>См. также
 [Управление контактами](marketing-contacts.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
-

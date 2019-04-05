@@ -1,6 +1,6 @@
 ---
-title: "Создание среды \"песочницы\" | Документы Майкрософт"
-description: "Создайте среду для исследования, обучения, демонстрации, разработки и тестирования."
+title: Создание среды "песочницы" | Документы Майкрософт
+description: Создайте среду для исследования, обучения, демонстрации, разработки и тестирования.
 author: SusanneWindfeldPedersen
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: sandbox, demo, develop
-ms.date: 10/01/2018
+ms.date: 02/15/2019
 ms.author: solsen
+ms.openlocfilehash: 91db02673c1e408927d9863af9ec6751bc33e480
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
 ms.translationtype: HT
-ms.sourcegitcommit: 8a73de1aa2f4a0f633c401ea341bb7bde6579723
-ms.openlocfilehash: 81eb819295a8d2b03f9c53ecd98053d0b1041faa
-ms.contentlocale: ru-ru
-ms.lasthandoff: 12/11/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804704"
 ---
 [!INCLUDE[d365fin_early_release](includes/d365fin_early_release.md.md)]
 
@@ -27,48 +27,48 @@ ms.lasthandoff: 12/11/2018
 
 1. Выполните вход в производственный экземпляр службы [!INCLUDE[d365fin](includes/d365fin_md.md)].
 2. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Среда "песочницы"**, затем выберите связанную ссылку.
-![Настройка среды "песочницы"](./media/across-sandbox/sandbox-environment-setup.png)
+<!-- ![Sandbox Environment Setup](./media/across-sandbox/sandbox-environment-setup.png) -->
 3. Выберите **Создать**.  
   В браузере откроется другая вкладка для завершения настройки среды песочницы.
 > [!NOTE]  
 >  Если в браузере включена блокировка всплывающих окон, измените ее, чтобы разрешить URL-адреса с адреса *.businesscentral.dynamics.com.   
 
 4. Когда среда песочницы будет готова, вы будете перенаправлены в приветственный мастер среды песочницы.
-![Приветственный мастер "песочницы"](./media/across-sandbox/sandbox-wizard.png)
+<!-- ![Sandbox Welcome Wizard](./media/across-sandbox/sandbox-wizard.png) -->
 
 5. Выберите **Узнать больше**, чтобы ознакомиться с сценариями, которые можно попробовать в среде песочницы. Или выберите **Закрыть**, чтобы перейти в ролевой центр экземпляра "песочницы" [!INCLUDE[d365fin](includes/d365fin_md.md)].
 6. В верхней части ролевого центра появится уведомление о том, что это среда песочницы. Тип среды также отображается в строке заголовка клиента.
-![Уведомление ролевого центра "песочницы"](./media/across-sandbox/sandbox-rolecenter-notification.png)  
+<!-- ![Sandbox RoleCenter Notification](./media/across-sandbox/sandbox-rolecenter-notification.png) --> 
 В среде песочницы создан новый арендатор. Для этого арендатора загружены демонстрационные данные по умолчанию компании CRONUS. При создании песочницы никакие данные не копируются и не переносятся каким-либо другим образом из производственной среды.
-7.  В любой момент можно вернуться на страницу **Среда "песочницы"** и сбросить среду "песочницы".
+
+7. В любой момент можно вернуться на страницу **Среда "песочницы"** и сбросить среду "песочницы".
 > [!NOTE]  
 >  При сбросе среды песочницы она полностью удаляется, а затем создается заново с демонстрационными данными по умолчанию.  
 
-8.  Для переключения между производственной средой и средой песочницы можно использовать средства запуска приложений Business Central.
-![Меню песочницы Dynamics365](./media/across-sandbox/sandbox-dynamics365-menu.png)
+8. Для переключения между производственной средой и средой песочницы можно использовать средства запуска приложений Business Central.
+<!-- ![Sandbox Dynamics365 Menu](./media/across-sandbox/sandbox-dynamics365-menu.png) -->
 
-9.  Администратор или другой пользователь может ограничить или даже блокировать доступ некоторых пользователей к среде песочницы. Это можно сделать с помощью стандартных функций безопасности для продукта, таких как карта пользователя, группы пользователей и наборы разрешений.
+9. Администратор или другой пользователь может ограничить или даже блокировать доступ некоторых пользователей к среде песочницы. Это можно сделать с помощью стандартных функций безопасности для продукта, таких как карта пользователя, группы пользователей и наборы разрешений.
 
-![Наборы разрешений песочницы](./media/across-sandbox/sandbox-permission-sets.png)
+<!-- ![Sandbox Permission Sets](./media/across-sandbox/sandbox-permission-sets.png) -->
 
 ## <a name="advanced-functionality-in-the-sandbox-environment"></a>Расширенная функциональная возможность в среде песочницы
-### <a name="the-in-client-designer"></a>Конструктор в клиенте.
-В среде песочницы имеется включенная функция конструктора в клиенте, которую можно активировать, выбрав значок конструктора ![Дизайнер](./media/across-sandbox/sandbox-inclient-design-icon.png) на странице.
+### <a name="designer"></a>Дизайнер
+В среде песочницы имеется включенная функция **Конструктор**, которую можно активировать, выбрав значок конструктора ![Конструктор](./media/across-sandbox/sandbox-inclient-design-icon.png) на странице.
 
-![Конструктор в клиенте](./media/across-sandbox/sandbox-inclient-designer.png)
+<!-- ![In-client Designer](./media/across-sandbox/sandbox-inclient-designer.png) -->
 
 ### <a name="enable-the-advanced-user-experience"></a>Включение расширенных возможностей пользователя
 Можно включить и попробовать расширенные (полные) функциональные возможности [!INCLUDE[d365fin](includes/d365fin_md.md)] в среде арендатора песочницы, задав поле **Опыт** на странице **Информация о компании**.
 
-![Расширенная среда "песочницы"](./media/across-sandbox/sandbox-advanced.png)
+<!-- ![Sandbox Environment Advanced](./media/across-sandbox/sandbox-advanced.png) -->
 
-![Производство песочницы](./media/across-sandbox/sandbox-production.png)
+<!-- ![Sandbox Production](./media/across-sandbox/sandbox-production.png) -->
 
 После включения расширенных функциональных возможностей в арендаторе песочницы вы получаете доступ ко всем стандартным профилям и ролевым центрам. Можно также создать полностью настроенную пробную организацию, включая демонстрационные данные и доступ к расширенным возможностям продукта.
 
-![Новая компания в песочнице](./media/across-sandbox/sandbox-newcompany.png)
+<!-- ![Sandbox New Company](./media/across-sandbox/sandbox-newcompany.png) -->
 
 
 ## <a name="see-also"></a>См. также
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
-

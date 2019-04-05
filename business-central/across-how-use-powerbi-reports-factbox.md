@@ -1,8 +1,8 @@
 ---
-title: "Отображение пользовательских отчетов Power BI | Microsoft Docs"
-description: "Можно использовать отчеты Power BI для сбора дополнительных сведений о данных в списках."
+title: Отображение пользовательских отчетов Power BI | Microsoft Docs
+description: Можно использовать отчеты Power BI для сбора дополнительных сведений о данных в списках.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: edupont04
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,18 +12,18 @@ ms.workload: na
 ms.search.keywords: business intelligence, KPI, Odata, Power App, SOAP, analysis
 ms.date: 10/01/2018
 ms.author: edupont
+ms.openlocfilehash: 2be3a29ad88c46f8b96b9f4bed34602da35fbcb7
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
 ms.translationtype: HT
-ms.sourcegitcommit: e3917573a912a4e51416c4e926443c87513728fe
-ms.openlocfilehash: 595e6fb7cc8239ea33cf57aadfd8b0f3419323e5
-ms.contentlocale: ru-ru
-ms.lasthandoff: 06/01/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804276"
 ---
 # <a name="viewing-list-data-in-power-bi-reports-in-business-central"></a>Просмотр данных в списках в отчетах Power BI в Business Central 
 [!INCLUDE[d365fin](includes/d365fin_md.md)] включает элемент управления информационной панелью на нескольких ключевых страницах списков, который предоставляет дополнительные сведения о данных в списке. При перемещении между строками в списке отчет обновляется и фильтруется в соответствии с выбранной операцией. Можно создать пользовательские отчеты для отображения в этом элементе управления, но существует несколько правил, которые следует соблюдать при создании отчетов для обеспечения требуемого поведения.  
 
 > [!NOTE]  
->   Вы должны иметь допустимую учетную запись в [!INCLUDE[d365fin](includes/d365fin_md.md)] и в Power BI. Кроме того, необходимо загрузить [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/). Дополнительные сведения см. в разделе [Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] как источника данных Power BI](across-how-use-financials-data-source-powerbi.md).  
+>   Вы должны иметь допустимую учетную запись в [!INCLUDE[d365fin](includes/d365fin_md.md)] и в Power BI. Кроме того, необходимо скачать [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/). Дополнительные сведения см. в разделе [Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] как источник данных Power BI](across-how-use-financials-data-source-powerbi.md).  
 
 ## <a name="report-data-set"></a>Набор данных отчета
 При создании отчета в Power BI Desktop укажите источник данных или веб-службу, содержащую данные, связанные со списком, с которым требуется связать отчет. Например, если нужно создать отчет для списка продаж, убедитесь, что набор данных содержит информацию, связанную с продажами.  
@@ -76,4 +76,3 @@ ms.lasthandoff: 06/01/2018
 [Приступая к работе](product-get-started.md)    
 [Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md)    
 [Финансы](finance.md)  
-

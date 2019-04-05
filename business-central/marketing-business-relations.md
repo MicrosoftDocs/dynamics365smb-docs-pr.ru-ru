@@ -1,8 +1,8 @@
 ---
-title: "Определение кодов деловых отношений для контактов | Microsoft Docs"
-description: "Деловые отношения в Business Central помогают в маркетинге и показывают ваши деловые отношения с потенциальными и текущими клиентами и партнерами, например с банком или с поставщиком услуг."
+title: Определение кодов деловых отношений для контактов | Microsoft Docs
+description: Деловые отношения в Business Central помогают в маркетинге и показывают ваши деловые отношения с потенциальными и текущими клиентами и партнерами, например с банком или с поставщиком услуг.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: jswymer
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,15 +12,15 @@ ms.workload: na
 ms.search.keywords: marketing, prospect, contact, client, customer
 ms.date: 10/01/2018
 ms.author: jswymer
-redirect_url: marketing-setup-marketing
+redirect_url: marketing-create-contact-companies
+ms.openlocfilehash: cb600ea688a856f481d84604d6966231fe7f536d
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
 ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
-ms.openlocfilehash: 33743655f682aae9e02393aa68d04dffd334357b
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804662"
 ---
-# <a name="setting-up-business-relations-on-contact-companies"></a>Настройка деловых отношений в организациях контактов
+# <a name="setting-up-business-relations-on-contacts"></a>Настройка деловых отношений в контактах
 Деловые отношения используются для указания деловых отношений с контактами, например, с предполагаемым клиентом, банком, консультантом, поставщиком услуг и т. д.
 
 Использование деловых отношений для контактов — это двухэтапный процесс. Сначала вы определяете код делового отношения. Этот шаг нужно выполнить один раз для каждого делового отношения. После настройки кода делового отношения можно начинать назначение кода контактным организациям.
@@ -50,6 +50,4 @@ ms.lasthandoff: 11/26/2018
 После назначения контактам деловых отношений можно использовать эту информацию для выбора контактов для сегментов. Дополнительные сведения см. в разделе [Добавление контактов к сегментам](marketing-add-contact-segment.md).
 
 ## <a name="see-also"></a>См. также
-[Создание контактных организаций](marketing-create-contact-companies.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
-

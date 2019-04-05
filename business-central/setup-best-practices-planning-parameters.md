@@ -1,21 +1,21 @@
 ---
-title: "Рекомендации по настройке. Параметры планирования | Документы Майкрософт"
-description: "Экспресс-вкладка Планирование в карточке товара является центром цепочки поставок в организации. Для рентабельного управления запасами и обслуживания клиентов на высочайшем уровне очень важно установить правильные параметры планирования."
+title: Рекомендации по настройке. Параметры планирования | Документы Майкрософт
+description: Экспресс-вкладка Планирование в карточке товара является центром цепочки поставок в организации. Для рентабельного управления запасами и обслуживания клиентов на высочайшем уровне очень важно установить правильные параметры планирования.
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 10/01/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: b8a5f4dcfa9a4e3f728c8de3786e7d5716ac82c7
 ms.openlocfilehash: 69344bcc4004ce29a58e8475235a97cf9196605d
-ms.contentlocale: ru-ru
-ms.lasthandoff: 10/04/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804707"
 ---
 # <a name="setup-best-practices-planning-parameters"></a>Рекомендации по настройке: параметры планирования
 Экспресс-вкладка **Планирование** в карточке товара является центром цепочки поставок в организации. Для рентабельного управления запасами и обслуживания клиентов на высочайшем уровне очень важно установить правильные параметры планирования.  
@@ -45,4 +45,3 @@ ms.lasthandoff: 10/04/2018
  [Сведения о проектировании: планирование поставок](design-details-supply-planning.md)   
  [Настройка сложных областей приложения с помощью рекомендаций](set-up-complex-application-areas-using-best-practices.md)  
  [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
-

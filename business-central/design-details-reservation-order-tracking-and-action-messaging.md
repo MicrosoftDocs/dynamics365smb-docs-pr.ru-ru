@@ -1,8 +1,8 @@
 ---
-title: "Сведения о проектировании: резервирование, трассировка заказов и отправка сообщений о действиях | Документы Майкрософт"
-description: "Система резервирования является комплексной и включает взаимосвязанные и параллельные функции трассировки заказов и указаний."
+title: 'Сведения о проектировании: резервирование, трассировка заказов и отправка сообщений о действиях | Документы Майкрософт'
+description: Система резервирования является комплексной и включает взаимосвязанные и параллельные функции трассировки заказов и указаний.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: design, replenishment, reordering
 ms.date: 11/05/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: f44bbe229db6067531e894be9ae768eb909727e7
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804373"
 ---
 # <a name="design-details-reservation-order-tracking-and-action-messaging"></a>Сведения о проектировании: резервирование, трассировка заказов и отправка сообщений о действиях
 Система резервирования является комплексной и включает взаимосвязанные и параллельные функции трассировки заказов и указаний.  
@@ -232,4 +232,3 @@ ms.lasthandoff: 11/26/2018
 ## <a name="see-also"></a>См. также  
 [Сведения о проектировании: основные понятия системы планирования](design-details-central-concepts-of-the-planning-system.md)   
 [Сведения о проектировании: планирование поставок](design-details-supply-planning.md)
-

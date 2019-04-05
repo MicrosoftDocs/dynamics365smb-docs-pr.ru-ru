@@ -1,24 +1,24 @@
 ---
-title: "Пример сценария. Определение динамических распределений на основе проданных товаров | Microsoft Docs"
-description: "В этом разделе приведен пример, как определять распределения с помощью метода динамического распределения."
+title: Пример сценария. Определение динамических распределений на основе проданных товаров | Microsoft Docs
+description: В этом разделе приведен пример, как определять распределения с помощью метода динамического распределения.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 10/01/2018
 ms.author: sgroespe
 redirect_url: finance-define-and-allocate-costs
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: 3103583c9781c283479c5f66e90f0e875faf46cc
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804457"
 ---
 # <a name="scenario-example-defining-dynamic-allocations-based-on-items-sold"></a>Пример сценария. Определение динамических распределений на основе проданных товаров
 В этом разделе приведен пример, как определять распределения с помощью метода динамического распределения. В этом примере изменяется динамическое распределение себестоимости для места возникновения затрат ПРОДАЖИ с целью поддержки нового объекта затрат ИТ-ОБОРУДОВАНИЕ. Пакеты ИТ-ОБОРУДОВАНИЯ имеют номера товаров в диапазоне от 8904-W до 8924-W. Показатели продаж за прошлый год используются для расчета долей. Распределение учитывается по типу затрат 9903.  
@@ -50,4 +50,3 @@ ms.lasthandoff: 11/26/2018
 [Определение и распределение затрат](finance-define-and-allocate-costs.md)  
 [Терминология в учете затрат](finance-terminology-in-cost-accounting.md)   
 [Об учете затрат](finance-about-cost-accounting.md)
-

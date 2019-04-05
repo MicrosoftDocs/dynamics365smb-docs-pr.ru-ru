@@ -1,8 +1,8 @@
 ---
-title: "Использование расширения импорта файла зарплаты QuickBooks | Документы Майкрософт"
-description: "В этом разделе описывается использование расширения для импорта транзакция по зарплате из Quickbooks."
+title: Использование расширения импорта файла зарплаты QuickBooks | Документы Майкрософт
+description: В этом разделе описывается использование расширения для импорта транзакция по зарплате из Quickbooks.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: bholtorf
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +12,12 @@ ms.workload: na
 ms. search.keywords: app, add-in, manifest, customize, salary, wage
 ms.date: 01/09/2019
 ms.author: bholtorf
-ms.translationtype: HT
-ms.sourcegitcommit: 79729b42b660399893aebe1116c80ef3b3209042
 ms.openlocfilehash: ac68f8a4d67224ad55b1c34ff9b2e4ffa2c372aa
-ms.contentlocale: ru-ru
-ms.lasthandoff: 01/15/2019
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804328"
 ---
 # <a name="the-quickbooks-payroll-file-import-extension"></a>Расширение импорта файла зарплаты QuickBooks
 Используйте расширение импорта файла зарплаты QuickBooks для импорта транзакций зарплаты из QuickBooks в счета главной книги в [!INCLUDE[d365fin](includes/d365fin_md.md)]. Например, это может оказаться полезным при переходе с QuickBooks в [!INCLUDE[d365fin](includes/d365fin_md.md)] или если используются сторонние услуги расчета зарплаты, но вы хотите отслеживать зарплату в [!INCLUDE[d365fin](includes/d365fin_md.md)].
@@ -31,4 +31,3 @@ ms.lasthandoff: 01/15/2019
 [Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью расширений](ui-extensions.md)    
 [Финансы](finance.md)    
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
-

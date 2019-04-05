@@ -1,8 +1,8 @@
 ---
-title: "Сведения о проектировании — заказ | Документы Майкрософт"
-description: "В этом разделе приведены сведения о ссылках \"заказ-в-заказ\" в среде изготовления на заказ."
+title: Сведения о проектировании — заказ | Документы Майкрософт
+description: В этом разделе приведены сведения о ссылках "заказ-в-заказ" в среде изготовления на заказ.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -13,12 +13,12 @@ ms.search.keywords: design, order
 ms.date: 10/01/2018
 ms.author: sgroespe
 redirect_url: design-details-handling-reordering-policies
+ms.openlocfilehash: 4152dfb744215034383239ea98847fbf7b5751e9
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: 38272b0d777c276c372893082680d89fc33e060c
-ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804573"
 ---
 # <a name="design-details-order"></a>Сведения о проектировании: заказ
 В среде изготовления продукции на заказ товар приобретается или производится исключительно для удовлетворения определенного спроса. Как правило, относится к товарам категории А. Мотивация для выбора такой политики повторного заказа — нерегулярный спрос, незначительное время подготовки или варьирование необходимых атрибутов.  
@@ -40,4 +40,3 @@ ms.lasthandoff: 03/22/2018
 [Сведения о проектировании: параметры планирования](design-details-planning-parameters.md)   
 [Сведения о проектировании: обработка политик дозаказа](design-details-handling-reordering-policies.md)   
 [Сведения о проектировании: планирование поставок](design-details-supply-planning.md)
-

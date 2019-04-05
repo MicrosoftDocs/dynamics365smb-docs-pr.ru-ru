@@ -1,8 +1,8 @@
 ---
-title: "Результаты перемещения | Документы Майкрософт"
-description: "В этом разделе описывается, что происходит после перемещения операций главной книги в операции затрат."
+title: Результаты перемещения | Документы Майкрософт
+description: В этом разделе описывается, что происходит после перемещения операций главной книги в операции затрат.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -13,12 +13,12 @@ ms.search.keywords: general ledger, transfer, cost entries
 ms.date: 10/01/2018
 ms.author: sgroespe
 redirect_url: finance-transfer-and-post-cost-entries
-ms.translationtype: HT
-ms.sourcegitcommit: 67400e424305cc705db5c1bd52a8e4de17ecc5a9
 ms.openlocfilehash: 0e17ff5ad60014cba6ce866c9ddae848b1239167
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/20/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804746"
 ---
 # <a name="results-of-transferring-general-ledger-entries-to-cost-entries"></a>Результаты переноса операций главной книги в операции затрат
 Во время перемещения операций Главной книги в операции затрат [!INCLUDE[d365fin](includes/d365fin_md.md)] создает связи в записях таблиц **Операция ГК**, **Операция затрат** и **Регистр затрат**, чтобы сделать возможным трассировку подключений между операциями затрат и операциями Главной книги.  
@@ -40,4 +40,3 @@ ms.lasthandoff: 11/20/2018
 
 ## <a name="see-also"></a>См. также  
 [Перемещение и операции учета затрат](finance-transfer-and-post-cost-entries.md)   
-

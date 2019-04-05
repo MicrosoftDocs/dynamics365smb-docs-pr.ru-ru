@@ -1,6 +1,6 @@
 ---
-title: "Обзор записей набора измерений | Документы Майкрософт"
-description: "В этом разделе описывается, как операции набора измерений хранятся и учитываются в Dynamics 365."
+title: Обзор записей набора измерений | Документы Майкрософт
+description: В этом разделе описывается, как операции набора измерений хранятся и учитываются в Dynamics 365.
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: dimension
 ms.date: 10/01/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: caf7cf5afe370af0c4294c794c0ff9bc8ff4c31c
 ms.openlocfilehash: 927ec8c1379a3f03d5bd377e6cd3d21c66691a00
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/22/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804603"
 ---
 # <a name="dimension-set-entries-overview"></a>Обзор записей набора измерений
 В этом разделе описывается, как операции набора измерений хранятся и учитываются в [!INCLUDE[d365fin](includes/d365fin_md.md)].  
@@ -49,4 +49,3 @@ ms.lasthandoff: 11/22/2018
 [Сведения о проектировании: Codeunit 408 Dimension Management](design-details-codeunit-408-dimension-management.md)   
 [Сведения о проектировании: примеры кода измененных шаблонов в модификациях](design-details-code-examples-of-changed-patterns-in-modifications.md)   
 [Сведения о проектировании: операции набора измерений](design-details-dimension-set-entries.md)   
-

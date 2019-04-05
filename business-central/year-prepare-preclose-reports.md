@@ -1,8 +1,8 @@
 ---
-title: "Обзор отчетов по предварительному закрытию для проверки правильности учета | Документы Майкрософт"
-description: "Содержит обзор отчетов, которые можно использовать для проверки правильности учета перед закрытием книг в конце года или периода."
+title: Обзор отчетов по предварительному закрытию для проверки правильности учета | Документы Майкрософт
+description: Содержит обзор отчетов, которые можно использовать для проверки правильности учета перед закрытием книг в конце года или периода.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: jswymer
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -11,12 +11,12 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.date: 10/01/2018
 ms.author: jswymer
-ms.translationtype: HT
-ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
 ms.openlocfilehash: 94fe194350eeb7e83ce443452cf876f6e498ca27
-ms.contentlocale: ru-ru
-ms.lasthandoff: 09/28/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804747"
 ---
 # <a name="using-pre-closing-reports"></a>Использование отчетов по предварительному закрытию
 Существует множество стандартных отчетов, которые можно использовать для проверки правильности счетов перед закрытием книг в конце года или периода. Например, можно использовать отчет **Клиент - пробный баланс** для проверки соответствия сальдо для учетной группы клиентов сальдо соответствующего счета главной книги на определенную дату.
@@ -40,5 +40,4 @@ ms.lasthandoff: 09/28/2018
 ## <a name="see-also"></a>См. также
 [Закрытие года и периодов](year-close-years-periods.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
-
 

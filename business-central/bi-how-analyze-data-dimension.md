@@ -1,8 +1,8 @@
 ---
-title: "Анализ данных по измерениями | Microsoft Docs"
-description: "Описывает порядок анализа различных бизнес-данных по измерениям."
+title: Анализ данных по измерениями | Microsoft Docs
+description: Описывает порядок анализа различных бизнес-данных по измерениям.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: bi, power BI, analysis, KPI
 ms.date: 11/13/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: bfb5ce68e4570f4d96a4216ea01f9d1ecc3bc623
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804377"
 ---
 #  <a name="analyze-data-by-dimensions"></a>Анализ данных по измерениям
 В финансовом анализе измерением называются данные, которые можно добавить в операции в качестве своего рода маркера. Эти данные используются для группировки операций со сходными характеристиками, такими как клиенты, регионы, товары или менеджеры, и удобного извлечениях этих групп для анализа. Измерения могут использоваться в операциях в журналах, документах и бюджетах. Термин «измерение» указывает на то, как именно происходит анализ. Например, двумерный анализ может использоваться для просмотра продаж по областям. Однако, создание операций с использованием более двух измерений позволяет осуществлять более сложный анализ, например анализ продаж по кампаниям по сбыту по группам клиентов по областям. Дополнительные сведения см. в разделе [Работа с измерениями](finance-dimensions.md).
@@ -81,4 +81,3 @@ ms.lasthandoff: 11/26/2018
 [Главная книга и план счетов](finance-general-ledger.md)  
 [Работа с измерениями](finance-dimensions.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
-

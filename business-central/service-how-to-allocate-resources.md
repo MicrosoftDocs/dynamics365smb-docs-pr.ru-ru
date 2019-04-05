@@ -1,23 +1,22 @@
 ---
-title: "Как распределять ресурсы | Документы Майкрософт"
-description: "Чтобы исправить сумму, на которую будет ежегодно выставляться счет, можно изменить годовую сумму в сервисном контракте или в предложении по контракту."
+title: Как распределять ресурсы | Документы Майкрософт
+description: Чтобы исправить сумму, на которую будет ежегодно выставляться счет, можно изменить годовую сумму в сервисном контракте или в предложении по контракту.
 author: bholtorf
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 10/01/2018
 ms.author: bholtorf
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: f75dab84229aa08c35eddf057805003b69124481
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804036"
 ---
-
 # <a name="allocate-resources"></a>Распределение ресурсов
 Ключевым элементом сервисного управления является персонал, предоставляющий услуги. Можно настроить [!INCLUDE[d365fin](includes/d365fin_md.md)] для назначения правильных сотрудников соответствующим работам. Назначения могут задаваться на основе сервисных зон, в которых находятся сотрудники, или мест, где производится сервисное обслуживание. Кроме этого, при реагировании на сервисные запросы можно группировать ресурсы. Дополнительные сведения см. в разделе [Настройка распределения ресурсов](service-how-setup-resource-allocation.md).
 
@@ -144,4 +143,3 @@ ms.lasthandoff: 11/26/2018
 ## <a name="see-also"></a>См. также
 [Настройка распределения ресурсов](service-how-setup-resource-allocation.md)  
 [Статус распределения и ремонта](service-allocation-status-and-repair-status.md)  
-

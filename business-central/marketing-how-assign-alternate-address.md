@@ -1,8 +1,8 @@
 ---
-title: "Назначение другого контактного адреса | Microsoft Docs"
-description: "Описывается, как назначить альтернативный адрес контактам или потенциальным клиентам, на который периодически отправлять информацию."
+title: Назначение другого контактного адреса | Microsoft Docs
+description: Описывается, как назначить альтернативный адрес контактам или потенциальным клиентам, на который периодически отправлять информацию.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: jswymer
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -13,12 +13,12 @@ ms.search.keywords: relationship, prospect
 ms.date: 10/01/2018
 ms.author: jswymer
 redirect_url: marketing-setup-contacts
+ms.openlocfilehash: d069a22603a969220a62e2c7458cb6259cfbc630
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
 ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
-ms.openlocfilehash: 4f036800f7d9e83fdeacb827bb195f1f36b6a38e
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804156"
 ---
 # <a name="set-up-alternative-addresses-for-contacts"></a>Настройка альтернативных адресов контактов
 Можно присваивать альтернативные адреса, по которым контактам иногда отсылается почта, например летний коттедж. Можно также присваивать один или несколько диапазонов дат каждому альтернативному адресу, созданному для контакта, чтобы указать, когда каждый из адресов действителен.
@@ -43,4 +43,3 @@ ms.lasthandoff: 11/26/2018
 ## <a name="see-also"></a>См. также
 [Создание контактных организаций](marketing-create-contact-companies.md)  
 [Работа с Business Central](ui-work-product.md)
-

@@ -1,8 +1,8 @@
 ---
-title: "Настройка должностных обязанностей для контактов | Документы Майкрософт"
-description: "Вы можете определять коды должностной обязанностей и назначать их контактам, чтобы задавать задачи, за которые отвечает контакт в своей организации, например за ИТ или производство."
+title: Настройка должностных обязанностей для контактов | Документы Майкрософт
+description: Вы можете определять коды должностной обязанностей и назначать их контактам, чтобы задавать задачи, за которые отвечает контакт в своей организации, например за ИТ или производство.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: jswymer
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -13,12 +13,12 @@ ms.search.keywords: task, to-do, relationship, prospect
 ms.date: 10/01/2018
 ms.author: jswymer
 redirect_url: marketing-setup-contacts
+ms.openlocfilehash: 62d8f733dbfdb6b3da78368e553deef1ea208072
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
 ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
-ms.openlocfilehash: b580518771ce9b599e5516ecbb1c25cc5dc5d9f4
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804144"
 ---
 # <a name="set-up-job-responsibilities-for-contact-persons"></a>Настройка должностных обязанностей для контактных лиц
 Вы можете добавить информацию о должностных обязанностей контактных лиц, чтобы показать, за что контактное лицо ответственно в своей организации, например ИТ, управление или производство. Эту информацию можно использовать при вводе информации о контактах.
@@ -45,7 +45,5 @@ ms.lasthandoff: 11/26/2018
 После назначения контактам должностных обязанностей можно использовать эту информацию для выбора контактов для сегмента. Дополнительные сведения см. в разделе [Добавление контактов к сегментам](marketing-add-contact-segment.md).
 
 ## <a name="see-also"></a>См. также
-[Создание контактных лиц](marketing-create-contact-persons.md)  
-[Создание контактных организаций](marketing-create-contact-companies.md)  
+[Создание контактов](marketing-create-contact-companies.md)  
 [Работа с Business Central](ui-work-product.md)
-

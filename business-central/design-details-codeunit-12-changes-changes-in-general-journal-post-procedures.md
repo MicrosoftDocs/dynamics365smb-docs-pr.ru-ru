@@ -1,21 +1,21 @@
 ---
-title: "Сведения о проектировании — изменения модуля codeunit 12 в процедурах учета финансовых журналов | Документы Майкрософт"
-description: "В этом выпуске Business Central реализованы следующие изменения."
+title: Сведения о проектировании — изменения модуля codeunit 12 в процедурах учета финансовых журналов | Документы Майкрософт
+description: В этом выпуске Business Central реализованы следующие изменения.
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 10/01/2018
 ms.author: sgroespe
+ms.openlocfilehash: 6f28cf8e465a6c9f29ddf7bd1ac5db54896802cd
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: 09e52a35909c21eaaf9d2eab37b19dc947a2a8dd
-ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804280"
 ---
 # <a name="codeunit-12-changes-changes-in-general-journal-post-procedures"></a>Изменения модуля codeunit 12: изменения процедур учета финансовых журналов
 В этом выпуске [!INCLUDE[d365fin](includes/d365fin_md.md)] реализованы следующие изменения.  
@@ -190,4 +190,3 @@ ms.lasthandoff: 03/22/2018
 
 ## <a name="see-also"></a>См. также  
  [Сведения о проектировании. Изменения модуля codeunit 12: сопоставление глобальных переменных для строки учета финансового журнала](design-details-codeunit-12-changes-mapping-global-variables-for-general-journal-post-line.md)
-

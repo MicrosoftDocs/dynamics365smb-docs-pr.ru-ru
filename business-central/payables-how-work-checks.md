@@ -1,6 +1,6 @@
 ---
-title: "Выдача, печать, отмена и аннулирование платежных документов | Microsoft Docs"
-description: "Далее описывается процедура выдачи платежных документов с помощью журнала платежей, печать платежных документов и их аннулирование или просмотр операций книги платежей в Business Central."
+title: Выдача, печать, отмена и аннулирование платежных документов | Microsoft Docs
+description: Далее описывается процедура выдачи платежных документов с помощью журнала платежей, печать платежных документов и их аннулирование или просмотр операций книги платежей в Business Central.
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: payment journal, print check, vendor payment, creditor, debt, balance due, AP
 ms.date: 10/01/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: 4dd8f50f4d7767cb70b53a16009b86f135a5f5c6
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "803914"
 ---
 # <a name="make-check-payments"></a>Совершение платежей с помощью платежных документов
 Можно выпустить электронные платежные документы или создать их вручную в [!INCLUDE[d365fin](includes/d365fin_md.md)]. Оба метода используют журнал платежей для выпуска платежных документов для поставщиков. Также можно аннулировать платежные документы и просмотреть операции с платежными документами.
@@ -78,4 +78,3 @@ ms.lasthandoff: 11/26/2018
 [Настройка банковских операций](bank-setup-banking.md)  
 [Экспорт файла Positive Pay](finance-how-positive-pay.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
-

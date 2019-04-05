@@ -1,8 +1,8 @@
 ---
-title: "Настройка информации маркетинга и управления контактами | Документы Майкрософт"
-description: "Вы можете настроить управление маркетингом и контактами в Business Central для оптимизации отношений с потенциальными и текущими клиентами и повышения качества кампаний и рекламных акций."
+title: Настройка информации маркетинга и управления контактами | Документы Майкрософт
+description: Вы можете настроить управление маркетингом и контактами в Business Central для оптимизации отношений с потенциальными и текущими клиентами и повышения качества кампаний и рекламных акций.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: jswymer
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -10,14 +10,15 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: relationship, prospect, client, customer, campaign, promo
-ms.date: 12/07/2018
+ms.date: 02/26/2019
 ms.author: jswymer
+redirect_url: marketing-setup-contacts
+ms.openlocfilehash: e2fa7fc0c5f2e89f592dca84a89e5e5f551b0d28
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
 ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
-ms.openlocfilehash: 955d436970f922bd7c36ee6d837e75dea9847dd8
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804207"
 ---
 # <a name="setting-up-relationship-management"></a>Настройка управления отношениями
 Прежде чем начинать работу с контактами и маркетинговыми интересами, необходимо принять несколько решений и выполнить определенные действия по настройке управления определенными аспектами контактов в маркетинговой области. Например, можно решить, нужно ли синхронизировать карточку контакта с карточкой клиента, карточкой поставщика и карточкой банковского счета, как определяется серия номеров или какое стандартное обращение должно использоваться при написании сообщений к вашим контактам.
@@ -48,7 +49,7 @@ ms.lasthandoff: 11/26/2018
 ## <a name="synchronizing-contacts-with-customers-and-more"></a>Синхронизация контактов с клиентами и т. д.
 Для того, чтобы синхронизировать карточку контакта с карточкой клиента, следует ввести код бизнес отношения для клиентов, поставщиков и банковских счетов. Например, связать контакт с существующим клиентом можно, только если на странице **Настройка модуля Маркетинг** выбран код бизнес отношения для клиентов.
 
-Дополнительные сведения см. в разделе [Синхронизация контактов с клиентами, поставщиками и банковскими счетами](marketing-synchronize-contacts-customers-vendors-bank-accounts.md).
+Дополнительные сведения см. в разделе [Синхронизация контактов с клиентами, поставщиками и банковскими счетами](marketing-synchronize-contacts-customers-vendors-bank-accounts/Synchronizing Contacts With Customers, Vendors, and Bank Accounts).
 
 ## <a name="assigning-a-number-series-to-contacts-and-opportunities"></a>Назначение серий номеров контактам и возможностям
 Можно настроить серии номеров для нумерации контактов и возможностей. Если настроены серии номеров для контактов, то при создании контакта и нажатии клавиши ВВОД в поле "Номер" в карточке контакта программа автоматически вводит следующий свободный номер контакта.
@@ -61,4 +62,3 @@ ms.lasthandoff: 11/26/2018
 ## <a name="see-also"></a>См. также
 [Управление контактами](marketing-contacts.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
-

@@ -1,7 +1,7 @@
 ---
-title: "Устранение неполадок при интеграции с Microsoft Flow | Microsoft Docs"
-description: "Устраняйте неполадки, чтобы сделать данные Business Central доступными в качестве источника данных и указать URL-адрес OData ваших веб-служб для создания автоматического бизнес-процесса."
-documentationcenter: 
+title: Устранение неполадок при интеграции с Microsoft Flow | Документы Майкрософт
+description: Устраняйте неполадки, чтобы сделать данные Business Central доступными в качестве источника данных и указать URL-адрес OData ваших веб-служб для создания автоматического бизнес-процесса.
+documentationcenter: ''
 author: SusanneWindfeldPedersen
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -11,12 +11,12 @@ ms.workload: na
 ms.search.keywords: workflow, Odata, Power App, SOAP
 ms.date: 10/01/2018
 ms.author: solsen
-ms.translationtype: HT
-ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
 ms.openlocfilehash: 0818550021bf17e5a269d3e11f8db54b9ff80dfa
-ms.contentlocale: ru-ru
-ms.lasthandoff: 09/28/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804604"
 ---
 # <a name="troubleshooting-integration-with-microsoft-flow---request-url-too-long"></a>Устранение неполадок при интеграции с Microsoft Flow — запрошенный URL-адрес слишком длинный
 Можно использовать данные [!INCLUDE[d365fin](includes/d365fin_md.md)] как часть рабочего процесса в Microsoft Flow.  
@@ -52,4 +52,3 @@ ms.lasthandoff: 09/28/2018
 [Управление пользователями и разрешениями](ui-how-users-permissions.md)    
 [Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md)  
 [Финансы](finance.md)  
-

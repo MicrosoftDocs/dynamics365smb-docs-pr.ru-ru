@@ -1,23 +1,23 @@
 ---
-title: "Как настраивать склады для использования ячеек | Документы Майкрософт"
-description: "Ячейки являются базовой складской структурой и используются для формирования предложений по размещению товаров. После создания ячеек можно четко определить содержимое для помещения в каждую ячейку; ячейка может также функционировать в качестве плавающей ячейки без определенного содержимого."
+title: Как настраивать склады для использования ячеек | Документы Майкрософт
+description: Ячейки являются базовой складской структурой и используются для формирования предложений по размещению товаров. После создания ячеек можно четко определить содержимое для помещения в каждую ячейку; ячейка может также функционировать в качестве плавающей ячейки без определенного содержимого.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 10/01/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
 ms.openlocfilehash: 214de72b86e3d32e5161814a7f65079cbb4136b7
-ms.contentlocale: ru-ru
-ms.lasthandoff: 09/28/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804416"
 ---
 # <a name="set-up-locations-to-use-bins"></a>Настройка складов для использования ячеек
 Ячейки являются базовой складской структурой и используются для формирования предложений по размещению товаров. После создания ячеек можно четко определить содержимое для помещения в каждую ячейку; ячейка может также функционировать в качестве плавающей ячейки без определенного содержимого.  
@@ -52,4 +52,3 @@ ms.lasthandoff: 09/28/2018
 [Управление сборкой](assembly-assemble-items.md)    
 [Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
-

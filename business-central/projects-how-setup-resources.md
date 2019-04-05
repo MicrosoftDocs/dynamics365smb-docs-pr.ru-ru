@@ -1,8 +1,8 @@
 ---
-title: "Настройка себестоимости, цены и производственной мощности ресурса | Документы Майкрософт"
-description: "Для использования ресурсов и функций управления проектами необходимо определить себестоимость и цены для отдельных ресурсов и групп ресурсов, а также задать производственную мощность ресурсов."
+title: Настройка себестоимости, цены и производственной мощности ресурса | Документы Майкрософт
+description: Для использования ресурсов и функций управления проектами необходимо определить себестоимость и цены для отдельных ресурсов и групп ресурсов, а также задать производственную мощность ресурсов.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: project management, capacity, staff
 ms.date: 10/01/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: 362f335fa313dce9a4e75c962ef6f5a2f01ec5fd
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804699"
 ---
 # <a name="set-up-resources"></a>Настройка ресурсов
 Для правильного управления деятельностью ресурсов необходимо настроить ресурсы, а также связанные с ними затраты и цены. Связанные с работой цены, скидки и правила фактора стоимости задаются в карточке работы. Затраты и цены можно установить для каждого отдельного ресурса, группы ресурсов или всех доступных ресурсов организации.
@@ -77,4 +77,3 @@ ms.lasthandoff: 11/26/2018
 [Покупки](purchasing-manage-purchasing.md)         
 [Продажи](sales-manage-sales.md)      
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
-

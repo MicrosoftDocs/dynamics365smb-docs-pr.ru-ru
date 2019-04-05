@@ -1,23 +1,23 @@
 ---
-title: "Прямое дебетование SEPA в Business Central | Документы Майкрософт"
-description: "Можно собирать оплаты непосредственно из окна банковского счета клиента в соответствии с форматом SEPA."
+title: Прямое дебетование SEPA в Business Central | Документы Майкрософт
+description: Можно собирать оплаты непосредственно из окна банковского счета клиента в соответствии с форматом SEPA.
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 11/15/2018
 ms.author: sgroespe
+ms.openlocfilehash: f917bed9eedf3c0aa8227d9c207de5e38f60a791
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
 ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
-ms.openlocfilehash: c732702808f807396702cef9ef0a1a22354ead15
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804686"
 ---
-# <a name="collecting-payments-with-sepa-direct-debit"></a>Сбор платежей с прямым дебетом SEPA
+# <a name="collect-payments-with-sepa-direct-debit"></a>Сбор платежей с прямым дебетом SEPA
 С согласия клиента можно собирать оплаты непосредственно из окна банковского счета клиента в соответствии с форматом SEPA.  
 
  Сначала настройте формат экспорта файла банка, который инструктирует банк выполнить прямой дебет. Затем настройте метод оплаты клиента. Наконец, настройте мандат прямого дебета, отражающий соглашение с клиентом для получения от него оплаты в определенный срок соглашения.  
@@ -158,4 +158,3 @@ ms.lasthandoff: 11/26/2018
 
 ## <a name="see-also"></a>См. также  
 [Управление дебиторской задолженностью](receivables-manage-receivables.md)
-

@@ -1,6 +1,6 @@
 ---
-title: "Настройка менеджера по продажам | Документы Майкрософт"
-description: "Вы можете задать идентификатор для каждого менеджера по продажам, чтобы можно было отслеживать личную производительность менеджера и назначать менеджеров контактам."
+title: Настройка менеджера по продажам | Документы Майкрософт
+description: Вы можете задать идентификатор для каждого менеджера по продажам, чтобы можно было отслеживать личную производительность менеджера и назначать менеджеров контактам.
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: sales rep
 ms.date: 10/01/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: ddc6ab85e0db5065fffc6187c26ba4d67e1a1ee9
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804092"
 ---
 # <a name="set-up-salespeople"></a>Настройка менеджеров по продажам
 Во многих организациях в качестве основания для расчета комиссионных от продажи или премии предпочитают учитывать вклад конкретного сотрудника. См., например, отчет **Комиссионные менеджера по продажам**. Кроме этого, организации может понадобиться каждому из своих контактов приписать некоторого менеджера.
@@ -32,4 +32,3 @@ ms.lasthandoff: 11/26/2018
 [Настройка продаж](sales-setup-sales.md)  
 [Продажи](sales-manage-sales.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
-

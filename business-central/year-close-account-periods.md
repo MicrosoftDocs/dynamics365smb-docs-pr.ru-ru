@@ -1,8 +1,8 @@
 ---
-title: "Закрытие учетных периодов для финансового года | Документы Майкрософт"
-description: "Описывается порядок закрытия учетных периодов, составляющих финансовый год."
+title: Закрытие учетных периодов для финансового года | Документы Майкрософт
+description: Описывается порядок закрытия учетных периодов, составляющих финансовый год.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: jswymer
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: year closing, close accounting period, close fiscal year, bank account detailed trial balance
 ms.date: 10/01/2018
 ms.author: jswymer
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: c8f086e0dc7479ece62ab28b64f9553ba2d13b82
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804232"
 ---
 # <a name="close-accounting-periods"></a>Закрытие учетных периодов
 При завершении финансового года следует завершить периоды, которые его образуют.
@@ -43,4 +43,3 @@ ms.lasthandoff: 11/26/2018
 [Учет операции закрытия года](year-how-post-year-end-close-entry.md)  
 [Открытие нового финансового года](finance-how-open-new-fiscal-year.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
-

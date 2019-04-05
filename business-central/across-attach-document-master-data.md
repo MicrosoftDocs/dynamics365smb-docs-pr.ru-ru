@@ -1,26 +1,29 @@
 ---
-title: "Прикрепление файлов к картам и документам | Документы Майкрософт"
-description: "Можно прикреплять изображения, документы и файлы других типов ко всем карточкам, таким как карточки товаров и карточки заданий, а также можно прикреплять файлы ко всем типам документов покупки и продажи."
+title: Прикрепление файлов к картам и документам | Документы Майкрософт
+description: Можно прикреплять изображения, документы и файлы других типов ко всем карточкам и всем типам документов покупки и продажи.
 author: edupont04
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
-ms.date: 11/21/2018
+ms.search.keywords: upload, attach, attachments
+ms.date: 02/21/2019
 ms.author: edupont
+ms.openlocfilehash: f05d12481936e8159631e16f596710cfb13b3b6e
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
 ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
-ms.openlocfilehash: 02a590e3389e2453f146db6bac1c487c039f5177
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804772"
 ---
 # <a name="attaching-files-to-cards-and-documents"></a>Прикрепление файлов к картам и документам
 Можно прикреплять изображения, документы и файлы других типов ко всем карточкам, таким как карточки товаров и карточки заданий, а также можно прикреплять файлы ко всем типам документов покупки и продажи.
 
-## <a name="to-attach-a-file-to-a-sales-order"></a>Чтобы прикрепить файл к заказу на продажу.
+> [!Note]
+> В целом, максимальный размер файла для вложений составляет 150 МБ. Однако для некоторых функций лимит может быть меньше. 
+
+## <a name="to-attach-a-file-to-a-sales-order"></a>Прикрепление файла к заказу на продажу
 Следующая процедура основана на заказе на продажу. Шаги аналогичны всем остальным документам продажи и покупки, а также для всех карточек.
 
 1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Заказы на продажу**, затем выберите связанную ссылку.
@@ -32,4 +35,3 @@ ms.lasthandoff: 11/26/2018
 ## <a name="see-also"></a>См. также
 [Регистрация новых товаров](inventory-how-register-new-items.md)  
 [Продажа продуктов](sales-how-sell-products.md)
-

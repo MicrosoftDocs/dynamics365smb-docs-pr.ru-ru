@@ -1,8 +1,8 @@
 ---
-title: "Настройка дополнительных валют | Документы Microsoft"
-description: "Главная книга настраивается на использование локальной валюты (руб.), а вторая валюта настраивается в качестве дополнительной, с назначением валютного курса."
+title: Настройка дополнительных валют | Документы Microsoft
+description: Главная книга настраивается на использование локальной валюты (руб.), а вторая валюта настраивается в качестве дополнительной, с назначением валютного курса.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: multiple currencies
 ms.date: 01/07/2019
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: a98027c3ef3171491f84197897f93cbed4e288c2
 ms.openlocfilehash: 294ed8019b12287e4b4ad59d46e842e4022a637f
-ms.contentlocale: ru-ru
-ms.lasthandoff: 01/07/2019
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804363"
 ---
 # <a name="set-up-an-additional-reporting-currency"></a>Настройка дополнительной отчетной валюты
 Поскольку сфера действия организаций включает все новые и новые страны и регионы, растет необходимость в просмотре и составлении финансовых данных в нескольких валютах.
@@ -125,4 +125,3 @@ ms.lasthandoff: 01/07/2019
 [Обновление валютных курсов](finance-how-update-currencies.md)  
 [Закрытие года и периодов](year-close-years-periods.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
-

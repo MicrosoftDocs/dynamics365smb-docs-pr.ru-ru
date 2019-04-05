@@ -1,23 +1,23 @@
 ---
-title: "Определение и распределение затрат | Документы Майкрософт"
-description: "Распределения затрат перемещают затраты и доходы между типами затрат, местами возникновения затрат и объектами затрат. Можно определить любое необходимое число распределений."
+title: Определение и распределение затрат | Документы Майкрософт
+description: Распределения затрат перемещают затраты и доходы между типами затрат, местами возникновения затрат и объектами затрат. Можно определить любое необходимое число распределений.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 11/13/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: d67329ce09b40019d9568abee47cef33e3b60e85
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804082"
 ---
 # <a name="defining-and-allocating-costs"></a>Определение и распределение затрат
 Распределения затрат перемещают затраты и доходы между типами затрат, местами возникновения затрат и объектами затрат. Можно определить любое необходимое число распределений. Каждое распределение состоит из:  
@@ -145,4 +145,3 @@ ms.lasthandoff: 11/26/2018
  [Учет по затратам](finance-manage-cost-accounting.md)   
  [Терминология в учете затрат](finance-terminology-in-cost-accounting.md)   
  [Об учете затрат](finance-about-cost-accounting.md)
-

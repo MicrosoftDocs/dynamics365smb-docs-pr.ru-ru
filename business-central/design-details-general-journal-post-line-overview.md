@@ -1,8 +1,8 @@
 ---
-title: "Обзор строки учета финансового журнала | Документы Майкрософт"
-description: "В этом разделе рассматриваются изменения модуля codeunit 12 **Фин. журнал - строка учета** — это основной объект приложения для учета главной книги и единственное место для вставки операций главной книги, НДС, книги поставщиков и клиентов."
+title: Обзор строки учета финансового журнала | Документы Майкрософт
+description: В этом разделе рассматриваются изменения модуля codeunit 12 **Фин. журнал - строка учета** — это основной объект приложения для учета главной книги и единственное место для вставки операций главной книги, НДС, книги поставщиков и клиентов.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: design, general ledger, post
 ms.date: 10/01/2018
 ms.author: sgroespe
+ms.openlocfilehash: db90633823f12650f796735a9a83bec8edb60cb9
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: 2667b5d6d11172736a5dd6c3f7c810d42e3f2501
-ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "803934"
 ---
 # <a name="general-journal-post-line-overview"></a>Обзор строки учета финансового журнала
 Модуль codeunit 12 **Фин. журнал - строка учета** — это основной объект приложения для учета главной книги и единственное место для вставки операций главной книги, НДС, книги поставщиков и клиентов. Этот модуль codeunit также используется для всех операций применения, отмены применения и сторнирования.  
@@ -48,4 +48,3 @@ ms.lasthandoff: 03/22/2018
 ## <a name="see-also"></a>См. также  
 [Сведения о проектировании: структура интерфейса учета](design-details-posting-interface-structure.md)   
 [Сведения о проектировании: структура механизма учета](design-details-posting-engine-structure.md)
-

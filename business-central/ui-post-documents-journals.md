@@ -1,8 +1,8 @@
 ---
-title: "Обзор учтеа документов и журналов | Документы Майкрософт"
-description: "Описывает действия при выполнении и способы учета документов и журналов."
+title: Обзор учтеа документов и журналов | Документы Майкрософт
+description: Описывает действия при выполнении и способы учета документов и журналов.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SusanneWindfeldPedersen
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -11,12 +11,12 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.date: 10/01/2018
 ms.author: solsen
-ms.translationtype: HT
-ms.sourcegitcommit: caf7cf5afe370af0c4294c794c0ff9bc8ff4c31c
 ms.openlocfilehash: 139cc2d43dbebb3c6c2f386b2977ba67bbe438d6
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/22/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "803995"
 ---
 # <a name="post-documents-and-journals"></a>Учет документов и журналов
 Учет представляет бухгалтерское действие по записи бизнес-транзакций в различных книгах организации.
@@ -36,5 +36,4 @@ ms.lasthandoff: 11/22/2018
 ## <a name="see-also"></a>См. также
 [Общие бизнес-функции](ui-across-business-areas.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
-
 

@@ -1,8 +1,8 @@
 ---
-title: "Создание возможностей продаж | Microsoft Docs"
-description: "Описывается создание возможностей из менеджеров по продажам или контактов в Business Central."
+title: Создание возможностей продаж | Microsoft Docs
+description: Описывается создание возможностей из менеджеров по продажам или контактов в Business Central.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: jswymer
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: relationship, prospect
 ms.date: 10/01/2018
 ms.author: jswymer
-ms.translationtype: HT
-ms.sourcegitcommit: caf7cf5afe370af0c4294c794c0ff9bc8ff4c31c
 ms.openlocfilehash: d4b5b39826da539f3c87f1ba0d9ad27662598665
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/22/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804671"
 ---
 # <a name="create-sales-opportunities"></a>Создание возможностей продаж
 Можно создать возможности для возможностей торговли с имеющимися у вас контактами. Все возможности должны назначаться менеджеру или специалисту по закупкам, а также должны содержать контакт.
@@ -46,4 +46,3 @@ ms.lasthandoff: 11/22/2018
 [Продажи](sales-manage-sales.md)  
 [Создание контактов и управление ими](marketing-contacts.md)  
 [Работа с Business Central](ui-work-product.md)
-

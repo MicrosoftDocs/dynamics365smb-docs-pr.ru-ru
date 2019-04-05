@@ -1,6 +1,6 @@
 ---
-title: "Подача отчетов по НДС в налоговые органы | Документы Майкрософт"
-description: "Узнайте, как подготовить отчеты по НДС с продаж за указанный период или с продаж и покупок, и подать этот отчет в налоговый орган."
+title: Подача отчетов по НДС в налоговые органы | Документы Майкрософт
+description: Узнайте, как подготовить отчеты по НДС с продаж за указанный период или с продаж и покупок, и подать этот отчет в налоговый орган.
 author: bholtorf
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -10,14 +10,13 @@ ms.workload: na
 ms.search.keywords: VAT, tax, report, EC sales list, statement
 ms.date: 10/01/2018
 ms.author: bholtorf
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: 729524ce2145b4e167fb49671045b298affb862b
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804630"
 ---
-
 # <a name="how-to-report-vat-to-a-tax-authority"></a>Практическое руководство. Подача отчета об НДС в налоговые органы
 В этом разделе описываются отчеты в [!INCLUDE[d365fin](includes/d365fin_md.md)], которые можно использовать для подачи сведений о суммах налога на добавленную стоимость (НДС) для продаж и покупок в налоговые органы региона.
 
@@ -117,4 +116,3 @@ ms.lasthandoff: 11/26/2018
 [Работа с НДС по продажам и покупкам](finance-work-with-vat.md)  
 [Настройка продаж](sales-setup-sales.md)  
 [Выставление счетов продажи](sales-how-invoice-sales.md)  
-

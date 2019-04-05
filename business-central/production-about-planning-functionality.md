@@ -1,23 +1,23 @@
 ---
-title: "О функции планирования | Microsoft Docs"
-description: "Система планирования учитывает все данные спроса и предложения, сравнивает результаты и генерирует предложения для соответствия между предложением и спросом."
+title: О функции планирования | Microsoft Docs
+description: Система планирования учитывает все данные спроса и предложения, сравнивает результаты и генерирует предложения для соответствия между предложением и спросом.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 10/01/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: c6f298a12cda4e06aeaa28eb3143b7a22ff12d10
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804025"
 ---
 # <a name="about-planning-functionality"></a>О функциональности планирования
 Система планирования учитывает все данные спроса и предложения, сравнивает результаты и генерирует предложения для соответствия между предложением и спросом.  
@@ -139,4 +139,3 @@ ms.lasthandoff: 11/26/2018
 [Покупки](purchasing-manage-purchasing.md)  
 [Рекомендации по настройке: планирование поставок](setup-best-practices-supply-planning.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
-

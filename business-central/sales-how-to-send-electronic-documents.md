@@ -1,21 +1,21 @@
 ---
-title: "Отправка электронных документов | Документы Майкрософт"
-description: "Узнайте, как отправлять счета в электронном виде."
+title: Отправка электронных документов | Документы Майкрософт
+description: Узнайте, как отправлять счета в электронном виде.
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 10/01/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: 76940b9133f6aef69c588b12dd4e8940717d0eab
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "803902"
 ---
 # <a name="send-electronic-documents"></a>Отправка электронных документов
 Универсальная версия [!INCLUDE[d365fin](includes/d365fin_md.md)] поддерживает отправку электронных счетов и кредит-нот в формате PEPPOL, поддерживаемом крупнейшими поставщиками служб обмена документами. Поставщик службы обмена документами обеспечивает перемещение электронных документов между торговыми партнерами. Чтобы обеспечить поддержку других форматов электронных документов, следует использовать платформу обмена данными.  
@@ -57,4 +57,3 @@ ms.lasthandoff: 11/26/2018
 [Настройка определений обмена данными](across-how-to-set-up-data-exchange-definitions.md)  
 [Электронный обмен данными](across-data-exchange.md)  
 [Общие бизнес-функции](ui-across-business-areas.md)  
-

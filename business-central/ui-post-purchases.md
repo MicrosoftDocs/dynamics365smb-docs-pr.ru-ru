@@ -1,8 +1,8 @@
 ---
-title: "Сведения о об учете документов покупки | Документы Майкрософт"
-description: "Узнайте о различных функциях учета документов покупки."
+title: Сведения о об учете документов покупки | Документы Майкрософт
+description: Узнайте о различных функциях учета документов покупки.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SusanneWindfeldPedersen
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -11,12 +11,12 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.date: 10/01/2018
 ms.author: solsen
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: 5f3c709e6e2588fe7cf409e44291d331acc09432
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804030"
 ---
 # <a name="posting-purchases"></a>Учет покупок
 В разделе **Учетная группа** в документе покупки можно выбирать следующие функции учета:
@@ -48,5 +48,4 @@ ms.lasthandoff: 11/26/2018
 [Покупки](purchasing-manage-purchasing.md)  
 [Учет документов и журналов](ui-post-documents-journals.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
-
 

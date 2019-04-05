@@ -1,6 +1,6 @@
 ---
-title: "Сведения о проектировании — применение товара | Документы Майкрософт"
-description: "В этом разделе описывается, где регистрируются количество и стоимость запасов при учете складской транзакции."
+title: Сведения о проектировании — применение товара | Документы Майкрософт
+description: В этом разделе описывается, где регистрируются количество и стоимость запасов при учете складской транзакции.
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: design, items, ledger entries, posting, inventory
 ms.date: 12/21/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: 5801fcc1284edfe1b8578518c084455c336d5a40
 ms.openlocfilehash: 772702717a250e7068e93d362bc09a5ba719defe
-ms.contentlocale: ru-ru
-ms.lasthandoff: 12/27/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804397"
 ---
 # <a name="design-details-item-application"></a>Сведения о проектировании: применение товара
 При учете транзакции склада учтенное количество записывается в операции журнала товаров, а учет стоимости выполняется в операциях стоимости. Дополнительные сведения см. в разделе [Сведения о проектировании: учет запасов](design-details-inventory-posting.md).  
@@ -248,4 +248,3 @@ ms.lasthandoff: 12/27/2018
 [Управление себестоимостью товаров](finance-manage-inventory-costs.md)  
 [Финансы](finance.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
-

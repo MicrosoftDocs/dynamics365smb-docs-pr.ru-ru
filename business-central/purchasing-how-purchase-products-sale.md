@@ -1,6 +1,6 @@
 ---
-title: "Покупка товаров для продажи путем создания счетов покупки | Документы Майкрософт"
-description: "Из счета продажи для покупки продуктов вы можете создать счет покупки для поставщика."
+title: Покупка товаров для продажи путем создания счетов покупки | Документы Майкрософт
+description: Из счета продажи для покупки продуктов вы можете создать счет покупки для поставщика.
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: supply planning, sales demand, replenish
 ms.date: 10/01/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: 5b766f4d11b66a88f1884f8315b5856021190b34
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804006"
 ---
 # <a name="purchase-items-for-a-sale"></a>Покупка товаров для продажи
 Из заказов на продажу и счетов продажи можно быстро создавать документы покупки на недостающие количества товаров, требуемые для продажи. Вы можете использовать две различные функции в зависимости от типа документа.
@@ -70,4 +70,3 @@ ms.lasthandoff: 11/26/2018
 [Выставление счетов продажи](sales-how-invoice-sales.md)  
 [Регистрация новых поставщиков](purchasing-how-register-new-vendors.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
-

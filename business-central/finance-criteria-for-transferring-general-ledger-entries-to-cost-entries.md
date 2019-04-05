@@ -1,24 +1,24 @@
 ---
-title: "Критерии для переноса операций главной книги в операции затрат | Документы Майкрософт"
-description: "Важно понимать критерии для переноса операций Главной книги в операции затрат. Во время перемещения пакетное задание **Перенести записи ГК в CA** использует следующие критерии, чтобы определить, перемещаются ли операции главной книги и если да, то как."
+title: Критерии для переноса операций главной книги в операции затрат | Документы Майкрософт
+description: Важно понимать критерии для переноса операций Главной книги в операции затрат. Во время перемещения пакетное задание **Перенести записи ГК в CA** использует следующие критерии, чтобы определить, перемещаются ли операции главной книги и если да, то как.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 11/13/2018
 ms.author: sgroespe
 redirect_url: finance-transfer-and-post-cost-entries
+ms.openlocfilehash: 6e5fcfedbb899633f61c05b0b8b5ec8125112d65
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: b1ac9d3d0ab7022d5a11ad1642cf496d07bc81ce
-ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804251"
 ---
 # <a name="criteria-for-transferring-general-ledger-entries-to-cost-entries"></a>Критерии для переноса операций главной книги в операции затрат
 Важно понимать критерии для переноса операций Главной книги в операции затрат. Во время перемещения пакетное задание **Перенести записи ГК в CA** использует следующие критерии, чтобы определить, перемещаются ли операции главной книги и если да, то как.  
@@ -46,4 +46,3 @@ ms.lasthandoff: 03/22/2018
  [Перемещение и операции учета затрат](finance-transfer-and-post-cost-entries.md)   
  [Об учете затрат](finance-about-cost-accounting.md)  
  [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
-

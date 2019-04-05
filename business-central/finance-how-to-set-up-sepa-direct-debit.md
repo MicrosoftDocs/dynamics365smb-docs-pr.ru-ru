@@ -1,22 +1,22 @@
 ---
-title: "Настройка прямого дебетования SEPA | Microsoft Docs"
-description: "Узнайте, как настроить прямое дебетование SEPA в Business Central."
+title: Настройка прямого дебетования SEPA | Microsoft Docs
+description: Узнайте, как настроить прямое дебетование SEPA в Business Central.
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 10/01/2018
 ms.author: sgroespe
 redirect_url: finance-collect-payments-with-sepa-direct-debit
+ms.openlocfilehash: 9e2ef9ec3b454e5a9bb5097ba3ed30c5756d2352
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
 ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
-ms.openlocfilehash: c5d14102299140fd93ec586d0ef6165d1408505d
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804141"
 ---
 # <a name="set-up-sepa-direct-debit"></a>Настройка прямого дебетования SEPA
 Со страницы **Коллекции прямого дебетования** можно экспортировать команды для вашего электронного банка, чтобы выполнить погашение прямого дебета с банковского счета клиента на ваш банковский счет. [!INCLUDE[d365fin](includes/d365fin_md.md)] поддерживает формат прямого дебетования SEPA, но в вашей стране или регионе могут быть доступны другие форматы электронных платежей.  
@@ -80,4 +80,3 @@ ms.lasthandoff: 11/26/2018
 [Настройка определений обмена данными](across-how-to-set-up-data-exchange-definitions.md)
 [Создание типовых строк продажи и покупки](sales-how-work-standard-lines.md)
 [Электронный обмен данными](across-data-exchange.md)
-

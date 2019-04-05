@@ -1,23 +1,23 @@
 ---
-title: "Настройка организации с помощью мастера RapidStart | Microsoft Docs"
-description: "Можно быстро настроить новую организацию, которую вы создали с помощью мастера служб RapidStart Services."
+title: Настройка организации с помощью мастера RapidStart | Microsoft Docs
+description: Можно быстро настроить новую организацию, которую вы создали с помощью мастера служб RapidStart Services.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
-ms.date: 10/01/2018
+ms.search.keywords: ''
+ms.date: 03/01/2019
 ms.author: sgroespe
+ms.openlocfilehash: 63120671100b7caac7f3cb08bd3fbbcd1d29ff5c
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
 ms.translationtype: HT
-ms.sourcegitcommit: caf7cf5afe370af0c4294c794c0ff9bc8ff4c31c
-ms.openlocfilehash: 4dd595fabbf8e4cd2a3eef73a934922dfea92858
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/22/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804758"
 ---
 # <a name="configure-a-company-with-the-rapidstart-wizard"></a>Настройка организации с помощью мастера RapidStart
 Можно быстро настроить новую организацию, которую вы создали с помощью мастера служб RapidStart Services.
@@ -33,7 +33,7 @@ ms.lasthandoff: 11/22/2018
 
     1. Примените конфигурацию, выбрав действие **Применить пакет**. Это импортирует пакет конфигурации и применяет все данные из базы данных пакета одновременно.  
 
-    2. Просмотрите конфигурацию после ее применения. Эта функция позволяет просматривать данные конфигурации и анкеты, предоставляемые партнером, и импортировать некоторые основные данные, необходимые для организации. Выберите действие **Журнал конфигураций**. Дополнительные сведения см. в разделе «Заполнение анкеты конфигурации» в статье [Сбор значений настройки клиента](admin-gather-customer-setup-values.md).  
+    2. Просмотрите конфигурацию после ее применения. Эта функция позволяет просматривать данные конфигурации и анкеты, предоставляемые партнером, и импортировать некоторые основные данные, необходимые для организации. Выберите действие **Журнал конфигураций**. Дополнительные сведения см. в разделе [Заполнение анкеты конфигураций](admin-gather-customer-setup-values.md#to-complete-the-configuration-questionnaire).  
 
 6. Разверните экспресс-вкладку **Шаг 5**. Укажите ролевой центр, который должен использоваться по умолчанию для новой организации.  
 
@@ -51,4 +51,3 @@ ms.lasthandoff: 11/22/2018
 [Применение конфигураций к новым организациям](admin-apply-configuration-to-new-companies.md)  
 [Настройка компании с помощью служб RapidStart Services](admin-set-up-a-company-with-rapidstart.md)  
 [Администрация](admin-setup-and-administration.md)
-

@@ -1,6 +1,6 @@
 ---
-title: "Обзор задач управления платежами поставщикам | Microsoft Docs"
-description: "Описываются задачи по управлению платежами поставщикам или кредиторам, включая учет строк платежей и получение обзора сумм к оплате."
+title: Обзор задач управления платежами поставщикам | Microsoft Docs
+description: Описываются задачи по управлению платежами поставщикам или кредиторам, включая учет строк платежей и получение обзора сумм к оплате.
 author: edupont04
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: print check, vendor payment, creditor, debt, balance due, AP
-ms.date: 12/07/2018
+ms.date: 02/08/2019
 ms.author: edupont
+ms.openlocfilehash: f2ff92af7dbf6c751cde795d3546d90c8d76a62b
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
 ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
-ms.openlocfilehash: 1ad5e15ef1214fb37250dcd4b04d13ab073ac21a
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804205"
 ---
 # <a name="making-payments"></a>Осуществление платежей
 
@@ -40,7 +40,6 @@ ms.lasthandoff: 11/26/2018
 |Совершение платежей в электронной форме путем экспорта платежей в банковский файл, отправляемый в банк для обработки, включая EFT (электронный платеж) в Северной Америке. |[Совершение электронных платежей](payables-how-export-payments-bank-file.md)|
 |Выполнение электронных платежей согласно стандарту кредитового перевода SEPA в ЕС.|[Выполнение платежей с помощью службы конвертации банковских данных или кредитового перевода SEPA](finance-make-payments-with-bank-data-conversion-service-or-sepa-credit-transfer.md)|
 | Платите поставщику наличными или чеком, и учитывайте платеж при учете счета. |[Немедленное создание счетов покупки](finance-how-to-settle-purchase-invoices-promptly.md) |
-|Возмещайте личные средства, затраченные сотрудниками на служебные цели, путем платежей на их банковские счета.|[Регистрация и возмещение расходов сотрудников](finance-how-record-reimburse-employee-expenses.md)|
 | Убедитесь, что банк выполняет клиринг только проверенных платежных документов и сумм, отправив ему файл, содержащий сведения о поставщике, платежном документе и платеже. |[Экспорт файла Positive Pay](finance-how-positive-pay.md) |
 
 ## <a name="see-also"></a>См. также
@@ -48,4 +47,3 @@ ms.lasthandoff: 11/26/2018
 [Покупки](purchasing-manage-purchasing.md)  
 [Управление дебиторской задолженностью](receivables-manage-receivables.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
-

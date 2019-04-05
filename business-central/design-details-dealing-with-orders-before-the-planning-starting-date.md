@@ -1,8 +1,8 @@
 ---
-title: "Сведения о проектировании — обработка заказов до даты начала планирования | Документы Майкрософт"
-description: "В этом разделе описываются правила, которые применяются при планировании заказов в замороженной зоне."
+title: Сведения о проектировании — обработка заказов до даты начала планирования | Документы Майкрософт
+description: В этом разделе описываются правила, которые применяются при планировании заказов в замороженной зоне.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -13,12 +13,12 @@ ms.search.keywords: planning, frozen, design serial, lot
 ms.date: 10/01/2018
 ms.author: sgroespe
 redirect_url: design-details-balancing-demand-and-supply
+ms.openlocfilehash: 9fee9eff60b441ef2d4782a77a6fbbbe8b01af03
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: 4fc4afa14f9f2a989fae0b1ca8ee0e61fe24fd21
-ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804775"
 ---
 # <a name="design-details-dealing-with-orders-before-the-planning-starting-date"></a>Сведения о проектировании: обработка заказов до даты начала планирования
 Чтобы избежать отображения невозможных и, следовательно, бесполезных предположений в плане поставок, система планирования учитывает период до начальной даты зоны заморозки, в которой ничего нельзя планировать. Следующее правило применяется к замороженной зоне:  
@@ -42,4 +42,3 @@ ms.lasthandoff: 03/22/2018
 [Сведения о проектировании: балансировка спроса и поставки](design-details-balancing-demand-and-supply.md)   
 [Сведения о проектировании: основные понятия системы планирования](design-details-central-concepts-of-the-planning-system.md)   
 [Сведения о проектировании: планирование поставок](design-details-supply-planning.md)
-

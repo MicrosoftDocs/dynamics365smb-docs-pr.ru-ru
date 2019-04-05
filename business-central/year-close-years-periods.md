@@ -1,8 +1,8 @@
 ---
-title: "Закрытие финансового года и учетных периодов | Документы Майкрософт"
-description: "Описываются задачи по закрытию финансового года или учетного периода, например, проверка того, что документы и журналы учтены, а также сверка балансов банковских счетов."
+title: Закрытие финансового года и учетных периодов | Документы Майкрософт
+description: Описываются задачи по закрытию финансового года или учетного периода, например, проверка того, что документы и журналы учтены, а также сверка балансов банковских счетов.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: jswymer
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: year closing, close accounting period, close fiscal year, bank account detailed trial balance
 ms.date: 10/01/2018
 ms.author: jswymer
-ms.translationtype: HT
-ms.sourcegitcommit: caf7cf5afe370af0c4294c794c0ff9bc8ff4c31c
 ms.openlocfilehash: 8ecd532a043ad53b7a1d5d6c38e87a7102407003
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/22/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "803948"
 ---
 # <a name="closing-years-and-periods"></a>Закрытие года и периодов
 В конце финансового года существует ряд административных задач, которые необходимо выполнить, чтобы убедиться, что все документы и журналы учтены, данные о валюте актуальны, книги закрыты и т. д. Фактические задачи будут зависеть от вашей организации.
@@ -42,4 +42,3 @@ ms.lasthandoff: 11/22/2018
 
 ## [!INCLUDE[d365fin](includes/free_trial_md.md)]  
  
-

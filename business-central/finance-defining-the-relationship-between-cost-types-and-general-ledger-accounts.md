@@ -1,8 +1,8 @@
 ---
-title: "Определение отношения между типами затрат и счетами главной книги | Документы Майкрософт"
-description: "Узнайте, как определять отношение между типом себестоимости и счетом ГК."
+title: Определение отношения между типами затрат и счетами главной книги | Документы Майкрософт
+description: Узнайте, как определять отношение между типом себестоимости и счетом ГК.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -13,12 +13,12 @@ ms.search.keywords: cost types, general ledger
 ms.date: 11/13/2018
 ms.author: sgroespe
 redirect_url: finance-transfer-and-post-cost-entries
+ms.openlocfilehash: f80e9b6276d26adffb5e3208ffefbf98d7f7ff96
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: 7709edb214804f52ee9b495c43b5302e2a23bd6b
-ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804153"
 ---
 # <a name="defining-the-relationship-between-cost-types-and-general-ledger-accounts"></a>Определение отношения между типами затрат и счетами главной книги.
 Отношение между типом себестоимости и счетом главной книги создается в типе себестоимости и в счете главной книги.  
@@ -50,4 +50,3 @@ ms.lasthandoff: 03/22/2018
 [Настройка учета затрат](finance-set-up-cost-accounting.md)   
 [Об учете затрат](finance-about-cost-accounting.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
-

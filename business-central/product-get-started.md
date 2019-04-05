@@ -1,6 +1,6 @@
 ---
-title: "Приступая к работе | Документы Майкрософт"
-description: "Узнайте о возможностях и рабочих сценариях в Business Central, решении по управлению деятельностью для небольших и средних предприятий."
+title: Приступая к работе | Документы Майкрософт
+description: Узнайте о возможностях и рабочих сценариях в Business Central, решении по управлению деятельностью для небольших и средних предприятий.
 author: edupont04
 ms.service: dynamics365-business-central
 ms.topic: get-started-article
@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: setup wizard
 ms.date: 12/03/2018
 ms.author: edupont
+ms.openlocfilehash: 5386dc4158dbd1e944eac75f4339ca2295a92fd2
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
 ms.translationtype: HT
-ms.sourcegitcommit: 3f158d7ed56445d6d2acf2ef8e5e9ab8e7487531
-ms.openlocfilehash: 15c54c7c6514ce275ff242d620df7404f9f2fee4
-ms.contentlocale: ru-ru
-ms.lasthandoff: 12/04/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804542"
 ---
 # <a name="getting-started-with-included365finlongincludesd365finlongmdmd"></a>Приступая к работе с [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]
 [!INCLUDE[d365fin](includes/d365fin_md.md)] — это решение по управлению деятельностью для малых и средних предприятий, позволяющее автоматизировать и упростить бизнес процессы и лучше управлять бизнесом. Регистрация очень проста, и вы можете перенести существующие бизнес-данные из своей системы. Чтобы разобраться с подпиской, найдите партнера [!INCLUDE[d365fin](includes/d365fin_md.md)] [здесь](https://www.microsoft.com/en-us/solution-providers/search).  
@@ -94,9 +94,8 @@ ms.lasthandoff: 12/04/2018
 [Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] в качестве рабочего почтового ящика в Outlook](admin-outlook.md)  
 [Получение [!INCLUDE[d365fin](includes/d365fin_md.md)] на мобильном устройстве](install-mobile-app.md)  
 [Документация по Dynamics 365](https://docs.microsoft.com/en-us/dynamics365/)  
-[Заметки к выпуску Microsoft Dynamics 365 Business Central](https://go.microsoft.com/fwlink/?linkid=2047422)  
+[Заметки о выпуске Microsoft Dynamics 365 Business Central](https://go.microsoft.com/fwlink/?linkid=2047422)  
 [Microsoft Dynamics 365 Business Central](https://go.microsoft.com/fwlink/?linkid=828707)  
 
 ## [!INCLUDE[d365fin](includes/free_trial_md.md)]  
  
-

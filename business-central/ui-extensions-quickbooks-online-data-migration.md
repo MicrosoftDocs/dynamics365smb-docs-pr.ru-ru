@@ -1,6 +1,6 @@
 ---
-title: "Использование расширения для миграции данных QuickBooks | Microsoft Docs"
-description: "Описывает, как использовать расширение для миграции клиентов, поставщиков, товаров и счетов из QuickBooks Online в Business Central."
+title: Использование расширения для миграции данных QuickBooks | Microsoft Docs
+description: Описывает, как использовать расширение для миграции клиентов, поставщиков, товаров и счетов из QuickBooks Online в Business Central.
 author: bholtorf
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -10,19 +10,18 @@ ms.workload: na
 ms. search.keywords: extension, migrate, data, QuickBooks, import
 ms.date: 10/01/2018
 ms.author: bholtorf
-ms.translationtype: HT
-ms.sourcegitcommit: caf7cf5afe370af0c4294c794c0ff9bc8ff4c31c
 ms.openlocfilehash: e158f1e92bdf7ebeab0eb4d538d2a141a590b7cd
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/22/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804192"
 ---
-
-# <a name="the-quickbooks-online-data-migration-extension"></a>Расширение для миграции данных QuickBooks Online
+# <a name="the-quickbooks-online-data-migration-extension"></a>Расширение миграции данных QuickBooks Online
 Это расширение входит в руководстве по сопровождаемой настройке **Миграция данных**, которое помогает переносить важные бизнес-данные из QuickBooks Online в [!INCLUDE[d365fin](includes/d365fin_md.md)]. Например, это бывает полезно, если ваш бизнес расет, и вы решили обновить свое приложение для управления бизнесом и перейти на [!INCLUDE[d365fin](includes/d365fin_md.md)].
 
 ## <a name="what-data-can-i-import-from-quickbooks-online"></a>Какие данные можно импортировать из QuickBooks Online?
-Вы можете импортировать следующие данные из QuickBooks Online в [!INCLUDE[d365fin](includes/d365fin_md.md)]:  
+Можно импортировать следующие данные из QuickBooks Online в [!INCLUDE[d365fin](includes/d365fin_md.md)]:  
 
 * Клиенты
 * Поставщики
@@ -66,4 +65,3 @@ ms.lasthandoff: 11/22/2018
 ## <a name="see-also"></a>См. также
 [Импорт бизнес-данных из других финансовых систем](across-import-data-configuration-packages.md)  
 [Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью расширений](ui-extensions.md)  
-

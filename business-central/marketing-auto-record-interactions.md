@@ -1,8 +1,8 @@
 ---
-title: "Настройка автоматической регистрации взаимодействий | Документы Майкрософт"
-description: "Вы можете автоматически записывать взаимодействия с клиентами, например документы продажи, покупки и сервиса, а также телефонные звонки."
+title: Настройка автоматической регистрации взаимодействий | Документы Майкрософт
+description: Вы можете автоматически записывать взаимодействия с клиентами, например документы продажи, покупки и сервиса, а также телефонные звонки.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: jswymer
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: marketing, relationship, prospect, contact, client, customer
 ms.date: 10/01/2018
 ms.author: jswymer
-ms.translationtype: HT
-ms.sourcegitcommit: caf7cf5afe370af0c4294c794c0ff9bc8ff4c31c
 ms.openlocfilehash: 996bf575d463be365b0bbcdbeef319491065b873
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/22/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804571"
 ---
 # <a name="recording-interactions-with-contacts-automatically"></a>Автоматическая регистрация взаимодействий с контактами
 Вы можете настроить приложение на автоматическую регистрацию взаимодействий по документам продаж, покупок и сервиса, титульным листам, эл. почте, телефонным звонкам, например:
@@ -34,4 +34,3 @@ ms.lasthandoff: 11/22/2018
 ## <a name="see-also"></a>См. также
 [Регистрация взаимодействий с контактами](marketing-interactions.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
-

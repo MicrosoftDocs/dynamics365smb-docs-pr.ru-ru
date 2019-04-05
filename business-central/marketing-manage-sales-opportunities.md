@@ -1,8 +1,8 @@
 ---
-title: "Управление возможностями продаж и интересами | Microsoft Docs"
-description: "Описывается управление входящими интересами и возможностями продаж в Business Central, а также связыванием возможностей с менеджерами по продажам для отслеживания потенциальных продаж."
+title: Управление возможностями продаж и интересами | Microsoft Docs
+description: Описывается управление входящими интересами и возможностями продаж в Business Central, а также связыванием возможностей с менеджерами по продажам для отслеживания потенциальных продаж.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: jswymer
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: relationship, prospect
 ms.date: 10/01/2018
 ms.author: jswymer
+ms.openlocfilehash: cb391e079d65283aef5aff1d4a30d14123065ba5
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: 2c9ef61555ddf3579172fc1e5b28e8eb4923b4d5
-ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804017"
 ---
 # <a name="managing-sales-opportunities"></a>Управление возможностями продаж
 Все входящие потенциальные сделки можно рассматривать как возможность продаж. Можно создавать возможности и связывать их с менеджерами, чтобы отслеживать потенциальные продажи.
@@ -36,4 +36,3 @@ ms.lasthandoff: 03/22/2018
 [Продажи](sales-manage-sales.md)  
 [Создание контактов и управление ими](marketing-contacts.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
-

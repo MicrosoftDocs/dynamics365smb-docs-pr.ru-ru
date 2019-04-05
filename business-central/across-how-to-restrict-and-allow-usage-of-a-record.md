@@ -1,23 +1,23 @@
 ---
-title: "Практическое руководство. Ограничение и разрешение использования записи | Microsoft Docs"
-description: "Если нужно ограничить использование записи в определенных видах деятельности, например, до утверждения записи, можно встроить в рабочий процесс два отклика, управляющих использованием записи."
+title: Практическое руководство. Ограничение и разрешение использования записи | Microsoft Docs
+description: Если нужно ограничить использование записи в определенных видах деятельности, например, до утверждения записи, можно встроить в рабочий процесс два отклика, управляющих использованием записи.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 10/01/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: a95eaa2f0933c6724b1e9158c675ad1a27e0ba2a
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804601"
 ---
 # <a name="restrict-and-allow-usage-of-a-record"></a>Ограничение и разрешение использования записи
 Если нужно ограничить использование записи в определенных видах деятельности, например, до утверждения записи, можно встроить в рабочий процесс два отклика, управляющих использованием записи. Один отклик процесса будет ограничивать использование записи, определенное событием и условиями рабочего процесса. Другой отклик рабочего процесса будет разрешать использование записи, определенное событием и условиями рабочего процесса. Для этой цели в универсальной версии [!INCLUDE[d365fin](includes/d365fin_md.md)] доступно два отклика: **Ограничить использование записи** и **Разрешить использование записи**.
@@ -43,4 +43,3 @@ ms.lasthandoff: 11/26/2018
 ## <a name="see-also"></a>См. также  
 [Создание рабочих процессов](across-how-to-create-workflows.md)   
 [Рабочий процесс](across-workflow.md)   
-

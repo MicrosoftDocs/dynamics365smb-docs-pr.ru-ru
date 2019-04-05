@@ -1,7 +1,7 @@
 ---
-title: "Перенос данных из приложения QuickBooks | Microsoft Docs"
-description: "Вы можете переносить данные, например клиентов, поставщиков, товары в запасах и счета ГК из приложений QuickBooks в Business Central."
-documentationcenter: 
+title: Перенос данных из приложения QuickBooks | Microsoft Docs
+description: Вы можете переносить данные, например клиентов, поставщиков, товары в запасах и счета ГК из приложений QuickBooks в Business Central.
+documentationcenter: ''
 author: bholtorf
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -11,15 +11,13 @@ ms.workload: na
 ms.search.keywords: app, import, migrate, data, transfer, QuickBooks, customize
 ms.date: 10/01/2018
 ms.author: bholtorf
-ms.translationtype: HT
-ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
 ms.openlocfilehash: badf86b9fefad8019b6bee5b8edcbaa1aebf8a6d
-ms.contentlocale: ru-ru
-ms.lasthandoff: 09/28/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804225"
 ---
-
-
 # <a name="changing-from-a-quickbooks-app-to-dynamics-365-business-central"></a>Переход с приложения QuickBooks на Dynamics 365 Business Central
 Все больше организаций ввиду увеличения масштабов своей деятельности переходят с таких финансовых приложений, предназначенных для стартапов и других небольших предприятий, как QuickBooks Desktop и QuickBooks Online, на систему [!INCLUDE[d365fin](includes/d365fin_md.md)], способную обслуживать более крупные и сложные организации. 
 
@@ -30,8 +28,8 @@ ms.lasthandoff: 09/28/2018
 
 Дополнительные сведения см. в разделе о расширении, соответствующем вашему приложению QuickBooks:   
 
-* [Расширение для миграции данных QuickBooks Desktop](ui-extensions-quickbooks-data-migration.md)
-* [Расширение для миграции данных QuickBooks Online](ui-extensions-quickbooks-online-data-migration.md)
+* [Расширение миграции данных QuickBooks Desktop](ui-extensions-quickbooks-data-migration.md)
+* [Расширение миграции данных QuickBooks Online](ui-extensions-quickbooks-online-data-migration.md)
 
 ## <a name="ready-now"></a>Готовы начинать?
 Если вы готовы начать прямо сейчас, выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Мастер настройки**, затем выберите связанную ссылку. Выберите **Миграция бизнес-данных**, затем выполните шаги в руководстве.
@@ -39,4 +37,3 @@ ms.lasthandoff: 09/28/2018
 ## <a name="see-also"></a>См. также
 [Импорт бизнес-данных из других финансовых систем](across-import-data-configuration-packages.md)  
 [Настройка Business Central с помощью расширений](ui-extensions.md)   
-

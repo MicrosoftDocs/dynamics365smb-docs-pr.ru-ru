@@ -1,6 +1,6 @@
 ---
-title: "Использование расширения \"Почтовые индексы Великобритании GetAddress.io\" | Microsoft Docs"
-description: "Вы можете получать адреса клиентов, поставщиков, банков и сотрудников и т. д. в Великобритании с помощью службы GetAddress.io."
+title: Использование расширения "Почтовые индексы Великобритании GetAddress.io" | Microsoft Docs
+description: Вы можете получать адреса клиентов, поставщиков, банков и сотрудников и т. д. в Великобритании с помощью службы GetAddress.io.
 author: bholtorf
 ms.service: dynamics365-business-central
 ms.topic: get-started-article
@@ -10,14 +10,13 @@ ms.workload: na
 ms.search.keywords: GetAddress.io, postcodes, postal, address, extension
 ms.date: 10/01/2018
 ms.author: bholtorf
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: af4be20798af59f01c870885b7e167fcb94d6bab
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804527"
 ---
-
 # <a name="the-getaddressio-uk-postcodes-extension"></a>Расширение "Почтовые индексы Великобритании GetAddress.io"
 Расширение "Почтовые индексы Великобритании GetAddress.io" может помочь сэкономить время и избежать ошибок при вводе адресов для объектов, таких как клиенты, поставщики, банковские счета и сотрудники. Например, при создании клиента можно просто выбрать почтовый индекс, и [!INCLUDE[d365fin](includes/d365fin_md.md)] отобразит список адресов. Выберите требуемый адрес, и поля адреса будут заполнены автоматически.  
 
@@ -35,4 +34,3 @@ ms.lasthandoff: 11/26/2018
 
 ## <a name="see-also"></a>См. также
 [Настройка расширения "Почтовые индексы Великобритании GetAddress.io"](LocalFunctionality/UnitedKingdom/uk-setup-postal-code-service.md)
-

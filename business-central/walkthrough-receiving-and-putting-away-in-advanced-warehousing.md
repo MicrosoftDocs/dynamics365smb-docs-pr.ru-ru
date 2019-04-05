@@ -1,21 +1,21 @@
 ---
-title: "Получение и складирование в дополнительных складских услугах | Документы Майкрософт"
-description: "В Business Central входящие процессы по получению и размещению могут быть выполнены четырьмя способами при помощи различных функций в зависимости от уровня сложности склада."
+title: Получение и складирование в дополнительных складских услугах | Документы Майкрософт
+description: В Business Central входящие процессы по получению и размещению могут быть выполнены четырьмя способами при помощи различных функций в зависимости от уровня сложности склада.
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 01/31/2019
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: a94c4f2f8d622a91b74ba0de6f0f18e7eb84a5ef
 ms.openlocfilehash: 8d9ce13690a1db0e06d3ea204b0c95ac7cb21d33
-ms.contentlocale: ru-ru
-ms.lasthandoff: 01/31/2019
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804262"
 ---
 # <a name="walkthrough-receiving-and-putting-away-in-advanced-warehouse-configurations"></a>Пошаговое руководство. Получение и складирование в расширенных конфигурациях склада
 
@@ -55,7 +55,7 @@ ms.lasthandoff: 01/31/2019
 ## <a name="prerequisites"></a>Предварительные требования  
 Для выполнения данного пошагового руководства необходимо выполнить следующие действия.  
 
--   Установлен "Cronus Россия ЗАО".  
+-   Установлена организация "CRONUS Россия ЗАО".  
 -   Чтобы назначить себя работником БЕЛОГО склада, выполните следующие действия.  
 
 1.  Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Сотрудники склада**, затем выберите связанную ссылку.  
@@ -159,4 +159,3 @@ ms.lasthandoff: 01/31/2019
  [Сведения о проектировании: входящий складской поток](design-details-inbound-warehouse-flow.md)   
  [Пошаговое руководство. Получение и складирование в базовых конфигурациях склада](walkthrough-receiving-and-putting-away-in-basic-warehousing.md)   
  [Пошаговые описания бизнес-процессов](walkthrough-business-process-walkthroughs.md)
-

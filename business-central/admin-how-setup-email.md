@@ -1,7 +1,7 @@
 ---
-title: "Настройка электронной почты в Business Central | Документы Майкрософт"
-description: "Описывается, как использовать сервер SMTP организации для отправки и получения сообщений электронной почты в Business Central либо как использовать настройки сервера электронной почты, созданные в подписке Office 365."
-documentationcenter: 
+title: Настройка электронной почты в Business Central | Документы Майкрософт
+description: Описывается, как использовать сервер SMTP организации для отправки и получения сообщений электронной почты в Business Central либо как использовать настройки сервера электронной почты, созданные в подписке Office 365.
+documentationcenter: ''
 author: edupont04
 ms.service: dynamics365-business-central
 ms.topic: get-started-article
@@ -11,12 +11,12 @@ ms.workload: na
 ms.search.keywords: SMTP, mail, Office 365
 ms.date: 10/01/2018
 ms.author: edupont
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: 9eb056bc98298a31833d205862d2d9bfeba04218
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804795"
 ---
 # <a name="set-up-email-manually-or-using-the-assisted-setup"></a>Настройка электронной почты вручную или с помощью мастера настройки
 Для отправки и получения сообщений электронной почты в [!INCLUDE[d365fin](includes/d365fin_md.md)] следует заполнить поля на странице **Настройка эл. почты (SMTP)**.
@@ -40,4 +40,3 @@ ms.lasthandoff: 11/26/2018
 [Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью расширений](ui-extensions.md)  
 [Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] в качестве рабочего почтового ящика в Outlook](admin-outlook.md)  
 [Получение [!INCLUDE[d365fin](includes/d365fin_md.md)] на мобильном устройстве](install-mobile-app.md)
-

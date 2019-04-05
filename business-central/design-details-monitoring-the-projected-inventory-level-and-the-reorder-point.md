@@ -1,8 +1,8 @@
 ---
-title: "Сведения о проектировании — отслеживание уровня прогнозируемых запасов и точки дозаказа | Документы Майкрософт"
-description: "Узнайте, как при планирование запасов различаются уровень прогнозируемых запасов и уровень прогнозируемых доступных запасов."
+title: Сведения о проектировании — отслеживание уровня прогнозируемых запасов и точки дозаказа | Документы Майкрософт
+description: Узнайте, как при планирование запасов различаются уровень прогнозируемых запасов и уровень прогнозируемых доступных запасов.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -13,12 +13,12 @@ ms.search.keywords: design, supply, inventory, planning
 ms.date: 10/01/2018
 ms.author: sgroespe
 redirect_url: design-details-handling-reordering-policies
+ms.openlocfilehash: d26790c1c48eff8af150a72f5d5d697eb7b9dc2a
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
 ms.translationtype: HT
-ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
-ms.openlocfilehash: 336b5c300cf3640d7356313d2d627f6b4008c7b4
-ms.contentlocale: ru-ru
-ms.lasthandoff: 09/28/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "803952"
 ---
 # <a name="design-details-monitoring-the-projected-inventory-level-and-the-reorder-point"></a>Сведения о проектировании: отслеживание уровня прогнозируемых запасов и точки дозаказа
 Запасы — это тип поставки, но для планирования запасов система планирования разделяет два уровня запасов:  
@@ -76,4 +76,3 @@ ms.lasthandoff: 09/28/2018
 [Сведения о проектировании: параметры планирования](design-details-planning-parameters.md)   
 [Сведения о проектировании: обработка политик дозаказа](design-details-handling-reordering-policies.md)   
 [Сведения о проектировании: планирование поставок](design-details-supply-planning.md)
-

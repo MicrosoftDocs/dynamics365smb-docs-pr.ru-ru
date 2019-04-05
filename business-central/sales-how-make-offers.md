@@ -1,7 +1,7 @@
 ---
-title: "Создание предложения по продаже для клиента | Документы Майкрософт"
-description: "Описывается процесс создание предложения по продаже или запроса предложения (RFQ) для записи вашего предложения клиенту для продажи продуктов на определенных условиях."
-documentationcenter: 
+title: Создание предложения по продаже для клиента | Документы Майкрософт
+description: Описывается процесс создание предложения по продаже или запроса предложения (RFQ) для записи вашего предложения клиенту для продажи продуктов на определенных условиях.
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -11,12 +11,12 @@ ms.workload: na
 ms.search.keywords: rfq
 ms.date: 10/01/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: 9cf65b029527dfd046223e82b92b57a48d43bb19
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804517"
 ---
 # <a name="make-sales-quotes"></a>Создание предложений по продаже
 Предложение по продаже создается для записи предложения клиенту о продаже определенных товаров на определенных условиях доставки и оплаты. Можно также отправить клиенту предложение по продаже. Документ можно отправить по электронной почте в виде вложения PDF. Можно также включить краткое изложение предложения в содержание сообщения электронной почты. Дополнительные сведения см. в разделе [Отправка документов по электронной почте](ui-how-send-documents-email.md).
@@ -82,4 +82,3 @@ ms.lasthandoff: 11/26/2018
 [Настройка продаж](sales-setup-sales.md)  
 [Отправка документов по электронной почте](ui-how-send-documents-email.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
-

@@ -1,6 +1,6 @@
 ---
-title: "Создание контактных лиц | Microsoft Docs"
-description: "Описывается, как создать карточку контакта для каждого нового лица или потенциального клиента, с которым у вас деловые отношения."
+title: Создание контактных лиц | Microsoft Docs
+description: Описывается, как создать карточку контакта для каждого нового лица или потенциального клиента, с которым у вас деловые отношения.
 author: jswymer
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -11,12 +11,12 @@ ms.search.keywords: relationship, prospect
 ms.date: 10/01/2018
 ms.author: jswymer
 redirect_url: marketing-create-contact-persons
+ms.openlocfilehash: 983de37e20b69d6ce5d8630973d8fbac6403a346
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
 ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
-ms.openlocfilehash: 1bcba95f33a504d5c87fbc27671184d71aa6468f
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804523"
 ---
 # <a name="create-contact-persons"></a>Создание контактных лиц
 Можно создавать карточку контакта для каждого контакта внутри организации, с которой происходит взаимодействие. Для каждой контактной организации можно ввести любое желаемое число контактных лиц. Также можно создавать карточки контакта, которые будут зарегистрированы как независимые.
@@ -37,11 +37,9 @@ ms.lasthandoff: 11/26/2018
 >   Содержимое полей, выбранных на в разделе **Наследование** страницы **Настройка модуля "Маркетинг"**, копируется из организации в карточки пользователей, работающих в этой организации.
 
 ## <a name="see-also"></a>См. также
-[Настройка управления отношениями](marketing-setup-marketing.md)  
 [Присвоение групп рассылки контакту](marketing-mailing-groups.md#AssignMailGroupContact)  
 [Настройка должностных обязанностей в контактах](marketing-job-responsibilities.md)  
 [Настройка организационных уровней для контактных лиц](marketing-organizational-levels.md)  
 [Синхронизация контактов с клиентами, поставщиками и банковскими счетами](marketing-synchronize-contacts-customers-vendors-bank-accounts.md)  
 [Использование анкет профилей для классификации бизнес-контактов](marketing-create-contact-profile-questionnaire.md)  
 [Работа с Business Central](ui-work-product.md)  
-

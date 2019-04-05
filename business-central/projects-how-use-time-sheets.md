@@ -1,6 +1,6 @@
 ---
-title: "Использование табелей учета рабочего времени для работ | Документы Майкрософт"
-description: "Описывается процедура создания табеля учета рабочего времени для работы, копирования строк планирования в него, определения видов работ, заполнения табеля учета рабочего времени и его отправки на утверждение."
+title: Использование табелей учета рабочего времени для работ | Документы Майкрософт
+description: Описывается процедура создания табеля учета рабочего времени для работы, копирования строк планирования в него, определения видов работ, заполнения табеля учета рабочего времени и его отправки на утверждение.
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: project management, capacity, staff, resource
 ms.date: 10/01/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: 70d63dcc678a49fa1854b88bc3ca1f9ec8ecc69f
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804236"
 ---
 # <a name="use-time-sheets-for-jobs"></a>Использование табелей учета рабочего времени для работ
 Используйте пакетное задание **Создать табели учета рабочего времени**, чтобы настроить табели для определенного количества периодов времени или недель. Вы должны иметь права на создание табелей.
@@ -153,4 +153,3 @@ ms.lasthandoff: 11/26/2018
 [Покупки](purchasing-manage-purchasing.md)         
 [Продажи](sales-manage-sales.md)     
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
-

@@ -1,21 +1,21 @@
 ---
-title: "Подбор и отгрузка в основных складских конфигурациях | Документы Майкрософт"
-description: "В Business Central исходящие процессы по подбору и отгрузке могут быть выполнены четырьмя способами при помощи различных функций в зависимости от уровня сложности склада."
+title: Подбор и отгрузка в основных складских конфигурациях | Документы Майкрософт
+description: В Business Central исходящие процессы по подбору и отгрузке могут быть выполнены четырьмя способами при помощи различных функций в зависимости от уровня сложности склада.
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 01/31/2019
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: a94c4f2f8d622a91b74ba0de6f0f18e7eb84a5ef
 ms.openlocfilehash: 1b07a3b064f1bc45a183d0a2d27b810312007a22
-ms.contentlocale: ru-ru
-ms.lasthandoff: 01/31/2019
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804130"
 ---
 # <a name="walkthrough-picking-and-shipping-in-basic-warehouse-configurations"></a>Пошаговое руководство. Подбор и отгрузка в основных складских конфигурациях
 
@@ -55,7 +55,7 @@ ms.lasthandoff: 01/31/2019
 ## <a name="prerequisites"></a>Предварительные требования  
 Для выполнения данного пошагового руководства необходимо выполнить следующие действия.  
 
--   Установлен "Cronus Россия ЗАО".  
+-   Установлена организация "CRONUS Россия ЗАО".  
 -   Чтобы назначить себя работником СЕРЕБРЯНОГО склада, выполните следующие действия.  
 
     1.  Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Сотрудники склада**, затем выберите связанную ссылку.  
@@ -131,4 +131,3 @@ ms.lasthandoff: 01/31/2019
  [Сведения о проектировании: исходящий складской поток](design-details-outbound-warehouse-flow.md)   
  [Пошаговые описания бизнес-процессов](walkthrough-business-process-walkthroughs.md)  
  [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
-

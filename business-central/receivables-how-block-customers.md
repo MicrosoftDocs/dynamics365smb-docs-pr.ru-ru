@@ -1,23 +1,23 @@
 ---
-title: "Блокировка продаж клиентам товаров из продаж или покупок"
-description: "В Business Central товар можно пометить как заблокированный для продажи, покупки или всех целей."
+title: Блокировка продаж клиентам товаров из продаж или покупок
+description: В Business Central товар можно пометить как заблокированный для продажи, покупки или всех целей.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 10/01/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
 ms.openlocfilehash: 268d098318b77cb89a369e8edc14729a44bedae6
-ms.contentlocale: ru-ru
-ms.lasthandoff: 09/28/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804657"
 ---
 # <a name="block-customers"></a>Блокировка клиентов
 Можно заблокировать клиента, например из-за несостоятельности, чтобы этого клиента нельзя было добавить в документы продажи или чтобы никакие транзакции не могли быть учтены для клиента.
@@ -42,4 +42,3 @@ ms.lasthandoff: 09/28/2018
 [Регистрация новых клиентов](sales-how-register-new-customers.md)  
 [Сбор непогашенных остатков задолженности](receivables-collect-outstanding-balances.md)  
 [Управление дебиторской задолженностью](receivables-manage-receivables.md)  
-

@@ -1,6 +1,6 @@
 ---
-title: "Настройка кредитового перевода SEPA | Microsoft Docs"
-description: "Узнайте, как настроить кредитовый перевод SEPA в Business Central."
+title: Настройка кредитового перевода SEPA | Microsoft Docs
+description: Узнайте, как настроить кредитовый перевод SEPA в Business Central.
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -11,12 +11,12 @@ ms.search.keywords: sepa, credit, transfer, payment,
 ms.date: 10/01/2018
 ms.author: sgroespe
 redirect_url: finance-make-payments-with-bank-data-conversion-service-or-sepa-credit-transfer
+ms.openlocfilehash: 6c35fdb6e5e37eb521b6d51050a552e52b66ec5d
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
 ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
-ms.openlocfilehash: 103ebe376d3384eab119617b903f9a803f248462
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804199"
 ---
 # <a name="set-up-sepa-credit-transfer"></a>Настройка кредитового перевода SEPA
 На странице **Журнал платежей** можно экспортировать платежи в файл для отправки в электронный банк на обработку связанных денежных переводов. [!INCLUDE[d365fin](includes/d365fin_md.md)] поддерживает формат кредитового перевода SEPA, но в вашей стране или регионе могут быть доступны другие форматы электронных платежей.  
@@ -65,4 +65,3 @@ ms.lasthandoff: 11/26/2018
 [Настройка определений обмена данными](across-how-to-set-up-data-exchange-definitions.md)  
 [Создание типовых строк продажи и покупки](sales-how-work-standard-lines.md)  
 [Электронный обмен данными](across-data-exchange.md)  
-

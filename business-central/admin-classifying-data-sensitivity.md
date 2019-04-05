@@ -1,6 +1,6 @@
 ---
-title: "Классификация конфиденциальности данных"
-description: "Следует указать, какой тип данных вы храните о людях, чтобы можно было отвечать на запросы субъектов данных."
+title: Классификация конфиденциальности данных
+description: Следует указать, какой тип данных вы храните о людях, чтобы можно было отвечать на запросы субъектов данных.
 author: bholtorf
 ms.author: bholtorf
 ms.custom: na
@@ -8,14 +8,13 @@ ms.reviewer: na
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.date: 10/01/2018
+ms.openlocfilehash: 4e12aa7b4b105a221a218bcd0b6ab7d3ed30c290
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: 05d9630075ed533759f8225810e4e4a95c141b16
-ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804206"
 ---
-
 # <a name="classifying-data-sensitivity"></a>Классификация конфиденциальности данных
 Для классификации полей, в которых хранятся конфиденциальные или личные данные, партнер Майкрософт может настроить свойство ```DataClassification``` полей. Для этого требуется доступ к таблицам базы данных, либо через среду разработки, либо путем запуска сценария Windows PowerShell. Дополнительные сведения см. в разделе [Классификация данных](https://docs.microsoft.com/en-us/dynamics-nav/classifying-data).  
 
@@ -50,4 +49,3 @@ ms.lasthandoff: 03/22/2018
 
 ## <a name="see-also"></a>См. также
 [Классификация данных](https://docs.microsoft.com/en-us/dynamics-nav/classifying-data)  
-

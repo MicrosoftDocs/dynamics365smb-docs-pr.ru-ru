@@ -1,21 +1,21 @@
 ---
-title: "Вспомогательные функции"
-description: "Сочетания клавиш и другие вспомогательные функции."
+title: Вспомогательные функции
+description: Сочетания клавиш и другие вспомогательные функции.
 author: edupont04
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 10/01/2018
 ms.author: edupont
-ms.translationtype: HT
-ms.sourcegitcommit: caf7cf5afe370af0c4294c794c0ff9bc8ff4c31c
 ms.openlocfilehash: bdb9eab2c23d8f1eacafd77433f621275c3dfdf1
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/22/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804104"
 ---
 # <a name="accessibility-and-keyboard-shortcuts-in-included365finincludesd365finmdmd"></a>Специальные возможности и сочетания клавиш в [!INCLUDE[d365fin](includes/d365fin_md.md)]
 В этом разделе приведены сведения о функциях, благодаря которым решение [!INCLUDE[d365fin](includes/d365fin_md.md)] доступно для использования людям с ограниченными возможностями. [!INCLUDE[d365fin](includes/d365fin_md.md)] поддерживает следующие специальные возможности:  
@@ -69,4 +69,3 @@ ms.lasthandoff: 11/22/2018
 [Приступая к работе](product-get-started.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 [Вопросы и ответы](across-faq.md)  
-

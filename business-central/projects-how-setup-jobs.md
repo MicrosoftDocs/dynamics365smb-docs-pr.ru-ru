@@ -1,8 +1,8 @@
 ---
-title: "Настройка цен работ и групп учета работ | Документы Майкрософт"
-description: "Далее описывается процедура настройки общих сведений для работ, а также цен товаров для работ, ресурсов, счетов ГК и групп учета работ."
+title: Настройка цен работ и групп учета работ | Документы Майкрософт
+description: Далее описывается процедура настройки общих сведений для работ, а также цен товаров для работ, ресурсов, счетов ГК и групп учета работ.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: project management
 ms.date: 10/01/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: fc4c413fcb02cda2e0eb2b8caf7af721a26dfe1b
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "803872"
 ---
 # <a name="set-up-jobs"></a>Настройка работ
 На странице **Настройка работ** необходимо определить, как требуется использовать определенные функции работ.
@@ -120,4 +120,3 @@ ms.lasthandoff: 11/26/2018
 [Покупки](purchasing-manage-purchasing.md)         
 [Продажи](sales-manage-sales.md)      
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
-

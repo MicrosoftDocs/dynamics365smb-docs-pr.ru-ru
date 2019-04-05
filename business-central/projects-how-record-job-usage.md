@@ -1,8 +1,8 @@
 ---
-title: "Запись оплачиваемого и бюджетного использования ресурсов работ | Документы Майкрософт"
-description: "Далее описывается процедура записи потребления или использования товаров или ресурсов в работах для целей управления проектами."
+title: Запись оплачиваемого и бюджетного использования ресурсов работ | Документы Майкрософт
+description: Далее описывается процедура записи потребления или использования товаров или ресурсов в работах для целей управления проектами.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: project management, consumption
 ms.date: 10/01/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: f1b3864eadd616273c3a4a7d061623dab701d01e
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804697"
 ---
 # <a name="record-usage-for-jobs"></a>Запись потребления для работ
 На странице **Строки планирования работ** можно просмотреть и регистрировать потребление в разных частях работы, которое автоматически обновляется при изменении и передаче данных между работами и журналами работ или счетами за работы. Для этого требуется настроить работу таким образом, чтобы включить **Применить связь использования по умолчанию**. Дополнительные сведения см. в разделе [Настройка работ](projects-how-setup-jobs.md).  
@@ -91,4 +91,3 @@ ms.lasthandoff: 11/26/2018
 [Покупки](purchasing-manage-purchasing.md)         
 [Продажи](sales-manage-sales.md)      
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
-

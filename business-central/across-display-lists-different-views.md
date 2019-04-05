@@ -1,8 +1,8 @@
 ---
-title: "Настройка объема подробностей, отображаемых в списках | Microsoft Docs"
-description: "Списки можно открывать в подробных представлениях, содержащих дополнительные сведения, или в виде плиток, которые удобно просматривать."
+title: Настройка объема подробностей, отображаемых в списках | Microsoft Docs
+description: Списки можно открывать в подробных представлениях, содержащих дополнительные сведения, или в виде плиток, которые удобно просматривать.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SusanneWindfeldPedersen
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: personalization
 ms.date: 10/01/2018
 ms.author: solsen
+ms.openlocfilehash: 8f196f8df6683b0a7d11e75b8da53861facab0c0
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: dcad65142e4f2c9fc9ab6c5ab01ed4bb057721a0
-ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804402"
 ---
 # <a name="displaying-lists-in-different-ways"></a>Отображение списков различными способами
 В правом углу любого списка в [!INCLUDE[d365fin](includes/d365fin_md.md)] находятся значки, позволяющие переключать представление списка. Список можно просматривать как подробный список, что является представлением по умолчанию. Однако вы также можете переключиться на представление плиток, в котором содержится меньше информации о конкретных записях, а все операции размещены в виде плиток. Это представление очень полезно для получения общего представления о нескольких операциях, особенно на небольших устройствах, поскольку такой список проще нажимать.
@@ -30,4 +30,3 @@ ms.lasthandoff: 03/22/2018
 ## <a name="see-also"></a>См. также
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 [Регистрация новых товаров](inventory-how-register-new-items.md)  
-

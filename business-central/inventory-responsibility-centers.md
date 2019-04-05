@@ -1,23 +1,23 @@
 ---
-title: "Практическое руководство. Работа с центрами ответственности | Документы Майкрософт"
-description: "Центры ответственности позволяют обслуживать центры администрирования. Центр ответственности может быть центром затрат, центром прибыли, центром инвестиций или другим определенным организацией центром."
+title: Практическое руководство. Работа с центрами ответственности | Документы Майкрософт
+description: Центры ответственности позволяют обслуживать центры администрирования. Центр ответственности может быть центром затрат, центром прибыли, центром инвестиций или другим определенным организацией центром.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 10/01/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: 643d0b7be64addf3604283dbed58d59a54df2032
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804524"
 ---
 # <a name="work-with-responsibility-centers"></a>Работа с центрами ответственности
 Центры ответственности обеспечивают возможность работы с центрами администрирования. Центр ответственности может быть центром затрат, центром прибыли, центром инвестиций или другим определенным организацией центром. Примеры центров ответственности: отдел продаж, отдел снабжения для нескольких складов и отдел планирования завода. Используя данную функцию, организации могут, например, задавать пользовательские представления документов продажи и покупки, относящиеся к исключительно к конкретному центру ответственности.  
@@ -63,4 +63,3 @@ ms.lasthandoff: 11/26/2018
 [Управление складом](warehouse-manage-warehouse.md)    
 [Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
-

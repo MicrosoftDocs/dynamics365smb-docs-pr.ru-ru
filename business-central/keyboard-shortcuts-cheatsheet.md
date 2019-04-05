@@ -1,6 +1,6 @@
 ---
-title: "Краткая справка по сочетаниям клавиш"
-description: "Удобная для печати справочная страница, содержащая наиболее популярные сочетания клавиш."
+title: Краткая справка по сочетаниям клавиш
+description: Удобная для печати справочная страница, содержащая наиболее популярные сочетания клавиш.
 author: jswymer
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -10,14 +10,13 @@ ms.workload: na
 ms.search.keywords: accessibility, shortcuts, keyboarding
 ms.date: 10/01/2018
 ms.author: jswymer
-ms.translationtype: HT
-ms.sourcegitcommit: 3f158d7ed56445d6d2acf2ef8e5e9ab8e7487531
 ms.openlocfilehash: f0a88ccadd5107130150e5cadda3e3e5d1cee4bf
-ms.contentlocale: ru-ru
-ms.lasthandoff: 12/04/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804291"
 ---
-
 # <a name="keyboard-shortcuts-quick-reference"></a>Краткая справка по сочетаниям клавиш
 
 ||||  
@@ -27,4 +26,3 @@ ms.lasthandoff: 12/04/2018
 |**Копирование и вставка**|Ctrl+C<br />Ctrl+V<br />F8|Копировать строки<br />Вставить строки<br />Копировать поле выше в текущую строку|
 |**Поиск, фильтрация и сортировка**|F3<br />Shift+F3<br />Ctrl+Shift+F3<br />Alt+F3<br />Shift+Alt+F3<br />Ctrl+Alt+Shift+F3|Переключение поиска<br />Переключение области фильтров; фокусировка на фильтрах полей<br />Переключение области фильтров; фокусировка на фильтрах итоговых значений<br />Фильтр по выбранному значению ячейки<br />Добавить фильтр в выбранное поле<br />Сброс фильтров|
 |**Предварительный просмотр отчета**|Стрелка вверх или вниз<br />Стрелка вправо/влево<br />Ctrl+Home/End<br />Page Up/Down|Прокрутка страницы вверх или вниз<br />Прокрутка вправо или влево <br />Перейти к первой/последней странице<br />Перейти к предыдущей/следующей странице|
-

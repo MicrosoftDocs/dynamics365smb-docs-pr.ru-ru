@@ -1,6 +1,6 @@
 ---
-title: "Работа с финансовыми обзорами в Excel | Microsoft Docs"
-description: "Узнайте, как открывать финансовые отчеты в Microsoft Excel из Business Central для более тщательного их анализа."
+title: Работа с финансовыми обзорами в Excel | Microsoft Docs
+description: Узнайте, как открывать финансовые отчеты в Microsoft Excel из Business Central для более тщательного их анализа.
 author: edupont04
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: accountant, accounting, financial report
 ms.date: 10/01/2018
 ms.author: edupont
+ms.openlocfilehash: acd894ede7ad497311a793fb7153333a9a35e1cb
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: 3ef371dda59142f38aa50159ecf305880d34529b
-ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804680"
 ---
 # <a name="analyzing-financial-statements-in-microsoft-excel"></a>Анализ финансовых отчетов в Microsoft Excel
 В [!INCLUDE[d365fin](includes/d365fin_md.md)] можно просматривать ключевые коэффициенты эффективности и получать обзоры финансового состояния организации. Можно также открыть списки в Excel и анализировать данные в нем. Однако также можно экспортировать большие финансовые отчеты, такие как балансовый отчет или отчет о прибылях и убытках в Excel, проанализировать данные и напечатать отчеты.  
@@ -46,4 +46,3 @@ ms.lasthandoff: 03/22/2018
 [Настройка финансов](finance-setup-finance.md)  
 [Главная книга и план счетов](finance-general-ledger.md)  
 [Работа с Business Central](ui-work-product.md)  
-

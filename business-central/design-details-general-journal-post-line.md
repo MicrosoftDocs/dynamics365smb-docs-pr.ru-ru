@@ -1,6 +1,6 @@
 ---
-title: "Сведения о проектировании — обзор строки учета финансового журнала | Документы Майкрософт"
-description: "В этом разделе содержатся подробные сведения о концепциях и принципах, используемых для перегруппировки функции строки учета финансового журнала в Business Central."
+title: Сведения о проектировании — обзор строки учета финансового журнала | Документы Майкрософт
+description: В этом разделе содержатся подробные сведения о концепциях и принципах, используемых для перегруппировки функции строки учета финансового журнала в Business Central.
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: design, general journal, posting, codeunit 12
 ms.date: 10/01/2018
 ms.author: sgroespe
+ms.openlocfilehash: 24df541a8f1d1cf5df3f53a00922ae0d88d7192f
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: 87b15502ad06b7eb419ca8c3cbc66ed4d29da7f2
-ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804421"
 ---
 # <a name="design-details-general-journal-post-line"></a>Сведения о проектировании: строка учета финансового журнала
 Документация содержит подробные технические сведения о концепциях и принципах, используемых для перегруппировки функции строки учета финансового журнала в [!INCLUDE[d365fin](includes/d365fin_md.md)]. В измененном дизайне модуль codeunit 12 проще использовать и поддерживать. В начале документа приводится концептуальный обзор переконструирования. Затем поясняется техническая архитектура с целью показать изменения, связанные с изменением дизайна.  
@@ -29,4 +29,3 @@ ms.lasthandoff: 03/22/2018
 
 ## <a name="see-also"></a>См. также  
 [Работа с финансовыми журналами](ui-work-general-journals.md)
-

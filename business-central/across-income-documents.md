@@ -1,8 +1,8 @@
 ---
-title: "Работа с входящими документами | Документы Майкрософт"
-description: "Вы можете управлять входящими документами, например квитанциями о входящих платежах или PDF-документами, управлять задачами OCR и преобразовывать файлы в электронные документы и записи."
+title: Работа с входящими документами | Документы Майкрософт
+description: Вы можете управлять входящими документами, например квитанциями о входящих платежах или PDF-документами, управлять задачами OCR и преобразовывать файлы в электронные документы и записи.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: electronic document, e-invoice, incoming document, OCR, ecommerce, document exchange, import invoice
 ms.date: 10/01/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: 989fff07cb0608b8dbf6611a39163fc3cfe31459
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "803897"
 ---
 # <a name="incoming-documents"></a>Входящие документы
 Несколько бизнес-транзакций не записаны в [!INCLUDE[d365fin](includes/d365fin_md.md)] с самого начала. Вместо этого ваша компания получает внешний бизнес-документ в виде вложения в сообщение электронной почты или бумажной копии, которая будет отсканирована в файл. Это характерно для покупок, где такие файлы исходящих документов представляют денежные поступления за расходы или небольшие покупки.
@@ -47,4 +47,3 @@ ms.lasthandoff: 11/26/2018
 ## <a name="see-also"></a>См. также
 [Покупки](purchasing-manage-purchasing.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
-

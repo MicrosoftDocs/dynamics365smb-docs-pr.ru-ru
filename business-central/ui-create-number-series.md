@@ -1,7 +1,7 @@
 ---
-title: "Создание серий номеров | Microsoft Docs"
-description: "Узнайте, как настроить серии номеров, которые присваивают уникальные коды счетам и документам в Business Central."
-documentationcenter: 
+title: Создание серий номеров | Microsoft Docs
+description: Узнайте, как настроить серии номеров, которые присваивают уникальные коды счетам и документам в Business Central.
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -11,12 +11,12 @@ ms.workload: na
 ms.search.keywords: numbers, numbering
 ms.date: 10/01/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: 46131d6ad5f77a02ffe33d24f1210a226c3041c1
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804193"
 ---
 # <a name="create-number-series"></a>Создание серий номеров
 В каждой настраиваемой организации таким объектам, как счета главной книги, клиентов и поставщиков, счета и другие документы, следует присвоить уникальные идентификационные коды. Нумерация необходима не только для идентификации. Хорошо продуманная система нумерации позволяет повысить управляемость организации, упростить анализ и сократить количество ошибок, возникающих при вводе данных.
@@ -75,4 +75,3 @@ ms.lasthandoff: 11/26/2018
 ## <a name="see-also"></a>См. также
 [Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
-

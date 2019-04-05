@@ -1,8 +1,8 @@
 ---
-title: "Настройка веб-источников в контактных организациях | Документы Майкрософт"
-description: "Вы можете определить интернет- и веб-источники и назначить их контактной организации, чтобы вам было проще находить информацию о своих контактах."
+title: Настройка веб-источников в контактных организациях | Документы Майкрософт
+description: Вы можете определить интернет- и веб-источники и назначить их контактной организации, чтобы вам было проще находить информацию о своих контактах.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: jswymer
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -13,12 +13,12 @@ ms.search.keywords: internet
 ms.date: 10/01/2018
 ms.author: jswymer
 redirect_url: marketing-setup-contacts
+ms.openlocfilehash: 22b9f0be189fa24f366c1ffa20934d2d8e7e8fc5
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
 ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
-ms.openlocfilehash: d7a02a85e65a663bc304becd8392e949d485f13a
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804688"
 ---
 # <a name="set-up-web-sources-for-contact-companies"></a>Настройка веб-источников для контактных организаций
 Можно присваивать веб-источники с контактными организациям, чтобы определять, например, поисковые системы и веб-сайты в Интернете, которые должны использоваться для поиска информации о контактах. При присвоении веб-источников указывается, какую поисковую систему и какое слово поиска приложение использует для поиска требуемой информации.
@@ -47,6 +47,5 @@ ms.lasthandoff: 11/26/2018
 Также можно назначать веб-источники на странице **Список контактов**, следуя той же процедуре.
 
 ## <a name="see-also"></a>См. также
-[Создание контактных организаций](marketing-create-contact-companies.md)  
+[Создание контактов](marketing-create-contact-companies.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
-

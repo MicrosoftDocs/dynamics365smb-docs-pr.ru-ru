@@ -1,23 +1,23 @@
 ---
-title: "Как создавать ячейки | Документы Майкрософт"
-description: "Наиболее эффективным способом создания ячеек склада является генерация групп одинаковых ячеек в журнале создания ячеек, но ячейки также можно создавать по отдельности."
+title: Как создавать ячейки | Документы Майкрософт
+description: Наиболее эффективным способом создания ячеек склада является генерация групп одинаковых ячеек в журнале создания ячеек, но ячейки также можно создавать по отдельности.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 01/22/2019
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: c129dd63b3aabeeac15c6684f961e04bd2b08a2a
 ms.openlocfilehash: 7dc7fb43c465cc2098ceacb6f5906303fefd1f9d
-ms.contentlocale: ru-ru
-ms.lasthandoff: 01/24/2019
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "803893"
 ---
 # <a name="create-bins"></a>Создание ячеек
 Наиболее эффективным способом создания ячеек склада является генерация групп одинаковых ячеек в журнале создания ячеек, но ячейки также можно создавать по отдельности из карточки склада. Можно также использовать функцию на странице **Журнал создания ячеек** для автоматического создания ячеек.  
@@ -79,4 +79,3 @@ ms.lasthandoff: 01/24/2019
 [Управление сборкой](assembly-assemble-items.md)    
 [Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
-

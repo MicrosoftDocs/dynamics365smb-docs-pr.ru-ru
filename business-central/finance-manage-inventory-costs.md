@@ -1,23 +1,23 @@
 ---
-title: "Управление себестоимостью товаров | Документы Майкрософт"
-description: "Процесс управления затратами, который также называют учетом себестоимости, связан с записью и отчетностью по текущим бизнес-расходам. Он включает в себя отчетность по себестоимости производства и запасов, то есть, по себестоимости товаров."
+title: Управление себестоимостью товаров | Документы Майкрософт
+description: Процесс управления затратами, который также называют учетом себестоимости, связан с записью и отчетностью по текущим бизнес-расходам. Он включает в себя отчетность по себестоимости производства и запасов, то есть, по себестоимости товаров.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 11/27/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: add32e82465610830b68a979e238103bfa10d438
 ms.openlocfilehash: d5f5885055aa1094e4172d4a4e327ff1e940f799
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/29/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804646"
 ---
 # <a name="managing-inventory-costs"></a>Управление себестоимостью товаров
 Процесс управления затратами, который также называют учетом себестоимости, связан с записью и отчетностью по текущим бизнес-расходам. Он включает в себя отчетность по себестоимости производства и запасов, то есть, по себестоимости товаров.   
@@ -46,4 +46,3 @@ ms.lasthandoff: 11/29/2018
  [Продажи](sales-manage-sales.md)   
  [Покупки](purchasing-manage-purchasing.md)  
  [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
-

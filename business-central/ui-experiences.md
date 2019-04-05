@@ -1,7 +1,7 @@
 ---
-title: "Настройка взаимодействия с пользователем для отображения или скрытия расширенных функций | Microsoft Docs"
-description: "Узнайте о вариантах настройки Essential и Premium — что это значит с точки зрения пользовательского интерфейса, областей приложения и вашей организации."
-documentationcenter: 
+title: Настройка взаимодействия с пользователем для отображения или скрытия расширенных функций | Microsoft Docs
+description: Узнайте о вариантах настройки Essential и Premium — что это значит с точки зрения пользовательского интерфейса, областей приложения и вашей организации.
+documentationcenter: ''
 author: edupont04
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -9,17 +9,17 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: essential, basic, user interface, application area, experience
-ms.date: 02/04/2019
+ms.date: 03/01/2019
 ms.author: edupont
+ms.openlocfilehash: bec47d64f2ba038e1c3b7288ce466e2f212b2b19
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
 ms.translationtype: HT
-ms.sourcegitcommit: ce612d546349d05883016646fe14a35553c2f55a
-ms.openlocfilehash: 3317df5f54a359e5b143d5b288a378a350d49440
-ms.contentlocale: ru-ru
-ms.lasthandoff: 02/04/2019
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804004"
 ---
 # <a name="changing-which-features-are-displayed"></a>Изменение набора отображаемых функций
-Приложение [!INCLUDE[d365fin](includes/d365fin_md.md)] призвано помочь вам вести бизнес независимо от сферы деятельности. К базовым функциям [!INCLUDE[d365fin](includes/d365fin_md.md)] относится финансовая отчетность, а также процессы продажи и покупки. К этому вы добавляете функции в соответствии со своими потребностями бизнеса, добавляя расширения из AppSource или изменяя параметр "Функциональность" для организации. Дополнительные сведения см. в разделе [Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью расширений](ui-extensions.md) или в разделе "Выбор взаимодействия с пользователем для отображения или скрытия функций" ниже.
+Приложение [!INCLUDE[d365fin](includes/d365fin_md.md)] призвано помочь вам вести бизнес независимо от сферы деятельности. К базовым функциям [!INCLUDE[d365fin](includes/d365fin_md.md)] относится финансовая отчетность, а также процессы продажи и покупки. К этому вы добавляете функции в соответствии со своими потребностями бизнеса, добавляя расширения из AppSource или изменяя параметр "Функциональность" для организации. Дополнительные сведения см. в разделе [Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью расширений](ui-extensions.md) или [Выбор взаимодействия с пользователем для отображения или скрытия функций](ui-experiences.md#choosing-a-user-experience-to-show-or-hide-features).
 
 ## <a name="choosing-a-user-experience-to-show-or-hide-features"></a>Выбор взаимодействия с пользователем для отображения или скрытия функций
 Взаимодействие с пользователем определяет, какая часть базовой функциональности доступна, когда вы и ваши коллеги используют [!INCLUDE[d365fin](includes/d365fin_md.md)]. Взаимодействие с пользователем можно выбрать на странице **Информация об организации** в поле **Взаимодействие**.
@@ -71,4 +71,3 @@ ms.lasthandoff: 02/04/2019
 [[!INCLUDE[d365fin](includes/d365fin_md.md)] Руководство по лицензированию](https://go.microsoft.com/fwlink/?LinkId=871590&clcid=0x409)
 
 ## [!INCLUDE[d365fin](includes/free_trial_md.md)]  
-

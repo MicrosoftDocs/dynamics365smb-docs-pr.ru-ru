@@ -1,8 +1,8 @@
 ---
-title: "Создание счета продажи работы с целью выставления счета по работе | Документы Майкрософт"
-description: "Описывается, как выставлять счета клиентам за расходы по работе по мере выполнения проекта."
+title: Создание счета продажи работы с целью выставления счета по работе | Документы Майкрософт
+description: Описывается, как выставлять счета клиентам за расходы по работе по мере выполнения проекта.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: project invoice
 ms.date: 10/01/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: 73894bb8c7193d96ca1f4c4f7c8b8394b1f26f5f
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804035"
 ---
 # <a name="invoice-jobs"></a>Выставление счетов за работы
 Во время проекта могут накапливаться затраты на выполнение работы из-за потребления ресурсов, материалов и связанных с работой покупок. В ходе выполнения работы, эти транзакции учитываются в журнале работ. Важно, чтобы перед выставлением счета клиенту в журнал работ были занесены все затраты.
@@ -79,4 +79,3 @@ ms.lasthandoff: 11/26/2018
 [Покупки](purchasing-manage-purchasing.md)         
 [Продажи](sales-manage-sales.md)      
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
-

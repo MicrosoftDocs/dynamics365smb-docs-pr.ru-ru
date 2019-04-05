@@ -1,23 +1,23 @@
 ---
-title: "Как планировать размещения в журналах | Документы Майкрософт"
-description: "Если на складе требуется обрабатывать и размещения, и приемки, и необходимо запланировать инструкции по размещению для нескольких приемок, то вместо того, чтобы работники выполняли инструкции, созданные программой для каждой учтенной приемки, можно воспользоваться журналом размещений."
+title: Как планировать размещения в журналах | Документы Майкрософт
+description: Если на складе требуется обрабатывать и размещения, и приемки, и необходимо запланировать инструкции по размещению для нескольких приемок, то вместо того, чтобы работники выполняли инструкции, созданные программой для каждой учтенной приемки, можно воспользоваться журналом размещений.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 10/01/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: e0674c0c308cd83de8a6977e05445c22009f513c
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804072"
 ---
 # <a name="plan-put-aways-in-worksheets"></a>Планирование размещений в журналах
 Если на складе требуется обрабатывать и размещения, и приемки, и необходимо запланировать инструкции по размещению для нескольких приемок, то вместо того, чтобы работники выполняли инструкции, созданные программой для каждой учтенной приемки, можно воспользоваться журналом размещений.  
@@ -71,4 +71,3 @@ ms.lasthandoff: 11/26/2018
 [Управление сборкой](assembly-assemble-items.md)    
 [Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
-

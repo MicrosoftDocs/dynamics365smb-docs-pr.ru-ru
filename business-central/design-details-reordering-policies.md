@@ -1,24 +1,24 @@
 ---
-title: "Сведения о проектировании — политики дозаказа | Документы Майкрософт"
-description: "В этом разделе содержится обзор политик для пополнения товара."
+title: Сведения о проектировании — политики дозаказа | Документы Майкрософт
+description: В этом разделе содержится обзор политик для пополнения товара.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 10/01/2018
 ms.author: sgroespe
 redirect_url: design-details-handling-reordering-policies
-ms.translationtype: HT
-ms.sourcegitcommit: caf7cf5afe370af0c4294c794c0ff9bc8ff4c31c
 ms.openlocfilehash: 4aaef129da953596632b56716eaff2f0c47736f7
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/22/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804360"
 ---
 # <a name="design-details-reordering-policies"></a>Сведения о проектировании: политики дозаказа
 Политики дозаказа определяют количество для заказа, если необходимо пополнить товар. Существует четыре различные политики дозаказа.  
@@ -100,4 +100,3 @@ ms.lasthandoff: 11/22/2018
 [Сведения о проектировании: параметры планирования](design-details-planning-parameters.md)   
 [Сведения о проектировании: обработка политик дозаказа](design-details-handling-reordering-policies.md)   
 [Сведения о проектировании: планирование поставок](design-details-supply-planning.md)
-

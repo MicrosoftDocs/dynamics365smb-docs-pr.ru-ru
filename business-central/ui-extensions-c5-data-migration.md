@@ -1,8 +1,8 @@
 ---
-title: "Использование расширения \"Миграция данных C5\" | Microsoft Docs"
-description: "Используйте это расширение для переноса клиентов, поставщиков, товаров и счетов главной книги из Microsoft Dynamics C5 2012 в Business Central."
+title: Использование расширения "Миграция данных C5" | Microsoft Docs
+description: Используйте это расширение для переноса клиентов, поставщиков, товаров и счетов главной книги из Microsoft Dynamics C5 2012 в Business Central.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: bholtorf
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,14 +12,13 @@ ms.workload: na
 ms. search.keywords: extension, migrate, data, C5, import
 ms.date: 10/01/2018
 ms.author: bholtorf
+ms.openlocfilehash: e35b4329c8f9b4672591531524c9391e1a8c4868
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
 ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
-ms.openlocfilehash: 5c89d841cdf0e92af4a3dc497cb9c807798e3924
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804777"
 ---
-
 # <a name="the-c5-data-migration-extension"></a>Расширение миграции данных C5
 Это расширение упрощает перенос клиентов, поставщиков, товаров и ваших счетов главной книги из Microsoft Dynamics C5 2012 в [!INCLUDE[d365fin](includes/d365fin_md.md)]. Также можно перенести архивные операции для счетов главной книги.
 
@@ -96,6 +95,9 @@ ms.lasthandoff: 11/26/2018
 > [!Note]
 > Исторические транзакции ГК обрабатываются несколько иначе. При переносе данных вы задаете параметр **Текущий период**. Этот параметр определяет порядок обработки транзакций ГК. Транзакции после этой даты переносятся по отдельности. Транзакции до этой даты агрегируются по счету и переносятся как единая сумма. Например, предположим, что были транзакции в 2015, 2016, 2017, 2018 и в поле "Текущий период" вы указали 1 января 2017 г. Для каждого счета, суммы по транзакциям, имевшим место по 31 декабря 2016 г. включительно, агрегируются в одну строку финансового журнала для каждого счета ГК. Все транзакции после этой даты будут перенесены по отдельности.
 
+## <a name="file-size-requirements"></a>Требования к размеру файла
+Максимальный размер файла, который можно загружать в [!INCLUDE[d365fin](includes/d365fin_md.md)], равен 150 МБ. Если размер экспортированного из C5 файла больше, попробуйте выполнить перенос данных в нескольких файлах. Например, экспортируйте из C5 сущности одного или двух типов, например, клиентов и поставщиков, в файл, затем экспортируйте товары в другой файл, и так далее. Можно импортировать файлы индивидуально в [!INCLUDE[d365fin](includes/d365fin_md.md)].
+
 ## <a name="to-migrate-data"></a>Для миграции данных
 Для экспорта данных из C5 и импорта их в [!INCLUDE[d365fin](includes/d365fin_md.md)] нужно выполнить всего несколько шагов:  
 
@@ -148,4 +150,3 @@ ms.lasthandoff: 11/26/2018
 ## <a name="see-also"></a>См. также
 [Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью расширений](ui-extensions.md)  
 [Приступая к работе](product-get-started.md)
-

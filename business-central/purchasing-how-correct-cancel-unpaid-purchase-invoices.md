@@ -1,6 +1,6 @@
 ---
-title: "Изменение или отмена неоплаченных счетов покупки | Документы Майкрософт"
-description: "Описывается, как исправлять и отменять учтенные счета покупки и автоматически создавать кредит-ноты покупки."
+title: Изменение или отмена неоплаченных счетов покупки | Документы Майкрософт
+description: Описывается, как исправлять и отменять учтенные счета покупки и автоматически создавать кредит-ноты покупки.
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: undo, credit memo, return
 ms.date: 10/01/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: 275b81fa2f4170208b166645a9b8778c1e6406a5
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804395"
 ---
 # <a name="correct-or-cancel-unpaid-purchase-invoices"></a>Исправление или отмена неоплаченных счетов покупки
 Можно исправить или отменить учтенный счет покупки. Это используется, если нужно исправить опечатку либо внести изменение в покупку на раннем этапе обработки заказа.
@@ -52,4 +52,3 @@ ms.lasthandoff: 11/26/2018
 [Покупки](purchasing-manage-purchasing.md)  
 [Регистрация покупок](purchasing-how-record-purchases.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
-

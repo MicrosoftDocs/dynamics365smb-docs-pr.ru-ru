@@ -1,21 +1,21 @@
 ---
-title: "Как изменить годовую сумму в сервисном контракте или в предложении по контракту | Документы Майкрософт"
-description: "Можно изменить сумму, на которую ежегодно будут выставляться счета по сервисным контрактам или предложениям по сервисным контрактам."
+title: Как изменить годовую сумму в сервисном контракте или в предложении по контракту | Документы Майкрософт
+description: Можно изменить сумму, на которую ежегодно будут выставляться счета по сервисным контрактам или предложениям по сервисным контрактам.
 author: bholtorf
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 10/01/2018
 ms.author: bholtorf
-ms.translationtype: HT
-ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
 ms.openlocfilehash: c656787a2de965fee90bd24922a443bc3d24bb8a
-ms.contentlocale: ru-ru
-ms.lasthandoff: 09/28/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804134"
 ---
 # <a name="change-the-annual-amount-on-service-contracts-or-contract-quotes"></a>Изменение годовой суммы в сервисном контракте или в предложении по контракту
 Чтобы исправить сумму, на которую будет ежегодно выставляться счет, можно изменить годовую сумму в сервисном контракте или в предложении по контракту.  
@@ -188,4 +188,3 @@ ms.lasthandoff: 09/28/2018
 ## <a name="see-also"></a>См. также  
 [Создание сервисных контрактов и предложений по сервисному контракту](service-how-to-create-service-contracts-and-service-contract-quotes.md)  
 [Настройка управления сервисным обслуживанием](service-setup-service.md)  
-

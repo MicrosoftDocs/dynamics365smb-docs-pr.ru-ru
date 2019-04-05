@@ -1,7 +1,7 @@
 ---
-title: "Добро пожаловать! | Microsoft Docs"
-description: "Описывает руководства по сопровождаемой настройке, видео, разделы и страницы справки и страницы, помогающие подготовиться к ведению бизнеса в Business Central."
-documentationcenter: 
+title: Добро пожаловать! | Microsoft Docs
+description: Описывает руководства по сопровождаемой настройке, видео, разделы и страницы справки и страницы, помогающие подготовиться к ведению бизнеса в Business Central.
+documentationcenter: ''
 author: SusanneWindfeldPedersen
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -11,12 +11,12 @@ ms.workload: na
 ms.search.keywords: SMTP, mail, Office 365, setup, wizard, experience
 ms.date: 10/01/2018
 ms.author: solsen
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: 44d81c85b1519c3c916a4e6509121afda5b4d5a2
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "803957"
 ---
 # <a name="getting-ready-for-doing-business"></a>Подготовьтесь к ведению бизнеса
 Поздравляем, вы только что инициировали первую организацию в [!INCLUDE[d365fin](includes/d365fin_md.md)].
@@ -69,4 +69,3 @@ ms.lasthandoff: 11/26/2018
 
 ## [!INCLUDE[d365fin](includes/free_trial_md.md)]  
  
-

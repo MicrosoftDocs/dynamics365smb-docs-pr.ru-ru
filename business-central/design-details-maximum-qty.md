@@ -1,24 +1,24 @@
 ---
-title: "Сведения о проектировании — максимальное количество | Документы Майкрософт"
-description: "Политика максимального количества — это способ ведения запасов с использованием точки повтора заказа."
+title: Сведения о проектировании — максимальное количество | Документы Майкрософт
+description: Политика максимального количества — это способ ведения запасов с использованием точки повтора заказа.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 10/01/2018
 ms.author: sgroespe
 redirect_url: design-details-handling-reordering-policies
-ms.translationtype: HT
-ms.sourcegitcommit: caf7cf5afe370af0c4294c794c0ff9bc8ff4c31c
 ms.openlocfilehash: 21ae51ecf28458f9b09be6461243f31641a0aaef
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/22/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804106"
 ---
 # <a name="design-details-maximum-qty"></a>Сведения о проектировании: максимальное количество
 Политика максимального количества — это способ ведения запасов с использованием точки повтора заказа.  
@@ -43,4 +43,3 @@ ms.lasthandoff: 11/22/2018
  [Сведения о проектировании: параметры планирования](design-details-planning-parameters.md)   
  [Сведения о проектировании: обработка политик дозаказа](design-details-handling-reordering-policies.md)   
  [Сведения о проектировании: планирование поставок](design-details-supply-planning.md)
-

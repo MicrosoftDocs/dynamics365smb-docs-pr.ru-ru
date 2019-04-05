@@ -1,6 +1,6 @@
 ---
-title: "Устранение неполадок с самостоятельной регистрацией | Документы Майкрософт"
-description: "Узнайте о типичных причинах проблем при регистрации в Business Central и способах их обхода."
+title: Устранение неполадок с самостоятельной регистрацией | Документы Майкрософт
+description: Узнайте о типичных причинах проблем при регистрации в Business Central и способах их обхода.
 author: SusanneWindfeldPedersen
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -9,12 +9,12 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.date: 10/01/2018
 ms.author: edupont
+ms.openlocfilehash: 1774492a94b271843ff5ae5bdd11ad285f48c7a3
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
 ms.translationtype: HT
-ms.sourcegitcommit: d7664360941313da6ea0b797ef00df2e9810ad62
-ms.openlocfilehash: de07dac85b9e24f50eb60570630feb6199089ec4
-ms.contentlocale: ru-ru
-ms.lasthandoff: 07/09/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804474"
 ---
 # <a name="troubleshooting-self-service-sign-up"></a>Устранение неполадок при самостоятельной регистрации
 Регистрация в [!INCLUDE[d365fin](includes/d365fin_md.md)] проста и выполняется очень быстро. Вы можете создать бесплатную учетную запись, даже если у вас есть существующая организация. В этой статье рассмотрены проблемы, которые могут возникнуть при регистрации.
@@ -63,4 +63,3 @@ ms.lasthandoff: 07/09/2018
 [Добро пожаловать в [!INCLUDE[d365fin](includes/d365fin_long_md.md)]](index.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 [Локальная функциональность](about-localization.md)  
-

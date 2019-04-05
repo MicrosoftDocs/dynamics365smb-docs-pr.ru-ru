@@ -1,23 +1,23 @@
 ---
-title: "Сведения о проектировании — счета в главной книге | Документы Майкрософт"
-description: "Чтобы выверить операции запасов и операции журнала производственных мощностей с ГК, сопутствующие операции стоимости учитываются на разных счетах ГК."
+title: Сведения о проектировании — счета в главной книге | Документы Майкрософт
+description: Чтобы выверить операции запасов и операции журнала производственных мощностей с ГК, сопутствующие операции стоимости учитываются на разных счетах ГК.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 10/01/2018
 ms.author: sgroespe
+ms.openlocfilehash: e5ce2fe305d94378b2bef118237917db6bfba5b8
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
 ms.translationtype: HT
-ms.sourcegitcommit: d7fb34e1c9428a64c71ff47be8bcff174649c00d
-ms.openlocfilehash: 40bad9c2772627f70c0e33c8138539e88a76bdbb
-ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804609"
 ---
 # <a name="design-details-accounts-in-the-general-ledger"></a>Сведения о проектировании: счета в главной книге
 Чтобы выверить операции запасов и операции журнала производственных мощностей с ГК, сопутствующие операции стоимости учитываются на разных счетах ГК. Дополнительные сведения см. в разделе [Сведения о проектировании: выверка с главной книгой](design-details-reconciliation-with-the-general-ledger.md).  
@@ -102,4 +102,3 @@ ms.lasthandoff: 03/22/2018
  [Управление себестоимостью товаров](finance-manage-inventory-costs.md)  
  [Финансы](finance.md)  
  [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
-

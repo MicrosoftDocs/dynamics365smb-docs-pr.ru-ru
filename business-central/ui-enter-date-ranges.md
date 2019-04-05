@@ -1,7 +1,7 @@
 ---
-title: "Ввод значений дат и времени в Business Central | Документы Майкрософт"
-description: "Изучение процедуры ввода дат и времени, включая различные подсказки производительности, такие как стенография, выражения и диапазоны. Отфильтруйте списки отчеты до конкретных периодов времени или дат."
-documentationcenter: 
+title: Ввод значений дат и времени в Business Central | Документы Майкрософт
+description: Изучение процедуры ввода дат и времени, включая различные подсказки производительности, такие как стенография, выражения и диапазоны. Отфильтруйте списки отчеты до конкретных периодов времени или дат.
+documentationcenter: ''
 author: edupont04
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -11,14 +11,13 @@ ms.workload: na
 ms.search.keywords: dates, reporting, filter, calendar, shorthand, range
 ms.date: 10/01/2018
 ms.author: jswymer
-ms.translationtype: HT
-ms.sourcegitcommit: caf7cf5afe370af0c4294c794c0ff9bc8ff4c31c
 ms.openlocfilehash: 54466c381bbeb3653a239920c00dd6f45536d9e3
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/22/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804467"
 ---
-
 # <a name="working-with-calendar-dates-and-times"></a>Работа с календарными датами и значениями времени
 
 [!INCLUDE[d365fin](includes/d365fin_long_md.md)] предлагает несколько способов ввода дат и времени, включая мощные функции, которые ускоряют ввод данных или помогают написать сложные выражения календаря. Имеются различные места в приложении, в которых можно ввести в полях даты и значения времени. Например, в заказе на продажу можно установить дату отгрузки. При фильтрации данных или подготовке отчета по данным можно ввести даты и время для выделения только данных, в которых вы заинтересованы.
@@ -372,4 +371,3 @@ The following example shows how you can use a minus sign to indicate a date in t
 [Работа с [!INCLUDE[d365fin](includes/d365fin_long_md.md)]](ui-work-product.md)  
 [Расчет даты для покупок](purchasing-date-calculation-for-purchases.md)  
 [Ввод критериев в фильтрах](ui-enter-criteria-filters.md)  
-

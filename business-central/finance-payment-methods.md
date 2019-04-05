@@ -1,6 +1,6 @@
 ---
-title: "Настройка способов оплаты | Документы Майкрософт"
-description: "Способы оплаты, например, чеки, банковские переводы, наличные или PayPal используются для того, чтобы определять, как именно должны оплачиваться счета на продажу и покупку."
+title: Настройка способов оплаты | Документы Майкрософт
+description: Способы оплаты, например, чеки, банковские переводы, наличные или PayPal используются для того, чтобы определять, как именно должны оплачиваться счета на продажу и покупку.
 author: bholtorf
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: check, bank transfer, cash, PayPal
 ms.date: 11/22/2018
 ms.author: bholtorf
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: 8cac52a1cdd4e614c6e2ef8c027e5cf499926f9d
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804347"
 ---
 # <a name="defining-payment-methods"></a>Определение способов оплаты
 Методы оплаты определяют предпочтительный способ, которым клиенты осуществляют платежи вам, и способ, которым вы хотите платить поставщикам. Метод может меняться для каждого клиента или поставщика. Типичными примерами методов оплаты являются **банк**, **касса**, **чек** или **счет**. 
@@ -39,4 +39,3 @@ ms.lasthandoff: 11/26/2018
 ## <a name="see-also"></a>См. также
 [Финансы](finance.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
-

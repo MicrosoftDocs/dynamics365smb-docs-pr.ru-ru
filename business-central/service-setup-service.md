@@ -1,8 +1,8 @@
 ---
-title: "Настройка управления сервисом | Документы Майкрософт"
-description: "Обзор задач по настройке управления сервисом в соответствии со способом, которым организации управляют своими сервисами."
+title: Настройка управления сервисом | Документы Майкрософт
+description: Обзор задач по настройке управления сервисом в соответствии со способом, которым организации управляют своими сервисами.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,14 +12,13 @@ ms.workload: na
 ms.search.keywords: service, service items, repairs, maintenance, fix
 ms.date: 10/01/2018
 ms.author: sgroespe
+ms.openlocfilehash: c4b8287c8e1c056bd45a30376e96aca1f8f4ddcc
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
 ms.translationtype: HT
-ms.sourcegitcommit: e7dcdc0935a8793ae226dfc2f9709b5b8f487a62
-ms.openlocfilehash: 772022a8224ff81e332783d95e6cd27500a306fa
-ms.contentlocale: ru-ru
-ms.lasthandoff: 03/22/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804221"
 ---
-
 # <a name="setting-up-service-management"></a>Настройка управления сервисным обслуживанием
 Прежде чем начать использовать функции сервисного управления в [!INCLUDE[d365fin](includes/d365fin_md.md)], необходимо выполнить некоторые настройки. Например, можно задать коды стандартных услуг, симптомов и неисправностей, а также сервисные товары и типы сервисных товаров в соответствии с потребностями службы поддержки клиентов организации.  
 
@@ -47,4 +46,3 @@ ms.lasthandoff: 03/22/2018
 ## <a name="see-also"></a>См. также
 [Сервисный центр](service-service.md)  
 [Приступая к работе](product-get-started.md)  
-

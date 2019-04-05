@@ -1,6 +1,6 @@
 ---
-title: "Использование профилей для классификации контактов"
-description: "Настройка анкет профилей для облегчения классификации бизнес-контактов"
+title: Использование профилей для классификации контактов
+description: Настройка анкет профилей для облегчения классификации бизнес-контактов
 author: edupont04
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -10,14 +10,13 @@ ms.workload: na
 ms.search.keywords: contacts, profiles
 ms.author: edupont
 ms.date: 10/01/2018
+ms.openlocfilehash: 1007bdb689b72cf3eccfc5c15c2df9e3c760d8b3
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
 ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
-ms.openlocfilehash: edd2cae058d31e8f65d43ef14a5a96a294adf8d1
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804367"
 ---
-
 # <a name="use-profile-questionnaires-to-classify-business-contacts"></a>Использование анкет профилей для классификации бизнес-контактов
 Можно настроить анкеты профиля, которые будут использоваться при вводе информации о профиле контакта. В каждой анкете можно настроить разные вопросы, которые планируется задавать контактам.  
 
@@ -158,7 +157,4 @@ ms.lasthandoff: 11/26/2018
 При назначении контакту профиля анкеты, содержащей этот вопрос, программа автоматически вводит соответствующий ответ для этого контакта в строках профиля карточки контакта.
 
 ## <a name="see-also"></a>См. также
-[Создание контактных лиц](marketing-create-contact-persons.md)  
-[Создание контактных лиц](marketing-how-create-contact-persons.md)  
-[Создание контактных организаций](marketing-create-contact-companies.md)  
-
+[Создание контактов](marketing-create-contact-companies.md)  

@@ -1,8 +1,8 @@
 ---
-title: "Настройка распределения ресурсов | Документы Майкрософт"
-description: "Узнайте, как система может помочь обеспечить, чтобы для сервисных работ назначались сотрудники с необходимыми навыками."
+title: Настройка распределения ресурсов | Документы Майкрософт
+description: Узнайте, как система может помочь обеспечить, чтобы для сервисных работ назначались сотрудники с необходимыми навыками.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: bholtorf
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,14 +12,13 @@ ms.workload: na
 ms.search.keywords: resource, skill, service, zones
 ms.date: 10/01/2018
 ms.author: bholtorf
-ms.translationtype: HT
-ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
 ms.openlocfilehash: 7ce128aa32d650cf756117ab46987167d9a3781a
-ms.contentlocale: ru-ru
-ms.lasthandoff: 09/28/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804039"
 ---
-
 # <a name="set-up-resource-allocation"></a>Настройка распределения ресурсов
 Для обеспечения хорошего качества выполнения сервисной задачи важно найти квалифицированный ресурс, обладающий квалификацией для выполнения работы. Можно настроить [!INCLUDE[d365fin](includes/d365fin_md.md)] таким образом, чтобы было легко выделить для работы сотрудника с требуемой квалификацией. В [!INCLUDE[d365fin](includes/d365fin_md.md)] это называется _распределением ресурсов_. Ресурсы можно распределять на основе квалификации, доступности или по принадлежности к той же зоне обслуживания, что и клиент. 
 
@@ -85,5 +84,4 @@ ms.lasthandoff: 09/28/2018
 [Настройка отчетности по неисправностям](service-how-setup-fault-reporting.md)  
 [Настройка кодов для стандартных сервисов](service-how-setup-service-coding.md)  
  
-
 

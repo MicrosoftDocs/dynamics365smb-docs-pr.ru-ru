@@ -1,23 +1,23 @@
 ---
-title: "Как планировать подборы в журналах | Документы Майкрософт"
-description: "Если склад настроен так, что требуется выполнить обработку и подбора, и отгрузки, то может быть выбран такой способ действий, при котором строки в документах отгрузки не преобразуются автоматически в инструкции по подбору, а становятся вместо этого доступными для журнала подбора."
+title: Как планировать подборы в журналах | Документы Майкрософт
+description: Если склад настроен так, что требуется выполнить обработку и подбора, и отгрузки, то может быть выбран такой способ действий, при котором строки в документах отгрузки не преобразуются автоматически в инструкции по подбору, а становятся вместо этого доступными для журнала подбора.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 10/01/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: caf7cf5afe370af0c4294c794c0ff9bc8ff4c31c
 ms.openlocfilehash: 30a6832c0672677106fdb41c9a38a73dae296aa5
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/22/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804364"
 ---
 # <a name="plan-picks-in-worksheets"></a>Планирование подборов в журналах
 Если склад настроен так, что требуется выполнить обработку и подбора, и отгрузки, то может быть выбран такой способ действий, при котором строки в документах отгрузки не преобразуются автоматически в инструкции по подбору, а становятся вместо этого доступными для журнала подбора.  
@@ -62,4 +62,3 @@ ms.lasthandoff: 11/22/2018
 [Управление сборкой](assembly-assemble-items.md)    
 [Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
-

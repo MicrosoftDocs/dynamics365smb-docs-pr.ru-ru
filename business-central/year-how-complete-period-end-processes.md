@@ -1,8 +1,8 @@
 ---
-title: "Необязательные действия для закрытия периодов | Microsoft Docs"
-description: "В этом разделе описываются необязательные процессы и действия по закрытию учетных периодов в Business Central."
+title: Необязательные действия для закрытия периодов | Microsoft Docs
+description: В этом разделе описываются необязательные процессы и действия по закрытию учетных периодов в Business Central.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: jswymer
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: year closing, close accounting period, close fiscal year, aging, creditor payments, vendor payments
 ms.date: 10/01/2018
 ms.author: jswymer
-ms.translationtype: HT
-ms.sourcegitcommit: caf7cf5afe370af0c4294c794c0ff9bc8ff4c31c
 ms.openlocfilehash: ab72d1af179ec543ea358ac957e9b658987f7d53
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/22/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804016"
 ---
 # <a name="overview-of-tasks-to-close-accounting-periods"></a>Обзор задач по закрытию учетных периодов
 [!INCLUDE[d365fin](includes/d365fin_md.md)] не требует принудительного закрытия периодов, однако предусмотрено множество действий на конец периода (месяца), которые можно выполнить. В этом разделе представлен обзор дополнительных процессов и действий для закрытия периодов.  
@@ -63,4 +63,3 @@ ms.lasthandoff: 11/22/2018
 [Закрытие года и периодов](year-close-years-periods.md)  
 [Закрытие книг](year-close-books.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
-

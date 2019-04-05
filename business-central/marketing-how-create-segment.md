@@ -1,8 +1,8 @@
 ---
-title: "Создание сегментов | Microsoft Docs"
-description: "Далее описывается процедура создания сегмента для группы контактов в Business Central, например, чтобы обращаться к нескольким контактам с помощью прямой почтовой рассылки."
+title: Создание сегментов | Microsoft Docs
+description: Далее описывается процедура создания сегмента для группы контактов в Business Central, например, чтобы обращаться к нескольким контактам с помощью прямой почтовой рассылки.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: jswymer
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: relationship, prospect
 ms.date: 10/01/2018
 ms.author: jswymer
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: 59db444b6ce498d987d4aeb4361e119001acd2a3
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804338"
 ---
 # <a name="create-segments"></a>Создание сегментов
 Для выбора группы контактов можно создать сегменты, например, если требуется создать взаимодействие, в которое вовлечены несколько контактов, таких как прямая почтовая рассылка.
@@ -36,4 +36,3 @@ ms.lasthandoff: 11/26/2018
 [Управление сегментами](marketing-segments.md)  
 [Управление возможностями продаж](marketing-manage-sales-opportunities.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
-

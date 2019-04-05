@@ -1,7 +1,7 @@
 ---
-title: "Утверждение или отклонение документов в бизнес-процессах | Microsoft Docs"
-description: "Запрашивать, отклонять или делегировать утверждение, например, документа покупки или продажи можно в рамках бизнес-процесса."
-documentationcenter: 
+title: Утверждение или отклонение документов в бизнес-процессах | Microsoft Docs
+description: Запрашивать, отклонять или делегировать утверждение, например, документа покупки или продажи можно в рамках бизнес-процесса.
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -11,12 +11,12 @@ ms.workload: na
 ms.search.keywords: reject, delegate, request
 ms.date: 10/01/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: 3b4b4a6d544b594f439b675b88176d942d8cf325
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804740"
 ---
 # <a name="use-approval-workflows"></a>Использование рабочего процесса утверждения
 Когда запись — например, документ покупки или карточка клиента — должен быть утвержден кем-либо в вашей организации, вы отправляете запрос на утверждение как часть рабочего процесса. В зависимости от того, как настроен рабочий процесс, соответствующее утверждающее лицо получает уведомление о том, что запись требует его утверждения.
@@ -86,4 +86,3 @@ ms.lasthandoff: 11/26/2018
 [Входящие документы](across-income-documents.md)  
 [Покупки](purchasing-manage-purchasing.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
-

@@ -1,6 +1,6 @@
 ---
-title: "Настройка нереализованного НДС | Документы Майкрософт"
-description: "Если используется учет на основании кассы, можно определить способ обработки нереализованного НДС для продаж и покупок."
+title: Настройка нереализованного НДС | Документы Майкрософт
+description: Если используется учет на основании кассы, можно определить способ обработки нереализованного НДС для продаж и покупок.
 author: bholtorf
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -10,14 +10,13 @@ ms.workload: na
 ms.search.keywords: cash, VAT, unrealized, cash-based
 ms.date: 11/15/2018
 ms.author: bholtorf
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: 1a460bed4be049ddd1eff7c33ae43c70e65ab403
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804248"
 ---
-
 # <a name="set-up-unrealized-vat-for-cash-based-accounting"></a>Настройка нереализованного НДС для учета на основании кассы
 При использовании методов учета на основании кассы можно настроить [!INCLUDE[d365fin](includes/d365fin_md.md)] для обработки нереализованного НДС.
 
@@ -51,4 +50,3 @@ ms.lasthandoff: 11/26/2018
 
 ## <a name="see-also"></a>См. также
 [Настройка налога на добавленную стоимость](finance-setup-vat.md)
-

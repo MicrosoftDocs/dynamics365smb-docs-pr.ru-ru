@@ -1,6 +1,6 @@
 ---
-title: "Использование Excel для импорта данных в Business Central | Microsoft Docs"
-description: "Используйте пакет конфигурации по умолчанию для добавления данных в Excel и импорта данных обратно в Business Central."
+title: Использование Excel для импорта данных в Business Central | Microsoft Docs
+description: Используйте пакет конфигурации по умолчанию для добавления данных в Excel и импорта данных обратно в Business Central.
 author: edupont04
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: migration, Excel
 ms.date: 10/01/2018
 ms.author: edupont
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: f5ca69c1e542a9b5846c99b03103fd9b2be86499
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804024"
 ---
 # <a name="importing-business-data-from-other-finance-systems"></a>Импорт бизнес-данных из других финансовых систем
 При регистрации в [!INCLUDE[d365fin](includes/d365fin_md.md)] вы можете создать пустую организации, чтоб загрузить собственные данные и протестировать новую организацию [!INCLUDE[d365fin](includes/d365fin_md.md)]. В зависимости от финансового решения, которое вы используете сейчас, вы можете перенести информацию о клиентах, поставщиках, запасах и банковских счетах.  
@@ -81,4 +81,3 @@ ms.lasthandoff: 11/26/2018
 
 ## [!INCLUDE[d365fin](includes/free_trial_md.md)]  
  
-

@@ -1,21 +1,21 @@
 ---
-title: "Даты учета для операций стоимости"
-description: "Узнайте, как пакетное задание \"Коррекция себестоимости запасов\" идентифицирует и назначает дату учета операциям стоимости, которые пакетное задание собирается создать."
+title: Даты учета для операций стоимости
+description: Узнайте, как пакетное задание "Коррекция себестоимости запасов" идентифицирует и назначает дату учета операциям стоимости, которые пакетное задание собирается создать.
 author: edupont04
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 10/01/2018
 ms.author: edupont
-ms.translationtype: HT
-ms.sourcegitcommit: 9dbd92409ba02281f008246194f3ce0c53e4e001
 ms.openlocfilehash: 9d0a5ab6bebdc9723fe8e3621fdda3cb16d5e6e1
-ms.contentlocale: ru-ru
-ms.lasthandoff: 09/28/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804097"
 ---
 # <a name="design-details-posting-date-on-adjustment-value-entry"></a>Подробности разработки: дата учета для операции коррекции стоимости
 Эта статья содержит рекомендации для пользователей функции оценки стоимости запасов в [!INCLUDE[d365fin](includes/d365fin_md.md)]. Конкретная статья предоставляет рекомендации по тому, как пакетное задание **Коррекция себестоимости запасов** идентифицирует и назначает дату учета операциям стоимости, которые пакетное задание собирается создать.  
@@ -365,4 +365,3 @@ ms.lasthandoff: 09/28/2018
 ## <a name="see-also"></a>См. также  
 [Сведения о проектировании: себестоимость запасов](design-details-inventory-costing.md)  
 [Сведения о проектировании: применение товара](design-details-item-application.md)  
-

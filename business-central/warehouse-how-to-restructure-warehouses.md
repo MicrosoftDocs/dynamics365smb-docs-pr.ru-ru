@@ -1,23 +1,23 @@
 ---
-title: "Как изменять структуру складов | Документы Майкрософт"
-description: "Может возникнуть необходимость реструктуризации склада и введения новых кодов и характеристик ячеек."
+title: Как изменять структуру складов | Документы Майкрософт
+description: Может возникнуть необходимость реструктуризации склада и введения новых кодов и характеристик ячеек.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 10/01/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: 06233abf9eef229ac86ee31857352af1de5e34e2
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "803900"
 ---
 # <a name="restructure-warehouses"></a>Изменение структуры складов
 Может возникнуть необходимость реструктуризации склада и введения новых кодов и характеристик ячеек. Этот род действий применяется не слишком часто, но иногда для достижения или обеспечения более эффективной работы склада необходима реклассификация. Например:  
@@ -90,4 +90,3 @@ ms.lasthandoff: 11/26/2018
 [Управление сборкой](assembly-assemble-items.md)    
 [Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
-

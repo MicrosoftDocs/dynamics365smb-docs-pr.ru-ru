@@ -1,6 +1,6 @@
 ---
-title: "Погашение прямого дебета SEPA | Документы Майкрософт"
-description: "Создайте сбор платежей с помощью прямого дебетования и экспортируйте XML-файл, который можно отправить в электронный банк для обработки."
+title: Погашение прямого дебета SEPA | Документы Майкрософт
+description: Создайте сбор платежей с помощью прямого дебетования и экспортируйте XML-файл, который можно отправить в электронный банк для обработки.
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -11,12 +11,12 @@ ms.search.keywords: direct-debit, collection, payment, sepa
 ms.date: 10/01/2018
 ms.author: sgroespe
 redirect_url: finance-collect-payments-with-sepa-direct-debit
+ms.openlocfilehash: 9a92b4ea321c0f4d8ff11cb8cbd93f3053974cbe
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
 ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
-ms.openlocfilehash: 87bf5f10e73d3a2da73149b44ff8c99196d20b2a
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804414"
 ---
 # <a name="create-sepa-direct-debit-collection-entries-and-export-to-a-bank-file"></a>Создание операций погашения прямого дебета SEPA и их экспорт в файл банка
 Чтобы передать банку указание перечислить сумму платежа с банк. счета клиента на счет организации, создается операция погашения прямого дебета, которая содержит информацию о банковском счете клиента, использовавшихся счетах продаж и мандате прямого дебета. После операции погашения прямого дебета можно экспортировать файл XML, который вы отправили или загрузили в электронный банк для обработки. Любые платежи, которые банку не удалось обработать, будут сообщены вам вашим банком, после чего вам будет необходимо отклонить затронутые операции коллекции прямого дебета.  
@@ -68,4 +68,3 @@ ms.lasthandoff: 11/26/2018
 [Настройка прямого дебетования SEPA](finance-how-to-set-up-sepa-direct-debit.md)   
 [Учет платежной квитанции по прямому дебету SEPA](finance-how-to-post-sepa-direct-debit-payment-receipts.md)   
 [Сбор платежей с прямым дебетом SEPA](finance-collect-payments-with-sepa-direct-debit.md)   
-

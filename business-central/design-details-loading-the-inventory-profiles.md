@@ -1,24 +1,24 @@
 ---
-title: "Сведения о проектировании — отправка профилей запасов | Microsoft Docs"
-description: "Для сортировки многочисленных источников спроса и предложения система планирования организует их в два временных ряда, которые называются профилями склада."
+title: Сведения о проектировании — отправка профилей запасов | Microsoft Docs
+description: Для сортировки многочисленных источников спроса и предложения система планирования организует их в два временных ряда, которые называются профилями склада.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 10/01/2018
 ms.author: sgroespe
 redirect_url: design-details-balancing-demand-and-supply
-ms.translationtype: HT
-ms.sourcegitcommit: caf7cf5afe370af0c4294c794c0ff9bc8ff4c31c
 ms.openlocfilehash: 10d41fd87408a4dfe8d1b5de368c1a32a45e489b
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/22/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804117"
 ---
 # <a name="design-details-loading-the-inventory-profiles"></a>Сведения о проектировании: отправка профилей запасов
 Для сортировки многочисленных источников спроса и предложения система планирования организует их в два временных ряда, которые называются профилями склада.  
@@ -103,4 +103,3 @@ ms.lasthandoff: 11/22/2018
  [Сведения о проектировании: основные понятия системы планирования](design-details-central-concepts-of-the-planning-system.md)   
  [Сведения о проектировании: планирование поставок](design-details-supply-planning.md)   
  [Сведения о проектировании: параметры планирования](design-details-planning-parameters.md)
-

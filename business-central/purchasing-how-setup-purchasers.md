@@ -1,8 +1,8 @@
 ---
-title: "Настройка менеджеров по закупкам и их назначение поставщика | Документы Майкрософт"
-description: "Если несколько менеджеров по закупкам или агентов по закупкам работают в организации, можно систематизировать их в целях проведения статистического анализа."
+title: Настройка менеджеров по закупкам и их назначение поставщика | Документы Майкрософт
+description: Если несколько менеджеров по закупкам или агентов по закупкам работают в организации, можно систематизировать их в целях проведения статистического анализа.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: purchasing agent
 ms.date: 10/01/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: 508d475ff204d75df70511ab2f4e7de225cd8207
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804654"
 ---
 # <a name="set-up-purchasers"></a>Настройка менеджеров по закупкам
 Если несколько менеджеров работают в родственной организации, то можно выбрать их на странице и присвоить им код. Затем можно использовать данные коды для подготовки статистики и для фильтрации информации в печатаемых отчетах.
@@ -36,4 +36,3 @@ ms.lasthandoff: 11/26/2018
 [Настройка покупки](purchasing-setup-purchasing.md)  
 [Управление кредиторской задолженностью](payables-manage-payables.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
-

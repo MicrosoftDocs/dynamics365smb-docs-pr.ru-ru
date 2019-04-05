@@ -1,22 +1,22 @@
 ---
-title: "Соответствие приложений | Документы Microsoft"
-description: "Это содержимое содержит сведения о соответствии приложений в связи с Business Central."
+title: Соответствие приложений | Документы Microsoft
+description: Это содержимое содержит сведения о соответствии приложений в связи с Business Central.
 author: sorenfriisalexandersen
-documentationcenter: 
+documentationcenter: ''
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 10/01/2018
 ms.author: soalex
-ms.translationtype: HT
-ms.sourcegitcommit: 8a73de1aa2f4a0f633c401ea341bb7bde6579723
 ms.openlocfilehash: cda5dc10951981a5d2e496c6cd27bb84b875ede0
-ms.contentlocale: ru-ru
-ms.lasthandoff: 12/14/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804564"
 ---
 # <a name="application-compliance"></a>Соответствие приложений
 Данное содержимое содержит информацию о соответствии приложений в связи с [!INCLUDE[d365fin](../includes/d365fin_md.md)], например международным стандартам финансовой отчетности, местным функциональным возможностям, общему регламенту по защите данных (GDPR)и т. д. Уверенность в решении по управлению деятельностью бизнеса — это ключ к эффективной работе бизнеса. Business Central позволяет организациям оптимизировать бизнес-процессы, при этом последовательно и экономически эффективно обеспечивая соответствие все ужесточающимся нормативным требованиям и требованиям к отчетности.
@@ -96,4 +96,3 @@ Microsoft создает локализованные версии Business Cent
 
  ## [!INCLUDE[d365fin](../includes/free_trial_md.md)]  
  
-

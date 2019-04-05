@@ -1,22 +1,22 @@
 ---
-title: "Добавление сведений в записи для себя | Документы Майкрософт"
-description: "Можно добавлять заметки в любые записи в приложении. Например, при наличии дополнительных сведений о заказе на продажу, которые не соответствуют ни одному из полей в заказе на продажу, эти сведения можно изложить в заметке."
+title: Добавление сведений в записи для себя | Документы Майкрософт
+description: Можно добавлять заметки в любые записи в приложении. Например, при наличии дополнительных сведений о заказе на продажу, которые не соответствуют ни одному из полей в заказе на продажу, эти сведения можно изложить в заметке.
 author: jswymer
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ROBOTS: NOINDEX,NOFOLLOW
 ms.date: 10/01/2018
 ms.author: jswymer
-ms.translationtype: HT
-ms.sourcegitcommit: caf7cf5afe370af0c4294c794c0ff9bc8ff4c31c
 ms.openlocfilehash: 748e148e99a6c99a5a2ebf5f05a87350bee26ae7
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/22/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804028"
 ---
 # <a name="add-and-view-notes-on-records"></a>Добавление и просмотр заметок в записях
  Можно <!--OnPrem and your colleagues -->добавить заметки в записи в приложении. На многих страницах, в особенности тех, в которых отображается список записей, например на странице **Заказы на продажу**, предусмотрено действие **Заметки** или информационная панель **Заметки**. <!--OnPrem Notes is where you can write notes about a record to yourself or others, and where you can view notes to you from others. For example, a note could be a general comment or processing instruction to your colleague, who can then respond to your note using their own **Notes**. Or, your colleague can add a note that gives you extra information about a sales order that is not covered by the information on the sales order. These notes and correspondences will follow the record as it is processed in the company.-->
@@ -49,4 +49,3 @@ ms.lasthandoff: 11/22/2018
 3.  Choose the **OK** button.  -->
 ## <a name="see-also"></a>См. также
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
-

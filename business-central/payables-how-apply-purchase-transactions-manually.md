@@ -1,8 +1,8 @@
 ---
-title: "Выверка платежей поставщикам вручную | Документы Майкрософт"
-description: "Для обработки, сопоставления и выверки платежей клиентов и возмещений вручную вы применяете сумму к одной или нескольким открытым операциям поставщика."
+title: Выверка платежей поставщикам с журналом платежей или из книги операций по поставщикам | Документы Майкрософт
+description: Для обработки, сопоставления и выверки платежей клиентов и возмещений вручную вы применяете сумму к одной или нескольким открытым операциям поставщика.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,14 +12,14 @@ ms.workload: na
 ms.search.keywords: payment application, payment processing, match payments
 ms.date: 10/01/2018
 ms.author: sgroespe
+ms.openlocfilehash: e8c740bd32aeceb273f3accbda7b912350c9be12
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
 ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
-ms.openlocfilehash: cb62661da68e1fd5255e285288de5089e8547b64
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804798"
 ---
-# <a name="reconcile-vendor-payments-manually"></a>Выверка платежей поставщикам вручную
+# <a name="reconcile-vendor-payments-with-the-payment-journal-or-from-vendor-ledger-entries"></a>Выверка платежей поставщикам с журналом платежей или из книги операций по поставщикам
 При отправке платежа или получении возмещения от поставщика требуется решить, следует ли применять эту оплату или возмещение к одной или нескольким открытым операциям. Можно определить точную сумму, которую требуется применить, например к денежным поступлениям или возмещениям, и тем самым только частично применить операции книги поставщиков. Важно также применить все операции книги поставщиков, чтобы получить правильную статистику поставщика, а также выписки по счету и процент-ноты.
 
 > [!NOTE]  
@@ -123,4 +123,3 @@ ms.lasthandoff: 11/26/2018
 [Кредиторская задолженность](payables-manage-payables.md)  
 [Покупки](purchasing-manage-purchasing.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
-

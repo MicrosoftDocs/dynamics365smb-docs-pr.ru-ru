@@ -1,6 +1,6 @@
 ---
-title: "Настройка амортизации ОС | Документы Майкрософт"
-description: "Вы указываете в книге амортизации, каким образом будет происходить амортизация или уменьшение стоимости ОС."
+title: Настройка амортизации ОС | Документы Майкрософт
+description: Вы указываете в книге амортизации, каким образом будет происходить амортизация или уменьшение стоимости ОС.
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: write down
 ms.date: 10/01/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: d417db84cf45356925cf52a36ba08e478b8ee6b9
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804681"
 ---
 # <a name="set-up-fixed-asset-depreciation"></a>Настройка амортизации основных средств
  Можно использовать различные методы амортизации для подготовки финансовых отчетов и возвратов налога на доходы. Многие крупные корпорации используют линейную амортизацию в финансовых отчетах, поскольку это обычно позволяет показывать в отчетах более высокие прибыли. Для налоговой декларации многие организации используют метод ускоренной амортизации. Дополнительные сведения см. в разделе [Методы амортизации](fa-depreciation-methods.md).
@@ -83,4 +83,3 @@ ms.lasthandoff: 11/26/2018
 [Финансы](finance.md)  
 [Приступая к работе](product-get-started.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
-

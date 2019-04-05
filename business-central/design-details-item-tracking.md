@@ -1,23 +1,23 @@
 ---
-title: "Сведения о проектировании — трассировки товара | Документы Майкрософт"
-description: "В этом разделе приводится обзор сведений о проектировании трассировки товаров."
+title: Сведения о проектировании — трассировки товара | Документы Майкрософт
+description: В этом разделе приводится обзор сведений о проектировании трассировки товаров.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 11/12/2018
 ms.author: sgroespe
-ms.translationtype: HT
-ms.sourcegitcommit: caf7cf5afe370af0c4294c794c0ff9bc8ff4c31c
 ms.openlocfilehash: 1dce0ea658a2083c3d896fe6324751f63aabce06
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/22/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804073"
 ---
 # <a name="design-details-item-tracking"></a>Сведения о проектировании: трассировка товара
 По мере усложнения потока товаров в текущей цепочке поставок организациям становится все более важно иметь возможность отслеживать товары. Отслеживание потока транзакций по товару — это юридическое требование в сфере медицинских и химических поставок, но в других бизнес-сферах может потребоваться отслеживать продукты с гарантиями или сроками годности в целях обслуживания клиентов.  
@@ -33,4 +33,3 @@ ms.lasthandoff: 11/22/2018
 [Сведения о проектировании: трассировка и планирование товара](design-details-item-tracking-and-planning.md)  
 [Сведения о проектировании: трассировка и резервирование товара](design-details-item-tracking-and-reservations.md)  
 [Сведения о проектировании: трассировка товара на складе](design-details-item-tracking-in-the-warehouse.md)
-

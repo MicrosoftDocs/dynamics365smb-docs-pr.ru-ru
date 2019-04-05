@@ -1,23 +1,23 @@
 ---
-title: "Как настроить товары, выдаваемые для временного пользования | Документы Майкрософт"
-description: "Можно настроить товары временного пользования, которые можно предоставить клиентам взамен сервисных товаров, находящихся в обслуживании."
+title: Как настроить товары, выдаваемые для временного пользования | Документы Майкрософт
+description: Можно настроить товары временного пользования, которые можно предоставить клиентам взамен сервисных товаров, находящихся в обслуживании.
 services: project-madeira
-documentationcenter: 
+documentationcenter: ''
 author: bholtorf
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: 
+ms.search.keywords: ''
 ms.date: 10/01/2018
 ms.author: bholtorf
-ms.translationtype: HT
-ms.sourcegitcommit: 33b900f1ac9e295921e7f3d6ea72cc93939d8a1b
 ms.openlocfilehash: 46e60bcb217178d94eda195045df0db33873a190
-ms.contentlocale: ru-ru
-ms.lasthandoff: 11/26/2018
-
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804054"
 ---
 # <a name="set-up-a-loaner-program"></a>Настройка программы временного пользования
 Иногда возникает необходимость в предоставлении клиенту товара для временного пользования в качестве замены товара, находящегося в ремонте. В [!INCLUDE[d365fin](includes/d365fin_md.md)] можно настроить программу временного пользования, предоставлять клиентам товары во временное пользование и отслеживать возврат, когда клиенты возвращают товары. Кроме того, можно добавлять комментарии о товарах для временного пользования одним из двух способов:  
@@ -36,5 +36,4 @@ ms.lasthandoff: 11/26/2018
 [Предоставление и прием товаров для временного пользования](service-how-to-lend-receive-loaners.md)  
 [Настройка управления сервисным обслуживанием](service-setup-service.md)  
 [Предоставление услуги](service-deliver-service.md)  
-
 

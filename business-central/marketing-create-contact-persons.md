@@ -1,6 +1,6 @@
 ---
-title: "Создание контактных лиц | Microsoft Docs"
-description: "Содержит обзор задач по созданию карточку контакта для лица, например для потенциального клиента или поставщика, что помогает определить отношения и наладить связь."
+title: Создание контактных лиц | Microsoft Docs
+description: Содержит обзор задач по созданию карточку контакта для лица, например для потенциального клиента или поставщика, что помогает определить отношения и наладить связь.
 author: jswymer
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -8,14 +8,15 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: relationship, prospect
-ms.date: 12/07/2018
+ms.date: 02/26/2019
 ms.author: jswymer
+redirect_url: marketing-create-contact-companies
+ms.openlocfilehash: 871e2c2fe75d5c14299651ab278aee9140430d19
+ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
 ms.translationtype: HT
-ms.sourcegitcommit: 8a73de1aa2f4a0f633c401ea341bb7bde6579723
-ms.openlocfilehash: 80ab4bd8fe9a5c74f52a334cf8c4a0a297c01bd9
-ms.contentlocale: ru-ru
-ms.lasthandoff: 12/11/2018
-
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "804195"
 ---
 # <a name="creating-contact-persons"></a>Создание контактных лиц
 Чтобы создать контакт, настройте карточку контакта для лица. Чтобы создать контактное лицо, используйте имеющиеся контактные организации или создайте независимое контактное лицо.
@@ -44,8 +45,6 @@ ms.lasthandoff: 12/11/2018
 >   Содержимое полей, выбранных на в разделе **Наследование** страницы **Настройка модуля "Маркетинг"**, копируется из организации в карточки пользователей, работающих в этой организации.
 
 ## <a name="see-also"></a>См. также
-[Создание контактных организаций](marketing-create-contact-companies.md)  
-[Создание контактных лиц](marketing-create-contact-persons.md)  
+[Создание контактов](marketing-create-contact-companies.md)  
 [Использование анкет профилей для классификации бизнес-контактов](marketing-create-contact-profile-questionnaire.md)  
 [Работа с Business Central](ui-work-product.md)
-
