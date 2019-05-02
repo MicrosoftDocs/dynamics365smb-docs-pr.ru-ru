@@ -1,1 +1,0 @@
-Microsoft Dynamics NAV Средство администрирования сервера
