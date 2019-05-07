@@ -10,15 +10,15 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2018
+ms.date: 04/01/2019
 ms.author: sgroespe
 redirect_url: design-details-balancing-demand-and-supply
-ms.openlocfilehash: 037ba35395ba84d4f943b0a45a7fb43c24b34385
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: 13ab8097b9c6d75f838a58c347af31d560fa9374
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "804112"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "914839"
 ---
 # <a name="design-details-balancing-supply-with-demand"></a>Сведения о проектировании: балансировка поставки и спроса
 Основа системы планирования — балансировка спроса и предложения путем предложения пользователю пересмотреть заказы на поставку в случае дисбаланса. Это происходит для каждой комбинации варианта и склада.  

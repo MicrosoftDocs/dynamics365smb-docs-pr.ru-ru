@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: accountant, accounting, financial report
-ms.date: 10/01/2018
+ms.date: 04/01/2019
 ms.author: edupont
-ms.openlocfilehash: acd894ede7ad497311a793fb7153333a9a35e1cb
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: b816d7ff9f8446aa81746b980fd47b3b531e1396
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "804680"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "913806"
 ---
 # <a name="analyzing-financial-statements-in-microsoft-excel"></a>Анализ финансовых отчетов в Microsoft Excel
 В [!INCLUDE[d365fin](includes/d365fin_md.md)] можно просматривать ключевые коэффициенты эффективности и получать обзоры финансового состояния организации. Можно также открыть списки в Excel и анализировать данные в нем. Однако также можно экспортировать большие финансовые отчеты, такие как балансовый отчет или отчет о прибылях и убытках в Excel, проанализировать данные и напечатать отчеты.  

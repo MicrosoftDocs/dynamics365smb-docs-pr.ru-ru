@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2018
+ms.date: 04/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: b728815592975091a683eb96f87b1a632da62567
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: e9b5af9d5eff5600c0286e52bae121211c9090f3
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "805275"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "921150"
 ---
 # <a name="design-details-internal-warehouse-flows"></a>Сведения о проектировании: внутренние складские потоки
 Перемещение товаров между ячейками на складах компании заключается в комплектовании компонентов и откладывании конечных товаров для заказов на сборку или производственных запасов и специальных перемещений, таких как пополнение ячейки, без связи с исходными документами. Масштаб и природа включенных действий варьируется между базовым и расширенным складированием.  

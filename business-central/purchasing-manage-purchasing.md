@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: procurement, supply, vendor order
-ms.date: 11/15/2018
+ms.date: 04/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 87e3d134abe82e0f55acf4d3680b84fbc2c0c14b
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: 738cbfece41121eb05aeb598f9ea4367173f29a5
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "804099"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "918775"
 ---
 # <a name="purchasing"></a>Закупки
 Счет покупки или заказ на покупку создается для записи стоимости покупок и отслеживания кредиторской задолженности. Если требуется управлять запасами, счета покупки также используются для динамического обновления уровней запасов, чтобы уменьшить себестоимости запасов и обеспечить лучшее обслуживание клиентов. Расходы на покупку, включая затраты на обслуживание, и стоимость запасов, полученная из учета счетов покупки, составляют показатели прибыли и другие ключевые показатели эффективности финансовой деятельности в ролевом центре.
@@ -42,6 +42,7 @@ ms.locfileid: "804099"
 |Подготовка к выставлению одного счета по нескольким приходным накладным от одного поставщика путем объединения приходных накладных в одном счете.|[Объединение приходных накладных в один счет](purchasing-how-to-combine-receipts.md)|
 |Преобразование, например, электронных счетов от поставщиков в счета покупки в Business Central.|[Получение и преобразование электронных документов](purchasing-how-to-receive-and-convert-electronic-documents.md)|
 | Узнайте, как [!INCLUDE[d365fin](includes/d365fin_md.md)] рассчитывает, когда необходимо заказать товар для получения его в конкретную дату.|[Расчет даты для покупок](purchasing-date-calculation-for-purchases.md)|
+|Разрешение конфликта, когда две или более записей существуют для одного и того же поставщика.|[Объединение повторяющихся записей](sales-how-merge-duplicate-records.md)|
 
 ## <a name="see-also"></a>См. также
 [Настройка покупки](purchasing-setup-purchasing.md)  

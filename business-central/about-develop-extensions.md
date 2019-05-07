@@ -9,14 +9,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: app, add-in, manifest, customize
-ms.date: 10/01/2018
+ms.date: 04/01/2019
 ms.author: edupont
-ms.openlocfilehash: 796f48a719b30ce54752eb8ab02386f964c2e7b8
-ms.sourcegitcommit: d09f5ee0e164c7716f4ccb2ed71e2f9732a1f4f9
+ms.openlocfilehash: e8e2b011dc07657198ebf42663bd404b7850834a
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/19/2019
-ms.locfileid: "853144"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "917003"
 ---
 # <a name="extending-included365finincludesd365finmdmd"></a>Расширение [!INCLUDE[d365fin](includes/d365fin_md.md)]
 Microsoft [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)] — это решение по управлению деятельностью, которое позволяет компаниям объединить свои финансы, продажи, обслуживание и производство для упрощения бизнес-процессов, улучшения взаимодействия с клиентами и принятия более взвешенных решений. [!INCLUDE[d365fin](includes/d365fin_md.md)] представляет собой облачный сервис, доступный с различных устройств и не требующий обновления. На этой современной бизнес-платформе вы можете легко адаптировать, расширять и разрабатывать приложения в соответствии со своими нуждами — с минимальным написанием кода или вовсе без такового.  

@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 03/01/2019
+ms.date: 04/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 2b00871f4074af32500678642cae63850956bfce
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: cbcb2a9d4262a8057b82d8f87fc619d218c97e67
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "804774"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "914119"
 ---
 # <a name="set-up-base-calendars"></a>Настройка базовых календарей
 Можно присвоить базовый календарь своей организации и ее деловым партнерам, таким как клиенты, поставщики или склады. При расчете дат поставки и приемки по строкам будущих заказов продажи, покупки, перемещения и производства будут учитываться только дни, указанные в календаре как рабочие. Новый базовый календарь создается, чтобы установить нерабочие дни, которые необходимо ввести.  

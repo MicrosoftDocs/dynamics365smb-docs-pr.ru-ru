@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 11/05/2018
+ms.date: 04/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: c3cb9f82688f89f00f934d1468492cfa752742fd
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: b56ec1c5a0646c46ce5da71d35ebcff8bd01d476
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "805016"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "924432"
 ---
 # <a name="work-with-production-families"></a>Работа с производственными семействами
 Производственное семейство — это группа отдельных товаров, взаимосвязь которых основана на подобии процессов изготовления. Формирование производственных семейств позволяет некоторым товарам производиться дважды или более раз в одном производстве, что оптимизирует потребление материалов.

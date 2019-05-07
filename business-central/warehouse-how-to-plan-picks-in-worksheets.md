@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2018
+ms.date: 04/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 30a6832c0672677106fdb41c9a38a73dae296aa5
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: f0bf6da083b69d76c3f2ad75e8fb9b9d6bfdc5d9
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "804364"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "913046"
 ---
 # <a name="plan-picks-in-worksheets"></a>Планирование подборов в журналах
 Если склад настроен так, что требуется выполнить обработку и подбора, и отгрузки, то может быть выбран такой способ действий, при котором строки в документах отгрузки не преобразуются автоматически в инструкции по подбору, а становятся вместо этого доступными для журнала подбора.  

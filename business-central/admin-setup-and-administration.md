@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 01/24/2019
+ms.date: 04/01/2019
 ms.author: edupont
-ms.openlocfilehash: 8a8aa06268a2b90189dee36a7cf2c5954e45b798
-ms.sourcegitcommit: d09f5ee0e164c7716f4ccb2ed71e2f9732a1f4f9
+ms.openlocfilehash: c5b76a434403da0d472b1e1fa9430d40ff082220
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/19/2019
-ms.locfileid: "852144"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "924455"
 ---
 # <a name="administration"></a>Администрация
 Основные задачи администрирования обычно выполняются в организации исполнителем какой-либо одной роли. Объем этих задач может зависеть от размера организации и должностных обязанностей администратора. Среди подобных задач могут быть следующие: управление синхронизацией с базой данных работ и очередей электронной почты, задание пользователей и настройка пользовательского интерфейса.  
@@ -44,7 +44,7 @@ ms.locfileid: "852144"
 |Можно отображать страницы, модули codeunit и запросы как веб-службы.|[Публикация веб-службы](across-how-publish-web-service.md)|
 |В рамках создания приложений-связей между [!INCLUDE[d365fin](includes/d365fin_md.md)] и сторонними решениями через интерфейсы REST API определите шаблоны, которые используются для заполнения пустых свойств в объекте, при создании действия POST через API.|[Конфигурирование шаблонов API](admin-configuring-api-template.md)|
 |Можно зашифровать данные на [!INCLUDE[d365fin](includes/d365fin_md.md)] Server, создав новые или импортировав существующие ключи шифрования, включаемые на сервере.|[Управление шифрованием данных](admin-manage-data-encryption.md)|
-|Подключите Dynamics 365 for Sales к [!INCLUDE[d365fin](includes/d365fin_md.md)] для получения бесшовной интеграции между отношениями с клиентами и обработкой заказов в процессах от интереса до получения денег.|[Интеграция с Dynamics 365 for Sales](marketing-integrate-dynamicscrm.md)|
+|Подключите Dynamics 365 for Sales к [!INCLUDE[d365fin](includes/d365fin_md.md)] для получения бесшовной интеграции между отношениями с клиентами и обработкой заказов в процессах от интереса до получения денег.|[Интеграция с Dynamics 365 for Sales](admin-prepare-dynamics-365-for-sales-for-integration.md)|
 |Измените поля и действия, которые будут отображаться в пользовательском интерфейсе, в соответствии с бизнес-процессами вашей организации и расширения решения с помощью приложений.|[Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-customizing-overview.md)|
 
 ## <a name="see-also"></a>См. также

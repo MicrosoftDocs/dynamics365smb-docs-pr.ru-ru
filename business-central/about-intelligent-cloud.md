@@ -9,14 +9,14 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.reviewer: edupont
 ms. search.keywords: cloud, edge
-ms.date: 10/01/2018
+ms.date: 04/01/2019
 ms.author: bmeier
-ms.openlocfilehash: 932b6f45ed4f8704b48873518ba2b096efc33e7a
-ms.sourcegitcommit: d09f5ee0e164c7716f4ccb2ed71e2f9732a1f4f9
+ms.openlocfilehash: 4bd30c2912c8a690431221e7983f5fe53b543322
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/19/2019
-ms.locfileid: "852133"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "920917"
 ---
 # <a name="your-access-to-the-intelligent-cloud-with-includeprodshortincludesprodshortmd"></a>Для доступа к интеллектуальному облаку служит [!INCLUDE[prodshort](includes/prodshort.md)]
 
@@ -38,7 +38,7 @@ ms.locfileid: "852133"
 Рядом с диаграммами ключевых показателей эффективности можно получить анализ потенциальных проблемных областей, включая просроченные платежи. Выберите каждый анализ для детального просмотра данных.  
 
 > [!div class="mx-imgBorder"]
-> ![Аналитика в интеллектуальном облаке](media/across-intelligent-cloud/intelligentcloudinsights.png "Отображает страницу аналитики в интеллектуальном облаке в Business Central")
+> ![Аналитика в интеллектуальном облаке](media/across-intelligent-cloud/intelligentcloudApril19.png "Отображает страницу аналитики в интеллектуальном облаке в Business Central")
 
 Эта страница также подключается к Power BI для дополнительного анализа.
 

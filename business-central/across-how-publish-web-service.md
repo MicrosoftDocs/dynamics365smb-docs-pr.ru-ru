@@ -1,6 +1,6 @@
 ---
 title: Предоставление объектов как веб-службы | Microsoft Docs
-description: Опубликуйте объекты как веб-службы, чтобы они немедленно стали доступными в сети.
+description: Публикуйте объекты как веб-службы, чтобы сделать их доступными сразу для вашего решения Business Central.
 author: edupont04
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2018
+ms.date: 04/01/2019
 ms.author: edupont
-ms.openlocfilehash: bb9623c00aa038b387179d46e6eb8a869552569e
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: 952f2b9dc301b6941d13b4c23ac55f83b781739f
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "804048"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "922435"
 ---
 # <a name="publish-a-web-service"></a>Публикация веб-службы
 
@@ -28,40 +28,46 @@ ms.locfileid: "804048"
 
 ### <a name="to-create-and-publish-a-web-service"></a>Создание и публикация веб-службы  
 
-1.  Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Веб-службы**, затем выберите связанную ссылку.  
-2.  На странице **Веб-службы** выберите **Создать**. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
+1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Веб-службы**, затем выберите связанную ссылку.  
+2. На странице **Веб-службы** выберите **Создать**. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
 
     > [!NOTE]  
-    >  **Модуль Codeunit** и **Страница** — допустимые типы для веб-служб SOAP. **Страница** и **Запрос** — допустимые типы веб-служб OData.  
-    Кроме того, если база данных содержит несколько организаций, можно выбрать Идентификатор объекта, относящийся к одной из организаций.  
-    Наконец, имя службы видимо для клиентов вашей веб-службы и является основой для идентификации и различения веб-служб, поэтому следует применять осмысленное имя.
+    > **Модуль Codeunit** и **Страница** — допустимые типы для веб-служб SOAP. **Страница** и **Запрос** — допустимые типы веб-служб OData.  
+    > Кроме того, если база данных содержит несколько организаций, можно выбрать Идентификатор объекта, относящийся к одной из организаций.  
+    > Наконец, имя службы видимо для клиентов вашей веб-службы и является основой для идентификации и различения веб-служб, поэтому следует применять осмысленное имя.
 
-3.  Установите флажок в столбце **Опубликовано**.  
+3. Установите флажок в столбце **Опубликовано**.  
 
 При публикации веб-службы в полях **URL-адрес OData** и **URL SOAP** можно увидеть URL-адреса, сгенерированные для веб-службы. Веб-службу можно немедленно проверить, выбрав ссылки в полях **URL-адрес OData** и **URL SOAP**. При необходимости можно скопировать значение поля и сохранить его для последующего использования.  
+
+> [!IMPORTANT]
+> Для модулей codeunit, которые опубликованы как веб-служба SOAP, методы, предоставляемые в модуле codeunit, должны быть отмечены как `[External]` в коде.
 
 После публикации веб-службы она становится доступна для внешних сторон. Можно проверить доступность веб-службы с помощью браузера или выбрать ссылку в полях **URL-адрес OData** и **URL SOAP** на странице **Веб-службы**. В следующей процедуре показано, как можно проверить наличие веб-службы для последующего использования.  
 
 ### <a name="to-verify-the-availability-of-a-web-service"></a>Проверка наличия веб-службы  
 
-1.  В браузере введите соответствующий URL-адрес. В таблице ниже показаны типы URL-адресов, которые можно ввести для различных типов веб-служб.  
-> [!div class="mx-tdBreakAll"]
-> |Тип|Синтаксис|Пример|
-> |----------------|------|-------|
-> |SOAP |https://*Server*:*SOAPWebServicePort*/*ServerInstance*/WS/*CompanyName*/salesDocuments/ |https://mycompany.financials.dynamics.com:7047/MS/WS/MyCompany/Page/salesDocuments?tenant=mycompany.financials.dynamics.com |
-> |OData |https://*Server*:*ODataWebServicePort*/*ServerInstance*/OData/Company('*CompanyName*')|[https://MyCompany.financials.dynamics.com:7048/MS/OData/Company('MyCompany')/salesDocuments?tenant=MyCompany.financials.dynamics.com](https://MyCompany.financials.dynamics.com:7048/MS/OData/Company('MyCompany')/salesDocuments?tenant=MyCompany.financials.dynamics.com) <br />    Название организации учитывает регистр.|
+1. В браузере введите соответствующий URL-адрес. В таблице ниже показаны типы URL-адресов, которые можно ввести для различных типов веб-служб.  
 
-2.  Просмотрите сведения, которые отражаются в браузере. Удостоверьтесь, что созданное вами имя веб-службы отображается правильно.  
+    > [!div class="mx-tdBreakAll"]
+    > |Тип|Синтаксис|Пример|
+    > |----------------|------|-------|
+    > |SOAP |https://api.businesscentral.dynamics.com/*версия*/*арендатор*/WS/*НазваниеОрганизации*/*объект*/ |`https://api.businesscentral.dynamics.com/v1.0/a10b3ee6-d9a2-42fe-926f-946e23bb8ddd/WS/CRONUS%20USA%2C%20Inc./Page/InvoiceDocument`|
+    > |OData V4|https://api.businesscentral.dynamics.com/*версия*/*арендатор*/ODataV4/Company('*НазваниеОрганизации*')/*объект*|`https://api.businesscentral.dynamics.com/v1.0/a10b3ee6-d9a2-42fe-926f-946e23bb8ddd/ODataV4/Company('CRONUS%20USA%2C%20Inc.')/InvoiceDocument`<br/>    Название организации учитывает регистр.|
+
+2. Просмотрите сведения, которые отражаются в браузере. Удостоверьтесь, что созданное вами имя веб-службы отображается правильно.  
 
 При доступе к веб-службе и необходимости внести данные в [!INCLUDE[d365fin](includes/d365fin_md.md)] следует указать название организации. Можно указать организацию при URI, как показано в примерах, или указать организацию при настройке параметров запроса. Например, следующие URI указывают на одну и ту же веб-службу OData, и оба URI действительны.  
 
-```  
-https://localhost:7048/server/OData/Company('CRONUS International Ltd.')/Customer  
-```  
+```
+https://api.businesscentral.dynamics.com/v1.0/OData/Company('CRONUS International Ltd.')/Customer  
+```
 
-```  
-https://localhost:7048/server/OData/Customer?company='CRONUS International Ltd.'  
-```  
+```
+https://api.businesscentral.dynamics.com/v1.0/OData/Customer?company='CRONUS International Ltd.'  
+```
 
-## <a name="see-also"></a>См. также  
+## <a name="see-also"></a>См. также
+
 [Администрация](admin-setup-and-administration.md)  
+[Веб-службы Business Central для разработчиков](/dynamics365/business-central/dev-itpro/webservices/web-services)  

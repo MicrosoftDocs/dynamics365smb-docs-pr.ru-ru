@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2018
+ms.date: 04/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: bdb9d8c0d47fe53e9e5ea310a83854e69f545d9e
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: 1dac30e8c48e37464bc503fcc1d2961cc5721868
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "804181"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "913228"
 ---
 # <a name="subcontract-manufacturing"></a>Субподрядное производство
 Передача определенных операций субподрядчику — это обычная практика во многих производственных организациях. Субподряд может быть редким событием или же может стать важной частью всех производственных процессов.

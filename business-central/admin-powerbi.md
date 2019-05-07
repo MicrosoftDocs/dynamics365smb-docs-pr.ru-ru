@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: account schedule, analysis, reporting, financial report, business intelligence, KPI
-ms.date: 10/01/2018
+ms.date: 04/01/2019
 ms.author: edupont
-ms.openlocfilehash: 26fe722a863ada2bcd017e2bc614b976a7119a25
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: f51de349c4b13eaabd185cdb728d59006dfe6db6
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "803979"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "916378"
 ---
 # <a name="enabling-your-business-data-for-power-bi"></a>Включение бизнес-данных для Power BI
 Анализ данных [!INCLUDE[d365fin](includes/d365fin_md.md)] становится проще благодаря Power BI и пакетам содержимого [!INCLUDE[d365fin](includes/d365fin_md.md)]. Power BI извлекает ваши данные и строит готовую панель мониторинга и отчеты на основе этих данных.  
@@ -75,26 +75,26 @@ ms.locfileid: "803979"
 - Организация для просмотра шаблона Excel
 - Метки отчета Power BI
 
-**Microsoft Dynamics 365 Business Central — Финансы**
+**Microsoft Dynamics 365 Business Central – Finance**
 - PowerBIFinance
 - Организация для просмотра шаблона Excel
 - Метки отчета Power BI
 
-**Microsoft Dynamics 365 Business Central — Работы**
+**Microsoft Dynamics 365 Business Central – Jobs**
 - Список работ
 - Строки планирования работ
 - Строки рабочего задания
 - Метки отчета Power BI
 - Организация для просмотра шаблона Excel
 
-**Microsoft Dynamics 365 Business Central — Продажи**
+**Microsoft Dynamics 365 Business Central - Sales**
 - Панель мониторинга продажи
 - Организация для просмотра шаблона Excel
 - Метки отчета Power BI
 
 ## <a name="list-page-reports"></a>Список отчетов страниц
 
-**Microsoft Dynamics 365 Business Central — Список клиентов**
+**Microsoft Dynamics 365 Business Central – Customers List**
 - Продажа товаров по клиенту
 - Список покупок товаров Power BI
 - Список продаж товаров Power BI
@@ -103,13 +103,13 @@ ms.locfileid: "803979"
 - ExcelTemplateViewCompany
 - Метки отчета Power BI
 
-**Microsoft Dynamics 365 Business Central — Список операций ГК**
+**Microsoft Dynamics 365 Business Central - General Ledger Entries List**
 - Список сумм ГК Power BI
 - Сумма бюджета ГК Power BI
 - ExcelTemplateViewCompany
 - Метки отчета Power BI
 
-**Microsoft Dynamics 365 Business Central — Список товаров**
+**Microsoft Dynamics 365 Business Central – Items List**
 - Продажа товаров по клиенту
 - Список покупок товаров Power BI
 - Список продаж товаров Power BI
@@ -117,23 +117,23 @@ ms.locfileid: "803979"
 - ExcelTemplateViewCompany
 - Метки отчета Power BI
 
-**Microsoft Dynamics 365 Business Central — Список работ**
+**Microsoft Dynamics 365 Business Central – Jobs List**
 - Список работ Power BI
 - ExcelTemplateViewCompany
 - Метки отчета Power BI
 
-**Microsoft Dynamics 365 Business Central — Список счетов на покупку**
+**Microsoft Dynamics 365 Business Central – Purchase Invoices List**
 - Список покупок Power BI
 - ExcelTemplateViewCompany
 - Метки отчета Power BI
 
-**Microsoft Dynamics 365 Business Central — Список заказов на продажу**
+**Microsoft Dynamics 365 Business Central – Sales Orders List**
 - Список продаж Power BI
 - ExcelTemplateViewCompany
 - Метки отчета Power BI
 
 
-**Microsoft Dynamics 365 Business Central — Список поставщиков**
+**Microsoft Dynamics 365 Business Central – Vendors List**
 - Список покупок товаров Power BI
 - Список продаж товаров Power BI
 - Список поставщиков Power BI

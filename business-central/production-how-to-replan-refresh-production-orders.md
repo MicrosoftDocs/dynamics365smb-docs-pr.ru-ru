@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2018
+ms.date: 04/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 2fec578da84a190535e5ebf74972aee8ff7e3b7a
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: dfe311bacc141bd03de022a5ec3a0d5aa70f8864
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "805012"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "913391"
 ---
 # <a name="replan-or-refresh-production-orders-directly"></a>Прямое перепланирование или обновление производственных заказов
 Функция **Перепланировать** в производственных заказах обычно используется после добавления или изменения компонентов, которые составляют подчиненные производственные заказы. Эта функция позволяет рассчитать изменения, произведенные в строках компонентов и маршрутов, с включением элементов на нижний уровнях спецификаций, для которых она может генерировать новые производственные заказы.  

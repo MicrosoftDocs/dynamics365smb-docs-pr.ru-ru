@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: relationship, prospect
-ms.date: 02/26/2019
+ms.date: 04/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: af87183dfd9785bfbe3dd56794682d13a5057ada
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: 85975b28dbe19702412a05bb927f3fe59bd8bfc3
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "804883"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "915121"
 ---
 # <a name="creating-and-managing-contacts"></a>Создание контактов и управление ими
 Различные группы в организации будут иметь деловые отношения с различными организациями. Например, менеджер может регулярно встречаться с потенциальными клиентами и в конце недели записывать результаты этих визитов.
@@ -30,6 +30,7 @@ ms.locfileid: "804883"
 | --- | --- |
 | Настройка управления контактами до создания контактов. |[Настройка контактов](marketing-setup-contacts.md) |
 | Создавать карточку контакта для каждого нового человека или новой организации, например организации клиента или поставщика, с которой вы работаете. |[Создание контактов](marketing-create-contact-companies.md) |
+|Разрешение конфликта, когда две или более записей существуют для одного и того же контакта.|[Объединение повторяющихся записей](sales-how-merge-duplicate-records.md)|
 
 ## <a name="see-also"></a>См. также
 [Управление возможностями продаж](marketing-manage-sales-opportunities.md)  

@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 02/19/2019
+ms.date: 04/01/2019
 ms.author: jswymer
-ms.openlocfilehash: 0231ab568ea435a389dae6f51f270f5b6363c203
-ms.sourcegitcommit: d09f5ee0e164c7716f4ccb2ed71e2f9732a1f4f9
+ms.openlocfilehash: 03eeb13e5087e064e80d444ab373b0407f5a93be
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/19/2019
-ms.locfileid: "852382"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "914545"
 ---
 # <a name="updating-report-or-document-layouts"></a>Обновление макетов отчетов или документов
 Время от времени может возникать необходимость обновления пользовательского макета, который будет использоваться для отчета. Это необходимо при внесении изменений в конструкцию набора данных отчета, например если поле, используемое в макете, было удалено из набора данных отчета. Если макет отчета требует обновления, вы получите сообщение об ошибке при попытке просмотра, печати или сохранения отчета.  

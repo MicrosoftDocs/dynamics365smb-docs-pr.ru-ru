@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2018
+ms.date: 04/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 72538ae86b81ff80154c787ea9306fef7978d1c1
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: 697c040915b5117dc7aa2140a63e57b60090cd20
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "804356"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "925813"
 ---
 # <a name="design-details-cost-components"></a>Сведения о проектировании: компоненты себестоимости
 Компоненты себестоимости представляют собой другие типы затрат, которые составляют стоимость прихода или расхода склада.  

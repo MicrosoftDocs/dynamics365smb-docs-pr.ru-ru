@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2018
+ms.date: 04/01/2019
 ms.author: bholtorf
-ms.openlocfilehash: 03074e2296c95a2afec9f5852a9c4277efa0a37a
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: b4482727547c80d41f96c31ba3b4a4e0ac7c1682
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "805322"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "916882"
 ---
 # <a name="viewing-service-statistics"></a>Просмотр сервисной статистики
 Вы можете использовать статистику для анализа сервисных документов и определения качества управления процессами сервиса. Можно анализировать сервисные контракты, товары, предложения, заказы, счета и кредит-ноты, выбрав действия **Статистика**. Для сервисных товаров и контрактов можно также использовать **Анализ тренда сервисного товара** или **Анализ тренда контракта** для просмотра сводки операций книги сервиса для конкретного сервисного товара.   

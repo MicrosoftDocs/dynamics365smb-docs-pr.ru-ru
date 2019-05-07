@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: incoming document
-ms.date: 10/01/2018
+ms.date: 04/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: c7bf0c1c22d2f43220d9b101a1a54757add900e9
-ms.sourcegitcommit: d09f5ee0e164c7716f4ccb2ed71e2f9732a1f4f9
+ms.openlocfilehash: 9ef598ec969e406d2e64519c31521d2444849d58
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/19/2019
-ms.locfileid: "853285"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "910271"
 ---
 # <a name="manage-the-intercompany-inbox-and-outbox"></a>Управление межфирменными входящими и исходящими ящиками
 Все межфирменные транзакции, получаемые электронным способом от межфирменных партнеров, отображаются в списке в межфирменном входящем почтовом ящике.  

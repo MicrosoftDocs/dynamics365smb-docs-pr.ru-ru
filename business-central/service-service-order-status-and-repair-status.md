@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2018
+ms.date: 04/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: a7ef1f214bda9c78113b320ddbd331b5a3e7de33
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: 9b6c7278ae17e9d2b71b8c32f7bb58356fc4e544
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "804218"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "923862"
 ---
 # <a name="service-order-status-and-repair-status"></a>Статус сервисного заказа и ремонта
 Поле **Статус** на странице **Сервисный заказ** и статус ремонта сервисного товара, представленный полем **Код статуса ремонта** на странице **Сервисный заказ**, имеют определенную взаимозависимость в области приложения "Сервисное управление". Статус сервисного заказа отражает статус ремонта всех сервисных товаров данного сервисного заказа.  

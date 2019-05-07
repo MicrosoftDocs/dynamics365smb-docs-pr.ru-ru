@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2018
+ms.date: 04/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 76940b9133f6aef69c588b12dd4e8940717d0eab
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: 8cb28db63e977cf02b81daa7043b64838406161f
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "803902"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "919966"
 ---
 # <a name="send-electronic-documents"></a>Отправка электронных документов
 Универсальная версия [!INCLUDE[d365fin](includes/d365fin_md.md)] поддерживает отправку электронных счетов и кредит-нот в формате PEPPOL, поддерживаемом крупнейшими поставщиками служб обмена документами. Поставщик службы обмена документами обеспечивает перемещение электронных документов между торговыми партнерами. Чтобы обеспечить поддержку других форматов электронных документов, следует использовать платформу обмена данными.  

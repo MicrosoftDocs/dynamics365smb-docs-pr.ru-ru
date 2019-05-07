@@ -1,23 +1,19 @@
 ---
 title: Рабочие задания с использованием ресурсов и табелей учета рабочего времени | Документы Майкрософт
 description: Описывается, как использовать ресурсы, табели учета рабочего времени и работы для управления проектами.
-services: project-madeira
-documentationcenter: ''
-author: SorenGP
+author: edupont04
 ms.service: dynamics365-business-central
 ms.topic: article
-ms.devlang: na
-ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: projects
-ms.date: 10/01/2018
-ms.author: sgroespe
-ms.openlocfilehash: 1de8a8feaa7ae9c7d2dd656a525be84cd5424dc6
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.date: 04/01/2019
+ms.author: edupont
+ms.openlocfilehash: dcd68331143cac2572b37e7bf130010d69dc05f4
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "805155"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "921032"
 ---
 # <a name="project-management"></a>Управление проектами
 В [!INCLUDE[d365fin](includes/d365fin_md.md)] можно выполнять общие задачи управления проектом, такие как настройка работы и планирование ресурсов, а также предоставление информации, необходимой для управления бюджетами и мониторинга хода выполнения работ. С помощью табелей можно отслеживать количество часов работы машин и сотрудников. Как менеджер проекта, вы имеете хороший обзор не только по отдельным работам, но и по распределению сотрудников, механизмов и других ресурсов, используемых во всех проектах.
@@ -38,13 +34,18 @@ ms.locfileid: "805155"
 | Учет потребления материалов, ресурсов, а также других расходов по незавершенной работе (НЗП) для контроля ее финансовой стоимости и ведения правильных финансовых отчетов, даже если затраты на работу учитываются до выставления счета по работе. |[Отслеживание хода выполнения работ и производительности](projects-how-monitor-progress-performance.md) |
 | Регистрация затрат по работе для использования ресурсов, материалов и связанных с работой закупок на постоянной основе и выставление счетов клиенту, либо после завершения работы, либо в соответствии с графиком выставления счетов. |[Выставление счетов за работы](projects-how-invoice-jobs.md) |
 
+## <a name="get-started-with-projects"></a>Начало работы с проектами
+
+Управление проектами достаточно сложно само по себе, и изучение порядка создания работ и управления незавершенным производством в новом инструменте может быть дополнительным осложнением. Чтобы помочь начать работу с управлением проектами в [!INCLUDE [prodshort](includes/prodshort.md)], можно посмотреть [видео о создании работ](https://www.youtube.com/watch?v=VqaPWr7BWmw) на YouTube-канале [!INCLUDE [prodshort](includes/prodshort.md)].  
+
 ## <a name="see-also"></a>См. также
+
 [Настройка управления проектами](projects-setup-projects.md)  
-[Изменение набора отображаемых функций](ui-experiences.md)      
-[Покупки](purchasing-manage-purchasing.md)         
-[Продажи](sales-manage-sales.md)    
+[Видео: создание работы в Dynamics 365 Business Central](https://www.youtube.com/watch?v=VqaPWr7BWmw)  
+[Изменение набора отображаемых функций](ui-experiences.md)  
+[Покупки](purchasing-manage-purchasing.md)  
+[Продажи](sales-manage-sales.md)  
 [Финансы](finance.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 
 ## [!INCLUDE[d365fin](includes/free_trial_md.md)]  
- 

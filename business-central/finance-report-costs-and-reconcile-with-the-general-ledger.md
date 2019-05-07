@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2018
+ms.date: 04/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 1b2a83ddbac54d5034b043c3124f698613be4642
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: 7ebdf239e592faedd1502c8fff50dd91e474352f
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "805303"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "917723"
 ---
 # <a name="reporting-costs-and-reconciling-with-the-general-ledger"></a>Отчет о затратах и выверка с главной книгой
 В конце учетных периодов, месяцев, лет и т. д. должна выполняться последовательность задач аудита и управления себестоимостью для создания отчетов с правильной и сбалансированной стоимостью запасов для финансового отдела. Отдельно от подпрограммы учета, которая передает операции стоимости отдельных товаров в выделенные счета главной книги, существует несколько отчетов, а также функции отслеживания и специальное средство выверки, доступные для аудиторов и контролеров, ответственных за выполнений этой чрезвычайно важной для бизнеса работы.  

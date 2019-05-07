@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 03/01/2019
+ms.date: 04/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: f11719cc9488adf84bca8cd5a23d28caaa75f4bf
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: 02c9152719a362254aa719a5ee803f3181aa463f
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "804930"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "912198"
 ---
 # <a name="set-up-basic-warehouses-with-operations-areas"></a>Настройка базовых складов с помощью зон операций
 Если область внутренних операций, например производство или сборка, существуют в рамках базовой конфигурации склада, в которой склады используют поле **Ячейка обязательна** и, возможно, поля настройки **Требуется подбор** и **Требуется размещение**, можно использовать следующие базовые складские документы для регистрации складских операций в областях внутренних операций.  
