@@ -9,14 +9,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: API, extension, Cognitive Services, image, computer vision, attribute, tag, recognition
-ms.date: 10/01/2018
+ms.date: 04/01/2019
 ms.author: bholtorf
-ms.openlocfilehash: 803d755a7caa470b97bf606f0f8916d0135d047e
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: fe1673a5d829c9c71a45383b291405e5a5121ae8
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "805005"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "932779"
 ---
 # <a name="the-image-analyzer-extension"></a>Расширение "Анализатор изображений"
 Расширение "Анализатор изображений" использует мощные механизмы анализа изображений, предоставленные API компьютерного зрения для Microsoft Cognitive Services, чтобы обнаруживать атрибуты на изображениях, которые вы импортируете для товаров и контактных лиц, чтобы вы могли их легко проверять и назначать. Для товаров это могут быть такие атрибуты как "стол" или "автомобиль", либо "красный" или "синий". Для контактных лиц атрибутом может быть пол или возраст.

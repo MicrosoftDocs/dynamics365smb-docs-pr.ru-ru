@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: print check, vendor payment, creditor, debt, balance due, AP
-ms.date: 02/08/2019
+ms.date: 04/01/2019
 ms.author: edupont
-ms.openlocfilehash: f2ff92af7dbf6c751cde795d3546d90c8d76a62b
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: 4ece210d5dd8f7748b6c7031bb0fedf571b61c9c
+ms.sourcegitcommit: addfb47612cc2e4e98dfd7e338b6f41cde405d5c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "804205"
+ms.lasthandoff: 04/12/2019
+ms.locfileid: "990109"
 ---
 # <a name="making-payments"></a>Осуществление платежей
 
@@ -37,7 +37,6 @@ ms.locfileid: "804205"
 |Учет платежей в адрес поставщиков или сотрудников и возвратов в адрес клиентов и (при необходимости) применение платежей к соответствующим неоплаченным счетам/кредит-нотам для их закрытия в качестве оплаченных.|[Регистрация платежей и возвратов](payables-how-post-payments-refunds.md)|
 | Использование функции на странице **Журнал платежей** для предложения оплат поставщикам в соответствии с выбранными критериями, такими как срок оплаты, доступность скидки и ваша ликвидность. |[Предлож. оплаты поставщикам](payables-how-suggest-vendor-payments.md) |
 | Выпуск платежных документов для платежей поставщикам или возвратов клиентам в печатном виде или в электронном виде. Аннулируйте чеки перед учетом или после него. |[Совершение платежей с помощью платежных документов](payables-how-work-checks.md) |
-|Совершение платежей в электронной форме путем экспорта платежей в банковский файл, отправляемый в банк для обработки, включая EFT (электронный платеж) в Северной Америке. |[Совершение электронных платежей](payables-how-export-payments-bank-file.md)|
 |Выполнение электронных платежей согласно стандарту кредитового перевода SEPA в ЕС.|[Выполнение платежей с помощью службы конвертации банковских данных или кредитового перевода SEPA](finance-make-payments-with-bank-data-conversion-service-or-sepa-credit-transfer.md)|
 | Платите поставщику наличными или чеком, и учитывайте платеж при учете счета. |[Немедленное создание счетов покупки](finance-how-to-settle-purchase-invoices-promptly.md) |
 | Убедитесь, что банк выполняет клиринг только проверенных платежных документов и сумм, отправив ему файл, содержащий сведения о поставщике, платежном документе и платеже. |[Экспорт файла Positive Pay](finance-how-positive-pay.md) |

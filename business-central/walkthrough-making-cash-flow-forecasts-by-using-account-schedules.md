@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2018
+ms.date: 04/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 652a151ff50c8492b3dc7df5d17c04ff2d00faad
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: c09eedbb812df909a43e514dc462dcf8c1cf182a
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "804124"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "932627"
 ---
 # <a name="walkthrough-making-cash-flow-forecasts-by-using-account-schedules"></a>Пошаговое руководство: создание прогнозов движения денежных средств с использованием финансовых отчетов
 В этом пошаговом руководстве описывается использование финансовых отчетов для создания прогнозов движения денежных средств. Финансовые отчеты выполняют расчеты, которые невозможно выполнить непосредственно в диаграмме счетов движения денежных средств. В финансовых отчетах можно настроить промежуточные итоги для приема и распределения движения денежных средств. Эти подытоги могут включаться в новые итоговые значения, которые затем можно использовать при создании прогнозов движения денежных средств.  

@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/16/2018
+ms.date: 04/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: d8bf7311a6d180f789d6a7d9532478c25cf3c2c1
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: 2fde82ce9cc710774094fd987a601c08e1e3d2b8
+ms.sourcegitcommit: addfb47612cc2e4e98dfd7e338b6f41cde405d5c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "804679"
+ms.lasthandoff: 04/16/2019
+ms.locfileid: "938371"
 ---
 # <a name="workflow"></a>Рабочий процесс
 Можно настроить и использовать рабочие процессы, связывающие задачи бизнес-процесса, выполняемые различными пользователями. Системные задачи, такие как автоматический учет, могут включаться в качестве шагов рабочего процесса, предшествующих задачам пользователя или выполняемых после них. Типичные шаги рабочего процесса – запрос и выдача разрешения на создание новых записей.  

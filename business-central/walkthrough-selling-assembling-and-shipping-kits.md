@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 01/31/2019
+ms.date: 04/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 4cbefdb46c6ba09dad64650123d6459135aa7afe
-ms.sourcegitcommit: d09f5ee0e164c7716f4ccb2ed71e2f9732a1f4f9
+ms.openlocfilehash: b717de6bcefc774b3fb92ed440cde9f3597f34ce
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/19/2019
-ms.locfileid: "852704"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "929749"
 ---
 # <a name="walkthrough-selling-assembling-and-shipping-kits"></a>Пошаговое руководство: продажа, сборка и отгрузка наборов
 
@@ -106,7 +106,7 @@ ms.locfileid: "852704"
 1.  Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка модуля Производство**, затем выберите связанную ссылку.  
 2.  На странице **Настройка модуля "Производство"** на экспресс-вкладке **Планирование** удалите значение в поле **Страховой запас времени подготовки по умолчанию**.  
 
-Создайте запасы для компонентов сборки, следуя указаниям раздела [Подготовка образца данных](walkthrough-selling-assembling-and-shipping-kits.md#setting-up-the-sample-data).  
+Создайте запасы для компонентов сборки, следуя указаниям раздела [Подготовка образца данных](walkthrough-selling-assembling-and-shipping-kits.md#prepare-sample-data).  
 
 ## <a name="story"></a>Сюжет  
 23 января Светлана, обработчик заказов на продажу, получает от "Магазина устройств" заказ на 3 единицы комплекта B, который является товаром сборки на заказ. Все три блока специально настроены и должны содержать мощную графическую плату и дополнительный блок ОЗУ. Дисководы обновлены до DWD, так как CD-приводы отсутствуют. Светлана знает, что единицы можно собирать немедленно, поэтому она не изменяет предложенную дату отгрузки: 23-е января.  

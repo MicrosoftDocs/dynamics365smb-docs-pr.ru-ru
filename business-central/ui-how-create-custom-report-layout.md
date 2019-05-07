@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: customized report, document layout, logo, personalize
-ms.date: 10/01/2018
+ms.date: 04/01/2019
 ms.author: jswymer
-ms.openlocfilehash: 2f86eb50422b5d780ea7a0be2f6798c0b2cc3bfd
-ms.sourcegitcommit: d09f5ee0e164c7716f4ccb2ed71e2f9732a1f4f9
+ms.openlocfilehash: 6f86df1f98d3f00405380a4e2790a5bf7919a390
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/19/2019
-ms.locfileid: "852336"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "935145"
 ---
 # <a name="create-and-modify-a-custom-report-or-document-layout"></a>Создание и изменение пользовательского макета отчета или документа
 По умолчанию отчет будет иметь встроенный макет отчета RDLC или Word либо оба типа. Невозможно изменить встроенные макеты. Однако можно создать собственные пользовательские макеты, с помощью которых можно изменить внешний вид отчета при его просмотре, печати или сохранении. Можно создать несколько пользовательских макетов ответов для одного отчета, а затем при необходимости переключаться между макетами, которые используются в отчете.

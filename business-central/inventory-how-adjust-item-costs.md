@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: cost adjustment, cost forwarding, costing method, inventory valuation, costing
-ms.date: 03/01/2019
+ms.date: 04/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 6688b89dc9ef05456bca11fc722514b8bd47b05d
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: dd48be8b92a03d50bc590d579de940599da6aa7e
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "803938"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "941684"
 ---
 # <a name="adjust-item-costs"></a>Корректировка себестоимости товаров
 Себестоимость товара (инвентарная стоимость), который вы покупаете, а позже продаете, может изменяться на протяжении его срока службы, например в результате добавления себестоимости перевозки к себестоимости покупки после продажи товара. Корректировка себестоимости особенно важна в ситуациях, когда товары продаются до того, как на их покупку выставляется счет. Чтобы всегда знать правильную инвентарную стоимость, необходимо регулярно корректировать себестоимость товара. Это гарантирует, что статистика продаж и прибыли всегда актуальна и финансовые KPI верны. Дополнительные сведения см. в разделе [Сведения о проектировании. Коррекция себестоимости](design-details-cost-adjustment.md).

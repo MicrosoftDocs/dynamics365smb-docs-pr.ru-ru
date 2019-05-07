@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2018
+ms.date: 04/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 9b3b6dc26c7af1d2104c5509ba98ba75927cbcad
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: 74e39f41a885f42dda8aa62f09a210508167982c
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "804265"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "941402"
 ---
 # <a name="setup-best-practices-supply-planning"></a>Рекомендации по настройке. Планирование поставок
 Планирование поставок является критически важной деловой областью. При правильной настройке и использовании планирование поставок позволяет организации избежать дефицита и сократить затраты на оформление заказов и инвентаризацию.  

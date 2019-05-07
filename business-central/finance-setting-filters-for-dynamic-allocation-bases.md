@@ -10,15 +10,15 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 11/13/2018
+ms.date: 04/01/2019
 ms.author: sgroespe
 redirect_url: finance-define-and-allocate-costs
-ms.openlocfilehash: fcf97328900bb21a85be51452b9e86da8398d195
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: 35f9a542d57bfe27c9a9ee48f4a41af7071cdd47
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "805228"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "935500"
 ---
 # <a name="setting-filters-for-dynamic-allocation-bases"></a>Настройка фильтров для базы динамического распределения
 Метод динамического распределения основан на изменяемых значениях. Например, число сотрудников по месту возникновения затрат или проданным товарам объекта затрат за определенный период времени. Существует 9 предварительно определенных баз распределения и 12 динамических диапазонов дат. Следует настроить различные фильтры на основе базы распределения.  

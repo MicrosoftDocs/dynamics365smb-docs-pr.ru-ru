@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: kit, kitting
-ms.date: 10/01/2018
+ms.date: 04/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 2f71dbbb4e7e4af19829f08243371bea1998b093
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: 4581e1f21e87190d75aa0048e9f5aabf8dd85fe0
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "804087"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "932531"
 ---
 # <a name="sell-assemble-to-order-items-and-inventory-items-together"></a>Совместная продажа товаров, собираемых на заказ, и складских товаров
 Если поле **Политика сборки** в карточке товара сборочного элемента имеет значение **Сборка на склад** процесс продажи по умолчанию предполагает, что товар уже собран и подобран из запасов, если он доступен. Поэтому сборочный заказ не создается автоматически и не привязывается к строке заказа на продажу. Если часть (или все) количества уже не доступна, можно создать сборочный заказа для остатка, заполнив поле **Количество для сборки на заказ** в строке заказа на продажу. Таким образом можно собирать товар на заказ, даже если он настроен на сборку на склад по умолчанию.  

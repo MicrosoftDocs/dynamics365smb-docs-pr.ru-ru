@@ -8,15 +8,15 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: direct-debit, collection, payment, sepa
-ms.date: 10/01/2018
+ms.date: 04/01/2019
 ms.author: sgroespe
 redirect_url: finance-collect-payments-with-sepa-direct-debit
-ms.openlocfilehash: 9a92b4ea321c0f4d8ff11cb8cbd93f3053974cbe
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: 4032fd0708dcb0d420045563354677c049321f7d
+ms.sourcegitcommit: addfb47612cc2e4e98dfd7e338b6f41cde405d5c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "804414"
+ms.lasthandoff: 04/16/2019
+ms.locfileid: "939062"
 ---
 # <a name="create-sepa-direct-debit-collection-entries-and-export-to-a-bank-file"></a>Создание операций погашения прямого дебета SEPA и их экспорт в файл банка
 Чтобы передать банку указание перечислить сумму платежа с банк. счета клиента на счет организации, создается операция погашения прямого дебета, которая содержит информацию о банковском счете клиента, использовавшихся счетах продаж и мандате прямого дебета. После операции погашения прямого дебета можно экспортировать файл XML, который вы отправили или загрузили в электронный банк для обработки. Любые платежи, которые банку не удалось обработать, будут сообщены вам вашим банком, после чего вам будет необходимо отклонить затронутые операции коллекции прямого дебета.  

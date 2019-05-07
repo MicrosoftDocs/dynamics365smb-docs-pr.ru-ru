@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2018
+ms.date: 04/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 1922c9c2112006b302851301224818f803d9f4e2
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: 7b9bfeea6a4a3f93559d49319257053aef2f7bec
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "804789"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "934168"
 ---
 # <a name="walkthrough-conducting-a-sales-campaign"></a>Пошаговое руководство. Проведение кампании по продажам
 Кампанией называется любой вид деятельности, в которой задействовано несколько контактных лиц. Важной составляющей ее настройки является выбор целевой аудитории. Для этого в [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью фильтров необходимо создать сегмент или группу контактных лиц.  

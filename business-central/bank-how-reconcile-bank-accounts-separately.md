@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: bank account balance, bank statement
-ms.date: 10/01/2018
+ms.date: 04/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: feb29e3cee1a55833566657a6a007af8854f98f5
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: 60b3e0d732125f60b092a0e089cabc2b82ad71ef
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "803946"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "932036"
 ---
 # <a name="reconcile-bank-accounts-separately"></a>Выверка банковских счетов по отдельности
 Для сверки банковских счетов в [!INCLUDE[d365fin](includes/d365fin_md.md)] с выписками, полученными из банка, начните с заполнения левой области на странице **Выверка банковского счета** с информацией из банковских выписок, которую вы затем будете сопоставлять (сверять) с операциями книги банковских счетов в правой области. Для заполнения строк банковской выписки удобно импортировать файл или поток банковской выписки.

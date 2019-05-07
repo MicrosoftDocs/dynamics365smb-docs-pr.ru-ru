@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: configure, initialize
-ms.date: 10/01/2018
+ms.date: 04/05/2019
 ms.author: edupont
-ms.openlocfilehash: 3085ef58adf25ae7212ac17894fa54e5c2f8794e
-ms.sourcegitcommit: d09f5ee0e164c7716f4ccb2ed71e2f9732a1f4f9
+ms.openlocfilehash: 3139273b09a223c84c452b5fbe2ee8b637a4c493
+ms.sourcegitcommit: addfb47612cc2e4e98dfd7e338b6f41cde405d5c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/19/2019
-ms.locfileid: "852083"
+ms.lasthandoff: 04/16/2019
+ms.locfileid: "969836"
 ---
 # <a name="setting-up-included365finincludesd365finmdmd"></a>Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)]
 [!INCLUDE[d365fin](includes/d365fin_md.md)] содержит стандартные конфигурации для большинства бизнес-процессов, но вы можете изменить их в соответствии с потребностями организации.
@@ -27,7 +27,7 @@ ms.locfileid: "852083"
 > [!NOTE]
 > Можно настроить новую организацию в [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью служб RapidStart Services, которые представляют собой инструмент, предназначенный для ускорения развертывания, повышения качества внедрения, использования единого подхода к внедрению и повышения производительности за счет автоматизации и упрощения повторяющихся задач. Дополнительные сведения см. в разделе [Настройка организации со службами RapidStart Services](admin-set-up-a-company-with-rapidstart.md).
 
-Некоторые функции, как общие, так и для конкретных бизнес-процессов, можно настроить вручную в дополнение к сопровождаемой настройке. Ниже приводится список некоторых функций, которые можно настроить вручную.
+Некоторые функции, как общие, так и для конкретных бизнес-процессов, можно настроить вручную в дополнение к мастеру настройки. Ниже приводится список некоторых функций, которые можно настроить вручную.
 
 | Действие | Ссылка |
 | --- | --- |
@@ -58,18 +58,18 @@ ms.locfileid: "852083"
 Для некоторых областей требуется, чтобы вы были администратором в вашей подписке [!INCLUDE[d365fin](includes/d365fin_md.md)]. Дополнительные сведения см. в разделе [Администрирование](admin-setup-and-administration.md).  
 
 ## <a name="see-also"></a>См. также
+
 [Администрация](admin-setup-and-administration.md)  
 [Финансы](finance.md)  
 [Продажи](sales-manage-sales.md)  
 [Покупки](purchasing-manage-purchasing.md)  
-[Наличие](inventory-manage-inventory.md)    
+[Запасы](inventory-manage-inventory.md)  
 [Управление проектами](projects-manage-projects.md)  
-[Основные Средства](fa-manage.md)    
+[Основные Средства](fa-manage.md)  
 [Управление сборкой](assembly-assemble-items.md)  
 [Производство](production-manage-manufacturing.md)  
 [Управление складом](warehouse-manage-warehouse.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
-[Администрация](admin-setup-and-administration.md)  
 [Создание новых организаций в [!INCLUDE[d365fin](includes/d365fin_md.md)]](about-new-company.md)  
 [Приступая к работе](product-get-started.md)  
 

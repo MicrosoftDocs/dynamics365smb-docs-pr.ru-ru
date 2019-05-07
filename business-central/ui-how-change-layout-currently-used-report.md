@@ -10,19 +10,22 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: customized report, document layout, logo, personalize
-ms.date: 10/01/2018
+ms.date: 04/01/2019
 ms.author: jswymer
-ms.openlocfilehash: a68c26e94aa4adda7c1f546e57331a741dcfe94b
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: f24f1cd24a31ddbd0b455b876821ae0173a677c3
+ms.sourcegitcommit: addfb47612cc2e4e98dfd7e338b6f41cde405d5c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "805311"
+ms.lasthandoff: 04/16/2019
+ms.locfileid: "969813"
 ---
 # <a name="change-which-layout-is-currently-used-on-a-report"></a>Изменение макета, в настоящее время используемого в отчете
 Отчет можно настроить с использованием нескольких макетов, между которыми затем при необходимости можно будет переключаться.
 
 В зависимости от доступных для отчета макетов можно принять решение об использовании встроенного макета отчета RDLC, встроенного макета отчета Word или пользовательского макета. Дополнительные сведения о макетах отчетов RDLC и Word, встроенных и пользовательских макетах и др. см. в разделе [Управление макетами отчетов](ui-manage-report-layouts.md).
+
+> [!TIP]  
+> Отчеты о документах (не списки), в которых используется макет отчета Word, обычно быстрее, чем те, в которых используется макет отчета RDLC. Поэтому если имеется выбор между макетом отчета Word или RDLC для отчета по документам, используйте макет отчета Word для оптимальной производительности.  
 
 ## <a name="to-change-the-layout-that-is-used-on-a-report"></a>Изменение макета, используемого в отчете
 1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Выбор макета отчета**, затем выберите связанную ссылку.  

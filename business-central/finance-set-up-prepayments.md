@@ -5,14 +5,14 @@ author: edupont04
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: prepayment
-ms.date: 12/04/2018
+ms.date: 04/01/2019
 ms.author: edupont
-ms.openlocfilehash: 3038fc256ec45b8eb51abe3f71b7fcc7d273b353
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: e8a6e0834b259358de5c07d3f83a7b5477a0d3a7
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "804577"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "931987"
 ---
 # <a name="set-up-prepayments"></a>Настройка предоплаты
 Если требуется, чтобы клиенты осуществляли платежи до отгрузки им заказов, или если аналогичное требование выдвигают поставщики в отношении вашей организации, можно использовать функцию предоплаты. Благодаря функции предоплаты можно выставлять счета и собирать необходимые авансы от клиентов либо переводить авансы поставщикам, а также обеспечивать учет всех частичных платежей для счета. Дополнительные сведения в разделе [Создание счетов на предоплату](finance-how-to-create-prepayment-invoices.md).

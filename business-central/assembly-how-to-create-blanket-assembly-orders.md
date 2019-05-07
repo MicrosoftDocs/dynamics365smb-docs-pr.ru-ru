@@ -1,6 +1,6 @@
 ---
 title: Создание общих заказов на сборку | Документы Майкрософт
-description: Если поле **Метод пополнения** в карточке товара содержит значение **Сборка**, то метод сбора поставки товара по умолчанию — по определенным компонентам, а также может быть по конкретному ресурсу.
+description: Создавайте общие заказы на продажу для настраиваемых сборочных элементов до периодического создания фактических заказов на продажу по договору общего заказа.
 services: project-madeira
 documentationcenter: ''
 author: SorenGP
@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: kit, kitting
-ms.date: 12/20/2018
+ms.date: 04/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 8796ccf6ce73ded327fad35573a2268e249fb7a7
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: 06e760f10ae1b427ebc3fb9540740f126caf2d3c
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "805022"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "934679"
 ---
 # <a name="create-blanket-assembly-orders"></a>Создание общих заказов на сборку
 Можно использовать функцию управления сборкой, чтобы настроить сборочный элемент по запросу клиента во время процесса продаж. Дополнительные сведения см. в разделе [Продажа товара, собранного на заказ](assembly-how-to-sell-items-assembled-to-order.md).  

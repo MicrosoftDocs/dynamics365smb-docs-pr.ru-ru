@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: personnel, people, employee, staff, HR
-ms.date: 10/01/2018
+ms.date: 04/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 209a36d19d38f62aa94f77f8ef33b849c078dd67
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: 5210258f1e217149f0d41e1edcfaf8a8c0c3be79
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "805130"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "932774"
 ---
 # <a name="manage-human-resources"></a>Управление персоналом
 В [!INCLUDE[d365fin](includes/d365fin_md.md)] можно хранить подробные записи о сотрудниках. В программе можно регистрировать и хранить такие сведения о сотрудниках, как трудовые соглашения, конфиденциальная информация, квалификации и контактные данные сотрудников.

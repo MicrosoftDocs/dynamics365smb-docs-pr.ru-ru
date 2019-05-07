@@ -7,14 +7,14 @@ ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.date: 10/01/2018
+ms.date: 04/01/2019
 ms.author: edupont
-ms.openlocfilehash: 1774492a94b271843ff5ae5bdd11ad285f48c7a3
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: edcad18942d84240d5c3e7327f778bbd82f132ec
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "804474"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "941592"
 ---
 # <a name="troubleshooting-self-service-sign-up"></a>Устранение неполадок при самостоятельной регистрации
 Регистрация в [!INCLUDE[d365fin](includes/d365fin_md.md)] проста и выполняется очень быстро. Вы можете создать бесплатную учетную запись, даже если у вас есть существующая организация. В этой статье рассмотрены проблемы, которые могут возникнуть при регистрации.

@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2018
+ms.date: 04/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 0e52344ffe60a03e6bb9a64e798f639e9c3109a9
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: 8f670b125532300af169cc82f318abddd768e417
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "804702"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "931078"
 ---
 # <a name="setup-best-practices-costing-method"></a>Рекомендации по настройке. Метод учета себестоимости
 **Метод учета себестоимости** в карточке товара определяет поток операций себестоимости товара, выполняется ли капитализация фактической или бюджетной стоимости, которая используется при расчете себестоимости.  

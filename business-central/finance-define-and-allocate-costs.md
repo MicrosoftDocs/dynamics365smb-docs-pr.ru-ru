@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 11/13/2018
+ms.date: 04/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: d67329ce09b40019d9568abee47cef33e3b60e85
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: 79e925efff4b8ce7b779e46fe40e1dfa225716a9
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "804082"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "941753"
 ---
 # <a name="defining-and-allocating-costs"></a>Определение и распределение затрат
 Распределения затрат перемещают затраты и доходы между типами затрат, местами возникновения затрат и объектами затрат. Можно определить любое необходимое число распределений. Каждое распределение состоит из:  

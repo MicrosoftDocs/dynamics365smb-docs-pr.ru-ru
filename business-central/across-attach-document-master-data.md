@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: upload, attach, attachments
-ms.date: 02/21/2019
+ms.date: 04/01/2019
 ms.author: edupont
-ms.openlocfilehash: f05d12481936e8159631e16f596710cfb13b3b6e
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: cfed7b7946aaa24544c6ae47dfc9ebc39c00716d
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "804772"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "934564"
 ---
 # <a name="attaching-files-to-cards-and-documents"></a>Прикрепление файлов к картам и документам
 Можно прикреплять изображения, документы и файлы других типов ко всем карточкам, таким как карточки товаров и карточки заданий, а также можно прикреплять файлы ко всем типам документов покупки и продажи.

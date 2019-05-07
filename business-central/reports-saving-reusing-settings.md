@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: customization, personalization
-ms.date: 10/01/2018
+ms.date: 04/01/2019
 ms.author: jswymer
-ms.openlocfilehash: cbbb072c4be3ec41684e426451c394cfa978c390
-ms.sourcegitcommit: d09f5ee0e164c7716f4ccb2ed71e2f9732a1f4f9
+ms.openlocfilehash: 3e7b00d54a9c655a77b7b7f4854e59993866427e
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/19/2019
-ms.locfileid: "853121"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "941519"
 ---
 # <a name="managing-saved-settings-on-reports"></a>Управление сохраненными настройками в отчетах
 Во время выполнения отчетов пользователи видят страницу, которая позволяет задать некоторые параметры и фильтры для изменения данных, которые будут включены в отчет. Эта страница называется страницей запроса отчета. Отчет может содержать одну или несколько *сохраненных настроек*, которые можно применять к отчету со страницы запроса отчета. *Сохраненные настройки* в целом являются заранее заданными параметрами и фильтрами. Сохраненные настройки обеспечивают быстрый и удобный способ последовательного создания отчетов, содержащих правильные данные. Дополнительные сведения о том, как используются сохраненные настройки, см. в разделе [Использование сохраненных параметров](ui-work-report.md#SavedSettings).

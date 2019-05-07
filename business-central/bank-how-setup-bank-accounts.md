@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: Yodlee, feed, stream
-ms.date: 10/01/2018
+ms.date: 04/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 3b52026643eee4fa2eb4625c99c881789e0373ed
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: e3ccc70405b286929c9d267e76c3ba76fd2e7e4a
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "805161"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "931489"
 ---
 # <a name="set-up-bank-accounts"></a>Настройка банковских счетов
 Банковские счета в [!INCLUDE[d365fin](includes/d365fin_md.md)] используются для того, чтобы отслеживать банковские транзакции. Счета могут быть деноминированы в локальной валюте (в рублях), либо в иностранной валюте. После настройки банковских счетов можно использовать функцию «Печать платежей».
@@ -50,5 +50,6 @@ ms.locfileid: "805161"
 
 ## <a name="see-also"></a>См. также
 [Настройка банковских операций](bank-setup-banking.md)  
+[Настройка учетных групп](finance-posting-groups.md)  
 [Управление банковскими счетами](bank-manage-bank-accounts.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 01/22/2019
+ms.date: 04/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 7dc7fb43c465cc2098ceacb6f5906303fefd1f9d
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: 73cbd1f7a36e9493495464357117e28732cf5cd2
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "803893"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "935169"
 ---
 # <a name="create-bins"></a>Создание ячеек
 Наиболее эффективным способом создания ячеек склада является генерация групп одинаковых ячеек в журнале создания ячеек, но ячейки также можно создавать по отдельности из карточки склада. Можно также использовать функцию на странице **Журнал создания ячеек** для автоматического создания ячеек.  

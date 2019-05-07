@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: scrap
-ms.date: 03/01/2019
+ms.date: 04/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: bc3f97ab76117854cd7a9dd4584149b79e4b5066
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: 8afc427ab4bce255c69d797f659b4578723cc023
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "804247"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "941543"
 ---
 # <a name="dispose-of-or-retire-fixed-assets"></a>Списание или выбытие основных средств
 При продаже основного средства или его списании по другим причинам необходимо учесть сумму выбытия для расчета и регистрации прибыли или убытков. Операция выбытия должна быть последней операцией, учтенной для основного средства. Для частично списанного основного средства можно учесть более одной операции выбытия. Общая сумма всех учтенных сумм выбытия должна быть суммой по кредиту.  

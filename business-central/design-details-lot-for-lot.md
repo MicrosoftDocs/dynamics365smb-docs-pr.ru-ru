@@ -10,15 +10,15 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2018
+ms.date: 04/01/2019
 ms.author: sgroespe
 redirect_url: design-details-handling-reordering-policies
-ms.openlocfilehash: 7bc65fdb33b94b313b7d2b5b046156ca1d0788a2
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: 3b80738be6dfe9d171a3cad56edf56cfa4960180
+ms.sourcegitcommit: addfb47612cc2e4e98dfd7e338b6f41cde405d5c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "804476"
+ms.lasthandoff: 04/16/2019
+ms.locfileid: "938138"
 ---
 # <a name="design-details-lot-for-lot"></a>Сведения о проектировании: партия на партию
 Политика работы с индивидуальными партиями является наиболее гибкой, потому что система реагирует только на фактический спрос, а также на предполагаемый спрос прогнозируемых и общих заказов, а затем сопоставляет количество заказа с учетом спроса. Политика обработки отдельных партий ориентирована на товары категории А и В, где запасы могут быть приняты, однако этого следует избегать.  

@@ -10,15 +10,15 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: relationship, prospect
-ms.date: 10/01/2018
+ms.date: 04/01/2019
 ms.author: jswymer
 redirect_url: marketing-setup-contacts
-ms.openlocfilehash: d069a22603a969220a62e2c7458cb6259cfbc630
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: 22530c8e1bd3f148f5f158e6210668020c24d387
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "804156"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "941566"
 ---
 # <a name="set-up-alternative-addresses-for-contacts"></a>Настройка альтернативных адресов контактов
 Можно присваивать альтернативные адреса, по которым контактам иногда отсылается почта, например летний коттедж. Можно также присваивать один или несколько диапазонов дат каждому альтернативному адресу, созданному для контакта, чтобы указать, когда каждый из адресов действителен.

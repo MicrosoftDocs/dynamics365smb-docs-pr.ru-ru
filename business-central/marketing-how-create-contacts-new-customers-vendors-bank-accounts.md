@@ -10,15 +10,15 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: relationship, client, prospect
-ms.date: 10/01/2018
+ms.date: 04/01/2019
 ms.author: jswymer
 redirect_url: marketing-create-contact-companies
-ms.openlocfilehash: 5f5e690a8db82c2f95f190d5fac4b6430f900b57
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: ccddaa5d1c1a5a31c6b82b99520b90bb28fe64dd
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "805174"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "937874"
 ---
 # <a name="create-a-customer-vendor-or-bank-account-from-a-contact"></a>Создание клиента, поставщика или банковского счета из клиента
 Вам может понадобиться записать некоторые существующие контакты как клиентов, поставщиков или банковские счета. Создание клиента, поставщика или банковского счета из контакта позволяет использовать существующие данные. При создании клиента, поставщика или банковского счета таким образом они синхронизируются с контактом. Синхронизация делает общую информацию между контактами и клиентами, поставщиками или банковским счетом одинаковой.

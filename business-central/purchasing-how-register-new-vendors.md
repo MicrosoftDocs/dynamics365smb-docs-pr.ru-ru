@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: supplier
-ms.date: 10/01/2018
+ms.date: 04/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: c8f8620d21b9e2187e968d4015fd0f12446d30c9
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: 9f388b788e8788049ee30567972090984063cad1
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "805037"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "930359"
 ---
 # <a name="register-new-vendors"></a>Регистрация новых поставщиков
 Поставщики предоставляют продукцию, которую вы продаете. Каждый поставщик, у которого производится покупка, должен быть зарегистрирован в карточке поставщика.
@@ -54,6 +54,7 @@ ms.locfileid: "805037"
    Шаблон поставщика добавляется в список шаблонов поставщиков, чтобы можно было использовать его для создания новых карточек поставщиков.
 
 ## <a name="see-also"></a>См. также
+[Объединение повторяющихся записей](sales-how-merge-duplicate-records.md)  
 [Создание серий номеров](ui-create-number-series.md)  
 [Покупки](purchasing-manage-purchasing.md)  
 [Регистрация покупок](purchasing-how-record-purchases.md)   

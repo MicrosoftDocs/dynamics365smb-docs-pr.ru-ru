@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: sandbox, demo, develop
-ms.date: 02/15/2019
+ms.date: 04/01/2019
 ms.author: solsen
-ms.openlocfilehash: 91db02673c1e408927d9863af9ec6751bc33e480
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: 113c081e60b825c48cfb85ae3475a713a1a1e215
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "804704"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "937950"
 ---
 [!INCLUDE[d365fin_early_release](includes/d365fin_early_release.md.md)]
 
@@ -38,8 +38,7 @@ ms.locfileid: "804704"
 
 5. Выберите **Узнать больше**, чтобы ознакомиться с сценариями, которые можно попробовать в среде песочницы. Или выберите **Закрыть**, чтобы перейти в ролевой центр экземпляра "песочницы" [!INCLUDE[d365fin](includes/d365fin_md.md)].
 6. В верхней части ролевого центра появится уведомление о том, что это среда песочницы. Тип среды также отображается в строке заголовка клиента.
-<!-- ![Sandbox RoleCenter Notification](./media/across-sandbox/sandbox-rolecenter-notification.png) --> 
-В среде песочницы создан новый арендатор. Для этого арендатора загружены демонстрационные данные по умолчанию компании CRONUS. При создании песочницы никакие данные не копируются и не переносятся каким-либо другим образом из производственной среды.
+<!-- ![Sandbox RoleCenter Notification](./media/across-sandbox/sandbox-rolecenter-notification.png) --> В среде песочницы создан новый арендатор. Для этого арендатора загружены демонстрационные данные по умолчанию компании CRONUS. При создании песочницы никакие данные не копируются и не переносятся каким-либо другим образом из производственной среды.
 
 7. В любой момент можно вернуться на страницу **Среда "песочницы"** и сбросить среду "песочницы".
 > [!NOTE]  

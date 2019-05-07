@@ -4,18 +4,16 @@ description: Ответы на часто задаваемые вопросы о
 author: mikebcMSFT
 ms.service: dynamics365-business-central
 ms.topic: article
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.reviewer: edupont04
 ms.search.keywords: keyboarding, productivity, how do i, filter pane
-ms.date: 10/01/2018
+ms.date: 04/05/2019
 ms.author: mikebc
-ms.openlocfilehash: a4bcdca8ecff80d8d47bf9c198cd69a71f09cd2a
-ms.sourcegitcommit: d09f5ee0e164c7716f4ccb2ed71e2f9732a1f4f9
+ms.openlocfilehash: 0f9f5db0e7031156848a5bd15c711d3108f3490b
+ms.sourcegitcommit: addfb47612cc2e4e98dfd7e338b6f41cde405d5c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/19/2019
-ms.locfileid: "852060"
+ms.lasthandoff: 04/16/2019
+ms.locfileid: "969859"
 ---
 # <a name="searching-and-filtering-faq"></a>Вопросы и ответы по поиску и фильтрации
 Эта статья отвечает на часто возникающие вопросы по поиску и фильтрации.
@@ -36,7 +34,10 @@ ms.locfileid: "852060"
 Ваши фильтры и коррекции к заранее определенными фильтрам, запоминаются в сеансе (пока вы остаетесь в системе), даже если вы ушли со страницы. В данный момент невозможно постоянно сохранить фильтры. В отличие от фильтров, искомый текст не запоминается при уходе со страницы.
 
 ## <a name="is-this-the-same-as-advanced-filters-and-limit-totals-in-microsoft-dynamics-nav"></a>Это то же самое, что расширенные фильтры и ограничение итогов в Microsoft Dynamics NAV?
-[!INCLUDE[d365fin](includes/d365fin_md.md)] построен на основе этих популярных функций и обеспечивает современный и удобный опыт работы для поиска и анализа данных. С дополнительными сочетаниями клавиш и введением поиска, [!INCLUDE[d365fin](includes/d365fin_md.md)] превосходит функциональные возможности, предоставляемые Dynamics NAV.
+
+[!INCLUDE[d365fin](includes/d365fin_md.md)] построен на основе этих популярных функций и обеспечивает современный и удобный опыт работы для поиска и анализа данных. С дополнительными сочетаниями клавиш и введением поиска, [!INCLUDE[d365fin](includes/d365fin_md.md)] превосходит функциональные возможности, предоставляемые Dynamics NAV.  
+
+См. также раздел [Доступна ли область фильтров для фильтрации отчетов?](#is-the-filter-pane-available-for-filtering-reports)  
 
 ## <a name="can-i-search-and-filter-using-the-companion-apps-and-outlook-addin"></a>Я могу искать и фильтровать с помощью сопутствующих приложений и надстройки Outlook?
 На различных целевых дисплеях, таких как мобильные устройства или в Outlook, можно искать в списках, но нельзя фильтровать по отдельным полям в большинстве случаев.
@@ -54,5 +55,6 @@ ms.locfileid: "852060"
 Как администратор локальной версии, вы увеличиваете ограничение времени поиска, изменяя настройку **Время ожидания поиска** сервера [!INCLUDE[prodshort](includes/prodshort.md)]. Дополнительные сведения см. в разделе [Настройка сервера Business Central Server](https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/administration/configure-server-instance?#Database) в справке для ИТ-специалистов и разработчиков Business Central.
 
 ## <a name="see-also"></a>См. также
+
 [Приступая к работе](product-get-started.md)  
-[Сортировка, поиск и фильтрация в списках](ui-enter-criteria-filters.md)
+[Сортировка, поиск и фильтрация в списках](ui-enter-criteria-filters.md)  

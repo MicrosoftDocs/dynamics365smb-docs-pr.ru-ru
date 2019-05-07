@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2018
+ms.date: 04/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 678b15b8d15dba477ac09c2651964525f4afe26a
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: edb3ef5d977994588feb4331cf8f15e6f1b32438
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "804229"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "932957"
 ---
 # <a name="exchanging-data"></a>Обмен данными
 Доступен обмен данными между [!INCLUDE[d365fin](includes/d365fin_md.md)] и внешними файлами или потоками в связи с выполнением бизнес-задач общего характера, таких как отправка и получение электронных документов и импорт или экспорт банковских файлов.  

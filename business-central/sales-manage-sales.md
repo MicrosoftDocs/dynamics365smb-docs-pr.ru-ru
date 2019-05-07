@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: trade, sell
-ms.date: 10/01/2018
+ms.date: 04/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 6c8c3f39d782a33896e531c4bfdf95b589458f99
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: 6f80d2e1a1a864d5aaff0660d21603f91c5ce229
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "804866"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "932247"
 ---
 # <a name="sales"></a>Продажи
 Счет продажи или заказы на продажу создаются для записи соглашения с клиентом о продаже определенных товаров на определенных условиях доставки и оплаты.
@@ -51,6 +51,8 @@ ms.locfileid: "804866"
 |Продавайте сборочные элементы, которых нет в данный момент в наличии, создавая связанный заказ на сборку для поставки полного или частичного количества по заказу на продажу.|[Продажа товара, собранного на заказ](assembly-how-to-sell-items-assembled-to-order.md)|
 |Выставление клиенту одного счета за несколько расходных накладных путем объединения расходных накладных в одном счете.|[Объединение поставок в один счет](sales-how-to-combine-shipments-on-a-single-invoice.md)|
 |Оповещайте своих клиентов о датах доставки заказа путем расчета даты "В наличии" или "Доступно для распределения ".|[Расчет сроков планирования заказов](sales-how-to-calculate-order-promising-dates.md)|
+|Регистрируйте ваши оценки для будущих продаж, указанные по товарам и по периодам, чтобы они функционировали в основном как входные данные для производственного планирования.|[Создание прогноза](production-how-to-create-a-forecast.md)|
+|Разрешение конфликта, когда две или более записей существуют для одного и того же клиента.|[Объединение повторяющихся записей](sales-how-merge-duplicate-records.md)|
 
 ## <a name="see-also"></a>См. также
 [Настройка продаж](sales-setup-sales.md)  

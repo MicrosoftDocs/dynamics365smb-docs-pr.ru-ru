@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: feature overview, functionality
-ms.date: 03/13/2019
+ms.date: 04/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: ac385409d72fea4ee43f7549a86da3516a299608
-ms.sourcegitcommit: d09f5ee0e164c7716f4ccb2ed71e2f9732a1f4f9
+ms.openlocfilehash: 063de8e16c01569c4a25e825b8804898a6f80e79
+ms.sourcegitcommit: addfb47612cc2e4e98dfd7e338b6f41cde405d5c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/19/2019
-ms.locfileid: "853098"
+ms.lasthandoff: 04/16/2019
+ms.locfileid: "939466"
 ---
 # <a name="general-business-functionality"></a>Общие бизнес-функции
 [!INCLUDE[d365fin](includes/d365fin_md.md)] включает специальные функции для типичных деловых областей компании, таких как управление финансами или продажами. Дополнительные сведения см. в разделе [Функциональные бизнес-возможности](across-business-functionality.md).
@@ -40,6 +40,7 @@ ms.locfileid: "853098"
 |Прикрепляйте изображения, документы и файлы других типов ко всем карточкам, таким как карточки товаров и карточки заданий, а также прикрепляйте файлы ко всем типам документов покупки и продажи.|[Прикрепление файлов к картам и документам](across-attach-document-master-data.md)|
 |Работа с данными Business Central в Excel.|[Экспорт бизнес-данных в Excel](about-export-data.md)|
 |Разберитесь, что происходит при выборе действия **Учет**.|[Учет документов и журналов](ui-post-documents-journals.md)|
+|Проверка результата учета перед собственно учетом.|[Предварительный просмотр результатов учета](ui-how-preview-post-results.md)| 
 |Узнайте о том, как работать с финансовыми журналами, которые используются для учета на счетах главной книги и других счетах, таких как банковские счета, счета клиентов, поставщиков или основных средств. |[Работа с финансовыми журналами](ui-work-general-journals.md) |
 | Планирование отчета для его выполнения в заданную дату и время. |[Планирование выполнения отчета](ui-work-report.md#ScheduleReport) |
 |Система может помогать выполнять задачи быстрее и с меньшим числом ошибок благодаря автоматическому заполнению полей или строк данными, которые в противном случае вам пришлось бы рассчитываться и вводить самостоятельно.|[Разрешение Business Central предлагать значения](ui-let-system-suggest-values.md)|

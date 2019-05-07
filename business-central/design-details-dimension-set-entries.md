@@ -10,17 +10,17 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: design, dimensions, codeunit
-ms.date: 10/01/2018
+ms.date: 04/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 5563241784aaf8bfa1a29f8568411be657647cf7
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: c6b66ecee87e1fd128733f541d46b97f44af0453
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "804644"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "935663"
 ---
 # <a name="design-details-dimension-set-entries"></a>Сведения о проектировании: операции набора измерений
-Документация содержит подробные технические сведения о концепциях и принципах, используемых для перегруппировки функции хранения и учета операций измерения в [!INCLUDE[d365fin](includes/d365fin_md.md)]. В начале документа приводится концептуальный обзор переконструирования. Затем поясняется техническая архитектура с целью понять, как осуществляется перегруппировка. Наконец, в ней приводятся примеры кода для подготовки к миграции и обновлению кодов измерений.  
+Документация содержит подробные технические сведения о концепциях и принципах функции хранения и учета операций измерения в [!INCLUDE[d365fin](includes/d365fin_md.md)]. В начале документа приводится концептуальный обзор. Затем рассматривается техническая архитектура. Наконец, в ней приводятся примеры кода для подготовки к миграции и обновлению кодов измерений из версий до Dynamics NAV 2013R2.  
 
 ## <a name="in-this-section"></a>В этом разделе  
 [Обзор записей набора измерений](design-details-dimension-set-entries-overview.md)  

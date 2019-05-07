@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2018
+ms.date: 04/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: a3c8910ad937ec4283ce0803f787a4fe6aed071d
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: a26cafc11479d7065645947f63fa93d28ddb824f
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "804394"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "941777"
 ---
 # <a name="design-details-assembly-order-posting"></a>Сведения о проектировании: учет заказа на сборку
 Учет заказа на сборку основан на тех же принципах, что и учет похожих операций заказов на продажу и потребления/выход производства. Однако эти принципы объединены в заказах на сборку, которые имеют собственный пользовательский интерфейс учета, как в заказах на продажу, в то время как фактический учет операций осуществляется в фоновом режиме в виде прямого учета журнала товаров и ресурсов, как для производственного потребления, выхода и производственной мощности.  

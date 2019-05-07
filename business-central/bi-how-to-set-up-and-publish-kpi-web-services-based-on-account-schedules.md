@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2018
+ms.date: 04/01/2019
 ms.author: bholtorf
-ms.openlocfilehash: 89ea440851c359db7e08d4f0265a647cb9424330
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: a2d2394201f101ea368cfc616bf3c293c4c51e98
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "804515"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "941356"
 ---
 # <a name="set-up-and-publish-kpi-web-services-based-on-account-schedules"></a>Настройка и публикация веб-служб ключевых показателей эффективности, которые основаны на финансовых отчетах
 На странице **Настройка веб-службы ключевых показателей эффективности финансового отчета** можно задать способ показа сведений KPI финансового графика и отдельные финансовые графики, на которых основаны KPI. При выборе кнопки **Публикация веб-службы** настроенные сведения ключевых показателей эффективности для финансового отчета добавляются в список опубликованных веб-служб на странице **Веб-службы**.  
