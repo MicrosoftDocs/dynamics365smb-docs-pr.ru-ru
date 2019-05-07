@@ -8,20 +8,20 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: bank file export, re-export, bank transfer, AMC, bank data conversion service, funds transfer
-ms.date: 10/01/2018
+ms.date: 04/01/2019
 ms.author: sgroespe
 redirect_url: finance-make-payments-with-bank-data-conversion-service-or-sepa-credit-transfer
-ms.openlocfilehash: 14015c089e3cd6db19a12fe4eed72d523f3aefc5
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: 539aac89d2da6b2eb81da7f6df729cdb5bc15cb1
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "804284"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "926562"
 ---
 # <a name="export-payments-to-a-bank-file"></a>Экспорт платежей в банковский файл
 Когда все будет готово для осуществления платежей поставщикам или возмещения расходов ваших сотрудников, можно экспортировать файл со сведениями о платежах в строках на странице **Журнал платежей**. Затем можно отправить файл в банк для обработки соответствующих денежных переводов.
 
-В общей версии [!INCLUDE[d365fin](includes/d365fin_md.md)] настраивается и подключается глобальный поставщик услуг для преобразования банковских данных в любой формат файла, требуемый банком. В версиях для Северной Америки одну службу можно использовать для отправки файлов платежей как электронного платежа (EFT), однако процесс немного отличается. См. шаг 6 в разделе "Экспорт платежей в банковский файл".    
+В общей версии [!INCLUDE[d365fin](includes/d365fin_md.md)] настраивается и подключается глобальный поставщик услуг для преобразования банковских данных в любой формат файла, требуемый банком. В версиях для Северной Америки одну службу можно использовать для отправки файлов платежей как электронного платежа (EFT), однако процесс немного отличается. См. шаг 6 в разделе [Экспорт платежей в банковский файл](finance-make-payments-with-bank-data-conversion-service-or-sepa-credit-transfer.md#to-export-payments-to-a-bank-file).    
 
 > [!NOTE]  
 >   Прежде чем можно будет экспортировать файлы платежей из журнала платежей, следует указать электронный формат для используемого банковского счета и включить службу конвертации банковских данных. Дополнительные сведения см. в разделах [Настройка банковских счетов](bank-how-setup-bank-accounts.md) и [Настройка службы конвертации банковских данных](bank-how-setup-bank-data-conversion-service.md). Кроме того, необходимо установить флажок **Разрешить экспорт платежей** на странице **Разделы финансового журнала**. Дополнительные сведения см. в разделе [Работа с финансовыми журналами](ui-work-general-journals.md).  

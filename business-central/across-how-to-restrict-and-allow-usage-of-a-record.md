@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2018
+ms.date: 04/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: a95eaa2f0933c6724b1e9158c675ad1a27e0ba2a
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: 2a2ff204f2d4b44c84bf1eecfce374b6174432fa
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "804601"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "927131"
 ---
 # <a name="restrict-and-allow-usage-of-a-record"></a>Ограничение и разрешение использования записи
 Если нужно ограничить использование записи в определенных видах деятельности, например, до утверждения записи, можно встроить в рабочий процесс два отклика, управляющих использованием записи. Один отклик процесса будет ограничивать использование записи, определенное событием и условиями рабочего процесса. Другой отклик рабочего процесса будет разрешать использование записи, определенное событием и условиями рабочего процесса. Для этой цели в универсальной версии [!INCLUDE[d365fin](includes/d365fin_md.md)] доступно два отклика: **Ограничить использование записи** и **Разрешить использование записи**.

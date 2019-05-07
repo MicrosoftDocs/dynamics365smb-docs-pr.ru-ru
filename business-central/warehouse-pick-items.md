@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 01/22/2019
+ms.date: 04/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 6e9c21dcec2932bcc2b93648289699d6d062bf78
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: 0e42f81a252971b0c97e24e118ec5159ce5db0d5
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "805245"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "929339"
 ---
 # <a name="pick-items"></a>Подбор товаров
 Складская операция подбора товаров до их отгрузки или потребления выполняется различными способами в зависимости от настроек функций управления складом. Сложность может колебаться от полного отсутствия функций склада до базовых конфигураций склада для поочередной обработки заказов в ходе одной или нескольких операций; кроме того, может использоваться расширенная конфигурация, когда все складские операции должны выполняться в рамках расширенного рабочего процесса. Дополнительные сведения см. в разделе [Настройка управления складом](warehouse-setup-warehouse.md).

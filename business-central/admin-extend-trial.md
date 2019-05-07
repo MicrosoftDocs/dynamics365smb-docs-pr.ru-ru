@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 01/16/2018
+ms.date: 04/01/2019
 ms.author: bholtorf
-ms.openlocfilehash: 95a00ec61db3b65b2be729bf0b68da7af960d6ab
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: f41cdfb90ab7ef6cff74205edfa4393c7da5f3d2
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "804537"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "925974"
 ---
 # <a name="need-more-time-to-decide-whether-to-subscribe"></a>Нужно больше времени на принятие решения о подписке?
 Важно принять правильное решение при выборе бизнес-приложения, и мы знаем, что может потребоваться определенное время на изучение всех аспектов [!INCLUDE[d365fin](includes/d365fin_md.md)]. Если необходимо больше времени для проведения оценки, вы можете самостоятельно продлить пробный период еще на 30 дней. Если срок действия пробной версии подходит к концу, при входе в систему отображается уведомление с предупреждением. Уведомление содержит ссылку на руководство **Продление пробного периода**, которое можно использовать для продления пробного периода. Дополнительные 30 дней начинаются с момента выбора пункта **Продлить пробный период** в руководстве.

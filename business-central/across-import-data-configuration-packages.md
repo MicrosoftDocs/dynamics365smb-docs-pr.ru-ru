@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: migration, Excel
-ms.date: 10/01/2018
+ms.date: 04/01/2019
 ms.author: edupont
-ms.openlocfilehash: f5ca69c1e542a9b5846c99b03103fd9b2be86499
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: 0d31e710c0b5d9e1dfa63c9c653b740fdcc12f11
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "804024"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "926536"
 ---
 # <a name="importing-business-data-from-other-finance-systems"></a>Импорт бизнес-данных из других финансовых систем
 При регистрации в [!INCLUDE[d365fin](includes/d365fin_md.md)] вы можете создать пустую организации, чтоб загрузить собственные данные и протестировать новую организацию [!INCLUDE[d365fin](includes/d365fin_md.md)]. В зависимости от финансового решения, которое вы используете сейчас, вы можете перенести информацию о клиентах, поставщиках, запасах и банковских счетах.  
@@ -31,6 +31,8 @@ ms.locfileid: "804024"
 
 > [!NOTE]  
 > Для более крупной работы по реализации можно использовать службы RapidStart Services для [!INCLUDE[d365fin](includes/d365fin_md.md)], которые представляют собой обширный набор средств для настройки новых решений, основанных на бизнес-требованиях и данных настройки клиентов. Службы RapidStart Services также предоставляют функциональные возможности для импорта бизнес-данных. Дополнительные сведения см. в разделе [Настройка организации со службами RapidStart Services](admin-set-up-a-company-with-rapidstart.md).
+
+Для импорта изображений товаров можно использовать специальную функцию на странице **Настройка модуля "Запасы"**. Дополнительные сведения см. в разделе [Импорт нескольких изображений товаров](inventory-how-import-item-pictures.md).
 
 ## <a name="importing-data-from-configuration-packages"></a>Импорт данных из пакетов конфигураций
 [!INCLUDE[d365fin](includes/d365fin_md.md)] включает пакет конфигурации, который можно экспортировать в Excel, а затем настроить там данные. После этого можно импортировать данные обратно из Excel. Пакет состоит из 27 таблиц, включая основные данные, такие как клиенты, поставщики, товары и счета, другие таблицы настройки, такие как методы отгрузки, и таблицы транзакций, такие как заголовок и строки продаж.  
@@ -78,6 +80,6 @@ ms.locfileid: "804024"
 [Настройка компании с помощью служб RapidStart Services](admin-set-up-a-company-with-rapidstart.md)  
 [Миграция данных QuickBooks](ui-extensions-quickbooks-data-migration.md)  
 [Миграция данных Dynamics GP](ui-extensions-dynamicsgp-data-migration.md)  
+[Импорт нескольких изображений товаров](inventory-how-import-item-pictures.md)
 
 ## [!INCLUDE[d365fin](includes/free_trial_md.md)]  
- 

@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2018
+ms.date: 04/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: c96d0c5f188b3fb0df0c5d4578a0bdeed7fc7599
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: e003f429122bd31ee35ef9b843682bfe8866407a
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "804729"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "926467"
 ---
 # <a name="set-up-company-configuration"></a>Настройка конфигурации организации
 Процесс внедрения начинается с партнера Майкрософт. Партнер, отвечающий за продумывание подробностей конфигурации и создание пакета, который клиент может легко применить. Перед созданием новой организации следует спланировать ее настройку. Необходимо учитывать основные данные настройки и типы данных, которые будет запрашивать решение [!INCLUDE[d365fin](includes/d365fin_md.md)]. Вся эта информация включается в пакеты конфигураций.

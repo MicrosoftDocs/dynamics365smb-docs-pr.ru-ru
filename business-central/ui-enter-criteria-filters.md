@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: delimit, FlowFilter, totals, limit, advanced
-ms.date: 10/01/2018
+ms.date: 04/01/2019
 ms.author: jswymer
-ms.openlocfilehash: c6eb9465d07b702e545347cad5acf0a42f01d1de
-ms.sourcegitcommit: 1bcfaa99ea302e6b84b8361ca02730b135557fc1
+ms.openlocfilehash: 5cd8bce29b1973274cda673e22dd07e6b50f830f
+ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "804951"
+ms.lasthandoff: 03/31/2019
+ms.locfileid: "928073"
 ---
 # <a name="sorting-searching-and-filtering-lists"></a>Сортировка, поиск и фильтрация списков
 Есть несколько вещей, которые могут помочь сканировать, искать и ограничивать записи в списке. Сюда входят сортировка, поиск и фильтрация. Некоторые или все из них можно применить одновременно для быстрого поиска или анализа данных.
@@ -36,7 +36,8 @@ When you want to search for data, such as customer names, addresses, or product 
 >   Не поддерживается сортировка изображений, полей BLOB, полей FlowFilter и полей, которые не принадлежат таблице.  
 
 ## <a name="searching"></a>Поиск
-<!--## Searching by using the Quick Filter --> Вверху каждой страницы списке имеется значок ![Поиск в списке](media/ui-search/search-list.png "Значок поиска в списке") **Поиск**, который обеспечивает быстрый и простой способ уменьшения числа записей в списке и отображения только тех записей, которые содержат только интересующие вас данные.
+<!--## Searching by using the Quick Filter -->
+Вверху каждой страницы списке имеется значок ![Поиск в списке](media/ui-search/search-list.png "Значок поиска в списке") **Поиск**, который обеспечивает быстрый и простой способ уменьшения числа записей в списке и отображения только тех записей, которые содержат только интересующие вас данные.
 
 Для поиска просто выберите значок поиска, затем в поле введите текст, который требуется найти. Можно ввести буквы, цифры и другие символы.
 
@@ -55,27 +56,6 @@ When you want to search for data, such as customer names, addresses, or product 
 
 В следующей таблице приведены некоторые примеры для объяснения как можно использовать поиск.
 
-
-<!--
-In search criteria you can use all the numbers and letters that you normally use in the specific field. In addition, you can use special symbols to further filter the results. There are two ways to search: using the Quick Filter or column filters.-->
-
-<!--
-The Quick Filter provides an easy access to filter data by entering plain text, but does also provide a lot of search criteria options. Depending on whether you enter plain text or text including symbols, the Quick Filter behaves differently.  
-
-* If you enter plain text in the search criteria, the search criteria is interpreted as a case insensitive search that contains certain text.  
-* If you enter text including symbols in the search criteria, the search criteria is interpreted exactly as you entered it, and the search is case sensitive.
--->
-<!--
-
-|Search Criteria|Interpreted as...|Finds...|
-|---------------|----------------|----------|
-|`man`<br />or <br />`Man`|Contains the text; case insensitive|All records with fields that contain the text **man**, regardless of the case.|
-|`'Man'`|Entire text match; case sensitive.|All records with fields that only contain **Man** exactly.|
-|`Man*`|Starts with the text; case sensitive.|All records with fields that start with the text <b>Man</b> exactly.|
-|`@Man*`|Starts with the text; case insensitive.|All records with fields that start with **man**, regardless of the case.|
-|`@*man`|Ends with the text; case insensitive.|All records that end with **man**, regardless of the case.|
--->
-
 |Критерии поиска|Находит...|
 |---------------|----------|
 |`man`<br />или <br />`Man`|Все записи с полями, которые содержат текст **man** независимо от регистра. Например, **Manchester**, **manual** или **Sportsman**. |
@@ -87,7 +67,7 @@ The Quick Filter provides an easy access to filter data by entering plain text, 
 > [!TIP]
 > Можно нажать клавишу F3 для активации и деактивации поля поиска. Дополнительные сведения см. в разделе [Сочетания клавиш](keyboard-shortcuts.md#KeyboardFilter).
 
-## <a name="filtering"></a>Фильтрация
+## <a name="Filtering"> </a>Фильтрация
 Фильтрация обеспечивает более широкие и разнообразные способы контроля того, как записи должны отображаться в списке. Имеется два основных отличия между поиском и фильтрацией, как описано в таблице ниже.
 
 || **Поиск** | **фильтрация;** |
@@ -98,13 +78,14 @@ The Quick Filter provides an easy access to filter data by entering plain text, 
 Фильтрация позволяет отобразить записи для определенных организаций или клиентов, дат, сумм и иной информации путем определения критериев фильтра. При этом отображаются только те записи, которые соответствуют заданным критериям. Если критерии заданы для нескольких полей, отображаются только записи, которые соответствуют этим критериям.
 
 ### <a name="working-in-the-filter-pane"></a>Работа в области фильтров
+
+Для отображения области фильтров выберите ![Значок области фильтрации](media/open-filter-pane-icon.png "Значок области фильтрации") вверху списка или нажмите клавиши **Shift+F3**. Для списков в ролевом центре можно также выбрать стрелку вниз рядом с заголовком страницы в навигационной панели над списком, затем выбрать **Показать область фильтров**, как показано здесь:
+
+![Показать область фильтров](media/open-filter-pane.png "Показать область фильтров")
+
 Область фильтров показывает текущие фильтры для списка и позволяет задать собственные настраиваемые фильтры для одного или нескольких полей. На приведенном ниже рисунке показан пример области фильтров для списка предложений по продаже.
 
 ![Обзор области фильтров](media/filter-pane-overview.png "Значок фильтра")
-
-Для отображения области фильтров используйте сочетание клавиш **Shift+F3**. Для списков в ролевом центре можно также выбрать стрелку вниз рядом с заголовком страницы в навигационной панели над списком, затем выбрать **Показать область фильтров**.
-
-![Показать область фильтров](media/open-filter-pane.png "Показать область фильтров")
 
 Область фильтров разделена на три раздела: **Представления**, **Фильтровать список по** и **Фильтровать итоги по**:
 
@@ -137,7 +118,7 @@ The Quick Filter provides an easy access to filter data by entering plain text, 
 Столбцы, которые уже содержат фильтры, обозначаются ![Значок фильтра](media/ui-search/filter-icon.png "Значок фильтра") в заголовке столбцов. Чтобы снять фильтр, выберите заголовок столбца и выберите **Очистить фильтр**.
 
 
-### <a name="entering-filter-criteria-without-the-filter-pane"></a>Ввод критериев фильтра без области фильтров
+### <a name="entering-filter-criteria-without-using-the-filter-pane"></a>Ввод критериев фильтра без использования области фильтров
 Можно определить простые фильтры непосредственно в списке без использования области фильтров.
 С любым полем, выбранным в строке, используйте сочетание клавиш **Alt+F3** для отображения только записей, имеющих это же значение. Затем можно выбрать другое поле и снова использовать это же сочетание клавиш, чтобы продолжить уточнять фильтры. Если выбрано поле уже содержит фильтр, при использовании **Alt+F3** этот фильтр очищается.
 
@@ -248,7 +229,7 @@ The Quick Filter provides an easy access to filter data by entering plain text, 
 При указании критериев фильтра можно также вводить слова, которые имеют специальное значение, называемые токенами фильтра. После ввода слова токена это слово заменяется значением или значениями, которые оно представляет. Это упрощает фильтрацию благодаря снижению потребности перехода между страницами для поиска значений, которые требуется добавить в фильтр. В таблицах ниже описаны некоторые из токенов, которые можно вводить в качестве критериев фильтра.
 
 > [!TIP]
-> Ваша организация может использовать настраиваемые токены. Для получения полного набора токенов, доступных вам, или для добавления дополнительных настраиваемых токенов обращайтесь к администратору. Технические сведения см. в разделе [Добавление токенов фильтров](/dynamics365/business-central/dev-itpro/developer/devenv-adding-filter-tokens)
+> Ваша организация может использовать настраиваемые токены. Для получения полного набора токенов, доступных вам, или для добавления дополнительных настраиваемых токенов обращайтесь к администратору. Технические сведения см. в разделе [Добавление токенов фильтров](/dynamics365/business-central/dev-itpro/developer/devenv-adding-filter-tokens).
 
 
 ### <a name="me-or-userid-records-assigned-to-you"></a>(%me или %userid) Записи, назначенные вам
