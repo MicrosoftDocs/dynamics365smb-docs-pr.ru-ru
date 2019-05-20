@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: dynamics365-business-central
 author: jswymer
 ms.date: 04/01/2019
-ms.openlocfilehash: eb9d4ec76c0dbbd59763f7622ca51137c9563a91
-ms.sourcegitcommit: addfb47612cc2e4e98dfd7e338b6f41cde405d5c
+ms.openlocfilehash: e747757ec6942ede0e237e013703ebf6d3df189b
+ms.sourcegitcommit: dac212009aadf3227e54c99976c438f6e56f182a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/16/2019
-ms.locfileid: "969882"
+ms.lasthandoff: 05/02/2019
+ms.locfileid: "1447018"
 ---
 # <a name="inspecting-pages-in-business-central"></a>Инспекция страниц в Business Central
 
@@ -22,7 +22,7 @@ ms.locfileid: "969882"
 
 ## <a name="working-with-page-inspection"></a>Работа с инспекцией страницы
 
-Чтобы проверить страницу, в правом верхнем углу выберите ![Значок настроек](media/ui-experience/settings_icon_small.png), затем выберите **Инспекция**. Или можно использовать сочетание клавиш **Ctrl+Alt+F1**.
+Начните инспектирование страницы со страницы **Справка и поддержка**. Выберите вопросительный знак в правом верхнем углу, выберите **Справка и поддержка**, затем выберите **Инспекция страниц и данных**. Или можно просто использовать сочетание клавиш **Ctrl+Alt+F1**.
 
 Сбоку открывается область **Инспекция страницы**. На приведенном ниже рисунке изображена область **Инспекция страницы** на странице **Заказ на продажу**.
 

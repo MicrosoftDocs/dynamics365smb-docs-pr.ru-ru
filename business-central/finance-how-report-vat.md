@@ -8,16 +8,16 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: VAT, tax, report, EC sales list, statement
-ms.date: 04/01/2019
+ms.date: 05/02/2019
 ms.author: bholtorf
-ms.openlocfilehash: c4536dca720be5d52bc860c9acce8d7f903314ff
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.openlocfilehash: fcc9eda38a54e8e94bd74bfbcc76fe808a119525
+ms.sourcegitcommit: dac212009aadf3227e54c99976c438f6e56f182a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "919079"
+ms.lasthandoff: 05/02/2019
+ms.locfileid: "1446995"
 ---
-# <a name="how-to-report-vat-to-a-tax-authority"></a>Практическое руководство. Подача отчета об НДС в налоговые органы
+# <a name="report-vat-to-a-tax-authority"></a>Подача отчета об НДС в налоговый орган
 В этом разделе описываются отчеты в [!INCLUDE[d365fin](includes/d365fin_md.md)], которые можно использовать для подачи сведений о суммах налога на добавленную стоимость (НДС) для продаж и покупок в налоговые органы региона.
 
 При этом можно пользоваться следующими отчетами:
@@ -110,7 +110,7 @@ ms.locfileid: "919079"
 
 > [!Note]
 > При создании модулей codeunit для отчета следует следить за значением поля **Версия отчета по НДС**. Это поле должно отражать версию отчета, которая требуется налоговыми органами. Например, в этом поле можно ввести **2017** для указания того, что отчет соответствует требованиям, действующим в этом году. Чтобы узнать текущую версию, обратитесь в свой налоговый орган.
- 
+
 ## <a name="see-also"></a>См. также
 [Настройка методов расчета и учета налога на добавленную стоимость](finance-setup-vat.md)  
 [Работа с НДС по продажам и покупкам](finance-work-with-vat.md)  
