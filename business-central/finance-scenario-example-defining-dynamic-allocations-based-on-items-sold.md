@@ -14,11 +14,11 @@ ms.date: 04/01/2019
 ms.author: sgroespe
 redirect_url: finance-define-and-allocate-costs
 ms.openlocfilehash: 7219e1d56129da66e802aa0b4ea5df946dc34e04
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "932860"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1239594"
 ---
 # <a name="scenario-example-defining-dynamic-allocations-based-on-items-sold"></a>Пример сценария. Определение динамических распределений на основе проданных товаров
 В этом разделе приведен пример, как определять распределения с помощью метода динамического распределения. В этом примере изменяется динамическое распределение себестоимости для места возникновения затрат ПРОДАЖИ с целью поддержки нового объекта затрат ИТ-ОБОРУДОВАНИЕ. Пакеты ИТ-ОБОРУДОВАНИЯ имеют номера товаров в диапазоне от 8904-W до 8924-W. Показатели продаж за прошлый год используются для расчета долей. Распределение учитывается по типу затрат 9903.  

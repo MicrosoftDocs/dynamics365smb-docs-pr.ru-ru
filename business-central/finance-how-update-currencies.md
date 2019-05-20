@@ -13,11 +13,11 @@ ms.search.keywords: multiple currencies
 ms.date: 04/01/2019
 ms.author: sgroespe
 ms.openlocfilehash: a9fa636fb68a428da3c587e59be1bf76cf976207
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "926942"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1238950"
 ---
 # <a name="update-currency-exchange-rates"></a>Обновление валютных курсов
 Поскольку сфера действия организаций включает все новые и новые страны и регионы, растет необходимость в торговле и составлении финансовых отчетов в нескольких валютах. Следует настраивать код по каждой используемой валюте при покупке или продаже в валютах, отличных от местной валюты, при поступлениях или платежах в других валютах или при записи транзакций ГК в других валютах.

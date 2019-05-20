@@ -11,11 +11,11 @@ ms.search.keywords: ''
 ms.date: 04/01/2019
 ms.author: sgroespe
 ms.openlocfilehash: c7a5aa7d768a4fe2fae111b04ffc1fdab65d07dc
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "919979"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1240376"
 ---
 # <a name="work-with-serial-and-lot-numbers"></a>Работа с серийными номерами и номерами партий
 Серийные номера и номера партий можно назначить любому исходящему или входящему документу. При этом учтенные операции отображаются в связанных с ними операциях книги товаров. Работа выполняется на странице **Строки трассировки товаров**, которую можно открыть из входящего или исходящего документа.

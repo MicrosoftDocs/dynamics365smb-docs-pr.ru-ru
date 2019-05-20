@@ -14,11 +14,11 @@ ms.date: 04/01/2019
 ms.author: sgroespe
 redirect_url: design-details-handling-reordering-policies
 ms.openlocfilehash: 1212c6f2f7e9da03a15c7fb39496d85869ef3e73
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "912316"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1238651"
 ---
 # <a name="design-details-reordering-policies"></a>Сведения о проектировании: политики дозаказа
 Политики дозаказа определяют количество для заказа, если необходимо пополнить товар. Существует четыре различные политики дозаказа.  

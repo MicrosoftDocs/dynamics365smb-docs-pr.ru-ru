@@ -13,11 +13,11 @@ ms.search.keywords: ''
 ms.date: 04/01/2019
 ms.author: sgroespe
 ms.openlocfilehash: 0ed1e040be212f8f59efb5d4b6a41346e6d9b84e
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "922581"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1239479"
 ---
 # <a name="apply-configurations-to-new-companies"></a>Применение конфигураций к новым организациям
 После создания пакета конфигурации на следующем шаге следует развернуть пакет клиенту для внедрения. Работа с пакетами конфигурации производится в рамках новой пустой организации.  
@@ -33,5 +33,5 @@ ms.locfileid: "922581"
 |Используйте пакетное задание для переноса старых сальдо счетов во вновь настроенную организацию, затем примените итоговые операции журнала.|[Создание входящего сальдо журнала](admin-how-to-create-journal-opening-balances.md)|  
 
 ## <a name="see-also"></a>См. также  
-[Настройка компании с помощью служб RapidStart Services](admin-set-up-a-company-with-rapidstart.md)  
+[Настройка организации со службами RapidStart Services](admin-set-up-a-company-with-rapidstart.md)  
 [Администрация](admin-setup-and-administration.md)

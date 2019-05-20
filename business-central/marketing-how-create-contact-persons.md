@@ -12,11 +12,11 @@ ms.date: 04/01/2019
 ms.author: jswymer
 redirect_url: marketing-create-contact-persons
 ms.openlocfilehash: b3012f5f22fc1dbbb78eb655e2d27abe290eb470
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "930683"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1238375"
 ---
 # <a name="create-contact-persons"></a>Создание контактных лиц
 Можно создавать карточку контакта для каждого контакта внутри организации, с которой происходит взаимодействие. Для каждой контактной организации можно ввести любое желаемое число контактных лиц. Также можно создавать карточки контакта, которые будут зарегистрированы как независимые.

@@ -13,11 +13,11 @@ ms.search.keywords: category, search, attribute, facet
 ms.date: 04/01/2019
 ms.author: sgroespe
 ms.openlocfilehash: dd5ca3a3e109f565448d0c5698a6e1ee6dce331c
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "931941"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1240140"
 ---
 # <a name="categorize-items"></a>Категоризация товаров
 Для общего представления о товарах и упрощения их сортировки и поиска целесообразно систематизировать товары по категориям товаров.

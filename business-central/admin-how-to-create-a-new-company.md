@@ -13,11 +13,11 @@ ms.search.keywords: ''
 ms.date: 04/01/2019
 ms.author: sgroespe
 ms.openlocfilehash: 8b534af530a7ce6d91a71ca7802938fe3573c2c2
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "932084"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1240796"
 ---
 # <a name="create-a-new-company"></a>Создание новой организации
 Для использования служб RapidStart Services для [!INCLUDE[d365fin](includes/d365fin_md.md)] необходимо сначала создать новую организацию, для которой необходимо выполнить реализацию клиента. При создании новой организации создаются стандартные таблицы и страницы [!INCLUDE[d365fin](includes/d365fin_md.md)], но без сведений.
@@ -76,5 +76,5 @@ ms.locfileid: "932084"
 
 ## <a name="see-also"></a>См. также  
 [Применение конфигураций к новым организациям](admin-apply-configuration-to-new-companies.md)  
-[Настройка компании с помощью служб RapidStart Services](admin-set-up-a-company-with-rapidstart.md)  
+[Настройка организации со службами RapidStart Services](admin-set-up-a-company-with-rapidstart.md)  
 [Администрация](admin-setup-and-administration.md)

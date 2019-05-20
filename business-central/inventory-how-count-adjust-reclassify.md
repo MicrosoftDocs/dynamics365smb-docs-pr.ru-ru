@@ -11,11 +11,11 @@ ms.search.keywords: adjustment, negative, positive, increase, decrease
 ms.date: 04/01/2019
 ms.author: sgroespe
 ms.openlocfilehash: d8a9ba2f4fc819c1da515a0ace7d8641ec54ffc6
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "929409"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1240353"
 ---
 # <a name="count-adjust-and-reclassify-inventory-using-journals"></a>Подсчет, корректировка и повторная классификация запасов с помощью журналов
 В каждом финансовом году по крайней мере один раз вы должны провести инвентаризацию запасов, т. е. пересчитать все товары в запасах, чтобы определить, совпадает ли количество, зарегистрированное в базе данных, с фактическим количеством товаров на складе. Когда фактическое количество известно, его необходимо учесть в главной книге в рамках оценки стоимости запасов в конце периода.

@@ -13,11 +13,11 @@ ms.search.keywords: electronic document, e-invoice, incoming document, OCR, ecom
 ms.date: 04/01/2019
 ms.author: sgroespe
 ms.openlocfilehash: 429e276b094a8296daab8e229d60a6dd16246b53
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "915848"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1239962"
 ---
 # <a name="manage-many-incoming-document-records"></a>Управление большим количеством записей входящих документов
 По мере создания или обработки записей входящих документов количество строк на странице **Входящие документы** может увеличиться настолько, что вам сложно будет иметь общее представление об этих документах. Поэтому вы можете установить для записей входящих документов статус "Обработано", чтобы они не отображались в представлении по умолчанию. При выборе действий **Показать все** вы можете просматривать как обработанные, так и необработанные записи.

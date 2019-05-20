@@ -13,16 +13,16 @@ ms.search.keywords: ''
 ms.date: 04/01/2019
 ms.author: sgroespe
 ms.openlocfilehash: daf11bb8f219367506cff4fff46caa4f75ec6c86
-ms.sourcegitcommit: addfb47612cc2e4e98dfd7e338b6f41cde405d5c
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/16/2019
-ms.locfileid: "938992"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1239870"
 ---
 # <a name="copy-data-to-new-companies"></a>Копирование данных в новые организации
 Области можно скопировать из существующей организации в новую, если обе организации находится в одной и той же базе данных. Например, если имеется стандартный список кодов симптомов, общий для всех сервисных реализаций, коды можно легко скопировать из одной организации в другую.  
 
-## <a name="to-copy-data-to-a-new-company-using-rapidstart-services"></a>Копирование данных в новую организацию с помощью служб RapidStart Services  
+## <a name="to-copy-data-to-a-new-company-using-rapidstart-services"></a>Копирование данных в новую организацию с помощью RapidStart Services  
 1. Откройте новую организацию.  
 2. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Журнал конфигураций**, затем выберите связанную ссылку.  
 3. Выберите **Копировать данные из компании**.  
@@ -31,5 +31,5 @@ ms.locfileid: "938992"
 
 ## <a name="see-also"></a>См. также
 [Применение конфигураций к новым организациям](admin-apply-configuration-to-new-companies.md)  
-[Настройка компании с помощью служб RapidStart Services](admin-set-up-a-company-with-rapidstart.md)  
+[Настройка организации со службами RapidStart Services](admin-set-up-a-company-with-rapidstart.md)  
 [Администрация](admin-setup-and-administration.md)

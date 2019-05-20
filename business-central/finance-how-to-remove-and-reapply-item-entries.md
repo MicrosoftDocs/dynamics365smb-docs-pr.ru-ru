@@ -13,11 +13,11 @@ ms.search.keywords: ''
 ms.date: 04/01/2019
 ms.author: sgroespe
 ms.openlocfilehash: 38b6189474a680330438137afa39ab2611c8c81d
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "920634"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1239732"
 ---
 # <a name="remove-and-reapply-item-ledger-entries"></a>Удаление и повторное применение операций журнала товаров
 На странице **Журнал применения** можно просмотреть и вручную изменить определенные операции применения товара, которые создаются автоматически при выполнении складских транзакций.  

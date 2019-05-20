@@ -11,11 +11,11 @@ ms.search.keywords: move, warehouse
 ms.date: 04/01/2019
 ms.author: SorenGP
 ms.openlocfilehash: 95ce328595bccaff230699c56e603ba55f9375b7
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "916855"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1240100"
 ---
 # <a name="transfer-inventory-between-locations"></a>Перемещение запасов между складами
 Вы можете перемещать складские товары между складами, создав заказы на перемещение. В качестве альтернативы можно использовать журнал реклассификации товаров.
