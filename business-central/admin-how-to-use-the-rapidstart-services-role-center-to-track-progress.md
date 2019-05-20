@@ -1,5 +1,5 @@
 ---
-title: Использование ролевого центра «Внедряющий мастер служб RapidStart Services» | Документы Майкрософт
+title: Использование ролевого центра "Внедряющий мастер служб RapidStart Services" | Документы Майкрософт
 description: При использовании служб RapidStart Services рекомендуется отслеживать свою работу и использовать ролевой центр «Внедряющий мастер служб RapidStart Services», так как он предоставляет правильный контекст для вашей работы по конфигурации.
 services: project-madeira
 documentationcenter: ''
@@ -13,11 +13,11 @@ ms.search.keywords: ''
 ms.date: 04/01/2019
 ms.author: sgroespe
 ms.openlocfilehash: cb25c0266fe77454b20b471691e4d930110ac09a
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "912077"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1245170"
 ---
 # <a name="use-the-rapidstart-services-implementer-role-center"></a>Использование ролевого центра «Внедряющий мастер служб RapidStart Services»
 При использовании служб RapidStart Services рекомендуется использовать ролевой центр «Внедряющий мастер служб RapidStart Services», так как он предоставляет правильный контекст для вашей работы по конфигурации. Дополнительные сведения см. в разделе [Изменение ролевого центра](ui-change-basic-settings.md#to-change-role-center).
@@ -35,7 +35,7 @@ ms.locfileid: "912077"
 При возврате в ролевой центр плитки в части **Действия** обновляются, чтобы отразить внесенные изменения.  
 
 ## <a name="to-track-the-status-of-a-configuration-project"></a>Трассировка статуса проекта конфигурации  
-- Откройте ролевой центр служб RapidStart Services.  
+- Откройте ролевой центр RapidStart Services.  
 
 В разделе **Области конфигурации** отображается статистику завершения для областей и групп, которые вы настроили. Если не были заданы области или группы, то в этой части данные отсутствуют.  
 
@@ -44,5 +44,5 @@ ms.locfileid: "912077"
 2. Выберите подходящее представление с фильтром.  
 
 ## <a name="see-also"></a>См. также  
-[Настройка компании с помощью служб RapidStart Services](admin-set-up-a-company-with-rapidstart.md)  
+[Настройка организации со службами RapidStart Services](admin-set-up-a-company-with-rapidstart.md)  
 [Администрация](admin-setup-and-administration.md)

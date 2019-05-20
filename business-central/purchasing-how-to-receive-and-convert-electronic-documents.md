@@ -11,11 +11,11 @@ ms.search.keywords: ''
 ms.date: 04/01/2019
 ms.author: sgroespe
 ms.openlocfilehash: a121363d04de0aea69e423df8de5c50c24744061
-ms.sourcegitcommit: addfb47612cc2e4e98dfd7e338b6f41cde405d5c
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/16/2019
-ms.locfileid: "939274"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1252186"
 ---
 # <a name="receive-and-convert-electronic-documents"></a>Получение и преобразование электронных документов
 Универсальная версия [!INCLUDE[d365fin](includes/d365fin_md.md)] поддерживает получение электронных счетов и кредит-нот в формате PEPPOL, поддерживаемом крупнейшими поставщиками служб обмена документами. Для получения счета от поставщика в формате электронного документа PEPPOL необходимо обработать документ на странице "Входящие документы", преобразовав его в счет покупки или строку финансового журнала в [!INCLUDE[d365fin](includes/d365fin_md.md)].

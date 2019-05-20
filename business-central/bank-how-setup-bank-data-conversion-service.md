@@ -11,11 +11,11 @@ ms.search.keywords: Yodlee, feed, stream, data exchange, AMC, bank file import, 
 ms.date: 04/01/2019
 ms.author: sgroespe
 ms.openlocfilehash: 38c1ee9b37513b270dcad09238df4f841a961d1a
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "927546"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1245028"
 ---
 # <a name="set-up-the-bank-data-conversion-service"></a>Настройка службы конвертации банковских данных
 Глобальный поставщик услуг преобразования платежной информации в любой формат данных, требуемый банком, подключен и готов к включению в [!INCLUDE[d365fin](includes/d365fin_md.md)]. В [!INCLUDE[d365fin](includes/d365fin_md.md)] он называется службой конвертации банковских данных.
@@ -24,7 +24,7 @@ ms.locfileid: "927546"
 
 Можно импортировать файлы банковской выписки на страницу **Журнал выверки платежей** с помощью службы конвертации банковских данных для конвертации файла, полученного от банка, в поток данных, который может импортировать [!INCLUDE[d365fin](includes/d365fin_md.md)]. Дополнительные сведения см. в разделе [Автоматическое применение платежей и выверка банковских счетов](receivables-apply-payments-auto-reconcile-bank-accounts.md).
 
-В качестве альтернативы импорту банковских выписок с помощью службы конвертации банковских данных можно использовать службу банковских выписок Envestnet Yodlee. Дополнительные сведения см. в разделе [Настройка службы банковских выписок Envestnet Yodlee](bank-how-setup-bank-statement-service.md).
+В качестве альтернативы импорту банковских выписок с помощью службы конвертации банковских данных можно использовать службу Envestnet Yodlee Bank Feeds. Дополнительные сведения см. в разделе [Настройка службы Envestnet Yodlee Bank Feeds](bank-how-setup-bank-statement-service.md).
 
 Для импорта или экспорта банковских файлов следует настроить собственный банковский счет и банковские счета поставщиков. Дополнительные сведения см. в разделе [Настройка банковских счетов](bank-how-setup-bank-accounts.md).
 

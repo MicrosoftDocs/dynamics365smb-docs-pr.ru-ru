@@ -11,11 +11,11 @@ ms.search.keywords: remove, delete
 ms.date: 04/01/2019
 ms.author: edupont
 ms.openlocfilehash: 1fd6afcdeb42d2f2c594a2a1fce0f60596ac4e6d
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "926112"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1244949"
 ---
 # <a name="unsubscribe-remove-or-reset-included365finincludesd365finmdmd"></a>Отмена подписки, удаление или сброс [!INCLUDE[d365fin](includes/d365fin_md.md)]
 Если вы хотите прекратить пользоваться [!INCLUDE[d365fin](includes/d365fin_md.md)], вы можете закрыть свою учетную запись или попросить удалить лицензию из вашей учетной записи. Действия, которые необходимо предпринять, отличаются в зависимости от того, пользуетесь ли вы бесплатной пробной версией или у вас есть ежемесячная подписка в вашей учетной записи Office 365.  

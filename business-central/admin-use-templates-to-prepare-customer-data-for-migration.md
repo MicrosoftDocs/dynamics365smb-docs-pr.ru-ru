@@ -13,11 +13,11 @@ ms.search.keywords: ''
 ms.date: 04/01/2019
 ms.author: sgroespe
 ms.openlocfilehash: 165eddfa28f2a48597d64c4480288e9280124fe7
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "912441"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1247240"
 ---
 # <a name="prepare-to-migrate-customer-data"></a>Подготовка к миграции данных клиента
 После импорта и применения установочных данных в новой базе данных можно начинать миграцию существующих основных данных клиента, например номеров и наименований товаров и клиентов. Чтобы убедиться в том, что эти данные созданы быстро и точно в новой организации, следует использовать шаблоны для структурирования данных.  
@@ -137,6 +137,6 @@ ms.locfileid: "912441"
 Значения по умолчанию из выбранного шаблона клиента вставляются в карточку клиента.
 
 ## <a name="see-also"></a>См. также  
-[Настройка компании с помощью служб RapidStart Services](admin-set-up-a-company-with-rapidstart.md)  
+[Настройка организации со службами RapidStart Services](admin-set-up-a-company-with-rapidstart.md)  
 [Администрация](admin-setup-and-administration.md)  
 [Регистрация новых клиентов](sales-how-register-new-customers.md)

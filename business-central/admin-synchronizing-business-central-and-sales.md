@@ -11,11 +11,11 @@ ms.search.keywords: sales, crm, integration, sync, synchronize
 ms.date: 04/01/2019
 ms.author: bholtorf
 ms.openlocfilehash: e52010384de83d95011cb29a88cad17a5eba817c
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "940300"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1247144"
 ---
 # <a name="synchronizing-data-in-business-central-and-dynamics-365-for-sales"></a>Синхронизация данных в Business Central и Dynamics 365 for Sales
 При интеграции [!INCLUDE[crm_md](includes/crm_md.md)] с [!INCLUDE[d365fin](includes/d365fin_md.md)] можно решить, требуется ли синхронизировать данные в выбранных полях записей [!INCLUDE[d365fin](includes/d365fin_md.md)] (таких как клиенты, контакты и менеджеры по продаже) с эквивалентными записями в [!INCLUDE[d365fin](includes/d365fin_md.md)] (таких как организации, контакты и пользователи). В зависимости от типа записи, можно синхронизировать данные из [!INCLUDE[crm_md](includes/crm_md.md)] в [!INCLUDE[d365fin](includes/d365fin_md.md)] или наоборот. Дополнительные сведения см. в разделе [Интеграция с Dynamics 365 for Sales](admin-prepare-dynamics-365-for-sales-for-integration.md).  

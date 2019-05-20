@@ -4,20 +4,20 @@ description: Чтобы преобразовать материалы в про�
 services: project-madeira
 documentationcenter: ''
 author: SorenGP
-ms.service: dynamics365-business-central
+ms.service: dynamics365-financials
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2019
+ms.date: 09/04/2017
 ms.author: sgroespe
 ms.openlocfilehash: 4f7d38d4ac786c58c19bad8480941777c2bf1ed6
-ms.sourcegitcommit: addfb47612cc2e4e98dfd7e338b6f41cde405d5c
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/16/2019
-ms.locfileid: "939604"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1252784"
 ---
 # <a name="setting-up-manufacturing"></a>Настройка производства
 Чтобы преобразовать материалы в произведенные готовые товары, нужно настроить в системе такие производственные ресурсы, как спецификации, маршруты, операторы станков и механизмы.

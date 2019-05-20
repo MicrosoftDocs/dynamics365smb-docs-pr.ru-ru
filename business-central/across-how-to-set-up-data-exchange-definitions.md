@@ -11,11 +11,11 @@ ms.search.keywords: ''
 ms.date: 04/01/2019
 ms.author: sgroespe
 ms.openlocfilehash: 382a95a579482a56597ffae053c53dab92f3739a
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "914426"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1245147"
 ---
 # <a name="set-up-data-exchange-definitions"></a>Настройка определений обмена данными
 Можно настроить [!INCLUDE[d365fin](includes/d365fin_md.md)] для обмена данными в виде таблиц определенного вида и данных из внешних файлов, например, для отправки и получения электронных документов, импорта и экспорта банковских и иных данных, таких как расчет зарплаты, валютные курсы и каталоги изделий. Дополнительные сведения см. в разделе [Электронный обмен данными](across-data-exchange.md).  

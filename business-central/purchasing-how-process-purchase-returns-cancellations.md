@@ -13,11 +13,11 @@ ms.search.keywords: cancel, undo, correct
 ms.date: 04/01/2019
 ms.author: sgroespe
 ms.openlocfilehash: 78a67f214de9e3d4d1df673a21c5a2c1b3ec1f64
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "934376"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1252531"
 ---
 # <a name="process-purchase-returns-or-cancellations"></a>Обработка возвратов покупки или отмен
 Если требуется вернуть товары поставщику или отменить услуги, которые были приобретены, можно создать и учесть кредит-ноту покупки, определяющую требуемое изменение в исходном счете покупки. Для включения правильных сведений счета покупки можно создать кредит-ноту покупки непосредственно из учтенного счета на покупку или создать новую кредит-ноту покупки со скопированными данными счета.

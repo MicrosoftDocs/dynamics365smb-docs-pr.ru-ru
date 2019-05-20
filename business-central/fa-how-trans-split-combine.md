@@ -12,11 +12,11 @@ ms.workload: na
 ms.date: 04/01/2019
 ms.author: sgroespe
 ms.openlocfilehash: 6908e536c381cd5f775f88554aa0c2718e4f5d53
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "941379"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1244128"
 ---
 # <a name="transfer-split-or-combine-fixed-assets"></a>Перемещение, разделение или объединение основных средств
 Для перемещения, разделения и объединения основных средств можно использовать журнал реклассификации основных средств. Результаты реклассификации основных средств можно просматривать или печатать с помощью отчета **ОС - балансовая стоимость 02**.

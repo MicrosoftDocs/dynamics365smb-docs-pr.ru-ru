@@ -11,11 +11,11 @@ ms.search.keywords: ''
 ms.date: 04/01/2019
 ms.author: sgroespe
 ms.openlocfilehash: 7f3e023ce290e59c6fda88d62bb7abffd83853bb
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "941333"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1251588"
 ---
 # <a name="create-special-orders"></a>Создание специальных заказов
 Для отгрузки товара из каталога конкретному клиенту можно создать специальный заказ. Поставщик отгружает товар на склад организации, после чего этот товар отгружается в адрес клиента либо отдельно, либо вместе с другими товарами по другому заказу.  

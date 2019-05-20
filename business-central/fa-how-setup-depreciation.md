@@ -11,11 +11,11 @@ ms.search.keywords: write down
 ms.date: 04/01/2019
 ms.author: sgroespe
 ms.openlocfilehash: 16b1605d137401b58be3c57ae1cfcffc17f5654d
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "928119"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1246983"
 ---
 # <a name="set-up-fixed-asset-depreciation"></a>Настройка амортизации основных средств
  Можно использовать различные методы амортизации для подготовки финансовых отчетов и возвратов налога на доходы. Многие крупные корпорации используют линейную амортизацию в финансовых отчетах, поскольку это обычно позволяет показывать в отчетах более высокие прибыли. Для налоговой декларации многие организации используют метод ускоренной амортизации. Дополнительные сведения см. в разделе [Методы амортизации](fa-depreciation-methods.md).

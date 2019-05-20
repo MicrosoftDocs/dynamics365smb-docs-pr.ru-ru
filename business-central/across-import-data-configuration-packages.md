@@ -11,11 +11,11 @@ ms.search.keywords: migration, Excel
 ms.date: 04/01/2019
 ms.author: edupont
 ms.openlocfilehash: 0d31e710c0b5d9e1dfa63c9c653b740fdcc12f11
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "926536"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1245528"
 ---
 # <a name="importing-business-data-from-other-finance-systems"></a>Импорт бизнес-данных из других финансовых систем
 При регистрации в [!INCLUDE[d365fin](includes/d365fin_md.md)] вы можете создать пустую организации, чтоб загрузить собственные данные и протестировать новую организацию [!INCLUDE[d365fin](includes/d365fin_md.md)]. В зависимости от финансового решения, которое вы используете сейчас, вы можете перенести информацию о клиентах, поставщиках, запасах и банковских счетах.  
@@ -77,7 +77,7 @@ ms.locfileid: "926536"
 -   Цена покупки
 
 ## <a name="see-also"></a>См. также
-[Настройка компании с помощью служб RapidStart Services](admin-set-up-a-company-with-rapidstart.md)  
+[Настройка организации со службами RapidStart Services](admin-set-up-a-company-with-rapidstart.md)  
 [Миграция данных QuickBooks](ui-extensions-quickbooks-data-migration.md)  
 [Миграция данных Dynamics GP](ui-extensions-dynamicsgp-data-migration.md)  
 [Импорт нескольких изображений товаров](inventory-how-import-item-pictures.md)

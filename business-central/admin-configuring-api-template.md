@@ -13,11 +13,11 @@ ms.search.keywords: API templates, configuring templates
 ms.date: 04/01/2019
 ms.author: solsen
 ms.openlocfilehash: ef6b6d89ccea59de6a87c062cc6e29a27abe2c88
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "921390"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1245482"
 ---
 # <a name="configuring-api-templates"></a>Конфигурирование шаблонов API
 Библиотека API для [!INCLUDE[d365fin_md](includes/d365fin_md.md)] предоставляет разработчикам упрощенное представление лежащих в ее основе объектов. Не все свойства в приложении предоставляются через связанный API. Страница **Настройка API** позволяет определить шаблоны, используемые для заполнения пустых свойств в объекте при создании действия POST через API. 
@@ -47,5 +47,5 @@ ms.locfileid: "921390"
 [Разработка приложений-связей [!INCLUDE[d365fin_md](includes/d365fin_md.md)]](/dynamics365/business-central/dev-itpro/developer/devenv-develop-connect-apps)  
 [Включение API](/dynamics-nav/enabling-apis-for-dynamics-nav)  
 [Конечные точки для API](/dynamics-nav/endpoints-apis-for-dynamics)  
-[Настройка компании с помощью служб RapidStart Services](admin-set-up-a-company-with-rapidstart.md)  
+[Настройка организации со службами RapidStart Services](admin-set-up-a-company-with-rapidstart.md)  
 [Администрация](admin-setup-and-administration.md)

@@ -13,11 +13,11 @@ ms.search.keywords: bi, power BI, analysis, KPI
 ms.date: 04/01/2019
 ms.author: sgroespe
 ms.openlocfilehash: d56801d7bb5f032d6bf0f50816ac2a2a6510ddbd
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "941800"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1245354"
 ---
 # <a name="analyze-actual-amounts-versus-budgeted-amounts"></a>Анализ фактических сумм в с равнении с суммами бюджета
 В процессе сбора, анализа и предоставления доступа к данным своей организации вы просматриваете фактические суммы в сравнении с суммами бюджета для всех счетов и для различных периодов.

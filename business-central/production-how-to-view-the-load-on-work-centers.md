@@ -13,11 +13,11 @@ ms.search.keywords: ''
 ms.date: 04/01/2019
 ms.author: sgroespe
 ms.openlocfilehash: 4afcca772cb4cccd2a44d5808b95d510d1484cf3
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "941260"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1252853"
 ---
 # <a name="view-load-on-work-and-machine-centers"></a>Просмотр загрузки производственных и машинных центров
 На страницах **Карточка производственного центра** и **Карточка машинного центра** можно просмотреть загрузку цеха как результат запланированных и запущенных производственных заказов.    

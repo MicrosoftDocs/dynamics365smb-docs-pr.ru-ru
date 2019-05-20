@@ -14,11 +14,11 @@ ms.date: 04/01/2019
 ms.author: edupont
 redirect_url: marketing-create-contact-companies
 ms.openlocfilehash: 96ec0862cf93cf9b0bf240ef65bc7ff79b3ccfb5
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "934076"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1242279"
 ---
 # <a name="synchronizing-contacts-with-customers-vendors-and-bank-accounts"></a>Синхронизация контактов с клиентами, поставщиками и банковскими счетами
 Если какие-то контакты являются еще и клиентами, поставщиками или банковскими счетами, можно синхронизировать контактную информацию с соответствующим клиентом, поставщиком или банковским счетом. Синхронизация делает общую информацию между контактами и клиентами, поставщиками или банковским счетом одинаковой.  

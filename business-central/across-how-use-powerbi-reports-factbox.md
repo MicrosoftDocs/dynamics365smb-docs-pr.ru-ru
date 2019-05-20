@@ -13,11 +13,11 @@ ms.search.keywords: business intelligence, KPI, Odata, Power App, SOAP, analysis
 ms.date: 04/01/2019
 ms.author: edupont
 ms.openlocfilehash: 29c7b7656632d2103a16025848a6ddc82650353e
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "937898"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1241606"
 ---
 # <a name="viewing-list-data-in-power-bi-reports-in-business-central"></a>Просмотр данных в списках в отчетах Power BI в Business Central 
 [!INCLUDE[d365fin](includes/d365fin_md.md)] включает элемент управления информационной панелью на нескольких ключевых страницах списков, который предоставляет дополнительные сведения о данных в списке. При перемещении между строками в списке отчет обновляется и фильтруется в соответствии с выбранной операцией. Можно создать пользовательские отчеты для отображения в этом элементе управления, но существует несколько правил, которые следует соблюдать при создании отчетов для обеспечения требуемого поведения.  

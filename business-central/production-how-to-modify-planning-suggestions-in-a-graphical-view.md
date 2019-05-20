@@ -13,11 +13,11 @@ ms.search.keywords: ''
 ms.date: 04/01/2019
 ms.author: sgroespe
 ms.openlocfilehash: 30de3d3243b0b6babff94efc33d87e7494d2e2bd
-ms.sourcegitcommit: addfb47612cc2e4e98dfd7e338b6f41cde405d5c
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/16/2019
-ms.locfileid: "939251"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1253497"
 ---
 # <a name="modify-planning-suggestions-in-a-graphical-view"></a>Изменение предложений по планированию в графическом виде
 Типичное действие планирования — изменить или добавить строки журнала планирования для изменения предлагаемых заказов на поставку до того, как они будут зафиксированы выполнением функции **Выполнить указание**. Альтернатива такому действию в журнале планирования — использовать графическое представление.

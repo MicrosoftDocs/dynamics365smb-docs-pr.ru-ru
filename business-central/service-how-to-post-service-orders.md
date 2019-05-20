@@ -13,11 +13,11 @@ ms.search.keywords: ''
 ms.date: 04/01/2019
 ms.author: sgroespe
 ms.openlocfilehash: 7ebec9a0a93fcbcd2f3e761fdf2410ee4d5a07db
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "918438"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1251197"
 ---
 # <a name="post-service-orders-and-credit-memos"></a>Учет сервисных заказов и кредит-нот
 После создания сервисного заказа, заполнения всей необходимой информации и внесения всех изменений, можно учесть этот сервисный заказ. Чтобы получить возможность учета сервисного заказа, он должен содержать, по меньшей мере, одну строку сервисного товара и одну строку сервиса. Если в заказе содержится несколько сервисных строк, будет выполнен учет всех строк одновременно.  

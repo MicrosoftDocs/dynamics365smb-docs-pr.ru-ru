@@ -14,11 +14,11 @@ ms.date: 04/01/2019
 ms.author: sgroespe
 redirect_url: admin-how-to-create-custom-company-configuration-packages
 ms.openlocfilehash: 95b16dc77bcdb0051447a4f153dd720661c52cf9
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "917940"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1244565"
 ---
 # <a name="review-and-customize-existing-database-data"></a>Просмотр или настройка существующих данных базы данных
 По мере создания пакета конфигурации для решения можно просматривать и настраивать доступные данные в базе данных в соответствии с потребностями клиента. Таблица базы данных должна иметь соответствующую страницу.  

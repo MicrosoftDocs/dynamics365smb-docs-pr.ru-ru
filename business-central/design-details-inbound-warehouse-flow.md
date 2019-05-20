@@ -13,11 +13,11 @@ ms.search.keywords: ''
 ms.date: 04/01/2019
 ms.author: sgroespe
 ms.openlocfilehash: 3083b52a2345d2c5dbaa15c34c7a93afb3b9d063
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "921707"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1247333"
 ---
 # <a name="design-details-inbound-warehouse-flow"></a>Сведения о проектировании: входящий складской поток
 Входящий поток на складе начинается с прибытия товаров на склад компании из внешних источников или с другого склада компании. Сотрудник зарегистрирует товар, как правило, сканируя штрих-код. Из зоны приемки складские операции выполняются на разных уровнях сложности для перемещения товаров в зону хранения.  

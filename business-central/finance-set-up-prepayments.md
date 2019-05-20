@@ -8,11 +8,11 @@ ms.search.keywords: prepayment
 ms.date: 04/01/2019
 ms.author: edupont
 ms.openlocfilehash: e8a6e0834b259358de5c07d3f83a7b5477a0d3a7
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "931987"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1244703"
 ---
 # <a name="set-up-prepayments"></a>Настройка предоплаты
 Если требуется, чтобы клиенты осуществляли платежи до отгрузки им заказов, или если аналогичное требование выдвигают поставщики в отношении вашей организации, можно использовать функцию предоплаты. Благодаря функции предоплаты можно выставлять счета и собирать необходимые авансы от клиентов либо переводить авансы поставщикам, а также обеспечивать учет всех частичных платежей для счета. Дополнительные сведения в разделе [Создание счетов на предоплату](finance-how-to-create-prepayment-invoices.md).

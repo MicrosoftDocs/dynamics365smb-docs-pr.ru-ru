@@ -13,11 +13,11 @@ ms.search.keywords: task, process, report
 ms.date: 04/01/2019
 ms.author: jswymer
 ms.openlocfilehash: 65fcba3f0222b324f132115ea7f1ec53b75d983f
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "921413"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1250691"
 ---
 # <a name="working-with-reports-and-batch-jobs"></a>Работа с пакетными заданиями и отчетами
 Отчет собирает информацию на основе указанного набора критериев и организует и представляет информацию в удобном для восприятия и печати формате. Предусмотрено много отчетов, к которым можно получить доступ с помощью приложения. Отчеты обычно содержат сведения относительно контекста страницы, на которой вы находитесь. Например, страница **Клиент** включает отчеты для 10 лучших клиентов, статистику продаж и т. п.

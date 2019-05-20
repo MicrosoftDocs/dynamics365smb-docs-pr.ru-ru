@@ -14,11 +14,11 @@ ms.date: 04/01/2019
 ms.author: jswymer
 redirect_url: marketing-setup-contacts
 ms.openlocfilehash: d9c6b19d49ea9423762b0b4b5cf61eae0e325034
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "933984"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1242219"
 ---
 # <a name="set-up-job-responsibilities-for-contact-persons"></a>Настройка должностных обязанностей для контактных лиц
 Вы можете добавить информацию о должностных обязанностей контактных лиц, чтобы показать, за что контактное лицо ответственно в своей организации, например ИТ, управление или производство. Эту информацию можно использовать при вводе информации о контактах.

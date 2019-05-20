@@ -10,11 +10,11 @@ ms.workload: na
 ms.date: 04/01/2019
 ms.author: sgroespe
 ms.openlocfilehash: bcfbd42793e67f306b226c02951fc0227bc095a4
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "920442"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1241329"
 ---
 # <a name="welcome-to-included365finlongincludesd365finlongmdmd"></a>Добро пожаловать в [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]
 [!INCLUDE[d365fin](includes/d365fin_md.md)] — это решение по управлению деятельностью для малых и средних предприятий, позволяющее автоматизировать и упростить бизнес процессы и лучше управлять бизнесом. Легко настраиваемое, с множеством полезных функций, [!INCLUDE[d365fin](includes/d365fin_md.md)] позволяет организациям управлять деятельностью, включая финансы, производство, продажи, отгрузку, управление проектом, оказание услуг и т. д. Решение позволяет легко добавлять функциональность, специфическую для региона, в котором осуществляется деятельность, а также для сферы деятельности организации.

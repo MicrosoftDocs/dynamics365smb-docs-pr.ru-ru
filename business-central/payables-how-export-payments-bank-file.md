@@ -12,11 +12,11 @@ ms.date: 04/01/2019
 ms.author: sgroespe
 redirect_url: finance-make-payments-with-bank-data-conversion-service-or-sepa-credit-transfer
 ms.openlocfilehash: 539aac89d2da6b2eb81da7f6df729cdb5bc15cb1
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "926562"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1253796"
 ---
 # <a name="export-payments-to-a-bank-file"></a>Экспорт платежей в банковский файл
 Когда все будет готово для осуществления платежей поставщикам или возмещения расходов ваших сотрудников, можно экспортировать файл со сведениями о платежах в строках на странице **Журнал платежей**. Затем можно отправить файл в банк для обработки соответствующих денежных переводов.

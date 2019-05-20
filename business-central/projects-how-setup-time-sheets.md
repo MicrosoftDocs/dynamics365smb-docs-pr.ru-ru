@@ -13,11 +13,11 @@ ms.search.keywords: project management, capacity, staff, resource
 ms.date: 04/01/2019
 ms.author: sgroespe
 ms.openlocfilehash: d2efe0d6d630f3548a41e164f0d71cb98fe09240
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "915171"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1253221"
 ---
 # <a name="set-up-time-sheets"></a>Настройка табелей учета рабочего времени
 Табели учета рабочего времени в [!INCLUDE[d365fin](includes/d365fin_md.md)] регистрируются на еженедельной основе с периодичностью в семь дней. Их можно использовать для отслеживания времени, затраченного на работы, а также для записи простой регистрации затрат времени ресурса. Прежде чем использовать табели, необходимо указать, как они должны быть установлены и настроены.

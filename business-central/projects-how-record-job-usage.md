@@ -13,11 +13,11 @@ ms.search.keywords: project management, consumption
 ms.date: 04/01/2019
 ms.author: sgroespe
 ms.openlocfilehash: c723625bc54c7b885268946f0e7afdf54be20a2b
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "923225"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1253402"
 ---
 # <a name="record-usage-for-jobs"></a>Запись потребления для работ
 На странице **Строки планирования работ** можно просмотреть и регистрировать потребление в разных частях работы, которое автоматически обновляется при изменении и передаче данных между работами и журналами работ или счетами за работы. Для этого требуется настроить работу таким образом, чтобы включить **Применить связь использования по умолчанию**. Дополнительные сведения см. в разделе [Настройка работ](projects-how-setup-jobs.md).  

@@ -11,11 +11,11 @@ ms.search.keywords: bi, power BI, analysis, KPI
 ms.date: 04/01/2019
 ms.author: edupont
 ms.openlocfilehash: e7430c17e090e2b0c3ca13ee7c52cfec749fcc2b
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "918414"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1245378"
 ---
 # <a name="prepare-financial-reporting-with-account-schedules-and-account-categories"></a>Подготовка финансовой отчетности с помощью финансовых отчетов и категорий счетов
 Используйте финансовые отчеты для получения сведений о финансовых данных, сохраненных в плане счетов. Финансовые отчеты анализируют цифры на счетах главной книги и сравнивают операции главной книги с операциями бюджета главной книги. Результаты отображаются на диаграммах в ролевом центре, таких как диаграмма движения денежных средств, а также в отчетах, например в отчете о прибылях и убытках или балансовом отчете.

@@ -13,11 +13,11 @@ ms.search.keywords: check, clearing
 ms.date: 04/01/2019
 ms.author: sgroespe
 ms.openlocfilehash: c2a3a1e94eaa5fee747ce52726765ff1f9401bb2
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "915411"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1243622"
 ---
 # <a name="export-a-positive-pay-file"></a>Экспорт файла Positive Pay
 Чтобы гарантировать, чтобы банк выполнял клиринг только по проверенным платежным документам и суммам, можно экспортировать файл Positive Pay, содержащий информацию о поставщике, номер платежного документа, сумму платежа, который можно затем переслать в банк для справки при обработке платежей.

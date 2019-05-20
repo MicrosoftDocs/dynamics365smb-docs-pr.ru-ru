@@ -13,11 +13,11 @@ ms.search.keywords: ''
 ms.date: 04/01/2019
 ms.author: sgroespe
 ms.openlocfilehash: 7b6b4c31b19b85ae33eb3d4a8be0e2e3d5c14320
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "934998"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1247309"
 ---
 # <a name="design-details-outbound-warehouse-flow"></a>Сведения о проектировании: исходящий складской поток
 Исходящий поток на складе начинается с запроса из документов-источников выпуска о необходимости переместить товары со склада — отправить третьей стороне или на другой склад. Из зоны хранения складские операции выполняются на разных уровнях сложности для перемещения товаров в зоны отгрузки.  

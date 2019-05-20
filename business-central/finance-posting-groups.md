@@ -13,11 +13,11 @@ ms.search.keywords: posting setup, initialize
 ms.date: 04/01/2019
 ms.author: bholtorf
 ms.openlocfilehash: ee93a04f1dd4f6d7d1796a759baa4c585d943c68
-ms.sourcegitcommit: addfb47612cc2e4e98dfd7e338b6f41cde405d5c
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/16/2019
-ms.locfileid: "939085"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1242518"
 ---
 # <a name="setting-up-posting-groups"></a>Настройка учетных групп
 Учетные группы сопоставляют объекты, такие как клиенты, поставщики, товары, ресурсы и документов продажи и покупки со счетами главной книги. Они экономят время и помогают избежать ошибок при учете транзакций. Стоимости транзакций переходят на счета, указанные в учетной группе для этого определенного объекта. Единственное требование — наличие плана счетов. Дополнительные сведения см. в разделе [Настройка плана счетов](finance-setup-chart-accounts.md).  

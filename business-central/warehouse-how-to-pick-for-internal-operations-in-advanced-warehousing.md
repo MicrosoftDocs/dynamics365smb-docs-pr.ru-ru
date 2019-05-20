@@ -13,11 +13,11 @@ ms.search.keywords: ''
 ms.date: 04/01/2019
 ms.author: sgroespe
 ms.openlocfilehash: 581098d88ae66800692d509d83c63f3867355a90
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "912339"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1249726"
 ---
 # <a name="pick-for-production-or-assembly-in-advanced-warehouse-configurations"></a>Подбор для производства или сборки в расширенных конфигурациях склада
 В расширенных конфигурациях склада, где склад настроен на использование подбора и отгрузки, можно выбрать компоненты для производственных и сборочных действий на странице **Складской подбор**.  

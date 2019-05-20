@@ -13,11 +13,11 @@ ms.search.keywords: analysis, history, track
 ms.date: 04/01/2019
 ms.author: sgroespe
 ms.openlocfilehash: 9072bd45d5189ec42e8f1adaa3554fa182c36f1f
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "920846"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1244726"
 ---
 # <a name="working-with-dimensions"></a>Работа с измерениями
 Чтобы упростить анализ по документам, таким как заказы на продажу, можно использовать измерения. Измерения — это атрибуты и значения, которые классифицируют операции для их отслеживания и анализа. Например, измерения могут указывать проект или отдел, который является источником операции.  

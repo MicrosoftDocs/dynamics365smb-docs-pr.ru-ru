@@ -13,11 +13,11 @@ ms.search.keywords: year closing, close accounting period, close fiscal year, ba
 ms.date: 04/01/2019
 ms.author: jswymer
 ms.openlocfilehash: 878079fd02a2d54ae6b878fa54c7006dee779c15
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "914908"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1249679"
 ---
 # <a name="post-the-year-end-closing-entry"></a>Учет операции закрытия года
 После использования пакетного задания **Закрытие отчета о прибылях и убытках** для создания закрывающей операции (операций) на конец года необходимо открыть журнал, указанный для пакетного задания, и затем просмотреть и учесть записи.

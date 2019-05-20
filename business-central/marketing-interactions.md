@@ -12,17 +12,15 @@ ms.workload: na
 ms.search.keywords: relationship, prospect
 ms.date: 04/01/2019
 ms.author: jswymer
-ms.openlocfilehash: 7ef4416c695543cb93fcf0bed9501bfa4d04985d
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.openlocfilehash: eedb7a319a11b740f6afa869d162f15c167ccc6d
+ms.sourcegitcommit: dac212009aadf3227e54c99976c438f6e56f182a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "917193"
+ms.lasthandoff: 05/02/2019
+ms.locfileid: "1446788"
 ---
-# <a name="managing-interactions-with-contacts"></a>Управление взаимодействиями с контактами
-В [!INCLUDE[d365fin](includes/d365fin_md.md)] взаимодействиями являются все типы коммуникаций между организацией и контактами. Например, взаимодействиями могут быть письмо, факс, эл. почта, телефон, встреча и т. д.
-
-Область управления отношениями позволяет регистрировать все взаимодействия с контактами для того, чтобы отслеживать маркетинговую и торговую деятельность в отношении контактов, а также для улучшения последующих деловых взаимодействий с ними. Настройка приложения для регистрации взаимодействий состоит из следующих задач:
+# <a name="record-interactions-with-contacts"></a>Регистрация взаимодействий с контактами
+Настройка приложения для регистрации взаимодействий состоит из следующих задач:
 
 * Настройка шаблонов взаимодействий  
 * Создание взаимодействий для контактов и сегментов  

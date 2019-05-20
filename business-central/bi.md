@@ -13,11 +13,11 @@ ms.search.keywords: bi, power BI, analysis, KPI
 ms.date: 04/01/2019
 ms.author: sgroespe
 ms.openlocfilehash: 21042f9eb55413a6627dab830091686e06c34acc
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "915292"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1246914"
 ---
 # <a name="business-intelligence"></a>Бизнес-аналитика
 Во время делового процесса в организации обрабатываются огромные объемы данных. Эти данные, отражающие цифры продаж, покупок, текущих расходов, оплаты труда сотрудников, сальдо и т. д., могут представлять из себя ценную информацию, или интеллектуальные ресурсы, для принятия решений. [!INCLUDE[d365fin](includes/d365fin_md.md)] содержит множество функций, помогающих собирать, анализировать и совместно использовать данные организации.

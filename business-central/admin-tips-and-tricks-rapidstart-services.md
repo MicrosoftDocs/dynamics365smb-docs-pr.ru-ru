@@ -1,26 +1,26 @@
 ---
-title: Советы и подсказки — службы RapidStart Services | Документы Майкрософт
-description: При настройке организаций с помощью служб RapidStart Services можно воспользоваться некоторыми советами и подсказками для упрощения реализации.
+title: Советы и подсказки — RapidStart Services | Microsoft Docs
+description: При настройке организаций с помощью RapidStart Services можно воспользоваться некоторыми советами и подсказками для упрощения реализации.
 services: project-madeira
 documentationcenter: ''
 author: SorenGP
-ms.service: dynamics365-business-central
+ms.service: dynamics365-financials
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2019
+ms.date: 03/05/2018
 ms.author: sgroespe
 ms.openlocfilehash: 6a10ab0d2e4658eba4824e44527d45cbf0f33dd8
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "936916"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1243484"
 ---
-# <a name="tips-and-tricks-rapidstart-services"></a>Советы и подсказки. Службы RapidStart Services
-При настройке организаций с помощью служб RapidStart Services можно воспользоваться некоторыми советами и подсказками для упрощения реализации.  
+# <a name="tips-and-tricks-rapidstart-services"></a>Советы и подсказки: RapidStart Services
+При настройке организаций с помощью RapidStart Services можно воспользоваться некоторыми советами и подсказками для упрощения реализации.  
 
 ## <a name="take-advantage-of-configuration-templates"></a>Воспользуйтесь шаблонами конфигураций  
 Шаблоны конфигураций помогают упростить процесс внедрения. Используя их, можно включить аналогичные клиентов в сегменты, а затем разработать протокол реализации, обрабатывающий всех клиентов в сегменте подобным образом. В этом способе можно применить уровень предварительных настроек к каждому сегменту и продолжить быстрое внедрение.  
@@ -40,5 +40,5 @@ ms.locfileid: "936916"
 4.  Выполните миграцию открытых операций основных средств.  
 
 ## <a name="see-also"></a>См. также  
-[Настройка компании с помощью служб RapidStart Services](admin-set-up-a-company-with-rapidstart.md)  
+[Настройка организации со службами RapidStart Services](admin-set-up-a-company-with-rapidstart.md)  
 [Администрация](admin-setup-and-administration.md)

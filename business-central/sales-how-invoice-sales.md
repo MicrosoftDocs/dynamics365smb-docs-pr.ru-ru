@@ -11,11 +11,11 @@ ms.search.keywords: bill, sale, invoice, order
 ms.date: 04/01/2019
 ms.author: sgroespe
 ms.openlocfilehash: f80d98ee46f06a9c39928dcf6bcdb4f8bf203874
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "916308"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1252600"
 ---
 # <a name="invoice-sales"></a>Выставление счетов продажи
 Счет продажи или заказы на продажу создаются для записи соглашения с клиентом о продаже определенных товаров на определенных условиях доставки и оплаты.  

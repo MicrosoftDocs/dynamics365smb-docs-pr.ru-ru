@@ -13,11 +13,11 @@ ms.search.keywords: ''
 ms.date: 04/01/2019
 ms.author: sgroespe
 ms.openlocfilehash: 0807c425b4951cacf19724db78aa4ae5920f1f2f
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "935452"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1248897"
 ---
 # <a name="pick-and-put-away-without-a-source-document"></a>Подбор и размещение без документа-источника
 После размещения, но до подбора с целью удовлетворения требований производственного заказа или отгрузки товары хранятся на складе как часть доступных складских запасов.  

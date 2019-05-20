@@ -13,11 +13,11 @@ ms.search.keywords: design, item, item ledger, costing
 ms.date: 04/01/2019
 ms.author: sgroespe
 ms.openlocfilehash: ddb2cd65abc96e27486782a1e9c9937858920f7c
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "916424"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1243024"
 ---
 # <a name="design-details-item-application"></a>Сведения о проектировании: применение товара
 При учете транзакции склада учтенное количество записывается в операции журнала товаров, а учет стоимости выполняется в операциях стоимости. Дополнительные сведения см. в разделе [Сведения о проектировании: учет запасов](design-details-inventory-posting.md).  

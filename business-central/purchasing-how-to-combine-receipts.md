@@ -13,11 +13,11 @@ ms.search.keywords: ''
 ms.date: 04/01/2019
 ms.author: sgroespe
 ms.openlocfilehash: 5e1b04cc998319cc835b5dcc1547723c48be6763
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "926871"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1252883"
 ---
 # <a name="combine-receipts-on-a-single-invoice"></a>Объединение приходных накладных в один счет
 Если необходимо выставить счет по нескольким приходным накладным покупки одновременно, можно использовать функцию **Объединить приемки**.  

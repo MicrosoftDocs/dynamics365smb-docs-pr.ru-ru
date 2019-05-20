@@ -13,11 +13,11 @@ ms.search.keywords: ''
 ms.date: 04/01/2019
 ms.author: sgroespe
 ms.openlocfilehash: 549d3928d4d6429bd640d005891428ae419b2dfb
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "913275"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1248943"
 ---
 # <a name="set-up-locations-to-use-bins"></a>Настройка складов для использования ячеек
 Ячейки являются базовой складской структурой и используются для формирования предложений по размещению товаров. После создания ячеек можно четко определить содержимое для помещения в каждую ячейку; ячейка может также функционировать в качестве плавающей ячейки без определенного содержимого.  

@@ -12,11 +12,11 @@ ms.search.keywords: essential, basic, user interface, application area, experien
 ms.date: 04/01/2019
 ms.author: edupont
 ms.openlocfilehash: 9110ee79e4d1788f41c8f1960f282cb490a3cc8a
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "912418"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1251427"
 ---
 # <a name="changing-which-features-are-displayed"></a>Изменение набора отображаемых функций
 Приложение [!INCLUDE[d365fin](includes/d365fin_md.md)] призвано помочь вам вести бизнес независимо от сферы деятельности. К базовым функциям [!INCLUDE[d365fin](includes/d365fin_md.md)] относится финансовая отчетность, а также процессы продажи и покупки. К этому вы добавляете функции в соответствии со своими потребностями бизнеса, добавляя расширения из AppSource или изменяя параметр "Функциональность" для организации. Дополнительные сведения см. в разделе [Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью расширений](ui-extensions.md) или [Выбор взаимодействия с пользователем для отображения или скрытия функций](ui-experiences.md#choosing-a-user-experience-to-show-or-hide-features).

@@ -13,11 +13,11 @@ ms.search.keywords: service, work hours, configure, price, pricing
 ms.date: 04/01/2019
 ms.author: bholtorf
 ms.openlocfilehash: 6a92b411eebe7e469d19b12dc1afbce9cf2f5dd3
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "930700"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1250622"
 ---
 # <a name="planning-services"></a>Планирование сервисов
 С помощью [!INCLUDE[d365fin](includes/d365fin_md.md)] можно настраивать стандартные задачи, необходимые для выполнения требований службы поддержки клиентов. Для этого необходимо определить, какие сервисные товары и предложения поддерживает ваша сервисная организация, и по какой цене.   

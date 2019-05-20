@@ -13,11 +13,11 @@ ms.search.keywords: ''
 ms.date: 04/01/2019
 ms.author: sgroespe
 ms.openlocfilehash: 66b3f7fb4955d66202818a22aaa2a36235c77e9d
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "913414"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1245285"
 ---
 # <a name="manage-company-configuration-in-a-worksheet"></a>Управление конфигурацией организации в журнале
 Журнал конфигураций является центральным местом, где можно планировать, выполнять трассировку и настройку. Можно создать журналы для каждой организации, с которой вы работаете, или создать стандартный журнал конфигураций, который будет использоваться для определения множества идентичных организаций.  
@@ -126,5 +126,5 @@ ms.locfileid: "913414"
 
 ## <a name="see-also"></a>См. также  
 [Настройка конфигурации организации](admin-set-up-company-configuration.md)  
-[Настройка компании с помощью служб RapidStart Services](admin-set-up-a-company-with-rapidstart.md)  
+[Настройка организации со службами RapidStart Services](admin-set-up-a-company-with-rapidstart.md)  
 [Администрация](admin-setup-and-administration.md)

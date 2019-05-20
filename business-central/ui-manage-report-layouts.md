@@ -13,11 +13,11 @@ ms.search.keywords: customized report, document layout, logo, personalize
 ms.date: 04/01/2019
 ms.author: solsen
 ms.openlocfilehash: ff9e2087f832d954ae403596744990a243af80c5
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "934308"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1249656"
 ---
 # <a name="managing-report-and-document-layouts"></a>Управление макетами отчетов и документов
 Макет отчета контролирует содержимое и формат отчета, включая то, какие поля данных набора данных отчета отображаются в нем и как они упорядочены, а также стиль текста, изображения и т. д. В [!INCLUDE[d365fin](includes/d365fin_md.md)] можно изменить используемый в отчете макет, создать новый макет или изменить текущие макеты.

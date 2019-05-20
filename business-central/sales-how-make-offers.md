@@ -12,11 +12,11 @@ ms.search.keywords: rfq
 ms.date: 04/01/2019
 ms.author: sgroespe
 ms.openlocfilehash: 6083e5ff57ebfb57a31d294e5c565b5bc6a3f8c6
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "930456"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1252692"
 ---
 # <a name="make-sales-quotes"></a>Создание предложений по продаже
 Предложение по продаже создается для записи предложения клиенту о продаже определенных товаров на определенных условиях доставки и оплаты. Можно также отправить клиенту предложение по продаже. Документ можно отправить по электронной почте в виде вложения PDF. Можно также включить краткое изложение предложения в содержание сообщения электронной почты. Дополнительные сведения см. в разделе [Отправка документов по электронной почте](ui-how-send-documents-email.md).

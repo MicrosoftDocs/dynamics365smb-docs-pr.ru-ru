@@ -12,11 +12,11 @@ ms.search.keywords: app, add-in, manifest, customize
 ms.date: 04/01/2019
 ms.author: edupont
 ms.openlocfilehash: 869d136498604a61b1f3016efca475b4784c4456
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "910369"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1250277"
 ---
 # <a name="customizing-business-central-using-extensions"></a>Настройка Business Central с помощью расширений
 Вы можете изменить [!INCLUDE[d365fin](includes/d365fin_md.md)] за счет установки расширений, которые добавляют функциональность, изменяют поведение или, например, предоставляют доступ к новым интернет-службам.
@@ -49,7 +49,7 @@ ms.locfileid: "910369"
 Корпорация Майкрософт предоставляет следующие расширения:  
 
 * [Миграция данных Dynamics GP](ui-extensions-dynamicsgp-data-migration.md)  
-* [Банковские выписки Envestnet Yodlee](ui-extensions-yodlee-bank-feeds.md)  
+* [Envestnet Yodlee Bank Feeds](ui-extensions-yodlee-bank-feeds.md)  
 * [Microsoft Pay](ui-extensions-microsoft-pay-payments.md)  
 * [PayPal Payments Standard](ui-extensions-paypal-payments-standard.md)  
 * [Миграция данных QuickBooks](ui-extensions-quickbooks-data-migration.md)  
@@ -72,7 +72,7 @@ ms.locfileid: "910369"
 ## <a name="see-also"></a>См. также
 [Расширение Dynamics 365 Business Central](about-develop-extensions.md)  
 [Расширения для Business Central от других поставщиков](ui-extensions-other.md)  
-[Настройка службы банковских выписок Envestnet Yodlee](bank-how-setup-bank-statement-service.md)  
+[Настройка службы Envestnet Yodlee Bank Feeds](bank-how-setup-bank-statement-service.md)  
 [Включение платежей клиентов через PayPal](sales-how-enable-payment-service-extensions.md)  
 [Миграция бизнес-данных из других финансовых систем](across-import-data-configuration-packages.md)  
 [Настройка расширения "Почтовые индексы Великобритании GetAddress.io"](LocalFunctionality/UnitedKingdom/uk-setup-postal-code-service.md)  

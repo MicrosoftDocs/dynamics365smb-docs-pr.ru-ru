@@ -10,11 +10,11 @@ ms.workload: na
 ms.date: 04/01/2019
 ms.author: sgroespe
 ms.openlocfilehash: 6f2357a169684f30dd6e177b1687a387d22e8690
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "920231"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1249495"
 ---
 # <a name="letting-included365finincludesd365finmdmd-suggest-values"></a>Разрешение [!INCLUDE[d365fin](includes/d365fin_md.md)] предлагать значения
 [!INCLUDE[d365fin](includes/d365fin_md.md)] помогает выполнять задачи быстрее и с меньшим числом ошибок благодаря автоматическому заполнению полей или строк данными, которые в противном случае вам пришлось бы рассчитываться и вводить самостоятельно. Хотя такой автоматический ввод данных всегда верен, при необходимости вы можете изменить эти значения.

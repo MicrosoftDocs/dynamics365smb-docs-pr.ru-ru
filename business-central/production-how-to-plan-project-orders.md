@@ -13,11 +13,11 @@ ms.search.keywords: ''
 ms.date: 04/01/2019
 ms.author: sgroespe
 ms.openlocfilehash: 30fcb660632a529d907ffd675087960ef8ca6674
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "916905"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1253244"
 ---
 # <a name="plan-project-orders"></a>Планирование заказов проекта
 Выполнение этой задачи планирования начинается с заказа на продажу и производится на странице **Планирование заказа на продажу**. После создания проектного производственного заказа его планирование может быть продолжено на странице **Планирование заказов**.  

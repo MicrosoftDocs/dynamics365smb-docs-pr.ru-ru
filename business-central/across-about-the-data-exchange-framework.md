@@ -11,11 +11,11 @@ ms.search.keywords: ''
 ms.date: 04/01/2019
 ms.author: sgroespe
 ms.openlocfilehash: 3c68b40f22503ced21130f57feec7c06b6b2c9f5
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "924360"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1245946"
 ---
 # <a name="about-the-data-exchange-framework-in-included365finincludesd365finmdmd"></a>О структуре обмена данными в [!INCLUDE[d365fin](includes/d365fin_md.md)]
 Формат файлов для обмена данными в файлах банка, электронных документах, курсах валюты и прочим с ERP-системами зависит от поставщика файла или потока данных, а также страны/региона. [!INCLUDE[d365fin](includes/d365fin_md.md)] поддерживает различные форматы файлов банка и стандарты предоставления данных. Чтобы обеспечить поддержку других форматов электронных документов, следует использовать платформу обмена данными. Дополнительные сведения см. в разделе [Электронный обмен данными](across-data-exchange.md).    

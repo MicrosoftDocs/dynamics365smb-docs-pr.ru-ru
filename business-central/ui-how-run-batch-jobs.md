@@ -13,11 +13,11 @@ ms.search.keywords: task, process
 ms.date: 04/01/2019
 ms.author: solsen
 ms.openlocfilehash: 0b9bf37f9054d767938b851e399a1b2c347f77c3
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "937390"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1249265"
 ---
 # <a name="run-batch-jobs"></a>Запуск пакетных заданий
 Пакетное задание — это процедура обработки данных в пакетах, например пакетное задание **Коррекция валютных курсов**. В некоторых пакетных заданиях выполняются периодические действия, связанные с учетом, например закрытие отчета о прибыли и убытках в конце финансового года. Во многих пакетных заданиях выполняются вычисления, например вычисление финансовых выплат, коррекция валютного курса и вычисление цены единицы.

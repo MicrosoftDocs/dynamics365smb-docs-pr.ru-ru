@@ -11,11 +11,11 @@ ms.search.keywords: invoicing, bookings
 ms.date: 04/01/2019
 ms.author: edupont
 ms.openlocfilehash: faa7946dd376dd8e0f89e35cd798a6de45a3248d
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "916585"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1242909"
 ---
 # <a name="bulk-invoicing-for-microsoft-bookings-in-included365finincludesd365finmdmd"></a>Пакетное выставление счетов для Microsoft Bookings в [!INCLUDE[d365fin](includes/d365fin_md.md)]
 Если ваша организация использует приложение Bookings в Office 365, вы можете массово выставлять счета для назначений. На странице **Bookings без выставления счета** в [!INCLUDE[d365fin](includes/d365fin_md.md)] представлен список завершенных резервирований организации. На этой странице можно быстро выбрать назначения, по которым требуется создать счет, и создать черновики счетов за оказанные услуги.  

@@ -13,11 +13,11 @@ ms.search.keywords: ''
 ms.date: 04/01/2019
 ms.author: sgroespe
 ms.openlocfilehash: 535a899ed43e2d7112699fff9aa3ebc6f4289292
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "923816"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1246730"
 ---
 # <a name="create-journal-opening-balances"></a>Создание входящего сальдо журнала
 [!INCLUDE[d365fin](includes/d365fin_md.md)] включает несколько пакетных заданий, которые помогают перенести предыдущие сальдо счетов в заново настроенную организацию. Можно легко перенести эти данные с помощью журнала клиентов, журнала поставщиков, журнала товаров или журнала ГК.
@@ -27,7 +27,7 @@ ms.locfileid: "923816"
 Перед началом убедитесь, что вы находитесь на странице ролевого центра «Внедряющий мастер служб RapidStart Services», так как она дает правильный контекст для вашей работы по конфигурации. Дополнительные сведения см. в разделе [Изменение базовых настроек](ui-change-basic-settings.md).
 
 ## <a name="to-apply-the-entries-in-a-journal-to-a-new-company"></a>Применение журнальных записей к новой организации  
-1. Настройте новую организацию и примените к ней пакет конфигурации. Дополнительные сведения см. в разделе [Настройка организации с помощью мастера RapidStart Services](admin-how-to-configure-a-company-with-the-rapidstart-wizard.md).  
+1. Настройте новую организацию и примените к ней пакет конфигурации. Дополнительные сведения см. в разделе [Настройка организации с помощью мастера RapidStart](admin-how-to-configure-a-company-with-the-rapidstart-wizard.md).  
 
     Новая организация не содержит информацию о входящем сальдо журнала.  
 
@@ -43,5 +43,5 @@ ms.locfileid: "923816"
 
 ## <a name="see-also"></a>См. также  
 [Применение конфигураций к новым организациям](admin-apply-configuration-to-new-companies.md)  
-[Настройка компании с помощью служб RapidStart Services](admin-set-up-a-company-with-rapidstart.md)  
+[Настройка организации со службами RapidStart Services](admin-set-up-a-company-with-rapidstart.md)  
 [Администрация](admin-setup-and-administration.md)

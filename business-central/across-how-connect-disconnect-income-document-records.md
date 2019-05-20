@@ -13,11 +13,11 @@ ms.search.keywords: electronic document, e-invoice, incoming document, OCR, ecom
 ms.date: 04/01/2019
 ms.author: sgroespe
 ms.openlocfilehash: 724d51e561997b98315696d8edd324d1b1b6f905
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "917867"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1241279"
 ---
 # <a name="create-incoming-document-records-directly-from-documents-and-entries"></a>Создание записей входящих документов непосредственно из документов и операций
 Для хранения внешних бизнес-документов в [!INCLUDE[d365fin](includes/d365fin_md.md)] следует прикрепить эти файлы документов к связанным записям входящих документов. Если документ, например счет на покупку, не был изначально создан как запись входящего документа, в любое время сохраняется возможность создать и подключить к нему запись входящего документа. Кроме того, файлы входящих документов можно прикрепить к учтенным документам покупки и продажи, а также к операциям книги поставщиков, покупателей и главной книги, на информационной панели **Файлы входящих документов**, например, на страницах **Учтенные счета покупок** и **Книга операций по поставщикам**.

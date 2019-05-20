@@ -13,11 +13,11 @@ ms.search.keywords: ''
 ms.date: 04/01/2019
 ms.author: sgroespe
 ms.openlocfilehash: d4340172164401e736bf070b8bf6f3da97cfacb6
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "921055"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1248782"
 ---
 # <a name="pick-items-with-inventory-picks"></a>Подбор товаров с помощью подбора запасов
 Если настройки склада требуют обработку подбора, а не обработку отгрузки, то для регистрации и учета информации о подборе и отгрузке для документов-источников следует использовать страницу **Подбор запасов**. Исходящий документ-источник может быть заказом продажи, возвратом покупки, исходящим заказом перемещения или производственным заказом, компоненты которого готовы для подбора.

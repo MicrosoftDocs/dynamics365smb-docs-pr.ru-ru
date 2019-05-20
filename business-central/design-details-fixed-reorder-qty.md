@@ -14,11 +14,11 @@ ms.date: 04/01/2019
 ms.author: sgroespe
 redirect_url: design-details-handling-reordering-policies
 ms.openlocfilehash: 5447e64e4be43b7f6777d52f385084599f5d8a0d
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "930728"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1242357"
 ---
 # <a name="design-details-fixed-reorder-qty"></a>Сведения о проектировании: фиксированное количество дозаказа
 Политика фиксированного количества повторного заказа связана с планированием запасов стандартных С-элементов (низкая стоимость запасов, низкий риск устаревания и(или) много элементов). Эта политика обычно используется в связи с точкой повторного заказа, отражая прогнозируемый спрос во время подготовки товара.  

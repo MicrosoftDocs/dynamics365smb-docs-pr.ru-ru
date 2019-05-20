@@ -13,11 +13,11 @@ ms.search.keywords: year closing, close accounting period, close fiscal year, ba
 ms.date: 04/01/2019
 ms.author: jswymer
 ms.openlocfilehash: ac5dd6784da5f86c27ab0b3dffffb08cf7d4149d
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "917457"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1248161"
 ---
 # <a name="close-income-statement-accounts"></a>Закрытие счетов отчета о прибылях и убытках
 При завершении финансового года следует завершить периоды, которые его образуют. Для этого выполните пакетное задание **Закрытие отчета о прибылях и убытках**. Это задание переносит результат года на балансовый счет и закрывает счета отчета о прибылях и убытках. Это осуществляется путем создания строк в журнале, который затем можно учесть.

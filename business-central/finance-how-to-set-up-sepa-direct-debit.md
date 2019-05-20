@@ -12,11 +12,11 @@ ms.date: 04/01/2019
 ms.author: sgroespe
 redirect_url: finance-collect-payments-with-sepa-direct-debit
 ms.openlocfilehash: 2ca52a5c1e6f009f0a430e5b35b725c832132c6f
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "927036"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1242550"
 ---
 # <a name="set-up-sepa-direct-debit"></a>Настройка прямого дебетования SEPA
 Со страницы **Коллекции прямого дебетования** можно экспортировать команды для вашего электронного банка, чтобы выполнить погашение прямого дебета с банковского счета клиента на ваш банковский счет. [!INCLUDE[d365fin](includes/d365fin_md.md)] поддерживает формат прямого дебетования SEPA, но в вашей стране или регионе могут быть доступны другие форматы электронных платежей.  

@@ -13,11 +13,11 @@ ms.search.keywords: online printing
 ms.date: 04/01/2019
 ms.author: solsen
 ms.openlocfilehash: ea713fe831ce0d4befc81825531d3210f755a4cd
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "917917"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1247840"
 ---
 # <a name="specify-printer-selection-for-reports"></a>Выбор принтера для отчета
 Эта страница пустая, поскольку еще невозможно настроить определенные принтеры для конкретных отчетов. Мы работаем над разрешением этой проблемы.

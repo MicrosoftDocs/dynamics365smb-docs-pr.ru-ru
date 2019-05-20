@@ -13,11 +13,11 @@ ms.search.keywords: analysis, history, track
 ms.date: 04/01/2019
 ms.author: edupont
 ms.openlocfilehash: b16c36bb5e6f3d9a6909f1937e793599062114c6
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "914591"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1242724"
 ---
 # <a name="understanding-the-general-ledger-and-the-coa"></a>Сведения о главной книге и плане счетов
 В главной книге хранятся финансовые данные, а в план счетов показывает счета, на которых учитываются все операции главной книги. [!INCLUDE[d365fin](includes/d365fin_md.md)] включает стандартный план счетов, готовый к использованию в вашей организации.

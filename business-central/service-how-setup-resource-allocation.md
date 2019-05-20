@@ -13,11 +13,11 @@ ms.search.keywords: resource, skill, service, zones
 ms.date: 04/01/2019
 ms.author: bholtorf
 ms.openlocfilehash: 7b7a01bc61d55379cd12563d1f31f331c3b4fd74
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "932485"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1251957"
 ---
 # <a name="set-up-resource-allocation"></a>Настройка распределения ресурсов
 Для обеспечения хорошего качества выполнения сервисной задачи важно найти квалифицированный ресурс, обладающий квалификацией для выполнения работы. Можно настроить [!INCLUDE[d365fin](includes/d365fin_md.md)] таким образом, чтобы было легко выделить для работы сотрудника с требуемой квалификацией. В [!INCLUDE[d365fin](includes/d365fin_md.md)] это называется _распределением ресурсов_. Ресурсы можно распределять на основе квалификации, доступности или по принадлежности к той же зоне обслуживания, что и клиент. 

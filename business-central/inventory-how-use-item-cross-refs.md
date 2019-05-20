@@ -13,11 +13,11 @@ ms.search.keywords: ''
 ms.date: 04/01/2019
 ms.author: sgroespe
 ms.openlocfilehash: ca9f31b737fbd81bd1abba2a942301d0c9c919a6
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "927106"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1244049"
 ---
 # <a name="use-item-cross-references"></a>Использование перекрестных ссылок по товару
 Если настроить перекрестную ссылку между описанием товара, которое вы используете для товара, и описанием, которое использует поставщик этого товара, то описание товара поставщика автоматически вставляется в документы покупки для поставщика, когда вы заполняете **Номер перекрестной ссылки**. . Такая же функция применяется для номеров товаров клиента в документах продажи.

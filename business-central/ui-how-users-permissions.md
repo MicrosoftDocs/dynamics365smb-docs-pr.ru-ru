@@ -11,11 +11,11 @@ ms.search.keywords: access, right, security
 ms.date: 04/01/2019
 ms.author: sgroespe
 ms.openlocfilehash: 4a9bbc34893f1af257908558122f8e8cbe6ce757
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "912947"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1250116"
 ---
 # <a name="managing-users-and-permissions"></a>Управление пользователями и разрешениями
 Для добавления пользователей в [!INCLUDE[d365fin](includes/d365fin_md.md)] администратор Office 365 организации сначала должен создать пользователей в центре администрирования Office 365. Дополнительные сведения см. в разделе [Добавление пользователей в Office 365 для бизнеса](https://aka.ms/CreateOffice365Users).

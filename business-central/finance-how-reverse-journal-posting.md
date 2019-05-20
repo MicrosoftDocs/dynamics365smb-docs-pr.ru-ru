@@ -13,11 +13,11 @@ ms.search.keywords: reimbursement
 ms.date: 04/01/2019
 ms.author: sgroespe
 ms.openlocfilehash: f2767fca96e1f3689fc4806d878381d02622f261
-ms.sourcegitcommit: addfb47612cc2e4e98dfd7e338b6f41cde405d5c
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/16/2019
-ms.locfileid: "938595"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1243737"
 ---
 # <a name="reverse-postings"></a>Сторнирование учета
 Что отменить ошибочную проводку в журнале, выберите операцию и создайте сторнирующую операцию (операции, идентичные исходным, но с противоположным знаком в поле суммы) с таким же номером документа и датой учета, что и у исходной операции. После сторнирования операции необходимо создать корректирующую запись.

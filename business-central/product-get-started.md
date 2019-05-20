@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: setup wizard
 ms.date: 04/01/2019
 ms.author: edupont
-ms.openlocfilehash: 80dcc6b46cdb89c846666963baffa6704daade28
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.openlocfilehash: eae085d430fb7341b8ac62f26033d68d9ea155cf
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "925997"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1254084"
 ---
 # <a name="getting-started-with-included365finlongincludesd365finlongmdmd"></a>Приступая к работе с [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]
 [!INCLUDE[d365fin](includes/d365fin_md.md)] — это решение по управлению деятельностью для малых и средних предприятий, позволяющее автоматизировать и упростить бизнес процессы и лучше управлять бизнесом. Регистрация очень проста, и вы можете перенести существующие бизнес-данные из своей системы. Чтобы разобраться с подпиской, найдите партнера [!INCLUDE[d365fin](includes/d365fin_md.md)] [здесь](https://www.microsoft.com/en-us/solution-providers/search).  

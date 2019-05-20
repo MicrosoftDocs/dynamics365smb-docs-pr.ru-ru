@@ -8,27 +8,35 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: account schedule, analysis, reporting, financial report, business intelligence, KPI
-ms.date: 04/01/2019
+ms.date: 04/26/2019
 ms.author: edupont
-ms.openlocfilehash: f51de349c4b13eaabd185cdb728d59006dfe6db6
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.openlocfilehash: a999a9533aa2dd4e8dcadea04e7838305b34ba5b
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "916378"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1247505"
 ---
 # <a name="enabling-your-business-data-for-power-bi"></a>Включение бизнес-данных для Power BI
 Анализ данных [!INCLUDE[d365fin](includes/d365fin_md.md)] становится проще благодаря Power BI и пакетам содержимого [!INCLUDE[d365fin](includes/d365fin_md.md)]. Power BI извлекает ваши данные и строит готовую панель мониторинга и отчеты на основе этих данных.  
 
 Вы должны иметь допустимую учетную запись в Dynamics 365 и в Power BI. Кроме того, необходимо скачать [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/), если вы хотите создавать собственные отчеты Power BI. Для пакетов содержимого Power BI требуются разрешения к таблицам, из которых извлекаются данные. Дополнительные сведения о требованиях см. ниже.  
 
+> [!IMPORTANT]
+> Пакеты содержимого, которые описаны в этой статье, предназначены для использования Azure Active Directory в качестве механизма аутентификации. Если используется [!INCLUDE [prodshort](includes/prodshort.md)] On-Premises и используются другой механизм аутентификации, Power BI не может подключаться к вашим данным.  
+
 Майкрософт опубликовывала следующие пакеты содержимого:
 
-| Приложение | Описанием |
-| --- | --- |
-| Microsoft Business Central | Обеспечивает панель мониторинга с ключевыми финансовыми данными в зависимости от времени, такими как прибыль и расходы, текущая прибыль и наличный цикл.|
-| Microsoft Business Central - CRM | Предоставляет панель мониторинга с ключевыми данными о возможных сделках по продажам и контактах.  |
-| Microsoft Business Central - Sales | Предоставляет панель мониторинга с ключевыми данными о продажах и запасах. |
+- [!INCLUDE [prodlong](includes/prodlong.md)] — CRM  
+- [!INCLUDE [prodlong](includes/prodlong.md)] — Список клиентов  
+- [!INCLUDE [prodlong](includes/prodlong.md)] — Финансы  
+- [!INCLUDE [prodlong](includes/prodlong.md)] — Список товаров  
+- [!INCLUDE [prodlong](includes/prodlong.md)] — Работы  
+- [!INCLUDE [prodlong](includes/prodlong.md)] — Список работ  
+- [!INCLUDE [prodlong](includes/prodlong.md)] — Счета покупки  
+- [!INCLUDE [prodlong](includes/prodlong.md)] — Продажи  
+- [!INCLUDE [prodlong](includes/prodlong.md)] — Список заказов на продажу  
+- [!INCLUDE [prodlong](includes/prodlong.md)] — Список поставщиков  
 
 ## <a name="using-the-dashboards"></a>Использование панелей мониторинга
 Каждый пакет содержимого предоставляет отчеты, которые можно подробно изучать:
@@ -47,14 +55,14 @@ ms.locfileid: "916378"
 1. Выберите **Получить данные** в нижней части левой панели навигации.  
 ![Переход к разделу "Получить данные"](./media/across-how-to-connect-powerbi-d365-content-packs/powerbi-get-data.png)
 
-Можно также начать с Dynamics 365 Business Edition. Из ролевого центра перейдите к пункту **Выбор отчета** части ролевого центра Power BI. Выберите на ленте **Сервис** или **Моя организация**. Когда выбрано одно из этих действий, производится переход к галерее "Организация" в Power BI или к библиотеке сервисов в Power BI, которые также будут отфильтрованы для отображения только соответствующих пакетов, имеющих отношение к [!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)].
+Можно также начать с [!INCLUDE [prodshort](includes/prodshort.md)]. Из ролевого центра перейдите к пункту **Выбор отчета** части ролевого центра Power BI. Выберите на ленте **Сервис** или **Моя организация**. Когда выбрано одно из этих действий, производится переход к галерее "Организация" в Power BI или к библиотеке сервисов в Power BI, которые также будут отфильтрованы для отображения только соответствующих пакетов, имеющих отношение к [!INCLUDE[prodshort](includes/prodshort.md)].
 
 2. В поле **Службы** выберите **Получить**. Откроется страница **AppSource** и **Приложения для приложений Power BI**.  
 ![Выбор пакетов содержимого из веб-служб](./media/across-how-to-connect-powerbi-d365-content-packs/powerbi-online-services-get.png)
 3. Выберите **Приложения** на вкладке **Приложения для приложений Power BI**, выберите требуемый пакет содержимого **Microsoft Dynamics 365 Business Central** и щелкните **Получить сейчас**.  
 ![Выберите Dynamics 365 Business Central и выберите "Получить сейчас"](./media/across-how-to-connect-powerbi-d365-content-packs/powerbi-dynamics365-for-financials-get-it-now.png)
 4. При появлении запроса ведите имя *вашей организации* в [!INCLUDE[d365fin_md](includes/d365fin_long_md.md)]. Это не отображаемое имя. Название организации можно найти на странице "Организации" в вашем экземпляре [!INCLUDE[d365fin_md](includes/d365fin_long_md.md)].  
-![Выберите Dynamics 365 Business Central и выберите "Получить сейчас"](./media/across-how-to-connect-powerbi-d365-content-packs/powerbi-connect-to-d365-finance-and-operations-crm.png)
+![Выберите Dynamics 365 Business Central и выберите "Получить сейчас"](./media/across-how-to-connect-powerbi-d365-content-packs/powerbi-connect-to-d365-business-central-finance.png)
 5. После подключения панель мониторинга, отчет и набор данных будут автоматически отправлены в рабочую область Power BI. По завершении плитки обновятся для отображения данных из вашей организации [!INCLUDE[d365fin_md](includes/d365fin_long_md.md)].
 ![Выберите Dynamics 365 Business Central и выберите "Получить сейчас"](./media/across-how-to-connect-powerbi-d365-content-packs/powerbi-workspace-dashboard-report-dataset.png)
 
@@ -68,7 +76,7 @@ ms.locfileid: "916378"
 ## <a name="system-requirements"></a>Требования к системе
 Чтобы импортировать данные [!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)] в Power BI, необходимо иметь разрешения на доступ к веб-службам, используемым для извлечения данных. Веб-службы, необходимые для каждого пакета содержимого:
 
-## <a name="role-center-reports"></a>Отчеты ролевого центра
+### <a name="role-center-reports"></a>Отчеты ролевого центра
 
 **Microsoft Dynamics 365 Business Central – CRM**
 - Возможности продаж
@@ -92,7 +100,7 @@ ms.locfileid: "916378"
 - Организация для просмотра шаблона Excel
 - Метки отчета Power BI
 
-## <a name="list-page-reports"></a>Список отчетов страниц
+### <a name="list-page-reports"></a>Список отчетов страниц
 
 **Microsoft Dynamics 365 Business Central – Customers List**
 - Продажа товаров по клиенту

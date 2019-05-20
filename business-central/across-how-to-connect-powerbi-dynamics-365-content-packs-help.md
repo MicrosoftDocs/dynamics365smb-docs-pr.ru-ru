@@ -12,11 +12,11 @@ ms.date: 04/01/2019
 ms.author: solsen
 redirect_url: admin-powerbi
 ms.openlocfilehash: b7e844f64a96ba02c1a5fa0231f7b6992f972677
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "932837"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1247402"
 ---
 # <a name="connecting-power-bi-to-dynamics-365-business-central-content-packs"></a>Подключение Power BI к пакетам содержимого Dynamics 365 Business Central
 Анализ данных Microsoft [!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)] становится проще благодаря Power BI и пакетам содержимого Microsoft [!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)]. Power BI извлекает ваши данные и строит готовую панель мониторинга и отчеты на основе этих данных.

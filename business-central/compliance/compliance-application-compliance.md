@@ -12,11 +12,11 @@ ms.search.keywords: ''
 ms.date: 04/01/2019
 ms.author: soalex
 ms.openlocfilehash: 283fe8bd51cca855f97b682c3b77c3e8805514e6
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "912806"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1246891"
 ---
 # <a name="application-compliance"></a>Соответствие приложений
 Данное содержимое содержит информацию о соответствии приложений в связи с [!INCLUDE[d365fin](../includes/d365fin_md.md)], например международным стандартам финансовой отчетности, местным функциональным возможностям, общему регламенту по защите данных (GDPR)и т. д. Уверенность в решении по управлению деятельностью бизнеса — это ключ к эффективной работе бизнеса. Business Central позволяет организациям оптимизировать бизнес-процессы, при этом последовательно и экономически эффективно обеспечивая соответствие все ужесточающимся нормативным требованиям и требованиям к отчетности.

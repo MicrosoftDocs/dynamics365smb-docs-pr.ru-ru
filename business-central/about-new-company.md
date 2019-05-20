@@ -11,11 +11,11 @@ ms.search.keywords: company, setup wizard
 ms.date: 04/01/2019
 ms.author: edupont
 ms.openlocfilehash: eae262341eb61e40f130caf45bb838a62aa67cf2
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "916582"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1245212"
 ---
 # <a name="creating-new-companies-in-included365finincludesd365finmdmd"></a>Создание новых организаций в [!INCLUDE[d365fin](includes/d365fin_md.md)]
 В [!INCLUDE[d365fin](includes/d365fin_md.md)] контейнеры для коммерческой информации, которая относится к филиалу или юридическому лицу, называются *организация*. При оформлении подписки на [!INCLUDE[d365fin](includes/d365fin_md.md)] вам предоставляется демонстрационная организация и пустая организация *Моя организация*. Переключаться между организациями легко, просто откройте **Мои настройки** и перейдите в другую организацию. Однако можно также создавать новые организации в [!INCLUDE[d365fin](includes/d365fin_md.md)], в зависимости от потребностей бизнеса. При создании новой организации мастер настройки помогает правильно задать основные параметры. После этого можно импортировать соответствующие данные из своей старой системы или другой организации в [!INCLUDE[d365fin](includes/d365fin_md.md)].  

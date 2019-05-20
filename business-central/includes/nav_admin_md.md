@@ -1,1 +1,1 @@
-Microsoft Dynamics NAV Средство администрирования сервера
+Средство администрирования Microsoft Dynamics NAV Server

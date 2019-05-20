@@ -13,11 +13,11 @@ ms.search.keywords: personalization
 ms.date: 04/01/2019
 ms.author: solsen
 ms.openlocfilehash: 2d20fc0849e90f74924ebc585662a9e461cc2313
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "924880"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1244381"
 ---
 # <a name="displaying-lists-in-different-ways"></a>Отображение списков различными способами
 В правом углу любого списка в [!INCLUDE[d365fin](includes/d365fin_md.md)] находятся значки, позволяющие переключать представление списка. Список можно просматривать как подробный список, что является представлением по умолчанию. Однако вы также можете переключиться на представление плиток, в котором содержится меньше информации о конкретных записях, а все операции размещены в виде плиток. Это представление очень полезно для получения общего представления о нескольких операциях, особенно на небольших устройствах, поскольку такой список проще нажимать.

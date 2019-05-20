@@ -13,11 +13,11 @@ ms.search.keywords: ''
 ms.date: 04/01/2019
 ms.author: sgroespe
 ms.openlocfilehash: 6df4963c18e12efe4ddad68c6050776b45e7614c
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "920800"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1245576"
 ---
 # <a name="gather-customer-setup-values"></a>Сбор значений настройки клиента
 Анкета конфигурации используется для упрощения снижения рабочей нагрузки благодаря оптимизации настройки новой организации. Можно сгенерировать анкету конфигурации в [!INCLUDE[d365fin](includes/d365fin_md.md)], а затем передать ее клиенту в файле Excel или XML.  
@@ -119,5 +119,5 @@ ms.locfileid: "920800"
 Теперь вы настроили параметры с использованием бизнес-данных и правил клиента.
 
 ## <a name="see-also"></a>См. также  
-[Настройка компании с помощью служб RapidStart Services](admin-set-up-a-company-with-rapidstart.md)  
+[Настройка организации со службами RapidStart Services](admin-set-up-a-company-with-rapidstart.md)  
 [Администрация](admin-setup-and-administration.md)

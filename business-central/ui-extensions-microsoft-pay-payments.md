@@ -1,6 +1,6 @@
 ---
 title: Стандарт Microsoft Pay | Microsoft Docs
-description: Предоставляется информация о расширении Microsoft Pay.
+description: Предоставляет сведения о расширении Microsoft Pay.
 services: project-madeira
 documentationcenter: ''
 author: SorenGP
@@ -12,11 +12,11 @@ ms.workload: na
 ms.date: 04/01/2019
 ms.author: sgroespe
 ms.openlocfilehash: 61022b690cb2a442eaf6cd27c305ebd874a9474f
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "935830"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1249932"
 ---
 # <a name="the-microsoft-pay-extension"></a>Расширение Microsoft Pay
 Клиенты постоянно требуют более высокого качества обслуживания как с точки зрения качества продукции, так и с точки зрения вариантов доставки и оплаты. Служба платежей Microsoft Pay помогает улучшить качество обслуживания.

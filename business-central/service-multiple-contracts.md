@@ -13,11 +13,11 @@ ms.search.keywords: ''
 ms.date: 04/01/2019
 ms.author: sgroespe
 ms.openlocfilehash: abc62fabc1429c647e0d618193240bd292350fbd
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "918892"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1249817"
 ---
 # <a name="multiple-contracts"></a>Несколько контрактов
 В соответствии с заключенными с клиентом соглашениями об уровне обслуживания может возникнуть необходимость работы с сервисным товаром, входящим в несколько сервисных контрактов.  

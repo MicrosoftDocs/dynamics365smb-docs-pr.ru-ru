@@ -13,11 +13,11 @@ ms.search.keywords: contract, agreement, configure
 ms.date: 04/01/2019
 ms.author: bholtorf
 ms.openlocfilehash: 574509447668d0aab4bba0394029f784eb55ca2e
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "912054"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1250231"
 ---
 # <a name="fulfilling-service-contracts"></a>Выполнение контрактов на обслуживание 
 Одним из способов организации сервисного управления является стандартизация контрактов между организацией и клиентами с описанием уровней сервиса и ожидаемых результатов. Можно создать шаблоны контрактов, включающие такие основные сведения, как данные о клиенте, дата начала действия контракта и период выставления счетов.  

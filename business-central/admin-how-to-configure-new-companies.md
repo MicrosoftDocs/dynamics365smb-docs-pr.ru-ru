@@ -13,11 +13,11 @@ ms.search.keywords: ''
 ms.date: 04/01/2019
 ms.author: sgroespe
 ms.openlocfilehash: ecfa992e5a228225c6ef18ced95e477519ce0fd7
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "925558"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1245437"
 ---
 # <a name="configure-new-companies"></a>Настройка новых организаций
 Настройка новой организации в вашей реализации решения обычно производится в три этапа. На первом этапе необходимо импортировать пакет конфигурации в виде файла .rapidstart с информацией о конфигурации. Во второй фазе изменяется информация о конфигурации и затем применяется к новой организации. На конечном этапе можно просмотреть и исправить все ошибки.  
@@ -75,5 +75,5 @@ ms.locfileid: "925558"
 
 ## <a name="see-also"></a>См. также  
 [Применение конфигураций к новым организациям](admin-apply-configuration-to-new-companies.md)  
-[Настройка компании с помощью служб RapidStart Services](admin-set-up-a-company-with-rapidstart.md)  
+[Настройка организации со службами RapidStart Services](admin-set-up-a-company-with-rapidstart.md)  
 [Администрация](admin-setup-and-administration.md)

@@ -12,11 +12,11 @@ ms.workload: na
 ms.date: 04/01/2019
 ms.author: bholtorf
 ms.openlocfilehash: c70a8fd066ffd5d312716891aa4cdf7768cd102a
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "926680"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1249219"
 ---
 # <a name="managing-notifications"></a>Управление уведомлениями
 [!INCLUDE[d365fin](includes/d365fin_md.md)] может помочь работать эффективнее, например уведомляя об определенных событиях или изменениях статуса, например, когда вы собираетесь выставить счет клиенту, у которого имеется просроченная задолженность, или когда доступные запасы ниже количества, которое вы собираетесь продать. Эти уведомления отображаются как разумные подсказки в контексте выполняемой вами задачи, и вы можете игнорировать уведомление или проверить сведения о проблеме.  

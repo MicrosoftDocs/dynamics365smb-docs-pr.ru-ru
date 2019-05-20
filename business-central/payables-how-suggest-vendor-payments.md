@@ -13,11 +13,11 @@ ms.search.keywords: vendor payment, creditor, debt, balance due, AP
 ms.date: 04/01/2019
 ms.author: sgroespe
 ms.openlocfilehash: 9936a77c7afdc89d6d8c8485d01b4970e85fcb19
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "934469"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1254003"
 ---
 # <a name="suggest-vendor-payments"></a>Предлож. оплаты поставщикам
 На странице **Журнал платежей** можно использовать пакетное задание **Предлож. оплаты поставщикам** для предложения строк платежей. Строки для платежей, для которых скоро наступает крайний срок, или платежей, для которых доступна скидка, предлагаются на основании ваших настроек.

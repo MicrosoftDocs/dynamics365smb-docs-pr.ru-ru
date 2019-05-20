@@ -12,11 +12,11 @@ ms.search.keywords: SMTP, mail, Office 365, cover, body, PayPal, layout
 ms.date: 04/01/2019
 ms.author: sgroespe
 ms.openlocfilehash: fcae17577b448b4271adee299874cf5cad9da79f
-ms.sourcegitcommit: addfb47612cc2e4e98dfd7e338b6f41cde405d5c
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/16/2019
-ms.locfileid: "938207"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1249380"
 ---
 # <a name="send-documents-by-email"></a>Отправка документов по электронной почте
 Для быстрой передачи содержимого деловых документов вашим бизнес-партнерам, например информации о платеже в документах продажи клиентам, можно использовать функцию макетов отчетов, чтобы определять зависящее от вида документа содержимое, которое автоматически вставляется в текст сообщения электронной почты. Дополнительные сведения см. в разделе [Управление макетами отчетов и документов](ui-manage-report-layouts.md).

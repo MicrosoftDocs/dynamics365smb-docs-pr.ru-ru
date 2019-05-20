@@ -11,11 +11,11 @@ ms.search.keywords: accessibility, shortcuts, keyboarding
 ms.date: 04/01/2019
 ms.author: jswymer
 ms.openlocfilehash: 2db4fb00567c98b1133cd031a3d7d9f1d1955626
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "922317"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1250898"
 ---
 # <a name="copying-and-pasting"></a>Копирование и вставка
 Можно скопировать один или несколько строк из списка или одно поле на странице, а затем вставить скопированное на ту же страницу, другую страницу или во внешний документ (например, Microsoft Excel или сообщение электронной почты Outlook). Вкратце, чтобы скопировать, нажмите CTRL+C (cmd+C в macOS) на клавиатуре. Для вставки нажмите CTRL+V (cmd+V в macOS).
