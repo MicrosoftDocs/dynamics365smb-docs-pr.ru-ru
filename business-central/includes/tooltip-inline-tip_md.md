@@ -1,1 +1,1 @@
-<span data-ttu-id="61d4e-101">Наведите указатель на поле, чтобы увидеть короткое описание.</span><span class="sxs-lookup"><span data-stu-id="61d4e-101">Hover over a field to read a short description.</span></span>
+<span data-ttu-id="82031-101">Наведите указатель на поле, чтобы увидеть короткое описание.</span><span class="sxs-lookup"><span data-stu-id="82031-101">Hover over a field to read a short description.</span></span>
