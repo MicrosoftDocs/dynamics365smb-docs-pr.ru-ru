@@ -11,26 +11,26 @@ ms.search.keywords: GetAddress.io, postcodes, postal, address, extension
 ms.date: 04/01/2019
 ms.author: bholtorf
 ms.openlocfilehash: 5c83a5bc7fbe91b9ff0592c5129f5a7dd5887c2c
-ms.sourcegitcommit: bd78a5d990c9e83174da1409076c22df8b35eafd
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2019
-ms.locfileid: "928373"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1250047"
 ---
-# <a name="the-getaddressio-uk-postcodes-extension"></a><span data-ttu-id="ac9b0-103">Расширение "Почтовые индексы Великобритании GetAddress.io"</span><span class="sxs-lookup"><span data-stu-id="ac9b0-103">The GetAddress.io UK Postcodes Extension</span></span>
-<span data-ttu-id="ac9b0-104">Расширение "Почтовые индексы Великобритании GetAddress.io" может помочь сэкономить время и избежать ошибок при вводе адресов для объектов, таких как клиенты, поставщики, банковские счета и сотрудники.</span><span class="sxs-lookup"><span data-stu-id="ac9b0-104">The GetAddress.io UK Postcodes extension can save time and prevent mistakes when you enter addresses for entities like customers, vendors, bank accounts, and employees.</span></span> <span data-ttu-id="ac9b0-105">Например, при создании клиента можно просто выбрать почтовый индекс, и [!INCLUDE[d365fin](includes/d365fin_md.md)] отобразит список адресов.</span><span class="sxs-lookup"><span data-stu-id="ac9b0-105">For example, when you're creating a customer, you just choose a postcode and [!INCLUDE[d365fin](includes/d365fin_md.md)] shows a list of addresses.</span></span> <span data-ttu-id="ac9b0-106">Выберите требуемый адрес, и поля адреса будут заполнены автоматически.</span><span class="sxs-lookup"><span data-stu-id="ac9b0-106">Pick the address you want, and presto, the address fields are filled out.</span></span>  
+# <a name="the-getaddressio-uk-postcodes-extension"></a><span data-ttu-id="d0a1c-103">Расширение "Почтовые индексы Великобритании GetAddress.io"</span><span class="sxs-lookup"><span data-stu-id="d0a1c-103">The GetAddress.io UK Postcodes Extension</span></span>
+<span data-ttu-id="d0a1c-104">Расширение "Почтовые индексы Великобритании GetAddress.io" может помочь сэкономить время и избежать ошибок при вводе адресов для объектов, таких как клиенты, поставщики, банковские счета и сотрудники.</span><span class="sxs-lookup"><span data-stu-id="d0a1c-104">The GetAddress.io UK Postcodes extension can save time and prevent mistakes when you enter addresses for entities like customers, vendors, bank accounts, and employees.</span></span> <span data-ttu-id="d0a1c-105">Например, при создании клиента можно просто выбрать почтовый индекс, и [!INCLUDE[d365fin](includes/d365fin_md.md)] отобразит список адресов.</span><span class="sxs-lookup"><span data-stu-id="d0a1c-105">For example, when you're creating a customer, you just choose a postcode and [!INCLUDE[d365fin](includes/d365fin_md.md)] shows a list of addresses.</span></span> <span data-ttu-id="d0a1c-106">Выберите требуемый адрес, и поля адреса будут заполнены автоматически.</span><span class="sxs-lookup"><span data-stu-id="d0a1c-106">Pick the address you want, and presto, the address fields are filled out.</span></span>  
 
-##<a name="to-use-the-getaddressio-uk-postcodes-extension-when-you-enter-an-address"></a><span data-ttu-id="ac9b0-107">Использование расширения "Почтовые индексы Великобритании GetAddress.io" при создании адреса</span><span class="sxs-lookup"><span data-stu-id="ac9b0-107">To use the GetAddress.io UK Postcodes extension when you enter an address</span></span>
-1. <span data-ttu-id="ac9b0-108">В разделе **Адрес** выберите **Найти адрес по почтовому индексу**.</span><span class="sxs-lookup"><span data-stu-id="ac9b0-108">Under **Address**, choose **Look up address from postcode**.</span></span>  
+##<a name="to-use-the-getaddressio-uk-postcodes-extension-when-you-enter-an-address"></a><span data-ttu-id="d0a1c-107">Использование расширения "Почтовые индексы Великобритании GetAddress.io" при создании адреса</span><span class="sxs-lookup"><span data-stu-id="d0a1c-107">To use the GetAddress.io UK Postcodes extension when you enter an address</span></span>
+1. <span data-ttu-id="d0a1c-108">В разделе **Адрес** выберите **Найти адрес по почтовому индексу**.</span><span class="sxs-lookup"><span data-stu-id="d0a1c-108">Under **Address**, choose **Look up address from postcode**.</span></span>  
 
     > [!NOTE]  
-    >   <span data-ttu-id="ac9b0-109">Параметр **Найти адрес по почтовому индексу** доступен, только если поле **Код страны или региона** либо пусто, либо содержит значение **GB**.</span><span class="sxs-lookup"><span data-stu-id="ac9b0-109">The **Look up address from postcode** option is available only if the **Country/Region Code** field is either empty, or contains **GB**.</span></span>
-2. <span data-ttu-id="ac9b0-110">На странице **Поиск почтового индекса** в поле **Почтовый индекс** введите или выберите почтовый индекс.</span><span class="sxs-lookup"><span data-stu-id="ac9b0-110">On the **Postcode Search** page, in the **Postcode** field, enter or choose the postcode.</span></span>  
-3. <span data-ttu-id="ac9b0-111">На странице **Выбор адреса** выберите адрес.</span><span class="sxs-lookup"><span data-stu-id="ac9b0-111">On the **Address Selection** page, choose the address.</span></span>  
+    >   <span data-ttu-id="d0a1c-109">Параметр **Найти адрес по почтовому индексу** доступен, только если поле **Код страны или региона** либо пусто, либо содержит значение **GB**.</span><span class="sxs-lookup"><span data-stu-id="d0a1c-109">The **Look up address from postcode** option is available only if the **Country/Region Code** field is either empty, or contains **GB**.</span></span>
+2. <span data-ttu-id="d0a1c-110">На странице **Поиск почтового индекса** в поле **Почтовый индекс** введите или выберите почтовый индекс.</span><span class="sxs-lookup"><span data-stu-id="d0a1c-110">On the **Postcode Search** page, in the **Postcode** field, enter or choose the postcode.</span></span>  
+3. <span data-ttu-id="d0a1c-111">На странице **Выбор адреса** выберите адрес.</span><span class="sxs-lookup"><span data-stu-id="d0a1c-111">On the **Address Selection** page, choose the address.</span></span>  
 
 > [!TIP]  
->   <span data-ttu-id="ac9b0-112">Если вы знаете номер улицы, вы можете выполнить фильтрацию адресов, введя некоторые или все цифры в поле **Пункт доставки**.</span><span class="sxs-lookup"><span data-stu-id="ac9b0-112">If you know the street number, you can filter the addresses by entering some or all of the number in the **Delivery Point** field.</span></span>
+>   <span data-ttu-id="d0a1c-112">Если вы знаете номер улицы, вы можете выполнить фильтрацию адресов, введя некоторые или все цифры в поле **Пункт доставки**.</span><span class="sxs-lookup"><span data-stu-id="d0a1c-112">If you know the street number, you can filter the addresses by entering some or all of the number in the **Delivery Point** field.</span></span>
 
 
-## <a name="see-also"></a><span data-ttu-id="ac9b0-113">См. также</span><span class="sxs-lookup"><span data-stu-id="ac9b0-113">See Also</span></span>
-[<span data-ttu-id="ac9b0-114">Настройка расширения "Почтовые индексы Великобритании GetAddress.io"</span><span class="sxs-lookup"><span data-stu-id="ac9b0-114">Set Up the GetAddress.io UK Postal Code Extension</span></span>](LocalFunctionality/UnitedKingdom/uk-setup-postal-code-service.md)
+## <a name="see-also"></a><span data-ttu-id="d0a1c-113">См. также</span><span class="sxs-lookup"><span data-stu-id="d0a1c-113">See Also</span></span>
+[<span data-ttu-id="d0a1c-114">Настройка расширения "Почтовые индексы Великобритании GetAddress.io"</span><span class="sxs-lookup"><span data-stu-id="d0a1c-114">Set Up the GetAddress.io UK Postal Code Extension</span></span>](LocalFunctionality/UnitedKingdom/uk-setup-postal-code-service.md)

@@ -1,1 +1,1 @@
-<span data-ttu-id="ea00e-101">Для просмотра пунктов в этом разделе выбирайте ссылки в пункте **См. также**.</span><span class="sxs-lookup"><span data-stu-id="ea00e-101">To see the topics in this section, choose the links under **See Also**.</span></span>
+<span data-ttu-id="9c810-101">Для просмотра пунктов в этом разделе выбирайте ссылки в пункте **См. также**.</span><span class="sxs-lookup"><span data-stu-id="9c810-101">To see the topics in this section, choose the links under **See Also**.</span></span>
