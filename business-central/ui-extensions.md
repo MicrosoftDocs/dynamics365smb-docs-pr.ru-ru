@@ -11,12 +11,12 @@ ms.workload: na
 ms.search.keywords: app, add-in, manifest, customize
 ms.date: 04/01/2019
 ms.author: edupont
-ms.openlocfilehash: 869d136498604a61b1f3016efca475b4784c4456
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: d03d1aa3910dc73dc61c61bdd66725e8e8af3c66
+ms.sourcegitcommit: 04581558f6c5488c705a7ac392cf297be10b5f4f
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1250277"
+ms.lasthandoff: 06/06/2019
+ms.locfileid: "1621118"
 ---
 # <a name="customizing-business-central-using-extensions"></a>Настройка Business Central с помощью расширений
 Вы можете изменить [!INCLUDE[d365fin](includes/d365fin_md.md)] за счет установки расширений, которые добавляют функциональность, изменяют поведение или, например, предоставляют доступ к новым интернет-службам.
@@ -65,6 +65,7 @@ ms.locfileid: "1250277"
 * [Миграция данных C5](ui-extensions-c5-data-migration.md)  
 * [Важная бизнес-аналитика](ui-extensions-essential-business-insights.md)  
 * [Прогнозы просрочки оплаты](ui-extensions-late-payment-prediction.md  )
+* [Отправить авизо](ui-extensions-send-remittance-advice.md)
 
 > [!NOTE]  
 >  Новые расширения не становятся доступными в AppSource сразу после объявления об обновлении. Следить за выходом новых расширений можно на сайте [AppSource.microsoft.com](https://appsource.microsoft.com/en-us/marketplace/apps?product=dynamics-365%3Bdynamics-365-for-financials&page=1).

@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2019
 ms.author: bholtorf
-ms.openlocfilehash: c318346c62b7776a550a77a2947173e33d5f17c0
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: 3163389cb0818133fba9ab8c55b8d0cf662130f1
+ms.sourcegitcommit: 04581558f6c5488c705a7ac392cf297be10b5f4f
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1246578"
+ms.lasthandoff: 06/06/2019
+ms.locfileid: "1620957"
 ---
 # <a name="setting-up-user-accounts-for-integrating-with-dynamics-365-for-sales"></a>Настройка учетных записей пользователя для интеграции с Dynamics 365 for Sales
 Эта статья содержит обзор порядка настройки учетных записей пользователей, которые требуются для интеграции [!INCLUDE[crm_md](includes/crm_md.md)] с [!INCLUDE[d365fin](includes/d365fin_md.md)].  
@@ -28,7 +28,7 @@ ms.locfileid: "1246578"
 Необходимо добавить учетную запись пользователя-администратора для [!INCLUDE[d365fin](includes/d365fin_md.md)] как пользователя в [!INCLUDE[crm_md](includes/crm_md.md)], а затем повысить пользователя до администратора в [!INCLUDE[crm_md](includes/crm_md.md)]. Учетная запись пользователя-администратора должна также включать роль специалиста по настройке системы и по крайней мере одну неадминистративную роль пользователя, такую как менеджер по продажам, в [!INCLUDE[crm_md](includes/crm_md.md)].
 
 ## <a name="setting-up-the-user-account-for-the-integration"></a>Настройка учетной записи пользователя для интеграции
-Необходимо создать специальную учетную запись пользователя в вашей подписке Office 365, которую могут использовать [!INCLUDE[d365fin](includes/d365fin_md.md)] и [!INCLUDE[crm_md](includes/crm_md.md)] для синхронизации данных. Данная учетная запись пользователя должна иметь возможность выполнять вход в [!INCLUDE[crm_md](includes/crm_md.md)], что означает, что этот пользователь должен иметь лицензию для [!INCLUDE[crm_md](includes/crm_md.md)]. Эта учетная запись также должна быть неинтерактивной учетной записью в [!INCLUDE[crm_md](includes/crm_md.md)]. Дополнительные сведения о том, как создавать пользователей в [!INCLUDE[crm_md](includes/crm_md.md)], см. в разделе [Управление безопасностью, пользователями и рабочими группами](http://go.microsoft.com/fwlink/?LinkID=616518). После того как подключение настроено, [!INCLUDE[d365fin](includes/d365fin_md.md)] назначит учетной записи пользователя роли безопасности, которые требуются в [!INCLUDE[d365fin](includes/d365fin_md.md)].
+Необходимо создать специальную учетную запись пользователя в вашей подписке Office 365, которую могут использовать [!INCLUDE[d365fin](includes/d365fin_md.md)] и [!INCLUDE[crm_md](includes/crm_md.md)] для синхронизации данных. Данная учетная запись пользователя должна обеспечивать вход в [!INCLUDE[crm_md](includes/crm_md.md)], это означает, что данный пользователь должен иметь лицензию на [!INCLUDE[crm_md](includes/crm_md.md)] и хотя бы роль безопасности, назначенную ему в [!INCLUDE[crm_md](includes/crm_md.md)], как описано [здесь](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/admin/create-users-assign-online-security-roles#create-a-user-account). Дополнительные сведения о том, как создавать пользователей в [!INCLUDE[crm_md](includes/crm_md.md)], см. в разделе [Управление безопасностью, пользователями и рабочими группами](http://go.microsoft.com/fwlink/?LinkID=616518). После настройки подключения [!INCLUDE[d365fin](includes/d365fin_md.md)] назначит учетной записи пользователя роли безопасности, необходимые в [!INCLUDE[d365fin](includes/d365fin_md.md)], и эта учетная запись может быть настроена для [режима неинтерактивного доступа](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/admin/create-users-assign-online-security-roles#create-a-non-interactive-user-account) в [!INCLUDE[crm_md](includes/crm_md.md)]
 
 ![Мастер настройки, в котором показано место для ввода учетных данных пользователя синхронизации](media/sync-user-setup.png "Визуализация страница мастера настройки, в котором показано место для ввода учетных данных пользователя синхронизации")
 

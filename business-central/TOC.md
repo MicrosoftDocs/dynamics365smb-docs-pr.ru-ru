@@ -51,7 +51,7 @@
 ## Использование сочетаний клавиш
 ### [Специальные возможности и сочетания клавиш](ui-accessibility.md)
 ### [Сочетания клавиш](keyboard-shortcuts.md)
-### [Краткая справка по сочетаниям клавиш](keyboard-shortcuts-cheatsheet.md)
+### [Краткая справка по сочетаниям клавиш — только ПК](keyboard-shortcuts-cheatsheet.md)
 
 # Настройка Business Central
 ## [Обзор](setup.md)
@@ -318,7 +318,7 @@
 ## [Создание среды "песочницы"](across-how-create-sandbox-environment.md)
 ## Интеграция с Dynamics 365 for Sales
 ### [Обзор](admin-prepare-dynamics-365-for-sales-for-integration.md)
-### [Настройка интеграции с Dynamics 365 for Sales](admin-setting-up-integration-with-dynamics-sales.md)
+### [Настройка учетных записей пользователя для интеграции с Dynamics 365 for Sales](admin-setting-up-integration-with-dynamics-sales.md)
 ### [Настройка подключения к Dynamics 365 for Sales](admin-how-to-set-up-a-dynamics-crm-connection.md)
 ### [Синхронизация Business Central и Dynamics 365 for Sales](admin-synchronizing-business-central-and-sales.md)
 ### [Изменение сопоставлений таблицы для синхронизации](admin-how-to-modify-table-mappings-for-synchronization.md)
@@ -330,11 +330,11 @@
 #### [Обзор](ui-extensions.md)
 #### [Настройка с помощью расширений](ui-extensions.md)
 #### [Зарплата Ceridian](ui-extensions-ceridian-payroll.md)
-#### [Репликация данных](ui-extensions-data-replication.md)
 #### [Миграция данных Dynamics GP](ui-extensions-dynamicsgp-data-migration.md)
 #### [Важная бизнес-аналитика](ui-extensions-essential-business-insights.md)
 #### [Анализатор изображений](ui-extensions-image-analyzer.md)
-#### [Интеллектуальное облако](ui-extensions-intelligent-cloud.md)
+#### [Интеллектуальное облако](ui-extensions-data-replication.md)
+#### [База интеллектуального облака](ui-extensions-intelligent-cloud.md)
 #### [Платежи Microsoft Pay](ui-extensions-microsoft-pay-payments.md)
 #### [PayPal Payments Standard](ui-extensions-paypal-payments-standard.md)
 #### [Миграция данных QuickBooks](ui-extensions-quickbooks-data-migration.md)
@@ -347,6 +347,7 @@
 #### [DK — Миграция данных C5](ui-extensions-c5-data-migration.md)
 #### [DK — Форматы налоговой документации](ui-extensions-tax-file-formats-dk.md)
 #### [DK — Почтовые индексы Великобритании GetAddress.io](ui-extensions-getaddressio.md)
+#### [Отправить авизо](ui-extensions-send-remittance-advice.md)
 #### [Расширения для Business Central от других поставщиков](ui-extensions-other.md)
 ### [Изменение набора отображаемых функций](ui-experiences.md)
 ### [Управление персонализацией в качестве администратора](ui-personalization-manage.md)
@@ -992,11 +993,7 @@
 #### [Создание отчетов по НДС](LocalFunctionality/Germany/how-to-create-vat-reports.md)
 #### [Исправление отчетов по НДС](LocalFunctionality/Germany/how-to-correct-vat-reports.md)  
 #### [Предварительные уведомления об НДС](LocalFunctionality\Germany\how-to-set-up-and-export-sales-vat-advance-notifications.md)
-#### [Создание и отправка предварительных уведомлений об НДС с продаж](LocalFunctionality/Germany/how-to-create-and-submit-sales-vat-advance-notifications.md)
-#### [Электронная подача предварительных уведомлений об НДС с продаж в ELSTER](LocalFunctionality/Germany/electronic-submission-of-sales-vat-advance-notifications-to-elster.md)
 #### [Декларирование налога VAT-VIES](LocalFunctionality/Germany/how-to-declare-vat-vies-tax.md)
-#### [Обзор передачи ELSTER](LocalFunctionality/Germany/elster-transmission-overview.md)
-#### [Сообщения об ошибках обработчика переноса Elster](LocalFunctionality/Germany/error-messages-of-the-elstertransferhandler.md)    
 ### Банковские операции и платежи
 #### [Печать отчетов списка оплаты поставщикам](LocalFunctionality/Germany/how-to-print-vendor-payments-list-reports.md)
 ### Основные финансы

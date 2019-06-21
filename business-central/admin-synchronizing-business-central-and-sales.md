@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: sales, crm, integration, sync, synchronize
 ms.date: 04/01/2019
 ms.author: bholtorf
-ms.openlocfilehash: e52010384de83d95011cb29a88cad17a5eba817c
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: a2adf188f616f3a9cbb0e0d3135ee79d238c453b
+ms.sourcegitcommit: 92c7b6c5f0a5d8becbef106ab85258906765bc3e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1247144"
+ms.lasthandoff: 05/13/2019
+ms.locfileid: "1540227"
 ---
 # <a name="synchronizing-data-in-business-central-and-dynamics-365-for-sales"></a>Синхронизация данных в Business Central и Dynamics 365 for Sales
 При интеграции [!INCLUDE[crm_md](includes/crm_md.md)] с [!INCLUDE[d365fin](includes/d365fin_md.md)] можно решить, требуется ли синхронизировать данные в выбранных полях записей [!INCLUDE[d365fin](includes/d365fin_md.md)] (таких как клиенты, контакты и менеджеры по продаже) с эквивалентными записями в [!INCLUDE[d365fin](includes/d365fin_md.md)] (таких как организации, контакты и пользователи). В зависимости от типа записи, можно синхронизировать данные из [!INCLUDE[crm_md](includes/crm_md.md)] в [!INCLUDE[d365fin](includes/d365fin_md.md)] или наоборот. Дополнительные сведения см. в разделе [Интеграция с Dynamics 365 for Sales](admin-prepare-dynamics-365-for-sales-for-integration.md).  
@@ -46,7 +46,7 @@ ms.locfileid: "1247144"
 |-------------------------------------------|-----|-------------------------|--------------|
 |Менеджер по продажам/закупкам|Пользователь|[!INCLUDE[crm_md](includes/crm_md.md)] -> [!INCLUDE[d365fin](includes/d365fin_md.md)]|Фильтр контакта Sales: **Состояние** равно **Нет**, **Пользователь лицензирован** — **Да**, режим интеграции пользователя — **Нет**|
 |Клиент|Организация|[!INCLUDE[d365fin](includes/d365fin_md.md)] -> [!INCLUDE[crm_md](includes/crm_md.md)] и [!INCLUDE[crm_md](includes/crm_md.md)] -> [!INCLUDE[d365fin](includes/d365fin_md.md)]|Фильтр организации Sales: **Тип отношения** — **Клиент**, **Состояние** — **Активно**.|
-|Контакт|Контакт|[!INCLUDE[d365fin](includes/d365fin_md.md)] -> [!INCLUDE[crm_md](includes/crm_md.md)] и [!INCLUDE[crm_md](includes/crm_md.md)] -> [!INCLUDE[d365fin](includes/d365fin_md.md)]|Фильтр контактов [!INCLUDE[d365fin](includes/d365fin_md.md)]: **Тип** равен **Человек** и контакт назначен компании. Фильтр по контактам Sales: контакт назначен организации, родительский тип клиента — **Организация**.|
+|Контакт|Контакт|[!INCLUDE[d365fin](includes/d365fin_md.md)] -> [!INCLUDE[crm_md](includes/crm_md.md)] и [!INCLUDE[crm_md](includes/crm_md.md)] -> [!INCLUDE[d365fin](includes/d365fin_md.md)]|Фильтр по контактам [!INCLUDE[d365fin](includes/d365fin_md.md)]: **тип** — **Человек** и контакт назначен организации. Фильтр по контактам Sales: контакт назначен организации, родительский тип клиента — **Организация**.|
 |Валюта|Валюта транзакции|[!INCLUDE[d365fin](includes/d365fin_md.md)] -> [!INCLUDE[crm_md](includes/crm_md.md)]| |
 |Единица измерения|Группа единиц|[!INCLUDE[d365fin](includes/d365fin_md.md)] -> [!INCLUDE[crm_md](includes/crm_md.md)]| |
 |Товар|Продукт|[!INCLUDE[d365fin](includes/d365fin_md.md)] -> [!INCLUDE[crm_md](includes/crm_md.md)] и [!INCLUDE[crm_md](includes/crm_md.md)] -> [!INCLUDE[d365fin](includes/d365fin_md.md)]|Тип контактов Sales: **Тип продукта** — **Товарный запас**|

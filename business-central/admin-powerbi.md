@@ -10,17 +10,17 @@ ms.workload: na
 ms.search.keywords: account schedule, analysis, reporting, financial report, business intelligence, KPI
 ms.date: 04/26/2019
 ms.author: edupont
-ms.openlocfilehash: a999a9533aa2dd4e8dcadea04e7838305b34ba5b
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: 79fa8f67a1b2d7ced65f002bd04fc69f61811c5e
+ms.sourcegitcommit: 04581558f6c5488c705a7ac392cf297be10b5f4f
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1247505"
+ms.lasthandoff: 06/06/2019
+ms.locfileid: "1620980"
 ---
 # <a name="enabling-your-business-data-for-power-bi"></a>Включение бизнес-данных для Power BI
 Анализ данных [!INCLUDE[d365fin](includes/d365fin_md.md)] становится проще благодаря Power BI и пакетам содержимого [!INCLUDE[d365fin](includes/d365fin_md.md)]. Power BI извлекает ваши данные и строит готовую панель мониторинга и отчеты на основе этих данных.  
 
-Вы должны иметь допустимую учетную запись в Dynamics 365 и в Power BI. Кроме того, необходимо скачать [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/), если вы хотите создавать собственные отчеты Power BI. Для пакетов содержимого Power BI требуются разрешения к таблицам, из которых извлекаются данные. Дополнительные сведения о требованиях см. ниже.  
+Вы должны иметь допустимую учетную запись в [!INCLUDE[prodshort](includes/prodshort.md)] и в Power BI. Кроме того, необходимо скачать [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/), если вы хотите создавать собственные отчеты Power BI. Для пакетов содержимого Power BI требуются разрешения к таблицам, из которых извлекаются данные. Дополнительные сведения о требованиях см. ниже.  
 
 > [!IMPORTANT]
 > Пакеты содержимого, которые описаны в этой статье, предназначены для использования Azure Active Directory в качестве механизма аутентификации. Если используется [!INCLUDE [prodshort](includes/prodshort.md)] On-Premises и используются другой механизм аутентификации, Power BI не может подключаться к вашим данным.  
@@ -28,15 +28,8 @@ ms.locfileid: "1247505"
 Майкрософт опубликовывала следующие пакеты содержимого:
 
 - [!INCLUDE [prodlong](includes/prodlong.md)] — CRM  
-- [!INCLUDE [prodlong](includes/prodlong.md)] — Список клиентов  
 - [!INCLUDE [prodlong](includes/prodlong.md)] — Финансы  
-- [!INCLUDE [prodlong](includes/prodlong.md)] — Список товаров  
-- [!INCLUDE [prodlong](includes/prodlong.md)] — Работы  
-- [!INCLUDE [prodlong](includes/prodlong.md)] — Список работ  
-- [!INCLUDE [prodlong](includes/prodlong.md)] — Счета покупки  
 - [!INCLUDE [prodlong](includes/prodlong.md)] — Продажи  
-- [!INCLUDE [prodlong](includes/prodlong.md)] — Список заказов на продажу  
-- [!INCLUDE [prodlong](includes/prodlong.md)] — Список поставщиков  
 
 ## <a name="using-the-dashboards"></a>Использование панелей мониторинга
 Каждый пакет содержимого предоставляет отчеты, которые можно подробно изучать:
@@ -88,64 +81,9 @@ ms.locfileid: "1247505"
 - Организация для просмотра шаблона Excel
 - Метки отчета Power BI
 
-**Microsoft Dynamics 365 Business Central – Jobs**
-- Список работ
-- Строки планирования работ
-- Строки рабочего задания
-- Метки отчета Power BI
-- Организация для просмотра шаблона Excel
-
 **Microsoft Dynamics 365 Business Central - Sales**
 - Панель мониторинга продажи
 - Организация для просмотра шаблона Excel
-- Метки отчета Power BI
-
-### <a name="list-page-reports"></a>Список отчетов страниц
-
-**Microsoft Dynamics 365 Business Central – Customers List**
-- Продажа товаров по клиенту
-- Список покупок товаров Power BI
-- Список продаж товаров Power BI
-- Панель мониторинга продажи
-- Список клиентов Power BI
-- ExcelTemplateViewCompany
-- Метки отчета Power BI
-
-**Microsoft Dynamics 365 Business Central - General Ledger Entries List**
-- Список сумм ГК Power BI
-- Сумма бюджета ГК Power BI
-- ExcelTemplateViewCompany
-- Метки отчета Power BI
-
-**Microsoft Dynamics 365 Business Central – Items List**
-- Продажа товаров по клиенту
-- Список покупок товаров Power BI
-- Список продаж товаров Power BI
-- Панель мониторинга продажи
-- ExcelTemplateViewCompany
-- Метки отчета Power BI
-
-**Microsoft Dynamics 365 Business Central – Jobs List**
-- Список работ Power BI
-- ExcelTemplateViewCompany
-- Метки отчета Power BI
-
-**Microsoft Dynamics 365 Business Central – Purchase Invoices List**
-- Список покупок Power BI
-- ExcelTemplateViewCompany
-- Метки отчета Power BI
-
-**Microsoft Dynamics 365 Business Central – Sales Orders List**
-- Список продаж Power BI
-- ExcelTemplateViewCompany
-- Метки отчета Power BI
-
-
-**Microsoft Dynamics 365 Business Central – Vendors List**
-- Список покупок товаров Power BI
-- Список продаж товаров Power BI
-- Список поставщиков Power BI
-- ExcelTemplateViewCompany
 - Метки отчета Power BI
 
 ## <a name="web-services"></a>Веб-службы
@@ -158,8 +96,7 @@ ms.locfileid: "1247505"
 Распространенной ошибкой является ввод отображаемого имени организации вместо названия организации. Чтобы найти название организации, найдите **Организации**. Затем в поле **Название** введите название организации.
 
 ### <a name="incorrect-user-name-and-password"></a>Неверные имя пользователя и пароль  
-Имя пользователя и пароль, используемые для подключения, аналогичны используемым для подключения к учетной записи Microsoft Office 365.  
-
+Имя пользователя и пароль, используемые для входа в Power BI, аналогичны используемым для подключения к учетной записи Microsoft Office 365.  
 Также для пакетов содержимого требуется наличие учетной записи Microsoft [!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)]. После ввода учетных данных будут автоматически обнаружены все арендаторы Microsoft [!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)], к которым у вас есть доступ. Если у вас нет лицензированной или пробной учетной записи Microsoft [!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)], вы получите сообщение об ошибке.
 
 ### <a name="the-key-didnt-match-any-rows-in-the-table"></a>Ключ не соответствует ни одной из строк в таблице

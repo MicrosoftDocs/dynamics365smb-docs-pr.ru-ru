@@ -1,6 +1,6 @@
 ---
-title: Интеллектуально облако | Документы Майкрософт
-description: Получите облачную копию данных, чтобы быть подключенным к интеллектуальному облаку.
+title: Интеллектуальная аналитика | Документы Майкрософт
+description: Подключайтесь к интеллектуальной аналитики с Business Central, даже из локальных решений.
 author: bmeier94
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -9,20 +9,20 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.reviewer: edupont
 ms. search.keywords: cloud, edge
-ms.date: 04/01/2019
+ms.date: 05/20/2019
 ms.author: bmeier
-ms.openlocfilehash: 4bd30c2912c8a690431221e7983f5fe53b543322
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: a625bdb047fe77ca2fb118a41902c5546d38523d
+ms.sourcegitcommit: bf5f89dfaf5ad9f8f9902941cf3dac3e9f3553e5
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1241427"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "1594160"
 ---
-# <a name="your-access-to-the-intelligent-cloud-with-includeprodshortincludesprodshortmd"></a>Для доступа к интеллектуальному облаку служит [!INCLUDE[prodshort](includes/prodshort.md)]
+# <a name="intelligent-insights-with-includeprodshortincludesprodshortmd"></a>Интеллектуальная аналитика с [!INCLUDE[prodshort](includes/prodshort.md)]
 
-Как пользователь [!INCLUDE[prodshort](includes/prodshort.md)] Online, у вас имеется полный доступ к сценариям, основанным на интеллектуальном облаке, таким как редактирование данных в Excel и возврат изменений обратно в [!INCLUDE[prodshort](includes/prodshort.md)], или просмотр данных в Power BI. Однако, когда [!INCLUDE[prodshort](includes/prodshort.md)] является в первую очередь облачным сервисом, также те клиенты, которым необходимо выполнять их рабочие нагрузки полностью локально или на умном крае, подключенному к облаку, могут сделать так.  
+Как пользователь [!INCLUDE[prodshort](includes/prodshort.md)] Online, у вас имеется полный доступ к сценариям, основанным на интеллектуальном облаке, таким как КПЭ, основанные на машинном обучении, или просмотр данных в Power BI. Однако, когда [!INCLUDE[prodshort](includes/prodshort.md)] является в первую очередь облачным сервисом, также те клиенты, которым необходимо выполнять их рабочие нагрузки полностью локально или на умном крае, подключенному к облаку, могут сделать так.  
 
-Если вы заинтересованы в [!INCLUDE[prodshort](includes/prodshort.md)], можно подписаться на бесплатную пробную версию решения развертывания облака по умолчанию, или вы можете выбрать работать с партнером для развертывания [!INCLUDE[prodshort](includes/prodshort.md)] локально на выбранном вами оборудовании. Затем можно решить соединиться с облаком через вашего арендатора в облаке. В результате данные из локально развернутого [!INCLUDE[prodshort](includes/prodshort.md)] будут реплицированы в облако для сценариев интеллектуального облака.  
+Если вы заинтересованы в [!INCLUDE[prodshort](includes/prodshort.md)], можно подписаться на бесплатную пробную версию в Интернете или вы можете выбрать работать с партнером для развертывания [!INCLUDE[prodshort](includes/prodshort.md)] локально на выбранном вами оборудовании. Затем можно выбрать получение интеллектуальной аналитики путем подсоединения к арендатору в облаке. В результате данные из локально развернутого [!INCLUDE[prodshort](includes/prodshort.md)] будут реплицированы в облако для сценариев интеллектуального облака.  
 
 Для подключения к интеллектуальному облаку из локального решения требуется, чтобы администратор указал сведения о вашей базе данных. Дополнительные сведения см. в разделе [Подключение к интеллектуальному облаку](/dynamics365/business-central/dev-itpro/administration/about-intelligent-edge) в содержимом ITPro для [!INCLUDE[prodshort](includes/prodshort.md)].  
 
@@ -42,9 +42,13 @@ ms.locfileid: "1241427"
 
 Эта страница также подключается к Power BI для дополнительного анализа.
 
-## <a name="viewing-intelligent-cloud-insights-on-premises"></a>Просмотр аналитики в интеллектуальном облаке в локальной версии
+## <a name="viewing-intelligent-insights-on-premises"></a>Просмотр интеллектуальной аналитики в локальной версии
 
 Если ваш партнер по продаже Dynamics 365 приобрел правильную лицензию для вашего локального решения для подключения к облаку через [!INCLUDE[prodshort](includes/prodshort.md)], ваш администратор может настроить связь. Как только это сделано, можно просматривать те же средства анализа через облако в вашем локальном приложении. В зависимости от локального решения, страница **Аналитика в интеллектуальном облаке** может быть встроена в главную страницу или быть отдельной страницей в [!INCLUDE[prodshort](includes/prodshort.md)] Online и On-Premises.  
+
+## <a name="connecting-to-business-central-from-other-dynamics-products"></a>Подключение к Business Central из других продуктов Dynamics
+
+Если используется одна из поддерживаемых локальных версий, можно также подключиться к Business Central в Интернете и получать интеллектуальную аналитику в локальной версии. Дополнительные сведения см. в разделе [Подключение к интеллектуальному облаку](/dynamics365/business-central/dev-itpro/administration/about-intelligent-edge) в содержимом ITPro для [!INCLUDE[prodshort](includes/prodshort.md)].  
 
 ## <a name="see-also"></a>См. также
 

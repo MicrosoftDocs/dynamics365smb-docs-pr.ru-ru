@@ -11,12 +11,12 @@ ms.workload: na
 ms.search.keywords: warehouse, stock
 ms.date: 04/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: a4c4788f7f262dee32f489095bf1ee303ea712c5
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: 36cfa2a8111ba895c9f38a7007643c8ff43f99ca
+ms.sourcegitcommit: 92c7b6c5f0a5d8becbef106ab85258906765bc3e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1239410"
+ms.lasthandoff: 05/13/2019
+ms.locfileid: "1540344"
 ---
 # <a name="inventory"></a>Запасы
 Для каждого физического продукта, которым осуществляется торговля, необходимо создать карточку товара с типом **Запасы**. Товары, которые предлагаются клиентам, но не содержатся на складе, можно зарегистрировать как товары из каталога, которые можно преобразовать в складируемые товары в случае необходимости. Можно увеличить или уменьшить количество товара на складе путем учета непосредственно в операциях книги товаров, например после проведения физической инвентаризации или если вы не регистрируете покупки.

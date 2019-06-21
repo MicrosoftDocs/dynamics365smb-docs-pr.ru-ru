@@ -1,23 +1,18 @@
 ---
 title: Обновление валютных курсов | Документы Майкрософт
-description: Для использования в бизнесе нескольких валют, можно настроить код по каждой используемой валюте и использовать внешний сервис валютного курса.
-services: project-madeira
-documentationcenter: ''
+description: Отслеживание сумм в различных валютах с использованием кодов валюты, и разрешение Business Central помогать корректировать валютные курсы учтенных операций с помощью внешнего сервиса.
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
-ms.search.keywords: multiple currencies
-ms.date: 04/01/2019
+ms.search.keywords: multiple currencies, adjust exchange rates
+ms.date: 06/04/2019
 ms.author: sgroespe
-ms.openlocfilehash: a9fa636fb68a428da3c587e59be1bf76cf976207
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: 2958cf5dd124fd9437217214ea0df28944d07651
+ms.sourcegitcommit: 04581558f6c5488c705a7ac392cf297be10b5f4f
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1238950"
+ms.lasthandoff: 06/06/2019
+ms.locfileid: "1621095"
 ---
 # <a name="update-currency-exchange-rates"></a>Обновление валютных курсов
 Поскольку сфера действия организаций включает все новые и новые страны и регионы, растет необходимость в торговле и составлении финансовых отчетов в нескольких валютах. Следует настраивать код по каждой используемой валюте при покупке или продаже в валютах, отличных от местной валюты, при поступлениях или платежах в других валютах или при записи транзакций ГК в других валютах.

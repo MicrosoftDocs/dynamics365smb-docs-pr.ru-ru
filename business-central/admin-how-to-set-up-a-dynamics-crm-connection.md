@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2019
 ms.author: bholtorf
-ms.openlocfilehash: 28ce599b2067faa904f917f8fce7390202c98d7b
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: c95dee48b42fe5784c1d7d2fc6a11d5f487c7653
+ms.sourcegitcommit: 04581558f6c5488c705a7ac392cf297be10b5f4f
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1245761"
+ms.lasthandoff: 06/06/2019
+ms.locfileid: "1621049"
 ---
 # <a name="set-up-a-connection-to-dynamics-365-for-sales"></a>Настройка подключения к Dynamics 365 for Sales
 Для интеграции с [!INCLUDE[crm_md](includes/crm_md.md)] необходимо настроить подключение между [!INCLUDE[d365fin](includes/d365fin_md.md)] и [!INCLUDE[crm_md](includes/crm_md.md)]. 
@@ -55,6 +55,9 @@ ms.locfileid: "1245761"
 |**Включить интеграцию с заказом на продажу**|Когда люди создают заказы на продажу в [!INCLUDE[crm_md](includes/crm_md.md)], заказы копируются в [!INCLUDE[d365fin](includes/d365fin_md.md)]. Для этого требуется, чтобы вы предоставили учетные данные для учетной записи пользователя-администратора в [!INCLUDE[crm_md](includes/crm_md.md)]. Дополнительные сведения см. в разделе [Обработка данных в заказах на продажу](marketing-integrate-dynamicscrm.md#handling-sales-order-data).|
 |**Включить подключение к Dynamics 365 for Sales**|Включите подключение к [!INCLUDE[crm_md](includes/crm_md.md)].|
 |**Версия SDK Dynamics 365**|Это необходимо только в том случае, если выполняется интеграция с локальной версией [!INCLUDE[crm_md](includes/crm_md.md)]. Это комплект разработки программного обеспечения Dynamics 365 (также называемый Xrm), который используется для подключения [!INCLUDE[d365fin](includes/d365fin_md.md)] к [!INCLUDE[crm_md](includes/crm_md.md)]. Версия должна быть совместима с версией пакета SDK, которая используется [!INCLUDE[crm_md](includes/crm_md.md)], и равна или новее версии, используемой [!INCLUDE[crm_md](includes/crm_md.md)].|
+
+> [!Note]
+> Мастер настройки **Настройка подключения к Dynamics 365 for Sales** автоматически назначает роли безопасности **Администратор интеграции** и **Пользователь интеграции** учетной записи пользователя, используемой для интеграции. 
 
 ### <a name="to-create-or-maintain-the-connection-manually"></a>Создание или ведение подключения вручную
 Далее описан порядок заполнения полей вручную на странице **Настройка подключения к Microsoft Dynamics 365 for Sales**. Это также страница, на которой можно управлять настройками для интеграции.
@@ -103,6 +106,10 @@ ms.locfileid: "1245761"
     >  Если шифрование данных не включено в [!INCLUDE[d365fin](includes/d365fin_md.md)], вы получите запрос, требуется ли его включить. Чтобы включить шифрование данных, выберите **Да** и предоставьте требуемую информацию. В противном случае выберите **Нет**. Шифрование данных можно включить позднее. Дополнительные сведения см. в разделе [Шифрование данных в Dynamics 365 Business Central](/dynamics365/business-central/dev-itpro/developer/devenv-encrypting-data) в справке для разработчиков и ИТ-специалистов.  
 
 7. Если синхронизация [!INCLUDE[crm_md](includes/crm_md.md)] еще не настроена, вы получите запрос, следует ли использовать настройки синхронизации по умолчанию. В зависимости от того, требуется ли соответствие записей в [!INCLUDE[crm_md](includes/crm_md.md)] и [!INCLUDE[d365fin](includes/d365fin_md.md)], выберите **Да** или **Нет**. 
+
+> [!Note]
+> При подключении к Dynamics 365 for Sales с помощью страницы **Настройка подключения к Microsoft Dynamics 365 for Sales** может потребоваться [назначить роли безопасности **Администратор интеграции** и **Пользователь интеграции**](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/admin/create-users-assign-online-security-roles#assign-a-security-role-to-a-user) учетной записи пользователя, используемой для интеграции. 
+
 
 ### <a name="to-disconnect-from-includecrmmdincludescrmmdmd"></a>Отключение от [!INCLUDE[crm_md](includes/crm_md.md)]  
 1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка подключения Microsoft Dynamics 365 for Sales**, затем выберите связанную ссылку.

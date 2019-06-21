@@ -11,12 +11,12 @@ ms.workload: na
 ms.search.keywords: integration, synchronize, map, Sales
 ms.date: 04/01/2019
 ms.author: bholtorf
-ms.openlocfilehash: 30396e25dbf251e674744d1ba797c100b5762a46
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: 3cc053158581d4fc9b87dc3e505a23ed809c1c8f
+ms.sourcegitcommit: 04581558f6c5488c705a7ac392cf297be10b5f4f
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1238030"
+ms.lasthandoff: 06/06/2019
+ms.locfileid: "1620865"
 ---
 # <a name="using-dynamics-365-for-sales-from-business-central"></a>Использование Dynamics 365 for Sales из Business Central.
 Если вы используете Dynamics 365 for Sales for Customer Engagement, возможна бесшовная интеграция в процессе от интереса до получения денег с помощью [!INCLUDE[d365fin](includes/d365fin_md.md)] для действий на сервере, таких как обработка заказов, управление запасами и работа с финансами.
@@ -78,7 +78,11 @@ ms.locfileid: "1238030"
 Кроме того, можно вручную преобразовать активированные предложения по продаже из [!INCLUDE[crm_md](includes/crm_md.md)], используя действие **Обработать в [!INCLUDE[d365fin](includes/d365fin_md.md)]** на странице **Предложения по продаже — Dynamics 365 for Sales**.
 В таких предложениях по продаже поле **Название** исходного предложения переносится и сопоставляется с полем **Номер внешнего документа** в заказе на продажу в [!INCLUDE[d365fin](includes/d365fin_md.md)]. Также поле **Действует по** в предложении переносится и сопоставляется с полем **Предложение действительно до** в предложении по продаже в [!INCLUDE[d365fin](includes/d365fin_md.md)].  
 
-Предложения по продаже проходит через много уточнений, пока не будет создана окончательная версия. Как ручная, так и автоматическая обработка предложений по продаже в [!INCLUDE[d365fin](includes/d365fin_md.md)] гарантирует, что предыдущие версии предложений по продаже архивируются перед обработкой новых версий предложения по продаже из [!INCLUDE[crm_md](includes/crm_md.md)].  
+Предложения по продаже проходит через много уточнений, пока не будет создана окончательная версия. Как ручная, так и автоматическая обработка предложений по продаже в [!INCLUDE[d365fin](includes/d365fin_md.md)] гарантирует, что предыдущие версии предложений по продаже архивируются перед обработкой новых версий предложения по продаже из [!INCLUDE[crm_md](includes/crm_md.md)]. 
+
+## <a name="handling-posted-sales-invoices-customer-payments-and-statistics"></a>Обработка учтенных счетов продаж, платежей клиентов и статистики
+После выполнения заказа на продажу для них будут созданы счета. При выставлении счета по заказу на продажу можно передать учтенный счет за продажу в [!INCLUDE[crm_md](includes/crm_md.md)], если выбрано **Создать счет в [!INCLUDE[crm_md](includes/crm_md.md)]** на странице учтенных счетов продажи. Учтенные счета переносятся в [!INCLUDE[crm_md](includes/crm_md.md)] со статусом **Выставлено**. После получения оплаты от клиента по счету продажи в [!INCLUDE[d365fin](includes/d365fin_md.md)] статус счета продажи будет изменен на **Оплачено** с причиной состояния **Частично**, если оплачен частично, или **Полностью**, если оплачен полностью, когда вы выполняете **Обновить статистику счета** на странице клиента в [!INCLUDE[d365fin](includes/d365fin_md.md)]. **Обновить статистику счета** также обновляет значения, такие как сальдо и всего продаж на информационной панели статистики организации [!INCLUDE[d365fin](includes/d365fin_md.md)] в [!INCLUDE[crm_md](includes/crm_md.md)].
+Кроме того, можно настроить запланированные задания (статистика клиента и POSTEDSALESINV-INV), чтобы они автоматически выполняли оба этих процесса в фоновом режиме. 
 
 ## <a name="see-also"></a>См. также
 [Подготовка к интеграции с Dynamics 365 for Sales On-Premises](/dynamics365/business-central/dev-itpro/administration/prepare-dynamics-365-for-sales-for-integration)  

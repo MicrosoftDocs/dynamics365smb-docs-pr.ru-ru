@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: sales, crm, integration, integrating
 ms.date: 04/01/2019
 ms.author: bholtorf
-ms.openlocfilehash: 991d8432c24b1963da019e3c8b665f9ad009d077
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: bbe5041f853af9d58149d446627b0b21fa0e0f12
+ms.sourcegitcommit: 92c7b6c5f0a5d8becbef106ab85258906765bc3e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1247284"
+ms.lasthandoff: 05/13/2019
+ms.locfileid: "1540250"
 ---
 # <a name="integrating-with-dynamics-365-for-sales"></a>Интеграция с Dynamics 365 for Sales
 Роль менеджера по продажам часто рассматривается как самая направленная наружу должность в бизнесе. Однако может быть полезно для менеджеров по продажам посмотреть внутрь бизнеса и увидеть, что происходит на заднем дворе. Путем интеграции [!INCLUDE[d365fin](includes/d365fin_md.md)] и [!INCLUDE[crm_md](includes/crm_md.md)], можно предоставить менеджерам по продажи такие аналитические данные, позволив им просматривать информацию в [!INCLUDE[d365fin](includes/d365fin_md.md)] во время работы в [!INCLUDE[crm_md](includes/crm_md.md)]. Например, при подготовке предложения по продаже может быть полезно знать, имеется ли достаточно запасов для выполнения заказа. Дополнительные сведения см. в разделе [Использование Dynamics 365 for Sales из Business Central](marketing-integrate-dynamicscrm.md).

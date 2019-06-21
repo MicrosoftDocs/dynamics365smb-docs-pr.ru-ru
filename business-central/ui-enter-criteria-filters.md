@@ -1,21 +1,21 @@
 ---
 title: Сортировка, поиск и фильтрация списков | Документы Майкрософт
 description: Работайте в списках эффективно, выполняя поиск в своих данных, сортируя столбцы и уточняя результаты с помощью мощных символов фильтров и сочетаний клавиш.
-author: jswymer
+author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: delimit, FlowFilter, totals, limit, advanced
-ms.date: 04/01/2019
-ms.author: jswymer
-ms.openlocfilehash: 5cd8bce29b1973274cda673e22dd07e6b50f830f
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.date: 06/03/2019
+ms.author: sgroespe
+ms.openlocfilehash: fc9cefd33f6ca11ee4f2936671a84071e142a1bd
+ms.sourcegitcommit: 04581558f6c5488c705a7ac392cf297be10b5f4f
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1253957"
+ms.lasthandoff: 06/06/2019
+ms.locfileid: "1621187"
 ---
 # <a name="sorting-searching-and-filtering-lists"></a>Сортировка, поиск и фильтрация списков
 Есть несколько вещей, которые могут помочь сканировать, искать и ограничивать записи в списке. Сюда входят сортировка, поиск и фильтрация. Некоторые или все из них можно применить одновременно для быстрого поиска или анализа данных.
@@ -41,7 +41,7 @@ When you want to search for data, such as customer names, addresses, or product 
 
 Для поиска просто выберите значок поиска, затем в поле введите текст, который требуется найти. Можно ввести буквы, цифры и другие символы.
 
-### <a name="fine-tune-the-search"></a>Уточнение поиска
+### <a name="fine-tuning-the-search"></a>Уточнение поиска
 В целом, поиск попытается найти текст во всех полях; он не различает символы верхнего и нижнего регистров (другие словами, нечувствителен к регистру), и будет находить текст в любом месте поля (в начале, в конце либо в центре).
 
 Однако можно выполнять более точный поиск с использованием следующих специальных знаков:
