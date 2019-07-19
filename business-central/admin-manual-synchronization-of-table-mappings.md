@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: sales, crm, integration, sync, synchronize
 ms.date: 04/01/2019
 ms.author: bholtorf
-ms.openlocfilehash: 368bfc191aea4ae00c53d0c7ee892f3cc82c0ff7
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: 71284c8a2824e63c21768f2db55edb501486424d
+ms.sourcegitcommit: f2e3b571eab6e01d9f5aa8ef47056b6bd313dcbd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1245735"
+ms.lasthandoff: 06/13/2019
+ms.locfileid: "1629554"
 ---
 # <a name="manually-synchronize-table-mappings"></a>Ручная синхронизация сопоставлений таблиц
 Сопоставление таблиц интеграции связывает таблицу [!INCLUDE[d365fin](includes/d365fin_md.md)] (тип записи), например клиента, с объектом [!INCLUDE[crm_md](includes/crm_md.md)], например счетом. Синхронизация сопоставления таблиц интеграции позволяет синхронизировать данные во всех записях объекта таблицы [!INCLUDE[d365fin](includes/d365fin_md.md)] и объекта [!INCLUDE[crm_md](includes/crm_md.md)], которые связаны. Кроме того, в зависимости от конфигурации сопоставления таблицы, синхронизация может создавать и связывать новые записи в целевом решении для несвязанных записей в источнике.  
@@ -95,4 +95,4 @@ ms.locfileid: "1245735"
 
 ## <a name="see-also"></a>См. также  
 [Синхронизация данных в Business Central и Dynamics 365 for Sales](admin-synchronizing-business-central-and-sales.md)   
-[Настройка интеграции Dynamics 365 for Sales в Business Central](admin-setting-up-integration-with-dynamics-sales.md)   
+[Настройка учетных записей пользователя для интеграции с Dynamics 365 for Sales](admin-setting-up-integration-with-dynamics-sales.md)   

@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2019
+ms.date: 06/07/2019
 ms.author: sgroespe
-ms.openlocfilehash: def9338cea3a1998aafac671e304c55f83fdece7
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: 7ca4f01d261915e2ecf6416ee1d9e85f50c73fb0
+ms.sourcegitcommit: f2e3b571eab6e01d9f5aa8ef47056b6bd313dcbd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1242472"
+ms.lasthandoff: 06/13/2019
+ms.locfileid: "1629715"
 ---
 # <a name="work-with-payment-tolerances-and-payment-discount-tolerances"></a>Работа с отклонениями в оплате и отклонениями скидки по оплате
 Можно настроить отклонение в оплате для закрытия счетов, когда платеж не полностью покрывает сумму счета. Можно настроить отклонения в скидке по оплате, чтобы предоставить скидку по оплате после даты скидки по оплате.  
@@ -218,7 +218,7 @@ ms.locfileid: "1242472"
 
 Обычные правила применения  
 
-![Правила отклонения для нескольких платежей 2](media/multiplePmtTolRules(GracePeriodInv1).gif "Правила отклонения для нескольких платежей 2")  
+![Правила отклонения для нескольких платежей 2](media/multiplePmtTolRules(GracePeriodInv1-2).gif "Правила отклонения для нескольких платежей 2")  
 
 (1) Если оплата находится в пределах этих диапазонов, все операции приложения могут быть закрыты, с отклонением или без отклонения.  
 
@@ -229,7 +229,7 @@ ms.locfileid: "1242472"
 
 Обычные правила применения  
 
-![Правила отклонения для нескольких платежей 3](media/multiplePmtTolRules(GracePeriodInv1-2).gif "Правила отклонения для нескольких платежей 3")  
+![Правила отклонения для нескольких платежей 3](media/multiplePmtTolRules(GracePeriodInv1).gif "Правила отклонения для нескольких платежей 3")  
 
 (1) Если оплата находится в пределах этих диапазонов, все операции приложения могут быть закрыты, с отклонением или без отклонения.  
 

@@ -8,20 +8,20 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: SMTP, mail, Office 365
-ms.date: 04/01/2019
+ms.date: 06/28/2019
 ms.author: edupont
-ms.openlocfilehash: d314b8ce94c5f8251298f0322acd2cdc4f6b15d5
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: 9248d39ed447f8c590db708567790edfd64da0db
+ms.sourcegitcommit: e8abfb78e13f3c29035087b09d7930f2950ab7a3
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1246739"
+ms.lasthandoff: 07/01/2019
+ms.locfileid: "1717588"
 ---
 # <a name="using-business-central-as-your-business-inbox-in-outlook"></a>Использование Business Central в качестве папки "Входящие" для бизнеса в Outlook
 В [!INCLUDE[d365fin](includes/d365fin_md.md)] появилась возможность управления бизнес-взаимодействиями с клиентами и поставщиками непосредственно в Microsoft Outlook. С помощью надстроек [!INCLUDE[d365fin](includes/d365fin_md.md)] Outlook вы можете просматривать финансовые данные, связанные с клиентами и поставщиками, а также создавать и отправлять финансовые документы, такие как предложения и счета.  
 
 ## <a name="getting-the-add-in"></a>Получение надстройки
-Легко начать работать с надстройкой [!INCLUDE[d365fin](includes/d365fin_md.md)] for Outlook. В руководстве мастера настройки **Настройка папки "Входящие" для бизнеса в Outlook** можно настроить связь для себя или для организации. Если организация использует Office 365, необходимо указать имя пользователя и пароль Office 365 . Если организация не использует Office 365, следует указать информацию об используемом сервере Exchange Server. После этого надстройки [!INCLUDE[d365fin](includes/d365fin_md.md)] будут автоматически добавлены в Outlook.  
+Легко начать работать с надстройкой [!INCLUDE[d365fin](includes/d365fin_md.md)] for Outlook. В руководстве мастера настройки **Настройка папки "Входящие" для бизнеса в Outlook** можно настроить связь для себя или для организации, если организация использует Office 365. Просто укажите свои имя пользователя и пароль Office 365. После этого надстройки [!INCLUDE[d365fin](includes/d365fin_md.md)] будут автоматически добавлены в Outlook. Для получения дополнительной информации см. [Минимальные требования для Outlook ](product-requirements.md#outlook).  
 
 Затем при открытии Outlook отобразится сообщение электронной почты от администратора Dynamics 365 Business Central. Новые надстройки будут добавлены в ленту Outlook, а в Outlook Web App вы сможете видеть надстройки [!INCLUDE[d365fin](includes/d365fin_md.md)] непосредственно над телом сообщения электронной почты. Надстройки будут обновляться периодически, и вы будете получать уведомления о том, что новая версия готова к использованию в Outlook.  
 
@@ -50,7 +50,7 @@ ms.locfileid: "1246739"
 ## <a name="adding-the-add-ins-manually"></a>Добавление надстроек вручную
 В некоторых случаях надстройки не добавляются автоматически в Outlook. Даже если вы или ваш коллега запускает руководство по сопровождаемой настройке от имени организации, [!INCLUDE[d365fin](includes/d365fin_md.md)] может не отобразиться в Outlook. При возникновении этой проблемы вы можете добавить надстройки [!INCLUDE[d365fin](includes/d365fin_md.md)] вручную.  
 
-Прежде всего, необходимо проверить, что у вас есть доступ к надстройкам в учетной записи Office 365. Откройте Outlook Web Access в браузере, а затем добавьте `/owa/#path=/options/manageapps` к URL-адресу в адресной строке. В результате откроется страница **Управление надстройками**, в котором можно включить [!INCLUDE[d365fin](includes/d365fin_md.md)] для Outlook. Затем при переходе назад в Outlook приложение [!INCLUDE[d365fin](includes/d365fin_md.md)] должно быть доступно.  
+Прежде всего, необходимо проверить, что у вас есть доступ к надстройкам в учетной записи Office 365. Откройте Outlook в браузере, а затем добавьте `/owa/#path=/options/manageapps` к URL-адресу в адресной строке. В результате откроется страница **Управление надстройками**, в котором можно включить [!INCLUDE[d365fin](includes/d365fin_md.md)] для Outlook. Затем при переходе назад в Outlook приложение [!INCLUDE[d365fin](includes/d365fin_md.md)] должно быть доступно.  
 
 Аналогичным образом, в настольном клиенте Outlook можно проверить, что приложение [!INCLUDE[d365fin](includes/d365fin_md.md)] установлено, на странице **Управление надстройками**.  
 

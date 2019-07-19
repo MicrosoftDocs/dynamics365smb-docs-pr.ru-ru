@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2019
+ms.date: 06/17/2019
 ms.author: sgroespe
-ms.openlocfilehash: e1f6af964dad89a8a311f315f8885aaa94b92427
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: 6d931625ef469a0b156d2794de7eda131213f28f
+ms.sourcegitcommit: 6dc83b27ac47f3b39a7b84cfb7446e7f48b8ce63
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1252347"
+ms.lasthandoff: 06/17/2019
+ms.locfileid: "1632687"
 ---
 # <a name="set-up-shipping-agents"></a>Настройка экспедиторов
 Для каждого экспедитора можно задать код и указать соответствующую информацию.  
@@ -39,9 +39,10 @@ ms.locfileid: "1252347"
 >  Если удалить экспедитора из строки заказа, код услуги экспедитора для данной строки также будет удален. Производится пересчет содержимого полей, которые были частично связаны с данной услугой экспедитора.  
 
 ## <a name="see-also"></a>См. также
+[Настройка методов отгрузки](sales-how-set-up-shipment-methods.md)  
 [Трассировка посылок](sales-how-track-packages.md)    
 [Управление складом](warehouse-manage-warehouse.md)  
-[Наличие](inventory-manage-inventory.md)  
+[Запасы](inventory-manage-inventory.md)  
 [Настройка управления складом](warehouse-setup-warehouse.md)     
 [Управление сборкой](assembly-assemble-items.md)    
 [Сведения о проектировании: управление складом](design-details-warehouse-management.md)  

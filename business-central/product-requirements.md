@@ -1,6 +1,6 @@
 ---
 title: Минимальные требования для использования Business Central | Документы Майкрософт
-description: Узнайте о минимальных требованиях к системе и версии для использования Business Central.
+description: Узнайте о минимальных требованиях к системе и версии для использования Business Central Online.
 author: edupont04
 ms.service: dynamics365-business-central
 ms.topic: get-started-article
@@ -8,17 +8,17 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: version
-ms.date: 04/01/2019
+ms.date: 06/28/2019
 ms.author: edupont
-ms.openlocfilehash: 42e0bd7555b99b8e9ba6748d77817c69eb55d009
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: dff8f2e677c49f089ec2b7ee01dc1565ee4aa261
+ms.sourcegitcommit: 5b6dd8d881c0eb65ece6936a94dfda3185574335
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1252899"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "1711041"
 ---
 # <a name="minimum-requirements-for-using-business-central"></a>Минимальные требования для использования Business Central
-Перед началом работы с [!INCLUDE[d365fin](includes/d365fin_md.md)] мы рекомендуем проверить, что ваш компьютер и мобильное устройство соответствуют минимальным требованиям для продукта или превышают их. В этой статье перечислены эти требования.  
+Перед началом работы с [!INCLUDE [prodshort](includes/prodshort.md)] Online мы рекомендуем проверить, что ваш компьютер и мобильное устройство соответствуют минимальным требованиям для продукта или превышают их. В этой статье перечислены эти требования.  
 
 ## <a name="browsers"></a>Браузеры
 **Chrome для Windows и Firefox для Windows:** программа [!INCLUDE[d365fin](includes/d365fin_md.md)] предназначена для работы с текущей версией этих настольных браузеров.  
@@ -33,13 +33,17 @@ ms.locfileid: "1252899"
 **Размер устройства:** [!INCLUDE[d365fin](includes/d365fin_md.md)] поддерживается на смартфонах с минимальным размером экрана 4 дюйма и планшетах с минимальным размером экрана 7 дюймов.  
 
 ## <a name="outlook"></a>Outlook
-**Приложения Outlook:** Для использования [!INCLUDE[d365fin](includes/d365fin_md.md)] как папки "Входящие" для бизнеса в Outlook требуется Outlook 2016 или более поздней версии, веб-приложение Outlook, OWA для iPhone, OWA для iPad или OWA для Android.  
+**Приложения Outlook:** Для использования [!INCLUDE[d365fin](includes/d365fin_md.md)] Online как папки "Входящие" для бизнеса в Outlook требуется Outlook 2016 или более поздней версии, веб-приложение Outlook, OWA для iPhone, OWA для iPad или OWA для Android. Ваша организация также должна использовать Office 365. Вы не можете использовать [!INCLUDE [prodshort](includes/prodshort.md)] Online как папку "Входящие" для бизнеса в Outlook, если ваша организация использует локальный сервер Exchange.  
 **Браузеры:** При использовании [!INCLUDE[d365fin](includes/d365fin_md.md)] в качестве папки "Входящие" для бизнеса в веб-приложении Outlook (OWA) надстройка требует, чтобы на компьютере был установлен один из браузеров, перечисленных в качестве поддерживаемых ранее в этой статье.  
 **Платформы:** При использовании надстройки [!INCLUDE[d365fin](includes/d365fin_md.md)] для Outlook в OWA для iPhone, OWA для iPad, OWA для Android надстройка требует, чтобы в качестве мобильного устройства использовалось одно из поддерживаемых мобильных устройств для [!INCLUDE[d365fin](includes/d365fin_md.md)].  
 
 ## <a name="excel"></a>Excel
 **Изменить в Excel:** Для использования надстройки Excel для внесения изменений в Excel и оправки этих изменений обратно в [!INCLUDE[d365fin](includes/d365fin_md.md)] необходимо иметь Excel 2016 или более поздней версии. Дополнительные сведения см. в разделе [Анализ финансовых выписок в Microsoft Excel](finance-analyze-excel.md).  
 
+## <a name="using-business-central-on-premises"></a>Использование локальной версии Business Central
+
+Если вы хотите развернуть Business Central локально, вам следует проверить системные требования. Для получения дополнительной информации см. [Системные требования для Dynamics 365 Business Central](/dynamics365/business-central/dev-itpro/deployment/system-requirement-business-central) и [Обзор развертывания](/dynamics365/business-central/dev-itpro/deployment/deployment).  
+
 ## <a name="see-also"></a>См. также
 [Приступая к работе](product-get-started.md)  
-[Требования к системе для Dynamics 365 Business Central On-premises](/dynamics365/business-central/dev-itpro/deployment/system-requirement-business-central)  
+[Системные требования для Dynamics 365 Business Central](/dynamics365/business-central/dev-itpro/deployment/system-requirement-business-central)  

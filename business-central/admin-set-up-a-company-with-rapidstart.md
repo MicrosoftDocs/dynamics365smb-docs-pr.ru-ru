@@ -1,8 +1,6 @@
 ---
 title: Настройка организации со службами RapidStart Services | Документы Майкрософт
 description: Можно настроить новую организацию в Business Central с помощью служб RapidStart Services, которые представляют собой инструмент, предназначенный для ускорения развертывания, повышения качества внедрения, использования единого подхода к внедрению и повышения производительности за счет автоматизации и упрощения повторяющихся задач.
-services: project-madeira
-documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -10,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2019
+ms.date: 07/04/2019
 ms.author: sgroespe
-ms.openlocfilehash: 04d665ac1cfcf66c2581d97bac05d636114a5ef4
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: 1e7976e19641bd49c1c1d94a31de902aea1a9769
+ms.sourcegitcommit: 8fe694b7bbe7fc0456ed5a9e42291218d2251b05
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1244321"
+ms.lasthandoff: 07/04/2019
+ms.locfileid: "1726932"
 ---
 # <a name="setting-up-a-company-with-rapidstart-services"></a>Настройка организации со службами RapidStart Services
 Можно настроить новую организацию в [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью служб RapidStart Services — инструмента, предназначенного для ускорения развертывания, повышения качества внедрения, использования единого подхода к внедрению и повышения производительности за счет автоматизации и упрощения повторяющихся задач.  
@@ -39,7 +37,6 @@ ms.locfileid: "1244321"
 
 |**Задача**|**Раздел**|  
 |------------|-------------|  
-|Настройте основной пользовательский интерфейс служб RapidStart Services.|[Использование ролевого центра «Внедряющий мастер служб RapidStart Services»](admin-how-to-use-the-rapidstart-services-role-center-to-track-progress.md)|  
 |Создайте новую организацию и импортируйте основные данные настройки и шаблоны.|[Настройка конфигурации организации](admin-set-up-company-configuration.md)|  
 |Разверните настроенный пакет для вашего клиента для реализации.|[Применение конфигураций к новым организациям](admin-apply-configuration-to-new-companies.md)|
 |Определите и проверьте значения настройки клиента для всех ключевых областей, таких как сведения об организации, главная книга, запасы, продажи или производство.|[Сбор значений настройки клиента](admin-gather-customer-setup-values.md)|  

@@ -12,18 +12,20 @@ ms.workload: na
 ms.search.keywords: crm, sales, couple, decouple, synchronize
 ms.date: 04/01/2019
 ms.author: bholtorf
-ms.openlocfilehash: 36f1a0fe8c50744d9ce13d1e6c3c899f4ceaf5e4
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: 6d1248ac77208e382c5594af57335df6ff824630
+ms.sourcegitcommit: 8fe694b7bbe7fc0456ed5a9e42291218d2251b05
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1245409"
+ms.lasthandoff: 07/04/2019
+ms.locfileid: "1726771"
 ---
 # <a name="couple-and-synchronize-records-manually"></a>Связывание и синхронизация записей вручную
 В этом разделе описана процедура связывания одной или нескольких записей [!INCLUDE[d365fin](includes/d365fin_md.md)] с записями в [!INCLUDE[crm_md](includes/crm_md.md)]. Связывание записей позволяет просматривать сведения [!INCLUDE[crm_md](includes/crm_md.md)] из [!INCLUDE[d365fin](includes/d365fin_md.md)] и наоборот. Связывание также позволяет синхронизировать данные между записями. Можно связать существующие записи или создать и связать новые записи.
 
 > [!Note]
 > Связывание и синхронизация данных с [!INCLUDE[crm_md](includes/crm_md.md)] доступны только в том случае, если системный администратор создал подключение между [!INCLUDE[d365fin](includes/d365fin_md.md)] и [!INCLUDE[crm_md](includes/crm_md.md)]. Быстрый способ проверить — это открыть карточку **Клиент** и найти действие **Настроить связывание**. Если действие доступно, приложения подключены.   
+
+> [!VIDEO https://go.microsoft.com/fwlink/?linkid=2098376]
 
 ## <a name="to-couple-a-record"></a>Связывание записи  
 1.  В [!INCLUDE[d365fin](includes/d365fin_md.md)] откройте карточку для записи, которую требуется связать. Например, карточка клиента или контакта.  

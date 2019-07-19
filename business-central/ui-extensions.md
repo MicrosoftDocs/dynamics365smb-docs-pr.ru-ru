@@ -9,14 +9,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: app, add-in, manifest, customize
-ms.date: 04/01/2019
+ms.date: 06/13/2019
 ms.author: edupont
-ms.openlocfilehash: d03d1aa3910dc73dc61c61bdd66725e8e8af3c66
-ms.sourcegitcommit: 04581558f6c5488c705a7ac392cf297be10b5f4f
+ms.openlocfilehash: e1f7d9891be4ae31fc3f98fb768bfddcd38582ca
+ms.sourcegitcommit: f2e3b571eab6e01d9f5aa8ef47056b6bd313dcbd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "1621118"
+ms.lasthandoff: 06/13/2019
+ms.locfileid: "1629876"
 ---
 # <a name="customizing-business-central-using-extensions"></a>Настройка Business Central с помощью расширений
 Вы можете изменить [!INCLUDE[d365fin](includes/d365fin_md.md)] за счет установки расширений, которые добавляют функциональность, изменяют поведение или, например, предоставляют доступ к новым интернет-службам.
@@ -48,24 +48,28 @@ ms.locfileid: "1621118"
 
 Корпорация Майкрософт предоставляет следующие расширения:  
 
-* [Миграция данных Dynamics GP](ui-extensions-dynamicsgp-data-migration.md)  
-* [Envestnet Yodlee Bank Feeds](ui-extensions-yodlee-bank-feeds.md)  
-* [Microsoft Pay](ui-extensions-microsoft-pay-payments.md)  
-* [PayPal Payments Standard](ui-extensions-paypal-payments-standard.md)  
-* [Миграция данных QuickBooks](ui-extensions-quickbooks-data-migration.md)  
-* [Прогноз продаж и запасов](ui-extensions-sales-forecast.md)  
-* [Зарплата Ceridian](ui-extensions-ceridian-payroll.md)  
-* [Импорт файла зарплаты Quickbooks](ui-extensions-quickbooks-payroll.md)  
-* [WorldPay Payments Standard](ui-extensions-worldpay-payments-standard.md)  
-* [Почтовые индексы Великобритании GetAddress.io](ui-extensions-getaddressio.md)  
-* [Миграция данных QuickBooks Online](ui-extensions-quickbooks-online-data-migration.md)  
-* [Портал бухгалтера](ui-extensions-accountant-portal.md)  
-* [Анализатор изображений](ui-extensions-image-analyzer.md)  
-* [Платежи и выверки (DK)](ui-extensions-payments-reconciliation-formats-dk.md)  
-* [Миграция данных C5](ui-extensions-c5-data-migration.md)  
-* [Важная бизнес-аналитика](ui-extensions-essential-business-insights.md)  
-* [Прогнозы просрочки оплаты](ui-extensions-late-payment-prediction.md  )
-* [Отправить авизо](ui-extensions-send-remittance-advice.md)
+* [Портал бухгалтера для Business Central](ui-extensions-accountant-portal.md)
+* [Зарплата Ceridian](ui-extensions-ceridian-payroll.md)
+* [Миграция данных Dynamics GP](ui-extensions-dynamicsgp-data-migration.md)
+* [Envestnet Yodlee Bank Feeds](ui-extensions-yodlee-bank-feeds.md)
+* [Важная бизнес-аналитика](ui-extensions-essential-business-insights.md)
+* [Анализатор изображений](ui-extensions-image-analyzer.md)
+* [Интеллектуальное облако](ui-extensions-data-replication.md)
+* [База интеллектуального облака](ui-extensions-intelligent-cloud.md)
+* [Прогнозы просрочки оплаты](ui-extensions-late-payment-prediction.md)
+* [Microsoft Pay](ui-extensions-microsoft-pay-payments.md)
+* [PayPal Payments Standard](ui-extensions-paypal-payments-standard.md)
+* [Миграция данных QuickBooks](ui-extensions-quickbooks-data-migration.md)
+* [Миграция данных QuickBooks Online](ui-extensions-quickbooks-online-data-migration.md)
+* [Импорт файла зарплаты Quickbooks](ui-extensions-quickbooks-payroll.md)
+* [Прогноз продаж и запасов](ui-extensions-sales-forecast.md)
+* [WorldPay Payments Standard](ui-extensions-worldpay-payments-standard.md)
+* [DK — Миграция данных C5](ui-extensions-c5-data-migration.md)
+* [DK — Платежи и выверки](ui-extensions-payments-reconciliation-formats-dk.md)
+* [DK — Форматы налоговой документации](ui-extensions-tax-file-formats-dk.md)
+* [DK — Почтовые индексы Великобритании GetAddress.io](ui-extensions-getaddressio.md)
+* [US/CA/UK/AU/NZ/ZA — Отправить авизо](ui-extensions-send-remittance-advice.md)
+* [Расширения для Business Central от других поставщиков](ui-extensions-other.md)
 
 > [!NOTE]  
 >  Новые расширения не становятся доступными в AppSource сразу после объявления об обновлении. Следить за выходом новых расширений можно на сайте [AppSource.microsoft.com](https://appsource.microsoft.com/en-us/marketplace/apps?product=dynamics-365%3Bdynamics-365-for-financials&page=1).

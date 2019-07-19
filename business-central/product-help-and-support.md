@@ -1,18 +1,18 @@
 ---
 title: Справка и поддержка
-description: Ищите ресурсы для справки, инструкций и помощью по продукту, а также узнайте, как получить техническую поддержку для Business Central.
+description: Ищите справку, инструкции, советы по устранению неполадок и помощь по продукту, а также узнайте, как получить техническую поддержку для Business Central.
 author: edupont04
 ms.reviewer: na
 ms.topic: article
 ms.service: dynamics365-business-central
 ms.author: edupont
-ms.date: 04/01/2019
-ms.openlocfilehash: e9051ae5c12a787eb40732ad133e8d21932df50d
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.date: 07/03/2019
+ms.openlocfilehash: 6b19a566ada8e9708bb19a82ded3404b29cf260d
+ms.sourcegitcommit: 8fe694b7bbe7fc0456ed5a9e42291218d2251b05
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1253681"
+ms.lasthandoff: 07/04/2019
+ms.locfileid: "1726958"
 ---
 # <a name="resources-for-help-and-support"></a>Ресурсы для справки и поддержки
 
@@ -47,7 +47,7 @@ ms.locfileid: "1253681"
 
 ### <a name="capabilities-coming-soon"></a>Возможности, которые скоро появятся
 
-[!INCLUDE[prodshort](includes/prodshort.md)] обновляется крупными функциональными обновлениями каждый 6 месяцев, а также ежемесячными сервисными обновлениями. Выберите ссылку для просмотра примечаний к последнему выпуску. Можно также получить обзор ожидающихся и недавно выпущенных возможностей в примечаниях к выпуску в Dynamics 365 по адресу [https://dynamics.microsoft.com/en-us/business-applications/release/](https://dynamics.microsoft.com/en-us/business-applications/release/#release-notes).  
+[!INCLUDE[prodshort](includes/prodshort.md)] обновляется крупными функциональными обновлениями каждый 6 месяцев, а также ежемесячными сервисными обновлениями. Выберите ссылку для просмотра плана последнего выпуска. Можно также получить обзор ожидающихся и недавно выпущенных возможностей в плане выпуска Dynamics 365 по адресу [https://dynamics.microsoft.com/en-us/business-applications/release/](https://dynamics.microsoft.com/en-us/business-applications/release/#release-notes).  
 
 Для более долгосрочного обзора страница [дорожной карты](https://dynamics.microsoft.com/roadmap/business-central/) [!INCLUDE[prodshort](includes/prodshort.md)] показывает общие приоритеты для [!INCLUDE[prodshort](includes/prodshort.md)] в ближайшие годы.  
 

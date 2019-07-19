@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: sales, crm, integration, sync, synchronize
 ms.date: 04/01/2019
 ms.author: bholtorf
-ms.openlocfilehash: a2adf188f616f3a9cbb0e0d3135ee79d238c453b
-ms.sourcegitcommit: 92c7b6c5f0a5d8becbef106ab85258906765bc3e
+ms.openlocfilehash: b5a3b83d21390711ff0517df67bf9912ece57f6b
+ms.sourcegitcommit: f2e3b571eab6e01d9f5aa8ef47056b6bd313dcbd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/13/2019
-ms.locfileid: "1540227"
+ms.lasthandoff: 06/13/2019
+ms.locfileid: "1629623"
 ---
 # <a name="synchronizing-data-in-business-central-and-dynamics-365-for-sales"></a>Синхронизация данных в Business Central и Dynamics 365 for Sales
 При интеграции [!INCLUDE[crm_md](includes/crm_md.md)] с [!INCLUDE[d365fin](includes/d365fin_md.md)] можно решить, требуется ли синхронизировать данные в выбранных полях записей [!INCLUDE[d365fin](includes/d365fin_md.md)] (таких как клиенты, контакты и менеджеры по продаже) с эквивалентными записями в [!INCLUDE[d365fin](includes/d365fin_md.md)] (таких как организации, контакты и пользователи). В зависимости от типа записи, можно синхронизировать данные из [!INCLUDE[crm_md](includes/crm_md.md)] в [!INCLUDE[d365fin](includes/d365fin_md.md)] или наоборот. Дополнительные сведения см. в разделе [Интеграция с Dynamics 365 for Sales](admin-prepare-dynamics-365-for-sales-for-integration.md).  
@@ -77,7 +77,7 @@ ms.locfileid: "1540227"
 В следующей таблице описаны правила, управляющие синхронизацией между приложениями.
 
 > [!NOTE]  
-> Изменения данных в [!INCLUDE[crm_md](includes/crm_md.md)], которые были сделаны в учетной записи пользователя соединения [!INCLUDE[crm_md](includes/crm_md.md)], не синхронизируются. Поэтому рекомендуется не изменять данные при использовании этой учетной записи. Дополнительные сведения см. в разделе [Настройка интеграции с Dynamics 365 for Sales](admin-setting-up-integration-with-dynamics-sales.md).
+> Изменения данных в [!INCLUDE[crm_md](includes/crm_md.md)], которые были сделаны в учетной записи пользователя соединения [!INCLUDE[crm_md](includes/crm_md.md)], не синхронизируются. Поэтому рекомендуется не изменять данные при использовании этой учетной записи. Дополнительные сведения см. в разделе [Настройка учетных записей пользователей для интеграции с Dynamics 365 for Sales](admin-setting-up-integration-with-dynamics-sales.md).
 
 |Стол|Правило|
 |-----|----|

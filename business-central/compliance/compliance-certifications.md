@@ -11,19 +11,19 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2019
 ms.author: soalex
-ms.openlocfilehash: 297b5f2f7a1310395debd44a229e9c7c52cace45
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: b18fa9511d8d79a2954dca57250a04905e5d0efa
+ms.sourcegitcommit: e8abfb78e13f3c29035087b09d7930f2950ab7a3
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1244509"
+ms.lasthandoff: 07/01/2019
+ms.locfileid: "1717611"
 ---
 # <a name="certifications"></a>Сертификаты  
 Это содержимое содержит сведения о сертификациях в связи с [!INCLUDE[d365fin](../includes/d365fin_md.md)].  
 
 ## <a name="country-certifications-and-accreditations"></a>Сертификации и аккредитации для стран
 В некоторых странах бухгалтерское программное обеспечение должно быть сертифицировано на соответствие требованием местного налогового законодательства и финансовым требованиям. В некоторых странах это необходимая ежегодная процедура, в других странах соответствие требуется подтвердить только один раз. Ниже приведен список текущих стран, в которых пройдена сертификация Business Central. Обратите внимание, что такое требование действует только в некоторых странах.  
-- Франция (сертификация налогового аудита).
+- Франция (сертификация налогового аудита) [(ссылка на сертификацию на французском языке)](https://services.infocert.org/certificats/CERTIF-07-181-R16.pdf) 
 - Германия (также покрывает Австрию и Швейцарию) [(ссылка на сертификацию на немецком языке)](https://www.bdo.de/de-de/themen/softwarebescheinungen/bdo/microsoft-dynamics-365-business-central)
 
 > [!NOTE]  

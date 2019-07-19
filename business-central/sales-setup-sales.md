@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: trade, sell, configure
-ms.date: 04/01/2019
+ms.date: 06/17/2019
 ms.author: sgroespe
-ms.openlocfilehash: 6903744c1be0492267c8dee307e4b012aed4ffa4
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: 3ece1edb7ba18cb96099cba34065c96164390e82
+ms.sourcegitcommit: 6dc83b27ac47f3b39a7b84cfb7446e7f48b8ce63
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1251036"
+ms.lasthandoff: 06/17/2019
+ms.locfileid: "1632710"
 ---
 # <a name="setting-up-sales"></a>Настройка продаж
 Прежде чем приступать к управлению процессами продажи, необходимо настроить правила и значения, которые определяют политики продажи в организации.
@@ -37,6 +37,7 @@ ms.locfileid: "1251036"
 | Определите для отдельных клиентов или для всех клиентов, как документы продажи должны по умолчанию отправлять при выборе действия **Учесть и отправить**. |[Настройка профилей отправки документов](sales-how-setup-document-send-profiles.md) |
 | Настройте электронную почту, чтобы она содержала сводные сведения об отправляемом документе продажи. |[Отправка документов по электронной почте](ui-how-send-documents-email.md). |
 |Использование веб-службы ЕС для проверки ИНН клиента.|[Проверка регистрационных номеров НДС](finance-setup-vat.md)|
+|Определите различные условия, которые вы предлагаете клиентам или которые предлагают вам ваши поставщики.|[Настройка методов отгрузки](sales-how-set-up-shipment-methods.md)|
 |Ввести сведения о различных используемых перевозчиках, включая ссылки на их службу отслеживания пакетов.|[Настройка экспедиторов](sales-how-to-set-up-shipping-agents.md)|
 
 ## <a name="see-also"></a>См. также
