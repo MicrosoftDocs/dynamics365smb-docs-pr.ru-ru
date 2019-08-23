@@ -106,6 +106,7 @@
 ### [Работа с центрами ответственности](inventory-responsibility-centers.md)
 ### [Настройка складов](inventory-how-setup-locations.md)
 ### [Регистрация новых товаров](inventory-how-register-new-items.md)
+### [Копирование существующих товаров для создания новых товаров](inventory-how-copy-items.md)
 ### [О типах товаров](inventory-about-item-types.md)
 ### [Настройка единиц измерения товара](inventory-how-setup-units-of-measure.md)
 ### [Настройка единиц хранения](inventory-how-to-set-up-stockkeeping-units.md)
@@ -302,7 +303,7 @@
 
 # Администрация
 ## [Обзор](admin-setup-and-administration.md)
-## [Знакомство с профилями и ролевыми центрами](admin-users-profiles-roles.md)
+## [Знакомство с пользователями, ролями и профилями](admin-users-profiles-roles.md)
 ## [Управление пользователями и разрешениями](ui-how-users-permissions.md)
 ## [Классификация конфиденциальности данных](admin-classifying-data-sensitivity.md)
 ## [Ответ на запросы о личных данных](admin-responding-to-requests-about-personal-data.md)
@@ -834,7 +835,6 @@
 #### [Выпуск напоминаний о доставке](LocalFunctionality\Austria\how-to-issue-delivery-reminders.md)
 #### [Печать тестовых отчетов для напоминаний о доставке](LocalFunctionality/Austria/how-to-print-test-reports-for-delivery-reminders.md)
 ### Общие
-#### [Копирование существующих товаров в новые товары](LocalFunctionality/Austria/how-to-copy-existing-items-to-new-items.md)
 #### [Печать сведений о настройке ГК](LocalFunctionality/Austria/how-to-print-general-ledger-setup-information.md)
 #### [Печать заказов на покупку и продажу при выполнении пакетного учета](LocalFunctionality/Austria/how-to-print-sales-and-purchase-orders-during-batch-posting.md)
 
@@ -856,7 +856,6 @@
 #### [Применение выписок CODA](LocalFunctionality/Belgium/how-to-apply-coda-statements.md)
 #### [Автоматический перенос и учет выписок CODA](LocalFunctionality/Belgium/how-to-automatically-transfer-and-post-coda-statements.md)
 #### [Банковские выписки CODA](LocalFunctionality/Belgium/coda-bank-statements.md)
-#### [Загрузка файлов CODA с сервера Isabel](LocalFunctionality/Belgium/how-to-download-coda-files-from-an-isabel-server.md)
 #### [Бельгийская электронная система платежей](LocalFunctionality/Belgium/belgian-electronic-banking.md)
 #### [Настройка электронной системы платежей](LocalFunctionality/Belgium/how-to-set-up-electronic-banking.md)
 #### [Настройка протоколов экспорта](LocalFunctionality/Belgium/how-to-set-up-export-protocols.md)
@@ -866,8 +865,6 @@
 #### [Создание шаблонов и разделов журнала платежей](LocalFunctionality/Belgium/how-to-create-payment-journal-templates-and-batches.md)
 #### [Проверка электронных платежей](LocalFunctionality/Belgium/how-to-test-electronic-payments.md)
 #### [Формирование предложений по оплате](LocalFunctionality/Belgium/how-to-generate-payment-suggestions.md)
-#### [Isabel 6](LocalFunctionality/Belgium/isabel-6.md)
-#### [Отправка файлов платежей на сервер Isabel](LocalFunctionality/Belgium/how-to-upload-payment-files-to-an-isabel-server.md)
 #### [Импорт выписок CODA](LocalFunctionality/Belgium/how-to-import-coda-statements.md)
 #### [Управление строками электронного платежа](LocalFunctionality/Belgium/how-to-manage-electronic-payment-lines.md)
 #### [Перенос и учет выписок CODA вручную](LocalFunctionality/Belgium/how-to-manually-transfer-and-post-coda-statements.md)
@@ -883,7 +880,6 @@
 #### [Экспорт и учет домицилирований](LocalFunctionality/Belgium/how-to-export-and-post-domiciliations.md)
 #### [Формирование предложений домицилирования](LocalFunctionality/Belgium/how-to-generate-domiciliation-suggestions.md)
 #### [Суммирование строк платежей и строк финансового журнала](LocalFunctionality/Belgium/summarizing-payment-lines-and-general-journal-lines.md)
-#### [Архивирование операций журнала IBS](LocalFunctionality/Belgium/how-to-archive-ibs-log-entries.md)
 ### Основные финансы
 #### [Применение и отмена операций главной книги](LocalFunctionality/Belgium/how-to-apply-and-unapply-general-ledger-entries.md)
 #### [Создание финансовых журналов](LocalFunctionality/Belgium/how-to-create-financial-journals.md)
@@ -1025,7 +1021,6 @@
 #### [Включение регистрационных номеров компании в отчеты о продажах и отчеты о покупках](LocalFunctionality/Germany/how-to-include-company-registration-numbers-on-sales-reports-and-purchase-reports.md)
 #### [Печать заказов на покупку и продажу при выполнении пакетного учета](LocalFunctionality/Germany/how-to-print-sales-and-purchase-orders-during-batch-posting.md)
 #### [Печать сведений о настройке ГК](LocalFunctionality/Germany/how-to-print-general-ledger-setup-information.md)
-#### [Копирование существующих товаров в новые товары](LocalFunctionality/Germany/how-to-copy-existing-items-to-new-items.md)
 #### [Сертификация Business Central для рынка Германии (документ на немецком языке)](https://go.microsoft.com/fwlink/?linkid=875256)
 
 ## Исландия
@@ -1242,7 +1237,7 @@
 #### [Практическое руководство. Ввод, отслеживание и списание основных средств](LocalFunctionality/Russia/How-to-Release-Track-Write-Off-Fixed-Assets.md)
 #### [Практическое руководство. Просмотр учтенных операций по издержкам основных средств](LocalFunctionality/Russia/How-to-View-Posted-Entries-on-a-Fixed-Asset-Charge.md)
 #### [Практическое руководство. Настройка счета нематериальных активов](LocalFunctionality/Russia/How-to-Set-Up-an-Intangible-Assets-Account.md)
-#### [Практическое руководство. Учет себестоимости реализации основного средства](LocalFunctionality/Russia/How-to-Account-for-the-Cost-to-Dispose-a-Fixed-Asset.md) 
+#### [Практическое руководство. Учет себестоимости реализации основного средства](LocalFunctionality/Russia/How-to-Account-for-the-Cost-to-Dispose-a-Fixed-Asset.md)
 #### [Малоценные основные средства](LocalFunctionality/Russia/Undepreciable-Fixed-Assets.md)
 ### НДС
 #### [Обзор](LocalFunctionality/Russia/VAT.md)
@@ -1376,7 +1371,6 @@
 #### [Печать тестовых отчетов для напоминаний о доставке](LocalFunctionality/Switzerland/how-to-print-test-reports-for-delivery-reminders.md)
 ### Запасы
 #### [Управление запасами для Швейцарии](LocalFunctionality/Switzerland/swiss-inventory-management.md)
-#### [Копирование существующих товаров в новые товары](LocalFunctionality/Switzerland/how-to-copy-existing-items-to-new-items.md)
 #### [Печать сборочного листа запасов из заказа на продажу](LocalFunctionality/Switzerland/how-to-print-an-inventory-picking-list-from-a-sales-order.md)
 ### Общие    
 #### [Импорт швейцарских почтовых индексов](LocalFunctionality/Switzerland/how-to-import-swiss-post-codes.md)
