@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: sales, crm, integration, sync, synchronize
-ms.date: 04/01/2019
+ms.date: 07/16/2019
 ms.author: bholtorf
-ms.openlocfilehash: b3fb3d2680cd85da8b2def7e82fbf62c0046fcc3
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: 9290730bb559d4ac03a437a49ed81b09f3c01853
+ms.sourcegitcommit: 519623f9a5134c9ffa97eeaed0841ae59835f453
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1247425"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "1755222"
 ---
 # <a name="scheduling-a-synchronization-between-business-central-and-dynamics-365-for-sales"></a>Планирование синхронизации между Business Central и Dynamics 365 for Sales
 Можно синхронизировать [!INCLUDE[d365fin](includes/d365fin_md.md)] с [!INCLUDE[crm_md](includes/crm_md.md)] для запланированных интервалов путем настройки заданий в очереди заданий. Задания синхронизации выполнят синхронизацию данных в записях [!INCLUDE[d365fin](includes/d365fin_md.md)] и записях [!INCLUDE[crm_md](includes/crm_md.md)], которые ранее были связаны. Или для записей, которые еще не связаны, в зависимости от направления синхронизации и правил, задания синхронизации могут создать и связать новые записи в целевой системе. Имеется несколько заданий синхронизации, которые доступны в готовом виде. Их можно просмотреть на странице **Операции очереди работ**. Дополнительные сведения см. в разделе [Использование очередей работ для планирования задач](admin-job-queues-schedule-tasks.md).
@@ -31,7 +31,7 @@ ms.locfileid: "1247425"
 -   По умолчанию синхронизируются только записи в [!INCLUDE[d365fin](includes/d365fin_md.md)], связанные с записями в [!INCLUDE[crm_md](includes/crm_md.md)]. Сопоставление таблицы между операцией [!INCLUDE[crm_md](includes/crm_md.md)] и таблицей [!INCLUDE[d365fin](includes/d365fin_md.md)] можно изменить, чтобы задания синхронизации интеграции создавали новые записи в целевой базе данных для каждой записи в исходной базе, которая не связана. Новые записи также связываются с соответствующими записями в источнике. Например, при синхронизации клиентов с организациями [!INCLUDE[crm_md](includes/crm_md.md)] создается новая запись организации для каждого клиента в [!INCLUDE[d365fin](includes/d365fin_md.md)]. Новые счета автоматически связываются с клиентами в [!INCLUDE[d365fin](includes/d365fin_md.md)]. Поскольку синхронизация в этом случае является двунаправленной, новый клиент создается и связывается для каждой организации [!INCLUDE[crm_md](includes/crm_md.md)], которая еще не связана.  
 
     > [!NOTE]  
-    >  Имеются правила и фильтры, которые определяют, какие данные синхронизируются. Для получения дополнительной информации см. [Правила синхронизации](admin-synchronizing-business-central-and-sales.md#synchronization-rules).
+    > Имеются правила и фильтры, которые определяют, какие данные синхронизируются. Для получения дополнительной информации см. [Правила синхронизации](admin-synchronizing-business-central-and-sales.md#synchronization-rules).
 
 -   Когда новые записи создаются в [!INCLUDE[d365fin](includes/d365fin_md.md)], записи используют шаблон, определенный для сопоставления таблиц интеграции, или шаблон по умолчанию, доступный для этого типа записей. Поля заполняются данными из [!INCLUDE[d365fin](includes/d365fin_md.md)] или [!INCLUDE[crm_md](includes/crm_md.md)] в зависимости от направления синхронизации. Дополнительные сведения см. в разделе [Практическое руководство. Изменение сопоставлений таблицы для синхронизации](admin-how-to-modify-table-mappings-for-synchronization.md).  
 
@@ -51,7 +51,7 @@ ms.locfileid: "1247425"
 |Задание синхронизации КЛИЕНТ — Dynamics 365 for Sales|Синхронизирует организации [!INCLUDE[crm_md](includes/crm_md.md)] с клиентами [!INCLUDE[d365fin](includes/d365fin_md.md)].|Двунаправленная|КЛИЕНТ|  
 |Задание синхронизации CUSTPRCGRP-PRICE — Dynamics 365 for Sales|Синхронизирует прайс-листы продаж [!INCLUDE[crm_md](includes/crm_md.md)] с ценовыми группами клиентов [!INCLUDE[d365fin](includes/d365fin_md.md)].| |ЦЕНОВЫЕ ГРУППЫ КЛИЕНТОВ — ПРАЙС-ЛИСТЫ ПРОДАЖ|
 |Задание синхронизации ТОВАР - ПРОДУКТ — Dynamics 365 for Sales|Синхронизирует продукты [!INCLUDE[crm_md](includes/crm_md.md)] с товарами [!INCLUDE[d365fin](includes/d365fin_md.md)].|Из [!INCLUDE[d365fin](includes/d365fin_md.md)] в [!INCLUDE[crm_md](includes/crm_md.md)]|ТОВАР-ПРОДУКТ|
-|Задание синхронизации POSTEDSALESINV-INV — Dynamics 365 for Sales|Синхронизирует счета [!INCLUDE[crm_md](includes/crm_md.md)] с учтенными счетами продаж [!INCLUDE[d365fin](includes/d365fin_md.md)].|Из [!INCLUDE[crm_md](includes/crm_md.md)] в [!INCLUDE[d365fin](includes/d365fin_md.md)]|СЧЕТА — УЧТЕННЫЕ СЧЕТА ПРОДАЖ|
+|Задание синхронизации POSTEDSALESINV-INV — Dynamics 365 for Sales|Синхронизирует счета [!INCLUDE[crm_md](includes/crm_md.md)] с учтенными счетами продаж [!INCLUDE[d365fin](includes/d365fin_md.md)].|Из [!INCLUDE[d365fin](includes/d365fin_md.md)] в [!INCLUDE[crm_md](includes/crm_md.md)]|СЧЕТА — УЧТЕННЫЕ СЧЕТА ПРОДАЖ|
 |Задание синхронизации "РЕСУРС-ПРОДУКТ — Dynamics 365 for Sales"|Синхронизирует продукты [!INCLUDE[crm_md](includes/crm_md.md)] с ресурсами [!INCLUDE[d365fin](includes/d365fin_md.md)].|Из [!INCLUDE[d365fin](includes/d365fin_md.md)] в [!INCLUDE[crm_md](includes/crm_md.md)]|РЕСУРС-ПРОДУКТ|  
 |Задание синхронизации "ПРОДАВЦЫ — Dynamics 365 for Sales"|Синхронизирует продавцов [!INCLUDE[d365fin](includes/d365fin_md.md)] с пользователями [!INCLUDE[crm_md](includes/crm_md.md)].|Из [!INCLUDE[crm_md](includes/crm_md.md)] в [!INCLUDE[d365fin](includes/d365fin_md.md)]|ПРОДАВЦЫ|
 |Задание синхронизации SALESPRC-PRODUCTPRICE — Dynamics 365 for Sales|Синхронизирует цены продуктов [!INCLUDE[crm_md](includes/crm_md.md)] с ценами продажи [!INCLUDE[d365fin](includes/d365fin_md.md)].||ЦЕНА ПРОДУКТА — ЦЕНА ПРОДАЖ|
@@ -63,7 +63,7 @@ ms.locfileid: "1247425"
 2.  Если при выполнении задания синхронизации произошла одна или несколько ошибок, количество ошибок отображается в столбце **Ошибки**. Для просмотра ошибок по заданию выберите номер.  
 
     > [!TIP]  
-    >  Можно просмотреть все ошибки задания синхронизации, открыв журнал ошибок задания синхронизации вручную.
+    > Можно просмотреть все ошибки задания синхронизации, открыв журнал ошибок задания синхронизации вручную.
 
 ## <a name="to-view-the-synchronization-job-log-from-the-table-mappings"></a>Просмотр журнала заданий синхронизации из сопоставлений таблиц  
 1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Сопоставления таблиц интеграции**, затем выберите связанную ссылку.

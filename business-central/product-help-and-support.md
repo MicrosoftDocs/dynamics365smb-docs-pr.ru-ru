@@ -6,13 +6,13 @@ ms.reviewer: na
 ms.topic: article
 ms.service: dynamics365-business-central
 ms.author: edupont
-ms.date: 07/03/2019
-ms.openlocfilehash: 6b19a566ada8e9708bb19a82ded3404b29cf260d
-ms.sourcegitcommit: 8fe694b7bbe7fc0456ed5a9e42291218d2251b05
+ms.date: 07/17/2019
+ms.openlocfilehash: 4ca4205fa5d2da35451f3a78c1534dd32d4d8f65
+ms.sourcegitcommit: b4fb54af9ed2e51479bb5293f86290c0de78858c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/04/2019
-ms.locfileid: "1726958"
+ms.lasthandoff: 07/17/2019
+ms.locfileid: "1755973"
 ---
 # <a name="resources-for-help-and-support"></a>Ресурсы для справки и поддержки
 
@@ -43,11 +43,11 @@ ms.locfileid: "1726958"
 
 ### <a name="blog"></a>Блог
 
-В [блоге Business Central](https://community.dynamics.com/business/b/financials) можно ознакомиться с дополнительными сведениями о новых возможностях [!INCLUDE[prodshort](includes/prodshort.md)], новых выпусках приложений, советами и подсказками, а также обновлениями о новых выпусках для страны.  
+Мы рассказываем о новых возможностях в [блоге Dynamics 365](https://cloudblogs.microsoft.com/dynamics365/users/product/business-central/), включая то, когда будут доступны, а также есть ли какие-либо связанные с ними особенности.  
 
 ### <a name="capabilities-coming-soon"></a>Возможности, которые скоро появятся
 
-[!INCLUDE[prodshort](includes/prodshort.md)] обновляется крупными функциональными обновлениями каждый 6 месяцев, а также ежемесячными сервисными обновлениями. Выберите ссылку для просмотра плана последнего выпуска. Можно также получить обзор ожидающихся и недавно выпущенных возможностей в плане выпуска Dynamics 365 по адресу [https://dynamics.microsoft.com/en-us/business-applications/release/](https://dynamics.microsoft.com/en-us/business-applications/release/#release-notes).  
+[!INCLUDE[prodshort](includes/prodshort.md)] обновляется крупными функциональными обновлениями каждый 6 месяцев, а также ежемесячными сервисными обновлениями. Выберите ссылку для просмотра плана последнего выпуска. Можно также получить обзор ожидающихся и недавно выпущенных возможностей в плане выпуска Dynamics 365 по адресу [https://aka.ms/businessappsreleasenotes](https://aka.ms/businessappsreleasenotes).  
 
 Для более долгосрочного обзора страница [дорожной карты](https://dynamics.microsoft.com/roadmap/business-central/) [!INCLUDE[prodshort](includes/prodshort.md)] показывает общие приоритеты для [!INCLUDE[prodshort](includes/prodshort.md)] в ближайшие годы.  
 

@@ -1,8 +1,6 @@
 ---
 title: Отображение пользовательских отчетов Power BI | Microsoft Docs
 description: Можно использовать отчеты Power BI для сбора дополнительных сведений о данных в списках.
-services: project-madeira
-documentationcenter: ''
 author: edupont04
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -10,20 +8,21 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: business intelligence, KPI, Odata, Power App, SOAP, analysis
-ms.date: 04/01/2019
+ms.date: 07/08/2019
 ms.author: edupont
-ms.openlocfilehash: 29c7b7656632d2103a16025848a6ddc82650353e
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: acf9462db8b4f559a5fbc40381b4e5009cdac088
+ms.sourcegitcommit: 519623f9a5134c9ffa97eeaed0841ae59835f453
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1241606"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "1755199"
 ---
-# <a name="viewing-list-data-in-power-bi-reports-in-business-central"></a>Просмотр данных в списках в отчетах Power BI в Business Central 
-[!INCLUDE[d365fin](includes/d365fin_md.md)] включает элемент управления информационной панелью на нескольких ключевых страницах списков, который предоставляет дополнительные сведения о данных в списке. При перемещении между строками в списке отчет обновляется и фильтруется в соответствии с выбранной операцией. Можно создать пользовательские отчеты для отображения в этом элементе управления, но существует несколько правил, которые следует соблюдать при создании отчетов для обеспечения требуемого поведения.  
+# <a name="viewing-list-data-in-power-bi-reports-in-business-central"></a>Просмотр данных в списках в отчетах Power BI в Business Central
+
+[!INCLUDE[prodlong](includes/prodlong.md)] включает элемент управления информационной панелью на нескольких ключевых страницах списков, который предоставляет дополнительные сведения о данных в списке. При перемещении между строками в списке отчет обновляется и фильтруется в соответствии с выбранной операцией. Можно создать пользовательские отчеты для отображения в этом элементе управления, но существует несколько правил, которые следует соблюдать при создании отчетов для обеспечения требуемого поведения.  
 
 > [!NOTE]  
->   Вы должны иметь допустимую учетную запись в [!INCLUDE[d365fin](includes/d365fin_md.md)] и в Power BI. Кроме того, необходимо скачать [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/). Дополнительные сведения см. в разделе [Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] как источник данных Power BI](across-how-use-financials-data-source-powerbi.md).  
+> Вы должны иметь допустимую учетную запись в [!INCLUDE[prodshort](includes/prodshort.md)] и в Power BI. Кроме того, для создания пользовательских отчетов необходимо скачать [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/), Дополнительные сведения см. в разделе [Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] как источник данных Power BI](across-how-use-financials-data-source-powerbi.md).  
 
 ## <a name="report-data-set"></a>Набор данных отчета
 При создании отчета в Power BI Desktop укажите источник данных или веб-службу, содержащую данные, связанные со списком, с которым требуется связать отчет. Например, если нужно создать отчет для списка продаж, убедитесь, что набор данных содержит информацию, связанную с продажами.  
@@ -50,7 +49,7 @@ ms.locfileid: "1241606"
 В Power BI можно создать один отчет с несколькими страницами. Визуальные элементы, которые должны отображаться на страницах списка [!INCLUDE[d365fin](includes/d365fin_md.md)], должны находиться на первой странице отчета в Power BI.  
 
 > [!NOTE]  
->  На информационной панели Power BI может отображаться только первая страница отчета. Если необходимо отобразить другие страницы, следует развернуть отчет и использовать вкладки в нижней части отчета для перехода на другие страницы.  
+> На информационной панели Power BI может отображаться только первая страница отчета. Если необходимо отобразить другие страницы, следует развернуть отчет и использовать вкладки в нижней части отчета для перехода на другие страницы.  
 
 ## <a name="saving-your-report"></a>Сохранение отчета
 
@@ -72,7 +71,9 @@ ms.locfileid: "1241606"
 Проверьте, что отчет имеет размер 325 х 310 пикселей. Сохраните отчет, а затем обновите страницу списка.  
 
 ## <a name="see-also"></a>См. также
+
+[Включение бизнес-данных для Power BI](admin-powerbi.md)  
 [Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] как источника данных Power BI](across-how-use-financials-data-source-powerbi.md)  
-[Приступая к работе](product-get-started.md)    
-[Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md)    
+[Приступая к работе](product-get-started.md)  
+[Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md)  
 [Финансы](finance.md)  

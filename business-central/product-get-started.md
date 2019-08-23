@@ -10,19 +10,19 @@ ms.workload: na
 ms.search.keywords: setup wizard
 ms.date: 06/13/2019
 ms.author: edupont
-ms.openlocfilehash: 91ade518beb551d7b9c30cef0eef3c5c72b366aa
-ms.sourcegitcommit: f2e3b571eab6e01d9f5aa8ef47056b6bd313dcbd
+ms.openlocfilehash: dd3cf008e2d16a8d63c9fea930ddcb4ba14072a2
+ms.sourcegitcommit: 5bcc5f95e450ee9a3d9f7a380e592a5e75c4185b
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/13/2019
-ms.locfileid: "1629945"
+ms.lasthandoff: 08/05/2019
+ms.locfileid: "1858293"
 ---
-# <a name="getting-started-with-included365finlongincludesd365finlongmdmd"></a>Приступая к работе с [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]
+# <a name="getting-started-with-included365fin_longincludesd365fin_long_mdmd"></a>Приступая к работе с [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]
 [!INCLUDE[d365fin](includes/d365fin_md.md)] — это решение по управлению деятельностью для малых и средних предприятий, позволяющее автоматизировать и упростить бизнес процессы и лучше управлять бизнесом. Регистрация очень проста, и вы можете перенести существующие бизнес-данные из своей системы. Чтобы разобраться с подпиской, найдите партнера [!INCLUDE[d365fin](includes/d365fin_md.md)] [здесь](https://www.microsoft.com/en-us/solution-providers/search).  
 
 После регистрации в предварительной версии [!INCLUDE[d365fin](includes/d365fin_md.md)] вы получаете доступ к демонстрационной организации. Демонстрационная организация содержит примеры данных, но вы можете создавать собственные документы продажи, например, настроить банковский счет.  
 
-## <a name="get-to-know-included365finincludesd365finmdmd"></a>Обзор [!INCLUDE[d365fin](includes/d365fin_md.md)]
+## <a name="get-to-know-included365finincludesd365fin_mdmd"></a>Обзор [!INCLUDE[d365fin](includes/d365fin_md.md)]
 В [!INCLUDE[d365fin](includes/d365fin_md.md)] некоторые моменты будут хорошо знакомы вам, а другие могут быть незнакомы. В демонстрационной организации визуальные руководства объясняют основные функции и помогают попробовать выполнить ежедневные задачи, такие как создание счета продажи и просмотр отчета. Если вы выйдите из руководства, например для того, чтобы изучить [!INCLUDE[d365fin](includes/d365fin_md.md)] самостоятельно, но захотите вернуться в него, перейдите обратно в ролевой центр и запустите тур "Приступая к работе". Если вам нужна дополнительная помощь, свяжитесь с партнером [!INCLUDE[d365fin](includes/d365fin_md.md)].  
 
 > [!TIP]  
@@ -87,7 +87,7 @@ ms.locfileid: "1629945"
 При каждом выполнении входа во время пробного периода отображается уведомление вверху в синем поле с указанием оставшегося времени. Если вы решили оформить подписку, найдите партнера [!INCLUDE[d365fin](includes/d365fin_md.md)] [здесь](https://www.microsoft.com/en-us/solution-providers/search). Можно также связаться с [группой [!INCLUDE[d365fin](includes/d365fin_md.md)] Sales](https://go.microsoft.com/fwlink/?linkid=828707).  
 
 ## <a name="other-dynamics-365-apps"></a>Другие приложения Dynamics 365
-Перейдите к содержимому о других приложениях Dynamics 365 , выбрав ссылку [Dynamics 365](https://docs.microsoft.com/dynamics365) на синем баннере вверху этой страницы. Дополнительные сведения можно также получить на [веб-сайте Dynamics 365 Business Central](https://dynamics.microsoft.com/en-us/business-central/overview/).  
+Перейдите к содержимому о других приложениях Dynamics 365 , выбрав ссылку [Dynamics 365](/dynamics365/) на синем баннере вверху этой страницы. Дополнительные сведения можно также получить на [веб-сайте Dynamics 365 Business Central](https://dynamics.microsoft.com/en-us/business-central/overview/).  
 
 Если вы бухгалтер, вы можете зарегистрироваться в [!INCLUDE[d365acc_long](includes/d365acc_long_md.md)] для полной интеграции с [!INCLUDE[d365fin](includes/d365fin_md.md)]. Дополнительные сведения см. в разделе [Добро пожаловать в Dynamics 365 — Accountant Hub](/dynamics365/accountants/index).
 
@@ -99,7 +99,7 @@ ms.locfileid: "1629945"
 [Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] в качестве рабочего почтового ящика в Outlook](admin-outlook.md)  
 [Получение [!INCLUDE[d365fin](includes/d365fin_md.md)] на мобильном устройстве](install-mobile-app.md)  
 [Ресурсы для справки и поддержки](product-help-and-support.md)  
-[Документация по Dynamics 365](https://docs.microsoft.com/en-us/dynamics365/)  
+[Документация по Dynamics 365](/dynamics365/)  
 [План выпуска Microsoft Dynamics 365 Business Central](https://go.microsoft.com/fwlink/?linkid=2047422)  
 [Microsoft Dynamics 365 Business Central](https://go.microsoft.com/fwlink/?linkid=828707)  
 

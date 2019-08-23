@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: customize, personalize, personalization, hide columns, remove fields, move fields
 ms.date: 04/01/2019
 ms.author: jswymer
-ms.openlocfilehash: 64995372f68ed2804bc165823dacc34ad6a3194d
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: 1a3edaca2e76388d82ea8991c3196410dd9c7288
+ms.sourcegitcommit: a88d1e9c0ab647cb8d9d81d32c0bdc82843f4145
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1251289"
+ms.lasthandoff: 07/31/2019
+ms.locfileid: "1796769"
 ---
 # <a name="why-a-page-is-locked-from-personalization"></a>Почему заблокирована персонализация страницы?
 
@@ -55,7 +55,7 @@ The page currently includes the last personalization changes that you made. If y
 
 ![Персонализация заблокирована](media/personalization-blocked.png "Замок персонализации")
 
-Причина этого заключается в том, что ролевой центр или профиль, который в настоящее время связан с вашей учетной записью пользователя, изменяет эту страницу специально для вашей роли. Обратитесь к администратору за помощью или, если это имеет смысл, попробуйте переключиться на ролевой центр (из [**Мои настройки**](https://businesscentral.dynamics.com?page=9176 "Прямой переход на вашу страницу пользовательских настроек в Business Central")), который действительно включает настройку для ролей для этой страницы.
+Причина этого заключается в том, что ролевой центр или роль, которая в настоящее время связана с вашей учетной записью пользователя, изменяет эту страницу специально для вашей роли. Обратитесь к администратору за помощью или, если это имеет смысл, попробуйте переключиться на ролевой центр (из [**Мои настройки**](https://businesscentral.dynamics.com?page=9176 "Прямой переход на вашу страницу пользовательских настроек в Business Central")), который действительно включает настройку для ролей для этой страницы.
 
 ## <a name="see-also"></a>См. также
 [Персонализация рабочей области](ui-personalization-manage.md)  

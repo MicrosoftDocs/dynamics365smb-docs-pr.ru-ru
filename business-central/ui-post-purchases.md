@@ -1,22 +1,21 @@
 ---
 title: Сведения о об учете документов покупки | Документы Майкрософт
-description: Узнайте о различных функциях учета документов покупки.
-services: project-madeira
-documentationcenter: ''
-author: SusanneWindfeldPedersen
+description: Узнайте о различных функциях учета для учета документов о покупке, а также о том, как можно обновлять учтенные документы.
+author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.date: 04/01/2019
-ms.author: solsen
-ms.openlocfilehash: cc3d2e5b0f3425c329e5567e7d00908cb7f5c7d5
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.reviewer: edupont
+ms.date: 07/17/2019
+ms.author: sgroespe
+ms.openlocfilehash: 55a910e471db7b674b0107022647cfd7af7a500d
+ms.sourcegitcommit: a88d1e9c0ab647cb8d9d81d32c0bdc82843f4145
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1247858"
+ms.lasthandoff: 07/31/2019
+ms.locfileid: "1796922"
 ---
 # <a name="posting-purchases"></a>Учет покупок
 В разделе **Учетная группа** в документе покупки можно выбирать следующие функции учета:
@@ -45,7 +44,9 @@ ms.locfileid: "1247858"
 Если учет завершен, учтенные строки покупки удаляются из заказа. При завершении учета появляется соответствующее сообщение. После этого появится возможность просмотра учтенных операций на различных страницах, содержащих учтенные операции, в том числе на страницах **Книга операций по поставщикам**, **Операции ГК**, **Книга операций по товарам**, **Приходные накладные** и **Учтенные счета покупки**.
 
 ## <a name="see-also"></a>См. также
+
 [Покупки](purchasing-manage-purchasing.md)  
 [Учет документов и журналов](ui-post-documents-journals.md)  
+[Исправление или отмена неоплаченных счетов покупки](purchasing-how-correct-cancel-unpaid-purchase-invoices.md)  
+[Использование функции "Что вы хотите сделать" для поиска функций и информации](ui-search.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
-

@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: client
-ms.date: 04/01/2019
+ms.date: 07/22/2019
 ms.author: sgroespe
-ms.openlocfilehash: 45fb2f1ac2b9d26e74e625321a64b4a5033880bf
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: 195ab393046d56611445d7cba9ed39cdbaf75454
+ms.sourcegitcommit: a88d1e9c0ab647cb8d9d81d32c0bdc82843f4145
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1252508"
+ms.lasthandoff: 07/31/2019
+ms.locfileid: "1796816"
 ---
 # <a name="register-new-customers"></a>Регистрация новых клиентов
 Клиенты — это источник доходов. Необходимо зарегистрировать каждого клиента, которому осуществляется продажа, в карточке клиента. Карточки клиентов содержат сведения, необходимые для продажи продуктов клиенту. Дополнительные сведения см. в разделах [Выставление счетов продажи](sales-how-invoice-sales.md) и [Регистрация новых товаров](inventory-how-register-new-items.md).  
@@ -54,6 +54,7 @@ ms.locfileid: "1252508"
 Шаблон клиента добавляется в список шаблонов клиентов, чтобы можно было использовать его для создания новых карточек клиентов.
 
 ## <a name="see-also"></a>См. также
+[Определение способов оплаты](finance-payment-methods.md)  
 [Объединение повторяющихся записей](sales-how-merge-duplicate-records.md)  
 [Создание серий номеров](ui-create-number-series.md)  
 [Продажи](sales-manage-sales.md)    

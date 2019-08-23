@@ -1,1 +1,1 @@
-Получите [обучение!](https://docs.microsoft.com/en-us/dynamics365/get-started/training/)
+Получите [обучение!](/dynamics365/get-started/training/)
