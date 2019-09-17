@@ -234,6 +234,7 @@
 ## [Экспорт бизнес-данных в Excel](about-export-data.md)
 ## [Учет документов и журналов](ui-post-documents-journals.md)
 ## [Предварительный просмотр результатов учета](ui-how-preview-post-results.md)
+## [Изменение учтенных документов](across-edit-posted-document.md)
 ## [Работа с финансовыми журналами](ui-work-general-journals.md)
 ## [Использование очередей работ для планирования задач](admin-job-queues-schedule-tasks.md)
 ## [Разрешение Business Central предлагать значения](ui-let-system-suggest-values.md)
@@ -590,10 +591,12 @@
 ### [Обзор](marketing-manage-sales-opportunities.md)
 ### [Настройка циклов возможных продаж и этапов циклов](marketing-how-setup-opportunity-sales-cycles-stages.md)
 ### [Создание возможностей](marketing-how-create-opportunities.md)
+### [Отслеживание обмена сообщениями электронной почты](marketing-set-up-email-logging.md)
+
 ### [Обработка возможностей продаж](marketing-processing-sales-opportunities.md)
-## [Управление маркетинговыми кампаниями](marketing-campaigns.md)
-## Взаимодействие с клиентами через Dynamics 365 for Sales
-### [Использование Dynamics 365 for Sales из Business Central](marketing-integrate-dynamicscrm.md)
+### [Настройка регистрации эл.почты](marketing-set-up-email-logging.md)
+## [Использование анкет профилей для классификации бизнес-контактов](marketing-create-contact-profile-questionnaire.md)
+## [Использование Dynamics 365 for Sales из Business Central](marketing-integrate-dynamicscrm.md)
 ### [Связывание и синхронизация записей вручную](admin-how-to-couple-and-synchronize-records-manually.md)
 ### [Просмотр статуса синхронизации](admin-how-to-view-synchronization-status.md)
 
