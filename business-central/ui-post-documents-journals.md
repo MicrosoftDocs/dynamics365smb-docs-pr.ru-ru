@@ -3,22 +3,22 @@ title: Обзор учтеа документов и журналов | Доку
 description: Описывает действия при выполнении и способы учета документов и журналов.
 services: project-madeira
 documentationcenter: ''
-author: SusanneWindfeldPedersen
+author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.date: 04/01/2019
-ms.author: solsen
-ms.openlocfilehash: c9f7a6e3539efa1a1923f05796c03ad70bbb5e58
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.date: 07/24/2019
+ms.author: sgroespe
+ms.openlocfilehash: a3fabec129de3e59eff30f70d1084e3969fa9ddc
+ms.sourcegitcommit: f46793abdb3efd8384c10eb7992e076383251f2c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1247923"
+ms.lasthandoff: 08/27/2019
+ms.locfileid: "1921365"
 ---
-# <a name="post-documents-and-journals"></a>Учет документов и журналов
+# <a name="posting-documents-and-journals"></a>Учет документов и журналов
 Учет представляет бухгалтерское действие по записи бизнес-транзакций в различных книгах организации.
 
 Практически в каждом документе и журнале в [!INCLUDE[d365fin](includes/d365fin_md.md)] имеется группа **Учет**, в которой можно выбрать различные действия по учету, например **Учесть**, **Предварительный просмотр учета**, **Учесть и отправить**, **Учесть и отправить по эл. почте**.
@@ -34,6 +34,6 @@ ms.locfileid: "1247923"
 | Предварительный просмотр в отчете операций, которые будут созданы при учете. |[Просмотр тестовых отчетов перед учетом](ui-how-view-test-reports-posting.md) |
 
 ## <a name="see-also"></a>См. также
+[Изменение учтенных документов](across-edit-posted-document.md)  
 [Общие бизнес-функции](ui-across-business-areas.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
-

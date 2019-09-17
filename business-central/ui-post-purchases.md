@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.reviewer: edupont
-ms.date: 07/17/2019
+ms.date: 08/27/2019
 ms.author: sgroespe
-ms.openlocfilehash: 55a910e471db7b674b0107022647cfd7af7a500d
-ms.sourcegitcommit: a88d1e9c0ab647cb8d9d81d32c0bdc82843f4145
+ms.openlocfilehash: 77be24dce0d34c712b87649f9ced21b947c77cbe
+ms.sourcegitcommit: f46793abdb3efd8384c10eb7992e076383251f2c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/31/2019
-ms.locfileid: "1796922"
+ms.lasthandoff: 08/27/2019
+ms.locfileid: "1921342"
 ---
 # <a name="posting-purchases"></a>Учет покупок
 В разделе **Учетная группа** в документе покупки можно выбирать следующие функции учета:
@@ -43,8 +43,10 @@ ms.locfileid: "1796922"
 
 Если учет завершен, учтенные строки покупки удаляются из заказа. При завершении учета появляется соответствующее сообщение. После этого появится возможность просмотра учтенных операций на различных страницах, содержащих учтенные операции, в том числе на страницах **Книга операций по поставщикам**, **Операции ГК**, **Книга операций по товарам**, **Приходные накладные** и **Учтенные счета покупки**.
 
-## <a name="see-also"></a>См. также
+Вы можете редактировать определенные поля в учтенных документах покупки, такие как поле **Ссылка на оплату**. Дополнительные сведения см. в разделе [Изменение учтенных документов](across-edit-posted-document.md).
 
+## <a name="see-also"></a>См. также
+[Изменение учтенных документов](across-edit-posted-document.md)  
 [Покупки](purchasing-manage-purchasing.md)  
 [Учет документов и журналов](ui-post-documents-journals.md)  
 [Исправление или отмена неоплаченных счетов покупки](purchasing-how-correct-cancel-unpaid-purchase-invoices.md)  

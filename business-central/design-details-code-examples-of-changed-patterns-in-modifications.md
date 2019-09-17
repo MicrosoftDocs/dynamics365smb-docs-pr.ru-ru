@@ -13,12 +13,12 @@ ms.search.keywords: ''
 ms.date: 04/01/2019
 ms.author: sgroespe
 redirect_url: design-details-dimension-set-entries
-ms.openlocfilehash: 5bb5e5713ed23877006ebb913e01416feac69266
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: 59fce0a432c7f433552cff21ef304fa16fa85a8a
+ms.sourcegitcommit: 1fa3d33db7bc71e3a27c826308a80ff24a436a72
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1243438"
+ms.lasthandoff: 08/30/2019
+ms.locfileid: "1970905"
 ---
 # <a name="design-details-code-examples-of-changed-patterns-in-modifications"></a>Сведения о проектировании: примеры кода измененных шаблонов в модификациях
 В этом разделе приводятся примеры кода, чтобы отобразить измененные шаблоны при модификации и миграции кода измерения для пяти разных сценариев. В нем сравниваются примеры кода в более ранних версиях с примерами кода в Business Central.
@@ -197,4 +197,3 @@ GetSalesHeader;
 ## <a name="see-also"></a>См. также  
 [Сведения о проектировании: операции набора измерений](design-details-dimension-set-entries.md)   
 [Сведения о проектировании: структура таблицы](design-details-table-structure.md)   
-[Сведения о проектировании: Codeunit 408 Dimension Management](design-details-codeunit-408-dimension-management.md)

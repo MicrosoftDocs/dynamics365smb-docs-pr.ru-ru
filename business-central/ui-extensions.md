@@ -9,17 +9,22 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: app, add-in, manifest, customize
-ms.date: 06/13/2019
+ms.date: 08/22/2019
 ms.author: edupont
-ms.openlocfilehash: e1f7d9891be4ae31fc3f98fb768bfddcd38582ca
-ms.sourcegitcommit: f2e3b571eab6e01d9f5aa8ef47056b6bd313dcbd
+ms.openlocfilehash: 93d75f1ea55f47c6601cbdd3c3856e39b9dc1416
+ms.sourcegitcommit: 6ef7d2fae52feff786f2e15e2863d7f5aaa762be
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/13/2019
-ms.locfileid: "1629876"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "1917418"
 ---
 # <a name="customizing-business-central-using-extensions"></a>Настройка Business Central с помощью расширений
 Вы можете изменить [!INCLUDE[d365fin](includes/d365fin_md.md)] за счет установки расширений, которые добавляют функциональность, изменяют поведение или, например, предоставляют доступ к новым интернет-службам.
+
+> [!NOTE]
+> Чтобы установить расширения из AppSource или добавить расширения для каждого арендатора, у вас должны быть соответствующие разрешения. Вы должны быть либо участником группы пользователей D365 EXTENSION MGMT, либо у вас должен быть установлен набор разрешений D365 EXTENSION MGMT. Если вы являетесь администратором, вы можете назначать группы пользователей и разрешения другим пользователям в вашей компании.<br /><br />
+Чтобы использовать функциональную возможность, предоставляемую расширением, такую как открытие страниц, запуск отчетов, выбор действий и т. п., необходимо назначить наборы разрешений, которые устанавливаются как часть расширения.
+
 При первом запуске [!INCLUDE[d365fin](includes/d365fin_md.md)] некоторые расширения уже установлены. Со временем вам станут доступны дополнительные расширения, и вы сможете выбрать, хотите ли вы использовать эти расширения.
 
 Например, корпорация Майкрософт предлагает расширение, которое обеспечивает интеграцию с PayPal Payments Standard. Это расширение установлено по умолчанию.
@@ -67,7 +72,7 @@ ms.locfileid: "1629876"
 * [DK — Миграция данных C5](ui-extensions-c5-data-migration.md)
 * [DK — Платежи и выверки](ui-extensions-payments-reconciliation-formats-dk.md)
 * [DK — Форматы налоговой документации](ui-extensions-tax-file-formats-dk.md)
-* [DK — Почтовые индексы Великобритании GetAddress.io](ui-extensions-getaddressio.md)
+* [UK — Почтовые индексы Великобритании GetAddress.io](ui-extensions-getaddressio.md)
 * [US/CA/UK/AU/NZ/ZA — Отправить авизо](ui-extensions-send-remittance-advice.md)
 * [Расширения для Business Central от других поставщиков](ui-extensions-other.md)
 

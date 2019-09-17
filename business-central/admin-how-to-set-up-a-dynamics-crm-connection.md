@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/06/2019
 ms.author: bholtorf
-ms.openlocfilehash: dfcb664d352683566df233d6b9b95900f2d76a5a
-ms.sourcegitcommit: f2e3b571eab6e01d9f5aa8ef47056b6bd313dcbd
+ms.openlocfilehash: 37728cb92e4b87346cf2be0e2ddc50b5a3b5f25e
+ms.sourcegitcommit: 6ef7d2fae52feff786f2e15e2863d7f5aaa762be
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/13/2019
-ms.locfileid: "1629646"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "1917395"
 ---
 # <a name="set-up-a-connection-to-dynamics-365-for-sales"></a>Настройка подключения к Dynamics 365 for Sales
 Для интеграции с [!INCLUDE[crm_md](includes/crm_md.md)] необходимо настроить подключение между [!INCLUDE[d365fin](includes/d365fin_md.md)] и [!INCLUDE[crm_md](includes/crm_md.md)].
@@ -34,7 +34,7 @@ ms.locfileid: "1629646"
 > [!Note]
 > Эти шаги описывают процедуру для интернет-версии [!INCLUDE[d365fin](includes/d365fin_md.md)].
 
-## <a name="set-up-test-and-enable-a-connection-to-includecrmmdincludescrmmdmd"></a>Настройка, тестирование и активизация подключения к [!INCLUDE[crm_md](includes/crm_md.md)]  
+## <a name="set-up-test-and-enable-a-connection-to-includecrm_mdincludescrm_mdmd"></a>Настройка, тестирование и активизация подключения к [!INCLUDE[crm_md](includes/crm_md.md)]  
 Для всех типов проверки подлинности, отличных от проверки подлинности Office 365, вы настраиваете подключение к Dynamics 365 for Sales на странице **Настройка подключения к Microsoft Dynamics 365 for Sales**. Для проверки подлинности Office 365 также можно использовать мастер настройки **Настройка подключения к Dynamics 365 for Sales**, который поможет предоставить необходимую информацию.
 
 ### <a name="to-use-an-assisted-setup-guide"></a>Использование мастера настройки
@@ -52,7 +52,7 @@ ms.locfileid: "1629646"
 |**URL-адрес веб-службы OData Dynamics 365 Business Central**|Если включена веб-служба наличия товаров, URL-адрес веб-службы OData предоставляется для вас.|
 |**Имя пользователя веб-службы OData Dynamics 365 Business Central**|Имя пользователя учетной записи [!INCLUDE[d365fin](includes/d365fin_md.md)], которую [!INCLUDE[crm_md](includes/crm_md.md)] использует для извлечения сведений о наличии товаров в [!INCLUDE[d365fin](includes/d365fin_md.md)] через веб-службу OData.|
 |**Ключ доступа веб-службы OData Dynamics 365 Business Central**|Ключ доступа учетной записи пользователя, которую [!INCLUDE[crm_md](includes/crm_md.md)] использует для получения сведений о наличии товаров из [!INCLUDE[d365fin](includes/d365fin_md.md)] через веб-службу OData. Ключ назначается пользователю, выбранному в поле **Имя пользователя веб-службы OData Dynamics 365 Business Central**. Чтобы получить ключ, выберите кнопку **Найти значение** рядом с именем пользователя, выберите пользователя, выберите **Управление**, затем выберите **Правка**. В карточке пользователя выберите **Действия**, **Проверка подлинности**, затем выберите **Изменить ключ веб-службы**.|
-|**Включить интеграцию с заказом на продажу**|Когда люди создают заказы на продажу в [!INCLUDE[crm_md](includes/crm_md.md)], заказы копируются в [!INCLUDE[d365fin](includes/d365fin_md.md)]. Для этого требуется, чтобы вы предоставили учетные данные для учетной записи пользователя-администратора в [!INCLUDE[crm_md](includes/crm_md.md)]. Дополнительные сведения см. в разделе [Обработка данных в заказах на продажу](marketing-integrate-dynamicscrm.md#handling-sales-order-data).|
+|**Включить интеграцию с заказом на продажу**|Когда сотрудники создают заказы на продажу в [!INCLUDE[crm_md](includes/crm_md.md)] и выполняют заказы в [!INCLUDE[d365fin](includes/d365fin_md.md)], это интегрирует процесс в [!INCLUDE[crm_md](includes/crm_md.md)]. Дополнительные сведения см. в разделе [Включение интеграции обработки заказов на продажу](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/sales-enterprise/developer/enable-sales-order-processing-integration). Для этого требуется, чтобы вы предоставили учетные данные для учетной записи пользователя-администратора в [!INCLUDE[crm_md](includes/crm_md.md)]. Дополнительные сведения см. в разделе [Обработка данных в заказах на продажу](marketing-integrate-dynamicscrm.md#handling-sales-order-data).|
 |**Включить подключение к Dynamics 365 for Sales**|Включите подключение к [!INCLUDE[crm_md](includes/crm_md.md)].|
 |**Версия SDK Dynamics 365**|Это необходимо только в том случае, если выполняется интеграция с локальной версией [!INCLUDE[crm_md](includes/crm_md.md)]. Это комплект разработки программного обеспечения Dynamics 365 (также называемый Xrm), который используется для подключения [!INCLUDE[d365fin](includes/d365fin_md.md)] к [!INCLUDE[crm_md](includes/crm_md.md)]. Версия должна быть совместима с версией пакета SDK, которая используется [!INCLUDE[crm_md](includes/crm_md.md)], и равна или новее версии, используемой [!INCLUDE[crm_md](includes/crm_md.md)].|
 
@@ -89,7 +89,7 @@ ms.locfileid: "1629646"
 
 |Поле|Описанием|
 |-----|-----|
-|**Интеграция заказов на продажу разрешена**|Разрешите пользователям отправлять заказы на продажу и активированные предложения в [!INCLUDE[crm_md](includes/crm_md.md)] и затем просматривать и обрабатывать их в [!INCLUDE[d365fin](includes/d365fin_md.md)].|
+|**Интеграция заказов на продажу разрешена**|Разрешите пользователям отправлять заказы на продажу и активированные предложения в [!INCLUDE[crm_md](includes/crm_md.md)] и затем просматривать и обрабатывать их в [!INCLUDE[d365fin](includes/d365fin_md.md)]. Это интегрирует процесс в [!INCLUDE[crm_md](includes/crm_md.md)]. Дополнительные сведения см. в разделе [Включение интеграции обработки заказов на продажу](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/sales-enterprise/developer/enable-sales-order-processing-integration).|
 |**Автоматически создавать заказы на продажу**|Создание заказов на продажу в [!INCLUDE[d365fin](includes/d365fin_md.md)], когда пользователь создает и отправляет заказ на продажу в [!INCLUDE[crm_md](includes/crm_md.md)].|
 |**Автоматически обрабатывать предложения по продаже**|Обработка предложения по продаже в [!INCLUDE[d365fin](includes/d365fin_md.md)], когда пользователь создает и активирует его в [!INCLUDE[crm_md](includes/crm_md.md)].|
 
@@ -115,7 +115,7 @@ ms.locfileid: "1629646"
 > При подключении к Dynamics 365 for Sales с помощью страницы **Настройка подключения к Microsoft Dynamics 365 for Sales** может потребоваться [назначить роли безопасности **Администратор интеграции** и **Пользователь интеграции**](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/admin/create-users-assign-online-security-roles#assign-a-security-role-to-a-user) учетной записи пользователя, используемой для интеграции.
 
 
-### <a name="to-disconnect-from-includecrmmdincludescrmmdmd"></a>Отключение от [!INCLUDE[crm_md](includes/crm_md.md)]  
+### <a name="to-disconnect-from-includecrm_mdincludescrm_mdmd"></a>Отключение от [!INCLUDE[crm_md](includes/crm_md.md)]  
 1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка подключения Microsoft Dynamics 365 for Sales**, затем выберите связанную ссылку.
 2. На странице **Настройка подключения Microsoft Dynamics 365 for Sales** снимите флажок **Включено**.  
 

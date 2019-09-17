@@ -11,12 +11,12 @@ ms.workload: na
 ms.search.keywords: integration, synchronize, map, Sales
 ms.date: 06/13/2019
 ms.author: bholtorf
-ms.openlocfilehash: 716e195b4e8c5b4150d7a288918c3fb84f6ac713
-ms.sourcegitcommit: 8fe694b7bbe7fc0456ed5a9e42291218d2251b05
+ms.openlocfilehash: d0f1dfd88b30a4ec2e3a9bfd3366005a93d97f82
+ms.sourcegitcommit: 6ef7d2fae52feff786f2e15e2863d7f5aaa762be
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/04/2019
-ms.locfileid: "1726863"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "1917372"
 ---
 # <a name="using-dynamics-365-for-sales-from-business-central"></a>Использование Dynamics 365 for Sales из Business Central.
 Если вы используете Dynamics 365 for Sales for Customer Engagement, возможна бесшовная интеграция в процессе от интереса до получения денег с помощью [!INCLUDE[d365fin](includes/d365fin_md.md)] для действий на сервере, таких как обработка заказов, управление запасами и работа с финансами.
@@ -65,7 +65,7 @@ ms.locfileid: "1726863"
 На странице **Настройка подключения к Microsoft Dynamics 365** можно просмотреть подробную информацию по полной синхронизации в любое время. Отсюда также можно открыть страницу **Сопоставления таблиц интеграции** для просмотра детальной информации о таблицах в [!INCLUDE[d365fin](includes/d365fin_md.md)] или в Sales, которые должны быть синхронизированы.
 
 ## <a name="handling-sales-order-data"></a>Обработка данных в заказах на продажу
-Заказы на продажу, которые сотрудники отправляют в [!INCLUDE[crm_md](includes/crm_md.md)], передаются в [!INCLUDE[d365fin](includes/d365fin_md.md)], если установлен флажок **Автоматическое создание заказов на продажу** на странице **Настройка подключения Microsoft Dynamics 365**.
+Заказы на продажу, которые сотрудники отправляют в [!INCLUDE[crm_md](includes/crm_md.md)], автоматически передаются в [!INCLUDE[d365fin](includes/d365fin_md.md)], если установлен флажок **Автоматическое создание заказов на продажу** на странице **Настройка подключения Microsoft Dynamics 365**.
 Кроме того, можно вручную преобразовать отправленные заказы на продажу из [!INCLUDE[crm_md](includes/crm_md.md)], используя действие **Создать в [!INCLUDE[d365fin](includes/d365fin_md.md)]**, доступное на странице **Заказы на продажу — Dynamics 365 for Sales**.
 В таких заказах на продажу поле **Название** исходного заказа переносится и сопоставляется с полем **Номер внешнего документа** в заказе на продажу в [!INCLUDE[d365fin](includes/d365fin_md.md)].
 
@@ -74,6 +74,9 @@ ms.locfileid: "1726863"
 Если описание товара в исходном заказе на продажу является длинным, то создается дополнительная строка заказа типа **Комментарий**, чтобы в ней хранился полный текст заказа на продажу в [!INCLUDE[d365fin](includes/d365fin_md.md)].
 
 Обновления полей заголовка заказа на продажу, например "Дата последней расходной накладной" или "Требуемая дата доставки", которые сопоставляются в **Сопоставление таблиц интеграции** SALESORDER-ORDER, периодически синхронизируются в [!INCLUDE[crm_md](includes/crm_md.md)]. Процессы, такие как выпуск заказа на продажу и отгрузка или выставление счета по заказу на продажу, учитываются на временной шкале заказа на продажу в [!INCLUDE[crm_md](includes/crm_md.md)]. Дополнительные сведения см. в разделе [Введение в каналы действий](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/developer/introduction-activity-feeds).
+
+> [!NOTE]  
+> Периодическая синхронизация на основе **Сопоставления таблиц интеграции** SALESORDER-ORDER будет работать только при включенной интеграции заказов на продажу. Дополнительные сведения см. в разделе [Подключение к Dynamics 365 for Sales](admin-how-to-set-up-a-dynamics-crm-connection.md). Синхронизируются только заказы на продажу, созданные из отправленных заказов на продажу в [!INCLUDE[crm_md](includes/crm_md.md)]. Дополнительные сведения см. в разделе [Включение интеграции обработки заказов на продажу](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/sales-enterprise/developer/enable-sales-order-processing-integration).
 
 > [!VIDEO https://go.microsoft.com/fwlink/?linkid=2098170]
 

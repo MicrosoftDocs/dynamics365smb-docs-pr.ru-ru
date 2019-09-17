@@ -1,21 +1,21 @@
 ---
 title: Сочетания клавиш
 description: Полный список сочетаний клавиш для эффективной работы с данными.
-author: jswymer
+author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: accessibility, shortcuts, keyboarding, keys
-ms.date: 04/01/2019
-ms.author: jswymer
-ms.openlocfilehash: 11d63e2745ce35067d87e66c6077d51276f90075
-ms.sourcegitcommit: 04581558f6c5488c705a7ac392cf297be10b5f4f
+ms.date: 09/06/2019
+ms.author: sgroespe
+ms.openlocfilehash: e6919dd3e09fcf13bf07b051abfea90a5a35eb01
+ms.sourcegitcommit: d3035c32bb79b51179540787b98579ac0c528cc4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "1621210"
+ms.lasthandoff: 09/06/2019
+ms.locfileid: "1985914"
 ---
 # <a name="keyboard-shortcuts"></a>Сочетания клавиш
 Эта статья содержит обзор некоторых сочетаний клавиш, которые можно использовать при работе с [!INCLUDE[prodshort](includes/prodshort.md)].
@@ -170,6 +170,12 @@ ms.locfileid: "1621210"
 |Esc|Закрыть календарь без выбора, оставив текущую дату.|
 |Page Down|Переход к следующему месяцу.|
 |Page Up|Переход к предыдущему месяцу.|  
+
+## <a name="keyboard-shortcuts-in-date-fields"></a>Сочетания клавиш в полях даты
+|Нажмите эти клавиши<br />(в macOS)|Действие|
+|-----------------|-------|
+|t|Введите текущую дату. "Т" означает "сегодня".|
+|w|Введите рабочую дату. Дополнительные сведения см. в разделе [Рабочая дата](ui-change-basic-settings.md#work-date)|
 
 ## <a name="a-namereportpreviewshortcutskeyboard-shortcuts-in-the-report-preview"></a><a name="reportpreviewshortcuts"/>Сочетания клавиш в предварительном просмотре отчетов
 

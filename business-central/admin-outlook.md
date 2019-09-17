@@ -3,19 +3,19 @@ title: Использование Business Central с Outlook | Документ
 description: Эта служба обладает глубокой интеграцией с Office 365, что позволяет вам вести бизнес и взаимодействовать по электронной почте с клиентами и поставщиками непосредственно из Outlook.
 author: edupont04
 ms.service: dynamics365-business-central
-ms.topic: get-started-article
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: SMTP, mail, Office 365
-ms.date: 07/12/2019
+ms.date: 08/14/2019
 ms.author: edupont
-ms.openlocfilehash: 578f33dace52383ce588494d35c875ceaf6ffc21
-ms.sourcegitcommit: f5050fd209b8d66722c81abe48c4c0a6f749a1f7
+ms.openlocfilehash: 70299f86a1ebc3251780eb05f8b68afeff23fa5e
+ms.sourcegitcommit: 81b6062194bf04d8052a3cd394cc0b41e3f53e6d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/12/2019
-ms.locfileid: "1740460"
+ms.lasthandoff: 08/20/2019
+ms.locfileid: "1887695"
 ---
 # <a name="using-business-central-as-your-business-inbox-in-outlook"></a>Использование Business Central в качестве папки "Входящие" для бизнеса в Outlook
 В [!INCLUDE[d365fin](includes/d365fin_md.md)] появилась возможность управления бизнес-взаимодействиями с клиентами и поставщиками непосредственно в Microsoft Outlook. С помощью надстроек [!INCLUDE[d365fin](includes/d365fin_md.md)] Outlook вы можете просматривать финансовые данные, связанные с клиентами и поставщиками, а также создавать и отправлять финансовые документы, такие как предложения и счета.  
@@ -53,9 +53,9 @@ ms.locfileid: "1740460"
 ## <a name="adding-the-add-ins-manually"></a>Добавление надстроек вручную
 В некоторых случаях надстройки не добавляются автоматически в Outlook. Даже если вы или ваш коллега запускает руководство по сопровождаемой настройке от имени организации, [!INCLUDE[d365fin](includes/d365fin_md.md)] может не отобразиться в Outlook. При возникновении этой проблемы вы можете добавить надстройки [!INCLUDE[d365fin](includes/d365fin_md.md)] вручную.  
 
-Прежде всего, необходимо проверить, что у вас есть доступ к надстройкам в учетной записи Office 365. Достаточно просто открыть свой Outlook в браузере, перейти в пункт **Настройки**, а затем выбрать **Управление надстройками**. При этом открывается страница **Управление надстройками**, где вы можете включить [!INCLUDE[prodshort](includes/prodshort.md)] для вашего Outlook. Затем при переходе назад в Outlook приложение [!INCLUDE[prodshort](includes/prodshort.md)] должно быть доступно.  
+Прежде всего, необходимо проверить, что у вас есть доступ к надстройкам в учетной записи Office 365. Просто откройте ваш Outlook в браузере, откройте сообщение, выберите **Больше действий** (...) в верхней части сообщения, затем в нижней части списка выберите **Получить надстройки**. При этом открывается страница **Надстройки для Outlook**, где вы можете включить [!INCLUDE[prodshort](includes/prodshort.md)] для вашего Outlook. Затем при переходе назад в Outlook приложение [!INCLUDE[prodshort](includes/prodshort.md)] должно быть доступно.  
 
-Аналогичным образом, в настольном клиенте Outlook можно проверить, что приложение [!INCLUDE[d365fin](includes/d365fin_md.md)] установлено, на странице **Управление надстройками**.  
+Аналогичным образом, в настольном клиенте Outlook можно проверить, что приложение [!INCLUDE[d365fin](includes/d365fin_md.md)] перечислено на странице **Получить надстройки**.  
 
 В обоих случаях, если [!INCLUDE[d365fin](includes/d365fin_md.md)] все еще отсутствует, необходимо получить файлы манифеста надстройки. Для получения более подробных сведений обратитесь к администратору Office 365.
 
