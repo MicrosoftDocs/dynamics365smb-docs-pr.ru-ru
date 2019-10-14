@@ -185,7 +185,7 @@
     <Node Name="" DisplayName="Работа с измерениями" Page="finance-dimensions.html"/>
     <Node Name="" DisplayName="Практическое руководство. Создание бюджетов" Page="finance-how-create-budgets.html"/>
     <Node Name="" DisplayName="Практическое руководство. Учет транзакций непосредственно в главной книге." Page="finance-how-post-transactions-directly.html"/>
-    <Node Name="" DisplayName="Практическое руководство. Сторнирование учета" Page="finance-how-reverse-journal-posting.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Сторнирование учета в журнале и отмена приходных/расходных накладных" Page="finance-how-reverse-journal-posting.html"/>
     <Node Name="" DisplayName="Практическое руководство. Распределение затрат и дохода" Page="year-allocate-costs-income.html"/>
     <Node Name="" DisplayName="Практическое руководство. Использование товарных издержек для учета дополнительных торговых расходов" Page="payables-how-assign-item-charges.html"/>
     <Node Name="" DisplayName="Практическое руководство. Регистрация и возмещение расходов сотрудников" Page="finance-how-record-reimburse-employee-expenses.html"/>

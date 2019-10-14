@@ -5,15 +5,15 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: ''
-ms.date: 07/02/2019
+ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 6d856541d94c52851d6b59dcc00952a009abf679
-ms.sourcegitcommit: 8fe694b7bbe7fc0456ed5a9e42291218d2251b05
+ms.openlocfilehash: cda85dd9ffdaf8c4bd199b5d7cc5a2848080da59
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/04/2019
-ms.locfileid: "1738251"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2301147"
 ---
 # <a name="how-to-set-up-and-create-letters-of-attorney"></a>Практическое руководство. Создание и настройка доверенности
 
@@ -25,7 +25,7 @@ ms.locfileid: "1738251"
 
 ## <a name="to-set-up-a-letter-of-attorney"></a>Настройка доверенности 
 
-1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка модуля "Покупки"**, затем выберите связанную ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка модуля "Покупки"**, а затем выберите соответствующую ссылку.
 2. На экспресс-вкладке **Фоновая разноска** заполните поля **Серия номеров доверенностей** и **Серия номеров выпущенных доверенностей**.
 3. Нажмите кнопку **ОК**.
 
@@ -33,7 +33,7 @@ ms.locfileid: "1738251"
 
 ## <a name="to-create-a-letter-of-attorney"></a>Создание доверенности 
 
-1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Доверенности**, затем выберите связанную ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Доверенности**, а затем выберите соответствующую ссылку.
 
 2. Создайте новый документ и заполните поля в следующей таблице.
 

@@ -5,15 +5,15 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: ''
-ms.date: 07/02/2019
+ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: b140fa7b2e2c8015d5fe8d7b1686812200b2f8dc
-ms.sourcegitcommit: 8fe694b7bbe7fc0456ed5a9e42291218d2251b05
+ms.openlocfilehash: ccdcffb0729849a61b465f7da72b2eb972fdd812
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/04/2019
-ms.locfileid: "1738208"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2301156"
 ---
 # <a name="how-to-prepare-vat-entries-for-posting"></a>Практическое руководство. Подготовка операций НДС к учету
 
@@ -21,7 +21,7 @@ ms.locfileid: "1738208"
 
 ## <a name="to-prepare-vat-entries-for-posting"></a>Подготовка операций НДС к учету
 
-1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Журнал НДС**, затем выберите связанную ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Журнал НДС**, а затем выберите соответствующую ссылку.
 
 2. Выберите фильтры, которые определяют связанные с НДС транзакции, которые требуется включить в зачет НДС.
 

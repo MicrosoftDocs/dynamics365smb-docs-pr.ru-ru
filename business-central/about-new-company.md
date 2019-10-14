@@ -1,5 +1,5 @@
 ---
-title: Создание новых организаций с помощью руководства мастера настройки | Microsoft Docs
+title: Создание новых организаций с помощью руководства мастера настройки | Документация Майкрософт
 description: В Business Central можно легко создать новую пустую организацию. Руководство мастера настройки помогает выполнить требуемые шаги, а также можно импортировать существующие коммерческие данные.
 author: edupont04
 ms.service: dynamics365-business-central
@@ -8,16 +8,16 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: company, setup wizard
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: edupont
-ms.openlocfilehash: eae262341eb61e40f130caf45bb838a62aa67cf2
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: e22b93182627a5954b2aa2f1fb1fa4938d89be89
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1245212"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2300741"
 ---
-# <a name="creating-new-companies-in-included365finincludesd365finmdmd"></a>Создание новых организаций в [!INCLUDE[d365fin](includes/d365fin_md.md)]
+# <a name="creating-new-companies-in-included365finincludesd365fin_mdmd"></a>Создание новых организаций в [!INCLUDE[d365fin](includes/d365fin_md.md)]
 В [!INCLUDE[d365fin](includes/d365fin_md.md)] контейнеры для коммерческой информации, которая относится к филиалу или юридическому лицу, называются *организация*. При оформлении подписки на [!INCLUDE[d365fin](includes/d365fin_md.md)] вам предоставляется демонстрационная организация и пустая организация *Моя организация*. Переключаться между организациями легко, просто откройте **Мои настройки** и перейдите в другую организацию. Однако можно также создавать новые организации в [!INCLUDE[d365fin](includes/d365fin_md.md)], в зависимости от потребностей бизнеса. При создании новой организации мастер настройки помогает правильно задать основные параметры. После этого можно импортировать соответствующие данные из своей старой системы или другой организации в [!INCLUDE[d365fin](includes/d365fin_md.md)].  
 
 ## <a name="create-new-company"></a>Создать новую компанию

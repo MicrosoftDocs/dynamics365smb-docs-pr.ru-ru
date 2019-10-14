@@ -5,15 +5,15 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: ''
-ms.date: 07/02/2019
+ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 9a2cd9d026fac810017db1ecadfbc9f50557b2b0
-ms.sourcegitcommit: 8fe694b7bbe7fc0456ed5a9e42291218d2251b05
+ms.openlocfilehash: 8a4ac64087f8cca0ff441ce439e3616541925b20
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/04/2019
-ms.locfileid: "1738231"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2301189"
 ---
 # <a name="vat-settlement"></a>Зачет НДС
 

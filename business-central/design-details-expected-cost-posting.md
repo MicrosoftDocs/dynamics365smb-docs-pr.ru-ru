@@ -1,5 +1,5 @@
 ---
-title: Сведения о проектировании — учет ожидаемой себестоимости | Документы Майкрософт
+title: Сведения о проектировании — учет ожидаемой себестоимости | Документация Майкрософт
 description: Ожидаемые значения себестоимости представляют оценку, например, себестоимости приобретенного товара, регистрируемую до получения счета на товар.
 services: project-madeira
 documentationcenter: ''
@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: c1ecbbc42fcc5ccf5cb6f0d39c908da36cc8c918
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: 45a3ad8a38492514f953c24ec626c1b3601a7fc1
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1246528"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2303608"
 ---
 # <a name="design-details-expected-cost-posting"></a>Сведения о проектировании: учет ожидаемой себестоимости
 Ожидаемые значения себестоимости представляют оценку, например, себестоимости приобретенного товара, регистрируемую до получения счета на товар.  

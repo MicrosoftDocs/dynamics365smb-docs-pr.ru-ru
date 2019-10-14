@@ -1,5 +1,5 @@
 ---
-title: Сведения о проектировании — страница строк трассировки товаров | Документы Майкрософт
+title: Сведения о проектировании — страница строк трассировки товаров | Документация Майкрософт
 description: Узнайте, как управлять потоком серийных номеров и номеров партий на складе.
 services: project-madeira
 documentationcenter: ''
@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: design, inventory, item, tracking, serial number, lot number
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 0ddfa9b2d981f81f649240a08c26e8cca845bd1f
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: a5629a5995516b6c3b1e15d98e20c83769f5b73c
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1246133"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2303272"
 ---
 # <a name="design-details-item-tracking-lines-page"></a>Сведения о проектировании: — страница "Строки трассировки товаров"
 Записи трассировки товаров и записи резервирования создаются в системе резервирования, и их наличие рассчитывается динамически. Управление данными, введенными на странице **Строки трассировки товаров**, осуществляется во временной версии таблицы **Спецификация трассировки**. Если страница закрыта, активные данные помещаются в таблицу **Операция резервирования**, а данные за прошлые периоды помещаются в таблицу **Спецификация трассировки**. Дополнительные сведения см. в разделе [Сведения о проектировании: активные и исторические операции трассировки товаров](design-details-active-versus-historic-item-tracking-entries.md).  

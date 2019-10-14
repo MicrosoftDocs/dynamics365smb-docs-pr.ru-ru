@@ -1,5 +1,5 @@
 ---
-title: Использование портала бухгалтера | Microsoft Docs
+title: Использование портала бухгалтера | Документация Майкрософт
 description: Информация о расширении "Портал бухгалтера".
 author: edupont04
 ms.service: dynamics365-accountant
@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms. search.keywords: app, add-in, manifest, customize, accountant
-ms.date: 10/23/2017
+ms.date: 10/01/2019
 ms.author: edupont
-ms.openlocfilehash: 523b629014b9a1641ebaba429678e4bd1759631a
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: 08123360a54fc84ee4cadca144a8e639154fbaf1
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1238858"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2300381"
 ---
 # <a name="accountant-portal-for-dynamics-365-business-central"></a>Портал бухгалтера для Dynamics 365 Business Central
 Это приложение обеспечивает для портала сводку данных по каждому клиенту бухгалтера. На портале отображаются финансовые КПЭ, а также прямая ссылка на финансовое приложение клиента.  

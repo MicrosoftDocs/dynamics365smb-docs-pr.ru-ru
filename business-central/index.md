@@ -7,14 +7,14 @@ ms.topic: landing-page
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.date: 08/02/2019
+ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: e7ac55b54aca4187de23292865b70c8acf47d33d
-ms.sourcegitcommit: 5bcc5f95e450ee9a3d9f7a380e592a5e75c4185b
+ms.openlocfilehash: 9f84e224afa474cffd6c2956bd9ebf24169ce105
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2019
-ms.locfileid: "1858316"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2301446"
 ---
 # <a name="welcome-to-included365fin_longincludesd365fin_long_mdmd"></a>Добро пожаловать в [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]
 [!INCLUDE[d365fin](includes/d365fin_md.md)] — это решение по управлению деятельностью для малых и средних предприятий, позволяющее автоматизировать и упростить бизнес процессы и лучше управлять бизнесом. Легко настраиваемое, с множеством полезных функций, [!INCLUDE[d365fin](includes/d365fin_md.md)] позволяет организациям управлять деятельностью, включая финансы, производство, продажи, отгрузку, управление проектом, оказание услуг и т. д. Решение позволяет легко добавлять функциональность, специфическую для региона, в котором осуществляется деятельность, а также для сферы деятельности организации.
@@ -35,7 +35,8 @@ ms.locfileid: "1858316"
 [Ресурсы для справки и поддержки](product-help-and-support.md)  
 [Соответствие](compliance/compliance-overview.md)  
 [Документация по Dynamics 365](/dynamics365/)  
-[Dynamics 365 Business Central на microsoft.com](https://dynamics.microsoft.com/business-central/overview/)
+[Dynamics 365 Business Central на microsoft.com](https://dynamics.microsoft.com/business-central/overview/)  
+[Dynamics 365 Business Central на сайте Microsoft Learn](/learn/browse/?products=dynamics-business-central)  
 
 
 ## [!INCLUDE[d365fin](includes/free_trial_md.md)]

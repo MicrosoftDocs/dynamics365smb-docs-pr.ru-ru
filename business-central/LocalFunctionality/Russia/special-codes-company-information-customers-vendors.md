@@ -5,15 +5,15 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: ''
-ms.date: 07/02/2019
+ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 19145c9ac63efaa231a53fe73780d792f5d92ceb
-ms.sourcegitcommit: 8fe694b7bbe7fc0456ed5a9e42291218d2251b05
+ms.openlocfilehash: 545156b96408c903fd22052ef45149474f7e078a
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/04/2019
-ms.locfileid: "1738197"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2301125"
 ---
 # <a name="special-codes-for-company-information-customers-and-vendors"></a>Специальные коды для информации о компании, клиентах, поставщиках
 

@@ -5,15 +5,15 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: ''
-ms.date: 07/02/2019
+ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 1cfe73dc10c2a66bee4e7a5a66a986e32d049685
-ms.sourcegitcommit: 8fe694b7bbe7fc0456ed5a9e42291218d2251b05
+ms.openlocfilehash: 38e39c5b6d4b36358cf578dfe7ba2139206620cd
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/04/2019
-ms.locfileid: "1738230"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2301199"
 ---
 # <a name="forming-and-changing-staff-list-order-staff-arrangement"></a>Формирование и изменение порядка составления штатного расписания, расстановка персонала
 

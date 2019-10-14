@@ -5,15 +5,15 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: ''
-ms.date: 07/02/2019
+ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: c999dd07d66fb13dcdceea43f4b6e11044b97c15
-ms.sourcegitcommit: 8fe694b7bbe7fc0456ed5a9e42291218d2251b05
+ms.openlocfilehash: 4831150adc68fe3ef088fe673d648a543c0d00c0
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/04/2019
-ms.locfileid: "1738210"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2301131"
 ---
 # <a name="posting-vat-on-sales"></a>Учет НДС в продажах
 

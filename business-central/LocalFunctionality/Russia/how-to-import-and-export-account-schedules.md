@@ -5,15 +5,15 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: ''
-ms.date: 07/02/2019
+ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: c6f95c0ebb1ade1b6d4882a995f03f81c46d7240
-ms.sourcegitcommit: 8fe694b7bbe7fc0456ed5a9e42291218d2251b05
+ms.openlocfilehash: 6d7418172e3b15698b097926f1f332572452fed7
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/04/2019
-ms.locfileid: "1738260"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2301159"
 ---
 # <a name="how-to-import-and-export-account-schedules"></a>Практическое руководство. Импорт и экспорт финансовых отчетов
 
@@ -21,7 +21,7 @@ ms.locfileid: "1738260"
 
 ## <a name="to-import-and-export-account-schedules"></a>Импорт и экспорт финансовых отчетов
 
-1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Финансовые отчеты**, затем выберите связанную ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Финансовые отчеты**, а затем выберите соответствующую ссылку.
 2. Выберите действие **Импорт настроек** или **Экспорт настроек**. Будет создан XML-файл для импорта или экспорта.
 
 > [!NOTE]

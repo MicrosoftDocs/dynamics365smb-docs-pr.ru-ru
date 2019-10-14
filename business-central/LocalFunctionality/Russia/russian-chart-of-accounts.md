@@ -5,15 +5,15 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: ''
-ms.date: 07/02/2019
+ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: ef66ceeafae6f0677d1567740b0fac4f6be649e4
-ms.sourcegitcommit: 8fe694b7bbe7fc0456ed5a9e42291218d2251b05
+ms.openlocfilehash: 69c50062134d82507ea0e743c46d5f6f76a6f793
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/04/2019
-ms.locfileid: "1738240"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2301129"
 ---
 # <a name="russian-chart-of-accounts"></a>Российский план счетов
 

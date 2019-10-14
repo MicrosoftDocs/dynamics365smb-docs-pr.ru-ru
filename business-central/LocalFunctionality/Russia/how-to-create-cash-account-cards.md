@@ -5,15 +5,15 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: ''
-ms.date: 07/02/2019
+ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 9c5e637d6ff86d577b7db51234c22adf4b19c9cb
-ms.sourcegitcommit: 8fe694b7bbe7fc0456ed5a9e42291218d2251b05
+ms.openlocfilehash: be074c46bd97f3f790921185ae9a1706e026af8d
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/04/2019
-ms.locfileid: "1738255"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2301167"
 ---
 # <a name="how-to-create-cash-account-cards"></a>Практическое руководство. Создание карточек счетов кассы
 
@@ -21,7 +21,7 @@ ms.locfileid: "1738255"
 
 ## <a name="to-create-a-cash-account-card"></a>Создание карточек счетов кассы
 
-1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Кассы**, затем выберите связанную ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Кассы**, а затем выберите соответствующую ссылку.
 
 2. В окне **Карточка кассы** на экспресс-вкладке **Учет** заполните поля, как описано в следующей таблице.
 

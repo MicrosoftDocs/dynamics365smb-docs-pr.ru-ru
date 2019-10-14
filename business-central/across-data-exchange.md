@@ -1,5 +1,5 @@
 ---
-title: Электронные документы в Business Central | Документы Майкрософт
+title: Электронные документы в Business Central | Документация Майкрософт
 description: Введение в отправку и получение электронных документов в Business Central.
 author: SorenGP
 ms.service: dynamics365-business-central
@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 8845f74e544b1c39f5260b799e81c31ea91fc77b
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: 209516aff6195901f06705d2a2fb27d7144c4a0a
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1240865"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2300645"
 ---
 # <a name="exchanging-data-electronically"></a>Электронный обмен данными
 Можно использовать платформу обмена данными, чтобы обмениваться бизнес-документами, банковскими файлами, курсами обмена валют и другими файлами данных с бизнес-партнерами.

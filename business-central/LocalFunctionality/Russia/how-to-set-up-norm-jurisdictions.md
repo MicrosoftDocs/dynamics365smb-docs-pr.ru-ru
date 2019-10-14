@@ -5,15 +5,15 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: ''
-ms.date: 07/02/2019
+ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: b8939d249425ca4e52445873a6830fe277dad782
-ms.sourcegitcommit: 8fe694b7bbe7fc0456ed5a9e42291218d2251b05
+ms.openlocfilehash: 5cbf5884454483679cae50b4057f5e0f1cbfab31
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/04/2019
-ms.locfileid: "1738204"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2301145"
 ---
 # <a name="how-to-set-up-norm-jurisdictions"></a>Практическое руководство. Настройка юрисдикций нормы
 
@@ -21,7 +21,7 @@ ms.locfileid: "1738204"
 
 ## <a name="to-set-up-norm-jurisdictions"></a>Настройка юрисдикций нормы
 
-1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Юрисдикции нормы**, затем выберите связанную ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Юрисдикции нормы**, а затем выберите соответствующую ссылку.
 
 2. Введите **Код** и **Описание** юрисдикции нормы, которую необходимо настроить.
 

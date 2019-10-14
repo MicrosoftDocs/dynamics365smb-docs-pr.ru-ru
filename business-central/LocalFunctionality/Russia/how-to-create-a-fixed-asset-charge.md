@@ -5,15 +5,15 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: ''
-ms.date: 07/02/2019
+ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 9df72f69129f3aed582bf163a64d97ee175c6d0f
-ms.sourcegitcommit: 8fe694b7bbe7fc0456ed5a9e42291218d2251b05
+ms.openlocfilehash: 2d28b5ef601fb5927f5099f003c200e98c684182
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/04/2019
-ms.locfileid: "1738263"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2301169"
 ---
 # <a name="how-to-create-a-fixed-asset-charge"></a>Практическое руководство. Создание издержек ОС
 
@@ -21,7 +21,7 @@ ms.locfileid: "1738263"
 
 ## <a name="to-create-a-fixed-asset-charge"></a>Создание издержек ОС
 
-1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Карточка издержки ОС**, затем выберите связанную ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Карточка издержки ОС**, а затем выберите соответствующую ссылку.
 
 2. На экспресс-вкладке **Общее** заполните поля, как описано в следующей таблице.
 

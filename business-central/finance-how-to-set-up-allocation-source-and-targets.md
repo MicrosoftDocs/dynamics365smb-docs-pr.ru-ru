@@ -1,5 +1,5 @@
 ---
-title: Практическое руководство. Настройка источника и целей распределения | Документы Майкрософт
+title: Практическое руководство. Настройка источника и целей распределения | Документация Майкрософт
 description: Каждое распределение состоит из источника распределения и одной или нескольких целей распределения. Источник распределения определяет, какие затраты будут распределены. Цели распределения определяют требуемое будущее место распределения затрат.
 services: project-madeira
 documentationcenter: ''
@@ -10,15 +10,15 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: sgroespe
 redirect_url: finance-define-and-allocate-costs
-ms.openlocfilehash: 2e8040816ed5089188f06f76b2cd8f027ba83766
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: ea906a6e8d0dea93e265a4277c9e37fcef95f510
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1243576"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2301936"
 ---
 # <a name="set-up-allocation-source-and-targets"></a>Настройка источника и целей распределения
 Каждое распределение состоит из источника распределения и одной или нескольких целей распределения. Источник распределения определяет, какие затраты будут распределены. Цели распределения определяют требуемое будущее место распределения затрат.  

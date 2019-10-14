@@ -5,15 +5,15 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: ''
-ms.date: 07/02/2019
+ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: db63dbaf0dc6eb8217e727f8ad57a5829213795e
-ms.sourcegitcommit: 8fe694b7bbe7fc0456ed5a9e42291218d2251b05
+ms.openlocfilehash: 6e17715400e58afaa261df481e36dc4d8944c700
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/04/2019
-ms.locfileid: "1738248"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2301143"
 ---
 # <a name="how-to-set-up-tax-accounting"></a>Практическое руководство. Настройка налогового учета
 
@@ -21,7 +21,7 @@ ms.locfileid: "1738248"
 
 ## <a name="to-activate-tax-accounting"></a>Активация налогового учета
 
-1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка налоговых регистров**, затем выберите связанную ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка налоговых регистров**, а затем выберите соответствующую ссылку.
 
 2. На экспресс-вкладке **Общее** выберите коды для следующих измерений.
 

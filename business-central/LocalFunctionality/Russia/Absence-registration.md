@@ -5,15 +5,15 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: ''
-ms.date: 07/02/2019
+ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: cdd5e3efac3b8b95eaed9e56ae3cab4ee88b71e2
-ms.sourcegitcommit: 8fe694b7bbe7fc0456ed5a9e42291218d2251b05
+ms.openlocfilehash: 9038462d228d2799bfc7f47db191ca079f24145f
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/04/2019
-ms.locfileid: "1738286"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2301201"
 ---
 # <a name="absence-registration"></a>Регистрация отсутствия
 

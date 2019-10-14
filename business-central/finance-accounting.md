@@ -1,5 +1,5 @@
 ---
-title: Функции бухгалтерского учета в Business Central | Microsoft Docs
+title: Функции бухгалтерского учета в Business Central | Документация Майкрософт
 description: Узнайте о портале бухгалтера для Business Central и ролевом центре бухгалтера, которые поддерживают работу внутренних и внешних бухгалтеров в организации клиента.
 author: edupont04
 ms.service: dynamics365-business-central
@@ -8,16 +8,16 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: accountant, accounting, financial report
-ms.date: 05/02/2019
+ms.date: 10/01/2019
 ms.author: edupont
-ms.openlocfilehash: f088e1319684b9a18a2b0c8ab5305f73747f6889
-ms.sourcegitcommit: dac212009aadf3227e54c99976c438f6e56f182a
+ms.openlocfilehash: 79ed5e1b7200a668be2aa078531fd68e0131b6ff
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/02/2019
-ms.locfileid: "1446926"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2302600"
 ---
-# <a name="accountant-experiences-in-included365finlongincludesd365finlongmdmd"></a>Работа бухгалтера в [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]
+# <a name="accountant-experiences-in-included365fin_longincludesd365fin_long_mdmd"></a>Работа бухгалтера в [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]
 Любой организации нужно вести учет и подписывать соответствующую документацию. Некоторые организации используют внешнего бухгалтера, а у других — бухгалтер в штате. Независимо от того, какой бухгалтер у вас, вы можете использовать ролевой центр **Бухгалтер** в качестве начальной страницы [!INCLUDE[d365fin](includes/d365fin_md.md)]. Отсюда можно получить доступ ко всем страницам, которые нужны для работы.  
 
 ## <a name="accountant-role-center"></a>Ролевой центр бухгалтера
@@ -26,9 +26,12 @@ ms.locfileid: "1446926"
 Если вы впервые работаете с [!INCLUDE[d365fin](includes/d365fin_md.md)], вы можете запустить список видео в правой части ролевого центра. Можно также запустить тур **Приступая к работе**, содержащее основную информацию.  
 
 ## <a name="accountant-hub"></a>Accountant Hub
-Если вы бухгалтер, у которого несколько клиентов, вы можете использовать [!INCLUDE[d365acc_long](includes/d365acc_long_md.md)] для более наглядного представления информации о своих клиентах. Отсюда вы сможете открывать арендаторов каждого клиента в [!INCLUDE[d365fin](includes/d365fin_md.md)] и использовать ролевой центр бухгалтера, как описано выше. Дополнительные сведения см. в разделе [Добро пожаловать в [!INCLUDE[d365acc_long](includes/d365acc_long_md.md)]](/dynamics365/accountants/index).
+Если вы бухгалтер, у которого несколько клиентов, вы можете использовать [!INCLUDE[d365acc_long](includes/d365acc_long_md.md)] для более наглядного представления информации о своих клиентах. Отсюда вы сможете открывать арендаторов каждого клиента в [!INCLUDE[d365fin](includes/d365fin_md.md)] и использовать ролевой центр бухгалтера, как описано выше. Дополнительные сведения см. в разделе [Добро пожаловать в [!INCLUDE[d365acc_long](includes/d365acc_long_md.md)]](/dynamics365/accountants/index).  
 
-## <a name="inviting-your-external-accountant-to-your-included365finincludesd365finmdmd"></a>Приглашение внешнего бухгалтера в ваш экземпляр [!INCLUDE[d365fin](includes/d365fin_md.md)]
+> [!NOTE]
+> [!INCLUDE [d365acc_long_md](includes/d365acc_long_md.md)] в настоящее время предлагается в качестве общедоступной предварительной версии на ограниченном круге рынков.
+
+## <a name="inviting-your-external-accountant-to-your-included365finincludesd365fin_mdmd"></a>Приглашение внешнего бухгалтера в ваш экземпляр [!INCLUDE[d365fin](includes/d365fin_md.md)]
 Если вы используете внешнего бухгалтера для управления вашим учетом и финансовой отчетностью, вы можете пригласить его в свой экземпляр [!INCLUDE[d365fin](includes/d365fin_md.md)], чтобы он работал в вашими данными.
 
 Как только бухгалтер получит доступ к вашему экземпляру [!INCLUDE[d365fin](includes/d365fin_md.md)], он сможет использовать ролевой центр **Бухгалтер**, который предоставляет простой доступ к наиболее важным для его работы страницам.  
@@ -38,7 +41,7 @@ ms.locfileid: "1446926"
 ![Приглашение бухгалтера](./media/finance-invite-accountant/invite-accountant.png)
 
 > [!TIP]  
->  Для этого необходимо, чтобы была настроена эл. почта SMTP. Это можно сделать самому или обратиться к партнеру [!INCLUDE[d365fin](includes/d365fin_md.md)]. Кроме того, необходимо, чтоб вы выполнили вход в [!INCLUDE[d365fin](includes/d365fin_md.md)] как администратор пользователей, а не как владелец бизнеса или другие пользователи. Наконец, необходимо,чтобы вы вышли из пробной организации, т. е. у вас должен быть администратор Azure Active Directory.  
+> Для этого необходимо, чтобы была настроена эл. почта SMTP. Это можно сделать самому или обратиться к партнеру [!INCLUDE[d365fin](includes/d365fin_md.md)]. Кроме того, необходимо, чтоб вы выполнили вход в [!INCLUDE[d365fin](includes/d365fin_md.md)] как администратор пользователей, а не как владелец бизнеса или другие пользователи. Наконец, необходимо,чтобы вы вышли из пробной организации, т. е. у вас должен быть администратор Azure Active Directory.  
 
 > [!IMPORTANT]  
 > Адрес электронной почты бухгалтера должен представлять собой рабочий адрес, основанный на Azure Active Directory. Если у бухгалтера электронная почта другого типа, отправить приглашение не удастся.  

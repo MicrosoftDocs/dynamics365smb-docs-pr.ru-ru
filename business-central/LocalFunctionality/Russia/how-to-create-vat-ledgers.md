@@ -5,15 +5,15 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: ''
-ms.date: 07/02/2019
+ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 1fbdadfdf8b47898c41a5f4543b3bebe571bc898
-ms.sourcegitcommit: 8fe694b7bbe7fc0456ed5a9e42291218d2251b05
+ms.openlocfilehash: 3faae436606d11ea73822398b7cfe7bbeee49e28
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/04/2019
-ms.locfileid: "1738257"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2301163"
 ---
 # <a name="how-to-create-vat-ledgers"></a>Практическое руководство. Создание книг НДС
 
@@ -25,7 +25,7 @@ ms.locfileid: "1738257"
 
 ## <a name="to-create-a-vat-ledger"></a>Создание книги НДС
 
-1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Список книг покупок и продаж**, затем выберите связанную ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Список книг покупок и продаж**, а затем выберите соответствующую ссылку.
 
 2. Заполните поля в окне **Список книг покупок и продаж**, как описано в следующей таблице.
 

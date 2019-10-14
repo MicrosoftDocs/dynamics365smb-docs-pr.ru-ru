@@ -1,1 +1,1 @@
-Получите [обучение!](/dynamics365/get-started/training/)
+Получите [обучение!](/learn/browse/?products=dynamics-business-central)

@@ -1,5 +1,5 @@
 ---
-title: Многоязычность и локализация | Документы Майкрософт
+title: Многоязычность и локализация | Документация Майкрософт
 description: Узнайте, как язык и языковой стандарт влияют на работу в Business Central.
 author: edupont04
 ms.service: dynamics365-business-central
@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: language, locale, localization, culture
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: edupont
-ms.openlocfilehash: 9e743a51e675431dc1759a6c3a58b7eb4de1ccc5
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: 4cab6bd1ca01e6f4d66914cff8a3a026f8ecfc32
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1245304"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2300789"
 ---
 # <a name="changing-language-and-locale"></a>Изменение языка и языкового стандарта
 
@@ -40,14 +40,14 @@ ms.locfileid: "1245304"
 
 Чтобы изменить языковой стандарт, перейдите на страницу **Мои настройки**. Дополнительные сведения см. в разделе [Изменение базовых настроек](ui-change-basic-settings.md).  
 
-## <a name="languages-of-the-included365finincludesd365finmdmd-help"></a>Языки справки [!INCLUDE[d365fin](includes/d365fin_md.md)]
-Содержимое справки для основных функциональных возможностей в [!INCLUDE[d365fin](includes/d365fin_md.md)] публикуется на сайте Microsoft Docs и доступно на нескольких разных языках. При доступе к документам из [!INCLUDE[d365fin](includes/d365fin_md.md)] содержимое отображается на вашем языке. Если какая-то конкретная страница еще недоступна на вашем языке, она отображается на английском.
+## <a name="languages-of-the-included365finincludesd365fin_mdmd-help"></a>Языки справки [!INCLUDE[d365fin](includes/d365fin_md.md)]
+Содержимое справки для основных функциональных возможностей в [!INCLUDE[d365fin](includes/d365fin_md.md)] публикуется на сайте "Документация Майкрософт" и доступно на нескольких разных языках. При доступе к документам из [!INCLUDE[d365fin](includes/d365fin_md.md)] содержимое отображается на вашем языке. Если какая-то конкретная страница еще недоступна на вашем языке, она отображается на английском.
 
 ### <a name="how-do-i-change-the-language"></a>Как изменить язык?
 Это просто — перейдите вниз страницы браузера и выберите символ глобуса в левом нижнем углу.
 
 > [!NOTE]  
-> В списке отображаются все языки, поддерживаемые сайтом Microsoft Docs. [!INCLUDE[d365fin](includes/d365fin_md.md)] доступен в ограниченном количестве странах/регионов, но содержимое справки доступно на большем количестве языков. Однако содержимое справки доступно не на всех языках, поддерживаемых сайтом Microsoft Docs.
+> В списке отображаются все языки, поддерживаемые сайтом "Документация Майкрософт". [!INCLUDE[d365fin](includes/d365fin_md.md)] доступен в ограниченном количестве странах/регионов, но содержимое справки доступно на большем количестве языков. Однако содержимое справки доступно не на всех языках, поддерживаемых сайтом "Документация Майкрософт".
 
 ## <a name="see-also"></a>См. также  
 [Изменение базовых настроек](ui-change-basic-settings.md)  

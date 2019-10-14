@@ -1,5 +1,5 @@
 ---
-title: Результаты перемещения | Документы Майкрософт
+title: Результаты перемещения | Документация Майкрософт
 description: В этом разделе описывается, что происходит после перемещения операций главной книги в операции затрат.
 services: project-madeira
 documentationcenter: ''
@@ -10,15 +10,15 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: general ledger, transfer, cost entries
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: sgroespe
 redirect_url: finance-transfer-and-post-cost-entries
-ms.openlocfilehash: 590c1501f9da2c7c343b5c2f3617df873fcd3b7a
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: 92bad9916f7f2bf3825eba04366c6f3bb3436a64
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1242495"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2301808"
 ---
 # <a name="results-of-transferring-general-ledger-entries-to-cost-entries"></a>Результаты переноса операций главной книги в операции затрат
 Во время перемещения операций Главной книги в операции затрат [!INCLUDE[d365fin](includes/d365fin_md.md)] создает связи в записях таблиц **Операция ГК**, **Операция затрат** и **Регистр затрат**, чтобы сделать возможным трассировку подключений между операциями затрат и операциями Главной книги.  

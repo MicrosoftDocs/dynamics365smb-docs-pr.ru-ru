@@ -5,15 +5,15 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: ''
-ms.date: 07/02/2019
+ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 99849168f4f29bdbca86057b369924ce401d5e55
-ms.sourcegitcommit: 8fe694b7bbe7fc0456ed5a9e42291218d2251b05
+ms.openlocfilehash: 48fed698f0de61f0c4267045fdfbb2cb00e23b9e
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/04/2019
-ms.locfileid: "1738282"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2301200"
 ---
 # <a name="establishment-of-charges-and-deductions-to-the-employee"></a>Установление начислений и отчислений работнику
 

@@ -1,5 +1,5 @@
 ---
-title: Сведения о проектировании — изменения модуля codeunit 12 в сопоставлении глобальных переменных для строки учета финансового журнала | Документы Майкрософт
+title: Сведения о проектировании — изменения модуля codeunit 12 в сопоставлении глобальных переменных для строки учета финансового журнала | Документация Майкрософт
 description: В этом выпуске Business Central реализованы следующие изменения.
 author: SorenGP
 ms.service: dynamics365-business-central
@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: dd0246ada487fd59c51dcef7adb59becdd9ccefd
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: 7f21876e9cc093d0b0efd770f604b0382d2dbef0
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1243213"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2303704"
 ---
 # <a name="codeunit-12-changes-mapping-global-variables-for-general-journal-post-line"></a>Изменения модуля codeunit 12: сопоставление глобальных переменных для строки учета финансового журнала
 В этом выпуске [!INCLUDE[d365fin](includes/d365fin_md.md)] реализованы следующие изменения.  

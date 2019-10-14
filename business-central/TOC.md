@@ -18,35 +18,39 @@
 
 # Работа с Business Central
 ## [Обзор](ui-work-product.md)
-## [Обнаружение функций и информации](ui-search.md)
+## [Поиск страниц и информации с помощью функции "Что вы хотите сделать"](ui-search.md)
+## [Поиск страниц из обзора функций](ui-role-explorer.md)
 ## [Вопросы и ответы о функции "Что вы хотите сделать"](ui-search-faq.md)
-## [Сортировка, поиск и фильтрация списков](ui-enter-criteria-filters.md)
+## [Сортировка, поиск и фильтрация](ui-enter-criteria-filters.md)
 ## [Вопросы и ответы по поиску и фильтрации](ui-search-filter-faq.md)
 ## [Ввод данных](ui-enter-data.md)
+## [Вопросы и ответы по копированию и вставке](ui-copy-paste.md)
 ## [Работа с календарными датами и значениями времени](ui-enter-date-ranges.md)
-## [Копирование и вставка](ui-copy-paste.md)
 ## [Выявление обязательных полей](ui-mandatory-fields.md)
 ## [Изменение языка и языкового стандарта](about-locale-language.md)
 ## [Просмотр и редактирование в Excel](across-work-with-excel.md)  
-## [Управление уведомлениями](ui-smart-notifications.md)
+## [Управление вложениями, ссылками и заметками в карточках и документах](ui-how-add-link-to-record.md)
 ## [Изменение базовых настроек](ui-change-basic-settings.md)
+## [Управление уведомлениями](ui-smart-notifications.md)
 ## Персонализация Business Central
 ### [Персонализация рабочей области](ui-personalization-user.md)
 ### [Почему заблокирована персонализация страницы?](ui-personalization-locked.md)
+### [Сохранение и персонализация представлений списков](ui-views.md)
+### [Добавление действия страницы в ролевой центр](ui-bookmarks.md)
 ### [Отображение списков различными способами](across-display-lists-different-views.md)
-## Печать отчетов и выполнение пакетных заданий
-### [Работа с пакетными заданиями и отчетами](ui-work-report.md)
+## Печать отчетов и выполнение пакетных заданий и XMLport
+### [Работа с отчетами, пакетными заданиями и XMLport](ui-work-report.md)
 ### [Выбор принтера для отчета](ui-specify-printer-selection-reports.md)
-### [Планирование выполнения отчета или пакетного задания](ui-work-report.md#ScheduleReport)
-### [Управление сохраненными настройками в отчетах](reports-saving-reusing-settings.md)
+### [Планирование выполнения отчета](ui-work-report.md#ScheduleReport)
+### [Управление сохраненными настройками отчетов и пакетных заданий](reports-saving-reusing-settings.md)
 ### [Просмотр тестовых отчетов перед учетом](ui-how-view-test-reports-posting.md)
-### [Запуск пакетных заданий](ui-how-run-batch-jobs.md)
-## Изменение вида документов
+### [Запуск пакетных заданий и XMLport](ui-how-run-batch-jobs.md)
+## Изменение внешнего вида внешних документов и отчетов
 ### [Управление макетами отчетов и документов](ui-manage-report-layouts.md)
 ### [Обновление макетов отчетов или документов](ui-update-report-layouts.md)
 ### [Внесение изменений в макет отчета Word](ui-how-create-custom-report-layout.md)
 ### [Импорт и экспорт макета отчета или документа](ui-how-import-and-export-report-layout.md)
-### [Изменение макета, в настоящее время используемого в отчете](ui-how-change-layout-currently-used-report.md)
+### [Смена текущего макета отчета](ui-how-change-layout-currently-used-report.md)
 ### [Добавление полей в макет отчета Word](ui-how-add-fields-word-report-layout.md)
 ## Использование сочетаний клавиш
 ### [Специальные возможности и сочетания клавиш](ui-accessibility.md)
@@ -229,10 +233,9 @@
 ## [Архивирование документов](across-how-to-archive-documents.md)
 ## [Добавление расширенного текста товара](ui-how-define-ext-text.md)
 ## [Определение задач пользователя](across-user-tasks.md)
-## [Добавление в записи ссылок на веб-сайты, документы или программы](ui-how-add-link-to-record.md)
-## [Прикрепление файлов к картам и документам](across-attach-document-master-data.md)
 ## [Экспорт бизнес-данных в Excel](about-export-data.md)
 ## [Учет документов и журналов](ui-post-documents-journals.md)
+## [Одновременный учет нескольких документов](ui-batch-posting.md)
 ## [Предварительный просмотр результатов учета](ui-how-preview-post-results.md)
 ## [Изменение учтенных документов](across-edit-posted-document.md)
 ## [Работа с финансовыми журналами](ui-work-general-journals.md)
@@ -304,8 +307,8 @@
 
 # Администрация
 ## [Обзор](admin-setup-and-administration.md)
-## [Знакомство с пользователями, ролями и профилями](admin-users-profiles-roles.md)
 ## [Управление пользователями и разрешениями](ui-how-users-permissions.md)
+## [Управление профилями](admin-users-profiles-roles.md)
 ## [Классификация конфиденциальности данных](admin-classifying-data-sensitivity.md)
 ## [Ответ на запросы о личных данных](admin-responding-to-requests-about-personal-data.md)
 ## [Создание новых организаций](about-new-company.md)
@@ -318,17 +321,11 @@
 ## [Продление пробной версии](admin-extend-trial.md)
 ## [Инспекция страниц](across-inspect-page.md)
 ## [Создание среды "песочницы"](across-how-create-sandbox-environment.md)
-## Интеграция с Dynamics 365 for Sales
-### [Обзор](admin-prepare-dynamics-365-for-sales-for-integration.md)
-### [Настройка учетных записей пользователя для интеграции с Dynamics 365 for Sales](admin-setting-up-integration-with-dynamics-sales.md)
-### [Настройка подключения к Dynamics 365 for Sales](admin-how-to-set-up-a-dynamics-crm-connection.md)
-### [Синхронизация Business Central и Dynamics 365 for Sales](admin-synchronizing-business-central-and-sales.md)
-### [Изменение сопоставлений таблицы для синхронизации](admin-how-to-modify-table-mappings-for-synchronization.md)
-### [Ручная синхронизация сопоставлений таблиц](admin-manual-synchronization-of-table-mappings.md)
-### [Синхронизация по расписанию](admin-scheduled-synchronization-using-the-synchronization-job-queue-entries.md)
-### [Устранение ошибок синхронизации](admin-troubleshoot-sales-synchronization.md)
 ## Настройка Business Central
 ### [Обзор](ui-customizing-overview.md)
+### [Настройка страниц для профилей](ui-personalization-manage.md)
+### [Изменение набора отображаемых функций](ui-experiences.md)
+### [Настройка цветного индикатора в очередях](admin-how-set-up-colored-indicator-on-cues.md)
 ### Настройка с помощью расширений
 #### [Обзор](ui-extensions.md)
 #### [Настройка с помощью расширений](ui-extensions.md)
@@ -354,9 +351,15 @@
 #### [UK — Почтовые индексы Великобритании GetAddress.io](ui-extensions-getaddressio.md)
 #### [US/CA/UK/AU/NZ/ZA — Отправить авизо](ui-extensions-send-remittance-advice.md)
 #### [Расширения для Business Central от других поставщиков](ui-extensions-other.md)
-### [Изменение набора отображаемых функций](ui-experiences.md)
-### [Управление персонализацией в качестве администратора](ui-personalization-manage.md)
-### [Настройка цветного индикатора в очередях](admin-how-set-up-colored-indicator-on-cues.md)
+## Интеграция с Dynamics 365 Sales
+### [Обзор](admin-prepare-dynamics-365-for-sales-for-integration.md)
+### [Настройка учетных записей пользователей для интеграции с Dynamics 365 Sales](admin-setting-up-integration-with-dynamics-sales.md)
+### [Настройка подключения к Dynamics 365 Sales](admin-how-to-set-up-a-dynamics-crm-connection.md)
+### [Синхронизация Business Central и Dynamics 365 Sales](admin-synchronizing-business-central-and-sales.md)
+### [Изменение сопоставлений таблицы для синхронизации](admin-how-to-modify-table-mappings-for-synchronization.md)
+### [Ручная синхронизация сопоставлений таблиц](admin-manual-synchronization-of-table-mappings.md)
+### [Синхронизация по расписанию](admin-scheduled-synchronization-using-the-synchronization-job-queue-entries.md)
+### [Устранение ошибок синхронизации](admin-troubleshoot-sales-synchronization.md)
 
 # Финансы
 ## [Обзор](finance.md)
@@ -470,7 +473,7 @@
 ## [Работа с измерениями](finance-dimensions.md)
 ## [Создание бюджетов ГК](finance-how-create-budgets.md)
 ## [Учет транзакций непосредственно в главной книге](finance-how-post-transactions-directly.md).
-## [Сторнирование учета](finance-how-reverse-journal-posting.md)
+## [Сторнирование учета в журнале и отмена приходных/расходных накладных](finance-how-reverse-journal-posting.md)
 ## [Распределение затрат и дохода](year-allocate-costs-income.md)
 ## [Использование товарных издержек для учета дополнительных торговых расходов](payables-how-assign-item-charges.md)
 ## [Регистрация и возмещение расходов сотрудников](finance-how-record-reimburse-employee-expenses.md)
@@ -592,7 +595,6 @@
 ### [Настройка циклов возможных продаж и этапов циклов](marketing-how-setup-opportunity-sales-cycles-stages.md)
 ### [Создание возможностей](marketing-how-create-opportunities.md)
 ### [Отслеживание обмена сообщениями электронной почты](marketing-set-up-email-logging.md)
-
 ### [Обработка возможностей продаж](marketing-processing-sales-opportunities.md)
 ### [Настройка регистрации эл.почты](marketing-set-up-email-logging.md)
 ## [Использование анкет профилей для классификации бизнес-контактов](marketing-create-contact-profile-questionnaire.md)
@@ -839,7 +841,6 @@
 #### [Печать тестовых отчетов для напоминаний о доставке](LocalFunctionality/Austria/how-to-print-test-reports-for-delivery-reminders.md)
 ### Общие
 #### [Печать сведений о настройке ГК](LocalFunctionality/Austria/how-to-print-general-ledger-setup-information.md)
-#### [Печать заказов на покупку и продажу при выполнении пакетного учета](LocalFunctionality/Austria/how-to-print-sales-and-purchase-orders-during-batch-posting.md)
 
 ## Бельгия
 ### [Обзор](LocalFunctionality/Belgium/belgium-local-functionality.md)
@@ -1022,7 +1023,6 @@
 #### [Валютные курсы](LocalFunctionality/Germany/currency-exchange-rates.md)
 #### [Список продаж ЕС в Германии](LocalFunctionality/Germany/eu-sales-list-in-germany.md)
 #### [Включение регистрационных номеров компании в отчеты о продажах и отчеты о покупках](LocalFunctionality/Germany/how-to-include-company-registration-numbers-on-sales-reports-and-purchase-reports.md)
-#### [Печать заказов на покупку и продажу при выполнении пакетного учета](LocalFunctionality/Germany/how-to-print-sales-and-purchase-orders-during-batch-posting.md)
 #### [Печать сведений о настройке ГК](LocalFunctionality/Germany/how-to-print-general-ledger-setup-information.md)
 #### [Сертификация Business Central для рынка Германии (документ на немецком языке)](https://go.microsoft.com/fwlink/?linkid=875256)
 
@@ -1074,7 +1074,6 @@
 #### [Настройка сведений об организации](LocalFunctionality/Italy/how-to-set-up-company-information.md)
 #### [Субподряд в Италии](LocalFunctionality/Italy/italian-subcontracting.md)
 #### [Настройка шаблонов и разделов журнала](LocalFunctionality/Italy/how-to-set-up-journal-templates-and-batches.md)
-#### [Отчет о торговле с клиентами и поставщиками из черного списка стран и регионов](LocalFunctionality/Italy/how-to-report-trade-with-customers-and-vendors-in-blacklist-countries-regions.md)  
 
 ## Мексика
 ### [Обзор](LocalFunctionality/Mexico/mexico-local-functionality.md)
@@ -1168,6 +1167,7 @@
 ## Норвегия
 ### [Обзор](LocalFunctionality/Norway/norway-local-functionality.md)
 ### НДС
+#### [Норвежский стандартный файл аудита — работа с налогом (SAF-T)](LocalFunctionality/Norway/ui-extensions-setup-and-generate-saf-t-files-no.md)
 #### [Норвежская отчетность по НДС](LocalFunctionality/Norway/norwegian-vat-reporting.md)
 #### [Норвежские коды НДС](LocalFunctionality/Norway/norwegian-vat-codes.md)  
 #### [Как использовать один код НДС в журналах](LocalFunctionality/Norway/how-to-use-one-vat-code-in-journals.md)
@@ -1378,7 +1378,6 @@
 ### Общие    
 #### [Импорт швейцарских почтовых индексов](LocalFunctionality/Switzerland/how-to-import-swiss-post-codes.md)
 #### [Швейцарские документы покупки и заказы на продажу](LocalFunctionality/Switzerland/swiss-purchase-documents-and-sales-documents.md)
-#### [Печать заказов на покупку и продажу при выполнении пакетного учета](LocalFunctionality/Switzerland/how-to-print-sales-and-purchase-orders-during-batch-posting.md)
 
 ## Соединенное Королевство
 ### [Обзор](LocalFunctionality/UnitedKingdom/united-kingdom-local-functionality.md)

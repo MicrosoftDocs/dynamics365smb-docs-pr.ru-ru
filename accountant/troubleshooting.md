@@ -1,5 +1,5 @@
 ---
-title: Способы устранения или обхода неполадок | Microsoft Docs
+title: Способы устранения или обхода неполадок | Документация Майкрософт
 description: Узнайте, как обойти возможные проблемы, возникающие в Accountant Hub для Dynamics 365.
 author: edupont04
 ms.service: dynamics365-accountant
@@ -8,21 +8,21 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: accountant, accounting, troubleshoot
-ms.date: 10/23/2017
+ms.date: 10/01/2019
 ms.author: edupont
-ms.openlocfilehash: 0ebd99e9097e4c701038f3b8be7a07d1e80a4b31
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: 8faba6940469265959d09f807d2d3c1afe6199af
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1237984"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2300405"
 ---
-# <a name="troubleshooting-include-d365acclongincludesd365acclongmdmd"></a>Устранение неполадок в [!INCLUDE [d365acc_long](includes/d365acc_long_md.md)]
+# <a name="troubleshooting-include-d365acc_longincludesd365acc_long_mdmd"></a>Устранение неполадок в [!INCLUDE [d365acc_long](includes/d365acc_long_md.md)]
 [!INCLUDE [d365fin_early_release](includes/d365fin_early_release.md.md)]
 
 Регистрация в [!INCLUDE [d365acc](includes/d365acc_md.md)] проста и выполняется очень быстро. Добавлять клиентов на панель мониторинга также очень просто, однако в этой статье рассматриваются проблемы, которые могут при этом возникнуть.
 
-## <a name="what-email-address-can-i-use-with-include-d365accincludesd365accmdmd"></a>Какой адрес электронной почты можно использовать с [!INCLUDE [d365acc](includes/d365acc_md.md)]?
+## <a name="what-email-address-can-i-use-with-include-d365accincludesd365acc_mdmd"></a>Какой адрес электронной почты можно использовать с [!INCLUDE [d365acc](includes/d365acc_md.md)]?
 [!INCLUDE [d365acc](includes/d365acc_md.md)] требует, чтобы для регистрации использовался рабочий или учебный адрес электронной почты. [!INCLUDE [d365acc](includes/d365acc_md.md)] не поддерживает адреса электронной почты, предоставленные общедоступными сервисами электронной почты и поставщиками услуг связи. К таким адресам относятся outlook.com, hotmail.com, gmail.com и т. д.  
 
 При попытке зарегистрироваться с личного адреса электронной почты вы получите сообщение о том, что нужно использовать рабочий или учебный адрес электронной почты.  

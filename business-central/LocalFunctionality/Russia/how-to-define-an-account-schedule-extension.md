@@ -5,15 +5,15 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: ''
-ms.date: 07/02/2019
+ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: a84f58a3edc536ca698da4fa5f5fd6ab4ca1092e
-ms.sourcegitcommit: 8fe694b7bbe7fc0456ed5a9e42291218d2251b05
+ms.openlocfilehash: 15cfc5cf43f46b06e50698475b829619f3e15453
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/04/2019
-ms.locfileid: "1738262"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2301160"
 ---
 # <a name="how-to-define-an-account-schedule-extension"></a>Практическое руководство. Определение расширения финансового отчета
 
@@ -21,7 +21,7 @@ ms.locfileid: "1738262"
 
 ## <a name="to-define-an-account-schedule-extension"></a>Определение расширения финансового отчета
 
-1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Финансовый отчет**, затем выберите связанную ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Финансовый отчет**, а затем выберите соответствующую ссылку.
 2. Выберите финансовый отчет, для которого необходимо определить расширение.
 3. Выберите **Изменение финансового отчета**.
 4. В поле **Номер строки** выберите номер строки финансового отчета, для которого необходимо определить расширение.

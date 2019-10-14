@@ -1,18 +1,18 @@
 ---
-title: Вопросы и ответы об использовании Business Central | Microsoft Docs
+title: Вопросы и ответы об использовании Business Central | Документация Майкрософт
 description: Ответы на общие вопросы о том, как зарегистрироваться на Business Central или приобрести его, получить пробную версию, получить поддержку, продлить пробную версию, отменить подписку, а также найти обучение и другую поддержку.
 author: edupont04
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: FAQ, email, Office 365, subscription, subscribe, trial, plan, application area, experience, support, buy, upgrade, extend
-ms.date: 08/02/2019
+ms.date: 10/01/2019
 ms.author: edupont
-ms.openlocfilehash: 91cd5a7bd5b4aa5103e472fbf040599ac9740226
-ms.sourcegitcommit: 5bcc5f95e450ee9a3d9f7a380e592a5e75c4185b
+ms.openlocfilehash: bfe2c4bec0627aee83d0ca25db975c76b7f803ab
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2019
-ms.locfileid: "1858270"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2300573"
 ---
 # <a name="frequently-asked-questions"></a>Вопросы и ответы
 
@@ -40,15 +40,17 @@ ms.locfileid: "1858270"
 Наконец, можно связаться с нашим торговым партнером [!INCLUDE[d365fin](includes/d365fin_md.md)]. Дополнительные сведения см. в разделе [Как получить техническую поддержку](across-faq.md#how-do-i-get-technical-support-for-).  
 
 ## <a name="why-cant-i-find-that-capability-in-my-included365finincludesd365fin_mdmd"></a>Почему я не могу найти эту функциональную возможность в моем [!INCLUDE[d365fin](includes/d365fin_md.md)]?
-Вы недавно прочитали о новой функциональной возможности в плане выпуска или в нашем блоге? В таком случае возможно, что [!INCLUDE[d365fin](includes/d365fin_md.md)] еще не обновлен до последней версии. Если функциональная возможность опубликована как расширение в AppSource, то после объявления расширения оно появляется в AppSource с некоторой задержкой.  
+Вы недавно прочитали о новой функциональной возможности в плане выпуска или в нашем блоге? В таком случае возможно, что [!INCLUDE[d365fin](includes/d365fin_md.md)] еще не обновлен до последней версии. Проверить, на какой версии базируется ваша система [!INCLUDE[d365fin](includes/d365fin_md.md)], можно на странице [Справка и поддержка](product-help-and-support.md).  
+
+Кроме того, если функциональная возможность опубликована как расширение в AppSource, то после объявления расширения оно появляется в AppSource с некоторой задержкой.  
 
 ## <a name="are-there-any-differences-between-an-on-premises-deployment-and-the-cloud-version-of-business-central"></a>Существуют ли различия между локальным развертыванием и облачной версией Business Central?
 Да. В некоторых случаях некоторые облачные функции могут работать локально, а другие вообще не поддерживаются. Для получения дополнительной информации см. [Функции, не реализованные в локальных развертываниях Dynamics 365 Business Central](/dynamics365/business-central/dev-itpro/features-not-implemented-on-premises).
 
 ## <a name="can-i-get-training-in-included365finincludesd365fin_mdmd"></a>Я могу пройти обучение по [!INCLUDE[d365fin](includes/d365fin_md.md)]?
-Да, можете. Но в текущий момент вы должны обратиться к своему партнеру. Если вы не знаете, кто это, найдите партнера Business Central на странице [Я ищу поставщика решений](https://go.microsoft.com/fwlink/?linkid=2038145).  
+Да, можете. На [сайте Microsoft Learn](/learn/browse/?products=dynamics-business-central) есть бесплатные электронные учебные материалы. Вы также можете обратиться к своему партнеру по распространению с просьбой организовать для вас дополнительное обучение. Если вы не знаете, кто это, найдите партнера Business Central на странице [Я ищу поставщика решений](https://go.microsoft.com/fwlink/?linkid=2038145).  
 
-Если у вас есть доступ к Microsoft CustomerSource, вы можете использовать сайт Imagine Academy и материалы eLearning. Дополнительные сведения о том, как получить доступ, см. на странице [Обучение Microsoft Dynamics 365](/dynamics365/get-started/training/index#dynamics-365-customers).  
+Дополнительные сведения об обучении, предоставляемом корпорацией Майкрософт, см. на странице [Обучение по Microsoft Dynamics 365](/dynamics365/get-started/training/index#dynamics-365-customers).  
 
 ## <a name="how-do-i-get-technical-support-for-included365finincludesd365fin_mdmd"></a>Как получить техническую поддержку для [!INCLUDE[d365fin](includes/d365fin_md.md)]?
 
@@ -72,9 +74,9 @@ ms.locfileid: "1858270"
 Если требуется выполнить развертывание [!INCLUDE[d365fin](includes/d365fin_md.md)] On-premises, можно использовать другие методы проверки подлинности. Дополнительные сведения см. в разделе [Развертывание Dynamics 365 Business Central](/dynamics365/business-central/dev-itpro/deployment/deployment).  
 
 ## <a name="do-i-have-to-buy-office-365"></a>Нужно ли мне покупать Office 365?
-№ Но если вы хотите попробовать [!INCLUDE[d365fin](includes/d365fin_md.md)] с полной интеграцией в Office 365, вы можете зарегистрировать 1-месячную бесплатную пробную версию Office 365 [здесь](https://products.office.com/try).  
+Нет. Но если вы хотите попробовать [!INCLUDE[d365fin](includes/d365fin_md.md)] с полной интеграцией в Office 365, вы можете зарегистрировать 1-месячную бесплатную пробную версию Office 365 [здесь](https://products.office.com/try).  
 
-Если учетная запись, с которой выполнена регистрация, не является рабочей учетной записью Office 365 (например, *joe@mysolution.com*) и у вас есть подписка на Office 365, можно связать ваш домен (*mysolution.com*) с подпиской на Office 365. Дополнительные сведения см. в разделе [Получение помощи по доменам Office 365](/office365/admin/get-help-with-domains/get-help-with-domains?view=o365-worldwide).  
+Если учетная запись, с которой вы регистрируетесь, не является рабочей учетной записью Office 365 (например, joe@mysolution.com) и у вас есть подписка на Office 365, вы можете связать свой домен (*mysolution.com*) с подпиской на Office 365. Дополнительные сведения см. в разделе [Получение помощи по доменам Office 365](/office365/admin/get-help-with-domains/get-help-with-domains?view=o365-worldwide).  
 
 Если у вас нет подписки на Office 365 и вы не хотите приобретать ее, то при выполнении регистрации мы подготовим новый клиент Azure Active Directory для вас, чтобы у вас был доступ к порталу Azure, на котором имеется доступ к расширенным средствам управления.  
 
@@ -87,8 +89,8 @@ ms.locfileid: "1858270"
 > [!NOTE]
 > Завершение процесса продления пробного периода может занять до двух рабочих дней.  
 
-## <a name="our-administrator-has-moved-me-to-another-plan-to-give-me-another-role-but-i-still-see-the-same-role-center-in-included365finincludesd365fin_mdmd"></a>Наш администратор изменил мой план, чтобы предоставить мне другую роль, но я по-прежнему вижу тот же ролевой центр в [!INCLUDE[d365fin](includes/d365fin_md.md)]?
-Это немного сложно, но, похоже, администратор не изменил ваш ролевой центр и не назначил группы пользователей, соответствующие новой лицензии. По существу, ваш доступ к [!INCLUDE[d365fin](includes/d365fin_md.md)] определяется вашим типом плана (лицензией), а он задает разрешения и страницу ролевого центра по умолчанию. Можно вручную изменить ролевой центр в разделе "Мои настройки", но при переходе на другой план, например при переходе с плана "Бизнес" на план "Члены группы", может отображаться старая домашняя страница, поскольку ваши разрешения не были изменены.  
+## <a name="our-administrator-has-moved-me-to-another-plan-to-give-me-another-role-but-i-still-see-the-same-home-screen-in-included365finincludesd365fin_mdmd"></a>Наш администратор изменил мой план, чтобы предоставить мне другую роль, но я по-прежнему вижу тот же домашний экран в [!INCLUDE[d365fin](includes/d365fin_md.md)]?
+Это немного сложно, но, похоже, администратор не изменил назначенную вам роль и не назначил группы пользователей, соответствующие новой лицензии. По существу, ваш доступ к [!INCLUDE[d365fin](includes/d365fin_md.md)] определяется вашим типом плана (лицензией) — он задает разрешения, назначенную вам роль и отображаемый по умолчанию домашний экран. Вы можете вручную изменить свою текущую роль в разделе "Мои настройки", но при переходе на другой план, например при переходе с плана "Бизнес" на план "Участники группы", может отображаться старый домашний экран, поскольку ваши разрешения не были изменены.  
 
 ## <a name="can-i-cancel-my-subscription"></a>Я могу отменить свою подписку?
 Да, но в зависимости от способа регистрации в [!INCLUDE[d365fin](includes/d365fin_md.md)] ваши данные могут быть удалены или сохранены. Дополнительные сведения см. в разделе [Отмена [!INCLUDE[d365fin](includes/d365fin_md.md)]](admin-cancel.md).  

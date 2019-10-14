@@ -5,15 +5,15 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: ''
-ms.date: 07/02/2019
+ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 78e6d33e3ae8d1ffb0e513551aa1630c76ac6c59
-ms.sourcegitcommit: 8fe694b7bbe7fc0456ed5a9e42291218d2251b05
+ms.openlocfilehash: a1aa7d1c5936d38d6de46b21bcfd32492027aa4b
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/04/2019
-ms.locfileid: "1738215"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2301162"
 ---
 # <a name="how-to-enter-custom-declarations-information"></a>Практическое руководство. Ввод сведений таможенных деклараций
 
@@ -21,7 +21,7 @@ ms.locfileid: "1738215"
 
 ## <a name="to-enter-custom-declarations-information"></a>Ввод сведений таможенных деклараций
 
-1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Декларации на товары**, затем выберите связанную ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Декларации на товары**, а затем выберите соответствующую ссылку.
 
 2. В окне **Таможенная декларация** заполните поля.
 

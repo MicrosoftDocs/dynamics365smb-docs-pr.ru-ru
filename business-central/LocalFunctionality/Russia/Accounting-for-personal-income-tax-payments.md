@@ -5,15 +5,15 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: ''
-ms.date: 07/02/2019
+ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: d86a8f364b71fb593e1650adf6ca023b52ab21cc
-ms.sourcegitcommit: 8fe694b7bbe7fc0456ed5a9e42291218d2251b05
+ms.openlocfilehash: a1a799be20eab04b294066f0359bccb0e6258d49
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/04/2019
-ms.locfileid: "1738285"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2301204"
 ---
 # <a name="accounting-for-personal-income-tax-payments"></a>Учет платежей подоходного налога
 

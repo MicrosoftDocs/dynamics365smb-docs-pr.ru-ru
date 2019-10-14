@@ -1,5 +1,5 @@
 ---
-title: Управление себестоимостью товаров | Документы Майкрософт
+title: Управление себестоимостью товаров | Документация Майкрософт
 description: Процесс управления затратами, который также называют учетом себестоимости, связан с записью и отчетностью по текущим бизнес-расходам. Он включает в себя отчетность по себестоимости производства и запасов, то есть, по себестоимости товаров.
 services: project-madeira
 documentationcenter: ''
@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 45cb61d9aad987c06be4b9d0701dba1fb50bb78a
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: 9ac7f23ebe3ef0cbe16b9effd5c6dea85250cc0e
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1242549"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2301904"
 ---
 # <a name="managing-inventory-costs"></a>Управление себестоимостью товаров
 Процесс управления затратами, который также называют учетом себестоимости, связан с записью и отчетностью по текущим бизнес-расходам. Он включает в себя отчетность по себестоимости производства и запасов, то есть, по себестоимости товаров.   

@@ -1,5 +1,5 @@
 ---
-title: Сведения о проектировании — трассировка и планирование товара | Документы Майкрософт
+title: Сведения о проектировании — трассировка и планирование товара | Документация Майкрософт
 description: Поскольку они хранятся в системе резервирования, номера трассировки товара полностью согласовываются с записями трассировки заказов.
 services: project-madeira
 documentationcenter: ''
@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 08/20/2019
+ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 062cee5473de267a479bc76e166ed85948544a51
-ms.sourcegitcommit: 81b6062194bf04d8052a3cd394cc0b41e3f53e6d
+ms.openlocfilehash: 0b83cc4daea4e37dae1e1ef7437276205b76cbe5
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2019
-ms.locfileid: "1887672"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2303350"
 ---
 # <a name="design-details-item-tracking-and-planning"></a>Сведения о проектировании: трассировка и планирование товара
 Поскольку они хранятся в системе резервирования, номера трассировки товара полностью согласовываются с записями трассировки заказов. Это означает, что товарам с записями трассировки заказов можно присвоить номера трассировки заказов. И наоборот, товары с номерами трассировки товара могут стать записями трассировки заказов. Дополнительные сведения см. в разделе [Сведения о проектировании: проектирование трассировки товара](design-details-item-tracking-design.md).

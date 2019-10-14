@@ -1,5 +1,5 @@
 ---
-title: Использование функций управления персоналом | Документы Майкрософт
+title: Использование функций управления персоналом | Документация Майкрософт
 description: Вы можете регистрировать новый персонал, редактировать информацию об имеющихся сотрудниках, регистрировать и анализировать их отсутствие.
 services: project-madeira
 documentationcenter: ''
@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: personnel, people, employee, staff, HR
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 5210258f1e217149f0d41e1edcfaf8a8c0c3be79
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: 947482780e860bba566af7f22231babcf51cdd27
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1238674"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2301445"
 ---
 # <a name="manage-human-resources"></a>Управление персоналом
 В [!INCLUDE[d365fin](includes/d365fin_md.md)] можно хранить подробные записи о сотрудниках. В программе можно регистрировать и хранить такие сведения о сотрудниках, как трудовые соглашения, конфиденциальная информация, квалификации и контактные данные сотрудников.

@@ -5,15 +5,15 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: ''
-ms.date: 07/02/2019
+ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 8a64ed917e0057577fe4f07e5842e5df8e9cd23e
-ms.sourcegitcommit: 8fe694b7bbe7fc0456ed5a9e42291218d2251b05
+ms.openlocfilehash: 3e5f22b13128444da15e9bc6c02d5c858fa8eb97
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/04/2019
-ms.locfileid: "1738205"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2301148"
 ---
 # <a name="how-to-set-up-customer-and-vendor-agreements"></a>Практическое руководство. Настройка договоров с клиентами и поставщиками
 
@@ -27,7 +27,7 @@ ms.locfileid: "1738205"
 
 ## <a name="to-set-up-an-agreement"></a>Настройка договора
 
-1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка модуля "Продажи"**, затем выберите связанную ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка модуля "Продажи"**, а затем выберите соответствующую ссылку.
 
 2. Чтобы настроить договор, на экспресс-вкладке **Измерения** и экспресс-вкладках **Нумерация** заполните поля, перечисленные в таблице ниже.
 
@@ -39,7 +39,7 @@ ms.locfileid: "1738205"
 
 ## <a name="to-create-a-customer-or-vendor-agreement"></a>Создание договора с клиентом или поставщиком 
 
-1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Клиенты**, затем выберите связанную ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Клиенты**, а затем выберите соответствующую ссылку.
 
 2. Выберите клиента из списка и выберите действие **Правка**.
 

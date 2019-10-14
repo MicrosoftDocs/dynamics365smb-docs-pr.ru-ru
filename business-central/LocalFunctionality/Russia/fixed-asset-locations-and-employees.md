@@ -5,15 +5,15 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: ''
-ms.date: 07/02/2019
+ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 99c9eb7e4f4b6028f934b978999e59a48dadfeeb
-ms.sourcegitcommit: 8fe694b7bbe7fc0456ed5a9e42291218d2251b05
+ms.openlocfilehash: 95b3904d34325d71e09104c8fa43951df2aae97a
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/04/2019
-ms.locfileid: "1738267"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2301181"
 ---
 # <a name="fixed-asset-locations-and-employees"></a>ОС: местоположения и ответственные сотрудники
 
@@ -29,7 +29,7 @@ ms.locfileid: "1738267"
 
 Ниже показано, как обеспечить, чтобы поля **Код местонахождения ОС** и **Код сотрудника** были всегда заполнены для основных средств. 
 
-1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка ОС*, затем выберите связанную ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка ОС*, а затем выберите соответствующую ссылку.
 2. На экспресс-вкладке **Общие** установите флажок **Местонахождение ОС обязательно**.
 
  

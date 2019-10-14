@@ -1,5 +1,5 @@
 ---
-title: Локальная функциональность в Business Central | Microsoft Docs
+title: Локальная функциональность в Business Central | Документация Майкрософт
 description: Узнайте о локальной доступности и соответствии нормативным требованиям приложения Dynamics 365 Business Central.
 author: edupont04
 ms.service: dynamics365-business-central
@@ -8,16 +8,16 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: availability, localization
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: edupont
-ms.openlocfilehash: 68543b9ab74ed713ae0e4db0778c27b1e31c4f77
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: a22fe178668892472b05bcb554989dce0cc3d46d
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1241367"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2300813"
 ---
-# <a name="local-functionality-in-included365finlongincludesd365finlongmdmd"></a>Локальная функциональность в [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]
+# <a name="local-functionality-in-included365fin_longincludesd365fin_long_mdmd"></a>Локальная функциональность в [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]
 [!INCLUDE[d365fin](includes/d365fin_md.md)] предлагает стратегию объединенной локализации, включая модели под управлением Майкрософт и партнеров. В этом разделе представлены описания функций, применимых к странам, в которых корпорация Майкрософт обеспечивает соблюдение нормативных требований, и других локальных функций.  
 
 Список поддерживаемых в данный момент стран см. в разделе [Международная доступность Microsoft Dynamics 365](https://docs.microsoft.com/en-us/dynamics365/get-started/availability).  

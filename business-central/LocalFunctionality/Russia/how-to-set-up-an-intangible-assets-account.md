@@ -5,15 +5,15 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: ''
-ms.date: 07/02/2019
+ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 240dbb481b054e8f2f8c7fc66c198f8770d3a5d4
-ms.sourcegitcommit: 8fe694b7bbe7fc0456ed5a9e42291218d2251b05
+ms.openlocfilehash: 1671e98bc36be85ed0b7647102f95c9f4b3edf2f
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/04/2019
-ms.locfileid: "1738206"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2301149"
 ---
 # <a name="how-to-set-up-an-intangible-assets-account"></a>Практическое руководство. Настройка счета нематериальных активов
 
@@ -23,7 +23,7 @@ ms.locfileid: "1738206"
 
 ## <a name="to-set-up-an-intangible-asset-account"></a>Настройка счета нематериальных активов
 
-1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Основные средства**, затем выберите связанную ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Основные средства**, а затем выберите соответствующую ссылку.
 2. Откройте карточку основного средства.
 3. В окне **Карточка основного средства** выберите **Нематериальный актив** в поле **Тип ОС**.
 4. Приобретите нематериальный актив и введите его в эксплуатацию. Дополнительные сведения см. в разделе [Практическое руководство. Покупка и ввод в эксплуатацию малоценных основных средств](Undepreciable-Fixed-Assets.md).

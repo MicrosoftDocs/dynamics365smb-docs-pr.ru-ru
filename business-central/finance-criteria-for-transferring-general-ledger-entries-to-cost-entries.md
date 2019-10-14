@@ -1,23 +1,24 @@
 ---
-title: Критерии для переноса операций главной книги в операции затрат | Документы Майкрософт
+title: Критерии для переноса операций главной книги в операции затрат | Документация Майкрософт
 description: Важно понимать критерии для переноса операций Главной книги в операции затрат. Во время перемещения пакетное задание **Перенести записи ГК в CA** использует следующие критерии, чтобы определить, перемещаются ли операции главной книги и если да, то как.
 services: project-madeira
 documentationcenter: ''
 author: SorenGP
-ms.service: dynamics365-financials
+ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 07/01/2017
+ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 62d19b5ff112871f7f44f0945bdcfd38306ed8b3
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+redirect_url: finance-transfer-and-post-cost-entries
+ms.openlocfilehash: fe7a7d0c3d7a56f129a1ae94d1e7f015eb145bda
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1242817"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2302456"
 ---
 # <a name="criteria-for-transferring-general-ledger-entries-to-cost-entries"></a>Критерии для переноса операций главной книги в операции затрат
 Важно понимать критерии для переноса операций Главной книги в операции затрат. Во время перемещения пакетное задание **Перенести записи ГК в CA** использует следующие критерии, чтобы определить, перемещаются ли операции главной книги и если да, то как.  
