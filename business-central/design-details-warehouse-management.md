@@ -1,5 +1,5 @@
 ---
-title: Сведения о проектировании — управление складом | Документы Майкрософт
+title: Сведения о проектировании — управление складом | Документация Майкрософт
 description: Этот раздел содержит обзор дизайна, концепций и принципов, используемых в функциях управления складом в Business Central.
 author: SorenGP
 ms.service: dynamics365-business-central
@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 2f6a84e015ccfd625f3b902281bd8ec59150540f
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: efd4d06d0d16b81ca3640af46a797c359098cc08
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1246292"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2306676"
 ---
 # <a name="design-details-warehouse-management"></a>Сведения о проектировании: управление складом
 Этот документ содержит обзор концепций и принципов, использованных в функциях управления складом в [!INCLUDE[d365fin](includes/d365fin_md.md)]. В ней описывается, как работают функции центрального склада и как управление складом интегрируется с другими функциями цепочки поставок.  

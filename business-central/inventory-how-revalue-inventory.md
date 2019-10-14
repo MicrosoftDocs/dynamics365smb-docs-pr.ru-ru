@@ -1,5 +1,5 @@
 ---
-title: Создание новых операций стоимости для товаров на складе | Документы Майкрософт
+title: Создание новых операций стоимости для товаров на складе | Документация Майкрософт
 description: Описывается, как повысить или понизить операции стоимости одного или нескольких товаров в запасах путем учета текущей вычисленной стоимости.
 services: project-madeira
 documentationcenter: ''
@@ -10,20 +10,20 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: costing, inventory cost, value entries
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 602381b34a057120cc53deca4dd293f939777dc5
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: 1e7b1ef8fa480eadc644ed03f5491961480dc0c6
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1243093"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2309968"
 ---
 # <a name="revalue-inventory"></a>Переоценка запасов
 Чтобы повысить или понизить стоимость изделия или конкретной учтенной товарной операции, нужно воспользоваться журналом переоценки.
 
 ## <a name="to-revalue-inventory"></a>Переоценка запасов
-1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Журнал переоценки**, затем выберите связанную ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Журнал переоценки**, а затем выберите соответствующую ссылку.
 2. Выберите действие **Расчет стоимости запасов**.
 3. На странице **Расчет стоимости запасов** заполните требуемые поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 4. Нажмите кнопку **ОК**.

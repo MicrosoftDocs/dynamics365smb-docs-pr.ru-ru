@@ -1,5 +1,5 @@
 ---
-title: Добавление сведений в записи для себя | Документы Майкрософт
+title: Добавление сведений в записи для себя | Документация Майкрософт
 description: Можно добавлять заметки в любые записи в приложении. Например, при наличии дополнительных сведений о заказе на продажу, которые не соответствуют ни одному из полей в заказе на продажу, эти сведения можно изложить в заметке.
 author: jswymer
 ms.service: dynamics365-business-central
@@ -9,14 +9,14 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
 ROBOTS: NOINDEX,NOFOLLOW
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: jswymer
-ms.openlocfilehash: 82b2dd880618f8ee7f44203db5638ef6da12c5cc
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: 0def7cba6f3929304094b3d213a8745ea97721ea
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1247793"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2314920"
 ---
 # <a name="add-and-view-notes-on-records"></a>Добавление и просмотр заметок в записях
  Вы <!--OnPrem and your colleagues -->можете добавить заметки в записи в приложении. На многих страницах, в особенности тех, в которых отображается список записей, например на странице **Заказы на продажу**, предусмотрено действие **Заметки** или информационная панель **Заметки**. <!--OnPrem Notes is where you can write notes about a record to yourself or others, and where you can view notes to you from others. For example, a note could be a general comment or processing instruction to your colleague, who can then respond to your note using their own **Notes**. Or, your colleague can add a note that gives you extra information about a sales order that is not covered by the information on the sales order. These notes and correspondences will follow the record as it is processed in the company.-->

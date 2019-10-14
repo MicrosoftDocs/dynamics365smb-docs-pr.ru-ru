@@ -1,5 +1,5 @@
 ---
-title: Управление отношениями | Microsoft Docs
+title: Управление отношениями | Документация Майкрософт
 description: Управление отношениями в Business Central помогает осуществлять продажи и предоставляет доступ к информации о контактах и потенциальных клиентах для эффективного обслуживания клиентов.
 services: project-madeira
 documentationcenter: ''
@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: contact, prospect, client
-ms.date: 05/02/2019
+ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 39e8a4bce8174116bbe7b63908007aa7873acc02
-ms.sourcegitcommit: dac212009aadf3227e54c99976c438f6e56f182a
+ms.openlocfilehash: 54cdb205f26de16397890e08b8918c66998af9b9
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/02/2019
-ms.locfileid: "1446742"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2308803"
 ---
 # <a name="managing-relationships"></a>Управление отношениями
 Функции управления отношениями в [!INCLUDE[d365fin](includes/d365fin_md.md)] помогают управлять продажами. Эти функции обеспечивают доступ к полной и точной информации и позволяют концентрироваться на взаимодействиях в предпочтительных сегментах клиентов и контактов.
@@ -34,4 +34,4 @@ ms.locfileid: "1446742"
 |Определение сегментов для выбора группы контактов в соответствии с определенными критериями, такими как отрасль, к которой принадлежат контакты.|[Управление сегментами](marketing-segments.md)|
 |Обработка входящих интересов путем создания возможных сделок и связывания их с менеджерами, чтобы отслеживать потенциальные продажи.|[Управление возможностями продаж](marketing-manage-sales-opportunities.md)|
 |Создание маркетинговых планов для выявления, привлечения и удержания клиентов.|[Управление маркетинговыми кампаниями](marketing-campaigns.md)|
-|Используйте Dynamics 365 for Sales for Customer Engagement, которое обеспечивает бесшовную интеграцию в процессе от интереса до получения денег с помощью Business Central для действий на сервере, таких как обработка заказов, управление запасами и работа с финансами.|[Интеграция с Dynamics 365 for Sales](marketing-integrate-dynamicscrm.md)|
+|Используйте Dynamics 365 Sales для взаимодействия с клиентами и получите в свое распоряжение бесшовную интеграцию процесса от интереса до получения денег, используя Business Central для внутренних действий, таких как обработка заказов, управление запасами и работа с финансами.|[Интеграция с Dynamics 365 Sales](marketing-integrate-dynamicscrm.md)|

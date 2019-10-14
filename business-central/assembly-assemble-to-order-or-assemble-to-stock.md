@@ -1,5 +1,5 @@
 ---
-title: Сборка на заказ и сборка на склад | Документы Майкрософт
+title: Сборка на заказ и сборка на склад | Документация Майкрософт
 description: Сборочные элементы могут поставляться либо путем сборки при поступлении заказа или путем сборки для хранения на складе до тех пор, пока они не потребуются для заказа на продажу.
 services: project-madeira
 documentationcenter: ''
@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: kit, kitting
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 682c9fd7626801cce06049b34603e32c5e40c660
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: 795f5959866cf8394c5d4112ddad79cb6a9fe860
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1244266"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2304149"
 ---
 # <a name="understanding-assemble-to-order-and-assemble-to-stock"></a>Сборка на заказ и сборка на склад
 Сборочные элементы могут поставляться в следующих двух процессах:  

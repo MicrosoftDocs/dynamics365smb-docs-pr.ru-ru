@@ -1,5 +1,5 @@
 ---
-title: Рекомендации по настройке. Параметры планирования | Документы Майкрософт
+title: Рекомендации по настройке. Параметры планирования | Документация Майкрософт
 description: Экспресс-вкладка Планирование в карточке товара является центром цепочки поставок в организации. Для рентабельного управления запасами и обслуживания клиентов на высочайшем уровне очень важно установить правильные параметры планирования.
 author: SorenGP
 ms.service: dynamics365-business-central
@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: ddfabac487ded2907d8ef3eb7abed993467d50fd
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: 9a29dce0b8ec2a4c7738f7f74144eea7cb441e65
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1250392"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2315760"
 ---
 # <a name="setup-best-practices-planning-parameters"></a>Рекомендации по настройке: параметры планирования
 Экспресс-вкладка **Планирование** в карточке товара является центром цепочки поставок в организации. Для рентабельного управления запасами и обслуживания клиентов на высочайшем уровне очень важно установить правильные параметры планирования.  

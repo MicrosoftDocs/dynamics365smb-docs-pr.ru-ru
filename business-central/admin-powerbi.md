@@ -1,5 +1,5 @@
 ---
-title: Включение бизнес-данных для Power BI | Документы Майкрософт
+title: Включение бизнес-данных для Power BI | Документация Майкрософт
 description: Анализ данных, бизнес-аналитика и КПЭ на основе данных Business Central становятся проще благодаря приложениям Business Central для Power BI.
 author: bmeier90
 ms.service: dynamics365-business-central
@@ -9,14 +9,14 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: account schedule, analysis, reporting, financial report, business intelligence, KPI
 ms.reviewer: edupont
-ms.date: 07/08/2019
+ms.date: 10/01/2019
 ms.author: bmeier
-ms.openlocfilehash: 4223d3eba6253f87aee3f86b3a9dfe4107d48947
-ms.sourcegitcommit: 519623f9a5134c9ffa97eeaed0841ae59835f453
+ms.openlocfilehash: e17485563e331f7e78500650e174f6b2b57bbb8e
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "1755268"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2307976"
 ---
 # <a name="enabling-your-business-data-for-power-bi"></a>Включение бизнес-данных для Power BI
 
@@ -27,7 +27,7 @@ ms.locfileid: "1755268"
 > [!IMPORTANT]
 > Приложения Power BI, которые описаны в этой статье, предназначены для использования Azure Active Directory в качестве механизма аутентификации, если не указано иное. Чтобы установить приложение Power BI ,вы также должны иметь лицензию Power BI Pro.  После установки приложения Power BI оно может быть передано пользователям с любым типом лицензии.
 
-Майкрософт опубликовывала следующие приложения для Power BI:
+Корпорация [!INCLUDE [prodlong](includes/prodlong.md)] опубликовывала следующие приложения для Power BI:
 
 - [!INCLUDE [prodlong](includes/prodlong.md)] — CRM  
 - [!INCLUDE [prodlong](includes/prodlong.md)] — Finance  
@@ -64,7 +64,7 @@ ms.locfileid: "1755268"
 <!--    ![Choose apps from online services that you use.](./media/across-how-to-connect-powerbi-d365-content-packs/powerbi-online-services-get.png)-->
 4. Выберите **Приложения** на вкладке **Приложения для Power BI**, выберите требуемое приложение **Microsoft Dynamics 365 Business Central** и выберите **Получить сейчас**.  
 <!--    ![Select Dynamics 365 Business Central and select Get it now](./media/across-how-to-connect-powerbi-d365-content-packspowerbi-dynamics365-for-financials-get-it-now.png)/-->
-5. При появлении запроса введите название компании в [!INCLUDE[prodshort](includes/prodshort.md)], к которой вы хотите подключиться. Это не отображаемое имя. Название организации можно найти на странице **Организации** в вашем экземпляре [!INCLUDE[prodshort](includes/prodshort.md)].  
+5. При появлении запроса введите название среды и организации в приложении [!INCLUDE[prodshort](includes/prodshort.md)], к которому вы хотите подключиться. Если вы не создали несколько сред, введите **Рабочая среда**. Что касается параметра организации, убедитесь, что вы вводите имя, а не отображаемое имя. Название организации можно найти на странице **Организации** в вашем экземпляре [!INCLUDE[prodshort](includes/prodshort.md)].  
 
     > [!NOTE]
     > Если вы подключитесь к [!INCLUDE [prodshort](includes/prodshort.md)] on-premises, вы должны указать параметр *URL-адрес веб-службы*. Его можно найти на странице **Веб-службы** в [!INCLUDE [prodshort](includes/prodshort.md)]. Ваш экземпляр [!INCLUDE [server](includes/server.md)] должен быть настроен для базовой аутентификации, и вы должны указать пользователя и ключ веб-доступа этого пользователя в качестве пароля. В следующем примере замените *myserver:7048* вашим именем [!INCLUDE [server](includes/server.md)], а *CRONUS%20US* — с названием вашей организации.  
@@ -162,6 +162,10 @@ ms.locfileid: "1755268"
 
 Учетная запись Power BI не была настроена. Для того, чтобы иметь действительную учетную запись Power BI, у вас должна быть лицензия, и вы должны были предварительно войти в Power BI, чтобы ваше рабочая область Power BI была создана.  
 
+### <a name="message-there-are-no-enabled-reports-choose-select-report-to-see-a-list-of-reports-that-you-can-display"></a>Сообщение: "Включенные отчеты отсутствуют. Нажмите кнопку "Выбрать отчет", чтобы увидеть список отчетов, которые можно открыть."
+
+Это сообщение появляется, если стандартный отчет не удалось развернуть в вашей рабочей области Power BI или если отчет был развернут, но его не удалось обновить. В этом случае перейдите к отчету в своей рабочей области Power BI, выберите **Набор данных**, **Настройки**, а затем вручную обновите учетные данные. После успешного обновления набора данных вернитесь в Business Central и вручную выберите отчет на странице **Выбрать отчеты**. 
+
 ### <a name="you-need-a-power-bi-pro-license-to-install-the-include-prodshortincludesprodshortmd-app-in-power-bi"></a>Вам необходима лицензия Power BI Pro для установки приложения [!INCLUDE [prodshort](includes/prodshort.md)] в Power BI
 
 Приложения Power BI могут быть установлены только пользователями, которые имеют лицензию Power BI Pro. После того как приложение Power BI установлено, вы можете поделиться им с пользователями, которые не имеют лицензии Power BI Pro.  
@@ -170,6 +174,7 @@ ms.locfileid: "1755268"
 
 Эта ошибка указывает на то, что еще один из параметров недействителен.
 
+- Указанный параметр среды не соответствует ни одной из существующих рабочих сред или песочниц [!INCLUDE [prodshort](includes/prodshort.md)]. 
 - Указанный параметр организации не соответствует ни одной из существующих организаций [!INCLUDE [prodshort](includes/prodshort.md)]. Проверьте название компании на странице **Организации** в [!INCLUDE [prodshort](includes/prodshort.md)].
 - При подключении к [!INCLUDE [prodshort](includes/prodshort.md)] on-premises. вы ввели неверный URL-адрес. Вы можете проверить URL-адрес на странице **Веб-службы** в [!INCLUDE [prodshort](includes/prodshort.md)]  
 - Порт не открыт, чтобы позволить запросу пройти через ваш брандмауэр.
@@ -200,10 +205,10 @@ ms.locfileid: "1755268"
 
 ## <a name="see-also"></a>См. также
 
-[Начало работы с Power BI](/power-bi/service-get-started)  
-[Power BI — основные понятия](/power-bi/service-basic-concepts)  
-[Приложения в Power BI](/power-bi/consumer/end-user-app)  
+[Power BI для потребителей](/power-bi/consumer/end-user-consumer)  
+["Новый внешний вид" службы Power BI](/power-bi/service-new-look)  
 [Быстрый старт: подключение к данным в Power BI Desktop](/power-bi/desktop-quickstart-connect-to-data)  
+[Документация Power BI](/power-bi/)  
 [Бизнес-аналитика](bi.md)  
 [Приступая к работе](product-get-started.md)  
 [Импорт бизнес-данных из других финансовых систем](across-import-data-configuration-packages.md)  

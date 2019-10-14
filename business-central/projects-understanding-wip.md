@@ -1,5 +1,5 @@
 ---
-title: Методы расчета НЗП для расчета и записи хода выполнения работ | Документы Майкрософт
+title: Методы расчета НЗП для расчета и записи хода выполнения работ | Документация Майкрософт
 description: Описываются различные методы НЗП, которые можно использовать для учета, отслеживания и расчета финансовой информации для текущих незавершенных работ.
 services: project-madeira
 documentationcenter: ''
@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: work in process, work in progress, calculate project WIP
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 9b50ff10afb1530d9886650106571c612cd89d31
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: a6f766d30fb61fd7ab67a654c102fc1a4b6e7629
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1251680"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2312608"
 ---
 # <a name="understanding-wip-methods"></a>Общее представление о методах учета НЗП
 [!INCLUDE[d365fin](includes/d365fin_md.md)] поддерживает следующие методы расчета и регистрации стоимости незавершенного производства.

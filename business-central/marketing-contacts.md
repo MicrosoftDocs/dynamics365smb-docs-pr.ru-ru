@@ -1,5 +1,5 @@
 ---
-title: Создание контактов компании и управление ими | Microsoft Docs
+title: Создание контактов компании и управление ими | Документация Майкрософт
 description: Все внешние субъекты, с которыми у вас есть деловые отношения (например, потенциальные и текущие клиенты, поставщики и консультанты), настраиваются как контакты.
 services: project-madeira
 documentationcenter: ''
@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: relationship, prospect
-ms.date: 09/06/2019
+ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: a0db1779172a9b2822ad4898e9dbf82e68b58622
-ms.sourcegitcommit: d3035c32bb79b51179540787b98579ac0c528cc4
+ms.openlocfilehash: 510252387dfb2acef7163819f223b6bcb49ac0f9
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/06/2019
-ms.locfileid: "1985743"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2309344"
 ---
 # <a name="managing-contacts"></a>Управление контактами
 Сотрудники в вашей организации регулярно контактируют с потенциальными бизнес-клиентами, и эти контакты могут перерасти в формальные отношения. Все такие внешние контакты и их подробная информация должны регистрироваться в системе, чтобы коммуникация была более успешной и чтобы их можно было легко преобразовать в официальные отношения с клиентом, поставщиком или банком.

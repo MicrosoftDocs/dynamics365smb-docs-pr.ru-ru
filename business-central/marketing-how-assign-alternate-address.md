@@ -1,5 +1,5 @@
 ---
-title: Назначение другого контактного адреса | Microsoft Docs
+title: Назначение другого контактного адреса | Документация Майкрософт
 description: Описывается, как назначить альтернативный адрес контактам или потенциальным клиентам, на который периодически отправлять информацию.
 services: project-madeira
 documentationcenter: ''
@@ -10,15 +10,15 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: relationship, prospect
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: jswymer
 redirect_url: marketing-setup-contacts
-ms.openlocfilehash: 22530c8e1bd3f148f5f158e6210668020c24d387
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: c88d0dbc26ab0a6560072b9995c13da71db5f3da
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1238007"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2309224"
 ---
 # <a name="set-up-alternative-addresses-for-contacts"></a>Настройка альтернативных адресов контактов
 Можно присваивать альтернативные адреса, по которым контактам иногда отсылается почта, например летний коттедж. Можно также присваивать один или несколько диапазонов дат каждому альтернативному адресу, созданному для контакта, чтобы указать, когда каждый из адресов действителен.

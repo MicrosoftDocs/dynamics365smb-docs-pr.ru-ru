@@ -1,6 +1,6 @@
 ---
-title: Расчет даты для покупок | Документы Майкрософт
-description: Программа автоматически вычисляет дату, когда следует заказать товар, чтобы иметь его на складе на определенную дату. Это дата, когда можно ожидать, что товары, заказанные на конкретную дату, будут доступны для подбора.
+title: Расчет даты для покупок | Документация Майкрософт
+description: Приложение автоматически вычисляет дату, когда следует заказать товар, чтобы иметь его на складе на определенную дату. Это дата, когда можно ожидать, что товары, заказанные на конкретную дату, будут доступны для подбора.
 services: project-madeira
 documentationcenter: ''
 author: SorenGP
@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: e7dfe565fc533ca5a724675c925cf6a415c49b94
-ms.sourcegitcommit: 8c0d734c7202fec81da79c7db382243aa49e37f6
+ms.openlocfilehash: 41b1b1b0459706a8c061a0044824b5b7c4c9aa62
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/10/2019
-ms.locfileid: "1737101"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2312584"
 ---
 # <a name="date-calculation-for-purchases"></a>Расчет даты для покупок
 [!INCLUDE[d365fin](includes/d365fin_md.md)] автоматически вычисляет дату, когда следует заказать товар, чтобы иметь его на складе на определенную дату. Это дата, когда можно ожидать, что товары, заказанные на конкретную дату, будут доступны для подбора.  

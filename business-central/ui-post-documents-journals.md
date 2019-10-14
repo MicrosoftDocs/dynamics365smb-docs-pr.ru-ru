@@ -1,5 +1,5 @@
 ---
-title: Обзор учтеа документов и журналов | Документы Майкрософт
+title: Обзор учета документов и журналов | Документация Майкрософт
 description: Описывает действия при выполнении и способы учета документов и журналов.
 services: project-madeira
 documentationcenter: ''
@@ -9,14 +9,14 @@ ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.date: 07/24/2019
+ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: a3fabec129de3e59eff30f70d1084e3969fa9ddc
-ms.sourcegitcommit: f46793abdb3efd8384c10eb7992e076383251f2c
+ms.openlocfilehash: 21329a8c6232fe0aba2f0ef99cc58ce4ea699d68
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/27/2019
-ms.locfileid: "1921365"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2310702"
 ---
 # <a name="posting-documents-and-journals"></a>Учет документов и журналов
 Учет представляет бухгалтерское действие по записи бизнес-транзакций в различных книгах организации.
@@ -29,6 +29,7 @@ ms.locfileid: "1921365"
 | --- | --- |
 | Получение сведений об учете документов покупки. |[Учет покупок](ui-post-purchases.md) |
 | Получение сведений об учете документов продажи. |[Учет продаж](ui-post-sales.md) |
+| Учет сразу нескольких документов продажи и покупки, немедленно или по расписанию.|[Одновременный учет нескольких документов](ui-batch-posting.md)|
 | Получение сведений об учете финансовых журналов. |[Работа с финансовыми журналами](ui-work-general-journals.md) |
 | Предварительный просмотр на странице операций, которые будут созданы при учете. |[Предварительный просмотр результатов учета](ui-how-preview-post-results.md) |
 | Предварительный просмотр в отчете операций, которые будут созданы при учете. |[Просмотр тестовых отчетов перед учетом](ui-how-view-test-reports-posting.md) |

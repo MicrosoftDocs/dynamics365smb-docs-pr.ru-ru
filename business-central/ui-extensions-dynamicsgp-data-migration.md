@@ -1,5 +1,5 @@
 ---
-title: Миграция данных из Dynamics GP с помощью расширения для миграции данных | Microsoft Docs
+title: Миграция данных из Dynamics GP с помощью расширения для миграции данных | Документация Майкрософт
 description: Использование расширения "Миграция данных Dynamics GP" для переноса клиентов, поставщиков, товаров, счетов ГК, открытых транзакций кредиторской или дебиторской задолженности из Dynamics GP в Business Central.
 documentationcenter: ''
 author: edupont04
@@ -9,14 +9,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms. search.keywords: app, add-in, manifest, customize, import, implement
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: edupont
-ms.openlocfilehash: cf401500c34d8d40acc153a591229684770afa64
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: c5798baec1130c3fc662a8751aee87bb8b438146
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1250080"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2311288"
 ---
 # <a name="the-dynamics-gp-data-migration-extension"></a>Расширение для миграции данных Dynamics GP 
 Это расширение позволяет легко переносить клиентов, поставщиков, товары, счета ГК, открытые транзакции кредиторской или дебиторской задолженности из Dynamics GP в [!INCLUDE[prodshort](includes/prodshort.md)]. Если сейчас ваша компания использует Dynamics GP, вы можете экспортировать соответствующие записи, а затем открыть руководство по сопровождаемой настройке, чтобы добавить данные в [!INCLUDE[prodshort](includes/prodshort.md)]. Расширение миграции работает для всех поддерживаемых версий Microsoft Dyanmics GP. Дополнительные сведения см. в разделе [Импорт бизнес-данных из других финансовых систем](across-import-data-configuration-packages.md).

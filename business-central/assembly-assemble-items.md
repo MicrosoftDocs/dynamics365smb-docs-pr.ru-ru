@@ -1,5 +1,5 @@
 ---
-title: Управление сборкой | Документы Майкрософт
+title: Управление сборкой | Документация Майкрософт
 description: Поддерживайте компании, которые поставляют продукты своим клиентам, объединяя компоненты в простые процессы без потребности в функциях производства, но с функциями сборки товаров, интегрирующиеся с существующими функциями, например для организации продаж, планирования, резервирования и складской деятельности.
 services: project-madeira
 documentationcenter: ''
@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: kit, kitting
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 983dbc4ee6f4efb3a710c08916a814a0195fd650
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: 3eb071a04f6bcb9d9ce02df79c5489e4e79aaf43
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1247029"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2307736"
 ---
 # <a name="assembly-management"></a>Управление сборкой
 Для обеспечения поддержки компаний, которые поставляют продукты своим клиентам, объединяя компоненты в простые процессы без потребности в функциях производства, [!INCLUDE[d365fin](includes/d365fin_md.md)] содержит функции сборки товаров, интегрирующиеся с существующими функциями, например для организации продаж, планирования, резервирования и складской деятельности.  

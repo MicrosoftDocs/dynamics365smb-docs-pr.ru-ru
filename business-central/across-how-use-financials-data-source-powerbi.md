@@ -1,5 +1,5 @@
 ---
-title: Использование Business Central в Power BI | Документы Майкрософт
+title: Использование Business Central в Power BI | Документация Майкрософт
 description: Можно сделать данные доступными в качестве источника данных в Power BI и создать мощные отчеты о состоянии вашего бизнеса.
 author: edupont04
 ms.service: dynamics365-business-central
@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: business intelligence, KPI, Odata, Power App, SOAP, analysis
-ms.date: 07/08/2019
+ms.date: 10/01/2019
 ms.author: edupont
-ms.openlocfilehash: c86f1c3c40f80ec993d0a3a89154047ddf9e8126
-ms.sourcegitcommit: 519623f9a5134c9ffa97eeaed0841ae59835f453
+ms.openlocfilehash: b57b87dd8cdc9390ed5b1b7136107639f689c192
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "1755245"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2305000"
 ---
 # <a name="using-include-prodlongincludesprodlongmd-as-power-bi-data-source-for-building-reports"></a>Использование [!INCLUDE [prodlong](includes/prodlong.md)] как источника данных Power BI для создания отчетов
 
@@ -28,10 +28,7 @@ ms.locfileid: "1755245"
 1. В Power BI Desktop в левой области навигации выберите **Получить данные**.
 2. На странице **Получить данные** выберите **Веб-службы**, выберите **Microsoft Dynamics 365 Business Central**, затем нажмите кнопку **Подключиться**.
 3. Power BI отобразит мастер с руководством по процессу подключения. Будет предложено выполнить вход в [!INCLUDE [prodshort](includes/prodshort.md)]. Выберите **Войти** и выберите учетную запись для входа. Это должна быть та же учетная запись, которая использовалась для входа в [!INCLUDE [prodshort](includes/prodshort.md)].
-4. Нажмите кнопку **Подключиться**, чтобы продолжить. Мастер Power BI отобразит список организаций и источников данных Microsoft [!INCLUDE[d365fin](includes/d365fin_md.md)]. Эти источники данных представляют все веб-службы, которые вы опубликовали из каждой организации в [!INCLUDE [prodshort](includes/prodshort.md)].
-
-  ![powerbi_webservices.png](media/across-how-use-financials-data-source-powerbi/powerbi_webservices.png)
-
+4. Нажмите кнопку **Подключиться**, чтобы продолжить. Мастер Power BI отобразит список сред, организаций и источников данных Microsoft [!INCLUDE[d365fin](includes/d365fin_md.md)]. Эти источники данных представляют все веб-службы, которые вы опубликовали из каждого арендатора/организации в Microsoft [!INCLUDE [prodshort](includes/prodshort.md)].
 5. Либо создайте новый URL-адрес веб-службы в [!INCLUDE [prodshort](includes/prodshort.md)], используя действие **Создать набор данных** на странице **Веб-службы** с помощью руководства по сопровождаемой настройке **Настройка отчетов** либо используя действие **Изменить в Excel** в любом списке.
 6. Укажите данные, которые требуется добавить в модель данных, а затем нажмите кнопку **Загрузить**.
 7. Повторите предыдущие шаги для добавления дополнительных данных [!INCLUDE [prodshort](includes/prodshort.md)] или других данных в модель данных Power BI.

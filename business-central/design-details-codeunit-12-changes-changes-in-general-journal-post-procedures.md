@@ -1,5 +1,5 @@
 ---
-title: Сведения о проектировании — изменения модуля codeunit 12 в процедурах учета финансовых журналов | Документы Майкрософт
+title: Сведения о проектировании — изменения модуля codeunit 12 в процедурах учета финансовых журналов | Документация Майкрософт
 description: В этом выпуске Business Central реализованы следующие изменения.
 author: SorenGP
 ms.service: dynamics365-business-central
@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 8daa5d57ed2f12daf3f3eef3572b2f7dbd39d92c
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: 5f27bb652009c740066dfa0ef3659bb9e53cfb0e
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1243415"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2307352"
 ---
 # <a name="codeunit-12-changes-changes-in-general-journal-post-procedures"></a>Изменения модуля codeunit 12: изменения процедур учета финансовых журналов
 В этом выпуске [!INCLUDE[d365fin](includes/d365fin_md.md)] реализованы следующие изменения.  
@@ -148,10 +148,10 @@ ms.locfileid: "1243415"
 |ApplyCustLedgEntryByReversal|ApplyCustLedgEntryByReversal|Перемещено в модуль Codeunit 17 "Фин. журнал - Обратный учет"|  
 |ApplyVendLedgEntryByReversal|ApplyVendLedgEntryByReversal|Перемещено в модуль Codeunit 17 "Фин. журнал - Обратный учет"|  
 |PostPmtDiscountVATByUnapply|PostPmtDiscountVATByUnapply|Перемещено в модуль Codeunit 17 "Фин. журнал - Обратный учет"|  
-||CheckDimComb|Добавлено в модуль codeunit 17 "Фин. журнал - Обратный учет"|  
-||CopyCustLedgEntry|Добавлено в модуль codeunit 17 "Фин. журнал - Обратный учет"|  
-||CopyVendLedgEntry|Добавлено в модуль codeunit 17 "Фин. журнал - Обратный учет"|  
-||CopyBankAccLedgEntry|Добавлено в модуль codeunit 17 "Фин. журнал - Обратный учет"|  
+||CheckDimComb|Перемещено в модуль Codeunit 17 "Фин. журнал - Обратный учет"|  
+||CopyCustLedgEntry|Перемещено в модуль Codeunit 17 "Фин. журнал - Обратный учет"|  
+||CopyVendLedgEntry|Перемещено в модуль Codeunit 17 "Фин. журнал - Обратный учет"|  
+||CopyBankAccLedgEntry|Перемещено в модуль Codeunit 17 "Фин. журнал - Обратный учет"|  
 |HandlDtlAddjustment|HandleDtldAdjustment|Обновлено|  
 |CollectAddjustment|CollectAdjustment|Обновлено|  
 |SetOverDimErr|SetOverDimErr|Обновлено|  
@@ -163,7 +163,7 @@ ms.locfileid: "1243415"
 |GetApplnRoundPrecision|GetApplnRoundPrecision|Обновлено|  
 |CheckDimValueForDisposal|CheckDimValueForDisposal|Обновлено|  
 |CalculateCurrentBalance|CalculateCurrentBalance|Обновлено|  
-|IncludeVATAmount||Перемещено в таблицу 81 "Строка финансового журнала"|  
+|IncludeVATAmount||Перемещено в таблицу 81 "Строка фин. журнала|  
 |CalcVATAmountFromVATEntry|CalcVATAmountFromVATEntry|Обновлено|  
 ||TotalVATAmountOnJnlLines|Добавление|  
 ||SetGLRegReverse|Добавление|  

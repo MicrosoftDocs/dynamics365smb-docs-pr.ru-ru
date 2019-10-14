@@ -1,5 +1,5 @@
 ---
-title: Планирование сервисных процессов | Документы Майкрософт
+title: Планирование сервисных процессов | Документация Майкрософт
 description: Описываются задачи по настройке правил и значений для определения политик и процессов сервиса.
 services: project-madeira
 documentationcenter: ''
@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: service, work hours, configure, price, pricing
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: bholtorf
-ms.openlocfilehash: 6a92b411eebe7e469d19b12dc1afbce9cf2f5dd3
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: ded3c6ba3fe0b2632597ffe717141aa41a2c42cf
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1250622"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2315976"
 ---
 # <a name="planning-services"></a>Планирование сервисов
 С помощью [!INCLUDE[d365fin](includes/d365fin_md.md)] можно настраивать стандартные задачи, необходимые для выполнения требований службы поддержки клиентов. Для этого необходимо определить, какие сервисные товары и предложения поддерживает ваша сервисная организация, и по какой цене.   

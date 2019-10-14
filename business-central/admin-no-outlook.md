@@ -1,5 +1,5 @@
 ---
-title: Использование Business Central без Outlook | Документы Майкрософт
+title: Использование Business Central без Outlook | Документация Майкрософт
 description: Решение Business Central можно использовать в качестве почтового ящика для бизнеса в Outlook, поскольку оно интегрировано с Office 365. Однако вы также можете работать без Outlook в браузере или на мобильном устройстве.
 documentationcenter: ''
 author: edupont04
@@ -9,14 +9,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: SMTP, mail, Office 365
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: edupont
-ms.openlocfilehash: beadf2b83468da9d453d9be8aaa8a39723ab3309
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: b876c4c9328705bc37e552d646fe3aed78e5617d
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1243656"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2307904"
 ---
 # <a name="using-business-central-without-outlook"></a>Использование Business Central без Outlook
 [!INCLUDE[d365fin](includes/d365fin_md.md)] имеет глубокую интеграцию с Office 365, и вы можете использовать [!INCLUDE[d365fin](includes/d365fin_md.md)] в качестве рабочего почтового ящика в Outlook. Но если у вас нет Outlook, вы можете работать с [!INCLUDE[d365fin](includes/d365fin_md.md)] в браузере или на мобильном устройстве.  

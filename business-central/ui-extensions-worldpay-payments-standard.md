@@ -1,5 +1,5 @@
 ---
-title: WorldPay Payments Standard| Документы Майкрософт
+title: WorldPay Payments Standard| Документация Майкрософт
 description: Предоставляет сведения о расширении WorldPay Payments Standard.
 services: project-madeira
 documentationcenter: ''
@@ -9,14 +9,14 @@ ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: bholtorf
-ms.openlocfilehash: a61fd494235a3c939822c423d4b0044ad0709e4d
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: 6d5fb029c43f8ebca157b5de2ab1af89a0e1c108
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1249288"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2311071"
 ---
 # <a name="the-worldpay-payments-standard-extension"></a>Расширение WorldPay Payments Standard
 Расширение WorldPay Payments Standard предоставляет клиентам удобную альтернативу осуществления платежей с помощью банковских переводов или кредитных карт. Кроме того, платежи, сделанные с помощью службы платежей, обычно поступают на банковский счет быстрее.

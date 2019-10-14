@@ -1,23 +1,23 @@
 ---
-title: Пользовательские и встроенные макеты отчетов и документов | Документы Майкрософт
+title: Пользовательские и встроенные макеты отчетов и документов | Документация Майкрософт
 description: Макеты отчетов служат для персонализации документов, например для настройки шрифтов, логотипов и параметров страниц PDF-файлов, которые вы отправляете клиентам.
 services: project-madeira
 documentationcenter: ''
-author: SusanneWindfeldPedersen
+author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: customized report, document layout, logo, personalize
-ms.date: 05/22/2019
-ms.author: solsen
-ms.openlocfilehash: e00ca327748ac84dc39e5de73c4bcaae97f26105
-ms.sourcegitcommit: bf5f89dfaf5ad9f8f9902941cf3dac3e9f3553e5
+ms.date: 10/01/2019
+ms.author: sgroespe
+ms.openlocfilehash: f64397d41eb4002221d9967b5b61145882aee0d6
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "1594291"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2315160"
 ---
 # <a name="managing-report-and-document-layouts"></a>Управление макетами отчетов и документов
 Макет отчета контролирует содержимое и формат отчета, включая то, какие поля данных набора данных отчета отображаются в нем и как они упорядочены, а также стиль текста, изображения и т. д. В [!INCLUDE[d365fin](includes/d365fin_md.md)] можно изменить используемый в отчете макет, создать новый макет или изменить текущие макеты.
@@ -56,7 +56,7 @@ ms.locfileid: "1594291"
 
 Процедура настройки макетов отчетов Word и RDLC в отчетах одинакова. Основное различие — в способе изменения макетов. Макеты отчетов Word, как правило, проще создавать и изменять, чем макеты отчетов RDLC, поскольку можно использовать Word. Макеты отчетов RDLC изменяются с помощью построителя отчетов SQL Server, предназначенного для более продвинутых пользователей.
 
-Дополнительные сведения о том, как изменять используемый макет, см. в разделе [Изменение макета, в настоящее время используемого в отчете](ui-how-change-layout-currently-used-report.md).
+Дополнительные сведения о том, как изменить используемый макет, см. в разделе [Смена текущего макета отчета](ui-how-change-layout-currently-used-report.md).
 
 ## <a name="see-also"></a>См. также
 [Обновление макетов отчетов или документов](ui-update-report-layouts.md)  
@@ -64,4 +64,4 @@ ms.locfileid: "1594291"
 [Создание и изменение пользовательского макета отчета или документа](ui-how-create-custom-report-layout.md)  
 [Импорт и экспорт пользовательского макета отчета или документа](ui-how-import-and-export-report-layout.md)  
 [Отправка документов по электронной почте](ui-how-send-documents-email.md)  
-[Работа с пакетными заданиями и отчетами](ui-work-report.md)  
+[Работа с отчетами, пакетными заданиями и XMLport](ui-work-report.md)  

@@ -1,5 +1,5 @@
 ---
-title: Задание учетных периодов | Документы Майкрософт
+title: Задание учетных периодов | Документация Майкрософт
 description: Вы должны задать даты начала и окончания учета, чтобы определить, когда пользователи могут осуществлять учет в главной книге.
 services: project-madeira
 documentationcenter: ''
@@ -11,20 +11,20 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: user setup
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 8e3fb38377719b6fd10d2c3e3f1f162ea8bfdf62
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: 14ffdb7d4be38949a31aebeb86e6312a5e3128aa
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1242702"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2306152"
 ---
 # <a name="specify-posting-periods"></a>Задание учетных периодов
 Используйте учетные периоды для указания того, когда пользователи могут выполнять учет в главной книге.  
 
 ## <a name="to-specify-posting-periods"></a>Задание учетных периодов
-1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка ГК**, затем выберите связанную ссылку.  
+1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка ГК**, а затем выберите соответствующую ссылку.  
 2. На странице **Настройка ГК** определите период, введя даты в поля **Разрешить учет с** и **Разрешить учет по**.  
 
 > [!NOTE]  

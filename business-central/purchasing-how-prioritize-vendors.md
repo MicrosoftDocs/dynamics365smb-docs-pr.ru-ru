@@ -1,5 +1,5 @@
 ---
-title: Назначение уровня приоритета поставщику | Microsoft Docs
+title: Назначение уровня приоритета поставщику | Документация Майкрософт
 description: Вы можете назначать номера поставщика для их приоритизации и поддержки функции предложений платежей в Business Central.
 services: project-madeira
 documentationcenter: ''
@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: supplier, payment priority
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: c709539b24aa1f94c86dee26dd63adead39c892b
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: 2586e9a5af338bee79bf73b494a7a653b6bfc2f2
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1252369"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2312536"
 ---
 # <a name="prioritize-vendors"></a>Назначение приоритетов поставщикам
 В [!INCLUDE[d365fin](includes/d365fin_md.md)] предлагаются различные виды оплат поставщикам, например оплаты, которые должны быть произведены быстро, или оплаты, для которых возможны скидки. Дополнительные сведения см. в разделе [Предложение оплаты поставщикам](payables-how-suggest-vendor-payments.md).
@@ -25,7 +25,7 @@ ms.locfileid: "1252369"
 Во-первых, следует назначить приоритеты поставщикам путем назначения им номеров.
 
 ## <a name="to-prioritize-vendors"></a>Назначение приоритета поставщикам
-1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Поставщики**, затем выберите связанную ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Поставщики**, а затем выберите соответствующую ссылку.
 2. Выберите соответствующего поставщика, а затем выберите **Правка**.
 3. В поле **Приоритет** введите номер.
 

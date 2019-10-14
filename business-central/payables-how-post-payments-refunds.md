@@ -1,5 +1,5 @@
 ---
-title: Применение платежей к связанным документам и их учет | Microsoft Docs
+title: Применение платежей к связанным документам и их учет | Документация Майкрософт
 description: Описывается процедура регистрации платежей в адрес поставщиков и возвратов в адрес клиентов.
 author: edupont04
 ms.service: dynamics365-business-central
@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: payment journal, print check, vendor payment, customer refund, creditor, debt, balance due, AP
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: edupont
-ms.openlocfilehash: 8be7de94b64cb89593df3ea028ab71dddd3d9541
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: 5f9301541e73b4137f6c241a18e2f25c4009fc76
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1253980"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2314296"
 ---
 # <a name="record-payments-and-refunds-in-the-payment-journal"></a>Запись платежей и возмещения в журнале платежей
 
@@ -37,7 +37,7 @@ ms.locfileid: "1253980"
 
 ## <a name="to-make-payments-in-the-payment-journal"></a>Чтобы сделать оплату в журнале платежей
 
-1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Журналы платежей**, затем выберите связанную ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Журналы платежей**, а затем выберите соответствующую ссылку.
 2. Откройте раздел журнала, предназначенный для платежей.
 3. Если вы знаете, в чей адрес совершается оплата или возврат, заполните поля вручную. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 4. Чтобы одновременно применить платеж к соответствующему счету или кредит-ноте, выберите поле **Примен. к док. - номер**, на странице **Применить операции поставщика** выберите соответствующий счет или кредит-ноту, а затем нажмите кнопку **ОК**.

@@ -1,5 +1,5 @@
 ---
-title: Проверка и учет операции закрытия года | Документы Майкрософт
+title: Проверка и учет операции закрытия года | Документация Майкрософт
 description: Описывается порядок открытия журнала, указанного в пакетном задании "Закрытие отчета о прибылях и убытках", и проверки и учета операции закрытия года.
 services: project-madeira
 documentationcenter: ''
@@ -10,20 +10,20 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: year closing, close accounting period, close fiscal year, bank account detailed trial balance
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: jswymer
-ms.openlocfilehash: 878079fd02a2d54ae6b878fa54c7006dee779c15
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: bafb11ebe021a07ad9f9d8b9af36e68cf9cb94d0
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1249679"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2314356"
 ---
 # <a name="post-the-year-end-closing-entry"></a>Учет операции закрытия года
 После использования пакетного задания **Закрытие отчета о прибылях и убытках** для создания закрывающей операции (операций) на конец года необходимо открыть журнал, указанный для пакетного задания, и затем просмотреть и учесть записи.
 
 ## <a name="to-post-the-year-end-closing-entry"></a>Учет операции закрытия года
-1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Финансовый журнал**, затем выберите связанную ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Финансовый журнал**, а затем выберите соответствующую ссылку.
 2. На странице **Финансовый журнал** в поле **Код раздела** выберите раздел, который содержит закрывающие операции.
 3. Проверьте записи.
 4. Чтобы учесть журнал, выберите действие **Учет**.

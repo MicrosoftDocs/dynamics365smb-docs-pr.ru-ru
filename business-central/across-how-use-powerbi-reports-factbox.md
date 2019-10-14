@@ -1,5 +1,5 @@
 ---
-title: Отображение пользовательских отчетов Power BI | Microsoft Docs
+title: Отображение пользовательских отчетов Power BI | Документация Майкрософт
 description: Можно использовать отчеты Power BI для сбора дополнительных сведений о данных в списках.
 author: edupont04
 ms.service: dynamics365-business-central
@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: business intelligence, KPI, Odata, Power App, SOAP, analysis
-ms.date: 07/08/2019
+ms.date: 10/01/2019
 ms.author: edupont
-ms.openlocfilehash: acf9462db8b4f559a5fbc40381b4e5009cdac088
-ms.sourcegitcommit: 519623f9a5134c9ffa97eeaed0841ae59835f453
+ms.openlocfilehash: a8acad8d0be760f567902587acada49ab68e740f
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "1755199"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2304938"
 ---
 # <a name="viewing-list-data-in-power-bi-reports-in-business-central"></a>Просмотр данных в списках в отчетах Power BI в Business Central
 

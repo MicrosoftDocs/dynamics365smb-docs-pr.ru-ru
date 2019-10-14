@@ -1,5 +1,5 @@
 ---
-title: Продажа Business Central | Документы Майкрософт
+title: Продажа Business Central | Документация Майкрософт
 description: Узнайте, как расширить свои бизнес-возможности и стать партнером Майкрософт и реселлером Business Central.
 author: edupont04
 ms.service: dynamics365-business-central
@@ -8,16 +8,16 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: microsoft partner
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: edupont
-ms.openlocfilehash: c1ebab10e91fe1dabe26930891c1ef01e4bf79f7
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: 996dc8200518dea40b59756a74f7d93562a1ca8a
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1253644"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2313496"
 ---
-# <a name="become-a-reseller-of-included365finlongincludesd365finlongmdmd"></a>Станьте торговым посредником [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]
+# <a name="become-a-reseller-of-included365fin_longincludesd365fin_long_mdmd"></a>Станьте торговым посредником [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]
 Расширьте бизнес-возможности с помощью [!INCLUDE[d365fin](includes/d365fin_md.md)]!  
 
 Если вы специализируетесь на облачных решениях, Office 365, SharePoint, промышленных решениях, аналитике, ERP, CRM, ПО учета или ПО оптимизации бизнес-процессов, Business Central — новая возможность для вас.   

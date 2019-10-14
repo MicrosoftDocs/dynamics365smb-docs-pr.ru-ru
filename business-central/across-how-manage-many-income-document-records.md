@@ -1,5 +1,5 @@
 ---
-title: Определение входящих документов, которые должны быть видны| Microsoft Docs
+title: Определение входящих документов, которые должны быть видны| Документация Майкрософт
 description: Корректируйте представление по умолчанию для входящих документов, например для электронных счетов, чтобы иметь лучшее представление обработанных и необработанных записей.
 services: project-madeira
 documentationcenter: ''
@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: electronic document, e-invoice, incoming document, OCR, ecommerce, document exchange, import invoice
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 429e276b094a8296daab8e229d60a6dd16246b53
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: 5401b8049e13d594f3429c97cfff915fc944c733
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1239962"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2305576"
 ---
 # <a name="manage-many-incoming-document-records"></a>Управление большим количеством записей входящих документов
 По мере создания или обработки записей входящих документов количество строк на странице **Входящие документы** может увеличиться настолько, что вам сложно будет иметь общее представление об этих документах. Поэтому вы можете установить для записей входящих документов статус "Обработано", чтобы они не отображались в представлении по умолчанию. При выборе действий **Показать все** вы можете просматривать как обработанные, так и необработанные записи.

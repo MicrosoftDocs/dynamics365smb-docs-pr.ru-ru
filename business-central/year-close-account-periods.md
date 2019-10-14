@@ -1,5 +1,5 @@
 ---
-title: Закрытие учетных периодов для финансового года | Документы Майкрософт
+title: Закрытие учетных периодов для финансового года | Документация Майкрософт
 description: Описывается порядок закрытия учетных периодов, составляющих финансовый год.
 services: project-madeira
 documentationcenter: ''
@@ -10,20 +10,20 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: year closing, close accounting period, close fiscal year, bank account detailed trial balance
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: jswymer
-ms.openlocfilehash: e51d25b90a3f51953479906a35380541e02d7380
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: ba6cd85d50f9d2b4d98fb45cbd38bcc57e08e3a2
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1248488"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2313812"
 ---
 # <a name="close-accounting-periods"></a>Закрытие учетных периодов
 При завершении финансового года следует завершить периоды, которые его образуют.
 
 ## <a name="to-close-accounting-periods"></a>Практическое руководство. Закрытие учетных периодов
-1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Учетные периоды**, затем выберите связанную ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Учетные периоды**, а затем выберите соответствующую ссылку.
 2. На странице **Учетные периоды** выберите действие **Закрыть год**.
 
     Если открыто несколько финансовых лет, автоматически считается, что должен быть закрыт более ранний год. Отображается сообщение, указывающее подлежащий закрытию год и сообщающее о последствиях закрытия года.

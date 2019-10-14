@@ -1,5 +1,5 @@
 ---
-title: Использование расширения PayPal Payments Standard | Microsoft Docs
+title: Использование расширения PayPal Payments Standard | Документация Майкрософт
 description: Описывается порядок использования расширения, чтобы клиенты могли совершать платежи через PayPal.
 services: project-madeira
 documentationcenter: ''
@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms. search.keywords: app, add-in, manifest, customize
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: f715108b17d355084fee7983e106cd33dd476906
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: f295ab10d30f5a22f924ec3ad76548375f929b7c
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1249771"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2315448"
 ---
 # <a name="the-paypal-payments-standard-extension"></a>Расширение PayPal Payments Standard
 Клиенты постоянно требуют более высокого качества обслуживания как с точки зрения качества продукции, так и с точки зрения вариантов доставки и оплаты. Служба стандарта платежей PayPal помогает улучшить качество обслуживания.

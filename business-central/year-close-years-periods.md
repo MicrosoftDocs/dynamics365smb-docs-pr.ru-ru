@@ -1,5 +1,5 @@
 ---
-title: Закрытие финансового года и учетных периодов | Документы Майкрософт
+title: Закрытие финансового года и учетных периодов | Документация Майкрософт
 description: Описываются задачи по закрытию финансового года или учетного периода, например, проверка того, что документы и журналы учтены, а также сверка балансов банковских счетов.
 services: project-madeira
 documentationcenter: ''
@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: year closing, close accounting period, close fiscal year, bank account detailed trial balance
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: jswymer
-ms.openlocfilehash: 13f8d163a15424acdf47849551a16fd1a34f4205
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: 3d236654bb5ee2786d8cfaf3479a883b01795a4a
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1247770"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2314392"
 ---
 # <a name="closing-years-and-periods"></a>Закрытие года и периодов
 В конце финансового года существует ряд административных задач, которые необходимо выполнить, чтобы убедиться, что все документы и журналы учтены, данные о валюте актуальны, книги закрыты и т. д. Фактические задачи будут зависеть от вашей организации.

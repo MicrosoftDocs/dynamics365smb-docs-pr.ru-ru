@@ -1,5 +1,5 @@
 ---
-title: Настройка учетных записей пользователя для интеграции с Dynamics 365 for Sales | Документы Майкрософт
+title: Настройка учетных записей пользователей для интеграции с Dynamics 365 Sales | Документация Майкрософт
 description: Узнайте, как настроить учетные записи пользователей, которые приложения используют для обмена данными, и что используют люди для доступа к данным в приложениях и их синхронизации.
 services: project-madeira
 documentationcenter: ''
@@ -10,16 +10,16 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: bholtorf
-ms.openlocfilehash: 0f59324e41695e35e09a2dd970492acb3a8dba58
-ms.sourcegitcommit: 8fe694b7bbe7fc0456ed5a9e42291218d2251b05
+ms.openlocfilehash: a876df301476cb6b4af335e8ee957de26865cbaa
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/04/2019
-ms.locfileid: "1726886"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2307832"
 ---
-# <a name="setting-up-user-accounts-for-integrating-with-dynamics-365-for-sales"></a>Настройка учетных записей пользователя для интеграции с Dynamics 365 for Sales
+# <a name="setting-up-user-accounts-for-integrating-with-dynamics-365-sales"></a>Настройка учетных записей пользователей для интеграции с Dynamics 365 Sales
 Эта статья содержит обзор порядка настройки учетных записей пользователей, которые требуются для интеграции [!INCLUDE[crm_md](includes/crm_md.md)] с [!INCLUDE[d365fin](includes/d365fin_md.md)].  
 
 > [!VIDEO https://go.microsoft.com/fwlink/?linkid=2085500]
@@ -36,14 +36,14 @@ ms.locfileid: "1726886"
 > Не используйте учетную запись администратора для [!INCLUDE[crm_md](includes/crm_md.md)] для синхронизации. Если это сделать, синхронизация будет нарушена.
 > Кроме того, чтобы избежать постоянной синхронизации, изменения данных, которые вносятся учетной записью пользователя интеграции не синхронизируются. <!--What changes would this account make?--> После установления подключения рекомендуется настроить режим доступа для учетной записи пользователя для интеграции на неинтерактивный режим в [!INCLUDE[crm_md](includes/crm_md.md)]. Дополнительные сведения см. в разделе [Создание неинтерактивной учетной записи пользователя](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/admin/create-users-assign-online-security-roles#create-a-non-interactive-user-account).
 
-## <a name="setting-up-accounts-for-sales-people"></a>Настройка учетных записей для менеджеров по продаже
+## <a name="setting-up-accounts-sales-people"></a>Настройка учетных записей менеджеров по продажам
 Следует создать учетные записи пользователей в [!INCLUDE[d365fin](includes/d365fin_md.md)] для менеджеров по продажам из [!INCLUDE[crm_md](includes/crm_md.md)]. Чтобы упростить эту операцию, центр администрирования Microsoft 365 предлагает шаблон Excel, который можно использовать. На странице **Активные пользователи** выберите **Дополнительно**, затем — **Импорт нескольких пользователей**. Выберите **Загрузить только CSV-файл с заголовками**, затем введите информацию для менеджеров по продажам. Чтобы посмотреть пример, выберите **Загрузить CSV-файл с заголовками и примерами сведений о пользователях**. После ввода информации о пользователях, следующим шагом процесса импорта будет назначить пользователям лицензии план Dynamics 365 Customer Engagement.  
 
 После импорта пользователей и назначения им лицензий для Dynamics 365 Customer Engagement необходимо назначить пользователей роли **Менеджер по продажам** в [!INCLUDE[crm_md](includes/crm_md.md)].
 
-![Связывание менеджеров по продажам с пользователями в Dynamics 365 for Sales](media/couple-salespeople.png "Визуализация связывания менеджеров по продажам с пользователями в Dynamics 365 for Sales")
+![Связывание менеджеров по продажам с пользователями в Dynamics 365 Sales](media/couple-salespeople.png "Визуализация связывания менеджеров по продажам с пользователями в Dynamics 365 Sales")
 
-## <a name="minimum-permissions-for-user-accounts-in-includecrmmdincludescrmmdmd"></a>Минимальные разрешения для учетных записей пользователей в [!INCLUDE[crm_md](includes/crm_md.md)]
+## <a name="minimum-permissions-for-user-accounts-in-includecrm_mdincludescrm_mdmd"></a>Минимальные разрешения для учетных записей пользователей в [!INCLUDE[crm_md](includes/crm_md.md)]
 При установке решения интеграции разрешения для учетной записи пользователя интеграции настраиваются в [!INCLUDE[crm_md](includes/crm_md.md)], Если эти разрешения изменены, вам может потребоваться сбросить их. Это можно сделать, переустановив решение интеграции или сбросив их вручную. В следующих таблицах перечислены минимальные разрешения для учетных записей пользователей в [!INCLUDE[crm_md](includes/crm_md.md)].
 
 ### <a name="integration-administrator"></a>Администратор интеграции
@@ -135,4 +135,4 @@ ms.locfileid: "1726886"
 |Подключение к Dynamics 365 Business Central|Глобальная|Чтение|Чтение|Чтение|
 
 ## <a name="see-also"></a>См. также  
-[Интеграция с Dynamics 365 for Sales](admin-prepare-dynamics-365-for-sales-for-integration.md)  
+[Интеграция с Dynamics 365 Sales](admin-prepare-dynamics-365-for-sales-for-integration.md)  

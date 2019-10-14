@@ -1,5 +1,5 @@
 ---
-title: Практическое руководство. Настройка экспедиторов | Документы Майкрософт
+title: Практическое руководство. Настройка экспедиторов | Документация Майкрософт
 description: Для каждого экспедитора можно задать код и указать соответствующую информацию.
 services: project-madeira
 documentationcenter: ''
@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 06/17/2019
+ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 6d931625ef469a0b156d2794de7eda131213f28f
-ms.sourcegitcommit: 6dc83b27ac47f3b39a7b84cfb7446e7f48b8ce63
+ms.openlocfilehash: 27b362c9c9aabec842e28e631ca2b93c1515f2fc
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/17/2019
-ms.locfileid: "1632687"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2311984"
 ---
 # <a name="set-up-shipping-agents"></a>Настройка экспедиторов
 Для каждого экспедитора можно задать код и указать соответствующую информацию.  
@@ -30,7 +30,7 @@ ms.locfileid: "1632687"
 После того, как для строки продажи задана услуга экспедитора, время отгрузки для услуги будет включаться в расчет сроков по заказу для данной строки. Дополнительные сведения см. в разделе [Расчет сроков планирования заказов](sales-how-to-calculate-order-promising-dates.md).
 
 ## <a name="to-set-up-a-shipping-agent"></a>Настройка экспедитора  
-1.  Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Экспедиторы**, затем выберите связанную ссылку.  
+1.  Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Экспедиторы**, а затем выберите соответствующую ссылку.  
 2.  Заполните соответствующим образом поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)].  
 3.  Выберите действие **Услуги экспедитора**.
 4. В поле **Услуги экспедитора** заполните требуемые поля.

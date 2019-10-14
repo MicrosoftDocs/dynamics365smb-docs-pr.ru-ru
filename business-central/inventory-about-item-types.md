@@ -1,5 +1,5 @@
 ---
-title: Общее представление о типах товаров | Документы Майкрософт
+title: Общее представление о типах товаров | Документация Майкрософт
 description: Вы можете корректировать оценку стоимости запасов товара с помощью методов FIFO или средней себестоимости, например при изменении себестоимости по причине, не связанной с другими транзакциями.
 services: project-madeira
 documentationcenter: ''
@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 7e535abbc3fb61a958f63f648cca6694199acdc8
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: 91a0a1d00972f33d3d934e12274a8567b8157cea
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1242426"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2308552"
 ---
 # <a name="about-item-types"></a>О типах товаров
 В поле **Тип** на странице **Карточка товара** можно выбрать, для чего используется товар в вашем бизнесе и, поэтому, как он обрабатывается в системе. Имеются три варианта:

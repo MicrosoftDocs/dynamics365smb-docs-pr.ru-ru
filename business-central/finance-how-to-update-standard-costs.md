@@ -1,5 +1,5 @@
 ---
-title: Практическое руководство. Обновление стандартных себестоимостей | Microsoft Docs
+title: Практическое руководство. Обновление стандартных себестоимостей | Документация Майкрософт
 description: Необходимо периодически обновлять стандартные себестоимости компонентов и развертывать новые стоимости вплоть до родительского товара.
 services: project-madeira
 documentationcenter: ''
@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: c1f8f0bf70a72944d216f2b948224cd9f706bdff
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: b99d9516407b6752644d985405d3dc48b5f95117
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1238812"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2305864"
 ---
 # <a name="update-standard-costs"></a>Обновление стандартных себестоимостей
 Необходимо периодически обновлять стандартные себестоимости компонентов и развертывать новые стоимости вплоть до родительского товара. Процесс обычно состоит из следующих четырех этапов:  

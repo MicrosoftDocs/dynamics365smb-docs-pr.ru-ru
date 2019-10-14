@@ -1,5 +1,5 @@
 ---
-title: Использование расширения для миграции данных QuickBooks | Microsoft Docs
+title: Использование расширения для миграции данных QuickBooks | Документация Майкрософт
 description: Описывает, как использовать расширение для миграции клиентов, поставщиков, товаров и счетов из QuickBooks Online в Business Central.
 author: bholtorf
 ms.service: dynamics365-business-central
@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms. search.keywords: extension, migrate, data, QuickBooks, import
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: bholtorf
-ms.openlocfilehash: e84632605c528bd2c968beb6b6bc0dca05c74502
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: bbfbb187ff533a2c786d0a5b4aa26a20518f760b
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1250415"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2315424"
 ---
 # <a name="the-quickbooks-online-data-migration-extension"></a>Расширение миграции данных QuickBooks Online
 Это расширение входит в руководстве по сопровождаемой настройке **Миграция данных**, которое помогает переносить важные бизнес-данные из QuickBooks Online в [!INCLUDE[d365fin](includes/d365fin_md.md)]. Например, это бывает полезно, если ваш бизнес расет, и вы решили обновить свое приложение для управления бизнесом и перейти на [!INCLUDE[d365fin](includes/d365fin_md.md)].

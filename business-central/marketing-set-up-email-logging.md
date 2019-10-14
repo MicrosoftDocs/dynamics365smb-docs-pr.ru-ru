@@ -1,5 +1,5 @@
 ---
-title: Настройка регистрации электронной почты | Документы Майкрософт
+title: Настройка регистрации электронной почты | Документация Майкрософт
 description: Узнайте, как превратить взаимодействие по электронной почте между продавцами и клиентами в реальные возможности продаж.
 services: project-madeira
 documentationcenter: ''
@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: relationship, prospect, opportunity, email
-ms.date: 08/26/2019
+ms.date: 10/01/2019
 ms.author: bholtorf
-ms.openlocfilehash: e42618be17ff4f9bfe0d54a88e70d5a1841568c1
-ms.sourcegitcommit: 8d9f08304b2f3b5504332bc626383797564ac5e3
+ms.openlocfilehash: e325cce98256b723c6fcfdf4d16068f852a2b032
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2019
-ms.locfileid: "1920470"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2308744"
 ---
 # <a name="track-email-message-exchanges-between-salespeople-and-contacts"></a>Отслеживание обмена сообщениями электронной почты между продавцами и контактами
 Получите больше от общения между продавцами и вашими существующими или потенциальными клиентами, отслеживая обмен сообщениями электронной почты, затем превращая их в реальные возможности. [!INCLUDE[d365fin](includes/d365fin_md.md)] может работать с Exchange Online, чтобы вести журнал входящих и исходящих сообщений. Вы можете просматривать и анализировать содержимое каждого сообщения на странице **Журналы взаимодействий**.

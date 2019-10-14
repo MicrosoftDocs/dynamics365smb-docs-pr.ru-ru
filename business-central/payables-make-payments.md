@@ -1,5 +1,5 @@
 ---
-title: Обзор задач управления платежами поставщикам | Microsoft Docs
+title: Обзор задач управления платежами поставщикам | Документация Майкрософт
 description: Описываются задачи по управлению платежами поставщикам или кредиторам, включая учет строк платежей и получение обзора сумм к оплате.
 author: edupont04
 ms.service: dynamics365-business-central
@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: print check, vendor payment, creditor, debt, balance due, AP
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: edupont
-ms.openlocfilehash: 4ece210d5dd8f7748b6c7031bb0fedf571b61c9c
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: 0606d5ab3130844be35bc7d0bcba210c83bf3e70
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1253175"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2313640"
 ---
 # <a name="making-payments"></a>Осуществление платежей
 

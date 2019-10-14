@@ -1,5 +1,5 @@
 ---
-title: Отслеживание сегментов и соответствующих взаимодействий | Документы Майкрософт
+title: Отслеживание сегментов и соответствующих взаимодействий | Документация Майкрософт
 description: Узнайте о создании сегментов для определения групп контактов и определения взаимодействий для сегментов.
 services: project-madeira
 documentationcenter: ''
@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: relationship, prospect
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: jswymer
-ms.openlocfilehash: aeed39953f6b5219dcc290a3416a9dd7e2e69d89
-ms.sourcegitcommit: dac212009aadf3227e54c99976c438f6e56f182a
+ms.openlocfilehash: d30294d3d164ebbb6ea8b79ca38f23274900de5e
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/02/2019
-ms.locfileid: "1446765"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2308984"
 ---
 # <a name="manage-interactions-for-segments"></a>Управление взаимодействиями для сегментов
 Страница **Сегмент** является своеобразным рабочим листом, где можно:

@@ -1,5 +1,5 @@
 ---
-title: Обзор задач для предоставления услуг | Документы Майкрософт
+title: Обзор задач для предоставления услуг | Документация Майкрософт
 description: Описываются задачи, которые нужно настроить, чтобы предоставлять качественное обслуживание и выполнять условия соглашений с клиентами.
 services: project-madeira
 documentationcenter: ''
@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: service, service items, respond, response
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 5d7180ad4eb26dc0f42432545da5f0abef5e9d02
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: 08989bb6903aa9f236b89d55d4b54af4db51cf1a
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1250975"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2311912"
 ---
 # <a name="delivering-service"></a>Предоставление услуги
 В [!INCLUDE[d365fin](includes/d365fin_md.md)] предусмотрены функции, упрощающие процесс предоставления услуг по созданным контрактам и переданным на выполнение сервисным заказам. С помощью **панели диспетчера** технический персонал и диспетчеры могут легко находить невыполненные сервисные заказы. **Панель диспетчера** позволяет с первого взгляда определить, какие заказы выполняются, а какие уже выполнены заказы.  

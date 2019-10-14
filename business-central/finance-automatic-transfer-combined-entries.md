@@ -1,5 +1,5 @@
 ---
-title: Автоматическое перемещение и объединенные операции | Документы Майкрософт
+title: Автоматическое перемещение и объединенные операции | Документация Майкрософт
 description: В модуле "Учет затрат" можно переместить операции Главной книги по типу затрат с помощью комбинированного учета. В поле **Объединить операции** в определении типа затрат можно указать, используются ли для типа затрат объединенные операции. В следующей таблице описаны разные параметры.
 services: project-madeira
 documentationcenter: ''
@@ -10,15 +10,15 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: sgroespe
 redirect_url: finance-transfer-and-post-cost-entries
-ms.openlocfilehash: 8f6b5328b3a7b8cdcb4582deda363bdd0361ed9a
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: 0c07e470c1df8b9d9b5e7f7c833ff83b3c61be69
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1238996"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2306440"
 ---
 # <a name="automatic-transfer-and-combined-entries"></a>Автоматическое перемещение и объединенные операции
 В модуле "Учет затрат" можно переместить операции Главной книги по типу затрат с помощью комбинированного учета. В поле **Объединить операции** в определении типа затрат можно указать, используются ли для типа затрат объединенные операции. В следующей таблице описаны разные параметры.  

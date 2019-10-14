@@ -1,5 +1,5 @@
 ---
-title: Работа с входящими документами | Документы Майкрософт
+title: Работа с входящими документами | Документация Майкрософт
 description: Вы можете управлять входящими документами, например квитанциями о входящих платежах или PDF-документами, управлять задачами OCR и преобразовывать файлы в электронные документы и записи.
 services: project-madeira
 documentationcenter: ''
@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: electronic document, e-invoice, incoming document, OCR, ecommerce, document exchange, import invoice
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 7d5da0999a2e1b549018b104bd02830939154884
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: f3ff7d711e7a8f7bfe7acf44c8cd648dcb7a591e
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1240422"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2304857"
 ---
 # <a name="incoming-documents"></a>Входящие документы
 Несколько бизнес-транзакций не записаны в [!INCLUDE[d365fin](includes/d365fin_md.md)] с самого начала. Вместо этого ваша компания получает внешний бизнес-документ в виде вложения в сообщение электронной почты или бумажной копии, которая будет отсканирована в файл. Это характерно для покупок, где такие файлы исходящих документов представляют денежные поступления за расходы или небольшие покупки.

@@ -1,5 +1,5 @@
 ---
-title: Бизнес-аналитика | Документы Майкрософт
+title: Бизнес-аналитика | Документация Майкрософт
 description: Фиксируйте и анализируйте бизнес-данные, например цифры продаж, покупок, текущих расходов, оплаты труда сотрудников и бюджеты, которые могут представлять собой ценную информацию для бизнес-аналитики и принятия решений.
 services: project-madeira
 documentationcenter: ''
@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: bi, power BI, analysis, KPI
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 21042f9eb55413a6627dab830091686e06c34acc
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: 7253e4fc4e4f1418a7c9bd1e2ac5e19298e4fb57
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1246914"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2308343"
 ---
 # <a name="business-intelligence"></a>Бизнес-аналитика
 Во время делового процесса в организации обрабатываются огромные объемы данных. Эти данные, отражающие цифры продаж, покупок, текущих расходов, оплаты труда сотрудников, сальдо и т. д., могут представлять из себя ценную информацию, или интеллектуальные ресурсы, для принятия решений. [!INCLUDE[d365fin](includes/d365fin_md.md)] содержит множество функций, помогающих собирать, анализировать и совместно использовать данные организации.

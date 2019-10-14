@@ -1,5 +1,5 @@
 ---
-title: Импорт данных о зарплате с помощью расширения "Зарплата Ceridian" | Microsoft Docs
+title: Импорт данных о зарплате с помощью расширения "Зарплата Ceridian" | Документация Майкрософт
 description: Это расширение позволяет импортировать транзакции зарплаты из служб Ceridian HR/Payroll (США) и Ceridian PowerPay (Канада).
 services: project-madeira
 documentationcenter: ''
@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms. search.keywords: app, add-in, manifest, customize, salary, wage
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 6bf5796a5e438995d039f2e40d7dbec3ccdc8cf1
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: 1dd13b3a0b1f11c5ba0b358fba7061b166d7b62c
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1250139"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2315554"
 ---
 # <a name="the-ceridian-payroll-extension"></a>Расширение зарплаты Ceridian
 Для учета выплаты зарплаты и связанных транзакций необходимо импортировать и учесть финансовые транзакции, сделанные поставщиком системы зарплаты, в главную книгу.

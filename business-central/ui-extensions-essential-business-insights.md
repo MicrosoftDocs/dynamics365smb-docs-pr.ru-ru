@@ -1,5 +1,5 @@
 ---
-title: Отображение аналитики с возможностью действий в ролевых центрах | Microsoft Docs
+title: Отображение аналитики с возможностью действий в ролевых центрах | Документация Майкрософт
 description: Расширение Essential Business Insights обеспечивает ротацию серий бизнес-аналитик в ролевых центрах.
 documentationcenter: ''
 author: bholtorf
@@ -9,14 +9,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: BI, add-in, insight, headline, data
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: bholtorf
-ms.openlocfilehash: 3848005cc0159a52143903362a8f9b5e0efadfa9
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: 08a955f9fb2698b95e8cc92648be0e7c0bfe6e6c
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1250001"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2311264"
 ---
 # <a name="the-essential-business-insights-extension"></a>Расширение Essential Business Insights
 Расширение Essential Business Insights находит интересные бизнес-сведения в данных вашей организации и отображает их в виде газетных заголовков в ролевых центрах. В зависимости от того, что это расширение находит в данных, аналитика поступает за прошлую неделю, месяц или три месяца от текущей даты. Аналитика обновляется каждые 10 минут.  

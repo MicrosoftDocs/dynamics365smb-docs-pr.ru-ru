@@ -1,23 +1,23 @@
 ---
-title: Сведения о проектировании — округление | Документы Майкрософт
+title: Сведения о проектировании — округление | Документация Майкрософт
 description: Округление остатков может быть выполнено при переоценке себестоимости расхода склада, измеренного при количестве, отличном от соответствующего прихода склада. Округление остатков рассчитываются для всех методов учета себестоимости при выполнении пакетного задания **Коррекция себест. запасов**.
 services: project-madeira
 documentationcenter: ''
 author: SorenGP
-ms.service: dynamics365-financials
+ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 07/01/2017
+ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: d4a4893ade7d89ad7874fd489cd7a74e4ae914e2
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: a5cee9272d628b5046edc6aeed4d53b43a754752
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1239456"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2306872"
 ---
 # <a name="design-details-rounding"></a>Сведения о проектировании: округление
 Округление остатков может быть выполнено при переоценке себестоимости расхода склада, измеренного при количестве, отличном от соответствующего прихода склада. Округление остатков рассчитываются для всех методов учета себестоимости при выполнении пакетного задания **Коррекция себест. запасов**.  

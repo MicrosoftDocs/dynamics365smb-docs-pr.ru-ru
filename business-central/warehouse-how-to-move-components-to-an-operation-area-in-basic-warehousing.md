@@ -1,5 +1,5 @@
 ---
-title: Как перемещать компоненты в производственную зону в основных конфигурациях склада | Документы Майкрософт
+title: Как перемещать компоненты в производственную зону в основных конфигурациях склада | Документация Майкрософт
 description: Если производственные операции выполняются на складе, необходимо переместить товары между внутренними ячейками, чтобы ответить на внутренние документы-источники, например продукцию, сборку или сервисные заказы на складе.
 services: project-madeira
 documentationcenter: ''
@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 0c14ae1300d0e569e04159484da6ffb6e0541947
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: ce7830c4fa7c40bb0da08ba27fac6b5a9121c50a
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1248805"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2310352"
 ---
 # <a name="move-components-to-an-operation-area-in-basic-warehouse-configurations"></a>Перемещение компонентов в производственную зону в базовых конфигурациях склада
 Если производственные операции выполняются на складе, необходимо переместить товары между внутренними ячейками, чтобы ответить на внутренние документы-источники, например продукцию, сборку или сервисные заказы на складе.  

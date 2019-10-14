@@ -1,23 +1,23 @@
 ---
-title: Настройка банковских операций | Документы Майкрософт
+title: Настройка банковских операций | Документация Майкрософт
 description: Карточки банковских счетов служат для отслеживания банковских счетов и настройки банковских выписок, например Yodlee, для обмена данными.
 services: project-madeira
 documentationcenter: ''
 author: SorenGP
-ms.service: dynamics365-financials
+ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: Yodlee, feed, stream, data exchange, AMC, link
-ms.date: 06/02/2016
+ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 05cf51ae4d09dc0b023782f7f68e514eb8668be8
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: 1dbbc8ff96f381a5e52c67eac9dfe2c91ee17eb5
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1244105"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2303992"
 ---
 # <a name="setting-up-banking"></a>Настройка банковских операций
 Используя карточки банковских счетов, можно отслеживать все банковские счета в любой валюте. После настройки банковских счетов можно также использовать параметр печати платежных документов.

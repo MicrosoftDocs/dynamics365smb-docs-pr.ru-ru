@@ -1,5 +1,5 @@
 ---
-title: Синхронизация контактов с клиентами и поставщиками | Документы Майкрософт
+title: Синхронизация контактов с клиентами и поставщиками | Документация Майкрософт
 description: Вы можете связать или синхронизировать информацию о контактах, т. е. о клиентах, поставщиках или банковских счетах, чтобы централизованно обновлять эту информацию.
 services: project-madeira
 documentationcenter: ''
@@ -10,15 +10,15 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: relationship, CRM, integration, couple
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: edupont
 redirect_url: marketing-create-contact-companies
-ms.openlocfilehash: 96ec0862cf93cf9b0bf240ef65bc7ff79b3ccfb5
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: f102b6dac47732d96aff8413697c172fbea3f687
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1242279"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2308648"
 ---
 # <a name="synchronizing-contacts-with-customers-vendors-and-bank-accounts"></a>Синхронизация контактов с клиентами, поставщиками и банковскими счетами
 Если какие-то контакты являются еще и клиентами, поставщиками или банковскими счетами, можно синхронизировать контактную информацию с соответствующим клиентом, поставщиком или банковским счетом. Синхронизация делает общую информацию между контактами и клиентами, поставщиками или банковским счетом одинаковой.  

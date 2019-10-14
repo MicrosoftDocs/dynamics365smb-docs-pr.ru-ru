@@ -1,5 +1,5 @@
 ---
-title: Сведения о проектировании — выверка с главной книгой | Документы Майкрософт
+title: Сведения о проектировании — выверка с главной книгой | Документация Майкрософт
 description: В этом разделе рассматривается выверка с главной книгой при учете складских транзакций, таких как расходные накладные продажи, выпущенная продукция или отрицательные коррекции.
 services: project-madeira
 documentationcenter: ''
@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: design, reconciliation, general ledger, inventory
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 2cb3e743dfd28e96a404209f086caa3f9e84be6c
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: 2d1d69b2aa03be59ec68e8198c794aca52ed7cb1
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1241693"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2306824"
 ---
 # <a name="design-details-reconciliation-with-the-general-ledger"></a>Сведения о проектировании: выверка с главной книгой
 При учете складских транзакций, таких как расходные накладные, выход произведенной продукции или отрицательные коррекции, изменения количества и стоимости товара регистрируются в операциях книги товаров и операциях стоимости соответственно. Следующим шагом процесса является учет стоимостей товаров на счетах товаров в главной книге.  

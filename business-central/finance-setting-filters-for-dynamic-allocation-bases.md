@@ -1,23 +1,24 @@
 ---
-title: Настройка фильтров для базы динамического распределения | Документы Майкрософт
+title: Настройка фильтров для базы динамического распределения | Документация Майкрософт
 description: Метод динамического распределения основан на изменяемых значениях. Например, число сотрудников по месту возникновения затрат или проданным товарам объекта затрат за определенный период времени. Существует 9 предварительно определенных баз распределения и 12 динамических диапазонов дат. Следует настроить различные фильтры на основе базы распределения.
 services: project-madeira
 documentationcenter: ''
 author: SorenGP
-ms.service: dynamics365-financials
+ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 07/01/2017
+ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 35f9a542d57bfe27c9a9ee48f4a41af7071cdd47
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+redirect_url: finance-define-and-allocate-costs
+ms.openlocfilehash: 1ae73e7808db2f0c9ab9bd4c2567b109ef245490
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1241966"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2305552"
 ---
 # <a name="setting-filters-for-dynamic-allocation-bases"></a>Настройка фильтров для базы динамического распределения
 Метод динамического распределения основан на изменяемых значениях. Например, число сотрудников по месту возникновения затрат или проданным товарам объекта затрат за определенный период времени. Существует 9 предварительно определенных баз распределения и 12 динамических диапазонов дат. Следует настроить различные фильтры на основе базы распределения.  

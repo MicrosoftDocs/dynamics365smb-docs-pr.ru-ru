@@ -1,5 +1,5 @@
 ---
-title: Настройка финансовых процессов | Microsoft Docs
+title: Настройка финансовых процессов | Документация Майкрософт
 description: Узнайте о задачах по настройке финансов для своего бизнеса в соответствии требованиями учет и аудита.
 services: project-madeira
 documentationcenter: ''
@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: accounting, auditing, bookkeeping
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: c64b58c036395764191c05f47f8327c6479a4c6f
-ms.sourcegitcommit: dac212009aadf3227e54c99976c438f6e56f182a
+ms.openlocfilehash: 127d0dd747fa29926852be9e99e36d992e7d0ea1
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/02/2019
-ms.locfileid: "1447041"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2305713"
 ---
 # <a name="setting-up-finance"></a>Настройка финансов
 Чтобы вам было проще начать работу, [!INCLUDE[d365fin](includes/d365fin_md.md)] предлагает стандартные конфигурации для большинства финансовых процессов. Если необходимо изменить конфигурации в соответствии с бизнесом, это возможно. Например, из ролевого центра можно открыть руководство по сопровождаемой настройке для настройки ставки налога для вашего местоположения.  

@@ -1,5 +1,5 @@
 ---
-title: Настройка процессов управления сервисом | Документы Майкрософт
+title: Настройка процессов управления сервисом | Документация Майкрософт
 description: Узнайте, как настраивать процессы, помогающие обеспечить удовлетворенность клиентов вашей службой обслуживания клиентов.
 services: project-madeira
 documentationcenter: ''
@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: service, number sequences, setup, warnings, fee, contracts, warranties
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: bholtorf
-ms.openlocfilehash: b640443093b137ce3b5afe264185cf75ab0478c3
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: eb83c1a2e90e81060355e15c9d0e81d321ed8ed0
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1251082"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2315856"
 ---
 # <a name="configure-service-processes"></a>Настройка сервисных процессов
 Ниже приведены некоторые примеры настроек, которые могут быть применены к процессами сервисного управления:  
@@ -29,7 +29,7 @@ ms.locfileid: "1251082"
 * Номерные серии, используемые для документов и товаров, связанных с сервисом.  
 
 ## <a name="to-enter-general-and-mandatory-settings"></a>Ввод общих и обязательных настроек
-1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка сервиса**, затем выберите связанную ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка сервиса**, а затем выберите соответствующую ссылку.
 2. Заполните соответствующим образом поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
 
 ## <a name="see-also"></a>См. также  

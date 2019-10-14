@@ -10,20 +10,20 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 06/20/2019
+ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 8bf3c8d814c74ab85b72ddf06ca44d614a026923
-ms.sourcegitcommit: acbbe80503e61296310ea7f787a9d7f4bc6dccd7
+ms.openlocfilehash: 91f2aede108b767617f2aa8afd3db1b81713d8f7
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/12/2019
-ms.locfileid: "1870606"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2310012"
 ---
 # <a name="copy-existing-items-to-create-new-items"></a>Копирование существующих товаров для создания новых товаров
 Когда вы добавляете новый товар, чтобы сэкономить время, вы можете использовать функцию **Копировать товар**, чтобы скопировать существующий товар для использования в качестве шаблона для нового товара.  
 
 ## <a name="to-copy-an-existing-item-to-a-new-item"></a>Для копирования имеющегося товара в новый товар  
-1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Товары**, затем выберите связанную ссылку.  
+1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Товары**, а затем выберите соответствующую ссылку.  
 2. Выберите товар, который необходимо скопировать, затем выберите действие **Копировать товар**.  
 3. На странице **Копировать товар** заполните поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 

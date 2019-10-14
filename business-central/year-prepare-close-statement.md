@@ -1,5 +1,5 @@
 ---
-title: Обзор отчетов, помогающих готовить отчеты о закрытии | Документы Майкрософт
+title: Обзор отчетов, помогающих готовить отчеты о закрытии | Документация Майкрософт
 description: Содержит обзор отчетов, которые можно использовать для сбора информации для подготовки отчетов о закрытии при закрытии финансового года организацией.
 services: project-madeira
 documentationcenter: ''
@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: year closing, close accounting period, close fiscal year, aging, creditor payments, vendor payments, assets, liabilities, equity, analysis, reporting, financial report, business intelligence, BI, Power Bi, KPI
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: jswymer
-ms.openlocfilehash: a8274aef0fe9cf7a816b2f3e7c8853576e5bc9de
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: 8508ba6d3d23709ccad2749879617cce0f00973a
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1248000"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2313764"
 ---
 # <a name="preparing-closing-statements"></a>Подготовка отчетов о закрытии
 Существует несколько стандартных отчетов, которые можно использовать для сбора сведений, необходимых организации для подготовки отчетов о закрытии периодов.
@@ -34,7 +34,7 @@ ms.locfileid: "1248000"
 | Печать финансового отчета для анализа цифр на счетах главной книги или сравнения фактических операций главной книги с операциями бюджета главной книги. |Финансовый отчет |
 | Проверка согласованности операций книг клиентов и поставщиков с соответствующими операциями главной книги. |Выверка счетов клиента и поставщика |
 
-Для просмотра отчета выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите имя в том виде, в котором оно отображается в таблице, затем выберите связанную ссылку.
+Для просмотра отчета выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите имя в том виде, в котором оно отображается в таблице, а затем выберите соответствующую ссылку.
 
 ## <a name="see-also"></a>См. также
 [Закрытие года и периодов](year-close-years-periods.md)  

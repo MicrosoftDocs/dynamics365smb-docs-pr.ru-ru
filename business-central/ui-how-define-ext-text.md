@@ -1,5 +1,5 @@
 ---
-title: Добавление строк для определения расширенных описаний товара | Документы Майкрософт
+title: Добавление строк для определения расширенных описаний товара | Документация Майкрософт
 description: Вы можете добавить строки, чтобы расширить стандартный текст описания товара.
 services: project-madeira
 documentationcenter: ''
@@ -9,14 +9,14 @@ ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: a43cca28bb24c5723d81ca28a3d1f86a38f5ad7c
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: c50e37b450718c749ef04add823d7012899a7d81
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1248400"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2311000"
 ---
 # <a name="add-extended-item-text"></a>Добавление расширенного текста товара
 Можно расширить стандартный текст для товаров, добавив дополнительные строки, и настроить условия использования этих строк. Сделать это можно из карточек товара.

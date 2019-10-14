@@ -1,5 +1,5 @@
 ---
-title: Управление документами, удаление или сжатие документов | Документы Майкрософт
+title: Управление документами, удаление или сжатие документов | Документация Майкрософт
 description: Можно хранить исторические данные или удалить их.
 author: edupont04
 ms.service: dynamics365-business-central
@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: edupont
-ms.openlocfilehash: 7f0024f54979a563e885242d7160bc2b615493a5
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: e2ef5daf60bd9b2a3b7200001170c2c5e570b674
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1246634"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2304401"
 ---
 # <a name="manage-documents"></a>Управление документами
 Исполнителю главной роли, например администратору приложения, приходится постоянно иметь дело с накапливающимися архивными документами (удалять или сжимать их).  

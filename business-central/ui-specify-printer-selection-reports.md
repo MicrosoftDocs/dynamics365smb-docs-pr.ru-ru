@@ -1,5 +1,5 @@
 ---
-title: Настройка отчетов и печать на конкретных принтерах | Документы Майкрософт
+title: Настройка отчетов и печать на конкретных принтерах | Документация Майкрософт
 description: Узнайте о том, как задать принтер для отчета и использовать страница "Выбор принтера".
 services: project-madeira
 documentationcenter: ''
@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: online printing
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: solsen
-ms.openlocfilehash: ea713fe831ce0d4befc81825531d3210f755a4cd
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: 0c3a57906c32751639585e542a60d931174d594b
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1247840"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2315040"
 ---
 # <a name="specify-printer-selection-for-reports"></a>Выбор принтера для отчета
 Эта страница пустая, поскольку еще невозможно настроить определенные принтеры для конкретных отчетов. Мы работаем над разрешением этой проблемы.

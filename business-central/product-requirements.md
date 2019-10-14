@@ -1,5 +1,5 @@
 ---
-title: Минимальные требования для использования Business Central | Документы Майкрософт
+title: Минимальные требования для использования Business Central | Документация Майкрософт
 description: Узнайте о минимальных требованиях к системе и версии для использования Business Central Online.
 author: edupont04
 ms.service: dynamics365-business-central
@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: version
-ms.date: 06/28/2019
+ms.date: 10/01/2019
 ms.author: edupont
-ms.openlocfilehash: dff8f2e677c49f089ec2b7ee01dc1565ee4aa261
-ms.sourcegitcommit: 5b6dd8d881c0eb65ece6936a94dfda3185574335
+ms.openlocfilehash: 3a5fc25004ce7dd838369ff178b8d613fb984acd
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "1711041"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2313520"
 ---
 # <a name="minimum-requirements-for-using-business-central"></a>Минимальные требования для использования Business Central
 Перед началом работы с [!INCLUDE [prodshort](includes/prodshort.md)] Online мы рекомендуем проверить, что ваш компьютер и мобильное устройство соответствуют минимальным требованиям для продукта или превышают их. В этой статье перечислены эти требования.  

@@ -1,5 +1,5 @@
 ---
-title: Настройка кредитового перевода SEPA | Microsoft Docs
+title: Настройка кредитового перевода SEPA | Документация Майкрософт
 description: Узнайте, как настроить кредитовый перевод SEPA в Business Central.
 author: SorenGP
 ms.service: dynamics365-business-central
@@ -8,15 +8,15 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: sepa, credit, transfer, payment,
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: sgroespe
 redirect_url: finance-make-payments-with-bank-data-conversion-service-or-sepa-credit-transfer
-ms.openlocfilehash: 56f200d00345bfe18d8fcccbee6493785fe6a034
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: e0033d417d0b7809c809119d1b2cb0f75da36e3b
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1238237"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2305936"
 ---
 # <a name="set-up-sepa-credit-transfer"></a>Настройка кредитового перевода SEPA
 На странице **Журнал платежей** можно экспортировать платежи в файл для отправки в электронный банк на обработку связанных денежных переводов. [!INCLUDE[d365fin](includes/d365fin_md.md)] поддерживает формат кредитового перевода SEPA, но в вашей стране или регионе могут быть доступны другие форматы электронных платежей.  
@@ -56,7 +56,7 @@ ms.locfileid: "1238237"
 5. В строке журнала платежей, который будет использоваться для экспорта платежей, установите флажок **Разрешить экспорт платежей**.  
 
 ### <a name="to-connect-the-data-exchange-definition-for-one-or-more-payment-types-with-the-relevant-payment-method-or-methods"></a>Подключение определения обмена данными для одного или нескольких типов платежей к соответствующему методу или методам оплаты  
-1. В поле **Поиск** введите **Способы оплаты**, а затем выберите связанную ссылку.  
+1. В поле **Поиск** введите **Способы оплаты**, а затем выберите соответствующую ссылку.  
 2. На странице **Способы платежа** выберите способ оплаты, используемый для экспорта платежей, а затем выберите поле **Определение строки экспорта платежа**.  
 3. На странице **Определение строки экспорта платежа** выберите код, который вы указали в поле **Код** на экспресс-вкладке **Определения строк** на шаге 4 раздела “Описание форматирования строк и столбцов в файле” процедуры [Настройка определений обмена данными](across-how-to-set-up-data-exchange-definitions.md).  
 

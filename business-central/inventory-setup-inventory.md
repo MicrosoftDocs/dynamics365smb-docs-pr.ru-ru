@@ -1,5 +1,5 @@
 ---
-title: Настройка запасов | Документы Майкрософт
+title: Настройка запасов | Документация Майкрософт
 description: Описывается, как настроить процессы запасов, включая маршруты перемещения и склады.
 services: project-madeira
 documentationcenter: ''
@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: warehouse, stock
-ms.date: 06/20/2019
+ms.date: 10/01/2019
 ms.author: SorenGP
-ms.openlocfilehash: 53214df635c637e265c6d302498beee08e9b806c
-ms.sourcegitcommit: acbbe80503e61296310ea7f787a9d7f4bc6dccd7
+ms.openlocfilehash: 2d29bd0902ade38a1901899af475377e18089316
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/12/2019
-ms.locfileid: "1870527"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2309488"
 ---
 # <a name="setting-up-inventory"></a>Настройка запасов
 Прежде чем приступать к управлению складскими операциями и учетом стоимости товаров, необходимо настроить правила и значения, которые определяют политики запасов в компании.

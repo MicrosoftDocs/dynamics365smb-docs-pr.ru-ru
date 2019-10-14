@@ -1,5 +1,5 @@
 ---
-title: Сведения о проектировании — структура таблицы | Документы Майкрософт
+title: Сведения о проектировании — структура таблицы | Документация Майкрософт
 description: Чтобы понять, как переконструировано хранение и учет операций измерения, важно понять структуру таблицы.
 services: project-madeira
 documentationcenter: ''
@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 1dd1877540a536d95c8ea1613a23d2bd40e9c990
-ms.sourcegitcommit: 1fa3d33db7bc71e3a27c826308a80ff24a436a72
+ms.openlocfilehash: b086cba8dc152b8e847380e0e6ae70b3e69d0c39
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/30/2019
-ms.locfileid: "1970951"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2306776"
 ---
 # <a name="design-details-table-structure"></a>Сведения о проектировании: структура таблицы
 Чтобы понять, как записи измерения хранятся и учитываются, важно понять структуру таблицы.  

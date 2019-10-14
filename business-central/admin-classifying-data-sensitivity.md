@@ -4,17 +4,16 @@ description: Следует указать, какой тип данных вы 
 author: bholtorf
 ms.author: bholtorf
 ms.custom: na
-ms.date: 03/09/2018
 ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
+ms.service: dynamics365-business-central
 ms.topic: article
-ms.openlocfilehash: b104f3f4a90c9db08b113f861c6e2b3f93f639c7
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.date: 10/01/2019
+ms.openlocfilehash: f2b5e3ded5c89f241d0c49ee8c6f9d196c6bae43
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1239364"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2308216"
 ---
 # <a name="classifying-data-sensitivity"></a>Классификация конфиденциальности данных
 Для классификации полей, в которых хранятся конфиденциальные или личные данные, партнер Майкрософт может настроить свойство ```DataClassification``` полей. Для этого требуется доступ к таблицам базы данных, либо через среду разработки, либо путем запуска сценария Windows PowerShell. Дополнительные сведения см. в разделе [Классификация данных](https://docs.microsoft.com/en-us/dynamics-nav/classifying-data).  
@@ -26,7 +25,7 @@ ms.locfileid: "1239364"
 
 В следующей таблице описываются уровни конфиденциальности данных, которые можно назначать.
 
-|Конфиденциальность|Описанием|
+|Конфиденциальность|Описание|
 |----|----|
 |Конфиденциальные | Такая информация о субъекте данных, как расовая или этническая принадлежность, политические взгляды, членство в профсоюзах, физическое или душевное здоровье, сексуальность или сведения об уголовных преступлениях. |
 |Личная информация | Информация, которую можно использовать для идентификации субъекта данных, непосредственно или в сочетании с другими данными или информацией.|
