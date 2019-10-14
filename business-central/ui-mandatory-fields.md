@@ -1,5 +1,5 @@
 ---
-title: Обязательные поля для выполнения процессов | Документы Майкрософт
+title: Обязательные поля для выполнения процессов | Документация Майкрософт
 description: Узнайте о полях, помеченных красной звездочкой, что означает, они являются обязательными и должны быть заполнены для завершения процесса.
 services: project-madeira
 documentationcenter: ''
@@ -9,24 +9,24 @@ ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: solsen
-ms.openlocfilehash: bc3cedf31aadb69e380b704f4019a86eb7864882
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: 6cab6247c8edb050a038ef7641b646f1a7412588
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1248082"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2310832"
 ---
-# <a name="detecting-mandatory-fields"></a><span data-ttu-id="e837a-103">Выявление обязательных полей</span><span class="sxs-lookup"><span data-stu-id="e837a-103">Detecting Mandatory Fields</span></span>
-<span data-ttu-id="e837a-104">При вводе данных на страницах в [!INCLUDE[d365fin](includes/d365fin_md.md)] некоторые поля помечаются красной звездочкой.</span><span class="sxs-lookup"><span data-stu-id="e837a-104">When you enter data on pages in [!INCLUDE[d365fin](includes/d365fin_md.md)], certain fields are marked with a red asterisk.</span></span> <span data-ttu-id="e837a-105">Красная звездочка означает, что необходимо заполнить поле, чтобы завершить определенную процедуру, в которой используется это поле, например учесть транзакцию, в которой используется значение в поле.</span><span class="sxs-lookup"><span data-stu-id="e837a-105">The red asterisk means that the field must be filled to complete a certain process that uses the field, such as posting a transaction that uses the value in the field.</span></span>
+# <a name="detecting-mandatory-fields"></a><span data-ttu-id="38e97-103">Выявление обязательных полей</span><span class="sxs-lookup"><span data-stu-id="38e97-103">Detecting Mandatory Fields</span></span>
+<span data-ttu-id="38e97-104">При вводе данных на страницах в [!INCLUDE[d365fin](includes/d365fin_md.md)] некоторые поля помечаются красной звездочкой.</span><span class="sxs-lookup"><span data-stu-id="38e97-104">When you enter data on pages in [!INCLUDE[d365fin](includes/d365fin_md.md)], certain fields are marked with a red asterisk.</span></span> <span data-ttu-id="38e97-105">Красная звездочка означает, что необходимо заполнить поле, чтобы завершить определенную процедуру, в которой используется это поле, например учесть транзакцию, в которой используется значение в поле.</span><span class="sxs-lookup"><span data-stu-id="38e97-105">The red asterisk means that the field must be filled to complete a certain process that uses the field, such as posting a transaction that uses the value in the field.</span></span>
 
-<span data-ttu-id="e837a-106">Даже если в поле содержится красная звездочка, не обязательно заполнять поле, чтобы перейти к другим полям или закрыть страницу.</span><span class="sxs-lookup"><span data-stu-id="e837a-106">Even though the field contains a red asterisk, you are not forced to fill in the field before you continue to other fields or close the page.</span></span> <span data-ttu-id="e837a-107">Красная звездочка исключительно служит напоминанием, что определенный процесс будет заблокирован.</span><span class="sxs-lookup"><span data-stu-id="e837a-107">The red asterisk only serves as a reminder that you will be blocked from completing a certain process.</span></span>
+<span data-ttu-id="38e97-106">Даже если в поле содержится красная звездочка, не обязательно заполнять поле, чтобы перейти к другим полям или закрыть страницу.</span><span class="sxs-lookup"><span data-stu-id="38e97-106">Even though the field contains a red asterisk, you are not forced to fill in the field before you continue to other fields or close the page.</span></span> <span data-ttu-id="38e97-107">Красная звездочка исключительно служит напоминанием, что определенный процесс будет заблокирован.</span><span class="sxs-lookup"><span data-stu-id="38e97-107">The red asterisk only serves as a reminder that you will be blocked from completing a certain process.</span></span>
 
-## <a name="examples"></a><span data-ttu-id="e837a-108">Примеры</span><span class="sxs-lookup"><span data-stu-id="e837a-108">Examples</span></span>
-<span data-ttu-id="e837a-109">На странице **Карточка клиента** отобразится красная звездочка в поле **Название**, в поле **Код налоговой области** и в полях учетной группы, чтобы обозначить, что невозможно выполнить учет транзакции продажи для данного клиента, если эти поля не заполнены.</span><span class="sxs-lookup"><span data-stu-id="e837a-109">On the **Customer Card** page, the red asterisk appears in the **Name** field, in the **Tax Area Code** field, and in the posting group fields to indicate that you cannot post a sales transaction for the customer unless the fields are filled.</span></span>
+## <a name="examples"></a><span data-ttu-id="38e97-108">Примеры</span><span class="sxs-lookup"><span data-stu-id="38e97-108">Examples</span></span>
+<span data-ttu-id="38e97-109">На странице **Карточка клиента** отобразится красная звездочка в поле **Название**, в поле **Код налоговой области** и в полях учетной группы, чтобы обозначить, что невозможно выполнить учет транзакции продажи для данного клиента, если эти поля не заполнены.</span><span class="sxs-lookup"><span data-stu-id="38e97-109">On the **Customer Card** page, the red asterisk appears in the **Name** field, in the **Tax Area Code** field, and in the posting group fields to indicate that you cannot post a sales transaction for the customer unless the fields are filled.</span></span>
 
-<span data-ttu-id="e837a-110">На странице **Карточка товара** отображается красная звездочка в поле **Описание**, чтобы указать, что невозможно ввести товар в строке документа, например в заказе на продажу, если это поле не заполнено.</span><span class="sxs-lookup"><span data-stu-id="e837a-110">On the **Item Card** page, the red asterisk appears in the **Description** field to indicate that you cannot enter the item on a document line, such as a sales order, unless this field is filled.</span></span>
+<span data-ttu-id="38e97-110">На странице **Карточка товара** отображается красная звездочка в поле **Описание**, чтобы указать, что невозможно ввести товар в строке документа, например в заказе на продажу, если это поле не заполнено.</span><span class="sxs-lookup"><span data-stu-id="38e97-110">On the **Item Card** page, the red asterisk appears in the **Description** field to indicate that you cannot enter the item on a document line, such as a sales order, unless this field is filled.</span></span>
 
-## <a name="see-also"></a><span data-ttu-id="e837a-111">См. также</span><span class="sxs-lookup"><span data-stu-id="e837a-111">See Also</span></span>
-<span data-ttu-id="e837a-112">[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="e837a-112">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>
+## <a name="see-also"></a><span data-ttu-id="38e97-111">См. также</span><span class="sxs-lookup"><span data-stu-id="38e97-111">See Also</span></span>
+<span data-ttu-id="38e97-112">[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="38e97-112">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>
