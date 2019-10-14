@@ -1,5 +1,5 @@
 ---
-title: Сведения о проектировании — себестоимость запасов | Документы Майкрософт
+title: Сведения о проектировании — себестоимость запасов | Документация Майкрософт
 description: Документация содержит подробные технические сведения о концепциях и принципах, используемых в функциях учета стоимости товаров в Business Central.
 author: SorenGP
 ms.service: dynamics365-business-central
@@ -8,37 +8,37 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: design, inventory, costing
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: b484cc412084937072f5031185ba8c69078a616a
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: dc37aa410c9e9ba823894fad961b68897468b9ca
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1246413"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2303440"
 ---
-# <a name="design-details-inventory-costing"></a><span data-ttu-id="2def2-103">Сведения о проектировании: себестоимость запасов</span><span class="sxs-lookup"><span data-stu-id="2def2-103">Design Details: Inventory Costing</span></span>
-<span data-ttu-id="2def2-104">Документация содержит подробные технические сведения о концепциях и принципах, используемых в функциях учета стоимости товаров в [!INCLUDE[d365fin](includes/d365fin_md.md)].</span><span class="sxs-lookup"><span data-stu-id="2def2-104">This documentation provides detailed technical insight to the concepts and principles that are used within the Inventory Costing features in [!INCLUDE[d365fin](includes/d365fin_md.md)].</span></span>  
+# <a name="design-details-inventory-costing"></a><span data-ttu-id="e9287-103">Сведения о проектировании: себестоимость запасов</span><span class="sxs-lookup"><span data-stu-id="e9287-103">Design Details: Inventory Costing</span></span>
+<span data-ttu-id="e9287-104">Документация содержит подробные технические сведения о концепциях и принципах, используемых в функциях учета стоимости товаров в [!INCLUDE[d365fin](includes/d365fin_md.md)].</span><span class="sxs-lookup"><span data-stu-id="e9287-104">This documentation provides detailed technical insight to the concepts and principles that are used within the Inventory Costing features in [!INCLUDE[d365fin](includes/d365fin_md.md)].</span></span>  
 
-<span data-ttu-id="2def2-105">Учет себестоимости запасов, который также называют управлением затратами, связан с записью и отчетностью по текущим бизнес-расходам.</span><span class="sxs-lookup"><span data-stu-id="2def2-105">Inventory costing, also referred to as cost management, is concerned with recording and reporting business operating costs.</span></span>  
+<span data-ttu-id="e9287-105">Учет себестоимости запасов, который также называют управлением затратами, связан с записью и отчетностью по текущим бизнес-расходам.</span><span class="sxs-lookup"><span data-stu-id="e9287-105">Inventory costing, also referred to as cost management, is concerned with recording and reporting business operating costs.</span></span>  
 
-## <a name="in-this-section"></a><span data-ttu-id="2def2-106">В этом разделе</span><span class="sxs-lookup"><span data-stu-id="2def2-106">In This Section</span></span>  
-[<span data-ttu-id="2def2-107">Сведения о проектировании: методы учета себестоимости</span><span class="sxs-lookup"><span data-stu-id="2def2-107">Design Details: Costing Methods</span></span>](design-details-costing-methods.md)  
-[<span data-ttu-id="2def2-108">Сведения о проектировании: применение товара</span><span class="sxs-lookup"><span data-stu-id="2def2-108">Design Details: Item Application</span></span>](design-details-item-application.md)  
-[<span data-ttu-id="2def2-109">Сведения о проектировании: известная проблема применения товара</span><span class="sxs-lookup"><span data-stu-id="2def2-109">Design Details: Known Item Application Issue</span></span>](design-details-inventory-zero-level-open-item-ledger-entries.md)  
-[<span data-ttu-id="2def2-110">Сведения о проектировании: коррекция себестоимости</span><span class="sxs-lookup"><span data-stu-id="2def2-110">Design Details: Cost Adjustment</span></span>](design-details-cost-adjustment.md)  
-[<span data-ttu-id="2def2-111">Подробности разработки: дата учета для операции коррекции стоимости</span><span class="sxs-lookup"><span data-stu-id="2def2-111">Design Details: Posting Date on Adjustment Value Entry</span></span>](design-details-inventory-adjustment-value-entry-posting-date.md)  
-[<span data-ttu-id="2def2-112">Сведения о проектировании: учет ожидаемой себестоимости</span><span class="sxs-lookup"><span data-stu-id="2def2-112">Design Details: Expected Cost Posting</span></span>](design-details-expected-cost-posting.md)  
-[<span data-ttu-id="2def2-113">Сведения о проектировании: средняя себестоимость</span><span class="sxs-lookup"><span data-stu-id="2def2-113">Design Details: Average Cost</span></span>](design-details-average-cost.md)  
-[<span data-ttu-id="2def2-114">Сведения о проектировании: отклонение</span><span class="sxs-lookup"><span data-stu-id="2def2-114">Design Details: Variance</span></span>](design-details-variance.md)  
-[<span data-ttu-id="2def2-115">Сведения о проектировании: округление</span><span class="sxs-lookup"><span data-stu-id="2def2-115">Design Details: Rounding</span></span>](design-details-rounding.md)  
-[<span data-ttu-id="2def2-116">Сведения о проектировании: компоненты себестоимости</span><span class="sxs-lookup"><span data-stu-id="2def2-116">Design Details: Cost Components</span></span>](design-details-cost-components.md)  
-[<span data-ttu-id="2def2-117">Сведения о проектировании: периоды учета запасов</span><span class="sxs-lookup"><span data-stu-id="2def2-117">Design Details: Inventory Periods</span></span>](design-details-inventory-periods.md)  
-[<span data-ttu-id="2def2-118">Сведения о проектировании: учет запасов</span><span class="sxs-lookup"><span data-stu-id="2def2-118">Design Details: Inventory Posting</span></span>](design-details-inventory-posting.md)  
-[<span data-ttu-id="2def2-119">Сведения о проектировании: учет производственного заказа</span><span class="sxs-lookup"><span data-stu-id="2def2-119">Design Details: Production Order Posting</span></span>](design-details-production-order-posting.md)  
-[<span data-ttu-id="2def2-120">Сведения о проектировании: учет заказа на сборку</span><span class="sxs-lookup"><span data-stu-id="2def2-120">Design Details: Assembly Order Posting</span></span>](design-details-assembly-order-posting.md)  
-[<span data-ttu-id="2def2-121">Сведения о проектировании: выверка с главной книгой</span><span class="sxs-lookup"><span data-stu-id="2def2-121">Design Details: Reconciliation with the General Ledger</span></span>](design-details-reconciliation-with-the-general-ledger.md)  
-<span data-ttu-id="2def2-122">[Подробности разработки: счета в главной книге](design-details-accounts-in-the-general-ledger.md)
-[Подробности разработки: переоценка склада](design-details-inventory-valuation.md)</span><span class="sxs-lookup"><span data-stu-id="2def2-122">[Design Details: Accounts in the General Ledger](design-details-accounts-in-the-general-ledger.md)
+## <a name="in-this-section"></a><span data-ttu-id="e9287-106">В этом разделе</span><span class="sxs-lookup"><span data-stu-id="e9287-106">In This Section</span></span>  
+[<span data-ttu-id="e9287-107">Сведения о проектировании: методы учета себестоимости</span><span class="sxs-lookup"><span data-stu-id="e9287-107">Design Details: Costing Methods</span></span>](design-details-costing-methods.md)  
+[<span data-ttu-id="e9287-108">Сведения о проектировании: применение товара</span><span class="sxs-lookup"><span data-stu-id="e9287-108">Design Details: Item Application</span></span>](design-details-item-application.md)  
+[<span data-ttu-id="e9287-109">Сведения о проектировании: известная проблема применения товара</span><span class="sxs-lookup"><span data-stu-id="e9287-109">Design Details: Known Item Application Issue</span></span>](design-details-inventory-zero-level-open-item-ledger-entries.md)  
+[<span data-ttu-id="e9287-110">Сведения о проектировании: коррекция себестоимости</span><span class="sxs-lookup"><span data-stu-id="e9287-110">Design Details: Cost Adjustment</span></span>](design-details-cost-adjustment.md)  
+[<span data-ttu-id="e9287-111">Подробности разработки: дата учета для операции коррекции стоимости</span><span class="sxs-lookup"><span data-stu-id="e9287-111">Design Details: Posting Date on Adjustment Value Entry</span></span>](design-details-inventory-adjustment-value-entry-posting-date.md)  
+[<span data-ttu-id="e9287-112">Сведения о проектировании: учет ожидаемой себестоимости</span><span class="sxs-lookup"><span data-stu-id="e9287-112">Design Details: Expected Cost Posting</span></span>](design-details-expected-cost-posting.md)  
+[<span data-ttu-id="e9287-113">Сведения о проектировании: средняя себестоимость</span><span class="sxs-lookup"><span data-stu-id="e9287-113">Design Details: Average Cost</span></span>](design-details-average-cost.md)  
+[<span data-ttu-id="e9287-114">Сведения о проектировании: отклонение</span><span class="sxs-lookup"><span data-stu-id="e9287-114">Design Details: Variance</span></span>](design-details-variance.md)  
+[<span data-ttu-id="e9287-115">Сведения о проектировании: округление</span><span class="sxs-lookup"><span data-stu-id="e9287-115">Design Details: Rounding</span></span>](design-details-rounding.md)  
+[<span data-ttu-id="e9287-116">Сведения о проектировании: компоненты себестоимости</span><span class="sxs-lookup"><span data-stu-id="e9287-116">Design Details: Cost Components</span></span>](design-details-cost-components.md)  
+[<span data-ttu-id="e9287-117">Сведения о проектировании: периоды учета запасов</span><span class="sxs-lookup"><span data-stu-id="e9287-117">Design Details: Inventory Periods</span></span>](design-details-inventory-periods.md)  
+[<span data-ttu-id="e9287-118">Сведения о проектировании: учет запасов</span><span class="sxs-lookup"><span data-stu-id="e9287-118">Design Details: Inventory Posting</span></span>](design-details-inventory-posting.md)  
+[<span data-ttu-id="e9287-119">Сведения о проектировании: учет производственного заказа</span><span class="sxs-lookup"><span data-stu-id="e9287-119">Design Details: Production Order Posting</span></span>](design-details-production-order-posting.md)  
+[<span data-ttu-id="e9287-120">Сведения о проектировании: учет заказа на сборку</span><span class="sxs-lookup"><span data-stu-id="e9287-120">Design Details: Assembly Order Posting</span></span>](design-details-assembly-order-posting.md)  
+[<span data-ttu-id="e9287-121">Сведения о проектировании: выверка с главной книгой</span><span class="sxs-lookup"><span data-stu-id="e9287-121">Design Details: Reconciliation with the General Ledger</span></span>](design-details-reconciliation-with-the-general-ledger.md)  
+<span data-ttu-id="e9287-122">[Подробности разработки: счета в главной книге](design-details-accounts-in-the-general-ledger.md)
+[Подробности разработки: переоценка склада](design-details-inventory-valuation.md)</span><span class="sxs-lookup"><span data-stu-id="e9287-122">[Design Details: Accounts in the General Ledger](design-details-accounts-in-the-general-ledger.md)
 [Design Details: Inventory Valuation](design-details-inventory-valuation.md)</span></span>  
-[<span data-ttu-id="2def2-123">Сведения о проектировании: переоценка</span><span class="sxs-lookup"><span data-stu-id="2def2-123">Design Details: Revaluation</span></span>](design-details-revaluation.md)
+[<span data-ttu-id="e9287-123">Сведения о проектировании: переоценка</span><span class="sxs-lookup"><span data-stu-id="e9287-123">Design Details: Revaluation</span></span>](design-details-revaluation.md)

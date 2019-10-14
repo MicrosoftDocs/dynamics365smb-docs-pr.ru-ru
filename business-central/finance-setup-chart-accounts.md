@@ -8,37 +8,37 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: COA, cha of acc
-ms.date: 04/01/2019
+ms.date: 10/01/2019
 ms.author: edupont
-ms.openlocfilehash: 8c75a214691b7d9886958866517afbb1d68b6f60
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: 97db6065f405397dbc4a077f571883a28bda8c3c
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1242449"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2300041"
 ---
-# <a name="setting-up-or-changing-the-chart-of-accounts"></a><span data-ttu-id="4d416-103">Настройка или изменение плана счетов</span><span class="sxs-lookup"><span data-stu-id="4d416-103">Setting Up or Changing the Chart of Accounts</span></span>
-<span data-ttu-id="4d416-104">В плане счетов отображаются счета главной книги, на которых хранятся финансовые данные.</span><span class="sxs-lookup"><span data-stu-id="4d416-104">The chart of accounts shows the ledger accounts that store your financial data.</span></span> [!INCLUDE[d365fin](includes/d365fin_md.md)] <span data-ttu-id="4d416-105">включает стандартный план счетов, готовый к использованию в вашей организации.</span><span class="sxs-lookup"><span data-stu-id="4d416-105">includes a standard chart of accounts that is ready to support your business.</span></span>
-<span data-ttu-id="4d416-106">Однако вы можете изменить счета по умолчанию и добавить новые счета.</span><span class="sxs-lookup"><span data-stu-id="4d416-106">However, you can change the default accounts, and you can add new accounts.</span></span>  
+# <a name="setting-up-or-changing-the-chart-of-accounts"></a><span data-ttu-id="e3009-103">Настройка или изменение плана счетов</span><span class="sxs-lookup"><span data-stu-id="e3009-103">Setting Up or Changing the Chart of Accounts</span></span>
+<span data-ttu-id="e3009-104">В плане счетов отображаются счета главной книги, на которых хранятся финансовые данные.</span><span class="sxs-lookup"><span data-stu-id="e3009-104">The chart of accounts shows the ledger accounts that store your financial data.</span></span> [!INCLUDE[d365fin](includes/d365fin_md.md)] <span data-ttu-id="e3009-105">включает стандартный план счетов, готовый к использованию в вашей организации.</span><span class="sxs-lookup"><span data-stu-id="e3009-105">includes a standard chart of accounts that is ready to support your business.</span></span>
+<span data-ttu-id="e3009-106">Однако вы можете изменить счета по умолчанию и добавить новые счета.</span><span class="sxs-lookup"><span data-stu-id="e3009-106">However, you can change the default accounts, and you can add new accounts.</span></span>  
 
-## <a name="adding-or-changing-accounts"></a><span data-ttu-id="4d416-107">Добавление или изменение счетов</span><span class="sxs-lookup"><span data-stu-id="4d416-107">Adding or Changing Accounts</span></span>
-<span data-ttu-id="4d416-108">В плане счетов вы можете открыть каждый счет ГК и добавить или изменить параметры.</span><span class="sxs-lookup"><span data-stu-id="4d416-108">From the chart of accounts, you can open each G/L account and add or change settings.</span></span>
+## <a name="adding-or-changing-accounts"></a><span data-ttu-id="e3009-107">Добавление или изменение счетов</span><span class="sxs-lookup"><span data-stu-id="e3009-107">Adding or Changing Accounts</span></span>
+<span data-ttu-id="e3009-108">В плане счетов вы можете открыть каждый счет ГК и добавить или изменить параметры.</span><span class="sxs-lookup"><span data-stu-id="e3009-108">From the chart of accounts, you can open each G/L account and add or change settings.</span></span>
 
 > [!NOTE]  
->   <span data-ttu-id="4d416-109">Вы можете удалить счет главной книги.</span><span class="sxs-lookup"><span data-stu-id="4d416-109">You can delete a general ledger account.</span></span> <span data-ttu-id="4d416-110">Однако прежде чем удалять его, должно быть соблюдено следующее:</span><span class="sxs-lookup"><span data-stu-id="4d416-110">However, before you delete it, the following must be true:</span></span>  
+>   <span data-ttu-id="e3009-109">Вы можете удалить счет главной книги.</span><span class="sxs-lookup"><span data-stu-id="e3009-109">You can delete a general ledger account.</span></span> <span data-ttu-id="e3009-110">Однако прежде чем удалять его, должно быть соблюдено следующее:</span><span class="sxs-lookup"><span data-stu-id="e3009-110">However, before you delete it, the following must be true:</span></span>  
 >  
->   * <span data-ttu-id="4d416-111">Сальдо счета должно быть нулевым.</span><span class="sxs-lookup"><span data-stu-id="4d416-111">The balance on the account must be zero.</span></span>  
->   * <span data-ttu-id="4d416-112">На странице **Настройка Главной книги** должно быть задано поле **Разрешить удаление счета ГК до**, а на счете не должно быть операций книги в эту дату и после нее.</span><span class="sxs-lookup"><span data-stu-id="4d416-112">The **Allow G/L Acc. Deletion Before** field must be set on the **General Ledger Setup** page, and the account must not have ledger entries on or after that date.</span></span>  
->   * <span data-ttu-id="4d416-113">Если на странице **Настройка Главной книги** установлен флажок **Проверка использования счета ГК**, то счет не должен использоваться ни в одной из учетных групп или настроек учета.</span><span class="sxs-lookup"><span data-stu-id="4d416-113">If the **Check G/L Account Usage** field on the **General Ledger Setup** page is selected, then the account must not be used in any posting groups or posting setup.</span></span>  
+>   * <span data-ttu-id="e3009-111">Сальдо счета должно быть нулевым.</span><span class="sxs-lookup"><span data-stu-id="e3009-111">The balance on the account must be zero.</span></span>  
+>   * <span data-ttu-id="e3009-112">На странице **Настройка Главной книги** должно быть задано поле **Разрешить удаление счета ГК до**, а на счете не должно быть операций книги в эту дату и после нее.</span><span class="sxs-lookup"><span data-stu-id="e3009-112">The **Allow G/L Acc. Deletion Before** field must be set on the **General Ledger Setup** page, and the account must not have ledger entries on or after that date.</span></span>  
+>   * <span data-ttu-id="e3009-113">Если на странице **Настройка Главной книги** установлен флажок **Проверка использования счета ГК**, то счет не должен использоваться ни в одной из учетных групп или настроек учета.</span><span class="sxs-lookup"><span data-stu-id="e3009-113">If the **Check G/L Account Usage** field on the **General Ledger Setup** page is selected, then the account must not be used in any posting groups or posting setup.</span></span>  
 
-[!INCLUDE[d365fin](includes/d365fin_md.md)] <span data-ttu-id="4d416-114">не допускает удаления счета главной книги, на котором хранятся данные, необходимые для плана счетов.</span><span class="sxs-lookup"><span data-stu-id="4d416-114">will prevent you from deleting a general ledger account that stores data that is needed in the chart of accounts.</span></span>  
+[!INCLUDE[d365fin](includes/d365fin_md.md)] <span data-ttu-id="e3009-114">не допускает удаления счета главной книги, на котором хранятся данные, необходимые для плана счетов.</span><span class="sxs-lookup"><span data-stu-id="e3009-114">will prevent you from deleting a general ledger account that stores data that is needed in the chart of accounts.</span></span>  
 
-## <a name="see-also"></a><span data-ttu-id="4d416-115">См. также</span><span class="sxs-lookup"><span data-stu-id="4d416-115">See Also</span></span>
-[<span data-ttu-id="4d416-116">Главная книга и план счетов</span><span class="sxs-lookup"><span data-stu-id="4d416-116">The General Ledger and the Chart of Accounts</span></span>](finance-general-ledger.md)  
-[<span data-ttu-id="4d416-117">Управление банковскими счетами</span><span class="sxs-lookup"><span data-stu-id="4d416-117">Managing Bank Accounts</span></span>](bank-manage-bank-accounts.md)  
-[<span data-ttu-id="4d416-118">Работа с измерениями</span><span class="sxs-lookup"><span data-stu-id="4d416-118">Working with Dimensions</span></span>](finance-dimensions.md)  
-[<span data-ttu-id="4d416-119">Импорт данных из других финансовых систем</span><span class="sxs-lookup"><span data-stu-id="4d416-119">Importing Data from Other Finance Systems</span></span>](across-import-data-configuration-packages.md)  
-[<span data-ttu-id="4d416-120">Работа с финансовыми отчетами</span><span class="sxs-lookup"><span data-stu-id="4d416-120">Work with Account Schedules</span></span>](bi-how-work-account-schedule.md)  
-<span data-ttu-id="4d416-121">[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="4d416-121">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>  
+## <a name="see-also"></a><span data-ttu-id="e3009-115">См. также</span><span class="sxs-lookup"><span data-stu-id="e3009-115">See Also</span></span>
+[<span data-ttu-id="e3009-116">Главная книга и план счетов</span><span class="sxs-lookup"><span data-stu-id="e3009-116">The General Ledger and the Chart of Accounts</span></span>](finance-general-ledger.md)  
+[<span data-ttu-id="e3009-117">Управление банковскими счетами</span><span class="sxs-lookup"><span data-stu-id="e3009-117">Managing Bank Accounts</span></span>](bank-manage-bank-accounts.md)  
+[<span data-ttu-id="e3009-118">Работа с измерениями</span><span class="sxs-lookup"><span data-stu-id="e3009-118">Working with Dimensions</span></span>](finance-dimensions.md)  
+[<span data-ttu-id="e3009-119">Импорт данных из других финансовых систем</span><span class="sxs-lookup"><span data-stu-id="e3009-119">Importing Data from Other Finance Systems</span></span>](across-import-data-configuration-packages.md)  
+[<span data-ttu-id="e3009-120">Работа с финансовыми отчетами</span><span class="sxs-lookup"><span data-stu-id="e3009-120">Work with Account Schedules</span></span>](bi-how-work-account-schedule.md)  
+<span data-ttu-id="e3009-121">[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="e3009-121">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>  
 
 ## [!INCLUDE[d365fin](includes/free_trial_md.md)]
