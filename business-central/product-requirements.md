@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: version
-ms.date: 10/01/2019
+ms.date: 10/17/2019
 ms.author: edupont
-ms.openlocfilehash: 3a5fc25004ce7dd838369ff178b8d613fb984acd
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 96825fcc03bbbbc43c00f3bce4b9ac257a915a6f
+ms.sourcegitcommit: be1e2c49a8434d3f440d5a201508af9c3c8cc87f
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2313520"
+ms.lasthandoff: 10/22/2019
+ms.locfileid: "2649768"
 ---
 # <a name="minimum-requirements-for-using-business-central"></a>Минимальные требования для использования Business Central
 Перед началом работы с [!INCLUDE [prodshort](includes/prodshort.md)] Online мы рекомендуем проверить, что ваш компьютер и мобильное устройство соответствуют минимальным требованиям для продукта или превышают их. В этой статье перечислены эти требования.  
@@ -33,9 +33,9 @@ ms.locfileid: "2313520"
 **Размер устройства:** [!INCLUDE[d365fin](includes/d365fin_md.md)] поддерживается на смартфонах с минимальным размером экрана 4 дюйма и планшетах с минимальным размером экрана 7 дюймов.  
 
 ## <a name="outlook"></a>Outlook
-**Приложения Outlook:** Для использования [!INCLUDE[d365fin](includes/d365fin_md.md)] Online как папки "Входящие" для бизнеса в Outlook требуется Outlook 2016 или более поздней версии, веб-приложение Outlook, OWA для iPhone, OWA для iPad или OWA для Android. Ваша организация также должна использовать Office 365. Вы не можете использовать [!INCLUDE [prodshort](includes/prodshort.md)] Online как папку "Входящие" для бизнеса в Outlook, если ваша организация использует локальный сервер Exchange.  
-**Браузеры:** При использовании [!INCLUDE[d365fin](includes/d365fin_md.md)] в качестве папки "Входящие" для бизнеса в веб-приложении Outlook (OWA) надстройка требует, чтобы на компьютере был установлен один из браузеров, перечисленных в качестве поддерживаемых ранее в этой статье.  
-**Платформы:** При использовании надстройки [!INCLUDE[d365fin](includes/d365fin_md.md)] для Outlook в OWA для iPhone, OWA для iPad, OWA для Android надстройка требует, чтобы в качестве мобильного устройства использовалось одно из поддерживаемых мобильных устройств для [!INCLUDE[d365fin](includes/d365fin_md.md)].  
+**Приложения Outlook:** для использования [!INCLUDE[d365fin](includes/d365fin_md.md)] Online как папки "Входящие" для бизнеса в Outlook требуется Outlook 2016 или более поздней версии, Outlook в браузере, Outlook для iPhone, Outlook для iPad или Outlook для Android. Ваша организация также должна использовать Office 365. Вы не можете использовать [!INCLUDE [prodshort](includes/prodshort.md)] Online как папку "Входящие" для бизнеса в Outlook, если ваша организация использует локальный сервер Exchange.  
+**Браузеры:** При использовании [!INCLUDE[d365fin](includes/d365fin_md.md)] в качестве папки "Входящие" для бизнеса в Outlook в браузере надстройка требует, чтобы на компьютере был установлен один из браузеров, перечисленных в качестве поддерживаемых ранее в этой статье.  
+**Платформы:** при использовании надстройки [!INCLUDE[d365fin](includes/d365fin_md.md)] для Outlook в Outlook для iPhone, Outlook для iPad или Outlook для Android надстройка требует, чтобы в качестве мобильного устройства использовалось одно из поддерживаемых мобильных устройств для [!INCLUDE[d365fin](includes/d365fin_md.md)].  
 
 ## <a name="excel"></a>Excel
 **Изменить в Excel:** Для использования надстройки Excel для внесения изменений в Excel и оправки этих изменений обратно в [!INCLUDE[d365fin](includes/d365fin_md.md)] необходимо иметь Excel 2016 или более поздней версии. Дополнительные сведения см. в разделе [Анализ финансовых выписок в Microsoft Excel](finance-analyze-excel.md).  

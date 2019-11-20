@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 4b6626f13e04e3014df3c792e5ace05575b430c4
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: c567652331d82e4386bcf8829dd7d296f8ebecb4
+ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2314706"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "2553896"
 ---
 # <a name="walkthrough-receiving-and-putting-away-in-advanced-warehouse-configurations"></a>Пошаговое руководство. Получение и складирование в расширенных конфигурациях склада
 
@@ -136,7 +136,7 @@ ms.locfileid: "2314706"
 
 ### <a name="to-put-the-items-away"></a>Размещение товаров  
 1.  Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Складское размещение**, а затем выберите соответствующую ссылку.  
-2.  Выберите только один документ складского размещения в списке, а затем на вкладке **Главная** в группе **Управление** выберите пункт **Правка**.  
+2.  Выберите только один документ складского размещения в списке, затем выберите действие **Правка**.  
 
     Откроется документ складского размещения с общим количеством строк "Взять" или "Поместить" 8 шт. для 4 строк заказа на покупку.
 

@@ -6,13 +6,13 @@ ms.reviewer: na
 ms.topic: article
 ms.service: dynamics365-business-central
 ms.author: edupont
-ms.date: 10/01/2019
-ms.openlocfilehash: 0c710291b1039dedf23266b48940e123f425c9cc
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.date: 11/06/2019
+ms.openlocfilehash: e1c7d5f7880f283c0b26679572202aaa769a1227
+ms.sourcegitcommit: 86498fe4326b9ce26cc31e8645db27570d13bdf9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2313616"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "2767661"
 ---
 # <a name="resources-for-help-and-support"></a>Ресурсы для справки и поддержки
 
@@ -73,7 +73,7 @@ ms.locfileid: "2313616"
 Ваш партнер по распространению [!INCLUDE[prodshort](includes/prodshort.md)] будет предоставлять вам техническую поддержку. [!INCLUDE[prodshort](includes/prodshort.md)] распространяется через партнеров, и в этом разделе можно легко связаться с вашим партнером по распространению, если он предоставил свой адрес электронной почты службы поддержки. Если ваш партнер [!INCLUDE[prodshort](includes/prodshort.md)] не может разрешить проблему, он создаст билет поддержки в компании Майкрософт.  
 
 > [!NOTE]
-> Этот раздел доступен только при наличии оплаченной подписки [!INCLUDE [prodshort](includes/prodshort.md)]. Если в подписались на пробную версию и пока еще не приобрели [!INCLUDE[prodshort](includes/prodshort.md)], у вас нет продавца-партнера, и вы не можете связаться с группой поддержки компании Майкрософт. Вы можете найти партнера [!INCLUDE[prodshort](includes/prodshort.md)] на странице [Я ищу поставщика решений](https://go.microsoft.com/fwlink/?linkid=2038145).  
+> Этот раздел доступен только при наличии оплаченной подписки [!INCLUDE [prodshort](includes/prodshort.md)]. Если в подписались на пробную версию и пока еще не приобрели [!INCLUDE[prodshort](includes/prodshort.md)], у вас нет продавца-партнера, и вы не можете связаться с группой поддержки компании Майкрософт. Вы можете найти партнера [!INCLUDE[prodshort](includes/prodshort.md)] на странице [Я ищу поставщика решений](https://go.microsoft.com/fwlink/?linkid=2038145). Для получения дополнительной информации см. раздел [Как найти партнера по перепродаже?](across-faq.md#findpartner),  
 
 ### <a name="support-contacts"></a>Контакты службы поддержки
 
@@ -83,6 +83,8 @@ ms.locfileid: "2313616"
 
 ## <a name="see-also"></a>См. также
 
+[Учебный каталог Business Central](readiness/readiness-learning-catalog.md)  
+[Как найти партнера по перепродаже?](across-faq.md#findpartner)  
 [Запись блога: поиск правильных ресурсов и предоставление отзывов](https://community.dynamics.com/business/b/financials/archive/2018/12/04/find-the-right-resources-and-provide-feedback)  
 [Документы для разработчиков и ИТ-специалистов по Business Central](/dynamics365/business-central/dev-itpro/)  
 [Ресурсы для справки и поддержки для партнеров](/dynamics365/business-central/dev-itpro/help-and-support)  

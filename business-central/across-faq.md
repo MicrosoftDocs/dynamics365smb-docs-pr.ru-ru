@@ -5,14 +5,14 @@ author: edupont04
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: FAQ, email, Office 365, subscription, subscribe, trial, plan, application area, experience, support, buy, upgrade, extend
-ms.date: 10/01/2019
+ms.date: 11/06/2019
 ms.author: edupont
-ms.openlocfilehash: bfe2c4bec0627aee83d0ca25db975c76b7f803ab
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: cf4fe3abc4a31619015520f2be598976b0fc8f5c
+ms.sourcegitcommit: cd5d3d288feee76d058d325720135275f4c8ad85
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2300573"
+ms.lasthandoff: 11/08/2019
+ms.locfileid: "2775503"
 ---
 # <a name="frequently-asked-questions"></a>Вопросы и ответы
 
@@ -28,16 +28,14 @@ ms.locfileid: "2300573"
 
 Чтобы вы могли быстрее приступить к работе в [!INCLUDE [prodshort](includes/prodshort.md)], можно просмотреть руководства по сопровождаемой настройке, видео или разделы справки для выбранных задач настройки. Дополнительные сведения см. в разделе [Подготовьтесь к ведению бизнеса](ui-get-ready-business.md).  
 
-Когда вы будете готовы приобрести [!INCLUDE [prodshort](includes/prodshort.md)], вы можете найти партнера [!INCLUDE [prodshort](includes/prodshort.md)] на странице [Я ищу поставщика решений](https://go.microsoft.com/fwlink/?linkid=2038145).  
-
-[!INCLUDE [prodshort](includes/prodshort.md)] продается и реализуется через глобальную сеть партнеров Dynamics 365 с отраслевым опытом. Свяжитесь с партнером для подробной оценки, консультационных услуг и получения дополнительных сведений о ценах. Дополнительные сведения см. в разделе **Ценообразование** на странице [Dynamics 365 Business Central на сайте microsoft.com](https://dynamics.microsoft.com/business-central/overview/).  
+Когда вы будете готовы приобрести [!INCLUDE [prodshort](includes/prodshort.md)], вы можете найти партнера [!INCLUDE [prodshort](includes/prodshort.md)] на странице [Я ищу поставщика решений](https://go.microsoft.com/fwlink/?linkid=2038145). Для получения дополнительной информации см. раздел [Как найти партнера по перепродаже?](#findpartner),  
 
 ## <a name="where-do-i-go-if-i-have-questions"></a>Что делать, если у меня есть вопросы?
 Если у вас есть вопросы по [!INCLUDE[d365fin](includes/d365fin_md.md)], на которые вы не можете найти ответ в документации, задайте вопрос в сообществе Business Central. Дополнительные сведения см. в разделе [Сообщество Dynamics 365 Business Central](https://community.dynamics.com/business).  
 
 На начальной странице сообщества можно также найти ссылки на наши блоги, где также можно найти советы и подсказки. Дополнительные сведения см. в [блоге Microsoft Dynamics 365 Business Central в Dynamics 365](https://cloudblogs.microsoft.com/dynamics365/it/product/business-central/) и в более старом [блоге Dynamics 365 Business Central](https://community.dynamics.com/business/b/financials).  
 
-Наконец, можно связаться с нашим торговым партнером [!INCLUDE[d365fin](includes/d365fin_md.md)]. Дополнительные сведения см. в разделе [Как получить техническую поддержку](across-faq.md#how-do-i-get-technical-support-for-).  
+Наконец, можно связаться с нашим торговым партнером [!INCLUDE[d365fin](includes/d365fin_md.md)]. Для получения дополнительной информации см. разделы [Как получить техническую поддержку?](across-faq.md#how-do-i-get-technical-support-for-) и [Как найти партнера по перепродаже?](#findpartner).  
 
 ## <a name="why-cant-i-find-that-capability-in-my-included365finincludesd365fin_mdmd"></a>Почему я не могу найти эту функциональную возможность в моем [!INCLUDE[d365fin](includes/d365fin_md.md)]?
 Вы недавно прочитали о новой функциональной возможности в плане выпуска или в нашем блоге? В таком случае возможно, что [!INCLUDE[d365fin](includes/d365fin_md.md)] еще не обновлен до последней версии. Проверить, на какой версии базируется ваша система [!INCLUDE[d365fin](includes/d365fin_md.md)], можно на странице [Справка и поддержка](product-help-and-support.md).  
@@ -48,15 +46,17 @@ ms.locfileid: "2300573"
 Да. В некоторых случаях некоторые облачные функции могут работать локально, а другие вообще не поддерживаются. Для получения дополнительной информации см. [Функции, не реализованные в локальных развертываниях Dynamics 365 Business Central](/dynamics365/business-central/dev-itpro/features-not-implemented-on-premises).
 
 ## <a name="can-i-get-training-in-included365finincludesd365fin_mdmd"></a>Я могу пройти обучение по [!INCLUDE[d365fin](includes/d365fin_md.md)]?
-Да, можете. На [сайте Microsoft Learn](/learn/browse/?products=dynamics-business-central) есть бесплатные электронные учебные материалы. Вы также можете обратиться к своему партнеру по распространению с просьбой организовать для вас дополнительное обучение. Если вы не знаете, кто это, найдите партнера Business Central на странице [Я ищу поставщика решений](https://go.microsoft.com/fwlink/?linkid=2038145).  
+Да, можете. На [сайте Microsoft Learn](/learn/browse/?products=dynamics-business-central) есть бесплатные электронные учебные материалы. Дополнительные сведения см. в разделе [Каталог обучения Business Central](readiness/readiness-learning-catalog.md). Вы также можете обратиться к своему партнеру по распространению с просьбой организовать для вас дополнительное обучение. Если вы не знаете, кто это, посмотрите раздел [Как найти партнера по перепродаже?](#findpartner).  
 
-Дополнительные сведения об обучении, предоставляемом корпорацией Майкрософт, см. на странице [Обучение по Microsoft Dynamics 365](/dynamics365/get-started/training/index#dynamics-365-customers).  
+Дополнительные сведения об обучении по Dynamics 365, предоставляемом корпорацией Майкрософт, см. на странице [Обучение по Microsoft Dynamics 365](/dynamics365/get-started/training/index#dynamics-365-customers).  
+
+Дополнительный контент предоставляется сообществом [!INCLUDE [prodshort](includes/prodshort.md)], такое как [Руководство по полям Microsoft Dynamics 365 Business Central](https://leanpub.com/dynamics), написанное партнером.  
 
 ## <a name="how-do-i-get-technical-support-for-included365finincludesd365fin_mdmd"></a>Как получить техническую поддержку для [!INCLUDE[d365fin](includes/d365fin_md.md)]?
 
 [!INCLUDE[d365fin](includes/d365fin_md.md)] продается через партнеров, и для получения помощи по техническим проблемам следует обращаться к вашему партнеру-продавцу. Если ваш партнер [!INCLUDE[d365fin](includes/d365fin_md.md)] не может разрешить проблему, он создаст билет поддержки в компании Майкрософт.  
 
-Дополнительные сведения см. в раздела [Справка и поддержка](product-help-and-support.md).  
+Для получения дополнительной информации см. [Справка и поддержки](product-help-and-support.md) и раздел [Как найти партнера по перепродаже?](#findpartner).  
 
 ## <a name="why-does-help-describe-functionality-that-i-cannot-access"></a>Почему в справке описываются функциональные возможности, к которым я не могу получить доступ?
 Если на странице **Информация об организации** для параметра "Функциональность" задано значение **Essential**, то элементы пользовательского интерфейса для функций управления производством и обслуживанием не будут видны вам, поскольку они требуют функциональности **Premium**. Текстовое примечание вставляется в разделы высокого уровня для этих функциональных областей. Дополнительные сведения см. в разделе [Изменение набора отображаемых функций](ui-experiences.md).
@@ -84,10 +84,12 @@ ms.locfileid: "2300573"
 [!INCLUDE[d365fin](includes/d365fin_md.md)] Online полностью интегрирован с Office 365, чтобы можно было легко перемещаться между приложениями Office 365 и [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью средства запуска приложений. В [!INCLUDE[d365fin](includes/d365fin_md.md)] можно, например, открывать данные в Excel, печатать отчеты с помощью Word и работать с данными [!INCLUDE[d365fin](includes/d365fin_md.md)] в Outlook. Дополнительные сведения см. в разделе, [Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] в качестве рабочего почтового ящика в Outlook](admin-outlook.md).  
 
 ## <a name="can-i-extend-my-30-day-new-company-trial-period"></a>Можно ли продлить 30-дневный срок пробной версии "Новая организация"?
-Да. Если срок действия пробной версии подходит к концу, при входе в систему отображается уведомление с предупреждением. Уведомление содержит ссылку на руководство **Продление пробного периода**, которое можно использовать для продления пробного периода. Дополнительные 30 дней начинаются с момента выбора пункта **Продлить пробный период** в руководстве. Один раз вы можете продлить пробный период самостоятельно. После этого партнер Microsoft может продлить его еще на 30 дней. Дополнительные сведения см. в разделе [Продление пробной версии](admin-extend-trial.md). Чтобы связать с партнером Microsoft в вашей стране или регионе сейчас, см. список телефонов в разделе [CustomerSource](https://mbs.microsoft.com/customersource/northamerica/CRM/support/support-news/Support_Telephone#linkc).  
+Да. Если срок действия пробной версии подходит к концу, при входе в систему отображается уведомление с предупреждением. Уведомление содержит ссылку на руководство **Продление пробного периода**, которое можно использовать для продления пробного периода. Дополнительные 30 дней начинаются с момента выбора пункта **Продлить пробный период** в руководстве. Один раз вы можете продлить пробный период самостоятельно. После этого партнер Microsoft может продлить его еще на 30 дней. Дополнительные сведения см. в разделе [Продление пробной версии](admin-extend-trial.md). 
 
 > [!NOTE]
 > Завершение процесса продления пробного периода может занять до двух рабочих дней.  
+
+Для получения дополнительной информации о поиске партнера см. раздел [Как найти партнера по перепродаже?](#findpartner),  
 
 ## <a name="our-administrator-has-moved-me-to-another-plan-to-give-me-another-role-but-i-still-see-the-same-home-screen-in-included365finincludesd365fin_mdmd"></a>Наш администратор изменил мой план, чтобы предоставить мне другую роль, но я по-прежнему вижу тот же домашний экран в [!INCLUDE[d365fin](includes/d365fin_md.md)]?
 Это немного сложно, но, похоже, администратор не изменил назначенную вам роль и не назначил группы пользователей, соответствующие новой лицензии. По существу, ваш доступ к [!INCLUDE[d365fin](includes/d365fin_md.md)] определяется вашим типом плана (лицензией) — он задает разрешения, назначенную вам роль и отображаемый по умолчанию домашний экран. Вы можете вручную изменить свою текущую роль в разделе "Мои настройки", но при переходе на другой план, например при переходе с плана "Бизнес" на план "Участники группы", может отображаться старый домашний экран, поскольку ваши разрешения не были изменены.  
@@ -96,16 +98,32 @@ ms.locfileid: "2300573"
 Да, но в зависимости от способа регистрации в [!INCLUDE[d365fin](includes/d365fin_md.md)] ваши данные могут быть удалены или сохранены. Дополнительные сведения см. в разделе [Отмена [!INCLUDE[d365fin](includes/d365fin_md.md)]](admin-cancel.md).  
 
 ## <a name="can-i-use-multi-factor-authentication"></a>Я могу использовать многофакторную проверку подлинности?
-Конечно. Если это сделать, может потребоваться пароль приложения для отправки сообщений электронной почты. Пароли приложения обеспечивают приложению или устройству доступ к вашей учетной записи электронной почты. Шаги для получения пароля приложения зависят от поставщика электронной почты. Дополнительные сведения см. в справке вашего поставщика. Например, если используется Outlook, см. раздел [Создание пароля для Office 365](https://go.microsoft.com/fwlink/?linkid=2082543).
+Конечно. Если это сделать, может потребоваться пароль приложения для отправки сообщений электронной почты. Пароли приложения обеспечивают приложению или устройству доступ к вашей учетной записи электронной почты. Шаги для получения пароля приложения зависят от поставщика электронной почты. Дополнительные сведения см. в справке вашего поставщика. Например, если используется Outlook, см. раздел [Создание пароля для Office 365](https://go.microsoft.com/fwlink/?linkid=2082543).  
+
+## <a name="findpartner"></a>Как найти партнера по перепродаже?
+
+[!INCLUDE [prodshort](includes/prodshort.md)] продается и реализуется через глобальную сеть партнеров Dynamics 365 с отраслевым опытом. Свяжитесь с партнером для подробной оценки, консультационных услуг и получения дополнительных сведений о ценах. Дополнительные сведения см. в разделе **Ценообразование** на странице [Dynamics 365 Business Central на сайте microsoft.com](https://dynamics.microsoft.com/business-central/overview/).  
+
+Когда вы будете готовы приобрести [!INCLUDE [prodshort](includes/prodshort.md)], вы можете найти партнера [!INCLUDE [prodshort](includes/prodshort.md)] на странице [Я ищу поставщика решений](https://go.microsoft.com/fwlink/?linkid=2038145). Вы также можете найти решения и услуги от партнеров в [Microsoft AppSource](https://go.microsoft.com/fwlink/?linkid=845998).  
+
+Если вам нужно руководство от Microsoft, свяжитесь с [Отделом продаж Microsoft](https://go.microsoft.com/fwlink/?linkid=828707).  
+
+Ваш партнер по распространению также будет предоставлять вам техническую поддержку. Дополнительные сведения см. в разделе [Ресурсы по Справке и поддержке](product-help-and-support.md).  
 
 ## <a name="see-also"></a>См. также
 
 [Приступая к работе](product-get-started.md)  
+[Вопросы и ответы о функции "Что вы хотите сделать"](ui-search-faq.md)  
+[Вопросы и ответы по поиску и фильтрации](ui-search-filter-faq.md)  
+[Вопросы и ответы о представлениях списков](ui-views-faq.md)  
+[Изменение языка и языкового стандарта](about-locale-language.md)  
 [Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] в качестве рабочего почтового ящика в Outlook](admin-outlook.md)  
 [Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] без Outlook](admin-no-outlook.md)  
 [Изменение базовых настроек](ui-change-basic-settings.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 [Получение ответов на вопросы](product-get-started.md#getting-answers-to-questions)  
-[Управление пользователями и разрешениями](ui-how-users-permissions.md)  
+[Ресурсы для справки и поддержки](product-help-and-support.md)  
+[Учебный каталог Business Central](readiness/readiness-learning-catalog.md)  
+[Назначение разрешений пользователям и группам](ui-define-granular-permissions.md)  
 
 ## [!INCLUDE[d365fin](includes/free_trial_md.md)]  

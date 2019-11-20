@@ -8,14 +8,14 @@ ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 2d28b5ef601fb5927f5099f003c200e98c684182
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 1d9c009b436d7cd0228f78f1bd315e6ddcaadd70
+ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2301169"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "2554521"
 ---
-# <a name="how-to-create-a-fixed-asset-charge"></a>Практическое руководство. Создание издержек ОС
+# <a name="create-a-fixed-asset-charge"></a>Создание издержек ОС
 
 Ниже показано, как создать новые издержки основного средства. 
 

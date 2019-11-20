@@ -8,12 +8,12 @@ ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 251a37822510fb1e15a9437b40a42c80c2ff1a23
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 16d58294bb4eb2e13be798315f1cb40ef398ffbe
+ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2301184"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "2554532"
 ---
 # <a name="bank-management"></a>Управление банками
 
@@ -57,4 +57,4 @@ ms.locfileid: "2301184"
 
 ## <a name="see-also"></a>См. также 
 
-[Практическое руководство. Настройка платежного поручения](How-to-Set-Up-a-Bank-Payment-Order.md)
+[Настройка платежного поручения](How-to-Set-Up-a-Bank-Payment-Order.md)

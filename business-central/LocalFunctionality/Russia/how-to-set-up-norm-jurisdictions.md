@@ -8,14 +8,14 @@ ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 5cbf5884454483679cae50b4057f5e0f1cbfab31
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 5d95ccb7006767a476cc2dbb32e9f1e9aec5ae1a
+ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2301145"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "2554497"
 ---
-# <a name="how-to-set-up-norm-jurisdictions"></a>Практическое руководство. Настройка юрисдикций нормы
+# <a name="set-up-norm-jurisdictions"></a>Настройка юрисдикций нормы
 
 Юрисдикции нормы основаны на российском налоговом законодательстве, в которое определены различные ставки налогов. Юрисдикции номы используются для расчета налогооблагаемых прибылей и убытков в налоговом учете. В окне **Юрисдикции нормы** вы можете настроить и определить юрисдикции нормы, которые будут использоваться при расчете налоговых разниц.
 
@@ -56,4 +56,4 @@ ms.locfileid: "2301145"
 [Настройка расчета налоговых разниц](Setting-up-Tax-Difference-Calculation.md)  
 [Налоговый учет](Tax-Accounting.md)  
 [Налоговые регистры](Tax-Registers.md)  
-[Практическое руководство. Создание налоговых регистров](How-to-Create-Tax-Registers.md)  
+[Расчет налоговых регистров](How-to-Create-Tax-Registers.md)  

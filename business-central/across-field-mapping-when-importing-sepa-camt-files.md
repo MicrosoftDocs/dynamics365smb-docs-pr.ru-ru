@@ -10,15 +10,15 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 4e179b8dae0fda5c0a2c045fc61fb58101bfec07
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: e4c3b60bca16e1f1e72e728d02b07ded11cada09
+ms.sourcegitcommit: c6e28db8f78fa21db064c9b8a8d742f49d7db3ae
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2300501"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "2692588"
 ---
 # <a name="field-mapping-when-importing-sepa-camt-files"></a>Сопоставление полей при импорте файлов SEPA CAMT
-[!INCLUDE[d365fin](includes/d365fin_md.md)]поддерживает региональные стандарты SEPA для импорта банковских выписок SEPA (формат CAMT). Дополнительные сведения см. в разделе [Настройка службы преобразования банковских данных](bank-how-setup-bank-data-conversion-service.md).  
+[!INCLUDE[d365fin](includes/d365fin_md.md)]поддерживает региональные стандарты SEPA для импорта банковских выписок SEPA (формат CAMT). Для получения дополнительной информации см. раздел [Использование расширения AMC Banking 365 Fundamentals](ui-extensions-amc-banking.md).  
 
  Стандарт SEPA CAMT имеет локальные вариации. Следовательно, возможно придется изменить определение универсального обмена данными, представляемое кодом **SEPA CAMT** на странице **Определения учета обмена**, чтобы адаптировать его к локальной вариации стандарта. В следующих таблицах показаны сопоставления элементов полям для таблиц 81, 273 и 274 в реализации SEPA CAMT в [!INCLUDE[d365fin](includes/d365fin_md.md)].  
 
@@ -61,6 +61,6 @@ ms.locfileid: "2300501"
 ## <a name="see-also"></a>См. также  
 [Настройка обмена данными](across-set-up-data-exchange.md)  
 [Электронный обмен данными](across-data-exchange.md)  
-[Настройка службы конвертации банковских данных](bank-how-setup-bank-data-conversion-service.md)   
+[Использование расширения AMC Banking 365 Fundamentals](ui-extensions-amc-banking.md)   
 [Использование XML-схем для определения обмена данными](across-how-to-use-xml-schemas-to-prepare-data-exchange-definitions.md)  
 [Выверка платежей с использованием автоматического применения](receivables-how-reconcile-payments-auto-application.md)  

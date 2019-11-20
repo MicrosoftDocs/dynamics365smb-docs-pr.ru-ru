@@ -8,14 +8,14 @@ ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 197c5d2019476f6966d26f2b7580c80841485dda
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 158239d823000839dfcb35c80b1998b6715835e6
+ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2301170"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "2554522"
 ---
-# <a name="how-to-create-a-credit-memo-for-a-fixed-asset-charge"></a>Практическое руководство. Создание кредит-ноты для издержек ОС
+# <a name="create-a-credit-memo-for-a-fixed-asset-charge"></a>Создание кредит-ноты для издержек ОС
 
 Если необходимо исправить ошибку издержек основных средств в счете, можно учесть кредит-ноту для издержек основных средств. Ниже показано, как создать кредит-ноту по издержкам основного средства.
 

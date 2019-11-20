@@ -8,14 +8,14 @@ ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 5181e2d2c6d9025737750623bb897cbe82f0d23d
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 484b951b4012bddc5dc60ce6c331573e1af0e1ab
+ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2301157"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "2554510"
 ---
-# <a name="how-to-post-tax-differences"></a>Практическое руководство. Учет налоговых разниц
+# <a name="post-tax-differences"></a>Учет налоговых разниц
 
 **Журнал налоговых разниц** используется для создания и учета транзакций для налоговых разниц. Налоговые разницы представляют собой расхождения сумм налога, вызванные различиями в правилах признания доходов и расходов в бухгалтерском и налоговом учете.
 
@@ -68,4 +68,4 @@ ms.locfileid: "2301157"
 [Настройка расчета налоговых разниц](Setting-up-Tax-Difference-Calculation.md)  
 [Налоговый учет](Tax-Accounting.md)  
 [Налоговые регистры](Tax-Registers.md)  
-[Практическое руководство. Создание налоговых регистров](How-to-Create-Tax-Registers.md)  
+[Расчет налоговых регистров](How-to-Create-Tax-Registers.md)  

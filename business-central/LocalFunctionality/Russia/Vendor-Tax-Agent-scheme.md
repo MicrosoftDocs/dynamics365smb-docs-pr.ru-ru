@@ -8,12 +8,12 @@ ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 7600d3a101c0e3998eb6823ed668dd9b725d93c3
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 0e5855904c0adb859c705202c31f81a932e2791f
+ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2301183"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "2554533"
 ---
 # <a name="vendor-tax-agent-scheme"></a>Схема налогового агента поставщика
 
@@ -21,15 +21,15 @@ ms.locfileid: "2301183"
 
 Заполните поля в карточке поставщика.
 
-1. На вкладке "Договор": 
+1. Экспресс-вкладка **Договор**:
 
     - Учет договоров - обязательно.
 
     - Номера договоров обязательны.
 
-2. В карточке договора:
+2. На карточке договора:
 
-    - НДС бизнес-группа 
+    - НДС бизнес-группа
     - НДС товарная группа налогового агента
     - Тип источника оплаты НДС - Внутренние фонды
 
@@ -66,14 +66,14 @@ ms.locfileid: "2301183"
 
 Заполните поля в карточке поставщика.
 
-1. На вкладке "Договор": 
+1. На вкладке "Договор":
 
     - Учет договоров - обязательно.
     - Номера договоров обязательны.
 
 2. В карточке договора:
 
-    - НДС бизнес-группа 
+    - НДС бизнес-группа
     - НДС товарная группа налогового агента
     - Тип источника оплаты НДС - Фонды поставщика
 
@@ -107,7 +107,7 @@ ms.locfileid: "2301183"
         - Agreement No.
         - Bal. Account Type -  G/L Account
         - Bal. Account - “ ”
-        - Currency Code 
+        - Currency Code
         - Amount - in USD/EUR
 
 3. Выполните учет строк журнала.
@@ -151,7 +151,7 @@ ms.locfileid: "2301183"
         - Agreement No.
         - Bal. Account Type -  G/L Account
         - Bal. Account - “ ”
-        - Currency Code 
+        - Currency Code
         - Amount - in USD/EUR
 
 ## <a name="see-also"></a>См. также

@@ -8,12 +8,12 @@ ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 42e1fabb80b04d8337cf6cbd507d45ec17f4e452
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 966336a080b4c93fc97f3c1bf9df0595da67a18f
+ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2301119"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "2554582"
 ---
 # <a name="tax-registers"></a>Налоговые регистры
 
@@ -30,7 +30,7 @@ ms.locfileid: "2301119"
 
 ## <a name="see-also"></a>См. также
 
-[Практическое руководство. Настройка налогового учета](How-to-Set-Up-Tax-Accounting.md)  
-[Практическое руководство. Создание налоговых регистров](How-to-Create-Tax-Registers.md)  
-[Практическое руководство. Настройка секций налогового регистра](How-to-Set-Up-Tax-Register-Sections.md)  
+[Настройка налогового учета](How-to-Set-Up-Tax-Accounting.md)  
+[Расчет налоговых регистров](How-to-Create-Tax-Registers.md)  
+[Настройка секций налогового регистра](How-to-Set-Up-Tax-Register-Sections.md)  
 [Налоговые разницы](Tax-Differences.md)  

@@ -8,16 +8,16 @@ ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 253b63e3e20ab8bb1140ca68141a931ecde4033f
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: a9793c9770a8e7fc2162da903127881da47cae41
+ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2301176"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "2554528"
 ---
 # <a name="fixed-asset-charges"></a>Издержки ОС
 
-Функция издержек основных средств позволяет включать дополнительные издержки на покупку основных средств в стоимость приобретения ОС. Дополнительные сведения см. в разделе [Практическое руководство. Создание издержек ОС](how-to-create-a-fixed-asset-charge.md).  
+Функция издержек основных средств позволяет включать дополнительные издержки на покупку основных средств в стоимость приобретения ОС. Дополнительные сведения см. в разделе [Создание издержек ОС](how-to-create-a-fixed-asset-charge.md).  
 
 Стоимость приобретения ОС можно изменить в следующих случаях:  
 
@@ -31,7 +31,7 @@ ms.locfileid: "2301176"
 
 ## <a name="see-also"></a>См. также
 
-[Практическое руководство. Создание издержек ОС](How-to-Create-a-Fixed-Asset-Charge.md)  
-[Практическое руководство. Создание кредит-ноты для издержек ОС](How-to-Create-a-Credit-Memo-for-a-Fixed-Asset-Charge.md)  
-[Практическое руководство. Просмотр учтенных операций по издержкам основных средств](How-to-View-Posted-Entries-on-a-Fixed-Asset-Charge.md)  
+[Создание издержек ОС](How-to-Create-a-Fixed-Asset-Charge.md)  
+[Создание кредит-ноты для издержек ОС](How-to-Create-a-Credit-Memo-for-a-Fixed-Asset-Charge.md)  
+[Просмотр учтенных операций по издержкам основных средств](How-to-View-Posted-Entries-on-a-Fixed-Asset-Charge.md)  
 [Настройка основных средств](../../fa-setup.md)  

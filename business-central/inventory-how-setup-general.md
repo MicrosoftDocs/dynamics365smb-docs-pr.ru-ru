@@ -10,21 +10,23 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: warehouse, stock
-ms.date: 10/01/2019
+ms.date: 11/12/2019
 ms.author: SorenGP
-ms.openlocfilehash: bf81f57aad5178a7f875381b274e43cab50899ad
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 36c5446a2297dd0208104d22a7d2fd96077b3590
+ms.sourcegitcommit: 02f1633213793bfc040ad0d2a96fe76572215aa5
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2309872"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "2798405"
 ---
 # <a name="set-up-general-inventory-information"></a>Настройка общей информации по запасам
 Можно указать общую информацию по запасам на странице **Настройка запасов**.
 
 ## <a name="to-set-up-general-inventory-information"></a>Настройка общей информации по запасам
-1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка модуля "Запасы"**, а затем выберите соответствующую ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка модуля "Запасы"**, затем выберите соответствующую ссылку.
 2. На странице **Настройка запасов** заполните требуемые поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
+
+Для получения подробной информации о полях себестоимости, **Автомат. учет себест.** и **Учет ожидаемой себест. в ГК**, см. разделы [Выверка себестоимости товаров с главной книгой](finance-how-to-post-inventory-costs-to-the-general-ledger.md) и [Сведения о проектировании: учет ожидаемой себестоимости](design-details-expected-cost-posting.md).
 
 Если требуется учитывать в расчетах входящее время обработки склада при планирования заказов в строке покупки, для запаса и склада это можно задать на странице **Настройка модуля "Запасы"** в качестве поведения по умолчанию. Дополнительные сведения см. в разделе [Расчет сроков планирования заказов](sales-how-to-calculate-order-promising-dates.md).  
 

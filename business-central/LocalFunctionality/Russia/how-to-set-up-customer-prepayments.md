@@ -8,14 +8,14 @@ ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 90a64044bd2e70a15f98c05218daca8c54bb9c89
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: a6764e37c30d31ef8d98cf9e915f045cf1c65a69
+ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2301146"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "2554499"
 ---
-# <a name="how-to-set-up-customer-prepayments"></a>Практическое руководство. Настройка предоплат клиентов
+# <a name="set-up-customer-prepayments"></a>Настройка предоплат клиентов
 
 Предоплаты — это авансовые платежи по заказам на продажу, которые получены, для которых создан счет и которые учтены, но до окончательного выставления счетов. Например, вам может потребоваться задаток, чтобы произвести товар и отгрузить его клиенту. Предоплаты позволяют создавать счета и собирать авансовые платежи от клиентов и учитывать платежи для правильных счетов.
 

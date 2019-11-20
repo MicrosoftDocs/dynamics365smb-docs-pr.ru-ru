@@ -8,14 +8,14 @@ ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: be074c46bd97f3f790921185ae9a1706e026af8d
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: c44814977f74e5f722f35210f9c9417094d3974e
+ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2301167"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "2554519"
 ---
-# <a name="how-to-create-cash-account-cards"></a>Практическое руководство. Создание карточек счетов кассы
+# <a name="create-cash-account-cards"></a>Создание карточек счетов кассы
 
 Счета кассы похожи на банковские счета и создаются так же. Можно создать любое необходимое количество карточек счетов кассы.
 

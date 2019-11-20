@@ -8,12 +8,12 @@ ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 98038595d9bd78d6a6b8b89627608c3909ef6594
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: d5893236a1c6ab2c7a34471068d4afe833267a17
+ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2301179"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "2554530"
 ---
 # <a name="account-schedules-overview"></a>Обзор финансовых отчетов
 
@@ -34,7 +34,7 @@ ms.locfileid: "2301179"
 > **Оборотная ведомость по ГК**, **Карточка счета ГК**, **Анализ операций счета ГК**
 
 ## <a name="see-also"></a>См. также
-[Практическое руководство. Импорт и экспорт финансовых отчетов](How-to-Import-and-Export-Account-Schedules.md)  
-[Практическое руководство. Определение расширения финансового отчета](How-to-Define-an-Account-Schedule-Extension.md)  
-[Практическое руководство. Определение константы финансового отчета](How-to-Define-an-Account-Schedule-Constant.md)  
-[Практическое руководство. Работа с финансовыми отчетами](How-to-Work-with-Account-Schedules.md)  
+[Импорт и экспорт финансовых отчетов](How-to-Import-and-Export-Account-Schedules.md)  
+[Определение расширения финансового отчета](How-to-Define-an-Account-Schedule-Extension.md)  
+[Определение константы финансового отчета](How-to-Define-an-Account-Schedule-Constant.md)  
+[Работа с финансовыми отчетами](How-to-Work-with-Account-Schedules.md)  

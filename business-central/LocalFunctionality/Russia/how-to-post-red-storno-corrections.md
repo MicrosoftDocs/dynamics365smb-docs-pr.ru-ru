@@ -8,14 +8,14 @@ ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: c86628262308e1ac6d84584b3a7e9665dc70ca99
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 1b9b53668b0712c1bcbac2523ebd11fa20507b82
+ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2301158"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "2554508"
 ---
-# <a name="how-to-post-red-storno-corrections"></a>Практическое руководство. Учет коррекций "красный сторно"
+# <a name="post-red-storno-corrections"></a>Учет коррекций "красный сторно"
 
 Можно настраивать склад на использование одного столбца для первоначального и корректирующего учета. Эта функция часто называется *красный сторно*. Учет "красный сторно" можно использовать для учета следующих операций склада:
 

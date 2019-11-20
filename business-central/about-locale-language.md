@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: language, locale, localization, culture
-ms.date: 10/01/2019
+ms.date: 10/22/2019
 ms.author: edupont
-ms.openlocfilehash: 4cab6bd1ca01e6f4d66914cff8a3a026f8ecfc32
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 81377dfe391415c6922cf0dcf00a8c8567ee4c80
+ms.sourcegitcommit: c6e28db8f78fa21db064c9b8a8d742f49d7db3ae
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2300789"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "2692708"
 ---
 # <a name="changing-language-and-locale"></a>Изменение языка и языкового стандарта
 
@@ -40,6 +40,10 @@ ms.locfileid: "2300789"
 
 Чтобы изменить языковой стандарт, перейдите на страницу **Мои настройки**. Дополнительные сведения см. в разделе [Изменение базовых настроек](ui-change-basic-settings.md).  
 
+## <a name="application-version"></a>Версия приложения
+
+На странице **Справка и поддержка** можно посмотреть версию [!INCLUDE [prodshort](includes/prodshort.md)], на которой основана ваша организация. Если вы хотите основать компанию на другой версии, ваш администратор может создать новую производственную среду. Для получения дополнительной информации см. раздел [Создание новой производственной среды](/dynamics365/business-central/dev-itpro/administration/tenant-admin-center-environments#create-a-new-production-environment) в контенте для разработчиков и ИТ-специалистов.  
+
 ## <a name="languages-of-the-included365finincludesd365fin_mdmd-help"></a>Языки справки [!INCLUDE[d365fin](includes/d365fin_md.md)]
 Содержимое справки для основных функциональных возможностей в [!INCLUDE[d365fin](includes/d365fin_md.md)] публикуется на сайте "Документация Майкрософт" и доступно на нескольких разных языках. При доступе к документам из [!INCLUDE[d365fin](includes/d365fin_md.md)] содержимое отображается на вашем языке. Если какая-то конкретная страница еще недоступна на вашем языке, она отображается на английском.
 
@@ -49,6 +53,8 @@ ms.locfileid: "2300789"
 > [!NOTE]  
 > В списке отображаются все языки, поддерживаемые сайтом "Документация Майкрософт". [!INCLUDE[d365fin](includes/d365fin_md.md)] доступен в ограниченном количестве странах/регионов, но содержимое справки доступно на большем количестве языков. Однако содержимое справки доступно не на всех языках, поддерживаемых сайтом "Документация Майкрософт".
 
-## <a name="see-also"></a>См. также  
+## <a name="see-also"></a>См. также
+
+[Ресурсы для справки и поддержки](product-help-and-support.md)  
 [Изменение базовых настроек](ui-change-basic-settings.md)  
 [Приступая к работе](product-get-started.md)  

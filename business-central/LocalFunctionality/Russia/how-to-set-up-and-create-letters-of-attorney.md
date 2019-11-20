@@ -8,14 +8,14 @@ ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: cda85dd9ffdaf8c4bd199b5d7cc5a2848080da59
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 9486393e7e21afb25ab39293e81510ce6d7a8c1d
+ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2301147"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "2554500"
 ---
-# <a name="how-to-set-up-and-create-letters-of-attorney"></a>Практическое руководство. Создание и настройка доверенности
+# <a name="set-up-and-create-letters-of-attorney"></a>Создание и настройка доверенности
 
 Функция доверенностей позволяет создавать и печатать доверенности, а также печатать журнал доверенностей.  
 
@@ -58,4 +58,4 @@ ms.locfileid: "2301147"
 
 ## <a name="see-also"></a>См. также
 
-[Практическое руководство. Настройка материально-ответственных сотрудников и авансовых отчетов](How-to-Set-Up-Responsible-Employees-and-Advance-Statements.md)  
+[Настройка материально-ответственных сотрудников и авансовых отчетов](How-to-Set-Up-Responsible-Employees-and-Advance-Statements.md)  

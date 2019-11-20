@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 597f14f07f7e8ac690dce8a5473d01ec68d1669a
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 31ac21dbba331748c9eef7bce199a5709147016b
+ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2314750"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "2554648"
 ---
 # <a name="walkthrough-receiving-and-putting-away-in-basic-warehouse-configurations"></a>Пошаговое руководство. Получение и складирование в базовых конфигурациях склада
 
@@ -126,7 +126,7 @@ ms.locfileid: "2314750"
 3.  Выберите поле **Документ-источник**, а затем выберите **Заказ на покупку**.  
 4.  Выберите поле **Номер источника**, выберите строку для покупки у поставщика 10000, а затем нажмите кнопку **ОК**.  
 
-    В качестве альтернативы на вкладке **Действия** в группе **Функции** выберите **Получить источник документа**, а затем выберите заказ на покупку.  
+    В качестве альтернативы выберите действие **Получить источник документа**, затем выберите заказ на покупку.  
 
 5.  Выберите действие **Автозаполнение кол-ва для обработки**.  
 

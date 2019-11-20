@@ -12,12 +12,12 @@ ms.workload: na
 ms. search.keywords: app, add-in, manifest, customize, stream, bank account link
 ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: d79ef7c076ec3a529aeb0c679b8b61658ef65af5
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 6089a51a0ef27175988ed0c00fdb353cd3c7e96c
+ms.sourcegitcommit: c6e28db8f78fa21db064c9b8a8d742f49d7db3ae
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2315352"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "2692948"
 ---
 # <a name="the-envestnet-yodlee-bank-feeds-extension"></a>Расширение Envestnet Yodlee Bank Feeds
 Для быстрой выверки платежей на ваши банковские счета вы можете использовать службу Envestnet Yodlee Bank Feeds, которая позволяет связать банковский счет в вашей системе со счетом в интернет-банке. Это означает, что последняя банковская выписка автоматически или вручную будет передаваться в ваш журнал выверки, чтобы вы всегда обрабатывали последний платежи с минимальным риском ошибок.
@@ -25,7 +25,9 @@ ms.locfileid: "2315352"
 Служба Envestnet Yodlee Bank Feeds поддерживается только в США и Канаде.
 
 > [!NOTE]
-> Эта функция поддерживается только в сетевой версии Business Central. Чтобы воспользоваться этой функцией в локальной версии, необходимо получить кобрендинговую учетную запись у Envestnet Yodlee.<br /><br />
+> Служба Envestnet Yodlee Bank Feeds поддерживается только в сетевой версии Business Central. Чтобы воспользоваться этой функцией в локальной версии, необходимо получить кобрендинговую учетную запись у Envestnet Yodlee.<br /><br />
+> Служба Envestnet Yodlee Bank Feeds поддерживается только в США и Канаде.
+> Поддерживаются только банки, расположенные в этих странах, хотя банки из других стран могут появляться в окне выбора банка Envestnet Yodlee Bank Feeds в [!INCLUDE[d365fin](includes/d365fin_md.md)],
 
 > [!IMPORTANT]
 > Из-за новой Директивы об оказании платежных услуг (PSD2), вступившей в силу в Европе, после 14 сентября 2019 г. вы больше не сможете автоматически импортировать банковские выписки из банков Соединенного королевства в [!INCLUDE[d365fin](includes/d365fin_md.md)]. Мы изучаем возможности снова сделать эту функцию доступной в будущем.

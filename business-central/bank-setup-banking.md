@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: Yodlee, feed, stream, data exchange, AMC, link
 ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 1dbbc8ff96f381a5e52c67eac9dfe2c91ee17eb5
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 083bb3784e21621f97161e65ff3cfa80ed0efc52
+ms.sourcegitcommit: c6e28db8f78fa21db064c9b8a8d742f49d7db3ae
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2303992"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "2692732"
 ---
 # <a name="setting-up-banking"></a>Настройка банковских операций
 Используя карточки банковских счетов, можно отслеживать все банковские счета в любой валюте. После настройки банковских счетов можно также использовать параметр печати платежных документов.
@@ -28,7 +28,7 @@ ms.locfileid: "2303992"
 | --- | --- |
 | Настройка карточек банковских счетов для каждого банковского счета для отслеживания банковских транзакций. |[Настройка банковских счетов](bank-how-setup-bank-accounts.md) |
 | Настройте внешний сервис, который позволяет импортировать банковские выписки в электронном виде для применения платежей и выверки банковских транзакций. |[Настройка службы Envestnet Yodlee Bank Feeds](bank-how-setup-bank-statement-service.md) |
-| Настройте внешний сервис, который позволяет экспортировать платежи в банк для обработки и импортировать банковские выписки в виде банковских файлов для применения платежей и выверки банковских транзакций. |[Настройка службы конвертации банковских данных](bank-how-setup-bank-data-conversion-service.md) |
+| Настройте внешний сервис, который позволяет экспортировать платежи в банк для обработки и импортировать банковские выписки в виде банковских файлов для применения платежей и выверки банковских транзакций. |[Использование расширения AMC Banking 365 Fundamentals](ui-extensions-amc-banking.md) |
 
 ## <a name="see-also"></a>См. также
 [Управление банковскими счетами](bank-manage-bank-accounts.md)  

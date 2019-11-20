@@ -8,14 +8,14 @@ ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: ccdcffb0729849a61b465f7da72b2eb972fdd812
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 111ea1015f3f85603a1a5b6aaa8d47b866ed0914
+ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2301156"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "2554509"
 ---
-# <a name="how-to-prepare-vat-entries-for-posting"></a>Практическое руководство. Подготовка операций НДС к учету
+# <a name="prepare-vat-entries-for-posting"></a>Подготовка операций НДС к учету
 
 Необходимо периодически предоставлять в налоговые органы данные о чистой сумме НДС. Можно использовать **Журнал НДС** для подготовки транзакций с открытыми суммами НДС к учету и для копирования операций в соответствующий журнал НДС. Обычно это нужно перед запуском пакетного задания **Вычисление и учет зачета НДС** для учета и закрытия операций НДС.
 
@@ -41,4 +41,4 @@ ms.locfileid: "2301156"
 
 ## <a name="see-also"></a>См. также
 
-[Практическое руководство. Подача отчета об НДС в налоговые органы](../../finance-how-report-vat.md)  
+[Подача отчета об НДС в налоговые органы](../../finance-how-report-vat.md)  

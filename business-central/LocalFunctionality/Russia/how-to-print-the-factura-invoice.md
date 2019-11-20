@@ -8,14 +8,14 @@ ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: ba77f0b6d28b673cb3dea1dfa40f7be6196f3267
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 691af2ec81bf814809b9847542720f37224cdd06
+ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2301153"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "2554505"
 ---
-# <a name="how-to-print-the-factura-invoice"></a>Практическое руководство. Печать счета-фактуры
+# <a name="print-the-factura-invoice"></a>Печать счета-фактуры
 
 Документ счета-фактуры необходимо печатать как часть таможенной декларации.
 
@@ -33,4 +33,4 @@ ms.locfileid: "2301153"
 
 ## <a name="see-also"></a>См. также
 
-[Практическое руководство. Ввод сведений таможенных деклараций](How-to-Enter-Custom-Declarations-Information.md)  
+[Ввод сведений таможенных деклараций](How-to-Enter-Custom-Declarations-Information.md)  

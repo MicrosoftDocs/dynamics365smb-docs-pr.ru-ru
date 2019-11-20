@@ -8,14 +8,14 @@ ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: a1aa7d1c5936d38d6de46b21bcfd32492027aa4b
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 860182a9d1afa0ed74153c423f485cbaa54e0478
+ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2301162"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "2554512"
 ---
-# <a name="how-to-enter-custom-declarations-information"></a>Практическое руководство. Ввод сведений таможенных деклараций
+# <a name="enter-custom-declarations-information"></a>Ввод сведений таможенных деклараций
 
 Воспользуйтесь следующей процедурой для ввода сведений таможенных деклараций.
 
@@ -38,4 +38,4 @@ ms.locfileid: "2301162"
 
 ## <a name="see-also"></a>См. также
 
-[Практическое руководство. Печать счета-фактуры](How-to-Print-the-Factura-Invoice.md)  
+[Печать счета-фактуры](How-to-Print-the-Factura-Invoice.md)  

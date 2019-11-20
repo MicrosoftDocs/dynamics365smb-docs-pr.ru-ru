@@ -8,12 +8,12 @@ ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: f47c4948ba5083bfb89adf04752d5110706a24a9
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: dbdd1b81251145583593bac54a04a956335b23a4
+ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2301115"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "2554553"
 ---
 # <a name="vat-overview-in-the-russian-version"></a>Обзор НДС в русской версии
 
@@ -37,9 +37,9 @@ ms.locfileid: "2301115"
 
 ## <a name="see-also"></a>См. также
 
-[Практическое руководство. Подача отчета об НДС в налоговые органы](../../finance-how-report-vat.md)  
-[Практическое руководство. Настройка книг НДС](How-to-Set-Up-VAT-Ledgers.md)  
-[Практическое руководство. Подготовка операций НДС к учету](How-to-Prepare-VAT-Entries-for-Posting.md)  
+[Подача отчета об НДС в налоговые органы](../../finance-how-report-vat.md)  
+[Настройка книг НДС](How-to-Set-Up-VAT-Ledgers.md)  
+[Подготовка операций НДС к учету](How-to-Prepare-VAT-Entries-for-Posting.md)  
 [Зачет НДС](Settlement-VAT.md)  
 [Загрузка книг покупок и продаж и декларации НДС в формате XML](upload-books-purchases-sales-xml-vat-declaration.md)  
 [НДС по предоплатам клиентов](VAT-by-Customer-prepayments.md)  

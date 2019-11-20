@@ -8,14 +8,14 @@ ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 3e5f22b13128444da15e9bc6c02d5c858fa8eb97
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 119ba8b7d65c142bda07c6b226a612b7240ec020
+ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2301148"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "2554498"
 ---
-# <a name="how-to-set-up-customer-and-vendor-agreements"></a>Практическое руководство. Настройка договоров с клиентами и поставщиками
+# <a name="set-up-customer-and-vendor-agreements"></a>Настройка договоров с клиентами и поставщиками
 
 Функции договоров с поставщиками и клиентами включает в себя следующие компоненты:
 

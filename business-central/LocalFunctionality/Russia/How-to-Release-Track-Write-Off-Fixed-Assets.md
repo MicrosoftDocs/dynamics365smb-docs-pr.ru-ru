@@ -8,14 +8,14 @@ ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 53006857dcc542814a5e20c5aebff9d024125c2e
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: e54ffd5096e6a9ddbb65c83c5c052faa1f251240
+ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2301196"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "2554540"
 ---
-# <a name="how-to-release-track-and-write-off-fixed-assets"></a>Практическое руководство. Ввод, отслеживание и списание основных средств
+# <a name="release-track-and-write-off-fixed-assets"></a>Ввод, отслеживание и списание основных средств
 
 Вы можете управлять основными средствами с помощью функций актов учета основных средств в [!INCLUDE[prodshort](../../includes/prodshort.md)]. Акты учета основных средств служат для ввода, отслеживания и списания основных средств организации.
 

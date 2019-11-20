@@ -8,12 +8,12 @@ ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: eaad56eabb055cdedc69cadba402a7a329255f57
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: b24a8aba72eb190070c81b9bb59c21e928672864
+ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2301138"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "2554465"
 ---
 # <a name="inventory"></a>Запасы
 
@@ -31,4 +31,4 @@ ms.locfileid: "2301138"
 
 [Оборотная ведомость для товаров по ГК](Item-General-Ledger-Turnover.md)
 
-[Практическое руководство. Создание товарного отчета ТОРГ-29](How-to-Create-the-TORG-29-Goods-Report.md)
+[Создание товарного отчета ТОРГ-29](How-to-Create-the-TORG-29-Goods-Report.md)

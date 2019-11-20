@@ -8,12 +8,12 @@ ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 5e2a71ff230c5b7362f743d22443321c81a1f2eb
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: dd48e258c58bcc7a2ba8af21f603459c0bae2d38
+ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2301182"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "2554527"
 ---
 # <a name="collecting-profit-tax-information-for-tax-declaration"></a>Сбор сведений о налоге на прибыль для налоговой декларации
 
@@ -35,8 +35,8 @@ ms.locfileid: "2301182"
 
 [Налоговый учет](Tax-Accounting.md)
 
-[Практическое руководство. Настройка секций налогового регистра](How-to-Set-Up-Tax-Register-Sections.md)
+[Настройка секций налогового регистра](How-to-Set-Up-Tax-Register-Sections.md)
 
- [Практическое руководство. Создание налоговых регистров](How-to-Create-Tax-Registers.md)
+ [Расчет налоговых регистров](How-to-Create-Tax-Registers.md)
 
 [Налоговые разницы](Tax-Differences.md)

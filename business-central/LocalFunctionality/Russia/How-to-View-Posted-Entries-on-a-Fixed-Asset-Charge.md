@@ -8,14 +8,14 @@ ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 7f908b61d8681b31d9eb2cb48c98b24f920bd4b6
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 17632232b25034d334a7cfcabad2e19fe4973ee8
+ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2301195"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "2554539"
 ---
-# <a name="how-to-view-posted-entries-on-a-fixed-asset-charge"></a>Практическое руководство. Просмотр учтенных операций по издержкам основных средств
+# <a name="view-posted-entries-on-a-fixed-asset-charge"></a>Просмотр учтенных операций по издержкам основных средств
 
 Для каждого кода издержек ОС можно просмотреть все учтенные операции основных средств. Ниже показано, как просмотреть учтенные операции.
 
@@ -25,4 +25,4 @@ ms.locfileid: "2301195"
 
 ## <a name="see-also"></a>См. также
 
-[Практическое руководство. Создание издержек ОС](How-to-Create-a-Fixed-Asset-Charge.md)  
+[Создание издержек ОС](How-to-Create-a-Fixed-Asset-Charge.md)  

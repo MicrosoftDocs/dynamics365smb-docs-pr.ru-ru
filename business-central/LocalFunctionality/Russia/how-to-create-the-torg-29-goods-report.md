@@ -8,14 +8,14 @@ ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: f0506c029658b9dd4f862fbed797502f0db99b52
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 684e33d1ab4c002f6062df9c809292311bbe1b86
+ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2301164"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "2554515"
 ---
-# <a name="how-to-create-the-torg-29-goods-report"></a>Практическое руководство. Создание товарного отчета ТОРГ-29
+# <a name="create-the-torg-29-goods-report"></a>Создание товарного отчета ТОРГ-29
 
 В отчете ТОРГ-29 показываются товарные документы, которые можно использовать для отправки приходных и расходных накладных для склада.  
 

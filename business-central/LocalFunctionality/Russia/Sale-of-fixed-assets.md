@@ -8,12 +8,12 @@ ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: a928eed21d3a5df80f86c7ea8e798fb539f1929e
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 9f84c5d84d231d68836b1b24bd0659bf95e7355f
+ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2301188"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "2554536"
 ---
 # <a name="selling-fixed-assets"></a>Продажа основных средств
 

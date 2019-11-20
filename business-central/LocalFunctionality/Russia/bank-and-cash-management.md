@@ -8,12 +8,12 @@ ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: befaa4162d872e3927fcbd06431e0a012e1336a3
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 6d537abbaeef133d85b23149593d913c75af906d
+ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2301180"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "2554529"
 ---
 # <a name="bank-and-cash-management"></a>Управление банками и кассами
 
@@ -25,10 +25,10 @@ ms.locfileid: "2301180"
 
 [Управление мелкими доходами/расходами](Petty-Cash-Management.md)
 
-[Практическое руководство. Настройка платежного поручения](How-to-Set-Up-a-Bank-Payment-Order.md)
+[Настройка платежного поручения](How-to-Set-Up-a-Bank-Payment-Order.md)
 
-[Практическое руководство. Создание карточек счетов кассы](How-to-Create-Cash-Account-Cards.md)
+[Создание карточек счетов кассы](How-to-Create-Cash-Account-Cards.md)
 
-[Практическое руководство. Печать отчета "Кассовая книга КО-4"](How-to-Print-the-Cash-Report-CO-4-Report.md)
+[Печать отчета "Кассовая книга КО-4"](How-to-Print-the-Cash-Report-CO-4-Report.md)
 
-[Практическое руководство. Печать отчета "Журнал регистрации кассовых документов КО-3"](How-to-Print-the-Cash-Order-Journal-CO-3-Report.md)
+[Печать отчета "Журнал регистрации кассовых документов КО-3"](How-to-Print-the-Cash-Order-Journal-CO-3-Report.md)

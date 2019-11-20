@@ -12,17 +12,19 @@ ms.workload: na
 ms.search.keywords: supplier, payment priority
 ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 2586e9a5af338bee79bf73b494a7a653b6bfc2f2
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: c37ff7d347788300bcd2c9e138ac8379fb12a78a
+ms.sourcegitcommit: ab4141739a53ec100d42773f0da863fbeefa384f
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2312536"
+ms.lasthandoff: 10/14/2019
+ms.locfileid: "2577163"
 ---
 # <a name="prioritize-vendors"></a>Назначение приоритетов поставщикам
 В [!INCLUDE[d365fin](includes/d365fin_md.md)] предлагаются различные виды оплат поставщикам, например оплаты, которые должны быть произведены быстро, или оплаты, для которых возможны скидки. Дополнительные сведения см. в разделе [Предложение оплаты поставщикам](payables-how-suggest-vendor-payments.md).
 
 Во-первых, следует назначить приоритеты поставщикам путем назначения им номеров.
+<br><br>
+> [!Video https://www.microsoft.com/en-us/videoplayer/embed/RE3PRGa]
 
 ## <a name="to-prioritize-vendors"></a>Назначение приоритета поставщикам
 1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Поставщики**, а затем выберите соответствующую ссылку.

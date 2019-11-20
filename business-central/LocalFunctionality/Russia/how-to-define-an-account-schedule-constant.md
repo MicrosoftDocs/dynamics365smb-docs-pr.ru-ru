@@ -8,14 +8,14 @@ ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: bfaf7f9745b5547e9a8bb27c68d0ec42eea8de0d
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: de9de1e6b53aed34d1626a467641097b2c9feb5f
+ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2301161"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "2554514"
 ---
-# <a name="how-to-define-an-account-schedule-constant"></a>Практическое руководство. Определение константы финансового отчета
+# <a name="define-an-account-schedule-constant"></a>Определение константы финансового отчета
 
 [!INCLUDE[prodshort](../../includes/prodshort.md)] позволяет определить константу для строки финансового отчета. Константы полезны, если значение финансового отчета не меняется.
 
@@ -30,6 +30,6 @@ ms.locfileid: "2301161"
 
 ## <a name="see-also"></a>См. также
 
-[Практическое руководство. Работа с финансовыми отчетами](How-to-Work-with-Account-Schedules.md)  
+[Работа с финансовыми отчетами](How-to-Work-with-Account-Schedules.md)  
 [Обзор финансовых отчетов](account-schedules-overview.md)  
-[Практическое руководство. Определение расширения финансового отчета](How-to-Define-an-Account-Schedule-Extension.md)  
+[Определение расширения финансового отчета](How-to-Define-an-Account-Schedule-Extension.md)  

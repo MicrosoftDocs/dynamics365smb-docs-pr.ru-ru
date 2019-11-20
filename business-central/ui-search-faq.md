@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: find
 ms.date: 10/01/2019
 ms.author: bholtorf
-ms.openlocfilehash: 9fac8d546a24839ebaa0719d721d886c03001521
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 88a1e6cc711888a3cf68744d0ea6bbfdee41aea3
+ms.sourcegitcommit: 49309bdff9b680a35032b355fe97c565845dba15
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2310760"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "2695099"
 ---
 # <a name="tell-me-faq"></a>Вопросы и ответы о функции "Что вы хотите сделать"
 В этой теме содержатся ответы на вопросы, которые часто задают наши продвинутые пользователи о функции "Что вы хотите сделать"
@@ -51,4 +51,4 @@ ms.locfileid: "2310760"
 ## <a name="see-also"></a>См. также  
 [Сохранение и персонализация представлений списков](ui-views.md)  
 [Поиск страниц и информации с помощью функции "Что вы хотите сделать"](ui-search.md)  
-[Поиск страниц из обзора функций](ui-role-explorer.md)
+[Поиск страниц с помощью обозревателя ролей](ui-role-explorer.md)

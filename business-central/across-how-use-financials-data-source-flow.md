@@ -12,12 +12,12 @@ ms.reviewer: edupont
 ms.search.keywords: workflow, Odata, Power App, SOAP
 ms.date: 10/01/2019
 ms.author: bmeier
-ms.openlocfilehash: 86178bafa806fb8cba531d5b78157437c242d432
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: a46692503b19ddad57c4a68d0f29b588d84f5c9e
+ms.sourcegitcommit: cd5d3d288feee76d058d325720135275f4c8ad85
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2305036"
+ms.lasthandoff: 11/08/2019
+ms.locfileid: "2775455"
 ---
 # <a name="using-included365finincludesd365fin_mdmd-in-an-automated-workflow"></a>Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] в автоматическом бизнес-процессе
 Можно использовать данные [!INCLUDE[d365fin](includes/d365fin_md.md)] как часть рабочего процесса в Microsoft Flow.
@@ -81,7 +81,7 @@ ms.locfileid: "2305036"
 [Приступая к работе](product-get-started.md)  
 [Рабочий процесс](across-workflow.md)  
 [Импорт бизнес-данных из других финансовых систем](across-import-data-configuration-packages.md)  
-[Управление пользователями и разрешениями](ui-how-users-permissions.md)   
+[Назначение разрешений пользователям и группам](ui-define-granular-permissions.md)   
 [Управление рабочими процессами [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](across-use-workflows.md)  
 [Настройка пользователя для утверждений](across-how-to-set-up-approval-users.md)  
 [Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md)  

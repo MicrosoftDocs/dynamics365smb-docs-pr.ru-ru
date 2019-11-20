@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: payment process, direct payment posting, reconcile payment, expenses, cash receipts
 ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 70faf0628df96718c93767326720be56f7c05268
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 60a3cd3398e8a90160ab311dba1ae75fe70305b2
+ms.sourcegitcommit: c6e28db8f78fa21db064c9b8a8d742f49d7db3ae
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2312320"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "2692515"
 ---
 # <a name="applying-payments-automatically-and-reconciling-bank-accounts"></a>Автоматическое применение платежей и выверка банковских счетов
 Следует регулярно выверять банковский, дебетовый и кредитовый счета путем применения платежей, зарегистрированных на банковском счете, к связанным неоплаченным счетам и кредит-нотам либо к другим открытым операциям в [!INCLUDE[d365fin](includes/d365fin_md.md)].  
@@ -28,7 +28,7 @@ ms.locfileid: "2312320"
 
 Чтобы импортировать банковские выписки в электронном виде, необходимо сначала настроить и включить службу банковских выписок Envestnet Yodlee, а затем связать свои банковские счета с соответствующими счетами интернет-банка. Дополнительные сведения см. в разделе [Настройка службы Envestnet Yodlee Bank Feeds](bank-how-setup-bank-statement-service.md).  
 
-Кроме того, можно воспользоваться службой конвертации банковских данных, чтобы преобразовать файл банковской выписки в любом формате в поток данных для импорта в [!INCLUDE[d365fin](includes/d365fin_md.md)]. Дополнительные сведения см. в разделе [Настройка службы преобразования банковских данных](bank-how-setup-bank-data-conversion-service.md).  
+Кроме того, можно воспользоваться расширением AMC Banking 365 Fundamentals, чтобы преобразовать файл банковской выписки в любом формате в поток данных для импорта в [!INCLUDE[d365fin](includes/d365fin_md.md)]. Для получения дополнительной информации см. раздел [Использование расширения AMC Banking 365 Fundamentals](ui-extensions-amc-banking.md).  
 
 В следующей таблице приводится последовательность задач со ссылками на разделы, в которых они описываются.  
 

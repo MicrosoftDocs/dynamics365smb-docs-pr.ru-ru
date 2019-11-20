@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: supplier
 ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 26be6007c195964758e070d3d1b1e03800d4be4b
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 7e8306ad65b41784e853dfc46a41c2deee997180
+ms.sourcegitcommit: ab4141739a53ec100d42773f0da863fbeefa384f
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2316696"
+ms.lasthandoff: 10/14/2019
+ms.locfileid: "2577235"
 ---
 # <a name="register-new-vendors"></a>Регистрация новых поставщиков
 Поставщики предоставляют продукцию, которую вы продаете. Каждый поставщик, у которого производится покупка, должен быть зарегистрирован в карточке поставщика.
@@ -28,6 +28,8 @@ ms.locfileid: "2316696"
 
 > [!NOTE]  
 >   Если существуют шаблоны поставщиков для различных типов поставщиков, при создании новой карточки поставщика отобразится страница, с которой можно выбрать подходящий шаблон. Если существует только один шаблон поставщика, для создания новых карточек поставщиков всегда используется этот шаблон.
+<br><br>
+> [!Video https://www.microsoft.com/en-us/videoplayer/embed/RE3PZtd]
 
 ## <a name="to-create-a-new-vendor-card"></a>Создание новой карточки поставщика
 1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Поставщики**, а затем выберите соответствующую ссылку.  

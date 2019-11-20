@@ -8,14 +8,14 @@ ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 5cc6e07ff9ffaf3c4819bb82c5019b8aa0408060
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: d95c7279b79c7f60f430591949cf99fca9b3ce64
+ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2301142"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "2554493"
 ---
-# <a name="how-to-set-up-vat-ledgers"></a>Практическое руководство. Настройка книг НДС
+# <a name="set-up-vat-ledgers"></a>Настройка книг НДС
 
 Книги НДС используются для хранения сведений о НДС в транзакциях, связанных с товарами и услугами в России или с товарами, импортированными в Россию. Можно создать и сохранять различные виды книг НДС. Например, можно создавать книги НДС для следующих целей:  
 
@@ -57,8 +57,8 @@ ms.locfileid: "2301142"
 
 ## <a name="see-also"></a>См. также
 
-[Практическое руководство. Подача отчета об НДС в налоговые органы](../../finance-how-report-vat.md)  
-[Практическое руководство. Регистрация НДС по заказам на покупку](How-to-Register-VAT-on-Purchase-Orders.md)  
-[Практическое руководство. Подготовка операций НДС к учету](How-to-Prepare-VAT-Entries-for-Posting.md)  
-[Практическое руководство. Создание книг НДС](How-to-Create-VAT-Ledgers.md)  
-[Практическое руководство. Создание дополнительных листов](How-to-Create-Additional-Sheets.md)  
+[Подача отчета об НДС в налоговые органы](../../finance-how-report-vat.md)  
+[Регистрация НДС по заказам на покупку](How-to-Register-VAT-on-Purchase-Orders.md)  
+[Подготовка операций НДС к учету](How-to-Prepare-VAT-Entries-for-Posting.md)  
+[Создание книг НДС](How-to-Create-VAT-Ledgers.md)  
+[Создание дополнительных листов](How-to-Create-Additional-Sheets.md)  

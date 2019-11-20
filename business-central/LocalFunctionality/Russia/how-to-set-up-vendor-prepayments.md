@@ -8,14 +8,14 @@ ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 1c4bf3306d9b2e9701327539a28992890c25b817
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: ca4372b062b13108db78671ad86ed7ec876d0f6d
+ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2301140"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "2554492"
 ---
-# <a name="how-to-set-up-vendor-prepayments"></a>Практическое руководство. Настройка предоплат поставщикам
+# <a name="set-up-vendor-prepayments"></a>Настройка предоплат поставщикам
 
 Предоплаты — это авансовые платежи для заказов на покупку, которые оплачиваются до формирования окончательного счета. Например, может потребоваться оплатить поставщику 20 процентов суммы счета за производимый товар. Предоплаты позволяют отслеживать и регистрировать авансовые платежи по счетам покупки.
 

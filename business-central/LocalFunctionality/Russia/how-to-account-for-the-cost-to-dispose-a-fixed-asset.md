@@ -8,14 +8,14 @@ ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 2839cb903308bbc0d20672db511e6283de5a486a
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 58d2a4408da62e485bdae2c3b42f415a6ab43409
+ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2301172"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "2554524"
 ---
-# <a name="how-to-account-for-the-cost-to-dispose-a-fixed-asset"></a>Практическое руководство. Учет себестоимости реализации основного средства
+# <a name="account-for-the-cost-to-dispose-a-fixed-asset"></a>Учет себестоимости реализации основного средства
 
 Функция обслуживания при реализации позволяет отчитываться за сумму, потраченную на реализацию основного средства (ОС), как за расходы. Можно учесть операции, которые относятся к затратам на реализацию основного средства, так чтобы эти операции были отражены в формах актов списания ОС. 
 

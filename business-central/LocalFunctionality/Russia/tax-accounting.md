@@ -8,12 +8,12 @@ ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: af354dd1189e6ad1f01a3825b8eed7130658f481
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: a97d4fd901c7b2d16df8892f33f8f3e10f8dab77
+ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2301122"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "2554583"
 ---
 # <a name="tax-accounting"></a>Налоговый учет
 
@@ -50,10 +50,10 @@ ms.locfileid: "2301122"
 
 ## <a name="see-also"></a>См. также
 
-[Практическое руководство. Настройка налогового учета](How-to-Set-Up-Tax-Accounting.md)  
+[Настройка налогового учета](How-to-Set-Up-Tax-Accounting.md)  
 [Налоговые регистры](Tax-Registers.md)  
-[Практическое руководство. Создание налоговых регистров](How-to-Create-Tax-Registers.md)  
-[Практическое руководство. Настройка секций налогового регистра](How-to-Set-Up-Tax-Register-Sections.md)  
+[Расчет налоговых регистров](How-to-Create-Tax-Registers.md)  
+[Настройка секций налогового регистра](How-to-Set-Up-Tax-Register-Sections.md)  
 [Налоговые разницы](Tax-Differences.md)  
 [Учет платежей подоходного налога](Accounting-for-personal-income-tax-payments.md)  
 [Загрузка КЛАДР](Upload-KLADR.md)  

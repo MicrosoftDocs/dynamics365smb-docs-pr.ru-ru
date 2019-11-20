@@ -8,14 +8,14 @@ ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 6e17715400e58afaa261df481e36dc4d8944c700
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 3f70c054711facb161072e460e5e93bb3a47f207
+ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2301143"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "2554495"
 ---
-# <a name="how-to-set-up-tax-accounting"></a>Практическое руководство. Настройка налогового учета
+# <a name="set-up-tax-accounting"></a>Настройка налогового учета
 
 Налоговый учет позволяет применять правила признания доходов и расходов в соответствии с местным законодательством. Вы можете активировать функции налогового учета в [!INCLUDE[prodshort](../../includes/prodshort.md)], настроив налоговые регистры.
 
@@ -44,11 +44,11 @@ ms.locfileid: "2301143"
 
 6. Нажмите кнопку **Закрыть**, чтобы закрыть окно и сохранить введенные данные.
 
-Дополнительные сведения о том, как настроить налоговые регистры, см. в разделе [Практическое руководство. Создание налоговых регистров](How-to-Create-Tax-Registers.md).
+Дополнительные сведения о том, как настроить налоговые регистры, см. в разделе [Создание налоговых регистров](How-to-Create-Tax-Registers.md).
 
 ## <a name="see-also"></a>См. также
 
 [Налоговый учет](Tax-Accounting.md)  
 [Налоговые регистры](Tax-Registers.md)  
-[Практическое руководство. Создание налоговых регистров](How-to-Create-Tax-Registers.md)  
+[Расчет налоговых регистров](How-to-Create-Tax-Registers.md)  
 [Налоговые разницы](Tax-Differences.md)  

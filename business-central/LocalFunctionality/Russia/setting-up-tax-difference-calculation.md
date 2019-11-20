@@ -8,12 +8,12 @@ ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 42852ba7a37bcde47da90e15a30f2db609f434f5
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: aecfea292cc627db9ef643f434306e78db0e83d3
+ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2301124"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "2554584"
 ---
 # <a name="setting-up-tax-difference-calculation"></a>Настройка расчета налоговых разниц
 
@@ -38,5 +38,5 @@ ms.locfileid: "2301124"
 [Налоговые регистры](Tax-Registers.md)  
 [Налоговые разницы](Tax-Differences.md)  
 [Регистры налоговых разниц](Tax-Difference-Registers.md)  
-[Практическое руководство. Настройка юрисдикций нормы](How-to-Set-Up-Norm-Jurisdictions.md)  
-[Практическое руководство. Учет налоговых разниц](How-to-Post-Tax-Differences.md)  
+[Настройка юрисдикций нормы](How-to-Set-Up-Norm-Jurisdictions.md)  
+[Учет налоговых разниц](How-to-Post-Tax-Differences.md)  

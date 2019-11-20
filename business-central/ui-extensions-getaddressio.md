@@ -10,17 +10,17 @@ ms.workload: na
 ms.search.keywords: GetAddress.io, postcodes, postal, address, extension
 ms.date: 10/01/2019
 ms.author: bholtorf
-ms.openlocfilehash: 5fa6a6382d75bc29384ab31a78265fa2ed6954dc
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 489106d6e4e5dbb6f9c787d6ad5de556c5ec5bee
+ms.sourcegitcommit: 659cbd179d207b21fce2e365d60b423680d5156a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2311240"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "2622357"
 ---
 # <a name="the-getaddressio-uk-postcodes-extension"></a>Расширение "Почтовые индексы Великобритании GetAddress.io"
 Расширение "Почтовые индексы Великобритании GetAddress.io" может помочь сэкономить время и избежать ошибок при вводе адресов для объектов, таких как клиенты, поставщики, банковские счета и сотрудники. Например, при создании клиента можно просто выбрать почтовый индекс, и [!INCLUDE[d365fin](includes/d365fin_md.md)] отобразит список адресов. Выберите требуемый адрес, и поля адреса будут заполнены автоматически.  
 
-##<a name="to-use-the-getaddressio-uk-postcodes-extension-when-you-enter-an-address"></a>Использование расширения "Почтовые индексы Великобритании GetAddress.io" при создании адреса
+## <a name="to-use-the-getaddressio-uk-postcodes-extension-when-you-enter-an-address"></a>Использование расширения "Почтовые индексы Великобритании GetAddress.io" при создании адреса
 1. В разделе **Адрес** выберите **Найти адрес по почтовому индексу**.  
 
     > [!NOTE]  

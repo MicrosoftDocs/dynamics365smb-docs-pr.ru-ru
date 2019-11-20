@@ -8,14 +8,14 @@ ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 63a54e9867d792c6eee9e36b49ee36ba50ec6103
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 87847ce21fd6e916a28add25edfc1ec59f42c19d
+ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2301151"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "2554502"
 ---
-# <a name="how-to-set-up-a-quantity-book"></a>Практическое руководство. Настройка книги количественного учета
+# <a name="set-up-a-quantity-book"></a>Настройка книги количественного учета
 
 Создайте книгу амортизации для хранения записей количеств основных средств, для которых во время ввода в эксплуатацию будет списываться сумма, по которой они приобретены.
 

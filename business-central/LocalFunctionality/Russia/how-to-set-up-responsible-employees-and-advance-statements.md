@@ -8,14 +8,14 @@ ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: ccd39b2b77d58cf879445c5ba6d1f781d58c86e2
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 52b7f0157f0e89d3ce1471f39b032e9fbd5b43ed
+ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2301144"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "2554496"
 ---
-# <a name="how-to-set-up-responsible-employees-and-advance-statements"></a>Практическое руководство. Настройка материально-ответственных сотрудников и авансовых отчетов
+# <a name="set-up-responsible-employees-and-advance-statements"></a>Настройка материально-ответственных сотрудников и авансовых отчетов
 
 **Авансовый отчет** позволяет печатать и просматривать сведения о платежах, выполненных и полученных материально-ответственными лицами. Кроме того, этот отчет позволяет печатать и просматривать первичные документы по расходам материально-ответственных лиц.
 
