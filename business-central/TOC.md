@@ -16,14 +16,14 @@
 
 ## [Подготовьтесь к ведению бизнеса](ui-get-ready-business.md)
 ## [Обзор бизнес-функций](across-business-functionality.md)
-## [Пробная работа в предварительной версии](across-preview.md)
-## [Отмена подписки, удаление или сброс Business Central](admin-cancel.md)
-## [Устранение неполадок при самостоятельной регистрации](ui-troubleshoot-self-signup.md)
+## [Пробные версии и подписки](across-preview.md)
+### [Устранение неполадок при самостоятельной регистрации](ui-troubleshoot-self-signup.md)
+### [Отмена подписки или удаление Business Central](admin-cancel.md)
 ## [Доступ к интеллектуальному облаку с Business Central](about-intelligent-cloud.md)
 ## [Посетите нашу библиотеку видео](across-videos.md)
-## [Станьте торговым посредником](product-sell.md)
-## [Расширение Business Central](about-develop-extensions.md)
-## [Расширения для Business Central от других поставщиков](ui-extensions-other.md)
+## Реселлеры и партнеры
+### [Станьте торговым посредником](product-sell.md)
+### [Расширение Business Central](about-develop-extensions.md)
 
 # Работа с Business Central
 ## [Обзор](ui-work-product.md)
@@ -38,7 +38,7 @@
 ## [Работа с календарными датами и значениями времени](ui-enter-date-ranges.md)
 ## [Выявление обязательных полей](ui-mandatory-fields.md)
 ## [Изменение языка и языкового стандарта](about-locale-language.md)
-## [Просмотр и редактирование в Excel](across-work-with-excel.md)  
+## [Просмотр и редактирование в Excel](across-work-with-excel.md)
 ## [Управление вложениями, ссылками и заметками в карточках и документах](ui-how-add-link-to-record.md)
 ## [Изменение базовых настроек](ui-change-basic-settings.md)
 ## [Управление уведомлениями](ui-smart-notifications.md)
@@ -55,12 +55,13 @@
 ### [Управление сохраненными настройками отчетов и пакетных заданий](reports-saving-reusing-settings.md)
 ### [Просмотр тестовых отчетов перед учетом](ui-how-view-test-reports-posting.md)
 ### [Запуск пакетных заданий и XMLport](ui-how-run-batch-jobs.md)
-## Изменение внешнего вида внешних документов и отчетов
+## Изменение внешнего вида внешних документов
 ### [Управление макетами отчетов и документов](ui-manage-report-layouts.md)
-### [Обновление макетов отчетов или документов](ui-update-report-layouts.md)
-### [Внесение изменений в макет отчета Word](ui-how-create-custom-report-layout.md)
-### [Импорт и экспорт макета отчета или документа](ui-how-import-and-export-report-layout.md)
 ### [Смена текущего макета отчета](ui-how-change-layout-currently-used-report.md)
+### [Создание и изменение пользовательских макетов отчетов](ui-how-create-custom-report-layout.md)
+### [Импорт и экспорт пользовательских макетов отчетов](ui-how-import-and-export-report-layout.md)
+### [Обновление пользовательских макетов отчетов](ui-update-report-layouts.md)
+### [Определение макетов документов для клиентов и поставщиков](ui-define-customer-vendor-document-layouts.md)
 ### [Добавление полей в макет отчета Word](ui-how-add-fields-word-report-layout.md)
 ## Использование сочетаний клавиш
 ### [Специальные возможности и сочетания клавиш](ui-accessibility.md)
@@ -222,10 +223,10 @@
 ### [Включение бизнес-данных для Power BI](admin-powerbi.md)
 ### [Просмотр данных в списках в отчетах Power BI в Business Central](across-how-use-powerbi-reports-factbox.md)
 ### [Использование Business Central в качестве источника данных Power BI](across-how-use-financials-data-source-powerbi.md)
-## Использование Flow с Business Central
+## Использование Power Automate с Business Central
 ### [Использование Business Central в автоматическом бизнес-процессе](across-how-use-financials-data-source-flow.md)
-### [Устранение неполадок при интеграции с Microsoft Flow — запрошенный URL-адрес слишком длинный](across-troubleshooting-how-use-financials-data-source-flow.md)
-## [Подключение к данным Business Central для создания бизнес-приложения с помощью PowerApps](across-how-use-financials-data-source-powerapps.md)
+## Использование Power Apps с Business Central
+### [Подключение к данным Business Central для создания бизнес-приложения с помощью Power Apps](across-how-use-financials-data-source-powerapps.md)
 ## [Переход с приложения QuickBooks на Business Central](across-quickbooks-to-business-edition.md)
 ## [Получение Business Central на мобильном устройстве](install-mobile-app.md)
 ## [Пакетное выставление счетов для Microsoft Bookings](finance-bookings.md)
@@ -271,7 +272,7 @@
 #### [Настройка утверждающих пользователей](across-how-to-set-up-approval-users.md)
 #### [Настройка уведомлений рабочего процесса](across-setting-up-workflow-notifications.md)
 #### [Определение сроков и порядка получения уведомлений пользователями](across-how-to-specify-when-and-how-to-receive-notifications.md)
-#### [Создание и изменение пользовательского макета отчета или документа](ui-how-create-custom-report-layout.md)
+#### [Создание и изменение пользовательских макетов отчетов](ui-how-create-custom-report-layout.md)
 #### [Настройка электронной почты](admin-how-setup-email.md)
 #### [Создание рабочих процессов](across-how-to-create-workflows.md)
 #### [Создание рабочих процессов из шаблонов рабочих процессов](across-how-to-create-workflows-from-workflow-templates.md)

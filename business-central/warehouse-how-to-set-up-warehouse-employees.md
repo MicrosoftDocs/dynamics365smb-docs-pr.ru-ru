@@ -1,8 +1,6 @@
 ---
 title: Как настраивать работников склада | Документация Майкрософт
 description: Каждый пользователь, который выполняет складские действия, должен быть настроен как работник склада, которому назначен один склад по умолчанию и могут быть назначены другие склады.
-services: project-madeira
-documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,28 +10,28 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 2bec5eea1ef95054a9087797b86ee1d9abdbb112
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 624603a2610ca07388c0b84d13b0707e06e92a18
+ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2310160"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "2881542"
 ---
-# <a name="set-up-warehouse-employees"></a><span data-ttu-id="617f4-103">Настройка работников склада</span><span class="sxs-lookup"><span data-stu-id="617f4-103">Set Up Warehouse Employees</span></span>
-<span data-ttu-id="617f4-104">Каждый пользователь, который выполняет складские действия, должен быть настроен как работник склада, которому назначен один склад по умолчанию и могут быть назначены другие склады.</span><span class="sxs-lookup"><span data-stu-id="617f4-104">Each user who performs warehouse activities must be set up as a warehouse employee assigned to one default location and potentially more non-default locations.</span></span> <span data-ttu-id="617f4-105">Данная настройка пользователя фильтрует все складские действия в базе данных по складу сотрудника, чтобы сотрудник мог выполнять складские задачи только для склада по умолчанию.</span><span class="sxs-lookup"><span data-stu-id="617f4-105">This user setup filters all warehouse activities across the database to the employee's location so that the employee can only perform the warehouse activities at the default location.</span></span> <span data-ttu-id="617f4-106">Пользователю могут быть назначены дополнительные нестандартные склады, где работник может просматривать строки задач, но не выполнять их.</span><span class="sxs-lookup"><span data-stu-id="617f4-106">A user can be assigned to additional non-default locations for which the employee can view activity lines but not perform the activities.</span></span>
+# <a name="set-up-warehouse-employees"></a><span data-ttu-id="6f253-103">Настройка работников склада</span><span class="sxs-lookup"><span data-stu-id="6f253-103">Set Up Warehouse Employees</span></span>
+<span data-ttu-id="6f253-104">Каждый пользователь, который выполняет складские действия, должен быть настроен как работник склада, которому назначен один склад по умолчанию и могут быть назначены другие склады.</span><span class="sxs-lookup"><span data-stu-id="6f253-104">Each user who performs warehouse activities must be set up as a warehouse employee assigned to one default location and potentially more non-default locations.</span></span> <span data-ttu-id="6f253-105">Данная настройка пользователя фильтрует все складские действия в базе данных по складу сотрудника, чтобы сотрудник мог выполнять складские задачи только для склада по умолчанию.</span><span class="sxs-lookup"><span data-stu-id="6f253-105">This user setup filters all warehouse activities across the database to the employee's location so that the employee can only perform the warehouse activities at the default location.</span></span> <span data-ttu-id="6f253-106">Пользователю могут быть назначены дополнительные нестандартные склады, где работник может просматривать строки задач, но не выполнять их.</span><span class="sxs-lookup"><span data-stu-id="6f253-106">A user can be assigned to additional non-default locations for which the employee can view activity lines but not perform the activities.</span></span>
 
-## <a name="to-set-up-warehouse-employees"></a><span data-ttu-id="617f4-107">Настройка работников склада</span><span class="sxs-lookup"><span data-stu-id="617f4-107">To set up warehouse employees</span></span>  
-1.  <span data-ttu-id="617f4-108">Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Сотрудники склада**, а затем выберите соответствующую ссылку.</span><span class="sxs-lookup"><span data-stu-id="617f4-108">Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Warehouse Employees**, and then choose the related link.</span></span>  
-2. <span data-ttu-id="617f4-109">Выберите действие **Создать**.</span><span class="sxs-lookup"><span data-stu-id="617f4-109">Choose the **New** action.</span></span>  
-3. <span data-ttu-id="617f4-110">Выберите поле **Код пользователя**, а затем выберите пользователя, которого необходимо добавить как работника склада.</span><span class="sxs-lookup"><span data-stu-id="617f4-110">Select the **User ID** field, and then select the user to be added as a warehouse employee.</span></span> <span data-ttu-id="617f4-111">Нажмите кнопку **ОК**.</span><span class="sxs-lookup"><span data-stu-id="617f4-111">Choose the **OK** button.</span></span>  
-6.  <span data-ttu-id="617f4-112">В поле **Код склада** введите код склада, где будет работать пользователь.</span><span class="sxs-lookup"><span data-stu-id="617f4-112">In the **Location Code** field, enter the code of the location where the user will be working.</span></span>  
-7.  <span data-ttu-id="617f4-113">Установите флажок **По умолчанию**, чтобы определить склад как единственный, где сотрудник может выполнять складские действия.</span><span class="sxs-lookup"><span data-stu-id="617f4-113">Select the **Default** check box to define the location as the only location where the employee can perform warehouse activities.</span></span>  
-8.  <span data-ttu-id="617f4-114">Повторите эти шаги, чтобы назначить работникам склады или назначить нестандартные склады существующим работникам склада.</span><span class="sxs-lookup"><span data-stu-id="617f4-114">Repeat these steps to assign other employees to locations or assign non-default locations to existing warehouse employees.</span></span>  
+## <a name="to-set-up-warehouse-employees"></a><span data-ttu-id="6f253-107">Настройка работников склада</span><span class="sxs-lookup"><span data-stu-id="6f253-107">To set up warehouse employees</span></span>  
+1.  <span data-ttu-id="6f253-108">Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Сотрудники склада**, затем выберите соответствующую ссылку.</span><span class="sxs-lookup"><span data-stu-id="6f253-108">Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Warehouse Employees**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="6f253-109">Выберите действие **Создать**.</span><span class="sxs-lookup"><span data-stu-id="6f253-109">Choose the **New** action.</span></span>  
+3. <span data-ttu-id="6f253-110">Выберите поле **Код пользователя**, а затем выберите пользователя, которого необходимо добавить как работника склада.</span><span class="sxs-lookup"><span data-stu-id="6f253-110">Select the **User ID** field, and then select the user to be added as a warehouse employee.</span></span> <span data-ttu-id="6f253-111">Нажмите кнопку **ОК**.</span><span class="sxs-lookup"><span data-stu-id="6f253-111">Choose the **OK** button.</span></span>  
+6.  <span data-ttu-id="6f253-112">В поле **Код склада** введите код склада, где будет работать пользователь.</span><span class="sxs-lookup"><span data-stu-id="6f253-112">In the **Location Code** field, enter the code of the location where the user will be working.</span></span>  
+7.  <span data-ttu-id="6f253-113">Установите флажок **По умолчанию**, чтобы определить склад как единственный, где сотрудник может выполнять складские действия.</span><span class="sxs-lookup"><span data-stu-id="6f253-113">Select the **Default** check box to define the location as the only location where the employee can perform warehouse activities.</span></span>  
+8.  <span data-ttu-id="6f253-114">Повторите эти шаги, чтобы назначить работникам склады или назначить нестандартные склады существующим работникам склада.</span><span class="sxs-lookup"><span data-stu-id="6f253-114">Repeat these steps to assign other employees to locations or assign non-default locations to existing warehouse employees.</span></span>  
 
-## <a name="see-also"></a><span data-ttu-id="617f4-115">См. также</span><span class="sxs-lookup"><span data-stu-id="617f4-115">See Also</span></span>  
-[<span data-ttu-id="617f4-116">Управление складом</span><span class="sxs-lookup"><span data-stu-id="617f4-116">Warehouse Management</span></span>](warehouse-manage-warehouse.md)  
-[<span data-ttu-id="617f4-117">Наличие</span><span class="sxs-lookup"><span data-stu-id="617f4-117">Inventory</span></span>](inventory-manage-inventory.md)  
-<span data-ttu-id="617f4-118">[Настройка управления складом](warehouse-setup-warehouse.md)   </span><span class="sxs-lookup"><span data-stu-id="617f4-118">[Setting Up Warehouse Management](warehouse-setup-warehouse.md)   </span></span>  
-<span data-ttu-id="617f4-119">[Управление сборкой](assembly-assemble-items.md)  </span><span class="sxs-lookup"><span data-stu-id="617f4-119">[Assembly Management](assembly-assemble-items.md)  </span></span>  
-[<span data-ttu-id="617f4-120">Сведения о проектировании: управление складом</span><span class="sxs-lookup"><span data-stu-id="617f4-120">Design Details: Warehouse Management</span></span>](design-details-warehouse-management.md)  
-<span data-ttu-id="617f4-121">[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="617f4-121">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>  
+## <a name="see-also"></a><span data-ttu-id="6f253-115">См. также</span><span class="sxs-lookup"><span data-stu-id="6f253-115">See Also</span></span>  
+[<span data-ttu-id="6f253-116">Управление складом</span><span class="sxs-lookup"><span data-stu-id="6f253-116">Warehouse Management</span></span>](warehouse-manage-warehouse.md)  
+[<span data-ttu-id="6f253-117">Наличие</span><span class="sxs-lookup"><span data-stu-id="6f253-117">Inventory</span></span>](inventory-manage-inventory.md)  
+<span data-ttu-id="6f253-118">[Настройка управления складом](warehouse-setup-warehouse.md)   </span><span class="sxs-lookup"><span data-stu-id="6f253-118">[Setting Up Warehouse Management](warehouse-setup-warehouse.md)   </span></span>  
+<span data-ttu-id="6f253-119">[Управление сборкой](assembly-assemble-items.md)  </span><span class="sxs-lookup"><span data-stu-id="6f253-119">[Assembly Management](assembly-assemble-items.md)  </span></span>  
+[<span data-ttu-id="6f253-120">Сведения о проектировании: управление складом</span><span class="sxs-lookup"><span data-stu-id="6f253-120">Design Details: Warehouse Management</span></span>](design-details-warehouse-management.md)  
+<span data-ttu-id="6f253-121">[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="6f253-121">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>  
