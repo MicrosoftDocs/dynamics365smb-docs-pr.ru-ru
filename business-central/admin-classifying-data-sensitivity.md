@@ -8,15 +8,15 @@ ms.reviewer: na
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.date: 10/01/2019
-ms.openlocfilehash: f2b5e3ded5c89f241d0c49ee8c6f9d196c6bae43
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 7578cdff40111adcbf2401e6bed33ddf47641107
+ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2308216"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "2880980"
 ---
 # <a name="classifying-data-sensitivity"></a>Классификация конфиденциальности данных
-Для классификации полей, в которых хранятся конфиденциальные или личные данные, партнер Майкрософт может настроить свойство ```DataClassification``` полей. Для этого требуется доступ к таблицам базы данных, либо через среду разработки, либо путем запуска сценария Windows PowerShell. Дополнительные сведения см. в разделе [Классификация данных](https://docs.microsoft.com/en-us/dynamics-nav/classifying-data).  
+Для классификации полей, в которых хранятся конфиденциальные или личные данные, партнер Майкрософт может настроить свойство ```DataClassification``` полей. Для этого требуется доступ к таблицам базы данных, либо через среду разработки, либо путем запуска сценария Windows PowerShell. Дополнительные сведения см. в разделе [Классификация данных](/dynamics365/business-central/dev-itpro/developer/devenv-classifying-data).  
 
 Как клиент, вы можете добавить второй уровень классификации, указав уровни конфиденциальности для данных, которых хранятся в стандартных и настроенных полях. Классификация конфиденциальности данных помогает гарантировать, что вы знаете, где хранятся личные данные в вашей системе, и упрощает ответ на запросы от субъектов данных. Например, если контакт или клиент попросит вас экспортировать свои личные данные. Дополнительные сведения см. в разделе [Ответ на запросы о личных данных](admin-responding-to-requests-about-personal-data.md).
 
@@ -48,4 +48,5 @@ ms.locfileid: "2308216"
 > Мы определили образец классификации конфиденциальности для таблиц и полей в демонстрационной организации Cronus. Вы можете пользоваться этими классификациям в качестве основы при классификации собственных таблиц и полей.
 
 ## <a name="see-also"></a>См. также
-[Классификация данных](https://docs.microsoft.com/en-us/dynamics-nav/classifying-data)  
+
+[Классификация данных](/dynamics365/business-central/dev-itpro/developer/devenv-classifying-data)  

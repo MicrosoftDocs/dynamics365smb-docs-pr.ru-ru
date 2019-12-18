@@ -1,8 +1,6 @@
 ---
 title: Практическое руководство. Настройка экспедиторов | Документация Майкрософт
 description: Для каждого экспедитора можно задать код и указать соответствующую информацию.
-services: project-madeira
-documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 27b362c9c9aabec842e28e631ca2b93c1515f2fc
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: b1c5b0940998531601f0ab1c604c31328ce2bd66
+ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2311984"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "2882858"
 ---
 # <a name="set-up-shipping-agents"></a>Настройка экспедиторов
 Для каждого экспедитора можно задать код и указать соответствующую информацию.  
@@ -30,7 +28,7 @@ ms.locfileid: "2311984"
 После того, как для строки продажи задана услуга экспедитора, время отгрузки для услуги будет включаться в расчет сроков по заказу для данной строки. Дополнительные сведения см. в разделе [Расчет сроков планирования заказов](sales-how-to-calculate-order-promising-dates.md).
 
 ## <a name="to-set-up-a-shipping-agent"></a>Настройка экспедитора  
-1.  Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Экспедиторы**, а затем выберите соответствующую ссылку.  
+1.  Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Экспедиторы**, затем выберите соответствующую ссылку.  
 2.  Заполните соответствующим образом поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)].  
 3.  Выберите действие **Услуги экспедитора**.
 4. В поле **Услуги экспедитора** заполните требуемые поля.

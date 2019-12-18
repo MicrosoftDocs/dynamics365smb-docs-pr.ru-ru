@@ -5,14 +5,14 @@ author: edupont04
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: FAQ, email, Office 365, subscription, subscribe, trial, plan, application area, experience, support, buy, upgrade, extend
-ms.date: 11/06/2019
+ms.date: 12/06/2019
 ms.author: edupont
-ms.openlocfilehash: cf4fe3abc4a31619015520f2be598976b0fc8f5c
-ms.sourcegitcommit: cd5d3d288feee76d058d325720135275f4c8ad85
+ms.openlocfilehash: 4df167f27fc9fe456cece9c8738fa5f3aff8338c
+ms.sourcegitcommit: b6e506a45a1cd632294bafa1c959746cc3a144f6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/08/2019
-ms.locfileid: "2775503"
+ms.lasthandoff: 12/06/2019
+ms.locfileid: "2896189"
 ---
 # <a name="frequently-asked-questions"></a>Вопросы и ответы
 
@@ -20,7 +20,7 @@ ms.locfileid: "2775503"
 
 ## <a name="is-included365finincludesd365fin_mdmd-available-in-my-country"></a>Приложение [!INCLUDE[d365fin](includes/d365fin_md.md)] доступно в моей стране?
 
-[!INCLUDE[d365fin](includes/d365fin_md.md)] доступно в ограниченном количестве стран, но новые страны добавляются ежеквартально за счет локализации, проводимой корпорацией Майкрософт или партнерами. Дополнительные сведения см. в разделе [Поддерживаемые страны и переводы](/dynamics365/business-central/dev-itpro/compliance/apptest-countries-and-translations).  
+[!INCLUDE[d365fin](includes/d365fin_md.md)] доступно в ограниченном количестве стран, но новые страны добавляются ежеквартально за счет локализации, проводимой корпорацией Майкрософт или партнерами. Дополнительные сведения см. в разделе [Наличие в странах/регионах и поддерживаемые переводы](/dynamics365/business-central/dev-itpro/compliance/apptest-countries-and-translations?toc=/dynamics365/business-central/toc.json) (доступно только на английском языке).  
 
 ## <a name="how-do-i-get-include-prodshortincludesprodshortmd"></a>Как получить [!INCLUDE [prodshort](includes/prodshort.md)]?
 
@@ -84,7 +84,7 @@ ms.locfileid: "2775503"
 [!INCLUDE[d365fin](includes/d365fin_md.md)] Online полностью интегрирован с Office 365, чтобы можно было легко перемещаться между приложениями Office 365 и [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью средства запуска приложений. В [!INCLUDE[d365fin](includes/d365fin_md.md)] можно, например, открывать данные в Excel, печатать отчеты с помощью Word и работать с данными [!INCLUDE[d365fin](includes/d365fin_md.md)] в Outlook. Дополнительные сведения см. в разделе, [Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] в качестве рабочего почтового ящика в Outlook](admin-outlook.md).  
 
 ## <a name="can-i-extend-my-30-day-new-company-trial-period"></a>Можно ли продлить 30-дневный срок пробной версии "Новая организация"?
-Да. Если срок действия пробной версии подходит к концу, при входе в систему отображается уведомление с предупреждением. Уведомление содержит ссылку на руководство **Продление пробного периода**, которое можно использовать для продления пробного периода. Дополнительные 30 дней начинаются с момента выбора пункта **Продлить пробный период** в руководстве. Один раз вы можете продлить пробный период самостоятельно. После этого партнер Microsoft может продлить его еще на 30 дней. Дополнительные сведения см. в разделе [Продление пробной версии](admin-extend-trial.md). 
+Да. Если срок действия пробной версии подходит к концу, при входе в систему отображается уведомление с предупреждением. Уведомление содержит ссылку на руководство **Продление пробного периода**, которое можно использовать для продления пробного периода. Дополнительные 30 дней начинаются с момента выбора пункта **Продлить пробный период** в руководстве. Один раз вы можете продлить пробный период самостоятельно. После этого партнер Microsoft может продлить его еще на 30 дней. Дополнительные сведения см. в разделе [Продление пробной версии](admin-extend-trial.md).
 
 > [!NOTE]
 > Завершение процесса продления пробного периода может занять до двух рабочих дней.  
@@ -108,10 +108,12 @@ ms.locfileid: "2775503"
 
 Если вам нужно руководство от Microsoft, свяжитесь с [Отделом продаж Microsoft](https://go.microsoft.com/fwlink/?linkid=828707).  
 
-Ваш партнер по распространению также будет предоставлять вам техническую поддержку. Дополнительные сведения см. в разделе [Ресурсы по Справке и поддержке](product-help-and-support.md).  
+Ваш партнер по распространению также будет предоставлять вам техническую поддержку. Дополнительные сведения см. в разделе [Ресурсы по Справке и поддержке](product-help-and-support.md).
+
+## <a name="is-the-windows-client-supported"></a>Поддерживается ли клиент Windows?
+Первые локальные выпуски [!INCLUDE[prodshort](includes/prodshort.md)] включали установленный клиент на базе Microsoft Dynamics NAV, В выпуска 2019 волны 2 этот компонент, называемый "клиентом Windows" больше не будет доступен для [!INCLUDE[prodshort](includes/prodshort.md)]. Дополнительные сведения см. в разделе [Вопросы и ответы о клиенте Windows и Business Central](/dynamics365/business-central/dev-itpro/across-faq-win-cli).
 
 ## <a name="see-also"></a>См. также
-
 [Приступая к работе](product-get-started.md)  
 [Вопросы и ответы о функции "Что вы хотите сделать"](ui-search-faq.md)  
 [Вопросы и ответы по поиску и фильтрации](ui-search-filter-faq.md)  
@@ -125,5 +127,7 @@ ms.locfileid: "2775503"
 [Ресурсы для справки и поддержки](product-help-and-support.md)  
 [Учебный каталог Business Central](readiness/readiness-learning-catalog.md)  
 [Назначение разрешений пользователям и группам](ui-define-granular-permissions.md)  
+[Наличие в странах/регионах и поддерживаемые переводы](/dynamics365/business-central/dev-itpro/compliance/apptest-countries-and-translations?toc=/dynamics365/business-central/toc.json)  
+[Вопросы и ответы о разработке и ITPro](/dynamics365/business-central/dev-itpro/faq)
 
 ## [!INCLUDE[d365fin](includes/free_trial_md.md)]  

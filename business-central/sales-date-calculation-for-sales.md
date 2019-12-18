@@ -1,8 +1,6 @@
 ---
 title: Расчет даты для продаж | Документация Майкрософт
 description: Приложение автоматически вычисляет дату, когда следует заказать товар, чтобы иметь его на складе на определенную дату. Это дата, когда можно ожидать, что товары, заказанные на конкретную дату, будут доступны для подбора.
-services: project-madeira
-documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 0fa1f07b5da450a2e6f634bda07752efd0e35889
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 6080fd58b299a0bda74c1cdd9ff5758d8805b3a8
+ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2312248"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "2881381"
 ---
 # <a name="date-calculation-for-sales"></a>Расчет даты для продаж
 [!INCLUDE[d365fin](includes/d365fin_md.md)] автоматически вычисляет наиболее раннюю дату, на которую может быть произведена отгрузка товара, указанного в строке заказа за продажу.

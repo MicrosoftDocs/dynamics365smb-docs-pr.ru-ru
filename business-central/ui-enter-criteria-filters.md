@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: delimit, FlowFilter, totals, limit, advanced
 ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 9e61ffff9e081d561eb637a398f0bcb05ff69f70
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 412c354313e571969c3ab7aa87210ff432ae0e91
+ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2315616"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "2882186"
 ---
 # <a name="sorting-searching-and-filtering"></a>Сортировка, поиск и фильтрация
 Существует несколько приемов, которые помогают просматривать, искать и ограничивать записи в списке, отчете или XMLport. К ним относятся сортировка, поиск и фильтрация. Некоторые или все из них можно применить одновременно для быстрого поиска или анализа данных.
@@ -111,7 +111,7 @@ When you want to search for data, such as customer names, addresses, or product 
   Некоторые списки, в которых отображаются вычисляемые поля, такие как суммы и количества, будут содержать раздел **Фильтровать итоги по** для изменения различных измерений, воздействующих на расчеты. Чтобы добавить фильтр, выберите действие **+ Фильтр**, введите имя поля, по которому вы хотите отфильтровать список, или выберите поле в раскрывающемся списке.
 
   > [!NOTE]
-  > Фильтры в разделе **Фильтровать итоги по** управляются элементами FlowFilter в дизайне страницы. Технические сведения см. в разделе [FlowFilters](https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/devenv-flowfilter-overview).
+  > Фильтры в разделе **Фильтровать итоги по** управляются элементами FlowFilter в дизайне страницы. Технические сведения см. в разделе [FlowFilters](/dynamics365/business-central/dev-itpro/developer/devenv-flowfilter-overview).
 
 Вы можете установить простой фильтр непосредственно в списке, не используя область фильтров, а именно фильтр, который отображает только записи с тем же значением, что и в выбранной ячейке. Выберите ячейку в списке, выберите стрелку раскрывающегося списка, а затем выберите действие **Фильтровать до этого значения**. Также можно нажать **Alt+F3**.
 

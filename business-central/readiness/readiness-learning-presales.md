@@ -7,12 +7,12 @@ ms.date: 11/06/2019
 ms.topic: article
 ms.service: dynamics365-business-central
 ms.author: solsen
-ms.openlocfilehash: 4aa15d32143b909b206a10d8ae11906abfddc47b
-ms.sourcegitcommit: 86498fe4326b9ce26cc31e8645db27570d13bdf9
+ms.openlocfilehash: 8608fbc4198f4e3daf9fe0edd1f261367f3fcb55
+ms.sourcegitcommit: e97e1df1f5d7b1d8af477580960a8737fcea4d16
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "2767848"
+ms.lasthandoff: 11/25/2019
+ms.locfileid: "2832267"
 ---
 # <a name="pre-sales-learning-catalog"></a>Каталог предпродажного обучения
 
@@ -39,7 +39,7 @@ ms.locfileid: "2767848"
 
 | Содержимое                                                                                                                                | Описание                                                                                                                                                                                                                                                                                      | Формат                                | Длина                |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-----------------------|
-| [Dynamics 365 Business Central (Блиц)](https://mbspartner.microsoft.com/D365/Videos/101760)                              | (Только для партнеров) На этом занятии будет рассказано о значении Business Central. Business Central предлагает потрясающую ценность, поскольку он интегрируется с другими облачными сервисами Microsoft, включая Office 365, и может быть настроен или расширен для конкретных нужд отрасли с PowerApps, Microsoft Flow и Power BI. | Видео                                 | 8 минут 5 секунд |
+| [Dynamics 365 Business Central (Блиц)](https://mbspartner.microsoft.com/D365/Videos/101760)                              | (Только для партнеров) На этом занятии будет рассказано о значении Business Central. Business Central предлагает потрясающую ценность, поскольку он интегрируется с другими облачными сервисами Microsoft, включая Office 365, и может быть настроен или расширен для конкретных нужд отрасли с Power Apps, Power Automate и Power BI. | Видео                                 | 8 минут 5 секунд |
 | [Изучение возможностей Dynamics 365 Business Central](https://dynamics.microsoft.com/business-central/capabilities/) | Изучение возможностей Dynamics 365 Business Central                                                                                                                                                                                                                                                        | Веб-сайт                               |                     |
 | [Dynamics 365 Business Central](https://docs.microsoft.com/learn/modules/dynamics-365-business-central/)            | Этот модуль показывает особенности приложения, преимущества и примеры Dynamics 365 Business Central в действии.                                                                                                                                                                                                | Бесплатный путь онлайн-обучения в произвольном темпе | 24 минуты          |
 

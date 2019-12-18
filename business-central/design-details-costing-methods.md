@@ -1,8 +1,6 @@
 ---
 title: Сведения о проектировании — методы учета себестоимости | Документация Майкрософт
 description: Метод учета себестоимости определяет, будет ли выделяться заглавными буквами фактическая или бюджетная себестоимость и использоваться при расчете себестоимости. Наряду с датой и порядком учета метод учета себестоимости также влияет на способ записи потока затрат.
-services: project-madeira
-documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 6f009b0e43a3d3424782f5c3f052033c813e3f18
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 0dfd9e28d4db9b55c4f7d6aa5ee6c1f5a56d6a89
+ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2303651"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "2880557"
 ---
 # <a name="design-details-costing-methods"></a>Сведения о проектировании: методы учета себестоимости
 Метод учета себестоимости определяет, будет ли выделяться заглавными буквами фактическая или бюджетная себестоимость и использоваться при расчете себестоимости. Наряду с датой и порядком учета метод учета себестоимости также влияет на способ записи потока затрат.

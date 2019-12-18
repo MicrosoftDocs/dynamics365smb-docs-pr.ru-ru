@@ -8,16 +8,17 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: SMTP, mail, Office 365
-ms.date: 10/17/2019
+ms.date: 11/22/2019
 ms.author: edupont
-ms.openlocfilehash: 6c1ec2e61b1a6d61b9662abe70e3177747b73a12
-ms.sourcegitcommit: be1e2c49a8434d3f440d5a201508af9c3c8cc87f
+ms.openlocfilehash: 1e45b7cb19df3c057485451a95ae1633804fa865
+ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "2649720"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "2879135"
 ---
 # <a name="using-business-central-as-your-business-inbox-in-outlook"></a>Использование Business Central в качестве папки "Входящие" для бизнеса в Outlook
+
 В [!INCLUDE[d365fin](includes/d365fin_md.md)] появилась возможность управления бизнес-взаимодействиями с клиентами и поставщиками непосредственно в Microsoft Outlook. С помощью надстроек [!INCLUDE[d365fin](includes/d365fin_md.md)] Outlook вы можете просматривать финансовые данные, связанные с клиентами и поставщиками, а также создавать и отправлять финансовые документы, такие как предложения и счета.  
 
 ## <a name="getting-the-add-in"></a>Получение надстройки
@@ -26,9 +27,13 @@ ms.locfileid: "2649720"
 Затем при открытии Outlook отобразится сообщение электронной почты от *администратора Dynamics 365 Business Central*. Новые надстройки будут добавлены в ленту Outlook, а в браузере вы сможете видеть надстройки [!INCLUDE[prodshort](includes/prodshort.md)] непосредственно над телом сообщения электронной почты. Надстройки будут обновляться периодически, и вы будете получать уведомления о том, что новая версия готова к использованию в Outlook.  
 
 > [!TIP]
-> Если вы используете новый Outlook в браузере, то надстройки [!INCLUDE [prodshort](includes/prodshort.md)] могут быть скрыты в пункте **Больше действий**.
+> Если вы используете новую веб-версию Outlook, то надстройки [!INCLUDE [prodshort](includes/prodshort.md)] могут быть скрыты в пункте **Другие действия**. Если вы часто используете надстройку, вы можете закрепить ее так, чтобы она всегда была видна сразу. Для получения дополнительной информации см. [Использование надстроек в Outlook в Интернете ](https://support.office.com/article/using-add-ins-in-outlook-on-the-web-8f2ce816-5df4-44a5-958c-f7f9d6dabdce?ns=OLWAO365B&version=16).  
 
-Если вы работаете с более чем одной компанией [!INCLUDE [prodshort](includes/prodshort.md)], вы можете легко переключаться между компаниями в Outlook.
+Если вы работаете с более чем одной компанией [!INCLUDE [prodshort](includes/prodshort.md)], вы можете легко переключаться между компаниями в Outlook. На панели действий надстройки выберите **Другие действия**, а затем вы можете увидеть вариант для переключения между компаниями.  
+
+<!--TEMP-->
+> [!NOTE]
+> Переключение между компаниями требует [!INCLUDE [prodshort](includes/prodshort.md)] 2019 выпуска волны 2 или позже, как объявлено в [плане выпуска](/dynamics365-release-plan/2019wave2/dynamics365-business-central/switch-between-companies-business-inbox-outlook).
 
 Некоторые организации, использующие Office 365, ограничивают права пользователей на развертывание надстроек. Поэтому вам следует убедиться, что вы используете подписку Office 365, включающую электронную почту и позволяющую развертывать надстройки. Если вы хотите попробовать надстройку в любом случае, вы можете [попробовать Office 365 бесплатно](https://products.office.com/try).  
 
@@ -74,4 +79,4 @@ ms.locfileid: "2649720"
 [Продажи](sales-manage-sales.md)  
 [Покупки](purchasing-manage-purchasing.md)  
 [Минимальные требования для Outlook](product-requirements.md#outlook)  
-[Использование надстроек в Outlook в Интернете](https://support.office.com/en-us/article/Using-Add-ins-in-Outlook-on-the-web-8f2ce816-5df4-44a5-958c-f7f9d6dabdce?appver=OWB150)  
+[Использование надстроек в Outlook в Интернете](https://support.office.com/article/Using-Add-ins-in-Outlook-on-the-web-8f2ce816-5df4-44a5-958c-f7f9d6dabdce?appver=OWB150)  

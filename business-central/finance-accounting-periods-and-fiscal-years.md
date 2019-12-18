@@ -1,8 +1,6 @@
 ---
 title: Работы с учетными периодами и финансовыми годами | Документация Майкрософт
 description: Узнайте, как работать с учетными периодами, чтобы определить, когда ваша организация отчитывается о финансовых показателях.
-services: project-madeira
-documentationcenter: ''
 author: bholtorf
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.author: bholtorf
-ms.openlocfilehash: d70694a571c051f6160a721c8fa06c91fe9c42d3
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: aab482918eacb7bea068a5c5f536c9e88bdd7b2c
+ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2302624"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "2879852"
 ---
 # <a name="working-with-accounting-periods-and-fiscal-years"></a>Работы с учетными периодами и финансовыми годами
 Учетные периоды, которые также называются отчетными периодами, — это периоды времени, за которые компания или организация отчитывается о финансовых показателях, формируя отчет о прибылях и убытках или балансовый отчет. Обычно учетные периоды означают финансовый год организации, который может содержать несколько учетных периодов, таких как месяцы или кварталы.

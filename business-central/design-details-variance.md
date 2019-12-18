@@ -1,8 +1,6 @@
 ---
 title: Сведения о проектировании — отклонение | Документация Майкрософт
 description: Отклонение определяется как разница между фактическими и стандартными затратами, как описано в следующей формуле.
-services: project-madeira
-documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: f5b4d56c5afb728c915c95f763c75f4c5fe6d008
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 55317d4ae474c17df08449ebadd97aa11856a2c8
+ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2306704"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "2882786"
 ---
 # <a name="design-details-variance"></a>Сведения о проектировании: отклонение
 Отклонение определяется как разница между фактическими и стандартными затратами, как описано в следующей формуле.  

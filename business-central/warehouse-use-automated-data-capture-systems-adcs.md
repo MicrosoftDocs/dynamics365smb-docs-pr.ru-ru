@@ -8,19 +8,19 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: barcode
-ms.date: 10/01/2019
+ms.date: 11/20/2019
 ms.author: sgroespe
-ms.openlocfilehash: dfabf797ae9ba85a5a241d88f9ba3f5deb16bd4c
-ms.sourcegitcommit: cd5d3d288feee76d058d325720135275f4c8ad85
+ms.openlocfilehash: 209bbe3539fb99c626376149c22c419b4b476608
+ms.sourcegitcommit: e97e1df1f5d7b1d8af477580960a8737fcea4d16
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/08/2019
-ms.locfileid: "2775479"
+ms.lasthandoff: 11/25/2019
+ms.locfileid: "2832339"
 ---
 # <a name="use-automated-data-capture-systems-adcs"></a>Использование автоматизированных систем сбора данных (ADCS)
 
 > [!NOTE]
-> В стандартной версии [!INCLUDE[d365fin](includes/d365fin_md.md)] ADCS работает только в локальных развертываниях. Однако партнер компании Майкрософт может обеспечить их работу в сетевых развертываниях с помощью PowerApps и аналогичных средств.
+> В стандартной версии [!INCLUDE[d365fin](includes/d365fin_md.md)] ADCS работает только в локальных развертываниях. Однако партнер компании Майкрософт может обеспечить их работу в сетевых развертываниях с помощью Power Apps и аналогичных средств.
 
 Автоматизированную систему сбора данных (ADCS) можно использовать для регистрации перемещений товаров на складе и регистрации некоторых действий в журнале, таких как коррекции количества в журналах товаров на складе и инвентаризации. Использование ADCS обычно подразумевает сканирование штрихкодов.
 

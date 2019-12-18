@@ -1,8 +1,6 @@
 ---
 title: Блокировка продаж клиентам товаров из продаж или покупок
 description: В Business Central товар можно пометить как заблокированный для продажи, покупки или всех целей.
-services: project-madeira
-documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: c2b0d5b15571b7e8af1ed1dbee22859f4c131aa3
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: c1b055e5101b99f0b0e1b69169d5c9f2f7e21d09
+ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2316624"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "2882998"
 ---
 # <a name="block-customers"></a>Блокировка клиентов
 Можно заблокировать клиента, например из-за несостоятельности, чтобы этого клиента нельзя было добавить в документы продажи или чтобы никакие транзакции не могли быть учтены для клиента.
@@ -34,7 +32,7 @@ ms.locfileid: "2316624"
 |**Все**|Для данного клиента не разрешены никакие транзакции, включая платежи.|  
 
 ## <a name="to-block-a-customer"></a>Для блокировки клиента  
-1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Клиенты**, а затем выберите соответствующую ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Клиенты**, затем выберите соответствующую ссылку.
 2. Выберите клиента, затем выберите действие **Изменить**.
 3. Заполните поле **Заблокирован** с помощью одного из параметров, описываемых выше.
 

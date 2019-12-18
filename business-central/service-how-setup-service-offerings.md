@@ -1,8 +1,6 @@
 ---
 title: Настройка сервисных предложений | Документация Майкрософт
 description: Узнайте, как настраивать сервисы, которые вы предлагаете своим клиентам.
-services: project-madeira
-documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +10,12 @@ ms.workload: na
 ms.search.keywords: components, service item, service
 ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: bcd6597ff26a3889608486cde6f8d0158364a956
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 8d34ef54ebfe16b59149036d59c2ce6e264baefb
+ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2311792"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "2877259"
 ---
 # <a name="set-up-service-offerings"></a>Настройка сервисных предложений
 При настройке сервисного управления необходимо выбрать виды сервиса, которые будут предлагаться клиентам и составить их график. Сервис представляет собой тип работы, выполняемой с использованием одного или нескольких ресурсов, результаты которой предоставляются клиенту. Сервисом, например, может быть ремонт компьютера. Сервисным товаром может быть обслуживаемое оборудование или товар, например, требующий ремонта компьютер, установленный у конкретного пользователя. Любой сервис можно настроить как часть группы смежных услуг по ремонту или обслуживанию.  

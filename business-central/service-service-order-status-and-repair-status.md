@@ -1,8 +1,6 @@
 ---
 title: Статус сервисного заказа и статус ремонта | Документация Майкрософт
 description: Поле "Статус" на странице "Сервисный заказ" и статус ремонта сервисного товара, представленный полем "Код статуса ремонта" на странице "Сервисный заказ", имеют определенную взаимозависимость в области приложения "Сервисное управление". Статус сервисного заказа отражает статус ремонта всех сервисных товаров данного сервисного заказа.
-services: project-madeira
-documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: f55e33490bb70fae2b37eda6fe0b43f982fe8493
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 1333ee61a510a2b7a660f464addf7e0ad66ee7dc
+ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2311600"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "2882330"
 ---
 # <a name="service-order-status-and-repair-status"></a>Статус сервисного заказа и ремонта
 Поле **Статус** на странице **Сервисный заказ** и статус ремонта сервисного товара, представленный полем **Код статуса ремонта** на странице **Сервисный заказ**, имеют определенную взаимозависимость в области приложения "Сервисное управление". Статус сервисного заказа отражает статус ремонта всех сервисных товаров данного сервисного заказа.  

@@ -1,8 +1,6 @@
 ---
 title: Как немедленно создать документ "Счет покупки" | Документация Майкрософт
 description: В случае потребности в оплате поставщику наличными или чеком, необходимый учет можно производить при учете самого счета.
-services: project-madeira
-documentationcenter: ''
 author: bholtorf
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,18 +10,18 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.author: bholtorf
-ms.openlocfilehash: 7392ec07c59974869dce6c1e8172eb48701e1d26
-ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
+ms.openlocfilehash: d187398fe615574785a17b4a7eb122b7a18c557e
+ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "2554018"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "2879684"
 ---
 # <a name="settle-purchase-invoices-promptly"></a>Немедленное создание счетов покупки
 В случае потребности в оплате поставщику наличными или чеком, платеж можно учесть при учете счета.  
 
 ### <a name="to-settle-purchase-invoices-promptly"></a>Немедленное создание счетов покупки  
-1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Счета покупки**, а затем выберите соответствующую ссылку.  
+1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Счета покупки**, затем выберите соответствующую ссылку.  
 2. Выберите действие **Создать**.  
 3.  Для того чтобы произвести оплату наличными или с помощью банковского трансферта, следует ввести номер счета ГК или банковского счета в поле **Номер баланс. счета**.  
 

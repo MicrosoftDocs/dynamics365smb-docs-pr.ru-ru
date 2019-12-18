@@ -9,14 +9,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 11/01/2019
+ms.date: 11/14/2019
 ms.author: bholtorf
-ms.openlocfilehash: bce2f8ec50fa836be87c0f1bd77a28e44b208167
-ms.sourcegitcommit: f9f805282c86fda55843f7a11020fb3df861d50e
+ms.openlocfilehash: 6468ab23e570066bfdc052461ff49f4ae3c03ad5
+ms.sourcegitcommit: 893e13fa75b2d04dedd4a29abda216e3e54b24ae
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "2764628"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "2808893"
 ---
 # <a name="need-more-time-to-decide-whether-to-subscribe"></a>Нужно больше времени на принятие решения о подписке?
 Важно принять правильное решение при выборе бизнес-приложения, и мы знаем, что может потребоваться определенное время на изучение всех аспектов [!INCLUDE[d365fin](includes/d365fin_md.md)]. Если необходимо больше времени для проведения оценки, вы можете самостоятельно продлить пробный период еще на 30 дней. Если срок действия пробной версии подходит к концу, при входе в систему отображается уведомление с предупреждением. Уведомление содержит ссылку на руководство **Продление пробного периода**, которое можно использовать для продления пробного периода. Дополнительные 30 дней начинаются с момента выбора пункта **Продлить пробный период** в руководстве.
@@ -31,6 +31,7 @@ ms.locfileid: "2764628"
 2. В уведомлении, которое отображается поверх рабочей области, выберите **Продлить пробный период**.
 
 ## <a name="see-also"></a>См. также
+
 [Создание новых организаций](about-new-company.md)  
-[Доступ к предварительной версии](across-preview.md)  
+[Пробные версии и подписки [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](across-preview.md)  
 [Как найти партнера по перепродаже?](across-faq.md#findpartner)  

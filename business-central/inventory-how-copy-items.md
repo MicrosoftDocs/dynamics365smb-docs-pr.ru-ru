@@ -1,8 +1,6 @@
 ---
 title: Как копировать существующие товаров в новые товары
 description: Когда вы добавляете новый товар, чтобы сэкономить время, вы можете использовать функцию "Копировать товар", чтобы скопировать существующий товар для использования в качестве шаблона для нового товара.
-services: project-madeira
-documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,18 +10,18 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 91f2aede108b767617f2aa8afd3db1b81713d8f7
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 22f31b1f4c37e2129db379df9b71d9436ac81a2f
+ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2310012"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "2878369"
 ---
 # <a name="copy-existing-items-to-create-new-items"></a>Копирование существующих товаров для создания новых товаров
 Когда вы добавляете новый товар, чтобы сэкономить время, вы можете использовать функцию **Копировать товар**, чтобы скопировать существующий товар для использования в качестве шаблона для нового товара.  
 
 ## <a name="to-copy-an-existing-item-to-a-new-item"></a>Для копирования имеющегося товара в новый товар  
-1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Товары**, а затем выберите соответствующую ссылку.  
+1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Товары**, затем выберите соответствующую ссылку.  
 2. Выберите товар, который необходимо скопировать, затем выберите действие **Копировать товар**.  
 3. На странице **Копировать товар** заполните поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 

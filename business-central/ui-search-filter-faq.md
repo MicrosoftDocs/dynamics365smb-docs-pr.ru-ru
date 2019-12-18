@@ -8,12 +8,12 @@ ms.reviewer: edupont04
 ms.search.keywords: keyboarding, productivity, how do i, filter pane
 ms.date: 10/01/2019
 ms.author: mikebc
-ms.openlocfilehash: a0b5d48f5decbed87337e27145486a2884a6612d
-ms.sourcegitcommit: 49309bdff9b680a35032b355fe97c565845dba15
+ms.openlocfilehash: 79fb96b0262eacfd67326236c7cf8468689c6b5e
+ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "2695195"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "2876875"
 ---
 # <a name="searching-and-filtering-faq"></a>Вопросы и ответы по поиску и фильтрации
 Эта статья отвечает на часто возникающие вопросы по поиску и фильтрации.
@@ -47,7 +47,7 @@ ms.locfileid: "2695195"
 
 Имеется ограничение на время выполнения операции поиска. Во-первых, попробуйте изменить критерии поиска и повторите поиск. Если используется локальная версия [!INCLUDE[prodshort](includes/prodshort.md)], обратитесь к системному администратору, так как администратор может увеличить ограничение время поиска.
 
-Как администратор локальной версии, вы увеличиваете ограничение времени поиска, изменяя настройку **Время ожидания поиска** сервера [!INCLUDE[prodshort](includes/prodshort.md)]. Дополнительные сведения см. в разделе [Настройка сервера Business Central Server](https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/administration/configure-server-instance?#Database) в справке для ИТ-специалистов и разработчиков Business Central.
+Как администратор локальной версии, вы увеличиваете ограничение времени поиска, изменяя настройку **Время ожидания поиска** сервера [!INCLUDE[prodshort](includes/prodshort.md)]. Дополнительные сведения см. в разделе [Настройка сервера Business Central Server](/dynamics365/business-central/dev-itpro/administration/configure-server-instance?#Database) в справке для ИТ-специалистов и разработчиков Business Central.
 
 ## <a name="see-also"></a>См. также
 [Сортировка, поиск и фильтрация](ui-enter-criteria-filters.md)  

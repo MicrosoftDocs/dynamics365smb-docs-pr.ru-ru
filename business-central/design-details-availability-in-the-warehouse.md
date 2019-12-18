@@ -1,8 +1,6 @@
 ---
 title: Сведения о проектировании — наличие на складе | Документация Майкрософт
 description: Система должна постоянно контролировать доступность товаров на складе, чтобы исходящие заказы могли эффективно обрабатываться и обеспечивать оптимальные поставки.
-services: project-madeira
-documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 67e30773683fbf8497a1668e1c4ca3d176e0781e
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 3cf793197ad607071df22aacb2fb98f96ac54597
+ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2303800"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "2880620"
 ---
 # <a name="design-details-availability-in-the-warehouse"></a>Сведения о проектировании: наличие на складе
 Система должна постоянно контролировать доступность товаров на складе, чтобы исходящие заказы могли эффективно обрабатываться и обеспечивать оптимальные поставки.  
@@ -49,7 +47,7 @@ ms.locfileid: "2303800"
 
  На следующей схеме показаны разные элементы вычислений.  
 
- ![Доступно для подбора, с перекрытием резервирования](media/design_details_warehouse_management_availability_2.png "Доступно для подбора, с перекрытием резервирования")  
+ ![Доступно для выбора с перекрытием резервирования](media/design_details_warehouse_management_availability_2.png "Доступно для выбора с перекрытием резервирования")  
 
 ## <a name="quantity-available-to-reserve"></a>Количество, доступное для резервирования  
  Поскольку основные понятия содержимого ячейки и резервирования сосуществуют, количество товаров, доступных для резервирования, должно быть согласовано с распределениями в исходящих документах склада.  

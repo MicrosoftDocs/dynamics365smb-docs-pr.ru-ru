@@ -1,8 +1,6 @@
 ---
 title: Терминология в учете затрат | Документация Майкрософт
 description: В этом разделе определены ключевые понятия, которые используются в учете затрат.
-services: project-madeira
-documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: a0174d6bfd8340fc179a138aabc666e497ba7213
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 2675f9d2bf7e5fc0cb79fa2fbafbf3f7cd1b8597
+ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2301601"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "2882522"
 ---
 # <a name="terminology-in-cost-accounting"></a>Терминология в учете затрат
 В этом разделе определены ключевые понятия, которые используются в учете затрат.  

@@ -10,19 +10,19 @@ ms.workload: na
 ms.search.keywords: business intelligence, KPI, Odata, Power App, SOAP, analysis
 ms.date: 10/01/2019
 ms.author: edupont
-ms.openlocfilehash: a8acad8d0be760f567902587acada49ab68e740f
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 0506dad5f65766919405dd944d75b014957b509c
+ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2304938"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "2879431"
 ---
 # <a name="viewing-list-data-in-power-bi-reports-in-business-central"></a>Просмотр данных в списках в отчетах Power BI в Business Central
 
 [!INCLUDE[prodlong](includes/prodlong.md)] включает элемент управления информационной панелью на нескольких ключевых страницах списков, который предоставляет дополнительные сведения о данных в списке. При перемещении между строками в списке отчет обновляется и фильтруется в соответствии с выбранной операцией. Можно создать пользовательские отчеты для отображения в этом элементе управления, но существует несколько правил, которые следует соблюдать при создании отчетов для обеспечения требуемого поведения.  
 
 > [!NOTE]  
-> Вы должны иметь допустимую учетную запись в [!INCLUDE[prodshort](includes/prodshort.md)] и в Power BI. Кроме того, для создания пользовательских отчетов необходимо скачать [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/), Дополнительные сведения см. в разделе [Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] как источник данных Power BI](across-how-use-financials-data-source-powerbi.md).  
+> Вы должны иметь допустимую учетную запись в [!INCLUDE[prodshort](includes/prodshort.md)] и в Power BI. Кроме того, для создания пользовательских отчетов необходимо скачать [Power BI Desktop](https://powerbi.microsoft.com/desktop/), Дополнительные сведения см. в разделе [Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] как источник данных Power BI](across-how-use-financials-data-source-powerbi.md).  
 
 ## <a name="report-data-set"></a>Набор данных отчета
 При создании отчета в Power BI Desktop укажите источник данных или веб-службу, содержащую данные, связанные со списком, с которым требуется связать отчет. Например, если нужно создать отчет для списка продаж, убедитесь, что набор данных содержит информацию, связанную с продажами.  

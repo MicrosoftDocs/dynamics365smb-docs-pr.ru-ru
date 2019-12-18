@@ -1,8 +1,6 @@
 ---
 title: Практическое руководство. Предложения продажи сборки на заказ | Документация Майкрософт
 description: Можно использовать функцию управления сборкой, чтобы настроить сборочный элемент по запросу клиента во время процесса продаж.
-services: project-madeira
-documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +10,12 @@ ms.workload: na
 ms.search.keywords: kit, kitting
 ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 1ca43d43c382d191854e89760479d642edec722a
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: b6c9ea37d0a76c39a82f25970b58b60c1993afac
+ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2307712"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "2880860"
 ---
 # <a name="quote-an-assemble-to-order-sale"></a>Предложения продажи сборки на заказ
 Можно использовать функцию управления сборкой, чтобы настроить сборочный элемент по запросу клиента во время процесса продаж. Дополнительные сведения см. в разделе [Продажа товара, собранного на заказ](assembly-how-to-sell-items-assembled-to-order.md).  
@@ -28,7 +26,7 @@ ms.locfileid: "2307712"
 >  Как и во всех типах предложений, количества в предложениях по сборке не используются в расчетах наличия, планирования или резервирования.  
 
 ## <a name="to-create-a-sales-quote-for-an-assemble-to-order-item"></a>Создание предложения по продаже для товара сборки на заказ  
-1.  Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Предложение по продаже**, а затем выберите соответствующую ссылку.  
+1.  Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Предложение по продаже**, затем выберите соответствующую ссылку.  
 2.  Создайте строку предложения по продаже с одной строкой для сборочного элемента. Дополнительные сведения см. в разделе [Создание предложений по продаже](sales-how-make-offers.md).  
 3.  В поле **Количество для сборки на заказ** введите полное количество.
 
@@ -43,6 +41,6 @@ ms.locfileid: "2307712"
 ## <a name="see-also"></a>См. также  
 [Управление сборкой](assembly-assemble-items.md)  
 [Работа со спецификациями](inventory-how-work-BOMs.md)  
-[Наличие](inventory-manage-inventory.md)  
+[Запасы](inventory-manage-inventory.md)  
 [Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

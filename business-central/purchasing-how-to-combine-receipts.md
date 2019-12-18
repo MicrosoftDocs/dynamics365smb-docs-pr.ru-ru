@@ -1,8 +1,6 @@
 ---
 title: Как разрешить оприходование большего количества товаров, чем было заказано | Документация Майкрософт
 description: Если необходимо выставить счет по нескольким приходным накладным покупки одновременно, можно использовать функцию Объединить приемки.
-services: project-madeira
-documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 6076412504a8f9176503deced03ae92c7e8076c5
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 3a8a637292f25f683b197d96d55816bfc79d44cf
+ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2312440"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "2883050"
 ---
 # <a name="allow-receipt-of-more-items-than-ordered"></a>Как разрешить оприходование большего количества товаров, чем было заказано
 Когда вы получаете больше товаров, чем заказали, вы можете оприходовать их, а не отменить получение. Например, может быть дешевле оставить излишки у себя в запасах, чем возвращать их, или же ваш поставщик может предложить вам скидку за то, что вы оставите излишек у себя.
@@ -26,7 +24,7 @@ ms.locfileid: "2312440"
 
 ## <a name="to-receive-more-items-than-specified-on-the-purchase-document"></a>Как оприходовать больше товаров, чем указано в документе покупки
 
-1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка модуля "Покупки"**, а затем выберите соответствующую ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка модуля "Покупки и кредиторская задолженность"**, затем выберите соответствующую ссылку.
 2.   
 
 ## <a name="see-also"></a>См. также  

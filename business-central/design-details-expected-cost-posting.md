@@ -1,8 +1,6 @@
 ---
 title: Сведения о проектировании — учет ожидаемой себестоимости | Документация Майкрософт
 description: Ожидаемые значения себестоимости представляют оценку, например, себестоимости приобретенного товара, регистрируемую до получения счета на товар.
-services: project-madeira
-documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 45a3ad8a38492514f953c24ec626c1b3601a7fc1
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: a253837be058cb46656de347e7798a3299472bb9
+ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2303608"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "2880434"
 ---
 # <a name="design-details-expected-cost-posting"></a>Сведения о проектировании: учет ожидаемой себестоимости
 Ожидаемые значения себестоимости представляют оценку, например, себестоимости приобретенного товара, регистрируемую до получения счета на товар.  

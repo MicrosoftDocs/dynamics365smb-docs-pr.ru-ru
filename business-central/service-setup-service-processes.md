@@ -1,8 +1,6 @@
 ---
 title: Настройка процессов управления сервисом | Документация Майкрософт
 description: Узнайте, как настраивать процессы, помогающие обеспечить удовлетворенность клиентов вашей службой обслуживания клиентов.
-services: project-madeira
-documentationcenter: ''
 author: bholtorf
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +10,12 @@ ms.workload: na
 ms.search.keywords: service, number sequences, setup, warnings, fee, contracts, warranties
 ms.date: 10/01/2019
 ms.author: bholtorf
-ms.openlocfilehash: eb83c1a2e90e81060355e15c9d0e81d321ed8ed0
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 665842a2ec24cbee6db469f5ce71b03ddd278555
+ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2315856"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "2877139"
 ---
 # <a name="configure-service-processes"></a>Настройка сервисных процессов
 Ниже приведены некоторые примеры настроек, которые могут быть применены к процессами сервисного управления:  
@@ -29,7 +27,7 @@ ms.locfileid: "2315856"
 * Номерные серии, используемые для документов и товаров, связанных с сервисом.  
 
 ## <a name="to-enter-general-and-mandatory-settings"></a>Ввод общих и обязательных настроек
-1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка сервиса**, а затем выберите соответствующую ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка сервиса**, затем выберите соответствующую ссылку.
 2. Заполните соответствующим образом поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
 
 ## <a name="see-also"></a>См. также  
@@ -38,4 +36,4 @@ ms.locfileid: "2315856"
 [Настройка кодов для стандартных сервисов](service-how-setup-service-coding.md)  
 [Настройка дополнительных затрат для сервисов](service-how-setup-service-costs-pricing.md)  
 [Настройка устранения проблем](service-how-setup-troubleshooting.md)  
-[Сервисный центр](service-service.md)  
+[Управление сервисом](service-service.md)  

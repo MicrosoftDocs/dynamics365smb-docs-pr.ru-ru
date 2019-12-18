@@ -1,8 +1,6 @@
 ---
 title: Производство | Документация Майкрософт
 description: После планирования спроса и выдачи материалов в соответствии с производственными спецификациями можно приступать к выполнению фактических производственных операций в последовательности, определенной маршрутизацией производственных заказов.
-services: project-madeira
-documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: ac871665486260c02ab01dda8d893e30b34e8c4d
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 926f22537d54ad770e38d40a376a6c8ce2594991
+ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2312992"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "2877670"
 ---
 # <a name="manufacturing"></a>Производство
 > [!NOTE]

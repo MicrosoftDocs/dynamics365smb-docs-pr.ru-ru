@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: configure, initialize
-ms.date: 10/01/2019
+ms.date: 11/20/2019
 ms.author: edupont
-ms.openlocfilehash: 9ba3997b20c86c5ddd3bf3f21a6a9455b4f54ec6
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: ac1cc92d67142b22de67dc417686a869a9ea5277
+ms.sourcegitcommit: e97e1df1f5d7b1d8af477580960a8737fcea4d16
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2311480"
+ms.lasthandoff: 11/25/2019
+ms.locfileid: "2832363"
 ---
 # <a name="setting-up-included365finincludesd365fin_mdmd"></a>Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)]
 [!INCLUDE[d365fin](includes/d365fin_md.md)] содержит стандартные конфигурации для большинства бизнес-процессов, но вы можете изменить их в соответствии с потребностями организации.
@@ -46,8 +46,8 @@ ms.locfileid: "2311480"
 |Перенос сведений о клиентах, поставщиках, запасах и банковских счетах из другой системы в [!INCLUDE[d365fin](includes/d365fin_md.md)]|[Импорт бизнес-данных из других финансовых систем](across-import-data-configuration-packages.md).|
 |С помощью надстроек Business Central Outlook можно просматривать финансовые данные, связанные с клиентами и поставщиками, или создавать и отправлять финансовые документы, такие как предложения и счета.|[Использование Business Central в качестве папки "Входящие" для бизнеса в Outlook](admin-outlook.md)|
 |Получайте анализ ваших данных Business Central с помощью Power BI и пакетов содержимого Business Central.|[Включение бизнес-данных для Power BI](admin-powerbi.md)|
-|Использование данных Business Central в составе рабочего процесса в Microsoft Flow.|[Использование Business Central в автоматическом бизнес-процессе](across-how-use-financials-data-source-flow.md)|
-|Данные Business Central можно сделать доступными как источник данных в PowerApps.|[Подключение к данным Business Central для создания бизнес-приложения с помощью PowerApps](across-how-use-financials-data-source-powerapps.md)|
+|Использование данных Business Central в составе рабочего процесса в Power Automate.|[Использование Business Central в автоматическом бизнес-процессе](across-how-use-financials-data-source-flow.md)|
+|Данные Business Central можно сделать доступными как источник данных в Power Apps.|[Подключение к данным Business Central для создания бизнес-приложения с помощью Power Apps](across-how-use-financials-data-source-powerapps.md)|
 |Используйте специальные руководства по миграции Quickbooks.|[Переход с приложения QuickBooks на Business Central](across-quickbooks-to-business-edition.md)|
 |Работайте с данными Business Central с мобильного устройства.|[Получение Business Central на мобильном устройстве](install-mobile-app.md)|
 |Выполняйте пакетное создание накладных для встреч, созданных в резервированиях.|[Пакетное выставление счетов для Microsoft Bookings](finance-bookings.md)|

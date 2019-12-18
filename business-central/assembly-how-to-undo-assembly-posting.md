@@ -1,8 +1,6 @@
 ---
 title: Практическое руководство. Отмена учета сборки | Документация Майкрософт
 description: Иногда может возникнуть необходимость отменить учтенный сборочный заказ, например в случае учете заказа с ошибками, которые нужно исправить, или потому, что он вообще не должен был быть учтен, и его нужно откатить.
-services: project-madeira
-documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +10,12 @@ ms.workload: na
 ms.search.keywords: kit, kitting
 ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 22ebbde0d04dfeb03fa52978e2d1e82d40713445
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 11041ebb7c7154eed6959a99ec5b100c73ccd8c6
+ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2307616"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "2880764"
 ---
 # <a name="undo-assembly-posting"></a>Отмена учета сборки
 Иногда может возникнуть необходимость отменить учтенный сборочный заказ, например в случае учете заказа с ошибками, которые нужно исправить, или потому, что он вообще не должен был быть учтен, и его нужно откатить.
@@ -60,6 +58,6 @@ ms.locfileid: "2307616"
 [Сторнирование учета в журнале и отмена приходных/расходных накладных](finance-how-reverse-journal-posting.md)  
 [Обработка возвратов продажи или отмен](sales-how-process-sales-returns-cancellations.md)    
 [Работа со спецификациями](inventory-how-work-BOMs.md)  
-[Наличие](inventory-manage-inventory.md)  
+[Запасы](inventory-manage-inventory.md)  
 [Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

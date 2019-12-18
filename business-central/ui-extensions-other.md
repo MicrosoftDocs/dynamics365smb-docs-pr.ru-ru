@@ -11,17 +11,17 @@ ms.workload: na
 ms. search.keywords: app, add-in, manifest, customize
 ms.date: 10/01/2019
 ms.author: edupont
-ms.openlocfilehash: f63c266cb73f3f1cd96e13949fd6cc8b441673f6
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 91fa7316332f81703bce1193d4ae813572a6b8b9
+ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2315472"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "2882138"
 ---
 # <a name="business-central-extensions-by-other-providers"></a>Расширения для Business Central от других поставщиков
-В [AppSource.microsoft.com](https://appsource.microsoft.com/) вы можете получить расширения для [!INCLUDE[d365fin](includes/d365fin_md.md)]. Некоторые расширения разработаны Майкрософт, а другие — другими организациями. Мы ссылаемся на веб-сайты, предоставляемые этими организациями для размещения более подробной информации о расширениях, которые опубликованы не корпорацией Майкрософт. См. эти сведения на сайте [AppSource.microsoft.com](https://appsource.microsoft.com/en-us/marketplace/apps?product=dynamics-365%3Bdynamics-365-for-financials&page=1).  
+В [AppSource.microsoft.com](https://appsource.microsoft.com/) вы можете получить расширения для [!INCLUDE[d365fin](includes/d365fin_md.md)]. Некоторые расширения разработаны Майкрософт, а другие — другими организациями. Мы ссылаемся на веб-сайты, предоставляемые этими организациями для размещения более подробной информации о расширениях, которые опубликованы не корпорацией Майкрософт. См. эти сведения на сайте [AppSource.microsoft.com](https://appsource.microsoft.com/marketplace/apps?product=dynamics-365%3Bdynamics-365-business-central&page=1).  
 
-Список расширений от других организаций растет каждый месяц. Поэтому следите за обновлениями [AppSource.microsoft.com](https://appsource.microsoft.com/en-us/marketplace/apps?product=dynamics-365%3Bdynamics-365-for-financials&page=1) и скачивайте расширения, которые помогут вам в работе с [!INCLUDE[d365fin](includes/d365fin_md.md)].  
+Список расширений от других организаций растет каждый месяц. Поэтому следите за обновлениями [AppSource.microsoft.com](https://appsource.microsoft.com/marketplace/apps?product=dynamics-365%3Bdynamics-365-business-central&page=1) и скачивайте расширения, которые помогут вам в работе с [!INCLUDE[d365fin](includes/d365fin_md.md)].  
 
 ## <a name="see-also"></a>См. также
 [Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью расширений](ui-extensions.md)  

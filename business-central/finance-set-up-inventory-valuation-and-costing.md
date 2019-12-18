@@ -1,8 +1,6 @@
 ---
 title: Настройка оценки стоимости запасов и учета себестоимости | Документация Майкрософт
 description: В следующей таблице приводится последовательность задач со ссылками на разделы, в которых они описываются.
-services: project-madeira
-documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 26b7f280afa61bc42af7b728272116731e6947b1
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 931b0ac2a7ac7e33c69ec10bc3770ceda3b1659f
+ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2305672"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "2879541"
 ---
 # <a name="setting-up-inventory-valuation-and-costing"></a>Настройка оценки стоимости запасов и учета себестоимости
 Чтобы обеспечить правильную запись валютных курсов, необходимо настроить различные поля и страницы, прежде чем приступать к выполнению товарных транзакций.

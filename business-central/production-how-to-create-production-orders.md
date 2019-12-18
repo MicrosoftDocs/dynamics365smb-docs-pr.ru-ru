@@ -1,8 +1,6 @@
 ---
 title: Практическое руководство. Создание заголовков производственных заказов | Документация Майкрософт
 description: Производственный заказ можно создать вручную. Для этого сначала необходимо создать заголовок производственного заказа.
-services: project-madeira
-documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: fc0a0dda33b7b90658ca60285abab0562c28fbbc
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 2088cd12faaefb2d9902cad0cc149d209f905f71
+ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2314124"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "2877979"
 ---
 # <a name="create-production-order-headers"></a>Создание заголовков производственных заказов
 Производственный заказ можно создать вручную. Для этого сначала необходимо создать заголовок производственного заказа.
@@ -27,7 +25,7 @@ ms.locfileid: "2314124"
 В следующей процедуре показан способ создания утвержденного производственного заказа. Можно создавать производственные заказы и с другим статусом.  
 
 ## <a name="to-create-a-production-order-header"></a>Создание заголовка производственного заказа  
-1.  Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Утвержд. произв. заказы**, а затем выберите соответствующую ссылку.  
+1.  Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Утвержд. произв. заказы**, затем выберите соответствующую ссылку.  
 2.  Выберите действие **Создать**.  
 3.  В поле **Номер** введите следующий номер в серии.  
 4.  В поле **Тип источника** выберите источник производственного заказа.
@@ -42,6 +40,6 @@ ms.locfileid: "2314124"
 [Производство](production-manage-manufacturing.md)    
 [Настройка производства](production-configure-production-processes.md)  
 [Планирование](production-planning.md)      
-[Наличие](inventory-manage-inventory.md)  
+[Запасы](inventory-manage-inventory.md)  
 [Покупки](purchasing-manage-purchasing.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

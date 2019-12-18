@@ -1,8 +1,6 @@
 ---
 title: Создание общих заказов на сборку | Документация Майкрософт
 description: Создавайте общие заказы на продажу для настраиваемых сборочных элементов до периодического создания фактических заказов на продажу по договору общего заказа.
-services: project-madeira
-documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +10,12 @@ ms.workload: na
 ms.search.keywords: kit, kitting
 ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: eea8c80f1f1796ad0d552b6e832565b400f4cce7
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: d15ecfe1d334c07c757cba10647267ae89fea629
+ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2304124"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "2880884"
 ---
 # <a name="create-blanket-assembly-orders"></a>Создание общих заказов на сборку
 Можно использовать функцию управления сборкой, чтобы настроить сборочный элемент по запросу клиента во время процесса продаж. Дополнительные сведения см. в разделе [Продажа товара, собранного на заказ](assembly-how-to-sell-items-assembled-to-order.md).  
@@ -28,7 +26,7 @@ ms.locfileid: "2304124"
 >  Как и во всех общих заказах, количества в общих сборочных заказах представляют собой только прогнозы, а не рабочие значения, пока они не будет преобразованы в фактические сборочные заказы. Следовательно, функции заказа, такие как расчет наличия, резервирование и трассировка товара, не активны в общих сборочных заказах.  
 
 ## <a name="to-create-a-blanket-assembly-order-for-an-assemble-to-order-item"></a>Создание общего сборочного заказа для товара сборки\-на\-заказ  
-1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Общие заказы на продажу**, а затем выберите соответствующую ссылку.  
+1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Общие заказы на продажу**, затем выберите соответствующую ссылку.  
 2. Создайте новый общий заказ на продажу с одной строкой для сборочного элемента. Дополнительные сведения см. в разделе [Создание общих заказов на продажу](sales-how-to-create-blanket-sales-orders.md).  
 3. В поле **Количество для сборки для заказа** в пустой строке сборочного заказа введите полное количество.
 
@@ -46,6 +44,6 @@ ms.locfileid: "2304124"
 [Создание общих заказов на продажу](sales-how-to-create-blanket-sales-orders.md)  
 [Управление сборкой](assembly-assemble-items.md)  
 [Работа со спецификациями](inventory-how-work-BOMs.md)  
-[Наличие](inventory-manage-inventory.md)  
+[Запасы](inventory-manage-inventory.md)  
 [Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

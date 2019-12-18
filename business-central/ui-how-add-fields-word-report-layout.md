@@ -1,8 +1,6 @@
 ---
 title: Практическое руководство. Добавление полей в макет отчета Word | Документация Майкрософт
 description: Описывается процедура добавления полей набора данных отчета в существующий макет отчета Word для отчета.
-services: project-madeira
-documentationcenter: ''
 author: jswymer
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.author: jswymer
-ms.openlocfilehash: 0c16dbebe7f2bbfa5efebb246149d395d051b353
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 5927a69199f72b09f133d63ac76bade7af361e8c
+ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2315328"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "2877019"
 ---
 # <a name="add-fields-to-a-word-report-layout"></a>Добавление полей в макет отчета Word
 Набор данных отчета может состоять из полей, отображающих метки, данные и изображения. В этом разделе описывается процедура добавления полей набора данных отчета в существующий макет отчета Word для отчета. Поля добавляются с использованием пользовательской части XML в Word для отчета и путем добавления элементов управления содержимым, сопоставляемых полям в наборе данных отчета. Добавление полей требует определенных знаний набора данных отчета, чтобы можно было идентифицировать поля, которые требуется добавить в макет.  
@@ -113,7 +111,7 @@ ms.locfileid: "2315328"
   
  На приведенном ниже рисунке изображена простая пользовательская XML-часть из предыдущего раздела в области **Сопоставление XML** документа Word.  
   
- ![Часть области сопоставления XML в Word](media/nav_reportlayout_xmlmappingpane.png "NAV_ReportLayout_XMLMappingPane")  
+ ![Фрагмент области "Сопоставление XML" в Word](media/nav_reportlayout_xmlmappingpane.png "NAV_ReportLayout_XMLMappingPane")  
   
 -   Для добавления метки или поля в макет вставьте элемент управления содержимым, соответствующий элементу в области **Сопоставление XML**.  
   

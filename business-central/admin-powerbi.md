@@ -11,18 +11,18 @@ ms.search.keywords: account schedule, analysis, reporting, financial report, bus
 ms.reviewer: edupont
 ms.date: 10/01/2019
 ms.author: bmeier
-ms.openlocfilehash: e17485563e331f7e78500650e174f6b2b57bbb8e
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 0750f1724260eb7767757d947f30dcb074ef1aeb
+ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2307976"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "2879110"
 ---
 # <a name="enabling-your-business-data-for-power-bi"></a>Включение бизнес-данных для Power BI
 
 Анализ данных [!INCLUDE[prodshort](includes/prodshort.md)] становится проще благодаря приложениям [!INCLUDE[prodshort](includes/prodshort.md)] для Power BI. Power BI извлекает ваши данные и строит готовую панель мониторинга и отчеты на основе этих данных.  
 
-Вы должны иметь допустимую учетную запись в [!INCLUDE[prodshort](includes/prodshort.md)] и в Power BI. Кроме того, необходимо скачать [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/), если вы хотите создавать собственные отчеты Power BI. Для приложений Power BI требуются разрешения к таблицам, из которых извлекаются данные. Дополнительные сведения о требованиях см. ниже.  
+Вы должны иметь допустимую учетную запись в [!INCLUDE[prodshort](includes/prodshort.md)] и в Power BI. Кроме того, необходимо скачать [Power BI Desktop](https://powerbi.microsoft.com/desktop/), если вы хотите создавать собственные отчеты Power BI. Для приложений Power BI требуются разрешения к таблицам, из которых извлекаются данные. Дополнительные сведения о требованиях см. ниже.  
 
 > [!IMPORTANT]
 > Приложения Power BI, которые описаны в этой статье, предназначены для использования Azure Active Directory в качестве механизма аутентификации, если не указано иное. Чтобы установить приложение Power BI ,вы также должны иметь лицензию Power BI Pro.  После установки приложения Power BI оно может быть передано пользователям с любым типом лицензии.
@@ -214,7 +214,7 @@ ms.locfileid: "2307976"
 [Импорт бизнес-данных из других финансовых систем](across-import-data-configuration-packages.md)  
 [Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md)  
 [Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] как источника данных Power BI](across-how-use-financials-data-source-powerbi.md)  
-[Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] как источника данных PowerApps](across-how-use-financials-data-source-powerapps.md)  
-[Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] в Microsoft Flow](across-how-use-financials-data-source-flow.md)  
+[Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] как источника данных Power Apps](across-how-use-financials-data-source-powerapps.md)  
+[Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] в Power Automate](across-how-use-financials-data-source-flow.md)  
 
 ## [!INCLUDE[d365fin](includes/free_trial_md.md)]  

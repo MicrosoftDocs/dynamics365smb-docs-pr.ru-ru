@@ -11,12 +11,12 @@ ms.workload: na
 ms.search.keywords: integration, synchronize, map, Sales
 ms.date: 10/01/2019
 ms.author: bholtorf
-ms.openlocfilehash: df539a8c1aa42fe8bc732e4819db10cbfbdaec2a
-ms.sourcegitcommit: cd5d3d288feee76d058d325720135275f4c8ad85
+ms.openlocfilehash: 33b2931e14cb7e41cc3e71c327d2237cd8308466
+ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/08/2019
-ms.locfileid: "2775575"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "2878201"
 ---
 # <a name="using-dynamics-365-sales-from-business-central"></a>Использование Dynamics 365 Sales из Business Central
 Если вы используете Dynamics 365 Sales для взаимодействия с клиентами, вы получаете в свое распоряжение бесшовную интеграцию процесса от интереса до получения денег, используя [!INCLUDE[d365fin](includes/d365fin_md.md)] для внутренних действий, таких как обработка заказов, управление запасами и работа с финансами.
@@ -73,10 +73,10 @@ ms.locfileid: "2775575"
 
 Если описание товара в исходном заказе на продажу является длинным, то создается дополнительная строка заказа типа **Комментарий**, чтобы в ней хранился полный текст заказа на продажу в [!INCLUDE[d365fin](includes/d365fin_md.md)].
 
-Обновления полей заголовка заказа на продажу, например "Дата последней расходной накладной" или "Требуемая дата доставки", которые сопоставляются в **Сопоставление таблиц интеграции** SALESORDER-ORDER, периодически синхронизируются в [!INCLUDE[crm_md](includes/crm_md.md)]. Процессы, такие как выпуск заказа на продажу и отгрузка или выставление счета по заказу на продажу, учитываются на временной шкале заказа на продажу в [!INCLUDE[crm_md](includes/crm_md.md)]. Дополнительные сведения см. в разделе [Введение в каналы действий](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/developer/introduction-activity-feeds).
+Обновления полей заголовка заказа на продажу, например "Дата последней расходной накладной" или "Требуемая дата доставки", которые сопоставляются в **Сопоставление таблиц интеграции** SALESORDER-ORDER, периодически синхронизируются в [!INCLUDE[crm_md](includes/crm_md.md)]. Процессы, такие как выпуск заказа на продажу и отгрузка или выставление счета по заказу на продажу, учитываются на временной шкале заказа на продажу в [!INCLUDE[crm_md](includes/crm_md.md)]. Дополнительные сведения см. в разделе [Введение в каналы действий](/dynamics365/customer-engagement/developer/introduction-activity-feeds).
 
 > [!NOTE]  
-> Периодическая синхронизация на основе **Сопоставления таблиц интеграции** SALESORDER-ORDER будет работать только при включенной интеграции заказов на продажу. Дополнительные сведения см. в разделе [Подключение к Dynamics 365 for Sales](admin-how-to-set-up-a-dynamics-crm-connection.md). Синхронизируются только заказы на продажу, созданные из отправленных заказов на продажу в [!INCLUDE[crm_md](includes/crm_md.md)]. Дополнительные сведения см. в разделе [Включение интеграции обработки заказов на продажу](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/sales-enterprise/developer/enable-sales-order-processing-integration).
+> Периодическая синхронизация на основе **Сопоставления таблиц интеграции** SALESORDER-ORDER будет работать только при включенной интеграции заказов на продажу. Дополнительные сведения см. в разделе [Подключение к Dynamics 365 for Sales](admin-how-to-set-up-a-dynamics-crm-connection.md). Синхронизируются только заказы на продажу, созданные из отправленных заказов на продажу в [!INCLUDE[crm_md](includes/crm_md.md)]. Дополнительные сведения см. в разделе [Включение интеграции обработки заказов на продажу](/dynamics365/customer-engagement/sales-enterprise/developer/enable-sales-order-processing-integration).
 
 > [!VIDEO https://go.microsoft.com/fwlink/?linkid=2098170]
 

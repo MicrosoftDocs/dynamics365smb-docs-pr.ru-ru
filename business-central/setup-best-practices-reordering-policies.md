@@ -1,8 +1,6 @@
 ---
 title: Рекомендации по настройке. Политики повторного заказа | Документация Майкрософт
 description: Поле Политика дозаказа в карточках товара содержит четыре разных метода планирования, которые определяют способ взаимодействия отдельных параметров планирования.
-services: project-madeira
-documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 46e4b5861242258769548cae5f214a8d7cb8f9a6
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 97d299372bc140c29138d6b83c34ec18254c4fcd
+ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2311528"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "2882234"
 ---
 # <a name="setup-best-practices-reordering-policies"></a>Рекомендации по настройке. Политики повторного заказа
 Поле **Политика дозаказа** в карточках товара содержит четыре разных метода планирования, которые определяют способ взаимодействия отдельных параметров планирования.  
@@ -32,7 +30,7 @@ ms.locfileid: "2311528"
 
 ABC-классификация показывает, что время и средства можно сэкономить, используя более свободное управление товарами для низкого уровня "стоимость-объем" в отличие от высокого уровня "стоимость-объем". На следующей иллюстрации показано, как политика повтора заказа в [!INCLUDE[d365fin](includes/d365fin_md.md)] лучше всего подходит для товара A, B и C соответственно.
 
-![Классификация ABC](media/abc_classification.png "abc_classification")
+![Классификация по алфавиту](media/abc_classification.png "abc_classification")
 
 В следующей таблице приведены рекомендации по выбору одной из четырех политик.  
 

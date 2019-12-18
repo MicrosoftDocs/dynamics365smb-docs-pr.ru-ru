@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: migration, Excel
-ms.date: 10/01/2019
+ms.date: 12/04/2019
 ms.author: edupont
-ms.openlocfilehash: e4399c16c28d97c0c1c6d8826af14e1b4a48e454
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: ff9f17e6ac1625dc4d1f27a39fc843d9eaa375d7
+ms.sourcegitcommit: b6e506a45a1cd632294bafa1c959746cc3a144f6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2304976"
+ms.lasthandoff: 12/06/2019
+ms.locfileid: "2896257"
 ---
 # <a name="importing-business-data-from-other-finance-systems"></a>Импорт бизнес-данных из других финансовых систем
 При регистрации в [!INCLUDE[d365fin](includes/d365fin_md.md)] вы можете создать пустую организации, чтоб загрузить собственные данные и протестировать новую организацию [!INCLUDE[d365fin](includes/d365fin_md.md)]. В зависимости от финансового решения, которое вы используете сейчас, вы можете перенести информацию о клиентах, поставщиках, запасах и банковских счетах.  
@@ -45,6 +45,9 @@ ms.locfileid: "2304976"
 
 > [!IMPORTANT]  
 >  Не изменяйте столбцы в журналах. Если они перемещаются, изменяются или удаляются, то импортировать лист в [!INCLUDE[d365fin](includes/d365fin_md.md)] невозможно.
+
+> [!NOTE]
+> Поля типа Blob не могут быть экспортированы/импортированы с использованием Excel.
 
 ## <a name="tables-in-the-default-configuration-package"></a>Таблицы в пакете конфигурации по умолчанию
 Пакет конфигурации по умолчанию поддерживает следующие таблицы:

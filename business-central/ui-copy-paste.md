@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: accessibility, shortcuts, keyboarding
 ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: a77c5bcadb15cd1180fc102a1f15881d0cc5db5a
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 8c8714bc1f12b6fd4bf68124cf1797bfa89ece6b
+ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2315664"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "2882258"
 ---
 # <a name="copy-and-paste-faq"></a>Вопросы и ответы по копированию и вставке
 Вы можете скопировать одну или несколько строк (записей) из списка или одно поле на странице, а затем вставить скопированное на ту же страницу, другую страницу или во внешний документ (например, в Microsoft Excel или сообщение электронной почты Outlook). Вкратце, чтобы скопировать, нажмите CTRL+C (cmd+C в macOS) на клавиатуре. Для вставки нажмите CTRL+V (cmd+V в macOS).
@@ -38,7 +38,7 @@ ms.locfileid: "2315664"
 
 При необходимости скопировать несколько строк, можно:
 - Нажмите CTRL+щелкните на другой строке или нажмите SHIFT+щелкните, чтобы выбрать все строки между ними. Дополнительные комбинаций мыши и клавиатуры для выбора строк см. в разделе [Сочетание клавиш](keyboard-shortcuts.md#CopyRows).
-- Выберите ![Показать больше параметров](media/show-more-options-icon.png "Значок Показать больше параметров") в первом столбце, выберите **Выбрать больше**, установите флажок рядом с каждой строкой, которую требуется скопировать, а затем нажмите CTRL+C.
+- Выберите ![Показать больше параметров](media/show-more-options-icon.png "Значок "Показать больше параметров"") в первом столбце, выберите **Выбрать больше**, установите флажок рядом с каждой строкой, которую требуется скопировать, а затем нажмите CTRL+C.
 
 ## <a name="how-do-i-paste-rows"></a>Как вставлять строки?
 Выберите пустую строку с фокусом в любой ячейке, а затем нажмите Crtl+V.
@@ -56,7 +56,7 @@ ms.locfileid: "2315664"
 ## <a name="in-which-lists-can-i-copy-and-paste-rows"></a>В каких списках можно копировать и вставлять строки?
 Строки можно копировать в списках любых типов, включая листы, информационные панели или списки, которые внедрены в страницу (например, строки заказа продажи). Однако чтобы вставить строки, список должен быть редактируемым.
 
-На некоторых страницах дизайн приложения может не позволять вставлять строки. Обратитесь к администратору или разработчику программного обеспечения, чтобы изменить [свойство Editable](https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/properties/devenv-editable-property) или [свойство PasteIsValid](https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/properties/devenv-pasteisvalid-property) в исходной таблице.
+На некоторых страницах дизайн приложения может не позволять вставлять строки. Обратитесь к администратору или разработчику программного обеспечения, чтобы изменить [свойство Editable](/dynamics365/business-central/dev-itpro/developer/properties/devenv-editable-property) или [свойство PasteIsValid](/dynamics365/business-central/dev-itpro/developer/properties/devenv-pasteisvalid-property) в исходной таблице.
 
 ## <a name="on-which-clients-is-copy-and-paste-available"></a>На каких клиентах доступны копирование и вставка?
 Копирование и вставка доступны в браузере или в приложении [!INCLUDE[d365fin](includes/d365fin_md.md)] для Windows 10.

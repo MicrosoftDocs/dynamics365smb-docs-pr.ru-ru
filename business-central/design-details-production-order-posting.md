@@ -1,8 +1,6 @@
 ---
 title: Сведения о проектировании — учет производственного заказа | Документация Майкрософт
 description: Аналогично учету заказа на сборку использованные компоненты и использованное время машины преобразуются и выпускаются как произведенный товар по завершении производственного заказа.
-services: project-madeira
-documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: e6379530eed2c0e3881dd951fbd09602360e5fad
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 9feb2f4f484d2c8769c133696287252663a96997
+ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2306896"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "2878465"
 ---
 # <a name="design-details-production-order-posting"></a>Сведения о проектировании: учет производственного заказа
 Аналогично учету заказа на сборку использованные компоненты и использованное время машины преобразуются и выпускаются как произведенный товар по завершении производственного заказа. Дополнительные сведения см. в разделе [Сведения о проектировании: учет заказа на сборку](design-details-assembly-order-posting.md). Однако поток затрат для заказов на сборку менее сложен, в частности из-за того, что учет себестоимости сборки выполняется только один раз и поэтому не создает запасы НЗП.

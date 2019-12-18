@@ -1,8 +1,6 @@
 ---
 title: Сведения о проектировании — входящий складской поток | Документация Майкрософт
 description: Входящий поток на складе начинается с прибытия товаров на склад компании из внешних источников или с другого склада компании. Сотрудник зарегистрирует товар, как правило, сканируя штрих-код. Из зоны приемки складские операции выполняются на разных уровнях сложности для перемещения товаров в зону хранения.
-services: project-madeira
-documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 1b8a30732b0bf562e54d74c6477c95c36a5ab524
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 8c7dd9f8ed55465a45ef843ebf2a996b79b454f3
+ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2303488"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "2880441"
 ---
 # <a name="design-details-inbound-warehouse-flow"></a>Сведения о проектировании: входящий складской поток
 Входящий поток на складе начинается с прибытия товаров на склад компании из внешних источников или с другого склада компании. Сотрудник зарегистрирует товар, как правило, сканируя штрих-код. Из зоны приемки складские операции выполняются на разных уровнях сложности для перемещения товаров в зону хранения.  
