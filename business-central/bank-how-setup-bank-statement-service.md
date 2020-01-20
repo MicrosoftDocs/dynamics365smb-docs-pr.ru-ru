@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: Yodlee, feed, stream, payment process
 ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 277a35063bb006dc1dfe284c64a153c8ca0d71da
-ms.sourcegitcommit: c6e28db8f78fa21db064c9b8a8d742f49d7db3ae
+ms.openlocfilehash: 99be988a8e5cdea5392e9f105acade41f19e6da3
+ms.sourcegitcommit: 3d128a00358668b3fdd105ebf4604ca4e2b6743c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "2692900"
+ms.lasthandoff: 12/20/2019
+ms.locfileid: "2910716"
 ---
 # <a name="set-up-the-envestnet-yodlee-bank-feeds-service"></a>Настройка службы Envestnet Yodlee Bank Feeds
 Вы можете импортировать электронные банковские выписки для быстрого заполнения страницы **Журнал выверки платежей**, чтобы можно было применять платежи и выверять банковский счет. Дополнительные сведения см. в разделе [Автоматическое применение платежей и выверка банковских счетов](receivables-apply-payments-auto-reconcile-bank-accounts.md).
@@ -127,7 +127,7 @@ ms.locfileid: "2692900"
 
 ## <a name="see-also"></a>См. также
 [Настройка банковских операций](bank-setup-banking.md)  
-[Управление банковскими счетами](bank-manage-bank-accounts.md)  
+[Выверка банковских счетов](bank-manage-bank-accounts.md)  
 [Автоматическое применение платежей и выверка банковских счетов](receivables-apply-payments-auto-reconcile-bank-accounts.md)  
 [Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью расширений](ui-extensions.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

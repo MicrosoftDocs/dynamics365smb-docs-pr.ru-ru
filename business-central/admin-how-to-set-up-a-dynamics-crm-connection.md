@@ -10,20 +10,21 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.author: bholtorf
-ms.openlocfilehash: ffcaaf6550601c181913ebe32e80d4cbcf0756bd
-ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
+ms.openlocfilehash: 73607d238e31cc42680fae008cfdf0ee143d08f3
+ms.sourcegitcommit: 3d128a00358668b3fdd105ebf4604ca4e2b6743c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "2879287"
+ms.lasthandoff: 12/20/2019
+ms.locfileid: "2910740"
 ---
 # <a name="set-up-a-connection-to-dynamics-365-sales"></a>Настройка подключения к Dynamics 365 Sales
-Для интеграции с [!INCLUDE[crm_md](includes/crm_md.md)] необходимо настроить подключение между [!INCLUDE[d365fin](includes/d365fin_md.md)] и [!INCLUDE[crm_md](includes/crm_md.md)].
+В этом разделе описывается, как установить соединение между [!INCLUDE[d365fin](includes/d365fin_md.md)] и [!INCLUDE[crm_md](includes/crm_md.md)].
+<br><br>  
 
 > [!VIDEO https://go.microsoft.com/fwlink/?linkid=2085501]
 
 ## <a name="before-you-start"></a>Перед началом работы
-Прежде чем начинать подключать приложения, полезно подготовить определенные сведения:  
+Перед тем, как создать соединение, необходимо подготовить несколько фрагментов информации:  
 
 * URL-адрес для вашего приложения [!INCLUDE[crm_md](includes/crm_md.md)]. Быстрый способ получить URL-адрес — открыть [!INCLUDE[crm_md](includes/crm_md.md)] и скопировать URL-адрес, а затем вставить его в поле **URL-адрес Dynamics 365 Sales** в [!INCLUDE[d365fin](includes/d365fin_md.md)]. [!INCLUDE[d365fin](includes/d365fin_md.md)] скорректирует форматирование для вас.  
 * Имя пользователя и пароль учетной записи пользователя, которая используется для интеграции.  

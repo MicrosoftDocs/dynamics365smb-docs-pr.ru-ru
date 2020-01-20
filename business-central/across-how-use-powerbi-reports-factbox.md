@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: business intelligence, KPI, Odata, Power App, SOAP, analysis
-ms.date: 10/01/2019
+ms.date: 01/13/2020
 ms.author: edupont
-ms.openlocfilehash: 0506dad5f65766919405dd944d75b014957b509c
-ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
+ms.openlocfilehash: 52788bda7cdc9c0c8b1bd3c2540400ae4973a3f8
+ms.sourcegitcommit: ead69ebe5b29927876a4fb23afb6c066f8854591
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "2879431"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "2952822"
 ---
 # <a name="viewing-list-data-in-power-bi-reports-in-business-central"></a>Просмотр данных в списках в отчетах Power BI в Business Central
 
@@ -69,6 +69,8 @@ ms.locfileid: "2879431"
 **В отчетах отображаются ненужные серые границы, отчет слишком мал или слишком большой**
 
 Проверьте, что отчет имеет размер 325 х 310 пикселей. Сохраните отчет, а затем обновите страницу списка.  
+
+## <a name="see-related-training-at-microsoft-learnlearnmodulesconfigure-powerbi-excel-dynamics-365-business-centralindex"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/configure-powerbi-excel-dynamics-365-business-central/index)
 
 ## <a name="see-also"></a>См. также
 

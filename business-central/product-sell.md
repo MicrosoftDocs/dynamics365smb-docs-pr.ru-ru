@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: microsoft partner
-ms.date: 10/01/2019
+ms.date: 12/20/2019
 ms.author: edupont
-ms.openlocfilehash: 964cbf52362db7a5f9131375925adbf8f941938d
-ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
+ms.openlocfilehash: 36185512ff17e7044dfc9bb6539d3f7b102472b5
+ms.sourcegitcommit: 53565fea987af861f3846e5c1e0e868c279aeb30
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "2883338"
+ms.lasthandoff: 12/20/2019
+ms.locfileid: "2918146"
 ---
 # <a name="become-a-reseller-of-included365fin_longincludesd365fin_long_mdmd"></a>Станьте торговым посредником [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]
 Расширьте бизнес-возможности с помощью [!INCLUDE[d365fin](includes/d365fin_md.md)]!  
@@ -26,10 +26,7 @@ ms.locfileid: "2883338"
 
 ## <a name="get-started"></a>Начало работы
 
-Программа "Ready to Go" — это один из способов начала работы в качестве реселлера [!INCLUDE [prodshort](includes/prodshort.md)]. Можно также обратиться в офис Microsoft в вашей стране или регионе. Дополнительные сведения о ресурсах, доступных вам в рамках программы "Ready to Go", см. по ссылке [aka.ms/readytogo](https://aka.ms/readytogo). Дополнительные сведения о том, как стать реселлером, см. в разделе [Продажа различных решений](/dynamics365/business-central/dev-itpro/developer/readiness/readiness-reseller).  
-
-Зарегистрируйтесь на пробную версию по адресу [https://dynamics.microsoft.com/business-central/overview/ ](https://dynamics.microsoft.com/business-central/overview/
-) и отправляйте отзывы по адресу [https://community.dynamics.com/business](https://community.dynamics.com/business/f/758).  
+Программа "Ready to Go" — это один из способов начала работы в качестве реселлера [!INCLUDE [prodshort](includes/prodshort.md)]. Можно также обратиться в офис Майкрософт в вашей стране или регионе. Для получения дополнительной информации о ресурсах, доступных вам через программу Ready to Go, см. [aka.ms/readytogo](https://aka.ms/readytogo), [Продажа различных решений](/dynamics365/business-central/dev-itpro/developer/readiness/readiness-reseller) и [Начните как реселлер](/dynamics365/business-central/dev-itpro/index#get-started-as-a-reseller).  
 
 ## <a name="see-also"></a>См. также
 

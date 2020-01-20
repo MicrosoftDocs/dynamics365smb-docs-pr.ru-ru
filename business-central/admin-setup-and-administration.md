@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 11/07/2019
+ms.date: 01/13/2020
 ms.author: sgroespe
-ms.openlocfilehash: a23af49140b683c5383287b3057f024644c19133
-ms.sourcegitcommit: 893e13fa75b2d04dedd4a29abda216e3e54b24ae
+ms.openlocfilehash: 3388e30168e6f0da0dfee2b6dcd7e70cb7a62eac
+ms.sourcegitcommit: ead69ebe5b29927876a4fb23afb6c066f8854591
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "2808869"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "2953567"
 ---
 # <a name="administration"></a>Администрация
 Основные задачи администрирования обычно выполняются в организации исполнителем какой-либо одной роли. Объем этих задач может зависеть от размера организации и должностных обязанностей администратора. Среди подобных задач могут быть следующие: управление синхронизацией с базой данных работ и очередей электронной почты, задание пользователей и настройка пользовательского интерфейса.  
@@ -33,7 +33,7 @@ ms.locfileid: "2808869"
 
 |**Задача**|**Раздел**|  
 |------------|-------------|  
-|Определите, кто может войти в [!INCLUDE[d365fin](includes/d365fin_md.md)], создав пользователей в центре администрирования Microsoft 365 в соответствии с лицензиями на продукт.|[Создание пользователей в соответствии с лицензиями](ui-how-users-permissions.md)| 
+|Определите, кто может войти в [!INCLUDE[d365fin](includes/d365fin_md.md)], создав пользователей в центре администрирования Microsoft 365 в соответствии с лицензиями на продукт.|[Создание пользователей в соответствии с лицензиями](ui-how-users-permissions.md)|
 |Назначение разрешения пользователям, изменение наборов разрешений и группирование пользователей для удобного управления разрешениями.|[Назначение разрешений пользователям и группам](ui-how-users-permissions.md)|
 |Добавьте пользователей, управляйте разрешениями и доступом к данным, назначьте роли.|[Управление профилями](admin-users-profiles-roles.md)|
 |Классифицируйте конфиденциальность данных для полей, чтобы можно было отвечать на запросы субъектов данных, связанных с их личными данными.|[Классификация конфиденциальности данных](admin-classifying-data-sensitivity.md)|
@@ -47,6 +47,8 @@ ms.locfileid: "2808869"
 |Можно зашифровать данные на [!INCLUDE[d365fin](includes/d365fin_md.md)] Server, создав новые или импортировав существующие ключи шифрования, включаемые на сервере.|[Управление шифрованием данных](admin-manage-data-encryption.md)|
 |Подключите Dynamics 365 Sales к [!INCLUDE[d365fin](includes/d365fin_md.md)] для получения бесшовной интеграции между отношениями с клиентами и обработкой заказов в процессах от интереса до получения денег.|[Интеграция с Dynamics 365 Sales](admin-prepare-dynamics-365-for-sales-for-integration.md)|
 |Измените поля и действия, которые будут отображаться в пользовательском интерфейсе, в соответствии с бизнес-процессами вашей организации и расширения решения с помощью приложений.|[Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-customizing-overview.md)|
+
+## <a name="see-related-training-at-microsoft-learnlearnpathsdeploy-configure-dynamics-365-business-central"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/deploy-configure-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 [Функциональные бизнес-возможности](across-business-functionality.md)  

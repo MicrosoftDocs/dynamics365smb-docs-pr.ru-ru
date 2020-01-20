@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: customized report, document layout, logo, personalize
-ms.date: 11/13/2019
+ms.date: 01/13/2020
 ms.author: sgroespe
-ms.openlocfilehash: 7c85b58de2ec9e497e2578a6241b7f1499a81ae9
-ms.sourcegitcommit: 893e13fa75b2d04dedd4a29abda216e3e54b24ae
+ms.openlocfilehash: 79e3f15169f592c5e90aacfd3307794f226adeb2
+ms.sourcegitcommit: ead69ebe5b29927876a4fb23afb6c066f8854591
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "2809380"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "2953207"
 ---
 # <a name="managing-report-and-document-layouts"></a>Управление макетами отчетов и документов
 Макет отчета контролирует содержимое и формат отчета, включая то, какие поля данных набора данных отчета отображаются в нем и как они упорядочены, а также стиль текста, изображения и т. д. В [!INCLUDE[d365fin](includes/d365fin_md.md)] можно изменить используемый в отчете макет, создать новый макет или изменить текущие макеты.
@@ -57,6 +57,8 @@ ms.locfileid: "2809380"
 Процедура настройки макетов отчетов Word и RDLC в отчетах одинакова. Основное различие — в способе изменения макетов. Макеты отчетов Word, как правило, проще создавать и изменять, чем макеты отчетов RDLC, поскольку можно использовать Word. Макеты отчетов RDLC изменяются с помощью построителя отчетов SQL Server, предназначенного для более продвинутых пользователей.
 
 Дополнительные сведения о том, как изменить используемый макет, см. в разделе [Смена текущего макета отчета](ui-how-change-layout-currently-used-report.md).
+
+## <a name="see-related-training-at-microsoft-learnlearnmoduleschange-documents-dynamics-365-business-centralindex"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/change-documents-dynamics-365-business-central/index)
 
 ## <a name="see-also"></a>См. также
 [Обновление пользовательских макетов отчетов](ui-update-report-layouts.md)  

@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: phone, tablet
-ms.date: 10/01/2019
+ms.date: 01/13/2020
 ms.author: edupont
-ms.openlocfilehash: 0f378494a30553e005eb01d90e33cadf9c53c7d0
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: ef36a7c26b6d0fafb272989ccfc77fc4e54bf9e4
+ms.sourcegitcommit: ead69ebe5b29927876a4fb23afb6c066f8854591
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2308499"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "2953615"
 ---
 # <a name="getting-business-central-on-your-mobile-device"></a>Получение Business Central на мобильном устройстве
 Работайте с данными [!INCLUDE[d365fin](includes/d365fin_md.md)] с мобильного устройства. Вы можете просматривать бизнес-данные, использовать такие функции, как отправка в Excel или Office 365, просматривать последние диаграммы и ключевые показатели эффективности, отправлять по электронной почте предложения и счета, а также делать фотографии с помощью камеры и прикладывать снимки. Выполните следующие действия для загрузки приложения и начала работы.
@@ -28,6 +28,8 @@ ms.locfileid: "2308499"
 3. Введите свое имя пользователя и пароль, созданные при регистрации в [!INCLUDE[d365fin](includes/d365fin_md.md)], и выполните инструкции на экране.
 
 Теперь у вас должен появиться доступ к [!INCLUDE[d365fin](includes/d365fin_md.md)] и вы сможете просматривать и изменять данные.
+
+## <a name="see-related-training-at-microsoft-learnlearnmodulesalternative-interfaces-dynamics-365-business-centralindex"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/alternative-interfaces-dynamics-365-business-central/index)
 
 ## <a name="see-also"></a>См. также
 [Приступая к работе](product-get-started.md)  

@@ -9,14 +9,14 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: account schedule, analysis, reporting, financial report, business intelligence, KPI
 ms.reviewer: edupont
-ms.date: 10/01/2019
+ms.date: 01/13/2020
 ms.author: bmeier
-ms.openlocfilehash: 0750f1724260eb7767757d947f30dcb074ef1aeb
-ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
+ms.openlocfilehash: 1450db26598da2f2735df1979cfacc16034fcf3a
+ms.sourcegitcommit: ead69ebe5b29927876a4fb23afb6c066f8854591
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "2879110"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "2952991"
 ---
 # <a name="enabling-your-business-data-for-power-bi"></a>Включение бизнес-данных для Power BI
 
@@ -164,7 +164,7 @@ ms.locfileid: "2879110"
 
 ### <a name="message-there-are-no-enabled-reports-choose-select-report-to-see-a-list-of-reports-that-you-can-display"></a>Сообщение: "Включенные отчеты отсутствуют. Нажмите кнопку "Выбрать отчет", чтобы увидеть список отчетов, которые можно открыть."
 
-Это сообщение появляется, если стандартный отчет не удалось развернуть в вашей рабочей области Power BI или если отчет был развернут, но его не удалось обновить. В этом случае перейдите к отчету в своей рабочей области Power BI, выберите **Набор данных**, **Настройки**, а затем вручную обновите учетные данные. После успешного обновления набора данных вернитесь в Business Central и вручную выберите отчет на странице **Выбрать отчеты**. 
+Это сообщение появляется, если стандартный отчет не удалось развернуть в вашей рабочей области Power BI или если отчет был развернут, но его не удалось обновить. В этом случае перейдите к отчету в своей рабочей области Power BI, выберите **Набор данных**, **Настройки**, а затем вручную обновите учетные данные. После успешного обновления набора данных вернитесь в Business Central и вручную выберите отчет на странице **Выбрать отчеты**.
 
 ### <a name="you-need-a-power-bi-pro-license-to-install-the-include-prodshortincludesprodshortmd-app-in-power-bi"></a>Вам необходима лицензия Power BI Pro для установки приложения [!INCLUDE [prodshort](includes/prodshort.md)] в Power BI
 
@@ -174,7 +174,7 @@ ms.locfileid: "2879110"
 
 Эта ошибка указывает на то, что еще один из параметров недействителен.
 
-- Указанный параметр среды не соответствует ни одной из существующих рабочих сред или песочниц [!INCLUDE [prodshort](includes/prodshort.md)]. 
+- Указанный параметр среды не соответствует ни одной из существующих рабочих сред или песочниц [!INCLUDE [prodshort](includes/prodshort.md)].
 - Указанный параметр организации не соответствует ни одной из существующих организаций [!INCLUDE [prodshort](includes/prodshort.md)]. Проверьте название компании на странице **Организации** в [!INCLUDE [prodshort](includes/prodshort.md)].
 - При подключении к [!INCLUDE [prodshort](includes/prodshort.md)] on-premises. вы ввели неверный URL-адрес. Вы можете проверить URL-адрес на странице **Веб-службы** в [!INCLUDE [prodshort](includes/prodshort.md)]  
 - Порт не открыт, чтобы позволить запросу пройти через ваш брандмауэр.
@@ -202,6 +202,8 @@ ms.locfileid: "2879110"
 ### <a name="i-only-see-data-for-a-single-company"></a>Я вижу данные только для одной организации
 
 Приложение Power BI будет отображать только данные из организации [!INCLUDE [prodshort](includes/prodshort.md)], которая была определена, когда приложение Power BI было установлено. Данные из других организаций можно добавлять в отчеты, добавляя новые запросы, которые используют другие организации в качестве источника данных.  
+
+## <a name="see-related-training-at-microsoft-learnlearnmodulesconfigure-powerbi-excel-dynamics-365-business-centralindex"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/configure-powerbi-excel-dynamics-365-business-central/index)
 
 ## <a name="see-also"></a>См. также
 

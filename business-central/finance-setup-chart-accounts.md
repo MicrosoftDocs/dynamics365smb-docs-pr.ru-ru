@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: COA, cha of acc
 ms.date: 10/01/2019
 ms.author: edupont
-ms.openlocfilehash: ee789f35118c054fec8129106db0ad60cc48141c
-ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
+ms.openlocfilehash: 901650c2ed61867cdcccd093d54b10fe24ce30a9
+ms.sourcegitcommit: 3d128a00358668b3fdd105ebf4604ca4e2b6743c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "2879469"
+ms.lasthandoff: 12/20/2019
+ms.locfileid: "2911075"
 ---
 # <a name="setting-up-or-changing-the-chart-of-accounts"></a>Настройка или изменение плана счетов
 В плане счетов отображаются счета главной книги, на которых хранятся финансовые данные. [!INCLUDE[d365fin](includes/d365fin_md.md)] включает стандартный план счетов, готовый к использованию в вашей организации.
@@ -39,7 +39,7 @@ ms.locfileid: "2879469"
 
 ## <a name="see-also"></a>См. также
 [Главная книга и план счетов](finance-general-ledger.md)  
-[Управление банковскими счетами](bank-manage-bank-accounts.md)  
+[Выверка банковских счетов](bank-manage-bank-accounts.md)  
 [Работа с измерениями](finance-dimensions.md)  
 [Импорт данных из других финансовых систем](across-import-data-configuration-packages.md)  
 [Работа с финансовыми отчетами](bi-how-work-account-schedule.md)  

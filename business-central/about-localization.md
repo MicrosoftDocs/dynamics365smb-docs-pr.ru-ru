@@ -8,28 +8,31 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: availability, localization
-ms.date: 11/13/2019
+ms.date: 01/10/2020
 ms.author: edupont
-ms.openlocfilehash: 830c12f64c3701b583cf9569f85c67224941f77f
-ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
+ms.openlocfilehash: 572e56b6d1ba95a427faed89c2f86471c0fea929
+ms.sourcegitcommit: ead69ebe5b29927876a4fb23afb6c066f8854591
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "2881244"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "2952894"
 ---
-# <a name="local-functionality-in-included365fin_longincludesd365fin_long_mdmd"></a>Локальная функциональность в [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]
+# <a name="local-functionality-in-includeprodlongincludesprodlongmd"></a>Локальная функциональность в [!INCLUDE[prodlong](includes/prodlong.md)]
+
 [!INCLUDE[d365fin](includes/d365fin_md.md)] предлагает стратегию объединенной локализации, включая модели под управлением Майкрософт и партнеров. В этом разделе представлены описания функций, применимых к странам, в которых корпорация Майкрософт обеспечивает соблюдение нормативных требований, и других локальных функций.  
 
 Список поддерживаемых в настоящее время рынков см. в разделе [Наличие в странах/регионах и поддерживаемые переводы](/dynamics365/business-central/dev-itpro/compliance/apptest-countries-and-translations?toc=/dynamics365/business-central/toc.json),  
 
 ## <a name="local-functionality"></a>Локальная функциональность
+
 Для получения сведений о локальной функциональности для каждой страны перейдите по связанной ссылке:
 
 | Регион | Страна | Дополнительная информация |
 | --- | --- |--- |
 | Европа |  | |
 |        | Австрия | [Функциональность локальной версии для Австрии](localfunctionality/austria/austria-local-functionality.md) |
-|        | Бельгия |  [Функциональность локальной версии для Бельгии](localfunctionality/belgium/belgium-local-functionality.md) |
+|        | Бельгия | [Функциональность локальной версии для Бельгии](localfunctionality/belgium/belgium-local-functionality.md) |
+|        | Чехия | [Локальная функциональность для Чехии](localfunctionality/czech/czech-local-functionality.md) |
 |        | Дания | [Локальная функциональность в Дании](localfunctionality/denmark/denmark-local-functionality.md) |
 |        | Германия | [Функциональность локальной версии для Германии](localfunctionality/germany/germany-local-functionality.md) |
 |        | Финляндия | [Локальная функциональность для Финляндии](localfunctionality/finland/finland-local-functionality.md) |

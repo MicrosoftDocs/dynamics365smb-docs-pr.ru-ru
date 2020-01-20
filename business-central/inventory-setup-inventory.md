@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: warehouse, stock
-ms.date: 10/01/2019
+ms.date: 01/13/2020
 ms.author: SorenGP
-ms.openlocfilehash: 2d29bd0902ade38a1901899af475377e18089316
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 86ddde5339631915a997cbbebe63a3a2d6d68835
+ms.sourcegitcommit: ead69ebe5b29927876a4fb23afb6c066f8854591
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2309488"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "2952606"
 ---
 # <a name="setting-up-inventory"></a>Настройка запасов
 Прежде чем приступать к управлению складскими операциями и учетом стоимости товаров, необходимо настроить правила и значения, которые определяют политики запасов в компании.
@@ -38,6 +38,8 @@ ms.locfileid: "2309488"
 |Как дополнение к карточкам товаров, записывайте информацию о товарах на конкретном складе или о конкретном варианте.|[Настройка единиц хранения](inventory-how-to-set-up-stockkeeping-units.md)|
 | Назначение товаров категориям и задание атрибутов для упрощения поиска товаров для вас и клиентов. |[Категоризация товаров](inventory-how-categorize-items.md) |
 |Одновременный импорт нескольких изображений товаров из ZIP-файла, в котором файлы названы в соответствии с номерами товаров.|[Импорт нескольких изображений товаров](inventory-how-import-item-pictures.md)|
+
+## <a name="see-related-training-at-microsoft-learnlearnmodulestrade-get-started-dynamics-365-business-central"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/trade-get-started-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 [Управление запасами](inventory-manage-inventory.md)  

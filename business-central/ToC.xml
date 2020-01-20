@@ -153,9 +153,9 @@
       <Node Name="" DisplayName="Практическое руководство. Создание счетов на предоплату" Page="finance-how-to-create-prepayment-invoices.html"/>
       <Node Name="" DisplayName="Практическое руководство. Корректировка предоплат" Page="finance-how-to-correct-prepayments.html"/>
     </Node>
-    <Node Name="" DisplayName="Управление банковскими счетами" Page="bank-manage-bank-accounts.html">
+    <Node Name="" DisplayName="Выверка банковских счетов" Page="bank-manage-bank-accounts.html">
       <Node Name="" DisplayName="Автоматическое применение платежей и выверка банковских счетов" Page="receivables-apply-payments-auto-reconcile-bank-accounts.html"/>
-      <Node Name="" DisplayName="Практическое руководство. Выверка банковских счетов по отдельности" Page="bank-how-reconcile-bank-accounts-separately.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Выверка банковских счетов" Page="bank-how-reconcile-bank-accounts-separately.html"/>
       <Node Name="" DisplayName="Практическое руководство. Перевод банковских средств" Page="bank-how-transfer-bank-funds.html"/>
     </Node>
     <Node Name="" DisplayName="Управление межфирменными транзакциями" Page="intercompany-manage.html">

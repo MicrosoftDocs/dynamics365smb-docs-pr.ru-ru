@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: money flow, expense and income, liquidity, cash receipts minus cash payments, Cartera, funds
-ms.date: 10/01/2019
+ms.date: 01/13/2020
 ms.author: bholtorf
-ms.openlocfilehash: 88b84c13da3b443714bcfb7cb86a52ee49264c64
-ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
+ms.openlocfilehash: 8fc2bd353a80bf72f8bb9a0d282bec7c216fc0fa
+ms.sourcegitcommit: ead69ebe5b29927876a4fb23afb6c066f8854591
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "2879493"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "2953711"
 ---
 # <a name="setting-up-cash-flow-analysis"></a>Настройка анализа движения денежных средств
 Если вам требуется помощь в решении относительно того, что делать с кассой, просмотрите диаграммы в ролевом центре бухгалтера:  
@@ -28,6 +28,9 @@ ms.locfileid: "2879493"
 * **Прогнозы движения денежных средств**  
 
 В этом разделе описывается, откуда берутся данные на диаграммах и, если необходимо, что нужно сделать, чтобы начать использовать диаграммы.  
+<br><br>  
+
+> [!Video https://www.microsoft.com/en-us/videoplayer/embed/RE4mJhc]
 
 ## <a name="the-cash-cycle-and-income--expense-charts"></a>Диаграммы "Цикл кассы" и "Доходы и расходы"
 Диаграммы **Цикл кассы** и **Доходы и расходы** готовы к использованию на основании плана счетов и финансовых отчетов. Данные поступают со счетов, а финансовых отчетах рассчитывается связь между продажами и задолженностью. Некоторые счета и финансовые отчеты предоставляются. Можно использовать их как есть, изменить их или добавить новые. При добавлении счетов ГК в план счетов, например путем импорта из QuickBooks, необходимо выполнить сопоставление со счетами на странице **Финансовые отчеты** для следующих названий финансовых отчетов:  
@@ -90,6 +93,8 @@ ms.locfileid: "2879493"
 5. Запишите URL-адрес API и ключ API. Эти учетные данные будут использоваться для настройки движения денежных средств.  
 6. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка движения денежных средств**, затем выберите соответствующую ссылку.  
 7. Разверните экспресс-вкладку **ИИ Azure**, а затем заполните соответствующие поля.  
+
+## <a name="see-related-training-at-microsoft-learnlearnmodulesforecast-cash-flow-dynamics-365-business-centralindex"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/forecast-cash-flow-dynamics-365-business-central/index)
 
 ## <a name="see-also"></a>См. также
 [Анализ движения денежных средств в организации](finance-analyze-cash-flow.md)  

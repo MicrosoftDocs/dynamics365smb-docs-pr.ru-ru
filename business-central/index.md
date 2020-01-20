@@ -7,14 +7,14 @@ ms.topic: landing-page
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.date: 11/12/2019
+ms.date: 01/13/2020
 ms.author: sgroespe
-ms.openlocfilehash: b640450df709320b961c042736edeed7554096c4
-ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
+ms.openlocfilehash: 44a534a5de37ff1c85aca9f659e113c1b325b850
+ms.sourcegitcommit: ead69ebe5b29927876a4fb23afb6c066f8854591
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "2882834"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "2953591"
 ---
 # <a name="welcome-to-included365fin_longincludesd365fin_long_mdmd"></a>Добро пожаловать в [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]
 [!INCLUDE[d365fin](includes/d365fin_md.md)] — это решение по управлению деятельностью для малых и средних предприятий, позволяющее автоматизировать и упростить бизнес процессы и лучше управлять бизнесом. Легко настраиваемое, с множеством полезных функций, [!INCLUDE[d365fin](includes/d365fin_md.md)] позволяет организациям управлять деятельностью, включая финансы, производство, продажи, отгрузку, управление проектом, оказание услуг и т. д. Решение позволяет легко добавлять функциональность, специфическую для региона, в котором осуществляется деятельность, а также для сферы деятельности организации.
@@ -26,6 +26,8 @@ ms.locfileid: "2882834"
 |**Бизнес-процессы**|-   [Приступая к работе](product-get-started.md)<br />-   [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)<br />-   [Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md)<br />-   [Администрация](admin-setup-and-administration.md)<br />-   [Функциональные бизнес-возможности](across-business-functionality.md)<br />-   [Локальная функциональность](LocalFunctionality/Austria/austria-local-functionality.md)<br />-   [Общие бизнес-функции](ui-across-business-areas.md)<br />-   [Пошаговые описания бизнес-процессов](walkthrough-business-process-walkthroughs.md)<br />-   [Сведения о структуре приложения](design-details-application-design.md)|  
 |**Содержимое для разработчиков и ИТ-специалистов**|-   [Справка для разработчиков и ИТ-специалистов по [!INCLUDE [prodshort](includes/prodshort.md)]](/dynamics365/business-central/dev-itpro/index)<br />-   [Разработка в AL](/dynamics365/business-central/dev-itpro/developer/devenv-dev-overview)<br />-   [Среда разработки AL](/dynamics365/business-central/dev-itpro/developer/devenv-reference-overview)<br />-   [Правила и рекомендации для кода AL](/dynamics365/business-central/dev-itpro/compliance/apptest-overview)|  
 |**Ресурсы сообщества**|-   [Сообщество Microsoft Dynamics 365 Business Central](https://community.dynamics.com/business)<br />-   [Microsoft Dynamics 365 Business Central в блоге Dynamics 365](https://cloudblogs.microsoft.com/dynamics365/it/product/business-central/)<br />-   [Планы выпуска Microsoft Dynamics 365](https://go.microsoft.com/fwlink/?linkid=2047422)<br />-   [Дорожная карта Microsoft Dynamics 365 Business Central](https://dynamics.microsoft.com/roadmap/business-central/)<br />-   [Microsoft Dynamics PartnerSource \(требуется учетная запись PartnerSource\)](https://mbs.microsoft.com/partnersource)<br />-   [Microsoft Partner Network \(требуется учетная запись члена Microsoft Partner Network\)](https://mspartner.microsoft.com/en/us/windows/index.aspx)|  
+
+## <a name="see-related-training-at-microsoft-learnlearnbrowseproductsdynamics-business-central"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/browse/?products=dynamics-business-central)
 
 ## <a name="see-also"></a>См. также
 
@@ -41,4 +43,3 @@ ms.locfileid: "2882834"
 
 
 ## [!INCLUDE[d365fin](includes/free_trial_md.md)]
-## [!INCLUDE[d365fin](includes/training_link_md.md)]

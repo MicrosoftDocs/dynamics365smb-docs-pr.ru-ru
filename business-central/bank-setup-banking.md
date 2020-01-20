@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: Yodlee, feed, stream, data exchange, AMC, link
 ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 083bb3784e21621f97161e65ff3cfa80ed0efc52
-ms.sourcegitcommit: c6e28db8f78fa21db064c9b8a8d742f49d7db3ae
+ms.openlocfilehash: 5995e550b4d4c25296842a7d73a5f74acb91bd83
+ms.sourcegitcommit: 3d128a00358668b3fdd105ebf4604ca4e2b6743c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "2692732"
+ms.lasthandoff: 12/20/2019
+ms.locfileid: "2910399"
 ---
 # <a name="setting-up-banking"></a>Настройка банковских операций
 Используя карточки банковских счетов, можно отслеживать все банковские счета в любой валюте. После настройки банковских счетов можно также использовать параметр печати платежных документов.
@@ -31,7 +31,7 @@ ms.locfileid: "2692732"
 | Настройте внешний сервис, который позволяет экспортировать платежи в банк для обработки и импортировать банковские выписки в виде банковских файлов для применения платежей и выверки банковских транзакций. |[Использование расширения AMC Banking 365 Fundamentals](ui-extensions-amc-banking.md) |
 
 ## <a name="see-also"></a>См. также
-[Управление банковскими счетами](bank-manage-bank-accounts.md)  
+[Выверка банковских счетов](bank-manage-bank-accounts.md)  
 [Управление дебиторской задолженностью](receivables-manage-receivables.md)  
 [Управление кредиторской задолженностью](payables-manage-payables.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

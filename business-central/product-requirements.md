@@ -10,21 +10,27 @@ ms.workload: na
 ms.search.keywords: version
 ms.date: 10/17/2019
 ms.author: edupont
-ms.openlocfilehash: 96825fcc03bbbbc43c00f3bce4b9ac257a915a6f
-ms.sourcegitcommit: be1e2c49a8434d3f440d5a201508af9c3c8cc87f
+ms.openlocfilehash: b75ad760448b595e0241918006d5a888b5d5d625
+ms.sourcegitcommit: 3d128a00358668b3fdd105ebf4604ca4e2b6743c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "2649768"
+ms.lasthandoff: 12/20/2019
+ms.locfileid: "2911243"
 ---
 # <a name="minimum-requirements-for-using-business-central"></a>Минимальные требования для использования Business Central
 Перед началом работы с [!INCLUDE [prodshort](includes/prodshort.md)] Online мы рекомендуем проверить, что ваш компьютер и мобильное устройство соответствуют минимальным требованиям для продукта или превышают их. В этой статье перечислены эти требования.  
 
 ## <a name="browsers"></a>Браузеры
+
+### <a name="recommended-browsers"></a>Рекомендуемые браузеры
+
 **Chrome для Windows и Firefox для Windows:** программа [!INCLUDE[d365fin](includes/d365fin_md.md)] предназначена для работы с текущей версией этих настольных браузеров.  
 **Safari:** программа [!INCLUDE[d365fin](includes/d365fin_md.md)] предназначена для работы с текущей версией Safari в OSX.  
-**Microsoft Edge:** программа [!INCLUDE[d365fin](includes/d365fin_md.md)] предназначена для работы с текущей версией Microsoft Edge.  
-**Internet Explorer:** программа [!INCLUDE[d365fin](includes/d365fin_md.md)] предназначена для работы с текущей версией Internet Explorer 11 (сборка 11.0.9600.17239) для Windows 10 (32-разрядная или 64-разрядная версии). Мы рекомендуем обновиться до последней версии Internet Explorer, которая поддерживается вашей версией Windows.  
+**Microsoft Edge:** программа [!INCLUDE[d365fin](includes/d365fin_md.md)] предназначена для работы с текущей версией Microsoft Edge.
+
+### <a name="other-supported-browsers"></a>Другие поддерживаемые браузеры
+
+**Internet Explorer:** программа [!INCLUDE[d365fin](includes/d365fin_md.md)] предназначена для работы с текущей версией Internet Explorer 11 (сборка 11.0.9600.17239) для Windows 10 (32-разрядная или 64-разрядная версии). Мы рекомендуем обновиться до последней версии Internet Explorer, которая поддерживается вашей версией Windows. 
 
 ## <a name="mobile-devices"></a>Мобильные устройства
 **Windows:** [!INCLUDE[d365fin](includes/d365fin_md.md)] для Windows можно установить на устройства, имеющие хотя бы 1 ГБ ОЗУ и Windows 10 Home, Pro, Enterprise или Education (32-разрядная и 64-разрядная версии).  

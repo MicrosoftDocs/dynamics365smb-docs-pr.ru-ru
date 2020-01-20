@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: trade, sell, configure
-ms.date: 10/01/2019
+ms.date: 01/13/2020
 ms.author: sgroespe
-ms.openlocfilehash: 701556c09944c5dcce74543b550c9036c5cc77dd
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: d19d02cb770efb32441d4b1282789a92deea41a0
+ms.sourcegitcommit: ead69ebe5b29927876a4fb23afb6c066f8854591
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2311936"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "2953399"
 ---
 # <a name="setting-up-sales"></a>Настройка продаж
 Прежде чем приступать к управлению процессами продажи, необходимо настроить правила и значения, которые определяют политики продажи в организации.
@@ -39,6 +39,8 @@ ms.locfileid: "2311936"
 |Использование веб-службы ЕС для проверки ИНН клиента.|[Проверка регистрационных номеров НДС](finance-setup-vat.md)|
 |Определите различные условия, которые вы предлагаете клиентам или которые предлагают вам ваши поставщики.|[Настройка методов отгрузки](sales-how-set-up-shipment-methods.md)|
 |Ввести сведения о различных используемых перевозчиках, включая ссылки на их службу отслеживания пакетов.|[Настройка экспедиторов](sales-how-to-set-up-shipping-agents.md)|
+
+## <a name="see-related-training-at-microsoft-learnlearnmodulestrade-get-started-dynamics-365-business-central"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/trade-get-started-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 [Продажи](sales-manage-sales.md)  

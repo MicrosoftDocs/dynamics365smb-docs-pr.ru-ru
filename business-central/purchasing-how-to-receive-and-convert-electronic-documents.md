@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2019
+ms.date: 01/13/2020
 ms.author: sgroespe
-ms.openlocfilehash: e9543d9fc361f2948907bc0e84d37dd870139cd8
-ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
+ms.openlocfilehash: 8571e0cbaa7104d6db8fc29ca11530a2c42464de
+ms.sourcegitcommit: ead69ebe5b29927876a4fb23afb6c066f8854591
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "2553870"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "2953495"
 ---
 # <a name="receive-and-convert-electronic-documents"></a>Получение и преобразование электронных документов
 Универсальная версия [!INCLUDE[d365fin](includes/d365fin_md.md)] поддерживает получение электронных счетов и кредит-нот в формате PEPPOL, поддерживаемом крупнейшими поставщиками служб обмена документами. Для получения счета от поставщика в формате электронного документа PEPPOL необходимо обработать документ на странице "Входящие документы", преобразовав его в счет покупки или строку финансового журнала в [!INCLUDE[d365fin](includes/d365fin_md.md)].
@@ -41,7 +41,7 @@ ms.locfileid: "2553870"
 
 ### <a name="to-receive-and-convert-an-electronic-invoice-to-a-purchase-invoice"></a>Получение и преобразование электронного счета в счете покупки  
 
-1.  Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Входящие документы**, а затем выберите соответствующую ссылку.  
+1.  Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Входящие документы**, затем выберите соответствующую ссылку.  
 
 2.  Выделите строку для записи входящего документа, которая представляет новый входящий электронный счет, после чего выберите действие **Правка**.  
 
@@ -56,6 +56,8 @@ ms.locfileid: "2553870"
      Счет покупки будет создан в [!INCLUDE[d365fin](includes/d365fin_md.md)] на основе информации из электронного документа.  
 
      Любые ошибки проверки, обычно связанные с некорректностью или отсутствием данных в [!INCLUDE[d365fin](includes/d365fin_md.md)], будут представлены на экспресс-вкладке **Сообщения об ошибках**.  
+
+## <a name="see-related-training-at-microsoft-learnlearnmoduleselectronic-documents-dynamics-365-business-centralindex"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/electronic-documents-dynamics-365-business-central/index)
 
 ## <a name="see-also"></a>См. также  
 [Управление кредиторской задолженностью](payables-manage-payables.md)  

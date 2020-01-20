@@ -5,14 +5,14 @@ author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: multiple currencies, adjust exchange rates
-ms.date: 10/01/2019
+ms.date: 01/13/2020
 ms.author: sgroespe
-ms.openlocfilehash: 6e9456a17ccf8dc6c3e3e8ae8272baa03f43f7da
-ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
+ms.openlocfilehash: be39f8a56dc95ed48e339e89513a103d044faa08
+ms.sourcegitcommit: ead69ebe5b29927876a4fb23afb6c066f8854591
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "2882666"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "2952678"
 ---
 # <a name="update-currency-exchange-rates"></a>Обновление валютных курсов
 Поскольку сфера действия организаций включает все новые и новые страны и регионы, растет необходимость в торговле и составлении финансовых отчетов в нескольких валютах. Следует настраивать код по каждой используемой валюте при покупке или продаже в валютах, отличных от местной валюты, при поступлениях или платежах в других валютах или при записи транзакций ГК в других валютах.
@@ -62,6 +62,8 @@ ms.locfileid: "2882666"
 2. Выберите действие **Обновить валютные курсы**.
 
 Значение в поле **Валютный курс** на странице **Валюты** обновляется до самого актуального валютного курса.
+
+## <a name="see-related-training-at-microsoft-learnlearnpathsuse-multiple-currencies-dynamics-365-business-central"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/use-multiple-currencies-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 [Настройка дополнительной отчетной валюты](finance-how-setup-additional-currencies.md)  

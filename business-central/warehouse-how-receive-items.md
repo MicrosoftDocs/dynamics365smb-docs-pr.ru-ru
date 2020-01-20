@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2019
+ms.date: 01/13/2020
 ms.author: sgroespe
-ms.openlocfilehash: d007c3a9433807f75e667e130c0b79355a4a051a
-ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
+ms.openlocfilehash: 273da0c35e6c4ca376f38ceede1568f5df5b4b15
+ms.sourcegitcommit: ead69ebe5b29927876a4fb23afb6c066f8854591
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "2876751"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "2953087"
 ---
 # <a name="receive-items"></a>Приемка товаров
 Если товары поступают на склад, который не был настроен для обработки складской приемки, вы просто регистрируете приемку в соответствующем бизнес-документе, таком как заказ на покупку, заказ на возврат продажи или входящий заказ на перемещение.
@@ -75,9 +75,11 @@ ms.locfileid: "2876751"
 >   
 >  Если на складе применяется расширенный подбор и размещение, для вычисления наилучшего места для размещения товаров используются шаблоны размещения. Затем эти сведения печатаются в инструкции по размещению.  
 
+## <a name="see-related-training-at-microsoft-learnlearnmodulesreceive-invoice-dynamics-d365-business-centralindex"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/receive-invoice-dynamics-d365-business-central/index)
+
 ## <a name="see-also"></a>См. также  
 [Управление складом](warehouse-manage-warehouse.md)  
-[Наличие](inventory-manage-inventory.md)  
+[Запасы](inventory-manage-inventory.md)  
 [Настройка управления складом](warehouse-setup-warehouse.md)     
 [Управление сборкой](assembly-assemble-items.md)    
 [Сведения о проектировании: управление складом](design-details-warehouse-management.md)  

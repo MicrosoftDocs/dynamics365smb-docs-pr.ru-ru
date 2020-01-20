@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: trade, sell
-ms.date: 10/01/2019
+ms.date: 01/13/2020
 ms.author: sgroespe
-ms.openlocfilehash: 64b0f8f551ac505e2e289bc1abea719947cc058a
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 0d5c47a7dbd4339eff85bd6fe70078f5e56009aa
+ms.sourcegitcommit: ead69ebe5b29927876a4fb23afb6c066f8854591
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2316312"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "2954099"
 ---
 # <a name="sales"></a>Продажи
 Счет продажи или заказы на продажу создаются для записи соглашения с клиентом о продаже определенных товаров на определенных условиях доставки и оплаты.
@@ -54,6 +54,8 @@ ms.locfileid: "2316312"
 |Оповещайте своих клиентов о датах доставки заказа путем расчета даты "В наличии" или "Доступно для распределения ".|[Расчет сроков планирования заказов](sales-how-to-calculate-order-promising-dates.md)|
 |Регистрируйте ваши оценки для будущих продаж, указанные по товарам и по периодам, чтобы они функционировали в основном как входные данные для производственного планирования.|[Создание прогноза](production-how-to-create-a-forecast.md)|
 |Разрешение конфликта, когда две или более записей существуют для одного и того же клиента.|[Объединение повторяющихся записей](sales-how-merge-duplicate-records.md)|
+
+## <a name="see-related-training-at-microsoft-learnlearnpathssell-items-services-dynamics-365-business-central"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/sell-items-services-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 [Настройка продаж](sales-setup-sales.md)  

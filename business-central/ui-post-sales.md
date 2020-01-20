@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.reviewer: edupont
-ms.date: 10/01/2019
+ms.date: 01/13/2020
 ms.author: sgroespe
-ms.openlocfilehash: c389a93a71b251b5b0e11f4450251fdf68b64345
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 842aaeeb5665e8e02ef6873dd2210e03e415aade
+ms.sourcegitcommit: ead69ebe5b29927876a4fb23afb6c066f8854591
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2310784"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "2953975"
 ---
 # <a name="posting-sales"></a>Учет продаж
 В меню **Учет** в документе продажи можно выбирать следующие функции учета:
@@ -44,6 +44,8 @@ ms.locfileid: "2310784"
 Если учет завершен, учтенные строки продажи удаляются из заказа. При завершении учета появляется соответствующее сообщение. После этого появится возможность просмотра учтенных операций на различных страницах, содержащих учтенные операции, в том числе на страницах **Книга операций по клиентам**, **Операции ГК**, **Книга операций по товарам**, **Учтенные расх. накладные продажи** и **Учтенные счета продажи**.  
 
 Вы можете редактировать определенные поля в учтенных документах продажи, такие как **Номер отслеживания посылки** . Дополнительные сведения см. в разделе [Изменение учтенных документов](across-edit-posted-document.md).
+
+## <a name="see-related-training-at-microsoft-learnlearnmodulesship-invoice-items-dynamics-365-business-centralindex"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/ship-invoice-items-dynamics-365-business-central/index)
 
 ## <a name="see-also"></a>См. также
 [Продажи](sales-manage-sales.md)  

@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: Yodlee, feed, stream
 ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 0e6d9bb39e36ca127ab9d64eb045ab4c64b91d30
-ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
+ms.openlocfilehash: ae6b75ee39f2e06c55dc1f498c7a0be113c045d3
+ms.sourcegitcommit: 3d128a00358668b3fdd105ebf4604ca4e2b6743c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "2880740"
+ms.lasthandoff: 12/20/2019
+ms.locfileid: "2910692"
 ---
 # <a name="set-up-bank-accounts"></a>Настройка банковских счетов
 Банковские счета в [!INCLUDE[d365fin](includes/d365fin_md.md)] используются для того, чтобы отслеживать банковские транзакции. Счета могут быть деноминированы в локальной валюте (в рублях), либо в иностранной валюте. После настройки банковских счетов можно использовать функцию «Печать платежей».<br><br>  
@@ -30,7 +30,7 @@ ms.locfileid: "2880740"
 3. Заполните соответствующим образом поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 
 > [!NOTE]
-> Чтобы занести в поле **Сальдо** начальное сальдо, необходимо учесть в книге банковских счетов операцию на соответствующую сумму. Это можно сделать, выполнив выверку банковского счета. Дополнительные сведения см. в разделе [Выверка банковских счетов по-отдельности](bank-how-reconcile-bank-accounts-separately.md). Кроме того, можно реализовать начальное сальдо как часть общего создания данных в новых организациях с помощью мастера настройки **Миграция бизнес-данных**. Дополнительные сведения см. в разделе [Приступая к работе](product-get-started.md).
+> Чтобы занести в поле **Сальдо** начальное сальдо, необходимо учесть в книге банковских счетов операцию на соответствующую сумму. Это можно сделать, выполнив выверку банковского счета. Дополнительные сведения см. в разделе [Выверка банковских счетов](bank-how-reconcile-bank-accounts-separately.md). Кроме того, можно реализовать начальное сальдо как часть общего создания данных в новых организациях с помощью мастера настройки **Миграция бизнес-данных**. Дополнительные сведения см. в разделе [Приступая к работе](product-get-started.md).
 
 ## <a name="to-set-up-your-bank-account-for-import-or-export-of-bank-files"></a>Настройка банковского счета для импорта или экспорта банковских файлов
 Поля на экспресс-вкладке **Перемещение** на странице **Карточка банковского счета** связаны с импортом и экспортом банковских файлов и выписок. Для получения дополнительной информации см. разделы [Использование расширения AMC Banking 365 Fundamentals](ui-extensions-amc-banking.md) и [Настройка службы Envestnet Yodlee Bank Feeds](bank-how-setup-bank-statement-service.md).
@@ -53,5 +53,5 @@ ms.locfileid: "2880740"
 ## <a name="see-also"></a>См. также
 [Настройка банковских операций](bank-setup-banking.md)  
 [Настройка учетных групп](finance-posting-groups.md)  
-[Управление банковскими счетами](bank-manage-bank-accounts.md)  
+[Выверка банковских счетов](bank-manage-bank-accounts.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

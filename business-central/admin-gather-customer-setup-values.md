@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 8f333831c4e8aac1ba0eb4939131a9d80347441d
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 4fc9ffe9205e8f075f1b133686c2b869495bf42a
+ms.sourcegitcommit: 3d128a00358668b3fdd105ebf4604ca4e2b6743c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2304640"
+ms.lasthandoff: 12/20/2019
+ms.locfileid: "2910860"
 ---
 # <a name="gather-customer-setup-values"></a>Сбор значений настройки клиента
 Анкета конфигурации используется для упрощения снижения рабочей нагрузки благодаря оптимизации настройки новой организации. Можно сгенерировать анкету конфигурации в [!INCLUDE[d365fin](includes/d365fin_md.md)], а затем передать ее клиенту в файле Excel или XML.  
@@ -29,6 +29,11 @@ ms.locfileid: "2304640"
 
 ## <a name="to-create-a-configuration-questionnaire"></a>Создание анкеты конфигурации
 Можно использовать анкету для определения масштабов и потребностей конфигурации. Можно создать новую анкету или модифицировать существующую, добавив новые вопросы и области вопросов.  
+
+<!-- A configuration questionnaire has the following structure
+* The name of the questionnaire itself
+* Question Areas that group questions about a similar subject. For example, you might create a question area that focuses on entering company informtion. Typically, configuration questionnaires have many question groups
+* Questions that are closed ended, meaning that the customer must choose an answer, and can choose only one. -->
 
  Анкеты можно создать только для таблиц типа "Настройка". Например, можно использовать средства для предоставления информации следующим страницам:  
 
@@ -47,8 +52,31 @@ ms.locfileid: "2304640"
 > [!NOTE]  
 >  Для просмотра полного списка таблиц настройки выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка**, а затем выберите соответствующую ссылку. Для определения области миграции данных записей используйте функцию миграции. Дополнительные сведения см. в разделе [Миграция данных клиента](admin-migrate-customer-data.md).  
 
-1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Анкета конфигурации**, затем выберите связанную ссылку.  
-2. Выберите действие **Создать**. Откроется страница **Анкета конфигурации**.  
+1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Анкета конфигурации**, затем выберите соответствующую ссылку.  
+2. Выберите действие **Создать**.   
+3. На странице **Анкета конфигурации** в поле **Код** введите... 
+<!--4. In the **Name** field, enter...
+5. Choose the **Question Areas** action. .
+6. On the **Config. Question Areas** page, in the **Code** field, enter...
+  
+    > [!Note]  
+    > The code is alphanumeric, and must start with a letter of the alphabet.
+7. In the Table ID field, choose the table to which to apply the answer to the question. Your selection will determine the fields that are available for the questions, and thereby the answer selections.
+  
+    > [!Tip]
+    > The list of table objects is long. If you know the name of the table, use **Search** in the upper left to find it in the list.
+8. In the **Description** field, enter text that indicates the subject of the question group.
+9. In the **No.** field, enter a number to define where the question appears in the sequence of questions.
+10. In the **Field ID** field, choose the field the the customer's answer will be applied to. You can choose from the fields on the table you chose in the **Table ID** field.
+  
+    When you choose a field, [!INCLUDE[d365fin](includes/d365fin_md.md)] provides a suggestion in the **Question** field. You can edit the question if needed.
+11. To add more questions to the questionnaire, repeat steps seven through 10.
+
+> [!Tip]
+> If at some point you change a question, or add a new one, choose the **Update Questions** action to update the list.
+
+-->
+
 3. Выберите действие **Области вопросов**. Откроется страница **Области вопросов**.  
 4. Выберите действие **Создать**. Откроется страница **Область вопросов конфиг.**.  
 5. В поле **Код таблицы** выберите код таблицы, для которой необходимо собрать информацию. Поле **Имя таблицы** заполняется автоматически.  
@@ -70,7 +98,7 @@ ms.locfileid: "2304640"
 >  Также можно создать собственную анкету конфигурации.  
 
 1. Откройте организацию, для которой необходимо заполнить антенну.
-2. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Анкета конфигурации**, а затем выберите соответствующую ссылку.  
+2. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Анкета конфигурации**, затем выберите соответствующую ссылку.  
 3. Выберите анкету для организации, затем выберите действие **Экспорт в Excel**, при желании выберите действие **Экспорт в XML**.
 4. Попросите клиента заполнить анкету конфигурации путем ввода ответов в книгу Excel. Существуют журналы для каждой области вопросов, которые были созданы для анкеты.   
 5. Сохраните книгу Excel как *XML-данные*. Выберите действие **Импорт из XML** и выберите файл XML с ответами клиента.
@@ -103,7 +131,7 @@ ms.locfileid: "2304640"
 ## <a name="to-apply-answers-from-the-configuration-questionnaire"></a>Применение ответов из анкеты конфигурации
 После импорта и проверки информации из анкеты конфигурации можно переместить или применить данные настройки к соответствующим таблицам в базе данных [!INCLUDE[d365fin](includes/d365fin_md.md)].  
 
-1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Анкета конфигурации**, а затем выберите соответствующую ссылку. Откроется страница **Анкета конфигурации**.  
+1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Анкета конфигурации**, затем выберите соответствующую ссылку. Откроется страница **Анкета конфигурации**.  
 2. Выберите анкету конфигурации из списка, затем выберите действие **Изменить список**.  
 3. Применить ответы можно одним из двух способов.  
 
@@ -111,7 +139,7 @@ ms.locfileid: "2304640"
 - Чтобы применить ответы только к определенной области **Область вопросов**, выберите действие **Области вопросов**, выберите **Область вопросов** в списке, а затем выберите действие **Применить ответы**.  
 
 ### <a name="to-verify-that-answers-have-been-applied-successfully"></a>Проверка успешного применения ответов  
-1. Проверьте страницы настройки для различных функциональных зон [!INCLUDE[d365fin](includes/d365fin_md.md)]. Чтобы найти эту страницу, выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите название страницы настройки, а затем выберите соответствующую ссылку.  
+1. Проверьте страницы настройки для различных функциональных зон [!INCLUDE[d365fin](includes/d365fin_md.md)]. Чтобы найти страницу, выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите название страницы настройки, а затем выберите соответствующую ссылку.  
 2. Удостоверьтесь, что поля заполнены правильными данными из разных вопросов анкеты конфигурации.  
 
 Теперь вы настроили параметры с использованием бизнес-данных и правил клиента.

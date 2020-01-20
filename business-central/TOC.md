@@ -5,6 +5,15 @@
 ## [Минимальные требования](product-requirements.md)
 ## [Вопросы и ответы](across-faq.md)
 ## [Ресурсы для справки и поддержки](product-help-and-support.md)
+## [Подготовьтесь к ведению бизнеса](ui-get-ready-business.md)
+## [Обзор бизнес-функций](across-business-functionality.md)
+## [Доступ к интеллектуальному облаку с Business Central](about-intelligent-cloud.md)
+## [Посетите нашу библиотеку видео](across-videos.md)
+## Пробные версии и подписки
+### [Обзор](across-preview.md)
+### [Устранение неполадок при самостоятельной регистрации](ui-troubleshoot-self-signup.md)
+### [Продление пробной версии](admin-extend-trial.md)
+### [Отмена подписки или удаление Business Central](admin-cancel.md)
 ## Найти обучение
 ### [Каталог учебных материалов](readiness/readiness-learning-catalog.md)
 ### [Каталог обучения лиц, принимающих деловые решения](readiness/readiness-learning-bus-decision-makers.md)
@@ -13,14 +22,6 @@
 ### [Каталог обучения функционального консультанта](readiness/readiness-learning-functional-consultants.md)
 ### [Каталог предпродажного обучения](readiness/readiness-learning-presales.md)
 ### [Каталог обучения продажам](readiness/readiness-learning-sales.md)
-
-## [Подготовьтесь к ведению бизнеса](ui-get-ready-business.md)
-## [Обзор бизнес-функций](across-business-functionality.md)
-## [Пробные версии и подписки](across-preview.md)
-### [Устранение неполадок при самостоятельной регистрации](ui-troubleshoot-self-signup.md)
-### [Отмена подписки или удаление Business Central](admin-cancel.md)
-## [Доступ к интеллектуальному облаку с Business Central](about-intelligent-cloud.md)
-## [Посетите нашу библиотеку видео](across-videos.md)
 ## Реселлеры и партнеры
 ### [Станьте торговым посредником](product-sell.md)
 ### [Расширение Business Central](about-develop-extensions.md)
@@ -314,7 +315,7 @@
 #### [Сбор платежей с прямым дебетом SEPA](finance-collect-payments-with-sepa-direct-debit.md)
 #### [Обновление валютных курсов](finance-how-update-currencies.md)
 #### [Сопоставление полей при импорте файлов SEPA CAMT](across-field-mapping-when-importing-sepa-camt-files.md)
-#### [Сопоставление полей при экспорте файлов платежей с помощью службы конвертации банковских данных](across-field-mapping-when-exporting-payment-files-using-bank-data-conversion-service.md)
+#### [Сопоставление полей для расширения AMC Banking 365 Fundamentals](across-field-mapping-when-exporting-payment-files-using-bank-data-conversion-service.md)
 
 # Администрация
 ## [Обзор](admin-setup-and-administration.md)
@@ -369,7 +370,7 @@
 ### [Настройка учетных записей пользователей для интеграции с Dynamics 365 Sales](admin-setting-up-integration-with-dynamics-sales.md)
 ### [Настройка подключения к Dynamics 365 Sales](admin-how-to-set-up-a-dynamics-crm-connection.md)
 ### [Синхронизация Business Central и Dynamics 365 Sales](admin-synchronizing-business-central-and-sales.md)
-### [Изменение сопоставлений таблицы для синхронизации](admin-how-to-modify-table-mappings-for-synchronization.md)
+### [Сопоставление таблиц и полей для синхронизации](admin-how-to-modify-table-mappings-for-synchronization.md)
 ### [Ручная синхронизация сопоставлений таблиц](admin-manual-synchronization-of-table-mappings.md)
 ### [Синхронизация по расписанию](admin-scheduled-synchronization-using-the-synchronization-job-queue-entries.md)
 ### [Устранение ошибок синхронизации](admin-troubleshoot-sales-synchronization.md)
@@ -384,6 +385,7 @@
 #### [Проверка или применение платежей вручную после автоматического применения](receivables-how-review-apply-payments-auto-application.md)
 #### [Выверка платежей, которые не могут быть применены автоматически](receivables-how-reconcile-payments-cannot-apply-auto.md)
 #### [Сопоставление текста на типовых платежах со счетами для автоматической выверки](receivables-how-map-text-recurring-payments-accounts-auto-reconcilliation.md)
+#### [Настройка правил для автоматического применения платежей](receivables-how-set-up-payment-application-rules.md)
 ### [Выверка платежей клиентов из списка неоплаченных документов продажи](receivables-how-reconcile-customer-payments-list-unpaid-sales-documents.md)
 ### [Сверка платежей клиентов с журналом кассовых поступлений или из книги операций по клиентам](receivables-how-apply-sales-transactions-manually.md)
 ### [Сбор непогашенных остатков задолженности](receivables-collect-outstanding-balances.md)
@@ -415,7 +417,7 @@
 ### [Выверка платежей поставщикам с журналом платежей или из книги операций по поставщикам](payables-how-apply-purchase-transactions-manually.md)
 ### [Сбор непогашенных остатков задолженности](receivables-collect-outstanding-balances.md)
 ### [Сбор платежей с прямым дебетом SEPA](finance-collect-payments-with-sepa-direct-debit.md)
-### [Блокировка клиентов](receivables-how-block-customers.md)
+### [Блокировка поставщиков](payables-how-block-vendors.md)
 ### [Использование товарных издержек для учета дополнительных торговых расходов](payables-how-assign-item-charges.md)
 ### [Работа с отклонениями в оплате и отклонениями скидки по оплате](finance-payment-tolerance-and-payment-discount-tolerance.md)
 ### [Расширение прогноза просрочки платежа](ui-extensions-late-payment-prediction.md)
@@ -426,11 +428,10 @@
 ### [Создание счетов на предоплату](finance-how-to-create-prepayment-invoices.md)
 ### [Корректировка предоплат](finance-how-to-correct-prepayments.md)
 
-## Управление банковскими счетами
+## Выверка банковских счетов
 ### [Обзор](bank-manage-bank-accounts.md)
+### [Выверка банковских счетов](bank-how-reconcile-bank-accounts-separately.md)
 ### [Автоматическое применение платежей и выверка банковских счетов](receivables-apply-payments-auto-reconcile-bank-accounts.md)
-### [Выверка банковских счетов по отдельности](bank-how-reconcile-bank-accounts-separately.md)  
-### [Перевод банковских средств](bank-how-transfer-bank-funds.md)
 
 ## Управление межфирменными транзакциями
 ### [Обзор](intercompany-manage.md)
@@ -499,6 +500,7 @@
 ## [Анализ движения денежных средств в организации](finance-analyze-cash-flow.md)
 ## [Пошаговое руководство. Создание прогнозов движения денежных средств с использованием финансовых отчетов](walkthrough-making-cash-flow-forecasts-by-using-account-schedules.md)
 ## [Анализ финансовых выписок в Excel](finance-analyze-excel.md)
+## [Перевод банковских средств](bank-how-transfer-bank-funds.md)
 ## [Работа бухгалтера в Business Central](finance-accounting.md)
 
 # Бизнес-аналитика
@@ -924,10 +926,29 @@
 
 ## Чешская Республика
 ### [Обзор](LocalFunctionality/Czech/czech-local-functionality.md)
+### Основные финансы  
+#### [Финансы](LocalFunctionality/Czech/finance.md)
+#### [Операции при закрытии года](LocalFunctionality/Czech/year-close-operations.md)
+#### [Применение операций главной книги](LocalFunctionality/Czech/general-ledger-entries-application.md)
+#### [Обновление валютных курсов](LocalFunctionality/Czech/exchange-rate-update.md)
 ### НДС
+#### [Финансы - НДС](LocalFunctionality/Czech/finance-vat.md)
 #### [Отчет контроля НДС](LocalFunctionality/Czech/vat-control-report.md)
+### Основные средства
+#### [Основные Средства](LocalFunctionality/Czech/fixed-assets.md)
 ### Банковские операции и платежи
+#### [Функция банка](LocalFunctionality/Czech/bank-feature.md)
+#### [Управление кассой](LocalFunctionality/Czech/cash-desk-management.md)
 #### [Регистрация продаж (EET)](LocalFunctionality/Czech/eet.md)
+#### [Авансовые платежи](LocalFunctionality/Czech/advances.md)
+### Расчеты с клиентами и поставщиками
+#### [Расчеты с клиентами и поставщиками](LocalFunctionality/Czech/receivables-payables.md)
+#### [Интрастат](LocalFunctionality/Czech/intrastat.md)
+### Запасы
+#### [Запасы](LocalFunctionality/Czech/inventory.md)
+### Общие
+#### [Расширенный контроль пользователей](LocalFunctionality/Czech/general.md)
+#### [Рекомендации](LocalFunctionality/Czech/best-practices.md)
 
 ## Дания
 ### [Обзор](LocalFunctionality/Denmark/denmark-local-functionality.md)
@@ -1092,6 +1113,7 @@
 ## Мексика
 ### [Обзор](LocalFunctionality/Mexico/mexico-local-functionality.md)
 ### Налог
+#### [Настройка и генерация отчетов DIOT](LocalFunctionality/Mexico/ui-extensions-setup-and-generate-diot-report-mx.md)
 #### [Налог с продаж для Мексики](LocalFunctionality/Mexico/mexico-sales-tax.md)  
 #### [Настройка налога на использование и налога на покупки](LocalFunctionality/Mexico/how-to-set-up-use-tax-and-purchase-tax.md)  
 #### [Настройка нереализованного налога с продажи и скидок по оплате за продажи](LocalFunctionality/Mexico/how-to-set-up-unrealized-sales-tax-and-sales-payment-discounts.md)
@@ -1423,7 +1445,6 @@
 #### [Расширение "Почтовые индексы Великобритании GetAddress.io"](LocalFunctionality/UnitedKingdom/ui-extensions-getaddressio.md)
 #### [Настройка расширения "Почтовые индексы Великобритании GetAddress.io"](LocalFunctionality/UnitedKingdom/uk-setup-postal-code-service.md)
 #### [Ввод номеров внешних документов](LocalFunctionality/UnitedKingdom/how-to-enter-external-document-numbers.md)
-#### [Печать подробных отчетов о прямых продажах и покупках](LocalFunctionality/UnitedKingdom/how-to-print-direct-sales-and-purchase-details-reports.md)
 
 ## Соединенные Штаты
 ### [Обзор](LocalFunctionality/UnitedStates/united-states-local-functionality.md)

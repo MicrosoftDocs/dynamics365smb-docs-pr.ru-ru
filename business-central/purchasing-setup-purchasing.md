@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: procurement, supply, vendor order
-ms.date: 10/01/2019
+ms.date: 01/13/2020
 ms.author: sgroespe
-ms.openlocfilehash: 66cdbd317d448d42ce46bf6a1d05c78432ffaeee
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 6ceaf6828ac5067a0a34c4120627e0352dc90d2d
+ms.sourcegitcommit: ead69ebe5b29927876a4fb23afb6c066f8854591
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2316672"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "2954007"
 ---
 # <a name="setting-up-purchasing"></a>Настройка покупки
 Прежде чем приступать к управлению процессами закупки, необходимо настроить правила и значения, которые определяют политики закупок в организации.
@@ -34,6 +34,8 @@ ms.locfileid: "2316672"
 | Введите различные скидки и специальные цена, которые предлагает поставщик в зависимости от товара, количества или даты |[Регистрация соглашений о цене покупки, скидках и платежах](purchasing-how-record-purchase-price-discount-payment-agreements.md) |
 | Назначение приоритетов поставщикам |[Назначение приоритетов поставщикам](purchasing-how-prioritize-vendors.md) |
 | Настройка менеджеров по закупкам |[Настройка менеджеров по закупкам](purchasing-how-setup-purchasers.md) |
+
+## <a name="see-related-training-at-microsoft-learnlearnmodulestrade-get-started-dynamics-365-business-central"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/trade-get-started-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 [Покупки](purchasing-manage-purchasing.md)  

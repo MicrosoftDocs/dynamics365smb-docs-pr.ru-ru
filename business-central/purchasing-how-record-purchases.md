@@ -9,14 +9,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: procurement
-ms.date: 10/01/2019
+ms.date: 01/13/2020
 ms.author: sgroespe
-ms.openlocfilehash: 078313bb3f437734b6e52f51b6d6512ebf09f1df
-ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
+ms.openlocfilehash: 0e91b685f6a8926322ab338b3c060fdac1ff8982
+ms.sourcegitcommit: ead69ebe5b29927876a4fb23afb6c066f8854591
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "2881430"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "2954144"
 ---
 # <a name="record-purchases"></a>Регистрация покупок
 Счет покупки или заказ на покупку создается для записи стоимости покупок и отслеживания кредиторской задолженности. Если требуется управлять запасами, счета покупки и заказы на покупку также используются для динамического обновления уровней запасов, чтобы уменьшить себестоимости запасов и обеспечить лучшее обслуживание клиентов. Расходы на покупку, включая затраты на обслуживание, и стоимость запасов, полученная из учета счетов покупки или заказов, составляют показатели прибыли и другие ключевые показатели эффективности финансовой деятельности в ролевом центре.
@@ -35,7 +35,7 @@ ms.locfileid: "2881430"
 
 Можно заполнить поля поставщика в счете покупки двумя способами в зависимости от того, зарегистрирован ли уже поставщик.
 <br><br>  
-  
+
 > [!Video https://www.microsoft.com/videoplayer/embed/RE4b3tt]
 
 ## <a name="to-create-a-purchase-invoice"></a>Создание счета покупки
@@ -79,6 +79,8 @@ ms.locfileid: "2881430"
 13. При получении приобретенных товаров или услуг выберите **Учесть**.
 
 Покупка теперь отражается в запасах и финансовых записях, а платеж поставщику активирован. Счет покупки удаляется из списка счетов покупки и заменяется новым документом в списке учтенных счетов покупки.
+
+## <a name="see-related-training-at-microsoft-learnlearnmodulesprocessing-invoices-dynamics-365-business-centralindex"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/processing-invoices-dynamics-365-business-central/index)
 
 ## <a name="see-also"></a>См. также
 [Покупки](purchasing-manage-purchasing.md)  

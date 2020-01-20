@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.author: bholtorf
-ms.openlocfilehash: 39fc89ee98ecd76bf292074466b1b70989a2f2e2
-ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
+ms.openlocfilehash: 64dd9d1e4645b845c02872a8bc09f0925f4fa33c
+ms.sourcegitcommit: 3d128a00358668b3fdd105ebf4604ca4e2b6743c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "2879026"
+ms.lasthandoff: 12/20/2019
+ms.locfileid: "2910566"
 ---
 # <a name="setting-up-user-accounts-for-integrating-with-dynamics-365-sales"></a>Настройка учетных записей пользователей для интеграции с Dynamics 365 Sales
 Эта статья содержит обзор порядка настройки учетных записей пользователей, которые требуются для интеграции [!INCLUDE[crm_md](includes/crm_md.md)] с [!INCLUDE[d365fin](includes/d365fin_md.md)].  
@@ -34,7 +34,7 @@ ms.locfileid: "2879026"
 > Не используйте учетную запись администратора для [!INCLUDE[crm_md](includes/crm_md.md)] для синхронизации. Если это сделать, синхронизация будет нарушена.
 > Кроме того, чтобы избежать постоянной синхронизации, изменения данных, которые вносятся учетной записью пользователя интеграции не синхронизируются. <!--What changes would this account make?--> После установления подключения рекомендуется настроить режим доступа для учетной записи пользователя для интеграции на неинтерактивный режим в [!INCLUDE[crm_md](includes/crm_md.md)]. Дополнительные сведения см. в разделе [Создание неинтерактивной учетной записи пользователя](/dynamics365/customer-engagement/admin/create-users-assign-online-security-roles#create-a-non-interactive-user-account).
 
-## <a name="setting-up-accounts-sales-people"></a>Настройка учетных записей менеджеров по продажам
+## <a name="setting-up-accounts-for-salespeople"></a>Настройка учетных записей для менеджеров по продаже
 Следует создать учетные записи пользователей в [!INCLUDE[d365fin](includes/d365fin_md.md)] для менеджеров по продажам из [!INCLUDE[crm_md](includes/crm_md.md)]. Чтобы упростить эту операцию, центр администрирования Microsoft 365 предлагает шаблон Excel, который можно использовать. На странице **Активные пользователи** выберите **Дополнительно**, затем — **Импорт нескольких пользователей**. Выберите **Загрузить только CSV-файл с заголовками**, затем введите информацию для менеджеров по продажам. Чтобы посмотреть пример, выберите **Загрузить CSV-файл с заголовками и примерами сведений о пользователях**. После ввода информации о пользователях, следующим шагом процесса импорта будет назначить пользователям лицензии план Dynamics 365 Customer Engagement.  
 
 После импорта пользователей и назначения им лицензий для Dynamics 365 Customer Engagement необходимо назначить пользователей роли **Менеджер по продажам** в [!INCLUDE[crm_md](includes/crm_md.md)].

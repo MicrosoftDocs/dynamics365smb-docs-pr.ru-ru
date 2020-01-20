@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: customized report, document layout, logo, personalize
-ms.date: 11/15/2019
+ms.date: 01/13/2020
 ms.author: sgroespe
-ms.openlocfilehash: d83f243ee9b04c44886610d39c71ad6a4dae434a
-ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
+ms.openlocfilehash: 0b469458490d08475d81f767a88a99c84a4daad6
+ms.sourcegitcommit: ead69ebe5b29927876a4fb23afb6c066f8854591
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "2882042"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "2953231"
 ---
 # <a name="create-and-modify-custom-report-layouts"></a>Создание и изменение пользовательских макетов отчетов
 По умолчанию отчет будет иметь встроенный макет отчета RDLC или Word либо оба типа. Невозможно изменить встроенные макеты. Однако можно создать собственные пользовательские макеты, с помощью которых можно изменить внешний вид отчета при его просмотре, печати или сохранении. Можно создать несколько пользовательских макетов ответов для одного отчета, а затем при необходимости переключаться между макетами, которые используются в отчете.
@@ -100,8 +100,7 @@ ms.locfileid: "2882042"
 ### <a name="adding-data-fields"></a>Добавление полей данных
 Добавление полей данных из набора данных отчета является более усовершенствованным и требует определенных знаний набора данных отчета. Сведения о добавлении полей для данных, меток, данных и изображений см. в разделе [Добавление полей в макет отчета Word](ui-how-add-fields-word-report-layout.md).  
 
-###
-
+## <a name="see-related-training-at-microsoft-learnlearnmoduleschange-documents-dynamics-365-business-centralindex"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/change-documents-dynamics-365-business-central/index)
 
 ## <a name="see-also"></a>См. также
 [Управление макетами отчетов](ui-manage-report-layouts.md)  

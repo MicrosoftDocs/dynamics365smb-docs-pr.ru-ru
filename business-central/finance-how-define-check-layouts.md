@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: print check, customize
 ms.date: 10/01/2019
 ms.author: edupont
-ms.openlocfilehash: d4818c9dfe96f7e890d84a16c717d4451f56497a
-ms.sourcegitcommit: 893e13fa75b2d04dedd4a29abda216e3e54b24ae
+ms.openlocfilehash: 137d44db160d0f1e832cc344a779e6bf01a64bbd
+ms.sourcegitcommit: 3d128a00358668b3fdd105ebf4604ca4e2b6743c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "2808581"
+ms.lasthandoff: 12/20/2019
+ms.locfileid: "2911140"
 ---
 # <a name="select-a-check-layout"></a>Выбор макета платежного документа
 Вы можете разработать платежные документы в соответствии со стандартами, установленными местными органами власти. Изображения платежных документов можно печатать на английском, французском или испанском языке.
@@ -41,7 +41,7 @@ ms.locfileid: "2808581"
 ## <a name="see-also"></a>См. также
 [Создание и изменение пользовательских макетов отчетов](ui-how-create-custom-report-layout.md)  
 [Управление кредиторской задолженностью](payables-manage-payables.md)  
-[Управление банковскими счетами](bank-manage-bank-accounts.md)   
+[Выверка банковских счетов](bank-manage-bank-accounts.md)   
 [Выполнение процессов завершения периода](year-how-complete-period-end-processes.md)  
 [Работа с [!INCLUDE[prodshort](includes/prodshort.md)]](ui-work-product.md)  
 [Общие бизнес-функции](ui-across-business-areas.md)

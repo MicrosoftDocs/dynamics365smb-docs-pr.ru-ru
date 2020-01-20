@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2019
+ms.date: 01/13/2020
 ms.author: sgroespe
-ms.openlocfilehash: 9700b3453e43b1f692d1e98c2feab225b57e7c01
-ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
+ms.openlocfilehash: 0b93073c8d8c6ad639d27644719c4c5b40cda6fe
+ms.sourcegitcommit: ead69ebe5b29927876a4fb23afb6c066f8854591
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "2882594"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "2952654"
 ---
 # <a name="accounting-for-costs"></a>Учет по затратам
 Учета затрат помогает оценить затраты на ведение бизнеса. Чтобы начать учет затрат, см. следующие разделы.  
@@ -28,8 +28,9 @@ ms.locfileid: "2882594"
 |Перенос операций ГК в операции затрат.|[Перемещение и операции учета затрат](finance-transfer-and-post-cost-entries.md)|  
 |Распределить затраты.|[Определение и распределение затрат](finance-define-and-allocate-costs.md)|  
 |Узнайте о процессах создания бюджетов себестоимости.|[Создание бюджетов расходов](finance-create-cost-budgets.md)|
-|Отмена операций бюджета затрат из регистра бюджета затрат.|[Удаление операций бюджета затрат](finance-how-to-delete-cost-budget-entries.md)| 
+|Отмена операций бюджета затрат из регистра бюджета затрат.|[Удаление операций бюджета затрат](finance-how-to-delete-cost-budget-entries.md)|
 
+## <a name="see-related-training-at-microsoft-learnlearnpathsuse-cost-accounting-dynamics-365-business-central"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/use-cost-accounting-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также  
 [Финансы](finance.md)  

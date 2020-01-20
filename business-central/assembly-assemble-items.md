@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: kit, kitting
-ms.date: 10/01/2019
+ms.date: 01/13/2020
 ms.author: sgroespe
-ms.openlocfilehash: 636b8a23d3952536a8cd8de92d44402baf4a56e5
-ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
+ms.openlocfilehash: 1b7936a73274545dc0e8a9fcddec2fe68fdb62c9
+ms.sourcegitcommit: ead69ebe5b29927876a4fb23afb6c066f8854591
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "2878941"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "2953879"
 ---
 # <a name="assembly-management"></a>Управление сборкой
 Для обеспечения поддержки компаний, которые поставляют продукты своим клиентам, объединяя компоненты в простые процессы без потребности в функциях производства, [!INCLUDE[d365fin](includes/d365fin_md.md)] содержит функции сборки товаров, интегрирующиеся с существующими функциями, например для организации продаж, планирования, резервирования и складской деятельности.  
@@ -46,9 +46,11 @@ ms.locfileid: "2878941"
 |Узнайте о разнице между сборочными спецификациями и производственными спецификациями и отличиях в их обработке.|[Работа со спецификациями](inventory-how-work-BOMs.md)|
 |Узнайте о том, как потребление при сборке и выход обрабатываются при учете сборочных заказов и как производный товар и себестоимость ресурсов обрабатываются и распределяются в Главной книге.|[Сведения о проектировании: учет заказа на сборку](design-details-assembly-order-posting.md)|  
 
+## <a name="see-related-training-at-microsoft-learnlearnpathsassemble-items-dynamics-365-business-central"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/assemble-items-dynamics-365-business-central/)
+
 ## <a name="see-also"></a>См. также  
 [Работа со спецификациями](inventory-how-work-BOMs.md)  
-[Наличие](inventory-manage-inventory.md)  
+[Запасы](inventory-manage-inventory.md)  
 [Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 11/15/2019
+ms.date: 01/13/2020
 ms.author: sgroespe
-ms.openlocfilehash: 97f66d28576586c4e09c0bc700785eac969d316a
-ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
+ms.openlocfilehash: 8ec498030368aa2e6378068c88910b787c3632f8
+ms.sourcegitcommit: ead69ebe5b29927876a4fb23afb6c066f8854591
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "2881970"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "2954053"
 ---
 # <a name="import-and-export-custom-report-layouts"></a>Импорт и экспорт пользовательских макетов отчетов
 Можно импортировать и экспортировать существующий пользовательский макет отчета в виде файла в расположении на компьютере или в сети. Например, можно экспортировать макет отчета, а затем отправить файл другому лицу для изменения. Это лицо может затем внести изменения в макет и вернуть файл, чтобы вы могли импортировать его обратно.  
@@ -48,6 +48,8 @@ ms.locfileid: "2881970"
 5.  В диалоговом окне **Импорт** выберите документ, определяющий макет отчета, и выберите кнопку **Открыть**.  
 
  Исходный пользовательский макет отчета заменяется на импортированный макет отчета.  
+
+## <a name="see-related-training-at-microsoft-learnlearnmoduleschange-documents-dynamics-365-business-centralindex"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/change-documents-dynamics-365-business-central/index)
 
 ## <a name="see-also"></a>См. также  
  [Создание и изменение пользовательского макета отчета](ui-how-create-custom-report-layout.md)   

@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: bill, sale, invoice, order
-ms.date: 10/01/2019
+ms.date: 01/13/2020
 ms.author: sgroespe
-ms.openlocfilehash: ccc909b56e3d1d1d48915470b819be2c91c92b9b
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 4bc122f2d1dc34f4c36fb74d0d6875f3d82c991a
+ms.sourcegitcommit: ead69ebe5b29927876a4fb23afb6c066f8854591
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2312200"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "2953423"
 ---
 # <a name="invoice-sales"></a>Выставление счетов продажи
 Счет продажи или заказы на продажу создаются для записи соглашения с клиентом о продаже определенных товаров на определенных условиях доставки и оплаты.  
@@ -39,7 +39,7 @@ ms.locfileid: "2312200"
 Можно заполнить поля клиента в счете продажи двумя способами в зависимости от того, зарегистрирован ли уже клиент. См. шаги 2 и 3 в следующей процедуре.
 
 ## <a name="to-create-a-sales-invoice"></a>Создание счета продажи
-1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Счета продажи**, а затем выберите соответствующую ссылку.  
+1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Счета продажи**, затем выберите соответствующую ссылку.  
 2. В поле **Клиент** введите название существующего клиента.
 
    Остальные поля на странице **Счет продажи** содержат стандартные сведения о выбранном клиенте. Если клиент не зарегистрирован, выполните следующие действия:
@@ -104,10 +104,12 @@ ms.locfileid: "2312200"
 
 Можно даже создавать счета с прямой оплатой для незарегистрированных клиентов, сначала настроив карточку клиента, оплачивающего наличными, которая указывается в счете продажи. Дополнительные сведения см. в разделе [Настройка клиентов, оплачивающих наличными](finance-how-to-set-up-cash-customers.md).  
 
+## <a name="see-related-training-at-microsoft-learnlearnmodulesinvoicing-customers-dynamics-365-business-centralindex"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/invoicing-customers-dynamics-365-business-central/index)
+
 ## <a name="see-also"></a>См. также
 [Продажи](sales-manage-sales.md)  
 [Настройка продаж](sales-setup-sales.md)  
-[Наличие](inventory-manage-inventory.md)  
+[Запасы](inventory-manage-inventory.md)  
 [Отправка документов по электронной почте](ui-how-send-documents-email.md)  
 [Массовое выставление счетов из Microsoft Bookings в Business Central](finance-bookings.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

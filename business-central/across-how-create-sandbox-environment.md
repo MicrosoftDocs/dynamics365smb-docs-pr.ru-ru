@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: sandbox, demo, develop
-ms.date: 12/06/2019
+ms.date: 12/10/2019
 ms.author: solsen
-ms.openlocfilehash: 0f8f0f85df89c1d71fc3e114ebd902f2aa85f802
-ms.sourcegitcommit: b6e506a45a1cd632294bafa1c959746cc3a144f6
+ms.openlocfilehash: 7d189ab6fa5aff518b643c797b7600570fcad43e
+ms.sourcegitcommit: 3d128a00358668b3fdd105ebf4604ca4e2b6743c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/06/2019
-ms.locfileid: "2896113"
+ms.lasthandoff: 12/20/2019
+ms.locfileid: "2910640"
 ---
 # <a name="creating-a-sandbox-environment-in-include-prodshortincludesprodshortmd"></a>Создание среды "песочницы" в [!INCLUDE [prodshort](includes/prodshort.md)]
 
@@ -74,13 +74,13 @@ ms.locfileid: "2896113"
 <!-- ![In-client Designer](./media/across-sandbox/sandbox-inclient-designer.png) -->
 
 ### <a name="to-enable-the-advanced-user-experience"></a>Включение расширенных возможностей пользователя
-Можно включить и попробовать расширенные (полные) функциональные возможности [!INCLUDE[d365fin](includes/d365fin_md.md)] в среде арендатора песочницы, задав поле **Опыт** на странице **Информация о компании**.
+Можно включить и попробовать полные функциональные возможности стандартной версии [!INCLUDE[d365fin](includes/d365fin_md.md)] в среде арендатора песочницы, задав поле **Опыт** на странице **Информация о компании**.
 
 <!-- ![Sandbox Environment Advanced](./media/across-sandbox/sandbox-advanced.png) -->
 
 <!-- ![Sandbox Production](./media/across-sandbox/sandbox-production.png) -->
 
-После включения расширенных функциональных возможностей в арендаторе песочницы вы получаете доступ ко всем стандартным профилям (ролям) и ролевым центрам. Можно также создать полностью настроенную пробную организацию, включая демонстрационные данные и доступ к расширенным возможностям продукта.
+После того как вы включили вариант настройки *Premium*, вы получаете доступ ко всем стандартным профилям (ролям) и ролевым центрам стандартной версии. Можно также создать полностью настроенную пробную организацию, включая демонстрационные данные и доступ к расширенным возможностям продукта. Кроме того, вы можете связаться с партнером по перепродаже для демонстрации возможностей. Для получения дополнительной информации см. раздел [Как найти партнера по перепродаже?](across-faq.md#findpartner),  
 
 <!-- ![Sandbox New Company](./media/across-sandbox/sandbox-newcompany.png) -->
 

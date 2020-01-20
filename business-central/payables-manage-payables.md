@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: vendor payment, creditor, debt, balance due, AP
-ms.date: 10/01/2019
+ms.date: 01/13/2020
 ms.author: edupont
-ms.openlocfilehash: 8e2ea625682444e2de50e96d03f4dc28e1d30852
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: ea3091ecb79a345bf4bed9572e98de057cde38db
+ms.sourcegitcommit: ead69ebe5b29927876a4fb23afb6c066f8854591
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2313568"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "2954239"
 ---
 # <a name="managing-payables"></a>Управление кредиторской задолженностью
 
@@ -34,6 +34,8 @@ ms.locfileid: "2313568"
 | Применение платежей поставщикам к неоплаченным счетам покупки вручную. |[Выверка платежей поставщикам с журналом платежей или из книги операций по поставщикам](payables-how-apply-purchase-transactions-manually.md) |
 |Проверьте правильность переоценки запасов, назначив дополнительную себестоимость товаров, например за транспортировку, физическое обращение, страхование и другие расходы, которые вы несли при покупке.|[Использование товарных издержек для учета дополнительных торговых расходов](payables-how-assign-item-charges.md)|
 |Возмещайте личные средства, затраченные сотрудниками на служебные цели, путем платежей на их банковские счета.|[Регистрация и возмещение расходов сотрудников](finance-how-record-reimburse-employee-expenses.md)|
+
+## <a name="see-related-training-at-microsoft-learnlearnpathsprocess-customer-vendor-payments-dynamics-365-business-central"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/process-customer-vendor-payments-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 [Покупки](purchasing-manage-purchasing.md)  
