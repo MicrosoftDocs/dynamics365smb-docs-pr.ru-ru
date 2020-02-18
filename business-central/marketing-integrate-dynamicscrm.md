@@ -11,12 +11,12 @@ ms.workload: na
 ms.search.keywords: integration, synchronize, map, Sales
 ms.date: 10/01/2019
 ms.author: bholtorf
-ms.openlocfilehash: 33b2931e14cb7e41cc3e71c327d2237cd8308466
-ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
+ms.openlocfilehash: 1e45a480e8fdcc508de8ac82a6d2860147d76cec
+ms.sourcegitcommit: 877af26e3e4522ee234fbba606615e105ef3e90a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "2878201"
+ms.lasthandoff: 01/28/2020
+ms.locfileid: "2991788"
 ---
 # <a name="using-dynamics-365-sales-from-business-central"></a>Использование Dynamics 365 Sales из Business Central
 Если вы используете Dynamics 365 Sales для взаимодействия с клиентами, вы получаете в свое распоряжение бесшовную интеграцию процесса от интереса до получения денег, используя [!INCLUDE[d365fin](includes/d365fin_md.md)] для внутренних действий, таких как обработка заказов, управление запасами и работа с финансами.
@@ -76,7 +76,7 @@ ms.locfileid: "2878201"
 Обновления полей заголовка заказа на продажу, например "Дата последней расходной накладной" или "Требуемая дата доставки", которые сопоставляются в **Сопоставление таблиц интеграции** SALESORDER-ORDER, периодически синхронизируются в [!INCLUDE[crm_md](includes/crm_md.md)]. Процессы, такие как выпуск заказа на продажу и отгрузка или выставление счета по заказу на продажу, учитываются на временной шкале заказа на продажу в [!INCLUDE[crm_md](includes/crm_md.md)]. Дополнительные сведения см. в разделе [Введение в каналы действий](/dynamics365/customer-engagement/developer/introduction-activity-feeds).
 
 > [!NOTE]  
-> Периодическая синхронизация на основе **Сопоставления таблиц интеграции** SALESORDER-ORDER будет работать только при включенной интеграции заказов на продажу. Дополнительные сведения см. в разделе [Подключение к Dynamics 365 for Sales](admin-how-to-set-up-a-dynamics-crm-connection.md). Синхронизируются только заказы на продажу, созданные из отправленных заказов на продажу в [!INCLUDE[crm_md](includes/crm_md.md)]. Дополнительные сведения см. в разделе [Включение интеграции обработки заказов на продажу](/dynamics365/customer-engagement/sales-enterprise/developer/enable-sales-order-processing-integration).
+> Периодическая синхронизация на основе **Сопоставления таблиц интеграции** SALESORDER-ORDER будет работать только при включенной интеграции заказов на продажу. Дополнительные сведения см. в разделе [Подключение к Dynamics 365 Sales](admin-how-to-set-up-a-dynamics-crm-connection.md). Синхронизируются только заказы на продажу, созданные из отправленных заказов на продажу в [!INCLUDE[crm_md](includes/crm_md.md)]. Дополнительные сведения см. в разделе [Включение интеграции обработки заказов на продажу](/dynamics365/customer-engagement/sales-enterprise/developer/enable-sales-order-processing-integration).
 
 > [!VIDEO https://go.microsoft.com/fwlink/?linkid=2098170]
 

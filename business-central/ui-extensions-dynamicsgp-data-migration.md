@@ -9,17 +9,20 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms. search.keywords: app, add-in, manifest, customize, import, implement
-ms.date: 10/01/2019
+ms.date: 01/16/2020
 ms.author: edupont
-ms.openlocfilehash: c5798baec1130c3fc662a8751aee87bb8b438146
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: b05959eea09289db7878145347362786ab336de8
+ms.sourcegitcommit: 877af26e3e4522ee234fbba606615e105ef3e90a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2311288"
+ms.lasthandoff: 01/28/2020
+ms.locfileid: "2992149"
 ---
 # <a name="the-dynamics-gp-data-migration-extension"></a>Расширение для миграции данных Dynamics GP 
-Это расширение позволяет легко переносить клиентов, поставщиков, товары, счета ГК, открытые транзакции кредиторской или дебиторской задолженности из Dynamics GP в [!INCLUDE[prodshort](includes/prodshort.md)]. Если сейчас ваша компания использует Dynamics GP, вы можете экспортировать соответствующие записи, а затем открыть руководство по сопровождаемой настройке, чтобы добавить данные в [!INCLUDE[prodshort](includes/prodshort.md)]. Расширение миграции работает для всех поддерживаемых версий Microsoft Dyanmics GP. Дополнительные сведения см. в разделе [Импорт бизнес-данных из других финансовых систем](across-import-data-configuration-packages.md).
+Это расширение позволяет легко переносить клиентов, поставщиков, товары, счета ГК, открытые транзакции кредиторской или дебиторской задолженности из Dynamics GP в [!INCLUDE[prodshort](includes/prodshort.md)]. Если сейчас ваша компания использует Dynamics GP, вы можете экспортировать соответствующие записи, а затем открыть руководство по сопровождаемой настройке, чтобы добавить данные в [!INCLUDE[prodshort](includes/prodshort.md)]. Расширение миграции работает для всех поддерживаемых версий Microsoft Dynamics GP. Дополнительные сведения см. в разделе [Импорт бизнес-данных из других финансовых систем](across-import-data-configuration-packages.md).
+
+> [!NOTE]
+>  Это расширение будет считаться устаревшим после выхода обновления 15.3. Мы рекомендуем пользователям, которые хотят перейти с Dynamics GP, начать использовать мастер **Миграция в облако**. Расширение **Миграция в облако** обладает более надежной функциональностью и переносит больше данных в Business Central из Dynamics GP.
 
 ## <a name="exporting-data-from-dynamics-gp"></a>Экспорт данных из Dynamics GP
 Вы должны экспортировать некоторые или всех существующих клиентов, поставщиков, складские товары и счета ГК с помощью функции экспорта данных в Dynamics GP. При выборе данных для экспорта можно выбрать следующие типы:
