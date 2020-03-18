@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: payment journal, print check, vendor payment, customer refund, creditor, debt, balance due, AP
 ms.date: 10/01/2019
 ms.author: edupont
-ms.openlocfilehash: 5f9301541e73b4137f6c241a18e2f25c4009fc76
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: a35dc8fb1bd6725d4c1f62d387408234f7419b74
+ms.sourcegitcommit: d0dc5e5c46b932899e2a9c7183959d0ff37738d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2314296"
+ms.lasthandoff: 02/20/2020
+ms.locfileid: "3076977"
 ---
 # <a name="record-payments-and-refunds-in-the-payment-journal"></a>Запись платежей и возмещения в журнале платежей
 
@@ -33,11 +33,11 @@ ms.locfileid: "2314296"
 
 - Печать чеков и отправка платежей в электронном виде в банк
 
-    Помимо регистрации факта совершения платежа вы можете использовать страницу **Журнал платежей** для вывода платежей для дальнейшей обработки вашим банком. Дополнительные сведения см. в разделах [Совершение платежей с помощью платежных документов](payables-how-work-checks.md) и [Совершение электронных платежей](payables-how-export-payments-bank-file.md).  
+    Помимо регистрации факта совершения платежа вы можете использовать страницу **Журнал платежей** для вывода платежей для дальнейшей обработки вашим банком. Дополнительные сведения см. в разделах [Совершение платежей с помощью платежных документов](payables-how-work-checks.md) и [Совершение электронных платежей](finance-make-payments-with-bank-data-conversion-service-or-sepa-credit-transfer.md#exporting-payments-to-a-bank-file).  
 
 ## <a name="to-make-payments-in-the-payment-journal"></a>Чтобы сделать оплату в журнале платежей
 
-1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Журналы платежей**, а затем выберите соответствующую ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Журналы платежей**, затем выберите соответствующую ссылку.
 2. Откройте раздел журнала, предназначенный для платежей.
 3. Если вы знаете, в чей адрес совершается оплата или возврат, заполните поля вручную. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 4. Чтобы одновременно применить платеж к соответствующему счету или кредит-ноте, выберите поле **Примен. к док. - номер**, на странице **Применить операции поставщика** выберите соответствующий счет или кредит-ноту, а затем нажмите кнопку **ОК**.
@@ -50,7 +50,7 @@ ms.locfileid: "2314296"
 
 ## <a name="see-also"></a>См. также
 [Совершение платежей с помощью платежных документов](payables-how-work-checks.md)  
-[Совершение электронных платежей](payables-how-export-payments-bank-file.md)  
+[Совершение электронных платежей](finance-make-payments-with-bank-data-conversion-service-or-sepa-credit-transfer.md#exporting-payments-to-a-bank-file)  
 [Управление кредиторской задолженностью](payables-manage-payables.md)  
 [Настройка банковских операций](bank-setup-banking.md)  
 [Экспорт файла Positive Pay](finance-how-positive-pay.md)  

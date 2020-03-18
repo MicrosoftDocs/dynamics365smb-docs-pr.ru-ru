@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: print check, vendor payment, creditor, debt, balance due, AP
 ms.date: 10/01/2019
 ms.author: edupont
-ms.openlocfilehash: 0606d5ab3130844be35bc7d0bcba210c83bf3e70
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 99da82d54a2e769c2ebbaf7d4c103791119517d9
+ms.sourcegitcommit: d0dc5e5c46b932899e2a9c7183959d0ff37738d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2313640"
+ms.lasthandoff: 02/20/2020
+ms.locfileid: "3076466"
 ---
 # <a name="making-payments"></a>Осуществление платежей
 
@@ -37,7 +37,7 @@ ms.locfileid: "2313640"
 |Учет платежей в адрес поставщиков или сотрудников и возвратов в адрес клиентов и (при необходимости) применение платежей к соответствующим неоплаченным счетам/кредит-нотам для их закрытия в качестве оплаченных.|[Регистрация платежей и возвратов](payables-how-post-payments-refunds.md)|
 | Использование функции на странице **Журнал платежей** для предложения оплат поставщикам в соответствии с выбранными критериями, такими как срок оплаты, доступность скидки и ваша ликвидность. |[Предлож. оплаты поставщикам](payables-how-suggest-vendor-payments.md) |
 | Выпуск платежных документов для платежей поставщикам или возвратов клиентам в печатном виде или в электронном виде. Аннулируйте чеки перед учетом или после него. |[Совершение платежей с помощью платежных документов](payables-how-work-checks.md) |
-|Выполнение электронных платежей согласно стандарту кредитового перевода SEPA в ЕС.|[Выполнение платежей с помощью службы конвертации банковских данных или кредитового перевода SEPA](finance-make-payments-with-bank-data-conversion-service-or-sepa-credit-transfer.md)|
+|Выполнение электронных платежей согласно стандарту кредитового перевода SEPA в ЕС.|[Выполнение платежей с помощью расширения AMC Banking 365 Fundamentals или кредитного перевода SEPA](finance-make-payments-with-bank-data-conversion-service-or-sepa-credit-transfer.md)|
 | Платите поставщику наличными или чеком, и учитывайте платеж при учете счета. |[Немедленное создание счетов покупки](finance-how-to-settle-purchase-invoices-promptly.md) |
 | Убедитесь, что банк выполняет клиринг только проверенных платежных документов и сумм, отправив ему файл, содержащий сведения о поставщике, платежном документе и платеже. |[Экспорт файла Positive Pay](finance-how-positive-pay.md) |
 

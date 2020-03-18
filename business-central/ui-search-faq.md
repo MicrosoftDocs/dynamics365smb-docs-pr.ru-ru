@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: find
-ms.date: 10/01/2019
+ms.date: 02/12/2020
 ms.author: bholtorf
-ms.openlocfilehash: 88a1e6cc711888a3cf68744d0ea6bbfdee41aea3
-ms.sourcegitcommit: 49309bdff9b680a35032b355fe97c565845dba15
+ms.openlocfilehash: 67dd65491710206245a2ff83dce3d3eb94484770
+ms.sourcegitcommit: c78df3aefb3e2ed8c28e5ac8340d56ab787212e8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "2695099"
+ms.lasthandoff: 02/19/2020
+ms.locfileid: "3071914"
 ---
 # <a name="tell-me-faq"></a>Вопросы и ответы о функции "Что вы хотите сделать"
 В этой теме содержатся ответы на вопросы, которые часто задают наши продвинутые пользователи о функции "Что вы хотите сделать"
@@ -32,7 +32,7 @@ ms.locfileid: "2695099"
 ### <a name="what-makes-this-different-from-what-was-previously-known-as-page-search"></a>Чем эта функция отличается от ранее известной функции поиска страниц?
 Поиск страниц эволюционировал в функцию "Что вы хотите сделать", чтобы помочь работать быстрее. Поиск страниц мог помочь только переходить к страницам или отчетам. На техническом уровне функция "Что вы хотите сделать" больше не основывается на концепции MenuSuite.
 
-### <a name="i-use-on-premises-included365finincludesd365fin_mdmd-does-that-include-tell-me"></a>Я использую локальную версию [!INCLUDE[d365fin](includes/d365fin_md.md)]. Она включает функцию "Что вы хотите сделать"?
+### <a name="i-use-on-premises-d365fin-does-that-include-tell-me"></a>Я использую локальную версию [!INCLUDE[d365fin](includes/d365fin_md.md)]. Она включает функцию "Что вы хотите сделать"?
 Можно использовать функцию "Что вы хотите сделать" в веб-клиенте локальной версии для поиска действий, страниц и отчетов, но не документации, или приложения и консультативные услуги в AppSource.
 
 ### <a name="is-tell-me-available-for-all-form-factors"></a>Доступна ли функция "Что вы хотите сделать" для всех форм-факторов?
@@ -44,11 +44,9 @@ ms.locfileid: "2695099"
 ### <a name="why-dont-i-see-a-bookmark-icon-for-my-search-results"></a>Почему я не вижу значка закладки для результатов поиска?
 Значок закладки не отображается в окне "Что вы хотите сделать", когда для роли пользователя отключена персонализация.
 
-### <a name="is-the-bookmark-icon-available-for-reports"></a>Доступен ли значок закладки для отчетов?
-Нет. Добавить в закладки можно только ссылку на страницу или результаты поиска, которые отображаются в разделе **Страницы и задачи** окна "Что вы хотите сделать".
-
 
 ## <a name="see-also"></a>См. также  
 [Сохранение и персонализация представлений списков](ui-views.md)  
 [Поиск страниц и информации с помощью функции "Что вы хотите сделать"](ui-search.md)  
-[Поиск страниц с помощью обозревателя ролей](ui-role-explorer.md)
+[Поиск страниц с помощью обозревателя ролей](ui-role-explorer.md)  
+[Добавление закладки на страницу или отчет в ролевом центре](ui-bookmarks.md)

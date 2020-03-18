@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 97d299372bc140c29138d6b83c34ec18254c4fcd
-ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
+ms.openlocfilehash: e128e5a4f08364ccea9ae0aa4e284943688404c4
+ms.sourcegitcommit: d0dc5e5c46b932899e2a9c7183959d0ff37738d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "2882234"
+ms.lasthandoff: 02/20/2020
+ms.locfileid: "3076442"
 ---
 # <a name="setup-best-practices-reordering-policies"></a>Рекомендации по настройке. Политики повторного заказа
 Поле **Политика дозаказа** в карточках товара содержит четыре разных метода планирования, которые определяют способ взаимодействия отдельных параметров планирования.  
@@ -43,10 +43,6 @@ ABC-классификация показывает, что время и сре
 
 ## <a name="see-also"></a>См. также  
  [Рекомендации по настройке. Планирование поставок](setup-best-practices-supply-planning.md)   
- [Сведения о проектировании: политики дозаказа](design-details-reordering-policies.md)   
- [Сведения о проектировании: заказ](design-details-order.md)   
- [Сведения о проектировании: партия на партию](design-details-lot-for-lot.md)   
- [Сведения о проектировании: фиксированное количество дозаказа](design-details-fixed-reorder-qty.md)   
- [Сведения о проектировании: максимальное количество](design-details-maximum-qty.md)   
+ [Сведения о проектировании: обработка политик дозаказа](design-details-handling-reordering-policies.md)   
  [Настройка сложных областей приложения с помощью рекомендаций](set-up-complex-application-areas-using-best-practices.md)  
  [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

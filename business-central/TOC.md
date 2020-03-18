@@ -47,7 +47,7 @@
 ### [Персонализация рабочей области](ui-personalization-user.md)
 ### [Почему заблокирована персонализация страницы?](ui-personalization-locked.md)
 ### [Сохранение и персонализация представлений списков](ui-views.md)
-### [Добавление действия страницы в ролевой центр](ui-bookmarks.md)
+### [Добавление закладки на страницу или отчет в ролевом центре](ui-bookmarks.md)
 ### [Отображение списков различными способами](across-display-lists-different-views.md)
 ## Печать отчетов и выполнение пакетных заданий и XMLport
 ### [Работа с отчетами, пакетными заданиями и XMLport](ui-work-report.md)
@@ -64,6 +64,7 @@
 ### [Обновление пользовательских макетов отчетов](ui-update-report-layouts.md)
 ### [Определение макетов документов для клиентов и поставщиков](ui-define-customer-vendor-document-layouts.md)
 ### [Добавление полей в макет отчета Word](ui-how-add-fields-word-report-layout.md)
+### [Доступные шрифты](ui-fonts.md)
 ## Использование сочетаний клавиш
 ### [Специальные возможности и сочетания клавиш](ui-accessibility.md)
 ### [Сочетания клавиш](keyboard-shortcuts.md)
@@ -297,8 +298,7 @@
 #### [Настройка входящих документов](across-how-setup-income-documents.md)
 #### [Обновление валютных курсов](finance-how-update-currencies.md)
 #### [Настройка отправки и получения электронных документов](across-how-to-set-up-electronic-document-sending-and-receiving.md)
-#### [Настройка кредитового перевода SEPA](finance-how-to-set-up-sepa-credit-transfer.md)
-#### [Настройка прямого дебетования SEPA](finance-how-to-set-up-sepa-direct-debit.md)
+#### [Сбор платежей с прямым дебетом SEPA](finance-collect-payments-with-sepa-direct-debit.md)
 #### [Использование расширения AMC Banking 365 Fundamentals](ui-extensions-amc-banking.md)
 #### [Настройка службы банковских выписок](bank-how-setup-bank-statement-service.md)
 #### [Настройка банковских счетов](bank-how-setup-bank-accounts.md)
@@ -310,8 +310,8 @@
 #### [Использование OCR для преобразования PDF-файлов и файлов изображений в электронные документы](across-how-use-ocr-pdf-images-files.md)
 #### [Получение и преобразование электронных документов](purchasing-how-to-receive-and-convert-electronic-documents.md)
 #### [Настройка службы Envestnet Yodlee Bank Feeds](bank-how-setup-bank-statement-service.md)
-#### [Экспорт платежей в банковский файл](payables-how-export-payments-bank-file.md)
-#### [Выполнение платежей с помощью службы конвертации банковских данных или кредитового перевода SEPA](finance-make-payments-with-bank-data-conversion-service-or-sepa-credit-transfer.md)
+#### [Экспорт платежей в банковский файл](finance-make-payments-with-bank-data-conversion-service-or-sepa-credit-transfer.md#exporting-payments-to-a-bank-file)
+#### [Выполнение платежей с помощью расширения AMC Banking 365 Fundamentals или кредитного перевода SEPA](finance-make-payments-with-bank-data-conversion-service-or-sepa-credit-transfer.md)
 #### [Сбор платежей с прямым дебетом SEPA](finance-collect-payments-with-sepa-direct-debit.md)
 #### [Обновление валютных курсов](finance-how-update-currencies.md)
 #### [Сопоставление полей при импорте файлов SEPA CAMT](across-field-mapping-when-importing-sepa-camt-files.md)
@@ -403,7 +403,7 @@
 #### [Регистрация платежей и возвратов](payables-how-post-payments-refunds.md)
 #### [Предлож. оплаты поставщикам](payables-how-suggest-vendor-payments.md)
 #### [Совершение платежей с помощью платежных документов](payables-how-work-checks.md)
-#### [Выполнение платежей с помощью службы конвертации банковских данных или кредитового перевода SEPA](finance-make-payments-with-bank-data-conversion-service-or-sepa-credit-transfer.md)
+#### [Выполнение платежей с помощью расширения AMC Banking 365 Fundamentals или кредитного перевода SEPA](finance-make-payments-with-bank-data-conversion-service-or-sepa-credit-transfer.md)
 #### [Немедленное создание счетов покупки](finance-how-to-settle-purchase-invoices-promptly.md)
 #### [Экспорт файла Positive Pay](finance-how-positive-pay.md)
 ### Автоматическое применение платежей и выверка банковских счетов
@@ -918,7 +918,6 @@
 #### [Настройка налога на использование и налога на покупки](LocalFunctionality/Canada/how-to-set-up-use-tax-and-purchase-tax.md)
 ### Банковские операции и платежи
 #### [Создание депозитов](LocalFunctionality/Canada/how-to-create-deposits.md)
-#### [Управление сведениями о кредите клиента](LocalFunctionality/Canada/how-to-manage-customer-credit-information.md)
 #### [Совершение электронных платежей](finance-make-payments-with-bank-data-conversion-service-or-sepa-credit-transfer.md#exporting-payments-to-a-bank-file)
 ### Общие
 #### [Печать отчетов об устранении неполадок](LocalFunctionality/Canada/how-to-print-troubleshooting-reports.md)
@@ -1064,7 +1063,6 @@
 ## Исландия
 ### [Обзор](LocalFunctionality/Iceland/iceland-local-functionality.md)
 ### НДС
-#### [Налоговые правила Исландии для условных скидок](LocalFunctionality/Iceland/icelandic-tax-regulations-of-conditional-discounts.md)
 #### [Печать сводной информации НДС в документах](LocalFunctionality/Iceland/how-to-print-vat-summary-information-on-documents.md)  
 #### [Вывод особых данных и отчетов для налогового органа](LocalFunctionality/Iceland/special-data-output-and-reports-for-the-tax-authority.md)
 ### Электронные счета
@@ -1459,7 +1457,6 @@
 #### [Выверка банковских счетов](LocalFunctionality/UnitedStates/how-to-reconcile-bank-accounts.md)
 #### [Совершение электронных платежей](finance-make-payments-with-bank-data-conversion-service-or-sepa-credit-transfer.md#exporting-payments-to-a-bank-file)
 ### Общие
-#### [Порядок управления сведениями о кредите клиента](LocalFunctionality/UnitedStates/how-to-manage-customer-credit-information.md)  
 #### [Печать отчетов об устранении неполадок](LocalFunctionality/UnitedStates/how-to-print-troubleshooting-reports.md)
 ## [Отправка нормативных оповещений](submit-regulatory-alerts.md)
 # Соответствие

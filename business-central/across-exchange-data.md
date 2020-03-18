@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 0091f7ae1e6b22b6228ad903af783fb790faf99d
-ms.sourcegitcommit: c6e28db8f78fa21db064c9b8a8d742f49d7db3ae
+ms.openlocfilehash: e6466690fb4be462f20cd967c35b2aee39486b61
+ms.sourcegitcommit: d0dc5e5c46b932899e2a9c7183959d0ff37738d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "2692612"
+ms.lasthandoff: 02/20/2020
+ms.locfileid: "3076759"
 ---
 # <a name="exchanging-data"></a>Обмен данными
 Доступен обмен данными между [!INCLUDE[d365fin](includes/d365fin_md.md)] и внешними файлами или потоками в связи с выполнением бизнес-задач общего характера, таких как отправка и получение электронных документов и импорт или экспорт банковских файлов.  
@@ -30,9 +30,9 @@ ms.locfileid: "2692612"
 |Отправьте PDF-файл или графический файл поставщику служб OCR и получите его обратно в виде электронного документа, который может быть преобразован в записи документа в [!INCLUDE[d365fin](includes/d365fin_md.md)].|[Использование OCR для преобразования PDF-файлов и файлов изображений в электронные документы](across-how-use-ocr-pdf-images-files.md)|  
 |Получение электронных документов из службы OCR или службы обмена документами в едином формате, который преобразуется в соответствующие записи документов в [!INCLUDE[d365fin](includes/d365fin_md.md)].|[Получение и преобразование электронных документов](purchasing-how-to-receive-and-convert-electronic-documents.md)|  
 |Подготовьтесь к импорту файла банковской выписки на страницу **Журнал выверки платежей** в качестве первого шага выверки платежей или страницу **Выверка банковского счета** в качестве первого шага выверки банковских счетов.|[Настройка службы Envestnet Yodlee Bank Feeds](bank-how-setup-bank-statement-service.md)|  
-|Экспортируйте платежи со страницы **Журнал платежей** в файл банка, загружаемый в электронный банковский счет для обработки.|[Экспорт платежей в банковский файл](payables-how-export-payments-bank-file.md)|
-|Выполнение электронных платежей согласно стандарту кредитового перевода SEPA в ЕС.|[Выполнение платежей с помощью службы конвертации банковских данных или кредитового перевода SEPA](finance-make-payments-with-bank-data-conversion-service-or-sepa-credit-transfer.md)|  
-|Проинструктируйте банк, чтобы он переводил суммы платежей из банковских счетов ваших клиентов на счет вашей организации в соответствии с настройкой прямого дебета SEPA.|[Создание операций погашения прямого дебета SEPA и их экспорт в файл банка](finance-how-create-sepa-direct-debit-collection-entries-export-bank-file.md)|  
+|Экспортируйте платежи со страницы **Журнал платежей** в файл банка, загружаемый в электронный банковский счет для обработки.|[Экспорт платежей в банковский файл](finance-make-payments-with-bank-data-conversion-service-or-sepa-credit-transfer.md#exporting-payments-to-a-bank-file)|
+|Выполнение электронных платежей согласно стандарту кредитового перевода SEPA в ЕС.|[Выполнение платежей с помощью расширения AMC Banking 365 Fundamentals или кредитного перевода SEPA](finance-make-payments-with-bank-data-conversion-service-or-sepa-credit-transfer.md)|  
+|Проинструктируйте банк, чтобы он переводил суммы платежей из банковских счетов ваших клиентов на счет вашей организации в соответствии с настройкой прямого дебета SEPA.|[Создание операций погашения прямого дебета SEPA и их экспорт в файл банка](finance-collect-payments-with-sepa-direct-debit.md#creating-sepa-direct-debit-collection-entries-and-export-to-a-bank-file)|  
 |Для обновления страницы **Валюты** воспользуйтесь поставщиком службы для курсов валют.|[Обновление валютных курсов](finance-how-update-currencies.md)|  
 |Просмотрите, какие элементы файлов сопоставляются с полями [!INCLUDE[d365fin](includes/d365fin_md.md)] при импорте файлов выписок SEPA CAMT.|[Сопоставление полей при импорте файлов SEPA CAMT](across-field-mapping-when-importing-sepa-camt-files.md)|  
 |Просмотрите, какие поля [!INCLUDE[d365fin](includes/d365fin_md.md)] сопоставляются с элементами файла при экспорте файлов платежей с помощью расширения AMC Banking 365 Fundamentals.|[Сопоставление полей при экспорте файлов платежей с использованием расширения AMC Banking 365 Fundamentals](across-field-mapping-when-exporting-payment-files-using-bank-data-conversion-service.md)|  

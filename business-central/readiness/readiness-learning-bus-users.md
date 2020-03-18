@@ -1,20 +1,20 @@
 ---
-title: Учебный каталог бизнес-пользователя
-description: Учебный каталог бизнес-пользователя
-author: LoreleiShannon
-ms.custom: na
-ms.date: 11/06/2019
+title: Учебный каталог бизнес-пользователей
+description: Найти все доступное обучение для Business Central.
+author: loreleishannonmsft
+ms.date: 02/19/2020
 ms.topic: article
-ms.service: dynamics365-business-central
-ms.author: solsen
-ms.openlocfilehash: 00ee925575dbdfe6eb32e78e3051c7bb8c6d7d96
-ms.sourcegitcommit: 86498fe4326b9ce26cc31e8645db27570d13bdf9
+ms.author: v-lshann
+ms.openlocfilehash: 51e8249f504e9182bf9e427e15629dd51fc804b5
+ms.sourcegitcommit: 35552b250b37c97772129d1cb9fd9e2537c83824
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "2767894"
+ms.lasthandoff: 03/04/2020
+ms.locfileid: "3097772"
 ---
 # <a name="business-users-learning-catalog"></a>Учебный каталог бизнес-пользователей
+
+Вы только что получили новое приложение для использования?
 
 Следующий каталог организован от базовых знаний до конкретных областей и от самых простых до самых продвинутых знаний. Если контент существует в нескольких форматах, мы сообщим вам, чтобы вы могли выбрать формат обучения, который наилучшим образом соответствует вашим потребностям. 
 

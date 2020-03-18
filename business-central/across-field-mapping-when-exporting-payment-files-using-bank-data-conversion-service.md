@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2019
 ms.author: sgroespe
-ms.openlocfilehash: 49ed61472966ca06f996296d3d97365a6c223983
-ms.sourcegitcommit: c6e28db8f78fa21db064c9b8a8d742f49d7db3ae
+ms.openlocfilehash: f5b1d0e6d5466ee44ffcd1249087a743f01bf109
+ms.sourcegitcommit: d0dc5e5c46b932899e2a9c7183959d0ff37738d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "2692632"
+ms.lasthandoff: 02/20/2020
+ms.locfileid: "3076735"
 ---
 # <a name="field-mapping-when-exporting-payment-files-using-the-amc-banking-365-fundamentals-extension"></a>Сопоставление полей при экспорте файлов платежей с использованием расширения AMC Banking 365 Fundamentals
 При экспорте файлов платежей с использованием расширения AMC Banking 365 Fundamentals экспортируемые данные предоставляются поставщику услуг. Поставщик услуг отвечает за конфиденциальность этих данных. Для получения дополнительной информации о расширении AMC Banking 365 Fundamentals см. раздел [Использование расширения AMC Banking 365 Fundamentals](ui-extensions-amc-banking.md).  
@@ -71,4 +71,4 @@ ms.locfileid: "2692632"
 [Настройка обмена данными](across-set-up-data-exchange.md)  
 [Электронный обмен данными](across-data-exchange.md)
 [Использование расширения AMC Banking 365 Fundamentals](ui-extensions-amc-banking.md)   
-[Выполнение платежей с помощью службы конвертации банковских данных или кредитового перевода SEPA](finance-make-payments-with-bank-data-conversion-service-or-sepa-credit-transfer.md)   
+[Платежи с помощью расширения AMC Banking 365 Fundamentals или кредитного перевода SEPA](finance-make-payments-with-bank-data-conversion-service-or-sepa-credit-transfer.md)   
