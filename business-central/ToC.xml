@@ -44,7 +44,7 @@
     </Node>
     <Node Name="" DisplayName="Настройка банковских операций" Page="bank-setup-banking.html">
       <Node Name="" DisplayName="Практическое руководство. Настройка банковских счетов" Page="bank-how-setup-bank-accounts.html"/>
-      <Node Name="" DisplayName="Практическое руководство. Настройка службы конвертации банковских данных" Page="bank-how-setup-bank-data-conversion-service.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Настройка расширения AMC Banking 365 Fundamentals" Page="bank-how-setup-bank-data-conversion-service.html"/>
     </Node>
     <Node Name="" DisplayName="Настройка продаж" Page="sales-setup-sales.html">
       <Node Name="" DisplayName="Практическое руководство. Регистрация новых клиентов" Page="sales-how-register-new-customers.html"/>
