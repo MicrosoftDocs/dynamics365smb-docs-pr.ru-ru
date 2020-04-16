@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: 01decbd2ab4f3ed664c62e29d8bed6655758b315
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 7285bf6984cc4f245282dcc129e66f097e11c5f2
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2316814"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3189415"
 ---
 # <a name="save-and-personalize-list-views"></a>Сохранение и персонализация представлений списков
 Если вы установили фильтр для списка и хотите сохранить его для использования в дальнейшем, вы можете сохранить его как представление. Дополнительные сведения о фильтрации списков см. в разделе [Установка фильтров в списках](ui-enter-criteria-filters.md#setting-filters-on-lists).
@@ -24,7 +24,7 @@ ms.locfileid: "2316814"
 
 ## <a name="to-save-a-view"></a>Сохранение представления
 1. Откройте любую страницу списка.
-2. Выберите ![Значок области фильтров](media/open-filter-pane-icon.png "Значок области фильтров") вверху списка или нажмите Shift+F3, чтобы открыть область фильтров.
+2. Выберите ![Значок области фильтров](media/open-filter-pane-icon.png "Значок панели фильтра") вверху списка или нажмите Shift+F3, чтобы открыть область фильтров.
 3. Установите один или несколько новых фильтров. Дополнительные сведения см. в разделе [Установка фильтров в списках](ui-enter-criteria-filters.md#setting-filters-on-lists).
 4. Установив фильтры, выберите значок ![Сохранить представление](media/save_view_icon.png "Сохранить представление").
 

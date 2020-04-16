@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: special price, alternate price, pricing
-ms.date: 01/13/2020
+ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: d0f65eeb44b6a9a2608c05f6b7c71f989a0b9386
-ms.sourcegitcommit: ead69ebe5b29927876a4fb23afb6c066f8854591
+ms.openlocfilehash: 04f94df10ca185fe8b4c10c6164aeec1ac8d7335
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "2953519"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3193783"
 ---
 # <a name="record-special-purchase-prices-and-discounts"></a>Регистрация специальных цен покупки и скидок
 Необходимо определить соглашения о скидках и ценах, которые будут применяться при покупке у различных поставщиков, чтобы к документам покупки, созданным для поставщика, применялись согласованные правила и значения.
@@ -121,7 +121,7 @@ ms.locfileid: "2953519"
 
 Если для товара в строке невозможно рассчитать специальную цену, будет вставлена либо последняя прямая себестоимость, либо цена единицы из карточки товара.
 
-## <a name="see-related-training-at-microsoft-learnlearnmodulesset-up-prices-discounts-dynamics-365-business-centralindex"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/set-up-prices-discounts-dynamics-365-business-central/index)
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/set-up-prices-discounts-dynamics-365-business-central/index)
 
 ## <a name="see-also"></a>См. также
 [Настройка покупки](purchasing-setup-purchasing.md)  

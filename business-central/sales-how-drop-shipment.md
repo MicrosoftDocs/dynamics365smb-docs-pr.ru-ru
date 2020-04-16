@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: direct shipment
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: 50198afaa8caae9a11a06a25357fa94ad26b0b8f
-ms.sourcegitcommit: b570997f93d1f7141bc9539c93a67a91226660a8
+ms.openlocfilehash: c61f55701ecb07862f42d3cce242756001529588
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2020
-ms.locfileid: "2943189"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3193687"
 ---
 # <a name="make-drop-shipments"></a>Выполнение прямых поставок
 Прямая поставка — это поставка товаров одним из ваших поставщиков непосредственно одному из ваших клиентов.
@@ -25,7 +25,7 @@ ms.locfileid: "2943189"
 Когда заказ на продажу помечен для прямой поставки, и вы создаете заказ на покупку, указывая клиента в поле **Получатель**, **Адрес клиента**, вы можете связать два документа и, тем самым, дать указание поставщику отправить товар непосредственно клиенту.
 <br><br>  
   
-> [!Video https://www.microsoft.com/en-us/videoplayer/embed/RE4mOyM]
+> [!Video https://www.microsoft.com/en-us/videoplayer/embed/RE4mOyM?rel=0]
 
 ## <a name="to-create-a-sales-order-for-drop-shipment"></a>Создание заказа на продажу по прямой поставке
 Для подготовки прямой поставки следует создать заказы на продажу для товара, как обычно, но необходимо указать в строке продажи, что продажа требует прямой поставки.

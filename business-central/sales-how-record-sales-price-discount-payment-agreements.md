@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: special price, alternate price, pricing
-ms.date: 02/04/2020
+ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: 820439f8b18026d8a92a07dfe320423381847cb7
-ms.sourcegitcommit: 0cb8a646dcba8f6d6336ebd008587874d25f4629
+ms.openlocfilehash: fa8dd6cf036b49d22510e8d3c096558545d4a3b2
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/07/2020
-ms.locfileid: "3030272"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3193567"
 ---
 # <a name="record-special-sales-prices-and-discounts"></a>Регистрация специальных цен продажи и скидок
 Чтобы к документам продажи, созданным для клиентов, применялись согласованные правила и значения, необходимо определить различные соглашения в отношении цен и скидок, которые будут применяться при продаже товаров различным клиентам.
@@ -146,7 +146,7 @@ ms.locfileid: "3030272"
 > [!NOTE]   
 >  Данное пакетное задание только предоставляет предложения по изменению, но не вносит предложенных изменений. Если предложения являются удовлетворительными, и их нужно применить, то есть вставить в таблицу **Цены продажи**, то можно использовать пакетное задание **Выполнить изменение цен**, которое находится на вкладке **Действия** группы **Функции** на странице **Журнал цен продажи**.
 
-## <a name="see-related-training-at-microsoft-learnlearnmodulesmanage-sales-prices-dynamics-365-business-centralindex"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/manage-sales-prices-dynamics-365-business-central/index)
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/manage-sales-prices-dynamics-365-business-central/index)
 
 ## <a name="see-also"></a>См. также
 [Настройка продаж](sales-setup-sales.md)  

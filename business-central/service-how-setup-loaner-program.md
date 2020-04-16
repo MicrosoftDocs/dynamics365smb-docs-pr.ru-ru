@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.author: bholtorf
-ms.openlocfilehash: 494f7c621a141b84f104ad855b2aa1e412aa837f
-ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
+ms.openlocfilehash: fdf20f215cee14d8cfb2d4287f8f0a5173ce4466
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "2877475"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3195232"
 ---
 # <a name="set-up-a-loaner-program"></a>Настройка программы временного пользования
 Иногда возникает необходимость в предоставлении клиенту товара для временного пользования в качестве замены товара, находящегося в ремонте. В [!INCLUDE[d365fin](includes/d365fin_md.md)] можно настроить программу временного пользования, предоставлять клиентам товары во временное пользование и отслеживать возврат, когда клиенты возвращают товары. Кроме того, можно добавлять комментарии о товарах для временного пользования одним из двух способов:  

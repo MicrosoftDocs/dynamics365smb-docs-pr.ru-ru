@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: 85dfc44f453e27cad0b0a3385f2822715bc252e7
-ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
+ms.openlocfilehash: 279ca56885eb4bab95322387bc6b9f857139c370
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "2877643"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3191311"
 ---
 # <a name="planning"></a>Планирование
 Производственные операции, необходимые для преобразования затраченных ресурсов в готовую продукцию, должны быть запланированы по дням или неделям, в зависимости от объема и характера товаров. [!INCLUDE[d365fin](includes/d365fin_md.md)] предлагает функции снабжения для выполнения ожидаемых и фактических требований, возникающих вследствие продажи, сборки и производства, а также функции распределенного планирования с использованием единиц хранения и перемещений между складами.

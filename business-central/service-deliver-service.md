@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: service, service items, respond, response
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: 08989bb6903aa9f236b89d55d4b54af4db51cf1a
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: c6c73fa918e72f9f8f086c6e139d00b6d3067cc8
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2311912"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3195218"
 ---
 # <a name="delivering-service"></a>Предоставление услуги
 В [!INCLUDE[d365fin](includes/d365fin_md.md)] предусмотрены функции, упрощающие процесс предоставления услуг по созданным контрактам и переданным на выполнение сервисным заказам. С помощью **панели диспетчера** технический персонал и диспетчеры могут легко находить невыполненные сервисные заказы. **Панель диспетчера** позволяет с первого взгляда определить, какие заказы выполняются, а какие уже выполнены заказы.  

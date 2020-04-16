@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: payment due, debt, overdue, fee, charge, reminder
-ms.date: 01/20/2020
+ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: 73e488270862e62a237575929caa3753b4c7f545
-ms.sourcegitcommit: 877af26e3e4522ee234fbba606615e105ef3e90a
+ms.openlocfilehash: ec17c59ebbc336cf6c4757be447ff7765098c816
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/28/2020
-ms.locfileid: "2991980"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3190687"
 ---
 # <a name="collect-outstanding-balances"></a>Сбор непогашенных остатков задолженности
 Управление расчетами с клиентами включает проверку своевременной оплаты причитающихся сумм. Если у клиентов есть просроченные платежи, можно начать отправлять им отчеты по клиенту в качестве напоминания. Кроме того, можно формировать напоминания.
@@ -263,7 +263,7 @@ ms.locfileid: "2991980"
 2. Откройте соответствующую карточку клиента и выберите действие **Книга операций**.
 3. На странице **Книга операций по клиентам** выделите строку с операцией книги, для которой требуется просмотреть операции напоминаний, а затем выберите действие **Операции напоминаний/процент-нот**.
 
-## <a name="see-related-training-at-microsoft-learnlearnpathsprocess-financial-periodic-activities-dynamics-365-business-central"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/process-financial-periodic-activities-dynamics-365-business-central/)
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/process-financial-periodic-activities-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 [Управление дебиторской задолженностью](receivables-manage-receivables.md)  

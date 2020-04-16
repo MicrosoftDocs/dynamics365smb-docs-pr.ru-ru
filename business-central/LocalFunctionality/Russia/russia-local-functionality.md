@@ -7,14 +7,14 @@ ms.topic: article
 ms.workload: na
 ms.search.keywords: ''
 ms.reviewer: edupont
-ms.date: 10/04/2019
+ms.date: 04/01/2020
 ms.author: soalex
-ms.openlocfilehash: 281b6164c8390003c588e1750d1822ad7a3890e5
-ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
+ms.openlocfilehash: a973889552fda3558e738594ffcd81df0502a300
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "2554587"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3189218"
 ---
 # <a name="russia-local-functionality"></a>Функциональность локальной версии для России
 

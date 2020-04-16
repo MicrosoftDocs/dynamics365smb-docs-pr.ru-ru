@@ -9,14 +9,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: dates, reporting, filter, calendar, shorthand, range
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: 22014c6df6ccffa08ff2fed25d40ce4c0312d57d
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: ff34a7a8a1086b41d2df2a75955017fc82866fb6
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2315592"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3194407"
 ---
 # <a name="working-with-calendar-dates-and-times"></a>Работа с календарными датами и значениями времени
 
@@ -121,7 +121,7 @@ The following sections describe how you can enter dates, times, datetimes, durat
 |в 23|Вторник недели 23 года рабочей даты|
 |в-1|Вторник недели 1 года рабочей даты|
 
-##  <a name="BKMK_SettingDateRanges"></a> Диапазоны дат
+##  <a name="setting-ranges"></a><a name="BKMK_SettingDateRanges"></a> Диапазоны дат
 
 В списках, итогах и отчетах можно установить фильтры по датам, времени и дате и времени, содержащие начальное значение и, необязательно, конечное значение для отображения только данных, содержащихся в данном диапазоне. При установке диапазонов дат следует руководствоваться стандартными правилами.
 

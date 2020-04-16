@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 01/13/2020
+ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: 8571e0cbaa7104d6db8fc29ca11530a2c42464de
-ms.sourcegitcommit: ead69ebe5b29927876a4fb23afb6c066f8854591
+ms.openlocfilehash: 23bead12bc8a8618798f3ab0f139488b128b7bbc
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "2953495"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3190975"
 ---
 # <a name="receive-and-convert-electronic-documents"></a>Получение и преобразование электронных документов
 Универсальная версия [!INCLUDE[d365fin](includes/d365fin_md.md)] поддерживает получение электронных счетов и кредит-нот в формате PEPPOL, поддерживаемом крупнейшими поставщиками служб обмена документами. Для получения счета от поставщика в формате электронного документа PEPPOL необходимо обработать документ на странице "Входящие документы", преобразовав его в счет покупки или строку финансового журнала в [!INCLUDE[d365fin](includes/d365fin_md.md)].
@@ -57,7 +57,7 @@ ms.locfileid: "2953495"
 
      Любые ошибки проверки, обычно связанные с некорректностью или отсутствием данных в [!INCLUDE[d365fin](includes/d365fin_md.md)], будут представлены на экспресс-вкладке **Сообщения об ошибках**.  
 
-## <a name="see-related-training-at-microsoft-learnlearnmoduleselectronic-documents-dynamics-365-business-centralindex"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/electronic-documents-dynamics-365-business-central/index)
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/electronic-documents-dynamics-365-business-central/index)
 
 ## <a name="see-also"></a>См. также  
 [Управление кредиторской задолженностью](payables-manage-payables.md)  

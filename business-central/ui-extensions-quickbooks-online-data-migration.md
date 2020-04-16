@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms. search.keywords: extension, migrate, data, QuickBooks, import
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.author: bholtorf
-ms.openlocfilehash: bbfbb187ff533a2c786d0a5b4aa26a20518f760b
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: c3e5415c5da03c4dd9a2228cc21b7c08a9beeec3
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2315424"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3189727"
 ---
 # <a name="the-quickbooks-online-data-migration-extension"></a>Расширение миграции данных QuickBooks Online
 Это расширение входит в руководстве по сопровождаемой настройке **Миграция данных**, которое помогает переносить важные бизнес-данные из QuickBooks Online в [!INCLUDE[d365fin](includes/d365fin_md.md)]. Например, это бывает полезно, если ваш бизнес расет, и вы решили обновить свое приложение для управления бизнесом и перейти на [!INCLUDE[d365fin](includes/d365fin_md.md)].
@@ -50,7 +50,7 @@ ms.locfileid: "2315424"
 ## <a name="how-do-i-start-using-the-extension"></a>Как начать использование расширения?
 Начать очень просто. Вам достаточно запустить руководство по сопровождаемой настройке **Миграция данных**. Вот как это сделать:
 
-1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Мастер настройки**, затем выберите **Миграция бизнес-данных**.
+1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Мастер настройки**, затем выберите **Миграция бизнес-данных**.
 2. На каждом этапе следуйте инструкциям руководства по сопровождаемой настройке.
 
 ## <a name="what-do-i-do-after-i-migrate-data"></a>Что нужно сделать после переноса данных?

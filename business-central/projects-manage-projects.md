@@ -6,14 +6,14 @@ ms.service: dynamics365-business-central
 ms.topic: article
 ms.workload: na
 ms.search.keywords: projects
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.author: edupont
-ms.openlocfilehash: aa3158789f22cbb3a534bda2a83e2def209f9826
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 1a9aea8ef63874b63bfd608d04b16dd3da4c7c35
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2312656"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3190015"
 ---
 # <a name="project-management"></a>Управление проектами
 В [!INCLUDE[d365fin](includes/d365fin_md.md)] можно выполнять общие задачи управления проектом, такие как настройка работы и планирование ресурсов, а также предоставление информации, необходимой для управления бюджетами и мониторинга хода выполнения работ. С помощью табелей можно отслеживать количество часов работы машин и сотрудников. Как менеджер проекта, вы имеете хороший обзор не только по отдельным работам, но и по распределению сотрудников, механизмов и других ресурсов, используемых во всех проектах.

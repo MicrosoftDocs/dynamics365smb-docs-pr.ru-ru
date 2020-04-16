@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 01/13/2020
+ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: 10547ee8f8a9e760721e12746fc25031001e7330
-ms.sourcegitcommit: ead69ebe5b29927876a4fb23afb6c066f8854591
+ms.openlocfilehash: 110c81bdf6de02e16a1e1185028f6b803290f3d7
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "2954108"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3192667"
 ---
 # <a name="send-electronic-documents"></a>Отправка электронных документов
 Универсальная версия [!INCLUDE[d365fin](includes/d365fin_md.md)] поддерживает отправку электронных счетов и кредит-нот в формате PEPPOL, поддерживаемом крупнейшими поставщиками служб обмена документами. Поставщик службы обмена документами обеспечивает перемещение электронных документов между торговыми партнерами. Чтобы обеспечить поддержку других форматов электронных документов, следует использовать платформу обмена данными.  
@@ -49,7 +49,7 @@ ms.locfileid: "2954108"
     > [!NOTE]  
     >  Можно также отправить учтенный счет на продажу в виде электронного документа. Процедура аналогична описанной в этом разделе для документов неучтенных продаж. На странице **Учтенный счет продажи** выберите действие **Журнал действий** для просмотра статуса электронного документа. Для получения дополнительных сведений см раздел **Журнал действий**.  
 
-## <a name="see-related-training-at-microsoft-learnlearnmoduleselectronic-documents-dynamics-365-business-centralindex"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/electronic-documents-dynamics-365-business-central/index)
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/electronic-documents-dynamics-365-business-central/index)
 
 ## <a name="see-also"></a>См. также  
 [Выставление счетов продажи](sales-how-invoice-sales.md)  

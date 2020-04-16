@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: 1d8b24df628cbb41449e37b31cbf1082d434bb81
-ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
+ms.openlocfilehash: 1ee462cbf052b001a195efede9519fa0e6008a29
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "2877837"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3191479"
 ---
 # <a name="set-up-work-centers-and-machine-centers"></a>Настройка производственных и машинных центров
 Приложение различает три типа производственных мощностей. Они организованы иерархически. Каждый уровень содержит подчиненные уровни.  

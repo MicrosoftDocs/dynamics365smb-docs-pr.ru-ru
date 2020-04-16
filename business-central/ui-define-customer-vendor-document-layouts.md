@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: customized report, document layout, logo, personalize
-ms.date: 11/15/2019
+ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: 23c4573c3121a660b8263c3bc9bb2c6ac8b1d331
-ms.sourcegitcommit: 893e13fa75b2d04dedd4a29abda216e3e54b24ae
+ms.openlocfilehash: cc1317961be7896250a883da5c58d1f7eb5cf326
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "2809403"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3194503"
 ---
 # <a name="define-document-layouts-for-customers-and-vendors"></a>Определение макетов документов для клиентов и поставщиков
 Если определены пользовательские макеты отчетов, вы можете выбрать их из карточек клиентов и поставщиков, чтобы указать, какие макеты будут использоваться для документов, которые вы создаете для данного клиента или поставщика. Значение поля **Использование** определяет, для какого процесса будет использоваться макет документа, например **Напоминание**, **Отгрузка** или **Подтверждение**.

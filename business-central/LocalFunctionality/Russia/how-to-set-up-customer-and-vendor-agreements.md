@@ -5,15 +5,15 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: ''
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 119ba8b7d65c142bda07c6b226a612b7240ec020
-ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
+ms.openlocfilehash: 3f331cecc3164c544f915f5566c800491b859795
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "2554498"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3189233"
 ---
 # <a name="set-up-customer-and-vendor-agreements"></a>Настройка договоров с клиентами и поставщиками
 
@@ -27,7 +27,7 @@ ms.locfileid: "2554498"
 
 ## <a name="to-set-up-an-agreement"></a>Настройка договора
 
-1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка модуля "Продажи"**, а затем выберите соответствующую ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка модуля "Продажи и дебитор. задолж."**, затем выберите соответствующую ссылку.
 
 2. Чтобы настроить договор, на экспресс-вкладке **Измерения** и экспресс-вкладках **Нумерация** заполните поля, перечисленные в таблице ниже.
 
@@ -39,7 +39,7 @@ ms.locfileid: "2554498"
 
 ## <a name="to-create-a-customer-or-vendor-agreement"></a>Создание договора с клиентом или поставщиком 
 
-1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Клиенты**, а затем выберите соответствующую ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Клиенты**, затем выберите соответствующую ссылку.
 
 2. Выберите клиента из списка и выберите действие **Правка**.
 

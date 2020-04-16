@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: online payment
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: 7bd02b7d802faa3b0766d6689eaa223ba3e3573a
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 18ed3b77ffa369d4d9f3bd66ea54b81adb0c88e3
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2316456"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3191815"
 ---
 # <a name="enable-customer-payments-through-payment-services"></a>Включение платежей клиентов через службу платежей
 В качестве альтернативы сбору платежей через банковские переводы или кредитные карты вы можете предложить клиентам оплату через учетную запись в службе платежей, например Microsoft Pay, PayPal или WorldPay.  
@@ -24,8 +24,8 @@ ms.locfileid: "2316456"
 
 Расширения Microsoft Pay, PayPal Payments Standard и WorldPay Payments Standard установлены в [!INCLUDE[d365fin](includes/d365fin_md.md)] и готовы к включению.  
 
-## <a name="to-enable-a-payment-service-in-included365finincludesd365fin_mdmd"></a>Включение службы платежей в [!INCLUDE[d365fin](includes/d365fin_md.md)]
-1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Службы платежей**, а затем выберите соответствующую ссылку.  
+## <a name="to-enable-a-payment-service-in-d365fin"></a>Включение службы платежей в [!INCLUDE[d365fin](includes/d365fin_md.md)]
+1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Службы платежей**, затем выберите соответствующую ссылку.  
 2. На странице **Службы платежей** выберите действие **Создать**.  
 3. Выберите службу платежей, затем закройте страницу.  
 4. На странице **Службы платежей** выберите действие **Настройка**.  
@@ -33,7 +33,7 @@ ms.locfileid: "2316456"
 6. Закройте страницу.  
 
 ## <a name="to-select-a-payment-service-on-a-sales-invoice"></a>Выбор службы платежей в счете продажи
-1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Счета продажи**, а затем выберите соответствующую ссылку.  
+1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Счета продажи**, затем выберите соответствующую ссылку.  
 2. Откройте счет продажи, который необходимо оплатить с помощью службы платежей.  
 3. В поле **Служба платежей** выберите службу платежей.  
 

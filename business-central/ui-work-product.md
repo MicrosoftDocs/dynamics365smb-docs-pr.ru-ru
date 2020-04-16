@@ -1,38 +1,41 @@
 ---
 title: Использование общих функций Business Central | Документация Майкрософт
 description: Описываются общие функции, которые вы используете для работы с данными в Business Central, например ввод значений, сортировка данных и изменение представлений.
-documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.date: 01/13/2020
+ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: 45db775e7d615f3c11a9617d36e4111baa40ccc1
-ms.sourcegitcommit: ead69ebe5b29927876a4fb23afb6c066f8854591
+ms.openlocfilehash: 666102d7f75028035b4b4087c2c8de0c693268c8
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "2953927"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3189347"
 ---
-# <a name="working-with-included365finincludesd365fin_mdmd"></a>Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]
+# <a name="working-with-d365fin"></a>Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]
 При выполнении бизнес-задач приходится производить разнообразные действия с данными, например создавать записи и вводить данные, сортировать и фильтровать данные, создавать заметки и выводить данные в другие приложения.
 
 Например, можно скорректировать размер и положение любой страницы, увеличить ширину столбцов и высоту заголовков столбцов, а также изменить сортировку данных в столбцах. А если необходимо использовать горизонтальную полосу прокрути для просмотра всех столбцов на странице списка или в строках документа, можно использовать вертикальную область закрепления, чтобы ограничить прокрутку некоторых столбцов.
+
+## <a name="tips-and-tricks"></a><a name="cheatsheet"></a>Советы и подсказки
 
 > [!TIP]
 > Для удобного для печати обзора наиболее часто используемых функций выберите следующее изображение и скачайте файл PDF.
 >
 > [ ![](media/cheat_sheet_inline.png) ](media/cheat_sheet.pdf)
 
-> [!NOTE]
-> В дополнение к общим функциям пользовательского интерфейса, описанным в этом разделе, можно использовать другие общие функции, которые более связаны с бизнесом. Дополнительные сведения см. в разделе [Общие бизнес-функции](ui-across-business-areas.md).
+## <a name="links-to-learn-more"></a>Ссылки для получения дополнительных сведений
 
 В следующей таблице приведены некоторые общие функции со ссылками на разделы, в которых они описываются.
 
-| По | Ссылка |
+> [!NOTE]
+> В дополнение к общим функциям пользовательского интерфейса, описанным в этом разделе, можно использовать другие общие функции, которые более связаны с бизнесом. Дополнительные сведения см. в разделе [Общие бизнес-функции](ui-across-business-areas.md).
+
+| Задача  | Ссылка |
 | --- | --- |
 |Найдите конкретную страницу, отчет, действие, раздел справки или расширение партнера. |[Поиск страниц и информации с помощью функции "Что вы хотите сделать"](ui-search.md) |
 |Просмотр обзора страниц для вашей роли и других ролей, а также переход на эти страницы.|[Поиск страниц с помощью обозревателя ролей](ui-role-explorer.md)|
@@ -56,11 +59,22 @@ ms.locfileid: "2953927"
 
 > [!VIDEO https://www.youtube.com/embed/zqz03iMihx0]
 
-## <a name="see-related-training-at-microsoft-learnlearnpathswork-pro-data-dynamics-365-business-central"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/work-pro-data-dynamics-365-business-central/)
+## <a name="choosing-a-desktop-browser"></a>Выбор браузера рабочего стола
+
+[!INCLUDE[prodshort](includes/prodshort.md)] поддерживает несколько браузеров, каждый из которых предлагает различные функции и возможности. Браузер играет важную роль в отзывчивости и плавности пользовательского интерфейса. См. список поддерживаемых, рекомендуемых браузеров для [Business Central Online](https://go.microsoft.com/fwlink/?linkid=2110804) и браузеров для [локальной версии Business Central](https://go.microsoft.com/fwlink/?linkid=2110719).
+
+- По возможности избегайте старых браузеров, таких как Internet Explorer, и переходите на один из рекомендуемых нами современных браузеров, например [новый Microsoft Edge](https://www.microsoft.com/edge/).  
+
+    Internet Explorer все еще поддерживается, но так как теперь новый браузер Edge доступен для Windows Server, мы видим снижение уровня использования Internet Explorer. Вы также можете получить [пилотную версию Edge в режиме IE](https://www.microsoft.com/edge/business). Дополнительные сведения см. в [документации по Microsoft Edge](https://support.microsoft.com/hub/4337664/microsoft-edge-help).
+- Держите ваш браузер всегда обновленным до последней версии.
+
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/work-pro-data-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
+
 [Приступая к работе](product-get-started.md)  
 [Настройка Business Central](setup.md)  
 [Общие бизнес-функции](ui-across-business-areas.md)  
+[Советы по повышению эффективности для бизнес-пользователей](/dynamics365/business-central/dev-itpro/performance/performance-users?toc=/dynamics365/business-central/toc.json)
 
 ## [!INCLUDE[d365fin](includes/free_trial_md.md)]

@@ -5,23 +5,23 @@ author: edupont04
 ms.service: dynamics365-business-central
 ms.topic: get-started-article
 ms.search.keywords: setup wizard
-ms.date: 01/13/2020
+ms.date: 04/01/2020
 ms.author: edupont
-ms.openlocfilehash: 4ae2faf57007bef9525134fbdc1232e8c0103d56
-ms.sourcegitcommit: ead69ebe5b29927876a4fb23afb6c066f8854591
+ms.openlocfilehash: 62ee42fe2b6e03ad1137a50a38c1cd2ee4bfcd0f
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "2954263"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3190159"
 ---
-# <a name="getting-started-with-included365fin_longincludesd365fin_long_mdmd"></a>Приступая к работе с [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]
+# <a name="getting-started-with-d365fin_long"></a>Приступая к работе с [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]
 [!INCLUDE[d365fin](includes/d365fin_md.md)] — это решение по управлению деятельностью для малых и средних предприятий, позволяющее автоматизировать и упростить бизнес процессы и лучше управлять бизнесом. Регистрация очень проста, и вы можете перенести существующие бизнес-данные из своей системы.  
 
 Чтобы разобраться с подпиской, найдите партнера [!INCLUDE[d365fin](includes/d365fin_md.md)]. Для получения дополнительной информации см. раздел [Как найти партнера по перепродаже?](across-faq.md#findpartner),  
 
 После регистрации в [!INCLUDE [prodshort](includes/prodshort.md)] вы получаете доступ к демонстрационной организации. Демонстрационная организация содержит примеры данных, но вы можете создавать новые документы продажи или, например, настроить банковский счет. Однако, если вы хотите использовать [!INCLUDE [prodshort](includes/prodshort.md)] для управления бизнесом, вы должны связаться с партнером [!INCLUDE [prodshort](includes/prodshort.md)] и купить подписку. Для получения дополнительной информации о пробных версиях и подписках см. [Пробные версии и подписки](across-preview.md).  
 
-## <a name="get-to-know-included365finincludesd365fin_mdmd"></a>Обзор [!INCLUDE[d365fin](includes/d365fin_md.md)]
+## <a name="get-to-know-d365fin"></a>Обзор [!INCLUDE[d365fin](includes/d365fin_md.md)]
 
 В [!INCLUDE[d365fin](includes/d365fin_md.md)] некоторые моменты будут хорошо знакомы вам, а другие могут быть незнакомы. Краткие и полезные советы см. в разделах:  
 
@@ -38,20 +38,20 @@ ms.locfileid: "2954263"
 
 Когда вы будете готовы приступить к работе и захотите просмотреть некоторые бизнес-процессы, поддерживаемые в [!INCLUDE[d365fin](includes/d365fin_md.md)], см. раздел [Функциональные бизнес-возможности](across-business-functionality.md).
 
-Прежде чем вы сможете начать использовать функциональность, необходимо выполнить определенные настройки. Дополнительные сведения см. также в разделе [Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md).  
+Прежде чем вы сможете начать использовать функциональность, необходимо выполнить определенные настройки. Чтобы начать работу, просто выберите значок ![Значок шестеренки, чтобы открыть меню параметров](media/ui-experience/settings_icon_small.png), затем выберите действие **Мастер настройки**. Дополнительные сведения см. также в разделе [Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md).  
 
 > [!TIP]
-> Некоторые этапы настройки можно выполнить полуавтоматически с помощью мастеров настройки.
+> Некоторые этапы настройки можно выполнить полуавтоматически с помощью мастеров настройки. Другие требуют ручной настройки, и вы можете найти список на странице **Расширенные настройки**.
+
+<!--Some Role Center pages provide a **Setup and Extensions** button. Here you have access to a list of assisted setup guides that can help you get started by setting selected areas up quickly. If an area is not covered by an assisted setup, choose the **Manual Setup** action to access setup pages where you can fill in setup fields for all areas manually. For more information, see also [Setting Up [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md).  
+
+> [!NOTE]
+> The list of setup guides, extensions, and services that are available differ depending on the user experience you choose for your company. The **Essential** experience gives access to fewer than the **Premium** experience does. The first time you sign in, you use the Essential experience. For more information, see [Change Which Features are Displayed](ui-experiences.md).  -->
 
 Обзор текущих возможностей и возможностей, которые скоро появятся, см. в плане выпуска по ссылке [План выпуска Microsoft Dynamics 365 Business Central](https://go.microsoft.com/fwlink/?linkid=2047422).  
 
 ## <a name="the-role-centers"></a>Ролевые центры
 Страница ролевого центра основана на ориентированном на роль дизайне для предоставления быстрого доступа к бизнес-процессам и интеллектуальным инструментам, необходимым для выполнения работы. Например, бухгалтер может отслеживать платежи и утверждения, а также просматривать диаграммы финансового исполнения. Узнайте в проводнике ролей, какой доступ дает ваша текущая роль. Для получения дополнительной информации см. раздел [Поиск страниц с помощью обозревателя ролей](ui-role-explorer.md), Чтобы просмотреть различные ролевые центры, щелкните значок **Параметры** ![Параметры](media/ui-experience/settings_icon_small.png "Значок настроек для ролевого центра") в правом верхнем углу, щелкните **Мои настройки** и выберите ролевой центр для изучения. Вы автоматически вышли из системы и снова вошли, чтобы применить изменения. Дополнительные сведения см. в разделе [Изменение базовых настроек](ui-change-basic-settings.md).  
-
-Некоторые ролевые центры содержат кнопку **Настройка и расширения**. Здесь вы получаете доступ к списку мастера настройки, который может помочь облегчить начало работы за счет быстрой настройки выбранных областей. Если область не включена в сопровождаемую настройку, выберите действие **Ручная настройка** для доступа к страницам настройки, в которых можно заполнить поля настройки для всех областей вручную. Дополнительные сведения см. также в разделе [Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md).  
-
-> [!NOTE]
-> Список доступных руководств по настройке, расширений и служб отличается в зависимости от взаимодействия с пользователем, выбранного для организации. Функциональность **Essential** предоставляет доступ к меньшему числу компонентов, чем функциональность **Premium**. При первом входе в систему используется функциональность Essential. Дополнительные сведения см. в разделе [Изменение набора отображаемых функций](ui-experiences.md).  
 
 ## <a name="trying-things-out-in-your-own-company"></a>Изучение компонентов в собственной организации
 Думаете о том, чтобы подписаться? Вы можете легко перейти с демонстрационной организации, чтобы создать собственную организацию и работать в ней. Это отличный способ приблизиться к решению приобрести подписку. Предоставляются настройки для финансов, вам достаточно создать или импортировать собственных клиентов и поставщиков, а также продаваемые товары или услуги. После этого все готово для учета счетов и использования интеллектуальных инструментов для анализа вашего бизнеса. Вы можете бесплатно пользоваться своей организацией в течение 30-дневного пробного периода. Если вы подписываетесь на [!INCLUDE[d365fin](includes/d365fin_md.md)] в течение этого времени, все уже готово для работы. Вы можете продолжать то, что вы делали в течение пробного периода.  
@@ -77,7 +77,7 @@ ms.locfileid: "2954263"
 
 <!--COMMENTINGOUTTOREDUCENOISEIf you are an accountant, you can sign up for [!INCLUDE[d365acc_long](includes/d365acc_long_md.md)] and have seamless integration with [!INCLUDE[d365fin](includes/d365fin_md.md)]. For more information, see [Welcome to Dynamics 365 — Accountant Hub](/dynamics365/accountants/index).-->
 
-## <a name="see-related-training-at-microsoft-learnlearnpathsget-started-dynamics-365-business-central"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/get-started-dynamics-365-business-central/)
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/get-started-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 

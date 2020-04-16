@@ -9,14 +9,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms. search.keywords: app, add-in, manifest, customize, import, implement
-ms.date: 01/16/2020
+ms.date: 04/01/2020
 ms.author: edupont
-ms.openlocfilehash: b05959eea09289db7878145347362786ab336de8
-ms.sourcegitcommit: 877af26e3e4522ee234fbba606615e105ef3e90a
+ms.openlocfilehash: 89611f41192820e03ee055ce171aa55738809195
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/28/2020
-ms.locfileid: "2992149"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3194263"
 ---
 # <a name="the-dynamics-gp-data-migration-extension"></a>Расширение для миграции данных Dynamics GP 
 Это расширение позволяет легко переносить клиентов, поставщиков, товары, счета ГК, открытые транзакции кредиторской или дебиторской задолженности из Dynamics GP в [!INCLUDE[prodshort](includes/prodshort.md)]. Если сейчас ваша компания использует Dynamics GP, вы можете экспортировать соответствующие записи, а затем открыть руководство по сопровождаемой настройке, чтобы добавить данные в [!INCLUDE[prodshort](includes/prodshort.md)]. Расширение миграции работает для всех поддерживаемых версий Microsoft Dynamics GP. Дополнительные сведения см. в разделе [Импорт бизнес-данных из других финансовых систем](across-import-data-configuration-packages.md).

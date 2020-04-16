@@ -5,15 +5,15 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: ''
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: aecfea292cc627db9ef643f434306e78db0e83d3
-ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
+ms.openlocfilehash: ba33f5e802887788aad7c2eac4c122be58efb277
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "2554584"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3189211"
 ---
 # <a name="setting-up-tax-difference-calculation"></a>Настройка расчета налоговых разниц
 

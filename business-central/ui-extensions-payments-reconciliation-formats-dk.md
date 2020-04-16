@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms. search.keywords: extension, bank, formats
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.author: bholtorf
-ms.openlocfilehash: cad6f64ee74dd2c359f16e1bb723282c2a703b97
-ms.sourcegitcommit: d0dc5e5c46b932899e2a9c7183959d0ff37738d6
+ms.openlocfilehash: aa738f326782bacdc5450bbd78ea0dffb5646fa5
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "3076493"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3194071"
 ---
 # <a name="the-payments-and-reconciliations-dk-extension"></a>Расширение платежей и выверки (DK)
 Делайте быстрые платежи без ошибок, экспортируя файлы, форматированные специально для обмена документами с поставщиком или банком. Эти файлы ускоряют процессы платежей и выверки, а также устраняют ошибки, которые возможны при вводе информации вручную на веб-сайте банка.  
@@ -101,5 +101,4 @@ ms.locfileid: "3076493"
 ## <a name="see-also"></a>См. также
 [Настройка Business Central для [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью расширений](ui-extensions.md)  
 [Сбор платежей с прямым дебетом SEPA](finance-collect-payments-with-sepa-direct-debit.md)  
-[Учет платежной квитанции по прямому дебету SEPA](finance-how-to-post-sepa-direct-debit-payment-receipts.md)  
 [Работа с финансовыми журналами](ui-work-general-journals.md)  

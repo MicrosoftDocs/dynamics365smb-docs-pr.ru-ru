@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: trade
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: 76fc6081cf1dd27cc1e8f6c3611e60cb0ef7d37f
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 5fefafc1ca8ac7f5cd9862ff741a0f0fd9fec7ff
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2312104"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3194023"
 ---
 # <a name="sell-products"></a>Продажа продуктов
 Счет продажи или заказ на продажу создаются для записи соглашения с клиентом о продаже определенных товаров на определенных условиях доставки и оплаты.
@@ -42,7 +42,7 @@ ms.locfileid: "2312104"
 Можно заполнить поля клиента в заказе на продажу двумя способами в зависимости от того, зарегистрирован ли уже клиент. См. шаги 2 и 3 в следующей процедуре.
 
 ## <a name="to-create-a-sales-order"></a>Создание заказа на продажу
-1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Заказы на продажу**, а затем выберите соответствующую ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Заказы на продажу**, затем выберите соответствующую ссылку.
 2. В поле **Клиент** введите название существующего клиента.
 
     Остальные поля на странице **Заказ на продажу** заполнятся стандартными сведениями о выбранном клиенте. Если клиент не зарегистрирован, выполните следующие действия.
@@ -128,6 +128,6 @@ ms.locfileid: "2312104"
 ## <a name="see-also"></a>См. также
 [Продажи](sales-manage-sales.md)  
 [Настройка продаж](sales-setup-sales.md)  
-[Наличие](inventory-manage-inventory.md)  
+[Запасы](inventory-manage-inventory.md)  
 [Отправка документов по электронной почте](ui-how-send-documents-email.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

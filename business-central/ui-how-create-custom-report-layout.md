@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: customized report, document layout, logo, personalize
-ms.date: 01/13/2020
+ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: 0b469458490d08475d81f767a88a99c84a4daad6
-ms.sourcegitcommit: ead69ebe5b29927876a4fb23afb6c066f8854591
+ms.openlocfilehash: defa6662a66e23d70d519861dbacd6d5036da589
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "2953231"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3189967"
 ---
 # <a name="create-and-modify-custom-report-layouts"></a>Создание и изменение пользовательских макетов отчетов
 По умолчанию отчет будет иметь встроенный макет отчета RDLC или Word либо оба типа. Невозможно изменить встроенные макеты. Однако можно создать собственные пользовательские макеты, с помощью которых можно изменить внешний вид отчета при его просмотре, печати или сохранении. Можно создать несколько пользовательских макетов ответов для одного отчета, а затем при необходимости переключаться между макетами, которые используются в отчете.
@@ -51,7 +51,7 @@ ms.locfileid: "2953231"
 
 Пользовательский макет создан. Теперь пользовательский макет можно изменять при необходимости.
 
-## <a name="ModifyCustomLayout"></a>Изменение пользовательского макета
+## <a name="modifying-a-custom-layout"></a><a name="ModifyCustomLayout"></a>Изменение пользовательского макета
 Чтобы изменить макет отчета, сначала следует экспортировать макет отчета как файл в расположение на компьютере или в сети, а затем открыть экспортированный документ и внести изменения. По завершении внесения изменений необходимо импортировать макет отчета.
 
 ### <a name="to-modify-a-custom-layout"></a>Изменение пользовательского макета
@@ -70,7 +70,7 @@ ms.locfileid: "2953231"
 
 5. В диалоговом окне **Импорт** выберите **Выбрать**, чтобы найти и выбрать документ макета отчета, затем выберите **Открыть**.
 
-##  <a name="MakeChangesToLayout"></a> Создание и изменение пользовательских макетов отчетов  
+##  <a name="create-and-modify-custom-report-layouts"></a><a name="MakeChangesToLayout"></a> Создание и изменение пользовательских макетов отчетов  
 Чтобы внести общие изменения формата и макета, такие как изменение шрифта текста, добавление и изменение таблицы или удаление поля данных, просто используйте базовые функции редактирования в Word, как это делается в обычных документах Word.
 
 При разработке макета отчета Word с нуля или добавлении новых полей данных сначала добавьте таблицу, включающую строки и столбцы, в которых, в конечном счете, будут содержаться поля данных.
@@ -82,7 +82,7 @@ ms.locfileid: "2953231"
 
 Чтобы отчеты всегда отображались и печатались с использованием предусмотренного шрифта независимо от того, где пользователь открывает или печатает отчеты, можно внедрить шрифты в документ Word. Однако помните, что внедренные шрифты значительно увеличивают размер файлов Word. Дополнительные сведения о внедрении шрифтов в Word см. в разделе [Внедрение шрифтов в Word, PowerPoint или Excel](https://support.office.com/article/Embed-fonts-in-Word-PowerPoint-or-Excel-cb3982aa-ea76-4323-b008-86670f222dbc).
 
-###  <a name="RemoveField"></a> Удаление меток и полей данных в макетах Word  
+###  <a name="removing-label-and-data-fields-in-word-layouts"></a><a name="RemoveField"></a> Удаление меток и полей данных в макетах Word  
  Поля меток и данных отчета содержатся в элементах управления содержимым в Word. На следующем рисунке показан элемент управления содержимым при выборе в документе Word.  
 
  ![Управление содержимым поля в макете отчета Word](media/nav_wordreportlayouts_contentcontrol.png "NAV_WordReportLayouts_ContentControl")  
@@ -100,7 +100,7 @@ ms.locfileid: "2953231"
 ### <a name="adding-data-fields"></a>Добавление полей данных
 Добавление полей данных из набора данных отчета является более усовершенствованным и требует определенных знаний набора данных отчета. Сведения о добавлении полей для данных, меток, данных и изображений см. в разделе [Добавление полей в макет отчета Word](ui-how-add-fields-word-report-layout.md).  
 
-## <a name="see-related-training-at-microsoft-learnlearnmoduleschange-documents-dynamics-365-business-centralindex"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/change-documents-dynamics-365-business-central/index)
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/change-documents-dynamics-365-business-central/index)
 
 ## <a name="see-also"></a>См. также
 [Управление макетами отчетов](ui-manage-report-layouts.md)  

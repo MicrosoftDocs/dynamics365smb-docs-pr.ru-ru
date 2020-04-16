@@ -5,15 +5,15 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: ''
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 0bce46a3dfe886dea5b2958940ee8821fac033d1
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: ae975126342192553b63c419c4f117845701b447
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2301139"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3189226"
 ---
 # <a name="inventory-act-of-receivables-and-payables-inv-17"></a>Акт инвентаризации расчетов с клиентами и поставщиками ИНВ-17
 
@@ -26,7 +26,7 @@ ms.locfileid: "2301139"
 
 Ниже приводится процедура настройки серии номеров для актов инвентаризации. 
 
-1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка ГК**, а затем выберите соответствующую ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка ГК**, затем выберите соответствующую ссылку.
 2. В окне **Настройка ГК** заполните поле **Серия ном. актов инв. расч. с контрагентами**.
 
 ## <a name="inventory-act-processing"></a>Обработка актов инвентаризации

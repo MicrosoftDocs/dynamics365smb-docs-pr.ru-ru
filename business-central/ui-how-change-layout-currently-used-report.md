@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: customized report, document layout, logo, personalize
-ms.date: 01/13/2020
+ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: b6c11e58694e68918ab5f4d5bd48bd7a43beb8f1
-ms.sourcegitcommit: ead69ebe5b29927876a4fb23afb6c066f8854591
+ms.openlocfilehash: 74d161636d9110fcc366733245951e3044662e80
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "2953255"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3193822"
 ---
 # <a name="change-the-current-report-layout"></a>Смена текущего макета отчета
 Отчет можно настроить с использованием нескольких макетов, между которыми затем при необходимости можно будет переключаться.
@@ -55,7 +55,7 @@ ms.locfileid: "2953255"
 
 Теперь вы можете перейти к карточкам своих клиентов и поставщиков, чтобы указать, какой из макетов использовать для различных документов, которые вы создаете для данного клиента или поставщика, например при подтверждении заказа или напоминании об оплате. Для получения дополнительной информации см. [Определение макетов документов для клиентов и поставщиков](ui-define-customer-vendor-document-layouts.md).
 
-## <a name="see-related-training-at-microsoft-learnlearnmoduleschange-documents-dynamics-365-business-centralindex"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/change-documents-dynamics-365-business-central/index)
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/change-documents-dynamics-365-business-central/index)
 
 ## <a name="see-also"></a>См. также
 [Управление макетами отчетов](ui-manage-report-layouts.md)  

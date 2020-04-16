@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: service, service item, troubleshoot, repairs, maintenance
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: 6a0a4b49b957d082ad66178aabd1ccc532011885
-ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
+ms.openlocfilehash: 2e962552bf091e095a968f6f312e852e02aad8d6
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "2877308"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3195020"
 ---
 # <a name="setting-up-troubleshooting-for-service-items"></a>Настройка устранения неполадок для сервисных товаров
 Можно настроить руководства по устранению неполадок, которые помогают техническим специалистам устранять проблемы при обслуживании. Например, руководство может являться списком операций при выполнении ремонта или последовательностью вопросов, которые требуется задать о товарах. После настройки руководство по устранению неисправностей их можно назначить группам сервисных товаров, сервисным товарам или товарам. Для руководств предусмотрена иерархия наследования. Если назначить их группе сервисных товаров, включенных в эту группу товары будут наследовать эти руководства, если они не будут указаны для товаров. Аналогично, сервисные товары будут наследовать из товаров.  

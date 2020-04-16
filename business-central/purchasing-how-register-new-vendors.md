@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: supplier
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: 7ab77dd3c154c81172037e07fb6decf4ad907f5b
-ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
+ms.openlocfilehash: e780967fda8e5c4e8b3a1f2e5e3ed3a05418507d
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "2883098"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3191047"
 ---
 # <a name="register-new-vendors"></a>Регистрация новых поставщиков
 Поставщики предоставляют продукцию, которую вы продаете. Каждый поставщик, у которого производится покупка, должен быть зарегистрирован в карточке поставщика.
@@ -30,7 +30,7 @@ ms.locfileid: "2883098"
 >   Если существуют шаблоны поставщиков для различных типов поставщиков, при создании новой карточки поставщика отобразится страница, с которой можно выбрать подходящий шаблон. Если существует только один шаблон поставщика, для создания новых карточек поставщиков всегда используется этот шаблон.
 <br><br>  
 
-> [!Video https://www.microsoft.com/videoplayer/embed/RE3PZtd]
+> [!Video https://www.microsoft.com/videoplayer/embed/RE3PZtd?rel=0]
 
 ## <a name="to-create-a-new-vendor-card"></a>Создание новой карточки поставщика
 1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Поставщики**, затем выберите соответствующую ссылку.  

@@ -5,15 +5,15 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: ''
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 7a8d26aaa0b80d536216de66e5ecd4b4fc3d39a5
-ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
+ms.openlocfilehash: f028a6f8f4eab02d69be97f76ac8c77ce14fc7da
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "2554466"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3189224"
 ---
 # <a name="inventory-setup"></a>Настройка запасов
 

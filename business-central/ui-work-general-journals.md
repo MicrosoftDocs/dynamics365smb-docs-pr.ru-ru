@@ -7,14 +7,14 @@ ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.date: 01/13/2020
+ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: 5ea488bc03ffa64b0d6c4b5c1466ddf01ca52ab1
-ms.sourcegitcommit: ead69ebe5b29927876a4fb23afb6c066f8854591
+ms.openlocfilehash: 424951481336855c5142016dbc9409c96c51dbf3
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "2953903"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3189361"
 ---
 # <a name="working-with-general-journals"></a>Работа с финансовыми журналами
 
@@ -158,7 +158,7 @@ ms.locfileid: "2953903"
 
 Значение поля **Номер документа** при необходимости изменяется таким образом, чтобы номера документов в отдельных или сгруппированных строках журнала располагались в последовательном порядке. После того как документы перенумерованы, можно продолжить учет журнала.
 
-## <a name="see-related-training-at-microsoft-learnlearnpathsuse-journals-dynamics-365-business-central"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/use-journals-dynamics-365-business-central/)
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/use-journals-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 [Учет транзакций непосредственно в главной книге](finance-how-post-transactions-directly.md)  

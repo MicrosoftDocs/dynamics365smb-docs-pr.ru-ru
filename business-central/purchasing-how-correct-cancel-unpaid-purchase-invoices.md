@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: undo, credit memo, return
-ms.date: 01/25/2020
+ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: 2896bfc5cafed679bd54dced6c7726a1c49859de
-ms.sourcegitcommit: 877af26e3e4522ee234fbba606615e105ef3e90a
+ms.openlocfilehash: 3d0d1234a6459b153a436ed2dfe9a3a2f667ab89
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/28/2020
-ms.locfileid: "2992028"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3192751"
 ---
 # <a name="correct-or-cancel-unpaid-purchase-invoices"></a>Исправление или отмена неоплаченных счетов покупки
 Можно исправить или отменить учтенный счет покупки. Это используется, если нужно исправить опечатку либо внести изменение в покупку на раннем этапе обработки заказа.
@@ -24,7 +24,7 @@ ms.locfileid: "2992028"
 
 На странице **Учтенный счет покупки** можно нажать кнопку **Исправить** или **Отмена**. При корректировке или отмене учтенного счета покупки корректирующая кредит-нота покупки применяется ко всем операциям ГК и журнала товаров, созданным при учете первоначального счета покупки. При этом сторнируется учтенный счет покупки в финансовых записях и оставляется корректирующая учтенная кредит-нота покупки для аудиторского следа. Ниже описано использование кнопок **Исправить** и **Отмена**.
 <br><br>
-> [!Video https://www.microsoft.com/videoplayer/embed/RE4dhoc]
+> [!Video https://www.microsoft.com/videoplayer/embed/RE4dhoc?rel=0]
 
 ## <a name="to-correct-a-posted-purchase-invoice"></a>Коррекция учтенного счета покупки
 1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Учтенные счета покупки**, затем выберите соответствующую ссылку.  
