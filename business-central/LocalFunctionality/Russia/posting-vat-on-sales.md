@@ -5,54 +5,54 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: ''
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 4831150adc68fe3ef088fe673d648a543c0d00c0
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 6727b8dff40d92c5464102615d6403ed86392339
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2301131"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3189216"
 ---
-# <a name="posting-vat-on-sales"></a><span data-ttu-id="f57ae-103">Учет НДС в продажах</span><span class="sxs-lookup"><span data-stu-id="f57ae-103">Posting VAT on Sales</span></span>
+# <a name="posting-vat-on-sales"></a><span data-ttu-id="3d3df-103">Учет НДС в продажах</span><span class="sxs-lookup"><span data-stu-id="3d3df-103">Posting VAT on Sales</span></span>
 
-<span data-ttu-id="f57ae-104">В окно **Настройка учета НДС** (код 472) были добавлены следующие поля:</span><span class="sxs-lookup"><span data-stu-id="f57ae-104">The following fields have been added to the **VAT Posting Setup** window (ID 472):</span></span>
+<span data-ttu-id="3d3df-104">В окно **Настройка учета НДС** (код 472) были добавлены следующие поля:</span><span class="sxs-lookup"><span data-stu-id="3d3df-104">The following fields have been added to the **VAT Posting Setup** window (ID 472):</span></span>
 
-| <span data-ttu-id="f57ae-105">Поле</span><span class="sxs-lookup"><span data-stu-id="f57ae-105">Field</span></span>                       | <span data-ttu-id="f57ae-106">Описание</span><span class="sxs-lookup"><span data-stu-id="f57ae-106">Description</span></span>                                                  |
+| <span data-ttu-id="3d3df-105">Поле</span><span class="sxs-lookup"><span data-stu-id="3d3df-105">Field</span></span>                       | <span data-ttu-id="3d3df-106">Описание</span><span class="sxs-lookup"><span data-stu-id="3d3df-106">Description</span></span>                                                  |
 | :-------------------------- | :----------------------------------------------------------- |
-| <span data-ttu-id="f57ae-107">**Тип транз. НДС**</span><span class="sxs-lookup"><span data-stu-id="f57ae-107">**Trans. VAT Type**</span></span>         | <span data-ttu-id="f57ae-108">Используется для определения правила выделения НДС.</span><span class="sxs-lookup"><span data-stu-id="f57ae-108">Used to define the rule for extracting VAT.</span></span>                  |
-| <span data-ttu-id="f57ae-109">**НДС транз. счет ГК**</span><span class="sxs-lookup"><span data-stu-id="f57ae-109">**Trans. VAT Account**</span></span>      | <span data-ttu-id="f57ae-110">Используется для указания счета регистрации суммы НДС от реализации и предоплат клиента, которая должна уплачиваться в федеральный бюджет.</span><span class="sxs-lookup"><span data-stu-id="f57ae-110">Used to specify an account to register the VAT amount from the gain and from the customer's prepayments to be paid to the federal budget.</span></span> |
-| <span data-ttu-id="f57ae-111">**Тип суммы для счета-фактуры**</span><span class="sxs-lookup"><span data-stu-id="f57ae-111">**Tax Invoice Amount Type**</span></span> | <span data-ttu-id="f57ae-112">Используется для выбора значения НДС.</span><span class="sxs-lookup"><span data-stu-id="f57ae-112">Used to select the value of VAT.</span></span> <span data-ttu-id="f57ae-113">В зависимости от значения в этом поле введенные суммы НДС используются в разных столбцах книг НДС покупок или продаж.</span><span class="sxs-lookup"><span data-stu-id="f57ae-113">Depending on the value in this field, VAT entry amounts are used in different columns of the VAT purchase or sales ledgers.</span></span> |
+| <span data-ttu-id="3d3df-107">**Тип транз. НДС**</span><span class="sxs-lookup"><span data-stu-id="3d3df-107">**Trans. VAT Type**</span></span>         | <span data-ttu-id="3d3df-108">Используется для определения правила выделения НДС.</span><span class="sxs-lookup"><span data-stu-id="3d3df-108">Used to define the rule for extracting VAT.</span></span>                  |
+| <span data-ttu-id="3d3df-109">**НДС транз. счет ГК**</span><span class="sxs-lookup"><span data-stu-id="3d3df-109">**Trans. VAT Account**</span></span>      | <span data-ttu-id="3d3df-110">Используется для указания счета регистрации суммы НДС от реализации и предоплат клиента, которая должна уплачиваться в федеральный бюджет.</span><span class="sxs-lookup"><span data-stu-id="3d3df-110">Used to specify an account to register the VAT amount from the gain and from the customer's prepayments to be paid to the federal budget.</span></span> |
+| <span data-ttu-id="3d3df-111">**Тип суммы для счета-фактуры**</span><span class="sxs-lookup"><span data-stu-id="3d3df-111">**Tax Invoice Amount Type**</span></span> | <span data-ttu-id="3d3df-112">Используется для выбора значения НДС.</span><span class="sxs-lookup"><span data-stu-id="3d3df-112">Used to select the value of VAT.</span></span> <span data-ttu-id="3d3df-113">В зависимости от значения в этом поле введенные суммы НДС используются в разных столбцах книг НДС покупок или продаж.</span><span class="sxs-lookup"><span data-stu-id="3d3df-113">Depending on the value in this field, VAT entry amounts are used in different columns of the VAT purchase or sales ledgers.</span></span> |
 
-<span data-ttu-id="f57ae-114">Указанные действия выполняются для каждой комбинации учетной группы НДС продаж продукта и учетной группы НДС продаж.</span><span class="sxs-lookup"><span data-stu-id="f57ae-114">The above actions are taken for each combination of the Sales VAT Product posting group and Sales VAT posting group.</span></span> 
+<span data-ttu-id="3d3df-114">Указанные действия выполняются для каждой комбинации учетной группы НДС продаж продукта и учетной группы НДС продаж.</span><span class="sxs-lookup"><span data-stu-id="3d3df-114">The above actions are taken for each combination of the Sales VAT Product posting group and Sales VAT posting group.</span></span> 
 
-<span data-ttu-id="f57ae-115">Для поля **Тип транз. НДС** возможны следующие значения:</span><span class="sxs-lookup"><span data-stu-id="f57ae-115">In the **Trans. VAT Type** field, the following options are available:</span></span>
+<span data-ttu-id="3d3df-115">Для поля **Тип транз. НДС** возможны следующие значения:</span><span class="sxs-lookup"><span data-stu-id="3d3df-115">In the **Trans. VAT Type** field, the following options are available:</span></span>
 
-- <span data-ttu-id="f57ae-116">**Сумма + налог**</span><span class="sxs-lookup"><span data-stu-id="f57ae-116">**Amount + Tax**</span></span>
-- <span data-ttu-id="f57ae-117">**Сумма и налог**</span><span class="sxs-lookup"><span data-stu-id="f57ae-117">**Amount & Tax**</span></span>
+- <span data-ttu-id="3d3df-116">**Сумма + налог**</span><span class="sxs-lookup"><span data-stu-id="3d3df-116">**Amount + Tax**</span></span>
+- <span data-ttu-id="3d3df-117">**Сумма и налог**</span><span class="sxs-lookup"><span data-stu-id="3d3df-117">**Amount & Tax**</span></span>
 
-<span data-ttu-id="f57ae-118">Для учета НДС выберите действие **Сумма + налог**.</span><span class="sxs-lookup"><span data-stu-id="f57ae-118">To account for VAT, choose the **Amount + Tax** action.</span></span>
+<span data-ttu-id="3d3df-118">Для учета НДС выберите действие **Сумма + налог**.</span><span class="sxs-lookup"><span data-stu-id="3d3df-118">To account for VAT, choose the **Amount + Tax** action.</span></span>
 
-<span data-ttu-id="f57ae-119">Ниже приводится процедура создания бухгалтерских проводок.</span><span class="sxs-lookup"><span data-stu-id="f57ae-119">The following procedure shows how the accounting entries are created.</span></span>
+<span data-ttu-id="3d3df-119">Ниже приводится процедура создания бухгалтерских проводок.</span><span class="sxs-lookup"><span data-stu-id="3d3df-119">The following procedure shows how the accounting entries are created.</span></span>
 
-1. <span data-ttu-id="f57ae-120">Введите в поле **Номер счета НДС транз.** значение "Субсчет 90-3, Налог на добавленную стоимость".</span><span class="sxs-lookup"><span data-stu-id="f57ae-120">In the **Trans. VAT Account No.** field, enter Subaccount 90-3, Gain VAT.</span></span>
-2. <span data-ttu-id="f57ae-121">В поле **Счет НДС продаж** введите "Субсчет 68, Расчеты по налогам и сборам".</span><span class="sxs-lookup"><span data-stu-id="f57ae-121">In the **Sales VAT Account** field, enter Subaccount 68, VAT to Federal Budget.</span></span>
+1. <span data-ttu-id="3d3df-120">Введите в поле **Номер счета НДС транз.** значение "Субсчет 90-3, Налог на добавленную стоимость".</span><span class="sxs-lookup"><span data-stu-id="3d3df-120">In the **Trans. VAT Account No.** field, enter Subaccount 90-3, Gain VAT.</span></span>
+2. <span data-ttu-id="3d3df-121">В поле **Счет НДС продаж** введите "Субсчет 68, Расчеты по налогам и сборам".</span><span class="sxs-lookup"><span data-stu-id="3d3df-121">In the **Sales VAT Account** field, enter Subaccount 68, VAT to Federal Budget.</span></span>
 
-<span data-ttu-id="f57ae-122">Следующие бухгалтерские проводки создают различные настройки.</span><span class="sxs-lookup"><span data-stu-id="f57ae-122">The following accounting entries create the different settings.</span></span>
+<span data-ttu-id="3d3df-122">Следующие бухгалтерские проводки создают различные настройки.</span><span class="sxs-lookup"><span data-stu-id="3d3df-122">The following accounting entries create the different settings.</span></span>
 
  
 
-| <span data-ttu-id="f57ae-123">Бухгалтерские проводки</span><span class="sxs-lookup"><span data-stu-id="f57ae-123">Accounting Entries</span></span> | <span data-ttu-id="f57ae-124">Параметры</span><span class="sxs-lookup"><span data-stu-id="f57ae-124">Settings</span></span>                                                     |
+| <span data-ttu-id="3d3df-123">Бухгалтерские проводки</span><span class="sxs-lookup"><span data-stu-id="3d3df-123">Accounting Entries</span></span> | <span data-ttu-id="3d3df-124">Параметры</span><span class="sxs-lookup"><span data-stu-id="3d3df-124">Settings</span></span>                                                     |
 | :----------------- | :----------------------------------------------------------- |
-| <span data-ttu-id="f57ae-125">**Сумма + налог**</span><span class="sxs-lookup"><span data-stu-id="f57ae-125">**Amount + Tax**</span></span>   | <span data-ttu-id="f57ae-126">Дебет 62 Поступления и платежи - Кредит 90-1 выручка от продажи   Дебет 90-3 Налог на добавленную стоимость   Кредит 68 Расчеты по налогам и сборам   Сумма НДС продаж</span><span class="sxs-lookup"><span data-stu-id="f57ae-126">Debit 62 Payables and Receivables - Credit 90-1 Gain and Sales Amount Including VAT   Debit 90-3 Gain VAT   Credit 68 VAT to Federal Budget   Sales VAT Amount</span></span> |
-| <span data-ttu-id="f57ae-127">**Сумма и налог**</span><span class="sxs-lookup"><span data-stu-id="f57ae-127">**Amount & Tax**</span></span>   | <span data-ttu-id="f57ae-128">Дебет 62 Поступления и платежи   Кредит 90-1 Прибыль   Сумма Без НДС   Дебет 62 Поступления и платежи   Кредит 90-3 Налог на добавленную стоимость   Сумма НДС продаж   Дебет 90-3 Налог на добавленную стоимость   Кредит 68 Расчеты по налогам и сборам   Сумма НДС продаж</span><span class="sxs-lookup"><span data-stu-id="f57ae-128">Debit 62 Payables and Receivables   Credit 90-1 Gain   Amount Excluding VAT   Debit 62 Payables and Receivables   Credit 90-3 Gain VAT   Sales VAT Amount   Debit 90-3 Gain VAT   Credit 68 VAT to Budget   Sales VAT amount</span></span> |
-|                    | <span data-ttu-id="f57ae-129">Дебет 62 Поступления и платежи   Кредит 90-1 Прибыль   Сумма Без НДС   Дебет 62 Поступления и платежи   Кредит 68 Расчеты по налогам и сборам   Сумма НДС продаж</span><span class="sxs-lookup"><span data-stu-id="f57ae-129">Debit 62 Payables and Receivables   Credit 90-1 Gain   Amount Excluding VAT   Debit 62 Payables and Receivables   Credit 68 VAT to Budget   Sales VAT Amount</span></span> |
+| <span data-ttu-id="3d3df-125">**Сумма + налог**</span><span class="sxs-lookup"><span data-stu-id="3d3df-125">**Amount + Tax**</span></span>   | <span data-ttu-id="3d3df-126">Дебет 62 Поступления и платежи - Кредит 90-1 выручка от продажи   Дебет 90-3 Налог на добавленную стоимость   Кредит 68 Расчеты по налогам и сборам   Сумма НДС продаж</span><span class="sxs-lookup"><span data-stu-id="3d3df-126">Debit 62 Payables and Receivables - Credit 90-1 Gain and Sales Amount Including VAT   Debit 90-3 Gain VAT   Credit 68 VAT to Federal Budget   Sales VAT Amount</span></span> |
+| <span data-ttu-id="3d3df-127">**Сумма и налог**</span><span class="sxs-lookup"><span data-stu-id="3d3df-127">**Amount & Tax**</span></span>   | <span data-ttu-id="3d3df-128">Дебет 62 Поступления и платежи   Кредит 90-1 Прибыль   Сумма Без НДС   Дебет 62 Поступления и платежи   Кредит 90-3 Налог на добавленную стоимость   Сумма НДС продаж   Дебет 90-3 Налог на добавленную стоимость   Кредит 68 Расчеты по налогам и сборам   Сумма НДС продаж</span><span class="sxs-lookup"><span data-stu-id="3d3df-128">Debit 62 Payables and Receivables   Credit 90-1 Gain   Amount Excluding VAT   Debit 62 Payables and Receivables   Credit 90-3 Gain VAT   Sales VAT Amount   Debit 90-3 Gain VAT   Credit 68 VAT to Budget   Sales VAT amount</span></span> |
+|                    | <span data-ttu-id="3d3df-129">Дебет 62 Поступления и платежи   Кредит 90-1 Прибыль   Сумма Без НДС   Дебет 62 Поступления и платежи   Кредит 68 Расчеты по налогам и сборам   Сумма НДС продаж</span><span class="sxs-lookup"><span data-stu-id="3d3df-129">Debit 62 Payables and Receivables   Credit 90-1 Gain   Amount Excluding VAT   Debit 62 Payables and Receivables   Credit 68 VAT to Budget   Sales VAT Amount</span></span> |
 
-## <a name="trans-vat-account-field"></a><span data-ttu-id="f57ae-130">Поле "НДС транз. счет ГК"</span><span class="sxs-lookup"><span data-stu-id="f57ae-130">Trans. VAT Account Field</span></span>
+## <a name="trans-vat-account-field"></a><span data-ttu-id="3d3df-130">Поле "НДС транз. счет ГК"</span><span class="sxs-lookup"><span data-stu-id="3d3df-130">Trans. VAT Account Field</span></span>
 
-<span data-ttu-id="f57ae-131">В поле **НДС транз. счет ГК** введите субсчет 90-3, "Налог на добавленную стоимость", или субсчет 62 "НДС по предоплате".</span><span class="sxs-lookup"><span data-stu-id="f57ae-131">In the **Trans. VAT Account** field, enter Subaccount 90-3 Gain VAT or Subaccount 62 Prepayment VAT.</span></span> <span data-ttu-id="f57ae-132">Если это поле пустое, для учета будет использоваться счет из учетных групп клиентов из поля **Счет дебиторской задолженности**.</span><span class="sxs-lookup"><span data-stu-id="f57ae-132">If this field is blank, the postings use the account from the Customer posting groups from the **Receivables Account** field.</span></span>
+<span data-ttu-id="3d3df-131">В поле **НДС транз. счет ГК** введите субсчет 90-3, "Налог на добавленную стоимость", или субсчет 62 "НДС по предоплате".</span><span class="sxs-lookup"><span data-stu-id="3d3df-131">In the **Trans. VAT Account** field, enter Subaccount 90-3 Gain VAT or Subaccount 62 Prepayment VAT.</span></span> <span data-ttu-id="3d3df-132">Если это поле пустое, для учета будет использоваться счет из учетных групп клиентов из поля **Счет дебиторской задолженности**.</span><span class="sxs-lookup"><span data-stu-id="3d3df-132">If this field is blank, the postings use the account from the Customer posting groups from the **Receivables Account** field.</span></span>
 
-## <a name="see-also"></a><span data-ttu-id="f57ae-133">См. также</span><span class="sxs-lookup"><span data-stu-id="f57ae-133">See Also</span></span>
+## <a name="see-also"></a><span data-ttu-id="3d3df-133">См. также</span><span class="sxs-lookup"><span data-stu-id="3d3df-133">See Also</span></span>
 
-[<span data-ttu-id="f57ae-134">Книги НДС</span><span class="sxs-lookup"><span data-stu-id="f57ae-134">VAT Ledgers</span></span>](VAT-Ledgers.md)  
+[<span data-ttu-id="3d3df-134">Книги НДС</span><span class="sxs-lookup"><span data-stu-id="3d3df-134">VAT Ledgers</span></span>](VAT-Ledgers.md)  
