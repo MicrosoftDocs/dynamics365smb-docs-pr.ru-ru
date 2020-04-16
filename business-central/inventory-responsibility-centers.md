@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: ac4415423a7e40332d56193ea3a183bae329a48f
-ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
+ms.openlocfilehash: 9aea2f4af1e7b8095d6768de94ae6b3c46479f80
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "2878225"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3181800"
 ---
 # <a name="work-with-responsibility-centers"></a>Работа с центрами ответственности
 Центры ответственности обеспечивают возможность работы с центрами администрирования. Центр ответственности может быть центром затрат, центром прибыли, центром инвестиций или другим определенным организацией центром. Примеры центров ответственности: отдел продаж, отдел снабжения для нескольких складов и отдел планирования завода. Используя данную функцию, организации могут, например, задавать пользовательские представления документов продажи и покупки, относящиеся к исключительно к конкретному центру ответственности.  

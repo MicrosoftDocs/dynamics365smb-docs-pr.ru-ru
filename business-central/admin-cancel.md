@@ -8,20 +8,20 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: remove, delete
-ms.date: 11/14/2019
+ms.date: 04/01/2020
 ms.author: edupont
-ms.openlocfilehash: c0df60e72db192f72cbda18882f99f6f66aabe4f
-ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
+ms.openlocfilehash: f48f5785ffc62b124b26764da5e86838c1e01dfa
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "2878633"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3187440"
 ---
-# <a name="unsubscribe-or-remove-includeprodshortincludesprodshortmd"></a>Отмена подписки или удаление [!INCLUDE[prodshort](includes/prodshort.md)]
+# <a name="unsubscribe-or-remove-prodshort"></a>Отмена подписки или удаление [!INCLUDE[prodshort](includes/prodshort.md)]
 
 Если вы хотите прекратить пользоваться [!INCLUDE[d365fin](includes/d365fin_md.md)], вы можете закрыть свою учетную запись или попросить удалить лицензию из вашей учетной записи. Действия, которые необходимо предпринять, отличаются в зависимости от того, пользуетесь ли вы бесплатной пробной версией или у вас есть подписка.  
 
-## <a name="closing-your-free-trial-of-includeprodshortincludesprodshortmd"></a>Прекращение бесплатного пробного пользования [!INCLUDE[prodshort](includes/prodshort.md)]
+## <a name="closing-your-free-trial-of-prodshort"></a>Прекращение бесплатного пробного пользования [!INCLUDE[prodshort](includes/prodshort.md)]
 
 Если вы зарегистрировались на бесплатное пробное пользование, но не хотите продолжать пользоваться [!INCLUDE[d365fin](includes/d365fin_md.md)], вы можете в любой момент закрыть свою учетную запись. Перед закрытием учетной записи рекомендуем экспортировать данные, если они у вас есть. 
 
@@ -29,7 +29,7 @@ ms.locfileid: "2878633"
 
 Если вы зарегистрировались на [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью учетной записи, не являющейся деловой учетной записью Office 365, у вас нет администратора Office 365. Вместо этого следует отменить подписку, связавшись с отделом отмены [!INCLUDE[d365fin](includes/d365fin_md.md)] путем отправки сообщения электронной почты по адресу cancelbusinesscentra@microsoft.com. Вы должны указать имя своего арендатора [!INCLUDE[d365fin](includes/d365fin_md.md)] в сообщении, чтобы мы могли идентифицировать вас. Вы можете найти эту информацию на странице **Справка и поддержка**. Дополнительные сведения см. в разделе [Ресурсы по Справке и поддержке](product-help-and-support.md).  
 
-## <a name="unsubscribing-by-removing-included365finincludesd365fin_mdmd-from-your-office-365-experience"></a>Отмена подписки путем удаления [!INCLUDE[d365fin](includes/d365fin_md.md)] из Office 365
+## <a name="unsubscribing-by-removing-d365fin-from-your-office-365-experience"></a>Отмена подписки путем удаления [!INCLUDE[d365fin](includes/d365fin_md.md)] из Office 365
 
 Если ваша компания подписывается на [!INCLUDE [prodshort](includes/prodshort.md)], но вам, как пользователю, больше не нужен доступ, вы должны попросить администратора или партнера Dynamics 365 удалить лицензию [!INCLUDE[d365fin](includes/d365fin_md.md)] из вашей учетной записи пользователя Office 365. Если [!INCLUDE[d365fin](includes/d365fin_md.md)] удаляется из вашей учетной записи, а другие пользователи в организации продолжают использовать подписку, они по-прежнему будут иметь доступ к общим данным в организации [!INCLUDE[d365fin](includes/d365fin_md.md)].  
 
@@ -37,7 +37,7 @@ ms.locfileid: "2878633"
 
 Управление учетными записями и лицензиями осуществляется с помощью [Центра администрирования Microsoft 365](https://admin.microsoft.com/). Удалять лицензии на [!INCLUDE[d365fin](includes/d365fin_md.md)] из учетных записей пользователя или удалить подписку из учетной записи компании могут только администраторы.  
 
-## <a name="removing-included365finincludesd365fin_mdmd-from-your-app-launcher"></a>Удаление [!INCLUDE[d365fin](includes/d365fin_md.md)] из средства запуска приложений
+## <a name="removing-d365fin-from-your-app-launcher"></a>Удаление [!INCLUDE[d365fin](includes/d365fin_md.md)] из средства запуска приложений
 Если требуется скрыть [!INCLUDE[d365fin](includes/d365fin_md.md)] из средства запуска приложений, вы можете просто открепить его. При этом никакие данные не будут удалены, а подписка сохранится.  
 
 ## <a name="see-also"></a>См. также

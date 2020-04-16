@@ -8,16 +8,16 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: Invoicing, Office 365
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.author: bholtorf
-ms.openlocfilehash: 354babea367b80cdb0eae4078f6111d44583df9e
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: b04da7a7fa6d831646c6af9f0606afa90dc00bd6
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2300765"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3188856"
 ---
-# <a name="using-the-same-office-365-account-in-included365finincludesd365fin_long_mdmd-and-microsoft-invoicing"></a>Использование одной и той же учетной записи Office 365 в [!INCLUDE[d365fin](includes/d365fin_long_md.md)] и Microsoft Invoicing
+# <a name="using-the-same-office-365-account-in-d365fin-and-microsoft-invoicing"></a>Использование одной и той же учетной записи Office 365 в [!INCLUDE[d365fin](includes/d365fin_long_md.md)] и Microsoft Invoicing
 При регистрации на пробную версию [!INCLUDE[d365fin](includes/d365fin_md.md)] можно перейти на 30-дневную фазу оценки, начать подписку или прекратить использование [!INCLUDE[d365fin](includes/d365fin_md.md)]. Во всех случаях при входе на портал Office может отобразиться плитка **Microsoft Invoicing**, которую можно нажать. Это часть подписки Office 365 Business Premium, поэтому не все пользователи увидят эту плитку на портале Office.  
 
 Если открыть Microsoft Invoicing, отобразится сообщение о невозможности получить доступ к Microsoft Invoicing, поскольку ваша учетная запись используется в [!INCLUDE[d365fin](includes/d365fin_md.md)].  
@@ -31,9 +31,9 @@ Invoicing и [!INCLUDE[d365fin](includes/d365fin_md.md)] используют о
 
 ### <a name="to-rename-your-company"></a>Переименование организации
 1. Выполните вход в [!INCLUDE[d365fin](includes/d365fin_md.md)].
-2. В правом верхнем углу щелкните значок **Параметры** ![Параметры](media/ui-experience/settings_icon_small.png "Значок \"Параметры\" для ролевого центра"), а затем выберите **Мои настройки**.
+2. В правом верхнем углу щелкните значок **Параметры** ![Параметры](media/ui-experience/settings_icon_small.png "Значок настроек для ролевого центра"), затем выберите **Мои настройки**.
 3. В поле **Организация** выберите другую организацию.
-4. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Компании**, а затем выберите соответствующую ссылку.  
+4. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Организации**, затем выберите соответствующую ссылку.  
 5. На странице **Организации** выберите **Изменить список**.  
 6. Измените имя записи *Моя организация* на другое.  
 

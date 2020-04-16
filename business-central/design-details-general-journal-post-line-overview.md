@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: design, general ledger, post
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: 9de46d66fe13a798dda812b74f19b9ed247b84fd
-ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
+ms.openlocfilehash: ffe7e29d26b386f0a69cc3a7377bf9ff58f93abf
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "2880404"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3185448"
 ---
 # <a name="general-journal-post-line-overview"></a>Обзор строки учета финансового журнала
 Модуль codeunit 12 **Фин. журнал - строка учета** — это основной объект приложения для учета главной книги и единственное место для вставки операций главной книги, НДС, книги поставщиков и клиентов. Этот модуль codeunit также используется для всех операций применения, отмены применения и сторнирования.  

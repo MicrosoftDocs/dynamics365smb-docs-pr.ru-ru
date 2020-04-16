@@ -5,15 +5,15 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: ''
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 6d537abbaeef133d85b23149593d913c75af906d
-ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
+ms.openlocfilehash: 296b14d1d1c7f36ee2828155ffae6983a04577ac
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "2554529"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3180977"
 ---
 # <a name="bank-and-cash-management"></a>Управление банками и кассами
 

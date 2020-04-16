@@ -5,15 +5,15 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: ''
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 9f84c5d84d231d68836b1b24bd0659bf95e7355f
-ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
+ms.openlocfilehash: 8ed741dc87513ab5512c51f0a1a8e48fb39400d5
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "2554536"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3180987"
 ---
 # <a name="selling-fixed-assets"></a>Продажа основных средств
 

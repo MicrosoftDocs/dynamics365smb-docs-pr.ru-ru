@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: design, transfer, sku, locations, warehouse
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: 697630e03e3bbb59518ea3405524ad6de3765d7a
-ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
+ms.openlocfilehash: 5940319c254c97040c3f3b15fc540ed9cfecda5c
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "2879996"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3184661"
 ---
 # <a name="design-details-transfers-in-planning"></a>Сведения о проектировании: перемещения при планировании
 Заказы на перемещение также являются источником поставок при работе на уровне единиц складского хранения. При использовании нескольких местоположений (например, складов) систему пополнения единиц хранения можно настроить на перемещение, подразумевая, что расположение пополняется путем переноса товаров из другого местоположения. Если в организации используется несколько складов, она может иметь цепочку перемещений, в которой поставка на склад ЗЕЛЕНЫЙ перемещается со склада ЖЕЛТЫЙ, поставка на склад ЖЕЛТЫЙ перемещается со склада КРАСНЫЙ и так далее. В начале цепочки находится система пополнения "Произ. зак." или "Покупка".  

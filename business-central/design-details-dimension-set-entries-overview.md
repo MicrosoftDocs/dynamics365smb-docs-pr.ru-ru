@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: dimension
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: 8ed544486af6949932814bf97d99293f1ef17ee2
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: f35184a6a69ed0fa1ccd504525a19af6bd9c5955
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2303584"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3185520"
 ---
 # <a name="dimension-set-entries-overview"></a>Обзор записей набора измерений
 В этом разделе описывается, как операции набора измерений хранятся и учитываются в [!INCLUDE[d365fin](includes/d365fin_md.md)].  
@@ -34,7 +34,7 @@ ms.locfileid: "2303584"
 ## <a name="dimension-set-entries"></a>Записи набора измерений  
 Наборы измерений сохраняются в таблице **Запись набора измерений** в виде записей набора измерений с одинаковым кодом набора измерений.  
 
-![Порядок записей набора измерений](media/dimensionentrynav7.png "Порядок записей набора измерений")  
+![Поток записей набора измерений](media/dimensionentrynav7.png "Поток записей набора измерений")  
 
 При создании новой строки журнала, заголовка документа или строки документа можно указать комбинации значений измерений. Вместо явного сохранения значения каждого измерения в базе данных, код набора измерений присваивается строке журнала, заголовку документа или строке документа для определения набора измерений.  
 

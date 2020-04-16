@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 02/11/2020
+ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: dfd06fce9aab0de6afb725ab4625138b62305a1a
-ms.sourcegitcommit: d0dc5e5c46b932899e2a9c7183959d0ff37738d6
+ms.openlocfilehash: 44069b903df5426ae2aa3e851404c2b9e01f3979
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "3076786"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3188184"
 ---
 # <a name="set-up-data-exchange-definitions"></a>Настройка определений обмена данными
 Можно настроить [!INCLUDE[d365fin](includes/d365fin_md.md)] для обмена данными в виде таблиц определенного вида и данных из внешних файлов, например, для отправки и получения электронных документов, импорта и экспорта банковских и иных данных, таких как расчет зарплаты, валютные курсы и каталоги изделий. Дополнительные сведения см. в разделе [Электронный обмен данными](across-data-exchange.md).  
@@ -139,7 +139,7 @@ ms.locfileid: "3076786"
     |**Заголовок целевого поля**|Отображается только в том случае, если установлен флажок **Использовать как промежуточную таблицу**.<br /><br /> Укажите имя поля в целевой таблице, с которым сопоставляется значение в поле **Заголовок столбца**, при использовании промежуточной таблицы для импорта данных.|  
     |**Можно**|Отображается только в том случае, если установлен флажок **Использовать как промежуточную таблицу**.<br /><br /> Укажите, следует ли пропустить сопоставление, если поле не заполнено. Если этот флажок не установлен, произойдет ошибка экспорта, если поле пустое.|  
 
-Определение обмена данными готово для применения пользователями. Дополнительные сведения см. в разделах [Настройка отправки и получения электронных документов](across-how-to-set-up-electronic-document-sending-and-receiving.md), [Настройка кредитового перевода SEPA](finance-make-payments-with-bank-data-conversion-service-or-sepa-credit-transfer.md#setting-up-sepa-credit-transfer), [Сбор платежей с прямым дебетом SEPA](finance-collect-payments-with-sepa-direct-debit.md) и [Выполнение платежей с помощью расширения AMC Banking 365 Fundamentals и кредитового перевода SEPA](finance-make-payments-with-bank-data-conversion-service-or-sepa-credit-transfer.md).  
+Определение обмена данными готово для применения пользователями. Дополнительные сведения см. в разделах [Настройка отправки и получения электронных документов](across-how-to-set-up-electronic-document-sending-and-receiving.md), [Настройка кредитового перевода SEPA](finance-make-payments-with-bank-data-conversion-service-or-sepa-credit-transfer.md#setting-up-sepa-credit-transfer), [Сбор платежей с прямым дебетом SEPA](finance-collect-payments-with-sepa-direct-debit.md) и [Выполнение платежей с помощью расширения AMC Banking 365 Fundamentals или кредитового перевода SEPA](finance-make-payments-with-bank-data-conversion-service-or-sepa-credit-transfer.md).  
 
 ### <a name="transformation-rules"></a>Правила преобразования
 Если значения в сопоставляемых полях различаются, вы должны использовать правила преобразования для определений обмена данными, чтобы сделать их одинаковыми. Чтобы определить правила преобразования для определений обмена данными, откройте существующее определение или создайте новое определение, а затем на экспресс-вкладке **Определения строк** выберите **Управление**, а потом **Сопоставление полей**. Доступные готовые правила, но вы также можете создавать свои собственные. В следующей таблице описаны типы преобразований, которые вы можете выполнять.

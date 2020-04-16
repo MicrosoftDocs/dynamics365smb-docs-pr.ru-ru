@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: accountant, accounting, financial report
-ms.date: 01/13/2020
+ms.date: 04/01/2020
 ms.author: edupont
-ms.openlocfilehash: 858116d656ef264c7c9445596c8b5345da944c8e
-ms.sourcegitcommit: ead69ebe5b29927876a4fb23afb6c066f8854591
+ms.openlocfilehash: d20dc2ba62a5b13042fe864963f1d483c383563f
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "2952581"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3183984"
 ---
 # <a name="analyzing-financial-statements-in-microsoft-excel"></a>Анализ финансовых отчетов в Microsoft Excel
 В [!INCLUDE[d365fin](includes/d365fin_md.md)] можно просматривать ключевые коэффициенты эффективности и получать обзоры финансового состояния организации. Можно также открыть списки в Excel и анализировать данные в нем. Однако также можно экспортировать большие финансовые отчеты, такие как балансовый отчет или отчет о прибылях и убытках в Excel, проанализировать данные и напечатать отчеты.  
@@ -36,12 +36,12 @@ ms.locfileid: "2952581"
 
 В Excel отображается вкладка с данными, скомпонованными на первом листе. Все экспортированные данные также присутствуют на других листах, если они вам потребуются. Можно сразу же напечатать отчет или можно изменить его, чтобы отображался требуемые вам обзорные и подробные сведения. Для дополнительной фильтрации данных и их анализа используйте надстройку [!INCLUDE[d365fin](includes/d365fin_md.md)] Excel.  
 
-## <a name="the-included365finincludesd365fin_mdmd-excel-add-in"></a>Надстройка [!INCLUDE[d365fin](includes/d365fin_md.md)] Excel
+## <a name="the-d365fin-excel-add-in"></a>Надстройка [!INCLUDE[d365fin](includes/d365fin_md.md)] Excel
 Ваш [!INCLUDE[d365fin](includes/d365fin_md.md)] включает в себя надстройку для Excel. В зависимости от подписки, вход выполняется автоматически или необходимо указать те же данные для входа, что и для [!INCLUDE[d365fin](includes/d365fin_md.md)].  
 
 С помощью надстройки можно получать обновленные данные из [!INCLUDE[d365fin](includes/d365fin_md.md)], а также передавать изменения в [!INCLUDE[d365fin](includes/d365fin_md.md)]. Однако возможность передавать данные обратно в базу данных для перечисленных выше финансовых отчетов Excel отключена.  
 
-## <a name="see-related-training-at-microsoft-learnlearnmodulesconfigure-powerbi-excel-dynamics-365-business-centralindex"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/configure-powerbi-excel-dynamics-365-business-central/index)
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/configure-powerbi-excel-dynamics-365-business-central/index)
 
 ## <a name="see-also"></a>См. также
 [Финансы](finance.md)  

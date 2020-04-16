@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: f95e7ec5be6e00e908f5cb8cbe6f08528542e150
-ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
+ms.openlocfilehash: 1b7fedfa09999db84f81f15040a0714b9f0fe63e
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "2878609"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3188376"
 ---
 # <a name="copy-data-to-new-companies"></a>Копирование данных в новые организации
 Области можно скопировать из существующей организации в новую, если обе организации находится в одной и той же базе данных. Например, если имеется стандартный список кодов симптомов, общий для всех сервисных реализаций, коды можно легко скопировать из одной организации в другую.  

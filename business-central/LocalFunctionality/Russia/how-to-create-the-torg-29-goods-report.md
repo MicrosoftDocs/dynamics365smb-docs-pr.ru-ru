@@ -5,15 +5,15 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: ''
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 684e33d1ab4c002f6062df9c809292311bbe1b86
-ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
+ms.openlocfilehash: d1a3efe19bb2c6e36ed56864a0067d25828979d5
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "2554515"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3180962"
 ---
 # <a name="create-the-torg-29-goods-report"></a>Создание товарного отчета ТОРГ-29
 
@@ -23,7 +23,7 @@ ms.locfileid: "2554515"
 
 ## <a name="to-create-the-torg-29-report"></a>Создание отчета ТОРГ-29
 
-1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Товарный отчет ТОРГ-29**, а затем выберите соответствующую ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Товарный отчет ТОРГ-29**, затем выберите соответствующую ссылку.
 
 2. На экспресс-вкладке **Параметры** заполните поля, как описано в следующей таблице.
 

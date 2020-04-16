@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: design, item, tracking, tracing
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: 6065c90035ec644de3557ebb04047092972f1542
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: cda50dc7c3a0377c36f7bce4eca9c1c5cb5b093e
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2303297"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3185064"
 ---
 # <a name="design-details-item-tracking-design"></a>Сведения о проектировании: разработка трассировки товара
 В первой версии трассировки товаров в [!INCLUDE[d365fin](includes/d365fin_md.md)] 2.60 серийные номера или номера партий регистрировались непосредственно в операциях книги товаров. Эта конструкция обеспечивает полную информацию о доступности и простую трассировку событий прошлых периодов, однако ей не хватает гибкости и функциональности.  
@@ -30,7 +30,7 @@ ms.locfileid: "2303297"
 
 На следующей схеме показана конструкция функций трассировки товаров в [!INCLUDE[d365fin](includes/d365fin_md.md)].  
 
-![Пример порядка отслеживания товара](media/design_details_item_tracking_design.png "Пример порядка отслеживания товара")  
+![Пример потока отслеживания товара](media/design_details_item_tracking_design.png "Пример потока отслеживания товара")  
 
 Центральный объект учета изменяется для обработки уникальной подклассификации строки документа в форме серийных номеров или номеров партий, а специальные таблицы отношений добавляются для создания связей типа "один ко многим" между учтенными документами и их разделенными операциями товарного журнала и журнальными операциями стоимости.  
 

@@ -8,16 +8,16 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: accountant, accounting, financial report
-ms.date: 01/06/2020
+ms.date: 04/01/2020
 ms.author: edupont
-ms.openlocfilehash: 50cc4aba9f3a01b9518d974cf011de3b9b20a4da
-ms.sourcegitcommit: 877af26e3e4522ee234fbba606615e105ef3e90a
+ms.openlocfilehash: 2c99b8bef9bff22edd2d27856e703b41c6ec6441
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/28/2020
-ms.locfileid: "2991860"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3184032"
 ---
-# <a name="accountant-experiences-in-included365fin_longincludesd365fin_long_mdmd"></a>Работа бухгалтера в [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]
+# <a name="accountant-experiences-in-d365fin_long"></a>Работа бухгалтера в [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]
 Любой организации нужно вести учет и подписывать соответствующую документацию. Некоторые организации используют внешнего бухгалтера, а у других — бухгалтер в штате. Независимо от того, какой бухгалтер у вас, вы можете использовать ролевой центр **Бухгалтер** в качестве начальной страницы [!INCLUDE[d365fin](includes/d365fin_md.md)]. Отсюда можно получить доступ ко всем страницам, которые нужны для работы.  
 
 ## <a name="accountant-role-center"></a>Ролевой центр бухгалтера
@@ -25,7 +25,7 @@ ms.locfileid: "2991860"
 
 Если вы впервые работаете с [!INCLUDE[d365fin](includes/d365fin_md.md)], вы можете запустить список видео в правой части ролевого центра. Можно также запустить тур **Приступая к работе**, содержащее основную информацию.  
 
-## <a name="inviteaccountant"></a>Приглашение внешнего бухгалтера в ваш экземпляр [!INCLUDE[d365fin](includes/d365fin_md.md)]
+## <a name="inviting-your-external-accountant-to-your-d365fin"></a><a name="inviteaccountant"></a>Приглашение внешнего бухгалтера в ваш экземпляр [!INCLUDE[d365fin](includes/d365fin_md.md)]
 Если вы используете внешнего бухгалтера для управления вашим учетом и финансовой отчетностью, ваш администратор может пригласить его в ваш экземпляр [!INCLUDE[d365fin](includes/d365fin_md.md)], чтобы он работал в вашими данными. [!INCLUDE[d365fin](includes/d365fin_md.md)] включает три лицензии типа "Внешний бухгалтер". Подробные сведения о лицензировании см. в разделе [Руководство по лицензированию Microsoft Dynamics 365 Business Central](https://go.microsoft.com/fwlink/?LinkId=871590).
 
 Как только бухгалтер получит доступ к вашему экземпляру [!INCLUDE[d365fin](includes/d365fin_md.md)], он сможет использовать ролевой центр **Бухгалтер**, который предоставляет простой доступ к наиболее важным для его работы страницам.  
@@ -61,7 +61,7 @@ ms.locfileid: "2991860"
 
 Затем вы должны назначить новому гостевому пользователю лицензию на [!INCLUDE [prodshort](includes/prodshort.md)].
 
-#### <a name="to-give-your-accountant-access-to-your-include-prodshortincludesprodshortmd"></a>Как дать бухгалтеру доступ к вашему [!INCLUDE [prodshort](includes/prodshort.md)]
+#### <a name="to-give-your-accountant-access-to-your-prodshort"></a>Как дать бухгалтеру доступ к вашему [!INCLUDE [prodshort](includes/prodshort.md)]
 
 1. На портале Azure для нового пользователя выберите **Профиль**, а затем выберите **Редактировать**.
 2. Укажите страну в поле **Расположение использования**, а затем выберите **Сохранить**.
@@ -73,7 +73,7 @@ ms.locfileid: "2991860"
 
 В случае успеха лицензия назначается гостевому пользователю и создается гостевая учетная запись.
 
-### <a name="importing-the-new-user-into-include-prodshortincludesprodshortmd"></a>Импорт нового пользователя в [!INCLUDE [prodshort](includes/prodshort.md)]
+### <a name="importing-the-new-user-into-prodshort"></a>Импорт нового пользователя в [!INCLUDE [prodshort](includes/prodshort.md)]
 
 Бухгалтер получит электронное письмо с уведомлением о том, что ему предоставлен доступ к вашей Active Directory. Далее вы должны предоставить ему доступ к нужной компании в [!INCLUDE [prodshort](includes/prodshort.md)].
 
@@ -83,7 +83,7 @@ ms.locfileid: "2991860"
 2. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Пользователи**, затем выберите соответствующую ссылку.  
 3. Выберите действие **Получить новых пользователей из Office 365**.
 
-Это импортирует учетную запись пользователя, которую вы создали на портале Azure, в компанию. Дополнительную информацию см. в разделе [Добавление пользователя в Business Central](ui-how-users-permissions.md#to-add-a-user-in-business-central).  
+Это импортирует учетную запись пользователя, которую вы создали на портале Azure, в компанию. Дополнительную информацию см. в разделе [Добавление пользователя в Business Central](ui-how-users-permissions.md#adduser).  
 
 Если вы хотите предоставить доступ нескольким компаниям, вы должны войти в каждую компанию и повторить этот процесс. Кроме того, вы можете обновить группы разрешений для профиля пользователя бухгалтера в [!INCLUDE [prodshort](includes/prodshort.md)]например, назначив их в группу пользователей *D365 Bus Premium*. Дополнительные сведения см. в разделе [Назначение разрешений пользователям и группам](ui-define-granular-permissions.md).  
 

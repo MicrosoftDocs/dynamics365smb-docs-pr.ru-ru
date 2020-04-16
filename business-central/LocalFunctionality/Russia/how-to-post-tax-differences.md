@@ -5,15 +5,15 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: ''
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 484b951b4012bddc5dc60ce6c331573e1af0e1ab
-ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
+ms.openlocfilehash: aa3c342910820d120e7ab3fd1ca944ed1342bb80
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "2554510"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3180955"
 ---
 # <a name="post-tax-differences"></a>Учет налоговых разниц
 
@@ -23,7 +23,7 @@ ms.locfileid: "2554510"
 
 ## <a name="to-post-tax-differences"></a>Учет налоговых разниц
 
-1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Журналы налоговых разниц**, а затем выберите соответствующую ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Журналы налоговых разниц**, затем выберите соответствующую ссылку.
 
 2. Введите значения в поля, как описано в следующей таблице.
 

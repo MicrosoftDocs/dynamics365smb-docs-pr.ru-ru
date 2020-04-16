@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: SMTP, mail, Office 365
-ms.date: 01/13/2020
+ms.date: 04/01/2020
 ms.author: edupont
-ms.openlocfilehash: 5098087fc5d4ea821e32d644c159deeb5289b837
-ms.sourcegitcommit: ead69ebe5b29927876a4fb23afb6c066f8854591
+ms.openlocfilehash: b088cf18c10dd451c7c5974e98f0c0cbba5bad0b
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "2953023"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3186906"
 ---
 # <a name="using-business-central-as-your-business-inbox-in-outlook"></a>Использование Business Central в качестве папки "Входящие" для бизнеса в Outlook
 
@@ -68,9 +68,9 @@ ms.locfileid: "2953023"
 
 ## <a name="using-other-email-accounts"></a>Использование других учетных записей электронной почты
 
-Надстройки предназначены для использования с Office 365. Если вы используете [!INCLUDE [prodshort](includes/prodshort.md)] on-premises, ваш администратор узнает, можете ли вы использовать надстройки [!INCLUDE [prodshort](includes/prodshort.md)] в Outlook. Дополнительную информацию см. в разделах [Какой адрес электронной почты я могу использовать с [!INCLUDE[prodshort](includes/prodshort.md)]?](across-faq.md#what-email-address-can-i-use-with-) и [Функции, которые требуют особых обстоятельств](/dynamics365/business-central/dev-itpro/features-not-implemented-on-premises#features-that-require-specific-circumstances).  
+Надстройки предназначены для использования с Office 365. Если вы используете [!INCLUDE [prodshort](includes/prodshort.md)] on-premises, ваш администратор узнает, можете ли вы использовать надстройки [!INCLUDE [prodshort](includes/prodshort.md)] в Outlook. Дополнительную информацию см. в разделах [Какой адрес электронной почты я могу использовать с [!INCLUDE[prodshort](includes/prodshort.md)]?](across-faq.md#email) и [Функции, которые требуют особых обстоятельств](/dynamics365/business-central/dev-itpro/features-not-implemented-on-premises#features-that-require-specific-circumstances).  
 
-## <a name="see-related-training-at-microsoft-learnlearnmodulesalternative-interfaces-dynamics-365-business-centralindex"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/alternative-interfaces-dynamics-365-business-central/index)
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/alternative-interfaces-dynamics-365-business-central/index)
 
 ## <a name="see-also"></a>См. также
 

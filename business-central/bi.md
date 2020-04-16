@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: bi, power BI, analysis, KPI
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: 7253e4fc4e4f1418a7c9bd1e2ac5e19298e4fb57
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 6f8935ed6a8ca2ac806dd746a0376210d5e8abbf
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2308343"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3186000"
 ---
 # <a name="business-intelligence"></a>Бизнес-аналитика
 Во время делового процесса в организации обрабатываются огромные объемы данных. Эти данные, отражающие цифры продаж, покупок, текущих расходов, оплаты труда сотрудников, сальдо и т. д., могут представлять из себя ценную информацию, или интеллектуальные ресурсы, для принятия решений. [!INCLUDE[d365fin](includes/d365fin_md.md)] содержит множество функций, помогающих собирать, анализировать и совместно использовать данные организации.
@@ -37,6 +37,7 @@ ms.locfileid: "2308343"
 |Настройка представлений анализа для анализа данных с помощью измерений.|[Анализ данных по измерениям](bi-how-analyze-data-dimension.md)|
 |Создание новых аналитических отчетов для продаж, покупок и запасов, а также настройка шаблонов анализа.|[Создание аналитических отчетов](bi-how-create-analysis-views-reports.md)|
 |Включение глобальной финансовой отчетности по международным учетным организациям со стандартом eXtensible Business Reporting Language.|[Создание отчетов с XBRL](bi-create-reports-with-xbrl.md)|
+|Изменение намерения доступа к базе данных для отчетов, страниц типа API и запросов, чтобы уменьшить нагрузку и повысить производительность.|[Управление намерением доступа к базе данных](admin-data-access-intent.md)|
 
 ## <a name="see-also"></a>См. также
 [Финансы](finance.md)    

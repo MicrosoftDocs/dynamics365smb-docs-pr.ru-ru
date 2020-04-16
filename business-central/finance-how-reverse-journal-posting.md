@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: reimbursement
-ms.date: 01/27/2020
+ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: 0e38ec4c70fdbf81b29d96ad9db80cd7efdd2c82
-ms.sourcegitcommit: 1c286468697d403b9e925186c2c05e724d612b88
+ms.openlocfilehash: 38c836609a4e896b9fb71d0195f1d3c05d1cf081
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/31/2020
-ms.locfileid: "2999859"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3183576"
 ---
 # <a name="reverse-journal-postings-and-undo-receiptsshipments"></a>Сторнирование учета в журнале и отмена приходных/расходных накладных
 Что отменить ошибочную проводку в журнале, выберите операцию и создайте сторнирующую операцию (операции, идентичные исходным, но с противоположным знаком в поле суммы) с таким же номером документа и датой учета, что и у исходной операции. После сторнирования операции необходимо создать корректирующую запись.

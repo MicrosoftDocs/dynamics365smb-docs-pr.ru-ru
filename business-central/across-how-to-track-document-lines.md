@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: e2ada84e547662a4466d33b8e0196bf7987c9c22
-ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
+ms.openlocfilehash: d6440c4cf2f7b5e41f320fcbb1d72d353ae4f5e9
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "2881028"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3188023"
 ---
 # <a name="track-document-lines"></a>Отслеживание строк документа
 Можно просматривать документы, которые связаны со строками заказа на продажу и строками заказа на покупку, включая из строк архивированных заказов. Связанные документы, которые вы можете отслеживать, включая предложения, отгрузки, приемки и общие заказы. Это помогает идентифицировать документы, используемые для обработки заказов.  

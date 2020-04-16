@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: 96c39641c9665542c8c27b004bb27f92768d57dc
-ms.sourcegitcommit: 3d128a00358668b3fdd105ebf4604ca4e2b6743c
+ms.openlocfilehash: 6f73978c381075175d80c14c8aaaf2d66cb60ade
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/20/2019
-ms.locfileid: "2910908"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3188160"
 ---
 # <a name="setting-up-workflows"></a>Настройка рабочих процессов
 Можно настроить и использовать рабочие процессы, связывающие задачи бизнес-процесса, выполняемые различными пользователями. Системные задачи, такие как автоматический учет, могут включаться в качестве шагов рабочего процесса, предшествующих задачам пользователя или выполняемых после них. Типичные шаги рабочего процесса – запрос и выдача разрешения на создание новых записей. Дополнительные сведения см. в разделе [Использование рабочих процессов](across-use-workflows.md).  
@@ -40,13 +40,13 @@ ms.locfileid: "2910908"
 |Используйте шаблоны рабочих процессов для создания рабочих процессов.|[Создание рабочих процессов из шаблонов рабочих процессов](across-how-to-create-workflows-from-workflow-templates.md)|  
 |Общий доступ к рабочим процессам с другими базами данных [!INCLUDE[d365fin](includes/d365fin_md.md)].|[Экспорт и импорт рабочих процессов](across-how-to-export-and-import-workflows.md)|  
 |Изучение принципов настройки рабочего процесса для утверждения документов продажи, следуя единой комплексной процедуре.|[Пошаговое руководство. Настройка и использование рабочего процесса утверждения покупки](walkthrough-setting-up-and-using-a-purchase-approval-workflow.md)|  
-|Добавление поддержки для бизнеса сценария, для которого требуются новые события рабочих процессов или отклики путем настройки кода приложения.|[Пошаговое руководство. Реализация новых и событий и отзывов рабочего процесса](/dynamics-nav/Walkthrough--Implementing-New-Workflow-Events-and-Responses).|  
+|Добавление поддержки для бизнеса сценария, для которого требуются новые события рабочих процессов или отклики путем настройки кода приложения.|[Пошаговое руководство. Реализация новых и событий и отзывов рабочего процесса](/dynamics-nav/Walkthrough--Implementing-New-Workflow-Events-and-Responses)|  
 
 ## <a name="example-of-an-approval-workflow"></a>Пример рабочего процесса утверждения
 В этом видео показано, как настроить рабочий процесс, который потребует от кого-то запроса чьего-либо одобрения, прежде чем он сможет изменить информацию о существующем клиенте или создать нового клиента.  
 <br><br>  
 
-> [!Video https://www.microsoft.com/en-us/videoplayer/embed/RE4jzHI]
+> [!Video https://www.microsoft.com/en-us/videoplayer/embed/RE4jzHI?rel=0]
 
 ## <a name="see-also"></a>См. также  
  [Использование рабочих процессов](across-use-workflows.md)   

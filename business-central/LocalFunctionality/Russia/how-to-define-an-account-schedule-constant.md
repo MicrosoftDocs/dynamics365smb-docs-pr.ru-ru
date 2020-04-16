@@ -5,15 +5,15 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: ''
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: de9de1e6b53aed34d1626a467641097b2c9feb5f
-ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
+ms.openlocfilehash: 1f58cb8296c092b75abfcfa013e031a5e603def2
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "2554514"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3180960"
 ---
 # <a name="define-an-account-schedule-constant"></a>Определение константы финансового отчета
 
@@ -21,7 +21,7 @@ ms.locfileid: "2554514"
 
 ## <a name="to-define-an-account-schedule-constant"></a>Определение константы финансового отчета
 
-1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Финансовый отчет**, а затем выберите соответствующую ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Финансовый отчет**, затем выберите соответствующую ссылку.
 2. Выберите финансовый отчет, для которого необходимо определить константу.
 3. Выберите **Изменение финансового отчета**.
 4. В поле **Номер строки** выберите номер строки финансового отчета, для которого необходимо определить константу.

@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 12/04/2019
+ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: f444bc1620a8578fc2c31c084d9ea60c5704327b
-ms.sourcegitcommit: b6e506a45a1cd632294bafa1c959746cc3a144f6
+ms.openlocfilehash: d9cbffc0f783063362a394b5afe47c67fcc396ad
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/06/2019
-ms.locfileid: "2896233"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3188083"
 ---
 # <a name="specify-when-and-how-to-receive-notifications"></a>Определение сроков и порядка получения уведомлений пользователями
 При настройке пользователей в потоках операций утверждения необходимо на страницах **Настройка уведомлений** и **График уведомлений** указать, как и когда каждый пользователь получает уведомления о шагах рабочих процессов утверждения. Отдельные пользователи также могут изменить свои настройки уведомлений, нажав кнопку **Изменить настройки уведомлений** на любом уведомлении.  

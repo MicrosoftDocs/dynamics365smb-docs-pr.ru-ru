@@ -10,20 +10,20 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: costing, inventory cost, value entries
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: 1e7b1ef8fa480eadc644ed03f5491961480dc0c6
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: c961d15d04da5fcad18a460adc269f3099962f6a
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2309968"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3182136"
 ---
 # <a name="revalue-inventory"></a>Переоценка запасов
 Чтобы повысить или понизить стоимость изделия или конкретной учтенной товарной операции, нужно воспользоваться журналом переоценки.
 
 ## <a name="to-revalue-inventory"></a>Переоценка запасов
-1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Журнал переоценки**, а затем выберите соответствующую ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Журнал переоценки**, затем выберите соответствующую ссылку.
 2. Выберите действие **Расчет стоимости запасов**.
 3. На странице **Расчет стоимости запасов** заполните требуемые поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 4. Нажмите кнопку **ОК**.
@@ -36,7 +36,7 @@ ms.locfileid: "2309968"
 
 ## <a name="see-also"></a>См. также
 [Сведения о проектировании: переоценка](design-details-revaluation.md)  
-[Наличие](inventory-manage-inventory.md)  
+[Запасы](inventory-manage-inventory.md)  
 [Продажи](sales-manage-sales.md)  
 [Покупки](purchasing-manage-purchasing.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

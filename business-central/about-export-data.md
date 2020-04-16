@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: analysis, reporting, financial report, business intelligence, BI, Excel
-ms.date: 01/13/2020
+ms.date: 04/01/2020
 ms.author: edupont
-ms.openlocfilehash: 1583c17b63df4c4db37eec20ab204ef235d47512
-ms.sourcegitcommit: ead69ebe5b29927876a4fb23afb6c066f8854591
+ms.openlocfilehash: 6e7968f7e37e2bf1e1495331cf863aef34e7e7e4
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "2952967"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3188976"
 ---
 # <a name="exporting-your-business-data-to-excel"></a>Экспорт бизнес-данных в Excel
 Если вы хотите работать с данными из [!INCLUDE[d365fin](includes/d365fin_md.md)] в Excel, вы можете открыть все списки в Excel и работать с ними там. Аналогично, если требуется отменить подписку на [!INCLUDE[d365fin](includes/d365fin_md.md)], вы можете экспортировать данные в Excel, чтобы забрать их с собой.
@@ -66,7 +66,7 @@ ms.locfileid: "2952967"
 > [!NOTE]  
 >   Если настроено несколько организаций в [!INCLUDE[d365fin](includes/d365fin_md.md)], необходимо экспортировать соответствующие данные из каждой организации.
 
-## <a name="see-related-training-at-microsoft-learnlearnmodulesconfigure-powerbi-excel-dynamics-365-business-centralindex"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/configure-powerbi-excel-dynamics-365-business-central/index)
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/configure-powerbi-excel-dynamics-365-business-central/index)
 
 ## <a name="see-also"></a>См. также
 [Отмена подписки [!INCLUDE[d365fin](includes/d365fin_md.md)]](admin-cancel.md)  

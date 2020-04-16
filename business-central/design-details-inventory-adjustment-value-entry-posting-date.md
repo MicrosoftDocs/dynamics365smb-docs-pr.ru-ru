@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.author: edupont
-ms.openlocfilehash: 2595efa188aed593bf1d112f984acf411446959b
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 843e0590bbcff22b5d0ad40fcae5dd51c64eae3a
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2307136"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3185280"
 ---
 # <a name="design-details-posting-date-on-adjustment-value-entry"></a>Подробности разработки: дата учета для операции коррекции стоимости
 Эта статья содержит рекомендации для пользователей функции оценки стоимости запасов в [!INCLUDE[d365fin](includes/d365fin_md.md)]. Конкретная статья предоставляет рекомендации по тому, как пакетное задание **Коррекция себестоимости запасов** идентифицирует и назначает дату учета операциям стоимости, которые пакетное задание собирается создать.  
@@ -318,7 +318,7 @@ ms.locfileid: "2307136"
 
  Отчет оценки стоимости запасов распечатывается на дату 31-е декабря 2013 г.  
 
-![Содержимое отчета об оценке стоимости товаров](media/helene/TechArticleAdjustcost13.png "Содержимое отчета об оценке стоимости товаров")
+![Содержимое отчета "Оценка стоимости запасов"](media/helene/TechArticleAdjustcost13.png "Содержимое отчета "Оценка стоимости запасов"")
 
  **Сводка сценария:**  
 

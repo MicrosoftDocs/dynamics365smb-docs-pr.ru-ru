@@ -9,14 +9,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: app, import, migrate, data, transfer, QuickBooks, customize
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.author: bholtorf
-ms.openlocfilehash: 7acaae83255002aa3f9964e5997518b0c9cc2224
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: ba671c21d0e9c8ebf3df11fd75a55e5229c142cb
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2304832"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3187680"
 ---
 # <a name="changing-from-a-quickbooks-app-to-dynamics-365-business-central"></a>Переход с приложения QuickBooks на Dynamics 365 Business Central
 Все больше организаций ввиду увеличения масштабов своей деятельности переходят с таких финансовых приложений, предназначенных для стартапов и других небольших предприятий, как QuickBooks Desktop и QuickBooks Online, на систему [!INCLUDE[d365fin](includes/d365fin_md.md)], способную обслуживать более крупные и сложные организации. 
@@ -32,7 +32,7 @@ ms.locfileid: "2304832"
 * [Расширение миграции данных QuickBooks Online](ui-extensions-quickbooks-online-data-migration.md)
 
 ## <a name="ready-now"></a>Готовы начинать?
-Если вы готовы начать прямо сейчас, выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Мастер настройки**, а затем выберите соответствующую ссылку. Выберите **Миграция бизнес-данных**, затем выполните шаги в руководстве.
+Если вы готовы начать прямо сейчас, выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Мастер настройки**, затем выберите соответствующую ссылку. Выберите **Миграция бизнес-данных**, затем выполните шаги в руководстве.
 
 ## <a name="see-also"></a>См. также
 [Импорт бизнес-данных из других финансовых систем](across-import-data-configuration-packages.md)  

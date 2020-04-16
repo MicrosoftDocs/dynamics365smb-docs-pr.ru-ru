@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: design, general journal, posting, codeunit 12
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: fd1929e0a9a491a8197a209f27c4961af6697461
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 1a8654b53dec476b175101a4d9c08f15ab3d6d6f
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2307184"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3185376"
 ---
 # <a name="design-details-general-journal-post-line"></a>Сведения о проектировании: строка учета финансового журнала
 Документация содержит подробные технические сведения о концепциях и принципах, используемых для перегруппировки функции строки учета финансового журнала в [!INCLUDE[d365fin](includes/d365fin_md.md)]. В измененном дизайне модуль codeunit 12 проще использовать и поддерживать. В начале документа приводится концептуальный обзор переконструирования. Затем поясняется техническая архитектура с целью показать изменения, связанные с изменением дизайна.  

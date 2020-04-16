@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: dadaea1805f682ac05d2394f33022e9a1e6500c0
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: dbcadecf7648a1ddd6d41d968dcdf26d78b79001
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2302918"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3184536"
 ---
 # <a name="design-details-warehouse-setup"></a>Сведения о проектировании: настройка склада
 Складские функции в [!INCLUDE[d365fin](includes/d365fin_md.md)] содержат разные уровни сложности, как определено лицензионными разрешениями в предложенных областях Уровень сложности решения склада во многом определяется настройкой ячейки в карточках склада, которые контролируются лицензиями, так что доступ к полям настройки ячеек определяется лицензией. Кроме того, объекты приложения в лицензии управляют тем, какой документ пользовательского интерфейса следует использовать для поддерживаемых складских операций.  

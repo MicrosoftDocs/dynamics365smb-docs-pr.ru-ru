@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: relationship, prospect
-ms.date: 11/11/2019
+ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: cf7ef0013cac921ec7ab7b1fa505a9c2f0852a33
-ms.sourcegitcommit: 02f1633213793bfc040ad0d2a96fe76572215aa5
+ms.openlocfilehash: 7a6be696756643496954b8ee0940efff7996f352
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "2798575"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3181608"
 ---
 # <a name="create-contacts"></a>Создание контактов
 Ваши регулярные встречи с сотрудниками из других компаний могут перерасти в деловые отношения, такие как отношения с клиентами. При создании нового контакта необходимо записывать как можно больше информации о контакте, чтобы общение могло быть продолжено.

@@ -1,8 +1,6 @@
 ---
 title: Настройка финансовых процессов | Документация Майкрософт
 description: Узнайте о задачах по настройке финансов для своего бизнеса в соответствии требованиями учет и аудита.
-services: project-madeira
-documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -10,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: accounting, auditing, bookkeeping
-ms.date: 01/13/2020
+ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: fa8b324c0a63f7c00209579878b9739af8178041
-ms.sourcegitcommit: ead69ebe5b29927876a4fb23afb6c066f8854591
+ms.openlocfilehash: 400506fe0b39944e683fd5e65e6b710ffdb9089b
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "2953663"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3182736"
 ---
 # <a name="setting-up-finance"></a>Настройка финансов
 Прежде чем вы сможете начать свой бизнес, вы должны указать правила и настройки по умолчанию для управления финансовыми процессами в этой компании. Начните с настройки основы учетных записей организации — плана счетов. Затем настраиваются учетные группы, что позволяет сделать более эффективным процесс назначения используемых по умолчанию учетных счетов главной книги клиентам, поставщикам и товарам.
@@ -36,7 +34,7 @@ ms.locfileid: "2953663"
 | Определяйте учетные группы, которые сопоставляют объекты, такие как клиенты, поставщики, товары, ресурсы и документов продажи и покупки со счетами главной книги. |[Настройка учетных групп](finance-posting-groups.md)|
 |Создайте финансовые отчеты и задайте категории счетов для определения содержимого финансовых диаграмм и отчетов, например балансового отчета и отчета о прибылях и убытках.|[Подготовка финансовой отчетности с помощью финансовых отчетов и категорий счетов](bi-how-work-account-schedule.md)|
 |Настройте отклонение, при котором система закрывает счет, даже если платеж, включая все скидки, не полностью покрывает сумму счета.|[Работа с отклонениями в оплате и отклонениями скидки по оплате](finance-payment-tolerance-and-payment-discount-tolerance.md)|
-| Настройте финансовые периоды. |[Открытие нового финансового года](finance-how-open-new-fiscal-year.md) |
+| Настройте финансовые периоды. |[Работа с учетными периодами и финансовыми годами](finance-accounting-periods-and-fiscal-years.md) |
 | Определите способ подачи в налоговые органы отчетов о суммах налога на добавленную стоимость, собранного в результате продаж. |[Настройка налога на добавленную стоимость (НДС)](finance-setup-vat.md)|
 |Подготовьтесь к обработке нереализованного НДС в связи с методами бухгалтерского учета на основе наличных средств.|[Настройка нереализованного НДС для учета на основании кассы](finance-setup-unrealized-vat.md)|
 | Настройка функций продаж и покупок для обработки платежей в иностранных валютах.|[Включение операций книги в разных валютах](finance-how-enable-application-ledger-entries-different-currencies.md)
@@ -50,7 +48,7 @@ ms.locfileid: "2953663"
 | Настройка отчетности Интрастат и отправка отчета в уполномоченные органы | [Настройка и подача отчетности Интрастат](finance-how-setup-report-intrastat.md)|
 |Убедитесь, что выделена операция в финансовом журнале по нескольким различным счетам при учете в журнале, по количеству, проценту или сумме.|[Использование ключей распределения в финансовых журналах](ui-how-use-allocation-keys-general-journals.md)|
 
-## <a name="see-related-training-at-microsoft-learnlearnpathsset-up-financial-management-dynamics-365-business-central"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/set-up-financial-management-dynamics-365-business-central/)
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/set-up-financial-management-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 [Финансы](finance.md)  

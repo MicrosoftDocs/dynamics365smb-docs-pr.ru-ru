@@ -5,15 +5,15 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: ''
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: d5893236a1c6ab2c7a34471068d4afe833267a17
-ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
+ms.openlocfilehash: ddccd82f1598b9d91fcd91986a10aa2c9cfd1bf9
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "2554530"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3180980"
 ---
 # <a name="account-schedules-overview"></a>Обзор финансовых отчетов
 

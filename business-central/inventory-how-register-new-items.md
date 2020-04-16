@@ -9,14 +9,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: item, finished good, component, raw material, assembly item
-ms.date: 11/27/2019
+ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: 3cb9ffd6dadaeba7aab782c0bd8f45d3f4aa5387
-ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
+ms.openlocfilehash: 061c0148601f3aaa871fbf4d613b51ceaf9cdfb1
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "2878345"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3182160"
 ---
 # <a name="register-new-items"></a>Регистрация новых товаров
 Товары, наряду с другими продуктами, лежат в основе вашего бизнеса; это услуги или продукты, которыми вы торгуете. Каждый товар должен быть зарегистрирован в виде карточки товара.
@@ -36,7 +36,7 @@ ms.locfileid: "2878345"
 
 Следующая процедура объясняет, как создать карточку товара с нуля. Вы также можете создавать новые карточки товаров, копируя существующие. Дополнительные сведения см. в разделе [Копирование существующих товаров для создания новых товаров](inventory-how-copy-items.md),<br><br>  
 
-> [!Video https://www.microsoft.com/videoplayer/embed/RE47eLx]
+> [!Video https://www.microsoft.com/videoplayer/embed/RE47eLx?rel=0]
 
 ## <a name="to-create-a-new-item-card"></a>Создание новой карточки товара
 1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Товары**, затем выберите соответствующую ссылку.  

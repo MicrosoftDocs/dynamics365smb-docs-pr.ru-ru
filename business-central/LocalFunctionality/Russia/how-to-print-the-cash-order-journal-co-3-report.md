@@ -5,15 +5,15 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: ''
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: f0051abb9eb0c7b3f888c95c964ce04af3a1b1bb
-ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
+ms.openlocfilehash: 6b2a0fe55cf8e376ba8f837d694ca5b872d164c5
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "2554507"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3180953"
 ---
 # <a name="print-the-cash-order-journal-co-3-report"></a>Печать отчета "Журнал регистрации кассовых документов КО-3"
 
@@ -23,7 +23,7 @@ ms.locfileid: "2554507"
 
 ## <a name="to-print-the-cash-order-journal-co-3-report"></a>Печать отчета "Журнал регистрации кассовых документов КО-3"
 
-1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Журнал регистрации кассовых документов КО-3**, а затем выберите соответствующую ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Журнал регистрации кассовых документов КО-3**, затем выберите соответствующую ссылку.
 
 2. В окне **Журнал регистрации кассовых документов КО-3** заполните поля.
 

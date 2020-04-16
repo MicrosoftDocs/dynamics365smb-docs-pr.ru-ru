@@ -8,16 +8,16 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: company, setup wizard
-ms.date: 11/01/2019
+ms.date: 04/01/2020
 ms.author: edupont
-ms.openlocfilehash: 70bd78244c4d8570a5e9b8fbe2d1e8a4c74d7530
-ms.sourcegitcommit: 49309bdff9b680a35032b355fe97c565845dba15
+ms.openlocfilehash: 48f540bd1f8de19ab6ae0284febf6c9c87ababdb
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "2695123"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3188904"
 ---
-# <a name="creating-new-companies-in-included365finincludesd365fin_mdmd"></a>Создание новых организаций в [!INCLUDE[d365fin](includes/d365fin_md.md)]
+# <a name="creating-new-companies-in-d365fin"></a>Создание новых организаций в [!INCLUDE[d365fin](includes/d365fin_md.md)]
 В [!INCLUDE[d365fin](includes/d365fin_md.md)] контейнеры для коммерческой информации, которая относится к филиалу или юридическому лицу, называются *организация*. При оформлении подписки на [!INCLUDE[d365fin](includes/d365fin_md.md)] вам предоставляется демонстрационная организация и пустая организация *Моя организация*. Переключаться между организациями легко: просто откройте **Мои настройки** и перейдите в другую организацию. Однако можно также создавать новые организации в [!INCLUDE[d365fin](includes/d365fin_md.md)] в зависимости от потребностей бизнеса. При создании новой организации мастер настройки помогает правильно задать основные параметры. После этого можно импортировать соответствующие данные из своей старой системы или другой организации в [!INCLUDE[d365fin](includes/d365fin_md.md)].  
 
 ## <a name="creating-a-new-company"></a>Создание новой организации

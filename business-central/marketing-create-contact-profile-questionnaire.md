@@ -9,13 +9,13 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: contacts, profiles
 ms.author: edupont
-ms.date: 10/01/2019
-ms.openlocfilehash: 8d25dc4c27be6069782ff30e785f884ee406d2e4
-ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
+ms.date: 04/01/2020
+ms.openlocfilehash: 9cf4817cd85951f193ffadbcd3e7ebc971bcca36
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "2553946"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3181584"
 ---
 # <a name="use-profile-questionnaires-to-classify-business-contacts"></a>Использование анкет профилей для классификации бизнес-контактов
 Можно настроить анкеты профиля, которые будут использоваться при вводе информации о профиле контакта. В каждой анкете можно настроить разные вопросы, которые планируется задавать контактам.  
@@ -23,7 +23,7 @@ ms.locfileid: "2553946"
 Также можно указать, чтобы ответы на некоторые из этих вопросов заполнялись автоматически на основе данных о контакте, заказчике или поставщике.  
 
 ## <a name="to-add-a-profile-questionnaire"></a>Добавление анкеты профиля
-1.  Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка анкеты**, а затем выберите соответствующую ссылку.  
+1.  Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка анкеты**, затем выберите соответствующую ссылку.  
 2.  Выберите действие **Создать**.  
 3.  Заполните соответствующим образом поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
 

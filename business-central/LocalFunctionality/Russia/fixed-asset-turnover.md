@@ -5,15 +5,15 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: ''
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 7d4d30ff8039d80a72e2e233eb7ab4b74ac4d724
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 5eb52157135d0c7735cb8bb99d44e4643be9d2de
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2301175"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3180973"
 ---
 # <a name="fixed-asset-turnover"></a>Оборот основных средств
 

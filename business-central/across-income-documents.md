@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: electronic document, e-invoice, incoming document, OCR, ecommerce, document exchange, import invoice
-ms.date: 01/13/2020
+ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: 54ff8fe435012d1a6f00c70540f8dfccdc5901bc
-ms.sourcegitcommit: ead69ebe5b29927876a4fb23afb6c066f8854591
+ms.openlocfilehash: 352ebe98ee15547a16365901134b6dd198dc74c2
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "2952870"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3187800"
 ---
 # <a name="incoming-documents"></a>Входящие документы
 Несколько бизнес-транзакций не записаны в [!INCLUDE[d365fin](includes/d365fin_md.md)] с самого начала. Вместо этого ваша компания получает внешний бизнес-документ в виде вложения в сообщение электронной почты или бумажной копии, которая будет отсканирована в файл. Это характерно для покупок, где такие файлы исходящих документов представляют денежные поступления за расходы или небольшие покупки.
@@ -44,7 +44,7 @@ ms.locfileid: "2952870"
 | Настраивайте функции входящих документов и службу OCR. |[Настройка входящих документов](across-how-setup-income-documents.md) |
 | Создавайте записи входящих документов, вложенные файлы, используйте OCR для преобразования PDF-файлов в электронные документы, преобразуйте электронные документы в записи документа, выполняйте аудит учтенных документов продажи и покупки по записям входящих документов. |[Обработка входящих документов](across-process-income-documents.md) |
 
-## <a name="see-related-training-at-microsoft-learnlearnmodulesincoming-documents-dynamics-365-business-centralindex"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/incoming-documents-dynamics-365-business-central/index)
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/incoming-documents-dynamics-365-business-central/index)
 
 ## <a name="see-also"></a>См. также
 [Покупки](purchasing-manage-purchasing.md)  

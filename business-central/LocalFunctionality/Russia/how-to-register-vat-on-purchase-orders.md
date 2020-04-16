@@ -5,15 +5,15 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: ''
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 224f38af2e460dd32e018f5df4205a25ffddd9a5
-ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
+ms.openlocfilehash: d3b6071c9cebdb49ed3284aa5f3e371c092f2fc6
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "2554504"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3180948"
 ---
 # <a name="register-vat-on-purchase-orders"></a>Регистрация НДС по заказам на покупку
 
@@ -21,7 +21,7 @@ ms.locfileid: "2554504"
 
 ## <a name="to-register-vat-on-a-purchase-order"></a>Регистрация НДС по заказам на покупку
 
-1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Заказ на покупку**, а затем выберите соответствующую ссылку. Выберите соответствующий заказ на покупку.
+1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Заказ на покупку**, затем выберите соответствующую ссылку. Выберите соответствующий заказ на покупку.
 
 2. На экспресс-вкладке **Отгрузка** заполните поля, как описано в следующей таблице.
 

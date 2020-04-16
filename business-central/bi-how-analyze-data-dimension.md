@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: bi, power BI, analysis, KPI
-ms.date: 01/13/2020
+ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: 3f6c42be6f979d2677cb8da57d3c5843d992089a
-ms.sourcegitcommit: ead69ebe5b29927876a4fb23afb6c066f8854591
+ms.openlocfilehash: d97b2cc8070da10de51da1ee43acb9ede4bb5601
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "2952726"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3186072"
 ---
 #  <a name="analyze-data-by-dimensions"></a>Анализ данных по измерениям
 В финансовом анализе измерением называются данные, которые можно добавить в операции в качестве своего рода маркера. Эти данные используются для группировки операций со сходными характеристиками, такими как клиенты, регионы, товары или менеджеры, и удобного извлечениях этих групп для анализа. Измерения могут использоваться в операциях в журналах, документах и бюджетах. Термин «измерение» указывает на то, как именно происходит анализ. Например, двумерный анализ может использоваться для просмотра продаж по областям. Однако, создание операций с использованием более двух измерений позволяет осуществлять более сложный анализ, например анализ продаж по кампаниям по сбыту по группам клиентов по областям. Дополнительные сведения см. в разделе [Работа с измерениями](finance-dimensions.md).
@@ -74,7 +74,7 @@ ms.locfileid: "2952726"
 > [!NOTE]  
 >   Чтобы одновременно изменить некоторые или все аналитические отчеты, воспользуйтесь пакетным заданием **Обновление представлений анализа**.  
 
-## <a name="see-related-training-at-microsoft-learnlearnmodulesdimensions-financial-reports-dynamics-365-business-centralindex"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/dimensions-financial-reports-dynamics-365-business-central/index)
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/dimensions-financial-reports-dynamics-365-business-central/index)
 
 ## <a name="see-also"></a>См. также
 [Бизнес-аналитика](bi.md)  

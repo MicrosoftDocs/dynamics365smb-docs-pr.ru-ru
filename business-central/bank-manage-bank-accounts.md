@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: reconcile
-ms.date: 01/10/2020
+ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: 0d1a38468f5d07a1170027bc728ba16996f2b782
-ms.sourcegitcommit: 2f741f442226b8be74586e355f283f365e43220f
+ms.openlocfilehash: 050519c77f7c1dca5dd451a57ac47f71b4803a91
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/10/2020
-ms.locfileid: "2947241"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3186192"
 ---
 # <a name="reconciling-bank-accounts"></a>Выверка банковских счетов
 Банковская выверка должна проводиться через равные промежутки времени для всех ваших банковских счетов, чтобы обеспечить правильность кассовых записей компании. Для этого вы сравниваете и сопоставляете записи на своих внутренних банковских счетах с банковскими операциями в вашем банке, а затем учитываете сальдо на своих внутренних банковских счетах, чтобы итоги были доступны финансовым менеджерам. Банковская выверка также является практическим способом выявления и устранения недостающих платежей и ошибок в бухгалтерском учете.
@@ -36,7 +36,7 @@ ms.locfileid: "2947241"
 | Выверка банковских счетов как отдельная задача на странице **Выверка банковского счета**. |[Выверка банковских счетов](bank-how-reconcile-bank-accounts-separately.md) |
 | Выверка банковских счетов в связи с обработкой платежей на странице **Журнал выверки платежей**. |[Автоматическое применение платежей и выверка банковских счетов](receivables-apply-payments-auto-reconcile-bank-accounts.md) |
 
-## <a name="see-related-training-at-microsoft-learnlearnpathsreconcile-bank-accounts-dynamics-365-business-central"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/reconcile-bank-accounts-dynamics-365-business-central/)
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/reconcile-bank-accounts-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 [Настройка банковских операций](bank-setup-banking.md)  

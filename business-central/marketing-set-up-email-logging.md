@@ -10,21 +10,21 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: relationship, prospect, opportunity, email
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.author: bholtorf
-ms.openlocfilehash: e325cce98256b723c6fcfdf4d16068f852a2b032
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 13699c002402b6b6d32edc13dca3710fefff2129
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2308744"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3181265"
 ---
 # <a name="track-email-message-exchanges-between-salespeople-and-contacts"></a>Отслеживание обмена сообщениями электронной почты между продавцами и контактами
 Получите больше от общения между продавцами и вашими существующими или потенциальными клиентами, отслеживая обмен сообщениями электронной почты, затем превращая их в реальные возможности. [!INCLUDE[d365fin](includes/d365fin_md.md)] может работать с Exchange Online, чтобы вести журнал входящих и исходящих сообщений. Вы можете просматривать и анализировать содержимое каждого сообщения на странице **Журналы взаимодействий**.
 
 > [!VIDEO https://go.microsoft.com/fwlink/?linkid=2085401]
 
-## <a name="setting-up-included365finincludesd365fin_mdmd-to-log-email-messages"></a>Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)] для регистрации сообщений электронной почты
+## <a name="setting-up-d365fin-to-log-email-messages"></a>Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)] для регистрации сообщений электронной почты
 Начните работать с регистрацией электронной почты за два простых шага:
 
 1. Соедините [!INCLUDE[d365fin](includes/d365fin_md.md)] с Exchange Online для подписки Office 365. Exchange Online обрабатывает ваши сообщения электронной почты. Мы упростили этот шаг, предоставив мастер настройки. Вам просто нужны ваши учетные данные администратора для вашей учетной записи администратора в Office 365. Чтобы запустить руководство, выберите **Мастер настройки**, затем выберите **Настройка регистрации электронной почты**. 

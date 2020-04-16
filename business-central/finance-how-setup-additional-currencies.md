@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: multiple currencies
-ms.date: 01/13/2020
+ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: c5aacb325eec2a8679aed845c496744e05535e30
-ms.sourcegitcommit: ead69ebe5b29927876a4fb23afb6c066f8854591
+ms.openlocfilehash: 9802821985550668d460aa3213c9fb64764169c0
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "2953735"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3183552"
 ---
 # <a name="set-up-an-additional-reporting-currency"></a>Настройка дополнительной отчетной валюты
 Поскольку сфера действия организаций включает все новые и новые страны и регионы, растет необходимость в просмотре и составлении финансовых данных в нескольких валютах.
@@ -121,7 +121,7 @@ ms.locfileid: "2953735"
 > [!NOTE]  
 >  Поле **Доп. отчетная валюта** будет активировано только после нажатия кнопки **OK** в пакетном задании **Корректировать доп. отчетную валюту**.  
 
-## <a name="see-related-training-at-microsoft-learnlearnpathsuse-multiple-currencies-dynamics-365-business-central"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/use-multiple-currencies-dynamics-365-business-central/)
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/use-multiple-currencies-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 [Обновление валютных курсов](finance-how-update-currencies.md)  

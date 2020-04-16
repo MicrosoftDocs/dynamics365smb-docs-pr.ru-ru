@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 01/30/2020
+ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: f71c3fa29ab12c13395c07d5919fc14e86511e75
-ms.sourcegitcommit: 1c286468697d403b9e925186c2c05e724d612b88
+ms.openlocfilehash: 9094d2f77dff8372ece8bd5a5b434f63042d3adc
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/31/2020
-ms.locfileid: "2999691"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3186648"
 ---
 # <a name="administration"></a>Администрация
 Основные задачи администрирования обычно выполняются в организации исполнителем какой-либо одной роли. Объем этих задач может зависеть от размера организации и должностных обязанностей администратора. Среди подобных задач могут быть следующие: управление синхронизацией с базой данных работ и очередей электронной почты, задание пользователей и настройка пользовательского интерфейса.  
@@ -36,6 +36,7 @@ ms.locfileid: "2999691"
 |Определите, кто может войти в [!INCLUDE[d365fin](includes/d365fin_md.md)], создав пользователей в центре администрирования Microsoft 365 в соответствии с лицензиями на продукт.|[Создание пользователей в соответствии с лицензиями](ui-how-users-permissions.md)|
 |Назначение разрешения пользователям, изменение наборов разрешений и группирование пользователей для удобного управления разрешениями.|[Назначение разрешений пользователям и группам](ui-how-users-permissions.md)|
 |Добавьте пользователей, управляйте разрешениями и доступом к данным, назначьте роли.|[Управление профилями](admin-users-profiles-roles.md)|
+|Настройте принтеры и укажите, какие отчеты должны печататься на каких принтерах.|[Настройка принтеров](ui-specify-printer-selection-reports.md)|
 |Классифицируйте конфиденциальность данных для полей, чтобы можно было отвечать на запросы субъектов данных, связанных с их личными данными.|[Классификация конфиденциальности данных](admin-classifying-data-sensitivity.md)|
 |Отвечайте на запросы от субъектов данных, связанные с их личными данными.|[Ответ на запросы о личных данных](admin-responding-to-requests-about-personal-data.md)|
 |Настройка нового филиала с помощью шаблонов|[Создание новых организаций](about-new-company.md)|
@@ -48,7 +49,7 @@ ms.locfileid: "2999691"
 |Подключите Dynamics 365 Sales к [!INCLUDE[d365fin](includes/d365fin_md.md)] для получения бесшовной интеграции между отношениями с клиентами и обработкой заказов в процессах от интереса до получения денег.|[Интеграция с Dynamics 365 Sales](admin-prepare-dynamics-365-for-sales-for-integration.md)|
 |Измените поля и действия, которые будут отображаться в пользовательском интерфейсе, в соответствии с бизнес-процессами вашей организации и расширения решения с помощью приложений.|[Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-customizing-overview.md)|
 
-## <a name="see-related-training-at-microsoft-learnlearnpathsdeploy-configure-dynamics-365-business-central"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/deploy-configure-dynamics-365-business-central/)
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/deploy-configure-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 [Функциональные бизнес-возможности](across-business-functionality.md)  

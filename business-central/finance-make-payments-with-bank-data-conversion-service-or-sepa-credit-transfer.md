@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 01/24/2020
+ms.date: 04/01/2020
 ms.author: bholtorf
-ms.openlocfilehash: e37341605465a23427b1011e3830ae62b37a46ed
-ms.sourcegitcommit: d0dc5e5c46b932899e2a9c7183959d0ff37738d6
+ms.openlocfilehash: 101af740495bcbb92cb0c5bfe0606c1ac23b4935
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "3076881"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3183144"
 ---
 # <a name="make-payments-with-the-amc-banking-365-fundamentals-extension-or-sepa-credit-transfer"></a>Платежи с помощью расширения AMC Banking 365 Fundamentals или кредитного перевода SEPA
 На странице **Журнал платежей** можно обработать платежи поставщикам путем экспорта файла со сведениями о платежах из строк журнала. Затем можно загрузить файл в электронный банк для обработки соответствующих денежных переводов. [!INCLUDE[d365fin](includes/d365fin_md.md)] поддерживает формат кредитового перевода SEPA, но в вашей стране или регионе могут быть доступны другие форматы электронных платежей.

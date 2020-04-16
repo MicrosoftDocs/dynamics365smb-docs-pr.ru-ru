@@ -5,15 +5,15 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: ''
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 895793a635f62b01ce358692822d5408092e8d4a
-ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
+ms.openlocfilehash: 9ad1fc54910412ad4b1a2b0c3d500c5016642b31
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "2554580"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3189207"
 ---
 # <a name="upload-books-of-purchases-and-sales-and-the-vat-declaration-in-xml-format"></a>Загрузка книг покупок и продаж и декларации НДС в формате XML
 

@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: analysis, history, track
-ms.date: 01/13/2020
+ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: 6ac8d49d2b3a88d472a61a9a61c2893360036eb7
-ms.sourcegitcommit: ead69ebe5b29927876a4fb23afb6c066f8854591
+ms.openlocfilehash: 61e39b15042a4c3bd21ef1297d90803496305f8f
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "2952630"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3183792"
 ---
 # <a name="working-with-dimensions"></a>Работа с измерениями
 Чтобы упростить анализ по документам, таким как заказы на продажу, можно использовать измерения. Измерения — это атрибуты и значения, которые классифицируют операции для их отслеживания и анализа. Например, измерения могут указывать проект или отдел, который является источником операции.  
@@ -209,7 +209,7 @@ ms.locfileid: "2952630"
 |Непустой код значений измерений для пустого измерения по умолчанию, где поле **Учет значения** содержит **Единый код**|-%1 %2 должно быть пусто.<br />-%1 %2 должно быть пусто для %3 %4.|-Измените поле **Учет значения** на странице **Измерение по умолчанию**.<br />-Введите пустой код значений измерения для конфликтующего измерения в наборе измерений.|
 |Непредусмотренное значение измерения для измерения по умолчанию, где поле **Учет значения** содержит **Нет кода**|-%1 %2 не должно упоминаться.<br />-%1 %2 не должно упоминаться для %3 %4|-Измените поле **Учет значения** на странице **Измерение по умолчанию**.<br />-Удалите конфликтующую строку из набора измерений.|
 
-## <a name="see-related-training-at-microsoft-learnlearnmodulesdimensions-dynamics-365-business-centralindex"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/dimensions-dynamics-365-business-central/index)
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/dimensions-dynamics-365-business-central/index)
 
 ## <a name="see-also"></a>См. также
 [Бизнес-аналитика](bi.md)  

@@ -5,14 +5,14 @@ author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: multiple currencies, adjust exchange rates
-ms.date: 01/13/2020
+ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: be39f8a56dc95ed48e339e89513a103d044faa08
-ms.sourcegitcommit: ead69ebe5b29927876a4fb23afb6c066f8854591
+ms.openlocfilehash: 252636417dab633b8b95a15f206d1be82fc78a32
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "2952678"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3183192"
 ---
 # <a name="update-currency-exchange-rates"></a>Обновление валютных курсов
 Поскольку сфера действия организаций включает все новые и новые страны и регионы, растет необходимость в торговле и составлении финансовых отчетов в нескольких валютах. Следует настраивать код по каждой используемой валюте при покупке или продаже в валютах, отличных от местной валюты, при поступлениях или платежах в других валютах или при записи транзакций ГК в других валютах.
@@ -47,7 +47,7 @@ ms.locfileid: "2952678"
 > [!Important]
 > Перед использованием этого пакетного задания необходимо ввести корректировки валютных курсов, которые будут использоваться для коррекции сальдо в иностранных валютах. Это делается на странице **Валютные курсы**.<br><br>  
 
-> [!Video https://www.microsoft.com/videoplayer/embed/RE3Q24s]
+> [!Video https://www.microsoft.com/videoplayer/embed/RE3Q24s?rel=0]
 
 ## <a name="to-set-up-a-currency-exchange-rate-service"></a>Настройка служб валютных курсов
 Для обновления валютных курсов можно использовать внешнюю службу, например FloatRates.
@@ -63,7 +63,7 @@ ms.locfileid: "2952678"
 
 Значение в поле **Валютный курс** на странице **Валюты** обновляется до самого актуального валютного курса.
 
-## <a name="see-related-training-at-microsoft-learnlearnpathsuse-multiple-currencies-dynamics-365-business-central"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/use-multiple-currencies-dynamics-365-business-central/)
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/use-multiple-currencies-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 [Настройка дополнительной отчетной валюты](finance-how-setup-additional-currencies.md)  

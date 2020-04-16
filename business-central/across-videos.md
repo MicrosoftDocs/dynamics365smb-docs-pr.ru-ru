@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: video, library, how to
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.author: bholtorf
-ms.openlocfilehash: d74c6d4c43671c90918bfd29640760a4e1a64f65
-ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
+ms.openlocfilehash: edcebea944533b0c1c91575dd6f3ec3bafe0688b
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "2554426"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3187560"
 ---
 # <a name="visit-our-video-library"></a>Посетите нашу библиотеку видео
 Мы знаем, что некоторые люди предпочитают смотреть контент, а не читать его. С этой целью мы производим короткие, легко усваиваемые видео, которые либо автономны, либо дополняют нашу помощь пользователям.   

@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: f38422326487a3fd7367b977e6124eab572fffd9
-ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
+ms.openlocfilehash: bbc9c0e55041f4584ae7609f727179737adaa041
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "2880380"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3185352"
 ---
 # <a name="design-details-integration-with-inventory"></a>Сведения о проектировании: интеграция с запасом
 Область применения управления складом и область применения запасов взаимодействуют друг с другом в физических запасах и в корректировке запасов или склада.  

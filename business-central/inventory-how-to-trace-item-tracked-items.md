@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: cd97605ec3f000e738cde06fa44c6bc4ccc49499
-ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
+ms.openlocfilehash: 07ac507f0dee83b04e646ef6277e813d30b16500
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "2878249"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3181992"
 ---
 # <a name="trace-item-tracked-items"></a>Трассировка товаров, трассируемых по товарам
 Можно просмотреть, где использовался товар, для которого требуется трассировка, включая то, как и где он был получен или произведен, перемещен, продан, потреблен или возвращен. Также можно найти все текущие экземпляры определенного серийного номера или номера партии в базе данных. Функции, которые позволяют это сделать: "Навигатор" и "Трассировка товаров".  

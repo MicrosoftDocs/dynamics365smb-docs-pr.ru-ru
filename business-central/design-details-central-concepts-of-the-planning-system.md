@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: b809743aa25aee409b9a71ca98da77ea64b58fb1
-ms.sourcegitcommit: d0dc5e5c46b932899e2a9c7183959d0ff37738d6
+ms.openlocfilehash: 872e451302ffa3f6dcebe55886b2af943424bba7
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "3076518"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3185688"
 ---
 # <a name="design-details-central-concepts-of-the-planning-system"></a>Сведения о проектировании: основные понятия системы планирования
 Функции планирования содержатся в пакетном задании, которое сначала выбирает соответствующие товары и период для планирования. Затем в соответствии с кодом нижнего уровня каждого товара (положением спецификации) пакетное задание вызывает модуль, вычисляющий план поставок путем балансировки наборов спрос-предложение и предлагая возможные действия пользователю. Предложенные действия отображаются как строки в журнале планирования или журнале заявок.  

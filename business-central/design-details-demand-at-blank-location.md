@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: design, demand, supply, inventory, planning
-ms.date: 11/11/2019
+ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: b5434f4f8b5df6a23d01401be442ec08de329d1d
-ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
+ms.openlocfilehash: f808865bd4fc2113dd5c04071f7ba2e8793fe3af
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "2880524"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3185568"
 ---
 # <a name="design-details-demand-at-blank-location"></a>Сведения о проектировании: спрос на пустом складе
 Если пользователь создает событие требования, например строку заказа на продажу, программа иногда позволяет пользователю указать код склада, в другие разы — нет, нужно использовать пустой склад.

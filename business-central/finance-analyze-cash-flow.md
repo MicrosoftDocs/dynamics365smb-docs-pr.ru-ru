@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: money flow, expense and income, liquidity, cash receipts minus cash payments, Cartera
-ms.date: 01/13/2020
+ms.date: 04/01/2020
 ms.author: bholtorf
-ms.openlocfilehash: 3e66c2d6beb24c82fcd314caeac00f3c7b20412a
-ms.sourcegitcommit: ead69ebe5b29927876a4fb23afb6c066f8854591
+ms.openlocfilehash: 5a13d461bd4764173e7d674ef35f5fa32f11318b
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "2953159"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3184008"
 ---
 # <a name="analyzing-cash-flow-in-your-company"></a>Анализ движения денежных средств в организации
 Как говорят, деньги решают все. Диаграммы в ролевом центре бухгалтера предоставляют сведения, которые помогут принимать обоснованные решения относительно того, что сделать с кассой.  
@@ -49,7 +49,7 @@ ms.locfileid: "2953159"
 2. Выберите прогноз движения денежных средств, а затем щелкните действие **Журнал движения денежных средств**.  
 3. На странице **Журнал движения денежных средств** выберите действие **Предложить строки журнала**.  
 
-## <a name="see-related-training-at-microsoft-learnlearnmodulesforecast-cash-flow-dynamics-365-business-centralindex"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/forecast-cash-flow-dynamics-365-business-central/index)
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/forecast-cash-flow-dynamics-365-business-central/index)
 
 ## <a name="see-also"></a>См. также
 [Настройка финансов](finance-setup-finance.md)  

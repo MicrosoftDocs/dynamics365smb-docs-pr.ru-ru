@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: contacts, Office 365
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.author: edupont
-ms.openlocfilehash: 5690d09423deab5d56b848688f82061c7765e02c
-ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
+ms.openlocfilehash: f7cf42a003e68d68bf29a3623e9573f6e33eed4b
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "2879021"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3186624"
 ---
 # <a name="synchronize-contacts-in-business-central-with-contacts-in-microsoft-outlook"></a>Синхронизация контактов в Business Central с контактами в Microsoft Outlook
 Вы можете видеть в [!INCLUDE[d365fin](includes/d365fin_md.md)] те же контакты, что и в Outlook, если настроите синхронизацию контактов. Например, если вы занимаетесь продажами, вы можете выполнять часть своей работы в Outlook, а часть своей работы в [!INCLUDE[d365fin](includes/d365fin_md.md)]. Если в обоих местах контакты одинаковые, вам будет проще работать.  

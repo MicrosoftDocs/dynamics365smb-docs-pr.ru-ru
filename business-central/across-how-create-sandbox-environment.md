@@ -8,16 +8,16 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: sandbox, demo, develop
-ms.date: 12/10/2019
+ms.date: 04/01/2020
 ms.author: solsen
-ms.openlocfilehash: 7d189ab6fa5aff518b643c797b7600570fcad43e
-ms.sourcegitcommit: 3d128a00358668b3fdd105ebf4604ca4e2b6743c
+ms.openlocfilehash: 59b659ca458e6cfe7c13ef5094dbbf80a144c369
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/20/2019
-ms.locfileid: "2910640"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3188568"
 ---
-# <a name="creating-a-sandbox-environment-in-include-prodshortincludesprodshortmd"></a>Создание среды "песочницы" в [!INCLUDE [prodshort](includes/prodshort.md)]
+# <a name="creating-a-sandbox-environment-in-prodshort"></a>Создание среды "песочницы" в [!INCLUDE [prodshort](includes/prodshort.md)]
 
 В [!INCLUDE [prodshort](includes/prodshort.md)] вы можете легко создать безопасную среду, в которой тестировать, обучать или устранять неполадки, не нарушая рабочие процессы вашей компании или бизнес-данные. Такая непроизводственная среда называется *песочницей*. В среде песочницы, изолированной от производственной среды, можно безопасно исследовать, обучать, демонстрировать, разрабатывать и тестировать сервисы без риска повлиять на данные или настройки производственной среды.  
 
@@ -26,7 +26,7 @@ ms.locfileid: "2910640"
 > [!NOTE]
 > Формально среды "песочницы" сильно отличаются от производственных сред, даже если ваш администратор создает "песочницу", включающую производственные данные. Вы не можете использовать песочницу для сравнительного и не можете, например, запросить экспорт базы данных. Если вы хотите создать "песочницу" для сравнительного тестирования, ваш администратор может создать выделенную производственную среду в центре администрирования. Дополнительные сведения см. в разделе [Типы сред](/dynamics365/business-central/dev-itpro/administration/tenant-admin-center-environments#types-of-environments).
 
-## <a name="to-create-a-sandbox-environment-in-your-include-prodshortincludesprodshortmd"></a>Создание среды "песочницы" в [!INCLUDE [prodshort](includes/prodshort.md)]
+## <a name="to-create-a-sandbox-environment-in-your-prodshort"></a>Создание среды "песочницы" в [!INCLUDE [prodshort](includes/prodshort.md)]
 
 1. Выполните вход в производственный экземпляр [!INCLUDE[d365fin](includes/d365fin_md.md)].
 

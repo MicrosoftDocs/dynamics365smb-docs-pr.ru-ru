@@ -10,20 +10,20 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: marketing, campaign, promo, prospect, contact, client, customer
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.author: jswymer
-ms.openlocfilehash: d5c1d54a56509cae379f7a8b62d77c56796f29ba
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 7383fe5e716fbd63012e8ab5ffa236af9e7a979e
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2309440"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3181704"
 ---
 # <a name="add-contacts-to-segments"></a>Добавление контактов к сегментам
 После создания сегмента и ввода базовой информации о нем можно добавить к сегменту контакты. Это можно сделать, заполнив вручную строки на странице **Сегмент**, но проще и быстрее использовать действие **Добавить контакты**.
 
 ## <a name="to-add-a-contact-to-a-segment"></a>Добавление контакта к сегменту
-1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Сегменты**, а затем выберите соответствующую ссылку.  
+1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Сегменты**, затем выберите соответствующую ссылку.  
 2. Выберите сегмент, а затем выберите действие **Добавить контакты**. Откроется страница пакетного задания **Добавление контактов**.
 3. В разделе **Контакт** задайте фильтры, чтобы указать информацию, которую требуется использовать для выбора контактов.
 

@@ -8,23 +8,23 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: OData, Power App, SOAP
-ms.date: 11/20/2019
+ms.date: 04/01/2020
 ms.author: edupont
-ms.openlocfilehash: 9cf587dca8224e742ecbde30bcabc35697bb6f2a
-ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
+ms.openlocfilehash: f6b771b0107214702785d2b124983eb369741a84
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "2881004"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3187920"
 ---
 # <a name="connecting-to-your-business-central-data-to-build-a-business-app-using-power-apps"></a>Подключение к данным Business Central для создания бизнес-приложения с помощью Power Apps
 
-Данные [!INCLUDE[prodshort](includes/prodshort.md)] можно сделать доступными как источник данных в Power Apps.  
+Данные [!INCLUDE[prodshort](includes/prodshort.md)] можно сделать доступными в качестве источника данных в Power Apps.  
 
 > [!NOTE]  
 > Вы должны иметь допустимую учетную запись в [!INCLUDE[prodshort](includes/prodshort.md)] и в Power Apps.  
 
-## <a name="to-add-includeprodshortincludesprodshortmd-as-a-data-source-in-power-apps"></a>Добавление [!INCLUDE[prodshort](includes/prodshort.md)] как источника данных в Power Apps
+## <a name="to-add-prodshort-as-a-data-source-in-power-apps"></a>Добавление [!INCLUDE[prodshort](includes/prodshort.md)] как источника данных в Power Apps
 
 1. В браузере перейдите к [powerapps.microsoft.com](https://powerapps.microsoft.com/) и выполните вход.
 2. На домашней странице выберите **Приложения**, **Создать приложение** и **Холст**, чтобы создать новое приложение на основе холста. Это приложение будет разработано для использования на мобильных устройствах, но также можно выбрать для использования другой шаблон.
@@ -32,14 +32,14 @@ ms.locfileid: "2881004"
     Следующий шаг создания Power App — выбор данных. Щелкните значок стрелки, а затем выберите параметр **Новое подключение** в левом верхнем углу страницы.
 3. В списке доступных соединений выберите **Business Central**, затем нажмите кнопку **Создать**.
 
-    Power Apps подключится к вашему [!INCLUDE [prodshort](includes/prodshort.md)] с использованием учетных данных, с которыми вы выполнили вход. Если вы не являетесь администратором [!INCLUDE [prodshort](includes/prodshort.md)], может потребоваться выполнить вход с другой учетной записью.  
+    Power Apps подключится к вашему экземпляру [!INCLUDE [prodshort](includes/prodshort.md)] с использованием учетных данных, с которыми вы выполнили вход. Если вы не являетесь администратором [!INCLUDE [prodshort](includes/prodshort.md)], может потребоваться выполнить вход с другой учетной записью.  
 
 4. Power Apps отобразит список *сред и организаций*, доступных в [!INCLUDE [prodshort](includes/prodshort.md)]. Выберите среду и организацию, содержащую данные, к которым вы хотите подключиться. Далее вы увидите список API. Выберите **API**, к которому вы ходите подключиться.
 
-Эти так называемые таблицы являются частью API-интерфейса [!INCLUDE [prodshort](includes/prodshort.md)]. Можно не настаивать конечные точки самому — соединитель [!INCLUDE [prodshort](includes/prodshort.md)] для Power Apps сделает это за вас.  
+Эти так называемые таблицы являются частью API-интерфейса [!INCLUDE [prodshort](includes/prodshort.md)]. Настраивать конечные точки вам не нужно — соединитель [!INCLUDE [prodshort](includes/prodshort.md)] для Power Apps делает это автоматически.  
 
 > [!NOTE]
-> Если требуется включение данных из других таблиц в [!INCLUDE [prodshort](includes/prodshort.md)] в ваше приложение, необходимо совместно с разработчиком определить пользовательский API в [!INCLUDE [prodshort](includes/prodshort.md)], а затем использовать этот пользовательский API через пользовательский соединитель в Power Apps. Дополнительные сведения см. в разделе [Создание пользовательского соединителя с нуля](/connectors/custom-connectors/define-blank).  
+> Если требуется включение данных из других таблиц в [!INCLUDE [prodshort](includes/prodshort.md)] в ваше приложение, необходимо работать с разработчиком для определения пользовательского API-интерфейса в [!INCLUDE [prodshort](includes/prodshort.md)], затем использовать этот пользовательский API-интерфейс через пользовательский соединитель в Power Apps. Дополнительные сведения см. в разделе [Создание пользовательского соединителя с нуля](/connectors/custom-connectors/define-blank).  
 
 На этом шаге вы успешно подключились с данным [!INCLUDE [prodshort](includes/prodshort.md)] и готовы начать создание PowerApp. Можно добавить дополнительные экраны и подключить дополнительные данные из [!INCLUDE [prodshort](includes/prodshort.md)]. Дополнительные сведения см. в разделе [Создание приложения на основе холста из шаблона в Power Apps](/powerapps/maker/canvas-apps/get-started-test-drive).  
 

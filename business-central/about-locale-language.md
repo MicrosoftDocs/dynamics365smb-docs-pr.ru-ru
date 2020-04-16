@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: language, locale, localization, culture
-ms.date: 10/22/2019
+ms.date: 04/01/2020
 ms.author: edupont
-ms.openlocfilehash: 81377dfe391415c6922cf0dcf00a8c8567ee4c80
-ms.sourcegitcommit: c6e28db8f78fa21db064c9b8a8d742f49d7db3ae
+ms.openlocfilehash: 2d98f433acbe5905d9807bf7e7ded8708ed22d3b
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "2692708"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3189025"
 ---
 # <a name="changing-language-and-locale"></a>Изменение языка и языкового стандарта
 
@@ -44,7 +44,7 @@ ms.locfileid: "2692708"
 
 На странице **Справка и поддержка** можно посмотреть версию [!INCLUDE [prodshort](includes/prodshort.md)], на которой основана ваша организация. Если вы хотите основать компанию на другой версии, ваш администратор может создать новую производственную среду. Для получения дополнительной информации см. раздел [Создание новой производственной среды](/dynamics365/business-central/dev-itpro/administration/tenant-admin-center-environments#create-a-new-production-environment) в контенте для разработчиков и ИТ-специалистов.  
 
-## <a name="languages-of-the-included365finincludesd365fin_mdmd-help"></a>Языки справки [!INCLUDE[d365fin](includes/d365fin_md.md)]
+## <a name="languages-of-the-d365fin-help"></a>Языки справки [!INCLUDE[d365fin](includes/d365fin_md.md)]
 Содержимое справки для основных функциональных возможностей в [!INCLUDE[d365fin](includes/d365fin_md.md)] публикуется на сайте "Документация Майкрософт" и доступно на нескольких разных языках. При доступе к документам из [!INCLUDE[d365fin](includes/d365fin_md.md)] содержимое отображается на вашем языке. Если какая-то конкретная страница еще недоступна на вашем языке, она отображается на английском.
 
 ### <a name="how-do-i-change-the-language"></a>Как изменить язык?

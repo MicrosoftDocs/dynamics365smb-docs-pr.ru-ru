@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: d26073d7b96b3c5970689c916edf18fccab6ca34
-ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
+ms.openlocfilehash: 1a9d4c2a4a99ebec0aa1fc019871608948844b7a
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "2878705"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3187224"
 ---
 # <a name="configure-a-company-with-the-rapidstart-wizard"></a>Настройка организации с помощью мастера RapidStart
 Можно быстро настроить новую организацию, которую вы создали с помощью мастера RapidStart Services.

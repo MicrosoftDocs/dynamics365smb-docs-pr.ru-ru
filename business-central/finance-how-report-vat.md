@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: VAT, tax, report, EC sales list, statement
-ms.date: 01/13/2020
+ms.date: 04/01/2020
 ms.author: bholtorf
-ms.openlocfilehash: e7671e54f95a48322df186b5aed5a81552f9f91f
-ms.sourcegitcommit: ead69ebe5b29927876a4fb23afb6c066f8854591
+ms.openlocfilehash: 7365886f09e1e3d1b67dcbea82594f3d3599f25a
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "2953783"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3183888"
 ---
 # <a name="report-vat-to-tax-authorities"></a>Подача отчета об НДС в налоговые органы
 В этом разделе описываются отчеты в [!INCLUDE[d365fin](includes/d365fin_md.md)], которые можно использовать для подачи сведений о суммах налога на добавленную стоимость (НДС) для продаж и покупок в налоговые органы региона.
@@ -61,7 +61,7 @@ ms.locfileid: "2953783"
     > [!NOTE]  
     >   Рекомендуется проверить подключение. Чтобы это сделать, установите флажок **Тестовый режим**, затем подготовьте и отправьте отчет по НДС, как описано в разделе _Подготовка и отправка отчета по НДС_. В тестовом режиме служба проверяет, может ли налоговый орган принимать ваш отчет, и статус отчета покажет, была ли тестовая передача успешной. Важно помнить, что это не фактическая передача. Чтобы по-настоящему отправить отчет, необходимо снять флажок **Тестовый режим**, затем повторить процесс отправки.
 
-## <a name="to-set-up-vat-reports-in-included365finincludesd365fin_mdmd"></a>Настройка отчетов по НДС в [!INCLUDE[d365fin](includes/d365fin_md.md)]
+## <a name="to-set-up-vat-reports-in-d365fin"></a>Настройка отчетов по НДС в [!INCLUDE[d365fin](includes/d365fin_md.md)]
 1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка отчета НДС**, затем выберите соответствующую ссылку.  
 2. Чтобы разрешить пользователям изменять и повторно отправлять этот отчет, установите флажок **Изменить отправленные отчеты**.  
 3. Выберите серию номеров для использования для каждого отчета.  
@@ -111,7 +111,7 @@ ms.locfileid: "2953783"
 > [!Note]
 > При создании модулей codeunit для отчета следует следить за значением поля **Версия отчета по НДС**. Это поле должно отражать версию отчета, которая требуется налоговыми органами. Например, в этом поле можно ввести **2017** для указания того, что отчет соответствует требованиям, действующим в этом году. Чтобы узнать текущую версию, обратитесь в свой налоговый орган.
 
-## <a name="see-related-training-at-microsoft-learnlearnpathsprocess-vat-dynamics-365-business-central"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/process-vat-dynamics-365-business-central/)
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/process-vat-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 [Настройка методов расчета и учета налога на добавленную стоимость](finance-setup-vat.md)  
