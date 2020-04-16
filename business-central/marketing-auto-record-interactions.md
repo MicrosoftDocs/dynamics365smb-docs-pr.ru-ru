@@ -10,27 +10,27 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: marketing, relationship, prospect, contact, client, customer
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.author: jswymer
-ms.openlocfilehash: 65087f044c410f41ace0a218d810675e19c856d0
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 3c860ac8fec0e9a3cdf697ee59789d55387e5dc1
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2309416"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3181678"
 ---
-# <a name="recording-interactions-with-contacts-automatically"></a><span data-ttu-id="26202-103">Автоматическая регистрация взаимодействий с контактами</span><span class="sxs-lookup"><span data-stu-id="26202-103">Recording Interactions with Contacts Automatically</span></span>
-<span data-ttu-id="26202-104">Вы можете настроить приложение на автоматическую регистрацию взаимодействий по документам продаж, покупок и сервиса, титульным листам, эл. почте, телефонным звонкам, например:</span><span class="sxs-lookup"><span data-stu-id="26202-104">You can set up the application to automatically record interactions for sales, purchase and service documents, cover sheets, e-mails, phone calls, such as:</span></span>
+# <a name="recording-interactions-with-contacts-automatically"></a><span data-ttu-id="5b979-103">Автоматическая регистрация взаимодействий с контактами</span><span class="sxs-lookup"><span data-stu-id="5b979-103">Recording Interactions with Contacts Automatically</span></span>
+<span data-ttu-id="5b979-104">Вы можете настроить приложение на автоматическую регистрацию взаимодействий по документам продаж, покупок и сервиса, титульным листам, эл. почте, телефонным звонкам, например:</span><span class="sxs-lookup"><span data-stu-id="5b979-104">You can set up the application to automatically record interactions for sales, purchase and service documents, cover sheets, e-mails, phone calls, such as:</span></span>
 
-* <span data-ttu-id="26202-105">Вводить на печать предложения, заказы, счета, кредит-ноты и титульные листы для покупок и продаж.</span><span class="sxs-lookup"><span data-stu-id="26202-105">Print sales or purchase quotes, orders, invoices, credit memos, cover sheets.</span></span>
-* <span data-ttu-id="26202-106">Создавать сервисные заказы продаж.</span><span class="sxs-lookup"><span data-stu-id="26202-106">Create sales service orders.</span></span>
-* <span data-ttu-id="26202-107">Учитывать сервисные заказы продаж.</span><span class="sxs-lookup"><span data-stu-id="26202-107">Post sales service orders.</span></span>
-* <span data-ttu-id="26202-108">Отправлять сообщения электронной почты своим контактам.</span><span class="sxs-lookup"><span data-stu-id="26202-108">Send e-mails to your contacts.</span></span>
-* <span data-ttu-id="26202-109">Звонить контактам, если у вас есть имеется TAPI-совместимый телефон и приложение установлено соответствующим образом.</span><span class="sxs-lookup"><span data-stu-id="26202-109">Call your contacts, if you have a TAPI-compliant telephone and the correct installation.</span></span>
+* <span data-ttu-id="5b979-105">Вводить на печать предложения, заказы, счета, кредит-ноты и титульные листы для покупок и продаж.</span><span class="sxs-lookup"><span data-stu-id="5b979-105">Print sales or purchase quotes, orders, invoices, credit memos, cover sheets.</span></span>
+* <span data-ttu-id="5b979-106">Создавать сервисные заказы продаж.</span><span class="sxs-lookup"><span data-stu-id="5b979-106">Create sales service orders.</span></span>
+* <span data-ttu-id="5b979-107">Учитывать сервисные заказы продаж.</span><span class="sxs-lookup"><span data-stu-id="5b979-107">Post sales service orders.</span></span>
+* <span data-ttu-id="5b979-108">Отправлять сообщения электронной почты своим контактам.</span><span class="sxs-lookup"><span data-stu-id="5b979-108">Send e-mails to your contacts.</span></span>
+* <span data-ttu-id="5b979-109">Звонить контактам, если у вас есть имеется TAPI-совместимый телефон и приложение установлено соответствующим образом.</span><span class="sxs-lookup"><span data-stu-id="5b979-109">Call your contacts, if you have a TAPI-compliant telephone and the correct installation.</span></span>
 
-<span data-ttu-id="26202-110">Для настройки автоматической регистрации этих взаимодействий вы должны задать шаблоны взаимодействия для этих документов и действий с помощью страницы **Настройка шаблона взаимодействия**.</span><span class="sxs-lookup"><span data-stu-id="26202-110">To set up the automatic recording of these interactions, you specify interaction templates for these documents and actions by using the **Interaction Template Setup** page.</span></span>  
-<span data-ttu-id="26202-111">Чтобы открыть страницу **Настройка шаблона взаимодействия**, выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка шаблона взаимодействия**, а затем выберите соответствующую ссылку.</span><span class="sxs-lookup"><span data-stu-id="26202-111">To open the **Interaction Template Setup** page, choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Interaction Template Setup**, and then choose the related link.</span></span>
+<span data-ttu-id="5b979-110">Для настройки автоматической регистрации этих взаимодействий вы должны задать шаблоны взаимодействия для этих документов и действий с помощью страницы **Настройка шаблона взаимодействия**.</span><span class="sxs-lookup"><span data-stu-id="5b979-110">To set up the automatic recording of these interactions, you specify interaction templates for these documents and actions by using the **Interaction Template Setup** page.</span></span>  
+<span data-ttu-id="5b979-111">Чтобы открыть страницу **Настройка шаблона взаимодействия**, выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка шаблона взаимодействия**, затем выберите соответствующую ссылку.</span><span class="sxs-lookup"><span data-stu-id="5b979-111">To open the **Interaction Template Setup** page, choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Interaction Template Setup**, and then choose the related link.</span></span>
 
-## <a name="see-also"></a><span data-ttu-id="26202-112">См. также</span><span class="sxs-lookup"><span data-stu-id="26202-112">See Also</span></span>
-[<span data-ttu-id="26202-113">Регистрация взаимодействий с контактами</span><span class="sxs-lookup"><span data-stu-id="26202-113">Recording Interactions With Contacts</span></span>](marketing-interactions.md)  
-<span data-ttu-id="26202-114">[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="26202-114">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>  
+## <a name="see-also"></a><span data-ttu-id="5b979-112">См. также</span><span class="sxs-lookup"><span data-stu-id="5b979-112">See Also</span></span>
+[<span data-ttu-id="5b979-113">Регистрация взаимодействий с контактами</span><span class="sxs-lookup"><span data-stu-id="5b979-113">Recording Interactions With Contacts</span></span>](marketing-interactions.md)  
+<span data-ttu-id="5b979-114">[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="5b979-114">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>  
