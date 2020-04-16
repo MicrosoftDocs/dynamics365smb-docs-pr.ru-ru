@@ -1,8 +1,6 @@
 ---
 title: Закрытие финансового года и учетных периодов | Документация Майкрософт
 description: Описываются задачи по закрытию финансового года или учетного периода, например, проверка того, что документы и журналы учтены, а также сверка балансов банковских счетов.
-services: project-madeira
-documentationcenter: ''
 author: jswymer
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -10,16 +8,17 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: year closing, close accounting period, close fiscal year, bank account detailed trial balance
-ms.date: 01/13/2020
+ms.date: 04/01/2020
 ms.author: jswymer
-ms.openlocfilehash: ef2f3f5e11b9593dce1ba1eb2039c0c0edd32aba
-ms.sourcegitcommit: ead69ebe5b29927876a4fb23afb6c066f8854591
+ms.openlocfilehash: 03b9778be1da2897cd1dcb12eeecd87bc905dd65
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "2953135"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3195807"
 ---
 # <a name="closing-years-and-periods"></a>Закрытие года и периодов
+
 В конце финансового года существует ряд административных задач, которые необходимо выполнить, чтобы убедиться, что все документы и журналы учтены, данные о валюте актуальны, книги закрыты и т. д. Фактические задачи будут зависеть от вашей организации.
 
 В следующей таблице приведен обзор задач, которые обычно выполняются, чтобы закрыть год и период.
@@ -36,10 +35,11 @@ ms.locfileid: "2953135"
 | Закрытие учетных периодов и финансового года, перенос сальдо отчетов о прибылях и убытках на балансовые счета и учет операций закрытия года. |[Закрытие книг](year-close-books.md) |
 | Печать отчетов, которые могут помочь в создании финансовых отчетов. |[Подготовка отчетов о закрытии](year-prepare-close-statement.md) |
 
-## <a name="see-related-training-at-microsoft-learnlearnmodulesclose-fiscal-year-dynamics-365-business-centralindex"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/close-fiscal-year-dynamics-365-business-central/index)
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/close-fiscal-year-dynamics-365-business-central/index)
 
 ## <a name="see-also"></a>См. также
-[Открытие нового финансового года](finance-how-open-new-fiscal-year.md)  
+
+[Работа с учетными периодами и финансовыми годами](finance-accounting-periods-and-fiscal-years.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 
 ## [!INCLUDE[d365fin](includes/free_trial_md.md)]  

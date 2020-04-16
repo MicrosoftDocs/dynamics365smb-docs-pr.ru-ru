@@ -10,20 +10,22 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: crm, sales, couple, decouple, synchronize
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.author: bholtorf
-ms.openlocfilehash: 0c70b1ba34af32b7cf542149c8f15cb191761358
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: fdc407ef26d238ba54a2566cdd9003c29da2eeb3
+ms.sourcegitcommit: d67328e1992c9a754b14c7267ab11312c80c38dd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2308120"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3196667"
 ---
 # <a name="couple-and-synchronize-records-manually"></a>Связывание и синхронизация записей вручную
-В этом разделе описана процедура связывания одной или нескольких записей [!INCLUDE[d365fin](includes/d365fin_md.md)] с записями в [!INCLUDE[crm_md](includes/crm_md.md)]. Связывание записей позволяет просматривать сведения [!INCLUDE[crm_md](includes/crm_md.md)] из [!INCLUDE[d365fin](includes/d365fin_md.md)] и наоборот. Связывание также позволяет синхронизировать данные между записями. Можно связать существующие записи или создать и связать новые записи.
+В этом разделе описана процедура связывания одной или нескольких записей [!INCLUDE[d365fin](includes/d365fin_md.md)] с записями в Common Data Service или [!INCLUDE[crm_md](includes/crm_md.md)]. Связывание записей позволяет просматривать сведения Common Data Service из [!INCLUDE[d365fin](includes/d365fin_md.md)] и наоборот. Связывание также позволяет синхронизировать данные между записями. Можно связать существующие записи или создать и связать новые записи.
 
 > [!Note]
-> Связывание и синхронизация данных с [!INCLUDE[crm_md](includes/crm_md.md)] доступны только в том случае, если системный администратор создал подключение между [!INCLUDE[d365fin](includes/d365fin_md.md)] и [!INCLUDE[crm_md](includes/crm_md.md)]. Быстрый способ проверить — это открыть карточку **Клиент** и найти действие **Настроить связывание**. Если действие доступно, приложения подключены.   
+> Связывание и синхронизация данных доступны только в том случае, если системный администратор создал подключение между [!INCLUDE[d365fin](includes/d365fin_md.md)] и Common Data Service или [!INCLUDE[crm_md](includes/crm_md.md)]. Быстрый способ проверить — это открыть карточку **Клиент** и найти действие **Настроить связывание**. Если действие доступно, приложения подключены.   
+
+## <a name="video-example"></a>Видео с примером
 
 > [!VIDEO https://go.microsoft.com/fwlink/?linkid=2098376]
 
@@ -38,12 +40,19 @@ ms.locfileid: "2308120"
 ## <a name="to-synchronize-a-single-record"></a>Синхронизация одной записи  
 1.  В [!INCLUDE[d365fin](includes/d365fin_md.md)] откройте карточку для записи, которую требуется связать. Например, карточка клиента или контакта.  
 2.  Выберите действие **Синхронизировать сейчас**.  
-3.  Если запись можно синхронизировать из [!INCLUDE[d365fin](includes/d365fin_md.md)] с [!INCLUDE[crm_md](includes/crm_md.md)] или из [!INCLUDE[crm_md](includes/crm_md.md)] с [!INCLUDE[d365fin](includes/d365fin_md.md)], выберите параметр, определяющий направление обновления данных, а затем нажмите кнопку **ОК**.  
+3.  Если запись можно синхронизировать в одном направлении, выберите параметр, определяющий направление обновления данных, затем выберите **ОК**.  
+
+## <a name="to-synchronize-a-single-record-from-crm_md"></a>Синхронизация одной записи из [!INCLUDE[crm_md](includes/crm_md.md)]  
+1.  В [!INCLUDE[crm_md](includes/crm_md.md)] откройте форму для записи, которую требуется связать. Например, форма карточки организации или карточки контакта.  
+2.  Выберите действие **[!INCLUDE[d365fin](includes/d365fin_md.md)]** на ленте, чтобы открыть и связать запись автоматически.
+
+> [!Note]
+> Вы можете синхронизировать одну запись из [!INCLUDE[crm_md](includes/crm_md.md)] автоматически, только когда параметр **Синхр. только связанные записи** отключен, и установлено направление синхронизации "Двунаправленная" или "Из таблицы интеграции" на странице **Сопоставление таблиц интеграции** для записи. Дополнительные сведения см. в разделе [Сопоставление таблиц и полей для синхронизации](admin-how-to-modify-table-mappings-for-synchronization.md#creating-new-records).     
 
 ## <a name="to-synchronize-multiple-records"></a>Синхронизация нескольких записей  
 1.  В [!INCLUDE[d365fin](includes/d365fin_md.md)] откройте страницу списка для записи, например страницы списка "Клиенты" или "Контакты".  
 2.  Выберите записи, который требуется синхронизировать, затем выберите действие **Синхронизировать сейчас**.  
-3.  Если записи можно синхронизировать из [!INCLUDE[d365fin](includes/d365fin_md.md)] с [!INCLUDE[crm_md](includes/crm_md.md)] или из [!INCLUDE[crm_md](includes/crm_md.md)] с [!INCLUDE[d365fin](includes/d365fin_md.md)], выберите параметр, определяющий направление обновления данных, а затем нажмите кнопку **ОК**.  
+3.  Если записи можно синхронизировать в одном направлении, выберите параметр, определяющий направление, затем выберите **ОК**.  
 
 ## <a name="see-also"></a>См. также  
 [Использование Dynamics 365 Sales из Business Central](marketing-integrate-dynamicscrm.md)

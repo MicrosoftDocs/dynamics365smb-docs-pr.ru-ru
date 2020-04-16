@@ -1,6 +1,6 @@
 ---
 title: Подключение к Microsoft Dynamics 365 Sales | Документация Майкрософт
-description: Вы можете интегрировать свою систему с Dynamics 365 Sales.
+description: Вы можете интегрировать другие приложения с Business Central через Common Data Service.
 author: bholtorf
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -8,160 +8,74 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.author: bholtorf
-ms.openlocfilehash: 73607d238e31cc42680fae008cfdf0ee143d08f3
-ms.sourcegitcommit: 3d128a00358668b3fdd105ebf4604ca4e2b6743c
+ms.openlocfilehash: 3375db0208d1a0275011f0efbfce4a13102c522e
+ms.sourcegitcommit: d67328e1992c9a754b14c7267ab11312c80c38dd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/20/2019
-ms.locfileid: "2910740"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3196643"
 ---
-# <a name="set-up-a-connection-to-dynamics-365-sales"></a>Настройка подключения к Dynamics 365 Sales
-В этом разделе описывается, как установить соединение между [!INCLUDE[d365fin](includes/d365fin_md.md)] и [!INCLUDE[crm_md](includes/crm_md.md)].
-<br><br>  
-
-> [!VIDEO https://go.microsoft.com/fwlink/?linkid=2085501]
+# <a name="connect-to-common-data-service"></a>Подключение к Common Data Service
+В этом разделе описывается, как установить соединение между [!INCLUDE[d365fin](includes/d365fin_md.md)] и [!INCLUDE[d365fin](includes/cds_long_md.md)]. Как правило, предприятия создают соединение для интеграции и синхронизации данных с другим бизнес-приложением Dynamics 365, например [!INCLUDE[crm_md](includes/crm_md.md)].  
 
 ## <a name="before-you-start"></a>Перед началом работы
 Перед тем, как создать соединение, необходимо подготовить несколько фрагментов информации:  
 
-* URL-адрес для вашего приложения [!INCLUDE[crm_md](includes/crm_md.md)]. Быстрый способ получить URL-адрес — открыть [!INCLUDE[crm_md](includes/crm_md.md)] и скопировать URL-адрес, а затем вставить его в поле **URL-адрес Dynamics 365 Sales** в [!INCLUDE[d365fin](includes/d365fin_md.md)]. [!INCLUDE[d365fin](includes/d365fin_md.md)] скорректирует форматирование для вас.  
-* Имя пользователя и пароль учетной записи пользователя, которая используется для интеграции.  
-* Имя пользователя и пароль учетной записи с разрешениями администратора.  
+* URL-адрес для среды [!INCLUDE[d365fin](includes/cds_long_md.md)], к которой требуется подключиться. Если вы используете мастер настройки **Настройка подключения CDS**, чтобы создать соединение, мы обнаружим ваши среды, но вы также можете ввести URL-адрес другой среды в своем клиенте.  
+* Имя пользователя и пароль учетной записи пользователя, которая используется для интеграции. Эта учетная запись называется учетной записью "пользователя интеграции". 
+* Имя пользователя и пароль учетной записи, которая имеет разрешения администратора в [!INCLUDE[d365fin](includes/d365fin_md.md)] и [!INCLUDE[d365fin](includes/cds_long_md.md)].  
 
 > [!Note]
 > Эти шаги описывают процедуру для интернет-версии [!INCLUDE[d365fin](includes/d365fin_md.md)].
 
-## <a name="set-up-test-and-enable-a-connection-to-includecrm_mdincludescrm_mdmd"></a>Настройка, тестирование и активизация подключения к [!INCLUDE[crm_md](includes/crm_md.md)]  
-Для всех типов проверки подлинности, отличных от проверки подлинности Office 365, вы настраиваете подключение к Dynamics 365 Sales на странице **Настройка подключения к Microsoft Dynamics 365 Sales**. Для проверки подлинности Office 365 также можно использовать мастер настройки **Настройка подключения к Dynamics 365 Sales**, который поможет ввести необходимую информацию.
+## <a name="set-up-a-connection-to-d365fin"></a>Настройка подключения к [!INCLUDE[d365fin](includes/cds_long_md.md)]  
+Для всех типов проверки подлинности, отличных от проверки подлинности Office 365, вы настраиваете подключение к [!INCLUDE[d365fin](includes/cds_long_md.md)] на странице **Настройка подключения к CDS**. Для аутентификации Office 365 рекомендуется использовать мастер настройки **Настройка подключения к CDS**. Этот мастер позволяет проще настроить подключение и указать расширенные функции, такие как связи между записями.  
 
-### <a name="to-use-an-assisted-setup-guide"></a>Использование мастера настройки
-Мастер настройки **Настройка подключения к Dynamics 365 Sales** может помочь настроить подключение и указать, требуется ли включать расширенные функции, такие как связи между записями.
-
-1. Выберите **Настройка и расширения**, затем выберите **Мастер настройки**.
-2. Выберите **Настройка подключения к Dynamics 365 Sales**, чтобы запустить мастер настройки.
+### <a name="to-use-the-cds-connection-setup-assisted-setup-guide"></a>Использование мастера настройки подключения к CDS 
+1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Мастер настройки**, затем выберите соответствующую ссылку.
+2. Выберите **Настроить подключение для базовой интеграции CDS**, чтобы запустить мастер настройки.
 3. Заполните соответствующим образом поля.
-4. При необходимости, имеются расширенные настройки, которые могут улучшить безопасность и включить дополнительные возможности [!INCLUDE[crm_md](includes/crm_md.md)], такие как обработка заказов на продажу и просмотр уровней запасов. Расширенные параметры рассматриваются в таблице ниже.  
-
-|Поле|Описание|
-|-----|-----|
-|**Импорт решения Dynamics 365 Sales**|Разрешить это, чтобы установить и настроить решение интеграции в [!INCLUDE[crm_md](includes/crm_md.md)]. Дополнительные сведения см. в разделе [О решении интеграции Business Central](admin-prepare-dynamics-365-for-sales-for-integration.md#about-the-business-central-integration-solution).|
-|**Публикация веб-службы наличия товаров**|Разрешите пользователям, которые используют [!INCLUDE[crm_md](includes/crm_md.md)], просматривать наличие товаров (продуктов) в запасах в [!INCLUDE[d365fin](includes/d365fin_md.md)]. Для этого необходима учетная запись пользователя [!INCLUDE[d365fin](includes/d365fin_md.md)] с ключом доступа к веб-службам. Назначение ключа выполняется в два этапа. В учетной записи пользователя в [!INCLUDE[d365fin](includes/d365fin_md.md)] необходимо выбрать действие **Изменить ключ веб-службы**. В мастере настройки "Настройка подключения к Dynamics 365 Sales" необходимо указать URL-адрес веб-службы Dynamics 365 Business Central OData и предоставить учетные данные пользователя [!INCLUDE[d365fin](includes/d365fin_md.md)] для получения доступа к сервису. Дополнительные сведения см. в разделе [Веб-службы OData](/dynamics365/business-central/dev-itpro/webservices/odata-web-services).|
-|**URL-адрес веб-службы OData Dynamics 365 Business Central**|Если включена веб-служба наличия товаров, URL-адрес веб-службы OData предоставляется для вас.|
-|**Имя пользователя веб-службы OData Dynamics 365 Business Central**|Имя пользователя учетной записи [!INCLUDE[d365fin](includes/d365fin_md.md)], которую [!INCLUDE[crm_md](includes/crm_md.md)] использует для извлечения сведений о наличии товаров в [!INCLUDE[d365fin](includes/d365fin_md.md)] через веб-службу OData.|
-|**Ключ доступа веб-службы OData Dynamics 365 Business Central**|Ключ доступа учетной записи пользователя, которую [!INCLUDE[crm_md](includes/crm_md.md)] использует для получения сведений о наличии товаров из [!INCLUDE[d365fin](includes/d365fin_md.md)] через веб-службу OData. Ключ назначается пользователю, выбранному в поле **Имя пользователя веб-службы OData Dynamics 365 Business Central**. Чтобы получить ключ, выберите кнопку **Найти значение** рядом с именем пользователя, выберите пользователя, выберите **Управление**, затем выберите **Правка**. В карточке пользователя выберите **Действия**, **Проверка подлинности**, затем выберите **Изменить ключ веб-службы**.|
-|**Включить интеграцию с заказом на продажу**|Когда сотрудники создают заказы на продажу в [!INCLUDE[crm_md](includes/crm_md.md)] и выполняют заказы в [!INCLUDE[d365fin](includes/d365fin_md.md)], это интегрирует процесс в [!INCLUDE[crm_md](includes/crm_md.md)]. Дополнительные сведения см. в разделе [Включение интеграции обработки заказов на продажу](/dynamics365/customer-engagement/sales-enterprise/developer/enable-sales-order-processing-integration). Для этого требуется, чтобы вы предоставили учетные данные для учетной записи пользователя-администратора в [!INCLUDE[crm_md](includes/crm_md.md)]. Дополнительные сведения см. в разделе [Обработка данных в заказах на продажу](marketing-integrate-dynamicscrm.md#handling-sales-order-data).|
-|**Включить подключение к Dynamics 365 for Sales**|Включите подключение к [!INCLUDE[crm_md](includes/crm_md.md)].|
-|**Версия SDK Dynamics 365**|Это необходимо только в том случае, если выполняется интеграция с локальной версией [!INCLUDE[crm_md](includes/crm_md.md)]. Это комплект разработки программного обеспечения Dynamics 365 (также называемый Xrm), который используется для подключения [!INCLUDE[d365fin](includes/d365fin_md.md)] к [!INCLUDE[crm_md](includes/crm_md.md)]. Версия должна быть совместима с версией пакета SDK, которая используется [!INCLUDE[crm_md](includes/crm_md.md)], и равна или новее версии, используемой [!INCLUDE[crm_md](includes/crm_md.md)].|
 
 > [!Note]
-> Мастер настройки **Настройка подключения к Dynamics 365 Sales** автоматически назначает роли безопасности **Администратор интеграции** и **Пользователь интеграции** учетной записи пользователя, используемой для интеграции.
+> Мастер **Настройка подключения к CDS** автоматически назначает роли безопасности **Администратор интеграции** и **Пользователь интеграции** для учетной записи пользователя, используемой для интеграции, и устанавливает для этой учетной записи режим доступа **неинтерактивный**.
 
 ### <a name="to-create-or-maintain-the-connection-manually"></a>Создание или ведение подключения вручную
-Далее описан порядок заполнения полей вручную на странице **Настройка подключения к Microsoft Dynamics 365 Sales**. Это также страница, на которой можно управлять настройками для интеграции.
+Далее описан порядок настройки подключения вручную на странице **Настройка подключения к CDS**. Это также страница, на которой можно управлять настройками для интеграции.
 
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка подключения к Microsoft Dynamics 365**, затем выберите соответствующую ссылку.
-2. Введите следующие сведения для подключения из [!INCLUDE[crm_md](includes/crm_md.md)] к [!INCLUDE[d365fin](includes/d365fin_md.md)].
-
-|Поле|Описание|
-|-----|-----|
-|**URL-адрес Dynamics 365 Sales**|URL-адрес вашего экземпляра [!INCLUDE[crm_md](includes/crm_md.md)]. Чтобы получить этот URL-адрес, откройте [!INCLUDE[crm_md](includes/crm_md.md)], скопируйте URL-адрес из адресной строки браузера, затем вставьте URL-адрес в это поле. [!INCLUDE[d365fin](includes/d365fin_md.md)] обеспечит правильный формат.|
-|**Имя пользователя** и **Пароль**|Эти учетные данные учетной записи пользователя предназначены для интеграции. Дополнительные сведения см. в разделе [Настройка учетных записей пользователей для интеграции с Dynamics 365 Sales](admin-setting-up-integration-with-dynamics-sales.md).|
-|**Включено**|Начните использовать интеграцию. Если выполнять подключение в данный момент не требуется, можно сохранить настройки подключения, однако пользователи не получат доступа к данным [!INCLUDE[crm_md](includes/crm_md.md)] из [!INCLUDE[d365fin](includes/d365fin_md.md)]. Позднее следует вернуться на эту страницу и выполнить подключение.  |
-|**Версия SDK Dynamics 365**|Если выполняется интеграция с локальной версией [!INCLUDE[crm_md](includes/crm_md.md)], следует использовать набор разработки программного обеспечения Dynamics 365 (также называемый Xrm) для подключения [!INCLUDE[d365fin](includes/d365fin_md.md)] к [!INCLUDE[crm_md](includes/crm_md.md)]. Выбранная версия должна быть совместима с версией SDK, которая используется приложением [!INCLUDE[crm_md](includes/crm_md.md)]. Эта версия равна или новее версии, используемой приложением [!INCLUDE[crm_md](includes/crm_md.md)].|
-
-> [!Note]
-> Если вы подключаете локальную версию [!INCLUDE[d365fin](includes/d365fin_md.md)] к [!INCLUDE[crm_md](includes/crm_md.md)] и хотите настроить подключение к экземпляру [!INCLUDE[crm_md](includes/crm_md.md)] с определенным типом проверки подлинности, заполните поля на экспресс-вкладке **Сведения о типе проверки подлинности**. Дополнительные сведения см. в разделе [Использование строк подключения в средстве XRM для подключения к Dynamics 365](https://go.microsoft.com/fwlink/?linkid=843055). Этот шаг не требуется при подключении к сетевой версии [!INCLUDE[d365fin](includes/d365fin_md.md)].
-
-3. Введите следующие сведения для подключения из [!INCLUDE[d365fin](includes/d365fin_md.md)] к [!INCLUDE[crm_md](includes/crm_md.md)].
+1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка подключения к CDS**, затем выберите соответствующую ссылку.
+2. Введите следующие сведения для подключения из [!INCLUDE[d365fin](includes/cds_long_md.md)] к [!INCLUDE[d365fin](includes/d365fin_md.md)].
 
 |Поле|Описание|
 |-----|-----|
-|**URL-адрес Dynamics 365 Business Central Web Client**|URL-адрес вашего экземпляра [!INCLUDE[d365fin](includes/d365fin_md.md)]. Это позволяет пользователям в [!INCLUDE[crm_md](includes/crm_md.md)] открывать соответствующие записи в [!INCLUDE[d365fin](includes/d365fin_md.md)] из записей в [!INCLUDE[crm_md](includes/crm_md.md)], например счет или продукт. Записи [!INCLUDE[d365fin](includes/d365fin_md.md)] открываются в [!INCLUDE[d365fin](includes/d365fin_md.md)]. Для использования задайте в этом поле URL-адрес экземпляра [!INCLUDE[d365fin](includes/d365fin_md.md)].<br /><br /> Для возврата в поле URL-адреса по умолчанию для [!INCLUDE[d365fin](includes/d365fin_md.md)], выберите действие **Сбросить URL-адрес веб-клиента**.<br /><br /> Это поле используется только в случае установки решения интеграции [!INCLUDE[d365fin](includes/d365fin_md.md)] в [!INCLUDE[crm_md](includes/crm_md.md)].|
-|**Веб-служба наличия товаров включена**|Разрешите пользователям, которые используют [!INCLUDE[crm_md](includes/crm_md.md)], просматривать наличие товаров (продуктов) в запасах в [!INCLUDE[d365fin](includes/d365fin_md.md)]. Если она включена, также необходимо указать имя пользователя и ключ доступа для [!INCLUDE[crm_md](includes/crm_md.md)], чтобы использовать веб-службу OData для наличия товаров (продуктов). Дополнительные сведения см. в разделе [Веб-службы OData](/dynamics365/business-central/dev-itpro/webservices/odata-web-services.md).|
-|**URL-адрес веб-службы OData Dynamics 365 Business Central**|Если включена веб-служба наличия товаров, URL-адрес веб-службы OData предоставляется для вас.|
-|**Имя пользователя веб-службы OData Dynamics 365 Business Central**|Имя пользователя учетной записи, которую [!INCLUDE[crm_md](includes/crm_md.md)] использует для получения сведений о наличии товаров из [!INCLUDE[d365fin](includes/d365fin_md.md)] через веб-службу OData.|
-|**Ключ доступа веб-службы OData Dynamics 365 Business Central**|Ключ доступа учетной записи пользователя, которую [!INCLUDE[crm_md](includes/crm_md.md)] использует для получения сведений о наличии товаров из [!INCLUDE[d365fin](includes/d365fin_md.md)] через веб-службу OData. Ключ назначается пользователю, выбранному в поле **Имя пользователя веб-службы OData Dynamics 365 Business Central**. Чтобы получить ключ, выберите кнопку **Найти значение** рядом с именем пользователя, выберите пользователя, выберите **Управление**, затем выберите **Правка**. В карточке пользователя выберите **Действия**, **Проверка подлинности**, затем выберите **Изменить ключ веб-службы**.|
+|**URL-адрес среды**|Если вы владеете средами в [!INCLUDE[d365fin](includes/cds_long_md.md)], мы найдем их для вас, когда вы запустите мастер настройки. Если вы хотите подключиться к другой среде в другом арендаторе, вы можете ввести учетные данные администратора для этой среды, и мы обнаружим их. |
+|**Имя пользователя** и **Пароль**|Эти учетные данные учетной записи пользователя предназначены для интеграции. Дополнительные сведения см. в разделе [Настройка учетных записей пользователей для интеграции с [!INCLUDE[d365fin](includes/cds_long_md.md)]](admin-setting-up-integration-with-dynamics-sales.md).|
+|**Включено**|Начните использовать интеграцию. Если выполнять подключение в данный момент не требуется, можно сохранить настройки подключения, однако пользователи не получат доступа к данным [!INCLUDE[d365fin](includes/cds_long_md.md)] из [!INCLUDE[d365fin](includes/d365fin_md.md)]. Позднее следует вернуться на эту страницу и выполнить подключение.  |
 
-4. Введите следующие настройки для [!INCLUDE[crm_md](includes/crm_md.md)].
+3. В поле **Модель ответственности** выберите, хотите ли вы, чтобы сущность рабочей группы в [!INCLUDE[d365fin](includes/cds_long_md.md)] владела новыми записями, или чтобы ответственными были один или несколько конкретных пользователей. Если вы выбираете **Человек**, вы должны указать каждого пользователя. Если вы выбираете вариант **Рабочая группа**, бизнес-подразделение BCI_Company по умолчанию будет отображаться в поле **Связанный филиал**.
 
-|Поле|Описание|
+<!--Need to verify the details in this table, are these specific to Sales maybe?
+Enter the following advanced settings.
+
+|Field|Description|
 |-----|-----|
-|**Интеграция заказов на продажу разрешена**|Разрешите пользователям отправлять заказы на продажу и активированные предложения в [!INCLUDE[crm_md](includes/crm_md.md)] и затем просматривать и обрабатывать их в [!INCLUDE[d365fin](includes/d365fin_md.md)]. Это интегрирует процесс в [!INCLUDE[crm_md](includes/crm_md.md)]. Дополнительные сведения см. в разделе [Включение интеграции обработки заказов на продажу](/dynamics365/customer-engagement/sales-enterprise/developer/enable-sales-order-processing-integration).|
-|**Автоматически создавать заказы на продажу**|Создание заказов на продажу в [!INCLUDE[d365fin](includes/d365fin_md.md)], когда пользователь создает и отправляет заказ на продажу в [!INCLUDE[crm_md](includes/crm_md.md)].|
-|**Автоматически обрабатывать предложения по продаже**|Обработка предложения по продаже в [!INCLUDE[d365fin](includes/d365fin_md.md)], когда пользователь создает и активирует его в [!INCLUDE[crm_md](includes/crm_md.md)].|
+|**[!INCLUDE[d365fin](includes/d365fin_md.md)] Users Must Map to CDS Users**|If you are using the Person ownership model, specify whether [!INCLUDE[d365fin](includes/d365fin_md.md)] user accounts must have a matching user accounts in [!INCLUDE[d365fin](includes/cds_long_md.md)]. The **Office 365 Authentication Email** of the [!INCLUDE[d365fin](includes/d365fin_md.md)] user must be the same as the **Primary Email** of the [!INCLUDE[crm_md](includes/crm_md.md)] user.<br /><br /> If you set the value to **Yes**, [!INCLUDE[d365fin](includes/d365fin_md.md)] users who do not have a matching [!INCLUDE[crm_md](includes/crm_md.md)] user account will not have [!INCLUDE[d365fin](includes/d365fin_md.md)] integration capabilities in the user interface. Access to [!INCLUDE[crm_md](includes/crm_md.md)] data directly from [!INCLUDE[d365fin](includes/d365fin_md.md)] is done on behalf of the [!INCLUDE[crm_md](includes/crm_md.md)] user account.<br /><br /> If you set the value to **No**, all [!INCLUDE[d365fin](includes/d365fin_md.md)] users will have [!INCLUDE[crm_md](includes/crm_md.md)] integration capabilities in the user interface. Access to [!INCLUDE[crm_md](includes/crm_md.md)] data is done on behalf of the [!INCLUDE[crm_md](includes/crm_md.md)] connection (integration) user.|
+|**Current Business Central Salesperson is Mapped to a User**|Indicates whether your user account is mapped to an account in [!INCLUDE[crm_md](includes/crm_md.md)] <!--double check the name of this field|-->
 
-5. Введите следующие дополнительные настройки.
-
-|Поле|Описание|
-|-----|-----|
-|**Пользователи [!INCLUDE[d365fin](includes/d365fin_md.md)] должны быть сопоставлены с пользователями Dynamics 365 Sales**|Укажите, должны ли учетные записи пользователей [!INCLUDE[d365fin](includes/d365fin_md.md)] иметь соответствующие учетные записи пользователей в [!INCLUDE[crm_md](includes/crm_md.md)]. **Адрес проверки подлинности Office 365** пользователя [!INCLUDE[d365fin](includes/d365fin_md.md)] должен быть тем же, что и **Основной адрес электронной почты** пользователя [!INCLUDE[crm_md](includes/crm_md.md)].<br /><br /> Если задано **Да**,пользователи [!INCLUDE[d365fin](includes/d365fin_md.md)] без совпадающей учетной записи пользователя [!INCLUDE[crm_md](includes/crm_md.md)] не будут обладать возможностями интеграции [!INCLUDE[d365fin](includes/d365fin_md.md)] в пользовательском интерфейсе. Доступ к данным [!INCLUDE[crm_md](includes/crm_md.md)] непосредственно из [!INCLUDE[d365fin](includes/d365fin_md.md)] выполняется от имени учетной записи пользователя [!INCLUDE[crm_md](includes/crm_md.md)].<br /><br /> Если задано **Нет**, все пользователи [!INCLUDE[d365fin](includes/d365fin_md.md)] будут обладать возможностями интеграции [!INCLUDE[crm_md](includes/crm_md.md)] в пользовательском интерфейсе. Доступ к данным [!INCLUDE[crm_md](includes/crm_md.md)] выполняется от имени пользователя подключения (интеграции) [!INCLUDE[crm_md](includes/crm_md.md)].|
-|**Текущий пользователь Business Central сопоставлен с пользователем Dynamics 365 Sales**|Указывает, сопоставлена ли учетная запись пользователя учетной записи в [!INCLUDE[crm_md](includes/crm_md.md)]|
-
-6. Для тестирования настроек подключения выберите **Проверить подключение**.  
+4. Для тестирования настроек подключения выберите **Подключение**, затем **Проверить подключение**.  
 
     > [!NOTE]  
-    >  Если шифрование данных не включено в [!INCLUDE[d365fin](includes/d365fin_md.md)], вы получите запрос, требуется ли его включить. Чтобы включить шифрование данных, выберите **Да** и предоставьте требуемую информацию. В противном случае выберите **Нет**. Шифрование данных можно включить позднее. Дополнительные сведения см. в разделе [Шифрование данных в Dynamics 365 Business Central](/dynamics365/business-central/dev-itpro/developer/devenv-encrypting-data) в справке для разработчиков и ИТ-специалистов.  
+    >  Если шифрование данных не включено в [!INCLUDE[d365fin](includes/d365fin_md.md)], вы получите запрос, требуется ли его включить. Чтобы включить шифрование данных, выберите **Да** и предоставьте требуемую информацию. В противном случае выберите **Нет**. Шифрование данных можно включить позднее. Дополнительные сведения см. в разделе [Шифрование данных в Dynamics 365 Business Central](/dynamics365/business-central/dev-itpro/developer/devenv-encrypting-data.md) в справке для разработчиков и ИТ-специалистов.  
 
-7. Если синхронизация [!INCLUDE[crm_md](includes/crm_md.md)] еще не настроена, вы получите запрос, следует ли использовать настройки синхронизации по умолчанию. В зависимости от того, требуется ли соответствие записей в [!INCLUDE[crm_md](includes/crm_md.md)] и [!INCLUDE[d365fin](includes/d365fin_md.md)], выберите **Да** или **Нет**.
-
-> [!Note]
-> При подключении к Dynamics 365 Sales с помощью страницы **Настройка подключения к Microsoft Dynamics 365 Sales** может потребоваться назначить роли безопасности "Администратор интеграции" и "Пользователь интеграции" учетной записи пользователя, используемой для интеграции. Для получения дополнительной информации см. [Назначение роли безопасности пользователю](/dynamics365/customer-engagement/admin/create-users-assign-online-security-roles#assign-a-security-role-to-a-user).
-
+5. Если синхронизация [!INCLUDE[d365fin](includes/cds_long_md.md)] еще не настроена, вы получите запрос, следует ли использовать настройки синхронизации по умолчанию. В зависимости от того, требуется ли соответствие записей в [!INCLUDE[d365fin](includes/cds_long_md.md)] и [!INCLUDE[d365fin](includes/d365fin_md.md)], выберите **Да** или **Нет**.
 
 > [!Note]
-> При подключении к Dynamics 365 Sales с помощью страницы **Настройка подключения к Microsoft Dynamics 365 Sales** может потребоваться [назначить роли безопасности **Администратор интеграции** и **Пользователь интеграции**](/dynamics365/customer-engagement/admin/create-users-assign-online-security-roles#assign-a-security-role-to-a-user) учетной записи пользователя, используемой для интеграции.
+> При подключении к [!INCLUDE[d365fin](includes/cds_long_md.md)] с помощью страницы **Настройка подключения к CDS** может потребоваться назначить роли безопасности "Администратор интеграции" и "Пользователь интеграции" учетной записи пользователя, используемой для интеграции в Dynamics 365 Sales. Для получения дополнительной информации см. [Назначение роли безопасности пользователю](/dynamics365/customer-engagement/admin/create-users-assign-online-security-roles#assign-a-security-role-to-a-user.md).
 
-
-### <a name="to-disconnect-from-includecrm_mdincludescrm_mdmd"></a>Отключение от [!INCLUDE[crm_md](includes/crm_md.md)]  
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка подключения к Microsoft Dynamics 365 Sales**, затем выберите соответствующую ссылку.
-2. На странице **Настройка подключения к Microsoft Dynamics 365 Sales** снимите флажок **Включено**.  
-
-<!--## Install the [!INCLUDE[d365fin](includes/d365fin_md.md) Integration Solution
-[!INCLUDE[d365fin](includes/d365fin_md.md)] includes a solution that enables users to access coupled records, such as customers and items, from records in [!INCLUDE[crm_md](includes/crm_md.md)], such as accounts and products. The solution adds a link to the pages in [!INCLUDE[crm_md](includes/crm_md.md)] to open the coupled [!INCLUDE[d365fin](includes/d365fin_md.md)] record. The solution also displays information from [!INCLUDE[d365fin](includes/d365fin_md.md)]on certain entities in [!INCLUDE[crm_md](includes/crm_md.md)], such as accounts. Installing this solution is optional. <!--"Solution" sounds old school. Is it an app, or an add-in, or an extension?
-
-
-1.  From [!INCLUDE[d365fin](includes/d365fin_md.md)] installation media \(DVD\), copy the DynamicsNAVIntegrationSolution.zip file to your computer.  
-
-     The DynamicsNAVIntegrationSolution.zip file is located in the **CrmCustomization** folder. This file is the solution package.   
-
-2.  In [!INCLUDE[crm_md](includes/crm_md.md)], import the DynamicsNAVIntegrationSolution.zip as a solution.  
-
-     This step adds the **[!INCLUDE[d365fin](includes/d365fin_md.md) Connection** entity and **[!INCLUDE[d365fin](includes/d365fin_md.md) Account Statistics** entity in the system and additional items such as [!INCLUDE[d365fin](includes/d365fin_md.md)] integration security roles.  
-
-     For more information about how to manage solutions in [!INCLUDE[crm_md](includes/crm_md.md)], [https://go.microsoft.com/fwlink/?LinkID=616519](https://go.microsoft.com/fwlink/?LinkID=616519).  
-
-3.  Optional: Set up the **[!INCLUDE[d365fin](includes/d365fin_md.md) Connection** entity to display in the **Settings** area of [!INCLUDE[crm_md](includes/crm_md.md)].  
-
-     This enables [!INCLUDE[crm_md](includes/crm_md.md)] users who are assigned the **[!INCLUDE[d365fin](includes/d365fin_md.md) Admin** role to modify the entity in [!INCLUDE[crm_md](includes/crm_md.md)]. For more information about how to modify entities in [!INCLUDE[crm_md](includes/crm_md.md)], see [View or edit entity information](https://go.microsoft.com/fwlink/?LinkID=616521).  
-
-4.  Assign the **[!INCLUDE[d365fin](includes/d365fin_md.md) Integration Administrator** role to the user account for the connection to [!INCLUDE[d365fin](includes/d365fin_md.md)].  
-
-5.  Assign the **Business Central Integration User** role to all users who will use the [!INCLUDE[d365fin](includes/d365fin_md.md)] integration solution.  
-
-If you install the [!INCLUDE[d365fin](includes/d365fin_md.md)] integration solution after you have set up the connection to [!INCLUDE[crm_md](includes/crm_md.md)] in [!INCLUDE[d365fin](includes/d365fin_md.md)], you must modify the connection setup to point to the URL.-->
-
-<!--of the [!INCLUDE[nav_web_md](../developer/includes/nav_web_md.md)]. For more information, see [Set Up a Microsoft Dynamics 365 Sales Connection]() -->
-
-<!--
-# View Item Availability - Support Matrix
-For most versions of [!INCLUDE[d365fin](includes/d365fin_md.md) and Dynamics 365 Sales, you can view availability figures for items across the integrated products. The following table shows which version combinations support viewing item availability.
-
-| |Dynamics 365 Sales version|2015/Update 1/Online|2016/Update 1/Online|Dynamics 365 Sales|
-|-|---------------------|---------------------|--------------------------|-----------------|
-|**Dynamics NAV version**|
-|**2016**||Not supported|Not supported|Not supported|
-|**2017**||Not supported - Install from 2016|Supported|Supported|
-|**Dynamics 365 for Financials**||Not supported - Install from 2016|Supported|Supported|
-
-
-> [Note]
-> You can obtain item availability support for combinations of Dynamics CRM 2015 and Business Central by running the DynamicsNAVIntegrationSolution.zip file on the Business Central product DVD.
-
-For more information, see [System Requirements for Business Central](../deployment/system-requirement-business-central.md).
-
--->
+### <a name="to-disconnect-from-d365fin"></a>Отключение от [!INCLUDE[d365fin](includes/cds_long_md.md)]  
+1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка подключения к CDS**, затем выберите соответствующую ссылку.
+2. На странице **Настройка подключения к CDS** выключите переключатель **Включено**.  
 
 ## <a name="see-also"></a>См. также  
 [Просмотр статуса синхронизации](admin-how-to-view-synchronization-status.md)  

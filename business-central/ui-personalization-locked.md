@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: customize, personalize, personalization, hide columns, remove fields, move fields
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: c77664a1013804de13303c8e1d162c437cf5d6e7
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 9774c3472a70967f6b0250e2f02e817f26e9b710
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2315136"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3195727"
 ---
 # <a name="why-a-page-is-locked-from-personalization"></a>Почему заблокирована персонализация страницы?
 
@@ -38,7 +38,7 @@ The page currently includes the last personalization changes that you made. If y
 
 ### <a name="unlocking-the-page"></a>Снятие замка со страницы
 
-Если вы хотите снять замок со страницы и продолжить персонализировать ее, выберите значок ![Замок персонализации](media/personalization-lock-icon.png "Замок персонализации"), а затем выберите действие **Разблокировать**.  
+Если вы хотите снять замок со страницы и продолжить персонализировать ее, выберите значок ![Замок персонализации](media/personalization-lock-icon.png "Замок персонализации"), затем выберите действие **Разблокировать**.  
 
 Перед тем как разблокировать страницу, учтите следующее:
 
@@ -48,7 +48,7 @@ The page currently includes the last personalization changes that you made. If y
 
 ## <a name="blocked-from-personalizing"></a>Персонализация заблокирована
 
-Если в баннере **Персонализация** имеется значок ![Персонализация заблокирована](media/personalization-blocked-icon.png "Персонализация заблокирована"), это означает, что вам запрещено проводить какую-либо персонализацию этой страницы.
+Если в баннере **Персонализация** имеется значок ![Персонализация заблокирована](media/personalization-blocked-icon.png "Персонализация заблокирована"), это означает, что вам запрещена любая персонализация на этой странице.
 
 <!-- Only text is translated, so removing this image for non-English UX reasons.  ![Personalize blocked](media/personalization-blocked.png "Personalize lock") -->
 

@@ -28,7 +28,7 @@
 
 # Работа с Business Central
 ## [Обзор](ui-work-product.md)
-## [Краткая сводка в удобном для печати виде](ui-work-product.md)
+## [Краткая сводка в удобном для печати виде](ui-work-product.md#cheatsheet)
 ## [Поиск страниц и информации с помощью функции "Что вы хотите сделать"](ui-search.md)
 ## [Поиск страниц с помощью обозревателя ролей](ui-role-explorer.md)
 ## [Вопросы и ответы о функции "Что вы хотите сделать"](ui-search-faq.md)
@@ -43,6 +43,7 @@
 ## [Управление вложениями, ссылками и заметками в карточках и документах](ui-how-add-link-to-record.md)
 ## [Изменение базовых настроек](ui-change-basic-settings.md)
 ## [Управление уведомлениями](ui-smart-notifications.md)
+## [Советы по повышению эффективности для бизнес-пользователей](/dynamics365/business-central/dev-itpro/performance/performance-users?toc=/dynamics365/business-central/toc.json)
 ## Персонализация Business Central
 ### [Персонализация рабочей области](ui-personalization-user.md)
 ### [Почему заблокирована персонализация страницы?](ui-personalization-locked.md)
@@ -51,7 +52,7 @@
 ### [Отображение списков различными способами](across-display-lists-different-views.md)
 ## Печать отчетов и выполнение пакетных заданий и XMLport
 ### [Работа с отчетами, пакетными заданиями и XMLport](ui-work-report.md)
-### [Выбор принтера для отчета](ui-specify-printer-selection-reports.md)
+### [Настройка принтеров](ui-specify-printer-selection-reports.md)
 ### [Планирование выполнения отчета](ui-work-report.md#ScheduleReport)
 ### [Управление сохраненными настройками отчетов и пакетных заданий](reports-saving-reusing-settings.md)
 ### [Просмотр тестовых отчетов перед учетом](ui-how-view-test-reports-posting.md)
@@ -78,7 +79,7 @@
 ### [Настройка учетных групп](finance-posting-groups.md)
 ### [Подготовка финансовой отчетности с помощью финансовых отчетов и категорий счетов](bi-how-work-account-schedule.md)
 ### [Работа с отклонениями в оплате и отклонениями скидки по оплате](finance-payment-tolerance-and-payment-discount-tolerance.md)
-### [Открытие нового финансового года](finance-how-open-new-fiscal-year.md)
+### [Работа с учетными периодами и финансовыми годами](finance-accounting-periods-and-fiscal-years.md)
 ### [Настройка налога на добавленную стоимость (НДС)](finance-setup-vat.md)
 ### [Настройка нереализованного НДС для учета на основании кассы](finance-setup-unrealized-vat.md)
 ### [Включение операций книги в разных валютах](finance-how-enable-application-ledger-entries-different-currencies.md)
@@ -280,7 +281,7 @@
 #### [Создание рабочих процессов из шаблонов рабочих процессов](across-how-to-create-workflows-from-workflow-templates.md)
 #### [Экспорт и импорт рабочих процессов](across-how-to-export-and-import-workflows.md)
 #### [Пошаговое руководство. Настройка и использование рабочего процесса утверждения покупки](walkthrough-setting-up-and-using-a-purchase-approval-workflow.md)
-#### [Пошаговое руководство. Реализация новых и событий и отзывов рабочего процесса](/dynamics-nav/Walkthrough--Implementing-New-Workflow-Events-and-Responses).
+#### [Пошаговое руководство. Реализация новых и событий и отзывов рабочего процесса](/dynamics-nav/Walkthrough--Implementing-New-Workflow-Events-and-Responses)
 ### Использование рабочих процессов
 #### [Обзор](across-use-workflows.md)
 #### [Включение рабочих процессов](across-how-to-enable-workflows.md)
@@ -322,6 +323,7 @@
 ## [Создание пользователей в соответствии с лицензиями](ui-how-users-permissions.md)
 ## [Назначение разрешений пользователям и группам](ui-define-granular-permissions.md)
 ## [Управление профилями](admin-users-profiles-roles.md)
+## [Настройка принтеров](ui-specify-printer-selection-reports.md)
 ## [Классификация конфиденциальности данных](admin-classifying-data-sensitivity.md)
 ## [Ответ на запросы о личных данных](admin-responding-to-requests-about-personal-data.md)
 ## [Создание новых организаций](about-new-company.md)
@@ -367,13 +369,17 @@
 #### [Расширения для Business Central от других поставщиков](ui-extensions-other.md)
 ## Интеграция с Dynamics 365 Sales
 ### [Обзор](admin-prepare-dynamics-365-for-sales-for-integration.md)
-### [Настройка учетных записей пользователей для интеграции с Dynamics 365 Sales](admin-setting-up-integration-with-dynamics-sales.md)
-### [Настройка подключения к Dynamics 365 Sales](admin-how-to-set-up-a-dynamics-crm-connection.md)
-### [Синхронизация Business Central и Dynamics 365 Sales](admin-synchronizing-business-central-and-sales.md)
+## Интеграция с Common Data Service
+### [Обзор](admin-common-data-service.md)
+### [Модели владения данными](admin-cds-company-concept.md)
+### [Настройка учетных записей пользователя для интеграции с Common Data Service](admin-setting-up-integration-with-dynamics-sales.md)
+### [Подключение к Common Data Service](admin-how-to-set-up-a-dynamics-crm-connection.md)
+### [Синхронизация Business Central и Common Data Service](admin-synchronizing-business-central-and-sales.md)
 ### [Сопоставление таблиц и полей для синхронизации](admin-how-to-modify-table-mappings-for-synchronization.md)
 ### [Ручная синхронизация сопоставлений таблиц](admin-manual-synchronization-of-table-mappings.md)
 ### [Синхронизация по расписанию](admin-scheduled-synchronization-using-the-synchronization-job-queue-entries.md)
 ### [Устранение ошибок синхронизации](admin-troubleshoot-sales-synchronization.md)
+<!-- ### [Developer Walkthrough: Custom Integration with Common Data Service](admin-walkthrough-customizing-cds-integration.md) moved to devitpro -->
 
 # Финансы
 ## [Обзор](finance.md)
@@ -486,7 +492,7 @@
 ## [Консолидация финансовых данных из нескольких организаций](finance-consolidated-company-reporting.md)
 ## [Работа с измерениями](finance-dimensions.md)
 ## [Создание бюджетов ГК](finance-how-create-budgets.md)
-## [Учет транзакций непосредственно в главной книге](finance-how-post-transactions-directly.md).
+## [Учет транзакций непосредственно в главной книге](finance-how-post-transactions-directly.md)
 ## [Сторнирование учета в журнале и отмена приходных/расходных накладных](finance-how-reverse-journal-posting.md)
 ## [Распределение затрат и дохода](year-allocate-costs-income.md)
 ## [Использование товарных издержек для учета дополнительных торговых расходов](payables-how-assign-item-charges.md)
@@ -511,6 +517,7 @@
 ## [Анализ данных по измерениям](bi-how-analyze-data-dimension.md)
 ## [Создание аналитических отчетов](bi-how-create-analysis-views-reports.md)
 ## [Создание отчетов с XBRL](bi-create-reports-with-xbrl.md)
+## [Управление намерением доступа к базе данных](admin-data-access-intent.md)
 
 # Продажи
 ## [Обзор](sales-manage-sales.md)
@@ -1390,7 +1397,7 @@
 #### [Налог на добавленную стоимость для Швейцарии](LocalFunctionality/Switzerland/swiss-value-added-tax.md)
 #### [Ставка НДС для Швейцарии](LocalFunctionality/Switzerland/vat-rates-for-switzerland.md)
 ### Банковские операции и платежи
-#### QR-код на платежных квитанциях в Швейцарии
+#### Управление QR-счетами (LocalFunctionality/Switzerland/ui-extensions-qr-bill-management.md)
 #### [Закрытие коллекции LSV](LocalFunctionality/Switzerland/how-to-close-an-lsv-collection.md)
 #### [Экспорт платежей с помощью LSV](LocalFunctionality/Switzerland/how-to-export-payments-using-lsv.md)
 #### [Импорт платежей ESR](LocalFunctionality/Switzerland/how-to-import-esr-payments.md)

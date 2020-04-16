@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: 5e76ef000ffc9242cf98e11be353b604990bf5ea
-ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
+ms.openlocfilehash: fd41813ba17c9e753cf027392b1e77f9052e1bbc
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "2876410"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3196191"
 ---
 # <a name="set-up-items-and-locations-for-directed-put-away-and-pick"></a>Настройка товаров и складов для использования расширенного подбора и размещения
 Если склад настраивается на расширенный подбор и размещение, возникает возможность использования нового набора функций, которые обеспечивают поддержку максимально эффективного функционирования склада. Чтобы в полной мере использовать эти функциональные возможности, нужно предоставить дополнительную информацию о товарах, которая позволит провести необходимые вычисления для определения наиболее целесообразных и эффективных способов руководства деятельностью склада. Дополнительные сведения см. в разделе [Сведения о проектировании: настройка склада](design-details-warehouse-setup.md).
