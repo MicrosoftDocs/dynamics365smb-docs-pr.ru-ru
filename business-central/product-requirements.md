@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: version
-ms.date: 04/01/2020
+ms.date: 05/06/2020
 ms.author: edupont
-ms.openlocfilehash: cf0091de7446aff07b039d795b07334e3ba9d2a8
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: 417b7ba9743ec0dabb4c7b311535ed8c22d8896a
+ms.sourcegitcommit: b9264b4ed650feca18776892ec23f2aa7ec43e20
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3190087"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "3372596"
 ---
 # <a name="minimum-requirements-for-using-business-central"></a>Минимальные требования для использования Business Central
 Перед началом работы с [!INCLUDE [prodshort](includes/prodshort.md)] Online мы рекомендуем проверить, что ваш компьютер и мобильное устройство соответствуют минимальным требованиям для продукта или превышают их. В этой статье перечислены эти требования.  
@@ -24,13 +24,14 @@ ms.locfileid: "3190087"
 
 ### <a name="recommended-browsers"></a>Рекомендуемые браузеры
 
+**Microsoft Edge:** программа [!INCLUDE[d365fin](includes/d365fin_md.md)] предназначена для работы с новой версией Microsoft Edge.  
 **Chrome для Windows и Firefox для Windows:** программа [!INCLUDE[d365fin](includes/d365fin_md.md)] предназначена для работы с текущей версией этих настольных браузеров.  
-**Safari:** программа [!INCLUDE[d365fin](includes/d365fin_md.md)] предназначена для работы с текущей версией Safari в OSX.  
-**Microsoft Edge:** программа [!INCLUDE[d365fin](includes/d365fin_md.md)] предназначена для работы с текущей версией Microsoft Edge.
+**Safari:** программа [!INCLUDE[d365fin](includes/d365fin_md.md)] предназначена для работы с текущей версией Safari в macOS.  
 
 ### <a name="other-supported-browsers"></a>Другие поддерживаемые браузеры
 
-**Internet Explorer:** программа [!INCLUDE[d365fin](includes/d365fin_md.md)] предназначена для работы с текущей версией Internet Explorer 11 (сборка 11.0.9600.17239) для Windows 10 (32-разрядная или 64-разрядная версии). Мы рекомендуем обновиться до последней версии Internet Explorer, которая поддерживается вашей версией Windows. Вы также можете запустить новый Edge и по-прежнему получать доступ к веб-сайтам, для которых требуются Internet Explorer. Дополнительные сведения см. в [документации по Microsoft Edge](/deployedge/edge-ie-mode).
+**Старый Microsoft Edge:** программа [!INCLUDE[d365fin](includes/d365fin_md.md)] предназначена для работы со старым Microsoft Edge.  
+**Internet Explorer:** программа [!INCLUDE[d365fin](includes/d365fin_md.md)] предназначена для работы с текущей версией Internet Explorer 11 (сборка 11.0.9600.17239) для Windows 10 (32-разрядная или 64-разрядная версии). Мы рекомендуем обновиться до последней версии Internet Explorer, которая поддерживается вашей версией Windows. Вы также можете использовать новый Edge и по-прежнему осуществлять доступ к веб-сайтам, для которых требуется Internet Explorer. Дополнительные сведения см. в [документации по Microsoft Edge](/deployedge/edge-ie-mode).
 
 ## <a name="mobile-devices"></a>Мобильные устройства
 **Windows:** [!INCLUDE[d365fin](includes/d365fin_md.md)] для Windows можно установить на устройства, имеющие хотя бы 1 ГБ ОЗУ и Windows 10 Home, Pro, Enterprise или Education (32-разрядная и 64-разрядная версии).  
@@ -45,6 +46,13 @@ ms.locfileid: "3190087"
 
 ## <a name="excel"></a>Excel
 **Изменить в Excel:** Для использования надстройки Excel для внесения изменений в Excel и оправки этих изменений обратно в [!INCLUDE[d365fin](includes/d365fin_md.md)] необходимо иметь Excel 2016 или более поздней версии. Дополнительные сведения см. в разделе [Анализ финансовых выписок в Microsoft Excel](finance-analyze-excel.md).  
+
+## <a name="using-the-business-central-administration-center"></a><a name="TAC"></a> Использование центра администрирования Business Central
+Центр администрирования предназначен для работы с текущей версией следующих браузеров:
+- Новый Microsoft Edge
+- Chrome для Windows
+- Firefox для Windows
+- Safari для macOS
 
 ## <a name="using-business-central-on-premises"></a>Использование локальной версии Business Central
 

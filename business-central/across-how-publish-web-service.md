@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 04/21/2020
 ms.author: edupont
-ms.openlocfilehash: 04af1a52bb0a2e14a2775efe6e3a6ccf77441d29
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: 3a0526451bb386f38eaf93c10ffd86937ea7b765
+ms.sourcegitcommit: 7d54d8abe52e0546378cf760f5082f46e8441b90
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3188496"
+ms.lasthandoff: 04/30/2020
+ms.locfileid: "3324082"
 ---
 # <a name="publish-a-web-service"></a>Публикация веб-службы
 
@@ -40,8 +40,8 @@ ms.locfileid: "3188496"
 
 При публикации веб-службы в полях **URL-адрес OData** и **URL SOAP** можно увидеть URL-адреса, сгенерированные для веб-службы. Веб-службу можно немедленно проверить, выбрав ссылки в полях **URL-адрес OData** и **URL SOAP**. При необходимости можно скопировать значение поля и сохранить его для последующего использования.  
 
-> [!IMPORTANT]
-> Для модулей codeunit, которые опубликованы как веб-служба SOAP, методы, предоставляемые в модуле codeunit, должны быть отмечены как `[External]` в коде.
+> [!NOTE]
+> Если объекты, которые вы предоставляете в качестве веб-служб, не должны быть доступны из [!INCLUDE [prodshort](includes/prodshort.md)] Online, вы должны пометить предоставляемые в коде методы как `[Scope('OnPrem')]`. Дополнительные сведения см. в разделе [Атрибут Scope](/dynamics365/business-central/dev-itpro/developer/methods/devenv-scope-attribute).
 
 После публикации веб-службы она становится доступна для внешних сторон. Можно проверить доступность веб-службы с помощью браузера или выбрать ссылку в полях **URL-адрес OData** и **URL SOAP** на странице **Веб-службы**. В следующей процедуре показано, как можно проверить наличие веб-службы для последующего использования.  
 
@@ -52,8 +52,8 @@ ms.locfileid: "3188496"
     > [!div class="mx-tdBreakAll"]
     > |Тип|Синтаксис|Пример|
     > |----------------|------|-------|
-    > |SOAP|https://api.businesscentral.dynamics.com/*версия*/*арендатор*/Production/WS/*НазваниеОрганизации*/*объект*/ |https://api.businesscentral.dynamics.com/v2.0/7acc9d3d-d354-4616-8bbd-c4fc9f2b15b3/Production/WS/CRONUS%20USA%2C%20Inc./Page/InvoiceDocument|
-    > |OData V4|https://api.businesscentral.dynamics.com/*версия*/*арендатор*/Production/ODataV4/Company('*НазваниеОрганизации*')/*объект*|https://api.businesscentral.dynamics.com/v2.0/7acc9d3d-d354-4616-8bbd-c4fc9f2b15b3/Production/ODataV4/Company('CRONUS%20USA%2C%20Inc.')/ДокументСчета<br/>    Название организации учитывает регистр.|
+    > |SOAP|`https://api.businesscentral.dynamics.com/*version*/*tenant*/Production/WS/*CompanyName*/*entity*/` |`https://api.businesscentral.dynamics.com/v2.0/7acc9d3d-d354-4616-8bbd-c4fc9f2b15b3/Production/WS/CRONUS%20USA%2C%20Inc./Page/InvoiceDocument`|
+    > |OData V4|`https://api.businesscentral.dynamics.com/*version*/*tenant*/Production/ODataV4/Company('*CompanyName*')/*entity*`|`https://api.businesscentral.dynamics.com/v2.0/7acc9d3d-d354-4616-8bbd-c4fc9f2b15b3/Production/ODataV4/Company('CRONUS%20USA%2C%20Inc.')/InvoiceDocument`<br/>    Название организации учитывает регистр.|
 
 2. Просмотрите сведения, которые отражаются в браузере. Удостоверьтесь, что созданное вами имя веб-службы отображается правильно.  
 

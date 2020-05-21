@@ -1,6 +1,6 @@
 ---
 title: Практическое руководство. Изменение предложений по планированию в графическом виде | Документация Майкрософт
-description: Типичное действие планирования — изменить или добавить строки журнала планирования для изменения предлагаемых заказов на поставку до того, как они будут зафиксированы выполнением функции **Выполнить указание**. Альтернатива такому действию в журнале планирования — использовать графическое представление.
+description: Типичное действие планирования — изменить или добавить строки журнала планирования для изменения предлагаемых заказов на поставку до того, как они будут зафиксированы выполнением функции Выполнить указание. Альтернатива такому действию в журнале планирования — использовать графическое представление.
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -8,92 +8,98 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 05/05/2020
 ms.author: sgroespe
-ms.openlocfilehash: 51c52da767fb9c192fbadbdfe68df8c36b17fb2c
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: 593fd5544f544b793b14fe14e4faf69f13d21ed6
+ms.sourcegitcommit: 57e31a8b92feeaf8c6c63eba147f36b38eee7679
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3190423"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "3339950"
 ---
 # <a name="modify-planning-suggestions-in-a-graphical-view"></a>Изменение предложений по планированию в графическом виде
-Типичное действие планирования — изменить или добавить строки журнала планирования для изменения предлагаемых заказов на поставку до того, как они будут зафиксированы выполнением функции **Выполнить указание**. Альтернатива такому действию в журнале планирования — использовать графическое представление.
 
-На странице **Доступность товара по графику времени** можно изменять какие-либо заказы на поставку и предложения путем перетаскивания элементов по оси x изменить количество перетаскиванием элементов по оси y, чтобы изменить срок выполнения.  
+Типичное действие планирования — изменить или добавить строки журнала планирования для изменения предлагаемых заказов на поставку до того, как они будут зафиксированы выполнением функции **Выполнить указание**. Альтернатива такому действию в журнале планирования — использовать графическое представление. Однако в настоящее время в [!INCLUDE [prodshort](includes/prodshort.md)] это не поддерживается.  
 
- На странице **Доступность товара по графику времени** и на странице **Журнал планирования** можно выбрать следующие изменения:  
+<!--On the **Item Availability by Timeline** page, you can modify certain supply orders and suggestions by dragging elements on the x-axis to change quantity or dragging elements on the y-axis to change due date.  
 
--   Измените предлагаемый заказ на поставку, который существует только в качестве строки планирования.  
--   Измените существующий заказ на поставку, который система планирования предлагает для изменения.  
--   Создайте новый предлагаемый заказ на поставку и измените его.  
+When you open the **Item Availability by Timeline** page from the **Planning Worksheet** page, you can make the following changes:  
 
-Дополнительные сведения о типах строк планирования, которые отображаются, см. в поле Описание на экспресс-вкладке **Изменения событий**.  
+- Modify a suggested supply order that only exists as a planning line.  
+- Modify an existing supply order that the planning system suggests to change.  
+- Create a new suggested supply order and modify it.  
 
-При выборе **Сохранить изменения** на странице **Доступность товара по графику времени** внесенные изменения будут скопированы в журнал планирования или журнал заявок. Теперь можно применять их с помощью функции **Выполнение указаний - план.**.  
+For more information about the planning line types that are shown, see the Description field on the **Event Changes** FastTab.  
 
-Следующая процедура описывает, как изменять предложения поставки с помощью функции перетаскивания. Кроме того, можно изменить поля **Срок оплаты** и **Количество** на экспресс-вкладке **Изменения событий** и графически сразу просмотреть изменения на экспресс-вкладке **График времени** на странице **Журнал планирования**.  
+When you choose **Save Changes** on the **Item Availability by Timeline** page, the modifications that you have made are copied to the planning or requisition worksheet. You can now implement them using the **Carry Out Action Msg.-Plan.** function.  
 
-## <a name="to-modify-suggested-supply-orders-in-the-graphical-view"></a>Изменение предлагаемых заказов на поставку в графическом виде  
-1.  Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Доступность товара по графику времени**, затем выберите соответствующую ссылку.  
+The following procedure shows how to modify supply suggestions by drag and drop. As an alternative, you can change the **Due Date** and **Quantity** fields on the **Event Changes** FastTab and immediately see the changes graphically on the **Timeline** FastTab on the **Planning Worksheet** page.  
 
-    Откроется страница **Доступность товара по графику времени** с номером товара, складом и вариантом товара в выбранной строке планирования, уже заполненной в полях на экспресс-вкладке **Параметры**. На экспресс-вкладке **График времени** показано графическое представление прогнозируемого запаса товара, включая предложения по планированию.  
+## To modify suggested supply orders in the graphical view
 
-2.  Убедитесь, что поле **Включить предложения по планированию** выбрано.  
-3.  Найдите предлагаемый заказ на поставку, который необходимо изменить. Изменяемые элементы можно определить по зеленому кругу и значку диска. Дополнительные сведения о различных символах см. в разделе [Символы и значки на экспресс-вкладке "График времени"](production-how-to-modify-planning-suggestions-in-a-graphical-view.md#symbols-and-icons-on-the-timeline-fasttab).  
-4.  Наведите указатель мыши над зеленым за кругом пока он не увеличится и не изменится на значок Переместить (четыре стрелки).  
-5.  Нажмите кнопку мыши и удерживайте ее, перетаскивая указатель мыши вверх или вниз, чтобы изменить количество. Нажмите кнопку мыши и удерживайте ее, перетаскивая указатель мыши влево или вправо, чтобы изменить срок оплаты.  
-6.  В дополнение к перемещению элементов с помощью функции перетаскивания, можно изменять предложения по планированию, используя несколько функций раскрывающегося меню. Откройте раскрывающееся меню для зеленого кружка предлагаемого элемента поставки и выберите одну из следующих функций  
+1. Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Planning Worksheet**, and then choose the related link.  
 
-    |Функция|Описание|  
+2. Choose the line that you want to see item availability for, choose **Item Availability by**, and then choose **Timeline**.
+
+    The **Item Availability by Timeline** page opens with the item number, location, and variant of the item on the selected planning line prefilled in the **Options** FastTab. The **Timeline** FastTab shows a graphical representation of the item’s projected inventory, including planning suggestions.  
+
+<!--3. Make sure that the **Include Planning Suggestions** field is selected.  
+3. Find the suggested supply order that you want to modify. You can identify modifiable elements by the green circle and the disk icon. For more information about the different symbols, see [Symbols and Icons on the Timeline FastTab](#symbols-and-icons-on-the-timeline-fasttab).  
+4. Place the pointer over the green circle until it enlarges and the pointer changes to Move shape (four arrows).  
+5. Press and hold the mouse button while you drag the pointer up or down to modify the quantity. Press and hold the mouse button while you drag the pointer left or right to modify the due date.  
+6. In addition to moving elements by drag and drop, you can modify planning suggestions by using a number of drop-down menu functions. Access the drop-down menu for the green circle of a suggested supply element and select one the following functions  
+
+    |Function|Description|  
     |--------------|---------------------------------------|  
-    |**Создать новую поставку**|Создает новый элемент в точке, в котором было открыто раскрывающееся меню, представляющий новый предлагаемый заказ на поставку. Это становится новой строкой в журнале планирования при выборе **Сохранить изменения**.<br /><br /> **ПРИМЕЧАНИЕ.** Если поле **Фильтр по складу** или **Фильтр по варианту** на экспресс-вкладке **Параметры** пустое или содержит несколько значение фильтра, новая поставка создается, а затем сохраняется в журнал планирования или в заявки с такими кодами:<br /><br /> * Если поле фильтра не заполнено, то новая поставка создана кода склада или кода варианта.<br /><br /> * Если определено несколько значений фильтра, создается новая поставка для значения первого фильтра в соответствии с методом сортировки.<br /><br /> Если требуется другой вариант или код склада, следует вручную изменить его в новой строке планирования.|  
-    |**Автокорректировка поставки**|Оптимизирует новую поставку, созданную в диаграмме, обязательно создав перед следующей поставкой нулевой запас.|  
-    |**Удалить поставку**|Удаляет элемент на экспресс-вкладке **График времени**, а также удаляет строку планирования при выборе функции **Сохранить изменения**. Значок меняется на диск, на котором появляется красный крестик после удаления поставки.<br /><br /> **ПРИМЕЧАНИЕ.** Удалить можно только указания с типом **Новое**. После выбора пункта **Сохранить изменения** необходимо удалить вручную нужную строку планирования из журнала планирования или заявки.|  
+    |**Create New Supply**|Creates a new element point where you access the drop-down menu, which represents a new suggested supply order. It becomes a new line in the planning worksheet when you choose **Save Changes**.<br /><br /> **NOTE:** If the **Location Filter** or **Variant Filter** fields on the **Options** FastTab are empty or have more than one filter value, then the new supply is created and later saved to the planning or requisition worksheet with the following codes:<br /><br /> * If the filter field is empty, then the new supply is created without a location or variant code.<br /><br /> * If more than one filter value is defined, then the new supply is created for the first filter value according to the sorting method.<br /><br /> If you want another variant or location code, then you must manually change it on the new planning line.|  
+    |**Auto-Adjust Supply**|Optimizes a new supply that you have created in the graph by making sure that it results in zero inventory before the next supply.|  
+    |**Delete Supply**|Deletes the element in the **Timeline** FastTab and deletes the planning line when you choose **Save Changes**. The icon changes to a disk that has a red cross when the supply has been deleted.<br /><br /> **NOTE:** You can only delete a supply of action message type **New**. After you choose **Save Changes**, you must manually delete the planning line in question in the planning or requisition worksheet.|  
 
-7.  Выберите действие **Перезагрузить**, если необходимо сбросить все изменения, внесенные после последнего открытия страницы **Доступность товара по графику времени** или выбора **Перезагрузить**.  
-8. При размещении элементов в требуемых местах на диаграмме выберите **Сохранить изменения**, чтобы скопировать измененное количество и дату в строки планирования или заявок, которые соответствуют графическим элементам.  
+7. Choose the **Reload** action if you want to reset all the changes that you have made after you last opened the **Item Availability by Timeline** page or selected **Reload**.  
+8. When the elements are placed where you want them in the diagram, choose **Save Changes** to copy modified quantity and date changes to the planning or requisition lines that represent the graphical elements.  
 
-Чтобы применить изменения плана поставки, необходимо следовать указаниям сообщений об итоговых действиях из журнала планирования или заявок. Дополнительные сведения см. в пакетном задании "Выполнение указаний - план.".
+To implement the supply plan changes, you must follow the resulting action messages from the planning or requisition worksheet. For more information, see Carry Out Action Msg.-Plan..
 
-## <a name="symbols-and-icons-on-the-timeline-fasttab"></a>Символы и значки на экспресс-вкладке "График времени"
- |Символ/значок|Описание|  
+## Symbols and Icons on the Timeline FastTab
+ |Symbol/Icon|Description|  
  |------------------|---------------------------------------|  
- |Черный крест|Заказы (спрос и предложение).<br /><br /> -   Не может быть изменено.<br />-   Отображается, если выбрано поле **Показать прогнозируемые запасы** (оранжевая диаграмма).|  
- |Красный круг|Существующие заказы на поставку, которых нет в предложениях по планированию.<br /><br /> -   Не может быть изменено.<br />-   Отображается, если выбрано поле **Показать прогнозируемые запасы** (оранжевая диаграмма).|  
- |Звездочка желтая|Прогнозируемый спрос.<br /><br /> -   Не может быть изменено.<br />-   Отображается, если в поле **Имя прогноза** есть значение.<br /><br /> Если выбраны оба поля **Показать прогнозируемые запасы** и **Включить предложения по планированию**, каждая желтая звездочка будет иметь связанный эквивалент на противоположном графике. Это показывает, как предложенная поставка обеспечивает прогнозируемый спрос.|  
- |Зеленый круг с пиктограммой в виде диска с красным крестом.|Предлагаемый заказ на поставку с указанием *Отмена*.<br /><br /> -   Не может быть изменено.<br />-   Отображается, если выбрано поле **Включить предложения по планированию** (зеленая диаграмма).|  
- |Зеленый круг с пиктограммой в виде диска со звездочкой.|Предлагаемые заказы на поставку с указанием *Создать*.<br /><br /> -   Может быть изменено.<br />-   Отображается, если выбрано поле **Включить предложения по планированию** (зеленая диаграмма).|  
- |Зеленый круг с пиктограммой в виде диска с одной или двумя стрелками.|Предлагаемые заказы на поставку с указанием *Перепланировать*, *Изменить кол-во* или *Переплан. и изм. кол-во*.<br /><br /> -   Может быть изменено.<br />-   Отображается, если выбрано поле **Включить предложения по планированию** (зеленая диаграмма).<br /><br /> Стрелка показывает направление предложения по планированию. Например, левая стрелка вместе с поднимающей вверх стрелкой отражает указание *Resched. and Chg. Qty.*, состоящее из обратного перепланирования и увеличения количества.|  
+ |Black cross|Orders (both supply and demand).<br /><br /> -   Cannot be modified.<br />-   Visible when the **Show Projected Inventory** field is selected (orange graph).|  
+ |Red circle|Existing supply orders that are not in planning suggestions.<br /><br /> -   Cannot be modified.<br />-   Visible when the **Show Projected Inventory** field is selected (orange graph).|  
+ |Yellow star|Forecast demand.<br /><br /> -   Cannot be modified.<br />-   Visible when the **Forecast Name** field has a value.<br /><br /> When both the **Show Projected Inventory** and the **Include Planning Suggestions** fields are selected, then each yellow star has a linked counterpart in the opposite graph. This illustrates how a suggested supply fulfills the forecasted demand.|  
+ |Green circle with an icon shaped as a disk that has a red cross|Suggested supply order with action message *Cancel*.<br /><br /> -   Cannot be modified.<br />-   Visible when the **Include Planning Suggestions** field is selected (green graph).|  
+ |Green circle with an icon shaped as a disk that has a star|Suggested supply orders with action message *New*.<br /><br /> -   Can be modified.<br />-   Visible when the **Include Planning Suggestions** field is selected (green graph).|  
+ |Green circle with an icon shaped as a disk that has one or two arrows|Suggested supply orders with action message *Reschedule*, *Change Qty.*, or *Resched. and Chg. Qty.*<br /><br /> -   Can be modified.<br />-   Visible when the **Include Planning Suggestions** field is selected (green graph).<br /><br /> The arrows reflect the direction of the planning suggestion. For example, a left arrow together with an up arrow reflects a *Resched. and Chg. Qty.* action message that consists of a backward rescheduling and a quantity increase.|  
+-->
+<!--When you access the drop-down menu for the **Timeline** FastTab, the following functions appear depending what you choose  
 
-При открытии раскрывающегося меню для экспресс-вкладки **Временная шкала** появляются следующие функции, в зависимости от вашего выбора  
-
- |Функция|Описание|  
+ |Function|Description|  
  |--------------|---------------------------------------|  
- |**Создать новую поставку**|Создает новый элемент в точке, в котором было открыто раскрывающееся меню, представляющий новый предлагаемый заказ на поставку. Это становится новой строкой в журнале планирования при выборе **Сохранить изменения** на вкладке **Процесс**.<br /><br /> Любые значения фильтров, определенные в полях **Фильтр по складу** или **Фильтр по варианту** на экспресс\-вкладке **Параметры**, будут применены к новому заказу на поставку. **Примечание**. Если поля фильтры не заполнены или имеет более одного значения фильтра, то новый заказ на поставку создан с помощью следующих кодов: <ul><li>Если поле фильтра не заполнено, то новая поставка создана кода склада или кода варианта.</li><li>Если определено несколько значений фильтра, создается новая поставка с помощью значения первого фильтра в соответствии с порядком сортировки.</li></ul> Если требуется другой вариант или код склада в новом заказе на поставку, следует вручную изменить его в новой строке планирования.|  
- |**Автокорректировка поставки**|Оптимизирует новую поставку, созданную в диаграмме за счет создания перед следующей поставкой нулевого запаса.|  
- |**Удалить поставку**|Удаление элемента на экспресс-вкладке **График времени** и удаление строки планирования при щелчке **Сохранить изменения** на вкладке **Процесс**. Значок меняется на диск с красным крестом при удалении поставки. **Примечание.** Удалить можно только указания с типом *Новое*. После выбора пункта **Сохранить изменения** на вкладке **Процесс** необходимо удалить вручную нужную строку планирования из журнала планирования или заявки.|  
- |**Показать документ**|Откроется заказ, строка планирования или прогноз, представленный этим элементом.|  
- |**Уменьшить масштаб (Ctrl++)**|Увеличьте масштаб по оси X, чтобы отображалось меньше дней. **Примечание.** Это можно также выполнить нажатием клавиши Ctrl + прокрутка колесика мыши.|  
- |**Увеличить масштаб (Ctrl+-)**|Уменьшите масштаб по оси X, чтобы отображалось больше дней. **Примечание.** Это можно также выполнить нажатием клавиши Ctrl + прокрутка колесика мыши.|  
- |**Сбросить увеличение (Ctrl+0)**|Возвращает для оси x масштаб, который использовался пред масштабированием.|  
+ |**Create New Supply**|Creates a new element on the point where you access the drop-down menu, which represents a new suggested supply order. It becomes a new line in the planning worksheet when you choose **Save Changes** on the **Process** tab.<br /><br /> Any filter values that are defined in the **Location Filter** or **Variant Filter** fields on the **Options** FastTab will be applied to the new supply order. **Note:**  If the filter fields are empty or have more than one filter value, then the new supply order is created by using the following codes: <ul><li>If the filter field is empty, then the new supply is created without a location or variant code.</li><li>If more than one filter value is defined, then the new supply is created by using the first filter value according to the sorting order.</li></ul> If you want another variant or location code in the new supply order, then you must manually change it on the new planning line.|  
+ |**Auto-Adjust Supply**|Optimizes a new supply that you have created in the graph by making sure that it creates zero inventory before the next supply.|  
+ |**Delete Supply**|Deletes the element in the **Timeline** FastTab and deletes the planning line when you choose **Save Changes** on the **Process** tab. The icon changes to a disk that has a red cross when the supply has been deleted. **Note:**  You can only delete a supply of action message type *New*. After you choose **Save Changes** on the **Process** tab, you must manually delete the planning line in question in the planning or requisition worksheet.|  
+ |**Show Document**|Opens the order, planning line, or forecast that the element represents.|  
+ |**Zoom Out (Ctrl++)**|Makes the scale of the x-axis larger, so that fewer days are shown. **Note:**  You can also do this by pressing Ctrl + scroll mouse wheel.|  
+ |**Zoom In (Ctrl+-)**|Makes the scale of the x-axis smaller, so that more days are shown. **Note:**  You can also do this by pressing Ctrl + scroll mouse wheel.|  
+ |**Reset Zoom (Ctrl+0)**|Reverts the scale of the x-axis to what was used before you zoomed.|  
+-->
+<!--In addition to the keyboard actions that were mentioned earlier, you can also use the following keyboard actions in the **TimeLine** FastTab.  
 
-В дополнение к действиям клавиш, которые были упомянуты ранее, можно также использовать следующие действия клавиш на экспресс-вкладке **График времени**.  
-
- |Действие клавиатуры|Описание|  
+ |Keyboard Action|Description|  
  |---------------------|---------------------------------------|  
- |Ctrl + колесо прокрутки мыши|Изменяет масштаб оси x.|  
- |Выберите элемент, а затем нажмите клавиши Shift+стрелка|Перемещает элемент по направлению хода стрелки.|  
- |Вкладка|Переходи к следующему элементу.|  
- |Shift+Tab|Переходи к предыдущему элементу.|  
- |При перемещении элемента нажмите клавишу Esc.|Отменяет перемещение. **Примечание**. Не работает при отпущенной кнопке мыши.|
+ |Ctrl + scroll mouse wheel|Changes the scale of the x-axis.|  
+ |Select an element, then press Shift+Arrow|Moves the element in the direction of the arrow stroke.|  
+ |Tab|Moves to the next element.|  
+ |Shift+Tab|Moves to the previous element.|  
+ |While moving an element, press Esc.|Cancels the move. **Note:**  Does not work if you have released the mouse button.|
+-->
 
-## <a name="see-also"></a>См. также  
-[Планирование](production-planning.md)   
+## <a name="see-also"></a>См. также
+
+[Планирование](production-planning.md)  
 [Настройка производства](production-configure-production-processes.md)  
-[Производство](production-manage-manufacturing.md)    
+[Производство](production-manage-manufacturing.md)  
 [Наличие](inventory-manage-inventory.md)  
 [Покупки](purchasing-manage-purchasing.md)  
-[Сведения о проектировании: планирование поставок](design-details-supply-planning.md)   
+[Сведения о проектировании: планирование поставок](design-details-supply-planning.md)  
 [Рекомендации по настройке. Планирование поставок](setup-best-practices-supply-planning.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

@@ -1,23 +1,24 @@
 ---
 title: Расширение отправки авизо | Документация Майкрософт
 description: Описывается расширение отправки авизо, которое позволяет отправить по электронной почте и повторно отправить авизо из журнала платежей и операций книги поставщиков.
-author: SorenGP
+author: edupont04
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms. search.keywords: app, add-in, manifest, customize, stream, remittance, advice
-ms.date: 04/01/2020
-ms.author: sgroespe
-ms.openlocfilehash: 439f9997e9ee70ff290a42e5044a9dbaff1112de
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.date: 05/05/2020
+ms.author: edupont
+ms.openlocfilehash: 236cb83e99c2385edc09622255037a152bf41e6e
+ms.sourcegitcommit: 57e31a8b92feeaf8c6c63eba147f36b38eee7679
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3190351"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "3339926"
 ---
 # <a name="send-remittance-advice"></a>Отправить авизо
+
 Если авизо используется для уведомления поставщиков о произведенных платежах, теперь можно использовать массовую рассылку авизо по электронной почте из журнала платежей, а также повторно отправлять авизо после выполнения платежей из операций книги поставщиков с помощью профилей отправки документов.
 
 > [!NOTE]
@@ -26,9 +27,11 @@ ms.locfileid: "3190351"
 Авизо можно отправить двумя разными способами:
 
 * На странице **Журнал платежей**, выберите **Навигация**, **Платежи**, **Отправить авизо**, чтобы отправить по электронной почте авизо для одной или нескольких строк журнала платежей поставщикам
-* На странице **Книга операций по поставщикам** выберите "Действия", "Функции", "Отправить авизо", чтобы отправить авизо по электронной почте после учета платежей поставщикам, для одной из нескольких операций журнала поставщиков
+* На странице **Книга операций по поставщикам** выберите **Действия**, **Функции**, **Отправить авизо**, чтобы отправить авизо по электронной почте после учета платежей поставщикам для одной или нескольких операций книги поставщиков
 
 ## <a name="see-also"></a>См. также
+
 [Предлож. оплаты поставщикам](payables-how-suggest-vendor-payments.md)  
-[Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью расширений](ui-extensions.md)    
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью расширений](ui-extensions.md)  
+[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Отправка документов по электронной почте](ui-how-send-documents-email.md)  

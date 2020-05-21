@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: bill, sale, invoice, order
-ms.date: 04/01/2020
+ms.date: 04/27/2020
 ms.author: sgroespe
-ms.openlocfilehash: 9e485f2051cb045db6f106377521973a45546ad7
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: 2ff842cc12ea820c9a2fe180cd4dd2eef3ecc18f
+ms.sourcegitcommit: 7d54d8abe52e0546378cf760f5082f46e8441b90
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3193663"
+ms.lasthandoff: 04/30/2020
+ms.locfileid: "3324322"
 ---
 # <a name="invoice-sales"></a>Выставление счетов продажи
 Счет продажи или заказы на продажу создаются для записи соглашения с клиентом о продаже определенных товаров на определенных условиях доставки и оплаты.  
@@ -109,6 +109,7 @@ ms.locfileid: "3193663"
 ## <a name="see-also"></a>См. также
 [Продажи](sales-manage-sales.md)  
 [Настройка продаж](sales-setup-sales.md)  
+[Печать сборочного листа](sales-how-print-picking-list.md)  
 [Запасы](inventory-manage-inventory.md)  
 [Отправка документов по электронной почте](ui-how-send-documents-email.md)  
 [Массовое выставление счетов из Microsoft Bookings в Business Central](finance-bookings.md)  

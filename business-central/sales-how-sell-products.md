@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: trade
-ms.date: 04/01/2020
+ms.date: 04/27/2020
 ms.author: sgroespe
-ms.openlocfilehash: 5fefafc1ca8ac7f5cd9862ff741a0f0fd9fec7ff
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: 9a2fdbaafd2a6668d7fb4edf42c25438bd881e98
+ms.sourcegitcommit: 7d54d8abe52e0546378cf760f5082f46e8441b90
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3194023"
+ms.lasthandoff: 04/30/2020
+ms.locfileid: "3324442"
 ---
 # <a name="sell-products"></a>Продажа продуктов
 Счет продажи или заказ на продажу создаются для записи соглашения с клиентом о продаже определенных товаров на определенных условиях доставки и оплаты.
@@ -128,6 +128,7 @@ ms.locfileid: "3194023"
 ## <a name="see-also"></a>См. также
 [Продажи](sales-manage-sales.md)  
 [Настройка продаж](sales-setup-sales.md)  
+[Печать сборочного листа](sales-how-print-picking-list.md)  
 [Запасы](inventory-manage-inventory.md)  
 [Отправка документов по электронной почте](ui-how-send-documents-email.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

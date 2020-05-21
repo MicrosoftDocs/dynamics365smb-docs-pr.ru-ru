@@ -70,6 +70,7 @@
 ### [Специальные возможности и сочетания клавиш](ui-accessibility.md)
 ### [Сочетания клавиш](keyboard-shortcuts.md)
 ### [Краткая справка по сочетаниям клавиш — только ПК](keyboard-shortcuts-cheatsheet.md)
+## [Устранение неполадок: доступ к камере и геопозиции](ui-troubleshooting-camera-location.md)
 
 # Настройка Business Central
 ## [Обзор](setup.md)
@@ -82,6 +83,7 @@
 ### [Работа с учетными периодами и финансовыми годами](finance-accounting-periods-and-fiscal-years.md)
 ### [Настройка налога на добавленную стоимость (НДС)](finance-setup-vat.md)
 ### [Настройка нереализованного НДС для учета на основании кассы](finance-setup-unrealized-vat.md)
+### [Настройка кодов источников и кодов причин для журналов аудита](finance-setup-trail-codes.md)
 ### [Включение операций книги в разных валютах](finance-how-enable-application-ledger-entries-different-currencies.md)
 ### [Настройка дополнительной отчетной валюты](finance-how-setup-additional-currencies.md)
 ### [Обновление валютных курсов](finance-how-update-currencies.md)
@@ -335,7 +337,10 @@
 ## [Управление шифрованием данных](admin-manage-data-encryption.md)
 ## [Продление пробной версии](admin-extend-trial.md)
 ## [Инспекция страниц](across-inspect-page.md)
+## [Просмотр блокировок базы данных](admin-view-database-locks.md)
+## [Просмотр информации о таблицах](admin-view-table-information.md)
 ## [Создание среды "песочницы"](across-how-create-sandbox-environment.md)
+## [Раннее включение новых функций](admin-feature-management.md)
 ## Настройка Business Central
 ### [Обзор](ui-customizing-overview.md)
 ### [Настройка страниц для профилей](ui-personalization-manage.md)
@@ -525,6 +530,7 @@
 ## [Создание предложений по продаже](sales-how-make-offers.md)
 ## [Выставление счетов продажи](sales-how-invoice-sales.md)
 ## [Продажа продуктов](sales-how-sell-products.md)
+## [Печать сборочного листа](sales-how-print-picking-list.md)
 ## [Учет продаж](ui-post-sales.md)
 ## [Создание типовых строк продажи и покупки](sales-how-work-standard-lines.md)
 ## [Выполнение прямых поставок](sales-how-drop-shipment.md)
@@ -642,7 +648,7 @@
 ## [Выполнение полного планирования, MPS или MRP](production-how-to-run-mps-and-mrp.md)
 ## [Прямое перепланирование или обновление производственных заказов](production-how-to-replan-refresh-production-orders.md)
 ## [Отслеживание связей между спросом и предложением](production-how-track-demand-supply.md)
-## [Изменение предложений по планированию в графическом виде](production-how-to-modify-planning-suggestions-in-a-graphical-view.md)
+<!--## [Modify Planning Suggestions in a Graphical View](production-how-to-modify-planning-suggestions-in-a-graphical-view.md)-->
 
 # Управление сборкой
 ## [Обзор](assembly-assemble-items.md)
@@ -816,7 +822,7 @@
 ## Австралия
 ### [Обзор](LocalFunctionality/Australia/australia-local-functionality.md)
 ### Налог
-#### [Налог](LocalFunctionality/Australia/tax.md)
+#### [Обзор](LocalFunctionality/Australia/tax.md)
 #### [Подоходный налог](LocalFunctionality/Australia/withholding-tax.md)
 #### [Настройка подоходного налога](LocalFunctionality/Australia/how-to-set-up-withholding-tax.md)
 #### [Настройка типов доходов для подоходного налога](LocalFunctionality/Australia/how-to-set-up-revenue-types-for-withholding-tax.md)
@@ -874,7 +880,7 @@
 #### [Печать периодических отчетов по НДС](LocalFunctionality/Belgium/how-to-print-periodic-vat-reports.md)
 #### [Настройка бельгийских кодов тарифов](LocalFunctionality/Belgium/how-to-set-up-belgian-tariff-numbers.md)
 #### [Бельгийские отчеты Intrastat](LocalFunctionality/Belgium/belgian-intrastat-reporting.md)
-#### [Настройка кодов организаций Интрастат](LocalFunctionality/Belgium/how-to-set-up-intrastat-establishment-numbers.md)    
+#### [Настройка кодов организаций Интрастат](LocalFunctionality/Belgium/how-to-set-up-intrastat-establishment-numbers.md)
 #### [Печать отчета формы Интрастат](LocalFunctionality/Belgium/how-to-print-the-intrastat-form-report.md)
 #### [Настройка типов деклараций](LocalFunctionality/Belgium/how-to-set-up-declaration-types.md)
 #### [Экспорт деклараций Интрастат третьей стороны](LocalFunctionality/Belgium/how-to-export-intrastat-third-party-declararations.md)
@@ -1241,7 +1247,7 @@
 #### [Настройка платежей OCR](LocalFunctionality/Norway/how-to-set-up-ocr-payments.md)
 #### [Импорт и учет платежей OCR](LocalFunctionality/Norway/how-to-import-and-post-ocr-payments.md)
 #### [Печать тестового отчета журнала OCR](LocalFunctionality/Norway/how-to-print-the-ocr-journal-test-report.md)  
-### Основные финансы    
+### Основные финансы
 #### [Применение операций ГК в закрытых периодах](LocalFunctionality/Norway/how-to-apply-general-ledger-entries-in-closed-periods.md)  
 ### Общие
 #### [Повторяющиеся заказы](LocalFunctionality/Norway/recurring-orders.md)  
@@ -1427,7 +1433,7 @@
 ### Запасы
 #### [Управление запасами для Швейцарии](LocalFunctionality/Switzerland/swiss-inventory-management.md)
 #### [Печать сборочного листа запасов из заказа на продажу](LocalFunctionality/Switzerland/how-to-print-an-inventory-picking-list-from-a-sales-order.md)
-### Общие    
+### Общие
 #### [Импорт швейцарских почтовых индексов](LocalFunctionality/Switzerland/how-to-import-swiss-post-codes.md)
 #### [Швейцарские документы покупки и заказы на продажу](LocalFunctionality/Switzerland/swiss-purchase-documents-and-sales-documents.md)
 

@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: accounting, auditing, bookkeeping
 ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: 400506fe0b39944e683fd5e65e6b710ffdb9089b
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: b7a272d916182fda7815e04bb314a5c29942ca98
+ms.sourcegitcommit: b9264b4ed650feca18776892ec23f2aa7ec43e20
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3182736"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "3372572"
 ---
 # <a name="setting-up-finance"></a>Настройка финансов
 Прежде чем вы сможете начать свой бизнес, вы должны указать правила и настройки по умолчанию для управления финансовыми процессами в этой компании. Начните с настройки основы учетных записей организации — плана счетов. Затем настраиваются учетные группы, что позволяет сделать более эффективным процесс назначения используемых по умолчанию учетных счетов главной книги клиентам, поставщикам и товарам.
@@ -47,10 +47,12 @@ ms.locfileid: "3182736"
 |Включение выставления счетов клиенту, который не настроен в системе.|[Настройка клиентов, оплачивающих наличными](finance-how-to-set-up-cash-customers.md)|
 | Настройка отчетности Интрастат и отправка отчета в уполномоченные органы | [Настройка и подача отчетности Интрастат](finance-how-setup-report-intrastat.md)|
 |Убедитесь, что выделена операция в финансовом журнале по нескольким различным счетам при учете в журнале, по количеству, проценту или сумме.|[Использование ключей распределения в финансовых журналах](ui-how-use-allocation-keys-general-journals.md)|
+|Настройка кодов источников и коды причин, которые можно использовать при отслеживании журналов аудита|[Настройка кодов источников и кодов причин для журналов аудита](finance-setup-trail-codes.md)|
 
 ## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/set-up-financial-management-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
+
 [Финансы](finance.md)  
 [Выверка банковских счетов](bank-manage-bank-accounts.md)  
 [Работа с измерениями](finance-dimensions.md)  

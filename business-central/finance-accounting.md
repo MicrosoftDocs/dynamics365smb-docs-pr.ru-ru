@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: accountant, accounting, financial report
-ms.date: 04/01/2020
+ms.date: 05/11/2020
 ms.author: edupont
-ms.openlocfilehash: 2c99b8bef9bff22edd2d27856e703b41c6ec6441
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: eae48b25446e4c81d1b8eae86fd2d0d7d0126df6
+ms.sourcegitcommit: b9264b4ed650feca18776892ec23f2aa7ec43e20
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3184032"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "3372620"
 ---
 # <a name="accountant-experiences-in-d365fin_long"></a>Работа бухгалтера в [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]
 Любой организации нужно вести учет и подписывать соответствующую документацию. Некоторые организации используют внешнего бухгалтера, а у других — бухгалтер в штате. Независимо от того, какой бухгалтер у вас, вы можете использовать ролевой центр **Бухгалтер** в качестве начальной страницы [!INCLUDE[d365fin](includes/d365fin_md.md)]. Отсюда можно получить доступ ко всем страницам, которые нужны для работы.  
@@ -40,7 +40,7 @@ ms.locfileid: "3184032"
 > [!IMPORTANT]  
 > Адрес электронной почты бухгалтера должен представлять собой рабочий адрес, основанный на Azure Active Directory. Если у бухгалтера электронная почта другого типа, отправить приглашение не удастся. 
 > 
-> Эта задача требует доступа к управлению пользователями и лицензиями в Azure Active Directory, а пользователь, который отправляет это приглашение, должен иметь роль **Глобальный администратор** или **Администратор пользователей** (задается в центре администрирования Office 365). Для получения дополнительной информации см. [О ролях администраторов](/office365/admin/add-users/about-admin-roles) в материалах для администраторов Office 365.  
+> Эта задача требует доступа к управлению пользователями и лицензиями в Azure Active Directory, а пользователю, который отправляет это приглашение, должна быть назначена роль **Глобальный администратор** или **Администратор пользователей** в Центре администрирования Microsoft 365. Дополнительные сведения см. в разделе [О ролях администраторов](/microsoft-365/admin/add-users/about-admin-roles) в документации по администрированию Microsoft 365.  
 
 ### <a name="adding-your-accountant-to-your-office-365-via-azure-portal"></a>Добавление вашего бухгалтера в Office 365 через портал Azure
 

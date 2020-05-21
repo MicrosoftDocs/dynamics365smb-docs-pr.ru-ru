@@ -8,12 +8,12 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.date: 04/01/2020
 ms.author: jswymer
-ms.openlocfilehash: 1153ffc97d0f22c889ff23c5a27a8c0446b17018
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: abee0f31d66f648f4b0be567d8599b31c536a193
+ms.sourcegitcommit: 7d54d8abe52e0546378cf760f5082f46e8441b90
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3196388"
+ms.lasthandoff: 04/30/2020
+ms.locfileid: "3324106"
 ---
 # <a name="viewing-database-locks"></a>Просмотр блокировок базы данных
 
@@ -29,8 +29,8 @@ ms.locfileid: "3196388"
 
 Страница **Блокировки базы данных** дает снимок всех текущих блокировок базы данных.
 
-Дополнительные сведения о блокировке базы данных см. в разделе [Мониторинг блокировок базы данных](/dynamics365/business-central/a/dev-itpro/administration/monitor-database-locks) в справке Business Central для разработчиков и ИТ-специалистов.
+Дополнительные сведения о блокировке базы данных см. в разделе [Мониторинг блокировок базы данных](/dynamics365/business-central/dev-itpro/administration/monitor-database-locks) в справке Business Central для разработчиков и ИТ-специалистов.
 
 ## <a name="see-also"></a>См. также
 
-[Мониторинг блокировок базы данных](/dynamics365/business-central/a/dev-itpro/administration/monitor-database-locks) 
+[Мониторинг блокировок базы данных](/dynamics365/business-central/dev-itpro/administration/monitor-database-locks) 

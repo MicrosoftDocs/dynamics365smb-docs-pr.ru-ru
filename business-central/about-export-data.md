@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: analysis, reporting, financial report, business intelligence, BI, Excel
-ms.date: 04/01/2020
+ms.date: 05/04/2020
 ms.author: edupont
-ms.openlocfilehash: 6e7968f7e37e2bf1e1495331cf863aef34e7e7e4
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: eb11098292f9d83fcd0a4b23bde9c1813f4c6c8e
+ms.sourcegitcommit: 866f0e6ed9df3397072b9df838e31c3a1f4b626d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3188976"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "3333888"
 ---
 # <a name="exporting-your-business-data-to-excel"></a>Экспорт бизнес-данных в Excel
 Если вы хотите работать с данными из [!INCLUDE[d365fin](includes/d365fin_md.md)] в Excel, вы можете открыть все списки в Excel и работать с ними там. Аналогично, если требуется отменить подписку на [!INCLUDE[d365fin](includes/d365fin_md.md)], вы можете экспортировать данные в Excel, чтобы забрать их с собой.
@@ -64,7 +64,14 @@ ms.locfileid: "3188976"
 * Менеджеры  
 
 > [!NOTE]  
->   Если настроено несколько организаций в [!INCLUDE[d365fin](includes/d365fin_md.md)], необходимо экспортировать соответствующие данные из каждой организации.
+> Если настроено несколько организаций в [!INCLUDE[prodshort](includes/prodshort.md)], необходимо экспортировать соответствующие данные из каждой организации.
+
+> [!NOTE]
+> Для открытия или редактирования данных в Excel у вас должно быть хотя бы одно из следующих разрешений:
+>    - Набор разрешений *Действие экспорта в D365 Excel*  
+>    - Системное разрешение 6110 *Разрешить экспорт действий в Excel*.  
+
+Дополнительные сведения см. в разделе [Получение обзора разрешений пользователя](ui-define-granular-permissions.md#to-get-an-overview-of-a-users-permissions).
 
 ## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/configure-powerbi-excel-dynamics-365-business-central/index)
 

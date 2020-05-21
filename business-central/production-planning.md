@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 05/05/2020
 ms.author: sgroespe
-ms.openlocfilehash: 279ca56885eb4bab95322387bc6b9f857139c370
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: f2389dad61a943520cf7e09a5d8e0118b61db5c8
+ms.sourcegitcommit: 57e31a8b92feeaf8c6c63eba147f36b38eee7679
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3191311"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "3339974"
 ---
 # <a name="planning"></a>Планирование
 Производственные операции, необходимые для преобразования затраченных ресурсов в готовую продукцию, должны быть запланированы по дням или неделям, в зависимости от объема и характера товаров. [!INCLUDE[d365fin](includes/d365fin_md.md)] предлагает функции снабжения для выполнения ожидаемых и фактических требований, возникающих вследствие продажи, сборки и производства, а также функции распределенного планирования с использованием единиц хранения и перемещений между складами.
@@ -43,14 +43,15 @@ ms.locfileid: "3191311"
 |Перерасчет календарей производственных или машинных центров в связи с изменением планирования.|[Расчет календаря рабочего центра](production-how-to-create-work-center-calendars.md#to-calculate-a-work-center-calendar)|
 |Трассирование требования по заказу (трассируемое количество), прогноза, общего заказа продажи или параметров планирования (нетрассируемое количество), ставших причиной создания соответствующей строки планирования|[Отслеживание связей между спросом и предложением](production-how-track-demand-supply.md)|
 |Просмотрите ожидаемый доступный запас товара различными способами и определите полные потребности, плановые поступления по заказу и другие события, влияющие на него с течением времени.|[Просмотр наличия товара](inventory-how-availability-overview.md)|  
-|Выполнение выбранных действий планирования, таких как изменение или добавление строк журнала планирования, в графическом представлении плана поставки.|[Изменение предложений по планированию в графическом виде](production-how-to-modify-planning-suggestions-in-a-graphical-view.md)|
+<!--|Выполнение выбранных действий планирования, таких как изменение или добавление строк журнала планирования, в графическом представлении плана поставки.|[Изменение предложений по планированию в графическом виде](production-how-to-modify-planning-suggestions-in-a-graphical-view.md)|-->
 
 ## <a name="see-also"></a>См. также
+
 [Настройка производства](production-configure-production-processes.md)  
-[Производство](production-manage-manufacturing.md)    
+[Производство](production-manage-manufacturing.md)  
 [Наличие](inventory-manage-inventory.md)  
 [Покупки](purchasing-manage-purchasing.md)  
-[Сведения о проектировании: планирование поставок](design-details-supply-planning.md)   
+[Сведения о проектировании: планирование поставок](design-details-supply-planning.md)  
 [Рекомендации по настройке. Планирование поставок](setup-best-practices-supply-planning.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 
