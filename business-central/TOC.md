@@ -544,6 +544,7 @@
 ## [Расчет даты для продаж](sales-date-calculation-for-sales.md)
 ## [Создание прогноза](production-how-to-create-a-forecast.md)
 ## [Объединение повторяющихся записей](sales-how-merge-duplicate-records.md)
+## [Работа с повторяющимся доходом](finance-recurring-invoicing.md)
 
 # Закупки
 ## [Обзор](purchasing-manage-purchasing.md)
