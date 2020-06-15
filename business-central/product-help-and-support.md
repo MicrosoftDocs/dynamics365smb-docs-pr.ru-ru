@@ -6,13 +6,13 @@ ms.reviewer: na
 ms.topic: article
 ms.service: dynamics365-business-central
 ms.author: edupont
-ms.date: 04/01/2020
-ms.openlocfilehash: b78c728cd92ed8c4bc4e41da189c4ddfd877b1b6
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.date: 06/04/2020
+ms.openlocfilehash: 787d2ec0d838e89943dc375db8d43c33be193d0b
+ms.sourcegitcommit: 6aa830e3286729bac3cbe5e911d72a2c69d50f73
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3190135"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "3428375"
 ---
 # <a name="resources-for-help-and-support"></a>Ресурсы для справки и поддержки
 
@@ -68,9 +68,11 @@ ms.locfileid: "3190135"
 
 В разделе **Устранение неполадок** приводятся технические сведения, которые администратор или партнер [!INCLUDE[prodshort](includes/prodshort.md)] может использовать для разблокировки пользователей. Сюда входит информация о самом последнем сообщении об ошибке, текущей версии [!INCLUDE[prodshort](includes/prodshort.md)] и ссылка на страницу **Инспекция страницы**. Дополнительную информацию см. в разделе [Инспекция страниц в Business Central](across-inspect-page.md).  
 
+Как внутренний администратор вы имеете доступ к центру администрирования, где вы можете продолжить устранение неполадок. Для получения дополнительной информации см. [Поиск технической информации](/dynamics365/business-central/dev-itpro/administration/manage-technical-support#finding-technical-information) в материалах по администрированию.  
+
 ## <a name="report-a-problem"></a>Сообщить о проблеме
 
-Ваш партнер по распространению [!INCLUDE[prodshort](includes/prodshort.md)] будет предоставлять вам техническую поддержку. [!INCLUDE[prodshort](includes/prodshort.md)] распространяется через партнеров, и в этом разделе можно легко связаться с вашим партнером по распространению, если он предоставил свой адрес электронной почты службы поддержки. Если ваш партнер [!INCLUDE[prodshort](includes/prodshort.md)] не может разрешить проблему, он создаст билет поддержки в компании Майкрософт.  
+Ваш партнер по распространению [!INCLUDE[prodshort](includes/prodshort.md)] будет предоставлять вам техническую поддержку. [!INCLUDE[prodshort](includes/prodshort.md)] распространяется через партнеров, и в этом разделе можно легко связаться с вашим партнером по распространению, если он предоставил свой адрес электронной почты службы поддержки. Если ваш партнер [!INCLUDE[prodshort](includes/prodshort.md)] не может разрешить проблему, он создаст билет поддержки в компании Майкрософт. Для получения дополнительной информации см. [Передача проблем с поддержкой в корпорацию Майкрософт](/dynamics365/business-central/dev-itpro/administration/manage-technical-support#escalating-support-issues-to-microsoft) в материалах для администраторов.  
 
 > [!NOTE]
 > Этот раздел доступен только при наличии оплаченной подписки [!INCLUDE [prodshort](includes/prodshort.md)]. Если в подписались на пробную версию и пока еще не приобрели [!INCLUDE[prodshort](includes/prodshort.md)], у вас нет продавца-партнера, и вы не можете связаться с группой поддержки компании Майкрософт. Вы можете найти партнера [!INCLUDE[prodshort](includes/prodshort.md)] на странице [Я ищу поставщика решений](https://go.microsoft.com/fwlink/?linkid=2038145). Для получения дополнительной информации см. раздел [Как найти партнера по перепродаже?](across-faq.md#findpartner),  

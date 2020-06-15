@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: accountant, accounting, financial report
-ms.date: 05/11/2020
+ms.date: 06/01/2020
 ms.author: edupont
-ms.openlocfilehash: eae48b25446e4c81d1b8eae86fd2d0d7d0126df6
-ms.sourcegitcommit: b9264b4ed650feca18776892ec23f2aa7ec43e20
+ms.openlocfilehash: 1aaf04237261481f21d10d5e7966666132ff1a8e
+ms.sourcegitcommit: c5fcc204a1ba8aaf153ce3ad5d150295b144c0e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "3372620"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "3413647"
 ---
 # <a name="accountant-experiences-in-d365fin_long"></a>Работа бухгалтера в [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]
 Любой организации нужно вести учет и подписывать соответствующую документацию. Некоторые организации используют внешнего бухгалтера, а у других — бухгалтер в штате. Независимо от того, какой бухгалтер у вас, вы можете использовать ролевой центр **Бухгалтер** в качестве начальной страницы [!INCLUDE[d365fin](includes/d365fin_md.md)]. Отсюда можно получить доступ ко всем страницам, которые нужны для работы.  
@@ -87,12 +87,12 @@ ms.locfileid: "3372620"
 
 Если вы хотите предоставить доступ нескольким компаниям, вы должны войти в каждую компанию и повторить этот процесс. Кроме того, вы можете обновить группы разрешений для профиля пользователя бухгалтера в [!INCLUDE [prodshort](includes/prodshort.md)]например, назначив их в группу пользователей *D365 Bus Premium*. Дополнительные сведения см. в разделе [Назначение разрешений пользователям и группам](ui-define-granular-permissions.md).  
 
-## <a name="accountant-hub"></a>Accountant Hub
+<!--## Accountant Hub
 
-Если вы бухгалтер, у которого несколько клиентов, вы можете использовать [!INCLUDE[d365acc_long](includes/d365acc_long_md.md)] для более наглядного представления информации о своих клиентах. Отсюда вы сможете открывать арендаторов каждого клиента в [!INCLUDE[d365fin](includes/d365fin_md.md)] и использовать ролевой центр бухгалтера, как описано выше. Дополнительные сведения см. в разделе [Добро пожаловать в [!INCLUDE[d365acc_long](includes/d365acc_long_md.md)]](/dynamics365/accountants/index).  
+If you are an accountant with several clients, you can use [!INCLUDE[d365acc_long](includes/d365acc_long_md.md)] for a better overview of your clients. From there, you can access each client's tenant in [!INCLUDE[d365fin](includes/d365fin_md.md)] and use the Accountant Role Center as described above. For more information see [Welcome to [!INCLUDE[d365acc_long](includes/d365acc_long_md.md)]](/dynamics365/accountants/index).  
 
 > [!NOTE]
-> [!INCLUDE [d365acc_long_md](includes/d365acc_long_md.md)] в настоящее время предлагается в качестве общедоступной предварительной версии на ограниченном круге рынков.
+> [!INCLUDE [d365acc_long_md](includes/d365acc_long_md.md)] is currently in public preview in a limited number of markets.-->
 
 ## <a name="see-also"></a>См. также
 
@@ -104,5 +104,3 @@ ms.locfileid: "3372620"
 [Анализ финансовых выписок в Excel](finance-analyze-excel.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 [Настройка анализа движения денежных средств](finance-setup-cash-flow-analyses.md)  
-[Добро пожаловать в [!INCLUDE[d365acc_long](includes/d365acc_long_md.md)]](/dynamics365/accountants/index)  
-[Dynamics 365 — Accountant Hub на Microsoft.com](https://www.microsoft.com/dynamics365/financial-insights-for-accountants)  
