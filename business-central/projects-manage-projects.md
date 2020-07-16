@@ -8,12 +8,12 @@ ms.workload: na
 ms.search.keywords: projects
 ms.date: 04/01/2020
 ms.author: edupont
-ms.openlocfilehash: 1a9aea8ef63874b63bfd608d04b16dd3da4c7c35
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: 05a41839035c271b1f3e8c94d76702f1384d5025
+ms.sourcegitcommit: 3e9c89f90db5eaed599630299353300621fe4007
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3190015"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3529042"
 ---
 # <a name="project-management"></a>Управление проектами
 В [!INCLUDE[d365fin](includes/d365fin_md.md)] можно выполнять общие задачи управления проектом, такие как настройка работы и планирование ресурсов, а также предоставление информации, необходимой для управления бюджетами и мониторинга хода выполнения работ. С помощью табелей можно отслеживать количество часов работы машин и сотрудников. Как менеджер проекта, вы имеете хороший обзор не только по отдельным работам, но и по распределению сотрудников, механизмов и других ресурсов, используемых во всех проектах.
@@ -36,7 +36,7 @@ ms.locfileid: "3190015"
 
 ## <a name="get-started-with-projects"></a>Начало работы с проектами
 
-Управление проектами достаточно сложно само по себе, и изучение порядка создания работ и управления незавершенным производством в новом инструменте может быть дополнительным осложнением. Чтобы помочь начать работу с управлением проектами в [!INCLUDE [prodshort](includes/prodshort.md)], можно посмотреть [видео о создании работ](https://www.youtube.com/watch?v=VqaPWr7BWmw) на YouTube-канале [!INCLUDE [prodshort](includes/prodshort.md)].  
+Управление проектами достаточно сложно само по себе, и изучение порядка создания работ и управления незавершенным производством в новом инструменте может быть дополнительным осложнением. Чтобы помочь начать работу с управлением проектами в [!INCLUDE[prodshort](includes/prodshort.md)], можно посмотреть [видео о создании работ](https://www.youtube.com/watch?v=VqaPWr7BWmw) на YouTube-канале [!INCLUDE[prodshort](includes/prodshort.md)].  
 
 ## <a name="see-also"></a>См. также
 

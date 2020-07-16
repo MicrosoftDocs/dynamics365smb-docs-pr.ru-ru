@@ -7,16 +7,16 @@ ms.topic: get-started-article
 ms.search.keywords: news, release plan, roadmap, whats new
 ms.date: 04/01/2020
 ms.author: edupont
-ms.openlocfilehash: 6d759db09e7e3835a07b9e9138f31da48adc8851
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: 496c6bad5e309064ae2d6e7d15591578b1d46c6a
+ms.sourcegitcommit: 3e9c89f90db5eaed599630299353300621fe4007
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3190111"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3528767"
 ---
 # <a name="whats-new-in-dynamics-365-business-central"></a>Новые возможности Dynamics 365 Business Central
 
-[!include [release notes](includes/release-notes.md)]
+[!INCLUDE[release notes](includes/release-notes.md)]
 
 Вы всегда можете обратиться к плану выпуска для обзора новых и будущих функциональных возможностей. Здесь в документации вы можете найти темы, которые могут помочь вам узнать о новых и существующих функциях в [!INCLUDE[prodlong](includes/prodlong.md)],  
 
@@ -30,7 +30,7 @@ ms.locfileid: "3190111"
 
 Мы рассказываем о новых возможностях в [блоге Dynamics 365](https://cloudblogs.microsoft.com/dynamics365/), включая то, когда будут доступны, а также есть ли какие-либо связанные с ними особенности.  
 
-Для партнерского сообщества мы публикуем информацию о [Microsoft Dynamics 365 Business Central в блоге Dynamics 365 для партнеров](https://cloudblogs.microsoft.com/dynamics365/it/product/business-central/) и в [Справке для разработчиков и IT-специалистов для [!INCLUDE [prodshort](includes/prodshort.md)] ](/dynamics365/business-central/dev-itpro/index).  
+Для партнерского сообщества мы публикуем информацию о [Microsoft Dynamics 365 Business Central в блоге Dynamics 365 для партнеров](https://cloudblogs.microsoft.com/dynamics365/it/product/business-central/) и в [Справке для разработчиков и IT-специалистов для [!INCLUDE[prodshort](includes/prodshort.md)] ](/dynamics365/business-central/dev-itpro/index).  
 
 ## <a name="see-also"></a>См. также
 

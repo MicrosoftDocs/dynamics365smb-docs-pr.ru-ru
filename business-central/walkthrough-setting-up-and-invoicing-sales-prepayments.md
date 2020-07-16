@@ -8,18 +8,18 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 06/25/2020
 ms.author: sgroespe
-ms.openlocfilehash: 95e361d2c7e6901e4650a02b4e30df86bf6b3e45
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: 29ab09f12a31339810bd01af72ee488bfa879dc4
+ms.sourcegitcommit: 3e9c89f90db5eaed599630299353300621fe4007
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3193399"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3529367"
 ---
 # <a name="walkthrough-setting-up-and-invoicing-sales-prepayments"></a>Пошаговое руководство. Настройка и выставление счетов на продажу
 
-**Примечание**. Это пошаговое руководство должно выполняться в демонстрационной организации с параметром **Полный ознакомительный выпуск - полный пример данных**, который доступен в среде-песочнице. Дополнительные сведения см. в разделе [Создание среды-песочницы](across-how-create-sandbox-environment.md).
+[!INCLUDE[complete_sample_data](includes/complete_sample_data.md)]  
 
 Предоплата — это платежи, для которых выставление счетов и учет в заказах на предоплату при продажах или покупках осуществляется до окончательного выставления счетов. Например, можно потребовать задаток перед производством товара по заказу или платеж перед отгрузкой товаров клиенту. Благодаря функции предоплаты можно выставлять счета в [!INCLUDE[d365fin](includes/d365fin_md.md)] и собирать необходимые авансы от клиентов либо переводить авансы поставщикам. Таким образом, можно гарантировать учет всех платежей по счету.  
 

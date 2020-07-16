@@ -11,12 +11,12 @@ ms.reviewer: edupont
 ms. search.keywords: cloud, edge
 ms.date: 04/01/2020
 ms.author: bmeier
-ms.openlocfilehash: e3fccf0fbbc0031c0b2bf4dc73059bece1c465f4
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: c2c30715c730aec51f31f80ea95fd896cb1b257f
+ms.sourcegitcommit: 3e9c89f90db5eaed599630299353300621fe4007
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3188928"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3528867"
 ---
 # <a name="intelligent-insights-with-prodshort-online"></a>Интеллектуальная аналитика с [!INCLUDE[prodshort](includes/prodshort.md)] Online
 
@@ -24,7 +24,7 @@ ms.locfileid: "3188928"
 
 Если вы заинтересованы в [!INCLUDE[prodshort](includes/prodshort.md)], можно подписаться на бесплатную пробную версию в Интернете или вы можете выбрать работать с партнером для развертывания [!INCLUDE[prodshort](includes/prodshort.md)] локально на выбранном вами оборудовании. Затем можно выбрать получение интеллектуальной аналитики путем подсоединения к арендатору в облаке. В результате данные из локально развернутого [!INCLUDE[prodshort](includes/prodshort.md)] будут реплицированы в облако для сценариев интеллектуального облака.  
 
-Для подключения к интеллектуальному облаку из локального решения требуется, чтобы администратор указал сведения о вашей базе данных. Инструменты, используемые для подключения вашего локального развертывания к [!INCLUDE [prodshort](includes/prodshort.md)] Online — те же, которые используются для миграции локального развертывания в онлайн. Для получения дополнительной информации см. раздел [Миграция локальных данных в Business Central Online](/dynamics365/business-central/dev-itpro/administration/migrate-data) в материалах для администраторов [!INCLUDE[prodshort](includes/prodshort.md)].  
+Для подключения к интеллектуальному облаку из локального решения требуется, чтобы администратор указал сведения о вашей базе данных. Инструменты, используемые для подключения вашего локального развертывания к [!INCLUDE[prodshort](includes/prodshort.md)] Online — те же, которые используются для миграции локального развертывания в онлайн. Для получения дополнительной информации см. раздел [Миграция локальных данных в Business Central Online](/dynamics365/business-central/dev-itpro/administration/migrate-data) в материалах для администраторов [!INCLUDE[prodshort](includes/prodshort.md)].  
 
 ## <a name="viewing-intelligent-cloud-insights-in-prodshort-online"></a>Просмотр аналитики в интеллектуальном облаке в [!INCLUDE[prodshort](includes/prodshort.md)] Online
 

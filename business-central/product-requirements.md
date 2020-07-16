@@ -10,15 +10,15 @@ ms.workload: na
 ms.search.keywords: version
 ms.date: 05/06/2020
 ms.author: edupont
-ms.openlocfilehash: 417b7ba9743ec0dabb4c7b311535ed8c22d8896a
-ms.sourcegitcommit: b9264b4ed650feca18776892ec23f2aa7ec43e20
+ms.openlocfilehash: 55af97f27768d4b0c83379dd9eb5174613aabaa9
+ms.sourcegitcommit: 3e9c89f90db5eaed599630299353300621fe4007
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "3372596"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3528717"
 ---
 # <a name="minimum-requirements-for-using-business-central"></a>Минимальные требования для использования Business Central
-Перед началом работы с [!INCLUDE [prodshort](includes/prodshort.md)] Online мы рекомендуем проверить, что ваш компьютер и мобильное устройство соответствуют минимальным требованиям для продукта или превышают их. В этой статье перечислены эти требования.  
+Перед началом работы с [!INCLUDE[prodshort](includes/prodshort.md)] Online мы рекомендуем проверить, что ваш компьютер и мобильное устройство соответствуют минимальным требованиям для продукта или превышают их. В этой статье перечислены эти требования.  
 
 ## <a name="browsers"></a>Браузеры
 
@@ -40,7 +40,7 @@ ms.locfileid: "3372596"
 **Размер устройства:** [!INCLUDE[d365fin](includes/d365fin_md.md)] поддерживается на смартфонах с минимальным размером экрана 4 дюйма и планшетах с минимальным размером экрана 7 дюймов.  
 
 ## <a name="outlook"></a>Outlook
-**Приложения Outlook:** для использования [!INCLUDE[d365fin](includes/d365fin_md.md)] Online как папки "Входящие" для бизнеса в Outlook требуется Outlook 2016 или более поздней версии, Outlook в браузере, Outlook для iPhone, Outlook для iPad или Outlook для Android. Ваша организация также должна использовать Office 365. Вы не можете использовать [!INCLUDE [prodshort](includes/prodshort.md)] Online как папку "Входящие" для бизнеса в Outlook, если ваша организация использует локальный сервер Exchange.  
+**Приложения Outlook:** для использования [!INCLUDE[d365fin](includes/d365fin_md.md)] Online как папки "Входящие" для бизнеса в Outlook требуется Outlook 2016 или более поздней версии, Outlook в браузере, Outlook для iPhone, Outlook для iPad или Outlook для Android. Ваша организация также должна использовать Office 365. Вы не можете использовать [!INCLUDE[prodshort](includes/prodshort.md)] Online как папку "Входящие" для бизнеса в Outlook, если ваша организация использует локальный сервер Exchange.  
 **Браузеры:** При использовании [!INCLUDE[d365fin](includes/d365fin_md.md)] в качестве папки "Входящие" для бизнеса в Outlook в браузере надстройка требует, чтобы на компьютере был установлен один из браузеров, перечисленных в качестве поддерживаемых ранее в этой статье.  
 **Платформы:** при использовании надстройки [!INCLUDE[d365fin](includes/d365fin_md.md)] для Outlook в Outlook для iPhone, Outlook для iPad или Outlook для Android надстройка требует, чтобы в качестве мобильного устройства использовалось одно из поддерживаемых мобильных устройств для [!INCLUDE[d365fin](includes/d365fin_md.md)].  
 

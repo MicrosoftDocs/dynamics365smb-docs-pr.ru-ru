@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: delimit, FlowFilter, totals, limit, advanced
-ms.date: 04/01/2020
+ms.date: 06/26/2020
 ms.author: sgroespe
-ms.openlocfilehash: 50fbfe2cfa10885ad126153b0602bf953a105d9f
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: 786b782bd1cba3d75ce42776fa5df84ae89e624e
+ms.sourcegitcommit: 3e9c89f90db5eaed599630299353300621fe4007
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3194455"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3529117"
 ---
 # <a name="sorting-searching-and-filtering"></a>Сортировка, поиск и фильтрация
 Существует несколько приемов, которые помогают просматривать, искать и ограничивать записи в списке, отчете или XMLport. К ним относятся сортировка, поиск и фильтрация. Некоторые или все из них можно применить одновременно для быстрого поиска или анализа данных.
@@ -68,6 +68,9 @@ When you want to search for data, such as customer names, addresses, or product 
 
 > [!TIP]
 > Можно нажать клавишу **F3** для активации и деактивации поля поиска. Дополнительные сведения см. в разделе [Сочетания клавиш](keyboard-shortcuts.md#KeyboardFilter).
+
+> [!NOTE]  
+> Поиск не будет сопоставлять значения в изображениях, полях BLOB, FlowFilters, FlowFields и других полях, которые не являются частью таблицы. 
 
 ## <a name="filtering"></a><a name="filtering"></a>Фильтрация
 Фильтрация обеспечивает более широкие и разнообразные способы контроля того, какие записи должны отображаться в списке или включаться в отчет или XMLport. Имеется два основных отличия между поиском и фильтрацией, как описано в таблице ниже.

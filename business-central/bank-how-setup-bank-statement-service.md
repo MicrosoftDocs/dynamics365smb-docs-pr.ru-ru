@@ -1,8 +1,6 @@
 ---
-title: Настройка банковских выписок Yodlee Bank Feeds | Документация Майкрософт
+title: Настройка банковские выписки Yodlee
 description: Вы можете преобразовывать информацию о платежах в любые форматы, требуемые вашим банком, и делать возможным импорт и экспорт банковских файлов.
-services: project-madeira
-documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -10,23 +8,25 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: Yodlee, feed, stream, payment process
-ms.date: 04/01/2020
+ms.date: 06/24/2020
 ms.author: sgroespe
-ms.openlocfilehash: 39e31cad30c1e55c651abd818a52ea8b0a6941cf
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: 6de088c47fda309d5c4d2832ffe4199cd5331bf8
+ms.sourcegitcommit: 63102669366eb26f9c32729848170bc2e5c4d6ae
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3186240"
+ms.lasthandoff: 06/25/2020
+ms.locfileid: "3503396"
 ---
 # <a name="set-up-the-envestnet-yodlee-bank-feeds-service"></a>Настройка службы Envestnet Yodlee Bank Feeds
+
 Вы можете импортировать электронные банковские выписки для быстрого заполнения страницы **Журнал выверки платежей**, чтобы можно было применять платежи и выверять банковский счет. Дополнительные сведения см. в разделе [Автоматическое применение платежей и выверка банковских счетов](receivables-apply-payments-auto-reconcile-bank-accounts.md).
 
 > [!IMPORTANT]
-> Из-за новой Директивы об оказании платежных услуг (PSD2), вступившей в силу в Европе, после 14 сентября 2019 г. вы больше не сможете автоматически импортировать банковские выписки из банков Соединенного королевства в [!INCLUDE[d365fin](includes/d365fin_md.md)]. Мы изучаем возможности снова сделать эту функцию доступной в будущем.
+> Из-за Директивы об оказании платежных услуг (PSD2), вступившей в силу в Европе, после 14 сентября 2019 г. вы больше не сможете автоматически импортировать банковские выписки из банков Соединенного королевства в [!INCLUDE[d365fin](includes/d365fin_md.md)]. Мы изучаем возможности снова сделать эту функцию доступной в будущем.
 
 > [!NOTE]
-> Служба Envestnet Yodlee Bank Feeds поддерживается только в сетевой версии Business Central. Чтобы воспользоваться этой функцией в локальной версии, необходимо получить кобрендинговую учетную запись у Envestnet Yodlee.<br /><br />
+> Служба Envestnet Yodlee Bank Feeds поддерживается только в сетевой версии Business Central. Чтобы использовать эту функциональность локально, вы должны получить кобрендинговую учетную запись в Envestnet и добавить код для интеграции с Yodlee API.
+>
 > Служба Envestnet Yodlee Bank Feeds поддерживается только в США и Канаде.
 > Поддерживаются только банки, расположенные в этих странах, хотя банки из других стран могут появляться в окне выбора банка Envestnet Yodlee Bank Feeds в [!INCLUDE[d365fin](includes/d365fin_md.md)],
 

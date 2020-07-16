@@ -10,14 +10,14 @@ ms.workload: na
 ms.search.keywords: business intelligence, KPI, Odata, Power App, SOAP, analysis
 ms.date: 04/01/2020
 ms.author: edupont
-ms.openlocfilehash: 4f140303f037ea4a914cba1ded44fd453bcdfabb
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: b42437f0759ecb6d977797b31222bfa2b88cdb13
+ms.sourcegitcommit: 3e9c89f90db5eaed599630299353300621fe4007
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3187896"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3528466"
 ---
-# <a name="using-prodlong-as-power-bi-data-source-for-building-reports"></a>Использование [!INCLUDE [prodlong](includes/prodlong.md)] как источника данных Power BI для создания отчетов
+# <a name="using-prodlong-as-power-bi-data-source-for-building-reports"></a>Использование [!INCLUDE[prodlong](includes/prodlong.md)] как источника данных Power BI для создания отчетов
 
 Можно сделать данные [!INCLUDE[prodlong](includes/prodlong.md)] доступными в качестве источника данных в Power BI и создать мощные отчеты о состоянии вашего бизнеса.  
 
@@ -27,24 +27,24 @@ ms.locfileid: "3187896"
 
 1. В Power BI Desktop в левой области навигации выберите **Получить данные**.
 2. На странице **Получить данные** выберите **Веб-службы**, выберите **Microsoft Dynamics 365 Business Central**, затем нажмите кнопку **Подключиться**.
-3. Power BI отобразит мастер с руководством по процессу подключения, включая вход в [!INCLUDE [prodshort](includes/prodshort.md)]. Выберите **Войти**, затем выберите соответствующий учетную запись. Используйте ту же учетную запись, которая использовалась для входа в [!INCLUDE [prodshort](includes/prodshort.md)].
-4. Нажмите кнопку **Подключиться**, чтобы продолжить. Мастер Power BI отобразит список сред, компаний и источников данных Microsoft [!INCLUDE[d365fin](includes/d365fin_md.md)]. Эти источники данных представляют все веб-службы, которые вы опубликовали из [!INCLUDE [prodshort](includes/prodshort.md)].
+3. Power BI отобразит мастер с руководством по процессу подключения, включая вход в [!INCLUDE[prodshort](includes/prodshort.md)]. Выберите **Войти**, затем выберите соответствующий учетную запись. Используйте ту же учетную запись, которая использовалась для входа в [!INCLUDE[prodshort](includes/prodshort.md)].
+4. Нажмите кнопку **Подключиться**, чтобы продолжить. Мастер Power BI отобразит список сред, компаний и источников данных Microsoft [!INCLUDE[d365fin](includes/d365fin_md.md)]. Эти источники данных представляют все веб-службы, которые вы опубликовали из [!INCLUDE[prodshort](includes/prodshort.md)].
 
-    Вместо этого можно также создать новый URL-адрес веб-службы в [!INCLUDE [prodshort](includes/prodshort.md)]. Выберите одно из следующих методов:
+    Вместо этого можно также создать новый URL-адрес веб-службы в [!INCLUDE[prodshort](includes/prodshort.md)]. Выберите одно из следующих методов:
 
       - Используйте действие **Создать набор данных** на странице **Веб-службы**
       - Используйте мастер настройки **Настройка отчетности**
       - Выберите **Изменить в Excel** в любых списках
 
 5. Укажите данные, которые требуется добавить в модель данных, а затем нажмите кнопку **Загрузить**.
-6. Повторите предыдущие шаги для добавления дополнительных данных [!INCLUDE [prodshort](includes/prodshort.md)] или других данных в модель данных Power BI.
+6. Повторите предыдущие шаги для добавления дополнительных данных [!INCLUDE[prodshort](includes/prodshort.md)] или других данных в модель данных Power BI.
 
 > [!NOTE]  
-> После успешного подключения к [!INCLUDE [prodshort](includes/prodshort.md)] выполнять повторный вход не требуется.
+> После успешного подключения к [!INCLUDE[prodshort](includes/prodshort.md)] выполнять повторный вход не требуется.
 
-После загрузки данных они отображаются в правой области навигации на странице. Вы успешно подключились к данным [!INCLUDE [prodshort](includes/prodshort.md)] и можете начать создание отчета Power BI.  
+После загрузки данных они отображаются в правой области навигации на странице. Вы успешно подключились к данным [!INCLUDE[prodshort](includes/prodshort.md)] и можете начать создание отчета Power BI.  
 
-Перед построением отчета рекомендуется импортировать файлы темы [!INCLUDE [prodshort](includes/prodshort.md)].  Файл темы создаст цветовую палитру, чтобы можно было создавать отчеты с таким же цветовым стилем, что и приложения [!INCLUDE [prodshort](includes/prodshort.md)] без необходимости определения настраиваемых цветов для каждого визуального элемента.
+Перед построением отчета рекомендуется импортировать файлы темы [!INCLUDE[prodshort](includes/prodshort.md)].  Файл темы создаст цветовую палитру, чтобы можно было создавать отчеты с таким же цветовым стилем, что и приложения [!INCLUDE[prodshort](includes/prodshort.md)] без необходимости определения настраиваемых цветов для каждого визуального элемента.
 
 Дополнительные сведения см. в разделе [Документация по Power BI](/power-bi/consumer/).
 

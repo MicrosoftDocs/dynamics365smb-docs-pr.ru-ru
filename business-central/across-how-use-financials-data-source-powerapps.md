@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: OData, Power App, SOAP
-ms.date: 04/01/2020
+ms.date: 06/22/2020
 ms.author: edupont
-ms.openlocfilehash: f6b771b0107214702785d2b124983eb369741a84
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: 8f0eb7a1562a8300bd7181ef6470c70f60934470
+ms.sourcegitcommit: 3e9c89f90db5eaed599630299353300621fe4007
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3187920"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3528642"
 ---
 # <a name="connecting-to-your-business-central-data-to-build-a-business-app-using-power-apps"></a>Подключение к данным Business Central для создания бизнес-приложения с помощью Power Apps
 
@@ -27,32 +27,32 @@ ms.locfileid: "3187920"
 ## <a name="to-add-prodshort-as-a-data-source-in-power-apps"></a>Добавление [!INCLUDE[prodshort](includes/prodshort.md)] как источника данных в Power Apps
 
 1. В браузере перейдите к [powerapps.microsoft.com](https://powerapps.microsoft.com/) и выполните вход.
-2. На домашней странице выберите **Приложения**, **Создать приложение** и **Холст**, чтобы создать новое приложение на основе холста. Это приложение будет разработано для использования на мобильных устройствах, но также можно выбрать для использования другой шаблон.
+2. На домашней странице, в разделе **Начать с данных**, выберите плитка **Другие источники данных**.  
 
-    Следующий шаг создания Power App — выбор данных. Щелкните значок стрелки, а затем выберите параметр **Новое подключение** в левом верхнем углу страницы.
+    Это открывает Power Apps Studio. При первом входе в систему необходимо указать страну/регион.  
 3. В списке доступных соединений выберите **Business Central**, затем нажмите кнопку **Создать**.
 
-    Power Apps подключится к вашему экземпляру [!INCLUDE [prodshort](includes/prodshort.md)] с использованием учетных данных, с которыми вы выполнили вход. Если вы не являетесь администратором [!INCLUDE [prodshort](includes/prodshort.md)], может потребоваться выполнить вход с другой учетной записью.  
+    Power Apps подключится к вашему экземпляру [!INCLUDE[prodshort](includes/prodshort.md)] с использованием учетных данных, с которыми вы выполнили вход. Если вы не являетесь администратором [!INCLUDE[prodshort](includes/prodshort.md)], может потребоваться выполнить вход с другой учетной записью.  
 
-4. Power Apps отобразит список *сред и организаций*, доступных в [!INCLUDE [prodshort](includes/prodshort.md)]. Выберите среду и организацию, содержащую данные, к которым вы хотите подключиться. Далее вы увидите список API. Выберите **API**, к которому вы ходите подключиться.
+4. Power Apps отобразит список *сред и организаций*, доступных в [!INCLUDE[prodshort](includes/prodshort.md)]. Выберите среду и организацию, содержащую данные, к которым вы хотите подключиться, такие как *РАБОЧАЯ — Моя компания*.  
 
-Эти так называемые таблицы являются частью API-интерфейса [!INCLUDE [prodshort](includes/prodshort.md)]. Настраивать конечные точки вам не нужно — соединитель [!INCLUDE [prodshort](includes/prodshort.md)] для Power Apps делает это автоматически.  
+5. Далее вам будет представлен список таблиц, которые предоставляются как часть API для вашей среды. Выберите таблицу, к которой вы хотите подключиться, а затем выберите **Подключить**.
+
+Эти так называемые таблицы отображаются как конечные точки соединителем [!INCLUDE[prodshort](includes/prodshort.md)] для Power Apps.  
 
 > [!NOTE]
-> Если требуется включение данных из других таблиц в [!INCLUDE [prodshort](includes/prodshort.md)] в ваше приложение, необходимо работать с разработчиком для определения пользовательского API-интерфейса в [!INCLUDE [prodshort](includes/prodshort.md)], затем использовать этот пользовательский API-интерфейс через пользовательский соединитель в Power Apps. Дополнительные сведения см. в разделе [Создание пользовательского соединителя с нуля](/connectors/custom-connectors/define-blank).  
+> Если требуется включение данных из других таблиц в [!INCLUDE[prodshort](includes/prodshort.md)] в ваше приложение, необходимо работать с разработчиком для определения пользовательского API-интерфейса в [!INCLUDE[prodshort](includes/prodshort.md)], затем использовать этот пользовательский API-интерфейс через пользовательский соединитель в Power Apps. Дополнительные сведения см. в разделе [Создание пользовательского соединителя с нуля](/connectors/custom-connectors/define-blank).  
 
-На этом шаге вы успешно подключились с данным [!INCLUDE [prodshort](includes/prodshort.md)] и готовы начать создание PowerApp. Можно добавить дополнительные экраны и подключить дополнительные данные из [!INCLUDE [prodshort](includes/prodshort.md)]. Дополнительные сведения см. в разделе [Создание приложения на основе холста из шаблона в Power Apps](/powerapps/maker/canvas-apps/get-started-test-drive).  
+На этом шаге вы успешно подключились с данным [!INCLUDE[prodshort](includes/prodshort.md)] и готовы начать создание PowerApp. Можно добавить дополнительные экраны и подключить дополнительные данные из [!INCLUDE[prodshort](includes/prodshort.md)]. Дополнительные сведения см. в разделе [Создание приложения на основе холста из примера в Power Apps](/powerapps/maker/canvas-apps/open-and-run-a-sample-app).  
 
 После разработки и построения приложения можно поделиться им с коллегами. Дополнительные сведения см. в разделе [Сохранение и публикация приложения на основе холста в Power Apps](/powerapps/maker/canvas-apps/save-publish-app).  
 
 > [!NOTE]
-> Если требуется подключиться к [!INCLUDE [prodshort](includes/prodshort.md)] On-Premises, необходимо выбрать соединитель **Business Central (локальная версия)** на шаге 3.  
+> Если требуется подключиться к [!INCLUDE[prodshort](includes/prodshort.md)] On-Premises, необходимо выбрать соединитель **Business Central (локальная версия)** на шаге 3.  
 
 ## <a name="see-also"></a>См. также
 
 [Создание приложения на основе холста из шаблона в Power Apps](/powerapps/maker/canvas-apps/get-started-test-drive)  
-[Приступая к работе](product-get-started.md)  
 [Импорт бизнес-данных из других финансовых систем](across-import-data-configuration-packages.md)  
 [Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md)  
-[Финансы](finance.md)  
 [Начальные сведения по разработке соединительных приложений для Dynamics 365 Business Central](/dynamics365/business-central/dev-itpro/developer/devenv-develop-connect-apps)  

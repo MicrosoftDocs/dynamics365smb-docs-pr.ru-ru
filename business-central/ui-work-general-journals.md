@@ -7,14 +7,14 @@ ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.date: 04/01/2020
+ms.date: 06/10/2020
 ms.author: sgroespe
-ms.openlocfilehash: 424951481336855c5142016dbc9409c96c51dbf3
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: 37a69940d6b449a779a6bf8fb9d9729c99aa9ea4
+ms.sourcegitcommit: 0b5f8f68b1c9526288bfcce1a3bdc988d2910040
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3189361"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "3454435"
 ---
 # <a name="working-with-general-journals"></a>Работа с финансовыми журналами
 
@@ -41,6 +41,9 @@ ms.locfileid: "3189361"
 
 > [!TIP]  
 > Если установить флажок **Предлагаемая балансирующая сумма** в строке раздела на странице **Разделы финансового журнала**, то в поле **Сумма**, например в строках финансового журнала для документа с тем же номером, будет автоматически подставляться значение, балансирующее документ. Дополнительные сведения см. в разделе [Предложение значений в [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-let-system-suggest-values.md).
+
+> [!TIP]
+> Чтобы добавить или удалить поля в журналах, используйте баннер **Персонализация**. Дополнительные сведения см. в разделе [Персонализация рабочей области](ui-personalization-user.md).
 
 ## <a name="understanding-main-accounts-and-balancing-accounts"></a>Сведения об основных счетах и балансирующих счетах
 Если настроить для разделов журналов балансирующие счета по умолчанию на странице **Финансовые журналы**, балансирующий счет будет заполняться автоматически при заполнении поля **Номер счета**. В противном случае поля **Номер счета** и **Номер баланс. счета** необходимо заполнять вручную. На положительную сумму в поле **Сумма** дебетуется основной счет и кредитуется балансирующий. На отрицательную сумму кредитуется основной счет и дебетуется балансирующий.
@@ -161,8 +164,15 @@ ms.locfileid: "3189361"
 ## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/use-journals-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
+
 [Учет транзакций непосредственно в главной книге](finance-how-post-transactions-directly.md)  
 [Сторнирование учета в журнале и отмена приходных/расходных накладных](finance-how-reverse-journal-posting.md)  
 [Распределение затрат и дохода](year-allocate-costs-income.md)  
 [Финансы](finance.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Закрытие открытых операций в книге товаров, появившихся в результате фиксированного применения в товарном журнале](finance-how-to-close-open-item-ledger-entries-resulting-from-fixed-application-in-the-item-journal.md)  
+[Переоценка запасов в журнале переоценки](inventory-how-revalue-inventory.md)  
+[Подсчет, корректировка и повторная классификация запасов с помощью журналов](inventory-how-count-adjust-reclassify.md)  
+[Сверка платежей клиентов с журналом кассовых поступлений или из книги операций по клиентам](receivables-how-apply-sales-transactions-manually.md)  
+[Выверка платежей поставщикам с журналом платежей или из книги операций по поставщикам](payables-how-apply-purchase-transactions-manually.md)  
+[Работа с межфирменными документами и журналами](intercompany-how-work-documents-journals.md)  

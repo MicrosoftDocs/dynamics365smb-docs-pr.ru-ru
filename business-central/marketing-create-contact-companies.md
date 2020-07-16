@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: relationship, prospect
 ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: 7a6be696756643496954b8ee0940efff7996f352
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: 67b11d9c763ef4688af35a3f9cd83ee8c364fcee
+ms.sourcegitcommit: 3e9c89f90db5eaed599630299353300621fe4007
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3181608"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3528441"
 ---
 # <a name="create-contacts"></a>Создание контактов
 Ваши регулярные встречи с сотрудниками из других компаний могут перерасти в деловые отношения, такие как отношения с клиентами. При создании нового контакта необходимо записывать как можно больше информации о контакте, чтобы общение могло быть продолжено.
@@ -37,7 +37,7 @@ ms.locfileid: "3181608"
 3. В поле **Номер** введите номер контакта.
 
     Вместо этого, если настроены серии номеров для контактов на странице **Маркетинг - настройка**, можно нажать клавишу ВВОД, чтобы вставить следующий доступный номер контакта.  
-5. Заполните требуемым образом остальные поля. [!INCLUDE [tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
+5. Заполните требуемым образом остальные поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 
 ## <a name="to-create-a-contact-from-a-customer-vendor-or-bank-account"></a>Создание контакта из клиента, поставщика или банковского счета
 При наличии клиентов, поставщиков и банковских счетов, для которых требуется создать карточки контактов, можно использовать пакетные задания **Создать контакты из** для создания контактов на основе имеющихся данных. При создании контакта таким способом сведения о контакте впоследствии синхронизируются со связанным клиентом, поставщиком или банковским счетом. Дополнительные сведения см. в разделе [Синхронизация контактов с клиентами, поставщиками и банковскими счетами](marketing-create-contact-companies.md#synchronizing-contacts-with-customers-vendors-and-bank-accounts).

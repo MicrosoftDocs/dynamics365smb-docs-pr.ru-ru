@@ -5,14 +5,14 @@ author: edupont04
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: FAQ, email, Office 365, subscription, subscribe, trial, plan, application area, experience, support, buy, upgrade, extend
-ms.date: 04/01/2020
+ms.date: 06/25/2020
 ms.author: edupont
-ms.openlocfilehash: 9c6e162e8b8146c59c135b669566594ca67be7dc
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: 865a7511a086d38ae1edeabb008557a7101498ff
+ms.sourcegitcommit: 3e9c89f90db5eaed599630299353300621fe4007
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3188688"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3528089"
 ---
 # <a name="frequently-asked-questions"></a>Вопросы и ответы
 
@@ -22,13 +22,13 @@ ms.locfileid: "3188688"
 
 [!INCLUDE[d365fin](includes/d365fin_md.md)] доступно в ограниченном количестве стран, но новые страны добавляются ежеквартально за счет локализации, проводимой корпорацией Майкрософт или партнерами. Дополнительные сведения см. в разделе [Наличие в странах/регионах и поддерживаемые переводы](/dynamics365/business-central/dev-itpro/compliance/apptest-countries-and-translations?toc=/dynamics365/business-central/toc.json) (доступно только на английском языке).  
 
-## <a name="how-do-i-get-prodshort"></a>Как получить [!INCLUDE [prodshort](includes/prodshort.md)]?
+## <a name="how-do-i-get-prodshort"></a>Как получить [!INCLUDE[prodshort](includes/prodshort.md)]?
 
-Можно зарегистрироваться на бесплатную пробную версию, чтобы изучить [!INCLUDE [prodshort](includes/prodshort.md)]. [!INCLUDE [free_trial_md](includes/free_trial_md.md)] Если требуется больше времени на ознакомление, [можно продлить срок действия пробной версии](#can-i-extend-my-30-day-new-company-trial-period).  
+Можно зарегистрироваться на бесплатную пробную версию, чтобы изучить [!INCLUDE[prodshort](includes/prodshort.md)]. [!INCLUDE[free_trial_md](includes/free_trial_md.md)] Если требуется больше времени на ознакомление, [можно продлить срок действия пробной версии](#can-i-extend-my-30-day-new-company-trial-period).  
 
-Чтобы вы могли быстрее приступить к работе в [!INCLUDE [prodshort](includes/prodshort.md)], можно просмотреть руководства по сопровождаемой настройке, видео или разделы справки для выбранных задач настройки. Дополнительные сведения см. в разделе [Подготовьтесь к ведению бизнеса](ui-get-ready-business.md).  
+Чтобы вы могли быстрее приступить к работе в [!INCLUDE[prodshort](includes/prodshort.md)], можно просмотреть руководства по сопровождаемой настройке, видео или разделы справки для выбранных задач настройки. Дополнительные сведения см. в разделе [Подготовьтесь к ведению бизнеса](ui-get-ready-business.md).  
 
-Когда вы будете готовы приобрести [!INCLUDE [prodshort](includes/prodshort.md)], вы можете найти партнера [!INCLUDE [prodshort](includes/prodshort.md)] на странице [Я ищу поставщика решений](https://go.microsoft.com/fwlink/?linkid=2038145). Для получения дополнительной информации см. раздел [Как найти партнера по перепродаже?](#findpartner),  
+Когда вы будете готовы приобрести [!INCLUDE[prodshort](includes/prodshort.md)], вы можете найти партнера [!INCLUDE[prodshort](includes/prodshort.md)] на странице [Я ищу поставщика решений](https://go.microsoft.com/fwlink/?linkid=2038145). Для получения дополнительной информации см. раздел [Как найти партнера по перепродаже?](#findpartner),  
 
 ## <a name="where-do-i-go-if-i-have-questions"></a>Что делать, если у меня есть вопросы?
 Если у вас есть вопросы по [!INCLUDE[d365fin](includes/d365fin_md.md)], на которые вы не можете найти ответ в документации, задайте вопрос в сообществе Business Central. Дополнительные сведения см. в разделе [Сообщество Dynamics 365 Business Central](https://community.dynamics.com/business).  
@@ -50,7 +50,7 @@ ms.locfileid: "3188688"
 
 Дополнительные сведения об обучении по Dynamics 365, предоставляемом корпорацией Майкрософт, см. на странице [Обучение по Microsoft Dynamics 365](/dynamics365/get-started/training/index#dynamics-365-customers).  
 
-Дополнительный контент предоставляется сообществом [!INCLUDE [prodshort](includes/prodshort.md)], такое как [Руководство по полям Microsoft Dynamics 365 Business Central](https://leanpub.com/dynamics), написанное партнером.  
+Дополнительный контент предоставляется сообществом [!INCLUDE[prodshort](includes/prodshort.md)], такое как [Руководство по полям Microsoft Dynamics 365 Business Central](https://leanpub.com/dynamics), написанное партнером.  
 
 ## <a name="how-do-i-get-technical-support-for-d365fin"></a><a name="hdigetsupport"></a>Как получить техническую поддержку для [!INCLUDE[d365fin](includes/d365fin_md.md)]?
 
@@ -101,18 +101,26 @@ ms.locfileid: "3188688"
 
 ## <a name="how-do-i-find-a-reselling-partner"></a><a name="findpartner"></a>Как найти партнера по перепродаже?
 
-[!INCLUDE [prodshort](includes/prodshort.md)] продается и реализуется через глобальную сеть партнеров Dynamics 365 с отраслевым опытом. Свяжитесь с партнером для подробной оценки, консультационных услуг и получения дополнительных сведений о ценах. Дополнительные сведения см. в разделе **Ценообразование** на странице [Dynamics 365 Business Central на сайте microsoft.com](https://dynamics.microsoft.com/business-central/overview/).  
+[!INCLUDE[prodshort](includes/prodshort.md)] продается и реализуется через глобальную сеть партнеров Dynamics 365 с отраслевым опытом. Свяжитесь с партнером для подробной оценки, консультационных услуг и получения дополнительных сведений о ценах. Дополнительные сведения см. в разделе **Ценообразование** на странице [Dynamics 365 Business Central на сайте microsoft.com](https://dynamics.microsoft.com/business-central/overview/).  
 
-Когда вы будете готовы приобрести [!INCLUDE [prodshort](includes/prodshort.md)], вы можете найти партнера [!INCLUDE [prodshort](includes/prodshort.md)] на странице [Я ищу поставщика решений](https://go.microsoft.com/fwlink/?linkid=2038145). Вы также можете найти решения и услуги от партнеров в [Microsoft AppSource](https://go.microsoft.com/fwlink/?linkid=845998).  
+Когда вы будете готовы приобрести [!INCLUDE[prodshort](includes/prodshort.md)], вы можете найти партнера [!INCLUDE[prodshort](includes/prodshort.md)] на странице [Я ищу поставщика решений](https://go.microsoft.com/fwlink/?linkid=2038145). Вы также можете найти решения и услуги от партнеров в [Microsoft AppSource](https://go.microsoft.com/fwlink/?linkid=845998).  
 
 Если вам нужно руководство от Microsoft, свяжитесь с [Отделом продаж Microsoft](https://go.microsoft.com/fwlink/?linkid=828707).  
 
-Ваш партнер по распространению также будет предоставлять вам техническую поддержку. Дополнительные сведения см. в разделе [Ресурсы по Справке и поддержке](product-help-and-support.md).
+Ваш партнер по распространению также будет предоставлять вам техническую поддержку. Дополнительные сведения см. в разделе [Ресурсы по Справке и поддержке](product-help-and-support.md).  
+
+## <a name="why-is-new-information-not-available-in-my-language"></a>Почему новая информация не доступна на моем языке?
+
+На сайте docs.microsoft.com публикуется содержимое о бизнес-функциональности на нескольких языках. Содержимое написано на английском языке и опубликовано по URL-адресу с *en-us* как код языка. Когда новая информация публикуется на английском языке, она отправляется для перевода на поддерживаемые языки. Это означает, что вы не сможете прочесть этот новое содержимое на родном языке до 4 недель.  
+
+Мы понимаем проблемы, которые это может вызвать, и мы призываем пользователей искать то, что они ищут на английском языке, если они не могут найти его на родном языке.  
 
 ## <a name="is-the-windows-client-supported"></a>Поддерживается ли клиент Windows?
+
 Первые локальные выпуски [!INCLUDE[prodshort](includes/prodshort.md)] включали установленный клиент на базе Microsoft Dynamics NAV, В выпуска 2019 волны 2 этот компонент, называемый "клиентом Windows" больше не будет доступен для [!INCLUDE[prodshort](includes/prodshort.md)]. Дополнительные сведения см. в разделе [Вопросы и ответы о клиенте Windows и Business Central](/dynamics365/business-central/dev-itpro/faq-win-cli).
 
 ## <a name="see-also"></a>См. также
+
 [Приступая к работе](product-get-started.md)  
 [Вопросы и ответы о функции "Что вы хотите сделать"](ui-search-faq.md)  
 [Вопросы и ответы по поиску и фильтрации](ui-search-filter-faq.md)  

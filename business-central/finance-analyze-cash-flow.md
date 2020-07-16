@@ -12,15 +12,15 @@ ms.workload: na
 ms.search.keywords: money flow, expense and income, liquidity, cash receipts minus cash payments, Cartera
 ms.date: 04/01/2020
 ms.author: bholtorf
-ms.openlocfilehash: 5a13d461bd4764173e7d674ef35f5fa32f11318b
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: 09bf4d364afdff27dc97396a2d88ea0a934379fb
+ms.sourcegitcommit: 8b2f02dd5189c46ecff33c07223ed62b36842d34
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3184008"
+ms.lasthandoff: 07/08/2020
+ms.locfileid: "3542696"
 ---
 # <a name="analyzing-cash-flow-in-your-company"></a>Анализ движения денежных средств в организации
-Как говорят, деньги решают все. Диаграммы в ролевом центре бухгалтера предоставляют сведения, которые помогут принимать обоснованные решения относительно того, что сделать с кассой.  
+Диаграммы в ролевом центре бухгалтера предоставляют аналитики, которые помогут принимать обоснованные решения относительно того, что сделать с кассой.  
 
 | Чтобы на эти вопросы | Используйте эту диаграмму |
 | --- | --- |

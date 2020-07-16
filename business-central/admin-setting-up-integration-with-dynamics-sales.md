@@ -10,30 +10,21 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2020
 ms.author: bholtorf
-ms.openlocfilehash: ad10aa53b4fe6a8b9b65ad798c206fa251e08a7a
-ms.sourcegitcommit: d67328e1992c9a754b14c7267ab11312c80c38dd
+ms.openlocfilehash: 9cd00cd3b3cb55ce3af35bd82284570b86720d63
+ms.sourcegitcommit: 0c6f4382fad994fb6aea9dcde3b2dc25382c5968
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3196499"
+ms.lasthandoff: 06/19/2020
+ms.locfileid: "3484265"
 ---
 # <a name="setting-up-user-accounts-for-integrating-with-common-data-service"></a>Настройка учетных записей пользователя для интеграции с Common Data Service
 Эта статья содержит обзор порядка настройки учетных записей пользователей, которые требуются для интеграции [!INCLUDE[d365fin](includes/cds_long_md.md)] с [!INCLUDE[d365fin](includes/d365fin_md.md)].  
 
 ## <a name="setting-up-the-administrator-user-account"></a>Настройка учетной записи пользователя-администратора
-Вы должны добавить свою учетную запись администратора для [!INCLUDE[d365fin](includes/d365fin_md.md)] как пользователя в [!INCLUDE[d365fin](includes/cds_long_md.md)]. Когда вы устанавливаете подключение между [!INCLUDE[d365fin](includes/d365fin_md.md)] и [!INCLUDE[d365fin](includes/cds_long_md.md)], мы будем использовать эту учетную запись один раз для установки и настройки некоторых необходимых компонентов. <!--Verify this-->
-
-## <a name="setting-up-the-user-account-for-the-integration"></a>Настройка учетной записи пользователя для интеграции
-Необходимо создать специальную учетную запись пользователя в вашей подписке Office 365, которую могут использовать [!INCLUDE[d365fin](includes/d365fin_md.md)] и [!INCLUDE[d365fin](includes/cds_long_md.md)] для синхронизации данных. Данная учетная запись пользователя должна обеспечивать вход в [!INCLUDE[d365fin](includes/cds_long_md.md)], это означает, что данный пользователь должен иметь лицензию на [!INCLUDE[d365fin](includes/cds_long_md.md)] и хотя бы одну роль безопасности, назначенную ему в [!INCLUDE[d365fin](includes/cds_long_md.md)]. <!--not sure that this applies as described [here](/dynamics365/customer-engagement/admin/create-users-assign-online-security-roles#create-a-user-account). For more information about how to create users in [!INCLUDE[d365fin](includes/cds_long_md.md)], see [Manage security, users, and teams](https://go.microsoft.com/fwlink/?LinkID=616518). --> После того как подключение настроено, [!INCLUDE[d365fin](includes/d365fin_md.md)] назначит учетной записи пользователя роли безопасности, которые требуются в [!INCLUDE[d365fin](includes/d365fin_md.md)].
-
-<!--![Assisted setup guide showing place to enter synchronization user credentials](media/sync-user-setup.png "Visualization assisted setup wizard page showing place to enter synchronization user credentials")-->
-
-> [!IMPORTANT]  
-> Не используйте учетную запись администратора для [!INCLUDE[d365fin](includes/cds_long_md.md)] для синхронизации. Если это сделать, синхронизация будет нарушена.
+Вы должны добавить свою учетную запись администратора для [!INCLUDE[d365fin](includes/d365fin_md.md)] как пользователя в [!INCLUDE[d365fin](includes/cds_long_md.md)]. Когда вы устанавливаете подключение между [!INCLUDE[d365fin](includes/d365fin_md.md)] и [!INCLUDE[d365fin](includes/cds_long_md.md)], мы будем использовать эту учетную запись один раз для установки и настройки некоторых необходимых компонентов. 
 
 ## <a name="permissions-and-security-roles-for-user-accounts-in-d365fin"></a>Разрешения и роли безопасности для учетных записей пользователей в [!INCLUDE[d365fin](includes/cds_long_md.md)]
-При установке базового решения интеграции CDS разрешения для учетной записи пользователя интеграции настраиваются. Если эти разрешения изменены, вам может потребоваться сбросить их. Вы можете сделать это, переустановив базовое решение интеграции CDS, выбрав **Повторить развертывание решения интеграции** на странице **Настройка подключения Common Data Service**. Роль безопасности интеграции Business Central CDS развернута.
-
+При установке базового решения интеграции CDS разрешения для учетной записи пользователя интеграции настраиваются. Если эти разрешения изменены вручную, можно сбросить их. Вы можете сделать это, переустановив базовое решение интеграции CDS, выбрав **Повторить развертывание решения интеграции** на странице **Настройка подключения Common Data Service**. Роль безопасности интеграции Business Central CDS развернута.
 
 <!--
 The following tables list the minimum permissions for the user accounts in [!INCLUDE[d365fin](includes/cds_long_md.md)].
@@ -60,8 +51,8 @@ The following table displays the minimum permissions on each tab for each securi
 |Business Central Connection|Global|Create, Read, Write, Delete|Create, Read, Write, Delete|Create, Read, Write, Delete|
 |Post Configuration|Global|||Write|
 
-#### Integration User
-The following table displays the minimum permissions on each tab for each security role that is required for the integration user.
+### Minimum Permissions for automatically created [!INCLUDE[d365fin](includes/d365fin_md.md)] Integration application user
+The following table displays the minimum permissions on each tab for each security role that is required for the automatically created [!INCLUDE[d365fin](includes/d365fin_md.md)] Integration application user.
 
 ##### Core Records
 |Security Role|Access Level|Dynamics NAV 2018 and Earlier|Business Central <br> October 2018|Business Central <br> April 2019|

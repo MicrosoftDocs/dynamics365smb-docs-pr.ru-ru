@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: user log, user activity, tracking
 ms.date: 04/01/2020
 ms.author: edupont
-ms.openlocfilehash: 6db170f8cf0b214a4ec85fc835eb8b98f071f203
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: 201716238ddd42ac19cd769a8635d726e27e1509
+ms.sourcegitcommit: 3e9c89f90db5eaed599630299353300621fe4007
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3187720"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3528817"
 ---
 # <a name="auditing-changes-in-business-central"></a>Изменение аудита в Business Central
 
@@ -40,7 +40,7 @@ ms.locfileid: "3187720"
 
 ## <a name="working-with-activity-logs"></a>Работа с журналами действий
 
-С некоторых страниц в [!INCLUDE [prodshort](includes/prodshort.md)] можно просмотреть журнал действий, в котором указаны состояние и возможные ошибки из файлов, которые вы экспортируете или импортируете в [!INCLUDE [prodshort](includes/prodshort.md)],  
+С некоторых страниц в [!INCLUDE[prodshort](includes/prodshort.md)] можно просмотреть журнал действий, в котором указаны состояние и возможные ошибки из файлов, которые вы экспортируете или импортируете в [!INCLUDE[prodshort](includes/prodshort.md)],  
 
 Эта информация отображается на странице **Журнал действий** в соответствии с контекстом, из которого открыта страница. Открыть ее можно, например, со страниц **Настройка службы обмена документами**, **Входящий документ**, **Учтенный счет продажи** и **Учтенная кредит-нота продажи**. Вы можете очистить список записей журнала или просто удалить из него записи старше 7 дней.  
 

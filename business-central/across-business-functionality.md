@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: feature overview
 ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: b54c72614eb3e55d7cc93a0f3f9587f47e0b29d3
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: 5bdc19028a6859d1bee795de766416ada535b474
+ms.sourcegitcommit: 1ab077a024fa71d97ac70e4b36cc218b7ca66509
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3188763"
+ms.lasthandoff: 06/23/2020
+ms.locfileid: "3499520"
 ---
 # <a name="business-functionality"></a>Функциональные бизнес-возможности
 [!INCLUDE[d365fin](includes/d365fin_md.md)] предоставляет функциональные возможности для распространенных бизнес-процессов в небольших и средних организациях, в основном занимающихся оптовыми продажами и профессиональными услугами. Однако также поддерживаются более сложные процессы, такие как сборка, производство, сервис и расширенное управление складом.
@@ -43,6 +43,8 @@ ms.locfileid: "3188763"
 |После записи внешних документов в [!INCLUDE[d365fin](includes/d365fin_md.md)], включая вложенные файлы, можно вручную создавать связанные документы или автоматически преобразовывать файлы в электронные документы.|[Входящие документы](across-income-documents.md)|
 
 ## <a name="see-also"></a>См. также
+
+[Изучение возможностей Dynamics 365 Business Central](https://dynamics.microsoft.com/business-central/capabilities/)  
 [Администрация](admin-setup-and-administration.md)  
 [Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md)  
 [Приступая к работе](product-get-started.md)  

@@ -12,12 +12,12 @@ ms.search.keywords: ''
 ms.reviewer: edupont
 ms.date: 04/01/2020
 ms.author: soalex
-ms.openlocfilehash: 769764f94ba887552b6b23c62c0ddad3c876fda9
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: c64d93769cd2c824cdad54df8ddb3de5e9004f81
+ms.sourcegitcommit: 3e9c89f90db5eaed599630299353300621fe4007
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3185910"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3528339"
 ---
 # <a name="service-compliance"></a>Соответствие служб
 Это содержимое содержит сведения о соответствии сервиса в связи с [!INCLUDE[d365fin](../includes/d365fin_md.md)].  
@@ -30,7 +30,7 @@ Business Central является облачной службой с глоба�
 
 ## <a name="service-terms"></a>Условия предоставления услуг
 
-[!INCLUDE [prodshort](../includes/prodshort.md)] Online регулируется в соответствии с [современной политикой жизненного цикла](https://support.microsoft.com/help/30881/modern-lifecycle-policy), Условия соглашения об уровне обслуживания описаны в документе, который можно загрузить из раздела **Соглашения об уровне обслуживания для Microsoft Online Services** на стр. [Условия лицензирования](https://www.microsoft.com/licensing/product-licensing/products).  
+[!INCLUDE[prodshort](../includes/prodshort.md)] Online регулируется в соответствии с [современной политикой жизненного цикла](https://support.microsoft.com/help/30881/modern-lifecycle-policy), Условия соглашения об уровне обслуживания описаны в документе, который можно загрузить из раздела **Соглашения об уровне обслуживания для Microsoft Online Services** на стр. [Условия лицензирования](https://www.microsoft.com/licensing/product-licensing/products).  
 
 Кроме того, вы можете отслеживать состояние своего арендатора и указывать окна обновления в [Центре администрирования арендаторов](/dynamics365/business-central/dev-itpro/administration/tenant-admin-center),  
 

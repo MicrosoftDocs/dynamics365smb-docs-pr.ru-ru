@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: SMTP, mail, Office 365
 ms.date: 04/01/2020
 ms.author: edupont
-ms.openlocfilehash: b088cf18c10dd451c7c5974e98f0c0cbba5bad0b
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: cad495da807695b99e6ca052031ccbbc330c1db5
+ms.sourcegitcommit: 3e9c89f90db5eaed599630299353300621fe4007
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3186906"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3529267"
 ---
 # <a name="using-business-central-as-your-business-inbox-in-outlook"></a>Использование Business Central в качестве папки "Входящие" для бизнеса в Outlook
 
@@ -27,18 +27,18 @@ ms.locfileid: "3186906"
 Затем при открытии Outlook отобразится сообщение электронной почты от *администратора Dynamics 365 Business Central*. Новые надстройки будут добавлены в ленту Outlook, а в браузере вы сможете видеть надстройки [!INCLUDE[prodshort](includes/prodshort.md)] непосредственно над телом сообщения электронной почты. Надстройки будут обновляться периодически, и вы будете получать уведомления о том, что новая версия готова к использованию в Outlook.  
 
 > [!TIP]
-> Если вы используете новую веб-версию Outlook, то надстройки [!INCLUDE [prodshort](includes/prodshort.md)] могут быть скрыты в пункте **Другие действия**. Если вы часто используете надстройку, вы можете закрепить ее так, чтобы она всегда была видна сразу. Для получения дополнительной информации см. [Использование надстроек в Outlook в Интернете ](https://support.office.com/article/using-add-ins-in-outlook-on-the-web-8f2ce816-5df4-44a5-958c-f7f9d6dabdce?ns=OLWAO365B&version=16).  
+> Если вы используете новую веб-версию Outlook, то надстройки [!INCLUDE[prodshort](includes/prodshort.md)] могут быть скрыты в пункте **Другие действия**. Если вы часто используете надстройку, вы можете закрепить ее так, чтобы она всегда была видна сразу. Для получения дополнительной информации см. [Использование надстроек в Outlook в Интернете ](https://support.office.com/article/using-add-ins-in-outlook-on-the-web-8f2ce816-5df4-44a5-958c-f7f9d6dabdce?ns=OLWAO365B&version=16).  
 
-Если вы работаете с более чем одной компанией [!INCLUDE [prodshort](includes/prodshort.md)], вы можете легко переключаться между компаниями в Outlook. На панели действий надстройки выберите **Другие действия**, а затем вы можете увидеть вариант для переключения между компаниями.  
+Если вы работаете с более чем одной компанией [!INCLUDE[prodshort](includes/prodshort.md)], вы можете легко переключаться между компаниями в Outlook. На панели действий надстройки выберите **Другие действия**, а затем вы можете увидеть вариант для переключения между компаниями.  
 
 <!--TEMP-->
 > [!NOTE]
-> Переключение между компаниями требует [!INCLUDE [prodshort](includes/prodshort.md)] 2019 выпуска волны 2 или позже, как объявлено в [плане выпуска](/dynamics365-release-plan/2019wave2/dynamics365-business-central/switch-between-companies-business-inbox-outlook).
+> Переключение между компаниями требует [!INCLUDE[prodshort](includes/prodshort.md)] 2019 выпуска волны 2 или позже, как объявлено в [плане выпуска](/dynamics365-release-plan/2019wave2/dynamics365-business-central/switch-between-companies-business-inbox-outlook).
 
 Некоторые организации, использующие Office 365, ограничивают права пользователей на развертывание надстроек. Поэтому вам следует убедиться, что вы используете подписку Office 365, включающую электронную почту и позволяющую развертывать надстройки. Если вы хотите попробовать надстройку в любом случае, вы можете [попробовать Office 365 бесплатно](https://products.office.com/try).  
 
 ## <a name="using-the-contact-insights-add-in"></a>Использование надстройки Contact Insights
-Допустим, вы получили сообщение электронной почты от клиента, который желает получить предложение по определенным товарам. Непосредственно в Outlook вы можете открыть надстройку [!INCLUDE[d365fin](includes/d365fin_md.md)], которая распознает отправителя как клиента и откроет карточку клиента для его организации. На этой панели вы видите обзорные сведения о клиенте, а также возможность просматривать более подробную информацию в конкретных документах. Можно также просмотреть историю продаж для клиента. Если это новый контакт, его можно создать как нового клиента в [!INCLUDE[d365fin](includes/d365fin_md.md)], не выходя из Outlook.  
+Допустим, вы получили сообщение электронной почты от клиента, который желает получить предложение по определенным товарам. Непосредственно в Outlook вы можете открыть надстройку [!INCLUDE[d365fin](includes/d365fin_md.md)], которая распознает отправителя как клиента и откроет карточку клиента для этой компании. На этой панели вы видите обзорные сведения о клиенте, а также возможность просматривать более подробную информацию в конкретных документах. Можно также просмотреть историю продаж для клиента. Если это новый контакт, его можно создать как нового клиента в [!INCLUDE[d365fin](includes/d365fin_md.md)], не выходя из Outlook.  
 
 В надстройке вы можете создать предложение по продаже и отправить его клиенту, не выходя из Outlook. Вся информация, которая вам нужна для отправки предложения продаже, доступна в рабочем почтовом ящике в Outlook.  
 После ввода данных вы можете учесть предложение. Затем его можно отправить по электронной почте. [!INCLUDE[d365fin](includes/d365fin_md.md)] создает PDF-файл с предложением по продаже и прикрепляет его к сообщению электронной почты, черновик которого вы создаете в надстройке.  
@@ -68,7 +68,7 @@ ms.locfileid: "3186906"
 
 ## <a name="using-other-email-accounts"></a>Использование других учетных записей электронной почты
 
-Надстройки предназначены для использования с Office 365. Если вы используете [!INCLUDE [prodshort](includes/prodshort.md)] on-premises, ваш администратор узнает, можете ли вы использовать надстройки [!INCLUDE [prodshort](includes/prodshort.md)] в Outlook. Дополнительную информацию см. в разделах [Какой адрес электронной почты я могу использовать с [!INCLUDE[prodshort](includes/prodshort.md)]?](across-faq.md#email) и [Функции, которые требуют особых обстоятельств](/dynamics365/business-central/dev-itpro/features-not-implemented-on-premises#features-that-require-specific-circumstances).  
+Надстройки предназначены для использования с Office 365. Если вы используете [!INCLUDE[prodshort](includes/prodshort.md)] on-premises, ваш администратор узнает, можете ли вы использовать надстройки [!INCLUDE[prodshort](includes/prodshort.md)] в Outlook. Дополнительную информацию см. в разделах [Какой адрес электронной почты я могу использовать с [!INCLUDE[prodshort](includes/prodshort.md)]?](across-faq.md#email) и [Функции, которые требуют особых обстоятельств](/dynamics365/business-central/dev-itpro/features-not-implemented-on-premises#features-that-require-specific-circumstances).  
 
 ## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/alternative-interfaces-dynamics-365-business-central/index)
 

@@ -8,18 +8,18 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 06/25/2020
 ms.author: sgroespe
-ms.openlocfilehash: 4027fd2d7ce3e514aa451279c8800453ba62711b
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: f71bafe0db7c22c65d7d88bd0e4434ab79bc89b4
+ms.sourcegitcommit: 3e9c89f90db5eaed599630299353300621fe4007
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3195655"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3528239"
 ---
 # <a name="walkthrough-receiving-and-putting-away-in-advanced-warehouse-configurations"></a>Пошаговое руководство. Получение и складирование в расширенных конфигурациях склада
 
-**Примечание**. Это пошаговое руководство должно выполняться в демонстрационной организации с параметром **Полный ознакомительный выпуск - полный пример данных**, который доступен в среде-песочнице. Дополнительные сведения см. в разделе [Создание среды-песочницы](across-how-create-sandbox-environment.md).
+[!INCLUDE[complete_sample_data](includes/complete_sample_data.md)]  
 
 В [!INCLUDE[d365fin](includes/d365fin_md.md)] входящие процессы по получению и размещению могут быть выполнены четырьмя способами при помощи различных функций в зависимости от уровня сложности склада.  
 

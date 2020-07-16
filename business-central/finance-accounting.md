@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: accountant, accounting, financial report
 ms.date: 06/01/2020
 ms.author: edupont
-ms.openlocfilehash: 1aaf04237261481f21d10d5e7966666132ff1a8e
-ms.sourcegitcommit: c5fcc204a1ba8aaf153ce3ad5d150295b144c0e4
+ms.openlocfilehash: 7f78fbcb4c0f37e9c6230004c70cd9d1625b8768
+ms.sourcegitcommit: 3e9c89f90db5eaed599630299353300621fe4007
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "3413647"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3528114"
 ---
 # <a name="accountant-experiences-in-d365fin_long"></a>Работа бухгалтера в [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]
 Любой организации нужно вести учет и подписывать соответствующую документацию. Некоторые организации используют внешнего бухгалтера, а у других — бухгалтер в штате. Независимо от того, какой бухгалтер у вас, вы можете использовать ролевой центр **Бухгалтер** в качестве начальной страницы [!INCLUDE[d365fin](includes/d365fin_md.md)]. Отсюда можно получить доступ ко всем страницам, которые нужны для работы.  
@@ -54,14 +54,14 @@ ms.locfileid: "3413647"
 4. Выберите **Новый гость**.
 5. На странице **Новый пользователь** выберите **Пригласить пользователя**, а затем добавить информацию о вашем внешнем бухгалтере.  
 
-   При желании добавьте личное приветственное сообщение для бухгалтера, чтобы сообщить ему, что вы добавляете его в свой [!INCLUDE [prodshort](includes/prodshort.md)].
+   При желании добавьте личное приветственное сообщение для бухгалтера, чтобы сообщить ему, что вы добавляете его в свой [!INCLUDE[prodshort](includes/prodshort.md)].
 
 6. Выберите **Пригласить**, чтобы отправить приглашение автоматически. В правом верхнем углу появляется уведомление **Пользователь успешно приглашен**. 
 7. После отправки приглашения учетная запись пользователя автоматически добавляется в каталог как гость.
 
-Затем вы должны назначить новому гостевому пользователю лицензию на [!INCLUDE [prodshort](includes/prodshort.md)].
+Затем вы должны назначить новому гостевому пользователю лицензию на [!INCLUDE[prodshort](includes/prodshort.md)].
 
-#### <a name="to-give-your-accountant-access-to-your-prodshort"></a>Как дать бухгалтеру доступ к вашему [!INCLUDE [prodshort](includes/prodshort.md)]
+#### <a name="to-give-your-accountant-access-to-your-prodshort"></a>Как дать бухгалтеру доступ к вашему [!INCLUDE[prodshort](includes/prodshort.md)]
 
 1. На портале Azure для нового пользователя выберите **Профиль**, а затем выберите **Редактировать**.
 2. Укажите страну в поле **Расположение использования**, а затем выберите **Сохранить**.
@@ -73,26 +73,26 @@ ms.locfileid: "3413647"
 
 В случае успеха лицензия назначается гостевому пользователю и создается гостевая учетная запись.
 
-### <a name="importing-the-new-user-into-prodshort"></a>Импорт нового пользователя в [!INCLUDE [prodshort](includes/prodshort.md)]
+### <a name="importing-the-new-user-into-prodshort"></a>Импорт нового пользователя в [!INCLUDE[prodshort](includes/prodshort.md)]
 
-Бухгалтер получит электронное письмо с уведомлением о том, что ему предоставлен доступ к вашей Active Directory. Далее вы должны предоставить ему доступ к нужной компании в [!INCLUDE [prodshort](includes/prodshort.md)].
+Бухгалтер получит электронное письмо с уведомлением о том, что ему предоставлен доступ к вашей Active Directory. Далее вы должны предоставить ему доступ к нужной компании в [!INCLUDE[prodshort](includes/prodshort.md)].
 
 #### <a name="to-add-the-accountant-to-the-right-company"></a>Добавление бухгалтера в нужную компанию
 
-1. Откройте компанию [!INCLUDE [prodshort](includes/prodshort.md)], к которой вы хотите предоставить бухгалтеру доступ, по адресу [https://businesscentral.dynamics.com](https://businesscentral.dynamics.com).
+1. Откройте компанию [!INCLUDE[prodshort](includes/prodshort.md)], к которой вы хотите предоставить бухгалтеру доступ, по адресу [https://businesscentral.dynamics.com](https://businesscentral.dynamics.com).
 2. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Пользователи**, затем выберите соответствующую ссылку.  
 3. Выберите действие **Получить новых пользователей из Office 365**.
 
 Это импортирует учетную запись пользователя, которую вы создали на портале Azure, в компанию. Дополнительную информацию см. в разделе [Добавление пользователя в Business Central](ui-how-users-permissions.md#adduser).  
 
-Если вы хотите предоставить доступ нескольким компаниям, вы должны войти в каждую компанию и повторить этот процесс. Кроме того, вы можете обновить группы разрешений для профиля пользователя бухгалтера в [!INCLUDE [prodshort](includes/prodshort.md)]например, назначив их в группу пользователей *D365 Bus Premium*. Дополнительные сведения см. в разделе [Назначение разрешений пользователям и группам](ui-define-granular-permissions.md).  
+Если вы хотите предоставить доступ нескольким компаниям, вы должны войти в каждую компанию и повторить этот процесс. Кроме того, вы можете обновить группы разрешений для профиля пользователя бухгалтера в [!INCLUDE[prodshort](includes/prodshort.md)]например, назначив их в группу пользователей *D365 Bus Premium*. Дополнительные сведения см. в разделе [Назначение разрешений пользователям и группам](ui-define-granular-permissions.md).  
 
 <!--## Accountant Hub
 
 If you are an accountant with several clients, you can use [!INCLUDE[d365acc_long](includes/d365acc_long_md.md)] for a better overview of your clients. From there, you can access each client's tenant in [!INCLUDE[d365fin](includes/d365fin_md.md)] and use the Accountant Role Center as described above. For more information see [Welcome to [!INCLUDE[d365acc_long](includes/d365acc_long_md.md)]](/dynamics365/accountants/index).  
 
 > [!NOTE]
-> [!INCLUDE [d365acc_long_md](includes/d365acc_long_md.md)] is currently in public preview in a limited number of markets.-->
+> [!INCLUDE[d365acc_long_md](includes/d365acc_long_md.md)] is currently in public preview in a limited number of markets.-->
 
 ## <a name="see-also"></a>См. также
 

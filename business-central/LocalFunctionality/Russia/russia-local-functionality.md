@@ -7,14 +7,14 @@ ms.topic: article
 ms.workload: na
 ms.search.keywords: ''
 ms.reviewer: edupont
-ms.date: 04/01/2020
+ms.date: 06/09/2020
 ms.author: soalex
-ms.openlocfilehash: a973889552fda3558e738594ffcd81df0502a300
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: fcae42e00dbff7742f48808643683b19d4f7dbf1
+ms.sourcegitcommit: 0b5f8f68b1c9526288bfcce1a3bdc988d2910040
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3189218"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "3454265"
 ---
 # <a name="russia-local-functionality"></a>Функциональность локальной версии для России
 
@@ -111,3 +111,4 @@ ms.locfileid: "3189218"
 [Отчеты по расчетам с клиентами (Россия)](Russian-Receivables-Reports.md)  
 [Отчеты о платежах (Россия)](Russian-Payables-Reports.md)  
 [Специальные коды для информации о компании, клиентах, поставщиках](special-codes-company-information-customers-vendors.md)  
+[Наличие в странах/регионах и поддерживаемые языки](/dynamics365/business-central/dev-itpro/compliance/apptest-countries-and-translations)  

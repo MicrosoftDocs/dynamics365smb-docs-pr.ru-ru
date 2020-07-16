@@ -8,18 +8,18 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 06/25/2020
 ms.author: sgroespe
-ms.openlocfilehash: a83a6aa09ecfd6bb6ae459096707d0fbb5ff234f
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: 6fd4091a921c519c82e43bce868181bb77b66caf
+ms.sourcegitcommit: 3e9c89f90db5eaed599630299353300621fe4007
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3189823"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3528917"
 ---
 # <a name="walkthrough-managing-projects-with-jobs"></a>Пошаговое руководство. Управление проектами с помощью работ
 
-**Примечание**. Это пошаговое руководство должно выполняться в демонстрационной организации с параметром **Полный ознакомительный выпуск - полный пример данных**, который доступен в среде-песочнице. Дополнительные сведения см. в разделе [Создание среды-песочницы](across-how-create-sandbox-environment.md).
+[!INCLUDE[complete_sample_data](includes/complete_sample_data.md)]  
 
 В этом пошаговом руководстве даются общие сведения о функциях управления проектами в заданиях. Работы используются для планирования использования ресурсов организации и отслеживания различных затрат, связанных с ресурсами в конкретном проекте. В приложении "Работы" учитывается использование человеко-часов, станко-часов, товаров в запасах и других типов потребления, которые может понадобиться отследить в процессе выполнения работы.  
 

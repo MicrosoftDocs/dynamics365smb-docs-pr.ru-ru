@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: remove, delete
 ms.date: 04/01/2020
 ms.author: edupont
-ms.openlocfilehash: f48f5785ffc62b124b26764da5e86838c1e01dfa
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: 163c1522fce412e1877aa63dad914ca0a75c661e
+ms.sourcegitcommit: 3e9c89f90db5eaed599630299353300621fe4007
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3187440"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3528416"
 ---
 # <a name="unsubscribe-or-remove-prodshort"></a>Отмена подписки или удаление [!INCLUDE[prodshort](includes/prodshort.md)]
 
@@ -31,7 +31,7 @@ ms.locfileid: "3187440"
 
 ## <a name="unsubscribing-by-removing-d365fin-from-your-office-365-experience"></a>Отмена подписки путем удаления [!INCLUDE[d365fin](includes/d365fin_md.md)] из Office 365
 
-Если ваша компания подписывается на [!INCLUDE [prodshort](includes/prodshort.md)], но вам, как пользователю, больше не нужен доступ, вы должны попросить администратора или партнера Dynamics 365 удалить лицензию [!INCLUDE[d365fin](includes/d365fin_md.md)] из вашей учетной записи пользователя Office 365. Если [!INCLUDE[d365fin](includes/d365fin_md.md)] удаляется из вашей учетной записи, а другие пользователи в организации продолжают использовать подписку, они по-прежнему будут иметь доступ к общим данным в организации [!INCLUDE[d365fin](includes/d365fin_md.md)].  
+Если ваша компания подписывается на [!INCLUDE[prodshort](includes/prodshort.md)], но вам, как пользователю, больше не нужен доступ, вы должны попросить администратора или партнера Dynamics 365 удалить лицензию [!INCLUDE[d365fin](includes/d365fin_md.md)] из вашей учетной записи пользователя Office 365. Если [!INCLUDE[d365fin](includes/d365fin_md.md)] удаляется из вашей учетной записи, а другие пользователи в организации продолжают использовать подписку, они по-прежнему будут иметь доступ к общим данным в организации [!INCLUDE[d365fin](includes/d365fin_md.md)].  
 
 Если ваша компания желает отменить подписку на [!INCLUDE[d365fin](includes/d365fin_md.md)], партнер Dynamics 365 может удалить платную подписку из учетной записи компании. Для получения дополнительной информации см. раздел [Администрирование Business Central Online](/dynamics365/business-central/dev-itpro/administration/tenant-administration) в содержимом для разработчиков и ИТ-специалистов.  
 

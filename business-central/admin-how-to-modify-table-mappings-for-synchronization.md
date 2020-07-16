@@ -10,18 +10,18 @@ ms.workload: na
 ms.search.keywords: sales, crm, integration, sync, synchronize, table mapping
 ms.date: 04/20/2020
 ms.author: bholtorf
-ms.openlocfilehash: 0a6d6e08db723979fa938488bb0df6fb08a5c4d1
-ms.sourcegitcommit: 99915b493a7e49d12c530f2f9fda1fcedb518b6e
+ms.openlocfilehash: 0b814c18c328ea0647e38b6a837577b277ca4e63
+ms.sourcegitcommit: 3e9c89f90db5eaed599630299353300621fe4007
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "3271994"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3527939"
 ---
 # <a name="mapping-the-tables-and-fields-to-synchronize"></a>Сопоставление таблиц и полей для синхронизации
 Основой синхронизации данных в [!INCLUDE[d365fin](includes/d365fin_md.md)] с данными в [!INCLUDE[d365fin](includes/cds_long_md.md)] является сопоставление таблиц и полей, которые содержат данные, друг с другом. Сопоставление происходит через таблицы интеграции. 
 
 ## <a name="mapping-integration-tables"></a>Сопоставление таблиц интеграции
-Таблица интеграции — это таблица базе данных [!INCLUDE[d365fin](includes/d365fin_md.md)], представляющая объект, например счет, в [!INCLUDE[cds_long_md](includes/cds_long_md.md)]. Таблица интеграции включает поля, соответствующие полям в таблице объекта [!INCLUDE[cds_long_md](includes/cds_long_md.md)]. Например, таблица интеграции "Счет" связывается с объектом "Счета" в [!INCLUDE[cds_short_md](includes/cds_long_md.md)]. Для каждого объекта в [!INCLUDE [cds_short_md](includes/cds_short_md.md)], который необходимо синхронизировать с данными в [!INCLUDE[prodshort](includes/prodshort.md)], должно быть соответствующее сопоставление таблиц интеграции.
+Таблица интеграции — это таблица базе данных [!INCLUDE[d365fin](includes/d365fin_md.md)], представляющая объект, например счет, в [!INCLUDE[cds_long_md](includes/cds_long_md.md)]. Таблица интеграции включает поля, соответствующие полям в таблице объекта [!INCLUDE[cds_long_md](includes/cds_long_md.md)]. Например, таблица интеграции "Счет" связывается с объектом "Счета" в [!INCLUDE[cds_short_md](includes/cds_long_md.md)]. Для каждого объекта в [!INCLUDE[cds_short_md](includes/cds_short_md.md)], который необходимо синхронизировать с данными в [!INCLUDE[prodshort](includes/prodshort.md)], должно быть соответствующее сопоставление таблиц интеграции.
 
 Когда вы создаете связь между приложениями, [!INCLUDE[d365fin](includes/d365fin_md.md)] настраивает некоторые сопоставления таблиц и полей по умолчанию. При желании вы можете изменить сопоставление таблиц. Дополнительные сведения см. в разделе [Сопоставление стандартных объектов для синхронизации](admin-synchronizing-business-central-and-sales.md#standard-entity-mapping-for-synchronization). Если вы изменили сопоставления по умолчанию и хотите отменить изменения, на странице **Настройка подключения к [!INCLUDE[d365fin](includes/cds_long_md.md)]**, выберите **Использовать настройку синхронизации по умолчанию**.
 

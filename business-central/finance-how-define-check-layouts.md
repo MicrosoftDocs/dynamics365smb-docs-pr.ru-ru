@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: print check, customize
 ms.date: 04/01/2020
 ms.author: edupont
-ms.openlocfilehash: 479281e24bffb824f9fc8499bb34ab6b11311a52
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: 8346e8a868f73d3de729a56e86530048c58229aa
+ms.sourcegitcommit: 3945f16d6d9c9853651e6291ce1465a44fd71fc8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3183672"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "3458930"
 ---
 # <a name="select-a-check-layout"></a>Выбор макета платежного документа
 Вы можете разработать платежные документы в соответствии со стандартами, установленными местными органами власти. Изображения платежных документов можно печатать на английском, французском или испанском языке.
@@ -54,6 +54,9 @@ ms.locfileid: "3183672"
 
 ![Спецификации MICR E-13B](media/font_MICR_E-13B_Specifications.png "Спецификации MICR E-13B")
 
+### <a name="delimiter-characters"></a>Символы-разделители
+![Символы-разделители](media/font-micr-letters.png "Символы-разделители")
+
 Полную спецификацию шрифтов MICR E-13B можно найти в документации поставщика здесь: ( https://www.idautomation.com/micr-fonts/e13b/).
 
 ### <a name="micr-cmc-7-specifications"></a>Спецификации MICR CMC-7
@@ -67,6 +70,9 @@ ms.locfileid: "3183672"
 Ниже приведено краткое описание спецификаций для шрифтов MICR CMC-7 которые могут быть полезны при калибровке шрифтов в макетах чеков с определенными принтерами MICR.
 
 ![Спецификации MICR CMC-7](media/font_MICR_CMC-7_Specifications.png "Спецификации MICR CMC-7")
+
+### <a name="delimiter-characters"></a>Символы-разделители
+![Символы-разделители](media/font-cmc7-letters.png "Символы-разделители")
 
 Полную спецификацию шрифтов MICR CMC-7 можно найти в документации поставщика здесь: ( http://www.idautomation.com/micr-fonts/cmc7/).
 

@@ -11,12 +11,12 @@ ms.reviewer: edupont
 ms.search.keywords: workflow, OData, Power App, SOAP
 ms.date: 04/01/2020
 ms.author: bmeier
-ms.openlocfilehash: 6dbc2fd67b5156c47690661016d4e7d3aae64a09
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: c2fbd841332ff48bd4716a082b0c9ef2bb9ac6df
+ms.sourcegitcommit: 3e9c89f90db5eaed599630299353300621fe4007
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3187944"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3528992"
 ---
 # <a name="using-prodshort-in-an-automated-workflow"></a>Использование [!INCLUDE[prodshort](includes/prodshort.md)] в автоматическом бизнес-процессе
 
@@ -55,7 +55,7 @@ ms.locfileid: "3187944"
     > [!NOTE]
     > Соединитель [!INCLUDE[prodshort](includes/prodshort.md)] для Power Automate поддерживает несколько рабочих сред и сред-песочниц. Если вы не создали несколько рабочих сред и сред-песочниц, **Рабочая среда** — единственный доступный для выбора вариант.  
 
-    На этом шаге вы успешно подключились к данным Business Central[!INCLUDE [prodshort](includes/prodshort.md)] и готовы начать создание потока.
+    На этом шаге вы успешно подключились к данным Business Central[!INCLUDE[prodshort](includes/prodshort.md)] и готовы начать создание потока.
 
 9. Для создания потока на основе шаблона выберите вариант **Начните с шаблона**.
 10. Найдите шаблоны **Microsoft [!INCLUDE[prodlong](includes/prodlong.md)]**.

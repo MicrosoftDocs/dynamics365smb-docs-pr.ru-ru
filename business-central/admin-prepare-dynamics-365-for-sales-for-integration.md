@@ -1,8 +1,6 @@
 ---
 title: Интеграция с Dynamics 365 Sales | Документация Майкрософт
 description: Узнайте, как подготовить Dynamics 365 Business Central к интеграции с Dynamics 365 Sales.
-services: project-madeira
-documentationcenter: ''
 author: bholtorf
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -10,20 +8,21 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: sales, crm, integration, integrating
-ms.date: 04/01/2020
+ms.date: 06/30/2020
 ms.author: bholtorf
-ms.openlocfilehash: b4e3181564f351979bcb22512ab02a9a43456bde
-ms.sourcegitcommit: d67328e1992c9a754b14c7267ab11312c80c38dd
+ms.openlocfilehash: c42393145fc921c85570e0829c0953757981b53e
+ms.sourcegitcommit: 3e9c89f90db5eaed599630299353300621fe4007
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3196571"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3529017"
 ---
 # <a name="integrating-with-dynamics-365-sales"></a>Интеграция с Dynamics 365 Sales
+
 Роль менеджера по продажам часто рассматривается как самая направленная наружу должность в бизнесе. Однако может быть полезно для менеджеров по продажам посмотреть внутрь бизнеса и увидеть, что происходит на заднем дворе. Путем интеграции [!INCLUDE[d365fin](includes/d365fin_md.md)] и [!INCLUDE[crm_md](includes/crm_md.md)], можно предоставить менеджерам по продажи такие аналитические данные, позволив им просматривать информацию в [!INCLUDE[d365fin](includes/d365fin_md.md)] во время работы в [!INCLUDE[crm_md](includes/crm_md.md)]. Например, при подготовке предложения по продаже может быть полезно знать, имеется ли достаточно запасов для выполнения заказа. Дополнительные сведения см. в разделе [Использование Dynamics 365 Sales из Business Central](marketing-integrate-dynamicscrm.md).
 
 > [!NOTE]
-> В этом разделе описывается процесс интеграции сетевых версий [!INCLUDE[crm_md](includes/crm_md.md)] и [!INCLUDE[d365fin](includes/d365fin_md.md)] через [!INCLUDE[d365fin](includes/cds_long_md.md)]. Сведения о локальной конфигурации см. в разделе [Подготовка Dynamics 365 Sales к локальной интеграции](/dynamics365/business-central/dev-itpro/administration/prepare-dynamics-365-for-sales-for-integration.md).
+> В этом разделе описывается процесс интеграции сетевых версий [!INCLUDE[crm_md](includes/crm_md.md)] и [!INCLUDE[d365fin](includes/d365fin_md.md)] через [!INCLUDE[d365fin](includes/cds_long_md.md)]. Сведения о локальной конфигурации см. в разделе [Подготовка Dynamics 365 Sales к локальной интеграции](/dynamics365/business-central/dev-itpro/administration/prepare-dynamics-365-for-sales-for-integration).
 
 ## <a name="integrating-through-common-data-service"></a>Интеграция через Common Data Service
 [!INCLUDE[d365fin](includes/d365fin_md.md)] также интегрируется с [!INCLUDE[d365fin](includes/cds_long_md.md)], что позволяет легко подключать и синхронизировать данные с другими приложениями Dynamics 365, такими как [!INCLUDE[crm_md](includes/crm_md.md)], или даже с приложениями, которые вы создаете сами. Если вы впервые выполняете интеграцию, мы рекомендуем сделать это через [!INCLUDE[d365fin](includes/cds_long_md.md)]. Дополнительные сведения см. в разделе [Интеграция с Common Data Service](admin-common-data-service.md).
@@ -52,7 +51,7 @@ ms.locfileid: "3196571"
 4. При необходимости, имеются расширенные настройки, которые могут улучшить безопасность и включить дополнительные возможности, такие как обработка заказов на продажу и просмотр уровней запасов. Расширенные параметры рассматриваются в таблице ниже.  
 
 |Поле|Описание|
-|-----|-----|
+|-----|-----------|
 |**Импорт решения Dynamics 365 Sales**|Разрешить это, чтобы установить и настроить решение интеграции в [!INCLUDE[crm_md](includes/crm_md.md)]. <!--For more information, see [About the Base CDS Integration Solution](admin-common-data-service.md#about-the-business-central-integration-solution). Need to add a new topic-->|
 |**Публикация веб-службы наличия товаров**|Разрешите пользователям, которые используют [!INCLUDE[crm_md](includes/crm_md.md)], просматривать наличие товаров (продуктов) в запасах в [!INCLUDE[d365fin](includes/d365fin_md.md)]. Для этого необходима учетная запись пользователя [!INCLUDE[d365fin](includes/d365fin_md.md)] с ключом доступа к веб-службам. Назначение ключа выполняется в два этапа. В учетной записи пользователя в [!INCLUDE[d365fin](includes/d365fin_md.md)] необходимо выбрать действие **Изменить ключ веб-службы**. В мастере настройки "Настройка подключения к Dynamics 365 Sales" необходимо указать URL-адрес веб-службы Dynamics 365 Business Central OData и предоставить учетные данные пользователя [!INCLUDE[d365fin](includes/d365fin_md.md)] для получения доступа к сервису. Дополнительные сведения см. в разделе [Веб-службы OData](/dynamics365/business-central/dev-itpro/webservices/odata-web-services).|
 |**URL-адрес веб-службы OData Business Central**|Если включена веб-служба для просмотра наличия товаров, URL-адрес веб-службы OData предоставляется для вас.|
@@ -66,9 +65,9 @@ ms.locfileid: "3196571"
 Введите следующие сведения для подключения из [!INCLUDE[d365fin](includes/d365fin_md.md)] к [!INCLUDE[crm_md](includes/crm_md.md)].
 
 |Поле|Описание|
-|-----|-----|
+|-----|-----------|
 |**URL-адрес Dynamics 365 Sales**|URL-адрес вашего экземпляра [!INCLUDE[crm_md](includes/crm_md.md)]. Это позволяет пользователям открывать соответствующие записи в [!INCLUDE[d365fin](includes/d365fin_md.md)] из записей в [!INCLUDE[crm_md](includes/crm_md.md)], например счет или продукт. Записи [!INCLUDE[d365fin](includes/d365fin_md.md)] открываются в [!INCLUDE[d365fin](includes/d365fin_md.md)].|
-|**Веб-служба наличия товаров включена**|Разрешите пользователям, которые используют [!INCLUDE[crm_md](includes/crm_md.md)], просматривать наличие товаров (продуктов) в запасах в [!INCLUDE[d365fin](includes/d365fin_md.md)]. Если она включена, также необходимо указать имя пользователя и ключ доступа для [!INCLUDE[crm_md](includes/crm_md.md)], чтобы использовать веб-службу OData для наличия товаров (продуктов). Дополнительные сведения см. в разделе [Веб-службы OData](/dynamics365/business-central/dev-itpro/webservices/odata-web-services.md).|
+|**Веб-служба наличия товаров включена**|Разрешите пользователям, которые используют [!INCLUDE[crm_md](includes/crm_md.md)], просматривать наличие товаров (продуктов) в запасах в [!INCLUDE[d365fin](includes/d365fin_md.md)]. Если она включена, также необходимо указать имя пользователя и ключ доступа для [!INCLUDE[crm_md](includes/crm_md.md)], чтобы использовать веб-службу OData для наличия товаров (продуктов). Дополнительные сведения см. в разделе [Веб-службы OData](/dynamics365/business-central/dev-itpro/webservices/odata-web-services).|
 |**URL-адрес веб-службы OData Dynamics 365 Business Central**|Если включена веб-служба наличия товаров, URL-адрес веб-службы OData предоставляется для вас. Для использования задайте в этом поле URL-адрес экземпляра [!INCLUDE[d365fin](includes/d365fin_md.md)].<br /><br /> Для возврата в поле URL-адреса по умолчанию для [!INCLUDE[d365fin](includes/d365fin_md.md)], выберите действие **Сбросить URL-адрес веб-клиента**.<br /><br /> Это поле используется только в случае установки решения интеграции [!INCLUDE[d365fin](includes/d365fin_md.md)] в [!INCLUDE[crm_md](includes/crm_md.md)].|
 |**Имя пользователя веб-службы OData Dynamics 365 Business Central**|Имя пользователя учетной записи, которую [!INCLUDE[crm_md](includes/crm_md.md)] использует для получения сведений о наличии товаров из [!INCLUDE[d365fin](includes/d365fin_md.md)] через веб-службу OData.|
 |**Ключ доступа веб-службы OData Dynamics 365 Business Central**|Ключ доступа учетной записи пользователя, которую [!INCLUDE[crm_md](includes/crm_md.md)] использует для получения сведений о наличии товаров из [!INCLUDE[d365fin](includes/d365fin_md.md)] через веб-службу OData. Ключ назначается пользователю, выбранному в поле **Имя пользователя веб-службы OData Dynamics 365 Business Central**. Чтобы получить ключ, выберите кнопку **Найти значение** рядом с именем пользователя, выберите пользователя, выберите **Управление**, затем выберите **Правка**. В карточке пользователя выберите **Действия**, **Проверка подлинности**, затем выберите **Изменить ключ веб-службы**.|
@@ -92,7 +91,7 @@ Integrate with Business Central through Common Data Service requires an administ
 В следующей таблице перечислено стандартное соответствие между объектами в [!INCLUDE[d365fin](includes/d365fin_md.md)] и [!INCLUDE[crm_md](includes/crm_md.md)], которое предоставляет [!INCLUDE[d365fin](includes/d365fin_md.md)].
 
 |[!INCLUDE[d365fin](includes/d365fin_md.md)]|[!INCLUDE[crm_md](includes/crm_md.md)]|Направление синхронизации|Фильтр по умолчанию|
-|-------------------------------------------|-----|-------------------------|--------------|
+|-------------------------------------------|--------------------------------------|-----------------|--------------|
 |Единица измерения|Группа единиц|[!INCLUDE[d365fin](includes/d365fin_md.md)] -> [!INCLUDE[crm_md](includes/crm_md.md)]| |
 |Товар|Продукт|[!INCLUDE[d365fin](includes/d365fin_md.md)] -> [!INCLUDE[crm_md](includes/crm_md.md)] и [!INCLUDE[crm_md](includes/crm_md.md)] -> [!INCLUDE[d365fin](includes/d365fin_md.md)]|Тип контактов Sales: **Тип продукта** — **Товарный запас**|
 |Ресурс|Продукт|[!INCLUDE[d365fin](includes/d365fin_md.md)] -> [!INCLUDE[crm_md](includes/crm_md.md)] и [!INCLUDE[crm_md](includes/crm_md.md)] -> [!INCLUDE[d365fin](includes/d365fin_md.md)]|Тип контактов Sales: **Тип продукта** — **Услуги**|
@@ -122,7 +121,7 @@ Integrate with Business Central through Common Data Service requires an administ
 |Заказы на продажу|Когда включена интеграция заказов на продажу, заказы на продажу в [!INCLUDE[d365fin](includes/d365fin_md.md)], которые созданы из отправленных заказов на продажу в [!INCLUDE[crm_md](includes/crm_md.md)], синхронизируются с заказами на продажу в INCLUDE SALES, когда они выпущены. Прежде чем синхронизировать заказы, рекомендуется сначала синхронизировать все объекты, связанные с заказом, такие как продавцы и прайс-листы. Поле кода менеджера по продажам в заголовке заказа определяет владельца связанного объекта в [!INCLUDE[crm_md](includes/crm_md.md)].|
 
 ### <a name="synchronization-jobs-for-a-sales-integration"></a>Задания синхронизации для интеграции Sales
-Задания выполняются в следующем порядке во избежание зависимостей связывания между объектами. Есть дополнительные задания, доступные из Common Data Service. Дополнительные сведения см. в разделе [Использование очередей работ для планирования задач](/dynamics365/business-central/admin-job-queues-schedule-tasks.md).
+Задания выполняются в следующем порядке во избежание зависимостей связывания между объектами. Есть дополнительные задания, доступные из Common Data Service. Дополнительные сведения см. в разделе [Использование очередей работ для планирования задач](/dynamics365/business-central/admin-job-queues-schedule-tasks).
 
 1. Задание синхронизации "ЕДИНИЦА ИЗМЕРЕНИЯ — Dynamics 365 Sales"  
 2. Задание синхронизации "РЕСУРС-ПРОДУКТ - Dynamics 365 Sales"  

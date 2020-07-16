@@ -38,10 +38,11 @@
 ## [Вопросы и ответы по копированию и вставке](ui-copy-paste.md)
 ## [Работа с календарными датами и значениями времени](ui-enter-date-ranges.md)
 ## [Выявление обязательных полей](ui-mandatory-fields.md)
-## [Изменение языка и языкового стандарта](about-locale-language.md)
+## [Изменение языка и региона](about-locale-language.md)
 ## [Просмотр и редактирование в Excel](across-work-with-excel.md)
 ## [Управление вложениями, ссылками и заметками в карточках и документах](ui-how-add-link-to-record.md)
 ## [Изменение базовых настроек](ui-change-basic-settings.md)
+## [Переключение на другую компанию или среду](ui-organization-switch.md)
 ## [Управление уведомлениями](ui-smart-notifications.md)
 ## [Советы по повышению эффективности для бизнес-пользователей](/dynamics365/business-central/dev-itpro/performance/performance-users?toc=/dynamics365/business-central/toc.json)
 ## Персонализация Business Central
@@ -128,7 +129,7 @@
 ### [Регистрация новых товаров](inventory-how-register-new-items.md)
 ### [Копирование существующих товаров для создания новых товаров](inventory-how-copy-items.md)
 ### [О типах товаров](inventory-about-item-types.md)
-### [Настройка единиц измерения товара](inventory-how-setup-units-of-measure.md)
+### [Настройка единиц измерения](inventory-how-setup-units-of-measure.md)
 ### [Настройка единиц хранения](inventory-how-to-set-up-stockkeeping-units.md)
 ### [Категоризация товаров](inventory-how-categorize-items.md)
 ### [Импорт нескольких изображений товаров](inventory-how-import-item-pictures.md)
@@ -216,7 +217,7 @@
 #### [Копирование данных в новые организации](admin-how-to-copy-data-to-new-companies.md)
 #### [Создание входящего сальдо журнала](admin-how-to-create-journal-opening-balances.md)
 ### [Сбор данных настройки клиента](admin-gather-customer-setup-values.md)
-### [Подготовка к миграции данных клиента](admin-use-templates-to-prepare-customer-data-for-migration.md)
+### [Подготовьтесь к миграции данных клиента с помощью шаблонов](admin-use-templates-to-prepare-customer-data-for-migration.md)
 ### [Миграция данных клиента](admin-migrate-customer-data.md)
 ### [Создание настраиваемых пакетов конфигурации организации](admin-how-to-create-custom-company-configuration-packages.md)
 ### [Советы и подсказки: RapidStart Services](admin-tips-and-tricks-rapidstart-services.md)
@@ -325,6 +326,7 @@
 ## [Создание пользователей в соответствии с лицензиями](ui-how-users-permissions.md)
 ## [Назначение разрешений пользователям и группам](ui-define-granular-permissions.md)
 ## [Управление профилями](admin-users-profiles-roles.md)
+## [Управление пользовательскими параметрами и настройками](admin-manage-user-settings-preferences.md)
 ## [Настройка принтеров](ui-specify-printer-selection-reports.md)
 ## [Классификация конфиденциальности данных](admin-classifying-data-sensitivity.md)
 ## [Ответ на запросы о личных данных](admin-responding-to-requests-about-personal-data.md)
@@ -348,7 +350,6 @@
 ### [Настройка цветного индикатора в очередях](admin-how-set-up-colored-indicator-on-cues.md)
 ### Настройка с помощью расширений
 #### [Обзор](ui-extensions.md)
-#### [Настройка с помощью расширений](ui-extensions.md)
 #### [Портал бухгалтера для Business Central](ui-extensions-accountant-portal.md)
 #### [Зарплата Ceridian](ui-extensions-ceridian-payroll.md)
 #### [Миграция данных Dynamics GP](ui-extensions-dynamicsgp-data-migration.md)
@@ -384,7 +385,6 @@
 ### [Ручная синхронизация сопоставлений таблиц](admin-manual-synchronization-of-table-mappings.md)
 ### [Синхронизация по расписанию](admin-scheduled-synchronization-using-the-synchronization-job-queue-entries.md)
 ### [Устранение ошибок синхронизации](admin-troubleshoot-sales-synchronization.md)
-<!-- ### [Developer Walkthrough: Custom Integration with Common Data Service](admin-walkthrough-customizing-cds-integration.md) moved to devitpro -->
 
 # Финансы
 ## [Обзор](finance.md)
@@ -508,6 +508,7 @@
 ## [Работа с НДС по продажам и покупкам](finance-work-with-vat.md)
 ## [Подача отчета об НДС в налоговые органы](finance-how-report-vat.md)
 ## [Преобразование сервисных контрактов, которые включают суммы НДС](service-how-to-convert-service-contracts.md)
+## [Управление изменениями ставки НДС](finance-how-use-vat-rate-change-tool.md)
 ## [Анализ движения денежных средств в организации](finance-analyze-cash-flow.md)
 ## [Пошаговое руководство. Создание прогнозов движения денежных средств с использованием финансовых отчетов](walkthrough-making-cash-flow-forecasts-by-using-account-schedules.md)
 ## [Анализ финансовых выписок в Excel](finance-analyze-excel.md)
@@ -626,7 +627,6 @@
 ### [Создание возможностей](marketing-how-create-opportunities.md)
 ### [Отслеживание обмена сообщениями электронной почты](marketing-set-up-email-logging.md)
 ### [Обработка возможностей продаж](marketing-processing-sales-opportunities.md)
-### [Настройка регистрации эл.почты](marketing-set-up-email-logging.md)
 ## [Использование анкет профилей для классификации бизнес-контактов](marketing-create-contact-profile-questionnaire.md)
 ## [Использование Dynamics 365 for Sales из Business Central](marketing-integrate-dynamicscrm.md)
 ### [Связывание и синхронизация записей вручную](admin-how-to-couple-and-synchronize-records-manually.md)
@@ -768,6 +768,7 @@
 ## Сведения о проектировании: себестоимость запасов
 ### [Обзор](design-details-inventory-costing.md)
 ### [Сведения о проектировании: методы учета себестоимости](design-details-costing-methods.md)  
+### [Сведения о проектировании: изменение методов учета себестоимости для товаров](design-details-changing-costing-methods.md)
 ### [Сведения о проектировании: применение товара](design-details-item-application.md)  
 ### [Сведения о проектировании: известная проблема применения товара](design-details-inventory-zero-level-open-item-ledger-entries.md)  
 ### [Сведения о проектировании: коррекция себестоимости](design-details-cost-adjustment.md)  
@@ -1404,7 +1405,7 @@
 #### [Налог на добавленную стоимость для Швейцарии](LocalFunctionality/Switzerland/swiss-value-added-tax.md)
 #### [Ставка НДС для Швейцарии](LocalFunctionality/Switzerland/vat-rates-for-switzerland.md)
 ### Банковские операции и платежи
-#### Управление QR-счетами (LocalFunctionality/Switzerland/ui-extensions-qr-bill-management.md)
+#### [Управление QR-счетами](LocalFunctionality/Switzerland/ui-extensions-qr-bill-management.md)
 #### [Закрытие коллекции LSV](LocalFunctionality/Switzerland/how-to-close-an-lsv-collection.md)
 #### [Экспорт платежей с помощью LSV](LocalFunctionality/Switzerland/how-to-export-payments-using-lsv.md)
 #### [Импорт платежей ESR](LocalFunctionality/Switzerland/how-to-import-esr-payments.md)

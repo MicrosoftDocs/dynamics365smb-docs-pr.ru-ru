@@ -8,16 +8,16 @@ ms.workload: na
 ms.search.keywords: project management
 ms.date: 04/01/2020
 ms.author: edupont
-ms.openlocfilehash: e6d277656ab5b159aaca93e03a333ba6232c3bcc
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: 358c7ed4068ca90637082f61e24bcff25cef61a3
+ms.sourcegitcommit: 3e9c89f90db5eaed599630299353300621fe4007
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3191183"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3527964"
 ---
 # <a name="set-up-jobs"></a>Настройка работ
 
-Как менеджер проекта, вы можете настроить задания, которые определяют каждый из проектов, которыми вы управляете в [!INCLUDE [prodshort](includes/prodshort.md)]. На странице **Настройка работ** необходимо определить, как требуется использовать определенные функции работ.
+Как менеджер проекта, вы можете настроить задания, которые определяют каждый из проектов, которыми вы управляете в [!INCLUDE[prodshort](includes/prodshort.md)]. На странице **Настройка работ** необходимо определить, как требуется использовать определенные функции работ.
 
 Для каждого задания вы затем указываете отдельные карточки задания с информацией о ценах для товаров работы, ресурсов работы и счетов ГК по работе, а также необходимо настроить учетные группы работ.
 

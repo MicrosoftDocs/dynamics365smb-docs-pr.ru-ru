@@ -11,12 +11,12 @@ ms.search.keywords: account schedule, analysis, reporting, financial report, bus
 ms.reviewer: edupont
 ms.date: 04/01/2020
 ms.author: bmeier
-ms.openlocfilehash: 0625197f9feb0c12daa45b183973316df52b0672
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: 59ea09440624f2311d69b0c1657de4d9fc420826
+ms.sourcegitcommit: 3e9c89f90db5eaed599630299353300621fe4007
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3186890"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3528592"
 ---
 # <a name="enabling-your-business-data-for-power-bi"></a>Включение бизнес-данных для Power BI
 
@@ -27,13 +27,13 @@ ms.locfileid: "3186890"
 > [!IMPORTANT]
 > Приложения Power BI, которые описаны в этой статье, предназначены для использования Azure Active Directory в качестве механизма аутентификации, если не указано иное. Кроме того, вам потребуется [лицензия Power BI Pro](/power-bi/service-features-license-type), чтобы делиться своим контентом, и людям, с которыми вы делитесь, она тоже потребуется, либо контент должен находиться в рабочей области с [вместимостью Premium](/power-bi/service-premium-what-is). Дополнительные сведения см. в разделе [Способы поделиться своей работой в Power BI](/power-bi/service-how-to-collaborate-distribute-dashboards-reports).
 
-Корпорация [!INCLUDE [prodlong](includes/prodlong.md)] опубликовывала следующие приложения для Power BI:
+Корпорация [!INCLUDE[prodlong](includes/prodlong.md)] опубликовывала следующие приложения для Power BI:
 
-- [!INCLUDE [prodlong](includes/prodlong.md)] — CRM  
-- [!INCLUDE [prodlong](includes/prodlong.md)] — Finance  
-- [!INCLUDE [prodlong](includes/prodlong.md)] — Sales  
+- [!INCLUDE[prodlong](includes/prodlong.md)] — CRM  
+- [!INCLUDE[prodlong](includes/prodlong.md)] — Finance  
+- [!INCLUDE[prodlong](includes/prodlong.md)] — Sales  
 
-## <a name="using-the-prodshort-dashboards-in-power-bi"></a>Использование панелей мониторинга [!INCLUDE [prodshort](includes/prodshort.md)] в Power BI
+## <a name="using-the-prodshort-dashboards-in-power-bi"></a>Использование панелей мониторинга [!INCLUDE[prodshort](includes/prodshort.md)] в Power BI
 
 Каждое приложение предоставляет отчеты, которые можно подробно изучать:
 
@@ -42,7 +42,7 @@ ms.locfileid: "3186890"
 - Прикрепите настроенное представление к панели мониторинга для дальнейшего отслеживания.  
   Можно обновить данные вручную, а также можно настроить график обновления. Дополнительные сведения см. в разделе [Настройка графика обновления](/power-bi/refresh-scheduled-refresh).  
 
-Приложения предназначены для работы с данными любой компании, которая есть в вашем [!INCLUDE[prodshort](includes/prodshort.md)]. Когда вы устанавливаете приложение Power BI, вы указываете один или несколько параметров для подключения к вашему [!INCLUDE [prodshort](includes/prodshort.md)].  
+Приложения предназначены для работы с данными любой компании, которая есть в вашем [!INCLUDE[prodshort](includes/prodshort.md)]. Когда вы устанавливаете приложение Power BI, вы указываете один или несколько параметров для подключения к вашему [!INCLUDE[prodshort](includes/prodshort.md)].  
 
 > [!NOTE]
 > Также можно создать собственные отчеты и панели мониторинга в Power BI на основании данных [!INCLUDE[d365fin](includes/d365fin_md.md)]. Дополнительные сведения см. в разделе [Подключение ваших бизнес-данных к Power BI](across-how-use-financials-data-source-powerbi.md).  
@@ -54,7 +54,7 @@ ms.locfileid: "3186890"
 
     ![Переход к разделу "Получить данные"](./media/across-how-to-connect-powerbi-d365-content-packs/powerbi-get-data.png)
 
-    Можно также начать из [!INCLUDE [prodshort](includes/prodshort.md)]. Находясь на домашней странице, перейдите к пункту **Выбор отчета** в разделе Power BI. Выберите на ленте **Сервис** или **Моя организация**. Когда выбрано одно из этих действий, производится переход к галерее "Организация" в Power BI или в Microsoft AppSource, которые также будут отфильтрованы для отображения только приложений, имеющих отношение к [!INCLUDE[prodshort](includes/prodshort.md)].
+    Можно также начать из [!INCLUDE[prodshort](includes/prodshort.md)]. Находясь на домашней странице, перейдите к пункту **Выбор отчета** в разделе Power BI. Выберите на ленте **Сервис** или **Моя организация**. Когда выбрано одно из этих действий, производится переход к галерее "Организация" в Power BI или в Microsoft AppSource, которые также будут отфильтрованы для отображения только приложений, имеющих отношение к [!INCLUDE[prodshort](includes/prodshort.md)].
 
 3. В поле **Службы** выберите **Получить**. Откроется страница, на которой отображаются **AppSource** и **Приложения для Power BI**.  
 
@@ -64,7 +64,7 @@ ms.locfileid: "3186890"
 5. При появлении запроса введите название среды и организации в приложении [!INCLUDE[prodshort](includes/prodshort.md)], к которому вы хотите подключиться. Если вы не создали несколько сред, введите **Рабочая среда**. Что касается параметра организации, убедитесь, что вы вводите имя, а не отображаемое имя. Название организации можно найти на странице **Организации** в вашем экземпляре [!INCLUDE[prodshort](includes/prodshort.md)].  
 
     > [!NOTE]
-    > Если вы подключитесь к [!INCLUDE [prodshort](includes/prodshort.md)] on-premises, вы должны указать параметр *URL-адрес веб-службы*. Его можно найти на странице **Веб-службы** в [!INCLUDE [prodshort](includes/prodshort.md)]. Ваш экземпляр [!INCLUDE [server](includes/server.md)] должен быть настроен для базовой аутентификации, и вы должны указать пользователя и ключ веб-доступа этого пользователя в качестве пароля. В следующем примере замените *myserver:7048* вашим именем [!INCLUDE [server](includes/server.md)], а *CRONUS%20US* — с названием вашей организации.  
+    > Если вы подключитесь к [!INCLUDE[prodshort](includes/prodshort.md)] on-premises, вы должны указать параметр *URL-адрес веб-службы*. Его можно найти на странице **Веб-службы** в [!INCLUDE[prodshort](includes/prodshort.md)]. Ваш экземпляр [!INCLUDE[server](includes/server.md)] должен быть настроен для базовой аутентификации, и вы должны указать пользователя и ключ веб-доступа этого пользователя в качестве пароля. В следующем примере замените *myserver:7048* вашим именем [!INCLUDE[server](includes/server.md)], а *CRONUS%20US* — с названием вашей организации.  
     > ```https://myserver:7048/BC140/ODataV4/Company('CRONUS%20US')/```
 
 6. После подключения панель мониторинга и отчеты добавляются в вашу рабочую область Power BI. По завершении плитки отображают данные из вашей организации [!INCLUDE[prodshort](includes/prodshort.md)].
@@ -78,18 +78,18 @@ ms.locfileid: "3186890"
 - [Выберите плитку](/power-bi/service-dashboard-tiles), чтобы открыть основной отчет.  
 - По умолчанию ваш набор данных не запланирован для обновления. Вы можете изменить расписание обновления или попробовать обновить его по требованию, используя **Обновить сейчас**. Дополнительные сведения см. в разделе [Настройка графика обновления](/power-bi/refresh-scheduled-refresh).
 
-## <a name="power-bi-in-prodshort"></a>Power BI в [!INCLUDE [prodshort](includes/prodshort.md)]
+## <a name="power-bi-in-prodshort"></a>Power BI в [!INCLUDE[prodshort](includes/prodshort.md)]
 
-Ваша домашняя страница в [!INCLUDE [prodshort](includes/prodshort.md)] может включать в себя элемент управления Power BI, который можно настроить для отображения отчетов Power BI на вашей домашней странице.
+Ваша домашняя страница в [!INCLUDE[prodshort](includes/prodshort.md)] может включать в себя элемент управления Power BI, который можно настроить для отображения отчетов Power BI на вашей домашней странице.
 
 > [!IMPORTANT]
-> Вы должны иметь допустимую учетную запись в [!INCLUDE [prodshort](includes/prodshort.md)] и в Power BI. Кроме того, если вы хотите изменить какие-либо отчет, вы должны загрузить Power BI Desktop. Дополнительные сведения см. в разделе [Использование Business Central как источника данных Power BI](across-how-use-financials-data-source-powerbi.md).  
+> Вы должны иметь допустимую учетную запись в [!INCLUDE[prodshort](includes/prodshort.md)] и в Power BI. Кроме того, если вы хотите изменить какие-либо отчет, вы должны загрузить Power BI Desktop. Дополнительные сведения см. в разделе [Использование Business Central как источника данных Power BI](across-how-use-financials-data-source-powerbi.md).  
 
 ### <a name="on-first-login"></a>При первом входе
 
-При первом входе в [!INCLUDE [prodshort](includes/prodshort.md)] вы заметите пустую часть Power BI на вашей домашней странице. Для просмотра отчетов сначала необходимо подключиться к Power BI, выбрав ссылку *Начало работы с Power BI*.
+При первом входе в [!INCLUDE[prodshort](includes/prodshort.md)] вы заметите пустую часть Power BI на вашей домашней странице. Для просмотра отчетов сначала необходимо подключиться к Power BI, выбрав ссылку *Начало работы с Power BI*.
 
-[!INCLUDE [prodshort](includes/prodshort.md)] затем общается к службе Power BI, чтобы определить, если у вас есть действительная учетная запись Power BI. Как только ваша лицензия будет подтверждена, отчеты Power BI по умолчанию отображаются на домашней странице.
+[!INCLUDE[prodshort](includes/prodshort.md)] затем общается к службе Power BI, чтобы определить, если у вас есть действительная учетная запись Power BI. Как только ваша лицензия будет подтверждена, отчеты Power BI по умолчанию отображаются на домашней странице.
 
 ### <a name="selecting-power-bi-reports"></a>Выбор отчетов Power BI
 
@@ -115,11 +115,11 @@ ms.locfileid: "3186890"
 
 ### <a name="uploading-reports"></a>Отправка отчетов
 
-Вы можете отправить новые отчеты Power BI и поделиться ими со всеми пользователями вашего [!INCLUDE [prodshort](includes/prodshort.md)]. Отчеты становятся общими внутри каждой организации в [!INCLUDE [prodshort](includes/prodshort.md)].  
+Вы можете отправить новые отчеты Power BI и поделиться ими со всеми пользователями вашего [!INCLUDE[prodshort](includes/prodshort.md)]. Отчеты становятся общими внутри каждой организации в [!INCLUDE[prodshort](includes/prodshort.md)].  
 
 Чтобы отправить отчет, выберите действие **Отправить отчет** из раскрывающегося списка команд. Затем вы можете отправить файл .pbix, который определяет отчеты, которыми вы хотите поделиться. Можно изменить имя по умолчанию для файла.  
 
-После того как отчет был отправлен в вашу рабочую область Power BI, он автоматически отправляется в рабочие области Power BI всех других пользователей в этой организации при следующем входе в [!INCLUDE [prodshort](includes/prodshort.md)].
+После того как отчет был отправлен в вашу рабочую область Power BI, он автоматически отправляется в рабочие области Power BI всех других пользователей в этой организации при следующем входе в [!INCLUDE[prodshort](includes/prodshort.md)].
 
 ## <a name="system-requirements"></a>Требования к системе
 
@@ -145,7 +145,7 @@ ms.locfileid: "3186890"
 - Метки отчета Power BI
 
 > [!NOTE]
-> [!INCLUDE [prodshort](includes/prodshort.md)] on-premises использует те же конечные точки веб-служб, что и [!INCLUDE [prodshort](includes/prodshort.md)] online.
+> [!INCLUDE[prodshort](includes/prodshort.md)] on-premises использует те же конечные точки веб-служб, что и [!INCLUDE[prodshort](includes/prodshort.md)] online.
 
 ## <a name="web-services"></a>Веб-службы
 
@@ -163,7 +163,7 @@ ms.locfileid: "3186890"
 
 Это сообщение появляется, если стандартный отчет не удалось развернуть в вашей рабочей области Power BI или если отчет был развернут, но его не удалось обновить. В этом случае перейдите к отчету в своей рабочей области Power BI, выберите **Набор данных**, **Настройки**, а затем вручную обновите учетные данные. После успешного обновления набора данных вернитесь в Business Central и вручную выберите отчет на странице **Выбрать отчеты**.
 
-### <a name="you-need-a-power-bi-pro-license-to-install-the-prodshort-app-in-power-bi"></a>Вам необходима лицензия Power BI Pro для установки приложения [!INCLUDE [prodshort](includes/prodshort.md)] в Power BI
+### <a name="you-need-a-power-bi-pro-license-to-install-the-prodshort-app-in-power-bi"></a>Вам необходима лицензия Power BI Pro для установки приложения [!INCLUDE[prodshort](includes/prodshort.md)] в Power BI
 
 Вам потребуется [лицензия Power BI Pro](/power-bi/service-features-license-type), чтобы делиться своим контентом, и людям, с которыми вы делитесь, она тоже потребуется, либо контент должен находиться в рабочей области с [вместимостью Premium](/power-bi/service-premium-what-is). Дополнительные сведения см. в разделе [Способы поделиться своей работой в Power BI](/power-bi/service-how-to-collaborate-distribute-dashboards-reports).  
 
@@ -171,17 +171,17 @@ ms.locfileid: "3186890"
 
 Эта ошибка указывает на то, что еще один из параметров недействителен.
 
-- Указанный параметр среды не соответствует ни одной из существующих рабочих сред или песочниц [!INCLUDE [prodshort](includes/prodshort.md)].
-- Указанный параметр организации не соответствует ни одной из существующих организаций [!INCLUDE [prodshort](includes/prodshort.md)]. Проверьте название компании на странице **Организации** в [!INCLUDE [prodshort](includes/prodshort.md)].
-- При подключении к [!INCLUDE [prodshort](includes/prodshort.md)] on-premises. вы ввели неверный URL-адрес. Вы можете проверить URL-адрес на странице **Веб-службы** в [!INCLUDE [prodshort](includes/prodshort.md)]  
+- Указанный параметр среды не соответствует ни одной из существующих рабочих сред или песочниц [!INCLUDE[prodshort](includes/prodshort.md)].
+- Указанный параметр организации не соответствует ни одной из существующих организаций [!INCLUDE[prodshort](includes/prodshort.md)]. Проверьте название компании на странице **Организации** в [!INCLUDE[prodshort](includes/prodshort.md)].
+- При подключении к [!INCLUDE[prodshort](includes/prodshort.md)] on-premises. вы ввели неверный URL-адрес. Вы можете проверить URL-адрес на странице **Веб-службы** в [!INCLUDE[prodshort](includes/prodshort.md)]  
 - Порт не открыт, чтобы позволить запросу пройти через ваш брандмауэр.
 
 ### <a name="cannot-sign-in"></a>Не удается войти
 
-Если при попытке войти с использованием учетных данных [!INCLUDE [prodshort](includes/prodshort.md)] появляется ошибка "Сбой при входе", это может быть вызвано одной из следующих причин:
+Если при попытке войти с использованием учетных данных [!INCLUDE[prodshort](includes/prodshort.md)] появляется ошибка "Сбой при входе", это может быть вызвано одной из следующих причин:
 
-- У используемой учетной записи нет разрешений на извлечение данных [!INCLUDE [prodshort](includes/prodshort.md)] для вашей учетной записи. Убедитесь, что у вас есть разрешения на необходимые данные в [!INCLUDE [prodshort](includes/prodshort.md)] и попробуй еще раз.
-- При подключении к [!INCLUDE [prodshort](includes/prodshort.md)] on-premises был выбран тип проверки подлинности, отличный от базового.
+- У используемой учетной записи нет разрешений на извлечение данных [!INCLUDE[prodshort](includes/prodshort.md)] для вашей учетной записи. Убедитесь, что у вас есть разрешения на необходимые данные в [!INCLUDE[prodshort](includes/prodshort.md)] и попробуй еще раз.
+- При подключении к [!INCLUDE[prodshort](includes/prodshort.md)] on-premises был выбран тип проверки подлинности, отличный от базового.
 - Вы не ввели действительное имя пользователя или пароль.
 
 ### <a name="incorrect-company-name"></a>Неверное название организации
@@ -198,7 +198,7 @@ ms.locfileid: "3186890"
 
 ### <a name="i-only-see-data-for-a-single-company"></a>Я вижу данные только для одной организации
 
-Приложение Power BI будет отображать только данные из организации [!INCLUDE [prodshort](includes/prodshort.md)], которая была определена, когда приложение Power BI было установлено. Данные из других организаций можно добавлять в отчеты, добавляя новые запросы, которые используют другие организации в качестве источника данных.  
+Приложение Power BI будет отображать только данные из организации [!INCLUDE[prodshort](includes/prodshort.md)], которая была определена, когда приложение Power BI было установлено. Данные из других организаций можно добавлять в отчеты, добавляя новые запросы, которые используют другие организации в качестве источника данных.  
 
 ## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/configure-powerbi-excel-dynamics-365-business-central/index)
 

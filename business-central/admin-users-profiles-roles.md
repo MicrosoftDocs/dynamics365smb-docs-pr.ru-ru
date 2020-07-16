@@ -5,16 +5,17 @@ author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: profiles, users
-ms.date: 04/01/2020
+ms.date: 06/26/2020
 ms.author: sgroespe
-ms.openlocfilehash: 50a67bf5d64cbf932801738d60b4477a7e3d9fde
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: 34e72f5b80f4516dcd7e9061f263a8f08b06b0d7
+ms.sourcegitcommit: 3e9c89f90db5eaed599630299353300621fe4007
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3186504"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3528517"
 ---
 # <a name="manage-profiles"></a>Управление профилями
+
 Всем пользователям [!INCLUDE[d365fin](includes/d365fin_md.md)] назначаются профили, отражающие их бизнес-роль, отдел, в котором они работают, или другую классификацию. Профили позволяют администраторам централизованно определять, что различные типы пользователей могут видеть и делать в пользовательском интерфейсе. Это позволяет последним эффективно выполнять свои бизнес-задачи.
 
 > [!NOTE]
@@ -130,9 +131,15 @@ ms.locfileid: "3186504"
 
 2. Выберите строку персонализации страницы, которую вы хотите удалить, затем выберите действие **Удалить**.
 
-Пользователь увидит изменения при следующем входе в систему.    
+Пользователь увидит изменения при следующем входе в систему.  
 
 Также можно удалить настройки отдельных страниц профиля. Дополнительные сведения см. в разделе [Удаление настройки для конкретных страниц профиля](ui-personalization-manage.md#to-delete-customization-for-specific-pages-for-a-profile).
+
+## <a name="managing-user-sessions"></a>Управление сеансами пользователей
+
+Как администратор интернет-версии [!INCLUDE[prodshort](includes/prodshort.md)], вы можете управлять сеансами пользователей в центре администрирования. Дополнительные сведения см. в [Управление сеансами](/dynamics365/business-central/dev-itpro/administration/tenant-admin-center-environments#managing-sessions) в содержимом по администрированию.  
+
+Для [!INCLUDE[prodshort](includes/prodshort.md)] локальная версия вы можете управлять сеансами, например, с помощью SQL Server Management Studio. дополнительные сведения см. в [Техническая документация по SQL Server](/sql/sql-server/?view=sql-server-ver15).  
 
 ## <a name="see-also"></a>См. также  
 [Назначение разрешений пользователям и группам](ui-define-granular-permissions.md)  

@@ -7,12 +7,12 @@ ms.topic: article
 ms.search.keywords: ''
 ms.date: 05/19/2020
 ms.author: edupont
-ms.openlocfilehash: c9f12f2b15c379ad1f4765f1a20e773150f33b84
-ms.sourcegitcommit: d4a77522859c5561c1f3dc43178d45657ffa31b5
+ms.openlocfilehash: 9650539c44a464aab238914ca5d3d65cb8b5c0b8
+ms.sourcegitcommit: 3e9c89f90db5eaed599630299353300621fe4007
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/26/2020
-ms.locfileid: "3402457"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3528189"
 ---
 # <a name="publish-a-web-service"></a>Публикация веб-службы
 
@@ -39,7 +39,7 @@ ms.locfileid: "3402457"
 При публикации веб-службы в полях **URL-адрес OData** и **URL SOAP** можно увидеть URL-адреса, сгенерированные для веб-службы. Веб-службу можно немедленно проверить, выбрав ссылки в полях **URL-адрес OData** и **URL SOAP**. При необходимости можно скопировать значение поля и сохранить его для последующего использования.  
 
 > [!NOTE]
-> Если объекты, которые вы предоставляете в качестве веб-служб, не должны быть доступны из [!INCLUDE [prodshort](includes/prodshort.md)] Online, вы должны пометить предоставляемые в коде методы как `[Scope('OnPrem')]`. Дополнительные сведения см. в разделе [Атрибут Scope](/dynamics365/business-central/dev-itpro/developer/methods/devenv-scope-attribute).
+> Если объекты, которые вы предоставляете в качестве веб-служб, не должны быть доступны из [!INCLUDE[prodshort](includes/prodshort.md)] Online, вы должны пометить предоставляемые в коде методы как `[Scope('OnPrem')]`. Дополнительные сведения см. в разделе [Атрибут Scope](/dynamics365/business-central/dev-itpro/developer/methods/devenv-scope-attribute).
 
 После публикации веб-службы она становится доступна для внешних сторон. Можно проверить доступность веб-службы с помощью браузера или выбрать ссылку в полях **URL-адрес OData** и **URL SOAP** на странице **Веб-службы**. В следующей процедуре показано, как можно проверить наличие веб-службы для последующего использования.  
 
