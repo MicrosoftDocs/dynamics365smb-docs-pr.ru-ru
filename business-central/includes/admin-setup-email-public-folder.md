@@ -1,0 +1,75 @@
+---
+author: edupont04
+ms.service: dynamics365-accountant
+ms.topic: include
+ms.date: 06/25/2020
+ms.author: edupont
+ms.openlocfilehash: 8c5f4205128d52ec88f432cea7ece98e0310546d
+ms.sourcegitcommit: 3e9c89f90db5eaed599630299353300621fe4007
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "3528014"
+---
+<span data-ttu-id="bbc25-101">Прежде чем вы сможете настроить регистрацию электронной почты, вы должны подготовить Exchange Online с помощью [общие папки](/exchange/collaboration/public-folders/public-folders?view=exchserver-2019).</span><span class="sxs-lookup"><span data-stu-id="bbc25-101">Before you can set up email logging, you must prepare your Exchange Online with [public folders](/exchange/collaboration/public-folders/public-folders?view=exchserver-2019).</span></span> <span data-ttu-id="bbc25-102">Вы можете сделать это в [Центр администрирования Exchange](/Exchange/architecture/client-access/exchange-admin-center?view=exchserver-2019) или вы можете использовать [Командная консоль Exchange](/powershell/exchange/exchange-management-shell?view=exchange-ps).</span><span class="sxs-lookup"><span data-stu-id="bbc25-102">You can do this in the [Exchange admin center](/Exchange/architecture/client-access/exchange-admin-center?view=exchserver-2019), or you can use the [Exchange Management Shell](/powershell/exchange/exchange-management-shell?view=exchange-ps).</span></span>  
+
+> [!TIP]
+> <span data-ttu-id="bbc25-103">Если вы хотите использовать [Командная консоль Exchange](/powershell/exchange/exchange-management-shell?view=exchange-ps), Вы можете найти вдохновение для того, как настроить свой скрипт в примере скрипта, который мы опубликовали в [репозитории BCTech](https://github.com/microsoft/BCTech/tree/master/samples/EmailLogging).</span><span class="sxs-lookup"><span data-stu-id="bbc25-103">If you want to use the [Exchange Management Shell](/powershell/exchange/exchange-management-shell?view=exchange-ps), you can find inspiration for how to set up your script in a sample script that we published to [the BCTech repo](https://github.com/microsoft/BCTech/tree/master/samples/EmailLogging).</span></span>
+
+<span data-ttu-id="bbc25-104">В следующем списке описаны основные шаги со ссылками, чтобы узнать больше.</span><span class="sxs-lookup"><span data-stu-id="bbc25-104">The following list describes the main steps with links to learn more.</span></span>  
+
+- <span data-ttu-id="bbc25-105">Создайте роль администратора для общих папок на основе информации в следующей таблице:</span><span class="sxs-lookup"><span data-stu-id="bbc25-105">Create an admin role for public folders based on the information in the following table:</span></span>
+
+  |<span data-ttu-id="bbc25-106">Свойство</span><span class="sxs-lookup"><span data-stu-id="bbc25-106">Property</span></span>        |<span data-ttu-id="bbc25-107">Значение</span><span class="sxs-lookup"><span data-stu-id="bbc25-107">Value</span></span>                     |
+  |----------------|--------------------------|
+  |<span data-ttu-id="bbc25-108">Name</span><span class="sxs-lookup"><span data-stu-id="bbc25-108">Name</span></span>            |<span data-ttu-id="bbc25-109">Управление общими папками</span><span class="sxs-lookup"><span data-stu-id="bbc25-109">Public Folders Management</span></span> |
+  |<span data-ttu-id="bbc25-110">Избранные роли</span><span class="sxs-lookup"><span data-stu-id="bbc25-110">Selected roles</span></span>  |<span data-ttu-id="bbc25-111">Общие папки</span><span class="sxs-lookup"><span data-stu-id="bbc25-111">Public Folders</span></span>            |
+  |<span data-ttu-id="bbc25-112">Избранные участники</span><span class="sxs-lookup"><span data-stu-id="bbc25-112">Selected members</span></span>|<span data-ttu-id="bbc25-113">Электронный адрес учетной записи пользователя, которую Business Central будет использовать для выполнения задания регистрации электронной почты.</span><span class="sxs-lookup"><span data-stu-id="bbc25-113">The email of the user account that Business Central will use to run the email logging job</span></span>|
+
+  <span data-ttu-id="bbc25-114">Дополнительные сведения см. в разделе [Управление группами ролей](/exchange/permissions/role-groups?view=exchserver-2019).</span><span class="sxs-lookup"><span data-stu-id="bbc25-114">For more information, see [Manage role groups](/exchange/permissions/role-groups?view=exchserver-2019).</span></span>
+
+- <span data-ttu-id="bbc25-115">Создайте новый почтовый ящик для общих папок на основе информации в следующей таблице:</span><span class="sxs-lookup"><span data-stu-id="bbc25-115">Create a new public folder mailbox based on the information in the following table:</span></span>
+
+  |<span data-ttu-id="bbc25-116">Свойство</span><span class="sxs-lookup"><span data-stu-id="bbc25-116">Property</span></span>        |<span data-ttu-id="bbc25-117">Значение</span><span class="sxs-lookup"><span data-stu-id="bbc25-117">Value</span></span>                     |
+  |----------------|--------------------------|
+  |<span data-ttu-id="bbc25-118">Name</span><span class="sxs-lookup"><span data-stu-id="bbc25-118">Name</span></span>            |<span data-ttu-id="bbc25-119">Общий почтовый ящик</span><span class="sxs-lookup"><span data-stu-id="bbc25-119">Public MailBox</span></span>            |
+
+  <span data-ttu-id="bbc25-120">Дополнительные сведения см. в разделе [Создайте новый почтовый ящик для общих папок в Exchange Server](/exchange/collaboration/public-folders/create-public-folder-mailboxes).</span><span class="sxs-lookup"><span data-stu-id="bbc25-120">For more information, see [Create a public folder mailbox in Exchange Server](/exchange/collaboration/public-folders/create-public-folder-mailboxes).</span></span>  
+
+- <span data-ttu-id="bbc25-121">Создание новых общих папок</span><span class="sxs-lookup"><span data-stu-id="bbc25-121">Create new public folders</span></span>
+
+  - <span data-ttu-id="bbc25-122">Создать новую общую папку с именем *Регистрация электронной почты* в корне, чтобы полный путь к папке стал ```\Email Logging\```</span><span class="sxs-lookup"><span data-stu-id="bbc25-122">Create a new public folder with the name *Email Logging* in the root so that the full path to the folder becomes ```\Email Logging\```</span></span>
+  - <span data-ttu-id="bbc25-123">Создайте две подпапки, чтобы в результате были получены следующие полные пути к папкам:</span><span class="sxs-lookup"><span data-stu-id="bbc25-123">Create two subfolders so that the the result is the following full paths to the folders:</span></span>
+    - ```\Email Logging\Queue\```
+    - ```\Email Logging\Storage\```
+
+  <span data-ttu-id="bbc25-124">Дополнительные сведения см. в разделе [Создание общей папки](/exchange/collaboration/public-folders/create-public-folders?view=exchserver-2019).</span><span class="sxs-lookup"><span data-stu-id="bbc25-124">For more information, see [Create a public folder](/exchange/collaboration/public-folders/create-public-folders?view=exchserver-2019).</span></span>
+
+- <span data-ttu-id="bbc25-125">Включение поддержки электронной почты для общая папка *Очередь*</span><span class="sxs-lookup"><span data-stu-id="bbc25-125">Mail-enable the *Queue* public folder</span></span>
+
+  <span data-ttu-id="bbc25-126">Дополнительные сведения см. в [Включение или отключение поддержки электронной почты для общей папки](/exchange/collaboration/public-folders/mail-enable-or-disable?view=exchserver-2019)</span><span class="sxs-lookup"><span data-stu-id="bbc25-126">For more information, see [Mail-enable or mail-disable a public folder](/exchange/collaboration/public-folders/mail-enable-or-disable?view=exchserver-2019)</span></span>
+
+- <span data-ttu-id="bbc25-127">Включение поддержки электронной почты отправка сообщений электронной почты в общая папка *Очередь* с помощью Outlook или Командная консоль Exchange</span><span class="sxs-lookup"><span data-stu-id="bbc25-127">Mail-enable sending emails to the *Queue* public folder using Outlook or the Exchange Management Shell</span></span>
+
+  <span data-ttu-id="bbc25-128">Дополнительные сведения см. в [Разрешить анонимным пользователям отправлять сообщения электронной почты в общую папку с включенной поддержкой электронной почты](/exchange/collaboration/public-folders/mail-enable-or-disable?view=exchserver-2019#allow-anonymous-users-to-send-email-to-a-mail-enabled-public-folder)</span><span class="sxs-lookup"><span data-stu-id="bbc25-128">For more information, see [Allow anonymous users to send email to a mail-enabled public folder](/exchange/collaboration/public-folders/mail-enable-or-disable?view=exchserver-2019#allow-anonymous-users-to-send-email-to-a-mail-enabled-public-folder)</span></span>
+
+- <span data-ttu-id="bbc25-129">Задайте пользователя регистрации электронной почты в качестве владельца обеих общих папок, общие папки *Очередь* и *Хранилище* с использованием Outlook или командной консоли Exchange на основе информации в следующей таблице:</span><span class="sxs-lookup"><span data-stu-id="bbc25-129">Set the email logging user as an owner of both public folders, *Queue* and *Storage* public folders  using Outlook or the Exchange Management Shell based on the information in the following table:</span></span>
+
+  |<span data-ttu-id="bbc25-130">Свойство</span><span class="sxs-lookup"><span data-stu-id="bbc25-130">Property</span></span>        |<span data-ttu-id="bbc25-131">Значение</span><span class="sxs-lookup"><span data-stu-id="bbc25-131">Value</span></span>                     |
+  |----------------|--------------------------|
+  |<span data-ttu-id="bbc25-132">Пользователь</span><span class="sxs-lookup"><span data-stu-id="bbc25-132">User</span></span>            |<span data-ttu-id="bbc25-133">Электронный адрес учетной записи пользователя, которую Business Central будет использовать для выполнения задания регистрации электронной почты.</span><span class="sxs-lookup"><span data-stu-id="bbc25-133">The email of the user account that Business Central will use to run the email logging job</span></span>|
+  |<span data-ttu-id="bbc25-134">Уровень разрешений</span><span class="sxs-lookup"><span data-stu-id="bbc25-134">Permission level</span></span>|<span data-ttu-id="bbc25-135">Владелец</span><span class="sxs-lookup"><span data-stu-id="bbc25-135">Owner</span></span>                     |
+
+  <span data-ttu-id="bbc25-136">Дополнительные сведения см. в разделе [Назначение разрешений для общей папки](/exchange/collaboration-exo/public-folders/set-up-public-folders#step-3-assign-permissions-to-the-public-folder).</span><span class="sxs-lookup"><span data-stu-id="bbc25-136">For more information, see [Assign permissions to the public folder](/exchange/collaboration-exo/public-folders/set-up-public-folders#step-3-assign-permissions-to-the-public-folder).</span></span>
+
+- <span data-ttu-id="bbc25-137">Создайте два правила потока почты на основе информации в следующей таблице</span><span class="sxs-lookup"><span data-stu-id="bbc25-137">Create two mail flow rules based on the information in the following table</span></span>
+
+  |<span data-ttu-id="bbc25-138">Назначение</span><span class="sxs-lookup"><span data-stu-id="bbc25-138">Purpose</span></span>  |<span data-ttu-id="bbc25-139">Name</span><span class="sxs-lookup"><span data-stu-id="bbc25-139">Name</span></span> |<span data-ttu-id="bbc25-140">Условия</span><span class="sxs-lookup"><span data-stu-id="bbc25-140">Conditions</span></span>                        |<span data-ttu-id="bbc25-141">Действие</span><span class="sxs-lookup"><span data-stu-id="bbc25-141">Action</span></span>                                       |
+  |---------|-----|----------------------------------|---------------------------------------------|
+  |<span data-ttu-id="bbc25-142">Правило для входящей эл. почты</span><span class="sxs-lookup"><span data-stu-id="bbc25-142">A rule for incoming email</span></span> |<span data-ttu-id="bbc25-143">Регистрировать сообщения электронной почты, присланные в эту организацию</span><span class="sxs-lookup"><span data-stu-id="bbc25-143">Log Email Sent to This Organization</span></span>|<span data-ttu-id="bbc25-144">*Отправитель* расположен *Вне организации*, и *получатель* расположен *Внутри организации*</span><span class="sxs-lookup"><span data-stu-id="bbc25-144">*The sender* is located *Outside the organization*, and *the recipient* is located *Inside the organization*</span></span>|<span data-ttu-id="bbc25-145">Скрытая копия учетная запись электронной почты, указанная для общая папка *Очередь*</span><span class="sxs-lookup"><span data-stu-id="bbc25-145">BCC the email account that is specified for the *Queue* public folder</span></span>|
+  |<span data-ttu-id="bbc25-146">Правило для исходящей эл. почты</span><span class="sxs-lookup"><span data-stu-id="bbc25-146">A rule for outgoing email</span></span> | <span data-ttu-id="bbc25-147">Регистрировать сообщения электронной почты, отправленные из этой организации</span><span class="sxs-lookup"><span data-stu-id="bbc25-147">Log Email Sent from This Organization</span></span> |<span data-ttu-id="bbc25-148">*Отправитель* расположен *Внутри организации*, и *получатель* расположен *Вне организации*</span><span class="sxs-lookup"><span data-stu-id="bbc25-148">*The sender* is located *Inside the organization*, and *the recipient* is located *Outside the organization*</span></span>|<span data-ttu-id="bbc25-149">Скрытая копия учетная запись электронной почты, указанная для общая папка *Очередь*</span><span class="sxs-lookup"><span data-stu-id="bbc25-149">BCC the email account that is specified for the *Queue* public folder</span></span>|
+  
+  <span data-ttu-id="bbc25-150">Дополнительные сведения см. в [Управлять правилами потока почты в Exchange Online](/exchange/security-and-compliance/mail-flow-rules/manage-mail-flow-rules) и [Действия правила потока почты в Exchange Online](/exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-action).</span><span class="sxs-lookup"><span data-stu-id="bbc25-150">For more information, see [Manage mail flow rules in Exchange Online](/exchange/security-and-compliance/mail-flow-rules/manage-mail-flow-rules) and [Mail flow rule actions in Exchange Online](/exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-action).</span></span>
+
+> [!NOTE]
+> <span data-ttu-id="bbc25-151">Если вы вносите изменения в командной консоли Exchange, эти изменения становятся видимыми в центре администрирования Exchange через некоторое время.</span><span class="sxs-lookup"><span data-stu-id="bbc25-151">If you make changes in the Exchange Management Shell, the changes become visible in the Exchange admin center after a delay.</span></span> <span data-ttu-id="bbc25-152">Также внесенные в Exchange изменения будут доступны в [!INCLUDE[prodshort](prodshort.md)] через некоторое время.</span><span class="sxs-lookup"><span data-stu-id="bbc25-152">Also, the changes made in Exchange will be available in [!INCLUDE[prodshort](prodshort.md)] after a delay.</span></span>
