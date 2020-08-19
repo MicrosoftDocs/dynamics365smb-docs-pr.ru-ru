@@ -9,20 +9,20 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.reviewer: edupont
 ms. search.keywords: cloud, edge
-ms.date: 04/01/2020
+ms.date: 07/13/2020
 ms.author: bmeier
-ms.openlocfilehash: c2c30715c730aec51f31f80ea95fd896cb1b257f
-ms.sourcegitcommit: 3e9c89f90db5eaed599630299353300621fe4007
+ms.openlocfilehash: 8948864c1e3d00f3955b0952fd70048c13f4585c
+ms.sourcegitcommit: 89d0ea903f61ab0628f99329c762d9f1619c49a7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "3528867"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "3577283"
 ---
 # <a name="intelligent-insights-with-prodshort-online"></a>Интеллектуальная аналитика с [!INCLUDE[prodshort](includes/prodshort.md)] Online
 
 Как пользователь [!INCLUDE[prodshort](includes/prodshort.md)] Online, у вас имеется полный доступ к сценариям, основанным на интеллектуальном облаке, таким как КПЭ, основанные на машинном обучении, или просмотр данных в Power BI. Однако, когда [!INCLUDE[prodshort](includes/prodshort.md)] является в первую очередь облачным сервисом, также те клиенты, которым необходимо выполнять их рабочие нагрузки полностью локально или на умном крае, подключенному к облаку, могут сделать так.  
 
-Если вы заинтересованы в [!INCLUDE[prodshort](includes/prodshort.md)], можно подписаться на бесплатную пробную версию в Интернете или вы можете выбрать работать с партнером для развертывания [!INCLUDE[prodshort](includes/prodshort.md)] локально на выбранном вами оборудовании. Затем можно выбрать получение интеллектуальной аналитики путем подсоединения к арендатору в облаке. В результате данные из локально развернутого [!INCLUDE[prodshort](includes/prodshort.md)] будут реплицированы в облако для сценариев интеллектуального облака.  
+Если вы заинтересованы в [!INCLUDE[prodshort](includes/prodshort.md)], можно подписаться на бесплатную пробную версию в Интернете или вы можете выбрать работать с партнером для развертывания [!INCLUDE[prodshort](includes/prodshort.md)] локально на выбранном вами оборудовании. Затем можно выбрать получение интеллектуальной аналитики путем подсоединения к арендатору в облаке. В результате данные из локального развертывания [!INCLUDE[prodshort](includes/prodshort.md)] реплицируются в облако для сценариев интеллектуального облака.  
 
 Для подключения к интеллектуальному облаку из локального решения требуется, чтобы администратор указал сведения о вашей базе данных. Инструменты, используемые для подключения вашего локального развертывания к [!INCLUDE[prodshort](includes/prodshort.md)] Online — те же, которые используются для миграции локального развертывания в онлайн. Для получения дополнительной информации см. раздел [Миграция локальных данных в Business Central Online](/dynamics365/business-central/dev-itpro/administration/migrate-data) в материалах для администраторов [!INCLUDE[prodshort](includes/prodshort.md)].  
 
@@ -49,6 +49,5 @@ ms.locfileid: "3528867"
 ## <a name="see-also"></a>См. также
 
 [Добро пожаловать в Business Central](index.md)  
-[Расширение интеллектуального облака Business Central](ui-extensions-intelligent-cloud.md)  
-[Расширение репликации данных](ui-extensions-data-replication.md)  
+[Расширение интеллектуального облака для миграции в облако](ui-extensions-data-replication.md)  
 [Миграция локальных данных в Business Central Online](/dynamics365/business-central/dev-itpro/administration/migrate-data)  

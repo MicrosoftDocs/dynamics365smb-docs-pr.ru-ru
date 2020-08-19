@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: trade, sell, replenishment
-ms.date: 05/25/2020
+ms.date: 07/14/2020
 ms.author: sgroespe
-ms.openlocfilehash: 4da1195333f6b36866f55ee02123f75df4778de0
-ms.sourcegitcommit: d4a77522859c5561c1f3dc43178d45657ffa31b5
+ms.openlocfilehash: 70ce34984a98631d20c2d836164f9328fbb15a2a
+ms.sourcegitcommit: 89d0ea903f61ab0628f99329c762d9f1619c49a7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/26/2020
-ms.locfileid: "3402561"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "3577180"
 ---
 # <a name="create-recurring-sales-and-purchase-lines"></a>Создание типовых строк продажи и покупки
 Если вам часто приходится создавать строки покупки и продажи с одинаковыми данными, вы можете настроить стандартные строки, которые затем можно вставлять в документы типовых продаж и покупок, например для типовых заказов на пополнение.  
@@ -31,6 +31,8 @@ ms.locfileid: "3402561"
 
 > [!NOTE]
 > Невозможно определить цены в строках типовых продажи, поскольку цены, скидки и т. д, вычисляются на базе фактических документов продажи после вставки строк типовых продажи.
+
+[!INCLUDE [line-no-info](includes/line-no-info.md)]
 
 ## <a name="to-assign-recurring-sales-lines-to-a-customer"></a>Присвоение клиенту строк типовых продаж
 

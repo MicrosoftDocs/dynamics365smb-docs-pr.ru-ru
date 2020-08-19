@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: customize, personalize, personalization, hide columns, remove fields, move fields, resize column, change column width
 ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: c0fe93df0022f66aa5cc3964c2717e2e6ca76147
-ms.sourcegitcommit: 8a4e66f7fc8f9ef8bdf34595e0d3983df4749376
+ms.openlocfilehash: dfc7b91c50297c130a4a6d50401c7adb53bd608b
+ms.sourcegitcommit: 6078bc9b2b571248d779722ce4125f250e7a3922
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "3262194"
+ms.lasthandoff: 08/07/2020
+ms.locfileid: "3666951"
 ---
 # <a name="personalize-your-workspace"></a>Персонализация рабочей области
 Вы можете персонализировать свою рабочую область в соответствии со вашей работой и предпочтениями, изменяя страницы, чтобы на них отображалась только требуемая информация в тех местах, в которых она нужна. Сделанная вами персонализация изменяет только то, что видите вы, а не то, что видят другие пользователи.
@@ -27,6 +27,11 @@ ms.locfileid: "3262194"
 > [!NOTE]
 > Администраторы могут вносить в макеты страниц такие же изменения, как и пользователи, путем настройки рабочей области для профили, который назначается нескольким пользователям. Дополнительные сведения см. в разделе [Настройка страниц для ролей](ui-personalization-manage.md).<br /><br />
 Администраторы также могут переопределять или отключать персонализацию пользователей, а также указывать, какие функции вообще могут видеть пользователи во всех или конкретных компаниях. Дополнительные сведения см. в разделе [Настройка Business Central](ui-customizing-overview.md).
+
+## <a name="video-overview"></a>Обзор видео
+В следующем видео показаны некоторые способы персонализации вашего ролевого центра.
+
+> [!Video https://www.microsoft.com/en-us/videoplayer/embed/RE4ArUB]
 
 ## <a name="to-change-the-width-of-a-column"></a>Изменение ширины столбца
 Ширину столбцов в любом списке легко можно изменить путем перетаскивания границы между двумя столбцами влево или вправо.

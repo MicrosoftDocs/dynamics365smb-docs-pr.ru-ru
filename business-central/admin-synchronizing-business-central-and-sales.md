@@ -8,16 +8,17 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: sales, crm, integration, sync, synchronize
-ms.date: 04/01/2020
+ms.date: 07/23/2020
 ms.author: bholtorf
-ms.openlocfilehash: 0763119e323a8bae6d2b7ce3db0780284befa292
-ms.sourcegitcommit: 0c6f4382fad994fb6aea9dcde3b2dc25382c5968
+ms.openlocfilehash: 2c7b7c4175f4c17e01c114f76d0b14834e0409ae
+ms.sourcegitcommit: 7b5c927ea9a59329daf1b60633b8290b552d6531
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/19/2020
-ms.locfileid: "3484113"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "3617708"
 ---
 # <a name="synchronizing-data-in-business-central-with-common-data-service"></a>Синхронизация данных в Business Central с Common Data Service
+
 При интеграции [!INCLUDE[d365fin](includes/cds_long_md.md)] с [!INCLUDE[d365fin](includes/d365fin_md.md)] можно решить, требуется ли синхронизировать данные в выбранных полях записей [!INCLUDE[d365fin](includes/d365fin_md.md)] (таких как клиенты, контакты и менеджеры по продаже) с эквивалентными записями в [!INCLUDE[d365fin](includes/cds_long_md.md)] (таких как организации, контакты и пользователи). В зависимости от типа записи, можно синхронизировать данные из [!INCLUDE[d365fin](includes/cds_long_md.md)] в [!INCLUDE[d365fin](includes/d365fin_md.md)] или наоборот. Дополнительные сведения см. в разделе [Интеграция с Dynamics 365 Sales](admin-prepare-dynamics-365-for-sales-for-integration.md).  
 
 Синхронизация использует следующие элементы:
@@ -42,13 +43,13 @@ ms.locfileid: "3484113"
 
 В следующей таблице перечислено стандартное соответствие между объектами в [!INCLUDE[d365fin](includes/d365fin_md.md)] и [!INCLUDE[d365fin](includes/cds_long_md.md)], которое предоставляет [!INCLUDE[d365fin](includes/d365fin_md.md)].
 
-|[!INCLUDE[d365fin](includes/d365fin_md.md)]|[!INCLUDE[d365fin](includes/cds_long_md.md)]|Направление синхронизации|Фильтр по умолчанию|
-|-------------------------------------------|-----|-------------------------|--------------|
-|Менеджер по продажам/закупкам|Пользователь|[!INCLUDE[d365fin](includes/cds_long_md.md)] -> [!INCLUDE[d365fin](includes/d365fin_md.md)]|Фильтр контакта [!INCLUDE[d365fin](includes/cds_long_md.md)]: **Состояние** равно **Нет**, **Пользователь лицензирован** — **Да**, режим интеграции пользователя — **Нет**|
-|Клиент|Организация|[!INCLUDE[d365fin](includes/d365fin_md.md)] -> [!INCLUDE[d365fin](includes/cds_long_md.md)] и [!INCLUDE[d365fin](includes/cds_long_md.md)] -> [!INCLUDE[d365fin](includes/d365fin_md.md)]|Фильтр по счетам [!INCLUDE[d365fin](includes/cds_long_md.md)]: **тип связи** — **Клиент** и **статус** **Активно**. Фильтр [!INCLUDE[d365fin](includes/d365fin_md.md)]: **Заблокировано** пустое (Клиент не заблокирован).|
-|Поставщик|Организация|[!INCLUDE[d365fin](includes/d365fin_md.md)] -> [!INCLUDE[d365fin](includes/cds_long_md.md)] и [!INCLUDE[d365fin](includes/cds_long_md.md)] -> [!INCLUDE[d365fin](includes/d365fin_md.md)]|Фильтр по счетам [!INCLUDE[d365fin](includes/cds_long_md.md)]: **тип связи** — **Поставщик** и **статус** **Активно**. Фильтр [!INCLUDE[d365fin](includes/d365fin_md.md)]: **Заблокировано** пустое (Поставщик не заблокирован).|
-|Контакт|Контакт|[!INCLUDE[d365fin](includes/d365fin_md.md)] -> [!INCLUDE[d365fin](includes/cds_long_md.md)] и [!INCLUDE[d365fin](includes/cds_long_md.md)] -> [!INCLUDE[d365fin](includes/d365fin_md.md)]|Фильтр по контактам [!INCLUDE[d365fin](includes/d365fin_md.md)]: **тип** — **Человек** и контакт назначен организации. Фильтр по контактам [!INCLUDE[d365fin](includes/cds_long_md.md)]: контакт назначен организации, родительский тип клиента — **Организация**.|
-|Валюта|Валюта транзакции|[!INCLUDE[d365fin](includes/d365fin_md.md)] -> [!INCLUDE[d365fin](includes/cds_long_md.md)]| |
+| [!INCLUDE[d365fin](includes/d365fin_md.md)] | [!INCLUDE[d365fin](includes/cds_long_md.md)] | Направление синхронизации | Фильтр по умолчанию |
+|---------------------------------------------|----------------------------------------------|---------------------------|----------------|
+| Менеджер по продажам/закупкам | Пользователь | [!INCLUDE[d365fin](includes/cds_long_md.md)] -> [!INCLUDE[d365fin](includes/d365fin_md.md)] | Фильтр контакта [!INCLUDE[d365fin](includes/cds_long_md.md)]: **Состояние** равно **Нет**, **Пользователь лицензирован** — **Да**, режим интеграции пользователя — **Нет** |
+| Клиент | Организация | [!INCLUDE[d365fin](includes/d365fin_md.md)] -> [!INCLUDE[d365fin](includes/cds_long_md.md)] и [!INCLUDE[d365fin](includes/cds_long_md.md)] -> [!INCLUDE[d365fin](includes/d365fin_md.md)] | Фильтр по счетам [!INCLUDE[d365fin](includes/cds_long_md.md)]: **тип связи** — **Клиент** и **статус** **Активно**. Фильтр [!INCLUDE[d365fin](includes/d365fin_md.md)]: **Заблокировано** пустое (Клиент не заблокирован). |
+| Поставщик | Организация | [!INCLUDE[d365fin](includes/d365fin_md.md)] -> [!INCLUDE[d365fin](includes/cds_long_md.md)] и [!INCLUDE[d365fin](includes/cds_long_md.md)] -> [!INCLUDE[d365fin](includes/d365fin_md.md)] | Фильтр по счетам [!INCLUDE[d365fin](includes/cds_long_md.md)]: **тип связи** — **Поставщик** и **статус** **Активно**. Фильтр [!INCLUDE[d365fin](includes/d365fin_md.md)]: **Заблокировано** пустое (Поставщик не заблокирован). |
+| Контакт | Контакт | [!INCLUDE[d365fin](includes/d365fin_md.md)] -> [!INCLUDE[d365fin](includes/cds_long_md.md)] и [!INCLUDE[d365fin](includes/cds_long_md.md)] -> [!INCLUDE[d365fin](includes/d365fin_md.md)] | Фильтр по контактам [!INCLUDE[d365fin](includes/d365fin_md.md)]: **тип** — **Человек** и контакт назначен организации. Фильтр по контактам [!INCLUDE[d365fin](includes/cds_long_md.md)]: контакт назначен организации, родительский тип клиента — **Организация**. |
+| Валюта | Валюта транзакции | [!INCLUDE[d365fin](includes/d365fin_md.md)] -> [!INCLUDE[d365fin](includes/cds_long_md.md)] |  |
 
 
 ### <a name="tip-for-admins-viewing-entity-mappings"></a>Совет для администраторов: просмотр сопоставлений объектов

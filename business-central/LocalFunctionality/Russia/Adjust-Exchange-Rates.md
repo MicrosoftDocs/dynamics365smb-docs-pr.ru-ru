@@ -5,23 +5,23 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 07/23/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 6763f1109f0049f440f3203f8821bf93efc04bff
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: 7b089935766e02349461ae75607ce422f5f922e1
+ms.sourcegitcommit: 7b5c927ea9a59329daf1b60633b8290b552d6531
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3181000"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "3617773"
 ---
-# <a name="adjust-exchange-rates"></a>Корректировка валютных курсов
+# <a name="adjust-exchange-rates-in-the-russian-version"></a>Корректировка валютных курсов в версии для России
 
 Разница для между российской и международной функцией — российский отчет создает корректировочную операцию для каждой операции Поставщика и Клиента и использует учетную группу из операции не из карточки Продавца и Клиента.
 
 1. Выберите **Коррекция Курс. Разниц**.
 
-2.  Заполните поля:
+2. Заполните поля:
 
    | Поле                                           | Описание                                                  |
    | ----------------------------------------------- | ------------------------------------------------------------ |

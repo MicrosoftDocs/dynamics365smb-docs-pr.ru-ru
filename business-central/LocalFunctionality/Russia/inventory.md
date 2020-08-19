@@ -5,17 +5,17 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 07/23/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 346a03b51a0c8973b06aeeba43eeae45e8f24163
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: eb237f4b8dacda8bd17806e6f6eb94182b6dcca8
+ms.sourcegitcommit: 7b5c927ea9a59329daf1b60633b8290b552d6531
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3189223"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "3617983"
 ---
-# <a name="inventory"></a>Запасы
+# <a name="inventory-in-the-russian-version"></a>Запасы в русской версии
 
 Функция запасов для России описывается в нескольких разделах.
 

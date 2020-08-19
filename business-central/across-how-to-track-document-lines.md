@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 07/14/2020
 ms.author: sgroespe
-ms.openlocfilehash: d6440c4cf2f7b5e41f320fcbb1d72d353ae4f5e9
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: 48d8e3baf3adfbd4836cadb638949e54555a39c9
+ms.sourcegitcommit: 89d0ea903f61ab0628f99329c762d9f1619c49a7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3188023"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "3577382"
 ---
 # <a name="track-document-lines"></a>Отслеживание строк документа
 Можно просматривать документы, которые связаны со строками заказа на продажу и строками заказа на покупку, включая из строк архивированных заказов. Связанные документы, которые вы можете отслеживать, включая предложения, отгрузки, приемки и общие заказы. Это помогает идентифицировать документы, используемые для обработки заказов.  
@@ -28,6 +28,8 @@ ms.locfileid: "3188023"
 3.  Выберите строку, затем выберите действие **Трассировка строк документов**.
 4. На странице **Отслеживание строк документов** выберите документ, который требуется просмотреть, затем выберите действие **Показать** для просмотра связанной строки.
 5. Для просмотра всего документа для выбранной строки документа, выберите действие **Показать документ**.
+
+[!INCLUDE [line-no-info](includes/line-no-info.md)]
 
 ## <a name="see-also"></a>См. также
 [Продажи](sales-manage-sales.md)  

@@ -1,8 +1,6 @@
 ---
 title: Работа с входящими документами | Документация Майкрософт
 description: Вы можете управлять входящими документами, например квитанциями о входящих платежах или PDF-документами, управлять задачами OCR и преобразовывать файлы в электронные документы и записи.
-services: project-madeira
-documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -10,19 +8,20 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: electronic document, e-invoice, incoming document, OCR, ecommerce, document exchange, import invoice
-ms.date: 04/01/2020
+ms.date: 08/10/2020
 ms.author: sgroespe
-ms.openlocfilehash: 352ebe98ee15547a16365901134b6dd198dc74c2
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: 0c0c71de9b560f94427c26ffed944a8155639028
+ms.sourcegitcommit: 007b331b6974983ee614db0406f00777da359ecb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3187800"
+ms.lasthandoff: 08/10/2020
+ms.locfileid: "3676873"
 ---
 # <a name="incoming-documents"></a>Входящие документы
+
 Несколько бизнес-транзакций не записаны в [!INCLUDE[d365fin](includes/d365fin_md.md)] с самого начала. Вместо этого ваша компания получает внешний бизнес-документ в виде вложения в сообщение электронной почты или бумажной копии, которая будет отсканирована в файл. Это характерно для покупок, где такие файлы исходящих документов представляют денежные поступления за расходы или небольшие покупки.
 
-Из PDF-файлов или файлов изображений, представляющих входящие документы, с помощью внешнего сервиса OCR (оптическое распознавание символов) можно создавать электронные документы, подходящие для преобразования в записи документов в [!INCLUDE[d365fin](includes/d365fin_md.md)].
+Из PDF-файлов или файлов изображений, представляющих входящие документы, с помощью внешнего сервиса OCR (оптическое распознавание символов) можно создавать электронные документы, подходящие для преобразования в записи документов в [!INCLUDE[d365fin](includes/d365fin_md.md)]. Выберите пакет услуг, подходящий для вашей организации и/или страны/региона. Кроме того, вы можете создавать записи вручную для представления внешних документов.  
 
 На странице **Входящие документы** можно использовать различные функции для просмотра квитанций по расходам, управления задачами OCR, а также преобразования входящих файлов документов, вручную и автоматически, в соответствующие документы либо строки журналов. Внешние файлы можно прикреплять на любом этапе обработки, в том числе к учтенным документам и к полученным записям поставщика, клиента и главной книги.
 
@@ -47,5 +46,6 @@ ms.locfileid: "3187800"
 ## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/incoming-documents-dynamics-365-business-central/index)
 
 ## <a name="see-also"></a>См. также
+
 [Покупки](purchasing-manage-purchasing.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  

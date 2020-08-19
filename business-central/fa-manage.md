@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: machinery, buildings
 ms.date: 04/01/2020
 ms.author: sgroespe
-ms.openlocfilehash: 8b332e50d722ff56625fce45a9617ea67ec2201a
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: bf893e2f8ea7eaeee9867566da92461eef7a9578
+ms.sourcegitcommit: 6078bc9b2b571248d779722ce4125f250e7a3922
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3184200"
+ms.lasthandoff: 08/07/2020
+ms.locfileid: "3666801"
 ---
 # <a name="fixed-assets"></a>Основные средства
 Функциональные возможности по управлению основными средствами [!INCLUDE[d365fin](includes/d365fin_md.md)] позволяют получать информацию об основных средствах и обеспечивают правильную периодическую амортизацию. Кроме того, они позволяют отслеживать затраты на обслуживание, управлять страховыми полисами, учитывать транзакции основных средств и создавать различные отчеты и статистику.
@@ -47,6 +47,11 @@ ms.locfileid: "3184200"
 | Рассчитать амортизацию, учесть амортизацию и проанализировать амортизацию в отчетах по основным средствам. |[Амортизация основных средств](fa-how-depreciate-amortize.md) |
 | Учесть транзакции выбытия, просмотреть операции книги выбытия и учесть частичные выбытия. |[Списание или выбытие основных средств](fa-how-dispose-retire.md) |
 | Управлять бюджетами основных средств, бюджетировать стоимость приобретения, выбытие и амортизацию основных средств. |[Управление бюджетами основных средств](fa-how-manage-budgets.md) |
+
+## <a name="video-overview"></a>Обзор видео
+Следующее видео охватывает основы основных средств.
+
+> [!Video https://www.microsoft.com/en-us/videoplayer/embed/RE4AegS]
 
 ## <a name="see-also"></a>См. также
 [Настройка основных средств](fa-setup.md)  

@@ -1,8 +1,6 @@
 ---
-title: Выверка платежей с использованием автоматического применения | Документация Майкрософт
+title: Выверка платежей с использованием автоматического применения
 description: Описывается использование функции автоматического применения для применения платежей или приходных кассовых ордеров к соответствующим открытым операциям, а также выверка платежей.
-services: project-madeira
-documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -10,16 +8,17 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: payment process, direct payment posting, reconcile payment, expenses, cash receipts
-ms.date: 04/01/2020
+ms.date: 07/23/2020
 ms.author: sgroespe
-ms.openlocfilehash: c0acef518c6333061aa9c321b91c47aa1da8df2c
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: 17d0a3acb019643d7ccf39013dede82e311245b6
+ms.sourcegitcommit: 7b5c927ea9a59329daf1b60633b8290b552d6531
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3191990"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "3617604"
 ---
 # <a name="reconcile-payments-using-automatic-application"></a>Выверка платежей с использованием автоматического применения
+
 На странице **Журнал выверки платежей** определены платежи (входящие или исходящие), которые записаны как транзакции на вашем счете интернет-банка и которые можно применить к соответствующим открытым операциям книги клиентов, поставщиков и банковских счетов. Строки в журнале заполняются путем импорта банковской выписки в виде файла или потока.
 
 > [!NOTE]
