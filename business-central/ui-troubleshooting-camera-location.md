@@ -9,13 +9,13 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.prod: dynamics365-business-central
-ms.openlocfilehash: befb7af01ba26512a4b62005e81b5a3ff351b02f
-ms.sourcegitcommit: 7d54d8abe52e0546378cf760f5082f46e8441b90
+ms.service: dynamics365-business-central
+ms.openlocfilehash: 10338040ddcfb64dd91e9e55f607280e99720403
+ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2020
-ms.locfileid: "3324476"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "3781139"
 ---
 # <a name="troubleshooting-accessing-camera-and-location"></a>Устранение неполадок: доступ к камере и геопозиции
 
@@ -38,7 +38,7 @@ ms.locfileid: "3324476"
 По умолчанию на устройстве или в браузере появляется запрос на доступ к этим возможностям, когда пользователь активирует их в первый раз.
 
 > [!NOTE]  
-> Некоторые старые браузеры не предоставляют доступ к камере и геопозиции. Например, камера недоступна в Internet Explorer или в старом браузере Edge.
+> Некоторые старые браузеры не предоставляют доступ к камере и геопозиции. Например, камера недоступна в Internet Explorer или в старом браузере Microsoft Edge.
 
 ## <a name="web-client-connection-not-secure"></a>Соединение с веб-клиентом небезопасно
 

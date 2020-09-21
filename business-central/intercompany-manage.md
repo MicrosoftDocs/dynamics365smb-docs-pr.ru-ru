@@ -11,13 +11,13 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: IC, group, consolidation, affiliate, subsidiary
 ms.date: 04/01/2020
-ms.author: sgroespe
-ms.openlocfilehash: bb8147038b1f6aba0758b36bb139727a65c9c3eb
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.author: edupont
+ms.openlocfilehash: 0499ad80020293e73879061a7bc5f8dfdb3c043c
+ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3182376"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "3780114"
 ---
 # <a name="managing-intercompany-transactions"></a>Управление межфирменными транзакциями
 Ваша организация может состоять из нескольких компаний, но не иметь соответствующего количества бухгалтерских и административных отделов. Функция межфирменного учета позволяет вести дела с филиалами и внутренними партнерскими организациями таким же образом, как с внешними поставщиками и клиентами. Ввод данных о транзакциях с аффилированной организацией в соответствующих документах осуществляется только один раз. Вы можете использовать уже знакомые функции, например, управление расчетами с клиентами и поставщиками. Средства сопоставления для плана счетов и измерения помогают обеспечить отображение данных в нужных местах.  

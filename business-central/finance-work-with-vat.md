@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: VAT, sales, purchases,
 ms.date: 04/01/2020
 ms.author: bholtorf
-ms.openlocfilehash: b870e3370d6af99320593653f49f69936b179c22
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: 96abfb85d54a94244ed61209d346249929a7171f
+ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3182640"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "3780214"
 ---
 # <a name="work-with-vat-on-sales-and-purchases"></a>Работа с НДС по продажам и покупкам
 Если в вашей стране или регионе требуется рассчитывать налог на добавленную стоимость (НДС) на транзакции продаж и покупок, чтобы можно было сообщать суммы в налоговые органы, можно настроить [!INCLUDE[d365fin](includes/d365fin_md.md)] для автоматического расчета НДС по документам продажи и покупки. Дополнительные сведения см. в разделе [Настройка методов расчета и учета налога на добавленную стоимость](finance-setup-vat.md).

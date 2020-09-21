@@ -11,13 +11,13 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: client
 ms.date: 04/01/2020
-ms.author: sgroespe
-ms.openlocfilehash: c73fd564211dd93a7c6f668e1753227811544074
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.author: edupont
+ms.openlocfilehash: f789c5caf0f59b1fdf3b3b10d42210152f32dc97
+ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3193639"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "3781664"
 ---
 # <a name="merge-duplicate-records"></a>Объединение повторяющихся записей
 Когда с течением времени различные пользователи создают новые карточки клиентов, поставщиков или контактов, или когда новые записи создаются автоматически во время миграции, клиент, поставщик или контакт могут быть представлены в системе в нескольких записях. В этом случае можно воспользоваться страницей **Объединить дубликат** из карточки записи, которую требуется сохранить. Страница обеспечивает обзор значений дублированных полей и предоставляет функции для выбора, какие значения сохранить или удалить при объединении записей в одну.

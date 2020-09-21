@@ -9,13 +9,13 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: customize, personalize, personalization, hide columns, remove fields, move fields, resize column, change column width
 ms.date: 04/01/2020
-ms.author: sgroespe
-ms.openlocfilehash: dfc7b91c50297c130a4a6d50401c7adb53bd608b
-ms.sourcegitcommit: 6078bc9b2b571248d779722ce4125f250e7a3922
+ms.author: edupont
+ms.openlocfilehash: e41c3dd810367f254bd62271083e884afdc9da50
+ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/07/2020
-ms.locfileid: "3666951"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "3781314"
 ---
 # <a name="personalize-your-workspace"></a>Персонализация рабочей области
 Вы можете персонализировать свою рабочую область в соответствии со вашей работой и предпочтениями, изменяя страницы, чтобы на них отображалась только требуемая информация в тех местах, в которых она нужна. Сделанная вами персонализация изменяет только то, что видите вы, а не то, что видят другие пользователи.
@@ -31,7 +31,7 @@ ms.locfileid: "3666951"
 ## <a name="video-overview"></a>Обзор видео
 В следующем видео показаны некоторые способы персонализации вашего ролевого центра.
 
-> [!Video https://www.microsoft.com/en-us/videoplayer/embed/RE4ArUB]
+> [!Video https://www.microsoft.com/en-us/videoplayer/embed/RE4ArUB?rel=0]
 
 ## <a name="to-change-the-width-of-a-column"></a>Изменение ширины столбца
 Ширину столбцов в любом списке легко можно изменить путем перетаскивания границы между двумя столбцами влево или вправо.

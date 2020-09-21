@@ -9,13 +9,13 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2020
-ms.author: sgroespe
-ms.openlocfilehash: 117ae04d89d801eff79ecc7d2908eeb49d53f9e2
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.author: edupont
+ms.openlocfilehash: 4f1c082a24348b106a0bcbd0e48084f7ce88b435
+ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3193111"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "3779615"
 ---
 # <a name="move-components-to-an-operation-area-in-basic-warehouse-configurations"></a>Перемещение компонентов в производственную зону в базовых конфигурациях склада
 Если производственные операции выполняются на складе, необходимо переместить товары между внутренними ячейками, чтобы ответить на внутренние документы-источники, например продукцию, сборку или сервисные заказы на складе.  

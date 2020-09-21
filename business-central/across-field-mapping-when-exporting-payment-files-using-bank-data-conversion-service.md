@@ -9,16 +9,16 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2020
-ms.author: sgroespe
-ms.openlocfilehash: 0d85c4e4d882f84781ff119bdf397266c4f8ca1b
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.author: edupont
+ms.openlocfilehash: 06747ec283cb4b64f23433fbb81eea4a62e1f832
+ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3188664"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "3780689"
 ---
 # <a name="field-mapping-when-exporting-payment-files-using-the-amc-banking-365-fundamentals-extension"></a>Сопоставление полей при экспорте файлов платежей с использованием расширения AMC Banking 365 Fundamentals
-При экспорте файлов платежей с использованием расширения AMC Banking 365 Fundamentals экспортируемые данные предоставляются поставщику услуг. Поставщик услуг отвечает за конфиденциальность этих данных. Для получения дополнительной информации о расширении AMC Banking 365 Fundamentals см. раздел [Использование расширения AMC Banking 365 Fundamentals](ui-extensions-amc-banking.md).  
+При экспорте файлов платежей с использованием расширения AMC Banking 365 Fundamentals экспортируемые данные предоставляются поставщику услуг. Поставщик услуг отвечает за конфиденциальность этих данных. Дополнительные сведения о расширении AMC Banking 365 Fundamentals см. в разделе [Использование расширения AMC Banking 365 Fundamentals](ui-extensions-amc-banking.md).  
 
 > [!CAUTION]  
 >  При экспорте файлов платежей с помощью расширения AMC Banking 365 Fundamentals некоторые бизнес-данные станут доступны поставщику службы. Поставщик услуг AMC Consult A/S отвечает за конфиденциальность этих данных. Дополнительные сведения см. в разделе [Политика конфиденциальности AMC](https://go.microsoft.com/fwlink/?LinkId=510158).  
@@ -65,10 +65,10 @@ ms.locfileid: "3188664"
 |Почтовый индекс банка отправителя|Индекс|Банк. Счет|Почтовый индекс банковского счета отправителя, указанный в карточке банковского счета.|  
 |Шаблон финансового журнала|Имя шаблона журнала|Строка финансового журнала|Имя шаблона финансового журнала, используемое для строки платежа.|  
 |Название раздела финансового журнала|Код раздела журнала|Строка финансового журнала|Имя раздела финансового журнала, используемое для строки платежа.|  
-|Название банка отправителя - преобр. данных|Название банка – Преобр. данных|Банковский счет|Название банковского счета отправителя, запрашиваемое расширением AMC Banking 365 Fundamentals и указанное в карточке банковского счета.|  
+|Название банка отправителя - преобр. данных|Название банка – Преобр. данных|Банковский счет|Название банковского счета отправителя, запрашиваемое расширением AMC Banking 365 Fundamentals и указанное в карточке банковского счета|  
 
 ## <a name="see-also"></a>См. также  
 [Настройка обмена данными](across-set-up-data-exchange.md)  
 [Электронный обмен данными](across-data-exchange.md)
 [Использование расширения AMC Banking 365 Fundamentals](ui-extensions-amc-banking.md)   
-[Платежи с помощью расширения AMC Banking 365 Fundamentals или кредитного перевода SEPA](finance-make-payments-with-bank-data-conversion-service-or-sepa-credit-transfer.md)   
+[Выполнение платежей с помощью расширения AMC Banking 365 Fundamentals или кредитного перевода SEPA](finance-make-payments-with-bank-data-conversion-service-or-sepa-credit-transfer.md)   

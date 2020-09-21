@@ -9,13 +9,13 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: IC, group, consolidation, affiliate, subsidiary
 ms.date: 04/01/2020
-ms.author: sgroespe
-ms.openlocfilehash: 55f7e0f58634ad56d88d6e826f42eafdc92c6a6a
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.author: edupont
+ms.openlocfilehash: df4fc94bba7b0ffb6ba37363e953fc277c7b6e0a
+ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3182424"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "3780139"
 ---
 # <a name="work-with-intercompany-documents-and-journals"></a>Работа с межфирменными документами и журналами
 Межфирменные документы или журналы можно использовать для учета транзакций, выполненных с партнерами по межфирменным операциям. При учете межфирменного документа или строки журнала в вашей организации в вашем межфирменном выходном ящике создается соответствующий документ или строка журнала, которые можно передать партнеру. Затем партнер может учесть соответствующую транзакцию в своей организации без повторного ввода данных.

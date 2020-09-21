@@ -9,13 +9,13 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2020
-ms.author: sgroespe
-ms.openlocfilehash: 0faaff33db107f61c56d13f7f0c979e4935cb65f
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.author: edupont
+ms.openlocfilehash: e0f55d52c866dbe6a9738dbec374c7a20af63b56
+ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3189391"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "3781114"
 ---
 # <a name="update-custom-report-layouts"></a>Обновление пользовательских макетов отчетов
 Время от времени может возникать необходимость обновления пользовательского макета, который будет использоваться для отчета. Это необходимо при внесении изменений в конструкцию набора данных отчета, например если поле, используемое в макете, было удалено из набора данных отчета. Если макет отчета требует обновления, вы получите сообщение об ошибке при попытке просмотра, печати или сохранения отчета.  
