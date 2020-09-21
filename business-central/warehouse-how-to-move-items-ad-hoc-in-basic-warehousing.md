@@ -9,13 +9,13 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2020
-ms.author: sgroespe
-ms.openlocfilehash: 8944c01f032444b98efaf482c00d198127570c4e
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.author: edupont
+ms.openlocfilehash: 0b939f217e4d0122c8663d096b412806a952eea8
+ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3193087"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "3779590"
 ---
 # <a name="move-items-ad-hoc-in-basic-warehouse-configurations"></a>Перемещение специальных товаров в базовых конфигурациях склада
 Иногда может потребоваться переместить товары между внутренними ячейками, ячейками без приемки или ячейками отгрузки без определенного требования из документа-источника. Можно выполнить эти специальные передвижения, например, чтобы реорганизовать товары на складе, переместить товары в зону осмотра либо переместить дополнительные товары в область производства или из нее без привязки системы к документу-источнику производственного заказа.  

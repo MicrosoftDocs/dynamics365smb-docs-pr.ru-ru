@@ -9,13 +9,13 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2020
-ms.author: sgroespe
-ms.openlocfilehash: 7285bf6984cc4f245282dcc129e66f097e11c5f2
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.author: edupont
+ms.openlocfilehash: 5037168780e14d7774843223726bb6092ff2d306
+ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3189415"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "3778264"
 ---
 # <a name="save-and-personalize-list-views"></a>Сохранение и персонализация представлений списков
 Если вы установили фильтр для списка и хотите сохранить его для использования в дальнейшем, вы можете сохранить его как представление. Дополнительные сведения о фильтрации списков см. в разделе [Установка фильтров в списках](ui-enter-criteria-filters.md#setting-filters-on-lists).

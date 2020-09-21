@@ -9,13 +9,13 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: accounting, auditing, bookkeeping
 ms.date: 04/01/2020
-ms.author: sgroespe
-ms.openlocfilehash: b7a272d916182fda7815e04bb314a5c29942ca98
-ms.sourcegitcommit: b9264b4ed650feca18776892ec23f2aa7ec43e20
+ms.author: edupont
+ms.openlocfilehash: 8b277c8363ec831a803081898ca6bea591140bac
+ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "3372572"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "3779215"
 ---
 # <a name="setting-up-finance"></a>Настройка финансов
 Прежде чем вы сможете начать свой бизнес, вы должны указать правила и настройки по умолчанию для управления финансовыми процессами в этой компании. Начните с настройки основы учетных записей организации — плана счетов. Затем настраиваются учетные группы, что позволяет сделать более эффективным процесс назначения используемых по умолчанию учетных счетов главной книги клиентам, поставщикам и товарам.

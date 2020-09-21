@@ -10,13 +10,13 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: electronic document, e-invoice, incoming document, OCR, ecommerce, document exchange, import invoice
 ms.date: 04/01/2020
-ms.author: sgroespe
-ms.openlocfilehash: c9acd338493ca101d8b8061fb95b9a4faba8eabb
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.author: edupont
+ms.openlocfilehash: 9517f2bc0639959d06ce1baeaf7cf7489e3b5e63
+ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3187872"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "3777861"
 ---
 # <a name="use-ocr-to-turn-pdf-and-image-files-into-electronic-documents"></a>Использование OCR для преобразования PDF-файлов и файлов изображений в электронные документы
 Из PDF-файлов или файлов изображений, получаемых от торговых партнеров, с помощью внешнего сервиса OCR (оптическое распознавание символов) можно создавать электронные документы, подходящие для преобразования в записи документов в [!INCLUDE[d365fin](includes/d365fin_md.md)]. Например, при получении от поставщика счета в формате PDF можно отправить его в службу OCR на странице **Входящие документы**. Это описано в первой процедуре.

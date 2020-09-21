@@ -11,13 +11,13 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: relationship, prospect
 ms.date: 04/01/2020
-ms.author: sgroespe
-ms.openlocfilehash: 99345104555d8cba2887361a1de4941b24b7499a
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.author: edupont
+ms.openlocfilehash: 1e1c951a3eb0a8b519ac5c0f7c5112cb40272219
+ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3181632"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "3779265"
 ---
 # <a name="managing-contacts"></a>Управление контактами
 Сотрудники в вашей организации регулярно контактируют с потенциальными бизнес-клиентами, и эти контакты могут перерасти в формальные отношения. Все такие внешние контакты и их подробная информация должны регистрироваться в системе, чтобы коммуникация была более успешной и чтобы их можно было легко преобразовать в официальные отношения с клиентом, поставщиком или банком.

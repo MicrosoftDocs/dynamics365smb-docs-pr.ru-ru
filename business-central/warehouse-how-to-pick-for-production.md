@@ -9,13 +9,13 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2020
-ms.author: sgroespe
-ms.openlocfilehash: a5ae614f37cec06d6702b8cf494e3a00f2ba5585
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.author: edupont
+ms.openlocfilehash: 2c9d19d8406fe49df7449a9b5ecfe231cc3024c9
+ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3193032"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "3779540"
 ---
 # <a name="pick-for-production-or-assembly-in-basic-warehouse-configurations"></a>Подбор для производства или сборки в базовых конфигурациях склада
 Способ размещения подбора компонентов для заказов на производство или сборку зависит от того, как настроен склад. Дополнительные сведения см. в разделе [Настройка управления складом](warehouse-setup-warehouse.md).

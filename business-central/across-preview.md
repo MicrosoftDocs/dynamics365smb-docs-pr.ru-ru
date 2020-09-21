@@ -6,14 +6,14 @@ ms.service: dynamics365-business-central
 ms.topic: article
 ms.workload: na
 ms.search.keywords: preview, trial, sandbox, subscription
-ms.date: 04/01/2020
+ms.date: 08/12/2020
 ms.author: edupont
-ms.openlocfilehash: 805a8be94ccd38ffa696fe19157a08f4772c9ef3
-ms.sourcegitcommit: 3e9c89f90db5eaed599630299353300621fe4007
+ms.openlocfilehash: 342ffb57090aa78e10b8448b6316c610f6485040
+ms.sourcegitcommit: 79d6d270325f1cc88bd4e9a273f9ff859ceadcbc
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "3529092"
+ms.lasthandoff: 08/13/2020
+ms.locfileid: "3693103"
 ---
 # <a name="d365fin_long-trials-and-subscriptions"></a>Пробные версии и подписки [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]
 
@@ -68,7 +68,7 @@ ms.locfileid: "3529092"
 
 ## <a name="getting-started-with-a-subscription"></a>Начало работы с подпиской
 
-При каждом выполнении входа во время пробного периода отображается уведомление вверху в синем поле с указанием оставшегося времени. Если вы решили оформить подписку, найдите партнера [!INCLUDE[d365fin](includes/d365fin_md.md)]. Для получения дополнительной информации см. раздел [Как найти партнера по перепродаже?](across-faq.md#findpartner), Партнер может помочь вам настроить [!INCLUDE[prodshort](includes/prodshort.md)] в соответствии с особенностями вашего бизнеса, в том числе импортировать данные из вашей предыдущей системы. Вы также можете настроить [!INCLUDE[prodshort](includes/prodshort.md)], добавив приложения из [Microsoft AppSource](https://appsource.microsoft.com/marketplace/apps?product=dynamics-365-business-central).  
+При каждом выполнении входа во время пробного периода отображается уведомление вверху в синем поле с указанием оставшегося времени. Если вы решили оформить подписку, найдите партнера [!INCLUDE[d365fin](includes/d365fin_md.md)]. Для получения дополнительной информации см. раздел [Как найти партнера по перепродаже?](across-faq.md#findpartner), Партнер может помочь вам настроить [!INCLUDE[prodshort](includes/prodshort.md)] в соответствии с особенностями вашего бизнеса, в том числе импортировать данные из вашей предыдущей системы. Вы также можете настроить [!INCLUDE[prodshort](includes/prodshort.md)], добавив приложения из [Microsoft AppSource](https://go.microsoft.com/fwlink/?linkid=2081646).  
 
 Сетевая версия [!INCLUDE[prodshort](includes/prodshort.md)] использует Office 365. Если ваша компания использует другой тип настройки электронной почты, партнер может помочь вам решить, как выполнить миграцию, или же рекомендовать вам использовать локальную версию [!INCLUDE[prodshort](includes/prodshort.md)].  
 

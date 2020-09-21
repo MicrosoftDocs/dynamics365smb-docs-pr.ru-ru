@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: version
-ms.date: 05/06/2020
+ms.date: 08/25/2020
 ms.author: edupont
-ms.openlocfilehash: 55af97f27768d4b0c83379dd9eb5174613aabaa9
-ms.sourcegitcommit: 3e9c89f90db5eaed599630299353300621fe4007
+ms.openlocfilehash: 65d8295c6beb4fe918ad11434bc9813c34e81a93
+ms.sourcegitcommit: 3e2eab6920e96596cb4b3c61e590a8c577e8b630
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "3528717"
+ms.lasthandoff: 08/27/2020
+ms.locfileid: "3731222"
 ---
 # <a name="minimum-requirements-for-using-business-central"></a>Минимальные требования для использования Business Central
 Перед началом работы с [!INCLUDE[prodshort](includes/prodshort.md)] Online мы рекомендуем проверить, что ваш компьютер и мобильное устройство соответствуют минимальным требованиям для продукта или превышают их. В этой статье перечислены эти требования.  
@@ -25,13 +25,16 @@ ms.locfileid: "3528717"
 ### <a name="recommended-browsers"></a>Рекомендуемые браузеры
 
 **Microsoft Edge:** программа [!INCLUDE[d365fin](includes/d365fin_md.md)] предназначена для работы с новой версией Microsoft Edge.  
-**Chrome для Windows и Firefox для Windows:** программа [!INCLUDE[d365fin](includes/d365fin_md.md)] предназначена для работы с текущей версией этих настольных браузеров.  
+**Chrome для Windows и Firefox для Windows:** приложение [!INCLUDE[d365fin](includes/d365fin_md.md)] предназначено для работы с текущей версией этих настольных браузеров.  
 **Safari:** программа [!INCLUDE[d365fin](includes/d365fin_md.md)] предназначена для работы с текущей версией Safari в macOS.  
 
 ### <a name="other-supported-browsers"></a>Другие поддерживаемые браузеры
 
 **Старый Microsoft Edge:** программа [!INCLUDE[d365fin](includes/d365fin_md.md)] предназначена для работы со старым Microsoft Edge.  
-**Internet Explorer:** программа [!INCLUDE[d365fin](includes/d365fin_md.md)] предназначена для работы с текущей версией Internet Explorer 11 (сборка 11.0.9600.17239) для Windows 10 (32-разрядная или 64-разрядная версии). Мы рекомендуем обновиться до последней версии Internet Explorer, которая поддерживается вашей версией Windows. Вы также можете использовать новый Edge и по-прежнему осуществлять доступ к веб-сайтам, для которых требуется Internet Explorer. Дополнительные сведения см. в [документации по Microsoft Edge](/deployedge/edge-ie-mode).
+**Internet Explorer:** программа [!INCLUDE[d365fin](includes/d365fin_md.md)] предназначена для работы с текущей версией Internet Explorer 11 (сборка 11.0.9600.17239) для Windows 10 (32-разрядная или 64-разрядная версии). Мы рекомендуем обновиться до последней версии Internet Explorer, которая поддерживается вашей версией Windows. Вы также можете использовать новый Microsoft Edge и по-прежнему осуществлять доступ к веб-сайтам, для которых требуется Internet Explorer. Дополнительные сведения см. в [документации по Microsoft Edge](/deployedge/edge-ie-mode).
+
+> [!IMPORTANT]
+> С апреля 2021 г. Internet Explorer 11 и устаревшая версия Microsoft Edge больше не поддерживаются. Мы рекомендуем вам как можно скорее перейти на один из рекомендуемых современных браузеров.
 
 ## <a name="mobile-devices"></a>Мобильные устройства
 **Windows:** [!INCLUDE[d365fin](includes/d365fin_md.md)] для Windows можно установить на устройства, имеющие хотя бы 1 ГБ ОЗУ и Windows 10 Home, Pro, Enterprise или Education (32-разрядная и 64-разрядная версии).  

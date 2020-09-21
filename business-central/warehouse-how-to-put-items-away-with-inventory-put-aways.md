@@ -9,13 +9,13 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2020
-ms.author: sgroespe
-ms.openlocfilehash: 439072c09555c7781632c5933ab563caf432c270
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.author: edupont
+ms.openlocfilehash: 37be68e0235fa326344bc0f024b4584eb0289f9f
+ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3192847"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "3779340"
 ---
 # <a name="put-items-away-with-inventory-put-aways"></a>Размещение товаров с помощью складского размещения
 Если настройки склада таковы, что требуется обработка размещения, но не требуется обработка приемки, то, чтобы зарегистрировать и учесть информацию о размещении и приемке для документов-источников, нужно пользоваться документом **Размещение запасов**. Входящим документом-источником может быть заказ покупки, заказ возврата продажи, входящий заказ передвижения, заказ на сборку или производственный заказ, готовая продукция которого готова для размещения.  

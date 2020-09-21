@@ -10,17 +10,17 @@ ms.workload: na
 ms.search.keywords: phone, tablet
 ms.date: 04/01/2020
 ms.author: edupont
-ms.openlocfilehash: aabbba7c6cf5aa84797369c8fefad1ef79fa805f
-ms.sourcegitcommit: 6078bc9b2b571248d779722ce4125f250e7a3922
+ms.openlocfilehash: 558f457291b3e182444eeb78fab24fe80766e70b
+ms.sourcegitcommit: 79d6d270325f1cc88bd4e9a273f9ff859ceadcbc
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/07/2020
-ms.locfileid: "3666826"
+ms.lasthandoff: 08/13/2020
+ms.locfileid: "3693078"
 ---
 # <a name="getting-business-central-on-your-mobile-device"></a>Получение Business Central на мобильном устройстве
 Работайте с данными [!INCLUDE[d365fin](includes/d365fin_md.md)] с мобильного устройства. Вы можете просматривать бизнес-данные, использовать такие функции, как отправка в Excel или Office 365, просматривать последние диаграммы и ключевые показатели эффективности, отправлять по электронной почте предложения и счета, а также делать фотографии с помощью камеры и прикладывать снимки. Выполните следующие действия для загрузки приложения и начала работы.
 
-> [!Video https://www.microsoft.com/en-us/videoplayer/embed/RE4Arje]
+> [!Video https://www.microsoft.com/en-us/videoplayer/embed/RE4Arje?rel=0]
 
 ## <a name="to-get-the-app-on-my-mobile-device"></a>Установка приложения на мобильном устройстве
 1. Установите приложение [!INCLUDE[d365fin](includes/d365fin_md.md)] на мобильное устройство, скачав его из магазина Windows, App Store или Google Play.  

@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 07/24/2020
 ms.author: bholtorf
-ms.openlocfilehash: e6ee18367ad229ab56d694d0bbac23e1959b1a5f
-ms.sourcegitcommit: edad0d0b129e916c2cfdfa9c4f8d9d83513f4fd1
+ms.openlocfilehash: 10a257b60aedfb22066148fd48145779cd6d4a62
+ms.sourcegitcommit: ac492bff0c87bf2a23fa93113e7571da9d5094c7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/24/2020
-ms.locfileid: "3619414"
+ms.lasthandoff: 08/19/2020
+ms.locfileid: "3701996"
 ---
 # <a name="connect-to-common-data-service"></a>Подключение к Common Data Service
 
@@ -71,7 +71,7 @@ ms.locfileid: "3619414"
     |Поле|Описание|
     |-----|-----|
     |**Пользователи [!INCLUDE[d365fin](includes/d365fin_md.md)] должны сопоставляться пользователям CDS**|Если вы используете модель владения человеком, укажите, должны ли учетные записи пользователей [!INCLUDE[d365fin](includes/d365fin_md.md)] иметь соответствующие учетные записи пользователей в [!INCLUDE[cds_long_md](includes/cds_long_md.md)]. **Адрес проверки подлинности Office 365** пользователя [!INCLUDE[d365fin](includes/d365fin_md.md)] должен быть тем же, что и **Основной адрес электронной почты** пользователя [!INCLUDE[crm_md](includes/crm_md.md)].<br /><br /> Если задано **Да**,пользователи [!INCLUDE[d365fin](includes/d365fin_md.md)] без совпадающей учетной записи пользователя [!INCLUDE[crm_md](includes/crm_md.md)] не будут обладать возможностями интеграции [!INCLUDE[d365fin](includes/d365fin_md.md)] в пользовательском интерфейсе. Доступ к данным [!INCLUDE[crm_md](includes/crm_md.md)] непосредственно из [!INCLUDE[d365fin](includes/d365fin_md.md)] выполняется от имени учетной записи пользователя [!INCLUDE[crm_md](includes/crm_md.md)].<br /><br /> Если задано **Нет**, все пользователи [!INCLUDE[d365fin](includes/d365fin_md.md)] будут обладать возможностями интеграции [!INCLUDE[crm_md](includes/crm_md.md)] в пользовательском интерфейсе. Доступ к данным [!INCLUDE[crm_md](includes/crm_md.md)] выполняется от имени пользователя подключения (интеграции) [!INCLUDE[crm_md](includes/crm_md.md)].|
-    |**Текущий менеджер по продажам Business Central сопоставлен с пользователем**|Указывает, сопоставлена ли ваша учетная запись пользователя с учетной записью в [!INCLUDE[crm_md](includes/crm_md.md)] <!--double check the name of this field|-->
+    |**Текущий менеджер по продажам Business Central сопоставлен с пользователем**|Указывает, сопоставлена ли учетная запись пользователя учетной записи в [!INCLUDE[crm_md](includes/crm_md.md)] <!--double check the name of this field-->|
 
 4. Для тестирования настроек подключения выберите **Подключение**, затем **Проверить подключение**.  
 

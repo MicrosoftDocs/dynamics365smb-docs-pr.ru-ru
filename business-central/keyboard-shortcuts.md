@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: accessibility, shortcuts, keyboarding, keys
-ms.date: 06/26/2020
+ms.date: 09/02/2020
 ms.author: bholtorf
-ms.openlocfilehash: 84ce43b7e3305380e46d16e5b4e2f8b1a25aaf08
-ms.sourcegitcommit: 3e9c89f90db5eaed599630299353300621fe4007
+ms.openlocfilehash: 7d2a891f55ff41e1e236c57ca76eb5d1444b7160
+ms.sourcegitcommit: 43284728c34b72ad1984a516273dc80e4cdc99ab
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "3528492"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "3765950"
 ---
 # <a name="keyboard-shortcuts"></a>Сочетания клавиш
 
@@ -166,7 +166,7 @@ ms.locfileid: "3528492"
 |Shift+Enter|Подтверждение значения в текущем поле и переход в предыдущее поле экспресс-ввода.||
 |Ctrl+Shift+Enter|Подтверждение значения в текущем столбце и переход в следующее поле за пределами списка.<br /><br />Это сочетание клавиш применяется к встроенным спискам на странице, таким как позиции строк в заказе на продажу. Оно позволяет быстро выйти из списка и продолжить ввод данных в другие поля на странице.|
 
-## <a name="keyboard-shortcuts-in-the-calendar-date-picker"></a><a name="calendarshortcuts"/> Сочетания клавиш в календаре (элементе управления для выбора даты)
+## <a name="keyboard-shortcuts-in-the-calendar-date-picker"></a><a name="calendarshortcuts"></a> Сочетания клавиш в календаре (элементе управления для выбора даты)
 
 При задании значения в поле даты можно либо ввести дату вручную, либо открыть календарь (элемент управления выбора даты), который позволяет выбрать нужную дату. В следующей таблице приведены сочетания клавиш для календаря.
 
@@ -185,12 +185,13 @@ ms.locfileid: "3528492"
 |Page Up|Переход к предыдущему месяцу.|  
 
 ## <a name="keyboard-shortcuts-in-date-fields"></a>Сочетания клавиш в полях даты
+
 |Нажмите эти клавиши<br />(в macOS)|Действие|
 |--------------------------------|----------|
 |t|Введите текущую дату. "Т" означает "сегодня".|
 |w|Введите рабочую дату. Дополнительные сведения см. в разделе [Рабочая дата](ui-change-basic-settings.md#work-date)|
 
-## <a name="keyboard-shortcuts-in-the-report-preview"></a><a name="reportpreviewshortcuts"/>Сочетания клавиш в предварительном просмотре отчетов
+## <a name="keyboard-shortcuts-in-the-report-preview"></a><a name="reportpreviewshortcuts"></a>Сочетания клавиш в предварительном просмотре отчетов
 
 |Нажмите эти клавиши<br />(в macOS)|Действие|
 |--------------------------------|----------|

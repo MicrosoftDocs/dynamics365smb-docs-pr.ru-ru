@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 07/07/2020
+ms.date: 08/18/2020
 ms.author: bholtorf
-ms.openlocfilehash: dbee0561f2baa52484df1fbebf8e4875dd3f7245
-ms.sourcegitcommit: 8b2f02dd5189c46ecff33c07223ed62b36842d34
+ms.openlocfilehash: 5e2713904cc53620188c1c63ba51079bd8fa3123
+ms.sourcegitcommit: ac492bff0c87bf2a23fa93113e7571da9d5094c7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2020
-ms.locfileid: "3542721"
+ms.lasthandoff: 08/19/2020
+ms.locfileid: "3701767"
 ---
 # <a name="make-payments-with-the-amc-banking-365-fundamentals-extension-or-sepa-credit-transfer"></a>Выполнение платежей с помощью расширения AMC Banking 365 Fundamentals или кредитного перевода SEPA
 
@@ -79,8 +79,6 @@ ms.locfileid: "3542721"
 1. В поле **Поиск** введите **Способы оплаты**, а затем выберите соответствующую ссылку.  
 2. На странице **Способы платежа** выберите способ оплаты, используемый для экспорта платежей, а затем выберите поле **Определение строки экспорта платежа**.  
 3. На странице **Определение строки экспорта платежа** выберите код, который вы указали в поле **Код** на экспресс-вкладке **Определения строк** на шаге 4 раздела “Описание форматирования строк и столбцов в файле” процедуры [Настройка определений обмена данными](across-how-to-set-up-data-exchange-definitions.md).  
-
-Мандат прямого дебета автоматически вставляется в поле **Идентификатор поручения на прямое дебетование** при создании счета продажи для клиента, выбранного на шаге 2. Дополнительные сведения см. в разделе [Создание типовых строк продажи и покупки](sales-how-work-standard-lines.md).  
 
 ## <a name="preparing-the-payment-journal"></a>Подготовка журнала платежей
 

@@ -8,12 +8,12 @@ ms.reviewer: na
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.date: 02/03/2020
-ms.openlocfilehash: 42ad388e6c07ca259d4ef6095b9f8c908b509407
-ms.sourcegitcommit: d67328e1992c9a754b14c7267ab11312c80c38dd
+ms.openlocfilehash: 5f914904aaa1ec568b396a830ebc18a0fe4e40c1
+ms.sourcegitcommit: 79d6d270325f1cc88bd4e9a273f9ff859ceadcbc
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3196888"
+ms.lasthandoff: 08/13/2020
+ms.locfileid: "3693028"
 ---
 # <a name="handling-missing-option-values"></a>Обработка отсутствующих значений параметров
 [!INCLUDE[d365fin](includes/cds_long_md.md)] содержит только три поля набора параметров, содержащие значения параметров, которые можно сопоставить полям [!INCLUDE[d365fin](includes/d365fin_md.md)] типа "Параметр"<!-- Option type, not enum? @Onat can you vertify this? --> для автоматической синхронизации. Во время синхронизации несопоставленные параметры игнорируются, а отсутствующие параметры добавляются к связанной таблице [!INCLUDE[d365fin](includes/d365fin_md.md)] и добавляются в системную таблицу **Сопоставление параметров CDS** для обработки вручную позже. Например, добавив отсутствующие параметры в любом продукте, а затем обновив сопоставление. В этом разделе описывается, как это работает.
@@ -99,6 +99,9 @@ enumextension 50100 "CDS Payment Terms Code Extension" extends "CDS Payment Term
 
 > [!IMPORTANT]  
 > Вы должны использовать те же значения идентификатора параметра из [!INCLUDE[d365fin](includes/cds_long_md.md)], когда расширяете перечисление [!INCLUDE[d365fin](includes/d365fin_md.md)]. В противном случае возникнет ошибка синхронизации.
+
+> [!IMPORTANT]  
+> Не используйте символ "," в значениях Enum и подписях. В настоящее время это не поддерживается в среде выполнения [!INCLUDE[d365fin](includes/d365fin_md.md)].
 
 > [!NOTE]
 > Первые десять символов имен и подписей новых значений параметров должны быть уникальными. Например, два параметра «Перевод 20 рабочих дней» и «Перевод 20 календарных дней» вызовут ошибку, поскольку оба имеют одинаковые первые 10 символов «Перевод 20». Назовите их, например, «TRF20 WD» и «TRF20 CD».

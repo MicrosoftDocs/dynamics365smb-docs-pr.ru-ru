@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: sales, crm, integration, integrating
 ms.date: 10/01/2019
 ms.author: bholtorf
-ms.openlocfilehash: 2a5f58ac904ea05f4410ac9e1b804df1cb01c609
-ms.sourcegitcommit: 4545bb597dd9dc4c563b30af762977ee1d815497
+ms.openlocfilehash: 57bb8d6ee48b608074a669109bdd99abf8c452c2
+ms.sourcegitcommit: 351eb465e6dfb3d01c0f3ea406db340f393f47fc
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/29/2020
-ms.locfileid: "3410672"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "3742839"
 ---
 # <a name="upgrading-an-integration-with-dynamics-365-sales"></a>Обновление интеграции с Dynamics 365 Sales
 [!INCLUDE[d365fin](includes/d365fin_md.md)] интегрируется с [!INCLUDE[d365fin](includes/cds_long_md.md)], что позволяет легко подключать и синхронизировать данные с другими приложениями Dynamics 365, такими как [!INCLUDE[crm_md](includes/crm_md.md)], или даже с приложениями, которые вы создаете сами. Если вы впервые выполняете интеграцию, мы рекомендуем сделать это через [!INCLUDE[d365fin](includes/cds_long_md.md)]. Дополнительные сведения см. в разделе [Интеграция с Common Data Service](admin-common-data-service.md).
@@ -32,13 +32,12 @@ ms.locfileid: "3410672"
 2. Откройте страницу **Настройка подключения Common Data Service** и выберите переключатель **Включено**, чтобы включить подключение.
   
    После включения соединения CDS базовое решение интеграции Business Central CDS развертывается в Common Data Service.
-3. Удалите решение интеграции Microsoft Dynamics 365 Business Central из Dynamics 365 Sales по инструкциям в разделе [Удаление темы решения](/powerapps/developer/common-data-service/uninstall-delete-solution) 
+3. Удалите решение интеграции Microsoft Dynamics 365 Business Central из Dynamics 365 Sales. Дополнительные сведения см. в разделе [Удаление темы решения](/powerapps/developer/common-data-service/uninstall-delete-solution). 
 
-4. На странице настройки подключения Microsoft Dynamics 365 выберите переключатель "Включено", чтобы включить подключение к [!INCLUDE[crm_md](includes/crm_md.md)].
+4. На странице **Настройка подключения Microsoft Dynamics 365** включите выключатель **Включено**, чтобы подключиться к [!INCLUDE[crm_md](includes/crm_md.md)].
   
    После включения подключения Sales решение интеграции Business Central развертывается в Sales. Это дает возможность интеграции с объектами, которые являются специфическими для [!INCLUDE[crm_md](includes/crm_md.md)], таким как заказы на продажу, предложения с расценками и счета.
-5. Выберите **Повторить развертывание решения интеграции**,чтобы установить и настроить обновленное решение интеграции Business Central.
-6. На странице **Настройка подключения к Sales** выберите **Использовать настройку синхронизации по умолчанию**, чтобы инициализировать сопоставление таблиц интеграции для [!INCLUDE[crm_md](includes/crm_md.md)].
+5. На странице **Настройка подключения к Sales** выберите **Использовать настройку синхронизации по умолчанию**, чтобы инициализировать сопоставление таблиц интеграции для [!INCLUDE[crm_md](includes/crm_md.md)].
 
 ## <a name="see-also"></a>См. также
 [Интеграция с Dynamics 365 Sales](admin-prepare-dynamics-365-for-sales-for-integration.md)  
