@@ -11,29 +11,29 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: personnel, people, employee, staff, HR
 ms.date: 04/01/2020
-ms.author: sgroespe
-ms.openlocfilehash: d17575523f74ceb4cb11fb7756fff56135d50966
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.author: edupont
+ms.openlocfilehash: 86f8a20a2d42b7b84f062ddce702930d89bcbd75
+ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3182544"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "3777620"
 ---
-# <a name="manage-human-resources"></a><span data-ttu-id="71dff-103">Управление персоналом</span><span class="sxs-lookup"><span data-stu-id="71dff-103">Manage Human Resources</span></span>
-<span data-ttu-id="71dff-104">В [!INCLUDE[d365fin](includes/d365fin_md.md)] можно хранить подробные записи о сотрудниках.</span><span class="sxs-lookup"><span data-stu-id="71dff-104">In [!INCLUDE[d365fin](includes/d365fin_md.md)], you can keep detailed records of your employees.</span></span> <span data-ttu-id="71dff-105">В программе можно регистрировать и хранить такие сведения о сотрудниках, как трудовые соглашения, конфиденциальная информация, квалификации и контактные данные сотрудников.</span><span class="sxs-lookup"><span data-stu-id="71dff-105">You can register and maintain employee information, such as employment contracts, confidential information, qualifications, and employee contacts.</span></span>
+# <a name="manage-human-resources"></a><span data-ttu-id="17180-103">Управление персоналом</span><span class="sxs-lookup"><span data-stu-id="17180-103">Manage Human Resources</span></span>
+<span data-ttu-id="17180-104">В [!INCLUDE[d365fin](includes/d365fin_md.md)] можно хранить подробные записи о сотрудниках.</span><span class="sxs-lookup"><span data-stu-id="17180-104">In [!INCLUDE[d365fin](includes/d365fin_md.md)], you can keep detailed records of your employees.</span></span> <span data-ttu-id="17180-105">В программе можно регистрировать и хранить такие сведения о сотрудниках, как трудовые соглашения, конфиденциальная информация, квалификации и контактные данные сотрудников.</span><span class="sxs-lookup"><span data-stu-id="17180-105">You can register and maintain employee information, such as employment contracts, confidential information, qualifications, and employee contacts.</span></span>
 
-<span data-ttu-id="71dff-106">Также можно регистрировать простои сотрудников, что позволяет при необходимости анализировать зарегистрированные простои.</span><span class="sxs-lookup"><span data-stu-id="71dff-106">You can also register employee absences, which allows you to analyze registered absences as necessary.</span></span>
+<span data-ttu-id="17180-106">Также можно регистрировать простои сотрудников, что позволяет при необходимости анализировать зарегистрированные простои.</span><span class="sxs-lookup"><span data-stu-id="17180-106">You can also register employee absences, which allows you to analyze registered absences as necessary.</span></span>
 
-<span data-ttu-id="71dff-107">Чтобы начать пользоваться функцией "Персонал", необходимо настроить сотрудников и другую базовую информацию.</span><span class="sxs-lookup"><span data-stu-id="71dff-107">To start using the Human Resources functionality, you must set up employees and other basic information.</span></span> <span data-ttu-id="71dff-108">Затем можно связать различные коды с сотрудником, что позволяет фильтровать информацию по определенным сотрудникам.</span><span class="sxs-lookup"><span data-stu-id="71dff-108">You can then associate various codes to an employee, which allows you to filter information for specific employees.</span></span>
+<span data-ttu-id="17180-107">Чтобы начать пользоваться функцией "Персонал", необходимо настроить сотрудников и другую базовую информацию.</span><span class="sxs-lookup"><span data-stu-id="17180-107">To start using the Human Resources functionality, you must set up employees and other basic information.</span></span> <span data-ttu-id="17180-108">Затем можно связать различные коды с сотрудником, что позволяет фильтровать информацию по определенным сотрудникам.</span><span class="sxs-lookup"><span data-stu-id="17180-108">You can then associate various codes to an employee, which allows you to filter information for specific employees.</span></span>
 
-<span data-ttu-id="71dff-109">В следующей таблице приводится последовательность задач со ссылками на разделы, в которых они описываются.</span><span class="sxs-lookup"><span data-stu-id="71dff-109">The following table describes a sequence of tasks, with links to the topics that describe them.</span></span>
+<span data-ttu-id="17180-109">В следующей таблице приводится последовательность задач со ссылками на разделы, в которых они описываются.</span><span class="sxs-lookup"><span data-stu-id="17180-109">The following table describes a sequence of tasks, with links to the topics that describe them.</span></span>
 
-| <span data-ttu-id="71dff-110">Действие</span><span class="sxs-lookup"><span data-stu-id="71dff-110">To</span></span> | <span data-ttu-id="71dff-111">Ссылка</span><span class="sxs-lookup"><span data-stu-id="71dff-111">See</span></span> |
+| <span data-ttu-id="17180-110">Действие</span><span class="sxs-lookup"><span data-stu-id="17180-110">To</span></span> | <span data-ttu-id="17180-111">Ссылка</span><span class="sxs-lookup"><span data-stu-id="17180-111">See</span></span> |
 | --- | --- |
-| <span data-ttu-id="71dff-112">Зарегистрируйте новых сотрудников или измените записи существующих сотрудников, а также вложите связанные сведения, такие как контракты и статьи.</span><span class="sxs-lookup"><span data-stu-id="71dff-112">Register new employees or edit records for existing employees, and attach related information, such as contracts and articles.</span></span> |[<span data-ttu-id="71dff-113">Регистрация сотрудников</span><span class="sxs-lookup"><span data-stu-id="71dff-113">Register Employees</span></span>](hr-how-register-employees.md) |
-| <span data-ttu-id="71dff-114">Зарегистрируйте простои сотрудников и просмотрите статистику простоев с помощью различных фильтров.</span><span class="sxs-lookup"><span data-stu-id="71dff-114">Record employees' absence and view absence statistics by various filters.</span></span> |[<span data-ttu-id="71dff-115">Управление простоем сотрудника</span><span class="sxs-lookup"><span data-stu-id="71dff-115">Manage Employee Absence</span></span>](hr-how-manage-absence.md) |
+| <span data-ttu-id="17180-112">Зарегистрируйте новых сотрудников или измените записи существующих сотрудников, а также вложите связанные сведения, такие как контракты и статьи.</span><span class="sxs-lookup"><span data-stu-id="17180-112">Register new employees or edit records for existing employees, and attach related information, such as contracts and articles.</span></span> |[<span data-ttu-id="17180-113">Регистрация сотрудников</span><span class="sxs-lookup"><span data-stu-id="17180-113">Register Employees</span></span>](hr-how-register-employees.md) |
+| <span data-ttu-id="17180-114">Зарегистрируйте простои сотрудников и просмотрите статистику простоев с помощью различных фильтров.</span><span class="sxs-lookup"><span data-stu-id="17180-114">Record employees' absence and view absence statistics by various filters.</span></span> |[<span data-ttu-id="17180-115">Управление простоем сотрудника</span><span class="sxs-lookup"><span data-stu-id="17180-115">Manage Employee Absence</span></span>](hr-how-manage-absence.md) |
 
-## <a name="see-also"></a><span data-ttu-id="71dff-116">См. также</span><span class="sxs-lookup"><span data-stu-id="71dff-116">See Also</span></span>
-[<span data-ttu-id="71dff-117">Финансы</span><span class="sxs-lookup"><span data-stu-id="71dff-117">Finance</span></span>](finance.md)  
-<span data-ttu-id="71dff-118">[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="71dff-118">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>  
-[<span data-ttu-id="71dff-119">Изменение набора отображаемых функций</span><span class="sxs-lookup"><span data-stu-id="71dff-119">Change Which Features are Displayed</span></span>](ui-experiences.md)        
+## <a name="see-also"></a><span data-ttu-id="17180-116">См. также</span><span class="sxs-lookup"><span data-stu-id="17180-116">See Also</span></span>
+[<span data-ttu-id="17180-117">Финансы</span><span class="sxs-lookup"><span data-stu-id="17180-117">Finance</span></span>](finance.md)  
+<span data-ttu-id="17180-118">[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="17180-118">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>  
+[<span data-ttu-id="17180-119">Изменение набора отображаемых функций</span><span class="sxs-lookup"><span data-stu-id="17180-119">Change Which Features are Displayed</span></span>](ui-experiences.md)        

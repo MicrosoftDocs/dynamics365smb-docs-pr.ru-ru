@@ -227,9 +227,17 @@
 ### [Синхронизация с контактами в Microsoft Outlook](admin-synchronize-outlook-contacts.md)
 ### [Использование Business Central без Outlook](admin-no-outlook.md)
 ## Использование Power BI с Business Central
-### [Включение бизнес-данных для Power BI](admin-powerbi.md)
-### [Просмотр данных в списках в отчетах Power BI в Business Central](across-how-use-powerbi-reports-factbox.md)
-### [Использование Business Central в качестве источника данных Power BI](across-how-use-financials-data-source-powerbi.md)
+### [Введение](admin-powerbi.md)
+### Администратор
+#### [Обзор интеграции](admin-powerbi-overview.md)
+#### [Включение интеграции Power BI](admin-powerbi-setup.md)
+### Конструктор
+#### [Приступая к созданию отчетов](across-how-use-financials-data-source-powerbi.md)
+#### [Создание отчетов для отображения данных списка](across-how-use-powerbi-reports-factbox.md)
+### Потребитель
+#### [Работа с отчетами Power BI в Business Central](across-working-with-powerbi.md)
+#### [Работа с данными Business Central в Power BI](across-working-with-business-central-in-powerbi.md)
+#### [Использование приложений Business Central в Power BI](across-powerbi-business-central-apps.md)
 ## Использование Power Automate с Business Central
 ### [Использование Business Central в автоматическом бизнес-процессе](across-how-use-financials-data-source-flow.md)
 ## Использование Power Apps с Business Central
@@ -424,8 +432,6 @@
 #### [Проверка или применение платежей вручную после автоматического применения](receivables-how-review-apply-payments-auto-application.md)
 #### [Выверка платежей, которые не могут быть применены автоматически](receivables-how-reconcile-payments-cannot-apply-auto.md)
 #### [Сопоставление текста на типовых платежах со счетами для автоматической выверки](receivables-how-map-text-recurring-payments-accounts-auto-reconcilliation.md)
-### [Выверка платежей клиентов из списка неоплаченных документов продажи](receivables-how-reconcile-customer-payments-list-unpaid-sales-documents.md)
-### [Сверка платежей клиентов с журналом кассовых поступлений или из книги операций по клиентам](receivables-how-apply-sales-transactions-manually.md)
 ### [Выверка платежей поставщикам с журналом платежей или из книги операций по поставщикам](payables-how-apply-purchase-transactions-manually.md)
 ### [Сбор непогашенных остатков задолженности](receivables-collect-outstanding-balances.md)
 ### [Сбор платежей с прямым дебетом SEPA](finance-collect-payments-with-sepa-direct-debit.md)
@@ -1170,7 +1176,6 @@
 #### [Создание и экспорт истории платежей](LocalFunctionality/Netherlands/how-to-create-and-export-payment-history.md)
 #### [Импорт и выверка банковских выписок](LocalFunctionality\Netherlands\how-to-import-and-reconcile-bank-statements.md)
 ### Основные финансы
-#### [Главная книга](LocalFunctionality/Netherlands/general-ledger.md)
 #### [Применение и отмена операций главной книги](LocalFunctionality/Netherlands/how-to-apply-and-unapply-general-ledger-entries.md)
 #### [Необходимые описания в операциях главной книги](LocalFunctionality/Netherlands/required-descriptions-in-g-l-entry.md)
 ### Закупки
