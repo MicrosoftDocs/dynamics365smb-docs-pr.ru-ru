@@ -9,13 +9,13 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2020
-ms.author: sgroespe
-ms.openlocfilehash: a73b8eef1aaad9be585e580047d337f04f3527b4
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.author: edupont
+ms.openlocfilehash: db110bd117236fb44cbbd46195b8b1ab8d5d848e
+ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3192583"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "3784338"
 ---
 # <a name="post-service-orders-and-credit-memos"></a>Учет сервисных заказов и кредит-нот
 После создания сервисного заказа, заполнения всей необходимой информации и внесения всех изменений, можно учесть этот сервисный заказ. Чтобы получить возможность учета сервисного заказа, он должен содержать, по меньшей мере, одну строку сервисного товара и одну строку сервиса. Если в заказе содержится несколько сервисных строк, будет выполнен учет всех строк одновременно.  

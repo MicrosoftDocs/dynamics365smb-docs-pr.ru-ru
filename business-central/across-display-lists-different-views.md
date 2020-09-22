@@ -11,13 +11,13 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: personalization
 ms.date: 04/01/2020
-ms.author: sgroespe
-ms.openlocfilehash: 4d97afb002ddce4306ffa7238a4fb362f9e26158
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.author: edupont
+ms.openlocfilehash: cb9c29f6123edc4cad2b5e34381db574fab3685a
+ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3188777"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "3784261"
 ---
 # <a name="displaying-lists-in-different-ways"></a>Отображение списков различными способами
 В правом углу любого списка в [!INCLUDE[d365fin](includes/d365fin_md.md)] находятся значки, позволяющие выбрать способ отображения списка записей. Список может отображаться в виде подробных строк, что идеально подходит для работы с большим количеством полей или редактирования полей в списке. Однако вы также можете переключиться на отображение записей в виде плиток. Это более компактное представление, в котором отображается меньше полей конкретной записи. Это удобно для получения общего представления о нескольких операциях, особенно на небольших устройствах, поскольку плитки компактны и их проще нажимать.

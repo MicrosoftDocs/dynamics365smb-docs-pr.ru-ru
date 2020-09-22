@@ -9,13 +9,13 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2020
-ms.author: sgroespe
-ms.openlocfilehash: e656cf8ccf9c87187cb2b6e7bba858216cf9b413
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.author: edupont
+ms.openlocfilehash: 821130831015d18e73557eb157241bc3415b97ac
+ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3190519"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "3785500"
 ---
 # <a name="batch-post-production-consumption"></a>Учет потребления для производства в пакетном режиме
 Если выбран метод списания **Вручную**, учет компонентов производится вручную с использованием журнала потребления.

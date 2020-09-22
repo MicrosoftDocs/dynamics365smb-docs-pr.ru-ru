@@ -9,13 +9,13 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/03/2020
-ms.author: sgroespe
-ms.openlocfilehash: f3af601f0de00445a42c88bb47053084b05fc14b
-ms.sourcegitcommit: 8a4e66f7fc8f9ef8bdf34595e0d3983df4749376
+ms.author: edupont
+ms.openlocfilehash: 1ad2eb6d2e9a423aa1891eb52f71e815f4b89eff
+ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "3262146"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "3785450"
 ---
 # <a name="entering-data"></a>Ввод данных
 
@@ -160,7 +160,7 @@ When working on multiple tasks at a time or when managing interruptions to the c
 
 > [!NOTE]
 > Если вы работаете в браузере Safari, блокировка всплывающих окон может привести к тому, что новое окно не откроется. В этом случае укажите URL-адрес продукта в качестве разрешенного веб-сайта. Дополнительные сведения см. в разделе [Изменение предпочтений в Safari](https://go.microsoft.com/fwlink/?LinkId=2102965).<br /><br />
-> То же самое может случиться в других браузерах, таких как Firefox. Для получения дополнительной информации см. [Настройки блокировщика всплывающих окон в Firefox](https://go.microsoft.com/fwlink/?LinkId=2116400).  
+> То же самое может случиться в других браузерах, таких как Firefox. Дополнительные сведения см. в разделе [Настройки блокировщика всплывающих окон в Firefox](https://go.microsoft.com/fwlink/?LinkId=2116400).  
 
 Еще один способ многозадачности заключается в том, чтобы открыть [!INCLUDE[d365fin](includes/d365fin_md.md)] на двух или более вкладках браузера. В этом случае вы должны создать новую вкладку, а затем скопировать и вставить URL-адрес исходной вкладки в новую вкладку. Это создает новый сеанс.   
 

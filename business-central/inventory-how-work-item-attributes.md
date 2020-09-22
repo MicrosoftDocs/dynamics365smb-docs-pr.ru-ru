@@ -9,13 +9,13 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: categories, search words, facets
 ms.date: 04/01/2020
-ms.author: sgroespe
-ms.openlocfilehash: 5c927a5d182cf2e33620496ea07cbc599d7537e3
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.author: edupont
+ms.openlocfilehash: 1ca5b5632093205423654c78feeaffa86104c819
+ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3181896"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "3786325"
 ---
 # <a name="work-with-item-attributes"></a>Работа с атрибутами товаров
 Когда клиенты интересуются товаром, с помощью личного обращения или в интегрированном интернет-магазине, они могут осуществлять запрос или поиск по определенным характеристикам, например по высоте или модельному году. Чтобы предоставить такую услугу, вы можете назначить товарам атрибуты различных типов, которые можно использовать при поиске товаров.

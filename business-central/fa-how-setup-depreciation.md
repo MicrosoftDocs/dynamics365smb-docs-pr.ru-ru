@@ -9,13 +9,13 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: write down
 ms.date: 04/01/2020
-ms.author: sgroespe
-ms.openlocfilehash: 4567bdc42cc7ef9434957d77b2675db78a7fd6f2
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.author: edupont
+ms.openlocfilehash: 4a54ed9896c6d9921d13f2a4c9c43ed1ba5b7eea
+ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3184320"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "3784663"
 ---
 # <a name="set-up-fixed-asset-depreciation"></a>Настройка амортизации основных средств
  Можно использовать различные методы амортизации для подготовки финансовых отчетов и возвратов налога на доходы. Многие крупные корпорации используют линейную амортизацию в финансовых отчетах, поскольку это обычно позволяет показывать в отчетах более высокие прибыли. Однако для целей подоходного налога многие предприятия используют метод ускоренной амортизации, такой как амортизация по методу уменьшаемого остатка. Вы определяете метод амортизации актива с помощью поля **Метод амортизации** на странице **Карточка основного средства**. Для получения дополнительной информации о том, как работают различные методы, см. [Методы амортизации](fa-depreciation-methods.md).

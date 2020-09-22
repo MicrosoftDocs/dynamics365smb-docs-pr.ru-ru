@@ -9,13 +9,13 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: components, service item, service
 ms.date: 04/01/2020
-ms.author: sgroespe
-ms.openlocfilehash: 2f6d9b02e3364d34339ea7176c08fdff7de5eb90
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.author: edupont
+ms.openlocfilehash: 5cddd49089202e83ffbc2f6062c5c69067157df8
+ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3195079"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "3784513"
 ---
 # <a name="set-up-service-offerings"></a>Настройка сервисных предложений
 При настройке сервисного управления необходимо выбрать виды сервиса, которые будут предлагаться клиентам и составить их график. Сервис представляет собой тип работы, выполняемой с использованием одного или нескольких ресурсов, результаты которой предоставляются клиенту. Сервисом, например, может быть ремонт компьютера. Сервисным товаром может быть обслуживаемое оборудование или товар, например, требующий ремонта компьютер, установленный у конкретного пользователя. Любой сервис можно настроить как часть группы смежных услуг по ремонту или обслуживанию.  

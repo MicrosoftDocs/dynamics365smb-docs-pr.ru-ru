@@ -9,13 +9,13 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2020
-ms.author: sgroespe
-ms.openlocfilehash: 466736905815efb0b013a66fd05854769da24be5
-ms.sourcegitcommit: 7d54d8abe52e0546378cf760f5082f46e8441b90
+ms.author: edupont
+ms.openlocfilehash: 721b980f8c52e07356fe47bc69aaec90c7fc185f
+ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2020
-ms.locfileid: "3324010"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "3784925"
 ---
 # <a name="enable-picking-items-by-fefo"></a>Включение подбора товаров по методу FEFO
 FEFO (First-Expired-First-Out) — это метод сортировки, который обеспечивает, чтобы наиболее старые товары (с наиболее ранними датами истечения срока) подбирались первыми.  
