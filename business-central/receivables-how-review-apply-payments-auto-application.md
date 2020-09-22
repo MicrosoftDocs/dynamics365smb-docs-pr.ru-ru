@@ -9,13 +9,13 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: payment process, reconcile payment, expenses, cash receipts
 ms.date: 04/01/2020
-ms.author: sgroespe
-ms.openlocfilehash: e37d9ab5aae53ef0e6af6e04a0d94077569e62a3
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.author: edupont
+ms.openlocfilehash: d4bdd6970ac32b67af486863e0c5a1ae34ef47ed
+ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3191959"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "3782778"
 ---
 # <a name="review-or-apply-payments-manually-after-automatic-application"></a>Проверка или применение платежей вручную после автоматического применения
 Для каждой строки журнала, представляющей платеж, на странице **Журнал выверки платежей** можно открыть страницу **Применение платежа**, чтобы просмотреть все открытые операции кандидатов для платежа и подробные сведения о сопоставлении данных, на котором основано применение платежа, для каждой операции. Здесь можно вручную применить платежи или повторно применить платежи, которые были применены автоматически к неверной операции. Дополнительные сведения об автоматическом применении см. в разделе [Выверка платежей с использованием автоматического применения](receivables-how-reconcile-payments-auto-application.md).

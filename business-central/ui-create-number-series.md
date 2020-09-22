@@ -10,13 +10,13 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: numbers, numbering
 ms.date: 04/01/2020
-ms.author: sgroespe
-ms.openlocfilehash: c695c595e8fa78de48aba2e96852c2aead2b489c
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.author: edupont
+ms.openlocfilehash: c974f2289e792844c762e7ea0c52979f6adb2967
+ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3194551"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "3782422"
 ---
 # <a name="create-number-series"></a>Создание серий номеров
 В каждой настраиваемой организации таким объектам, как счета главной книги, клиентов и поставщиков, счета и другие документы, следует присвоить уникальные идентификационные коды. Нумерация необходима не только для идентификации. Хорошо продуманная система нумерации позволяет повысить управляемость организации, упростить анализ и сократить количество ошибок, возникающих при вводе данных.

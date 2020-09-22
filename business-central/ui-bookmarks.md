@@ -9,13 +9,13 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2020
-ms.author: sgroespe
-ms.openlocfilehash: 5d70097cb570217cd4a7be0538474252c31ef46e
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.author: edupont
+ms.openlocfilehash: bb6c3762d9b6ec587cea6915cf292a6bb57e25fd
+ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3194647"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "3782497"
 ---
 # <a name="bookmark-a-page-or-report-on-your-role-center"></a>Добавление закладки на страницу или отчет в ролевом центре
 С помощью нового значка закладки вы можете добавить действие, которое открывает страницу или отчет из меню навигации ролевого центра. Это позволяет быстро открывать нужный контент или бизнес-задачи. Закладка добавляется с целевой страницы или отчета, т. е. с экрана, который должна открывать ссылка в ролевом центре.
