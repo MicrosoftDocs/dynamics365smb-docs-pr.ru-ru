@@ -8,13 +8,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.date: 06/19/2020
-ms.author: sgroespe
-ms.openlocfilehash: 0f8cc20f9f5f9afcd3db5fbeb3dc6d12ad8d6cad
-ms.sourcegitcommit: 6200a08e91d507bab01d1d5b805fe8ea3f44a58a
+ms.author: edupont
+ms.openlocfilehash: f948451001c2e280ea52f92d5d3b58eca6222687
+ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/22/2020
-ms.locfileid: "3496728"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "3789304"
 ---
 # <a name="working-with-d365fin"></a>Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]
 При выполнении бизнес-задач приходится производить разнообразные действия с данными, например создавать записи и вводить данные, сортировать и фильтровать данные, создавать заметки и выводить данные в другие приложения.
@@ -65,7 +65,7 @@ ms.locfileid: "3496728"
 
 - По возможности избегайте старых браузеров, таких как Internet Explorer, и переходите на один из рекомендуемых нами современных браузеров, например [новый Microsoft Edge](https://www.microsoft.com/edge/).  
 
-    Internet Explorer все еще поддерживается, но так как теперь новый браузер Edge доступен для Windows Server, мы видим снижение уровня использования Internet Explorer. Вы также можете получить [пилотную версию Edge в режиме IE](https://www.microsoft.com/edge/business). Дополнительные сведения см. в [документации по Microsoft Edge](https://support.microsoft.com/hub/4337664/microsoft-edge-help).
+    Internet Explorer все еще поддерживается, но так как теперь новый браузер Microsoft Edge доступен для Windows Server, мы видим снижение уровня использования Internet Explorer. Вы также можете получить [пилотную версию Microsoft Edge в режиме IE](https://www.microsoft.com/edge/business). Дополнительные сведения см. в [документации по Microsoft Edge](https://support.microsoft.com/hub/4337664/microsoft-edge-help).
 - Держите ваш браузер всегда обновленным до последней версии.
 
 ## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/work-pro-data-dynamics-365-business-central/)
