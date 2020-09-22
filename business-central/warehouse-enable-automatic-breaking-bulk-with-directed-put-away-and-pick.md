@@ -9,13 +9,13 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2020
-ms.author: sgroespe
-ms.openlocfilehash: 9d2e0c1b065cfb96c27bc7f76ab3168e927e3705
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.author: edupont
+ms.openlocfilehash: a4787127b6d429ed226e183b3582151a30dfb0ca
+ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3193327"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "3786625"
 ---
 # <a name="enable-automatic-breaking-bulk-with-directed-put-away-and-pick"></a>Разрешение автоматической разбивки с расширенным подбором и размещением
 Для складов, использующих расширенный подбор и размещение, [!INCLUDE[d365fin](includes/d365fin_md.md)] в различных ситуациях осуществляет разбивку автоматически, т. е. при создании складских инструкций, удовлетворяющих требованиям документов-источников, производственных заказов или внутренних подборов и размещений преобразует крупные единицы измерения в более мелкие. Разбивка иногда также означает сбор более мелких единиц измерения при необходимости удовлетворить исходящие запросы, разбивая крупные единицы измерения в документе-источнике или производственном заказе на более мелкие единицы, существующие на складе.   

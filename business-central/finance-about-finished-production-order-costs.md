@@ -6,13 +6,13 @@ ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: ''
 ms.date: 04/01/2020
-ms.author: sgroespe
-ms.openlocfilehash: b33c0aae12374722a3ef5c73db50bbf53a35f39c
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.author: edupont
+ms.openlocfilehash: 2f84ca5cf44dcbab1c85b24a8e00f674b115918a
+ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3184128"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "3788500"
 ---
 # <a name="about-finished-production-order-costs"></a>О затратах на завершенные производственные заказы
 Завершение производственного заказа - это важная задача в выполнении жизненного цикла изготавливаемого товара. Окончательные издержки, включая отклонения в среде стандартной себестоимости, фактические данные в среде себестоимости FIFO, средней себестоимости или себестоимости LIFO, вычисляются с помощью пакетного задания **Коррекция себест. запасов**, которое допускает финансовую выверку себестоимости производства товара. Чтобы производственный заказ считался заказом, подлежащим коррекции себестоимости, его статус должен быть **Завершен**. Поэтому очень важно, чтобы при завершении статус производственного заказа менялся на **Завершен**.  

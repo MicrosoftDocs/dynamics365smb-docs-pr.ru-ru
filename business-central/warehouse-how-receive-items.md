@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 07/07/2020
-ms.author: sgroespe
-ms.openlocfilehash: 99aab6de06cd50d53b977ed37a863cad28fab8fa
-ms.sourcegitcommit: 8b2f02dd5189c46ecff33c07223ed62b36842d34
+ms.date: 08/18/2020
+ms.author: edupont
+ms.openlocfilehash: 038ecb0122e58cfdca3ff62ac93554fab01dcdb6
+ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2020
-ms.locfileid: "3542671"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "3786600"
 ---
 # <a name="receive-items"></a>Приемка товаров
 
@@ -33,6 +33,7 @@ ms.locfileid: "3542671"
 
   > [!NOTE]
   > Если полученное количество превышает заказанное в заказе на покупку, в соответствии с полем **Количество**, и поставщик был настроен для разрешения получения перепоставки, то вы используете поле **Переприход** для обработки избыточного количества. Для получения дополнительной информации см. раздел [Получение большего количества товаров, чем заказано](warehouse-how-receive-items.md#to-receive-more-items-than-ordered).
+
 4. Выберите действие **Учет**.
 
   Значение в поле **Полученное кол-во** обновляется соответствующим образом. Если это частичная приемка, то это значение меньше значения в поле **Количество**.
