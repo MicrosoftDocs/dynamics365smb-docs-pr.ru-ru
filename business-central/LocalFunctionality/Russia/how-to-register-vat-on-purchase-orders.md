@@ -5,15 +5,15 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: d3b6071c9cebdb49ed3284aa5f3e371c092f2fc6
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: 377bef12826f460949985059dfbe44f7200a7288
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3180948"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3921218"
 ---
 # <a name="register-vat-on-purchase-orders"></a>Регистрация НДС по заказам на покупку
 

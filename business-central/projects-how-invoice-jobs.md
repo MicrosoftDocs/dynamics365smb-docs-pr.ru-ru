@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: project invoice
-ms.date: 05/25/2020
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 66e5dd52eb01e8a396156d0c646a43916fdc0021
-ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
+ms.openlocfilehash: effed84c3f0d4c625192ac4d41dc2d9edf97c663
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "3783961"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3921446"
 ---
 # <a name="invoice-jobs"></a>Выставление счетов за работы
 Во время проекта могут накапливаться затраты на выполнение работы из-за потребления ресурсов, материалов и связанных с работой покупок. В ходе выполнения работы, эти транзакции учитываются в журнале работ. Важно, чтобы перед выставлением счета клиенту в журнал работ были занесены все затраты.

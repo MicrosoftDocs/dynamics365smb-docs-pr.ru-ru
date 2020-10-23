@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 5b44648e169d9692e0124c79d170eab1fa9087a1
-ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
+ms.openlocfilehash: 03ad2bea6ed87b5f27bea9210a03c8760c87ffcf
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "3784463"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3910159"
 ---
 # <a name="set-up-work-hours-and-service-hours"></a>Настройка рабочих часов и часов работы сервиса
 Как правило, система сервисного управления отслеживает время использования ресурсов и статус сервисных заказов с целью прогнозирования рабочих нагрузок и потребностей в сервисе. В [!INCLUDE[d365fin](includes/d365fin_md.md)] предусмотрены встроенные средства, которые можно настроить индивидуально для записи такого рода информации.  

@@ -5,15 +5,15 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 5ca71b2a48ed608dbf4f14a0ab311f6a792043d1
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: 2c3b8151598865eac1a3405322e688a1e4df3ab8
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3180998"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3921314"
 ---
 # <a name="currency-information-import-currency-rates"></a>Информация о валюте, импорт курсов валют
 

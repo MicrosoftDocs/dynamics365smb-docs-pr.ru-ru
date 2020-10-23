@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: e5c0d21352fc46be44abd20ff7e016aa6847ed6b
-ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
+ms.openlocfilehash: f1cf5b1a865ea468e96f5b8e174ffeccfeb61022
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "3787225"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3910939"
 ---
 # <a name="design-details-rounding"></a>Сведения о проектировании: округление
 Округление остатков может быть выполнено при переоценке себестоимости расхода склада, измеренного при количестве, отличном от соответствующего прихода склада. Округление остатков рассчитываются для всех методов учета себестоимости при выполнении пакетного задания **Коррекция себест. запасов**.  

@@ -9,14 +9,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: product, image
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: acd08841a8fe26be7fcc3442a8453af4e0108c36
-ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
+ms.openlocfilehash: 4da0f30f47827515f8591802ce2ca49c245009ab
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "3782097"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3922898"
 ---
 # <a name="import-multiple-item-pictures"></a>Импорт нескольких изображений товаров
 Можно импортировать несколько изображений товаров за один раз. Просто присвойте файлам изображений имена, соответствующие номера ваших товаров, упакуйте из в ZIP-файл, затем с помощью страницы **Импорт изображений товаров** управляйте тем, какие изображения товаров следует импортировать.

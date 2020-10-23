@@ -5,15 +5,15 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: d2d43cc9a68b2ad63f94d51f28a3e5d5efd3b735
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: 435a4359dbfd59086f1bb3c043e6e3a41df07a35
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3180990"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3921294"
 ---
 # <a name="posting-vendor-and-customer-prepayments"></a>Учет предоплаты поставщиков и клиентов
 

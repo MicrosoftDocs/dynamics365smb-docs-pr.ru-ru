@@ -9,14 +9,14 @@ ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.author: jswymer
-ms.openlocfilehash: b45fe3d89502e5a4e42bc43cc4679afe1b13699d
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: b270a7b1f9ffda71d68fa981885aacbe31f55eab
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3191695"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3923124"
 ---
 # <a name="using-pre-closing-reports"></a>Использование отчетов по предварительному закрытию
 Существует множество стандартных отчетов, которые можно использовать для проверки правильности счетов перед закрытием книг в конце года или периода. Например, можно использовать отчет **Клиент - пробный баланс** для проверки соответствия сальдо для учетной группы клиентов сальдо соответствующего счета главной книги на определенную дату.

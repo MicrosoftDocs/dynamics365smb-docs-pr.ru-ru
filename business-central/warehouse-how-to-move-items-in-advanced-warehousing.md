@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 4b6e9c03e93f055ccdc4066df56db5d53027852a
-ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
+ms.openlocfilehash: 6251b995d81f9452188fb40e9ac7e9ec6ba234d5
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "3779565"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3911825"
 ---
 # <a name="move-items-in-advanced-warehouse-configurations"></a>Перемещение товаров в расширенных конфигурациях склада
 В расширенных настройках складов, в которых используются расширенный подбор и размещение, складские перемещения между ячейками выполняются мастером склада, который подготавливает перемещения в журнале передвижений, а затем создает складские передвижения, которые должны выполнить сотрудники склада.  

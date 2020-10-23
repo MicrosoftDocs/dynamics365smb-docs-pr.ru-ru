@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 485948849f2ebc1d7d290e19d61fd36692ba8319
-ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
+ms.openlocfilehash: 0f356ec93a678b3cb370c5bc42a91d8440344f7f
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "3781589"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3916880"
 ---
 # <a name="managing-inventory-costs"></a>Управление себестоимостью товаров
 Процесс управления затратами, который также называют учетом себестоимости, связан с записью и отчетностью по текущим бизнес-расходам. Он включает в себя отчетность по себестоимости производства и запасов, то есть, по себестоимости товаров.   

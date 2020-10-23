@@ -7,14 +7,14 @@ ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.date: 06/19/2020
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: f948451001c2e280ea52f92d5d3b58eca6222687
-ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
+ms.openlocfilehash: 7f4a82722108a3e647a2ff2744deea8774372f0c
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "3789304"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3920401"
 ---
 # <a name="working-with-d365fin"></a>Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]
 При выполнении бизнес-задач приходится производить разнообразные действия с данными, например создавать записи и вводить данные, сортировать и фильтровать данные, создавать заметки и выводить данные в другие приложения.

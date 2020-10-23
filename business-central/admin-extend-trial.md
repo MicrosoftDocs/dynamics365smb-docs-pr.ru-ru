@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 07/01/2020
+ms.date: 10/01/2020
 ms.author: bholtorf
-ms.openlocfilehash: 78993c655ff4912e212588269f897a39e8441924
-ms.sourcegitcommit: f9aec4a72172d9270e14e2938c5550d69508f1aa
+ms.openlocfilehash: 0af6881b98aae103a6d37ce16b06dfb316c4a9f0
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/02/2020
-ms.locfileid: "3532623"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3911534"
 ---
 # <a name="need-more-time-to-decide-whether-to-subscribe"></a>Нужно больше времени на принятие решения о подписке?
 
@@ -29,7 +29,7 @@ ms.locfileid: "3532623"
 
     войдите в систему с учетной записью электронной почты, которую вы использовали при регистрации в пробной версии.  
 
-    Если вы зарегистрировались с учетной записью электронной почты от [30-дневной пробной версии Office 365](/microsoft-365/commerce/sign-up-for-office-365-trial), тогда вы должны сначала продлить пробную версию Office 365 или купить подписку на Office 365. Дополнительные сведения см. в разделе [Продление пробной версии на Office 365 для бизнеса](/microsoft-365/commerce/extend-your-trial).
+    Если вы зарегистрировались с учетной записью электронной почты от [30-дневной пробной версии Microsoft 365](/microsoft-365/commerce/sign-up-for-office-365-trial), тогда вы должны сначала продлить пробную версию Microsoft 365 или купить подписку на Microsoft 365. Дополнительные сведения см. в разделе [Продление пробной версии на Microsoft 365 для бизнеса](/microsoft-365/commerce/extend-your-trial).
 2. В уведомлении, которое отображается поверх рабочей области, выберите **Продлить пробный период**.
 
     Если вы проигнорировали уведомление, необходимо выйти из системы и снова войти в нее.

@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 3f2ebded26fcd0cff53a0955f1e8576785d7c888
-ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
+ms.openlocfilehash: 772463e291403bac66ea08089f993909616f1b76
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "3785575"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3920301"
 ---
 # <a name="set-up-locations-to-use-bins"></a>Настройка складов для использования ячеек
 Ячейки являются базовой складской структурой и используются для формирования предложений по размещению товаров. После создания ячеек можно четко определить содержимое для помещения в каждую ячейку; ячейка может также функционировать в качестве плавающей ячейки без определенного содержимого.  

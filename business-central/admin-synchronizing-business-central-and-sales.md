@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: sales, crm, integration, sync, synchronize
-ms.date: 07/23/2020
+ms.date: 10/01/2020
 ms.author: bholtorf
-ms.openlocfilehash: 2c7b7c4175f4c17e01c114f76d0b14834e0409ae
-ms.sourcegitcommit: 7b5c927ea9a59329daf1b60633b8290b552d6531
+ms.openlocfilehash: 9d3f4e86a0da5c26a84ca79b1712f2f240e347a2
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "3617708"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3922446"
 ---
 # <a name="synchronizing-data-in-business-central-with-common-data-service"></a>Синхронизация данных в Business Central с Common Data Service
 
@@ -42,6 +42,9 @@ ms.locfileid: "3617708"
 Объекты в [!INCLUDE[d365fin](includes/cds_long_md.md)], например организации, интегрируются с эквивалентными типами объектов в [!INCLUDE[d365fin](includes/d365fin_md.md)], например клиенты. Для работы с данными [!INCLUDE[d365fin](includes/cds_long_md.md)] нужно настроить ссылки, называемые связываниями, между объектами в [!INCLUDE[d365fin](includes/cds_long_md.md)] и [!INCLUDE[d365fin](includes/d365fin_md.md)].
 
 В следующей таблице перечислено стандартное соответствие между объектами в [!INCLUDE[d365fin](includes/d365fin_md.md)] и [!INCLUDE[d365fin](includes/cds_long_md.md)], которое предоставляет [!INCLUDE[d365fin](includes/d365fin_md.md)].
+
+> [!TIP]
+> Вы можете сбросить изменения конфигурации, внесенные в таблицу интеграции и сопоставления полей, до значений по умолчанию, выбрав сопоставления, а затем выбрав **Использовать настройку синхронизации по умолчанию**.
 
 | [!INCLUDE[d365fin](includes/d365fin_md.md)] | [!INCLUDE[d365fin](includes/cds_long_md.md)] | Направление синхронизации | Фильтр по умолчанию |
 |---------------------------------------------|----------------------------------------------|---------------------------|----------------|

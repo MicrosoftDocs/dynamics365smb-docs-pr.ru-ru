@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 07/24/2020
+ms.date: 10/01/2020
 ms.author: bholtorf
-ms.openlocfilehash: 10a257b60aedfb22066148fd48145779cd6d4a62
-ms.sourcegitcommit: ac492bff0c87bf2a23fa93113e7571da9d5094c7
+ms.openlocfilehash: 51f04f690483fd5b0c3f093ac5f8e2694ca3fdd9
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2020
-ms.locfileid: "3701996"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3924632"
 ---
 # <a name="connect-to-common-data-service"></a>Подключение к Common Data Service
 
@@ -34,7 +34,7 @@ ms.locfileid: "3701996"
 
 ## <a name="set-up-a-connection-to-cds_long_md"></a>Настройка подключения к [!INCLUDE[cds_long_md](includes/cds_long_md.md)]
 
-Для всех типов проверки подлинности, отличных от проверки подлинности Office 365, вы настраиваете подключение к [!INCLUDE[cds_long_md](includes/cds_long_md.md)] на странице **Настройка подключения к CDS**. Для аутентификации Office 365 рекомендуется использовать мастер настройки **Настройка подключения Common Data Service**. Этот мастер позволяет проще настроить подключение и указать расширенные функции, такие как модель ответственности и начальной синхронизации.  
+Для всех типов проверки подлинности, отличных от проверки подлинности Microsoft 365, вы настраиваете подключение к [!INCLUDE[cds_long_md](includes/cds_long_md.md)] на странице **Настройка подключения к CDS**. Для аутентификации Microsoft 365 рекомендуется использовать мастер настройки **Настройка подключения Common Data Service**. Этот мастер позволяет проще настроить подключение и указать расширенные функции, такие как модель ответственности и начальной синхронизации.  
 
 > [!IMPORTANT]
 > Во время настройки подключения к [!INCLUDE[cds_long_md](includes/cds_long_md.md)] администратору будет предложено предоставить следующие разрешения зарегистрированному приложению Azure с именем Интеграция [!INCLUDE[d365fin](includes/d365fin_md.md)] в [!INCLUDE[cds_long_md](includes/cds_long_md.md)]:
@@ -70,7 +70,7 @@ ms.locfileid: "3701996"
 
     |Поле|Описание|
     |-----|-----|
-    |**Пользователи [!INCLUDE[d365fin](includes/d365fin_md.md)] должны сопоставляться пользователям CDS**|Если вы используете модель владения человеком, укажите, должны ли учетные записи пользователей [!INCLUDE[d365fin](includes/d365fin_md.md)] иметь соответствующие учетные записи пользователей в [!INCLUDE[cds_long_md](includes/cds_long_md.md)]. **Адрес проверки подлинности Office 365** пользователя [!INCLUDE[d365fin](includes/d365fin_md.md)] должен быть тем же, что и **Основной адрес электронной почты** пользователя [!INCLUDE[crm_md](includes/crm_md.md)].<br /><br /> Если задано **Да**,пользователи [!INCLUDE[d365fin](includes/d365fin_md.md)] без совпадающей учетной записи пользователя [!INCLUDE[crm_md](includes/crm_md.md)] не будут обладать возможностями интеграции [!INCLUDE[d365fin](includes/d365fin_md.md)] в пользовательском интерфейсе. Доступ к данным [!INCLUDE[crm_md](includes/crm_md.md)] непосредственно из [!INCLUDE[d365fin](includes/d365fin_md.md)] выполняется от имени учетной записи пользователя [!INCLUDE[crm_md](includes/crm_md.md)].<br /><br /> Если задано **Нет**, все пользователи [!INCLUDE[d365fin](includes/d365fin_md.md)] будут обладать возможностями интеграции [!INCLUDE[crm_md](includes/crm_md.md)] в пользовательском интерфейсе. Доступ к данным [!INCLUDE[crm_md](includes/crm_md.md)] выполняется от имени пользователя подключения (интеграции) [!INCLUDE[crm_md](includes/crm_md.md)].|
+    |**Пользователи [!INCLUDE[d365fin](includes/d365fin_md.md)] должны сопоставляться пользователям CDS**|Если вы используете модель владения человеком, укажите, должны ли учетные записи пользователей [!INCLUDE[d365fin](includes/d365fin_md.md)] иметь соответствующие учетные записи пользователей в [!INCLUDE[cds_long_md](includes/cds_long_md.md)]. **Адрес электронной почты для проверки подлинности Microsoft 365** пользователя [!INCLUDE[d365fin](includes/d365fin_md.md)] должен быть тем же, что и **Основной адрес электронной почты** пользователя [!INCLUDE[crm_md](includes/crm_md.md)].<br /><br /> Если задано **Да**,пользователи [!INCLUDE[d365fin](includes/d365fin_md.md)] без совпадающей учетной записи пользователя [!INCLUDE[crm_md](includes/crm_md.md)] не будут обладать возможностями интеграции [!INCLUDE[d365fin](includes/d365fin_md.md)] в пользовательском интерфейсе. Доступ к данным [!INCLUDE[crm_md](includes/crm_md.md)] непосредственно из [!INCLUDE[d365fin](includes/d365fin_md.md)] выполняется от имени учетной записи пользователя [!INCLUDE[crm_md](includes/crm_md.md)].<br /><br /> Если задано **Нет**, все пользователи [!INCLUDE[d365fin](includes/d365fin_md.md)] будут обладать возможностями интеграции [!INCLUDE[crm_md](includes/crm_md.md)] в пользовательском интерфейсе. Доступ к данным [!INCLUDE[crm_md](includes/crm_md.md)] выполняется от имени пользователя подключения (интеграции) [!INCLUDE[crm_md](includes/crm_md.md)].|
     |**Текущий менеджер по продажам Business Central сопоставлен с пользователем**|Указывает, сопоставлена ли учетная запись пользователя учетной записи в [!INCLUDE[crm_md](includes/crm_md.md)] <!--double check the name of this field-->|
 
 4. Для тестирования настроек подключения выберите **Подключение**, затем **Проверить подключение**.  

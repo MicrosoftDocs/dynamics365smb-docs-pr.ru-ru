@@ -5,15 +5,15 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: e40f68183801e57555cd26664b6b1f30f82ebd4e
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: 5b6164b78953e14c9a2460237755e1fec3fa5cf8
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3180968"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3921250"
 ---
 # <a name="create-a-credit-memo-for-a-fixed-asset-charge"></a>Создание кредит-ноты для издержек ОС
 

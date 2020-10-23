@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: relationship, prospect
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.author: jswymer
-ms.openlocfilehash: 2f4115e62b1350fe55019aca94cb1d8beb6d93ae
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: 5782a49732550d6f8ffc516634a4b45ec7e22e6d
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3181296"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3923574"
 ---
 # <a name="managing-segments"></a>Управление сегментами
 Вы создаете сегменты для выбора группы контактов по определенному критерию. Например, сегментом может быть отрасль, к которой принадлежат контакты, или деловые отношения с ними. Можно создать сегмент для выбора контактов, которым будет адресована кампания.

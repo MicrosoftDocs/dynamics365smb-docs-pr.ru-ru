@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: accounting, auditing, bookkeeping
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 8b277c8363ec831a803081898ca6bea591140bac
-ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
+ms.openlocfilehash: 45f32a9f5bbdc13148483b689b5793038c675649
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "3779215"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3923013"
 ---
 # <a name="setting-up-finance"></a>Настройка финансов
 Прежде чем вы сможете начать свой бизнес, вы должны указать правила и настройки по умолчанию для управления финансовыми процессами в этой компании. Начните с настройки основы учетных записей организации — плана счетов. Затем настраиваются учетные группы, что позволяет сделать более эффективным процесс назначения используемых по умолчанию учетных счетов главной книги клиентам, поставщикам и товарам.
@@ -48,6 +48,9 @@ ms.locfileid: "3779215"
 | Настройка отчетности Интрастат и отправка отчета в уполномоченные органы | [Настройка и подача отчетности Интрастат](finance-how-setup-report-intrastat.md)|
 |Убедитесь, что выделена операция в финансовом журнале по нескольким различным счетам при учете в журнале, по количеству, проценту или сумме.|[Использование ключей распределения в финансовых журналах](ui-how-use-allocation-keys-general-journals.md)|
 |Настройка кодов источников и коды причин, которые можно использовать при отслеживании журналов аудита|[Настройка кодов источников и кодов причин для журналов аудита](finance-setup-trail-codes.md)|
+
+> [!TIP]
+> В зависимости от вашего географического положения некоторые страницы могут содержать поля, которые не описаны в перечисленных здесь статьях, поскольку они применяются к локальным функциям или настройкам. [!INCLUDE [tooltip-inline-tip_md](includes/tooltip-inline-tip_md.md)]
 
 ## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/set-up-financial-management-dynamics-365-business-central/)
 

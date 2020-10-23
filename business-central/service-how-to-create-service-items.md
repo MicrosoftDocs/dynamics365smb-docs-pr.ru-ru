@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 22eee9eacbbc3589c41aa70e7619e2097b51aa73
-ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
+ms.openlocfilehash: 27ebf5dbd8081c39b4d3b4671e00d49869c7bed3
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "3784387"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3925676"
 ---
 # <a name="create-service-items"></a>Создание сервисных товаров
 В [!INCLUDE[d365fin](includes/d365fin_md.md)] под термином "сервисный товар" понимается оборудование или товары, требующие обслуживания. При создании сервисного заказа вы указываете товар, который требует обслуживания. В заказе можно связать сервисный товар с товаром на складе или группой сервисных товаров.    

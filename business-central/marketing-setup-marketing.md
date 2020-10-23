@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: relationship, prospect, client, customer, campaign, promo
-ms.date: 06/30/2020
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 976d2ec94ba895894323b3021d51811abff88cef
-ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
+ms.openlocfilehash: 7d1b9a1af6edde26e9c966bb25bc6d237a510d00
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "3781514"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3921696"
 ---
 # <a name="setting-up-relationship-management"></a>Настройка управления отношениями
 
@@ -47,7 +47,7 @@ ms.locfileid: "3781514"
 ## <a name="synchronizing-contacts-with-customers-and-more"></a>Синхронизация контактов с клиентами и т. д.
 Для того, чтобы синхронизировать карточку контакта с карточкой клиента, следует ввести код бизнес отношения для клиентов, поставщиков и банковских счетов. Например, связать контакт с существующим клиентом можно, только если на странице **Настройка модуля Маркетинг** выбран код бизнес отношения для клиентов.
 
-Дополнительные сведения см. в разделе [Синхронизация контактов с клиентами, поставщиками и банковскими счетами](marketing-create-contact-companies.md#synchronizing-contacts-with-customers-vendors-and-bank-accounts).  
+Дополнительные сведения см. в разделе [Синхронизация контактов с клиентами, поставщиками и банковскими счетами](marketing-create-contact-companies.md#synchronizing-contacts-with-customers-vendors-employees-and-bank-accounts).  
 
 ## <a name="assigning-a-number-series-to-contacts-and-opportunities"></a>Назначение серий номеров контактам и возможностям
 Можно настроить серии номеров для нумерации контактов и возможностей. Если настроены серии номеров для контактов, то при создании контакта и нажатии клавиши ВВОД в поле "Номер" в карточке контакта приложение автоматически вводит следующий свободный номер контакта.

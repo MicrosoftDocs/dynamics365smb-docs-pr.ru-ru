@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: sales rep
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 210039a593315a5bb1feecdb1a777d5d9710b285
-ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
+ms.openlocfilehash: 1b0c74145034d71445bde5ae9374029eb9895107
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "3780789"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3925976"
 ---
 # <a name="set-up-salespeople"></a>Настройка менеджеров по продажам
 Во многих организациях в качестве основания для расчета комиссионных от продажи или премии предпочитают учитывать вклад конкретного сотрудника. См., например, отчет **Комиссионные менеджера по продажам**. Кроме этого, организации может понадобиться каждому из своих контактов приписать некоторого менеджера.

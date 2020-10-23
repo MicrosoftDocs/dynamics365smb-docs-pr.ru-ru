@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: undo, credit memo, return
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 947bc883994d82cfb25f7d757d501d95e722916a
-ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
+ms.openlocfilehash: cab1663aa1e584780f7544f0bd9b61c9038b5922
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "3780914"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3926120"
 ---
 # <a name="process-sales-returns-or-cancellations"></a>Обработка возвратов продажи или отмен
 Если клиент желает вернуть товары или получить возмещение за товары или услуги, которые вы ему продали и получили оплату, необходимо создать и учесть кредит-ноту продажи, определяющую требуемое изменение. Для включения правильных сведений счета продажи можно создать кредит-ноту продажи непосредственно из учтенного счета на продажу или создать новую кредит-ноту продажи со скопированными данными счета.
@@ -216,13 +216,15 @@ ms.locfileid: "3780914"
 2.  Укажите в поле фильтра **Номер**, какие заказы на возврат следует удалить.  
 3.  Нажмите кнопку **ОК**.  
 
-В качестве альтернативы удалите отдельные заказы на возврат продажи вручную.   
+В качестве альтернативы удалите отдельные заказы на возврат продажи вручную.  
 
 ## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/return-items-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
+
 [Продажи](sales-manage-sales.md)  
 [Настройка продаж](sales-setup-sales.md)  
 [Управление кредиторской задолженностью](payables-manage-payables.md)  
 [Отправка документов по электронной почте](ui-how-send-documents-email.md)  
+[Обработка возвратов покупки или отмен](purchasing-how-process-purchase-returns-cancellations.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

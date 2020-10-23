@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: item, finished good, component, raw material, assembly item
-ms.date: 07/06/2020
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 296e150eec01e3aee4ec8ccc32b4bf5299b86d3e
-ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
+ms.openlocfilehash: 74eb66c4303acb452972f9ac3c7dda008e3c6502
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "3782072"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3923824"
 ---
 # <a name="register-new-items"></a>Регистрация новых товаров
 
@@ -92,12 +92,19 @@ ms.locfileid: "3782072"
 
 ## <a name="deleting-item-cards"></a>Удаление карточек товаров
 
-Если вы учли транзакцию для товара, удалить карточку нельзя, потому что операции книги могут быть необходимы для оценки запасов или аудита. Для удаления карточек товаров с операциями книги обратитесь к партнеру Майкрософт, который может сделать это посредством кода.
+Если вы учли транзакцию для товара, удалить карточку нельзя, потому что операции книги могут быть необходимы для оценки запасов или аудита. Для удаления карточек товаров с операциями книги обратитесь к партнеру Майкрософт, который может сделать это посредством кода.  
+
+## <a name="manage-inventory-in-warehouses"></a>Управление запасами на складе
+
+Когда вы регистрируете новый товар, вы увидите поля, относящиеся к управлению запасами, особенно на экспресс-вкладке **Склад**. Если ваша организация не использует возможности управления запасами в [!INCLUDE [prodshort](includes/prodshort.md)], то вы можете игнорировать эти поля.  
+
+Если ваша организация позже настроит управление запасами, в большинстве случаев вам придется затем вернуться к каждому существующему товару, чтобы убедиться, что в нем есть правильная информация в различных полях, чтобы складские процессы могли работать должным образом. Эта информация может включать такие поля, как **Код класса склада** или **Код шаблона размещения**. Дополнительные сведения см. в разделе [Сведения о проектировании: настройка склада](design-details-warehouse-setup.md).  
 
 ## <a name="see-also"></a>См. также
 
 [Запасы](inventory-manage-inventory.md)  
 [Настройка единиц измерения](inventory-how-setup-units-of-measure.md)  
+[Коды тарифов](finance-how-setup-report-intrastat.md#tariff-numbers)  
 [Выверка себестоимости товаров с главной книгой](finance-how-to-post-inventory-costs-to-the-general-ledger.md)  
 [Создание серий номеров](ui-create-number-series.md)  
 [Настройка учетных групп](finance-posting-groups.md)  

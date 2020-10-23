@@ -1,5 +1,5 @@
 ---
-title: Использование расширения AMC Banking 365 Fundamentals | Документы Microsoft
+title: Использование расширения AMC Banking 365 Fundamentals | Документация Майкрософт
 description: Легко обменивайтесь данными с вашими банками, преобразовывая данные в нужный им формат.
 author: bholtorf
 ms.service: dynamics365-business-central
@@ -8,17 +8,17 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms. search.keywords: bank, format, data
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.author: bholtorf
-ms.openlocfilehash: 493abf6f7309d6eb0274f4f416e6e5aea782b031
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: 8eb45d8c65a09ac56617f84a41543c38a4518fa9
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3194359"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3912400"
 ---
 # <a name="using-the-amc-banking-365-fundamentals-extension"></a>Использование расширения AMC Banking 365 Fundamentals
-Расширение AMC Banking 365 Fundsmentals упрощает и делает более точной отправку данных в ваши банки. Расширение подключает [!INCLUDE[d365fin](includes/d365fin_md.md)] к службе AMC Banking 365 Fundamentals для Microsoft Dynamics 365 Business Central, которая может конвертировать банковские данные из [!INCLUDE[d365fin](includes/d365fin_md.md)] в форматы, которые требуются более чем 600 банками по всему миру. Например, это облегчает перевод платежей и кредитов поставщикам путем ввода платежей в [!INCLUDE[d365fin](includes/d365fin_md.md)], а затем отправки их в ваш банк. Форматы также могут упростить процессы выверки банковских счетов. Для получения дополнительной информации см. раздел [AMC Banking для Microsoft Dynamics 365 Business Central](https://amcbanking.com/landing365bc/help),
+Расширение AMC Banking 365 Fundamentals упрощает и делает более точной отправку данных в ваши банки. Расширение подключает [!INCLUDE[d365fin](includes/d365fin_md.md)] к службе AMC Banking 365 Fundamentals для Microsoft Dynamics 365 Business Central, которая может конвертировать банковские данные из [!INCLUDE[d365fin](includes/d365fin_md.md)] в форматы, которые требуются более чем 600 банками по всему миру. Например, это облегчает перевод платежей и кредитов поставщикам путем ввода платежей в [!INCLUDE[d365fin](includes/d365fin_md.md)], а затем отправки их в ваш банк. Форматы также могут упростить процессы выверки банковских счетов. Для получения дополнительной информации см. раздел [AMC Banking для Microsoft Dynamics 365 Business Central](https://amcbanking.com/landing365bc/help),
 
 > [!Note]
 > AMC Banking имеет встроенные дополнительные расширения, которые работают с [!INCLUDE[d365fin](includes/d365fin_md.md)]. В этом разделе описывается только расширение Fundamentals.

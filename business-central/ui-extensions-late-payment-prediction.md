@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: customer, payment, invoice, sales, invoice, quote
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.author: bholtorf
-ms.openlocfilehash: 79b57454d0e4ac1bcdad9817b53f1b273e416658
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: 6456d982629571d4d39622a910df4bfd7039d7a8
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3194167"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3915064"
 ---
 # <a name="the-late-payment-prediction-extension"></a>Расширение прогноза просрочки платежа  
 Важно эффективно управлять дебиторской задолженностью для общего финансового здоровья бизнеса. Расширение прогноза просрочки платежа может помочь сократить просроченную дебиторскую задолженность и настроить стратегию сбора платежей, прогнозируя, какие накладные на продажу будут оплачены вовремя. Например, если прогнозируется задержка оплаты, вы можете решить скорректировать условия платежа или способ платежа для клиента.

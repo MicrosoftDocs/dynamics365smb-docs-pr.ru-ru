@@ -1,21 +1,21 @@
 ---
 title: Расчеты с клиентами и поставщиками в России
-description: Российские улучшения включают расчеты с клиентами и поставщиками.
+description: Российские улучшения включают кредиторскую и дебиторскую задолженность в русской версии.
 author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 87449b33cd810e3d6b40fa60dcf00538060d1a41
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: 8b2fbde05397c29b977da3e557ab38deb3fb11ea
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3189219"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3915930"
 ---
-# <a name="payables-and-receivables"></a>Расчеты с клиентами и поставщиками
+# <a name="payables-and-receivables-in-the-russian-version"></a>Версия расчетов с клиентами и поставщиками в России
 
 В России имеются особые функции [!INCLUDE[prodshort](../../includes/prodshort.md)] для отслеживания и управления расчетами с клиентами и поставщиками.
 

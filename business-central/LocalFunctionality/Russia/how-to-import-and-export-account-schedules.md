@@ -5,15 +5,15 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 8ddfe3cee3ef1caed2f7c0ecb47ebb5bdb8fa1bb
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: 8cd04a36c34bad5eea9a3243631f0a68207bf9c6
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3180958"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3921226"
 ---
 # <a name="import-and-export-account-schedules"></a>Импорт и экспорт финансовых отчетов
 

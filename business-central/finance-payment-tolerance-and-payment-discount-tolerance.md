@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 113370eaad1696fd21944d4896f7e2d9fdf41531
-ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
+ms.openlocfilehash: 823403fc34ad57cb170fc39bd9533b53c4008950
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "3780614"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3910884"
 ---
 # <a name="work-with-payment-tolerances-and-payment-discount-tolerances"></a>Работа с отклонениями в оплате и отклонениями скидки по оплате
 Можно настроить отклонение в оплате для закрытия счетов, когда платеж не полностью покрывает сумму счета. Например, отклонения в оплате обычно относятся к небольшим суммам, корректировать которые будет дороже, чем просто принять. Можно настроить отклонения в скидке по оплате, чтобы предоставить скидку по оплате после даты скидки по оплате.  

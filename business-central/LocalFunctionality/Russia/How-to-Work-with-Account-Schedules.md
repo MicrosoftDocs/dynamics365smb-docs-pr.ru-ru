@@ -5,15 +5,15 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: cf3bfab65c82190b1ddd56d9c9c0d93c6f2ed846
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: 7a1601bef08b7187532f406988fa063aa8a1a249
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3180992"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3921300"
 ---
 # <a name="work-with-account-schedules"></a>Работа с финансовыми отчетами
 

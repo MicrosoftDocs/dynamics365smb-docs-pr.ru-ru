@@ -5,15 +5,15 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 0adb25230fe70cb3778e99d4c55e1284c9a0441b
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: f134bc2131d4bd3ceb26f0e53e36b1b6804c7c93
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3180951"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3921216"
 ---
 # <a name="print-the-factura-invoice"></a>Печать счета-фактуры
 

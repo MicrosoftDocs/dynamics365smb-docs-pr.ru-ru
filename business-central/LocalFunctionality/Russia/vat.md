@@ -5,15 +5,15 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 3ba5db67f3aed46c19f47b3de3f8b862377e03af
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: d54680f762115a8e913163602d1d5994f1b94a53
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3189201"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3923974"
 ---
 # <a name="vat-overview-in-the-russian-version"></a>Обзор НДС в русской версии
 

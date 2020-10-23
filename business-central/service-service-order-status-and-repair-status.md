@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: ed022ead8151d7a17269fd0282fa54cc9acd34dc
-ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
+ms.openlocfilehash: 638b1f560dc28374e0e8d5afbc94f6ef8d416c83
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "3777520"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3913150"
 ---
 # <a name="service-order-status-and-repair-status"></a>Статус сервисного заказа и ремонта
 Поле **Статус** на странице **Сервисный заказ** и статус ремонта сервисного товара, представленный полем **Код статуса ремонта** на странице **Сервисный заказ**, имеют определенную взаимозависимость в области приложения "Сервисное управление". Статус сервисного заказа отражает статус ремонта всех сервисных товаров данного сервисного заказа.  

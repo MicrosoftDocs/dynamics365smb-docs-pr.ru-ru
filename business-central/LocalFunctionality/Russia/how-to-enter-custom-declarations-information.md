@@ -5,15 +5,15 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 29c5eda7c12d349947a3b1d1b57c82d315baa267
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: f960f173d437322143f2184cff96af1d186b3f40
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3180957"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3921232"
 ---
 # <a name="enter-custom-declarations-information"></a>Ввод сведений таможенных деклараций
 

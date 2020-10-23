@@ -7,13 +7,13 @@ ms.custom: na
 ms.reviewer: na
 ms.service: dynamics365-business-central
 ms.topic: article
-ms.date: 02/03/2020
-ms.openlocfilehash: 5f914904aaa1ec568b396a830ebc18a0fe4e40c1
-ms.sourcegitcommit: 79d6d270325f1cc88bd4e9a273f9ff859ceadcbc
+ms.date: 10/01/2020
+ms.openlocfilehash: 9148217400da88506e41b460157fe00be596a7c5
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/13/2020
-ms.locfileid: "3693028"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3911676"
 ---
 # <a name="handling-missing-option-values"></a>Обработка отсутствующих значений параметров
 [!INCLUDE[d365fin](includes/cds_long_md.md)] содержит только три поля набора параметров, содержащие значения параметров, которые можно сопоставить полям [!INCLUDE[d365fin](includes/d365fin_md.md)] типа "Параметр"<!-- Option type, not enum? @Onat can you vertify this? --> для автоматической синхронизации. Во время синхронизации несопоставленные параметры игнорируются, а отсутствующие параметры добавляются к связанной таблице [!INCLUDE[d365fin](includes/d365fin_md.md)] и добавляются в системную таблицу **Сопоставление параметров CDS** для обработки вручную позже. Например, добавив отсутствующие параметры в любом продукте, а затем обновив сопоставление. В этом разделе описывается, как это работает.

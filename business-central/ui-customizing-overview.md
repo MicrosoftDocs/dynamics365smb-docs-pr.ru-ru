@@ -9,14 +9,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: personalize, add-in, extend, customize
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 5cc03c8b5fb11ecc0a34d83b1ea6dfaeae791e9d
-ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
+ms.openlocfilehash: 9a9ef59ddec127b8c87dbfb055870ce033fcd01b
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "3782397"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3912600"
 ---
 # <a name="customize-business-central"></a>Настройка Business Central
 Существуют различные способы настройки приложения, чтобы предоставить вам и вашим коллегам доступ к функциям, функциональным возможностям и данным, которые нужны вам больше всего, способом, наиболее соответствующим вашей повседневной работе. Пользователи, которые смогут просмотреть изменения, зависят от того, что вы делаете, как описано в этой таблице.

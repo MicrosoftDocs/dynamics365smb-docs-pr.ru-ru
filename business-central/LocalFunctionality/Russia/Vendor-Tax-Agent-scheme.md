@@ -5,15 +5,15 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: ''
-ms.date: 07/23/2020
+ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 9974a779ad4d04e0287b59c27aa598bbbe089bc4
-ms.sourcegitcommit: 7b5c927ea9a59329daf1b60633b8290b552d6531
+ms.openlocfilehash: f638de2d02331d4ec1c0faba4784f7d665b4ec5c
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "3617771"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3921280"
 ---
 # <a name="vendor-tax-agent-scheme"></a>Схема налогового агента поставщика
 

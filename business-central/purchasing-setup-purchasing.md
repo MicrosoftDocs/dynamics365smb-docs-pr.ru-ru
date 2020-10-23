@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: procurement, supply, vendor order
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: bda110a8d97376b283461bb0c2c6a6b7f334ba4d
-ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
+ms.openlocfilehash: 72c947263ccf736d9432c52b6256868ad346ad09
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "3783279"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3918741"
 ---
 # <a name="setting-up-purchasing"></a>Настройка покупки
 Прежде чем приступать к управлению процессами закупки, необходимо настроить правила и значения, которые определяют политики закупок в организации.
@@ -32,6 +32,9 @@ ms.locfileid: "3783279"
 | Введите различные скидки и специальные цена, которые предлагает поставщик в зависимости от товара, количества или даты |[Регистрация соглашений о цене покупки, скидках и платежах](purchasing-how-record-purchase-price-discount-payment-agreements.md) |
 | Назначение приоритетов поставщикам |[Назначение приоритетов поставщикам](purchasing-how-prioritize-vendors.md) |
 | Настройка менеджеров по закупкам |[Настройка менеджеров по закупкам](purchasing-how-setup-purchasers.md) |
+
+> [!TIP]
+> В зависимости от вашего географического положения некоторые страницы могут содержать поля, которые не описаны в перечисленных здесь статьях, поскольку они применяются к локальным функциям или настройкам. [!INCLUDE [tooltip-inline-tip_md](includes/tooltip-inline-tip_md.md)]
 
 ## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/trade-get-started-dynamics-365-business-central/)
 

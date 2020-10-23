@@ -5,15 +5,15 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: ''
-ms.date: 07/23/2020
+ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 7b089935766e02349461ae75607ce422f5f922e1
-ms.sourcegitcommit: 7b5c927ea9a59329daf1b60633b8290b552d6531
+ms.openlocfilehash: bc1d85f74aaf744af871efd0330466ea5b2ed4a6
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "3617773"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3921316"
 ---
 # <a name="adjust-exchange-rates-in-the-russian-version"></a>Корректировка валютных курсов в версии для России
 

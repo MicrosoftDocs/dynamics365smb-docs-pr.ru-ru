@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: e531a80521cdb76a337cbfec95b6b30a0d1d118d
-ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
+ms.openlocfilehash: 62a284d536c9ffe51302062d264647fd818f9a6b
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "3784363"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3925751"
 ---
 # <a name="convert-service-contracts-that-include-vat-amounts"></a>Преобразование сервисных контрактов, которые включают суммы НДС
 Так как средство изменения ставки НДС не может преобразовать сервисные контракты, эти контракты необходимо преобразовывать вручную. В этом разделе описывается несколько альтернативных методов, которые можно использовать для преобразования сервисного контракта.  

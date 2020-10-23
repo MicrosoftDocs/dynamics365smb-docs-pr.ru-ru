@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: be0dc308f7d941fe3c41ecbaaf879eacc5405d12
-ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
+ms.openlocfilehash: 8fe9b1d25ae5be2a56678181d8ca03a9807e9543
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "3785175"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3917129"
 ---
 # <a name="handling-inventory-and-manufacturing-costs"></a>Обработка запасов и себестоимость производства
 Хотя значительная часть функциональных возможностей по учету себестоимости выражается в базовых процессах, для выполнения которых не требуется вмешательство пользователя, таких как применение операции и автоматическая коррекция себестоимости, некоторые поля, страницы и отчеты предназначены для использования пользователями, которые явно или неявно управляют себестоимостью товаров или операций.  

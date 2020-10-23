@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 1098e0998369e15bd9484ba33b808b9b435b538c
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: 69b1dccc88750dca2e2f406554db34357bd8d6db
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3192127"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3912775"
 ---
 # <a name="accessibility-and-keyboard-shortcuts"></a>Специальные возможности и сочетания клавиш
 В этом разделе приведены сведения о функциях, благодаря которым решение [!INCLUDE[d365fin](includes/d365fin_md.md)] доступно для использования людям с ограниченными возможностями. [!INCLUDE[d365fin](includes/d365fin_md.md)] поддерживает следующие специальные возможности:  

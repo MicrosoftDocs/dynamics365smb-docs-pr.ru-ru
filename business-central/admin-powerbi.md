@@ -9,14 +9,14 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: account schedule, analysis, reporting, financial report, business intelligence, KPI
 ms.reviewer: edupont
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.author: jswymer
-ms.openlocfilehash: a1e2e8ceee41c2c6ed517d000fc7c3a4a6aa274c
-ms.sourcegitcommit: aeaa0dc64e54432a70c4b0e1faf325cd17d01389
+ms.openlocfilehash: e339033e8529f59f548e8bf71fd683f9a2a17eba
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "3697676"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3917880"
 ---
 # <a name="prodshort-and-power-bi"></a>[!INCLUDE[prodshort](includes/prodshort.md)] и Power BI
 
@@ -31,10 +31,10 @@ ms.locfileid: "3697676"
 
 |Функция|Описание|Online|On-premises|Дополнительная информация|
 |-------|-----------|--------------|-----------|----------------|
-|Просмотр данных [!INCLUDE[prodshort](includes/prodshort.md)] в Power BI|Вы можете просматривать свои данные из [!INCLUDE[prodshort](includes/prodshort.md)] в отчетах в Power BI. [!INCLUDE[prodshort](includes/prodshort.md)] Online включает некоторые предопределенные отчеты Power BI. Или ваша организация могла предоставить вам доступ к некоторым настраиваемым отчетам.|![галочка](media/check.png)|![галочка](media/check.png)|[См. ...](across-working-with-powerbi.md)|
-|Просмотр отчетов Power BI в клиенте [!INCLUDE[prodshort](includes/prodshort.md)].| Отчеты Power BI, отображающие данные [!INCLUDE[prodshort](includes/prodshort.md)], могут быть встроены прямо в страницы частей [!INCLUDE[prodshort](includes/prodshort.md)]. Вы можете переключить часть для отображения любого отчета, который вам доступен. |![галочка](media/check.png)|![галочка](media/check.png)<sup>[*](#onprem)</sup>|[См. ...](across-working-with-business-central-in-powerbi.md).|
-|Создавайте отчеты и панели мониторинга в Power BI, которые отображают данные [!INCLUDE[prodshort](includes/prodshort.md)].|Используйте Power BI Desktop для создания собственных отчетов и панелей мониторинга. Вы можете опубликовать отчеты в своей собственной службе Power BI или поделиться ими с другими пользователями в вашей организации.|![галочка](media/check.png)|![галочка](media/check.png)|[См. ...](across-how-use-financials-data-source-powerbi.md)
-|Приложения [!INCLUDE[prodshort](includes/prodshort.md)] в Power BI| [!INCLUDE[prodshort](includes/prodshort.md)] публикует три приложения для Power BI в Microsoft AppSource. Эти приложения создают подробные отчеты и панели мониторинга в вашей службе Power BI для просмотра данных [!INCLUDE[prodshort](includes/prodshort.md)]. Доступные приложения включают: <ul><li>[!INCLUDE [prodlong](includes/prodlong.md)] — CRM </li><li>[!INCLUDE [prodlong](includes/prodlong.md)] — Finance </li><li>[!INCLUDE [prodlong](includes/prodlong.md)] — Sales </li></ul>  |![галочка](media/check.png)||[См. ...](across-powerbi-business-central-apps.md)
+|Просмотр данных [!INCLUDE[prodshort](includes/prodshort.md)] в Power BI|Вы можете просматривать свои данные из [!INCLUDE[prodshort](includes/prodshort.md)] в отчетах в Power BI. [!INCLUDE[prodshort](includes/prodshort.md)] Online включает некоторые предопределенные отчеты Power BI. Или ваша организация могла предоставить вам доступ к некоторым настраиваемым отчетам.|![Работа онлайн](media/check.png)|![Работа локально](media/check.png)|[См. ...](across-working-with-powerbi.md)|
+|Просмотр отчетов Power BI в клиенте [!INCLUDE[prodshort](includes/prodshort.md)].| Отчеты Power BI, отображающие данные [!INCLUDE[prodshort](includes/prodshort.md)], могут быть встроены прямо в страницы частей [!INCLUDE[prodshort](includes/prodshort.md)]. Вы можете переключить часть для отображения любого отчета, который вам доступен. |![работа онлайн](media/check.png)|![Работа локально](media/check.png)<sup>[*](#onprem)</sup>|[См. ...](across-working-with-business-central-in-powerbi.md).|
+|Создавайте отчеты и панели мониторинга в Power BI, которые отображают данные [!INCLUDE[prodshort](includes/prodshort.md)].|Используйте Power BI Desktop для создания собственных отчетов и панелей мониторинга. Вы можете опубликовать отчеты в своей собственной службе Power BI или поделиться ими с другими пользователями в вашей организации.|![Работа онлайн](media/check.png)|![работа локально](media/check.png)|[См. ...](across-how-use-financials-data-source-powerbi.md)
+|Приложения [!INCLUDE[prodshort](includes/prodshort.md)] в Power BI| [!INCLUDE[prodshort](includes/prodshort.md)] публикует три приложения для Power BI в Microsoft AppSource. Эти приложения создают подробные отчеты и панели мониторинга в вашей службе Power BI для просмотра данных [!INCLUDE[prodshort](includes/prodshort.md)]. Доступные приложения включают: <ul><li>[!INCLUDE [prodlong](includes/prodlong.md)] — CRM </li><li>[!INCLUDE [prodlong](includes/prodlong.md)] — Finance </li><li>[!INCLUDE [prodlong](includes/prodlong.md)] — Sales </li></ul>  |![Работа онлайн](media/check.png)||[См. ...](across-powerbi-business-central-apps.md)
 
 <a name="onprem"><sup>*</sup></a> Для этой функции требуется зарегистрированное приложение для Business Central в Microsoft Azure. Для получения дополнительной информации см. раздел [Регистрация Business Central On-Premises в Azure AD для интеграции с другими службами](/dynamics365/business-central/dev-itpro/administration/register-app-azure).
 

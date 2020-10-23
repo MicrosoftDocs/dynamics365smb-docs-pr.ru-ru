@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 05/20/2020
+ms.date: 10/01/2020
 ms.author: bholtorf
-ms.openlocfilehash: 66a32f8ecdc0ddd07794be9354edc75adf96df42
-ms.sourcegitcommit: d4a77522859c5561c1f3dc43178d45657ffa31b5
+ms.openlocfilehash: 4cdc60905f03b5fab6ae43b8a5a99cda352e03c1
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/26/2020
-ms.locfileid: "3402529"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3925839"
 ---
 # <a name="create-service-invoices-or-credit-memos"></a>Создание сервисных счетов или кредит-нот
 Простота выставления счетов по сервисным заказам — ключевая особенность [!INCLUDE[prodshort](includes/prodshort.md)]. Можно настроить [!INCLUDE[prodshort](includes/prodshort.md)] так, чтобы технический персонал, работающий на выезде, мог создавать счета без привязки к конкретным контрактам или заказам. Вы таже можете настроить [!INCLUDE[prodshort](includes/prodshort.md)] так, чтобы периодически выставлять счета на обслуживание. Расчетный период по каждому контракту определяет, как часто по нему выставляются счета.

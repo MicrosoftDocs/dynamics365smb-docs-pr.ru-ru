@@ -5,38 +5,37 @@ author: edupont04
 ms.service: dynamics365-business-central
 ms.topic: get-started-article
 ms.search.keywords: news, release plan, roadmap, whats new
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 496c6bad5e309064ae2d6e7d15591578b1d46c6a
-ms.sourcegitcommit: 3e9c89f90db5eaed599630299353300621fe4007
+ms.openlocfilehash: 42b4591fda63bb21f9f7805f826e6c5c8337d210
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "3528767"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3925059"
 ---
-# <a name="whats-new-in-dynamics-365-business-central"></a>Новые возможности Dynamics 365 Business Central
+# <a name="new-and-planned-for-dynamics-365-business-central"></a>Новые и планируемые функции для Dynamics 365 Business Central
 
 [!INCLUDE[release notes](includes/release-notes.md)]
 
-Вы всегда можете обратиться к плану выпуска для обзора новых и будущих функциональных возможностей. Здесь в документации вы можете найти темы, которые могут помочь вам узнать о новых и существующих функциях в [!INCLUDE[prodlong](includes/prodlong.md)],  
+Вы всегда можете обратиться к плану выпуска для обзора новых и будущих функциональных возможностей. Здесь в документации вы можете найти темы, которые могут помочь вам узнать о новых и существующих функциях в [!INCLUDE[prodlong](includes/prodlong.md)], 
 
-Если вы еще этого не сделали, зарегистрируйтесь в [пробной версии](https://go.microsoft.com/fwlink/?linkid=847861), ознакомьтесь с основными возможностями [!INCLUDE[prodshort](includes/prodshort.md)], а затем попробуйте сами поработать с системой. Когда вы будете готовы, вы сможете открыть пустую организацию и настроить все самостоятельно. Дополнительные сведения см. в разделе [Подготовьтесь к ведению бизнеса](ui-get-ready-business.md).  
+В следующем списке представлена информация о последних версиях [!INCLUDE [prodshort](includes/prodshort.md)].  
 
-Регулярно мы будем обновлять [!INCLUDE[d365fin](includes/d365fin_md.md)], включая дополнительные возможности в основное приложение и добавляя новые расширения. Текущий список расширений Microsoft см. в разделе [Настройка Business Central с использованием расширений](ui-extensions.md).
+* [Выпуск 2020 г., волна 2](/dynamics365-release-plan/2020wave2/smb/dynamics365-business-central/planned-features)  
+* [Выпуск 2020 г., волна 1](/dynamics365-release-plan/2020wave1/dynamics365-business-central/planned-features)  
+* [Выпуск 2019 г., волна 2](/dynamics365-release-plan/2019wave2/dynamics365-business-central/planned-features)  
 
-Чтобы увидеть все расширения, предлагаемые партнерами [!INCLUDE[d365fin](includes/d365fin_md.md)], см. [AppSource, Business Central](https://go.microsoft.com/fwlink/?linkid=2081646).  
-
-## <a name="check-the-dynamics-365-blog"></a>Проверьте блог Dynamics 365
-
-Мы рассказываем о новых возможностях в [блоге Dynamics 365](https://cloudblogs.microsoft.com/dynamics365/), включая то, когда будут доступны, а также есть ли какие-либо связанные с ними особенности.  
-
-Для партнерского сообщества мы публикуем информацию о [Microsoft Dynamics 365 Business Central в блоге Dynamics 365 для партнеров](https://cloudblogs.microsoft.com/dynamics365/it/product/business-central/) и в [Справке для разработчиков и IT-специалистов для [!INCLUDE[prodshort](includes/prodshort.md)] ](/dynamics365/business-central/dev-itpro/index).  
+Вы также можете изучить сайт [Возможности Dynamics 365 Business Central](https://dynamics.microsoft.com/business-central/capabilities/) и сайт [Дорожная карта Dynamics 365 Business Central](https://dynamics.microsoft.com).  
 
 ## <a name="see-also"></a>См. также
 
-[Приступая к работе](product-get-started.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Посетите нашу библиотеку видео](across-videos.md)  
 [Ресурсы для справки и поддержки](product-help-and-support.md)  
+[Dynamics 365 Business Central на сайте Microsoft Learn](/learn/browse/?products=dynamics-business-central)  
+[Возможности Dynamics 365 Business Central](https://dynamics.microsoft.com/business-central/capabilities/)  
+[Дорожная карта Dynamics 365 Business Central](https://dynamics.microsoft.com/roadmap/business-central/)  
+[Блог Dynamics 365](https://cloudblogs.microsoft.com/dynamics365/it/product/business-central/)  
 [Цены на Business Central](https://dynamics.microsoft.com/business-central/overview/#pricing)  
 [Сообщество Dynamics 365 Business Central](https://community.dynamics.com/business/)
 

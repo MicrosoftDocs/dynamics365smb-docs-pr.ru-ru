@@ -5,15 +5,15 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 660c9a92c428895fc678a61e5608293f2e5f5047
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: 90ed0c93d1e1d9bee1bfbde943de4d1df47392fd
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3180979"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3921267"
 ---
 # <a name="collecting-profit-tax-information-for-tax-declaration"></a>Сбор сведений о налоге на прибыль для налоговой декларации
 

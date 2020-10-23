@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: relationship, prospect
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 82b5ec1e1be1cf39b2b1f0c55cefbedc259a0d41
-ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
+ms.openlocfilehash: 3096bdcdf7ed6570e28d0e636b7dc8f1b28113c4
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "3781539"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3916072"
 ---
 # <a name="set-up-contacts"></a>Настройка контактов
 При создании контактов можно ввести определенные сведения, такие как отрасль, к которой принадлежит контакт, и деловые отношения с контактами.
@@ -149,7 +149,7 @@ ms.locfileid: "3781539"
 ## <a name="synchronizing-contacts-with-customers-vendors-and-bank-accounts"></a>Синхронизация контактов с клиентами, поставщиками и банковскими счетами
 Чтобы синхронизировать карточку контакта со связанной карточкой клиента, поставщика или банковского счета, необходимо заполнить соответствующее поле в разделе **Код дел. отношения для** на экспресс-вкладке **Взаимодействия** на странице **Настройка модуля "Маркетинг"**.  
 
-Дополнительные сведения см. в разделе [Синхронизация контактов с клиентами, поставщиками и банковскими счетами](marketing-create-contact-companies.md#synchronizing-contacts-with-customers-vendors-and-bank-accounts).
+Дополнительные сведения см. в разделе [Синхронизация контактов с клиентами, поставщиками и банковскими счетами](marketing-create-contact-companies.md#synchronizing-contacts-with-customers-vendors-employees-and-bank-accounts).
 
 ## <a name="searching-for-duplicate-contacts"></a>Поиск дубликатов контактов
 Приложение может автоматически осуществлять поиск дубликатов всякий раз, когда вы создаете контакт, или же вы можете искать их вручную после создания контактов. Кроме того, приложение может автоматически обновлять строки поиска при каждом изменении контактной информации или создании контакта. Вы можете установить процент совпадений, т.е. процент идентичных строк в двух контактах, при котором приложение будет рассматривать эти контакты как дубликаты. Это настраивается на экспресс-вкладке **Дубликаты** на странице **Настройка модуля "Маркетинг"**.

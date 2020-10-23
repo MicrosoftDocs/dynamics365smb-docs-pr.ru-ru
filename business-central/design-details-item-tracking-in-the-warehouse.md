@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: design, item, tracking, serial number, lot number, outbound documents
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 6ffce5d73eabe8586ac682f6d1a549993b1b6d2a
-ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
+ms.openlocfilehash: e369517d05cd4a9e9c0586f6d7407f0351966def
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "3787550"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3917405"
 ---
 # <a name="design-details-item-tracking-in-the-warehouse"></a>Сведения о проектировании: трассировка товара на складе
 Обработка серийных номеров и номеров партий изначально является складской задачей, и, следовательно, все входящие и исходящие складские документы имеют стандартные функции назначения и выбора номеров трассировки товара.  

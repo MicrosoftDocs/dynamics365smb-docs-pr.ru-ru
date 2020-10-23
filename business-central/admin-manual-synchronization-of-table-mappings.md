@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: sales, crm, integration, sync, synchronize
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.author: bholtorf
-ms.openlocfilehash: 015084b999f7488339c98605018bff2bc9a4ded2
-ms.sourcegitcommit: d67328e1992c9a754b14c7267ab11312c80c38dd
+ms.openlocfilehash: ba79088bc386a856f1b3e7727f1f778ebabb7d51
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3196715"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3911334"
 ---
 # <a name="manually-synchronize-table-mappings"></a>Ручная синхронизация сопоставлений таблиц
 Сопоставление таблиц интеграции связывает таблицу [!INCLUDE[d365fin](includes/d365fin_md.md)] (тип записи), например клиента, с объектом [!INCLUDE[d365fin](includes/cds_long_md.md)], например счетом. Синхронизация сопоставления таблиц интеграции позволяет синхронизировать данные во всех записях объекта таблицы [!INCLUDE[d365fin](includes/d365fin_md.md)] и объекта [!INCLUDE[d365fin](includes/cds_long_md.md)], которые связаны. Кроме того, в зависимости от конфигурации сопоставления таблицы, синхронизация может создавать и связывать новые записи в целевом решении для несвязанных записей в источнике.  

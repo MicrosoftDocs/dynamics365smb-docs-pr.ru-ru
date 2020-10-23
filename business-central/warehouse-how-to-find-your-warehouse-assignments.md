@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 479ad10ee6bd10d123202749c1cc934bc67493af
-ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
+ms.openlocfilehash: c71184f1894fb5503211b87595744e52c361862d
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "3779640"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3920326"
 ---
 # <a name="find-your-warehouse-assignments"></a>Поиск складских назначений
 Чтобы найти складские назначения, откройте страницу карточки для выбранного товара. Если складские инструкции созданы, то строки «Взять» и «Поместить» будут видимыми, и можно приступать к работе над назначением. На некоторых складах менеджер может назначить специальные инструкции для каждого работника. Дополнительные сведения см. в разделе [Настройка работников склада](warehouse-how-to-set-up-warehouse-employees.md).

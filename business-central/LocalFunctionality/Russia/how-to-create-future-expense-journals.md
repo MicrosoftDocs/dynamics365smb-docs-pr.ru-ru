@@ -5,15 +5,15 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: e1a0019fec6c1ebdf8ec20eeee4b5148c166e7a1
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: a34349dd557eb0a6ce6817a9e45a6ff8f72f43e9
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3180965"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3921244"
 ---
 # <a name="create-future-expense-journals"></a>Создание журналов расходов будущих периодов
 

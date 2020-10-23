@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: check, bank transfer, cash, PayPal
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.author: bholtorf
-ms.openlocfilehash: 708ae474b15724e151cba367842091763544a434
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: cba54a66815874a3885e038283e8fe9a84b9dd09
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3182976"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3916854"
 ---
 # <a name="defining-payment-methods"></a>Определение способов оплаты
 Методы оплаты определяют предпочтительный способ, которым клиенты осуществляют платежи вам, и способ, которым вы хотите платить поставщикам. Метод может меняться для каждого клиента или поставщика. Типичными примерами методов оплаты являются **банк**, **касса**, **чек** или **счет**.

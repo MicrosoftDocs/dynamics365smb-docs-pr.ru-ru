@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.author: bholtorf
-ms.openlocfilehash: 82b5f3ec52be27c4fbe60a6a63a0cfc5f6f1bd7c
-ms.sourcegitcommit: d67328e1992c9a754b14c7267ab11312c80c38dd
+ms.openlocfilehash: db8b05aa74583d8ba74fcfeb8fae1d3c28893fac
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3196547"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3922396"
 ---
 # <a name="troubleshooting-synchronization-errors"></a>Устранение ошибок синхронизации
 Интеграция [!INCLUDE[d365fin](includes/d365fin_md.md)] с Common Data Service — сложный процесс, и иногда что-то идет не так. В этом разделе рассказывается о некоторых типичных ошибках, которые могут возникнуть, и даются советы о том, как их исправить.
@@ -50,6 +50,9 @@ ms.locfileid: "3196547"
 Конфликт возникает потому, что запись назначения также была изменена — отметка времени записи более поздняя, чем отметка времени в записи интеграции Sales. Проверка назначения происходит только для двунаправленных таблиц. 
 
 Эти записи теперь перемещены на страницу "Пропущенные синхронизированные записи", которую можно найти на странице "Настройка подключения Microsoft Dynamics" в Business Central. Там вы можете указать изменения, которые нужно сохранить, а затем снова синхронизировать записи.
+
+## <a name="remove-couplings-between-records"></a>Удаление связей между записями
+Когда что-то пойдет не так с вашей интеграцией и вам нужно разъединить записи, чтобы прекратить их синхронизацию, вы можете сделать это для одной или нескольких записей за раз. На странице **Сопоставления таблиц интеграции** вы можете выбрать **Отмена связывания**, а потом **Удалить связь**. Как вариант, на странице **Ошибки синхронизации связанных данных** вы можете выбрать ошибки, а затем выбрать **Удалить связи**. 
 
 ## <a name="see-also"></a>См. также
 [Интеграция с Common Data Service](admin-prepare-dynamics-365-for-sales-for-integration.md)  

@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: accessibility, shortcuts, keyboarding, keys
-ms.date: 09/02/2020
+ms.date: 10/01/2020
 ms.author: bholtorf
-ms.openlocfilehash: 7d2a891f55ff41e1e236c57ca76eb5d1444b7160
-ms.sourcegitcommit: 43284728c34b72ad1984a516273dc80e4cdc99ab
+ms.openlocfilehash: 73b0044dae3035c7156812b1f4ff4b8722df57c9
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "3765950"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3922873"
 ---
 # <a name="keyboard-shortcuts"></a>Сочетания клавиш
 
@@ -144,6 +144,7 @@ ms.locfileid: "3765950"
 |Нажмите эти клавиши<br />(в macOS)|Действие|
 |--------------------------------|----------|
 |Alt+F6|Сворачивание или разворачивание текущей экспресс-вкладки или части (подстраницы).|
+|Alt+G|Откройте страницу **Найти записи** для поиска записей, связанных с учтенным документом. Также работает со списками.|
 |Alt+N |Открытие страницы для создания новой записи; аналогично выбору действия **Создать**. |
 |Alt+Shift+N |Закрытие страницы и открытие новой страницы для создания новой записи; аналогично выбору действия **Принять и создать**. |
 |Alt+Shift+W |Открытие текущей карточки или документа в новом окне. Дополнительные сведения см. в разделе [Работа на нескольких страницах](ui-enter-data.md#multitasking-across-multiple-pages).|
@@ -212,3 +213,4 @@ ms.locfileid: "3765950"
 [Приступая к работе](product-get-started.md)  
 [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 [Вопросы и ответы](across-faq.md)  
+[Найти записи](ui-find-entries.md)  

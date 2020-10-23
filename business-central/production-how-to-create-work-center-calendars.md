@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 8fe746bcde1bf02c366664c02ea48029777e22ef
-ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
+ms.openlocfilehash: 343f608e9f8a451b67422a3c198ba4306256c0ad
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "3777940"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3921669"
 ---
 # <a name="set-up-shop-calendars"></a>Настройка производственных календарей
 Календарь рабочего центра или машин определяет рабочие дни и часы, смены, праздники и простои, которые определяют общую производственную мощность (измеренную во временных единицах) рабочего центра согласно его определенным значениям эффективности и мощности.

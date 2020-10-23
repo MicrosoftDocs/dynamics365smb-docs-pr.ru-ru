@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: adjustment, status, negative, positive, increase, decrease
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: ae40390d2aa095739154a635c0e4fdf77933e648
-ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
+ms.openlocfilehash: ff2bd25a76da32ad680bc94cff8801ca5328ad00
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "3782122"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3923849"
 ---
 # <a name="count-inventory-using-documents"></a>Подсчет запасов с использованием документов
 Можно выполнять физическую инвентаризацию товаров с помощью документов заказа инвентаризации и записи инвентаризации. Страница **Заказ инвентаризации** используется для организации проекта полной инвентаризации, например по каждому складу. Страница **Запись инвентаризации** используется для сообщения и фиксации фактической инвентаризации товаров. Можно создать несколько записей для одного заказа, например, чтобы распределить группы товаров по различным сотрудникам.

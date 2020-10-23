@@ -9,14 +9,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: warehouse, stock
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: c837d3c4c1fd4ba1922ee90611dcec3b15ba9233
-ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
+ms.openlocfilehash: 4e760818349cf59a9c85d0a0d22b72baefd99af6
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "3785475"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3919492"
 ---
 # <a name="reconcile-inventory-costs-with-the-general-ledger"></a>Выверка себестоимости товаров с главной книгой
 При учете складских транзакций, таких как расходные накладные, счета покупки или корректировки запасов измененные значения себестоимости товаров записываются в операциях стоимости товаров. Чтобы отразить такое изменение стоимости запасов в финансовых книгах, себестоимость товаров автоматически учитывается на соответствующих счетах запасов в главной книге. Для каждой учитываемой складской транзакции учитываются соответствующие стоимости в товарном счете, счете коррекции и счете себестоимости продажи в главной книге.

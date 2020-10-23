@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: project management, capacity, staff
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 73fa4da888fbeb4d2a3b0f27f5d364dd3e27a351
-ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
+ms.openlocfilehash: fbcd6f6e0f1a73316c20f14f143a044c68a5c539
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "3781839"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3919042"
 ---
 # <a name="set-up-resources"></a>Настройка ресурсов
 Для правильного управления деятельностью ресурсов необходимо настроить ресурсы, а также связанные с ними затраты и цены. Связанные с работой цены, скидки и правила фактора стоимости задаются в карточке работы. Затраты и цены можно установить для каждого отдельного ресурса, группы ресурсов или всех доступных ресурсов организации.

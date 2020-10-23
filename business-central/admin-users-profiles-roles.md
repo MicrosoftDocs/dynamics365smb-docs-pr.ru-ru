@@ -5,14 +5,14 @@ author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: profiles, users
-ms.date: 06/26/2020
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 0d44ccf98ac02e24d1cd136bf1a0fe31b5bf0437
-ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
+ms.openlocfilehash: 16be03cec9799817646bcc04f842b2f5d3519caa
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "3786100"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3922296"
 ---
 # <a name="manage-profiles"></a>Управление профилями
 
@@ -67,7 +67,7 @@ ms.locfileid: "3786100"
 Администратор может задать эти настройки для профиля и тем самым применить настройки ко всем пользователям с соответствующей ролью.
 
 1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Профили (роли)**, затем выберите соответствующую ссылку.
-2. Выберите строку профиля, для которого вы хотите изменить настройки пользователя, выберите действие **Навигация**, а затем выберите действие **Персонализации пользователей**.
+2. Выберите строку профиля, для которого вы хотите изменить настройки пользователя, выберите действие **Писок персонализации пользователей**.
 3. На странице **Персонализации пользователей** откройте карточку для пользователя, настройки которого вы хотите изменить.
 4. На странице **Карточка персонализации пользователя** отредактируйте поля требуемым образом.
 
@@ -139,7 +139,7 @@ ms.locfileid: "3786100"
 
 Как администратор интернет-версии [!INCLUDE[prodshort](includes/prodshort.md)], вы можете управлять сеансами пользователей в центре администрирования. Дополнительные сведения см. в [Управление сеансами](/dynamics365/business-central/dev-itpro/administration/tenant-admin-center-environments#managing-sessions) в содержимом по администрированию.  
 
-Для [!INCLUDE[prodshort](includes/prodshort.md)] локальная версия вы можете управлять сеансами, например, с помощью SQL Server Management Studio. дополнительные сведения см. в [Техническая документация по SQL Server](/sql/sql-server/?view=sql-server-ver15).  
+Для [!INCLUDE[prodshort](includes/prodshort.md)] локальная версия вы можете управлять сеансами, например, с помощью SQL Server Management Studio. Дополнительные сведения см. в [Техническая документация по SQL Server](/sql/sql-server).  
 
 ## <a name="see-also"></a>См. также  
 [Назначение разрешений пользователям и группам](ui-define-granular-permissions.md)  

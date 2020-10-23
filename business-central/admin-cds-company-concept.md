@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: CDS, Common Data Service, integration, sync
-ms.date: 01/17/2020
+ms.date: 10/01/2020
 ms.author: bholtorf
-ms.openlocfilehash: 795656cd5b4ad8d40c48a2edf327cffb56ad6906
-ms.sourcegitcommit: 7d54d8abe52e0546378cf760f5082f46e8441b90
+ms.openlocfilehash: 4f8e5959098e01cd08134a37ae706aa852d88729
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/30/2020
-ms.locfileid: "3324058"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3911664"
 ---
 # <a name="data-ownership-models"></a>Модели владения данными
 [!INCLUDE[d365fin](includes/cds_long_md.md)] требует, чтобы вы указали владельца для данных, которые вы храните. Для получения дополнительной информации см. раздел [Владение сущностью](https://docs.microsoft.com/powerapps/maker/common-data-service/types-of-entities#entity-ownership) в документация по Power Apps. Когда вы устанавливаете интеграцию между [!INCLUDE[d365fin](includes/cds_long_md.md)] и [!INCLUDE[d365fin](includes/d365fin_md.md)], вы должны выбрать одну из двух моделей владения для синхронизируемых записей:
@@ -70,6 +70,8 @@ ms.locfileid: "3324058"
 Если вы выбираете модель ответственности "Физ. лицо", вы должны указать каждого менеджера по продажам, который будет отвечать за новые записи. Бизнес-подразделение и рабочая группа создаются, как описано в разделе [Модель ответственности "Рабочая группа"](admin-cds-company-concept.md#team-ownership).
 
 Когда выбрана модель ответственности "Физ. лицо", используется бизнес-подразделение по умолчанию, и выбрать другое бизнес-подразделение нельзя. Рабочая группа, связанная с бизнес-подразделением по умолчанию, будет отвечать за записи для общих сущностей, таких как сущность "Продукт", которые не связаны с конкретными менеджерами по продажам.
+
+Когда вы связываете продавцов в [!INCLUDE[d365fin](includes/d365fin_md.md)] с пользователями в [!INCLUDE[d365fin](includes/cds_long_md.md)], [!INCLUDE[d365fin](includes/d365fin_md.md)] добавит пользователя в команду по умолчанию в [!INCLUDE[d365fin](includes/cds_long_md.md)]. Вы можете убедиться, что пользователи добавлены, посмотрев на столбец **Участник рабочей группы по умолчанию** на странице **Пользователи — Common Data Service**. Если пользователь не добавлен, вы можете добавить его вручную с помощью действия **Добавить связанных пользователей в рабочую группу**. Дополнительные сведения см. в разделе [Синхронизация данных в Business Central с Common Data Service](admin-synchronizing-business-central-and-sales.md).
 
 ## <a name="see-also"></a>См. также
 [О программе [!INCLUDE[d365fin](includes/cds_long_md.md)]](admin-common-data-service.md)

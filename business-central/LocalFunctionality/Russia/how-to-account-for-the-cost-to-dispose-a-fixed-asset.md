@@ -5,15 +5,15 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: dbd0dca735d6d34397f994073f842fb5bee159b9
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: dfeb07f1d506c258c53a931820ae4fb26023ac7d
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3180969"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3921256"
 ---
 # <a name="account-for-the-cost-to-dispose-a-fixed-asset"></a>Учет себестоимости реализации основного средства
 

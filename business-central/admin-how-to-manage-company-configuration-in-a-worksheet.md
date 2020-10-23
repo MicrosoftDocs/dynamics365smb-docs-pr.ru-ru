@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: f44e84342e9cf13d3f41130644f8bddd3809fb2f
-ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
+ms.openlocfilehash: fb5ede0362f54f8475807e10e1bad87beffaec02
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "3783580"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3922596"
 ---
 # <a name="manage-company-configuration-in-a-worksheet"></a>Управление конфигурацией организации в журнале
 Журнал конфигураций является центральным местом, где можно планировать, выполнять трассировку и настройку. Можно создать журналы для каждой организации, с которой вы работаете, или создать стандартный журнал конфигураций, который будет использоваться для определения множества идентичных организаций.  

@@ -5,15 +5,15 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 6e328515c8e9019d52c806c321b0e15c1970a3d2
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: 6997be843d9e0bf462ca6037cbf3c9c20a17763c
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3189213"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3919764"
 ---
 # <a name="russian-payables-reports"></a>Отчеты о платежах (Россия)
 
@@ -151,7 +151,7 @@ ms.locfileid: "3189213"
 | ----------------------- | ------------------------------------------------------------ |
 | **Дата начала**       | Выберите эту опцию, чтобы указать дату начала периода.  |
 | **Окончание периода**    | Выберите эту опцию, чтобы указать дату окончания периода.    |
-| **Валюта отчета**     | Выберите эту опцию, чтобы указать валюту для использования в отчете. Можно выбрать следующие варианты:   -   **Местная валюта** -   **Валюта транзакции** |
+| **Валюта отчета**     | Выберите эту опцию, чтобы указать валюту для использования в отчете. Вы можете выбрать варианты:   -   **Местная валюта** -   **Валюта транзакции** |
 | **Новая страница для поставщика** | Выберите эту опцию, чтобы напечатать данные для каждого поставщика на отдельной странице. |
 
 ## <a name="vendor-reconciliation-act-report-report-14911"></a>Поставщик - акт выверки (отчет 14911)

@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: cost accounting
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 408dfeaeb56f271a2b9b3d5cf515e41abeaf78e8
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: af18a94f5cf6b24b0da24821499e3866487207be
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3195559"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3918542"
 ---
 # <a name="use-allocation-keys-in-general-journals"></a>Использование ключей распределения в финансовых журналах
 При учете журнала операцию финансового журнала можно распределить по нескольким разным счетам. Распределение может выполняться по количеству, по процентному отношению или сумме.

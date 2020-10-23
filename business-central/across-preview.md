@@ -6,14 +6,14 @@ ms.service: dynamics365-business-central
 ms.topic: article
 ms.workload: na
 ms.search.keywords: preview, trial, sandbox, subscription
-ms.date: 08/12/2020
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 342ffb57090aa78e10b8448b6316c610f6485040
-ms.sourcegitcommit: 79d6d270325f1cc88bd4e9a273f9ff859ceadcbc
+ms.openlocfilehash: d20b1814e6b5a21efee145223b42c703d65a6c2e
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/13/2020
-ms.locfileid: "3693103"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3924657"
 ---
 # <a name="d365fin_long-trials-and-subscriptions"></a>Пробные версии и подписки [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]
 
@@ -70,7 +70,7 @@ ms.locfileid: "3693103"
 
 При каждом выполнении входа во время пробного периода отображается уведомление вверху в синем поле с указанием оставшегося времени. Если вы решили оформить подписку, найдите партнера [!INCLUDE[d365fin](includes/d365fin_md.md)]. Для получения дополнительной информации см. раздел [Как найти партнера по перепродаже?](across-faq.md#findpartner), Партнер может помочь вам настроить [!INCLUDE[prodshort](includes/prodshort.md)] в соответствии с особенностями вашего бизнеса, в том числе импортировать данные из вашей предыдущей системы. Вы также можете настроить [!INCLUDE[prodshort](includes/prodshort.md)], добавив приложения из [Microsoft AppSource](https://go.microsoft.com/fwlink/?linkid=2081646).  
 
-Сетевая версия [!INCLUDE[prodshort](includes/prodshort.md)] использует Office 365. Если ваша компания использует другой тип настройки электронной почты, партнер может помочь вам решить, как выполнить миграцию, или же рекомендовать вам использовать локальную версию [!INCLUDE[prodshort](includes/prodshort.md)].  
+[!INCLUDE[prodshort](includes/prodshort.md)] (онлайн) использует Microsoft 365. Если ваша компания использует другой тип настройки электронной почты, партнер может помочь вам решить, как выполнить миграцию, или же рекомендовать вам использовать локальную версию [!INCLUDE[prodshort](includes/prodshort.md)].  
 
 Можно также связаться с [группой [!INCLUDE[d365fin](includes/d365fin_md.md)] Sales](https://go.microsoft.com/fwlink/?linkid=828707).  
 

@@ -9,14 +9,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: essential, basic, user interface, application area, experience
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: cc25efa746e7dd3282159b13ecea66ec66ac5e82
-ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
+ms.openlocfilehash: 1e4de0f59788bb49ebaead7a4ee2516ff32147eb
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "3785400"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3912450"
 ---
 # <a name="change-which-features-are-displayed"></a>Изменение набора отображаемых функций
 [!INCLUDE[d365fin](includes/d365fin_md.md)] разработан, чтобы помочь вам вести свой бизнес независимо от размера и сложности. В основе продукта вы найдете такие важные функции, как финансовая отчетность, продажи, закупки и управление запасами. По мере увеличения сложности бизнеса вы можете, например, включить функциональность для управления производством и обслуживанием.
@@ -40,7 +40,7 @@ ms.locfileid: "3785400"
 Параметр **Функциональность** применяется ко всем пользователям в компании, но каждый пользователь может дополнительно персонализировать свой собственный опыт, изменяя макеты страниц и контент. Дополнительные сведения см. в разделе [Персонализация рабочей области](ui-personalization-user.md).
 
 ## <a name="enabling-premium-features-after-upgrading-a-plan"></a>Включение функций Premium после перехода на план Premium
-Пользователи назначаются планам в Центре администрирования Microsoft 365 в ходе общей работы по созданию пользователей Business Central. Для получения дополнительной информации см. раздел [Добавление пользователей по отдельности или массово Office 365](https://support.office.com/article/Add-users-to-Office-365-for-business-435ccec3-09dd-4587-9ebd-2f3cad6bc2bc).
+Пользователи назначаются планам в Центре администрирования Microsoft 365 в ходе общей работы по созданию пользователей Business Central. Для получения дополнительной информации см. раздел [Добавление пользователей по отдельности или массово Microsoft 365](https://support.office.com/article/Add-users-to-Office-365-for-business-435ccec3-09dd-4587-9ebd-2f3cad6bc2bc).
 
 ### <a name="to-update-plan-changes-in-users-groups"></a>Обновление в соответствии с изменением плана в группах пользователей
 После внесения изменения в планы пользователей в Центре администрирования Microsoft 365, например назначения дополнительных пользователей плану Premium, это изменение необходимо отразить в [!INCLUDE[d365fin](includes/d365fin_md.md)].

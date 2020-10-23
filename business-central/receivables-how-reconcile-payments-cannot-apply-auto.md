@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: payment process, cash receipts
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: e2074a9c6209f6b292db27a4f719fa40b6b2cda6
-ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
+ms.openlocfilehash: 2b4acded234f4cb6aa0ef85c663866032ce49121
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "3782828"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3926451"
 ---
 # <a name="reconcile-payments-that-cannot-be-applied-automatically"></a>Выверка платежей, которые не могут быть применены автоматически
 Иногда может понадобиться обработать платежи на банковский счет, которые не могут быть применены к соответствующей отрытой операции книги клиентов, поставщиков или банковских счетов. Причинами могут быть отсутствие в [!INCLUDE[d365fin](includes/d365fin_md.md)] документа, к которому можно применить платеж, или расхождение в суммах между документом в [!INCLUDE[d365fin](includes/d365fin_md.md)] и транзакцией, например из-за обмена валюты. На странице **Журнал выверки платежей** все суммы транзакций для платежей, которые еще не применены, отображаются в поле **Разница**, включая суммы, которые не могут быть применены по вышеуказанным причинам.
