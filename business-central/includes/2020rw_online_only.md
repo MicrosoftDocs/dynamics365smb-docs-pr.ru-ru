@@ -1,0 +1,1 @@
+> <span data-ttu-id="eba3e-101">**ОТНОСИТСЯ К:** Business Central Online (выпуск 2020 г., волна 2 и новее)</span><span class="sxs-lookup"><span data-stu-id="eba3e-101">**APPLIES TO:** Business Central online (2020 release wave 2 and later)</span></span>
