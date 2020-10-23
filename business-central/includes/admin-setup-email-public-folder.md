@@ -2,19 +2,19 @@
 author: edupont04
 ms.service: dynamics365-accountant
 ms.topic: include
-ms.date: 06/25/2020
+ms.date: 10/02/2020
 ms.author: edupont
-ms.openlocfilehash: 8c5f4205128d52ec88f432cea7ece98e0310546d
-ms.sourcegitcommit: 3e9c89f90db5eaed599630299353300621fe4007
+ms.openlocfilehash: a62a1a628f22ff47fa86a64a72f5b1834960dc72
+ms.sourcegitcommit: 428f180604e5afcf94fa0e92a0615f58c88e13cd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "3528014"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "3931275"
 ---
-Прежде чем вы сможете настроить регистрацию электронной почты, вы должны подготовить Exchange Online с помощью [общие папки](/exchange/collaboration/public-folders/public-folders?view=exchserver-2019). Вы можете сделать это в [Центр администрирования Exchange](/Exchange/architecture/client-access/exchange-admin-center?view=exchserver-2019) или вы можете использовать [Командная консоль Exchange](/powershell/exchange/exchange-management-shell?view=exchange-ps).  
+Прежде чем вы сможете настроить регистрацию электронной почты, вы должны подготовить Exchange Online с помощью [общие папки](/exchange/collaboration/public-folders/public-folders?view=exchserver-2019&preserve-view=true ). Вы можете сделать это в [Центр администрирования Exchange](/Exchange/architecture/client-access/exchange-admin-center?view=exchserver-2019&preserve-view=true ) или вы можете использовать [Командная консоль Exchange](/powershell/exchange/exchange-management-shell?view=exchange-ps&preserve-view=true ).  
 
 > [!TIP]
-> Если вы хотите использовать [Командная консоль Exchange](/powershell/exchange/exchange-management-shell?view=exchange-ps), Вы можете найти вдохновение для того, как настроить свой скрипт в примере скрипта, который мы опубликовали в [репозитории BCTech](https://github.com/microsoft/BCTech/tree/master/samples/EmailLogging).
+> Если вы хотите использовать [Командная консоль Exchange](/powershell/exchange/exchange-management-shell?view=exchange-ps&preserve-view=true ), Вы можете найти вдохновение для того, как настроить свой скрипт в примере скрипта, который мы опубликовали в [репозитории BCTech](https://github.com/microsoft/BCTech/tree/master/samples/EmailLogging).
 
 В следующем списке описаны основные шаги со ссылками, чтобы узнать больше.  
 
@@ -26,7 +26,7 @@ ms.locfileid: "3528014"
   |Избранные роли  |Общие папки            |
   |Избранные участники|Электронный адрес учетной записи пользователя, которую Business Central будет использовать для выполнения задания регистрации электронной почты.|
 
-  Дополнительные сведения см. в разделе [Управление группами ролей](/exchange/permissions/role-groups?view=exchserver-2019).
+  Дополнительные сведения см. в разделе [Управление группами ролей](/exchange/permissions/role-groups?view=exchserver-2019&preserve-view=true).
 
 - Создайте новый почтовый ящик для общих папок на основе информации в следующей таблице:
 
@@ -43,15 +43,15 @@ ms.locfileid: "3528014"
     - ```\Email Logging\Queue\```
     - ```\Email Logging\Storage\```
 
-  Дополнительные сведения см. в разделе [Создание общей папки](/exchange/collaboration/public-folders/create-public-folders?view=exchserver-2019).
+  Дополнительные сведения см. в разделе [Создание общей папки](/exchange/collaboration/public-folders/create-public-folders?view=exchserver-2019&preserve-view=true).
 
 - Включение поддержки электронной почты для общая папка *Очередь*
 
-  Дополнительные сведения см. в [Включение или отключение поддержки электронной почты для общей папки](/exchange/collaboration/public-folders/mail-enable-or-disable?view=exchserver-2019)
+  Дополнительные сведения см. в [Включение или отключение поддержки электронной почты для общей папки](/exchange/collaboration/public-folders/mail-enable-or-disable?view=exchserver-2019&preserve-view=true)
 
 - Включение поддержки электронной почты отправка сообщений электронной почты в общая папка *Очередь* с помощью Outlook или Командная консоль Exchange
 
-  Дополнительные сведения см. в [Разрешить анонимным пользователям отправлять сообщения электронной почты в общую папку с включенной поддержкой электронной почты](/exchange/collaboration/public-folders/mail-enable-or-disable?view=exchserver-2019#allow-anonymous-users-to-send-email-to-a-mail-enabled-public-folder)
+  Дополнительные сведения см. в [Разрешить анонимным пользователям отправлять сообщения электронной почты в общую папку с включенной поддержкой электронной почты](/exchange/collaboration/public-folders/mail-enable-or-disable#allow-anonymous-users-to-send-email-to-a-mail-enabled-public-folder?view=exchserver-2019&preserve-view=true)
 
 - Задайте пользователя регистрации электронной почты в качестве владельца обеих общих папок, общие папки *Очередь* и *Хранилище* с использованием Outlook или командной консоли Exchange на основе информации в следующей таблице:
 
@@ -69,7 +69,7 @@ ms.locfileid: "3528014"
   |Правило для входящей эл. почты |Регистрировать сообщения электронной почты, присланные в эту организацию|*Отправитель* расположен *Вне организации*, и *получатель* расположен *Внутри организации*|Скрытая копия учетная запись электронной почты, указанная для общая папка *Очередь*|
   |Правило для исходящей эл. почты | Регистрировать сообщения электронной почты, отправленные из этой организации |*Отправитель* расположен *Внутри организации*, и *получатель* расположен *Вне организации*|Скрытая копия учетная запись электронной почты, указанная для общая папка *Очередь*|
   
-  Дополнительные сведения см. в [Управлять правилами потока почты в Exchange Online](/exchange/security-and-compliance/mail-flow-rules/manage-mail-flow-rules) и [Действия правила потока почты в Exchange Online](/exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-action).
+  Дополнительные сведения см. в [Управлять правилами потока почты в Exchange Online](/exchange/security-and-compliance/mail-flow-rules/manage-mail-flow-rules) и [Действия правила потока почты в Exchange Online](/exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions).
 
 > [!NOTE]
 > Если вы вносите изменения в командной консоли Exchange, эти изменения становятся видимыми в центре администрирования Exchange через некоторое время. Также внесенные в Exchange изменения будут доступны в [!INCLUDE[prodshort](prodshort.md)] через некоторое время.

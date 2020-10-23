@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: accounting, auditing, bookkeeping
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 60b62845a359cec21b52f42c6692edc417a65123
-ms.sourcegitcommit: 4545bb597dd9dc4c563b30af762977ee1d815497
+ms.openlocfilehash: cffe1bf3cc73660a75e6cca5d2d0e1e640c32423
+ms.sourcegitcommit: aea079b66e35c447bf31a11ffc2069cfdaf2ef38
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/29/2020
-ms.locfileid: "3410751"
+ms.lasthandoff: 10/08/2020
+ms.locfileid: "3970468"
 ---
 # <a name="finance"></a>Финансы
 [!INCLUDE[d365fin](includes/d365fin_md.md)] содержит стандартную конфигурацию большинства финансовых процессов, но вы можете изменить ее в соответствии со своими бизнес-потребностями. Дополнительные сведения см. в разделе [Настройка финансов](finance-setup-finance.md).
@@ -54,7 +54,12 @@ ms.locfileid: "3410751"
 | Отслеживание потока денежных средств в организацию и из нее. |[Анализ движения денежных средств в организации](finance-analyze-cash-flow.md) |
 |Следуйте полной процедуре по использованию финансовых отчетов для создания прогнозов движения денежных средств.|[Пошаговое руководство. Создание прогнозов движения денежных средств с использованием финансовых отчетов](walkthrough-making-cash-flow-forecasts-by-using-account-schedules.md)|
 | Работа с финансовыми отчетами и обзорами в Excel. |[Анализ финансовых выписок в Excel](finance-analyze-excel.md) |
-|Узнайте, как использовать ролевой центр бухгалтеров, пригласить внешнего бухгалтера и использовать Accountant Hub для управления счетами для нескольких клиентов.|[Работа бухгалтера в Business Central](finance-accounting.md)|  
+|Узнайте, как использовать ролевой центр бухгалтеров, пригласить внешнего бухгалтера и использовать раздел организации для управления счетами для нескольких клиентов.|[Работа бухгалтера в Business Central](finance-accounting.md)|  
+
+## <a name="take-a-video-tour"></a>Смотреть видеообзор
+Следующее видео знакомит с некоторыми ключевыми возможностями управления финансами. <br><br>  
+
+> [!Video https://www.microsoft.com/videoplayer/embed/RE4Fss4?rel=0]
 
 ## <a name="see-also"></a>См. также
 [Настройка финансов](finance-setup-finance.md)  

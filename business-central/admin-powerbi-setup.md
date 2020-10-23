@@ -1,6 +1,6 @@
 ---
-title: Включение интеграции Power BI с Business Central | Документация Майкрософт
-description: Анализ данных, бизнес-аналитика и КПЭ на основе данных Business Central становятся проще благодаря приложениям Business Central для Power BI.
+title: Включение интеграции Power BI с Business Central
+description: Узнайте, как настроить подключение к Power Bi, чтобы вы могли получать аналитические данные, бизнес-аналитику и ключевые показатели эффективности из данных Business Central с помощью приложений Business Central для Power BI.
 author: jswymer
 ms.service: dynamics365-business-central
 ms.topic: get-started-article
@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: account schedule, analysis, reporting, financial report, business intelligence, KPI
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.author: jswymer
-ms.openlocfilehash: 92b3bb1d04c58332db20c978928fe1b04ed2ab37
-ms.sourcegitcommit: aeaa0dc64e54432a70c4b0e1faf325cd17d01389
+ms.openlocfilehash: ce4b45dbe80ab1972c92cde144b457eeeaff3402
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "3697785"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3927076"
 ---
 # <a name="enabling-power-bi-integration-with-prodshort"></a>Включение интеграции Power BI с [!INCLUDE[prodshort](includes/prodshort.md)]
 
@@ -27,8 +27,8 @@ ms.locfileid: "3697785"
 
 |Лицензия Power|Просмотр отчетов|Создание отчетов|Предоставление доступа к отчетам|Обновление отчетов| Приложения [!INCLUDE[prodshort](includes/prodshort.md)]|
 |-------------|--------||
-|Бесплатная Power BI|![галочка](media/check.png)|![галочка](media/check.png)|(ограничено)|(ограничено)||
-|Power BI Pro|![галочка](media/check.png)|![галочка](media/check.png)|![галочка](media/check.png)|(обширная)|![галочка](media/check.png)|
+|Бесплатная Power BI|![флажок](media/check.png)|![еще один флажок](media/check.png)|(ограничено)|(ограничено)||
+|Power BI Pro|![и еще один флажок](media/check.png)|![это флажок](media/check.png)|![снова флажок](media/check.png)|(обширная)|![последний флажок](media/check.png)|
 
 Дополнительные сведения см. в разделе [Лицензирование службы Power BI для пользователей в вашей организации](/power-bi/admin/service-admin-licensing-organization) или [Регистрация на службу Power BI как физическое лицо](/power-bi/fundamentals/service-self-service-signup-for-power-bi).
 

@@ -2,31 +2,35 @@
 title: Учебный каталог Business Central
 description: Учебный каталог Business Central
 author: loreleishannonmsft
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.topic: article
 ms.author: margoc
-ms.openlocfilehash: a8a235e07b887653d2b1a68acb03c6b589bc358c
-ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
+ms.openlocfilehash: 174ec9f3c51332bec35f1fc7cf49501e8f4b5fc1
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "3778769"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3926751"
 ---
 # <a name="business-central-learning-catalog"></a>Учебный каталог Business Central
+
 Найдите подходящее онлайн-обучение, личные семинары и мероприятия для вашей роли пользователя или партнера Business Central.
 
 :::row:::
+
     :::column:::
 
     ### <a name="business-decision-maker"></a>Лица, принимающие бизнес-решения
 
     Вы решаете, стоит ли инвестировать в новые технологии? 
 
-    [Каталог обучения лиц, принимающих деловые решения](readiness-learning-bus-decision-makers.md)
+    [Узнайте о бизнес-ценности Business Central (бесплатный путь онлайн-обучения в произвольном темпе)](/learn/modules/dynamics-365-business-central/)
 
-    [Ценность для бизнеса](readiness-learning-bus-decision-makers.md#busvalue)
+    [Начало (бесплатный путь онлайн-обучения в произвольном темпе)](/learn/paths/get-started-dynamics-365-business-central/)
 
-    [Начало работы](readiness-learning-bus-decision-makers.md#get-started)
+    [Изучение возможностей Dynamics 365 Business Central](https://dynamics.microsoft.com/business-central/capabilities/)
+
+    [Видео Business Central по YouTube](https://go.microsoft.com/fwlink/?linkid=851533)
 
     :::column-end:::
 
@@ -36,36 +40,27 @@ ms.locfileid: "3778769"
 
     Вы только что получили новое приложение для использования? 
 
-    [Учебный каталог бизнес-пользователя](readiness-learning-bus-users.md)
+    [Начало (бесплатный путь онлайн-обучения в произвольном темпе)](/learn/paths/get-started-dynamics-365-business-central/)
 
-    [Начало работы](readiness-learning-bus-users.md#get-started)
+    [Пути обучения Business Central (бесплатные пути онлайн-обучения в произвольном темпе)](/learn/browse/?products=dynamics-business-central&roles=business-user&resource_type=learning%20path)
 
-    [Финансы](readiness-learning-bus-users.md#financials)
-
-    [Торговля](readiness-learning-bus-users.md#trade)
+    [Видео Business Central по YouTube](https://go.microsoft.com/fwlink/?linkid=851533)
 
     :::column-end:::
 
 :::row-end:::
 
 :::row:::
+
     :::column:::
 
     ### <a name="developer"></a>Разработчик
 
     Вам нужно написать код для интеграции с другими источниками данных, расширить функциональность базовой системы или создать сложное приложение?
 
-    [Каталог обучения разработчиков](readiness-learning-developers.md)
+    [Пути обучения Business Central (бесплатные пути онлайн-обучения в произвольном темпе)](/learn/browse/?products=dynamics-business-central&roles=developer&resource_type=learning%20path)
 
-    [Приступая к работе](readiness-learning-developers.md#get-started)
-
-    [Новые возможности](readiness-learning-developers.md#whatsnew)
-
-    [Базовая разработка](readiness-learning-developers.md#core-development)
-
-    [Управление жизненным циклом приложений](readiness-learning-developers.md#applife)
-
-    [Connect Apps](readiness-learning-developers.md#connect-apps)
+    [Документация разработчика](/dynamics365/business-central/dev-itpro/developer/devenv-dev-overview)
 
     :::column-end:::
 
@@ -75,57 +70,9 @@ ms.locfileid: "3778769"
     
     Вы эксперт по внедрению для бизнес-сферы? 
 
-    [Каталог обучения функционального консультанта](readiness-learning-functional-consultants.md)
+    [Пути обучения Business Central (бесплатные пути онлайн-обучения в произвольном темпе)](/learn/browse/?products=dynamics-business-central&roles=functional-consultant&resource_type=learning%20path)
 
-    [Начало работы](readiness-learning-functional-consultants.md#get-started)
-
-    [Развертывание](readiness-learning-functional-consultants.md#deploy)
-
-    [Финансы](readiness-learning-functional-consultants.md#financials)
-
-    [Торговля](readiness-learning-functional-consultants.md#trade)
-
-    [Облако](readiness-learning-functional-consultants.md#cloud)
-
-    :::column-end:::
-
-:::row-end:::
-
-:::row:::
-
-    :::column:::
-
-    ### <a name="partner-pre-sales"></a>Предварительные продажи партнера
-
-    Вы несете ответственность за демонстрацию ключевых функций для клиентов? 
-
-    [Каталог предпродажного обучения](readiness-learning-presales.md)
-
-    [Начало работы](readiness-learning-presales.md#get-started)
-
-    [Рост вашего бизнеса](readiness-learning-presales.md#grow)
-
-    [Ценность для бизнеса](readiness-learning-presales.md#busvalue)
-
-    [Новые возможности](readiness-learning-presales.md#whatsnew)
-
-    [Демонстрация](readiness-learning-presales.md#demo)
-
-    :::column-end:::
-
-    :::column:::
-
-    ### <a name="partner-sales"></a>Продажи партнера
-
-    Вы несете ответственность за помощь своим клиентам в приобретении правильного решения? 
-
-    [Каталог обучения продажам](readiness-learning-sales.md)
-
-    [Начало работы](readiness-learning-sales.md#get-started)
-
-    [Рост вашего бизнеса](readiness-learning-sales.md#grow)
-
-    [Ценность для бизнеса](readiness-learning-sales.md#busvalue)
+    [Видео Business Central по YouTube](https://go.microsoft.com/fwlink/?linkid=851533)
 
     :::column-end:::
 

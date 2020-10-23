@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 33d5caec7086d12b9a2450fc36224987c5a97642
-ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
+ms.openlocfilehash: e25082286f53c5b0458359d5f5c895b03c6f6bcf
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "3783530"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3927126"
 ---
 # <a name="migrate-customer-data"></a>Миграция данных клиента
 Можно перенести существующие данные клиента из существующей системы ERP в [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью инструментов переноса данных RapidStart Services. В качестве носителей информации можно использовать файлы Excel. Также можно вручную данные, вводя их непосредственно в организацию.

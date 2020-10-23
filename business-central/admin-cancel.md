@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: remove, delete
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 163c1522fce412e1877aa63dad914ca0a75c661e
-ms.sourcegitcommit: 3e9c89f90db5eaed599630299353300621fe4007
+ms.openlocfilehash: 8c70989e841da98594e8bc0c2436dbed8cda997b
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "3528416"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3927151"
 ---
 # <a name="unsubscribe-or-remove-prodshort"></a>Отмена подписки или удаление [!INCLUDE[prodshort](includes/prodshort.md)]
 
@@ -25,13 +25,13 @@ ms.locfileid: "3528416"
 
 Если вы зарегистрировались на бесплатное пробное пользование, но не хотите продолжать пользоваться [!INCLUDE[d365fin](includes/d365fin_md.md)], вы можете в любой момент закрыть свою учетную запись. Перед закрытием учетной записи рекомендуем экспортировать данные, если они у вас есть. 
 
-Вы должны спросить своего администратора Office 365 удалить пробную подписку из учетной записи вашей компании в [Центре администрирования Microsoft 365](https://admin.microsoft.com/). 
+Вы должны спросить своего администратора Microsoft 365 удалить пробную подписку из учетной записи вашей компании в [Центре администрирования Microsoft 365](https://admin.microsoft.com/). 
 
-Если вы зарегистрировались на [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью учетной записи, не являющейся деловой учетной записью Office 365, у вас нет администратора Office 365. Вместо этого следует отменить подписку, связавшись с отделом отмены [!INCLUDE[d365fin](includes/d365fin_md.md)] путем отправки сообщения электронной почты по адресу cancelbusinesscentra@microsoft.com. Вы должны указать имя своего арендатора [!INCLUDE[d365fin](includes/d365fin_md.md)] в сообщении, чтобы мы могли идентифицировать вас. Вы можете найти эту информацию на странице **Справка и поддержка**. Дополнительные сведения см. в разделе [Ресурсы по Справке и поддержке](product-help-and-support.md).  
+Если вы зарегистрировались на [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью учетной записи, не являющейся деловой учетной записью Microsoft 365, у вас нет администратора Microsoft 365. Вместо этого следует отменить подписку, связавшись с отделом отмены [!INCLUDE[d365fin](includes/d365fin_md.md)] путем отправки сообщения электронной почты по адресу cancelbusinesscentra@microsoft.com. Вы должны указать имя своего арендатора [!INCLUDE[d365fin](includes/d365fin_md.md)] в сообщении, чтобы мы могли идентифицировать вас. Вы можете найти эту информацию на странице **Справка и поддержка**. Дополнительные сведения см. в разделе [Ресурсы по Справке и поддержке](product-help-and-support.md).  
 
-## <a name="unsubscribing-by-removing-d365fin-from-your-office-365-experience"></a>Отмена подписки путем удаления [!INCLUDE[d365fin](includes/d365fin_md.md)] из Office 365
+## <a name="unsubscribing-by-removing-d365fin-from-your-microsoft-365-experience"></a>Отмена подписки путем удаления [!INCLUDE[d365fin](includes/d365fin_md.md)] из Microsoft 365
 
-Если ваша компания подписывается на [!INCLUDE[prodshort](includes/prodshort.md)], но вам, как пользователю, больше не нужен доступ, вы должны попросить администратора или партнера Dynamics 365 удалить лицензию [!INCLUDE[d365fin](includes/d365fin_md.md)] из вашей учетной записи пользователя Office 365. Если [!INCLUDE[d365fin](includes/d365fin_md.md)] удаляется из вашей учетной записи, а другие пользователи в организации продолжают использовать подписку, они по-прежнему будут иметь доступ к общим данным в организации [!INCLUDE[d365fin](includes/d365fin_md.md)].  
+Если ваша компания подписывается на [!INCLUDE[prodshort](includes/prodshort.md)], но вам, как пользователю, больше не нужен доступ, вы должны попросить администратора или партнера Dynamics 365 удалить лицензию [!INCLUDE[d365fin](includes/d365fin_md.md)] из вашей учетной записи пользователя Microsoft 365. Если [!INCLUDE[d365fin](includes/d365fin_md.md)] удаляется из вашей учетной записи, а другие пользователи в организации продолжают использовать подписку, они по-прежнему будут иметь доступ к общим данным в организации [!INCLUDE[d365fin](includes/d365fin_md.md)].  
 
 Если ваша компания желает отменить подписку на [!INCLUDE[d365fin](includes/d365fin_md.md)], партнер Dynamics 365 может удалить платную подписку из учетной записи компании. Для получения дополнительной информации см. раздел [Администрирование Business Central Online](/dynamics365/business-central/dev-itpro/administration/tenant-administration) в содержимом для разработчиков и ИТ-специалистов.  
 

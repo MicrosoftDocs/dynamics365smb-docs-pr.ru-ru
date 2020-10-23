@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: cancel, undo, correct
-ms.date: 07/02/2020
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 2c6bbddbdc6dcfc75fc32ada91a5d6d6ec5bde1e
-ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
+ms.openlocfilehash: b3d45d4a058ea21adefafd13e640346e61a249d3
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "3783078"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3926876"
 ---
 # <a name="process-purchase-returns-or-cancellations"></a>Обработка возвратов покупки или отмен
 
@@ -193,4 +193,5 @@ ms.locfileid: "3783078"
 [Покупки](purchasing-manage-purchasing.md)  
 [Регистрация покупок](purchasing-how-record-purchases.md)  
 [Исправление или отмена неоплаченных счетов покупки](purchasing-how-correct-cancel-unpaid-purchase-invoices.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Обработка возвратов продажи или отмен](sales-how-process-sales-returns-cancellations.md)  

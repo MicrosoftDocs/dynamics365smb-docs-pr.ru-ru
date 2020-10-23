@@ -5,14 +5,14 @@ author: edupont04
 ms.service: dynamics365-business-central
 ms.topic: get-started-article
 ms.search.keywords: setup wizard
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 41281996dccf0c3ee142c063ad56c782dab49230
-ms.sourcegitcommit: 3e9c89f90db5eaed599630299353300621fe4007
+ms.openlocfilehash: d040507dad53ad6e9ba5407dcf457e04afa751c7
+ms.sourcegitcommit: aea079b66e35c447bf31a11ffc2069cfdaf2ef38
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "3528742"
+ms.lasthandoff: 10/08/2020
+ms.locfileid: "3970442"
 ---
 # <a name="getting-started-with-d365fin_long"></a>Приступая к работе с [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]
 [!INCLUDE[d365fin](includes/d365fin_md.md)] — это решение по управлению деятельностью для малых и средних предприятий, позволяющее автоматизировать и упростить бизнес процессы и лучше управлять бизнесом. Регистрация очень проста, и вы можете перенести существующие бизнес-данные из своей системы.  
@@ -74,8 +74,6 @@ ms.locfileid: "3528742"
 
 ## <a name="other-dynamics-365-apps"></a>Другие приложения Dynamics 365
 Перейдите к содержимому о других приложениях Dynamics 365 , выбрав ссылку [Dynamics 365](/dynamics365/) на черном баннере вверху этой страницы. Дополнительные сведения можно также получить на [веб-сайте Dynamics 365 Business Central](https://dynamics.microsoft.com/business-central/overview/).  
-
-<!--COMMENTINGOUTTOREDUCENOISEIf you are an accountant, you can sign up for [!INCLUDE[d365acc_long](includes/d365acc_long_md.md)] and have seamless integration with [!INCLUDE[d365fin](includes/d365fin_md.md)]. For more information, see [Welcome to Dynamics 365 — Accountant Hub](/dynamics365/accountants/index).-->
 
 ## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/get-started-dynamics-365-business-central/)
 

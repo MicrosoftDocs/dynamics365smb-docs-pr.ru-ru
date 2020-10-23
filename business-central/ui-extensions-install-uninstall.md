@@ -9,14 +9,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: app, add-in, manifest, customize, install, uninstall
-ms.date: 09/04/2020
+ms.date: 10/01/2020
 ms.author: solsen
-ms.openlocfilehash: da6e53a314438ef7ce5063febf8ece1d18c69f7b
-ms.sourcegitcommit: 43284728c34b72ad1984a516273dc80e4cdc99ab
+ms.openlocfilehash: a0e62b60f9624cad44efa7fd42c5840a2ecd07b5
+ms.sourcegitcommit: aea079b66e35c447bf31a11ffc2069cfdaf2ef38
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "3766095"
+ms.lasthandoff: 10/08/2020
+ms.locfileid: "3970364"
 ---
 # <a name="installing-and-uninstalling-extensions-in-business-central"></a>Установка и удаление расширений в Business Central
 
@@ -48,29 +48,29 @@ ms.locfileid: "3766095"
 
 Корпорация Майкрософт предоставляет следующие расширения:
 
-* [Портал бухгалтера для Business Central](ui-extensions-accountant-portal.md)  
-* [Зарплата Ceridian](ui-extensions-ceridian-payroll.md) 
-* [Миграция данных Dynamics GP](ui-extensions-dynamicsgp-data-migration.md)  
-* [Envestnet Yodlee Bank Feeds](ui-extensions-yodlee-bank-feeds.md) 
-* [Важная бизнес-аналитика](ui-extensions-essential-business-insights.md)   
-* [Анализатор изображений](ui-extensions-image-analyzer.md) 
-* [Интеллектуальное облако](ui-extensions-data-replication.md)    
+* [Расширение AMC Banking 365 Fundamentals](ui-extensions-amc-banking.md)
+* [Зарплата Ceridian](ui-extensions-ceridian-payroll.md)
+* [Раздел организации](ui-extensions-company-hub.md)  
+* [Миграция данных Dynamics GP](ui-extensions-dynamicsgp-data-migration.md)
+* [Envestnet Yodlee Bank Feeds](ui-extensions-yodlee-bank-feeds.md)
+* [Важная бизнес-аналитика](ui-extensions-essential-business-insights.md)
+* [Анализатор изображений](ui-extensions-image-analyzer.md)
+* [Интеллектуальное облако](ui-extensions-data-replication.md)
 * [База интеллектуального облака](ui-extensions-intelligent-cloud.md)  
-* [Прогнозы просрочки оплаты](ui-extensions-late-payment-prediction.md)  
-* [Microsoft Pay](ui-extensions-microsoft-pay-payments.md)  
-* [PayPal Payments Standard](ui-extensions-paypal-payments-standard.md) 
-* [Миграция данных QuickBooks](ui-extensions-quickbooks-data-migration.md)   
-* [Миграция данных QuickBooks Online](ui-extensions-quickbooks-online-data-migration.md) 
-* [Импорт файла зарплаты Quickbooks](ui-extensions-quickbooks-payroll.md) 
-* [Прогноз продаж и запасов](ui-extensions-sales-forecast.md)   
-* [WorldPay Payments Standard](ui-extensions-worldpay-payments-standard.md) 
-* [Расширение AMC Banking 365 Fundamentals](ui-extensions-amc-banking.md)    
-* [DK — Миграция данных C5](ui-extensions-c5-data-migration.md)  
-* [DK — Платежи и выверки](ui-extensions-payments-reconciliation-formats-dk.md)  
-* [DK — Форматы налоговой документации](ui-extensions-tax-file-formats-dk.md) 
-* [UK — Почтовые индексы Великобритании GetAddress.io](ui-extensions-getaddressio.md)  
-* [US/CA/UK/AU/NZ/ZA — Отправить авизо](ui-extensions-send-remittance-advice.md) 
-* [Расширения для Business Central от других поставщиков](ui-extensions-other.md)
+* [Прогнозы просрочки оплаты](ui-extensions-late-payment-prediction.md)
+* [Microsoft Pay](ui-extensions-microsoft-pay-payments.md)
+* [PayPal Payments Standard](ui-extensions-paypal-payments-standard.md)
+* [Миграция данных QuickBooks](ui-extensions-quickbooks-data-migration.md)
+* [Миграция данных QuickBooks Online](ui-extensions-quickbooks-online-data-migration.md)
+* [Импорт файла зарплаты Quickbooks](ui-extensions-quickbooks-payroll.md)
+* [Прогноз продаж и запасов](ui-extensions-sales-forecast.md)
+* [Группа НДС](ui-extensions-vat-group.md)
+* [WorldPay Payments Standard](ui-extensions-worldpay-payments-standard.md)
+* [DK — Миграция данных C5](ui-extensions-c5-data-migration.md)
+* [DK — Платежи и выверки](ui-extensions-payments-reconciliation-formats-dk.md)
+* [DK — Форматы налоговой документации](ui-extensions-tax-file-formats-dk.md)
+* [UK — Почтовые индексы Великобритании GetAddress.io](ui-extensions-getaddressio.md)
+* [US/CA/UK/AU/NZ/ZA — Отправить авизо](ui-extensions-send-remittance-advice.md)
 
 ## <a name="uninstalling-an-extension"></a>Удаление расширения
 
@@ -80,8 +80,8 @@ ms.locfileid: "3766095"
 > Если вы установите флажок **Удалить данные расширения**, вы получите диалоговое окно подтверждения, и вы должны выбрать **ОК**. С установленным флажком **Удалить данные расширения** теперь вы можете удалить расширение, и вам будет предложено еще раз подтвердить, что вы хотите удалить расширение и удалить данные. Отменить это действие невозможно.
 Некоторые расширения являются обязательными. Удалить эти расширения со страницы **Управление расширениями** нельзя. Если вы попытаетесь это сделать, появится сообщение об ошибке.  
 
-
 ## <a name="see-also"></a>См. также
+
 [Расширение Dynamics 365 Business Central](about-develop-extensions.md)  
 [Расширения для Business Central от других поставщиков](ui-extensions-other.md)  
 [Настройка службы Envestnet Yodlee Bank Feeds](bank-how-setup-bank-statement-service.md)  

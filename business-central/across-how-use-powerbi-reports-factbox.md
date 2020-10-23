@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: business intelligence, KPI, Odata, Power App, SOAP, analysis
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.author: jswymer
-ms.openlocfilehash: 5d3acaf05952a61845eb8bb72b2556f2e54f8208
-ms.sourcegitcommit: aeaa0dc64e54432a70c4b0e1faf325cd17d01389
+ms.openlocfilehash: 04c0c5d203e78c2ae0be48609a5ee90f45b83c6f
+ms.sourcegitcommit: 0fb6952376d853a878ed33257e73aadc03b95572
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "3697702"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "3968389"
 ---
 # <a name="creating-power-bi-reports-for-displaying-list-data-in-prodshort"></a>Создание отчетов Power BI для отображения данных списка в [!INCLUDE[prodshort](includes/prodshort.md)]
 
@@ -36,15 +36,15 @@ ms.locfileid: "3697702"
 
 Чтобы обновить данные для выбранной записи в списке, вы добавляете фильтр в отчет. Фильтр должен включать поле источника данных, которое используется в качестве *первичного ключа*. В большинстве случаев первичным ключом для списка является **Номер**. .
 
-Для определения фильтра для отчета выберите первичный ключ из списка доступных полей, а затем перетащите это поле в раздел **Фильтр отчета**. Фильтр должен быть основным фильтром отчета. Это не может быть страничный, визуальный или расширенный фильтр. 
+Для определения фильтра для отчета выберите первичный ключ из списка доступных полей, а затем перетащите это поле в раздел **Фильтр отчета**. Фильтр должен быть основным фильтром отчета, определенным для всех страниц. Это не может быть страничный, визуальный или расширенный фильтр.
 
-![Настройка фильтра отчета для отчета "Активность счетов продаж"](./media/across-how-use-powerbi-reports-factbox/financials-powerbi-report-filter.png)
+![Настройка фильтра отчета для отчета "Активность счетов продаж"](./media/across-how-use-powerbi-reports-factbox/financials-powerbi-report-filter-v3.png)
 
 ## <a name="setting-the-report-size-and-color"></a>Настройка размера и цвета отчета
 
 Отчет должен иметь размер 325 х 310 пикселей. Этот размер обеспечивает правильное масштабирование отчета в доступном пространстве элемента управления информационной панелью Power BI в [!INCLUDE[d365fin](includes/d365fin_md.md)]. Чтобы определить размер отчета, поместите фокус вне области макета отчета, а затем щелкните значок валика.
 
-![Настройка ширины и высоты отчета для отчета "Активность счетов продаж"](./media/across-how-use-powerbi-reports-factbox/financials-powerbi-report-sizing.png)
+![Настройка ширины и высоты отчета для отчета "Активность счетов продаж"](./media/across-how-use-powerbi-reports-factbox/financials-powerbi-report-sizing-v3.png)
 
 Можно изменить ширину и высоту отчета, выбрав значение **Пользовательский** в поле **Тип**.
 

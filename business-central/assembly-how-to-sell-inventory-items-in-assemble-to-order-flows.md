@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: kit, kitting
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 4386888ed1c4803787938161f8c9e1071dd524e4
-ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
+ms.openlocfilehash: 170f98f5bf876f6b090a1980e345b40809cea545
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "3786050"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3927051"
 ---
 # <a name="sell-inventory-items-in-assemble-to-order-flows"></a>Продажа складских товаров в потоках сборки на заказ
 Если поле **Политика сборки** в карточке товара сборочного элемента имеет значение **Сборка на заказ** процесс продажи по умолчанию предполагает, что товар отсутствует в запасах и должен быть собран для данного конкретного заказа на продажу. Поэтому связанный сборочный заказ создается автоматически при добавлении товара в строку заказа на продажу. Дополнительные сведения см. в разделе [Продажа товара, собранного на заказ](assembly-how-to-sell-items-assembled-to-order.md). Если часть (или все) количества заказов на продажу уже доступна на складе, можно создать уменьшение количества сборочного заказа, изменив поле **Количество для сборки на заказ** в строке заказа на продажу.  
