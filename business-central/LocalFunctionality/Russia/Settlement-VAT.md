@@ -5,63 +5,63 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: e5c973ad2ba1de073834ebd5932447adc6a8d78b
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: b0e4cad40bbc01be31295025a2ad6b2f9a962375
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3180986"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3921289"
 ---
-# <a name="vat-settlement"></a><span data-ttu-id="687dd-103">Зачет НДС</span><span class="sxs-lookup"><span data-stu-id="687dd-103">VAT Settlement</span></span>
+# <a name="vat-settlement"></a><span data-ttu-id="91d59-103">Зачет НДС</span><span class="sxs-lookup"><span data-stu-id="91d59-103">VAT Settlement</span></span>
 
-<span data-ttu-id="687dd-104">Возможен полный зачет НДС или части НДС.</span><span class="sxs-lookup"><span data-stu-id="687dd-104">It is possible to settlement full VAT or part of VAT.</span></span>
+<span data-ttu-id="91d59-104">Возможен полный зачет НДС или части НДС.</span><span class="sxs-lookup"><span data-stu-id="91d59-104">It is possible to settlement full VAT or part of VAT.</span></span>
 
-## <a name="setup"></a><span data-ttu-id="687dd-105">Настройка</span><span class="sxs-lookup"><span data-stu-id="687dd-105">Setup</span></span>
+## <a name="setup"></a><span data-ttu-id="91d59-105">Настройка</span><span class="sxs-lookup"><span data-stu-id="91d59-105">Setup</span></span>
 
-<span data-ttu-id="687dd-106">Вы должны настроить учетные группы НДС на странице **Настройка учета НДС**.</span><span class="sxs-lookup"><span data-stu-id="687dd-106">You must set up VAT posting groups in the **VAT posting setup** page.</span></span> <span data-ttu-id="687dd-107">Вы можете указать НДС бизнес-группу или НДС товарную группу.</span><span class="sxs-lookup"><span data-stu-id="687dd-107">You can specify a VAT Business posting group and VAT product posting group.</span></span>  
+<span data-ttu-id="91d59-106">Вы должны настроить учетные группы НДС на странице **Настройка учета НДС**.</span><span class="sxs-lookup"><span data-stu-id="91d59-106">You must set up VAT posting groups in the **VAT posting setup** page.</span></span> <span data-ttu-id="91d59-107">Вы можете указать НДС бизнес-группу или НДС товарную группу.</span><span class="sxs-lookup"><span data-stu-id="91d59-107">You can specify a VAT Business posting group and VAT product posting group.</span></span>  
 
-- <span data-ttu-id="687dd-108">Тип расчета НДС - Обычный НДС</span><span class="sxs-lookup"><span data-stu-id="687dd-108">Type of VAT calculation – normal VAT</span></span>
-- <span data-ttu-id="687dd-109">Тип транз. НДС - Сумма и налог</span><span class="sxs-lookup"><span data-stu-id="687dd-109">Type of transit VAT – Amount and tax</span></span>
-- <span data-ttu-id="687dd-110">Вы можете указать транзитный счет НДС</span><span class="sxs-lookup"><span data-stu-id="687dd-110">You can specify a VAT transit account</span></span>
-- <span data-ttu-id="687dd-111">В поле "Вид нереализованного НДС" - процент</span><span class="sxs-lookup"><span data-stu-id="687dd-111">In the field "Type of unrealized VAT" - percentage</span></span>
-- <span data-ttu-id="687dd-112">Укажите счет НДС</span><span class="sxs-lookup"><span data-stu-id="687dd-112">Specify the VAT Account</span></span>
-- <span data-ttu-id="687dd-113">Установлено "Зачет НДС вручную"</span><span class="sxs-lookup"><span data-stu-id="687dd-113">Checked the "VAT manual" installed</span></span>
-- <span data-ttu-id="687dd-114">Указаны шаблон зачета НДС и раздел зачета НДС</span><span class="sxs-lookup"><span data-stu-id="687dd-114">The VAT settlement template and VAT settlement batch is specified</span></span>  
-- <span data-ttu-id="687dd-115">Указан счет нереализованного</span><span class="sxs-lookup"><span data-stu-id="687dd-115">Specified Account Unreal.</span></span> <span data-ttu-id="687dd-116">НДС</span><span class="sxs-lookup"><span data-stu-id="687dd-116">VAT</span></span>
+- <span data-ttu-id="91d59-108">Тип расчета НДС - Обычный НДС</span><span class="sxs-lookup"><span data-stu-id="91d59-108">Type of VAT calculation – normal VAT</span></span>
+- <span data-ttu-id="91d59-109">Тип транз. НДС - Сумма и налог</span><span class="sxs-lookup"><span data-stu-id="91d59-109">Type of transit VAT – Amount and tax</span></span>
+- <span data-ttu-id="91d59-110">Вы можете указать транзитный счет НДС</span><span class="sxs-lookup"><span data-stu-id="91d59-110">You can specify a VAT transit account</span></span>
+- <span data-ttu-id="91d59-111">В поле "Вид нереализованного НДС" - процент</span><span class="sxs-lookup"><span data-stu-id="91d59-111">In the field "Type of unrealized VAT" - percentage</span></span>
+- <span data-ttu-id="91d59-112">Укажите счет НДС</span><span class="sxs-lookup"><span data-stu-id="91d59-112">Specify the VAT Account</span></span>
+- <span data-ttu-id="91d59-113">Установлено "Зачет НДС вручную"</span><span class="sxs-lookup"><span data-stu-id="91d59-113">Checked the "VAT manual" installed</span></span>
+- <span data-ttu-id="91d59-114">Указаны шаблон зачета НДС и раздел зачета НДС</span><span class="sxs-lookup"><span data-stu-id="91d59-114">The VAT settlement template and VAT settlement batch is specified</span></span>  
+- <span data-ttu-id="91d59-115">Указан счет нереализованного</span><span class="sxs-lookup"><span data-stu-id="91d59-115">Specified Account Unreal.</span></span> <span data-ttu-id="91d59-116">НДС</span><span class="sxs-lookup"><span data-stu-id="91d59-116">VAT</span></span>
 
-## <a name="vat-settlement"></a><span data-ttu-id="687dd-117">Зачет НДС</span><span class="sxs-lookup"><span data-stu-id="687dd-117">VAT settlement</span></span>
+## <a name="vat-settlement"></a><span data-ttu-id="91d59-117">Зачет НДС</span><span class="sxs-lookup"><span data-stu-id="91d59-117">VAT settlement</span></span>
 
-<span data-ttu-id="687dd-118">Чтобы вручную зачесть НДС, необходимо использовать рабочий лист для зачета НДС.</span><span class="sxs-lookup"><span data-stu-id="687dd-118">For manual settlement of VAT it is necessary to use the VAT settlement worksheet.</span></span>   
+<span data-ttu-id="91d59-118">Чтобы вручную зачесть НДС, необходимо использовать рабочий лист для зачета НДС.</span><span class="sxs-lookup"><span data-stu-id="91d59-118">For manual settlement of VAT it is necessary to use the VAT settlement worksheet.</span></span>   
 
-<span data-ttu-id="687dd-119">Рабочая дата должна быть в текущем месяце, за в котором нужно зачесть НДС.</span><span class="sxs-lookup"><span data-stu-id="687dd-119">The working date must be set to the current month in which VAT is to be settlement.</span></span>  
+<span data-ttu-id="91d59-119">Рабочая дата должна быть в текущем месяце, за в котором нужно зачесть НДС.</span><span class="sxs-lookup"><span data-stu-id="91d59-119">The working date must be set to the current month in which VAT is to be settlement.</span></span>  
 
 > [!NOTE]
-> <span data-ttu-id="687dd-120">Перед расчетом НДС необходимо проверить данные документа НДС.</span><span class="sxs-lookup"><span data-stu-id="687dd-120">Before calculating VAT, you must check the data of the VAT document.</span></span> <span data-ttu-id="687dd-121">Если вы видите, что данные пусты, вы должны заполнить поля и использовать функцию "Изменить счета-фактуры поставщика".</span><span class="sxs-lookup"><span data-stu-id="687dd-121">If you see that the data is empty, you must fill in the fields and use the -> Change Vendor VAT Invoices function.</span></span>
-> <span data-ttu-id="687dd-122">Дополнительный способ изменить данные счета НДС — использовать эту функцию в книге поставщиков.</span><span class="sxs-lookup"><span data-stu-id="687dd-122">An additional way to change the VAT invoice data is to use this function in the vendor Ledger.</span></span>
+> <span data-ttu-id="91d59-120">Перед расчетом НДС необходимо проверить данные документа НДС.</span><span class="sxs-lookup"><span data-stu-id="91d59-120">Before calculating VAT, you must check the data of the VAT document.</span></span> <span data-ttu-id="91d59-121">Если вы видите, что данные пусты, вы должны заполнить поля и использовать функцию "Изменить счета-фактуры поставщика".</span><span class="sxs-lookup"><span data-stu-id="91d59-121">If you see that the data is empty, you must fill in the fields and use the -> Change Vendor VAT Invoices function.</span></span>
+> <span data-ttu-id="91d59-122">Дополнительный способ изменить данные счета НДС — использовать эту функцию в книге поставщиков.</span><span class="sxs-lookup"><span data-stu-id="91d59-122">An additional way to change the VAT invoice data is to use this function in the vendor Ledger.</span></span>
 
-<span data-ttu-id="687dd-123">Нажмите "Предложить документы" и получите список документов для зачета НДС.</span><span class="sxs-lookup"><span data-stu-id="687dd-123">Click "Suggest documents" and get a list of documents to settlement VAT.</span></span>  
+<span data-ttu-id="91d59-123">Нажмите "Предложить документы" и получите список документов для зачета НДС.</span><span class="sxs-lookup"><span data-stu-id="91d59-123">Click "Suggest documents" and get a list of documents to settlement VAT.</span></span>  
 
-<span data-ttu-id="687dd-124">Затем нажмите кнопку "Копировать строки в журнал", чтобы перенести выбранные строки в журнал зачета НДС.</span><span class="sxs-lookup"><span data-stu-id="687dd-124">Next, click on the "Copy lines to journal" button to transfer the lines (which are selected) to the VAT settlement journal.</span></span>  
+<span data-ttu-id="91d59-124">Затем нажмите кнопку "Копировать строки в журнал", чтобы перенести выбранные строки в журнал зачета НДС.</span><span class="sxs-lookup"><span data-stu-id="91d59-124">Next, click on the "Copy lines to journal" button to transfer the lines (which are selected) to the VAT settlement journal.</span></span>  
 
-<span data-ttu-id="687dd-125">После учета журнала в регистре НДС появляется сформированная транзакция.</span><span class="sxs-lookup"><span data-stu-id="687dd-125">After posting the journal – formed transaction in the VAT register.</span></span>
+<span data-ttu-id="91d59-125">После учета журнала в регистре НДС появляется сформированная транзакция.</span><span class="sxs-lookup"><span data-stu-id="91d59-125">After posting the journal – formed transaction in the VAT register.</span></span>
 
-### <a name="vat-allocation"></a><span data-ttu-id="687dd-126">Распределение НДС</span><span class="sxs-lookup"><span data-stu-id="687dd-126">VAT allocation</span></span>
+### <a name="vat-allocation"></a><span data-ttu-id="91d59-126">Распределение НДС</span><span class="sxs-lookup"><span data-stu-id="91d59-126">VAT allocation</span></span>
 
-<span data-ttu-id="687dd-127">Можно учесть только часть суммы НДС и списать оставшуюся часть.</span><span class="sxs-lookup"><span data-stu-id="687dd-127">It is possible to consider only part of the amount of the VAT and write off the other part.</span></span>
+<span data-ttu-id="91d59-127">Можно учесть только часть суммы НДС и списать оставшуюся часть.</span><span class="sxs-lookup"><span data-stu-id="91d59-127">It is possible to consider only part of the amount of the VAT and write off the other part.</span></span>
 
-1. <span data-ttu-id="687dd-128">Вы должны использовать функцию **Распределение НДС** в **Журнале зачета НДС**.</span><span class="sxs-lookup"><span data-stu-id="687dd-128">You must use the **VAT Allocation** function in the **VAT settlement Journal**.</span></span>
+1. <span data-ttu-id="91d59-128">Вы должны использовать функцию **Распределение НДС** в **Журнале зачета НДС**.</span><span class="sxs-lookup"><span data-stu-id="91d59-128">You must use the **VAT Allocation** function in the **VAT settlement Journal**.</span></span>
 
-2. <span data-ttu-id="687dd-129">Заполните поля:</span><span class="sxs-lookup"><span data-stu-id="687dd-129">Fill the fields:</span></span>
+2. <span data-ttu-id="91d59-129">Заполните поля:</span><span class="sxs-lookup"><span data-stu-id="91d59-129">Fill the fields:</span></span>
 
-- <span data-ttu-id="687dd-130">Тип НДС — вы можете выбрать распределение НДС, списание или издержки.</span><span class="sxs-lookup"><span data-stu-id="687dd-130">Type of VAT, you can select whether this allocation of VAT, write-off or charge.</span></span>
-- <span data-ttu-id="687dd-131">Номер счета — счет для распределения НДС.</span><span class="sxs-lookup"><span data-stu-id="687dd-131">Account No. - account for VAT allocation.</span></span>
-- <span data-ttu-id="687dd-132">Укажите процент или сумму распределения.</span><span class="sxs-lookup"><span data-stu-id="687dd-132">Specify the percentage or amount of the allocation.</span></span>
+- <span data-ttu-id="91d59-130">Тип НДС — вы можете выбрать распределение НДС, списание или издержки.</span><span class="sxs-lookup"><span data-stu-id="91d59-130">Type of VAT, you can select whether this allocation of VAT, write-off or charge.</span></span>
+- <span data-ttu-id="91d59-131">Номер счета — счет для распределения НДС.</span><span class="sxs-lookup"><span data-stu-id="91d59-131">Account No. - account for VAT allocation.</span></span>
+- <span data-ttu-id="91d59-132">Укажите процент или сумму распределения.</span><span class="sxs-lookup"><span data-stu-id="91d59-132">Specify the percentage or amount of the allocation.</span></span>
 
-3. <span data-ttu-id="687dd-133">Нажмите ОК.</span><span class="sxs-lookup"><span data-stu-id="687dd-133">Click OK.</span></span> <span data-ttu-id="687dd-134">Учтите журнал.</span><span class="sxs-lookup"><span data-stu-id="687dd-134">Post the journal.</span></span>
+3. <span data-ttu-id="91d59-133">Нажмите ОК.</span><span class="sxs-lookup"><span data-stu-id="91d59-133">Click OK.</span></span> <span data-ttu-id="91d59-134">Учтите журнал.</span><span class="sxs-lookup"><span data-stu-id="91d59-134">Post the journal.</span></span>
 
-## <a name="see-also"></a><span data-ttu-id="687dd-135">См. также</span><span class="sxs-lookup"><span data-stu-id="687dd-135">See Also</span></span>
+## <a name="see-also"></a><span data-ttu-id="91d59-135">См. также</span><span class="sxs-lookup"><span data-stu-id="91d59-135">See Also</span></span>
 
-[<span data-ttu-id="687dd-136">Функциональность локальной версии для России</span><span class="sxs-lookup"><span data-stu-id="687dd-136">Russia Local Functionality</span></span>](russia-local-functionality.md)  
+[<span data-ttu-id="91d59-136">Функциональность локальной версии для России</span><span class="sxs-lookup"><span data-stu-id="91d59-136">Russia Local Functionality</span></span>](russia-local-functionality.md)  

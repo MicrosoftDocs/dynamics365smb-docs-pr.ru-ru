@@ -5,36 +5,36 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: ddccd82f1598b9d91fcd91986a10aa2c9cfd1bf9
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: ff81ee8d23ecd484720a2349e9a14c3708449f74
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3180980"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3921278"
 ---
-# <a name="account-schedules-overview"></a><span data-ttu-id="43863-103">Обзор финансовых отчетов</span><span class="sxs-lookup"><span data-stu-id="43863-103">Account Schedules Overview</span></span>
+# <a name="account-schedules-overview"></a><span data-ttu-id="3cb46-103">Обзор финансовых отчетов</span><span class="sxs-lookup"><span data-stu-id="3cb46-103">Account Schedules Overview</span></span>
 
-<span data-ttu-id="43863-104">Финансовые отчеты — один из основных инструментов, которые можно использовать для предоставления информации по требуемым регламентом отчетам.</span><span class="sxs-lookup"><span data-stu-id="43863-104">Account schedules are one of the main tools that you can use to provide information for required statutory reports.</span></span> <span data-ttu-id="43863-105">Применение определяемых пользователем строк и столбцов позволяет точно решать, какие данные требуется сравнивать и как.</span><span class="sxs-lookup"><span data-stu-id="43863-105">By using user-defined rows and columns, you can decide which data you want to compare and how.</span></span> <span data-ttu-id="43863-106">Это означает, что можно создавать неограниченное количество специальных финансовых отчетов без использования «Дизайнера отчетов».</span><span class="sxs-lookup"><span data-stu-id="43863-106">This means that you can create as many customized financial statements as you want without using Report Designer.</span></span> <span data-ttu-id="43863-107">Кроме этого, для любого финансового отчета можно использовать предопределенную раскладку столбцов.</span><span class="sxs-lookup"><span data-stu-id="43863-107">You can also choose to use a predefined column layout for any account schedule.</span></span>
+<span data-ttu-id="3cb46-104">Финансовые отчеты — один из основных инструментов, которые можно использовать для предоставления информации по требуемым регламентом отчетам.</span><span class="sxs-lookup"><span data-stu-id="3cb46-104">Account schedules are one of the main tools that you can use to provide information for required statutory reports.</span></span> <span data-ttu-id="3cb46-105">Применение определяемых пользователем строк и столбцов позволяет точно решать, какие данные требуется сравнивать и как.</span><span class="sxs-lookup"><span data-stu-id="3cb46-105">By using user-defined rows and columns, you can decide which data you want to compare and how.</span></span> <span data-ttu-id="3cb46-106">Это означает, что можно создавать неограниченное количество специальных финансовых отчетов без использования «Дизайнера отчетов».</span><span class="sxs-lookup"><span data-stu-id="3cb46-106">This means that you can create as many customized financial statements as you want without using Report Designer.</span></span> <span data-ttu-id="3cb46-107">Кроме этого, для любого финансового отчета можно использовать предопределенную раскладку столбцов.</span><span class="sxs-lookup"><span data-stu-id="3cb46-107">You can also choose to use a predefined column layout for any account schedule.</span></span>
 
-<span data-ttu-id="43863-108">Чтобы лучше управлять информацией отчета, можно:</span><span class="sxs-lookup"><span data-stu-id="43863-108">To better manage the report data, you can:</span></span>
+<span data-ttu-id="3cb46-108">Чтобы лучше управлять информацией отчета, можно:</span><span class="sxs-lookup"><span data-stu-id="3cb46-108">To better manage the report data, you can:</span></span>
 
-- <span data-ttu-id="43863-109">создавать корреспонденцию с ГК;</span><span class="sxs-lookup"><span data-stu-id="43863-109">Create general ledger correspondence.</span></span>
-- <span data-ttu-id="43863-110">создавать константы;</span><span class="sxs-lookup"><span data-stu-id="43863-110">Create constants.</span></span>
-- <span data-ttu-id="43863-111">создавать расширения;</span><span class="sxs-lookup"><span data-stu-id="43863-111">Create extensions.</span></span>
-- <span data-ttu-id="43863-112">создавать выражения.</span><span class="sxs-lookup"><span data-stu-id="43863-112">Create expressions.</span></span>
+- <span data-ttu-id="3cb46-109">создавать корреспонденцию с ГК;</span><span class="sxs-lookup"><span data-stu-id="3cb46-109">Create general ledger correspondence.</span></span>
+- <span data-ttu-id="3cb46-110">создавать константы;</span><span class="sxs-lookup"><span data-stu-id="3cb46-110">Create constants.</span></span>
+- <span data-ttu-id="3cb46-111">создавать расширения;</span><span class="sxs-lookup"><span data-stu-id="3cb46-111">Create extensions.</span></span>
+- <span data-ttu-id="3cb46-112">создавать выражения.</span><span class="sxs-lookup"><span data-stu-id="3cb46-112">Create expressions.</span></span>
 
-<span data-ttu-id="43863-113">Для настройки финансовых отчетов используется окно **Финансовые отчеты**.</span><span class="sxs-lookup"><span data-stu-id="43863-113">Account schedules are set up in the **Account Schedules** window.</span></span>
+<span data-ttu-id="3cb46-113">Для настройки финансовых отчетов используется окно **Финансовые отчеты**.</span><span class="sxs-lookup"><span data-stu-id="3cb46-113">Account schedules are set up in the **Account Schedules** window.</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="43863-114">Не забудьте напечатать следующие отчеты для просмотра сведений о счетах ГК, которые вы будете использовать для финансовых отчетов:</span><span class="sxs-lookup"><span data-stu-id="43863-114">Make sure to print the following reports to review the general ledger account information that you will be using in account schedules:</span></span>
+> <span data-ttu-id="3cb46-114">Не забудьте напечатать следующие отчеты для просмотра сведений о счетах ГК, которые вы будете использовать для финансовых отчетов:</span><span class="sxs-lookup"><span data-stu-id="3cb46-114">Make sure to print the following reports to review the general ledger account information that you will be using in account schedules:</span></span>
 >
-> <span data-ttu-id="43863-115">**Оборотная ведомость по ГК**, **Карточка счета ГК**, **Анализ операций счета ГК**</span><span class="sxs-lookup"><span data-stu-id="43863-115">**G/L Account Turnover** report **G/L Account Card** report **G/L Account Entries Analysis** report</span></span>
+> <span data-ttu-id="3cb46-115">**Оборотная ведомость по ГК**, **Карточка счета ГК**, **Анализ операций счета ГК**</span><span class="sxs-lookup"><span data-stu-id="3cb46-115">**G/L Account Turnover** report **G/L Account Card** report **G/L Account Entries Analysis** report</span></span>
 
-## <a name="see-also"></a><span data-ttu-id="43863-116">См. также</span><span class="sxs-lookup"><span data-stu-id="43863-116">See Also</span></span>
-[<span data-ttu-id="43863-117">Импорт и экспорт финансовых отчетов</span><span class="sxs-lookup"><span data-stu-id="43863-117">Import and Export Account Schedules</span></span>](How-to-Import-and-Export-Account-Schedules.md)  
-[<span data-ttu-id="43863-118">Определение расширения финансового отчета</span><span class="sxs-lookup"><span data-stu-id="43863-118">Define an Account Schedule Extension</span></span>](How-to-Define-an-Account-Schedule-Extension.md)  
-[<span data-ttu-id="43863-119">Определение константы финансового отчета</span><span class="sxs-lookup"><span data-stu-id="43863-119">Define an Account Schedule Constant</span></span>](How-to-Define-an-Account-Schedule-Constant.md)  
-[<span data-ttu-id="43863-120">Работа с финансовыми отчетами</span><span class="sxs-lookup"><span data-stu-id="43863-120">Work with Account Schedules</span></span>](How-to-Work-with-Account-Schedules.md)  
+## <a name="see-also"></a><span data-ttu-id="3cb46-116">См. также</span><span class="sxs-lookup"><span data-stu-id="3cb46-116">See Also</span></span>
+[<span data-ttu-id="3cb46-117">Импорт и экспорт финансовых отчетов</span><span class="sxs-lookup"><span data-stu-id="3cb46-117">Import and Export Account Schedules</span></span>](How-to-Import-and-Export-Account-Schedules.md)  
+[<span data-ttu-id="3cb46-118">Определение расширения финансового отчета</span><span class="sxs-lookup"><span data-stu-id="3cb46-118">Define an Account Schedule Extension</span></span>](How-to-Define-an-Account-Schedule-Extension.md)  
+[<span data-ttu-id="3cb46-119">Определение константы финансового отчета</span><span class="sxs-lookup"><span data-stu-id="3cb46-119">Define an Account Schedule Constant</span></span>](How-to-Define-an-Account-Schedule-Constant.md)  
+[<span data-ttu-id="3cb46-120">Работа с финансовыми отчетами</span><span class="sxs-lookup"><span data-stu-id="3cb46-120">Work with Account Schedules</span></span>](How-to-Work-with-Account-Schedules.md)  
