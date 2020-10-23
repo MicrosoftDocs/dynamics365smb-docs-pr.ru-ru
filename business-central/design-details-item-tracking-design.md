@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: design, item, tracking, tracing
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: c1742447287273a1661ccb87056ca93abbbab76b
-ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
+ms.openlocfilehash: a9cdea97b9753adbbe8128b674dc4161178bc6f8
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "3787575"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3917430"
 ---
 # <a name="design-details-item-tracking-design"></a>Сведения о проектировании: разработка трассировки товара
 В первой версии трассировки товаров в [!INCLUDE[d365fin](includes/d365fin_md.md)] 2.60 серийные номера или номера партий регистрировались непосредственно в операциях книги товаров. Эта конструкция обеспечивает полную информацию о доступности и простую трассировку событий прошлых периодов, однако ей не хватает гибкости и функциональности.  

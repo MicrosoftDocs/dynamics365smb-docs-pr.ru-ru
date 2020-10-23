@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.author: bholtorf
-ms.openlocfilehash: 1563d1a38879379d7f517d50493b310d6d6a70ac
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: 233785c6d118ef9c23fef56ec113e008226c1a17
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3182856"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3916122"
 ---
 # <a name="set-up-invoice-rounding"></a>Настройка округления счета
 Если при создании счетов требуется округлять их суммы, можно использовать функцию автоматического округления. При округлении счета в него добавляется дополнительная строка с суммой округления, которая учитывается вместе с другими строками счета.

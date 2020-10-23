@@ -1,5 +1,5 @@
 ---
-title: Использование Excel для импорта данных в Business Central | Документация Майкрософт
+title: Использование Excel для импорта данных в Business Central
 description: Используйте пакет конфигурации по умолчанию для добавления данных в Excel и импорта данных обратно в Business Central.
 author: edupont04
 ms.service: dynamics365-business-central
@@ -8,16 +8,17 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: migration, Excel
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: e5f8ed744e6596e59789b1fa1857e124026ab63b
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: 143d40c1005b3ce6b54f9a2f5abc865b3d76b361
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3187824"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3924682"
 ---
 # <a name="importing-business-data-from-other-finance-systems"></a>Импорт бизнес-данных из других финансовых систем
+
 При регистрации в [!INCLUDE[d365fin](includes/d365fin_md.md)] вы можете создать пустую организации, чтоб загрузить собственные данные и протестировать новую организацию [!INCLUDE[d365fin](includes/d365fin_md.md)]. В зависимости от финансового решения, которое вы используете сейчас, вы можете перенести информацию о клиентах, поставщиках, запасах и банковских счетах.  
 
 Из ролевого центра вы можете запустить руководство по настройке, помогающее перенести бизнес-данные из файла Excel или из других форматов. Тип файлов, которые можно загружать, зависит от доступных расширений. Например, вы можете перенести данные из QuickBooks, поскольку [!INCLUDE[d365fin](includes/d365fin_md.md)] включает расширение, которое обрабатывает преобразование из QuickBooks. Если вам нужно перенести данные из других финансовых решений, вы должны проверить, есть ли расширение для этого решения, или импортировать из Excel.  
@@ -27,7 +28,7 @@ ms.locfileid: "3187824"
 Можно импортировать основные данные и некоторые транзакционные данные из других финансовых систем на основе пакета конфигурации по умолчанию в [!INCLUDE[d365fin](includes/d365fin_md.md)]. На странице **Пакеты конфигураций** можно использовать пакет для импорта и проверки данных перед применением пакета.  
 
 > [!TIP]  
-> Кроме того, можно использовать мастеры миграции данных для импорта данных из QuickBooks или Dynamics GP. Дополнительные сведения см. в разделе [Миграция данных QuickBooks](ui-extensions-quickbooks-data-migration.md) или [Миграция данных Dynamics GP](ui-extensions-dynamicsgp-data-migration.md).
+> Рекомендуется использовать мастеры миграции данных для импорта данных из Dynamics GP, Dynamics NAV или QuickBooks. Для получения дополнительной информации см. раздел [Миграция локальных данных в Business Central Online](/dynamics365/business-central/dev-itpro/administration/migrate-data) в материалах для администраторов или [Миграция данных QuickBooks](ui-extensions-quickbooks-data-migration.md).
 
 > [!NOTE]  
 > Для более крупной работы по реализации можно использовать службы RapidStart Services для [!INCLUDE[d365fin](includes/d365fin_md.md)], которые представляют собой обширный набор средств для настройки новых решений, основанных на бизнес-требованиях и данных настройки клиентов. Службы RapidStart Services также предоставляют функциональные возможности для импорта бизнес-данных. Дополнительные сведения см. в разделе [Настройка организации со службами RapidStart Services](admin-set-up-a-company-with-rapidstart.md).
@@ -81,8 +82,8 @@ ms.locfileid: "3187824"
 
 ## <a name="see-also"></a>См. также
 [Настройка организации со службами RapidStart Services](admin-set-up-a-company-with-rapidstart.md)  
+[Миграция локальных данных в Business Central Online](/dynamics365/business-central/dev-itpro/administration/migrate-data)  
 [Миграция данных QuickBooks](ui-extensions-quickbooks-data-migration.md)  
-[Миграция данных Dynamics GP](ui-extensions-dynamicsgp-data-migration.md)  
 [Импорт нескольких изображений товаров](inventory-how-import-item-pictures.md)
 
 ## [!INCLUDE[d365fin](includes/free_trial_md.md)]  

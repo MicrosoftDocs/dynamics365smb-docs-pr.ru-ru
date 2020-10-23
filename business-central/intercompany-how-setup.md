@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: IC, group, consolidation, affiliate, subsidiary
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 29aa67a3b892b07139975cf805ce33960b22bdab
-ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
+ms.openlocfilehash: 2f85488cd3e3a764d1fd0c60e4d314d4729f03d2
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "3780164"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3915489"
 ---
 # <a name="set-up-intercompany"></a>Настройка межфирменных взаимодействий
 Чтобы отправить транзакцию (такую как строка журнала продаж) из одной организации и обеспечить автоматическое создание соответствующей транзакции (такой как строка журнала покупок) в партнерской организации, вовлеченные в этот процесс организации должны согласовать общий план счетов и настроить измерения для использования в межфирменных транзакциях. В качестве межфирменного плана счетов может использоваться, например, упрощенная версия плана счетов родительской организации. Каждая организация сопоставляет свой полный план счетов с общим межфирменным планом счетов, а свои измерения — с межфирменными измерениям.  

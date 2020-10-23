@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: d817879ee830bf242ca46143900f66888d5db98c
-ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
+ms.openlocfilehash: bbc7314c9f178385fbb882a4615950277b0c0d88
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "3785275"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3915438"
 ---
 # <a name="run-full-planning-mps-or-mrp"></a>Выполнение полного планирования, MPS или MRP
 Термины «запуск журнала планирования» или «выполнение MRP» относятся к расчету сводного производственного плана и потребностей в материалах на основании фактического и прогнозируемого спроса. Система планирования может рассчитать Сводный план-график (MPS) или План потребностей в материалах (MRP) (по запросу), либо оба плана одновременно.  
