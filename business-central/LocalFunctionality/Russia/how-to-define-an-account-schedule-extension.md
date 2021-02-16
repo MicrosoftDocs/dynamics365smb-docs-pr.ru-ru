@@ -8,16 +8,16 @@ ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: f9341168a1ad5a5ea23a05c8f2b5df580349a2a2
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 85089463315c23aa3cea9a2db1dfa0ef76aa8ea0
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3921234"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4752429"
 ---
 # <a name="define-an-account-schedule-extension"></a>Определение расширения финансового отчета
 
-[!INCLUDE[prodshort](../../includes/prodshort.md)] позволяет определить расширение для строки финансового отчета. Расширения удобны, если требуется фильтрация данных для счетов главной книги.
+[!INCLUDE[prod_short](../../includes/prod_short.md)] позволяет определить расширение для строки финансового отчета. Расширения удобны, если требуется фильтрация данных для счетов главной книги.
 
 ## <a name="to-define-an-account-schedule-extension"></a>Определение расширения финансового отчета
 

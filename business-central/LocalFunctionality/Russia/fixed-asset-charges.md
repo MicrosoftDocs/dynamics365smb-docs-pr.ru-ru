@@ -8,18 +8,16 @@ ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: fcdcd7a73fabeed59a859884a0691f7a73ca3ec5
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: a5a2555bab2ad5d3c065191a15248c68652f042d
+ms.sourcegitcommit: 01524e0ec6368b6c019c5ac1816e202d52ab1fe0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3921266"
+ms.lasthandoff: 11/05/2020
+ms.locfileid: "4400641"
 ---
 # <a name="fixed-asset-charges"></a>Издержки ОС
 
-Функция издержек основных средств позволяет включать дополнительные издержки на покупку основных средств в стоимость приобретения ОС. Дополнительные сведения см. в разделе [Создание издержек ОС](how-to-create-a-fixed-asset-charge.md).  
-
-Стоимость приобретения ОС можно изменить в следующих случаях:  
+Функция издержек основных средств позволяет включать дополнительные издержки на покупку основных средств в стоимость приобретения ОС. Дополнительные сведения см. в разделе [Практическое руководство. Создание издержек ОС](how-to-create-a-fixed-asset-charge.md). 
 
 - после техобслуживания;
 - при ремонте;

@@ -8,12 +8,12 @@ ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: e9af27592a11386aa68e7d989c70f189fbdfefff
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: a2ba4819139aaad36843e61db3a23b13a7ca3f25
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3921310"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4747455"
 ---
 # <a name="forming-and-changing-the-staff-list-order"></a>Формирование и изменение порядка составления штатного расписания
 
@@ -52,7 +52,7 @@ ms.locfileid: "3921310"
 
 ## <a name="forming-of-staff-list"></a>Формирование штатного расписания
 
-В [!INCLUDE[prodshort](../../includes/prodshort.md)] есть концепция архива штатных расписаний. Архив штатных расписаний позволяет сохранить статус штатного расписания на момент его создания.
+В [!INCLUDE[prod_short](../../includes/prod_short.md)] есть концепция архива штатных расписаний. Архив штатных расписаний позволяет сохранить статус штатного расписания на момент его создания.
 
 Штатное расписание на любую доступную дату: **Персонал > Организация > Штатное расписание**.
 

@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: jswymer
-ms.openlocfilehash: 98105cb3e3634169b31a850f20a65a3854b006b4
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 6d79f5b2851df85ea9f19faeeb941eccfd1b397b
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3911559"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4752829"
 ---
 # <a name="managing-database-access-intent"></a>Управление намерением доступа к базе данных 
 
@@ -23,13 +23,13 @@ ms.locfileid: "3911559"
 
 ## <a name="overview"></a>Обзор
 
-[!INCLUDE[d365fin](includes/d365fin_md.md)] можно настроить на использование реплик только для чтения основной базы данных (чтение-запись). Использование реплики базы данных снижает нагрузку на основную базу данных. В некоторых случаях это также улучшит производительность при просмотре данных в клиенте. Реплики полезны для объектов, таких как отчеты, запросы и страницы API, которые используются только для просмотра данных, а не для их изменения.
+[!INCLUDE[prod_short](includes/prod_short.md)] можно настроить на использование реплик только для чтения основной базы данных (чтение-запись). Использование реплики базы данных снижает нагрузку на основную базу данных. В некоторых случаях это также улучшит производительность при просмотре данных в клиенте. Реплики полезны для объектов, таких как отчеты, запросы и страницы API, которые используются только для просмотра данных, а не для их изменения.
 
 Когда объекты запускаются, намерение доступа к базе данных определяет, использовать ли реплику только для чтения, если таковая имеется, или первичную базу данных. Отчеты, страницы API и запросы разрабатываются с предопределенным намерением доступа к базе данных (см. раздел [Свойство DatabaseAccessIntent](/dynamics365/business-central/dev-itpro/developer/properties/devenv-dataaccessintent-property)).
 
 Страница **Список намерений доступа к базе данных** позволяет вам переопределить предопределенное намерение доступа к базе данных для объектов при их запуске.
 
-В сфере баз данных эта функция обычно известна как *горизонтальное масштабирование для чтения*. Для получения дополнительной информации о горизонтальном масштабировании для чтения и намерениях доступа к данным в [!INCLUDE[prodshort](includes/prodshort.md)] см. раздел [Использование горизонтального масштабирования для чтения для улучшения производительности](/dynamics365/business-central/dev-itpro/administration/database-read-scale-out-overview) в справке [!INCLUDE[prodshort](includes/prodshort.md)] для разработчиков и администраторов.
+В сфере баз данных эта функция обычно известна как *горизонтальное масштабирование для чтения*. Для получения дополнительной информации о горизонтальном масштабировании для чтения и намерениях доступа к данным в [!INCLUDE[prod_short](includes/prod_short.md)] см. раздел [Использование горизонтального масштабирования для чтения для улучшения производительности](/dynamics365/business-central/dev-itpro/administration/database-read-scale-out-overview) в справке [!INCLUDE[prod_short](includes/prod_short.md)] для разработчиков и администраторов.
 
 ## <a name="to-change-the-database-access-intent"></a>Изменение намерения доступа к базе данных
 
@@ -55,7 +55,7 @@ ms.locfileid: "3911559"
 ## <a name="see-also"></a>См. также
 [Функциональные бизнес-возможности](across-business-functionality.md)  
 [Общие бизнес-функции](ui-across-business-areas.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 [Приступая к работе](product-get-started.md)    
 
-## [!INCLUDE[d365fin](includes/free_trial_md.md)]  
+## [!INCLUDE[prod_short](includes/free_trial_md.md)]  

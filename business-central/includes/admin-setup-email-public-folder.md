@@ -4,12 +4,12 @@ ms.service: dynamics365-accountant
 ms.topic: include
 ms.date: 10/02/2020
 ms.author: edupont
-ms.openlocfilehash: a62a1a628f22ff47fa86a64a72f5b1834960dc72
-ms.sourcegitcommit: 428f180604e5afcf94fa0e92a0615f58c88e13cd
+ms.openlocfilehash: 1b9f60eab5b0bcf812343e82389087ac5535301a
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "3931275"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4749784"
 ---
 Прежде чем вы сможете настроить регистрацию электронной почты, вы должны подготовить Exchange Online с помощью [общие папки](/exchange/collaboration/public-folders/public-folders?view=exchserver-2019&preserve-view=true ). Вы можете сделать это в [Центр администрирования Exchange](/Exchange/architecture/client-access/exchange-admin-center?view=exchserver-2019&preserve-view=true ) или вы можете использовать [Командная консоль Exchange](/powershell/exchange/exchange-management-shell?view=exchange-ps&preserve-view=true ).  
 
@@ -72,4 +72,4 @@ ms.locfileid: "3931275"
   Дополнительные сведения см. в [Управлять правилами потока почты в Exchange Online](/exchange/security-and-compliance/mail-flow-rules/manage-mail-flow-rules) и [Действия правила потока почты в Exchange Online](/exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions).
 
 > [!NOTE]
-> Если вы вносите изменения в командной консоли Exchange, эти изменения становятся видимыми в центре администрирования Exchange через некоторое время. Также внесенные в Exchange изменения будут доступны в [!INCLUDE[prodshort](prodshort.md)] через некоторое время.
+> Если вы вносите изменения в командной консоли Exchange, эти изменения становятся видимыми в центре администрирования Exchange через некоторое время. Также внесенные в Exchange изменения будут доступны в [!INCLUDE[prod_short](prod_short.md)] через некоторое время.

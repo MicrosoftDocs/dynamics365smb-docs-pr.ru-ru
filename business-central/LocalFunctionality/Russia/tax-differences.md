@@ -8,18 +8,18 @@ ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: b9a46ff10f8566eb723713fa82a6c039d303f9f9
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: dd45027e6222fe792d299737c61f1fb0d5e090bd
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3923984"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4753215"
 ---
 # <a name="tax-differences"></a>Налоговые разницы
 
 Налоговые разницы представляют собой расхождения сумм налога, вызванные различиями в правилах признания доходов и расходов в бухгалтерском и налоговом учете. 
 
-В [!INCLUDE[prodshort](../../includes/prodshort.md)] можно настроить регистры налоговых разниц и журналы налоговых разниц для отслеживания и управления разницами между суммами бухгалтерского и налогового учета.
+В [!INCLUDE[prod_short](../../includes/prod_short.md)] можно настроить регистры налоговых разниц и журналы налоговых разниц для отслеживания и управления разницами между суммами бухгалтерского и налогового учета.
 
 ## <a name="preparing-the-chart-of-accounts"></a>Подготовка плана счетов
 

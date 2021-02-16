@@ -1,6 +1,6 @@
 ---
-title: Подключение к Common Data Service | Документы Майкрософт
-description: Вы можете интегрировать другие приложения с Business Central через Common Data Service.
+title: Подключение к Microsoft Dataverse | Документы Майкрософт
+description: Вы можете интегрировать другие приложения с Business Central через Microsoft Dataverse.
 author: bholtorf
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -8,96 +8,113 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2020
+ms.date: 11/20/2020
 ms.author: bholtorf
-ms.openlocfilehash: 51f04f690483fd5b0c3f093ac5f8e2694ca3fdd9
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: e0713de255aabc599fbc80cf29f1bfa618a29003
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3924632"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4753921"
 ---
-# <a name="connect-to-common-data-service"></a>Подключение к Common Data Service
+# <a name="connect-to-microsoft-dataverse"></a>Подключение к Microsoft Dataverse
+[!INCLUDE[prod_short](includes/cc_data_platform_banner.md)]
 
-В этом разделе описывается, как установить соединение между [!INCLUDE[d365fin](includes/d365fin_md.md)] и [!INCLUDE[cds_long_md](includes/cds_long_md.md)]. Как правило, предприятия создают соединение для интеграции и синхронизации данных с другим бизнес-приложением Dynamics 365, например [!INCLUDE[crm_md](includes/crm_md.md)].  
+В этом разделе описывается, как установить соединение между [!INCLUDE[prod_short](includes/prod_short.md)] и [!INCLUDE[cds_long_md](includes/cds_long_md.md)]. Как правило, предприятия создают соединение для интеграции и синхронизации данных с другим бизнес-приложением Dynamics 365, например [!INCLUDE[crm_md](includes/crm_md.md)].  
 
 ## <a name="before-you-start"></a>Перед началом работы
 
 Перед тем, как создать соединение, необходимо подготовить несколько фрагментов информации:  
 
-* URL-адрес для среды [!INCLUDE[cds_long_md](includes/cds_long_md.md)], к которой требуется подключиться. Если вы используете мастер настройки **Настройка подключения CDS**, чтобы создать соединение, мы обнаружим ваши среды, но вы также можете ввести URL-адрес другой среды в своем клиенте.  
-* Имя пользователя и пароль учетной записи, которая имеет разрешения администратора в [!INCLUDE[d365fin](includes/d365fin_md.md)] и [!INCLUDE[cds_long_md](includes/cds_long_md.md)].  
+* URL-адрес для среды [!INCLUDE[cds_long_md](includes/cds_long_md.md)], к которой требуется подключиться. Если вы используете мастер настройки **Настройка подключения Common Data Service**, чтобы создать соединение, мы обнаружим ваши среды, но вы также можете ввести URL-адрес другой среды в своем клиенте.  
+* Имя пользователя и пароль учетной записи, которая имеет разрешения администратора в [!INCLUDE[prod_short](includes/prod_short.md)] и [!INCLUDE[cds_long_md](includes/cds_long_md.md)].  
+* Если у вас есть локальная версия [!INCLUDE[prod_short](includes/prod_short.md)] выпуска 2020, волна 1, версия 16.5, ознакомьтесь со статьей [Некоторые известные проблемы](/dynamics365/business-central/dev-itpro/upgrade/known-issues#wrong-net-assemblies-for-external-connected-services). Вам нужно будет выполнить описанный обходной метод, прежде чем вы сможете создать подключение к [!INCLUDE[cds_long_md](includes/cds_long_md.md)].
 
 > [!Note]
-> Эти шаги описывают процедуру для интернет-версии [!INCLUDE[d365fin](includes/d365fin_md.md)].
-> Если вы используете локальную версию Business Central и не используете учетную запись Azure Active Directory для подключения [!INCLUDE [cds_long_md](includes/cds_long_md.md)], вы также должны указать имя пользователя и пароль учетной записи пользователя для интеграции. Эта учетная запись называется учетной записью "пользователя интеграции". Если вы используете учетная запись Azure Active Directory интеграция учетной записи пользователя не требуется или не отображается. Пользователь интеграции будет настроен автоматически и не потребует лицензии.
+> Эти шаги описывают процедуру для [!INCLUDE[prod_short](includes/prod_short.md)] Online.
+> Если вы используете локальную версию [!INCLUDE[prod_short](includes/prod_short.md)] и не используете учетную запись Azure Active Directory для подключения [!INCLUDE [cds_long_md](includes/cds_long_md.md)], вы также должны указать имя пользователя и пароль учетной записи пользователя для интеграции. Эта учетная запись называется учетной записью "пользователя интеграции". Если вы используете учетная запись Azure Active Directory интеграция учетной записи пользователя не требуется или не отображается. Пользователь интеграции будет настроен автоматически и не потребует лицензии.
 
 ## <a name="set-up-a-connection-to-cds_long_md"></a>Настройка подключения к [!INCLUDE[cds_long_md](includes/cds_long_md.md)]
 
-Для всех типов проверки подлинности, отличных от проверки подлинности Microsoft 365, вы настраиваете подключение к [!INCLUDE[cds_long_md](includes/cds_long_md.md)] на странице **Настройка подключения к CDS**. Для аутентификации Microsoft 365 рекомендуется использовать мастер настройки **Настройка подключения Common Data Service**. Этот мастер позволяет проще настроить подключение и указать расширенные функции, такие как модель ответственности и начальной синхронизации.  
+Для всех типов проверки подлинности, отличных от проверки подлинности Microsoft 365, вы настраиваете подключение к [!INCLUDE[cds_long_md](includes/cds_long_md.md)] на странице **Настройка подключения Common Data Service**. Для аутентификации Microsoft 365 рекомендуется использовать мастер настройки **Настройка подключения Common Data Service**. Этот мастер позволяет проще настроить подключение и указать расширенные функции, такие как модель ответственности и начальной синхронизации.  
 
 > [!IMPORTANT]
-> Во время настройки подключения к [!INCLUDE[cds_long_md](includes/cds_long_md.md)] администратору будет предложено предоставить следующие разрешения зарегистрированному приложению Azure с именем Интеграция [!INCLUDE[d365fin](includes/d365fin_md.md)] в [!INCLUDE[cds_long_md](includes/cds_long_md.md)]:
+> Во время настройки подключения к [!INCLUDE[cds_long_md](includes/cds_long_md.md)] администратору будет предложено предоставить следующие разрешения зарегистрированному приложению Azure с именем "Интеграция [!INCLUDE[prod_short](includes/prod_short.md)]" в [!INCLUDE[cds_long_md](includes/cds_long_md.md)]:
 >
-> * Требуется разрешение **доступ [!INCLUDE[cds_long_md](includes/cds_long_md.md)] как вы**, поэтому [!INCLUDE[d365fin](includes/d365fin_md.md)] может от имени администратора автоматически создавать нелицензионные неинтерактивные пользователи приложения интеграции [!INCLUDE[d365fin](includes/d365fin_md.md)], назначьте роли безопасности этому пользователю и разверните [!INCLUDE[d365fin](includes/d365fin_md.md)] Базовое решение для интеграции CDS для [!INCLUDE[cds_long_md](includes/cds_long_md.md)]. Это разрешение используется только один раз при настройке подключения к [!INCLUDE[cds_long_md](includes/cds_long_md.md)].  
-> * Требуется разрешение **Полный доступ к Dynamics 365[!INCLUDE[d365fin](includes/d365fin_md.md)]**, поэтому автоматически создаваемый пользователь приложения интеграции [!INCLUDE[d365fin](includes/d365fin_md.md)] может получить доступ к данные [!INCLUDE[d365fin](includes/d365fin_md.md)], которые будут синхронизированы.  
+> * Требуется разрешение **доступ [!INCLUDE[cds_long_md](includes/cds_long_md.md)] как вы**, поэтому [!INCLUDE[prod_short](includes/prod_short.md)] может от имени администратора автоматически создавать нелицензионные неинтерактивные пользователи приложения интеграции [!INCLUDE[prod_short](includes/prod_short.md)], назначьте роли безопасности этому пользователю и разверните [!INCLUDE[prod_short](includes/prod_short.md)] Базовое решение для интеграции CDS для [!INCLUDE[cds_long_md](includes/cds_long_md.md)]. Это разрешение используется только один раз при настройке подключения к [!INCLUDE[cds_long_md](includes/cds_long_md.md)].  
+> * Требуется разрешение **Полный доступ к Dynamics 365[!INCLUDE[prod_short](includes/prod_short.md)]**, поэтому автоматически создаваемый пользователь приложения интеграции [!INCLUDE[prod_short](includes/prod_short.md)] может получить доступ к данные [!INCLUDE[prod_short](includes/prod_short.md)], которые будут синхронизированы.  
 > * Требуется разрешение **войдите и прочтите свой профиль**, чтобы убедиться, что пользователь, входящий в систему, на самом деле имеет роль администратора системы, назначенную в [!INCLUDE[cds_long_md](includes/cds_long_md.md)].  
 >
-> Предоставляя согласие от имени организации, администратор дает право зарегистрированному приложению Azure, которое называется Интеграция [!INCLUDE[d365fin](includes/d365fin_md.md)] в [!INCLUDE[cds_long_md](includes/cds_long_md.md)] синхронизировать данные, используя автоматически созданные учетные данные пользователя приложения интеграции [!INCLUDE[d365fin](includes/d365fin_md.md)].
+> Предоставляя согласие от имени организации, администратор дает право зарегистрированному приложению Azure, которое называется Интеграция [!INCLUDE[prod_short](includes/prod_short.md)] в [!INCLUDE[cds_long_md](includes/cds_long_md.md)] синхронизировать данные, используя автоматически созданные учетные данные пользователя приложения интеграции [!INCLUDE[prod_short](includes/prod_short.md)].
 
-### <a name="to-use-the-set-up-common-data-service-connection-assisted-setup-guide"></a>Использование мастера настройки для настройки подключения Common Data Service
+### <a name="to-use-the-common-data-service-connection-setup-assisted-setup-guide"></a>Использование мастера настройки подключения Common Data Service
+Руководство по настройке подключения Common Data Service может упростить подключение приложений и даже помочь вам выполнить первоначальную синхронизацию. Если вы выберете запуск начальной синхронизации, [!INCLUDE[prod_short](includes/prod_short.md)] проверит данные в обоих приложениях и предоставит рекомендации по подходу к начальной синхронизации. В следующей таблице описаны эти рекомендации.
+
+|Рекомендация  |Описание  |
+|---------|---------|
+|**Полная синхронизация**|Данные существуют только в [!INCLUDE[prod_short](includes/prod_short.md)] или только в [!INCLUDE[cds_long_md](includes/cds_long_md.md)]. Рекомендация: синхронизировать все данные из службы, в которой они есть, с другой службой.|
+|**Без синхронизации**|Данные существуют в обоих приложениях, и выполнение полной синхронизации приведет к их дублированию. Рекомендуется связать записи.|
+|**Зависимость не удовлетворена**|Данные существуют в обоих приложениях, но строка или таблица не могут быть синхронизированы, потому что она зависит от строки или таблицы, для которых есть рекомендация "Без синхронизации". Например, если клиенты не могут быть синхронизированы, то данные для контактов, которые зависят от данных клиентов, также не могут быть синхронизированы.|
+
+> [!IMPORTANT]
+> Обычно вы используете полную синхронизацию только тогда, когда интегрируете приложения впервые, и только одно приложение содержит данные. Полная синхронизация может быть полезна в демонстрационной среде, поскольку она автоматически создает и связывает записи в каждом приложении, что ускоряет начало работы с синхронизированными данными. Однако вам следует запускать полную синхронизацию только в том случае, если вам нужна одна строка в [!INCLUDE[prod_short](includes/prod_short.md)] для каждой строки в [!INCLUDE[cds_long_md](includes/cds_long_md.md)] для сопоставления таблиц. В противном случае результатом могут быть повторяющиеся записи.
 
 1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Мастер настройки**, затем выберите соответствующую ссылку.
-2. Выберите пункт **Настройка подключения к Common Data Service**, чтобы запустить мастер настройки.
+2. Выберите пункт **Настройка подключения к Dataverse**, чтобы запустить мастер настройки.
 3. Заполните соответствующим образом поля.
+
+> [!NOTE]
+> Если вам не предлагается войти в систему с учетной записью администратора, возможно, это связано с блокировкой всплывающих окон. Чтобы войти, разрешите всплывающие окна от `https://login.microsoftonline.com`.
 
 ### <a name="to-create-or-maintain-the-connection-manually"></a>Создание или ведение подключения вручную
 
-Далее описан порядок настройки подключения вручную на странице **Настройка подключения к CDS**. Это также страница, на которой можно управлять настройками для интеграции.
+Далее описан порядок настройки подключения вручную на странице **Настройка подключения Common Data Service**. Это также страница, на которой можно управлять настройками для интеграции.
 
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка подключения к CDS**, затем выберите соответствующую ссылку.
-2. Введите следующие сведения для подключения из [!INCLUDE[cds_long_md](includes/cds_long_md.md)] к [!INCLUDE[d365fin](includes/d365fin_md.md)].
+1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка подключения к Common Data Service**, затем выберите соответствующую ссылку.
+2. Введите следующие сведения для подключения из [!INCLUDE[cds_long_md](includes/cds_long_md.md)] к [!INCLUDE[prod_short](includes/prod_short.md)].
 
     |Поле|Описание|
     |-----|-----|
     |**URL-адрес среды**|Если вы владеете средами в [!INCLUDE[cds_long_md](includes/cds_long_md.md)], мы найдем их для вас, когда вы запустите мастер настройки. Если вы хотите подключиться к другой среде в другом арендаторе, вы можете ввести учетные данные администратора для этой среды, и мы обнаружим их. |
-    |**Включено**|Начните использовать интеграцию. Если выполнять подключение в данный момент не требуется, можно сохранить настройки подключения, однако пользователи не получат доступа к данным [!INCLUDE[cds_long_md](includes/cds_long_md.md)] из [!INCLUDE[d365fin](includes/d365fin_md.md)]. Позднее следует вернуться на эту страницу и выполнить подключение.  |
+    |**Включено**|Начните использовать интеграцию. Если выполнять подключение в данный момент не требуется, можно сохранить настройки подключения, однако пользователи не получат доступа к данным [!INCLUDE[cds_long_md](includes/cds_long_md.md)] из [!INCLUDE[prod_short](includes/prod_short.md)]. Позднее следует вернуться на эту страницу и выполнить подключение.  |
 
-3. В поле **Модель ответственности** выберите, хотите ли вы, чтобы сущность рабочей группы в [!INCLUDE[cds_long_md](includes/cds_long_md.md)] владела новыми записями, или чтобы ответственными были один или несколько конкретных пользователей. Если вы выбираете **Человек**, вы должны указать каждого пользователя. Если вы выбираете вариант **Рабочая группа**, бизнес-подразделение BCI_Company по умолчанию будет отображаться в поле **Связанный филиал**.
+3. В поле **Модель ответственности** выберите, хотите ли вы, чтобы таблица рабочей группы в [!INCLUDE[cds_long_md](includes/cds_long_md.md)] владела новыми записями, или чтобы ответственными были один или несколько конкретных пользователей. Если вы выбираете **Человек**, вы должны указать каждого пользователя. Если вы выбираете вариант **Рабочая группа**, бизнес-подразделение по умолчанию будет отображаться в поле **Связанный филиал**.
 
-    <!--Need to verify the details in this table, are these specific to Sales maybe?-->
-    Введите следующие дополнительные настройки.
+    <!--Need to verify the details in this table, are these specific to Sales maybe?  IK: No they are not and no longer relevant 
+    Enter the following advanced settings.-->
 
-    |Поле|Описание|
+   <!-- |Field|Description|
     |-----|-----|
-    |**Пользователи [!INCLUDE[d365fin](includes/d365fin_md.md)] должны сопоставляться пользователям CDS**|Если вы используете модель владения человеком, укажите, должны ли учетные записи пользователей [!INCLUDE[d365fin](includes/d365fin_md.md)] иметь соответствующие учетные записи пользователей в [!INCLUDE[cds_long_md](includes/cds_long_md.md)]. **Адрес электронной почты для проверки подлинности Microsoft 365** пользователя [!INCLUDE[d365fin](includes/d365fin_md.md)] должен быть тем же, что и **Основной адрес электронной почты** пользователя [!INCLUDE[crm_md](includes/crm_md.md)].<br /><br /> Если задано **Да**,пользователи [!INCLUDE[d365fin](includes/d365fin_md.md)] без совпадающей учетной записи пользователя [!INCLUDE[crm_md](includes/crm_md.md)] не будут обладать возможностями интеграции [!INCLUDE[d365fin](includes/d365fin_md.md)] в пользовательском интерфейсе. Доступ к данным [!INCLUDE[crm_md](includes/crm_md.md)] непосредственно из [!INCLUDE[d365fin](includes/d365fin_md.md)] выполняется от имени учетной записи пользователя [!INCLUDE[crm_md](includes/crm_md.md)].<br /><br /> Если задано **Нет**, все пользователи [!INCLUDE[d365fin](includes/d365fin_md.md)] будут обладать возможностями интеграции [!INCLUDE[crm_md](includes/crm_md.md)] в пользовательском интерфейсе. Доступ к данным [!INCLUDE[crm_md](includes/crm_md.md)] выполняется от имени пользователя подключения (интеграции) [!INCLUDE[crm_md](includes/crm_md.md)].|
-    |**Текущий менеджер по продажам Business Central сопоставлен с пользователем**|Указывает, сопоставлена ли учетная запись пользователя учетной записи в [!INCLUDE[crm_md](includes/crm_md.md)] <!--double check the name of this field-->|
+    |**[!INCLUDE[prod_short](includes/prod_short.md)] Users Must Map to CDS Users**|If you are using the Person ownership model, specify whether [!INCLUDE[prod_short](includes/prod_short.md)] user accounts must have a matching user accounts in [!INCLUDE[cds_long_md](includes/cds_long_md.md)]. The **Microsoft 365 Authentication Email** of the [!INCLUDE[prod_short](includes/prod_short.md)] user must be the same as the **Primary Email** of the [!INCLUDE[crm_md](includes/crm_md.md)] user.<br /><br /> If you set the value to **Yes**, [!INCLUDE[prod_short](includes/prod_short.md)] users who do not have a matching [!INCLUDE[crm_md](includes/crm_md.md)] user account will not have [!INCLUDE[prod_short](includes/prod_short.md)] integration capabilities in the user interface. Access to [!INCLUDE[crm_md](includes/crm_md.md)] data directly from [!INCLUDE[prod_short](includes/prod_short.md)] is done on behalf of the [!INCLUDE[crm_md](includes/crm_md.md)] user account.<br /><br /> If you set the value to **No**, all [!INCLUDE[prod_short](includes/prod_short.md)] users will have [!INCLUDE[crm_md](includes/crm_md.md)] integration capabilities in the user interface. Access to [!INCLUDE[crm_md](includes/crm_md.md)] data is done on behalf of the [!INCLUDE[crm_md](includes/crm_md.md)] connection (integration) user.|
+    |**Current Business Central Salesperson is Mapped to a User**|Indicates whether your user account is mapped to an account in [!INCLUDE[crm_md](includes/crm_md.md)] double check the name of this field-->|
 
 4. Для тестирования настроек подключения выберите **Подключение**, затем **Проверить подключение**.  
 
     > [!NOTE]  
-    > Если шифрование данных не включено в [!INCLUDE[d365fin](includes/d365fin_md.md)], вы получите запрос, требуется ли его включить. Чтобы включить шифрование данных, выберите **Да** и предоставьте требуемую информацию. В противном случае выберите **Нет**. Шифрование данных можно включить позднее. Дополнительные сведения см. в разделе [Шифрование данных в Dynamics 365 Business Central](/dynamics365/business-central/dev-itpro/developer/devenv-encrypting-data) в справке для разработчика и администратора.  
+    > Если шифрование данных не включено в [!INCLUDE[prod_short](includes/prod_short.md)], вы получите запрос, требуется ли его включить. Чтобы включить шифрование данных, выберите **Да** и предоставьте требуемую информацию. В противном случае выберите **Нет**. Шифрование данных можно включить позднее. Дополнительные сведения см. в разделе [Шифрование данных в Dynamics 365 Business Central](/dynamics365/business-central/dev-itpro/developer/devenv-encrypting-data) в справке для разработчика и администратора.  
 
-5. Если синхронизация [!INCLUDE[cds_long_md](includes/cds_long_md.md)] еще не настроена, вы получите запрос, следует ли использовать настройки синхронизации по умолчанию. В зависимости от того, требуется ли соответствие записей в [!INCLUDE[cds_long_md](includes/cds_long_md.md)] и [!INCLUDE[d365fin](includes/d365fin_md.md)], выберите **Да** или **Нет**.
+5. Если синхронизация [!INCLUDE[cds_long_md](includes/cds_long_md.md)] еще не настроена, вы получите запрос, следует ли использовать настройки синхронизации по умолчанию. В зависимости от того, требуется ли соответствие записей в [!INCLUDE[cds_long_md](includes/cds_long_md.md)] и [!INCLUDE[prod_short](includes/prod_short.md)], выберите **Да** или **Нет**.
+<!--
+## Show Me the Process
 
-## <a name="show-me-the-process"></a>Показать мне процесс
-
-В следующем видео показаны шаги по подключению [!INCLUDE[d365fin](includes/d365fin_md.md)] и [!INCLUDE[cds_long_md](includes/cds_long_md.md)]. <br>
+The following video shows the steps to connect [!INCLUDE[prod_short](includes/prod_short.md)] and [!INCLUDE[cds_long_md](includes/cds_long_md.md)]. <br>
   
 > [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE4ArlP]
 
+-->
+
 ## <a name="connecting-on-premises-versions"></a>Подключение локальных версий
 
-Чтобы подключить локальную версию [!INCLUDE[d365fin](includes/d365fin_md.md)] [!INCLUDE[cds_long_md](includes/cds_long_md.md)], необходимо указать некоторую информацию на странице **Настройка подключения Common Data Service**.
+Чтобы подключить локальную версию [!INCLUDE[prod_short](includes/prod_short.md)] [!INCLUDE[cds_long_md](includes/cds_long_md.md)], необходимо указать некоторую информацию на странице **Настройка подключения Common Data Service**.
 
 Если вы хотите подключиться с помощью учетной записи Azure Active Directory ( Azure AD), вы должны зарегистрировать заявку в Azure AD и укажите идентификатор приложения, секретный ключ хранилища и используемый URL-адрес перенаправления. URL-адрес перенаправления предварительно заполнен и должен работать для большинства установок. Вы должны настроить вашу установку на использование HTTPS. Для получения дополнительной информации см. [Настройка SSL для защиты подключения веб-клиента Business Central](/dynamics365/business-central/dev-itpro/deployment/configure-ssl-web-client-connection). Если вы настраиваете на своем сервере другую начальную страницу, вы всегда можете изменить URL-адрес. Секрет клиента будет сохранен как зашифрованная строка в вашей базе данных.  
 
-### <a name="to-register-an-application-in-azure-ad-for-connecting-from-business-central-to-common-data-service"></a>Чтобы зарегистрировать заявку в Azure AD для подключения из Business Central к Common Data Service
+### <a name="to-register-an-application-in-azure-ad-for-connecting-from-business-central-to-dataverse"></a>Чтобы зарегистрировать заявку в Azure AD для подключения из Business Central к Dataverse
 
-Следующие шаги предполагают, что вы используете Azure AD, чтобы управлять удостоверениями и доступом. Дополнительные сведения о регистрации приложения в Azure AD, см. в [Быстрый старт: зарегистрируйте приложение на платформе идентификации Microsoft](/azure/active-directory/develop/quickstart-register-app). Если вы не используете Azure AD, см. [Использование другой службы управления удостоверениями и доступом](admin-how-to-set-up-a-dynamics-crm-connection.md#using-another-identity-and-access-management-service).  
+Следующие шаги предполагают, что вы используете Azure AD, чтобы управлять удостоверениями и доступом. Дополнительные сведения о регистрации приложения в Azure AD, см. в разделе [Быстрый старт: зарегистрируйте приложение на платформе идентификации Microsoft](/azure/active-directory/develop/quickstart-register-app). Если вы не используете Azure AD, см. раздел [Использование другой службы управления удостоверениями и доступом](admin-how-to-set-up-a-dynamics-crm-connection.md#using-another-idtable-and-access-management-service).  
 
 1. В Azure Portal, в **управлять** на панели навигации выберите **Аутентификация**.  
-2. В **URL-адреса перенаправления** добавьте URL-адрес перенаправления, который предлагается на страница **Настройка подключения Common Data Service** в [!INCLUDE[d365fin](includes/d365fin_md.md)].
+2. В **URL-адреса перенаправления** добавьте URL-адрес перенаправления, который предлагается на страница **Настройка подключения Common Data Service** в [!INCLUDE[prod_short](includes/prod_short.md)].
 3. В **управлять** выберите **Разрешения API**.
 4. В **Настроенные разрешения** выберите **Добавить разрешение** и затем добавьте делегированные разрешения на вкладке **API-интерфейсы Microsoft** следующим образом:
     * Для Business Central добавьте разрешения **Financials.ReadWrite.All**.
@@ -106,23 +123,23 @@ ms.locfileid: "3924632"
     > [!NOTE]
     > Имя API Dynamics CRM может измениться.
 
-5. В **управлять** выберите **Сертификаты и секреты**, а затем создайте новый секрет для вашего приложения. Вы будете использовать секрет либо в [!INCLUDE[d365fin](includes/d365fin_md.md)], в поле **Секрет клиента** на **Настройка подключения Common Data Service** или сохраните в защищенном хранилище и предоставьте его подписчику события, как описано ранее в этом разделе.
-6. Выберите **обзор**, а затем найдите значение **Код приложения (клиента)**. Это код клиента вашего приложения. Вы должны ввести его либо на страница **Настройка подключения Common Data Service** в **Код клиента**или сохраните его в безопасном хранилище и предоставьте его подписчику события.
-7. В [!INCLUDE[d365fin](includes/d365fin_md.md)], на страница **Настройка подключения Common Data Service**, в поле **URL-адрес среды** введите URL-адрес для вашей среды [!INCLUDE[cds_long_md](includes/cds_long_md.md)].
+5. В **управлять** выберите **Сертификаты и секреты**, а затем создайте новый секрет для вашего приложения. Вы будете использовать секрет либо в [!INCLUDE[prod_short](includes/prod_short.md)], в поле **Секрет клиента** на **Настройка подключения Common Data Service** или сохраните в защищенном хранилище и предоставьте его подписчику события, как описано ранее в этом разделе.
+6. Выберите **обзор**, а затем найдите значение **Код приложения (клиента)**. Это код клиента вашего приложения. Вы должны ввести его либо на страница **Настройка подключения Common Data Service** в **Код клиента** или сохраните его в безопасном хранилище и предоставьте его подписчику события.
+7. В [!INCLUDE[prod_short](includes/prod_short.md)], на страница **Настройка подключения Common Data Service**, в поле **URL-адрес среды** введите URL-адрес для вашей среды [!INCLUDE[cds_long_md](includes/cds_long_md.md)].
 8. Чтобы включить подключение к [!INCLUDE[cds_long_md](includes/cds_long_md.md)] включите переключатель **Включено**.
 9. Войдите в систему с учетной записью администратора для Azure Active Directory (эта учетная запись должна иметь действующую лицензию для [!INCLUDE[cds_long_md](includes/cds_long_md.md)] и быть администратором в вашей среде [!INCLUDE[cds_long_md](includes/cds_long_md.md)]). После входа в систему вам будет предложено разрешить зарегистрированному приложению войти в [!INCLUDE[cds_long_md](includes/cds_long_md.md)] от имени организации. Вы должны дать согласие на завершение установки.
 
    > [!NOTE]
    > Если вам не предлагается войти в систему с учетной записью администратора, возможно, это связано с блокировкой всплывающих окон. Чтобы войти, разрешите всплывающие окна от `https://login.microsoftonline.com`.
 
-#### <a name="using-another-identity-and-access-management-service"></a>Использование другой службы управления удостоверениями и доступом
+#### <a name="using-another-idtable-and-access-management-service"></a>Использование другой службы управления удостоверениями и доступом
 
 Если вы не используете Azure Active Directory для управления удостоверениями и доступом, вам потребуется помощь разработчика. Если вы предпочитаете хранить код приложения и секрет в другом месте, вы можете оставить поля «Код клиента» и «Секрет клиента» пустыми и написать расширение для получения кода и секрета из местоположения. Вы можете предоставить секрет во время выполнения, подписавшись на события OnGetCDSConnectionClientId и OnGetCDSConnectionClientSecret в codeunit 7201 «CDS Integration Impl».
 
 ### <a name="to-disconnect-from-cds_long_md"></a>Отключение от [!INCLUDE[cds_long_md](includes/cds_long_md.md)]
 
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка подключения к CDS**, затем выберите соответствующую ссылку.
-2. На странице **Настройка подключения к CDS** выключите переключатель **Включено**.  
+1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка подключения к Common Data Service**, затем выберите соответствующую ссылку.
+2. На странице **Настройка подключения Common Data Service** выключите переключатель **Включено**.  
 
 ## <a name="see-also"></a>См. также
 

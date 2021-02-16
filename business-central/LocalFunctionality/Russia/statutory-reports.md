@@ -8,16 +8,16 @@ ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 2015231921fe88e06409444c7a959cb267a83565
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 2de22115c4510c3a0bcc0bfea9e115a98c056e58
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3923988"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4753219"
 ---
 # <a name="statutory-reports"></a>Регламентные отчеты
 
-[!INCLUDE[prodshort](../../includes/prodshort.md)] позволяет настроить регламентные отчеты, чтобы можно было импортировать и экспортировать данные для электронной налоговой отчетности и других требуемых документов.
+[!INCLUDE[prod_short](../../includes/prod_short.md)] позволяет настроить регламентные отчеты, чтобы можно было импортировать и экспортировать данные для электронной налоговой отчетности и других требуемых документов.
 
 После настройки отчета и указания необходимой информации вы можете экспортировать отчет в Excel или напечатать его.
 

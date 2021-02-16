@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: a761d1127e2a0568e59a329fd3e187beffb6b7e5
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 84be9f847d466588e25dad81754bcf64f367b4c8
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3918080"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4753371"
 ---
 # <a name="field-mapping-when-exporting-payment-files-using-the-amc-banking-365-fundamentals-extension"></a>Сопоставление полей при экспорте файлов платежей с использованием расширения AMC Banking 365 Fundamentals
 При экспорте файлов платежей с использованием расширения AMC Banking 365 Fundamentals экспортируемые данные предоставляются поставщику услуг. Поставщик услуг отвечает за конфиденциальность этих данных. Дополнительные сведения о расширении AMC Banking 365 Fundamentals см. в разделе [Использование расширения AMC Banking 365 Fundamentals](ui-extensions-amc-banking.md).  
@@ -23,7 +23,7 @@ ms.locfileid: "3918080"
 > [!CAUTION]  
 >  При экспорте файлов платежей с помощью расширения AMC Banking 365 Fundamentals некоторые бизнес-данные станут доступны поставщику службы. Поставщик услуг AMC Consult A/S отвечает за конфиденциальность этих данных. Дополнительные сведения см. в разделе [Политика конфиденциальности AMC](https://go.microsoft.com/fwlink/?LinkId=510158).  
 
-В следующей таблице перечислены поля в [!INCLUDE[d365fin](includes/d365fin_md.md)], из которых вы можете экспортировать данные.  
+В следующей таблице перечислены поля в [!INCLUDE[prod_short](includes/prod_short.md)], из которых вы можете экспортировать данные.  
 
 |Составленное поле|Поле в таблице|Стол|Описание|  
 |------------------|--------------------|-----------|---------------------------------------|  

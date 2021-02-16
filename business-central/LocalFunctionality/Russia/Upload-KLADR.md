@@ -8,16 +8,16 @@ ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 05d50ba5436eef18e6793226c1409b3f3bdb5dea
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 7fbba55e6e6b932e16cdb3c05afac248374f95a1
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3921290"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4747449"
 ---
 # <a name="upload-kladr"></a>Загрузка КЛАДР
 
-[!INCLUDE[prodshort](../../includes/prodshort.md)] поддерживает работу с классификатором адресов РФ **КЛАДР** — ведомственным классификатором, созданным для распределения территорий между налоговыми инспекциями и автоматизированной рассылки корреспонденции.
+[!INCLUDE[prod_short](../../includes/prod_short.md)] поддерживает работу с классификатором адресов РФ **КЛАДР** — ведомственным классификатором, созданным для распределения территорий между налоговыми инспекциями и автоматизированной рассылки корреспонденции.
 
 Загрузка КЛАДР может осуществляться в отдельных регионах по мере необходимости.  
 

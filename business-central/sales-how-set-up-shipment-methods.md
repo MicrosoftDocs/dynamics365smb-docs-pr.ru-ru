@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: incoterms
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 48a75bd1d5a47e6e91ed64868f15743713e40ec4
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: f1916724c995f875d15b931e919d07d2253dcdb1
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3926051"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4748298"
 ---
 # <a name="set-up-shipment-methods"></a>Настройка методов отгрузки
 Зачастую методы отгрузки, называемые также ИНКОТЕРМС, зависят от товаров, клиентов и поставщиков. Например, если клиент живет на острове, то товары могут быть ему отправлены или по воздуху, или морем. Некоторым клиентам может потребоваться доставка на следующий день. Другие могут захотеть забрать заказ. В карточках клиента и поставщика определяется требуемый тип доставки.
@@ -36,4 +36,4 @@ ms.locfileid: "3926051"
 [Настройка управления складом](warehouse-setup-warehouse.md)     
 [Управление сборкой](assembly-assemble-items.md)    
 [Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  

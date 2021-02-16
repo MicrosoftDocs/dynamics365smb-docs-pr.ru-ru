@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 2ff0ede7bd5d90607a04b1037f5b6c6d092c1c33
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: f7ea29f059c3d2ab54e35b731bfe72d42fffd1f1
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3916147"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4750709"
 ---
 # <a name="delete-cost-budget-entries"></a>Удалить записи затрат бюджета
 Используйте пакетное задание **Удалить записи бюджета затрат** для отмены операций бюджета затрат из регистра бюджета затрат.  
@@ -37,4 +37,4 @@ ms.locfileid: "3916147"
 ## <a name="see-also"></a>См. также  
 [Учет по затратам](finance-manage-cost-accounting.md)
 [Создание бюджетов затрат](finance-create-cost-budgets.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

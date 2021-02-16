@@ -10,25 +10,25 @@ ms.workload: na
 ms.reviewer: edupont
 ms. search.keywords: cloud, edge
 ms.date: 10/01/2020
-ms.author: bmeier
-ms.openlocfilehash: 28bc5ac96d8a14ba57b4defa0140a065f81b0221
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.author: edupont
+ms.openlocfilehash: a186166e73d4c6dcda01bbda6ac2c88a18b2babb
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3914593"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4753721"
 ---
-# <a name="intelligent-insights-with-prodshort-online"></a>Интеллектуальная аналитика с [!INCLUDE[prodshort](includes/prodshort.md)] Online
+# <a name="intelligent-insights-with-prod_short-online"></a>Интеллектуальная аналитика с [!INCLUDE[prod_short](includes/prod_short.md)] Online
 
-Как пользователь [!INCLUDE[prodshort](includes/prodshort.md)] Online, у вас имеется полный доступ к сценариям, основанным на интеллектуальном облаке, таким как КПЭ, основанные на машинном обучении, или просмотр данных в Power BI. Однако, когда [!INCLUDE[prodshort](includes/prodshort.md)] является в первую очередь облачным сервисом, также те клиенты, которым необходимо выполнять их рабочие нагрузки полностью локально или на умном крае, подключенному к облаку, могут сделать так.  
+Как пользователь [!INCLUDE[prod_short](includes/prod_short.md)] Online, у вас имеется полный доступ к сценариям, основанным на интеллектуальном облаке, таким как КПЭ, основанные на машинном обучении, или просмотр данных в Power BI. Однако, когда [!INCLUDE[prod_short](includes/prod_short.md)] является в первую очередь облачным сервисом, также те клиенты, которым необходимо выполнять их рабочие нагрузки полностью локально или на умном крае, подключенному к облаку, могут сделать так.  
 
-Если вы заинтересованы в [!INCLUDE[prodshort](includes/prodshort.md)], можно подписаться на бесплатную пробную версию в Интернете или вы можете выбрать работать с партнером для развертывания [!INCLUDE[prodshort](includes/prodshort.md)] локально на выбранном вами оборудовании. Затем можно выбрать получение интеллектуальной аналитики путем подсоединения к арендатору в облаке. В результате данные из локального развертывания [!INCLUDE[prodshort](includes/prodshort.md)] реплицируются в облако для сценариев интеллектуального облака.  
+Если вы заинтересованы в [!INCLUDE[prod_short](includes/prod_short.md)], можно подписаться на бесплатную пробную версию в Интернете или вы можете выбрать работать с партнером для развертывания [!INCLUDE[prod_short](includes/prod_short.md)] локально на выбранном вами оборудовании. Затем можно выбрать получение интеллектуальной аналитики путем подсоединения к арендатору в облаке. В результате данные из локального развертывания [!INCLUDE[prod_short](includes/prod_short.md)] реплицируются в облако для сценариев интеллектуального облака.  
 
-Для подключения к интеллектуальному облаку из локального решения требуется, чтобы администратор указал сведения о вашей базе данных. Инструменты, используемые для подключения вашего локального развертывания к [!INCLUDE[prodshort](includes/prodshort.md)] Online — те же, которые используются для миграции локального развертывания в онлайн. Для получения дополнительной информации см. раздел [Миграция локальных данных в Business Central Online](/dynamics365/business-central/dev-itpro/administration/migrate-data) в материалах для администраторов [!INCLUDE[prodshort](includes/prodshort.md)].  
+Для подключения к интеллектуальному облаку из локального решения требуется, чтобы администратор указал сведения о вашей базе данных. Инструменты, используемые для подключения вашего локального развертывания к [!INCLUDE[prod_short](includes/prod_short.md)] Online — те же, которые используются для миграции локального развертывания в онлайн. Для получения дополнительной информации см. раздел [Миграция локальных данных в Business Central Online](/dynamics365/business-central/dev-itpro/administration/migrate-data) в материалах для администраторов [!INCLUDE[prod_short](includes/prod_short.md)].  
 
-## <a name="viewing-intelligent-cloud-insights-in-prodshort-online"></a>Просмотр аналитики в интеллектуальном облаке в [!INCLUDE[prodshort](includes/prodshort.md)] Online
+## <a name="viewing-intelligent-cloud-insights-in-prod_short-online"></a>Просмотр аналитики в интеллектуальном облаке в [!INCLUDE[prod_short](includes/prod_short.md)] Online
 
-В вашей организации [!INCLUDE[prodshort](includes/prodshort.md)] Online страница **Аналитика в интеллектуальном облаке** показывает четыре ключевые точки интереса для большинства бизнес-организаций:
+В вашей организации [!INCLUDE[prod_short](includes/prod_short.md)] Online страница **Аналитика в интеллектуальном облаке** показывает четыре ключевые точки интереса для большинства бизнес-организаций:
 
 - Доступность наличных средств
 - Прибыльность продаж
@@ -44,7 +44,7 @@ ms.locfileid: "3914593"
 
 ## <a name="viewing-intelligent-insights-on-premises"></a>Просмотр интеллектуальной аналитики в локальной версии
 
-Если ваш партнер по продаже Dynamics 365 приобрел правильную лицензию для вашего локального решения для подключения к облаку через [!INCLUDE[prodshort](includes/prodshort.md)], ваш администратор может настроить связь. Как только это сделано, можно просматривать те же средства анализа через облако в вашем локальном приложении. В зависимости от локального решения, страница **Аналитика в интеллектуальном облаке** может быть встроена в главную страницу или быть отдельной страницей в [!INCLUDE[prodshort](includes/prodshort.md)] Online и On-Premises.  
+Если ваш партнер по продаже Dynamics 365 приобрел правильную лицензию для вашего локального решения для подключения к облаку через [!INCLUDE[prod_short](includes/prod_short.md)], ваш администратор может настроить связь. Как только это сделано, можно просматривать те же средства анализа через облако в вашем локальном приложении. В зависимости от локального решения, страница **Аналитика в интеллектуальном облаке** может быть встроена в главную страницу или быть отдельной страницей в [!INCLUDE[prod_short](includes/prod_short.md)] Online и On-Premises.  
 
 ## <a name="see-also"></a>См. также
 

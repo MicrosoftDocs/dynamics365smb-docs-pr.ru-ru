@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: electronic document, e-invoice, incoming document, OCR, ecommerce, document exchange, import invoice
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: e75dc8824965d3bfdf3c12ba5b0787e9fb066532
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 6ff52767bbd0a5661cad2dd80abb20885f3fca6d
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3919642"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4754946"
 ---
 # <a name="manage-many-incoming-document-records"></a>Управление большим количеством записей входящих документов
 По мере создания или обработки записей входящих документов количество строк на странице **Входящие документы** может увеличиться настолько, что вам сложно будет иметь общее представление об этих документах. Поэтому вы можете установить для записей входящих документов статус "Обработано", чтобы они не отображались в представлении по умолчанию. При выборе действий **Показать все** вы можете просматривать как обработанные, так и необработанные записи.
@@ -56,4 +56,4 @@ ms.locfileid: "3919642"
 [Обработка входящих документов](across-process-income-documents.md)  
 [Входящие документы](across-income-documents.md)  
 [Покупки](purchasing-manage-purchasing.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

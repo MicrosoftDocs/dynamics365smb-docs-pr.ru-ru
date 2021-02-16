@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: cd2ff853ba4e98115988b318663714ef4a842719
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: caa9a0445a001620d403d5298921bf9a25b35a94
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3919418"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4750034"
 ---
 # <a name="reserve-items"></a>Резервирование товаров
 Можно резервировать товары для заказов на продажу, заказов на покупку, сервисных заказов, заказов на сборку и производственных заказов. Можно зарезервировать товары на складе или входящие товары в открытых строках документа или журнала. Работа выполняется на странице **Резервирование**.
@@ -98,4 +98,4 @@ ms.locfileid: "3919418"
 [Сведения о проектировании: резервирование, трассировка заказов и отправка сообщений о действиях](design-details-reservation-order-tracking-and-action-messaging.md)  
 [Сведения о проектировании. Трассировка и резервирование товара](design-details-item-tracking-and-reservations.md)  
 [Работа с серийными номерами и номерами партий](inventory-how-work-item-tracking.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

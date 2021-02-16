@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: bi, power BI, analysis, KPI
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 587e41ebb4e700b376e555e761a4aa221b49b6c0
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 0a2a8ba7de175ae717dae42da44b719a9c920a15
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3917655"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4752259"
 ---
 # <a name="analyze-actual-amounts-versus-budgeted-amounts"></a>Анализ фактических сумм в с равнении с суммами бюджета
 В процессе сбора, анализа и предоставления доступа к данным своей организации вы просматриваете фактические суммы в сравнении с суммами бюджета для всех счетов и для различных периодов.
@@ -41,7 +41,7 @@ ms.locfileid: "3917655"
 >   Если требуется изменить бюджет, можно изменить операции бюджетирования. Выберите сумму для просмотра базовых операций бюджета Главной книги.
 
 ## <a name="to-view-actual-and-budgeted-amounts-for-all-accounts"></a>Просмотр фактических сумм и сумм бюджета по всем счетам  
-Бюджеты главной книги и их сравнение с фактическими цифрами можно просмотреть в разных областях [!INCLUDE[d365fin](includes/d365fin_md.md)].
+Бюджеты главной книги и их сравнение с фактическими цифрами можно просмотреть в разных областях [!INCLUDE[prod_short](includes/prod_short.md)].
 
 1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **План счетов**, затем выберите соответствующую ссылку.  
 2. На странице **План счетов** выберите действие **Сальдо/бюджет ГК**.
@@ -72,4 +72,4 @@ ms.locfileid: "3917655"
 [Финансы](finance.md)  
 [Настройка финансов](finance-setup-finance.md)  
 [Главная книга и план счетов](finance-general-ledger.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  

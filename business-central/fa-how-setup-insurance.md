@@ -12,18 +12,18 @@ ms.workload: na
 ms.search.keywords: policy, coverage
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: e7396b4acfbed7199e1364287cfb7e8dcbe57c19
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: c5c9af3a076647380e2f6bed8ef7d0a55c3d8efe
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3924232"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4749297"
 ---
 # <a name="set-up-fixed-asset-insurance"></a>Настройка страхования основного средства
 Для управления страховым покрытием основных средств сначала необходимо настроить некоторые общие сведения о страховании и страховую карточку для каждого полиса.
 
 ## <a name="to-set-up-general-insurance-information"></a>Настройка общей информации по страхованию
-Чтобы использовать средства страхования в [!INCLUDE[d365fin](includes/d365fin_md.md)], следует настроить общую информацию по страхованию.  
+Чтобы использовать средства страхования в [!INCLUDE[prod_short](includes/prod_short.md)], следует настроить общую информацию по страхованию.  
 
 1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройки ОС**, затем выберите соответствующую ссылку.  
 2. Заполните соответствующим образом поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
@@ -42,7 +42,7 @@ ms.locfileid: "3924232"
 3. Заполните соответствующим образом поля.
 
 ## <a name="to-set-up-insurance-journal-templates"></a>Настройка шаблонов журнала страхования
-[!INCLUDE[d365fin](includes/d365fin_md.md)] будет автоматически создавать шаблоны журнала страхования при первом открытии страницы **Журнал страхования**, но можно настроить дополнительные шаблоны журналов. Дополнительные сведения см. в разделе [Работа с финансовыми журналами](ui-work-general-journals.md).  
+[!INCLUDE[prod_short](includes/prod_short.md)] будет автоматически создавать шаблоны журнала страхования при первом открытии страницы **Журнал страхования**, но можно настроить дополнительные шаблоны журналов. Дополнительные сведения см. в разделе [Работа с финансовыми журналами](ui-work-general-journals.md).  
 
 1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Шаблоны журнала страхования**, затем выберите соответствующую ссылку.  
 2. Заполните соответствующим образом поля.
@@ -62,4 +62,4 @@ ms.locfileid: "3924232"
 [Основные Средства](fa-manage.md)  
 [Финансы](finance.md)  
 [Приступая к работе](product-get-started.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

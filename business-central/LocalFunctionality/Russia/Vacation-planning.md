@@ -8,16 +8,16 @@ ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 922f3d186a7a8ec25bfb33dbd8c5eba997cde3dd
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 5df673a723fec145c2217cdcdf24a143ebdfd6e8
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3921282"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4752435"
 ---
 # <a name="vacation-planning"></a>Планирование отпусков
 
-В [!INCLUDE[prodshort](../../includes/prodshort.md)] имеется график отпусков на календарный год:
+В [!INCLUDE[prod_short](../../includes/prod_short.md)] имеется график отпусков на календарный год:
 
 1. Выберите **Персонал и зарплата > Планирование отпусков > График отпусков**.
 2. Чтобы создать график отпусков, создайте новый график, указав в поле **Год** календарный год, на который составляется график. В поле **Описание** содержится название графика.

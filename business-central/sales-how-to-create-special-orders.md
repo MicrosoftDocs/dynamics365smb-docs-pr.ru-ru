@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 85e27db78481e3e3cd9f8e8ef34eb26eee8b08f0
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: c4549492e118d1b4367e89f2b0169f43ba7f8393
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3925901"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4748247"
 ---
 # <a name="create-special-orders"></a>Создание специальных заказов
 Для отгрузки товара из каталога конкретному клиенту можно создать специальный заказ. Поставщик отгружает товар на склад организации, после чего этот товар отгружается в адрес клиента либо отдельно, либо вместе с другими товарами по другому заказу.  
@@ -48,4 +48,4 @@ ms.locfileid: "3925901"
 [Продажи](sales-manage-sales.md)  
 [Выполнение прямых поставок](sales-how-drop-shipment.md)   
 [Сведения о проектировании: политики дозаказа](design-details-reservation-order-tracking-and-action-messaging.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

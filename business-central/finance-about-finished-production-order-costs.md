@@ -7,12 +7,12 @@ ms.topic: article
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 426c99da80f4e4fe13ae5752a683b1c13b4746fc
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 0c9cf50b7c3b46c67cacebf67b80b4ba911023c4
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3919530"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4747220"
 ---
 # <a name="about-finished-production-order-costs"></a>О затратах на завершенные производственные заказы
 Завершение производственного заказа - это важная задача в выполнении жизненного цикла изготавливаемого товара. Окончательные издержки, включая отклонения в среде стандартной себестоимости, фактические данные в среде себестоимости FIFO, средней себестоимости или себестоимости LIFO, вычисляются с помощью пакетного задания **Коррекция себест. запасов**, которое допускает финансовую выверку себестоимости производства товара. Чтобы производственный заказ считался заказом, подлежащим коррекции себестоимости, его статус должен быть **Завершен**. Поэтому очень важно, чтобы при завершении статус производственного заказа менялся на **Завершен**.  
@@ -23,4 +23,4 @@ ms.locfileid: "3919530"
 ## <a name="see-also"></a>См. также  
 [Управление себестоимостью товаров](finance-manage-inventory-costs.md)  
 [Производство](production-manage-manufacturing.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

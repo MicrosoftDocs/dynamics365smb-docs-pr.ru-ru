@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: kit, kitting
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 84232aadd133527d06ff0bf2b65490d5dfe8d651
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 93ff6228855c2dccd3d032523c3f0bd38a54a6d2
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3917705"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4755271"
 ---
 # <a name="create-blanket-assembly-orders"></a>Создание общих заказов на сборку
 Можно использовать функцию управления сборкой, чтобы настроить сборочный элемент по запросу клиента во время процесса продаж. Дополнительные сведения см. в разделе [Продажа товара, собранного на заказ](assembly-how-to-sell-items-assembled-to-order.md).  
@@ -46,4 +46,4 @@ ms.locfileid: "3917705"
 [Работа со спецификациями](inventory-how-work-BOMs.md)  
 [Запасы](inventory-manage-inventory.md)  
 [Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

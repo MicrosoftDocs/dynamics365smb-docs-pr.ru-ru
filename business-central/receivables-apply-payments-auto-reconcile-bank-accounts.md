@@ -12,15 +12,15 @@ ms.workload: na
 ms.search.keywords: payment process, direct payment posting, reconcile payment, expenses, cash receipts
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: fd26f288ee6128539c9a8dd415d98126d693c3fe
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 2eb3b42c5b76487d579065b9a60ae614bbb71dda
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3926626"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4748622"
 ---
 # <a name="applying-payments-automatically-and-reconciling-bank-accounts"></a>Автоматическое применение платежей и выверка банковских счетов
-Следует регулярно выверять банковский, дебетовый и кредитовый счета путем применения платежей, зарегистрированных на банковском счете, к связанным открытым (неоплаченным) счетам и кредит-нотам либо к другим открытым операциям в [!INCLUDE[d365fin](includes/d365fin_md.md)].  
+Следует регулярно выверять банковский, дебетовый и кредитовый счета путем применения платежей, зарегистрированных на банковском счете, к связанным открытым (неоплаченным) счетам и кредит-нотам либо к другим открытым операциям в [!INCLUDE[prod_short](includes/prod_short.md)].  
 
 Эту задачу можно выполнить на странице **Журнал выверки платежей**, например, импортировав файл банковской выписки для быстрой регистрации платежей. Платежи применяются к открытым операциям книги поставщиков или клиентов на основании совпадений текста платежа и информации операции. В можете просматривать и изменять автоматические применения перед учетом журнала. Вы можете закрыть любую открытую операцию книги банковских счетов, связанную с примененными операциями книги, при учете журнала. Банковский счет автоматически выверяется после применения всех платежей.
 
@@ -30,7 +30,7 @@ ms.locfileid: "3926626"
 
 Чтобы импортировать банковские выписки в электронном виде, необходимо сначала настроить и включить службу банковских выписок Envestnet Yodlee, а затем связать свои банковские счета с соответствующими счетами интернет-банка. Дополнительные сведения см. в разделе [Настройка службы Envestnet Yodlee Bank Feeds](bank-how-setup-bank-statement-service.md).  
 
-Кроме того, можно воспользоваться расширением AMC Banking 365 Fundamentals, чтобы преобразовать файл банковской выписки в любом формате в поток данных для импорта в [!INCLUDE[d365fin](includes/d365fin_md.md)]. Дополнительные сведения см. в разделе [Использование расширения AMC Banking 365 Fundamentals](ui-extensions-amc-banking.md).  
+Кроме того, можно воспользоваться расширением AMC Banking 365 Fundamentals, чтобы преобразовать файл банковской выписки в любом формате в поток данных для импорта в [!INCLUDE[prod_short](includes/prod_short.md)]. Дополнительные сведения см. в разделе [Использование расширения AMC Banking 365 Fundamentals](ui-extensions-amc-banking.md).  
 
 В следующей таблице приводится последовательность задач со ссылками на разделы, в которых они описываются.  
 
@@ -48,4 +48,4 @@ ms.locfileid: "3926626"
 [Выверка банковских счетов](bank-how-reconcile-bank-accounts-separately.md)  
 [Управление дебиторской задолженностью](receivables-manage-receivables.md)  
 [Продажи](sales-manage-sales.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

@@ -8,16 +8,16 @@ ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 8b2fbde05397c29b977da3e557ab38deb3fb11ea
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: f800d8a64820748aa531f2cc429892d1856070ff
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3915930"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4753227"
 ---
 # <a name="payables-and-receivables-in-the-russian-version"></a>Версия расчетов с клиентами и поставщиками в России
 
-В России имеются особые функции [!INCLUDE[prodshort](../../includes/prodshort.md)] для отслеживания и управления расчетами с клиентами и поставщиками.
+В России имеются особые функции [!INCLUDE[prod_short](../../includes/prod_short.md)] для отслеживания и управления расчетами с клиентами и поставщиками.
 
 ## <a name="getting-started-with-payables-and-receivables"></a>Начало работы с расчетами с поставщиками и клиентами
 

@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 4f5a1933e803322367b241e772d796f1365f9d11
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: e801c3d4915e2d433aa7b82d4ac240b40ff96848
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3915464"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4746170"
 ---
 # <a name="set-up-stockkeeping-units"></a>Настройка единиц хранения
 Единицы хранения используются для записи информации о товарах для кода конкретного склада или кода конкретного варианта.  
@@ -46,4 +46,4 @@ ms.locfileid: "3915464"
 [Наличие](inventory-manage-inventory.md)  
 [Управление сборкой](assembly-assemble-items.md)    
 [Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  

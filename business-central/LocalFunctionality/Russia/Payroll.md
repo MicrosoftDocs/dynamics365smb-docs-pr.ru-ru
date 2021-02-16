@@ -8,12 +8,12 @@ ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 02f9e00f1b243c46338abadaf1786bb3b509d947
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: c6ab423ec5d5e72590a1b0c22f15a0dc38db2c89
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3921296"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4747447"
 ---
 # <a name="payroll"></a>Зарплата
 
@@ -52,7 +52,7 @@ ms.locfileid: "3921296"
 
 Расчет заработной платы осуществляется по специальному зарплатному документу, индивидуальному для каждого работника.
 
-[!INCLUDE[prodshort](../../includes/prodshort.md)] поддерживает два типа зарплатных документов: 
+[!INCLUDE[prod_short](../../includes/prod_short.md)] поддерживает два типа зарплатных документов: 
 
 - Выплата заработной платы между периодами; 
 - Базовая заработная плата. 

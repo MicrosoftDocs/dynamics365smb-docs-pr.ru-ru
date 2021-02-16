@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: client
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 6e5e51251f19391eb96a1979a2bb24f7bf894d4b
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 04034406154dddfabe44a9fd62e0a793981e7f69
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3926176"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4748362"
 ---
 # <a name="merge-duplicate-records"></a>Объединение повторяющихся записей
 Когда с течением времени различные пользователи создают новые карточки клиентов, поставщиков или контактов, или когда новые записи создаются автоматически во время миграции, клиент, поставщик или контакт могут быть представлены в системе в нескольких записях. В этом случае можно воспользоваться страницей **Объединить дубликат** из карточки записи, которую требуется сохранить. Страница обеспечивает обзор значений дублированных полей и предоставляет функции для выбора, какие значения сохранить или удалить при объединении записей в одну.
@@ -67,4 +67,4 @@ ms.locfileid: "3926176"
 ## <a name="see-also"></a>См. также
 [Продажи](sales-manage-sales.md)  
 [Настройка контактов](marketing-setup-contacts.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

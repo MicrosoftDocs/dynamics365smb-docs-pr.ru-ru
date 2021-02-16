@@ -10,15 +10,15 @@ ms.workload: na
 ms.search.keywords: dimension
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 98916c0843d84c76529e7b6f475ba207b2590a08
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 40f6a55adc0c2ade279638b43136475d81cb2c58
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3911184"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4751684"
 ---
 # <a name="dimension-set-entries-overview"></a>Обзор записей набора измерений
-В этом разделе описывается, как операции набора измерений хранятся и учитываются в [!INCLUDE[d365fin](includes/d365fin_md.md)].  
+В этом разделе описывается, как операции набора измерений хранятся и учитываются в [!INCLUDE[prod_short](includes/prod_short.md)].  
 
 ## <a name="dimension-sets"></a>Наборы измерений  
 Набор измерений — это уникальная комбинация значений измерений. Это храниться как записи набора измерений в базе данных. Каждая запись набора измерений представляет отдельное значение измерения. Набор измерений определяется общим кодом набора измерений, который присваивается каждой операции набора измерений, которая относится к набору измерений.  

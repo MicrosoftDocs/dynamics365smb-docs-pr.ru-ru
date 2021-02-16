@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: posting setup, initialize
 ms.date: 10/01/2020
 ms.author: bholtorf
-ms.openlocfilehash: 9e04dcccfde480ca72d09c65608c309eba09aa6e
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: c36b365b0828a19fa82ef28f8d901915937995c2
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3910834"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4746670"
 ---
 # <a name="setting-up-posting-groups"></a>Настройка учетных групп
 Учетные группы сопоставляют объекты, такие как клиенты, поставщики, товары, ресурсы и документов продажи и покупки со счетами главной книги. Они экономят время и помогают избежать ошибок при учете транзакций. Стоимости транзакций переходят на счета, указанные в учетной группе для этого определенного объекта. Единственное требование — наличие плана счетов. Дополнительные сведения см. в разделе [Настройка плана счетов](finance-setup-chart-accounts.md).  
@@ -78,4 +78,4 @@ ms.locfileid: "3910834"
 ## <a name="see-also"></a>См. также
 [Главная книга и план счетов](finance-general-ledger.md)  
 [Настройка финансов](finance-setup-finance.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

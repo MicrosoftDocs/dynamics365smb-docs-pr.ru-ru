@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: design, reconciliation, general ledger, inventory
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 1d65156d46749e7d06bb746899cee4aa439a1e93
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 3f3a90142081ad0bc3096bdde1830924c2998d68
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3917280"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4751234"
 ---
 # <a name="design-details-reconciliation-with-the-general-ledger"></a>Сведения о проектировании: выверка с главной книгой
 При учете складских транзакций, таких как расходные накладные, выход произведенной продукции или отрицательные коррекции, изменения количества и стоимости товара регистрируются в операциях книги товаров и операциях стоимости соответственно. Следующим шагом процесса является учет стоимостей товаров на счетах товаров в главной книге.  
@@ -123,4 +123,4 @@ ms.locfileid: "3917280"
 [Сведения о проектировании: коррекция себестоимости](design-details-cost-adjustment.md)
 [Управление себестоимостью товаров](finance-manage-inventory-costs.md)  
 [Финансы](finance.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

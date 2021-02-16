@@ -12,15 +12,15 @@ ms.workload: na
 ms.search.keywords: bank account transfer, multiple currencies
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 746c5be8f77f7afd7a65de17c9893ce1a16fccb2
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 934124d419e19c1dc8180f11fcae748cd2afd15d
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3924407"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4752359"
 ---
 # <a name="transfer-bank-funds"></a>Перевод банковских средств
-Иногда бывает необходимо перевести сумму с одного банковского счета в [!INCLUDE[d365fin](includes/d365fin_md.md)] на другой. Для этого необходимо учесть транзакцию на странице **Финансовый журнал**. Задача зависит от того, используется на банковских счетах одна валюта или различные валюты.
+Иногда бывает необходимо перевести сумму с одного банковского счета в [!INCLUDE[prod_short](includes/prod_short.md)] на другой. Для этого необходимо учесть транзакцию на странице **Финансовый журнал**. Задача зависит от того, используется на банковских счетах одна валюта или различные валюты.
 
 ## <a name="to-post-a-transfer-between-bank-accounts-with-the-same-currency-code"></a>Учет перемещения между банковскими счетами с одним кодом валюты
 1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Финансовый журнал**, затем выберите соответствующую ссылку.
@@ -57,4 +57,4 @@ ms.locfileid: "3924407"
 [Выверка банковских счетов](bank-manage-bank-accounts.md)  
 [Настройка банковских операций](bank-setup-banking.md)  
 [Работа с финансовыми журналами](ui-work-general-journals.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

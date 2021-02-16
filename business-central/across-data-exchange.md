@@ -10,17 +10,17 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 8c11553dc3a48a2fdf0df65258914d36f9c2efbd
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: d6ca289f723af83758c96537e3d4b5a1c0117cc7
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3914369"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4753496"
 ---
 # <a name="exchanging-data-electronically"></a>Электронный обмен данными
 Можно использовать структуру обмена данными, чтобы управлять обменом бизнес-документами, банковскими файлами, курсами обмена валют и другими файлами данных с бизнес-партнерами.
 
-В стандартной версии [!INCLUDE[d365fin](includes/d365fin_md.md)] структура обмена данными используется в таких функциях, как электронные документы, импорт и экспорт банковских файлов и обновление курсов обмена валют. Для получения дополнительной информации см. [О структуре обмена данными](across-about-the-data-exchange-framework.md).
+В стандартной версии [!INCLUDE[prod_short](includes/prod_short.md)] структура обмена данными используется в таких функциях, как электронные документы, импорт и экспорт банковских файлов и обновление курсов обмена валют. Для получения дополнительной информации см. [О структуре обмена данными](across-about-the-data-exchange-framework.md).
 
 Как администратор или партнер Майкрософт, вы можете использовать структуру в новых функциях интеграции, указав, какие данные и каким образом будут передаваться. Дополнительные сведения см. в разделе [Настройка определений обмена данными](across-how-to-set-up-data-exchange-definitions.md).
 

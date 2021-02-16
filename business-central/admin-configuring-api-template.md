@@ -12,15 +12,15 @@ ms.workload: na
 ms.search.keywords: API templates, configuring templates
 ms.date: 10/01/2020
 ms.author: solsen
-ms.openlocfilehash: e87809d33fb7fd511912cf6d384db0e488a8ff2d
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: e90fe0282af79f36fde145e22ae28818c4575bce
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3911609"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4754071"
 ---
 # <a name="configuring-api-templates"></a>Конфигурирование шаблонов API
-Библиотека API для [!INCLUDE[d365fin_md](includes/d365fin_md.md)] предоставляет разработчикам упрощенное представление лежащих в ее основе объектов. Не все свойства в приложении предоставляются через связанный API. Страница **Настройка API** позволяет определить шаблоны, используемые для заполнения пустых свойств в объекте при создании действия POST через API. 
+Библиотека API для [!INCLUDE[prod_short_md](includes/prod_short.md)] предоставляет разработчикам упрощенное представление лежащих в ее основе объектов. Не все свойства в приложении предоставляются через связанный API. Страница **Настройка API** позволяет определить шаблоны, используемые для заполнения пустых свойств в объекте при создании действия POST через API. 
 
 Например, если для объекта товара определен шаблон конфигурации, при создании новой записи товара через API товаров все свойства нового товара, не определенные в вызове API, будут заполняться из выбранного шаблона. Например, если для поля **Общая товарная группа** не задается значение через API, однако значение задано в выбранном шаблоне, то к новому товару будет применено значение товарной группы, определенное в шаблоне. 
 
@@ -44,7 +44,7 @@ ms.locfileid: "3911609"
 
 ## <a name="see-also"></a>См. также
 [Документация по API](/dynamics-nav/fin-graph)  
-[Разработка приложений-связей [!INCLUDE[d365fin_md](includes/d365fin_md.md)]](/dynamics365/business-central/dev-itpro/developer/devenv-develop-connect-apps)  
+[Разработка приложений-связей [!INCLUDE[prod_short_md](includes/prod_short.md)]](/dynamics365/business-central/dev-itpro/developer/devenv-develop-connect-apps)  
 [Включение API](/dynamics-nav/enabling-apis-for-dynamics-nav)  
 [Конечные точки для API](/dynamics-nav/endpoints-apis-for-dynamics)  
 [Настройка организации со службами RapidStart Services](admin-set-up-a-company-with-rapidstart.md)  

@@ -11,12 +11,12 @@ ms.workload: na
 ms.search.keywords: postpone
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: d87d2e635bbe0872fac0c98d93481b71e16d15f4
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: b9d936cffabaea38571fe755ca43ed0cd9a961b4
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3917055"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4750884"
 ---
 # <a name="defer-revenues-and-expenses"></a>Доходы и расходы будущих периодов
 Для выявления дохода или расхода в периоды, отличные от периода, в котором транзакция была учтена, можно использовать функцию автоматического отнесения доходов и расходов по указанному графику.
@@ -93,4 +93,4 @@ ms.locfileid: "3917055"
 [Финансы](finance.md)  
 [Настройка финансов](finance-setup-finance.md)  
 [Работа с финансовыми журналами](ui-work-general-journals.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

@@ -11,12 +11,12 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 42bd650cd3452be8c209e2ff12d1f5c06d6c4f21
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: b9371127ca692ae636f93e44b202608684acaedb
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3913617"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4746537"
 ---
 # <a name="manage-employee-absence"></a>Управление простоем сотрудника
 Для управления простоем сотрудника необходимо зарегистрировать этот простой на странице **Регистрация простоя**. Его можно просмотреть различными способами для анализа и отчетности.
@@ -71,5 +71,5 @@ ms.locfileid: "3913617"
 ## <a name="see-also"></a>См. также
 [Управление персоналом](hr-manage-human-resources.md)  
 [Финансы](finance.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 [Изменение набора отображаемых функций](ui-experiences.md)

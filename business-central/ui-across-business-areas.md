@@ -12,15 +12,15 @@ ms.workload: na
 ms.search.keywords: feature overview, functionality
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 2382fa440c67881411fe67e596a62aaf5d431426
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: f73178cc55840ffa1756c45a83f01f1bdf8bc359
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3912750"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4747698"
 ---
 # <a name="general-business-functionality"></a>Общие бизнес-функции
-[!INCLUDE[d365fin](includes/d365fin_md.md)] включает специальные функции для типичных деловых областей компании, таких как управление финансами или продажами. Дополнительные сведения см. в разделе [Функциональные бизнес-возможности](across-business-functionality.md).
+[!INCLUDE[prod_short](includes/prod_short.md)] включает специальные функции для типичных деловых областей компании, таких как управление финансами или продажами. Дополнительные сведения см. в разделе [Функциональные бизнес-возможности](across-business-functionality.md).
 
 Для поддержки этих задач, специфичных для вашей области бизнеса, можно воспользоваться различной общей бизнес-функциональностью, такой как определение расширенного текста для строк документов и организация задач связывания бизнеса в рабочих процессах.
 
@@ -50,7 +50,7 @@ ms.locfileid: "3912750"
 | Настройка определений обмена данными, с помощью которых можно будет отправлять и получать электронные документы. |[Электронный обмен данными](across-data-exchange.md) |
 
 ## <a name="see-also"></a>См. также
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 [Администрация](admin-setup-and-administration.md)
 
-## [!INCLUDE[d365fin](includes/free_trial_md.md)]  
+## [!INCLUDE[prod_short](includes/free_trial_md.md)]  

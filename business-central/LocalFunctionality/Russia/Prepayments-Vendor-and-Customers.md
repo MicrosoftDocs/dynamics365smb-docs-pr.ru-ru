@@ -8,18 +8,18 @@ ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 435a4359dbfd59086f1bb3c043e6e3a41df07a35
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: e89b6bd2a29dc13be974f4d453fe0997dded9ce6
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3921294"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4752437"
 ---
 # <a name="posting-vendor-and-customer-prepayments"></a>Учет предоплаты поставщиков и клиентов
 
-В российской версии предоплаты работают не так, как в стандартной версии [!INCLUDE[prodshort](../../includes/prodshort.md)], Когда мы получаем предоплату, по правилам бухгалтерского учета необходимо учесть предоплату на отдельном счете. Таким образом, группы учета поставщиков и клиентов имеют поле **Счет предоплаты**.
+В российской версии предоплаты работают не так, как в стандартной версии [!INCLUDE[prod_short](../../includes/prod_short.md)], Когда мы получаем предоплату, по правилам бухгалтерского учета необходимо учесть предоплату на отдельном счете. Таким образом, группы учета поставщиков и клиентов имеют поле **Счет предоплаты**.
 
-[!INCLUDE[prodshort](../../includes/prodshort.md)] использует эти счета для операций предоплаты — платежей с отметкой "Предоплата".
+[!INCLUDE[prod_short](../../includes/prod_short.md)] использует эти счета для операций предоплаты — платежей с отметкой "Предоплата".
 
 ## <a name="to-post-a-prepayment"></a>Для учета предоплаты
 

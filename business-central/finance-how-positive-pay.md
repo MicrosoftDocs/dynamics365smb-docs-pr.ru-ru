@@ -12,17 +12,17 @@ ms.workload: na
 ms.search.keywords: check, clearing
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 1e75a5541654a6577417a37c0cef23302b37b649
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 8856ee09ae728d685d3f57786abc29d9aca93778
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3916955"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4750859"
 ---
 # <a name="export-a-positive-pay-file"></a>Экспорт файла Positive Pay
 Чтобы гарантировать, чтобы банк выполнял клиринг только по проверенным платежным документам и суммам, можно экспортировать файл Positive Pay, содержащий информацию о поставщике, номер платежного документа, сумму платежа, который можно затем переслать в банк для справки при обработке платежей.
 
-Программа [!INCLUDE[d365fin](includes/d365fin_md.md)] предварительно настроена для поддержки файлов Positive Pay оплаты для банков Bank of America и City Bank.
+Программа [!INCLUDE[prod_short](includes/prod_short.md)] предварительно настроена для поддержки файлов Positive Pay оплаты для банков Bank of America и City Bank.
 
 ## <a name="to-set-up-a-bank-account-for-positive-pay"></a>Настройка банковского счета для Positive Pay
 1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Банковские счета**, затем выберите соответствующую ссылку.
@@ -64,4 +64,4 @@ ms.locfileid: "3916955"
 [Финансы](finance.md)  
 [Настройка финансов](finance-setup-finance.md)  
 [Работа с финансовыми журналами](ui-work-general-journals.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

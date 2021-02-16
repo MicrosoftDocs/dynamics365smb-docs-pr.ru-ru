@@ -10,15 +10,15 @@ ms.workload: na
 ms.search.keywords: kit, kitting
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 4d8ce273a2db6c682a205c767e28aee3792ea14b
-ms.sourcegitcommit: 0fb6952376d853a878ed33257e73aadc03b95572
+ms.openlocfilehash: b734d867401697b1c554f321d5b153f093dd5cd8
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/07/2020
-ms.locfileid: "3968309"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4753238"
 ---
 # <a name="assembly-management"></a>Управление сборкой
-Для обеспечения поддержки компаний, которые поставляют продукты своим клиентам, объединяя компоненты в простые процессы без потребности в функциях производства, [!INCLUDE[d365fin](includes/d365fin_md.md)] содержит функции сборки товаров, интегрирующиеся с существующими функциями, например для организации продаж, планирования, резервирования и складской деятельности.  
+Для обеспечения поддержки компаний, которые поставляют продукты своим клиентам, объединяя компоненты в простые процессы без потребности в функциях производства, [!INCLUDE[prod_short](includes/prod_short.md)] содержит функции сборки товаров, интегрирующиеся с существующими функциями, например для организации продаж, планирования, резервирования и складской деятельности.  
 
  Сборочный элемент определяется как продаваемый товар, который содержит сборочную спецификацию. Дополнительные сведения см. в разделе [Работа со спецификациями](inventory-how-work-BOMs.md).
 
@@ -56,6 +56,6 @@ ms.locfileid: "3968309"
 [Сведения о проектировании: планирование поставок](design-details-supply-planning.md)  
 [Пошаговое руководство. Планирование поставок вручную](walkthrough-planning-supplies-manually.md)  
 [Пошаговое руководство: продажа, сборка и отгрузка наборов](walkthrough-selling-assembling-and-shipping-kits.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
 
-## [!INCLUDE[d365fin](includes/free_trial_md.md)]  
+## [!INCLUDE[prod_short](includes/free_trial_md.md)]  

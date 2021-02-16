@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: account linking, direct payment posting, automatic payment processing, reconcile payment, recurring expense, recurring cash receipt
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 97903c269856636cff618d5c91125ae9f1ace496
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 6e389d31d6f9a28c9cff12950c37f01c1cf51004
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3926476"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4748572"
 ---
 # <a name="map-text-on-recurring-payments-to-accounts-for-automatic-reconciliation"></a>Сопоставление текста на типовых платежах со счетами для автоматической выверки
 На странице **Сопоставление текста со счетами**, открываемом со страницы **Журнал выверки платежей**, можно настроить сопоставления между текстом платежей и конкретными дебетовыми, кредитными и балансовыми счетами, чтобы такие платежи учитывались на заданных счетах при учете в журнале выверки платежей.
@@ -61,5 +61,5 @@ ms.locfileid: "3926476"
 [Управление дебиторской задолженностью](receivables-manage-receivables.md)  
 [Продажи](sales-manage-sales.md)  
 [Настройка службы Envestnet Yodlee Bank Feeds](bank-how-setup-bank-statement-service.md)  
-[Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью расширений](ui-extensions.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Настройка [!INCLUDE[prod_short](includes/prod_short.md)] с помощью расширений](ui-extensions.md)  
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

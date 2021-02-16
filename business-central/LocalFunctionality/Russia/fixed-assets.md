@@ -8,16 +8,16 @@ ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 657d539c3779fb6f74df2ab1e14b829bae37c564
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 484ba8668230292232ef2528250dd46de02f351b
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3921272"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4747445"
 ---
 # <a name="overview---fixed-assets"></a>Обзор — основные средства
 
-В России имеются особые функции [!INCLUDE[prodshort](../../includes/prodshort.md)] для отслеживания и управления основными средствами. С помощью функций основных средств можно управлять амортизацией и стоимостью обслуживания, отслеживать перемещения основных средств, управлять их продажей и реализацией, а также формировать различные отчеты и статистику.
+В России имеются особые функции [!INCLUDE[prod_short](../../includes/prod_short.md)] для отслеживания и управления основными средствами. С помощью функций основных средств можно управлять амортизацией и стоимостью обслуживания, отслеживать перемещения основных средств, управлять их продажей и реализацией, а также формировать различные отчеты и статистику.
 
 ## <a name="getting-started-with-fixed-assets"></a>Начало работы с основными средствами
 

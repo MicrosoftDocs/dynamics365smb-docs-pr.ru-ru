@@ -8,16 +8,16 @@ ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: fd65744493a627f7f0749118f328567704ee6f13
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 5354a76d6707dd4ca83176b960828885bdc88960
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3921239"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4747443"
 ---
 # <a name="define-an-account-schedule-constant"></a>Определение константы финансового отчета
 
-[!INCLUDE[prodshort](../../includes/prodshort.md)] позволяет определить константу для строки финансового отчета. Константы полезны, если значение финансового отчета не меняется.
+[!INCLUDE[prod_short](../../includes/prod_short.md)] позволяет определить константу для строки финансового отчета. Константы полезны, если значение финансового отчета не меняется.
 
 ## <a name="to-define-an-account-schedule-constant"></a>Определение константы финансового отчета
 

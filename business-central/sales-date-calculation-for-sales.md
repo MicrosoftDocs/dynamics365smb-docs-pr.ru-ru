@@ -10,15 +10,15 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: a8f272b73f7cc5940f2e0b845c62fd28395b6923
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 26782d211d205bb5414c5bd423ccf240f70f197e
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3926326"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4748472"
 ---
 # <a name="date-calculation-for-sales"></a>Расчет даты для продаж
-[!INCLUDE[d365fin](includes/d365fin_md.md)] автоматически вычисляет наиболее раннюю дату, на которую может быть произведена отгрузка товара, указанного в строке заказа за продажу.
+[!INCLUDE[prod_short](includes/prod_short.md)] автоматически вычисляет наиболее раннюю дату, на которую может быть произведена отгрузка товара, указанного в строке заказа за продажу.
 
 Если клиент потребовал, чтобы поставка была произведена на конкретную дату, то дата, на которую товар должен быть в наличии для того, чтобы обеспечить выполнение этого требования, также будет вычислена.
 
@@ -45,4 +45,4 @@ ms.locfileid: "3926326"
 ## <a name="see-also"></a>См. также  
  [Расчет даты для покупок](purchasing-date-calculation-for-purchases.md)   
  [Расчет сроков планирования заказов](sales-how-to-calculate-order-promising-dates.md)  
- [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+ [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

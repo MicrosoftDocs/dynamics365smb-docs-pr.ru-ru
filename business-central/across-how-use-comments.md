@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: tasks, work
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 0d9b84ff608d6778bb20dfe009978fbe624f47c0
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 3f84b6d7d03bd8766bfd485870cef8401a3e3382
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3924882"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4754571"
 ---
 # <a name="add-comments-to-cards-and-documents"></a>Добавление комментариев к картам и документам
 Можно добавить дополнительную информацию в счета ГК, карты клиентов или заказы на продажу для сообщения об исключениях или особых соглашениях для других пользователей.
@@ -37,5 +37,5 @@ ms.locfileid: "3924882"
 4. На странице **Лист комментариев** можно ввести любой текст, затем выбрать кнопку **ОК**.
 
 ## <a name="see-also"></a>См. также
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 [Общие бизнес-функции](ui-across-business-areas.md)

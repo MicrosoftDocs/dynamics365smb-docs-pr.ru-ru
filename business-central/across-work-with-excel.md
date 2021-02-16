@@ -1,5 +1,5 @@
 ---
-title: Просмотр и редактирование в Excel из Business Central | Документация Майкрософт
+title: Просмотр и редактирование в Excel из Business Central
 description: Узнайте, как открывать страницы в Microsoft Excel из Business Central для более тщательного анализа данных.
 author: jswymer
 ms.service: dynamics365-business-central
@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: accountant, accounting, financial report
-ms.date: 10/01/2020
+ms.date: 11/06/2020
 ms.author: jswymer
-ms.openlocfilehash: b25413c8f0479aaccfc67ae96f2870690f993dfa
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: cb172cd1d3285128e871fedb44ccd70fb84a669a
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3927276"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4754171"
 ---
 # <a name="viewing-and-editing-in-excel-from-business-central"></a>Просмотр и редактирование в Excel из Business Central
 
@@ -23,32 +23,32 @@ ms.locfileid: "3927276"
 
 ## <a name="open-in-excel"></a>Открыть в Excel
 
-- С помощью этого действия Excel учитывает все фильтры на странице, которые ограничивают отображаемые записи. Это означает, что книга Excel будет содержать те же строки и столбцы, которые отображаются на странице в [!INCLUDE[prodshort](includes/prodshort.md)].
+- С помощью этого действия Excel учитывает все фильтры на странице, которые ограничивают отображаемые записи. Книга Excel будет содержать те же строки и столбцы, которые отображаются на странице в [!INCLUDE[prod_short](includes/prod_short.md)].
 
-- Можно внести изменения в записи в Excel, но невозможно опубликовать изменения обратно в [!INCLUDE[prodshort](includes/prodshort.md)]. Можно только сохранить изменения в файл Microsoft Excel на компьютере.
+- Можно внести изменения в записи в Excel, но невозможно опубликовать изменения обратно в [!INCLUDE[prod_short](includes/prod_short.md)]. Можно только сохранить изменения в файл Microsoft Excel на компьютере.
 
 - Это действие работает как в Windows, так и в macOS.
 
 > [!NOTE]
-> Для [!INCLUDE[prodshort](includes/prodshort.md)] On-premises действие **Открыть в Excel** доступно по умолчанию. Тем не менее, если вы настроили [!INCLUDE[prodshort](includes/prodshort.md)] On-premises для редактирования данных в Excel, то действие **Открыть в Excel** заменяется действием **Изменить в Excel**.
+> Для [!INCLUDE[prod_short](includes/prod_short.md)] On-premises действие **Открыть в Excel** доступно по умолчанию. Тем не менее, если вы настроили [!INCLUDE[prod_short](includes/prod_short.md)] On-premises для редактирования данных в Excel, то действие **Открыть в Excel** заменяется действием **Изменить в Excel**.
 
 ## <a name="edit-in-excel"></a>Изменить в Excel
 
-- С помощью этого действия Excel учитывает большинство фильтров на странице, которые ограничивают отображаемые записи. Это означает, что книга Excel будет содержать почти те же записи и столбцы.
+- Благодаря этому действию Excel учитывает большинство фильтров на странице, которые ограничивают отображаемые записи, поэтому книга Excel будет содержать почти те же записи и столбцы.
 
-- Преимущество действия **Изменить в Excel** заключается в том, что оно позволяет внести изменения в записи в Excel, затем опубликовать эти изменения обратно в [!INCLUDE[prodshort](includes/prodshort.md)].
+- Преимущество действия **Изменить в Excel** заключается в том, что оно позволяет внести изменения в записи в Excel, затем опубликовать эти изменения обратно в [!INCLUDE[prod_short](includes/prod_short.md)].
 
 - Оно работает только в Windows, но не в macOS.
 
-- Вы можете сменить компанию, с которой вы работаете. Для этого выберите значок **Параметры** ![Параметры надстроек Excel](media/cogwheel.png "Параметры надстроек Excel") на панели надстроек Excel, затем выберите компанию в поле **Компания**.  
+- Вы можете сменить компанию, с которой вы работаете. Для переключения компании выберите значок **Параметры** ![Параметры надстроек Excel](media/cogwheel.png "Параметры надстроек Excel") на панели надстроек Excel, затем выберите компанию в поле **Компания**.  
 
     > [!IMPORTANT]
     > При смене компании убедитесь, что поле **Среда** не пустое. Если оно пустое, установите для него один из доступных параметров; в противном случае надстройка не будет работать правильно.  
 
-Если вы вносите изменения в надстройку, вы должны перезагрузить ее, чтобы обновить подключение. Чтобы перезагрузить, используйте меню ![Меню надстроек Excel](media/excel-addin-menu.png "Меню надстроек Excel") в правом верхнем углу надстройки.
+Если вы вносите изменения в надстройку, вы должны перезагрузить ее, чтобы обновить подключение. Чтобы перезагрузить, используйте меню ![Меню надстроек Excel](media/excel-addin-menu.png "Меню надстроек Excel") в правом верхнем углу надстройки. Если вы не можете загрузить надстройку, обратитесь к администратору. Если вы администратор, см. раздел [Настройка надстройки Excel для редактирования данных Business Central](/dynamics365/business-central/dev-itpro/administration/configuring-excel-addin).
 
 > [!NOTE]
-> Для [!INCLUDE[prodshort](includes/prodshort.md)] On-premises действие **Изменить в Excel** доступно только в том случае, если ваш администратор настроил надстройку Excel, и доступна только для веб-клиента. Для администраторов порядок установки надстройки Excel приведен в разделе [Настройка надстройки Excel для редактирования данных Business Central](/dynamics365/business-central/dev-itpro/administration/configuring-excel-addin).
+> Для [!INCLUDE[prod_short](includes/prod_short.md)] On-premises действие **Изменить в Excel** доступно только в том случае, если ваш администратор настроил надстройку Excel, и доступна только для веб-клиента. Для администраторов порядок установки надстройки Excel приведен в разделе [Настройка надстройки Excel для редактирования данных Business Central](/dynamics365/business-central/dev-itpro/administration/configuring-excel-addin).
 
 ### <a name="see-the-differences-between-the-options"></a>См. разницу между параметрами
 <br><br>  

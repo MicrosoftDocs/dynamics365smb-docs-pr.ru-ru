@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: a1f6002f0c57530282b5688c0fe81c36a1d4e7e1
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 5b9a2064605d34e4c78bbd9cae5cddbaead70f29
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3912925"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4747872"
 ---
 # <a name="setup-best-practices-planning-parameters"></a>Рекомендации по настройке: параметры планирования
 Экспресс-вкладка **Планирование** в карточке товара является центром цепочки поставок в организации. Для рентабельного управления запасами и обслуживания клиентов на высочайшем уровне очень важно установить правильные параметры планирования.  
@@ -45,4 +45,4 @@ ms.locfileid: "3912925"
  [Сведения о проектировании: планирование поставок](design-details-supply-planning.md)   
  [Настройка сложных областей приложения с помощью рекомендаций](set-up-complex-application-areas-using-best-practices.md)  
  [Сведения о проектировании: спрос на пустом складе](design-details-demand-at-blank-location.md)  
- [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+ [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

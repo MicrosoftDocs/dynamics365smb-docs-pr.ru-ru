@@ -10,15 +10,15 @@ ms.workload: na
 ms.search.keywords: Yodlee, feed, stream
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: bf310ff190682b22ffe81d0ad3072b3bdc8803b7
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 1684f12858a33234f51d7847b50ea15aa1d7b230
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3921076"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4755296"
 ---
 # <a name="set-up-bank-accounts"></a>Настройка банковских счетов
-Банковские счета в [!INCLUDE[d365fin](includes/d365fin_md.md)] используются для того, чтобы отслеживать банковские транзакции. Счета могут быть деноминированы в локальной валюте (в рублях), либо в иностранной валюте. После настройки банковских счетов можно использовать функцию «Печать платежей».<br><br>  
+Банковские счета в [!INCLUDE[prod_short](includes/prod_short.md)] используются для того, чтобы отслеживать банковские транзакции. Счета могут быть деноминированы в локальной валюте (в рублях), либо в иностранной валюте. После настройки банковских счетов можно использовать функцию «Печать платежей».<br><br>  
 
 > [!Video https://www.microsoft.com/videoplayer/embed/RE3Vhpl?rel=0]
 
@@ -55,4 +55,4 @@ ms.locfileid: "3921076"
 [Настройка банковских операций](bank-setup-banking.md)  
 [Настройка учетных групп](finance-posting-groups.md)  
 [Выверка банковских счетов](bank-manage-bank-accounts.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

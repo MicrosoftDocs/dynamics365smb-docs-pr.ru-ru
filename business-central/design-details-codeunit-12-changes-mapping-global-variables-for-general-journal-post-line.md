@@ -1,6 +1,6 @@
 ---
-title: Сведения о проектировании — изменения модуля codeunit 12 в сопоставлении глобальных переменных для строки учета финансового журнала | Документация Майкрософт
-description: В этом выпуске Business Central реализованы следующие изменения.
+title: Изменения в сопоставлении глобальных переменных для учета в модуле Codeunit 12
+description: В более ранних версиях модуль codeunit 12 был изменен, чтобы помочь повысить производительность учета из финансового журнала. Узнайте об изменениях в глобальных переменных.
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -8,17 +8,18 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2020
+ms.date: 10/28/2020
 ms.author: edupont
-ms.openlocfilehash: 513518f7e76fcdbb43563d225c683a8bd97e5e4e
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 0fc79ba982e17b9295f0f611ca34b4eb615001f3
+ms.sourcegitcommit: a95681db16e81af109b34f8e5d88028c1552c6a2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3917455"
+ms.lasthandoff: 11/03/2020
+ms.locfileid: "4367763"
 ---
-# <a name="codeunit-12-changes-mapping-global-variables-for-general-journal-post-line"></a>Изменения модуля codeunit 12: сопоставление глобальных переменных для строки учета финансового журнала
-В этом выпуске [!INCLUDE[d365fin](includes/d365fin_md.md)] реализованы следующие изменения.  
+# <a name="historical-changes-to-codeunit-12-mapping-global-variables-for-general-journal-post-line"></a>Исторические изменения модуля codeunit 12: сопоставление глобальных переменных для строки учета финансового журнала
+
+В версиях [!INCLUDE [navnow_md](includes/navnow_md.md)] были реализованы следующие изменения.  
 
 |**Microsoft Dynamics NAV 2009 R2**|**Microsoft Dynamics NAV 2013 R2**|**Комментарий**|  
 |----------------------------------------|----------------------------------------|-----------------|  

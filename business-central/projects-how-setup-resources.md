@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: project management, capacity, staff
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: fbcd6f6e0f1a73316c20f14f143a044c68a5c539
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: b6c10cc9a31dcf41d843d2bebc19ef81433cb4ee
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3919042"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4748897"
 ---
 # <a name="set-up-resources"></a>Настройка ресурсов
 Для правильного управления деятельностью ресурсов необходимо настроить ресурсы, а также связанные с ними затраты и цены. Связанные с работой цены, скидки и правила фактора стоимости задаются в карточке работы. Затраты и цены можно установить для каждого отдельного ресурса, группы ресурсов или всех доступных ресурсов организации.
@@ -80,4 +80,4 @@ ms.locfileid: "3919042"
 [Финансы](finance.md)  
 [Покупки](purchasing-manage-purchasing.md)         
 [Продажи](sales-manage-sales.md)      
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  

@@ -12,19 +12,19 @@ ms.workload: na
 ms.search.keywords: work in process, work in progress, calculate project WIP
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 8b2cebfbee991bcb9aa9c9bebe9e9112a024c429
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 8d23cd7ca8badf10bc8c734d84b5142d34ad4362
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3918942"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4748822"
 ---
 # <a name="understanding-wip-methods"></a>Общее представление о методах учета НЗП
 По мере выполнения работы, материалы, ресурсы и т. д. потребляются и подлежат учету. Незавершенное производство (НЗП) — это функция, позволяющая в процессе выполнения работы оценивать ее стоимость с финансовый точки зрения в Главной книге, пока работы еще не завершены. В большинстве случаев затраты можно учесть до выставления счета по работе. Если учитывать только расходы, финансовый отчет будет неточным.
 
 Для трассировки стоимости в Главной книге, можно рассчитать НЗП и учесть стоимость в Главной книге. Для получения дополнительной информации см. раздел [Отслеживание хода выполнения работ и производительности](projects-how-monitor-progress-performance.md).
 
-[!INCLUDE[d365fin](includes/d365fin_md.md)] поддерживает следующие методы расчета и регистрации стоимости незавершенного производства.
+[!INCLUDE[prod_short](includes/prod_short.md)] поддерживает следующие методы расчета и регистрации стоимости незавершенного производства.
 
 | Метод НЗП | Формула расчета | Описание расчета |
 | --- | --- | --- |
@@ -39,4 +39,4 @@ ms.locfileid: "3918942"
 [Финансы](finance.md)  
 [Покупки](purchasing-manage-purchasing.md)         
 [Продажи](sales-manage-sales.md)      
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  

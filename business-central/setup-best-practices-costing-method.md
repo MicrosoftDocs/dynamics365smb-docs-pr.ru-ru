@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: bf342b4cfcc59f51c2aae8ca6e36f25d7f3f5e35
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 1b08ebbdd24e821f5ed528d9956f2753c84fbc05
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3912958"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4747847"
 ---
 # <a name="setup-best-practices-costing-method"></a>Рекомендации по настройке. Метод учета себестоимости
 
@@ -37,4 +37,4 @@ ms.locfileid: "3912958"
  [Сведения о проектировании: методы учета себестоимости](design-details-costing-methods.md)   
  [Сведения о проектировании: себестоимость запасов](design-details-inventory-costing.md)   
  [Настройка сложных областей приложения с помощью рекомендаций](set-up-complex-application-areas-using-best-practices.md)  
- [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+ [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

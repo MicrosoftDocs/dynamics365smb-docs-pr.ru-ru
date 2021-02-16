@@ -7,12 +7,12 @@ ms.topic: article
 ms.search.keywords: prepayment
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 7f8d0109b42eb75f022bac580c2bef006f311157
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 34e5d1e0f424097de259d01e438158f6a92390ae
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3914243"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4750434"
 ---
 # <a name="set-up-prepayments"></a>Настройка предоплаты
 Если требуется, чтобы клиенты осуществляли платежи до отгрузки им заказов, или если аналогичное требование выдвигают поставщики в отношении вашей организации, можно использовать функцию предоплаты. Благодаря функции предоплаты можно выставлять счета и собирать необходимые авансы от клиентов либо переводить авансы поставщикам, а также обеспечивать учет всех частичных платежей для счета. Дополнительные сведения в разделе [Создание счетов на предоплату](finance-how-to-create-prepayment-invoices.md).
@@ -93,4 +93,4 @@ ms.locfileid: "3914243"
 [Расчет налога на товары и услуги при НДС в предоплатах в Новой Зеландии](LocalFunctionality/NewZealand/how-to-calculate-goods-and-services-tax-on-prepayments.md)  
 [Сведения о главной книге и плане счетов](finance-general-ledger.md)  
 [Финансы](finance.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

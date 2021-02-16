@@ -8,16 +8,16 @@ ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: e4bc4b08bba32ae920ce7a5da86ea64abab4632d
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 137f31f747d2746890f9e7a81f51fd538daa2a3c
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3921246"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4752431"
 ---
 # <a name="create-additional-sheets"></a>Создание дополнительных листов
 
-В [!INCLUDE[prodshort](../../includes/prodshort.md)] можно создавать дополнительные листы на основе книг НДС покупок и книг НДС продаж.
+В [!INCLUDE[prod_short](../../includes/prod_short.md)] можно создавать дополнительные листы на основе книг НДС покупок и книг НДС продаж.
 
 ## <a name="to-create-entries-for-an-additional-sheet-for-a-vat-purchase-or-sales-ledger"></a>Создание операций для дополнительного листа книги НДС покупок или продаж
 

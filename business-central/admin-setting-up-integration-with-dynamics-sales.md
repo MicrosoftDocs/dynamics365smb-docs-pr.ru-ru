@@ -1,5 +1,5 @@
 ---
-title: Настройка учетных записей пользователя для интеграции с Common Data Service | Документы Майкрософт
+title: Настройка учетных записей пользователя для интеграции с Microsoft Dataverse | Документы Майкрософт
 description: Узнайте, как настроить учетные записи пользователей, которые приложения используют для обмена данными, и что используют люди для доступа к данным в приложениях и их синхронизации.
 author: bholtorf
 ms.service: dynamics365-business-central
@@ -10,24 +10,26 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: bholtorf
-ms.openlocfilehash: d396e5fc9073d753bb9782394a922c26242b472a
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: b341b476c33e39dfda7fbb69bf643264f6c50672
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3917780"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4755146"
 ---
-# <a name="setting-up-user-accounts-for-integrating-with-common-data-service"></a>Настройка учетных записей пользователя для интеграции с Common Data Service
-Эта статья содержит обзор порядка настройки учетных записей пользователей, которые требуются для интеграции [!INCLUDE[d365fin](includes/cds_long_md.md)] с [!INCLUDE[d365fin](includes/d365fin_md.md)].  
+# <a name="setting-up-user-accounts-for-integrating-with-microsoft-dataverse"></a>Настройка учетных записей пользователя для интеграции с Microsoft Dataverse
+[!INCLUDE[prod_short](includes/cc_data_platform_banner.md)]
+
+Эта статья содержит обзор порядка настройки учетных записей пользователей, которые требуются для интеграции [!INCLUDE[prod_short](includes/cds_long_md.md)] с [!INCLUDE[prod_short](includes/prod_short.md)].  
 
 ## <a name="setting-up-the-administrator-user-account"></a>Настройка учетной записи пользователя-администратора
-Вы должны добавить свою учетную запись администратора для [!INCLUDE[d365fin](includes/d365fin_md.md)] как пользователя в [!INCLUDE[d365fin](includes/cds_long_md.md)]. Когда вы устанавливаете подключение между [!INCLUDE[d365fin](includes/d365fin_md.md)] и [!INCLUDE[d365fin](includes/cds_long_md.md)], мы будем использовать эту учетную запись один раз для установки и настройки некоторых необходимых компонентов. 
+Вы должны добавить свою учетную запись администратора для [!INCLUDE[prod_short](includes/prod_short.md)] как пользователя в [!INCLUDE[prod_short](includes/cds_long_md.md)]. Когда вы устанавливаете подключение между [!INCLUDE[prod_short](includes/prod_short.md)] и [!INCLUDE[prod_short](includes/cds_long_md.md)], мы будем использовать эту учетную запись один раз для установки и настройки некоторых необходимых компонентов. 
 
-## <a name="permissions-and-security-roles-for-user-accounts-in-d365fin"></a>Разрешения и роли безопасности для учетных записей пользователей в [!INCLUDE[d365fin](includes/cds_long_md.md)]
+## <a name="permissions-and-security-roles-for-user-accounts-in-prod_short"></a>Разрешения и роли безопасности для учетных записей пользователей в [!INCLUDE[prod_short](includes/cds_long_md.md)]
 При установке базового решения интеграции CDS разрешения для учетной записи пользователя интеграции настраиваются. Если эти разрешения изменены вручную, можно сбросить их. Вы можете сделать это, переустановив базовое решение интеграции CDS, выбрав **Повторить развертывание решения интеграции** на странице **Настройка подключения Common Data Service**. Роль безопасности интеграции Business Central CDS развернута.
 
 <!--
-The following tables list the minimum permissions for the user accounts in [!INCLUDE[d365fin](includes/cds_long_md.md)].
+The following tables list the minimum permissions for the user accounts in [!INCLUDE[prod_short](includes/cds_long_md.md)].
 
 ### Minimum Permissions for the Administrator
 The following table displays the minimum permissions on each tab for each security role that is required for the administrator user.
@@ -51,8 +53,8 @@ The following table displays the minimum permissions on each tab for each securi
 |Business Central Connection|Global|Create, Read, Write, Delete|Create, Read, Write, Delete|Create, Read, Write, Delete|
 |Post Configuration|Global|||Write|
 
-### Minimum Permissions for automatically created [!INCLUDE[d365fin](includes/d365fin_md.md)] Integration application user
-The following table displays the minimum permissions on each tab for each security role that is required for the automatically created [!INCLUDE[d365fin](includes/d365fin_md.md)] Integration application user.
+### Minimum Permissions for automatically created [!INCLUDE[prod_short](includes/prod_short.md)] Integration application user
+The following table displays the minimum permissions on each tab for each security role that is required for the automatically created [!INCLUDE[prod_short](includes/prod_short.md)] Integration application user.
 
 ##### Core Records
 |Security Role|Access Level|Dynamics NAV 2018 and Earlier|Business Central <br> October 2018|Business Central <br> April 2019|
@@ -120,5 +122,5 @@ You can allow sales people to view inventory levels for the items they sell by g
 -->
 
 ## <a name="see-also"></a>См. также  
-[Интеграция с Common Data Service](admin-common-data-service.md)  
+[Интеграция с Microsoft Dataverse](admin-common-data-service.md)  
 [Интеграция с Dynamics 365 Sales](admin-prepare-dynamics-365-for-sales-for-integration.md)  

@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: a0ff9ed014897a1a285dc3f6817299ec38bc9886
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: fd387356cd6306f9d35c777f75e17500ed4096c4
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3920876"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4749622"
 ---
 # <a name="design-details-variance"></a>Сведения о проектировании: отклонение
 Отклонение определяется как разница между фактическими и стандартными затратами, как описано в следующей формуле.  
@@ -63,4 +63,4 @@ ms.locfileid: "3920876"
  [Сведения о проектировании: себестоимость запасов](design-details-inventory-costing.md)   
  [Сведения о проектировании: методы учета себестоимости](design-details-costing-methods.md) [Управление себестоимостью товаров](finance-manage-inventory-costs.md)  
  [Финансы](finance.md)  
- [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+ [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

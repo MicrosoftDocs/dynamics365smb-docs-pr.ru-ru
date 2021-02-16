@@ -11,17 +11,17 @@ ms.search.keywords: recurring, invoicing, subscription, billing
 ms.reviewer: edupont
 ms.date: 10/01/2020
 ms.author: andreipa
-ms.openlocfilehash: 25cf2c75ac6beca4f187b329c610914452d7dfcb
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 311af347fede15b3d246e66d66b47a5fd09c90db
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3910809"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4750484"
 ---
-# <a name="work-with-recurring-revenue-in-d365fin"></a>Работа с повторяющимся доходом в [!INCLUDE[d365fin](includes/d365fin_md.md)]
+# <a name="work-with-recurring-revenue-in-prod_short"></a>Работа с повторяющимся доходом в [!INCLUDE[prod_short](includes/prod_short.md)]
 
 Многие компании переходят от модели доходов от бизнеса, в которой доход поступает от единовременной покупки клиента, к модели подписки, где доход поступает на постоянной основе в обмен на постоянный доступ к доставке товара или услуги.
-В [!INCLUDE[d365fin](includes/d365fin_md.md)] есть следующие функции для автоматизации отправки счетов за подписку вашим клиентам и регистрации регулярных доходов. 
+В [!INCLUDE[prod_short](includes/prod_short.md)] есть следующие функции для автоматизации отправки счетов за подписку вашим клиентам и регистрации регулярных доходов. 
 
 ## <a name="register-revenue-with-a-recurring-general-journal"></a>Регистрация дохода в типовом финансовом журнале
 
@@ -31,7 +31,7 @@ ms.locfileid: "3910809"
 
 С помощью этой опции вы определяете гибкие периоды выставления счетов с использованием [Формул даты](ui-enter-date-ranges.md#using-date-formulas).
 
-Однако с этой опцией вы не можете печатать и отправлять счета в версии по умолчанию [!INCLUDE[d365fin](includes/d365fin_md.md)].  
+Однако с этой опцией вы не можете печатать и отправлять счета в версии по умолчанию [!INCLUDE[prod_short](includes/prod_short.md)].  
 
 Дополнительные сведения см. в разделе [Работа с типовыми журналами](ui-work-general-journals.md#working-with-recurring-journals).  
 
@@ -57,7 +57,7 @@ ms.locfileid: "3910809"
 
 С помощью этой опции вы можете назначить одинаковые типовые строки нескольким клиентам. Вы можете определить срок действия для строк типовых продаж для конкретного клиента. Вы можете назначить несколько типовых строк одному клиенту, и все они будут включены в счет.
 
-Тем не менее нет возможности установить фиксированные цены на товары, потому что [!INCLUDE[d365fin](includes/d365fin_md.md)] будет использовать актуальные цены и скидки, действительные на дату документа, пытаясь найти лучшую комбинацию, которая дает самую низкую цену.  
+Тем не менее нет возможности установить фиксированные цены на товары, потому что [!INCLUDE[prod_short](includes/prod_short.md)] будет использовать актуальные цены и скидки, действительные на дату документа, пытаясь найти лучшую комбинацию, которая дает самую низкую цену.  
 
 Дополнительные сведения см. в разделе [Создание типовых строк продажи и покупки](sales-how-work-standard-lines.md).
 
@@ -77,7 +77,7 @@ ms.locfileid: "3910809"
 Для получения дополнительной информации см. [Работа с сервисными контрактами и предложениями по сервисным контрактам](service-how-to-create-service-contracts-and-service-contract-quotes.md) и [Выставление счетов по нескольким сервисным контрактам](service-how-create-invoices.md#to-invoice-several-service-contracts).
 
 ## <a name="related-features"></a>Связанные функции
-В [!INCLUDE[d365fin](includes/d365fin_md.md)] есть несколько связанных возможностей в.
+В [!INCLUDE[prod_short](includes/prod_short.md)] есть несколько связанных возможностей в.
 
 ### <a name="blanket-sales-orders"></a>Общие заказы на продажу
 
@@ -103,7 +103,7 @@ ms.locfileid: "3910809"
 
 Но этот параметр доступен только в Норвегии. Период действия может быть определен на уровне типовой группы.
 
-Дополнительные сведения см. в разделе [Типовые заказы (Норвегия)](/localfunctionality/norway/recurring-orders.md).
+Дополнительные сведения см. в разделе [Повторяющиеся заказы](LocalFunctionality/Norway/recurring-orders.md).
 
 ### <a name="recurring-revenue-and-subscription-billing-by-other-providers"></a>Повторяющийся доход и выставление счетов подписчикам другими поставщиками
 
@@ -120,4 +120,4 @@ ms.locfileid: "3910809"
 [Выставление счетов по нескольким сервисным контрактам](service-how-create-invoices.md#to-invoice-several-service-contracts)  
 [Прогнозы спроса и общие заказы](design-details-central-concepts-of-the-planning-system.md#demand-forecasts-and-blanket-orders)  
 [Работа с общими заказами на продажу](sales-how-to-create-blanket-sales-orders.md)  
-[Типовые заказы (Норвегия)](/localfunctionality/norway/recurring-orders.md)  
+[Типовые заказы (Норвегия)](LocalFunctionality/Norway/recurring-orders.md)  

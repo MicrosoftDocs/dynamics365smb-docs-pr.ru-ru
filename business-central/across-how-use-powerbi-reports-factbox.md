@@ -10,23 +10,23 @@ ms.workload: na
 ms.search.keywords: business intelligence, KPI, Odata, Power App, SOAP, analysis
 ms.date: 10/01/2020
 ms.author: jswymer
-ms.openlocfilehash: 04c0c5d203e78c2ae0be48609a5ee90f45b83c6f
-ms.sourcegitcommit: 0fb6952376d853a878ed33257e73aadc03b95572
+ms.openlocfilehash: 069efcef517cd442539f13fad5e5a2c89e1533ff
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/07/2020
-ms.locfileid: "3968389"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4754471"
 ---
-# <a name="creating-power-bi-reports-for-displaying-list-data-in-prodshort"></a>Создание отчетов Power BI для отображения данных списка в [!INCLUDE[prodshort](includes/prodshort.md)]
+# <a name="creating-power-bi-reports-for-displaying-list-data-in-prod_short"></a>Создание отчетов Power BI для отображения данных списка в [!INCLUDE[prod_short](includes/prod_short.md)]
 
-[!INCLUDE[prodlong](includes/prodlong.md)] включает элемент управления информационной панелью на нескольких ключевых страницах списков, который предоставляет дополнительные сведения о данных в списке. При перемещении между строками в списке отчет обновляется и фильтруется в соответствии с выбранной операцией. Вы можете создавать пользовательские отчеты для отображения в этом элементе управления. Однако есть несколько правил, которым нужно следовать, чтобы отчеты работали должным образом.  
+[!INCLUDE[prod_long](includes/prod_long.md)] включает элемент управления информационной панелью на нескольких ключевых страницах списков, который предоставляет дополнительные сведения о данных в списке. При перемещении между строками в списке отчет обновляется и фильтруется в соответствии с выбранной операцией. Вы можете создавать пользовательские отчеты для отображения в этом элементе управления. Однако есть несколько правил, которым нужно следовать, чтобы отчеты работали должным образом.  
 
 ## <a name="prerequisites"></a>Предварительные требования
 
 - Учетная запись Power BI.
 - Power BI Desktop.
 
-Дополнительные сведения о начале работы см. в разделе [Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] как источник данных Power BI](across-how-use-financials-data-source-powerbi.md).
+Дополнительные сведения о начале работы см. в разделе [Использование [!INCLUDE[prod_short](includes/prod_short.md)] как источник данных Power BI](across-how-use-financials-data-source-powerbi.md).
 
 ## <a name="defining-the-report-data-set"></a>Определение набора данных отчета
 
@@ -42,7 +42,7 @@ ms.locfileid: "3968389"
 
 ## <a name="setting-the-report-size-and-color"></a>Настройка размера и цвета отчета
 
-Отчет должен иметь размер 325 х 310 пикселей. Этот размер обеспечивает правильное масштабирование отчета в доступном пространстве элемента управления информационной панелью Power BI в [!INCLUDE[d365fin](includes/d365fin_md.md)]. Чтобы определить размер отчета, поместите фокус вне области макета отчета, а затем щелкните значок валика.
+Отчет должен иметь размер 325 х 310 пикселей. Этот размер обеспечивает правильное масштабирование отчета в доступном пространстве элемента управления информационной панелью Power BI в [!INCLUDE[prod_short](includes/prod_short.md)]. Чтобы определить размер отчета, поместите фокус вне области макета отчета, а затем щелкните значок валика.
 
 ![Настройка ширины и высоты отчета для отчета "Активность счетов продаж"](./media/across-how-use-powerbi-reports-factbox/financials-powerbi-report-sizing-v3.png)
 
@@ -58,7 +58,7 @@ ms.locfileid: "3968389"
 
 Задайте отчету имя, содержащее имя страницы списка, связанной с отчетом. Например, если отчет предназначен для страницы списка **Поставщик**, включите слово *поставщик* где-то в названии.  
 
-Это соглашение об именах не является обязательным. Однако это делает выбор отчетов в [!INCLUDE[d365fin](includes/d365fin_md.md)] быстрее. Когда страница выбора отчета открывается со страницы списка, она автоматически фильтруется на основе имени страницы. Эта фильтрация выполняется для ограничения отображаемых отчетов. Пользователи могут удалить фильтр, чтобы получить полный список доступных отчетов в Power BI.  
+Это соглашение об именах не является обязательным. Однако это делает выбор отчетов в [!INCLUDE[prod_short](includes/prod_short.md)] быстрее. Когда страница выбора отчета открывается со страницы списка, она автоматически фильтруется на основе имени страницы. Эта фильтрация выполняется для ограничения отображаемых отчетов. Пользователи могут удалить фильтр, чтобы получить полный список доступных отчетов в Power BI.  
 
 ## <a name="fixing-problems"></a>Устранение проблем
 
@@ -85,7 +85,7 @@ ms.locfileid: "3968389"
 ## <a name="see-also"></a>См. также
 
 [Включение бизнес-данных для Power BI](admin-powerbi.md)  
-[Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] как источника данных Power BI](across-how-use-financials-data-source-powerbi.md)  
+[Использование [!INCLUDE[prod_short](includes/prod_short.md)] как источника данных Power BI](across-how-use-financials-data-source-powerbi.md)  
 [Приступая к работе](product-get-started.md)  
-[Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md)  
+[Настройка [!INCLUDE[prod_short](includes/prod_short.md)]](setup.md)  
 [Финансы](finance.md)  

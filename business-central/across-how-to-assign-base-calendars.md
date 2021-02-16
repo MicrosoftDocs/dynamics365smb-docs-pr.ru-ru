@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: f6fcaf1594408a80cc9731abca1906082d311bb3
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 4b6400b304c24dff6cb0aa29bdfb5463340c466c
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3916348"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4754821"
 ---
 # <a name="set-up-base-calendars"></a>Настройка базовых календарей
 Можно присвоить базовый календарь своей организации и ее деловым партнерам, таким как клиенты, поставщики или склады. При расчете дат поставки и приемки по строкам будущих заказов продажи, покупки, перемещения и производства будут учитываться только дни, указанные в календаре как рабочие. Новый базовый календарь создается, чтобы установить нерабочие дни, которые необходимо ввести.  
@@ -116,4 +116,4 @@ ms.locfileid: "3916348"
 [Покупки](purchasing-manage-purchasing.md)  
 [Производство](production-manage-manufacturing.md)    
 [Запасы](inventory-manage-inventory.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

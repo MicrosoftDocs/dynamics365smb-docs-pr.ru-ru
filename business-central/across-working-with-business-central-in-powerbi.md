@@ -10,16 +10,16 @@ ms.workload: na
 ms.search.keywords: account schedule, analysis, reporting, financial report, business intelligence, KPI
 ms.date: 10/01/2020
 ms.author: jswymer
-ms.openlocfilehash: 99628b761a3d5f79941a78c00a999a5b8131869e
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: d705a6e4a9187644876277f0a9f6836ecc14f282
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3927226"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4754121"
 ---
-# <a name="working-with-prodshort-data-in-power-bi"></a>Работа с данными [!INCLUDE [prodshort](includes/prodshort.md)] в Power BI
+# <a name="working-with-prod_short-data-in-power-bi"></a>Работа с данными [!INCLUDE [prod_short](includes/prod_short.md)] в Power BI
 
-В этой статье вы узнаете некоторые основы работы с отчетами и панелями мониторинга в Power BI с использованием [!INCLUDE [prodshort](includes/prodshort.md)] как источника данных. В статье обсуждаются некоторые аспекты, которые помогут вам начать работу в качестве пользователя [!INCLUDE[prodshort](includes/prodshort.md)]. Общие рекомендации и инструкции по использованию Power BI см. в [документации для пользователей Power BI](https://review.docs.microsoft.com/en-us/power-bi/consumer).
+В этой статье вы узнаете некоторые основы работы с отчетами и панелями мониторинга в Power BI с использованием [!INCLUDE [prod_short](includes/prod_short.md)] как источника данных. В статье обсуждаются некоторые аспекты, которые помогут вам начать работу в качестве пользователя [!INCLUDE[prod_short](includes/prod_short.md)]. Общие рекомендации и инструкции по использованию Power BI см. в [документации для пользователей Power BI](https://review.docs.microsoft.com/en-us/power-bi/consumer).
 
 ## <a name="get-ready"></a>Подготовка
 
@@ -31,13 +31,13 @@ ms.locfileid: "3927226"
 
 В службе Power BI размещаются все доступные вам отчеты. Чтобы просмотреть отчет, выберите **Моя рабочая область** > **Отчеты**. Затем просто выберите отчет, который хотите просмотреть.
 
-С [!INCLUDE[prodshort](includes/prodshort.md)] Online вы автоматически получаете набор отчетов по умолчанию в вашей рабочей области. Если вы хотите создавать свои собственные отчеты, вы можете использовать Power BI Desktop для создания отчетов, а затем их публикации в вашей рабочей области. Дополнительные сведения см. в разделе [Приступая к созданию отчетов в Power BI Desktop для отображения данных [!INCLUDE [prodlong](includes/prodlong.md)]](across-how-use-financials-data-source-powerbi.md).
+С [!INCLUDE[prod_short](includes/prod_short.md)] Online вы автоматически получаете набор отчетов по умолчанию в вашей рабочей области. Если вы хотите создавать свои собственные отчеты, вы можете использовать Power BI Desktop для создания отчетов, а затем их публикации в вашей рабочей области. Дополнительные сведения см. в разделе [Приступая к созданию отчетов в Power BI Desktop для отображения данных [!INCLUDE [prod_long](includes/prod_long.md)]](across-how-use-financials-data-source-powerbi.md).
 
-Если вы используете [!INCLUDE[prodshort](includes/prodshort.md)] On-Premises, вам придется начать с нуля, используя Power BI Desktop. Дополнительно отчеты Power BI могут распространяться в виде файлов, которые вы можете отправлять.
+Если вы используете [!INCLUDE[prod_short](includes/prod_short.md)] On-Premises, вам придется начать с нуля, используя Power BI Desktop. Дополнительно отчеты Power BI могут распространяться в виде файлов, которые вы можете отправлять.
 
 ## <a name="get-the-latest-data"></a>Получение новейших данных
 
-Каждый отчет Power BI основан на наборе данных, который получает данные из источников [!INCLUDE[prodshort](includes/prodshort.md)]. Вы хотите убедиться, что данные в ваших отчетах Power BI актуальны относительно данных в [!INCLUDE[prodshort](includes/prodshort.md)]. Эта концепция называется *обновлением*.  В зависимости от того, как ваша организация настроила Power BI, обновление может не производиться автоматически. Есть два способа обновить данные: вручную или по расписанию. Ручное обновление выполняется по запросу по мере необходимости. Обновление по расписанию позволяет выполнять автоматическое обновление через определенные промежутки времени.
+Каждый отчет Power BI основан на наборе данных, который получает данные из источников [!INCLUDE[prod_short](includes/prod_short.md)]. Вы хотите убедиться, что данные в ваших отчетах Power BI актуальны относительно данных в [!INCLUDE[prod_short](includes/prod_short.md)]. Эта концепция называется *обновлением*.  В зависимости от того, как ваша организация настроила Power BI, обновление может не производиться автоматически. Есть два способа обновить данные: вручную или по расписанию. Ручное обновление выполняется по запросу по мере необходимости. Обновление по расписанию позволяет выполнять автоматическое обновление через определенные промежутки времени.
 
 ### <a name="refresh-manually"></a>Обновление вручную
 
@@ -65,7 +65,7 @@ ms.locfileid: "3927226"
 > Для отправки отчета необходимо наличие рабочей области с [премиум-емкостью](/power-bi/service-premium-what-is). Дополнительные сведения см. в разделе [Управление премиум-емкостью](/power-bi/admin/service-premium-capacity-manage). 
 
 > [!TIP]
-> Если вы используете [!INCLUDE[prodshort](includes/prodshort.md)] Online, вы также можете отправить отчет из [!INCLUDE[prodshort](includes/prodshort.md)]. Дополнительные сведения см. в разделе [Работа с отчетами Power BI в [!INCLUDE [prodshort](includes/prodshort.md)] — отправка отчетов](across-working-with-powerbi.md#upload).
+> Если вы используете [!INCLUDE[prod_short](includes/prod_short.md)] Online, вы также можете отправить отчет из [!INCLUDE[prod_short](includes/prod_short.md)]. Дополнительные сведения см. в разделе [Работа с отчетами Power BI в [!INCLUDE [prod_short](includes/prod_short.md)] — отправка отчетов](across-working-with-powerbi.md#upload).
 
 ## <a name="share-reports-with-others"></a><a name="share"></a>Предоставление доступа к отчетам другим пользователям
 
@@ -81,9 +81,9 @@ ms.locfileid: "3927226"
 ## <a name="see-also"></a>См. также
 
 [Business Central и Power BI](admin-powerbi.md)  
-[Создание отчетов Power BI для отображения данных [!INCLUDE [prodlong](includes/prodlong.md)]](across-how-use-financials-data-source-powerbi.md)  
-[Обзор компонентов и архитектуры интеграции Power BI для [!INCLUDE[prodshort](includes/prodshort.md)]](admin-powerbi-overview.md)  
-[Работа с отчетами Power BI в [!INCLUDE [prodshort](includes/prodshort.md)]](across-working-with-powerbi.md)  
+[Создание отчетов Power BI для отображения данных [!INCLUDE [prod_long](includes/prod_long.md)]](across-how-use-financials-data-source-powerbi.md)  
+[Обзор компонентов и архитектуры интеграции Power BI для [!INCLUDE[prod_short](includes/prod_short.md)]](admin-powerbi-overview.md)  
+[Работа с отчетами Power BI в [!INCLUDE [prod_short](includes/prod_short.md)]](across-working-with-powerbi.md)  
 [Power BI для потребителей](/power-bi/consumer/end-user-consumer)  
 ["Новый внешний вид" службы Power BI](/power-bi/service-new-look)  
 [Быстрый старт: подключение к данным в Power BI Desktop](/power-bi/desktop-quickstart-connect-to-data)  
@@ -91,9 +91,9 @@ ms.locfileid: "3927226"
 [Бизнес-аналитика](bi.md)  
 [Приступая к работе](product-get-started.md)  
 [Импорт бизнес-данных из других финансовых систем](across-import-data-configuration-packages.md)  
-[Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md)  
-[Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] как источника данных Power BI](across-how-use-financials-data-source-powerbi.md)  
-[Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] как источника данных Power Apps](across-how-use-financials-data-source-powerapps.md)  
-[Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] в Power Automate](across-how-use-financials-data-source-flow.md)  
+[Настройка [!INCLUDE[prod_short](includes/prod_short.md)]](setup.md)  
+[Использование [!INCLUDE[prod_short](includes/prod_short.md)] как источника данных Power BI](across-how-use-financials-data-source-powerbi.md)  
+[Использование [!INCLUDE[prod_short](includes/prod_short.md)] как источника данных Power Apps](across-how-use-financials-data-source-powerapps.md)  
+[Использование [!INCLUDE[prod_short](includes/prod_short.md)] в Power Automate](across-how-use-financials-data-source-flow.md)  
 
-## [!INCLUDE[d365fin](includes/free_trial_md.md)]  
+## [!INCLUDE[prod_short](includes/free_trial_md.md)]  

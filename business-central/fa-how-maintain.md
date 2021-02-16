@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: repair, service
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 3548576f498808a215f52b25302866cd2041269c
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 0aac3f40cb8a6aa7f2e9a3eff182edb86dd1efb8
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3910859"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4749372"
 ---
 # <a name="maintain-fixed-assets"></a>Обслуживание основных средств
 Стоимость обслуживания — это периодические затраты, направленные на сохранение стоимости основных средств. В отличие от капитальных усовершенствований они не увеличивают стоимость.
@@ -89,4 +89,4 @@ ms.locfileid: "3910859"
 [Настройка основных средств](fa-setup.md)  
 [Финансы](finance.md)  
 [Приступая к работе](product-get-started.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

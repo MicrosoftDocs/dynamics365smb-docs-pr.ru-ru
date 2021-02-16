@@ -8,16 +8,16 @@ ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 377bef12826f460949985059dfbe44f7200a7288
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: a270566bf2a5071d17180aa0f0adb74da26e08f3
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3921218"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4753255"
 ---
 # <a name="register-vat-on-purchase-orders"></a>Регистрация НДС по заказам на покупку
 
-В России организации должны вести журнал НДС по входящим и исходящим счетам. [!INCLUDE[prodshort](../../includes/prodshort.md)] позволяет регистрировать НДС по заказам на покупку, чтобы эта информация отслеживалась в журнале счетов НДС.
+В России организации должны вести журнал НДС по входящим и исходящим счетам. [!INCLUDE[prod_short](../../includes/prod_short.md)] позволяет регистрировать НДС по заказам на покупку, чтобы эта информация отслеживалась в журнале счетов НДС.
 
 ## <a name="to-register-vat-on-a-purchase-order"></a>Регистрация НДС по заказам на покупку
 

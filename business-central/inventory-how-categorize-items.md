@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: category, search, attribute, facet
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: a5698746fe52ff7ff6ca38e1207f09ded0742c96
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 3959392048f4c130e6564160f9b2c6f5956ece8c
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3914111"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4746245"
 ---
 # <a name="categorize-items"></a>Категоризация товаров
 
@@ -55,4 +55,4 @@ ms.locfileid: "3914111"
 [Работа с атрибутами товаров](inventory-how-work-item-attributes.md)  
 [Регистрация новых товаров](inventory-how-register-new-items.md)  
 [Запасы](inventory-manage-inventory.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

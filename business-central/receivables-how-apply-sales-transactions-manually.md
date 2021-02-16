@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: payment process, cash receipt
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 370a9894daf271be8cb3ed3043a509ab2565f40c
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: c5f0ba926208d831cac4d5e3b54c5a8e83a9d92c
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3926576"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4748597"
 ---
 # <a name="reconcile-customer-payments-with-the-cash-receipt-journal-or-from-customer-ledger-entries"></a>Сверка платежей клиентов с журналом кассовых поступлений или из книги операций по клиентам
 При получении кассовых поступлений от клиента или возврате денежных средств необходимо решить, следует ли применять платеж или возврат для закрытия одной или нескольких открытых дебетовых или кредитовых операций. Можно задать сумму, которую нужно применить. Например, можно применить частичные платежи к операциям книги клиентов. Закрытие операций книги клиентов позволяет убедиться, что информация, такая как статистика по клиенту, выписки по счету и финансовые расходы, правильная.
@@ -158,4 +158,4 @@ ms.locfileid: "3926576"
 ## <a name="see-also"></a>См. также
 [Управление дебиторской задолженностью](receivables-manage-receivables.md)  
 [Продажи](sales-manage-sales.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

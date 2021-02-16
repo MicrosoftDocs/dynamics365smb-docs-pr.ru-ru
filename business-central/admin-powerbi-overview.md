@@ -11,16 +11,16 @@ ms.search.keywords: account schedule, analysis, reporting, financial report, bus
 ms.reviewer: edupont
 ms.date: 10/01/2020
 ms.author: jswymer
-ms.openlocfilehash: d02740b0f4c73b96be9268cfdf5e4c3de157d5d5
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 23a0c72775dbddc89a81105de3b2ed79d1f09432
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3924532"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4753774"
 ---
-# <a name="power-bi-integration-component-and-architecture-overview-for-prodshort"></a>Обзор компонентов и архитектуры интеграции Power BI для [!INCLUDE[prodshort](includes/prodshort.md)]
+# <a name="power-bi-integration-component-and-architecture-overview-for-prod_short"></a>Обзор компонентов и архитектуры интеграции Power BI для [!INCLUDE[prod_short](includes/prod_short.md)]
 
-В этой статье вы узнаете о различных аспектах интеграции Power BI с [!INCLUDE[prodshort](includes/prodshort.md)], чтобы помочь вам разобраться в его реализации и использовании.
+В этой статье вы узнаете о различных аспектах интеграции Power BI с [!INCLUDE[prod_short](includes/prod_short.md)], чтобы помочь вам разобраться в его реализации и использовании.
 
 ## <a name="components"></a>Компоненты
 
@@ -30,39 +30,39 @@ ms.locfileid: "3924532"
 |---------|-----------|
 |Power BI|Облачная служба размещения отчетов и управления ими.|
 |Power BI Desktop|Инструмент разработки для создания отчетов и панелей мониторинга, позволяющий запускать отчеты. Он доступен для бесплатной загрузки в Microsoft Store и устанавливается локально.|
-|[!INCLUDE[prodshort](includes/prodshort.md)]|Сетевое или локальное решение с соединителями, доступными для Power BI, и возможностью внедрить часть Power BI.|
+|[!INCLUDE[prod_short](includes/prod_short.md)]|Сетевое или локальное решение с соединителями, доступными для Power BI, и возможностью внедрить часть Power BI.|
 
 ## <a name="whats-available-from-the-start"></a>Что доступно с самого начала
 
 В следующей таблице описаны доступные функции.
 
-|Функция|Поддержка [!INCLUDE[prodshort](includes/prodshort.md)] Online или On-Premises|
+|Функция|Поддержка [!INCLUDE[prod_short](includes/prod_short.md)] Online или On-Premises|
 |-------|---------------------|
 |Соединители Power BI|Оба. Различные соединители для версий Online и On-Premises. Один и тот же разъем используется для Power BI Desktop и службы Power BI |
-|Встроенный интерфейс для просмотра заданного отчета внутри информационной панели в [!INCLUDE[prodshort](includes/prodshort.md)]|Оба. Требуется конфигурация для отображения отчетов в локальной среде.|
-|Управление отчетами Power BI из [!INCLUDE[prodshort](includes/prodshort.md)]|Online|
+|Встроенный интерфейс для просмотра заданного отчета внутри информационной панели в [!INCLUDE[prod_short](includes/prod_short.md)]|Оба. Требуется конфигурация для отображения отчетов в локальной среде.|
+|Управление отчетами Power BI из [!INCLUDE[prod_short](includes/prod_short.md)]|Online|
 |Отчеты Power BI по умолчанию в ролевых центрах, развернутых в Power BI|Online|
 |Приложения Power BI в Microsoft AppSource|Online.|
 
 ## <a name="architecture"></a>Архитектура
 
-[!INCLUDE[prodshort](includes/prodshort.md)] интегрируется с Power BI через соединитель с использованием OData. Источник данных для отчетов Power BI представляется как веб-служба OData.
+[!INCLUDE[prod_short](includes/prod_short.md)] интегрируется с Power BI через соединитель с использованием OData. Источник данных для отчетов Power BI представляется как веб-служба OData.
 
 ![Архитектура Power BI для интеграции с Business Central](./media/power-bi-architecture.png)
 
 ## <a name="general-flow"></a>Общий поток
 
-На следующей диаграмме показан основной рабочий процесс для пользователей при подключении [!INCLUDE[prodshort](includes/prodshort.md)] к Power BI.
+На следующей диаграмме показан основной рабочий процесс для пользователей при подключении [!INCLUDE[prod_short](includes/prod_short.md)] к Power BI.
 
 ![Рабочий поток Power BI для интеграции с Business Central](./media/power-bi-flow.png)
 
 1. Пользователь регистрируется на учетную запись Power BI.
-2. Пользователь подключается к Power BI из [!INCLUDE[prodshort](includes/prodshort.md)].
-3. [!INCLUDE[prodshort](includes/prodshort.md)] проверяет лицензию.
-4. [!INCLUDE[prodshort](includes/prodshort.md)] развертывает отчеты по умолчанию в службе Power BI. Этот шаг выполняется только для [!INCLUDE[prodshort](includes/prodshort.md)] Online.
-5. [!INCLUDE[prodshort](includes/prodshort.md)] делает отчеты в Power BI доступными для выбора в [!INCLUDE[prodshort](includes/prodshort.md)]. Отчеты по умолчанию автоматически отображаются в частях Power BI.
+2. Пользователь подключается к Power BI из [!INCLUDE[prod_short](includes/prod_short.md)].
+3. [!INCLUDE[prod_short](includes/prod_short.md)] проверяет лицензию.
+4. [!INCLUDE[prod_short](includes/prod_short.md)] развертывает отчеты по умолчанию в службе Power BI. Этот шаг выполняется только для [!INCLUDE[prod_short](includes/prod_short.md)] Online.
+5. [!INCLUDE[prod_short](includes/prod_short.md)] делает отчеты в Power BI доступными для выбора в [!INCLUDE[prod_short](includes/prod_short.md)]. Отчеты по умолчанию автоматически отображаются в частях Power BI.
 6. Пользователь создает отчет в Power BI Desktop.
-7. Пользователь публикует отчет в службе Power BI. Отчеты затем становятся доступными для выбора в [!INCLUDE[prodshort](includes/prodshort.md)].
+7. Пользователь публикует отчет в службе Power BI. Отчеты затем становятся доступными для выбора в [!INCLUDE[prod_short](includes/prod_short.md)].
 
 ## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/configure-powerbi-excel-dynamics-365-business-central/index)
 
@@ -76,9 +76,9 @@ ms.locfileid: "3924532"
 [Бизнес-аналитика](bi.md)  
 [Приступая к работе](product-get-started.md)  
 [Импорт бизнес-данных из других финансовых систем](across-import-data-configuration-packages.md)  
-[Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md)  
-[Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] как источника данных Power BI](across-how-use-financials-data-source-powerbi.md)  
-[Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] как источника данных Power Apps](across-how-use-financials-data-source-powerapps.md)  
-[Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] в Power Automate](across-how-use-financials-data-source-flow.md)  
+[Настройка [!INCLUDE[prod_short](includes/prod_short.md)]](setup.md)  
+[Использование [!INCLUDE[prod_short](includes/prod_short.md)] как источника данных Power BI](across-how-use-financials-data-source-powerbi.md)  
+[Использование [!INCLUDE[prod_short](includes/prod_short.md)] как источника данных Power Apps](across-how-use-financials-data-source-powerapps.md)  
+[Использование [!INCLUDE[prod_short](includes/prod_short.md)] в Power Automate](across-how-use-financials-data-source-flow.md)  
 
-## [!INCLUDE[d365fin](includes/free_trial_md.md)]  
+## [!INCLUDE[prod_short](includes/free_trial_md.md)]  

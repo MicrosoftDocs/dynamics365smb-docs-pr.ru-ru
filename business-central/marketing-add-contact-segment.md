@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: marketing, campaign, promo, prospect, contact, client, customer
 ms.date: 10/01/2020
 ms.author: jswymer
-ms.openlocfilehash: 68a62afd8ca154f8a5270899fe458a6841407000
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 14fcd5059bf270a3845cf9f96762c424c372323c
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3922848"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4749884"
 ---
 # <a name="add-contacts-to-segments"></a>Добавление контактов к сегментам
 После создания сегмента и ввода базовой информации о нем можно добавить к сегменту контакты. Это можно сделать, заполнив вручную строки на странице **Сегмент**, но проще и быстрее использовать действие **Добавить контакты**.
@@ -57,4 +57,4 @@ ms.locfileid: "3922848"
 [Создание сегмента](marketing-how-create-segment.md)   
 [Управление сегментами](marketing-segments.md)  
 [Управление возможностями продаж](marketing-manage-sales-opportunities.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  

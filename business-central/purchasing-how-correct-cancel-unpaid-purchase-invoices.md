@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: undo, credit memo, return
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: d6644b7df13c70143d239de68ec419bdd196bfe3
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 6568828a50e274de0ac6364a1df72cc48abd4956
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3926926"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4748722"
 ---
 # <a name="correct-or-cancel-unpaid-purchase-invoices"></a>Исправление или отмена неоплаченных счетов покупки
 
@@ -57,4 +57,4 @@ ms.locfileid: "3926926"
 ## <a name="see-also"></a>См. также
 [Покупки](purchasing-manage-purchasing.md)  
 [Регистрация покупок](purchasing-how-record-purchases.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

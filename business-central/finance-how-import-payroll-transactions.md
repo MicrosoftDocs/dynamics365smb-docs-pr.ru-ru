@@ -10,18 +10,18 @@ ms.workload: na
 ms.search.keywords: Ceridian, Quickbooks, salary
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 2fde597db9f5889678c5501bfdcc5f2412ec47cc
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: ca36be547224e0d401a05b63452420b88b0b7d1f
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3917005"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4746970"
 ---
 # <a name="import-payroll-transactions"></a>Импорт транзакций зарплаты
 Для учета выплаты зарплаты и связанных транзакций необходимо импортировать и учесть финансовые транзакции, сделанные поставщиком системы зарплаты, в главную книгу. Чтобы это сделать, следует сначала импортировать файл, полученный от поставщика системы зарплаты, на страницу **Финансовый журнал**. Затем следует сопоставить внешние счета в файле зарплаты с соответствующими счетами ГК. Наконец требуется учесть транзакции зарплаты в соответствии с сопоставлением счетов.
 
 > [!NOTE]  
->   Чтобы воспользоваться этой функцией, расширение для импорта зарплаты необходимо установить и включить. Расширения "Зарплата Ceridian" и "Импорт файла зарплаты Quickbooks" предварительно установлены в [!INCLUDE[d365fin](includes/d365fin_md.md)]. Дополнительные сведения см. в разделе [Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью расширений](ui-extensions.md).
+>   Чтобы воспользоваться этой функцией, расширение для импорта зарплаты необходимо установить и включить. Расширения "Зарплата Ceridian" и "Импорт файла зарплаты Quickbooks" предварительно установлены в [!INCLUDE[prod_short](includes/prod_short.md)]. Дополнительные сведения см. в разделе [Настройка [!INCLUDE[prod_short](includes/prod_short.md)] с помощью расширений](ui-extensions.md).
 
 ## <a name="to-import-a-payroll-file"></a>Импорт файла зарплаты
 1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Финансовые журналы**, затем выберите соответствующую ссылку.
@@ -36,5 +36,5 @@ ms.locfileid: "3917005"
 
 ## <a name="see-also"></a>См. также
 [Финансы](finance.md)  
-[Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью расширений](ui-extensions.md)  
+[Настройка [!INCLUDE[prod_short](includes/prod_short.md)] с помощью расширений](ui-extensions.md)  
 [Работа с финансовыми журналами](ui-work-general-journals.md)  

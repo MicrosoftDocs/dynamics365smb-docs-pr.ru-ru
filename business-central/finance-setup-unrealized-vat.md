@@ -10,15 +10,15 @@ ms.workload: na
 ms.search.keywords: cash, VAT, unrealized, cash-based
 ms.date: 10/01/2020
 ms.author: bholtorf
-ms.openlocfilehash: 57bc67ca6cc218754bbdd970a013588ed205db7f
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 36404306909fb7c2e9d2de97e43fa181dc65a069
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3914193"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4746527"
 ---
 # <a name="set-up-unrealized-vat-for-cash-based-accounting"></a>Настройка нереализованного НДС для учета на основании кассы
-При использовании методов учета на основании кассы можно настроить [!INCLUDE[d365fin](includes/d365fin_md.md)] для обработки нереализованного НДС.
+При использовании методов учета на основании кассы можно настроить [!INCLUDE[prod_short](includes/prod_short.md)] для обработки нереализованного НДС.
 
 ## <a name="to-use-general-ledger-accounts-for-unrealized-vat"></a>Использование счетов главной книги для нереализованного НДС
 Суммы НДС могут вычисляться и учитываться на временном счете главной книги при учете счета, а затем учитываться на правильном счете главной книги и включаться в отчеты по НДС при учете фактической оплаты счета. Перед тем, как это сделать, следует произвести настройку учета НДС.

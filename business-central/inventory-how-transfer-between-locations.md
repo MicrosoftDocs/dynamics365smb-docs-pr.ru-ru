@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: move, warehouse
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 79dfe973780269480285bac6aca380461b1ab403
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: f406a44a3d786c06ea1ac1e61d5b51bb97b67f12
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3913300"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4746145"
 ---
 # <a name="transfer-inventory-between-locations"></a>Перемещение запасов между складами
 Вы можете перемещать складские товары между складами, создав заказы на перемещение. В качестве альтернативы можно использовать журнал реклассификации товаров.
@@ -63,6 +63,6 @@ ms.locfileid: "3913300"
 ## <a name="see-also"></a>См. также
 [Управление запасами](inventory-manage-inventory.md)  
 [Настройка складов](inventory-how-setup-locations.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 [Изменение набора отображаемых функций](ui-experiences.md)  
 [Общие бизнес-функции](ui-across-business-areas.md)

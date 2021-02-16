@@ -1,6 +1,6 @@
 ---
-title: Сведения о проектировании — изменения модуля codeunit 12 в процедурах учета финансовых журналов | Документация Майкрософт
-description: В этом выпуске Business Central реализованы следующие изменения.
+title: Изменения процедур учета финансовых журналов в модуле codeunit 12
+description: В более ранних версиях модуль codeunit 12 был изменен, чтобы помочь повысить производительность учета из финансового журнала. Узнайте об изменениях в процедурах учета в этой статье.
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -8,17 +8,18 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2020
+ms.date: 10/28/2020
 ms.author: edupont
-ms.openlocfilehash: 99df25e15422755b66ec5b8be7388c9677f7b374
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: c1ec373b6c7226d6b2548f2b29f326dcd9c6a459
+ms.sourcegitcommit: a95681db16e81af109b34f8e5d88028c1552c6a2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3917480"
+ms.lasthandoff: 11/03/2020
+ms.locfileid: "4367913"
 ---
-# <a name="codeunit-12-changes-changes-in-general-journal-post-procedures"></a>Изменения модуля codeunit 12: изменения процедур учета финансовых журналов
-В этом выпуске [!INCLUDE[d365fin](includes/d365fin_md.md)] реализованы следующие изменения.  
+# <a name="historical-changes-to-codeunit-12-changes-in-general-journal-post-procedures"></a>Исторические изменения модуля codeunit 12: изменения в процедурах учета финансовых журналов
+
+В версиях [!INCLUDE [navnow_md](includes/navnow_md.md)] были реализованы следующие изменения.  
 
 |**Microsoft Dynamics NAV 2009 R2**|**Microsoft Dynamics NAV 2013 R2**|**Комментарий**|  
 |----------------------------------------|----------------------------------------|-----------------|  

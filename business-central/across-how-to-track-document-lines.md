@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 056cb7d0aec55ae939c09adb47477343908c2e6c
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 169e1947cb3e2ca962dc0937c5901c8c92ca936a
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3924982"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4754646"
 ---
 # <a name="track-document-lines"></a>Отслеживание строк документа
 Можно просматривать документы, которые связаны со строками заказа на продажу и строками заказа на покупку, включая из строк архивированных заказов. Связанные документы, которые вы можете отслеживать, включая предложения, отгрузки, приемки и общие заказы. Это помогает идентифицировать документы, используемые для обработки заказов.  
@@ -34,4 +34,4 @@ ms.locfileid: "3924982"
 ## <a name="see-also"></a>См. также
 [Продажи](sales-manage-sales.md)  
 [Общие бизнес-функции](ui-across-business-areas.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

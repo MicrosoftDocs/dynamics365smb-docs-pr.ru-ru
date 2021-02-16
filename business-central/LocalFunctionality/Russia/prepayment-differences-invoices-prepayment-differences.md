@@ -8,16 +8,16 @@ ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: ac2dc99cd29189bf2064d3b30ba78c41f8188c1f
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: c9ceeff981b337e09d4e0ea694030764240f3e61
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3923994"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4753223"
 ---
 # <a name="prepayment-differences"></a>Авансовые разницы
 
-Когда вы применяете предоплату к счету в иностранной валюте, [!INCLUDE[prodshort](../../includes/prodshort.md)] рассчитывает разницу в суммах на основе курсов обмена валют между счетом и предоплатой и создает запись авансовой разницы для счета.  
+Когда вы применяете предоплату к счету в иностранной валюте, [!INCLUDE[prod_short](../../includes/prod_short.md)] рассчитывает разницу в суммах на основе курсов обмена валют между счетом и предоплатой и создает запись авансовой разницы для счета.  
 
 ### <a name="setup-for-purchases"></a>Настройка для покупок
 

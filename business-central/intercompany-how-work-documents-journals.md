@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: IC, group, consolidation, affiliate, subsidiary
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 30c8eac184987e82b9bfb158a61efdbbc559207a
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 338c5dce8ae2011bb36ad126d4926635a86d3e95
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3924057"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4746395"
 ---
 # <a name="work-with-intercompany-documents-and-journals"></a>Работа с межфирменными документами и журналами
 Межфирменные документы или журналы можно использовать для учета транзакций, выполненных с партнерами по межфирменным операциям. При учете межфирменного документа или строки журнала в вашей организации в вашем межфирменном выходном ящике создается соответствующий документ или строка журнала, которые можно передать партнеру. Затем партнер может учесть соответствующую транзакцию в своей организации без повторного ввода данных.
@@ -57,4 +57,4 @@ ms.locfileid: "3924057"
 [Финансы](finance.md)  
 [Настройка финансов](finance-setup-finance.md)  
 [Работа с финансовыми журналами](ui-work-general-journals.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

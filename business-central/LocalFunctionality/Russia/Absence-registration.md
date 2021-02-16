@@ -8,18 +8,18 @@ ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 130b8ef97bf9284e896a9d26c2f12f0a2c53f6cd
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 42e10fddc24c8a363d1064b07d434cd1e0d674a4
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3921320"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4747457"
 ---
 # <a name="absence-registration"></a>Регистрация отсутствия
 
 Все виды отсутствия, которые оплачиваются в соответствии с законодательством о среднем заработке, должны регистрироваться в соответствующих типах приказов. 
 
-Есть четыре типа приказов в [!INCLUDE[prodshort](../../includes/prodshort.md)]:
+Есть четыре типа приказов в [!INCLUDE[prod_short](../../includes/prod_short.md)]:
 
 - Отпуск; 
 - Командировка; 

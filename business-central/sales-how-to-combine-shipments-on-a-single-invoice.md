@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 19b6cb69d33d76d4263ad75a666eba14deaeeae8
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 757f7cd38a6325df0e8dc0d283d58c42a8ab823e
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3925951"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4748272"
 ---
 # <a name="combine-shipments-on-a-single-invoice"></a>Объединение поставок в один счет
 Если требуется выставить счет сразу по нескольким отгрузкам, можно использовать функцию объединения поставок.  
@@ -36,7 +36,7 @@ ms.locfileid: "3925951"
 7. Чтобы учесть счет, выберите действие **Учет**.  
 
 ## <a name="to-automatically-combine-shipments-on-a-single-invoice"></a>Автоматическое объединение поставок в один счет  
-[!INCLUDE[d365fin](includes/d365fin_md.md)] выберет только заказы на продажу, в которых выбран вариант **Объединение поставок**. 
+[!INCLUDE[prod_short](includes/prod_short.md)] выберет только заказы на продажу, в которых выбран вариант **Объединение поставок**. 
 
 1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Объединение поставок**, затем выберите соответствующую ссылку. Откроется страница запроса пакетного задания.  
 2. Заполните соответствующим образом поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
@@ -61,4 +61,4 @@ ms.locfileid: "3925951"
 
 ## <a name="see-also"></a>См. также  
 [Продажи](sales-manage-sales.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

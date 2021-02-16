@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 1078b9839920684c4be54e1753db5c87e1694912
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 1bcbd23658ff2a74ae0ab88b6020e1d859f37355
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3912700"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4747722"
 ---
 # <a name="bookmark-a-page-or-report-on-your-role-center"></a>Добавление закладки на страницу или отчет в ролевом центре
 С помощью нового значка закладки вы можете добавить действие, которое открывает страницу или отчет из меню навигации ролевого центра. Это позволяет быстро открывать нужный контент или бизнес-задачи. Закладка добавляется с целевой страницы или отчета, т. е. с экрана, который должна открывать ссылка в ролевом центре.
@@ -81,6 +81,6 @@ ms.locfileid: "3912700"
 
 ## <a name="see-also"></a>См. также
 [Персонализация рабочей области](ui-personalization-user.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 [Изменение базовых настроек](ui-change-basic-settings.md)  
 [Изменение набора отображаемых функций](ui-experiences.md)  

@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: ac927f9ef676cbfa433265346f69c92552802fce
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: aafd30be751440c9afd124f07ada43d57b799555
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3919242"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4748972"
 ---
 # <a name="create-production-orders-from-sales-orders"></a>Создание производственных заказов из заказов на продажу
 Можно создавать производственные заказы для произведенных товаров непосредственно из заказов на продажу.  
@@ -38,4 +38,4 @@ ms.locfileid: "3919242"
 [Покупки](purchasing-manage-purchasing.md)  
 [Сведения о проектировании: планирование поставок](design-details-supply-planning.md)   
 [Рекомендации по настройке. Планирование поставок](setup-best-practices-supply-planning.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

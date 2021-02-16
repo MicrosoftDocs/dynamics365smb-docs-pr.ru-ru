@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 9b9e77925a46f57b3c45a21f86ae583024146ff4
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 21eff2a2c52dfabb3788bb06d1d2f684c34441ce
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3916097"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4750009"
 ---
 # <a name="trace-item-tracked-items"></a>Трассировка товаров, трассируемых по товарам
 Можно просмотреть, где использовался товар, для которого требуется трассировка, включая то, как и где он был получен или произведен, перемещен, продан, потреблен или возвращен. Также можно найти все текущие экземпляры определенного серийного номера или номера партии в базе данных. Функции, которые позволяют это сделать "Трассировка товаров" и [Найти записи](ui-find-entries.md).  
@@ -69,6 +69,6 @@ ms.locfileid: "3916097"
 [Сведения о проектировании. Трассировка товаров](design-details-item-tracking.md)
 [Сведения о проектировании. Отслеживание и резервирование товара](design-details-item-tracking-and-reservations.md)  
 [Резервирование товаров](inventory-how-to-reserve-items.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
 [Пошаговое руководство. Трассировка серийных номеров и номеров партии](walkthrough-tracing-serial-lot-numbers.md)  
 [Найти записи](ui-find-entries.md)  

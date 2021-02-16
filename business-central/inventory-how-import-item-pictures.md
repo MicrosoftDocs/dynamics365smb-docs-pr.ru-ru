@@ -11,12 +11,12 @@ ms.workload: na
 ms.search.keywords: product, image
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 4da0f30f47827515f8591802ce2ca49c245009ab
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: e4391293396ff380bc3f96cd799f0932856ba11f
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3922898"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4746195"
 ---
 # <a name="import-multiple-item-pictures"></a>Импорт нескольких изображений товаров
 Можно импортировать несколько изображений товаров за один раз. Просто присвойте файлам изображений имена, соответствующие номера ваших товаров, упакуйте из в ZIP-файл, затем с помощью страницы **Импорт изображений товаров** управляйте тем, какие изображения товаров следует импортировать.
@@ -54,4 +54,4 @@ ms.locfileid: "3922898"
 [Запасы](inventory-manage-inventory.md)  
 [Покупки](purchasing-manage-purchasing.md)  
 [Продажи](sales-manage-sales.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

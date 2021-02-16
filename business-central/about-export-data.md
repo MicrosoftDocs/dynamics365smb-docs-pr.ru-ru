@@ -10,29 +10,29 @@ ms.workload: na
 ms.search.keywords: analysis, reporting, financial report, business intelligence, BI, Excel
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: e8b62e04b3b1d44ba53572559c66acc1c05da8c0
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 0058fd8aa684fd12392e641dda3bbb0ee6862134
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3914618"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4753696"
 ---
 # <a name="exporting-your-business-data-to-excel"></a>Экспорт бизнес-данных в Excel
-Если вы хотите работать с данными из [!INCLUDE[d365fin](includes/d365fin_md.md)] в Excel, вы можете открыть все списки в Excel и работать с ними там. Аналогично, если требуется отменить подписку на [!INCLUDE[d365fin](includes/d365fin_md.md)], вы можете экспортировать данные в Excel, чтобы забрать их с собой.
+Если вы хотите работать с данными из [!INCLUDE[prod_short](includes/prod_short.md)] в Excel, вы можете открыть все списки в Excel и работать с ними там. Аналогично, если требуется отменить подписку на [!INCLUDE[prod_short](includes/prod_short.md)], вы можете экспортировать данные в Excel, чтобы забрать их с собой.
 
 ## <a name="opening-lists-in-excel"></a>Открытие списков в Excel
 Можно открыть данные в Excel из любого журнала, списка или листа. Для откройте требуемую станицу и выберите **Открыть в Excel**. Например, откройте список клиентов (поиск по слову **Клиенты**) и выберите **Открыть в Excel**. Ваш браузер выдаст запрос на открытие или сохранение созданной книги Excel.  
 
 > [!NOTE]
-> Этот вариант используется, когда не требуется вносить изменения и опубликовывать эти изменения обратно в [!INCLUDE[d365fin](includes/d365fin_md.md)].  
+> Этот вариант используется, когда не требуется вносить изменения и опубликовывать эти изменения обратно в [!INCLUDE[prod_short](includes/prod_short.md)].  
 
 Каждый список включает число столбцов, а экспорт в Excel будет включать все столбцы, имеющиеся в текущем представлении. Если вы хотите добавить или удалить столбцы перед открытием списка в Excel, достаточно открыть контекстное меню для любого столбца, а затем указать, какие столбцы требуется отображать. Этот список столбцов отличается для большинства списков и отражает структуру в базе данных, в которой хранятся данные. Если вы не уверены, какой тип данных содержится в определенном столбце, вы можете добавить его в представление, а затем решить, требуется ли его снова удалить.  
 
 ### <a name="edit-data-in-excel"></a>Изменить данные в Excel
-Если [!INCLUDE[d365fin](includes/d365fin_md.md)] включает надстройку для Excel, можно изменять данные в Excel. Дополнительные сведения см. в разделе [Анализ финансовых выписок в Microsoft Excel](finance-analyze-excel.md).  
+Если [!INCLUDE[prod_short](includes/prod_short.md)] включает надстройку для Excel, можно изменять данные в Excel. Дополнительные сведения см. в разделе [Анализ финансовых выписок в Microsoft Excel](finance-analyze-excel.md).  
 
 ## <a name="exporting-data-to-other-finance-systems"></a>Экспорт данных в другие финансовые системы
-Если требуется отменить подписку на [!INCLUDE[d365fin](includes/d365fin_md.md)], вы можете экспортировать данные в Excel и перенести их в следующую финансовую систему.  
+Если требуется отменить подписку на [!INCLUDE[prod_short](includes/prod_short.md)], вы можете экспортировать данные в Excel и перенести их в следующую финансовую систему.  
 
 Конечно же, можно экспортировать все страницы, но, возможно, вам не потребуются все они. Таким образом, рассмотрите возможность экспортировать следующие важные страницы и не забудьте добавить столбцы, как описано ранее:  
 
@@ -64,7 +64,7 @@ ms.locfileid: "3914618"
 * Менеджеры  
 
 > [!NOTE]  
-> Если настроено несколько организаций в [!INCLUDE[prodshort](includes/prodshort.md)], необходимо экспортировать соответствующие данные из каждой организации.
+> Если настроено несколько организаций в [!INCLUDE[prod_short](includes/prod_short.md)], необходимо экспортировать соответствующие данные из каждой организации.
 
 > [!NOTE]
 > Для открытия или редактирования данных в Excel у вас должно быть хотя бы одно из следующих разрешений:
@@ -76,9 +76,9 @@ ms.locfileid: "3914618"
 ## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/configure-powerbi-excel-dynamics-365-business-central/index)
 
 ## <a name="see-also"></a>См. также
-[Отмена подписки [!INCLUDE[d365fin](includes/d365fin_md.md)]](admin-cancel.md)  
+[Отмена подписки [!INCLUDE[prod_short](includes/prod_short.md)]](admin-cancel.md)  
 [Импорт бизнес-данных из других финансовых систем](across-import-data-configuration-packages.md)  
 [Анализ финансовых отчетов в Microsoft Excel](finance-analyze-excel.md)  
 [Финансы](finance.md)  
 [Общие бизнес-функции](ui-across-business-areas.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  

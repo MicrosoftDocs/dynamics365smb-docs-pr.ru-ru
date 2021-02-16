@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: print check, customize
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 31a3df66b3b82e7901a494c7ef552c27b317ba99
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 4a402e9cdcaa7eea55b693f697db3b47138cdd02
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3917080"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4746995"
 ---
 # <a name="select-a-check-layout"></a>Выбор макета платежного документа
 Вы можете разработать платежные документы в соответствии со стандартами, установленными местными органами власти. Изображения платежных документов можно печатать на английском, французском или испанском языке.
@@ -39,15 +39,15 @@ ms.locfileid: "3917080"
 Чтобы изменить один из этих макетов платежного документа по умолчанию, выберите Word, либо интеграцию RDLC. Дополнительные сведения см. в разделе [Создание и изменение пользовательских макетов отчетов](ui-how-create-custom-report-layout.md).
 
 ## <a name="using-micr-and-security-fonts"></a>Использование шрифтов безопасности и MICR
-Онлайн-версия [!INCLUDE[d365fin](includes/d365fin_md.md)] содержит предварительно установленные шрифты на серверах, которые можно использовать при определении макетов чеков. Ниже описывается, какие шрифты доступны, и приведены ссылки на подробную информацию сторонних поставщиков шрифтов.
+Онлайн-версия [!INCLUDE[prod_short](includes/prod_short.md)] содержит предварительно установленные шрифты на серверах, которые можно использовать при определении макетов чеков. Ниже описывается, какие шрифты доступны, и приведены ссылки на подробную информацию сторонних поставщиков шрифтов.
 
 > [!Important]
-> Шрифты безопасности чеков и MICR в Microsoft Dynamics [!INCLUDE[d365fin](includes/d365fin_md.md)] лицензированы в пакете шрифтов IDAutomation.com, Inc. Эти продукты могут использоваться только как часть или в связи с Microsoft Dynamics [!INCLUDE[d365fin](includes/d365fin_md.md)].
+> Шрифты безопасности чеков и MICR в Microsoft Dynamics [!INCLUDE[prod_short](includes/prod_short.md)] лицензированы в пакете шрифтов IDAutomation.com, Inc. Эти продукты могут использоваться только как часть или в связи с Microsoft Dynamics [!INCLUDE[prod_short](includes/prod_short.md)].
 
 В обновлении 15.3 и новее шрифты установлены и доступны для использования шрифты Magnetic Ink Character Recognition (MICR). Поддерживаются стандарты E-13B и CMC-7. Помимо шрифтов MICR доступны специальные шрифты безопасности для генерации текста, имен, сумм и символов валюты доллара, евро, фунта и йены, которые трудно подделать после печати чека.
 
 > [!NOTE]
-> В целях безопасности и по юридическим причинам вы не можете загружать пользовательские шрифты в среду [!INCLUDE[d365fin](includes/d365fin_md.md)].
+> В целях безопасности и по юридическим причинам вы не можете загружать пользовательские шрифты в среду [!INCLUDE[prod_short](includes/prod_short.md)].
 
 ### <a name="micr-e-13b-specifications"></a>Спецификации MICR E-13B
 Ниже приведено краткое описание спецификаций для шрифтов MICR E-13B, которые могут быть полезны при калибровке шрифтов в макетах чеков с определенными принтерами MICR.
@@ -60,7 +60,7 @@ ms.locfileid: "3917080"
 Полную спецификацию шрифтов MICR E-13B можно найти в документации поставщика здесь: ( https://www.idautomation.com/micr-fonts/e13b/).
 
 ### <a name="micr-cmc-7-specifications"></a>Спецификации MICR CMC-7
-Следующие шрифты CMC-7 доступны в [!INCLUDE[d365fin](includes/d365fin_md.md)] online:
+Следующие шрифты CMC-7 доступны в [!INCLUDE[prod_short](includes/prod_short.md)] online:
 
 - IDAutomationCMC7
 - IDAutomationCMC7n10
@@ -83,7 +83,7 @@ ms.locfileid: "3917080"
 
 Полную спецификацию шрифтов безопасности чеков можно найти в документации поставщика здесь: ( https://www.idautomation.com/security-fonts/).
 
-Шрифты для других целей также доступны в [!INCLUDE[prodshort](includes/prodshort.md)]. Для получения дополнительной информации см. [Доступные шрифты](ui-fonts.md)
+Шрифты для других целей также доступны в [!INCLUDE[prod_short](includes/prod_short.md)]. Для получения дополнительной информации см. [Доступные шрифты](ui-fonts.md)
 
 ## <a name="see-also"></a>См. также
 [Создание и изменение пользовательских макетов отчетов](ui-how-create-custom-report-layout.md)  
@@ -91,5 +91,5 @@ ms.locfileid: "3917080"
 [Управление кредиторской задолженностью](payables-manage-payables.md)  
 [Выверка банковских счетов](bank-manage-bank-accounts.md)   
 [Выполнение процессов завершения периода](year-how-complete-period-end-processes.md)  
-[Работа с [!INCLUDE[prodshort](includes/prodshort.md)]](ui-work-product.md)  
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 [Общие бизнес-функции](ui-across-business-areas.md)

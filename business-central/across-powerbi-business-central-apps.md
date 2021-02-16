@@ -10,22 +10,22 @@ ms.workload: na
 ms.search.keywords: account schedule, analysis, reporting, financial report, business intelligence, KPI
 ms.date: 10/01/2020
 ms.author: jswymer
-ms.openlocfilehash: 292f78f16b77940fa16a6ffc25bd79dbca0684e3
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 479fa9897d817075aec8d2d6fd9431dbe49ab162
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3915864"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4754321"
 ---
-# <a name="using-the-prodshort-apps-in-power-bi"></a>Использование приложений [!INCLUDE [prodshort](includes/prodshort.md)] в Power BI
+# <a name="using-the-prod_short-apps-in-power-bi"></a>Использование приложений [!INCLUDE [prod_short](includes/prod_short.md)] в Power BI
 
-> **ОТНОСИТСЯ К:** [!INCLUDE [prodlong](includes/prodlong.md)] Online 
+> **ОТНОСИТСЯ К:** [!INCLUDE [prod_long](includes/prod_long.md)] Online 
 
-[!INCLUDE [prodlong](includes/prodlong.md)] публикует следующие приложения Power BI, которые предоставляют подробные панели мониторинга для просмотра данных:
+[!INCLUDE [prod_long](includes/prod_long.md)] публикует следующие приложения Power BI, которые предоставляют подробные панели мониторинга для просмотра данных:
 
-- [!INCLUDE [prodlong](includes/prodlong.md)] — CRM  
-- [!INCLUDE [prodlong](includes/prodlong.md)] — Finance  
-- [!INCLUDE [prodlong](includes/prodlong.md)] — Sales
+- [!INCLUDE [prod_long](includes/prod_long.md)] — CRM  
+- [!INCLUDE [prod_long](includes/prod_long.md)] — Finance  
+- [!INCLUDE [prod_long](includes/prod_long.md)] — Sales
 
 ## <a name="overview"></a>Обзор
 
@@ -36,10 +36,10 @@ ms.locfileid: "3915864"
 - Закрепите настроенное представление к панели мониторинга для дальнейшего отслеживания.  
   Можно обновить данные вручную, а также можно настроить график обновления. Дополнительные сведения см. в разделе [Настройка графика обновления](/power-bi/refresh-scheduled-refresh).  
 
-Приложения предназначены для работы с данными из любой компании в [!INCLUDE[prodshort](includes/prodshort.md)]. Когда вы устанавливаете приложение Power BI, вы указываете один или несколько параметров для подключения к вашему [!INCLUDE [prodshort](includes/prodshort.md)].  
+Приложения предназначены для работы с данными из любой компании в [!INCLUDE[prod_short](includes/prod_short.md)]. Когда вы устанавливаете приложение Power BI, вы указываете один или несколько параметров для подключения к вашему [!INCLUDE [prod_short](includes/prod_short.md)].  
 
 > [!NOTE]
-> Также можно создать собственные отчеты и панели мониторинга в Power BI на основании данных [!INCLUDE[prodshort](includes/prodshort.md)]. Дополнительные сведения см. в разделе [Подключение ваших бизнес-данных к Power BI](across-how-use-financials-data-source-powerbi.md). 
+> Также можно создать собственные отчеты и панели мониторинга в Power BI на основании данных [!INCLUDE[prod_short](includes/prod_short.md)]. Дополнительные сведения см. в разделе [Подключение ваших бизнес-данных к Power BI](across-how-use-financials-data-source-powerbi.md). 
 
 ## <a name="prerequisites"></a>Предварительные требования
 
@@ -47,25 +47,25 @@ ms.locfileid: "3915864"
     
 |Приложение | Веб-службы|
 |----|-------------|
-|[!INCLUDE[prodshort](includes/prodshort.md)] — CRM| <ul><li>Возможности продаж</li><li>Шаблон Excel для просмотра сведений об организации</li><li>Метки отчета Power BI</li></ul>|
-|[!INCLUDE[prodshort](includes/prodshort.md)] — Finance| <ul><li>PowerBIFinance</li><li>Шаблон Excel для просмотра сведений об организации</li><li>Метки отчета Power BI</li></ul>|
-|[!INCLUDE[prodshort](includes/prodshort.md)] — Sales| <ul><li>Продажа товаров по клиенту</li><li>Панель мониторинга продажи</li><li>Шаблон Excel для просмотра сведений об организации</li><li>Метки отчета Power BI</li></ul>|
+|[!INCLUDE[prod_short](includes/prod_short.md)] — CRM| <ul><li>Возможности продаж</li><li>Шаблон Excel для просмотра сведений об организации</li><li>Метки отчета Power BI</li></ul>|
+|[!INCLUDE[prod_short](includes/prod_short.md)] — Finance| <ul><li>PowerBIFinance</li><li>Шаблон Excel для просмотра сведений об организации</li><li>Метки отчета Power BI</li></ul>|
+|[!INCLUDE[prod_short](includes/prod_short.md)] — Sales| <ul><li>Продажа товаров по клиенту</li><li>Панель мониторинга продажи</li><li>Шаблон Excel для просмотра сведений об организации</li><li>Метки отчета Power BI</li></ul>|
 
 > [!TIP]
-> Простой способ найти веб-службы — найти *веб-службы* в [!INCLUDE[prodshort](includes/prodshort.md)]. На странице **Веб-службы** убедитесь, что поле **Опубликовать** выбрано для веб-служб, перечисленных выше. Дополнительные сведения см. в разделе [Публикация веб-службы](across-how-publish-web-service.md).
+> Простой способ найти веб-службы — найти *веб-службы* в [!INCLUDE[prod_short](includes/prod_short.md)]. На странице **Веб-службы** убедитесь, что поле **Опубликовать** выбрано для веб-служб, перечисленных выше. Дополнительные сведения см. в разделе [Публикация веб-службы](across-how-publish-web-service.md).
 
 ## <a name="get-ready"></a>Подготовка
 
 Подпишитесь на службу Power BI. Если вы еще не зарегистрировались, перейдите на [https://powerbi.microsoft.com](https://powerbi.microsoft.com). При регистрации используйте рабочий адрес электронной почты и пароль.
 
-## <a name="install-a-prodshort-app-in-power-bi"></a>Установка приложения [!INCLUDE[prodshort](includes/prodshort.md)] в Power BI
+## <a name="install-a-prod_short-app-in-power-bi"></a>Установка приложения [!INCLUDE[prod_short](includes/prod_short.md)] в Power BI
 
 1. Откройте браузер, перейдите по адресу [https://powerbi.microsoft.com](https://powerbi.microsoft.com) и войдите в свою учетную запись.
 2. Выберите **Получить данные** в нижней части левой панели навигации.  
 
     ![Переход к разделу "Получить данные"](./media/across-how-to-connect-powerbi-d365-content-packs/powerbi-get-data.png)
 
-    Можно также начать из [!INCLUDE [prodshort](includes/prodshort.md)]. Находясь на домашней странице, перейдите к пункту **Выбор отчета** в разделе Power BI. Выберите на ленте **Сервис** или **Моя организация**. Галерея организации в Power BI или Microsoft AppSource открывается, отфильтрованная, чтобы отображать только приложения, связанные с [!INCLUDE[prodshort](includes/prodshort.md)].
+    Можно также начать из [!INCLUDE [prod_short](includes/prod_short.md)]. Находясь на домашней странице, перейдите к пункту **Выбор отчета** в разделе Power BI. Выберите на ленте **Сервис** или **Моя организация**. Галерея организации в Power BI или Microsoft AppSource открывается, отфильтрованная, чтобы отображать только приложения, связанные с [!INCLUDE[prod_short](includes/prod_short.md)].
 
 3. В поле **Службы** выберите **Получить**.
 
@@ -76,18 +76,18 @@ ms.locfileid: "3915864"
 
     По завершении приложение будет доступно в пункте **Приложения** в меню навигации в Power BI.
 
-## <a name="connect-the-prodshort-app-to-your-data"></a>Подключение приложения [!INCLUDE[prodshort](includes/prodshort.md)] к вашим данным
+## <a name="connect-the-prod_short-app-to-your-data"></a>Подключение приложения [!INCLUDE[prod_short](includes/prod_short.md)] к вашим данным
 
 1. В пункте **Приложения** выберите приложение Business Central, затем **Подключить**.
-2. При появлении запроса заполните поля **Название компании** и **Среда** сведениями об экземпляре [!INCLUDE[prodshort](includes/prodshort.md)], к которому хотите подключиться.
+2. При появлении запроса заполните поля **Название компании** и **Среда** сведениями об экземпляре [!INCLUDE[prod_short](includes/prod_short.md)], к которому хотите подключиться.
 
-    - В поле **Название компании** обязательно используйте полное имя, а не отображаемое имя. Название организации можно найти на странице **Организации** в [!INCLUDE[prodshort](includes/prodshort.md)]. 
+    - В поле **Название компании** обязательно используйте полное имя, а не отображаемое имя. Название организации можно найти на странице **Организации** в [!INCLUDE[prod_short](includes/prod_short.md)]. 
     - В поле **Среда**, если вы не создали несколько сред, введите **Производственная**.
 
 3. Выберите **Далее**.
 4. Выберите **Войти**.
-5. При появлении запроса введите имя пользователя и пароль для входа в [!INCLUDE[prodshort](includes/prodshort.md)].
-6. После подключения панель мониторинга и отчеты добавляются в вашу рабочую область Power BI. По завершении плитки отображают данные из вашей организации [!INCLUDE[prodshort](includes/prodshort.md)].
+5. При появлении запроса введите имя пользователя и пароль для входа в [!INCLUDE[prod_short](includes/prod_short.md)].
+6. После подключения панель мониторинга и отчеты добавляются в вашу рабочую область Power BI. По завершении плитки отображают данные из вашей организации [!INCLUDE[prod_short](includes/prod_short.md)].
 
     ![Выберите Dynamics 365 Business Central и выберите "Получить сейчас"](./media/across-how-to-connect-powerbi-d365-content-packs/powerbi-workspace-dashboard-report-dataset.png)
 
@@ -101,9 +101,9 @@ ms.locfileid: "3915864"
 
 ### <a name="message-there-are-no-enabled-reports-choose-select-report-to-see-a-list-of-reports-that-you-can-display"></a>Сообщение: "Включенные отчеты отсутствуют. Нажмите кнопку "Выбрать отчет", чтобы увидеть список отчетов, которые можно открыть."
 
-Это сообщение появляется, если отчет по умолчанию не удалось развернуть на вашей рабочей области Power BI. Или отчет развернут, но не был успешно обновлен. В случае этой проблемы перейдите к отчету в своей рабочей области Power BI, выберите **Набор данных**, **Настройки**, а затем вручную обновите учетные данные. После успешного обновления набора данных вернитесь в [!INCLUDE[prodshort](includes/prodshort.md)] и вручную выберите отчет на странице **Выбрать отчеты**.
+Это сообщение появляется, если отчет по умолчанию не удалось развернуть на вашей рабочей области Power BI. Или отчет развернут, но не был успешно обновлен. В случае этой проблемы перейдите к отчету в своей рабочей области Power BI, выберите **Набор данных**, **Настройки**, а затем вручную обновите учетные данные. После успешного обновления набора данных вернитесь в [!INCLUDE[prod_short](includes/prod_short.md)] и вручную выберите отчет на странице **Выбрать отчеты**.
 
-### <a name="you-need-a-power-bi-pro-license-to-install-the-prodshort-app-in-power-bi"></a>Вам необходима лицензия Power BI Pro для установки приложения [!INCLUDE[prodshort](includes/prodshort.md)] в Power BI
+### <a name="you-need-a-power-bi-pro-license-to-install-the-prod_short-app-in-power-bi"></a>Вам необходима лицензия Power BI Pro для установки приложения [!INCLUDE[prod_short](includes/prod_short.md)] в Power BI
 
 Вам требуется [лицензия Power BI Pro](/power-bi/service-features-license-type), чтобы делиться своим контентом, и людям, с которыми вы им делитесь, тоже. Контент должен находиться в рабочей области с [премиум-емкостью](/power-bi/service-premium-what-is). Дополнительные сведения см. в разделе [Способы поделиться своей работой в Power BI](/power-bi/service-how-to-collaborate-distribute-dashboards-reports).  
 
@@ -111,22 +111,22 @@ ms.locfileid: "3915864"
 
 Эта ошибка указывает на то, что еще один из параметров недействителен.
 
-- Указанный параметр среды не соответствует ни одной из существующих рабочих сред или песочниц [!INCLUDE[prodshort](includes/prodshort.md)].
-- Указанный параметр организации не соответствует ни одной из существующих организаций [!INCLUDE[prodshort](includes/prodshort.md)]. Проверьте название компании на странице **Организации** в [!INCLUDE[prodshort](includes/prodshort.md)].
-- При подключении к [!INCLUDE[prodshort](includes/prodshort.md)] On-Premises вы ввели недопустимый URL-адрес. Вы можете проверить URL-адрес на странице **Веб-службы** в [!INCLUDE[prodshort](includes/prodshort.md)]  
+- Указанный параметр среды не соответствует ни одной из существующих рабочих сред или песочниц [!INCLUDE[prod_short](includes/prod_short.md)].
+- Указанный параметр организации не соответствует ни одной из существующих организаций [!INCLUDE[prod_short](includes/prod_short.md)]. Проверьте название компании на странице **Организации** в [!INCLUDE[prod_short](includes/prod_short.md)].
+- При подключении к [!INCLUDE[prod_short](includes/prod_short.md)] On-Premises вы ввели недопустимый URL-адрес. Вы можете проверить URL-адрес на странице **Веб-службы** в [!INCLUDE[prod_short](includes/prod_short.md)]  
 - Порт не открыт, чтобы позволить запросу пройти через ваш брандмауэр.
 
 ### <a name="cant-sign-in"></a>Не удается войти
 
-Если при попытке войти с использованием учетных данных [!INCLUDE[prodshort](includes/prodshort.md)] появляется ошибка "Сбой при входе", это может быть вызвано одной из следующих причин:
+Если при попытке войти с использованием учетных данных [!INCLUDE[prod_short](includes/prod_short.md)] появляется ошибка "Сбой при входе", это может быть вызвано одной из следующих причин:
 
-- У используемой учетной записи нет разрешений на извлечение данных [!INCLUDE[prodshort](includes/prodshort.md)] для вашей учетной записи. Убедитесь, что у вас есть разрешения на необходимые данные в [!INCLUDE[prodshort](includes/prodshort.md)] и попробуй еще раз.
-- При подключении к [!INCLUDE[prodshort](includes/prodshort.md)] On-Premises был выбран тип проверки подлинности, отличный от базового.
+- У используемой учетной записи нет разрешений на извлечение данных [!INCLUDE[prod_short](includes/prod_short.md)] для вашей учетной записи. Убедитесь, что у вас есть разрешения на необходимые данные в [!INCLUDE[prod_short](includes/prod_short.md)] и попробуй еще раз.
+- При подключении к [!INCLUDE[prod_short](includes/prod_short.md)] On-Premises был выбран тип проверки подлинности, отличный от базового.
 - Вы не ввели действительное имя пользователя или пароль.
 
 ### <a name="message-your-data-source-cant-be-refreshed-because-the-credentials-are-invalid-please-update-your-credentials-and-try-again"></a>Сообщение: ваш источник данных не может быть обновлен, потому что учетные данные недействительны. Обновите свои учетные данные и попробуйте еще раз
 
-Для [!INCLUDE[prodshort](includes/prodshort.md)] On-Premises проблема может заключаться в том, что URL-адрес OData доступен только в локальной сети.
+Для [!INCLUDE[prod_short](includes/prod_short.md)] On-Premises проблема может заключаться в том, что URL-адрес OData доступен только в локальной сети.
 
 ### <a name="incorrect-company-name"></a>Неверное название организации
 
@@ -142,7 +142,7 @@ ms.locfileid: "3915864"
 
 ### <a name="i-only-see-data-for-a-single-company"></a>Я вижу данные только для одной организации
 
-Приложение Power BI будет отображать только данные из организации [!INCLUDE[prodshort](includes/prodshort.md)], которая была определена, когда приложение Power BI было установлено. Данные из других организаций можно добавлять в отчеты, добавляя новые запросы, которые используют другие организации в качестве источника данных.  
+Приложение Power BI будет отображать только данные из организации [!INCLUDE[prod_short](includes/prod_short.md)], которая была определена, когда приложение Power BI было установлено. Данные из других организаций можно добавлять в отчеты, добавляя новые запросы, которые используют другие организации в качестве источника данных.  
 
 ### <a name="what-now"></a>Что теперь?
 
@@ -156,9 +156,9 @@ ms.locfileid: "3915864"
 ## <a name="see-also"></a>См. также
 
 [Business Central и Power BI](admin-powerbi.md)  
-[Обзор компонентов и архитектуры интеграции Power BI для [!INCLUDE[prodshort](includes/prodshort.md)]](admin-powerbi-overview.md)  
-[Работа с данными [!INCLUDE [prodshort](includes/prodshort.md)] в Power BI](across-working-with-business-central-in-powerbi.md)  
-[Создание отчетов Power BI для отображения данных [!INCLUDE [prodlong](includes/prodlong.md)]](across-how-use-financials-data-source-powerbi.md)  
+[Обзор компонентов и архитектуры интеграции Power BI для [!INCLUDE[prod_short](includes/prod_short.md)]](admin-powerbi-overview.md)  
+[Работа с данными [!INCLUDE [prod_short](includes/prod_short.md)] в Power BI](across-working-with-business-central-in-powerbi.md)  
+[Создание отчетов Power BI для отображения данных [!INCLUDE [prod_long](includes/prod_long.md)]](across-how-use-financials-data-source-powerbi.md)  
 [Power BI для потребителей](/power-bi/consumer/end-user-consumer)  
 ["Новый внешний вид" службы Power BI](/power-bi/service-new-look)  
 [Быстрый старт: подключение к данным в Power BI Desktop](/power-bi/desktop-quickstart-connect-to-data)  
@@ -166,9 +166,9 @@ ms.locfileid: "3915864"
 [Бизнес-аналитика](bi.md)  
 [Приступая к работе](product-get-started.md)  
 [Импорт бизнес-данных из других финансовых систем](across-import-data-configuration-packages.md)  
-[Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md)  
-[Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] как источника данных Power BI](across-how-use-financials-data-source-powerbi.md)  
-[Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] как источника данных Power Apps](across-how-use-financials-data-source-powerapps.md)  
-[Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] в Power Automate](across-how-use-financials-data-source-flow.md)  
+[Настройка [!INCLUDE[prod_short](includes/prod_short.md)]](setup.md)  
+[Использование [!INCLUDE[prod_short](includes/prod_short.md)] как источника данных Power BI](across-how-use-financials-data-source-powerbi.md)  
+[Использование [!INCLUDE[prod_short](includes/prod_short.md)] как источника данных Power Apps](across-how-use-financials-data-source-powerapps.md)  
+[Использование [!INCLUDE[prod_short](includes/prod_short.md)] в Power Automate](across-how-use-financials-data-source-flow.md)  
 
-## [!INCLUDE[d365fin](includes/free_trial_md.md)]  
+## [!INCLUDE[prod_short](includes/free_trial_md.md)]  

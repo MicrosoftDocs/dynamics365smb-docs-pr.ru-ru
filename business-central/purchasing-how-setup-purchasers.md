@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: purchasing agent
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: befc5fc1c79f3cd24f5f1af9437aebab01b62945
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: ac4f7d716d9b8603617c32d219c8149aa58fc11e
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3918867"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4748697"
 ---
 # <a name="set-up-purchasers"></a>Настройка менеджеров по закупкам
 Если несколько менеджеров работают в родственной организации, то можно выбрать их на странице и присвоить им код. Затем можно использовать данные коды для подготовки статистики и для фильтрации информации в печатаемых отчетах.<br><br>  
@@ -37,4 +37,4 @@ ms.locfileid: "3918867"
 ## <a name="see-also"></a>См. также
 [Настройка покупки](purchasing-setup-purchasing.md)  
 [Управление кредиторской задолженностью](payables-manage-payables.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

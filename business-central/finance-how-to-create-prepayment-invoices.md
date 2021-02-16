@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 57284dc738ba35c9865bd25f9c180827d4c59c94
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 5f227cc73531111ae15f69d6fba5ac541e28560c
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3913375"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4746870"
 ---
 # <a name="create-prepayment-invoices"></a>Создание счетов на предоплату
 
@@ -63,7 +63,7 @@ ms.locfileid: "3913375"
 Для данного заказа можно создать дополнительные счета на предоплату. Для этого необходимо увеличить сумму предоплаты в одной или нескольких строках, скорректировать дату в случае необходимости и учесть счет на предоплату. Новый счет будет создан на сумму разницы между суммами предоплаты, уже включенными в счет, и новой суммой предоплаты.  
 
 > [!NOTE]  
-> Если вы расположены в Северной Америке, вы не можете изменить процент предоплаты после учета счета на предоплату. Это запрещено в североамериканской версии [!INCLUDE[d365fin](includes/d365fin_md.md)], поскольку в противном случае расчет налога будет неверным.  
+> Если вы расположены в Северной Америке, вы не можете изменить процент предоплаты после учета счета на предоплату. Это запрещено в североамериканской версии [!INCLUDE[prod_short](includes/prod_short.md)], поскольку в противном случае расчет налога будет неверным.  
 
  Когда все готово для учета остатка по счету, его учет выполняется так же, как и учет любого счета, а сумма предоплаты автоматически вычитается из причитающейся суммы.  
 
@@ -72,4 +72,4 @@ ms.locfileid: "3913375"
 [Выставление счетов на предоплату](finance-invoice-prepayments.md)  
 [Пошаговое руководство. Настройка и выставление счетов на продажу](walkthrough-setting-up-and-invoicing-sales-prepayments.md)  
 [Финансы](finance.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

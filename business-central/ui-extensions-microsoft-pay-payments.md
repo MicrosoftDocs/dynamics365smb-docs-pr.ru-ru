@@ -11,19 +11,19 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 5885674316e082323462cbad9fce3f20590f06d5
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 748316c411c4b04947685c6053e9c53aa9102c35
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3915039"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4747572"
 ---
 # <a name="the-microsoft-pay-extension"></a>Расширение Microsoft Pay
 
 > [!IMPORTANT]
-> Начиная с 8 февраля 2020 года изменения в сервисе Microsoft Pay будут влиять нна расширение Microsoft Pay в Microsoft [!INCLUDE[d365fin](includes/d365fin_long_md.md)]. Из-за изменений после 8 февраля ссылка **Оплатить**, которую расширение Microsoft Pay генерирует для счетов в [!INCLUDE[d365fin](includes/d365fin_md.md)], не будет открывать Microsoft Pay. Клиенты, которые используют расширение, должны изменить свои настройки службы платежей, чтобы вместо этого использовать расширение PayPal.<br /></br>
+> Начиная с 8 февраля 2020 года изменения в сервисе Microsoft Pay будут влиять нна расширение Microsoft Pay в Microsoft [!INCLUDE[prod_short](includes/prod_long.md)]. Из-за изменений после 8 февраля ссылка **Оплатить**, которую расширение Microsoft Pay генерирует для счетов в [!INCLUDE[prod_short](includes/prod_short.md)], не будет открывать Microsoft Pay. Клиенты, которые используют расширение, должны изменить свои настройки службы платежей, чтобы вместо этого использовать расширение PayPal.<br /></br>
 >
-> С 8 января мы будем отображать уведомление в [!INCLUDE[d365fin](includes/d365fin_md.md)]. Уведомление будет содержать ссылку на параметры, которые необходимо изменить, и дополнительную информацию. После 8 февраля расширение Microsoft Pay больше не будет доступно в [!INCLUDE[d365fin](includes/d365fin_md.md)].<br /></br>
+> С 8 января мы будем отображать уведомление в [!INCLUDE[prod_short](includes/prod_short.md)]. Уведомление будет содержать ссылку на параметры, которые необходимо изменить, и дополнительную информацию. После 8 февраля расширение Microsoft Pay больше не будет доступно в [!INCLUDE[prod_short](includes/prod_short.md)].<br /></br>
 >
 > Изменения коснулись следующих версий Business Central:
 > - Microsoft Dynamics 365 Business Central, октябрь 2018
@@ -42,9 +42,9 @@ ms.locfileid: "3915039"
 - Ссылка Microsoft Pay может автоматически внедряться в каждый документ счета или пользователем.
 - Поскольку данная функция построена как расширение, ее можно свободно включать тогда, когда это нужно для ваших бизнес-процессов.
 
-Включение расширения службы платежей в [!INCLUDE[d365fin](includes/d365fin_md.md)] бесплатно, однако вам потребуется связаться со службой платежей для получения учетной записи. Дополнительные сведения см. в разделе [Включение платежей клиентов через службу платежей](sales-how-enable-payment-service-extensions.md).
+Включение расширения службы платежей в [!INCLUDE[prod_short](includes/prod_short.md)] бесплатно, однако вам потребуется связаться со службой платежей для получения учетной записи. Дополнительные сведения см. в разделе [Включение платежей клиентов через службу платежей](sales-how-enable-payment-service-extensions.md).
 
 ## <a name="see-also"></a>См. также
-[Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью расширений](ui-extensions.md)  
+[Настройка [!INCLUDE[prod_short](includes/prod_short.md)] с помощью расширений](ui-extensions.md)  
 [Настройка продаж](sales-setup-sales.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

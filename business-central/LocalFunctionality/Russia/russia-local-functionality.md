@@ -1,6 +1,6 @@
 ---
 title: Функциональность локальной версии для России
-description: В следующих разделах описана функциональность локальной версии [!INCLUDE[prodshort](../../includes/prodshort.md)] для России.
+description: В следующих разделах описана функциональность локальной версии [!INCLUDE[prod_short](../../includes/prod_short.md)] для России.
 author: AliiaSalikhova
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -9,21 +9,21 @@ ms.search.keywords: ''
 ms.reviewer: edupont
 ms.date: 10/01/2020
 ms.author: soalex
-ms.openlocfilehash: 0d91f7c68afa2638d799b377dd398fcaf098fb0a
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: c8efdaa52cbee467eea925716b15551759b84ce5
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3919763"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4753225"
 ---
 # <a name="russia-local-functionality"></a>Функциональность локальной версии для России
 
-В [!INCLUDE[prodshort](../../includes/prodshort.md)] имеются особые функции для отслеживания и управления основными средствами, предназначенные именно для России. Например, можно использовать местные функции [!INCLUDE[prodshort](../../includes/prodshort.md)] для расчета НДС на основе российских ставок НДС и российского законодательства.
+В [!INCLUDE[prod_short](../../includes/prod_short.md)] имеются особые функции для отслеживания и управления основными средствами, предназначенные именно для России. Например, можно использовать местные функции [!INCLUDE[prod_short](../../includes/prod_short.md)] для расчета НДС на основе российских ставок НДС и российского законодательства.
 
 ## <a name="feature-availability"></a>Доступность функций
 
 * Основные финансы
-    * [Обзор плана счетов ](account-schedules-overview.md) **Уже доступно**
+    * [Обзор плана счетов](account-schedules-overview.md) **Уже доступно**
     * [Импорт и экспорт финансовых отчетов](How-to-Import-and-Export-Account-Schedules.md) **Уже доступно**
     * [Определение расширения финансового отчета](How-to-Define-an-Account-Schedule-Extension.md) **Уже доступно**
     * [Определение константы финансового отчета](How-to-Define-an-Account-Schedule-Constant.md) **Уже доступно**

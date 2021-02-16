@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: bholtorf
-ms.openlocfilehash: 55af47a23a36630f373b314690d0e09afe2d1c90
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 0a9b8b1fc46f953fb545f5c2f14e4b0479897ef1
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3927026"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4751709"
 ---
 # <a name="design-details-costing-methods"></a>Сведения о проектировании: методы учета себестоимости
 
@@ -24,7 +24,7 @@ ms.locfileid: "3927026"
 > [!NOTE]
 > Нельзя изменить метод учета себестоимости товара, если для этого товара существуют операции книги товаров. Для получения дополнительной информации см. [Сведения о проектировании: изменение методов учета себестоимости для товаров](design-details-changing-costing-methods.md).
 
-Следующие методы поддерживаются в [!INCLUDE[d365fin](includes/d365fin_md.md)]:  
+Следующие методы поддерживаются в [!INCLUDE[prod_short](includes/prod_short.md)]:  
 
 | Метод учета себестоимости | Описание | Варианты использования |
 |--|--|--|
@@ -163,4 +163,4 @@ ms.locfileid: "3927026"
  [Сведения о проектировании: применение товара](design-details-item-application.md)  
  [Управление себестоимостью товаров](finance-manage-inventory-costs.md)  
  [Финансы](finance.md)  
- [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+ [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  

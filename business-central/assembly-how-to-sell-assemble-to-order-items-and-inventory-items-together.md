@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: kit, kitting
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 5dda40147d86bbe67e3eb20860ffa4648e2e9918
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 9165a7392f5c95b2ebb8a056f69be49d93476b66
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3913917"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4747370"
 ---
 # <a name="sell-assemble-to-order-items-and-inventory-items-together"></a>Совместная продажа товаров, собираемых на заказ, и складских товаров
 Если поле **Политика сборки** в карточке товара сборочного элемента имеет значение **Сборка на склад** процесс продажи по умолчанию предполагает, что товар уже собран и подобран из запасов, если он доступен. Поэтому сборочный заказ не создается автоматически и не привязывается к строке заказа на продажу. Если часть (или все) количества уже не доступна, можно создать сборочный заказа для остатка, заполнив поле **Количество для сборки на заказ** в строке заказа на продажу. Таким образом можно собирать товар на заказ, даже если он настроен на сборку на склад по умолчанию.  
@@ -43,4 +43,4 @@ ms.locfileid: "3913917"
 [Работа со спецификациями](inventory-how-work-BOMs.md)  
 [Наличие](inventory-manage-inventory.md)  
 [Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

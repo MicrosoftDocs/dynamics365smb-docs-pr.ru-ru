@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: postpone
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: cfc696141e2d3db0b5da1facb83e09216529e269
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 6018edd9d7d324c827c6c338ec700492b39bf56d
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3917105"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4747020"
 ---
 # <a name="create-gl-budgets"></a>Создание бюджетов ГК
 Путем создания бюджетов с различными кодами можно для одного и того же промежутка времени создать несколько бюджетов. Сначала настраивается код бюджета и заносятся бюджетные данные. Название бюджета затем помещается во все созданные бюджетные операции.  
@@ -56,4 +56,4 @@ ms.locfileid: "3917105"
 [Бизнес-аналитика](bi.md)  
 [Настройка финансов](finance-setup-finance.md)  
 [Главная книга и план счетов](finance-general-ledger.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  

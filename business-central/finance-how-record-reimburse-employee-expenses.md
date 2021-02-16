@@ -10,16 +10,16 @@ ms.workload: na
 ms.search.keywords: reimbursement
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: e88cc5ad2eaf449d22dd0c9840a4fc33ae0f56f7
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 4d19fceae0fd5c9b72910880d0f87b21206e8f47
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3916172"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4750834"
 ---
 # <a name="record-and-reimburse-employees-expenses"></a>Регистрация и возмещение расходов сотрудников
 
-[!INCLUDE[d365fin](includes/d365fin_md.md)] поддерживает транзакции для сотрудников аналогично тому, как это делается для поставщиков. Соответственно, учетные группы сотрудников существуют, чтобы обеспечить учет операций из книги операций по сотрудникам на соответствующих счетах в главной книге.
+[!INCLUDE[prod_short](includes/prod_short.md)] поддерживает транзакции для сотрудников аналогично тому, как это делается для поставщиков. Соответственно, учетные группы сотрудников существуют, чтобы обеспечить учет операций из книги операций по сотрудникам на соответствующих счетах в главной книге.
 
 > [!NOTE]  
 > Транзакции сотрудникам могут учитываться только в локальной валюте. Возмещение сотрудникам не поддерживает скидки или отклонения в оплате.
@@ -59,4 +59,4 @@ ms.locfileid: "3916172"
 [Работа с финансовыми журналами](ui-work-general-journals.md)  
 [Сторнирование учета в журнале и отмена приходных/расходных накладных](finance-how-reverse-journal-posting.md)  
 [Финансы](finance.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  

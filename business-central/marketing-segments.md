@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: relationship, prospect
 ms.date: 10/01/2020
 ms.author: jswymer
-ms.openlocfilehash: 5782a49732550d6f8ffc516634a4b45ec7e22e6d
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 5fe1054825058c30e0a26e11e258804e7256bfcb
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3923574"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4749834"
 ---
 # <a name="managing-segments"></a>Управление сегментами
 Вы создаете сегменты для выбора группы контактов по определенному критерию. Например, сегментом может быть отрасль, к которой принадлежат контакты, или деловые отношения с ними. Можно создать сегмент для выбора контактов, которым будет адресована кампания.
@@ -38,4 +38,4 @@ ms.locfileid: "3923574"
 ## <a name="see-also"></a>См. также
 [Управление возможностями продаж](marketing-manage-sales-opportunities.md)  
 [Управление контактами](marketing-contacts.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

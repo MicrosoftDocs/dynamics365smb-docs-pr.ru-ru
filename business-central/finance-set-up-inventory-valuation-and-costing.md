@@ -7,19 +7,19 @@ ms.topic: article
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 524ed44ed305fc219ea15afc061994dbe3050503
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: edcaaaedde3bb42c0c0d69c3e71dd659f5475712
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3910734"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4750459"
 ---
 # <a name="setting-up-inventory-valuation-and-costing"></a>Настройка оценки стоимости запасов и учета себестоимости
 
 Чтобы обеспечить правильную запись валютных курсов, необходимо настроить различные поля и страницы, прежде чем приступать к выполнению товарных транзакций. Как правило, предприятия выбирают конкретный метод оценки себестоимости и применяют его к товарным запасам, например, чтобы помочь им отслеживать стоимость товаров на складе.  
 
 > [!TIP]
-> Введение по об оценке себестоимости [!INCLUDE [prodshort](includes/prodshort.md)] см. [Об оценке себестоимости товаров](finance-learn-about-costing.md).
+> Введение по об оценке себестоимости [!INCLUDE [prod_short](includes/prod_short.md)] см. [Об оценке себестоимости товаров](finance-learn-about-costing.md).
 
 В следующей таблице приводится последовательность задач со ссылками на разделы, в которых они описываются.
 
