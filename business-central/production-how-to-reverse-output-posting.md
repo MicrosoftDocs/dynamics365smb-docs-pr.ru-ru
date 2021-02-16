@@ -10,28 +10,28 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: b33b0642d8cee6e26edeeece47c8fceb72c2bfa1
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: ed275469dd172af43ceb96b85d5ac0aa99e96a2f
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3921571"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4759046"
 ---
-# <a name="reverse-output-posting"></a><span data-ttu-id="3d7d4-104">Сторнирование учета выхода</span><span class="sxs-lookup"><span data-stu-id="3d7d4-104">Reverse Output Posting</span></span>
-<span data-ttu-id="3d7d4-105">Бывают случаи, когда учет выхода необходимо сторнировать.</span><span class="sxs-lookup"><span data-stu-id="3d7d4-105">There are times when output posting must be reversed.</span></span> <span data-ttu-id="3d7d4-106">Например, если произошла ошибка при вводе данных и в производственном заказе учтено неверное количество выхода.</span><span class="sxs-lookup"><span data-stu-id="3d7d4-106">An example of this would be if a data entry error occurred and an incorrect amount of output is posted to a production order.</span></span>  
+# <a name="reverse-output-posting"></a><span data-ttu-id="b6d63-104">Сторнирование учета выхода</span><span class="sxs-lookup"><span data-stu-id="b6d63-104">Reverse Output Posting</span></span>
+<span data-ttu-id="b6d63-105">Бывают случаи, когда учет выхода необходимо сторнировать.</span><span class="sxs-lookup"><span data-stu-id="b6d63-105">There are times when output posting must be reversed.</span></span> <span data-ttu-id="b6d63-106">Например, если произошла ошибка при вводе данных и в производственном заказе учтено неверное количество выхода.</span><span class="sxs-lookup"><span data-stu-id="b6d63-106">An example of this would be if a data entry error occurred and an incorrect amount of output is posted to a production order.</span></span>  
 
-## <a name="to-reverse-an-output-posting"></a><span data-ttu-id="3d7d4-107">Сторнирование проводки по выпуску</span><span class="sxs-lookup"><span data-stu-id="3d7d4-107">To reverse an output posting</span></span>  
-1.  <span data-ttu-id="3d7d4-108">Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Журнал выхода продукции**, затем выберите соответствующую ссылку.</span><span class="sxs-lookup"><span data-stu-id="3d7d4-108">Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Output Journal**, and then choose the related link.</span></span> <span data-ttu-id="3d7d4-109">Выберите пакет.</span><span class="sxs-lookup"><span data-stu-id="3d7d4-109">Select your batch.</span></span>  
-2. <span data-ttu-id="3d7d4-110">Заполните соответствующим образом поля.</span><span class="sxs-lookup"><span data-stu-id="3d7d4-110">Fill in the fields as necessary.</span></span> <span data-ttu-id="3d7d4-111">Дополнительные сведения см. разделе [Учет в пакетном режиме выпуска продукции и времени работы](production-how-to-post-output-quantity.md).</span><span class="sxs-lookup"><span data-stu-id="3d7d4-111">For more information, see [Batch Post Output and Run Times](production-how-to-post-output-quantity.md).</span></span>
-3.  <span data-ttu-id="3d7d4-112">В поле **Примен. к операции** выберите соответствующую операцию книги товаров.</span><span class="sxs-lookup"><span data-stu-id="3d7d4-112">In the **Applies-To Entry** field, select the associated item ledger entry.</span></span> <span data-ttu-id="3d7d4-113">При этом будут сторнированы операции журналов производственных мощностей и товаров.</span><span class="sxs-lookup"><span data-stu-id="3d7d4-113">This reverses the capacity and item ledger entries.</span></span>  
-4. <span data-ttu-id="3d7d4-114">Учтите сторнирование путем учета журнала.</span><span class="sxs-lookup"><span data-stu-id="3d7d4-114">Post the reversal by posting the journal.</span></span>  
+## <a name="to-reverse-an-output-posting"></a><span data-ttu-id="b6d63-107">Сторнирование проводки по выпуску</span><span class="sxs-lookup"><span data-stu-id="b6d63-107">To reverse an output posting</span></span>  
+1.  <span data-ttu-id="b6d63-108">Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Журнал выхода продукции**, затем выберите соответствующую ссылку.</span><span class="sxs-lookup"><span data-stu-id="b6d63-108">Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Output Journal**, and then choose the related link.</span></span> <span data-ttu-id="b6d63-109">Выберите пакет.</span><span class="sxs-lookup"><span data-stu-id="b6d63-109">Select your batch.</span></span>  
+2. <span data-ttu-id="b6d63-110">Заполните соответствующим образом поля.</span><span class="sxs-lookup"><span data-stu-id="b6d63-110">Fill in the fields as necessary.</span></span> <span data-ttu-id="b6d63-111">Дополнительные сведения см. разделе [Учет в пакетном режиме выпуска продукции и времени работы](production-how-to-post-output-quantity.md).</span><span class="sxs-lookup"><span data-stu-id="b6d63-111">For more information, see [Batch Post Output and Run Times](production-how-to-post-output-quantity.md).</span></span>
+3.  <span data-ttu-id="b6d63-112">В поле **Примен. к операции** выберите соответствующую операцию книги товаров.</span><span class="sxs-lookup"><span data-stu-id="b6d63-112">In the **Applies-To Entry** field, select the associated item ledger entry.</span></span> <span data-ttu-id="b6d63-113">При этом будут сторнированы операции журналов производственных мощностей и товаров.</span><span class="sxs-lookup"><span data-stu-id="b6d63-113">This reverses the capacity and item ledger entries.</span></span>  
+4. <span data-ttu-id="b6d63-114">Учтите сторнирование путем учета журнала.</span><span class="sxs-lookup"><span data-stu-id="b6d63-114">Post the reversal by posting the journal.</span></span>  
 
-<span data-ttu-id="3d7d4-115">Операции журнала выхода продукции учитываются в книге товаров как положительная корректировка.</span><span class="sxs-lookup"><span data-stu-id="3d7d4-115">The output journal entries are posted to the item ledger as a positive adjustment.</span></span>  
+<span data-ttu-id="b6d63-115">Операции журнала выхода продукции учитываются в книге товаров как положительная корректировка.</span><span class="sxs-lookup"><span data-stu-id="b6d63-115">The output journal entries are posted to the item ledger as a positive adjustment.</span></span>  
 
-## <a name="see-also"></a><span data-ttu-id="3d7d4-116">См. также</span><span class="sxs-lookup"><span data-stu-id="3d7d4-116">See Also</span></span>  
- <span data-ttu-id="3d7d4-117">[Производство](production-manage-manufacturing.md)  </span><span class="sxs-lookup"><span data-stu-id="3d7d4-117">[Manufacturing](production-manage-manufacturing.md)  </span></span>  
- [<span data-ttu-id="3d7d4-118">Настройка производства</span><span class="sxs-lookup"><span data-stu-id="3d7d4-118">Setting Up Manufacturing</span></span>](production-configure-production-processes.md)  
- <span data-ttu-id="3d7d4-119">[Планирование](production-planning.md)    </span><span class="sxs-lookup"><span data-stu-id="3d7d4-119">[Planning](production-planning.md)    </span></span>  
- [<span data-ttu-id="3d7d4-120">Запасы</span><span class="sxs-lookup"><span data-stu-id="3d7d4-120">Inventory</span></span>](inventory-manage-inventory.md)  
- [<span data-ttu-id="3d7d4-121">Покупки</span><span class="sxs-lookup"><span data-stu-id="3d7d4-121">Purchasing</span></span>](purchasing-manage-purchasing.md)  
- <span data-ttu-id="3d7d4-122">[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="3d7d4-122">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>  
+## <a name="see-also"></a><span data-ttu-id="b6d63-116">См. также</span><span class="sxs-lookup"><span data-stu-id="b6d63-116">See Also</span></span>  
+ <span data-ttu-id="b6d63-117">[Производство](production-manage-manufacturing.md)  </span><span class="sxs-lookup"><span data-stu-id="b6d63-117">[Manufacturing](production-manage-manufacturing.md)  </span></span>  
+ [<span data-ttu-id="b6d63-118">Настройка производства</span><span class="sxs-lookup"><span data-stu-id="b6d63-118">Setting Up Manufacturing</span></span>](production-configure-production-processes.md)  
+ <span data-ttu-id="b6d63-119">[Планирование](production-planning.md)    </span><span class="sxs-lookup"><span data-stu-id="b6d63-119">[Planning](production-planning.md)    </span></span>  
+ [<span data-ttu-id="b6d63-120">Запасы</span><span class="sxs-lookup"><span data-stu-id="b6d63-120">Inventory</span></span>](inventory-manage-inventory.md)  
+ [<span data-ttu-id="b6d63-121">Покупки</span><span class="sxs-lookup"><span data-stu-id="b6d63-121">Purchasing</span></span>](purchasing-manage-purchasing.md)  
+ <span data-ttu-id="b6d63-122">[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="b6d63-122">[Working with [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)</span></span>  

@@ -11,24 +11,24 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.date: 10/01/2020
 ms.author: solsen
-ms.openlocfilehash: fa57a5ecce6553ce9315e4cd205f3367d9664bda
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 06e498444879a9b77b1418c44f4dd39395c8a4b5
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3910184"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4756896"
 ---
-# <a name="preview-posting-results"></a><span data-ttu-id="442f2-103">Предварительный просмотр результатов учета</span><span class="sxs-lookup"><span data-stu-id="442f2-103">Preview Posting Results</span></span>
-<span data-ttu-id="442f2-104">Во всех документах и журналах, которые можно учитывать, можно нажать кнопку **Предварительный просмотр учета** для просмотра различных типов операций, которые будут созданы при учете документа или журнала.</span><span class="sxs-lookup"><span data-stu-id="442f2-104">On every document and journal that can be posted, you can choose the **Preview Posting** button to review the different types of entries that will be created when you post the document or journal.</span></span>
+# <a name="preview-posting-results"></a><span data-ttu-id="e8a28-103">Предварительный просмотр результатов учета</span><span class="sxs-lookup"><span data-stu-id="e8a28-103">Preview Posting Results</span></span>
+<span data-ttu-id="e8a28-104">Во всех документах и журналах, которые можно учитывать, можно нажать кнопку **Предварительный просмотр учета** для просмотра различных типов операций, которые будут созданы при учете документа или журнала.</span><span class="sxs-lookup"><span data-stu-id="e8a28-104">On every document and journal that can be posted, you can choose the **Preview Posting** button to review the different types of entries that will be created when you post the document or journal.</span></span>
 
-## <a name="to-preview-gl-entries-that-will-result-from-posting-a-purchase-invoice"></a><span data-ttu-id="442f2-105">Просмотр операций ГК, которые появятся в результате учета счета покупки</span><span class="sxs-lookup"><span data-stu-id="442f2-105">To preview G/L entries that will result from posting a purchase invoice</span></span>
-1. <span data-ttu-id="442f2-106">Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Счета покупки**, затем выберите соответствующую ссылку.</span><span class="sxs-lookup"><span data-stu-id="442f2-106">Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Purchase Invoices**, and then choose the related link.</span></span>
-2. <span data-ttu-id="442f2-107">Создайте счет покупки.</span><span class="sxs-lookup"><span data-stu-id="442f2-107">Create a purchase invoice.</span></span> <span data-ttu-id="442f2-108">Дополнительные сведения см. в разделе [Регистрация покупок](purchasing-how-record-purchases.md).</span><span class="sxs-lookup"><span data-stu-id="442f2-108">For more information, see [Record Purchases](purchasing-how-record-purchases.md).</span></span>
-3. <span data-ttu-id="442f2-109">Выберите **Предварительный просмотр учета**.</span><span class="sxs-lookup"><span data-stu-id="442f2-109">Choose **Preview Posting**.</span></span>
-4. <span data-ttu-id="442f2-110">На странице **Предварительный просмотр учета** выберите **Операция ГК**, а затем выберите **Показать связанные операции**.</span><span class="sxs-lookup"><span data-stu-id="442f2-110">On the **Posting Preview** page, select **G/L Entry**, and then choose **Show Related Entries**.</span></span>  
-   <span data-ttu-id="442f2-111">На странице **Предварительный просмотр операций ГК** будут показаны операции, которые будут созданы в результате учета счета покупки.</span><span class="sxs-lookup"><span data-stu-id="442f2-111">The **G/L Entries Preview** page shows which entries will be created when you post the purchase invoice.</span></span>
+## <a name="to-preview-gl-entries-that-will-result-from-posting-a-purchase-invoice"></a><span data-ttu-id="e8a28-105">Просмотр операций ГК, которые появятся в результате учета счета покупки</span><span class="sxs-lookup"><span data-stu-id="e8a28-105">To preview G/L entries that will result from posting a purchase invoice</span></span>
+1. <span data-ttu-id="e8a28-106">Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Счета покупки**, затем выберите соответствующую ссылку.</span><span class="sxs-lookup"><span data-stu-id="e8a28-106">Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Purchase Invoices**, and then choose the related link.</span></span>
+2. <span data-ttu-id="e8a28-107">Создайте счет покупки.</span><span class="sxs-lookup"><span data-stu-id="e8a28-107">Create a purchase invoice.</span></span> <span data-ttu-id="e8a28-108">Дополнительные сведения см. в разделе [Регистрация покупок](purchasing-how-record-purchases.md).</span><span class="sxs-lookup"><span data-stu-id="e8a28-108">For more information, see [Record Purchases](purchasing-how-record-purchases.md).</span></span>
+3. <span data-ttu-id="e8a28-109">Выберите **Предварительный просмотр учета**.</span><span class="sxs-lookup"><span data-stu-id="e8a28-109">Choose **Preview Posting**.</span></span>
+4. <span data-ttu-id="e8a28-110">На странице **Предварительный просмотр учета** выберите **Операция ГК**, а затем выберите **Показать связанные операции**.</span><span class="sxs-lookup"><span data-stu-id="e8a28-110">On the **Posting Preview** page, select **G/L Entry**, and then choose **Show Related Entries**.</span></span>  
+   <span data-ttu-id="e8a28-111">На странице **Предварительный просмотр операций ГК** будут показаны операции, которые будут созданы в результате учета счета покупки.</span><span class="sxs-lookup"><span data-stu-id="e8a28-111">The **G/L Entries Preview** page shows which entries will be created when you post the purchase invoice.</span></span>
 
-## <a name="see-also"></a><span data-ttu-id="442f2-112">См. также</span><span class="sxs-lookup"><span data-stu-id="442f2-112">See Also</span></span>
-[<span data-ttu-id="442f2-113">Учет документов и журналов</span><span class="sxs-lookup"><span data-stu-id="442f2-113">Posting Documents and Journals</span></span>](ui-post-documents-journals.md)  
-<span data-ttu-id="442f2-114">[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="442f2-114">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>  
-[<span data-ttu-id="442f2-115">Общие бизнес-функции</span><span class="sxs-lookup"><span data-stu-id="442f2-115">General Business Functionality</span></span>](ui-across-business-areas.md)
+## <a name="see-also"></a><span data-ttu-id="e8a28-112">См. также</span><span class="sxs-lookup"><span data-stu-id="e8a28-112">See Also</span></span>
+[<span data-ttu-id="e8a28-113">Учет документов и журналов</span><span class="sxs-lookup"><span data-stu-id="e8a28-113">Posting Documents and Journals</span></span>](ui-post-documents-journals.md)  
+<span data-ttu-id="e8a28-114">[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="e8a28-114">[Working with [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)</span></span>  
+[<span data-ttu-id="e8a28-115">Общие бизнес-функции</span><span class="sxs-lookup"><span data-stu-id="e8a28-115">General Business Functionality</span></span>](ui-across-business-areas.md)
