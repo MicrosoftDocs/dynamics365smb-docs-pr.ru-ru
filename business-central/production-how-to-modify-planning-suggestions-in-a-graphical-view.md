@@ -10,16 +10,16 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: d2b0d6219215d734a77e0ebcd821ef9aaa2ae3f2
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: d00650a3490cd4995e4c531aca5346c8c0256179
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3919217"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4759271"
 ---
 # <a name="modify-planning-suggestions-in-a-graphical-view"></a>Изменение предложений по планированию в графическом виде
 
-Типичное действие планирования — изменить или добавить строки журнала планирования для изменения предлагаемых заказов на поставку до того, как они будут зафиксированы выполнением функции **Выполнить указание**. Альтернатива такому действию в журнале планирования — использовать графическое представление. Однако в настоящее время в [!INCLUDE[prodshort](includes/prodshort.md)] это не поддерживается.  
+Типичное действие планирования — изменить или добавить строки журнала планирования для изменения предлагаемых заказов на поставку до того, как они будут зафиксированы выполнением функции **Выполнить указание**. Альтернатива такому действию в журнале планирования — использовать графическое представление. Однако в настоящее время в [!INCLUDE[prod_short](includes/prod_short.md)] это не поддерживается.  
 
 <!--On the **Item Availability by Timeline** page, you can modify certain supply orders and suggestions by dragging elements on the x-axis to change quantity or dragging elements on the y-axis to change due date.  
 
@@ -102,4 +102,4 @@ To implement the supply plan changes, you must follow the resulting action messa
 [Покупки](purchasing-manage-purchasing.md)  
 [Сведения о проектировании: планирование поставок](design-details-supply-planning.md)  
 [Рекомендации по настройке. Планирование поставок](setup-best-practices-supply-planning.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: project invoice
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: effed84c3f0d4c625192ac4d41dc2d9edf97c663
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 368b0b1edf1105045a365d8d5ac523c88955ad8a
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3921446"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4758746"
 ---
 # <a name="invoice-jobs"></a>Выставление счетов за работы
 Во время проекта могут накапливаться затраты на выполнение работы из-за потребления ресурсов, материалов и связанных с работой покупок. В ходе выполнения работы, эти транзакции учитываются в журнале работ. Важно, чтобы перед выставлением счета клиенту в журнал работ были занесены все затраты.
@@ -82,4 +82,4 @@ ms.locfileid: "3921446"
 [Финансы](finance.md)  
 [Покупки](purchasing-manage-purchasing.md)         
 [Продажи](sales-manage-sales.md)      
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  

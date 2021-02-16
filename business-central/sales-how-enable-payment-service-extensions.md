@@ -10,21 +10,21 @@ ms.workload: na
 ms.search.keywords: online payment
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 6d905c6155b305a5788ca48a1364dbd619c084ef
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 3bcfac75d1d161a4163fda466e320b0efd408655
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3926251"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4758271"
 ---
 # <a name="enable-customer-payments-through-payment-services"></a>Включение платежей клиентов через службу платежей
 В качестве альтернативы сбору платежей через банковские переводы или кредитные карты вы можете предложить клиентам оплату через учетную запись в службе платежей, например Microsoft Pay, PayPal или WorldPay.  
 
-После включения службы платежей в [!INCLUDE[d365fin](includes/d365fin_md.md)] станет доступна ссылка на службу в документах продажи, отправляемых по электронной почте клиентам. Клиенты могут использовать эту ссылку для перехода к службе платежей и оплаты счетов непосредственно из документа продажи. Если не требуется включать ссылку, например если клиент платит наличными деньгами, можно удалить службу платежей из счета до учета.  
+После включения службы платежей в [!INCLUDE[prod_short](includes/prod_short.md)] станет доступна ссылка на службу в документах продажи, отправляемых по электронной почте клиентам. Клиенты могут использовать эту ссылку для перехода к службе платежей и оплаты счетов непосредственно из документа продажи. Если не требуется включать ссылку, например если клиент платит наличными деньгами, можно удалить службу платежей из счета до учета.  
 
-Расширения Microsoft Pay, PayPal Payments Standard и WorldPay Payments Standard установлены в [!INCLUDE[d365fin](includes/d365fin_md.md)] и готовы к включению.  
+Расширения Microsoft Pay, PayPal Payments Standard и WorldPay Payments Standard установлены в [!INCLUDE[prod_short](includes/prod_short.md)] и готовы к включению.  
 
-## <a name="to-enable-a-payment-service-in-d365fin"></a>Включение службы платежей в [!INCLUDE[d365fin](includes/d365fin_md.md)]
+## <a name="to-enable-a-payment-service-in-prod_short"></a>Включение службы платежей в [!INCLUDE[prod_short](includes/prod_short.md)]
 1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Службы платежей**, затем выберите соответствующую ссылку.  
 2. На странице **Службы платежей** выберите действие **Создать**.  
 3. Выберите службу платежей, затем закройте страницу.  
@@ -43,5 +43,5 @@ ms.locfileid: "3926251"
 ## <a name="see-also"></a>См. также  
 [Настройка продаж](sales-setup-sales.md)  
 [Продажи](sales-manage-sales.md)  
-[Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью расширений](ui-extensions.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Настройка [!INCLUDE[prod_short](includes/prod_short.md)] с помощью расширений](ui-extensions.md)  
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  

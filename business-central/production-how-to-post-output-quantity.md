@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: db613df030a739ac8899b3cea19e89f17dcfe53e
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 82e28246f1a1c65c7bd702023d9c68c614383cc2
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3916578"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4759146"
 ---
 # <a name="batch-post-output-and-run-times"></a>Учет в пакетном режиме выпуска продукции и времени работы
 Количество выхода отражает выполнение работы в единицах завершенного количества.  
@@ -46,4 +46,4 @@ ms.locfileid: "3916578"
 [Планирование](production-planning.md)      
 [Запасы](inventory-manage-inventory.md)  
 [Покупки](purchasing-manage-purchasing.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

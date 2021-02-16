@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 43e93d44a1fb4e3fe840313ebff9171cebddf4f9
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 62f5254da05749c2da4690e7d49488af852ac67a
+ms.sourcegitcommit: 311e86d6abb9b59a5483324d8bb4cd1be7949248
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3919167"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "5013848"
 ---
 # <a name="plan-for-new-demand-order-by-order"></a>Последовательное планирование по каждому заказу
 Эта задача планирования может быть выполнена на странице **Планирование заказов**, в котором отображаются все данные нового спроса наряду со сведениями о готовности и предложениями по поставке. В окне обеспечиваются обзор и инструменты, необходимые для эффективного планирования спроса из строк продажи и компонентов и последующего непосредственного создания различных типов заказов поставки.  
@@ -109,11 +109,12 @@ ms.locfileid: "3919167"
 >  Создаваемые заказы на поставку могут порождать новое зависимое требование, например для подчиненных производственных заказов. Поэтому, прежде чем переходить далее по списку, следует снова выбрать **Вычислить план**, чтобы выявить и разрешить новое требование.  
 
 ## <a name="see-also"></a>См. также  
+[Пошаговое руководство. Планирование поставок вручную](walkthrough-planning-supplies-manually.md)  
 [Планирование](production-planning.md)  
 [Настройка производства](production-configure-production-processes.md)  
 [Производство](production-manage-manufacturing.md)    
-[Наличие](inventory-manage-inventory.md)  
+[Запасы](inventory-manage-inventory.md)  
 [Покупки](purchasing-manage-purchasing.md)  
 [Сведения о проектировании: планирование поставок](design-details-supply-planning.md)   
 [Рекомендации по настройке. Планирование поставок](setup-best-practices-supply-planning.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

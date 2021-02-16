@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: c89cb40559a570605401108d7560f6b989e06773
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 47ae132d862d2c05bef4ea0d0af26688bdd16588
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3926151"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4758221"
 ---
 # <a name="print-the-picking-list"></a>Печать сборочного листа
 Сборочные листы можно печатать непосредственно из заказа на продажу, счета продажи и любого другого документа, который является основанием для отгрузки товаров.
@@ -38,4 +38,4 @@ ms.locfileid: "3926151"
 ## <a name="see-also"></a>См. также  
 [Запасы](inventory-manage-inventory.md)  
 [Подбор товаров](warehouse-pick-items.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)   
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)   

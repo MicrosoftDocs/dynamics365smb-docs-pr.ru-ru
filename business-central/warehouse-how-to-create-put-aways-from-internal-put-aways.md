@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 93e517c5fb3c9419b6505ccd3d6e56a325bdd43c
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 5095b4dde92b2d6982bfc8a984f10f5b62454800
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3918367"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4756246"
 ---
 # <a name="pick-and-put-away-without-a-source-document"></a>Подбор и размещение без документа-источника
 После размещения, но до подбора с целью удовлетворения требований производственного заказа или отгрузки товары хранятся на складе как часть доступных складских запасов.  
@@ -51,4 +51,4 @@ ms.locfileid: "3918367"
 [Настройка управления складом](warehouse-setup-warehouse.md)     
 [Управление сборкой](assembly-assemble-items.md)    
 [Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: f78a4e0220ac3c933a6b00300dee4b389c5ea4cc
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 9b58caa880dce813439a2ce4ab2b9da8dccddae5
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3911950"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4756346"
 ---
 # <a name="receive-items"></a>Приемка товаров
 
@@ -123,7 +123,7 @@ ms.locfileid: "3911950"
 2. Учтите приходную накладную, как для любой другой квитанции.
 
 > [!NOTE]
-> [!INCLUDE[d365fin](includes/d365fin_md.md)] не включает в себя функциональность для автоматического запуска финансового администрирования принятых излишков. Вы должны вручную обработать это по согласованию с поставщиком, например, чтобы поставщик переслал новый или обновленный счет-фактуру.
+> [!INCLUDE[prod_short](includes/prod_short.md)] не включает в себя функциональность для автоматического запуска финансового администрирования принятых излишков. Вы должны вручную обработать это по согласованию с поставщиком, например, чтобы поставщик переслал новый или обновленный счет-фактуру.
 
 ## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/receive-invoice-dynamics-d365-business-central/index)
 
@@ -134,4 +134,4 @@ ms.locfileid: "3911950"
 [Настройка управления складом](warehouse-setup-warehouse.md)  
 [Управление сборкой](assembly-assemble-items.md)  
 [Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  

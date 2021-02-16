@@ -8,62 +8,55 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: Teams, MS Teams, Microsoft Teams, Skype, Link, Microsoft 365, collaborate, collaboration, teamwork
-ms.date: 10/08/2020
+ms.date: 01/20/2021
 ms.author: jswymer
-ms.openlocfilehash: fbe024f724f018aae6d3aeb5251281bf4c3bfbde
-ms.sourcegitcommit: 4bca699d2a5ce182eb5572d72fac4fb478c4f293
+ms.openlocfilehash: 0f7c1e8016a1bc1915d7d6a54a183aa0e8cea2ea
+ms.sourcegitcommit: 36a32c997b201ff32ed8c1cff8179b36e2468c47
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/12/2020
-ms.locfileid: "3989429"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "5046458"
 ---
 # <a name="working-with-business-central-data-in-microsoft-teams"></a>Работа с данными Business Central в Microsoft Teams
 
-[!INCLUDE [teams_preview.md](includes/teams_preview.md)]
+[!INCLUDE [online_only](includes/online_only.md)]
 
-[!INCLUDE [prodshort](includes/prodshort.md)] предлагает приложение, которое соединяет Microsoft Teams с вашими бизнес-данным в [!INCLUDE [prodshort](includes/prodshort.md)], чтобы вы могли быстро обмениваться данными между участниками команды и быстрее отвечать на запросы. В этой статье вы узнаете, как использовать приложение для обмена данными [!INCLUDE [prodshort](includes/prodshort.md)] с коллегами в беседе в Teams.
+[!INCLUDE [prod_short](includes/prod_short.md)] предлагает приложение, которое соединяет Microsoft Teams с вашими бизнес-данным в [!INCLUDE [prod_short](includes/prod_short.md)], чтобы вы могли быстро обмениваться данными между участниками команды и быстрее отвечать на запросы. В этой статье вы узнаете, как использовать приложение для обмена данными [!INCLUDE [prod_short](includes/prod_short.md)] с коллегами в беседе в Teams.
 
 ## <a name="overview"></a>Обзор
 
-Приложение позволяет [!INCLUDE [prodshort](includes/prodshort.md)]:
+Приложение позволяет [!INCLUDE [prod_short](includes/prod_short.md)]:
 
-- Скопируйте ссылку на любую запись Business Central и вставьте ее в беседу Teams, чтобы поделиться ею с коллегами. Ссылка превратится в компактную интерактивную карточку, отображающую информацию о записи.
-- После разговора вы и ваши коллеги можете просматривать дополнительные сведения о записи, редактировать данные и принимать меры — не выходя из Teams.
+- Скопируйте ссылку на любую запись Business Central и вставьте ее в беседу Teams, чтобы поделиться ею с коллегами. Приложение затем развернет ссылку в компактную интерактивную карточку, отображающую информацию о записи.
+- После разговора вы и ваши коллеги можете просматривать дополнительные сведения о записи, редактировать данные и принимать меры &mdash; не выходя из Teams.
 
 [![Интеграция Teams с Business Central](media/teams-intro-v3.png)](media/teams-intro-v3.png#lightbox)
 
 ## <a name="prerequisites"></a>Предварительные требования
 
 - У вас есть доступ к Microsoft Teams.
-- Вы установили приложение [!INCLUDE [prodshort](includes/prodshort.md)] в Teams. Для получения дополнительной информации см.[ Установка приложения [!INCLUDE [prodshort](includes/prodshort.md)] для Microsoft Teams](across-install-app-for-teams.md)
+- Вы установили приложение [!INCLUDE [prod_short](includes/prod_short.md)] в Teams. Для получения дополнительной информации см.[ Установка приложения [!INCLUDE [prod_short](includes/prod_short.md)] для Microsoft Teams](across-install-app-for-teams.md)
 
 > [!NOTE]
-> Все участники беседы Teams смогут просматривать карточки для записей Business Central, которые вы отправляете в беседу. Но чтобы просмотреть более подробную информацию о записях, используя кнопки **Подробнее** или **Открыть на новой вкладке**, им потребуется доступ [!INCLUDE [prodshort](includes/prodshort.md)]. Дополнительные сведения см. в разделе [Управление интеграцией Microsoft Teams](admin-teams-integration.md#minimum-requirements-1).
-<!--
-- People You and your coworkers have the following permissions in [!INCLUDE [prodshort](includes/prodshort.md)]
-  - To paste a [!INCLUDE [prodshort](includes/prodshort.md)] link into a Teams conversation and have it expand into a card, you have to have at least permission to view the page and its data.
-  - Once a card is submitted into a conversation, any user in that conversation can view that card without having permission to Business Central.
-  - For other users to view more details from card, they must also have view permission, as a minimum, to the page and its data. If they want to change data, they'll need modify permissions.
-
-  Setting up permissions is typically done by an administrator. For more information, see [Managing Microsoft Teams Integration](admin-teams-integration.md).-->
+> Все участники беседы Teams смогут просматривать карточки для записей Business Central, которые вы отправляете в беседу. Но чтобы просмотреть более подробную информацию о записях, используя кнопки **Подробнее** или **Открыть на новой вкладке**, им потребуется доступ [!INCLUDE [prod_short](includes/prod_short.md)]. Дополнительные сведения см. в разделе [Управление интеграцией Microsoft Teams](admin-teams-integration.md#minimum-requirements-1).
 
 ## <a name="include-a-business-central-card-in-a-teams-conversation"></a>Включите карточку Business Central в беседу в Teams
 
-1. Водите в [!INCLUDE [prodshort](includes/prodshort.md)], используя ваш браузер.
+1. Водите в [!INCLUDE [prod_short](includes/prod_short.md)], используя ваш браузер.
 2. Откройте запись, которое требуется поделиться.
 
-    Приложение предназначено для отображения страниц типа карточек из [!INCLUDE [prodshort](includes/prodshort.md)]. Итак, откройте страницу, которая отображает одну запись, например товар, клиента или заказ на продажу. Вы не можете использовать его для центров ролей или страниц, отображающих несколько записей в списке.
+    Приложение предназначено для отображения страниц типа карточек из [!INCLUDE [prod_short](includes/prod_short.md)]. Итак, откройте страницу, которая отображает одну запись, например товар, клиента или заказ на продажу. Вы не можете использовать его для центров ролей или страниц, отображающих несколько записей в списке.
 
 3. Скопируйте весь URL-адрес из адресной строки браузера.
 
-   ![Скопируйте URL-адрес Business Central из браузера](media/teams-url.png)
+   ![Скопируйте URL-адрес Business Central из браузера](media/teams-url-v2.png)
 4. Перейдите в Teams и начните разговор, который может быть чатом с человеком, группой людей или групповым каналом.
 
     <!--Teams imposes a few limitations here eg. you cannot unfurl a link during a Voice/Video call :/ We should probably only mention this in a Troubleshooting section (and i hope it will also be fixed soon)-->
-5. Вставьте URL-адрес в поле, в которое вы добавляете сообщение.
+5. Вставьте URL-адрес в поле сообщение, в которое вы составляете сообщение.
 
-   ![Вставьте URL-адрес Business Central в Teams](media/teams-paste-url.png)
-6. Когда вы впервые вставите ссылку в беседу, вам будет предложено войти в [!INCLUDE [prodshort](includes/prodshort.md)] и дать согласие на получение данных приложением. Просто следуйте инструкциям на экране.
+   ![Вставьте URL-адрес Business Central в Teams](media/teams-paste-url-v2.png)
+6. Когда вы впервые вставите ссылку в беседу, вам будет предложено войти в [!INCLUDE [prod_short](includes/prod_short.md)] и дать согласие на получение данных приложением. Просто следуйте инструкциям на экране.
 
     > [!NOTE]
     > Вам нужно выполнить этот шаг только один раз.
@@ -77,18 +70,27 @@ ms.locfileid: "3989429"
     > [!TIP]
     > После появления карточки и до того, как вы выберете **Отправить**, вы можете удалить вставленный URL-адрес, если хотите.
 
-10. Чтобы просмотреть дополнительные сведения или внести изменения в запись, выберите **Подробнее**.
+10. Чтобы просмотреть дополнительные сведения или внести изменения в запись, отображаемую на карточке, выберите **Подробнее**. Дополнительные сведения см. в следующем разделе.
 
-    Страница сведений похожа на то, что вы бы видели в [!INCLUDE [prodshort](includes/prodshort.md)]. Но для Teams версия немного урезана. Когда вы закончите просмотр и внесите изменения, закройте окно, чтобы вернуться к беседе Teams.
+## <a name="view-card-details"></a>Просмотр сведений карточки
 
-    > [!NOTE]
-    > Любые внесенные вами изменения не будут отражены в карточке до тех пор, пока вы в следующий раз не вставите ссылку на нее в беседу.
+После отправки карточки в беседу все участники с [надлежащими разрешениями](admin-teams-integration.md#permissions) могут выбрать **Детали**, чтобы открыть окно, в котором отображается дополнительная информация о записи &mdash; и, возможно, внести изменения в запись. Неважно, отправляете ли вы карточку или получаете ее. Функция **Детали** особенно полезна для получателей, поскольку она быстро предоставляет им краткую и целевую информацию о записи, в отличие от необходимости сканировать всю запись.
+
+Окно сведений похоже на то, что вы бы видели в записи [!INCLUDE [prod_short](includes/prod_short.md)]. Но для Teams версия немного урезана. Когда вы закончите просмотр и внесите изменения, закройте окно, чтобы вернуться к беседе Teams.
+
+При работе с данными карточки следует помнить о нескольких вещах:
+
+- Чтобы открыть сведения о карточке, пользователи должны иметь разрешение на странице и ее данных в [!INCLUDE [prod_short](includes/prod_short.md)].
+- Карточки в чатах Teams не обновляются автоматически при внесении изменений. Любые изменения, которые вы сохраняете в записи в окне сведений, сохраняются в [!INCLUDE [prod_short](includes/prod_short.md)]. Но карточка в Teams не будет отображать изменения в преобразовании, пока вы снова не вставите ссылку.
+
+Подробнее о работе с карточками и сведениях о карточках см. в разделе [Вопросы и ответы по Teams](teams-faq.md).
 
 ## <a name="see-also"></a>См. также
 
 [Обзор интеграции Business Central и Microsoft Teams](across-teams-overview.md)  
-[Установите приложение [!INCLUDE [prodshort](includes/prodshort.md)] для Microsoft Teams](across-install-app-for-teams.md)  
+[Установка приложения [!INCLUDE [prod_short](includes/prod_short.md)] для Microsoft Teams](across-install-app-for-teams.md)  
+[Вопросы и ответы по Teams](teams-faq.md)  
+[Устранение неполадок Teams](admin-teams-troubleshooting.md)  
 [Разработка для интеграции Teams](/dynamics365/business-central/dev-itpro/developer/devenv-develop-for-teams)  
-[Приступая к работе](product-get-started.md)  
 
-## [!INCLUDE[d365fin](includes/free_trial_md.md)]  
+## [!INCLUDE[prod_short](includes/free_trial_md.md)]  

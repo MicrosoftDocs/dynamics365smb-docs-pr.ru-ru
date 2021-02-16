@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: customize, personalize, personalization, hide columns, remove fields, move fields, resize column, change column width
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 8b29f96f37448c2ca6eb02330946171adb5f04b9
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 4b112bf05c1bbc6110ce3b5a439c81a96759d1bf
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3925576"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4756771"
 ---
 # <a name="personalize-your-workspace"></a>Персонализация рабочей области
 Вы можете персонализировать свою рабочую область в соответствии со вашей работой и предпочтениями, изменяя страницы, чтобы на них отображалась только требуемая информация в тех местах, в которых она нужна. Сделанная вами персонализация изменяет только то, что видите вы, а не то, что видят другие пользователи.
@@ -143,6 +143,6 @@ ms.locfileid: "3925576"
 
 ## <a name="see-also"></a>См. также
 [Настройка страниц для профилей](ui-personalization-manage.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 [Изменение базовых настроек](ui-change-basic-settings.md)  
 [Изменение набора отображаемых функций](ui-experiences.md)  

@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: fe5261a2253659480aabe36a6fff1586bd4478c5
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 11113ceaa153ea7e3c9a4ea36b8eddba8235f28f
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3911800"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4759871"
 ---
 # <a name="create-bins"></a>Создание ячеек
 Наиболее эффективным способом создания ячеек склада является генерация групп одинаковых ячеек в журнале создания ячеек, но ячейки также можно создавать по отдельности из карточки склада. Можно также использовать функцию на странице **Журнал создания ячеек** для автоматического создания ячеек.  
@@ -76,4 +76,4 @@ ms.locfileid: "3911800"
 [Настройка управления складом](warehouse-setup-warehouse.md)     
 [Управление сборкой](assembly-assemble-items.md)    
 [Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

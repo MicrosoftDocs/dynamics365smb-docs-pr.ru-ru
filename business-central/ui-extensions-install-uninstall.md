@@ -11,16 +11,16 @@ ms.workload: na
 ms.search.keywords: app, add-in, manifest, customize, install, uninstall
 ms.date: 10/01/2020
 ms.author: solsen
-ms.openlocfilehash: a0e62b60f9624cad44efa7fd42c5840a2ecd07b5
-ms.sourcegitcommit: aea079b66e35c447bf31a11ffc2069cfdaf2ef38
+ms.openlocfilehash: bcd7a60f9e8fd6739a3d09f5aa1b3e6819e3ccc3
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/08/2020
-ms.locfileid: "3970364"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4757547"
 ---
 # <a name="installing-and-uninstalling-extensions-in-business-central"></a>Установка и удаление расширений в Business Central
 
-Вы можете изменить [!INCLUDE[d365fin](includes/d365fin_md.md)] за счет установки расширений, которые, например, добавляют функциональность, изменяют поведение или предоставляют доступ к новым интернет-службам. Дополнительные сведения см. в разделе [Настройка Business Central с помощью расширений](ui-extensions.md).
+Вы можете изменить [!INCLUDE[prod_short](includes/prod_short.md)] за счет установки расширений, которые, например, добавляют функциональность, изменяют поведение или предоставляют доступ к новым интернет-службам. Дополнительные сведения см. в разделе [Настройка Business Central с помощью расширений](ui-extensions.md).
 
 > [!NOTE]
 > Чтобы установить расширения из AppSource или добавить расширения для каждого арендатора, у вас должны быть соответствующие разрешения. Вы должны быть либо участником группы пользователей D365 EXTENSION MGMT, либо у вас должен быть установлен набор разрешений D365 EXTENSION MGMT. Если вы являетесь администратором, вы можете назначать группы пользователей и разрешения другим пользователям в вашей компании.<br /><br />
@@ -30,16 +30,16 @@ ms.locfileid: "3970364"
 
 Управление расширениями осуществляется на странице **Управление расширениями**. Эта страница доступна с начальной страницы. Также можно выбрать значок **Поиск страницы или отчета** ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать") в правом верхнем углу, ввести **Расширение**, а затем выбрать соответствующую ссылку.  
 
-Новые расширения можно получить из магазина по адресу [AppSource.microsoft.com](https://go.microsoft.com/fwlink/?linkid=2081646). Здесь отображаются все доступные расширения для [!INCLUDE[d365fin](includes/d365fin_md.md)], и можно получить приложения, расширения и пакеты содержимого для других продуктов Майкрософт. Установите соответствующие фильтры, просмотрите информацию для каждого расширения и получите расширение для [!INCLUDE[d365fin](includes/d365fin_md.md)].  
+Новые расширения можно получить из магазина по адресу [AppSource.microsoft.com](https://go.microsoft.com/fwlink/?linkid=2081646). Здесь отображаются все доступные расширения для [!INCLUDE[prod_short](includes/prod_short.md)], и можно получить приложения, расширения и пакеты содержимого для других продуктов Майкрософт. Установите соответствующие фильтры, просмотрите информацию для каждого расширения и получите расширение для [!INCLUDE[prod_short](includes/prod_short.md)].  
 
 > [!NOTE]  
-> Войдите на сайт [AppSource.microsoft.com](https://appsource.microsoft.com/), используя учетную запись электронной почты, которая используется для [!INCLUDE[d365fin](includes/d365fin_md.md)]. Для удобства используйте эту же учетную запись для других служб и продуктов.  
+> Войдите на сайт [AppSource.microsoft.com](https://appsource.microsoft.com/), используя учетную запись электронной почты, которая используется для [!INCLUDE[prod_short](includes/prod_short.md)]. Для удобства используйте эту же учетную запись для других служб и продуктов.  
 
-Можно также перейти в магазин из [!INCLUDE[d365fin](includes/d365fin_md.md)]. На странице **Управление расширениями** отображаются все текущие установленные расширения, и можно открыть страницу **Магазин расширений**, на которой отображаются расширения для [!INCLUDE[d365fin](includes/d365fin_md.md)], доступные на данный момент на сайте AppSource. Если выбрать ссылку *Еще приложения*, производится переход на сайт [AppSource.microsoft.com](https://go.microsoft.com/fwlink/?linkid=2081646).  
+Можно также перейти в магазин из [!INCLUDE[prod_short](includes/prod_short.md)]. На странице **Управление расширениями** отображаются все текущие установленные расширения, и можно открыть страницу **Магазин расширений**, на которой отображаются расширения для [!INCLUDE[prod_short](includes/prod_short.md)], доступные на данный момент на сайте AppSource. Если выбрать ссылку *Еще приложения*, производится переход на сайт [AppSource.microsoft.com](https://go.microsoft.com/fwlink/?linkid=2081646).  
 
-Если вы выберите расширение, вы можете прочитать о его возможностях и открыть справку по расширению для получения более подробной информации. Если вы хотите получить расширение, необходимо согласиться с условиями использования. Если вы получили расширение с веб-сайта AppSource, для завершения установки выполняется вход в [!INCLUDE[d365fin](includes/d365fin_md.md)].  
+Если вы выберите расширение, вы можете прочитать о его возможностях и открыть справку по расширению для получения более подробной информации. Если вы хотите получить расширение, необходимо согласиться с условиями использования. Если вы получили расширение с веб-сайта AppSource, для завершения установки выполняется вход в [!INCLUDE[prod_short](includes/prod_short.md)].  
 
-При установке расширения может потребоваться настроить его, например указать учетную запись для использования расширения **PayPal Payments Standard для [!INCLUDE[d365fin](includes/d365fin_md.md)]**.
+При установке расширения может потребоваться настроить его, например указать учетную запись для использования расширения **PayPal Payments Standard для [!INCLUDE[prod_short](includes/prod_short.md)]**.
 Другие расширения просто добавляют поля на существующую страницу или добавляют новую страницу.
 
 Если вы удалили расширение, а потом передумали, вы можете снова установить его. При удалении расширения, которое вы использовали, данные сохраняются, чтобы вы могли установить его снова и данные были по-прежнему доступны. Некоторые расширения являются обязательными. Удалить эти расширения со страницы **Управление расширениями** нельзя. Если вы попытаетесь это сделать, появится сообщение об ошибке.
@@ -69,7 +69,7 @@ ms.locfileid: "3970364"
 * [DK — Миграция данных C5](ui-extensions-c5-data-migration.md)
 * [DK — Платежи и выверки](ui-extensions-payments-reconciliation-formats-dk.md)
 * [DK — Форматы налоговой документации](ui-extensions-tax-file-formats-dk.md)
-* [UK — Почтовые индексы Великобритании GetAddress.io](ui-extensions-getaddressio.md)
+* [Расширение "Почтовые индексы Великобритании GetAddress.io"](LocalFunctionality/UnitedKingdom/ui-extensions-getaddressio.md)  
 * [US/CA/UK/AU/NZ/ZA — Отправить авизо](ui-extensions-send-remittance-advice.md)
 
 ## <a name="uninstalling-an-extension"></a>Удаление расширения
@@ -82,13 +82,13 @@ ms.locfileid: "3970364"
 
 ## <a name="see-also"></a>См. также
 
-[Расширение Dynamics 365 Business Central](about-develop-extensions.md)  
+[Настройка Business Central](ui-customizing-overview.md)  
 [Расширения для Business Central от других поставщиков](ui-extensions-other.md)  
 [Настройка службы Envestnet Yodlee Bank Feeds](bank-how-setup-bank-statement-service.md)  
 [Включение платежей клиентов через PayPal](sales-how-enable-payment-service-extensions.md)  
 [Миграция бизнес-данных из других финансовых систем](across-import-data-configuration-packages.md)  
 [Настройка расширения "Почтовые индексы Великобритании GetAddress.io"](LocalFunctionality/UnitedKingdom/uk-setup-postal-code-service.md)  
-[Расширения [!INCLUDE[d365fin](includes/d365fin_md.md)] от других поставщиков](ui-extensions-other.md)  
+[Расширения [!INCLUDE[prod_short](includes/prod_short.md)] от других поставщиков](ui-extensions-other.md)  
 [Приступая к работе](product-get-started.md)  
 
-## [!INCLUDE[d365fin](includes/free_trial_md.md)]  
+## [!INCLUDE[prod_short](includes/free_trial_md.md)]  

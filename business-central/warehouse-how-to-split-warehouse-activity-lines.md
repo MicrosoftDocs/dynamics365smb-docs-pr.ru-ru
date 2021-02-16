@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 8a9fef52a67072e15f611162c0c038d92ebd4ff0
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 7c2889c3b051ed20c07f474fd4ff47fdac60aa2d
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3914714"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4755896"
 ---
 # <a name="split-warehouse-activity-lines"></a>Разделение строк складских заданий
 При проведении складских размещений, передвижений или подборов, а также товарных размещений и подборов предлагаются ячейки для подбора и размещения товаров. В предлагаемой ячейке недостаточное количество товара или недостаточно места для размещения требуемого количества. В таком случае необходимо разделить строку так, чтобы товары из одной строки брались из нескольких ячеек или помещались в несколько ячеек.  
@@ -37,4 +37,4 @@ ms.locfileid: "3914714"
 [Настройка управления складом](warehouse-setup-warehouse.md)     
 [Управление сборкой](assembly-assemble-items.md)    
 [Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

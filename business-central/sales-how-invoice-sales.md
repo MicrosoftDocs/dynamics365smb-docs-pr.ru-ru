@@ -1,5 +1,5 @@
 ---
-title: Создание счета продажи или заказа на продажу | Документация Майкрософт
+title: Создание счета продажи или заказа на продажу
 description: Описывается порядок создания справки-счета или счета продажи или заказа на продажу для записи вашего соглашения с клиентом на продажу продукции на определенных условиях.
 author: SorenGP
 ms.service: dynamics365-business-central
@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: bill, sale, invoice, order
-ms.date: 10/01/2020
+ms.date: 01/21/2021
 ms.author: edupont
-ms.openlocfilehash: 2613a328ad1274a690d3d394fef054527e5a75de
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: b417ed7a4ef520ab652a66ac6f961c7c2f1a970e
+ms.sourcegitcommit: adf1a87a677b8197c68bb28c44b7a58250d6fc51
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3926226"
+ms.lasthandoff: 01/21/2021
+ms.locfileid: "5035410"
 ---
 # <a name="invoice-sales"></a>Выставление счетов продажи
 
@@ -94,6 +94,10 @@ ms.locfileid: "3926226"
 
 Связанные операции книги товаров и клиентов будут созданы в вашей системе, а счет продажи сформирован в виде PDF-документа. Счет продажи удаляется из списка счетов продажи и заменяется новым документом в списке учтенных счетов продажи.  
 
+### <a name="calculating-invoice-discounts-on-sales"></a>Расчет скидок счета по продажам
+
+[!INCLUDE [sales-invoice-discounts](includes/sales-invoice-discounts.md)]
+
 ## <a name="registering-payments"></a>Регистрация платежей
 
 В зависимости от потребностей бизнеса можно получать платежи и регистрировать эту оплату различными способами: вручную, автоматически и с помощью службы платежей.  
@@ -106,13 +110,18 @@ ms.locfileid: "3926226"
 
 Можно даже создавать счета с прямой оплатой для незарегистрированных клиентов, сначала настроив карточку клиента, оплачивающего наличными, которая указывается в счете продажи. Дополнительные сведения см. в разделе [Настройка клиентов, оплачивающих наличными](finance-how-to-set-up-cash-customers.md).  
 
+> [!TIP]
+> Если вы хотите отправлять своим клиентам напоминания о просроченных платежах, вы должны настроить уровни и условия напоминаний. Дополнительные сведения см. в разделе [Настройка условий и уровней напоминаний](finance-setup-reminders.md).  
+
 ## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/invoicing-customers-dynamics-365-business-central/index)
 
 ## <a name="see-also"></a>См. также
+
 [Продажи](sales-manage-sales.md)  
 [Настройка продаж](sales-setup-sales.md)  
 [Печать сборочного листа](sales-how-print-picking-list.md)  
 [Запасы](inventory-manage-inventory.md)  
 [Отправка документов по электронной почте](ui-how-send-documents-email.md)  
+[Сбор непогашенных остатков задолженности](receivables-collect-outstanding-balances.md)  
 [Массовое выставление счетов из Microsoft Bookings в Business Central](finance-bookings.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

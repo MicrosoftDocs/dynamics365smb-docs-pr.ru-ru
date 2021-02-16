@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: c71184f1894fb5503211b87595744e52c361862d
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: b3656ff58273999a1059392795914b5926835c57
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3920326"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4756271"
 ---
 # <a name="find-your-warehouse-assignments"></a>Поиск складских назначений
 Чтобы найти складские назначения, откройте страницу карточки для выбранного товара. Если складские инструкции созданы, то строки «Взять» и «Поместить» будут видимыми, и можно приступать к работе над назначением. На некоторых складах менеджер может назначить специальные инструкции для каждого работника. Дополнительные сведения см. в разделе [Настройка работников склада](warehouse-how-to-set-up-warehouse-employees.md).
@@ -36,4 +36,4 @@ ms.locfileid: "3920326"
 [Настройка управления складом](warehouse-setup-warehouse.md)     
 [Управление сборкой](assembly-assemble-items.md)    
 [Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md) 
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md) 

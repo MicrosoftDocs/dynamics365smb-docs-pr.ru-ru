@@ -1,6 +1,6 @@
 ---
-title: Локальная функциональность в Business Central | Документация Майкрософт
-description: Узнайте о локальной доступности и соответствии нормативным требованиям приложения Dynamics 365 Business Central.
+title: Локальная функциональность в Business Central
+description: Узнайте о доступности Business Central в регионах и соответствии нормативным требованиям в тех странах, где Microsoft предоставляет локальные функции.
 author: edupont04
 ms.service: dynamics365-business-central
 ms.topic: conceptual
@@ -10,16 +10,16 @@ ms.workload: na
 ms.search.keywords: availability, localization
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: b7e6aeb4db5e189bf8f985b55cf226c94a9aa1de
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: cce4a885fd4b183149e2d072daf556bdbe0e5fca
+ms.sourcegitcommit: 1c9eec7554305603d688bf85ce3986d0b1f72ede
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3914522"
+ms.lasthandoff: 01/26/2021
+ms.locfileid: "5068412"
 ---
-# <a name="local-functionality-in-prodlong"></a>Локальная функциональность в [!INCLUDE[prodlong](includes/prodlong.md)]
+# <a name="local-functionality-in-prod_long"></a>Локальная функциональность в [!INCLUDE[prod_long](includes/prod_long.md)]
 
-[!INCLUDE[d365fin](includes/d365fin_md.md)] предлагает стратегию объединенной локализации, включая модели под управлением Майкрософт и партнеров. В этом разделе представлены описания функций, применимых к странам, в которых корпорация Майкрософт обеспечивает соблюдение нормативных требований, и других локальных функций.  
+[!INCLUDE[prod_short](includes/prod_short.md)] предлагает стратегию объединенной локализации, включая модели под управлением Майкрософт и партнеров. В этом разделе представлены описания функций, применимых к странам, в которых корпорация Майкрософт обеспечивает соблюдение нормативных требований, и других локальных функций.  
 
 Список поддерживаемых в настоящее время рынков см. в разделе [Наличие в странах/регионах и поддерживаемые переводы](/dynamics365/business-central/dev-itpro/compliance/apptest-countries-and-translations?toc=/dynamics365/business-central/toc.json),  
 
@@ -55,7 +55,7 @@ ms.locfileid: "3914522"
 
 ### <a name="other-countries"></a>Другие страны
 
-[!INCLUDE[d365fin](includes/d365fin_md.md)] также доступно в других странах в виде локализованных приложений. Если партнер Майкрософт разработал локализованное приложение для вашей страны/региона, его можно найти в [AppSource](https://go.microsoft.com/fwlink/?linkid=2081646).
+[!INCLUDE[prod_short](includes/prod_short.md)] также доступно в других странах в виде локализованных приложений. Если партнер Майкрософт разработал локализованное приложение для вашей страны/региона, его можно найти в [AppSource](https://go.microsoft.com/fwlink/?linkid=2081646).
 
 ## <a name="see-also"></a>См. также
 

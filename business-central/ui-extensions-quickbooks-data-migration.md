@@ -10,16 +10,16 @@ ms.workload: na
 ms. search.keywords: app, add-in, manifest, customize, import, implement
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 34acbbf383048c6ef411797dfb1afcb51f7f6b40
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 36b6eb6970daef6ea2e3aafc28ed232942707728
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3912275"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4757121"
 ---
 # <a name="the-quickbooks-data-migration-extension"></a>Расширение для миграции данных QuickBooks
 
-Это расширение облегчает миграцию клиентов, поставщиков, товаров и счетов из QuickBooks в [!INCLUDE[d365fin](includes/d365fin_md.md)]. Если сейчас ваша компания использует QuickBooks, вы можете экспортировать требуемую информацию, а затем открыть руководство по сопровождаемой настройке, чтобы загрузить данные в [!INCLUDE[d365fin](includes/d365fin_md.md)].  
+Это расширение облегчает миграцию клиентов, поставщиков, товаров и счетов из QuickBooks в [!INCLUDE[prod_short](includes/prod_short.md)]. Если сейчас ваша компания использует QuickBooks, вы можете экспортировать требуемую информацию, а затем открыть руководство по сопровождаемой настройке, чтобы загрузить данные в [!INCLUDE[prod_short](includes/prod_short.md)].  
 Дополнительные сведения см. в разделе [Импорт бизнес-данных из других финансовых систем](across-import-data-configuration-packages.md).
 
 ## <a name="data-from-quickbooks-desktop"></a>Данные из QuickBooks Desktop
@@ -50,7 +50,7 @@ ms.locfileid: "3912275"
 Business Central требует, чтобы счетам главной книги были назначены номера. Убедитесь, что номера счетов назначены в QuickBooks.
 Если транзакции в QuickBooks содержат суммы налога, необходимо настроить налоговый счет в налоговых юрисдикциях в Business Central, прежде чем вы сможете учитывать транзакции.
 
-Чтобы получить данные из приложения QuickBooks Desktop, необходимо загрузить средство экспорта данных Microsoft.  Инструкции для этого средства приведены в мастере миграции данных в [!INCLUDE[d365fin](includes/d365fin_md.md)]. Средство подключится к вашему приложению QuickBooks и экспортирует соответствующие данные в виде файла ZIP.  
+Чтобы получить данные из приложения QuickBooks Desktop, необходимо загрузить средство экспорта данных Microsoft.  Инструкции для этого средства приведены в мастере миграции данных в [!INCLUDE[prod_short](includes/prod_short.md)]. Средство подключится к вашему приложению QuickBooks и экспортирует соответствующие данные в виде файла ZIP.  
 
 > [!NOTE]
 > В данный момент средство экспорта данных можно использовать только с QuickBooks 2017 и 2018.
@@ -69,4 +69,4 @@ Business Central требует, чтобы счетам главной книг
 ## <a name="see-also"></a>См. также
 
 [Импорт бизнес-данных из других финансовых систем](across-import-data-configuration-packages.md)  
-[Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью расширений](ui-extensions.md)  
+[Настройка [!INCLUDE[prod_short](includes/prod_short.md)] с помощью расширений](ui-extensions.md)  

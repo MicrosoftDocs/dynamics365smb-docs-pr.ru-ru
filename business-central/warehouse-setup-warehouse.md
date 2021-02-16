@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 94c793441d413820f3dd752179c0268147fc2f8f
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: c96691ada97f0ee91b53d9cde303c2413e99025e
+ms.sourcegitcommit: 32bfc2acaaf3693afc9aeb86feea505fd328caa1
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3920224"
+ms.lasthandoff: 01/19/2021
+ms.locfileid: "5024391"
 ---
 # <a name="setting-up-warehouse-management"></a>Настройка управления складом
 Стратегия распределения организации отражена в настройке ее складских процессов. Сюда входит определение того, как различные товары обрабатываются на различных складах, например уровень управления ячейками, а также объем рабочего процесса, необходимого для складских действий.  
@@ -40,10 +40,11 @@ ms.locfileid: "3920224"
 |Настроить склад на автоматическое предложение товаров при подборе в порядке истечения срока их хранения, при этом товары с ближайшим сроком предлагаются первыми.|[Включение подбора по методу FEFO](warehouse-picking-by-fefo.md)|
 |Получить подсказки по реорганизации складов, ячеек или зон для улучшения эффективности складских действий.|[Изменение структуры складов](warehouse-how-to-restructure-warehouses.md)|
 |Интегрировать устройства чтения штрих-кода в решение управления складом. Только для локальных развертываний.|[Использование автоматизированных систем сбора данных (ADCS)](warehouse-use-automated-data-capture-systems-adcs.md)|
+|Укажите отчеты по умолчанию, которые будут использоваться для различных типов документов.|[Выбор отчета в Business Central](across-report-selections.md)|
 
 ## <a name="see-also"></a>См. также  
 [Управление складом](warehouse-manage-warehouse.md)  
-[Наличие](inventory-manage-inventory.md)  
+[Запасы](inventory-manage-inventory.md)  
 [Управление сборкой](assembly-assemble-items.md)    
 [Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

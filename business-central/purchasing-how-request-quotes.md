@@ -11,12 +11,12 @@ ms.workload: na
 ms.search.keywords: rfq
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 34a063feaeaef390c9eee8023d42a912a29582f8
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: cff54e778beb1bb08342835419998242eed4adf3
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3918905"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4758471"
 ---
 # <a name="request-quotes"></a>Запрос предложений
 Предложение по покупке может использоваться в качестве предварительного предложения по заказу на покупку, а заказ затем может быть преобразован в счет или заказ на покупку.
@@ -37,4 +37,4 @@ ms.locfileid: "3918905"
 [Покупки](purchasing-manage-purchasing.md)  
 [Настройка покупки](purchasing-setup-purchasing.md)  
 [Отправка документов по электронной почте](ui-how-send-documents-email.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

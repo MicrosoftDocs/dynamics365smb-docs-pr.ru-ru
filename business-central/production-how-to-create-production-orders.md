@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: f03bb162bc73d45068579a20bcdd90f632ede9de
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 76d4b69de41343815175a7acd4329bb47b889f5a
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3922748"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4759372"
 ---
 # <a name="create-production-order-headers"></a>Создание заголовков производственных заказов
 Производственный заказ можно создать вручную. Для этого сначала необходимо создать заголовок производственного заказа.
@@ -42,4 +42,4 @@ ms.locfileid: "3922748"
 [Планирование](production-planning.md)      
 [Запасы](inventory-manage-inventory.md)  
 [Покупки](purchasing-manage-purchasing.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

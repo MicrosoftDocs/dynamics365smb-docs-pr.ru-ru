@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 67a6e963800bf5f0ce8e1a293463d53b51470ee5
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: a210792a187bde0217917659f118c58a6a135df2
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3914789"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4756545"
 ---
 # <a name="walkthrough-making-cash-flow-forecasts-by-using-account-schedules"></a>Пошаговое руководство: создание прогнозов движения денежных средств с использованием финансовых отчетов
 В этом пошаговом руководстве описывается использование финансовых отчетов для создания прогнозов движения денежных средств. Финансовые отчеты выполняют расчеты, которые невозможно выполнить непосредственно в диаграмме счетов движения денежных средств. В финансовых отчетах можно настроить промежуточные итоги для приема и распределения движения денежных средств. Эти подытоги могут включаться в новые итоговые значения, которые затем можно использовать при создании прогнозов движения денежных средств.  
@@ -32,7 +32,7 @@ ms.locfileid: "3914789"
 ### <a name="prerequisites"></a>Предварительные требования  
 Для выполнения данного пошагового руководства необходимо выполнить следующие действия.  
 
-- Установлен [!INCLUDE[d365fin](includes/d365fin_md.md)].  
+- Установлен [!INCLUDE[prod_short](includes/prod_short.md)].  
 - Строки журнала движения денежных средств регистрируются.  
 
 ## <a name="roles"></a>Роли  
@@ -89,4 +89,4 @@ ms.locfileid: "3914789"
 ## <a name="see-also"></a>См. также  
  [Работа с финансовыми отчетами](bi-how-work-account-schedule.md)   
  [Пошаговые описания бизнес-процессов](walkthrough-business-process-walkthroughs.md)  
- [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+ [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

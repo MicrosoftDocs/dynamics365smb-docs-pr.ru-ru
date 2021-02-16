@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 3e79957c7e9106b4f67c3d4c7b6ac58703e8eb2f
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 2831471be76e776966a533c428a5698307826b1c
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3918267"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4756096"
 ---
 # <a name="put-items-away-with-inventory-put-aways"></a>Размещение товаров с помощью складского размещения
 Если настройки склада таковы, что требуется обработка размещения, но не требуется обработка приемки, то, чтобы зарегистрировать и учесть информацию о размещении и приемке для документов-источников, нужно пользоваться документом **Размещение запасов**. Входящим документом-источником может быть заказ покупки, заказ возврата продажи, входящий заказ передвижения, заказ на сборку или производственный заказ, готовая продукция которого готова для размещения.  
@@ -77,4 +77,4 @@ ms.locfileid: "3918267"
 [Настройка управления складом](warehouse-setup-warehouse.md)     
 [Управление сборкой](assembly-assemble-items.md)    
 [Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  

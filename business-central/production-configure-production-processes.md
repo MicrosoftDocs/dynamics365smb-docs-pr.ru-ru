@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 6888c3cd599b9c85f67615e7f090d72e8cf5fa23
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 29bb70d54c4e5bb1dbc366a8f566e8247f4117ef
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3915414"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4759446"
 ---
 # <a name="setting-up-manufacturing"></a>Настройка производства
 Чтобы преобразовать материалы в произведенные готовые товары, нужно настроить в системе такие производственные ресурсы, как спецификации, маршруты, операторы станков и механизмы.
@@ -46,4 +46,4 @@ ms.locfileid: "3915414"
 [Планирование](production-planning.md)   
 [Наличие](inventory-manage-inventory.md)  
 [Покупки](purchasing-manage-purchasing.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

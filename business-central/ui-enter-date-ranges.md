@@ -11,16 +11,16 @@ ms.workload: na
 ms.search.keywords: dates, reporting, filter, calendar, shorthand, range
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: f658764eafa6f9aa35e33cf8098ca77799fb1e0c
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 853a45dc32907c2d9b69f7b2e592dc164c20a094
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3912475"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4757371"
 ---
 # <a name="working-with-calendar-dates-and-times"></a>Работа с календарными датами и значениями времени
 
-[!INCLUDE[d365fin](includes/d365fin_long_md.md)] предлагает несколько способов ввода дат и времени, включая мощные функции, которые ускоряют ввод данных или помогают написать сложные выражения календаря. Имеются различные места в приложении, в которых можно ввести в полях даты и значения времени. Например, в заказе на продажу можно установить дату отгрузки. При фильтрации данных или подготовке отчета по данным можно ввести даты и время для выделения только данных, в которых вы заинтересованы.
+[!INCLUDE[prod_short](includes/prod_long.md)] предлагает несколько способов ввода дат и времени, включая мощные функции, которые ускоряют ввод данных или помогают написать сложные выражения календаря. Имеются различные места в приложении, в которых можно ввести в полях даты и значения времени. Например, в заказе на продажу можно установить дату отгрузки. При фильтрации данных или подготовке отчета по данным можно ввести даты и время для выделения только данных, в которых вы заинтересованы.
 
 ## <a name="check-your-region-and-language-settings"></a>Проверьте свои настройки региона и языка
 На странице **Мои настройки** указаны **Регион** и **Язык**, которые вы используете в приложении. Данные настройки влияют на способ ввода дат и времени.
@@ -30,7 +30,7 @@ ms.locfileid: "3912475"
 -   Для шаблонов дат, включающих слова, используемый язык слов должен совпадать с настройкой **Язык**.
 
 > [!NOTE]
-> [!INCLUDE[d365fin](includes/d365fin_long_md.md)] использует Григорианскую систему календаря.
+> [!INCLUDE[prod_short](includes/prod_long.md)] использует Григорианскую систему календаря.
 
 <!--
 The following sections describe how you can enter dates, times, datetimes, durations, date ranges, and how you use date formulas.
@@ -217,7 +217,7 @@ You can also combine the various format types.
 |12 15 16&#124;12 01 16..05 31 17 | Entries posted either on December 15 2016 or on dates between and including December 01 2016 and May 31 2017. |
 |..12 14 16&#124;12 30 16.. | Entries posted on December 14 or earlier, or entries posted on December 30 or later - that is, all entries except those posted on dates between and including December 15 and 29. |
 
-Note that we have used the US date format MMDDYY here. As [!INCLUDE[d365fin](includes/d365fin_md.md)] becomes available in other markets, you'll be able to use the formats that you are used to.
+Note that we have used the US date format MMDDYY here. As [!INCLUDE[prod_short](includes/prod_short.md)] becomes available in other markets, you'll be able to use the formats that you are used to.
 
 ## Using Date Formulas
 A date formula is a short, abbreviated combination of letters and numbers that specifies how to calculate dates. You can enter date formulas in various date calculation fields and in recurring frequency fields in recurring journals.
@@ -312,7 +312,7 @@ The following example shows how you can use a minus sign to indicate a date in t
 
 Нельзя использовать 24:00 для полночи или использовать любое значение, большее 24:00.
 
-Слово "время" на языке, используемом [!INCLUDE[d365fin](includes/d365fin_long_md.md)], будет оценено как текущее время на компьютере или мобильном устройстве. Можно ввести любую часть слова, начиная с начала, например в или ВРЕМ.
+Слово "время" на языке, используемом [!INCLUDE[prod_short](includes/prod_long.md)], будет оценено как текущее время на компьютере или мобильном устройстве. Можно ввести любую часть слова, начиная с начала, например в или ВРЕМ.
 
 ## <a name="entering-combined-dates-and-times"></a>Ввода комбинированных дат и времени
 При вводе даты и времени, то есть даты и времени в одном поле, необходимо оставлять пробел между датой и временем. Часть даты может содержать только пробелы в форме официального разделителя дат настроек региона. Время может содержать пробелы вокруг индикатора AM/PM.
@@ -366,6 +366,6 @@ The following example shows how you can use a minus sign to indicate a date in t
 Например, если по умолчанию используются часы, число 5 будет преобразовано в 5 часов.
 
 ## <a name="see-also"></a>См. также
-[Работа с [!INCLUDE[d365fin](includes/d365fin_long_md.md)]](ui-work-product.md)  
+[Работа с [!INCLUDE[prod_short](includes/prod_long.md)]](ui-work-product.md)  
 [Расчет даты для покупок](purchasing-date-calculation-for-purchases.md)  
 [Ввод критериев в фильтрах](ui-enter-criteria-filters.md)  

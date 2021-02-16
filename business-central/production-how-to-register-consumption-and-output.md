@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 504cc43ee29afd55deb5f51ca85d93eb7908d7d7
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 298fd165e03709d6ea6a34291efe5d04ecb74aba
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3919092"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4759096"
 ---
 # <a name="register-consumption-and-output-for-one-released-production-order-line"></a>Регистрация потребления и выхода для одной строки запущенного производственного заказа
 Эта задача выполняется на странице **Производственный журнал**. В журнале объединены функции отдельных журналов потребления и журналов выхода продукции. Открыть комбинированный журнал можно непосредственно из окна запущенного производственного заказа. Его основное назначение — ручной учет потребления компонентов, количества приобретенных конечных товаров и времени, затраченного на операции. Значения учитываются операциях книги для запущенного производственного заказа. Потребленные количества учитываются в виде отрицательных операций книги товаров, выходные количества учитываются как положительные операции книги товаров, а затраты времени учитываются как операции книги производственных мощностей. Такие учтенные значения можно также просматривать в нижней части журнала как фактические количества.  
@@ -70,4 +70,4 @@ ms.locfileid: "3919092"
 [Планирование](production-planning.md)      
 [Запасы](inventory-manage-inventory.md)  
 [Покупки](purchasing-manage-purchasing.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

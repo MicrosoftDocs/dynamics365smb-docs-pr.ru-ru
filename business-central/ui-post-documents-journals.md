@@ -11,17 +11,17 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 2ffba43c94a02a8bf31a09f4705b0f24312e3c17
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 1a378d4b5a93d1397512739cce898fe7566707c8
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3912050"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4760396"
 ---
 # <a name="posting-documents-and-journals"></a>Учет документов и журналов
 Учет представляет бухгалтерское действие по записи бизнес-транзакций в различных книгах организации.
 
-Практически в каждом документе и журнале в [!INCLUDE[d365fin](includes/d365fin_md.md)] имеется группа **Учет**, в которой можно выбрать различные действия по учету, например **Учесть**, **Предварительный просмотр учета**, **Учесть и отправить**, **Учесть и отправить по эл. почте**.
+Практически в каждом документе и журнале в [!INCLUDE[prod_short](includes/prod_short.md)] имеется группа **Учет**, в которой можно выбрать различные действия по учету, например **Учесть**, **Предварительный просмотр учета**, **Учесть и отправить**, **Учесть и отправить по эл. почте**.
 
 В следующей таблице описаны связанные задачи со ссылками на разделы, в которых они описываются.
 
@@ -37,4 +37,4 @@ ms.locfileid: "3912050"
 ## <a name="see-also"></a>См. также
 [Изменение учтенных документов](across-edit-posted-document.md)  
 [Общие бизнес-функции](ui-across-business-areas.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

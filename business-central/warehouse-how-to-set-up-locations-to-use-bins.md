@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 772463e291403bac66ea08089f993909616f1b76
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 3d4dbe699877715416795a943f461bf5dde244be
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3920301"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4755971"
 ---
 # <a name="set-up-locations-to-use-bins"></a>Настройка складов для использования ячеек
 Ячейки являются базовой складской структурой и используются для формирования предложений по размещению товаров. После создания ячеек можно четко определить содержимое для помещения в каждую ячейку; ячейка может также функционировать в качестве плавающей ячейки без определенного содержимого.  
@@ -49,4 +49,4 @@ ms.locfileid: "3920301"
 [Настройка управления складом](warehouse-setup-warehouse.md)     
 [Управление сборкой](assembly-assemble-items.md)    
 [Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

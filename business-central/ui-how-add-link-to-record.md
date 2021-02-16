@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 447012a66e75e1acf03f2aff1ba6b6922164312f
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 0d13ffa03e4a123158e2f350ff9eab5e274741b5
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3918567"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4760571"
 ---
 # <a name="manage-attachments-links-and-notes-on-cards-and-documents"></a>Управление вложениями, ссылками и заметками в карточках и документах
 
@@ -29,7 +29,7 @@ ms.locfileid: "3918567"
 > Когда вы делаете частичную откгрузку и выставляете счет по заказу на продажу или покупку, вложение добавляется только к окончательному счету по этому заказу. Аналогичным образом, когда вы выставляете счет с использованием функции отсрочки, вложение прикрепляется только к операциям ГК для документа, но не к записям расходов будущих периодов.
 
 ## <a name="to-attach-a-file-to-a-purchase-invoice"></a>Прикрепление файла к счету покупки
-К карточке или документу можно прикрепить файл любого типа, содержащий текст, изображение или видео. Это удобно делать, например, когда вы хотите сохранить счет поставщика в виде файла PDF в соответствующем счете покупки в [!INCLUDE[d365fin](includes/d365fin_md.md)].
+К карточке или документу можно прикрепить файл любого типа, содержащий текст, изображение или видео. Это удобно делать, например, когда вы хотите сохранить счет поставщика в виде файла PDF в соответствующем счете покупки в [!INCLUDE[prod_short](includes/prod_short.md)].
 
 > [!NOTE]
 > Файлы, прикрепленные с помощью функции "Входящие документы", на вкладке **Вложения** не отображаются. Дополнительные сведения см. в разделе [Входящие документы](across-income-documents.md).
@@ -95,6 +95,6 @@ PDF-файл с текущим содержимым заказа на прода
 Заметка прикреплена к заказу на продажу.
 
 ## <a name="see-also"></a>См. также  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 [Входящие документы](across-income-documents.md)  
 [Настройка уведомлений рабочего процесса](across-setting-up-workflow-notifications.md)  

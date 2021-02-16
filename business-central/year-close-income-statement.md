@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: year closing, close accounting period, close fiscal year, bank account detailed trial balance
 ms.date: 10/01/2020
 ms.author: jswymer
-ms.openlocfilehash: a07e490b51d882e3699e0c37f23aadda8a38ca8a
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: d221e0960eb49ba018ae34f73f2360a502465d61
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3914689"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4755596"
 ---
 # <a name="close-income-statement-accounts"></a>Закрытие счетов отчета о прибылях и убытках
 При завершении финансового года следует завершить периоды, которые его образуют. Для этого выполните пакетное задание **Закрытие отчета о прибылях и убытках**. Это задание переносит результат года на балансовый счет и закрывает счета отчета о прибылях и убытках. Это осуществляется путем создания строк в журнале, который затем можно учесть.
@@ -39,4 +39,4 @@ ms.locfileid: "3914689"
 [Закрытие книг](year-close-books.md)  
 [Учет операции закрытия года](year-how-post-year-end-close-entry.md)  
 [Работа с учетными периодами и финансовыми годами](finance-accounting-periods-and-fiscal-years.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

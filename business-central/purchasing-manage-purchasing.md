@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: procurement, supply, vendor order
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 171c8877ca305d77250b7b8846004673616cd1e6
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 040bbc430d0f052bfafaac2ecdca6d4a6aa75669
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3918771"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4758371"
 ---
 # <a name="purchasing"></a>Закупки
 Счет покупки или заказ на покупку создается для записи стоимости покупок и отслеживания кредиторской задолженности. Если требуется управлять запасами, счета покупки также используются для динамического обновления уровней запасов, чтобы уменьшить себестоимости запасов и обеспечить лучшее обслуживание клиентов. Расходы на покупку, включая затраты на обслуживание, и стоимость запасов, полученная из учета счетов покупки, составляют показатели прибыли и другие ключевые показатели эффективности финансовой деятельности в ролевом центре.
@@ -42,7 +42,7 @@ ms.locfileid: "3918771"
 | Создайте кредит-ноту покупки, чтобы отменить конкретный учтенный счет покупки для отражения продуктов, которые возвращаются поставщику, и собираемой суммы платежа. |[Обработка возвратов покупки или отмен](purchasing-how-register-new-vendors.md) |
 |Подготовка к выставлению одного счета по нескольким приходным накладным от одного поставщика путем объединения приходных накладных в одном счете.|[Объединение приходных накладных в один счет](purchasing-how-to-combine-receipts.md)|
 |Преобразование, например, электронных счетов от поставщиков в счета покупки в Business Central.|[Получение и преобразование электронных документов](purchasing-how-to-receive-and-convert-electronic-documents.md)|
-| Узнайте, как [!INCLUDE[d365fin](includes/d365fin_md.md)] рассчитывает, когда необходимо заказать товар для получения его в конкретную дату.|[Расчет даты для покупок](purchasing-date-calculation-for-purchases.md)|
+| Узнайте, как [!INCLUDE[prod_short](includes/prod_short.md)] рассчитывает, когда необходимо заказать товар для получения его в конкретную дату.|[Расчет даты для покупок](purchasing-date-calculation-for-purchases.md)|
 |Разрешение конфликта, когда две или более записей существуют для одного и того же поставщика.|[Объединение повторяющихся записей](sales-how-merge-duplicate-records.md)|
 |Управление обязательством перед поставщиком приобрести большой объем, доставляемый за несколько отгрузок в течение определенного периода времени.|[Работа с общими заказами на покупку](sales-how-to-create-blanket-sales-orders.md)|
 
@@ -53,7 +53,7 @@ ms.locfileid: "3918771"
 [Регистрация новых поставщиков](purchasing-how-register-new-vendors.md)  
 [Управление кредиторской задолженностью](payables-manage-payables.md)  
 [Управление проектами](projects-manage-projects.md)    
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 [Общие бизнес-функции](ui-across-business-areas.md)
 
-## [!INCLUDE[d365fin](includes/free_trial_md.md)]  
+## [!INCLUDE[prod_short](includes/free_trial_md.md)]  

@@ -10,25 +10,25 @@ ms.workload: na
 ms. search.keywords: app, add-in, manifest, customize, import, implement
 ms.reviewer: edupont
 ms.date: 10/01/2020
-ms.author: jenolson
-ms.openlocfilehash: dde6797139f383948d72c52ca1d05298a280087b
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.author: edupont
+ms.openlocfilehash: f2d8d556ca4628a66c10f323f47137cd35732a68
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3915214"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4757296"
 ---
 # <a name="intelligent-cloud-extensions-for-cloud-migration"></a>Расширение интеллектуального облака для миграции в облако
 
-В зависимости от вашего локального решения вы должны использовать разные расширения для подключения ваших данных к [!INCLUDE[prodshort](includes/prodshort.md)] Online с целью переноса вашего решения в облако.  
+В зависимости от вашего локального решения вы должны использовать разные расширения для подключения ваших данных к [!INCLUDE[prod_short](includes/prod_short.md)] Online с целью переноса вашего решения в облако.  
 
-Если используется локальная версия одного из поддерживаемых продуктов, можно настроить среду облака на основе специального расширения для этого продукта. После настройки вашей среды облака можно будет перенести данные из вашего локального решения в [!INCLUDE[prodshort](includes/prodshort.md)]. Это позволит вам полностью использовать преимущества облака для вашего бизнеса, такие как улучшенный анализ бизнеса, искусственный интеллект, доступ с нескольких устройств и доступ в любой момент из любого места.  
+Если используется локальная версия одного из поддерживаемых продуктов, можно настроить среду облака на основе специального расширения для этого продукта. После настройки вашей среды облака можно будет перенести данные из вашего локального решения в [!INCLUDE[prod_short](includes/prod_short.md)]. Это позволит вам полностью использовать преимущества облака для вашего бизнеса, такие как улучшенный анализ бизнеса, искусственный интеллект, доступ с нескольких устройств и доступ в любой момент из любого места.  
 
-Для получения дополнительной информации см. раздел [Миграция локальных данных в Business Central Online](/dynamics365/business-central/dev-itpro/administration/migrate-data) в материалах для администраторов [!INCLUDE[prodshort](includes/prodshort.md)].  
+Для получения дополнительной информации см. раздел [Миграция локальных данных в Business Central Online](/dynamics365/business-central/dev-itpro/administration/migrate-data) в материалах для администраторов [!INCLUDE[prod_short](includes/prod_short.md)].  
 
 ## <a name="business-central-on-premises"></a>Локальная версия Business Central
 
-Если используется локальное развертывание [!INCLUDE[prodshort](includes/prodshort.md)], получите расширения **Основа интеллектуального облака** и **Интеллектуальное облако Business Central**, затем выполните мастер настройки **Настройка миграции в облако**.  
+Если используется локальное развертывание [!INCLUDE[prod_short](includes/prod_short.md)], получите расширения **Основа интеллектуального облака** и **Интеллектуальное облако Business Central**, затем выполните мастер настройки **Настройка миграции в облако**.  
 
 ## <a name="dynamics-gp"></a>Dynamics GP
 

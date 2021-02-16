@@ -5,7 +5,7 @@
 <!--### [Getting Ready for Doing Business](ui-get-ready-business.md)-->
 ## Сведения
 ### [Учебный каталог Business Central](readiness/readiness-learning-catalog.md)
-### [Business Central в Microsoft Learn](/learn/browse/?products=dynamics-business-central&roles=business-user%2Cfunctional-consultant&resource_type=learning%20path)
+### [Business Central в Microsoft Learn](/learn/dynamics365/business-central?WT.mc_id=dyn365bc_landingpage-docs)
 ### Пошаговые руководства по бизнес-процессам
 #### [Доступные пошаговые руководства](walkthrough-business-process-walkthroughs.md)
 #### [Пошаговое руководство. Проведение кампании по продажам](walkthrough-conducting-a-sales-campaign.md)
@@ -101,13 +101,17 @@
 ### [Настройка Business Central](setup.md)
 ### Настройка финансов
 #### [Настройка финансов](finance-setup-finance.md)
-#### [Определение способов оплаты](finance-payment-methods.md)
+#### [Настройка способов оплаты](finance-payment-methods.md)
+#### [Настройка условия платежа](finance-payment-terms.md)
 #### [Настройка учетных групп](finance-posting-groups.md)
 #### [Подготовка финансовой отчетности с помощью финансовых отчетов и категорий счетов](bi-how-work-account-schedule.md)
 #### [Работа с отклонениями в оплате и отклонениями скидки по оплате](finance-payment-tolerance-and-payment-discount-tolerance.md)
 #### [Работа с учетными периодами и финансовыми годами](finance-accounting-periods-and-fiscal-years.md)
+#### [Настройка условий и уровней напоминаний](finance-setup-reminders.md)
+#### [Настройка процентных ставок](finance-setup-finance-charges.md)
 #### [Настройка налога на добавленную стоимость (НДС)](finance-setup-vat.md)
 #### [Настройка нереализованного НДС для учета на основании кассы](finance-setup-unrealized-vat.md)
+#### [Проверка номеров ИНН](finance-how-validate-vat-registration-number.md)
 #### [Настройка кодов источников и кодов причин для журналов аудита](finance-setup-trail-codes.md)
 #### [Включение операций книги в разных валютах](finance-how-enable-application-ledger-entries-different-currencies.md)
 #### [Настройка дополнительной отчетной валюты](finance-how-setup-additional-currencies.md)
@@ -190,6 +194,7 @@
 #### [Создание производственных спецификаций](production-how-to-create-production-boms.md)
 #### [Включение списания компонентов в соответствии с производственным выпуском](production-how-to-flush-components-according-to-operation-output.md)
 #### [Работа с единицами измерения производственной партии](production-how-to-use-the-manufacturing-batch-unit-of-measure.md)
+#### [Обработка размеров партий в производстве](production-handling-lot-sizes.md)
 #### [Работа с производственными семействами](production-how-work-family.md)
 #### [Настройка стандартных строк маршрута](production-how-set-up-standard-routing-lines.md)
 #### [Субподрядное производство](production-how-to-subcontract-manufacturing.md)
@@ -238,11 +243,13 @@
 #### [Использование Business Central в качестве папки "Входящие" для бизнеса в Outlook](admin-outlook.md)
 #### [Синхронизация с контактами в Microsoft Outlook](admin-synchronize-outlook-contacts.md)
 #### [Использование Business Central без Outlook](admin-no-outlook.md)
-### Интеграция Microsoft Teams
+### Использование Microsoft Teams с Business Central
 #### [Обзор](across-teams-overview.md)
 #### [Управление интеграцией команд](admin-teams-integration.md)
 #### [Установка приложения Business Central в Teams](across-install-app-for-teams.md)
 #### [Работа с данными Business Central в Teams](across-working-with-teams.md)
+#### [Вопросы и ответы по Teams](teams-faq.md)
+#### [Устранение неполадок](admin-teams-troubleshooting.md)
 ### Использование Power BI с Business Central
 #### [Введение](admin-powerbi.md)
 #### Администратор
@@ -266,14 +273,18 @@
 ### [Импорт бизнес-данных из других финансовых систем](across-import-data-configuration-packages.md)
 ### [Настройка электронной почты](admin-how-setup-email.md)
 ### [Создание серий номеров](ui-create-number-series.md)
+### [Выбор отчета](across-report-selections.md)
 ### [Настройка базовых календарей](across-how-to-assign-base-calendars.md)
-<!--### [Get SmartList Designer](bi-smartlist-designer-setup.md)-->
 
 ## Вопросы и ответы
-### [Часто задаваемые вопросы](across-faq.md)
+### [Вопросы и ответы](across-faq.md)
 ### [Вопросы и ответы о функции "Что вы хотите сделать"](ui-search-faq.md)
 ### [Вопросы и ответы по поиску и фильтрации](ui-search-filter-faq.md)
 ### [Вопросы и ответы о представлениях списков](ui-views-faq.md)
+### [Вопросы и ответы по копированию и вставке](faq-copy-paste.yml)
+### [Вопросы и ответы по мобильным приложениям](ui-mobile-faq.md)
+### [Вопросы и ответы по Teams](teams-faq.md)
+### [Вопросы и ответы по электронным счетам](faq-electronic-invoicing.yml)
 ### [Минимальные требования](product-requirements.md)
 
 ## Справка и поддержка
@@ -282,7 +293,7 @@
 ### [Посетите нашу библиотеку видео](across-videos.md)
 ### [Техническая поддержка](/dynamics365/business-central/dev-itpro/technical-support?toc=/dynamics365/business-central/toc.json)
 <!--## Learn
-### [Dynamics 365 Business Central on Microsoft Learn](/learn/browse/?products=dynamics-business-central)
+### [Dynamics 365 Business Central on Microsoft Learn](/learn/dynamics365/business-central?WT.mc_id=dyn365bc_landingpage-docs)
 ### [Business Central Learning Catalog](readiness/readiness-learning-catalog.md)
 ### [Business Functionality Learning Paths](/learn/browse/?products=dynamics-business-central&roles=business-user&resource_type=learning%20path)
 ### Resources for a Business Decision Maker
@@ -304,7 +315,7 @@
 ## [Сортировка, поиск и фильтрация](ui-enter-criteria-filters.md)
 ## [Вопросы и ответы по поиску и фильтрации](ui-search-filter-faq.md)
 ## [Ввод данных](ui-enter-data.md)
-## [Вопросы и ответы по копированию и вставке](ui-copy-paste.md)
+## [Вопросы и ответы по копированию и вставке](faq-copy-paste.yml)
 ## [Работа с календарными датами и значениями времени](ui-enter-date-ranges.md)
 ## [Выявление обязательных полей](ui-mandatory-fields.md)
 ## [Изменение языка и региона](about-locale-language.md)
@@ -381,7 +392,7 @@
 ##### [Настройка рабочих процессов](across-set-up-workflows.md)
 ##### [Настройка пользователей рабочих процессов](across-how-to-set-up-workflow-users.md)
 ##### [Настройка утверждающих пользователей](across-how-to-set-up-approval-users.md)
-##### [Настройка уведомлений рабочего процесса](across-setting-up-workflow-notifications.md)
+##### [Уведомления рабочих процессов](across-setting-up-workflow-notifications.md)
 ##### [Определение сроков и порядка получения уведомлений пользователями](across-how-to-specify-when-and-how-to-receive-notifications.md)
 ##### [Создание и изменение пользовательских макетов отчетов](ui-how-create-custom-report-layout.md)
 ##### [Настройка электронной почты](admin-how-setup-email.md)
@@ -389,7 +400,6 @@
 ##### [Создание рабочих процессов из шаблонов рабочих процессов](across-how-to-create-workflows-from-workflow-templates.md)
 ##### [Экспорт и импорт рабочих процессов](across-how-to-export-and-import-workflows.md)
 ##### [Пошаговое руководство. Настройка и использование рабочего процесса утверждения покупки](walkthrough-setting-up-and-using-a-purchase-approval-workflow.md)
-##### [Пошаговое руководство. Реализация новых и событий и отзывов рабочего процесса](/dynamics-nav/Walkthrough--Implementing-New-Workflow-Events-and-Responses)
 #### Использование рабочих процессов
 ##### [Использование рабочих процессов](across-use-workflows.md)
 ##### [Включение рабочих процессов](across-how-to-enable-workflows.md)
@@ -441,14 +451,13 @@
 #### [Сбор непогашенных остатков задолженности](receivables-collect-outstanding-balances.md)
 #### [Сбор платежей с прямым дебетом SEPA](finance-collect-payments-with-sepa-direct-debit.md)
 #### [Блокировка клиентов](receivables-how-block-customers.md)
-#### [Использование товарных издержек для учета дополнительных торговых расходов](payables-how-assign-item-charges.md)
 #### [Работа с отклонениями в оплате и отклонениями скидки по оплате](finance-payment-tolerance-and-payment-discount-tolerance.md)
 #### [Расширение прогноза просрочки платежа](ui-extensions-late-payment-prediction.md)
 
 ### Управление кредиторской задолженностью
 #### [Обзор кредиторской задолженности](payables-manage-payables.md)
 #### Осуществление платежей
-#### [Обзор платежей](payables-make-payments.md)
+##### [Осуществление платежей](payables-make-payments.md)
 ##### [Работа с финансовыми журналами](ui-work-general-journals.md)
 ##### [Регистрация платежей и возвратов](payables-how-post-payments-refunds.md)
 ##### [Предлож. оплаты поставщикам](payables-how-suggest-vendor-payments.md)
@@ -486,6 +495,7 @@
 #### [Настройка межфирменных взаимодействий](intercompany-how-setup.md)
 #### [Работа с межфирменными документами и журналами](intercompany-how-work-documents-journals.md)
 #### [Управление межфирменными входящими и исходящими ящиками](intercompany-how-manage-intercompany-inbox.md)
+#### [Распределение затрат между внутрифирменными партнерами](intercompany-allocate-costs.md)
 
 ### Учет по затратам
 #### [Обзор учета затрат](finance-manage-cost-accounting.md)
@@ -500,6 +510,7 @@
 ### Управление себестоимостью товаров
 #### [Обзор учета себестоимости запасов](finance-manage-inventory-costs.md)
 #### [Об оценке себестоимости товаров](finance-learn-about-costing.md)
+#### [Использование товарных издержек для учета дополнительных торговых расходов](payables-how-assign-item-charges.md)
 #### [О расчете стандартной себестоимости](finance-about-calculating-standard-cost.md)
 #### [Сведения о проектировании: себестоимость запасов](design-details-inventory-costing.md)
 #### [Работа с учетными периодами](finance-how-to-work-with-inventory-periods.md)
@@ -510,10 +521,7 @@
 #### [Обновление стандартных себестоимостей](finance-how-to-update-standard-costs.md)
 #### [Удаление и повторное применение операций журнала товаров](finance-how-to-remove-and-reapply-item-entries.md)
 #### [Закрытие открытых операций в книге товаров, появившихся в результате фиксированного применения в товарном журнале](finance-how-to-close-open-item-ledger-entries-resulting-from-fixed-application-in-the-item-journal.md)
-#### Отчет о затратах и выверка с главной книгой
-##### [Отчет о затратах](finance-report-costs-and-reconcile-with-the-general-ledger.md)
-##### [Выверка себестоимости товаров с главной книгой](finance-how-to-post-inventory-costs-to-the-general-ledger.md)
-##### [Отслеживание хода выполнения работ и производительности](projects-how-monitor-progress-performance.md)
+#### [Выверка себестоимости товаров с главной книгой](finance-how-to-post-inventory-costs-to-the-general-ledger.md)
 
 ### Закрытие года и периодов
 #### [Обзор закрытия года](year-close-years-periods.md)
@@ -538,7 +546,6 @@
 ### [Учет транзакций непосредственно в главной книге](finance-how-post-transactions-directly.md)
 ### [Сторнирование учета в журнале и отмена приходных/расходных накладных](finance-how-reverse-journal-posting.md)
 ### [Распределение затрат и дохода](year-allocate-costs-income.md)
-### [Использование товарных издержек для учета дополнительных торговых расходов](payables-how-assign-item-charges.md)
 ### [Регистрация и возмещение расходов сотрудников](finance-how-record-reimburse-employee-expenses.md)
 ### [Доходы и расходы будущих периодов](finance-how-defer-revenue-expenses.md)
 ### [Обновление валютных курсов](finance-how-update-currencies.md)
@@ -562,7 +569,6 @@
 ### [Создание аналитических отчетов](bi-how-create-analysis-views-reports.md)
 ### [Создание отчетов с XBRL](bi-create-reports-with-xbrl.md)
 ### [Управление намерением доступа к базе данных](admin-data-access-intent.md)
-<!--### [Create Custom Queries using SmartLists](bi-smartlists.md)-->
 
 ## Продажи
 ### [Обзор продаж](sales-manage-sales.md)
@@ -577,14 +583,13 @@
 ### [Создание типовых строк продажи и покупки](sales-how-work-standard-lines.md)
 ### [Выполнение прямых поставок](sales-how-drop-shipment.md)
 ### [Создание специальных заказов](sales-how-to-create-special-orders.md)
-### [Исправление или отмена неоплаченных счетов продажи](sales-how-correct-cancel-sales-invoice.md)
 ### [Обработка возвратов продажи или отмен](sales-how-process-sales-returns-cancellations.md)
+### [Исправление или отмена неоплаченных счетов продажи](sales-how-correct-cancel-sales-invoice.md)
 ### [Работа с общими заказами на продажу](sales-how-to-create-blanket-sales-orders.md)
 ### [Объединение поставок в один счет](sales-how-to-combine-shipments-on-a-single-invoice.md)
 ### [Расчет сроков планирования заказов](sales-how-to-calculate-order-promising-dates.md)
 ### [Трассировка посылок](sales-how-track-packages.md)
 ### [Расчет даты для продаж](sales-date-calculation-for-sales.md)
-### [Создание прогноза](production-how-to-create-a-forecast.md)
 ### [Объединение повторяющихся записей](sales-how-merge-duplicate-records.md)
 ### [Работа с повторяющимся доходом](finance-recurring-invoicing.md)
 
@@ -624,7 +629,7 @@
 ## Управление проектами
 ### [Обзор управления проектом](projects-manage-projects.md)
 ### [Создание работ](projects-how-create-jobs.md)
-## [Использование ресурсов для работ](projects-how-use-resources.md)
+### [Использование ресурсов для работ](projects-how-use-resources.md)
 ### [Использование табелей учета рабочего времени для работ](projects-how-use-time-sheets.md)
 ### [Управление бюджетами работ](projects-how-manage-budgets.md)
 ### [Запись потребления для работ](projects-how-record-job-usage.md)
@@ -923,16 +928,19 @@
 #### Банковские операции и платежи
 ##### [Функция банка](LocalFunctionality/Czech/bank-feature.md)
 ##### [Управление кассой](LocalFunctionality/Czech/cash-desk-management.md)
+##### [Локализация кассы для чешского языка (расширение)](LocalFunctionality/Czech/ui-extensions-cash-desk-localization-cz.md)
 ##### [Регистрация продаж (EET)](LocalFunctionality/Czech/eet.md)
 ##### [Авансовые платежи](LocalFunctionality/Czech/advances.md)
 #### Расчеты с клиентами и поставщиками
 ##### [Расчеты с клиентами и поставщиками](LocalFunctionality/Czech/receivables-payables.md)
 ##### [Интрастат](LocalFunctionality/Czech/intrastat.md)
+##### [Локализация компенсаций для чешского языка (расширение)](LocalFunctionality/Czech/ui-extensions-compensations-localization-cz.md)
 #### Запасы
 ##### [Запасы](LocalFunctionality/Czech/inventory.md)
 #### Общие
 ##### [Расширенный контроль пользователей](LocalFunctionality/Czech/general.md)
 ##### [Рекомендации](LocalFunctionality/Czech/best-practices.md)
+##### [Пакет основной локализации для чешского языка (расширение)](LocalFunctionality/Czech/ui-extensions-core-localization-pack-cz.md)
 
 ### Дания
 #### [Локальная функциональность в датской версии](LocalFunctionality/Denmark/denmark-local-functionality.md)
@@ -1592,12 +1600,12 @@
 #### [Расширения для Business Central от других поставщиков](ui-extensions-other.md)
 ## Интеграция с Dynamics 365 Sales
 ### [Интеграция с Dynamics 365 Sales](admin-prepare-dynamics-365-for-sales-for-integration.md)
-## Интеграция с Common Data Service
-### [Интеграция с Common Data Service](admin-common-data-service.md)
+## Интеграция с Microsoft Dataverse
+### [Интеграция с Microsoft Dataverse](admin-common-data-service.md)
 ### [Модели владения данными](admin-cds-company-concept.md)
-### [Настройка учетных записей пользователя для интеграции с Common Data Service](admin-setting-up-integration-with-dynamics-sales.md)
-### [Подключение к Common Data Service](admin-how-to-set-up-a-dynamics-crm-connection.md)
-### [Синхронизация Business Central и Common Data Service](admin-synchronizing-business-central-and-sales.md)
+### [Настройка учетных записей пользователя для интеграции с Microsoft Dataverse](admin-setting-up-integration-with-dynamics-sales.md)
+### [Подключение к Microsoft Dataverse](admin-how-to-set-up-a-dynamics-crm-connection.md)
+### [Синхронизация Business Central и Microsoft Dataverse](admin-synchronizing-business-central-and-sales.md)
 ### [Сопоставление таблиц и полей для синхронизации](admin-how-to-modify-table-mappings-for-synchronization.md)
 ### [Ручная синхронизация сопоставлений таблиц](admin-manual-synchronization-of-table-mappings.md)
 ### [Синхронизация по расписанию](admin-scheduled-synchronization-using-the-synchronization-job-queue-entries.md)

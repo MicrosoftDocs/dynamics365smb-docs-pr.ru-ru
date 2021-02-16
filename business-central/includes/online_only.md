@@ -1,0 +1,1 @@
+> **ПРИМЕНЯЕТСЯ К:** Business Central Online

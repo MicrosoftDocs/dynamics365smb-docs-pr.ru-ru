@@ -10,12 +10,12 @@ ms.workload: na
 ms. search.keywords: extension, bank, formats
 ms.date: 10/01/2020
 ms.author: bholtorf
-ms.openlocfilehash: 1afd60dc4c9c86b476c3c2c80974ce805b19a4ca
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: c8dd465213a9882a98c1ac1623d8a093f3eecb9a
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3912325"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4757496"
 ---
 # <a name="the-payments-and-reconciliations-dk-extension"></a>Расширение платежей и выверки (DK)
 
@@ -53,7 +53,7 @@ ms.locfileid: "3912325"
 
 Кроме того, необходимо назначить поставщиков группам **Общая бизнес-группа** и **Учетная группа поставщика** внутри страны. Настройка страны/региона для поставщика должна быть Дания (DK). Дополнительные сведения см. в разделе [Настройка учетных групп](finance-posting-groups.md).  
 
-### <a name="to-allow-d365fin-to-export-payment-data"></a>Чтобы разрешить [!INCLUDE[d365fin](includes/d365fin_md.md)] экспортировать данные платежей
+### <a name="to-allow-prod_short-to-export-payment-data"></a>Чтобы разрешить [!INCLUDE[prod_short](includes/prod_short.md)] экспортировать данные платежей
 
 1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Журнал платежей**, затем выберите соответствующую ссылку.  
 2. На странице **Изменение журнала платежей** выберите пакет **Банк**.  
@@ -61,7 +61,7 @@ ms.locfileid: "3912325"
 
 ### <a name="to-specify-a-payment-method-for-a-vendor"></a>Указание способ оплаты для поставщика
 
-В следующей таблице перечислены сочетания способов оплаты FIK и GIRO, которые поддерживает [!INCLUDE[d365fin](includes/d365fin_md.md)].
+В следующей таблице перечислены сочетания способов оплаты FIK и GIRO, которые поддерживает [!INCLUDE[prod_short](includes/prod_short.md)].
 
 |Комбинация|Тип 01 | Тип 04 | Тип 71 | Тип 73 |
 |----|--------|---------|---------|---------|
@@ -87,7 +87,7 @@ ms.locfileid: "3912325"
 4. В поле **Ссылка на оплату** введите 15-значный номер из счета поставщика.  
 
     > [!Tip]
-    > Необходимо ввести только 11 последних цифр этого номера. [!INCLUDE[d365fin](includes/d365fin_md.md)] добавить четыре нуля в начало номера.  
+    > Необходимо ввести только 11 последних цифр этого номера. [!INCLUDE[prod_short](includes/prod_short.md)] добавить четыре нуля в начало номера.  
 
 5. Учет счета.
 
@@ -105,6 +105,6 @@ ms.locfileid: "3912325"
 
 ## <a name="see-also"></a>См. также
 
-[Настройка Business Central для [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью расширений](ui-extensions.md)  
+[Настройка Business Central для [!INCLUDE[prod_short](includes/prod_short.md)] с помощью расширений](ui-extensions.md)  
 [Сбор платежей с прямым дебетом SEPA](finance-collect-payments-with-sepa-direct-debit.md)  
 [Работа с финансовыми журналами](ui-work-general-journals.md)  

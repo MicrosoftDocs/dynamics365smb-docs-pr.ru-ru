@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 09fea87bb1d8606390fe8c0ed5b2e3780dbc4978
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 87f113e1fedc759fc90443fb3d0a4eb0c1aa9233
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3919192"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4759221"
 ---
 # <a name="plan-project-orders"></a>Планирование заказов проекта
 Выполнение этой задачи планирования начинается с заказа на продажу и производится на странице **Планирование заказа на продажу**. После создания проектного производственного заказа его планирование может быть продолжено на странице **Планирование заказов**.  
@@ -47,4 +47,4 @@ ms.locfileid: "3919192"
 [Покупки](purchasing-manage-purchasing.md)  
 [Сведения о проектировании: планирование поставок](design-details-supply-planning.md)   
 [Рекомендации по настройке. Планирование поставок](setup-best-practices-supply-planning.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

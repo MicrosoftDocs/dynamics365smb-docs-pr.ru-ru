@@ -10,20 +10,20 @@ ms.workload: na
 ms. search.keywords: extension, migrate, data, QuickBooks, import
 ms.date: 10/01/2020
 ms.author: bholtorf
-ms.openlocfilehash: 1c4e33593cd7d0084d3c41a22a865160411ef01f
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 064f7fd7f0737263234b7324c298e513ef91e9c8
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3923499"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4757471"
 ---
 # <a name="the-quickbooks-online-data-migration-extension"></a>Расширение миграции данных QuickBooks Online
 
-Это расширение входит в руководстве по сопровождаемой настройке **Миграция данных**, которое помогает переносить важные бизнес-данные из QuickBooks Online в [!INCLUDE[d365fin](includes/d365fin_md.md)]. Например, это бывает полезно, если ваш бизнес расет, и вы решили обновить свое приложение для управления бизнесом и перейти на [!INCLUDE[d365fin](includes/d365fin_md.md)].
+Это расширение входит в руководстве по сопровождаемой настройке **Миграция данных**, которое помогает переносить важные бизнес-данные из QuickBooks Online в [!INCLUDE[prod_short](includes/prod_short.md)]. Например, это бывает полезно, если ваш бизнес расет, и вы решили обновить свое приложение для управления бизнесом и перейти на [!INCLUDE[prod_short](includes/prod_short.md)].
 
 ## <a name="what-data-can-i-import-from-quickbooks-online"></a>Какие данные можно импортировать из QuickBooks Online?
 
-Можно импортировать следующие данные из QuickBooks Online в [!INCLUDE[d365fin](includes/d365fin_md.md)]:  
+Можно импортировать следующие данные из QuickBooks Online в [!INCLUDE[prod_short](includes/prod_short.md)]:  
 
 * Клиенты
 * Поставщики
@@ -46,9 +46,9 @@ ms.locfileid: "3923499"
 * Покупки товаров или услуг у поставщиков.  
 * Коррекции в главной книге.  
 
-[!INCLUDE[d365fin](includes/d365fin_md.md)] требует, чтобы счетам главной книги были назначены номера. Убедитесь, что номера счетов назначены в QuickBooks Online.
+[!INCLUDE[prod_short](includes/prod_short.md)] требует, чтобы счетам главной книги были назначены номера. Убедитесь, что номера счетов назначены в QuickBooks Online.
 
-Если транзакции в QuickBooks Online содержат суммы налога, необходимо настроить налоговый счет в налоговых юрисдикциях в [!INCLUDE[d365fin](includes/d365fin_md.md)], прежде чем вы сможете учитывать транзакции.
+Если транзакции в QuickBooks Online содержат суммы налога, необходимо настроить налоговый счет в налоговых юрисдикциях в [!INCLUDE[prod_short](includes/prod_short.md)], прежде чем вы сможете учитывать транзакции.
 
 ## <a name="how-do-i-start-using-the-extension"></a>Как начать использование расширения?
 
@@ -63,11 +63,11 @@ ms.locfileid: "3923499"
 
 Есть несколько важных вещей, которые нужно сделать.
 
-* Если для транзакций в QuickBooks Online были заданы суммы наценки или скидки, их необходимо вручную добавить в соответствующие транзакции в [!INCLUDE[d365fin](includes/d365fin_md.md)], прежде чем учитывать их.
+* Если для транзакций в QuickBooks Online были заданы суммы наценки или скидки, их необходимо вручную добавить в соответствующие транзакции в [!INCLUDE[prod_short](includes/prod_short.md)], прежде чем учитывать их.
 * Если вы используете налог на добавленную стоимость (НДС), вы можете добавить учетные бизнес-группы или товарные группы в параметры учета, чтобы вы могли учитывать суммы НДС.
 * Проверьте начальные сальдо счетов в главной книге. В QuickBooks Online не хранится текущее сальдо для всех счетов, поэтому вам может потребоваться исправить начальные сальдо.
 
 ## <a name="see-also"></a>См. также
 
 [Импорт бизнес-данных из других финансовых систем](across-import-data-configuration-packages.md)  
-[Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью расширений](ui-extensions.md)  
+[Настройка [!INCLUDE[prod_short](includes/prod_short.md)] с помощью расширений](ui-extensions.md)  

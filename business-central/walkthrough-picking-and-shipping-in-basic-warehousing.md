@@ -10,18 +10,18 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: c05456ca45b4508be0ba44acedf81997a92b56bb
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: f3815e0e928041ca9fcef09b1c7410e45ebb57a1
+ms.sourcegitcommit: adf1a87a677b8197c68bb28c44b7a58250d6fc51
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3918492"
+ms.lasthandoff: 01/21/2021
+ms.locfileid: "5035760"
 ---
 # <a name="walkthrough-picking-and-shipping-in-basic-warehouse-configurations"></a>Пошаговое руководство. Подбор и отгрузка в основных складских конфигурациях
 
 [!INCLUDE[complete_sample_data](includes/complete_sample_data.md)]
 
-В [!INCLUDE[d365fin](includes/d365fin_md.md)] исходящие процессы по подбору и отгрузке могут быть выполнены четырьмя способами при помощи различных функций в зависимости от уровня сложности склада.  
+В [!INCLUDE[prod_short](includes/prod_short.md)] исходящие процессы по подбору и отгрузке могут быть выполнены четырьмя способами при помощи различных функций в зависимости от уровня сложности склада.  
 
 |Метод|Входящий процесс|Ячейки|Складской подбор|Расх. накладные|Уровень сложности (см. раздел [Сведения о проектировании: настройка склада](design-details-warehouse-setup.md))|  
 |------------|---------------------|----------|-----------|---------------|--------------------------------------------------------------------------------------------------------------------|  
@@ -33,6 +33,9 @@ ms.locfileid: "3918492"
 Дополнительные сведения см. в разделе [Сведения о проектировании: исходящий складской поток](design-details-outbound-warehouse-flow.md).  
 
 В следующем пошаговом руководстве показан метод B в предыдущей таблице.  
+
+> [!NOTE]
+> [!INCLUDE [locations-cronus](includes/locations-cronus.md)]
 
 ## <a name="about-this-walkthrough"></a>Об этом пошаговом руководстве
 
@@ -46,6 +49,9 @@ ms.locfileid: "3918492"
 - Создание складского подбора на основании выпущенного документа-источника.  
 - Регистрация складского перемещения из склада с одновременным учетом расходной накладной продажи для исходного заказа на продажу.  
 
+> [!NOTE]
+> [!INCLUDE [locations-cronus](includes/locations-cronus.md)]
+
 ## <a name="roles"></a>Роли
 
 В этом пошаговом руководстве демонстрируются задачи, выполняемые исполнителями следующих ролей:  
@@ -58,7 +64,7 @@ ms.locfileid: "3918492"
 
 Для выполнения данного пошагового руководства необходимо выполнить следующие действия.  
 
-- Для интернет-версии [!INCLUDE[prodshort](includes/prodshort.md)], компания, основанная на параметре **Расширенный ознакомительный выпуск — полные демонстрационные данные** в среде песочницы. Для [!INCLUDE[prodshort](includes/prodshort.md)] локальная версия, CRONUS International Ltd. установлена.  
+- Для интернет-версии [!INCLUDE[prod_short](includes/prod_short.md)], компания, основанная на параметре **Расширенный ознакомительный выпуск — полные демонстрационные данные** в среде песочницы. Для [!INCLUDE[prod_short](includes/prod_short.md)] локальная версия, CRONUS International Ltd. установлена.  
 - Чтобы назначить себя работником склада SILVER, выполните следующие действия:  
 
   1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Сотрудники склада**, затем выберите соответствующую ссылку.  
@@ -143,4 +149,4 @@ ms.locfileid: "3918492"
 [Перемещение специальных товаров в базовых конфигурациях склада](warehouse-how-to-move-items-ad-hoc-in-basic-warehousing.md)  
 [Сведения о проектировании: исходящий складской поток](design-details-outbound-warehouse-flow.md)  
 [Пошаговые описания бизнес-процессов](walkthrough-business-process-walkthroughs.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  

@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: find
 ms.date: 10/01/2020
 ms.author: bholtorf
-ms.openlocfilehash: f7534d1e3365dd02b6f9f1afde03b5de76640e1a
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 7b880ef5cb49a02dcbb3973f87bc64eae48b2b3a
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3914889"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4760246"
 ---
 # <a name="tell-me-faq"></a>Вопросы и ответы о функции "Что вы хотите сделать"
 В этой теме содержатся ответы на вопросы, которые часто задают наши продвинутые пользователи о функции "Что вы хотите сделать"
@@ -32,7 +32,7 @@ ms.locfileid: "3914889"
 ### <a name="what-makes-this-different-from-what-was-previously-known-as-page-search"></a>Чем эта функция отличается от ранее известной функции поиска страниц?
 Поиск страниц эволюционировал в функцию "Что вы хотите сделать", чтобы помочь работать быстрее. Поиск страниц мог помочь только переходить к страницам или отчетам. На техническом уровне функция "Что вы хотите сделать" больше не основывается на концепции MenuSuite.
 
-### <a name="i-use-on-premises-d365fin-does-that-include-tell-me"></a>Я использую локальную версию [!INCLUDE[d365fin](includes/d365fin_md.md)]. Она включает функцию "Что вы хотите сделать"?
+### <a name="i-use-on-premises-prod_short-does-that-include-tell-me"></a>Я использую локальную версию [!INCLUDE[prod_short](includes/prod_short.md)]. Она включает функцию "Что вы хотите сделать"?
 Можно использовать функцию "Что вы хотите сделать" в веб-клиенте локальной версии для поиска действий, страниц и отчетов, но не документации, или приложения и консультативные услуги в AppSource.
 
 ### <a name="is-tell-me-available-for-all-form-factors"></a>Доступна ли функция "Что вы хотите сделать" для всех форм-факторов?

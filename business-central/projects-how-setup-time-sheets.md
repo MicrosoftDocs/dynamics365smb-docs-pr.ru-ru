@@ -12,15 +12,15 @@ ms.workload: na
 ms.search.keywords: project management, capacity, staff, resource
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 16b167ae9412449e29a002b9d588109ddc75da28
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 25db2730cebefe224494561e6f5179cc3bfed56e
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3919017"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4758671"
 ---
 # <a name="set-up-time-sheets"></a>Настройка табелей учета рабочего времени
-Табели учета рабочего времени в [!INCLUDE[d365fin](includes/d365fin_md.md)] регистрируются на еженедельной основе с периодичностью в семь дней. Их можно использовать для отслеживания времени, затраченного на работы, а также для записи простой регистрации затрат времени ресурса. Прежде чем использовать табели, необходимо указать, как они должны быть установлены и настроены.
+Табели учета рабочего времени в [!INCLUDE[prod_short](includes/prod_short.md)] регистрируются на еженедельной основе с периодичностью в семь дней. Их можно использовать для отслеживания времени, затраченного на работы, а также для записи простой регистрации затрат времени ресурса. Прежде чем использовать табели, необходимо указать, как они должны быть установлены и настроены.
 
 После настройки того, как организация будет использовать табели учета времени, можно указать, требуется ли утверждение табелей и как будет производиться утверждение. В зависимости от потребностей организации, могут быть указаны:
 
@@ -63,4 +63,4 @@ ms.locfileid: "3919017"
 [Финансы](finance.md)  
 [Покупки](purchasing-manage-purchasing.md)         
 [Продажи](sales-manage-sales.md)      
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  

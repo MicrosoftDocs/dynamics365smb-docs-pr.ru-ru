@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 3d053de6193593256e404803d61b14f4681dc771
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 25eed1edd8aeb92c875e093a177e59c40d3c3a12
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3921538"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4758922"
 ---
 # <a name="track-relations-between-demand-and-supply"></a>Отслеживание связей между спросом и предложением
 Из любого документа по предложению или спросу в так называемой сети заказов можно отслеживать требования по заказу (трассируемое количество), прогноз, общий заказ продажи или параметры планирования (нетрассируемое количество), ставших причиной создания соответствующей строки планирования.
@@ -61,4 +61,4 @@ ms.locfileid: "3921538"
 [Сведения о проектировании. Резервирование, трассировка и отправка сообщений о действиях](design-details-reservation-order-tracking-and-action-messaging.md)  
 [Сведения о проектировании: планирование поставок](design-details-supply-planning.md)   
 [Рекомендации по настройке. Планирование поставок](setup-best-practices-supply-planning.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

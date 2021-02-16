@@ -8,16 +8,16 @@ ms.workload: na
 ms.search.keywords: project management
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 0309ea14145758b4ae07ee034679fa4a0ef497db
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 6fe583e93261b58d13802eadef5f3d807045fa20
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3915339"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4758646"
 ---
 # <a name="set-up-jobs"></a>Настройка работ
 
-Как менеджер проекта, вы можете настроить задания, которые определяют каждый из проектов, которыми вы управляете в [!INCLUDE[prodshort](includes/prodshort.md)]. На странице **Настройка работ** необходимо определить, как требуется использовать определенные функции работ.
+Как менеджер проекта, вы можете настроить задания, которые определяют каждый из проектов, которыми вы управляете в [!INCLUDE[prod_short](includes/prod_short.md)]. На странице **Настройка работ** необходимо определить, как требуется использовать определенные функции работ.
 
 Для каждого задания вы затем указываете отдельные карточки задания с информацией о ценах для товаров работы, ресурсов работы и счетов ГК по работе, а также необходимо настроить учетные группы работ.
 
@@ -121,4 +121,4 @@ ms.locfileid: "3915339"
 [Финансы](finance.md)  
 [Покупки](purchasing-manage-purchasing.md)  
 [Продажи](sales-manage-sales.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  

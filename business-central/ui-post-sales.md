@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.reviewer: edupont
-ms.date: 10/01/2020
+ms.date: 12/03/2020
 ms.author: edupont
-ms.openlocfilehash: 5ca69a35aac0ba61591dfdfd71d739726e2fb62f
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: fa2830aeb62fe6acea5f8e3879c678e9d8407fb4
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3910134"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4760321"
 ---
 # <a name="posting-sales"></a>Учет продаж
 
@@ -25,9 +25,10 @@ ms.locfileid: "3910134"
 * **Учесть и создать**
 * **Учесть и отправить**
 * **Предварительный просмотр учета**
-* **Черновик счета**
-* **Счет-проформа**
+* **Пакетный учет**
 * **Тестовый отчет**
+
+> [ПРИМЕЧАНИЕ!] Для заказов на продажу вы также можете увидеть параметры, связанные с функцией предоплаты. Дополнительные сведения см. в разделе [Выставление счетов на предоплату](finance-invoice-prepayments.md). 
 
 После заполнения всех строк и ввода всей информации в заказ на продажу его можно учесть. Это создает отгрузку и счет.
 
@@ -62,4 +63,4 @@ ms.locfileid: "3910134"
 [Отправка документов по электронной почте](ui-how-send-documents-email.md)  
 [Исправление или отмена неоплаченных счетов продажи](sales-how-correct-cancel-sales-invoice.md)  
 [Поиск страниц и информации с помощью функции "Что вы хотите сделать"](ui-search.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

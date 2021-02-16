@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 4b5293ace8fe0fc59b0e1f499574355397fb2d84
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 1ae0386c4fc2e3ac216d4228c94e7447a808cf50
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3923224"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4756121"
 ---
 # <a name="plan-warehouse-movements-in-worksheets"></a>Планирование складских перемещений в журналах
 Перемещения планируются в журнале с использованием функции пополнения ячейки или путем планирования строк, необходимых для создания инструкций по передвижению, вручную.  
@@ -26,7 +26,7 @@ ms.locfileid: "3923224"
 1.  Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Журнал перемещения**, затем выберите соответствующую ссылку.  
 2.  Выберите действие **Расчет пополнения ячеек**.  
 
-    В [!INCLUDE[d365fin](includes/d365fin_md.md)] создаются строки, которые точно указывают, каким образом товары из ячеек с более низким рейтингом перемещаются в ячейки с более высоким рейтингом.  
+    В [!INCLUDE[prod_short](includes/prod_short.md)] создаются строки, которые точно указывают, каким образом товары из ячеек с более низким рейтингом перемещаются в ячейки с более высоким рейтингом.  
 
     > [!NOTE]  
     >  Предлагается перемещение согласно методу FEFO при активации функции **Создать передвижение**, если для товара удовлетворяются следующие условия:  
@@ -71,4 +71,4 @@ ms.locfileid: "3923224"
 [Настройка управления складом](warehouse-setup-warehouse.md)     
 [Управление сборкой](assembly-assemble-items.md)    
 [Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

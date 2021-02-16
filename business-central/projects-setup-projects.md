@@ -10,15 +10,15 @@ ms.workload: na
 ms.search.keywords: projects
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: bb76950dcf84a49ed2644a7db19827999579d24b
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 6189968a44a4001d76f44bf1331594f73ea58e05
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3918967"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4758570"
 ---
 # <a name="setting-up-project-management"></a>Настройка управления проектами
-Прежде чем использовать [!INCLUDE[d365fin](includes/d365fin_md.md)] для управления проектами, необходимо настроить ресурсы, табели и работы.
+Прежде чем использовать [!INCLUDE[prod_short](includes/prod_short.md)] для управления проектами, необходимо настроить ресурсы, табели и работы.
 
 Затем можно создать работы и запланировать ресурсы для проектов, а также управлять бюджетами и отслеживать затраты времени машин и сотрудников с помощью табелей учета времени. Дополнительные сведения см. в разделе [Управление проектами](projects-manage-projects.md).  
 
@@ -38,4 +38,4 @@ ms.locfileid: "3918967"
 [Финансы](finance.md)  
 [Покупки](purchasing-manage-purchasing.md)  
 [Продажи](sales-manage-sales.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  

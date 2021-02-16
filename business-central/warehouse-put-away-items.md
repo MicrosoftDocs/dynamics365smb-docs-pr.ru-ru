@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 7e18062360e9c13f87315d592cf4b780abbeab47
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 6fbd192b5999d566271163c9653c3bcdfe0dbba1
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3920251"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4755771"
 ---
 # <a name="putting-items-away"></a>Размещение товаров
 Складское действие размещения товаров после получения или изготовления выполняется различными способами в зависимости от настроек функции управления складом. Сложность может колебаться от полного отсутствия функций склада до базовых конфигураций склада для поочередной обработки заказов в ходе одной или нескольких операций; кроме того, может использоваться расширенная конфигурация, когда все складские операции должны выполняться в рамках расширенного рабочего процесса. Дополнительные сведения см. в разделе [Настройка управления складом](warehouse-setup-warehouse.md).
@@ -45,4 +45,4 @@ ms.locfileid: "3920251"
 [Настройка управления складом](warehouse-setup-warehouse.md)     
 [Управление сборкой](assembly-assemble-items.md)    
 [Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  

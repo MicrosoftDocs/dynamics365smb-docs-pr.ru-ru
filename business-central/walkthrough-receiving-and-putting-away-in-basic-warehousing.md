@@ -1,6 +1,6 @@
 ---
-title: Пошаговое руководство. Получение и складирование в базовых конфигурациях склада | Документация Майкрософт
-description: В Business Central входящие процессы по получению и размещению могут быть выполнены четырьмя способами при помощи различных функций в зависимости от уровня сложности склада.
+title: Пошаговое руководство. Получение и складирование в базовых конфигурациях склада
+description: В Business Central входящие процессы по получению и размещению могут быть выполнены четырьмя разными способами в зависимости от уровня сложности склада.
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -10,18 +10,18 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: b119883babf1f44ff78482c4849faff72c1ec257
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 674b095c515c6c8be5dde41861ab2cfdc943855f
+ms.sourcegitcommit: adf1a87a677b8197c68bb28c44b7a58250d6fc51
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3918442"
+ms.lasthandoff: 01/21/2021
+ms.locfileid: "5035560"
 ---
 # <a name="walkthrough-receiving-and-putting-away-in-basic-warehouse-configurations"></a>Пошаговое руководство. Получение и складирование в базовых конфигурациях склада
 
 [!INCLUDE[complete_sample_data](includes/complete_sample_data.md)]  
 
-В [!INCLUDE[d365fin](includes/d365fin_md.md)] входящие процессы по получению и размещению могут быть выполнены четырьмя способами при помощи различных функций в зависимости от уровня сложности склада.  
+В [!INCLUDE[prod_short](includes/prod_short.md)] входящие процессы по получению и размещению могут быть выполнены четырьмя способами при помощи различных функций в зависимости от уровня сложности склада.  
 
 |Метод|Входящий процесс|Ячейки|Прих. накладные|Складское размещение|Уровень сложности (см. раздел [Сведения о проектировании: настройка склада](design-details-warehouse-setup.md))|  
 |------------|---------------------|----------|--------------|----------------|--------------------------------------------------------------------------------------------------------------------|  
@@ -51,6 +51,9 @@ ms.locfileid: "3918442"
 -   Создание складского размещения на основании выпущенного документа-источника.  
 -   Удостоверьтесь, что ячейки складирования наследуются из заказа на покупку.  
 -   Регистрация складского перемещения в склад с одновременным учетом приходной накладной покупки для исходного заказа на покупку.  
+
+> [!NOTE]
+> [!INCLUDE [locations-cronus](includes/locations-cronus.md)]
 
 ## <a name="roles"></a>Роли  
 В этом пошаговом руководстве демонстрируются задачи, выполняемые исполнителями следующих ролей:  
@@ -144,4 +147,4 @@ ms.locfileid: "3918442"
  [Перемещение специальных товаров в базовых конфигурациях склада](warehouse-how-to-move-items-ad-hoc-in-basic-warehousing.md)   
  [Сведения о проектировании: входящий складской поток](design-details-inbound-warehouse-flow.md)   
  [Пошаговые описания бизнес-процессов](walkthrough-business-process-walkthroughs.md)  
- [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+ [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

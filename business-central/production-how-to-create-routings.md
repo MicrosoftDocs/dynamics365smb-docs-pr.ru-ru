@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 6df2078128cbcf9c4e5f59b7815f777d130543e5
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 6cdd00ab5f7372e79d2ab1ced6b77e9ed8343b95
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3922698"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4759346"
 ---
 # <a name="create-routings"></a>Создание маршрутов
 
@@ -46,8 +46,8 @@ ms.locfileid: "3922698"
 9. В поле **Код связи маршрута** введите код для соединения компонента с определенной операцией. Дополнительные сведения см. в разделе [Создание связей маршрута](production-how-to-create-routings.md#to-create-routing-links).
 10. В поля **Время работы** и **Время настройки** введите время, необходимое для выполнения производственной операции.
 
-    > [!NOTE]
-    > Время настройки вычисляется для каждого производственного заказа, в то время как время работы – для каждого изготавливаемого товара.  
+     > [!NOTE]
+     > Время настройки вычисляется для каждого производственного заказа, в то время как время работы – для каждого изготавливаемого товара.  
 
 11. В поле **Одновременные произв. мощности** укажите количество единиц выбранного ресурса, используемых для выполнения операции. Например, если два человека назначены для выполнения одной упаковочной операции, время работы делится пополам.  
 12. Заполните таким же образом строки для всех операций, необходимых для создания данного товара.  
@@ -129,4 +129,4 @@ ms.locfileid: "3922698"
 [Планирование](production-planning.md)  
 [Запасы](inventory-manage-inventory.md)  
 [Покупки](purchasing-manage-purchasing.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  

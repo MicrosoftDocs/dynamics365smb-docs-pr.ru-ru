@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: project budget, forecast
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: e8de8d35ee036d2819ba40b1fdf50b6d5ed2dab5
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 56039fa07813f841e670b2019d7020953ea26742
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3913175"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4758721"
 ---
 # <a name="manage-job-budgets"></a>Управление бюджетами работ
 Бюджет можно настроить для каждой работы. Бюджет необходим для планирования ресурсов, выделенных для выполнения работы. Бюджет может быть общим, с небольшим количеством операций, или же он может содержать больше операций, которые разделены по уровням деятельности. Затем можно сравнивать бюджетные суммы с фактическим потреблением, занесенным в журнал работ. Контролируя различия между фактическим и бюджетным потреблением, можно контролировать текущий проект и улучшить качество будущих работ за счет снижения риска неправильной оценки затрат.
@@ -55,4 +55,4 @@ ms.locfileid: "3913175"
 [Финансы](finance.md)  
 [Покупки](purchasing-manage-purchasing.md)         
 [Продажи](sales-manage-sales.md)      
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  

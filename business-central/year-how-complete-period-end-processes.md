@@ -12,15 +12,15 @@ ms.workload: na
 ms.search.keywords: year closing, close accounting period, close fiscal year, aging, creditor payments, vendor payments
 ms.date: 10/01/2020
 ms.author: jswymer
-ms.openlocfilehash: 6526760c78cb11d8454b7f5390c6fefe713647d2
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 104f63e07e4bfd8945f73581a4fb7810f946304f
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3918242"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4755571"
 ---
 # <a name="overview-of-tasks-to-close-accounting-periods"></a>Обзор задач по закрытию учетных периодов
-[!INCLUDE[d365fin](includes/d365fin_md.md)] не требует принудительного закрытия периодов, однако предусмотрено множество действий на конец периода (месяца), которые можно выполнить. В этом разделе представлен обзор дополнительных процессов и действий для закрытия периодов.  
+[!INCLUDE[prod_short](includes/prod_short.md)] не требует принудительного закрытия периодов, однако предусмотрено множество действий на конец периода (месяца), которые можно выполнить. В этом разделе представлен обзор дополнительных процессов и действий для закрытия периодов.  
 
 ## <a name="general-ledger"></a>Главная книга
 * Укажите системные и пользовательские периоды учета.  
@@ -62,4 +62,4 @@ ms.locfileid: "3918242"
 ## <a name="see-also"></a>См. также
 [Закрытие года и периодов](year-close-years-periods.md)  
 [Закрытие книг](year-close-books.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

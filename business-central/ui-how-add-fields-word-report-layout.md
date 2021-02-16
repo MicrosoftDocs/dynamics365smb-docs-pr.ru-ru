@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: jswymer
-ms.openlocfilehash: 192ce7cfea150e78bfdcac6961e529046c920e21
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 8aef21c49c92e7440723a7cdff8ba68c3ae507b6
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3915014"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4756996"
 ---
 # <a name="add-fields-to-a-word-report-layout"></a>Добавление полей в макет отчета Word
 Набор данных отчета может состоять из полей, отображающих метки, данные и изображения. В этом разделе описывается процедура добавления полей набора данных отчета в существующий макет отчета Word для отчета. Поля добавляются с использованием пользовательской части XML в Word для отчета и путем добавления элементов управления содержимым, сопоставляемых полям в наборе данных отчета. Добавление полей требует определенных знаний набора данных отчета, чтобы можно было идентифицировать поля, которые требуется добавить в макет.  
@@ -35,7 +35,7 @@ ms.locfileid: "3915014"
   
 3.  На вкладке **Разработчик** выберите **Область сопоставления XML**.  
   
-4.  В области **Сопоставление XML** в раскрывающемся списке **Пользовательская часть XML** выберите пользовательскую часть XML для отчета ADD INCLUDE,<!--[!INCLUDE[d365fin](../../includes/d365fin_md.md)]--> который обычно последний в списке. Имя пользовательской XML-части имеет следующий формат.  
+4.  В области **Сопоставление XML** в раскрывающемся списке **Пользовательская часть XML** выберите пользовательскую часть XML для отчета ADD INCLUDE,<!--[!INCLUDE[prod_short](../../includes/prod_short.md)]--> который обычно последний в списке. Имя пользовательской XML-части имеет следующий формат.  
   
      urn:microsoft-dynamics-nav/reports/*имя_отчета*/*ИД*  
   
@@ -78,7 +78,7 @@ ms.locfileid: "3915014"
  Изображения выравниваются в верхнем левом углу элемента управления содержимым и автоматически меняют свой размер пропорционально границе элемента управления содержимым.  
   
 > [!IMPORTANT]  
->  Можно добавить изображения только в формате, поддерживаемом Word, например BMP, JPEG и PNG. При добавлении изображения в формате, не поддерживаемом Word, получается ошибка при выполнении отчета из клиента ADD INCLUDE<!--[!INCLUDE[d365fin](../../includes/d365fin_md.md)]--> .  
+>  Можно добавить изображения только в формате, поддерживаемом Word, например BMP, JPEG и PNG. При добавлении изображения в формате, не поддерживаемом Word, получается ошибка при выполнении отчета из клиента ADD INCLUDE<!--[!INCLUDE[prod_short](../../includes/prod_short.md)]--> .  
   
 #### <a name="to-add-an-image"></a>Добавление изображения  
   
@@ -99,8 +99,8 @@ ms.locfileid: "3915014"
 |------------------|-----------------|  
 |`<?xml version="1.0" encoding="utf-16"?>`|Заголовок|  
 |`<WordReportXmlPart xmlns="urn:microsoft-dynamics-365/report/<reportname>/<id>/"`|Спецификация пространства имен XML. `<reportname>` — это имя, назначенное отчету. `<id>` — это ИД, назначенный отчету.|  
-|`..<Labels>`<br /><br /> `....<ColumnNameCaption>ColumnNameCaption</ColumnNameCaption>`<br /><br /> `....<LabelName>LabelCaption</LabelName>`<br /><br /> `..</Labels>`|Содержит все метки отчета.<!--OnPren The element includes labels that are related to columns that have the [IncludeCaption Property](../FullExperience/Name%20Property-duplicate.md).--><br />-   Элементы меток, связанные со столбцами, имеют формат `<ColumnNameCaption>ColumnNameCaption</ColumnNameCaption>`.<!--OnPrem where `ColumnName` is determined by the column's Name Property.-->.<br />- Элементы меток имеют формат `<LabelName>LabelName</LabelName`<!--OnPrem where LabelName is determined by the label's Name Property.-->.<br />-   Метки перечислены в алфавитном порядке.|  
-|`..<DataItem1>`<br /><br /> `....<DataItem1Column1>DataItem1Column1</DataItem1Column1>`|Элементы данных и столбцы верхнего уровня. Столбцы перечислены в алфавитном порядке.<!--OnPrem <br /><br /> The element names and values are determined by the [Name Property-duplicate](../FullExperience/Name%20Property-duplicate.md) of the data item or column.-->|  
+|`..<Labels>`<br /><br /> `....<ColumnNameCaption>ColumnNameCaption</ColumnNameCaption>`<br /><br /> `....<LabelName>LabelCaption</LabelName>`<br /><br /> `..</Labels>`|Содержит все метки отчета.<!--OnPren The element includes labels that are related to columns that have the IncludeCaption Property.--><br />-   Элементы меток, связанные со столбцами, имеют формат `<ColumnNameCaption>ColumnNameCaption</ColumnNameCaption>`.<!--OnPrem where `ColumnName` is determined by the column's Name Property.-->.<br />- Элементы меток имеют формат `<LabelName>LabelName</LabelName`<!--OnPrem where LabelName is determined by the label's Name Property.-->.<br />-   Метки перечислены в алфавитном порядке.|  
+|`..<DataItem1>`<br /><br /> `....<DataItem1Column1>DataItem1Column1</DataItem1Column1>`|Элементы данных и столбцы верхнего уровня. Столбцы перечислены в алфавитном порядке.<!--OnPrem <br /><br /> The element names and values are determined by the Name Property of the data item or column.-->|  
 |`....<DataItem2>`<br /><br /> `......<DataItem2Column1>DataItem2Column1</DataItem2Column1>`<br /><br /> `....</DataItem2>`<br /><br /> `....<DataItem3>`<br /><br /> `......<DataItem3Column1>DataItem3Column1</DataItem3Column1>`<br /><br /> `....</DataItem3>`|Элементы данных и столбцы, вложенные в элемент данных верхнего уровня. Столбцы перечислены в алфавитном порядке под соответствующим элементом данных.|  
 |`..</DataItem1>`<br /><br /> `</WordReportXmlPart>`|Заключительный элемент.|  
   
@@ -119,7 +119,7 @@ ms.locfileid: "3915014"
   
 -   Для меток фактический текст, отображаемый в созданном отчете, — это значение свойства **Заголовок** для поля в таблице элементов данных (если метка связана со столбцом в наборе данных отчета) или для метки в конструкторе меток отчетов (если метка не связана со столбцом в наборе данных).  
   
--   Язык метки, отображаемый при выполнении отчета, зависит от настройки языка объекта отчета. <!--OnPrem For more information, see [Multiple Document Languages](../FullExperience/Viewing%20the%20Application%20in%20Different%20Languages.md).-->  
+-   Язык метки, отображаемый при выполнении отчета, зависит от настройки языка объекта отчета.  
   
 ## <a name="see-also"></a>См. также  
  [Создание и изменение пользовательского макета отчета](ui-how-create-custom-report-layout.md)   

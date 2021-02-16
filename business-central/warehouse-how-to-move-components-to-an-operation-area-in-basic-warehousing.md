@@ -1,6 +1,6 @@
 ---
-title: Как перемещать компоненты в производственную зону в основных конфигурациях склада | Документация Майкрософт
-description: Если производственные операции выполняются на складе, необходимо переместить товары между внутренними ячейками, чтобы ответить на внутренние документы-источники, например продукцию, сборку или сервисные заказы на складе.
+title: Перемещение компонентов в производственную зону в базовых конфигурациях склада
+description: Если производственные операции выполняются на складе, необходимо переместить товары между внутренними ячейками, чтобы ответить на внутренние документы-источники.
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: f628ceefb6894f8ca2f05e6345ac4f3b19f3235e
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 7812bc0675563b30805f345331423d800645b3ea
+ms.sourcegitcommit: 311e86d6abb9b59a5483324d8bb4cd1be7949248
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3923267"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "5014104"
 ---
 # <a name="move-components-to-an-operation-area-in-basic-warehouse-configurations"></a>Перемещение компонентов в производственную зону в базовых конфигурациях склада
 Если производственные операции выполняются на складе, необходимо переместить товары между внутренними ячейками, чтобы ответить на внутренние документы-источники, например продукцию, сборку или сервисные заказы на складе.  
@@ -76,4 +76,4 @@ ms.locfileid: "3923267"
 [Настройка управления складом](warehouse-setup-warehouse.md)     
 [Управление сборкой](assembly-assemble-items.md)    
 [Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

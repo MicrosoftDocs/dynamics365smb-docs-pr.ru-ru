@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: e54c82e2d00c26f191506b8057a730d31fddc867
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: ee6694f15a8717c44504dea274fa50de7a1e6e6f
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3925400"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4756021"
 ---
 # <a name="set-up-bin-types"></a>Настройка типов ячеек
 Можно направить поток товаров через ячейки, указанные для определенной складской деятельности. Для ячейки заданы базовые действия и определен метод использования ячейки при помощи присвоения типа ячейки.  
@@ -49,4 +49,4 @@ ms.locfileid: "3925400"
 [Настройка управления складом](warehouse-setup-warehouse.md)     
 [Управление сборкой](assembly-assemble-items.md)    
 [Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

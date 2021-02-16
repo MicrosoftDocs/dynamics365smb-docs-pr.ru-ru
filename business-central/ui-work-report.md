@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: task, process, report
 ms.date: 10/01/2020
 ms.author: jswymer
-ms.openlocfilehash: cdb01a2d74dff2fef15c2207f98ba8893f081aca
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: e4b1615ebf177db94e3dfb372809fa71ed2f1459
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3920376"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4760171"
 ---
 # <a name="working-with-reports-batch-jobs-and-xmlports"></a>Работа с отчетами, пакетными заданиями и XMLport
 
@@ -79,7 +79,7 @@ Using saved settings is a fast and reliable way to consistently generate reports
 - Изменение размеров по размеру страницы
 - Выберите текст
 
-    Можно копировать текст из отчетов, а затем вставлять его в другие места, например на страницу в [!INCLUDE[d365fin](includes/d365fin_md.md)] или в Microsoft Word.  Например, при использовании мыши нажмите и удерживайте кнопку мыши в месте, с которого нужно начать, затем выберите одно или несколько слов, предложений или абзацев, перемещая мышь. Нажмите правую кнопку мыши и выберите **Копировать**. Затем выбранный текст можно затем вставить в любом требуемом месте.
+    Можно копировать текст из отчетов, а затем вставлять его в другие места, например на страницу в [!INCLUDE[prod_short](includes/prod_short.md)] или в Microsoft Word.  Например, при использовании мыши нажмите и удерживайте кнопку мыши в месте, с которого нужно начать, затем выберите одно или несколько слов, предложений или абзацев, перемещая мышь. Нажмите правую кнопку мыши и выберите **Копировать**. Затем выбранный текст можно затем вставить в любом требуемом месте.
 - Сдвиньте документ
 
     Можно переместить видимую область отчета в любом направлении, чтобы просмотреть другие области отчета. Панорамирование удобно, если отчет был увеличен для просмотра подробных сведений.  Например, при использовании мыши, нажмите и удерживайте клавишу мыши в любом месте предварительного просмотра отчета и перемещайте мышь.
@@ -121,12 +121,12 @@ If no printer is specified on the **Printer Selections** page or set as default 
 <!--
 ### Browser printing
 
-Because [!INCLUDE[prodshort](includes/prodshort.md)] is a cloud service, it can't reach local printers connected to your computer. However, it can connect to cloud-enabled printers. In the generic version of [!INCLUDE[prodshort](includes/prodshort.md)], a cloud printer named **Email Printer** is installed as an extension and is ready to use after initial setup.
+Because [!INCLUDE[prod_short](includes/prod_short.md)] is a cloud service, it can't reach local printers connected to your computer. However, it can connect to cloud-enabled printers. In the generic version of [!INCLUDE[prod_short](includes/prod_short.md)], a cloud printer named **Email Printer** is installed as an extension and is ready to use after initial setup.
 
 If a cloud printer is not installed and set up, or if an installed printer fails, then printing will default to the printing options for the browser.
 
 > [!NOTE]
-> The browser printing options work independently of [!INCLUDE[prodshort](includes/prodshort.md)]. So any printer settings that might have been set up from printers in [!INCLUDE[prodshort](includes/prodshort.md)] aren't carried over to the browser print options.
+> The browser printing options work independently of [!INCLUDE[prod_short](includes/prod_short.md)]. So any printer settings that might have been set up from printers in [!INCLUDE[prod_short](includes/prod_short.md)] aren't carried over to the browser print options.
 
 <!-- 
 On the **Printer Management** page, you can see the printers that are set up. For more information, see [Set Up Printers](ui-specify-printer-selection-reports.md).
@@ -136,7 +136,7 @@ On the **Printer Management** page, you can see the printers that are set up. Fo
 -->
 ### <a name="printing-reports-in-thai"></a>Печать отчетов на тайском языке
 
-Конкретно в тайской версии [!INCLUDE[prodshort](includes/prodshort.md)] кнопка **Печать** не может правильно печатать отчеты из-за ограничений в службе, которая формирует пригодный для печати PDF-файл. Вместо этого, можно открыть в отчет в Word, затем сохранить его как печатаемый PDF.  
+Конкретно в тайской версии [!INCLUDE[prod_short](includes/prod_short.md)] кнопка **Печать** не может правильно печатать отчеты из-за ограничений в службе, которая формирует пригодный для печати PDF-файл. Вместо этого, можно открыть в отчет в Word, затем сохранить его как печатаемый PDF.  
 
 Кроме того, можно попросить администратора создать макет отчета Word для наиболее часто используемых отчетов. Дополнительные сведения см. в разделе [Управление макетами отчетов и документов](ui-manage-report-layouts.md).  
 
@@ -155,11 +155,11 @@ On the **Printer Management** page, you can see the printers that are set up. Fo
 |Максимальное количество документов|500|
 
 > [!NOTE]
-> Максимальные значения могут быть разными для [!INCLUDE[d365fin](includes/d365fin_md.md)] (локальная версия), и администратор может их изменить. Дополнительные сведения см. в разделе [Настройка Business Central Server — отчеты](/dynamics365/business-central/dev-itpro/administration/configure-server-instance#Reports). Для обзора ограничений отчетов [!INCLUDE[d365fin](includes/d365fin_md.md)] (онлайн), см. [Операционные ограничения](/dynamics365/business-central/dev-itpro/administration/operational-limits-online).
+> Максимальные значения могут быть разными для [!INCLUDE[prod_short](includes/prod_short.md)] (локальная версия), и администратор может их изменить. Дополнительные сведения см. в разделе [Настройка Business Central Server — отчеты](/dynamics365/business-central/dev-itpro/administration/configure-server-instance#Reports). Для обзора ограничений отчетов [!INCLUDE[prod_short](includes/prod_short.md)] (онлайн), см. [Операционные ограничения](/dynamics365/business-central/dev-itpro/administration/operational-limits-online).
 
 ## <a name="see-also"></a>См. также
 
 [Настройка принтеров](ui-specify-printer-selection-reports.md)  
 [Работа с календарными датами и значениями времени](ui-enter-date-ranges.md)  
 [Управление макетами отчетов и документов](ui-manage-report-layouts.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

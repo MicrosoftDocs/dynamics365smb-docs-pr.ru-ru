@@ -7,12 +7,12 @@ ms.topic: article
 ms.search.keywords: customize, personalize, personalization, hide columns, remove fields, move fields
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: bb9caf6fa4dbca9d51d66e329321fdecc6478ec0
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: cf7f261f945828b78db55cde0dda70d12b158127
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3912075"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4760346"
 ---
 # <a name="customize-pages-for-profiles"></a>Настройка страниц для профилей
 Пользователи могут персонализировать страницы, из которых состоят их рабочие области, в соответствии со своими предпочтениями. Дополнительные сведения см. в разделе [Персонализация рабочей области](ui-personalization-user.md).
@@ -29,7 +29,7 @@ ms.locfileid: "3912075"
 2. Выберите строку профиля, для которого вы хотите настроить страницы, а затем выберите действие **Изменить**.
 3. Выберите действие **Настроить страницы**.
 
-    [!INCLUDE[d365fin](includes/d365fin_md.md)] открывается на новой вкладке браузера для выбранного профиля с активированным баннером **Настройка**. Баннер **Настройка** баннер предлагает ту же функциональность, что и баннер **Персонализация**, который доступен пользователям.
+    [!INCLUDE[prod_short](includes/prod_short.md)] открывается на новой вкладке браузера для выбранного профиля с активированным баннером **Настройка**. Баннер **Настройка** баннер предлагает ту же функциональность, что и баннер **Персонализация**, который доступен пользователям.
 
 4. Настройте страницы в соответствии с потребностями соответствующей роли или отдела так же, как это сделал бы пользователь при персонализации. Дополнительные сведения см. в разделе [Персонализация рабочей области](ui-personalization-user.md).
 
@@ -70,4 +70,4 @@ ms.locfileid: "3912075"
 [Управление профилями](admin-users-profiles-roles.md)  
 [Изменение базовых настроек](ui-change-basic-settings.md)  
 [Изменение набора отображаемых функций](ui-experiences.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  

@@ -1,8 +1,6 @@
 ---
-title: Выверка платежей поставщикам с журналом платежей или из книги операций по поставщикам | Документация Майкрософт
+title: Выверка квитанций или возвратов платежей клиентов в журнале платежей
 description: Для обработки, сопоставления и выверки платежей клиентов и возмещений вручную вы применяете сумму к одной или нескольким открытым операциям поставщика.
-services: project-madeira
-documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: article
@@ -12,12 +10,12 @@ ms.workload: na
 ms.search.keywords: payment application, payment processing, match payments
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: b981a0062c628f3ffe3b0de8eaf4c811a13632ec
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 8f88f7df150f988b0d365b383a89a778a0dc9a15
+ms.sourcegitcommit: 311e86d6abb9b59a5483324d8bb4cd1be7949248
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3916830"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "5013671"
 ---
 # <a name="reconcile-vendor-payments-with-the-payment-journal-or-from-vendor-ledger-entries"></a>Выверка платежей поставщикам с журналом платежей или из книги операций по поставщикам
 При отправке платежа или получении возмещения от поставщика требуется решить, следует ли применять эту оплату или возмещение к одной или нескольким открытым операциям. Можно определить точную сумму, которую требуется применить, например к денежным поступлениям или возмещениям, и тем самым только частично применить операции книги поставщиков. Важно также применить все операции книги поставщиков, чтобы получить правильную статистику поставщика, а также выписки по счету и процент-ноты.
@@ -122,4 +120,4 @@ ms.locfileid: "3916830"
 ## <a name="see-also"></a>См. также
 [Кредиторская задолженность](payables-manage-payables.md)  
 [Покупки](purchasing-manage-purchasing.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

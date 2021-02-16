@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: supply planning, sales demand, replenish
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 7f9fb4a2574c93c60f0bfbcaeeff86676393555d
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 44a11933488ef6f7c6a8b007bdd9ae9049a5b3bc
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3926851"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4758521"
 ---
 # <a name="purchase-items-for-a-sale"></a>Покупка товаров для продажи
 Из заказов на продажу и счетов продажи можно быстро создавать документы покупки на недостающие количества товаров, требуемые для продажи. Вы можете использовать две различные функции в зависимости от типа документа.
@@ -69,4 +69,4 @@ ms.locfileid: "3926851"
 [Регистрация покупок](purchasing-how-record-purchases.md)  
 [Выставление счетов продажи](sales-how-invoice-sales.md)  
 [Регистрация новых поставщиков](purchasing-how-register-new-vendors.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

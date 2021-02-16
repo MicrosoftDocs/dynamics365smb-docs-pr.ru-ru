@@ -10,21 +10,21 @@ ms.workload: na
 ms. search.keywords: bank, format, data
 ms.date: 10/01/2020
 ms.author: bholtorf
-ms.openlocfilehash: 8eb45d8c65a09ac56617f84a41543c38a4518fa9
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: a2147240aac15b805a6f64473b5eb2febb38deac
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3912400"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4757571"
 ---
 # <a name="using-the-amc-banking-365-fundamentals-extension"></a>Использование расширения AMC Banking 365 Fundamentals
-Расширение AMC Banking 365 Fundamentals упрощает и делает более точной отправку данных в ваши банки. Расширение подключает [!INCLUDE[d365fin](includes/d365fin_md.md)] к службе AMC Banking 365 Fundamentals для Microsoft Dynamics 365 Business Central, которая может конвертировать банковские данные из [!INCLUDE[d365fin](includes/d365fin_md.md)] в форматы, которые требуются более чем 600 банками по всему миру. Например, это облегчает перевод платежей и кредитов поставщикам путем ввода платежей в [!INCLUDE[d365fin](includes/d365fin_md.md)], а затем отправки их в ваш банк. Форматы также могут упростить процессы выверки банковских счетов. Для получения дополнительной информации см. раздел [AMC Banking для Microsoft Dynamics 365 Business Central](https://amcbanking.com/landing365bc/help),
+Расширение AMC Banking 365 Fundamentals упрощает и делает более точной отправку данных в ваши банки. Расширение подключает [!INCLUDE[prod_short](includes/prod_short.md)] к службе AMC Banking 365 Fundamentals для Microsoft Dynamics 365 Business Central, которая может конвертировать банковские данные из [!INCLUDE[prod_short](includes/prod_short.md)] в форматы, которые требуются более чем 600 банками по всему миру. Например, это облегчает перевод платежей и кредитов поставщикам путем ввода платежей в [!INCLUDE[prod_short](includes/prod_short.md)], а затем отправки их в ваш банк. Форматы также могут упростить процессы выверки банковских счетов. Для получения дополнительной информации см. раздел [AMC Banking для Microsoft Dynamics 365 Business Central](https://amcbanking.com/landing365bc/help),
 
 > [!Note]
-> AMC Banking имеет встроенные дополнительные расширения, которые работают с [!INCLUDE[d365fin](includes/d365fin_md.md)]. В этом разделе описывается только расширение Fundamentals.
+> AMC Banking имеет встроенные дополнительные расширения, которые работают с [!INCLUDE[prod_short](includes/prod_short.md)]. В этом разделе описывается только расширение Fundamentals.
 
 ## <a name="using-our-demonstration-account"></a>Использование нашей демонстрационной учетной записи
-[!INCLUDE[d365fin](includes/d365fin_md.md)] поставляется с демонстрационной учетной записью, которая позволяет вам попробовать расширение AMC Banking 365 Fundamentals. Мы предоставляем настройки по умолчанию для подключения к AMC Banking с указанием банковских счетов, из которых требуется получать данные, в [!INCLUDE[d365fin](includes/d365fin_md.md)], плюс несколько определений обмена данными. Вы можете просмотреть настройки подключения на странице **Настройка AMC Banking**. Для банковских счетов расширение применяет значения в полях **Название банка**, **Номера сообщ. кред. переводов**, **Формат импорта банковской выписки** и **Формат экспорта платежей** на карточках банковских счетов.
+[!INCLUDE[prod_short](includes/prod_short.md)] поставляется с демонстрационной учетной записью, которая позволяет вам попробовать расширение AMC Banking 365 Fundamentals. Мы предоставляем настройки по умолчанию для подключения к AMC Banking с указанием банковских счетов, из которых требуется получать данные, в [!INCLUDE[prod_short](includes/prod_short.md)], плюс несколько определений обмена данными. Вы можете просмотреть настройки подключения на странице **Настройка AMC Banking**. Для банковских счетов расширение применяет значения в полях **Название банка**, **Номера сообщ. кред. переводов**, **Формат импорта банковской выписки** и **Формат экспорта платежей** на карточках банковских счетов.
 
 Мы предоставляем настройки, но чтобы опробовать расширение, вы должны запустить мастер настройки, чтобы применить их. Чтобы запустить мастер, на странице **Настройка AMC Banking** выберите действие **Мастер настройки**.
 
@@ -48,7 +48,7 @@ ms.locfileid: "3912400"
 
 ### <a name="to-connect-the-extension-to-amc-banking"></a>Чтобы подключить расширение к AMC Banking
 1. Получить модуль и план обслуживания для AMC Banking. Для этого посетите страницу [Лицензия AMC](https://license.amcbanking.com/register).
-2. В [!INCLUDE[d365fin](includes/d365fin_md.md)] выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка AMC Banking**, затем выберите соответствующую ссылку.  
+2. В [!INCLUDE[prod_short](includes/prod_short.md)] выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка AMC Banking**, затем выберите соответствующую ссылку.  
 3. На странице **Настройка AMC Banking** выберите действие **Мастер настройки**.
 4. Выполните шаги облегчить в мастере настройки.
 
@@ -82,8 +82,8 @@ ms.locfileid: "3912400"
 1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Журнал выверки платежей**, затем выберите соответствующую ссылку.
 2. Выберите действие **Импорт банковских транзакций**, затем выберите преобразованный файл.  
 
-   [!INCLUDE[d365fin](includes/d365fin_md.md)] создаст новый журнал выверки платежей, содержащий данные в файле. Дополнительные сведения см. в разделе [Автоматическое применение платежей и выверка банковских счетов](receivables-apply-payments-auto-reconcile-bank-accounts.md).
+   [!INCLUDE[prod_short](includes/prod_short.md)] создаст новый журнал выверки платежей, содержащий данные в файле. Дополнительные сведения см. в разделе [Автоматическое применение платежей и выверка банковских счетов](receivables-apply-payments-auto-reconcile-bank-accounts.md).
 
 ## <a name="see-also"></a>См. также
-[Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью расширений](ui-extensions.md)  
+[Настройка [!INCLUDE[prod_short](includes/prod_short.md)] с помощью расширений](ui-extensions.md)  
 [Приступая к работе](product-get-started.md)

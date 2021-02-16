@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: transportation, added cost, landed cost
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: a4fa309b776fd0a11fafbde1df9f93b6583eddb0
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: bd6392753b41ac080fd0933f9f3a55ddc17a2a54
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3916805"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4759621"
 ---
 # <a name="use-item-charges-to-account-for-additional-trade-costs"></a>Использование товарных издержек для учета дополнительных торговых расходов
 Чтобы правильно оценить товары, необходимо перенести на них дополнительные издержки, например в связи с транспортировкой, физическим обращением, страховкой, которые возникли при покупке или продаже товаров. В случае покупки стоимость покупаемого товара состоит из цены поставщика и всех дополнительных прямых товарных издержек, которые могут быть заданы по индивидуальным приемкам или расходным накладным на возврат товара. В случае продажи знать затраты по отгрузке проданного товара может быть так же важно для организации, как знать затраты по получению приобретенного товара.
@@ -85,4 +85,4 @@ ms.locfileid: "3916805"
 [Управление кредиторской задолженностью](payables-manage-payables.md)  
 [Регистрация покупок](purchasing-how-record-purchases.md)  
 [Выставление счетов продажи](sales-how-invoice-sales.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  

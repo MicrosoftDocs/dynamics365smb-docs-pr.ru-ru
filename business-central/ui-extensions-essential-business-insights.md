@@ -11,12 +11,12 @@ ms.workload: na
 ms.search.keywords: BI, add-in, insight, headline, data
 ms.date: 10/01/2020
 ms.author: bholtorf
-ms.openlocfilehash: 88aba42c6d30cb28020386f265150a0a8f201179
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 2be073fbb2216e9a87c54b7c4d9fd3fa86e02aee
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3915164"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4757221"
 ---
 # <a name="the-essential-business-insights-extension"></a>Расширение Essential Business Insights
 Расширение Essential Business Insights находит интересные бизнес-сведения в данных вашей организации и отображает их в виде газетных заголовков в ролевых центрах. В зависимости от того, что это расширение находит в данных, аналитика поступает за прошлую неделю, месяц или три месяца от текущей даты. Аналитика обновляется каждые 10 минут.  
@@ -37,4 +37,4 @@ ms.locfileid: "3915164"
 |Администратор| Отображает приветствие и ссылку на информацию о продукте.|
 
 ## <a name="see-also"></a>См. также
-[Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью расширений](ui-extensions.md)
+[Настройка [!INCLUDE[prod_short](includes/prod_short.md)] с помощью расширений](ui-extensions.md)

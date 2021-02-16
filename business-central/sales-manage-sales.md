@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: trade, sell
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: a065585c01d55c35575ef06853b5ef4a7ec8e4f9
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: ed0ce67b1093fae2e0a20d2a2b871681ddff214d
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3910459"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4758046"
 ---
 # <a name="sales"></a>Продажи
 Счет продажи или заказы на продажу создаются для записи соглашения с клиентом о продаже определенных товаров на определенных условиях доставки и оплаты.
@@ -26,7 +26,7 @@ ms.locfileid: "3910459"
 
 Можно легко скорректировать или отменить учтенный счет продажи до оплаты. Это используется, если нужно исправить опечатку или клиент запрашивает изменение на раннем этапе обработки заказа. Если учтенный счет продажи оплачен, необходимо создать кредит-ноту продажи или заказ на возврат продажи для сторнирования продажи.
 
-Успешные методики продаж и маркетинга помогают принимать правильные решения в нужное время. Функции маркетинга в [!INCLUDE[d365fin](includes/d365fin_md.md)] предоставляют точный и своевременный обзор контактной информации для более эффективного обслуживания потенциальных клиентов и постоянного повышения качества этого обслуживания. Дополнительные сведения см. разделе [Управление отношениями](marketing-relationship-management.md).
+Успешные методики продаж и маркетинга помогают принимать правильные решения в нужное время. Функции маркетинга в [!INCLUDE[prod_short](includes/prod_short.md)] предоставляют точный и своевременный обзор контактной информации для более эффективного обслуживания потенциальных клиентов и постоянного повышения качества этого обслуживания. Дополнительные сведения см. разделе [Управление отношениями](marketing-relationship-management.md).
 
 Если вы используете Dynamics 365 Sales для взаимодействия с клиентами, вы получаете в свое распоряжение бесшовную интеграцию процесса от интереса до получения денег, используя Business Central для внутренних действий, таких как обработка заказов, управление запасами и работа с финансами. Дополнительные сведения см. в разделе [Использование Dynamics 365 Sales из Business Central](marketing-integrate-dynamicscrm.md).
 
@@ -66,7 +66,7 @@ ms.locfileid: "3910459"
 [Управление дебиторской задолженностью](receivables-manage-receivables.md)  
 [Управление кредиторской задолженностью](payables-manage-payables.md)  
 [Управление проектами](projects-manage-projects.md)    
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 [Общие бизнес-функции](ui-across-business-areas.md)
 
-## [!INCLUDE[d365fin](includes/free_trial_md.md)]  
+## [!INCLUDE[prod_short](includes/free_trial_md.md)]  

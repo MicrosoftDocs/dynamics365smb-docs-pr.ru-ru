@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: f158499f0c93e1a991b1f092676f653cf067a46e
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 4a8233ec0ce59e5ce784a00f983b0666b9989255
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3910034"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4759646"
 ---
 # <a name="put-items-away-with-warehouse-put-aways"></a>Размещение товаров с помощью складских размещений
 Если склад настроен так, что требуется обработка как складского размещения, так и складской приемки, то для управления размещением товаров используются документы складского размещения.  
@@ -78,4 +78,4 @@ ms.locfileid: "3910034"
 [Настройка управления складом](warehouse-setup-warehouse.md)     
 [Управление сборкой](assembly-assemble-items.md)    
 [Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

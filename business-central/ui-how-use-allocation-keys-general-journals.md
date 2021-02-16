@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: cost accounting
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: af18a94f5cf6b24b0da24821499e3866487207be
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 84ea436a7e7edc6851b97b718b66195edddd2da2
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3918542"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4760496"
 ---
 # <a name="use-allocation-keys-in-general-journals"></a>Использование ключей распределения в финансовых журналах
 При учете журнала операцию финансового журнала можно распределить по нескольким разным счетам. Распределение может выполняться по количеству, по процентному отношению или сумме.
@@ -46,4 +46,4 @@ ms.locfileid: "3918542"
 ## <a name="see-also"></a>См. также
 [Работа с финансовыми журналами](ui-work-general-journals.md)  
 [Учет документов и журналов](ui-post-documents-journals.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

@@ -1,0 +1,1 @@
+Веб-клиент Business Central

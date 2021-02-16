@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 280915af533d27efd5067518cd5492815662371d
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 71f6109c7e4fc2a66896cd14352c19e2e08b51c4
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3910084"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4756071"
 ---
 # <a name="restructure-warehouses"></a>Изменение структуры складов
 Может возникнуть необходимость реструктуризации склада и введения новых кодов и характеристик ячеек. Этот род действий применяется не слишком часто, но иногда для достижения или обеспечения более эффективной работы склада необходима реклассификация. Например:  
@@ -87,4 +87,4 @@ ms.locfileid: "3910084"
 [Настройка управления складом](warehouse-setup-warehouse.md)     
 [Управление сборкой](assembly-assemble-items.md)    
 [Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
