@@ -197,3 +197,6 @@ ms.locfileid: "4750334"
 [Локальная функциональность в Business Central](about-localization.md)  
 
 ## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/process-vat-dynamics-365-business-central/)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

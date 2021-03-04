@@ -67,3 +67,6 @@ ms.locfileid: "3921262"
 ## <a name="see-also"></a>См. также
 
 [Инвентаризация основных средств](Fixed-Asset-Inventory.md)
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

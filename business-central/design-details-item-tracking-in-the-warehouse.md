@@ -31,3 +31,6 @@ ms.locfileid: "3917405"
 [Сведения о проектировании: интеграция с запасом](design-details-integration-with-inventory.md)  
 [Сведения о проектировании: наличие на складе](design-details-availability-in-the-warehouse.md)  
 [Сведения о проектировании: разработка трассировки товара](design-details-item-tracking-design.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

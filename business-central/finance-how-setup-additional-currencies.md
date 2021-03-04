@@ -127,3 +127,6 @@ ms.locfileid: "4746895"
 [Обновление валютных курсов](finance-how-update-currencies.md)  
 [Закрытие года и периодов](year-close-years-periods.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

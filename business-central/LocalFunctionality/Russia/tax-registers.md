@@ -34,3 +34,6 @@ ms.locfileid: "4753213"
 [Расчет налоговых регистров](How-to-Create-Tax-Registers.md)  
 [Настройка секций налогового регистра](How-to-Set-Up-Tax-Register-Sections.md)  
 [Налоговые разницы](Tax-Differences.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

@@ -80,3 +80,6 @@ ms.locfileid: "4817260"
 [Добро пожаловать в Business Central](index.md)  
 
 ## [!INCLUDE[prod_short](includes/free_trial_md.md)]  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

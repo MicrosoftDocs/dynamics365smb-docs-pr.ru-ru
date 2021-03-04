@@ -200,3 +200,6 @@ ms.locfileid: "4747972"
 [Настройка сервисных контрактов](service-how-setup-service-contracts.md)  
 [Управление сервисом](service-service.md)  
 [Преобразование сервисных контрактов, которые включают суммы НДС](service-how-to-convert-service-contracts.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

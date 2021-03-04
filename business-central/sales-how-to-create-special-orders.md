@@ -49,3 +49,6 @@ ms.locfileid: "4748247"
 [Выполнение прямых поставок](sales-how-drop-shipment.md)   
 [Сведения о проектировании: политики дозаказа](design-details-reservation-order-tracking-and-action-messaging.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

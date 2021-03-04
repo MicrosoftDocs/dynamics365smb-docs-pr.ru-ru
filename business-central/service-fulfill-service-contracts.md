@@ -37,3 +37,6 @@ ms.locfileid: "3910359"
 [Предоставление услуги](service-deliver-service.md)  
 [Настройка управления сервисным обслуживанием](service-setup-service.md)  
 [Создание сервисных контрактов и предложений по сервисному контракту](service-how-to-create-service-contracts-and-service-contract-quotes.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

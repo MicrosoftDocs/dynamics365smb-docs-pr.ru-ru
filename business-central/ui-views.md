@@ -50,3 +50,6 @@ ms.locfileid: "5024491"
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)    
 [Изменение базовых настроек](ui-change-basic-settings.md)  
 [Изменение набора отображаемых функций](ui-experiences.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

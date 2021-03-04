@@ -104,3 +104,6 @@ ms.locfileid: "3922687"
 ## <a name="see-also"></a>См. также
 
 [Акты обязательств по товару](Item-Obligatory-Acts.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

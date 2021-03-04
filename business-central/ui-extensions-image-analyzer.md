@@ -104,3 +104,6 @@ ms.locfileid: "4757246"
 [Работа с атрибутами товаров](inventory-how-work-item-attributes.md)  
 [Настройка [!INCLUDE[prod_short](includes/prod_short.md)] с помощью расширений](ui-extensions.md)  
 [Приступая к работе](product-get-started.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

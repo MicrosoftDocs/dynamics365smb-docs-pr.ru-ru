@@ -103,3 +103,6 @@ ms.locfileid: "5035385"
 [Сбор непогашенных остатков задолженности](receivables-collect-outstanding-balances.md)  
 [Настройка процентных ставок](finance-setup-finance-charges.md)  
 [Настройка финансов](finance-setup-finance.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

@@ -305,3 +305,6 @@ ms.locfileid: "4756371"
 [Найти записи](ui-find-entries.md)  
 [Пошаговые описания бизнес-процессов](walkthrough-business-process-walkthroughs.md)  
 
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

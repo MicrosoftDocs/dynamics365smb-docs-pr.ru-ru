@@ -79,3 +79,6 @@ ms.locfileid: "4746670"
 [Главная книга и план счетов](finance-general-ledger.md)  
 [Настройка финансов](finance-setup-finance.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

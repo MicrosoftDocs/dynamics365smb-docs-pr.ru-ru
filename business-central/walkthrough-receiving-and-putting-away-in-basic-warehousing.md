@@ -148,3 +148,6 @@ ms.locfileid: "5035560"
  [Сведения о проектировании: входящий складской поток](design-details-inbound-warehouse-flow.md)   
  [Пошаговые описания бизнес-процессов](walkthrough-business-process-walkthroughs.md)  
  [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

@@ -41,3 +41,6 @@ ms.locfileid: "4754746"
 ## <a name="see-also"></a>См. также  
 [Создание рабочих процессов](across-how-to-create-workflows.md)   
 [Рабочий процесс](across-workflow.md)   
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

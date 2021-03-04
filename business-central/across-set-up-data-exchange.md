@@ -42,3 +42,6 @@ ms.locfileid: "4753054"
 [Электронный обмен данными](across-data-exchange.md)  
 [Входящие документы](across-income-documents.md)  
 [Общие бизнес-функции](ui-across-business-areas.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

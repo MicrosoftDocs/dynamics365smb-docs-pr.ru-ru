@@ -62,3 +62,6 @@ ms.locfileid: "5024542"
 [Управление макетами отчетов](ui-manage-report-layouts.md)  
 [Работа с отчетами, пакетными заданиями и XMLport](ui-work-report.md)  
 [Работа с отчетами, пакетными заданиями и XMLport](ui-work-report.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

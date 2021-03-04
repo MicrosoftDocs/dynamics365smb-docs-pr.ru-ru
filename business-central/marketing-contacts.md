@@ -37,3 +37,6 @@ ms.locfileid: "3922772"
 [Управление возможностями продаж](marketing-manage-sales-opportunities.md)  
 [Сортировка, поиск и фильтрация](ui-enter-criteria-filters.md)  
 [Работа с Business Central](ui-work-product.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

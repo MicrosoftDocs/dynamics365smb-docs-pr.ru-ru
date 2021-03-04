@@ -45,3 +45,6 @@ ms.locfileid: "4757296"
 
 [Интеллектуальная аналитика](about-intelligent-cloud.md)  
 [Базовое расширение интеллектуального облака](ui-extensions-intelligent-cloud.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

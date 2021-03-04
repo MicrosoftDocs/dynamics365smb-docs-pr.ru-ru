@@ -46,3 +46,6 @@ ms.locfileid: "5068289"
 [Экспорт бизнес-данных в Excel](about-export-data.md)  
 [Центр администрирования Microsoft 365](https://admin.microsoft.com/)  
 [Какова продолжительность пробного периода и как отменить подписку?](https://community.dynamics.com/business/b/financials/archive/2016/11/28/how-long-is-the-trial-period-and-how-do-i-cancel)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

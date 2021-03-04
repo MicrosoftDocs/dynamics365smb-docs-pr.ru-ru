@@ -99,3 +99,6 @@ ms.locfileid: "4748084"
 [Учет сервисных счетов](service-how-to-post-service-orders.md)  
 [Настройка управления сервисным обслуживанием](service-setup-service.md)  
 [Учет сервиса](service-service-posting.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

@@ -59,3 +59,6 @@ ms.locfileid: "3921721"
 > Для графической версии, пригодной для печати, выберите следующее изображение и скачайте файл PDF.
 >
 > [![Значок, который открывает PDF](media/keyboard_shortcut_inline.png)](media/keyboard_shortcuts.pdf)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

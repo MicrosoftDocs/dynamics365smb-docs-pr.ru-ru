@@ -83,3 +83,6 @@ ms.locfileid: "4757996"
 [Настройка кодов для стандартных сервисов](service-how-setup-service-coding.md)  
  
 
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

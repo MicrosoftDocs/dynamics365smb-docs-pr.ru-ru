@@ -83,3 +83,6 @@ ms.locfileid: "4817083"
 [Главная книга и план счетов](finance-general-ledger.md)  
 [Работа с измерениями](finance-dimensions.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

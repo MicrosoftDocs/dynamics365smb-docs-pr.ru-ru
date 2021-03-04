@@ -161,3 +161,6 @@ ms.locfileid: "5035660"
  [Сведения о проектировании: входящий складской поток](design-details-inbound-warehouse-flow.md)   
  [Пошаговое руководство. Получение и складирование в базовых конфигурациях склада](walkthrough-receiving-and-putting-away-in-basic-warehousing.md)   
  [Пошаговые описания бизнес-процессов](walkthrough-business-process-walkthroughs.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

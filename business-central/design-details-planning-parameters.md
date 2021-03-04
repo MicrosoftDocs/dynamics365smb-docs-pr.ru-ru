@@ -120,3 +120,6 @@ ms.locfileid: "4751284"
 [Сведения о проектировании: обработка политик дозаказа](design-details-handling-reordering-policies.md)   
 [Сведения о проектировании: балансировка спроса и поставки](design-details-balancing-demand-and-supply.md)   
 [Сведения о проектировании: основные понятия системы планирования](design-details-central-concepts-of-the-planning-system.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

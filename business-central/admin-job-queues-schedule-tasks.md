@@ -93,3 +93,6 @@ ms.locfileid: "5013950"
 [Настройка Business Central](setup.md)  
 [Изменение базовых настроек](ui-change-basic-settings.md)  
 [Анализ телеметрии трассировки жизненного цикла очереди заданий](/dynamics365smb-devitpro\dev-itpro\administration\telemetry-job-queue-lifecycle-trace)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

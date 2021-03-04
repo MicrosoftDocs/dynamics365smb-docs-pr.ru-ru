@@ -132,3 +132,6 @@ ms.locfileid: "4757871"
 ## <a name="see-also"></a>См. также  
 [Учет в сервисном обслуживании](service-service-posting.md)  
 [Создание сервисного заказа](service-how-to-create-service-orders.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

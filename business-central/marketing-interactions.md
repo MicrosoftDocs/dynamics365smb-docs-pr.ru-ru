@@ -56,3 +56,6 @@ ms.locfileid: "3914043"
 [Управление контактами](marketing-contacts.md)  
 [Управление возможностями продаж](marketing-manage-sales-opportunities.md)  
 [Работа с Business Central](ui-work-product.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

@@ -49,3 +49,6 @@ ms.locfileid: "4755171"
 [Администрация](admin-setup-and-administration.md)  
 [Настройка [!INCLUDE[prod_short](includes/prod_short.md)]](setup.md)  
 [Настройка сложных областей приложения с помощью рекомендаций](set-up-complex-application-areas-using-best-practices.md)   
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

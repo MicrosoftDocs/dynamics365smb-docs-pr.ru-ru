@@ -52,3 +52,6 @@ ms.locfileid: "4756971"
 [Управление макетами отчетов](ui-manage-report-layouts.md)  
 [Выбор макета платежного документа](finance-how-define-check-layouts.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

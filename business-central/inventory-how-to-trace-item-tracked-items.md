@@ -72,3 +72,6 @@ ms.locfileid: "4750009"
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
 [Пошаговое руководство. Трассировка серийных номеров и номеров партии](walkthrough-tracing-serial-lot-numbers.md)  
 [Найти записи](ui-find-entries.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

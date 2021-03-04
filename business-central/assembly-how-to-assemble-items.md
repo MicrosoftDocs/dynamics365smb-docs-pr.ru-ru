@@ -73,3 +73,6 @@ ms.locfileid: "4747395"
 [Запасы](inventory-manage-inventory.md)  
 [Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

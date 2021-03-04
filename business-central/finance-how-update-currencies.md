@@ -78,3 +78,6 @@ ms.locfileid: "4750634"
 [Настройка дополнительной отчетной валюты](finance-how-setup-additional-currencies.md)  
 [Закрытие года и периодов](year-close-years-periods.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

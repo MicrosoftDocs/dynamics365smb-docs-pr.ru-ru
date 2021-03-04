@@ -32,3 +32,6 @@ ms.locfileid: "3921212"
 
 [Малоценные основные средства](Undepreciable-Fixed-Assets.md)  
 [Основные Средства](fixed-assets.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

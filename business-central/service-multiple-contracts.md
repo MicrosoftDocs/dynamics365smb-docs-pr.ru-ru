@@ -46,3 +46,6 @@ ms.locfileid: "3915289"
 ## <a name="see-also"></a>См. также  
 [Выполнение контрактов на обслуживание](service-fulfill-service-contracts.md)  
 [Создание сервисных заказов](service-how-to-create-service-orders.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

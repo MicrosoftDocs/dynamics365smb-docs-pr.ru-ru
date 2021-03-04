@@ -145,3 +145,6 @@ ms.locfileid: "4745991"
 [Назначение разрешений пользователям и группам](ui-define-granular-permissions.md)  
 [Настройка страниц для профилей](ui-personalization-manage.md)  
 [Персонализация рабочей области](ui-personalization-user.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

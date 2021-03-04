@@ -51,3 +51,6 @@ ms.locfileid: "4750909"
 [Управление кредиторской задолженностью](payables-manage-payables.md)  
 [Управление дебиторской задолженностью](receivables-manage-receivables.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

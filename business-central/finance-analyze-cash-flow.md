@@ -55,3 +55,6 @@ ms.locfileid: "4751034"
 [Настройка финансов](finance-setup-finance.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 [Настройка анализа движения денежных средств](finance-setup-cash-flow-analyses.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

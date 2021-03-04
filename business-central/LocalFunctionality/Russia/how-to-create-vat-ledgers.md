@@ -53,3 +53,6 @@ ms.locfileid: "3921236"
 [Книги НДС](VAT-Ledgers.md)  
 [Настройка книг НДС](How-to-Set-Up-VAT-Ledgers.md)  
 [Создание дополнительных листов](How-to-Create-Additional-Sheets.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

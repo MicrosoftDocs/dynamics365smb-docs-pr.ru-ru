@@ -62,3 +62,6 @@ ms.locfileid: "4754996"
 [Настройка подключения к Microsoft Dataverse](admin-how-to-set-up-a-dynamics-crm-connection.md)  
 [Связывание и синхронизация записей вручную](admin-how-to-couple-and-synchronize-records-manually.md)  
 [Просмотр статуса синхронизации](admin-how-to-view-synchronization-status.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

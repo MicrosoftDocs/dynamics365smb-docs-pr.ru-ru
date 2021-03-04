@@ -68,3 +68,6 @@ ms.locfileid: "4753346"
 [Использование расширения AMC Banking 365 Fundamentals](ui-extensions-amc-banking.md)   
 [Использование XML-схем для определения обмена данными](across-how-to-use-xml-schemas-to-prepare-data-exchange-definitions.md)  
 [Выверка платежей с использованием автоматического применения](receivables-how-reconcile-payments-auto-application.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

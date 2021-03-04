@@ -110,3 +110,6 @@ ms.locfileid: "4748047"
 [Настройка управления сервисным обслуживанием](service-setup-service.md)  
 [Работа с сервисными задачами](service-how-to-work-on-service-tasks.md)  
 [Распределение ресурсов](service-how-to-allocate-resources.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

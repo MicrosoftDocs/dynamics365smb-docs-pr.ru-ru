@@ -34,3 +34,6 @@ ms.locfileid: "3921216"
 ## <a name="see-also"></a>См. также
 
 [Ввод сведений таможенных деклараций](How-to-Enter-Custom-Declarations-Information.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

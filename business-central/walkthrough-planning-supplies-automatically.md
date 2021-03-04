@@ -267,3 +267,6 @@ ms.locfileid: "5035710"
  [Пошаговые описания бизнес-процессов](walkthrough-business-process-walkthroughs.md)   
  [Пошаговое руководство. Планирование поставок вручную](walkthrough-planning-supplies-manually.md)   
  [Сведения о проектировании: планирование поставок](design-details-supply-planning.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

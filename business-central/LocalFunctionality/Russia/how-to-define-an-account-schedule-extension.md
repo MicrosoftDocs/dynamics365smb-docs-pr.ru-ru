@@ -34,3 +34,6 @@ ms.locfileid: "4752429"
 [Работа с финансовыми отчетами](How-to-Work-with-Account-Schedules.md)  
 [Обзор финансовых отчетов](account-schedules-overview.md)  
 [Определение константы финансового отчета](How-to-Define-an-Account-Schedule-Constant.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

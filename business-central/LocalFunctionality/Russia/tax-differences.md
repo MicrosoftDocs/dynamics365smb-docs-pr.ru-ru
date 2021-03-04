@@ -42,3 +42,6 @@ ms.locfileid: "4753215"
 [Регистры налоговых разниц](Tax-Difference-Registers.md)  
 [Налоговый учет](Tax-Accounting.md)  
 [Налоговые регистры](Tax-Registers.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

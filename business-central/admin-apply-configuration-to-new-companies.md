@@ -33,3 +33,6 @@ ms.locfileid: "3927176"
 ## <a name="see-also"></a>См. также  
 [Настройка организации со службами RapidStart Services](admin-set-up-a-company-with-rapidstart.md)  
 [Администрация](admin-setup-and-administration.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

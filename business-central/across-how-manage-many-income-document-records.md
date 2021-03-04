@@ -57,3 +57,6 @@ ms.locfileid: "4754946"
 [Входящие документы](across-income-documents.md)  
 [Покупки](purchasing-manage-purchasing.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

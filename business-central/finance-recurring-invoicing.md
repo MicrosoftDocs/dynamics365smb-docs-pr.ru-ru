@@ -121,3 +121,6 @@ ms.locfileid: "4750484"
 [Прогнозы спроса и общие заказы](design-details-central-concepts-of-the-planning-system.md#demand-forecasts-and-blanket-orders)  
 [Работа с общими заказами на продажу](sales-how-to-create-blanket-sales-orders.md)  
 [Типовые заказы (Норвегия)](LocalFunctionality/Norway/recurring-orders.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

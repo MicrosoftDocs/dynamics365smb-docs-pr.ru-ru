@@ -32,3 +32,6 @@ ms.locfileid: "3921250"
 
 [Основные Средства](../../fa-manage.md)  
 [Функциональность локальной версии для России](russia-local-functionality.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

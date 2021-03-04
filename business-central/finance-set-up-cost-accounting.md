@@ -183,3 +183,6 @@ ms.locfileid: "4746645"
 [Перемещение и операции учета затрат](finance-transfer-and-post-cost-entries.md)   
 [Определение и распределение затрат](finance-define-and-allocate-costs.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

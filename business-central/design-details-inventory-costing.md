@@ -41,3 +41,6 @@ ms.locfileid: "4751484"
 [Сведения о проектировании: счета в главной книге](design-details-accounts-in-the-general-ledger.md)  
 [Сведения о проектировании: оценка стоимости запасов](design-details-inventory-valuation.md)  
 [Сведения о проектировании: переоценка](design-details-revaluation.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

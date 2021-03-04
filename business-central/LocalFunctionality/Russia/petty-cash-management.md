@@ -101,3 +101,6 @@ ms.locfileid: "3923996"
 [Печать отчета "Журнал регистрации кассовых документов КО-3"](How-to-Print-the-Cash-Order-Journal-CO-3-Report.md)  
 [Печать отчета "Кассовая книга КО-4"](How-to-Print-the-Cash-Report-CO-4-Report.md)  
 
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

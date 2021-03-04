@@ -48,3 +48,5 @@ ms.locfileid: "3922121"
 ## <a name="see-also"></a>См. также  
  [Сведения о проектировании: управление складом](design-details-warehouse-management.md)   
  [Сведения о проектировании: наличие на складе](design-details-availability-in-the-warehouse.md)
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

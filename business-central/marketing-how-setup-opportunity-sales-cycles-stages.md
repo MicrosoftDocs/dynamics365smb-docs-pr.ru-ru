@@ -66,3 +66,6 @@ ms.locfileid: "4755396"
 [Обработка возможностей продаж](marketing-processing-sales-opportunities.md)  
 [Продажи](sales-manage-sales.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

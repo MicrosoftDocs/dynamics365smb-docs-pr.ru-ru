@@ -40,3 +40,6 @@ ms.locfileid: "3922271"
 
 [Инспекция страниц](across-inspect-page.md)  
 [Статьи о производительности для разработчиков](/dynamics365/business-central/dev-itpro/performance/performance-developer)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

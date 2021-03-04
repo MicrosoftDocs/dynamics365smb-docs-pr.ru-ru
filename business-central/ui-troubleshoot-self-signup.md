@@ -49,3 +49,6 @@ ms.locfileid: "4756671"
 [Локальная функциональность](about-localization.md)  
 [Наличие в странах/регионах и поддерживаемые переводы](/dynamics365/business-central/dev-itpro/compliance/apptest-countries-and-translations?toc=/dynamics365/business-central/toc.json)  
 [Международная доступность Microsoft Dynamics 365](/dynamics365/get-started/availability)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

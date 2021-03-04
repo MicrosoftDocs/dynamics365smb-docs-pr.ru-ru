@@ -58,3 +58,6 @@ ms.locfileid: "4748022"
 [Статус распределения и ремонта](service-allocation-status-and-repair-status.md)  
 [Настройка управления сервисным обслуживанием](service-setup-service.md)  
 [Сервисный заказ и статус ремонта](service-order-repair-status.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

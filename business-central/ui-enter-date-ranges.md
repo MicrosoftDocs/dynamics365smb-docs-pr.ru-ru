@@ -369,3 +369,6 @@ The following example shows how you can use a minus sign to indicate a date in t
 [Работа с [!INCLUDE[prod_short](includes/prod_long.md)]](ui-work-product.md)  
 [Расчет даты для покупок](purchasing-date-calculation-for-purchases.md)  
 [Ввод критериев в фильтрах](ui-enter-criteria-filters.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

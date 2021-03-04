@@ -46,3 +46,6 @@ ABC-классификация показывает, что время и сре
  [Сведения о проектировании: обработка политик дозаказа](design-details-handling-reordering-policies.md)   
  [Настройка сложных областей приложения с помощью рекомендаций](set-up-complex-application-areas-using-best-practices.md)  
  [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

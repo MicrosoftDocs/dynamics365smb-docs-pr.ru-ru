@@ -52,3 +52,6 @@ ms.locfileid: "4749022"
 [Работа с единицами измерения производственной партии](production-how-to-use-the-manufacturing-batch-unit-of-measure.md)
 [Создание маршрутов](production-how-to-create-routings.md)  
 [Управление себестоимостью товаров](finance-manage-inventory-costs.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

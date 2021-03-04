@@ -57,3 +57,6 @@ ms.locfileid: "4749172"
 [Осуществление платежей](payables-make-payments.md)  
 [Работа с финансовыми журналами](ui-work-general-journals.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

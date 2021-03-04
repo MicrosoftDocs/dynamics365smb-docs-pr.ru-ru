@@ -33,3 +33,6 @@ ms.locfileid: "3922321"
 ## <a name="see-also"></a>См. также
 
 [Мониторинг блокировок базы данных](/dynamics365/business-central/dev-itpro/administration/monitor-database-locks) 
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

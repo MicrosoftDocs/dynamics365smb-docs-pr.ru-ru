@@ -28,3 +28,5 @@ ms.locfileid: "4751259"
   
 ## <a name="see-also"></a>См. также  
 [Сведения о проектировании: структура механизма учета](design-details-posting-engine-structure.md)
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

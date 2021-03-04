@@ -55,3 +55,6 @@ ms.locfileid: "3918516"
  [Создание и изменение пользовательского макета отчета](ui-how-create-custom-report-layout.md)   
  [Управление макетами отчетов и документов](ui-manage-report-layouts.md)  
  [Работа с отчетами, пакетными заданиями и XMLport](ui-work-report.md)    
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

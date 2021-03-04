@@ -81,3 +81,6 @@ ms.locfileid: "4757721"
 [Приступая к работе](product-get-started.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 [Вопросы и ответы](across-faq.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

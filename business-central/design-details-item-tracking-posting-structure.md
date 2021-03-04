@@ -48,3 +48,5 @@ Codeunit 22 переходит по номерам трассировки тов
 ## <a name="see-also"></a>См. также  
 [Сведения о проектировании: трассировка товара](design-details-item-tracking.md)   
 [Сведения о проектировании: разработка трассировки товара](design-details-item-tracking-design.md)
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

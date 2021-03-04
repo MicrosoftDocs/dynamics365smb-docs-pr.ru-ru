@@ -100,3 +100,6 @@ ms.locfileid: "4758096"
 [Создание общих заказов на сборку](assembly-how-to-create-blanket-assembly-orders.md)  
 [Настройка продаж](sales-setup-sales.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

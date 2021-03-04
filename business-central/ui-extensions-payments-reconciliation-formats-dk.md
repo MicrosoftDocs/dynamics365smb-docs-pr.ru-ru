@@ -108,3 +108,6 @@ ms.locfileid: "4757496"
 [Настройка Business Central для [!INCLUDE[prod_short](includes/prod_short.md)] с помощью расширений](ui-extensions.md)  
 [Сбор платежей с прямым дебетом SEPA](finance-collect-payments-with-sepa-direct-debit.md)  
 [Работа с финансовыми журналами](ui-work-general-journals.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

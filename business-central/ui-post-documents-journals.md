@@ -38,3 +38,6 @@ ms.locfileid: "4760396"
 [Изменение учтенных документов](across-edit-posted-document.md)  
 [Общие бизнес-функции](ui-across-business-areas.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

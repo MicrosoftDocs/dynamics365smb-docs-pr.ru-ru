@@ -101,3 +101,6 @@ ms.locfileid: "4750309"
  [Настройка учета затрат](finance-set-up-cost-accounting.md)   
  [Определение и распределение затрат](finance-define-and-allocate-costs.md)   
  [Учет по затратам](finance-manage-cost-accounting.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

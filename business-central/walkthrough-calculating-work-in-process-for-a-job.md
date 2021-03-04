@@ -164,3 +164,6 @@ ms.locfileid: "4756521"
  [Общее представление о методах учета НЗП](projects-understanding-wip.md)   
  [Отслеживание хода и эффективности выполнения](projects-how-monitor-progress-performance.md)  
  [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

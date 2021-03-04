@@ -57,3 +57,6 @@ ms.locfileid: "4753217"
 [Налоговые разницы](Tax-Differences.md)  
 [Учет платежей подоходного налога](Accounting-for-personal-income-tax-payments.md)  
 [Загрузка КЛАДР](Upload-KLADR.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

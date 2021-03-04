@@ -70,3 +70,6 @@ ms.locfileid: "4751109"
 [Закрытие книг](year-close-books.md)  
 [Закрытие года и периодов](year-close-years-periods.md)  
 [Практическое руководство. Работа с финансовыми отчетами](bi-how-work-account-schedule.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

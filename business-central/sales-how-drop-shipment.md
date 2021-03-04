@@ -81,3 +81,6 @@ ms.locfileid: "4748447"
 [Продажи](sales-manage-sales.md)  
 [Запасы](inventory-manage-inventory.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

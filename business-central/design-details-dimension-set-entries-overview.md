@@ -50,3 +50,6 @@ Codeunit 408, Dimension Management, — это библиотека функци
 [Сведения о проектировании: поиск комбинаций измерений](design-details-searching-for-dimension-combinations.md)   
 [Сведения о проектировании: структура таблицы](design-details-table-structure.md)   
 [Сведения о проектировании: операции набора измерений](design-details-dimension-set-entries.md)   
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

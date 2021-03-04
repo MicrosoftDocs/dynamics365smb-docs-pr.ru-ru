@@ -46,3 +46,6 @@ ms.locfileid: "3918667"
   
 ## <a name="see-also"></a>См. также  
 [Настройка программы временного пользования](service-how-setup-loaner-program.md)   
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

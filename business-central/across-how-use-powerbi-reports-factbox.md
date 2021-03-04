@@ -89,3 +89,6 @@ ms.locfileid: "4754471"
 [Приступая к работе](product-get-started.md)  
 [Настройка [!INCLUDE[prod_short](includes/prod_short.md)]](setup.md)  
 [Финансы](finance.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

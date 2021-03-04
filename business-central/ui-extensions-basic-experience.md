@@ -51,3 +51,5 @@ ms.locfileid: "4757346"
 
 ## <a name="see-also"></a>См. также
 [Расширение миграции данных C5](ui-extensions-c5-data-migration.md)
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

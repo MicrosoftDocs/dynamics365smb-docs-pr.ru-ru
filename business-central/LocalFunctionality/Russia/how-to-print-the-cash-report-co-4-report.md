@@ -42,3 +42,6 @@ ms.locfileid: "3921220"
 ## <a name="see-also"></a>См. также
 
 [Настройка запасов](../../inventory-setup-inventory.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

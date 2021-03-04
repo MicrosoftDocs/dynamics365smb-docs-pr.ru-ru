@@ -67,3 +67,6 @@ ms.locfileid: "3913100"
 ## <a name="see-also"></a>См. также  
 [Настройка цен и дополнительных издержек для сервисов](service-how-setup-service-costs-pricing.md)  
 [Настройка управления сервисным обслуживанием](service-setup-service.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

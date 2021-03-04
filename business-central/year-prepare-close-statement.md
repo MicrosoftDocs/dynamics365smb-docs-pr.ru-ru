@@ -38,3 +38,6 @@ ms.locfileid: "4755496"
 [Закрытие года и периодов](year-close-years-periods.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 [Бизнес-аналитика](bi.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

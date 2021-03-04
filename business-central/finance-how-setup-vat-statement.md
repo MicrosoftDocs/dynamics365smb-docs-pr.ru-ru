@@ -51,3 +51,6 @@ ms.locfileid: "3913642"
 [Подача отчета об НДС в налоговый орган](finance-how-report-vat.md)  
 [Работа с НДС по продажам и покупкам](finance-work-with-vat.md)  
 [Локальная функциональность в Business Central](about-localization.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

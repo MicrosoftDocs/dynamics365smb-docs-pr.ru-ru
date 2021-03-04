@@ -121,3 +121,6 @@ ms.locfileid: "4746920"
 [Работа с НДС по продажам и покупкам](finance-work-with-vat.md)  
 [Настройка продаж](sales-setup-sales.md)  
 [Выставление счетов продажи](sales-how-invoice-sales.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

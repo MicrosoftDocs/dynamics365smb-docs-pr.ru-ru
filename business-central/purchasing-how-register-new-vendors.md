@@ -65,3 +65,6 @@ ms.locfileid: "4748797"
 [Покупки](purchasing-manage-purchasing.md)  
 [Регистрация покупок](purchasing-how-record-purchases.md)   
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

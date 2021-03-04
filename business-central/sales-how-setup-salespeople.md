@@ -34,3 +34,6 @@ ms.locfileid: "4748347"
 [Настройка продаж](sales-setup-sales.md)  
 [Продажи](sales-manage-sales.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

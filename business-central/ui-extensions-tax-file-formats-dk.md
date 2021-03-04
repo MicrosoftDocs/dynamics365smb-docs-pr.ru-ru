@@ -26,3 +26,6 @@ ms.locfileid: "4757421"
 
 ## <a name="see-also"></a>См. также
 [Настройка Business Central с помощью расширений](ui-extensions.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

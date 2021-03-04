@@ -141,3 +141,6 @@ For more information about each granule, see [[!INCLUDE[prod_short](includes/pro
 
 [Сведения о проектировании: управление складом](design-details-warehouse-management.md)   
 [Сведения о проектировании: наличие на складе](design-details-availability-in-the-warehouse.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

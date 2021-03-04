@@ -39,3 +39,6 @@ ms.locfileid: "4758546"
 [Настройка покупки](purchasing-setup-purchasing.md)  
 [Управление кредиторской задолженностью](payables-manage-payables.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

@@ -191,3 +191,6 @@ ms.locfileid: "4367913"
 
 ## <a name="see-also"></a>См. также  
  [Сведения о проектировании. Изменения модуля codeunit 12: сопоставление глобальных переменных для строки учета финансового журнала](design-details-codeunit-12-changes-mapping-global-variables-for-general-journal-post-line.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

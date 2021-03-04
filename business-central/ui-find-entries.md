@@ -76,3 +76,6 @@ ms.locfileid: "3927715"
 [Работа с Business Central](ui-work-product.md)  
 [Добавление действия страницы в ролевой центр](ui-bookmarks.md)  
 [Трассировка товаров, трассируемых по товарам](inventory-how-to-trace-item-tracked-items.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

@@ -232,3 +232,6 @@ ms.locfileid: "5035635"
 ## <a name="see-also"></a>См. также  
  [Пошаговые руководства по бизнес-процессам](walkthrough-business-process-walkthroughs.md)   
  [Пошаговое руководство. Автоматическое планирование поставок](walkthrough-planning-supplies-automatically.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

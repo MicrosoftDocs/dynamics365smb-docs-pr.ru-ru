@@ -37,3 +37,6 @@ ms.locfileid: "3913025"
 [Настройка дополнительных затрат для сервисов](service-how-setup-service-costs-pricing.md)  
 [Настройка устранения проблем](service-how-setup-troubleshooting.md)  
 [Управление сервисом](service-service.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

@@ -30,3 +30,6 @@ ms.locfileid: "4753471"
 ## <a name="see-also"></a>См. также
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 [Регистрация новых товаров](inventory-how-register-new-items.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

@@ -43,3 +43,6 @@ ms.locfileid: "4754721"
 ## <a name="see-also"></a>См. также  
 [Настройка обмена данными](across-set-up-data-exchange.md)  
 [Электронный обмен данными](across-data-exchange.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

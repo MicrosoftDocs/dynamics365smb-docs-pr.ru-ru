@@ -64,3 +64,6 @@ ms.locfileid: "4757446"
 [Продажи](sales-manage-sales.md)  
 [Запасы](inventory-manage-inventory.md)  
 [Настройка [!INCLUDE[prod_short](includes/prod_short.md)] с помощью расширений](ui-extensions.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

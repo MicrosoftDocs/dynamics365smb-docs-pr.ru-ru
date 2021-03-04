@@ -73,3 +73,6 @@ ms.locfileid: "4672000"
 [Сбор непогашенных остатков задолженности](receivables-collect-outstanding-balances.md)  
 [Настройка условий и уровней напоминаний](finance-setup-reminders.md)  
 [Настройка финансов](finance-setup-finance.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

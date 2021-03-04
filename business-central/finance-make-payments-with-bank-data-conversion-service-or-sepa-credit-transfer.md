@@ -158,3 +158,6 @@ ms.locfileid: "4746745"
 [Управление кредиторской задолженностью](payables-manage-payables.md)  
 [Работа с финансовыми журналами](ui-work-general-journals.md)  
 [Сбор платежей с прямым дебетом SEPA](finance-collect-payments-with-sepa-direct-debit.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

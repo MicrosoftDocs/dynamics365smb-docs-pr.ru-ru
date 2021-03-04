@@ -56,3 +56,6 @@ ms.locfileid: "4747145"
 [Настройка финансов](finance-setup-finance.md)  
 [Главная книга и план счетов](finance-general-ledger.md)  
 [Работа с Business Central](ui-work-product.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

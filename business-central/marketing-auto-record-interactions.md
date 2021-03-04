@@ -34,3 +34,6 @@ ms.locfileid: "4745895"
 ## <a name="see-also"></a>См. также
 [Регистрация взаимодействий с контактами](marketing-interactions.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

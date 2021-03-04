@@ -94,3 +94,6 @@ Otherwise, close the details pane and continue to the next company.  -->
 [Работа бухгалтера в Business Central](finance-accounting.md)  
 [Раздел организации для расширения Business Central](ui-extensions-company-hub.md)  
 [Изменение базовых настроек](ui-change-basic-settings.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

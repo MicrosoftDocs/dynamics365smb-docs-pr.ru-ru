@@ -47,3 +47,6 @@ ms.locfileid: "5035535"
 [Регистрация новых поставщиков](purchasing-how-register-new-vendors.md)  
 [Продажи](sales-manage-sales.md)  
 [Покупки](purchasing-manage-purchasing.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

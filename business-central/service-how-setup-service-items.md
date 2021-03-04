@@ -63,3 +63,6 @@ ms.locfileid: "3910259"
 ## <a name="see-also"></a>См. также
 [Настройка кодов для стандартных сервисов](service-how-setup-service-coding.md)   
 [Настройка устранения проблем](service-how-setup-troubleshooting.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

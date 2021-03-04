@@ -55,3 +55,6 @@ ms.locfileid: "4752619"
 ## <a name="see-also"></a>См. также  
 [Настройка учетных записей пользователей для интеграции с Dynamics 365 Sales](admin-setting-up-integration-with-dynamics-sales.md)  
 [Использование Dynamics 365 Sales из Business Central](marketing-integrate-dynamicscrm.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

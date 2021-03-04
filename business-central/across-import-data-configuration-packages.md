@@ -87,3 +87,6 @@ ms.locfileid: "4754446"
 [Импорт нескольких изображений товаров](inventory-how-import-item-pictures.md)
 
 ## [!INCLUDE[prod_short](includes/free_trial_md.md)]  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

@@ -186,3 +186,6 @@ ms.locfileid: "3910984"
  [Обзор записей набора измерений](design-details-dimension-set-entries-overview.md)   
  [Сведения о проектировании: поиск комбинаций измерений](design-details-searching-for-dimension-combinations.md)   
  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

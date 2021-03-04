@@ -131,3 +131,6 @@ ms.locfileid: "4750784"
 
 ## <a name="see-also"></a>См. также
 [Финансовый менеджмент](finance.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

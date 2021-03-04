@@ -71,3 +71,6 @@ ms.locfileid: "3921206"
 
 [Отчеты по расчетам с клиентами (Россия)](Russian-Receivables-Reports.md)  
 [Отчеты о платежах (Россия)](Russian-Payables-Reports.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

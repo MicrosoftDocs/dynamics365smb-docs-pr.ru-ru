@@ -63,3 +63,6 @@ ms.locfileid: "4748572"
 [Настройка службы Envestnet Yodlee Bank Feeds](bank-how-setup-bank-statement-service.md)  
 [Настройка [!INCLUDE[prod_short](includes/prod_short.md)] с помощью расширений](ui-extensions.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

@@ -59,3 +59,6 @@ ms.locfileid: "4749422"
 [Приступая к работе](product-get-started.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 [Найти записи](ui-find-entries.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

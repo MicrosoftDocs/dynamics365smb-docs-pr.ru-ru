@@ -307,3 +307,6 @@ When you want to search for data, such as customer names, addresses, or product 
 [Вопросы и ответы по поиску и фильтрации](ui-search-filter-faq.md)  
 [Сохранение и персонализация представлений списков](ui-views.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

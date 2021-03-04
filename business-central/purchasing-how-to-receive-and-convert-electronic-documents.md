@@ -65,3 +65,6 @@ ms.locfileid: "4748672"
 [Настройка отправки и получения электронных документов](across-how-to-set-up-electronic-document-sending-and-receiving.md)  
 [Электронный обмен данными](across-data-exchange.md)   
 [Общие бизнес-функции](ui-across-business-areas.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

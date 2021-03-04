@@ -111,3 +111,6 @@ ms.locfileid: "4749809"
 ## <a name="see-also"></a>См. также
 [Управление отношениями](marketing-relationship-management.md)
 
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

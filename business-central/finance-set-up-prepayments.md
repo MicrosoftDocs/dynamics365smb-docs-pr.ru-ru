@@ -94,3 +94,6 @@ ms.locfileid: "4750434"
 [Сведения о главной книге и плане счетов](finance-general-ledger.md)  
 [Финансы](finance.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

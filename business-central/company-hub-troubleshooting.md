@@ -50,3 +50,6 @@ ms.locfileid: "5013586"
 [Управление работой нескольких компаний в разделе организаций](company-hub.md)  
 [Добавьте компании в свой раздел организации](company-hub-add-company.md)  
 [Работа бухгалтера в Business Central](finance-accounting.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

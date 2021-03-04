@@ -35,3 +35,6 @@ ms.locfileid: "4747947"
 [Настройка управления сервисным обслуживанием](service-setup-service.md)  
 [Предоставление услуги](service-deliver-service.md)  
 
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

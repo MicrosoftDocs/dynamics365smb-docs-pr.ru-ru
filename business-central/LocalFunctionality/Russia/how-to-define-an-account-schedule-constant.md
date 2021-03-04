@@ -33,3 +33,6 @@ ms.locfileid: "4747443"
 [Работа с финансовыми отчетами](How-to-Work-with-Account-Schedules.md)  
 [Обзор финансовых отчетов](account-schedules-overview.md)  
 [Определение расширения финансового отчета](How-to-Define-an-Account-Schedule-Extension.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

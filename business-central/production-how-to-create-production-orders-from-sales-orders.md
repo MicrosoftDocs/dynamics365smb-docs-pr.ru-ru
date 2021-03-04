@@ -39,3 +39,6 @@ ms.locfileid: "4748972"
 [Сведения о проектировании: планирование поставок](design-details-supply-planning.md)   
 [Рекомендации по настройке. Планирование поставок](setup-best-practices-supply-planning.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

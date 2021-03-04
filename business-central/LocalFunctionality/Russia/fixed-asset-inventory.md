@@ -84,3 +84,6 @@ ms.locfileid: "3921264"
 ## <a name="see-also"></a>См. также
 
 [ОС: местоположения и ответственные сотрудники](Fixed-Asset-Locations-and-Employees.md)
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

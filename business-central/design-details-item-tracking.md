@@ -31,3 +31,6 @@ ms.locfileid: "4751359"
 [Сведения о проектировании: трассировка и планирование товара](design-details-item-tracking-and-planning.md)  
 [Сведения о проектировании: трассировка и резервирование товара](design-details-item-tracking-and-reservations.md)  
 [Сведения о проектировании: трассировка товара на складе](design-details-item-tracking-in-the-warehouse.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

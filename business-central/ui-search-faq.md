@@ -50,3 +50,6 @@ ms.locfileid: "4760246"
 [Поиск страниц и информации с помощью функции "Что вы хотите сделать"](ui-search.md)  
 [Поиск страниц с помощью обозревателя ролей](ui-role-explorer.md)  
 [Добавление закладки на страницу или отчет в ролевом центре](ui-bookmarks.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

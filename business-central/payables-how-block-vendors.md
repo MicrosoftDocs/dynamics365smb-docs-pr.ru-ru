@@ -37,3 +37,6 @@ ms.locfileid: "3916755"
 [Регистрация новых поставщиков](purchasing-how-register-new-vendors.md)  
 [Осуществление платежей](payables-make-payments.md)  
 [Управление кредиторской задолженностью](payables-manage-payables.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

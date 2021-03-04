@@ -35,3 +35,6 @@ ms.locfileid: "4757071"
 [Настройка [!INCLUDE[prod_short](includes/prod_short.md)] с помощью расширений](ui-extensions.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 [Отправка документов по электронной почте](ui-how-send-documents-email.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

@@ -30,3 +30,6 @@ ms.locfileid: "4749572"
 [Сведения о проектировании: наличие на складе](design-details-availability-in-the-warehouse.md)  
 [Сведения о проектировании: исходящий складской поток](design-details-outbound-warehouse-flow.md)  
 [Сведения о проектировании: интеграция с запасом](design-details-integration-with-inventory.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

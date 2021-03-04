@@ -77,3 +77,5 @@ ms.locfileid: "4754096"
 
 ## <a name="see-also"></a>См. также
 [О программе [!INCLUDE[prod_short](includes/cds_long_md.md)]](admin-common-data-service.md)
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

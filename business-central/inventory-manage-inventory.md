@@ -68,3 +68,6 @@ ms.locfileid: "4755471"
 [Общие бизнес-функции](ui-across-business-areas.md)  
 
 ## [!INCLUDE[prod_short](includes/free_trial_md.md)]  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

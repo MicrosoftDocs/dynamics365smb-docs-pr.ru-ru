@@ -35,3 +35,6 @@ ms.locfileid: "4747822"
  [Сведения о проектировании: параметры планирования](design-details-planning-parameters.md)   
  [Настройка сложных областей приложения с помощью рекомендаций](set-up-complex-application-areas-using-best-practices.md)  
  [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

@@ -112,3 +112,6 @@ ms.locfileid: "3913075"
 [Создание сервисных заказов](service-how-to-create-service-orders.md)   
 [Создание сервисных товаров](service-how-to-create-service-items.md)   
 [Планирование сервисного обслуживания](service-plan-service.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

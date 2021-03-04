@@ -56,3 +56,6 @@ ms.locfileid: "3926351"
 
 ## <a name="see-also"></a>См. также
 [Работа с отчетами, пакетными заданиями и XMLport](ui-work-report.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

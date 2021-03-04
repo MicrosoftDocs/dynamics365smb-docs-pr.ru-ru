@@ -201,3 +201,6 @@ Integration with Business Central through Dataverse requires an administrator us
 [Настройка подключения к [!INCLUDE[crm_md](includes/crm_md.md)]](admin-how-to-set-up-a-dynamics-crm-connection.md)  
 [Синхронизация Business Central и [!INCLUDE[crm_md](includes/crm_md.md)]](admin-synchronizing-business-central-and-sales.md)  
 [Подготовка Dynamics 365 Sales к локальной интеграции](/dynamics365/business-central/dev-itpro/administration/prepare-dynamics-365-for-sales-for-integration)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

@@ -115,3 +115,6 @@ ms.locfileid: "5024518"
 [Сохранение и персонализация представлений списков](ui-views.md)  
 [Обнаружение функций и информации](ui-search.md)  
 [Сортировка, поиск и фильтрация](ui-enter-criteria-filters.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

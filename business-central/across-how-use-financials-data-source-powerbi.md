@@ -138,3 +138,6 @@ ms.locfileid: "4754521"
 [Настройка [!INCLUDE[prod_short](includes/prod_short.md)]](setup.md)  
 [Финансы](finance.md)  
 [Быстрый старт: подключение к данным в Power BI Desktop](/power-bi/desktop-quickstart-connect-to-data)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

@@ -46,3 +46,6 @@ ms.locfileid: "5013875"
 [Настройка оценки стоимости запасов и учета себестоимости](finance-set-up-inventory-valuation-and-costing.md)  
 [Управление себестоимостью товаров](finance-manage-inventory-costs.md)  
 [Сведения о проектировании: методы учета себестоимости](design-details-costing-methods.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

@@ -68,3 +68,6 @@ ms.locfileid: "4760271"
 ## <a name="see-also"></a>См. также
 [Работа с Business Central](ui-work-product.md)  
 [Добавление действия страницы в ролевой центр](ui-bookmarks.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

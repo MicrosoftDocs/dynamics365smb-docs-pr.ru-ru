@@ -125,3 +125,6 @@ ms.locfileid: "5035410"
 [Сбор непогашенных остатков задолженности](receivables-collect-outstanding-balances.md)  
 [Массовое выставление счетов из Microsoft Bookings в Business Central](finance-bookings.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

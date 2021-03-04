@@ -48,3 +48,6 @@ ms.locfileid: "5068386"
 
 [Поиск страницы или отчета](ui-search.md)  
 [Работа бухгалтера в [!INCLUDE[prod_short](includes/prod_short.md)]](finance-accounting.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

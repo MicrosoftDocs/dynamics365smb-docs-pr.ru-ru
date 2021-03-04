@@ -40,3 +40,6 @@ ms.locfileid: "3921251"
 
 [Управление мелкими доходами/расходами](Petty-Cash-Management.md)  
 [Управление банками и кассами](bank-and-cash-management.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

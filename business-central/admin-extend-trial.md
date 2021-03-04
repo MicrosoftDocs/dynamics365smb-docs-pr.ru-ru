@@ -56,3 +56,6 @@ ms.locfileid: "5068350"
 [Как найти партнера по перепродаже?](across-faq.md#findpartner)  
 [Продление пробных версий (в качестве администратора)](/dynamics365/business-central/dev-itpro/administration/tenant-administration#extending-trials)  
 [Начало работы в качестве торгового посредника по Business Central Online](/dynamics365/business-central/dev-itpro/administration/get-started-online)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

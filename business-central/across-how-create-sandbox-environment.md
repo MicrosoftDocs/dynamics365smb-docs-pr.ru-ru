@@ -93,3 +93,6 @@ ms.locfileid: "5024441"
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 [Пробные версии и подписки [!INCLUDE[prod_long](includes/prod_long.md)]](across-preview.md)  
 [Управление средами в центре администрирования Business Central](/dynamics365/business-central/dev-itpro/administration/tenant-admin-center-environments)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

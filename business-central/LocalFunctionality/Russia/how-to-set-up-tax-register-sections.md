@@ -90,3 +90,6 @@ ms.locfileid: "3921197"
 [Налоговые регистры](Tax-Registers.md)  
 [Расчет налоговых регистров](How-to-Create-Tax-Registers.md)  
 [Сбор сведений о налоге на прибыль для налоговой декларации](Collecting-Profit-Tax-Information-for-Tax-Declaration.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

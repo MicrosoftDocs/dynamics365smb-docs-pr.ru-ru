@@ -44,3 +44,6 @@ ms.locfileid: "4760446"
 ## <a name="see-also"></a>См. также
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 [Финансы](finance.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

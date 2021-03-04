@@ -38,3 +38,6 @@ ms.locfileid: "3921278"
 [Определение расширения финансового отчета](How-to-Define-an-Account-Schedule-Extension.md)  
 [Определение константы финансового отчета](How-to-Define-an-Account-Schedule-Constant.md)  
 [Работа с финансовыми отчетами](How-to-Work-with-Account-Schedules.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

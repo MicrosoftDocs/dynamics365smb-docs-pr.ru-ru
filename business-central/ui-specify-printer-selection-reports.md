@@ -91,3 +91,6 @@ ms.locfileid: "4760296"
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 [Запуск пакетных заданий](ui-how-run-batch-jobs.md)  
 [Отправка документов по электронной почте](ui-how-send-documents-email.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

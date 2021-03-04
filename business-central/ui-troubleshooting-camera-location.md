@@ -57,3 +57,6 @@ ms.locfileid: "4760220"
 ## <a name="see-also"></a>См. также
 [Реализация камеры на AL](/dynamics365/business-central/dev-itpro/developer/devenv-implement-camera-al)  
 [Реализация геопозиции на AL](/dynamics365/business-central/dev-itpro/developer/devenv-implement-location-al)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

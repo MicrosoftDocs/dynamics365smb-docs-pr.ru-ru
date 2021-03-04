@@ -36,3 +36,6 @@ ms.locfileid: "3915539"
 ## <a name="see-also"></a>См. также  
 [Сбор непогашенных остатков задолженности](receivables-collect-outstanding-balances.md)  
 [Настройка финансов](finance-setup-finance.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

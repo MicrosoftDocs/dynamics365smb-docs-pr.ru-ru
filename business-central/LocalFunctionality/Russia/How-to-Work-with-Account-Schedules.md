@@ -94,3 +94,6 @@ ms.locfileid: "4747451"
 [Финансы](../../finance.md)  
 [Настройка финансов](../../finance-setup-finance.md)  
 [Главная книга и план счетов](../../finance-general-ledger.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

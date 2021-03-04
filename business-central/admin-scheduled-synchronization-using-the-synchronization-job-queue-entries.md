@@ -100,3 +100,6 @@ ms.locfileid: "4755196"
 [Ручная синхронизация сопоставлений таблиц](admin-manual-synchronization-of-table-mappings.md)  
 [Планирование синхронизации между Business Central и [!INCLUDE[cds_long_md](includes/cds_long_md.md)]](admin-scheduled-synchronization-using-the-synchronization-job-queue-entries.md)  
 [Об интеграции Dynamics 365 Business Central с [!INCLUDE[cds_long_md](includes/cds_long_md.md)]](admin-prepare-dynamics-365-for-sales-for-integration.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

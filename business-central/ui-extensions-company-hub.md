@@ -34,3 +34,6 @@ ms.locfileid: "5014129"
 [Управление работой нескольких компаний в разделе организаций](company-hub.md)  
 [Работа бухгалтера в Business Central](finance-accounting.md)  
 [Финансы](finance.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

@@ -295,3 +295,6 @@ When working on multiple tasks at a time or when managing interruptions to the c
 ## <a name="see-also"></a>См. также  
  [Сортировка, поиск и фильтрация списков](ui-enter-criteria-filters.md)  
  [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

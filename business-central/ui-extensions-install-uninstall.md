@@ -92,3 +92,6 @@ ms.locfileid: "4757547"
 [Приступая к работе](product-get-started.md)  
 
 ## [!INCLUDE[prod_short](includes/free_trial_md.md)]  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

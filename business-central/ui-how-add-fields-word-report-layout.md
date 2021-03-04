@@ -123,3 +123,6 @@ ms.locfileid: "4756996"
   
 ## <a name="see-also"></a>См. также  
  [Создание и изменение пользовательского макета отчета](ui-how-create-custom-report-layout.md)   
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

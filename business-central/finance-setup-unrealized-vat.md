@@ -50,3 +50,6 @@ ms.locfileid: "4746527"
 
 ## <a name="see-also"></a>См. также
 [Настройка налога на добавленную стоимость](finance-setup-vat.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

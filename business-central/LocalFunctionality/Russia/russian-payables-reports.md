@@ -203,3 +203,6 @@ ms.locfileid: "3919764"
 
 [Отчеты по расчетам с клиентами (Россия)](Russian-Receivables-Reports.md)  
 [Настройка договоров с клиентами и поставщиками](How-to-Set-Up-Customer-and-Vendor-Agreements.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

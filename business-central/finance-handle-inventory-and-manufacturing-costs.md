@@ -38,3 +38,6 @@ ms.locfileid: "3917129"
 ## <a name="see-also"></a>См. также  
 [Управление себестоимостью товаров](finance-manage-inventory-costs.md)
 [Сведения о проектировании: себестоимость запасов](design-details-inventory-costing.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

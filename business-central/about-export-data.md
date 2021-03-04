@@ -82,3 +82,6 @@ ms.locfileid: "4753696"
 [Финансы](finance.md)  
 [Общие бизнес-функции](ui-across-business-areas.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

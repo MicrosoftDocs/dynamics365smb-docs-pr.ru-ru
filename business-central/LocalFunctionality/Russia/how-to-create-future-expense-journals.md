@@ -73,3 +73,6 @@ ms.locfileid: "3921244"
 ## <a name="see-also"></a>См. также
 
 [Основные Средства](fixed-assets.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

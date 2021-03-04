@@ -187,3 +187,6 @@ ms.locfileid: "4758420"
 [Управление дебиторской задолженностью](receivables-manage-receivables.md)  
 [Продажи](sales-manage-sales.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

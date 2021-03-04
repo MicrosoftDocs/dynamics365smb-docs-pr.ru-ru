@@ -29,3 +29,6 @@ ms.locfileid: "3923982"
 [Настройка расчета налоговых разниц](Setting-up-Tax-Difference-Calculation.md)  
 [Налоговый учет](Tax-Accounting.md)  
 [Налоговые регистры](Tax-Registers.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

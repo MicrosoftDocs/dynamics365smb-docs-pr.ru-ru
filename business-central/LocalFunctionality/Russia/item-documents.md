@@ -178,3 +178,6 @@ ms.locfileid: "4840273"
 [Товары Настройка](Inventory-Setup.md)  
 [Акты обязательств по товару](Item-Obligatory-Acts.md)  
 [Оборотная ведомость для товаров по ГК](Item-General-Ledger-Turnover.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

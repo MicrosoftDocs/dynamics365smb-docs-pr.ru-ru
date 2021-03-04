@@ -29,3 +29,6 @@ ms.locfileid: "4751583"
 
 ## <a name="see-also"></a>См. также  
 [Работа с финансовыми журналами](ui-work-general-journals.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

@@ -143,3 +143,6 @@ ms.locfileid: "4757969"
 ## <a name="see-also"></a>См. также
 [Настройка распределения ресурсов](service-how-setup-resource-allocation.md)  
 [Статус распределения и ремонта](service-allocation-status-and-repair-status.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

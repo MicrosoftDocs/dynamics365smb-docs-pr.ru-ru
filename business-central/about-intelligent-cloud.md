@@ -51,3 +51,6 @@ ms.locfileid: "4753721"
 [Добро пожаловать в Business Central](index.md)  
 [Расширение интеллектуального облака для миграции в облако](ui-extensions-data-replication.md)  
 [Миграция локальных данных в Business Central Online](/dynamics365/business-central/dev-itpro/administration/migrate-data)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

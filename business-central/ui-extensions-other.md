@@ -27,3 +27,6 @@ ms.locfileid: "4757151"
 
 [Настройка [!INCLUDE[prod_short](includes/prod_short.md)] с помощью расширений](ui-extensions.md)  
 [Приступая к работе](product-get-started.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

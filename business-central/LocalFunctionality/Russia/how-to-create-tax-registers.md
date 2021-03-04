@@ -66,3 +66,6 @@ ms.locfileid: "3921242"
 [Настройка секций налогового регистра](How-to-Set-Up-Tax-Register-Sections.md)  
 [Сбор сведений о налоге на прибыль для налоговой декларации](Collecting-Profit-Tax-Information-for-Tax-Declaration.md)  
 [Найти записи](../../ui-find-entries.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

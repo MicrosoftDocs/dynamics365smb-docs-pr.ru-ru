@@ -49,3 +49,6 @@ ms.locfileid: "4817008"
 [Добро пожаловать в [!INCLUDE[prod_long](includes/prod_long.md)] ](index.md)
 
 ## [!INCLUDE[prod_short](includes/free_trial_md.md)]  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

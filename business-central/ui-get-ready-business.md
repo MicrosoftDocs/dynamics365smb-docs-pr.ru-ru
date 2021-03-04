@@ -74,3 +74,6 @@ ms.locfileid: "4816983"
 [Ресурсы для справки и поддержки](product-help-and-support.md)  
 
 ## [!INCLUDE[prod_short](includes/free_trial_md.md)]  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

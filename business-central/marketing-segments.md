@@ -39,3 +39,6 @@ ms.locfileid: "4749834"
 [Управление возможностями продаж](marketing-manage-sales-opportunities.md)  
 [Управление контактами](marketing-contacts.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

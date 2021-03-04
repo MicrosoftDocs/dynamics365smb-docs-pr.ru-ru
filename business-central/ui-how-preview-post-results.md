@@ -32,3 +32,6 @@ ms.locfileid: "4756896"
 [Учет документов и журналов](ui-post-documents-journals.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 [Общие бизнес-функции](ui-across-business-areas.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

@@ -116,3 +116,6 @@ ms.locfileid: "4827047"
 [Управление контактами](marketing-contacts.md)  
 [Настройка контактов](marketing-setup-contacts.md)  
 [Работа с Business Central](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

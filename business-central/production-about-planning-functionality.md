@@ -170,3 +170,6 @@ ms.locfileid: "4759471"
 [Покупки](purchasing-manage-purchasing.md)  
 [Рекомендации по настройке: планирование поставок](setup-best-practices-supply-planning.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

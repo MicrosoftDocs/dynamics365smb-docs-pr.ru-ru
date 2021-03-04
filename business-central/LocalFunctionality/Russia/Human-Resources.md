@@ -30,3 +30,6 @@ ms.locfileid: "3921298"
 [Формирование и изменение порядка составления списка персонала, расстановка персонала](Forming-and-changing-Staff-List-Order-Staff-Arrangement.md)
 
 [Планирование отпусков](Vacation-planning.md)
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

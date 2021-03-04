@@ -141,3 +141,6 @@ docs.microsoft.com содержит содержимое для других п�
 [Документы для разработчиков и по администрированию Business Central](/dynamics365/business-central/dev-itpro/)  
 [Ресурсы для справки и поддержки для партнеров](/dynamics365/business-central/dev-itpro/help-and-support)  
 [Техническая поддержка](/dynamics365/business-central/dev-itpro/technical-support)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

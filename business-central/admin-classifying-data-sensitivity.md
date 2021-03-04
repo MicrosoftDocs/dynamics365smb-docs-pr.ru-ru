@@ -50,3 +50,6 @@ ms.locfileid: "3911634"
 ## <a name="see-also"></a>См. также
 
 [Классификация данных](/dynamics365/business-central/dev-itpro/developer/devenv-classifying-data)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

@@ -44,3 +44,6 @@ ms.locfileid: "4756921"
 
 [Настройка запасов](inventory-setup-inventory.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

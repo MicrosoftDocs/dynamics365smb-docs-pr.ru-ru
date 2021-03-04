@@ -59,3 +59,6 @@ The page currently includes the last personalization changes that you made. If y
 [Настройка страниц для профилей](ui-personalization-manage.md)  
 [Изменение базовых настроек](ui-change-basic-settings.md)  
 [Изменение набора отображаемых функций](ui-experiences.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

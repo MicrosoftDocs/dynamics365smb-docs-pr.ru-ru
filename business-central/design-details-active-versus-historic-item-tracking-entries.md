@@ -62,3 +62,6 @@ ms.locfileid: "3911234"
 ## <a name="see-also"></a>См. также  
  [Сведения о проектировании: трассировка товара](design-details-item-tracking.md)   
  [Сведения о проектировании: — страница "Строки трассировки товаров"](design-details-item-tracking-lines-window.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

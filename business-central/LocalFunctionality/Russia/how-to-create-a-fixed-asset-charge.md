@@ -40,3 +40,6 @@ ms.locfileid: "3921248"
 ## <a name="see-also"></a>См. также
 
 [Настройка основных средств](../../fa-setup.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

@@ -62,3 +62,6 @@ ms.locfileid: "4827072"
 [Электронный обмен данными](across-data-exchange.md)  
 [Вопросы и ответы по электронным счетам](faq-electronic-invoicing.yml)  
 [Общие бизнес-функции](ui-across-business-areas.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

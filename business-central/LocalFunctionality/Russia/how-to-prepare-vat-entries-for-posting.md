@@ -42,3 +42,6 @@ ms.locfileid: "3921224"
 ## <a name="see-also"></a>См. также
 
 [Подача отчета об НДС в налоговые органы](../../finance-how-report-vat.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

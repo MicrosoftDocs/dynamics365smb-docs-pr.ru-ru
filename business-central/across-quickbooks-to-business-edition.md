@@ -37,3 +37,6 @@ ms.locfileid: "4754271"
 ## <a name="see-also"></a>См. также
 [Импорт бизнес-данных из других финансовых систем](across-import-data-configuration-packages.md)  
 [Настройка Business Central с помощью расширений](ui-extensions.md)   
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

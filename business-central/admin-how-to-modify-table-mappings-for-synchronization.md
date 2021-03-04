@@ -106,3 +106,6 @@ ms.locfileid: "4753946"
 [Об интеграции Dynamics 365 Business Central с [!INCLUDE[prod_short](includes/cds_long_md.md)]](admin-prepare-dynamics-365-for-sales-for-integration.md )   
 [Синхронизация данных в Business Central и [!INCLUDE[prod_short](includes/cds_long_md.md)]](admin-synchronizing-business-central-and-sales.md)   
 [Синхронизация по расписанию](admin-scheduled-synchronization-using-the-synchronization-job-queue-entries.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

@@ -169,3 +169,6 @@ ms.locfileid: "5035585"
 [Сведения о проектировании: основные понятия системы планирования](design-details-central-concepts-of-the-planning-system.md)   
 [Сведения о проектировании: балансировка спроса и поставки](design-details-balancing-demand-and-supply.md)   
 [Сведения о проектировании: планирование поставок](design-details-supply-planning.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

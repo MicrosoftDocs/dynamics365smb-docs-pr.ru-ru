@@ -182,3 +182,6 @@ ms.locfileid: "4746620"
 ## <a name="see-also"></a>См. также  
 [Настройка методов расчета и учета налога на добавленную стоимость](finance-setup-vat.md)   
 [Подача отчета об НДС в налоговый орган](finance-how-report-vat.md)   
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

@@ -103,3 +103,6 @@ ms.locfileid: "4754796"
 [Настройка рабочих процессов](across-set-up-workflows.md)   
 [Использование рабочих процессов](across-use-workflows.md)   
 [Рабочий процесс](across-workflow.md)      
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

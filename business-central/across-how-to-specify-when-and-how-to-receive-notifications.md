@@ -66,3 +66,6 @@ ms.locfileid: "3916297"
  [Настройка уведомлений рабочего процесса](across-setting-up-workflow-notifications.md)   
  [Настройка рабочих процессов](across-set-up-workflows.md)   
  [Использование рабочих процессов](across-use-workflows.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

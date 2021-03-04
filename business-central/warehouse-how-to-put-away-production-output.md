@@ -78,3 +78,6 @@ ms.locfileid: "4759696"
 [Управление сборкой](assembly-assemble-items.md)    
 [Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

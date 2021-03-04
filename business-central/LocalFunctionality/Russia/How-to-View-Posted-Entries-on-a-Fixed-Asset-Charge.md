@@ -26,3 +26,6 @@ ms.locfileid: "3921302"
 ## <a name="see-also"></a>См. также
 
 [Создание издержек ОС](How-to-Create-a-Fixed-Asset-Charge.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

@@ -39,3 +39,6 @@ ms.locfileid: "3921232"
 ## <a name="see-also"></a>См. также
 
 [Печать счета-фактуры](How-to-Print-the-Factura-Invoice.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

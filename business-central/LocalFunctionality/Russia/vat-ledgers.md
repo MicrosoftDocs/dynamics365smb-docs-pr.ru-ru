@@ -54,3 +54,6 @@ ms.locfileid: "3923976"
 [Создание книг НДС](How-to-Create-VAT-Ledgers.md)  
 [Создание дополнительных листов](How-to-Create-Additional-Sheets.md)  
 [Учет НДС в продажах](Posting-VAT-on-Sales.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

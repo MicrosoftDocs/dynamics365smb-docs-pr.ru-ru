@@ -51,3 +51,6 @@ ms.locfileid: "4746503"
  [Об учете затрат](finance-about-cost-accounting.md)   
  [Учет по затратам](finance-manage-cost-accounting.md)  
  [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

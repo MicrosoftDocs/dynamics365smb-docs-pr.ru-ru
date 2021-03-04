@@ -182,3 +182,6 @@ ms.locfileid: "4751209"
  [Сведения о проектировании: оценка стоимости запасов](design-details-inventory-valuation.md) [Управление себестоимостью товаров](finance-manage-inventory-costs.md)  
  [Финансы](finance.md)  
  [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

@@ -67,3 +67,6 @@ ms.locfileid: "4756796"
 
 [Получение Business Central на мобильном устройстве](install-mobile-app.md)  
 [Установка приложения Business Central для Microsoft Teams](across-install-app-for-teams.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

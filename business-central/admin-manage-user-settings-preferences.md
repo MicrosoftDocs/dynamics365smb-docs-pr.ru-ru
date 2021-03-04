@@ -71,3 +71,6 @@ ms.locfileid: "4752579"
 [Приступая к работе](product-get-started.md)  
 [Наличие в странах/регионах и поддерживаемые языки](/dynamics365/business-central/dev-itpro/compliance/apptest-countries-and-translations)  
 [Изменение языка и языкового стандарта](about-locale-language.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

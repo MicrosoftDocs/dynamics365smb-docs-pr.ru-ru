@@ -71,3 +71,6 @@ ms.locfileid: "4757471"
 
 [Импорт бизнес-данных из других финансовых систем](across-import-data-configuration-packages.md)  
 [Настройка [!INCLUDE[prod_short](includes/prod_short.md)] с помощью расширений](ui-extensions.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

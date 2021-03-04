@@ -52,3 +52,6 @@ ms.locfileid: "4038464"
 
 [Статус сервисного заказа и ремонта](service-service-order-status-and-repair-status.md)  
 [Настройка управления сервисным обслуживанием](service-setup-service.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

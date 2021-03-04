@@ -60,3 +60,6 @@ ms.locfileid: "4750834"
 [Сторнирование учета в журнале и отмена приходных/расходных накладных](finance-how-reverse-journal-posting.md)  
 [Финансы](finance.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

@@ -54,3 +54,6 @@ ms.locfileid: "4747698"
 [Администрация](admin-setup-and-administration.md)
 
 ## [!INCLUDE[prod_short](includes/free_trial_md.md)]  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

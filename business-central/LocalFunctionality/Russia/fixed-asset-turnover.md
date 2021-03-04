@@ -73,3 +73,6 @@ ms.locfileid: "3921260"
 [Основные Средства](fixed-assets.md)
 
 [Инвентаризация основных средств](Fixed-Asset-Inventory.md)
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

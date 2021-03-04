@@ -98,3 +98,6 @@ PDF-файл с текущим содержимым заказа на прода
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 [Входящие документы](across-income-documents.md)  
 [Настройка уведомлений рабочего процесса](across-setting-up-workflow-notifications.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

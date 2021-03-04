@@ -145,3 +145,6 @@ ms.locfileid: "4758121"
 [Продажи](sales-manage-sales.md)  
 [Расчет даты для покупок](purchasing-date-calculation-for-purchases.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

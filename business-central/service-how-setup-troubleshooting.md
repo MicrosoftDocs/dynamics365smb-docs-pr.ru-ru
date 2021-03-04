@@ -30,3 +30,5 @@ ms.locfileid: "3910233"
 
 ## <a name="see-also"></a>См. также
 [Управление сервисом](service-service.md)
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

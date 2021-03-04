@@ -49,3 +49,6 @@ ms.locfileid: "4753258"
 [Акты обязательств по товару](Item-Obligatory-Acts.md)  
 [Учет коррекций "красный сторно"](How-to-Post-Red-Storno-Corrections.md)  
 [Использование товарных издержек для учета дополнительных торговых расходов](../../payables-how-assign-item-charges.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

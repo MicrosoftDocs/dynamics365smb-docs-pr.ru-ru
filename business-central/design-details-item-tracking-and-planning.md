@@ -56,3 +56,6 @@ ms.locfileid: "3927001"
 [Сведения о проектировании: балансировка спроса и поставки](design-details-balancing-demand-and-supply.md)  
 [Сведения о проектировании: резервирование, трассировка заказов и отправка сообщений о действиях](design-details-reservation-order-tracking-and-action-messaging.md)   
 [Сведения о проектировании: планирование поставок](design-details-supply-planning.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

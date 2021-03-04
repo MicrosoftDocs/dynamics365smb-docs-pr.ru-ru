@@ -143,3 +143,6 @@ ms.locfileid: "4747070"
  [Учет по затратам](finance-manage-cost-accounting.md)   
  [Терминология в учете затрат](finance-terminology-in-cost-accounting.md)   
  [Об учете затрат](finance-about-cost-accounting.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

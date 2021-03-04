@@ -100,3 +100,6 @@ ms.locfileid: "4758496"
 [Регистрация новых поставщиков](purchasing-how-register-new-vendors.md)  
 [Подготовка прямых поставок](sales-how-drop-shipment.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

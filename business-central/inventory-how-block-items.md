@@ -48,3 +48,6 @@ ms.locfileid: "3914095"
 ## <a name="see-also"></a>См. также  
 [Регистрация новых товаров](inventory-how-register-new-items.md)  
 [Запасы](inventory-manage-inventory.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

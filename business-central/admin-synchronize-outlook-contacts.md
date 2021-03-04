@@ -54,3 +54,6 @@ ms.locfileid: "4755071"
 [Продажи](sales-manage-sales.md)  
 [Покупки](purchasing-manage-purchasing.md)  
 [Использование контактов в Outlook в Интернете](https://support.office.com/article/Using-contacts-People-in-Outlook-on-the-web-1e3438c7-26b2-420c-87de-3cea9d31b5cb?appver=OWB150)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

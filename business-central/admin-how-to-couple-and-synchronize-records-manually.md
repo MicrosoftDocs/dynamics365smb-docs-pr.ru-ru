@@ -59,3 +59,6 @@ ms.locfileid: "4752679"
 
 ## <a name="see-also"></a>См. также  
 [Использование Dynamics 365 Sales из Business Central](marketing-integrate-dynamicscrm.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

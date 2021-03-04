@@ -68,3 +68,6 @@ ms.locfileid: "3925751"
 [Финансы](finance.md)  
 [Подача отчета об НДС в налоговые органы](finance-how-report-vat.md)  
 [Работа с НДС по продажам и покупкам](finance-work-with-vat.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

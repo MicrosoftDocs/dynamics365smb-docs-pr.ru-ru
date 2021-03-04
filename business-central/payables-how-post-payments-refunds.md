@@ -57,3 +57,6 @@ ms.locfileid: "4759596"
 [Работа с финансовыми журналами](ui-work-general-journals.md)  
 [Персонализация рабочей области](ui-personalization-user.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

@@ -199,3 +199,6 @@ is this still true?-->
 [Настройка [!INCLUDE[prod_short](includes/prod_short.md)] с помощью расширений](ui-extensions.md)  
 [Использование [!INCLUDE[prod_short](includes/prod_short.md)] в качестве рабочего почтового ящика в Outlook](admin-outlook.md)  
 [Получение [!INCLUDE[prod_short](includes/prod_short.md)] на мобильном устройстве](install-mobile-app.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

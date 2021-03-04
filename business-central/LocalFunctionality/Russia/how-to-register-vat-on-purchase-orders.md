@@ -45,3 +45,6 @@ ms.locfileid: "4753255"
 [Настройка книг НДС](How-to-Set-Up-VAT-Ledgers.md)  
 [Подготовка операций НДС к учету](How-to-Prepare-VAT-Entries-for-Posting.md)  
 [Подача отчета об НДС в налоговые органы](../../finance-how-report-vat.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

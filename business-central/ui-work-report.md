@@ -163,3 +163,6 @@ On the **Printer Management** page, you can see the printers that are set up. Fo
 [Работа с календарными датами и значениями времени](ui-enter-date-ranges.md)  
 [Управление макетами отчетов и документов](ui-manage-report-layouts.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

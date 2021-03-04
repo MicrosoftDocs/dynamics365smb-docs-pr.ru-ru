@@ -150,3 +150,6 @@ ms.locfileid: "5013900"
 ## <a name="see-also"></a>См. также  
 [Создание сервисных контрактов и предложений по сервисному контракту](service-how-to-create-service-contracts-and-service-contract-quotes.md)  
 [Настройка управления сервисным обслуживанием](service-setup-service.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

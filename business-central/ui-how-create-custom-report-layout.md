@@ -119,3 +119,6 @@ ms.locfileid: "4760546"
 [Подготовка финансовой отчетности с помощью финансовых отчетов и категорий счетов](bi-how-work-account-schedule.md) 
 [Бизнес-аналитика](bi.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

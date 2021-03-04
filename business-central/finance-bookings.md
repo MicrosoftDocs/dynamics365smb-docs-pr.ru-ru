@@ -43,3 +43,6 @@ ms.locfileid: "4751009"
 [Выставление счетов продажи](sales-how-invoice-sales.md)  
 [Настройка продаж](sales-setup-sales.md)  
 [Microsoft Bookings](https://products.office.com/business/scheduling-and-booking-app)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

@@ -38,3 +38,6 @@ ms.locfileid: "4757221"
 
 ## <a name="see-also"></a>См. также
 [Настройка [!INCLUDE[prod_short](includes/prod_short.md)] с помощью расширений](ui-extensions.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

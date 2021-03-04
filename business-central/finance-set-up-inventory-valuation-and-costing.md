@@ -47,3 +47,6 @@ ms.locfileid: "4750459"
 [Сведения о проектировании: изменение методов учета себестоимости для товаров](design-details-changing-costing-methods.md)  
 [Работа с Business Central](ui-work-product.md)  
 [Финансы](finance.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

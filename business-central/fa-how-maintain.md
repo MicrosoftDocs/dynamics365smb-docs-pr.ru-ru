@@ -90,3 +90,6 @@ ms.locfileid: "4749372"
 [Финансы](finance.md)  
 [Приступая к работе](product-get-started.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

@@ -31,3 +31,6 @@ ms.locfileid: "4751084"
 [Сведения о проектировании: таблица "Назначение произ. плана"](design-details-planning-assignment-table.md)  
 [Сведения о проектировании: спрос на пустом складе](design-details-demand-at-blank-location.md)  
 [Сведения о проектировании: перемещения при планировании](design-details-transfers-in-planning.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

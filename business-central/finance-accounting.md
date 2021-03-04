@@ -109,3 +109,6 @@ ms.locfileid: "4817033"
 [Управление работой нескольких компаний в разделе организаций](company-hub.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 [Настройка анализа движения денежных средств](finance-setup-cash-flow-analyses.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

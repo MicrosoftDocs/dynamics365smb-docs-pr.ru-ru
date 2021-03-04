@@ -182,3 +182,6 @@ ms.locfileid: "3919761"
 
 [Отчеты о платежах (Россия)](Russian-Payables-Reports.md)  
 [Настройка договоров с клиентами и поставщиками](How-to-Set-Up-Customer-and-Vendor-Agreements.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

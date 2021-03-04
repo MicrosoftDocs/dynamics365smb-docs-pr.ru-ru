@@ -50,3 +50,6 @@ ms.locfileid: "3913606"
 
 [Выставление счетов на предоплату](../../finance-invoice-prepayments.md)  
 [Пошаговое руководство. Настройка и выставление счетов на продажу](../../walkthrough-setting-up-and-invoicing-sales-prepayments.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

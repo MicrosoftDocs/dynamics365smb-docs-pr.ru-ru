@@ -64,3 +64,6 @@ ms.locfileid: "4760321"
 [Исправление или отмена неоплаченных счетов продажи](sales-how-correct-cancel-sales-invoice.md)  
 [Поиск страниц и информации с помощью функции "Что вы хотите сделать"](ui-search.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

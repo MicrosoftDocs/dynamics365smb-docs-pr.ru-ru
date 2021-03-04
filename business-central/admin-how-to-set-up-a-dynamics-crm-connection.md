@@ -144,3 +144,6 @@ The following video shows the steps to connect [!INCLUDE[prod_short](includes/pr
 ## <a name="see-also"></a>См. также
 
 [Просмотр статуса синхронизации](admin-how-to-view-synchronization-status.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

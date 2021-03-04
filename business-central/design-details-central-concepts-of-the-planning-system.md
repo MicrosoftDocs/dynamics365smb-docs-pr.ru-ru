@@ -295,3 +295,6 @@ MPS и MRP, "Вычислить план оборота" и "Вычислить 
 [Сведения о проектировании: таблица "Назначение произ. плана"](design-details-planning-assignment-table.md)   
 [Сведения о проектировании: обработка политик дозаказа](design-details-handling-reordering-policies.md)   
 [Сведения о проектировании: балансировка спроса и поставки](design-details-balancing-demand-and-supply.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

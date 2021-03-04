@@ -29,3 +29,6 @@ ms.locfileid: "4757196"
 [Интеллектуальная аналитика](about-intelligent-cloud.md)  
 [Запуск инструмента облачной миграции](/dynamics365/business-central/dev-itpro/administration/migration-tool)  
 [Расширение интеллектуального облака для миграции в облако](ui-extensions-data-replication.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

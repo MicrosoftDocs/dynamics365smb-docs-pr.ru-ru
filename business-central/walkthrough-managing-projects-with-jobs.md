@@ -489,3 +489,6 @@ ms.locfileid: "4760071"
  [Отслеживание хода выполнения и производительности](projects-how-monitor-progress-performance.md)   
  [Выставление счетов за работы](projects-how-invoice-jobs.md)  
  [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

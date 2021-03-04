@@ -112,3 +112,6 @@ ms.locfileid: "4753225"
 [Отчеты о платежах (Россия)](Russian-Payables-Reports.md)  
 [Специальные коды для информации о компании, клиентах, поставщиках](special-codes-company-information-customers-vendors.md)  
 [Наличие в странах/регионах и поддерживаемые языки](/dynamics365/business-central/dev-itpro/compliance/apptest-countries-and-translations)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

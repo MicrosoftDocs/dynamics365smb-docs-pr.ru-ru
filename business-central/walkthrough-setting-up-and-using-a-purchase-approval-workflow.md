@@ -130,3 +130,6 @@ ms.locfileid: "4759996"
 [Использование рабочего процесса утверждения](across-how-use-approval-workflows.md)  
 [Рабочий процесс](across-workflow.md)  
 [Использование Business Central в автоматическом бизнес-процессе](across-how-use-financials-data-source-flow.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

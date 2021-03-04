@@ -57,3 +57,6 @@ ms.locfileid: "3921202"
 [Налоговый учет](Tax-Accounting.md)  
 [Налоговые регистры](Tax-Registers.md)  
 [Расчет налоговых регистров](How-to-Create-Tax-Registers.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

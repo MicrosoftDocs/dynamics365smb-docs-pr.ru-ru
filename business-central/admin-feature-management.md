@@ -25,3 +25,6 @@ ms.locfileid: "4754005"
 ## <a name="see-also"></a>См. также
 
 [Новые и планируемые функции](https://aka.ms/Dynamics365ReleasePlan)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

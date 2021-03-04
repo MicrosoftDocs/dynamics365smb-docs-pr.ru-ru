@@ -73,3 +73,6 @@ ms.locfileid: "4746537"
 [Финансы](finance.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 [Изменение набора отображаемых функций](ui-experiences.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

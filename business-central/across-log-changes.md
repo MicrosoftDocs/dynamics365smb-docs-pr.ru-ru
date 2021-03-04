@@ -88,3 +88,5 @@ ms.locfileid: "4754346"
 [Назначение разрешений пользователям и группам](ui-define-granular-permissions.md)    
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 [Определение политик хранения](admin-data-retention-policies.md)  
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

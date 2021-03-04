@@ -68,3 +68,6 @@ ms.locfileid: "5024641"
 [Управление макетами отчетов и документов](ui-manage-report-layouts.md)  
 [Определение макетов документов для клиентов и поставщиков](ui-define-customer-vendor-document-layouts.md)  
 [Настройка принтеров](ui-specify-printer-selection-reports.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

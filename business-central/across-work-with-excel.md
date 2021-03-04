@@ -62,3 +62,6 @@ ms.locfileid: "4754171"
 [Анализ финансовых отчетов в Microsoft Excel](finance-analyze-excel.md)  
 [Работа с Business Central](ui-work-product.md)  
 [Улучшения интеграции с Excel в волне 2 выпуска 2019 года](/dynamics365-release-plan/2019wave2/dynamics365-business-central/enhancements-excel-integration)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

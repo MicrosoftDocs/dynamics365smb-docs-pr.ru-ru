@@ -117,3 +117,6 @@ ms.locfileid: "4754821"
 [Производство](production-manage-manufacturing.md)    
 [Запасы](inventory-manage-inventory.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

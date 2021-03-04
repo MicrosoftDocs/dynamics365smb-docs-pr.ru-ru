@@ -35,3 +35,6 @@ ms.locfileid: "3916322"
  [Использование рабочих процессов](across-use-workflows.md)   
  [Пошаговое руководство. Настройка и использование рабочего процесса утверждения покупки](walkthrough-setting-up-and-using-a-purchase-approval-workflow.md)   
  [Рабочий процесс](across-workflow.md)   
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

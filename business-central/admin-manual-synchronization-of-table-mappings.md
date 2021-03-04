@@ -85,3 +85,6 @@ ms.locfileid: "4753846"
 ## <a name="see-also"></a>См. также  
 [Синхронизация Business Central и Dynamics 365 Sales](admin-synchronizing-business-central-and-sales.md)   
 [Настройка учетных записей пользователей для интеграции с Dynamics 365 Sales](admin-setting-up-integration-with-dynamics-sales.md)   
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

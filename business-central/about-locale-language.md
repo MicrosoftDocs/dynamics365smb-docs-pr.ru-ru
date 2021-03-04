@@ -61,3 +61,6 @@ ms.locfileid: "5068464"
 [Ресурсы для справки и поддержки](product-help-and-support.md)  
 [Изменение базовых настроек](ui-change-basic-settings.md)  
 [Приступая к работе](product-get-started.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

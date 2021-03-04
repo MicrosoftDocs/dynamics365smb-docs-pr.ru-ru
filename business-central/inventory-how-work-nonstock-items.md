@@ -73,3 +73,6 @@ ms.locfileid: "4749909"
 [Создание специальных заказов](sales-how-to-create-special-orders.md)|  
 [Запасы](inventory-manage-inventory.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

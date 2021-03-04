@@ -51,3 +51,6 @@ ms.locfileid: "3921314"
 
 [Коррекция Курс. Разниц](Adjust-Exchange-Rates.md)  
 [Функциональность локальной версии для России](russia-local-functionality.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

@@ -162,3 +162,6 @@ ms.locfileid: "4747120"
 ## <a name="see-also"></a>См. также  
 [Управление дебиторской задолженностью](receivables-manage-receivables.md)  
 [Управление сервисом](service-service.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

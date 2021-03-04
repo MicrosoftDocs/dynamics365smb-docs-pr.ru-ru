@@ -110,3 +110,6 @@ Microsoft создает локализованные версии Business Cent
 
  ## [!INCLUDE[prod_short](../includes/free_trial_md.md)]  
  
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

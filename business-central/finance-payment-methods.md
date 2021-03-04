@@ -49,3 +49,6 @@ ms.locfileid: "5035360"
 [Настройка условия платежа](finance-payment-terms.md)  
 [Финансы](finance.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

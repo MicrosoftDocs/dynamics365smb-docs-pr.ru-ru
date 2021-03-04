@@ -219,3 +219,6 @@ ms.locfileid: "4756421"
 [Финансы](finance.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 [Пошаговые описания бизнес-процессов](walkthrough-business-process-walkthroughs.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

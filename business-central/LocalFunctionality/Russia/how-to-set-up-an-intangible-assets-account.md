@@ -31,3 +31,6 @@ ms.locfileid: "3921210"
 ## <a name="see-also"></a>См. также
 
 [Основные Средства](../../fa-manage.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

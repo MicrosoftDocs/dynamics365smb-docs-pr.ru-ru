@@ -73,3 +73,6 @@ ms.locfileid: "4751059"
  [Финансы](finance.md)   
  [Терминология в учете затрат](finance-terminology-in-cost-accounting.md)  
  [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

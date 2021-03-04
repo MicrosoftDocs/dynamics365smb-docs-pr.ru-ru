@@ -78,3 +78,6 @@ EXIT(DimSet.ID);
  [Обзор записей набора измерений](design-details-dimension-set-entries-overview.md)   
  [Сведения о проектировании: структура таблицы](design-details-table-structure.md)   
  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

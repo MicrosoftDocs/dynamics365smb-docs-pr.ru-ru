@@ -200,3 +200,6 @@ codeunit 60100 "Hello World"
 [Выполнение платежей с помощью расширения AMC Banking 365 Fundamentals или кредитного перевода SEPA](finance-make-payments-with-bank-data-conversion-service-or-sepa-credit-transfer.md)  
 [Входящие документы](across-income-documents.md)  
 [Общие бизнес-функции](ui-across-business-areas.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

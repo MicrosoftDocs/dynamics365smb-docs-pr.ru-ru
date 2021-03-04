@@ -24,3 +24,6 @@ ms.locfileid: "4751659"
 [Обзор записей набора измерений](design-details-dimension-set-entries-overview.md)  
 [Сведения о проектировании: поиск комбинаций измерений](design-details-searching-for-dimension-combinations.md)  
 [Сведения о проектировании: структура таблицы](design-details-table-structure.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

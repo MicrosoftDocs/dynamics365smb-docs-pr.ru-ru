@@ -42,3 +42,6 @@ ms.locfileid: "4755671"
 [Учет операции закрытия года](year-how-post-year-end-close-entry.md)  
 [Работа с учетными периодами и финансовыми годами](finance-accounting-periods-and-fiscal-years.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

@@ -62,3 +62,6 @@ ms.locfileid: "4817158"
 [Экспорт бизнес-данных в Excel](about-export-data.md)  
 [Регистрация изменений](across-log-changes.md)  
 [Запросы субъектов данных в соответствии с GDPR](/microsoft-365/compliance/gdpr-data-subject-requests)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

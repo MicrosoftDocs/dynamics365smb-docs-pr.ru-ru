@@ -30,3 +30,6 @@ ms.locfileid: "3921226"
 ## <a name="see-also"></a>См. также
 
 [Работа с финансовыми отчетами](How-to-Work-with-Account-Schedules.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

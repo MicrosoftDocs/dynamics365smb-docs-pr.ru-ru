@@ -39,3 +39,6 @@ ms.locfileid: "3915564"
 [Регистрация новых клиентов](sales-how-register-new-customers.md)    
 [Финансы](finance.md)  
 
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

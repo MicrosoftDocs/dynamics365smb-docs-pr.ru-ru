@@ -78,3 +78,6 @@ ms.locfileid: "4840182"
 [Советы по повышению эффективности для бизнес-пользователей](/dynamics365/business-central/dev-itpro/performance/performance-users?toc=/dynamics365/business-central/toc.json)
 
 ## [!INCLUDE[prod_short](includes/free_trial_md.md)]
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

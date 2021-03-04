@@ -138,3 +138,6 @@ ms.locfileid: "4750984"
 [Управление межфирменными транзакциями](intercompany-manage.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 [Экспорт бизнес-данных в Excel](about-export-data.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

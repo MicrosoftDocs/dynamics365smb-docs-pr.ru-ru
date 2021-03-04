@@ -98,3 +98,6 @@ ms.locfileid: "4817210"
 [Представляем docs.microsoft.com (исходная запись в блоге)](https://docs.microsoft.com/teamblog/introducing-docs-microsoft-com)  
 
 ## [!INCLUDE[prod_short](includes/free_trial_md.md)]
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

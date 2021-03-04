@@ -39,3 +39,6 @@ Business Central является облачной службой с глоба�
 [Сертификаты](compliance-certifications.md)  
 
 ## [!INCLUDE[prod_short](../includes/free_trial_md.md)]  
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

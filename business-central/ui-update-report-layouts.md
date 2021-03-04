@@ -67,3 +67,6 @@ ms.locfileid: "3925476"
 ## <a name="see-also"></a>См. также  
  [Управление макетами отчетов](ui-manage-report-layouts.md)  
  [Работа с отчетами, пакетными заданиями и XMLport](ui-work-report.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

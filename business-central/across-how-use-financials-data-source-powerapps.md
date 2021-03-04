@@ -56,3 +56,6 @@ ms.locfileid: "4754496"
 [Импорт бизнес-данных из других финансовых систем](across-import-data-configuration-packages.md)  
 [Настройка [!INCLUDE[prod_short](includes/prod_short.md)]](setup.md)  
 [Начальные сведения по разработке соединительных приложений для Dynamics 365 Business Central](/dynamics365/business-central/dev-itpro/developer/devenv-develop-connect-apps)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

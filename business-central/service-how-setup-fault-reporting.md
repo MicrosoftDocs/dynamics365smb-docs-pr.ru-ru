@@ -47,3 +47,6 @@ ms.locfileid: "3910509"
 ## <a name="see-also"></a>См. также
 [Настройка управления сервисным обслуживанием](service-setup-service.md)  
 [Управление сервисом](service-service.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

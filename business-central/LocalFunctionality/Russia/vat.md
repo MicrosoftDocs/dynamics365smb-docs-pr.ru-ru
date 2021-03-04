@@ -45,3 +45,6 @@ ms.locfileid: "3923974"
 [НДС по предоплатам клиентов](VAT-by-Customer-prepayments.md)  
 [Восстановление НДС](VAT-reinstatement.md)  
 [Схема налогового агента поставщика](Vendor-Tax-Agent-scheme.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

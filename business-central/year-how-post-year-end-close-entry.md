@@ -36,3 +36,6 @@ ms.locfileid: "4755546"
 [Закрытие книг](year-close-books.md)  
 [Закрытие отчета о прибылях и убытках](year-close-income-statement.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

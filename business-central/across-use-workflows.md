@@ -39,3 +39,6 @@ ms.locfileid: "4753004"
 [Настройка рабочих процессов](across-set-up-workflows.md)   
 [Рабочий процесс](across-workflow.md)   
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

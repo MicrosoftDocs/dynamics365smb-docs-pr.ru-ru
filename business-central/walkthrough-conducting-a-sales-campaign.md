@@ -199,3 +199,6 @@ ms.locfileid: "4760111"
 [Управление отношениями](marketing-relationship-management.md)  
  [Пошаговые описания бизнес-процессов](walkthrough-business-process-walkthroughs.md)  
  [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

@@ -81,3 +81,6 @@ ms.locfileid: "4752704"
 [Применение конфигураций к новым организациям](admin-apply-configuration-to-new-companies.md)  
 [Настройка организации со службами RapidStart Services](admin-set-up-a-company-with-rapidstart.md)  
 [Администрация](admin-setup-and-administration.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

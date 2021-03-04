@@ -69,3 +69,6 @@ ms.locfileid: "3924157"
 [Финансы](finance.md)  
 [Запасы](inventory-manage-inventory.md)  
 [Работа с Financials](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

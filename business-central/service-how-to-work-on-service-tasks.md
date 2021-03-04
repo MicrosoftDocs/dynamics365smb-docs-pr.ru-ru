@@ -107,3 +107,6 @@ ms.locfileid: "4747997"
 [Настройка отчетности по неисправностям](service-how-setup-fault-reporting.md)
 [Статус распределения и ремонта](service-allocation-status-and-repair-status.md)  
 [Учет сервиса](service-service-posting.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

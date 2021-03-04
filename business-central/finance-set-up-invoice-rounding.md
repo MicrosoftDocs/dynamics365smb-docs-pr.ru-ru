@@ -63,3 +63,6 @@ ms.locfileid: "4746595"
 ## <a name="see-also"></a>См. также  
 [Выставление счетов продажи](sales-how-invoice-sales.md)  
 [Регистрация покупок](purchasing-how-record-purchases.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

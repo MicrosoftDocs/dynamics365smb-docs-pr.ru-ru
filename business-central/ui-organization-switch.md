@@ -48,3 +48,6 @@ ms.locfileid: "4760421"
 
 [Центр администрирования Business Central](/dynamics365/business-central/dev-itpro/administration/tenant-admin-center)  
 [Изменение базовых настроек](ui-change-basic-settings.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

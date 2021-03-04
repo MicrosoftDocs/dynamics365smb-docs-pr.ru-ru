@@ -32,3 +32,6 @@ ms.locfileid: "3913600"
 [Оборотная ведомость для товаров по ГК](Item-General-Ledger-Turnover.md)
 
 [Создание товарного отчета ТОРГ-29](How-to-Create-the-TORG-29-Goods-Report.md)
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

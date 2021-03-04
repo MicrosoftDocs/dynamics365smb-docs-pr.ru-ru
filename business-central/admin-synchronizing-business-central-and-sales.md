@@ -63,3 +63,6 @@ ms.locfileid: "4755103"
 [Связывание и синхронизация записей вручную](admin-how-to-couple-and-synchronize-records-manually.md)   
 [Синхронизация по расписанию](admin-scheduled-synchronization-using-the-synchronization-job-queue-entries.md)   
 [Интеграция с Dynamics 365 Sales](admin-prepare-dynamics-365-for-sales-for-integration.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

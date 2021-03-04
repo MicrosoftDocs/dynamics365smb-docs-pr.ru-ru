@@ -47,3 +47,6 @@ ms.locfileid: "4752109"
 
 [Управление работой нескольких компаний в разделе организаций](company-hub.md)  
 [Ресурсы для справки и поддержки](product-help-and-support.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

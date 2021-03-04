@@ -44,3 +44,6 @@ ms.locfileid: "3922046"
 
 ## <a name="see-also"></a>См. также  
  [Сведения о проектировании: трассировка товара](design-details-item-tracking.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

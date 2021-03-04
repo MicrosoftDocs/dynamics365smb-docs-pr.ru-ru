@@ -110,3 +110,6 @@ ms.locfileid: "4367763"
 
 ## <a name="see-also"></a>См. также  
  [Сведения о проектировании. Изменения модуля codeunit 12: изменения в процедурах учета финансовых журналов](design-details-codeunit-12-changes-changes-in-general-journal-post-procedures.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

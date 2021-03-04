@@ -37,3 +37,6 @@ ms.locfileid: "3923113"
 
 [Товарные документы](Item-Documents.md)  
 [Оборотная ведомость для товаров по ГК](Item-General-Ledger-Turnover.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

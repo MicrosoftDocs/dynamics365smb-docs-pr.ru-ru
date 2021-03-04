@@ -210,3 +210,6 @@ ms.locfileid: "4760103"
 [Сверка платежей клиентов с журналом кассовых поступлений или из книги операций по клиентам](receivables-how-apply-sales-transactions-manually.md)  
 [Выверка платежей поставщикам с журналом платежей или из книги операций по поставщикам](payables-how-apply-purchase-transactions-manually.md)  
 [Работа с межфирменными документами и журналами](intercompany-how-work-documents-journals.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

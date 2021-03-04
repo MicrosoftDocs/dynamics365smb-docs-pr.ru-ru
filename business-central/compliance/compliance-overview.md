@@ -35,3 +35,6 @@ ms.locfileid: "4751959"
 |Узнайте об условиях соглашения об уровне обслуживания и других условиях обслуживания|[Условия предоставления услуг](compliance-service-compliance.md#service-terms)|  
 
 ## [!INCLUDE[prod_short](../includes/free_trial_md.md)]  
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

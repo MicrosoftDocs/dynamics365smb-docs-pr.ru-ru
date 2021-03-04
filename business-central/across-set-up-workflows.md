@@ -53,3 +53,6 @@ ms.locfileid: "4754229"
  [Рабочий процесс](across-workflow.md)   
  [Пошаговое руководство. Настройка и использование рабочего процесса утверждения покупки](walkthrough-setting-up-and-using-a-purchase-approval-workflow.md)  
  [Работа с Business Central](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

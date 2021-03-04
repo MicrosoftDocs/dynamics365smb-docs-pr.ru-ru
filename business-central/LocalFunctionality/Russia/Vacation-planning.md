@@ -35,3 +35,6 @@ ms.locfileid: "4752435"
 ## <a name="see-also"></a>См. также
 
 [Персонал](Human-Resources.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

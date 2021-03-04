@@ -122,3 +122,6 @@ ms.locfileid: "4759771"
 [Пошаговое руководство. Подбор и отгрузка в базовых конфигурациях склада](walkthrough-picking-and-shipping-in-basic-warehousing.md)  
 [Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

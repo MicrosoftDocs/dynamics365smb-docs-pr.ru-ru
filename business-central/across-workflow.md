@@ -42,3 +42,6 @@ ms.locfileid: "4752929"
 [Покупки](purchasing-manage-purchasing.md)  
 [Управление проектами](projects-manage-projects.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

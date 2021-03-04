@@ -62,3 +62,6 @@ ms.locfileid: "3921194"
 [Подготовка операций НДС к учету](How-to-Prepare-VAT-Entries-for-Posting.md)  
 [Создание книг НДС](How-to-Create-VAT-Ledgers.md)  
 [Создание дополнительных листов](How-to-Create-Additional-Sheets.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

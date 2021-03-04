@@ -93,3 +93,6 @@ ms.locfileid: "4753871"
 ## <a name="see-also"></a>См. также
 
 [Администрация](admin-setup-and-administration.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

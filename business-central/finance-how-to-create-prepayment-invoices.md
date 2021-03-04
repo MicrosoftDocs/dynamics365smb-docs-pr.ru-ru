@@ -73,3 +73,6 @@ ms.locfileid: "4746870"
 [Пошаговое руководство. Настройка и выставление счетов на продажу](walkthrough-setting-up-and-invoicing-sales-prepayments.md)  
 [Финансы](finance.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

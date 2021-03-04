@@ -110,3 +110,6 @@ ms.locfileid: "4751559"
 
 ## <a name="see-also"></a>См. также  
 [Сведения о проектировании: управление складом](design-details-warehouse-management.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

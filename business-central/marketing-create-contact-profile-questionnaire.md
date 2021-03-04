@@ -158,3 +158,6 @@ ms.locfileid: "4755446"
 
 ## <a name="see-also"></a>См. также
 [Создание контактов](marketing-create-contact-companies.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

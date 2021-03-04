@@ -88,3 +88,6 @@ ms.locfileid: "4754546"
 [Настройка пользователя для утверждений](across-how-to-set-up-approval-users.md)  
 [Настройка [!INCLUDE[prod_short](includes/prod_short.md)]](setup.md)  
 [Финансы](finance.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

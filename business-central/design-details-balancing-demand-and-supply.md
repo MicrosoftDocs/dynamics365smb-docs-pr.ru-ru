@@ -291,3 +291,6 @@ ms.locfileid: "3917555"
  [Сведения о проектировании: основные понятия системы планирования](design-details-central-concepts-of-the-planning-system.md)   
  [Сведения о проектировании: обработка политик дозаказа](design-details-handling-reordering-policies.md)   
  [Сведения о проектировании: планирование поставок](design-details-supply-planning.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

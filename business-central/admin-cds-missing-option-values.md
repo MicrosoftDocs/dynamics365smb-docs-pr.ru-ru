@@ -146,3 +146,5 @@ enumextension 50100 "CDS Payment Terms Code Extension" extends "CDS Payment Term
 
 ## <a name="see-also"></a>См. также
 [Сопоставление таблиц и полей для синхронизации](admin-how-to-modify-table-mappings-for-synchronization.md)
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

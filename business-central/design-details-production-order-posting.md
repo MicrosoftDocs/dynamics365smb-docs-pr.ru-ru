@@ -110,3 +110,6 @@ ms.locfileid: "3917305"
  [Сведения о проектировании: учет заказа на сборку](design-details-assembly-order-posting.md)  
  [Управление себестоимостью товаров](finance-manage-inventory-costs.md) [Финансы](finance.md)  
  [Работа с Business Central](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

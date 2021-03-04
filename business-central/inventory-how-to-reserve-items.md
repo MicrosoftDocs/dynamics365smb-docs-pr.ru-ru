@@ -99,3 +99,6 @@ ms.locfileid: "4750034"
 [Сведения о проектировании. Трассировка и резервирование товара](design-details-item-tracking-and-reservations.md)  
 [Работа с серийными номерами и номерами партий](inventory-how-work-item-tracking.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

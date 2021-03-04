@@ -65,3 +65,6 @@ ms.locfileid: "4751184"
  [Сведения о проектировании: методы учета себестоимости](design-details-costing-methods.md) [Управление себестоимостью товаров](finance-manage-inventory-costs.md)  
  [Финансы](finance.md)  
  [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

@@ -149,3 +149,6 @@ ms.locfileid: "4754671"
 [Электронный обмен данными](across-data-exchange.md)   
 [Выставление счетов продажи](sales-how-invoice-sales.md)   
 [Регистрация покупок](purchasing-how-record-purchases.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

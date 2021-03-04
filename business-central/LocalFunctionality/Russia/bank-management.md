@@ -58,3 +58,6 @@ ms.locfileid: "4752433"
 ## <a name="see-also"></a>См. также 
 
 [Настройка платежного поручения](How-to-Set-Up-a-Bank-Payment-Order.md)
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

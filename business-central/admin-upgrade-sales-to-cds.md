@@ -39,3 +39,6 @@ ms.locfileid: "5013721"
 ## <a name="see-also"></a>См. также
 [Интеграция с Dynamics 365 Sales](admin-prepare-dynamics-365-for-sales-for-integration.md)  
 [Интеграция с Microsoft Dataverse](admin-common-data-service.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

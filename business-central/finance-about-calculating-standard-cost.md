@@ -105,3 +105,6 @@ ms.locfileid: "3917210"
  [Работа со спецификациями](inventory-how-work-BOMs.md)   
  [Обновление стандартных себестоимостей](finance-how-to-update-standard-costs.md)   
  [Сведения о проектировании: себестоимость запасов](design-details-inventory-costing.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

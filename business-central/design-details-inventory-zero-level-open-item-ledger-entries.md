@@ -151,3 +151,6 @@ ms.locfileid: "4751409"
 ## <a name="see-also"></a>См. также  
 [Сведения о проектировании: применение товара](design-details-item-application.md)   
 [Сведения о проектировании: себестоимость запасов](design-details-inventory-costing.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

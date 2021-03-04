@@ -60,3 +60,6 @@ ms.locfileid: "4756721"
 [Поиск страниц и информации с помощью функции "Что вы хотите сделать"](ui-search.md)  
 [Поиск страниц с помощью обозревателя ролей](ui-role-explorer.md)  
 [Приступая к работе](product-get-started.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

@@ -70,3 +70,6 @@ ms.locfileid: "4757946"
 [Настройка распределений ресурсов](service-how-setup-resource-allocation.md)  
 [Распределение ресурсов](service-how-to-allocate-resources.md)  
 
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

@@ -67,3 +67,6 @@ ms.locfileid: "3922020"
 [Сведения о проектировании: обработка политик дозаказа](design-details-handling-reordering-policies.md)   
 [Сведения о проектировании: перемещения при планировании](design-details-transfers-in-planning.md)   
 [Сведения о проектировании: параметры планирования](design-details-planning-parameters.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

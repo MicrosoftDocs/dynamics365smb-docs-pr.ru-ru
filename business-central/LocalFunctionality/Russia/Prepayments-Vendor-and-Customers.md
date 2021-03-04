@@ -37,3 +37,6 @@ ms.locfileid: "4752437"
 ## <a name="see-also"></a>См. также
 
 [Функциональность локальной версии для России](russia-local-functionality.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

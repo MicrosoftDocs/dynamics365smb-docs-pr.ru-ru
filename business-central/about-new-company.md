@@ -77,3 +77,6 @@ ms.locfileid: "4753596"
 [Импорт бизнес-данных из других финансовых систем](across-import-data-configuration-packages.md)  
 [Изменение базовых настроек](ui-change-basic-settings.md)  
 [Приступая к работе](product-get-started.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

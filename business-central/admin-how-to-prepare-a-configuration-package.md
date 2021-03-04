@@ -175,3 +175,6 @@ ms.locfileid: "4752729"
 [Настройка организации со службами RapidStart Services](admin-set-up-a-company-with-rapidstart.md)  
 [Администрация](admin-setup-and-administration.md)  
 [Анализ телеметрии трассировки пакета конфигурации](/dynamics365smb-devitpro/dev-itpro/administration/telemetry-configuration-package-trace)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

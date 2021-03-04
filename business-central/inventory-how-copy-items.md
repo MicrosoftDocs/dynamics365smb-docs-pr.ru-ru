@@ -39,3 +39,6 @@ ms.locfileid: "3920476"
 
 [Регистрация новых товаров](inventory-how-register-new-items.md)  
 [Настройка запасов](inventory-setup-inventory.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

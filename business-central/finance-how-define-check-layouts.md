@@ -93,3 +93,6 @@ ms.locfileid: "4746995"
 [Выполнение процессов завершения периода](year-how-complete-period-end-processes.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 [Общие бизнес-функции](ui-across-business-areas.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

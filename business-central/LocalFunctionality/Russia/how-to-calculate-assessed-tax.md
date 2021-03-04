@@ -92,3 +92,6 @@ ms.locfileid: "3921254"
 
 [Основные Средства](../../fa-manage.md)  
 [Настройка основных средств](../../fa-setup.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

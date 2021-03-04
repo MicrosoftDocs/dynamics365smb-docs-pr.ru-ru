@@ -72,3 +72,6 @@ ms.locfileid: "4753371"
 [Электронный обмен данными](across-data-exchange.md)
 [Использование расширения AMC Banking 365 Fundamentals](ui-extensions-amc-banking.md)   
 [Выполнение платежей с помощью расширения AMC Banking 365 Fundamentals или кредитного перевода SEPA](finance-make-payments-with-bank-data-conversion-service-or-sepa-credit-transfer.md)   
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

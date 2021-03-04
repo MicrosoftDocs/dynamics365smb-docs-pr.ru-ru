@@ -38,3 +38,6 @@ ms.locfileid: "4758471"
 [Настройка покупки](purchasing-setup-purchasing.md)  
 [Отправка документов по электронной почте](ui-how-send-documents-email.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

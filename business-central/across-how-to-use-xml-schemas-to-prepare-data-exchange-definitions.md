@@ -117,3 +117,6 @@ ms.locfileid: "4754621"
 [Экспорт платежей в банковский файл](finance-make-payments-with-bank-data-conversion-service-or-sepa-credit-transfer.md#exporting-payments-to-a-bank-file)  
 [Сбор платежей с прямым дебетом SEPA](finance-collect-payments-with-sepa-direct-debit.md)  
 [О структуре обмена данными](across-about-the-data-exchange-framework.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

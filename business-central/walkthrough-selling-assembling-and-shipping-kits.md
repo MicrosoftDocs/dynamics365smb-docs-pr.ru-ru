@@ -444,3 +444,6 @@ ms.locfileid: "5035510"
  [Сведения о проектировании: внутренние складские потоки](design-details-internal-warehouse-flows.md)   
  [Сведения о проектировании. Исходящий складской поток](design-details-outbound-warehouse-flow.md)   
  [Пошаговое руководство. Автоматическое планирование поставок](walkthrough-planning-supplies-automatically.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

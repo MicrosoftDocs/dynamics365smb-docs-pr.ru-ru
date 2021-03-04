@@ -51,3 +51,6 @@ Invoicing и [!INCLUDE[prod_short](includes/prod_short.md)] используют
 ## <a name="see-also"></a>См. также
 [Вопросы и ответы](across-faq.md)  
 [Администрация](admin-setup-and-administration.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

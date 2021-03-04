@@ -82,3 +82,6 @@ ms.locfileid: "4752529"
 [Покупки](purchasing-manage-purchasing.md)  
 [Минимальные требования для Outlook](product-requirements.md#outlook)  
 [Использование надстроек в Outlook в Интернете](https://support.office.com/article/Using-Add-ins-in-Outlook-on-the-web-8f2ce816-5df4-44a5-958c-f7f9d6dabdce?appver=OWB150)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

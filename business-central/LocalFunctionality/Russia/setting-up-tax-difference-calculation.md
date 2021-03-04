@@ -40,3 +40,6 @@ ms.locfileid: "3919759"
 [Регистры налоговых разниц](Tax-Difference-Registers.md)  
 [Настройка юрисдикций нормы](How-to-Set-Up-Norm-Jurisdictions.md)  
 [Учет налоговых разниц](How-to-Post-Tax-Differences.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

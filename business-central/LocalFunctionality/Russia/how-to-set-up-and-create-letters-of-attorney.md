@@ -59,3 +59,6 @@ ms.locfileid: "3921208"
 ## <a name="see-also"></a>См. также
 
 [Настройка материально-ответственных сотрудников и авансовых отчетов](How-to-Set-Up-Responsible-Employees-and-Advance-Statements.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

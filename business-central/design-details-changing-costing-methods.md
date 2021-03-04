@@ -182,3 +182,6 @@ ms.locfileid: "4751735"
 
 [Сведения о проектировании: методы учета себестоимости](design-details-costing-methods.md)  
 [Обзор](design-details-inventory-costing.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

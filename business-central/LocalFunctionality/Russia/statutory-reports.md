@@ -50,3 +50,6 @@ ms.locfileid: "4753219"
 
 [Налоговый учет](Tax-Differences.md)  
 [Налоговые разницы](Tax-Accounting.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

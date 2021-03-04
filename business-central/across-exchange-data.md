@@ -44,3 +44,6 @@ ms.locfileid: "4753421"
 [Регистрация покупок](purchasing-how-record-purchases.md)  
 [Входящие документы](across-income-documents.md)  
 [Общие бизнес-функции](ui-across-business-areas.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

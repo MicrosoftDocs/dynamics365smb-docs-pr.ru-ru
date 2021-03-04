@@ -157,3 +157,6 @@ ms.locfileid: "4846344"
 [Администрация](admin-setup-and-administration.md)  
 [Добавление пользователей в Microsoft 365 для бизнеса](https://aka.ms/CreateOffice365Users)  
 [Безопасность и защита в Business Central (содержимое по администрированию)](/dynamics365/business-central/dev-itpro/security/security-and-protection)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

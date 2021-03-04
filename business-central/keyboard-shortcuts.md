@@ -222,3 +222,6 @@ ms.locfileid: "4746120"
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 [Вопросы и ответы](across-faq.md)  
 [Найти записи](ui-find-entries.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

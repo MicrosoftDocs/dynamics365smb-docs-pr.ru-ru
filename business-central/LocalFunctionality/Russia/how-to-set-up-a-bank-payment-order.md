@@ -33,3 +33,6 @@ ms.locfileid: "3921214"
 ## <a name="see-also"></a>См. также
 
  [Управление банком](Bank-Management.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

@@ -62,3 +62,6 @@ ms.locfileid: "4757896"
 [Настройка сервисных товаров и компонентов сервисных товаров](service-how-setup-service-items.md)  
 [Настройка управления сервисным обслуживанием](service-setup-service.md)  
 [Управление сервисом](service-service.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

@@ -84,3 +84,6 @@ ms.locfileid: "4759571"
 [Настройка банковских операций](bank-setup-banking.md)  
 [Экспорт файла Positive Pay](finance-how-positive-pay.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

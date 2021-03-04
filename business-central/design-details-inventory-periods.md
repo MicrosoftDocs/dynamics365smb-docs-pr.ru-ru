@@ -33,3 +33,6 @@ ms.locfileid: "3913742"
 ## <a name="see-also"></a>См. также  
  [Сведения о проектировании: себестоимость запасов](design-details-inventory-costing.md) [Управление себестоимостью товаров](finance-manage-inventory-costs.md) [Финансы](finance.md)  
  [Работа с Business Central](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

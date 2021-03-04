@@ -195,3 +195,6 @@ ms.locfileid: "4748747"
 [Исправление или отмена неоплаченных счетов покупки](purchasing-how-correct-cancel-unpaid-purchase-invoices.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 [Обработка возвратов продажи или отмен](sales-how-process-sales-returns-cancellations.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

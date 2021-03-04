@@ -234,3 +234,6 @@ ms.locfileid: "5013746"
 [Финансы](finance.md)  
 [Анализ данных по измерениям](bi-how-analyze-data-dimension.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

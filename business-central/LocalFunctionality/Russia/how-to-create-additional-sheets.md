@@ -96,3 +96,6 @@ ms.locfileid: "4752431"
 ## <a name="see-also"></a>См. также
 
 [Книги НДС](VAT-Ledgers.md)
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

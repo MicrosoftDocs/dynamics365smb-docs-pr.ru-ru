@@ -126,3 +126,6 @@ ms.locfileid: "4752654"
 [Настройка конфигурации организации](admin-set-up-company-configuration.md)  
 [Настройка организации со службами RapidStart Services](admin-set-up-a-company-with-rapidstart.md)  
 [Администрация](admin-setup-and-administration.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

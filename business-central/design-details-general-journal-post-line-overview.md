@@ -46,3 +46,6 @@ ms.locfileid: "4751609"
 ## <a name="see-also"></a>См. также  
 [Сведения о проектировании: структура интерфейса учета](design-details-posting-interface-structure.md)   
 [Сведения о проектировании: структура механизма учета](design-details-posting-engine-structure.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

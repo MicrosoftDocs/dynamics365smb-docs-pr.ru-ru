@@ -158,3 +158,6 @@ ms.locfileid: "4745920"
 [Настройка организации со службами RapidStart Services](admin-set-up-a-company-with-rapidstart.md)  
 [Администрация](admin-setup-and-administration.md)  
 [Регистрация новых клиентов](sales-how-register-new-customers.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

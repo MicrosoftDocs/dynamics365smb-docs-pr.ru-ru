@@ -68,3 +68,6 @@ ms.locfileid: "4756821"
 [Отправка документов по электронной почте](ui-how-send-documents-email.md)  
 [Работа с отчетами, пакетными заданиями и XMLport](ui-work-report.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

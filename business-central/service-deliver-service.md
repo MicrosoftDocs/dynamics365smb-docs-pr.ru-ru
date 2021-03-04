@@ -46,3 +46,6 @@ ms.locfileid: "4748059"
 [Планирование сервисного обслуживания](service-plan-service.md)  
 [Выполнение контрактов на обслуживание](service-fulfill-service-contracts.md)  
 [Управление проектами](projects-manage-projects.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

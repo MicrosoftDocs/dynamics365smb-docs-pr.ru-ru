@@ -111,3 +111,6 @@ Microsoft развертывает и управляет рядом веб-сл�
 [Документация студии машинного обучения Azure](https://go.microsoft.com/fwlink/?linkid=861765)  
 [Настройка Business Central с помощью расширений](ui-extensions.md)  
 [Добро пожаловать в [!INCLUDE[prod_long](includes/prod_long.md)]](index.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

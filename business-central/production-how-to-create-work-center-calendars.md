@@ -111,3 +111,6 @@ ms.locfileid: "4759321"
 [Настройка производства](production-configure-production-processes.md)  
 [Производство](production-manage-manufacturing.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

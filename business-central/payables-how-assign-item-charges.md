@@ -86,3 +86,6 @@ ms.locfileid: "4759621"
 [Регистрация покупок](purchasing-how-record-purchases.md)  
 [Выставление счетов продажи](sales-how-invoice-sales.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

@@ -71,3 +71,6 @@ ms.locfileid: "4747045"
 [Финансы](finance.md)  
 [Настройка или изменение плана счетов](finance-setup-chart-accounts.md)  
 [Бизнес-аналитика](bi.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

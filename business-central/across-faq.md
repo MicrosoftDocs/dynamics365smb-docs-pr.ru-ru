@@ -147,3 +147,6 @@ ms.locfileid: "5014029"
 [Вопросы и ответы о разработке и ITPro](/dynamics365/business-central/dev-itpro/faq)
 
 ## [!INCLUDE[prod_short](includes/free_trial_md.md)]  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

@@ -42,3 +42,6 @@ ms.locfileid: "4840207"
 [Вопросы и ответы по копированию и вставке](faq-copy-paste.yml)  
 [Изменение базовых настроек](ui-change-basic-settings.md)  
 [Приступая к работе](product-get-started.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

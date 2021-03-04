@@ -33,3 +33,6 @@ ms.locfileid: "4400641"
 [Создание кредит-ноты для издержек ОС](How-to-Create-a-Credit-Memo-for-a-Fixed-Asset-Charge.md)  
 [Просмотр учтенных операций по издержкам основных средств](How-to-View-Posted-Entries-on-a-Fixed-Asset-Charge.md)  
 [Настройка основных средств](../../fa-setup.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

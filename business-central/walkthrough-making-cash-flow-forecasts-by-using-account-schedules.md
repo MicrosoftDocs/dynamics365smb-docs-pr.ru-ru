@@ -90,3 +90,6 @@ ms.locfileid: "4756545"
  [Работа с финансовыми отчетами](bi-how-work-account-schedule.md)   
  [Пошаговые описания бизнес-процессов](walkthrough-business-process-walkthroughs.md)  
  [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

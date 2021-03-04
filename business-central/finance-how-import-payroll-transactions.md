@@ -38,3 +38,6 @@ ms.locfileid: "4746970"
 [Финансы](finance.md)  
 [Настройка [!INCLUDE[prod_short](includes/prod_short.md)] с помощью расширений](ui-extensions.md)  
 [Работа с финансовыми журналами](ui-work-general-journals.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

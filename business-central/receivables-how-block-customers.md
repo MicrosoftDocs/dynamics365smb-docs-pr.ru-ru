@@ -40,3 +40,6 @@ ms.locfileid: "3926551"
 [Регистрация новых клиентов](sales-how-register-new-customers.md)  
 [Сбор непогашенных остатков задолженности](receivables-collect-outstanding-balances.md)  
 [Управление дебиторской задолженностью](receivables-manage-receivables.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

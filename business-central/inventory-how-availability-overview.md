@@ -129,3 +129,6 @@ ms.locfileid: "4746346"
 [Продажа продуктов](sales-how-sell-products.md)      
 [Работа с Business Central](ui-work-product.md)  
 [Общие бизнес-функции](ui-across-business-areas.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

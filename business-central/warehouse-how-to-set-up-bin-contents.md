@@ -66,3 +66,6 @@ ms.locfileid: "4756046"
 [Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
 [Сведения о проектировании: настройка склада](design-details-warehouse-setup.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

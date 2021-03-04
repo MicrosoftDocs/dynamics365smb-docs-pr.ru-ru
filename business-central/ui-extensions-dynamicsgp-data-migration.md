@@ -29,3 +29,6 @@ ms.locfileid: "4757271"
 [Импорт бизнес-данных из других финансовых систем](across-import-data-configuration-packages.md)  
 [Настройка [!INCLUDE[prod_short](includes/prod_short.md)] с помощью расширений](ui-extensions.md)  
 [Перейдите на Business Central Online с Dynamics GP](/dynamics365/business-central/dev-itpro/administration/migrate-dynamics-gp)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

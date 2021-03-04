@@ -29,3 +29,6 @@ ms.locfileid: "5068338"
 [Использование Business Central в качестве папки "Входящие" для бизнеса в Outlook](admin-outlook.md)  
 [Получение Business Central на моем мобильном устройстве](install-mobile-app.md)  
 [Отправка документов по электронной почте](ui-how-send-documents-email.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]
