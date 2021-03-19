@@ -3,19 +3,19 @@ title: Создание карточек товаров для товаров и
 description: Карточки товаров создаются для услуг, которые вы продаете по часам, а также для физических продуктов, например для сборочных элементов, готовой продукции, сырья или компонентов, которые вы продаете из складских запасов.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: item, finished good, component, raw material, assembly item
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 6e4bf13885ccd7888e1750f4351741150df7b7df
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: badba79d8097db74ca843f37ded1b76ada5c3739
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4746220"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5377702"
 ---
 # <a name="register-new-items"></a>Регистрация новых товаров
 

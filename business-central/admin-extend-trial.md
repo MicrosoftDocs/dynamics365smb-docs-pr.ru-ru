@@ -3,19 +3,19 @@ title: Продление пробной версии Business Central
 description: Если требуется дополнительные времени, чтобы определить, нужно ли подписаться на Dynamics 365 Business Central, имеется возможность один раз продлить пробную версию. Узнайте о своих возможностях.
 author: bholtorf
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: bholtorf
-ms.openlocfilehash: bc23b43fb92ab1c7442a41024b59e7ca8652f154
-ms.sourcegitcommit: 1c9eec7554305603d688bf85ce3986d0b1f72ede
+ms.openlocfilehash: 8714ecb87cd005693925767783de0adabddc0049
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/26/2021
-ms.locfileid: "5068350"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5378502"
 ---
 # <a name="need-more-time-to-decide-whether-to-subscribe"></a>Нужно больше времени на принятие решения о подписке?
 

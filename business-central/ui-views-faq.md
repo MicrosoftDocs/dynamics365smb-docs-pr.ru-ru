@@ -3,19 +3,19 @@ title: Вопросы и ответы о представлениях списк
 description: Подробная информация о сохранении фильтров в виде представлений списков.
 author: mikebcMSFT
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: list, filter, pane, views
 ms.date: 10/01/2020
 ms.author: mikebc
-ms.openlocfilehash: f39e20a9b4dae7e84c491d6d28308133f4691c05
-ms.sourcegitcommit: 32bfc2acaaf3693afc9aeb86feea505fd328caa1
+ms.openlocfilehash: 17d7c909865bc077097ba4299e07ed2dd9cedb22
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/19/2021
-ms.locfileid: "5024518"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5392478"
 ---
 # <a name="list-views-faq"></a>Вопросы и ответы о представлениях списков
 В этой статье приведены ответы на вопросы, которые часто задают наши продвинутые пользователи о работе с представлениями списков и сохранении фильтров.  

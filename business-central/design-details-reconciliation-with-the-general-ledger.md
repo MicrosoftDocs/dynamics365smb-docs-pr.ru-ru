@@ -3,19 +3,19 @@ title: Сведения о проектировании — выверка с г
 description: В этом разделе рассматривается выверка с главной книгой при учете складских транзакций, таких как расходные накладные продажи, выпущенная продукция или отрицательные коррекции.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: design, reconciliation, general ledger, inventory
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 3f3a90142081ad0bc3096bdde1830924c2998d68
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: 7b715a76bc17810ec956923fc223d14115bfd8a3
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4751234"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5390703"
 ---
 # <a name="design-details-reconciliation-with-the-general-ledger"></a>Сведения о проектировании: выверка с главной книгой
 При учете складских транзакций, таких как расходные накладные, выход произведенной продукции или отрицательные коррекции, изменения количества и стоимости товара регистрируются в операциях книги товаров и операциях стоимости соответственно. Следующим шагом процесса является учет стоимостей товаров на счетах товаров в главной книге.  

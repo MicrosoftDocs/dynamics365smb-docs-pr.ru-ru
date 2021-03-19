@@ -3,19 +3,19 @@ title: Сведения о проектировании — перемещени
 description: В этом разделе описывается, как использовать заказы на перемещение в качестве источника поставки при планировании уровней запасов.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: design, transfer, sku, locations, warehouse
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 829594fa196758502c67f52c4a7277d3b63aa41f
-ms.sourcegitcommit: adf1a87a677b8197c68bb28c44b7a58250d6fc51
+ms.openlocfilehash: 72755bb2b83a3560c79cd004987003d3d7585f6b
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "5035585"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5381571"
 ---
 # <a name="design-details-transfers-in-planning"></a>Сведения о проектировании: перемещения при планировании
 Заказы на перемещение также являются источником поставок при работе на уровне единиц складского хранения. При использовании нескольких местоположений (например, складов) систему пополнения единиц хранения можно настроить на перемещение, подразумевая, что расположение пополняется путем переноса товаров из другого местоположения. Если в организации используется несколько складов, она может иметь цепочку перемещений, в которой поставка на склад ЗЕЛЕНЫЙ перемещается со склада ЖЕЛТЫЙ, поставка на склад ЖЕЛТЫЙ перемещается со склада КРАСНЫЙ и так далее. В начале цепочки находится система пополнения "Произ. зак." или "Покупка".  

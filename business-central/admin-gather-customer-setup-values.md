@@ -3,19 +3,19 @@ title: Сбор значений настроек клиента | Докуме�
 description: Анкета конфигурации используется для упрощения снижения рабочей нагрузки благодаря оптимизации настройки новой организации. Можно сгенерировать анкету конфигурации в Business Central, а затем передать ее клиенту в виде файла Excel (.xlsx) или XML.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: ffe9e73312142f8cb7848620fd4acbfbb2db9798
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: 81f70d503f09e7dc6f2b555a21d249105060904b
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4752779"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5378549"
 ---
 # <a name="gather-customer-setup-values"></a>Сбор значений настройки клиента
 Анкета конфигурации используется для упрощения снижения рабочей нагрузки благодаря оптимизации настройки новой организации. Можно сгенерировать анкету конфигурации в [!INCLUDE[prod_short](includes/prod_short.md)], а затем передать ее клиенту в файле Excel или XML.  

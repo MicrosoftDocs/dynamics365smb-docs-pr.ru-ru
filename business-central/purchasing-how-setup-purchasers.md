@@ -5,19 +5,19 @@ services: project-madeira
 documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: purchasing agent
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: ac4f7d716d9b8603617c32d219c8149aa58fc11e
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: bc3b02b22cf387cffc23177f217838c95dd9d04d
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4748697"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5387728"
 ---
 # <a name="set-up-purchasers"></a>Настройка менеджеров по закупкам
 Если несколько менеджеров работают в родственной организации, то можно выбрать их на странице и присвоить им код. Затем можно использовать данные коды для подготовки статистики и для фильтрации информации в печатаемых отчетах.<br><br>  

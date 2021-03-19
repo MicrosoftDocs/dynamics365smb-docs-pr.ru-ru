@@ -3,19 +3,19 @@ title: Как использовать субподрядное производ
 description: После создания заказа на покупку из журнала субподрядчика его можно учесть.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 404255e33d0fc689ee463b6fa0305bcd5cec0785
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: aa99c68ac4c936d953be8aaff4d9f18a1b213753
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4758971"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5383329"
 ---
 # <a name="subcontract-manufacturing"></a>Субподрядное производство
 Передача определенных операций субподрядчику — это обычная практика во многих производственных организациях. Субподряд может быть редким событием или же может стать важной частью всех производственных процессов.

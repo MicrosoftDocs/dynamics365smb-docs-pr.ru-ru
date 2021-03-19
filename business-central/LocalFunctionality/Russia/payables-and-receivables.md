@@ -3,17 +3,17 @@ title: Расчеты с клиентами и поставщиками в Ро�
 description: Российские улучшения включают кредиторскую и дебиторскую задолженность в русской версии.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: f800d8a64820748aa531f2cc429892d1856070ff
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: ac4bbb2ded343407dedc1e4e04b884d6200f720a
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4753227"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5383458"
 ---
 # <a name="payables-and-receivables-in-the-russian-version"></a>Версия расчетов с клиентами и поставщиками в России
 

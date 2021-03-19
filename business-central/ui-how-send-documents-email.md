@@ -3,17 +3,17 @@ title: Настройка содержимого электронной почт
 description: Вы можете определить содержимое для вставки в текст сообщения электронной, например ссылку на PayPal. Вы также можете вкладывать документы в сообщения электронной почты.
 author: edupont04
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.workload: na
 ms.search.keywords: SMTP, mail, Microsoft 365, cover, body, PayPal, layout
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: f318825b87b0c9aa51ef8493ba89a74a02384b73
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: 8e22efc92cba6d9a59cc06c66422387d5b35f227
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4756871"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5389628"
 ---
 # <a name="send-documents-and-emails"></a>Отправка документов и сообщений электронной почты
 Вы можете легко обмениваться информацией и документами, такими как заказы на продажу и покупку и счета-фактуры, по электронной почте прямо из [!INCLUDE[prod_short](includes/prod_short.md)]], не открывая приложение электронной почты. 

@@ -5,19 +5,19 @@ services: project-madeira
 documentationcenter: ''
 author: edupont
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: bi, power BI, analysis, KPI
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 4086da516f9a1ecccf5a3a0c2f86d0f42877b637
-ms.sourcegitcommit: edac6cbb8b19ac426f8dcbc83f0f9e308fb0d45d
+ms.openlocfilehash: 5bcc55443b8c45c1e63e71dddf49dfacd320128d
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/29/2020
-ms.locfileid: "4817083"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5382584"
 ---
 #  <a name="analyze-data-by-dimensions"></a>Анализ данных по измерениям
 В финансовом анализе измерением называются данные, которые можно добавить в операции в качестве своего рода маркера. Эти данные используются для группировки операций со сходными характеристиками, такими как клиенты, регионы, товары или менеджеры, и удобного извлечениях этих групп для анализа. Измерения могут использоваться в операциях в журналах, документах и бюджетах. Термин «измерение» указывает на то, как именно происходит анализ. Например, двумерный анализ может использоваться для просмотра продаж по областям. Однако, создание операций с использованием более двух измерений позволяет осуществлять более сложный анализ, например анализ продаж по кампаниям по сбыту по группам клиентов по областям. Дополнительные сведения см. в разделе [Работа с измерениями](finance-dimensions.md).

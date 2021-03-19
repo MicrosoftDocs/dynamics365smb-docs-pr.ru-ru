@@ -3,17 +3,17 @@ title: Определение констант финансовых отчето
 description: Российские улучшения включают константы финансовых отчетов.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 5354a76d6707dd4ca83176b960828885bdc88960
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: 70278d48dafff156f3e7ccb25390247945ab4ca7
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4747443"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5382753"
 ---
 # <a name="define-an-account-schedule-constant"></a>Определение константы финансового отчета
 

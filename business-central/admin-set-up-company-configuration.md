@@ -3,19 +3,19 @@ title: Настройка конфигурации организации | До
 description: Процесс реализации начинается с того, что решение Business Central потребует. Вся эта информация включается в пакеты конфигураций.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: e9b54a28c960ccdaa41c16cce237266e8cb43a88
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: 402595c34d69db0a14fce6eac8f3bb9e0896d06b
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4745946"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5385278"
 ---
 # <a name="set-up-company-configuration"></a>Настройка конфигурации организации
 Процесс внедрения начинается с партнера Майкрософт. Партнер, отвечающий за продумывание подробностей конфигурации и создание пакета, который клиент может легко применить. Перед созданием новой организации следует спланировать ее настройку. Необходимо учитывать основные данные настройки и типы данных, которые будет запрашивать решение [!INCLUDE[prod_short](includes/prod_short.md)]. Вся эта информация включается в пакеты конфигураций.

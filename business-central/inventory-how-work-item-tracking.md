@@ -3,19 +3,19 @@ title: Назначение серийных номеров и номеров п
 description: Серийные номера и номера партий можно добавить в любой исходящий или входящий документ. При этом учтенные операции отображаются в связанных с ними операциях книги товаров.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: f0136c253e38f4950837bc0fdafae5f5c35cab28
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: 1ffb80f4571e96dcaa8acfbcb106f7fb582b4783
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4746095"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5377577"
 ---
 # <a name="work-with-serial-and-lot-numbers"></a>Работа с серийными номерами и номерами партий
 Серийные номера и номера партий можно назначить любому исходящему или входящему документу. При этом учтенные операции отображаются в связанных с ними операциях книги товаров. Работа выполняется на странице **Строки трассировки товаров**, которую можно открыть из входящего или исходящего документа.
@@ -226,9 +226,9 @@ ms.locfileid: "4746095"
 5. Выберите действие **Комментарий**, чтобы создать отдельную запись комментария.  
 6. Установите флажок **Заблокировано**, чтобы исключить серийный номер или номер партии из всех транзакций.  
 
-Если вы массово создаете серийные номера с помощью действий **Создать СН пользователя** или **Присвоить серийный номер**, вы можете включить **Создать информацию по СН**, и информационная карточка будет создана для каждой строки отслеживания.
+<!--If you create serial numbers in bulk by using the **Create Customized SN** or **Assign Serial No.** actions, you can enable **Create SN Information** and an information card will be created for each tracking line.
 
-В качестве альтернативы вы можете создать информационную карточку при учете журналов или документов, включив на странице **Код отслеживания товара** выключатель **Создать информацию по СН при учете** или **Создать информацию по СН при учете**. 
+Alternatively, you can create an information card when you post journals or documents. On the **Item Tracking Code** page, turn on the **Create SN Info. on posting** or **Create SN Info. on posting** toggles. -->
 
 Позже вы можете изменить созданные карточки с информацией о серийном номере или партии.
 

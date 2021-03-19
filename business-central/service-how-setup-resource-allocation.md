@@ -3,19 +3,19 @@ title: Настройка распределения ресурсов | Доку
 description: Узнайте, как система может помочь обеспечить, чтобы для сервисных работ назначались сотрудники с необходимыми навыками.
 author: bholtorf
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: resource, skill, service, zones
 ms.date: 10/01/2020
 ms.author: bholtorf
-ms.openlocfilehash: 48d0f9f9e51a0da3f82abdb43e8c4bb6044a5f29
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: 6cd246809d6b05f87c131c584267551938f74810
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4757996"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5392528"
 ---
 # <a name="set-up-resource-allocation"></a>Настройка распределения ресурсов
 Для обеспечения хорошего качества выполнения сервисной задачи важно найти квалифицированный ресурс, обладающий квалификацией для выполнения работы. Можно настроить [!INCLUDE[prod_short](includes/prod_short.md)] таким образом, чтобы было легко выделить для работы сотрудника с требуемой квалификацией. В [!INCLUDE[prod_short](includes/prod_short.md)] это называется _распределением ресурсов_. Ресурсы можно распределять на основе квалификации, доступности или по принадлежности к той же зоне обслуживания, что и клиент. 

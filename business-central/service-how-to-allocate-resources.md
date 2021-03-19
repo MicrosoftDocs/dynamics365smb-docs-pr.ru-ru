@@ -3,19 +3,19 @@ title: Как распределять ресурсы | Документация
 description: Чтобы исправить сумму, на которую будет ежегодно выставляться счет, можно изменить годовую сумму в сервисном контракте или в предложении по контракту.
 author: bholtorf
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: bholtorf
-ms.openlocfilehash: 1b790743feb2c32bec1cdb45f69ac30c529e02ac
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: ba566597b9dcf8d34b677df759c8c31d200b8584
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4757969"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5380385"
 ---
 # <a name="allocate-resources"></a>Распределение ресурсов
 Ключевым элементом сервисного управления является персонал, предоставляющий услуги. Можно настроить [!INCLUDE[prod_short](includes/prod_short.md)] для назначения правильных сотрудников соответствующим работам. Назначения могут задаваться на основе сервисных зон, в которых находятся сотрудники, или мест, где производится сервисное обслуживание. Кроме этого, при реагировании на сервисные запросы можно группировать ресурсы. Дополнительные сведения см. в разделе [Настройка распределения ресурсов](service-how-setup-resource-allocation.md).

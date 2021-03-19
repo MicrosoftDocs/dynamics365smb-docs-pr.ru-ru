@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: account schedule, analysis, reporting, financial report, business intelligence, KPI
 ms.date: 10/01/2020
 ms.author: jswymer
-ms.openlocfilehash: a747a0bdb67187597cc33185b418844247b2e2b2
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: 8cf8946d8b9792c7fb557969257380d0b48d0d83
+ms.sourcegitcommit: a9d48272ce61e5d512a30417412b5363e56abf30
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4752979"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "5492948"
 ---
 # <a name="working-with-power-bi-reports-in-prod_short"></a>Работа с отчетами Power BI в [!INCLUDE [prod_short](includes/prod_short.md)]
 
@@ -40,11 +40,11 @@ ms.locfileid: "4752979"
 
 Подпишитесь на службу Power BI. Если вы еще не зарегистрировались, перейдите на [https://powerbi.microsoft.com](https://powerbi.microsoft.com). При регистрации используйте рабочий адрес электронной почты и пароль.
 
-## <a name="connect-to-power-bi---one-time-only"></a>Подключение к Power BI — только один раз
+## <a name="connect-to-power-bi---one-time-only"></a><a name="connect"></a>Подключение к Power BI — только один раз
 
 При первом входе в [!INCLUDE [prod_short](includes/prod_short.md)] вы можете увидеть пустую часть Power BI на некоторой странице, как показано на предыдущем рисунке. Первое, что нужно сделать, это подключиться к вашей учетной записи Power BI. После подключения вы можете просматривать отчеты. Вам нужно выполнить этот шаг только один раз.
 
-Чтобы подключиться к Power BI, выберите ссылку **Начало работы с Power BI** в части **Отчеты Power BI**.
+Чтобы подключиться к Power BI, выберите ссылку **Начало работы с Power BI** в части **Отчеты Power BI**. 
 
 В процессе подключения [!INCLUDE [prod_short](includes/prod_short.md)] обменивается данными со службой Power BI, чтобы определить, есть ли у вас действующие учетная запись и лицензия Power BI. Как только ваша лицензия будет подтверждена, отчет Power BI по умолчанию отображаются на странице. Если там отчет не отображается, вы можете выбрать отчет из части.
 
@@ -53,7 +53,7 @@ ms.locfileid: "4752979"
 
 ##### <a name="from-prod_short-on-premises"></a>Из [!INCLUDE [prod_short](includes/prod_short.md)] On-premises
 
-Присоединение к Power BI из [!INCLUDE [prod_short](includes/prod_short.md)] похоже на случай Online. Однако вам будет предложено на странице **РАЗРЕШЕНИЯ СЛУЖБЫ AZURE ACTIVE DIRECTORY** предоставить доступ к службам Power BI. Чтобы предоставить доступ, выберите **Авторизовать службы Azure**, затем **Принять**.
+Присоединение к Power BI из [!INCLUDE [prod_short](includes/prod_short.md)] похоже на случай Online. Однако вам может быть предложено на странице **РАЗРЕШЕНИЯ СЛУЖБЫ AZURE ACTIVE DIRECTORY** предоставить доступ к службам Power BI. Чтобы предоставить доступ, выберите **Авторизовать службы Azure**, затем **Принять**.
 
 После подключения вы можете выбрать отчет из части Power BI на страницах.
 

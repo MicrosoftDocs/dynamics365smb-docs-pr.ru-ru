@@ -3,19 +3,19 @@ title: Настройка регистрации электронной почт
 description: Узнайте, как превратить взаимодействие по электронной почте между продавцами и клиентами в реальные возможности продаж.
 author: bholtorf
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: relationship, prospect, opportunity, email
 ms.date: 10/01/2020
 ms.author: bholtorf
-ms.openlocfilehash: f099072561e5a35f893a42edbbe6f27a5b4722ed
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: a431eba8881eb6bb32e01d67f25ea53981da445e
+ms.sourcegitcommit: cb06aa973f5c767df774b0e1e199c6fbe0e85b88
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4749809"
+ms.lasthandoff: 02/17/2021
+ms.locfileid: "5470341"
 ---
 # <a name="track-email-message-exchanges-between-salespeople-and-contacts"></a>Отслеживание обмена сообщениями электронной почты между продавцами и контактами
 
@@ -65,7 +65,7 @@ ms.locfileid: "4749809"
     > Если вы не укажете URL-адрес перенаправления, вы можете сделать это позже, выбрав **Добавить платформу**, затем выбрав **Интернет**, чтобы добавить веб-приложение и URL-адрес перенаправления. 
 
 3. В разделе **Управление** выберите **Манифест**.
-4. Найдите свойство **requiredResourceAccess** в манифесте и добавьте следующий код в скобках ([]), чтобы добавить требуемые разрешения. Дополнительные сведения см. в разделе [Регистрация приложения](/exchange/client-developer/exchange-web-services/how-to-authenticate-an-ews-application-by-using-oauth.md#register-your-application).
+4. Найдите свойство **requiredResourceAccess** в манифесте и добавьте следующий код в скобках ([]), чтобы добавить требуемые разрешения. Дополнительные сведения см. в разделе [Регистрация приложения](/exchange/client-developer/exchange-web-services/how-to-authenticate-an-ews-application-by-using-oauth#register-your-application).
 
 ```
 {

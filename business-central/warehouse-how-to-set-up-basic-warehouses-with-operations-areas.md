@@ -3,19 +3,19 @@ title: Как настраивать базовые склады с помощь
 description: Если область внутренних операций, например производство или сборка, существуют в рамках базовой конфигурации склада, в которой склады используют поле **Ячейка обязательна** и, возможно, поля настройки **Требуется подбор** и **Требуется размещение**, можно использовать три базовых складских документа для регистрации складских операций в областях внутренних операций.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 9d74bdc6d2c712742374993141cdd4d557caf80d
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: 9e409ef5e08749bb9cc49cbe39d4f6e50badf643
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4759669"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5376916"
 ---
 # <a name="set-up-basic-warehouses-with-operations-areas"></a>Настройка базовых складов с помощью зон операций
 Если область внутренних операций, например производство или сборка, существуют в рамках базовой конфигурации склада, в которой склады используют поле **Ячейка обязательна** и, возможно, поля настройки **Требуется подбор** и **Требуется размещение**, можно использовать следующие базовые складские документы для регистрации складских операций в областях внутренних операций.  

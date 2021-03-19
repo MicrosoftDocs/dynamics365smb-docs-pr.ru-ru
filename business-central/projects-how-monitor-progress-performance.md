@@ -3,19 +3,19 @@ title: Определение способа НЗП и мониторинг хо
 description: Описывает, как можно создать метод незавершенного производства (НЗП) и рассчитать НЗП для оценки финансового значения еще выполняющихся работ.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: project management, KPI, work in process, work in progress
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 059df4f082e1e5a7dfee1f3dda8005e5e3099651
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: 8ef589cea67fc68cdf354ae94c85c99f63b80eb9
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4758696"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5380435"
 ---
 # <a name="monitor-job-progress-and-performance"></a>Отслеживание хода выполнения работ и производительности
 По мере выполнения работы, материалы, ресурсы и т. д. потребляются и подлежат учету. Незавершенное производство (НЗП) — это функция, позволяющая в процессе выполнения работы оценивать ее стоимость с финансовый точки зрения в Главной книге, пока работы еще не завершены. В большинстве случаев затраты можно учесть до выставления счета по работе. Если учитывать только расходы, финансовый отчет будет неточным. Дополнительные сведения см. в разделе [Общее представление о методах учета НЗП](projects-understanding-wip.md).

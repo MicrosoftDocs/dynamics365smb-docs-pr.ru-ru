@@ -3,19 +3,19 @@ title: Прогноз просрочки оплаты по документам 
 description: Используйте нашу прогностическую модель для прогноза, будет ли накладная оплачена вовремя.
 author: bholtorf
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: customer, payment, invoice, sales, invoice, quote
 ms.date: 10/01/2020
 ms.author: bholtorf
-ms.openlocfilehash: 6fc4f700f7469c280474e4a1f606ade24ef1266b
-ms.sourcegitcommit: edac6cbb8b19ac426f8dcbc83f0f9e308fb0d45d
+ms.openlocfilehash: 32532dfb1d78f27dc2dac8b61cfc8d0c47e6b6b4
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/29/2020
-ms.locfileid: "4817058"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5386853"
 ---
 # <a name="the-late-payment-prediction-extension"></a>Расширение прогноза просрочки платежа  
 Важно эффективно управлять дебиторской задолженностью для общего финансового здоровья бизнеса. Расширение прогноза просрочки платежа может помочь сократить просроченную дебиторскую задолженность и настроить стратегию сбора платежей, прогнозируя, какие накладные на продажу будут оплачены вовремя. Например, если прогнозируется задержка оплаты, вы можете решить скорректировать условия платежа или способ платежа для клиента.

@@ -3,19 +3,19 @@ title: Сведения о проектировании — разработка
 description: В этом разделе описывается структура трассировки товаров в Business Central.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: design, item, tracking, tracing
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 87c85de9f501e093679512b709841d0027fe17bf
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: a0c60381634543f367e85a465c4ee74c3396d5ad
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4751334"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5391002"
 ---
 # <a name="design-details-item-tracking-design"></a>Сведения о проектировании: разработка трассировки товара
 В первой версии трассировки товаров в [!INCLUDE[prod_short](includes/prod_short.md)] 2.60 серийные номера или номера партий регистрировались непосредственно в операциях книги товаров. Эта конструкция обеспечивает полную информацию о доступности и простую трассировку событий прошлых периодов, однако ей не хватает гибкости и функциональности.  

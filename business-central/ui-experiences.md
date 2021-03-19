@@ -4,19 +4,19 @@ description: Узнайте о вариантах настройки Essential �
 documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: essential, basic, user interface, application area, experience
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 354791b9a1bafb07bc1e16530dc1d07c16d1e49d
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: 9e53ef4e33d489de7ff92e537b01b8563e62ba77
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4747622"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5379637"
 ---
 # <a name="change-which-features-are-displayed"></a>Изменение набора отображаемых функций
 [!INCLUDE[prod_short](includes/prod_short.md)] разработан, чтобы помочь вам вести свой бизнес независимо от размера и сложности. В основе продукта вы найдете такие важные функции, как финансовая отчетность, продажи, закупки и управление запасами. По мере увеличения сложности бизнеса вы можете, например, включить функциональность для управления производством и обслуживанием.

@@ -3,16 +3,16 @@ title: Вопросы и ответы об использовании Business C
 description: Ответы на общие вопросы о том, как зарегистрироваться на Business Central или приобрести его, продлить пробную версию, отменить подписку, а также найти обучение и другую поддержку.
 author: edupont04
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: FAQ, email, Microsoft 365, subscription, subscribe, trial, plan, application area, experience, support, buy, upgrade, extend
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: e674aed9dd6f2e3fade52675f77113ac4ee42a0b
-ms.sourcegitcommit: 311e86d6abb9b59a5483324d8bb4cd1be7949248
+ms.openlocfilehash: 2e446b3e5415299954098abb92088277b7da2bbc
+ms.sourcegitcommit: 026484766988b8727649c02fc8990b0646999bf1
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "5014029"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "5498566"
 ---
 # <a name="frequently-asked-questions-about-using-business-central"></a>Вопросы и ответы об использовании Business Central
 
@@ -40,7 +40,9 @@ ms.locfileid: "5014029"
 ## <a name="why-cant-i-find-that-capability-in-my-prod_short"></a>Почему я не могу найти эту функциональную возможность в моем [!INCLUDE[prod_short](includes/prod_short.md)]?
 Вы недавно прочитали о новой функциональной возможности в плане выпуска или в нашем блоге? В таком случае возможно, что [!INCLUDE[prod_short](includes/prod_short.md)] еще не обновлен до последней версии. Проверить, на какой версии базируется ваша система [!INCLUDE[prod_short](includes/prod_short.md)], можно на странице [Справка и поддержка](product-help-and-support.md).  
 
-Кроме того, если функциональная возможность опубликована как расширение в AppSource, то после объявления расширения оно появляется в AppSource с некоторой задержкой.  
+Это относится к [!INCLUDE [prod_short](includes/prod_short.md)] интернет-версии и локальной версии.  
+
+Кроме того, если функциональная возможность опубликована как расширение в AppSource, то после объявления расширения оно появляется в AppSource с некоторой задержкой. Это относится только к [!INCLUDE [prod_short](includes/prod_short.md)] интернет-версии.  
 
 ## <a name="are-there-any-differences-between-an-on-premises-deployment-and-the-cloud-version-of-business-central"></a>Существуют ли различия между локальным развертыванием и облачной версией Business Central?
 Да. В некоторых случаях некоторые облачные функции могут работать локально, а другие вообще не поддерживаются. Для получения дополнительной информации см. [Функции, не реализованные в локальных развертываниях Dynamics 365 Business Central](/dynamics365/business-central/dev-itpro/features-not-implemented-on-premises).
@@ -65,8 +67,9 @@ ms.locfileid: "5014029"
 
 Нет кнопки *Сохранить* на страницах, как в других программах, с которыми вы могли быть хорошо знакомы. В [!INCLUDE[prod_short](includes/prod_short.md)] изменения, внесенные в поле, автоматически сохраняются сразу же при перемещении в следующее поле или закрытии страницы, если нет ошибок. Когда вы внесли изменения в поле и переместились в другое поле, отображается текст **Сохранение** в правом верхнем углу страницы, который быстро изменяется на текст **Сохранено**, если нет ошибок. Если произошла ошибка, текст изменяется на **Не сохранено**.
 
-## <a name="what-email-address-can-i-use-with-prod_short"></a><a name="email"></a>Какой адрес электронной почты можно использовать с [!INCLUDE[prod_short](includes/prod_short.md)]?
-[!INCLUDE[prod_short](includes/prod_short.md)] требует для регистрации использования рабочего или учебного адреса электронной почты. [!INCLUDE[prod_short](includes/prod_short.md)] не поддерживает адреса электронной почты, предоставленные общедоступными сервисами электронной почты и поставщиками услуг связи. К таким адресам относятся outlook.com, hotmail.com, gmail.com и т. д.  
+## <a name="what-email-address-can-i-use-with-prod_short-online"></a><a name="email"></a>Какой адрес электронной почты можно использовать с [!INCLUDE[prod_short](includes/prod_short.md)] интернет-версии?
+
+[!INCLUDE[prod_short](includes/prod_short.md)] интернет-версии требует для регистрации использования рабочего или учебного адреса электронной почты. [!INCLUDE[prod_short](includes/prod_short.md)] интернет-версии не поддерживает адреса электронной почты, предоставленные общедоступными сервисами электронной почты и поставщиками услуг связи. К таким адресам относятся outlook.com, hotmail.com, gmail.com и т. д.  
 
 При попытке зарегистрироваться с личного адреса электронной почты вы получите сообщение о том, что нужно использовать рабочий или учебный адрес электронной почты. Дополнительные сведения см. в разделе [Устранение неполадок при самостоятельной регистрации](ui-troubleshoot-self-signup.md)  
 
@@ -147,6 +150,5 @@ ms.locfileid: "5014029"
 [Вопросы и ответы о разработке и ITPro](/dynamics365/business-central/dev-itpro/faq)
 
 ## [!INCLUDE[prod_short](includes/free_trial_md.md)]  
-
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

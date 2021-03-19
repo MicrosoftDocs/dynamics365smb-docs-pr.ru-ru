@@ -3,19 +3,19 @@ title: Порядок настройки производственных кал
 description: Календарь рабочего центра определяет рабочие дни и часы, смены, праздники и отсутствия, которые определяют общую производственную мощность рабочего центра во временных единицах согласно определенным для него значениям эффективности и мощности. Создание и применение календаря рабочего центра предполагает выполнение нескольких подготовительных задач.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 127ae5af7533c4a6b8b77f2ed88fe90e4453966e
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: 0abbf4d2f6fd93a4555809a025f39f8ec7347ee1
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4759321"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5389778"
 ---
 # <a name="set-up-shop-calendars"></a>Настройка производственных календарей
 Календарь рабочего центра или машин определяет рабочие дни и часы, смены, праздники и простои, которые определяют общую производственную мощность (измеренную во временных единицах) рабочего центра согласно его определенным значениям эффективности и мощности.

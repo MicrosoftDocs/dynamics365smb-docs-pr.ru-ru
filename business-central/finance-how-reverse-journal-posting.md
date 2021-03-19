@@ -5,19 +5,19 @@ services: project-madeira
 documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: reimbursement
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: c5e14b19b2e8be97a683dfbb9fb7a46e2c825b4e
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: fc74ce4f1496e106e9f6419ceedb0885bba75525
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4750809"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5381371"
 ---
 # <a name="reverse-journal-postings-and-undo-receiptsshipments"></a>Сторнирование учета в журнале и отмена приходных/расходных накладных
 Что отменить ошибочную проводку в журнале, выберите операцию и создайте сторнирующую операцию (операции, идентичные исходным, но с противоположным знаком в поле суммы) с таким же номером документа и датой учета, что и у исходной операции. После сторнирования операции необходимо создать корректирующую запись.

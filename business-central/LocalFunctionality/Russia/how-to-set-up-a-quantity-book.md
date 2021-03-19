@@ -3,17 +3,17 @@ title: Настройка книг количественного учета в 
 description: Русские улучшения включают книги количественного учета.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: cbdd820fcdf4b4a1eb443ce93754cb170e2a6312
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: ab1558f9b1af3452e74babf01d36430f42ffef01
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3921212"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5382729"
 ---
 # <a name="set-up-a-quantity-book"></a>Настройка книги количественного учета
 

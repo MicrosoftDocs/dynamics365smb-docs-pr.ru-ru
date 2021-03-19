@@ -3,17 +3,17 @@ title: Зачет НДС в России
 description: Российские усовершенствования включают поддержку НДС в заказах на покупку.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: b0e4cad40bbc01be31295025a2ad6b2f9a962375
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 670e98d94705445f0f2f9e1b6b043e35184ca2fe
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3921289"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5382783"
 ---
 # <a name="vat-settlement"></a>Зачет НДС
 

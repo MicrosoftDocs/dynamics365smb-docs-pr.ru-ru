@@ -3,17 +3,17 @@ title: Ввод сведений таможенных деклараций в Р
 description: Российские улучшения включают таможенные декларации.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: f960f173d437322143f2184cff96af1d186b3f40
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: cf4c6a05805cec783b38e189341e9356ed1dc7f3
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3921232"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5382749"
 ---
 # <a name="enter-custom-declarations-information"></a>Ввод сведений таможенных деклараций
 

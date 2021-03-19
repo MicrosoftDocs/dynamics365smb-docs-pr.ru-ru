@@ -3,17 +3,17 @@ title: Специальные коды для информации о компа
 description: Российские улучшения включают дополнительную информацию о вашей компании, каждом клиенте и поставщике.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 15206cb10814b4af4393c2d5010c7581f9c3b4bf
-ms.sourcegitcommit: 311e86d6abb9b59a5483324d8bb4cd1be7949248
+ms.openlocfilehash: cc3a877f0ab514257c962ccdeeea168961e4cf86
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "5013602"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5383440"
 ---
 # <a name="special-codes-for-company-information-customers-and-vendors"></a>Специальные коды для информации о компании, клиентах, поставщиках
 

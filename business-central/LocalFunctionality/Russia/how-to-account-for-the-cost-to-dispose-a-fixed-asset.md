@@ -3,17 +3,17 @@ title: Учет себестоимости реализации основног
 description: Российские усовершенствования включают учет себестоимости реализации основных средств.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: dfeb07f1d506c258c53a931820ae4fb26023ac7d
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 5adebbd230159d1a1d158ea128eab487db0e5ba6
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3921256"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5382767"
 ---
 # <a name="account-for-the-cost-to-dispose-a-fixed-asset"></a>Учет себестоимости реализации основного средства
 

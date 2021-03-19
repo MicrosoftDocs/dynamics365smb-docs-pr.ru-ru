@@ -5,19 +5,19 @@ services: project-madeira
 documentationcenter: ''
 author: SusanneWindfeldPedersen
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: API templates, configuring templates
 ms.date: 10/01/2020
 ms.author: solsen
-ms.openlocfilehash: e90fe0282af79f36fde145e22ae28818c4575bce
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: 3eeea8976f224911b95e0aad8e084c6a1a13a9c7
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4754071"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5378627"
 ---
 # <a name="configuring-api-templates"></a>Конфигурирование шаблонов API
 Библиотека API для [!INCLUDE[prod_short_md](includes/prod_short.md)] предоставляет разработчикам упрощенное представление лежащих в ее основе объектов. Не все свойства в приложении предоставляются через связанный API. Страница **Настройка API** позволяет определить шаблоны, используемые для заполнения пустых свойств в объекте при создании действия POST через API. 

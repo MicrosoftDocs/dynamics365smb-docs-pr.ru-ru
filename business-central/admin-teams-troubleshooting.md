@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: Teams, MS Teams, Microsoft Teams, Skype, Link, Microsoft 365, collaborate, collaboration, teamwork, troubleshooting, errors
 ms.date: 01/20/2021
 ms.author: jswymer
-ms.openlocfilehash: 10612a3e5e257969b2daf0839ea0826316a956ee
-ms.sourcegitcommit: 36a32c997b201ff32ed8c1cff8179b36e2468c47
+ms.openlocfilehash: 7a98b53a34ddf403cf6507da7740b97924d4c81c
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "5046536"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5385203"
 ---
 # <a name="troubleshooting-microsoft-teams-integration-with-prod_short"></a>Устранение неполадок интеграции Microsoft Teams с [!INCLUDE [prod_short](includes/prod_short.md)]
 
@@ -103,7 +103,7 @@ ms.locfileid: "5046536"
 
 Некоторые браузеры, например новый Microsoft Edge, позволяют выбрать камеру устройства, которую следует использовать, если ваше устройство поддерживает несколько камер. 
 
-## <a name="teams-displays-mixed-languages-for-my-cards-and-card-details"></a>В Teams отображаются разные языки для моих карточек и сведений карточек 
+## <a name="teams-displays-mixed-languages-for-my-cards-and-card-details"></a>В Teams отображаются разные языки для моих карточек и сведений карточек
 
 Чтобы карточки и сведения карточек постоянно отображались на одном языке в Teams, язык вашего клиента Teams и язык, который вы используете в веб-клиенте [!INCLUDE [prod_short](includes/prod_short.md)], должны совпадать.
 
@@ -116,6 +116,21 @@ ms.locfileid: "5046536"
 ## <a name="i-edited-a-field-in-the-details-window-but-my-change-wasnt-saved"></a>Я отредактировал поле в окне сведений, но мои изменения не были сохранены
 
 Изменения, которые вы вносите в поле в окнах сведений, автоматически сохраняются, когда вы покидаете поле. Прежде чем закрыть окно после изменения поля, обязательно нажмите клавишу TAB или щелкните/коснитесь за пределами поля.
+
+## <a name="a-new-tile-appeared-in-the-app-launcher-how-do-i-remove-it"></a>На панели средства запуска приложений появилась новая плитка. Как ее удалить?
+
+Когда вы просматриваете свои приложения на домашней странице Office 365 (https://home.office.com) или в средстве запуска приложений, появится новая плитка под названием «Соединитель службы интеграции Business Central Teams после установки приложения [!INCLUDE [prod_short](includes/prod_short.md)] для Teams. Эта плитка сама по себе не представляет ценности и может быть безопасно скрыта.
+
+Как администратор, у которого есть разрешения на администрирование Azure Active Directory, вы можете скрыть плитку, выполнив следующие действия:
+
+1. Войдите в [центр администрирования Azure Active Directory](https://aad.portal.azure.com/).
+2. Выберите **Корпоративные приложения**, затем выберите **Соединитель службы интеграции Business Central Teams**.
+3. Выберите **Свойства**, затем установите **Отображается для пользователей** как **Нет**.
+4. Нажмите **Сохранить**.
+
+> [!NOTE]
+> Пройдет некоторое время, прежде чем это изменение вступит в силу.
+
 
 ## <a name="see-also"></a>См. также
 

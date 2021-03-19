@@ -3,19 +3,19 @@ title: Передача контактов между Business Central и Outloo
 description: Этот сервис глубоко интегрирован с Microsoft 365, поэтому вы можете передавать контакты из Outlook в Business Central и наоборот.
 author: edupont04
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: contacts, Microsoft 365
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: d350ccce3ed24c9daac7e64fcd34203aceb21543
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: 7c9d267df2fb58da3b4a7aa1505030c9510bdf4f
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4755071"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5386103"
 ---
 # <a name="synchronize-contacts-in-business-central-with-contacts-in-microsoft-outlook"></a>Синхронизация контактов в Business Central с контактами в Microsoft Outlook
 Вы можете видеть в [!INCLUDE[prod_short](includes/prod_short.md)] те же контакты, что и в Outlook, если настроите синхронизацию контактов. Например, если вы занимаетесь продажами, вы можете выполнять часть своей работы в Outlook, а часть своей работы в [!INCLUDE[prod_short](includes/prod_short.md)]. Если в обоих местах контакты одинаковые, вам будет проще работать.  

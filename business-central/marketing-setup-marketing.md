@@ -3,19 +3,19 @@ title: Настройка информации маркетинга и упра�
 description: Вы можете настроить управление маркетингом и контактами в Business Central для оптимизации отношений с потенциальными и текущими клиентами и повышения качества кампаний и рекламных акций.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: relationship, prospect, client, customer, campaign, promo
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 1fc20ebadc9d516d45c74d963be7b26cfd2b8d4d
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: a6ec4d06b119588e59907bce27e7595f3530f6e8
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4749759"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5381710"
 ---
 # <a name="setting-up-relationship-management"></a>Настройка управления отношениями
 

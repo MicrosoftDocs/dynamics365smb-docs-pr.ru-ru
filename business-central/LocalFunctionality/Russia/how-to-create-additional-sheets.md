@@ -3,17 +3,17 @@ title: Создание дополнительных листов в Росси�
 description: Российские усовершенствования включают дополнительные листы для книг НДС покупок и продаж.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 137f31f747d2746890f9e7a81f51fd538daa2a3c
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: 2a3845a7c8e01953714411ee001877552dec4c89
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4752431"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5382765"
 ---
 # <a name="create-additional-sheets"></a>Создание дополнительных листов
 

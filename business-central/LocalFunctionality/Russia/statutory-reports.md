@@ -3,17 +3,17 @@ title: Регламентные отчеты в России
 description: Российские улучшения включают поддержку регламентных отчетов.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 2de22115c4510c3a0bcc0bfea9e115a98c056e58
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: cc4408d2dc239cc67e71c7175c1eb3795a51860d
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4753219"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5383438"
 ---
 # <a name="statutory-reports"></a>Регламентные отчеты
 

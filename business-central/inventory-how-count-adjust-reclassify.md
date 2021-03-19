@@ -3,19 +3,19 @@ title: Подсчет, корректировка и повторная клас
 description: Описание процедуры физического подсчета, внесения положительных и отрицательных корректировок и изменения информации, например о складе или номере партии, в операциях книги товаров и складских операциях.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: adjustment, negative, positive, increase, decrease
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 8909e4428aa97190ea6ccb5b83997657f29ea96f
-ms.sourcegitcommit: fe6943d410f5dca4e8b2986f95501009ae982d98
+ms.openlocfilehash: 67058cf067b8ef647c01bfad79151516a6167a6b
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "4827097"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5391278"
 ---
 # <a name="count-adjust-and-reclassify-inventory-using-journals"></a>Подсчет, корректировка и повторная классификация запасов с помощью журналов
 В каждом финансовом году по крайней мере один раз вы должны провести инвентаризацию запасов, т. е. пересчитать все товары в запасах, чтобы определить, совпадает ли количество, зарегистрированное в базе данных, с фактическим количеством товаров на складе. Когда фактическое количество известно, его необходимо учесть в главной книге в рамках оценки стоимости запасов в конце периода.

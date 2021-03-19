@@ -3,17 +3,17 @@ title: Печать счета-фактуры в России
 description: Российские усовершенствования включают поддержку счета-фактуры.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: f134bc2131d4bd3ceb26f0e53e36b1b6804c7c93
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 2d0987115e2aa593d82feea00bce22d59979e6f6
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3921216"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5382735"
 ---
 # <a name="print-the-factura-invoice"></a>Печать счета-фактуры
 

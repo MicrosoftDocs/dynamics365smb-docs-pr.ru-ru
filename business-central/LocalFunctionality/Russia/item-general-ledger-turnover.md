@@ -3,17 +3,17 @@ title: Оборотная ведомость для товаров по ГК в 
 description: Российские усовершенствования включают создание оборотных ведомостей для товаров и материалов.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 7ba8be19fa4aaddd41ebdc61f8a16168697a1d3b
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: f94c1ca1fedf058042926ffaf728ed282b155e5b
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3922687"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5383462"
 ---
 # <a name="item-general-ledger-turnover"></a>Оборотная ведомость для товаров по ГК
 

@@ -3,19 +3,19 @@ title: Настройка финансовых процессов | Докуме
 description: Узнайте о задачах по настройке финансов для своего бизнеса в соответствии требованиями учет и аудита.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: accounting, auditing, bookkeeping
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: b18d4406f77594486104e2348487a3380cca0af4
-ms.sourcegitcommit: 32bfc2acaaf3693afc9aeb86feea505fd328caa1
+ms.openlocfilehash: a659fd4edfcbeccf65204f30685ce5b3cf527399
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/19/2021
-ms.locfileid: "5024466"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5381935"
 ---
 # <a name="setting-up-finance"></a>Настройка финансов
 Прежде чем вы сможете начать свой бизнес, вы должны указать правила и настройки по умолчанию для управления финансовыми процессами в этой компании. Начните с настройки основы учетных записей организации — плана счетов. Затем настраиваются учетные группы, что позволяет сделать более эффективным процесс назначения используемых по умолчанию учетных счетов главной книги клиентам, поставщикам и товарам.

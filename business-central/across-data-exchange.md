@@ -3,19 +3,19 @@ title: Электронные документы в Business Central | Доку�
 description: Введение в отправку и получение электронных документов в Business Central.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: d6ca289f723af83758c96537e3d4b5a1c0117cc7
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: da4c3e6d1537a66c86c79ca4dd4065190c765922
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4753496"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5384928"
 ---
 # <a name="exchanging-data-electronically"></a>Электронный обмен данными
 Можно использовать структуру обмена данными, чтобы управлять обменом бизнес-документами, банковскими файлами, курсами обмена валют и другими файлами данных с бизнес-партнерами.

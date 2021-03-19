@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: Teams, MS Teams, Microsoft Teams, Skype, Link, Microsoft 365, collaborate, collaboration, teamwork, faq, errors
-ms.date: 01/26/2021
+ms.date: 03/04/2021
 ms.author: jswymer
-ms.openlocfilehash: 79b6069ffb4c73d783b2c05d3a44a55763805a52
-ms.sourcegitcommit: 1c9eec7554305603d688bf85ce3986d0b1f72ede
+ms.openlocfilehash: d95e97a232cfb7fda8f40f68875b747723abbd4b
+ms.sourcegitcommit: 35f7e24c301926b39094aa64fe608afd04fdb8e1
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/26/2021
-ms.locfileid: "5068438"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "5573380"
 ---
 # <a name="teams-faq"></a>Вопросы и ответы по Teams
 
@@ -50,7 +50,6 @@ ms.locfileid: "5068438"
 Да. Приложение предназначено для работы с любой локализацией [!INCLUDE [prod_short.md](includes/prod_short.md)], независимо от того, предлагается ли эта локализация напрямую от Microsoft или через партнера. Дополнительные сведения см. в [Наличие в странах/регионах и поддерживаемые языки](/dynamics365/business-central/dev-itpro/compliance/apptest-countries-and-translations?toc=/dynamics365/business-central/toc.json).
 
 ### <a name="which-languages-does-the-prod_shortmd-app-support"></a><a name="language"></a>Какие языки поддерживает приложение [!INCLUDE [prod_short.md](includes/prod_short.md)]?
-<!--TODO Run by Mike -->
 
 Язык, используемый для карточек и деталей карточек в Teams, определяется двумя вещами:
 
@@ -66,15 +65,19 @@ ms.locfileid: "5068438"
 
 Список поддерживаемых языков для [!INCLUDE [prod_short.md](includes/prod_short.md)] см. в разделе [Поддерживаемые языки](/dynamics365/business-central/dev-itpro/compliance/apptest-countries-and-translations?toc=/dynamics365/business-central/toc.json#supported-languages).
 
+### <a name="does-the-business-central-app-work-with-industry-solutions"></a>Совместимо ли приложение Business Central с отраслевыми решениями?
+
+Да. Приложение работает со ссылками на основе шаблона **\*. bc.dynamics.com**, который обычно используется с [внедрением приложений](/dynamics365/business-central/dev-itpro/deployment/embed-app-overview).
+
 ### <a name="where-can-i-find-teams-integration-inside-the-prod_shortmd-web-client"></a>Где я могу найти интеграцию Teams в веб-клиенте [!INCLUDE [prod_short.md](includes/prod_short.md)]? 
 
-В настоящее время нет встраивания элементов управления Teams или наличия функций Teams внутри веб-клиента [!INCLUDE [prod_short.md](includes/prod_short.md)] или других клиентов.  
+В настоящее время нет встраивания элементов управления Teams или наличия функций Teams внутри веб-клиента [!INCLUDE [prod_short.md](includes/prod_short.md)] или других клиентов.
 
 ### <a name="does-prod_shortmd-work-with-the-teams-mobile-app"></a>Работает ли [!INCLUDE [prod_short.md](includes/prod_short.md)] с мобильным приложением Teams?
 
 Да. Приложение [!INCLUDE [prod_short.md](includes/prod_short.md)] может быть установлено из классического приложения Teams или браузера либо администратором для всех пользователей. После установки приложения [!INCLUDE [prod_short.md](includes/prod_short.md)] автоматически доступно в Teams для iOS и Android. На мобильных устройствах вы можете просматривать карточки, отправленные другими, получать доступ к деталям или открывать карточку в полном объеме в мобильном приложении [!INCLUDE [prod_short.md](includes/prod_short.md)]. Однако вы не можете вставлять ссылки, которые расширяются в карточки при составлении сообщений. Минимальные требования для мобильных устройств см. в разделе [Минимальные требования для использования Business Central](product-requirements.md).
 
-### <a name="is-the-prod_shortmd-app-for-teams-the-same-as-the-prod_shortmd-app-for-ios-and-android"></a>Приложение [!INCLUDE [prod_short.md](includes/prod_short.md)] для Teams такое же, как приложение [!INCLUDE [prod_short.md](includes/prod_short.md)] для iOS и Android? 
+### <a name="is-the-prod_shortmd-app-for-teams-the-same-as-the-prod_shortmd-app-for-ios-and-android"></a>Приложение [!INCLUDE [prod_short.md](includes/prod_short.md)] для Teams такое же, как приложение [!INCLUDE [prod_short.md](includes/prod_short.md)] для iOS и Android?
 
 Кол-во Приложение для Teams — это надстройка к Microsoft Teams и предназначено исключительно для совместной работы, которая сигнализируется в Teams. С другой стороны, мобильное приложение [!INCLUDE [prod_short.md](includes/prod_short.md)] предлагает богатый опыт работы с данными [!INCLUDE [prod_short.md](includes/prod_short.md)] на ваших мобильных устройствах.
 
@@ -108,13 +111,26 @@ ms.locfileid: "5068438"
 
 На поля, отображаемые на карточке в Teams, также могут влиять настройки [!INCLUDE [prod_short.md](includes/prod_short.md)], установленные для вашей организации. Карточки не учитывают никакую индивидуальную настройку ролей или персонализацию пользователя. Однако в окне сведений о карточке отображаются сведения о записях, как если бы вы их видели в [!INCLUDE [prod_short.md](includes/prod_short.md)], включая любые расширения, настройки ролей и персонализацию пользователей.
 
+### <a name="how-do-the-permissions-required-by-the-app-affect-my-privacy"></a>Как разрешения, требуемые приложением, влияют на мою конфиденциальность?
+
+Перед установкой приложения [!INCLUDE [prod_short.md](includes/prod_short.md)] для Teams вы можете просмотреть минимальные разрешения, необходимые для работы приложения. Устанавливая приложение, вы соглашаетесь с тем, что у приложения есть разрешение на получение сообщений и данных, которые вы ему предоставляете, а у Teams есть разрешение на хранение и обработку этих сообщений.
+
+Кроме того, некоторые функции [!INCLUDE [prod_short.md](includes/prod_short.md)] требуют открытия внешних ссылок или доступа к вашей камере или географическому положению. Например, предположим, что вы хотите сделать фотографию счета-фактуры на покупку для обработки. Приложение [!INCLUDE [prod_short.md](includes/prod_short.md)] не использует эти возможности без вашего согласия, и они используются только определенными функциями в окне **Подробнее**. Когда вы используете одну из этих функций в первый раз, Teams отобразит диалоговое окно с просьбой предоставить доступ к необходимым возможностям устройства.
+
+- На рабочем столе Teams вы просматриваете и настраиваете разрешения приложений в окне **Настройки**. Выберите изображение своего профиля вверху приложения, выберите **Настройки** > **Разрешения**, затем выберите приложение [!INCLUDE [prod_short.md](includes/prod_short.md)].
+
+- Для Teams в браузере и для Teams для iOS или Android вы можете просмотреть или изменить разрешения в настройках браузера или устройства.
+
+> [!NOTE]
+> Какие функции [!INCLUDE [prod_short.md](includes/prod_short.md)] запрашивают разрешения, зависит от дополнительных приложений и настроек, примененных к среде [!INCLUDE [prod_short.md](includes/prod_short.md)], к которой вы подключаетесь.
+
 ### <a name="where-can-i-learn-about-my-privacy"></a>Где я могу узнать о своей конфиденциальности? 
 
 Вы можете узнать о том, как Microsoft обрабатывает ваши данные, в разделе [Заявление о конфиденциальности Microsoft](https://go.microsoft.com/fwlink/?linkid=2030602). 
 
-Обратитесь к своему администратору, чтобы узнать, как ваша организация обеспечивает конфиденциальность ваших данных. 
+Обратитесь к своему администратору, чтобы узнать, как ваша организация обеспечивает конфиденциальность ваших данных.
 
-### <a name="how-do-i-uninstall-the-prod_shortmd-app-for-teams"></a>Как мне удалить приложение [!INCLUDE [prod_short.md](includes/prod_short.md)] для Teams? 
+### <a name="how-do-i-uninstall-the-prod_shortmd-app-for-teams"></a>Как мне удалить приложение [!INCLUDE [prod_short.md](includes/prod_short.md)] для Teams?
 
 Чтобы удалить приложение, которое вы установили для себя, перейдите в любое окно создания чата, найдите значок [!INCLUDE [prod_short.md](includes/prod_short.md)] внизу, щелкните значок правой кнопкой мыши и выберите "Удалить".  
 
@@ -153,29 +169,33 @@ ms.locfileid: "5068438"
 
 Когда вы составляете и отправляете в чат сообщение с карточкой, все пользователи увидят карточку, даже если они не установили приложение [!INCLUDE [prod_short.md](includes/prod_short.md)] для Teams.
 
+### <a name="how-do-i-find-out-which-company-a-card-in-teams-belongs-to"></a>Как узнать, какой организации принадлежит карточка в Teams?
+
+Если вы работаете в организациях [!INCLUDE [prod_short.md](includes/prod_short.md)], обратитесь к своему администратору с вопросом о включении логотипа организации для каждой организации. Если этот параметр включен, эта понятная подсказка отображается в любом окне сведений в Teams и показывает компанию и среду, к которой принадлежит запись. Чтобы узнать, как настроить значок организации, см. [Отображение эмблемы организации для быстрого доступа к информации об организации](ui-change-basic-settings.md#badge).
+
 ## <a name="working-with-card-details"></a>[Работа со сведения карточки](#tab/carddetails)
 
-### <a name="where-is-the-save-button-in-the-details-window-in-teams"></a>Где находится кнопка сохранения в окне сведений в Teams? 
+### <a name="where-is-the-save-button-in-the-details-window-in-teams"></a>Где находится кнопка сохранения в окне сведений в Teams?
 
 [!INCLUDE [prod_short.md](includes/prod_short.md)] автоматически сохраняет изменения, внесенные вами в любое поле, как только вы покидаете поле. Чтобы покинуть поле, щелкните/коснитесь в любом месте за пределами поля или используйте клавишу TAB для перехода к следующему полю. Когда данные появляются в диалоге в окне сведений, вам может потребоваться выбрать кнопку **ОК**, чтобы [!INCLUDE [prod_short.md](includes/prod_short.md)] сохранил ваши изменения.
 
-### <a name="if-i-choose-to-view-details-for-a-card-will-other-users-see-my-details-window"></a>Если я выберу просмотр сведений для карточки, будут ли другие пользователи видеть мое окно сведений? 
+### <a name="if-i-choose-to-view-details-for-a-card-will-other-users-see-my-details-window"></a>Если я выберу просмотр сведений для карточки, будут ли другие пользователи видеть мое окно сведений?
 
 Кол-во Хотя все в чате могут просматривать саму карточку, окно с подробностями появляется только на вашем устройстве тогда, когда вы выбираете **Сведения**. Другие пользователи должны выбрать **Сведения**, если они хотят просмотреть окно со сведения на своем устройстве.
 
-### <a name="can-i-start-a-teams-call-from-the-details-window-in-teams"></a>Могу ли я начать вызов Teams из окна сведений в Teams? 
+### <a name="can-i-start-a-teams-call-from-the-details-window-in-teams"></a>Могу ли я начать вызов Teams из окна сведений в Teams?
 
 Да. Вы можете начать вызов, выбрав связанный номер набора в поле номера телефона, например поле **Номер мобильного телефона** на карточке **Контакт**. Teams должно быть назначенным вами приложением для набора номера.
 
 Чтобы звонить на местные или международные стационарные и мобильные телефоны из Teams, у вас должна быть лицензия Teams для корпоративных звонков. Кроме того, вы должны настроить Teams в качестве вашего решения для звонков. Чтобы узнать больше, см. раздел [Планирование голосового решения Teams](/microsoftteams/cloud-voice-landing-page) в документации Teams.
 
-### <a name="can-i-print-documents-from-the-details-window-in-teams"></a>Могу ли я распечатать документы из окна сведений в Teams? 
+### <a name="can-i-print-documents-from-the-details-window-in-teams"></a>Могу ли я распечатать документы из окна сведений в Teams?
 
 Да. Вы распечатываете отчеты и другие документы, используя стандартные функции печати [!INCLUDE [prod_short.md](includes/prod_short.md)] и любой облачный принтер, настроенный на странице **Управление принтером** в [!INCLUDE [prod_short.md](includes/prod_short.md)]. Вы не можете печатать из Teams на локальные принтеры, известные вашему клиентскому устройству, такие как принтеры, на которых вы обычно печатаете из своего браузера. По этой причине вы не можете печатать из окна предварительного просмотра отчета, а только с главной страницы запроса отчета, прямо на свои облачные принтеры.
 
 Для получения дополнительной информации о настройке облачных принтеров см. раздел [Настройка принтеров](ui-specify-printer-selection-reports.md).
 
-### <a name="can-i-access-the-camera-from-the-details-window-in-teams"></a>Могу ли я получить доступ к камере из окна сведений в Teams? 
+### <a name="can-i-access-the-camera-from-the-details-window-in-teams"></a>Могу ли я получить доступ к камере из окна сведений в Teams?
 
 Да. Любые функции [!INCLUDE [prod_short.md](includes/prod_short.md)] в окне сведений, использующие камеру, доступны во всех клиентах Teams.
 
@@ -185,7 +205,7 @@ ms.locfileid: "5068438"
 
 ## <a name="collaborating-with-guests"></a>[Сотрудничество с гостями](#tab/collaborating)
 
-### <a name="can-i-share-cards-with-users-outside-my-organization"></a>Могу ли я поделиться карточками с пользователями за пределами моей организации? 
+### <a name="can-i-share-cards-with-users-outside-my-organization"></a>Могу ли я поделиться карточками с пользователями за пределами моей организации?
 
 Да. Когда вы составляете и отправляете сообщение с карточкой, все получатели в чате увидят карточку &mdash; даже если они гости или посторонние по отношению к вашей организации. Гости также могут открыть окно сведений, если им предоставлено разрешение на доступ к этим данным в [!INCLUDE [prod_short.md](includes/prod_short.md)].
 

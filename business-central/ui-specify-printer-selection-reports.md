@@ -5,19 +5,19 @@ services: project-madeira
 documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: online printing
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: e088d13ead96111023df7781f0d6d1c1dcd58cfc
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: 59e3efb3800b309203c77f566bf909f92d7e0882
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4760296"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5390641"
 ---
 # <a name="set-up-printers"></a>Настройка принтеров
 Так как [!INCLUDE[prod_short](includes/prod_short.md)] — это облачный сервис, он не может получить доступ к локальным принтерам, подключенным к компьютерам пользователей. Однако он может подключаться к облачным принтерам. В общей версии [!INCLUDE[prod_short](includes/prod_short.md)] облачный принтер с именем **Принтер, работающий по электронной почте** устанавливается как расширение и готов к использованию после начальной настройки.

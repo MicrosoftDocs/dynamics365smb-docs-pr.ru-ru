@@ -3,17 +3,17 @@ title: Настройка платежного поручения в Росси�
 description: Российские усовершенствования включают платежные поручения.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: abdc3aae36372f00137b86f24b897f9fa1ceb73b
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 6ebb5b1dbe7c26930344c4f233b88237691faf7e
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3921214"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5382730"
 ---
 # <a name="set-up-a-bank-payment-order"></a>Настройка платежного поручения
 

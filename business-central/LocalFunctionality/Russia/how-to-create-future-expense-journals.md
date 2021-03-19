@@ -3,17 +3,17 @@ title: Создание журналов расходов будущих пер�
 description: Российские усовершенствования включают расходы будущих периодов.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: a34349dd557eb0a6ce6817a9e45a6ff8f72f43e9
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: f5c75897a5f7b25b4f135b32d702194774c30c02
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3921244"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5382761"
 ---
 # <a name="create-future-expense-journals"></a>Создание журналов расходов будущих периодов
 

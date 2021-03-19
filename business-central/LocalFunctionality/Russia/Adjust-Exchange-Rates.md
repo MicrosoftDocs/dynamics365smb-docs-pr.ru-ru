@@ -3,17 +3,17 @@ title: Корректировка валютных курсов в России
 description: Российские усовершенствования включают корректировку валютных курсов.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: bc1d85f74aaf744af871efd0330466ea5b2ed4a6
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 42ccc090b78c5a72b81796f28499d7a693ad36e9
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3921316"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5383500"
 ---
 # <a name="adjust-exchange-rates-in-the-russian-version"></a>Корректировка валютных курсов в версии для России
 

@@ -3,19 +3,19 @@ title: Настройка нереализованного НДС | Докуме
 description: Если используется учет на основании кассы, можно определить способ обработки нереализованного НДС для продаж и покупок.
 author: bholtorf
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: cash, VAT, unrealized, cash-based
 ms.date: 10/01/2020
 ms.author: bholtorf
-ms.openlocfilehash: 36404306909fb7c2e9d2de97e43fa181dc65a069
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: 9320a06b8224aae334e8b3b8682df4d8b5fbdb81
+ms.sourcegitcommit: a9d48272ce61e5d512a30417412b5363e56abf30
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4746527"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "5492896"
 ---
 # <a name="set-up-unrealized-vat-for-cash-based-accounting"></a>Настройка нереализованного НДС для учета на основании кассы
 При использовании методов учета на основании кассы можно настроить [!INCLUDE[prod_short](includes/prod_short.md)] для обработки нереализованного НДС.
@@ -49,7 +49,6 @@ ms.locfileid: "4746527"
 > Сумма НДС будет учтена на этом счете и будет там находиться до тех пор, пока не произойдет выполнение учета клиентской оплаты. Тогда сумма будет перемещена на счет НДС покупки.
 
 ## <a name="see-also"></a>См. также
-[Настройка налога на добавленную стоимость](finance-setup-vat.md)
-
+[Настройка методов расчета и учета налога на добавленную стоимость](finance-setup-vat.md)
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

@@ -110,6 +110,7 @@
 #### [Настройка условий и уровней напоминаний](finance-setup-reminders.md)
 #### [Настройка процентных ставок](finance-setup-finance-charges.md)
 #### [Настройка налога на добавленную стоимость (НДС)](finance-setup-vat.md)
+#### [Настройка методов расчета и учета налога на добавленную стоимость (НДС)](finance-setup-vat.md)
 #### [Настройка нереализованного НДС для учета на основании кассы](finance-setup-unrealized-vat.md)
 #### [Проверка номеров ИНН](finance-how-validate-vat-registration-number.md)
 #### [Настройка кодов источников и кодов причин для журналов аудита](finance-setup-trail-codes.md)
@@ -437,6 +438,7 @@
 ##### [Сопоставление полей для расширения AMC Banking 365 Fundamentals](across-field-mapping-when-exporting-payment-files-using-bank-data-conversion-service.md)
 ## Финансы
 ### [Обзор финансов](finance.md)
+### [Финансовые отчеты](finance-reports.md)
 ### Управление дебиторской задолженностью
 #### [Обзор дебиторской задолженности](receivables-manage-receivables.md)
 #### Автоматическое применение платежей и выверка банковских счетов
@@ -560,8 +562,9 @@
 ### [Перевод банковских средств](bank-how-transfer-bank-funds.md)
 ### [Работа бухгалтера в Business Central](finance-accounting.md)
 
-## Бизнес-аналитика
-### [Обзор BI](bi.md)
+## Бизнес-аналитика и Financial Reporting
+### [Обзор бизнес-аналитики и Financial Reporting](bi.md)
+### [Финансовые отчеты](finance-reports.md)
 ### [Анализ фактических сумм в с равнении с суммами бюджета](bi-how-analyze-actual-versus-budget.md)
 ### [Подготовка финансовой отчетности с помощью финансовых отчетов и категорий счетов](bi-how-work-account-schedule.md)
 ### [Настройка и публикация веб-служб ключевых показателей эффективности, которые основаны на финансовых отчетах](bi-how-to-set-up-and-publish-kpi-web-services-based-on-account-schedules.md)
@@ -1533,7 +1536,7 @@
 
 # Безопасность, конфиденциальность, соответствие
 ## Защита и безопасность
-### [Обзор защиты и безопасности](/dynamics365/business-central/dev-itpro/security/security-and-protection?toc=/dynamics365/business-central/toc.json)
+### [Обзор безопасности и защиты (только на английском языке)](/dynamics365/business-central/dev-itpro/security/security-and-protection?toc=/dynamics365/business-central/toc.json)
 ## Конфиденциальность
 ### [Конфиденциальность (microsoft.com)](https://www.microsoft.com/en-us/trust-center/privacy)
 ## Соответствие
@@ -1541,6 +1544,7 @@
 ### [Соответствие приложений](compliance/compliance-application-compliance.md)
 ### [Соответствие служб](compliance/compliance-service-compliance.md)
 ### [Сертификаты](compliance/compliance-certifications.md)
+## [Обзор служб (только на английском языке)](/dynamics365/business-central/dev-itpro/service-overview?toc=/dynamics365/business-central/toc.json)
 
 # Разработка и администрирование
 ## [Начните с документации по разработке и администрированию](/dynamics365/business-central/dev-itpro/index?toc=/dynamics365/business-central/toc.json)

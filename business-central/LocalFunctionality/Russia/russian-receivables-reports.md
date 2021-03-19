@@ -3,17 +3,17 @@ title: Отчеты по расчетам с клиентами в России
 description: Российские улучшения включают отчеты о расчетах с клиентами.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: e47ec952826fa8108585a683227e94c9aa3ab343
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 64b11e49bd54bac0ffddfd38352e3abc5a6214af
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3919761"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5383444"
 ---
 # <a name="russian-receivables-reports"></a>Отчеты по расчетам с клиентами (Россия)
 

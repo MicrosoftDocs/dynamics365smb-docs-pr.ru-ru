@@ -3,19 +3,19 @@ title: Сведения о проектировании — средняя се�
 description: Средняя стоимость товара вычисляется с периодическим средневзвешенным с учетом среднего периода учета стоимости, задаваемого в Business Central.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 6a716b25f3dfb25d2011fd12ed388fed5e1e98f9
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: 70b0f4c5a858b73cb0f872bb1bfb92ebc56ded42
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4751834"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5380710"
 ---
 # <a name="design-details-average-cost"></a>Сведения о проектировании: средняя себестоимость
 Средняя стоимость товара вычисляется с периодическим средневзвешенным с учетом среднего периода учета стоимости, задаваемого в [!INCLUDE[prod_short](includes/prod_short.md)].  

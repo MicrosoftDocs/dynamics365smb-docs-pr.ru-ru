@@ -3,19 +3,19 @@ title: Создание деловых контактов
 description: Дает общее представление о задачах по созданию контактов и определению ваших деловых отношений.
 author: bholtorf
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: relationship, prospect
 ms.date: 01/05/2021
 ms.author: edupont
-ms.openlocfilehash: 42645a038c3937644fe90ce895ee454e1d1b5d5c
-ms.sourcegitcommit: fe6943d410f5dca4e8b2986f95501009ae982d98
+ms.openlocfilehash: f07bc493a88f7ce46d3845a97774d0971c0fe5ba
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "4827047"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5388903"
 ---
 # <a name="create-contacts"></a>Создание контактов
 Когда вы устанавливаете деловые отношения с кем-то из другой компании, добавьте его в качестве контакта в [!INCLUDE[prod_short](includes/prod_short.md)]. Затем добавьте любую информацию о них или их компании, которая может быть полезна для дальнейшего общения. На странице **Карточка контакта** вы можете создавать следующие типы контактов:

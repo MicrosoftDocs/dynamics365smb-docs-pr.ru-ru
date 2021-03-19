@@ -3,19 +3,19 @@ title: Настройка статусов для сервисных заказ�
 description: Необходимо настроить девять параметров статуса ремонта, которые указывают продвижение ремонта и обслуживания сервисных товаров в сервисных заказах.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/15/2020
 ms.author: edupont
-ms.openlocfilehash: f9b8fa679254e4886993ee29a1ceba1cf2542cda
-ms.sourcegitcommit: 2d2dfb6c3eca1322835f0167dc7dab614346972e
+ms.openlocfilehash: 4c28fcfbc2cbc7493ba183812383225754fd3dfa
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "4038464"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5389653"
 ---
 # <a name="set-up-statuses-for-service-orders-and-repairs"></a>Как настраивать статусы для сервисных заказов и ремонтных работ
 

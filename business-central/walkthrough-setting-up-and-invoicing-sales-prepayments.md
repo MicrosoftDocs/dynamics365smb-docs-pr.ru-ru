@@ -3,19 +3,19 @@ title: Пошаговое руководство. Настройка и выст
 description: Предоплата — это платежи, для которых выставление счетов и учет в заказах на предоплату при продажах или покупках осуществляется до окончательного выставления счетов. Например, можно потребовать задаток перед производством товара по заказу или платеж перед отгрузкой товаров клиенту. Благодаря функции предоплаты можно выставлять счета в Business Central и собирать необходимые авансы от клиентов либо переводить авансы поставщикам. Таким образом, можно гарантировать учет всех платежей по счету.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: f3a02f54863bf7d0bf6e6e2db03e16e8bedd53c6
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: 636950f569944907b76660dbcf61f5e8ad2b4340
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4756421"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5385428"
 ---
 # <a name="walkthrough-setting-up-and-invoicing-sales-prepayments"></a>Пошаговое руководство. Настройка и выставление счетов на продажу
 

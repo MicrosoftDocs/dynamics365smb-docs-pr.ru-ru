@@ -3,19 +3,19 @@ title: Интеграция с Dynamics 365 Sales | Документация М�
 description: Узнайте, как подготовить Dynamics 365 Business Central к интеграции с Dynamics 365 Sales.
 author: bholtorf
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: sales, crm, integration, integrating
 ms.date: 10/01/2020
 ms.author: bholtorf
-ms.openlocfilehash: 692c3d10ba8bc72b3993d4f05cc9dcaee7dabc8c
-ms.sourcegitcommit: adf1a87a677b8197c68bb28c44b7a58250d6fc51
+ms.openlocfilehash: 02633c21025fe13b3cb781d8750d7c839640289c
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "5035685"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5385378"
 ---
 # <a name="integrating-with-dynamics-365-sales"></a>Интеграция с Dynamics 365 Sales
 [!INCLUDE[prod_short](includes/cc_data_platform_banner.md)]

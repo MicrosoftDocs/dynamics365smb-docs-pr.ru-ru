@@ -3,19 +3,19 @@ title: Как использовать семейства товаров в пр
 description: Главной задачей при настройке личного календаря для вашей организации или организации-партнера является внесение необходимых изменений статуса рабочих и нерабочих дней.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: f33ac3e581325eb714af67ee7040157a61e59fc7
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: 4c926b8f7663c805f07bcd7c85339b109f85a7ff
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4758871"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5383204"
 ---
 # <a name="work-with-production-families"></a>Работа с производственными семействами
 Производственное семейство — это группа отдельных товаров, взаимосвязь которых основана на подобии процессов изготовления. Формирование производственных семейств позволяет некоторым товарам производиться дважды или более раз в одном производстве, что оптимизирует потребление материалов.

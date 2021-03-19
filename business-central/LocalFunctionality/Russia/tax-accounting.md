@@ -3,17 +3,17 @@ title: Налоговый учет в России
 description: Российские улучшения включают налоговый учет.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 7422630ca27315c60405b315b55d7046a0cea5bb
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: 2b639632d74fd42af891e047321765180b5e33ce
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4753217"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5383436"
 ---
 # <a name="tax-accounting"></a>Налоговый учет
 

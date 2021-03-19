@@ -3,17 +3,17 @@ title: Формирование и изменение штатного расп�
 description: Российские усовершенствования включают формирование и изменение штатного расписания.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: a2ba4819139aaad36843e61db3a23b13a7ca3f25
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: a413322b1c333da5f847c03a5addbc8b3013eee1
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4747455"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5383492"
 ---
 # <a name="forming-and-changing-the-staff-list-order"></a>Формирование и изменение порядка составления штатного расписания
 

@@ -3,19 +3,19 @@ title: Перемещение компонентов в производстве
 description: Если производственные операции выполняются на складе, необходимо переместить товары между внутренними ячейками, чтобы ответить на внутренние документы-источники.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 7812bc0675563b30805f345331423d800645b3ea
-ms.sourcegitcommit: 311e86d6abb9b59a5483324d8bb4cd1be7949248
+ms.openlocfilehash: 5adf1f30276ab46df17589c738fa6f9543720729
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "5014104"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5391578"
 ---
 # <a name="move-components-to-an-operation-area-in-basic-warehouse-configurations"></a>Перемещение компонентов в производственную зону в базовых конфигурациях склада
 Если производственные операции выполняются на складе, необходимо переместить товары между внутренними ячейками, чтобы ответить на внутренние документы-источники, например продукцию, сборку или сервисные заказы на складе.  

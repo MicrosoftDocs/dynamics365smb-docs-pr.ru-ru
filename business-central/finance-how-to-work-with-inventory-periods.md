@@ -3,19 +3,19 @@ title: Практическое руководство. Работа с учет
 description: Определив учетные периоды, можно контролировать временные рамки, в пределах которых люди могут учитывать изменения в запасах.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: inventory, periods
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: ca5104a8d4268c9f4822e98150a3e969c6c66d48
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 36a2419cba4ff67d1857c1e1ec971a607f4fd355
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3924157"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5389803"
 ---
 # <a name="work-with-inventory-periods"></a>Работа с учетными периодами
 Учетные периоды период времени, в течение которого можно учитывать изменения в запасах. «Период учета запасов» определяется по дате, на которую он завершается, или по конечной дате. После закрытия учетного периода изменения в запасах (будь то ожидаемые изменения или изменения, связанные с выставленными счетами) до этой даты окончания учесть невозможно. До даты окончания новые значения в запасах учитывать нельзя. Если в закрытом периоде есть открытые операции товаров, то есть положительные значения количества, которые еще не были применены к исходящим транзакциям, к этим операциям все же можно применить исходящие значения количества, несмотря на то, что период закрыт.  

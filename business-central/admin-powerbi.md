@@ -1,6 +1,6 @@
 ---
 title: Введение в Business Central и Power BI | Документация Майкрософт
-description: Анализ данных, бизнес-аналитика и КПЭ на основе данных Business Central становятся проще благодаря приложениям Business Central для Power BI.
+description: Получение обзора использования Power BI для получения аналитических сведений, бизнес-аналитики и ключевых показателей эффективности из данных Business Central.
 author: jswymer
 ms.service: dynamics365-business-central
 ms.topic: get-started-article
@@ -11,12 +11,12 @@ ms.search.keywords: account schedule, analysis, reporting, financial report, bus
 ms.reviewer: edupont
 ms.date: 10/01/2020
 ms.author: jswymer
-ms.openlocfilehash: 51c9e2cd05deba5fd8ace46382ebeb4eb41d13ba
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: 9768fca2bea274a8124c34e151d399baa23f9f03
+ms.sourcegitcommit: a9d48272ce61e5d512a30417412b5363e56abf30
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4753746"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "5493121"
 ---
 # <a name="prod_short-and-power-bi"></a>[!INCLUDE[prod_short](includes/prod_short.md)] и Power BI
 
@@ -24,15 +24,14 @@ ms.locfileid: "4753746"
 
 ![Power BI и Business Central](media/power-bi-intro.png)
 
-
 ## <a name="what-you-can-do-with-power-bi-and-prod_short"></a>Что можно делать с Power BI и [!INCLUDE[prod_short](includes/prod_short.md)]
 
 Есть разные возможности для работы с [!INCLUDE[prod_short](includes/prod_short.md)] и Power BI. Некоторые вещи можете делать из Power BI, а все остальное делается из [!INCLUDE[prod_short](includes/prod_short.md)]. Кроме того, некоторые функции доступны только с [!INCLUDE[prod_short](includes/prod_short.md)] Online, но не с On-Premises. Следующая таблица дает вам обзор.
 
 |Функция|Описание|Online|On-premises|Дополнительная информация|
 |-------|-----------|--------------|-----------|----------------|
-|Просмотр данных [!INCLUDE[prod_short](includes/prod_short.md)] в Power BI|Вы можете просматривать свои данные из [!INCLUDE[prod_short](includes/prod_short.md)] в отчетах в Power BI. [!INCLUDE[prod_short](includes/prod_short.md)] Online включает некоторые предопределенные отчеты Power BI. Или ваша организация могла предоставить вам доступ к некоторым настраиваемым отчетам.|![Работа онлайн](media/check.png)|![Работа локально](media/check.png)|[См. ...](across-working-with-powerbi.md)|
-|Просмотр отчетов Power BI в клиенте [!INCLUDE[prod_short](includes/prod_short.md)].| Отчеты Power BI, отображающие данные [!INCLUDE[prod_short](includes/prod_short.md)], могут быть встроены прямо в страницы частей [!INCLUDE[prod_short](includes/prod_short.md)]. Вы можете переключить часть для отображения любого отчета, который вам доступен. |![работа онлайн](media/check.png)|![Работа локально](media/check.png)<sup>[*](#onprem)</sup>|[См. ...](across-working-with-business-central-in-powerbi.md).|
+|Просмотр данных [!INCLUDE[prod_short](includes/prod_short.md)] в Power BI|Вы можете просматривать свои данные из [!INCLUDE[prod_short](includes/prod_short.md)] в отчетах в Power BI. [!INCLUDE[prod_short](includes/prod_short.md)] Online включает некоторые предопределенные отчеты Power BI. Или ваша организация могла предоставить вам доступ к некоторым настраиваемым отчетам.|![Работа онлайн](media/check.png)|![Работа локально](media/check.png)|[См. ...](across-working-with-business-central-in-powerbi.md)|
+|Просмотр отчетов Power BI в клиенте [!INCLUDE[prod_short](includes/prod_short.md)].| Отчеты Power BI, отображающие данные [!INCLUDE[prod_short](includes/prod_short.md)], могут быть встроены прямо в страницы частей [!INCLUDE[prod_short](includes/prod_short.md)]. Вы можете переключить часть для отображения любого отчета, который вам доступен. |![работа онлайн](media/check.png)|![Работа локально](media/check.png)<sup>[*](#onprem)</sup>|[См. ...](across-working-with-powerbi.md).|
 |Создавайте отчеты и панели мониторинга в Power BI, которые отображают данные [!INCLUDE[prod_short](includes/prod_short.md)].|Используйте Power BI Desktop для создания собственных отчетов и панелей мониторинга. Вы можете опубликовать отчеты в своей собственной службе Power BI или поделиться ими с другими пользователями в вашей организации.|![Работа онлайн](media/check.png)|![работа локально](media/check.png)|[См. ...](across-how-use-financials-data-source-powerbi.md)
 |Приложения [!INCLUDE[prod_short](includes/prod_short.md)] в Power BI| [!INCLUDE[prod_short](includes/prod_short.md)] публикует три приложения для Power BI в Microsoft AppSource. Эти приложения создают подробные отчеты и панели мониторинга в вашей службе Power BI для просмотра данных [!INCLUDE[prod_short](includes/prod_short.md)]. Доступные приложения включают: <ul><li>[!INCLUDE [prod_long](includes/prod_long.md)] — CRM </li><li>[!INCLUDE [prod_long](includes/prod_long.md)] — Finance </li><li>[!INCLUDE [prod_long](includes/prod_long.md)] — Sales </li></ul>  |![Работа онлайн](media/check.png)||[См. ...](across-powerbi-business-central-apps.md)
 
@@ -47,7 +46,7 @@ ms.locfileid: "4753746"
 2. Опубликуйте данные как веб-службы.
 
     Модули Codeunit, страницы и запросы, которые вы хотите использовать в качестве источника данных в отчетах Power BI, должны публиковаться как веб-службы. По умолчанию опубликовано множество веб-служб. Простой способ найти веб-службы — найти *веб-службы* в [!INCLUDE[prod_short](includes/prod_short.md)].
-    
+
     Дополнительные сведения о публикации веб-служб см. в разделе [Публикация веб-службы](across-how-publish-web-service.md).
 
 3. Получите учетная запись Power BI.

@@ -3,19 +3,19 @@ title: Как заблокировать продажи клиентам
 description: При необходимости вы можете заблокировать включение клиента в документы продажи и другие операции продажи.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: dc8014cf0896db1ebbc5f0c5ea22e0f160c1b06d
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 8401b02677be48d06de2c3dbd67efd1ea8dd18cd
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3926551"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5392703"
 ---
 # <a name="block-customers"></a>Блокировка клиентов
 Можно заблокировать клиента, например из-за несостоятельности, чтобы этого клиента нельзя было добавить в документы продажи или чтобы никакие транзакции не могли быть учтены для клиента.

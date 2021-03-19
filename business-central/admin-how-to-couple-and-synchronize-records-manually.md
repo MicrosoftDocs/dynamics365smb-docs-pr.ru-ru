@@ -5,19 +5,19 @@ services: project-madeira
 documentationcenter: ''
 author: bholtorf
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: crm, sales, couple, decouple, synchronize
 ms.date: 10/01/2020
 ms.author: bholtorf
-ms.openlocfilehash: fa4d6cfe13662613a73c14d68542f8319798ea80
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: b9ea85ea320aea35d1df661be9a9d16502d33776
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4752679"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5378352"
 ---
 # <a name="coupling-and-synchronizing"></a>Связывание и синхронизация
 В этом разделе описана процедура связывания одной или нескольких записей [!INCLUDE[prod_short](includes/prod_short.md)] с записями в Dataverse или [!INCLUDE[crm_md](includes/crm_md.md)]. Связывание записей позволяет просматривать сведения Dataverse из [!INCLUDE[prod_short](includes/prod_short.md)] и наоборот. Связывание также позволяет синхронизировать данные между записями. Можно связать существующие записи или создать и связать новые записи.

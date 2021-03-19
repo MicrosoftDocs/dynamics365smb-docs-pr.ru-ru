@@ -3,17 +3,17 @@ title: Амортизационная премия в России
 description: Российские улучшения включают амортизацию.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 0c340416ec648133717ff9af88c2d753ec2f07f1
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 6c43e68b63a39089bb9ce6ee3814e59d9251f6d3
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3921270"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5382087"
 ---
 # <a name="depreciation-bonus"></a>Амортизационная премия
 

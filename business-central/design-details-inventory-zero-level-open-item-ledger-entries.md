@@ -3,19 +3,19 @@ title: открытые операции книги товаров
 description: Узнайте, почему уровень запасов равен нулю, хотя существуют открытые операции книги товаров.
 author: edupont04
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 8cb3aa1df0c67af09f0353504abceb2529df9f2f
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: b41403ce77623bc61b564dd4f93cf59b8a09764c
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4751409"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5389828"
 ---
 # <a name="design-details-known-item-application-issue"></a>Сведения о проектировании: известная проблема применения товара
 В этой статье рассматривается проблема, когда уровень запасов равен нулю несмотря на наличие открытых записей книги товаров в [!INCLUDE[prod_short](includes/prod_short.md)].  

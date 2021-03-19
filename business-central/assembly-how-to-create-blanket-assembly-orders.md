@@ -3,19 +3,19 @@ title: Создание общих заказов на сборку | Докум
 description: Создавайте общие заказы на продажу для настраиваемых сборочных элементов до периодического создания фактических заказов на продажу по договору общего заказа.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: kit, kitting
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 93ff6228855c2dccd3d032523c3f0bd38a54a6d2
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: 0399c89429c2db043e3b4ec3c02efca26ab5d077
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4755271"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5386678"
 ---
 # <a name="create-blanket-assembly-orders"></a>Создание общих заказов на сборку
 Можно использовать функцию управления сборкой, чтобы настроить сборочный элемент по запросу клиента во время процесса продаж. Дополнительные сведения см. в разделе [Продажа товара, собранного на заказ](assembly-how-to-sell-items-assembled-to-order.md).  

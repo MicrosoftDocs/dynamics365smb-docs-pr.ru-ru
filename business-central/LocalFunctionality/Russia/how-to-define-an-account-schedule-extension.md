@@ -3,17 +3,17 @@ title: Определение расширений финансовых отче
 description: Российские усовершенствования включают расширение строк финансовых отчетов.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 85089463315c23aa3cea9a2db1dfa0ef76aa8ea0
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: 58f7edd2cd8bba9df062c0507bf9b2cda03b7056
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4752429"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5382751"
 ---
 # <a name="define-an-account-schedule-extension"></a>Определение расширения финансового отчета
 

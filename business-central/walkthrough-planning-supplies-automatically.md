@@ -3,19 +3,19 @@ title: Пошаговое руководство. Автоматическое �
 description: Фразами "процесс планирования" или "процесс MRP" обозначается вычисление основного плана производства (MPS) и плана потребности в материалах (MRP) на основе фактического и прогнозируемого требования.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 04483a81793f21a6011c142433b830f678adf85d
-ms.sourcegitcommit: adf1a87a677b8197c68bb28c44b7a58250d6fc51
+ms.openlocfilehash: 29d3b8f906034885cd92a241bf6f1859dac8ee2a
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "5035710"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5385478"
 ---
 # <a name="walkthrough-planning-supplies-automatically"></a>Пошаговое руководство. Автоматическое планирование поставок
 

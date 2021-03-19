@@ -3,17 +3,17 @@ title: Издержки ОС в России
 description: Российские улучшения включают издержки ОС.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: a5a2555bab2ad5d3c065191a15248c68652f042d
-ms.sourcegitcommit: 01524e0ec6368b6c019c5ac1816e202d52ab1fe0
+ms.openlocfilehash: 7bbdefc3daf44e57111eac8bd2ff1152ccac5eb8
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/05/2020
-ms.locfileid: "4400641"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5382085"
 ---
 # <a name="fixed-asset-charges"></a>Издержки ОС
 

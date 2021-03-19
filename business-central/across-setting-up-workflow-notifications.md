@@ -3,17 +3,17 @@ title: Уведомления рабочих процессов
 description: Многие отклики рабочего процесса касаются уведомления пользователя о случившемся событии, относительно которого необходимо предпринять какое-либо действие. Например, на одном из этапов рабочего процесса событием может быть запрос Пользователем 1 утверждения на новую запись, а откликом – отправка уведомления Пользователю 2, ответственному за утверждение такого запроса. На следующем этапе рабочего процесса событием будет утверждение записи Пользователем 2, а откликом – отправка уведомления Пользователю 3 по поводу начала соответствующей обработки утвержденной записи. Для шагов рабочего процесса, относящихся к утверждению, каждое уведомление связано с операцией утверждения.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/14/2020
 ms.author: edupont
-ms.openlocfilehash: 1dd64213bc38d5d98e6369e97257e53cef04bbd0
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: d11a391a7fd91f6a094dfae9f8908ba4314b357a
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4753029"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5378952"
 ---
 # <a name="workflow-notifications"></a>Уведомления рабочих процессов
 

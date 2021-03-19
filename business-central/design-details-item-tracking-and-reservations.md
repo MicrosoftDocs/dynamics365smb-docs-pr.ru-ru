@@ -3,19 +3,19 @@ title: Сведения о проектировании — трассировк
 description: В этом разделе рассматриваются отслеживание и резервирование товара, а также описываются концепции, лежащие в основе этих операций.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: cb79b0538f4f55b2841815c23c4446d7c6278fb1
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 2883ed1176f20cca289cb68d4f3839f8099c874f
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3922096"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5380256"
 ---
 # <a name="design-details-item-tracking-and-reservations"></a>Сведения о проектировании: трассировка и резервирование товара
 

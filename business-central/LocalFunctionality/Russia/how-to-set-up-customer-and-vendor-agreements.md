@@ -3,17 +3,17 @@ title: Настройка договоров с клиентами и поста
 description: Российские улучшения включают договоры с клиентами и поставщиками.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 0fa40dba8335854f91c28c428d2255e745f37499
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 5355662cb4ea1a74d343dff11b46bd71a3473eb9
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3921206"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5382723"
 ---
 # <a name="set-up-customer-and-vendor-agreements"></a>Настройка договоров с клиентами и поставщиками
 

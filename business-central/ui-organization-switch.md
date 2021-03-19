@@ -3,23 +3,23 @@ title: Переключение на другую компанию или сре
 description: Если вы работаете в нескольких организациях, вы можете быстро переключаться между средами и компаниями.
 author: bholtorf
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: environments, companies, tenants, organization
-ms.date: 10/01/2020
+ms.date: 03/04/2020
 ms.author: bholtorf
-ms.openlocfilehash: fea55295867e42f450dc7e3826224d7e1698666a
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: 2847d3240ed12acf356f6c68f4c0fcb67c362f61
+ms.sourcegitcommit: 35f7e24c301926b39094aa64fe608afd04fdb8e1
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4760421"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "5573455"
 ---
 # <a name="switching-to-another-company-or-environment"></a>Переключение на другую компанию или среду
 
 [!INCLUDE [company_environment](includes/company_environment.md)] Дополнительные сведения см. в разделе [Создание новой организации в [!INCLUDE[prod_short](includes/prod_short.md)]](about-new-company.md).  
 
 > [!TIP]
-> Если вы часто переключаетесь между компаниями, может быть легко потерять отслеживание того, где вы находитесь. Чтобы помочь вам отслеживать, вы можете добавить эмблему, которая будет отображать название компании, чтобы вы могли быстро проверить, что вы находитесь в нужном месте. Дополнительные сведения см. в [Отображение эмблемы организации для быстрого доступа к информации об организации](ui-change-basic-settings.md#to-display-a-company-badge-for-quick-access-to-company-information).
+> Если вы часто переключаетесь между организациями или работаете с [!INCLUDE[prod_short](includes/prod_short.md)] из другого приложения, например Microsoft Teams, можно легко потерять из виду, где вы находитесь. Чтобы помочь вам отслеживать, вы можете добавить эмблему, которая будет отображать название организации, чтобы вы могли быстро проверить, что вы находитесь в нужном месте. Дополнительные сведения см. в [Отображение эмблемы организации для быстрого доступа к информации об организации](ui-change-basic-settings.md#badge).
 
 ## <a name="switch-to-another-environment"></a>Переход к другой среде
 
@@ -31,7 +31,7 @@ ms.locfileid: "4760421"
 
 ## <a name="switch-to-another-company"></a>Переход к другой компании
 
-Когда вы вошли в [!INCLUDE[prod_short](includes/prod_short.md)], Вы можете быстро переключиться на другую компанию. После того, как вы сделаете это, выбранная вами компания станет компанией по умолчанию и будет отображаться при следующем входе в систему.
+Когда вы вошли в [!INCLUDE[prod_short](includes/prod_short.md)], вы можете быстро переключиться на другую организацию. После того, как вы сделаете это, выбранная вами компания станет компанией по умолчанию и будет отображаться при следующем входе в систему.
 
 1. В правом верхнем углу щелкните значок **Параметры** ![Параметры](media/ui-experience/settings_icon_small.png "Значок настроек для ролевого центра"), а затем выберите действие **Мои настройки**.
 

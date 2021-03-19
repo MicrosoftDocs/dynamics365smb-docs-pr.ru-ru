@@ -3,17 +3,17 @@ title: Налоговые разницы в России
 description: Российские усовершенствования включают управление налоговыми разницами.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: dd45027e6222fe792d299737c61f1fb0d5e090bd
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: 0a237ee47e5ee1189e4f6df12f7a450a9b328b51
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4753215"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5382719"
 ---
 # <a name="tax-differences"></a>Налоговые разницы
 

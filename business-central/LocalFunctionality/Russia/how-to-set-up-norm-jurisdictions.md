@@ -3,17 +3,17 @@ title: Настройка юрисдикций нормы в России
 description: Российские усовершенствования включают юрисдикции нормы.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: ad589689842561290ecef2b296575c4e01942536
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 9261539d121de2a8cb9af3eca6f85c54aa03d3bf
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3921202"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5383482"
 ---
 # <a name="set-up-norm-jurisdictions"></a>Настройка юрисдикций нормы
 

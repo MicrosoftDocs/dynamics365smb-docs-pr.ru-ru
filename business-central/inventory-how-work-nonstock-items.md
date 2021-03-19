@@ -4,19 +4,19 @@ description: Далее описывается процедура торговл
 documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: non-inventoriable
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: cf6016b2d2f2774807b120ab3d3521af9eaf5f7f
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: cb65c85ba8ce0ec9450a9ff9617b8f708d5facf7
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4749909"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5389378"
 ---
 # <a name="work-with-catalog-items"></a>Работа с товарами из каталога
 Для удобства клиентов можно предлагать им некоторые товары, которые вы не хотите обрабатывать в своей системе до начала торговли ими. Когда вы решите начать управлять такими товарами в своей системе, можно будет преобразовать их в обычные карточки товаров одним из двух способов.

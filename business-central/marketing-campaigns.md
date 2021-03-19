@@ -3,19 +3,19 @@ title: Настройка маркетинговых кампаний в Busines
 description: Описывается, как можно настраивать и проводить маркетинговые кампании в Business Central, чтобы помочь выявить и привлечь потенциальных клиентов, а также сохранить существующих.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: marketing, campaign, promo, prospect
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: dd309537e7f2e5c57f722345f2c33dc7bc6dfebb
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 7136a37778d25fac1365c9619402d0fd697199f8
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3922798"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5377527"
 ---
 # <a name="managing-marketing-campaigns"></a>Управление маркетинговыми кампаниями
 Наличие эффективного маркетингового плана помогает определять, привлекать и удерживать клиентов. Маркетинговый план состоит из различных кампаний и других видов взаимодействия, связанных с действиями по продажам и маркетингу. Планируя кампанию, необходимо решить, на какие контакты она будет ориентирована, какого она будет типа (скажем, специализированная выставка или прямая почтовая рассылка) и кто из менеджеров будет выполнять каждую задачу.

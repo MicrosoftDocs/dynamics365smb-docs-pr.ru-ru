@@ -3,17 +3,17 @@ title: Управление банками в России
 description: Российские усовершенствования включают управление банками.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 5ed6d9edc6ab99265c4df3c5048487757d405e8b
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: 8a8e3c066e683f739fbbceb5ae43fce539167cdd
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4752433"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5382091"
 ---
 # <a name="bank-management"></a>Управление банками
 

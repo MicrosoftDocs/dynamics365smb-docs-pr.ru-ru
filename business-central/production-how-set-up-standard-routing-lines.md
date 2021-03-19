@@ -3,19 +3,19 @@ title: Практическое руководство. Настройка ст�
 description: Для стандартных задач можно ввести описания.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 68844bd869e2e0437ae53ad507e8d2c752c5496f
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: 3485ecea4e5fa48bf0c6d2a3a0c176d5c470956c
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4759421"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5379961"
 ---
 # <a name="set-up-standard-routing-lines"></a>Настройка стандартных строк маршрута
 

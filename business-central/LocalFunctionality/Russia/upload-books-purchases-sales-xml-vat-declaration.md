@@ -3,17 +3,17 @@ title: Загрузка книг покупок и продаж в России
 description: Российские усовершенствования включают поддержку загрузки книг покупок и продаж и деклараций НДС в формате XML.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 470ca43b37031bd7c673d25bf39fd15d33ea87b8
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 32f7dcdfe5e1001b19845bf6aef7772b9856afa6
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3919757"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5382713"
 ---
 # <a name="upload-books-of-purchases-and-sales-and-the-vat-declaration-in-xml-format"></a>Загрузка книг покупок и продаж и декларации НДС в формате XML
 

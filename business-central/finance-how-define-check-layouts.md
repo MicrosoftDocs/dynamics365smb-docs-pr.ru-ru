@@ -3,19 +3,19 @@ title: Определение макета чека | Документация �
 description: Вы можете разрабатывать и печатать чеки в различных форматах, чтобы они соответствовали определенным стандартам.
 author: edupont04
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: print check, customize
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 4a402e9cdcaa7eea55b693f697db3b47138cdd02
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: ac980cb4b64a39b7ed912a49b06c179ffc7219d9
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4746995"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5386503"
 ---
 # <a name="select-a-check-layout"></a>Выбор макета платежного документа
 Вы можете разработать платежные документы в соответствии со стандартами, установленными местными органами власти. Изображения платежных документов можно печатать на английском, французском или испанском языке.

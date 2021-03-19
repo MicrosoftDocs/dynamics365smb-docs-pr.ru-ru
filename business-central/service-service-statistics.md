@@ -3,19 +3,19 @@ title: Сервисная статистика | Документация Май
 description: Получите быстрый обзор содержимого сервисного документа, такого как заказы, предложения, счета или кредит-ноты, сведения по конкретным строкам сервиса и сервисным товарам.
 author: bholtorf
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: bholtorf
-ms.openlocfilehash: 55c534d1f8a836775548d118f68383622ca25dec
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 0529242e3c19fa09d7cf8f5acd125f557e5c3b60
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3913075"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5391228"
 ---
 # <a name="viewing-service-statistics"></a>Просмотр сервисной статистики
 Вы можете использовать статистику для анализа сервисных документов и определения качества управления процессами сервиса. Можно анализировать сервисные контракты, товары, предложения, заказы, счета и кредит-ноты, выбрав действия **Статистика**. Для сервисных товаров и контрактов можно также использовать **Анализ тренда сервисного товара** или **Анализ тренда контракта** для просмотра сводки операций книги сервиса для конкретного сервисного товара.   

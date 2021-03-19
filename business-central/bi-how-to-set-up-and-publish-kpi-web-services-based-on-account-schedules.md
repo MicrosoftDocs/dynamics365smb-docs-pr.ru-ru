@@ -3,19 +3,19 @@ title: Настройка и публикация веб-служб ключев
 description: В этом разделе описывается порядок демонстрации данных по КПЭ финансовых отчетов на основе конкретных финансовых отчетов.
 author: bholtorf
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: bholtorf
-ms.openlocfilehash: 9439cdbc2fbe6f2125ebc2be3e6965ad6ed7265f
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: a5125b1989c5e8d6acd82ba88457f7c846deb83b
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4752184"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5382558"
 ---
 # <a name="set-up-and-publish-kpi-web-services-based-on-account-schedules"></a>Настройка и публикация веб-служб ключевых показателей эффективности, которые основаны на финансовых отчетах
 На странице **Настройка веб-службы ключевых показателей эффективности финансового отчета** можно задать способ показа сведений KPI финансового графика и отдельные финансовые графики, на которых основаны KPI. При выборе кнопки **Публикация веб-службы** настроенные сведения ключевых показателей эффективности для финансового отчета добавляются в список опубликованных веб-служб на странице **Веб-службы**.  

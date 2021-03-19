@@ -5,19 +5,19 @@ services: project-madeira
 documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: electronic document, e-invoice, incoming document, OCR, ecommerce, document exchange, import invoice
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 6ff52767bbd0a5661cad2dd80abb20885f3fca6d
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: cb25d7bf0019e75834bcb1efffc41b729f9d64ae
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4754946"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5384653"
 ---
 # <a name="manage-many-incoming-document-records"></a>Управление большим количеством записей входящих документов
 По мере создания или обработки записей входящих документов количество строк на странице **Входящие документы** может увеличиться настолько, что вам сложно будет иметь общее представление об этих документах. Поэтому вы можете установить для записей входящих документов статус "Обработано", чтобы они не отображались в представлении по умолчанию. При выборе действий **Показать все** вы можете просматривать как обработанные, так и необработанные записи.

@@ -3,19 +3,19 @@ title: Пошаговые руководства по бизнес-процес�
 description: В этом сборнике пошаговых руководств представлены поэтапные комплексные бизнес-процессы, которые можно выполнять с помощью демонстрационной организации CRONUS International Ltd.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 89ee34bac855e40bc44f1e32764968cfd36324a9
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: 011bd9b930844af12cdc619b3117437e58eb56fc
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4760132"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5392402"
 ---
 # <a name="business-process-walkthroughs"></a>Пошаговые руководства по бизнес-процессам
 

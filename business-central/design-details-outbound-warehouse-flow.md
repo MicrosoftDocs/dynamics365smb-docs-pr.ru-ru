@@ -3,19 +3,19 @@ title: Сведения о проектировании — исходящий �
 description: Исходящий поток на складе начинается с запроса из документов-источников выпуска о необходимости переместить товары со склада — отправить третьей стороне или на другой склад. Из зоны хранения складские операции выполняются на разных уровнях сложности для перемещения товаров в зоны отгрузки.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: a9a44faea1f92159930124992c9c070880d0c9eb
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: 13902c650606ef7a4464b367283abc9d610b9e4c
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4751309"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5390853"
 ---
 # <a name="design-details-outbound-warehouse-flow"></a>Сведения о проектировании: исходящий складской поток
 

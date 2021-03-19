@@ -3,19 +3,19 @@ title: Сведения о проектировании — структура �
 description: Узнайте, как использовать операции книги товаров как основной носитель номеров трассировки товара.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: design, item tracking, posting, inventory
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 697b83fd7e6e2b220b2851d5a1770ed9f74a9bdd
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 95e6c596e9a9782aa6f457164310b9d0942332d7
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3917380"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5390903"
 ---
 # <a name="design-details-item-tracking-posting-structure"></a>Сведения о проектировании: структура учета трассировки товаров
 Для того чтобы скоординировать с функцией учета стоимости товаров и получить более простое и надежное решение, операции журнала товаров используются как основные носители номеров трассировки товаров.  

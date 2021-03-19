@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: account schedule, analysis, reporting, financial report, business intelligence, KPI
 ms.date: 10/01/2020
 ms.author: jswymer
-ms.openlocfilehash: dd0974c20f8c038fcc0cac27c9ef165b2aadcd36
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: 17e41dd44dd4f7f99eabd4904d5ebd7c48d9964d
+ms.sourcegitcommit: a9d48272ce61e5d512a30417412b5363e56abf30
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4752504"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "5492985"
 ---
 # <a name="enabling-power-bi-integration-with-prod_short"></a>Включение интеграции Power BI с [!INCLUDE[prod_short](includes/prod_short.md)]
 
@@ -36,26 +36,33 @@ ms.locfileid: "4752504"
 
 В этом разделе объясняются требования к развертыванию [!INCLUDE[prod_short](includes/prod_short.md)] On-Premises для интеграции с Power BI.
 
-1. Веб-службы OData и конечная точка ODataV4 включены.
+1. Настройте либо NavUserPassword, либо проверку подлинности Azure Active Directory для развертывания.
+
+    Интеграция Power BI не поддерживает проверку подлинности Windows.  
+
+2. Включите веб-службы OData и конечную точку ODataV4.
 
     Веб-служба OData должна быть включена на [!INCLUDE[server](includes/server.md)], и порт OData открыт в брандмауэре. Дополнительные сведения см. в разделе [Настройка Business Central Server — веб-службы OData](/dynamics365/business-central/dev-itpro/administration/configure-server-instance#ODataServices).
-    
+
     Локальный сервер должен быть доступен из Интернета.
 
-2. Учетные записи пользователей [!INCLUDE[prod_short](includes/prod_short.md)] имеют ключ доступа к веб-службам.
+3. Дайте учетным записям пользователей [!INCLUDE[prod_short](includes/prod_short.md)] ключ доступа к веб-службам.
 
-    Ключ доступа к веб-службе необходим для просмотра данных [!INCLUDE[prod_short](includes/prod_short.md)] в Power BI. Вы можете назначить ключ доступа к веб-службе для каждой учетной записи пользователей. Или вместо этого создайте конкретную учетную запись с ключом доступа к веб-службе для использования всеми пользователями. Дополнительные сведения см. в разделе [Проверка подлинности для веб-служб](/dynamics365/business-central/dev-itpro/webservices/web-services-authentication#generate-a-web-service-access-key).
+    Ключ доступа к веб-службе необходим только для просмотра данных [!INCLUDE[prod_short](includes/prod_short.md)] в Power BI. Вы можете назначить ключ доступа к веб-службе для каждой учетной записи пользователей. Или вместо этого создайте конкретную учетную запись с ключом доступа к веб-службе для использования всеми пользователями. Дополнительные сведения см. в разделе [Проверка подлинности для веб-служб](/dynamics365/business-central/dev-itpro/webservices/web-services-authentication#generate-a-web-service-access-key).
 
-3. NavUserPassword или проверка подлинности Azure Active Directory настроена.
+4. Создайте регистрацию приложения [!INCLUDE[prod_short](includes/prod_short.md)] в Microsoft Azure.
 
-4. Для просмотра отчетов Power BI, встроенных в страницы [!INCLUDE[prod_short](includes/prod_short.md)], необходимо зарегистрировать приложение для [!INCLUDE[prod_short](includes/prod_short.md)] в Microsoft Azure.
-
-    Зарегистрированному приложению требуется разрешение на службы Power BI. Для получения дополнительной информации см. раздел [Регистрация [!INCLUDE[prod_short](includes/prod_short.md)] On-Premises в Azure AD для интеграции с другими службами](/dynamics365/business-central/dev-itpro/administration/register-app-azure).
+    Чтобы просмотреть отчеты Power BI, встроенные в страницы [!INCLUDE[prod_short](includes/prod_short.md)], необходимо зарегистрировать приложение для [!INCLUDE[prod_short](includes/prod_short.md)] в Microsoft Azure. Зарегистрированному приложению требуется разрешение на службы Power BI. Для получения дополнительной информации см. раздел [Регистрация [!INCLUDE[prod_short](includes/prod_short.md)] On-Premises в Azure AD для интеграции с другими службами](/dynamics365/business-central/dev-itpro/administration/register-app-azure).
 
     > [!NOTE]
     > Если ваше развертывание использует аутентификацию NavUserPassword, [!INCLUDE[prod_short](includes/prod_short.md)] подключается к одной службе Power BI для всех пользователей. Вы укажете эту учетную запись службы при регистрации приложения. С аутентификацией Azure AD [!INCLUDE[prod_short](includes/prod_short.md)] подключается к службе Power BI, связанно с отдельными учетными записями пользователей.
 
     <!-- Windows authentication can also be used but you can't get data from BC in Power BI -->
+5. Выполните первоначальное подключение Business Central к Power BI.
+
+    Прежде чем конечные пользователи смогут использовать Power BI в [!INCLUDE[prod_short](includes/prod_short.md)], администратор приложения Azure должен будет дать согласие на службу Power BI.
+
+    Для первоначального подключения откройте [!INCLUDE[prod_short](includes/prod_short.md)] и выполните **Начать с Power BI** из ролевого центра. Это действие проведет вас через процесс получения согласия и проверит вашу лицензию Power BI. При появлении запроса войдите в систему, используя учетную запись администратора Azure. Дополнительные сведения см. в разделе [Подключение к Power BI — только один раз](across-working-with-powerbi.md#connect).
 
 ## <a name="publish-data-as-web-services"></a>Публикация данных как веб-служб
 
@@ -65,9 +72,6 @@ ms.locfileid: "4752504"
 
 > [!TIP]
 > Чтобы узнать, что вы можете сделать для обеспечения максимальной производительности веб-служб с точки зрения сервера Business Central Server (конечная точка) и потребителя (клиент), ознакомьтесь с разделом [Создание эффективных веб-служб](/dynamics365/business-central/dev-itpro/performance/performance-developer#writing-efficient-web-services).
-
-
-
 
 ## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/Configure-powerbi-excel-dynamics-365-business-central/index)
 

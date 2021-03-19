@@ -5,19 +5,19 @@ services: project-madeira
 documentationcenter: ''
 author: bholtorf
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: posting setup, initialize
 ms.date: 10/01/2020
 ms.author: bholtorf
-ms.openlocfilehash: c36b365b0828a19fa82ef28f8d901915937995c2
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: b94b3ed97c0bd4d76c2ee5072bfda5de6ba86604
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4746670"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5379971"
 ---
 # <a name="setting-up-posting-groups"></a>Настройка учетных групп
 Учетные группы сопоставляют объекты, такие как клиенты, поставщики, товары, ресурсы и документов продажи и покупки со счетами главной книги. Они экономят время и помогают избежать ошибок при учете транзакций. Стоимости транзакций переходят на счета, указанные в учетной группе для этого определенного объекта. Единственное требование — наличие плана счетов. Дополнительные сведения см. в разделе [Настройка плана счетов](finance-setup-chart-accounts.md).  

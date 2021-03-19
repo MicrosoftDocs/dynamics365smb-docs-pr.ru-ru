@@ -6,14 +6,14 @@ ms.author: bholtorf
 ms.custom: na
 ms.reviewer: na
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.date: 10/01/2020
-ms.openlocfilehash: 8d26a8a2f6ec5ffe17f38d5dc429e50efe08ea7e
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: f93e4a5757039c8598ba73112d1059dbb61406f5
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3911634"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5378677"
 ---
 # <a name="classifying-data-sensitivity"></a>Классификация конфиденциальности данных
 Для классификации полей, в которых хранятся конфиденциальные или личные данные, партнер Майкрософт может настроить свойство ```DataClassification``` полей. Для этого требуется доступ к таблицам базы данных, либо через среду разработки, либо путем запуска сценария Windows PowerShell. Дополнительные сведения см. в разделе [Классификация данных](/dynamics365/business-central/dev-itpro/developer/devenv-classifying-data).  

@@ -3,17 +3,17 @@ title: Печать отчета "Кассовая книга КО-4" в Рос�
 description: Улучшения в России включают поддержку отчета "Кассовая книга КО-4"
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: f7f10c1080882cf69711a8c7ab3cb32d78fce4c8
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 5d61e9b7843b78d44ad6fd1dda683c30ff8761be
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3921220"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5382736"
 ---
 # <a name="print-the-cash-report-co-4-report"></a>Печать отчета "Кассовая книга КО-4"
 

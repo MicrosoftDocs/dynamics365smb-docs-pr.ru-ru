@@ -3,19 +3,19 @@ title: Закрытие записей в книге товаров, получ�
 description: Узнайте, как можно создать фиксированное применение между входящей транзакцией и исходной исходящей транзакцией в журнале товаров.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
 ms.date: 01/14/2020
 ms.author: edupont
-ms.openlocfilehash: 2cc663d580da4738247b9fcdbe5fc4504c37fa73
-ms.sourcegitcommit: 311e86d6abb9b59a5483324d8bb4cd1be7949248
+ms.openlocfilehash: 9aa24653d4ae957ff741e85a99c13e0c9a8f7173
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "5013875"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5381960"
 ---
 # <a name="close-open-item-ledger-entries-resulting-from-fixed-application-in-the-item-journal"></a>Закрытие открытых операций в книге товаров, появившихся в результате фиксированного применения в товарном журнале
 

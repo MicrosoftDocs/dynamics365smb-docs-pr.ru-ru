@@ -3,19 +3,19 @@ title: Обмен данными | Документация Майкрософт
 description: Доступен обмен данными между Business Central и внешними файлами или потоками в связи с выполнением бизнес-задач общего характера, таких как отправка и получение электронных документов и импорт или экспорт банковских файлов.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 29f7cbd99c867d01e6697aa87e39509a0d5b105e
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: 2e21585ea2cb1f64237bda98283b9115a64aff2e
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4753421"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5384853"
 ---
 # <a name="exchanging-data"></a>Обмен данными
 Доступен обмен данными между [!INCLUDE[prod_short](includes/prod_short.md)] и внешними файлами или потоками в связи с выполнением бизнес-задач общего характера, таких как отправка и получение электронных документов и импорт или экспорт банковских файлов.  

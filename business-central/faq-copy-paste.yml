@@ -2,18 +2,12 @@
 metadata:
   title: Вопросы и ответы по копированию и вставке данных
   description: Получите ответы на часто задаваемые вопросы о копировании и вставке данных из полей и строк со страниц Business Central.
-  author: SorenGP
-  ms.topic: article
-  ms.service: dynamics365-business-central
-  ms.search.keywords: accessibility, shortcuts, keyboarding
-  ms.date: 01/08/2021
-  ms.author: edupont
-  ms.openlocfilehash: 93b9f28fec418fef9968fb729ee03b3b0df3918a
-  ms.sourcegitcommit: 311e86d6abb9b59a5483324d8bb4cd1be7949248
+  ms.openlocfilehash: 7d3d0e29bb6751913297974f611aa9695677ed66
+  ms.sourcegitcommit: 5f403a0567dcfa77493178d116ac64e531c269ad
   ms.translationtype: HT
   ms.contentlocale: ru-RU
-  ms.lasthandoff: 01/15/2021
-  ms.locfileid: "5013925"
+  ms.lasthandoff: 02/15/2021
+  ms.locfileid: "5181833"
 title: Вопросы и ответы по копированию и вставке
 summary: "Вы можете скопировать одну или несколько строк (записей) из списка или одно поле на странице, а затем вставить скопированное на ту же страницу, другую страницу или во внешний документ (например, в Microsoft Excel или сообщение электронной почты Outlook).  \n\nВкратце, чтобы скопировать, нажмите CTRL+C (cmd+C в macOS) на клавиатуре. Для вставки нажмите CTRL+V (cmd+V в macOS). Имеется нескольких других сочетаний клавиш для копирования и вставки, которые помогаю экономить время при вводе данных. Дополнительные сведения о них см. в разделе [Сочетания клавиш](keyboard-shortcuts.md#CopyRows). Эта статья отвечает на часто возникающие вопросы по копированию и вставке.  \n"
 sections:

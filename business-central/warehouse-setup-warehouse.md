@@ -3,19 +3,19 @@ title: Настройка складских процессов | Докумен
 description: Стратегия распределения организации отражена в настройке ее складских процессов. Сюда входит определение того, как различные товары обрабатываются на различных складах, например уровень управления ячейками, а также объем рабочего процесса, необходимого для складских действий.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: c96691ada97f0ee91b53d9cde303c2413e99025e
-ms.sourcegitcommit: 32bfc2acaaf3693afc9aeb86feea505fd328caa1
+ms.openlocfilehash: 3b285e86c38005d9ba699c08b58d84252bdd6808
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/19/2021
-ms.locfileid: "5024391"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5381194"
 ---
 # <a name="setting-up-warehouse-management"></a>Настройка управления складом
 Стратегия распределения организации отражена в настройке ее складских процессов. Сюда входит определение того, как различные товары обрабатываются на различных складах, например уровень управления ячейками, а также объем рабочего процесса, необходимого для складских действий.  

@@ -3,17 +3,17 @@ title: Настройка предоплат поставщиков в Росс�
 description: Российские улучшения включают предоплату поставщикам.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 4759bddfa0a20a106d781672c76695d4c8c9b335
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 6477bbefca4508970f7a5fe6579d926752f58131
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3913606"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5383472"
 ---
 # <a name="set-up-vendor-prepayments"></a>Настройка предоплат поставщикам
 

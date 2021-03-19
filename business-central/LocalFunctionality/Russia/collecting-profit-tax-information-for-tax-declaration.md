@@ -3,17 +3,17 @@ title: Сбор информации о налоге на прибыль в Ро
 description: Российские улучшения включают информацию о налоге на прибыль для налоговых деклараций.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 90ed0c93d1e1d9bee1bfbde943de4d1df47392fd
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: d3e5be3c01197010b3bbaf073e75e9b3cab83aa4
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3921267"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5382089"
 ---
 # <a name="collecting-profit-tax-information-for-tax-declaration"></a>Сбор сведений о налоге на прибыль для налоговой декларации
 

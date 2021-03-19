@@ -3,19 +3,19 @@ title: Как планировать складские перемещения �
 description: Перемещения планируются в журнале с использованием функции пополнения ячейки или путем планирования строк, необходимых для создания инструкций по передвижению, вручную.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 1ae0386c4fc2e3ac216d4228c94e7447a808cf50
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: 6522341caa0ce0477b43ebce01ddb6ea2db1a9bd
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4756121"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5391053"
 ---
 # <a name="plan-warehouse-movements-in-worksheets"></a>Планирование складских перемещений в журналах
 Перемещения планируются в журнале с использованием функции пополнения ячейки или путем планирования строк, необходимых для создания инструкций по передвижению, вручную.  

@@ -3,19 +3,19 @@ title: Обработка возвратов продажи или отмен | 
 description: Описывается порядок создания кредит-ноты продажи, напрямую или через заказ на возврат продажи, для обработки возвратов, отмены или возмещения за товары или услуги, за которые вы получили оплату.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: undo, credit memo, return
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 701743c385d3afe7e0d514fede60185ecdc7a558
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: 6a65f67a7ac07196f5b4738c59fa5180e512f89c
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4748396"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5385578"
 ---
 # <a name="process-sales-returns-or-cancellations"></a>Обработка возвратов продажи или отмен
 Если клиент желает вернуть товары или получить возмещение за товары или услуги, которые вы ему продали и получили оплату, необходимо создать и учесть кредит-ноту продажи, определяющую требуемое изменение. Для включения правильных сведений счета продажи можно создать кредит-ноту продажи непосредственно из учтенного счета на продажу или создать новую кредит-ноту продажи со скопированными данными счета.

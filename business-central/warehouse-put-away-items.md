@@ -3,19 +3,19 @@ title: Размещение товаров | Документация Майкр
 description: Складское действие размещения товаров после получения или изготовления выполняется различными способами в зависимости от настроек функции управления складом.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 6fbd192b5999d566271163c9653c3bcdfe0dbba1
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: 095c53e915a2613d06282809eb83f0601b5a368c
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4755771"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5382183"
 ---
 # <a name="putting-items-away"></a>Размещение товаров
 Складское действие размещения товаров после получения или изготовления выполняется различными способами в зависимости от настроек функции управления складом. Сложность может колебаться от полного отсутствия функций склада до базовых конфигураций склада для поочередной обработки заказов в ходе одной или нескольких операций; кроме того, может использоваться расширенная конфигурация, когда все складские операции должны выполняться в рамках расширенного рабочего процесса. Дополнительные сведения см. в разделе [Настройка управления складом](warehouse-setup-warehouse.md).

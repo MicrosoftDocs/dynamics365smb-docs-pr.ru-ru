@@ -3,19 +3,19 @@ title: Доступные шрифты
 description: Онлайн-версия Business Central содержит предварительно установленные шрифты на серверах, которые можно использовать при формировании отчетов.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/20/2020
 ms.author: edupont
-ms.openlocfilehash: 534e0d7c86dd49b9790cd7f8d5d644b56e8b28d4
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: 79ce3aba4acf5d5d889bce5ff37bf6d91d83e47c
+ms.sourcegitcommit: a9d48272ce61e5d512a30417412b5363e56abf30
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4756971"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "5493258"
 ---
 # <a name="available-fonts"></a>Доступные шрифты
 
@@ -26,7 +26,7 @@ ms.locfileid: "4756971"
 
 ## <a name="document-fonts"></a>Шрифты документов
 
-Следующие шрифты установлены и доступны для использования в отчетах документов Word и RDLC:
+Следующие шрифты установлены и доступны для использования в макетах отчетов Word и RDLC:
 
 * Arial
 * Consolas
@@ -46,6 +46,17 @@ ms.locfileid: "4756971"
 Помимо шрифтов MICR доступны специальные шрифты безопасности для генерации текста, имен, сумм и символов валюты доллара, евро, фунта и йены, которые трудно подделать после печати чека.  
 
 Дополнительные сведения см. в разделе [Выбор макета платежного документа](finance-how-define-check-layouts.md).  
+
+## <a name="fonts-for-barcodes"></a>Шрифты для штрих-кодов
+Шрифты для создания одномерных штрих-кодов установлены и доступны для использования в макетах отчетов Word и RDLC.
+
+Поддерживаются следующие символы штрих-кода:
+* Код 3 из 9 (Код 39)
+* Код 128
+* Код 93
+* Codabar
+* MSI
+* Чередование 2 из 5
 
 ## <a name="see-also"></a>См. также
 

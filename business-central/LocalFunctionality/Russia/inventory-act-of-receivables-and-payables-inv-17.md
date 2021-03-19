@@ -3,17 +3,17 @@ title: Акт инвентаризации расчетов с клиентам�
 description: Улучшения в России включают поддержку акта ИНВ-17 и приложения к акту ИНВ-17.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: c25dddd79643c0557f9bd57aa40b4dd95ccfea9f
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 983db00b8e0ff0513ff48aa9890313fd171a807e
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3913604"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5383470"
 ---
 # <a name="inventory-act-of-receivables-and-payables-inv-17"></a>Акт инвентаризации расчетов с клиентами и поставщиками ИНВ-17
 

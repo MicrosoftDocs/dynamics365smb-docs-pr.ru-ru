@@ -3,19 +3,19 @@ title: Пошаговое руководство. Планирование по�
 description: В этом пошаговом руководстве демонстрируется процесс планирования заказов на продажу для выполнения нового требования. Планирование поставок можно инициировать с фиксированным интервалом, например каждое утро или каждый понедельник, или при получении уведомления от отдела продаж либо с производства, в зависимости от типа требования.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 7ec1276600ab84a43363708e037fccb5b2ca0cf2
-ms.sourcegitcommit: adf1a87a677b8197c68bb28c44b7a58250d6fc51
+ms.openlocfilehash: 604a783f292b04c2609b8415d6b2ec6287f5cfcb
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "5035635"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5379806"
 ---
 # <a name="walkthrough-planning-supplies-manually"></a>Пошаговое руководство. Планирование поставок вручную
 

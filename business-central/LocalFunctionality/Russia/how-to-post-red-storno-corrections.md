@@ -3,17 +3,17 @@ title: Учет коррекций "красный сторно" в России
 description: Российские улучшения включают учет коррекций "красный сторно".
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 825ea58ceb7bd76c5c26291850111a77f773f994
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: e39a28bc1d824d7deff71202d9e30d83fa77ae1f
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3921228"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5382743"
 ---
 # <a name="post-red-storno-corrections"></a>Учет коррекций "красный сторно"
 

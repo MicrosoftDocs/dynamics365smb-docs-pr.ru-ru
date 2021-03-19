@@ -3,19 +3,19 @@ title: Выставление счетов по резервированиям �
 description: Узнайте, как массово выставлять счета из Microsoft Bookings в Business Central.
 author: edupont04
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: invoicing, bookings
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 9b683fa14801c00904c131ada5bcce1f669c9b2a
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: a53467265f0dac62de95c4d8e93ee6c897ef3d01
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4751009"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5391128"
 ---
 # <a name="bulk-invoicing-for-microsoft-bookings-in-prod_short"></a>Пакетное выставление счетов для Microsoft Bookings в [!INCLUDE[prod_short](includes/prod_short.md)]
 Если ваша организация использует приложение Bookings в Microsoft 365, вы можете массово выставлять счета для назначений. На странице **Bookings без выставления счета** в [!INCLUDE[prod_short](includes/prod_short.md)] представлен список завершенных резервирований организации. На этой странице можно быстро выбрать назначения, по которым требуется создать счет, и создать черновики счетов за оказанные услуги.  

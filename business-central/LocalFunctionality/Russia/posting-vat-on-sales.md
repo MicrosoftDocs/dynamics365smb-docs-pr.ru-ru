@@ -3,17 +3,17 @@ title: Учет НДС в продажах в России
 description: Российские улучшения включают НДС в документах продажи.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 0e52c6add9551ca6f15feaf38aab9e17cf4fe870
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 5e39227093916d980a28753c0e0f0f1a603507b6
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3923992"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5383454"
 ---
 # <a name="posting-vat-on-sales"></a>Учет НДС в продажах
 

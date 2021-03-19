@@ -3,19 +3,19 @@ title: Подбор для внутренних операций в расшир
 description: Если в ваших местоположениях используется комплектация и отгрузка, выберите компоненты для производственной и сборочной деятельности на странице "Складской подбор".
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 8c1f51e722e3ec41e4c31170dca8ea891e9786e2
-ms.sourcegitcommit: 311e86d6abb9b59a5483324d8bb4cd1be7949248
+ms.openlocfilehash: 3aa0ae0d65fd719e2cd5ae2bd05568163109da16
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "5014079"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5386753"
 ---
 # <a name="pick-for-production-or-assembly-in-advanced-warehouse-configurations"></a>Подбор для производства или сборки в расширенных конфигурациях склада
 В расширенных конфигурациях склада, где склад настроен на использование подбора и отгрузки, можно выбрать компоненты для производственных и сборочных действий на странице **Складской подбор**.  

@@ -5,19 +5,19 @@ services: project-madeira
 documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: personalization
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: c6771cba5d386c8eec5041aa9cb9a7152827ab9f
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: 9670b1c1d8d1fcb9305877998908014804bc4217
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4753471"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5384903"
 ---
 # <a name="displaying-lists-in-different-ways"></a>Отображение списков различными способами
 В правом углу любого списка в [!INCLUDE[prod_short](includes/prod_short.md)] находятся значки, позволяющие выбрать способ отображения списка записей. Список может отображаться в виде подробных строк, что идеально подходит для работы с большим количеством полей или редактирования полей в списке. Однако вы также можете переключиться на отображение записей в виде плиток. Это более компактное представление, в котором отображается меньше полей конкретной записи. Это удобно для получения общего представления о нескольких операциях, особенно на небольших устройствах, поскольку плитки компактны и их проще нажимать.

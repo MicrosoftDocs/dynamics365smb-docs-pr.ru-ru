@@ -3,17 +3,17 @@ title: Настройка расчета налоговых разниц в Ро
 description: Российские усовершенствования включают расчет налоговых разниц по основным средствам.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 5da77cb6a2eb091aee4ba199ed5b54e28229ba3f
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: b2e1db270d2179b7cfca8ba1501a6755ad27e664
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3919759"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5383442"
 ---
 # <a name="setting-up-tax-difference-calculation"></a>Настройка расчета налоговых разниц
 

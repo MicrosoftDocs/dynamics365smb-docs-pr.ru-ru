@@ -3,19 +3,19 @@ title: Практическое руководство. Настройка кл�
 description: В этом разделе описываются шаги для настройки клиента, который осуществляет оплату наличными.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: a4f73de177129f5bc33808e6acf74bd273ae0d33
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 385a4906f36354a1b8c82f8b0a4232e3a1d35208
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3915564"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5387303"
 ---
 # <a name="set-up-cash-customers"></a>Настройка клиентов, оплачивающих наличными
 Счет не может быть создан без номера клиента. Это правило выполняется даже тогда, когда выполняется продажа с наличным расчетом, и по счету клиента записи не производятся.  

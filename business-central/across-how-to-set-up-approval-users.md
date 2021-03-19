@@ -3,19 +3,19 @@ title: Настройка утверждающих пользователей
 description: Прежде чем можно будет создавать рабочие процессы, которые включают шаги утверждения, необходимо настроить пользователей рабочих процессов, участвующих в процессах утверждения. На странице "Настройка пользователя для утверждений" также можно задавать лимиты по суммам для отдельных типов запросов и определять заместителей утверждающих лиц, которым делегируются запросы на утверждение в случае отсутствия исходного утверждающего лица.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/14/2020
 ms.author: edupont
-ms.openlocfilehash: d06d9762eccfd4fc10b56587ef816f5053453475
-ms.sourcegitcommit: 0ac6d539401c70a3b6b8520907f7ccba3c006468
+ms.openlocfilehash: 6069eb321a5924023234ef1e07839bb71b4847ef
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "4012040"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5384353"
 ---
 # <a name="set-up-approval-users"></a>Настройка утверждающих пользователей
 

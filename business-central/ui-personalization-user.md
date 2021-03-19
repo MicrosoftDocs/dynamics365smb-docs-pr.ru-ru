@@ -3,19 +3,19 @@ title: Персонализация страниц | Документация М
 description: Узнайте, как настраивать пользовательский интерфейс в соответствии с вашим способом работы в Business Central.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: customize, personalize, personalization, hide columns, remove fields, move fields, resize column, change column width
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 4b112bf05c1bbc6110ce3b5a439c81a96759d1bf
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: 083692ce38e9403705c6d683afb58a17dbecec90
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4756771"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5393803"
 ---
 # <a name="personalize-your-workspace"></a>Персонализация рабочей области
 Вы можете персонализировать свою рабочую область в соответствии со вашей работой и предпочтениями, изменяя страницы, чтобы на них отображалась только требуемая информация в тех местах, в которых она нужна. Сделанная вами персонализация изменяет только то, что видите вы, а не то, что видят другие пользователи.

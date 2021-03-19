@@ -3,19 +3,19 @@ title: Как планировать размещения в журналах | 
 description: Если на складе требуется обрабатывать и размещения, и приемки, и необходимо запланировать инструкции по размещению для нескольких приемок, то вместо того, чтобы работники выполняли инструкции, созданные приложением для каждой учтенной приходной накладной, можно воспользоваться журналом размещений.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 8b6837c9acec83654c7d85e98e93c00e30e50eb1
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: 1cf1a782a0c36e3f87935c8b2b965deb4ad04e9a
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4759746"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5383655"
 ---
 # <a name="plan-put-aways-in-worksheets"></a>Планирование размещений в журналах
 Если на складе требуется обрабатывать и размещения, и приемки, и необходимо запланировать инструкции по размещению для нескольких приемок, то вместо того, чтобы работники выполняли инструкции, созданные приложением для каждой учтенной приходной накладной, можно воспользоваться журналом размещений.  

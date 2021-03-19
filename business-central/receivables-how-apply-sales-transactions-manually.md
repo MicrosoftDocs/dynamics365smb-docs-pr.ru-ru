@@ -3,19 +3,19 @@ title: Применение операций книги клиентов для 
 description: Описывается порядок применения приходных кассовых ордеров или возмещений клиента к одной или нескольким открытым операциям книги клиентов и выверки платежей клиентов.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: payment process, cash receipt
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: c5f0ba926208d831cac4d5e3b54c5a8e83a9d92c
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: bf43e2ac755678f46549e220a49c87de61fc1901
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4748597"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5392728"
 ---
 # <a name="reconcile-customer-payments-with-the-cash-receipt-journal-or-from-customer-ledger-entries"></a>Сверка платежей клиентов с журналом кассовых поступлений или из книги операций по клиентам
 При получении кассовых поступлений от клиента или возврате денежных средств необходимо решить, следует ли применять платеж или возврат для закрытия одной или нескольких открытых дебетовых или кредитовых операций. Можно задать сумму, которую нужно применить. Например, можно применить частичные платежи к операциям книги клиентов. Закрытие операций книги клиентов позволяет убедиться, что информация, такая как статистика по клиенту, выписки по счету и финансовые расходы, правильная.

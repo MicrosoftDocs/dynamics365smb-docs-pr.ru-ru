@@ -4,19 +4,19 @@ description: Узнайте, как настроить серии номеров
 documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: numbers, numbering
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: b61f4fb5cdcee284b183a08c70224348c99530cd
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: db90c35bde2a08d6131e4a7102f9cdda1f36dfe8
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4757621"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5385953"
 ---
 # <a name="create-number-series"></a>Создание серий номеров
 В каждой настраиваемой организации таким объектам, как счета главной книги, клиентов и поставщиков, счета и другие документы, следует присвоить уникальные идентификационные коды. Нумерация необходима не только для идентификации. Хорошо продуманная система нумерации позволяет повысить управляемость организации, упростить анализ и сократить количество ошибок, возникающих при вводе данных.

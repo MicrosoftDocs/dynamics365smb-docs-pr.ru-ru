@@ -3,18 +3,18 @@ title: Функциональность локальной версии для �
 description: В следующих разделах описана функциональность локальной версии [!INCLUDE[prod_short](../../includes/prod_short.md)] для России.
 author: AliiaSalikhova
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.workload: na
 ms.search.keywords: ''
 ms.reviewer: edupont
 ms.date: 10/01/2020
 ms.author: soalex
-ms.openlocfilehash: c8efdaa52cbee467eea925716b15551759b84ce5
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: c8611f4929bd9a145ddc6c358f248b54e7e31593
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4753225"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5383450"
 ---
 # <a name="russia-local-functionality"></a>Функциональность локальной версии для России
 

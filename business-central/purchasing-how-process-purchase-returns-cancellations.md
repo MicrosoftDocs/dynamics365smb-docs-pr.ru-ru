@@ -3,19 +3,19 @@ title: Обработка возвратов продажи или отмен | 
 description: Описывается порядок создания и учета кредит-нот покупки, если нужно возвращать товары поставщику или отменять купленные услуги.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: cancel, undo, correct
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 0f8cc23b4108b460f4a9c6d890dcfd962b23f9e1
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: 674d178fca457e7b8b1f73d526245d64fbd6d35a
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4748747"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5383129"
 ---
 # <a name="process-purchase-returns-or-cancellations"></a>Обработка возвратов покупки или отмен
 
