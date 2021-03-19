@@ -2,26 +2,27 @@
 author: edupont04
 ms.service: dynamics365-business-central
 ms.topic: include
-ms.date: 01/20/2021
+ms.date: 01/25/2021
 ms.author: edupont
-ms.openlocfilehash: 718845561c1a18701d20b93ebdc8339308ce7ac8
-ms.sourcegitcommit: adf1a87a677b8197c68bb28c44b7a58250d6fc51
+ms.openlocfilehash: 539ee2eb2c9e4a71eacfb78d95320870128fb1d9
+ms.sourcegitcommit: cb06aa973f5c767df774b0e1e199c6fbe0e85b88
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "5035793"
+ms.lasthandoff: 02/17/2021
+ms.locfileid: "5470291"
 ---
-<span data-ttu-id="fe88e-101">Если все товары введены в строки заказа на продажу, можно вычислить скидку по счету для документа продажи в целом, выбрав действие **Вычислить скидку по счету**.</span><span class="sxs-lookup"><span data-stu-id="fe88e-101">When all the items have been entered on the sales order lines, you can calculate the invoice discount for the entire sales document by choosing the **Calculate Invoice Discount** action.</span></span>
+<span data-ttu-id="660aa-101">Если все товары введены в строки продажи, можно вычислить скидку по счету для документа в целом, выбрав действие **Вычислить скидку по счету**.</span><span class="sxs-lookup"><span data-stu-id="660aa-101">When all the items have been entered on the sales lines, you can calculate the invoice discount for the entire document by choosing the **Calculate Invoice Discount** action.</span></span>
 
-<span data-ttu-id="fe88e-102">Если поле **Расчет скидки по счету** выбрано в окне **Настройка продаж и расчетов с клиентами**, то скидка вычисляется автоматически, если выполнено одно из перечисленных ниже действий в документе по продаже:</span><span class="sxs-lookup"><span data-stu-id="fe88e-102">If the **Calc. Inv. Discount** field is selected in the **Sales and Receivables Setup** window, then the invoice discount is calculated automatically when you do either of the following on a sales document:</span></span>
+<span data-ttu-id="660aa-102">Скидка рассчитывается по всем строкам документа продажи для товаров, в которых поле **Разрешить скидку по счету** в строке заказа на продажу содержит **Да**.</span><span class="sxs-lookup"><span data-stu-id="660aa-102">The discount is calculated based on all the lines in the sales document for items where the **Allow Invoice Disc.** field on the sales order line contains **Yes**.</span></span> <span data-ttu-id="660aa-103">Это настройка по умолчанию для товаров.</span><span class="sxs-lookup"><span data-stu-id="660aa-103">This is the default setting for items.</span></span> <span data-ttu-id="660aa-104">Например, строки с товарными издержками не включаются в расчет скидки по счету.</span><span class="sxs-lookup"><span data-stu-id="660aa-104">Lines with item charges, for example, are not included in the calculation of the invoice discount.</span></span> <span data-ttu-id="660aa-105">Если вы хотите применить скидку к таким строкам, вы должны установить поле **Скидка строки (%)** в соответствующих строках.</span><span class="sxs-lookup"><span data-stu-id="660aa-105">If you want to apply a discount to such lines, you must set the **Line Discount %** field on the relevant lines.</span></span>  
 
-* <span data-ttu-id="fe88e-103">Просмотр статистики</span><span class="sxs-lookup"><span data-stu-id="fe88e-103">View statistics</span></span>
-* <span data-ttu-id="fe88e-104">Просмотр тестового отчета</span><span class="sxs-lookup"><span data-stu-id="fe88e-104">View a test report</span></span>
-* <span data-ttu-id="fe88e-105">Печать</span><span class="sxs-lookup"><span data-stu-id="fe88e-105">Print</span></span>
-* <span data-ttu-id="fe88e-106">Почта</span><span class="sxs-lookup"><span data-stu-id="fe88e-106">Post</span></span>
+> [!TIP]
+> <span data-ttu-id="660aa-106">Если поле **Расчет скидки по счету** выбрано на странице **Настройка продаж и расчетов с клиентами**, то скидка вычисляется автоматически, если выполнено одно из перечисленных ниже действий в документе по продаже:</span><span class="sxs-lookup"><span data-stu-id="660aa-106">If the **Calc. Inv. Discount** field is selected in the **Sales and Receivables Setup** page, then the invoice discount is calculated automatically when you do either of the following on a sales document:</span></span>
+>
+> * <span data-ttu-id="660aa-107">Просмотр статистики</span><span class="sxs-lookup"><span data-stu-id="660aa-107">View statistics</span></span>
+> * <span data-ttu-id="660aa-108">Просмотр тестового отчета</span><span class="sxs-lookup"><span data-stu-id="660aa-108">View a test report</span></span>
+> * <span data-ttu-id="660aa-109">Печать</span><span class="sxs-lookup"><span data-stu-id="660aa-109">Print</span></span>
+> * <span data-ttu-id="660aa-110">Почта</span><span class="sxs-lookup"><span data-stu-id="660aa-110">Post</span></span>
 
-<span data-ttu-id="fe88e-107">Скидка должна соразмерно распределяться по всем строкам документа продажи для товаров, в которых поле **Разрешить скидку по счету** в строке заказа на продажу содержит **Да**.</span><span class="sxs-lookup"><span data-stu-id="fe88e-107">The discount is apportioned over all the lines in the sales document for items where the **Allow Invoice Disc.** field on the sales order line contains **Yes**.</span></span> <span data-ttu-id="fe88e-108">Это настройка по умолчанию для товаров.</span><span class="sxs-lookup"><span data-stu-id="fe88e-108">This is the default setting for items.</span></span>
+<span data-ttu-id="660aa-111">Условия предоставления скидки для клиента задаются на странице **Клиент — скидки по счету** для клиента.</span><span class="sxs-lookup"><span data-stu-id="660aa-111">The invoice discount terms for a customer are defined in the **Cust. Invoice Discounts** page for the customer.</span></span> <span data-ttu-id="660aa-112">Код валюты в документе продажи используется для поиска условий предоставления скидки по счету в соответствующей валюте.</span><span class="sxs-lookup"><span data-stu-id="660aa-112">The currency code on the sales document is used to find the invoice discount terms in the corresponding currency.</span></span>
 
-<span data-ttu-id="fe88e-109">Определены условия предоставления скидки по счету на странице **Клиент - скидки по счету** для вычисления скидки по счету.</span><span class="sxs-lookup"><span data-stu-id="fe88e-109">The invoice discount terms are defined in the **Cust. Invoice Discounts** page to calculate the invoice discount.</span></span> <span data-ttu-id="fe88e-110">Код валюты в документе продажи используется для поиска условий предоставления скидки по счету в соответствующей валюте.</span><span class="sxs-lookup"><span data-stu-id="fe88e-110">The currency code on the sales document is used to find the invoice discount terms in the corresponding currency.</span></span>
-
-<span data-ttu-id="fe88e-111">Если скидки по счету не определены для иностранных валют, то будут использоваться условия скидки для счета, определенные на странице **Клиент - скидки счета** с суммами в местной валюте, и валютный курс на дату учета в документе продажи используется для расчета скидки по счету в иностранной валюте.</span><span class="sxs-lookup"><span data-stu-id="fe88e-111">If invoice discounts have not been defined for foreign currencies, then the invoice discount terms defined in the **Cust. Invoice Discounts** page with amounts in your local currency and the exchange rate on the posting date on the sales document are used to calculate the invoice discount in the foreign currency.</span></span>
+<span data-ttu-id="660aa-113">Если скидки по счету не определены для иностранных валют, то будут использоваться условия скидки для счета, определенные на странице **Клиент - скидки счета** с суммами в местной валюте, и валютный курс на дату учета в документе продажи используется для расчета скидки по счету в иностранной валюте.</span><span class="sxs-lookup"><span data-stu-id="660aa-113">If invoice discounts have not been defined for foreign currencies, then the invoice discount terms defined in the **Cust. Invoice Discounts** page with amounts in your local currency and the exchange rate on the posting date on the sales document are used to calculate the invoice discount in the foreign currency.</span></span>

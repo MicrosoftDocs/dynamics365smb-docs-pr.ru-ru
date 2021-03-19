@@ -3,39 +3,42 @@ title: Добавление комментариев к картам и доку
 description: Добавление дополнительной информации в счета, карты клиентов или заказы на продажу для сообщения о соглашениях, таких как особая цена или метод доставки, другим пользователям.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: tasks, work
 ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 3f84b6d7d03bd8766bfd485870cef8401a3e3382
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: 8cc5d17dacc7124774012cf299fe250ba78fbb47
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4754571"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5379352"
 ---
-# <a name="add-comments-to-cards-and-documents"></a><span data-ttu-id="c086f-103">Добавление комментариев к картам и документам</span><span class="sxs-lookup"><span data-stu-id="c086f-103">Add Comments to Cards and Documents</span></span>
-<span data-ttu-id="c086f-104">Можно добавить дополнительную информацию в счета ГК, карты клиентов или заказы на продажу для сообщения об исключениях или особых соглашениях для других пользователей.</span><span class="sxs-lookup"><span data-stu-id="c086f-104">You can add extra information to G/L accounts, customers cards, or sales orders to communicate exceptions or special agreements to other users.</span></span>
-<span data-ttu-id="c086f-105">Практически все карты и документы имеют действие **Комментарии**, которые открывают страницу **Лист комментариев**, в котором можно вводить или читать комментарии.</span><span class="sxs-lookup"><span data-stu-id="c086f-105">Practically all cards and document have a **Comments** action, which opens the **Comment Sheet** page where you can write or read comments.</span></span> <span data-ttu-id="c086f-106">В документах можно также добавить комментарии к отдельным строкам.</span><span class="sxs-lookup"><span data-stu-id="c086f-106">On documents, you can also add comments to individual lines.</span></span>
+# <a name="add-comments-to-cards-and-documents"></a><span data-ttu-id="7fa01-103">Добавление комментариев к картам и документам</span><span class="sxs-lookup"><span data-stu-id="7fa01-103">Add Comments to Cards and Documents</span></span>
+<span data-ttu-id="7fa01-104">Можно добавить дополнительную информацию в счета ГК, карты клиентов или заказы на продажу для сообщения об исключениях или особых соглашениях для других пользователей.</span><span class="sxs-lookup"><span data-stu-id="7fa01-104">You can add extra information to G/L accounts, customers cards, or sales orders to communicate exceptions or special agreements to other users.</span></span>
+<span data-ttu-id="7fa01-105">Практически все карты и документы имеют действие **Комментарии**, которые открывают страницу **Лист комментариев**, в котором можно вводить или читать комментарии.</span><span class="sxs-lookup"><span data-stu-id="7fa01-105">Practically all cards and document have a **Comments** action, which opens the **Comment Sheet** page where you can write or read comments.</span></span> <span data-ttu-id="7fa01-106">В документах можно также добавить комментарии к отдельным строкам.</span><span class="sxs-lookup"><span data-stu-id="7fa01-106">On documents, you can also add comments to individual lines.</span></span>
 
-<span data-ttu-id="c086f-107">Комментарии в текущих документах переносятся в связанный учтенный документ.</span><span class="sxs-lookup"><span data-stu-id="c086f-107">Comments on ongoing documents are transferred to the related posted document.</span></span> <span data-ttu-id="c086f-108">Комментарий, например, в заказе на продажу переносится в соответствующую учтенную отгрузку продажи.</span><span class="sxs-lookup"><span data-stu-id="c086f-108">For example, a comment on a sales order is transferred to a resulting posted sales shipment.</span></span>
+<span data-ttu-id="7fa01-107">Комментарии в текущих документах переносятся в связанный учтенный документ.</span><span class="sxs-lookup"><span data-stu-id="7fa01-107">Comments on ongoing documents are transferred to the related posted document.</span></span> <span data-ttu-id="7fa01-108">Комментарий, например, в заказе на продажу переносится в соответствующую учтенную отгрузку продажи.</span><span class="sxs-lookup"><span data-stu-id="7fa01-108">For example, a comment on a sales order is transferred to a resulting posted sales shipment.</span></span>
 
-<span data-ttu-id="c086f-109">Кроме того, можно указать, требуется ли, чтобы комментарии перемещались с одного типа документов в другой итоговый тип документа, например из заказа на продажу в счет продажи.</span><span class="sxs-lookup"><span data-stu-id="c086f-109">In addition, you can specify if you want comments to be transferred from one type of document to another resulting type of document, such as from a sales order to a sales invoice.</span></span> <span data-ttu-id="c086f-110">Это выполняется на страницах **Продажи и расчеты с дебиторами** и **Покупки и расчеты с кредиторами**, соответственно.</span><span class="sxs-lookup"><span data-stu-id="c086f-110">You do this in the **Sales & Receivables** and the **Purchases & Payables** pages respectively.</span></span>
+<span data-ttu-id="7fa01-109">Кроме того, можно указать, требуется ли, чтобы комментарии перемещались с одного типа документов в другой итоговый тип документа, например из заказа на продажу в счет продажи.</span><span class="sxs-lookup"><span data-stu-id="7fa01-109">In addition, you can specify if you want comments to be transferred from one type of document to another resulting type of document, such as from a sales order to a sales invoice.</span></span> <span data-ttu-id="7fa01-110">Это выполняется на страницах **Продажи и расчеты с дебиторами** и **Покупки и расчеты с кредиторами**, соответственно.</span><span class="sxs-lookup"><span data-stu-id="7fa01-110">You do this in the **Sales & Receivables** and the **Purchases & Payables** pages respectively.</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="c086f-111">Комментарии не печатаются и не выводятся в отчеты или внешние документы.</span><span class="sxs-lookup"><span data-stu-id="c086f-111">Comments are not printed or output to reports or externally-facing documents.</span></span>
+> <span data-ttu-id="7fa01-111">Комментарии не печатаются и не выводятся в отчеты или внешние документы.</span><span class="sxs-lookup"><span data-stu-id="7fa01-111">Comments are not printed or output to reports or externally-facing documents.</span></span>
 
-<span data-ttu-id="c086f-112">Ниже описано, как добавить комментарий в карточку товара.</span><span class="sxs-lookup"><span data-stu-id="c086f-112">The following describes how to add a comment to an item card.</span></span> <span data-ttu-id="c086f-113">Шаги аналогичны для всех остальных карт и документов, за исключением строк документа, для которых действие **Комментарии** находится в меню действий строки.</span><span class="sxs-lookup"><span data-stu-id="c086f-113">The steps are similar for all other cards and documents, except on document lines, the **Comments** action is placed on a lines action menu.</span></span>
+<span data-ttu-id="7fa01-112">Ниже описано, как добавить комментарий в карточку товара.</span><span class="sxs-lookup"><span data-stu-id="7fa01-112">The following describes how to add a comment to an item card.</span></span> <span data-ttu-id="7fa01-113">Шаги аналогичны для всех остальных карт и документов, за исключением строк документа, для которых действие **Комментарии** находится в меню действий строки.</span><span class="sxs-lookup"><span data-stu-id="7fa01-113">The steps are similar for all other cards and documents, except on document lines, the **Comments** action is placed on a lines action menu.</span></span>
 
-## <a name="to-add-a-comments-to-an-item-card"></a><span data-ttu-id="c086f-114">Для добавления комментариев в карточку товара</span><span class="sxs-lookup"><span data-stu-id="c086f-114">To add a comments to an item card</span></span>
-1. <span data-ttu-id="c086f-115">Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Товары**, затем выберите соответствующую ссылку.</span><span class="sxs-lookup"><span data-stu-id="c086f-115">Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Items**, and then choose the related link.</span></span>
-2. <span data-ttu-id="c086f-116">Откройте соответствующую карточку товара.</span><span class="sxs-lookup"><span data-stu-id="c086f-116">Open the relevant item card.</span></span>
-3. <span data-ttu-id="c086f-117">Выберите действие **Комментарии**.</span><span class="sxs-lookup"><span data-stu-id="c086f-117">Choose the **Comments** action.</span></span>
-4. <span data-ttu-id="c086f-118">На странице **Лист комментариев** можно ввести любой текст, затем выбрать кнопку **ОК**.</span><span class="sxs-lookup"><span data-stu-id="c086f-118">On the **Comment Sheet** page, enter any text, and then choose the **OK** button.</span></span>
+## <a name="to-add-a-comments-to-an-item-card"></a><span data-ttu-id="7fa01-114">Для добавления комментариев в карточку товара</span><span class="sxs-lookup"><span data-stu-id="7fa01-114">To add a comments to an item card</span></span>
+1. <span data-ttu-id="7fa01-115">Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Товары**, затем выберите соответствующую ссылку.</span><span class="sxs-lookup"><span data-stu-id="7fa01-115">Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Items**, and then choose the related link.</span></span>
+2. <span data-ttu-id="7fa01-116">Откройте соответствующую карточку товара.</span><span class="sxs-lookup"><span data-stu-id="7fa01-116">Open the relevant item card.</span></span>
+3. <span data-ttu-id="7fa01-117">Выберите действие **Комментарии**.</span><span class="sxs-lookup"><span data-stu-id="7fa01-117">Choose the **Comments** action.</span></span>
+4. <span data-ttu-id="7fa01-118">На странице **Лист комментариев** можно ввести любой текст, затем выбрать кнопку **ОК**.</span><span class="sxs-lookup"><span data-stu-id="7fa01-118">On the **Comment Sheet** page, enter any text, and then choose the **OK** button.</span></span>
 
-## <a name="see-also"></a><span data-ttu-id="c086f-119">См. также</span><span class="sxs-lookup"><span data-stu-id="c086f-119">See Also</span></span>
-<span data-ttu-id="c086f-120">[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="c086f-120">[Working with [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)</span></span>  
-[<span data-ttu-id="c086f-121">Общие бизнес-функции</span><span class="sxs-lookup"><span data-stu-id="c086f-121">General Business Functionality</span></span>](ui-across-business-areas.md)
+## <a name="see-also"></a><span data-ttu-id="7fa01-119">См. также</span><span class="sxs-lookup"><span data-stu-id="7fa01-119">See Also</span></span>
+<span data-ttu-id="7fa01-120">[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="7fa01-120">[Working with [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)</span></span>  
+[<span data-ttu-id="7fa01-121">Общие бизнес-функции</span><span class="sxs-lookup"><span data-stu-id="7fa01-121">General Business Functionality</span></span>](ui-across-business-areas.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

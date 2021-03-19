@@ -1,39 +1,47 @@
 ---
-title: Практическое руководство. Настройка методов отгрузки | Документация Майкрософт
+title: Настройка методов отгрузки
 description: Для предлагаемого метода отгрузки можно задать код и указать соответствующую информацию.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: incoterms
-ms.date: 10/01/2020
+ms.date: 03/09/2021
 ms.author: edupont
-ms.openlocfilehash: f1916724c995f875d15b931e919d07d2253dcdb1
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: 096b609d26ad24785f90634d725d751ac57b346e
+ms.sourcegitcommit: 35f7e24c301926b39094aa64fe608afd04fdb8e1
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4748298"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "5573305"
 ---
-# <a name="set-up-shipment-methods"></a><span data-ttu-id="5a13d-103">Настройка методов отгрузки</span><span class="sxs-lookup"><span data-stu-id="5a13d-103">Set Up Shipment Methods</span></span>
-<span data-ttu-id="5a13d-104">Зачастую методы отгрузки, называемые также ИНКОТЕРМС, зависят от товаров, клиентов и поставщиков.</span><span class="sxs-lookup"><span data-stu-id="5a13d-104">Shipment methods, also called incoterms, often depend on the items, the customers, and the vendors.</span></span> <span data-ttu-id="5a13d-105">Например, если клиент живет на острове, то товары могут быть ему отправлены или по воздуху, или морем.</span><span class="sxs-lookup"><span data-stu-id="5a13d-105">For example, if the customer lives on an island, they can choose to have items always shipped by air or always by sea.</span></span> <span data-ttu-id="5a13d-106">Некоторым клиентам может потребоваться доставка на следующий день.</span><span class="sxs-lookup"><span data-stu-id="5a13d-106">Some customers may require next day delivery.</span></span> <span data-ttu-id="5a13d-107">Другие могут захотеть забрать заказ.</span><span class="sxs-lookup"><span data-stu-id="5a13d-107">Some may want to pick up the order.</span></span> <span data-ttu-id="5a13d-108">В карточках клиента и поставщика определяется требуемый тип доставки.</span><span class="sxs-lookup"><span data-stu-id="5a13d-108">On the customer and vendor cards, you can specify what sort of delivery is desired.</span></span>
+# <a name="set-up-shipment-methods"></a><span data-ttu-id="83429-103">Настройка методов отгрузки</span><span class="sxs-lookup"><span data-stu-id="83429-103">Set Up Shipment Methods</span></span>
 
-<span data-ttu-id="5a13d-109">Описание и код каждого метода отгрузки настраивается на странице **Методы отгрузки**.</span><span class="sxs-lookup"><span data-stu-id="5a13d-109">You set up the description and code for each shipment method on the **Shipment Methods** page.</span></span> <span data-ttu-id="5a13d-110">Например, можно настроить код ФОБ и ввести "Франко-борт" в поле **Описание**.</span><span class="sxs-lookup"><span data-stu-id="5a13d-110">For example, you can set up the code FOB, and enter Free on Board in the **Description** field.</span></span> <span data-ttu-id="5a13d-111">Затем код можно ввести в поля **Код метода отгрузки** по всей программе, например, в карточку клиента.</span><span class="sxs-lookup"><span data-stu-id="5a13d-111">You can then enter the code in **Shipment Method Code** fields elsewhere in the system, such as on a customer card.</span></span> <span data-ttu-id="5a13d-112">После этого при создании заказов, счетов, кредит-нот и т. д. программа будет вводить описание, представленное данным кодом.</span><span class="sxs-lookup"><span data-stu-id="5a13d-112">Then when you create new orders, invoices, credit memos, and so on, the system will enter the description represented by the code.</span></span> <span data-ttu-id="5a13d-113">При необходимости его можно изменить в документе.</span><span class="sxs-lookup"><span data-stu-id="5a13d-113">You can change it on the document as needed.</span></span>
+<span data-ttu-id="83429-104">Часто методы отгрузки зависят от товаров, клиентов и поставщиков.</span><span class="sxs-lookup"><span data-stu-id="83429-104">Shipment methods often depend on the items, the customers, and the vendors.</span></span> <span data-ttu-id="83429-105">Например, если клиент живет на острове, то товары могут быть ему отправлены или по воздуху, или морем.</span><span class="sxs-lookup"><span data-stu-id="83429-105">For example, if the customer lives on an island, they can choose to have items always shipped by air or always by sea.</span></span> <span data-ttu-id="83429-106">Некоторым клиентам может потребоваться доставка на следующий день.</span><span class="sxs-lookup"><span data-stu-id="83429-106">Some customers may require next day delivery.</span></span> <span data-ttu-id="83429-107">Другие могут захотеть забрать заказ.</span><span class="sxs-lookup"><span data-stu-id="83429-107">Some may want to pick up the order.</span></span> <span data-ttu-id="83429-108">В карточках клиента и поставщика определяется требуемый тип доставки.</span><span class="sxs-lookup"><span data-stu-id="83429-108">On the customer and vendor cards, you can specify what sort of delivery is desired.</span></span>
 
-## <a name="to-set-up-a-shipment-code"></a><span data-ttu-id="5a13d-114">Настройка кода отгрузки</span><span class="sxs-lookup"><span data-stu-id="5a13d-114">To set up a shipment code</span></span>
-1. <span data-ttu-id="5a13d-115">Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Методы отгрузки**, затем выберите соответствующую ссылку.</span><span class="sxs-lookup"><span data-stu-id="5a13d-115">Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Shipment Methods**, and then choose the related link.</span></span>
-2. <span data-ttu-id="5a13d-116">На странице **Методы отгрузки** выберите действие **Создать**.</span><span class="sxs-lookup"><span data-stu-id="5a13d-116">On the **Shipment Methods** page, choose the **New** action.</span></span>
-3. <span data-ttu-id="5a13d-117">В новой строке определите код и описание для метода отгрузки.</span><span class="sxs-lookup"><span data-stu-id="5a13d-117">On the new line, specify a code and description for the shipment method.</span></span>
+<span data-ttu-id="83429-109">Описание и код каждого метода отгрузки настраивается на странице **Методы отгрузки**.</span><span class="sxs-lookup"><span data-stu-id="83429-109">You set up the description and code for each shipment method on the **Shipment Methods** page.</span></span> <span data-ttu-id="83429-110">Например, можно настроить код ФОБ и ввести "Франко-борт" в поле **Описание**.</span><span class="sxs-lookup"><span data-stu-id="83429-110">For example, you can set up the code FOB, and enter Free on Board in the **Description** field.</span></span> <span data-ttu-id="83429-111">Затем код можно ввести в поля **Код метода отгрузки** по всей программе, например, в карточку клиента.</span><span class="sxs-lookup"><span data-stu-id="83429-111">You can then enter the code in **Shipment Method Code** fields elsewhere in the system, such as on a customer card.</span></span> <span data-ttu-id="83429-112">После этого при создании заказов, счетов, кредит-нот и т. д. программа будет вводить описание, представленное данным кодом.</span><span class="sxs-lookup"><span data-stu-id="83429-112">Then when you create new orders, invoices, credit memos, and so on, the system will enter the description represented by the code.</span></span> <span data-ttu-id="83429-113">При необходимости его можно изменить в документе.</span><span class="sxs-lookup"><span data-stu-id="83429-113">You can change it on the document as needed.</span></span>
 
-## <a name="see-also"></a><span data-ttu-id="5a13d-118">См. также</span><span class="sxs-lookup"><span data-stu-id="5a13d-118">See Also</span></span>
-[<span data-ttu-id="5a13d-119">Инкотермс</span><span class="sxs-lookup"><span data-stu-id="5a13d-119">Incoterms</span></span>](https://iccwbo.org/resources-for-business/incoterms-rules)  
-[<span data-ttu-id="5a13d-120">Настройка экспедиторов</span><span class="sxs-lookup"><span data-stu-id="5a13d-120">Set Up Shipping Agents</span></span>](sales-how-to-set-up-shipping-agents.md)  
-<span data-ttu-id="5a13d-121">[Трассировка посылок](sales-how-track-packages.md)  </span><span class="sxs-lookup"><span data-stu-id="5a13d-121">[Track Packages](sales-how-track-packages.md)  </span></span>  
-[<span data-ttu-id="5a13d-122">Управление складом</span><span class="sxs-lookup"><span data-stu-id="5a13d-122">Warehouse Management</span></span>](warehouse-manage-warehouse.md)  
-[<span data-ttu-id="5a13d-123">Запасы</span><span class="sxs-lookup"><span data-stu-id="5a13d-123">Inventory</span></span>](inventory-manage-inventory.md)  
-<span data-ttu-id="5a13d-124">[Настройка управления складом](warehouse-setup-warehouse.md)   </span><span class="sxs-lookup"><span data-stu-id="5a13d-124">[Setting Up Warehouse Management](warehouse-setup-warehouse.md)   </span></span>  
-<span data-ttu-id="5a13d-125">[Управление сборкой](assembly-assemble-items.md)  </span><span class="sxs-lookup"><span data-stu-id="5a13d-125">[Assembly Management](assembly-assemble-items.md)  </span></span>  
-[<span data-ttu-id="5a13d-126">Сведения о проектировании: управление складом</span><span class="sxs-lookup"><span data-stu-id="5a13d-126">Design Details: Warehouse Management</span></span>](design-details-warehouse-management.md)  
-<span data-ttu-id="5a13d-127">[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="5a13d-127">[Working with [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)</span></span>  
+## <a name="to-set-up-a-shipment-method"></a><span data-ttu-id="83429-114">Настройка метода отгрузки</span><span class="sxs-lookup"><span data-stu-id="83429-114">To set up a shipment method</span></span>
+
+1. <span data-ttu-id="83429-115">Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Методы отгрузки**, затем выберите соответствующую ссылку.</span><span class="sxs-lookup"><span data-stu-id="83429-115">Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Shipment Methods**, and then choose the related link.</span></span>
+2. <span data-ttu-id="83429-116">На странице **Методы отгрузки** выберите действие **Создать**.</span><span class="sxs-lookup"><span data-stu-id="83429-116">On the **Shipment Methods** page, choose the **New** action.</span></span>
+3. <span data-ttu-id="83429-117">В новой строке определите код и описание для метода отгрузки.</span><span class="sxs-lookup"><span data-stu-id="83429-117">On the new line, specify a code and description for the shipment method.</span></span>
+
+> [!TIP]
+> <span data-ttu-id="83429-118">Если вы используете Инкотермс, настройте способы отгрузки для соответствующих правил Инкотермс.</span><span class="sxs-lookup"><span data-stu-id="83429-118">If you use Incoterms, set up shipment methods to represent the relevant Incoterms rules.</span></span>  
+
+## <a name="see-also"></a><span data-ttu-id="83429-119">См. также</span><span class="sxs-lookup"><span data-stu-id="83429-119">See Also</span></span>
+
+[<span data-ttu-id="83429-120">Настройка экспедиторов</span><span class="sxs-lookup"><span data-stu-id="83429-120">Set Up Shipping Agents</span></span>](sales-how-to-set-up-shipping-agents.md)  
+[<span data-ttu-id="83429-121">Трассировка посылок</span><span class="sxs-lookup"><span data-stu-id="83429-121">Track Packages</span></span>](sales-how-track-packages.md)  
+[<span data-ttu-id="83429-122">Управление складом</span><span class="sxs-lookup"><span data-stu-id="83429-122">Warehouse Management</span></span>](warehouse-manage-warehouse.md)  
+[<span data-ttu-id="83429-123">Запасы</span><span class="sxs-lookup"><span data-stu-id="83429-123">Inventory</span></span>](inventory-manage-inventory.md)  
+[<span data-ttu-id="83429-124">Настройка управления складом</span><span class="sxs-lookup"><span data-stu-id="83429-124">Setting Up Warehouse Management</span></span>](warehouse-setup-warehouse.md)  
+[<span data-ttu-id="83429-125">Управление сборкой</span><span class="sxs-lookup"><span data-stu-id="83429-125">Assembly Management</span></span>](assembly-assemble-items.md)  
+[<span data-ttu-id="83429-126">Сведения о проектировании: управление складом</span><span class="sxs-lookup"><span data-stu-id="83429-126">Design Details: Warehouse Management</span></span>](design-details-warehouse-management.md)  
+<span data-ttu-id="83429-127">[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="83429-127">[Working with [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)</span></span>  
+[<span data-ttu-id="83429-128">Инкотермс на iccwbo.org</span><span class="sxs-lookup"><span data-stu-id="83429-128">Incoterms on iccwbo.org</span></span>](https://iccwbo.org/resources-for-business/incoterms-rules)  
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]
