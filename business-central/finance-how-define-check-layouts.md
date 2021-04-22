@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: print check, customize
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: ac980cb4b64a39b7ed912a49b06c179ffc7219d9
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: 24d046d9284797e371a9cca98ad68618bf248be7
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5386503"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5781610"
 ---
 # <a name="select-a-check-layout"></a>Выбор макета платежного документа
 Вы можете разработать платежные документы в соответствии со стандартами, установленными местными органами власти. Изображения платежных документов можно печатать на английском, французском или испанском языке.

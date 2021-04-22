@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: payment process, cash receipt
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: bf43e2ac755678f46549e220a49c87de61fc1901
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: a0e2c67b3fd6cdd24074a0a59a012ce325692f16
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5392728"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5781717"
 ---
 # <a name="reconcile-customer-payments-with-the-cash-receipt-journal-or-from-customer-ledger-entries"></a>Сверка платежей клиентов с журналом кассовых поступлений или из книги операций по клиентам
 При получении кассовых поступлений от клиента или возврате денежных средств необходимо решить, следует ли применять платеж или возврат для закрытия одной или нескольких открытых дебетовых или кредитовых операций. Можно задать сумму, которую нужно применить. Например, можно применить частичные платежи к операциям книги клиентов. Закрытие операций книги клиентов позволяет убедиться, что информация, такая как статистика по клиенту, выписки по счету и финансовые расходы, правильная.

@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 87628f1983e0bafda9119ef3729dbb142c761b1a
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: 4bc130d6982d969084f7fcbf3618893978317f36
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5393128"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5786052"
 ---
 # <a name="block-items-from-sales-or-purchasing"></a>Блокировка товаров для продажи или покупки
 Можно заблокировать товар для ввода в строки документов продажи или покупки либо учета в любой транзакции. Например, это удобно, если товар имеет известный дефект. Если кто-то выберет заблокированный товар в документе продажи или покупки, он получит сообщение о том, что товар заблокирован.

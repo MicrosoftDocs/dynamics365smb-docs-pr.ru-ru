@@ -9,14 +9,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: essential, basic, user interface, application area, experience
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 9e53ef4e33d489de7ff92e537b01b8563e62ba77
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: 6991b640319abf43718c1832b8bbea17bce0a0f1
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5379637"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5784296"
 ---
 # <a name="change-which-features-are-displayed"></a>Изменение набора отображаемых функций
 [!INCLUDE[prod_short](includes/prod_short.md)] разработан, чтобы помочь вам вести свой бизнес независимо от размера и сложности. В основе продукта вы найдете такие важные функции, как финансовая отчетность, продажи, закупки и управление запасами. По мере увеличения сложности бизнеса вы можете, например, включить функциональность для управления производством и обслуживанием.
@@ -30,7 +30,7 @@ ms.locfileid: "5379637"
 | **Essential** |Отображаются все действия и поля для всех общих функций бизнеса.|
 | **Премиум** |Показывает все действия и поля для всех бизнес-функций, включая управление производством и обслуживанием.|
 
-Функциональности, которые можно выбрать в [!INCLUDE[prod_short](includes/prod_short.md)], отражают лицензии решения, называемые планами, которые определены для продукта. Сведения о планах Essential и Premium см. в разделе [Business Central](https://go.microsoft.com/fwlink/?linkid=870242) на маркетинговом сайте Microsoft Dynamics 365. См. также [Руководство по лицензированию [!INCLUDE[prod_short](includes/prod_short.md)]](https://go.microsoft.com/fwlink/?linkid=2068931) (требуется доступ к CustomerSource или PartnerSource).
+Функциональности, которые можно выбрать в [!INCLUDE[prod_short](includes/prod_short.md)], отражают лицензии решения, называемые планами, которые определены для продукта. Сведения о планах Essential и Premium см. в разделе [Business Central](https://go.microsoft.com/fwlink/?linkid=870242) на маркетинговом сайте Microsoft Dynamics 365. См. также [Руководство по лицензированию [!INCLUDE[prod_short](includes/prod_short.md)]](https://go.microsoft.com/fwlink/?linkid=2068931).
 
 > [!IMPORTANT]  
 > Все обычным пользователям решения должен быть назначен один и тот же план — Essential или Premium — прежде чем для компании можно будет выбрать соответствующую функциональность. Соответственно, один пользователь не может иметь доступ к функциональным компонентам Premium, если другой пользователь (или несколько других пользователей) имеют доступ только к функциональным компонентам Essential. Это не относится к пользователям типа "Член группы", "Внутренний администратор", "Внешний бухгалтер", "Делегированный администратор", который может быть назначен другой план, не такой, как остальным пользователям в решении.<br /><br /> Только пользователи типа Evaluation или Premium могут изменять значение в поле **Функциональность** с Essential на Premium.

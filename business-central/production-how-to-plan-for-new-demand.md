@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 1cc5ab20c89a1f58bf85a769ad45590bf234931c
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: ab3929a410a280494d806e7aeea5c54ce966769e
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5381294"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5787981"
 ---
 # <a name="plan-for-new-demand-order-by-order"></a>Последовательное планирование по каждому заказу
 Эта задача планирования может быть выполнена на странице **Планирование заказов**, в котором отображаются все данные нового спроса наряду со сведениями о готовности и предложениями по поставке. В окне обеспечиваются обзор и инструменты, необходимые для эффективного планирования спроса из строк продажи и компонентов и последующего непосредственного создания различных типов заказов поставки.  

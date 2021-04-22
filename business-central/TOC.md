@@ -82,14 +82,13 @@
 ##### [Сведения о проектировании. Изменения модуля codeunit 12: сопоставление глобальных переменных для строки учета финансового журнала](design-details-codeunit-12-changes-mapping-global-variables-for-general-journal-post-line.md)  
 ##### [Сведения о проектировании. Изменения модуля codeunit 12: изменения в процедурах учета финансовых журналов](design-details-codeunit-12-changes-changes-in-general-journal-post-procedures.md)
 #### Сведения о проектировании: операции набора измерений
-##### [Обзор записей набора измерений](design-details-dimension-set-entries.md)
 ##### [Сведения о проектировании: обзор операций набора измерений](design-details-dimension-set-entries-overview.md)  
 ##### [Сведения о проектировании: поиск комбинаций измерений](design-details-searching-for-dimension-combinations.md)  
 ##### [Сведения о проектировании: структура таблицы](design-details-table-structure.md)  
 
 ## Попробовать
 ### [Пробные версии и подписки](across-preview.md)
-### [Начало работы с Business Central](product-get-started.md)
+### [Подготовьтесь к ведению бизнеса](ui-get-ready-business.md)
 ### [Устранение неполадок при самостоятельной регистрации](ui-troubleshoot-self-signup.md)
 ### [Продление пробной версии](admin-extend-trial.md)
 ### [Отмена подписки или удаление Business Central](admin-cancel.md)
@@ -98,7 +97,7 @@
 
 <!--setup-->
 ## Настройка Business Central
-### [Настройка Business Central](setup.md)
+### [Обзор задач](setup.md)
 ### Настройка финансов
 #### [Настройка финансов](finance-setup-finance.md)
 #### [Настройка способов оплаты](finance-payment-methods.md)
@@ -240,42 +239,51 @@
 #### [Миграция данных клиента](admin-migrate-customer-data.md)
 #### [Создание настраиваемых пакетов конфигурации организации](admin-how-to-create-custom-company-configuration-packages.md)
 #### [Советы и подсказки: RapidStart Services](admin-tips-and-tricks-rapidstart-services.md)
-### Использование Outlook с Business Central
-#### [Использование Business Central в качестве папки "Входящие" для бизнеса в Outlook](admin-outlook.md)
-#### [Синхронизация с контактами в Microsoft Outlook](admin-synchronize-outlook-contacts.md)
-#### [Использование Business Central без Outlook](admin-no-outlook.md)
-### Использование Microsoft Teams с Business Central
-#### [Обзор](across-teams-overview.md)
-#### [Управление интеграцией команд](admin-teams-integration.md)
-#### [Установка приложения Business Central в Teams](across-install-app-for-teams.md)
-#### [Работа с данными Business Central в Teams](across-working-with-teams.md)
-#### [Вопросы и ответы по Teams](teams-faq.md)
-#### [Устранение неполадок](admin-teams-troubleshooting.md)
-### Использование Power BI с Business Central
-#### [Введение](admin-powerbi.md)
-#### Администратор
-##### [Обзор интеграции](admin-powerbi-overview.md)
-##### [Включение интеграции Power BI](admin-powerbi-setup.md)
-#### Конструктор
-##### [Приступая к созданию отчетов](across-how-use-financials-data-source-powerbi.md)
-##### [Создание отчетов для отображения данных списка](across-how-use-powerbi-reports-factbox.md)
-#### Потребитель
-##### [Работа с отчетами Power BI в Business Central](across-working-with-powerbi.md)
-##### [Работа с данными Business Central в Power BI](across-working-with-business-central-in-powerbi.md)
-##### [Использование приложений Business Central в Power BI](across-powerbi-business-central-apps.md)
-### Использование Power Automate с Business Central
-#### [Использование Business Central в автоматическом бизнес-процессе](across-how-use-financials-data-source-flow.md)
-### Использование Power Apps с Business Central
-#### [Подключение к данным Business Central для создания бизнес-приложения с помощью Power Apps](across-how-use-financials-data-source-powerapps.md)
-### [Переход с приложения QuickBooks на Business Central](across-quickbooks-to-business-edition.md)
-### [Получение Business Central на мобильном устройстве](install-mobile-app.md)
-### [Пакетное выставление счетов для Microsoft Bookings](finance-bookings.md)
-### [Использование одной и той же учетной записи Microsoft 365 в Business Central и Microsoft Invoicing](about-reuse-company-invoicing.md)
-### [Импорт бизнес-данных из других финансовых систем](across-import-data-configuration-packages.md)
-### [Настройка электронной почты](admin-how-setup-email.md)
+### Настройка электронной почты
+#### [Настройка электронной почты](admin-how-setup-email.md)
+#### Настройка папки "Входящие" для бизнеса в Outlook 
+##### [Использование Business Central в качестве папки "Входящие" для бизнеса в Outlook](admin-outlook.md)
+##### [Синхронизация с контактами в Microsoft Outlook](admin-synchronize-outlook-contacts.md)
+##### [Использование Business Central без Outlook](admin-no-outlook.md)
+### Настройка отчетов
+#### [Выбор отчета](across-report-selections.md)
+### Настройка подключений
+#### Использование Business Central в качестве папки "Входящие" для бизнеса в Outlook 
+##### [Обзор](admin-outlook.md)
+##### [Синхронизация с контактами в Microsoft Outlook](admin-synchronize-outlook-contacts.md)
+##### [Использование Business Central без Outlook](admin-no-outlook.md)
+#### Использование Microsoft Teams с Business Central
+##### [Обзор](across-teams-overview.md)
+##### [Управление интеграцией команд](admin-teams-integration.md)
+##### [Установка приложения Business Central в Teams](across-install-app-for-teams.md)
+##### [Поиск клиентов, поставщиков и контактов](across-search-contacts-teams.md)
+##### [Работа с данными Business Central в Teams](across-working-with-teams.md)
+##### [Изменение компании и других параметров](across-teams-settings.md)
+##### [Вопросы и ответы по Teams](teams-faq.md)
+##### [Устранение неполадок](admin-teams-troubleshooting.md)
+#### Использование Power BI с Business Central
+##### [Введение](admin-powerbi.md)
+##### Администратор
+###### [Обзор интеграции](admin-powerbi-overview.md)
+###### [Включение интеграции Power BI](admin-powerbi-setup.md)
+##### Конструктор
+###### [Приступая к созданию отчетов](across-how-use-financials-data-source-powerbi.md)
+###### [Создание отчетов для отображения данных списка](across-how-use-powerbi-reports-factbox.md)
+##### Потребитель
+###### [Работа с отчетами Power BI в Business Central](across-working-with-powerbi.md)
+###### [Работа с данными Business Central в Power BI](across-working-with-business-central-in-powerbi.md)
+###### [Использование приложений Business Central в Power BI](across-powerbi-business-central-apps.md)
+#### Использование Power Automate с Business Central
+##### [Использование Business Central в автоматическом бизнес-процессе](across-how-use-financials-data-source-flow.md)
+#### Использование Power Apps с Business Central
+##### [Подключение к данным Business Central для создания бизнес-приложения с помощью Power Apps](across-how-use-financials-data-source-powerapps.md)
+#### [Переход с приложения QuickBooks на Business Central](across-quickbooks-to-business-edition.md)
+#### [Пакетное выставление счетов для Microsoft Bookings](finance-bookings.md)
+#### [Импорт бизнес-данных из других финансовых систем](across-import-data-configuration-packages.md)
 ### [Создание серий номеров](ui-create-number-series.md)
-### [Выбор отчета](across-report-selections.md)
 ### [Настройка базовых календарей](across-how-to-assign-base-calendars.md)
+### [Настройка принтеров](ui-specify-printer-selection-reports.md)
+### [Получение Business Central на мобильном устройстве](install-mobile-app.md)
 
 ## Вопросы и ответы
 ### [Вопросы и ответы](across-faq.md)
@@ -290,7 +298,6 @@
 
 ## Справка и поддержка
 ### [Ресурсы для справки и поддержки](product-help-and-support.md)
-### [Система справки](/dynamics365/business-central/dev-itpro/user-assistance?toc=/dynamics365/business-central/toc.json)
 ### [Посетите нашу библиотеку видео](across-videos.md)
 ### [Техническая поддержка](/dynamics365/business-central/dev-itpro/technical-support?toc=/dynamics365/business-central/toc.json)
 <!--## Learn
@@ -299,10 +306,10 @@
 ### [Business Functionality Learning Paths](/learn/browse/?products=dynamics-business-central&roles=business-user&resource_type=learning%20path)
 ### Resources for a Business Decision Maker
 #### [Learning catalog](readiness/readiness-learning-bus-decision-makers.md)
-#### [Documentation](product-get-started.md)
+#### [Getting Ready for Doing Business](ui-get-ready-business.md)
 ### Resources for a Business User
 #### [Learning catalog](readiness/readiness-learning-bus-users.md)
-#### [Documentation](product-get-started.md)
+#### [Getting Ready for Doing Business](ui-get-ready-business.md)
 ### Resources for a Developer
 #### [Learning catalog](readiness/readiness-learning-developers.md)
 #### [Documentation](/dynamics365/business-central/dev-itpro/developer/devenv-dev-overview?toc=/dynamics365/business-central/toc.json)-->
@@ -354,8 +361,7 @@
 ### [Сочетания клавиш](keyboard-shortcuts.md)
 ### [Краткая справка по сочетаниям клавиш — только ПК](keyboard-shortcuts-cheatsheet.md)
 ## [Устранение неполадок: доступ к камере и геопозиции](ui-troubleshooting-camera-location.md)
-## [Доступ к интеллектуальному облаку с Business Central](about-intelligent-cloud.md)
-## [Пошаговое руководство. Трассировка серийных номеров и номеров партии](walkthrough-tracing-serial-lot-numbers.md)
+## [Интеллектуальная аналитика (только сетевая версия)](about-intelligent-cloud.md)
 # Функциональные бизнес-возможности
 ## [Обзор бизнес-функций](across-business-functionality.md)
 <!--general-->
@@ -618,12 +624,12 @@
 ### [Категоризация товаров](inventory-how-categorize-items.md)
 ### [Работа с атрибутами товаров](inventory-how-work-item-attributes.md)
 ### [Работа с товарами из каталога](inventory-how-work-nonstock-items.md)
-### [Подсчет запасов с использованием документов](inventory-how-count-inventory-with-documents.md)
+### [Подсчет и корректировка запасов с использованием документов](inventory-how-count-inventory-with-documents.md)
 ### [Подсчет, корректировка и повторная классификация запасов с помощью журналов](inventory-how-count-adjust-reclassify.md)
 ### [Просмотр наличия товара](inventory-how-availability-overview.md)
 ### [Перемещение запасов между складами](inventory-how-transfer-between-locations.md)
 ### [Резервирование товаров](inventory-how-to-reserve-items.md)
-### [Работа с серийными номерами и номерами партий](inventory-how-work-item-tracking.md)
+### [Отслеживание товаров по серийному номеру, номеру партии и номеру упаковки](inventory-how-work-item-tracking.md)
 ### [Использование перекрестных ссылок по товару](inventory-how-use-item-cross-refs.md)
 ### [Трассировка товаров, трассируемых по товарам](inventory-how-to-trace-item-tracked-items.md)
 ### [Блокировка товаров](inventory-how-block-items.md)
@@ -865,34 +871,27 @@
 ##### [Настройка типов деклараций](LocalFunctionality/Belgium/how-to-set-up-declaration-types.md)
 ##### [Экспорт деклараций Интрастат третьей стороны](LocalFunctionality/Belgium/how-to-export-intrastat-third-party-declararations.md)
 #### Банковские операции и платежи
-##### [Настройка банковских счетов для CODA](LocalFunctionality/Belgium/how-to-set-up-bank-accounts-for-coda.md)
-##### [Применение выписок CODA](LocalFunctionality/Belgium/how-to-apply-coda-statements.md)
-##### [Автоматический перенос и учет выписок CODA](LocalFunctionality/Belgium/how-to-automatically-transfer-and-post-coda-statements.md)
-##### [Банковские выписки CODA](LocalFunctionality/Belgium/coda-bank-statements.md)
-##### [Бельгийская электронная система платежей](LocalFunctionality/Belgium/belgian-electronic-banking.md)
-##### [Настройка электронной системы платежей](LocalFunctionality/Belgium/how-to-set-up-electronic-banking.md)
+##### [Электронная система платежей (BE)](LocalFunctionality/Belgium/belgian-electronic-banking.md)
+##### [Электронные платежи (BE)](LocalFunctionality/Belgium/belgian-electronic-payments.md)
 ##### [Настройка протоколов экспорта](LocalFunctionality/Belgium/how-to-set-up-export-protocols.md)
-##### [Бельгийские электронные платежи](LocalFunctionality/Belgium/belgian-electronic-payments.md)
-##### [Настройка кодов транзакций IBLC-BLWI](LocalFunctionality/Belgium/how-to-set-up-iblc-blwi-transaction-codes.md)
+##### [Суммирование строк платежей и строк финансового журнала](LocalFunctionality/Belgium/summarizing-payment-lines-and-general-journal-lines.md)
 ##### [Настройка поставщиков для автоматических предложений по оплате](LocalFunctionality/Belgium/how-to-set-up-vendors-for-automatic-payment-suggestions.md)
 ##### [Создание шаблонов и разделов журнала платежей](LocalFunctionality/Belgium/how-to-create-payment-journal-templates-and-batches.md)
 ##### [Проверка электронных платежей](LocalFunctionality/Belgium/how-to-test-electronic-payments.md)
-##### [Формирование предложений по оплате](LocalFunctionality/Belgium/how-to-generate-payment-suggestions.md)
-##### [Импорт выписок CODA](LocalFunctionality/Belgium/how-to-import-coda-statements.md)
-##### [Управление строками электронного платежа](LocalFunctionality/Belgium/how-to-manage-electronic-payment-lines.md)
-##### [Перенос и учет выписок CODA вручную](LocalFunctionality/Belgium/how-to-manually-transfer-and-post-coda-statements.md)
 ##### [Печать файлов платежей](LocalFunctionality/Belgium/how-to-print-payment-files.md)
-##### [Платежи SEPA](LocalFunctionality/Belgium/sepa-payments.md)
 ##### [Активация платежей SEPA](LocalFunctionality/Belgium/how-to-activate-sepa-payments.md)
 ##### [Подача заявок на платежи SEPA в валюте, отличной от евро](LocalFunctionality/Belgium/how-to-file-non-euro-sepa-payments.md)
-##### [Подача заявки на платежи SEPA](LocalFunctionality/Belgium/how-to-file-sepa-payments.md)
 ##### [Прямое дебетование с помощью домицилирования](LocalFunctionality/Belgium/direct-debit-using-domiciliation.md)
 ##### [Настройка домицилирований](LocalFunctionality/Belgium/how-to-set-up-domiciliations.md)
 ##### [Изменение и удаление строк домицилирования](LocalFunctionality/Belgium/how-to-edit-and-delete-domiciliation-lines.md)
 ##### [Проверка домицилирований](LocalFunctionality/Belgium/how-to-test-domiciliations.md)
 ##### [Экспорт и учет домицилирований](LocalFunctionality/Belgium/how-to-export-and-post-domiciliations.md)
 ##### [Формирование предложений домицилирования](LocalFunctionality/Belgium/how-to-generate-domiciliation-suggestions.md)
-##### [Суммирование строк платежей и строк финансового журнала](LocalFunctionality/Belgium/summarizing-payment-lines-and-general-journal-lines.md)
+##### [Банковские выписки CODA](LocalFunctionality/Belgium/coda-bank-statements.md)
+##### [Применение выписок CODA](LocalFunctionality/Belgium/how-to-apply-coda-statements.md)
+##### [Автоматический перенос и учет выписок CODA](LocalFunctionality/Belgium/how-to-automatically-transfer-and-post-coda-statements.md)
+##### [Перенос и учет выписок CODA вручную](LocalFunctionality/Belgium/how-to-manually-transfer-and-post-coda-statements.md)
+##### [Импорт выписок CODA](LocalFunctionality/Belgium/how-to-import-coda-statements.md)
 #### Основные финансы
 ##### [Применение и отмена операций главной книги](LocalFunctionality/Belgium/how-to-apply-and-unapply-general-ledger-entries.md)
 ##### [Создание финансовых журналов](LocalFunctionality/Belgium/how-to-create-financial-journals.md)
@@ -918,6 +917,8 @@
 
 ### Чешская Республика
 #### [Локальная функциональность в чешской версии](LocalFunctionality/Czech/czech-local-functionality.md)
+#### [Пакет основной локализации для чешского языка (расширение)](LocalFunctionality/Czech/ui-extensions-core-localization-pack-cz.md)
+#### [Расширенная локализация для чешского языка (расширение)](LocalFunctionality/Czech/ui-extensions-advanced-localization-pack-cz.md)
 #### Основные финансы  
 ##### [Финансы](LocalFunctionality/Czech/finance.md)
 ##### [Операции при закрытии года](LocalFunctionality/Czech/year-close-operations.md)
@@ -928,6 +929,7 @@
 ##### [Отчет контроля НДС](LocalFunctionality/Czech/vat-control-report.md)
 #### Основные средства
 ##### [Основные Средства](LocalFunctionality/Czech/fixed-assets.md)
+##### [Локализация основных средств для чешского языка (расширение)](LocalFunctionality/Czech/ui-extensions-fixed-asset-localization-cz.md)
 #### Банковские операции и платежи
 ##### [Функция банка](LocalFunctionality/Czech/bank-feature.md)
 ##### [Управление кассой](LocalFunctionality/Czech/cash-desk-management.md)
@@ -943,7 +945,6 @@
 #### Общие
 ##### [Расширенный контроль пользователей](LocalFunctionality/Czech/general.md)
 ##### [Рекомендации](LocalFunctionality/Czech/best-practices.md)
-##### [Пакет основной локализации для чешского языка (расширение)](LocalFunctionality/Czech/ui-extensions-core-localization-pack-cz.md)
 
 ### Дания
 #### [Локальная функциональность в датской версии](LocalFunctionality/Denmark/denmark-local-functionality.md)
@@ -1126,6 +1127,16 @@
 ###### [GST E-Way Bill](LocalFunctionality/India/GST-E-Way-Bill.md)
 ###### [Налог с продаж, корректировка входящего кредита](LocalFunctionality/India/GST-Input-Tax-Credit-Adjustment.md)
 ###### [Зачет налога с продаж](LocalFunctionality/India/GST-Settelement.md)
+###### [Электронный счет налога с продаж](LocalFunctionality/India/GST-E-Invoice.md)
+##### Налог с продаж Cess
+###### [Базовая настройка налога с продаж Cess](LocalFunctionality/India/GST-Cess-Basic-Setup.md)
+###### [Расчет налога с продаж Cess](LocalFunctionality/India/GST-Cess-Calculations.md)
+##### Налог с продаж на сервисный центр
+###### [Налог с продаж на сервисный центр](LocalFunctionality/India/GST-Service-Management.md)
+##### Распределение услуг ввода налога с продаж
+###### [Обзор распределения услуг ввода налога с продаж](LocalFunctionality/India/GST-Input-Service-Distribution-Overview.md)
+###### [Процесс распределения услуг ввода налога с продаж](LocalFunctionality/India/GST-Input-Service-Distribution-Process.md)
+###### [Транзакция распределения услуг ввода налога с продаж](LocalFunctionality/India/GST-Input-Service-Distribution-Transaction.md)
 #### TDS
 ##### [Обзор TDS](LocalFunctionality/India/TDS-Overview.md)
 ##### [Транзакции TDS](LocalFunctionality/India/TDS-Transactions.md)
@@ -1143,9 +1154,23 @@
 ##### [Порог TCS](LocalFunctionality/India/TCS-Threshold.md)
 ##### [Запись о корректировке TCS](LocalFunctionality/India/TCS-Adjustment-Entries.md)
 ##### [Оплата в налоговый орган TCS](LocalFunctionality/India/TCS-Payment-to-Authority.md)
+##### [Обзор-206C-1H](LocalFunctionality/India/TCS-206C-1H-Overview.md)
+##### [Транзакция-206C-1H](LocalFunctionality/India/TCS-206C-1H-Transactions.md)
 #### Интерфейс ваучера
 ##### [Обзор интерфейса ваучера](LocalFunctionality/India/Vouche-Interface-Overview.md)
 ##### [Транзакция интерфейса ваучера](LocalFunctionality/India/Voucher-Interface-Transactions.md)
+#### Основное средство
+##### [Обзор основных средств](LocalFunctionality/India/FA_Overview.md)
+##### [Амортизация ОС](LocalFunctionality/India/FA_Depreciation.md)
+#### Gate Entry
+##### [Обзор Gate Entry](LocalFunctionality/India/Gate-Entry-001-Basic-Setup.md)
+##### [Входящая транзакция Gate Entry](LocalFunctionality/India/Gate-Entry-Inward_Transactions.md)
+##### [Исходящая транзакция Gate Entry](LocalFunctionality/India/Gate-Entry-Outward_Transactions.md)
+#### Субподряд
+##### [Обзор субподряда](LocalFunctionality/India/Subcontracting-001-Basic-Setup.md)
+##### [Субподрядные сделки](LocalFunctionality/India/Subcontracting-Transactions.md)
+##### [Создание обязательств по налогу с продаж](LocalFunctionality/India/Subcontracting-Create-GST-Liability.md)
+##### [Отчет о субподряде](LocalFunctionality/India/Subcontracting-Reports.md)
 
 ### Италия
 #### [Локальная функциональность в итальянской версии](LocalFunctionality/Italy/italy-local-functionality.md)
@@ -1585,8 +1610,8 @@
 #### [Envestnet Yodlee Bank Feeds](ui-extensions-yodlee-bank-feeds.md)
 #### [Важная бизнес-аналитика](ui-extensions-essential-business-insights.md)
 #### [Анализатор изображений](ui-extensions-image-analyzer.md)
-#### [Интеллектуальное облако](ui-extensions-data-replication.md)
-#### [База интеллектуального облака](ui-extensions-intelligent-cloud.md)
+#### [Расширения облачной миграции](ui-extensions-data-replication.md)
+#### [База облачной миграции](ui-extensions-intelligent-cloud.md)
 #### [Прогнозы просрочки оплаты](ui-extensions-late-payment-prediction.md)
 #### [Microsoft Pay](ui-extensions-microsoft-pay-payments.md)
 #### [PayPal Payments Standard](ui-extensions-paypal-payments-standard.md)
@@ -1622,7 +1647,7 @@
 ### [Миграция из локальной системы Business Central](/dynamics365/business-central/dev-itpro/administration/migrate-business-central-on-premises?toc=/dynamics365/business-central/toc.json)
 ### [Переход с Dynamics GP](/dynamics365/business-central/dev-itpro/administration/migrate-dynamics-gp?toc=/dynamics365/business-central/toc.json)
 ### [Переход с Dynamics NAV](/dynamics365/business-central/dev-itpro/upgrade/Upgrade-Considerations#online?toc=/dynamics365/business-central/toc.json)
-### [Вопросы и ответы по подключению к интеллектуальному облаку](/dynamics365/business-central/dev-itpro/administration/faq-intelligent-cloud?toc=/dynamics365/business-central/toc.json)
+### [Часто задаваемые вопросы о переходе в облако](/dynamics365/business-central/dev-itpro/administration/faq-intelligent-cloud?toc=/dynamics365/business-central/toc.json)
 ## [Администрирование в Business Central Online](/dynamics365/business-central/dev-itpro/administration/tenant-administration?toc=/dynamics365/business-central/toc.json)
 ## [Разработка](/dynamics365/business-central/dev-itpro/developer/devenv-dev-overview?toc=/dynamics365/business-central/toc.json)
 ## [Защита и безопасность](/dynamics365/business-central/dev-itpro/security/security-and-protection?toc=/dynamics365/business-central/toc.json)

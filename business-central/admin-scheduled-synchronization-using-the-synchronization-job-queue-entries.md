@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: sales, crm, integration, sync, synchronize
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: 2d1d04b5273329186c362866493303f5f4ad7450
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: 4948dac105a62501ee3006cce0683be819db7ce8
+ms.sourcegitcommit: 951d3c9d541f0b1d26712d37e253c2958dae3321
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5385328"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "5889209"
 ---
 # <a name="scheduling-a-synchronization-between-business-central-and-dataverse"></a>Планирование синхронизации между Business Central и Dataverse
 [!INCLUDE[prod_short](includes/cc_data_platform_banner.md)]
@@ -72,7 +72,7 @@ ms.locfileid: "5385328"
 
 Если значение в этом поле не равно нулю и очередь заданий не обнаружила изменений во время последнего запуска, [!INCLUDE[prod_short](includes/prod_short.md)] приостанавливает операцию очереди работ. Когда это происходит, поле **Статус очереди работ** содержит значение **На удержании из-за неактивности**, а [!INCLUDE[prod_short](includes/prod_short.md)] ждет в течение периода времени, указанного в поле **Таймаут неактивности**, после чего снова запускает очередь работ.  
 
-Например, по умолчанию операция очереди работ CURRENCY, которая синхронизирует валюты в [!INCLUDE[cds_long_md](includes/cds_long_md.md)] с обменными курсами в [!INCLUDE[prod_short](includes/prod_short.md)], будет искать изменения обменных курсов каждые 30 минут. Если никаких изменений не найдено, [!INCLUDE[prod_short](includes/prod_short.md)] переводит операцию очереди работу CURRENCY на удержание на 720 минут (шесть часов). Если обменный курс изменяется в [!INCLUDE[prod_short](includes/prod_short.md)], пока операция очереди работ находится на удержании, [!INCLUDE[prod_short](includes/prod_short.md)] автоматически заново активирует операцию очереди работ и перезапускает очередь работ. 
+Например, по умолчанию операция очереди работ CURRENCY, которая синхронизирует валюты в [!INCLUDE[cds_long_md](includes/cds_long_md.md)] с обменными курсами в [!INCLUDE[prod_short](includes/prod_short.md)], будет искать изменения обменных курсов каждые 30 минут. Если никаких изменений не найдено, [!INCLUDE[prod_short](includes/prod_short.md)] переводит операцию очереди работу CURRENCY на удержание на 720 минут (двенадцать часов). Если обменный курс изменяется в [!INCLUDE[prod_short](includes/prod_short.md)], пока операция очереди работ находится на удержании, [!INCLUDE[prod_short](includes/prod_short.md)] автоматически заново активирует операцию очереди работ и перезапускает очередь работ. 
 
 > [!Note]
 > [!INCLUDE[prod_short](includes/prod_short.md)] автоматически активирует операции очереди работ, которые находятся на удержании только тогда, когда в [!INCLUDE[prod_short](includes/prod_short.md)] происходят изменения. Изменения в [!INCLUDE[cds_long_md](includes/cds_long_md.md)] не активируют операции очереди работ.

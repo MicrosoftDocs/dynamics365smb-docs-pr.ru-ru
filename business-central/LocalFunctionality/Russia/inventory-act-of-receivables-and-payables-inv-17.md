@@ -5,15 +5,15 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 983db00b8e0ff0513ff48aa9890313fd171a807e
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: bef0d9a07793bc73a191c4832423777362dfaf10
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5383470"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5786663"
 ---
 # <a name="inventory-act-of-receivables-and-payables-inv-17"></a>Акт инвентаризации расчетов с клиентами и поставщиками ИНВ-17
 

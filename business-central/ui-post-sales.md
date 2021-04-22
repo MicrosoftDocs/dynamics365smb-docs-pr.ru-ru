@@ -1,5 +1,5 @@
 ---
-title: Учет документов продаж | Документация Майкрософт
+title: Учет документов о продаже
 description: Узнайте о различных функциях учета для учета торговых документов, а также о том, как можно обновлять учтенные документы.
 author: SorenGP
 ms.service: dynamics365-business-central
@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.reviewer: edupont
-ms.date: 12/03/2020
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: e0d1bd7770eb3bb44a2e9b3203ffa158a246cfa9
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: e59c48c31e897d235c7920f4231313a2332fdf06
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5392053"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5783263"
 ---
 # <a name="posting-sales"></a>Учет продаж
 
@@ -28,7 +28,8 @@ ms.locfileid: "5392053"
 * **Пакетный учет**
 * **Тестовый отчет**
 
-> [!ПРИМЕЧАНИЕ] Для заказов на продажу вы также можете увидеть параметры, связанные с функцией предоплаты. Дополнительные сведения см. в разделе [Выставление счетов на предоплату](finance-invoice-prepayments.md). 
+> [!NOTE]
+> Для заказов на продажу вы также можете увидеть параметры, связанные с функцией предоплаты. Дополнительные сведения см. в разделе [Выставление счетов на предоплату](finance-invoice-prepayments.md).
 
 После заполнения всех строк и ввода всей информации в заказ на продажу его можно учесть. Это создает отгрузку и счет.
 
@@ -65,5 +66,4 @@ ms.locfileid: "5392053"
 [Поиск страниц и информации с помощью функции "Что вы хотите сделать"](ui-search.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
 
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]
+[!INCLUDE[footer-include](includes/footer-banner.md)]  

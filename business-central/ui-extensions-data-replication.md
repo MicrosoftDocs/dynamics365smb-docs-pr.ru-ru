@@ -1,5 +1,5 @@
 ---
-title: Расширения интеллектуального облака Business Central для миграции в облако | Microsoft Docs
+title: Расширения облачной миграции
 description: Используйте расширения облачной миграции для переноса локальных данных в сетевую версию Business Central. Эти расширения перемещают ваши локальные данные в облако, чтобы вы могли использовать сетевую версию Business Central с вашими существующими данными.
 author: jenolson
 ms.service: dynamics365-business-central
@@ -9,16 +9,16 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms. search.keywords: app, add-in, manifest, customize, import, implement
 ms.reviewer: edupont
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 5d6110744f14cb959494e2fd5c9b970bd339a77f
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: f02face497affd1fd1467c118e10e69f2be39b85
+ms.sourcegitcommit: 951d3c9d541f0b1d26712d37e253c2958dae3321
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5377352"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "5889128"
 ---
-# <a name="intelligent-cloud-extensions-for-cloud-migration"></a>Расширение интеллектуального облака для миграции в облако
+# <a name="cloud-migration-extensions-for-migrating-to-business-central-online"></a>Расширения облачной миграции для перехода на Business Central Online
 
 В зависимости от вашего локального решения вы должны использовать разные расширения для подключения ваших данных к [!INCLUDE[prod_short](includes/prod_short.md)] Online с целью переноса вашего решения в облако.  
 
@@ -43,8 +43,7 @@ ms.locfileid: "5377352"
 
 ## <a name="see-also"></a>См. также
 
-[Интеллектуальная аналитика](about-intelligent-cloud.md)  
-[Базовое расширение интеллектуального облака](ui-extensions-intelligent-cloud.md)  
-
+[Базовое расширение миграции в облако](ui-extensions-intelligent-cloud.md)  
+[Миграция локальных данных в Business Central Online](/dynamics365/business-central/dev-itpro/administration/migrate-data)  
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

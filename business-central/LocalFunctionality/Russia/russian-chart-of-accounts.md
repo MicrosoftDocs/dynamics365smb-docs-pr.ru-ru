@@ -5,15 +5,15 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 1622fe2bac7ccc9fc9bfa616c3e7d3faf62dd144
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: dcbbb79986fdf213638de9e53292fc8d542fb29c
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5383448"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5781409"
 ---
 # <a name="russian-chart-of-accounts"></a>Российский план счетов
 

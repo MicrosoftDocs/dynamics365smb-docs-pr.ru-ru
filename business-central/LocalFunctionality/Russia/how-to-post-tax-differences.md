@@ -5,15 +5,15 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: c77d1066ef2e0e68228138e4d12b50ae41dccd33
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: 56511dff631ef1e1f309745fe26c0ec61660a3d2
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5382745"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5784637"
 ---
 # <a name="post-tax-differences"></a>Учет налоговых разниц
 

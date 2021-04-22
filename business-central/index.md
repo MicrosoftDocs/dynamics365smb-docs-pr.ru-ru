@@ -7,38 +7,42 @@ ms.topic: landing-page
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.date: 12/15/2020
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 836c3957f43d4b2d6ccb5e10bf8ef5efa3ba1177
-ms.sourcegitcommit: a9d48272ce61e5d512a30417412b5363e56abf30
+ms.openlocfilehash: 342d58b58945f9d09da406723ea7dd6c86785482
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "5493207"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5786277"
 ---
 # <a name="welcome-to-prod_long"></a>Добро пожаловать в [!INCLUDE[prod_long](includes/prod_long.md)]
 
 [!INCLUDE[prod_short](includes/prod_short.md)] — это решение по управлению деятельностью для малых и средних предприятий, позволяющее автоматизировать и упростить бизнес процессы и лучше управлять бизнесом. Легко настраиваемое, с множеством полезных функций, [!INCLUDE[prod_short](includes/prod_short.md)] позволяет организациям управлять деятельностью, включая финансы, производство, продажи, отгрузку, управление проектом, оказание услуг и т. д. Решение позволяет легко добавлять функциональность, специфическую для региона, в котором осуществляется деятельность, а также для сферы деятельности организации.  
 
-Если у вас уже есть [!INCLUDE[prod_short](includes/prod_short.md)], то войдите на [https://businesscentral.dynamics.com](https://businesscentral.dynamics.com). В противном случае, [просмотрите обзор](https://dynamics.microsoft.com/business-central/overview/), [пройдите тур с гидом](https://dynamics.microsoft.com/en-us/guidedtour/dynamics/business-central/1/1), затем [начните бесплатный пробный период](https://go.microsoft.com/fwlink/?linkid=847861). Дополнительные сведения о подключении к [!INCLUDE[prod_short](includes/prod_short.md)], см. в [Начало работы с [!INCLUDE[prod_long](includes/prod_long.md)]](product-get-started.md).  
+Если у вас уже есть [!INCLUDE[prod_short](includes/prod_short.md)], то войдите на [https://businesscentral.dynamics.com](https://businesscentral.dynamics.com). В противном случае, [просмотрите обзор](https://dynamics.microsoft.com/business-central/overview/), [пройдите тур с гидом](https://dynamics.microsoft.com/en-us/guidedtour/dynamics/business-central/1/1), затем [начните бесплатный пробный период](https://go.microsoft.com/fwlink/?linkid=847861). Дополнительные сведения об адаптации к [!INCLUDE[prod_short](includes/prod_short.md)] см. в разделе [Подготовьтесь к ведению бизнеса](ui-get-ready-business.md).  
 
 > [!TIP]
-> Вы перешли сюда из [!INCLUDE [prod_short](includes/prod_short.md)]? Если вы не уверены, где найти то, что ищете, вы можете *фильтровать по заголовкам* в панели навигации слева, или вы можете использовать поле **Поиск** в верхней части окна браузера.
+> Вы перешли сюда из [!INCLUDE [prod_short](includes/prod_short.md)]? Если вы не уверены, где найти то, что ищете, вы можете **фильтровать по заголовкам** в панели навигации слева, или вы можете использовать поле **Поиск** в верхней части окна браузера.  
+>
+> Вы также можете использовать возможности поиска в [!INCLUDE [prod_short](includes/prod_short.md)], чтобы найти соответствующую документацию. Дополнительные сведения см. в разделе [Поиск страниц и информации с помощью функции "Что вы хотите сделать"](ui-search.md).
 
 ## <a name="overview"></a>Обзор
 
-[!INCLUDE[prod_short](includes/prod_short.md)] быстрота реализации, удобство настройки и простота определяли и продолжают определять направление инноваций в области проектирования, разработки и внедрения программных продуктов, а также удобства эксплуатации. На панели навигации слева вы можете найти информацию об использовании [!INCLUDE[prod_short](includes/prod_short.md)] в вашей компании.  
+[!INCLUDE[prod_short](includes/prod_short.md)] быстрота реализации, удобство настройки и простота определяли и продолжают определять направление инноваций в области проектирования, разработки и внедрения программных продуктов, а также удобства эксплуатации. На панели навигации слева вы можете найти информацию об использовании [!INCLUDE[prod_short](includes/prod_short.md)] в вашей компании. Найдите ссылки на описания наиболее часто используемых возможностей в разделе [Бизнес-процессы](#business-processes).  
+
+[!INCLUDE [ua-get-help](includes/ua-get-help.md)]
 
 Вы также можете [посетить нашу видеотеку](across-videos.md) или начать с пути обучения [Начать работу с Microsoft Dynamics 365 Business Central](/learn/paths/get-started-dynamics-365-business-central/) на [Microsoft Learn](/learn/dynamics365/business-central?WT.mc_id=dyn365bc_landingpage-docs).  
 
 > [!NOTE]
-> Если не указано иное, содержимое сайта [Docs.microsoft.com](https://docs.microsoft.com/dynamics365/business-central/) отражает последнюю версию интернет-версии [!INCLUDE[prod_short](includes/prod_short.md)]. Если ваша организация использует другую интернет-версию [!INCLUDE[prod_short](includes/prod_short.md)], некоторые возможности могут быть недоступны. Кроме того, если ваша организация использует локальную версию [!INCLUDE[prod_short](includes/prod_short.md)], вы можете использовать более раннюю версию. Дополнительные сведения см. в разделе [Часто задаваемые вопросы](across-faq.md).
+> Если не указано иное, содержимое сайта Docs.microsoft.com отражает последнюю версию интернет-версии [!INCLUDE[prod_short](includes/prod_short.md)]. Если ваша организация использует другую интернет-версию [!INCLUDE[prod_short](includes/prod_short.md)], некоторые возможности могут быть недоступны. Кроме того, если ваша организация использует локальную версию [!INCLUDE[prod_short](includes/prod_short.md)], вы можете использовать более раннюю версию. Дополнительные сведения см. в разделе [Часто задаваемые вопросы](across-faq.md).
 
 В следующих разделах указаны ключевые статьи, которые помогут вам познакомиться с [!INCLUDE [prod_short](includes/prod_short.md)].  
 
 ## <a name="business-processes"></a>Бизнес-процессы
 
-- [Приступая к работе](product-get-started.md)
+- [Подготовьтесь к ведению бизнеса](ui-get-ready-business.md)
 - [Настройка [!INCLUDE[prod_short](includes/prod_short.md)]](setup.md)
 - [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
 - [Администрация](admin-setup-and-administration.md)
@@ -72,13 +76,15 @@ ms.locfileid: "5493207"
 
 ## <a name="learn"></a>Сведения
 
-Найдите бесплатное электронное обучение на [Microsoft Learn](/learn/dynamics365/business-central?WT.mc_id=dyn365bc_landingpage-docs).  
+Найдите бесплатное электронное обучение для [!INCLUDE[prod_short](includes/prod_short.md)] на сайте [Microsoft Learn](/learn/dynamics365/business-central?WT.mc_id=dyn365bc_landingpage-docs).  
+
+Вы также можете просмотреть видеоролики о новых и часто используемых возможностях в нашей видеотеке. Для получения дополнительной информации см. раздел [Посетите нашу библиотеку видео](across-videos.md).  
 
 ## <a name="community-resources"></a>Ресурсы сообщества
 
 - [Сообщество Microsoft Dynamics 365 Business Central](https://community.dynamics.com/business)
 - [Microsoft Dynamics 365 Business Central в блоге Dynamics 365](https://cloudblogs.microsoft.com/dynamics365/it/product/business-central/)
-- [Планы выпуска Microsoft Dynamics 365](https://go.microsoft.com/fwlink/?linkid=2047422)
+- [Планы выпуска Microsoft Dynamics 365](/dynamics365/release-plans/)
 - [Дорожная карта Microsoft Dynamics 365 Business Central](https://dynamics.microsoft.com/roadmap/business-central/)
 - [Microsoft Partner Network \(требуется учетная запись члена Microsoft Partner Network\)](https://mspartner.microsoft.com/en/us/windows/index.aspx)|  
 
@@ -87,19 +93,20 @@ ms.locfileid: "5493207"
 ## <a name="see-also"></a>См. также
 
 [Dynamics 365 Business Central на сайте Microsoft Learn](/learn/dynamics365/business-central?WT.mc_id=dyn365bc_landingpage-docs)  
-[Начало работы с Business Central](product-get-started.md)  
+[Начало работы с Business Central](ui-get-ready-business.md)  
+[Посетите нашу библиотеку видео](across-videos.md)  
 [Настройка [!INCLUDE[prod_short](includes/prod_short.md)] с помощью расширений](ui-extensions.md)  
 [Использование [!INCLUDE[prod_short](includes/prod_short.md)] в качестве рабочего почтового ящика в Outlook](admin-outlook.md)  
 [Получение [!INCLUDE[prod_short](includes/prod_short.md)] на мобильном устройстве](install-mobile-app.md)  
 [Работа с измерениями](finance-dimensions.md)  
 [Ресурсы для справки и поддержки](product-help-and-support.md)  
-[Соответствие](compliance/compliance-overview.md)  
-[Условия предоставления услуг](compliance/compliance-service-compliance.md#service-terms)  
+[Соответствие [!INCLUDE[prod_short](includes/prod_short.md)]](compliance/compliance-overview.md)  
+[Условия использования службы [!INCLUDE[prod_short](includes/prod_short.md)] Online](compliance/compliance-service-compliance.md#service-terms)  
 [Крупные обновления Business Central Online](/dynamics365/business-central/dev-itpro/administration/update-rollout-timelime)  
 [Документация по Dynamics 365](/dynamics365/)  
 [Dynamics 365 Business Central на microsoft.com](https://dynamics.microsoft.com/business-central/overview/)  
 [Изучение возможностей Dynamics 365 Business Central](https://dynamics.microsoft.com/business-central/capabilities/)  
-[Представляем docs.microsoft.com (исходная запись в блоге)](https://docs.microsoft.com/teamblog/introducing-docs-microsoft-com)  
+[Представляем docs.microsoft.com (исходная запись в блоге)](/teamblog/introducing-docs-microsoft-com)  
 
 ## [!INCLUDE[prod_short](includes/free_trial_md.md)]
 

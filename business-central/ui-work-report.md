@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: task, process, report
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: jswymer
-ms.openlocfilehash: 7fe5d0870cfc18ab103dc57044fd0ba84b151662
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: 81df1625531b3b4c5bf1a55a9e09d37af8b6f7fe
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5392451"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5782988"
 ---
 # <a name="working-with-reports-batch-jobs-and-xmlports"></a>Работа с отчетами, пакетными заданиями и XMLport
 
@@ -42,14 +42,7 @@ ms.locfileid: "5392451"
 
 >[!NOTE]
 > Стандартные настройки обычно устанавливаются и управляются администратором. Дополнительные сведения см. в разделе [Управление сохраненными настройками для отчетов и пакетных заданий](reports-saving-reusing-settings.md).
-<!--
-Depending on the report, the request page might include the **Use default values from** field. This field lets you select a predefined set of can include the **Saved Settings** section that contains one or more entries in the **Use default value from** box. A saved setting is basically a predefined group of options and filters that you can apply to the report before previewing or sending the report to a file. The saved settings entry called **Last used options and filters** is always available. This entry sets the report to use options and filters that were used the last time you used the report.
 
-Using saved settings is a fast and reliable way to consistently generate reports that contain the correct data. After you set the **Use default value from** box to a saved settings entry, you can change any of the options and filters before previewing or saving the report. The changes that you make will not be saved to the saved settings entry you selected, but they will be saved to the **Last used options and filters** entry.
-
->[!NOTE]
->If you are an administrator, you can create and manage the saved settings for reports for all users. For more information, see [Manage Saved Settings for Reports and Batch Jobs](reports-saving-reusing-settings.md).
--->
 ## <a name="specifying-the-data-to-include-in-reports"></a>Определение данных для включения в отчеты
 
 Используйте поля в **Параметры** и **Фильтры** для изменения ограничения информации, которую вы хотите в отчете. Фильтры в отчете устанавливаются примерно так же, как фильтры в списках. Дополнительные сведения см. в разделе [Фильтрация](ui-enter-criteria-filters.md#filtering).
@@ -63,7 +56,7 @@ Using saved settings is a fast and reliable way to consistently generate reports
 
 ## <a name="previewing-a-report"></a>Предварительный просмотр отчета
 
-Предварительный просмотр отчета позволяет увидеть, как он будет выглядеть, перед его печатью. В предварительном просмотре отчет будет представлен в [принтере](#Printer), что показано в поле **Принтер** на странице запроса. После предварительного просмотра вы можете вернуться на страницу запроса и внести необходимые изменения в параметры и фильтры.
+Предварительный просмотр отчета позволяет увидеть, как он будет выглядеть, перед его печатью. Предварительный просмотр не зависит от выбранного принтера в поле **Принтер** на странице запроса. Он контролируется браузером. После предварительного просмотра вы можете вернуться на страницу запроса и внести необходимые изменения в параметры и фильтры.
 
 Чтобы просмотреть отчет, выберите **Предварительный просмотр** или **Предварительный просмотр и закрытие** на странице запроса отчета. Отображаемая кнопка зависит от отчета, поэтому в некоторых отчетах есть кнопка **Предварительный просмотр**, а у других **Предварительный просмотр и закрытие**. Обе кнопки открывают предварительный просмотр отчета. Разница в том, что **Предварительный просмотр** оставляет страницу запроса открытой, поэтому вы можете вернуться к ней, внести изменения, повторно просмотреть или распечатать. С **Предварительный просмотр и закрытие** страница запроса закрывается, поэтому вам придется снова открыть отчет, чтобы внести изменения или распечатать.
 
@@ -103,37 +96,16 @@ Using saved settings is a fast and reliable way to consistently generate reports
 
 Для печати отчета выберите кнопку **Печать** на странице запроса или в строке меню на странице **Предварительный просмотр**.
 
-<!--
-### Printer selection
-
-The report prints to the printer shown in the **Selected printer** field on the report request page. You can't change the printer from this page.
-
-The selected printer is either set on the **Printer Selections** page or it's the default printer set up on the **Printer Management** page. If you want to use another printer, see  [Set Up Printers](ui-specify-printer-selection-reports.md).
-
-If no printer is specified on the **Printer Selections** page or set as default on the **Printer Management** page, the browser printing feature is used. In this case, **Browser** appears in the **Selected printer** field on the report request page.
--->
 ### <a name="printer"></a><a name="Printer"></a>Принтер
 
-Поле **Принтер** на странице запроса содержит название принтера, на который будет отправлен отчет. **(Обрабатывается браузером)** означает, что для отчета не назначен принтер. В этом случае браузер обработает распечатку и отобразит стандартный интерфейс, где вы можете выбрать локальный принтер, подключенный к вашему устройству.
-
-Вы не можете поменять принтер с помощью поля **Принтер**. Чтобы сменить принтер, вам нужно перейти на страницы **Выбор принтера** или **Управление принтерами**. Настройка принтера обычно является задачей администратора. Если вы хотите узнать больше, см. раздел [Настройка принтеров](ui-specify-printer-selection-reports.md).
-
-<!--
-### Browser printing
-
-Because [!INCLUDE[prod_short](includes/prod_short.md)] is a cloud service, it can't reach local printers connected to your computer. However, it can connect to cloud-enabled printers. In the generic version of [!INCLUDE[prod_short](includes/prod_short.md)], a cloud printer named **Email Printer** is installed as an extension and is ready to use after initial setup.
-
-If a cloud printer is not installed and set up, or if an installed printer fails, then printing will default to the printing options for the browser.
+Поле **Принтер** на странице запроса содержит название принтера, на который будет отправлен отчет. Чтобы сменить принтер, просто выберите принтер из списка.
 
 > [!NOTE]
-> The browser printing options work independently of [!INCLUDE[prod_short](includes/prod_short.md)]. So any printer settings that might have been set up from printers in [!INCLUDE[prod_short](includes/prod_short.md)] aren't carried over to the browser print options.
+> **(Обрабатывается браузером)** означает, что для отчета не назначен принтер. В этом случае браузер обработает распечатку и отобразит стандартный интерфейс, где вы можете выбрать локальный принтер, подключенный к вашему устройству. Пункт **(Обрабатывается браузером)** недоступен в мобильном приложении [!INCLUDE[prod_short](includes/prod_short.md)] или приложении для Microsoft Teams.
 
-<!-- 
-On the **Printer Management** page, you can see the printers that are set up. For more information, see [Set Up Printers](ui-specify-printer-selection-reports.md).
+> [!TIP]
+> Принтер, выбранный по умолчанию, настраивается на странице **Выбор принтера**. Для получения информации об изменении принтера по умолчанию см. раздел [Чтобы выбрать, на каких принтерах печатаются какие отчеты](ui-specify-printer-selection-reports.md#default).
 
-> [!NOTE]
-> You can't change the **Printer** field on the report request page. To use another printer, you must select it from the **Printer Management** page.
--->
 ### <a name="printing-reports-in-thai"></a>Печать отчетов на тайском языке
 
 Конкретно в тайской версии [!INCLUDE[prod_short](includes/prod_short.md)] кнопка **Печать** не может правильно печатать отчеты из-за ограничений в службе, которая формирует пригодный для печати PDF-файл. Вместо этого, можно открыть в отчет в Word, затем сохранить его как печатаемый PDF.  

@@ -5,15 +5,15 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 33f75b668409f7d3af59a571bd1f464ddfe5cf2c
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: cdd905e0a1d2240c92bc4e7f2ad918a5c1e90cfc
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5383466"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5786657"
 ---
 # <a name="inventory-in-the-russian-version"></a>Запасы в русской версии
 

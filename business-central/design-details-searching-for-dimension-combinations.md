@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: cc5b128d3e9655697b5dc3a2176dcfe926442bc8
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: db971af61719bfa84566c78cc91b4c805c14ab9b
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5388628"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5783851"
 ---
 # <a name="design-details-searching-for-dimension-combinations"></a>Сведения о проектировании: поиск комбинаций измерений
 Если страница закрывается после редактирования набора измерений [!INCLUDE[prod_short](includes/prod_short.md)] определяет, существует ли отредактированный набор измерений. Если набор не существует, создается новый набор и возвращается код комбинации измерений.  
@@ -72,7 +72,8 @@ EXIT(DimSet.ID);
 
 ```  
 
-## <a name="see-also"></a>См. также  
+## <a name="see-also"></a>См. также
+
  [Функция GET (запись)](/dynamics-nav/GET-Function--Record-)    
  [Сведения о проектировании: операции набора измерений](design-details-dimension-set-entries.md)   
  [Обзор записей набора измерений](design-details-dimension-set-entries-overview.md)   

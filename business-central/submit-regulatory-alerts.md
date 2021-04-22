@@ -6,14 +6,14 @@ ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.reviewer: edupont
 ms.search.keywords: ''
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: soalex
-ms.openlocfilehash: f2659bcebc046153948ca2a90f97d8437e86a610
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: f75e75cbc220e673fe0e841f8a1f1f04b247bb88
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5380360"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5784844"
 ---
 # <a name="submit-alerts-about-countryregion-specific-regulatory-features"></a>Отправка оповещений о специальных нормативных функциях для страны или региона
 
@@ -52,7 +52,7 @@ ms.locfileid: "5380360"
         |Описание  | Введите краткий обзор закона. Описание должно сосредоточиться на проблемах, связанных с планированием ресурсов предприятия (ERP), таким образом, чтобы пользователи могли понять требования на высоком уровне без предварительного ознакомления с законодательством.|
         |Страна  | Укажите страну или регион действия законодательства.|
         |Отрасль| Укажите отрасль, если требование применяется только к определенным отраслям. Например, выберите **Государственный сектор**, **Розничная торговля** или **Производство**.|
-        |Ссылка на компонент  | Это не относится к Dynamics 365 Business Central, но можно указать ссылку на компонент, если он известен. Список компонентов для определенной страны можно найти на [Портале локализации](https://docs.microsoft.com/dynamics/s-e/) на сайте CustomerSource. |
+        |Ссылка на компонент  | Это не относится к Dynamics 365 Business Central, но можно указать ссылку на компонент, если он известен. Список компонентов для определенной страны можно найти на [Портале локализации](/dynamics/s-e/) на сайте CustomerSource. |
         |Дата вступления закона в силу  | Определите дату, когда затронутые клиенты должны начать соблюдать требования закона.|
         |Дата объявления правительством  | Укажите дату, когда уполномоченный орган объявил об изменении.|
         |Последняя дата заполнения  | Выберите крайний срок первой подачи нового или измененного отчета.|
@@ -76,7 +76,7 @@ ms.locfileid: "5380360"
 
 [Локальная функциональность в [!INCLUDE[prod_long](includes/prod_long.md)]](about-localization.md)  
 [Изменение языка и языкового стандарта](about-locale-language.md)  
-[Приступая к работе](product-get-started.md)  
+[Подготовьтесь к ведению бизнеса](ui-get-ready-business.md)  
 [Добро пожаловать в Business Central](index.md)  
 
 ## [!INCLUDE[prod_short](includes/free_trial_md.md)]  

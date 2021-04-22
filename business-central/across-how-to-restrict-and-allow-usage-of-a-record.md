@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 1c748bd115b17acf925a99f89f538cc9eca41bc3
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: bbb22a00e878e8c4d75cb5fcdbcc27a28d9d22a4
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5384403"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5783995"
 ---
 # <a name="restrict-and-allow-usage-of-a-record"></a>Ограничение и разрешение использования записи
 Если нужно ограничить использование записи в определенных видах деятельности, например, до утверждения записи, можно встроить в рабочий процесс два отклика, управляющих использованием записи. Один отклик процесса будет ограничивать использование записи, определенное событием и условиями рабочего процесса. Другой отклик рабочего процесса будет разрешать использование записи, определенное событием и условиями рабочего процесса. Для этой цели в универсальной версии [!INCLUDE[prod_short](includes/prod_short.md)] доступно два отклика: **Ограничить использование записи** и **Разрешить использование записи**.

@@ -8,18 +8,18 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: account schedule, analysis, reporting, financial report, business intelligence, KPI
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: jswymer
-ms.openlocfilehash: 6c53fa5aeb615db809887ae96d51101789c312e3
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: ed744d6aba6394f567c9b297943c0061cb0c0751
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5384153"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5786911"
 ---
 # <a name="working-with-prod_short-data-in-power-bi"></a>Работа с данными [!INCLUDE [prod_short](includes/prod_short.md)] в Power BI
 
-В этой статье вы узнаете некоторые основы работы с отчетами и панелями мониторинга в Power BI с использованием [!INCLUDE [prod_short](includes/prod_short.md)] как источника данных. В статье обсуждаются некоторые аспекты, которые помогут вам начать работу в качестве пользователя [!INCLUDE[prod_short](includes/prod_short.md)]. Общие рекомендации и инструкции по использованию Power BI см. в [документации для пользователей Power BI](https://review.docs.microsoft.com/en-us/power-bi/consumer).
+В этой статье вы узнаете некоторые основы работы с отчетами и панелями мониторинга в Power BI с использованием [!INCLUDE [prod_short](includes/prod_short.md)] как источника данных. В статье обсуждаются некоторые аспекты, которые помогут вам начать работу в качестве пользователя [!INCLUDE[prod_short](includes/prod_short.md)]. Общие рекомендации и инструкции по использованию Power BI см. в [документации для пользователей Power BI](/power-bi/consumer).
 
 ## <a name="get-ready"></a>Подготовка
 
@@ -89,7 +89,7 @@ ms.locfileid: "5384153"
 [Быстрый старт: подключение к данным в Power BI Desktop](/power-bi/desktop-quickstart-connect-to-data)  
 [Документация Power BI](/power-bi/)  
 [Бизнес-аналитика](bi.md)  
-[Приступая к работе](product-get-started.md)  
+[Подготовьтесь к ведению бизнеса](ui-get-ready-business.md)  
 [Импорт бизнес-данных из других финансовых систем](across-import-data-configuration-packages.md)  
 [Настройка [!INCLUDE[prod_short](includes/prod_short.md)]](setup.md)  
 [Использование [!INCLUDE[prod_short](includes/prod_short.md)] как источника данных Power BI](across-how-use-financials-data-source-powerbi.md)  

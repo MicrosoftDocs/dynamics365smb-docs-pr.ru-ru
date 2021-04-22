@@ -7,14 +7,14 @@ ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 6b667e9621f8ea8ff1f5146add9c4686aba22ab7
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: 5198c9d3e9c5d14c2155f7a4728ee501755909d4
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5385528"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5783397"
 ---
 # <a name="letting-prod_short-suggest-values"></a>Разрешение [!INCLUDE[prod_short](includes/prod_short.md)] предлагать значения
 [!INCLUDE[prod_short](includes/prod_short.md)] помогает выполнять задачи быстрее и с меньшим числом ошибок благодаря автоматическому заполнению полей или строк данными, которые в противном случае вам пришлось бы рассчитываться и вводить самостоятельно. Хотя такой автоматический ввод данных всегда верен, при необходимости вы можете изменить эти значения.

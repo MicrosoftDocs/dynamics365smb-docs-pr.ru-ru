@@ -8,20 +8,43 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: Teams, MS Teams, Microsoft Teams, Skype, Link, Microsoft 365, collaborate, collaboration, teamwork, troubleshooting, errors
-ms.date: 01/20/2021
+ms.date: 04/12/2021
 ms.author: jswymer
-ms.openlocfilehash: 7a98b53a34ddf403cf6507da7740b97924d4c81c
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: 9783d5d25c31bd830931cf3f363359880a6e19bf
+ms.sourcegitcommit: e13b80d4e5141f414109e660e0918eae561acb36
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5385203"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "5882176"
 ---
 # <a name="troubleshooting-microsoft-teams-integration-with-prod_short"></a>Устранение неполадок интеграции Microsoft Teams с [!INCLUDE [prod_short](includes/prod_short.md)]
 
 [!INCLUDE [online_only](includes/online_only.md)]
 
 В этой статье содержится информация о том, как определить и исправить проблемы, которые могут возникнуть при использовании Microsoft Teams с [!INCLUDE [prod_short](includes/prod_short.md)] в качестве обычного пользователя или администратора.
+
+## <a name="the-sign-in-link-doesnt-work"></a>Ссылка для входа не работает
+
+Если вы попытаетесь войти в приложение [!INCLUDE [prod_short.md](includes/prod_short.md)] для Teams сразу после установки приложения, и ссылка для входа не реагирует, это может быть связано с тем, что приложение не полностью завершило установку. Чтобы попытаться решить проблему, выйдите из клиента Teams и снова войдите в систему.
+
+## <a name="the-settings-page-is-empty"></a>Страница параметров пустая
+
+Вы должны сначала войти в систему, чтобы перейти к своим настройкам. Чтобы войти в приложение, вставьте ссылку на запись [!INCLUDE [prod_short.md](includes/prod_short.md)] или попробуйте поискать контакты. Оба эти действия проведут вас через процесс регистрации, после чего вы сможете использовать страницу **Параметры**.
+
+## <a name="i-changed-company-but-it-didnt-seem-to-work"></a>Я сменил компанию, но, похоже, это не сработало
+
+После смены компании на странице **Параметры** вы можете заметить, что раскрывающийся список команд указывает, что вы все еще ищете в предыдущей компании. Эта проблема возникает, когда вы открываете страницу **Параметры** страницу прямо из командного поля. В этом случае компания была успешно изменена, и вы фактически будете искать в компании, на которую перешли. Проблема в том, что раскрывающийся список команд еще не обновлен. Чтобы раскрывающийся список точно отражал компанию, в которой вы будете искать, закройте или открепите [!INCLUDE [prod_short.md](includes/prod_short.md)] из командного поля, затем снова откройте приложение.
+
+
+<!--When you change company from the **Settings** page that you reach from the command box, returning to the command box drop-down continues to show the previous company even though the company was successfully changed. For the drop-down accurately reflect the company you'll search in, you must close or unpin [!INCLUDE [prod_short.md](includes/prod_short.md)] from the command box and then find it again.-->
+
+## <a name="something-went-wrong-error-when-searching-for-contacts"></a>Ошибка "Что-то пошло не так" при поиске контактов
+
+Эта ошибка может возникнуть при поиске в компании, которая не была инициализирована или не отвечает. Например, вы не можете искать в новой пробной компании, которая еще не приняла условия использования. Чтобы решить эту проблему, попробуйте войти в веб-клиент [!INCLUDE [prod_short.md](includes/prod_short.md)] и действуйте или отклоняйте любые начальные диалоги, которые появляются.
+
+## <a name="the-contacts-api-was-not-found-error-when-searching-for-contacts"></a>Ошибка "API контактов не найден" при поиске контактов
+
+Эта проблема может быть связана с настройками или отраслевыми решениями, которые влияют, изменяют или не предоставляют API контактов в [!INCLUDE [prod_short.md](includes/prod_short.md)]. Если проблема не исчезнет, обратитесь к администратору или партнеру по поддержке.
 
 ## <a name="none-of-my-links-expand-into-a-card"></a>Ни одна из моих ссылок не разворачивается в карточку 
 
@@ -36,7 +59,7 @@ ms.locfileid: "5385203"
 
 2. Затем убедитесь, что вы вошли в систему под правильным идентификатором.
 
-    В Teams перейдите в любой чат и под полем создания сообщения выберите значок [!INCLUDE [prod_short](includes/prod_short.md)]. Когда появится окно, проверьте, соответствует ли пользователь, который в нем указан как подключенный, тому пользователю, которого вы используете для подключения к [!INCLUDE [prod_short](includes/prod_short.md)].
+    В Teams перейдите в любой чат и под полем создания сообщения щелкните правой кнопкой мыши значок [!INCLUDE [prod_short](includes/prod_short.md)], затем выберите **Параметры**. Когда появится окно, проверьте, соответствует ли пользователь, который в нем указан как подключенный, тому пользователю, которого вы используете для подключения к [!INCLUDE [prod_short](includes/prod_short.md)].
 
 3. Убедитесь, что codeunit 2718 **Поставщик сводки по страницам** публикуется как веб-сервис.
 
@@ -48,9 +71,8 @@ ms.locfileid: "5385203"
 
 Ссылка не превращается в карточку в следующих ситуациях:
 
-- Ссылка нацелена на страницу, тип которой не представляет собой запись. Например, это может быть ссылка на ролевой центр [!INCLUDE [prod_short](includes/prod_short.md)]. Вы можете проверить тип страницы, используя панель проверки страницы в веб-клиенте в [!INCLUDE [prod_short](includes/prod_short.md)]. Дополнительные сведения о проверке страниц см. в разделе [Проверка страниц](across-inspect-page.md).
-- Ссылка нацелена на страницу, которая (на техническом уровне) не связана с исходной таблицей в [!INCLUDE [prod_short](includes/prod_short.md)]. Вы можете проверить, содержит ли страница исходную таблицу, используя панель проверки страницы в веб-клиенте в [!INCLUDE [prod_short](includes/prod_short.md)]. Дополнительные сведения о проверке страниц см. в разделе [Проверка страниц](across-inspect-page.md). 
-- Teams не поддерживает предварительный просмотр ссылок в некоторых функциях. Например, когда вы открываете окно чата, вы участвуете в собрании или являетесь гостем в другой организации.
+- Ссылка нацелена на страницу, которая (на техническом уровне) не связана с исходной таблицей в [!INCLUDE [prod_short](includes/prod_short.md)]. Вы можете проверить, содержит ли страница исходную таблицу, используя панель проверки страницы в веб-клиенте в [!INCLUDE [prod_short](includes/prod_short.md)]. Дополнительные сведения о проверке страниц см. в разделе [Проверка страниц](across-inspect-page.md).
+- Teams не поддерживает предварительный просмотр ссылок в некоторых из его функций. Например, когда вы открываете окно чата или являетесь гостем в другой организации.
 - Teams молча отказывается от попытки отобразить карточку через 15 секунд, например, из-за проблем с сетью.
 - Teams не может развернуть ссылку, если вы уже вставили ссылку в то же поле для создания сообщения и удалили карточку.
 
@@ -66,10 +88,6 @@ ms.locfileid: "5385203"
 `https://businesscentral.dynamics.com/?environmentname=Production&company=CRONUS%20USA%2C%20Inc.&page=21&dc=0&bookmark=21%3bEgAAAAJ7BTEAMAAwADAAMA%3d%3d`
 
 Технические подробности об URL-адресах [!INCLUDE [prod_short](includes/prod_short.md)] см. в разделе [URL-адрес веб-клиента](/dynamics365/business-central/dev-itpro/developer/devenv-web-client-urls) в справке для разработчиков и ИТ-специалистов [!INCLUDE [prod_short](includes/prod_short.md)].
-
-## <a name="the-card-is-displayed-in-the-message-compose-box-but-selecting-the-details-button-does-nothing"></a>Карточка отображается в поле для создания сообщения, но нажатие кнопки "Сведения" ничего не делает 
-
-После того как ссылка будет преобразована в карточку в окне создания сообщения, вы должны отправить сообщение в чат, прежде чем сможете использовать кнопку **Сведения**.
 
 ## <a name="the-details-window-opens-but-shows-an-error-before-details-are-shown"></a>Окно сведений открывается, но перед отображением сведений отображается ошибка
 
@@ -89,7 +107,7 @@ ms.locfileid: "5385203"
 
     Дополнительные сведения о минимальных требованиях к браузеру см. в разделе [Минимальные требования для использования [!INCLUDE [prod_short](includes/prod_short.md)]](product-requirements.md#browsers) 
 
-## <a name="im-having-problems-with-the-camera-or-location-in-teams"></a>У меня проблемы с камерой или местоположением в Teams 
+## <a name="im-having-problems-with-the-camera-or-location-in-teams"></a>У меня проблемы с камерой или местоположением в Teams
 
 Когда используются функции [!INCLUDE [prod_short](includes/prod_short.md)] в окне сведений, которым требуется доступ к вашему местоположению или камере устройства, вы должны сначала дать свое согласие на доступ Teams к этим возможностям устройства.  
 

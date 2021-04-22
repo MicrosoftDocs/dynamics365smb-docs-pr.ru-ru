@@ -8,18 +8,18 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: phone, tablet
-ms.date: 10/15/2020
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: cd6b60a284b060fd44339d6f9e10ac7acbb5d159
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: a751254ae127e3bcde2a5313ca6d5bcfe3ec1117
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5387228"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5786227"
 ---
 # <a name="getting-business-central-on-your-mobile-device"></a>Получение Business Central на мобильном устройстве
 
-Работайте с данными [!INCLUDE[prod_short](includes/prod_short.md)] с мобильного устройства. Вы можете просматривать бизнес-данные, использовать такие функции, как отправка в Excel или Office 365, просматривать последние диаграммы и ключевые показатели эффективности, отправлять по электронной почте предложения и счета, а также делать фотографии с помощью камеры и прикладывать снимки. Выполните следующие действия для загрузки приложения и начала работы.
+Работайте с данными [!INCLUDE[prod_short](includes/prod_short.md)] с мобильного устройства. Вы можете просматривать бизнес-данные, использовать такие функции, как отправка в Excel или Microsoft 365, просматривать последние диаграммы и ключевые показатели эффективности, отправлять по электронной почте предложения и счета, а также делать фотографии с помощью камеры и прикладывать снимки. Выполните следующие действия для загрузки приложения и начала работы.
 
 > [!Video https://www.microsoft.com/en-us/videoplayer/embed/RE4Arje?rel=0]
 
@@ -64,7 +64,7 @@ ms.locfileid: "5387228"
 ## <a name="see-also"></a>См. также
 
 [Вопросы и ответы по мобильным приложениям](ui-mobile-faq.md)  
-[Приступая к работе](product-get-started.md)  
+[Подготовьтесь к ведению бизнеса](ui-get-ready-business.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 
 

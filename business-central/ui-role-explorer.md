@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: ef447ca9d0341983b43c0c90c96698ccc0eab77a
-ms.sourcegitcommit: cb06aa973f5c767df774b0e1e199c6fbe0e85b88
+ms.openlocfilehash: 9b0c85b181f68e0fd6078b85d43b7b0d08bccd80
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/17/2021
-ms.locfileid: "5470316"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5783238"
 ---
 # <a name="finding-pages-with-the-role-explorer"></a>Поиск страниц с помощью обозревателя ролей
 Вы можете получить обзор всех бизнес-функций, доступных для вашей роли, а также для других ролей. В следующей документации этот обзор функций называется *обозреватель ролей*.

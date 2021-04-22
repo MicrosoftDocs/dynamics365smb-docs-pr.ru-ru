@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: task, process
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: solsen
-ms.openlocfilehash: 14fd7402e1aec552de47cff07078d767d795e9a7
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: 05b65f5b001259fff25d0f59dfc6267d9ee00c7f
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5388178"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5782257"
 ---
 # <a name="run-batch-jobs-and-xmlports"></a>Запуск пакетных заданий и XMLport
 Пакетное задание — это процедура обработки данных в пакетах, например пакетное задание **Коррекция валютных курсов**. В некоторых пакетных заданиях выполняются периодические действия, связанные с учетом, например закрытие отчета о прибыли и убытках в конце финансового года. Во многих пакетных заданиях выполняются вычисления, например вычисление финансовых выплат, коррекция валютного курса и вычисление цены единицы.

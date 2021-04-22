@@ -9,14 +9,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 8a09aa00b23abab7849c4a5099132c9729d7592e
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: f669944766894e57a772e229a436953953f3892c
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5389477"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5785193"
 ---
 # <a name="design-details"></a>Сведения о проектировании
 Это содержимое содержит подробные технические сведения о сложных функциях приложений в [!INCLUDE[prod_short](includes/prod_short.md)].  
@@ -30,16 +30,14 @@ ms.locfileid: "5389477"
 |Дополнительные сведения об основных принципах функций расширенной и базовой конфигураций склада и их интеграции с другими функциями цепочки поставок.|[Сведения о проектировании: управление складом](design-details-warehouse-management.md)|  
 |Дополнительные сведения о предыдущей и текущей разработке функций трассировки товаров и ее интеграции с системой резервирования для включения серийных номеров/номеров партий в расчеты наличия.|[Сведения о проектировании: трассировка товара](design-details-item-tracking.md)|  
 |Получение сведений о функции строки учета финансового журнала, включая недавние упрощения дизайна модуля codeunit 12.|[Сведения о проектировании: строка учета финансового журнала](design-details-general-journal-post-line.md)|
-|Получение сведений о дизайне хранения и учета измерений, включая примеры кода по миграции и обновлению кода измерения.|[Сведения о проектировании: операции набора измерений](design-details-dimension-set-entries.md)| 
+|Получение сведений о дизайне хранения и учета измерений, включая примеры кода по миграции и обновлению кода измерения.|[Сведения о проектировании: операции набора измерений](design-details-dimension-set-entries-overview.md)|
 
-## <a name="see-also"></a>См. также  
- [Планирование](production-planning.md)   
- [Управление себестоимостью товаров](finance-manage-inventory-costs.md)   
- [Управление складом](warehouse-manage-warehouse.md)   
- [Настройка сложных областей приложения с помощью рекомендаций](set-up-complex-application-areas-using-best-practices.md)  
- [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+## <a name="see-also"></a>См. также
 
- ## [!INCLUDE[prod_short](includes/free_trial_md.md)]  
+[Планирование](production-planning.md)  
+[Управление себестоимостью товаров](finance-manage-inventory-costs.md)  
+[Управление складом](warehouse-manage-warehouse.md)  
+[Настройка сложных областей приложения с помощью рекомендаций](set-up-complex-application-areas-using-best-practices.md)  
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]
+## [!INCLUDE[prod_short](includes/free_trial_md.md)]  

@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: payment process, direct payment posting, reconcile payment, expenses, cash receipts
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: e89a21ddecdce2bab0da44c447612a24d2173ec7
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: 6b1009c028bab2204c359e09a69472ecd3ecbf42
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5394128"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5781817"
 ---
 # <a name="applying-payments-automatically-and-reconciling-bank-accounts"></a>Автоматическое применение платежей и выверка банковских счетов
 Следует регулярно выверять банковский, дебетовый и кредитовый счета путем применения платежей, зарегистрированных на банковском счете, к связанным открытым (неоплаченным) счетам и кредит-нотам либо к другим открытым операциям в [!INCLUDE[prod_short](includes/prod_short.md)].  
@@ -29,6 +29,9 @@ ms.locfileid: "5394128"
 Также можно производить выверку банковских счетов без одновременного применения платежей. Эта работа выполняется на странице **Выверка банковского счета**. Дополнительные сведения см. в разделе [Выверка банковских счетов](bank-how-reconcile-bank-accounts-separately.md).   
 
 Чтобы импортировать банковские выписки в электронном виде, необходимо сначала настроить и включить службу банковских выписок Envestnet Yodlee, а затем связать свои банковские счета с соответствующими счетами интернет-банка. Дополнительные сведения см. в разделе [Настройка службы Envestnet Yodlee Bank Feeds](bank-how-setup-bank-statement-service.md).  
+
+> [!TIP]
+> Вы также можете импортировать файлы банковских выписок в формате с разделением запятыми или точками с запятой (.CSV). Используйте мастер настройки **Настройка формата файла банковской выписки** для определения форматов импорта банковских выписок и их прикрепления к банковскому счету. Затем вы можете использовать эти форматы при импорте банковских выписок на странице **Выверка банковского счета**.
 
 Кроме того, можно воспользоваться расширением AMC Banking 365 Fundamentals, чтобы преобразовать файл банковской выписки в любом формате в поток данных для импорта в [!INCLUDE[prod_short](includes/prod_short.md)]. Дополнительные сведения см. в разделе [Использование расширения AMC Banking 365 Fundamentals](ui-extensions-amc-banking.md).  
 

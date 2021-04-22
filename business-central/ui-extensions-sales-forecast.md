@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms. search.keywords: app, add-in, manifest, customize, budget
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 374f2f1f60c1d35ef0daf386ac046a3e30d3e10e
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: f55bad5c26e1f1fbb336090ff862e0e931ff9c39
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5376991"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5784744"
 ---
 # <a name="the-sales-and-inventory-forecast-extension"></a>Расширения "Прогноз продаж и запасов"
 Управление запасами представляет собой компромисс между обслуживанием клиентов и управлением себестоимостью. В одной стороны, низкие запасы требуют меньшего оборотного капитала, но, с другой стороны, отсутствие товара на складе потенциально ведет к упущенным продажам. Расширение прогноза продаж и запасов прогнозирует потенциальные продажи с использованием данных за прошедшие периоды и предоставляет ясный обзор ожидаемых случаев исчерпания складских запасов. На основании прогноза расширение помогает создавать запросы на пополнение для ваших поставщиков и экономит ваше время.  

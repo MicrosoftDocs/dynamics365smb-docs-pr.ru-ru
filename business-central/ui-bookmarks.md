@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 5e85c6200f9fafa800e2e44978a5efb10ececefb
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: 7f93d54984106cb0fce2d886f6826ba22b1d8185
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5376691"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5787481"
 ---
 # <a name="bookmark-a-page-or-report-on-your-role-center"></a>Добавление закладки на страницу или отчет в ролевом центре
 С помощью нового значка закладки вы можете добавить действие, которое открывает страницу или отчет из меню навигации ролевого центра. Это позволяет быстро открывать нужный контент или бизнес-задачи. Закладка добавляется с целевой страницы или отчета, т. е. с экрана, который должна открывать ссылка в ролевом центре.
@@ -60,7 +60,7 @@ ms.locfileid: "5376691"
 - **Почему я не могу добавить в закладки определенные страницы или отчеты?**  
 Не все страницы и отчеты могут быть добавлены в закладки. Когда страница или отчет запускаются в каком-то особом контексте, регулируемом бизнес-приложением, значок закладки не отображается. Например, страницы, которые не могут быть найдены в окне **Что вы хотите сделать**, но запускаются иначе, не содержат значка закладки. Аналогично, на страницах запроса отчетов, которые используются только для сбора фильтров без запуска отчета, значок закладки не отображается.
 
-См. технические подробности о [RunRequestPage](https://docs.microsoft.com/dynamics365/business-central/dev-itpro/developer/methods-auto/report/reportinstance-runrequestpage-method) и [FilterPageBuilder](https://docs.microsoft.com/dynamics365/business-central/dev-itpro/developer/methods-auto/filterpagebuilder/filterpagebuilder-data-type).
+См. технические подробности о [RunRequestPage](/dynamics365/business-central/dev-itpro/developer/methods-auto/report/reportinstance-runrequestpage-method) и [FilterPageBuilder](/dynamics365/business-central/dev-itpro/developer/methods-auto/filterpagebuilder/filterpagebuilder-data-type).
 
 - **Будут ли удалены мои закладки при удалении моей персонализации?**  
 Да. Закладки находятся в меню навигации. Если вы удаляете изменения в меню навигации на любой странице или удаляете всю персонализацию в Ролевом центре, все ваши новые действия будут навсегда удалены.

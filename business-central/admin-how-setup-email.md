@@ -1,5 +1,5 @@
 ---
-title: Настройка электронной почты в Business Central | Документация Майкрософт
+title: Настройка электронной почты в Business Central
 description: Описывается, как подключить учетные записи электронной почты к Business Central, чтобы вы могли отправлять исходящие сообщения, не открывая другое приложение.
 author: bholtorf
 ms.service: dynamics365-business-central
@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: SMTP, email, Office 365, connector
-ms.date: 06/15/2020
+ms.date: 04/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: b683a8567afbbec812a229e8e8ee0fda81d55bfb
-ms.sourcegitcommit: cb06aa973f5c767df774b0e1e199c6fbe0e85b88
+ms.openlocfilehash: 1ac53955d897e8c69da5136c6326353999460625
+ms.sourcegitcommit: 951d3c9d541f0b1d26712d37e253c2958dae3321
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/17/2021
-ms.locfileid: "5470441"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "5889156"
 ---
 # <a name="set-up-email"></a>Настройка электронной почты
 Сотрудники предприятий ежедневно отправляют по электронной почте информацию и документы, такие как заказы на продажу и покупку и счета-фактуры. Администраторы могут сделать это проще, подключив одну или несколько учетных записей электронной почты к [!INCLUDE[prod_short](includes/prod_short.md)], так что вы можете отправлять документы, не открывая приложение электронной почты. Вы можете составлять каждое сообщение индивидуально с помощью основных инструментов форматирования, таких как шрифты, стили, цвета и т. д., и добавлять вложения размером до 100 МБ. Администраторы также могут настроить макеты отчетов, которые включают только ключевую информацию из документов. Дополнительные сведения см. в разделе [Отправка документов по электронной почте](ui-how-send-documents-email.md).
@@ -37,12 +37,12 @@ ms.locfileid: "5470441"
 
 |Расширение  |Описание  |Примеры того, когда использовать  |
 |---------|---------|---------|
-|**Microsoft 365**|Все отправляют электронную почту из общего почтового ящика в Exchange Online.|Например, когда все сообщения происходят из одного отдела, ваша торговая организация отправляет сообщения из учетной записи sales@cronus.com. Для этого необходимо настроить общий почтовый ящик в центре администрирования Office 365. Дополнительные сведения см. в разделе [Общие почтовые ящики](/Exchange/collaboration/shared-mailboxes/shared-mailboxes).|
+|**Microsoft 365**|Все отправляют электронную почту из общего почтового ящика в Exchange Online.|Например, когда все сообщения происходят из одного отдела, ваша торговая организация отправляет сообщения из учетной записи sales@cronus.com. Для этого необходимо настроить общий почтовый ящик в центре администрирования Microsoft 365. Дополнительные сведения см. в разделе [Общие почтовые ящики](/Exchange/collaboration/shared-mailboxes/shared-mailboxes.md).|
 |**Текущий пользователь**|Все отправляют электронную почту из учетной записи, с которой они входили в [!INCLUDE[prod_short](includes/prod_short.md)].|Разрешает общение из индивидуальных учетных записей.|
 |**Прочее (SMTP)**|Используется протокол SMTP для отправки сообщений электронной почты.|Разрешает связь через ваш почтовый сервер SMTP. |
 
 > [!NOTE]
-> В расширениях **Microsoft 365** и **Текущий пользователь** используются учетные записи, которые вы настроили для пользователей в центре администрирования Microsoft 365 для вашей подписки Office 365. Чтобы отправлять электронную почту с помощью расширений, у пользователей должна быть действующая лицензия на Exchange Online. 
+> В расширениях **Microsoft 365** и **Текущий пользователь** используются учетные записи, которые вы настроили для пользователей в центре администрирования Microsoft 365 для вашей подписки Microsoft 365. Чтобы отправлять электронную почту с помощью расширений, у пользователей должна быть действующая лицензия на Exchange Online. 
 
 > [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE4JsUk]
 
@@ -51,6 +51,9 @@ ms.locfileid: "5470441"
 
 > [!NOTE]
 > Если у вас есть настройки, основанные на устаревшей настройке электронной почты SMTP, есть вероятность, что что-то пойдет не так с вашими настройками, если вы начнете использовать расширения электронной почты. Мы рекомендуем вам настроить и протестировать расширения, прежде чем включать переключатель функций для расширенных возможностей электронной почты.
+
+> [!IMPORTANT]
+> Если вы используете [!INCLUDE[prod_short](includes/prod_short.md)] Online, вы не можете использовать метод аутентификации OAuth 2.0.<br> Если вы используете [!INCLUDE[prod_short](includes/prod_short.md)] On-Premises, вы можете использовать OAuth 2.0 для аутентификации, но вы должны создать регистрацию приложения на портале Azure, затем запустить мастер настройки **Настройка Azure Active Directory** в [!INCLUDE[prod_short](includes/prod_short.md)], чтобы подключиться к Azure AD. Дополнительные сведения см. в разделе [Создание регистрации приложения для Business Central на портале Azure](admin-how-setup-email.md#create-an-app-registration-for-business-central-in-azure-portal).
 
 ## <a name="add-email-accounts"></a>Добавление учетных записей электронной почты
 Мастер настройки **Настройка электронной почты** поможет вам быстро начать работу с электронной почтой.
@@ -61,9 +64,10 @@ ms.locfileid: "5470441"
 1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка учетных записей электронной почты**, затем выберите соответствующую ссылку.
 2. Заполните соответствующим образом поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)] 
 
+
 <!--
 > [!NOTE]
-> If you choose **Other (SMTP)** and are using an account that requires two-factor authentication, the password that you enter in the **Password** field must be the same that you use for your Office 365 subscription, and it must be of type **App Password**. For more information, see [Manage app passwords for two-step verification](/azure/active-directory/user-help/multi-factor-authentication-end-user-app-passwords). 
+> If you choose **Other (SMTP)** and are using an account that requires two-factor authentication, the password that you enter in the **Password** field must be the same that you use for your Microsoft 365 subscription, and it must be of type **App Password**. For more information, see [Manage app passwords for two-step verification](/azure/active-directory/user-help/multi-factor-authentication-end-user-app-passwords). 
 
 is this still true?-->
 ## <a name="assign-email-scenarios-to-email-accounts"></a>Назначение сценариев электронной почты учетной записям электронной почты
@@ -89,10 +93,10 @@ is this still true?-->
 2. На странице **Выбор отчета - продажи** в поле **Использование** выберите **Счет**.
 3. В новой строке в поле **Код отчета** выберите, например, стандартный отчет 1306.
 4. Установите флажок **Использовать для содержания сообщения электронной почты**.
-5. Выберите поле **Код макета содержания сообщения электронной почты**, а затем выберите макет из раскрывающегося списка.
+5. Выберите поле **Описание макета содержания сообщения электронной почты**, а затем выберите макет из списка.
 
-    Макеты отчетов определяют стиль и содержимое сообщений электронной почты, включая такие тексты, как приветствие или инструкции, которые предшествуют информации из документа. Можно просмотреть все доступные макеты отчетов, если выбрав **Выбор из полного списка**.
-6. Чтобы просмотреть или изменить макет, на котором основан текст сообщения электронной почты, выберите макет на странице **Пользовательские макеты отчетов**, затем выберите действие **Изменить макет**.
+    Макеты отчетов определяют стиль и содержимое сообщений электронной почты, включая такие тексты, как приветствие или инструкции, которые предшествуют информации из документа. Если у организации много макетов, можно просмотреть все доступные макеты отчетов, если выбрать пункт **Выбор из полного списка**.
+6. Чтобы просмотреть или изменить макет, на котором основан текст сообщения электронной почты, выберите макет на странице **Пользовательские макеты отчетов**, затем выберите действие **Обновить макет**.
 7. Если вы хотите предложить клиентам оплатить покупку с помощью электронной службы платежей, вы можете настроить электронную службу платежей, например PayPal, и включить в текст сообщения электронной почты сведения и ссылку на PayPal. Дополнительные сведения см. в разделе [Включение платежей клиентов через PayPal](sales-how-enable-payment-service-extensions.md).
 8. Нажмите кнопку **ОК**.
 
@@ -140,7 +144,7 @@ is this still true?-->
 ## <a name="setting-up-email-for-business-central-on-premises"></a>Настройка электронной почты для Business Central On-Premises 
 [!INCLUDE[prod_short](includes/prod_short.md)] On-Premises может интегрироваться со службами, основанными на Microsoft Azure. Например, вы можете использовать Cortana Intelligence для более точного прогноза денежных потоков, Power BI для визуализации вашего бизнеса и Exchange Online для отправки электронной почты. Интеграция с этими сервисами основана на регистрации приложения в Azure Active Directory. Регистрация приложения предоставляет услуги аутентификации и авторизации для связи. Чтобы использовать возможности электронной почты в [!INCLUDE[prod_short](includes/prod_short.md)] On-Premises, вы должны зарегистрировать [!INCLUDE[prod_short](includes/prod_short.md)] как приложение на портале Azure, а затем подключить [!INCLUDE[prod_short](includes/prod_short.md)] к регистрации приложения. В следующих разделах описано, как это сделать.
 
-### <a name="create-an-app-registration-for-prod_short-in-azure-portal"></a>Создание регистрации приложения для [!INCLUDE[prod_short](includes/prod_short.md)] на портале Azure
+### <a name="create-an-app-registration-for-business-central-in-azure-portal"></a>Создание регистрации приложения для Business Central на портале Azure
 Шаги по регистрации [!INCLUDE[prod_short](includes/prod_short.md)] на портале Azure описаны в разделе [Регистрация приложения в Azure Active Directory](/dynamics365/business-central/dev-itpro/administration/register-app-azure#register-an-application-in-azure-active-directory). Параметры, относящиеся к возможностям электронной почты, представляют собой делегированные разрешения, которые вы предоставляете при регистрации приложения. В следующей таблице перечислены минимальные разрешения.
 
 |API / Имя разрешения  |Тип  |Описание  |
@@ -148,16 +152,28 @@ is this still true?-->
 |Microsoft Graph / User.Read |Делегировано|Вход в систему и чтение профиля пользователя.         |
 |Microsoft Graph / Mail.ReadWrite |Делегировано|Составление сообщений электронной почты.         |
 |Microsoft Graph / Mail.Send|Делегировано|Отправка сообщений электронной почты.         |
-|Microsoft Graph / offline_access|Делегировано|Сохранение согласия на доступ к данным. <!--need to verify this-->|
+|Microsoft Graph / offline_access|Делегировано|Сохранение согласия на доступ к данным.|
 
-> [!TIP]
-> При создании регистрации приложения, обратите внимание на следующую информацию. Она понадобится вам для подключения [!INCLUDE[prod_short](includes/prod_short.md)] к регистрации вашего приложения.
-> 
-> * Код приложения (клиента) 
-> * URI перенаправления (необязательно)
-> * Секрет клиента
+Если вы используете устаревшую настройку SMTP или соединитель SMTP и хотите использовать OAuth для проверки подлинности, разрешения немного отличаются. В следующей таблице перечислены разрешения.
+
+|API / Имя разрешения  |Тип  |Описание  |
+|---------|---------|---------|
+|Microsoft Graph / offline_access|Делегировано|Сохранение согласия на доступ к данным.|
+|Microsoft Graph / openid|Делегировано|Вход пользователей.|
+|Microsoft Graph / User.Read |Делегировано|Вход в систему и чтение профиля пользователя.         |
+|Microsoft Graph / SMTP.Send|Делегировано|Отправка сообщений электронной почты из почтовых ящиков с помощью SMTP AUTH.         |
+|Office 365 Exchange Online / User.Read |Делегировано|Вход в систему и чтение профиля пользователя.         |
+
+При создании регистрации приложения, обратите внимание на следующую информацию. Она понадобится вам для подключения [!INCLUDE[prod_short](includes/prod_short.md)] к регистрации вашего приложения.
+ 
+* Код приложения (клиента) 
+* URI перенаправления (необязательно)
+* Секрет клиента
 
 Общие инструкции для регистрации приложения см. в разделе [Быстрый старт: зарегистрируйте приложение на платформе идентификации Microsoft](/azure/active-directory/develop/quickstart-register-app). 
+
+> [!NOTE]
+Если у вас возникли проблемы с использованием устаревшей настройки SMTP для отправки сообщений электронной почты после подключения [!INCLUDE[prod_short](includes/prod_short.md)] к регистрации вашего приложения, это может быть связано с тем, что проверка подлинности SMTP AUTH не включена для вашего клиента. Мы рекомендуем вместо этого использовать соединители электронной почты Microsoft 365 и Current User, поскольку они используют API-интерфейсы Microsoft Graph Mail. Однако, если вам необходимо использовать настройку SMTP, вы можете включить SMTP AUTH. Дополнительные сведения см. в разделе [Включение или отключение отправки для аутентифицированного клиента SMTP (SMTP AUTH) в Exchange Online](/exchange/clients-and-mobile-in-exchange-online/authenticated-client-smtp-submission#disable-smtp-auth-in-your-organization).
 
 ### <a name="connect-prod_short-to-your-app-registration"></a>Подключение приложения [!INCLUDE[prod_short](includes/prod_short.md)] к регистрации вашего приложения
 После регистрации приложения на портале Azure в [!INCLUDE[prod_short](includes/prod_short.md)] используйте мастер настройки **Регистрация AAD приложения электронной почты** для подключения [!INCLUDE[prod_short](includes/prod_short.md)] к нему.
@@ -199,6 +215,7 @@ is this still true?-->
 [Настройка [!INCLUDE[prod_short](includes/prod_short.md)] с помощью расширений](ui-extensions.md)  
 [Использование [!INCLUDE[prod_short](includes/prod_short.md)] в качестве рабочего почтового ящика в Outlook](admin-outlook.md)  
 [Получение [!INCLUDE[prod_short](includes/prod_short.md)] на мобильном устройстве](install-mobile-app.md)
-
+[Получение [!INCLUDE[prod_short](includes/prod_short.md)] на мобильном устройстве](install-mobile-app.md)
+[Анализ телеметрии электронной почты (содержимое для администраторов)](/dynamics365/business-central/dev-itpro/administration/telemetry-email-trace)  
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

@@ -5,15 +5,15 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 6bb4b2c5d3e2cf429d84653fe971ae3f42d200b9
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: 38b26406a11b433dd92b92e0e23009e720850c0f
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5382781"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5782191"
 ---
 # <a name="vat-by-customer-prepayment"></a>НДС по предоплатам клиентов
 

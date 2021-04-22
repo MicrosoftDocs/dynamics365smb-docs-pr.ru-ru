@@ -8,22 +8,25 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: configure, initialize
-ms.date: 01/18/2021
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 4c46aa4f920924c4b1d11f3d6ef636ce96feb22f
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: 01354575a7d96017684fe885411be364058b57e4
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5385553"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5781460"
 ---
-# <a name="setting-up-prod_short"></a>Настройка [!INCLUDE[prod_short](includes/prod_short.md)]
+# <a name="overview-of-tasks-to-set-up-prod_short"></a>Обзор задач по настройке [!INCLUDE[prod_short](includes/prod_short.md)]
 
-[!INCLUDE[prod_short](includes/prod_short.md)] содержит стандартные конфигурации для большинства бизнес-процессов, но вы можете изменить их в соответствии с потребностями вашей организации.
+[!INCLUDE[prod_short](includes/prod_short.md)] содержит стандартные конфигурации для большинства бизнес-процессов, но вы можете изменить их в соответствии с потребностями вашей организации.  
 
 Например, в план счетов подставлены готовые к использованию номера счетов учета. Конечно, вы можете изменить план счетов в соответствии со своими потребностями. Дополнительные сведения см. в разделе [Финансы](finance.md).
 
-Из меню ![Значок шестеренки для открытия меню параметров](media/ui-experience/settings_icon_small.png) можно получить доступ к мастерам настройки, которые помогают настраивать определенные сценарии и добавлять функции в [!INCLUDE[prod_short](includes/prod_short.md)]. Дополнительные сведения о том, как получить доступ ко всем страницам сопровождаемой и ручной настройки, см. в разделе [Подготовьтесь к ведению бизнеса](ui-get-ready-business.md).
+Из меню ![Значок шестеренки для открытия меню параметров](media/ui-experience/settings_icon_small.png) можно получить доступ к мастерам настройки, которые помогают настраивать определенные сценарии и добавлять функции в [!INCLUDE[prod_short](includes/prod_short.md)]. Дополнительные сведения о том, как получить доступ ко всем страницам сопровождаемой и ручной настройки, см. в разделе [Подготовьтесь к ведению бизнеса](ui-get-ready-business.md).  
+
+> [!NOTE]
+> [!INCLUDE [ua-checklist](includes/ua-checklist.md)]
 
 Некоторые функции, как общие, так и для конкретных бизнес-процессов, можно настроить вручную в дополнение к мастеру настройки. Ниже приводится список некоторых функций, которые можно настроить вручную.
 
@@ -73,7 +76,7 @@ ms.locfileid: "5385553"
 [Управление складом](warehouse-manage-warehouse.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 [Создание новых организаций в [!INCLUDE[prod_short](includes/prod_short.md)]](about-new-company.md)  
-[Приступая к работе](product-get-started.md)  
+[Подготовьтесь к ведению бизнеса](ui-get-ready-business.md)  
 
 ## [!INCLUDE[prod_short](includes/free_trial_md.md)]  
 

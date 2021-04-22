@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: b41403ce77623bc61b564dd4f93cf59b8a09764c
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: eae170b356c6bb6c41757aca88f9160df1657901
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5389828"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5786711"
 ---
 # <a name="design-details-known-item-application-issue"></a>Сведения о проектировании: известная проблема применения товара
 В этой статье рассматривается проблема, когда уровень запасов равен нулю несмотря на наличие открытых записей книги товаров в [!INCLUDE[prod_short](includes/prod_short.md)].  

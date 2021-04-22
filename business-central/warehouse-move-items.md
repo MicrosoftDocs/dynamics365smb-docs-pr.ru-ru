@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: af05b6f6b4c1ff493d3e9187f09ef98bcec17491
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: 66c2b9d191bc899de6ec2b6e6bbcd99d133448b7
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5382233"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5784121"
 ---
 # <a name="moving-items"></a>Перемещение товаров
 Складская операция перемещения товаров в пределах склада выполняется различными способами в зависимости от настроек функций управления складом. Сложность может колебаться от полного отсутствия функций склада до базовых конфигураций склада для поочередной обработки заказов в ходе одной или нескольких операций; кроме того, может использоваться расширенная конфигурация, когда все складские операции должны выполняться в рамках расширенного рабочего процесса. Дополнительные сведения см. в разделе [Настройка управления складом](warehouse-setup-warehouse.md).

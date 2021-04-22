@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: fd8ac52ae5a35114adc2e06ad8653799f7557123
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: 3685a2145186d3e26da7ba0ad6ace0af0b8c0dd7
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5389953"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5786786"
 ---
 # <a name="design-details-posting-date-on-adjustment-value-entry"></a>Подробности разработки: дата учета для операции коррекции стоимости
 Эта статья содержит рекомендации для пользователей функции оценки стоимости запасов в [!INCLUDE[prod_short](includes/prod_short.md)]. Конкретная статья предоставляет рекомендации по тому, как пакетное задание **Коррекция себестоимости запасов** идентифицирует и назначает дату учета операциям стоимости, которые пакетное задание собирается создать.  
@@ -318,7 +318,7 @@ ms.locfileid: "5389953"
 
  Отчет оценки стоимости запасов распечатывается на дату 31-е декабря 2013 г.  
 
-![Содержимое отчета "Оценка стоимости запасов"](media/helene/TechArticleAdjustcost13.png "Содержимое отчета "Оценка стоимости запасов"")
+![Содержимое отчета "Оценка стоимости запасов"](media/helene/TechArticleAdjustcost13.png "Содержимое отчета &quot;Оценка стоимости запасов&quot;")
 
  **Сводка сценария:**  
 
