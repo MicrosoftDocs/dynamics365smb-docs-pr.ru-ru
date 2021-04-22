@@ -5,59 +5,59 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 8a8e3c066e683f739fbbceb5ae43fce539167cdd
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: 79ae8d062a6d4c9611344eac67db2486f7689d59
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5382091"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5777571"
 ---
-# <a name="bank-management"></a><span data-ttu-id="aad7d-103">Управление банками</span><span class="sxs-lookup"><span data-stu-id="aad7d-103">Bank Management</span></span>
+# <a name="bank-management"></a><span data-ttu-id="7dbb8-103">Управление банками</span><span class="sxs-lookup"><span data-stu-id="7dbb8-103">Bank Management</span></span>
 
-<span data-ttu-id="aad7d-104">В [!INCLUDE[prod_short](../../includes/prod_short.md)] можно создать структуры справочника ЦБ РФ для хранения справочной информации по банку в одном месте, создания бюджетных классификаций, добавления сведений о банковских счетах в определенные счета главной книги и печати и учета соответствующих документов.</span><span class="sxs-lookup"><span data-stu-id="aad7d-104">In [!INCLUDE[prod_short](../../includes/prod_short.md)], you can create bank directory structures to keep bank reference information in one location, create budget classifications, add bank account details to specific general ledger accounts, and print and post required documents.</span></span>
-
- 
-
-## <a name="creating-bank-directory-structures"></a><span data-ttu-id="aad7d-105">Создание структур справочника ЦБ РФ</span><span class="sxs-lookup"><span data-stu-id="aad7d-105">Creating Bank Directory Structures</span></span>
-
-<span data-ttu-id="aad7d-106">Структуру справочника ЦБ РФ можно использовать для хранения справочной информации обо всех банках в одном месте.</span><span class="sxs-lookup"><span data-stu-id="aad7d-106">You can use a bank directory structure to keep reference information about all the banks in one location.</span></span> <span data-ttu-id="aad7d-107">Можно использовать эту информацию для автоматического заполнения соответствующих полей в окнах **Карточка банк. счета**, **Карточка банк. счета поставщика** и **Карточка банк. счета клиента**.</span><span class="sxs-lookup"><span data-stu-id="aad7d-107">This information can be used to automatically fill in the corresponding fields in the **Bank Account Card**, **Vendor Bank Account Card**, and **Customer Bank Account Card** windows.</span></span>
+<span data-ttu-id="7dbb8-104">В [!INCLUDE[prod_short](../../includes/prod_short.md)] можно создать структуры справочника ЦБ РФ для хранения справочной информации по банку в одном месте, создания бюджетных классификаций, добавления сведений о банковских счетах в определенные счета главной книги и печати и учета соответствующих документов.</span><span class="sxs-lookup"><span data-stu-id="7dbb8-104">In [!INCLUDE[prod_short](../../includes/prod_short.md)], you can create bank directory structures to keep bank reference information in one location, create budget classifications, add bank account details to specific general ledger accounts, and print and post required documents.</span></span>
 
  
 
-## <a name="creating-budget-classification-codes"></a><span data-ttu-id="aad7d-108">Создание кодов бюджетной классификации</span><span class="sxs-lookup"><span data-stu-id="aad7d-108">Creating Budget Classification Codes</span></span>
+## <a name="creating-bank-directory-structures"></a><span data-ttu-id="7dbb8-105">Создание структур справочника ЦБ РФ</span><span class="sxs-lookup"><span data-stu-id="7dbb8-105">Creating Bank Directory Structures</span></span>
 
-<span data-ttu-id="aad7d-109">Каталог кодов бюджетной классификации можно использовать в банковских платежах в государственный бюджет (например, в налоговых платежах).</span><span class="sxs-lookup"><span data-stu-id="aad7d-109">You can use a budget classification codes catalog in bank payments that are made to the state budget, such as tax payments.</span></span> <span data-ttu-id="aad7d-110">Эти коды позволяют отслеживать классификацию типов платежей в государственный бюджет.</span><span class="sxs-lookup"><span data-stu-id="aad7d-110">These codes allow you to track the classification of budget payment types in the state budget.</span></span>
-
- 
-
-## <a name="creating-bank-account-details-records"></a><span data-ttu-id="aad7d-111">Создание записей сведений о банковском счете</span><span class="sxs-lookup"><span data-stu-id="aad7d-111">Creating Bank Account Details Records</span></span>
-
-<span data-ttu-id="aad7d-112">Подробные сведения о банковском счете можно использовать, чтобы определять различные измерения и другие коды, относящиеся к платежным поручениям и банковским выпискам.</span><span class="sxs-lookup"><span data-stu-id="aad7d-112">You can use bank account details to define dimensions and other codes that are pertinent to bank payment orders and bank statements.</span></span> <span data-ttu-id="aad7d-113">Записи в банковских операциях с типом счета **Счет ГК** содержат подробные сведения, связанные с указанным счетом.</span><span class="sxs-lookup"><span data-stu-id="aad7d-113">Records in a bank operation that have the account type information set to **G/L Account** can have bank account details attached to the specified account.</span></span> <span data-ttu-id="aad7d-114">Сведения о банковском счете настраиваются в окне **Сведения о банковских счетах**.</span><span class="sxs-lookup"><span data-stu-id="aad7d-114">Bank account details are set up in the **Bank Account Details** window.</span></span>
+<span data-ttu-id="7dbb8-106">Структуру справочника ЦБ РФ можно использовать для хранения справочной информации обо всех банках в одном месте.</span><span class="sxs-lookup"><span data-stu-id="7dbb8-106">You can use a bank directory structure to keep reference information about all the banks in one location.</span></span> <span data-ttu-id="7dbb8-107">Можно использовать эту информацию для автоматического заполнения соответствующих полей в окнах **Карточка банк. счета**, **Карточка банк. счета поставщика** и **Карточка банк. счета клиента**.</span><span class="sxs-lookup"><span data-stu-id="7dbb8-107">This information can be used to automatically fill in the corresponding fields in the **Bank Account Card**, **Vendor Bank Account Card**, and **Customer Bank Account Card** windows.</span></span>
 
  
 
-## <a name="printing-and-posting-required-documents"></a><span data-ttu-id="aad7d-115">Печать и учет необходимых документов</span><span class="sxs-lookup"><span data-stu-id="aad7d-115">Printing and Posting Required Documents</span></span>
+## <a name="creating-budget-classification-codes"></a><span data-ttu-id="7dbb8-108">Создание кодов бюджетной классификации</span><span class="sxs-lookup"><span data-stu-id="7dbb8-108">Creating Budget Classification Codes</span></span>
 
-<span data-ttu-id="aad7d-116">Вы можете готовить документы платежных поручений, документов кассовых ордеров и платежей в журнале оплаты поставщикам путем копирования процедур из учтенных документов банковских поручений и кассовых ордеров.</span><span class="sxs-lookup"><span data-stu-id="aad7d-116">You can prepare bank payment order documents, cash order documents, and payments in the payment journal by copying procedures from the posted bank payment order and cash order documents.</span></span> <span data-ttu-id="aad7d-117">Затем можно создать печатные документы и учесть их в требуемом формате.</span><span class="sxs-lookup"><span data-stu-id="aad7d-117">Then you can create the printed documents and post them in the required format.</span></span>
+<span data-ttu-id="7dbb8-109">Каталог кодов бюджетной классификации можно использовать в банковских платежах в государственный бюджет (например, в налоговых платежах).</span><span class="sxs-lookup"><span data-stu-id="7dbb8-109">You can use a budget classification codes catalog in bank payments that are made to the state budget, such as tax payments.</span></span> <span data-ttu-id="7dbb8-110">Эти коды позволяют отслеживать классификацию типов платежей в государственный бюджет.</span><span class="sxs-lookup"><span data-stu-id="7dbb8-110">These codes allow you to track the classification of budget payment types in the state budget.</span></span>
 
  
 
-<span data-ttu-id="aad7d-118">Вы можете напечатать следующие обязательные документы управления банком.</span><span class="sxs-lookup"><span data-stu-id="aad7d-118">You can print the following required bank management documents.</span></span> 
+## <a name="creating-bank-account-details-records"></a><span data-ttu-id="7dbb8-111">Создание записей сведений о банковском счете</span><span class="sxs-lookup"><span data-stu-id="7dbb8-111">Creating Bank Account Details Records</span></span>
 
-| <span data-ttu-id="aad7d-119">Отчет</span><span class="sxs-lookup"><span data-stu-id="aad7d-119">Report</span></span>                        | <span data-ttu-id="aad7d-120">Описание</span><span class="sxs-lookup"><span data-stu-id="aad7d-120">Description</span></span>                                                  |
+<span data-ttu-id="7dbb8-112">Подробные сведения о банковском счете можно использовать, чтобы определять различные измерения и другие коды, относящиеся к платежным поручениям и банковским выпискам.</span><span class="sxs-lookup"><span data-stu-id="7dbb8-112">You can use bank account details to define dimensions and other codes that are pertinent to bank payment orders and bank statements.</span></span> <span data-ttu-id="7dbb8-113">Записи в банковских операциях с типом счета **Счет ГК** содержат подробные сведения, связанные с указанным счетом.</span><span class="sxs-lookup"><span data-stu-id="7dbb8-113">Records in a bank operation that have the account type information set to **G/L Account** can have bank account details attached to the specified account.</span></span> <span data-ttu-id="7dbb8-114">Сведения о банковском счете настраиваются в окне **Сведения о банковских счетах**.</span><span class="sxs-lookup"><span data-stu-id="7dbb8-114">Bank account details are set up in the **Bank Account Details** window.</span></span>
+
+ 
+
+## <a name="printing-and-posting-required-documents"></a><span data-ttu-id="7dbb8-115">Печать и учет необходимых документов</span><span class="sxs-lookup"><span data-stu-id="7dbb8-115">Printing and Posting Required Documents</span></span>
+
+<span data-ttu-id="7dbb8-116">Вы можете готовить документы платежных поручений, документов кассовых ордеров и платежей в журнале оплаты поставщикам путем копирования процедур из учтенных документов банковских поручений и кассовых ордеров.</span><span class="sxs-lookup"><span data-stu-id="7dbb8-116">You can prepare bank payment order documents, cash order documents, and payments in the payment journal by copying procedures from the posted bank payment order and cash order documents.</span></span> <span data-ttu-id="7dbb8-117">Затем можно создать печатные документы и учесть их в требуемом формате.</span><span class="sxs-lookup"><span data-stu-id="7dbb8-117">Then you can create the printed documents and post them in the required format.</span></span>
+
+ 
+
+<span data-ttu-id="7dbb8-118">Вы можете напечатать следующие обязательные документы управления банком.</span><span class="sxs-lookup"><span data-stu-id="7dbb8-118">You can print the following required bank management documents.</span></span> 
+
+| <span data-ttu-id="7dbb8-119">Отчет</span><span class="sxs-lookup"><span data-stu-id="7dbb8-119">Report</span></span>                        | <span data-ttu-id="7dbb8-120">Описание</span><span class="sxs-lookup"><span data-stu-id="7dbb8-120">Description</span></span>                                                  |
 | :---------------------------- | :----------------------------------------------------------- |
-| <span data-ttu-id="aad7d-121">**Платежное поручение**</span><span class="sxs-lookup"><span data-stu-id="aad7d-121">**Bank Payment Order**</span></span>        | <span data-ttu-id="aad7d-122">Этот отчет является копией платежного поручения.</span><span class="sxs-lookup"><span data-stu-id="aad7d-122">This report is a copy of the bank payment order.</span></span>             |
-| <span data-ttu-id="aad7d-123">**Банк. счет - оборотная ведомость**</span><span class="sxs-lookup"><span data-stu-id="aad7d-123">**Bank Account G/L Turnover**</span></span> | <span data-ttu-id="aad7d-124">Этот отчет содержит список информации по финансовому обороту.</span><span class="sxs-lookup"><span data-stu-id="aad7d-124">This report is a list of general ledger turnover information.</span></span> |
-| <span data-ttu-id="aad7d-125">**Карточка банковского счета**</span><span class="sxs-lookup"><span data-stu-id="aad7d-125">**Bank Account Card**</span></span>         | <span data-ttu-id="aad7d-126">Этот отчет содержит информацию о банковских операциях.</span><span class="sxs-lookup"><span data-stu-id="aad7d-126">This report contains information about bank operations.</span></span>      |
+| <span data-ttu-id="7dbb8-121">**Платежное поручение**</span><span class="sxs-lookup"><span data-stu-id="7dbb8-121">**Bank Payment Order**</span></span>        | <span data-ttu-id="7dbb8-122">Этот отчет является копией платежного поручения.</span><span class="sxs-lookup"><span data-stu-id="7dbb8-122">This report is a copy of the bank payment order.</span></span>             |
+| <span data-ttu-id="7dbb8-123">**Банк. счет - оборотная ведомость**</span><span class="sxs-lookup"><span data-stu-id="7dbb8-123">**Bank Account G/L Turnover**</span></span> | <span data-ttu-id="7dbb8-124">Этот отчет содержит список информации по финансовому обороту.</span><span class="sxs-lookup"><span data-stu-id="7dbb8-124">This report is a list of general ledger turnover information.</span></span> |
+| <span data-ttu-id="7dbb8-125">**Карточка банковского счета**</span><span class="sxs-lookup"><span data-stu-id="7dbb8-125">**Bank Account Card**</span></span>         | <span data-ttu-id="7dbb8-126">Этот отчет содержит информацию о банковских операциях.</span><span class="sxs-lookup"><span data-stu-id="7dbb8-126">This report contains information about bank operations.</span></span>      |
 
  
 
-## <a name="see-also"></a><span data-ttu-id="aad7d-127">См. также</span><span class="sxs-lookup"><span data-stu-id="aad7d-127">See Also</span></span> 
+## <a name="see-also"></a><span data-ttu-id="7dbb8-127">См. также</span><span class="sxs-lookup"><span data-stu-id="7dbb8-127">See Also</span></span> 
 
-[<span data-ttu-id="aad7d-128">Настройка платежного поручения</span><span class="sxs-lookup"><span data-stu-id="aad7d-128">Set Up a Bank Payment Order</span></span>](How-to-Set-Up-a-Bank-Payment-Order.md)
+[<span data-ttu-id="7dbb8-128">Настройка платежного поручения</span><span class="sxs-lookup"><span data-stu-id="7dbb8-128">Set Up a Bank Payment Order</span></span>](How-to-Set-Up-a-Bank-Payment-Order.md)
 
 
 [!INCLUDE[footer-include](../../includes/footer-banner.md)]
