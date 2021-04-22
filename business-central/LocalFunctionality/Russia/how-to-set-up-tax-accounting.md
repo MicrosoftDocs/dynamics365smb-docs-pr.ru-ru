@@ -5,53 +5,53 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: aecf1bd3c8f38740a2e4c2a9fb74d4224e0c877c
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: 8b3328d0cafdd57c0ba454e47b022607e606a645
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5383478"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5786669"
 ---
-# <a name="set-up-tax-accounting"></a><span data-ttu-id="043b1-103">Настройка налогового учета</span><span class="sxs-lookup"><span data-stu-id="043b1-103">Set Up Tax Accounting</span></span>
+# <a name="set-up-tax-accounting"></a><span data-ttu-id="1cfe8-103">Настройка налогового учета</span><span class="sxs-lookup"><span data-stu-id="1cfe8-103">Set Up Tax Accounting</span></span>
 
-<span data-ttu-id="043b1-104">Налоговый учет позволяет применять правила признания доходов и расходов в соответствии с местным законодательством.</span><span class="sxs-lookup"><span data-stu-id="043b1-104">Tax accounting lets you apply rules for recognizing income and expenses that follow your local tax laws.</span></span> <span data-ttu-id="043b1-105">Вы можете активировать функции налогового учета в [!INCLUDE[prod_short](../../includes/prod_short.md)], настроив налоговые регистры.</span><span class="sxs-lookup"><span data-stu-id="043b1-105">You can activate tax accounting features in [!INCLUDE[prod_short](../../includes/prod_short.md)] by setting up tax registers.</span></span>
+<span data-ttu-id="1cfe8-104">Налоговый учет позволяет применять правила признания доходов и расходов в соответствии с местным законодательством.</span><span class="sxs-lookup"><span data-stu-id="1cfe8-104">Tax accounting lets you apply rules for recognizing income and expenses that follow your local tax laws.</span></span> <span data-ttu-id="1cfe8-105">Вы можете активировать функции налогового учета в [!INCLUDE[prod_short](../../includes/prod_short.md)], настроив налоговые регистры.</span><span class="sxs-lookup"><span data-stu-id="1cfe8-105">You can activate tax accounting features in [!INCLUDE[prod_short](../../includes/prod_short.md)] by setting up tax registers.</span></span>
 
-## <a name="to-activate-tax-accounting"></a><span data-ttu-id="043b1-106">Активация налогового учета</span><span class="sxs-lookup"><span data-stu-id="043b1-106">To activate tax accounting</span></span>
+## <a name="to-activate-tax-accounting"></a><span data-ttu-id="1cfe8-106">Активация налогового учета</span><span class="sxs-lookup"><span data-stu-id="1cfe8-106">To activate tax accounting</span></span>
 
-1. <span data-ttu-id="043b1-107">Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка налоговых регистров**, затем выберите соответствующую ссылку.</span><span class="sxs-lookup"><span data-stu-id="043b1-107">Choose the ![Lightbulb that opens the Tell Me feature](../../media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Tax Register Setup**, and then choose the related link.</span></span>
+1. <span data-ttu-id="1cfe8-107">Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка налоговых регистров**, затем выберите соответствующую ссылку.</span><span class="sxs-lookup"><span data-stu-id="1cfe8-107">Choose the ![Lightbulb that opens the Tell Me feature](../../media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Tax Register Setup**, and then choose the related link.</span></span>
 
-2. <span data-ttu-id="043b1-108">На экспресс-вкладке **Общее** выберите коды для следующих измерений.</span><span class="sxs-lookup"><span data-stu-id="043b1-108">On the **General** FastTab, select codes for the following dimensions.</span></span>
+2. <span data-ttu-id="1cfe8-108">На экспресс-вкладке **Общее** выберите коды для следующих измерений.</span><span class="sxs-lookup"><span data-stu-id="1cfe8-108">On the **General** FastTab, select codes for the following dimensions.</span></span>
 
-   | <span data-ttu-id="043b1-109">Поле</span><span class="sxs-lookup"><span data-stu-id="043b1-109">Field</span></span>                        | <span data-ttu-id="043b1-110">Описание</span><span class="sxs-lookup"><span data-stu-id="043b1-110">Description</span></span>                                                  |
+   | <span data-ttu-id="1cfe8-109">Поле</span><span class="sxs-lookup"><span data-stu-id="1cfe8-109">Field</span></span>                        | <span data-ttu-id="1cfe8-110">Описание</span><span class="sxs-lookup"><span data-stu-id="1cfe8-110">Description</span></span>                                                  |
    | :--------------------------- | :----------------------------------------------------------- |
-   | <span data-ttu-id="043b1-111">**Условие - код измерения**</span><span class="sxs-lookup"><span data-stu-id="043b1-111">**Condition Dimension Code**</span></span> | <span data-ttu-id="043b1-112">Выберите код измерения, описывающий условие налогового регистра.</span><span class="sxs-lookup"><span data-stu-id="043b1-112">Select a dimension code that describes the condition of the tax register.</span></span> |
-   | <span data-ttu-id="043b1-113">**Вид - код измерения**</span><span class="sxs-lookup"><span data-stu-id="043b1-113">**Kind Dimension Code**</span></span>      | <span data-ttu-id="043b1-114">Выберите код измерения, описывающий тип налогового регистра.</span><span class="sxs-lookup"><span data-stu-id="043b1-114">Select a dimension code that describes the type of tax register.</span></span> |
+   | <span data-ttu-id="1cfe8-111">**Условие - код измерения**</span><span class="sxs-lookup"><span data-stu-id="1cfe8-111">**Condition Dimension Code**</span></span> | <span data-ttu-id="1cfe8-112">Выберите код измерения, описывающий условие налогового регистра.</span><span class="sxs-lookup"><span data-stu-id="1cfe8-112">Select a dimension code that describes the condition of the tax register.</span></span> |
+   | <span data-ttu-id="1cfe8-113">**Вид - код измерения**</span><span class="sxs-lookup"><span data-stu-id="1cfe8-113">**Kind Dimension Code**</span></span>      | <span data-ttu-id="1cfe8-114">Выберите код измерения, описывающий тип налогового регистра.</span><span class="sxs-lookup"><span data-stu-id="1cfe8-114">Select a dimension code that describes the type of tax register.</span></span> |
 
-3. <span data-ttu-id="043b1-115">Выберите следующие поля, чтобы активировать операции в налоговом регистре.</span><span class="sxs-lookup"><span data-stu-id="043b1-115">Select the following fields to activate entries in the tax register.</span></span>
+3. <span data-ttu-id="1cfe8-115">Выберите следующие поля, чтобы активировать операции в налоговом регистре.</span><span class="sxs-lookup"><span data-stu-id="1cfe8-115">Select the following fields to activate entries in the tax register.</span></span>
 
-   | <span data-ttu-id="043b1-116">Поле</span><span class="sxs-lookup"><span data-stu-id="043b1-116">Field</span></span>                             | <span data-ttu-id="043b1-117">Описание</span><span class="sxs-lookup"><span data-stu-id="043b1-117">Description</span></span>                                            |
+   | <span data-ttu-id="1cfe8-116">Поле</span><span class="sxs-lookup"><span data-stu-id="1cfe8-116">Field</span></span>                             | <span data-ttu-id="1cfe8-117">Описание</span><span class="sxs-lookup"><span data-stu-id="1cfe8-117">Description</span></span>                                            |
    | :-------------------------------- | :----------------------------------------------------- |
-   | <span data-ttu-id="043b1-118">**Создавать приобр. ОС в НУ**</span><span class="sxs-lookup"><span data-stu-id="043b1-118">**Create Acquis. FA Tax Ledger**</span></span>  | <span data-ttu-id="043b1-119">Выберите, чтобы создать операции приобретения ОС.</span><span class="sxs-lookup"><span data-stu-id="043b1-119">Select to create fixed asset acquisition entries.</span></span>      |
-   | <span data-ttu-id="043b1-120">**Создавать рекласс. ОС в НУ**</span><span class="sxs-lookup"><span data-stu-id="043b1-120">**Create Reclass. FA Tax Ledger**</span></span> | <span data-ttu-id="043b1-121">Выберите, чтобы создать операции реклассификации ОС.</span><span class="sxs-lookup"><span data-stu-id="043b1-121">Select to create fixed asset reclassification entries.</span></span> |
-   | <span data-ttu-id="043b1-122">**Создавать РБП по приобр. в НУ**</span><span class="sxs-lookup"><span data-stu-id="043b1-122">**Create Acquis. FE Tax Ledger**</span></span>  | <span data-ttu-id="043b1-123">Выберите, чтобы создать операции приобретения с учетом в будущих периодах.</span><span class="sxs-lookup"><span data-stu-id="043b1-123">Select to create future expense acquisition entries.</span></span>   |
+   | <span data-ttu-id="1cfe8-118">**Создавать приобр. ОС в НУ**</span><span class="sxs-lookup"><span data-stu-id="1cfe8-118">**Create Acquis. FA Tax Ledger**</span></span>  | <span data-ttu-id="1cfe8-119">Выберите, чтобы создать операции приобретения ОС.</span><span class="sxs-lookup"><span data-stu-id="1cfe8-119">Select to create fixed asset acquisition entries.</span></span>      |
+   | <span data-ttu-id="1cfe8-120">**Создавать рекласс. ОС в НУ**</span><span class="sxs-lookup"><span data-stu-id="1cfe8-120">**Create Reclass. FA Tax Ledger**</span></span> | <span data-ttu-id="1cfe8-121">Выберите, чтобы создать операции реклассификации ОС.</span><span class="sxs-lookup"><span data-stu-id="1cfe8-121">Select to create fixed asset reclassification entries.</span></span> |
+   | <span data-ttu-id="1cfe8-122">**Создавать РБП по приобр. в НУ**</span><span class="sxs-lookup"><span data-stu-id="1cfe8-122">**Create Acquis. FE Tax Ledger**</span></span>  | <span data-ttu-id="1cfe8-123">Выберите, чтобы создать операции приобретения с учетом в будущих периодах.</span><span class="sxs-lookup"><span data-stu-id="1cfe8-123">Select to create future expense acquisition entries.</span></span>   |
 
-4. <span data-ttu-id="043b1-124">Выберите соответствующие книги амортизации в полях **Книга амортизации для налогового учета** и **Расх. буд. пер. - книга аморт.**.</span><span class="sxs-lookup"><span data-stu-id="043b1-124">Select the appropriate depreciation books in the **Tax Depreciation Book** and **Future Exp. Depreciation Book** fields.</span></span> <span data-ttu-id="043b1-125">Книги амортизации, которые вы выбрали, должны быть интегрированы с модулем финансов [!INCLUDE[prod_short](../../includes/prod_short.md)].</span><span class="sxs-lookup"><span data-stu-id="043b1-125">The depreciation books that you select should not be integrated with the [!INCLUDE[prod_short](../../includes/prod_short.md)] finance module.</span></span>
+4. <span data-ttu-id="1cfe8-124">Выберите соответствующие книги амортизации в полях **Книга амортизации для налогового учета** и **Расх. буд. пер. - книга аморт.**.</span><span class="sxs-lookup"><span data-stu-id="1cfe8-124">Select the appropriate depreciation books in the **Tax Depreciation Book** and **Future Exp. Depreciation Book** fields.</span></span> <span data-ttu-id="1cfe8-125">Книги амортизации, которые вы выбрали, должны быть интегрированы с модулем финансов [!INCLUDE[prod_short](../../includes/prod_short.md)].</span><span class="sxs-lookup"><span data-stu-id="1cfe8-125">The depreciation books that you select should not be integrated with the [!INCLUDE[prod_short](../../includes/prod_short.md)] finance module.</span></span>
 
-5. <span data-ttu-id="043b1-126">Установите флажок **Создать данные для печати форм**, чтобы разрешить печать подробных данных налогового регистра в отчетах и формах.</span><span class="sxs-lookup"><span data-stu-id="043b1-126">Select the **Create Data for Printing Forms** check box to enable detailed tax register entry information to be printed on reports and forms.</span></span>
+5. <span data-ttu-id="1cfe8-126">Установите флажок **Создать данные для печати форм**, чтобы разрешить печать подробных данных налогового регистра в отчетах и формах.</span><span class="sxs-lookup"><span data-stu-id="1cfe8-126">Select the **Create Data for Printing Forms** check box to enable detailed tax register entry information to be printed on reports and forms.</span></span>
 
-6. <span data-ttu-id="043b1-127">Нажмите кнопку **Закрыть**, чтобы закрыть окно и сохранить введенные данные.</span><span class="sxs-lookup"><span data-stu-id="043b1-127">Choose the **Close** button to close the window and save your entries.</span></span>
+6. <span data-ttu-id="1cfe8-127">Нажмите кнопку **Закрыть**, чтобы закрыть окно и сохранить введенные данные.</span><span class="sxs-lookup"><span data-stu-id="1cfe8-127">Choose the **Close** button to close the window and save your entries.</span></span>
 
-<span data-ttu-id="043b1-128">Дополнительные сведения о том, как настроить налоговые регистры, см. в разделе [Создание налоговых регистров](How-to-Create-Tax-Registers.md).</span><span class="sxs-lookup"><span data-stu-id="043b1-128">For more information about how to set up and customize tax registers, see [Create Tax Registers](How-to-Create-Tax-Registers.md).</span></span>
+<span data-ttu-id="1cfe8-128">Дополнительные сведения о том, как настроить налоговые регистры, см. в разделе [Создание налоговых регистров](How-to-Create-Tax-Registers.md).</span><span class="sxs-lookup"><span data-stu-id="1cfe8-128">For more information about how to set up and customize tax registers, see [Create Tax Registers](How-to-Create-Tax-Registers.md).</span></span>
 
-## <a name="see-also"></a><span data-ttu-id="043b1-129">См. также</span><span class="sxs-lookup"><span data-stu-id="043b1-129">See Also</span></span>
+## <a name="see-also"></a><span data-ttu-id="1cfe8-129">См. также</span><span class="sxs-lookup"><span data-stu-id="1cfe8-129">See Also</span></span>
 
-[<span data-ttu-id="043b1-130">Налоговый учет</span><span class="sxs-lookup"><span data-stu-id="043b1-130">Tax Accounting</span></span>](Tax-Accounting.md)  
-[<span data-ttu-id="043b1-131">Налоговые регистры</span><span class="sxs-lookup"><span data-stu-id="043b1-131">Tax Registers</span></span>](Tax-Registers.md)  
-[<span data-ttu-id="043b1-132">Расчет налоговых регистров</span><span class="sxs-lookup"><span data-stu-id="043b1-132">Create Tax Registers</span></span>](How-to-Create-Tax-Registers.md)  
-[<span data-ttu-id="043b1-133">Налоговые разницы</span><span class="sxs-lookup"><span data-stu-id="043b1-133">Tax Differences</span></span>](Tax-Differences.md)  
+[<span data-ttu-id="1cfe8-130">Налоговый учет</span><span class="sxs-lookup"><span data-stu-id="1cfe8-130">Tax Accounting</span></span>](Tax-Accounting.md)  
+[<span data-ttu-id="1cfe8-131">Налоговые регистры</span><span class="sxs-lookup"><span data-stu-id="1cfe8-131">Tax Registers</span></span>](Tax-Registers.md)  
+[<span data-ttu-id="1cfe8-132">Расчет налоговых регистров</span><span class="sxs-lookup"><span data-stu-id="1cfe8-132">Create Tax Registers</span></span>](How-to-Create-Tax-Registers.md)  
+[<span data-ttu-id="1cfe8-133">Налоговые разницы</span><span class="sxs-lookup"><span data-stu-id="1cfe8-133">Tax Differences</span></span>](Tax-Differences.md)  
 
 
 [!INCLUDE[footer-include](../../includes/footer-banner.md)]

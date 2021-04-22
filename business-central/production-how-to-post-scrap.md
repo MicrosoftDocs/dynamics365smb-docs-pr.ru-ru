@@ -8,35 +8,35 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 4319e9b8880cde53d658b52015cc8c993cb6a583
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: b0abd3da4abd0b91b7541fb545606c569f98b987
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5391778"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5787856"
 ---
-# <a name="post-scrap-manually"></a><span data-ttu-id="57bc8-104">Учет брака/отходов вручную</span><span class="sxs-lookup"><span data-stu-id="57bc8-104">Post Scrap Manually</span></span>
-<span data-ttu-id="57bc8-105">Если в ходе обработки возникают отходы, их можно также ввести в журнал выхода.</span><span class="sxs-lookup"><span data-stu-id="57bc8-105">If scrap is produced during processing, it can be entered in the output journal.</span></span> 
+# <a name="post-scrap-manually"></a><span data-ttu-id="1cdc6-104">Учет брака/отходов вручную</span><span class="sxs-lookup"><span data-stu-id="1cdc6-104">Post Scrap Manually</span></span>
+<span data-ttu-id="1cdc6-105">Если в ходе обработки возникают отходы, их можно также ввести в журнал выхода.</span><span class="sxs-lookup"><span data-stu-id="1cdc6-105">If scrap is produced during processing, it can be entered in the output journal.</span></span> 
 
 > [!NOTE]
-> <span data-ttu-id="57bc8-106">Добавление количества брака/отхода не увеличивает количество выхода.</span><span class="sxs-lookup"><span data-stu-id="57bc8-106">The scrap quantity does not increase the output quantity.</span></span>  
+> <span data-ttu-id="1cdc6-106">Добавление количества брака/отхода не увеличивает количество выхода.</span><span class="sxs-lookup"><span data-stu-id="1cdc6-106">The scrap quantity does not increase the output quantity.</span></span>  
 
-## <a name="to-post-scrap-manually"></a><span data-ttu-id="57bc8-107">Учет брака вручную</span><span class="sxs-lookup"><span data-stu-id="57bc8-107">To post scrap manually</span></span>  
-1. <span data-ttu-id="57bc8-108">Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Журнал выхода продукции**, затем выберите соответствующую ссылку.</span><span class="sxs-lookup"><span data-stu-id="57bc8-108">Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Output Journal**, and then choose the related link.</span></span>  
-2. <span data-ttu-id="57bc8-109">Заполните соответствующим образом поля.</span><span class="sxs-lookup"><span data-stu-id="57bc8-109">Fill in the fields as necessary.</span></span> [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
-3. <span data-ttu-id="57bc8-110">В поле **Кол-во брака/отхода** введите количество брака/отхода.</span><span class="sxs-lookup"><span data-stu-id="57bc8-110">In the **Scrapped Quantity** field, enter the scrap quantity.</span></span>  
-4. <span data-ttu-id="57bc8-111">В поле **Код брака** введите код брака/отхода.</span><span class="sxs-lookup"><span data-stu-id="57bc8-111">In the **Scrap Code** field, enter the scrap code.</span></span>  
-5. <span data-ttu-id="57bc8-112">Выберите действие **Учет** для учета указанного брака или отходов на операцию.</span><span class="sxs-lookup"><span data-stu-id="57bc8-112">Choose the **Post** action to post the specified scrap per operation.</span></span>  
+## <a name="to-post-scrap-manually"></a><span data-ttu-id="1cdc6-107">Учет брака вручную</span><span class="sxs-lookup"><span data-stu-id="1cdc6-107">To post scrap manually</span></span>  
+1. <span data-ttu-id="1cdc6-108">Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Журнал выхода продукции**, затем выберите соответствующую ссылку.</span><span class="sxs-lookup"><span data-stu-id="1cdc6-108">Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Output Journal**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="1cdc6-109">Заполните соответствующим образом поля.</span><span class="sxs-lookup"><span data-stu-id="1cdc6-109">Fill in the fields as necessary.</span></span> [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
+3. <span data-ttu-id="1cdc6-110">В поле **Кол-во брака/отхода** введите количество брака/отхода.</span><span class="sxs-lookup"><span data-stu-id="1cdc6-110">In the **Scrapped Quantity** field, enter the scrap quantity.</span></span>  
+4. <span data-ttu-id="1cdc6-111">В поле **Код брака** введите код брака/отхода.</span><span class="sxs-lookup"><span data-stu-id="1cdc6-111">In the **Scrap Code** field, enter the scrap code.</span></span>  
+5. <span data-ttu-id="1cdc6-112">Выберите действие **Учет** для учета указанного брака или отходов на операцию.</span><span class="sxs-lookup"><span data-stu-id="1cdc6-112">Choose the **Post** action to post the specified scrap per operation.</span></span>  
 
-## <a name="see-also"></a><span data-ttu-id="57bc8-113">См. также</span><span class="sxs-lookup"><span data-stu-id="57bc8-113">See Also</span></span>  
-<span data-ttu-id="57bc8-114">[Производство](production-manage-manufacturing.md)  </span><span class="sxs-lookup"><span data-stu-id="57bc8-114">[Manufacturing](production-manage-manufacturing.md)  </span></span>  
-[<span data-ttu-id="57bc8-115">Настройка производства</span><span class="sxs-lookup"><span data-stu-id="57bc8-115">Setting Up Manufacturing</span></span>](production-configure-production-processes.md)  
-<span data-ttu-id="57bc8-116">[Планирование](production-planning.md)    </span><span class="sxs-lookup"><span data-stu-id="57bc8-116">[Planning](production-planning.md)    </span></span>  
-[<span data-ttu-id="57bc8-117">Запасы</span><span class="sxs-lookup"><span data-stu-id="57bc8-117">Inventory</span></span>](inventory-manage-inventory.md)  
-[<span data-ttu-id="57bc8-118">Покупки</span><span class="sxs-lookup"><span data-stu-id="57bc8-118">Purchasing</span></span>](purchasing-manage-purchasing.md)  
-<span data-ttu-id="57bc8-119">[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="57bc8-119">[Working with [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)</span></span>
+## <a name="see-also"></a><span data-ttu-id="1cdc6-113">См. также</span><span class="sxs-lookup"><span data-stu-id="1cdc6-113">See Also</span></span>  
+<span data-ttu-id="1cdc6-114">[Производство](production-manage-manufacturing.md)  </span><span class="sxs-lookup"><span data-stu-id="1cdc6-114">[Manufacturing](production-manage-manufacturing.md)  </span></span>  
+[<span data-ttu-id="1cdc6-115">Настройка производства</span><span class="sxs-lookup"><span data-stu-id="1cdc6-115">Setting Up Manufacturing</span></span>](production-configure-production-processes.md)  
+<span data-ttu-id="1cdc6-116">[Планирование](production-planning.md)    </span><span class="sxs-lookup"><span data-stu-id="1cdc6-116">[Planning](production-planning.md)    </span></span>  
+[<span data-ttu-id="1cdc6-117">Запасы</span><span class="sxs-lookup"><span data-stu-id="1cdc6-117">Inventory</span></span>](inventory-manage-inventory.md)  
+[<span data-ttu-id="1cdc6-118">Покупки</span><span class="sxs-lookup"><span data-stu-id="1cdc6-118">Purchasing</span></span>](purchasing-manage-purchasing.md)  
+<span data-ttu-id="1cdc6-119">[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="1cdc6-119">[Working with [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)</span></span>
 
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]
