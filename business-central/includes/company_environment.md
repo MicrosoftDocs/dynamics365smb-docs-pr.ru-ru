@@ -2,14 +2,14 @@
 author: edupont04
 ms.service: dynamics365-accountant
 ms.topic: include
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: dcfc54d36b212b296747d28945324ac46c38cada
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: fa7e5a51696c149e66da0d76cf1042c5e8f7e7e3
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4753621"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5776400"
 ---
 Иногда люди поддерживают более одной компании, и им нужно легко переключаться с работы в одной компании на другую в [!INCLUDE [prod_short](prod_short.md)]. Например, у бизнеса могут быть офисы продаж в городах и нескольких странах, поэтому создано отдельное бизнес-подразделение для каждого офиса. Офисы, находящиеся в одной стране, создаются как отдельные компании в общей среде. Другие офисы создаются как компании в отдельных средах, поскольку они географически расположены в других странах.<br><br>  
 

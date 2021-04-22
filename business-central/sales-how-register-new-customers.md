@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: client, customer, credit
-ms.date: 03/09/2021
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: d873c1546cebfccc6d2549b1de2b9d111589c553
-ms.sourcegitcommit: 35f7e24c301926b39094aa64fe608afd04fdb8e1
+ms.openlocfilehash: 178bc8374d50bac5b7f7a6793c596c5109943fa6
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "5573430"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5778601"
 ---
 # <a name="register-new-customers"></a>Регистрация новых клиентов
 
@@ -27,7 +27,7 @@ ms.locfileid: "5573430"
 
 ## <a name="adding-new-customers"></a>Добавление новых клиентов
 
-Чтобы зарегистрировать нового клиента, необходимо заполнить карточку клиента. Вы можете создавать шаблоны для разных профилей клиентов или добавлять клиентов без шаблонов.  
+Чтобы зарегистрировать нового клиента, необходимо заполнить карточку клиента. Вы можете создавать шаблоны для разных профилей клиентов или добавлять клиентов без шаблонов. Вы также можете создать клиента из контакта. Дополнительные сведения см. в разделе [Создание клиента, поставщика, сотрудника или банковского счета из контакта](marketing-create-contact-companies.md#to-create-a-customer-vendor-employee-or-bank-account-from-a-contact).  
 
 > [!NOTE]  
 > Если существуют шаблоны клиентов для различных типов клиентов, при создании новой карточки клиента отобразится страница, с которой можно выбрать подходящий шаблон. Если существует только один шаблон клиента, для создания новых карточек клиентов всегда используется этот шаблон.  

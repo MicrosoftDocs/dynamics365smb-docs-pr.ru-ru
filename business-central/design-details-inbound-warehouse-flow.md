@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 4ab1b8a7dce90f2bb2122f1f77c04da2ff795aa8
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: 67c93eddcb84c3cf87edb6f407cea7af5aecda59
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5390028"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5770545"
 ---
 # <a name="design-details-inbound-warehouse-flow"></a>Сведения о проектировании: входящий складской поток
 Входящий поток на складе начинается с прибытия товаров на склад компании из внешних источников или с другого склада компании. Сотрудник зарегистрирует товар, как правило, сканируя штрих-код. Из зоны приемки складские операции выполняются на разных уровнях сложности для перемещения товаров в зону хранения.  

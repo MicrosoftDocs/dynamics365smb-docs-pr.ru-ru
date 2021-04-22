@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: c5a72fd3026f0dd78a547809e0ad6afe9de2d420
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: 6e5f20d2f450f3f544cc2f7023160e4e9babdf33
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5390878"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5772808"
 ---
 # <a name="design-details-item-tracking"></a>Сведения о проектировании: трассировка товара
 По мере усложнения потока товаров в текущей цепочке поставок организациям становится все более важно иметь возможность отслеживать товары. Отслеживание потока транзакций по товару — это юридическое требование в сфере медицинских и химических поставок, но в других бизнес-сферах может потребоваться отслеживать продукты с гарантиями или сроками годности в целях обслуживания клиентов.  
@@ -32,5 +32,8 @@ ms.locfileid: "5390878"
 [Сведения о проектировании: трассировка и резервирование товара](design-details-item-tracking-and-reservations.md)  
 [Сведения о проектировании: трассировка товара на складе](design-details-item-tracking-in-the-warehouse.md)
 
+## <a name="see-also"></a>См. также
+
+[Работа с серийными номерами, номерами партий и номерами упаковок](inventory-how-work-item-tracking.md)  
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

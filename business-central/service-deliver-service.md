@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: service, service items, respond, response
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 356ca50a1814756d0ef2ad9c3e478d94af5fd461
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: efb5942dfd58365effdf4d46759ea81f75fe718e
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5377452"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5778326"
 ---
 # <a name="delivering-service"></a>Предоставление услуги
 В [!INCLUDE[prod_short](includes/prod_short.md)] предусмотрены функции, упрощающие процесс предоставления услуг по созданным контрактам и переданным на выполнение сервисным заказам. С помощью **панели диспетчера** технический персонал и диспетчеры могут легко находить невыполненные сервисные заказы. **Панель диспетчера** позволяет с первого взгляда определить, какие заказы выполняются, а какие уже выполнены заказы.  

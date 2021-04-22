@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: purchase fixed asset
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: a8aa71492c307ba017b7ec3e2914e5f63e1dbefc
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: ff6f0efce35a894f2a2200d2c8a89b35ad26bb53
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5377776"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5774134"
 ---
 # <a name="acquire-fixed-assets"></a>Приобрести основные средства
 Для каждого из основных средств необходимо настроить карточку, содержащую сведения об этом активе. Можно настроить здания или производственное оборудование как основное средство со списком компонентов, и их можно группировать разными способами, например по классам, подразделениям или расположению. Книгу амортизации следует настроить и назначить каждому основному средству, прежде чем его можно будет приобрести.
@@ -102,7 +102,7 @@ ms.locfileid: "5377776"
 [Основные Средства](fa-manage.md)  
 [Настройка основных средств](fa-setup.md)  
 [Финансы](finance.md)  
-[Приступая к работе](product-get-started.md)  
+[Подготовьтесь к ведению бизнеса](ui-get-ready-business.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
 
 

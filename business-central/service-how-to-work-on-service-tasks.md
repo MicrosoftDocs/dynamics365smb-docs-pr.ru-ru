@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: ca68b01ed69883be44d97bcdc03429332fd6e75d
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: 372b527ed76788bae8608fbc89ff8ab6902a6d5b
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5389728"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5774282"
 ---
 # <a name="work-on-service-tasks"></a>Работа с сервисными задачами
 После создания сервисного заказа или предложения, регистрации строк сервисного товара и распределения ресурсов сервисным товарам в заказе или предложении можно начинать ремонт и обслуживание сервисных товаров.  

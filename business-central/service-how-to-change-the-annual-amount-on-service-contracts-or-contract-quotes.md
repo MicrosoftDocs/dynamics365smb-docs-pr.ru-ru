@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: 821502036b61d7344ac2b590b938563f88ccc5e2
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: 718131ab06bd81a2394d82b9645a9e70be3f95a0
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5390478"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5775329"
 ---
 # <a name="change-the-annual-amount-on-service-contracts-or-contract-quotes"></a>Изменение годовой суммы в сервисном контракте или в предложении по контракту
 Чтобы исправить сумму, на которую будет ежегодно выставляться счет, можно изменить годовую сумму в сервисном контракте или в предложении по контракту.  

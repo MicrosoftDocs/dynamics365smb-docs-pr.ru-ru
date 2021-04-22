@@ -6,14 +6,14 @@ ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.workload: na
 ms.search.keywords: preview, trial, sandbox, subscription
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 3f8d8b2744fb5179183e223c8741669f7af9754b
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: c3f807a7e02a9791fb8ea465bc399e3e3345a0f3
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5379102"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5777495"
 ---
 # <a name="prod_long-trials-and-subscriptions"></a>Пробные версии и подписки [!INCLUDE[prod_long](includes/prod_long.md)]
 
@@ -27,7 +27,7 @@ ms.locfileid: "5379102"
 
 В зависимости от вашей страны или региона пробная версия включает в себя языки и функциональные возможности, необходимые для вашей страны или региона. Для получения дополнительной информации см. [Изменение языка и языкового стандарта](about-locale-language.md).  
 
-В [!INCLUDE[prod_short](includes/prod_short.md)] некоторые моменты будут хорошо знакомы вам, а другие могут быть незнакомы. При первом входе в демонстрационную компанию вы получаете доступ к странице "Начало работы" со ссылками на видео, которые могут помочь вам начать работу. Дополнительные сведения см. в разделе [Приступая к работе с [!INCLUDE[prod_long](includes/prod_long.md)]](product-get-started.md).  
+В [!INCLUDE[prod_short](includes/prod_short.md)] некоторые моменты будут хорошо знакомы вам, а другие могут быть незнакомы. При первом входе в демонстрационную компанию вы получаете доступ к странице "Начало работы" со ссылками на мастер настройки, который может помочь вам начать работу. Дополнительные сведения см. в разделе [Подготовьтесь к ведению бизнеса](ui-get-ready-business.md).  
 
 Если вы столкнулись с трудностями, страница [Вопросы и ответы](across-faq.md) поможет вам ответить на некоторые ваши вопросы. Если вы не можете подписаться на пробную версию, вам поможет страница [Устранение неполадок при самостоятельной регистрации](ui-troubleshoot-self-signup.md). Вы также можете связаться с [партнером](across-faq.md#findpartner) и попросите их создать бесплатную пробную версию или другой тип предварительного просмотра [!INCLUDE[prod_short](includes/prod_short.md)] для вас.  
 
@@ -89,7 +89,7 @@ ms.locfileid: "5379102"
 
 ## <a name="see-also"></a>См. также
 
-[Приступая к работе](product-get-started.md)  
+[Подготовьтесь к ведению бизнеса](ui-get-ready-business.md)  
 [Продление пробной версии](admin-extend-trial.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 [Вопросы и ответы](across-faq.md)  

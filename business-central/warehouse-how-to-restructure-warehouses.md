@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: cf053a049d4c491528956a1fb8c816414e2b9820
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: ad541c54f696b19e9c37fba88134522cc5b7bb90
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5391903"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5771658"
 ---
 # <a name="restructure-warehouses"></a>Изменение структуры складов
 Может возникнуть необходимость реструктуризации склада и введения новых кодов и характеристик ячеек. Этот род действий применяется не слишком часто, но иногда для достижения или обеспечения более эффективной работы склада необходима реклассификация. Например:  

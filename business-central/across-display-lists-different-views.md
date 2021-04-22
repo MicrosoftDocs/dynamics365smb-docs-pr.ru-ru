@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: personalization
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 9670b1c1d8d1fcb9305877998908014804bc4217
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: ca0f7213bbe6edcbebab4959bc16483af2260f86
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5384903"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5776222"
 ---
 # <a name="displaying-lists-in-different-ways"></a>Отображение списков различными способами
 В правом углу любого списка в [!INCLUDE[prod_short](includes/prod_short.md)] находятся значки, позволяющие выбрать способ отображения списка записей. Список может отображаться в виде подробных строк, что идеально подходит для работы с большим количеством полей или редактирования полей в списке. Однако вы также можете переключиться на отображение записей в виде плиток. Это более компактное представление, в котором отображается меньше полей конкретной записи. Это удобно для получения общего представления о нескольких операциях, особенно на небольших устройствах, поскольку плитки компактны и их проще нажимать.

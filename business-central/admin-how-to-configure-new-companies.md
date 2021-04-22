@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 886f698d2e2e872530fc8d4bee8395c1f7897c83
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: da3fb7a171400736e2b1039368235c898deea163
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5378402"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5779986"
 ---
 # <a name="configure-new-companies"></a>Настройка новых организаций
 Настройка новой организации в вашей реализации решения обычно производится в три этапа. На первом этапе необходимо импортировать пакет конфигурации в виде файла .rapidstart с информацией о конфигурации. Во второй фазе изменяется информация о конфигурации и затем применяется к новой организации. На конечном этапе можно просмотреть и исправить все ошибки.  

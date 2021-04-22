@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 48c1a45e1abc510ce98f405dcdecc5d91d1a9ac5
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: 705302fac91b29592c26b82d3e64a49bdc001d02
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5393728"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5778726"
 ---
 # <a name="print-the-picking-list"></a>Печать сборочного листа
 Сборочные листы можно печатать непосредственно из заказа на продажу, счета продажи и любого другого документа, который является основанием для отгрузки товаров.

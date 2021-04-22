@@ -5,14 +5,14 @@ author: edupont04
 ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: app, add-in, manifest, customize
-ms.date: 03/02/2021
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: d92fbe7c21da74c7818be4f249cdb373ed73539f
-ms.sourcegitcommit: a9d48272ce61e5d512a30417412b5363e56abf30
+ms.openlocfilehash: 805350a7b1213ec0e0d0550e5c5b63c557ee470a
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "5493282"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5771343"
 ---
 # <a name="customizing-business-central-online-using-extensions"></a>Настройка Business Central Online с помощью расширений
 
@@ -79,6 +79,27 @@ ms.locfileid: "5493282"
 > [!NOTE]  
 > Узнавать о новых расширениях от Майкрософт и других поставщиков можно по адресу [AppSource.microsoft.com](https://appsource.microsoft.com/marketplace/apps?product=dynamics-365%3Bdynamics-365-business-central&page=1).
 
+
+## <a name="extensions-and-data-transfer"></a>Расширения и передача данных
+
+Поскольку следующие расширения взаимодействуют с другими службами, они могут передавать данные за пределы географии среды [!INCLUDE[prod_short](includes/prod_short.md)]:
+
+* Расширение AMC Banking 365 Fundamentals
+* Анализатор изображений
+* Прогнозирование просрочек оплаты
+* PayPal Payments Standard
+* Прогноз продаж и запасов
+* WorldPay Payments Standard
+
+Это также относится к некоторым функциям базового приложения, таким как следующие возможности:
+
+* Прогноз движения денежных средств
+* Служба обмена документами
+* Подключения к Dataverse
+* Сервис OCR
+* Online Map
+* Служба проверки ИНН в ЕС Сервис
+
 ## <a name="see-also"></a>См. также
 
 [Настройка Business Central](ui-customizing-overview.md)  
@@ -88,7 +109,7 @@ ms.locfileid: "5493282"
 [Миграция бизнес-данных из других финансовых систем](across-import-data-configuration-packages.md)  
 [Настройка расширения "Почтовые индексы Великобритании GetAddress.io"](LocalFunctionality/UnitedKingdom/uk-setup-postal-code-service.md)  
 [Расширения [!INCLUDE[prod_short](includes/prod_short.md)] от других поставщиков](ui-extensions-other.md)  
-[Приступая к работе](product-get-started.md)  
+[Подготовьтесь к ведению бизнеса](ui-get-ready-business.md)  
 
 ## [!INCLUDE[prod_short](includes/free_trial_md.md)]  
 

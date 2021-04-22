@@ -2,14 +2,14 @@
 author: edupont04
 ms.service: dynamics365-business-central
 ms.topic: include
-ms.date: 11/12/2020
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 5b5849337d601fd30e57730dc0140b08e79dc45e
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: dc1c27bd31420eeac603a189b053e26010f4ef83
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4751909"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5772833"
 ---
 [!INCLUDE[prod_short](prod_short.md)] Online регулируется в соответствии с [современной политикой жизненного цикла](https://support.microsoft.com/help/30881/modern-lifecycle-policy), Условия соглашения об уровне обслуживания описаны в документе, который можно загрузить из раздела **Соглашения об уровне обслуживания для Microsoft Online Services** на стр. [Условия лицензирования](https://www.microsoft.com/licensing/product-licensing/products).  
 

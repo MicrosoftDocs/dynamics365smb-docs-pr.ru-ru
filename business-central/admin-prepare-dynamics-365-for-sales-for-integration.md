@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: sales, crm, integration, integrating
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: 02633c21025fe13b3cb781d8750d7c839640289c
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: 136a96c880c7abf9b082d7f8859e484be54da4e1
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5385378"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5777338"
 ---
 # <a name="integrating-with-dynamics-365-sales"></a>Интеграция с Dynamics 365 Sales
 [!INCLUDE[prod_short](includes/cc_data_platform_banner.md)]
@@ -75,7 +75,7 @@ ms.locfileid: "5385378"
 |**URL-адрес веб-службы OData Dynamics 365 Business Central**|Если включена веб-служба наличия товаров, URL-адрес веб-службы OData предоставляется для вас. Для использования задайте в этом поле URL-адрес экземпляра [!INCLUDE[prod_short](includes/prod_short.md)].<br /><br /> Для возврата в поле URL-адреса по умолчанию для [!INCLUDE[prod_short](includes/prod_short.md)], выберите действие **Сбросить URL-адрес веб-клиента**.<br /><br /> Это поле используется только в случае установки решения интеграции [!INCLUDE[prod_short](includes/prod_short.md)] в [!INCLUDE[crm_md](includes/crm_md.md)].|
 |**Имя пользователя веб-службы OData Dynamics 365 Business Central**|Имя пользователя учетной записи, которую [!INCLUDE[crm_md](includes/crm_md.md)] использует для получения сведений о наличии товаров из [!INCLUDE[prod_short](includes/prod_short.md)] через веб-службу OData.|
 |**Ключ доступа веб-службы OData Dynamics 365 Business Central**|Ключ доступа учетной записи пользователя, которую [!INCLUDE[crm_md](includes/crm_md.md)] использует для получения сведений о наличии товаров из [!INCLUDE[prod_short](includes/prod_short.md)] через веб-службу OData. Ключ назначается пользователю, выбранному в поле **Имя пользователя веб-службы OData Dynamics 365 Business Central**. Чтобы получить ключ, выберите кнопку **Найти значение** рядом с именем пользователя, выберите пользователя, выберите **Управление**, затем выберите **Правка**. В карточке пользователя выберите **Действия**, **Проверка подлинности**, затем выберите **Изменить ключ веб-службы**.|
-|**Версия SDK Dynamics 365**|Если выполняется интеграция с локальной версией [!INCLUDE[crm_md](includes/crm_md.md)], следует использовать набор разработки программного обеспечения Dynamics 365 (также называемый Xrm) для подключения [!INCLUDE[prod_short](includes/prod_short.md)] к [!INCLUDE[crm_md](includes/crm_md.md)]. Выбранная версия должна быть совместима с версией SDK, которая используется приложением [!INCLUDE[crm_md](includes/crm_md.md)]. Эта версия равна или новее версии, используемой приложением [!INCLUDE[crm_md](includes/crm_md.md)].|-->
+|**Версия SDK Dynamics 365**|Если выполняется интеграция с локальной версией [!INCLUDE[crm_md](includes/crm_md.md)], следует использовать набор разработки программного обеспечения Dynamics 365 (также называемый Xrm) для подключения [!INCLUDE[prod_short](includes/prod_short.md)] к [!INCLUDE[crm_md](includes/crm_md.md)]. Выбранная версия должна быть совместима с версией SDK, которая используется приложением [!INCLUDE[crm_md](includes/crm_md.md)]. Эта версия равна или новее версии, используемой приложением [!INCLUDE[crm_md](includes/crm_md.md)].|
 
 В дополнение к приведенным выше параметрам введите следующие настройки для [!INCLUDE[crm_md](includes/crm_md.md)].
 
@@ -110,7 +110,7 @@ Integration with Business Central through Dataverse requires an administrator us
 
 ### <a name="synchronization-rules"></a>Правила синхронизации
 
-В следующей таблице перечислены правила, управляющие синхронизацией между [!INCLUDE[crm_md](includes/crm_md.md)] и [!INCLUDE[prod_short](includes/prod_short.md)]. Это в дополнение к правилам, определенным для Dataverse, которые также применяются. Дополнительные сведения см. в разделе [Сопоставление стандартных сущностей](/dynamics365/business-central/admin-synchronizing-business-central-and-sales?branch=master-cds-crm#standard-table-mapping-for-synchronization).
+В следующей таблице перечислены правила, управляющие синхронизацией между [!INCLUDE[crm_md](includes/crm_md.md)] и [!INCLUDE[prod_short](includes/prod_short.md)]. Это в дополнение к правилам, определенным для Dataverse, которые также применяются. Дополнительные сведения см. в разделе [Сопоставление стандартных сущностей](admin-synchronizing-business-central-and-sales.md#standard-table-mapping-for-synchronization).
 
 > [!NOTE]  
 > Изменения данных, которые были сделаны в учетной записи пользователя интеграции, не синхронизируются. Поэтому рекомендуется не изменять данные при использовании этой учетной записи. Дополнительные сведения см. в разделе [Настройка учетных записей пользователей для интеграции с Dynamics 365 Sales](admin-setting-up-integration-with-dynamics-sales.md).
@@ -128,7 +128,7 @@ Integration with Business Central through Dataverse requires an administrator us
 
 ### <a name="synchronization-jobs-for-a-sales-integration"></a>Задания синхронизации для интеграции Sales
 
-Задания выполняются в следующем порядке во избежание зависимостей связывания между таблицами. Есть дополнительные задания, доступные из Dataverse. Дополнительные сведения см. в разделе [Использование очередей работ для планирования задач](/dynamics365/business-central/admin-job-queues-schedule-tasks).
+Задания выполняются в следующем порядке во избежание зависимостей связывания между таблицами. Есть дополнительные задания, доступные из Dataverse. Дополнительные сведения см. в разделе [Использование очередей работ для планирования задач](./admin-job-queues-schedule-tasks.md).
 
 1. Задание синхронизации "ЕДИНИЦА ИЗМЕРЕНИЯ — Dynamics 365 Sales"  
 2. Задание синхронизации "РЕСУРС-ПРОДУКТ - Dynamics 365 Sales"  
@@ -154,12 +154,22 @@ Integration with Business Central through Dataverse requires an administrator us
 ## <a name="connecting-business-central-on-premises-versions-earlier-than-version-16"></a>Подключение локальных версий Business Central до версии 16
 Рабочая группа Microsoft Power Platform [объявила](/power-platform/important-changes-coming#deprecation-of-office365-authentication-type-and-organizationserviceproxy-class-for-connecting-to-dataverse), что она объявляет устаревшим тип проверки подлинности Office365. Если вы используете локальную версию [!INCLUDE[prod_short](includes/prod_short.md)] On-Premises более раннюю, чем версия 16, необходимо использовать тип проверки подлинности OAuth для подключения к [!INCLUDE[crm_md](includes/crm_md.md)] Online. Шаги в этом разделе описывают, как установить соединение.
 
-### <a name="requirements"></a>Требования
-Вы должны иметь подписку Microsoft Azure. Пробная учетная запись будет работать для регистрации приложения.
+### <a name="prerequisites"></a>Предварительные требования
+
+- Вы должны иметь подписку Microsoft Azure. Пробная учетная запись будет работать для регистрации приложения.
+- [!INCLUDE[crm_md](includes/crm_md.md)] настроен на использование одного из следующих типов аутентификации:
+
+   - Office365 (устаревшая версия)
+
+     > [!IMPORTANT]
+     > С апреля 2022 года поддержка Office365 (устаревшая версия) будет прекращена. Дополнительные сведения см. в разделе [Запланированные важные изменения (устаревания) в Power Apps, Power Automate и приложениях для взаимодействия с клиентами](/power-platform/important-changes-coming#deprecation-of-office365-authentication-type-and-organizationserviceproxy-class-for-connecting-to-dataverse).
+
+   - OAuth
 
 ### <a name="to-connect-a-version-of-business-central-earlier-than-version-16"></a>Подключение версии Business Central до версии 16
+
 1. Импортируйте решение интеграции Microsoft Dynamics 365 Business Central в вашу среду [!INCLUDE[crm_md](includes/crm_md.md)]. Решение интеграции доступно в папке CrmCustomization на установочном DVD-диске Business Central. Существует несколько версий решения, например DynamicsNAVIntegrationSolution_v8, DynamicsNAVIntegrationSolution_v9 или DynamicsNAVIntegrationSolution_v91. Решение, которое вы должны импортировать, зависит от версии [!INCLUDE[crm_md](includes/crm_md.md)], к которой вы подключаетесь. [!INCLUDE[crm_md](includes/crm_md.md)] Online требует решения интеграции DynamicsNAVIntegrationSolution_v91.
-2. Создайте неинтерактивного пользователя интеграции в своей среде [!INCLUDE[crm_md](includes/crm_md.md)] и назначьте этому пользователю следующие роли безопасности. Дополнительные сведения см. в разделе [Создание неинтерактивной учетной записи пользователя](https://docs.microsoft.com/power-platform/admin/create-users-assign-online-security-roles#create-a-non-interactive-user-account).
+2. Создайте неинтерактивного пользователя интеграции в своей среде [!INCLUDE[crm_md](includes/crm_md.md)] и назначьте этому пользователю следующие роли безопасности. Дополнительные сведения см. в разделе [Создание неинтерактивной учетной записи пользователя](/power-platform/admin/create-users-assign-online-security-roles#create-a-non-interactive-user-account).
 
    * Администратор интеграции Dynamics 365 Business Central
    * Пользователь интеграции Dynamics 365 Business Central
@@ -167,7 +177,7 @@ Integration with Business Central through Dataverse requires an administrator us
    > [!Important]
    > У этого пользователя не должно быть роли безопасности системного администратора. Кроме того, вы не можете использовать учетную запись системного администратора в качестве пользователя интеграции.
 
-3.  На портале Azure создайте регистрацию приложения для [!INCLUDE[prod_short](includes/prod_short.md)]. Для шагов см. раздел [Регистрация приложения в Azure Active Directory](/business-central/dev-itpro/administration/register-app-azure?branch=live#register-an-application-in-azure-active-directory). Настройки, относящиеся к подключению к [!INCLUDE[crm_md](includes/crm_md.md)], являются делегированными разрешениями. В следующей таблице перечислены и описаны разрешения.
+3.  На портале Azure создайте регистрацию приложения для [!INCLUDE[prod_short](includes/prod_short.md)]. Для шагов см. раздел [Регистрация приложения в Azure Active Directory](/dynamics365/business-central/dev-itpro/administration/register-app-azure#register-an-application-in-azure-active-directory). Настройки, относящиеся к подключению к [!INCLUDE[crm_md](includes/crm_md.md)], являются делегированными разрешениями. В следующей таблице перечислены и описаны разрешения.
 
    |API / Имя разрешения |Тип  |Описание  |
    |---------|---------|---------|
@@ -193,7 +203,7 @@ Integration with Business Central through Dataverse requires an administrator us
 9. Включите подключение.
 
 > [!Note]
-> Если вы хотите настроить подключение к экземпляру [!INCLUDE[crm_md](includes/crm_md.md)] с определенным типом проверки подлинности, заполните поля на экспресс-вкладке **Сведения о типе проверки подлинности**. Дополнительные сведения см. в разделе [Использование строк подключения в средстве XRM для подключения к Dynamics 365](https://go.microsoft.com/fwlink/?linkid=843055). Этот шаг не требуется при подключении к сетевой версии [!INCLUDE[prod_short](includes/prod_short.md)].
+> Если вы хотите настроить подключение к экземпляру [!INCLUDE[crm_md](includes/crm_md.md)] с определенным типом проверки подлинности, заполните поля на экспресс-вкладке **Сведения о типе проверки подлинности**. Для получения дополнительной информации см. раздел [Аутентификация с веб-службами Microsoft Dataverse](/powerapps/developer/data-platform/authentication). Этот шаг не требуется при подключении к сетевой версии [!INCLUDE[prod_short](includes/prod_short.md)].
 
 ## <a name="see-also"></a>См. также
 

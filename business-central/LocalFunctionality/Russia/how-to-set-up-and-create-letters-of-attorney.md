@@ -5,15 +5,15 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 23aa249de27e3a428df785285b2d4f8d28ad5c37
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: cc4cc21751f4c53d58aaac6e537a5f8bfc1208c7
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5382725"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5770617"
 ---
 # <a name="set-up-and-create-letters-of-attorney"></a>Создание и настройка доверенности
 

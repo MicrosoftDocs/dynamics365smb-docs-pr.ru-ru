@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: dffa11eeb39cd2246ac97284ec4bcfcbb2977539
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: 9cfb99319510b76843e7c94adedb66835023c55d
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5390403"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5775304"
 ---
 # <a name="work-with-service-contracts-and-service-contract-quotes"></a>Работа с сервисными контрактами и предложениями по сервисным контрактам
 Сервисный контракт можно создать как вручную, так и на основе предложения по сервисному контракту. Можно использовать предложение по сервисному контракту в качестве предварительного документа для создания сервисного контракта, в котором организация делает предложение клиенту, причем предложение должно быть одобрено клиентом до его преобразования в сервисный контракт. Процедуры создания сервисного контракта или предложения по сервисному контракту похожи.  

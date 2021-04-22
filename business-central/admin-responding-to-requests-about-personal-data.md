@@ -5,15 +5,15 @@ author: bholtorf
 ms.service: dynamics365-business-central
 ms.author: bholtorf
 ms.custom: na
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.reviewer: na
 ms.topic: conceptual
-ms.openlocfilehash: cdab3e07d2f522be01a6bd1096ae724d824b52bf
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: b7762f9da2a6e3acfbd57a4b5af4806ead710c9d
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5385353"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5777385"
 ---
 # <a name="responding-to-requests-about-personal-data"></a>Ответ на запросы о личных данных  
 Субъекты данных могут запрашивать различные типы действий в отношении своих личных данных. Например, согласно Общему регламенту по защите данных (GDPR), жители ЕС имеют право потребовать экспорта, удаления и изменения своих личных данных. Это называется *запросом субъекта данных*. Если вы классифицировали конфиденциальность своих данных и уверены, что они верны, администратор может отвечать на запросы, используя параметры на вкладке **Конфиденциальность данных** в ролевом центре **ИТ-менеджер**. Дополнительную информацию о классификации данных и классификации конфиденциальности данных в [!INCLUDE[prod_long](includes/prod_long.md)] см. в разделах [Классификация данных](/dynamics-nav/classifying-data?toc=/dynamics365/business-central/toc.json) и [Классификация конфиденциальности данных](admin-classifying-data-sensitivity.md).  

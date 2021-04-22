@@ -7,14 +7,14 @@ ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 62eeab6d03f0fde0b1f55f414d48c2d3cd3f573c
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: 877891affde9b1719c30bc265cd0c08bf14824b0
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5380206"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5770520"
 ---
 # <a name="set-up-general-fixed-assets-information"></a>Настройка общих данных основных средств
 Прежде чем управлять основными средствами, необходимо настроить счета ГК по умолчанию, ключи распределения, шаблоны и разделы журналов для учета и переквалификации основных средств; можно также классифицировать основные средства по классам, таким как материальные и нематериальные.
@@ -121,7 +121,7 @@ ms.locfileid: "5380206"
 [Настройка основных средств](fa-setup.md)  
 [Основные Средства](fa-manage.md)  
 [Финансы](finance.md)  
-[Приступая к работе](product-get-started.md)  
+[Подготовьтесь к ведению бизнеса](ui-get-ready-business.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
 
 

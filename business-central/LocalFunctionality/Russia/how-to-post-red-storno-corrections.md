@@ -5,15 +5,15 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: e39a28bc1d824d7deff71202d9e30d83fa77ae1f
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: 2ccf62bc2f78e717a31585086c822cab81c91bfe
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5382743"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5771280"
 ---
 # <a name="post-red-storno-corrections"></a>Учет коррекций "красный сторно"
 

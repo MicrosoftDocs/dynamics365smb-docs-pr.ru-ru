@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: undo, credit memo, return
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 6a65f67a7ac07196f5b4738c59fa5180e512f89c
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: b5f6daba9251dad73b8924312e35a5cb1474bdb3
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5385578"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5778701"
 ---
 # <a name="process-sales-returns-or-cancellations"></a>Обработка возвратов продажи или отмен
 Если клиент желает вернуть товары или получить возмещение за товары или услуги, которые вы ему продали и получили оплату, необходимо создать и учесть кредит-ноту продажи, определяющую требуемое изменение. Для включения правильных сведений счета продажи можно создать кредит-ноту продажи непосредственно из учтенного счета на продажу или создать новую кредит-ноту продажи со скопированными данными счета.

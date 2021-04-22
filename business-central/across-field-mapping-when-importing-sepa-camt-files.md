@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 9afa2f29124a62a51da6a1de96765d6bb67c4bd6
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: 567b77764aeacec84ef7577ed94f74dd6b6acc64
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5384778"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5776101"
 ---
 # <a name="field-mapping-when-importing-sepa-camt-files"></a>Сопоставление полей при импорте файлов SEPA CAMT
 [!INCLUDE[prod_short](includes/prod_short.md)]поддерживает региональные стандарты SEPA для импорта банковских выписок SEPA (формат CAMT). Дополнительные сведения см. в разделе [Использование расширения AMC Banking 365 Fundamentals](ui-extensions-amc-banking.md).  

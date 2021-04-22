@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 3a38c82772d13ec2075bf3e2661126049c543eca
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: e142e45cc8692875d609090ea8615708342683fb
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5389878"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5777802"
 ---
 # <a name="design-details-inventory-periods"></a>Сведения о проектировании: периоды учета запасов
 Транзакции или коррекции себестоимости, записанные задним числом, часто влияют на сальдо и количество запасов в учетные периоды, которые могут считаться закрытыми. Это может иметь отрицательный эффект на точность отчетности, особенно в глобальных корпорациях. Функцию периодов инвентаризации можно использовать, чтобы избежать таких проблем, путем открытия или закрытия периодов инвентаризации, чтобы ограничить учет заданным периодом времени.  

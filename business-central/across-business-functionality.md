@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: feature overview
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 3d073a17f900b3f1691c6b108af021aec6b93fd3
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: c24e6142780fa5935576320a0d5edf683caf0a9f
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5384953"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5776276"
 ---
 # <a name="business-functionality"></a>Функциональные бизнес-возможности
 [!INCLUDE[prod_short](includes/prod_short.md)] предоставляет функциональные возможности для распространенных бизнес-процессов в небольших и средних организациях, в основном занимающихся оптовыми продажами и профессиональными услугами. Однако также поддерживаются более сложные процессы, такие как сборка, производство, сервис и расширенное управление складом.
@@ -47,7 +47,7 @@ ms.locfileid: "5384953"
 [Изучение возможностей Dynamics 365 Business Central](https://dynamics.microsoft.com/business-central/capabilities/)  
 [Администрация](admin-setup-and-administration.md)  
 [Настройка [!INCLUDE[prod_short](includes/prod_short.md)]](setup.md)  
-[Приступая к работе](product-get-started.md)  
+[Подготовьтесь к ведению бизнеса](ui-get-ready-business.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 
 

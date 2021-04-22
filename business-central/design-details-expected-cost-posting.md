@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 7f270804826291de186ddb2edd32a3fe40388500
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: 8bb2c0af31fe2ffbac64b1cebd860356c124e881
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5386928"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5777877"
 ---
 # <a name="design-details-expected-cost-posting"></a>Сведения о проектировании: учет ожидаемой себестоимости
 Ожидаемые значения себестоимости представляют оценку, например, себестоимости приобретенного товара, регистрируемую до получения счета на товар.  

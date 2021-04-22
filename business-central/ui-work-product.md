@@ -7,14 +7,14 @@ ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 98838737ec9c20cfe5cedc7372af028fd5b1c636
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: 3dff984847a3c74a6c4dad41385839c4cefdc75e
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5393578"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5772133"
 ---
 # <a name="working-with-prod_short"></a>Работа с [!INCLUDE[prod_short](includes/prod_short.md)]
 При выполнении бизнес-задач приходится производить разнообразные действия с данными, например создавать записи и вводить данные, сортировать и фильтровать данные, создавать заметки и выводить данные в другие приложения.
@@ -61,18 +61,18 @@ ms.locfileid: "5393578"
 
 ## <a name="choosing-a-desktop-browser"></a>Выбор браузера рабочего стола
 
-[!INCLUDE[prod_short](includes/prod_short.md)] поддерживает несколько браузеров, каждый из которых предлагает различные функции и возможности. Браузер играет важную роль в отзывчивости и плавности пользовательского интерфейса. См. список поддерживаемых, рекомендуемых браузеров для [Business Central Online](https://go.microsoft.com/fwlink/?linkid=2110804) и браузеров для [локальной версии Business Central](https://go.microsoft.com/fwlink/?linkid=2110719).
+[!INCLUDE[prod_short](includes/prod_short.md)] поддерживает несколько браузеров, каждый из которых предлагает различные функции и возможности. Браузер играет важную роль в отзывчивости и плавности пользовательского интерфейса. См. список поддерживаемых, рекомендуемых браузеров для [Business Central Online](./product-requirements.md) и браузеров для [локальной версии Business Central](/dynamics365/business-central/dev-itpro/deployment/system-requirement-business-central-v15).
 
 - По возможности избегайте старых браузеров, таких как Internet Explorer, и переходите на один из рекомендуемых нами современных браузеров, например [новый Microsoft Edge](https://www.microsoft.com/edge/).  
 
-    Internet Explorer все еще поддерживается, но так как теперь новый браузер Microsoft Edge доступен для Windows Server, мы видим снижение уровня использования Internet Explorer. Вы также можете получить [пилотную версию Microsoft Edge в режиме IE](https://www.microsoft.com/edge/business). Дополнительные сведения см. в [документации по Microsoft Edge](https://support.microsoft.com/hub/4337664/microsoft-edge-help).
+    Internet Explorer больше не поддерживается. Дополнительные сведения см. в [документации по Microsoft Edge](https://support.microsoft.com/hub/4337664/microsoft-edge-help).
 - Держите ваш браузер всегда обновленным до последней версии.
 
 ## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/work-pro-data-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 
-[Приступая к работе](product-get-started.md)  
+[Подготовьтесь к ведению бизнеса](ui-get-ready-business.md)  
 [Настройка Business Central](setup.md)  
 [Общие бизнес-функции](ui-across-business-areas.md)  
 [Советы по повышению эффективности для бизнес-пользователей](/dynamics365/business-central/dev-itpro/performance/performance-users?toc=/dynamics365/business-central/toc.json)

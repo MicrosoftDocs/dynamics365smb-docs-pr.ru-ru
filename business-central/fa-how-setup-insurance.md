@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: policy, coverage
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 10527690d19d019f8a5d94d8c4817f6a3bcd8479
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: 0ebb62a4ef9ea84ec5bfddc099dfb6120a4e6405
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5380181"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5774045"
 ---
 # <a name="set-up-fixed-asset-insurance"></a>Настройка страхования основного средства
 Для управления страховым покрытием основных средств сначала необходимо настроить некоторые общие сведения о страховании и страховую карточку для каждого полиса.
@@ -61,7 +61,7 @@ ms.locfileid: "5380181"
 [Настройка основных средств](fa-setup.md)  
 [Основные Средства](fa-manage.md)  
 [Финансы](finance.md)  
-[Приступая к работе](product-get-started.md)  
+[Подготовьтесь к ведению бизнеса](ui-get-ready-business.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
 
 

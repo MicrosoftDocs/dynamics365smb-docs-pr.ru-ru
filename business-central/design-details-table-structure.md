@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 0423314fa123c931e98db37bcc6939b6fbbddf25
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: e118b27d1bafc4de1ffc8d2db4597317942b6f65
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5381521"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5777702"
 ---
 # <a name="design-details-table-structure"></a>Сведения о проектировании: структура таблицы
 Чтобы понять, как записи измерения хранятся и учитываются, важно понять структуру таблицы.  
@@ -181,11 +181,7 @@ ms.locfileid: "5381521"
 |5637|**Буфер ГК учета ОС**|  
 |7136|**Буфер товарного бюджета**|  
 
-## <a name="see-also"></a>См. также  
- [Сведения о проектировании: операции набора измерений](design-details-dimension-set-entries.md)   
- [Обзор записей набора измерений](design-details-dimension-set-entries-overview.md)   
- [Сведения о проектировании: поиск комбинаций измерений](design-details-searching-for-dimension-combinations.md)   
- 
+## <a name="see-also"></a>См. также
 
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]
+[Обзор записей набора измерений](design-details-dimension-set-entries-overview.md)  
+[Сведения о проектировании: поиск комбинаций измерений](design-details-searching-for-dimension-combinations.md)   

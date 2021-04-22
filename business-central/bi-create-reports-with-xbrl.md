@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 98dd55a41ccd987d810e4fb747b5cb7355a380dc
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: 9c806874d1bfea91224f0c458efea8a1da2d87f8
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5382633"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5776845"
 ---
 # <a name="create-reports-with-xbrl"></a>Создать отчеты с XBRL
 XBRL расшифровывается как eXtensible Business Reporting Language — расширяемый язык бизнес-отчетности. Это основанный на XML язык для разметки финансовых данных, помогающий эффективно и точно их обрабатывать, а также совместно их использовать. Инициатива XBRL позволяет множеству компаний, занимающихся разработкой программного обеспечения для управления ресурсами предприятия, и международным бухгалтерским организациям создавать глобальную финансовую отчетность. Цель инициативы — создать стандарт для унификации учета финансовой информации для банков, инвесторов и государственных организаций. Такая отчетность может включать:  

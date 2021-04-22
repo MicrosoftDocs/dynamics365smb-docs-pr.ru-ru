@@ -8,24 +8,19 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: CDS, , integration, sync
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: f218b50e40f6bb0e8e9ab3be8fcd00d23b1adbe2
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: abeab28a87c395328accfd850a0753649515f8dc
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5378727"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5773340"
 ---
 # <a name="data-ownership-models"></a>Модели владения данными
 [!INCLUDE[prod_short](includes/cc_data_platform_banner.md)]
 
-[!INCLUDE[prod_short](includes/cds_long_md.md)] требует, чтобы вы указали владельца для данных, которые вы храните. Для получения дополнительной информации см. раздел [Владение сущностью](https://docs.microsoft.com/powerapps/maker/common-data-service/types-of-tables#table-ownership) в документация по Power Apps. Когда вы устанавливаете интеграцию между [!INCLUDE[prod_short](includes/cds_long_md.md)] и [!INCLUDE[prod_short](includes/prod_short.md)], вы должны выбрать одну из двух моделей владения для синхронизируемых записей:
-
-* Рабочая группа 
-* Человек (пользователь)
-
-Действия, которые можно выполнять с этими записями, можно контролировать на уровне пользователя. Дополнительные сведения см. в разделе [Таблицы пользователей и рабочих групп](https://docs.microsoft.com/powerapps/developer/common-data-service/user-team-tables). Мы рекомендуем модель ответственности "Рабочая группа", поскольку с ней проще управлять ответственностью для нескольких человек.
+[!INCLUDE[prod_short](includes/cds_long_md.md)] требует, чтобы вы указали владельца для данных, которые вы храните. Для получения дополнительной информации см. раздел [Типы таблиц](/powerapps/maker/data-platform/types-of-entities) в документации по Power Apps. Когда вы устанавливаете интеграцию между [!INCLUDE[prod_short](includes/cds_long_md.md)] и [!INCLUDE[prod_short](includes/prod_short.md)], вы должны выбрать владение **Пользователь или рабочая группа** для синхронизируемых записей. Действия, которые можно выполнять с этими записями, можно контролировать на уровне пользователя. <!--We recommend the Team ownership model because it makes it easier to manage ownership for multiple people.NO LONGER TRUE IN DATAVERSE-->
 
 ## <a name="team-ownership"></a>Модель ответственности "Рабочая группа"
 В [!INCLUDE[prod_short](includes/prod_short.md)] компания является юридическим и коммерческим субъектом, который предлагает способы защиты и визуализации бизнес-данных. Пользователи всегда работают в контексте компании. Самое близкое к этому понятию, что есть в [!INCLUDE[prod_short](includes/cds_long_md.md)], это таблица бизнес-подразделения, которая не имеет юридического или делового контекста.
