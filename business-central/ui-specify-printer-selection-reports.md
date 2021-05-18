@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: online printing, email printing, cloud printing, Universal Print
 ms.date: 04/01/2021
 ms.author: jswymer
-ms.openlocfilehash: 67e6c0fe9a9653d243b7fd221ed004a1f1495ddf
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 69c5ab889ae1fe98d50c04e31f47ecc28cc0e1b0
+ms.sourcegitcommit: 08ca5798cf3f04fc3ea38fff40c1860196a70adf
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5783138"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "5985416"
 ---
 # <a name="set-up-printers"></a>Настройка принтеров
 
@@ -36,11 +36,13 @@ ms.locfileid: "5783138"
 
 Универсальная печать — это служба на основе подписки Microsoft 365, полностью работающая на Microsoft Azure. Она обеспечивает централизованное управление принтером через портал универсальной печати. [!INCLUDE[prod_short](includes/prod_short.md)] делает принтеры, настроенные в универсальной печати, доступными для пользователей клиентов через расширение **Интеграция универсальной печати**.
 
+![Настройка универсальной печати](media/Universal-Print-arch.png)
+
 Полная настройка требует, чтобы вы работали как в Microsoft Azure с помощью [Портала Azure](https://posrtal.azure.com), так и в [!INCLUDE[prod_short](includes/prod_short.md)].
 
 ### <a name="supported-printers"></a>Поддерживаемые принтеры
 
-[!INCLUDE[prod_short](includes/prod_short.md)] поддерживает те же принтеры, что и универсальная печать, и эти принтеры могут быть как совместимые с универсальной печатью, так и несовместимые. Несовместимые принтеры не могут напрямую взаимодействовать с универсальной печатью, поэтому им требуется дополнительное программное обеспечение для подключения, которое предоставляется универсальной печатью. Некоторые старые принтеры могут не поддерживаться.
+[!INCLUDE[prod_short](includes/prod_short.md)] поддерживает те же принтеры, что и универсальная печать, и эти принтеры могут быть как совместимые с универсальной печатью, так и несовместимые. Несовместимые принтеры не могут напрямую взаимодействовать с универсальной печатью, поэтому им требуется дополнительное программное обеспечение для подключения, которое предоставляется универсальной печатью. Некоторые старые принтеры могут не поддерживаться. 
 
 <!-- TODO If not installed, go to AppSource -->
 

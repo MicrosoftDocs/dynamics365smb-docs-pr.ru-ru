@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: delimit, FlowFilter, totals, limit, advanced
 ms.date: 04/01/2021
 ms.author: jswymer
-ms.openlocfilehash: a3d42fccebafdfa80346f04b43a0e3dd29f467d8
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: a27556350851de61bd31504d0c29ef60df6d890a
+ms.sourcegitcommit: 921f0c4043dcda2fb8fc35df1b64310bf32270d7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5770642"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "6017178"
 ---
 # <a name="sorting-searching-and-filtering"></a>Сортировка, поиск и фильтрация
 
@@ -259,7 +259,7 @@ When you want to search for data, such as customer names, addresses, or product 
 - =
 - &#124;
 
-Если вы хотите фильтровать по любому из этих символов, заключите выражение фильтра в кавычки (''). Например, если необходимо фильтровать записи, которые начинаются с текста *J & V*, выражение фильтра может имеет вид `'J & V*'`.
+Если вы хотите фильтровать по любому из этих символов, заключите выражение фильтра в одинарные кавычки (`'<expression with symbol>'`). Например, если необходимо фильтровать записи, которые начинаются с текста *J & V*, выражение фильтра может имеет вид `'J & V*'`.
 
 Для других символов это требование не требуется.
 
@@ -304,7 +304,7 @@ When you want to search for data, such as customer names, addresses, or product 
 
 ## <a name="see-also"></a>См. также
 
-[Вопросы и ответы по поиску и фильтрации](ui-search-filter-faq.md)  
+[Вопросы и ответы по поиску и фильтрации](ui-search-filter-faq.yml)  
 [Сохранение и персонализация представлений списков](ui-views.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 

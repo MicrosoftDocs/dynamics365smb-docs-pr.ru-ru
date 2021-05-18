@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: delete, data, retention, policy, policies
 ms.date: 04/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: e9d8f9fc9b74df561aab3109b631fc10c7f46108
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 5b962ed463a37e578371df193bca887774232ba5
+ms.sourcegitcommit: c11ad91a389ed72532f5513654fdc7909b20aed9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5780061"
+ms.lasthandoff: 04/22/2021
+ms.locfileid: "5935340"
 ---
 # <a name="define-retention-policies"></a>Определение политик хранения
 Администраторы могут определять политики хранения, чтобы указать, как часто они хотят, чтобы [!INCLUDE[prod_short](includes/prod_short.md)] удалял устаревшие данные в таблицах, содержащих записи журнала и архивные записи. Например, очистка записей журнала может упростить работу с действительно важными данными. Политики могут включать все данные в таблицах, срок действия которых истек, или вы можете добавить критерии фильтрации, которые будут включать в политику только определенные просроченные данные. 
@@ -67,7 +67,7 @@ ms.locfileid: "5780061"
 
 Ниже приведены примеры того, как добавить таблицу в список разрешенных таблиц с обязательными фильтрами или фильтрами по умолчанию и без них. Для более сложного примера см. codeunit 3999 "Пол. Хран. Установить — BaseApp". 
 
-```
+```al
  trigger OnInstallAppPerCompany()
     var
         RetenPolAllowedTables: Codeunit "Reten. Pol. Allowed Tables";
@@ -78,7 +78,7 @@ ms.locfileid: "5780061"
 
 Следующий пример включает обязательный фильтр.
 
-```
+```al
  trigger OnInstallAppPerCompany()
     var
         ChangeLogEntry: Record "Change Log Entry";
@@ -98,9 +98,12 @@ ms.locfileid: "5780061"
         RetenPolAllowedTables.AddAllowedTable(Database::"Change Log Entry", ChangeLogEntry.FieldNo(SystemCreatedAt), TableFilters);
     end;
 ```
+
 После того, как разработчик добавил таблицы в список, администратор может включить их в политику хранения. 
 
 ## <a name="see-also"></a>См. также
+
+[Анализ телеметрии трассировки политики хранения](/dynamics365/business-central/dev-itpro/administration/telemetry-retention-policy-trace)  
 [Изменение аудита в Business Central](across-log-changes.md)  
 [Фильтрация](ui-enter-criteria-filters.md#filtering)  
 [Использование очередей работ для планирования задач](admin-job-queues-schedule-tasks.md)  

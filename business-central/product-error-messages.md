@@ -6,12 +6,12 @@ ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: fa01f29859b8076ffd9b7786a619ef932903b8d9
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 30ae76f4347a8297a84092573a59835be5569ec4
+ms.sourcegitcommit: 921f0c4043dcda2fb8fc35df1b64310bf32270d7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5779486"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "6017203"
 ---
 # <a name="warnings-and-error-messages-in-dynamics-365-business-central"></a>Предупреждения и сообщения об ошибках в Dynamics 365 Business Central
 
@@ -38,7 +38,7 @@ ms.locfileid: "5779486"
 [Ресурсы для справки и поддержки](product-help-and-support.md)  
 [Вопросы и ответы](across-faq.md)  
 [Вопросы и ответы о функции "Что вы хотите сделать"](ui-search-faq.md)  
-[Вопросы и ответы по поиску и фильтрации](ui-search-filter-faq.md)  
+[Вопросы и ответы по поиску и фильтрации](ui-search-filter-faq.yml)  
 [Вопросы и ответы по копированию и вставке](faq-copy-paste.yml)  
 [Изменение базовых настроек](ui-change-basic-settings.md)  
 [Подготовьтесь к ведению бизнеса](ui-get-ready-business.md)  

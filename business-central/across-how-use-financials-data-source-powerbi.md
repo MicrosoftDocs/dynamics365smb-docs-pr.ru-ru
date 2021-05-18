@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: business intelligence, KPI, Odata, Power App, SOAP, analysis
 ms.date: 04/01/2021
 ms.author: jswymer
-ms.openlocfilehash: ee7e6a132f463f35206dd9ac4fe75ce1a41fd40d
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: a80b6515b8397a275285ae15086a11bad9c35921
+ms.sourcegitcommit: 103d1433454dbedf8a72a292853eac3501872f24
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5780086"
+ms.lasthandoff: 04/29/2021
+ms.locfileid: "5961506"
 ---
 # <a name="building-power-bi-reports-to-display-prod_long-data"></a>Создание отчетов Power BI для отображения данных [!INCLUDE [prod_long](includes/prod_long.md)]
 
@@ -83,6 +83,10 @@ ms.locfileid: "5780086"
 
 > [!TIP]
 > Дополнительные сведения об использовании Power BI Desktop см. в разделе [Приступая к работе с Power BI Desktop](/power-bi/fundamentals/desktop-getting-started).
+
+## <a name="creating-accessible-reports"></a>Создание доступных отчетов
+
+Важно, чтобы ваши отчеты были доступны как можно большему количеству людей. Постарайтесь создавать отчеты так, чтобы они не требовали специальной адаптации для удовлетворения конкретных потребностей разных пользователей. Убедитесь, что дизайн позволяет пользователям использовать стандартные технологии специальных возможностей, например программы чтения с экрана. Power BI включает различные специальные возможности, инструменты и рекомендации, которые помогут вам в достижении этой цели. Для дополнительной информации см. [Разработка отчетов Power BI с учетом специальных возможностей](/power-bi/create-reports/desktop-accessibility-creating-reports) в документации Power BI.
 
 ## <a name="creating-reports-to-display-data-associated-with-a-list"></a>Создание отчетов для отображения данных, связанных со списком
 

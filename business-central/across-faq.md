@@ -7,12 +7,12 @@ ms.topic: conceptual
 ms.search.keywords: FAQ, email, Microsoft 365, subscription, subscribe, trial, plan, application area, experience, support, buy, upgrade, extend
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: afd64672bac5af39bd5377db417a36ec0ea39fe0
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: af13192ed4b5ca94d4a01ec913d3c94fd85e5fbc
+ms.sourcegitcommit: 921f0c4043dcda2fb8fc35df1b64310bf32270d7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5776151"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "6017153"
 ---
 # <a name="frequently-asked-questions-about-using-business-central"></a>Вопросы и ответы об использовании Business Central
 
@@ -136,8 +136,8 @@ ms.locfileid: "5776151"
 
 [Подготовьтесь к ведению бизнеса](ui-get-ready-business.md)  
 [Вопросы и ответы о функции "Что вы хотите сделать"](ui-search-faq.md)  
-[Вопросы и ответы по поиску и фильтрации](ui-search-filter-faq.md)  
-[Вопросы и ответы о представлениях списков](ui-views-faq.md)  
+[Вопросы и ответы по поиску и фильтрации](ui-search-filter-faq.yml)  
+[Вопросы и ответы о представлениях списков](ui-views-faq.yml)  
 [Изменение языка и языкового стандарта](about-locale-language.md)  
 [Использование [!INCLUDE[prod_short](includes/prod_short.md)] в качестве рабочего почтового ящика в Outlook](admin-outlook.md)  
 [Использование [!INCLUDE[prod_short](includes/prod_short.md)] без Outlook](admin-no-outlook.md)  

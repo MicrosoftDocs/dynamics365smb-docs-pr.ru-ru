@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: Teams, MS Teams, Microsoft Teams, Skype, Link, Microsoft 365, collaborate, collaboration, teamwork, troubleshooting, errors
 ms.date: 04/12/2021
 ms.author: jswymer
-ms.openlocfilehash: 9783d5d25c31bd830931cf3f363359880a6e19bf
-ms.sourcegitcommit: e13b80d4e5141f414109e660e0918eae561acb36
+ms.openlocfilehash: a26414ae33b0139257c542966ba9ccd934241a66
+ms.sourcegitcommit: 921f0c4043dcda2fb8fc35df1b64310bf32270d7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "5882176"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "6017128"
 ---
 # <a name="troubleshooting-microsoft-teams-integration-with-prod_short"></a>Устранение неполадок интеграции Microsoft Teams с [!INCLUDE [prod_short](includes/prod_short.md)]
 
@@ -42,9 +42,9 @@ ms.locfileid: "5882176"
 
 Эта ошибка может возникнуть при поиске в компании, которая не была инициализирована или не отвечает. Например, вы не можете искать в новой пробной компании, которая еще не приняла условия использования. Чтобы решить эту проблему, попробуйте войти в веб-клиент [!INCLUDE [prod_short.md](includes/prod_short.md)] и действуйте или отклоняйте любые начальные диалоги, которые появляются.
 
-## <a name="the-contacts-api-was-not-found-error-when-searching-for-contacts"></a>Ошибка "API контактов не найден" при поиске контактов
+## <a name="cannot-find-the-contactcontact-summary-api-error-when-searching-for-contacts"></a>Ошибка "Не удается найти контакт или API сводки контактов" при поиске контактов
 
-Эта проблема может быть связана с настройками или отраслевыми решениями, которые влияют, изменяют или не предоставляют API контактов в [!INCLUDE [prod_short.md](includes/prod_short.md)]. Если проблема не исчезнет, обратитесь к администратору или партнеру по поддержке.
+Эта проблема может быть вызвана настройками или отраслевыми решениями, которые влияют или изменяют [!INCLUDE [prod_short.md](includes/prod_short.md)], или они не предоставляют контакт или API сводки контактов. Если проблема не исчезнет, обратитесь к администратору или партнеру по поддержке.
 
 ## <a name="none-of-my-links-expand-into-a-card"></a>Ни одна из моих ссылок не разворачивается в карточку 
 

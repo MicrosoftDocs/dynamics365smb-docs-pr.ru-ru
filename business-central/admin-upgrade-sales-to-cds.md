@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: sales, crm, integration, integrating
 ms.date: 04/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: 4e3b79d6245a0f1b8277c94faa58c24edc66662e
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 772052fc88e0b8be7ec5276600b0c237e2d2f8b2
+ms.sourcegitcommit: a76475f124e79440a5bba20577b335c4d50a2d83
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5777020"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "6025812"
 ---
 # <a name="upgrading-an-integration-with-dynamics-365-sales"></a>Обновление интеграции с Dynamics 365 Sales
 [!INCLUDE[prod_short](includes/prod_short.md)] интегрируется с [!INCLUDE[prod_short](includes/cds_long_md.md)], что позволяет легко подключать и синхронизировать данные с другими приложениями Dynamics 365, такими как [!INCLUDE[crm_md](includes/crm_md.md)], или даже с приложениями, которые вы создаете сами. Если вы впервые выполняете интеграцию, мы рекомендуем сделать это через [!INCLUDE[prod_short](includes/cds_long_md.md)]. Дополнительные сведения см. в разделе [Интеграция с Dataverse](admin-common-data-service.md).
@@ -38,6 +38,9 @@ ms.locfileid: "5777020"
    > После включения соединения решение интеграции Business Central развертывается в [!INCLUDE[prod_short](includes/prod_short.md)]. Это дает возможность интеграции с таблицами, которые являются специфическими для [!INCLUDE[crm_md](includes/crm_md.md)], таким как заказы на продажу, предложения с расценками и счета.
 5. Выберите **Повторить развертывание решения интеграции**, чтобы заново установить решение интеграции Business Central.
 6. На странице **Настройка подключения к Sales** выберите **Использовать настройку синхронизации по умолчанию**, чтобы инициализировать сопоставление таблиц интеграции для [!INCLUDE[crm_md](includes/crm_md.md)].
+
+   > [!IMPORTANT]
+   > С помощью действия **Использовать настройку синхронизации по умолчанию** примените сопоставления таблиц интеграции по умолчанию. Все настраиваемые сопоставления будут перезаписаны. Если у вас есть настраиваемые сопоставления, которые вы хотите сохранить, мы рекомендуем вам экспортировать их в Excel или поговорить со своим партнером Майкрософт о других способах сохранения настраиваемых сопоставлений.    
 
 ## <a name="see-also"></a>См. также
 [Интеграция с Dynamics 365 Sales](admin-prepare-dynamics-365-for-sales-for-integration.md)  

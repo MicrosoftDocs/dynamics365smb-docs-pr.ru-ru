@@ -1,6 +1,6 @@
 ---
-title: Подключение к Microsoft Dataverse | Документы Майкрософт
-description: Вы можете интегрировать другие приложения с Business Central через Microsoft Dataverse.
+title: Подключение к Microsoft Dataverse
+description: Вы можете интегрировать другие приложения с Business Central через Microsoft Dataverse. В этой статье представлены советы и рекомендации по настройке подключений.
 author: bholtorf
 ms.service: dynamics365-business-central
 ms.topic: conceptual
@@ -8,16 +8,17 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2021
+ms.date: 04/26/2021
 ms.author: bholtorf
-ms.openlocfilehash: 96ba755a1a32a23197b2bb839e50ebe6a0a1e63b
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 00034e8f1be2f88074fb33b53a1c048f81f69ede
+ms.sourcegitcommit: 57e8ab70d70849752567eecf29529efe2dcdf3af
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5779786"
+ms.lasthandoff: 04/26/2021
+ms.locfileid: "5941667"
 ---
 # <a name="connect-to-microsoft-dataverse"></a>Подключение к Microsoft Dataverse
+
 [!INCLUDE[prod_short](includes/cc_data_platform_banner.md)]
 
 В этом разделе описывается, как установить соединение между [!INCLUDE[prod_short](includes/prod_short.md)] и [!INCLUDE[cds_long_md](includes/cds_long_md.md)]. Как правило, предприятия создают соединение для интеграции и синхронизации данных с другим бизнес-приложением Dynamics 365, например [!INCLUDE[crm_md](includes/crm_md.md)].  
@@ -29,6 +30,7 @@ ms.locfileid: "5779786"
 * URL-адрес для среды [!INCLUDE[cds_long_md](includes/cds_long_md.md)], к которой требуется подключиться. Если вы используете мастер настройки **Настройка подключения Dataverse**, чтобы создать соединение, мы обнаружим ваши среды, но вы также можете ввести URL-адрес другой среды в своем клиенте.  
 * Имя пользователя и пароль учетной записи, которая имеет разрешения администратора в [!INCLUDE[prod_short](includes/prod_short.md)] и [!INCLUDE[cds_long_md](includes/cds_long_md.md)].  
 * Если у вас есть локальная версия [!INCLUDE[prod_short](includes/prod_short.md)] выпуска 2020, волна 1, версия 16.5, ознакомьтесь со статьей [Некоторые известные проблемы](/dynamics365/business-central/dev-itpro/upgrade/known-issues#wrong-net-assemblies-for-external-connected-services). Вам нужно будет выполнить описанный обходной метод, прежде чем вы сможете создать подключение к [!INCLUDE[cds_long_md](includes/cds_long_md.md)].
+* Местная валюта компании в [!INCLUDE[prod_short](includes/prod_short.md)] должна быть такой же, как и базовая валюта транзакции в [!INCLUDE[cds_long_md](includes/cds_long_md.md)]. После того, как базовая транзакция установлена в [!INCLUDE[cds_long_md](includes/cds_long_md.md)], это не может быть изменено. Для получения дополнительной информации см. [Сущность валюты транзакции (валюта)](/powerapps/developer/data-platform/transaction-currency-currency-entity). Это означает, что у всех компаний [!INCLUDE[prod_short](includes/prod_short.md)], которые вы подключаете к организации [!INCLUDE[cds_long_md](includes/cds_long_md.md)], должна использоваться та же валюта.
 
 > [!IMPORTANT]
 > Ваша среда [!INCLUDE[cds_long_md](includes/cds_long_md.md)] не должна находиться в режиме администрирования. Режим администрирования приведет к сбою подключения, поскольку у учетной записи пользователя интеграции для подключения нет прав администратора. Дополнительные сведения см. в разделе [Режим администрирования](/power-platform/admin/admin-mode).
@@ -86,17 +88,16 @@ ms.locfileid: "5779786"
     <!--Need to verify the details in this table, are these specific to Sales maybe?  IK: No they are not and no longer relevant 
     Enter the following advanced settings.-->
 
-   <!-- |Field|Description|
+    <!-- |Field|Description|
     |-----|-----|
     |**[!INCLUDE[prod_short](includes/prod_short.md)] Users Must Map to CDS Users**|If you are using the Person ownership model, specify whether [!INCLUDE[prod_short](includes/prod_short.md)] user accounts must have a matching user accounts in [!INCLUDE[cds_long_md](includes/cds_long_md.md)]. The **Microsoft 365 Authentication Email** of the [!INCLUDE[prod_short](includes/prod_short.md)] user must be the same as the **Primary Email** of the [!INCLUDE[crm_md](includes/crm_md.md)] user.<br /><br /> If you set the value to **Yes**, [!INCLUDE[prod_short](includes/prod_short.md)] users who do not have a matching [!INCLUDE[crm_md](includes/crm_md.md)] user account will not have [!INCLUDE[prod_short](includes/prod_short.md)] integration capabilities in the user interface. Access to [!INCLUDE[crm_md](includes/crm_md.md)] data directly from [!INCLUDE[prod_short](includes/prod_short.md)] is done on behalf of the [!INCLUDE[crm_md](includes/crm_md.md)] user account.<br /><br /> If you set the value to **No**, all [!INCLUDE[prod_short](includes/prod_short.md)] users will have [!INCLUDE[crm_md](includes/crm_md.md)] integration capabilities in the user interface. Access to [!INCLUDE[crm_md](includes/crm_md.md)] data is done on behalf of the [!INCLUDE[crm_md](includes/crm_md.md)] connection (integration) user.|
     |**Current Business Central Salesperson is Mapped to a User**|Indicates whether your user account is mapped to an account in [!INCLUDE[crm_md](includes/crm_md.md)] double check the name of this field-->|
-
 4. Для тестирования настроек подключения выберите **Подключение**, затем **Проверить подключение**.  
 
     > [!NOTE]  
     > Если шифрование данных не включено в [!INCLUDE[prod_short](includes/prod_short.md)], вы получите запрос, требуется ли его включить. Чтобы включить шифрование данных, выберите **Да** и предоставьте требуемую информацию. В противном случае выберите **Нет**. Шифрование данных можно включить позднее. Дополнительные сведения см. в разделе [Шифрование данных в Dynamics 365 Business Central](/dynamics365/business-central/dev-itpro/developer/devenv-encrypting-data) в справке для разработчика и администратора.  
-
 5. Если синхронизация [!INCLUDE[cds_long_md](includes/cds_long_md.md)] еще не настроена, вы получите запрос, следует ли использовать настройки синхронизации по умолчанию. В зависимости от того, требуется ли соответствие записей в [!INCLUDE[cds_long_md](includes/cds_long_md.md)] и [!INCLUDE[prod_short](includes/prod_short.md)], выберите **Да** или **Нет**.
+
 <!--
 ## Show Me the Process
 
@@ -116,12 +117,12 @@ The following video shows the steps to connect [!INCLUDE[prod_short](includes/pr
 
 Dataverse должна использовать один из следующих типов аутентификации:
 
-- Office365 (устаревшая версия)
+* Office365 (устаревшая версия)
 
   > [!IMPORTANT]
   > С апреля 2022 года поддержка Office365 (устаревшая версия) будет прекращена. Дополнительные сведения см. в разделе [Запланированные важные изменения (устаревания) в Power Apps, Power Automate и приложениях для взаимодействия с клиентами](/power-platform/important-changes-coming#deprecation-of-office365-authentication-type-and-organizationserviceproxy-class-for-connecting-to-dataverse).
-- Office365 (современный, на основе секрета клиента OAuth2)
-- OAuth
+* Office365 (современный, на основе секрета клиента OAuth2)
+* OAuth
 
 ### <a name="to-register-an-application-in-azure-ad-for-connecting-from-business-central-to-dataverse"></a>Чтобы зарегистрировать заявку в Azure AD для подключения из Business Central к Dataverse
 
@@ -148,7 +149,7 @@ Dataverse должна использовать один из следующих
 
 #### <a name="using-another-identity-and-access-management-service"></a>Использование другой службы управления удостоверениями и доступом
 
-Если вы не используете Azure Active Directory для управления удостоверениями и доступом, вам потребуется помощь разработчика. Если вы предпочитаете хранить код приложения и секрет в другом месте, вы можете оставить поля «Код клиента» и «Секрет клиента» пустыми и написать расширение для получения кода и секрета из местоположения. Вы можете предоставить секрет во время выполнения, подписавшись на события OnGetCDSConnectionClientId и OnGetCDSConnectionClientSecret в codeunit 7201 «CDS Integration Impl».
+Если вы не используете Azure Active Directory для управления удостоверениями и доступом, вам потребуется помощь разработчика. Если вы предпочитаете хранить код приложения и секрет в другом месте, вы можете оставить поля «Код клиента» и «Секрет клиента» пустыми и написать расширение для получения кода и секрета из местоположения. Вы можете предоставить секрет во время выполнения, подписавшись на события `OnGetCDSConnectionClientId` и `OnGetCDSConnectionClientSecret` в codeunit 7201 `CDS Integration Impl.`.
 
 ### <a name="to-disconnect-from-cds_long_md"></a>Отключение от [!INCLUDE[cds_long_md](includes/cds_long_md.md)]
 
@@ -158,6 +159,5 @@ Dataverse должна использовать один из следующих
 ## <a name="see-also"></a>См. также
 
 [Просмотр статуса синхронизации](admin-how-to-view-synchronization-status.md)  
-
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

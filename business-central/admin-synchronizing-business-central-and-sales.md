@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: Dataverse, integration, sync, synchronize, mapping
 ms.date: 04/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: 9a912596a71e77a09a7491fe20032056d1a9b808
-ms.sourcegitcommit: 8b44a7bcba45ae852cc6dd07b90b9a383c1be488
+ms.openlocfilehash: d568b9b40f2ed8db264db9736cf8e87f4165ea2c
+ms.sourcegitcommit: c11ad91a389ed72532f5513654fdc7909b20aed9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "5870027"
+ms.lasthandoff: 04/22/2021
+ms.locfileid: "5935090"
 ---
 # <a name="synchronizing-data-in-business-central-with-microsoft-dataverse"></a>Синхронизация данных в Business Central с Microsoft Dataverse
 [!INCLUDE[prod_short](includes/cc_data_platform_banner.md)]
@@ -55,6 +55,8 @@ ms.locfileid: "5870027"
 | Контакт | Контакт | [!INCLUDE[prod_short](includes/prod_short.md)] -> [!INCLUDE[prod_short](includes/cds_long_md.md)] и [!INCLUDE[prod_short](includes/cds_long_md.md)] -> [!INCLUDE[prod_short](includes/prod_short.md)] | Фильтр по контактам [!INCLUDE[prod_short](includes/prod_short.md)]: **тип** — **Человек** и контакт назначен организации. Фильтр по контактам [!INCLUDE[prod_short](includes/cds_long_md.md)]: контакт назначен организации, родительский тип клиента — **Организация**. |
 | Валюта | Валюта транзакции | [!INCLUDE[prod_short](includes/prod_short.md)] -> [!INCLUDE[prod_short](includes/cds_long_md.md)] |  |
 
+> [!NOTE]
+> Действия **Dataverse** не будут доступны на страницах, например, на странице "Карточка клиента", для записей, которые не соблюдают фильтр таблицы в сопоставлении таблицы интеграции.
 
 ### <a name="tip-for-admins-viewing-table-mappings"></a>Совет для администраторов: просмотр сопоставлений таблиц
 Можно просмотреть сопоставления между таблицами в [!INCLUDE[prod_short](includes/cds_long_md.md)] и [!INCLUDE[prod_short](includes/prod_short.md)] на странице **Сопоставления таблиц интеграции**, где можно также применять фильтры. Сопоставления определяются между полями в таблицах [!INCLUDE[prod_short](includes/prod_short.md)] и столбцами в таблицах [!INCLUDE[prod_short](includes/cds_long_md.md)] на странице **Сопоставление полей интеграции**, где можно добавить дополнительную логику сопоставления. Например, это может быть полезно в случае необходимости устранить проблему синхронизации.
