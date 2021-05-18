@@ -273,6 +273,7 @@
 ###### [Работа с отчетами Power BI в Business Central](across-working-with-powerbi.md)
 ###### [Работа с данными Business Central в Power BI](across-working-with-business-central-in-powerbi.md)
 ###### [Использование приложений Business Central в Power BI](across-powerbi-business-central-apps.md)
+##### [Вопросы и ответы](power-bi-faq.md)
 #### Использование Power Automate с Business Central
 ##### [Использование Business Central в автоматическом бизнес-процессе](across-how-use-financials-data-source-flow.md)
 #### Использование Power Apps с Business Central
@@ -288,8 +289,8 @@
 ## Вопросы и ответы
 ### [Вопросы и ответы](across-faq.md)
 ### [Вопросы и ответы о функции "Что вы хотите сделать"](ui-search-faq.md)
-### [Вопросы и ответы по поиску и фильтрации](ui-search-filter-faq.md)
-### [Вопросы и ответы о представлениях списков](ui-views-faq.md)
+### [Вопросы и ответы по поиску и фильтрации](ui-search-filter-faq.yml)
+### [Вопросы и ответы о представлениях списков](ui-views-faq.yml)
 ### [Вопросы и ответы по копированию и вставке](faq-copy-paste.yml)
 ### [Вопросы и ответы по мобильным приложениям](ui-mobile-faq.md)
 ### [Вопросы и ответы по Teams](teams-faq.md)
@@ -321,7 +322,7 @@
 ## [Поиск страниц с помощью обозревателя ролей](ui-role-explorer.md)
 ## [Вопросы и ответы о функции "Что вы хотите сделать"](ui-search-faq.md)
 ## [Сортировка, поиск и фильтрация](ui-enter-criteria-filters.md)
-## [Вопросы и ответы по поиску и фильтрации](ui-search-filter-faq.md)
+## [Вопросы и ответы по поиску и фильтрации](ui-search-filter-faq.yml)
 ## [Ввод данных](ui-enter-data.md)
 ## [Вопросы и ответы по копированию и вставке](faq-copy-paste.yml)
 ## [Работа с календарными датами и значениями времени](ui-enter-date-ranges.md)
@@ -356,10 +357,11 @@
 ### [Определение макетов документов для клиентов и поставщиков](ui-define-customer-vendor-document-layouts.md)
 ### [Добавление полей в макет отчета Word](ui-how-add-fields-word-report-layout.md)
 ### [Доступные шрифты](ui-fonts.md)
-## Использование сочетаний клавиш
-### [Специальные возможности и сочетания клавиш](ui-accessibility.md)
+## Специальные возможности, сочетания клавиш и жесты касания
+### [Специальные возможности](ui-accessibility.md)
 ### [Сочетания клавиш](keyboard-shortcuts.md)
 ### [Краткая справка по сочетаниям клавиш — только ПК](keyboard-shortcuts-cheatsheet.md)
+### [Сенсорные жесты и жесты пером](touch-gestures.md)
 ## [Устранение неполадок: доступ к камере и геопозиции](ui-troubleshooting-camera-location.md)
 ## [Интеллектуальная аналитика (только сетевая версия)](about-intelligent-cloud.md)
 # Функциональные бизнес-возможности
@@ -429,9 +431,10 @@
 ##### [Настройка службы банковских выписок](bank-how-setup-bank-statement-service.md)
 ##### [Настройка банковских счетов](bank-how-setup-bank-accounts.md)
 ##### [Использование XML-схем для определения обмена данными](across-how-to-use-xml-schemas-to-prepare-data-exchange-definitions.md)
-##### [Настройка определений обмена данными](across-how-to-set-up-data-exchange-definitions.md)
+
 #### Обмен данными
 ##### [Обмен данными](across-exchange-data.md)
+##### [Настройка определений обмена данными](across-how-to-set-up-data-exchange-definitions.md)
 ##### [Отправка электронных документов](sales-how-to-send-electronic-documents.md)
 ##### [Использование OCR для преобразования PDF-файлов и файлов изображений в электронные документы](across-how-use-ocr-pdf-images-files.md)
 ##### [Получение и преобразование электронных документов](purchasing-how-to-receive-and-convert-electronic-documents.md)
@@ -550,6 +553,7 @@
 #### [Настройка консолидации компании](finance-consolidated-company-reporting-setup.md)
 ### [Сведения о главной книге и плане счетов](finance-general-ledger.md)
 ### [Работа с измерениями](finance-dimensions.md)
+### [Устранение неполадок и исправление измерений](finance-troubleshooting-correcting-dimensions.md)
 ### [Создание бюджетов ГК](finance-how-create-budgets.md)
 ### [Учет транзакций непосредственно в главной книге](finance-how-post-transactions-directly.md)
 ### [Сторнирование учета в журнале и отмена приходных/расходных накладных](finance-how-reverse-journal-posting.md)
@@ -567,6 +571,7 @@
 ### [Анализ финансовых выписок в Excel](finance-analyze-excel.md)
 ### [Перевод банковских средств](bank-how-transfer-bank-funds.md)
 ### [Работа бухгалтера в Business Central](finance-accounting.md)
+### [Организаций со многими подразделениями и международные организации](finance-multi-site-organizations.md)
 
 ## Бизнес-аналитика и Financial Reporting
 ### [Обзор бизнес-аналитики и Financial Reporting](bi.md)
@@ -705,6 +710,8 @@
 ### [Выполнение полного планирования, MPS или MRP](production-how-to-run-mps-and-mrp.md)
 ### [Прямое перепланирование или обновление производственных заказов](production-how-to-replan-refresh-production-orders.md)
 ### [Отслеживание связей между спросом и предложением](production-how-track-demand-supply.md)
+### [Пошаговое руководство. Планирование поставок вручную](walkthrough-planning-supplies-manually.md)
+### [Пошаговое руководство. Автоматическое планирование поставок](walkthrough-planning-supplies-automatically.md)
 <!--## [Modify Planning Suggestions in a Graphical View](production-how-to-modify-planning-suggestions-in-a-graphical-view.md)-->
 
 ## Управление сборкой
@@ -745,8 +752,6 @@
 #### [Размещение выпуска производства или сборки](warehouse-how-to-put-away-production-output.md)
 #### [Планирование размещений в журналах](warehouse-how-to-plan-put-aways-in-worksheets.md)
 #### [Подбор и размещение без документа-источника](warehouse-how-to-create-put-aways-from-internal-put-aways.md)
-#### [Пошаговое руководство. Получение и складирование в основных складских конфигурациях](walkthrough-receiving-and-putting-away-in-basic-warehousing.md)
-#### [Пошаговое руководство. Получение и складирование в расширенных конфигурациях склада](walkthrough-receiving-and-putting-away-in-advanced-warehousing.md)
 ### Перемещение товаров
 #### [Перемещение товаров](warehouse-move-items.md)
 #### [Перемещение специальных товаров в базовых конфигурациях склада](warehouse-how-to-move-items-ad-hoc-in-basic-warehousing.md)
@@ -770,8 +775,6 @@
 ### [Использование автоматизированных систем сбора данных (ADCS)](warehouse-use-automated-data-capture-systems-adcs.md)
 ### [Пошаговое руководство. Получение и складирование в базовых конфигурациях склада](walkthrough-picking-and-shipping-in-basic-warehousing.md)
 ### [Пошаговое руководство. Получение и складирование в расширенных конфигурациях склада](walkthrough-receiving-and-putting-away-in-advanced-warehousing.md)
-### [Пошаговое руководство. Планирование поставок вручную](walkthrough-planning-supplies-manually.md)
-### [Пошаговое руководство. Автоматическое планирование поставок](walkthrough-planning-supplies-automatically.md)
 
 ## Сервисный центр
 ### [Управление сервисом](service-service.md)
