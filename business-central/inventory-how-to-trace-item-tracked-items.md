@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: a425b974bf37b440de27f2b469694f9e8eac07de
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: bbfe0237beb58f22d3be7bc388d7b2726f05d4ba
+ms.sourcegitcommit: 0953171d39e1232a7c126142d68cac858234a20e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5785703"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "6214757"
 ---
 # <a name="trace-item-tracked-items"></a>Трассировка товаров, трассируемых по товарам
 Можно просмотреть, где использовался товар, для которого требуется трассировка, включая то, как и где он был получен или произведен, перемещен, продан, потреблен или возвращен. Также можно найти все текущие экземпляры определенного серийного номера или номера партии в базе данных. Функции, которые позволяют это сделать "Трассировка товаров" и [Найти записи](ui-find-entries.md).  
@@ -26,7 +26,7 @@ ms.locfileid: "5785703"
 
  На странице **Найти записи** нельзя просматривать последовательность транзакций, но имеется возможность просмотреть все записи серийного номера или номера партии учтенных операций и открытых записей.  
 
- Эти две функции могут использоваться совместно путем переноса трассируемого серийного номера или номера партии на страницу **Найти записи** для завершения сценария полной трассировки. Дополнительные сведения см. в разделе [Пошаговое руководство. Трассировка серийных номеров и номеров партии](walkthrough-tracing-serial-lot-numbers.md).  
+ Эти две функции могут использоваться совместно путем переноса трассируемого серийного номера или номера партии на страницу **Найти записи** для завершения сценария полной трассировки. <!-- For more information, see [Walkthrough: Tracing Serial-Lot Numbers](walkthrough-tracing-serial-lot-numbers.md).   -->
 
 ## <a name="to-trace-item-tracked-items"></a>Трассировка товаров, трассируемых по товарам  
 
@@ -72,7 +72,7 @@ ms.locfileid: "5785703"
 [Сведения о проектировании. Трассировка и резервирование товара](design-details-item-tracking-and-reservations.md)  
 [Резервирование товаров](inventory-how-to-reserve-items.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
-[Пошаговое руководство. Трассировка серийных номеров и номеров партии](walkthrough-tracing-serial-lot-numbers.md)  
+<!-- [Walkthrough: Tracing Serial-Lot Numbers](walkthrough-tracing-serial-lot-numbers.md)   -->
 [Найти записи](ui-find-entries.md)  
 
 

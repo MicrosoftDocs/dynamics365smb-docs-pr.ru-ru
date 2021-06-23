@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: procurement
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 767bbf0160f35b68eebe48c0bcf4fbc4311d3ce0
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 3822566d239d6fda0cc314a3c9f20ac909943886
+ms.sourcegitcommit: f9a190933eadf4608f591e2f1b04c69f1e5c0dc7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5772676"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "6115844"
 ---
 # <a name="record-purchases-with-purchase-invoices"></a>Регистрация покупок со счетами покупок
 
@@ -100,6 +100,10 @@ ms.locfileid: "5772676"
 Можно легко скорректировать или отменить учтенный счет покупки до оплаты поставщику. Это используется, если нужно исправить опечатку или внести изменение в покупку на раннем этапе обработки заказа. Дополнительные сведения см. в разделе [Исправление или отмена неоплаченных счетов покупки](purchasing-how-correct-cancel-unpaid-purchase-invoices.md). Если товары или услуги в учтенном счете покупки уже оплачены, необходимо создать кредит-ноту покупки для сторнирования покупки. Дополнительные сведения см. в разделе [Обработка возвратов покупки или отмен](purchasing-how-process-purchase-returns-cancellations.md)
 
 [Откройте список **Учтенные счета покупки**](https://businesscentral.dynamics.com/?page=146) в [!INCLUDE [prod_short](includes/prod_short.md)].
+
+## <a name="external-document-number"></a>Номер внешнего документа
+
+[!INCLUDE [ext-doc-no-purch](includes/ext-doc-no-purch.md)]
 
 ## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/processing-invoices-dynamics-365-business-central/index)
 

@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: Invoicing, Microsoft 365
 ms.date: 04/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: 38d4a9be0c801d595ea390780296c7cb920fd003
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 763b4ae19bc83a1fd4a3abc9d6dfd5ee0c386eb1
+ms.sourcegitcommit: f9a190933eadf4608f591e2f1b04c69f1e5c0dc7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5776351"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "6115694"
 ---
 # <a name="using-the-same-microsoft-365-account-in-prod_short-and-microsoft-invoicing"></a>Использование одной и той же учетной записи Microsoft 365 в [!INCLUDE[prod_short](includes/prod_long.md)] и Microsoft Invoicing
 При регистрации на пробную версию [!INCLUDE[prod_short](includes/prod_short.md)] можно перейти на 30-дневную фазу оценки, начать подписку или прекратить использование [!INCLUDE[prod_short](includes/prod_short.md)]. Во всех случаях возможно, что вы в какой-то момент увидели что-то под названием **Microsoft Invoicing** и щелкнули соответствующую плитку. Это было приложение, которое входило в состав того, что сейчас называется подпиской Microsoft 365 Business Standard (а раньше называлось Microsoft 365 Business Premium), поэтому видеть эту плитку в своем интерфейсе Microsoft 365 могли не все.  
@@ -49,7 +49,7 @@ Invoicing и [!INCLUDE[prod_short](includes/prod_short.md)] используют
 Если используется и Invoicing, и [!INCLUDE[prod_short](includes/prod_short.md)], данные хранятся в двух различных контейнерах (двух организациях). Данные не используются совместно, поэтому потребуется управлять клиентами и товарами в обеих организациях.  
 
 ## <a name="see-also"></a>См. также
-[Вопросы и ответы](across-faq.md)  
+[Вопросы и ответы](across-faq.yml)  
 [Администрация](admin-setup-and-administration.md)  
 
 

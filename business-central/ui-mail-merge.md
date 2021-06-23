@@ -10,15 +10,18 @@ ms.workload: na
 ms.search.keywords: document, mail, merge, Word, template, email
 ms.date: 04/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: 118d8db1266bb7150965ec4d1ce44ece77638764
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: d29e29eca7dfc24ded51aed994ac7003fb4d30ab
+ms.sourcegitcommit: 6bce51954f17b80491e180f25d67ff18b1618a88
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5788580"
+ms.lasthandoff: 05/27/2021
+ms.locfileid: "6110958"
 ---
 # <a name="using-word-templates-for-bulk-communication"></a>Использование шаблонов Word для массовых сообщений
 Шаблоны Microsoft Word могут упростить массовые сообщения с такими сущностями, как клиенты и поставщики. Например, вы можете создавать буклеты для оповещения клиентов о кампании распродаж, письма для информирования поставщиков о новой политике закупок или приглашения для привлечения контактов на предстоящее мероприятие.
+
+> [!NOTE]
+> Вы можете использовать шаблоны Word только на устройствах с Microsoft Word 2019 и операционной системой Windows.
 
 Вы можете использовать сущности в [!INCLUDE[prod_short](includes/prod_short.md)] в качестве источника данных для шаблона и добавить поля слияния, чтобы персонализировать документы для каждой сущности. Поля слияния берутся из сущности в [!INCLUDE[prod_short](includes/prod_short.md)]. Когда вы применяете шаблон Word к сущности, данные из полей слияния вставляются в документ.
 

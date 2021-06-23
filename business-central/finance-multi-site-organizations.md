@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: hub-and-spoke, multi-site, headquarter, sites
 ms.date: 10/01/2020
 ms.author: bholtorf
-ms.openlocfilehash: cfdcdd68baa8fdd73ebc75d46650eeee65a28802
-ms.sourcegitcommit: c11ad91a389ed72532f5513654fdc7909b20aed9
+ms.openlocfilehash: 7002c5a3f523943e87757f7e2196e683888c21fe
+ms.sourcegitcommit: 652e4b0e1a09bff265014d9f8eb3b038ab0db79e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "5935425"
+ms.lasthandoff: 05/21/2021
+ms.locfileid: "6087673"
 ---
 # <a name="business-central-for-multi-site-and-international-organizations"></a>Business Central для организаций со многими подразделениями и международных организаций
 Организации, у которых есть несколько подразделений, часто используют "звездообразную" бизнес-модель, когда материнская компания или головной офис управляет всеми операциями бизнеса, в то время как каждое подразделение функционирует как отдельное юридическое лицо. Подразделения часто географически распределены и имеют разные потребности в обмене информацией с головной компанией. Кроме того, подразделениям обычно не нужен такой же уровень сложности, и им часто не хватает ресурсов для обслуживания большой системы.
@@ -38,8 +38,8 @@ ms.locfileid: "5935425"
 
 Для многонациональных организаций [!INCLUDE[prod_short](includes/prod_short.md)] поддерживает местные юридические требования и деловую практику.
 
-* Для онлайн-версий предусмотрено более [40 локализованных версий](https://docs.microsoft.com/dynamics365/business-central/dev-itpro/compliance/apptest-countries-and-translations?toc=/dynamics365/business-central/toc.json), которые вы можете установить как расширения из Microsoft AppSource.  
-* Для локальных версий [версии для стран/регионов](https://docs.microsoft.com/azure/architecture/solution-ideas/articles/business-central) доступны либо в виде локализованных версий Microsoft, либо в виде локализаций надстроек, разработанных партнерами.
+* Для онлайн-версий предусмотрено более [40 локализованных версий](/dynamics365/business-central/dev-itpro/compliance/apptest-countries-and-translations?toc=/dynamics365/business-central/toc.json), которые вы можете установить как расширения из Microsoft AppSource.  
+* Для локальных версий [версии для стран/регионов](/azure/architecture/solution-ideas/articles/business-central) доступны либо в виде локализованных версий Microsoft, либо в виде локализаций надстроек, разработанных партнерами.
 
 Сеть, состоящая из более чем 4000 партнеров Microsoft по всему миру, предоставляет свои знания на местах.
 
@@ -80,12 +80,12 @@ API и XMLport упрощают процесс подключения экзем
 | **Бизнес-требование** | **Как Business Central это поддерживает** | **Узнать больше** |
 |-------------------------|-------------------------|-------------------------|
 | Подключите настраиваемые версии между подразделениями и головным офисом компании. | Страницы API могут предоставлять любое представление объекта, включая его настройки. | [Включение API для Business Central](/dynamics-nav/enabling-apis-for-dynamics-nav) |
-| Управление версиями и безопасность. | API используют ODataV4, который предоставляет управление версиями, веб-перехватчики и отслеживание изменений. | [Защита и безопасность](https://docs.microsoft.com/dynamics365/business-central/dev-itpro/security/security-and-protection) |
-| Публикация и импорт документов XML. | Codeunits могут быть представлены как несвязанные действия для поддержки публикации и приема XML-документов. Для обработки XML-документов могут применяться XMLports. Несвязанные действия также могут создавать документ XML или JSON. | [Объекты XMLport](https://docs.microsoft.com/dynamics365/business-central/dev-itpro/developer/devenv-xmlport-object) |
+| Управление версиями и безопасность. | API используют ODataV4, который предоставляет управление версиями, веб-перехватчики и отслеживание изменений. | [Защита и безопасность](/dynamics365/business-central/dev-itpro/security/security-and-protection) |
+| Публикация и импорт документов XML. | Codeunits могут быть представлены как несвязанные действия для поддержки публикации и приема XML-документов. Для обработки XML-документов могут применяться XMLports. Несвязанные действия также могут создавать документ XML или JSON. | [Объекты XMLport](/dynamics365/business-central/dev-itpro/developer/devenv-xmlport-object) |
 | Упростите обслуживание за счет электронного обмена данными. | Решение для электронного обмена данными может быть добавлено в качестве уровня интеграции между головной компанией и подразделениями. | [Платформа обмена данными](across-about-the-data-exchange-framework.md) |
-| Обмен данными между разными системами. | Используйте XMLports для создания XML-документов, которыми затем можно обмениваться между головной компанией, использующей одну систему, и подразделениями, использующими Business Central. | [Обзор XMLport](https://docs.microsoft.com/dynamics365/business-central/dev-itpro/developer/devenv-xmlport-overview) |
+| Обмен данными между разными системами. | Используйте XMLports для создания XML-документов, которыми затем можно обмениваться между головной компанией, использующей одну систему, и подразделениями, использующими Business Central. | [Обзор XMLport](/dynamics365/business-central/dev-itpro/developer/devenv-xmlport-overview) |
 | Организуйте сложные обмены данными. | Используйте комбинацию XMLports с Business Central и сервер Microsoft BizTalk для удовлетворения уникальных потребностей ваших подразделений.</br>Для сложных задач используйте решение для электронного обмена данными на основе сервера BizTalk и Commerce Gateway в Business Central в сочетании с XMLports. | [Работа с отчетами, пакетными заданиями и XMLport](ui-work-report.md) |
-| Подключайтесь к решениями и службам сторонних <sup></sup>производителей. | API-интерфейсы устанавливают двухточечное соединение между Business Central и решениями и службами сторонних <sup></sup>производителей. | [API v2.0](https://docs.microsoft.com/dynamics-nav/api-reference/v2.0/) |
+| Подключайтесь к решениями и службам сторонних <sup></sup>производителей. | API-интерфейсы устанавливают двухточечное соединение между Business Central и решениями и службами сторонних <sup></sup>производителей. | [API v2.0](/dynamics-nav/api-reference/v2.0/) |
 
 
 ## <a name="promote-an-efficient-intercompany-supply-chain"></a>Продвигайте эффективную внутрихолдинговую цепочку поставок

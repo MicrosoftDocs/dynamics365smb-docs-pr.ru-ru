@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: Teams, MS Teams, Microsoft Teams, Skype, Link, Microsoft 365, collaborate, collaboration, teamwork
 ms.date: 04/12/2021
 ms.author: jswymer
-ms.openlocfilehash: bc4e39727abcb0bfabb9580ad79e47e9c0b4495b
-ms.sourcegitcommit: e13b80d4e5141f414109e660e0918eae561acb36
+ms.openlocfilehash: 15a6f009095c2e20cf65d38503a7c737e64e7bb8
+ms.sourcegitcommit: 5a916b0aa0a2eef0c22b5722a0af041757e6d7c2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "5882159"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "6074691"
 ---
 # <a name="business-central-and-microsoft-teams-integration"></a>Интеграция Business Central и Microsoft Teams
 
@@ -49,7 +49,7 @@ ms.locfileid: "5882159"
 
 После разговора вы и ваши коллеги можете просматривать дополнительные сведения о записи, редактировать данные и принимать меры — не выходя из Teams.
 
-Дополнительные сведения см. в разделе [Работа с данными Business Central в Microsoft Teams](across-working-with-teams.md).
+Дополнительные сведения см. в разделе [Общий доступ к записям в Microsoft Teams](across-working-with-teams.md).
 
 ## <a name="get-started"></a>Начало работы
 
@@ -62,7 +62,7 @@ ms.locfileid: "5882159"
 
 2. Как администратор см. [Управление интеграцией Microsoft Teams с Business Central](admin-teams-integration.md) для получения информации о настройке пользователей для работы с [!INCLUDE [prod_short](includes/prod_short.md)] и Teams.
 3. Установка приложения [!INCLUDE [prod_short](includes/prod_short.md)] в Teams. См. [Установка приложения [!INCLUDE [prod_short](includes/prod_short.md)] для Microsoft Teams](across-install-app-for-teams.md).
-4. Как только приложение установлено, вы готовы к работе. См. [Работа с данными Business Central в Teams](across-working-with-teams.md). 
+4. Как только приложение установлено, вы готовы к работе. См. [Поиск клиентов, поставщиков и других контактов из Microsoft Teams](across-search-contacts-teams.md) и [Общий доступ к записям в Microsoft Teams](across-working-with-teams.md). 
 
 ## <a name="see-also"></a>См. также
 

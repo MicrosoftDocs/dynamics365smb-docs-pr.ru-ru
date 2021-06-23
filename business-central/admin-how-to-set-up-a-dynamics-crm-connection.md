@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/26/2021
 ms.author: bholtorf
-ms.openlocfilehash: 00034e8f1be2f88074fb33b53a1c048f81f69ede
-ms.sourcegitcommit: 57e8ab70d70849752567eecf29529efe2dcdf3af
+ms.openlocfilehash: ebe708efacbaa03d5f10deb7b21b090222f28818
+ms.sourcegitcommit: 61e279b253370cdf87b7bc1ee0f927e4f0521344
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "5941667"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "6063481"
 ---
 # <a name="connect-to-microsoft-dataverse"></a>Подключение к Microsoft Dataverse
 
@@ -126,7 +126,7 @@ Dataverse должна использовать один из следующих
 
 ### <a name="to-register-an-application-in-azure-ad-for-connecting-from-business-central-to-dataverse"></a>Чтобы зарегистрировать заявку в Azure AD для подключения из Business Central к Dataverse
 
-Следующие шаги предполагают, что вы используете Azure AD, чтобы управлять удостоверениями и доступом. Дополнительные сведения о регистрации приложения в Azure AD, см. в [Быстрый старт: зарегистрируйте приложение на платформе идентификации Microsoft](/azure/active-directory/develop/quickstart-register-app). Если вы не используете Azure AD, см. [Использование другой службы управления удостоверениями и доступом](admin-how-to-set-up-a-dynamics-crm-connection.md#using-another-identity-and-access-management-service).  
+Следующие шаги предполагают, что вы используете Azure AD, чтобы управлять удостоверениями и доступом. Дополнительные сведения о регистрации приложения в Azure AD, см. в [Быстрый старт: зарегистрируйте приложение на платформе идентификации Microsoft](/azure/active-directory/develop/quickstart-register-app). 
 
 1. В Azure Portal, в **управлять** на панели навигации выберите **Аутентификация**.  
 2. В **URL-адреса перенаправления** добавьте URL-адрес перенаправления, который предлагается на страница **Настройка подключения Dataverse** в [!INCLUDE[prod_short](includes/prod_short.md)].
@@ -146,10 +146,6 @@ Dataverse должна использовать один из следующих
 
    > [!NOTE]
    > Если вам не предлагается войти в систему с учетной записью администратора, возможно, это связано с блокировкой всплывающих окон. Чтобы войти, разрешите всплывающие окна от `https://login.microsoftonline.com`.
-
-#### <a name="using-another-identity-and-access-management-service"></a>Использование другой службы управления удостоверениями и доступом
-
-Если вы не используете Azure Active Directory для управления удостоверениями и доступом, вам потребуется помощь разработчика. Если вы предпочитаете хранить код приложения и секрет в другом месте, вы можете оставить поля «Код клиента» и «Секрет клиента» пустыми и написать расширение для получения кода и секрета из местоположения. Вы можете предоставить секрет во время выполнения, подписавшись на события `OnGetCDSConnectionClientId` и `OnGetCDSConnectionClientSecret` в codeunit 7201 `CDS Integration Impl.`.
 
 ### <a name="to-disconnect-from-cds_long_md"></a>Отключение от [!INCLUDE[cds_long_md](includes/cds_long_md.md)]
 

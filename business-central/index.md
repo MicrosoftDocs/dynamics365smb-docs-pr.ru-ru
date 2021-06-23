@@ -9,12 +9,12 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 3811841784144d1c9dc786f8ae6435bedb5fb1d5
-ms.sourcegitcommit: 921f0c4043dcda2fb8fc35df1b64310bf32270d7
+ms.openlocfilehash: 9042f49795f5ee6bb9e0bced2b8ba48ba1e093b4
+ms.sourcegitcommit: f9a190933eadf4608f591e2f1b04c69f1e5c0dc7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "6017103"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "6115265"
 ---
 # <a name="welcome-to-prod_long"></a>Добро пожаловать в [!INCLUDE[prod_long](includes/prod_long.md)]
 
@@ -36,7 +36,7 @@ ms.locfileid: "6017103"
 Вы также можете [посетить нашу видеотеку](across-videos.md) или начать с пути обучения [Начать работу с Microsoft Dynamics 365 Business Central](/learn/paths/get-started-dynamics-365-business-central/) на [Microsoft Learn](/learn/dynamics365/business-central?WT.mc_id=dyn365bc_landingpage-docs).  
 
 > [!NOTE]
-> Если не указано иное, содержимое сайта Docs.microsoft.com отражает последнюю версию интернет-версии [!INCLUDE[prod_short](includes/prod_short.md)]. Если ваша организация использует другую интернет-версию [!INCLUDE[prod_short](includes/prod_short.md)], некоторые возможности могут быть недоступны. Кроме того, если ваша организация использует локальную версию [!INCLUDE[prod_short](includes/prod_short.md)], вы можете использовать более раннюю версию. Дополнительные сведения см. в разделе [Часто задаваемые вопросы](across-faq.md).
+> Если не указано иное, содержимое сайта Docs.microsoft.com отражает последнюю версию интернет-версии [!INCLUDE[prod_short](includes/prod_short.md)]. Если ваша организация использует другую интернет-версию [!INCLUDE[prod_short](includes/prod_short.md)], некоторые возможности могут быть недоступны. Кроме того, если ваша организация использует локальную версию [!INCLUDE[prod_short](includes/prod_short.md)], вы можете использовать более раннюю версию. Дополнительные сведения см. в разделе [Часто задаваемые вопросы](across-faq.yml).
 
 В следующих разделах указаны ключевые статьи, которые помогут вам познакомиться с [!INCLUDE [prod_short](includes/prod_short.md)].  
 

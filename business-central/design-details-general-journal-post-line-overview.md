@@ -8,19 +8,20 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: design, general ledger, post
-ms.date: 04/01/2021
+ms.date: 06/08/2021
 ms.author: edupont
-ms.openlocfilehash: 6866e852899df3de3de2c4560c26ad981e46fda5
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 1f6060eb7672b332fb570eb13fe027a3b58e6594
+ms.sourcegitcommit: 0953171d39e1232a7c126142d68cac858234a20e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5777852"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "6215257"
 ---
 # <a name="general-journal-post-line-overview"></a>Обзор строки учета финансового журнала
+
 Модуль codeunit 12 **Фин. журнал - строка учета** — это основной объект приложения для учета главной книги и единственное место для вставки операций главной книги, НДС, книги поставщиков и клиентов. Этот модуль codeunit также используется для всех операций применения, отмены применения и сторнирования.  
   
-Хотя модуль codeunit улучшался в каждом выпуске за последние десять лет, его архитектура оставалась по большей части неизменной. Модуль codeunit стал очень большим и содержит приблизительно 7600 строк кода. В этом выпуске [!INCLUDE[prod_short](includes/prod_short.md)] архитектура изменена и модуль codeunit стало проще использовать и поддерживать. Эта документация включает изменения и содержит сведения, необходимые для обновления.  
+В Microsoft Dynamics NAV 2013 R2 codeunit был переработан, поскольку он стал очень большим, примерно с 7600 строками кода. Архитектура была изменена и модуль codeunit стало проще использовать и поддерживать. Эта документация описывает изменения и содержит сведения, необходимые для обновления.  
   
 ## <a name="old-architecture"></a>Старая архитектура  
 Старая архитектура имела следующие функции:  
@@ -43,9 +44,11 @@ ms.locfileid: "5777852"
 * Множество вспомогательных функций перемещены в соответствующие таблицы и книги клиентов и поставщиков.  
 * Использование глобальных переменных сведено к минимуму, чтобы в каждой процедуре использовались параметры и инкапсулировалась собственная логика применения.  
   
-## <a name="see-also"></a>См. также  
-[Сведения о проектировании: структура интерфейса учета](design-details-posting-interface-structure.md)   
-[Сведения о проектировании: структура механизма учета](design-details-posting-engine-structure.md)
+## <a name="see-also"></a>См. также
+
+[Сведения о проектировании: структура интерфейса учета](design-details-posting-interface-structure.md)  
+[Сведения о проектировании: структура механизма учета](design-details-posting-engine-structure.md)  
+[Сведения о проектировании: строка учета финансового журнала (Dynamics NAV)](/dynamics-nav-app/design-details-general-journal-post-line)  
 
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

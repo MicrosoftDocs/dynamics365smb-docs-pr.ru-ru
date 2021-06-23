@@ -1,8 +1,6 @@
 ---
-title: Обзор задач для управления покупками | Документация Майкрософт
+title: Обзор задач управления закупками
 description: Описывает задачи по управлению покупками или процессами покупок, включая работу счетов покупки и заказов на покупку.
-services: project-madeira
-documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: conceptual
@@ -12,12 +10,12 @@ ms.workload: na
 ms.search.keywords: procurement, supply, vendor order
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 0cc508d75aaf64a631de47af5c241cab2be3f334
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 929e1d62a091c4a01aa6f5e03dd5fcbdaa5bf7c0
+ms.sourcegitcommit: f9a190933eadf4608f591e2f1b04c69f1e5c0dc7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5772533"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "6115794"
 ---
 # <a name="purchasing"></a>Закупки
 Счет покупки или заказ на покупку создается для записи стоимости покупок и отслеживания кредиторской задолженности. Если требуется управлять запасами, счета покупки также используются для динамического обновления уровней запасов, чтобы уменьшить себестоимости запасов и обеспечить лучшее обслуживание клиентов. Расходы на покупку, включая затраты на обслуживание, и стоимость запасов, полученная из учета счетов покупки, составляют показатели прибыли и другие ключевые показатели эффективности финансовой деятельности в ролевом центре.
@@ -45,6 +43,10 @@ ms.locfileid: "5772533"
 | Узнайте, как [!INCLUDE[prod_short](includes/prod_short.md)] рассчитывает, когда необходимо заказать товар для получения его в конкретную дату.|[Расчет даты для покупок](purchasing-date-calculation-for-purchases.md)|
 |Разрешение конфликта, когда две или более записей существуют для одного и того же поставщика.|[Объединение повторяющихся записей](sales-how-merge-duplicate-records.md)|
 |Управление обязательством перед поставщиком приобрести большой объем, доставляемый за несколько отгрузок в течение определенного периода времени.|[Работа с общими заказами на покупку](sales-how-to-create-blanket-sales-orders.md)|
+
+## <a name="external-document-numbers"></a>Номера внешних документов
+
+[!INCLUDE [ext-doc-no-purch](includes/ext-doc-no-purch.md)]
 
 ## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/purchase-items-services-dynamics-365-business-central/)
 

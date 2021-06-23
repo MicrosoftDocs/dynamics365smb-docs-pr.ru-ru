@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: online printing, email printing, cloud printing, Universal Print
-ms.date: 04/01/2021
+ms.date: 05/17/2021
 ms.author: jswymer
-ms.openlocfilehash: 69c5ab889ae1fe98d50c04e31f47ecc28cc0e1b0
-ms.sourcegitcommit: 08ca5798cf3f04fc3ea38fff40c1860196a70adf
+ms.openlocfilehash: c98006d85607a62f99286e1179728b969fa4d005
+ms.sourcegitcommit: 61e279b253370cdf87b7bc1ee0f927e4f0521344
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "5985416"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "6063456"
 ---
 # <a name="set-up-printers"></a>Настройка принтеров
 
@@ -38,7 +38,7 @@ ms.locfileid: "5985416"
 
 ![Настройка универсальной печати](media/Universal-Print-arch.png)
 
-Полная настройка требует, чтобы вы работали как в Microsoft Azure с помощью [Портала Azure](https://posrtal.azure.com), так и в [!INCLUDE[prod_short](includes/prod_short.md)].
+Полная настройка требует, чтобы вы работали как в Microsoft Azure с помощью [Портала Azure](https://portal.azure.com), так и в [!INCLUDE[prod_short](includes/prod_short.md)].
 
 ### <a name="supported-printers"></a>Поддерживаемые принтеры
 
@@ -78,7 +78,7 @@ ms.locfileid: "5985416"
 
 Прежде чем вы сможете начать управлять принтерами универсальной печати в Business Central, вам необходимо выполнить несколько задач, чтобы настроить универсальную печать и запустить ее в Azure с теми принтерами, которые вы хотите использовать.
 
-Подробные инструкции по настройке см. в разделе [Начало работы: настройка универсальной печати](https://docs.microsoft.com/universal-print/fundamentals/universal-print-getting-started) в документации по универсальной печати. Вот обзор шагов, которые вам необходимо выполнить. Большинство этих шагов выполняется на портале Azure.
+Подробные инструкции по настройке см. в разделе [Начало работы: настройка универсальной печати](/universal-print/fundamentals/universal-print-getting-started) в документации по универсальной печати. Вот обзор шагов, которые вам необходимо выполнить. Большинство этих шагов выполняется на портале Azure.
 
 1. Назначьте лицензии универсальной печати себе и другим пользователям.
 
@@ -104,29 +104,34 @@ ms.locfileid: "5985416"
 
     - Для других принтеров зарегистрируйте принтеры с помощью соединителя универсальной печати. 
 
-      Дополнительные сведения см. в разделе [Регистрация принтера](/universal-print-connector-printer-registration).
+      Дополнительные сведения см. в разделе [Регистрация принтера](/universal-print/fundamentals/universal-print-connector-printer-registration).
 
 4. Изменение свойств принтера (необязательно)
 
     После регистрации принтера вы можете просматривать и изменять свойства принтера, например настройки по умолчанию.
 
-    Дополнительные сведения см. в разделе [Управление настройками метаданных принтера](/universal-print/fundamentals/universal-print-printer-property-settings).
+    Для получения дополнительной информации см. [Управление настройками принтера с помощью портала универсальной печати](/universal-print/portal/configure-printer-settings).
 
-5. Дайте пользователям разрешение на использование принтеров.
-
-    Дополнительные сведения см. в разделе [Разрешения для принтера](/universal-print/fundamentals/universal-print-printer-permissions#printer-permissions).
-
-6. Предоставьте общий доступ к принтерам.
+5. Предоставьте общий доступ к принтерам.
 
     Любой принтер, который вы хотите использовать в [!INCLUDE[prod_short](includes/prod_short.md)], необходимо будет открыть для общего доступа в службе универсальной печати.
 
-    Дополнительные сведения см. в разделе [Общий доступ к принтеру](/universal-print/fundamentals/universal-print-printer-permissions#share-a-printer).
+    <!--For more information, see [Share a Printer](/universal-print/fundamentals/universal-print-printer-permissions#share-a-printer). -->
+
+    Дополнительные сведения см. в разделе [Общий доступ к принтеру](/universal-print/portal/share-printers).
+
+6. Дайте пользователям разрешение на использование общих принтеров.
+
+    <!--For more information, see [Printer Permissions](/universal-print/fundamentals/universal-print-printer-permissions#printer-permissions).-->
+
+    Дополнительные сведения см. в разделе [Разрешения для принтера](/universal-print/portal/share-printers#configure-user-permissions-for-a-printer-share).
+
 
 7. Включите преобразование документов.
 
     Универсальная печать отображает содержимое для печати в формате XPS. Некоторые существующие на рынке принтеры не поддерживают рендеринг содержимого XPS &mdash; во многих случаях поддерживается только формат PDF. Печать на этих принтерах завершится ошибкой, если служба универсальной печати не настроена для преобразования документов в формат, поддерживаемый принтером.
 
-    Дополнительные сведения см. в разделе [Обзор преобразования документов](/universal-print/fundamentals/universal-print-document-conversion).
+    Дополнительные сведения см. в разделе [Обзор преобразования документов](/universal-print/portal/document-conversion).
 
     > [!TIP]
     > Если ни один из ваших принтеров не требует формата рендеринга содержимого PDF, мы рекомендуем не включать преобразование документов, поскольку это может повлиять на качество вывода на печать.

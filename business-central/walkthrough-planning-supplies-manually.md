@@ -10,16 +10,16 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: c993a8ad5a856ae45bd5ce7d258592b60ed2ccd3
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: c1ab3c48ae09b75ab9e54e0c9fe9afd49b833f09
+ms.sourcegitcommit: 0953171d39e1232a7c126142d68cac858234a20e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5772058"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "6214682"
 ---
 # <a name="walkthrough-planning-supplies-manually"></a>Пошаговое руководство. Планирование поставок вручную
 
-[!INCLUDE[complete_sample_data](includes/complete_sample_data.md)]  
+<!-- [!INCLUDE[complete_sample_data](includes/complete_sample_data.md)]   -->
 
 В этом пошаговом руководстве демонстрируется процесс планирования заказов на продажу для выполнения нового требования. Планирование поставок можно инициировать с фиксированным интервалом, например каждое утро или каждый понедельник, или при получении уведомления от отдела продаж либо с производства, в зависимости от типа требования. В данном пошаговом руководстве будет использоваться страница **Планирование заказов** — простой инструмент планирования поставок на основе выполняемого вручную процесса принятия решений вместо автоматического планирования на основе параметров.  
 
@@ -231,7 +231,7 @@ ms.locfileid: "5772058"
 
 ## <a name="see-also"></a>См. также  
  [Пошаговые руководства по бизнес-процессам](walkthrough-business-process-walkthroughs.md)   
- [Пошаговое руководство. Автоматическое планирование поставок](walkthrough-planning-supplies-automatically.md)
+<!--  [Walkthrough: Planning Supplies Automatically](walkthrough-planning-supplies-automatically.md) -->
 
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

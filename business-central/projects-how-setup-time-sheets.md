@@ -9,15 +9,15 @@ ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: project management, capacity, staff, resource
+ms.search.keywords: project management, capacity, staff, resource, time sheet
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 7134f45ef41400df1e44655d7a7e580da8dcb06b
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 778d9c4308d28be804d7f1572335bd160faad6d8
+ms.sourcegitcommit: 1aab52477956bf1aa7376fc7fb984644bc398c61
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5780411"
+ms.lasthandoff: 06/04/2021
+ms.locfileid: "6184303"
 ---
 # <a name="set-up-time-sheets"></a>Настройка табелей учета рабочего времени
 Табели учета рабочего времени в [!INCLUDE[prod_short](includes/prod_short.md)] регистрируются на еженедельной основе с периодичностью в семь дней. Их можно использовать для отслеживания времени, затраченного на работы, а также для записи простой регистрации затрат времени ресурса. Прежде чем использовать табели, необходимо указать, как они должны быть установлены и настроены.

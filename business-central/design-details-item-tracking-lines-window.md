@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: design, inventory, item, tracking, serial number, lot number
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: f1dd05c8074189656bfafc5d0541504136f99390
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 24454de31ff2424481c574f79098472719c84c82
+ms.sourcegitcommit: 0953171d39e1232a7c126142d68cac858234a20e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5774918"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "6214938"
 ---
 # <a name="design-details-item-tracking-lines-page"></a>Сведения о проектировании: — страница "Строки трассировки товаров"
 Записи трассировки товаров и записи резервирования создаются в системе резервирования, и их наличие рассчитывается динамически. Управление данными, введенными на странице **Строки трассировки товаров**, осуществляется во временной версии таблицы **Спецификация трассировки**. Если страница закрыта, активные данные помещаются в таблицу **Операция резервирования**, а данные за прошлые периоды помещаются в таблицу **Спецификация трассировки**. Дополнительные сведения см. в разделе [Сведения о проектировании: активные и исторические операции трассировки товаров](design-details-active-versus-historic-item-tracking-entries.md).  

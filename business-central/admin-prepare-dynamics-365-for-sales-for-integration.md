@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: sales, crm, integration, integrating
 ms.date: 04/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: 136a96c880c7abf9b082d7f8859e484be54da4e1
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 6683d8b3a01693d23366f95292eb92f0aabcd268
+ms.sourcegitcommit: 1aab52477956bf1aa7376fc7fb984644bc398c61
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5777338"
+ms.lasthandoff: 06/04/2021
+ms.locfileid: "6184503"
 ---
 # <a name="integrating-with-dynamics-365-sales"></a>Интеграция с Dynamics 365 Sales
 [!INCLUDE[prod_short](includes/cc_data_platform_banner.md)]
@@ -44,7 +44,6 @@ ms.locfileid: "5777338"
 * Пользователь наличия товара Dynamics 365 Business Central
 
 ### <a name="connection-settings-in-the-setup-guide"></a>Настройки подключения в руководстве по установке
-
 Вы можете использовать мастер настройки, чтобы быстро настроить подключение и указать расширенные функции, такие как связи между записями.
 
 1. Выберите **Настройка и расширения**, затем выберите **Мастер настройки**.
@@ -56,11 +55,10 @@ ms.locfileid: "5777338"
 |--|--|
 | **Импорт решения Dynamics 365 Sales** | Разрешить это, чтобы установить и настроить решение интеграции в [!INCLUDE[crm_md](includes/crm_md.md)]. <!--For more information, see [About the Base CDS Integration Solution](admin-common-data-service.md#about-the-business-central-integration-solution). Need to add a new topic--> |
 | **Публикация веб-службы наличия товаров** | Разрешите пользователям, которые используют [!INCLUDE[crm_md](includes/crm_md.md)], просматривать наличие товаров (продуктов) в запасах в [!INCLUDE[prod_short](includes/prod_short.md)]. Для этого необходима учетная запись пользователя [!INCLUDE[prod_short](includes/prod_short.md)] с ключом доступа к веб-службам. Назначение ключа выполняется в два этапа. В учетной записи пользователя в [!INCLUDE[prod_short](includes/prod_short.md)] необходимо выбрать действие **Изменить ключ веб-службы**. В мастере настройки "Настройка подключения к Dynamics 365 Sales" необходимо указать URL-адрес веб-службы Dynamics 365 Business Central OData и предоставить учетные данные пользователя [!INCLUDE[prod_short](includes/prod_short.md)] для получения доступа к сервису. Дополнительные сведения см. в разделе [Веб-службы OData](/dynamics365/business-central/dev-itpro/webservices/odata-web-services). |
-| **URL-адрес веб-службы OData Business Central** | Если включена веб-служба для просмотра наличия товаров, URL-адрес веб-службы OData предоставляется для вас. |
-| **Имя пользователя веб-службы OData Business Central** | Имя пользователя учетной записи [!INCLUDE[prod_short](includes/prod_short.md)], которую [!INCLUDE[crm_md](includes/crm_md.md)] использует для извлечения сведений о наличии товаров в [!INCLUDE[prod_short](includes/prod_short.md)] через веб-службу OData. |
+|**Имя пользователя веб-службы OData Business Central** | Имя пользователя учетной записи [!INCLUDE[prod_short](includes/prod_short.md)], которую [!INCLUDE[crm_md](includes/crm_md.md)] использует для извлечения сведений о наличии товаров в [!INCLUDE[prod_short](includes/prod_short.md)] через веб-службу OData. |
 | **Ключ доступа веб-службы OData Business Central** | Ключ доступа учетной записи пользователя, которую [!INCLUDE[crm_md](includes/crm_md.md)] использует для получения сведений о наличии товаров из [!INCLUDE[prod_short](includes/prod_short.md)] через веб-службу OData. Ключ назначается пользователю, выбранному в поле **Имя пользователя веб-службы OData Business Central**. Чтобы получить ключ, выберите кнопку **Найти значение** рядом с именем пользователя, выберите пользователя, выберите **Управление**, затем выберите **Правка**. В карточке пользователя выберите **Действия**, **Проверка подлинности**, затем выберите **Изменить ключ веб-службы**. |
 | **Включить интеграцию с заказом на продажу** | Когда сотрудники создают заказы на продажу в [!INCLUDE[crm_md](includes/crm_md.md)] и выполняют заказы в [!INCLUDE[prod_short](includes/prod_short.md)], это интегрирует процесс в [!INCLUDE[crm_md](includes/crm_md.md)]. Дополнительные сведения см. в разделе [Включение интеграции обработки заказов на продажу](/dynamics365/customer-engagement/sales-enterprise/developer/enable-sales-order-processing-integration). Для этого требуется, чтобы вы предоставили учетные данные для учетной записи пользователя-администратора в [!INCLUDE[crm_md](includes/crm_md.md)]. Дополнительные сведения см. в разделе [Обработка данных в заказах на продажу](marketing-integrate-dynamicscrm.md#handling-sales-order-data). |
-| **Включить подключение к CDS** | Включите подключение к [!INCLUDE[prod_short](includes/cds_long_md.md)]. |
+|**Включить подключение к Dynamics 365 Sales** | Включите подключение к [!INCLUDE[crm_md](includes/crm_md.md)]. |
 | **Версия SDK Dynamics 365** | Это необходимо только в том случае, если выполняется интеграция с локальной версией [!INCLUDE[crm_md](includes/crm_md.md)]. Это комплект разработки программного обеспечения Dynamics 365 (также называемый Xrm), который используется для подключения [!INCLUDE[prod_short](includes/prod_short.md)] к [!INCLUDE[crm_md](includes/crm_md.md)]. Версия должна быть совместима с версией пакета SDK, которая используется [!INCLUDE[crm_md](includes/crm_md.md)], и равна или новее версии, используемой [!INCLUDE[crm_md](includes/crm_md.md)]. |
 
 ### <a name="connection-settings-on-the-microsoft-dynamics-365-connection-setup-page"></a>Параметры подключения на странице настройки подключения Microsoft Dynamics 365

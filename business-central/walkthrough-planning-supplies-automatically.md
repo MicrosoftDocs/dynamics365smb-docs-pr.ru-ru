@@ -10,16 +10,16 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: e7d15b47124248e27698136fab362e867e81ba47
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 4e790c33cb10e9e71d8ec6f9482615c41562e379
+ms.sourcegitcommit: 0953171d39e1232a7c126142d68cac858234a20e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5782888"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "6214707"
 ---
 # <a name="walkthrough-planning-supplies-automatically"></a>Пошаговое руководство. Автоматическое планирование поставок
 
-[!INCLUDE[complete_sample_data](includes/complete_sample_data.md)]  
+<!-- [!INCLUDE[complete_sample_data](includes/complete_sample_data.md)]   -->
 
 Фразами "процесс планирования" или "процесс MRP" обозначается вычисление основного плана производства (MPS) и плана потребности в материалах (MRP) на основе фактического и прогнозируемого требования.  
 
@@ -264,8 +264,8 @@ ms.locfileid: "5782888"
  На этом данное пошаговое руководство, посвященное использованию системы планирования для автоматического определения требования, вычисления соответствующих заказов на поставку согласно требованию и параметрам планирования, а также автоматическому созданию заказов на поставку различных типов с соответствующими значениями дат и количества, завершается.  
 
 ## <a name="see-also"></a>См. также  
- [Пошаговые описания бизнес-процессов](walkthrough-business-process-walkthroughs.md)   
- [Пошаговое руководство. Планирование поставок вручную](walkthrough-planning-supplies-manually.md)   
+ [Пошаговые руководства по бизнес-процессам](walkthrough-business-process-walkthroughs.md)   
+<!--  [Walkthrough: Planning Supplies Manually](walkthrough-planning-supplies-manually.md)    -->
  [Сведения о проектировании: планирование поставок](design-details-supply-planning.md)
 
 

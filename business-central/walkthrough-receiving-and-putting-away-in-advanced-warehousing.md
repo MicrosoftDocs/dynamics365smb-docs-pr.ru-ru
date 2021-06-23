@@ -10,16 +10,16 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 2e4ca4287c0fda629e8c6e5b923a01ba8691563c
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: f7badb1b8e43e98b8d2088ab8d963f46a5fc3f48
+ms.sourcegitcommit: 0953171d39e1232a7c126142d68cac858234a20e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5782838"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "6214632"
 ---
 # <a name="walkthrough-receiving-and-putting-away-in-advanced-warehouse-configurations"></a>Пошаговое руководство. Получение и складирование в расширенных конфигурациях склада
 
-[!INCLUDE[complete_sample_data](includes/complete_sample_data.md)]  
+<!-- [!INCLUDE[complete_sample_data](includes/complete_sample_data.md)]   -->
 
 В [!INCLUDE[prod_short](includes/prod_short.md)] входящие процессы по получению и размещению могут быть выполнены четырьмя способами при помощи различных функций в зависимости от уровня сложности склада.  
 
@@ -159,7 +159,7 @@ ms.locfileid: "5782838"
  [Размещение товаров с помощью складских размещений](warehouse-how-to-put-items-away-with-warehouse-put-aways.md)   
  [Перемещение товаров в расширенных конфигурациях склада](warehouse-how-to-move-items-in-advanced-warehousing.md)   
  [Сведения о проектировании: входящий складской поток](design-details-inbound-warehouse-flow.md)   
- [Пошаговое руководство. Получение и складирование в базовых конфигурациях склада](walkthrough-receiving-and-putting-away-in-basic-warehousing.md)   
+ <!-- [Walkthrough: Receiving and Putting Away in Basic Warehouse Configurations](walkthrough-receiving-and-putting-away-in-basic-warehousing.md)    -->
  [Пошаговые описания бизнес-процессов](walkthrough-business-process-walkthroughs.md)
 
 
