@@ -8,27 +8,32 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: design, general journal, posting, codeunit 12
-ms.date: 04/01/2021
+ms.date: 06/08/2021
 ms.author: edupont
-ms.openlocfilehash: 3ea2ea8a4ef5bbdff70346022ee226fd5e26748d
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 8492c83437be4cd850bafdaaa5dc70d00a075674
+ms.sourcegitcommit: 0953171d39e1232a7c126142d68cac858234a20e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5777827"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "6215232"
 ---
-# <a name="design-details-general-journal-post-line"></a><span data-ttu-id="270c7-103">Сведения о проектировании: строка учета финансового журнала</span><span class="sxs-lookup"><span data-stu-id="270c7-103">Design Details: General Journal Post Line</span></span>
-<span data-ttu-id="270c7-104">Документация содержит подробные технические сведения о концепциях и принципах, используемых для перегруппировки функции строки учета финансового журнала в [!INCLUDE[prod_short](includes/prod_short.md)].</span><span class="sxs-lookup"><span data-stu-id="270c7-104">This documentation provides detailed technical insight into the concepts and principles that are used to redesign the general journal posting line feature in [!INCLUDE[prod_short](includes/prod_short.md)].</span></span> <span data-ttu-id="270c7-105">В измененном дизайне модуль codeunit 12 проще использовать и поддерживать.</span><span class="sxs-lookup"><span data-stu-id="270c7-105">The redesign makes codeunit 12 simpler and more maintainable.</span></span> <span data-ttu-id="270c7-106">В начале документа приводится концептуальный обзор переконструирования.</span><span class="sxs-lookup"><span data-stu-id="270c7-106">The documentation starts by describing conceptual overviews of the redesign.</span></span> <span data-ttu-id="270c7-107">Затем поясняется техническая архитектура с целью показать изменения, связанные с изменением дизайна.</span><span class="sxs-lookup"><span data-stu-id="270c7-107">Then it explains the technical architecture to show the changes that result from the redesign.</span></span>  
+# <a name="design-details-general-journal-post-line"></a><span data-ttu-id="18c91-103">Сведения о проектировании: строка учета финансового журнала</span><span class="sxs-lookup"><span data-stu-id="18c91-103">Design Details: General Journal Post Line</span></span>
 
-## <a name="in-this-section"></a><span data-ttu-id="270c7-108">В этом разделе</span><span class="sxs-lookup"><span data-stu-id="270c7-108">In This Section</span></span>  
-[<span data-ttu-id="270c7-109">Обзор строки учета финансового журнала</span><span class="sxs-lookup"><span data-stu-id="270c7-109">General Journal Post Line Overview</span></span>](design-details-general-journal-post-line-overview.md)  
-[<span data-ttu-id="270c7-110">Сведения о проектировании: структура интерфейса учета</span><span class="sxs-lookup"><span data-stu-id="270c7-110">Design Details: Posting Interface Structure</span></span>](design-details-posting-interface-structure.md)  
-[<span data-ttu-id="270c7-111">Сведения о проектировании: структура механизма учета</span><span class="sxs-lookup"><span data-stu-id="270c7-111">Design Details: Posting Engine Structure</span></span>](design-details-posting-engine-structure.md)  
-[<span data-ttu-id="270c7-112">Изменения модуля codeunit 12: сопоставление глобальных переменных для строки учета финансового журнала</span><span class="sxs-lookup"><span data-stu-id="270c7-112">Codeunit 12 Changes: Mapping Global Variables for General Journal Post Line</span></span>](design-details-codeunit-12-changes-mapping-global-variables-for-general-journal-post-line.md)  
-[<span data-ttu-id="270c7-113">Изменения модуля codeunit 12: изменения процедур учета финансовых журналов</span><span class="sxs-lookup"><span data-stu-id="270c7-113">Codeunit 12 Changes: Changes in General Journal Post Procedures</span></span>](design-details-codeunit-12-changes-changes-in-general-journal-post-procedures.md)  
+<span data-ttu-id="18c91-104">Документация содержит подробные технические сведения о концепциях и принципах, используемых для перегруппировки функции строки учета финансового журнала в [!INCLUDE[prod_short](includes/prod_short.md)].</span><span class="sxs-lookup"><span data-stu-id="18c91-104">This documentation provides detailed technical insight into the concepts and principles that were used to redesign the general journal posting line feature in [!INCLUDE[prod_short](includes/prod_short.md)].</span></span> <span data-ttu-id="18c91-105">В измененном дизайне модуль codeunit 12 проще использовать и поддерживать.</span><span class="sxs-lookup"><span data-stu-id="18c91-105">The redesign made codeunit 12 simpler and more maintainable.</span></span> <span data-ttu-id="18c91-106">В начале документа приводится концептуальный обзор переконструирования.</span><span class="sxs-lookup"><span data-stu-id="18c91-106">The documentation starts by describing conceptual overviews of the redesign.</span></span> <span data-ttu-id="18c91-107">Затем поясняется техническая архитектура с целью показать изменения, связанные с изменением дизайна.</span><span class="sxs-lookup"><span data-stu-id="18c91-107">Then it explains the technical architecture to show the changes that result from the redesign.</span></span>  
 
-## <a name="see-also"></a><span data-ttu-id="270c7-114">См. также</span><span class="sxs-lookup"><span data-stu-id="270c7-114">See Also</span></span>  
-[<span data-ttu-id="270c7-115">Работа с финансовыми журналами</span><span class="sxs-lookup"><span data-stu-id="270c7-115">Working with General Journals</span></span>](ui-work-general-journals.md)
+> [!IMPORTANT]
+> <span data-ttu-id="18c91-108">Информация в этом разделе относится к переработке в более ранней версии продукта, Microsoft Dynamics NAV 2013 R2.</span><span class="sxs-lookup"><span data-stu-id="18c91-108">The information in this section applies to the redesign in an earlier version of the product, Microsoft Dynamics NAV 2013 R2.</span></span>
 
+## <a name="in-this-section"></a><span data-ttu-id="18c91-109">В этом разделе</span><span class="sxs-lookup"><span data-stu-id="18c91-109">In This Section</span></span>
+
+[<span data-ttu-id="18c91-110">Обзор строки учета финансового журнала</span><span class="sxs-lookup"><span data-stu-id="18c91-110">General Journal Post Line Overview</span></span>](design-details-general-journal-post-line-overview.md)  
+[<span data-ttu-id="18c91-111">Сведения о проектировании: структура интерфейса учета</span><span class="sxs-lookup"><span data-stu-id="18c91-111">Design Details: Posting Interface Structure</span></span>](design-details-posting-interface-structure.md)  
+[<span data-ttu-id="18c91-112">Сведения о проектировании: структура механизма учета</span><span class="sxs-lookup"><span data-stu-id="18c91-112">Design Details: Posting Engine Structure</span></span>](design-details-posting-engine-structure.md)  
+
+## <a name="see-also"></a><span data-ttu-id="18c91-113">См. также</span><span class="sxs-lookup"><span data-stu-id="18c91-113">See Also</span></span>
+
+<span data-ttu-id="18c91-114">[Работа с финансовыми журналами](ui-work-general-journals.md)
+[Сведения о проектировании: строка учета финансового журнала (Dynamics NAV)](/dynamics-nav-app/design-details-general-journal-post-line)</span><span class="sxs-lookup"><span data-stu-id="18c91-114">[Working with General Journals](ui-work-general-journals.md)
+[Design Details: General Journal Post Line (Dynamics NAV)](/dynamics-nav-app/design-details-general-journal-post-line)</span></span>  
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]
