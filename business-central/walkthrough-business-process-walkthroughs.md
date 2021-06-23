@@ -10,37 +10,38 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: ce4823a243a6f1f25d4cea9d417e12211877d9a9
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: f0fae0ff46cbfedfd78749e591e34e5a284063fd
+ms.sourcegitcommit: 0953171d39e1232a7c126142d68cac858234a20e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5782963"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "6216107"
 ---
 # <a name="business-process-walkthroughs"></a>Пошаговые руководства по бизнес-процессам
 
-В этом сборнике пошаговых руководств представлены поэтапные комплексные бизнес-процессы, которые можно выполнять с помощью демонстрационной организации CRONUS International Ltd. Пошаговые руководства состоят из нескольких процедур, некоторые из которых обычно выполняются одним пользователем, а другие включают в себя несколько других ролей пользователей. Чтобы сымитировать рабочую среду, некоторые пошаговые руководства содержат шаги настройки, необходимые для выполнения упражнений в описанном порядке. Эти этапы могут обеспечить понимание типов информации, которую пользователи должны предоставить ИТ-специалистам в своей организации.  
+В этом сборнике пошаговых руководств представлены поэтапные комплексные бизнес-процессы, которые можно выполнять с помощью демонстрационной организации CRONUS. Пошаговые руководства состоят из нескольких процедур, некоторые из которых обычно выполняются одним пользователем, а другие включают в себя несколько других ролей пользователей. Чтобы сымитировать рабочую среду, некоторые пошаговые руководства содержат шаги настройки, необходимые для выполнения упражнений в описанном порядке. Эти этапы могут обеспечить понимание типов информации, которую пользователи должны предоставить ИТ-специалистам в своей организации.  
 
  Пошаговые руководства представляют собой законченные сценарии, поэтому чтобы извлечь из них как можно больше пользы, следует выполнять содержащиеся в этих руководствах указания от начала до конца. Многие из них основаны на демонстрациях [!INCLUDE[prod_short](includes/prod_short.md)], благодаря чему можно самостоятельно выполнить соответствующие процедуры на своем рабочем месте.  
 
 > [!NOTE]
-> Некоторые пошаговые руководства требуют демонстрационные данные, которые недоступны в демонстрационная организация по умолчанию в [!INCLUDE[prod_short](includes/prod_short.md)]. Дополнительные сведения см. в [Создать компанию с полными демонстрационными данными в песочнице](across-how-create-sandbox-environment.md#to-create-a-company-with-complete-sample-data-in-a-sandbox).
+> Некоторые пошаговые руководства требуют демонстрационные данные, которые недоступны в демонстрационная организация по умолчанию в [!INCLUDE[prod_short](includes/prod_short.md)]. <!--For more information, see [To create a company with complete sample data in a sandbox](across-how-create-sandbox-environment.md#to-create-a-company-with-complete-sample-data-in-a-sandbox). -->
 
 |Задача|Ссылка|  
 |--------|---------|  
 |Настройка маркетинговой кампании.|[Пошаговое руководство. Проведение кампании по продажам](walkthrough-conducting-a-sales-campaign.md)|  
-|Используйте предоплаты для управления частичными платежами для покупок и продаж. **Требуются полные демонстрационные данные** |[Пошаговое руководство. Настройка и выставление счетов на продажу](walkthrough-setting-up-and-invoicing-sales-prepayments.md)|  
+|Используйте предоплаты для управления частичными платежами для покупок и продаж. <!-- **Requires complete sample data** --> |[Пошаговое руководство. Настройка и выставление счетов на продажу](walkthrough-setting-up-and-invoicing-sales-prepayments.md)|  
 |Настройте пользователей утверждения, время и способ получения уведомлений о рабочих процессах утверждения, а затем измените и включите соответствующий рабочий процесс утверждения.|[Пошаговое руководство. Настройка и использование рабочего процесса утверждения покупки](walkthrough-setting-up-and-using-a-purchase-approval-workflow.md)|  
-|Разместить полученные товары в базовых конфигурациях склада. **Требуются полные демонстрационные данные**|[Пошаговое руководство. Получение и складирование в основных складских конфигурациях](walkthrough-receiving-and-putting-away-in-basic-warehousing.md)|  
-|Размещение полученных товаров в расширенных конфигурациях склада. **Требуются полные демонстрационные данные**|[Пошаговое руководство. Получение и складирование в расширенных складских конфигурациях](walkthrough-receiving-and-putting-away-in-advanced-warehousing.md)|  
-|Планирование заказов на поставку для выполнения требований вручную. **Требуются полные демонстрационные данные**|[Пошаговое руководство. Планирование поставок вручную](walkthrough-planning-supplies-manually.md)|  
-|Планирование заказов на поставку для автоматического выполнения требований. **Требуются полные демонстрационные данные**|[Пошаговое руководство. Автоматическое планирование поставок](walkthrough-planning-supplies-automatically.md)|  
-|Сборка и отгрузка товаров, настроенных в заказе на продажу. **Требуются полные демонстрационные данные**|[Пошаговое руководство: продажа, сборка и отгрузка наборов](walkthrough-selling-assembling-and-shipping-kits.md)|  
-|Планирование проекта от начала до конца. **Требуются полные демонстрационные данные**|[Пошаговое руководство. Управление проектами с помощью работ](walkthrough-managing-projects-with-jobs.md)|  
-|Отчет в затратах проекта. **Требуются полные демонстрационные данные**|[Пошаговое руководство. Вычисление незавершенного производства для задания](walkthrough-calculating-work-in-process-for-a-job.md)|  
-|Подобрать товары для отгрузки в рамках базовой конфигурации склада. **Требуются полные демонстрационные данные**|[Пошаговое руководство. Подбор и отгрузка в базовых конфигурациях склада](walkthrough-picking-and-shipping-in-basic-warehousing.md)|  
-|Управление процессом выявления и устранения дефектов. **Требуются полные демонстрационные данные**|[Пошаговое руководство. Трассировка серийных номеров и номеров партии](walkthrough-tracing-serial-lot-numbers.md)|
+|Планирование проекта от начала до конца. <!-- **Requires complete sample data** --> |[Пошаговое руководство. Управление проектами с помощью работ](walkthrough-managing-projects-with-jobs.md)|  
+|Отчет в затратах проекта. <!-- **Requires complete sample data** --> |[Пошаговое руководство. Вычисление незавершенного производства для задания](walkthrough-calculating-work-in-process-for-a-job.md)|  
+|Подобрать товары для отгрузки в рамках базовой конфигурации склада. <!-- **Requires complete sample data** --> |[Пошаговое руководство. Подбор и отгрузка в базовых конфигурациях склада](walkthrough-picking-and-shipping-in-basic-warehousing.md)|  
 |Экспорт бизнес-данных для целей аудита в Германии.|[Пошаговое руководство. Экспорт данных для цифрового аудита](LocalFunctionality/Germany/walkthrough-exporting-data-for-a-digital-audit.md)|
+
+<!-- |Assemble and ship items that are customized on the sales order. **Requires complete sample data** |[Walkthrough: Selling, Assembling, and Shipping Kits](walkthrough-selling-assembling-and-shipping-kits.md)|   -->
+<!-- |Plan supply orders to fulfill demand automatically. **Requires complete sample data** |[Walkthrough: Planning Supplies Automatically](walkthrough-planning-supplies-automatically.md)|   -->
+<!-- |Plan supply orders to fulfill demand manually. **Requires complete sample data** |[Walkthrough: Planning Supplies Manually](walkthrough-planning-supplies-manually.md)|   -->
+<!-- |Put received items away in basic warehouse configurations. **Requires complete sample data** |[Walkthrough: Receiving and Putting Away in Basic Warehouse Configurations](walkthrough-receiving-and-putting-away-in-basic-warehousing.md)|   -->
+<!-- |Put received items away in advanced warehouse configurations. **Requires complete sample data**|[Walkthrough: Receiving and Putting Away in advanced warehouse configurations](walkthrough-receiving-and-putting-away-in-advanced-warehousing.md)|   -->
+<!-- |Perform defects management. **Requires complete sample data** |[Walkthrough: Tracing Serial-Lot Numbers](walkthrough-tracing-serial-lot-numbers.md)| -->
 
 ## <a name="see-also"></a>См. также
 

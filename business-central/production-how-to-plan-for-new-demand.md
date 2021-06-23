@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: ab3929a410a280494d806e7aeea5c54ce966769e
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: bed73380344c0900a00d6d704ee2d853a1bf165d
+ms.sourcegitcommit: 0953171d39e1232a7c126142d68cac858234a20e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5787981"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "6216234"
 ---
 # <a name="plan-for-new-demand-order-by-order"></a>Последовательное планирование по каждому заказу
 Эта задача планирования может быть выполнена на странице **Планирование заказов**, в котором отображаются все данные нового спроса наряду со сведениями о готовности и предложениями по поставке. В окне обеспечиваются обзор и инструменты, необходимые для эффективного планирования спроса из строк продажи и компонентов и последующего непосредственного создания различных типов заказов поставки.  
@@ -109,11 +109,11 @@ ms.locfileid: "5787981"
 >  Создаваемые заказы на поставку могут порождать новое зависимое требование, например для подчиненных производственных заказов. Поэтому, прежде чем переходить далее по списку, следует снова выбрать **Вычислить план**, чтобы выявить и разрешить новое требование.  
 
 ## <a name="see-also"></a>См. также  
-[Пошаговое руководство. Планирование поставок вручную](walkthrough-planning-supplies-manually.md)  
+<!-- [Walkthrough: Planning Supplies Manually](walkthrough-planning-supplies-manually.md)   -->
 [Планирование](production-planning.md)  
 [Настройка производства](production-configure-production-processes.md)  
 [Производство](production-manage-manufacturing.md)    
-[Запасы](inventory-manage-inventory.md)  
+[Наличие](inventory-manage-inventory.md)  
 [Покупки](purchasing-manage-purchasing.md)  
 [Сведения о проектировании: планирование поставок](design-details-supply-planning.md)   
 [Рекомендации по настройке. Планирование поставок](setup-best-practices-supply-planning.md)  

@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: design, reconciliation, general ledger, inventory
-ms.date: 04/01/2021
+ms.date: 06/08/2021
 ms.author: edupont
-ms.openlocfilehash: 3b912ff8eea32c35db4eb96333336e80d819e0c3
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: ad155e604780af087c93e4e245002f3511d3d5a9
+ms.sourcegitcommit: 0953171d39e1232a7c126142d68cac858234a20e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5786491"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "6215806"
 ---
 # <a name="design-details-reconciliation-with-the-general-ledger"></a>Сведения о проектировании: выверка с главной книгой
 При учете складских транзакций, таких как расходные накладные, выход произведенной продукции или отрицательные коррекции, изменения количества и стоимости товара регистрируются в операциях книги товаров и операциях стоимости соответственно. Следующим шагом процесса является учет стоимостей товаров на счетах товаров в главной книге.  

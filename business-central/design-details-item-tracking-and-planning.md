@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2021
+ms.date: 06/08/2021
 ms.author: edupont
-ms.openlocfilehash: 333e79076fc8d991cc33129c1786fd6dee83f63a
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: a01ddb4ac423df3f4ada16740550edf46949886a
+ms.sourcegitcommit: 0953171d39e1232a7c126142d68cac858234a20e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5774943"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "6215907"
 ---
 # <a name="design-details-item-tracking-and-planning"></a>Сведения о проектировании: трассировка и планирование товара
 Поскольку они хранятся в системе резервирования, номера трассировки товара полностью согласовываются с записями трассировки заказов. Это означает, что товарам с записями трассировки заказов можно присвоить номера трассировки заказов. И наоборот, товары с номерами трассировки товара могут стать записями трассировки заказов. Дополнительные сведения см. в разделе [Сведения о проектировании: проектирование трассировки товара](design-details-item-tracking-design.md).

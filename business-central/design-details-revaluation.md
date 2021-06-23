@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2021
+ms.date: 06/08/2021
 ms.author: edupont
-ms.openlocfilehash: 1293368dd96a08ba3edff3110881435a11f52fbe
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: a052f726169fde9e09e83aeb690169580eaee948
+ms.sourcegitcommit: 0953171d39e1232a7c126142d68cac858234a20e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5782353"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "6215782"
 ---
 # <a name="design-details-revaluation"></a>Сведения о проектировании: переоценка
 Можно переоценить запасы с учетом базы оценки, которая наиболее точно отражает стоимость запасов. Можно записать переоценку задним числом, чтобы себестоимость проданных товаров правильно обновлялась для уже проданных элементов. Товары с методом учета себестоимости "По стандартной", по которым счет выставлен не полностью, также можно переоценить.  

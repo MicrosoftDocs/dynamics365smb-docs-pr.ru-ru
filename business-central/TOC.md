@@ -11,15 +11,15 @@
 #### [Пошаговое руководство. Проведение кампании по продажам](walkthrough-conducting-a-sales-campaign.md)
 #### [Пошаговое руководство. Настройка и выставление счетов на продажу](walkthrough-setting-up-and-invoicing-sales-prepayments.md)
 #### [Пошаговое руководство. Настройка и использование рабочего процесса утверждения покупки](walkthrough-setting-up-and-using-a-purchase-approval-workflow.md)
-#### [Пошаговое руководство. Получение и складирование в базовых конфигурациях склада](walkthrough-picking-and-shipping-in-basic-warehousing.md)
-#### [Пошаговое руководство. Получение и складирование в расширенных конфигурациях склада](walkthrough-receiving-and-putting-away-in-advanced-warehousing.md)
-#### [Пошаговое руководство. Планирование поставок вручную](walkthrough-planning-supplies-manually.md)
-#### [Пошаговое руководство. Автоматическое планирование поставок](walkthrough-planning-supplies-automatically.md)
-#### [Пошаговое руководство: продажа, сборка и отгрузка наборов](walkthrough-selling-assembling-and-shipping-kits.md)
+<!-- #### [Walkthrough: Receiving and Putting Away in Basic Warehouse Configurations](walkthrough-receiving-and-putting-away-in-basic-warehousing.md) -->
+<!-- #### [Walkthrough: Receiving and Putting Away in Advanced Warehouse Configurations](walkthrough-receiving-and-putting-away-in-advanced-warehousing.md) -->
+<!-- #### [Walkthrough: Planning Supplies Manually](walkthrough-planning-supplies-manually.md) -->
+<!-- #### [Walkthrough: Planning Supplies Automatically](walkthrough-planning-supplies-automatically.md) -->
+<!-- #### [Walkthrough: Selling, Assembling, and Shipping Kits](walkthrough-selling-assembling-and-shipping-kits.md) -->
 #### [Пошаговое руководство. Управление проектами с помощью работ](walkthrough-managing-projects-with-jobs.md)
 #### [Пошаговое руководство. Вычисление незавершенного производства для задания](walkthrough-calculating-work-in-process-for-a-job.md)
 #### [Пошаговое руководство. Подбор и отгрузка в базовых конфигурациях склада](walkthrough-picking-and-shipping-in-basic-warehousing.md)
-#### [Пошаговое руководство. Трассировка серийных номеров и номеров партии](walkthrough-tracing-serial-lot-numbers.md)
+<!-- #### [Walkthrough: Tracing Serial/Lot Numbers](walkthrough-tracing-serial-lot-numbers.md) -->
 #### [Пошаговое руководство. Создание прогнозов движения денежных средств с использованием финансовых отчетов](walkthrough-making-cash-flow-forecasts-by-using-account-schedules.md)
 
 ### Сведения о проектировании
@@ -79,8 +79,6 @@
 ##### [Обзор строки учета финансового журнала](design-details-general-journal-post-line-overview.md)  
 ##### [Сведения о проектировании: структура интерфейса учета](design-details-posting-interface-structure.md)  
 ##### [Сведения о проектировании: структура механизма учета](design-details-posting-engine-structure.md)  
-##### [Сведения о проектировании. Изменения модуля codeunit 12: сопоставление глобальных переменных для строки учета финансового журнала](design-details-codeunit-12-changes-mapping-global-variables-for-general-journal-post-line.md)  
-##### [Сведения о проектировании. Изменения модуля codeunit 12: изменения в процедурах учета финансовых журналов](design-details-codeunit-12-changes-changes-in-general-journal-post-procedures.md)
 #### Сведения о проектировании: операции набора измерений
 ##### [Сведения о проектировании: обзор операций набора измерений](design-details-dimension-set-entries-overview.md)  
 ##### [Сведения о проектировании: поиск комбинаций измерений](design-details-searching-for-dimension-combinations.md)  
@@ -241,9 +239,10 @@
 #### [Советы и подсказки: RapidStart Services](admin-tips-and-tricks-rapidstart-services.md)
 ### Настройка электронной почты
 #### [Настройка электронной почты](admin-how-setup-email.md)
-#### Настройка папки "Входящие" для бизнеса в Outlook 
+#### Настройка папки "Входящие" для бизнеса в Microsoft Outlook 
 ##### [Использование Business Central в качестве папки "Входящие" для бизнеса в Outlook](admin-outlook.md)
-##### [Синхронизация с контактами в Microsoft Outlook](admin-synchronize-outlook-contacts.md)
+##### [Синхронизация с контактами в Outlook](admin-synchronize-outlook-contacts.md)
+##### [Оптимизировать Outlook](admin-outlook-optimize.md)
 ##### [Использование Business Central без Outlook](admin-no-outlook.md)
 ### Настройка отчетов
 #### [Выбор отчета](across-report-selections.md)
@@ -257,7 +256,7 @@
 ##### [Управление интеграцией команд](admin-teams-integration.md)
 ##### [Установка приложения Business Central в Teams](across-install-app-for-teams.md)
 ##### [Поиск клиентов, поставщиков и контактов](across-search-contacts-teams.md)
-##### [Работа с данными Business Central в Teams](across-working-with-teams.md)
+##### [Обмен записями в Teams](across-working-with-teams.md)
 ##### [Изменение компании и других параметров](across-teams-settings.md)
 ##### [Вопросы и ответы по Teams](teams-faq.md)
 ##### [Устранение неполадок](admin-teams-troubleshooting.md)
@@ -287,12 +286,12 @@
 ### [Получение Business Central на мобильном устройстве](install-mobile-app.md)
 
 ## Вопросы и ответы
-### [Вопросы и ответы](across-faq.md)
+### [Вопросы и ответы](across-faq.yml)
 ### [Вопросы и ответы о функции "Что вы хотите сделать"](ui-search-faq.md)
 ### [Вопросы и ответы по поиску и фильтрации](ui-search-filter-faq.yml)
 ### [Вопросы и ответы о представлениях списков](ui-views-faq.yml)
 ### [Вопросы и ответы по копированию и вставке](faq-copy-paste.yml)
-### [Вопросы и ответы по мобильным приложениям](ui-mobile-faq.md)
+### [Вопросы и ответы по мобильным приложениям](ui-mobile-faq.yml)
 ### [Вопросы и ответы по Teams](teams-faq.md)
 ### [Вопросы и ответы по электронным счетам](faq-electronic-invoicing.yml)
 ### [Минимальные требования](product-requirements.md)
@@ -534,6 +533,10 @@
 #### [Закрытие открытых операций в книге товаров, появившихся в результате фиксированного применения в товарном журнале](finance-how-to-close-open-item-ledger-entries-resulting-from-fixed-application-in-the-item-journal.md)
 #### [Выверка себестоимости товаров с главной книгой](finance-how-to-post-inventory-costs-to-the-general-ledger.md)
 
+### Управление движением денежных средств
+#### [Обзор движения денежных средств](finance-cash-flow-overview.md)
+#### [Анализ движения денежных средств в организации](finance-analyze-cash-flow.md)
+
 ### Закрытие года и периодов
 #### [Обзор закрытия года](year-close-years-periods.md)
 #### [Работы с учетными периодами и финансовыми годами](finance-accounting-periods-and-fiscal-years.md)
@@ -566,7 +569,6 @@
 ### [Подача отчета об НДС в налоговые органы](finance-how-report-vat.md)
 ### [Преобразование сервисных контрактов, которые включают суммы НДС](service-how-to-convert-service-contracts.md)
 ### [Управление изменениями ставки НДС](finance-how-use-vat-rate-change-tool.md)
-### [Анализ движения денежных средств в организации](finance-analyze-cash-flow.md)
 ### [Пошаговое руководство. Создание прогнозов движения денежных средств с использованием финансовых отчетов](walkthrough-making-cash-flow-forecasts-by-using-account-schedules.md)
 ### [Анализ финансовых выписок в Excel](finance-analyze-excel.md)
 ### [Перевод банковских средств](bank-how-transfer-bank-funds.md)
@@ -586,6 +588,7 @@
 
 ## Продажи
 ### [Обзор продаж](sales-manage-sales.md)
+### [Отчеты по продажам](sales-reports.md)
 ### [Пошаговое руководство. Проведение кампании по продажам](walkthrough-conducting-a-sales-campaign.md)
 ### [Пошаговое руководство. Настройка и выставление счетов на продажу](walkthrough-setting-up-and-invoicing-sales-prepayments.md)
 ### [Регистрация новых клиентов](sales-how-register-new-customers.md)
@@ -606,9 +609,11 @@
 ### [Расчет даты для продаж](sales-date-calculation-for-sales.md)
 ### [Объединение повторяющихся записей](sales-how-merge-duplicate-records.md)
 ### [Работа с повторяющимся доходом](finance-recurring-invoicing.md)
+### [Ввод номеров внешних документов](across-enter-external-document-numbers.md)
 
 ## Закупки
 ### [Обзор закупок](purchasing-manage-purchasing.md)
+### [Отчеты о покупках](purchase-reports.md)
 ### [Пошаговое руководство. Настройка и использование рабочего процесса утверждения покупки](walkthrough-setting-up-and-using-a-purchase-approval-workflow.md)
 ### [Регистрация покупок](purchasing-how-record-purchases.md)
 ### [Запрос предложений](purchasing-how-request-quotes.md)
@@ -621,9 +626,13 @@
 ### [Расчет даты для покупок](purchasing-date-calculation-for-purchases.md)
 ### [Объединение повторяющихся записей](sales-how-merge-duplicate-records.md)
 ### [Работа с общими заказами на покупку](sales-how-to-create-blanket-sales-orders.md)
+### [Номера внешних документов в документах покупки](purchasing-ext-doc-no.md)
+### [Ввод номеров внешних документов](across-enter-external-document-numbers.md)
+
 
 ## Запасы
 ### [Обзор запасов](inventory-manage-inventory.md)
+### [Отчеты о запасах и складах](inventory-WMS-reports.md)
 ### [Регистрация новых товаров](inventory-how-register-new-items.md)
 ### [Работа со спецификациями](inventory-how-work-BOMs.md)
 ### [Категоризация товаров](inventory-how-categorize-items.md)
@@ -642,6 +651,7 @@
 
 ## Управление проектами
 ### [Обзор управления проектом](projects-manage-projects.md)
+### [Отчеты по проекту](project-reports.md)
 ### [Создание работ](projects-how-create-jobs.md)
 ### [Использование ресурсов для работ](projects-how-use-resources.md)
 ### [Использование табелей учета рабочего времени для работ](projects-how-use-time-sheets.md)
@@ -701,21 +711,20 @@
 ## Планирование
 ### [Планирование производства](production-planning.md)
 ### [О функциональности планирования](production-about-planning-functionality.md)
-### [Субподрядное производство](production-how-to-subcontract-manufacturing.md)
 ### [Планирование со складами и без складов](production-planning-with-without-locations.md)
 ### [Создание прогноза](production-how-to-create-a-forecast.md)
 ### [Создание производственных заказов из заказов на продажу](production-how-to-create-production-orders-from-sales-orders.md)
-### [Планирование заказов проекта](production-how-to-plan-project-orders.md)
 ### [Последовательное планирование по каждому заказу](production-how-to-plan-for-new-demand.md)
 ### [Выполнение полного планирования, MPS или MRP](production-how-to-run-mps-and-mrp.md)
 ### [Прямое перепланирование или обновление производственных заказов](production-how-to-replan-refresh-production-orders.md)
 ### [Отслеживание связей между спросом и предложением](production-how-track-demand-supply.md)
-### [Пошаговое руководство. Планирование поставок вручную](walkthrough-planning-supplies-manually.md)
-### [Пошаговое руководство. Автоматическое планирование поставок](walkthrough-planning-supplies-automatically.md)
+<!-- ### [Walkthrough: Planning Supplies Manually](walkthrough-planning-supplies-manually.md) -->
+<!-- ### [Walkthrough: Planning Supplies Automatically](walkthrough-planning-supplies-automatically.md) -->
 <!--## [Modify Planning Suggestions in a Graphical View](production-how-to-modify-planning-suggestions-in-a-graphical-view.md)-->
 
 ## Управление сборкой
 ### [Сборка товаров](assembly-assemble-items.md)
+### [Отчеты по сборке](assembly-reports.md)
 ### [Сборка на заказ и сборка на склад](assembly-assemble-to-order-or-assemble-to-stock.md)
 ### [Предложения продажи сборки на заказ](assembly-how-to-quote-an-assemble-to-order-sale.md)
 ### [Сборка товаров](assembly-how-to-assemble-items.md)
@@ -729,6 +738,7 @@
 
 ## Производство
 ### [Обзор производства](production-manage-manufacturing.md)
+### [Производственные отчеты](production-reports.md)
 ### [О производственных заказах](production-about-production-orders.md)
 ### [Создание производственных заказов](production-how-to-create-production-orders.md)
 ### [Субподрядное производство](production-how-to-subcontract-manufacturing.md)
@@ -743,6 +753,7 @@
 
 ## Управление складом
 ### [Управление складом](warehouse-manage-warehouse.md)
+### [Отчеты о запасах и складах](inventory-WMS-reports.md)
 ### [Приемка товаров](warehouse-how-receive-items.md)
 ### [Переброска товаров](warehouse-how-to-cross-dock-items.md)
 ### Размещение товаров
@@ -773,8 +784,8 @@
 ### [Отгрузка товаров](warehouse-how-ship-items.md)
 ### [Поиск складских назначений](warehouse-how-to-find-your-warehouse-assignments.md)
 ### [Использование автоматизированных систем сбора данных (ADCS)](warehouse-use-automated-data-capture-systems-adcs.md)
-### [Пошаговое руководство. Получение и складирование в базовых конфигурациях склада](walkthrough-picking-and-shipping-in-basic-warehousing.md)
-### [Пошаговое руководство. Получение и складирование в расширенных конфигурациях склада](walkthrough-receiving-and-putting-away-in-advanced-warehousing.md)
+<!-- ### [Walkthrough: Receiving and Putting Away in Basic Warehouse Configurations](walkthrough-receiving-and-putting-away-in-basic-warehousing.md) -->
+<!-- ### [Walkthrough: Receiving and Putting Away in Advanced Warehouse Configurations](walkthrough-receiving-and-putting-away-in-advanced-warehousing.md) -->
 
 ## Сервисный центр
 ### [Управление сервисом](service-service.md)
@@ -840,6 +851,7 @@
 ##### [Определение цены продажи в виде суммы себестоимости и наценки в процентах](LocalFunctionality/Australia/how-to-determine-sales-price-by-cost-plus-percentage.md)
 ##### [Австралийские деловые номера и примечания корректировки](LocalFunctionality/Australia/australian-business-numbers-and-adjustment-notes.md)
 ##### [Ввод австралийских деловых номеров](LocalFunctionality/Australia/how-to-enter-australian-business-numbers.md)
+##### [Отчетность о сроках платежей](LocalFunctionality/Australia/payment-times-reporting.md)
 
 ### Австрия
 #### [Локальная функциональность в австрийской версии](LocalFunctionality/Austria/austria-local-functionality.md)
@@ -1544,7 +1556,6 @@
 ##### [Ввод регламентных сведений](LocalFunctionality/UnitedKingdom/how-to-enter-statutory-information.md)
 ##### [Расширение "Почтовые индексы Великобритании GetAddress.io"](LocalFunctionality/UnitedKingdom/ui-extensions-getaddressio.md)
 ##### [Настройка расширения "Почтовые индексы Великобритании GetAddress.io"](LocalFunctionality/UnitedKingdom/uk-setup-postal-code-service.md)
-##### [Ввод номеров внешних документов](LocalFunctionality/UnitedKingdom/how-to-enter-external-document-numbers.md)
 
 ### Соединенные Штаты
 #### [Локальная функциональность в версии США](LocalFunctionality/UnitedStates/united-states-local-functionality.md)
@@ -1599,6 +1610,7 @@
 ### [Просмотр информации о таблицах](admin-view-table-information.md)
 ### [Создание среды "песочницы"](across-how-create-sandbox-environment.md)
 ### [Раннее включение новых функций](admin-feature-management.md)
+### [Адаптация пользователей с контрольными списками](admin-checklist.md)
 ## Настройка Business Central
 ### [Обзор настройки](ui-customizing-overview.md)
 ### [Настройка страниц для профилей](ui-personalization-manage.md)

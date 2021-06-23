@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2021
+ms.date: 06/08/2021
 ms.author: edupont
-ms.openlocfilehash: a108a460aa7045daac58d93b443adb0b3c1cf122
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 05e812ab11a831ac1c2d96d506489527f06142a2
+ms.sourcegitcommit: 0953171d39e1232a7c126142d68cac858234a20e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5775170"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "6215532"
 ---
 # <a name="design-details-balancing-demand-and-supply"></a>Сведения о проектировании: балансировка поставки и требований
 Чтобы понять, как работает система планирования, нужно понять приоритетные цели этой системы, наиболее важные из которых перечислены ниже.  

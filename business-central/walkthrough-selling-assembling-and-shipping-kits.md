@@ -10,16 +10,16 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: ab6625213bdca813bb2ace08b0b07c828ef99678
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 98fe9a8e3600156f158cdfc1ce37ad3349cafa1b
+ms.sourcegitcommit: 0953171d39e1232a7c126142d68cac858234a20e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5782863"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "6216309"
 ---
 # <a name="walkthrough-selling-assembling-and-shipping-kits"></a>Пошаговое руководство: продажа, сборка и отгрузка наборов
 
-[!INCLUDE[complete_sample_data](includes/complete_sample_data.md)]  
+<!-- [!INCLUDE[complete_sample_data](includes/complete_sample_data.md)]   -->
 
 Для обеспечения поддержки стратегии своевременного снабжения запасами и возможности настраивать продукцию согласно запросам клиента сборочные заказы могут быть автоматически созданы и связаны при создании строки заказа продажи. Связь между требованием продаж и поставкой сборки позволяет обработчикам заказов на продажу настраивать сборочный элемент и планировать даты доставки в соответствии с наличием компонентов. Кроме этого, потребление при сборке и выход автоматически учтены в с расходной накладной связанного заказа на продажу.  
 
@@ -107,7 +107,7 @@ ms.locfileid: "5782863"
 1.  Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка производства**, затем выберите соответствующую ссылку.  
 2.  На странице **Настройка модуля "Производство"** на экспресс-вкладке **Планирование** удалите значение в поле **Страховой запас времени подготовки по умолчанию**.  
 
-Создайте запасы для компонентов сборки, следуя указаниям раздела [Подготовка образца данных](walkthrough-selling-assembling-and-shipping-kits.md#prepare-sample-data).  
+<!-- Create inventory for assembly components by following [Prepare Sample Data](walkthrough-selling-assembling-and-shipping-kits.md#prepare-sample-data).   -->
 
 ## <a name="story"></a>Сюжет  
 23 января Светлана, обработчик заказов на продажу, получает от "Магазина устройств" заказ на 3 единицы комплекта B, который является товаром сборки на заказ. Все три блока специально настроены и должны содержать мощную графическую плату и дополнительный блок ОЗУ. Дисководы обновлены до DWD, так как CD-приводы отсутствуют. Светлана знает, что единицы можно собирать немедленно, поэтому она не изменяет предложенную дату отгрузки: 23-е января.  
@@ -443,7 +443,7 @@ ms.locfileid: "5782863"
  [Сведения о проектировании: учет заказа на сборку](design-details-assembly-order-posting.md)   
  [Сведения о проектировании: внутренние складские потоки](design-details-internal-warehouse-flows.md)   
  [Сведения о проектировании. Исходящий складской поток](design-details-outbound-warehouse-flow.md)   
- [Пошаговое руководство. Автоматическое планирование поставок](walkthrough-planning-supplies-automatically.md)
+<!--  [Walkthrough: Planning Supplies Automatically](walkthrough-planning-supplies-automatically.md) -->
 
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

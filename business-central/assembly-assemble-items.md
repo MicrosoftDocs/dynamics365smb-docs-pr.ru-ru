@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: kit, kitting
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 14505ea500375fac1cd52c125e28a13a4928523c
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 111f78578f298c662cc5a923a0b05c487f68b4c7
+ms.sourcegitcommit: 0953171d39e1232a7c126142d68cac858234a20e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5773058"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "6215607"
 ---
 # <a name="assembly-management"></a>Управление сборкой
 Для обеспечения поддержки компаний, которые поставляют продукты своим клиентам, объединяя компоненты в простые процессы без потребности в функциях производства, [!INCLUDE[prod_short](includes/prod_short.md)] содержит функции сборки товаров, интегрирующиеся с существующими функциями, например для организации продаж, планирования, резервирования и складской деятельности.  
@@ -54,8 +54,8 @@ ms.locfileid: "5773058"
 [Запасы](inventory-manage-inventory.md)  
 [Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
 [Сведения о проектировании: планирование поставок](design-details-supply-planning.md)  
-[Пошаговое руководство. Планирование поставок вручную](walkthrough-planning-supplies-manually.md)  
-[Пошаговое руководство: продажа, сборка и отгрузка наборов](walkthrough-selling-assembling-and-shipping-kits.md)  
+<!-- [Walkthrough: Planning Supplies Manually](walkthrough-planning-supplies-manually.md)   -->
+<!-- [Walkthrough: Selling, Assembling, and Shipping Kits](walkthrough-selling-assembling-and-shipping-kits.md)   -->
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
 
 ## [!INCLUDE[prod_short](includes/free_trial_md.md)]  

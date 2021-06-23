@@ -10,16 +10,16 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 4fc4bf753788156143e482a89699e53a10fb52b4
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 0e26df80ecfc0c7921e4f06b3094ae81ae7c29e4
+ms.sourcegitcommit: 0953171d39e1232a7c126142d68cac858234a20e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5772208"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "6216082"
 ---
 # <a name="walkthrough-calculating-work-in-process-for-a-job"></a>Пошаговое руководство. Вычисление незавершенного производства для задания
 
-[!INCLUDE[complete_sample_data](includes/complete_sample_data.md)]  
+<!-- [!INCLUDE[complete_sample_data](includes/complete_sample_data.md)]   -->
 
 С помощью работ можно планировать использование ресурсов организации и отслеживать различные затраты, связанные с использованием ресурсов в конкретном проекте. В приложении "Работы" учитывается использование человеко-часов, станко-часов, товаров в запасах и других типов потребления, которые необходимо отслеживать по мере выполнения работы. Если работа выполняется в течение длительного периода, возможно, эти затраты потребуется переносить на счет незавершенного производства в балансе по мере выполнения работы. Затем при необходимости можно признать затраты и продажи в счетах отчета о прибыли и убытках.  
 

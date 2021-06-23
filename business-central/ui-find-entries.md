@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: find
 ms.date: 04/01/2021
 ms.author: jswymer
-ms.openlocfilehash: 5f8ddd7176e69c9d1eb3b8d8ff98c93695d50993
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: a29cea15cba15da1bc68816e07f76de59f43958b
+ms.sourcegitcommit: 0953171d39e1232a7c126142d68cac858234a20e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5771165"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "6216132"
 ---
 # <a name="finding-related-entries-for-posted-documents"></a>Поиск связанных записей для учтенных документов 
 
@@ -67,7 +67,7 @@ ms.locfileid: "5771165"
 После того, как вы сделаете выбор, введите релевантную поисковую информацию в поля вверху. Используйте всплывающие подсказки на полях. Когда вы закончите, выберите **Найти**, чтобы начать поиск. Если изменить любые фильтры, следует снова выбрать **Найти**.
 
 > [!TIP]
-> Для пары примеров использования **Найти записи** см. [Трассировка товаров, трассируемых по товарам](inventory-how-to-trace-item-tracked-items.md) и [Пошаговое руководство. Трассировка серийных номеров и номеров партии](walkthrough-tracing-serial-lot-numbers.md).
+> Несколько примеров использования **Найти записи**, см. [Отслеживание отслеживаемых предметов](inventory-how-to-trace-item-tracked-items.md) <!--and [Walkthrough: Tracing Serial-Lot Numbers](walkthrough-tracing-serial-lot-numbers.md). -->
 
 ## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/user-interface-dynamics-365-business-central/index)
 
