@@ -1,6 +1,6 @@
 ---
 title: Создание среды "песочницы"
-description: Создайте среду для изучения, обучения, демонстрирования и тестирования в Business Central.
+description: Создайте среду песочницу "тест" для безопасного изучения, обучения, демонстрирования, устранения сбоев и тестирования в Business Central.
 author: SusanneWindfeldPedersen
 ms.service: dynamics365-business-central
 ms.topic: conceptual
@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: sandbox, demo, develop
 ms.date: 06/08/2021
 ms.author: solsen
-ms.openlocfilehash: a76ae33815b8e9368f45b72fd8703bfc47cbd079
-ms.sourcegitcommit: 0953171d39e1232a7c126142d68cac858234a20e
+ms.openlocfilehash: 2f4ca6a98aac49fa5fea7d8658ef51a9510c97d7
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "6215632"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6437681"
 ---
 # <a name="creating-a-sandbox-environment-in-prod_short"></a>Создание среды "песочницы" в [!INCLUDE[prod_short](includes/prod_short.md)]
 
@@ -30,8 +30,8 @@ ms.locfileid: "6215632"
 
 1. Выполните вход в производственный экземпляр [!INCLUDE[prod_short](includes/prod_short.md)].
 
-2. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Среда "песочницы"**, затем выберите соответствующую ссылку.
-    <!-- ![Sandbox Environment Setup](./media/across-sandbox/sandbox-environment-setup.png) -->
+2. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Среда-песочница**, а затем выберите связанную ссылку.
+    <!-- ![Sandbox Environment Setup.](./media/across-sandbox/sandbox-environment-setup.png) -->
 3. Нажмите кнопку **Создать**.  
 
     Откроется еще одна вкладка с [!INCLUDE[prod_short](includes/prod_short.md)], на которой вы можете завершить настройку среды песочницы.
@@ -40,12 +40,12 @@ ms.locfileid: "6215632"
     >  Если в браузере включена блокировка всплывающих окон, измените ее, чтобы разрешить URL-адреса с адреса *.businesscentral.dynamics.com.
 
 Когда среда песочницы будет готова, вы будете перенаправлены в приветственный мастер среды песочницы.
-<!-- ![Sandbox Welcome Wizard](./media/across-sandbox/sandbox-wizard.png) -->
+<!-- ![Sandbox Welcome Wizard.](./media/across-sandbox/sandbox-wizard.png) -->
 
 Нажмите кнопку **Подробнее**, чтобы прочитать о сценариях для разработчиков, которые вы можете попробовать в среде песочницы, или кнопку **Закрыть**, чтобы перейти к ролевому центру вашего экземпляр песочницы [!INCLUDE[prod_short](includes/prod_short.md)].
 
 В верхней части ролевого центра появится уведомление о том, что это среда песочницы. Тип среды также отображается в строке заголовка клиента.
-    <!-- ![Sandbox RoleCenter Notification](./media/across-sandbox/sandbox-rolecenter-notification.png) -->
+    <!-- ![Sandbox RoleCenter Notification.](./media/across-sandbox/sandbox-rolecenter-notification.png) -->
 
 > [!NOTE]
 > Созданная таким образом среда песочницы содержит только демонстрационные данные по умолчанию для компании CRONUS. Никакие данные не копируются и не переносятся каким-либо другим образом из производственной среды.
@@ -53,11 +53,11 @@ ms.locfileid: "6215632"
 > В качестве альтернативы можно создать среду песочницы на основе производственных данных. Вы должны сделать это через центр администрирования. Дополнительные сведения см. в разделе [Управление средами](/dynamics365/business-central/dev-itpro/administration/tenant-admin-center-environments) в документации для разработчиков и администраторов.  
 
 <!--To switch between your production and sandbox environments, you can use the Business Central app launcher.
-    ![Sandbox Dynamics365 Menu](./media/across-sandbox/sandbox-dynamics365-menu.png) -->
+    ![Sandbox Dynamics365 Menu.](./media/across-sandbox/sandbox-dynamics365-menu.png) -->
 
 Администратор может ограничить или даже блокировать доступ некоторых пользователей к среде "песочницы". Это можно сделать с помощью стандартных функций безопасности для продукта, таких как карта пользователя, группы пользователей и наборы разрешений. Дополнительные сведения см. в разделе [Назначение разрешений пользователям и группам](ui-define-granular-permissions.md).  
 
-<!-- ![Sandbox Permission Sets](./media/across-sandbox/sandbox-permission-sets.png) -->
+<!-- ![Sandbox Permission Sets.](./media/across-sandbox/sandbox-permission-sets.png) -->
 
 ## <a name="advanced-functionality-in-the-sandbox-environment"></a>Расширенная функциональная возможность в среде песочницы
 
@@ -69,9 +69,9 @@ ms.locfileid: "6215632"
 
 ### <a name="advanced-user-experience"></a>Повышенное удобство работы пользователей
 
-Можно включить и попробовать полные функциональные возможности стандартной версии [!INCLUDE[prod_short](includes/prod_short.md)] в среде арендатора песочницы, задав поле **Опыт** на странице **Информация о компании** на *Premium*. Найдите страницу **Информация о компании** в меню :::image type="content" source="media/ui-experience/settings_icon_small.png" alt-text="Значок настроек":::.  
+Можно включить и попробовать полные функциональные возможности стандартной версии [!INCLUDE[prod_short](includes/prod_short.md)] в среде арендатора песочницы, задав поле **Опыт** на странице **Информация о компании** на *Premium*. Найдите страницу **Информация о компании** в :::image type="content" source="media/ui-experience/settings_icon_small.png" alt-text="Значок настроек."::: меню.  
 
-После того как вы включили вариант настройки *Premium*, вы получаете доступ ко всем стандартным профилям (ролям) и ролевым центрам стандартной версии. Можно также создать полностью настроенную пробную организацию, включая демонстрационные данные и доступ к расширенным возможностям продукта. Кроме того, вы можете связаться с партнером по перепродаже для демонстрации возможностей. Для получения дополнительной информации см. раздел [Как найти партнера по перепродаже?](/dynamics365/business-central/across-faq.yml#findpartner).  
+После того как вы включили вариант настройки *Premium*, вы получаете доступ ко всем стандартным профилям (ролям) и ролевым центрам стандартной версии. Можно также создать полностью настроенную пробную организацию, включая демонстрационные данные и доступ к расширенным возможностям продукта. Кроме того, вы можете связаться с партнером по перепродаже для демонстрации возможностей. Для получения дополнительной информации прочитайте раздел [Как найти партнера по перепродаже?](across-faq.yml#how-do-i-find-a-reselling-partner).  
 
 ### <a name="complete-sample-data"></a>Полные демонстрационные данные
 
@@ -80,7 +80,7 @@ ms.locfileid: "6215632"
 
 #### <a name="to-create-a-company-with-complete-sample-data-in-a-sandbox"></a>Создать компанию с полными демонстрационными данными в песочнице
 
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Организации**, затем выберите соответствующую ссылку.  
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Компании**, а затем выберите связанную ссылку.  
 2. Выберите действие **Создать**, а затем выберите **Создать новую компанию**.  
 3. На странице **Мастер настройки по созданию компании** выберите страницу **Далее**.  
 4. Укажите имя для новой компании, а затем в поле **Выбор данных и выполнение настройки для начала работы**, выберите **Расширенный ознакомительный выпуск — полные демонстрационные данные**.  
@@ -90,11 +90,11 @@ ms.locfileid: "6215632"
 
 ### <a name="designer"></a>Конструктор
 
-В среде "песочницы" включен **Конструктор**. Вы можете активировать конструктор, выбрав значок конструктора ![Конструктор](./media/across-sandbox/sandbox-inclient-design-icon.png) на странице или выбрав дизайн пункт меню **Конструктор** в меню настроек ![Настройки](media/ui-experience/settings_icon_small.png).  
+В среде "песочницы" включен **Конструктор**. Вы можете активировать конструктора, выбрав значок дизайна ![Конструктор.](./media/across-sandbox/sandbox-inclient-design-icon.png) на странице или выбрав пункт меню **Дизайн** в ![Параметры](media/ui-experience/settings_icon_small.png) Меню параметров.  
 
 Для получения дополнительной информации см. [Использование конструктора](/dynamics365/business-central/dev-itpro/developer/devenv-inclient-designer) в документации разработчика и администратора (только на английском языке).  
 
-<!-- ![In-client Designer](./media/across-sandbox/sandbox-inclient-designer.png) -->
+<!-- ![In-client Designer.](./media/across-sandbox/sandbox-inclient-designer.png) -->
 
 ## <a name="see-also"></a>См. также
 

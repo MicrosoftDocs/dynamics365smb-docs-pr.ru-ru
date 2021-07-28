@@ -1,6 +1,6 @@
 ---
-title: Редактирование учтенных документов о продажах и покупке | Документация Майкрософт
-description: Узнайте о различных функциях учета для учета документов о покупке, а также о том, как можно обновлять учтенные документы.
+title: Редактирование учтенных документов о продажах и покупке
+description: В этой теме объясняется, как обновить информацию в опубликованном документе, таком как расходная накладная продажи или счет-фактура покупки, когда соответствующая информация изменилась.
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: conceptual
@@ -8,14 +8,15 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.reviewer: edupont
-ms.date: 04/01/2021
+ms.search.keywords: Posted document, editable, posted sales shipment, posted purchase invoice, posted return shipment, posted return receipt, Business Central, business document
+ms.date: 06/10/2021
 ms.author: edupont
-ms.openlocfilehash: ef23d98aaeeb63c17e836fd25b547703787264da
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 6a2be703bfc58fbac85dd4776e5256b614eb46cc
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5776201"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6437806"
 ---
 # <a name="edit-posted-documents"></a>Изменение учтенных документов
 
@@ -41,7 +42,7 @@ ms.locfileid: "5776201"
 
 Далее поясняется, как редактировать учтенную расходную накладную продажи. Шаги аналогичны для других поддерживаемых документов.
 
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Учтенные расходные накладные продажи**, затем выберите соответствующую ссылку.
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Учтенные расходные накладные**, а затем выберите связанную ссылку.
 2. Выберите документ, который требуется изменить, затем выберите действие **Обновить документ**. Либо откройте документ, затем выберите действие.
 3. На странице **Учт. расх. накладная продажи - обновление** измените поле **Номер трасс. посылки**, например.
 4. Нажмите кнопку **ОК**.

@@ -8,12 +8,12 @@ ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 8e96414ee6d1680b06c33ae4ab7f72e064464f3c
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 4869ea2f12e964c053a912180709d92d8740e816
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5774227"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6437193"
 ---
 # <a name="set-up-norm-jurisdictions"></a>Настройка юрисдикций нормы
 
@@ -21,7 +21,7 @@ ms.locfileid: "5774227"
 
 ## <a name="to-set-up-norm-jurisdictions"></a>Настройка юрисдикций нормы
 
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Юрисдикции нормы**, затем выберите соответствующую ссылку.
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../../media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Юрисдикции нормы**, а затем выберите связанную ссылку.
 
 2. Введите **Код** и **Описание** юрисдикции нормы, которую необходимо настроить.
 

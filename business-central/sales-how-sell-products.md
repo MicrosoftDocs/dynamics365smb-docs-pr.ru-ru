@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: trade
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 19b32e8faa6b9e56505379d1f06fd5ad79466614
-ms.sourcegitcommit: f9a190933eadf4608f591e2f1b04c69f1e5c0dc7
+ms.openlocfilehash: 67d7ad0d10ddc5c6065df482c7ceb4b98058d504
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/28/2021
-ms.locfileid: "6115519"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6436730"
 ---
 # <a name="sell-products"></a>Продажа продуктов
 
@@ -44,7 +44,7 @@ ms.locfileid: "6115519"
 
 ## <a name="to-create-a-sales-order"></a>Создание заказа на продажу
 
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Заказы на продажу**, затем выберите соответствующую ссылку.
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Заказы на продажу**, а затем выберите связанную ссылку.
 2. В поле **Клиент** введите название существующего клиента.
 
     Остальные поля на странице **Заказ на продажу** заполнятся стандартными сведениями о выбранном клиенте.  

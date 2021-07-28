@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: undo, credit memo, return
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: b2e2e64cd3845f20e9c3e0fea5c114ebcd08491d
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: fc930c319a1d1c6ae7ff0615bb6bf20cf125cf64
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5780236"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6436102"
 ---
 # <a name="correct-or-cancel-unpaid-purchase-invoices"></a>Исправление или отмена неоплаченных счетов покупки
 
@@ -28,7 +28,7 @@ ms.locfileid: "5780236"
 > [!Video https://www.microsoft.com/videoplayer/embed/RE4dhoc?rel=0]
 
 ## <a name="to-correct-a-posted-purchase-invoice"></a>Коррекция учтенного счета покупки
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Учтенные счета покупки**, затем выберите соответствующую ссылку.  
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Учтенные счета покупки**, а затем выберите связанную ссылку.  
 2. Выберите учтенный счет покупки, который требуется откорректировать.  
 
     > [!NOTE]  
@@ -41,7 +41,7 @@ ms.locfileid: "5780236"
 4. Выберите **Показать корректирующую кредит-ноту**, чтобы просмотреть учтенную кредит-ноту покупки, которая аннулирует исходный учтенный счет покупки.
 
 ## <a name="to-cancel-a-posted-purchase-invoice"></a>Отмена учтенного счета покупки
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Учтенные счета покупки**, затем выберите соответствующую ссылку.  
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Учтенные счета покупки**, а затем выберите связанную ссылку.  
 2. Выберите учтенный счет покупки, который требуется отменить.
 
     > [!NOTE]  

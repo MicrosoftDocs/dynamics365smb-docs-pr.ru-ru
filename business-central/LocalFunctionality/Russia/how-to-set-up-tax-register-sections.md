@@ -8,12 +8,12 @@ ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: aaf75c2fcd428e35bc0b40cc770cc8bfe86a5933
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 34e5d34dd5e8f8467adff10e5c717e909b80e970
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5786667"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6437189"
 ---
 # <a name="set-up-tax-register-sections"></a>Настройка секций налогового регистра
 
@@ -23,7 +23,7 @@ ms.locfileid: "5786667"
 
 ## <a name="to-set-up-a-tax-register"></a>Настройка налогового регистра
 
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Налоговые регистры**, затем выберите соответствующую ссылку.
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../../media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Налоговые регистры**, а затем выберите связанную ссылку.
 
 2. В окне **Секции налоговые регистров** выберите действие **Создать**.
 

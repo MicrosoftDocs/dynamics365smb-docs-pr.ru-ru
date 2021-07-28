@@ -11,12 +11,12 @@ ms.search.keywords: account schedule, analysis, reporting, financial report, bus
 ms.reviewer: edupont
 ms.date: 04/01/2021
 ms.author: jswymer
-ms.openlocfilehash: a1d0d0403798f8cd2af6b29249f01f529fb789be
-ms.sourcegitcommit: c11ad91a389ed72532f5513654fdc7909b20aed9
+ms.openlocfilehash: b1328b618761a33d3dc0856c7623bd986008d283
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "5935240"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6437445"
 ---
 # <a name="power-bi-integration-component-and-architecture-overview-for-prod_short"></a>Обзор компонентов и архитектуры интеграции Power BI для [!INCLUDE[prod_short](includes/prod_short.md)]
 
@@ -42,19 +42,19 @@ ms.locfileid: "5935240"
 |Встроенный интерфейс для просмотра заданного отчета внутри информационной панели в [!INCLUDE[prod_short](includes/prod_short.md)]|Оба. Требуется конфигурация для отображения отчетов в локальной среде.|
 |Управление отчетами Power BI из [!INCLUDE[prod_short](includes/prod_short.md)]|Online|
 |Отчеты Power BI по умолчанию в ролевых центрах, развернутых в Power BI|Online|
-|Приложения Power BI в Microsoft AppSource|Online.|
+|Приложения Power BI в Microsoft AppSource|Online|
 
 ## <a name="architecture"></a>Архитектура
 
-[!INCLUDE[prod_short](includes/prod_short.md)] интегрируется с Power BI через соединитель с использованием OData. Источник данных для отчетов Power BI представляется как веб-служба OData.
+[!INCLUDE[prod_short](includes/prod_short.md)] интегрируется с Power BI через соединитель с использованием OData. Источник данных для отчетов Power BI представляется как страницы API или веб-службы OData.
 
-![Архитектура Power BI для интеграции с Business Central](./media/power-bi-architecture.png)
+![Архитектура Power BI для интеграции с Business Central.](./media/power-bi-architecture.png)
 
 ## <a name="general-flow"></a>Общий поток
 
 На следующей диаграмме показан основной рабочий процесс для пользователей при подключении [!INCLUDE[prod_short](includes/prod_short.md)] к Power BI.
 
-![Рабочий поток Power BI для интеграции с Business Central](./media/power-bi-flow.png)
+![Рабочий поток Power BI для интеграции с Business Central.](./media/power-bi-flow.png)
 
 1. Пользователь регистрируется на учетную запись Power BI.
 2. Пользователь подключается к Power BI из [!INCLUDE[prod_short](includes/prod_short.md)].

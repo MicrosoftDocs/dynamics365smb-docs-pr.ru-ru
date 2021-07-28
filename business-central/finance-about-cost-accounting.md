@@ -1,6 +1,6 @@
 ---
-title: Об учете затрат | Документация Майкрософт
-description: Учета затрат поможет оценить затраты на ведение бизнеса.
+title: Об учете затрат
+description: Учета затрат поможет оценить затраты на ведение бизнеса. Информация об учете затрат предназначена для анализа различных проблем.
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: conceptual
@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2021
+ms.date: 06/16/2021
 ms.author: edupont
-ms.openlocfilehash: 7ba956c883c567e7acc2cd625d8d5e51d94ee753
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 461bdff64d785291923fe5f954887eb052805124
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5784919"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6436277"
 ---
 # <a name="about-cost-accounting"></a>Об учете затрат
 Учета затрат поможет оценить затраты на ведение бизнеса. Информация об учете затрат предназначена для анализа следующего:  
@@ -37,7 +37,7 @@ ms.locfileid: "5784919"
 
 На следующей диаграмме показан рабочий процесс учета затрат.  
 
-![Обзор учета затрат](media/costaccountingoverview.png "CostAccountingOverview")  
+![Обзор учета затрат.](media/costaccountingoverview.png "CostAccountingOverview")  
 
 ## <a name="cost-types-cost-centers-and-cost-objects"></a>Типы затрат, места возникновения затрат и объекты затрат  
 Можно определить типы затрат, места возникновения затрат и объекты затрат для анализа сущности затрат, откуда поступают затраты и на чей счет они должны быть отнесены.  

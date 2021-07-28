@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: incoterms
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 8390c95083eb02c208e97f0309a725e8ec4d7730
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 9ee6cdceb716331e2d8338e178def4b8b1e5cfe8
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5778576"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6436705"
 ---
 # <a name="set-up-shipment-methods"></a>Настройка методов отгрузки
 
@@ -25,7 +25,7 @@ ms.locfileid: "5778576"
 
 ## <a name="to-set-up-a-shipment-method"></a>Настройка метода отгрузки
 
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Методы отгрузки**, затем выберите соответствующую ссылку.
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Методы отгрузки**, а затем выберите связанную ссылку.
 2. На странице **Методы отгрузки** выберите действие **Создать**.
 3. В новой строке определите код и описание для метода отгрузки.
 

@@ -8,12 +8,12 @@ ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 8b3328d0cafdd57c0ba454e47b022607e606a645
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 6d35606143a4f27574a003c09f47e3c52669e29e
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5786669"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6437191"
 ---
 # <a name="set-up-tax-accounting"></a>Настройка налогового учета
 
@@ -21,7 +21,7 @@ ms.locfileid: "5786669"
 
 ## <a name="to-activate-tax-accounting"></a>Активация налогового учета
 
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка налоговых регистров**, затем выберите соответствующую ссылку.
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../../media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Настройка налоговых регистров**, а затем выберите связанную ссылку.
 
 2. На экспресс-вкладке **Общее** выберите коды для следующих измерений.
 

@@ -7,12 +7,12 @@ ms.topic: conceptual
 ms.search.keywords: accountant, accounting, company hub
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 6b4ed57dbc6202e44487ca13363b0b34d915d01b
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 4954287f93ed012709a51f6fbb19d00494c63d54
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5786541"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6436980"
 ---
 # <a name="add-companies-to-your-company-hub"></a>Добавьте компании в свой раздел организации
 
@@ -29,7 +29,7 @@ ms.locfileid: "5786541"
 
 Ссылка используется при выборе компании в разделе организации.  
 
-:::image type="content" source="media/company-hub-company-list-actions.png" alt-text="Действия для компании, которая указана в разделе организации":::
+:::image type="content" source="media/company-hub-company-list-actions.png" alt-text="Действия для компании, которая указана в разделе организации.":::
 
 > [!TIP]
 > Если вы работаете в бесплатной пробной версии [!INCLUDE [prod_short](includes/prod_short.md)], легко добавить компании в ваш клиент. Ссылку на среду можно найти, скопировав код Azure Active Directory из раздела **Исправление проблем** на странице справки и поддержки. Имя среды, вероятно, является значением по умолчанию, PRODUCTION. Добавьте эту информацию в поле **Ссылка на среду**, например ```https://businesscentral.dynamics.com/1a23b456-789c-0123-45de-678910fg12h/production?redirectedfromsignup=1```, а затем выберите **Проверить подключение**. Оценочная компания будет добавлена в список.

@@ -8,12 +8,12 @@ ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: bef0d9a07793bc73a191c4832423777362dfaf10
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 5ad577a2a3c466c8ec1f2ad5a24cd7a77c50a1ed
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5786663"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6437187"
 ---
 # <a name="inventory-act-of-receivables-and-payables-inv-17"></a>Акт инвентаризации расчетов с клиентами и поставщиками ИНВ-17
 
@@ -26,7 +26,7 @@ ms.locfileid: "5786663"
 
 Ниже приводится процедура настройки серии номеров для актов инвентаризации. 
 
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка ГК**, затем выберите соответствующую ссылку.
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../../media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Настройка ГК**, а затем выберите связанную ссылку.
 2. В окне **Настройка ГК** заполните поле **Серия ном. актов инв. расч. с контрагентами**.
 
 ## <a name="inventory-act-processing"></a>Обработка актов инвентаризации

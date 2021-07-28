@@ -1,6 +1,6 @@
 ---
-title: Настройка службы обмена документами | Документация Майкрософт
-description: Внешний поставщик службы используется для обмена электронными документами с деловыми партнерами.
+title: Как настраивать службы обмена документами
+description: Внешний поставщик службы используется для обмена электронными документами с деловыми партнерами с помощью "Настройка сервиса обмена документами".
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: conceptual
@@ -8,20 +8,20 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2021
+ms.date: 06/11/2021
 ms.author: edupont
-ms.openlocfilehash: a89cf3988e7576070a58a798e0f88693e598ef92
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 357c48c6b7ed8e2d44316805bba04ff9236f0e9b
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5787286"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6436302"
 ---
 # <a name="set-up-a-document-exchange-service"></a>Настройка службы обмена документами
 Внешний поставщик службы используется для обмена электронными документами с деловыми партнерами. Дополнительные сведения см. в разделе [Электронный обмен данными](across-data-exchange.md).  
 
 ## <a name="to-set-up-a-document-exchange-service"></a>Настройка служб обмена документами  
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка сервиса обмена документами**, затем выберите соответствующую ссылку.  
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Настройка сервиса обмена документами**, а затем выберите связанную ссылку.  
 2. Заполните поля, как описано в следующей таблице.  
 
     |Поле|Описание|  

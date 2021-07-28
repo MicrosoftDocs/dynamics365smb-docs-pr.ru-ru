@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 05/28/2021
 ms.author: edupont
-ms.openlocfilehash: abb6a3a910f8ac628587a58637b96d69bca4266f
-ms.sourcegitcommit: f9a190933eadf4608f591e2f1b04c69f1e5c0dc7
+ms.openlocfilehash: 2841473825ebc0fee7c9357e14e7520b94fd3793
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/28/2021
-ms.locfileid: "6115995"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6437781"
 ---
 # <a name="enter-external-document-numbers"></a>Ввод номеров внешних документов
 
@@ -28,7 +28,7 @@ ms.locfileid: "6115995"
 
 ## <a name="to-enter-external-document-numbers-in-a-sales-order"></a>Ввод номеров внешних документов в заказ на продажу  
 
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Заказы на продажу**, затем выберите соответствующую ссылку.  
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Заказы на продажу**, а затем выберите связанную ссылку.  
 2. Выберите соответствующий заказ на продажу, затем выберите действие **Изменить**.  
 3. В поле **Номер внешнего документа** экспресс-вкладки **Общее** введите номер счета.  
 

@@ -1,6 +1,6 @@
 ---
-title: Настройка кодов для стандартных сервисов | Документация Майкрософт
-description: Узнайте, как настроить коды для часто выполняемых сервисных работ.
+title: Настройка кодов для стандартных сервисов
+description: Узнайте, как настроить коды для регулярно выполняемых операций сервиса с заранее определенным набором строк сервиса.
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: conceptual
@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: service, service item, service order, repairs, maintenance
-ms.date: 04/01/2021
+ms.date: 06/23/2021
 ms.author: edupont
-ms.openlocfilehash: 494a3dd93906a8a9d663455f7410d27c9fc34eb9
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: c5f5e6dbe647fc8957c42a78163f6871d7a7b382
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5778226"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6436605"
 ---
 # <a name="set-up-standard-service-codes"></a>Настройка стандартных сервисных кодов
 
@@ -26,13 +26,13 @@ ms.locfileid: "5778226"
   
 ## <a name="to-set-up-a-standard-service-code"></a>Настройка стандартного сервисного кода
 
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Стандартные сервисные коды**, затем выберите соответствующую ссылку.  
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Стандартные сервисные коды**, а затем выберите связанную ссылку.  
 2. Заполните соответствующим образом поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
 3. Заполните строки сервиса, связанные с данным сервисным кодом.  
 
 ## <a name="to-assign-a-standard-service-code-to-a-service-item-group"></a>Присвоение стандартного сервисного кода группе сервисных товаров
 
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Группы сервисных товаров**, затем выберите соответствующую ссылку.  
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Группы сервисных товаров**, а затем выберите связанную ссылку.  
 2. Заполните соответствующим образом поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 3. Заполните строки сервиса, связанные с данным сервисным кодом.  
 
