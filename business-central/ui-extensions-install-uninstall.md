@@ -11,12 +11,12 @@ ms.workload: na
 ms.search.keywords: app, add-in, manifest, customize, install, uninstall
 ms.date: 06/03/2021
 ms.author: solsen
-ms.openlocfilehash: 564b9574188acd63acaa660f4a440be791846ef7
-ms.sourcegitcommit: 0953171d39e1232a7c126142d68cac858234a20e
+ms.openlocfilehash: 09d1998bcd8cdf522b1533fe4768a0bbf0aca776
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "6216209"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6435040"
 ---
 # <a name="installing-and-uninstalling-extensions-in-business-central"></a>Установка и удаление расширений в Business Central
 
@@ -32,7 +32,7 @@ ms.locfileid: "6216209"
 
 ## <a name="installing-an-extension"></a>Установка расширения
 
-Управление расширениями осуществляется на странице **Управление расширениями**. Эта страница доступна с начальной страницы. Также можно выбрать значок **Поиск страницы или отчета** ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать") в правом верхнем углу, ввести **Расширение**, а затем выбрать соответствующую ссылку.  
+Управление расширениями осуществляется на странице **Управление расширениями**. Эта страница доступна с начальной страницы. Или же выберите значок **Поиск страницы или отчета** ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") в правом верхнем углу введите **Расширение**, а затем выберите связанную ссылку.  
 
 Новые расширения можно получить из магазина по адресу [AppSource.microsoft.com](https://go.microsoft.com/fwlink/?linkid=2081646). Здесь отображаются все доступные расширения для [!INCLUDE[prod_short](includes/prod_short.md)], и можно получить приложения, расширения и пакеты содержимого для других продуктов Майкрософт. Установите соответствующие фильтры, просмотрите информацию для каждого расширения и получите расширение для [!INCLUDE[prod_short](includes/prod_short.md)].  
 

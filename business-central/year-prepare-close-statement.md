@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: year closing, close accounting period, close fiscal year, aging, creditor payments, vendor payments, assets, liabilities, equity, analysis, reporting, financial report, business intelligence, BI, Power Bi, KPI
 ms.date: 04/01/2021
 ms.author: jswymer
-ms.openlocfilehash: f58ee0ab43e8d43ae2d08e67cec52a9dd63ac202
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: dadfa25189aa44c032dd03aee053be39d87bc4d2
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5776645"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6435913"
 ---
 # <a name="preparing-closing-statements"></a>Подготовка отчетов о закрытии
 Существует несколько стандартных отчетов, которые можно использовать для сбора сведений, необходимых организации для подготовки отчетов о закрытии периодов.
@@ -32,7 +32,7 @@ ms.locfileid: "5776645"
 | Печать финансового отчета для анализа цифр на счетах главной книги или сравнения фактических операций главной книги с операциями бюджета главной книги. |**Финансовый отчет** |
 | Проверка согласованности операций книг клиентов и поставщиков с соответствующими операциями главной книги. |**Выверка счетов клиента и поставщика** |
 
-Для просмотра отчета выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите имя в том виде, в котором оно отображается в таблице, затем выберите соответствующую ссылку.
+Для просмотра отчета выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") и введите имя, которое отображается в таблице, а затем выберите связанную ссылку.
 
 ## <a name="see-also"></a>См. также
 [Закрытие года и периодов](year-close-years-periods.md)  

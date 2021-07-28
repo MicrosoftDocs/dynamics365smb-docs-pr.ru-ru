@@ -1,6 +1,6 @@
 ---
 title: Сертификации службы
-description: Это содержимое содержит сведения о сертификациях в связи с Business Central.
+description: Эта тема содержит информацию о сертификации, относящейся к Business Central, например о сертификации и аккредитации для конкретного региона.
 author: sorenfriisalexandersen
 ms.service: dynamics365-business-central
 ms.topic: conceptual
@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2021
+ms.date: 06/14/2021
 ms.author: soalex
-ms.openlocfilehash: 69a8012631c38e949d2aa0ccd6ba3f3d51f69b50
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: c34c3843751fda22365479060fc979b2f14ea8f1
+ms.sourcegitcommit: 8566399d5181f1c171c7536fff9c890a34e94ba4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5788437"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "6373191"
 ---
 # <a name="certifications"></a>Сертификаты
 
@@ -28,7 +28,7 @@ ms.locfileid: "5788437"
 > [!NOTE]
 > Такое требование действует только в некоторых странах.
 
-- Франция (сертификация налогового аудита) [(ссылка на сертификацию на французском языке)](https://certificates.infocert.org/#)<!--(https://certificates.infocert.org/certificates/CERTIF-07-181-R16.pdf)-->  
+- Франция (Сертификация налогового аудита) [(поиск по названию продукта в https://certificates.infocert.org/#)](https://certificates.infocert.org/#)  
 - Германия (также покрывает Австрию и Швейцарию) [(ссылка на сертификацию на немецком языке)](https://www.bdo.de/de-de/themen/softwarebescheinungen/bdo/microsoft-dynamics-365-business-central)  
 
 > [!NOTE]  

@@ -1,5 +1,5 @@
 ---
-title: Расширение для миграции данных QuickBooks | Документация Майкрософт
+title: Расширение для миграции данных QuickBooks
 description: Описывает, как использовать расширение для импорта клиентов, поставщиков, товаров и счетов из QuickBooks Desktop в Business Central.
 author: edupont04
 ms.service: dynamics365-business-central
@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms. search.keywords: app, add-in, manifest, customize, import, implement
-ms.date: 04/01/2021
+ms.date: 06/24/2021
 ms.author: edupont
-ms.openlocfilehash: d6b44ccfc11438930450dd86cab53736f00995c5
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: a7f6a3ac5fdbaf34cf4280be3b8520dde55c7c71
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5785039"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6434965"
 ---
 # <a name="the-quickbooks-data-migration-extension"></a>Расширение для миграции данных QuickBooks
 
@@ -57,7 +57,7 @@ Business Central требует, чтобы счетам главной книг
 
 ## <a name="finding-the-quickbooks-data-migration-extension"></a>Поиск расширения для миграции данных QuickBooks
 
-Расширение миграции данных QuickBooks установлено и готово к работе как составная часть мастер настройки миграции данных. Если вы готовы начать прямо сейчас и уже экспортировали свои данные из QuickBooks, выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Мастер настройки**, затем выберите соответствующую ссылку. Выберите **Миграция бизнес-данных**, затем выполните шаги в руководстве.  
+Расширение миграции данных QuickBooks установлено и готово к работе как составная часть мастер настройки миграции данных. Если вы готовы начать прямо сейчас и экспортировали свои данные из QuickBooks, выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Мастер настройки**, а затем выберите связанную ссылку. Выберите **Миграция бизнес-данных**, затем выполните шаги в руководстве.  
 
 ## <a name="what-do-i-do-after-i-migrate-data"></a>Что нужно сделать после переноса данных?
 

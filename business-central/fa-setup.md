@@ -11,12 +11,12 @@ ms.workload: na
 ms.search.keywords: machinery, buildings
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: a35bd9a83ec05a25bc087722fb2009ca27bbfa2f
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 54ade14f58d9be5957c77a768096b5f475db5798
+ms.sourcegitcommit: a8a01561f46c0a60f8bfd7985be0dcd3e28441fa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5770420"
+ms.lasthandoff: 07/06/2021
+ms.locfileid: "6343553"
 ---
 # <a name="setting-up-fixed-assets"></a>Настройка основных средств
 До начала работы с основными средствами необходимо определить несколько вещей.  
@@ -40,6 +40,8 @@ ms.locfileid: "5770420"
 | Включите страхование основных средств, настройте общие сведения о страховании, страховую карточку для каждого полиса, а также подготовьте журналы для учета затрат на страхование. |[Настройка страхования основного средства](fa-how-setup-insurance.md) |
 | Включите обслуживание основных средств, настройте общие сведения об обслуживании, настройте счета учета обслуживания и определите типы работ по техническому обслуживанию. |[Настройка обслуживания основного средства](fa-how-setup-maintenance.md) |
 | Изучите различные методы расчета амортизации основных средств. |[Методы амортизации](fa-depreciation-methods.md) |
+| Узнайте о том, как применять определенные пользователем методы амортизации. |[Настройка пользовательских методов амортизации](fa-how-setup-user-defined-depreciation-method.md) |
+
 
 ## <a name="see-also"></a>См. также
 [Основные Средства](fa-manage.md)  

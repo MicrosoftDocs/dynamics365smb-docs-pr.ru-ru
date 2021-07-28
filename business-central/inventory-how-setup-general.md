@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: warehouse, stock
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 1430123f433cfc101e0ae94ce0598d9c0cdd58b2
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: a99de8575891e15712e221f28bbf3f4a46f2f771
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5785827"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6435626"
 ---
 # <a name="set-up-general-inventory-information"></a>Настройка общей информации по запасам
 
@@ -23,7 +23,7 @@ ms.locfileid: "5785827"
 
 ## <a name="to-set-up-general-inventory-information"></a>Настройка общей информации по запасам
 
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка модуля "Запасы"**, затем выберите соответствующую ссылку.
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Настройка запасов**, а затем выберите связанную ссылку.
 2. На странице **Настройка запасов** заполните требуемые поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 
 Для получения подробной информации о полях себестоимости, **Автомат. учет себест.**, **Учет ожидаемой себест.** и **Метод учета себестоимости по умолчанию** см. разделы [Выверка себестоимости товаров с главной книгой](finance-how-to-post-inventory-costs-to-the-general-ledger.md), [Сведения о проектировании: себестоимость запасов](design-details-inventory-costing.md) и [Сведения о проектировании: учет ожидаемой себестоимости](design-details-expected-cost-posting.md). Для получения дополнительной информации об учете себестоимости в целом см. [Управление себестоимостью товаров](finance-manage-inventory-costs.md).  

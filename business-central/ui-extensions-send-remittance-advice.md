@@ -7,15 +7,15 @@ ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms. search.keywords: app, add-in, manifest, customize, stream, remittance, advice
-ms.date: 04/01/2021
+ms.search.keywords: app, add-in, manifest, customize, stream, remittance, advice
+ms.date: 07/06/2021
 ms.author: edupont
-ms.openlocfilehash: 7560131ec60d9cf494bdd87884f169e00ec89382
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: a5b1245a47975f2db9465c5dc101ee13eea74248
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5784719"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6434863"
 ---
 # <a name="send-remittance-advice"></a>Отправить авизо
 
@@ -35,6 +35,13 @@ ms.locfileid: "5784719"
 [Настройка [!INCLUDE[prod_short](includes/prod_short.md)] с помощью расширений](ui-extensions.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 [Отправка документов по электронной почте](ui-how-send-documents-email.md)  
-
+[Электронный платеж (EFT) в австралийской версии](localfunctionality/australia/electronic-funds-transfer-eft-.md)  
+[Совершение электронных платежей (CA)](finance-make-payments-with-bank-data-conversion-service-or-sepa-credit-transfer.md#exporting-payments-to-a-bank-file)  
+[Электронный платеж (EFT) в новозеландской версии](localfunctionality/newzealand/electronic-funds-transfer-eft-.md)  
+[Локальная функциональность Новой Зеландии](localfunctionality/newzealand/new-zealand-local-functionality.md)  
+[Локальные функции Соединенного Королевства в британской версии](localfunctionality/unitedkingdom/united-kingdom-local-functionality.md)  
+[Печать авизо в британской версии](localfunctionality/unitedkingdom/how-to-print-remittance-advice.md)  
+[Совершение электронных платежей (США)](finance-make-payments-with-bank-data-conversion-service-or-sepa-credit-transfer.md#exporting-payments-to-a-bank-file)  
+  
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

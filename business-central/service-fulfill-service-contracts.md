@@ -1,6 +1,6 @@
 ---
-title: Обзор задач для выполнения контрактов на обслуживание | Документация Майкрософт
-description: Рассматриваются задачи управления сервисными контрактами с клиентами.
+title: Обзор задач для выполнения сервисных контрактов
+description: Обрисовывает в общих чертах задачи, связанные с выполнением контрактов на обслуживание с вашими клиентами, такие как создание стандартных договорных соглашений с настраиваемыми шаблонами и многое другое.
 services: project-madeira
 documentationcenter: ''
 author: bholtorf
@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: contract, agreement, configure
-ms.date: 04/01/2021
+ms.date: 06/23/2021
 ms.author: bholtorf
-ms.openlocfilehash: 271e9ef14937ebd1b2bb7a8932f2f561d7a6f2ff
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 343308cb004ada356eaad14e620f29fb9cf043ee
+ms.sourcegitcommit: e562b45fda20ff88230e086caa6587913eddae26
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5778301"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "6326817"
 ---
 # <a name="fulfilling-service-contracts"></a>Выполнение контрактов на обслуживание 
 Одним из способов организации сервисного управления является стандартизация контрактов между организацией и клиентами с описанием уровней сервиса и ожидаемых результатов. Можно создать шаблоны контрактов, включающие такие основные сведения, как данные о клиенте, дата начала действия контракта и период выставления счетов.  

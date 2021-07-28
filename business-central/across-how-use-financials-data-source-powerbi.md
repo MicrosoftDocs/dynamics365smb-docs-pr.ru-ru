@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: business intelligence, KPI, Odata, Power App, SOAP, analysis
 ms.date: 04/01/2021
 ms.author: jswymer
-ms.openlocfilehash: a80b6515b8397a275285ae15086a11bad9c35921
-ms.sourcegitcommit: 103d1433454dbedf8a72a292853eac3501872f24
+ms.openlocfilehash: ef81b4fd16e66c4ec1453798ae77f947b12c975e
+ms.sourcegitcommit: eeaf9651c26e49974254e29b7e2d16200c818dad
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2021
-ms.locfileid: "5961506"
+ms.lasthandoff: 07/06/2021
+ms.locfileid: "6341337"
 ---
 # <a name="building-power-bi-reports-to-display-prod_long-data"></a>Создание отчетов Power BI для отображения данных [!INCLUDE [prod_long](includes/prod_long.md)]
 
@@ -27,28 +27,28 @@ ms.locfileid: "5961506"
 
 - Подпишитесь на службу Power BI.
 
-    Если вы еще не зарегистрировались, перейдите на [https://powerbi.microsoft.com](https://powerbi.microsoft.com). При регистрации используйте рабочий адрес электронной почты и пароль.
+  Если вы еще не зарегистрировались, перейдите на [https://powerbi.microsoft.com](https://powerbi.microsoft.com). При регистрации используйте рабочий адрес электронной почты и пароль.
 
 - Скачайте [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
 
-   Power BI Desktop — это бесплатное приложение, которое вы устанавливаете на свой локальный компьютер. Для получения дополнительной информации см. раздел [Быстрый старт: подключение к данным в Power BI Desktop](/power-bi/desktop-quickstart-connect-to-data),
+  Power BI Desktop — это бесплатное приложение, которое вы устанавливаете на свой локальный компьютер. Для получения дополнительной информации см. раздел [Быстрый старт: подключение к данным в Power BI Desktop](/power-bi/desktop-quickstart-connect-to-data),
 
-- Убедитесь, что данные, которые вы хотите включить в отчет, опубликованы в виде веб-службы.
-    
-    По умолчанию опубликовано множество веб-служб. Простой способ найти веб-службы — найти *веб-службы* в [!INCLUDE[prod_short](includes/prod_short.md)]. На странице **Веб-службы** убедитесь, что выбрано поле **Опубликовать**. Эту задачу обычно является административной задачей.
-    
-    Дополнительные сведения о публикации веб-служб см. в разделе [Публикация веб-службы](across-how-publish-web-service.md).
+- Убедитесь, что данные, которые вы хотите включить в отчет, доступны как страница API или опубликованы в виде веб-службы.
+
+  Для получения дополнительной информации прочитайте [Предоставлять данные через страницы API или веб-службы OData](admin-powerbi-setup.md#exposedata).
 
 - Для [!INCLUDE[prod_short](includes/prod_short.md)] On-Premises получите следующую информацию:
 
-    - URL-адрес OData для [!INCLUDE[prod_short](includes/prod_short.md)]. Обычно этот URL-адрес имеет формат `http[s]://[computer]:[port]/[serverinstance]/ODataV4`, например `https://localhost:7048/BC160/ODataV4`. Если у вас есть развертывание в нескольких клиентах, включите клиент в URL-адрес, например `https://localhost:7048/BC160/ODataV4?tenant=tenant1`.
-    - Имя пользователя и ключ доступа к веб-сервису учетной записи [!INCLUDE[prod_short](includes/prod_short.md)].
+  - URL-адрес OData для [!INCLUDE[prod_short](includes/prod_short.md)].
+  
+    Обычно этот URL-адрес имеет формат `http[s]://[computer]:[port]/[serverinstance]/ODataV4`, например `https://localhost:7048/BC160/ODataV4`. Если у вас есть развертывание в нескольких клиентах, включите клиент в URL-адрес, например `https://localhost:7048/BC160/ODataV4?tenant=tenant1`.
+  - Имя пользователя и ключ доступа к веб-сервису учетной записи [!INCLUDE[prod_short](includes/prod_short.md)].
 
-      Чтобы получить данные из [!INCLUDE[prod_short](includes/prod_short.md)], Power BI использует базовую аутентификацию. Итак, для подключения вам понадобятся имя пользователя и ключ доступа к веб-службе. Учетная запись может быть вашей собственной учетной записью пользователя, или ваша организация может иметь специальную учетную запись для этой цели.
+    Чтобы получить данные из [!INCLUDE[prod_short](includes/prod_short.md)], Power BI использует базовую аутентификацию. Итак, для подключения вам понадобятся имя пользователя и ключ доступа к веб-службе. Учетная запись может быть вашей собственной учетной записью пользователя, или ваша организация может иметь специальную учетную запись для этой цели.
 
 - Загрузите тему отчета [!INCLUDE [prod_short](includes/prod_short.md)] (необязательно).
 
-    Дополнительные сведения см. в разделе [Использование темы отчета [!INCLUDE [prod_short](includes/prod_short.md)]](#theme) в этой статье.
+  Дополнительные сведения см. в разделе [Использование темы отчета [!INCLUDE [prod_short](includes/prod_short.md)]](#theme) в этой статье.
 
 ## <a name="add-prod_short-as-a-data-source-in-power-bi-desktop"></a><a name="getdata"></a>Добавление [!INCLUDE[prod_short](includes/prod_short.md)] как источника данных в Power BI Desktop
 
@@ -58,26 +58,46 @@ ms.locfileid: "5961506"
 2. Выберите **Получить данные**.
 
     Если вы не видите пункт **Получить данные**, выберите меню **Файл**, затем **Получить данные**.
-2. На странице **Получить данные** выберите **Веб-службы**.
-3. В области **Веб-службы** выполните одно из следующих действий:
+3. На странице **Получить данные** выберите **Веб-службы**.
+4. В области **Веб-службы** выполните одно из следующих действий:
 
-    1. Если вы подключаетесь к [!INCLUDE [prod_short](includes/prod_short.md)] Online, выберите **Dynamics 365 Business Central**, затем **Подключить**.
-    2. Если вы подключаетесь к [!INCLUDE [prod_short](includes/prod_short.md)] On-Premises, выберите **Dynamics 365 Business Central (on-premises)**, затем **Подключить**.
+    - Чтобы подключиться к [!INCLUDE [prod_short](includes/prod_short.md)] онлайн, выберите **Dynamics 365 Business Central**, затем **Подключить**.
+    - Чтобы подключиться к [!INCLUDE [prod_short](includes/prod_short.md)] локально, выберите **Dynamics 365 Business Central (локальная версия)**, затем **Подключить**.
 
-4. Power BI отобразит мастер с руководством по процессу подключения, включая вход в [!INCLUDE [prod_short](includes/prod_short.md)].
+5. Войдите в [!INCLUDE [prod_short](includes/prod_short.md)] (только один раз).
 
-    Для сетевой версии выберите **Войти**, затем выберите соответствующую учетную запись. Используйте ту же учетную запись, которая используется для входа в [!INCLUDE [prod_short](includes/prod_short.md)].
-    
-    Для локальной версии введите URL-адрес OData для [!INCLUDE[prod_short](includes/prod_short.md)], и, необязательно, название компании. Затем, когда будет предложено, введите имя пользователя и пароль учетной записи, которая будет использоваться для подключения к [!INCLUDE[prod_short](includes/prod_short.md)]. В поле **Пароль** введите ключ доступа к веб-службе.
+    Если вы еще не вошли в [!INCLUDE [prod_short](includes/prod_short.md)] из Power BI Desktop, вам будет предложено войти в систему.
+
+    - Для сетевой версии [!INCLUDE [prod_short](includes/prod_short.md)] выберите **Войти**, затем выберите соответствующую учетную запись. Используйте ту же учетную запись, которая используется для входа в [!INCLUDE [prod_short](includes/prod_short.md)]. Когда готово, выберите **Подключить**.
+
+    - Для локальной версии [!INCLUDE [prod_short](includes/prod_short.md)] сначала введите URL-адрес OData для [!INCLUDE[prod_short](includes/prod_short.md)], затем выберите **ОК**. Когда будет предложено, введите имя пользователя и пароль учетной записи, которая будет использоваться для подключения к [!INCLUDE[prod_short](includes/prod_short.md)]. В поле **Пароль** введите ключ доступа к веб-службе. Когда готово, выберите **Подключить**.
 
     > [!NOTE]  
-    > После успешного подключения к [!INCLUDE[prod_short](includes/prod_short.md)] выполнять повторный вход не требуется.
-    
-5. Выберите **Подключить** для продолжения.
+    > После успешного подключения к [!INCLUDE[prod_short](includes/prod_short.md)] выполнять повторный вход не требуется. [Как изменить или удалить учетную запись, которую я сейчас использую для подключения к Business Central из Power BI Desktop?](/dynamics365/business-central/power-bi-faq?tabs=designer#perms)
 
-    Мастер Power BI отобразит список сред, компаний и источников данных Microsoft [!INCLUDE[prod_short](includes/prod_short.md)]. Эти источники данных представляют все веб-службы, которые вы опубликовали из [!INCLUDE [prod_short](includes/prod_short.md)].
-6. Укажите данные, которые требуется добавить в модель данных, а затем нажмите кнопку **Загрузить**.
-7. Повторите предыдущие шаги для добавления дополнительных данных [!INCLUDE [prod_short](includes/prod_short.md)] или других данных в модель данных Power BI.
+6. После подключения Power BI связывается со службой Business Central. Появляется окно **Навигатор**, в котором отображаются доступные источники данных для построения отчетов. Выберите папку, чтобы развернуть ее и просмотреть доступные источники данных. 
+
+   Эти источники данных представляют все веб-службы и страницы API, которые опубликованы для [!INCLUDE [prod_short](includes/prod_short.md)]. Источники данных сгруппированы по средам Business Central и компаниям. С Business Central Online **Навигатор** имеет следующую структуру:
+
+    - **Имя среды**
+      - **Название организации**
+        - **Расширенные API**
+
+          В этой папке перечислены расширенные страницы API, опубликованные Microsoft, например [API автоматизации Business Central](/dynamics365/business-central/dev-itpro/administration/itpro-introduction-to-automation-apis) и [Настраиваемые страницы API для Business Central](/dynamics365/business-central/dev-itpro/developer/devenv-develop-custom-api). Страницы пользовательского API далее сгруппированы по папкам по свойствам [APIPublisher](/business-central/dev-itpro/developer/properties/devenv-apipublisher-property)/[APIGroup](/business-central/dev-itpro/developer/properties/devenv-apigroup-property) исходного кода страницы API.
+
+        - **Стандартные API v2.0**
+
+          В этой папке перечислены страницы API, представленные [Business Central API V2.0](/dynamics365/business-central/dev-itpro/api-reference/v2.0/).
+
+        - **Веб-службы \(устаревшие версии)**
+
+          В этой папке перечислены страницы, модули codeunit и запросы, опубликованные как веб-службы в Business Central.
+
+    > [!NOTE]
+    > Структура локальной версии Business Central отличается, поскольку она не поддерживает страницы API.
+
+7. Выберите источник данных или источники, которые требуется добавить в модель данных, а затем нажмите кнопку **Загрузить**.
+8. Если позже вы захотите добавить дополнительные данные Business Central, вы можете повторить предыдущие шаги.
 
 После загрузки данных они отображаются в правой области навигации на странице. На этом шаге вы успешно подключились с данным [!INCLUDE[prod_short](includes/prod_short.md)] и можете начать создание отчета Power BI.  
 

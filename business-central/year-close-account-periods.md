@@ -1,6 +1,6 @@
 ---
-title: Закрытие учетных периодов для финансового года | Документация Майкрософт
-description: Описывается порядок закрытия учетных периодов, составляющих финансовый год.
+title: Закрытие учетных периодов для финансового года
+description: В этой статье описывается, как закрыть учетные периоды, составляющие финансовый год для закрытия года.
 author: jswymer
 ms.service: dynamics365-business-central
 ms.topic: conceptual
@@ -8,20 +8,20 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: year closing, close accounting period, close fiscal year, bank account detailed trial balance
-ms.date: 04/01/2021
+ms.date: 06/25/2021
 ms.author: jswymer
-ms.openlocfilehash: a26baaf947fdac133e3bfcd50489d680231d9971
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 5f668104fe6b0bbd9dbbf9295034547e298df916
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5786686"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6436002"
 ---
 # <a name="close-accounting-periods"></a>Закрытие учетных периодов
 При завершении финансового года следует завершить периоды, которые его образуют.
 
 ## <a name="to-close-accounting-periods"></a>Практическое руководство. Закрытие учетных периодов
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Учетные периоды**, затем выберите соответствующую ссылку.
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") введите **Учетные периоды**, а затем выберите связанную ссылку.
 2. На странице **Учетные периоды** выберите действие **Закрыть год**.
 
     Если открыто несколько финансовых лет, автоматически считается, что должен быть закрыт более ранний год. Отображается сообщение, указывающее подлежащий закрытию год и сообщающее о последствиях закрытия года.
