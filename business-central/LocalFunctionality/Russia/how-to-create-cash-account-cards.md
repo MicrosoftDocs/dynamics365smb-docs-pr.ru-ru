@@ -8,12 +8,12 @@ ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 6b638053a5fc7cb6228bc44b7984068a611ac559
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: b0103399c7c1c7d8f3d1885472087e0a94333dae
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5786397"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6439139"
 ---
 # <a name="create-cash-account-cards"></a>Создание карточек счетов кассы
 
@@ -21,7 +21,7 @@ ms.locfileid: "5786397"
 
 ## <a name="to-create-a-cash-account-card"></a>Создание карточек счетов кассы
 
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Счета кассы**, затем выберите соответствующую ссылку.
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../../media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Кассы**, а затем выберите связанную ссылку.
 
 2. В окне **Карточка кассы** на экспресс-вкладке **Учет** заполните поля, как описано в следующей таблице.
 

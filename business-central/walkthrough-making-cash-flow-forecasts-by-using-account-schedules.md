@@ -1,6 +1,6 @@
 ---
-title: 'Пошаговое руководство: создание прогнозов движения денежных средств с использованием финансовых отчетов'
-description: Здесь описывается использование финансовых отчетов для создания прогнозов движения денежных средств.
+title: Прогнозы движения денежных средств с использованием финансовых отчетов
+description: В этом пошаговом руководстве описывается использование финансовых отчетов для создания прогнозов движения денежных средств в Business Central.
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: conceptual
@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2021
+ms.date: 06/24/2021
 ms.author: edupont
-ms.openlocfilehash: 48a176c4c363c4a33ae336d754be71c9f7dd0aeb
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: e0da9a5cab5c36bd5403bca3731ce46bb67316c3
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5772108"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6438506"
 ---
 # <a name="walkthrough-making-cash-flow-forecasts-by-using-account-schedules"></a>Пошаговое руководство: создание прогнозов движения денежных средств с использованием финансовых отчетов
 
@@ -54,7 +54,7 @@ ms.locfileid: "5772108"
 
 ### <a name="to-set-up-a-new-account-schedule-name"></a>Задание нового названия финансового отчета  
 
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Финансовые отчеты**, затем выберите соответствующую ссылку.  
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Финансовые отчеты**, а затем выберите связанную ссылку.  
 2. На странице **Названия финансовых отчетов** на выберите действие **Создать**, чтобы создать новое название графика счета движения денежных средств.  
 3. В поле **Имя** введите **Прогноз**.  
 4. В поле **Описание** введите **Прогноз движения денежных средств**.  

@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: Power BI, reports, faq, errors
 ms.date: 04/22/2021
 ms.author: jswymer
-ms.openlocfilehash: 939b280e631113d3196f6fbbc90d9bf19b9fc408
-ms.sourcegitcommit: a76475f124e79440a5bba20577b335c4d50a2d83
+ms.openlocfilehash: ef63963c7c37f36db34e3e8292e73d64c1b67538
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "6025837"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6438756"
 ---
 # <a name="power-bi--faq"></a>Часто задаваемые вопросы по Power BI
 
@@ -65,8 +65,20 @@ ms.locfileid: "6025837"
 <!-- 7 -->
 ### <a name="does-the-connector-work-with-api-pages"></a>Соединитель работает со страницами API?
 
-Пока нет. Но начиная с июня 2021 г. соединитель Power BI будет поддерживать как веб-службы Business Central, так и страницы API. Для получения дополнительной информации см. [Разрешить соединителю Power BI работать с API Business Central вместо работы только с веб-службами](/dynamics365-release-plan/2021wave1/smb/dynamics365-business-central/enable-power-bi-connector-work-business-central-apis-instead-web-services-only).
+Да. Начиная с июня 2021 г. соединитель Power BI поддерживает как веб-службы Business Central, так и страницы API. Для получения дополнительной информации см. [Разрешить соединителю Power BI работать с API Business Central вместо работы только с веб-службами](/dynamics365-release-plan/2021wave1/smb/dynamics365-business-central/enable-power-bi-connector-work-business-central-apis-instead-web-services-only).
 
+### <a name="can-i-build-a-power-bi-report-using-the-sales-invoice-lines-or-journal-lines-apis"></a>Могу ли я создать отчет Power BI с помощью API-интерфейсов строк счетов-фактур продажи или строк журнала?
+
+Наиболее часто используемые записи строк доступны в [API Business Central v2.0](/dynamics365/business-central/dev-itpro/api-reference/v2.0/). Таким образом, вы можете использовать их для создания отчетов в Power BI, выбрав их в соединителе **Dynamics 365 Business Central**. Тем не менее API **Строки** предназначены для использования только с некоторыми очень специфическими фильтрами и могут не работать в вашем сценарии. Вы можете получить сообщение об ошибке, подобное «Вы должны указать код или код документа, чтобы получить строки». Чтобы решить эту проблему, выполните следующие действия при получении данных из Business Central для отчета в Power BI Desktop:
+
+1. Вместо включения источника данных для сущности строк добавьте родительский источник данных. Например, добавьте **Счет-фактура продажи** вместо **Строки счета-фактуры продажи**.
+2. Выберите **Преобразовать данные** на панели действий Power BI Desktop.
+3. Выберите только что добавленный запрос, например **Счета-фактуры продажи**.
+4. Примените любую необходимую фильтрацию к записям, чтобы уменьшить количество записей, загружаемых в отчет.
+5. Прокрутите вправо, пока не найдете столбец, названный строками, например **SalesInvoiceLines**.
+6. Нажмите кнопку «Развернуть» в заголовке столбца рядом с именем столбца.
+
+   :::image type="content" source="media/saleinvoicelines.png" alt-text="Показывает столбец SalesInvoiceLines в Power BI Desktop.":::
 <!-- 11 --> 
 ### <a name="is-it-possible-to-choose-which-business-central-environment-to-get-data-from-for-power-bi-for-example-like-a-sandbox-or-production-environment"></a>Можно ли выбрать, из какой среды Business Central получать данные для Power BI, например песочницы или рабочей среды? 
 
@@ -137,14 +149,23 @@ ms.locfileid: "6025837"
 Когда новый соединитель будет доступен в июне 2021 года, вам будет предложено использовать страницы API вместо запросов, опубликованных в виде веб-служб.
 
 <!-- 13 --> 
-### <a name="is-there-a-way-for-an-end-user-to-create-a-web-service-with-a-column-thats-in-a-business-central-table-but-not-a-page-or-will-developer-have-to-create-a-custom-query"></a>Есть ли способ для конечного пользователя создать веб-службу со столбцом в таблице Business Central, но не на странице? Или разработчику придется создавать собственный запрос? 
+### <a name="is-there-a-way-for-an-end-user-to-create-a-web-service-with-a-column-thats-in-a-business-central-table-but-not-a-page-or-will-the-developer-have-to-create-a-custom-query"></a>Есть ли способ для конечного пользователя создать веб-службу со столбцом в таблице Business Central, но не на странице? Или разработчику придется создавать собственный запрос? 
 
-Пока нет. Но когда новый соединитель будет доступен в июне 2021 года, разработчик может создать новую страницу API для удовлетворения этого требования. 
+Да. С выпуском нового соединителя в июне 2021 года разработчик может создать новую страницу API для удовлетворения этого требования. 
 
 <!-- 28 --> 
 ### <a name="can-i-connect-power-bi-to-a-read-only-database-server-of-business-central-online"></a>Могу ли я подключить Power BI к серверу баз данных с доступом только для чтения Business Central Online? 
 
 Кол-во Но у нас есть эта функция в нашей долгосрочной дорожной карте. 
+
+### <a name="how-do-i-change-or-clear-the-user-account-im-currently-using-to-connect-to-business-central-from-power-bi-desktop"></a><a name="perms"></a>Как изменить или удалить учетную запись пользователя, которую я сейчас использую для подключения к Business Central из Power BI Desktop?
+
+В Power BI Desktop выполните один из следующих шагов:
+
+1. В меню Файл выберите **Параметры и настройки** > **Параметры источника данных**.
+2. Выберите **Dynamics Business Central** из списка, затем выберите **Удалить разрешения** > **Удалить**.
+
+Затем, когда вы в следующий раз подключитесь к Business Central для получения данных, вам будет предложено войти в систему.
 
 ## <a name="performance"></a>[Производительность](#tab/performance)
 

@@ -1,6 +1,6 @@
 ---
 title: Создание новой организации | Документация Майкрософт
-description: Для использования служб RapidStart Services создаются таблицы и страницы, но они не содержат никаких данных.
+description: Используйте таблицы RapidStart Services и страницы, чтобы создать новую организацию, для которой необходимо выполнить реализацию клиента.
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: conceptual
@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2021
+ms.date: 06/14/2021
 ms.author: edupont
-ms.openlocfilehash: c21d86c67c6020d1a32da4816246bc7aaf96c2ca
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: bb2e3e8d431160c94f7944fe8986ea9cc115ffe7
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5779886"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6439639"
 ---
 # <a name="create-a-new-company"></a>Создание новой организации
 Для использования служб RapidStart Services для [!INCLUDE[prod_short](includes/prod_short.md)] необходимо сначала создать новую организацию, для которой необходимо выполнить реализацию клиента. При создании новой организации создаются стандартные таблицы и страницы [!INCLUDE[prod_short](includes/prod_short.md)], но без сведений.
@@ -26,7 +26,7 @@ ms.locfileid: "5779886"
 
 ## <a name="to-use-the-sample-basicconfig-configuration-package"></a>Использование образца пакета конфигурации BASICCONFIG  
 1. Откройте демонстрационную организацию «CRONUS Россия ЗАО». Дополнительные сведения см. в разделе [Изменение базовых настроек](ui-change-basic-settings.md).
-2. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Пакеты конфигураций**, затем выберите соответствующую ссылку.  
+2. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Пакеты конфигураций**, а затем выберите связанную ссылку.  
 3. Выберите пакет BASICCONFIG из списка и выберите действие **Экспортировать пакет**.  
 
 Используйте следующую процедуру для создания новой организации и в процессе используйте пакет BASICCONFIG.  

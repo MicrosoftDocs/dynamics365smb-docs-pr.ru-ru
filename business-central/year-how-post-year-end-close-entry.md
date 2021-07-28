@@ -5,16 +5,16 @@ author: edupont04
 ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: year closing, close accounting period, close fiscal year, bank account detailed trial balance
-ms.date: 04/01/2021
+ms.date: 06/25/2021
 ms.author: edupont
-ms.openlocfilehash: 5c822685ae5723bc6b13f9fedad45dbddefdb956
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 6dfba7323eeaad538cf45525d11212a6e5d7438e
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5776596"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6438531"
 ---
-# <a name="post-the-year-end-closing-entry"></a>Учет операции закрытия года
+# <a name="posting-the-year-end-closing-entry"></a>Учет операции закрытия года
 
 После использования пакетного задания **Закрытие отчета о прибылях и убытках** для создания закрывающей операции (операций) на конец года необходимо открыть журнал, указанный для пакетного задания, и затем просмотреть и учесть записи.  
 
@@ -23,7 +23,7 @@ ms.locfileid: "5776596"
 
 ## <a name="to-post-the-year-end-closing-entry"></a>Учет операции закрытия года
 
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Финансовый журнал**, затем выберите соответствующую ссылку.
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Финансовый журнал**, а затем выберите связанную ссылку.
 2. На странице **Финансовый журнал** в поле **Код раздела** выберите раздел, который содержит закрывающие операции.
 3. Проверьте записи.
 4. Чтобы учесть журнал, выберите действие **Учет**.

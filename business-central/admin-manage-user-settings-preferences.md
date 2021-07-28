@@ -11,12 +11,12 @@ ms.reviewer: edupont
 ms.search.keywords: user settings, preferences, language, region, time zone, regional settings
 ms.date: 04/01/2021
 ms.author: soalex
-ms.openlocfilehash: 36850a2d0d8f85a0436b5d268c3cd2653b2f785f
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: fff79b56d6846547230788b6caa831e7bf3a11d7
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5779761"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6438956"
 ---
 # <a name="manage-user-settings-and-preferences"></a>Управление пользовательскими параметрами и настройками
 
@@ -74,7 +74,7 @@ ms.locfileid: "5779761"
 
 ## <a name="to-review-or-delete-user-personalizations"></a>Чтобы просмотреть или удалить персональные настройки пользователя
 
-1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Персонализированные страницы**, затем выберите соответствующую ссылку.
+1. Выберите ![Поиск страницы или отчета.](media/ui-search/search_small.png "Значок поиска страницы или отчета") значок, введите **Персонализированные страницы**, а затем выберите связанную ссылку.
 2. Это показывает список пользователей и их персонализированных страниц. Чтобы очистить персонализацию пользователя, щелкните соответствующую строку или выберите **Управление**, затем выберите **Удалить**.
 
 Это удаляет персонализацию, и пользовательский интерфейс соответствующей страницы возвращается к состоянию по умолчанию.
