@@ -1,6 +1,6 @@
 ---
-title: Создание и управление взаимодействиями с контактами | Документация Майкрософт
-description: В Business Central взаимодействиями являются все типы коммуникаций между организацией и контактами. Например, взаимодействиями могут быть эл. почта, письмо, телефон, встреча и т. д.
+title: Создание и управление взаимодействиями с контактами
+description: В Business Central взаимодействиями являются все типы коммуникаций между организацией и контактами. Прочтите о способах создания контактов и управления ими.
 services: project-madeira
 documentationcenter: ''
 author: SorenGP
@@ -10,16 +10,16 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: relationship, prospect
-ms.date: 04/01/2021
+ms.date: 06/22/2021
 ms.author: edupont
-ms.openlocfilehash: a7e8a009b4d1702689ac61b2874d8970c9c629d2
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: e1876b5f94aa99d032f12c25f81d371af5f44a7c
+ms.sourcegitcommit: e562b45fda20ff88230e086caa6587913eddae26
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5780636"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "6321866"
 ---
-# <a name="managing-interactions"></a>Управление взаимодействиями
+# <a name="managing-interactions-with-your-contacts"></a>Управление взаимодействиями с контактами
 В [!INCLUDE[prod_short](includes/prod_short.md)] взаимодействиями являются все типы коммуникаций между организацией и контактами. Например, взаимодействиями могут быть эл. почта, письмо, телефон, встреча и т. д.
 
 Можно регистрировать все ваши взаимодействия с контактами для того, чтобы отслеживать маркетинговую и торговую деятельность в отношении контактов, а также для улучшения последующих деловых взаимодействий с ними.

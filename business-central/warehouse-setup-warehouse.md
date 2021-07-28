@@ -1,6 +1,6 @@
 ---
-title: Настройка складских процессов | Документация Майкрософт
-description: Стратегия распределения организации отражена в настройке ее складских процессов. Сюда входит определение того, как различные товары обрабатываются на различных складах, например уровень управления ячейками, а также объем рабочего процесса, необходимого для складских действий.
+title: Настройка складских процессов
+description: Стратегия распределения организации отражена в настройке ее складских процессов, например, местоположений складов.
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: conceptual
@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2021
+ms.date: 06/25/2021
 ms.author: edupont
-ms.openlocfilehash: 6730e88bff36347a387bbbbb05b82ec67bac8cac
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: b4578a02405b2aa972dac81a1d8d8e30ad713f3c
+ms.sourcegitcommit: e562b45fda20ff88230e086caa6587913eddae26
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5778001"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "6324718"
 ---
 # <a name="setting-up-warehouse-management"></a>Настройка управления складом
 Стратегия распределения организации отражена в настройке ее складских процессов. Сюда входит определение того, как различные товары обрабатываются на различных складах, например уровень управления ячейками, а также объем рабочего процесса, необходимого для складских действий.  

@@ -1,6 +1,6 @@
 ---
-title: Настройка Business Central | Документация Майкрософт
-description: Узнайте, как настраивать Business Central и добавлять функциональность.
+title: Настройка Business Central
+description: Прочтите о различных способах настройки Business Central для улучшения доступа к функциям и возможностям, которые вам больше всего нужны в повседневной работе.
 documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
@@ -9,14 +9,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: personalize, add-in, extend, customize
-ms.date: 04/01/2021
+ms.date: 06/23/2021
 ms.author: edupont
-ms.openlocfilehash: a2f4ed751ae630db7cc7f2eb12046492a5c56664
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: c5060e9982131f23f3a91e07af52aad4e74b48aa
+ms.sourcegitcommit: e562b45fda20ff88230e086caa6587913eddae26
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5773584"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "6319860"
 ---
 # <a name="customize-business-central"></a>Настройка Business Central
 Существуют различные способы настройки приложения, чтобы предоставить вам и вашим коллегам доступ к функциям, функциональным возможностям и данным, которые нужны вам больше всего, способом, наиболее соответствующим вашей повседневной работе. Пользователи, которые смогут просмотреть изменения, зависят от того, что вы делаете, как описано в этой таблице.

@@ -1,21 +1,21 @@
 ---
 title: Ответ на запросы о личных данных
-description: Необходимо отвечать на запросы субъектов данных.
+description: В этой теме рассказывается, как отвечать на запросы о личных данных. Это называется запросом субъекта данных.
 author: bholtorf
 ms.service: dynamics365-business-central
 ms.author: bholtorf
 ms.custom: na
-ms.date: 04/01/2021
+ms.date: 06/14/2021
 ms.reviewer: na
 ms.topic: conceptual
-ms.openlocfilehash: b7762f9da2a6e3acfbd57a4b5af4806ead710c9d
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 77b1470ee7df736815451c03e4afbf684803aea4
+ms.sourcegitcommit: e562b45fda20ff88230e086caa6587913eddae26
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5777385"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "6321966"
 ---
-# <a name="responding-to-requests-about-personal-data"></a>Ответ на запросы о личных данных  
+# <a name="responding-to-requests-about-users-personal-data"></a>Ответ на запросы о личных данных пользователей  
 Субъекты данных могут запрашивать различные типы действий в отношении своих личных данных. Например, согласно Общему регламенту по защите данных (GDPR), жители ЕС имеют право потребовать экспорта, удаления и изменения своих личных данных. Это называется *запросом субъекта данных*. Если вы классифицировали конфиденциальность своих данных и уверены, что они верны, администратор может отвечать на запросы, используя параметры на вкладке **Конфиденциальность данных** в ролевом центре **ИТ-менеджер**. Дополнительную информацию о классификации данных и классификации конфиденциальности данных в [!INCLUDE[prod_long](includes/prod_long.md)] см. в разделах [Классификация данных](/dynamics-nav/classifying-data?toc=/dynamics365/business-central/toc.json) и [Классификация конфиденциальности данных](admin-classifying-data-sensitivity.md).  
 
 ## <a name="types-of-requests"></a>Типы запросов

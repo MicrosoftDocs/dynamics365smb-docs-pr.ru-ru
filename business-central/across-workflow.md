@@ -1,6 +1,6 @@
 ---
-title: Рабочий процесс | Документация Майкрософт
-description: Можно настроить и использовать рабочие процессы, связывающие задачи бизнес-процесса, выполняемые различными пользователями. Системные задачи, такие как автоматический учет, могут включаться в качестве шагов рабочего процесса, предшествующих задачам пользователя или выполняемых после них. Типичные шаги рабочего процесса – запрос и выдача разрешения на создание новых записей.
+title: Рабочие процессы в Dynamic 365 Business Central
+description: Используйте рабочие процессы для связи задач бизнес-процесса, выполняемых различными пользователями. Системные задачи, такие как автоматическая публикация, могут быть включены как шаги рабочего процесса.
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: conceptual
@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2021
+ms.date: 06/11/2021
 ms.author: edupont
-ms.openlocfilehash: d8dac033ad2f4573d8a7f0047c44ac04eb8e6eb0
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 1804ab571c806d9fb78d15738be7f27f21274146
+ms.sourcegitcommit: e562b45fda20ff88230e086caa6587913eddae26
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5773415"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "6324129"
 ---
 # <a name="workflows-in-dynamics-365-business-central"></a>Рабочие процессы в Dynamics 365 Business Central
 

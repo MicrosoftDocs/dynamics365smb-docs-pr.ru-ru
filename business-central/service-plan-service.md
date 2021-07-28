@@ -1,6 +1,6 @@
 ---
-title: Планирование сервисных процессов | Документация Майкрософт
-description: Описываются задачи по настройке правил и значений для определения политик и процессов сервиса.
+title: Планирование сервисных процессов
+description: В этой теме описываются задачи по настройке правил и значений для определения политик и процессов сервиса.
 services: project-madeira
 documentationcenter: ''
 author: bholtorf
@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: service, work hours, configure, price, pricing
-ms.date: 04/01/2021
+ms.date: 06/23/2021
 ms.author: bholtorf
-ms.openlocfilehash: eaf6f55e807ef9630d9e8f50c71676e86c296b8d
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 93dfc313521d392b3585eac4aacab3c152a43c78
+ms.sourcegitcommit: e562b45fda20ff88230e086caa6587913eddae26
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5778176"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "6323006"
 ---
 # <a name="planning-services"></a>Планирование сервисов
 С помощью [!INCLUDE[prod_short](includes/prod_short.md)] можно настраивать стандартные задачи, необходимые для выполнения требований службы поддержки клиентов. Для этого необходимо определить, какие сервисные товары и предложения поддерживает ваша сервисная организация, и по какой цене.   

@@ -1,19 +1,19 @@
 ---
 title: Обработка отсутствующих значений параметров
-description: Узнайте, как предотвратить сбой полной синхронизации из-за того ,что параметры в сопоставленных полях отличаются.
+description: Узнайте, как предотвратить сбой полной синхронизации из-за того ,что параметры в сопоставленных полях отличаются. Эти процессы требуют помощи разработчика.
 author: bholtorf
 ms.author: bholtorf
 ms.custom: na
 ms.reviewer: na
 ms.service: dynamics365-business-central
 ms.topic: conceptual
-ms.date: 04/01/2021
-ms.openlocfilehash: cd2ed879c6ef6022431e273fa9953110ce482567
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.date: 06/14/2021
+ms.openlocfilehash: 894414ca22ec960c228f9519cb54d9044790a87b
+ms.sourcegitcommit: e562b45fda20ff88230e086caa6587913eddae26
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5773208"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "6324079"
 ---
 # <a name="handling-missing-option-values"></a>Обработка отсутствующих значений параметров
 [!INCLUDE[prod_short](includes/cc_data_platform_banner.md)]

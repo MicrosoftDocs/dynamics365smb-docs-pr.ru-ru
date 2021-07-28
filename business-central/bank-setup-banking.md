@@ -1,8 +1,6 @@
 ---
-title: Настройка банковских операций | Документация Майкрософт
+title: Настройка банка
 description: Карточки банковских счетов служат для отслеживания банковских счетов и настройки банковских выписок, например Yodlee, для обмена данными.
-services: project-madeira
-documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: conceptual
@@ -12,14 +10,15 @@ ms.workload: na
 ms.search.keywords: Yodlee, feed, stream, data exchange, AMC, link
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: a8e10161f2ad137cf26e1e28d8ccf89049b51ad8
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 43a9291fb346596b46d3871a1da7eb84fae3a758
+ms.sourcegitcommit: cde0d97840c8b83cae45afc4a6c65725ffdad56a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5779686"
+ms.lasthandoff: 06/14/2021
+ms.locfileid: "6248893"
 ---
 # <a name="setting-up-banking"></a>Настройка банковских операций
+
 Используя карточки банковских счетов, можно отслеживать все банковские счета в любой валюте. После настройки банковских счетов можно также использовать параметр печати платежных документов.
 
 Для использования электронных банковских сервисов для импорта банковских выписок и экспорта платежей следует настроить и включить соответствующие сервисы.
@@ -30,7 +29,10 @@ ms.locfileid: "5779686"
 | Настройте внешний сервис, который позволяет импортировать банковские выписки в электронном виде для применения платежей и выверки банковских транзакций. |[Настройка службы Envestnet Yodlee Bank Feeds](bank-how-setup-bank-statement-service.md) |
 | Настройте внешний сервис, который позволяет экспортировать платежи в банк для обработки и импортировать банковские выписки в виде банковских файлов для применения платежей и выверки банковских транзакций. |[Использование расширения AMC Banking 365 Fundamentals](ui-extensions-amc-banking.md) |
 
+[!INCLUDE [local-functionality](includes/local-functionality.md)]
+
 ## <a name="see-also"></a>См. также
+
 [Выверка банковских счетов](bank-manage-bank-accounts.md)  
 [Управление дебиторской задолженностью](receivables-manage-receivables.md)  
 [Управление кредиторской задолженностью](payables-manage-payables.md)  

@@ -1,5 +1,5 @@
 ---
-title: Управление банковскими счетами | Документация Майкрософт
+title: Управление банковскими счетами
 description: Вы должны регулярно выверять операции банковских книг с соответствующими банковскими транзакциями на банковских счетах.
 author: SorenGP
 ms.service: dynamics365-business-central
@@ -8,16 +8,16 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: reconcile
-ms.date: 04/01/2021
+ms.date: 06/14/2021
 ms.author: edupont
-ms.openlocfilehash: db4afccdd67e400f2effd34b2db3c449db10432a
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 0e98609dfe176a685d46112a233d3394eb312eaf
+ms.sourcegitcommit: e562b45fda20ff88230e086caa6587913eddae26
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5779711"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "6323772"
 ---
-# <a name="reconciling-bank-accounts"></a>Выверка банковских счетов
+# <a name="manage-and-reconcile-your-bank-accounts"></a>Управляйте и проводите выверку своих банковских счетов
 
 Банковская выверка должна проводиться через равные промежутки времени для всех ваших банковских счетов, чтобы обеспечить правильность кассовых записей компании. Для этого вы сравниваете и сопоставляете записи на своих внутренних банковских счетах с банковскими операциями в вашем банке, а затем учитываете сальдо на своих внутренних банковских счетах, чтобы итоги были доступны финансовым менеджерам. Банковская выверка также является практическим способом выявления и устранения недостающих платежей и ошибок в бухгалтерском учете.
 

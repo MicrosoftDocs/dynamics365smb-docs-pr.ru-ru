@@ -1,6 +1,6 @@
 ---
-title: Сведения о проектировании — отслеживание товаров на складе | Документация Майкрософт
-description: Обработка серийных номеров и номеров партий изначально является складской задачей, и, следовательно, все входящие и исходящие складские документы имеют стандартные функции назначения и выбора номеров трассировки товара. Однако поскольку система резервирования основывается на операциях книги товаров, документы складской операций, в которых регистрируются только складские операции, не поддерживаются полностью.
+title: 'Сведения о проектировании: трассировка товара на складе'
+description: Входящие и исходящие складские документы имеют стандартные функции для присвоения и выбора номеров отслеживания товаров.
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: conceptual
@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: design, item, tracking, serial number, lot number, outbound documents
-ms.date: 04/01/2021
+ms.date: 06/15/2021
 ms.author: edupont
-ms.openlocfilehash: fdd76b21254fc40d2d02332f29c2e002900fdc8b
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 3bf30b7739e488eeb3610d191cfb4f3b20e0e79e
+ms.sourcegitcommit: e562b45fda20ff88230e086caa6587913eddae26
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5775144"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "6320368"
 ---
 # <a name="design-details-item-tracking-in-the-warehouse"></a>Сведения о проектировании: трассировка товара на складе
 Обработка серийных номеров и номеров партий изначально является складской задачей, и, следовательно, все входящие и исходящие складские документы имеют стандартные функции назначения и выбора номеров трассировки товара.  

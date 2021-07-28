@@ -1,5 +1,5 @@
 ---
-title: Локальная функциональность в Business Central
+title: Локальный функционал и стратегия локализации
 description: Узнайте о доступности Business Central в регионах и соответствии нормативным требованиям в тех странах, где Microsoft предоставляет локальные функции.
 author: edupont04
 ms.service: dynamics365-business-central
@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: availability, localization
-ms.date: 04/01/2021
+ms.date: 06/11/2021
 ms.author: edupont
-ms.openlocfilehash: 8a6d4bfbf4d61df0a42f9f866243c44f8809894b
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 6967e54999c1bb2a0a9e7fe095e8c3cca9543ec8
+ms.sourcegitcommit: e562b45fda20ff88230e086caa6587913eddae26
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5776426"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "6321699"
 ---
 # <a name="local-functionality-in-prod_long"></a>Локальная функциональность в [!INCLUDE[prod_long](includes/prod_long.md)]
 
@@ -51,6 +51,7 @@ ms.locfileid: "5776426"
 |        | Соединенные Штаты|[Локальная функциональность в США](localfunctionality/unitedstates/united-states-local-functionality.md) |
 | Азиатско-тихоокеанский регион |       |  |
 |        | Австралия | [Функциональность локальной версии для Австралии](localfunctionality/australia/australia-local-functionality.md) |
+|        | Индия | [Локальная функциональность в Индии](LocalFunctionality/India/india-local-functionality.md) |
 |        | Новая Зеландия | [Локальная функциональность Новой Зеландии](localfunctionality/newzealand/new-zealand-local-functionality.md) |
 
 ### <a name="other-countries"></a>Другие страны

@@ -1,6 +1,6 @@
 ---
-title: Бизнес-аналитика | Документация Майкрософт
-description: Фиксируйте и анализируйте бизнес-данные, например цифры продаж, покупок, текущих расходов, оплаты труда сотрудников и бюджеты, которые могут представлять собой ценную информацию для бизнес-аналитики и принятия решений.
+title: Бизнес-аналитика
+description: Business Central содержит ряд функций, которые помогут вам собирать, анализировать и делиться ценными данными компании для бизнес-аналитики и принятия решений.
 services: project-madeira
 documentationcenter: ''
 author: SorenGP
@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: bi, power BI, analysis, KPI
-ms.date: 04/01/2021
+ms.date: 06/14/2021
 ms.author: edupont
-ms.openlocfilehash: 6a3d3e9aec61b3dab7673c7b99b482f80501a919
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 866cfa9c35e7af7abb17ba9c9171244e2107de4d
+ms.sourcegitcommit: e562b45fda20ff88230e086caa6587913eddae26
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5786566"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "6323747"
 ---
 # <a name="business-intelligence"></a>Бизнес-аналитика
 Во время делового процесса в организации обрабатываются огромные объемы данных. Эти данные, отражающие цифры продаж, покупок, текущих расходов, оплаты труда сотрудников, сальдо и т. д., могут представлять из себя ценную информацию, или интеллектуальные ресурсы, для принятия решений. [!INCLUDE[prod_short](includes/prod_short.md)] содержит множество функций, помогающих собирать, анализировать и совместно использовать данные организации.

@@ -1,6 +1,6 @@
 ---
-title: Управление сегментами и выбор контактов для | Документация Майкрософт
-description: Описываются задачи по созданию сегмента для выбора группы контактов по определенному критерию, например по определенной отрасли, с которой вы хотите взаимодействовать.
+title: Управление сегментами и выбор контактов
+description: В этом разделе описывается, как создать сегмент, выбрав группу контактов в соответствии с определенными критериями, чтобы впоследствии настроить нацеливание на этот сегмент с помощью кампании.
 services: project-madeira
 documentationcenter: ''
 author: jswymer
@@ -10,14 +10,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: relationship, prospect
-ms.date: 04/01/2021
+ms.date: 06/22/2021
 ms.author: jswymer
-ms.openlocfilehash: 04034f51379874f9d8755b229ef4b251af0be37e
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 6a058433fdd95e4fc78502dd54fbc948fa11a183
+ms.sourcegitcommit: e562b45fda20ff88230e086caa6587913eddae26
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5784421"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "6323597"
 ---
 # <a name="managing-segments"></a>Управление сегментами
 Вы создаете сегменты для выбора группы контактов по определенному критерию. Например, сегментом может быть отрасль, к которой принадлежат контакты, или деловые отношения с ними. Можно создать сегмент для выбора контактов, которым будет адресована кампания.

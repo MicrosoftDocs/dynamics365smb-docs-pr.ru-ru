@@ -1,6 +1,6 @@
 ---
-title: Создание входящего сальдо журнала | Документация Майкрософт
-description: Business Central включает несколько пакетных заданий, которые помогают перенести предыдущие сальдо счетов в заново настроенную организацию. Можно легко перенести эти данные с помощью учета в журналах.
+title: Практическое руководство. Создание входящего сальдо журнала
+description: Предоставляются пакетные задания, чтобы помочь перенести остатки на старых счетах в новую настроенную компанию. Можно легко перенести эти данные с помощью учета в журналах.
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: conceptual
@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2021
+ms.date: 06/14/2021
 ms.author: edupont
-ms.openlocfilehash: 5e1bb8e34e70d1d906850c157107b9b9701c6c50
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: ac7fea479237d985204820d54953689566f5c2ac
+ms.sourcegitcommit: e562b45fda20ff88230e086caa6587913eddae26
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5779861"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "6319542"
 ---
 # <a name="create-journal-opening-balances"></a>Создание входящего сальдо журнала
 
