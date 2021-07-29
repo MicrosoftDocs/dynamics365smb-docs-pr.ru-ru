@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: Teams, MS Teams, Microsoft Teams, Skype, Link, Microsoft 365, contacts, search, messaging extensions
 ms.date: 04/12/2021
 ms.author: jswymer
-ms.openlocfilehash: 6d094e365ad0c7da73467e5a3160d926902c45d9
-ms.sourcegitcommit: c11ad91a389ed72532f5513654fdc7909b20aed9
+ms.openlocfilehash: 18a0eaf953c99050edb3b047cb5b4a31c83feeeb
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "5935165"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6440753"
 ---
 # <a name="searching-for-customers-vendors-and-other-contacts-from-microsoft-teams"></a>Поиск клиентов, поставщиков и других контактов из Microsoft Teams
 
@@ -42,13 +42,13 @@ ms.locfileid: "5935165"
 
 1. В командном поле введите **@Business Central**, затем выберите приложение Business Central из результатов.
 
-    ![Открытие приложения Business Central для поиска контактов из командного поля](media/teams-contacts-command-1.png)
+    ![Открытие приложения Business Central для поиска контактов из командного поля.](media/teams-contacts-command-1.png)
 
 2. В поле **Business Central** начните вводить текст для поиска, например имя, адрес или номер телефона.
 
     По мере ввода будут появляться совпадающие результаты.
 
-    ![Поиск контактов Business Central из командного поля в Teams](media/teams-contacts-command-2.png)
+    ![Поиск контактов Business Central из командного поля в Teams.](media/teams-contacts-command-2.png)
 3. Выберите контакт из результатов.
 
     Карточка контакта отображается под командным полем.
@@ -65,13 +65,13 @@ ms.locfileid: "5935165"
 
     Если вы не видите значок **Business Central**, выберите **... (Расширения для сообщений)**.
 
-    ![Открытие приложения Business Central для поиска контактов из поля сообщения](media/teams-contacts-message-box.png)
+    ![Открытие приложения Business Central для поиска контактов из поля сообщения.](media/teams-contacts-message-box.png)
 
 2. В поле **Business Central** начните вводить текст для поиска, например имя, адрес или номер телефона.
 
     По мере ввода будут появляться совпадающие результаты.
 
-    ![Поиск контактов Business Central из поля сообщения](media/teams-contacts-5.png)
+    ![Поиск контактов Business Central из поля сообщения.](media/teams-contacts-5.png)
 3. Выберите контакт из результатов.
 
     Карточка контакта появится в поле создания сообщения.
@@ -101,6 +101,8 @@ ms.locfileid: "5935165"
 [Обзор интеграции Business Central и Microsoft Teams](across-teams-overview.md)  
 [Установка приложения [!INCLUDE [prod_short](includes/prod_short.md)] для Microsoft Teams](across-install-app-for-teams.md)  
 [Вопросы и ответы по Teams](teams-faq.md)  
+[Изменение компании и других параметров в Teams](across-teams-settings.md)  
+[Общий доступ к записям в Microsoft Teams](across-working-with-teams.md)  
 [Устранение неполадок Teams](admin-teams-troubleshooting.md)  
 [Разработка для интеграции Teams](/dynamics365/business-central/dev-itpro/developer/devenv-develop-for-teams)  
 

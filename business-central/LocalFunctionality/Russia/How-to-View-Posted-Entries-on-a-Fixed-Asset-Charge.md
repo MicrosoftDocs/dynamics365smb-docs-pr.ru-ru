@@ -8,12 +8,12 @@ ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 1a4b06a2acd36a0a1312ea9eeb9f04c940168f6d
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: e3b2c19bdad4ff9e95a16049650c4ef87de85974
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5780106"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6441381"
 ---
 # <a name="view-posted-entries-on-a-fixed-asset-charge"></a>Просмотр учтенных операций по издержкам основных средств
 
@@ -21,7 +21,7 @@ ms.locfileid: "5780106"
 
 ## <a name="to-view-a-posted-entry-on-a-fixed-asset-charge"></a>Просмотр учтенных операций по издержкам основных средств
 
-- Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Книга операций по ОС**, затем выберите соответствующую ссылку.
+- Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../../media/ui-search/search_small.png "Что вы хотите сделать") значок **Операции книги ОС**, а затем выберите связанную ссылку.
 
 ## <a name="see-also"></a>См. также
 

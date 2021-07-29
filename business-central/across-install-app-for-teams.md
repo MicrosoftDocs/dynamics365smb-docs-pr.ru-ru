@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: Teams, MS Teams, Microsoft Teams, Skype, Link, Microsoft 365, collaborate, collaboration, teamwork
 ms.date: 04/12/2021
 ms.author: jswymer
-ms.openlocfilehash: 2ccecd22db33e3ce734dd5a5d280f45d22bb2751
-ms.sourcegitcommit: 5a916b0aa0a2eef0c22b5722a0af041757e6d7c2
+ms.openlocfilehash: ef2c12ea5e956b9bfdaeb2c464ac74684b630c48
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "6074566"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6440854"
 ---
 # <a name="install-the-prod_short-app-for-microsoft-teams"></a>Установите приложение [!INCLUDE [prod_short](includes/prod_short.md)] для Microsoft Teams
 
@@ -45,7 +45,7 @@ ms.locfileid: "6074566"
 
 2. Подождите, пока появится приложение Business Central.
 
-    ![Установка приложения Business Central в Teams](media/teams-install-app.png)
+    ![Установка приложения Business Central в Teams.](media/teams-install-app.png)
 
 3. Выберите **Добавить**.
 
@@ -69,7 +69,9 @@ ms.locfileid: "6074566"
 [Обзор интеграции Business Central и Microsoft Teams](across-teams-overview.md)  
 [Вопросы и ответы по Teams](teams-faq.md)  
 [Устранение неполадок Teams](admin-teams-troubleshooting.md)  
+[Изменение компании и других параметров в Teams](across-teams-settings.md)  
 [Разработка для интеграции Teams](/dynamics365/business-central/dev-itpro/developer/devenv-develop-for-teams)  
+
 
 ## [!INCLUDE[prod_short](includes/free_trial_md.md)]  
 

@@ -1,6 +1,6 @@
 ---
 title: Обзор задач для настройки Business Central
-description: Описываются задачи по настройке, инициализации и конфигурированию Business Central в соответствии с вашими потребностями.
+description: Прочтите обзор задач по настройке, инициализации и конфигурированию Business Central в соответствии с вашими потребностями.
 author: edupont04
 ms.service: dynamics365-business-central
 ms.topic: conceptual
@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: configure, initialize
-ms.date: 04/01/2021
+ms.date: 06/23/2021
 ms.author: edupont
-ms.openlocfilehash: 01354575a7d96017684fe885411be364058b57e4
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: c2edc726ef61f832e0db4ca93300c89342b400e0
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5781460"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6441426"
 ---
 # <a name="overview-of-tasks-to-set-up-prod_short"></a>Обзор задач по настройке [!INCLUDE[prod_short](includes/prod_short.md)]
 
@@ -23,7 +23,7 @@ ms.locfileid: "5781460"
 
 Например, в план счетов подставлены готовые к использованию номера счетов учета. Конечно, вы можете изменить план счетов в соответствии со своими потребностями. Дополнительные сведения см. в разделе [Финансы](finance.md).
 
-Из меню ![Значок шестеренки для открытия меню параметров](media/ui-experience/settings_icon_small.png) можно получить доступ к мастерам настройки, которые помогают настраивать определенные сценарии и добавлять функции в [!INCLUDE[prod_short](includes/prod_short.md)]. Дополнительные сведения о том, как получить доступ ко всем страницам сопровождаемой и ручной настройки, см. в разделе [Подготовьтесь к ведению бизнеса](ui-get-ready-business.md).  
+В ![значок звездочки, чтобы открыть меню настроек.](media/ui-experience/settings_icon_small.png) можно получить доступ к руководствам по настройке, помогающим настроить определенные сценарии и добавить функции в [!INCLUDE[prod_short](includes/prod_short.md)]. Дополнительные сведения о том, как получить доступ ко всем страницам сопровождаемой и ручной настройки, см. в разделе [Подготовьтесь к ведению бизнеса](ui-get-ready-business.md).  
 
 > [!NOTE]
 > [!INCLUDE [ua-checklist](includes/ua-checklist.md)]

@@ -7,12 +7,12 @@ ms.topic: conceptual
 ms.search.keywords: setup, reporting
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: ba15a65317ebf52579c285c93dd59eba1b65ae1b
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 848b2ddc00f5006f31a0b2cff0a07d51ec305921
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5787111"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6440803"
 ---
 # <a name="report-selection-in-business-central"></a>Выбор отчета в Business Central
 
@@ -32,7 +32,7 @@ ms.locfileid: "5787111"
 |Определение отчетов для отчетности по НДС (Германия)|[Настройка отчетов по НДС и Интрастат](LocalFunctionality/Germany/how-to-set-up-reports-for-vat-and-intrastat.md) |
 
 > [!TIP]
-> Ваш [!INCLUDE [prod_short](includes/prod_short.md)] может включать дополнительные страницы **Выбор отчета**, например, в зависимости от вашего местоположения и отрасли. Вы всегда можете проверить свою настройку, выбрав значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Выбор отчетов**, затем выберите соответствующую ссылку.
+> Ваш [!INCLUDE [prod_short](includes/prod_short.md)] может включать дополнительные страницы **Выбор отчета**, например, в зависимости от вашего местоположения и отрасли. Вы всегда можете проверить свою настройку, выбрав ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Выбор отчетов**, а затем выберите соответствующую ссылку.
 
 Версия по умолчанию [!INCLUDE [prod_short](includes/prod_short.md)] включает следующие страницы **Раздел отчета**:
 

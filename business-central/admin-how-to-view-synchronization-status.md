@@ -1,6 +1,6 @@
 ---
-title: Просмотр статуса заданий синхронизации | Документация Майкрософт
-description: Узнайте, как просмотреть состояние после синхронизации связанных записей.
+title: Просмотр статуса заданий синхронизации
+description: Используйте страницу Ошибки синхронизации связанных данных для просмотра состояния заданий синхронизации, которые были выполнены для связанных записей в интеграции.
 author: bholtorf
 ms.service: dynamics365-business-central
 ms.topic: conceptual
@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: sales, crm, integration, sync, synchronize
-ms.date: 04/01/2021
+ms.date: 06/14/2021
 ms.author: bholtorf
-ms.openlocfilehash: b87bd1061adbcaae3a5497fa1af020cfaa412593
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 0a33631908d0f3943486f96bbf6b5e2f801c440b
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5781265"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6441322"
 ---
 # <a name="view-the-status-of-synchronization-jobs"></a>Просмотр статуса заданий синхронизации
 [!INCLUDE[prod_short](includes/cc_data_platform_banner.md)]
@@ -35,7 +35,7 @@ ms.locfileid: "5781265"
 -->
 
 ## <a name="to-view-and-resolve-synchronization-errors-for-coupled-records"></a>Чтобы просмотреть и устранить ошибки синхронизации для связанных записей
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Ошибки синхронизации связанных данных**, затем выберите соответствующую ссылку.
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок , введите **Ошибки синхронизации связанных данных**, а затем выберите связанную ссылку.
 2. Страница **Ошибки синхронизации связанных данных** отображает проблемы, которые возникли при синхронизации связанных записей. В следующей таблице приведены действия, которые вы можете использовать для последовательного решения проблем:
 
 |Действие|Описание|

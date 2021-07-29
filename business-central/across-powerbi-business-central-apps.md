@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: account schedule, analysis, reporting, financial report, business intelligence, KPI
 ms.date: 04/01/2021
 ms.author: jswymer
-ms.openlocfilehash: 4b7da11bb8ec1198be9f1a86fccc29a62125d281
-ms.sourcegitcommit: c11ad91a389ed72532f5513654fdc7909b20aed9
+ms.openlocfilehash: f83186ec6f8c278bf0d0f8c83f74af70f78baaa6
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "5935315"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6440878"
 ---
 # <a name="using-the-prod_short-apps-in-power-bi"></a>Использование приложений [!INCLUDE [prod_short](includes/prod_short.md)] в Power BI
 
@@ -63,7 +63,7 @@ ms.locfileid: "5935315"
 1. Откройте браузер, перейдите по адресу [https://powerbi.microsoft.com](https://powerbi.microsoft.com) и войдите в свою учетную запись.
 2. Выберите **Получить данные** в нижней части левой панели навигации.  
 
-    ![Переход к разделу "Получить данные"](./media/across-how-to-connect-powerbi-d365-content-packs/powerbi-get-data.png)
+    ![Переход к разделу "Получить данные".](./media/across-how-to-connect-powerbi-d365-content-packs/powerbi-get-data.png)
 
     Можно также начать из [!INCLUDE [prod_short](includes/prod_short.md)]. Находясь на домашней странице, перейдите к пункту **Выбор отчета** в разделе Power BI. Выберите на ленте **Сервис** или **Моя организация**. Галерея организации в Power BI или Microsoft AppSource открывается, отфильтрованная, чтобы отображать только приложения, связанные с [!INCLUDE[prod_short](includes/prod_short.md)].
 
@@ -89,7 +89,7 @@ ms.locfileid: "5935315"
 5. При появлении запроса введите имя пользователя и пароль для входа в [!INCLUDE[prod_short](includes/prod_short.md)].
 6. После подключения панель мониторинга и отчеты добавляются в вашу рабочую область Power BI. По завершении плитки отображают данные из вашей организации [!INCLUDE[prod_short](includes/prod_short.md)].
 
-    ![Выберите Dynamics 365 Business Central и выберите "Получить сейчас"](./media/across-how-to-connect-powerbi-d365-content-packs/powerbi-workspace-dashboard-report-dataset.png)
+    ![Выберите Dynamics 365 Business Central и выберите "Получить сейчас".](./media/across-how-to-connect-powerbi-d365-content-packs/powerbi-workspace-dashboard-report-dataset.png)
 
 ## <a name="fixing-problems"></a>Устранение проблем
 

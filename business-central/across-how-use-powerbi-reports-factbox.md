@@ -1,6 +1,6 @@
 ---
-title: Отображение пользовательских отчетов Power BI для данных Business Central
-description: Можно использовать отчеты Power BI для сбора дополнительных сведений о данных в списках.
+title: Отображение пользовательских отчетов Power BI
+description: Можно использовать информационную панель Power BI для отображения отчетов Power BI и получить дополнительную аналитическую информацию о данных записей в ключевых списках.
 author: jswymer
 ms.service: dynamics365-business-central
 ms.topic: conceptual
@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: business intelligence, KPI, Odata, Power App, SOAP, analysis
-ms.date: 04/26/2021
+ms.date: 06/11/2021
 ms.author: jswymer
-ms.openlocfilehash: d2ce2588604ae676ba8b2cb73878a2d8dfd32b63
-ms.sourcegitcommit: 652e4b0e1a09bff265014d9f8eb3b038ab0db79e
+ms.openlocfilehash: b5858d3852eddc19501f0b3dc1c5f4071b07baee
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/21/2021
-ms.locfileid: "6087698"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6440928"
 ---
 # <a name="creating-power-bi-reports-for-displaying-list-data-in-prod_short"></a>Создание отчетов Power BI для отображения данных списка в [!INCLUDE[prod_short](includes/prod_short.md)]
 
@@ -53,7 +53,7 @@ For more information about getting started, see [Using [!INCLUDE[prod_short](inc
     2. Перетащите это поле в область **Фильтры** и поместите в поле **Фильтры на всех страницах**.
     3. Установите в параметре **Тип фильтра** значение **Простая фильтрация**. Это не может быть страничный, визуальный или расширенный фильтр.
 
-    ![Настройка фильтра отчета для отчета "Активность счетов продаж"](./media/across-how-use-powerbi-reports-factbox/financials-powerbi-report-filter-v3.png)
+    ![Настройка фильтра отчета для отчета "Активность счетов продаж".](./media/across-how-use-powerbi-reports-factbox/financials-powerbi-report-filter-v3.png)
 4. Разработайте макет отчета.
 
     Создайте макет, перетаскивая поля и добавляя визуализации. Дополнительные сведения см. в разделе [Работа с представлением отчета в Power BI Desktop](/power-bi/create-reports/desktop-report-view) в документации по Power BI.
@@ -86,7 +86,7 @@ For more information about getting started, see [Using [!INCLUDE[prod_short](inc
 
 Отчет должен иметь размер 325 х 310 пикселей. Этот размер обеспечивает правильное масштабирование отчета в доступном пространстве элемента управления информационной панелью Power BI в [!INCLUDE[prod_short](includes/prod_short.md)]. Чтобы определить размер отчета, поместите фокус вне области макета отчета, а затем щелкните значок валика.
 
-![Настройка ширины и высоты отчета для отчета "Активность счетов продаж"](./media/across-how-use-powerbi-reports-factbox/financials-powerbi-report-sizing-v3.png)
+![Настройка ширины и высоты отчета для отчета "Активность счетов продаж".](./media/across-how-use-powerbi-reports-factbox/financials-powerbi-report-sizing-v3.png)
 
 Можно изменить ширину и высоту отчета, выбрав значение **Пользовательский** в поле **Тип**.
 

@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: e2f05388149e9e6587f916db79b652e64ad5d02e
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: d506a6f1a5aa40a7dcc77bab66d5a13085d364c6
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5774843"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6442164"
 ---
 # <a name="delete-cost-budget-entries"></a>Удалить записи затрат бюджета
 Используйте пакетное задание **Удалить записи бюджета затрат** для отмены операций бюджета затрат из регистра бюджета затрат.  
@@ -24,7 +24,7 @@ ms.locfileid: "5774843"
 
 ### <a name="to-delete-a-cost-budget-entry"></a>Удаление записи бюджета затрат  
 
-1.  Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Удалить записи затрат бюджета**, затем выберите соответствующую ссылку.  
+1.  Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Удалить записи бюджета затрат**, а затем выберите соответствующую связь.  
 
     В поле **В журнал №** содержится номер последней операции регистра, и поле не может быть изменено.  
 

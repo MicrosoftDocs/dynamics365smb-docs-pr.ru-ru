@@ -8,12 +8,12 @@ ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 05915a12d3b3ff5389e64ae16cd878ca7f864e4a
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 8ca9cf002de780f9a841b8b164143ca34a190f16
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5779182"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6441031"
 ---
 # <a name="fixed-asset-inventory"></a>Инвентаризация основных средств
 
@@ -36,7 +36,7 @@ ms.locfileid: "5779182"
 
 Ниже показано, как создать список основных средств, подлежащих инвентаризации.
 
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Журналы ОС**, затем выберите соответствующую ссылку.
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../../media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Журналы ОС**, а затем выберите связанную ссылку.
 
 2. Выберите действие **Расчет ОС**. Откроется форма запроса отчета для создания инвентарных списков основных средств.
 

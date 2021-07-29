@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: b0abd3da4abd0b91b7541fb545606c569f98b987
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: d13bfaf069a10cb1ff92806dbceb46811a770fac
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5787856"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6441576"
 ---
 # <a name="post-scrap-manually"></a>Учет брака/отходов вручную
 Если в ходе обработки возникают отходы, их можно также ввести в журнал выхода. 
@@ -24,7 +24,7 @@ ms.locfileid: "5787856"
 > Добавление количества брака/отхода не увеличивает количество выхода.  
 
 ## <a name="to-post-scrap-manually"></a>Учет брака вручную  
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Журнал выхода продукции**, затем выберите соответствующую ссылку.  
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Журнал выхода продукции**, а затем выберите связанную ссылку.  
 2. Заполните соответствующим образом поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
 3. В поле **Кол-во брака/отхода** введите количество брака/отхода.  
 4. В поле **Код брака** введите код брака/отхода.  

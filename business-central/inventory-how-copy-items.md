@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: a1f3016900fab6e6c277dfa01e2d3a455bef8863
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: f32ed673905e155e3876b71e4607bf33448e5327
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5786002"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6441122"
 ---
 # <a name="copy-existing-items-to-create-new-items"></a>Копирование существующих товаров для создания новых товаров
 
@@ -23,7 +23,7 @@ ms.locfileid: "5786002"
 
 ## <a name="to-copy-an-existing-item-to-a-new-item"></a>Для копирования имеющегося товара в новый товар
 
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Товары**, затем выберите соответствующую ссылку.  
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Товары**, а затем выберите связанную ссылку.  
 2. Выберите товар, который необходимо скопировать, затем выберите действие **Копировать товар**.  
 
     Если вы не можете найти действие **Копировать товар**, выберите дополнительные параметры, а затем найдите его в **действия**, **функции**.  
