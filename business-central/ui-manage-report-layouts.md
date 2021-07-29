@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: customized report, document layout, logo, personalize
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 8c62a19a9dda2f9af72f03130c7b3cc5e00c1d41
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 2b3dcc5c40346f6bd63d431b3024d64bc5a0d434
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5776670"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6445951"
 ---
 # <a name="managing-report-and-document-layouts"></a>Управление макетами отчетов и документов
 Макет отчета контролирует содержимое и формат отчета, включая то, какие поля данных набора данных отчета отображаются в нем и как они упорядочены, а также стиль текста, изображения и т. д. В [!INCLUDE[prod_short](includes/prod_short.md)] можно изменить используемый в отчете макет, создать новый макет или изменить текущие макеты.
@@ -39,7 +39,7 @@ ms.locfileid: "5776670"
 ## <a name="word-report-layout-overview"></a>Обзор макета отчетов Word
 Макет отчета Word основан на документе Word (тип файла DOCX). Макеты отчетов Word позволяют разрабатывать макеты отчетов с помощью Microsoft Word 2013 или более поздней версии. Макет отчета Word определяет содержимое отчета, расположение элементов отчета и их внешний вид. Документ макета отчетов Word, как правило, использует таблицы для организации содержимого, клетки которых могут содержать поля данных, текст или изображения.
 
- ![Пример макета отчета Word для NAV](media/nav_wordreportlayout_edit_in_word_example.png "NAV_WordReportLayout_Edit_In_Word_Example")  
+ ![Пример макета отчета Word для NAV.](media/nav_wordreportlayout_edit_in_word_example.png "NAV_WordReportLayout_Edit_In_Word_Example")  
 
 ## <a name="rdlc-layout-overview"></a>Обзор макета RDLC
 Макеты RDLC основаны на клиентских макетах определения отчета (типы файла RDLC или RDL). Эти макеты создаются и изменяются с использованием конструктора отчетов SQL Server Report Builder. Дизайнерская концепция макетов RDLC схожа с макетами Word, где макет определяет общий формат отчета и включаемые в него поля из набора данных. Разработка макетов RDLC более сложная, чем макетов Word. Дополнительные сведения см. в разделе [Разработка макетов отчетов RDLC](/dynamics-nav/Designing-RDLC-Report-Layouts).

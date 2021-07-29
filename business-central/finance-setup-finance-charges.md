@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: payment due, debt, overdue, fee, charge
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 08a2443f94efbc9920145109b4b7499a3a4e05b3
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 36d841a7231794e1cfb61a928efbbf3f83bbdc27
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5783626"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6446269"
 ---
 # <a name="set-up-finance-charge-terms"></a>Настройка процентных ставок
 
@@ -41,7 +41,7 @@ ms.locfileid: "5783626"
 
 ### <a name="to-set-up-finance-charge-terms"></a>Настройка процентных ставок
 
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Процентные ставки**, затем выберите соответствующую ссылку.  
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Процентные ставки**, а затем выберите связанную ссылку.  
 2. Заполните соответствующим образом поля.
 3. Чтобы использовать более одного сочетания процентных ставок, настройте код для каждой из них.
 

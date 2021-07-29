@@ -1,6 +1,6 @@
 ---
 title: Использование профилей для классификации контактов
-description: Настройка анкет профилей для облегчения классификации бизнес-контактов
+description: Прочитайте о том, как настроить анкеты профиля, чтобы помочь классифицировать профили ваших деловых контактов.
 author: edupont04
 ms.service: dynamics365-business-central
 ms.topic: conceptual
@@ -9,13 +9,13 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: contacts, profiles
 ms.author: edupont
-ms.date: 04/01/2021
-ms.openlocfilehash: 31321ce4cafd17efc8a7732c81e874df1a1d763a
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.date: 06/22/2021
+ms.openlocfilehash: b71c63b8a02b2ddbf6f6135f30cba297dfcf418b
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5785502"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6445530"
 ---
 # <a name="use-profile-questionnaires-to-classify-business-contacts"></a>Использование анкет профилей для классификации бизнес-контактов
 Можно настроить анкеты профиля, которые будут использоваться при вводе информации о профиле контакта. В каждой анкете можно настроить разные вопросы, которые планируется задавать контактам.  
@@ -23,7 +23,7 @@ ms.locfileid: "5785502"
 Также можно указать, чтобы ответы на некоторые из этих вопросов заполнялись автоматически на основе данных о контакте, заказчике или поставщике.  
 
 ## <a name="to-add-a-profile-questionnaire"></a>Добавление анкеты профиля
-1.  Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка анкеты**, затем выберите соответствующую ссылку.  
+1.  Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Настройка анкеты**, а затем выберите связанную ссылку.  
 2.  Выберите действие **Создать**.  
 3.  Заполните соответствующим образом поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
 

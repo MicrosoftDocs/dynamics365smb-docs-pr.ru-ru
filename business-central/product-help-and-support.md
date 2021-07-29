@@ -1,18 +1,18 @@
 ---
-title: Справка и поддержка
+title: Ресурсы для справки и поддержки
 description: Ищите справку, инструкции, советы по устранению неполадок и помощь по продукту, а также узнайте, как получить техническую поддержку для Business Central.
 author: edupont04
 ms.reviewer: na
 ms.topic: conceptual
 ms.service: dynamics365-business-central
 ms.author: edupont
-ms.date: 04/09/2021
-ms.openlocfilehash: 8f3a5d39cfd9e28233055d902852151581e53e5e
-ms.sourcegitcommit: f9a190933eadf4608f591e2f1b04c69f1e5c0dc7
+ms.date: 07/09/2021
+ms.openlocfilehash: 44b354818d75de8e36abccca0de5b5189d2d4268
+ms.sourcegitcommit: a486aa1760519c380b8cdc8fdf614bed306b65ea
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/28/2021
-ms.locfileid: "6115415"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "6543074"
 ---
 # <a name="resources-for-help-and-support"></a>Ресурсы для справки и поддержки
 
@@ -71,11 +71,20 @@ ms.locfileid: "6115415"
 
 В разделе **Устранение неполадок** приводятся технические сведения, которые администратор или партнер [!INCLUDE[prod_short](includes/prod_short.md)] может использовать для разблокировки пользователей. Сюда входит информация о самом последнем сообщении об ошибке, текущей версии [!INCLUDE[prod_short](includes/prod_short.md)] и ссылка на страницу **Инспекция страницы**. Дополнительную информацию см. в разделе [Инспекция страниц в Business Central](across-inspect-page.md).  
 
-Как внутренний администратор вы имеете доступ к центру администрирования, где вы можете продолжить устранение неполадок. Вы можете просматривать телеметрию, управлять средами и управлять сеансами пользователя. Дополнительные сведения см. в [Поиск технической информации](/dynamics365/business-central/dev-itpro/administration/manage-technical-support#finding-technical-information) и [Управление средами](/dynamics365/business-central/dev-itpro/administration/tenant-admin-center-environments) в содержимом по администрированию.  
+Чтобы помочь вам или вашему партнеру по поддержке в устранении неполадок, вы можете включить сбор дополнительных данных в разделе **Сообщить о проблеме**. Затем вы можете проанализировать дополнительную телеметрию в центре администрирования или Application Insights, например.  
+
+Как внутренний администратор вы имеете доступ к центру администрирования, где вы можете продолжить устранение неполадок. Вы можете просматривать телеметрию, управлять средами и управлять сеансами пользователя. Для получения дополнительной информации прочитайте следующие статьи в документации по администрированию:
+
+- [Поиск технической информации](/dynamics365/business-central/dev-itpro/administration/manage-technical-support#finding-technical-information)  
+- [Управление средами](/dynamics365/business-central/dev-itpro/administration/tenant-admin-center-environments)  
+- [Мониторинг и анализ телеметрии](/dynamics365/business-central/dev-itpro/administration/telemetry-overview)  
+- [Разрешить отправку телеметрии в Application Insights](/dynamics365/business-central/dev-itpro/administration/telemetry-enable-application-insights)  
 
 ## <a name="report-a-problem"></a>Сообщить о проблеме
 
-Ваш партнер по распространению [!INCLUDE[prod_short](includes/prod_short.md)] будет предоставлять вам техническую поддержку. В этом разделе можно легко связаться с вашим партнером по распространению, если он предоставил свой адрес электронной почты службы поддержки. Если ваш партнер [!INCLUDE[prod_short](includes/prod_short.md)] не может разрешить проблему, он создаст билет поддержки в компании Майкрософт. Для получения дополнительной информации см. [Передача проблем с поддержкой в корпорацию Майкрософт](/dynamics365/business-central/dev-itpro/administration/manage-technical-support#escalating-support-issues-to-microsoft) в материалах для администраторов.  
+Ваш партнер по распространению [!INCLUDE[prod_short](includes/prod_short.md)] будет предоставлять вам техническую поддержку. В этом разделе можно легко связаться с вашим партнером по распространению, если он предоставил свой адрес электронной почты службы поддержки. Если ваш партнер [!INCLUDE[prod_short](includes/prod_short.md)] не может разрешить проблему, он создаст билет поддержки в компании Майкрософт.  
+
+Для получения дополнительной информации см. [Передача проблем с поддержкой в корпорацию Майкрософт](/dynamics365/business-central/dev-itpro/administration/manage-technical-support#escalating-support-issues-to-microsoft) в материалах для администраторов.  
 
 > [!NOTE]
 > Этот раздел доступен только при наличии оплаченной подписки [!INCLUDE[prod_short](includes/prod_short.md)]. Если в подписались на пробную версию и пока еще не приобрели [!INCLUDE[prod_short](includes/prod_short.md)], у вас нет продавца-партнера, и вы не можете связаться с группой поддержки компании Майкрософт. Вы можете найти партнера [!INCLUDE[prod_short](includes/prod_short.md)] на странице [Я ищу поставщика решений](https://go.microsoft.com/fwlink/?linkid=2038145). Для получения дополнительной информации см. раздел [Как найти партнера по перепродаже?](/dynamics365/business-central/across-faq#findpartner).  

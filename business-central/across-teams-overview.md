@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: Teams, MS Teams, Microsoft Teams, Skype, Link, Microsoft 365, collaborate, collaboration, teamwork
 ms.date: 04/12/2021
 ms.author: jswymer
-ms.openlocfilehash: 15a6f009095c2e20cf65d38503a7c737e64e7bb8
-ms.sourcegitcommit: 5a916b0aa0a2eef0c22b5722a0af041757e6d7c2
+ms.openlocfilehash: c1912cda437b16495e52120eb353830751b1c06a
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "6074691"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6446469"
 ---
 # <a name="business-central-and-microsoft-teams-integration"></a>Интеграция Business Central и Microsoft Teams
 
@@ -33,11 +33,11 @@ ms.locfileid: "6074691"
 
 Независимо от того, где вы находитесь в Teams, вы можете найти подробную информацию о клиентах, поставщиках и других контактах [!INCLUDE [prod_short](includes/prod_short.md)]. Эта функция не только позволяет просматривать общую информацию о контактах, но также дает доступ к истории взаимодействий, связанным документам и многому другому.
 
- [![Поиск контактов Business Central из командного поля Teams](media/teams-contacts-overview.png)](media/teams-contacts-overview.png#lightbox)
+ [![Поиск контактов Business Central из командного поля Teams.](media/teams-contacts-overview.png)](media/teams-contacts-overview.png#lightbox)
 
 Вы также можете поделиться данными контакта в беседе. Оттуда участники также получают доступ к более подробной информации о контакте.
 
- [![Поиск контактов Business Central из поля создания сообщения Teams](media/teams-contacts.png)](media/teams-contacts.png#lightbox)
+ [![Поиск контактов Business Central из поля создания сообщения Teams.](media/teams-contacts.png)](media/teams-contacts.png#lightbox)
 
 Дополнительные сведения см. в разделе [Поиск контактов из Microsoft Teams](across-search-contacts-teams.md).
 
@@ -45,7 +45,7 @@ ms.locfileid: "6074691"
 
 Скопируйте ссылку на любую запись Business Central и вставьте ее в беседу Teams, чтобы поделиться ею с коллегами. Приложение затем развернет ссылку в компактную интерактивную карточку, отображающую информацию о записи.
 
-[![Интеграция Teams с Business Central](media/teams-intro-v3.png)](media/teams-intro-v3.png#lightbox)
+[![Интеграция Teams с Business Central.](media/teams-intro-v3.png)](media/teams-intro-v3.png#lightbox)
 
 После разговора вы и ваши коллеги можете просматривать дополнительные сведения о записи, редактировать данные и принимать меры — не выходя из Teams.
 
@@ -68,6 +68,7 @@ ms.locfileid: "6074691"
 
 [Вопросы и ответы по Teams](teams-faq.md)  
 [Устранение неполадок Teams](admin-teams-troubleshooting.md)  
+[Изменение компании и других параметров в Teams](across-teams-settings.md)  
 [Разработка для интеграции Teams](/dynamics365/business-central/dev-itpro/developer/devenv-develop-for-teams)
   
 ## [!INCLUDE[prod_short](includes/free_trial_md.md)]  

@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: payment due, debt, overdue, fee, charge, reminder
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 06853911f5b2858fbde4ff5371971c86f2960543
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: ba76f1f48249de12af6dc99057a92ef6aaeef13a
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5783488"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6446244"
 ---
 # <a name="set-up-reminder-terms-and-levels"></a>Настройка условий и уровней напоминаний
 
@@ -30,7 +30,7 @@ ms.locfileid: "5783488"
 
 ### <a name="to-set-up-reminder-terms"></a>Настройка условий напоминания
 
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Условия напоминания**, затем выберите соответствующую ссылку.  
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Уровни напоминания**, а затем выберите связанную ссылку.  
 2. Заполните соответствующим образом поля. [!INCLUDE [tooltip-inline-tip_md](includes/tooltip-inline-tip_md.md)]  
 3. Чтобы использовать более одного сочетания условий напоминания, настройте код для каждого из них.
 
@@ -42,7 +42,7 @@ ms.locfileid: "5783488"
 
 ### <a name="to-set-up-reminder-levels"></a>Настройка уровней напоминания
 
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Условия напоминания**, затем выберите соответствующую ссылку.  
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Уровни напоминания**, а затем выберите связанную ссылку.  
 2. На странице **Условия напоминания** выберите строку с условиями, для которых требуется настроить уровни, после чего выберите действие **Уровни**.  
 3. Заполните соответствующим образом поля. [!INCLUDE [tooltip-inline-tip_md](includes/tooltip-inline-tip_md.md)]  
 

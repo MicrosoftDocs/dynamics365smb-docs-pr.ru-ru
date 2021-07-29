@@ -7,12 +7,12 @@ ms.topic: conceptual
 ms.search.keywords: accountant, accounting, financial report
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: acc1bf44ddf3886d57729fb28ba81c6e7580ce40
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 1757f1c02bb6623f59996d372f544f224b94237e
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5775189"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6445730"
 ---
 # <a name="manage-work-across-multiple-companies-in-the-company-hub"></a>Управление работой нескольких компаний в разделе организаций
 
@@ -30,7 +30,7 @@ ms.locfileid: "5775189"
 > [!TIP]
 > Чтобы получить доступ к конкретной компании в [!INCLUDE [prod_short](includes/prod_short.md)], выберите название компании или выберите пункт меню **Перейти к компании** — вы автоматически авторизуетесь в новой вкладке браузера.
 
-:::image type="content" source="media/company-hub-company-list-actions.png" alt-text="Действия для компании, которая указана в разделе организации":::
+:::image type="content" source="media/company-hub-company-list-actions.png" alt-text="Действия для компании, которая указана в разделе организации.":::
 
 Вы можете добавлять новые компании, например, когда у вас появляется новый клиент или когда ваша корпорация добавляет новую дочернюю компанию. Для получения дополнительной информации см. [Добавление компании в ваш раздел организации](company-hub-add-company.md).  
 

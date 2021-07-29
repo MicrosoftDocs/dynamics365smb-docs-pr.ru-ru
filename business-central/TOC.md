@@ -165,6 +165,7 @@
 #### [Настройка общих данных основных средств](fa-how-setup-general.md)
 #### [Настройка амортизации основных средств](fa-how-setup-depreciation.md)
 #### [Определение метода амортизации](fa-depreciation-methods.md)
+#### [Настройка пользовательских методов амортизации](fa-how-setup-user-defined-depreciation-method.md)
 #### [Настройка страхования основного средства](fa-how-setup-insurance.md)
 #### [Настройка обслуживания основного средства](fa-how-setup-maintenance.md)
 ### Настройка управления складом
@@ -265,10 +266,10 @@
 ##### Администратор
 ###### [Обзор интеграции](admin-powerbi-overview.md)
 ###### [Включение интеграции Power BI](admin-powerbi-setup.md)
-##### Конструктор
+##### Создатель отчета
 ###### [Приступая к созданию отчетов](across-how-use-financials-data-source-powerbi.md)
 ###### [Создание отчетов для отображения данных списка](across-how-use-powerbi-reports-factbox.md)
-##### Потребитель
+##### Бизнес-пользователь
 ###### [Работа с отчетами Power BI в Business Central](across-working-with-powerbi.md)
 ###### [Работа с данными Business Central в Power BI](across-working-with-business-central-in-powerbi.md)
 ###### [Использование приложений Business Central в Power BI](across-powerbi-business-central-apps.md)
@@ -449,6 +450,7 @@
 ### [Финансовые отчеты](finance-reports.md)
 ### Управление дебиторской задолженностью
 #### [Обзор дебиторской задолженности](receivables-manage-receivables.md)
+#### [Отчеты о дебиторской задолженности и аналитика](receivables-reports.md)
 #### Автоматическое применение платежей и выверка банковских счетов
 ##### [Обзор применения платежей](receivables-apply-payments-auto-reconcile-bank-accounts.md)
 ##### [Выверка платежей с использованием автоматического применения](receivables-how-reconcile-payments-auto-application.md)
@@ -466,6 +468,7 @@
 
 ### Управление кредиторской задолженностью
 #### [Обзор кредиторской задолженности](payables-manage-payables.md)
+#### [Отчеты о кредиторской задолженности и аналитика](payables-reports.md)
 #### Осуществление платежей
 ##### [Осуществление платежей](payables-make-payments.md)
 ##### [Работа с финансовыми журналами](ui-work-general-journals.md)
@@ -664,6 +667,7 @@
 
 ## Основные средства
 ### [Обзор основных средств](fa-manage.md)
+### [Отчеты и аналитика основных средств](fa-reports.md)
 ### [Приобрести основные средства](fa-how-acquire.md)
 ### [Обслуживание основных средств](fa-how-maintain.md)
 ### [Страхование основных средств](fa-how-insure.md)
@@ -893,15 +897,8 @@
 ##### [Настройка поставщиков для автоматических предложений по оплате](LocalFunctionality/Belgium/how-to-set-up-vendors-for-automatic-payment-suggestions.md)
 ##### [Создание шаблонов и разделов журнала платежей](LocalFunctionality/Belgium/how-to-create-payment-journal-templates-and-batches.md)
 ##### [Проверка электронных платежей](LocalFunctionality/Belgium/how-to-test-electronic-payments.md)
-##### [Печать файлов платежей](LocalFunctionality/Belgium/how-to-print-payment-files.md)
-##### [Активация платежей SEPA](LocalFunctionality/Belgium/how-to-activate-sepa-payments.md)
-##### [Подача заявок на платежи SEPA в валюте, отличной от евро](LocalFunctionality/Belgium/how-to-file-non-euro-sepa-payments.md)
+##### [Экспорт файлов платежей](LocalFunctionality/Belgium/how-to-print-payment-files.md)
 ##### [Прямое дебетование с помощью домицилирования](LocalFunctionality/Belgium/direct-debit-using-domiciliation.md)
-##### [Настройка домицилирований](LocalFunctionality/Belgium/how-to-set-up-domiciliations.md)
-##### [Изменение и удаление строк домицилирования](LocalFunctionality/Belgium/how-to-edit-and-delete-domiciliation-lines.md)
-##### [Проверка домицилирований](LocalFunctionality/Belgium/how-to-test-domiciliations.md)
-##### [Экспорт и учет домицилирований](LocalFunctionality/Belgium/how-to-export-and-post-domiciliations.md)
-##### [Формирование предложений домицилирования](LocalFunctionality/Belgium/how-to-generate-domiciliation-suggestions.md)
 ##### [Банковские выписки CODA](LocalFunctionality/Belgium/coda-bank-statements.md)
 ##### [Применение выписок CODA](LocalFunctionality/Belgium/how-to-apply-coda-statements.md)
 ##### [Автоматический перенос и учет выписок CODA](LocalFunctionality/Belgium/how-to-automatically-transfer-and-post-coda-statements.md)
@@ -1002,16 +999,14 @@
 ##### [Экспорт операций главной книги в XML-файл](LocalFunctionality/France/how-to-export-general-ledger-entries-to-an-xml-file.md)
 ##### [Требования для декларации отчетности по торговле товарами](LocalFunctionality/France/requirements-for-reporting-declaration-of-trade-in-goods.md)
 #### Банковские операции и платежи
+##### [Управление платежами](LocalFunctionality/France/payment-management.md)
 ##### [Настройка адресов платежей](LocalFunctionality/France/how-to-set-up-payment-addresses.md)
-##### [Настройка состояний платежей](LocalFunctionality/France/how-to-set-up-payment-statuses.md)
-##### [Настройка этапов платежей](LocalFunctionality/France/how-to-set-up-payment-steps.md)
 ##### [Настройка классов платежей](LocalFunctionality/France/how-to-set-up-payment-classes.md)
-##### [Архивирование платежных квитанций](LocalFunctionality/France/how-to-archive-payment-slips.md)
 ##### [Создание платежных квитанций](LocalFunctionality/France/how-to-create-payment-slips.md)
 ##### [Экспорт платежей](LocalFunctionality/France/how-to-export-payments.md)
-##### [Экспорт или импорт параметров настройки управления платежами](LocalFunctionality/France/how-to-export-or-import-payment-management-setup-parameters.md)
-##### [Управление платежами](LocalFunctionality/France/payment-management.md)
 ##### [Учет платежных квитанций](LocalFunctionality/France/how-to-post-payment-slips.md)
+##### [Архивирование платежных квитанций](LocalFunctionality/France/how-to-archive-payment-slips.md)
+##### [Экспорт или импорт параметров настройки управления платежами](LocalFunctionality/France/how-to-export-or-import-payment-management-setup-parameters.md)
 #### Основные финансы
 ##### [Главная книга](LocalFunctionality/France/general-ledger.md)
 ##### [Применение операций главной книги](LocalFunctionality/France/how-to-apply-general-ledger-entries.md)
@@ -1554,6 +1549,7 @@
 #### Общие
 ##### [Настройка предупреждения о дате учета](LocalFunctionality/UnitedKingdom/how-to-set-up-a-posting-date-warning.md)
 ##### [Ввод регламентных сведений](LocalFunctionality/UnitedKingdom/how-to-enter-statutory-information.md)
+##### [Отправка данных о предотвращении мошенничества](LocalFunctionality/UnitedKingdom/fraud-prevention-data.md)
 ##### [Расширение "Почтовые индексы Великобритании GetAddress.io"](LocalFunctionality/UnitedKingdom/ui-extensions-getaddressio.md)
 ##### [Настройка расширения "Почтовые индексы Великобритании GetAddress.io"](LocalFunctionality/UnitedKingdom/uk-setup-postal-code-service.md)
 
@@ -1577,7 +1573,7 @@
 ## Защита и безопасность
 ### [Обзор безопасности и защиты (только на английском языке)](/dynamics365/business-central/dev-itpro/security/security-and-protection?toc=/dynamics365/business-central/toc.json)
 ## Конфиденциальность
-### [Конфиденциальность (microsoft.com)](https://www.microsoft.com/en-us/trust-center/privacy)
+### [Конфиденциальность (microsoft.com)](https://www.microsoft.com/trust-center/privacy)
 ## Соответствие
 ### [Обзор соответствия](compliance/compliance-overview.md)
 ### [Соответствие приложений](compliance/compliance-application-compliance.md)

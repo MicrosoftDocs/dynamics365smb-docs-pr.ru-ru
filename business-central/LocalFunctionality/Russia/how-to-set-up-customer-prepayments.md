@@ -8,12 +8,12 @@ ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 47ea0c588388ea884e5b2f5fbea65e76f8edd628
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: b96bd22eb5ef7ca337a59ece94cbd09e3e229612
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5770988"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6446154"
 ---
 # <a name="set-up-customer-prepayments"></a>Настройка предоплат клиентов
 
@@ -21,7 +21,7 @@ ms.locfileid: "5770988"
 
 ## <a name="to-set-up-customer-prepayments"></a>Настройка предоплат клиентов
 
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка модуля "Продажи и дебитор. задолж."**, затем выберите соответствующую ссылку.
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../../media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Настройка модуля "Продажи и дебиторская задолженность"**, а затем выберите связанную ссылку.
 
 2. На экспресс-вкладке **Нумерация** убедитесь, что серия номеров **Серия номеров учт. счетов предопл.** совпадает с **Серия номеров учт. счетов**. Убедитесь также, что серия номеров для **Серия номеров учт. кр.-нот предопл.** совпадает с серией для **Серия номеров учт. кредит-нот**.
 

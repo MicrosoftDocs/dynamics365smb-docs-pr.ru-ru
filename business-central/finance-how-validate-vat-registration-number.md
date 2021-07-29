@@ -1,19 +1,19 @@
 ---
 title: Проверка номеров ИНН
-description: Позвольте Business Central проверять ИНН и другую информацию о компании для ваших контактов, клиентов и поставщиков на основе службы проверки номеров НДС VIES Европейского Союза.
+description: Позвольте Business Central проверять регистрационные номера НДС для ваших контактов, клиентов и поставщиков на основе службы проверки номеров НДС VIES ЕС.
 author: andregu
 ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.reviewer: edupont
 ms.search.keywords: VAT, posting, tax, value-added tax
-ms.date: 04/01/2021
+ms.date: 06/16/2021
 ms.author: andregu
-ms.openlocfilehash: 9e7c60e884ad65e209a2513d63c9434a90d9b449
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 093fec7b7d456f4145e8450d06f17f1aa78ad4c1
+ms.sourcegitcommit: a486aa1760519c380b8cdc8fdf614bed306b65ea
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5770295"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "6543226"
 ---
 # <a name="validate-vat-registration-numbers"></a>Проверка номеров ИНН
 
@@ -43,8 +43,6 @@ ms.locfileid: "5770295"
 > Вы несете ответственность за проверку достоверности данных. Иногда данные с ошибками возвращаются службой проверки ИНН VIES. Если проверка не удалась, подтвердите регистрационные номера ИНН на [веб-сайте](https://ec.europa.eu/taxation_customs/vies/), распечатайте результат или сохраните его в общем месте, затем добавьте ссылку на запись для вашего клиента, поставщика или контакта. Дополнительные сведения см. в разделе [Управление вложениями, ссылками и заметками в карточках и документах](ui-how-add-link-to-record.md).
 
 ## <a name="validation-templates"></a>Шаблоны проверки
-
-[!INCLUDE [2020rw_online_only](includes/2020rw_online_only.md)]
 
 Вы можете использовать службу VIES, чтобы проверить другую информацию о компании, такую как адрес, а также ИНН. На странице **Шаблоны проверки регистрационного номера НДС** создайте запись для каждой страны/региона, для которого вы хотите получить дополнительную проверку, а затем укажите информацию, которую вы хотите проверять автоматически.  
 

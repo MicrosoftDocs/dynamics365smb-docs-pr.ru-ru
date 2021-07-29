@@ -10,20 +10,20 @@ ms.workload: na
 ms.search.keywords: customize, personalize, personalization, hide columns, remove fields, move fields
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 8fd90f7bf90209496f67d52ab32a93cfdbaf803f
-ms.sourcegitcommit: 652e4b0e1a09bff265014d9f8eb3b038ab0db79e
+ms.openlocfilehash: 74fbbefaaf9ef62c1241032b09cdf1f40b1b4bd1
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/21/2021
-ms.locfileid: "6087648"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6445901"
 ---
 # <a name="why-a-page-is-locked-from-personalization"></a>Почему заблокирована персонализация страницы?
 
-Существует два условия, которые не позволяют персонализировать страницу. Страница может быть заперта (о чем свидетельствует значок ![Замок персонализации](media/personalization-lock-icon.png "Замок персонализации")) или заблокирована (о чем свидетельствует значок ![Персонализация заблокирована](media/personalization-blocked-icon.png "Персонализация заблокирована")).
+Существует два условия, которые не позволяют персонализировать страницу. Страница может быть заперта (о чем свидетельствует значок ![Замок персонализации](media/personalization-lock-icon.png "Замок персонализации")) или заблокирована (о чем свидетельствует ![Персонализация заблокирована.](media/personalization-blocked-icon.png "Персонализация заблокирована") значок).
 
 ## <a name="locked-from-personalizing"></a>Замок персонализации
 
-Если в баннере **Персонализация** открытой страницы имеется значок ![Замок персонализации](media/personalization-lock-icon.png "Замок персонализации"), это означает, что вы в настоящее время не можете вносить в эту страницу никакие дополнительные изменения, связанные с персонализацией.
+Если есть значок ![Персонализация заблокирована.](media/personalization-lock-icon.png "Замок персонализации") на панели **Персонализация** при открытой странице, это означает, что вы в настоящее время не можете делать никаких дополнительных изменений персонализации на странице.
 
 <!-- This is because we changed the way personalization works behind the scenes since the last time that you personalized the page. Unfortunately, the old way and new of doing things do not work together.
 
@@ -50,7 +50,7 @@ The page currently includes the last personalization changes that you made. If y
 
 Если в баннере **Персонализация** имеется значок ![Персонализация заблокирована](media/personalization-blocked-icon.png "Персонализация заблокирована"), это означает, что вам запрещена любая персонализация на этой странице.
 
-<!-- Only text is translated, so removing this image for non-English UX reasons.  ![Personalize blocked](media/personalization-blocked.png "Personalize lock") -->
+<!-- Only text is translated, so removing this image for non-English UX reasons.  ![Personalize blocked.](media/personalization-blocked.png "Personalize lock") -->
 
 Причина этого заключается в том, что ролевой центр или роль, которая в настоящее время связана с вашей учетной записью пользователя, изменяет эту страницу специально для вашей роли. Обратитесь за помощью к администратору. В качестве альтернативы попробуйте перейти к ролевому центру, который предусматривает ролевую настройку этой страницы. Дополнительные сведения см. в разделе [Изменение базовых настроек](ui-change-basic-settings.md).
 

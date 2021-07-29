@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: sales, crm, integration, sync, synchronize, table mapping
 ms.date: 04/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: 9c11e4f5acb0055b42a2d172f9a7deba75edfb08
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 185d0a1c55830f6e4ed979154744076d457b5724
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5779811"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6446394"
 ---
 # <a name="mapping-the-tables-and-fields-to-synchronize"></a>Сопоставление таблиц и полей для синхронизации
 [!INCLUDE[prod_short](includes/cc_data_platform_banner.md)]
@@ -68,7 +68,7 @@ ms.locfileid: "5779811"
 Если вы не хотите синхронизировать все строки для конкретной таблицы [!INCLUDE[prod_short](includes/cds_long_md.md)] или таблицы в [!INCLUDE[prod_short](includes/prod_short.md)], можно настроить фильтры для ограничения синхронизируемых данных. Можно установить фильтры на странице **Сопоставления таблиц интеграции**.  
 
 #### <a name="to-filter-records-or-rows-for-synchronization"></a>Фильтрация записей или строк для синхронизации  
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Сопоставления таблиц интеграции**, затем выберите соответствующую ссылку.
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Сопоставления таблиц интеграции**, а затем выберите связанную ссылку.
 
 2.  Для фильтрации записей [!INCLUDE[prod_short](includes/prod_short.md)] задайте значение в поле **Фильтр таблицы**.  
 
@@ -80,7 +80,7 @@ ms.locfileid: "5779811"
 Например, задание синхронизации "ПРОДАВЦЫ — Dynamics 365 Sales" использует сопоставление таблицы ПРОДАВЦЫ. Задание синхронизации копирует данные из пользователей в [!INCLUDE[prod_short](includes/cds_long_md.md)] в продавцов в [!INCLUDE[prod_short](includes/prod_short.md)]. Если сопоставление таблицы настроено для создания записей, для каждого пользователя в [!INCLUDE[prod_short](includes/cds_long_md.md)], который еще не связан с продавцом в [!INCLUDE[prod_short](includes/prod_short.md)], в [!INCLUDE[prod_short](includes/prod_short.md)] создается новая строка продавца.  
 
 #### <a name="to-create-new-records-during-synchronization"></a>Создание записей во время синхронизации  
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Сопоставления таблиц интеграции**, затем выберите соответствующую ссылку.
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Сопоставления таблиц интеграции**, а затем выберите связанную ссылку.
 
 2.  В операции сопоставления таблицы в списке удалите значение в поле **Синхр. только связанные записи**.  
 
@@ -96,7 +96,7 @@ ms.locfileid: "5779811"
 -   **CDSACCOUNT** создает и синхронизирует новую организацию в [!INCLUDE[prod_short](includes/cds_long_md.md)] на основе организации в [!INCLUDE[prod_short](includes/prod_short.md)].  
 
 #### <a name="to-specify-configuration-templates-on-a-table-mapping"></a>Указание шаблонов конфигурации для сопоставления таблицы  
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Сопоставления таблиц интеграции**, затем выберите соответствующую ссылку.
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Сопоставления таблиц интеграции**, а затем выберите связанную ссылку.
 
 2.  В операции сопоставления таблицы в списке в поле **Код шаблона конфигурации таблиц** выберите шаблон конфигурации для использования для новых записей в [!INCLUDE[prod_short](includes/prod_short.md)].  
 

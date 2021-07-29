@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: tasks, work
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 71e9c93eede8b39561dc78ff61732273003ce8de
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 6c1e9a1e296abab8a77e47564eb70e97bfa7d57e
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5786986"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6446419"
 ---
 # <a name="define-user-tasks"></a>Определение задач пользователя
 
@@ -27,7 +27,7 @@ ms.locfileid: "5786986"
 
 Например, можно создать задачу для себя или коллеги, чтобы просмотреть все учтенные счета продажи. В этом случае вы связываете задачу со страницей 143, **Учтенные счета продаж**. На следующем снимке экрана кто-то создает задачу для MeganB, чтобы просмотреть опубликованные счета-фактуры продажи.  
 
-:::image type="content" source="media/across-user-tasks/sample-user-task.png" alt-text="Пример задачи пользователя":::
+:::image type="content" source="media/across-user-tasks/sample-user-task.png" alt-text="Пример задачи пользователя.":::
 
 > [!TIP]  
 > Используйте поиск в поле **Страница**, затем используйте поле **Поиск** для поиска требуемой страницы.  

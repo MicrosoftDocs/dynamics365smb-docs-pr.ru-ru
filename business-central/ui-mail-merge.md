@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: document, mail, merge, Word, template, email
 ms.date: 04/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: d29e29eca7dfc24ded51aed994ac7003fb4d30ab
-ms.sourcegitcommit: 6bce51954f17b80491e180f25d67ff18b1618a88
+ms.openlocfilehash: 84b6a9fa74cea99f8b939edcf0cd883e39eb6937
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/27/2021
-ms.locfileid: "6110958"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6445976"
 ---
 # <a name="using-word-templates-for-bulk-communication"></a>Использование шаблонов Word для массовых сообщений
 Шаблоны Microsoft Word могут упростить массовые сообщения с такими сущностями, как клиенты и поставщики. Например, вы можете создавать буклеты для оповещения клиентов о кампании распродаж, письма для информирования поставщиков о новой политике закупок или приглашения для привлечения контактов на предстоящее мероприятие.
@@ -38,7 +38,7 @@ ms.locfileid: "6110958"
 Когда ваш шаблон Word будет готов, на странице **Шаблоны Word** вы можете выбрать **Применить** для создания документов. Вы можете создать один документ, содержащий разделы для каждой сущности, или разделить операцию, чтобы создать новый документ для каждой сущности.
 
 ## <a name="to-create-a-word-template"></a>Чтобы создать шаблон Word
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Шаблоны Word**, затем выберите соответствующую ссылку.
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Шаблоны Word**, а затем выберите связанную ссылку.
 2. Выполните шаги в мастере настройки. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 
 ## <a name="see-also"></a>См. также

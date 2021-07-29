@@ -12,18 +12,18 @@ ms.workload: na
 ms.search.keywords: relationship, prospect
 ms.date: 04/01/2021
 ms.author: jswymer
-ms.openlocfilehash: a6a8b12623f12cdc590114dd36ff10c399e38a99
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: ddddcfa3439fe917a930a0a6cbd3605a273c540f
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5780686"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6445605"
 ---
 # <a name="create-segments"></a>Создание сегментов
 Для выбора группы контактов можно создать сегменты, например, если требуется создать взаимодействие, в которое вовлечены несколько контактов, таких как прямая почтовая рассылка.
 
 ## <a name="to-create-a-segment"></a>Создание сегмента
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Сегменты**, затем выберите соответствующую ссылку.
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Сегменты**, а затем выберите связанную ссылку.
 2. Выберите действие **Создать**.
 3. В разделе **Общее** в поле **Номер** введите номер сегмента.
 
