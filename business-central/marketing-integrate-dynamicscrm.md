@@ -11,12 +11,12 @@ ms.workload: na
 ms.search.keywords: integration, synchronize, map, Sales
 ms.date: 04/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: f7e4e4c98a334fcd38d488f721eb99e6edcd77c1
-ms.sourcegitcommit: 08ca5798cf3f04fc3ea38fff40c1860196a70adf
+ms.openlocfilehash: 709624fb0794102012c7db02cf0cfe0bac943d6a
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "5985366"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6444874"
 ---
 # <a name="using-dynamics-365-sales-from-business-central"></a>Использование Dynamics 365 Sales из Business Central
 Если вы используете Dynamics 365 Sales для взаимодействия с клиентами, вы получаете в свое распоряжение бесшовную интеграцию процесса от интереса до получения денег, используя [!INCLUDE[prod_short](includes/prod_short.md)] для внутренних действий, таких как обработка заказов, управление запасами и работа с финансами.
@@ -115,7 +115,7 @@ ms.locfileid: "5985366"
     1. Свяжите товары, цены на которые установлены ценовой группой клиента.
     2. На странице **Ценовые группы клиентов** свяжите ценовую группу клиента, выбрав **Связанный**, затем **Dynamics 365 Sales**, **Связывание**, а потом **Настроить связывание**. Связывание создаст активный прайс-лист в [!INCLUDE[prod_short](includes/prod_short.md)] с тем же именем, что и ценовая группа клиента в [!INCLUDE[crm_md](includes/crm_md.md)], и автоматически синхронизирует все товары, для которых ценовая группа клиента определяет цену.
 
-:::image type="content" source="media/customer-price-group.png" alt-text="Страница ценовой группы клиента":::
+:::image type="content" source="media/customer-price-group.png" alt-text="Страница ценовой группы клиента.":::
 
 #### <a name="new-experience"></a>[Новая версия](#tab/new-experience/)  
 
@@ -131,7 +131,7 @@ ms.locfileid: "5985366"
 
 Для синхронизации прайс-листов на странице **Прайс-лист продаж** выберите **Связанный**, **Dynamics 365 Sales**, **Связывание**, а потом **Настроить связывание**. 
 
-:::image type="content" source="media/sales-price-list.png" alt-text="Страница прайс-листа продаж":::
+:::image type="content" source="media/sales-price-list.png" alt-text="Страница прайс-листа продаж.":::
 
 ---
 

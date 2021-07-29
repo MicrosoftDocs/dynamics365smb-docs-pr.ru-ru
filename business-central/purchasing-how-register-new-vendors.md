@@ -1,6 +1,6 @@
 ---
-title: Создание карточки поставщика для регистрации нового поставщика | Документация Майкрософт
-description: Узнайте. как создать карточку поставщика для регистрации нового поставщика.
+title: Создание карточки поставщика для регистрации нового поставщика
+description: В этом разделе вы узнаете, как создать карточку поставщика, чтобы зарегистрировать нового поставщика и сохранить карточки поставщиков в качестве шаблона.
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: conceptual
@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: supplier
-ms.date: 04/01/2021
+ms.date: 06/23/2021
 ms.author: edupont
-ms.openlocfilehash: f1028b91101f8faa38d4d4d5d2695ee498ff6d2e
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 2d4943415af6f5cd91ac35c68a9d8433e024b6be
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5772658"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6445380"
 ---
 # <a name="register-new-vendors"></a>Регистрация новых поставщиков
 
@@ -40,7 +40,7 @@ ms.locfileid: "5772658"
 
 ### <a name="to-create-a-new-vendor-card"></a>Создание новой карточки поставщика
 
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Поставщики**, затем выберите соответствующую ссылку.  
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Поставщики**, а затем выберите связанную ссылку.  
 2. На странице **Поставщики** выберите **Создать**.
 
     Если существует несколько шаблонов поставщиков, будет открыта страница, на которой можно будет выбрать шаблон поставщика. В этом случае выполните следующие два действия.

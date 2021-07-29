@@ -1,6 +1,6 @@
 ---
-title: Практическое руководство. Добавление полей в макет отчета Word | Документация Майкрософт
-description: Описывается процедура добавления полей набора данных отчета в существующий макет отчета Word для отчета.
+title: Как добавлять поля в макет отчета Word
+description: В этой теме описывается процедура добавления полей набора данных отчета в существующий макет отчета Word для отчета.
 author: jswymer
 ms.service: dynamics365-business-central
 ms.topic: conceptual
@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2021
+ms.date: 06/24/2021
 ms.author: jswymer
-ms.openlocfilehash: 52cfb4ba4ca0ba645ecca48e08d63722c2c5c5b4
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 87b7bc409c313203e6d24172e60b3f92d1af9bd2
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5771114"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6444799"
 ---
 # <a name="add-fields-to-a-word-report-layout"></a>Добавление полей в макет отчета Word
 Набор данных отчета может состоять из полей, отображающих метки, данные и изображения. В этом разделе описывается процедура добавления полей набора данных отчета в существующий макет отчета Word для отчета. Поля добавляются с использованием пользовательской части XML в Word для отчета и путем добавления элементов управления содержимым, сопоставляемых полям в наборе данных отчета. Добавление полей требует определенных знаний набора данных отчета, чтобы можно было идентифицировать поля, которые требуется добавить в макет.  
@@ -111,7 +111,7 @@ ms.locfileid: "5771114"
   
  На приведенном ниже рисунке изображена простая пользовательская XML-часть из предыдущего раздела в области **Сопоставление XML** документа Word.  
   
- ![Фрагмент области "Сопоставление XML" в Word](media/nav_reportlayout_xmlmappingpane.png "NAV_ReportLayout_XMLMappingPane")  
+ ![Фрагмент области "Сопоставление XML" в Word.](media/nav_reportlayout_xmlmappingpane.png "NAV_ReportLayout_XMLMappingPane")  
   
 -   Для добавления метки или поля в макет вставьте элемент управления содержимым, соответствующий элементу в области **Сопоставление XML**.  
   

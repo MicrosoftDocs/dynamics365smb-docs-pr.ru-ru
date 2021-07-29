@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: design, item, tracking, tracing
 ms.date: 06/08/2021
 ms.author: edupont
-ms.openlocfilehash: 5bb97f1c26ca9264718a96a9f2f7803e248927b3
-ms.sourcegitcommit: 0953171d39e1232a7c126142d68cac858234a20e
+ms.openlocfilehash: 992673cd800d7ee720e86050004c2d38796ee529
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "6214982"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6445024"
 ---
 # <a name="design-details-item-tracking-design"></a>Сведения о проектировании: разработка трассировки товара
 
@@ -27,7 +27,7 @@ ms.locfileid: "6214982"
 
 На следующей схеме показана конструкция функций трассировки товаров в [!INCLUDE[prod_short](includes/prod_short.md)].  
 
-![Пример потока отслеживания товара](media/design_details_item_tracking_design.png "Пример потока отслеживания товара")  
+![Пример потока отслеживания товара.](media/design_details_item_tracking_design.png "Пример потока отслеживания товара")  
 
 Центральный объект учета изменяется для обработки уникальной подклассификации строки документа в форме серийных номеров или номеров партий, а специальные таблицы отношений добавляются для создания связей типа "один ко многим" между учтенными документами и их разделенными операциями товарного журнала и журнальными операциями стоимости.  
 

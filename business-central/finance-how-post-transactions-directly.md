@@ -1,6 +1,6 @@
 ---
-title: Запись расходов или доходов непосредственно в ГК | Документация Майкрософт
-description: Для бизнес-операций, которые не представлены документами, например небольшими расходами или наличными поступлениями, можно создавать соответствующие транзакции путем учета строк журналов на странице финансового журнала.
+title: Запись расходов или доходов непосредственно в ГК
+description: Для бизнес-операций, которые не представлены документами, можно создавать соответствующие транзакции путем учета строк журналов на странице финансового журнала.
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: conceptual
@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: direct posting, general ledger
-ms.date: 04/01/2021
+ms.date: 06/16/2021
 ms.author: edupont
-ms.openlocfilehash: e0beff15352fb8e57f57c9d0ffdcd76bc28afbb9
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: b27406f2020b95bc5dd9bc8771b9d632aa6c740f
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5782383"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6444541"
 ---
 # <a name="post-transactions-directly-to-the-general-ledger"></a>Учет транзакций непосредственно в главной книге
 
@@ -29,7 +29,7 @@ ms.locfileid: "5782383"
 
 ## <a name="to-post-a-transaction-directly-to-a-general-ledger-account"></a>Учет транзакции непосредственно на счете главной книге
 
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Финансовые журналы**, затем выберите соответствующую ссылку.
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Финансовые журналы**, а затем выберите связанную ссылку.
 2. Откройте соответствующий раздел финансового журнала. Дополнительные сведения см. в разделе [Работа с финансовыми журналами](ui-work-general-journals.md).
 3. На новой строке журнала заполните поля, как требуется. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]    
 
