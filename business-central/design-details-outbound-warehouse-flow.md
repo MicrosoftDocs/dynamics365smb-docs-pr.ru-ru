@@ -1,6 +1,6 @@
 ---
-title: Сведения о проектировании — исходящий складской поток | Документация Майкрософт
-description: Исходящий поток на складе начинается с запроса из документов-источников выпуска о необходимости переместить товары со склада — отправить третьей стороне или на другой склад. Из зоны хранения складские операции выполняются на разных уровнях сложности для перемещения товаров в зоны отгрузки.
+title: 'Сведения о проектировании: исходящий складской поток'
+description: В этой теме рассказывается о последовательности исходящего складского потока от выпущенных исходных документов до товаров, готовых к отгрузке.
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: conceptual
@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2021
+ms.date: 06/15/2021
 ms.author: edupont
-ms.openlocfilehash: 7e748719454bfbdcbacd9cf53a535ed1e38147bc
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 985ef683426c2de2e917b3c3f8d860115d462d83
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5777777"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6442389"
 ---
 # <a name="design-details-outbound-warehouse-flow"></a>Сведения о проектировании: исходящий складской поток
 
@@ -54,7 +54,7 @@ ms.locfileid: "5777777"
 
  На следующей схеме показаны исходящие складские потоки по типам документов в базовых конфигурациях склада. Номер на схеме соответствует шагам в разделах после схемы.  
 
- ![Исходящий поток в базовых конфигурациях склада](media/design_details_warehouse_management_outbound_basic_flow.png "Исходящий поток в базовых конфигурациях склада")  
+ ![Исходящий поток в базовых конфигурациях склада.](media/design_details_warehouse_management_outbound_basic_flow.png "Исходящий поток в базовых конфигурациях склада")  
 
 ### <a name="1-release-source-document--create-inventory-pick-or-movement"></a>1. Выпуск документа-источника / Создание подбора запасов или перемещение
 
@@ -81,7 +81,7 @@ ms.locfileid: "5777777"
 
  На следующей схеме показан исходящий складской поток по типу документов в расширенных конфигурациях склада. Номер на схеме соответствует шагам в разделах после схемы.  
 
- ![Исходящий поток в расширенных конфигурациях склада](media/design_details_warehouse_management_outbound_advanced_flow.png "Исходящий поток в расширенных конфигурациях склада")  
+ ![Исходящий поток в расширенных конфигурациях склада.](media/design_details_warehouse_management_outbound_advanced_flow.png "Исходящий поток в расширенных конфигурациях склада")  
 
 ### <a name="1-release-source-document"></a>1. Выпуск документа-источника
 

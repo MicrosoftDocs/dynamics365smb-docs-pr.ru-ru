@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: bill, sale, invoice, order
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: d0a48037123dee4a7c9282432cc2b357b335e794
-ms.sourcegitcommit: f9a190933eadf4608f591e2f1b04c69f1e5c0dc7
+ms.openlocfilehash: 4cd53cab788f5ee9a7f32f697faa35e8cd2638ae
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/28/2021
-ms.locfileid: "6115569"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6443361"
 ---
 # <a name="invoice-sales"></a>Выставление счетов продажи
 
@@ -41,7 +41,7 @@ ms.locfileid: "6115569"
 
 ### <a name="to-create-a-sales-invoice"></a>Создание счета продажи
 
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Счета продажи**, затем выберите соответствующую ссылку.  
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Счета продажи**, а затем выберите связанную ссылку.  
 2. В поле **Клиент** введите название существующего клиента.
 
    Остальные поля на странице **Счет продажи** содержат стандартные сведения о выбранном клиенте. Если клиент не зарегистрирован, выполните следующие действия:

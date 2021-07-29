@@ -8,12 +8,12 @@ ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 19ea5178d0f0328cd21f88bad48790fe07cd5880
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 1ab1bdc040a08c3e45bea071f1825bca22fcb48c
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5782183"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6443549"
 ---
 # <a name="define-an-account-schedule-extension"></a>Определение расширения финансового отчета
 
@@ -21,7 +21,7 @@ ms.locfileid: "5782183"
 
 ## <a name="to-define-an-account-schedule-extension"></a>Определение расширения финансового отчета
 
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Финансовый отчет**, затем выберите соответствующую ссылку.
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../../media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Финансовый отчет**, а затем выберите связанную ссылку.
 2. Выберите финансовый отчет, для которого необходимо определить расширение.
 3. Выберите **Изменение финансового отчета**.
 4. В поле **Номер строки** выберите номер строки финансового отчета, для которого необходимо определить расширение.

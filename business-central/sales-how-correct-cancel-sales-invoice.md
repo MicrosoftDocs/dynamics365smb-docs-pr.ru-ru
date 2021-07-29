@@ -1,6 +1,6 @@
 ---
 title: Исправление или отмена учтенного счета продажи
-description: Описывается, как исправить или отменить учтенный счет продажи и применить кредит-ноту продажи.
+description: В этой теме описывается, как исправить или отменить учтенный счет продажи и применить кредит-ноту продажи.
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: conceptual
@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: undo, credit memo, return
-ms.date: 04/01/2021
+ms.date: 06/23/2021
 ms.author: edupont
-ms.openlocfilehash: 0d6e05a52cb4028087e4c52c56fb9d2f5ab78795
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 4656e99f1227668cdf784ab950d38462da6f6c1c
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5778852"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6443436"
 ---
 # <a name="correct-or-cancel-unpaid-sales-invoices"></a>Исправление или отмена неоплаченных счетов продажи
 
@@ -38,7 +38,7 @@ ms.locfileid: "5778852"
 
 ## <a name="to-cancel-a-posted-sales-invoice"></a>Отмена учтенного счета продажи
 
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Учтенные счета продаж**, затем выберите соответствующую ссылку.  
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Учтенные счета продажи**, а затем выберите связанную ссылку.  
 2. Выберите учтенный счет продажи, который требуется отменить.
 
     > [!NOTE]  
@@ -54,7 +54,7 @@ ms.locfileid: "5778852"
 
 ## <a name="to-correct-a-posted-sales-invoice"></a>Коррекция учтенного счета продажи
 
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Учтенные счета продаж**, затем выберите соответствующую ссылку.  
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Учтенные счета продажи**, а затем выберите связанную ссылку.  
 2. Выберите учтенный счет продажи, который требуется откорректировать.
 
     > [!NOTE]  

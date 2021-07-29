@@ -8,12 +8,12 @@ ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 56511dff631ef1e1f309745fe26c0ec61660a3d2
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 27c362a436aad848d15760a7c3a84f50890be4e4
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5784637"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6443516"
 ---
 # <a name="post-tax-differences"></a>Учет налоговых разниц
 
@@ -23,7 +23,7 @@ ms.locfileid: "5784637"
 
 ## <a name="to-post-tax-differences"></a>Учет налоговых разниц
 
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Журналы налоговых разниц**, затем выберите соответствующую ссылку.
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../../media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Журналы налоговых разниц**, а затем выберите связанную ссылку.
 
 2. Введите значения в поля, как описано в следующей таблице.
 

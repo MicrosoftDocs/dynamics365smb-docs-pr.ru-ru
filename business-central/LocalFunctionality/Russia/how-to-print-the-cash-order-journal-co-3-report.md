@@ -8,12 +8,12 @@ ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 32d97b87fc260333fd46e0c8bb958fca3c34b49c
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: a426b54bbf5c42d072d301409da497321a7d25ca
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5775713"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6442647"
 ---
 # <a name="print-the-cash-order-journal-co-3-report"></a>Печать отчета "Журнал регистрации кассовых документов КО-3"
 
@@ -23,7 +23,7 @@ ms.locfileid: "5775713"
 
 ## <a name="to-print-the-cash-order-journal-co-3-report"></a>Печать отчета "Журнал регистрации кассовых документов КО-3"
 
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Журнал регистрации кассовых документов КО-3**, затем выберите соответствующую ссылку.
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../../media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Журнал регистрации кассовых документов КО-3**, а затем выберите связанную ссылку.
 
 2. В окне **Журнал регистрации кассовых документов КО-3** заполните поля.
 

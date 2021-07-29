@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: Teams, MS Teams, Microsoft Teams, Skype, Link, Microsoft 365, collaborate, collaboration, teamwork, share records
 ms.date: 05/19/2021
 ms.author: jswymer
-ms.openlocfilehash: 8add662badbc0d791d6a37d0feb4e3a756519f00
-ms.sourcegitcommit: 5a916b0aa0a2eef0c22b5722a0af041757e6d7c2
+ms.openlocfilehash: fb134ce04cb6b53f2432f0f371d7ca82411f0cee
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "6074591"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6444022"
 ---
 # <a name="sharing-business-central-records-in-microsoft-teams"></a>Совместное использование записей Business Central в Microsoft Teams
 
@@ -30,7 +30,7 @@ ms.locfileid: "6074591"
 - Скопируйте ссылку на любую запись Business Central и вставьте ее в беседу Teams, чтобы поделиться ею с коллегами. Приложение затем развернет ссылку в компактную интерактивную карточку, отображающую информацию о записи.
 - После разговора вы и ваши коллеги можете просматривать дополнительные сведения о записи, редактировать данные и принимать меры &mdash; не выходя из Teams.
 
-[![Интеграция Teams с Business Central](media/teams-intro-v3.png)](media/teams-intro-v3.png#lightbox)
+[![Интеграция Teams с Business Central.](media/teams-intro-v3.png)](media/teams-intro-v3.png#lightbox)
 
 ## <a name="prerequisites"></a>Предварительные требования
 
@@ -49,13 +49,13 @@ ms.locfileid: "6074591"
 
 3. Скопируйте весь URL-адрес из адресной строки браузера.
 
-   ![Скопируйте URL-адрес Business Central из браузера](media/teams-url-v2.png)
+   ![Скопируйте URL-адрес Business Central из браузера.](media/teams-url-v2.png)
 4. Перейдите в Teams и начните разговор, который может быть чатом с человеком, группой людей или групповым каналом.
 
     <!--Teams imposes a few limitations here eg. you cannot unfurl a link during a Voice/Video call :/ We should probably only mention this in a Troubleshooting section (and i hope it will also be fixed soon)-->
 5. Вставьте URL-адрес в поле сообщение, в которое вы составляете сообщение.
 
-   ![Вставьте URL-адрес Business Central в Teams](media/teams-paste-url-v2.png)
+   ![Вставьте URL-адрес Business Central в Teams.](media/teams-paste-url-v2.png)
 6. Когда вы впервые вставите ссылку в беседу, вам будет предложено войти в [!INCLUDE [prod_short](includes/prod_short.md)] и дать согласие на получение данных приложением. Просто следуйте инструкциям на экране.
 
     > [!NOTE]
@@ -90,6 +90,8 @@ ms.locfileid: "6074591"
 [Обзор интеграции Business Central и Microsoft Teams](across-teams-overview.md)  
 [Установка приложения [!INCLUDE [prod_short](includes/prod_short.md)] для Microsoft Teams](across-install-app-for-teams.md)  
 [Вопросы и ответы по Teams](teams-faq.md)  
+[Поиск клиентов, поставщиков и других контактов из Microsoft Teams](across-search-contacts-teams.md)  
+[Изменение компании и других параметров в Teams](across-teams-settings.md)  
 [Устранение неполадок Teams](admin-teams-troubleshooting.md)  
 [Разработка для интеграции Teams](/dynamics365/business-central/dev-itpro/developer/devenv-develop-for-teams)  
 

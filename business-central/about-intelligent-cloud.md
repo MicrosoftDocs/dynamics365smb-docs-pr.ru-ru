@@ -11,12 +11,12 @@ ms.reviewer: edupont
 ms. search.keywords: cloud, migrate, insights
 ms.date: 04/12/2021
 ms.author: edupont
-ms.openlocfilehash: b64b1ad037743364b7bd0f4544dbcdb351e2daba
-ms.sourcegitcommit: 951d3c9d541f0b1d26712d37e253c2958dae3321
+ms.openlocfilehash: d98f876648f642484fe44e91da14120265e9a451
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "5889259"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6442614"
 ---
 # <a name="intelligent-insights-in-prod_short-online"></a>Интеллектуальная аналитика в [!INCLUDE[prod_short](includes/prod_short.md)] Online
 
@@ -36,7 +36,7 @@ ms.locfileid: "5889259"
 Рядом с диаграммами ключевых показателей эффективности можно получить анализ потенциальных проблемных областей, включая просроченные платежи. Выберите каждый анализ для детального просмотра данных.  
 
 > [!div class="mx-imgBorder"]
-> ![Аналитика в интеллектуальном облаке](media/across-intelligent-cloud/intelligentcloudApril19.png "Отображает страницу аналитики в интеллектуальном облаке в Business Central Online")
+> ![Аналитика в интеллектуальном облаке.](media/across-intelligent-cloud/intelligentcloudApril19.png "Отображает страницу аналитики в интеллектуальном облаке в Business Central Online")
 
 Эта страница также подключается к Power BI для дополнительного анализа. При желании подключитесь к ИИ Azure AI для получения еще более интеллектуальной аналитической информации. Дополнительные сведения см. в разделе [Расширение прогноза продаж и запасов](ui-extensions-sales-forecast.md).  
 

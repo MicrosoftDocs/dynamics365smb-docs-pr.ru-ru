@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: electronic document, e-invoice, incoming document, OCR, ecommerce, document exchange, import invoice
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: fd35c0af4d2b66f99c0a4a3a65f77826cd9af806
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 313de95353fc42b222fa95cd36d320881a7fbdb8
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5775926"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6442589"
 ---
 # <a name="set-up-incoming-documents"></a>Настройка входящих документов
 
@@ -29,7 +29,7 @@ ms.locfileid: "5775926"
 
 ## <a name="to-set-up-the-incoming-documents-feature"></a>Настройка возможности входящих документов
 
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка входящих документов**, затем выберите соответствующую ссылку.
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Настройка входящих документов**, а затем выберите связанную ссылку.
 2. Заполните соответствующим образом поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 
 В рамках настройки вы должны решить, хотите ли вы требовать утверждения входящих документов. Чтобы требовать утверждения, вы должны настроить утверждающих и рабочие процессы утверждения. Если ваша организация не намерена требовать утверждения, вы можете пропустить следующий раздел.  
@@ -44,7 +44,7 @@ ms.locfileid: "5775926"
 
 ## <a name="to-set-up-an-ocr-service"></a>Настройка службы распознавания
 
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка OCR**, затем выберите соответствующую ссылку.
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Настройка OCR**, а затем выберите связанную ссылку.
 2. Заполните соответствующим образом поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 
 > [!NOTE]  

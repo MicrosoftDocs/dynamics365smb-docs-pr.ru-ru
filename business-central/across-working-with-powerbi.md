@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: account schedule, analysis, reporting, financial report, business intelligence, KPI
 ms.date: 04/01/2021
 ms.author: jswymer
-ms.openlocfilehash: 7f2e2fe9719d25e13a33cf1943e7a054a70edffd
-ms.sourcegitcommit: c11ad91a389ed72532f5513654fdc7909b20aed9
+ms.openlocfilehash: dcd316d7d1d360733ff15b67cc5a293576812611
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "5935365"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6444047"
 ---
 # <a name="working-with-power-bi-reports-in-prod_short"></a>Работа с отчетами Power BI в [!INCLUDE [prod_short](includes/prod_short.md)]
 
@@ -27,7 +27,7 @@ ms.locfileid: "5935365"
 
 [!INCLUDE [prod_short](includes/prod_short.md)] работает вместе со службой Power BI. Отчеты для отображения в [!INCLUDE [prod_short](includes/prod_short.md)] хранятся в службе Power BI. В [!INCLUDE [prod_short](includes/prod_short.md)] вы можете переключить отчет, отображаемый в части Power BI, на любой отчет Power BI, который доступен в вашей службе Power BI. При первом входе в [!INCLUDE [prod_short](includes/prod_short.md)] и пока вы не подключитесь к службе Power BI части будут пустыми, как показано здесь:
 
-![Часть Power BI в Business Central](./media/power-bi-part.png)
+![Часть Power BI в Business Central.](./media/power-bi-part.png)
 
 ## <a name="get-started"></a>Начало работы
 

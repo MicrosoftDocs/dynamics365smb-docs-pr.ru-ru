@@ -8,12 +8,12 @@ ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: e6b3cf9eee8e9116fe9fcfc75417d17e3fe5b529
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 8a714d9457c8ed5e174ca1364aef4cc8cd3cbf57
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5776575"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6443545"
 ---
 # <a name="import-and-export-account-schedules"></a>Импорт и экспорт финансовых отчетов
 
@@ -21,7 +21,7 @@ ms.locfileid: "5776575"
 
 ## <a name="to-import-and-export-account-schedules"></a>Импорт и экспорт финансовых отчетов
 
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Финансовые отчеты**, затем выберите соответствующую ссылку.
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../../media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Финансовые отчеты**, а затем выберите связанную ссылку.
 2. Выберите действие **Импорт настроек** или **Экспорт настроек**. Будет создан XML-файл для импорта или экспорта.
 
 > [!NOTE]

@@ -8,12 +8,12 @@ ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 5a0299058dcd7807ba1364e5c14a13c7992338d7
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 1f4a3218adc6eb7cfbf73b246ec24bdf55436412
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5786395"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6443555"
 ---
 # <a name="create-the-torg-29-goods-report"></a>Создание товарного отчета ТОРГ-29
 
@@ -23,7 +23,7 @@ ms.locfileid: "5786395"
 
 ## <a name="to-create-the-torg-29-report"></a>Создание отчета ТОРГ-29
 
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Товарный отчет ТОРГ-29**, затем выберите соответствующую ссылку.
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../../media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Товарный отчет ТОРГ-29**, а затем выберите связанную ссылку.
 
 2. На экспресс-вкладке **Параметры** заполните поля, как описано в следующей таблице.
 

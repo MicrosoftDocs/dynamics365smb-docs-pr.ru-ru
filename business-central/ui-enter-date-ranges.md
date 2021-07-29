@@ -1,6 +1,6 @@
 ---
-title: Ввод значений дат и времени в Business Central | Документация Майкрософт
-description: Изучение процедуры ввода дат и времени, включая различные подсказки производительности, такие как стенография, выражения и диапазоны. Отфильтруйте списки отчеты до конкретных периодов времени или дат.
+title: Ввод значений дат и времени в Business Central
+description: Изучение процедуры ввода дат и времени, включая различные подсказки производительности, такие как стенография, выражения и диапазоны.
 documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
@@ -9,14 +9,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: dates, reporting, filter, calendar, shorthand, range
-ms.date: 04/01/2021
+ms.date: 06/23/2021
 ms.author: edupont
-ms.openlocfilehash: 404c39cba663cebc4d9ab30126de97bd20cf7e8e
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 8254afc467474906dd80ae76ba134a0bce88c3a0
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5773534"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6443647"
 ---
 # <a name="working-with-calendar-dates-and-times"></a>Работа с календарными датами и значениями времени
 
@@ -48,7 +48,7 @@ The following sections describe how you can enter dates, times, datetimes, durat
 
 Любое поле, в котором отображается значок календаря, можно настроить с помощью средства выбора даты календаря. Для отображения средства выбора даты календаря активируйте значок календаря или нажмите сочетание клавиш CTRL + HOME в поле.
 
-![Поля даты](media/ui-date-field.png "Пример поля даты")
+![Поля даты.](media/ui-date-field.png "Пример поля даты")
 
 См. также [Сочетания клавиш в элементе управления для выбора даты календаря](keyboard-shortcuts.md#calendarshortcuts).
 
@@ -72,23 +72,21 @@ The following sections describe how you can enter dates, times, datetimes, durat
 
 ### <a name="today"></a>Сегодня
 
-Введите слово "сегодня" на языке, заданном настройкой **Язык**, которая задает текущую дату. Вместо ввода всего слова можно ввести его часть, начиная с начала, например с или сег, чтобы оно не было также началом другого слова.
+Введите слово для _сегодня_ на языке, указанном на странице **Мои настройки**, чтобы установить дату записи на сегодняшнюю дату. Вместо ввода всего слова можно ввести часть слова, начиная с начала, например. Например, на русском языке вы можете ввести _c_ или _сег_, если это не начало другого слова.
 
-### <a name="period"></a>периодам
+### <a name="period"></a>Период
 
 Для фильтрации по определенному учетному периоду введите в поле даты букву п или слово период, затем введите число, которое указывает учетный период, например п2 или период4. Учетный период задается по отношению к финансовому году текущей рабочей даты, которая задана в вашем ролевом центре. Например, если рабочая дата **21.03.22**, то п1 или просто п выполняет фильтрацию по первому учетному периоду для финансового года 2022 (например, 01.01.22..31.01.22). п15 фильтрует по 15-му учетному периоду с начала финансового года 2022 (например, 01.03.23..31.03.23).
 
 Учетные периоды определяются на странице **Учетные периоды**. Для просмотра или изменения учетных периодов откройте страницу [здесь](https://businesscentral.dynamics.com/?page=100).
 
-### <a name="current-work-date"></a>Текущая рабочая дата
+### <a name="work-date"></a>Рабочая дата
 
-Функция рабочей даты позволяет записывать транзакции с помощью даты, которая отличается от текущей даты.
+Используйте рабочую дату, чтобы указать дату, которая не является сегодняшней датой в записях. Например, рабочая дата полезна, когда вам нужно установить определенную дату для нескольких записей. Вы указываете дату работы на странице **Мои настройки**. 
 
-Слово, соответствующее "рабочей дате" на языке, заданном настройкой **Язык**, устанавливает дату равной текущей заданной рабочей дате, которая указана на странице **Мои настройки**. Вместо ввода всего слова можно ввести часть слова, начиная с начала, например 'р' или 'ра'.
+Быстрый способ ввести дату работы в записи — ввести часть или все слово _рабочая_, начиная с начала слова, на том языке, на котором вы используете [!INCLUDE[prod_short](includes/prod_long.md)]. Например, на русском языке вы можете ввести _р_ или _рабоч_. Язык также указан на странице **Мои настройки**.
 
-Если рабочая дата не определена, в качестве рабочей даты будет использоваться текущая дата. Необходимость в использовании рабочей даты возникает при наличии большого количества транзакций, дата которых отличается от текущей.
-
-См. также [Изменение базовых настроек, таких как рабочая дата](ui-change-basic-settings.md#work-date).
+Если вы не указали рабочую дату, будет использоваться сегодняшняя дата. Дополнительные сведения прочитайте в [Изменение базовых настроек, таких как рабочая дата](ui-change-basic-settings.md#work-date).
 
 ### <a name="closing-date"></a>Дата закрытия
 
@@ -199,7 +197,7 @@ The following sections describe how you can enter dates, times, datetimes, durat
 # Entering Date Ranges
 You can set filters containing a start date and an end date to display only the data contained in that date range or time interval. Special rules apply to the way you set date ranges. Let's take the **Customer Top 10** as an example:
 
-![Setting a date range in the request page for the Customer Top 10 list](./media/ui-enter-date-ranges/customer-top10-list.png)
+![Setting a date range in the request page for the Customer Top 10 list.](./media/ui-enter-date-ranges/customer-top10-list.png)
 
 Here you can limit the report to a date range such as the past 2 weeks, or a total of 6 weeks, or whatever range you want. To set date ranges, you enter dates and then use either **..** or **|** to set the range. In our example, to show the top 10 customers for the first two weeks of May, you would set the date filter to *05 01 17..05 14 17*.
 Here are a couple of other examples:

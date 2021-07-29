@@ -8,12 +8,12 @@ ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 209cc99667c215155b1c636b5340a169d89f8927
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 221431e0ad2e976aef028c98b786a6b892e8824c
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5782185"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6443553"
 ---
 # <a name="create-vat-ledgers"></a>Создание книг НДС
 
@@ -25,7 +25,7 @@ ms.locfileid: "5782185"
 
 ## <a name="to-create-a-vat-ledger"></a>Создание книги НДС
 
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Список книг покупок и продаж**, затем выберите соответствующую ссылку.
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../../media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Список книг покупок и продаж**, а затем выберите связанную ссылку.
 
 2. Заполните поля в окне **Список книг покупок и продаж**, как описано в следующей таблице.
 

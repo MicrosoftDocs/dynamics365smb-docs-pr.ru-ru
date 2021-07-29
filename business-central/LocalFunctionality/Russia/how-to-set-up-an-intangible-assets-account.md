@@ -8,12 +8,12 @@ ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: af87d5bb39c852177ac9d711dc55bafb6889ac9d
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: f33357aeb164f58cc42f4d0aa698797f8f25ea90
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5785235"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6442637"
 ---
 # <a name="set-up-an-intangible-assets-account"></a>Настройка счета нематериальных активов
 
@@ -23,7 +23,7 @@ ms.locfileid: "5785235"
 
 ## <a name="to-set-up-an-intangible-asset-account"></a>Настройка счета нематериальных активов
 
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Основные средства**, затем выберите соответствующую ссылку.
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../../media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Основные Средства**, а затем выберите связанную ссылку.
 2. Откройте карточку основного средства.
 3. В окне **Карточка основного средства** выберите **Нематериальный актив** в поле **Тип ОС**.
 4. Приобретите нематериальный актив и введите его в эксплуатацию. Дополнительные сведения см. в разделе [Покупка и ввод в эксплуатацию малоценных основных средств](Undepreciable-Fixed-Assets.md).

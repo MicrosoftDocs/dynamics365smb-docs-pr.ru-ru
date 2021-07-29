@@ -8,12 +8,12 @@ ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: dca25cc974b2347db084ae0e0cb179a4f0a95587
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 5b741cdcd94b0425e2f6a76463c4dc237d8c07a9
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5775224"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6442645"
 ---
 # <a name="register-vat-on-purchase-orders"></a>Регистрация НДС по заказам на покупку
 
@@ -21,7 +21,7 @@ ms.locfileid: "5775224"
 
 ## <a name="to-register-vat-on-a-purchase-order"></a>Регистрация НДС по заказам на покупку
 
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Заказ на покупку**, затем выберите соответствующую ссылку. Выберите соответствующий заказ на покупку.
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../../media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Заказ на покупку**, а затем выберите связанную ссылку. Выберите соответствующий заказ на покупку.
 
 2. На экспресс-вкладке **Отгрузка** заполните поля, как описано в следующей таблице.
 

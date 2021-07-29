@@ -1,6 +1,6 @@
 ---
-title: Сведения о проектировании — методы учета себестоимости | Документация Майкрософт
-description: В этом разделе описывается, как метод учета себестоимости влияет на то, как выделяется заглавными буквами фактическая или бюджетная себестоимости и используются при расчете себестоимости.
+title: Сведения о проектировании — методы учета себестоимости
+description: В этой теме описывается, как метод учета себестоимости влияет на то, как капитализируется фактическая и бюджетная себестоимости и используются при расчете себестоимости.
 author: bholtorf
 ms.service: dynamics365-business-central
 ms.topic: conceptual
@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 06/08/2021
+ms.date: 06/14/2021
 ms.author: bholtorf
-ms.openlocfilehash: 9f42e2ba8bf5f281be509bd58c5f88fa53ef7ba1
-ms.sourcegitcommit: 0953171d39e1232a7c126142d68cac858234a20e
+ms.openlocfilehash: b3bfdbc2fb163d48edb6bf22eb79efa01b63090f
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "6215382"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6442439"
 ---
 # <a name="design-details-costing-methods"></a>Сведения о проектировании: методы учета себестоимости
 
@@ -36,7 +36,7 @@ ms.locfileid: "6215382"
 
  На следующем изображении показан поток затрат на хранимые запасы для каждого метода учета затрат.  
 
- ![Методы учета себестоимости](media/design_details_inventory_costing_7_costing_methods.png "Методы учета себестоимости")  
+ ![Методы учета себестоимости.](media/design_details_inventory_costing_7_costing_methods.png "Методы учета себестоимости")  
 
  Методы учета себестоимости отличаются способом оценки расхода склада и тем, используют ли они фактическую себестоимость или стандартную себестоимость в качестве базы оценки. В следующей таблице поясняются различные характеристики. (Метод LIFO не используется, поскольку он очень похож на метод FIFO.)  
 

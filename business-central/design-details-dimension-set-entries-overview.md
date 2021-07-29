@@ -1,6 +1,6 @@
 ---
-title: Обзор записей набора измерений | Документация Майкрософт
-description: В этом разделе описывается, как операции набора измерений хранятся и учитываются в Dynamics 365.
+title: Обзор записей набора измерений
+description: В этой статье дается обзор того, как записи набора измерений хранятся как записи набора измерений и как они разносятся.
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: conceptual
@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: dimension
-ms.date: 06/08/2021
+ms.date: 06/14/2021
 ms.author: edupont
-ms.openlocfilehash: c6e3df748269e2f40e3acf0a28ce0f6bc48ca944
-ms.sourcegitcommit: 0953171d39e1232a7c126142d68cac858234a20e
+ms.openlocfilehash: f5765b82e3fde5ba35d3c0be9fc6383c9ddb5bf7
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "6215307"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6442414"
 ---
 # <a name="dimension-set-entries-overview"></a>Обзор записей набора измерений
 В этом разделе описывается, как операции набора измерений хранятся и учитываются в [!INCLUDE[prod_short](includes/prod_short.md)].  
@@ -34,7 +34,7 @@ ms.locfileid: "6215307"
 ## <a name="dimension-set-entries"></a>Записи набора измерений  
 Наборы измерений сохраняются в таблице **Запись набора измерений** в виде записей набора измерений с одинаковым кодом набора измерений.  
 
-![Поток записей набора измерений](media/dimensionentrynav7.png "Поток записей набора измерений")  
+![Поток записей набора измерений.](media/dimensionentrynav7.png "Поток записей набора измерений")  
 
 При создании новой строки журнала, заголовка документа или строки документа можно указать комбинации значений измерений. Вместо явного сохранения значения каждого измерения в базе данных, код набора измерений присваивается строке журнала, заголовку документа или строке документа для определения набора измерений.  
 

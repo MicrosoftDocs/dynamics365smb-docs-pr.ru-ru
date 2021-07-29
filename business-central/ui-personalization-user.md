@@ -1,6 +1,6 @@
 ---
-title: Персонализация страниц | Документация Майкрософт
-description: Узнайте, как настраивать пользовательский интерфейс в соответствии с вашим способом работы в Business Central.
+title: Персонализация страниц
+description: Узнайте, как настроить пользовательский интерфейс и персонализировать рабочую область в соответствии со своим стилем работы и личными предпочтениями в Business Central.
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: conceptual
@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: customize, personalize, personalization, hide columns, remove fields, move fields, resize column, change column width
-ms.date: 04/01/2021
+ms.date: 06/24/2021
 ms.author: edupont
-ms.openlocfilehash: 6069e3d1bcfde5c7aead1daeb33b35201c9f05a4
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: dbcf9f396c3f92093241a17cb6a358580f015cbe
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5783315"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6442679"
 ---
 # <a name="personalize-your-workspace"></a>Персонализация рабочей области
 Вы можете персонализировать свою рабочую область в соответствии со вашей работой и предпочтениями, изменяя страницы, чтобы на них отображалась только требуемая информация в тех местах, в которых она нужна. Сделанная вами персонализация изменяет только то, что видите вы, а не то, что видят другие пользователи.
@@ -42,7 +42,7 @@ ms.locfileid: "5783315"
 
 ## <a name="to-start-personalizing-a-page-through-the-personalizing-banner"></a>Чтобы начать персонализацию страницы с помощью баннера **Персонализация**
 1. Откройте любую страницу, которую вы хотите персонализировать.
-2. В правом верхнем углу выберите ![Настройка](media/ui-experience/settings_icon_small.png "Значок настроек для ролевого центра"), а затем выберите действие **Персонализировать**.
+2. В правом верхнем углу выберите ![Настройки.](media/ui-experience/settings_icon_small.png "Значок настроек для ролевого центра") и выберите действие **Персонализация**.
 
     Сверху появляется баннер **Персонализация**, который указывает, что можно начинать вносить изменения.
 

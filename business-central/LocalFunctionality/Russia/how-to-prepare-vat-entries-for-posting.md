@@ -8,12 +8,12 @@ ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: f469586895687871619f4637b5dbc4e8519ea1d1
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 916e6b0d5899e59f30d9aa9885df3d57e877cc0d
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5773228"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6442649"
 ---
 # <a name="prepare-vat-entries-for-posting"></a>Подготовка операций НДС к учету
 
@@ -21,7 +21,7 @@ ms.locfileid: "5773228"
 
 ## <a name="to-prepare-vat-entries-for-posting"></a>Подготовка операций НДС к учету
 
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Журнал НДС**, затем выберите соответствующую ссылку.
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../../media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Журнал НДС**, а затем выберите связанную ссылку.
 
 2. Выберите фильтры, которые определяют связанные с НДС транзакции, которые требуется включить в зачет НДС.
 

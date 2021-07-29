@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: Teams, MS Teams, Microsoft Teams, Skype, Link, Microsoft 365, collaborate, collaboration, teamwork
 ms.date: 04/12/2021
 ms.author: jswymer
-ms.openlocfilehash: ecb3f88bf14c74f026f10fd49efe28f189036589
-ms.sourcegitcommit: e13b80d4e5141f414109e660e0918eae561acb36
+ms.openlocfilehash: ad1fd27bf6687993fed82ab418d621520e3439a1
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "5882209"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6443210"
 ---
 # <a name="managing-microsoft-teams-integration-with-prod_short"></a>Управление интеграцией Microsoft Teams с [!INCLUDE [prod_short](includes/prod_short.md)]
 
@@ -35,7 +35,7 @@ ms.locfileid: "5882209"
 
     |Какая|Лицензия Teams|Лицензия [!INCLUDE [prod_short](includes/prod_short.md)]|
     |----|---|---|
-    |Поиск контактов [!INCLUDE [prod_short](includes/prod_short.md)].|![флажок](media/check.png "галочка")|![флажок](media/check.png "галочка")|
+    |Поиск контактов [!INCLUDE [prod_short](includes/prod_short.md)].|![флажок.](media/check.png "галочка")|![флажок](media/check.png "галочка")|
     |Вставьте ссылку в запись [!INCLUDE [prod_short](includes/prod_short.md)] в беседу и отправьте как карточку.|![флажок](media/check.png "галочка")|![флажок](media/check.png "галочка")|
     |Посмотреть карточку записи [!INCLUDE [prod_short](includes/prod_short.md)] в разговоре.|![флажок](media/check.png "галочка")||
     |Посмотреть подробности карточки записи [!INCLUDE [prod_short](includes/prod_short.md)] в разговоре.|![флажок](media/check.png "галочка")|![флажок](media/check.png "галочка")|

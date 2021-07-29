@@ -7,12 +7,12 @@ ms.topic: conceptual
 ms.search.keywords: setup, wizard, checklist
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: c4c636f6030f9ee8d9c2fde849c9b86fc04670ad
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 48a293f0cfedc257f8efcae6b4e8ea958e975ca6
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5788578"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6443972"
 ---
 # <a name="onboard-users-with-checklists"></a>Адаптация пользователей с контрольными списками
 
@@ -22,7 +22,7 @@ ms.locfileid: "5788578"
 
 1. Войдите в [!INCLUDE[prod_short](includes/prod_short.md)] на странице [https://businesscentral.dynamics.com/](https://businesscentral.dynamics.com/).
 
-2. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Администрирование контрольных списков**, затем выберите соответствующую ссылку.  
+2. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок **Администрирование контрольных списков**, а затем выберите связанную ссылку.  
 
 3. Выберите действие **Создать**, а затем выберите **Создать пункт контрольного списка**.  
 

@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: accountant, accounting, financial report
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 9e6dd99b1ea8da7099932185a7da18b0419a244e
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 8e988e0b23f29f4b9969a9682eac2e2e91a30fcc
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5780939"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6442804"
 ---
 # <a name="accountant-experiences-in-prod_long"></a>Работа бухгалтера в [!INCLUDE[prod_long](includes/prod_long.md)]
 
@@ -44,7 +44,7 @@ ms.locfileid: "5780939"
 > [!Note]  
 > Для этого необходимо, чтобы была настроена эл. почта SMTP. Дополнительные сведения см. в разделе [Настройка электронной почты](admin-how-setup-email.md).  
 
-<!-- ![Invite your accountant](./media/finance-invite-accountant/invite-accountant.png)-->
+<!-- ![Invite your accountant.](./media/finance-invite-accountant/invite-accountant.png)-->
 
 > [!IMPORTANT]  
 > Адрес электронной почты бухгалтера должен представлять собой рабочий адрес, основанный на Azure Active Directory. Если у бухгалтера электронная почта другого типа, отправить приглашение не удастся.
@@ -91,7 +91,7 @@ ms.locfileid: "5780939"
 #### <a name="to-add-the-accountant-to-the-right-company"></a>Добавление бухгалтера в нужную компанию
 
 1. Откройте компанию [!INCLUDE[prod_short](includes/prod_short.md)], к которой вы хотите предоставить бухгалтеру доступ, по адресу [https://businesscentral.dynamics.com](https://businesscentral.dynamics.com).
-2. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Пользователи**, затем выберите соответствующую ссылку.  
+2. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Пользователи**, а затем выберите связанную ссылку.  
 3. Выберите действие **Получить новых пользователей из Microsoft 365**.
 
 Это импортирует учетную запись пользователя, которую вы создали на портале Azure, в компанию. Дополнительную информацию см. в разделе [Добавление пользователя в Business Central](ui-how-users-permissions.md#adduser).  

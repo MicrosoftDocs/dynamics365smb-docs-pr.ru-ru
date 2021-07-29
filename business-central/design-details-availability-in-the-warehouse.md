@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/08/2021
 ms.author: edupont
-ms.openlocfilehash: 184591134706432ed1ea04afa86e1274b748cfe0
-ms.sourcegitcommit: 0953171d39e1232a7c126142d68cac858234a20e
+ms.openlocfilehash: 7d23dc10ffb215ee2ac160c9ec9b9fd1ddb5cc2d
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "6215507"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6442539"
 ---
 # <a name="design-details-availability-in-the-warehouse"></a>Сведения о проектировании: наличие на складе
 Система должна постоянно контролировать доступность товаров на складе, чтобы исходящие заказы могли эффективно обрабатываться и обеспечивать оптимальные поставки.  
@@ -47,7 +47,7 @@ ms.locfileid: "6215507"
 
  На следующей схеме показаны разные элементы вычислений.  
 
- ![Доступно для выбора с перекрытием резервирования](media/design_details_warehouse_management_availability_2.png "Доступно для выбора с перекрытием резервирования")  
+ ![Доступно для выбора с перекрытием резервирования.](media/design_details_warehouse_management_availability_2.png "Доступно для выбора с перекрытием резервирования")  
 
 ## <a name="quantity-available-to-reserve"></a>Количество, доступное для резервирования  
  Поскольку основные понятия содержимого ячейки и резервирования сосуществуют, количество товаров, доступных для резервирования, должно быть согласовано с распределениями в исходящих документах склада.  
@@ -72,10 +72,10 @@ ms.locfileid: "6215507"
 
  На следующей схеме показаны разные элементы вычислений.  
 
- ![Доступно для резервирования, на распределения склада](media/design_details_warehouse_management_availability_3.png "Доступно для резервирования, на распределения склада")  
+ ![Доступно для резервирования, на распределения склада.](media/design_details_warehouse_management_availability_3.png "Доступно для резервирования, на распределения склада")  
 
 ## <a name="see-also"></a>См. также  
- [Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
+ [Сведения о проектировании: Warehouse Management](design-details-warehouse-management.md)  
  [Просмотр наличия товара](inventory-how-availability-overview.md)
 
 

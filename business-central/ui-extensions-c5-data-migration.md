@@ -10,12 +10,12 @@ ms.workload: na
 ms. search.keywords: extension, migrate, data, C5, import
 ms.date: 04/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: 4e9a121efe984e075c54c747fc426bf9a4519b81
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 6b146e2a515ffd2a200574c4ce059c8a0205b602
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5787406"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6443572"
 ---
 # <a name="the-c5-data-migration-extension"></a>Расширение миграции данных C5
 
@@ -107,7 +107,7 @@ ms.locfileid: "5787406"
 Для экспорта данных из C5 и импорта их в [!INCLUDE[prod_short](includes/prod_short.md)] нужно выполнить всего несколько шагов:  
 
 1. В C5, используйте функцию **Экспорт базы данных**, чтобы экспортировать данные. Затем отправьте папку экспорта в сжатую (ZIP) папку.  
-2. В [!INCLUDE[prod_short](includes/prod_short.md)] выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Миграция данных**, затем выберите **Миграция данных**.  
+2. В [!INCLUDE[prod_short](includes/prod_short.md)] выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Миграция данных**, а затем выберите **Миграция данных**.  
 3. Выполните шаги облегчить в мастере настройки. Обязательно выберите в качестве источника данных **Импорт из Microsoft Dynamcis C5 2012**.  
 
 ## <a name="viewing-the-status-of-the-migration"></a>Просмотр состояния миграции

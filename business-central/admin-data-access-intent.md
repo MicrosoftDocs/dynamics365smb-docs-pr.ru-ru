@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.author: jswymer
-ms.openlocfilehash: 5fe04fc290f10324105d4d9ca01e13166bf2ad8f
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 3a85a8acda1789997639c78c5d6028a14dbb75af
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5773083"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6443947"
 ---
 # <a name="managing-database-access-intent"></a>Управление намерением доступа к базе данных 
 
@@ -33,7 +33,7 @@ ms.locfileid: "5773083"
 
 ## <a name="to-change-the-database-access-intent"></a>Изменение намерения доступа к базе данных
 
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Список намерений доступа к базе данных**, затем выберите соответствующую ссылку.
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Список намерений доступа к базе данных**, а затем выберите связанную ссылку.
 
     На странице перечислены все отчеты, страницы и запросы. Столбец **Цель доступа** включает одно из следующих значений:
 

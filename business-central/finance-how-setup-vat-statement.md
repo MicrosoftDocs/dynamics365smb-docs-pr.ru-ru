@@ -1,6 +1,6 @@
 ---
-title: Настройка отчета по НДС | Microsoft Docs
-description: Настройка отчета по НДС
+title: Настройка отчета по НДС
+description: В этой теме рассказывается, как настроить шаблон отчета по НДС и названия отчетов по НДС в соответствии с меняющимися требованиями налоговых органов.
 author: bholtorf
 ms.service: dynamics365-business-central
 ms.topic: conceptual
@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: VAT, posting, tax, value-added tax
-ms.date: 04/01/2021
+ms.date: 06/16/2021
 ms.author: bholtorf
-ms.openlocfilehash: 8a7373a22cff16a32fe92bf2f2d9064d2f12e950
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 322a501a4b1d404ef39523e93b45409eb60d7c4b
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5775454"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6444391"
 ---
 # <a name="set-up-a-vat-statement"></a>Настройка отчета по НДС
 
@@ -25,7 +25,7 @@ ms.locfileid: "5775454"
 ## <a name="to-define-a-vat-statements"></a>Определение отчетов по НДС
 Отчеты по НДС используются для вычисления суммы НДС за определенный период (например, за квартал).
 
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Отчеты по НДС**, затем выберите соответствующую ссылку.  
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Отчеты по НДС**, а затем выберите связанную ссылку.  
 2. Выберите поле **Название**, а затем выберите **Новый** на странице **Названия отчетов по НДС**.
 3. Заполните обязательные поля. Обычно задается параметр для каждой комбинации НДС бизнес-группы и товарной группы. Для номеров строк имеет смысл использовать номера или коды, соответствующие официальному отчету по НДС [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)] 
 
