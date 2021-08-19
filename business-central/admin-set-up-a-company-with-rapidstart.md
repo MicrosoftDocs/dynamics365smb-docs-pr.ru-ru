@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/14/2021
 ms.author: edupont
-ms.openlocfilehash: 46ce62b98e02f934b859dc7191d7fea69ae44af0
-ms.sourcegitcommit: e562b45fda20ff88230e086caa6587913eddae26
+ms.openlocfilehash: 813ac2b7c8fe074e9c1f2572f947b92156a56d1a
+ms.sourcegitcommit: ecbabd2d0fdf2566cea4a05a25b09ff6ca6256c6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "6325424"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "6649791"
 ---
 # <a name="setting-up-a-company-with-rapidstart-services"></a>Настройка организации со службами RapidStart Services
 Можно настроить новую организацию в [!INCLUDE[prod_short](includes/prod_short.md)] с помощью служб RapidStart Services — инструмента, предназначенного для ускорения развертывания, повышения качества внедрения, использования единого подхода к внедрению и повышения производительности за счет автоматизации и упрощения повторяющихся задач.  
@@ -42,7 +42,7 @@ ms.locfileid: "6325424"
 |Определите и проверьте значения настройки клиента для всех ключевых областей, таких как сведения об организации, главная книга, запасы, продажи или производство.|[Сбор значений настройки клиента](admin-gather-customer-setup-values.md)|  
 |Настройте записи основных данных ядра, используя шаблоны, чтобы подготовиться к миграции существующих данных по клиентам.|[Подготовка к миграции данных клиента](admin-use-templates-to-prepare-customer-data-for-migration.md)|  
 |Определите таблицы и поля, проверьте существующие данные клиента и выполните миграцию данных в базу данных [!INCLUDE[prod_short](includes/prod_short.md)].|[Миграция данных клиента](admin-migrate-customer-data.md)|
-|Подготовка к повторному использованию конфигураций организации в других организациях.|[Создание настраиваемых пакетов конфигурации организации](admin-how-to-create-custom-company-configuration-packages.md)|
+|Подготовьтесь к повторному использованию конфигураций компании в других компаниях (в материалах для разработчиков и администрирования).|[Создание настраиваемых пакетов конфигурации организации](/dynamics-365/business-central/dev-itpro/administration/set-up-standard-company-configuration-packages)|
 |Найдите решения известных проблем в наборе инструментов RapidStart Services.|[Советы и подсказки: RapidStart Services](admin-tips-and-tricks-rapidstart-services.md)|  
 
 ## <a name="see-also"></a>См. также  

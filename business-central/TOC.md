@@ -236,7 +236,6 @@
 #### [Сбор данных настройки клиента](admin-gather-customer-setup-values.md)
 #### [Подготовьтесь к миграции данных клиента с помощью шаблонов](admin-use-templates-to-prepare-customer-data-for-migration.md)
 #### [Миграция данных клиента](admin-migrate-customer-data.md)
-#### [Создание настраиваемых пакетов конфигурации организации](admin-how-to-create-custom-company-configuration-packages.md)
 #### [Советы и подсказки: RapidStart Services](admin-tips-and-tricks-rapidstart-services.md)
 ### Настройка электронной почты
 #### [Настройка электронной почты](admin-how-setup-email.md)
@@ -534,7 +533,11 @@
 #### [Обновление стандартных себестоимостей](finance-how-to-update-standard-costs.md)
 #### [Удаление и повторное применение операций журнала товаров](finance-how-to-remove-and-reapply-item-entries.md)
 #### [Закрытие открытых операций в книге товаров, появившихся в результате фиксированного применения в товарном журнале](finance-how-to-close-open-item-ledger-entries-resulting-from-fixed-application-in-the-item-journal.md)
-#### [Выверка себестоимости товаров с главной книгой](finance-how-to-post-inventory-costs-to-the-general-ledger.md)
+#### Отчет о затратах и выверка с главной книгой
+##### [Отчет о затратах](finance-report-costs-and-reconcile-with-the-general-ledger.md)
+##### [Выверка себестоимости товаров с главной книгой](finance-how-to-post-inventory-costs-to-the-general-ledger.md)
+##### [Отслеживание хода выполнения работ и производительности](projects-how-monitor-progress-performance.md)
+#### [Корректировка и сверка стоимости запасов с главной книгой с помощью очереди заданий](finance-adjust-reconcile-inventory-cost-job-queue.md)
 
 ### Управление движением денежных средств
 #### [Обзор движения денежных средств](finance-cash-flow-overview.md)
@@ -722,6 +725,8 @@
 ### [Выполнение полного планирования, MPS или MRP](production-how-to-run-mps-and-mrp.md)
 ### [Прямое перепланирование или обновление производственных заказов](production-how-to-replan-refresh-production-orders.md)
 ### [Отслеживание связей между спросом и предложением](production-how-track-demand-supply.md)
+### [Журнал заявок](production-about-planning-functionality.md#requisition-worksheet)
+### [Указания](production-how-to-run-mps-and-mrp.md#action-messages)
 <!-- ### [Walkthrough: Planning Supplies Manually](walkthrough-planning-supplies-manually.md) -->
 <!-- ### [Walkthrough: Planning Supplies Automatically](walkthrough-planning-supplies-automatically.md) -->
 <!--## [Modify Planning Suggestions in a Graphical View](production-how-to-modify-planning-suggestions-in-a-graphical-view.md)-->
@@ -1604,9 +1609,9 @@
 ### [Инспекция страниц](across-inspect-page.md)
 ### [Просмотр блокировок базы данных](admin-view-database-locks.md)
 ### [Просмотр информации о таблицах](admin-view-table-information.md)
-### [Создание среды "песочницы"](across-how-create-sandbox-environment.md)
 ### [Раннее включение новых функций](admin-feature-management.md)
 ### [Адаптация пользователей с контрольными списками](admin-checklist.md)
+### [Среды-песочницы](across-how-create-sandbox-environment.md)
 ## Настройка Business Central
 ### [Обзор настройки](ui-customizing-overview.md)
 ### [Настройка страниц для профилей](ui-personalization-manage.md)

@@ -7,19 +7,23 @@ ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: multiple currencies
-ms.date: 04/01/2021
+ms.search.keywords: multiple currencies, foreign exchange rates
+ms.date: 07/23/2021
 ms.author: edupont
-ms.openlocfilehash: 23e9f521e43373ff3ee0fd5f8218b2d467b54d72
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: e1a6c902bdf4ce8270def3c830138511adf6eba3
+ms.sourcegitcommit: e904da8dc45e41cdd1434111c15e2a9d9edd3fa2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6444441"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "6660210"
 ---
 # <a name="set-up-an-additional-reporting-currency"></a>Настройка дополнительной отчетной валюты
 
 Поскольку сфера действия организаций включает все новые и новые страны и регионы, растет необходимость в просмотре и составлении финансовых данных в нескольких валютах.
+
+> [!NOTE]  
+> В [!INCLUDE[prod_short](includes/prod_short.md)] если вы ищете информацию о курсах обмена иностранной валюты (FX) или исторических курсах в режиме реального времени, вы обнаружите, что это называется валютой. В дополнение к этой статье см. также [Обновление валютных курсов](finance-how-update-currencies.md).
+
 
 Главная книга настраивается на использование локальной валюты (руб.), но можно также задать использование другой валюты с назначением текущего валютного курса. В случае указания второй валюты в качестве так называемой дополнительной валюты отчетности [!INCLUDE[prod_short](includes/prod_short.md)] будет автоматически регистрировать суммы как в рублях, так и в дополнительной валюте по каждой операции в ГК и в других операциях, таких как операции НДС.
 

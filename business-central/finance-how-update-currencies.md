@@ -4,15 +4,15 @@ description: Отслеживание сумм в различных валют�
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: conceptual
-ms.search.keywords: multiple currencies, adjust exchange rates
-ms.date: 06/03/2021
+ms.search.keywords: multiple currencies, adjust exchange rates, FX rates
+ms.date: 07/23/2021
 ms.author: edupont
-ms.openlocfilehash: 0baa12a7f63e67184a00dab893c8222facfe269d
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: c4072e0371499982fc86d6c16b4d614552bc4533
+ms.sourcegitcommit: e904da8dc45e41cdd1434111c15e2a9d9edd3fa2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6441626"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "6660185"
 ---
 # <a name="update-currency-exchange-rates"></a>Обновление валютных курсов
 
@@ -29,6 +29,9 @@ ms.locfileid: "6441626"
 > Если вы хотите использовать дополнительную валюту отчетности для финансовой отчетности, убедитесь, что вы понимаете ограничения. Дополнительные сведения см. в разделе [Настройка дополнительной отчетной валюты](finance-how-setup-additional-currencies.md).
 
 ## <a name="currencies"></a>Валюты
+
+> [!NOTE]  
+> В [!INCLUDE[prod_short](includes/prod_short.md)] если вы ищете информацию о курсах обмена иностранной валюты (FX) или исторических курсах в режиме реального времени, вы обнаружите, что это называется валютой. В дополнение к этой статье см. также [Настройка дополнительной отчетной валюты](finance-how-setup-additional-currencies.md).
 
 Вы указываете коды валют в **Валюты**, включая дополнительную информацию и настройки, необходимые для каждого кода валюты.
 
