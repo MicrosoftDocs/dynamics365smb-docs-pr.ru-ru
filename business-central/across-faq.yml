@@ -6,14 +6,14 @@ metadata:
   ms.service: dynamics365-business-central
   ms.topic: conceptual
   ms.search.keywords: FAQ, email, Microsoft 365, subscription, subscribe, trial, plan, application area, experience, support, buy, upgrade, extend
-  ms.date: 04/01/2021
+  ms.date: 08/24/2021
   ms.author: edupont
-  ms.openlocfilehash: 4d4864b0baa6b8455e51931701d72eea8923545f
-  ms.sourcegitcommit: 0c8428e1468d4f5c18fbe35c79d6bbe509b79620
+  ms.openlocfilehash: 3cc1b5fc394d63cd3741337263eafecdfa878fbb
+  ms.sourcegitcommit: e891484daad25f41c37b269f7ff0b97df9e6dbb0
   ms.translationtype: HT
   ms.contentlocale: ru-RU
-  ms.lasthandoff: 06/01/2021
-  ms.locfileid: "6124007"
+  ms.lasthandoff: 08/27/2021
+  ms.locfileid: "7440695"
 title: Вопросы и ответы об использовании Business Central
 summary: "В этом разделе содержатся ответы на часто задаваемые вопросы по регистрации на пробную версию, приобретению подписки и использованию [!INCLUDE[prod_short](includes/prod_short.md)]. Можно также узнать порядок получения технической поддержки.  \n"
 sections:
@@ -67,6 +67,10 @@ sections:
       Каковы соглашения об уровне обслуживания для облака?
     answer: >
       [!INCLUDE [service-terms](includes/service-terms.md)]
+  - question: >
+      Как часто обновляется Business Central Online?
+    answer: >
+      [!INCLUDE[prod_short](includes/prod_short.md)] Online — это служба, которая состоит из платформы, поддерживаемой Microsoft, и бизнес-функций. Многие партнеры Microsoft предоставляют дополнительные бизнес-функции, например, для удовлетворения конкретных потребностей отрасли или локализации. Как бизнес-функции, так и сервисные компоненты постоянно контролируются и обновляются по мере необходимости. Вы всегда можете обратиться к [плану выпуска](/dynamics365/release-plans/) для обзора новых и будущих функциональных возможностей. Для получения дополнительной информации см. [Обзор службы для Business Central Online](/dynamics365/business-central/dev-itpro/service-overview) (только на английском языке) и [Новые и планируемые функции](product-news.md).
   - question: >
       Наш администратор изменил мой план, чтобы предоставить мне другую роль, но я по-прежнему вижу тот же домашний экран в Business Central?
     answer: "Это немного сложно, но, похоже, администратор не изменил назначенную вам роль и не назначил группы пользователей, соответствующие новой лицензии. По существу, ваш доступ к [!INCLUDE[prod_short](includes/prod_short.md)] определяется вашим типом плана (лицензией) — он задает разрешения, назначенную вам роль и отображаемый по умолчанию домашний экран. Вы можете вручную изменить свою текущую роль в разделе \"Мои настройки\", но при переходе на другой план, например при переходе с плана \"Бизнес\" на план \"Участники группы\", может отображаться старый домашний экран, поскольку ваши разрешения не были изменены.  \n"

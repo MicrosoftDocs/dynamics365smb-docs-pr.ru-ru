@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/14/2021
 ms.author: bholtorf
-ms.openlocfilehash: 0afad844bc58089548885b8e7dcce8c4b947cea9
-ms.sourcegitcommit: acc1871afa889cb699e65b1b318028c05f8e6444
+ms.openlocfilehash: f3aa23c9037d47785bb6d07a51e3d48ff28c5747
+ms.sourcegitcommit: e891484daad25f41c37b269f7ff0b97df9e6dbb0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "6636046"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "7440545"
 ---
 # <a name="connect-to-microsoft-dataverse"></a>Подключение к Microsoft Dataverse
 
@@ -111,15 +111,16 @@ The following video shows the steps to connect [!INCLUDE[prod_short](includes/pr
 > [!NOTE]
 > Этот раздел актуален только для клиентов Business Central Online, размещенных на сервере Microsoft. Онлайн-клиенты, размещенные у независимых поставщиков программного обеспечения, и локальные установки не затронуты.
 
-В апреле 2022 г. в [!INCLUDE[cds_long_md](includes/cds_long_md.md)] отменена поддержка типа проверки подлинности Office365 (имя пользователя/пароль). Для получения дополнительной информации см. [Прекращение поддержки типа проверки подлинности Office365](/power-platform/important-changes-coming#deprecation-of-office365-authentication-type-and-organizationserviceproxy-class-for-connecting-to-dataverse). Кроме того, в марте 2022 г. в [!INCLUDE[prod_short](includes/prod_short.md)] отменена поддержка использования аутентификации между службами на основе секрета клиента для онлайн-клиентов, и требуется использование аутентификации между службами на основе сертификатов для подключений к [!INCLUDE[cds_long_md](includes/cds_long_md.md)]. Онлайн-клиенты [!INCLUDE[cds_long_md](includes/cds_long_md.md)], размещенные независимыми поставщиками программного обеспечения, и локальные установки могут продолжать использовать проверку подлинности Office365, настроенную их партнером Майкрософт.
+В апреле 2022 г. в [!INCLUDE[cds_long_md](includes/cds_long_md.md)] отменена поддержка типа проверки подлинности Office365 (имя пользователя/пароль). Для получения дополнительной информации см. [Прекращение поддержки типа проверки подлинности Office365](/power-platform/important-changes-coming#deprecation-of-office365-authentication-type-and-organizationserviceproxy-class-for-connecting-to-dataverse). Кроме того, в марте 2022 г. в [!INCLUDE[prod_short](includes/prod_short.md)] отменена поддержка использования аутентификации между службами на основе секрета клиента для онлайн-клиентов, и требуется использование аутентификации между службами на основе сертификатов для подключений к [!INCLUDE[cds_long_md](includes/cds_long_md.md)]. Клиенты [!INCLUDE[prod_short](includes/prod_short.md)] Online, размещенные независимыми поставщиками программного обеспечения, и локальные установки могут продолжать использовать аутентификацию секрета клиента для подключения к [!INCLUDE[cds_long_md](includes/cds_long_md.md)].
 
 Чтобы не нарушать интеграцию, _вы должны обновить_ подключение для использования проверки подлинности на основе сертификатов. Хотя изменение запланировано на март 2022 года, мы настоятельно рекомендуем выполнить обновление как можно скорее. Следующие шаги описывают, как перейти на аутентификацию на основе сертификатов. 
 
 ### <a name="to-upgrade-your-business-central-online-connection-to-use-certificate-based-authentication"></a>Обновление подключения Business Central Online для использования аутентификации на основе сертификатов
+
 > [!NOTE]
 > Аутентификация на основе сертификатов доступна в выпуске Business Central 2021, волны 1 и более поздних версиях. Если вы используете более раннюю версию, вы должны запланировать обновление для выпуска Business Central 2021 волны 1 до марта 2022 года. Дополнительные сведения см. в разделе [Планирование обновлений](/dynamics365/business-central/dev-itpro/administration/update-rollout-timeline#scheduling-updates). Если у вас возникнут проблемы, обратитесь к партнеру или в службу поддержки.
 
-1. В [центре администрирования Business Central]/dynamics365/business-central/dev-itpro/administration/tenant-admin-center) убедитесь, что вы используете выпуск Business Central 2021 волны 1 или более поздней версии (версия 18 или более поздняя).
+1. В [центре администрирования,Business Central](/dynamics365/business-central/dev-itpro/administration/tenant-admin-center) убедитесь, что вы используете Business Central 2021 волны 1 или более позднюю версию (версия 18 или более поздняя).
 2. В зависимости от того, интегрируете ли вы с Dynamics 365 Sales, выполните одно из следующих действий:
    * Если да, откройте страницу **Настройка подключения Microsoft Dynamics 365**.
    * Если нет, откройте страницу **Настройка подключения Dataverse**.

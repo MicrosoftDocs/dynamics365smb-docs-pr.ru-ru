@@ -2,74 +2,83 @@
 author: edupont04
 ms.service: dynamics365-accountant
 ms.topic: include
-ms.date: 04/01/2021
+ms.date: 09/02/2021
 ms.author: edupont
-ms.openlocfilehash: 2867dbccab19226c16f761bb974528bbdcf0a21f
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 5bb0e2d4ec0dfe20ecb6668a6d01ba4e8a174b8e
+ms.sourcegitcommit: 04055135ff13db551dc74a2467a1f79d2953b8ed
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5777652"
+ms.lasthandoff: 09/08/2021
+ms.locfileid: "7482301"
 ---
-Прежде чем вы сможете настроить регистрацию электронной почты, вы должны подготовить Exchange Online с помощью [общие папки](/exchange/collaboration/public-folders/public-folders?view=exchserver-2019&preserve-view=true ). Вы можете сделать это в [Центр администрирования Exchange](/Exchange/architecture/client-access/exchange-admin-center?view=exchserver-2019&preserve-view=true ) или вы можете использовать [Командная консоль Exchange](/powershell/exchange/exchange-management-shell?view=exchange-ps&preserve-view=true ).  
+> [!NOTE]
+> В следующих разделах предполагается, что у вас есть права администратора для Exchange Online.
+
+Прежде чем вы сможете настроить регистрацию электронной почты, вы должны подготовить [общие папки](/exchange/collaboration-exo/public-folders/public-folders?preserve-view=true) Office 365. Вы можете сделать это в [центре администрирования Exchange](/exchange/exchange-admin-center?preserve-view=true) или вы можете использовать [Exchange Online PowerShell](/powershell/exchange/exchange-online-powershell?view=exchange-ps&?preserve-view=true).
 
 > [!TIP]
-> Если вы хотите использовать [Командная консоль Exchange](/powershell/exchange/exchange-management-shell?view=exchange-ps&preserve-view=true ), Вы можете найти вдохновение для того, как настроить свой скрипт в примере скрипта, который мы опубликовали в [репозитории BCTech](https://github.com/microsoft/BCTech/tree/master/samples/EmailLogging).
+> Если вы хотите использовать [Exchange Online PowerShell](/powershell/exchange/exchange-online-powershell?view=exchange-ps&preserve-view=true), Вы можете найти вдохновение для того, как настроить свой скрипт в примере скрипта, который мы опубликовали в [репозитории BCTech](https://github.com/microsoft/BCTech/tree/master/samples/EmailLogging).
 
-В следующем списке описаны основные шаги со ссылками, чтобы узнать больше.  
+Следуйте инструкциям ниже, чтобы настроить Exchange Online, со ссылками на то, где можно узнать больше.
 
-- Создайте роль администратора для общих папок на основе информации в следующей таблице:
+### <a name="create-an-admin-role-group"></a>Создайте группу ролей администратора
 
-  |Свойство        |Значение                     |
-  |----------------|--------------------------|
-  |Name            |Управление общими папками |
-  |Избранные роли  |Общие папки            |
-  |Избранные участники|Электронный адрес учетной записи пользователя, которую Business Central будет использовать для выполнения задания регистрации электронной почты.|
+Создайте группу ролей администратора для общих папок на основе информации в следующей таблице:
 
-  Дополнительные сведения см. в разделе [Управление группами ролей](/exchange/permissions/role-groups?view=exchserver-2019&preserve-view=true).
+|Свойство        |Значение                     |
+|----------------|--------------------------|
+|Name            |Управление общими папками |
+|Избранные роли  |Общие папки            |
+|Выбранные пользователи  |Электронный адрес учетной записи пользователя, которую Business Central будет использовать для выполнения задания регистрации электронной почты.|
 
-- Создайте новый почтовый ящик для общих папок на основе информации в следующей таблице:
+Дополнительные сведения см. в разделе [Управление группами ролей в Exchange Online](/exchange/permissions-exo/role-groups?preserve-view=true).
 
-  |Свойство        |Значение                     |
-  |----------------|--------------------------|
-  |Name            |Общий почтовый ящик            |
+### <a name="create-a-new-public-folder-mailbox"></a>Создать новый почтовый ящик общедоступной папки
 
-  Дополнительные сведения см. в разделе [Создайте новый почтовый ящик для общих папок в Exchange Server](/exchange/collaboration/public-folders/create-public-folder-mailboxes).  
+Создайте новый почтовый ящик для общих папок на основе информации в следующей таблице:
 
-- Создание новых общих папок
+|Свойство        |Значение                     |
+|----------------|--------------------------|
+|Name            |Общий почтовый ящик            |
 
-  - Создать новую общую папку с именем *Регистрация электронной почты* в корне, чтобы полный путь к папке стал ```\Email Logging\```
-  - Создайте две подпапки, чтобы в результате были получены следующие полные пути к папкам:
-    - ```\Email Logging\Queue\```
-    - ```\Email Logging\Storage\```
+Дополнительные сведения см. в разделе [Создайте новый почтовый ящик для общих папок](/exchange/collaboration-exo/public-folders/create-public-folder-mailbox?preserve-view=true).
 
-  Дополнительные сведения см. в разделе [Создание общей папки](/exchange/collaboration/public-folders/create-public-folders?view=exchserver-2019&preserve-view=true).
+### <a name="create-new-public-folders"></a>Создание новых общих папок
 
-- Включение поддержки электронной почты для общая папка *Очередь*
+1. Создайте новую общую папку с именем **Регистрация электронной почты** в корне, чтобы полный путь к папке стал `\Email Logging\`.
+2. Создайте две подпапки, чтобы в результате были получены следующие полные пути к папкам:
 
-  Дополнительные сведения см. в [Включение или отключение поддержки электронной почты для общей папки](/exchange/collaboration/public-folders/mail-enable-or-disable?view=exchserver-2019&preserve-view=true)
+    - `\Email Logging\Queue\`
+    - `\Email Logging\Storage\`
 
-- Включение поддержки электронной почты отправка сообщений электронной почты в общая папка *Очередь* с помощью Outlook или Командная консоль Exchange
+Дополнительные сведения см. в разделе [Создание общей папки](/exchange/collaboration-exo/public-folders/create-public-folder?preserve-view=true).
 
-  Дополнительные сведения см. в [Разрешить анонимным пользователям отправлять сообщения электронной почты в общую папку с включенной поддержкой электронной почты](/exchange/collaboration/public-folders/mail-enable-or-disable#allow-anonymous-users-to-send-email-to-a-mail-enabled-public-folder?view=exchserver-2019&preserve-view=true)
+### <a name="set-public-folder-ownership"></a>Установить право собственности на общую папку
 
-- Задайте пользователя регистрации электронной почты в качестве владельца обеих общих папок, общие папки *Очередь* и *Хранилище* с использованием Outlook или командной консоли Exchange на основе информации в следующей таблице:
+Установите пользователя регистрации электронной почты как владельца обеих общих папок, *Очередь* и *Хранение*.
 
-  |Свойство        |Значение                     |
-  |----------------|--------------------------|
-  |Пользователь            |Электронный адрес учетной записи пользователя, которую Business Central будет использовать для выполнения задания регистрации электронной почты.|
-  |Уровень разрешений|Владелец                     |
+Дополнительные сведения см. в разделе [Назначение разрешений для общей папки](/exchange/collaboration-exo/public-folders/set-up-public-folders#step-3-assign-permissions-to-the-public-folder).
 
-  Дополнительные сведения см. в разделе [Назначение разрешений для общей папки](/exchange/collaboration-exo/public-folders/set-up-public-folders#step-3-assign-permissions-to-the-public-folder).
+### <a name="mail-enable-the-queue-public-folder"></a>Включение поддержки электронной почты для общая папка *Очередь*
 
-- Создайте два правила потока почты на основе информации в следующей таблице
+  Дополнительные сведения см. в [Включение или отключение поддержки электронной почты для общей папки](/exchange/collaboration-exo/public-folders/enable-or-disable-mail-for-public-folder?preserve-view=true).
 
-  |Назначение  |Name |Условия                        |Действие                                       |
-  |---------|-----|----------------------------------|---------------------------------------------|
-  |Правило для входящей эл. почты |Регистрировать сообщения электронной почты, присланные в эту организацию|*Отправитель* расположен *Вне организации*, и *получатель* расположен *Внутри организации*|Скрытая копия учетная запись электронной почты, указанная для общая папка *Очередь*|
-  |Правило для исходящей эл. почты | Регистрировать сообщения электронной почты, отправленные из этой организации |*Отправитель* расположен *Внутри организации*, и *получатель* расположен *Вне организации*|Скрытая копия учетная запись электронной почты, указанная для общая папка *Очередь*|
-  
-  Дополнительные сведения см. в [Управлять правилами потока почты в Exchange Online](/exchange/security-and-compliance/mail-flow-rules/manage-mail-flow-rules) и [Действия правила потока почты в Exchange Online](/exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions).
+### <a name="mail-enable-sending-emails-to-the-queue-public-folder"></a>Оправка электронной почты с включением почты в общую папку *Очередь*
+
+Включение поддержки электронной почты отправка сообщений электронной почты в общая папка *Очередь* с помощью Outlook или Командная консоль Exchange.
+
+Дополнительные сведения см. в [Разрешить анонимным пользователям отправлять сообщения электронной почты в общую папку с включенной поддержкой электронной почты](/exchange/collaboration-exo/public-folders/enable-or-disable-mail-for-public-folder#allow-anonymous-users-to-send-email-to-a-mail-enabled-public-folder?preserve-view=true).
+
+### <a name="create-mail-flow-rules"></a>Создать правила потока почты
+
+Создайте два правила потока почты на основе информации в следующей таблице:
+
+|Назначение  |Name |Примените это правило, если...             |Выполните следующие действия...                          |
+|---------|-----|----------------------------------|---------------------------------------------|
+|Правило для входящей эл. почты |Регистрировать сообщения электронной почты, присланные в эту организацию|*Отправитель* расположен *Вне организации*, и *получатель* расположен *Внутри организации*|Скрытая копия учетная запись электронной почты, указанная для общая папка *Очередь*|
+|Правило для исходящей эл. почты | Регистрировать сообщения электронной почты, отправленные из этой организации |*Отправитель* расположен *Внутри организации*, и *получатель* расположен *Вне организации*|Скрытая копия учетная запись электронной почты, указанная для общая папка *Очередь*|
+
+Дополнительные сведения см. в [Управлять правилами потока почты в Exchange Online](/exchange/security-and-compliance/mail-flow-rules/manage-mail-flow-rules?preserve-view=true) и [Действия правила потока почты в Exchange Online](/exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions?preserve-view=true).
 
 > [!NOTE]
 > Если вы вносите изменения в командной консоли Exchange, эти изменения становятся видимыми в центре администрирования Exchange через некоторое время. Также внесенные в Exchange изменения будут доступны в [!INCLUDE[prod_short](prod_short.md)] через некоторое время. Задержка может составить несколько часов.

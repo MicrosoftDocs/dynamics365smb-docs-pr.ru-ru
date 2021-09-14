@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: IC, group, consolidation, affiliate, subsidiary
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 9f43141d4280fcadedc8072194f0d4d52e50cdf2
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 4de43cc0430522b6d4e3566e43eaba945cd2dff2
+ms.sourcegitcommit: e891484daad25f41c37b269f7ff0b97df9e6dbb0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6441272"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "7440470"
 ---
 # <a name="set-up-intercompany-transaction-posting"></a>Настройка разноски внутрихолдинговых транзакций
 
@@ -34,7 +34,7 @@ ms.locfileid: "6441272"
 ## <a name="to-set-intercompany-partners"></a>Настройка межфирменных партнеров
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Межфирменные партнеры**, а затем выберите связанную ссылку.
 2. Выберите действие **Создать**.
-3. На странице **Межфирменный партнер** заполните требуемые поля.[!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
+3. На странице **Межфирменный партнер** заполните требуемые поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 
 > [!NOTE]
 > В [!INCLUDE[prod_short](includes/prod_short.md)] Online вы не можете использовать расположение файлов для передачи транзакций своим партнерам, потому что [!INCLUDE[prod_short](includes/prod_short.md)] не имеет доступа к вашей локальной сети. Поэтому, если вы выберете **Расположение файла** в поле **Тип передачи**, поле **Путь к папке** недоступно. Вместо этого файл будет загружен в папку "Загрузки" на вашем компьютере. Затем вы отправляете файл кому-то в партнерской компании, например, по электронной почте. Для более прямого процесса мы рекомендуем вам выбрать вместо этого пункт **Электронная почта**.

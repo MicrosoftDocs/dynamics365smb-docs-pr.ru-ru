@@ -7,15 +7,15 @@ ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: kit, kitting
-ms.date: 06/14/2021
+ms.search.keywords: kit, kitting, substitute items
+ms.date: 07/29/2021
 ms.author: edupont
-ms.openlocfilehash: 34e869166ed3b556a91ba6c0793c60455cebfb6f
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 05060eaf315ac85f50509aec3df46ec3e9319deb
+ms.sourcegitcommit: e891484daad25f41c37b269f7ff0b97df9e6dbb0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6435374"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "7440620"
 ---
 # <a name="sell-items-assembled-to-order"></a>Продажа товара, собранного на заказ
 Если поле **Политика сборки** в карточке товара сборочного элемента имеет значение **Сборка на заказ**, данный элемент товара не относится к складским запасам, он должен быть специально собран к заказу на продажу. При вводе товара в строке заказа продажи автоматически создается сборочный заказ и связывается с заказом на продажу.  
@@ -57,12 +57,15 @@ ms.locfileid: "6435374"
 10. В заказе на продажу выберите действие **Выпустить**, чтобы уведомить сборочный участок, что процесс сборки может быть запущен.  
 11. В сборочном отделе выполните шаги по сборке товаров, которые продаются в рамках этой процедуры. Дополнительные сведения см. в разделе [Сборка товаров](assembly-how-to-assemble-items.md).  
 
+> [!NOTE]  
+> Имейте в виду, что замены номенклатуры не приведет к автоматической замене номенклатуры на другую номенклатуру, например, при создании заказа на продажу или в спецификации. Вместо этого вы будете предупреждены о том, что вам доступна замена.
+
 ## <a name="see-also"></a>См. также  
 [Управление сборкой](assembly-assemble-items.md)  
 [Работа со спецификациями](inventory-how-work-BOMs.md)  
 [Запасы](inventory-manage-inventory.md)  
-[Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
-[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
-
+[Сведения о проектировании: Warehouse Management](design-details-warehouse-management.md)  
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
+[Регистрация новых товаров](inventory-how-register-new-items.md)
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

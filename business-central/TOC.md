@@ -91,6 +91,7 @@
 ### [Продление пробной версии](admin-extend-trial.md)
 ### [Отмена подписки или удаление Business Central](admin-cancel.md)
 ## Купить
+### [Начало работы с подпиской](across-preview.md#getting-started-with-a-subscription)
 ### [Подготовьтесь к ведению бизнеса](ui-get-ready-business.md)
 
 <!--setup-->
@@ -649,9 +650,10 @@
 ### [Просмотр наличия товара](inventory-how-availability-overview.md)
 ### [Перемещение запасов между складами](inventory-how-transfer-between-locations.md)
 ### [Резервирование товаров](inventory-how-to-reserve-items.md)
+### [Настройка отслеживания товаров по серийному номеру, номеру партии и номеру упаковки](inventory-how-setup-item-tracking.md)
 ### [Отслеживание товаров по серийному номеру, номеру партии и номеру упаковки](inventory-how-work-item-tracking.md)
-### [Использование перекрестных ссылок по товару](inventory-how-use-item-cross-refs.md)
 ### [Трассировка товаров, трассируемых по товарам](inventory-how-to-trace-item-tracked-items.md)
+### [Использование перекрестных ссылок по товару](inventory-how-use-item-cross-refs.md)
 ### [Блокировка товаров](inventory-how-block-items.md)
 ### [Работа с центрами ответственности](inventory-responsibility-centers.md)
 
