@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: Teams, MS Teams, Microsoft Teams, Skype, Link, Microsoft 365, collaborate, collaboration, teamwork
 ms.date: 04/12/2021
 ms.author: jswymer
-ms.openlocfilehash: ad1fd27bf6687993fed82ab418d621520e3439a1
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 7fef0f2ffe23155e840fa89a62b1822fee1efd35
+ms.sourcegitcommit: 6ad0a834fc225cc27dfdbee4a83cf06bbbcbc1c9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6443210"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "7589086"
 ---
 # <a name="managing-microsoft-teams-integration-with-prod_short"></a>Управление интеграцией Microsoft Teams с [!INCLUDE [prod_short](includes/prod_short.md)]
 
@@ -37,8 +37,10 @@ ms.locfileid: "6443210"
     |----|---|---|
     |Поиск контактов [!INCLUDE [prod_short](includes/prod_short.md)].|![флажок.](media/check.png "галочка")|![флажок](media/check.png "галочка")|
     |Вставьте ссылку в запись [!INCLUDE [prod_short](includes/prod_short.md)] в беседу и отправьте как карточку.|![флажок](media/check.png "галочка")|![флажок](media/check.png "галочка")|
+    |Поделиться ссылкой со страницы в [!INCLUDE [prod_short](includes/prod_short.md)] в беседе Teams.|![флажок](media/check.png "галочка")|![флажок](media/check.png "галочка")|
     |Посмотреть карточку записи [!INCLUDE [prod_short](includes/prod_short.md)] в разговоре.|![флажок](media/check.png "галочка")||
     |Посмотреть подробности карточки записи [!INCLUDE [prod_short](includes/prod_short.md)] в разговоре.|![флажок](media/check.png "галочка")|![флажок](media/check.png "галочка")|
+    |Откройте ссылку на страницу в [!INCLUDE [prod_short](includes/prod_short.md)] из беседы.|![флажок](media/check.png "галочка")|![флажок](media/check.png "галочка")|
 
 - Разрешить предварительный просмотр URL-адресов
 
@@ -68,7 +70,7 @@ ms.locfileid: "6443210"
 - <a name="permissions"></a>Разрешения пользователя:
 
     Как правило, поиск контактов, страницы и данные, которые пользователи могут просматривать и редактировать в беседе Teams, контролируются их разрешениями в [!INCLUDE [prod_short](includes/prod_short.md)].
-    
+
     - Для поиска контактов пользователи должны иметь как минимум разрешение на чтение для таблицы **Контакты**. 
     - Чтобы вставить ссылку [!INCLUDE [prod_short](includes/prod_short.md)] в беседу Teams и развернуть ее в карточку, пользователи должны иметь как минимум разрешение на чтение страницы и ее данных.
     - После того, как карточка отправлена в беседу, любой пользователь в этой беседе может просматривать эту карточку без разрешения [!INCLUDE [prod_short](includes/prod_short.md)].
@@ -77,11 +79,35 @@ ms.locfileid: "6443210"
     
     Сведения о разрешениях см. в разделе [Назначение разрешений пользователям и группам](ui-define-granular-permissions.md).
 
+## <a name="installing-the-business-central-app-by-using-centralized-deployment"></a>Установка приложения Business Central с помощью централизованного развертывания
+
+В центре администрирования Microsoft Teams — это место, где вы настраиваете политики установки приложений Teams для организации. В центре администрирования Teams вы можете использовать функцию централизованного развертывания для автоматической установки приложения Business Central в Teams для всех пользователей в вашей организации, определенных групп или отдельных пользователей.
+
+> [!NOTE]
+> Чтобы настроить централизованное развертывание, ваша учетная запись Teams должна иметь роль **Администратор службы Teams** или **Глобальный администратор**.
+
+1. В Business Central выберите ![Лупа, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") введите **Централизованное развертывание приложений Teams** и выберите связанную ссылку. Или нажмите [здесь](https://businesscentral.dynamics.com/?page=1833), чтобы открыть страницу напрямую.
+2. Прочтите информацию в **Настройка приложения Business Central для Teams**, затем выберите **Далее**, когда готовы.
+3. Откройте [Центр администрирования Teams](https://go.microsoft.com/fwlink/?linkid=2163970) и выполните следующие шаги.
+    1. Перейдите **Приложения Teams** > **Политики настройки**.
+    2. Создайте новую политику или выберите политику, которую вы хотите использовать для установки приложения Business Central, затем выберите **Добавить приложения**.
+    3. На странице **Добавить установленные приложения** найдите и выберите **Business Central**.
+    4. Нажмите **Добавить**.
+
+       Business Central теперь должен отображаться в **Установленные приложения** для политики.
+    5. Настройте необходимые дополнительные параметры и выберите **Сохранить**.
+
+    Дополнительные сведения о политиках настройки в Teams см. в разделе [Управляйте политиками настройки приложений в Microsoft Teams](/MicrosoftTeams/teams-app-setup-policies) в документации Teams.
+4. Вернитесь в **Централизованное развертывание приложений Teams** в Business Central и выберите **Готово**.
+
+> [!IMPORTANT]
+> Применение политики настройки приложения и развертывание приложения для пользователей может занять до 24 часов.
+
 ## <a name="managing-privacy-and-compliance"></a>Управление конфиденциальностью и соблюдением требований 
 
 Microsoft Teams обеспечивает обширный контроль за соблюдением и управлением конфиденциальными или личными данными &mdash; включая данные, добавленные в чаты и каналы приложением [!INCLUDE [prod_short](includes/prod_short.md)].
 
-### <a name="understanding-where-prod_short-cards-are-stored"></a>Сведения о том, где хранятся карточки [!INCLUDE [prod_short](includes/prod_short.md)] 
+### <a name="understanding-where-prod_short-cards-are-stored"></a>Сведения о том, где хранятся карточки [!INCLUDE [prod_short](includes/prod_short.md)]
 
 После отправки карточки в чат она и поля, отображаемые на карточке, копируются в Teams. Эта информация регулируется политиками Teams для вашей организации, такими как политики хранения данных. При отображении сведений карточки никакие данные в окне сведений не хранятся в Teams. Данные остаются в [!INCLUDE [prod_short](includes/prod_short.md)] и будут извлечены Teams только тогда, когда пользователь решит просмотреть сведения. 
 

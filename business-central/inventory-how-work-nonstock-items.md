@@ -11,12 +11,12 @@ ms.workload: na
 ms.search.keywords: non-inventoriable
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 3f4047e6d1a8a7533933fd8faefe9a43f22f23e6
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 328417821e8e5cc14bc8267e64687ce2a14f15af
+ms.sourcegitcommit: 6ad0a834fc225cc27dfdbee4a83cf06bbbcbc1c9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6445580"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "7588555"
 ---
 # <a name="work-with-catalog-items"></a>Работа с товарами из каталога
 Для удобства клиентов можно предлагать им некоторые товары, которые вы не хотите обрабатывать в своей системе до начала торговли ими. Когда вы решите начать управлять такими товарами в своей системе, можно будет преобразовать их в обычные карточки товаров одним из двух способов.
@@ -66,7 +66,7 @@ ms.locfileid: "6445580"
 Затем можно заполнить или отредактировать поля в новой карточке товара, как требуется. Дополнительные сведения см. в разделе [Регистрация новых товаров](inventory-how-register-new-items.md).
 
 > [!NOTE]  
->   Для поставщика товара автоматически создается запись перекрестной ссылки между номером товара у поставщика и вашим новым номером товара. Дополнительные сведения см. в разделе [Использование перекрестных ссылок по товару](inventory-how-use-item-cross-refs.md).
+>   Автоматически создается ссылки товара между номером товара у поставщика и вашим новым номером товара. Дополнительные сведения см. в разделе [Использование ссылок по товару](inventory-how-use-item-cross-refs.md).
 
 ## <a name="see-also"></a>См. также
 [Регистрация новых товаров](inventory-how-register-new-items.md)  

@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: Teams, MS Teams, Microsoft Teams, Skype, Link, Microsoft 365, collaborate, collaboration, teamwork
 ms.date: 04/12/2021
 ms.author: jswymer
-ms.openlocfilehash: c1912cda437b16495e52120eb353830751b1c06a
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 49cc504c95d5636957e93b4543b05e3bfb22d989
+ms.sourcegitcommit: 6ad0a834fc225cc27dfdbee4a83cf06bbbcbc1c9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6446469"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "7587509"
 ---
 # <a name="business-central-and-microsoft-teams-integration"></a>Интеграция Business Central и Microsoft Teams
 
@@ -51,6 +51,14 @@ ms.locfileid: "6446469"
 
 Дополнительные сведения см. в разделе [Общий доступ к записям в Microsoft Teams](across-working-with-teams.md).
 
+### <a name="share-links-from-pages-in-business-central-to-teams"></a>Делитесь ссылками со страниц в Business Central в Teams
+
+Непосредственно на большинстве страниц коллекций и сведений в Business Central вы можете использовать действие **Отправка данных в Teams** из ![!Значок меню «Поделиться» на страницах.](media/share-icon.png "Меню Поделиться отображается на карточке.") чтобы ввести сообщение, выбрать получателей, например членов команды, группы или каналы, и отправить сообщение со ссылкой на страницу Business Central.
+
+![!Меню «Поделиться» отображается на карточке.](media/teams-share-link.png "Меню Поделиться отображается на карточке.")
+
+Дополнительные сведения см. в разделе [Общий доступ к записям и ссылки страниц в Microsoft Teams](across-working-with-teams.md#share-link).
+
 ## <a name="get-started"></a>Начало работы
 
 1. Учетная запись пользователя [!INCLUDE [prod_short](includes/prod_short.md)] Online требуется для приложения [!INCLUDE [prod_short](includes/prod_short.md)] для Teams.
@@ -62,7 +70,7 @@ ms.locfileid: "6446469"
 
 2. Как администратор см. [Управление интеграцией Microsoft Teams с Business Central](admin-teams-integration.md) для получения информации о настройке пользователей для работы с [!INCLUDE [prod_short](includes/prod_short.md)] и Teams.
 3. Установка приложения [!INCLUDE [prod_short](includes/prod_short.md)] в Teams. См. [Установка приложения [!INCLUDE [prod_short](includes/prod_short.md)] для Microsoft Teams](across-install-app-for-teams.md).
-4. Как только приложение установлено, вы готовы к работе. См. [Поиск клиентов, поставщиков и других контактов из Microsoft Teams](across-search-contacts-teams.md) и [Общий доступ к записям в Microsoft Teams](across-working-with-teams.md). 
+4. Как только приложение установлено, вы готовы к работе. См. [Поиск клиентов, поставщиков и других контактов из Microsoft Teams](across-search-contacts-teams.md) и [Общий доступ к записям в Microsoft Teams](across-working-with-teams.md).
 
 ## <a name="see-also"></a>См. также
 

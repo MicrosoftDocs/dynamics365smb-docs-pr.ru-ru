@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: item, finished good, component, raw material, assembly item, item substitution
-ms.date: 07/29/2021
+ms.date: 09/24/2021
 ms.author: edupont
-ms.openlocfilehash: a3ef2fee2b6a2c868fa4085d08bf76bb02b96b49
-ms.sourcegitcommit: e891484daad25f41c37b269f7ff0b97df9e6dbb0
+ms.openlocfilehash: 34a7c73cd82d63a2ca5b549e7d1cedf582a32465
+ms.sourcegitcommit: 6ad0a834fc225cc27dfdbee4a83cf06bbbcbc1c9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/27/2021
-ms.locfileid: "7440445"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "7587713"
 ---
 # <a name="register-new-items"></a>Регистрация новых товаров
 
@@ -40,13 +40,7 @@ ms.locfileid: "7440445"
 
 ## <a name="to-create-a-new-item-card"></a>Создание новой карточки товара
 
-1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Товары**, а затем выберите связанную ссылку.  
-2. На странице **Товары** выберите действие **Создать**.
-
-    Если существует только один шаблон товара, откроется новая карточка товара, в которой некоторые поля будут заполнены сведениями из шаблона.
-3. На странице **Выбор шаблона для нового товара** выберите шаблон, который требуется использовать для новой карточки товара.
-4. Нажмите кнопку **ОК**. Откроется новая карточка товара, в которой некоторые поля будут заполнены сведениями из шаблона.
-5. Заполните или измените поля в карточке товара по мере необходимости. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
+[!INCLUDE[create_new_item](includes/create_new_item.md)]
 
 > [!NOTE]
 > В поле **Метод учета себестоимости** вы настраиваете способ, при помощи которого вычисляется себестоимость единицы товара, делая допущения относительно физического движения товара через организацию. Предусмотрено пять методов учета себестоимости, в зависимости от типа товара. Дополнительные сведения см. в разделе [Сведения о проектировании: методы учета себестоимости](design-details-costing-methods.md).

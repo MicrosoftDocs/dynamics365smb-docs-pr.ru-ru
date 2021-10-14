@@ -7,20 +7,20 @@ ms.topic: landing-page
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.date: 04/01/2021
+ms.date: 09/29/2021
 ms.author: edupont
-ms.openlocfilehash: e84f9df3d688ccd6e6355f90e3bf76069b371d83
-ms.sourcegitcommit: eeaf9651c26e49974254e29b7e2d16200c818dad
+ms.openlocfilehash: 14dd0aa40524ca1e261b0e57aa62bfcccd80afd4
+ms.sourcegitcommit: 6ad0a834fc225cc27dfdbee4a83cf06bbbcbc1c9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/06/2021
-ms.locfileid: "6341362"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "7588205"
 ---
 # <a name="welcome-to-prod_long"></a>Добро пожаловать в [!INCLUDE[prod_long](includes/prod_long.md)]
 
 [!INCLUDE[prod_short](includes/prod_short.md)] — это решение по управлению деятельностью для малых и средних предприятий, позволяющее автоматизировать и упростить бизнес процессы и лучше управлять бизнесом. Легко настраиваемое, с множеством полезных функций, [!INCLUDE[prod_short](includes/prod_short.md)] позволяет организациям управлять деятельностью, включая финансы, производство, продажи, отгрузку, управление проектом, оказание услуг и т. д. Решение позволяет легко добавлять функциональность, специфическую для региона, в котором осуществляется деятельность, а также для сферы деятельности организации.  
 
-Если у вас уже есть [!INCLUDE[prod_short](includes/prod_short.md)], то войдите на [https://businesscentral.dynamics.com](https://businesscentral.dynamics.com). В противном случае, [просмотрите обзор](https://dynamics.microsoft.com/business-central/overview/), [пройдите тур с гидом](https://dynamics.microsoft.com/en-us/guidedtour/dynamics/business-central/1/1), затем [начните бесплатный пробный период](https://go.microsoft.com/fwlink/?linkid=847861). Дополнительные сведения об адаптации к [!INCLUDE[prod_short](includes/prod_short.md)] см. в разделе [Подготовьтесь к ведению бизнеса](ui-get-ready-business.md).  
+Если у вас уже есть [!INCLUDE[prod_short](includes/prod_short.md)], то войдите на [https://businesscentral.dynamics.com](https://businesscentral.dynamics.com). В противном случае, [просмотрите обзор](https://dynamics.microsoft.com/business-central/overview/), [пройдите тур с гидом](https://dynamics.microsoft.com/en-us/guidedtour/dynamics/business-central/1/1), затем [начните бесплатный пробный период](https://go.microsoft.com/fwlink/?linkid=847861). См. [статьи с краткими руководствами](quick-start-business-central.md), чтобы лучше узнать [!INCLUDE [prod_short](includes/prod_short.md)]. Дополнительные сведения об адаптации к [!INCLUDE[prod_short](includes/prod_short.md)] см. в разделе [Подготовьтесь к ведению бизнеса](ui-get-ready-business.md).  
 
 > [!TIP]
 > Вы перешли сюда из [!INCLUDE [prod_short](includes/prod_short.md)]? Если вы не уверены, где найти то, что ищете, вы можете **фильтровать по заголовкам** в панели навигации слева, или вы можете использовать поле **Поиск** в верхней части окна браузера.  
@@ -102,6 +102,7 @@ ms.locfileid: "6341362"
 ## <a name="see-also"></a>См. также
 
 [Dynamics 365 Business Central на сайте Microsoft Learn](/learn/dynamics365/business-central?WT.mc_id=dyn365bc_landingpage-docs)  
+[Краткое руководство по Business Central](quick-start-business-central.md)  
 [Начало работы с Business Central](ui-get-ready-business.md)  
 [Посетите нашу библиотеку видео](across-videos.md)  
 [Настройка [!INCLUDE[prod_short](includes/prod_short.md)] с помощью расширений](ui-extensions.md)  

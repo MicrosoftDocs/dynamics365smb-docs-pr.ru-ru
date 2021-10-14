@@ -1,21 +1,21 @@
 ---
 title: Получение Business Central на мобильном устройстве
 description: В этом разделе описаны различные способы просмотра и редактирования данных Business Central, отправки в Excel и другое на телефоне или планшете.
-author: edupont04
+author: jswymer
 ms.service: dynamics365-business-central
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: phone, tablet
-ms.date: 06/16/2021
-ms.author: edupont
-ms.openlocfilehash: 7f2d86ab1ba8f3ee0ae77aad16b64feb0fa1fe4f
-ms.sourcegitcommit: e562b45fda20ff88230e086caa6587913eddae26
+ms.search.keywords: desktop, Windows, app
+ms.date: 10/01/2021
+ms.author: jswymer
+ms.openlocfilehash: 1097689e7fc06e7d1f2f3dede95c978a3316e975
+ms.sourcegitcommit: 6ad0a834fc225cc27dfdbee4a83cf06bbbcbc1c9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "6324004"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "7588280"
 ---
 # <a name="getting-business-central-on-your-mobile-device"></a>Получение Business Central на мобильном устройстве
 
@@ -23,11 +23,12 @@ ms.locfileid: "6324004"
 
 > [!Video https://www.microsoft.com/en-us/videoplayer/embed/RE4Arje?rel=0]
 
+> [!TIP]
+> Хотите, чтобы приложение было на рабочем столе вашего компьютера с Windows или macOS? См. [Получение приложения Business Central на настольном компьютере](install-desktop-app.md).
+
 ## <a name="get-the-app-on-my-mobile-device"></a>Получение приложения на мобильном устройстве
 
-1. Установите приложение [!INCLUDE[prod_short](includes/prod_short.md)] на мобильное устройство, скачав его из магазина Windows, App Store или Google Play.  
-
-   - [Магазин Windows](https://go.microsoft.com/fwlink/?LinkId=734848) (только ПК)
+1. Установите приложение [!INCLUDE[prod_short](includes/prod_short.md)] на мобильное устройство, скачав его из App Store или Google Play.  
    - [App Store](https://go.microsoft.com/fwlink/?LinkId=734847)
    - [Google Play](https://go.microsoft.com/fwlink/?LinkId=734849)
 2. Запустите приложение на мобильном устройстве.
@@ -44,9 +45,8 @@ ms.locfileid: "6324004"
 
 Если вы используете [!INCLUDE[prod_short](includes/prod_short.md)] On-Premises, вы также можете пользоваться преимуществами мобильного приложения. Установка аналогична, но с парой исключений.
 
-1. Установите приложение [!INCLUDE[prod_short](includes/prod_short.md)] на мобильное устройство, скачав его из магазина Windows, App Store или Google Play.  
+1. Установите приложение [!INCLUDE[prod_short](includes/prod_short.md)] на мобильное устройство, скачав его из App Store или Google Play.  
 
-   - [Магазин Windows](https://go.microsoft.com/fwlink/?LinkId=734848) (только ПК)
    - [App Store](https://go.microsoft.com/fwlink/?LinkId=734847)
    - [Google Play](https://go.microsoft.com/fwlink/?LinkId=734849)
 2. Запустите приложение на мобильном устройстве.

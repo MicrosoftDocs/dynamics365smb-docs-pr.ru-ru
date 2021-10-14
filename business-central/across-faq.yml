@@ -6,14 +6,14 @@ metadata:
   ms.service: dynamics365-business-central
   ms.topic: conceptual
   ms.search.keywords: FAQ, email, Microsoft 365, subscription, subscribe, trial, plan, application area, experience, support, buy, upgrade, extend
-  ms.date: 08/24/2021
+  ms.date: 09/29/2021
   ms.author: edupont
-  ms.openlocfilehash: 3cc1b5fc394d63cd3741337263eafecdfa878fbb
-  ms.sourcegitcommit: e891484daad25f41c37b269f7ff0b97df9e6dbb0
+  ms.openlocfilehash: 53f4a87fea747b59bed7942885b1374377381029
+  ms.sourcegitcommit: 6ad0a834fc225cc27dfdbee4a83cf06bbbcbc1c9
   ms.translationtype: HT
   ms.contentlocale: ru-RU
-  ms.lasthandoff: 08/27/2021
-  ms.locfileid: "7440695"
+  ms.lasthandoff: 10/01/2021
+  ms.locfileid: "7588114"
 title: Вопросы и ответы об использовании Business Central
 summary: "В этом разделе содержатся ответы на часто задаваемые вопросы по регистрации на пробную версию, приобретению подписки и использованию [!INCLUDE[prod_short](includes/prod_short.md)]. Можно также узнать порядок получения технической поддержки.  \n"
 sections:
@@ -27,7 +27,7 @@ sections:
     answer: "Можно зарегистрироваться на бесплатную пробную версию, чтобы изучить [!INCLUDE[prod_short](includes/prod_short.md)]. [!INCLUDE[free_trial_md](includes/free_trial_md.md)] Если требуется больше времени на ознакомление, [можно продлить срок действия пробной версии](#can-i-extend-my-30-day--new-company--trial-period-).  \n\nЧтобы вы могли быстрее приступить к работе в [!INCLUDE[prod_short](includes/prod_short.md)], можно просмотреть руководства по сопровождаемой настройке, видео или разделы справки для выбранных задач настройки. Дополнительные сведения см. в разделе [Подготовьтесь к ведению бизнеса](ui-get-ready-business.md).  \n\nКогда вы будете готовы приобрести [!INCLUDE[prod_short](includes/prod_short.md)], вы можете найти партнера [!INCLUDE[prod_short](includes/prod_short.md)] на странице [Я ищу поставщика решений](https://go.microsoft.com/fwlink/?linkid=2038145). Для получения дополнительной информации см. раздел [Как найти партнера по перепродаже?](#how-do-i-find-a-reselling-partner).  \n"
   - question: >
       Что делать, если у меня есть вопросы?
-    answer: "Если у вас есть вопросы по [!INCLUDE[prod_short](includes/prod_short.md)], на которые вы не можете найти ответ в документации, задайте вопрос в сообществе Business Central. Дополнительные сведения см. в разделе [Сообщество Dynamics 365 Business Central](https://community.dynamics.com/business).  \n\nНа начальной странице сообщества можно также найти ссылки на наши блоги, где также можно найти советы и подсказки. Дополнительные сведения см. в [блоге Microsoft Dynamics 365 Business Central в Dynamics 365](https://cloudblogs.microsoft.com/dynamics365/it/product/business-central/) и в более старом [блоге Dynamics 365 Business Central](https://community.dynamics.com/business/b/financials).  \n\nНаконец, можно связаться с нашим торговым партнером [!INCLUDE[prod_short](includes/prod_short.md)]. Для получения дополнительной информации см. разделы [Как получить техническую поддержку?](/dynamics365/business-central/across-faq#hdigetsupport) и [Как найти партнера по перепродаже?](#how-do-i-find-a-reselling-partner).  \n"
+    answer: "Если у вас есть вопросы по [!INCLUDE[prod_short](includes/prod_short.md)], на которые вы не можете найти ответ в документации, задайте вопрос в сообществе Business Central. Дополнительные сведения см. в разделе [Сообщество Dynamics 365 Business Central](https://community.dynamics.com/business).  \n\nНа начальной странице сообщества можно также найти ссылки на наши блоги, где также можно найти советы и подсказки. Дополнительные сведения см. в [блоге Microsoft Dynamics 365 Business Central в Dynamics 365](https://cloudblogs.microsoft.com/dynamics365/it/product/business-central/) и в более старом [блоге Dynamics 365 Business Central](https://community.dynamics.com/business/b/financials).  \n\nНаконец, можно связаться с нашим торговым партнером [!INCLUDE[prod_short](includes/prod_short.md)]. Для получения дополнительной информации см. разделы [Как получить техническую поддержку?](/dynamics365/business-central/across-faq#how-do-i-get-technical-support-for-business-central) и [Как найти партнера по перепродаже?](#how-do-i-find-a-reselling-partner).  \n"
   - question: >
       Почему я не могу найти эту функциональную возможность в моем Business Central?
     answer: "Вы недавно прочитали о новой функциональной возможности в плане выпуска или в нашем блоге? В таком случае возможно, что [!INCLUDE[prod_short](includes/prod_short.md)] еще не обновлен до последней версии. Проверить, на какой версии базируется ваша система [!INCLUDE[prod_short](includes/prod_short.md)], можно на странице [Справка и поддержка](product-help-and-support.md).  \n\nЭто относится к [!INCLUDE [prod_short](includes/prod_short.md)] интернет-версии и локальной версии.  \n\nКроме того, если функциональная возможность опубликована как расширение в AppSource, то после объявления расширения оно появляется в AppSource с некоторой задержкой. Это относится только к [!INCLUDE [prod_short](includes/prod_short.md)] интернет-версии.  \n"

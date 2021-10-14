@@ -1,1 +1,1 @@
-<Token> **ОТНОСИТСЯ К:** Business Central Online (выпуск 2021 г., волна 1 и новее)</Token>
+> **ОТНОСИТСЯ К**: Business Central Online (выпуск 2021 г., волна 1 и новее)

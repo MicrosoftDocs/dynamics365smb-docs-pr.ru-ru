@@ -7,12 +7,12 @@ ms.topic: conceptual
 ms.search.keywords: app, add-in, manifest, customize
 ms.date: 08/25/2021
 ms.author: edupont
-ms.openlocfilehash: b408afe65f2063ab77dca4e4e87fcfc4715f1204
-ms.sourcegitcommit: e891484daad25f41c37b269f7ff0b97df9e6dbb0
+ms.openlocfilehash: b9a4d6b37bce0772540a307edc9c64cba1780dc5
+ms.sourcegitcommit: 6ad0a834fc225cc27dfdbee4a83cf06bbbcbc1c9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/27/2021
-ms.locfileid: "7440507"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "7587788"
 ---
 # <a name="customizing-business-central-online-using-extensions"></a>Настройка Business Central Online с помощью расширений
 
@@ -53,32 +53,6 @@ ms.locfileid: "7440507"
 
 Некоторые расширения разработаны Майкрософт, а другие — [другими организациями](ui-extensions-other.md). Расширения тестируются, прежде чем они становятся доступными для вас, но мы рекомендуем перейти по ссылкам, доступным для каждого расширения, чтобы узнать больше информации о расширении перед его установкой.  
 
-Корпорация Майкрософт предоставляет следующие расширения:  
-
-* [Расширение AMC Banking 365 Fundamentals](ui-extensions-amc-banking.md)
-* [Зарплата Ceridian](ui-extensions-ceridian-payroll.md)
-* [Раздел организации](ui-extensions-company-hub.md)  
-* [Миграция данных Dynamics GP](ui-extensions-dynamicsgp-data-migration.md)
-* [Envestnet Yodlee Bank Feeds](ui-extensions-yodlee-bank-feeds.md)
-* [Важная бизнес-аналитика](ui-extensions-essential-business-insights.md)
-* [Анализатор изображений](ui-extensions-image-analyzer.md)
-* [Интеллектуальное облако](ui-extensions-data-replication.md)
-* [База интеллектуального облака](ui-extensions-intelligent-cloud.md)  
-* [Прогнозы просрочки оплаты](ui-extensions-late-payment-prediction.md)
-* [Microsoft Pay](ui-extensions-microsoft-pay-payments.md)
-* [PayPal Payments Standard](ui-extensions-paypal-payments-standard.md)
-* [Миграция данных QuickBooks](ui-extensions-quickbooks-data-migration.md)
-* [Миграция данных QuickBooks Online](ui-extensions-quickbooks-online-data-migration.md)
-* [Импорт файла зарплаты Quickbooks](ui-extensions-quickbooks-payroll.md)
-* [Прогноз продаж и запасов](ui-extensions-sales-forecast.md)
-* [Группа НДС](ui-extensions-vat-group.md)
-* [WorldPay Payments Standard](ui-extensions-worldpay-payments-standard.md)
-* [DK — Миграция данных C5](ui-extensions-c5-data-migration.md)
-* [DK — Платежи и выверки](ui-extensions-payments-reconciliation-formats-dk.md)
-* [DK — Форматы налоговой документации](ui-extensions-tax-file-formats-dk.md)
-* [Расширение "Почтовые индексы Великобритании GetAddress.io"](LocalFunctionality/UnitedKingdom/ui-extensions-getaddressio.md)  
-* [US/CA/UK/AU/NZ/ZA — Отправить авизо](ui-extensions-send-remittance-advice.md)
-
 > [!NOTE]  
 > Узнавать о новых расширениях от Майкрософт и других поставщиков можно по адресу [AppSource.microsoft.com](https://appsource.microsoft.com/marketplace/apps?product=dynamics-365%3Bdynamics-365-business-central&page=1).
 
@@ -102,6 +76,12 @@ ms.locfileid: "7440507"
 * Сервис OCR
 * Online Map
 * Служба проверки ИНН в ЕС Сервис
+
+## <a name="recommended-apps"></a>Рекомендуемые приложения
+Партнеры и торговые посредники Microsoft могут создавать расширения, которые они могут использовать для составления списков приложений, которые они часто рекомендуют своим клиентам. Если они это сделают и развернут расширение для вашего клиента, приложения будут доступны на странице **Рекомендуемые приложения**. Там вы можете прочитать о каждом приложении и решить, устанавливать ли их.
+
+> [!NOTE]
+> Если вы являетесь партнером или торговым посредником Microsoft и заинтересованы в предоставлении списка рекомендуемых приложений, см. [Рекомендовать приложения из AppSource](/dynamics365/business-central/dev-itpro/administration/recommend-apps).
 
 ## <a name="see-also"></a>См. также
 

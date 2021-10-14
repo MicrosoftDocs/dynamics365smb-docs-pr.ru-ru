@@ -5,14 +5,14 @@ author: bholtorf
 ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: environments, companies, tenants, organization
-ms.date: 04/01/2021
+ms.date: 10/04/2021
 ms.author: bholtorf
-ms.openlocfilehash: 661a6dafc72995b74623ebad9d594755b227f697
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 6ed814213bea50ceb8d69c107edff450b76d8f7b
+ms.sourcegitcommit: 99c705d160451c05b226350ff94b52fb0c3ae7a0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6445926"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "7606389"
 ---
 # <a name="switching-to-another-company-or-environment"></a>Переключение на другую компанию или среду
 
@@ -23,12 +23,17 @@ ms.locfileid: "6445926"
 
 ## <a name="switch-to-another-environment"></a>Переход к другой среде
 
-Когда вы вошли в [!INCLUDE[prod_short](includes/prod_short.md)], доступные вам среды доступны на начальной странице Dynamics 365. Вы можете открыть страницу, выбрав значок **Средство запуска приложений** icon ![Средство запуска приложений.](media/app-launcher-icon.png "Средство запуска приложений обеспечивает доступ к дополнительным функциям") и выбрав **Dynamics 365**. Чтобы перейти к вашей компании по умолчанию в этой среде, выберите плитку. Там будет одна плитка для каждого типа среды. Если у вас есть несколько сред определенного типа, при выборе плитки вы можете выбрать среду для доступа.
+Когда вы вошли в [!INCLUDE[prod_short](includes/prod_short.md)], доступные вам среды доступны на начальной странице Office.com. 
 
-На следующем рисунке показаны плитки для доступа к рабочим средам и средам песочницы на начальной странице Dynamics 365.
+1. Выберите значок **Средство запуска приложений** ![Средство запуска приложений](media/app-launcher-icon.png "Средство запуска приложений обеспечивает доступ к дополнительным функциям").
+2. Если вы не видите приложение для [!INCLUDE[prod_short](includes/prod_short.md)] в открывшейся области, выберите **Office 365**. Затем введите **Business Central** в поле **Поиск** или выберите **Все приложения** > **Business Central**.   
+3. Будет указано одно приложение [!INCLUDE[prod_short](includes/prod_short.md)] для каждого типа среды, например производственной среды и песочницы. Чтобы переключиться в другую среду, выберите приложение [!INCLUDE[prod_short](includes/prod_short.md)] с учетом типа среды. Если есть несколько сред определенного типа, при выборе среды для доступа появится запрос.
 
-:::image type="content" source="media/app-picker-environments.png" alt-text="На начальной странице Dynamics 365 показаны рабочая среда и среда песочницы.":::
+<!--
+The following image shows tiles for accessing production and sandbox environments on the Dynamics 365 Home page.
 
+:::image type="content" source="media/app-picker-environments.png" alt-text="The Dynamics 365 Home page showing production and sandbox environments.":::
+-->
 ## <a name="switch-to-another-company"></a>Переход к другой компании
 
 Когда вы вошли в [!INCLUDE[prod_short](includes/prod_short.md)], вы можете быстро переключиться на другую организацию. После того, как вы сделаете это, выбранная вами компания станет компанией по умолчанию и будет отображаться при следующем входе в систему.

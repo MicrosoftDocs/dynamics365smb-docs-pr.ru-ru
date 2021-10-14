@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2021
+ms.date: 10/01/2021
 ms.author: edupont
-ms.openlocfilehash: d6c67ea5529e885483858064201a1d850bab7eff
-ms.sourcegitcommit: ecbabd2d0fdf2566cea4a05a25b09ff6ca6256c6
+ms.openlocfilehash: fdacd0fcfd681d641f7c81249632662e90707951
+ms.sourcegitcommit: 6ad0a834fc225cc27dfdbee4a83cf06bbbcbc1c9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6649866"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "7588886"
 ---
 # <a name="use-job-queues-to-schedule-tasks"></a>Использование очередей работ для планирования задач
 
@@ -60,6 +60,15 @@ ms.locfileid: "6649866"
 
 > [!TIP]
 > Вы также можете просмотреть состояние записей очереди заданий, используя Application Insights в Microsoft Azure для более глубокого анализа на основе телеметрии. Дополнительные сведения см. в разделах [Мониторинг и анализ телеметрии](/dynamics365/business-central/dev-itpro/administration/telemetry-overview) и [Анализ телеметрии трассировки жизненного цикла очереди заданий](/dynamics365/business-central/dev-itpro/administration/telemetry-job-queue-lifecycle-trace) в содержимом [!INCLUDE [prod_short](includes/prod_short.md)] для разработчиков и администраторов.
+
+## <a name="view-scheduled-tasks"></a>Просмотр запланированных задач
+
+На странице **Запланированные задачи** в [!INCLUDE [prod_short](includes/prod_short.md)] показано, какие задачи готовы к запуску в очереди заданий. На странице также отображается информация о компании, в которой настроено выполнение каждой задачи. Однако могут выполняться только задачи, отмеченные как принадлежащие к текущей среде.  
+
+Например, если текущая компания находится в среде, которая является копией другой среды, все запланированные задачи автоматически останавливаются. Используйте страницу **Запланированные задачи**, чтобы задать, какие задачи готовы к запуску в очереди заданий.  
+
+> [!NOTE]
+> Внутренние администраторы и пользователи могут планировать выполнение задач. Делегированные администраторы не могут.
 
 ## <a name="the-my-job-queue-part"></a>Часть "Моя очередь работ"
 Часть **Моя очередь работ** в вашем ролевом центре показывает операции очереди заданий, которые вы запустили, но они еще не завершены. По умолчанию часть не видна, поэтому ее следует добавить в ролевой центр. Дополнительные сведения см. в разделе [Персонализация рабочей области](ui-personalization-user.md).  

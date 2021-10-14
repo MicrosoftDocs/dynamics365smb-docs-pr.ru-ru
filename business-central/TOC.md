@@ -41,7 +41,10 @@
 ##### [Сведения о проектировании: применение товара](design-details-item-application.md)  
 ##### [Сведения о проектировании: известная проблема применения товара](design-details-inventory-zero-level-open-item-ledger-entries.md)  
 ##### [Сведения о проектировании: коррекция себестоимости](design-details-cost-adjustment.md)  
-##### [Подробности разработки: дата учета для операции коррекции стоимости](design-details-inventory-adjustment-value-entry-posting-date.md)  
+##### Подробности разработки: дата учета для операции коррекции стоимости
+###### [Подробности разработки: дата учета для операции коррекции стоимости](design-details-inventory-adjustment-value-entry-posting-date.md)  
+###### [Сообщение об ошибке "Дата учета вне пределов разрешенного диапазона дат учета"](design-details-inventory-adjustment-value-entry-allowed-posting-dates.md)  
+###### [Дата учета в операции значения корректировки по сравнению с исходной операцией](design-details-inventory-adjustment-value-entry-source-entry.md)  
 ##### [Сведения о проектировании: учет ожидаемой себестоимости](design-details-expected-cost-posting.md)  
 ##### [Сведения о проектировании: средняя себестоимость](design-details-average-cost.md)  
 ##### [Сведения о проектировании: отклонение](design-details-variance.md)  
@@ -94,6 +97,12 @@
 ### [Начало работы с подпиской](across-preview.md#getting-started-with-a-subscription)
 ### [Подготовьтесь к ведению бизнеса](ui-get-ready-business.md)
 
+## Краткие руководства
+### [Краткое руководство по Business Central](quick-start-business-central.md)
+### [Настройка сведений об организации](quick-start-company-information.md)
+### [Продажа продуктов и услуг](quick-start-sell-products-and-services.md)
+### [Покупка продуктов и услуг](quick-start-procurement.md)
+
 <!--setup-->
 ## Настройка Business Central
 ### [Обзор задач](setup.md)
@@ -133,6 +142,7 @@
 #### [Регистрация новых клиентов](sales-how-register-new-customers.md)
 #### [Включение платежей клиентов через службу платежей](sales-how-enable-payment-service-extensions.md)
 #### [Регистрация специальных цен продажи и скидок](sales-how-record-sales-price-discount-payment-agreements.md)
+#### [Настройка ценовых групп клиента](sales-how-to-set-up-customer-price-groups.md)
 #### [Настройка менеджеров по продажам](sales-how-setup-salespeople.md)
 #### [Настройка профилей отправки документов](sales-how-setup-document-send-profiles.md)
 #### [Отправка документов по электронной почте](ui-how-send-documents-email.md)
@@ -240,14 +250,16 @@
 #### [Советы и подсказки: RapidStart Services](admin-tips-and-tricks-rapidstart-services.md)
 ### Настройка электронной почты
 #### [Настройка электронной почты](admin-how-setup-email.md)
-#### Настройка папки "Входящие" для бизнеса в Microsoft Outlook 
-##### [Использование Business Central в качестве папки "Входящие" для бизнеса в Outlook](admin-outlook.md)
+#### Настройка папки "Входящие" для бизнеса в Microsoft Outlook
+##### [Получение надстройки Business Central для Outlook](admin-outlook.md)
+##### [Использование Business Central в качестве папки "Входящие" для бизнеса в Outlook](work-outlook-addin.md)
 ##### [Синхронизация с контактами в Outlook](admin-synchronize-outlook-contacts.md)
 ##### [Оптимизировать Outlook](admin-outlook-optimize.md)
 ##### [Использование Business Central без Outlook](admin-no-outlook.md)
 ### Настройка отчетов
 #### [Выбор отчета](across-report-selections.md)
 ### Настройка подключений
+#### [Получение надстройки Business Central для Excel](admin-deploy-excel-addin.md)
 #### Использование Business Central в качестве папки "Входящие" для бизнеса в Outlook 
 ##### [Обзор](admin-outlook.md)
 ##### [Синхронизация с контактами в Microsoft Outlook](admin-synchronize-outlook-contacts.md)
@@ -257,10 +269,15 @@
 ##### [Управление интеграцией команд](admin-teams-integration.md)
 ##### [Установка приложения Business Central в Teams](across-install-app-for-teams.md)
 ##### [Поиск клиентов, поставщиков и контактов](across-search-contacts-teams.md)
-##### [Обмен записями в Teams](across-working-with-teams.md)
+##### [Совместное использование записей Business Central и ссылок на страницы в Teams](across-working-with-teams.md)
 ##### [Изменение компании и других параметров](across-teams-settings.md)
 ##### [Вопросы и ответы по Teams](teams-faq.md)
 ##### [Устранение неполадок](admin-teams-troubleshooting.md)
+#### Использование OneDrive для бизнеса с Business Central
+##### [Обзор](across-onedrive-overview.md)
+##### [Управление OneDrive для бизнес-интеграции](admin-onedrive-integration.md)
+##### [Открытие файлов Business Central в OneDrive](across-share-onedrive.md)
+##### [Часто задаваемые вопросы по OneDrive](admin-onedrive-faq.md)
 #### Использование Power BI с Business Central
 ##### [Введение](admin-powerbi.md)
 ##### Администратор
@@ -285,6 +302,8 @@
 ### [Настройка базовых календарей](across-how-to-assign-base-calendars.md)
 ### [Настройка принтеров](ui-specify-printer-selection-reports.md)
 ### [Получение Business Central на мобильном устройстве](install-mobile-app.md)
+### [Получение Business Central на настольном компьютере](install-desktop-app.md)
+
 
 ## Вопросы и ответы
 ### [Вопросы и ответы](across-faq.yml)
@@ -329,7 +348,9 @@
 ## [Выявление обязательных полей](ui-mandatory-fields.md)
 ## [Изменение языка и региона](about-locale-language.md)
 ## [Просмотр и редактирование в Excel](across-work-with-excel.md)
+## [Хранение и обмен файлами в OneDrive](across-share-onedrive.md)
 ## [Управление вложениями, ссылками и заметками в карточках и документах](ui-how-add-link-to-record.md)
+## [Использование шаблонов Word для массовых сообщений](ui-mail-merge.md)
 ## [Изменение базовых настроек](ui-change-basic-settings.md)
 ## [Переключение на другую компанию или среду](ui-organization-switch.md)
 ## [Управление уведомлениями](ui-smart-notifications.md)
@@ -608,6 +629,7 @@
 ### [Выполнение прямых поставок](sales-how-drop-shipment.md)
 ### [Создание специальных заказов](sales-how-to-create-special-orders.md)
 ### [Обработка возвратов продажи или отмен](sales-how-process-sales-returns-cancellations.md)
+### [Обработка заказов на возврат продажи](sales-how-process-sales-returns-orders.md)
 ### [Исправление или отмена неоплаченных счетов продажи](sales-how-correct-cancel-sales-invoice.md)
 ### [Работа с общими заказами на продажу](sales-how-to-create-blanket-sales-orders.md)
 ### [Объединение поставок в один счет](sales-how-to-combine-shipments-on-a-single-invoice.md)
@@ -653,7 +675,7 @@
 ### [Настройка отслеживания товаров по серийному номеру, номеру партии и номеру упаковки](inventory-how-setup-item-tracking.md)
 ### [Отслеживание товаров по серийному номеру, номеру партии и номеру упаковки](inventory-how-work-item-tracking.md)
 ### [Трассировка товаров, трассируемых по товарам](inventory-how-to-trace-item-tracked-items.md)
-### [Использование перекрестных ссылок по товару](inventory-how-use-item-cross-refs.md)
+### [Использовать ссылки на товары](inventory-how-use-item-cross-refs.md)
 ### [Блокировка товаров](inventory-how-block-items.md)
 ### [Работа с центрами ответственности](inventory-responsibility-centers.md)
 
@@ -951,10 +973,12 @@
 ##### [Локализация основных средств для чешского языка (расширение)](LocalFunctionality/Czech/ui-extensions-fixed-asset-localization-cz.md)
 #### Банковские операции и платежи
 ##### [Функция банка](LocalFunctionality/Czech/bank-feature.md)
+##### [Локализация банковских документов на чешский язык (продолжение)](LocalFunctionality/Czech/ui-extensions-banking-documents-localization-cz.md)
 ##### [Управление кассой](LocalFunctionality/Czech/cash-desk-management.md)
 ##### [Локализация кассы для чешского языка (расширение)](LocalFunctionality/Czech/ui-extensions-cash-desk-localization-cz.md)
 ##### [Регистрация продаж (EET)](LocalFunctionality/Czech/eet.md)
 ##### [Авансовые платежи](LocalFunctionality/Czech/advances.md)
+##### [Локализация авансовых платежей для чешской версии (продолжение)](LocalFunctionality/Czech/ui-extensions-advance-payments-localization-cz.md)
 #### Расчеты с клиентами и поставщиками
 ##### [Расчеты с клиентами и поставщиками](LocalFunctionality/Czech/receivables-payables.md)
 ##### [Интрастат](LocalFunctionality/Czech/intrastat.md)
@@ -1085,6 +1109,7 @@
 
 ### Индия
 #### [Обзор](LocalFunctionality/India/india-local-functionality.md)
+#### [Настройка номерной серии учета](LocalFunctionality/India/posting-no-series-setup.md)
 #### Механизм начисления налогов
 ##### [Обзор](LocalFunctionality/India/TaxEngine-001-Overview.md)  
 ##### [Конфигурация импорта и экспорта механизма начисления налогов](LocalFunctionality/India/TaxEngine-002-Import-Export-Configuration.md)
@@ -1161,6 +1186,8 @@
 ##### [Предварительная запись TDS](LocalFunctionality/India/TDS-Provisional-Entries.md)
 ##### [Запись о корректировке TDS](LocalFunctionality/India/TDS-Adjustment-Entries.md)
 ##### [Оплата в налоговый орган TDS](LocalFunctionality/India/TDS-TDS-Payment-to-Authority.md)
+##### [Обзор раздела TDS 194Q](LocalFunctionality/India/TDS-194Q-Section-Overview.md)
+##### [Транзакции TDS 194Q](LocalFunctionality/India/TDS-194Q-Transactions.md)
 #### TDS для клиента
 ##### [Обзор TDS для клиента](LocalFunctionality/India/TDS-for-Customer-Overview.md)
 ##### [Расчет TDS для клиента](LocalFunctionality/India/TDS-Calculation-for-Customer.md)
@@ -1188,6 +1215,7 @@
 ##### [Субподрядные сделки](LocalFunctionality/India/Subcontracting-Transactions.md)
 ##### [Создание обязательств по налогу с продаж](LocalFunctionality/India/Subcontracting-Create-GST-Liability.md)
 ##### [Отчет о субподряде](LocalFunctionality/India/Subcontracting-Reports.md)
+#### [Просроченный чек](LocalFunctionality/India/Stale-Check.md)
 
 ### Италия
 #### [Локальная функциональность в итальянской версии](LocalFunctionality/Italy/italy-local-functionality.md)
@@ -1603,6 +1631,7 @@
 ### [Регистрация изменений](across-log-changes.md)
 ### [Использование очередей работ для планирования задач](admin-job-queues-schedule-tasks.md)
 ### [Управление хранилищем путем сжатия данных или удаления документов](admin-manage-documents.md)
+### [Архивные данные](admin-archive-data.md)
 ### [Определение политик хранения данных](admin-data-retention-policies.md)
 ### [Публикация веб-службы](across-how-publish-web-service.md)
 ### [Конфигурирование шаблонов API](admin-configuring-api-template.md)
@@ -1613,7 +1642,7 @@
 ### [Просмотр информации о таблицах](admin-view-table-information.md)
 ### [Раннее включение новых функций](admin-feature-management.md)
 ### [Адаптация пользователей с контрольными списками](admin-checklist.md)
-### [Среды-песочницы](across-how-create-sandbox-environment.md)
+### [Среды-песочницы](admin-sandbox-environments.md)
 ## Настройка Business Central
 ### [Обзор настройки](ui-customizing-overview.md)
 ### [Настройка страниц для профилей](ui-personalization-manage.md)

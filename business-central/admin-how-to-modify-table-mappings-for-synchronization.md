@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: sales, crm, integration, sync, synchronize, table mapping
 ms.date: 04/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: 185d0a1c55830f6e4ed979154744076d457b5724
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 44729a82d50a925d9ad904f8035dd49daee24262
+ms.sourcegitcommit: 6ad0a834fc225cc27dfdbee4a83cf06bbbcbc1c9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6446394"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "7588705"
 ---
 # <a name="mapping-the-tables-and-fields-to-synchronize"></a>Сопоставление таблиц и полей для синхронизации
 [!INCLUDE[prod_short](includes/cc_data_platform_banner.md)]
@@ -49,6 +49,8 @@ ms.locfileid: "6446394"
 
 > [!Note]
 > Если вы используете локальную версию [!INCLUDE[prod_short](includes/prod_short.md)], сопоставления полей интеграции определены в таблице 5336 Сопоставление полей интеграции.
+
+Вы можете вручную сопоставить поля или автоматизировать процесс, сопоставив несколько полей одновременно на основе критериев сопоставления их значений. Для получения дополнительной информации см. [Чтобы связать несколько записей на основе сопоставления значений поля](admin-how-to-couple-and-synchronize-records-manually.md).
 
 ### <a name="handling-differences-in-field-values"></a>Обработка различий в значениях полей
 Иногда значения в полях, которые, вы хотите сопоставить, различаются. Например, в [!INCLUDE[crm_md](includes/crm_md.md)] код языка для США — "U.S.", а в [!INCLUDE[prod_short](includes/prod_short.md)] — "US". Это означает, что вы должны преобразовать значение при синхронизации данными. Это происходит через правила преобразования, которые вы определяете для полей. Вы определяете правила преобразования на странице **Сопоставления таблиц интеграции**, выбрав **Сопоставление**, затем **Поля**. Доступные готовые правила, но вы также можете создавать свои собственные. Для получения дополнительной информации см. [Правила преобразования](across-how-to-set-up-data-exchange-definitions.md#transformation-rules).

@@ -1,21 +1,21 @@
 ---
 title: Как вводить данные в Business Central
 description: Существует множество функций, которые помогают вам быстрее и точнее вводить данные. Здесь описаны основные принципы и дополнительные функции.
-author: SorenGP
+author: jswymer
 ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: ''
-ms.date: 06/23/2021
-ms.author: edupont
-ms.openlocfilehash: 5832f30074c1e1d8215c705c19d75594fc017593
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.search.keywords: decimal separator, data entry, focus
+ms.date: 10/01/2021
+ms.author: jswymer
+ms.openlocfilehash: 1e6dbdd5880902c7b649464ad967f01cc599f37f
+ms.sourcegitcommit: 6ad0a834fc225cc27dfdbee4a83cf06bbbcbc1c9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6443672"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "7588961"
 ---
 # <a name="entering-data"></a>Ввод данных
 
@@ -35,7 +35,6 @@ ms.locfileid: "6443672"
 |Раскрывающийся список          |Раскрывающиеся списки содержат фиксированные значения или ссылочные записи из другой таблицы.|
 |Переключатель или флажок|Некоторые поля предусматривают простой выбор значения *Да* или *Нет*. Переключатель используется для указания этого значения и всегда отображается как флажок в списках.|
 |Кнопка AssistEdit       |В некоторых полях предусмотрены специальные средства выбора, которые подходят для поиска и выбора наилучшего значения для этого поля. Например, это может быть всплывающее окно.|
-
 
 ### <a name="modifying-a-field-value"></a>Изменение значения поля
 
@@ -58,7 +57,6 @@ ms.locfileid: "6443672"
 
 > [!NOTE]
 > После указания значения Business Central проверит его допустимость только после того, как вы щелкнете за пределами поля или установите фокус на другой элемент, такой как следующее поле.  
-
 
 ## <a name="keyboard-shortcuts"></a>Сочетания клавиш
 
@@ -267,9 +265,16 @@ When working on multiple tasks at a time or when managing interruptions to the c
 
  Если по умолчанию используются часы, число 5 будет преобразовано в 5 часов.  
 
-## <a name="see-also"></a>См. также  
- [Сортировка, поиск и фильтрация списков](ui-enter-criteria-filters.md)  
- [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+## <a name="setting-the-decimal-separator-used-by-numeric-keyboards"></a><a name="decimal"></a>Установка десятичного разделителя, используемого цифровыми клавиатурами
+
+При использовании клавиши десятичного разделителя на цифровой клавиатуре для ввода данных фактический десятичный разделитель, вводимый в поле, определяется настройкой региона вашего Business Central. Вы устанавливаете регион в Business Central на странице **Мои параметры**.
+
+Например, предположим, что вы используете цифровую клавиатуру, которая использует точку (.) в качестве клавиши десятичного разделителя. Но вы вводите данные для регионального языка, в котором используется запятая (**,**) для десятичного разделителя, например датский (Дания) или французский (Франция). Поэтому вы хотите, чтобы десятичные числа, такие как «1.23», вводились как «1,23». В этом случае вы можете перейти на страницу **Мои параметры** и установите **Регион** на целевой региональный язык, например **Датский (Дания)** или **Французский (Франция)**. Дополнительные сведения см. в разделе [Изменение базовых настроек](ui-change-basic-settings.md#region).
+
+## <a name="see-also"></a>См. также
+
+[Сортировка, поиск и фильтрация списков](ui-enter-criteria-filters.md)  
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
 
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

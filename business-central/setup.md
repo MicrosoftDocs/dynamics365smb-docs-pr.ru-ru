@@ -10,16 +10,16 @@ ms.workload: na
 ms.search.keywords: configure, initialize
 ms.date: 06/23/2021
 ms.author: edupont
-ms.openlocfilehash: c2edc726ef61f832e0db4ca93300c89342b400e0
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 5cbd8a674945fa5c33d502cffb865677c66bce39
+ms.sourcegitcommit: 6ad0a834fc225cc27dfdbee4a83cf06bbbcbc1c9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6441426"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "7588480"
 ---
 # <a name="overview-of-tasks-to-set-up-prod_short"></a>Обзор задач по настройке [!INCLUDE[prod_short](includes/prod_short.md)]
 
-[!INCLUDE[prod_short](includes/prod_short.md)] содержит стандартные конфигурации для большинства бизнес-процессов, но вы можете изменить их в соответствии с потребностями вашей организации.  
+[!INCLUDE[prod_short](includes/prod_short.md)] содержит стандартные конфигурации для большинства бизнес-процессов, но вы можете изменить их в соответствии с потребностями вашей организации. Статья [Краткое руководство по Business Central](quick-start-business-central.md) может помочь вам сделать первые шаги в создании своего собственного [!INCLUDE [prod_short](includes/prod_short.md)]. В этой статье представлен обзор того, как можно настроить [!INCLUDE [prod_short](includes/prod_short.md)] для вашей организации.  
 
 Например, в план счетов подставлены готовые к использованию номера счетов учета. Конечно, вы можете изменить план счетов в соответствии со своими потребностями. Дополнительные сведения см. в разделе [Финансы](finance.md).
 
@@ -77,6 +77,7 @@ ms.locfileid: "6441426"
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 [Создание новых организаций в [!INCLUDE[prod_short](includes/prod_short.md)]](about-new-company.md)  
 [Подготовьтесь к ведению бизнеса](ui-get-ready-business.md)  
+[Краткое руководство по Business Central](quick-start-business-central.md)  
 
 ## [!INCLUDE[prod_short](includes/free_trial_md.md)]  
 

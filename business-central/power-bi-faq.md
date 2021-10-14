@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: Power BI, reports, faq, errors
 ms.date: 04/22/2021
 ms.author: jswymer
-ms.openlocfilehash: ef63963c7c37f36db34e3e8292e73d64c1b67538
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 5dde158d3710219fec518633d90d145acb3e420b
+ms.sourcegitcommit: 6ad0a834fc225cc27dfdbee4a83cf06bbbcbc1c9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6438756"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "7588003"
 ---
 # <a name="power-bi--faq"></a>Часто задаваемые вопросы по Power BI
 
@@ -129,12 +129,6 @@ ms.locfileid: "6438756"
 Чтобы отфильтровать большие наборы данных, самый простой способ — установить фильтр в вашем отчете Power BI, изменив непосредственно формулу Power Query. Большинство фильтров, которые вы устанавливаете таким образом, будут переданы в Business Central через свертывание запросов. Си. [Пошаговое обновление для наборов данных](/power-bi/admin/service-premium-incremental-refresh).
 
 В настоящее время нет возможности настроить фильтр для данных веб-службы из Business Central. Если вашему приложению необходимо установить фильтр из Business Central, вам нужно будет создать для этой цели собственное приложение Business Central.
-
-<!-- 8 and 9 -->
-
-### <a name="for-embedding-reports-in-business-central-pages-right-now-its-only-possible-to-get-reports-from-my-workspace-in-power-bi-are-there-plans-to-make-it-possible-to-get-them-from-custom-workspaces"></a>Для встраивания отчетов на страницы Business Central прямо сейчас можно получить отчеты только из *Моя рабочая область* в Power BI. Есть ли планы сделать возможным их получение из настраиваемых рабочих пространств?
-
-Да. В наших планах добавить поддержку общих рабочих пространств, но у нас пока нет графика выпуска, который мы можем вам сообщить.  
 
 <!-- 10 -->
 ### <a name="from-power-bi-besides-using-a-query-is-there-another-way-to-get-data-from-business-central-tables-that-dont-have-an-associated-page-for-example-like-the-item-attributes-value-mapping-table"></a>В Power BI, есть ли другой способ, помимо использования запроса, получить данные из таблиц Business Central, у которых нет связанной страницы? Например, как таблица *Сопоставление значений атрибута товара*.

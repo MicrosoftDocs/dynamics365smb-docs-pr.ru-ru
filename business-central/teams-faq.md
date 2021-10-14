@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: Teams, MS Teams, Microsoft Teams, Skype, Link, Microsoft 365, collaborate, collaboration, teamwork, faq, errors
-ms.date: 05/19/2021
+ms.date: 10/01/2021
 ms.author: jswymer
-ms.openlocfilehash: 325783df3cacd37250c1efa75320386ef9c4cb19
-ms.sourcegitcommit: eeaf9651c26e49974254e29b7e2d16200c818dad
+ms.openlocfilehash: cd53825ced18cafab27571671a203cda82d3dcc9
+ms.sourcegitcommit: 6ad0a834fc225cc27dfdbee4a83cf06bbbcbc1c9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/06/2021
-ms.locfileid: "6341512"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "7587869"
 ---
 # <a name="teams-faq"></a>Вопросы и ответы по Teams
 
@@ -146,7 +146,11 @@ ms.locfileid: "6341512"
 
 Если вы хотите участвовать в улучшении приложения для Teams или у вас есть идея, которая поможет упростить вашу работу или совместную работу в Teams, добавьте идею или проголосуйте за существующие идеи на сайте [https://aka.ms/BusinessCentralIdeas](https://aka.ms/BusinessCentralIdeas).
 
-## <a name="searching-for-contacts"></a>[Поиск контактов](#tab/contacts)
+### <a name="where-can-i-find-teams-integration-inside-the-business-central-web-client"></a>Где я могу найти интеграцию Teams в веб-клиенте Business Central? 
+
+Информацию о функциональных возможностях веб-клиента, связанного с Teams, см. в [Общий доступ к записям и ссылки страниц в Microsoft Teams](across-working-with-teams.md#share-link).
+
+## <a name="search-for-contacts"></a>[Поиск контактов](#tab/contacts)
 
 ### <a name="which-tables-does-the-app-search-in"></a>В каких таблицах приложение выполняет поиск?
 
@@ -240,7 +244,7 @@ ms.locfileid: "6341512"
 
 Если вы хотите, чтобы возможности поиска развивались и включали другие таблицы, мы рекомендуем нашему сообществу добавить идею или проголосовать за существующие идеи на сайте https://aka.ms/BusinessCentralIdeas.
 
-## <a name="working-with-cards"></a>[Работа с карточками](#tab/cards)
+## <a name="work-with-cards"></a>[Работа с карточками](#tab/cards)
 
 ### <a name="which-types-of-links-does-the-app-support"></a>Какие типы ссылок поддерживает приложение?
 
@@ -273,7 +277,7 @@ ms.locfileid: "6341512"
 
 Если вы работаете в организациях [!INCLUDE [prod_short.md](includes/prod_short.md)], обратитесь к своему администратору с вопросом о включении логотипа организации для каждой организации. Если этот параметр включен, эта понятная подсказка отображается в любом окне сведений в Teams и показывает компанию и среду, к которой принадлежит запись. Чтобы узнать, как настроить значок организации, см. [Отображение эмблемы организации для быстрого доступа к информации об организации](ui-change-basic-settings.md#badge).
 
-## <a name="working-with-card-details"></a>[Работа со сведения карточки](#tab/carddetails)
+## <a name="work-with-card-details"></a>[Работа со сведения карточки](#tab/carddetails)
 
 ### <a name="where-is-the-save-button-in-the-details-window-in-teams"></a>Где находится кнопка сохранения в окне сведений в Teams?
 
@@ -303,7 +307,7 @@ ms.locfileid: "6341512"
 
 Если вы используете функции в [!INCLUDE [prod_short.md](includes/prod_short.md)], которые обращаются к вашим текущим координатам местоположения, например на картах, вы должны использовать Teams в браузере или мобильное приложение Teams. Местоположение недоступно при использовании классического приложения Teams. 
 
-## <a name="collaborating-with-guests"></a>[Сотрудничество с гостями](#tab/collaborating)
+## <a name="collaborate-with-guests"></a>[Сотрудничество с гостями](#tab/collaborating)
 
 ### <a name="can-i-share-cards-with-users-outside-my-organization"></a>Могу ли я поделиться карточками с пользователями за пределами моей организации?
 
@@ -319,8 +323,37 @@ ms.locfileid: "6341512"
 
 Гости не имеют доступа к магазину приложений для самостоятельной установки приложений. Однако приложение может быть автоматически установлено для них в соответствии с политиками вашей организации. Другой способ для гостевого пользователя установить приложение [!INCLUDE [prod_short.md](includes/prod_short.md)] — это когда он получает сообщение чата, содержащее карточку [!INCLUDE [prod_short.md](includes/prod_short.md)]. В этом случае пользователь выбирает кнопку или меню **Сведения** на карточке, затем устанавливает приложение [!INCLUDE [prod_short.md](includes/prod_short.md)] для использования в вашей организации. После установки приложения пользователь не получает автоматически никаких разрешений на доступ к данным из вашего [!INCLUDE [prod_short.md](includes/prod_short.md)].
 
----
+## <a name="share-to-teams"></a>[Отправка данных в Teams](#tab/share)
 
+### <a name="does-share-to-teams-send-a-compact-card"></a>Отправляет ли Отправка данных в Teams компактную карточку? 
+
+В настоящее время доступен обмен только глубокой ссылкой на страницу. Получатели увидят в вашем сообщении гиперссылку, которую они смогут выбрать, чтобы перейти в [!INCLUDE [prod_short.md](includes/prod_short.md)] в отдельном окне браузера. 
+
+### <a name="will-recipients-receive-the-message-from-me-or-from-a-business-central-service-account"></a>Получат ли получатели сообщение от меня или от учетной записи службы Business Central? 
+
+Когда вы используете Отправка данных в Teams, сообщение отправляется человеку, группе или каналу, как если бы вы сами отправили сообщение из Microsoft Teams. Получатели видят ваше сообщение в предпочитаемом ими клиенте Teams и могут реагировать и отвечать, как обычно, на ваше сообщение. 
+
+### <a name="is-share-to-teams-available-in-business-central-on-premises"></a>Доступно ли Отправка данных в Teams в локальной версии Business Central? 
+
+Кол-во Аналогично приложению [!INCLUDE [prod_short.md](includes/prod_short.md)] для Teams эта функция доступна только для веб-клиента в локальной версии [!INCLUDE [prod_short.md](includes/prod_short.md)]. Нет планов поддерживать типы развертывания [!INCLUDE [prod_short.md](includes/prod_short.md)] &mdash; например, локальное, гибридное или частное облако, &mdash; которые Microsoft не размещает и не управляет ими напрямую.
+
+### <a name="does-share-to-teams-grant-permissions-to-recipients"></a>Предоставляет ли Отправка данных в Teams разрешения получателям? 
+
+Кол-во Когда вы делитесь с человеком, группой или каналом, разрешения не затрагиваются. Пользователи, у которых уже есть разрешение на просмотр страницы и данных, на которые указывает ссылка, могут это сделать. Пользователи, у которых нет разрешения на просмотр этой страницы и данных, или у которых нет лицензии [!INCLUDE [prod_short.md](includes/prod_short.md)], видят сообщение об ошибке. 
+ 
+### <a name="must-i-have-the-teams-desktop-app-installed-to-use-share-to-teams"></a>Следует ли мне установить классическое приложение Teams, чтобы использовать Отправка данных в Teams? 
+
+Кол-во Все, что вам нужно, — это действующая учетная запись с доступом к Microsoft Teams. 
+
+### <a name="is-share-to-teams-available-in-all-business-central-clients"></a>Доступно ли Отправка данных в Teams во всех клиентах Business Central? 
+
+В настоящее время Отправка данных в Teams доступно исключительно в классическом веб-клиенте и в окне сведений в Teams.  
+
+### <a name="where-do-i-find-share-to-teams-in-business-central"></a>Где найти Отправка данных в Teams в Business Central? 
+
+Действие **Отправка данных в Teams** можно найти в меню **Поделиться** на всех страницах, таких как страницы карточек и документов, страницы списка или рабочего листа, включая настраиваемые страницы. Действие недоступно в диалоговых окнах или страницах, отображаемых как диалоговые окна, например на страницах подстановки или мастерах.
+
+---
 ## <a name="see-also"></a>См. также
 
 [Обзор интеграции [!INCLUDE [prod_short](includes/prod_short.md)] и Microsoft Teams](across-teams-overview.md)  

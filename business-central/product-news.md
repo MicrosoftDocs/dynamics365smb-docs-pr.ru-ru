@@ -7,12 +7,12 @@ ms.topic: get-started-article
 ms.search.keywords: news, release plan, roadmap, whats new
 ms.date: 06/22/2021
 ms.author: edupont
-ms.openlocfilehash: 7d487bdb24284583b2ea11f5f18ae3b9d8b7ab04
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 67767e95743d10b0f0b49ec2c034984187ffc5ff
+ms.sourcegitcommit: 6ad0a834fc225cc27dfdbee4a83cf06bbbcbc1c9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6438731"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "7587596"
 ---
 # <a name="new-and-planned-for-dynamics-365-business-central"></a>Новые и планируемые функции для Dynamics 365 Business Central
 
@@ -22,9 +22,9 @@ ms.locfileid: "6438731"
 
 В следующем списке представлена информация о последних версиях [!INCLUDE [prod_short](includes/prod_short.md)].  
 
+* [Выпуск 2021 г., волна 2](/dynamics365-release-plan/2021wave2/smb/dynamics365-business-central/planned-features)  
 * [Выпуск 2021 г., волна 1](/dynamics365-release-plan/2021wave1/smb/dynamics365-business-central/planned-features)  
 * [Выпуск 2020 г., волна 2](/dynamics365-release-plan/2020wave2/smb/dynamics365-business-central/planned-features)  
-* [Выпуск 2020 г., волна 1](/dynamics365-release-plan/2020wave1/dynamics365-business-central/planned-features)  
 
 Вы также можете изучить сайт [Возможности Dynamics 365 Business Central](https://dynamics.microsoft.com/business-central/capabilities/) и сайт [Дорожная карта Dynamics 365 Business Central](https://dynamics.microsoft.com/roadmap/business-central/).  
 
@@ -35,6 +35,7 @@ ms.locfileid: "6438731"
 [Посетите нашу библиотеку видео](across-videos.md)  
 [Ресурсы для справки и поддержки](product-help-and-support.md)  
 [Dynamics 365 Business Central на сайте Microsoft Learn](/learn/dynamics365/business-central?WT.mc_id=dyn365bc_landingpage-docs)  
+[Краткое руководство по Business Central](quick-start-business-central.md)  
 [Возможности Dynamics 365 Business Central](https://dynamics.microsoft.com/business-central/capabilities/)  
 [Дорожная карта Dynamics 365 Business Central](https://dynamics.microsoft.com/roadmap/business-central/)  
 [Блог Dynamics 365](https://cloudblogs.microsoft.com/dynamics365/it/product/business-central/)  

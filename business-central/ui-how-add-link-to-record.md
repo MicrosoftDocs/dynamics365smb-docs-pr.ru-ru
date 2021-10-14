@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/24/2021
 ms.author: edupont
-ms.openlocfilehash: eb03f2cd47624e753766f0363e037ee793f8f777
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 76829c832bfde71d46b2fa2a942aa68db9f5701a
+ms.sourcegitcommit: 6ad0a834fc225cc27dfdbee4a83cf06bbbcbc1c9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6444747"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "7588784"
 ---
 # <a name="manage-attachments-links-and-notes-on-cards-and-documents"></a>Управление вложениями, ссылками и заметками в карточках и документах
 
@@ -64,7 +64,7 @@ ms.locfileid: "6444747"
 PDF-файл с текущим содержимым заказа на продажу добавляется на вкладку **Вложения** на информационной панели.
 
 ## <a name="to-add-a-link-from-an-item-card"></a>Добавление ссылки из карточки товара
-Можно добавить ссылку из карточки или документа на любой URL-адрес или путь. Это удобно делать, например, когда вы хотите связать карточку товара с каталогом товаров поставщика.
+Можно добавить ссылку из карточки или документа на любой URL-адрес. Это удобно делать, например, когда вы хотите связать карточку товара с каталогом товаров поставщика.
 
 Следующая процедура основана на карточке товара. Действия для всех остальных поддерживаемых карточек и документов аналогичны.
 

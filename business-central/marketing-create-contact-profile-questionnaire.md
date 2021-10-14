@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: contacts, profiles
 ms.author: edupont
 ms.date: 06/22/2021
-ms.openlocfilehash: b71c63b8a02b2ddbf6f6135f30cba297dfcf418b
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 6ce13672651a5b6b65712928b764ad11b3db514d
+ms.sourcegitcommit: 6ad0a834fc225cc27dfdbee4a83cf06bbbcbc1c9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6445530"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "7588530"
 ---
 # <a name="use-profile-questionnaires-to-classify-business-contacts"></a>Использование анкет профилей для классификации бизнес-контактов
 Можно настроить анкеты профиля, которые будут использоваться при вводе информации о профиле контакта. В каждой анкете можно настроить разные вопросы, которые планируется задавать контактам.  
@@ -49,114 +49,35 @@ ms.locfileid: "6445530"
 После настройки вопросов, на которые программа отвечает автоматически, при назначении профильной анкеты контакту [!INCLUDE[prod_short](includes/prod_short.md)] автоматически назначит контакту правильные ответы.  
 
 ## <a name="example"></a>Пример
+
 Можно классифицировать контакты в соответствии с объемами продаж:
 
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><strong>Ответ</strong></th>
-<th><strong>Применяется к</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>А</p></td>
-<td><p>контактам, сделавшим покупки на сумму от 500 000 руб.</p></td>
-</tr>
-<tr class="even">
-<td><p>Б</p></td>
-<td><p>контактам, сделавшим покупки на сумму от 100 000 до 499 999 руб. включительно</p></td>
-</tr>
-<tr class="odd">
-<td><p>З</p></td>
-<td><p>контактам, сделавшим покупки на сумму 99 999 руб. или меньше</p></td>
-</tr>
-</tbody>
-</table>
+|Ответ|Применяется к|
+|--- |--- |
+|А|контактам, сделавшим покупки на сумму от 500 000 руб.|
+|Б|контактам, сделавшим покупки на сумму от 100 000 до 499 999 руб. включительно|
+|З|контактам, сделавшим покупки на сумму 99 999 руб. или меньше|
 
 Чтобы это сделать, заполните на странице **Анкета профиля - настройка** следующим образом:
 
-
-<table>
-<colgroup>
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><strong>Тип</strong></th>
-<th><strong>Описание</strong></th>
-<th><strong>Автоматическая классификация</strong></th>
-<th><strong>От значения</strong></th>
-<th><strong>До значения</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Вопрос</p></td>
-<td><p>Классификация по алфавиту</p></td>
-<td><p>Щелкните, чтобы установить флажок</p></td>
-<td><p> </p></td>
-<td><p> </p></td>
-</tr>
-<tr class="even">
-<td><p>Ответ</p></td>
-<td><p>П</p></td>
-<td><p> </p></td>
-<td><p>500,000</p></td>
-<td><p> </p></td>
-</tr>
-<tr class="odd">
-<td><p>Ответ</p></td>
-<td><p>Б</p></td>
-<td><p> </p></td>
-<td><p>100,000</p></td>
-<td><p>499,999</p></td>
-</tr>
-<tr class="even">
-<td><p>Ответ</p></td>
-<td><p>З</p></td>
-<td><p> </p></td>
-<td><p> </p></td>
-<td><p>99 999</p></td>
-</tr>
-</tbody>
-</table>
+| Тип     | Описание        | Автоматическая классификация     | От значения | До значения |
+|----------|--------------------|------------------------------|------------|----------|
+| Вопрос | Классификация по алфавиту | Щелкните, чтобы установить флажок |            |          |
+| Ответ   | П                  |                              | 500,000    |          |
+| Ответ   | Б                  |                              | 100,000    | 499,999  |
+| Ответ   | З                  |                              |            | 99 999   |
 
 Потом заполните страницу **Вопрос профиля - подробности** следующим образом:
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><strong>Поле</strong></th>
-<th><strong>Значение</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>Поле классификации клиентов</strong></td>
-<td><emphasis>Продажи (руб.)</emphasis></td>
-</tr>
-<tr>
-<td><strong>Метод классификации</strong></td>
-<td><emphasis>Заданное значение</emphasis></td>
-</tr>
-</tbody>
-</table>
+
+| Поле                         | Значение         |
+|-------------------------------|---------------|
+| Поле классификации клиентов | Продажи (руб.)   |
+| Метод классификации         | Заданное значение |
 
 При назначении контакту профиля анкеты, содержащей этот вопрос, приложение автоматически вводит соответствующий ответ для этого контакта в строках профиля карточки контакта.
 
 ## <a name="see-also"></a>См. также
+
 [Создание контактов](marketing-create-contact-companies.md)  
 
 

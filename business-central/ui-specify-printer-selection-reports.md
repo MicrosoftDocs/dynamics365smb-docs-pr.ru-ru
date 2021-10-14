@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: online printing, email printing, cloud printing, Universal Print
 ms.date: 06/24/2021
 ms.author: jswymer
-ms.openlocfilehash: 4f59ac35a6c5ffb266603ac2e98c513d279ddd1e
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: e459c854bfba13689b5dc6213ed7e88347780483
+ms.sourcegitcommit: 81a35248e6f1e8773339281b6f5c0ebd4942e05a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6437220"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "7547052"
 ---
 # <a name="set-up-printers"></a>Настройка принтеров
 
@@ -132,9 +132,6 @@ ms.locfileid: "6437220"
     Универсальная печать отображает содержимое для печати в формате XPS. Некоторые существующие на рынке принтеры не поддерживают рендеринг содержимого XPS &mdash; во многих случаях поддерживается только формат PDF. Печать на этих принтерах завершится ошибкой, если служба универсальной печати не настроена для преобразования документов в формат, поддерживаемый принтером.
 
     Дополнительные сведения см. в разделе [Обзор преобразования документов](/universal-print/portal/document-conversion).
-
-    > [!TIP]
-    > Если ни один из ваших принтеров не требует формата рендеринга содержимого PDF, мы рекомендуем не включать преобразование документов, поскольку это может повлиять на качество вывода на печать.
 
 Теперь вы готовы добавить принтеры в [!INCLUDE[prod_short](includes/prod_short.md)], настроить принтеры по умолчанию для отчетов и начинать печатать.  
 

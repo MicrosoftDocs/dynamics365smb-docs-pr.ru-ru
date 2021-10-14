@@ -1,8 +1,6 @@
 ---
-title: Связывание и синхронизация | Документация Microsoft
+title: Связывание и синхронизация
 description: Синхронизация сопоставления таблиц интеграции позволяет синхронизировать данные во всех записях в связанных таблицах в Business Central и в Dynamics 365 Sales.
-services: project-madeira
-documentationcenter: ''
 author: bholtorf
 ms.service: dynamics365-business-central
 ms.topic: conceptual
@@ -10,16 +8,17 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: crm, sales, couple, decouple, synchronize
-ms.date: 04/01/2021
+ms.date: 10/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: 53b12b6ab7e53a20bb1b8fcc659b2f1454e85321
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 8e2b36b4b90e1cc348ef381a6d0f6145a87ed043
+ms.sourcegitcommit: 6ad0a834fc225cc27dfdbee4a83cf06bbbcbc1c9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5779936"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "7588730"
 ---
-# <a name="coupling-and-synchronizing"></a>Связывание и синхронизация
+# <a name="coupling-and-synchronizing-records-between-dataverse-and-business-central"></a>Связывание и синхронизация записей между Dataverse и Business Central
+
 В этом разделе описана процедура связывания одной или нескольких записей [!INCLUDE[prod_short](includes/prod_short.md)] с записями в Dataverse или [!INCLUDE[crm_md](includes/crm_md.md)]. Связывание записей позволяет просматривать сведения Dataverse из [!INCLUDE[prod_short](includes/prod_short.md)] и наоборот. Связывание также позволяет синхронизировать данные между записями. Можно связать существующие записи или создать и связать новые записи.
 
 > [!Note]
@@ -48,6 +47,14 @@ ms.locfileid: "5779936"
 
 > [!Note]
 > Вы можете синхронизировать одну запись из [!INCLUDE[crm_md](includes/crm_md.md)] автоматически, только когда параметр **Синхр. только связанные записи** отключен, и установлено направление синхронизации "Двунаправленная" или "Из таблицы интеграции" на странице **Сопоставление таблиц интеграции** для записи. Дополнительные сведения см. в разделе [Сопоставление таблиц и полей для синхронизации](admin-how-to-modify-table-mappings-for-synchronization.md#creating-new-records).     
+
+## <a name="to-couple-multiple-records-using-match-based-coupling"></a>Чтобы связать несколько записей с помощью связывания на основе совпадений
+
+Вы можете указать данные для синхронизации для объекта, такого как клиент или контакт, путем связывания записей на основе совпадений. Вы можете уточнить совпадения, сделав поиск чувствительным к регистру и назначив приоритет для каждого совпадения. Если совпадений не найдено, вы также можете указать, что хотите создать объект в Dataverse. Для получения дополнительной информации см. [Настроить связывание на основе совпадений](admin-how-to-set-up-a-dynamics-crm-connection.md#customize-the-match-based-coupling).  
+
+1. В [!INCLUDE[prod_short](includes/prod_short.md)] откройте страницу списка для записи, например страницы списка "Клиенты" или "Контакты".
+2. Выберите действие **Связывание на основе совпадений**.
+3. Заполните соответствующим образом поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 
 ## <a name="to-synchronize-multiple-records"></a>Синхронизация нескольких записей  
 1.  В [!INCLUDE[prod_short](includes/prod_short.md)] откройте страницу списка для записи, например страницы списка "Клиенты" или "Контакты".  

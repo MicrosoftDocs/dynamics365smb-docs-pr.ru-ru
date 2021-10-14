@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: Teams, MS Teams, Microsoft Teams, Skype, Link, Microsoft 365, collaborate, collaboration, teamwork, troubleshooting, errors
-ms.date: 04/12/2021
+ms.date: 10/01/2021
 ms.author: jswymer
-ms.openlocfilehash: ed1d44f7aa1fe7adc899c429a6595cef23251075
-ms.sourcegitcommit: eeaf9651c26e49974254e29b7e2d16200c818dad
+ms.openlocfilehash: 376d1bebd79c225a54ca8544b757a719a55bfebd
+ms.sourcegitcommit: 795f0298e32b4c0174aeeb9a7da64f1e5c8457d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/06/2021
-ms.locfileid: "6341307"
+ms.lasthandoff: 10/04/2021
+ms.locfileid: "7596676"
 ---
 # <a name="troubleshooting-microsoft-teams-integration-with-prod_short"></a>Устранение неполадок интеграции Microsoft Teams с [!INCLUDE [prod_short](includes/prod_short.md)]
 
@@ -149,6 +149,13 @@ ms.locfileid: "6341307"
 > [!NOTE]
 > Пройдет некоторое время, прежде чем это изменение вступит в силу.
 
+## <a name="duplicate-text-in-the-share-to-teams-window"></a>Повторяющийся текст в окне «Поделиться в Teams»
+
+Когда вы вставляете текст в поле сообщения в окне **Поделиться в Teams**, текст дублируется. Эта проблема известна Microsoft и будет решена в более позднем обновлении. 
+
+## <a name="unable-to-sign-into-the-share-to-teams-window"></a>Невозможно войти в окно «Поделиться в Teams» 
+
+Эта проблема может быть вызвана разными причинами. Например, идентификатор, который вы используете для входа в систему, должен иметь доступ к Microsoft Teams, например, через подписку Microsoft 365.
 
 ## <a name="see-also"></a>См. также
 

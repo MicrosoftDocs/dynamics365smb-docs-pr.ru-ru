@@ -10,18 +10,21 @@ ms.workload: na
 ms.search.keywords: Teams, MS Teams, Microsoft Teams, Skype, Link, Microsoft 365, collaborate, collaboration, teamwork
 ms.date: 04/12/2021
 ms.author: jswymer
-ms.openlocfilehash: ef2c12ea5e956b9bfdaeb2c464ac74684b630c48
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 420a94c3996840c2d75687f533e06625258ca0f7
+ms.sourcegitcommit: 6ad0a834fc225cc27dfdbee4a83cf06bbbcbc1c9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6440854"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "7588180"
 ---
 # <a name="install-the-prod_short-app-for-microsoft-teams"></a>Установите приложение [!INCLUDE [prod_short](includes/prod_short.md)] для Microsoft Teams
 
 [!INCLUDE [online_only](includes/online_only.md)]
 
 В этой статье вы узнаете, как установить приложение [!INCLUDE [prod_short](includes/prod_short.md)] для [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-365/microsoft-teams). Приложение доступно в магазине Teams, и вы можете использовать его с веб-приложением Teams, настольным или мобильным приложением.
+
+> [!NOTE]
+> Ваш администратор мог настроить все так, чтобы приложение автоматически устанавливалось для вас. Чтобы проверить, установлено ли приложение, откройте Teams, затем выберите **Приложения**. Найдите **Business Central**, затем выберите его, когда найдете. Если показано **Открыть** на странице **Business Central**, приложение уже установлено.  
 
 ## <a name="prerequisites"></a>Предварительные требования
 
@@ -35,9 +38,9 @@ ms.locfileid: "6440854"
 
 ## <a name="add-the-business-central-app-to-teams"></a>Добавление приложения Business Central в Teams
 
-Установить приложение Business Central можно двумя способами:
+Установить приложение Business Central можно тремя способами:
 
-**Способ 1**
+**Вариант 1. По ссылке**
 
 Этот вариант — самый быстрый способ установить приложение.
 
@@ -49,16 +52,23 @@ ms.locfileid: "6440854"
 
 3. Выберите **Добавить**.
 
-**Способ 2**
+**Вариант 2. Из Teams**
 
 1. Откройте и войдите в Teams.
 2. В левой части выберите **Приложения**.
 3. Найдите **Business Central**.
 4. Выберите приложение, когда найдете его.
-5. Выберите **Добавить**.
+5. Нажмите **Добавить**.
 
 > [!NOTE]
 > В любом случае вас могут попросить войти в [!INCLUDE [prod_short](includes/prod_short.md)]. Выберите ссылку **Войти** и следуйте инструкциям, чтобы ввести имя для входа и пароль для [!INCLUDE [prod_short](includes/prod_short.md)].
+
+**Вариант 3. Из Business Central**
+
+1. Откройте Business Central.
+2. Выберите ![Лупа, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") введите **Получить приложение Business Central для Teams**, а затем выберите связанную ссылку.  
+3. Выберите **Получить приложение из магазина**.
+4. Подождите, пока откроется Teams и появится приложение Business Central, затем выберите **Добавить**.
 
 ## <a name="next-step"></a>Следующий шаг
 
