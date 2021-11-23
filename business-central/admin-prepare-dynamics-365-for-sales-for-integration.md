@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: sales, crm, integration, integrating
 ms.date: 06/14/2021
 ms.author: bholtorf
-ms.openlocfilehash: dc4cf3d98fbbd4f7496820d152f009602192030a
-ms.sourcegitcommit: 04055135ff13db551dc74a2467a1f79d2953b8ed
+ms.openlocfilehash: afc1b56d2bfb1f94844b7b1e10af8a2522738dab
+ms.sourcegitcommit: 2b34394a855845457bb705178470e2cbfa77141c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/08/2021
-ms.locfileid: "7482327"
+ms.lasthandoff: 10/19/2021
+ms.locfileid: "7651491"
 ---
 # <a name="integrating-with-dynamics-365-sales"></a>Интеграция с Dynamics 365 Sales
 [!INCLUDE[prod_short](includes/cc_data_platform_banner.md)]
@@ -97,6 +97,9 @@ Integration with Business Central through Dataverse requires an administrator us
 | Единица измерения | Группа единиц | [!INCLUDE[prod_short](includes/prod_short.md)] -> [!INCLUDE[crm_md](includes/crm_md.md)] |  |
 | Товар | Продукт | [!INCLUDE[prod_short](includes/prod_short.md)] -> [!INCLUDE[crm_md](includes/crm_md.md)] и [!INCLUDE[crm_md](includes/crm_md.md)] -> [!INCLUDE[prod_short](includes/prod_short.md)] | Тип контактов Sales: **Тип продукта** — **Товарный запас** |
 | Ресурс | Продукт | [!INCLUDE[prod_short](includes/prod_short.md)] -> [!INCLUDE[crm_md](includes/crm_md.md)] и [!INCLUDE[crm_md](includes/crm_md.md)] -> [!INCLUDE[prod_short](includes/prod_short.md)] | Тип контактов Sales: **Тип продукта** — **Услуги** |
+| Единица измерения товара | CRM UOM |[!INCLUDE[prod_short](includes/prod_short.md)] -> [!INCLUDE[crm_md](includes/crm_md.md)]| |
+| Единица измерения ресурса | CRM UOM |[!INCLUDE[prod_short](includes/prod_short.md)] -> [!INCLUDE[crm_md](includes/crm_md.md)]||
+| Группа единиц | CRM Uomschedule | [!INCLUDE[prod_short](includes/prod_short.md)] -> [!INCLUDE[crm_md](includes/crm_md.md)] ||
 | Ценовая группа клиента | Прайс-лист | [!INCLUDE[prod_short](includes/prod_short.md)] -> [!INCLUDE[crm_md](includes/crm_md.md)] |  |
 | Цена продажи | Прайс-лист на продукцию | [!INCLUDE[prod_short](includes/prod_short.md)] -> [!INCLUDE[crm_md](includes/crm_md.md)] | Фильтр контактов [!INCLUDE[prod_short](includes/prod_short.md)]: **Код продажи** не пустой, **Тип продажи** — **Ценовая группа клиента** |
 | Возможность | Возможность | [!INCLUDE[prod_short](includes/prod_short.md)] -> [!INCLUDE[prod_short](includes/cds_long_md.md)] и [!INCLUDE[crm_md](includes/crm_md.md)] -> [!INCLUDE[prod_short](includes/prod_short.md)] |  |
@@ -104,6 +107,50 @@ Integration with Business Central through Dataverse requires an administrator us
 | Строка счета продажи | Продукт счета | [!INCLUDE[prod_short](includes/prod_short.md)] -> [!INCLUDE[crm_md](includes/crm_md.md)] |  |
 | Заголовок заказа на продажу | Заказ на продажу | [!INCLUDE[prod_short](includes/prod_short.md)] -> [!INCLUDE[crm_md](includes/crm_md.md)] | Фильтр заголовков продаж [!INCLUDE[prod_short](includes/prod_short.md)]: **Тип документа** — Заказ, **Статус** — Выпущено |
 | Примечания заказа на продажу | Примечания заказа на продажу | [!INCLUDE[prod_short](includes/prod_short.md)] -> [!INCLUDE[crm_md](includes/crm_md.md)] и [!INCLUDE[crm_md](includes/crm_md.md)] -> [!INCLUDE[prod_short](includes/prod_short.md)] |  |
+
+> [!NOTE]
+> Сопоставления для таблиц единиц измерения номенклатур, единицы измерения ресурсов и группы единиц доступны только в том случае, если ваш администратор включил **Обновление функции: синхронизация нескольких единиц измерения с Dynamics 365 Sales** на странице **Управление функциями**. Для получения дополнительной информации прочтите [Синхронизация номенклатур и ресурсов с товарами в разных единицах измерения](admin-prepare-dynamics-365-for-sales-for-integration.md#synchronizing-items-and-resources-with-products-with-different-units-of-measure).
+
+## <a name="synchronizing-items-and-resources-with-products-with-different-units-of-measure"></a>Синхронизация номенклатур и ресурсов с товарами с разными единицами измерения
+Компании часто производят или покупают товары в одной единице измерения, а затем продают их в другой. Чтобы синхронизировать элементы, в которых используется несколько единиц измерения, необходимо включить **Обновление функции: синхронизация нескольких единиц измерения с Dynamics 365 Sales** на странице **Управление функциями**. 
+
+Когда вы это сделаете, создается новая таблица групп единиц, которая назначается каждому товару и ресурсу в [!INCLUDE[prod_short](includes/prod_short.md)]. Это позволяет сопоставить таблицы «Группа единиц», «Единица измерения товара» и «Единица измерения ресурса» в [!INCLUDE[prod_short](includes/prod_short.md)] с группой единиц Dynamics 365 Sales <!--Need to verify this name--> в [!INCLUDE[crm_md](includes/crm_md.md)], как показано на следующем изображении.
+
+:::image type="content" source="media/unit group 1.png" alt-text="Отображение таблиц для групп единиц":::
+
+Вы можете создать несколько единиц измерения для каждой группы единиц и назначить группы для продуктов в [!INCLUDE[crm_md](includes/crm_md.md)]. После этого вы сможете синхронизировать продукты с товарами и ресурсами в [!INCLUDE[prod_short](includes/prod_short.md)]. Вы можете вручную связать единицы измерения товаров или единицы измерения ресурса с группой единиц. Когда вы это сделаете, если группа единиц для товара или ресурса не связана с группой единиц в [!INCLUDE[crm_md](includes/crm_md.md)], например, потому что группа единиц не существует, [!INCLUDE[prod_short](includes/prod_short.md)] автоматически создаст группу единиц в [!INCLUDE[crm_md](includes/crm_md.md)].
+
+### <a name="mapping-items-and-resources-to-products"></a>Сопоставление товаров и ресурсов с продуктами
+Когда вы включаете **Обновление функции: синхронизация нескольких единиц измерения с Dynamics 365 Sales**, происходит следующее:
+
+* Новые сопоставления создаются для товаров и ресурсов.
+* Существующие сопоставления удаляются. <!--which mappings?-->
+* Обновление данных создает группы единиц для товаров и ресурсов.
+
+Чтобы использовать новые сопоставления, необходимо синхронизировать группы единиц, единицу измерения товара и единицу измерения ресурса. Вы также должны повторно синхронизировать товары и ресурсы. 
+
+> [!NOTE]
+> [!INCLUDE[crm_md](includes/crm_md.md)] не позволяет изменять группу единиц продукта. Следовательно, вы должны списать свои продукты и отвязать товары и ресурсы, а затем синхронизировать, создав новые продукты в [!INCLUDE[crm_md](includes/crm_md.md)]. 
+
+Следующие шаги описывают шаги для начала сопоставления групп единиц:
+
+1. Убедитесь, что продукты в [!INCLUDE[crm_md](includes/crm_md.md)] не связаны с товарами или ресурсами в [!INCLUDE[prod_short](includes/prod_short.md)]. Если они связаны, перейдите на страницы **Товары** и/или **Ресурсы**, используйте параметры фильтра, чтобы выбрать связанные записи, а затем выберите действие **Dynamics 365 Sales** и выберите **Отменить связывание**. Будет запланировано фоновое задание для разъединения записей. Пока задание выполняется, вы можете проверить его статус, используя действие **Журнал синхронизации**. Дополнительные сведения см. в разделе [Связывание и синхронизация](admin-how-to-couple-and-synchronize-records-manually.md). 
+2. Поскольку что новые продукты будут создаваться в [!INCLUDE[crm_md](includes/crm_md.md)] с новыми группами единиц, чтобы избежать дублирования имен, выполните одно из следующих действий:
+    
+    * Переименуйте свои продукты, а затем удалите их в [!INCLUDE[crm_md](includes/crm_md.md)]. Для получения дополнительной информации см. [Списание продуктов (Центр продаж)](/dynamics365/sales-enterprise/retire-product). Для массового редактирования ваших продуктов в Microsoft Excel, войдите в Power Apps, выберите среду, перейдите в таблицу **Продукт** и выберите вкладку **Данные**. Удалите все примененные фильтры. В группе **Данные** выберите действие **Редактировать данные в Excel**. Добавьте префикс или суффикс к связанным продуктам, а затем удалите их.
+    * Спишите свои продукты и удалите их. 
+
+3. Выполните следующие действия для синхронизации **Группы единиц**, **Единица измерения**, **Товары** и **Ресурсы**:
+    1. В [!INCLUDE[prod_short](includes/prod_short.md)] откройте страницу **Настройка подключения Dynamics 365 Sales**.
+    2. Используйте действие **Запустить полную синхронизацию**, чтобы открыть страницу **Просмотр полной синхронизации Dataverse**.
+    3. Для сопоставлений **UOM ТОВАРА**, **UOM РЕСУРСА** И **ГРУППА ЕДИНИЦ** выберите действие **Рекомендовать полную синхронизацию**.
+    4. Выберите действие **Синхронизировать все**.
+
+    > [!NOTE]
+    > Для сопоставлений, которые еще не были полностью синхронизированы, это действие полностью синхронизирует их. Чтобы предотвратить синхронизацию этих сопоставлений, удалите сопоставления со страницы. Это только удаляет их из текущей полной синхронизации, но не удаляет сопоставления.
+    
+5. Выберите сопоставление **ТОВАР-ПРОДУКТ**, а затем выберите действие **Перезапустить**. Это создает новые продукты из товаров в [!INCLUDE[crm_md](includes/crm_md.md)] и назначает новую группу единиц, относящуюся к товару.
+6. Выберите сопоставление **РЕСУРС-ПРОДУКТ**, а затем выберите действие **Перезапустить**. Это создает новые продукты из ресурсов в [!INCLUDE[crm_md](includes/crm_md.md)] и назначает новую группу единиц, относящуюся к ресурсам.
 
 ### <a name="synchronization-rules"></a>Правила синхронизации
 

@@ -3,13 +3,13 @@ author: jill-kotel-andersson
 ms.service: dynamics365-business-central
 ms.topic: include
 ms.date: 09/24/2021
-ms.author: a-jillk
-ms.openlocfilehash: 4d481091f8cbf9b0c00193a5d60959925984d649
-ms.sourcegitcommit: 6ad0a834fc225cc27dfdbee4a83cf06bbbcbc1c9
+ms.author: edupont
+ms.openlocfilehash: 9dea26c37e990eee9d25a887714873a1daf7e9fe
+ms.sourcegitcommit: 428ba6385cb27475e8803c2a8967daa22cfe8879
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2021
-ms.locfileid: "7589486"
+ms.lasthandoff: 10/29/2021
+ms.locfileid: "7724590"
 ---
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать 22.](../media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Товары**, а затем выберите связанную ссылку.  
 2. На странице **Товары** выберите действие **Создать**.

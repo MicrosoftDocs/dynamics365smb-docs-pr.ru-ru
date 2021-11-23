@@ -1229,6 +1229,8 @@
 ##### [Подготовка для отчетов по транзакциям НДС](LocalFunctionality/Italy/how-to-prepare-for-vat-transactions-reports.md)
 ##### [Печать и повторная печать главных книг и регистров НДС](LocalFunctionality/Italy/how-to-print-and-reprint-g-l-books-and-vat-registers.md)
 ##### [Печать отчетов Интрастат для Италии](LocalFunctionality/Italy/how-to-print-intrastat-reports-for-italy.md)
+#### Подоходный налог
+##### [Настройка подоходного налога в итальянской версии](LocalFunctionality/Italy/set-up-withholding-tax.md)
 ##### [Печать отчетов о подоходном налоге](LocalFunctionality/Italy/how-to-print-withholding-tax-reports.md)
 #### Банковские операции и платежи
 ##### [Настройка условия платежа](LocalFunctionality/Italy/how-to-set-up-payment-terms.md)
@@ -1258,11 +1260,7 @@
 #### [Локальная функциональность в мексиканской версии](LocalFunctionality/Mexico/mexico-local-functionality.md)
 #### Налог
 ##### [Настройка и генерация отчетов DIOT](LocalFunctionality/Mexico/ui-extensions-setup-and-generate-diot-report-mx.md)
-##### [Налог с продаж для Мексики](LocalFunctionality/Mexico/mexico-sales-tax.md)  
-##### [Настройка налога на использование и налога на покупки](LocalFunctionality/Mexico/how-to-set-up-use-tax-and-purchase-tax.md)  
-##### [Настройка нереализованного налога с продажи и скидок по оплате за продажи](LocalFunctionality/Mexico/how-to-set-up-unrealized-sales-tax-and-sales-payment-discounts.md)
-##### [Отчетность по налогу с продаж в Мексике](LocalFunctionality/Mexico/mexico-sales-tax.md)
-##### [Создание депозитов](LocalFunctionality/Mexico/how-to-create-deposits.md)  
+##### [Настройка методов расчета и учета НДС](finance-setup-vat.md)  
 ##### [Типы идентификации налога для Мексики](LocalFunctionality/Mexico/tax-identification-types-for-mexico.md)
 ##### [Пересчет НДС](LocalFunctionality/Mexico/vat-recalculation.md)
 #### Электронные счета
@@ -1274,12 +1272,13 @@
 #### Общие
 ##### [Настройка веб-служб PAC](LocalFunctionality/Mexico/how-to-set-up-pac-web-services.md)
 ##### [Печать отчетов об устранении неполадок](LocalFunctionality/Mexico/how-to-print-troubleshooting-reports.md)  
+##### [Создание депозитов](LocalFunctionality/Mexico/how-to-create-deposits.md)  
 
 ### Нидерланды
 #### [Локальная функциональность в нидерландской версии](LocalFunctionality/Netherlands/netherlands-local-functionality.md)
 #### НДС
 ##### [" Создание файла аудита для налогового органа](LocalFunctionality/Netherlands/how-to-create-an-audit-file-for-the-tax-authority.md)
-##### [Настройка категорий НДС](LocalFunctionality\Netherlands\how-to-set-up-vat-categories.md)
+##### [Настройка категорий НДС](LocalFunctionality/Netherlands/how-to-set-up-vat-categories.md)
 ##### [Электронные декларации по НДС и ICP](LocalFunctionality/Netherlands/electronic-vat-and-icp-declarations.md)
 ##### [Настройка электронных деклараций по НДС и ICP](LocalFunctionality/Netherlands/how-to-set-up-electronic-vat-and-icp-declarations.md)
 ##### [Отправка электронных деклараций по НДС и ICP](LocalFunctionality/Netherlands/electronic-vat-and-icp-declarations.md)
@@ -1290,7 +1289,7 @@
 ##### [Сценарий платежей 1: платежи внутри страны (из локальной валюты в локальную валюту)](LocalFunctionality/Netherlands/payment-scenario-1-domestic-payments-lcy-to-lcy-.md)  
 ##### [Сценарии платежей 2 — иностранный платеж (из иностранной валюты в иностранную валюту)](LocalFunctionality/Netherlands/payment-scenario-2-foreign-payment-fcy-to-fcy-.md)  
 ##### [Сценарии платежей 3 — иностранный платеж (из локальной валюты в иностранную валюту)](LocalFunctionality/Netherlands/payment-scenario-3-foreign-payment-lcy-to-fcy-.md)
-##### [Создание предложений](LocalFunctionality\Netherlands\how-to-create-proposals.md)
+##### [Создание предложений](LocalFunctionality/Netherlands/how-to-create-proposals.md)
 ##### [Отчеты квитанций](LocalFunctionality/Netherlands/docket-reports.md)
 ##### [Ввод и учет наличных средств и журналов банка или жиро](LocalFunctionality/Netherlands/how-to-enter-and-post-cash-and-bank-or-giro-journals.md)
 ##### [Печать тестовых отчетов для наличных средств и журналов банка или жиро](LocalFunctionality/Netherlands/how-to-print-the-test-reports-for-cash-and-bank-or-giro-journals.md)
@@ -1298,7 +1297,7 @@
 ##### [Активация платежей SEPA](LocalFunctionality/Netherlands/how-to-activate-sepa-payments.md)
 ##### [Отправка платежей поставщикам в электронном виде в формате платежей SEPA ISO 20022](LocalFunctionality/Netherlands/how-to-submit-vendor-payments-electronically-in-sepa-iso-20022-payment-format.md)
 ##### [Создание и экспорт истории платежей](LocalFunctionality/Netherlands/how-to-create-and-export-payment-history.md)
-##### [Импорт и выверка банковских выписок](LocalFunctionality\Netherlands\how-to-import-and-reconcile-bank-statements.md)
+##### [Импорт и выверка банковских выписок](LocalFunctionality/Netherlands/how-to-import-and-reconcile-bank-statements.md)
 #### Основные финансы
 ##### [Применение и отмена операций главной книги](LocalFunctionality/Netherlands/how-to-apply-and-unapply-general-ledger-entries.md)
 ##### [Необходимые описания в операциях главной книги](LocalFunctionality/Netherlands/required-descriptions-in-g-l-entry.md)

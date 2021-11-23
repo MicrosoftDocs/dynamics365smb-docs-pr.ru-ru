@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: Yodlee, feed, stream, payment process
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: a01bbbcb158e975c2b6f21ce2dd2468f8b3fa431
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 8c27b2c158d817a6e58a72d49d65d75bb8470f65
+ms.sourcegitcommit: 2b34394a855845457bb705178470e2cbfa77141c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6443527"
+ms.lasthandoff: 10/19/2021
+ms.locfileid: "7651466"
 ---
 # <a name="set-up-the-envestnet-yodlee-bank-feeds-service"></a>Настройка службы Envestnet Yodlee Bank Feeds
 
@@ -97,6 +97,11 @@ ms.locfileid: "6443527"
 5. Нажмите кнопку **ОК**.
 
 На странице **Список банковских счетов** будет установлен флажок **Связан**.
+
+## <a name="to-edit-the-credentials-for-an-online-bank-account"></a>Чтобы изменить учетные данные для счета интернет-банка
+1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Банковские счета**, затем выберите соответствующую ссылку.  
+2. Выберите строку банковского счета, которые связан со счетом интернет-банка, а затем выберите действие **Изменить сведения о счете онлайн-банкинга**.
+3. Обновите учетные данные.
 
 ## <a name="to-unlink-a-bank-account"></a>Отмена связи банковского счета
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Банковские счета**, а затем выберите связанную ссылку.  

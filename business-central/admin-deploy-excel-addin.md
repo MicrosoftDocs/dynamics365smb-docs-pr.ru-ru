@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: Excel, add-in, centralized deployment, M365 admin center, individual acquisition, appsource
-ms.date: 10/01/2021
+ms.date: 10/07/2021
 ms.author: jswymer
-ms.openlocfilehash: 5788671162dc6480c8404338f6325dfae9233f44
-ms.sourcegitcommit: 6ad0a834fc225cc27dfdbee4a83cf06bbbcbc1c9
+ms.openlocfilehash: 06d3e22d0cdb68daa2b87e3569660dfd4e5724fd
+ms.sourcegitcommit: 428ba6385cb27475e8803c2a8967daa22cfe8879
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2021
-ms.locfileid: "7589488"
+ms.lasthandoff: 10/29/2021
+ms.locfileid: "7724616"
 ---
 # <a name="get-the-business-central-add-in-for-excel"></a>Получение надстройки Business Central для Excel
 
@@ -25,7 +25,7 @@ ms.locfileid: "7589488"
 
 ### <a name="about-the-add-in"></a>О надстройке
 
-Надстройка называется **Надстройка Office Microsoft Dynamics** и ее можно установить из [Магазина Office (AppSource)](https://appsource.microsoft.com/). После установки надстройки действие **Изменить в Excel** доступно на большинстве страниц списков и частей списков по значку **Поделиться** ![Поделиться страницей в другом приложении.](media/share-icon.png). Дополнительную информацию по использованию надстройки см. в разделе [Просмотр и редактирование в Excel из Business Central](across-work-with-excel.md)
+Надстройка называется **Надстройка Office Microsoft Dynamics** и ее можно установить из [Магазина Office (AppSource)](https://appsource.microsoft.com/). После установки надстройки действие **Изменить в Excel** доступно на большинстве страниц списков и частей списков по значку **Поделиться** ![Поделиться страницей в другом приложении.](media/share-icon.png). Дополнительную информацию по использованию надстройки см. в разделе [Просмотр и редактирование в Excel из Business Central](across-work-with-excel.md).
 
 > [!NOTE]
 > Надстройка работает только в Windows, но не в macOS.
@@ -118,7 +118,7 @@ ms.locfileid: "7589488"
 
 ## <a name="prepare-devices-and-network-for-the-excel-add-in"></a>Подготовьте устройства и сеть для надстройки Excel
 
-Сетевые службы, такие как прокси или брандмауэры, должны разрешать маршрутизацию между каждым клиентским устройством, на котором установлена надстройка, и многими конечными точками служб. Список конечных точек см. в [Подготовка сети к надстройке Excel](/dev-itpro/administration/configuring-network-for-addins).
+Сетевые службы, такие как прокси или брандмауэры, должны разрешать маршрутизацию между каждым клиентским устройством, на котором установлена надстройка, и многими конечными точками служб. Список конечных точек см. в [Подготовка сети к надстройке Excel](/dynamics365/business-central/dev-itpro/administration/configuring-network-for-addins).
 
 ## <a name="troubleshooting"></a>Устранение неполадок
 

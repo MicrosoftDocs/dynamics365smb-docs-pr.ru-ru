@@ -11,12 +11,12 @@ ms.search.keywords: connectivity, troubleshooting, connection problems
 ms.date: 06/17/2021
 ms.author: jswymer
 ROBOTS: NOINDEX
-ms.openlocfilehash: db7b9e602817d7dddcf6bce1b35ede078bd70aa0
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: e08d6148001e324bc7217771434ff6862fe984a6
+ms.sourcegitcommit: 75c05a77e74d8a6a8a52b25999d98b66716e0f68
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6443185"
+ms.lasthandoff: 11/03/2021
+ms.locfileid: "7748965"
 ---
 # <a name="troubleshoot-connectivity-for-business-central"></a>Устранение неполадок подключения для Business Central
 
@@ -31,13 +31,22 @@ ms.locfileid: "6443185"
 
 ## <a name="start-the-connectivity-check"></a>Начать проверку подключения 
 
-1. Нажмите [эту ссылку](https://businesscentral.dynamics.com/connectivity) или откройте свой интернет-браузер и вставьте следующий URL-адрес в адрес:
+1. Откройте интернет-браузер.
+2. В строке адреса введите URL-адрес, который вы используете для открытия Business Central, и добавьте `/connectivity` в конце. 
+
+    Например, если вы используете `https://businesscentral.dynamics.com`, введите:
 
     ```http
     https://businesscentral.dynamics.com/connectivity
     ```
 
-2. На странице **Устранение неполадок с подключением** выберите **Начать проверку**.
+    Или, если URL-адрес включает идентификатор клиента, например `https://businesscentral.dynamics.com/12345678-1234-1234-1234-1234567890AB`, то вы должны ввести:
+
+    ```http
+    https://businesscentral.dynamics.com/12345678-1234-1234-1234-1234567890AB/connectivity
+    ```
+ 
+3. На странице **Устранение неполадок с подключением** выберите **Начать проверку**.
 
     Выполняется серия проверок, и отображается результат каждой проверки:
 
@@ -45,7 +54,7 @@ ms.locfileid: "6443185"
     - ![Проверка подключения не пройдена.](media/connectivity-failed.png) указывает, что проверка завершилась неудачно. Просмотрите сообщение ниже для получения дополнительных сведений.
     - ![Проверка подключения не выполнялась.](media/connectivity-blocked.png) указывает, что проверка не выполнялась, обычно из-за сбоя предыдущей проверки. Просмотрите сообщение ниже для получения дополнительных сведений.
 
-3. Чтобы снова запустить проверку, выберите **Перезапустить проверку**.
+4. Чтобы снова запустить проверку, выберите **Перезапустить проверку**.
 
 В следующих разделах объясняются выполняемые проверки и даются советы по устранению проблем.
 

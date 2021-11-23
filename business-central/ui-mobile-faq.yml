@@ -9,14 +9,14 @@ metadata:
   ms.tgt_pltfrm: na
   ms.workload: na
   ms.search.keywords: phone, tablet
-  ms.date: 04/01/2021
+  ms.date: 10/25/2021
   ms.author: edupont
-  ms.openlocfilehash: 81887822a3163a7fee0d027ac1969545990f749a
-  ms.sourcegitcommit: f9a190933eadf4608f591e2f1b04c69f1e5c0dc7
+  ms.openlocfilehash: f0d31833373014ac5f1f089537bf03091540e223
+  ms.sourcegitcommit: a9e2aaee735870af566db68532cfa697347d68e0
   ms.translationtype: HT
   ms.contentlocale: ru-RU
-  ms.lasthandoff: 05/28/2021
-  ms.locfileid: "6115992"
+  ms.lasthandoff: 11/04/2021
+  ms.locfileid: "7752534"
 title: Вопросы и ответы по мобильным приложениям
 summary: "В этой статье содержатся ответы на вопросы, которые часто задают наши опытные пользователи о мобильных приложениях для [!INCLUDE [prod_short](includes/prod_short.md)].  \n"
 sections:
@@ -85,4 +85,7 @@ sections:
   - question: >
       Могу ли я подключить приложение к нашему локальному решению?
     answer: "Да, можете. Это немного другой способ входа в систему, вот и все. Дополнительные сведения см. в разделе [Использование локальной версии Business Central](install-mobile-app.md#using-business-central-on-premises).  \n"
+  - question: >
+      Может ли гостевой пользователь использовать приложение для доступа к нашему решению Business Central?
+    answer: "Кол-во Гостевые пользователи — это приглашенные пользователи из других клиентов Azure Active Directory (AD), не вашего клиента. В этом случае приложение будет проверять подлинность для основного клиента Azure AD гостевого пользователя и пробовать открыть конечную точку Business Central на этом клиенте вместо вашего.  \n"
 additionalContent: "\n## <a name=\"see-also\"></a>См. также\n\n[Получение Business Central на мобильном устройстве](install-mobile-app.md)  \n[Установка приложения Business Central для Microsoft Teams](across-install-app-for-teams.md)  \n\n[!INCLUDE[footer-include](includes/footer-banner.md)]"
