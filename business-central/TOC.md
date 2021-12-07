@@ -24,27 +24,13 @@
 
 ### Сведения о проектировании
 #### [Обзор сведений о структуре приложения](design-details-application-design.md)
-#### Сведения о проектировании: планирование поставок
-##### [Обзор планирования поставок](design-details-supply-planning.md)
-##### [Сведения о проектировании: основные понятия системы планирования](design-details-central-concepts-of-the-planning-system.md)  
-##### [Сведения о проектировании: резервирование, трассировка заказов и отправка сообщений о действиях](design-details-reservation-order-tracking-and-action-messaging.md)  
-##### [Сведения о проектировании: балансировка спроса и поставки](design-details-balancing-demand-and-supply.md)  
-##### [Сведения о проектировании: обработка политик дозаказа](design-details-handling-reordering-policies.md)  
-##### [Сведения о проектировании: параметры планирования](design-details-planning-parameters.md)  
-##### [Сведения о проектировании: таблица "Назначение произ. плана"](design-details-planning-assignment-table.md)  
-##### [Сведения о проектировании: спрос на пустом складе](design-details-demand-at-blank-location.md)  
-##### [Сведения о проектировании: перемещения при планировании](design-details-transfers-in-planning.md)
 #### Сведения о проектировании: себестоимость запасов
-##### [Обзор затрат](design-details-inventory-costing.md)
+##### [Сведения о проектировании себестоимости запасов](design-details-inventory-costing.md)
 ##### [Сведения о проектировании: методы учета себестоимости](design-details-costing-methods.md)  
 ##### [Сведения о проектировании: изменение методов учета себестоимости для товаров](design-details-changing-costing-methods.md)
 ##### [Сведения о проектировании: применение товара](design-details-item-application.md)  
 ##### [Сведения о проектировании: известная проблема применения товара](design-details-inventory-zero-level-open-item-ledger-entries.md)  
 ##### [Сведения о проектировании: коррекция себестоимости](design-details-cost-adjustment.md)  
-##### Подробности разработки: дата учета для операции коррекции стоимости
-###### [Подробности разработки: дата учета для операции коррекции стоимости](design-details-inventory-adjustment-value-entry-posting-date.md)  
-###### [Сообщение об ошибке "Дата учета вне пределов разрешенного диапазона дат учета"](design-details-inventory-adjustment-value-entry-allowed-posting-dates.md)  
-###### [Дата учета в операции значения корректировки по сравнению с исходной операцией](design-details-inventory-adjustment-value-entry-source-entry.md)  
 ##### [Сведения о проектировании: учет ожидаемой себестоимости](design-details-expected-cost-posting.md)  
 ##### [Сведения о проектировании: средняя себестоимость](design-details-average-cost.md)  
 ##### [Сведения о проектировании: отклонение](design-details-variance.md)  
@@ -58,8 +44,26 @@
 ##### [Сведения о проектировании: счета в главной книге](design-details-accounts-in-the-general-ledger.md)
 ##### [Сведения о проектировании: оценка стоимости запасов](design-details-inventory-valuation.md)  
 ##### [Сведения о проектировании: переоценка](design-details-revaluation.md)
+#### Подробности разработки: дата учета для операции коррекции стоимости
+##### [Обзор даты учета для операции коррекции стоимости](design-details-inventory-adjustment-value-entry-posting-date.md)  
+##### [Сообщение об ошибке "Дата учета вне пределов разрешенного диапазона дат учета"](design-details-inventory-adjustment-value-entry-allowed-posting-dates.md)  
+##### [Дата учета в операции значения корректировки по сравнению с исходной операцией](design-details-inventory-adjustment-value-entry-source-entry.md)
+#### Сведения о проектировании: операции набора измерений
+##### [Сведения о проектировании: обзор операций набора измерений](design-details-dimension-set-entries-overview.md)
+##### [Сведения о проектировании: поиск комбинаций измерений](design-details-searching-for-dimension-combinations.md)
+##### [Сведения о проектировании: структура таблицы](design-details-table-structure.md)
+#### Сведения о проектировании: планирование поставок
+##### [Сведения о проектировании планирования поставок](design-details-supply-planning.md)
+##### [Сведения о проектировании: основные понятия системы планирования](design-details-central-concepts-of-the-planning-system.md)  
+##### [Сведения о проектировании: резервирование, трассировка заказов и отправка сообщений о действиях](design-details-reservation-order-tracking-and-action-messaging.md)  
+##### [Сведения о проектировании: балансировка спроса и поставки](design-details-balancing-demand-and-supply.md)  
+##### [Сведения о проектировании: обработка политик дозаказа](design-details-handling-reordering-policies.md)  
+##### [Сведения о проектировании: параметры планирования](design-details-planning-parameters.md)  
+##### [Сведения о проектировании: таблица "Назначение произ. плана"](design-details-planning-assignment-table.md)  
+##### [Сведения о проектировании: спрос на пустом складе](design-details-demand-at-blank-location.md)  
+##### [Сведения о проектировании: перемещения при планировании](design-details-transfers-in-planning.md)
 #### Сведения о проектировании: управление складом
-##### [Обзор управления складом](design-details-warehouse-management.md)
+##### [Сведения о проектировании Warehouse Management](design-details-warehouse-management.md)
 ##### [Сведения о проектировании: обзор склада](design-details-warehouse-overview.md)  
 ##### [Сведения о проектировании: настройка склада](design-details-warehouse-setup.md)  
 ##### [Сведения о проектировании: входящий складской поток](design-details-inbound-warehouse-flow.md)  
@@ -68,7 +72,7 @@
 ##### [Сведения о проектировании: исходящий складской поток](design-details-outbound-warehouse-flow.md)  
 ##### [Сведения о проектировании: интеграция с запасом](design-details-integration-with-inventory.md)
 #### Сведения о проектировании: трассировка товара
-##### [Обзор трассировки товаров](design-details-item-tracking.md)
+##### [Сведения о проектировании трассировки товара](design-details-item-tracking.md)
 ##### [Сведения о проектировании: разработка трассировки товара](design-details-item-tracking-design.md)  
 ##### [Сведения о проектировании: структура учета трассировки товаров](design-details-item-tracking-posting-structure.md)  
 ##### [Сведения о проектировании: активные и исторические операции трассировки товаров](design-details-active-versus-historic-item-tracking-entries.md)  
@@ -78,14 +82,10 @@
 ##### [Сведения о проектировании: трассировка и резервирование товара](design-details-item-tracking-and-reservations.md)  
 ##### [Сведения о проектировании: трассировка товара на складе](design-details-item-tracking-in-the-warehouse.md)
 #### Сведения о проектировании: строка учета финансового журнала
-##### [Строка учета финансового журнала](design-details-general-journal-post-line.md)
+##### [Сведения о проектировании строки учета финансового журнала](design-details-general-journal-post-line.md)
 ##### [Обзор строки учета финансового журнала](design-details-general-journal-post-line-overview.md)  
 ##### [Сведения о проектировании: структура интерфейса учета](design-details-posting-interface-structure.md)  
 ##### [Сведения о проектировании: структура механизма учета](design-details-posting-engine-structure.md)  
-#### Сведения о проектировании: операции набора измерений
-##### [Сведения о проектировании: обзор операций набора измерений](design-details-dimension-set-entries-overview.md)  
-##### [Сведения о проектировании: поиск комбинаций измерений](design-details-searching-for-dimension-combinations.md)  
-##### [Сведения о проектировании: структура таблицы](design-details-table-structure.md)  
 
 ## Попробовать
 ### [Пробные версии и подписки](across-preview.md)
@@ -703,6 +703,7 @@
 ### [Амортизация основных средств](fa-how-depreciate-amortize.md)
 ### [Списание или выбытие основных средств](fa-how-dispose-retire.md)
 ### [Управление бюджетами основных средств](fa-how-manage-budgets.md)
+### [Поиск и устранение неисправностей для операций книги ОС](fa-troubleshooting-fa-ledger-entries.md)
 
 ## Управление отношениями
 ### [Обзор управления отношениями](marketing-relationship-management.md)
@@ -1264,13 +1265,14 @@
 ##### [Типы идентификации налога для Мексики](LocalFunctionality/Mexico/tax-identification-types-for-mexico.md)
 ##### [Пересчет НДС](LocalFunctionality/Mexico/vat-recalculation.md)
 #### Электронные счета
-##### [Электронные счета](LocalFunctionality/Mexico/electronic-invoicing.md)
-##### [Настройка электронных счетов](LocalFunctionality/Mexico/how-to-set-up-electronic-invoicing.md)
-##### [Создание электронных счетов](LocalFunctionality/Mexico/how-to-generate-electronic-invoices.md)
+##### [Электронные счета (MX)](LocalFunctionality/Mexico/electronic-invoicing.md)
+##### [Настройка веб-служб PAC](LocalFunctionality/Mexico/how-to-set-up-pac-web-services.md)
+##### [Настройка электронных счетов (MX)](LocalFunctionality/Mexico/how-to-set-up-electronic-invoicing.md)
+##### [Создание электронных счетов (MX)](LocalFunctionality/Mexico/how-to-generate-electronic-invoices.md)
+##### [Отборочные накладные для путевых листов (Carta de Porte) и заказы на перемещение (MX)](LocalFunctionality/Mexico/packing-slips-transfer-orders.md)
+#### Общие
 ##### [Правила электронного учета в Мексике](LocalFunctionality/Mexico/electronic-accounting-regulations.md)
 ##### [Совершение электронных платежей](finance-make-payments-with-bank-data-conversion-service-or-sepa-credit-transfer.md#exporting-payments-to-a-bank-file)
-#### Общие
-##### [Настройка веб-служб PAC](LocalFunctionality/Mexico/how-to-set-up-pac-web-services.md)
 ##### [Печать отчетов об устранении неполадок](LocalFunctionality/Mexico/how-to-print-troubleshooting-reports.md)  
 ##### [Создание депозитов](LocalFunctionality/Mexico/how-to-create-deposits.md)  
 
@@ -1286,9 +1288,9 @@
 ##### [Электронная система платежей в Нидерландах](LocalFunctionality/Netherlands/dutch-electronic-banking.md)
 ##### [Телебанкинг](LocalFunctionality/Netherlands/telebanking.md)
 ##### [Сценарии платежей](LocalFunctionality/Netherlands/payment-scenarios.md)
-##### [Сценарий платежей 1: платежи внутри страны (из локальной валюты в локальную валюту)](LocalFunctionality/Netherlands/payment-scenario-1-domestic-payments-lcy-to-lcy-.md)  
+##### [Сценарий платежей 1: платежи внутри страны (из МВ в МВ)](LocalFunctionality/Netherlands/payment-scenario-1-domestic-payments-lcy-to-lcy-.md)  
 ##### [Сценарии платежей 2 — иностранный платеж (из иностранной валюты в иностранную валюту)](LocalFunctionality/Netherlands/payment-scenario-2-foreign-payment-fcy-to-fcy-.md)  
-##### [Сценарии платежей 3 — иностранный платеж (из локальной валюты в иностранную валюту)](LocalFunctionality/Netherlands/payment-scenario-3-foreign-payment-lcy-to-fcy-.md)
+##### [Сценарии платежей 3 — иностранный платеж (из МВ в МВ)](LocalFunctionality/Netherlands/payment-scenario-3-foreign-payment-lcy-to-fcy-.md)
 ##### [Создание предложений](LocalFunctionality/Netherlands/how-to-create-proposals.md)
 ##### [Отчеты квитанций](LocalFunctionality/Netherlands/docket-reports.md)
 ##### [Ввод и учет наличных средств и журналов банка или жиро](LocalFunctionality/Netherlands/how-to-enter-and-post-cash-and-bank-or-giro-journals.md)

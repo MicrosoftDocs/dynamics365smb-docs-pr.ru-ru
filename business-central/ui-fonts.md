@@ -1,6 +1,6 @@
 ---
 title: Доступные шрифты
-description: Онлайн-версия Business Central содержит предварительно установленные шрифты на серверах, которые можно использовать при формировании отчетов.
+description: Узнайте о предустановленных шрифтах, которые можно использовать для внешних отчетов.
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: conceptual
@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2021
+ms.date: 11/30/2021
 ms.author: edupont
-ms.openlocfilehash: 0cfcf4bcda748ec2f46f24013d887252310596c0
-ms.sourcegitcommit: 6ad0a834fc225cc27dfdbee4a83cf06bbbcbc1c9
+ms.openlocfilehash: 6e57ffa9a004417fa16c92780b8c1bdc73c17570
+ms.sourcegitcommit: 58df17a2b79f32adb777fe1b1916baebc23cb584
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2021
-ms.locfileid: "7588028"
+ms.lasthandoff: 11/30/2021
+ms.locfileid: "7868305"
 ---
 # <a name="available-fonts"></a>Доступные шрифты
 
@@ -48,15 +48,22 @@ ms.locfileid: "7588028"
 Дополнительные сведения см. в разделе [Выбор макета платежного документа](finance-how-define-check-layouts.md).  
 
 ## <a name="fonts-for-barcodes"></a>Шрифты для штрих-кодов
-Шрифты для создания одномерных штрих-кодов установлены и доступны для использования в макетах отчетов Word и RDLC.
+Шрифты для создания штрихкодов установлены и доступны для использования в макетах отчетов Word и RDLC.
 
-Поддерживаются следующие символы штрих-кода:
+Поддерживаются следующие символы одномерного штрихкода:
 * Код 3 из 9 (Код 39)
 * Код 128
 * Код 93
 * Codabar
 * MSI
 * Чередование 2 из 5
+
+Поддерживаются следующие символы двумерного штрихкода:
+* Aztec
+* Data Matrix
+* Maxicode
+* PDF417
+* QR
 
 Дополнительные сведения см. в разделе [Шрифты штрих-кода в Business Central Online](/dynamics365/business-central/dev-itpro/developer/devenv-report-barcode-fonts).
 

@@ -10,16 +10,16 @@ ms.workload: na
 ms.search.keywords: Excel, add-in, centralized deployment, M365 admin center, individual acquisition, appsource
 ms.date: 10/07/2021
 ms.author: jswymer
-ms.openlocfilehash: 06d3e22d0cdb68daa2b87e3569660dfd4e5724fd
-ms.sourcegitcommit: 428ba6385cb27475e8803c2a8967daa22cfe8879
+ms.openlocfilehash: 6bb034f9809f4241a4a538d6ecb133976fb60fb2
+ms.sourcegitcommit: a6000804ad9a176de5750372d3951547ddb71006
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/29/2021
-ms.locfileid: "7724616"
+ms.lasthandoff: 11/25/2021
+ms.locfileid: "7865496"
 ---
 # <a name="get-the-business-central-add-in-for-excel"></a>Получение надстройки Business Central для Excel
 
-[!INCLUDE[prod_short](includes/prod_short.md)] включает надстройку для Excel, которая позволяет пользователям выбирать действие **Изменить в Excel** на определенных страницах, чтобы открыть данные на листе Excel. Это действие отличается от действия **Открыть в Excel**, потому что оно позволяет пользователям вносить изменения в Excel, а затем публиковать изменения обратно в [!INCLUDE[prod_short](includes/prod_short.md)]\
+[!INCLUDE[prod_short](includes/prod_short.md)] включает надстройку для Excel, которая позволяет пользователям выбирать действие **Изменить в Excel** на определенных страницах, чтобы открыть данные на листе Excel. Это действие отличается от действия **Открыть в Excel**, потому что оно позволяет пользователям вносить изменения в Excel, а затем публиковать изменения обратно в [!INCLUDE[prod_short](includes/prod_short.md)]
 
 ## <a name="overview"></a>Обзор
 
@@ -38,9 +38,9 @@ ms.locfileid: "7724616"
 
 - При индивидуальном получении пользователи сначала выбирают действие **Изменить в Excel**, затем панель **Создать надстройку Office** открывается в Excel. Чтобы установить надстройку, пользователь выбирает **Доверять этой надстройке**, что установит надстройку прямо из магазина Office. Затем пользователи входят в [!INCLUDE[prod_short](includes/prod_short.md)], используя свое имя пользователя и пароль.
 
-- При централизованном развертывании пользователи сначала выбирают действие **Изменить в Excel**, надстройка автоматически устанавливается в Excel из централизованного развертывания; а не магазина Office. Единственное, что нужно сделать пользователям, это войти в [!INCLUDE[prod_short](includes/prod_short.md)]\
+- При централизованном развертывании пользователи сначала выбирают действие **Изменить в Excel**, надстройка автоматически устанавливается в Excel из централизованного развертывания; а не магазина Office. Единственное, что нужно сделать пользователям, это войти в [!INCLUDE[prod_short](includes/prod_short.md)]
 
-При использовании обоих вариантов развертывания надстройка автоматически настраивается для подключения к [!INCLUDE[prod_short](includes/prod_short.md)]\.Третий вариант развертывания — это установка надстройки вручную прямо из Excel. С помощью этого варианта пользователям нужно будет настроить надстройку для подключения к [!INCLUDE[prod_short](includes/prod_short.md)]\
+При использовании обоих вариантов развертывания надстройка автоматически настраивается для подключения к [!INCLUDE[prod_short](includes/prod_short.md)]. Третий вариант развертывания — это установка надстройки вручную прямо из Excel. С помощью этого варианта пользователям нужно будет настроить надстройку для подключения к [!INCLUDE[prod_short](includes/prod_short.md)]
 
 ### <a name="switching-from-individual-acquisition-to-centralized-deployment-or-the-other-way-around"></a><a name="switch"></a>Переход от индивидуального получения к централизованному развертыванию или наоборот
 
@@ -63,13 +63,13 @@ ms.locfileid: "7724616"
 - Если вы переходите от индивидуального получения, см. [Переход от индивидуального получения к централизованному развертыванию](#switch)
 
 > [!NOTE]
-> Включение централизованного развертывания влияет на функции, использующие надстройку Excel, такие как действие **Изменить в Excel**. Это не влияет на другие связанные с Excel функции и/или разрешения, назначенные пользователям в [!INCLUDE[prod_short](includes/prod_short.md)]\
+> Включение централизованного развертывания влияет на функции, использующие надстройку Excel, такие как действие **Изменить в Excel**. Это не влияет на другие связанные с Excel функции и/или разрешения, назначенные пользователям в [!INCLUDE[prod_short](includes/prod_short.md)]
 
 ### <a name="set-up-centralized-deployment-of-the-add-in"></a>Настроить централизованное развертывание надстройки
 
 Вы будете работать в [!INCLUDE[prod_short](includes/prod_short.md)] и в центре администрирования Microsoft 365.
 
-1. В [!INCLUDE[prod_short](includes/prod_short.md)]\, выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") введите **Централизованное развертывание надстроек Excel**, затем выберите связанную ссылку.
+1. В [!INCLUDE[prod_short](includes/prod_short.md)] выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") введите **Централизованное развертывание надстроек Excel**, затем выберите связанную ссылку.
 2. Прочтите информацию на странице **Настройка надстройки Excel для Business Central** и выберите **Далее**.
 3. Войдите в [Центр администрирования Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2163967) и перейти в **Интегрированные приложения**<!--**Add-ins**-->.
 
@@ -81,7 +81,7 @@ ms.locfileid: "7724616"
     5. Подождите, пока появится зеленая галочка рядом с **Развернуто** для надстройки, затем выберите **Готово**. <!--Select **Deploy** and wait til successful, then **Next** > **Continue**.-->
 
        Надстройка появится на странице **Надстройки**. Дополнительные сведения о развертывании надстроек в центре администрирования Microsoft 365 см. в разделе [Развертывание надстроек в центре администрирования](/microsoft-365/admin/manage/manage-deployment-of-add-in).
-4. Вернитесь к мастеру настройки **Централизованное развертывание надстройки Excel** в [!INCLUDE[prod_short](includes/prod_short.md)]\, и выберите **Далее**.
+4. Вернитесь к мастеру настройки **Централизованное развертывание надстройки Excel** в [!INCLUDE[prod_short](includes/prod_short.md)] и выберите **Далее**.
 5. Включите **Использовать централизованное развертывание**, и выберите **Готово**.
 
     Если вы не включите этот переключатель, [!INCLUDE[prod_short](includes/prod_short.md)] получит надстройку прямо из Магазина Office.
@@ -114,7 +114,7 @@ ms.locfileid: "7724616"
 4. При появлении подсказки войдите в Business Central со своими именем пользователя и паролем.
 5. Необязательно: выберите среду и организацию, к которым вы хотите подключиться.
 
-Надстройка теперь подключена к [!INCLUDE [prod_short](includes/prod_short.md)]\, и вы можете редактировать данные и публиковать изменения в [!INCLUDE [prod_short](includes/prod_short.md)]\. 
+Надстройка теперь подключена к [!INCLUDE [prod_short](includes/prod_short.md)], и вы можете редактировать данные и публиковать изменения в [!INCLUDE [prod_short](includes/prod_short.md)].  
 
 ## <a name="prepare-devices-and-network-for-the-excel-add-in"></a>Подготовьте устройства и сеть для надстройки Excel
 
@@ -127,9 +127,9 @@ ms.locfileid: "7724616"
 |Проблема  |Решение или обходной путь  |Комментарии  |
 |---------|---------|---------|
 |Надстройка не запускается|Убедитесь, что надстройка развернута централизованно. Или проверьте, не заблокирована ли пользователю возможность ее локальной установки. | Администратор может настроить Office так, чтобы пользователи не могли получать надстройки. В таких случаях администратор должен развернуть надстройку централизованно. Для получения дополнительной информации см. [Развертывание надстроек в центре администрирования](/microsoft-365/admin/manage/manage-deployment-of-add-ins?view=o365-worldwide&preserve-view=true).|
-|Данные не загружаются в Excel|Проверьте соединение, открыв другой список в Excel из [!INCLUDE [prod_short](includes/prod_short.md)]\. Или откройте книгу в Excel в браузере.|Если пользователь указал название компании, содержащее специальные символы, надстройка не сможет подключиться. |
-|Данные не могут быть опубликованы обратно в [!INCLUDE [prod_short](includes/prod_short.md)]\.|Проверьте соединение, открыв книгу в Excel в браузере. |Иногда расширение может блокировать публикацию. Если страница развернута или настроена, удалите расширения и повторите попытку.|
-|Даты неправильные  |Excel может отображать время и даты в формате, отличном от [!INCLUDE [prod_short](includes/prod_short.md)]\. Это условие не делает их неправильными, и данные в [!INCLUDE [prod_short](includes/prod_short.md)]\ не будут перепутаны.|         |
+|Данные не загружаются в Excel|Проверьте соединение, открыв другой список в Excel из [!INCLUDE [prod_short](includes/prod_short.md)]. Или откройте книгу в Excel в браузере.|Если пользователь указал название компании, содержащее специальные символы, надстройка не сможет подключиться. |
+|Данные не могут быть опубликованы обратно в [!INCLUDE [prod_short](includes/prod_short.md)].|Проверьте соединение, открыв книгу в Excel в браузере. |Иногда расширение может блокировать публикацию. Если страница развернута или настроена, удалите расширения и повторите попытку.|
+|Даты неправильные  |Excel может отображать время и даты в формате, отличном от [!INCLUDE [prod_short](includes/prod_short.md)]. Это условие не делает их неправильными, и данные в [!INCLUDE [prod_short](includes/prod_short.md)] не будут перепутаны.|         |
 |Для некоторых страниц списков редактирование нескольких строк в Excel постоянно вызывает ошибки. Это состояние может возникнуть, если вызовы OData включают FlowFields и поля вне элемента управления повторителя.|На странице **Веб-службы** установите флажки **Исключить нередактируемые поля FlowFields** и **Исключить поля за пределами повторителя** для опубликованной страницы. Установка этих флажков исключает нередактируемые поля FlowFields и поля из расчета eTag. |Эти флажки по умолчанию скрыты. Чтобы показать их на странице **Веб-службы**, используйте [персонализацию](/dynamics365/business-central/ui-personalization-user). |
 
 
@@ -162,7 +162,7 @@ For [!INCLUDE [prod_short](includes/prod_short.md)] online, the administrator ca
 When the add-in is installed, it shows up as a panel in Excel. Next, you must configure the connection.
 
 > [!TIP]
-> If the workbook is not automatically saved to the user's OneDrive, then recommend them to save all workbooks that they export from [!INCLUDE [prod_short](includes/prod_short.md)]\.When they open the workbook again, the connection is still available, so they do not have to configure the connection again.
+> If the workbook is not automatically saved to the user's OneDrive, then recommend them to save all workbooks that they export from [!INCLUDE [prod_short](includes/prod_short.md)].When they open the workbook again, the connection is still available, so they do not have to configure the connection again.
 
 > [!NOTE]
 > In certain deployments, the administrator must configure network access to unblock the Excel add-in. For more information, see [Preparing Your Network for the Excel Add-In](configuring-network-for-addins.md).-->

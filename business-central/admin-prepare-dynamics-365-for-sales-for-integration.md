@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: sales, crm, integration, integrating
 ms.date: 06/14/2021
 ms.author: bholtorf
-ms.openlocfilehash: afc1b56d2bfb1f94844b7b1e10af8a2522738dab
-ms.sourcegitcommit: 2b34394a855845457bb705178470e2cbfa77141c
+ms.openlocfilehash: 5aa6849ebb591622828eed1cd40f5bd7be58262d
+ms.sourcegitcommit: 641d7018f7ee21345a67651bfa4603e6dd2c4bab
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/19/2021
-ms.locfileid: "7651491"
+ms.lasthandoff: 11/27/2021
+ms.locfileid: "7865725"
 ---
 # <a name="integrating-with-dynamics-365-sales"></a>Интеграция с Dynamics 365 Sales
 [!INCLUDE[prod_short](includes/cc_data_platform_banner.md)]
@@ -26,7 +26,7 @@ ms.locfileid: "7651491"
 > В этом разделе описывается процесс интеграции сетевых версий [!INCLUDE[crm_md](includes/crm_md.md)] и [!INCLUDE[prod_short](includes/prod_short.md)] через [!INCLUDE[prod_short](includes/cds_long_md.md)]. Сведения о локальной конфигурации см. в разделе [Подготовка Dynamics 365 Sales к локальной интеграции](/dynamics365/business-central/dev-itpro/administration/prepare-dynamics-365-for-sales-for-integration).
 
 ## <a name="integrating-through-dataverse"></a>Интеграция через Dataverse
-[!INCLUDE[prod_short](includes/prod_short.md)] также интегрируется с [!INCLUDE[prod_short](includes/cds_long_md.md)], что позволяет легко подключать и синхронизировать данные с другими приложениями Dynamics 365, такими как [!INCLUDE[crm_md](includes/crm_md.md)], или даже с приложениями, которые вы создаете сами. Если вы впервые выполняете интеграцию, мы рекомендуем сделать это через [!INCLUDE[prod_short](includes/cds_long_md.md)]. Дополнительные сведения см. в разделе [Интеграция с Dataverse](admin-common-data-service.md).
+[!INCLUDE[prod_short](includes/prod_short.md)] также интегрируется с [!INCLUDE[prod_short](includes/cds_long_md.md)], что позволяет легко подключать и синхронизировать данные с другими приложениями Dynamics 365, такими как [!INCLUDE[crm_md](includes/crm_md.md)], или даже с приложениями, которые вы создаете сами. Если вы впервые выполняете интеграцию, это следует сделать это через [!INCLUDE[prod_short](includes/cds_long_md.md)]. Дополнительные сведения см. в разделе [Интеграция с Dataverse](admin-common-data-service.md).
 
 Если вы уже интегрировали [!INCLUDE[crm_md](includes/crm_md.md)] с [!INCLUDE[prod_short](includes/prod_short.md)], вы можете продолжить синхронизацию данных, используя ваши настройки. Однако, если вы обновите или выключите интеграцию [!INCLUDE[crm_md](includes/crm_md.md)], чтобы включить его снова, вы должны подключиться через [!INCLUDE[prod_short](includes/cds_long_md.md)]. Дополнительные сведения см. в разделе [Обновление интеграции с Dynamics 365 Sales](admin-upgrade-sales-to-cds.md).
 
@@ -134,7 +134,7 @@ Integration with Business Central through Dataverse requires an administrator us
 
 Следующие шаги описывают шаги для начала сопоставления групп единиц:
 
-1. Убедитесь, что продукты в [!INCLUDE[crm_md](includes/crm_md.md)] не связаны с товарами или ресурсами в [!INCLUDE[prod_short](includes/prod_short.md)]. Если они связаны, перейдите на страницы **Товары** и/или **Ресурсы**, используйте параметры фильтра, чтобы выбрать связанные записи, а затем выберите действие **Dynamics 365 Sales** и выберите **Отменить связывание**. Будет запланировано фоновое задание для разъединения записей. Пока задание выполняется, вы можете проверить его статус, используя действие **Журнал синхронизации**. Дополнительные сведения см. в разделе [Связывание и синхронизация](admin-how-to-couple-and-synchronize-records-manually.md). 
+1. Убедитесь, что продукты в [!INCLUDE[crm_md](includes/crm_md.md)] не связаны с товарами или ресурсами в [!INCLUDE[prod_short](includes/prod_short.md)]. Если они связаны, перейдите на страницы **Продукты** и/или **Ресурсы** и используйте параметры фильтра, чтобы выбрать связанные записи. Затем выберите действие **Dynamics 365 Sales** и выберите **Отменить связывание**. Будет запланировано фоновое задание для разъединения записей. Пока задание выполняется, вы можете проверить его статус, используя действие **Журнал синхронизации**. Дополнительные сведения см. в разделе [Связывание и синхронизация](admin-how-to-couple-and-synchronize-records-manually.md). 
 2. Поскольку что новые продукты будут создаваться в [!INCLUDE[crm_md](includes/crm_md.md)] с новыми группами единиц, чтобы избежать дублирования имен, выполните одно из следующих действий:
     
     * Переименуйте свои продукты, а затем удалите их в [!INCLUDE[crm_md](includes/crm_md.md)]. Для получения дополнительной информации см. [Списание продуктов (Центр продаж)](/dynamics365/sales-enterprise/retire-product). Для массового редактирования ваших продуктов в Microsoft Excel, войдите в Power Apps, выберите среду, перейдите в таблицу **Продукт** и выберите вкладку **Данные**. Удалите все примененные фильтры. В группе **Данные** выберите действие **Редактировать данные в Excel**. Добавьте префикс или суффикс к связанным продуктам, а затем удалите их.

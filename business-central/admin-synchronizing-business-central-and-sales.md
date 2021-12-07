@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: Dataverse, integration, sync, synchronize, mapping
 ms.date: 06/14/2021
 ms.author: bholtorf
-ms.openlocfilehash: 247f1e7b2568cbe323af083ff03349d1afe3de72
-ms.sourcegitcommit: e562b45fda20ff88230e086caa6587913eddae26
+ms.openlocfilehash: 09990c620dbd6bd3e1cd00af594426851a4c1546
+ms.sourcegitcommit: a6000804ad9a176de5750372d3951547ddb71006
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "6325214"
+ms.lasthandoff: 11/25/2021
+ms.locfileid: "7865367"
 ---
 # <a name="synchronizing-data-in-business-central-with-microsoft-dataverse"></a>Синхронизация данных в Business Central с Microsoft Dataverse
 [!INCLUDE[prod_short](includes/cc_data_platform_banner.md)]
@@ -39,6 +39,10 @@ ms.locfileid: "6325214"
 ||Полная синхронизации всех данных для всех сопоставлений таблиц.<br /><br /> Можно синхронизировать все данные в таблицах [!INCLUDE[prod_short](includes/prod_short.md)] и [!INCLUDE[prod_short](includes/cds_long_md.md)], которые сопоставлены, и создать новые записи или строки в целевом решении для несвязанных записей в решении-источнике.<br /><br /> Полная синхронизация будет синхронизировать все данные и игнорировать связывание. Обычно полная синхронизация выполняется при настройке интеграции, и только одно из решений содержит данные. Полная синхронизации также может быть полезна в демонстрационной среде.|[Выполнение полной синхронизации](admin-manual-synchronization-of-table-mappings.md#run-a-full-synchronization)|  
 |Синхронизация по расписанию|Синхронизируйте все изменения данных для всех сопоставлений таблиц.<br /><br /> Можно синхронизировать [!INCLUDE[prod_short](includes/prod_short.md)] с [!INCLUDE[prod_short](includes/cds_long_md.md)] для запланированных интервалов путем настройки заданий в очереди заданий.|[Синхронизация по расписанию](admin-scheduled-synchronization-using-the-synchronization-job-queue-entries.md)|  
 
+> [!NOTE]
+> Синхронизация между [!INCLUDE[prod_short](includes/cds_long_md.md)] и [!INCLUDE[prod_short](includes/prod_short.md)] основана на запланированном выполнении записей очереди заданий и не гарантирует согласованность данных в реальном времени между двумя службами. Для согласованности данных в реальном времени вам следует изучить [Виртуальные таблицы Business Central](/dynamics365/business-central/dev-itpro/powerplatform/powerplat-overview) или API Business Central.   
+
+
 ## <a name="standard-table-mapping-for-synchronization"></a>Сопоставление стандартных таблиц для синхронизации
 Таблицы в [!INCLUDE[prod_short](includes/cds_long_md.md)], например организации, интегрируются с эквивалентными типами таблиц в [!INCLUDE[prod_short](includes/prod_short.md)], например клиенты. Для работы с данными [!INCLUDE[prod_short](includes/cds_long_md.md)] нужно настроить ссылки, называемые связываниями, между таблицами в [!INCLUDE[prod_short](includes/cds_long_md.md)] и [!INCLUDE[prod_short](includes/prod_short.md)].
 
@@ -52,7 +56,7 @@ ms.locfileid: "6325214"
 | Менеджер по продажам/закупкам | Пользователь | [!INCLUDE[prod_short](includes/cds_long_md.md)] -> [!INCLUDE[prod_short](includes/prod_short.md)] | Фильтр контакта [!INCLUDE[prod_short](includes/cds_long_md.md)]: **Состояние** равно **Нет**, **Пользователь лицензирован** — **Да**, режим интеграции пользователя — **Нет** |
 | Клиент | Организация | [!INCLUDE[prod_short](includes/prod_short.md)] -> [!INCLUDE[prod_short](includes/cds_long_md.md)] и [!INCLUDE[prod_short](includes/cds_long_md.md)] -> [!INCLUDE[prod_short](includes/prod_short.md)] | Фильтр по счетам [!INCLUDE[prod_short](includes/cds_long_md.md)]: **тип связи** — **Клиент** и **статус** **Активно**. Фильтр [!INCLUDE[prod_short](includes/prod_short.md)]: **Заблокировано** пустое (Клиент не заблокирован). |
 | Поставщик | Организация | [!INCLUDE[prod_short](includes/prod_short.md)] -> [!INCLUDE[prod_short](includes/cds_long_md.md)] и [!INCLUDE[prod_short](includes/cds_long_md.md)] -> [!INCLUDE[prod_short](includes/prod_short.md)] | Фильтр по счетам [!INCLUDE[prod_short](includes/cds_long_md.md)]: **тип связи** — **Поставщик** и **статус** **Активно**. Фильтр [!INCLUDE[prod_short](includes/prod_short.md)]: **Заблокировано** пустое (Поставщик не заблокирован). |
-| Контакт | Контакт | [!INCLUDE[prod_short](includes/prod_short.md)] -> [!INCLUDE[prod_short](includes/cds_long_md.md)] и [!INCLUDE[prod_short](includes/cds_long_md.md)] -> [!INCLUDE[prod_short](includes/prod_short.md)] | Фильтр по контактам [!INCLUDE[prod_short](includes/prod_short.md)]: **тип** — **Человек** и контакт назначен организации. Фильтр по контактам [!INCLUDE[prod_short](includes/cds_long_md.md)]: контакт назначен организации, родительский тип клиента — **Организация**. |
+| Контакт | Контакт | [!INCLUDE[prod_short](includes/prod_short.md)] -> [!INCLUDE[prod_short](includes/cds_long_md.md)] и [!INCLUDE[prod_short](includes/cds_long_md.md)] -> [!INCLUDE[prod_short](includes/prod_short.md)] | Фильтр по контактам [!INCLUDE[prod_short](includes/prod_short.md)]: **тип** — **Человек** и контакт назначен организации. Фильтр по контактам [!INCLUDE[prod_short](includes/cds_long_md.md)]: контакт назначен организации, родительский тип клиента — **Клиент**. |
 | Валюта | Валюта транзакции | [!INCLUDE[prod_short](includes/prod_short.md)] -> [!INCLUDE[prod_short](includes/cds_long_md.md)] |  |
 
 > [!NOTE]
