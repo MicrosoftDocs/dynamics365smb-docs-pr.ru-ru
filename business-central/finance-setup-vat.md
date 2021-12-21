@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: VAT, posting, tax, value-added tax
 ms.date: 06/16/2021
 ms.author: bholtorf
-ms.openlocfilehash: d0cea6be92becb3d44507687954f59fcdc6d5de3
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: e62a4709b493d44487d189dfd9ec5b76bc6987b8
+ms.sourcegitcommit: 41876b559872fe7adbfa5b59a6e1a71dc907fb15
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6446169"
+ms.lasthandoff: 12/14/2021
+ms.locfileid: "7921024"
 ---
 # <a name="set-up-calculations-and-posting-methods-for-value-added-tax"></a>Настройка методов расчета и учета налога на добавленную стоимость
 
@@ -31,7 +31,10 @@ ms.locfileid: "6446169"
 > [!NOTE]  
 > Руководство можно использовать, только если вы создали организацию "Моя организация" и не имеете учтенных транзакций, включающих НДС. В противном случае очень легко использовать неверные ставки НДС по ошибке, что приведет к неточностям в отчетах, связанных с НДС.  
 
-Если вы хотите настроить расчеты НДС самостоятельно или желаете лишь ознакомиться с каждым шагом, в этом разделе приводится описание каждого шага.
+Если вы хотите настроить расчеты НДС самостоятельно или желаете лишь ознакомиться с каждым шагом, в этом разделе приводится описание каждого шага.  
+
+> [!TIP]
+> [!INCLUDE [prod_short](includes/prod_short.md)] доступно в странах, в которых не применяется НДС. Для получения информации о том, как настроить и сообщить о налогах в вашей конкретной стране, см. статьи в разделе [Локальная функциональность в Business Central](about-localization.md).  
 
 ## <a name="to-use-the-vat-setup-assisted-setup-guide-to-set-up-vat-recommended"></a>Использование руководства по сопровождаемой настройке "Настройка НДС" для настройки НДС (рекомендуется)
 

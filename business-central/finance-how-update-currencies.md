@@ -7,12 +7,12 @@ ms.topic: conceptual
 ms.search.keywords: multiple currencies, adjust exchange rates, FX rates
 ms.date: 07/23/2021
 ms.author: edupont
-ms.openlocfilehash: c4072e0371499982fc86d6c16b4d614552bc4533
-ms.sourcegitcommit: e904da8dc45e41cdd1434111c15e2a9d9edd3fa2
+ms.openlocfilehash: 44dd13f986098283d29e58d3e8c4ce0218b4a083
+ms.sourcegitcommit: 41876b559872fe7adbfa5b59a6e1a71dc907fb15
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "6660185"
+ms.lasthandoff: 12/14/2021
+ms.locfileid: "7921062"
 ---
 # <a name="update-currency-exchange-rates"></a>Обновление валютных курсов
 
@@ -174,7 +174,10 @@ ms.locfileid: "6660185"
 > [!Video https://www.microsoft.com/videoplayer/embed/RE3Q24s?rel=0]
 
 ## <a name="to-set-up-a-currency-exchange-rate-service"></a>Настройка служб валютных курсов
-Для обновления валютных курсов можно использовать внешнюю службу, например FloatRates.
+Для обновления валютных курсов можно использовать внешнюю службу, например FloatRates. 
+
+> [!NOTE]
+> Большинство служб валютных курсов предоставляют данные, совместимые с процессом импорта в [!INCLUDE[prod_short](includes/prod_short.md)]. Однако иногда данные форматируются по-другому, и вам нужно будет настроить процесс импорта. Для этого вы можете использовать платформу обмена данными, добавив свой собственный codeunit. Для этого вам, вероятно, понадобится помощь разработчика. Дополнительные сведения см. в разделе [Настройка определений обмена данными](across-how-to-set-up-data-exchange-definitions.md).
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Службы валютных курсов**, а затем выберите соответствующую связь.
 2. Выберите действие **Создать**.

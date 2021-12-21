@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 06/16/2021
+ms.date: 12/02/2021
 ms.author: edupont
-ms.openlocfilehash: 2d5f6a7b39ccc5c77ee68d7a62e33bd166551095
-ms.sourcegitcommit: 400554d3a8aa83d442f134c55da49e2e67168308
+ms.openlocfilehash: f1000be46bebe766e8f3dd060f44b98a775c1356
+ms.sourcegitcommit: 4223484b0eeceb0258dae5abfd04e1a9a4a0990d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/27/2021
-ms.locfileid: "7701569"
+ms.lasthandoff: 12/03/2021
+ms.locfileid: "7889840"
 ---
 # <a name="create-prepayment-invoices"></a>Создание счетов на предоплату
 
@@ -47,6 +47,9 @@ ms.locfileid: "7701569"
 
     Если вы указали процент предоплаты по умолчанию для клиента или на экспресс-вкладке **Предоплата** для этого документа, это значение копируется в каждую строку. Можно изменить содержимое поля **Предоплата (%)** в строке.  
 
+    > [!TIP]
+    > Если вы не видите поле **Предоплата %**, вы можете добавить его с помощью персонализации.  Дополнительные сведения см. в разделе [Персонализация рабочей области](ui-personalization-user.md).
+
 4. Для просмотра общей суммы предоплаты выберите действие **Статистика**.
 
     Если необходимо скорректировать сумму предоплаты для данного заказа, можно изменить содержимое поля **Сумма предоплаты** на странице **Статистика заказов на продажу**.  
@@ -72,7 +75,8 @@ ms.locfileid: "7701569"
 [Выставление счетов на предоплату](finance-invoice-prepayments.md)  
 [Пошаговое руководство. Настройка и выставление счетов на продажу](walkthrough-setting-up-and-invoicing-sales-prepayments.md)  
 [Финансы](finance.md)  
-[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
+[Персонализация рабочей области](ui-personalization-user.md)  
 
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]
