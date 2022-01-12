@@ -1,5 +1,5 @@
 ---
-title: Создание карточки поставщика для регистрации нового поставщика
+title: Создание карточки поставщика для регистрации нового поставщика (содержит видео)
 description: В этом разделе вы узнаете, как создать карточку поставщика, чтобы зарегистрировать нового поставщика и сохранить карточки поставщиков в качестве шаблона.
 author: SorenGP
 ms.service: dynamics365-business-central
@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: supplier
 ms.date: 09/29/2021
 ms.author: edupont
-ms.openlocfilehash: 662239446426cf64ac20d766e21aee55b92f9809
-ms.sourcegitcommit: 6ad0a834fc225cc27dfdbee4a83cf06bbbcbc1c9
+ms.openlocfilehash: 85842f5883b17d7386f65367efec4aa6dfea2b11
+ms.sourcegitcommit: 4c97f38fc53c1c1ec534054a4a100d8cfb73175b
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2021
-ms.locfileid: "7587688"
+ms.lasthandoff: 12/20/2021
+ms.locfileid: "7939905"
 ---
 # <a name="register-new-vendors"></a>Регистрация новых поставщиков
 

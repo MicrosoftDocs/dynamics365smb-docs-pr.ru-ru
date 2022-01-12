@@ -1,5 +1,5 @@
 ---
-title: Настройка банковских счетов
+title: Настройка банковских счетов (содержит видео)
 description: Узнайте, как банковские счета используются в Business Central и как вы можете провести выверку сумм с вашим банком.
 author: bholtorf
 ms.service: dynamics365-business-central
@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: Yodlee, feed, stream
 ms.date: 06/22/2021
 ms.author: edupont
-ms.openlocfilehash: 00e83bbf8c98a10e5a86f0341794bc125e8609c9
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: f7984f5bf96208582be5a25a817cabb77589fe99
+ms.sourcegitcommit: 4c97f38fc53c1c1ec534054a4a100d8cfb73175b
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6442879"
+ms.lasthandoff: 12/20/2021
+ms.locfileid: "7940605"
 ---
 # <a name="set-up-bank-accounts"></a>Настройка банковских счетов
 

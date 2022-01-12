@@ -1,5 +1,5 @@
 ---
-title: Работа бухгалтера в Business Central
+title: Работа бухгалтера в Business Central (содержит видео)
 description: Узнайте о ролевом центре бухгалтера и разделе организации, которые поддерживают работу внутренних и внешних бухгалтеров в организации клиента.
 author: edupont04
 ms.service: dynamics365-business-central
@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: accountant, accounting, financial report
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 8e988e0b23f29f4b9969a9682eac2e2e91a30fcc
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: c2c92e72f20c26fe1505834e70d58981093c24b8
+ms.sourcegitcommit: 4c97f38fc53c1c1ec534054a4a100d8cfb73175b
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6442804"
+ms.lasthandoff: 12/20/2021
+ms.locfileid: "7940230"
 ---
 # <a name="accountant-experiences-in-prod_long"></a>Работа бухгалтера в [!INCLUDE[prod_long](includes/prod_long.md)]
 

@@ -1,5 +1,5 @@
 ---
-title: Назначение уровня приоритета поставщику | Документация Майкрософт
+title: Назначение уровня приоритета поставщику (содержит видео) | Документация Майкрософт
 description: Вы можете назначать номера поставщика для их приоритизации и поддержки функции предложений платежей в Business Central.
 services: project-madeira
 documentationcenter: ''
@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: supplier, payment priority
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: d83fe736298e4cae3b6b86a495e0567057df2cc5
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 7e68c56422f4f3de33006297ec396fdd34169e8d
+ms.sourcegitcommit: 4c97f38fc53c1c1ec534054a4a100d8cfb73175b
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6443298"
+ms.lasthandoff: 12/20/2021
+ms.locfileid: "7940055"
 ---
 # <a name="prioritize-vendors"></a>Назначение приоритетов поставщикам
 В [!INCLUDE[prod_short](includes/prod_short.md)] предлагаются различные виды оплат поставщикам, например оплаты, которые должны быть произведены быстро, или оплаты, для которых возможны скидки. Дополнительные сведения см. в разделе [Предложение оплаты поставщикам](payables-how-suggest-vendor-payments.md).

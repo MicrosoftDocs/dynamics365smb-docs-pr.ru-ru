@@ -1,5 +1,5 @@
 ---
-title: Настройка менеджеров по закупкам и их назначение поставщика | Документация Майкрософт
+title: Настройка менеджеров по закупкам и их назначение поставщика (содержит видео) | Документация Майкрософт
 description: Если несколько менеджеров по закупкам или агентов по закупкам работают в организации, можно систематизировать их в целях проведения статистического анализа.
 services: project-madeira
 documentationcenter: ''
@@ -12,12 +12,12 @@ ms.workload: na
 ms.search.keywords: purchasing agent
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 452a5fab73d60bea127d19a42c1730fcbd24b06c
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: cdfb1198234a0bfcbbc74e7816568f2f06b21b10
+ms.sourcegitcommit: 4c97f38fc53c1c1ec534054a4a100d8cfb73175b
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6435139"
+ms.lasthandoff: 12/20/2021
+ms.locfileid: "7940180"
 ---
 # <a name="set-up-purchasers"></a>Настройка менеджеров по закупкам
 Если несколько менеджеров работают в родственной организации, то можно выбрать их на странице и присвоить им код. Затем можно использовать данные коды для подготовки статистики и для фильтрации информации в печатаемых отчетах.<br><br>  

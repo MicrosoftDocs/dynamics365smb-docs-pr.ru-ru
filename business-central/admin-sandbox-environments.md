@@ -9,18 +9,21 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: sandbox, demo, develop
-ms.date: 07/27/2021
+ms.date: 12/20/2021
 ms.author: solsen
-ms.openlocfilehash: db390d1f4ee690b9e461bfccd77155ec0b66a2b6
-ms.sourcegitcommit: 6ad0a834fc225cc27dfdbee4a83cf06bbbcbc1c9
+ms.openlocfilehash: d82497d8df7ccc414a1a71b23a277e7105903f5c
+ms.sourcegitcommit: 4c97f38fc53c1c1ec534054a4a100d8cfb73175b
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2021
-ms.locfileid: "7589487"
+ms.lasthandoff: 12/20/2021
+ms.locfileid: "7940630"
 ---
 # <a name="sandbox-environments-in-prod_short"></a>Среды-песочницы в [!INCLUDE[prod_short](includes/prod_short.md)]
 
 В [!INCLUDE[prod_short](includes/prod_short.md)] Online вы можете легко получить безопасную среду, в которой тестировать, обучать или устранять неполадки, не нарушая рабочие процессы вашей компании или бизнес-данные. Такая непроизводственная среда называется *песочницей*. В среде песочницы, изолированной от производственной среды, можно безопасно исследовать, обучать, демонстрировать, разрабатывать и тестировать сервисы без риска повлиять на данные или настройки производственной среды.  
+
+> [!TIP]
+> Вы открыли эту статью после того, как выбрали название своей среды [!INCLUDE [prod_short](includes/prod_short.md)] в верхней панели? В настоящее время вы не можете изменить имя или среду таким образом. Вместо этого вы должны попросить своего администратора изменить имя или попросить его поделиться ссылкой на другую среду.
 
 Ваш администратор управляет средами-песочницами в [центре администрирования](/dynamics365/business-central/dev-itpro/administration/tenant-admin-center-environments?toc=/dynamics365/business-central/toc.json).  
 

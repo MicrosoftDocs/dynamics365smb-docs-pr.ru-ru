@@ -1,5 +1,5 @@
 ---
-title: Обнаружение функций и информации | Документация Майкрософт
+title: Поиск функций и информации (содержит видео) | Документация Майкрософт
 description: В этом разделе описывается, как использовать поиск для поиска действий, страниц, отчетов, документации и данных, а также других приложений и консультативных служб.
 author: bholtorf
 ms.service: dynamics365-business-central
@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: find
 ms.date: 04/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: 2df1a204ef2ab3063293274748e5e777d03be4d1
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 1e44edeee82214c1d19489da351b3001bfa4fc3e
+ms.sourcegitcommit: 4c97f38fc53c1c1ec534054a4a100d8cfb73175b
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6440006"
+ms.lasthandoff: 12/20/2021
+ms.locfileid: "7940130"
 ---
 # <a name="finding-pages-and-information-with-tell-me"></a>Поиск страниц и информации с помощью функции "Что вы хотите сделать"  
 В этом разделе описывается, как функция "Что вы хотите сделать" может помочь быстро перейти к таким вещам, как действия, страницы или отчеты, искать информацию о том, как выполнить определенную задачу, и найти дополнительные приложения и консультативные услуги для [!INCLUDE[prod_short](includes/prod_short.md)].  

@@ -8,15 +8,15 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: cash flow, money flow, expense and income, liquidity, cash receipts minus cash payments
-ms.date: 06/08/2021
+ms.date: 12/20/2021
 ms.author: edupont
 ms.reviewer: edupont
-ms.openlocfilehash: 1c506e8d2471e7112b523b05d80e47d6f1700a64
-ms.sourcegitcommit: 428ba6385cb27475e8803c2a8967daa22cfe8879
+ms.openlocfilehash: c7b75e75d86d18f686b89576ee9560b9246b3eee
+ms.sourcegitcommit: 4c97f38fc53c1c1ec534054a4a100d8cfb73175b
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/29/2021
-ms.locfileid: "7724816"
+ms.lasthandoff: 12/20/2021
+ms.locfileid: "7940205"
 ---
 # <a name="cash-flow-overview"></a>Обзор движения денежных средств
 
@@ -26,7 +26,7 @@ ms.locfileid: "7724816"
 
 Термин *движение денежных средств* используется для обозначения кассовых поступления за вычетом платежей наличными за выбранный период. Это оценка суммы, которая, как предполагается, будет поступать в ваш бизнес и уходить из него, и она содержит перечень всех прогнозов доходов и расходов.
 
-## <a name="cash-flow-overview"></a>Обзор движения денежных средств
+## <a name="work-with-cash-flow"></a>Работа с движением денежных средств
 
 На следующей иллюстрации представлен обзор работы с движением денежных средств.
 
@@ -74,7 +74,10 @@ ms.locfileid: "7724816"
 После этого можно использовать прогноз как инструмент принятия решений для внутреннего управления, который упрощает планирование и принятие важных стратегических решений по коммерческим операциям.
 
 ## <a name="see-also"></a>См. также
+
 [Настройка анализа движения денежных средств](finance-setup-cash-flow-analyses.md)  
-[Анализ движения денежных средств](finance-analyze-cash-flow.md)
+[Анализ движения денежных средств](finance-analyze-cash-flow.md)  
+[Прогноз движения денежных средств в Dynamics 365 Business Central (Microsoft Learn)](/learn/modules/forecast-cash-flow-dynamics-365-business-central/index)  
+[Настройка прогнозов движения денежных средств с помощью ИИ Azure в Dynamics 365 Business Central (Microsoft Learn)](/learn/modules/setup-cash-flow-forecasts/)  
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]
