@@ -1,24 +1,24 @@
 ---
-title: Обзор отчетов по предварительному закрытию для проверки правильности учета | Документация Майкрософт
+title: Обзор отчетов по предварительному закрытию для проверки правильности учета
 description: Содержит обзор отчетов, которые можно использовать для проверки правильности учета перед закрытием книг в конце года или периода.
-services: project-madeira
-documentationcenter: ''
 author: jswymer
 ms.service: dynamics365-business-central
-ms.topic: conceptual
+ms.topic: overview
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
+ms.search.form: 1393, 1394
 ms.date: 04/01/2021
 ms.author: jswymer
-ms.openlocfilehash: 96fe7c7c1f955d3c489429bf3ee64f9f3f925de7
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 877f2ed9ba278ccafb26266d85165b8cfc5589d3
+ms.sourcegitcommit: 8464b37c4f1e5819aed81d9cfdc382fc3d0762fc
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6439238"
+ms.lasthandoff: 01/19/2022
+ms.locfileid: "8012664"
 ---
 # <a name="using-pre-closing-reports"></a>Использование отчетов по предварительному закрытию
+
 Существует множество стандартных отчетов, которые можно использовать для проверки правильности счетов перед закрытием книг в конце года или периода. Например, можно использовать отчет **Клиент - пробный баланс** для проверки соответствия сальдо для учетной группы клиентов сальдо соответствующего счета главной книги на определенную дату.
 
 В следующей таблице приведены отчеты, которые могут быть полезны в ходе этого процесса.
@@ -38,6 +38,7 @@ ms.locfileid: "6439238"
 Для просмотра отчета выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") и введите имя, которое отображается в таблице, а затем выберите связанную ссылку.
 
 ## <a name="see-also"></a>См. также
+
 [Закрытие года и периодов](year-close-years-periods.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
 

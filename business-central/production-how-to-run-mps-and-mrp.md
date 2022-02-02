@@ -1,5 +1,5 @@
 ---
-title: Как выполнять полное планирование, MPS и MRP
+title: Выполнение полного планирования, MPS или MRP
 description: Система планирования может рассчитать Сводный план-график (MPS) или План потребностей в материалах (MRP) (по запросу), либо оба плана одновременно.
 author: SorenGP
 ms.service: dynamics365-business-central
@@ -7,17 +7,18 @@ ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: ''
+ms.search.form: 99000852, 99000860
 ms.date: 06/22/2021
 ms.author: edupont
-ms.openlocfilehash: 73b40d3174497c05446d5b6ae6465f23a420f308
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: c3994dfa33e75379b2dcbc19c0f40e0262e032b2
+ms.sourcegitcommit: 2ab6709741be16ca8029e2afadf19d28cf00fbc7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6440332"
+ms.lasthandoff: 01/14/2022
+ms.locfileid: "7971305"
 ---
 # <a name="run-full-planning-mps-or-mrp"></a>Выполнение полного планирования, MPS или MRP
+
 Термины «запуск журнала планирования» или «выполнение MRP» относятся к расчету сводного производственного плана и потребностей в материалах на основании фактического и прогнозируемого спроса. Система планирования может рассчитать Сводный план-график (MPS) или План потребностей в материалах (MRP) (по запросу), либо оба плана одновременно.  
 
 -   MPS — это расчет основного плана производства на основании фактического требования и прогноза спроса. Вычисление MPS используется для товаров со строкой прогноза или заказа на продажу. Эти товары называются "товары MPS" и определяются динамически после запуска расчета.  

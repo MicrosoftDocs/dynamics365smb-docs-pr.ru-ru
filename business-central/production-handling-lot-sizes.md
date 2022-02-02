@@ -1,5 +1,5 @@
 ---
-title: Обработка размеров партий | Документация Microsoft
+title: Работа с размерами партий
 description: В этом разделе описываются различные способы обработки размеров лотов.
 author: bholtorf
 ms.service: dynamics365-business-central
@@ -7,15 +7,15 @@ ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: ''
+ms.search.form: ''
 ms.date: 04/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: ef3863a372db074d4be3a7e9b72cfda5f47279d1
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 05e592d1f4ecd281b71ab4f182c5c535faa611a1
+ms.sourcegitcommit: 2ab6709741be16ca8029e2afadf19d28cf00fbc7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5779386"
+ms.lasthandoff: 01/14/2022
+ms.locfileid: "7973918"
 ---
 # <a name="handling-lot-sizes-in-production"></a>Обработка размеров партий в производстве
 С точки зрения количества, количество номенклатур, которые вы производите в производственной операции, может не коррелировать с тем, как они продаются. Например, вы можете производить сотни номенклатур одной партией, но продавать каждую номенклатуру отдельно. При настройке производственных маршрутов и спецификаций (BOM) необходимо учитывать несколько нюансов в отношении размеров партий. В этом разделе описывается, как размеры партий влияют на расчет затрат и планирование ресурсов.

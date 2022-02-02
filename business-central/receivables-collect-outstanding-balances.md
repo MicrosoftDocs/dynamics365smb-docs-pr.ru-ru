@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: payment due, debt, overdue, fee, charge, reminder
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: f2c12e89ced755a220cabf2d4b5712741deab7aa
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 2c3e4bc2b75133b0a46d3d5746841d6caf76589c
+ms.sourcegitcommit: 2ab6709741be16ca8029e2afadf19d28cf00fbc7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6439414"
+ms.lasthandoff: 01/14/2022
+ms.locfileid: "7971656"
 ---
 # <a name="collect-outstanding-balances"></a>Сбор непогашенных остатков задолженности
 
@@ -186,7 +186,7 @@ ms.locfileid: "6439414"
 
 ## <a name="multiple-interest-rates"></a>Сложные процентные ставки
 
-При настройки условий финансовых ставок и условий напоминания для штрафов за задержанный платеж можно определить несколько процентных ставок, чтобы начисленные пени вычислялись с разными процентными ставками за различные периоды. Если несколько процентных ставок не настроены, то будет использована процентная ставка и период, которые определены на страницах **Процентные ставки** и **Условия напоминания** за весь период расчета. Дополнительные сведения см. в разделе [Настройка нескольких процентных ставок](finance-how-to-set-up-multiple-interest-rates.md).  
+[!INCLUDE [multiple-interest-rates-def](includes/multiple-interest-rates-def.md)] Дополнительные сведения см. в разделе [Настройка нескольких процентных ставок](finance-how-to-set-up-multiple-interest-rates.md).  
 
 ## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/process-financial-periodic-activities-dynamics-365-business-central/)
 

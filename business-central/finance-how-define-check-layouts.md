@@ -8,21 +8,24 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: print check, customize
+ms.search.form: 374, 404
 ms.date: 06/16/2021
 ms.author: edupont
-ms.openlocfilehash: 6d083e3eea85fde087a431d21bb9eae8bb4b8c5e
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 4278cb474440e8746bcc423c3dd10dbc209fdb9a
+ms.sourcegitcommit: 2ab6709741be16ca8029e2afadf19d28cf00fbc7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6444641"
+ms.lasthandoff: 01/14/2022
+ms.locfileid: "7971669"
 ---
 # <a name="select-a-check-layout"></a>Выбор макета платежного документа
+
 Вы можете разработать платежные документы в соответствии со стандартами, установленными местными органами власти. Изображения платежных документов можно печатать на английском, французском или испанском языке.
 
 Платежные документы разрабатываются для печати в форматах изображений платежных документов США и Канады в формате "платежный документ-бланк-платежный документ" или "бланк-бланк-платежный документ".
 
 ## <a name="to-select-a-check-layout"></a>Чтобы выбрать макет платежного документа
+
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Выбор отчета - банковский счет**, а затем выберите связанную ссылку.
 2. На странице **Выбор отчета - банковский счет** в поле **Использование** выберите **Платежный документ**.
 3. Выберите один из следующих кодов отчетов.
@@ -39,6 +42,7 @@ ms.locfileid: "6444641"
 Чтобы изменить один из этих макетов платежного документа по умолчанию, выберите Word, либо интеграцию RDLC. Дополнительные сведения см. в разделе [Создание и изменение пользовательских макетов отчетов](ui-how-create-custom-report-layout.md).
 
 ## <a name="using-micr-and-security-fonts"></a>Использование шрифтов безопасности и MICR
+
 Онлайн-версия [!INCLUDE[prod_short](includes/prod_short.md)] содержит предварительно установленные шрифты на серверах, которые можно использовать при определении макетов чеков. Ниже описывается, какие шрифты доступны, и приведены ссылки на подробную информацию сторонних поставщиков шрифтов.
 
 > [!Important]
@@ -50,33 +54,38 @@ ms.locfileid: "6444641"
 > В целях безопасности и по юридическим причинам вы не можете загружать пользовательские шрифты в среду [!INCLUDE[prod_short](includes/prod_short.md)].
 
 ### <a name="micr-e-13b-specifications"></a>Спецификации MICR E-13B
+
 Ниже приведено краткое описание спецификаций для шрифтов MICR E-13B, которые могут быть полезны при калибровке шрифтов в макетах чеков с определенными принтерами MICR.
 
 ![Спецификации MICR E-13B.](media/font_MICR_E-13B_Specifications.png "Спецификации MICR E-13B")
 
 ### <a name="delimiter-characters"></a>Символы-разделители
+
 ![Символы-разделители.](media/font-micr-letters.png "Символы-разделители")
 
 Полную спецификацию шрифтов MICR E-13B можно найти в документации поставщика здесь: ( https://www.idautomation.com/micr-fonts/e13b/).
 
 ### <a name="micr-cmc-7-specifications"></a>Спецификации MICR CMC-7
+
 Следующие шрифты CMC-7 доступны в [!INCLUDE[prod_short](includes/prod_short.md)] online:
 
 - IDAutomationCMC7
 - IDAutomationCMC7n10
 - IDAutomationCMC7n25
--   IDAutomationCMC7n40
+- IDAutomationCMC7n40
 
 Ниже приведено краткое описание спецификаций для шрифтов MICR CMC-7 которые могут быть полезны при калибровке шрифтов в макетах чеков с определенными принтерами MICR.
 
 ![Спецификации MICR CMC-7.](media/font_MICR_CMC-7_Specifications.png "Спецификации MICR CMC-7")
 
 ### <a name="delimiter-characters"></a>Символы-разделители
+
 ![Символы-разделители для CMC-7.](media/font-cmc7-letters.png "Символы-разделители для CMC-7")
 
 Полную спецификацию шрифтов MICR CMC-7 можно найти в документации поставщика здесь: ( http://www.idautomation.com/micr-fonts/cmc7/).
 
 ### <a name="secure-font-specifications"></a>Спецификации безопасных шрифтов
+
 Ниже приведено краткое описание спецификаций шрифтов безопасности чеков, которые могут быть полезны при калибровке шрифтов в макетах чеков с определенными принтерами MICR.
 
 ![Спецификации шрифтов безопасности чеков.](media/font_check-security-font_Specifications.png "Спецификации шрифтов безопасности чеков")
@@ -86,6 +95,7 @@ ms.locfileid: "6444641"
 Шрифты для других целей также доступны в [!INCLUDE[prod_short](includes/prod_short.md)]. Для получения дополнительной информации см. [Доступные шрифты](ui-fonts.md)
 
 ## <a name="see-also"></a>См. также
+
 [Создание и изменение пользовательских макетов отчетов](ui-how-create-custom-report-layout.md)  
 [Шрифты в Business Central](ui-fonts.md)  
 [Управление кредиторской задолженностью](payables-manage-payables.md)  

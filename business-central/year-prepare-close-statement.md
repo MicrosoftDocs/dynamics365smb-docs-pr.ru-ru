@@ -3,19 +3,19 @@ title: Обзор отчетов, помогающих готовить отче
 description: Содержит обзор отчетов, которые можно использовать для сбора информации для подготовки отчетов о закрытии при закрытии финансового года организацией.
 author: jswymer
 ms.service: dynamics365-business-central
-ms.topic: conceptual
+ms.topic: overview
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: year closing, close accounting period, close fiscal year, aging, creditor payments, vendor payments, assets, liabilities, equity, analysis, reporting, financial report, business intelligence, BI, Power Bi, KPI
 ms.date: 04/01/2021
 ms.author: jswymer
-ms.openlocfilehash: dadfa25189aa44c032dd03aee053be39d87bc4d2
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: c1ba1ecc8716586e661b8553f12319a87b4cb85c
+ms.sourcegitcommit: 8464b37c4f1e5819aed81d9cfdc382fc3d0762fc
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6435913"
+ms.lasthandoff: 01/19/2022
+ms.locfileid: "8011523"
 ---
 # <a name="preparing-closing-statements"></a>Подготовка отчетов о закрытии
 Существует несколько стандартных отчетов, которые можно использовать для сбора сведений, необходимых организации для подготовки отчетов о закрытии периодов.

@@ -1,7 +1,6 @@
 ---
-title: Настройка взаимодействия с пользователем для отображения или скрытия расширенных функций | Документация Майкрософт
+title: Изменение отображаемых функций
 description: Узнайте о вариантах настройки Essential и Premium — что это значит с точки зрения пользовательского интерфейса, областей приложения и вашей организации.
-documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: conceptual
@@ -9,14 +8,15 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: essential, basic, user interface, application area, experience
+ms.search.form: 1
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: d56c8d6be69e12ced2dc83b884650360e95c0ab2
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: b7b27d39997e0adccc6b27ec91386741620d27b8
+ms.sourcegitcommit: 66c78f6f04bfca6c0794b3299241ed65037b1c08
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6443622"
+ms.lasthandoff: 01/26/2022
+ms.locfileid: "8029118"
 ---
 # <a name="change-which-features-are-displayed"></a>Изменение набора отображаемых функций
 [!INCLUDE[prod_short](includes/prod_short.md)] разработан, чтобы помочь вам вести свой бизнес независимо от размера и сложности. В основе продукта вы найдете такие важные функции, как финансовая отчетность, продажи, закупки и управление запасами. По мере увеличения сложности бизнеса вы можете, например, включить функциональность для управления производством и обслуживанием.
@@ -40,10 +40,10 @@ ms.locfileid: "6443622"
 Параметр **Функциональность** применяется ко всем пользователям в компании, но каждый пользователь может дополнительно персонализировать свой собственный опыт, изменяя макеты страниц и контент. Дополнительные сведения см. в разделе [Персонализация рабочей области](ui-personalization-user.md).
 
 ## <a name="enabling-premium-features-after-upgrading-a-plan"></a>Включение функций Premium после перехода на план Premium
-Пользователи назначаются планам в Центре администрирования Microsoft 365 в ходе общей работы по созданию пользователей Business Central. Дополнительные сведения см. в разделе [Одновременное добавление пользователей и назначение лицензий](/microsoft-365/admin/add-users/add-users?view=o365-worldwide&preserve-view=true).
+Пользователи назначаются планам в центре администрирования Microsoft 365 в ходе общей работы по созданию пользователей Business Central. Дополнительные сведения см. в разделе [Одновременное добавление пользователей и назначение лицензий](/microsoft-365/admin/add-users/add-users?view=o365-worldwide&preserve-view=true).
 
 ### <a name="to-update-plan-changes-in-users-groups"></a>Обновление в соответствии с изменением плана в группах пользователей
-После внесения изменения в планы пользователей в Центре администрирования Microsoft 365, например назначения дополнительных пользователей плану Premium, это изменение необходимо отразить в [!INCLUDE[prod_short](includes/prod_short.md)].
+После внесения изменения в планы пользователей в центре администрирования Microsoft 365, например назначения дополнительных пользователей плану Премиум, это изменение необходимо отразить в [!INCLUDE[prod_short](includes/prod_short.md)].
 
 1. Войдите в систему в качестве администратора.
 2. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Пользователи**, а затем выберите связанную ссылку.

@@ -1,21 +1,23 @@
 ---
-title: Рабочие задания с использованием ресурсов и табелей учета рабочего времени
+title: Управление проектами
 description: В этом разделе рассказывается, как использовать ресурсы, табели учета рабочего времени и работы для управления проектами и их бюджетами.
 author: edupont04
 ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.workload: na
 ms.search.keywords: projects
+ms.search.form: 89, 289, 290, 376, 462, 463, 1029, 8904, 9014, 9015
 ms.date: 06/22/2021
 ms.author: edupont
-ms.openlocfilehash: bbb0fbf1500daa284ac99e03d01e8c9a64e417bf
-ms.sourcegitcommit: e562b45fda20ff88230e086caa6587913eddae26
+ms.openlocfilehash: 8f08b42af793772c98c0671cdf44934638fb8db7
+ms.sourcegitcommit: 2ab6709741be16ca8029e2afadf19d28cf00fbc7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "6321093"
+ms.lasthandoff: 01/14/2022
+ms.locfileid: "7972152"
 ---
 # <a name="project-management"></a>Управление проектами
+
 В [!INCLUDE[prod_short](includes/prod_short.md)] можно выполнять общие задачи управления проектом, такие как настройка работы и планирование ресурсов, а также предоставление информации, необходимой для управления бюджетами и мониторинга хода выполнения работ. С помощью табелей можно отслеживать количество часов работы машин и сотрудников. Как менеджер проекта, вы имеете хороший обзор не только по отдельным работам, но и по распределению сотрудников, механизмов и других ресурсов, используемых во всех проектах.
 
 Прежде чем использовать [!INCLUDE[prod_short](includes/prod_short.md)] для управления проектами, необходимо настроить ресурсы, табели и работы. Дополнительные сведения см. в разделе [Настройка управления проектами](projects-setup-projects.md).  

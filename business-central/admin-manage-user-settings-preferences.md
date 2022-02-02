@@ -9,14 +9,15 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.reviewer: edupont
 ms.search.keywords: user settings, preferences, language, region, time zone, regional settings
+ms.search.form: 9204
 ms.date: 04/01/2021
 ms.author: soalex
-ms.openlocfilehash: fff79b56d6846547230788b6caa831e7bf3a11d7
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: b3b4c857f006970fa3973a1203a7ddd8cffc2298
+ms.sourcegitcommit: 8464b37c4f1e5819aed81d9cfdc382fc3d0762fc
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6438956"
+ms.lasthandoff: 01/19/2022
+ms.locfileid: "8011761"
 ---
 # <a name="manage-user-settings-and-preferences"></a>Управление пользовательскими параметрами и настройками
 
@@ -43,7 +44,7 @@ ms.locfileid: "6438956"
 
 - **Язык**  
 
-  Определяет язык приложения, который представляет текст, метки и сообщения об ошибках в [!INCLUDE[prod_short](includes/prod_short.md)]. Если пользователи [!INCLUDE[prod_short](includes/prod_short.md)] синхронизируются с Microsoft 365, используются настройки языка из Microsoft 365, предполагается, что пользователь хочет использовать те же настройки в продуктах Office и [!INCLUDE[prod_short](includes/prod_short.md)]. Администратор может изменить настройку по умолчанию, и каждый пользователь может выбрать один из доступных языков на странице "Мои настройки". Но они будут сброшены на значение из Microsoft 365 после выполнения следующей синхронизации.
+  Определяет язык приложения, который представляет текст, метки и сообщения об ошибках в [!INCLUDE[prod_short](includes/prod_short.md)]. Если пользователи [!INCLUDE[prod_short](includes/prod_short.md)] синхронизируются с Microsoft 365, используются языковые параметры из Microsoft 365, предполагается, что пользователь хочет использовать те же настройки в продуктах Office и [!INCLUDE[prod_short](includes/prod_short.md)]. Администратор может изменить настройку по умолчанию, и каждый пользователь может выбрать один из доступных языков на странице "Мои настройки". Но они будут сброшены на значение из Microsoft 365 после выполнения следующей синхронизации.
 
   Если языковой параметр из Microsoft 365 соответствует поддерживаемому языку в [!INCLUDE[prod_short](includes/prod_short.md)], этот язык будет выбран для пользователя.  
 

@@ -7,17 +7,18 @@ ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: ''
+ms.search.form: 7315, 7349, 7351, 7382, 7384, 7386, 7387, 7399, 7400, 9314, 9330, 9345
 ms.date: 06/25/2021
 ms.author: edupont
-ms.openlocfilehash: 7c81a363fa76de82b79ea6afc589c7984d87ef6b
-ms.sourcegitcommit: e562b45fda20ff88230e086caa6587913eddae26
+ms.openlocfilehash: 5712722f58523d372feb10710013fdbf53a464b2
+ms.sourcegitcommit: 2ab6709741be16ca8029e2afadf19d28cf00fbc7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "6324793"
+ms.lasthandoff: 01/14/2022
+ms.locfileid: "7971253"
 ---
 # <a name="moving-items"></a>Перемещение товаров
+
 Складская операция перемещения товаров в пределах склада выполняется различными способами в зависимости от настроек функций управления складом. Сложность может колебаться от полного отсутствия функций склада до базовых конфигураций склада для поочередной обработки заказов в ходе одной или нескольких операций; кроме того, может использоваться расширенная конфигурация, когда все складские операции должны выполняться в рамках расширенного рабочего процесса. Дополнительные сведения см. в разделе [Настройка управления складом](warehouse-setup-warehouse.md).
 
 Когда товары находятся на одном складе, может потребовать перемещать их между ячейками для поддержки ежедневных складских операций, которые используются для обеспечения потока товаров через склад. Некоторые передвижения запасов напрямую связаны с внутренними операциями. Пример — производственный заказ, для которого требуется доставка компонентов или размещение конечных товаров. Другие перемещения запасов происходят в виде обычной оптимизации складского пространства или в виде перемещений на ходу.
@@ -39,12 +40,13 @@ ms.locfileid: "6324793"
 |Обновить частоту, с которой ячейки, например ячейки подбора, должны пополняться в результате колебаний потребностей.|[Расчет пополнения ячеек](warehouse-how-to-calculate-bin-replenishment.md)|
 |Реструктуризация склада с введением новых кодов и характеристик ячеек и, возможно, их перемещением.|[Изменение структуры складов](warehouse-how-to-restructure-warehouses.md)|  
 
-## <a name="see-also"></a>См. также  
+## <a name="see-also"></a>См. также
+
 [Управление складом](warehouse-manage-warehouse.md)  
 [Наличие](inventory-manage-inventory.md)  
-[Настройка управления складом](warehouse-setup-warehouse.md)     
-[Управление сборкой](assembly-assemble-items.md)    
-[Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
+[Настройка Warehouse Management](warehouse-setup-warehouse.md) 
+[Управление сборкой](assembly-assemble-items.md)
+[Сведения о проектировании: Warehouse Management](design-details-warehouse-management.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
 
 

@@ -8,14 +8,15 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: payment application, payment processing, match payments
+ms.search.form: 62, 233, 522, 623
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 017f88741ee0ccc2977f2173fbd984e5ebf6b36f
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 2be99ab30035a96d7c7d631caa84276d50a42b3e
+ms.sourcegitcommit: e008b3d7003c256475d6c606e5f7c9866a6bbb72
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6437245"
+ms.lasthandoff: 01/10/2022
+ms.locfileid: "7953288"
 ---
 # <a name="reconcile-vendor-payments-with-the-payment-journal-or-from-vendor-ledger-entries"></a>Выверка платежей поставщикам с журналом платежей или из книги операций по поставщикам
 При отправке платежа или получении возмещения от поставщика требуется решить, следует ли применять эту оплату или возмещение к одной или нескольким открытым операциям. Можно определить точную сумму, которую требуется применить, например к денежным поступлениям или возмещениям, и тем самым только частично применить операции книги поставщиков. Важно также применить все операции книги поставщиков, чтобы получить правильную статистику поставщика, а также выписки по счету и процент-ноты.

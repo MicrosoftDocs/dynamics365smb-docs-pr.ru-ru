@@ -8,14 +8,15 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: project management, capacity, staff, resource, time sheet
+ms.search.form: 977, 462, 76, 77
 ms.date: 12/13/2021
 ms.author: edupont
-ms.openlocfilehash: 46e5cf2c7728e7c154841b6d407423344020d818
-ms.sourcegitcommit: 41876b559872fe7adbfa5b59a6e1a71dc907fb15
+ms.openlocfilehash: 21993ad4ee675384f7ffebfc77e0999d5dec05a6
+ms.sourcegitcommit: 2ab6709741be16ca8029e2afadf19d28cf00fbc7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/14/2021
-ms.locfileid: "7920984"
+ms.lasthandoff: 01/14/2022
+ms.locfileid: "7972230"
 ---
 # <a name="set-up-time-sheets"></a>Настройка табелей учета рабочего времени
 
@@ -42,6 +43,8 @@ ms.locfileid: "7920984"
 >
 > Эта же функция также упрощает управление табелями учета рабочего времени на мобильном устройстве.
 
+Откройте руководство мастера настройки **Настройка табелей учета рабочего времени** на странице [Мастер настройки](https://businesscentral.dynamics.com/?page=1801).
+
 В мастере настройки вы выполните следующие действия:
 
 1. Настройте участников процессов работы с табелями учета рабочего времени
@@ -59,7 +62,7 @@ ms.locfileid: "7920984"
 
 ## <a name="set-up-time-sheets-manually"></a>Настройка табелей учета рабочего времени вручную
 
-В следующих разделах описывается, как настроить табели учета рабочего времени, если вы не используете мастер настройки **Настроить табели учета рабочего времени**.  
+В следующих разделах описывается, как настроить табели учета рабочего времени, если вы не используете мастер настройки **Настройка табелей учета рабочего времени**.  
 
 ### <a name="to-set-up-general-information-for-time-sheets-manually"></a>Настройка общей информации для табелей вручную
 

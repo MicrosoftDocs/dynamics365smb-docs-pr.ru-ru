@@ -1,5 +1,5 @@
 ---
-title: Расширение для управления группой НДС | Документация Microsoft
+title: Расширение для управления группой НДС
 description: Вы можете взаимодействовать с другими предприятиями, чтобы сформировать группу НДС, и действовать как участник или представитель группы при отчетности по НДС.
 author: bholtorf
 manager: annbe
@@ -11,12 +11,12 @@ ms.workload: na
 ms. search.keywords: VAT, value added tax, report
 ms.date: 04/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: 093b361bf2d3f02d08dc6b8d53ad4b58a086f88b
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 7148fa8e59a509af3206e7da898a371ffb5332a5
+ms.sourcegitcommit: 66c78f6f04bfca6c0794b3299241ed65037b1c08
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5771291"
+ms.lasthandoff: 01/26/2022
+ms.locfileid: "8029144"
 ---
 # <a name="the-vat-group-management-extension"></a>Расширение для управления группой НДС
 
@@ -116,8 +116,12 @@ ms.locfileid: "5771291"
 > Функциональность группы НДС поддерживается только на тех рынках, где [!INCLUDE[prod_short](includes/prod_short.md)] использует структуру НДС, которая состоит из налоговых деклараций и периодов возврата НДС. Вы не можете использовать группы НДС на других рынках, где есть другие реализации местной отчетности по НДС, например в Австрии, Германии, Италии, Испании и Швейцарии. 
 
 ## <a name="see-also"></a>См. также
+
 [Работа с НДС по продажам и покупкам](finance-work-with-vat.md)  
-[Настройка налога на добавленную стоимость](finance-setup-vat.md)
+[Настройка налога на добавленную стоимость](finance-setup-vat.md)  
+[Работа с НДС по продажам и покупкам](finance-work-with-vat.md)  
+[Налоги в цифровом виде в Соединенном Королевстве](LocalFunctionality/UnitedKingdom/making-tax-digital-submit-vat-return.md)  
+[Норвежская отчетность по НДС в норвежской версии](LocalFunctionality/Norway/norwegian-vat-reporting.md)  
 
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

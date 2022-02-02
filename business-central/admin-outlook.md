@@ -8,14 +8,15 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: SMTP, mail, Microsoft 365, Outlook
+ms.search.form: 1831, 1832
 ms.date: 08/13/2021
 ms.author: jswymer
-ms.openlocfilehash: bbc68f5ed274328a9ea1fe7229a79bfba5a8bdf5
-ms.sourcegitcommit: 6ad0a834fc225cc27dfdbee4a83cf06bbbcbc1c9
+ms.openlocfilehash: 7d248158b7efa5960bbaeaf4b99f3ef8655b627c
+ms.sourcegitcommit: 8464b37c4f1e5819aed81d9cfdc382fc3d0762fc
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2021
-ms.locfileid: "7587944"
+ms.lasthandoff: 01/19/2022
+ms.locfileid: "8012371"
 ---
 # <a name="get-the-business-central-add-in-for-outlook"></a>Получение надстройки Business Central для Outlook
 
@@ -52,7 +53,7 @@ ms.locfileid: "7587944"
 
 ### <a name="prerequisites"></a>Предварительные требования
 
-- Подписка на Microsoft 365  
+- Подписка Microsoft 365  
 - Пользователям назначена лицензия Microsoft 365  
 - В вашей учетной записи Microsoft 365 есть роль *Глобальный администратор* или *Администратор Exchange*
 

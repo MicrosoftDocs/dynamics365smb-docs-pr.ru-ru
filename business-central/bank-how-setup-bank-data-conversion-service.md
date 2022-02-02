@@ -1,5 +1,5 @@
 ---
-title: Настройка конвертации банковских данных| Документация Майкрософт
+title: Настройка преобразования банковских данных
 description: Вы можете настроить банковские счета для отслеживания транзакций и импорта или экспорта банковских выписок, таких как Yodlee.
 author: SorenGP
 ms.service: dynamics365-business-central
@@ -8,14 +8,15 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: Yodlee, feed, stream, data exchange, AMC, bank file import, bank file export, re-export, bank transfer, AMC, AMC Banking 365 Fundamentals extension, funds transfer
+ms.search.form: 304, 20106, 20105, 20100, 20101, 20107, 20109
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: c9f74c300bfeec6f58e691509d54dfc5134391c7
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 7db2c4a8b50f530ce9b27d0cccc349fd2d354e0e
+ms.sourcegitcommit: 2ab6709741be16ca8029e2afadf19d28cf00fbc7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6442854"
+ms.lasthandoff: 01/14/2022
+ms.locfileid: "7972568"
 ---
 # <a name="set-up-the-amc-banking-365-fundamentals-extension"></a>Настройка расширения AMC Banking 365 Fundamentals
 Глобальный поставщик услуг преобразования платежной информации в любой формат данных, требуемый банком, подключен и готов к включению в [!INCLUDE[prod_short](includes/prod_short.md)]. В [!INCLUDE[prod_short](includes/prod_short.md)] он называется расширением AMC Banking 365 Fundamentals.

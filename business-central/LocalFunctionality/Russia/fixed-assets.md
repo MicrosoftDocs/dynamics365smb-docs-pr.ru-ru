@@ -3,17 +3,17 @@ title: Основные средств в России
 description: Российские улучшения включают основные средства.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: conceptual
+ms.topic: overview
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 2960893aa1cc97829c19ead6e4b2a17e2eae2398
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: aed206bdda306e29db4557642be06d1ee0f57841
+ms.sourcegitcommit: 8464b37c4f1e5819aed81d9cfdc382fc3d0762fc
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5786399"
+ms.lasthandoff: 01/19/2022
+ms.locfileid: "8011659"
 ---
 # <a name="overview---fixed-assets"></a>Обзор — основные средства
 

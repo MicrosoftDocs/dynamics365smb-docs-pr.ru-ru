@@ -8,19 +8,22 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: invoicing, bookings
+ms.search.form: 1638, 6702, 6704
 ms.date: 06/16/2021
 ms.author: edupont
-ms.openlocfilehash: 236e1732f3bd7100f00f39a41cbec169b6cbd70f
-ms.sourcegitcommit: e562b45fda20ff88230e086caa6587913eddae26
+ms.openlocfilehash: 9cac5b50d2a674f3ca39f085a2d4448356277b64
+ms.sourcegitcommit: 2ab6709741be16ca8029e2afadf19d28cf00fbc7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "6324030"
+ms.lasthandoff: 01/14/2022
+ms.locfileid: "7971178"
 ---
 # <a name="bulk-invoicing-for-microsoft-bookings-in-prod_short"></a>Пакетное выставление счетов для Microsoft Bookings в [!INCLUDE[prod_short](includes/prod_short.md)]
+
 Если ваша организация использует приложение Bookings в Microsoft 365, вы можете массово выставлять счета для назначений. На странице **Bookings без выставления счета** в [!INCLUDE[prod_short](includes/prod_short.md)] представлен список завершенных резервирований организации. На этой странице можно быстро выбрать назначения, по которым требуется создать счет, и создать черновики счетов за оказанные услуги.  
 
 ## <a name="connect-to-bookings"></a>Подклчюение к Bookings
+
 Чтобы связать [!INCLUDE[prod_short](includes/prod_short.md)] с Bookings, следует указать свою организацию Bookings, которую нужно синхронизировать с Bookings, периодичность синхронизации и шаблоны, которые требуется использовать. Эти сведения настраиваются на странице **Настройка синхронизации Bookings**, которую можно запустить со страницы **Настройка синхронизации с Exchange**, которую можно найти в разделе [Поиск](ui-search.md).  
 
 Например, если вы хотите синхронизировать клиентов между Bookings и [!INCLUDE[prod_short](includes/prod_short.md)], следует задать шаблон по умолчанию, который будет использоваться для добавления клиентов в [!INCLUDE[prod_short](includes/prod_short.md)] на основании клиентов из организации Bookings.  
@@ -34,11 +37,13 @@ ms.locfileid: "6324030"
 > Только товары типа *Сервис* будут синхронизированы между Bookings и [!INCLUDE[prod_short](includes/prod_short.md)]. Шаблон, настраиваемый на странице **Шаблоны конфигурации** таким образом, чтобы его можно было использовать для синхронизации товаров, должен определять тип как *Сервис*.
 
 ## <a name="invoice-appointments"></a>Выставить счета по назначениям
+
 Когда придет время отправки счетов за завершенные резервирования, откройте страницу **Bookings без выставления счета**. В зависимости от того, как часто синхронизируется информация, список может быть длинным или коротким. Вы можете создать счета для всех резервирований в списке или по одному резервированию за раз. Вы можете выбрать одну или несколько операций в списке и выставить счета только по ним.  
 
 Поддержка выставления счетов по назначениям в Bookings проще, чем полны рабочий процесс с предложениями продажи, заказами на продажу и счетами продажи. Дополнительные сведения см. в разделе [Выставление счетов продажи](sales-how-invoice-sales.md). Вы можете продавать свои услуги через [!INCLUDE[prod_short](includes/prod_short.md)] или выбрать Bookings в зависимости от потребностей бизнеса.  
 
 ## <a name="see-also"></a>См. также
+
 [Финансы](finance.md)  
 [Выставление счетов продажи](sales-how-invoice-sales.md)  
 [Настройка продаж](sales-setup-sales.md)  

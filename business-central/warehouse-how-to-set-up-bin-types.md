@@ -1,5 +1,5 @@
 ---
-title: Практическое руководство. Настройка типов ячеек
+title: Настройка типов ячеек
 description: Присвойте ячейкам типы и основные операции потока и при этом определите способ использования ячеек для конкретных складских операций.
 author: SorenGP
 ms.service: dynamics365-business-central
@@ -7,15 +7,15 @@ ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: ''
+ms.search.form: 7367
 ms.date: 06/25/2021
 ms.author: edupont
-ms.openlocfilehash: 987db7dda73bb527cfa025b7641c445b08cced2a
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: b867079eb08790f2cfa091d0128a876499fb2045
+ms.sourcegitcommit: 2ab6709741be16ca8029e2afadf19d28cf00fbc7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6442983"
+ms.lasthandoff: 01/14/2022
+ms.locfileid: "7971580"
 ---
 # <a name="set-up-bin-types"></a>Настройка типов ячеек
 Можно направить поток товаров через ячейки, указанные для определенной складской деятельности. Для ячейки заданы базовые действия и определен метод использования ячейки при помощи присвоения типа ячейки.  

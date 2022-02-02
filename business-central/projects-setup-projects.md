@@ -8,16 +8,18 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: projects
+ms.search.form: 289, 290, 376, 462, 463, 1029, 8904, 9014, 9015
 ms.date: 06/22/2021
 ms.author: edupont
-ms.openlocfilehash: 468c3a9e526d5d512419242a9fbcd0271d6e2a6d
-ms.sourcegitcommit: e562b45fda20ff88230e086caa6587913eddae26
+ms.openlocfilehash: 0780cf84b5c13934ccc9dcaf2d3576731cbf07a3
+ms.sourcegitcommit: 2ab6709741be16ca8029e2afadf19d28cf00fbc7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "6321068"
+ms.lasthandoff: 01/14/2022
+ms.locfileid: "7973762"
 ---
 # <a name="setting-up-project-management"></a>Настройка управления проектами
+
 Прежде чем использовать [!INCLUDE[prod_short](includes/prod_short.md)] для управления проектами, необходимо настроить ресурсы, табели и работы.
 
 Затем можно создать работы и запланировать ресурсы для проектов, а также управлять бюджетами и отслеживать затраты времени машин и сотрудников с помощью табелей учета времени. Дополнительные сведения см. в разделе [Управление проектами](projects-manage-projects.md).  

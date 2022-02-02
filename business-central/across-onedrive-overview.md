@@ -3,17 +3,17 @@ title: Business Central и OneDrive для бизнес-интеграции
 description: Вы можете использовать OneDrive для бизнеса для хранения, управления и обмена файлами, например отчетами или вложенными файлами.
 author: bholtorf
 ms.service: dynamics365-business-central
-ms.topic: conceptual
+ms.topic: overview
 ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/11/2021
 ms.author: bholtorf
-ms.openlocfilehash: 669f3272099057809dcb364d9fc47c0e69b57a4e
-ms.sourcegitcommit: 6ad0a834fc225cc27dfdbee4a83cf06bbbcbc1c9
+ms.openlocfilehash: 8965fe1c0f04c3b12fef984e71b7f2643f7f11c2
+ms.sourcegitcommit: 8464b37c4f1e5819aed81d9cfdc382fc3d0762fc
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2021
-ms.locfileid: "7589501"
+ms.lasthandoff: 01/19/2022
+ms.locfileid: "8012579"
 ---
 # <a name="business-central-and-onedrive-for-business-integration"></a>Business Central и OneDrive для бизнес-интеграции
 OneDrive для бизнеса — это облачная служба хранения, входящая в состав Microsoft 365. [!INCLUDE[prod_short](includes/prod_short.md)] позволяет легко хранить, управлять и делиться файлами с другими людьми через OneDrive. Когда файл находится в вашем OneDrive, вы можете воспользоваться разнообразными возможностями совместной работы с помощью онлайн-версий продуктов Microsoft, таких как Word, Excel и PowerPoint. Например, вы можете поделиться документом Word, а затем вы и ваши коллеги сможете редактировать его вместе в режиме реального времени. OneDrive также позволяет открывать другие типы файлов, например PDF-файлы. 

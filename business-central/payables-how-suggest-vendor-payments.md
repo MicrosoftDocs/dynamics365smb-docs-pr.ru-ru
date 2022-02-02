@@ -1,8 +1,6 @@
 ---
-title: Использование пакетного задания "Предлож. оплаты поставщикам" | Документация Майкрософт
+title: Пакетное задание "Предложить оплаты поставщикам"
 description: Вы можете задать настройки оплаты поставщикам для получения предложений по оплатам, которые быть произведены в ближайшее время или по которым доступны скидки.
-services: project-madeira
-documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: conceptual
@@ -10,16 +8,18 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: vendor payment, creditor, debt, balance due, AP
+ms.search.form: 256
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 6781674947cbbf12741216244499403989f14255
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 962a1fde49db09b3d739ac33eba43fa7316cc25d
+ms.sourcegitcommit: e008b3d7003c256475d6c606e5f7c9866a6bbb72
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6438806"
+ms.lasthandoff: 01/10/2022
+ms.locfileid: "7953162"
 ---
 # <a name="suggest-vendor-payments"></a>Предлож. оплаты поставщикам
+
 На странице **Журнал платежей** можно использовать пакетное задание **Предлож. оплаты поставщикам** для предложения строк платежей. Строки для платежей, для которых скоро наступает крайний срок, или платежей, для которых доступна скидка, предлагаются на основании ваших настроек.
 
 Чтобы максимально эффективно использовать предложения по оплате, необходимо сначала назначить приоритеты поставщикам. Дополнительные сведения см. в разделе [Назначение приоритетов поставщикам](purchasing-how-prioritize-vendors.md).  

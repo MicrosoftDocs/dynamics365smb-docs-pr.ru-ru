@@ -1,8 +1,6 @@
 ---
 title: Настройка анализа движения денежных средств (содержит видео)
 description: Используйте диаграммы в ролевом центре счетов, чтобы анализировать движение денежных средств в своей организации, включая расходы и доходы, ликвидность и кассовые поступления за вычетом наличных платежей.
-services: project-madeira
-documentationcenter: ''
 author: bholtorf
 ms.service: dynamics365-business-central
 ms.topic: conceptual
@@ -10,14 +8,15 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: money flow, expense and income, liquidity, cash receipts minus cash payments, Cartera, funds
+ms.search.form: 846, 847, 849, 855, 862, 869, 1818
 ms.date: 06/16/2021
 ms.author: bholtorf
-ms.openlocfilehash: 718aed64e13b28972210918c8171956f79485006
-ms.sourcegitcommit: 4c97f38fc53c1c1ec534054a4a100d8cfb73175b
+ms.openlocfilehash: 9f73cca7a4b88d051567d2f9f86806dac32f4ffa
+ms.sourcegitcommit: 2ab6709741be16ca8029e2afadf19d28cf00fbc7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/20/2021
-ms.locfileid: "7940405"
+ms.lasthandoff: 01/14/2022
+ms.locfileid: "7973392"
 ---
 # <a name="setting-up-cash-flow-analysis"></a>Настройка анализа движения денежных средств
 Если вам требуется помощь в решении относительно того, что делать с кассой, просмотрите диаграммы в ролевом центре бухгалтера:  
@@ -129,6 +128,7 @@ ms.locfileid: "7940405"
 ## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/forecast-cash-flow-dynamics-365-business-central/index)
 
 ## <a name="see-also"></a>См. также
+
 [Анализ движения денежных средств в организации](finance-analyze-cash-flow.md)  
 [Настройка финансов](finance-setup-finance.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

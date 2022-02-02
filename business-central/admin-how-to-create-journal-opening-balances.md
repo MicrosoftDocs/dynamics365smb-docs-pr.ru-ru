@@ -1,5 +1,5 @@
 ---
-title: Практическое руководство. Создание входящего сальдо журнала
+title: Создание входящего сальдо журнала
 description: Предоставляются пакетные задания, чтобы помочь перенести остатки на старых счетах в новую настроенную компанию. Можно легко перенести эти данные с помощью учета в журналах.
 author: SorenGP
 ms.service: dynamics365-business-central
@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 06/14/2021
+ms.date: 01/24/2022
 ms.author: edupont
-ms.openlocfilehash: ac7fea479237d985204820d54953689566f5c2ac
-ms.sourcegitcommit: e562b45fda20ff88230e086caa6587913eddae26
+ms.openlocfilehash: ad338aaccb9bc912ff2861423e4ad3b170aa566d
+ms.sourcegitcommit: 66c78f6f04bfca6c0794b3299241ed65037b1c08
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "6319542"
+ms.lasthandoff: 01/26/2022
+ms.locfileid: "8029092"
 ---
 # <a name="create-journal-opening-balances"></a>Создание входящего сальдо журнала
 
@@ -45,6 +45,9 @@ ms.locfileid: "6319542"
 
 > [!TIP]
 > Вы можете использовать те же пакетные задания для добавления начальных балансов всякий раз, когда вы регистрируете нового клиента или поставщика, с которым вы работали ранее, но не зарегистрировали в [!INCLUDE [prod_short](includes/prod_short.md)]. Просто найдите соответствующую задачу, а затем выберите соответствующую ссылку.
+
+> [!IMPORTANT]
+> В частности, для открытия остатков по банковским счетам не выполняйте шаги, описанные в этой статье, для проводки непосредственно по основным счетам, связанным с соответствующими банковскими счетами. Дополнительные сведения см. в разделе [Настройка банковских счетов](bank-how-setup-bank-accounts.md).  
 
 ## <a name="see-also"></a>См. также
 

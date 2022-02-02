@@ -1,5 +1,5 @@
 ---
-title: Настройка нереализованного НДС | Документация Майкрософт
+title: Настройка нереализованного НДС
 description: Если используется учет на основании кассы, можно определить способ обработки нереализованного НДС для продаж и покупок.
 author: bholtorf
 ms.service: dynamics365-business-central
@@ -8,22 +8,26 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: cash, VAT, unrealized, cash-based
+ms.search.form: 118, 472, 473
 ms.date: 04/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: ca04192ef31e281e7d3e07e2f1823079e1f89151
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 02ad408b55340bca218859d6742b0d74fbb1a294
+ms.sourcegitcommit: 2ab6709741be16ca8029e2afadf19d28cf00fbc7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6446194"
+ms.lasthandoff: 01/14/2022
+ms.locfileid: "7971892"
 ---
 # <a name="set-up-unrealized-vat-for-cash-based-accounting"></a>Настройка нереализованного НДС для учета на основании кассы
+
 При использовании методов учета на основании кассы можно настроить [!INCLUDE[prod_short](includes/prod_short.md)] для обработки нереализованного НДС.
 
 ## <a name="to-use-general-ledger-accounts-for-unrealized-vat"></a>Использование счетов главной книги для нереализованного НДС
+
 Суммы НДС могут вычисляться и учитываться на временном счете главной книги при учете счета, а затем учитываться на правильном счете главной книги и включаться в отчеты по НДС при учете фактической оплаты счета. Перед тем, как это сделать, следует произвести настройку учета НДС.
 
 Чтобы использовать счета для нереализованного НДС, выполните следующие действия:
+
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок и введите **Настройка главной книги**.
 2. На странице **Настройка ГК** установите флажок **Нереализованный НДС**.
 3. Выберите значок **Поиск страницы или отчета** ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") и введите **Настройка учета НДС**.

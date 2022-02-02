@@ -5,19 +5,19 @@ services: project-madeira
 documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: conceptual
+ms.topic: overview
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: service, service items, respond, response
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: efb5942dfd58365effdf4d46759ea81f75fe718e
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 8a0e8225d69d04ce82d0e0243f3e98207c892175
+ms.sourcegitcommit: 8464b37c4f1e5819aed81d9cfdc382fc3d0762fc
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5778326"
+ms.lasthandoff: 01/19/2022
+ms.locfileid: "8011975"
 ---
 # <a name="delivering-service"></a>Предоставление услуги
 В [!INCLUDE[prod_short](includes/prod_short.md)] предусмотрены функции, упрощающие процесс предоставления услуг по созданным контрактам и переданным на выполнение сервисным заказам. С помощью **панели диспетчера** технический персонал и диспетчеры могут легко находить невыполненные сервисные заказы. **Панель диспетчера** позволяет с первого взгляда определить, какие заказы выполняются, а какие уже выполнены заказы.  

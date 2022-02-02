@@ -1,8 +1,6 @@
 ---
-title: Методы расчета НЗП для расчета и записи хода выполнения работ | Документация Майкрософт
+title: Методы расчета НЗП для расчета и записи хода выполнения работ
 description: Описываются различные методы НЗП, которые можно использовать для учета, отслеживания и расчета финансовой информации для текущих незавершенных работ.
-services: project-madeira
-documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: conceptual
@@ -10,16 +8,18 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: work in process, work in progress, calculate project WIP
+ms.search.form: 1010
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: f27d0629c475d52cb8f99bb13dd4021d96f3df68
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: d7fbe8faa3fc4d75f068ad585faddeb1b5186e70
+ms.sourcegitcommit: 2ab6709741be16ca8029e2afadf19d28cf00fbc7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5780286"
+ms.lasthandoff: 01/14/2022
+ms.locfileid: "7970889"
 ---
-# <a name="understanding-wip-methods"></a>Общее представление о методах учета НЗП
+# <a name="understanding-wip-methods-in-project-management"></a>Понимание методов НЗП в управлении проектами
+
 По мере выполнения работы, материалы, ресурсы и т. д. потребляются и подлежат учету. Незавершенное производство (НЗП) — это функция, позволяющая в процессе выполнения работы оценивать ее стоимость с финансовый точки зрения в Главной книге, пока работы еще не завершены. В большинстве случаев затраты можно учесть до выставления счета по работе. Если учитывать только расходы, финансовый отчет будет неточным.
 
 Для трассировки стоимости в Главной книге, можно рассчитать НЗП и учесть стоимость в Главной книге. Для получения дополнительной информации см. раздел [Отслеживание хода выполнения работ и производительности](projects-how-monitor-progress-performance.md).
@@ -35,10 +35,11 @@ ms.locfileid: "5780286"
 | Выполненный контракт |Сумма НЗП = Сумма себестоимости НЗП = Потребл. (итоговая себест.)<br /><br /> Сумма продаж по НЗП = К оплате (цена по выст. счетам) |При использовании метода "Выполненный контракт" доходы и затраты не признаются до завершения работы. Данный метод следует применять, если оценки затрат и доходов по данной работе слишком неопределенные.<br /><br /> До завершения работы все потребление учитывается на счете затрат НЗП (активы), а все продажи по выставленным счетам учитываются на счете продаж НЗП, по которым выставлены счета (пассивы). |
 
 ## <a name="see-also"></a>См. также
+
 [Управление проектами](projects-manage-projects.md)  
 [Финансы](finance.md)  
-[Покупки](purchasing-manage-purchasing.md)         
-[Продажи](sales-manage-sales.md)      
+[Покупки](purchasing-manage-purchasing.md)  
+[Продажи](sales-manage-sales.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 
 

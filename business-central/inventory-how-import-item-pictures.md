@@ -1,7 +1,6 @@
 ---
-title: Импорт нескольких изображений товаров из ZIP-файла | Документация Майкрософт
+title: Импорт нескольких изображений товаров из ZIP-файла
 description: Для импорта нескольких изображений товаров присвойте файлам изображений имена, соответствующие номерам товаров, упакуйте из в ZIP-файл, и используйте страницу "Импорт изображений".
-documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: conceptual
@@ -9,14 +8,15 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: product, image
+ms.search.form: 30, 461
 ms.date: 06/16/2021
 ms.author: edupont
-ms.openlocfilehash: ac8d68d067c03039433d78be475d74efb3fec1fd
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 81e628a80fe170789bb174cd393842bdf2db9af5
+ms.sourcegitcommit: 1e6addcd6ecc25489fc17388409989440a210895
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6440528"
+ms.lasthandoff: 01/14/2022
+ms.locfileid: "7975022"
 ---
 # <a name="import-multiple-item-pictures"></a>Импорт нескольких изображений товаров
  Можно импортировать несколько изображений товаров за один раз. Просто присвойте файлам изображений имена, соответствующие номера ваших товаров, упакуйте из в ZIP-файл, затем с помощью страницы "Импорт изображений товаров" управляйте тем, какие изображения товаров следует импортировать.

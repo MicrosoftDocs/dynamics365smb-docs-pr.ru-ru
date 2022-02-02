@@ -3,20 +3,20 @@ title: Обзор движения денежных средств
 description: Обзор входящего и исходящего потоков денежных средств, помогающий спрогнозировать получение и выплату.
 author: jill-kotel-andersson
 ms.service: dynamics365-business-central
-ms.topic: conceptual
+ms.topic: overview
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: cash flow, money flow, expense and income, liquidity, cash receipts minus cash payments
+ms.search.form: 841, 849, 1818
 ms.date: 12/20/2021
 ms.author: edupont
-ms.reviewer: edupont
-ms.openlocfilehash: c7b75e75d86d18f686b89576ee9560b9246b3eee
-ms.sourcegitcommit: 4c97f38fc53c1c1ec534054a4a100d8cfb73175b
+ms.openlocfilehash: e5ce39c435c236719e6ee564217a0b1f7e338cf2
+ms.sourcegitcommit: 8464b37c4f1e5819aed81d9cfdc382fc3d0762fc
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/20/2021
-ms.locfileid: "7940205"
+ms.lasthandoff: 01/19/2022
+ms.locfileid: "8011100"
 ---
 # <a name="cash-flow-overview"></a>Обзор движения денежных средств
 
@@ -49,9 +49,9 @@ ms.locfileid: "7940205"
 
 На основании зарегистрированных строк журнала можно периодически делать прогноз движения денежных средств. Схемой является часто используемая схема для прогноза движения денежных средств. Схема состоит из трех разделов.
 
-  - Кассовые поступления  
-  - Денежные расходы  
-  - Чистое движение денежных средств или наличные деньги  
+- Кассовые поступления  
+- Денежные расходы  
+- Чистое движение денежных средств или наличные деньги  
 
 Кассовые поступления содержат подробности дохода, который получает предприятие.
 

@@ -1,19 +1,20 @@
 ---
-title: Создание карточки работы и указание задач | Документация Майкрософт
+title: Создание карточки работы и указание задач
 description: Для нового проекта вы создаете карточку работы, которая содержит рабочие задания и строки планирования, помогающие управлять ходом выполнения бюджетами.
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.workload: na
 ms.search.keywords: project management, task
+ms.search.form: 88, 1001, 1002, 1003, 1004, 1005, 1006, 1007
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 13037a0f984a3e390f194572afc0362360ab7187
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 88da1794619da0fce6001d70482a021d8efbe8cf
+ms.sourcegitcommit: 2ab6709741be16ca8029e2afadf19d28cf00fbc7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6439824"
+ms.lasthandoff: 01/14/2022
+ms.locfileid: "7973314"
 ---
 # <a name="create-jobs"></a>Создание работ
 В начале нового проекта необходимо создать карту работ с интегрированными рабочими заданиями и строками планирования работ, содержащую два уровня.  

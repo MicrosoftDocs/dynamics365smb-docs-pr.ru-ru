@@ -1,5 +1,5 @@
 ---
-title: Передача контактов между Business Central и Outlook | Документация Майкрософт
+title: Передача контактов между Business Central и Outlook
 description: Этот сервис глубоко интегрирован с Microsoft 365, поэтому вы можете передавать контакты из Outlook в Business Central и наоборот.
 author: edupont04
 ms.service: dynamics365-business-central
@@ -8,22 +8,24 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: contacts, Microsoft 365
+ms.search.form: 6700, 5320, 5300, 5301, 5302, 5303, 5304, 5305, 5306, 5307, 5308, 5309, 5310, 5311
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 1ccada415d506193e52ac37981252a47e6088971
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 61d5173f1f7baf9f463916b47fc38d6dde7f740f
+ms.sourcegitcommit: 8464b37c4f1e5819aed81d9cfdc382fc3d0762fc
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5777170"
+ms.lasthandoff: 01/19/2022
+ms.locfileid: "8010994"
 ---
 # <a name="synchronize-contacts-in-business-central-with-contacts-in-microsoft-outlook"></a>Синхронизация контактов в Business Central с контактами в Microsoft Outlook
+
 Вы можете видеть в [!INCLUDE[prod_short](includes/prod_short.md)] те же контакты, что и в Outlook, если настроите синхронизацию контактов. Например, если вы занимаетесь продажами, вы можете выполнять часть своей работы в Outlook, а часть своей работы в [!INCLUDE[prod_short](includes/prod_short.md)]. Если в обоих местах контакты одинаковые, вам будет проще работать.  
 
 Специальная папка Outlook облегчает поиск контактов, и вы можете задать фильтр, чтобы синхронизировать только те контакты из [!INCLUDE[prod_short](includes/prod_short.md)], которые вы хотите видеть в Outlook. Настроив синхронизацию контактов, вы можете запускать синхронизацию вручную или настроить автоматическую синхронизацию, которая выполняться по графику.  
 
 ## <a name="set-up-synchronization"></a>Настройка синхронизации
-Настроить то, как будут синхронизироваться контакты с Outlook, можно на странице **Настройка синхронизации с Exchange** в [!INCLUDE[prod_short](includes/prod_short.md)]. Предварительное требование — в вашем профиле пользователя в [!INCLUDE[prod_short](includes/prod_short.md)] должна быть указана ваша учетная запись электронной почты Microsoft 365. Проверить это можно в разделе **Аутентификация Microsoft 365** вашего профиля пользователя в списке **Пользователи**.  
+Настроить то, как будут синхронизироваться контакты с Outlook, можно на странице **Настройка синхронизации с Exchange** в [!INCLUDE[prod_short](includes/prod_short.md)]. Предварительное требование — в вашем профиле пользователя в [!INCLUDE[prod_short](includes/prod_short.md)] должна быть указана ваша учетная запись электронной почты Microsoft 365. Проверить это можно в разделе **Проверка подлинности Microsoft 365** вашего профиля пользователя в списке **Пользователи**.  
 
 Затем на странице **Настройка синхронизации с Exchange** можно проверить, что подключение к Exchange работает, и затем настроить синхронизацию контактов. Откройте страницу **Настройка синхронизации контактов** и запустите синхронизацию. При необходимости установите фильтр для ограничения числа контактов, синхронизируемых между [!INCLUDE[prod_short](includes/prod_short.md)] и Outlook. Например, можно установить фильтр по имени, типу, компании и т. п. Можно также изменить указанное по умолчанию имя папки, в которую будут синхронизироваться контакты в Outlook. По умолчанию она называется *Business Central*.  
 

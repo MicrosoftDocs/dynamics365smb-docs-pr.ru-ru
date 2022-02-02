@@ -8,15 +8,15 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: project management, capacity, staff, resource, time sheets
-ms.search.form: 973
+ms.search.form: 950, 951, 973
 ms.date: 12/13/2021
 ms.author: edupont
-ms.openlocfilehash: a5fdd86d63fa19a0a7f473d58abf34242e4e5cd5
-ms.sourcegitcommit: 41876b559872fe7adbfa5b59a6e1a71dc907fb15
+ms.openlocfilehash: bd163b5e8c4d96a28a1dd557d53b04dafe6829fd
+ms.sourcegitcommit: 2ab6709741be16ca8029e2afadf19d28cf00fbc7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/14/2021
-ms.locfileid: "7920907"
+ms.lasthandoff: 01/14/2022
+ms.locfileid: "7973129"
 ---
 # <a name="use-time-sheets"></a>Использование табелей учета рабочего времени
 
@@ -36,7 +36,7 @@ ms.locfileid: "7920907"
 Можно использовать пакетное задание **Создать табели учета рабочего времени**, чтобы настроить табели для определенного количества периодов времени или недель. Затем владелец табеля может открыть его и записать время, которое было затрачено на задание.  
 
 > [!IMPORTANT]
-> Вы должны иметь права на создание табелей.
+> Вы должны иметь права на создание табелей. Дополнительные сведения см. в разделе [Настройка табелей учета рабочего времени](projects-how-setup-time-sheets.md).
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Табели учета рабочего времени**, а затем выберите связанную ссылку.
 2. На странице **Табели учета рабочего времени** выберите действие **Создать табели учета рабочего времени**.

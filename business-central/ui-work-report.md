@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: task, process, report, print, schedule, save, Excel, PDF, Word, dataset
 ms.date: 06/21/2021
 ms.author: jswymer
-ms.openlocfilehash: 9deb7e30e05da74e6ea263a0262680d2e99b8b4b
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: d62c16ef8c511464fde86a1766499e37f8a07b1f
+ms.sourcegitcommit: 2ab6709741be16ca8029e2afadf19d28cf00fbc7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6439954"
+ms.lasthandoff: 01/14/2022
+ms.locfileid: "7972204"
 ---
 # <a name="working-with-reports-batch-jobs-and-xmlports"></a>Работа с отчетами, пакетными заданиями и XMLport
 
@@ -139,6 +139,12 @@ ms.locfileid: "6439954"
 
 > [!NOTE]
 > В некоторых отчетах числа экспортируются в виде текста, что не позволяет выполнять вычисления или использовать Power Pivot в ячейках на листе Excel. После экспорта рекомендуется проверить числа на листе. Если вы хотите провести анализ и построить диаграммы чисел, измените формат соответствующих ячеек с **Текст** на **Число**. Подробнее о форматировании чисел в ячейках смотрите в видео [Форматирование чисел в ячейках в Microsoft Excel](https://www.youtube.com/watch?v=2suE4YmZu_Q).
+
+### <a name="microsoft-word-document"></a>Документ Microsoft Word
+Используйте параметр **Документ Microsoft Word** для создания отчета в виде документа Word.  
+
+> [!NOTE]
+> Вы можете указать макет, который будет использоваться для каждого отчета на странице **Выбор отчета** в поле **Выбранный макет**. Настройка по умолчанию для отчетов — **RDLC (встроенный)**, создаются отчеты в том же или аналогичном макете, что и макет **Документ Microsoft Word**. Однако ключевое различие заключается в том, хотите ли вы создать один или несколько отчетных документов. Для отдельных документов вы можете использовать параметр RDLC (встроено). Для нескольких документов установите **Документ Microsoft Word** в качестве макета по умолчанию для отчета. Дополнительные сведения см. в разделе [Управление макетами отчетов и документов](ui-manage-report-layouts.md).
 
 ## <a name="scheduling-a-report-to-run"></a><a name="ScheduleReport"></a> Планирование выполнения отчета
 

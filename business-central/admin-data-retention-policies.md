@@ -1,5 +1,5 @@
 ---
-title: Очистка данных с помощью политик хранения | Документация Майкрософт
+title: Очистка данных с помощью политик хранения
 description: Вы можете указать, как часто вы хотите удалять определенные типы данных.
 author: bholtorf
 ms.service: dynamics365-business-central
@@ -8,14 +8,15 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: delete, data, retention, policy, policies
+ms.search.form: 3903, 3901
 ms.date: 04/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: 3ee0149461730e20e996f31dc7175ff3325bceca
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: ab16aacb7689287eac259658a8ef6bb355f04842
+ms.sourcegitcommit: 8464b37c4f1e5819aed81d9cfdc382fc3d0762fc
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6443922"
+ms.lasthandoff: 01/19/2022
+ms.locfileid: "8012397"
 ---
 # <a name="define-retention-policies"></a>Определение политик хранения
 Администраторы могут определять политики хранения, чтобы указать, как часто они хотят, чтобы [!INCLUDE[prod_short](includes/prod_short.md)] удалял устаревшие данные в таблицах, содержащих записи журнала и архивные записи. Например, очистка записей журнала может упростить работу с действительно важными данными. Политики могут включать все данные в таблицах, срок действия которых истек, или вы можете добавить критерии фильтрации, которые будут включать в политику только определенные просроченные данные. 

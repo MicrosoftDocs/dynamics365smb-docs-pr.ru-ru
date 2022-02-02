@@ -8,14 +8,15 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: project management, material, purchase
+ms.search.form: 98, 1020
 ms.date: 06/22/2021
 ms.author: edupont
-ms.openlocfilehash: b2c2bfa376290439394debcf9b57da5bedaca8bd
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 54158c8d10dd85b9ac8243059e1dfdbfd299e882
+ms.sourcegitcommit: 2ab6709741be16ca8029e2afadf19d28cf00fbc7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6443847"
+ms.lasthandoff: 01/14/2022
+ms.locfileid: "7971840"
 ---
 # <a name="manage-job-supplies"></a>Управление запасами для работы
 Управление поставками товаров, услуг и затратами по проекту является неотъемлемым и важным аспектом выполнения любых работ. Программа позволяет пользоваться имеющимися запасами или, посредством заказов на покупку или счетов покупки, купить все необходимое для выполнения работы. Пусть, например, для выполнения работы по обслуживанию компьютера необходим новый диск. В этом случае необходимо создать новый счет покупки нового диска и записать работу, для которой он будет использован.

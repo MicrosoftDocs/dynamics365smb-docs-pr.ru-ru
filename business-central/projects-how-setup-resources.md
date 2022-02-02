@@ -1,8 +1,6 @@
 ---
-title: Настройка себестоимости, цены и производственной мощности ресурса | Документация Майкрософт
+title: Настройка себестоимости, цены и производственной мощности ресурса
 description: Для использования ресурсов и функций управления проектами необходимо определить себестоимость и цены для отдельных ресурсов и групп ресурсов, а также задать производственную мощность ресурсов.
-services: project-madeira
-documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: conceptual
@@ -10,16 +8,18 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: project management, capacity, staff
+ms.search.form: 72, 76, 77, 203, 204
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: eb0d6f0ebe08abfb4b6f769f1bdbff1f02bc677f
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: a91bf2cbd82f2b4c8374a1773a6603f52c47c581
+ms.sourcegitcommit: 2ab6709741be16ca8029e2afadf19d28cf00fbc7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6439799"
+ms.lasthandoff: 01/14/2022
+ms.locfileid: "7972256"
 ---
-# <a name="set-up-resources"></a>Настройка ресурсов
+# <a name="set-up-resources-for-projects"></a>Настройка ресурсов для проектов
+
 Для правильного управления деятельностью ресурсов необходимо настроить ресурсы, а также связанные с ними затраты и цены. Связанные с работой цены, скидки и правила фактора стоимости задаются в карточке работы. Затраты и цены можно установить для каждого отдельного ресурса, группы ресурсов или всех доступных ресурсов организации.
 
 При использовании или продаже ресурсов для работы цены и затраты, связанные с ними, извлекаются из сведений, заданных вами.
