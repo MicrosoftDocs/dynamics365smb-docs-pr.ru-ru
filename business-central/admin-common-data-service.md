@@ -8,15 +8,15 @@ ms.reviewer: na
 ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.date: 06/14/2021
-ms.openlocfilehash: 34e274b32fbf8cf04a40cf4db884c156e2115416
-ms.sourcegitcommit: e562b45fda20ff88230e086caa6587913eddae26
+ms.openlocfilehash: 9555ce9f7a072376b38a0be460b74c46f2b3f3f9
+ms.sourcegitcommit: 1508643075dafc25e9c52810a584b8df1d14b1dc
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "6320967"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "8049465"
 ---
 # <a name="integrating-with-microsoft-dataverse"></a>Интеграция с Microsoft Dataverse
-[!INCLUDE[prod_short](includes/cc_data_platform_banner.md)]
+
 
 Бизнес-приложения часто используют данные из более чем одного источника. [!INCLUDE[prod_short](includes/cds_long_md.md)] объединяет данные в единый набор логики, облегчающей подключение других приложений Dynamics 365, таких как [!INCLUDE[crm_md](includes/crm_md.md)] или ваше собственное приложение, построенное на основе [!INCLUDE[prod_short](includes/cds_long_md.md)], к [!INCLUDE[prod_short_md](includes/prod_short.md)]. Для получения дополнительных сведений о [!INCLUDE[prod_short](includes/cds_long_md.md)] см. раздел [Что такое Dataverse?](/powerapps/maker/common-data-service/data-platform-intro)
 

@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: business intelligence, KPI, Odata, Power App, SOAP, analysis
 ms.date: 04/01/2021
 ms.author: jswymer
-ms.openlocfilehash: ef81b4fd16e66c4ec1453798ae77f947b12c975e
-ms.sourcegitcommit: eeaf9651c26e49974254e29b7e2d16200c818dad
+ms.openlocfilehash: db872c8049550a497e2ee56a4a62bb69fa6a1854
+ms.sourcegitcommit: 1508643075dafc25e9c52810a584b8df1d14b1dc
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/06/2021
-ms.locfileid: "6341337"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "8049852"
 ---
 # <a name="building-power-bi-reports-to-display-prod_long-data"></a>Создание отчетов Power BI для отображения данных [!INCLUDE [prod_long](includes/prod_long.md)]
 
@@ -150,6 +150,39 @@ ms.locfileid: "6341337"
 - Предоставление доступа к отчету из вашей службы Power BI
 
     Если у вас есть лицензия Power BI Pro, вы можете поделиться отчетом с другими прямо из своей службы Power BI. Дополнительные сведения см. в разделе [Power BI — предоставление доступа к панели мониторинга или отчету](/power-bi/collaborate-share/service-share-dashboards#share-a-dashboard-or-report).
+
+## <a name="fixing-problems"></a>Устранение проблем
+
+### <a name="cannot-insert-a-record-current-connection-intent-is-read-only-error-connecting-to-custom-api-page"></a>"Невозможно вставить запись. Назначение текущего подключения — только чтение". ошибка при подключении к странице пользовательского API
+
+> **ПРИМЕНЯЕТСЯ К:** Business Central Online
+
+С февраля 2022 г. новые отчеты, использующие данные Business Central, по умолчанию будут подключаться к доступной только для чтения реплике базы данных Business Central. В редких случаях, в зависимости от дизайна страницы, вы получите сообщение об ошибке при попытке подключения и получения данных со страницы.
+
+1. Запустите Power BI Desktop.
+2. На ленте выберите **Получить данные** > **Веб-службы**.
+3. В области **Веб-службы** выберите **Dynamics 365 Business Central**, затем **Подключить**.
+4. В окне **Навигатор** выберите конечную точку API, из которой вы хотите загрузить данные.
+5. На панели предварительного просмотра справа вы увидите следующую ошибку:
+
+   *Dynamics365BusinessCentral: ошибка запроса. Удаленный сервер вернул ошибку: (400) неверный запрос. (Невозможно вставить запись. Текущее намерение подключения доступно только для чтения. CorrelationId: [...])".*
+
+6. Выберите **Преобразовать данные** вместо **Загрузить**, как вы обычно делаете.
+7. В **редакторе Power Query** выберите **Расширенный редактор** на ленте.
+8. В строке, начинающейся с **Источник =**, замените следующий текст:
+
+   ```
+   Dynamics365BusinessCentral.ApiContentsWithOptions(null, null, null, null)
+   ```
+
+   на:
+
+   ```
+   Dynamics365BusinessCentral.ApiContentsWithOptions(null, null, null, [UseReadOnlyReplica = false])
+   ```
+
+9. Нажмите **Готово**.
+10. Выберите **Закрыть и применить** на ленте, чтобы сохранить изменения и закрыть редактор Power Query.
 
 ## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/configure-powerbi-excel-dynamics-365-business-central/index)
 

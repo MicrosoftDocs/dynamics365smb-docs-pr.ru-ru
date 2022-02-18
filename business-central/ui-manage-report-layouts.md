@@ -1,8 +1,6 @@
 ---
-title: Пользовательские и встроенные макеты отчетов и документов | Документация Майкрософт
+title: Пользовательские и встроенные макеты отчетов и документов
 description: Макеты отчетов служат для персонализации документов, например для настройки шрифтов, логотипов и параметров страниц PDF-файлов, которые вы отправляете клиентам.
-services: project-madeira
-documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
 ms.topic: conceptual
@@ -10,14 +8,15 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: customized report, document layout, logo, personalize
+ms.search.form: 9652, 9650
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 2b3dcc5c40346f6bd63d431b3024d64bc5a0d434
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 11467596a489c3d3ec550caa35353c72e548e675
+ms.sourcegitcommit: f4b32ba1f926a2a712400c36305616f320757723
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6445951"
+ms.lasthandoff: 02/08/2022
+ms.locfileid: "8100851"
 ---
 # <a name="managing-report-and-document-layouts"></a>Управление макетами отчетов и документов
 Макет отчета контролирует содержимое и формат отчета, включая то, какие поля данных набора данных отчета отображаются в нем и как они упорядочены, а также стиль текста, изображения и т. д. В [!INCLUDE[prod_short](includes/prod_short.md)] можно изменить используемый в отчете макет, создать новый макет или изменить текущие макеты.
@@ -37,7 +36,7 @@ ms.locfileid: "6445951"
 Существует два типа макетов отчета, которые можно использовать в отчетах — Word и RDLC.
 
 ## <a name="word-report-layout-overview"></a>Обзор макета отчетов Word
-Макет отчета Word основан на документе Word (тип файла DOCX). Макеты отчетов Word позволяют разрабатывать макеты отчетов с помощью Microsoft Word 2013 или более поздней версии. Макет отчета Word определяет содержимое отчета, расположение элементов отчета и их внешний вид. Документ макета отчетов Word, как правило, использует таблицы для организации содержимого, клетки которых могут содержать поля данных, текст или изображения.
+Макет отчета Word основан на документе Word (тип файла DOCX). Макеты отчетов Word позволяют разрабатывать макеты отчетов с помощью Microsoft Word. Макет отчета Word определяет содержимое отчета, расположение элементов отчета и их внешний вид. Документ макета отчетов Word, как правило, использует таблицы для организации содержимого, клетки которых могут содержать поля данных, текст или изображения.
 
  ![Пример макета отчета Word для NAV.](media/nav_wordreportlayout_edit_in_word_example.png "NAV_WordReportLayout_Edit_In_Word_Example")  
 

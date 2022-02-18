@@ -11,12 +11,12 @@ ms.search.keywords: account schedule, analysis, reporting, financial report, bus
 ms.reviewer: edupont
 ms.date: 04/01/2021
 ms.author: jswymer
-ms.openlocfilehash: 9ce0b5232a0629bb6248eaaaade69b7c7ebceb02
-ms.sourcegitcommit: 8464b37c4f1e5819aed81d9cfdc382fc3d0762fc
+ms.openlocfilehash: 6260edff16c0d9123d389f59f0d035b2e87766b4
+ms.sourcegitcommit: 1508643075dafc25e9c52810a584b8df1d14b1dc
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/19/2022
-ms.locfileid: "8012345"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "8049515"
 ---
 # <a name="power-bi-integration-component-and-architecture-overview-for-prod_short"></a>Обзор компонентов и архитектуры интеграции Power BI для [!INCLUDE[prod_short](includes/prod_short.md)]
 
@@ -48,7 +48,9 @@ ms.locfileid: "8012345"
 
 [!INCLUDE[prod_short](includes/prod_short.md)] интегрируется с Power BI через соединитель с использованием OData. Источник данных для отчетов Power BI представляется как страницы API или веб-службы OData.
 
-![Архитектура Power BI для интеграции с Business Central.](./media/power-bi-architecture.png)
+:::image type="content" source="./media/power-bi-architecture.png" alt-text="Альтернативный текст изображения." lightbox="./media/power-bi-architecture.png":::
+
+С февраля 2022 г. отчеты Power BI для [!INCLUDE[prod_short](includes/prod_short.md)] Online извлекаются из вторичной реплики базы данных, доступной только для чтения. Реплика базы данных является частью [горизонтального масштабирования для чтения](/dynamics365/business-central/dev-itpro/administration/database-read-scale-out-overview) в [!INCLUDE[prod_short](includes/prod_short.md)] Online. Эта конфигурация освобождает основную базу данных для транзакций, что повышает производительность системы. Подключение к реплике базы данных только для чтения является неотъемлемой частью соединителя Business Central Online и не требует дополнительной настройки с вашей стороны. Все новые отчеты по умолчанию будут подключаться к реплике базы данных, доступной только для чтения. Старые отчеты по-прежнему будут использовать основную базу данных. Для получения дополнительной информации см. [План выпуска Business Central 2021 волны 2](/dynamics365-release-plan/2021wave2/smb/dynamics365-business-central/use-secondary-read-only-database-power-bi-reporting).
 
 ## <a name="general-flow"></a>Общий поток
 

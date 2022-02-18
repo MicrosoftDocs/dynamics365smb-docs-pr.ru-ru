@@ -8,17 +8,18 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: sales, crm, integration, sync, synchronize
+ms.search.form: 6250
 ms.date: 06/14/2021
 ms.author: bholtorf
-ms.openlocfilehash: 5db6ec05e8497dd3c3bac9b17ccb5dc673f11add
-ms.sourcegitcommit: 4c97f38fc53c1c1ec534054a4a100d8cfb73175b
+ms.openlocfilehash: a9f4f2442e9cb3f8efc46cc7c9fd1f92c002d0dd
+ms.sourcegitcommit: c05806689d289d101bd558696199cefbd989473e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/20/2021
-ms.locfileid: "7940655"
+ms.lasthandoff: 02/12/2022
+ms.locfileid: "8115316"
 ---
 # <a name="view-the-status-of-synchronization-jobs"></a>Просмотр статуса заданий синхронизации
-[!INCLUDE[prod_short](includes/cc_data_platform_banner.md)]
+
 
 Используйте страницу **Ошибки синхронизации связанных данных** для просмотра состояния заданий синхронизации, которые были выполнены для связанных записей в интеграции Dataverse или [!INCLUDE[crm_md](includes/crm_md.md)]. Сюда входят задания, запущенные из очереди заданий, и задания ручной синхронизации, выполненные для записей из [!INCLUDE[prod_short](includes/prod_short.md)]. Например, просмотр их статуса бывает полезен при устранении неполадок, поскольку он дает вам доступ к сведениям об ошибках, относящихся к связанным записям. Как правило, эти ошибки вызваны действиями пользователя, например, когда:  
 

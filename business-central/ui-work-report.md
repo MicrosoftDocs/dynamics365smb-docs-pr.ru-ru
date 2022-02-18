@@ -8,14 +8,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: task, process, report, print, schedule, save, Excel, PDF, Word, dataset
-ms.date: 06/21/2021
+ms.date: 02/09/2022
 ms.author: jswymer
-ms.openlocfilehash: d62c16ef8c511464fde86a1766499e37f8a07b1f
-ms.sourcegitcommit: 2ab6709741be16ca8029e2afadf19d28cf00fbc7
+ms.openlocfilehash: 142a9f826e200f06172b741e72e54d49ff9caf47
+ms.sourcegitcommit: 2c972dfc94d27245eaa99efcf638d030dedafb22
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/14/2022
-ms.locfileid: "7972204"
+ms.lasthandoff: 02/09/2022
+ms.locfileid: "8102607"
 ---
 # <a name="working-with-reports-batch-jobs-and-xmlports"></a>Работа с отчетами, пакетными заданиями и XMLport
 
@@ -32,7 +32,7 @@ ms.locfileid: "7972204"
 
 При открытии отчета, пакетного задания или XMLport обычно отображается страница, запроса позволяющая настроить различные параметры и фильтры, которые определяют, что требуется включить в отчет. В следующих разделах объясняется, как использовать страницу запроса для создания, предварительного просмотра и печати отчета.
 
-## <a name="using-default-values---predefined-settings"></a><a name="SavedSettings"></a>Использование значений по умолчанию — предопределенные настройки 
+## <a name="using-default-values---predefined-settings"></a><a name="SavedSettings"></a>Использование значений по умолчанию — предопределенные настройки
 
 Большинство страниц запросов включают поле **Использовать значения по умолчанию из**. Это поле позволяет вам выбрать предопределенные настройки для отчета, которые автоматически устанавливают параметры и фильтры для отчета. Выберите запись из раскрывающегося списка, и вы увидите, что параметры и фильтры на странице запроса изменятся соответствующим образом.
 
@@ -84,67 +84,18 @@ ms.locfileid: "7972204"
 
 Можно сохранить отчет в PDF-документ, документ Microsoft Word или книгу Microsoft Excel, выбрав кнопку **Отправить**, затем выбрав нужный вариант.
 
-### <a name="send-to-excel"></a>Отправка в Excel
+### <a name="about-sending-to-excel"></a>Об отправке в Excel
 
-<!-- The following table describes the options for saving the report results as a worksheet in an Excel workbook.
+Вы можете работать с данными [!INCLUDE [prod_short](includes/prod_short.md)] в Excel для дальнейшего анализа. Для получения дополнительной информации см. [Анализ данных отчета с помощью Excel](report-analyze-excel.md).  
+<!--
+### About sending to Word
 
-|Option  |Description  |
-|---------|---------|
-|Microsoft Excel Document (data and layout)|Export the report results with the RDLC layout applied. Use this option if you want to export the data one time, and only want to make minor changes to its appearance, such as font and color scheme. <br><br>**Note**: Some reports might export numbers as text, so it's a good idea to verify the numbers. |
-|Microsoft Excel Document (data only)|Export the report results and the criteria that was used to generate them, such as the parameters you specified on the request page, metadata, and the fields that control the layout of the printed report. Use this option when you want to do ad hoc analysis of the data or diagnose data issues in reports. For example, you can filter the data and use Power Pivot to display it.<br><br>This option exports all columns, including columns that hold formatting instructions for other values and filters. In columns that hold binary data like images, instead of actually values, fields will include the text **Binary data ({0} bytes)**, where **{0}** indicates the number of bytes.<br><br>**NOTE** With Business Central on-premises, the Business Central Server includes a configurations setting, called **Max Data Rows Allowed to Send to Excel**. This setting limits the number of rows that can be exported to Excel. If you don't see the expected number of rows, it might be because of this setting. For more information, see [Configuring Business Central Server](/dynamics365/business-central/dev-itpro/administration/configure-server-instance#General) or contact your administrator.|-->
-
-Есть два варианта сохранения результатов отчета в виде листа в книге Excel: **Документ Microsoft Excel (данные и макет)** и **Документ Microsoft Excel (только данные)**
-
-#### <a name="microsoft-excel-document-data-and-layout"></a>[Документ Microsoft Excel (данные и макет)](#tab/data-and-layout)
-
-Этот параметр доступен только для отчетов, использующих макет RDLC. Он экспортирует результаты отчета с примененным макетом RDLC. Используйте этот вариант, если вы хотите экспортировать данные один раз и хотите внести лишь незначительные изменения в их внешний вид, такие как шрифт и цветовую схему.
-
-#### <a name="microsoft-excel-document-data-only"></a><a name="exportdataonly"></a>[Документ Microsoft Excel (только данные)](#tab/data-only)
-
-При параметре **Документ Microsoft Excel (только данные)** экспортируются результаты отчета и критерии, которые использовались для их создания &mdash; но он не включается макет отчета. Файл Excel будет включать полный набор данных в виде необработанных данных, упорядоченных по строкам и столбцам. Включены все столбцы данных набора данных отчета, независимо от того, используются ли они в макете отчета.  Используйте этот вариант, если хотите:
-
-- Сделать специальный анализ данных. Например, вы можете отфильтровать данные и использовать Power Pivot, чтобы отобразить их.
-
-  Каждый раз, когда вы экспортируете результаты, создается новый лист. С помощью параметра **Документ Microsoft Excel (только данные)** вы можете запустить тот же самый отчет и повторно использовать изменения форматирования. Например, для Power Pivot вы можете запустить отчет еще раз для другого периода времени, скопировать результаты на лист, а затем обновить его. Также приложение отчетности можно найти в [AppSource](https://appsource.microsoft.com/).
-- Проверяйте набор данных отчета при создании или изменении настраиваемых макетов отчета.
-
-  Для получения информации о создании настраиваемых макетов отчетов прочитайте [Создание или изменение настраиваемых макетов отчетов](ui-how-create-custom-report-layout.md)
-- Диагностируйте проблемы с данными в отчетах.
-
-##### <a name="for-administrators"></a>Для администраторов
-
-- **Документ Microsoft Excel (только данные)** был представлен в качестве дополнительной функции в выпуске 2021 волны 1, обновление 18.3. Чтобы предоставить пользователям доступ к этой функции, включите обновление функции **Сохранить набор данных отчета в документ Microsoft Excel** в **Управление функциями**. Для получения дополнительной информации см. [Раннее включение новых функций](/dynamics365/business-central/dev-itpro/administration/feature-management). В выпуске 2021 волны 2 эта функция станет постоянной, поэтому вам не придется ее включать.
-
-- Учетным записям пользователей потребуется разрешение **<!--Export Report Dataset To Excel-->Разрешить действие "Экспорт набора данных отчета в Excel"**, которое вы можете применить, используя набор разрешений **Инструменты для поиска и устранения неполадок** или **Экспорт отчета в Excel**.  
-
-- Вы не можете экспортировать отчет, содержащий более 1 048 576 строк или 16 384 столбцов.
-
-    > [!NOTE]
-    > В локальной версии Business Central максимальное количество экспортируемых строк может быть еще меньше. Business Central Server включает параметр конфигурации, называемый **Максимальное количество строк данных, разрешенное для отправки в Excel**, для уменьшения предела от максимального значения. Для получения дополнительной информации прочитайте [Настройка Business Central Server](/dynamics365/business-central/dev-itpro/administration/configure-server-instance#General) или обратитесь к своему администратору.
-
-##### <a name="for-developers-and-advanced-users"></a>Для разработчиков и опытных пользователей
-
-При параметре **Документ Microsoft Excel (только данные)** экспортируются все столбцы, включая столбцы, содержащие фильтры и инструкции по форматированию для других значений. Вот несколько интересных моментов:
-
-- Двоичные данные в поле, например изображение, не экспортируются.
-
-  В столбцах, содержащих двоичные данные, поля будут включать текст **Двоичные данные (байт: {0})**, где **{0}** указывает количество байтов.
-- Начиная с выпуска Business Central 2021 волны 2 файл Excel также включает лист **Метаданные отчета**.
-
-  На этом листе показаны фильтры, примененные к отчету, и общие свойства отчета, такие как имя, идентификатор и сведения о расширении. Фильтры показаны в столбце **Фильтр (DataItem::Table::FilterGroupNo::FieldName)**. Фильтры в этом столбце включают фильтры, установленные на странице запроса отчета. Он также включает фильтры, определенные в коде AL, например [свойство DataItemLink](/dynamics365/business-central/dev-itpro/developer/properties/devenv-dataitemlink-reports-property) и [свойство DataItemTableView](/dynamics365/business-central/dev-itpro/developer/properties/devenv-dataitemtableview-property).
-
-Для получения дополнительной информации о структуре отчетов прочитайте [Обзор отчета](/dynamics365/business-central/dev-itpro/developer/devenv-reports).
-
----
+Use the **Microsoft Word Document** option to generate a report as a Word document.  
 
 > [!NOTE]
-> В некоторых отчетах числа экспортируются в виде текста, что не позволяет выполнять вычисления или использовать Power Pivot в ячейках на листе Excel. После экспорта рекомендуется проверить числа на листе. Если вы хотите провести анализ и построить диаграммы чисел, измените формат соответствующих ячеек с **Текст** на **Число**. Подробнее о форматировании чисел в ячейках смотрите в видео [Форматирование чисел в ячейках в Microsoft Excel](https://www.youtube.com/watch?v=2suE4YmZu_Q).
+> You can specify the layout to use for each report on the **Report Selection** page in the **Selected Layout** field. The default setting for reports is **RDLC (built-in)**, which produces reports in the same, or similar, layout as the **Microsoft Word Document** layout. However, the key difference is whether you want to generate a single or multiple report documents. For single documents, you can use the RDLC (built-in) option. For multiple documents, set the **Microsoft Word Document** as the default layout for the report. For more information, see [Managing Report and Document Layouts](ui-manage-report-layouts.md).
 
-### <a name="microsoft-word-document"></a>Документ Microsoft Word
-Используйте параметр **Документ Microsoft Word** для создания отчета в виде документа Word.  
-
-> [!NOTE]
-> Вы можете указать макет, который будет использоваться для каждого отчета на странице **Выбор отчета** в поле **Выбранный макет**. Настройка по умолчанию для отчетов — **RDLC (встроенный)**, создаются отчеты в том же или аналогичном макете, что и макет **Документ Microsoft Word**. Однако ключевое различие заключается в том, хотите ли вы создать один или несколько отчетных документов. Для отдельных документов вы можете использовать параметр RDLC (встроено). Для нескольких документов установите **Документ Microsoft Word** в качестве макета по умолчанию для отчета. Дополнительные сведения см. в разделе [Управление макетами отчетов и документов](ui-manage-report-layouts.md).
+-->
 
 ## <a name="scheduling-a-report-to-run"></a><a name="ScheduleReport"></a> Планирование выполнения отчета
 

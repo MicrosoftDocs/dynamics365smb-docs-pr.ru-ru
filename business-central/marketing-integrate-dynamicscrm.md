@@ -1,6 +1,6 @@
 ---
 title: Управление клиентами с помощью Dynamics 365 Sales (содержит видео) | Документация Майкрософт
-description: Dynamics 365 Sales можно использовать из Business Central для сопоставления данных, а также интеграции и синхронизации на всех этапах процесса от интереса до получения денег.
+description: Dynamics 365 Sales можно использовать из Business Central с бесшовной интеграцией и синхронизацией на всех этапах процесса от интереса до получения денег.
 documentationcenter: ''
 author: bholtorf
 ms.service: dynamics365-business-central
@@ -9,14 +9,15 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: integration, synchronize, map, Sales
+ms.search.forms: 9980, 5341, 5349, 5330, 1817, 5342, 5337, 5336, 5331, 5343, 5334, 5346, 5348, 5329, 5380, 5353, 5381, 5351, 5333, 5360, 5373, 5371, 5340, 5345, 5362, 1313, 5361, 1876, 5339, 5338, 5335, 5332, 6250
 ms.date: 04/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: 67d9915e4f60b20d0e871810dfc3d66450103a5a
-ms.sourcegitcommit: 4c97f38fc53c1c1ec534054a4a100d8cfb73175b
+ms.openlocfilehash: c0b6e3fe2229a43bd4e7fb7e7d0b56b152600d60
+ms.sourcegitcommit: c05806689d289d101bd558696199cefbd989473e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/20/2021
-ms.locfileid: "7940455"
+ms.lasthandoff: 02/12/2022
+ms.locfileid: "8115004"
 ---
 # <a name="using-dynamics-365-sales-from-business-central"></a>Использование Dynamics 365 Sales из Business Central
 Если вы используете Dynamics 365 Sales для взаимодействия с клиентами, вы получаете в свое распоряжение бесшовную интеграцию процесса от интереса до получения денег, используя [!INCLUDE[prod_short](includes/prod_short.md)] для внутренних действий, таких как обработка заказов, управление запасами и работа с финансами.

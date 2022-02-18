@@ -1,5 +1,5 @@
 ---
-title: Импорт и экспорт макета отчета и документа | Документация Майкрософт
+title: Импорт и экспорт макета отчета и документа
 description: Можно импортировать и экспортировать существующий пользовательский макет отчета в виде файла в расположении на компьютере или в сети.
 author: SorenGP
 ms.service: dynamics365-business-central
@@ -7,15 +7,15 @@ ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: ''
+ms.search.form: 9652, 9650
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 69bf376d2e7e165f80d75f706a4684cdf047935c
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: cb929e1e18d6e0711fd23ae12255220fdae1080d
+ms.sourcegitcommit: f4b32ba1f926a2a712400c36305616f320757723
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6441072"
+ms.lasthandoff: 02/08/2022
+ms.locfileid: "8101351"
 ---
 # <a name="import-and-export-custom-report-layouts"></a>Импорт и экспорт пользовательских макетов отчетов
 Можно импортировать и экспортировать существующий пользовательский макет отчета в виде файла в расположении на компьютере или в сети. Например, можно экспортировать макет отчета, а затем отправить файл другому лицу для изменения. Это лицо может затем внести изменения в макет и вернуть файл, чтобы вы могли импортировать его обратно.  
@@ -51,10 +51,11 @@ ms.locfileid: "6441072"
 
 ## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/change-documents-dynamics-365-business-central/index)
 
-## <a name="see-also"></a>См. также  
- [Создание и изменение пользовательского макета отчета](ui-how-create-custom-report-layout.md)   
- [Управление макетами отчетов и документов](ui-manage-report-layouts.md)  
- [Работа с отчетами, пакетными заданиями и XMLport](ui-work-report.md)    
+## <a name="see-also"></a>См. также
+
+[Создание и изменение пользовательского макета отчета](ui-how-create-custom-report-layout.md)   
+[Управление макетами отчетов и документов](ui-manage-report-layouts.md)  
+[Работа с отчетами, пакетными заданиями и XMLport](ui-work-report.md)    
 
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

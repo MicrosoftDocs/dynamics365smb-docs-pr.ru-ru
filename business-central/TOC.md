@@ -483,6 +483,7 @@
 #### [Сверка платежей клиентов с журналом кассовых поступлений или из книги операций по клиентам](receivables-how-apply-sales-transactions-manually.md)
 #### [Сбор непогашенных остатков задолженности](receivables-collect-outstanding-balances.md)
 #### [Сбор платежей с прямым дебетом SEPA](finance-collect-payments-with-sepa-direct-debit.md)
+#### [Отправка напоминания о непогашенных остатках задолженности](receivables-send-reminders.md)
 #### [Блокировка клиентов](receivables-how-block-customers.md)
 #### [Работа с отклонениями в оплате и отклонениями скидки по оплате](finance-payment-tolerance-and-payment-discount-tolerance.md)
 #### [Расширение прогноза просрочки платежа](ui-extensions-late-payment-prediction.md)
@@ -1605,6 +1606,120 @@
 ##### [Печать отчетов об устранении неполадок](LocalFunctionality/UnitedStates/how-to-print-troubleshooting-reports.md)
 ### [Отправка нормативных оповещений](submit-regulatory-alerts.md)
 
+<!--Reporting landing page-->
+# Бизнес-аналитика и отчетность 
+
+## [Обзор](reports-bi-reporting.md)
+
+## Используйте отчеты в повседневной работе
+### [Обзор](reports-use-reports.md)
+### [Запуск отчетов](ui-work-report.md)
+### [Добавить закладку для отчета](ui-bookmarks.md)
+### [Анализ данных отчета с помощью Excel](report-analyze-excel.md)
+<!--### [Using the report inbox] (missing.md)-->
+### [Печать отчетов](ui-specify-printer-selection-reports.md#default)
+### [Планирование отчетов](ui-work-report.md#ScheduleReport)
+### [Управление сохраненными настройками в отчетах](reports-saving-reusing-settings.md)
+### [Изменение макета отчета по умолчанию](ui-how-change-layout-currently-used-report.md)
+
+## Встроенные отчеты
+### [Обзор отчета](reports-available-reports.md)
+### Финансы
+#### [Финансовая аналитика](bi.md)
+#### [Анализ финансовых отчетов с помощью Excel](finance-analyze-excel.md)
+#### [Основные финансовые отчеты](finance-reports.md)
+#### [Отчеты о дебиторской задолженности](receivables-reports.md)
+#### [Отчеты о кредиторской задолженности](payables-reports.md)
+#### [Анализ денежных средств](finance-setup-cash-flow-analyses.md)
+#### [Консолидация финансовых данных из нескольких организаций](finance-consolidated-company-reporting.md)
+
+### Продажи
+#### [Отчеты по продажам](sales-reports.md)
+#### [Состояние общего заказа на продажу](sales-how-to-create-blanket-sales-orders.md#to-view-the-status-of-a-blanket-sales-order)
+#### [Отслеживание пакета](sales-how-track-packages.md)
+#### [Просмотр неучтенных и учтенных строк общего заказа на продажу](sales-how-to-create-blanket-sales-orders.md#to-view-unposted-and-posted-blanket-sales-order-lines)
+
+### Закупки
+#### [Отчеты о покупках](purchase-reports.md)
+#### [Просмотр операций книги покупок](ui-post-purchases.md#viewing-ledger-entries)
+
+### Запасы и склад
+#### [Отчеты о запасах и складах](inventory-wms-reports.md)
+#### [Наличие товара](inventory-how-availability-overview.md)
+#### [Отслеживание товаров по серийному номеру, номеру партии и номеру упаковки](inventory-how-work-item-tracking.md)
+#### [Трассировка товаров, трассируемых по товарам](inventory-how-to-trace-item-tracked-items.md)
+#### [Аудит выверки книги инвентаризации и главной книги](finance-how-to-post-inventory-costs-to-the-general-ledger.md#to-audit-the-reconciliation-between-the-inventory-ledger-and-the-general-ledger)
+#### [Просмотр переброшенных товаров в журнале отгрузки или подбора](warehouse-how-to-cross-dock-items.md#to-view-cross-docked-items-in-a-shipment-or-pick-worksheet)
+
+### Проект
+#### [Отчеты по проекту](project-reports.md)
+#### [Просмотр оценок потребления работы](projects-how-record-job-usage.md#to-view-job-usage-estimates-and-post-updates)
+#### [Отслеживание хода выполнения работ и производительности](projects-how-monitor-progress-performance.md)
+
+### Основные средства
+#### [Отчеты по основным средствам](fa-reports.md)
+#### [Мониторинг стоимости обслуживания](fa-how-maintain.md#to-monitor-maintenance-costs)
+#### [Мониторинг страхового покрытия](fa-how-insure.md#to-monitor-insurance-coverage)
+#### [Просмотр измененных балансовых значений амортизации](fa-how-trans-split-combine.md#to-view-changed-depreciation-book-values-due-to-fixed-asset-reclassification)
+#### [Просмотр операций книги выбытия](fa-how-dispose-retire.md#to-view-disposal-ledger-entries)
+#### [Просмотр стоимости планируемой реализации](fa-how-manage-budgets.md#to-view-projected-disposal-values)
+
+### Управление сборкой
+#### [Отчеты по управлению сборкой](assembly-reports.md)
+#### [Просмотр структуры спецификации](inventory-how-work-boms.md#to-view-components-and-resources-indented-according-to-the-bom-structure)
+
+### Производство
+#### [Производственные отчеты](production-reports.md)
+#### [Просмотр загрузки производственных и машинных центров](production-how-to-view-the-load-on-work-centers.md)
+#### [Просмотр операций книги производственного центра](production-how-to-post-capacities.md#to-view-work-center-ledger-entries)
+
+### Сервисный центр
+#### [Просмотр сервисной статистики](service-service-statistics.md)
+#### [Обзор сервисных заказов](service-how-to-allocate-resources.md#to-see-an-overview-of-service-orders-and-service-quotes)
+#### [Обзор сервисных предложений](service-how-to-allocate-resources.md#to-see-an-overview-of-service-orders-and-service-quotes)
+#### [Обзор учтенных сервисных документов](service-service-posting.md#to-view-information-about-a-posted-service-document)
+
+## Специальный анализ данных
+### [Обзор](reports-adhoc-analysis.md)
+### [Сортировка, поиск и фильтрация](ui-enter-criteria-filters.md)
+### [Вопросы и ответы по поиску и фильтрации](ui-search-filter-faq.yml)
+### [Анализ данных страницы в Excel](across-work-with-excel.md)
+### [Анализ данных отчета с помощью Excel](ui-work-report.md#saving-a-report-to-a-file)
+### [Финансовая аналитика](bi.md)
+
+## Встроенная аналитика 
+### [Обзор](reports-built-in-analytics.md)
+### [Интеллектуальная аналитика](about-intelligent-cloud.md)
+### [Работа с отчетами Power BI](across-working-with-powerbi.md)
+### [Финансовая аналитика](bi.md)
+### [Анализ финансовых отчетов с помощью Excel](finance-analyze-excel.md)
+### [Консолидация финансовых данных из нескольких организаций](finance-consolidated-company-reporting.md)
+### [Отчет об использовании телеметрии](/dynamics365/business-central/dev-itpro/administration/telemetry-reports-trace)
+
+
+## Анализ данных в инструментах бизнес-аналитики
+### [Обзор](reports-external-analysis.md)
+### [Использование Power BI с Business Central](admin-powerbi.md)
+### [Анализ финансовых отчетов с помощью Excel](finance-analyze-excel.md)
+### [Извлечение данных в хранилища данных или озера данных](/dynamics365/business-central/dev-itpro/performance/performance-developer#efficient-extracts-to-data-lakes-or-data-warehouses)
+### [Чтение данных с помощью API Business Central](/dynamics365/business-central/dev-itpro/api-reference/v2.0/)
+
+## Разработка отчетов
+### [Обзор](reports-develop-reports.md)
+### Разработка макетов отчетов
+#### [Типы макетов (Word и RDLC)](ui-manage-report-layouts.md)
+#### [Создание нового макета](ui-how-create-custom-report-layout.md)
+#### [Использование шрифтов в макетах](ui-fonts.md)  
+#### [Работа с макетами Word](ui-how-add-fields-word-report-layout.md)
+#### [Импорт/экспорт макета](ui-how-import-and-export-report-layout.md)
+#### [Обновление макета](ui-update-report-layouts.md)
+#### [Изменение макета по умолчанию](ui-how-change-layout-currently-used-report.md)
+### Разработка наборов данных отчетов
+#### [Руководство по разработке отчетов](/dynamics365/business-central/dev-itpro/developer/devenv-reports)
+#### [Руководство по настройке производительности отчетов](/dynamics365/business-central/dev-itpro/performance/performance-developer#writing-efficient-reports)
+
+
+<!--Security landing page-->
 # Безопасность, конфиденциальность, соответствие
 ## Защита и безопасность
 ### [Обзор безопасности и защиты (только на английском языке)](/dynamics365/business-central/dev-itpro/security/security-and-protection?toc=/dynamics365/business-central/toc.json)

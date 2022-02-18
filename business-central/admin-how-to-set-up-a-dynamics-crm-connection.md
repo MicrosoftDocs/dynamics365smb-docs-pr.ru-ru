@@ -4,22 +4,21 @@ description: Настройка подключения между Business Centr
 author: bholtorf
 ms.service: dynamics365-business-central
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
+ms.search.forms: 7200, 7201
 ms.date: 09/30/2021
 ms.author: bholtorf
-ms.openlocfilehash: b3ee8bb3bee08c131447233de7b691d2bb2e46bd
-ms.sourcegitcommit: 4c97f38fc53c1c1ec534054a4a100d8cfb73175b
+ms.openlocfilehash: bbe27c46562fa7550619283cb85cd1d7dcc76a3c
+ms.sourcegitcommit: 189bf08d7ddf6c8b7ef2c09058c6847aa6e590d3
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/20/2021
-ms.locfileid: "7940480"
+ms.lasthandoff: 01/31/2022
+ms.locfileid: "8059548"
 ---
 # <a name="connect-to-microsoft-dataverse"></a>Подключение к Microsoft Dataverse
 
-[!INCLUDE[prod_short](includes/cc_data_platform_banner.md)]
+
 
 В этом разделе описывается, как установить соединение между [!INCLUDE[prod_short](includes/prod_short.md)] и [!INCLUDE[cds_long_md](includes/cds_long_md.md)]. Как правило, предприятия создают соединение для интеграции и синхронизации данных с другим бизнес-приложением Dynamics 365, например [!INCLUDE[crm_md](includes/crm_md.md)].  
 
@@ -41,7 +40,7 @@ ms.locfileid: "7940480"
 
 ## <a name="set-up-a-connection-to-cds_long_md"></a>Настройка подключения к [!INCLUDE[cds_long_md](includes/cds_long_md.md)]
 
-Для всех типов проверки подлинности, отличных от проверки подлинности Microsoft 365, вы настраиваете подключение к [!INCLUDE[cds_long_md](includes/cds_long_md.md)] на странице **Настройка подключения Dataverse**. Для аутентификации Microsoft 365 рекомендуется использовать мастер настройки **Настройка подключения Dataverse**. Этот мастер позволяет проще настроить подключение и указать расширенные функции, такие как модель ответственности и начальной синхронизации.  
+Для всех типов аутентификации, отличных от аутентификации Microsoft 365, вы настраиваете подключение к [!INCLUDE[cds_long_md](includes/cds_long_md.md)] на странице **Настройка подключения к Dataverse**. Для аутентификации Microsoft 365 рекомендуется использовать мастер настройки **Настройка подключения Dataverse**. Этот мастер позволяет проще настроить подключение и указать расширенные функции, такие как модель ответственности и начальной синхронизации.  
 
 > [!IMPORTANT]
 > Во время настройки подключения к [!INCLUDE[cds_long_md](includes/cds_long_md.md)] администратору будет предложено предоставить следующие разрешения зарегистрированному приложению Azure с именем "Интеграция [!INCLUDE[prod_short](includes/prod_short.md)]" в [!INCLUDE[cds_long_md](includes/cds_long_md.md)]:

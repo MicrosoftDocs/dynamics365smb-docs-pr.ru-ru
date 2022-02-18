@@ -10,15 +10,15 @@ ms.workload: na
 ms.search.keywords: sales, crm, integration, sync, synchronize, table mapping
 ms.date: 04/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: 44729a82d50a925d9ad904f8035dd49daee24262
-ms.sourcegitcommit: 6ad0a834fc225cc27dfdbee4a83cf06bbbcbc1c9
+ms.openlocfilehash: c7225981e11a8968c8fd698cda2373be133cea9e
+ms.sourcegitcommit: 1508643075dafc25e9c52810a584b8df1d14b1dc
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2021
-ms.locfileid: "7588705"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "8049722"
 ---
 # <a name="mapping-the-tables-and-fields-to-synchronize"></a>Сопоставление таблиц и полей для синхронизации
-[!INCLUDE[prod_short](includes/cc_data_platform_banner.md)]
+
 
 Основой синхронизации данных является сопоставление таблиц и полей в [!INCLUDE[prod_short](includes/prod_short.md)] с таблицами и столбцами в [!INCLUDE[prod_short](includes/cds_long_md.md)], чтобы они могли обмениваться данными. Сопоставление происходит через таблицы интеграции. 
 

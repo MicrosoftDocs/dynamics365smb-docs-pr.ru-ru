@@ -10,15 +10,15 @@ ms.workload: na
 ms.search.keywords: sales, crm, integration, sync, synchronize
 ms.date: 04/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: ca44ce5f2f83e61080ddfff5dbe1771ffc586653
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: e9cd03df1e26eca92f5a69d02d73caac902d2b6b
+ms.sourcegitcommit: 1508643075dafc25e9c52810a584b8df1d14b1dc
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6435526"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "8049566"
 ---
 # <a name="manually-synchronize-table-mappings"></a>Ручная синхронизация сопоставлений таблиц
-[!INCLUDE[prod_short](includes/cc_data_platform_banner.md)]
+
 
 Сопоставление таблиц интеграции связывает таблицу [!INCLUDE[prod_short](includes/prod_short.md)], например клиента, с таблицей [!INCLUDE[prod_short](includes/cds_long_md.md)], например счетом. Синхронизация сопоставления таблиц интеграции позволяет синхронизировать данные во всех записях таблицы [!INCLUDE[prod_short](includes/prod_short.md)] и таблицы [!INCLUDE[prod_short](includes/cds_long_md.md)], которые связаны. Кроме того, в зависимости от конфигурации сопоставления таблицы, синхронизация может создавать и связывать новые записи в целевом решении для несвязанных записей в источнике.  
 

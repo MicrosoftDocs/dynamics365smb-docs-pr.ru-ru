@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: Power BI, setup, analysis, reporting, financial report, business intelligence, KPI
 ms.date: 04/01/2021
 ms.author: jswymer
-ms.openlocfilehash: 932bf57b8801c758c6bcaff4fbdad69265853487
-ms.sourcegitcommit: 428ba6385cb27475e8803c2a8967daa22cfe8879
+ms.openlocfilehash: c8f12e98196d8dd22ff63c73ffd3967cf256244c
+ms.sourcegitcommit: 1508643075dafc25e9c52810a584b8df1d14b1dc
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/29/2021
-ms.locfileid: "7724692"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "8049878"
 ---
 # <a name="enabling-power-bi-integration-with-prod_short"></a>Включение интеграции Power BI с [!INCLUDE[prod_short](includes/prod_short.md)]
 
@@ -44,7 +44,12 @@ Business Central предлагает два способа предоставл
 
 Business Central Online поставляется с набором встроенных API-интерфейсов, которые можно использовать для получения данных о наиболее распространенных бизнес-объектах, таких как клиенты, товары, заказы на продажу и т. д. Для использования этих API в качестве источника данных для отчетов Power BI не требуются дополнительные усилия и настройка. Для получения дополнительной информации об этих API прочитайте [Business Central API V2.0](/dynamics365/business-central/dev-itpro/api-reference/v2.0/).
 
-Business Central Online также поддерживает настраиваемые API. Разработчики приложений для решений Business Central могут создавать свои собственные страницы API и упаковывать их в расширения. Вы можете установить расширения на своем клиенте. После установки вы можете использовать страницы API для своих отчетов Power BI, как встроенные API (v2.0). Для получения дополнительной информации о том, как создавать страницы API, прочитайте [Разработка собственного API](/dynamics365/business-central/dev-itpro/developer/devenv-develop-custom-api).
+Business Central Online также поддерживает настраиваемые API. Разработчики приложений для решений Business Central могут создавать свои собственные страницы API и упаковывать их в расширения. Затем устанавливаются расширения на своем клиенте. После установки используются страницы API для своих отчетов Power BI, как встроенные API (v2.0). Для получения дополнительной информации о том, как создавать страницы API, прочитайте [Разработка собственного API](/dynamics365/business-central/dev-itpro/developer/devenv-develop-custom-api).
+
+> [!IMPORTANT]
+> С февраля 2022 г. отчеты Power BI для [!INCLUDE[prod_short](includes/prod_short.md)] Online извлекаются из вторичной реплики базы данных, доступной только для чтения по соображением производительности. Как следствие, разработчикам AL следует избегать проектирования страниц API, которые вносят изменения в базу данных, когда страницы открывают или загружают записи. В частности, рассмотрим код триггеров AL: OnInit, OnOpenPage, OnFindRecord, OnNextRecord, OnAfterGetRecord и OnAfterGetCurrRecord. Эти модификации базы данных в некоторых случаях могут вызвать проблемы с производительностью и помешать обновлению данных в отчете. Для получения дополнительной информации см. [Статьи о производительности для разработчиков](/dynamics365/business-central/dev-itpro/performance/performance-developer?branch=main#writing-efficient-web-services) в справке по разработке Business Central.
+>
+> В редких случаях поведение вызывает ошибку, когда пользователь пытается получить данные со страницы API для отчета в Power BI Desktop. Однако, если на пользовательской странице API необходимы модификации базы данных, пользователи Power BI Desktop могут форсировать поведение. Дополнительные сведения см. в разделе [Создание отчетов Power BI для отображения данных Business Central](across-how-use-financials-data-source-powerbi.md#fixing-problems).
 
 ### <a name="odata-web-services"></a>Веб-службы OData
 
@@ -91,6 +96,7 @@ Business Central Online также поддерживает настраивае
     Прежде чем конечные пользователи смогут использовать Power BI в [!INCLUDE[prod_short](includes/prod_short.md)], администратор приложения Azure должен будет дать согласие на службу Power BI.
 
     Для первоначального подключения откройте [!INCLUDE[prod_short](includes/prod_short.md)] и выполните **Начать с Power BI** из ролевого центра. Это действие проведет вас через процесс получения согласия и проверит вашу лицензию Power BI. При появлении запроса войдите в систему, используя учетную запись администратора Azure. Дополнительные сведения см. в разделе [Подключение к Power BI — только один раз](across-working-with-powerbi.md#connect).
+
 
 ## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/Configure-powerbi-excel-dynamics-365-business-central/index)
 

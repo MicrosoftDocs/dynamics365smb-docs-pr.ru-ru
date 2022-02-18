@@ -5,15 +5,16 @@ author: DianaMalina
 ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
+ms.search.form: 6774, 6775, 6776
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 09dcd8f1da81c72a4992caf7c89b7ea3a227e179
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 2691ce452886ab7e210b81aaca055106979b50d0
+ms.sourcegitcommit: c05806689d289d101bd558696199cefbd989473e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6437185"
+ms.lasthandoff: 02/12/2022
+ms.locfileid: "8115029"
 ---
 # <a name="inventory-documents"></a>Инвентарные документы
 

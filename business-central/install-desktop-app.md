@@ -8,20 +8,18 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: phone, tablet
-ms.date: 10/01/2021
+ms.date: 01/11/2022
 ms.author: jswymer
-ms.openlocfilehash: babf20be3c22a3d4b7dd710e2486c59bc11351fe
-ms.sourcegitcommit: 795f0298e32b4c0174aeeb9a7da64f1e5c8457d6
+ms.openlocfilehash: 6372d08aef8dfaca6044101a17eea40d89d82722
+ms.sourcegitcommit: 9244ec802d68a7d90b13678ec3dfab5abb79c734
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/04/2021
-ms.locfileid: "7596651"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "8050909"
 ---
 # <a name="get-business-central-desktop-app"></a>Получение приложения Business Central на настольном компьютере
 
-Если у вас есть компьютер с Windows (ПК) или macOS, вы можете установить приложение Business Central на свой настольный компьютер. 
-> [!NOTE]
-> Если вы используете Business Central выпуска 2021 волны 1 или более раннюю версию, загрузите приложение из [Магазина Windows](https://go.microsoft.com/fwlink/?LinkId=734848).
+Если у вас есть компьютер с Windows (ПК) или macOS, вы можете установить приложение Business Central на свой настольный компьютер. Приложение работает с Business Central Online и локально.
 
 ## <a name="why-use-the-app"></a>Почему нужно использовать это приложение?
 
@@ -34,7 +32,19 @@ ms.locfileid: "7596651"
 
      Когда вы открываете приложение для определенной среды, имя среды включается в заголовок окна. При работе с несколькими средами [!INCLUDE[prod_short](includes/prod_short.md)] каждое окно приложения отображается отдельно. По названию вам будет легче увидеть, какое окно связано с каждой средой.
 
-## <a name="install-the-app"></a>Установка приложения
+## <a name="install-the-app-for-business-central-online"></a>Установка приложения Business Central Online
+
+Установить приложение Business Central Online можно двумя способами. Вы можете установить его прямо из браузера или из Microsoft Store. Какой бы подход вы ни использовали, это одно и то же приложение. Разница в том, что установка из браузера позволяет установить приложение для каждой среды, если их несколько.
+
+### <a name="from-microsoft-store"></a>Из Microsoft Store
+
+1. Перейдите в [Microsoft Store](https://go.microsoft.com/fwlink/?linkid=2182870).
+2. Выберите **Получить** > **Установить**. 
+3. Когда приложение будет установлено, выберите **Открыть**, затем войдите в Business Central.
+
+В следующий раз, когда вы захотите открыть приложение, найдите его в меню **Пуск**.
+
+### <a name="from-the-browser"></a>Из браузера
 
 1. Откройте веб-клиент [!INCLUDE[prod_short](includes/prod_short.md)] в Microsoft Edge или Google Chrome.
 
@@ -54,16 +64,14 @@ ms.locfileid: "7596651"
 
 После установки приложение появится в меню **Пуск**. Если вы выбрали определенную среду для приложения, имя среды добавляется к имени приложения в меню **Пуск**.
 
-### <a name="for-business-central-on-premises"></a>Локальная версия Business Central
+## <a name="install-the-app-for-business-central-on-premises"></a>Установка приложения Business Central локально
 
-Установка приложения при использовании локальной версии Business Central в основном такая же, как описано выше. Если у вас только один клиент, просто откройте Business Central в своем браузере и выберите ![Значок для установки приложения в Microsoft Edge.](media/ui-edge-install-app-icon.png) **Приложение доступно. Установить Business Central** или ![Значок для установки приложения в Chrome.](media/ui-chrome-install-app-icon.png) **Установить Business Central**, как показано выше. 
+Установка классического приложения при использовании локальной версии Business Central в выполняется прямо в браузере, как [описано выше](#from-the-browser). Если у вас только один клиент, просто откройте Business Central в своем браузере и выберите ![Значок для установки приложения в Microsoft Edge.](media/ui-edge-install-app-icon.png) **Приложение доступно. Установить Business Central** или ![Значок для установки приложения в Chrome.](media/ui-chrome-install-app-icon.png) **Установить Business Central**, как показано выше.
 
-Разница есть, если у вас несколько клиентов. В отличие от локальной версии [!INCLUDE[prod_short](includes/prod_short.md)], где вы можете установить приложение отдельно для разных сред, в локальной среде вы можете установить приложение только для одного клиента. Поэтому перед установкой приложения, если у вас несколько клиентов, обязательно переключитесь на правильный клиент. После установки, когда вы открываете приложение, оно сразу открывает клиента.
+Разница есть, если у вас несколько клиентов. В отличие от [!INCLUDE[prod_short](includes/prod_short.md)] Online, где вы можете установить приложение отдельно для разных сред, здесь вы можете установить приложение только для одного клиента. Поэтому перед установкой приложения, если у вас несколько клиентов, обязательно переключитесь на правильный клиент. После установки, когда вы открываете приложение, оно сразу открывает клиента.
 
-<!-- for FAQ or troubleshooting
-> [!NOTE]
-> To install the app, [!INCLUDE[prod_short](includes/prod_short.md)] must be configured for HTTPS. If it isn't, you won't see ![Icon for installing an app in Edge.](media/ui-edge-install-app-icon.png) **App available. Install Business Central** or ![Icon for installing an app in Chrome.](media/ui-chrome-install-app-icon.png) **Install Business Central** in the browser. If you're having problems, contact your administrator or see [Configuring SSL to Secure the Business Central Web Client Connection](/dynamics365/business-central/dev-itpro/deployment/configure-ssl-web-client-connection) about how to configure HTTPS.
--->
+> [!IMPORTANT]
+> Если вы используете версию Business Central впуска 2021 волны 1 (версия 18) или более раннюю, вы не сможете установить приложение, как описано в этой статье. Вместо этого установите приложение из [Microsoft Store](https://go.microsoft.com/fwlink/?LinkId=734848). Дополнительные сведения и справку об установке этого устаревшего приложения см. в разделе [Подготовка и установка приложения Business Central](/dynamics365/business-central/dev-itpro/deployment/install-business-central-app).
 
 ## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/alternative-interfaces-dynamics-365-business-central/index)
 
