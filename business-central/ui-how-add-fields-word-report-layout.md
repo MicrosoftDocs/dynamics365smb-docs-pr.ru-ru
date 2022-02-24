@@ -1,21 +1,21 @@
 ---
-title: Как добавлять поля в макет отчета Word
-description: В этой теме описывается процедура добавления полей набора данных отчета в существующий макет отчета Word для отчета.
+title: Практическое руководство. Добавление полей в макет отчета Word | Документация Майкрософт
+description: Описывается процедура добавления полей набора данных отчета в существующий макет отчета Word для отчета.
 author: jswymer
 ms.service: dynamics365-business-central
-ms.topic: conceptual
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 11/25/2021
+ms.date: 10/01/2019
 ms.author: jswymer
-ms.openlocfilehash: 5c87d107cde4d0327d1147ffce78aadc88b241ca
-ms.sourcegitcommit: a6000804ad9a176de5750372d3951547ddb71006
+ms.openlocfilehash: 5927a69199f72b09f133d63ac76bade7af361e8c
+ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/25/2021
-ms.locfileid: "7865342"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "2877019"
 ---
 # <a name="add-fields-to-a-word-report-layout"></a>Добавление полей в макет отчета Word
 Набор данных отчета может состоять из полей, отображающих метки, данные и изображения. В этом разделе описывается процедура добавления полей набора данных отчета в существующий макет отчета Word для отчета. Поля добавляются с использованием пользовательской части XML в Word для отчета и путем добавления элементов управления содержимым, сопоставляемых полям в наборе данных отчета. Добавление полей требует определенных знаний набора данных отчета, чтобы можно было идентифицировать поля, которые требуется добавить в макет.  
@@ -31,11 +31,11 @@ ms.locfileid: "7865342"
   
 2.  Отобразите вкладку **Разработчик** на ленте Microsoft Word.  
   
-     По умолчанию вкладка **Разработчик** не отображается на ленте. Дополнительные сведения см. в разделе [Отображение вкладки разработчика на ленте](/visualstudio/vsto/how-to-show-the-developer-tab-on-the-ribbon).  
+     По умолчанию вкладка **Разработчик** не отображается на ленте. Дополнительные сведения см. в разделе [Отображение вкладки разработчика на ленте](https://go.microsoft.com/fwlink/?LinkID=389631).  
   
 3.  На вкладке **Разработчик** выберите **Область сопоставления XML**.  
   
-4.  В области **Сопоставление XML** в раскрывающемся списке **Пользовательская XML-часть** выберите пользовательскую XML-часть для отчета [!INCLUDE[prod_short](includes/prod_short.md)], который обычно последний в списке. Имя пользовательской XML-части имеет следующий формат.  
+4.  В области **Сопоставление XML** в раскрывающемся списке **Пользовательская часть XML** выберите пользовательскую часть XML для отчета ADD INCLUDE,<!--[!INCLUDE[d365fin](../../includes/d365fin_md.md)]--> который обычно последний в списке. Имя пользовательской XML-части имеет следующий формат.  
   
      urn:microsoft-dynamics-nav/reports/*имя_отчета*/*ИД*  
   
@@ -78,7 +78,7 @@ ms.locfileid: "7865342"
  Изображения выравниваются в верхнем левом углу элемента управления содержимым и автоматически меняют свой размер пропорционально границе элемента управления содержимым.  
   
 > [!IMPORTANT]  
->  Можно добавить изображения только в формате, поддерживаемом Word, например BMP, JPEG и PNG. При добавлении изображения в формате, не поддерживаемом Word, получается ошибка при выполнении отчета из клиента [!INCLUDE[prod_short](includes/prod_short.md)].  
+>  Можно добавить изображения только в формате, поддерживаемом Word, например BMP, JPEG и PNG. При добавлении изображения в формате, не поддерживаемом Word, получается ошибка при выполнении отчета из клиента ADD INCLUDE<!--[!INCLUDE[d365fin](../../includes/d365fin_md.md)]--> .  
   
 #### <a name="to-add-an-image"></a>Добавление изображения  
   
@@ -99,19 +99,19 @@ ms.locfileid: "7865342"
 |------------------|-----------------|  
 |`<?xml version="1.0" encoding="utf-16"?>`|Заголовок|  
 |`<WordReportXmlPart xmlns="urn:microsoft-dynamics-365/report/<reportname>/<id>/"`|Спецификация пространства имен XML. `<reportname>` — это имя, назначенное отчету. `<id>` — это ИД, назначенный отчету.|  
-|`..<Labels>`<br /><br /> `....<ColumnNameCaption>ColumnNameCaption</ColumnNameCaption>`<br /><br /> `....<LabelName>LabelCaption</LabelName>`<br /><br /> `..</Labels>`|Содержит все метки отчета.<!--OnPren The element includes labels that are related to columns that have the IncludeCaption Property.--><br />-   Элементы меток, связанные со столбцами, имеют формат `<ColumnNameCaption>ColumnNameCaption</ColumnNameCaption>`.<!--OnPrem where `ColumnName` is determined by the column's Name Property.-->.<br />- Элементы меток имеют формат `<LabelName>LabelName</LabelName`<!--OnPrem where LabelName is determined by the label's Name Property.-->.<br />-   Метки перечислены в алфавитном порядке.|  
-|`..<DataItem1>`<br /><br /> `....<DataItem1Column1>DataItem1Column1</DataItem1Column1>`|Элементы данных и столбцы верхнего уровня. Столбцы перечислены в алфавитном порядке.<!--OnPrem <br /><br /> The element names and values are determined by the Name Property of the data item or column.-->|  
+|`..<Labels>`<br /><br /> `....<ColumnNameCaption>ColumnNameCaption</ColumnNameCaption>`<br /><br /> `....<LabelName>LabelCaption</LabelName>`<br /><br /> `..</Labels>`|Содержит все метки отчета.<!--OnPren The element includes labels that are related to columns that have the [IncludeCaption Property](../FullExperience/Name%20Property-duplicate.md).--><br />-   Элементы меток, связанные со столбцами, имеют формат `<ColumnNameCaption>ColumnNameCaption</ColumnNameCaption>`.<!--OnPrem where `ColumnName` is determined by the column's Name Property.-->.<br />- Элементы меток имеют формат `<LabelName>LabelName</LabelName`<!--OnPrem where LabelName is determined by the label's Name Property.-->.<br />-   Метки перечислены в алфавитном порядке.|  
+|`..<DataItem1>`<br /><br /> `....<DataItem1Column1>DataItem1Column1</DataItem1Column1>`|Элементы данных и столбцы верхнего уровня. Столбцы перечислены в алфавитном порядке.<!--OnPrem <br /><br /> The element names and values are determined by the [Name Property-duplicate](../FullExperience/Name%20Property-duplicate.md) of the data item or column.-->|  
 |`....<DataItem2>`<br /><br /> `......<DataItem2Column1>DataItem2Column1</DataItem2Column1>`<br /><br /> `....</DataItem2>`<br /><br /> `....<DataItem3>`<br /><br /> `......<DataItem3Column1>DataItem3Column1</DataItem3Column1>`<br /><br /> `....</DataItem3>`|Элементы данных и столбцы, вложенные в элемент данных верхнего уровня. Столбцы перечислены в алфавитном порядке под соответствующим элементом данных.|  
 |`..</DataItem1>`<br /><br /> `</WordReportXmlPart>`|Заключительный элемент.|  
   
 ### <a name="custom-xml-part-in-word"></a>Пользовательская часть XML в Word  
- В Word следует открыть пользовательскую XML-часть в области **Сопоставление XML**, а затем воспользоваться этой областью для сопоставления этих элементов элементам управления содержимым в документе Word. Область **Сопоставление XML** можно открыть на вкладке **Разработчик** (для получения дополнительных сведений см. в разделе [Отображение вкладки разработчика на ленте](/visualstudio/vsto/how-to-show-the-developer-tab-on-the-ribbon)).  
+ В Word следует открыть пользовательскую XML-часть в области **Сопоставление XML**, а затем воспользоваться этой областью для сопоставления этих элементов элементам управления содержимым в документе Word. Область **Сопоставление XML** можно открыть на вкладке **Разработчик** (для получения дополнительных сведений см. в разделе [Отображение вкладки разработчика на ленте](https://go.microsoft.com/fwlink/?LinkID=389631)).  
   
- Элементы в области **Сопоставление XML** отображается в структуре, схожей с XML-источником. Поля меток группируются под общим элементом **Метки**, а элементы данных и столбцы упорядочены в иерархическую структуру, соответствующую источнику XML, где столбцы отображаются в алфавитном порядке. Элементы идентифицируются по имени столбца, как определено в наборе данных отчета в коде AL. Для получения дополнительной информации см. раздел [Определение набора данных отчета](/dynamics365/business-central/dev-itpro/developer/devenv-report-dataset).  
+ Элементы в области **Сопоставление XML** отображается в структуре, схожей с XML-источником. Поля меток группируются под общим элементом **Метки**, а элементы данных и столбцы упорядочены в иерархическую структуру, соответствующую источнику XML, где столбцы отображаются в алфавитном порядке. Элементы идентифицируются по имени, как определено свойством "Имя" в конструкторе наборов данных отчетов в ADD INCLUDE<!--[!INCLUDE[nav_dev_short](../../includes/nav_dev_short_md.md)]-->.  
   
  На приведенном ниже рисунке изображена простая пользовательская XML-часть из предыдущего раздела в области **Сопоставление XML** документа Word.  
   
- ![Фрагмент области "Сопоставление XML" в Word.](media/nav_reportlayout_xmlmappingpane.png "NAV_ReportLayout_XMLMappingPane")  
+ ![Фрагмент области "Сопоставление XML" в Word](media/nav_reportlayout_xmlmappingpane.png "NAV_ReportLayout_XMLMappingPane")  
   
 -   Для добавления метки или поля в макет вставьте элемент управления содержимым, соответствующий элементу в области **Сопоставление XML**.  
   
@@ -119,10 +119,7 @@ ms.locfileid: "7865342"
   
 -   Для меток фактический текст, отображаемый в созданном отчете, — это значение свойства **Заголовок** для поля в таблице элементов данных (если метка связана со столбцом в наборе данных отчета) или для метки в конструкторе меток отчетов (если метка не связана со столбцом в наборе данных).  
   
--   Язык метки, отображаемый при выполнении отчета, зависит от настройки языка объекта отчета.  
+-   Язык метки, отображаемый при выполнении отчета, зависит от настройки языка объекта отчета. <!--OnPrem For more information, see [Multiple Document Languages](../FullExperience/Viewing%20the%20Application%20in%20Different%20Languages.md).-->  
   
 ## <a name="see-also"></a>См. также  
  [Создание и изменение пользовательского макета отчета](ui-how-create-custom-report-layout.md)   
-
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]

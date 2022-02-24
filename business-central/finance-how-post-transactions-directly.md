@@ -1,22 +1,21 @@
 ---
-title: Запись расходов или доходов непосредственно в ГК
-description: Для бизнес-операций, которые не представлены документами, можно создавать соответствующие транзакции путем учета строк журналов на странице финансового журнала.
+title: Запись расходов или доходов непосредственно в ГК | Документация Майкрософт
+description: Для бизнес-операций, которые не представлены документами, например небольшими расходами или наличными поступлениями, можно создавать соответствующие транзакции путем учета строк журналов на странице финансового журнала.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: conceptual
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: direct posting, general ledger
-ms.search.form: 39, 251
-ms.date: 06/16/2021
-ms.author: edupont
-ms.openlocfilehash: f8a11cf0efb34863c4d2ddf7519847e27f5a2001
-ms.sourcegitcommit: 2ab6709741be16ca8029e2afadf19d28cf00fbc7
+ms.date: 04/01/2020
+ms.author: sgroespe
+ms.openlocfilehash: f0c1efcee7db0239efa739dd0ea8d8ce45e2dbd7
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/14/2022
-ms.locfileid: "7973470"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3183960"
 ---
 # <a name="post-transactions-directly-to-the-general-ledger"></a>Учет транзакций непосредственно в главной книге
 
@@ -30,7 +29,7 @@ ms.locfileid: "7973470"
 
 ## <a name="to-post-a-transaction-directly-to-a-general-ledger-account"></a>Учет транзакции непосредственно на счете главной книге
 
-1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Финансовые журналы**, а затем выберите связанную ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Финансовые журналы**, затем выберите соответствующую ссылку.
 2. Откройте соответствующий раздел финансового журнала. Дополнительные сведения см. в разделе [Работа с финансовыми журналами](ui-work-general-journals.md).
 3. На новой строке журнала заполните поля, как требуется. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]    
 
@@ -48,7 +47,4 @@ ms.locfileid: "7973470"
 [Регистрация и возмещение расходов сотрудников](finance-how-record-reimburse-employee-expenses.md)  
 [Сторнирование учета в журнале и отмена приходных/расходных накладных](finance-how-reverse-journal-posting.md)  
 [Финансы](finance.md)  
-[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
-
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]
+[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  

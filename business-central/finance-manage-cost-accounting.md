@@ -3,19 +3,19 @@ title: Учет по затратам | Документация Майкрос�
 description: Учета затрат помогает оценить затраты на ведение бизнеса. Чтобы начать учет затрат, см. следующие разделы.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: conceptual
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2021
-ms.author: edupont
-ms.openlocfilehash: 6505633f7535ed2b9f36d6670d4fdc1d6a6c4172
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.date: 04/01/2020
+ms.author: sgroespe
+ms.openlocfilehash: 9539cbf3926a782bdaaf49a7054358e653c5e1ac
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5788181"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3183024"
 ---
 # <a name="accounting-for-costs"></a>Учет по затратам
 Учета затрат помогает оценить затраты на ведение бизнеса. Чтобы начать учет затрат, см. следующие разделы.  
@@ -35,7 +35,4 @@ ms.locfileid: "5788181"
 ## <a name="see-also"></a>См. также  
 [Финансы](finance.md)  
 [Управление себестоимостью товаров](finance-manage-inventory-costs.md)  
-[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
-
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]
+[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

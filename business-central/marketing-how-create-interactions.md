@@ -1,23 +1,23 @@
 ---
-title: Создание взаимодействий для контактов и сегментов
+title: Создание взаимодействий для контактов и сегментов | Документация Майкрософт
 description: Описывается, как создавать взаимодействия ваших коммуникаций с контактами и сегментами в Business Central, например прямые почтовые рассылки.
+services: project-madeira
 documentationcenter: ''
 author: jswymer
 ms.service: dynamics365-business-central
-ms.topic: conceptual
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: relationship, prospect
-ms.search.forms: 5077, 5078, 5074, 5076, 5186, 5075, 5079
-ms.date: 04/01/2021
+ms.date: 04/01/2020
 ms.author: jswymer
-ms.openlocfilehash: 73e8b515b62ac1334b6c156ff4330fc46b7a7414
-ms.sourcegitcommit: 189bf08d7ddf6c8b7ef2c09058c6847aa6e590d3
+ms.openlocfilehash: 79b92b3e7be6f226fb6c32a55e2ec37a4ac6a363
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/31/2022
-ms.locfileid: "8059808"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3181560"
 ---
 # <a name="create-interactions-on-contacts-and-segments"></a>Создание взаимодействий для контактов и сегментов
 Можно создавать взаимодействия для того, чтобы регистрировать все взаимодействия и коммуникации с контактами и сегментами, например, прямые почтовые рассылки.
@@ -38,7 +38,7 @@ ms.locfileid: "8059808"
 3. Выберите взаимодействие, которое требуется завершить, а затем выберите действие **Возобновить**.
 
 ## <a name="to-create-an-interaction-on-a-segment"></a>Создание взаимодействия для сегмента
-1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Сегменты**, а затем выберите связанную ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Сегменты**, затем выберите соответствующую ссылку.
 2. На странице **Сегмент** в разделе **Взаимодействие** заполните поля, чтобы указать, какое взаимодействие следует назначить сегменту.
 
     После назначения взаимодействия сегменту можно персонализировать взаимодействие для каждого отдельного контакта внутри сегмента, например, выбрав другой шаблон взаимодействия в строках страницы **Сегмент**.  
@@ -54,6 +54,3 @@ ms.locfileid: "8059808"
 [Управление контактами](marketing-contacts.md)  
 [Управление возможностями продаж](marketing-manage-sales-opportunities.md)  
 [Работа с Business Central](ui-work-product.md)
-
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]

@@ -1,28 +1,28 @@
 ---
-title: Планирование сервисных процессов
-description: В этой теме описываются задачи по настройке правил и значений для определения политик и процессов сервиса.
+title: Планирование сервисных процессов | Документация Майкрософт
+description: Описываются задачи по настройке правил и значений для определения политик и процессов сервиса.
 services: project-madeira
 documentationcenter: ''
 author: bholtorf
 ms.service: dynamics365-business-central
-ms.topic: conceptual
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: service, work hours, configure, price, pricing
-ms.date: 06/23/2021
+ms.date: 04/01/2020
 ms.author: bholtorf
-ms.openlocfilehash: 93dfc313521d392b3585eac4aacab3c152a43c78
-ms.sourcegitcommit: e562b45fda20ff88230e086caa6587913eddae26
+ms.openlocfilehash: 4e3e879a2f768e8260693d160c419b006159ed46
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "6323006"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3192487"
 ---
 # <a name="planning-services"></a>Планирование сервисов
-С помощью [!INCLUDE[prod_short](includes/prod_short.md)] можно настраивать стандартные задачи, необходимые для выполнения требований службы поддержки клиентов. Для этого необходимо определить, какие сервисные товары и предложения поддерживает ваша сервисная организация, и по какой цене.   
+С помощью [!INCLUDE[d365fin](includes/d365fin_md.md)] можно настраивать стандартные задачи, необходимые для выполнения требований службы поддержки клиентов. Для этого необходимо определить, какие сервисные товары и предложения поддерживает ваша сервисная организация, и по какой цене.   
 
-[!INCLUDE[prod_short](includes/prod_short.md)] также обеспечивает некоторые статистические инструменты, которые можно использовать для определения того, насколько хорошо идут дела, и выявления областей, в которых возможны улучшения.
+[!INCLUDE[d365fin](includes/d365fin_md.md)] также обеспечивает некоторые статистические инструменты, которые можно использовать для определения того, насколько хорошо идут дела, и выявления областей, в которых возможны улучшения.
   
 В следующей таблице приводится последовательность задач со ссылками на разделы, в которых они описываются.   
   
@@ -41,6 +41,3 @@ ms.locfileid: "6323006"
 [Настройка сервисных товаров и компонентов сервисных товаров](service-how-setup-service-items.md)  
 [Настройка статусов для сервисных заказов и ремонтных работ](service-order-repair-status.md)  
 [Настройка управления сервисным обслуживанием](service-setup-service.md)  
-
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]

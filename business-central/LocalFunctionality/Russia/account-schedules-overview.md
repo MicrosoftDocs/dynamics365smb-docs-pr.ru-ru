@@ -3,17 +3,17 @@ title: Обзор финансовых отчетов в России
 description: Российские улучшения включают обзор финансовых отчетов.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: overview
+ms.topic: article
 ms.search.keywords: ''
-ms.date: 04/01/2021
+ms.date: 04/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 10c78ea97122719c09ac215e720872dc5d75a2f5
-ms.sourcegitcommit: 8464b37c4f1e5819aed81d9cfdc382fc3d0762fc
+ms.openlocfilehash: ddccd82f1598b9d91fcd91986a10aa2c9cfd1bf9
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/19/2022
-ms.locfileid: "8011511"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3180980"
 ---
 # <a name="account-schedules-overview"></a>Обзор финансовых отчетов
 
@@ -38,6 +38,3 @@ ms.locfileid: "8011511"
 [Определение расширения финансового отчета](How-to-Define-an-Account-Schedule-Extension.md)  
 [Определение константы финансового отчета](How-to-Define-an-Account-Schedule-Constant.md)  
 [Работа с финансовыми отчетами](How-to-Work-with-Account-Schedules.md)  
-
-
-[!INCLUDE[footer-include](../../includes/footer-banner.md)]

@@ -1,22 +1,21 @@
 ---
-title: Блокировка поставщиков
-description: Прочитайте, как заблокировать включение поставщиков в какие-либо транзакции или как просто заблокировать новые платежи им.
+title: Как заблокировать покупки от поставщиков
+description: Вы можете заблокировать включение поставщиков в какие-либо транзакции или просто заблокировать новые платежи им.
 author: bholtorf
 ms.service: dynamics365-business-central
-ms.topic: conceptual
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.search.form: 27
-ms.date: 06/22/2021
+ms.date: 01/14/2020
 ms.author: bholtorf
-ms.openlocfilehash: 2088f6ccc64c3827250878c8f7b1027600f7f558
-ms.sourcegitcommit: e008b3d7003c256475d6c606e5f7c9866a6bbb72
+ms.openlocfilehash: f28d1c11889d496072d57cfdb70f3c743037bff3
+ms.sourcegitcommit: ead69ebe5b29927876a4fb23afb6c066f8854591
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/10/2022
-ms.locfileid: "7953139"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "2954286"
 ---
 # <a name="block-vendors"></a>Блокировка поставщиков
 Можно заблокировать поставщика, например из-за несостоятельности, чтобы этого поставщика нельзя было добавить в документы покупки или чтобы никакие платежи не могли быть учтены для этого поставщика.
@@ -30,7 +29,7 @@ ms.locfileid: "7953139"
 |**Все**|Все транзакции запрещены для данного поставщика.|  
 
 ## <a name="to-block-a-vendor"></a>Для блокировки поставщика  
-1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Поставщики**, а затем выберите связанную ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Поставщики**, затем выберите соответствующую ссылку.
 2. Выберите поставщика, которого требуется заблокировать.
 3. В поле **Заблокировано** выберите один из вариантов блокировки.
 
@@ -38,6 +37,3 @@ ms.locfileid: "7953139"
 [Регистрация новых поставщиков](purchasing-how-register-new-vendors.md)  
 [Осуществление платежей](payables-make-payments.md)  
 [Управление кредиторской задолженностью](payables-manage-payables.md)
-
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]

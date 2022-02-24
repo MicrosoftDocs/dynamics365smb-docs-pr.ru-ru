@@ -3,21 +3,21 @@ title: Основные средств в России
 description: Российские улучшения включают основные средства.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: overview
+ms.topic: article
 ms.search.keywords: ''
-ms.date: 04/01/2021
+ms.date: 04/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: aed206bdda306e29db4557642be06d1ee0f57841
-ms.sourcegitcommit: 8464b37c4f1e5819aed81d9cfdc382fc3d0762fc
+ms.openlocfilehash: 9fdb92290405fa59e557ef1620a37b21dd086323
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/19/2022
-ms.locfileid: "8011659"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3180972"
 ---
 # <a name="overview---fixed-assets"></a>Обзор — основные средства
 
-В России имеются особые функции [!INCLUDE[prod_short](../../includes/prod_short.md)] для отслеживания и управления основными средствами. С помощью функций основных средств можно управлять амортизацией и стоимостью обслуживания, отслеживать перемещения основных средств, управлять их продажей и реализацией, а также формировать различные отчеты и статистику.
+В России имеются особые функции [!INCLUDE[prodshort](../../includes/prodshort.md)] для отслеживания и управления основными средствами. С помощью функций основных средств можно управлять амортизацией и стоимостью обслуживания, отслеживать перемещения основных средств, управлять их продажей и реализацией, а также формировать различные отчеты и статистику.
 
 ## <a name="getting-started-with-fixed-assets"></a>Начало работы с основными средствами
 
@@ -43,6 +43,3 @@ ms.locfileid: "8011659"
 | [Настройка счета нематериальных активов](How-to-Set-Up-an-Intangible-Assets-Account.md)           | Позволяет учитывать транзакции с нематериальными активами на специальном счете. |
 | [Учет себестоимости реализации основного средства](How-to-Account-for-the-Cost-to-Dispose-a-Fixed-Asset.md) | Позволяет учитывать себестоимость реализации основного средства как расходы. |
 | [Малоценные основные средства](Undepreciable-Fixed-Assets.md)                            | Позволяет признавать окончательную себестоимость основного средства в момент приобретения. |
-
-
-[!INCLUDE[footer-include](../../includes/footer-banner.md)]

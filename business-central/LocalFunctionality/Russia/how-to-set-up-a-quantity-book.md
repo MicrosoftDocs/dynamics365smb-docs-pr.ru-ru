@@ -3,17 +3,17 @@ title: Настройка книг количественного учета в 
 description: Русские улучшения включают книги количественного учета.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: conceptual
+ms.topic: article
 ms.search.keywords: ''
-ms.date: 04/01/2021
+ms.date: 04/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 97d90cc6019b34f607f541502560f20dc3ac8dd9
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 3cbc789fa4e44dd02947421cad753691a6ec66dc
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6442639"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3180946"
 ---
 # <a name="set-up-a-quantity-book"></a>Настройка книги количественного учета
 
@@ -21,10 +21,10 @@ ms.locfileid: "6442639"
 
 ## <a name="to-set-up-a-quantity-book"></a>Настройка книги количественного учета
 
-1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../../media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Книги амортизации**, а затем выберите связанную ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Книги амортизации**, затем выберите соответствующую ссылку.
 2. В поле **Тип книги учета** выберите **Аналитическая**.
 3. На экспресс-вкладке **Интеграция** проверьте, что никакие параметры не выбраны.
-4. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../../media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Настройка ОС**, а затем выберите связанную ссылку.
+4. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка ОС**, затем выберите соответствующую ссылку.
 5. В поле **Книга аморт. - количеств.** введите код созданной книги амортизации.
 6. Нажмите кнопку **ОК**.
 
@@ -32,6 +32,3 @@ ms.locfileid: "6442639"
 
 [Малоценные основные средства](Undepreciable-Fixed-Assets.md)  
 [Основные Средства](fixed-assets.md)  
-
-
-[!INCLUDE[footer-include](../../includes/footer-banner.md)]

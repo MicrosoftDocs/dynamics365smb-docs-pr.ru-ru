@@ -1,29 +1,30 @@
 ---
-title: Обзор задач по настройке процессов продажи
-description: Обзор задач, необходимых для настройки правил и значений, которые определяют ваши политики и процессы продаж, включая общую настройку и настройку продаж, связанных с финансами.
+title: Обзор задач по настройке процессов продаж | Документация Майкрософт
+description: Описываются задачи по настройке правил и значений для определения политик и процессов продаж.
+services: project-madeira
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: overview
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: trade, sell, configure
-ms.search.form: 170, 172, 300, 301, 428, 456, 459, 1401
-ms.date: 06/23/2021
-ms.author: edupont
-ms.openlocfilehash: 63d9357d29fbfdc3c230c69602fd370c5d73f21b
-ms.sourcegitcommit: c05806689d289d101bd558696199cefbd989473e
+ms.date: 01/13/2020
+ms.author: sgroespe
+ms.openlocfilehash: d19d02cb770efb32441d4b1282789a92deea41a0
+ms.sourcegitcommit: ead69ebe5b29927876a4fb23afb6c066f8854591
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2022
-ms.locfileid: "8115454"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "2953399"
 ---
 # <a name="setting-up-sales"></a>Настройка продаж
 Прежде чем приступать к управлению процессами продажи, необходимо настроить правила и значения, которые определяют политики продажи в организации.
 
-Вы должны определить общие настройки на странице **Продажи и дебиторская задолженность**, например, какие документы продажи требуются, как учитываются их значения и тип строк, которые нужно создать по умолчанию. Эта общая настройка обычно выполняется один раз в ходе начального внедрения.
+Необходимо определить общие параметры настройки, например необходимые документы продажи и порядок учета их значений. Эта общая настройка обычно выполняется один раз в ходе начального внедрения.
 
-Отдельная серия задач, связанных с регистрацией новых клиентов, заключается в регистрации любых соглашений по цене и предоставлению скидок, заключенных с каждым клиентом. Дополнительные сведения см. в разделе [Регистрация специальных цен продажи и скидок](sales-how-record-sales-price-discount-payment-agreements.md).
+Отдельная серия задач, связанных с регистрацией новых клиентов, заключается в регистрации любых соглашений по цене и предоставлению скидок, заключенных с каждым клиентом.
 
 Настройка параметров продаж, связанных с финансами, например способов оплаты и валют, рассмотрены в разделе "Настройка финансов". Дополнительные сведения см. в разделе [Настройка финансов](finance-setup-finance.md).
 
@@ -38,13 +39,9 @@ ms.locfileid: "8115454"
 |Использование веб-службы ЕС для проверки ИНН клиента.|[Проверка регистрационных номеров НДС](finance-setup-vat.md)|
 |Определите различные условия, которые вы предлагаете клиентам или которые предлагают вам ваши поставщики.|[Настройка методов отгрузки](sales-how-set-up-shipment-methods.md)|
 |Ввести сведения о различных используемых перевозчиках, включая ссылки на их службу отслеживания пакетов.|[Настройка экспедиторов](sales-how-to-set-up-shipping-agents.md)|
-|Укажите отчеты по умолчанию, которые будут использоваться для различных типов документов.|[Выбор отчета в Business Central](across-report-selections.md)|
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/trade-get-started-dynamics-365-business-central/)
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/trade-get-started-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 [Продажи](sales-manage-sales.md)  
-[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
-
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]
+[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

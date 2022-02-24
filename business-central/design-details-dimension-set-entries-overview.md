@@ -1,24 +1,24 @@
 ---
-title: Обзор записей набора измерений
-description: В этой статье дается обзор того, как записи набора измерений хранятся как записи набора измерений и как они разносятся.
+title: Обзор записей набора измерений | Документация Майкрософт
+description: В этом разделе описывается, как операции набора измерений хранятся и учитываются в Dynamics 365.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: overview
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: dimension
-ms.date: 06/14/2021
-ms.author: edupont
-ms.openlocfilehash: 8196cf08b5e4bf410d9682a30e714cb8c4522e17
-ms.sourcegitcommit: 8464b37c4f1e5819aed81d9cfdc382fc3d0762fc
+ms.date: 04/01/2020
+ms.author: sgroespe
+ms.openlocfilehash: f35184a6a69ed0fa1ccd504525a19af6bd9c5955
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/19/2022
-ms.locfileid: "8011683"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3185520"
 ---
 # <a name="dimension-set-entries-overview"></a>Обзор записей набора измерений
-В этом разделе описывается, как операции набора измерений хранятся и учитываются в [!INCLUDE[prod_short](includes/prod_short.md)].  
+В этом разделе описывается, как операции набора измерений хранятся и учитываются в [!INCLUDE[d365fin](includes/d365fin_md.md)].  
 
 ## <a name="dimension-sets"></a>Наборы измерений  
 Набор измерений — это уникальная комбинация значений измерений. Это храниться как записи набора измерений в базе данных. Каждая запись набора измерений представляет отдельное значение измерения. Набор измерений определяется общим кодом набора измерений, который присваивается каждой операции набора измерений, которая относится к набору измерений.  
@@ -34,7 +34,7 @@ ms.locfileid: "8011683"
 ## <a name="dimension-set-entries"></a>Записи набора измерений  
 Наборы измерений сохраняются в таблице **Запись набора измерений** в виде записей набора измерений с одинаковым кодом набора измерений.  
 
-![Поток записей набора измерений.](media/dimensionentrynav7.png "Поток записей набора измерений")  
+![Поток записей набора измерений](media/dimensionentrynav7.png "Поток записей набора измерений")  
 
 При создании новой строки журнала, заголовка документа или строки документа можно указать комбинации значений измерений. Вместо явного сохранения значения каждого измерения в базе данных, код набора измерений присваивается строке журнала, заголовку документа или строке документа для определения набора измерений.  
 
@@ -46,10 +46,7 @@ Codeunit 408, Dimension Management, — это библиотека функци
 ## <a name="performance-improvement"></a>Повышение производительности  
 При сохранении наборов измерений один раз в базе данных экономится пространство БД и улучшается общая производительность.  
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также  
 [Сведения о проектировании: поиск комбинаций измерений](design-details-searching-for-dimension-combinations.md)   
 [Сведения о проектировании: структура таблицы](design-details-table-structure.md)   
 [Сведения о проектировании: операции набора измерений](design-details-dimension-set-entries.md)   
-
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]

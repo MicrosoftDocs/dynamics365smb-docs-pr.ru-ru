@@ -1,21 +1,21 @@
 ---
-title: Сведения о проектировании — округление
-description: Округление остатков может быть выполнено при переоценке себестоимости расхода склада, измеренного при количестве, отличном от соответствующего прихода склада.
+title: Сведения о проектировании — округление | Документация Майкрософт
+description: Округление остатков может быть выполнено при переоценке себестоимости расхода склада, измеренного при количестве, отличном от соответствующего прихода склада. Округление остатков рассчитываются для всех методов учета себестоимости при выполнении пакетного задания **Коррекция себест. запасов**.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: conceptual
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 06/08/2021
-ms.author: edupont
-ms.openlocfilehash: 518433903f06c255c80dbba6d7e2982974a325a1
-ms.sourcegitcommit: e562b45fda20ff88230e086caa6587913eddae26
+ms.date: 04/01/2020
+ms.author: sgroespe
+ms.openlocfilehash: b5185b7cc70e6b57a4641cbcd3b45cbf9682285d
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "6318438"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3184752"
 ---
 # <a name="design-details-rounding"></a>Сведения о проектировании: округление
 Округление остатков может быть выполнено при переоценке себестоимости расхода склада, измеренного при количестве, отличном от соответствующего прихода склада. Округление остатков рассчитываются для всех методов учета себестоимости при выполнении пакетного задания **Коррекция себест. запасов**.  
@@ -64,7 +64,4 @@ ms.locfileid: "6318438"
  [Сведения о проектировании: коррекция себестоимости](design-details-cost-adjustment.md)   
  [Сведения о проектировании: методы учета себестоимости](design-details-costing-methods.md) [Управление себестоимостью товаров](finance-manage-inventory-costs.md)  
  [Финансы](finance.md)  
- [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
-
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]
+ [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

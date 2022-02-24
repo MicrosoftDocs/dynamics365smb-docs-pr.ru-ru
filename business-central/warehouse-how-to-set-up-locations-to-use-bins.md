@@ -1,21 +1,23 @@
 ---
-title: Как настраивать склады для использования ячеек
-description: Ячейки являются базовой складской структурой и используются для формирования предложений по размещению и складированию товаров.
+title: Как настраивать склады для использования ячеек | Документация Майкрософт
+description: Ячейки являются базовой складской структурой и используются для формирования предложений по размещению товаров. После создания ячеек можно четко определить содержимое для помещения в каждую ячейку; ячейка может также функционировать в качестве плавающей ячейки без определенного содержимого.
+services: project-madeira
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: conceptual
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 06/25/2021
-ms.author: edupont
-ms.openlocfilehash: 29ee70ffa50b018073b8f44a66588df3d822b5cc
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.date: 10/01/2019
+ms.author: sgroespe
+ms.openlocfilehash: f2d7ecc163737c103c91b2a28a6a8072fad89279
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6442958"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2310184"
 ---
 # <a name="set-up-locations-to-use-bins"></a>Настройка складов для использования ячеек
 Ячейки являются базовой складской структурой и используются для формирования предложений по размещению товаров. После создания ячеек можно четко определить содержимое для помещения в каждую ячейку; ячейка может также функционировать в качестве плавающей ячейки без определенного содержимого.  
@@ -26,7 +28,7 @@ ms.locfileid: "6442958"
 >  Прежде чем можно будет указать коды ячеек в карточке склада, эти коды ячеек необходимо создать. Дополнительные сведения см. в разделе [Создание ячеек](warehouse-how-to-create-individual-bins.md).  
 
 ## <a name="to-set-up-a-location-to-use-bins"></a>Настройка склада для использования ячеек  
-1.  Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Склады**, а затем выберите связанную ссылку.  
+1.  Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Склады**, а затем выберите соответствующую ссылку.  
 2.  Выберите расположение, где необходимо использовать ячейки.  
 3.  Выберите действие **Изменить**.  
 4.  На экспресс-вкладке **Склад** установите флажок **Ячейка обязательна**.  
@@ -41,15 +43,12 @@ ms.locfileid: "6442958"
 ## <a name="filling-the-consumption-bin"></a>Заполнение ячейки потребления
 Эта блок-схема показывает, как поле **Код ячейки** в строках компонентов производственного заказа заполняется в соответствии с настройкой склада.
 
-![Диаграмма ячейки.](media/binflow.png "BinFlow")  
+![Диаграмма ячейки](media/binflow.png "BinFlow")  
 
 ## <a name="see-also"></a>См. также
 [Управление складом](warehouse-manage-warehouse.md)  
-[Запасы](inventory-manage-inventory.md)  
-[Настройка Warehouse Management](warehouse-setup-warehouse.md)     
+[Наличие](inventory-manage-inventory.md)  
+[Настройка управления складом](warehouse-setup-warehouse.md)     
 [Управление сборкой](assembly-assemble-items.md)    
 [Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
-[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
-
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]
+[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

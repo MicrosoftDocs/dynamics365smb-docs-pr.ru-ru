@@ -2,15 +2,15 @@
 title: Учебный каталог бизнес-пользователей
 description: Найти все доступное обучение для Business Central.
 author: loreleishannonmsft
-ms.date: 04/01/2021
-ms.topic: conceptual
-ms.author: margoc
-ms.openlocfilehash: fd0b839e402ff59ec5fb875d026eb5fe2202850e
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.date: 04/20/2020
+ms.topic: article
+ms.author: v-lshann
+ms.openlocfilehash: 2076c0b3cf17167bea654e136be98c6cb9522718
+ms.sourcegitcommit: 99915b493a7e49d12c530f2f9fda1fcedb518b6e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5772433"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "3271946"
 ---
 # <a name="business-users-learning-catalog"></a>Учебный каталог бизнес-пользователей
 
@@ -48,6 +48,3 @@ ms.locfileid: "5772433"
 | [Возврат товаров в Microsoft Dynamics 365 Business Central](/learn/paths/return-items-dynamics-365-business-central/)                                                   | Вам нужно вернуть товары поставщикам и принять возврат от клиентов? Этот путь поможет вам научиться обрабатывать возвраты.                                                                                                                                                                         | Бесплатный путь онлайн-обучения в произвольном темпе | 1 час 25 минут  |
 | [Пополнение товаров в Microsoft Dynamics 365 Business Central](/learn/paths/replenish-items-dynamics-365-business-central/)                                             | Вам нужно пополнить запасы в вашем бизнесе? Этот путь обучения покажет вам варианты, которые вы можете использовать для эффективного пополнения запасов в Business Central.                                                                                                                                     | Бесплатный путь онлайн-обучения в произвольном темпе | 1 час 46 минут  |
 | [Сборка товаров в Microsoft Dynamics 365 Business Central](/learn/paths/assemble-items-dynamics-365-business-central/)                                               | Вы продаете собранные товары? Этот путь обучения предоставляет информацию, необходимую для управления сборкой и товарами. Он также предоставляет шаги для производства собранных изделий на склад или на заказ.                                                                                                                | Бесплатный путь онлайн-обучения в произвольном темпе | 2 часа 26 минут |
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -3,21 +3,21 @@ title: Планирование отпусков в России
 description: Российские улучшения включают управление отпусками.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: conceptual
+ms.topic: article
 ms.search.keywords: ''
-ms.date: 04/01/2021
+ms.date: 04/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: a8f975007ceff1465d701069130cee5a39b3bb86
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: d2bd307e7bcb5abde172d74aab563a3a40c1793c
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5782189"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3180983"
 ---
 # <a name="vacation-planning"></a>Планирование отпусков
 
-В [!INCLUDE[prod_short](../../includes/prod_short.md)] имеется график отпусков на календарный год:
+В [!INCLUDE[prodshort](../../includes/prodshort.md)] имеется график отпусков на календарный год:
 
 1. Выберите **Персонал и зарплата > Планирование отпусков > График отпусков**.
 2. Чтобы создать график отпусков, создайте новый график, указав в поле **Год** календарный год, на который составляется график. В поле **Описание** содержится название графика.
@@ -35,6 +35,3 @@ ms.locfileid: "5782189"
 ## <a name="see-also"></a>См. также
 
 [Персонал](Human-Resources.md)  
-
-
-[!INCLUDE[footer-include](../../includes/footer-banner.md)]

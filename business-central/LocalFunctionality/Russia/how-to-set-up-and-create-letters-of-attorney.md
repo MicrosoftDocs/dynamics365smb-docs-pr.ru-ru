@@ -3,17 +3,17 @@ title: Настройка и создание доверенностей в Ро
 description: Российские усовершенствования включают создание и печать доверенностей.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: conceptual
+ms.topic: article
 ms.search.keywords: ''
-ms.date: 04/01/2021
+ms.date: 04/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 6caff9fc09a7dff34e80e84d1dd0919a0988c860
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 432a71dd662719b6ac424490be44efb949c86c52
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6442635"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3180949"
 ---
 # <a name="set-up-and-create-letters-of-attorney"></a>Создание и настройка доверенности
 
@@ -25,7 +25,7 @@ ms.locfileid: "6442635"
 
 ## <a name="to-set-up-a-letter-of-attorney"></a>Настройка доверенности 
 
-1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../../media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Настройка модуля "Покупки и кредиторская задолженность"**, а затем выберите связанную ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка модуля "Покупки и кредиторская задолженность"**, затем выберите соответствующую ссылку.
 2. На экспресс-вкладке **Фоновая разноска** заполните поля **Серия номеров доверенностей** и **Серия номеров выпущенных доверенностей**.
 3. Нажмите кнопку **ОК**.
 
@@ -33,7 +33,7 @@ ms.locfileid: "6442635"
 
 ## <a name="to-create-a-letter-of-attorney"></a>Создание доверенности 
 
-1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../../media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Доверенности**, а затем выберите связанную ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Доверенности**, затем выберите соответствующую ссылку.
 
 2. Создайте новый документ и заполните поля в следующей таблице.
 
@@ -59,6 +59,3 @@ ms.locfileid: "6442635"
 ## <a name="see-also"></a>См. также
 
 [Настройка материально-ответственных сотрудников и авансовых отчетов](How-to-Set-Up-Responsible-Employees-and-Advance-Statements.md)  
-
-
-[!INCLUDE[footer-include](../../includes/footer-banner.md)]

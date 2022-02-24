@@ -3,19 +3,19 @@ title: Как преобразовать существующие местопо
 description: Существующее расположение инвентарного учета можно настроить на использование зон и ячеек и функционирование в качестве склада.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: conceptual
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2021
-ms.author: edupont
-ms.openlocfilehash: d5b7d3bc1f83543fa5b7b3c06acae2ddbe9fa8b4
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.date: 04/01/2020
+ms.author: sgroespe
+ms.openlocfilehash: 3b02c3d49485ecda07ee85a350b7f45541a94a06
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6445851"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3193255"
 ---
 # <a name="convert-existing-locations-to-warehouse-locations"></a>Преобразование существующих местоположений в размещения для складов
 Существующее расположение инвентарного учета можно настроить на использование зон и ячеек и функционирование в качестве склада.  
@@ -28,7 +28,7 @@ ms.locfileid: "6445851"
 >  Чтобы очистить все запасы с отрицательным значением и открытые складские документы, прежде чем изменить местоположение для складской обработки, создайте отчет для выявления на этом складе товаров с отрицательным значением и открытых складских документов. Дополнительные сведения см. в разделе Проверка на отрицательные остатки.  
 
 ## <a name="to-enable-an-existing-location-to-operate-as-a-warehouse-location"></a>Включение функционирования существующего расположения в качестве складской площадки  
-1.  Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Создать склад**, а затем выберите связанную ссылку.  
+1.  Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Создать склад**, затем выберите соответствующую ссылку.  
 2.  В поле **Код склада** укажите местоположение, которое требуется включить для обработки склада.  
 3.  В поле **Код ячейки коррекции** укажите ячейку на складе, где хранятся несинхронизированные складские операции. Дополнительные сведения см. в разделе [Синхронизация скорректированных складских операций с соответствующими операциями книги товаров](inventory-how-count-adjust-reclassify.md#to-synchronize-the-adjusted-warehouse-entries-with-the-related-item-ledger-entries).  
 
@@ -48,7 +48,4 @@ ms.locfileid: "6445851"
 [Настройка управления складом](warehouse-setup-warehouse.md)     
 [Управление сборкой](assembly-assemble-items.md)    
 [Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
-[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
-
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]
+[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

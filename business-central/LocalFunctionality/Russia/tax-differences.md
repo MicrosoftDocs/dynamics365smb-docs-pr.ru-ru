@@ -3,23 +3,23 @@ title: Налоговые разницы в России
 description: Российские усовершенствования включают управление налоговыми разницами.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: conceptual
+ms.topic: article
 ms.search.keywords: ''
-ms.date: 04/01/2021
+ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: c62aac6dd9b9675a76851a7fa3074a482307d1bb
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 9ce5d6e960bbcff7951d6c214861e9ef880b5435
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5781393"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2301120"
 ---
 # <a name="tax-differences"></a>Налоговые разницы
 
 Налоговые разницы представляют собой расхождения сумм налога, вызванные различиями в правилах признания доходов и расходов в бухгалтерском и налоговом учете. 
 
-В [!INCLUDE[prod_short](../../includes/prod_short.md)] можно настроить регистры налоговых разниц и журналы налоговых разниц для отслеживания и управления разницами между суммами бухгалтерского и налогового учета.
+В [!INCLUDE[prodshort](../../includes/prodshort.md)] можно настроить регистры налоговых разниц и журналы налоговых разниц для отслеживания и управления разницами между суммами бухгалтерского и налогового учета.
 
 ## <a name="preparing-the-chart-of-accounts"></a>Подготовка плана счетов
 
@@ -42,6 +42,3 @@ ms.locfileid: "5781393"
 [Регистры налоговых разниц](Tax-Difference-Registers.md)  
 [Налоговый учет](Tax-Accounting.md)  
 [Налоговые регистры](Tax-Registers.md)  
-
-
-[!INCLUDE[footer-include](../../includes/footer-banner.md)]

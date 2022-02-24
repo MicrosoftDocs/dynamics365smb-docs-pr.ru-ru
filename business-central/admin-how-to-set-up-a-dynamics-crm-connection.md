@@ -1,242 +1,167 @@
 ---
-title: Подключение к Microsoft Dataverse (содержит видео)
-description: Настройка подключения между Business Central и Dataverse. Как правило, предприятия создают соединение для интеграции данных с другим бизнес-приложением Dynamics 365.
+title: Подключение к Microsoft Dynamics 365 Sales | Документация Майкрософт
+description: Вы можете интегрировать свою систему с Dynamics 365 Sales.
 author: bholtorf
 ms.service: dynamics365-business-central
-ms.topic: conceptual
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.search.forms: 7200, 7201
-ms.date: 09/30/2021
+ms.date: 10/01/2019
 ms.author: bholtorf
-ms.openlocfilehash: bbe27c46562fa7550619283cb85cd1d7dcc76a3c
-ms.sourcegitcommit: 189bf08d7ddf6c8b7ef2c09058c6847aa6e590d3
+ms.openlocfilehash: 73607d238e31cc42680fae008cfdf0ee143d08f3
+ms.sourcegitcommit: 3d128a00358668b3fdd105ebf4604ca4e2b6743c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/31/2022
-ms.locfileid: "8059548"
+ms.lasthandoff: 12/20/2019
+ms.locfileid: "2910740"
 ---
-# <a name="connect-to-microsoft-dataverse"></a>Подключение к Microsoft Dataverse
+# <a name="set-up-a-connection-to-dynamics-365-sales"></a>Настройка подключения к Dynamics 365 Sales
+В этом разделе описывается, как установить соединение между [!INCLUDE[d365fin](includes/d365fin_md.md)] и [!INCLUDE[crm_md](includes/crm_md.md)].
+<br><br>  
 
-
-
-В этом разделе описывается, как установить соединение между [!INCLUDE[prod_short](includes/prod_short.md)] и [!INCLUDE[cds_long_md](includes/cds_long_md.md)]. Как правило, предприятия создают соединение для интеграции и синхронизации данных с другим бизнес-приложением Dynamics 365, например [!INCLUDE[crm_md](includes/crm_md.md)].  
+> [!VIDEO https://go.microsoft.com/fwlink/?linkid=2085501]
 
 ## <a name="before-you-start"></a>Перед началом работы
-
 Перед тем, как создать соединение, необходимо подготовить несколько фрагментов информации:  
 
-* URL-адрес для среды [!INCLUDE[cds_long_md](includes/cds_long_md.md)], к которой требуется подключиться. Если вы используете мастер настройки **Настройка подключения Dataverse**, чтобы создать соединение, мы обнаружим ваши среды, но вы также можете ввести URL-адрес другой среды в своем клиенте.  
-* Имя пользователя и пароль учетной записи, которая имеет разрешения администратора в [!INCLUDE[prod_short](includes/prod_short.md)] и [!INCLUDE[cds_long_md](includes/cds_long_md.md)].  
-* Если у вас есть локальная версия [!INCLUDE[prod_short](includes/prod_short.md)] выпуска 2020, волна 1, версия 16.5, ознакомьтесь со статьей [Некоторые известные проблемы](/dynamics365/business-central/dev-itpro/upgrade/known-issues#wrong-net-assemblies-for-external-connected-services). Вам нужно будет выполнить описанный обходной метод, прежде чем вы сможете создать подключение к [!INCLUDE[cds_long_md](includes/cds_long_md.md)].
-* Местная валюта компании в [!INCLUDE[prod_short](includes/prod_short.md)] должна быть такой же, как и базовая валюта транзакции в [!INCLUDE[cds_long_md](includes/cds_long_md.md)]. После того, как базовая транзакция установлена в [!INCLUDE[cds_long_md](includes/cds_long_md.md)], это не может быть изменено. Для получения дополнительной информации см. [Сущность валюты транзакции (валюта)](/powerapps/developer/data-platform/transaction-currency-currency-entity). Это означает, что у всех компаний [!INCLUDE[prod_short](includes/prod_short.md)], которые вы подключаете к организации [!INCLUDE[cds_long_md](includes/cds_long_md.md)], должна использоваться та же валюта.
-
-> [!IMPORTANT]
-> Ваша среда [!INCLUDE[cds_long_md](includes/cds_long_md.md)] не должна находиться в режиме администрирования. Режим администрирования приведет к сбою подключения, поскольку у учетной записи пользователя интеграции для подключения нет прав администратора. Дополнительные сведения см. в разделе [Режим администрирования](/power-platform/admin/admin-mode).
+* URL-адрес для вашего приложения [!INCLUDE[crm_md](includes/crm_md.md)]. Быстрый способ получить URL-адрес — открыть [!INCLUDE[crm_md](includes/crm_md.md)] и скопировать URL-адрес, а затем вставить его в поле **URL-адрес Dynamics 365 Sales** в [!INCLUDE[d365fin](includes/d365fin_md.md)]. [!INCLUDE[d365fin](includes/d365fin_md.md)] скорректирует форматирование для вас.  
+* Имя пользователя и пароль учетной записи пользователя, которая используется для интеграции.  
+* Имя пользователя и пароль учетной записи с разрешениями администратора.  
 
 > [!Note]
-> Эти шаги описывают процедуру для [!INCLUDE[prod_short](includes/prod_short.md)] Online.
-> Если вы используете локальную версию [!INCLUDE[prod_short](includes/prod_short.md)] и не используете учетную запись Azure Active Directory для подключения [!INCLUDE [cds_long_md](includes/cds_long_md.md)], вы также должны указать имя пользователя и пароль учетной записи пользователя для интеграции. Эта учетная запись называется учетной записью "пользователя интеграции". Если вы используете учетная запись Azure Active Directory интеграция учетной записи пользователя не требуется или не отображается. Пользователь интеграции будет настроен автоматически и не потребует лицензии.
+> Эти шаги описывают процедуру для интернет-версии [!INCLUDE[d365fin](includes/d365fin_md.md)].
 
-## <a name="set-up-a-connection-to-cds_long_md"></a>Настройка подключения к [!INCLUDE[cds_long_md](includes/cds_long_md.md)]
+## <a name="set-up-test-and-enable-a-connection-to-crm_md"></a>Настройка, тестирование и активизация подключения к [!INCLUDE[crm_md](includes/crm_md.md)]  
+Для всех типов проверки подлинности, отличных от проверки подлинности Office 365, вы настраиваете подключение к Dynamics 365 Sales на странице **Настройка подключения к Microsoft Dynamics 365 Sales**. Для проверки подлинности Office 365 также можно использовать мастер настройки **Настройка подключения к Dynamics 365 Sales**, который поможет ввести необходимую информацию.
 
-Для всех типов аутентификации, отличных от аутентификации Microsoft 365, вы настраиваете подключение к [!INCLUDE[cds_long_md](includes/cds_long_md.md)] на странице **Настройка подключения к Dataverse**. Для аутентификации Microsoft 365 рекомендуется использовать мастер настройки **Настройка подключения Dataverse**. Этот мастер позволяет проще настроить подключение и указать расширенные функции, такие как модель ответственности и начальной синхронизации.  
+### <a name="to-use-an-assisted-setup-guide"></a>Использование мастера настройки
+Мастер настройки **Настройка подключения к Dynamics 365 Sales** может помочь настроить подключение и указать, требуется ли включать расширенные функции, такие как связи между записями.
 
-> [!IMPORTANT]
-> Во время настройки подключения к [!INCLUDE[cds_long_md](includes/cds_long_md.md)] администратору будет предложено предоставить следующие разрешения зарегистрированному приложению Azure с именем "Интеграция [!INCLUDE[prod_short](includes/prod_short.md)]" в [!INCLUDE[cds_long_md](includes/cds_long_md.md)]:
->
-> * Требуется разрешение **доступ [!INCLUDE[cds_long_md](includes/cds_long_md.md)] как вы**, поэтому [!INCLUDE[prod_short](includes/prod_short.md)] может от имени администратора автоматически создавать нелицензионные неинтерактивные пользователи приложения интеграции [!INCLUDE[prod_short](includes/prod_short.md)], назначьте роли безопасности этому пользователю и разверните решение для интеграции [!INCLUDE[prod_short](includes/prod_short.md)] для [!INCLUDE[cds_long_md](includes/cds_long_md.md)]. Это разрешение используется только один раз при настройке подключения к [!INCLUDE[cds_long_md](includes/cds_long_md.md)].  
-> * Требуется разрешение **Полный доступ к Dynamics 365[!INCLUDE[prod_short](includes/prod_short.md)]**, поэтому автоматически создаваемый пользователь приложения интеграции [!INCLUDE[prod_short](includes/prod_short.md)] может получить доступ к данные [!INCLUDE[prod_short](includes/prod_short.md)], которые будут синхронизированы.  
-> * Требуется разрешение **войдите и прочтите свой профиль**, чтобы убедиться, что пользователь, входящий в систему, на самом деле имеет роль администратора системы, назначенную в [!INCLUDE[cds_long_md](includes/cds_long_md.md)].  
->
-> Предоставляя согласие от имени организации, администратор дает право зарегистрированному приложению Azure, которое называется Интеграция [!INCLUDE[prod_short](includes/prod_short.md)] в [!INCLUDE[cds_long_md](includes/cds_long_md.md)] синхронизировать данные, используя автоматически созданные учетные данные пользователя приложения интеграции [!INCLUDE[prod_short](includes/prod_short.md)].
-
-### <a name="to-use-the-dataverse-connection-setup-assisted-setup-guide"></a>Использование мастера настройки подключения Dataverse
-Руководство по настройке подключения Dataverse может упростить подключение приложений и даже помочь вам выполнить первоначальную синхронизацию. Если вы выберете запуск начальной синхронизации, [!INCLUDE[prod_short](includes/prod_short.md)] проверит данные в обоих приложениях и предоставит рекомендации по подходу к начальной синхронизации. В следующей таблице описаны эти рекомендации.
-
-|Рекомендация  |Описание  |
-|---------|---------|
-|**Полная синхронизация**|Данные существуют только в [!INCLUDE[prod_short](includes/prod_short.md)] или только в [!INCLUDE[cds_long_md](includes/cds_long_md.md)]. Рекомендация: синхронизировать все данные из службы, в которой они есть, с другой службой.|
-|**Без синхронизации**|Данные существуют в обоих приложениях, и выполнение полной синхронизации приведет к их дублированию. Рекомендуется связать записи.|
-|**Зависимость не удовлетворена**|Данные существуют в обоих приложениях, но строка или таблица не могут быть синхронизированы, потому что она зависит от строки или таблицы, для которых есть рекомендация "Без синхронизации". Например, если клиенты не могут быть синхронизированы, то данные для контактов, которые зависят от данных клиентов, также не могут быть синхронизированы.|
-
-> [!IMPORTANT]
-> Обычно вы используете полную синхронизацию только тогда, когда интегрируете приложения впервые, и только одно приложение содержит данные. Полная синхронизация может быть полезна в демонстрационной среде, поскольку она автоматически создает и связывает записи в каждом приложении, что ускоряет начало работы с синхронизированными данными. Однако вам следует запускать полную синхронизацию только в том случае, если вам нужна одна строка в [!INCLUDE[prod_short](includes/prod_short.md)] для каждой строки в [!INCLUDE[cds_long_md](includes/cds_long_md.md)] для сопоставления таблиц. В противном случае результатом могут быть повторяющиеся записи.
-
-1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Мастер настройки**, а затем выберите связанную ссылку.
-2. Выберите пункт **Настройка подключения к Microsoft Dataverse**, чтобы запустить мастер настройки.
+1. Выберите **Настройка и расширения**, затем выберите **Мастер настройки**.
+2. Выберите **Настройка подключения к Dynamics 365 Sales**, чтобы запустить мастер настройки.
 3. Заполните соответствующим образом поля.
+4. При необходимости, имеются расширенные настройки, которые могут улучшить безопасность и включить дополнительные возможности [!INCLUDE[crm_md](includes/crm_md.md)], такие как обработка заказов на продажу и просмотр уровней запасов. Расширенные параметры рассматриваются в таблице ниже.  
 
-> [!NOTE]
-> Если вам не предлагается войти в систему с учетной записью администратора, возможно, это связано с блокировкой всплывающих окон. Чтобы войти, разрешите всплывающие окна от `https://login.microsoftonline.com`.
+|Поле|Описание|
+|-----|-----|
+|**Импорт решения Dynamics 365 Sales**|Разрешить это, чтобы установить и настроить решение интеграции в [!INCLUDE[crm_md](includes/crm_md.md)]. Дополнительные сведения см. в разделе [О решении интеграции Business Central](admin-prepare-dynamics-365-for-sales-for-integration.md#about-the-business-central-integration-solution).|
+|**Публикация веб-службы наличия товаров**|Разрешите пользователям, которые используют [!INCLUDE[crm_md](includes/crm_md.md)], просматривать наличие товаров (продуктов) в запасах в [!INCLUDE[d365fin](includes/d365fin_md.md)]. Для этого необходима учетная запись пользователя [!INCLUDE[d365fin](includes/d365fin_md.md)] с ключом доступа к веб-службам. Назначение ключа выполняется в два этапа. В учетной записи пользователя в [!INCLUDE[d365fin](includes/d365fin_md.md)] необходимо выбрать действие **Изменить ключ веб-службы**. В мастере настройки "Настройка подключения к Dynamics 365 Sales" необходимо указать URL-адрес веб-службы Dynamics 365 Business Central OData и предоставить учетные данные пользователя [!INCLUDE[d365fin](includes/d365fin_md.md)] для получения доступа к сервису. Дополнительные сведения см. в разделе [Веб-службы OData](/dynamics365/business-central/dev-itpro/webservices/odata-web-services).|
+|**URL-адрес веб-службы OData Dynamics 365 Business Central**|Если включена веб-служба наличия товаров, URL-адрес веб-службы OData предоставляется для вас.|
+|**Имя пользователя веб-службы OData Dynamics 365 Business Central**|Имя пользователя учетной записи [!INCLUDE[d365fin](includes/d365fin_md.md)], которую [!INCLUDE[crm_md](includes/crm_md.md)] использует для извлечения сведений о наличии товаров в [!INCLUDE[d365fin](includes/d365fin_md.md)] через веб-службу OData.|
+|**Ключ доступа веб-службы OData Dynamics 365 Business Central**|Ключ доступа учетной записи пользователя, которую [!INCLUDE[crm_md](includes/crm_md.md)] использует для получения сведений о наличии товаров из [!INCLUDE[d365fin](includes/d365fin_md.md)] через веб-службу OData. Ключ назначается пользователю, выбранному в поле **Имя пользователя веб-службы OData Dynamics 365 Business Central**. Чтобы получить ключ, выберите кнопку **Найти значение** рядом с именем пользователя, выберите пользователя, выберите **Управление**, затем выберите **Правка**. В карточке пользователя выберите **Действия**, **Проверка подлинности**, затем выберите **Изменить ключ веб-службы**.|
+|**Включить интеграцию с заказом на продажу**|Когда сотрудники создают заказы на продажу в [!INCLUDE[crm_md](includes/crm_md.md)] и выполняют заказы в [!INCLUDE[d365fin](includes/d365fin_md.md)], это интегрирует процесс в [!INCLUDE[crm_md](includes/crm_md.md)]. Дополнительные сведения см. в разделе [Включение интеграции обработки заказов на продажу](/dynamics365/customer-engagement/sales-enterprise/developer/enable-sales-order-processing-integration). Для этого требуется, чтобы вы предоставили учетные данные для учетной записи пользователя-администратора в [!INCLUDE[crm_md](includes/crm_md.md)]. Дополнительные сведения см. в разделе [Обработка данных в заказах на продажу](marketing-integrate-dynamicscrm.md#handling-sales-order-data).|
+|**Включить подключение к Dynamics 365 for Sales**|Включите подключение к [!INCLUDE[crm_md](includes/crm_md.md)].|
+|**Версия SDK Dynamics 365**|Это необходимо только в том случае, если выполняется интеграция с локальной версией [!INCLUDE[crm_md](includes/crm_md.md)]. Это комплект разработки программного обеспечения Dynamics 365 (также называемый Xrm), который используется для подключения [!INCLUDE[d365fin](includes/d365fin_md.md)] к [!INCLUDE[crm_md](includes/crm_md.md)]. Версия должна быть совместима с версией пакета SDK, которая используется [!INCLUDE[crm_md](includes/crm_md.md)], и равна или новее версии, используемой [!INCLUDE[crm_md](includes/crm_md.md)].|
+
+> [!Note]
+> Мастер настройки **Настройка подключения к Dynamics 365 Sales** автоматически назначает роли безопасности **Администратор интеграции** и **Пользователь интеграции** учетной записи пользователя, используемой для интеграции.
 
 ### <a name="to-create-or-maintain-the-connection-manually"></a>Создание или ведение подключения вручную
+Далее описан порядок заполнения полей вручную на странице **Настройка подключения к Microsoft Dynamics 365 Sales**. Это также страница, на которой можно управлять настройками для интеграции.
 
-Далее описан порядок настройки подключения вручную на странице **Настройка подключения Dataverse**. Это также страница, на которой можно управлять настройками для интеграции.
+1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка подключения к Microsoft Dynamics 365**, затем выберите соответствующую ссылку.
+2. Введите следующие сведения для подключения из [!INCLUDE[crm_md](includes/crm_md.md)] к [!INCLUDE[d365fin](includes/d365fin_md.md)].
 
-1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Настройка подключения Dataverse**, а затем выберите связанную ссылку.
-2. Введите следующие сведения для подключения из [!INCLUDE[cds_long_md](includes/cds_long_md.md)] к [!INCLUDE[prod_short](includes/prod_short.md)].
+|Поле|Описание|
+|-----|-----|
+|**URL-адрес Dynamics 365 Sales**|URL-адрес вашего экземпляра [!INCLUDE[crm_md](includes/crm_md.md)]. Чтобы получить этот URL-адрес, откройте [!INCLUDE[crm_md](includes/crm_md.md)], скопируйте URL-адрес из адресной строки браузера, затем вставьте URL-адрес в это поле. [!INCLUDE[d365fin](includes/d365fin_md.md)] обеспечит правильный формат.|
+|**Имя пользователя** и **Пароль**|Эти учетные данные учетной записи пользователя предназначены для интеграции. Дополнительные сведения см. в разделе [Настройка учетных записей пользователей для интеграции с Dynamics 365 Sales](admin-setting-up-integration-with-dynamics-sales.md).|
+|**Включено**|Начните использовать интеграцию. Если выполнять подключение в данный момент не требуется, можно сохранить настройки подключения, однако пользователи не получат доступа к данным [!INCLUDE[crm_md](includes/crm_md.md)] из [!INCLUDE[d365fin](includes/d365fin_md.md)]. Позднее следует вернуться на эту страницу и выполнить подключение.  |
+|**Версия SDK Dynamics 365**|Если выполняется интеграция с локальной версией [!INCLUDE[crm_md](includes/crm_md.md)], следует использовать набор разработки программного обеспечения Dynamics 365 (также называемый Xrm) для подключения [!INCLUDE[d365fin](includes/d365fin_md.md)] к [!INCLUDE[crm_md](includes/crm_md.md)]. Выбранная версия должна быть совместима с версией SDK, которая используется приложением [!INCLUDE[crm_md](includes/crm_md.md)]. Эта версия равна или новее версии, используемой приложением [!INCLUDE[crm_md](includes/crm_md.md)].|
 
-    |Поле|Описание|
-    |-----|-----|
-    |**URL-адрес среды**|Если вы владеете средами в [!INCLUDE[cds_long_md](includes/cds_long_md.md)], мы найдем их для вас, когда вы запустите мастер настройки. Если вы хотите подключиться к другой среде в другом арендаторе, вы можете ввести учетные данные администратора для этой среды, и мы обнаружим их. |
-    |**Включено**|Начните использовать интеграцию. Если выполнять подключение в данный момент не требуется, можно сохранить настройки подключения, однако пользователи не получат доступа к данным [!INCLUDE[cds_long_md](includes/cds_long_md.md)] из [!INCLUDE[prod_short](includes/prod_short.md)]. Позднее следует вернуться на эту страницу и выполнить подключение.  |
+> [!Note]
+> Если вы подключаете локальную версию [!INCLUDE[d365fin](includes/d365fin_md.md)] к [!INCLUDE[crm_md](includes/crm_md.md)] и хотите настроить подключение к экземпляру [!INCLUDE[crm_md](includes/crm_md.md)] с определенным типом проверки подлинности, заполните поля на экспресс-вкладке **Сведения о типе проверки подлинности**. Дополнительные сведения см. в разделе [Использование строк подключения в средстве XRM для подключения к Dynamics 365](https://go.microsoft.com/fwlink/?linkid=843055). Этот шаг не требуется при подключении к сетевой версии [!INCLUDE[d365fin](includes/d365fin_md.md)].
 
-3. В поле **Модель ответственности** выберите, хотите ли вы, чтобы таблица рабочей группы в [!INCLUDE[cds_long_md](includes/cds_long_md.md)] владела новыми записями, или чтобы ответственными были один или несколько конкретных пользователей. Если вы выбираете **Человек**, вы должны указать каждого пользователя. Если вы выбираете вариант **Рабочая группа**, бизнес-подразделение по умолчанию будет отображаться в поле **Связанный филиал**.
+3. Введите следующие сведения для подключения из [!INCLUDE[d365fin](includes/d365fin_md.md)] к [!INCLUDE[crm_md](includes/crm_md.md)].
 
-    <!--Need to verify the details in this table, are these specific to Sales maybe?  IK: No they are not and no longer relevant 
-    Enter the following advanced settings.-->
+|Поле|Описание|
+|-----|-----|
+|**URL-адрес Dynamics 365 Business Central Web Client**|URL-адрес вашего экземпляра [!INCLUDE[d365fin](includes/d365fin_md.md)]. Это позволяет пользователям в [!INCLUDE[crm_md](includes/crm_md.md)] открывать соответствующие записи в [!INCLUDE[d365fin](includes/d365fin_md.md)] из записей в [!INCLUDE[crm_md](includes/crm_md.md)], например счет или продукт. Записи [!INCLUDE[d365fin](includes/d365fin_md.md)] открываются в [!INCLUDE[d365fin](includes/d365fin_md.md)]. Для использования задайте в этом поле URL-адрес экземпляра [!INCLUDE[d365fin](includes/d365fin_md.md)].<br /><br /> Для возврата в поле URL-адреса по умолчанию для [!INCLUDE[d365fin](includes/d365fin_md.md)], выберите действие **Сбросить URL-адрес веб-клиента**.<br /><br /> Это поле используется только в случае установки решения интеграции [!INCLUDE[d365fin](includes/d365fin_md.md)] в [!INCLUDE[crm_md](includes/crm_md.md)].|
+|**Веб-служба наличия товаров включена**|Разрешите пользователям, которые используют [!INCLUDE[crm_md](includes/crm_md.md)], просматривать наличие товаров (продуктов) в запасах в [!INCLUDE[d365fin](includes/d365fin_md.md)]. Если она включена, также необходимо указать имя пользователя и ключ доступа для [!INCLUDE[crm_md](includes/crm_md.md)], чтобы использовать веб-службу OData для наличия товаров (продуктов). Дополнительные сведения см. в разделе [Веб-службы OData](/dynamics365/business-central/dev-itpro/webservices/odata-web-services.md).|
+|**URL-адрес веб-службы OData Dynamics 365 Business Central**|Если включена веб-служба наличия товаров, URL-адрес веб-службы OData предоставляется для вас.|
+|**Имя пользователя веб-службы OData Dynamics 365 Business Central**|Имя пользователя учетной записи, которую [!INCLUDE[crm_md](includes/crm_md.md)] использует для получения сведений о наличии товаров из [!INCLUDE[d365fin](includes/d365fin_md.md)] через веб-службу OData.|
+|**Ключ доступа веб-службы OData Dynamics 365 Business Central**|Ключ доступа учетной записи пользователя, которую [!INCLUDE[crm_md](includes/crm_md.md)] использует для получения сведений о наличии товаров из [!INCLUDE[d365fin](includes/d365fin_md.md)] через веб-службу OData. Ключ назначается пользователю, выбранному в поле **Имя пользователя веб-службы OData Dynamics 365 Business Central**. Чтобы получить ключ, выберите кнопку **Найти значение** рядом с именем пользователя, выберите пользователя, выберите **Управление**, затем выберите **Правка**. В карточке пользователя выберите **Действия**, **Проверка подлинности**, затем выберите **Изменить ключ веб-службы**.|
 
-    <!-- |Field|Description|
-    |-----|-----|
-    |**[!INCLUDE[prod_short](includes/prod_short.md)] Users Must Map to CDS Users**|If you are using the Person ownership model, specify whether [!INCLUDE[prod_short](includes/prod_short.md)] user accounts must have a matching user accounts in [!INCLUDE[cds_long_md](includes/cds_long_md.md)]. The **Microsoft 365 Authentication Email** of the [!INCLUDE[prod_short](includes/prod_short.md)] user must be the same as the **Primary Email** of the [!INCLUDE[crm_md](includes/crm_md.md)] user.<br /><br /> If you set the value to **Yes**, [!INCLUDE[prod_short](includes/prod_short.md)] users who do not have a matching [!INCLUDE[crm_md](includes/crm_md.md)] user account will not have [!INCLUDE[prod_short](includes/prod_short.md)] integration capabilities in the user interface. Access to [!INCLUDE[crm_md](includes/crm_md.md)] data directly from [!INCLUDE[prod_short](includes/prod_short.md)] is done on behalf of the [!INCLUDE[crm_md](includes/crm_md.md)] user account.<br /><br /> If you set the value to **No**, all [!INCLUDE[prod_short](includes/prod_short.md)] users will have [!INCLUDE[crm_md](includes/crm_md.md)] integration capabilities in the user interface. Access to [!INCLUDE[crm_md](includes/crm_md.md)] data is done on behalf of the [!INCLUDE[crm_md](includes/crm_md.md)] connection (integration) user.|
-    |**Current Business Central Salesperson is Mapped to a User**|Indicates whether your user account is mapped to an account in [!INCLUDE[crm_md](includes/crm_md.md)] double check the name of this field|-->
-4. Для тестирования настроек подключения выберите **Подключение**, затем **Проверить подключение**.  
+4. Введите следующие настройки для [!INCLUDE[crm_md](includes/crm_md.md)].
+
+|Поле|Описание|
+|-----|-----|
+|**Интеграция заказов на продажу разрешена**|Разрешите пользователям отправлять заказы на продажу и активированные предложения в [!INCLUDE[crm_md](includes/crm_md.md)] и затем просматривать и обрабатывать их в [!INCLUDE[d365fin](includes/d365fin_md.md)]. Это интегрирует процесс в [!INCLUDE[crm_md](includes/crm_md.md)]. Дополнительные сведения см. в разделе [Включение интеграции обработки заказов на продажу](/dynamics365/customer-engagement/sales-enterprise/developer/enable-sales-order-processing-integration).|
+|**Автоматически создавать заказы на продажу**|Создание заказов на продажу в [!INCLUDE[d365fin](includes/d365fin_md.md)], когда пользователь создает и отправляет заказ на продажу в [!INCLUDE[crm_md](includes/crm_md.md)].|
+|**Автоматически обрабатывать предложения по продаже**|Обработка предложения по продаже в [!INCLUDE[d365fin](includes/d365fin_md.md)], когда пользователь создает и активирует его в [!INCLUDE[crm_md](includes/crm_md.md)].|
+
+5. Введите следующие дополнительные настройки.
+
+|Поле|Описание|
+|-----|-----|
+|**Пользователи [!INCLUDE[d365fin](includes/d365fin_md.md)] должны быть сопоставлены с пользователями Dynamics 365 Sales**|Укажите, должны ли учетные записи пользователей [!INCLUDE[d365fin](includes/d365fin_md.md)] иметь соответствующие учетные записи пользователей в [!INCLUDE[crm_md](includes/crm_md.md)]. **Адрес проверки подлинности Office 365** пользователя [!INCLUDE[d365fin](includes/d365fin_md.md)] должен быть тем же, что и **Основной адрес электронной почты** пользователя [!INCLUDE[crm_md](includes/crm_md.md)].<br /><br /> Если задано **Да**,пользователи [!INCLUDE[d365fin](includes/d365fin_md.md)] без совпадающей учетной записи пользователя [!INCLUDE[crm_md](includes/crm_md.md)] не будут обладать возможностями интеграции [!INCLUDE[d365fin](includes/d365fin_md.md)] в пользовательском интерфейсе. Доступ к данным [!INCLUDE[crm_md](includes/crm_md.md)] непосредственно из [!INCLUDE[d365fin](includes/d365fin_md.md)] выполняется от имени учетной записи пользователя [!INCLUDE[crm_md](includes/crm_md.md)].<br /><br /> Если задано **Нет**, все пользователи [!INCLUDE[d365fin](includes/d365fin_md.md)] будут обладать возможностями интеграции [!INCLUDE[crm_md](includes/crm_md.md)] в пользовательском интерфейсе. Доступ к данным [!INCLUDE[crm_md](includes/crm_md.md)] выполняется от имени пользователя подключения (интеграции) [!INCLUDE[crm_md](includes/crm_md.md)].|
+|**Текущий пользователь Business Central сопоставлен с пользователем Dynamics 365 Sales**|Указывает, сопоставлена ли учетная запись пользователя учетной записи в [!INCLUDE[crm_md](includes/crm_md.md)]|
+
+6. Для тестирования настроек подключения выберите **Проверить подключение**.  
 
     > [!NOTE]  
-    > Если шифрование данных не включено в [!INCLUDE[prod_short](includes/prod_short.md)], вы получите запрос, требуется ли его включить. Чтобы включить шифрование данных, выберите **Да** и предоставьте требуемую информацию. В противном случае выберите **Нет**. Шифрование данных можно включить позднее. Дополнительные сведения см. в разделе [Шифрование данных в Dynamics 365 Business Central](/dynamics365/business-central/dev-itpro/developer/devenv-encrypting-data) в справке для разработчика и администратора.  
-5. Если синхронизация [!INCLUDE[cds_long_md](includes/cds_long_md.md)] еще не настроена, вы получите запрос, следует ли использовать настройки синхронизации по умолчанию. В зависимости от того, требуется ли соответствие записей в [!INCLUDE[cds_long_md](includes/cds_long_md.md)] и [!INCLUDE[prod_short](includes/prod_short.md)], выберите **Да** или **Нет**.
+    >  Если шифрование данных не включено в [!INCLUDE[d365fin](includes/d365fin_md.md)], вы получите запрос, требуется ли его включить. Чтобы включить шифрование данных, выберите **Да** и предоставьте требуемую информацию. В противном случае выберите **Нет**. Шифрование данных можно включить позднее. Дополнительные сведения см. в разделе [Шифрование данных в Dynamics 365 Business Central](/dynamics365/business-central/dev-itpro/developer/devenv-encrypting-data) в справке для разработчиков и ИТ-специалистов.  
+
+7. Если синхронизация [!INCLUDE[crm_md](includes/crm_md.md)] еще не настроена, вы получите запрос, следует ли использовать настройки синхронизации по умолчанию. В зависимости от того, требуется ли соответствие записей в [!INCLUDE[crm_md](includes/crm_md.md)] и [!INCLUDE[d365fin](includes/d365fin_md.md)], выберите **Да** или **Нет**.
+
+> [!Note]
+> При подключении к Dynamics 365 Sales с помощью страницы **Настройка подключения к Microsoft Dynamics 365 Sales** может потребоваться назначить роли безопасности "Администратор интеграции" и "Пользователь интеграции" учетной записи пользователя, используемой для интеграции. Для получения дополнительной информации см. [Назначение роли безопасности пользователю](/dynamics365/customer-engagement/admin/create-users-assign-online-security-roles#assign-a-security-role-to-a-user).
+
+
+> [!Note]
+> При подключении к Dynamics 365 Sales с помощью страницы **Настройка подключения к Microsoft Dynamics 365 Sales** может потребоваться [назначить роли безопасности **Администратор интеграции** и **Пользователь интеграции**](/dynamics365/customer-engagement/admin/create-users-assign-online-security-roles#assign-a-security-role-to-a-user) учетной записи пользователя, используемой для интеграции.
+
+
+### <a name="to-disconnect-from-crm_md"></a>Отключение от [!INCLUDE[crm_md](includes/crm_md.md)]  
+1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка подключения к Microsoft Dynamics 365 Sales**, затем выберите соответствующую ссылку.
+2. На странице **Настройка подключения к Microsoft Dynamics 365 Sales** снимите флажок **Включено**.  
+
+<!--## Install the [!INCLUDE[d365fin](includes/d365fin_md.md) Integration Solution
+[!INCLUDE[d365fin](includes/d365fin_md.md)] includes a solution that enables users to access coupled records, such as customers and items, from records in [!INCLUDE[crm_md](includes/crm_md.md)], such as accounts and products. The solution adds a link to the pages in [!INCLUDE[crm_md](includes/crm_md.md)] to open the coupled [!INCLUDE[d365fin](includes/d365fin_md.md)] record. The solution also displays information from [!INCLUDE[d365fin](includes/d365fin_md.md)]on certain entities in [!INCLUDE[crm_md](includes/crm_md.md)], such as accounts. Installing this solution is optional. <!--"Solution" sounds old school. Is it an app, or an add-in, or an extension?
+
+
+1.  From [!INCLUDE[d365fin](includes/d365fin_md.md)] installation media \(DVD\), copy the DynamicsNAVIntegrationSolution.zip file to your computer.  
+
+     The DynamicsNAVIntegrationSolution.zip file is located in the **CrmCustomization** folder. This file is the solution package.   
+
+2.  In [!INCLUDE[crm_md](includes/crm_md.md)], import the DynamicsNAVIntegrationSolution.zip as a solution.  
+
+     This step adds the **[!INCLUDE[d365fin](includes/d365fin_md.md) Connection** entity and **[!INCLUDE[d365fin](includes/d365fin_md.md) Account Statistics** entity in the system and additional items such as [!INCLUDE[d365fin](includes/d365fin_md.md)] integration security roles.  
+
+     For more information about how to manage solutions in [!INCLUDE[crm_md](includes/crm_md.md)], [https://go.microsoft.com/fwlink/?LinkID=616519](https://go.microsoft.com/fwlink/?LinkID=616519).  
+
+3.  Optional: Set up the **[!INCLUDE[d365fin](includes/d365fin_md.md) Connection** entity to display in the **Settings** area of [!INCLUDE[crm_md](includes/crm_md.md)].  
+
+     This enables [!INCLUDE[crm_md](includes/crm_md.md)] users who are assigned the **[!INCLUDE[d365fin](includes/d365fin_md.md) Admin** role to modify the entity in [!INCLUDE[crm_md](includes/crm_md.md)]. For more information about how to modify entities in [!INCLUDE[crm_md](includes/crm_md.md)], see [View or edit entity information](https://go.microsoft.com/fwlink/?LinkID=616521).  
+
+4.  Assign the **[!INCLUDE[d365fin](includes/d365fin_md.md) Integration Administrator** role to the user account for the connection to [!INCLUDE[d365fin](includes/d365fin_md.md)].  
+
+5.  Assign the **Business Central Integration User** role to all users who will use the [!INCLUDE[d365fin](includes/d365fin_md.md)] integration solution.  
+
+If you install the [!INCLUDE[d365fin](includes/d365fin_md.md)] integration solution after you have set up the connection to [!INCLUDE[crm_md](includes/crm_md.md)] in [!INCLUDE[d365fin](includes/d365fin_md.md)], you must modify the connection setup to point to the URL.-->
+
+<!--of the [!INCLUDE[nav_web_md](../developer/includes/nav_web_md.md)]. For more information, see [Set Up a Microsoft Dynamics 365 Sales Connection]() -->
 
 <!--
-## Show Me the Process
+# View Item Availability - Support Matrix
+For most versions of [!INCLUDE[d365fin](includes/d365fin_md.md) and Dynamics 365 Sales, you can view availability figures for items across the integrated products. The following table shows which version combinations support viewing item availability.
 
-The following video shows the steps to connect [!INCLUDE[prod_short](includes/prod_short.md)] and [!INCLUDE[cds_long_md](includes/cds_long_md.md)]. <br>
-  
-> [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE4ArlP]
+| |Dynamics 365 Sales version|2015/Update 1/Online|2016/Update 1/Online|Dynamics 365 Sales|
+|-|---------------------|---------------------|--------------------------|-----------------|
+|**Dynamics NAV version**|
+|**2016**||Not supported|Not supported|Not supported|
+|**2017**||Not supported - Install from 2016|Supported|Supported|
+|**Dynamics 365 for Financials**||Not supported - Install from 2016|Supported|Supported|
+
+
+> [Note]
+> You can obtain item availability support for combinations of Dynamics CRM 2015 and Business Central by running the DynamicsNAVIntegrationSolution.zip file on the Business Central product DVD.
+
+For more information, see [System Requirements for Business Central](../deployment/system-requirement-business-central.md).
 
 -->
 
-## <a name="customize-the-match-based-coupling"></a>Настроить связывание на основе совпадений
-
-Начиная с волны 2 выпуска 2021 года вы можете объединять записи в [!INCLUDE [prod_short](includes/prod_short.md)] и [!INCLUDE [cds_long_md](includes/cds_long_md.md)] на основе критериев соответствия, определенных администратором.  
-
-Алгоритм сопоставления записей можно запустить из следующих мест в [!INCLUDE [prod_short](includes/prod_short.md)]:
-
-* Список страниц, отображающих записи, синхронизированные с [!INCLUDE [cds_long_md](includes/cds_long_md.md)], например страницы "Клиенты" и "Товары".  
-
-    Выберите несколько записей, а затем выберите действие **Связано**, выберите **Dataverse**, выберите **Связывание**, а затем выберите **Связывание на основе совпадений**.
-
-    Когда процесс связывания на основе совпадений запускается из списка основных данных, задание связывания будет запланировано сразу после выбора критериев связывания.  
-* Страница **Просмотр полной синхронизации Dataverse**.  
-
-    Когда процесс полной синхронизации обнаруживает, что у вас есть несвязанные записи, как в [!INCLUDE [prod_short](includes/prod_short.md)], так и в [!INCLUDE [cds_long_md](includes/cds_long_md.md)], ссылка **Выбрать критерии связывания** появляется для соответствующей таблицы интеграции.  
-
-    Вы можете начать процесс **Запустить полную синхронизацию** на страницах **Настройка подключения Dataverse** и **Настройка подключения Dynamics 365**, и его можно инициировать как шаг в мастере настройки **Настроить подключение к Dataverse**, когда вы решите завершить настройку и запустить полную синхронизацию в конце.  
-
-    Когда процесс связывания на основе совпадений запускается со страницы **Просмотр полной синхронизации Dataverse**, задание связывания будет запланировано сразу после завершения настройки.  
-* Список **Сопоставления таблиц интеграции**.  
-
-    Выберите сопоставление, выберите действие **Связывание**, а затем выберите **Связывание на основе совпадений**.
-
-    Когда процесс связывания на основе совпадений запускается из отображения таблицы интеграции, задание связывания запускается для всех несвязанных записей в этом сопоставлении. Если он был запущен для набора выбранных записей из списка, он будет запущен только для выбранных несвязанных записей.
-
-Во всех трех случаях откроется страница **Выберите критерии связывание**, на которой вы можете определить соответствующие критерии связывания. На этой странице настройте связывание, выполнив следующие задачи:
-
-* Выберите поля для сопоставления записей [!INCLUDE [prod_short](includes/prod_short.md)] и сущностей [!INCLUDE [cds_long_md](includes/cds_long_md.md)], а также выберите, будет ли сопоставление в этом поле зависеть от регистра или нет.  
-
-* Укажите, следует ли запускать синхронизацию после связывания записей, и, если запись использует двунаправленное сопоставление, также выберите, что произойдет, если конфликты указаны на странице **Разрешение конфликтов обновления**.  
-
-* Установите приоритет порядка, в котором выполняется поиск записей, указав *приоритет сопоставления* для соответствующих полей сопоставления. Приоритеты сопоставления заставляют алгоритм искать сопоставление в количестве итераций, как определено значениями поля **Приоритет сопоставления** в порядке возрастания. Пустое значение в поле **Приоритет сопоставления** понимается как приоритет 0, поэтому поля с этим значением учитываются первыми.  
-
-* Укажите, следует ли создавать новый экземпляр объекта в [!INCLUDE [cds_long_md](includes/cds_long_md.md)] в случае, если невозможно найти уникальное несвязанное сопоставление с использованием критериев сопоставления. Чтобы активировать эту возможность, выберите действие **Создать новую, если найти совпадение не удается**.  
-
-### <a name="view-the-results-of-the-coupling-job"></a>Посмотреть результаты задания соединения
-
-Чтобы просмотреть результаты задания соединения, откройте страницу **Сопоставления таблиц интеграции**, выберите соответствующее сопоставление, выберите действие **Связывание**, а затем выберите действие **Журнал заданий связывания интеграции**.  
-
-Если есть какие-либо записи, которые не были связаны, вы можете развернуть значение в столбце "Ошибка", что откроет список ошибок, в котором указывается, почему не удалось объединить записи.  
-
-Неудачное связывание часто происходит в следующих случаях:
-
-* Критерии соответствия не определены
-
-    В этом случае снова запустите связывание на основе совпадений, но не забудьте определить критерии связывания.
-
-* Не найдено совпадений для ряда записей на основе выбранных совпадающих полей
-
-    В этом случае повторите связывание с некоторыми другими соответствующими полями.
-
-* Найдено несколько совпадений для ряда записей на основе выбранных совпадающих полей  
-
-    В этом случае повторите связывание с некоторыми другими соответствующими полями.
-
-* Обнаружено одно совпадение, но соответствующая запись уже связана с другой записью в [!INCLUDE [prod_short](includes/prod_short.md)]  
-
-    В этом случае повторите связывание с некоторыми другими совпадающими полями или выясните, почему этот объект [!INCLUDE [cds_long_md](includes/cds_long_md.md)] связан с другой записью в [!INCLUDE [prod_short](includes/prod_short.md)].
-
-> [!TIP]
-> Чтобы дать обзор хода связывания, в поле **Связано с Dataverse** показано, связана ли конкретная запись с объектом [!INCLUDE [cds_long_md](includes/cds_long_md.md)] или нет. Вы можете отфильтровать список записей, которые синхронизируются с [!INCLUDE [cds_long_md](includes/cds_long_md.md)] по этому полю.
-
-## <a name="upgrade-connections-from-business-central-online-to-use-certificate-based-authentication"></a>Обновление подключений к Business Central Online для использования аутентификации на основе сертификатов
-> [!NOTE]
-> Этот раздел актуален только для клиентов [!INCLUDE[prod_short](includes/prod_short.md)] Online, размещенных на сервере Microsoft. Онлайн-клиенты, размещенные у независимых поставщиков программного обеспечения, и локальные установки не затронуты.
-
-В апреле 2022 г. в [!INCLUDE[cds_long_md](includes/cds_long_md.md)] отменена поддержка типа проверки подлинности Office365 (имя пользователя/пароль). Для получения дополнительной информации см. [Прекращение поддержки типа проверки подлинности Office365](/power-platform/important-changes-coming#deprecation-of-office365-authentication-type-and-organizationserviceproxy-class-for-connecting-to-dataverse). Кроме того, в марте 2022 г. в [!INCLUDE[prod_short](includes/prod_short.md)] отменена поддержка использования аутентификации между службами на основе секрета клиента для онлайн-клиентов, и требуется использование аутентификации между службами на основе сертификатов для подключений к [!INCLUDE[cds_long_md](includes/cds_long_md.md)]. Клиенты [!INCLUDE[prod_short](includes/prod_short.md)] Online, размещенные независимыми поставщиками программного обеспечения, и локальные установки могут продолжать использовать аутентификацию секрета клиента для подключения к [!INCLUDE[cds_long_md](includes/cds_long_md.md)].
-
-Чтобы не нарушать интеграцию, _вы должны обновить_ подключение для использования проверки подлинности на основе сертификатов. Хотя изменение запланировано на март 2022 года, мы настоятельно рекомендуем выполнить обновление как можно скорее. Следующие шаги описывают, как перейти на аутентификацию на основе сертификатов. 
-
-### <a name="to-upgrade-your-business-central-online-connection-to-use-certificate-based-authentication"></a>Обновление подключения Business Central Online для использования аутентификации на основе сертификатов
-
-> [!NOTE]
-> Аутентификация на основе сертификатов доступна в выпуске Business Central 2021, волны 1 и более поздних версиях. Если вы используете более раннюю версию, вы должны запланировать обновление для выпуска Business Central 2021 волны 1 до марта 2022 года. Дополнительные сведения см. в разделе [Планирование обновлений](/dynamics365/business-central/dev-itpro/administration/update-rollout-timeline#scheduling-updates). Если у вас возникнут проблемы, обратитесь к партнеру или в службу поддержки.
-
-1. В [центре администрирования,Business Central](/dynamics365/business-central/dev-itpro/administration/tenant-admin-center) убедитесь, что вы используете Business Central 2021 волны 1 или более позднюю версию (версия 18 или более поздняя).
-2. В зависимости от того, интегрируете ли вы с Dynamics 365 Sales, выполните одно из следующих действий:
-   * Если да, откройте страницу **Настройка подключения Microsoft Dynamics 365**.
-   * Если нет, откройте страницу **Настройка подключения Dataverse**.
-3. Выберите **Подключение**, а потом **Использовать проверку подлинности на основе сертификатов** для обновления подключения для использования проверки подлинности на основе сертификата.
-4. Войдите в систему с учетными данными администратора для Dataverse. Вход в систему должен занять меньше минуты.
-
-> [!NOTE]
-> Вы должны повторять эти шаги в каждой среде [!INCLUDE[prod_short](includes/prod_short.md)], включая рабочую среду и среду песочницы, и в каждой компании, в которой у вас есть подключение к [!INCLUDE[cds_long_md](includes/cds_long_md.md)].
-
-## <a name="connecting-on-premises-versions"></a>Подключение локальных версий
-
-Чтобы подключить локальную версию [!INCLUDE[prod_short](includes/prod_short.md)] [!INCLUDE[cds_long_md](includes/cds_long_md.md)], необходимо указать некоторую информацию на странице **Настройка подключения Dataverse**.
-
-Если вы хотите подключиться с помощью учетной записи Azure Active Directory ( Azure AD), вы должны зарегистрировать заявку в Azure AD и укажите идентификатор приложения, секретный ключ хранилища и используемый URL-адрес перенаправления. URL-адрес перенаправления предварительно заполнен и должен работать для большинства установок. Вы должны настроить вашу установку на использование HTTPS. Для получения дополнительной информации см. [Настройка SSL для защиты подключения веб-клиента Business Central](/dynamics365/business-central/dev-itpro/deployment/configure-ssl-web-client-connection). Если вы настраиваете на своем сервере другую начальную страницу, вы всегда можете изменить URL-адрес. Секрет клиента будет сохранен как зашифрованная строка в вашей базе данных. 
-
-### <a name="prerequisites"></a>Предварительные требования
-
-Dataverse должна использовать один из следующих типов аутентификации:
-
-* Office365 (устаревшая версия)
-
-  > [!IMPORTANT]
-  > С апреля 2022 года поддержка Office365 (устаревшая версия) будет прекращена. Дополнительные сведения см. в разделе [Запланированные важные изменения (устаревания) в Power Apps, Power Automate и приложениях для взаимодействия с клиентами](/power-platform/important-changes-coming#deprecation-of-office365-authentication-type-and-organizationserviceproxy-class-for-connecting-to-dataverse).
-* Office365 (современный, на основе секрета клиента OAuth2)
-* OAuth
-
-### <a name="to-register-an-application-in-azure-ad-for-connecting-from-business-central-to-dataverse"></a>Чтобы зарегистрировать заявку в Azure AD для подключения из Business Central к Dataverse
-
-Следующие шаги предполагают, что вы используете Azure AD, чтобы управлять удостоверениями и доступом. Дополнительные сведения о регистрации приложения в Azure AD, см. в [Быстрый старт: зарегистрируйте приложение на платформе идентификации Microsoft](/azure/active-directory/develop/quickstart-register-app). 
-
-1. В Azure Portal, в **управлять** на панели навигации выберите **Аутентификация**.  
-2. В **URL-адреса перенаправления** добавьте URL-адрес перенаправления, который предлагается на страница **Настройка подключения Dataverse** в [!INCLUDE[prod_short](includes/prod_short.md)].
-3. В **управлять** выберите **Разрешения API**.
-4. В **Настроенные разрешения** выберите **Добавить разрешение** и затем добавьте делегированные разрешения на вкладке **API-интерфейсы Microsoft** следующим образом:
-    * Для Business Central добавьте разрешения **Financials.ReadWrite.All**.
-    * Для Dynamics CRM, добавить разрешения **user_impersonation**.  
-
-    > [!NOTE]
-    > Имя API Dynamics CRM может измениться.
-
-5. В **управлять** выберите **Сертификаты и секреты**, а затем создайте новый секрет для вашего приложения. Вы будете использовать секрет либо в [!INCLUDE[prod_short](includes/prod_short.md)], в поле **Секрет клиента** на **Настройка подключения Dataverse** или сохраните в защищенном хранилище и предоставьте его подписчику события, как описано ранее в этом разделе.
-6. Выберите **обзор**, а затем найдите значение **Код приложения (клиента)**. Это код клиента вашего приложения. Вы должны ввести его либо на страница **Настройка подключения Dataverse** в **Код клиента** или сохраните его в безопасном хранилище и предоставьте его подписчику события.
-7. В [!INCLUDE[prod_short](includes/prod_short.md)], на страница **Настройка подключения Dataverse**, в поле **URL-адрес среды** введите URL-адрес для вашей среды [!INCLUDE[cds_long_md](includes/cds_long_md.md)].
-8. Чтобы включить подключение к [!INCLUDE[cds_long_md](includes/cds_long_md.md)] включите переключатель **Включено**.
-9. Войдите в систему с учетной записью администратора для Azure Active Directory (эта учетная запись должна иметь действующую лицензию для [!INCLUDE[cds_long_md](includes/cds_long_md.md)] и быть администратором в вашей среде [!INCLUDE[cds_long_md](includes/cds_long_md.md)]). После входа в систему вам будет предложено разрешить зарегистрированному приложению войти в [!INCLUDE[cds_long_md](includes/cds_long_md.md)] от имени организации. Вы должны дать согласие на завершение установки.
-
-   > [!NOTE]
-   > Если вам не предлагается войти в систему с учетной записью администратора, возможно, это связано с блокировкой всплывающих окон. Чтобы войти, разрешите всплывающие окна от `https://login.microsoftonline.com`.
-
-### <a name="to-disconnect-from-cds_long_md"></a>Отключение от [!INCLUDE[cds_long_md](includes/cds_long_md.md)]
-
-1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Настройка подключения Dataverse**, а затем выберите связанную ссылку.
-2. На странице **Настройка подключения Dataverse** выключите переключатель **Включено**.  
-
-## <a name="see-also"></a>См. также
-
+## <a name="see-also"></a>См. также  
 [Просмотр статуса синхронизации](admin-how-to-view-synchronization-status.md)  
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]

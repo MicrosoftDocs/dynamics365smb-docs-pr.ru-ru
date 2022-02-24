@@ -3,21 +3,21 @@ title: Налоговые регистры в России
 description: Российские улучшения включают налоговые регистры.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: conceptual
+ms.topic: article
 ms.search.keywords: ''
-ms.date: 04/01/2021
+ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 297fda45f4ec028d6eb18ca78d296accbaa6c7d1
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 966336a080b4c93fc97f3c1bf9df0595da67a18f
+ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5777569"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "2554582"
 ---
 # <a name="tax-registers"></a>Налоговые регистры
 
-В [!INCLUDE[prod_short](../../includes/prod_short.md)] можно настроить налоговые регистры для отслеживания и управления налогооблагаемыми прибылями и убытками в соответствии с российскими принципами налогового учета. Налоговые регистры позволяют группировать налогооблагаемые транзакции в логические категории и применять правила налогового учета для признания доходов и расходов.
+В [!INCLUDE[prodshort](../../includes/prodshort.md)] можно настроить налоговые регистры для отслеживания и управления налогооблагаемыми прибылями и убытками в соответствии с российскими принципами налогового учета. Налоговые регистры позволяют группировать налогооблагаемые транзакции в логические категории и применять правила налогового учета для признания доходов и расходов.
 
 ## <a name="types-of-tax-registers"></a>Типы налоговых регистров
 
@@ -34,6 +34,3 @@ ms.locfileid: "5777569"
 [Расчет налоговых регистров](How-to-Create-Tax-Registers.md)  
 [Настройка секций налогового регистра](How-to-Set-Up-Tax-Register-Sections.md)  
 [Налоговые разницы](Tax-Differences.md)  
-
-
-[!INCLUDE[footer-include](../../includes/footer-banner.md)]

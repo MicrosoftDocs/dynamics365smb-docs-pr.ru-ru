@@ -3,21 +3,21 @@ title: Регламентные отчеты в России
 description: Российские улучшения включают поддержку регламентных отчетов.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: conceptual
+ms.topic: article
 ms.search.keywords: ''
-ms.date: 04/01/2021
+ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: f66f06a6ee24aa02c9eacc1026862a4558176929
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 2cfd3b45b1d7aeff088fbeddbf709b07b3164578
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5781399"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2301123"
 ---
 # <a name="statutory-reports"></a>Регламентные отчеты
 
-[!INCLUDE[prod_short](../../includes/prod_short.md)] позволяет настроить регламентные отчеты, чтобы можно было импортировать и экспортировать данные для электронной налоговой отчетности и других требуемых документов.
+[!INCLUDE[prodshort](../../includes/prodshort.md)] позволяет настроить регламентные отчеты, чтобы можно было импортировать и экспортировать данные для электронной налоговой отчетности и других требуемых документов.
 
 После настройки отчета и указания необходимой информации вы можете экспортировать отчет в Excel или напечатать его.
 
@@ -50,6 +50,3 @@ ms.locfileid: "5781399"
 
 [Налоговый учет](Tax-Differences.md)  
 [Налоговые разницы](Tax-Accounting.md)  
-
-
-[!INCLUDE[footer-include](../../includes/footer-banner.md)]

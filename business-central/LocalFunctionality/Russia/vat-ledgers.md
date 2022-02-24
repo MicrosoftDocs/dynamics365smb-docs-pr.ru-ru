@@ -3,17 +3,17 @@ title: Книги НДС в России
 description: Российские улучшения включают работу с книгами НДС.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: conceptual
+ms.topic: article
 ms.search.keywords: ''
-ms.date: 04/01/2021
+ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: b4cc2e3a7077d4806110644581e26b894460f281
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 0567f9610931a2cec977ca45ef0f3e6e5dc80d20
+ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5781387"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "2554579"
 ---
 # <a name="vat-ledgers"></a>Книги НДС
 
@@ -54,6 +54,3 @@ ms.locfileid: "5781387"
 [Создание книг НДС](How-to-Create-VAT-Ledgers.md)  
 [Создание дополнительных листов](How-to-Create-Additional-Sheets.md)  
 [Учет НДС в продажах](Posting-VAT-on-Sales.md)  
-
-
-[!INCLUDE[footer-include](../../includes/footer-banner.md)]

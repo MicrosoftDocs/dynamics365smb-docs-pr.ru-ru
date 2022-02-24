@@ -1,23 +1,23 @@
 ---
-title: Отслеживание сегментов и связанных взаимодействий
+title: Отслеживание сегментов и соответствующих взаимодействий | Документация Майкрософт
 description: Узнайте о создании сегментов для определения групп контактов и определения взаимодействий для сегментов.
+services: project-madeira
 documentationcenter: ''
 author: jswymer
 ms.service: dynamics365-business-central
-ms.topic: conceptual
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: relationship, prospect
-ms.search.forms: 5139,
-ms.date: 04/01/2021
+ms.date: 04/01/2020
 ms.author: jswymer
-ms.openlocfilehash: 0da5f065b1a455ae9829c4ac6d10b90c3f326c04
-ms.sourcegitcommit: 189bf08d7ddf6c8b7ef2c09058c6847aa6e590d3
+ms.openlocfilehash: faab1c6273d3e7c09c44f42104da55296859139e
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/31/2022
-ms.locfileid: "8059652"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3181440"
 ---
 # <a name="manage-interactions-for-segments"></a>Управление взаимодействиями для сегментов
 Страница **Сегмент** является своеобразным рабочим листом, где можно:
@@ -52,6 +52,3 @@ ms.locfileid: "8059652"
 [Управление возможностями продаж](marketing-manage-sales-opportunities.md)  
 [Создание контактов и управление ими](marketing-contacts.md)  
 [Работа с Business Central](ui-work-product.md)
-
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]

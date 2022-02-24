@@ -3,17 +3,17 @@ title: Информация о валюте в России
 description: Российские улучшения включают информацию о валюте для импорта курсов валют.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: conceptual
+ms.topic: article
 ms.search.keywords: ''
-ms.date: 04/01/2021
+ms.date: 04/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 1e0a6470242658849c79660c0bdd03716e129851
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 5ca71b2a48ed608dbf4f14a0ab311f6a792043d1
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5771367"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3180998"
 ---
 # <a name="currency-information-import-currency-rates"></a>Информация о валюте, импорт курсов валют
 
@@ -21,7 +21,7 @@ ms.locfileid: "5771367"
 
 Используемые поля на вкладке **Общее**:
 
-- Код МВ
+- Код местной валюты
 - Описание местной валюты
 
 ### <a name="import-currencies"></a>Импорт валют
@@ -51,6 +51,3 @@ ms.locfileid: "5771367"
 
 [Коррекция Курс. Разниц](Adjust-Exchange-Rates.md)  
 [Функциональность локальной версии для России](russia-local-functionality.md)  
-
-
-[!INCLUDE[footer-include](../../includes/footer-banner.md)]

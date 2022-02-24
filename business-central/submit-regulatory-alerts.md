@@ -1,19 +1,19 @@
 ---
-title: Отправка нормативных оповещений
-description: Если вам известно о новом законодательстве, для которого требуется функциональная поддержка в Business Central, вы можете с помощью этого руководства отправить нормативное оповещение рабочей группе продукта.
+title: Отправка нормативных оповещений | Документация Майкрософт
+description: Если вам известно о новом законодательстве, для которого, по вашему мнению, требуется функциональная поддержка в Business Central, вы можете с помощью этого руководства отправить нормативное оповещение рабочей группе продукта.
 author: sorenfriisalexandersen
 ms.service: dynamics365-business-central
-ms.topic: conceptual
+ms.topic: article
 ms.reviewer: edupont
 ms.search.keywords: ''
-ms.date: 06/25/2021
+ms.date: 04/01/2020
 ms.author: soalex
-ms.openlocfilehash: dc993a446219c5dcb28cd9a90756c0355ba30a16
-ms.sourcegitcommit: e562b45fda20ff88230e086caa6587913eddae26
+ms.openlocfilehash: 349c930a5103814d6d7befc3a4e8135bc92081b0
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "6319985"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3192151"
 ---
 # <a name="submit-alerts-about-countryregion-specific-regulatory-features"></a>Отправка оповещений о специальных нормативных функциях для страны или региона
 
@@ -52,7 +52,7 @@ ms.locfileid: "6319985"
         |Описание  | Введите краткий обзор закона. Описание должно сосредоточиться на проблемах, связанных с планированием ресурсов предприятия (ERP), таким образом, чтобы пользователи могли понять требования на высоком уровне без предварительного ознакомления с законодательством.|
         |Страна  | Укажите страну или регион действия законодательства.|
         |Отрасль| Укажите отрасль, если требование применяется только к определенным отраслям. Например, выберите **Государственный сектор**, **Розничная торговля** или **Производство**.|
-        |Ссылка на компонент  | Это не относится к Dynamics 365 Business Central, но можно указать ссылку на компонент, если он известен. Список компонентов для определенной страны можно найти на [Портале локализации](/dynamics/s-e/) на сайте CustomerSource. |
+        |Ссылка на компонент  | Это не относится к Dynamics 365 Business Central, но можно указать ссылку на компонент, если он известен. Список компонентов для определенной страны можно найти на [Портале локализации](https://mbs.microsoft.com/customersource/global/ax/support/support-news/GFMLocalizationPortalMC) на сайте CustomerSource. |
         |Дата вступления закона в силу  | Определите дату, когда затронутые клиенты должны начать соблюдать требования закона.|
         |Дата объявления правительством  | Укажите дату, когда уполномоченный орган объявил об изменении.|
         |Последняя дата заполнения  | Выберите крайний срок первой подачи нового или измененного отчета.|
@@ -74,12 +74,9 @@ ms.locfileid: "6319985"
 
 ## <a name="see-also"></a>См. также
 
-[Локальная функциональность в [!INCLUDE[prod_long](includes/prod_long.md)]](about-localization.md)  
+[Локальная функциональность в [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](about-localization.md)  
 [Изменение языка и языкового стандарта](about-locale-language.md)  
-[Подготовьтесь к ведению бизнеса](ui-get-ready-business.md)  
+[Приступая к работе](product-get-started.md)  
 [Добро пожаловать в Business Central](index.md)  
 
-## [!INCLUDE[prod_short](includes/free_trial_md.md)]  
-
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]
+## [!INCLUDE[d365fin](includes/free_trial_md.md)]  

@@ -5,19 +5,19 @@ services: project-madeira
 documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: conceptual
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: relationship, prospect
-ms.date: 04/01/2021
-ms.author: edupont
-ms.openlocfilehash: ed9a7b84798ac7b0bf103329c9e06ea0468aa03b
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.date: 04/01/2020
+ms.author: sgroespe
+ms.openlocfilehash: 69e5cbb897527a903594af893c0af44a48dbee27
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5788081"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3181249"
 ---
 # <a name="set-up-contacts"></a>Настройка контактов
 При создании контактов можно ввести определенные сведения, такие как отрасль, к которой принадлежит контакт, и деловые отношения с контактами.
@@ -149,7 +149,7 @@ ms.locfileid: "5788081"
 ## <a name="synchronizing-contacts-with-customers-vendors-and-bank-accounts"></a>Синхронизация контактов с клиентами, поставщиками и банковскими счетами
 Чтобы синхронизировать карточку контакта со связанной карточкой клиента, поставщика или банковского счета, необходимо заполнить соответствующее поле в разделе **Код дел. отношения для** на экспресс-вкладке **Взаимодействия** на странице **Настройка модуля "Маркетинг"**.  
 
-Дополнительные сведения см. в разделе [Синхронизация контактов с клиентами, поставщиками и банковскими счетами](marketing-create-contact-companies.md#synchronizing-contacts-with-customers-vendors-employees-and-bank-accounts).
+Дополнительные сведения см. в разделе [Синхронизация контактов с клиентами, поставщиками и банковскими счетами](marketing-create-contact-companies.md#synchronizing-contacts-with-customers-vendors-and-bank-accounts).
 
 ## <a name="searching-for-duplicate-contacts"></a>Поиск дубликатов контактов
 Приложение может автоматически осуществлять поиск дубликатов всякий раз, когда вы создаете контакт, или же вы можете искать их вручную после создания контактов. Кроме того, приложение может автоматически обновлять строки поиска при каждом изменении контактной информации или создании контакта. Вы можете установить процент совпадений, т.е. процент идентичных строк в двух контактах, при котором приложение будет рассматривать эти контакты как дубликаты. Это настраивается на экспресс-вкладке **Дубликаты** на странице **Настройка модуля "Маркетинг"**.
@@ -160,7 +160,4 @@ ms.locfileid: "5788081"
 [Управление контактами](marketing-contacts.md)  
 [Создание контактов](marketing-create-contact-companies.md)  
 [Управление возможностями продаж](marketing-manage-sales-opportunities.md)  
-[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
-
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]
+[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

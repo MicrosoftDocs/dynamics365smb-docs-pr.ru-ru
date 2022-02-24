@@ -3,25 +3,25 @@ title: Регистрация НДС по заказам на покупку в 
 description: Российские усовершенствования включают поддержку НДС в заказах на покупку.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: conceptual
+ms.topic: article
 ms.search.keywords: ''
-ms.date: 04/01/2021
+ms.date: 04/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 5b741cdcd94b0425e2f6a76463c4dc237d8c07a9
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: d3b6071c9cebdb49ed3284aa5f3e371c092f2fc6
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6442645"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3180948"
 ---
 # <a name="register-vat-on-purchase-orders"></a>Регистрация НДС по заказам на покупку
 
-В России организации должны вести журнал НДС по входящим и исходящим счетам. [!INCLUDE[prod_short](../../includes/prod_short.md)] позволяет регистрировать НДС по заказам на покупку, чтобы эта информация отслеживалась в журнале счетов НДС.
+В России организации должны вести журнал НДС по входящим и исходящим счетам. [!INCLUDE[prodshort](../../includes/prodshort.md)] позволяет регистрировать НДС по заказам на покупку, чтобы эта информация отслеживалась в журнале счетов НДС.
 
 ## <a name="to-register-vat-on-a-purchase-order"></a>Регистрация НДС по заказам на покупку
 
-1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../../media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Заказ на покупку**, а затем выберите связанную ссылку. Выберите соответствующий заказ на покупку.
+1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Заказ на покупку**, затем выберите соответствующую ссылку. Выберите соответствующий заказ на покупку.
 
 2. На экспресс-вкладке **Отгрузка** заполните поля, как описано в следующей таблице.
 
@@ -45,6 +45,3 @@ ms.locfileid: "6442645"
 [Настройка книг НДС](How-to-Set-Up-VAT-Ledgers.md)  
 [Подготовка операций НДС к учету](How-to-Prepare-VAT-Entries-for-Posting.md)  
 [Подача отчета об НДС в налоговые органы](../../finance-how-report-vat.md)  
-
-
-[!INCLUDE[footer-include](../../includes/footer-banner.md)]

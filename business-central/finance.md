@@ -1,26 +1,26 @@
 ---
-title: Финансовый менеджмент (содержит видео)
-description: Узнайте о том, как Business Central поддерживает ваши потребности в финансовом управлении, бухгалтерском учете, аудите или ведении бухгалтерского учета.
+title: Управление финансами | Документация Майкрософт
+description: Узнайте о задачах по настройке финансов для своего бизнеса в соответствии требованиями учет и аудита.
+services: project-madeira
+documentationcenter: ''
 author: edupont04
 ms.service: dynamics365-business-central
-ms.topic: conceptual
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: accounting, auditing, bookkeeping
-ms.search.form: 1151, 1166, 9027, 9004
-ms.date: 06/15/2021
+ms.date: 04/01/2020
 ms.author: edupont
-ms.openlocfilehash: 2582e96b8113abe91fe10a087833d4fbeb5b7da5
-ms.sourcegitcommit: 2ab6709741be16ca8029e2afadf19d28cf00fbc7
+ms.openlocfilehash: 60b62845a359cec21b52f42c6692edc417a65123
+ms.sourcegitcommit: 4545bb597dd9dc4c563b30af762977ee1d815497
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/14/2022
-ms.locfileid: "7970915"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "3410751"
 ---
-# <a name="financial-management"></a>Финансовый менеджмент
-
-[!INCLUDE[prod_short](includes/prod_short.md)] содержит стандартную конфигурацию большинства финансовых процессов, но вы можете изменить ее в соответствии со своими бизнес-потребностями. Дополнительные сведения см. в разделе [Настройка финансов](finance-setup-finance.md).
+# <a name="finance"></a>Финансы
+[!INCLUDE[d365fin](includes/d365fin_md.md)] содержит стандартную конфигурацию большинства финансовых процессов, но вы можете изменить ее в соответствии со своими бизнес-потребностями. Дополнительные сведения см. в разделе [Настройка финансов](finance-setup-finance.md).
 
 Конфигурация по умолчанию включает план счетов и стандартные учетные группы, что позволяет сделать более эффективным процесс назначения учетных счетов главной книги клиентам, поставщикам и товарам.  
 
@@ -45,7 +45,7 @@ ms.locfileid: "7970915"
 | Назначение дополнительной себестоимости, такой как затраты на перевозку или физическую обработку, которые возникают во время торговли, соответствующим товарам, чтобы эта себестоимость была отражена в переоценке запасов. |[Использование товарных издержек для учета дополнительных торговых расходов](payables-how-assign-item-charges.md) |
 |Учет расхода личных средств сотрудников на служебные цели и возмещение затрат сотрудников путем платежей на их банковские счета.|[Регистрация и возмещение расходов сотрудников](finance-how-record-reimburse-employee-expenses.md)|
 | Определение доходов и расходов за периоды, отличные от периода, в котором были учтены транзакции. |[Доходы и расходы будущих периодов](finance-how-defer-revenue-expenses.md)|
-| Узнайте больше о доступных параметрах автоматической отправке счетов по подписке вашим клиентам и регистрации регулярных доходов. |[Работа с повторяющимся доходом](finance-recurring-invoicing.md)|
+| Узнайте больше о доступных параметрах автоматической отправке счетов по подписке вашим клиентам и регистрации регулярных доходов. |[Повторяющийся доход (подписка)](finance-recurring-invoicing.md)|
 |Узнайте, как использовать дополнительные валюты и автоматически обновлять курсы обмена. |[Обновление валютных курсов](finance-how-update-currencies.md)|
 | Импорт транзакций зарплаты от поставщика системы зарплаты в главную книгу. |[Импорт транзакций зарплаты](finance-how-import-payroll-transactions.md)|
 |Использование функций для вычисления налога на добавленную стоимость (НДС) для транзакций продажи или покупки, чтобы можно было отчитываться о суммах перед налоговыми органами.|[Работа с НДС по продажам и покупкам](finance-work-with-vat.md)|
@@ -54,26 +54,16 @@ ms.locfileid: "7970915"
 | Отслеживание потока денежных средств в организацию и из нее. |[Анализ движения денежных средств в организации](finance-analyze-cash-flow.md) |
 |Следуйте полной процедуре по использованию финансовых отчетов для создания прогнозов движения денежных средств.|[Пошаговое руководство. Создание прогнозов движения денежных средств с использованием финансовых отчетов](walkthrough-making-cash-flow-forecasts-by-using-account-schedules.md)|
 | Работа с финансовыми отчетами и обзорами в Excel. |[Анализ финансовых выписок в Excel](finance-analyze-excel.md) |
-|Узнайте, как использовать ролевой центр бухгалтеров, пригласить внешнего бухгалтера и использовать раздел организации для управления счетами для нескольких клиентов.|[Работа бухгалтера в Business Central](finance-accounting.md)|  
-
-## <a name="take-a-video-tour"></a>Смотреть видеообзор
-
-Следующее видео знакомит с некоторыми ключевыми возможностями управления финансами. <br><br>  
-
-> [!Video https://www.microsoft.com/videoplayer/embed/RE4Fss4?rel=0]
+|Узнайте, как использовать ролевой центр бухгалтеров, пригласить внешнего бухгалтера и использовать Accountant Hub для управления счетами для нескольких клиентов.|[Работа бухгалтера в Business Central](finance-accounting.md)|  
 
 ## <a name="see-also"></a>См. также
-
 [Настройка финансов](finance-setup-finance.md)  
 [Продажи](sales-manage-sales.md)  
 [Покупки](purchasing-manage-purchasing.md)  
 [Закрытие финансовых периодов](year-close-years-periods.md)  
-[Управление проектами](projects-manage-projects.md)  
+[Управление проектами](projects-manage-projects.md)    
 [Импорт данных из других финансовых систем](across-import-data-configuration-packages.md)  
 [Работа с финансовыми журналами](ui-work-general-journals.md)  
-[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
+[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 
-## [!INCLUDE[prod_short](includes/free_trial_md.md)]  
-
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]
+## [!INCLUDE[d365fin](includes/free_trial_md.md)]  

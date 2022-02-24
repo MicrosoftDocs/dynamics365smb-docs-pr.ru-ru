@@ -1,28 +1,27 @@
 ---
-title: Работа с повторяющимся доходом
+title: Работа с повторяющимся доходом | Документация Майкрософт
 description: Узнайте больше о доступных параметрах автоматической отправке счетов по подписке вашим клиентам и регистрации регулярных доходов.
 author: AndreiPanko
 ms.service: dynamics365-business-central
-ms.topic: conceptual
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: recurring, invoicing, subscription, billing
-ms.search.form: 283
 ms.reviewer: edupont
-ms.date: 04/01/2021
+ms.date: 05/27/2020
 ms.author: andreipa
-ms.openlocfilehash: 696ab59530c81cd19709f4e1bde3324bcaebbf5a
-ms.sourcegitcommit: 2ab6709741be16ca8029e2afadf19d28cf00fbc7
+ms.openlocfilehash: a0439557ce69b3c53406bd43b3b76cdf9ae73a10
+ms.sourcegitcommit: 4545bb597dd9dc4c563b30af762977ee1d815497
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/14/2022
-ms.locfileid: "7970993"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "3410791"
 ---
-# <a name="work-with-recurring-revenue-in-prod_short"></a>Работа с повторяющимся доходом в [!INCLUDE[prod_short](includes/prod_short.md)]
+# <a name="work-with-recurring-revenue-in-d365fin"></a>Работа с повторяющимся доходом в [!INCLUDE[d365fin](includes/d365fin_md.md)]
 
 Многие компании переходят от модели доходов от бизнеса, в которой доход поступает от единовременной покупки клиента, к модели подписки, где доход поступает на постоянной основе в обмен на постоянный доступ к доставке товара или услуги.
-В [!INCLUDE[prod_short](includes/prod_short.md)] есть следующие функции для автоматизации отправки счетов за подписку вашим клиентам и регистрации регулярных доходов. 
+В [!INCLUDE[d365fin](includes/d365fin_md.md)] есть следующие функции для автоматизации отправки счетов за подписку вашим клиентам и регистрации регулярных доходов. 
 
 ## <a name="register-revenue-with-a-recurring-general-journal"></a>Регистрация дохода в типовом финансовом журнале
 
@@ -32,7 +31,7 @@ ms.locfileid: "7970993"
 
 С помощью этой опции вы определяете гибкие периоды выставления счетов с использованием [Формул даты](ui-enter-date-ranges.md#using-date-formulas).
 
-Однако с этой опцией вы не можете печатать и отправлять счета в версии по умолчанию [!INCLUDE[prod_short](includes/prod_short.md)].  
+Однако с этой опцией вы не можете печатать и отправлять счета в версии по умолчанию [!INCLUDE[d365fin](includes/d365fin_md.md)].  
 
 Дополнительные сведения см. в разделе [Работа с типовыми журналами](ui-work-general-journals.md#working-with-recurring-journals).  
 
@@ -58,7 +57,7 @@ ms.locfileid: "7970993"
 
 С помощью этой опции вы можете назначить одинаковые типовые строки нескольким клиентам. Вы можете определить срок действия для строк типовых продаж для конкретного клиента. Вы можете назначить несколько типовых строк одному клиенту, и все они будут включены в счет.
 
-Тем не менее нет возможности установить фиксированные цены на товары, потому что [!INCLUDE[prod_short](includes/prod_short.md)] будет использовать актуальные цены и скидки, действительные на дату документа, пытаясь найти лучшую комбинацию, которая дает самую низкую цену.  
+Тем не менее нет возможности установить фиксированные цены на товары, потому что [!INCLUDE[d365fin](includes/d365fin_md.md)] будет использовать актуальные цены и скидки, действительные на дату документа, пытаясь найти лучшую комбинацию, которая дает самую низкую цену.  
 
 Дополнительные сведения см. в разделе [Создание типовых строк продажи и покупки](sales-how-work-standard-lines.md).
 
@@ -78,7 +77,7 @@ ms.locfileid: "7970993"
 Для получения дополнительной информации см. [Работа с сервисными контрактами и предложениями по сервисным контрактам](service-how-to-create-service-contracts-and-service-contract-quotes.md) и [Выставление счетов по нескольким сервисным контрактам](service-how-create-invoices.md#to-invoice-several-service-contracts).
 
 ## <a name="related-features"></a>Связанные функции
-В [!INCLUDE[prod_short](includes/prod_short.md)] есть несколько связанных возможностей в.
+В [!INCLUDE[d365fin](includes/d365fin_md.md)] есть несколько связанных возможностей в.
 
 ### <a name="blanket-sales-orders"></a>Общие заказы на продажу
 
@@ -104,11 +103,11 @@ ms.locfileid: "7970993"
 
 Но этот параметр доступен только в Норвегии. Период действия может быть определен на уровне типовой группы.
 
-Дополнительные сведения см. в разделе [Повторяющиеся заказы](LocalFunctionality/Norway/recurring-orders.md).
+Дополнительные сведения см. в разделе [Типовые заказы (Норвегия)](/localfunctionality/norway/recurring-orders.md).
 
 ### <a name="recurring-revenue-and-subscription-billing-by-other-providers"></a>Повторяющийся доход и выставление счетов подписчикам другими поставщиками
 
-В [AppSource.microsoft.com](https://appsource.microsoft.com/) вы можете получить расширение для Business Central. Некоторые расширения разработаны Майкрософт, а другие — другими организациями. Список расширений от других организаций растет каждый месяц. Поэтому следите за обновлениями [AppSource.microsoft.com](https://go.microsoft.com/fwlink/?linkid=2081646) и скачивайте приложения, которые помогут вам работать в Business Central.  
+В [AppSource.microsoft.com](https://appsource.microsoft.com/) вы можете получить расширение для Business Central. Некоторые расширения разработаны Майкрософт, а другие — другими организациями. Список расширений от других организаций растет каждый месяц. Поэтому следите за обновлениями [AppSource.microsoft.com](https://appsource.microsoft.com/marketplace/apps?product=dynamics-365%3Bdynamics-365-business-central&page=1) и скачивайте приложения, которые помогут вам работать в Business Central.  
 
 ## <a name="see-also"></a>См. также
 
@@ -121,7 +120,4 @@ ms.locfileid: "7970993"
 [Выставление счетов по нескольким сервисным контрактам](service-how-create-invoices.md#to-invoice-several-service-contracts)  
 [Прогнозы спроса и общие заказы](design-details-central-concepts-of-the-planning-system.md#demand-forecasts-and-blanket-orders)  
 [Работа с общими заказами на продажу](sales-how-to-create-blanket-sales-orders.md)  
-[Типовые заказы (Норвегия)](LocalFunctionality/Norway/recurring-orders.md)  
-
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]
+[Типовые заказы (Норвегия)](/localfunctionality/norway/recurring-orders.md)  

@@ -5,23 +5,20 @@ ms.custom: na
 ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
-ms.topic: conceptual
+ms.topic: article
 ms.service: dynamics365-business-central
 author: jswymer
-ms.author: jswymer
-ms.date: 04/01/2021
-ms.openlocfilehash: 99dd133c3f3ab05806976c5fe840f81dcd8e1403
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.date: 04/01/2020
+ms.openlocfilehash: 7790548828595838e6c2f626194d59260ef4e8ab
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6440903"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3187776"
 ---
 # <a name="inspecting-pages-in-business-central"></a>Инспекция страниц в Business Central
 
 Функция инспекции страниц позволяет получить подробные сведения о странице, обеспечивая аналитические данные о дизайне странице, различных элементах, из которых состоит страница, и источнике, лежащем в основе отображаемых на странице данных. Инспекция страниц предназначена специально для администраторов, опытных пользователей, обслуживающего персонала и разработчиков. Она идеально подходит для изучения модели данных, лежащих в основе страницы, и устранения неполадок. Например, если вы испытываете проблему на странице, вы можете использовать инспектирование страницы для получения информации, которую следует передать системному администратору или персоналу технической поддержки.
-
-[!INCLUDE [send-report-excel](includes/send-report-excel.md)]
 
 ## <a name="working-with-page-inspection"></a>Работа с инспекцией страницы
 
@@ -29,7 +26,7 @@ ms.locfileid: "6440903"
 
 Сбоку открывается область **Инспекция страницы**. На приведенном ниже рисунке изображена область **Инспекция страницы** на странице **Заказ на продажу**.
 
-![Инспекция страницы.](media/page-inspection-example.png)
+![Инспекция страницы](media/page-inspection-example.png)
 
 Когда область **Инспекция страницы** открывается в первый раз, в ней отображается информация, относящаяся к главному объекту страницы.
 
@@ -47,7 +44,4 @@ ms.locfileid: "6440903"
 
 ## <a name="see-also"></a>См. также
 
-[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
-
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]
+[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  

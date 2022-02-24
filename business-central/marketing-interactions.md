@@ -1,23 +1,23 @@
 ---
-title: Управление взаимодействиями с контактами
+title: Управление взаимодействиями с вашими контактами | Документация Майкрософт
 description: Вы можете управлять всеми типами коммуникаций и взаимодействий между организацией и контактами, например, письмами, телефонными звонками, встречами и т. д.
+services: project-madeira
 documentationcenter: ''
 author: jswymer
 ms.service: dynamics365-business-central
-ms.topic: conceptual
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: relationship, prospect
-ms.search.forms: 5082,
-ms.date: 04/01/2021
+ms.date: 04/01/2020
 ms.author: jswymer
-ms.openlocfilehash: 6a923884e7ea28def6335f063d04e5fab9365d81
-ms.sourcegitcommit: 189bf08d7ddf6c8b7ef2c09058c6847aa6e590d3
+ms.openlocfilehash: 8e55baf7fcc375c492a4b50794d823ad13b432a4
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/31/2022
-ms.locfileid: "8059446"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3181392"
 ---
 # <a name="record-interactions-with-contacts"></a>Регистрация взаимодействий с контактами
 Настройка приложения для регистрации взаимодействий состоит из следующих задач:
@@ -50,12 +50,9 @@ ms.locfileid: "8059446"
 * Просматривать статус взаимодействий.
 * Помечать взаимодействия как отмененные.
 
-Удалять операции журнала взаимодействий, которые были отменены. Для удаления операций журнала взаимодействия выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Удалить отмененные операции журналов взаимодействий**, а затем выберите связанную ссылку и внесите информацию.
+Удалять операции журнала взаимодействий, которые были отменены. Чтобы удалить операции журнала взаимодействий, выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Удалить отмененные операции журналов взаимодействий**, затем выберите связанную ссылку и заполните сведения.
 
 ## <a name="see-also"></a>См. также
 [Управление контактами](marketing-contacts.md)  
 [Управление возможностями продаж](marketing-manage-sales-opportunities.md)  
 [Работа с Business Central](ui-work-product.md)  
-
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]

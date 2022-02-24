@@ -1,22 +1,21 @@
 ---
-title: Обзор задач по управлению платежами поставщикам
+title: Обзор задач управления платежами поставщикам | Документация Майкрософт
 description: Описываются задачи по управлению платежами поставщикам или кредиторам, включая учет строк платежей и получение обзора сумм к оплате.
 author: edupont04
 ms.service: dynamics365-business-central
-ms.topic: overview
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: print check, vendor payment, creditor, debt, balance due, AP
-ms.search.form: 254, 256, 1190, 1191, 1227, 1228, 1229
-ms.date: 04/01/2021
+ms.date: 10/01/2019
 ms.author: edupont
-ms.openlocfilehash: 2abf1886541e51e23b5ebc9bbb5dec1d4a83bd06
-ms.sourcegitcommit: f4b32ba1f926a2a712400c36305616f320757723
+ms.openlocfilehash: 99da82d54a2e769c2ebbaf7d4c103791119517d9
+ms.sourcegitcommit: d0dc5e5c46b932899e2a9c7183959d0ff37738d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/08/2022
-ms.locfileid: "8101429"
+ms.lasthandoff: 02/20/2020
+ms.locfileid: "3076466"
 ---
 # <a name="making-payments"></a>Осуществление платежей
 
@@ -46,7 +45,4 @@ ms.locfileid: "8101429"
 [Управление кредиторской задолженностью](payables-manage-payables.md)  
 [Покупки](purchasing-manage-purchasing.md)  
 [Управление дебиторской задолженностью](receivables-manage-receivables.md)  
-[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
-
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]
+[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  

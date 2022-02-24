@@ -1,22 +1,23 @@
 ---
-title: Обзор задач по настройке закупок
+title: Обзор задач для настройки закупок | Документация Майкрософт
 description: Описывает задачи по определению политик закупки организации и настройки процессы покупки.
+services: project-madeira
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: overview
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: procurement, supply, vendor order
-ms.search.form: 175, 176, 177, 178, 456, 460, 5727, 5729
-ms.date: 04/01/2021
-ms.author: edupont
-ms.openlocfilehash: 138cbe3e8f20448c37b59ca9ab8232e0155dc6a6
-ms.sourcegitcommit: c05806689d289d101bd558696199cefbd989473e
+ms.date: 01/13/2020
+ms.author: sgroespe
+ms.openlocfilehash: 6ceaf6828ac5067a0a34c4120627e0352dc90d2d
+ms.sourcegitcommit: ead69ebe5b29927876a4fb23afb6c066f8854591
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2022
-ms.locfileid: "8115398"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "2954007"
 ---
 # <a name="setting-up-purchasing"></a>Настройка покупки
 Прежде чем приступать к управлению процессами закупки, необходимо настроить правила и значения, которые определяют политики закупок в организации.
@@ -33,21 +34,9 @@ ms.locfileid: "8115398"
 | Введите различные скидки и специальные цена, которые предлагает поставщик в зависимости от товара, количества или даты |[Регистрация соглашений о цене покупки, скидках и платежах](purchasing-how-record-purchase-price-discount-payment-agreements.md) |
 | Назначение приоритетов поставщикам |[Назначение приоритетов поставщикам](purchasing-how-prioritize-vendors.md) |
 | Настройка менеджеров по закупкам |[Настройка менеджеров по закупкам](purchasing-how-setup-purchasers.md) |
-|Укажите отчеты по умолчанию, которые будут использоваться для различных типов документов.|[Выбор отчета в Business Central](across-report-selections.md)|
 
-> [!TIP]
-> В зависимости от вашего географического положения некоторые страницы могут содержать поля, которые не описаны в перечисленных здесь статьях, поскольку они применяются к локальным функциям или настройкам. [!INCLUDE [tooltip-inline-tip_md](includes/tooltip-inline-tip_md.md)]
-
-## <a name="external-document-number"></a>Номер внешнего документа
-
-[!INCLUDE [ext-doc-no-purch](includes/ext-doc-no-purch.md)]
-
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/trade-get-started-dynamics-365-business-central/)
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/trade-get-started-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
-
 [Покупки](purchasing-manage-purchasing.md)  
-[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
-
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]
+[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

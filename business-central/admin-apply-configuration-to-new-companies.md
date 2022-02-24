@@ -1,21 +1,21 @@
 ---
-title: Применить конфигурацию к новым организациям
-description: После создания пакета конфигурации следует развернуть пакет клиенту для внедрения. Конфигурация используется для новой пустой организации.
+title: Применение конфигурации к новым организациям | Документация Майкрософт
+description: После создания пакета конфигурации на следующем шаге следует развернуть пакет клиенту для внедрения. Конфигурация используется для новой пустой организации.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: conceptual
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 06/14/2021
-ms.author: edupont
-ms.openlocfilehash: 8eaffa61361a9cbcc01af3585090dc0939eaa4d8
-ms.sourcegitcommit: e562b45fda20ff88230e086caa6587913eddae26
+ms.date: 04/01/2020
+ms.author: sgroespe
+ms.openlocfilehash: 56190be2caf1c31cf7c78d1a452d03ba7deea58e
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "6324104"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3187488"
 ---
 # <a name="apply-configurations-to-new-companies"></a>Применение конфигураций к новым организациям
 После создания пакета конфигурации на следующем шаге следует развернуть пакет клиенту для внедрения. Работа с пакетами конфигурации производится в рамках новой пустой организации.  
@@ -33,6 +33,3 @@ ms.locfileid: "6324104"
 ## <a name="see-also"></a>См. также  
 [Настройка организации со службами RapidStart Services](admin-set-up-a-company-with-rapidstart.md)  
 [Администрация](admin-setup-and-administration.md)
-
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]

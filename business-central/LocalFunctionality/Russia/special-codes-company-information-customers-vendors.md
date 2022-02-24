@@ -1,23 +1,23 @@
 ---
-title: Специальные коды для информации о компании, клиентах, поставщиках (RU)
+title: Специальные коды для информации о компании, клиентах, поставщиках в России
 description: Российские улучшения включают дополнительную информацию о вашей компании, каждом клиенте и поставщике.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: conceptual
+ms.topic: article
 ms.search.keywords: ''
-ms.date: 04/01/2021
+ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 1c5a0c4e71a876b1445780668d8321e620850b49
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 545156b96408c903fd22052ef45149474f7e078a
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5781401"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2301125"
 ---
 # <a name="special-codes-for-company-information-customers-and-vendors"></a>Специальные коды для информации о компании, клиентах, поставщиках
 
-В русской версии [!INCLUDE[prod_short](../../includes/prod_short.md)] добавлены специальные коды классификации, которые необходимы в некоторых печатных формах и отчетах.
+В русской версии [!INCLUDE[prodshort](../../includes/prodshort.md)] добавлены специальные коды классификации, которые необходимы в некоторых печатных формах и отчетах.
 
 ## <a name="company-information"></a>Информация о компании
 
@@ -76,6 +76,3 @@ ms.locfileid: "5781401"
 ## <a name="see-also"></a>См. также
 
 [Функциональность локальной версии для России](russia-local-functionality.md)  
-
-
-[!INCLUDE[footer-include](../../includes/footer-banner.md)]

@@ -1,21 +1,21 @@
 ---
-title: Подбор товаров для складской отгрузки
-description: Узнайте, как использовать документы складского подбора для создания и обработки информации о подборе перед разноской складской отгрузки.
+title: Практическое руководство. Подбор товаров для складской отгрузки | Документация Майкрософт
+description: Если склад настроен так, что требуется обработка как складского подбора, так и складской отгрузки, то для создания и обработки информации о подборе до учета складской отгрузки используются документы складского подбора.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: conceptual
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2021
-ms.author: edupont
-ms.openlocfilehash: b5b92c04fea101959c32775c768bbbaab22a7c3e
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.date: 04/01/2020
+ms.author: sgroespe
+ms.openlocfilehash: fe91ed57af6a93f874ead85f53c97358068e0b4c
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6441864"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3192974"
 ---
 # <a name="pick-items-for-warehouse-shipment"></a>Подбор товаров для складской отгрузки
 Если склад настроен так, что требуется обработка как складского подбора, так и складской отгрузки, то для создания и обработки информации о подборе до учета складской отгрузки используются документы складского подбора.  
@@ -38,7 +38,7 @@ ms.locfileid: "6441864"
 >  Для получения информации о подборе компонентов для сборочных заказов, в том числе о ситуациях когда сборочный элемент не должен быть в расходной накладной, см. раздел [Подбор для производства или сборки](warehouse-how-to-pick-for-production.md).  
 
 ## <a name="to-pick-items-for-warehouse-shipment"></a>Складской подбор товаров для отгрузки  
-1.  Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Складской подбор**, а затем выберите связанную ссылку.  
+1.  Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Подборы**, затем выберите соответствующую ссылку.  
 
     Если необходимо работать с определенным подбором, выберите этот подбор в списке или отфильтруйте список, чтобы найти подборы, назначенные для вас. Откройте карточку подбора.  
 2.  Если поле **Код исполнителя** пустое, при необходимости введите для идентификации свой код.  
@@ -79,7 +79,4 @@ ms.locfileid: "6441864"
 [Настройка управления складом](warehouse-setup-warehouse.md)     
 [Управление сборкой](assembly-assemble-items.md)    
 [Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
-[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
-
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]
+[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

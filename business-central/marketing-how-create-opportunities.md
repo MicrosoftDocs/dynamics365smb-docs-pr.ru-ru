@@ -1,23 +1,23 @@
 ---
-title: Создание возможностей продаж
-description: В этой статье описывается создание возможностей из менеджеров по продажам или контактов в Business Central.
+title: Создание возможностей продаж | Документация Майкрософт
+description: Описывается создание возможностей из менеджеров по продажам или контактов в Business Central.
 services: project-madeira
 documentationcenter: ''
 author: jswymer
 ms.service: dynamics365-business-central
-ms.topic: conceptual
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: relationship, prospect
-ms.date: 06/22/2021
+ms.date: 04/01/2020
 ms.author: jswymer
-ms.openlocfilehash: 68074c38203f987ed4ff48d9c14ad4a25891e8ba
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 0971998feed22b61dbcb948dda719e7e40287e63
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6437270"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3181536"
 ---
 # <a name="create-sales-opportunities"></a>Создание возможностей продаж
 Можно создать возможности для возможностей торговли с имеющимися у вас контактами. Все возможности должны назначаться менеджеру или специалисту по закупкам, а также должны содержать контакт.
@@ -27,7 +27,7 @@ ms.locfileid: "6437270"
 Перед созданием возможностей необходимо настроить циклы продаж возможностей. Дополнительные сведения см. в разделе [Настройка циклов продаж и этапов](marketing-how-setup-opportunity-sales-cycles-stages.md).
 
 ## <a name="to-create-an-opportunity-from-a-salesperson"></a>Создание возможности для менеджера по продажам
-1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Менеджеры по продажам**, а затем выберите связанную ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Менеджеры по продажам**, затем выберите соответствующую ссылку.
 2. Выберите из списка менеджера по продажам, для которого требуется создать возможность.
 3. Выберите действие **Возможности**, а затем выберите **Список**.
 4. Выберите **Создать**, а затем заполните соответствующие поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
@@ -35,7 +35,7 @@ ms.locfileid: "6437270"
 
 
 ## <a name="to-create-an-opportunity-from-a-contact"></a>Создание возможности для контакта
-1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Контакты**, а затем выберите связанную ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Контакты**, затем выберите соответствующую ссылку.
 2. Выберите из списка контакт, для которого требуется создать возможность.
 3. Выполните одно из следующих действий:
    * Выберите действие **Создать возможности**.
@@ -46,6 +46,3 @@ ms.locfileid: "6437270"
 [Продажи](sales-manage-sales.md)  
 [Создание контактов и управление ими](marketing-contacts.md)  
 [Работа с Business Central](ui-work-product.md)
-
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]

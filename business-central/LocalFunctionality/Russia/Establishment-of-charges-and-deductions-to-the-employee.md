@@ -3,17 +3,17 @@ title: Установление начислений и отчислений в 
 description: Российские улучшения включают начисления и отчисления.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: conceptual
+ms.topic: article
 ms.search.keywords: ''
-ms.date: 04/01/2021
+ms.date: 04/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 3552fbc3567efe4fc82a42284bad28968c3c1398
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 9e80045d37d2c9ad23eaa67485782eefa11eb60f
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5771363"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3180999"
 ---
 # <a name="establishing-charges-and-deductions-to-the-employee"></a>Установление начислений и удержаний работнику
 
@@ -32,8 +32,7 @@ ms.locfileid: "5771363"
 
 - приказы о выделении работнику материальной помощи, подарка.
 
-> [!NOTE]
-> Журнал работников не имеет ограничений по регистрации определенных видов начислений и отчислений, но основные условия труда должны быть изменяться путем дополнения трудового договора. Это обеспечивает возможность формирования необходимых печатных форм документов для работника.
+> [!ПРИМЕЧАНИЕ Журнал работников не имеет ограничений по регистрации определенных видов начислений и отчислений, но основные условия труда должны быть изменяться путем дополнения трудового договора. Это обеспечивает возможность формирования необходимых печатных форм документов для работника.
 
 Список полей, которые должны быть заполнены в строке журнала сотрудников, определяется кодом зарплатного элемента.
 
@@ -76,6 +75,3 @@ ms.locfileid: "5771363"
 ## <a name="see-also"></a>См. также
 
 [Персонал](Human-Resources.md)
-
-
-[!INCLUDE[footer-include](../../includes/footer-banner.md)]

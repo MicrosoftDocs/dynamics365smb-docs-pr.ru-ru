@@ -1,26 +1,28 @@
 ---
-title: Просмотр операций перед учетом документа или журнала
+title: Просмотр операций перед учетом документа или журнала | Документация Майкрософт
 description: Вы можете проверить правильность операций в документах и журналах, прежде чем учитывать их в главной книге.
+services: project-madeira
+documentationcenter: ''
 author: SusanneWindfeldPedersen
 ms.service: dynamics365-business-central
-ms.topic: conceptual
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.date: 04/01/2021
+ms.date: 10/01/2019
 ms.author: solsen
-ms.openlocfilehash: 3392698c48cd4d1febdf1e37d396ceed1ac37bf5
-ms.sourcegitcommit: f4b32ba1f926a2a712400c36305616f320757723
+ms.openlocfilehash: 7ba27dd454bfac63a68db93520afaca266506029
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/08/2022
-ms.locfileid: "8101507"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2310952"
 ---
 # <a name="preview-posting-results"></a>Предварительный просмотр результатов учета
 Во всех документах и журналах, которые можно учитывать, можно нажать кнопку **Предварительный просмотр учета** для просмотра различных типов операций, которые будут созданы при учете документа или журнала.
 
 ## <a name="to-preview-gl-entries-that-will-result-from-posting-a-purchase-invoice"></a>Просмотр операций ГК, которые появятся в результате учета счета покупки
-1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Счета покупки**, а затем выберите связанную ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Счета покупки**, а затем выберите соответствующую ссылку.
 2. Создайте счет покупки. Дополнительные сведения см. в разделе [Регистрация покупок](purchasing-how-record-purchases.md).
 3. Выберите **Предварительный просмотр учета**.
 4. На странице **Предварительный просмотр учета** выберите **Операция ГК**, а затем выберите **Показать связанные операции**.  
@@ -28,8 +30,5 @@ ms.locfileid: "8101507"
 
 ## <a name="see-also"></a>См. также
 [Учет документов и журналов](ui-post-documents-journals.md)  
-[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
+[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 [Общие бизнес-функции](ui-across-business-areas.md)
-
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]

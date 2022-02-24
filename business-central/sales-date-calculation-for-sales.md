@@ -1,24 +1,24 @@
 ---
-title: Расчет даты для продаж
-description: Приложение автоматически вычисляет дату, когда следует заказать товар, чтобы он был на складе на определенную дату и доступным для комплектации.
+title: Расчет даты для продаж | Документация Майкрософт
+description: Приложение автоматически вычисляет дату, когда следует заказать товар, чтобы иметь его на складе на определенную дату. Это дата, когда можно ожидать, что товары, заказанные на конкретную дату, будут доступны для подбора.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: conceptual
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 06/23/2021
-ms.author: edupont
-ms.openlocfilehash: 221580cebab85be781cd56d461e9d75bb321c15b
-ms.sourcegitcommit: e562b45fda20ff88230e086caa6587913eddae26
+ms.date: 04/01/2020
+ms.author: sgroespe
+ms.openlocfilehash: 7cbaeda98b06b742175563646f513ca78f874b70
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "6320210"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3191863"
 ---
 # <a name="date-calculation-for-sales"></a>Расчет даты для продаж
-[!INCLUDE[prod_short](includes/prod_short.md)] автоматически вычисляет наиболее раннюю дату, на которую может быть произведена отгрузка товара, указанного в строке заказа за продажу.
+[!INCLUDE[d365fin](includes/d365fin_md.md)] автоматически вычисляет наиболее раннюю дату, на которую может быть произведена отгрузка товара, указанного в строке заказа за продажу.
 
 Если клиент потребовал, чтобы поставка была произведена на конкретную дату, то дата, на которую товар должен быть в наличии для того, чтобы обеспечить выполнение этого требования, также будет вычислена.
 
@@ -45,7 +45,4 @@ ms.locfileid: "6320210"
 ## <a name="see-also"></a>См. также  
  [Расчет даты для покупок](purchasing-date-calculation-for-purchases.md)   
  [Расчет сроков планирования заказов](sales-how-to-calculate-order-promising-dates.md)  
- [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
-
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]
+ [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

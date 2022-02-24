@@ -1,21 +1,21 @@
 ---
-title: Настройка типов ячеек
-description: Присвойте ячейкам типы и основные операции потока и при этом определите способ использования ячеек для конкретных складских операций.
+title: Как настраивать типы ячеек | Документация Майкрософт
+description: Можно направить поток товаров через ячейки, указанные для определенной складской деятельности. Для ячейки заданы базовые действия и определен метод использования ячейки при помощи присвоения типа ячейки.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: conceptual
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.form: 7367
-ms.date: 06/25/2021
-ms.author: edupont
-ms.openlocfilehash: b867079eb08790f2cfa091d0128a876499fb2045
-ms.sourcegitcommit: 2ab6709741be16ca8029e2afadf19d28cf00fbc7
+ms.search.keywords: ''
+ms.date: 04/01/2020
+ms.author: sgroespe
+ms.openlocfilehash: f5a5903e3485e4db67b1f169d8c9a0c969058fa1
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/14/2022
-ms.locfileid: "7971580"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3191791"
 ---
 # <a name="set-up-bin-types"></a>Настройка типов ячеек
 Можно направить поток товаров через ячейки, указанные для определенной складской деятельности. Для ячейки заданы базовые действия и определен метод использования ячейки при помощи присвоения типа ячейки.  
@@ -23,7 +23,7 @@ ms.locfileid: "7971580"
 Существует шесть типов. Возможно управление складом с использованием всех шести типов ячеек, возможна также работа с ячейками только следующих типов: RECEIVE, PUTPICK, SHIP и QC. Эти четыре типа ячеек дают возможность делать предложения по поддержанию потока товаров и позволяют регистрировать расхождения в запасах.  
 
 ## <a name="to-set-up-the-bin-types-you-want-to-use"></a>Настройка необходимых типов ячеек  
-1.  Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Типы ячеек**, а затем выберите связанную ссылку.  
+1.  Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Типы ячеек**, затем выберите соответствующую ссылку.  
 2.  На странице **Типы ячейки** создайте код из десяти символов для типа ячейки.  
 3.  Выберите действия, которые можно выполнить с каждым типом ячейки.  
 
@@ -49,7 +49,4 @@ ms.locfileid: "7971580"
 [Настройка управления складом](warehouse-setup-warehouse.md)     
 [Управление сборкой](assembly-assemble-items.md)    
 [Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
-[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
-
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]
+[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

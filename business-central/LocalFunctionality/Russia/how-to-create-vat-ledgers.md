@@ -3,17 +3,17 @@ title: Создание книг НДС в России
 description: Российские улучшения включают работу с книгами НДС.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: conceptual
+ms.topic: article
 ms.search.keywords: ''
-ms.date: 04/01/2021
+ms.date: 04/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 221431e0ad2e976aef028c98b786a6b892e8824c
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 9ed32b4f9d27e9a732084745f0f3edfffd3c055b
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6443553"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3180961"
 ---
 # <a name="create-vat-ledgers"></a>Создание книг НДС
 
@@ -25,7 +25,7 @@ ms.locfileid: "6443553"
 
 ## <a name="to-create-a-vat-ledger"></a>Создание книги НДС
 
-1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../../media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Список книг покупок и продаж**, а затем выберите связанную ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Список книг покупок и продаж**, затем выберите соответствующую ссылку.
 
 2. Заполните поля в окне **Список книг покупок и продаж**, как описано в следующей таблице.
 
@@ -53,6 +53,3 @@ ms.locfileid: "6443553"
 [Книги НДС](VAT-Ledgers.md)  
 [Настройка книг НДС](How-to-Set-Up-VAT-Ledgers.md)  
 [Создание дополнительных листов](How-to-Create-Additional-Sheets.md)  
-
-
-[!INCLUDE[footer-include](../../includes/footer-banner.md)]

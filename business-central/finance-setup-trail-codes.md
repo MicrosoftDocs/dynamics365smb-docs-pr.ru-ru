@@ -1,22 +1,21 @@
 ---
-title: Настройка кодов для журналов аудита
+title: Настройка кодов для журналов аудита | Документация Майкрософт
 description: Узнайте, что нужно сделать для настройки кодов источников и кодов причин, которые можно использовать при отслеживании журналов аудита.
 author: edupont04
 ms.service: dynamics365-business-central
-ms.topic: conceptual
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: accounting, auditing, bookkeeping
-ms.search.form: 257, 259, 279
-ms.date: 04/01/2021
+ms.date: 05/12/2020
 ms.author: edupont
-ms.openlocfilehash: c6327be4cdcd1e51096a8e19601556305b772011
-ms.sourcegitcommit: 2ab6709741be16ca8029e2afadf19d28cf00fbc7
+ms.openlocfilehash: eac9b5268cda8671a7189a429dedd9eb3cbfbc53
+ms.sourcegitcommit: b9264b4ed650feca18776892ec23f2aa7ec43e20
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/14/2022
-ms.locfileid: "7971944"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "3372691"
 ---
 # <a name="setting-up-source-codes-and-reason-codes-for-audit-trails"></a>Настройка кодов источников и кодов причин для журналов аудита
 
@@ -34,7 +33,7 @@ ms.locfileid: "7971944"
 
 ### <a name="to-define-source-codes"></a>Определение кодов источников
 
-1. Выберите ![Поиск страницы или отчета.](media/ui-search/search_small.png "Значок поиска страницы или отчета") значок введите **Настройка кодов источников**, а затем выберите связанную ссылку.  
+1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Настройка кодов источников**, а затем выберите соответствующую ссылку.  
 
 2. В окне **Настройка кодов источников** для каждого типа учета и пакетного задания укажите соответствующий код источника.  
 
@@ -46,7 +45,7 @@ ms.locfileid: "7971944"
 
 ### <a name="to-change-source-codes"></a>Изменение кодов источников
 
-1. Выберите ![Поиск страницы или отчета.](media/ui-search/search_small.png "Значок поиска страницы или отчета") значок введите **Коды источников**, а затем выберите связанную ссылку.
+1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Коды источников**, а затем выберите соответствующую ссылку.
 
 2. В строке с кодом, который необходимо изменить, выберите код в поле **Код**.
 
@@ -60,7 +59,7 @@ ms.locfileid: "7971944"
 
 ### <a name="to-set-up-reason-codes"></a>Настройка кодов причин
 
-1. Выберите ![Поиск страницы или отчета.](media/ui-search/search_small.png "Значок поиска страницы или отчета")  значок введите **Коды причины**, а затем выберите связанную ссылку.
+1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Коды причин**, а затем выберите соответствующую ссылку.
 
 2. В окне **Коды причин** в поле **Код** введите первый код. В поле **Описание** введите пояснение.
 
@@ -70,7 +69,7 @@ ms.locfileid: "7971944"
 
 ### <a name="to-assign-reason-codes-to-journal-templates"></a>Назначение кодов причин шаблонам журналов
 
-1. Выберите ![Поиск страницы или отчета.](media/ui-search/search_small.png "Значок поиска страницы или отчета")  значок введите **Шаблоны финансового журнала**, а затем выберите связанную ссылку.
+1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Шаблоны финансового журнала**, а затем выберите соответствующую ссылку.
 
 2. В строке с выбранным шаблоном журнала введите соответствующий код в поле **Код причины**.
 
@@ -95,9 +94,6 @@ ms.locfileid: "7971944"
 [Работа с измерениями](finance-dimensions.md)  
 [Импорт бизнес-данных из других финансовых систем](across-import-data-configuration-packages.md)  
 [Анализ движения денежных средств в организации](finance-analyze-cash-flow.md)  
-[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
+[Работа с [!INCLUDE[prodshort](includes/prodshort.md)]](ui-work-product.md)  
 
-## [!INCLUDE[prod_short](includes/free_trial_md.md)]  
-
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]
+## [!INCLUDE[d365fin](includes/free_trial_md.md)]  

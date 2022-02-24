@@ -1,25 +1,25 @@
 ---
-title: Закрытие финансового года и учетных периодов
+title: Закрытие финансового года и учетных периодов | Документация Майкрософт
 description: Описываются задачи по закрытию финансового года или учетного периода, например, проверка того, что документы и журналы учтены, а также сверка балансов банковских счетов.
+services: project-madeira
+documentationcenter: ''
 author: jswymer
 ms.service: dynamics365-business-central
-ms.topic: conceptual
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: year closing, close accounting period, close fiscal year, bank account detailed trial balance
-ms.search.form: 100
-ms.date: 04/01/2021
+ms.date: 01/13/2020
 ms.author: jswymer
-ms.openlocfilehash: 3faa427363d2d30ce387bbfe911f320064d3276a
-ms.sourcegitcommit: 2ab6709741be16ca8029e2afadf19d28cf00fbc7
+ms.openlocfilehash: ef2f3f5e11b9593dce1ba1eb2039c0c0edd32aba
+ms.sourcegitcommit: ead69ebe5b29927876a4fb23afb6c066f8854591
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/14/2022
-ms.locfileid: "7971788"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "2953135"
 ---
 # <a name="closing-years-and-periods"></a>Закрытие года и периодов
-
 В конце финансового года существует ряд административных задач, которые необходимо выполнить, чтобы убедиться, что все документы и журналы учтены, данные о валюте актуальны, книги закрыты и т. д. Фактические задачи будут зависеть от вашей организации.
 
 В следующей таблице приведен обзор задач, которые обычно выполняются, чтобы закрыть год и период.
@@ -39,11 +39,7 @@ ms.locfileid: "7971788"
 ## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/close-fiscal-year-dynamics-365-business-central/index)
 
 ## <a name="see-also"></a>См. также
+[Открытие нового финансового года](finance-how-open-new-fiscal-year.md)  
+[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 
-[Работа с учетными периодами и финансовыми годами](finance-accounting-periods-and-fiscal-years.md)  
-[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
-
-## [!INCLUDE[prod_short](includes/free_trial_md.md)]  
-
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]
+## [!INCLUDE[d365fin](includes/free_trial_md.md)]  

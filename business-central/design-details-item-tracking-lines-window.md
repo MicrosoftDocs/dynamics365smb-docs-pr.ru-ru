@@ -1,21 +1,21 @@
 ---
-title: Сведения о проектировании — страница "Строки трассировки товаров"
-description: Узнайте, как управлять потоком серийных номеров и номеров партий на складе с помощью страницы "Строки трассировки товаров".
+title: Сведения о проектировании — страница строк трассировки товаров | Документация Майкрософт
+description: Узнайте, как управлять потоком серийных номеров и номеров партий на складе.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: conceptual
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: design, inventory, item, tracking, serial number, lot number
-ms.date: 06/15/2021
-ms.author: edupont
-ms.openlocfilehash: 50888b8d00696645841f37aa24b5cb3bc031fed2
-ms.sourcegitcommit: e562b45fda20ff88230e086caa6587913eddae26
+ms.date: 04/01/2020
+ms.author: sgroespe
+ms.openlocfilehash: 77d53f959d778b3355ad563fede1dfe106ad1ec8
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "6320318"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3184968"
 ---
 # <a name="design-details-item-tracking-lines-page"></a>Сведения о проектировании: — страница "Строки трассировки товаров"
 Записи трассировки товаров и записи резервирования создаются в системе резервирования, и их наличие рассчитывается динамически. Управление данными, введенными на странице **Строки трассировки товаров**, осуществляется во временной версии таблицы **Спецификация трассировки**. Если страница закрыта, активные данные помещаются в таблицу **Операция резервирования**, а данные за прошлые периоды помещаются в таблицу **Спецификация трассировки**. Дополнительные сведения см. в разделе [Сведения о проектировании: активные и исторические операции трассировки товаров](design-details-active-versus-historic-item-tracking-entries.md).  
@@ -32,5 +32,3 @@ ms.locfileid: "6320318"
   
 ## <a name="see-also"></a>См. также  
 [Сведения о проектировании: трассировка товара](design-details-item-tracking.md)
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]

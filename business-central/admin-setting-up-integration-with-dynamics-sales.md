@@ -1,129 +1,136 @@
 ---
-title: Настройка учетных записей пользователя для интеграции с Microsoft Dataverse | Документы Майкрософт
+title: Настройка учетных записей пользователей для интеграции с Dynamics 365 Sales | Документация Майкрософт
 description: Узнайте, как настроить учетные записи пользователей, которые приложения используют для обмена данными, и что используют люди для доступа к данным в приложениях и их синхронизации.
 author: bholtorf
 ms.service: dynamics365-business-central
-ms.topic: conceptual
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2021
+ms.date: 10/01/2019
 ms.author: bholtorf
-ms.openlocfilehash: e0bc05375930c506dc0ef9a7f1ea0263f47c1ad7
-ms.sourcegitcommit: 1508643075dafc25e9c52810a584b8df1d14b1dc
+ms.openlocfilehash: 64dd9d1e4645b845c02872a8bc09f0925f4fa33c
+ms.sourcegitcommit: 3d128a00358668b3fdd105ebf4604ca4e2b6743c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "8049696"
+ms.lasthandoff: 12/20/2019
+ms.locfileid: "2910566"
 ---
-# <a name="setting-up-user-accounts-for-integrating-with-microsoft-dataverse"></a>Настройка учетных записей пользователя для интеграции с Microsoft Dataverse
+# <a name="setting-up-user-accounts-for-integrating-with-dynamics-365-sales"></a>Настройка учетных записей пользователей для интеграции с Dynamics 365 Sales
+Эта статья содержит обзор порядка настройки учетных записей пользователей, которые требуются для интеграции [!INCLUDE[crm_md](includes/crm_md.md)] с [!INCLUDE[d365fin](includes/d365fin_md.md)].  
 
+> [!VIDEO https://go.microsoft.com/fwlink/?linkid=2085500]
 
-Эта статья содержит обзор порядка настройки учетных записей пользователей, которые требуются для интеграции [!INCLUDE[prod_short](includes/cds_long_md.md)] с [!INCLUDE[prod_short](includes/prod_short.md)].  
+## <a name="setting-up-the-administrator-user-account-in-sales"></a>Настройка учетной записи пользователя-администратора в Sales
+Необходимо добавить учетную запись пользователя-администратора для [!INCLUDE[d365fin](includes/d365fin_md.md)] как пользователя в [!INCLUDE[crm_md](includes/crm_md.md)], а затем повысить пользователя до администратора в [!INCLUDE[crm_md](includes/crm_md.md)]. Учетная запись пользователя-администратора должна также включать роль специалиста по настройке системы и по крайней мере одну неадминистративную роль пользователя, такую как менеджер по продажам, в [!INCLUDE[crm_md](includes/crm_md.md)].
 
-## <a name="setting-up-the-administrator-user-account"></a>Настройка учетной записи пользователя-администратора
-Вы должны добавить свою учетную запись администратора для [!INCLUDE[prod_short](includes/prod_short.md)] как пользователя в [!INCLUDE[prod_short](includes/cds_long_md.md)]. Когда вы устанавливаете подключение между [!INCLUDE[prod_short](includes/prod_short.md)] и [!INCLUDE[prod_short](includes/cds_long_md.md)], мы будем использовать эту учетную запись один раз для установки и настройки некоторых необходимых компонентов. 
+## <a name="setting-up-the-user-account-for-the-integration"></a>Настройка учетной записи пользователя для интеграции
+Необходимо создать специальную учетную запись пользователя в вашей подписке Office 365, которую могут использовать [!INCLUDE[d365fin](includes/d365fin_md.md)] и [!INCLUDE[crm_md](includes/crm_md.md)] для синхронизации данных. Данная учетная запись пользователя должна обеспечивать вход в [!INCLUDE[crm_md](includes/crm_md.md)], это означает, что данный пользователь должен иметь лицензию на [!INCLUDE[crm_md](includes/crm_md.md)] и хотя бы одну роль безопасности, назначенную ему в [!INCLUDE[crm_md](includes/crm_md.md)], как описано [здесь](/dynamics365/customer-engagement/admin/create-users-assign-online-security-roles#create-a-user-account). Дополнительные сведения о том, как создавать пользователей в [!INCLUDE[crm_md](includes/crm_md.md)], см. в разделе [Управление безопасностью, пользователями и рабочими группами](https://go.microsoft.com/fwlink/?LinkID=616518). После настройки подключения [!INCLUDE[d365fin](includes/d365fin_md.md)] назначит учетной записи пользователя роли безопасности, необходимые в [!INCLUDE[d365fin](includes/d365fin_md.md)], и эта учетная запись может быть настроена для [режима неинтерактивного доступа](/dynamics365/customer-engagement/admin/create-users-assign-online-security-roles#create-a-non-interactive-user-account) в [!INCLUDE[crm_md](includes/crm_md.md)]
 
-## <a name="permissions-and-security-roles-for-user-accounts-in-prod_short"></a>Разрешения и роли безопасности для учетных записей пользователей в [!INCLUDE[prod_short](includes/cds_long_md.md)]
-При установке базового решения интеграции CDS разрешения для учетной записи пользователя интеграции настраиваются. Если эти разрешения изменены вручную, можно сбросить их. Вы можете сделать это, переустановив базовое решение интеграции CDS, выбрав **Повторить развертывание решения интеграции** на странице **Настройка подключения Common Data Service**. Роль безопасности интеграции Business Central CDS развернута.
+![Мастер настройки, в котором показано место для ввода учетных данных пользователя синхронизации](media/sync-user-setup.png "Визуализация страница мастера настройки, в котором показано место для ввода учетных данных пользователя синхронизации")
 
-<!--
-The following tables list the minimum permissions for the user accounts in [!INCLUDE[prod_short](includes/cds_long_md.md)].
+> [!IMPORTANT]  
+> Не используйте учетную запись администратора для [!INCLUDE[crm_md](includes/crm_md.md)] для синхронизации. Если это сделать, синхронизация будет нарушена.
+> Кроме того, чтобы избежать постоянной синхронизации, изменения данных, которые вносятся учетной записью пользователя интеграции не синхронизируются. <!--What changes would this account make?--> После установления подключения рекомендуется настроить режим доступа для учетной записи пользователя для интеграции на неинтерактивный режим в [!INCLUDE[crm_md](includes/crm_md.md)]. Дополнительные сведения см. в разделе [Создание неинтерактивной учетной записи пользователя](/dynamics365/customer-engagement/admin/create-users-assign-online-security-roles#create-a-non-interactive-user-account).
 
-### Minimum Permissions for the Administrator
-The following table displays the minimum permissions on each tab for each security role that is required for the administrator user.
+## <a name="setting-up-accounts-for-salespeople"></a>Настройка учетных записей для менеджеров по продаже
+Следует создать учетные записи пользователей в [!INCLUDE[d365fin](includes/d365fin_md.md)] для менеджеров по продажам из [!INCLUDE[crm_md](includes/crm_md.md)]. Чтобы упростить эту операцию, центр администрирования Microsoft 365 предлагает шаблон Excel, который можно использовать. На странице **Активные пользователи** выберите **Дополнительно**, затем — **Импорт нескольких пользователей**. Выберите **Загрузить только CSV-файл с заголовками**, затем введите информацию для менеджеров по продажам. Чтобы посмотреть пример, выберите **Загрузить CSV-файл с заголовками и примерами сведений о пользователях**. После ввода информации о пользователях, следующим шагом процесса импорта будет назначить пользователям лицензии план Dynamics 365 Customer Engagement.  
 
-##### Customization
-|Security Role|Access Level|Dynamics NAV 2018 and Earlier|Business Central <br> October 2018|Business Central <br> April 2019|
+После импорта пользователей и назначения им лицензий для Dynamics 365 Customer Engagement необходимо назначить пользователей роли **Менеджер по продажам** в [!INCLUDE[crm_md](includes/crm_md.md)].
+
+![Связывание менеджеров по продажам с пользователями в Dynamics 365 Sales](media/couple-salespeople.png "Визуализация связывания менеджеров по продажам с пользователями в Dynamics 365 Sales")
+
+## <a name="minimum-permissions-for-user-accounts-in-crm_md"></a>Минимальные разрешения для учетных записей пользователей в [!INCLUDE[crm_md](includes/crm_md.md)]
+При установке решения интеграции разрешения для учетной записи пользователя интеграции настраиваются в [!INCLUDE[crm_md](includes/crm_md.md)], Если эти разрешения изменены, вам может потребоваться сбросить их. Это можно сделать, переустановив решение интеграции или сбросив их вручную. В следующих таблицах перечислены минимальные разрешения для учетных записей пользователей в [!INCLUDE[crm_md](includes/crm_md.md)].
+
+### <a name="integration-administrator"></a>Администратор интеграции
+В следующей таблице приведены минимальные разрешения на каждой вкладке для каждой роли безопасности, которая требуется для пользователя-администратора.
+
+##### <a name="customization"></a>Настройка
+|Роль безопасности|Уровень доступа|Dynamics NAV 2018 и ранее|Business Central <br> Октябрь 2018|Business Central <br> Апрель 2019|
 |----|----|-----|----|----|
-|Model Driven App|Global|||Read|
-|Plugin Assembly|Global|Read|Read|Read|
-|Plugin Type|Global|Read|Read|Read|
-|Relationship|Global|||Read|
-|SDK Message|Global|Read|Read|Read|
-|SDK Message Proessing Step|Global|Read|Read|Read|
-|SDK Message Proessing Step Image|Global|Read|Read|Read|
-|System From|Global|||Write|
+|Приложение на основе моделей|Глобальная|||Чтение|
+|Сборка подключаемых модулей|Глобальная|Чтение|Чтение|Чтение|
+|Тип подключаемого модуля|Глобальная|Чтение|Чтение|Чтение|
+|Связь|Глобальная|||Чтение|
+|Сообщение SDK|Глобальная|Чтение|Чтение|Чтение|
+|Шаг обработки сообщений SDK|Глобальная|Чтение|Чтение|Чтение|
+|Изображение шага обработки сообщений SDK|Глобальная|Чтение|Чтение|Чтение|
+|Исходная система|Глобальная|||Запись|
 
-##### Custom Entities
-|Security Role|Access Level|Dynamics NAV 2018 and Earlier|Business Central <br> October 2018|Business Central <br> April 2020|
+##### <a name="custom-entities"></a>Пользовательские объекты
+|Роль безопасности|Уровень доступа|Dynamics NAV 2018 и ранее|Business Central <br> Октябрь 2018|Business Central <br> Апрель 2019|
 |----|----|-----|----|----|
-|Business Central Account Statistics|Global|Read|Read|Read|
-|Business Central Connection|Global|Create, Read, Write, Delete|Create, Read, Write, Delete|Create, Read, Write, Delete|
-|Post Configuration|Global|||Write|
+|Статистика организации Business Central|Глобальная|Чтение|Чтение|Чтение|
+|Подключение к Business Central|Глобальная|Создание, Чтение, Запись, Удаление|Создание, Чтение, Запись, Удаление|Создание, Чтение, Запись, Удаление|
+|Учет конфигурации|Глобальная|||Запись|
 
-### Minimum Permissions for automatically created [!INCLUDE[prod_short](includes/prod_short.md)] Integration application user
-The following table displays the minimum permissions on each tab for each security role that is required for the automatically created [!INCLUDE[prod_short](includes/prod_short.md)] Integration application user.
+#### <a name="integration-user"></a>Пользователь интеграции
+В следующей таблице приведены минимальные разрешения на каждой вкладке для каждой роли безопасности, которая требуется для пользователя интеграции.
 
-##### Core Records
-|Security Role|Access Level|Dynamics NAV 2018 and Earlier|Business Central <br> October 2018|Business Central <br> April 2019|
+##### <a name="core-records"></a>Основные записи
+|Роль безопасности|Уровень доступа|Dynamics NAV 2018 и ранее|Business Central <br> Октябрь 2018|Business Central <br> Апрель 2019|
 |----|----|-----|----|----|
-|Account|Global|Create, Read, Write, Append, Append To, Assign|Create, Read, Write, Append, Append To, Assign|Create, Read, Write, Append, Append To, Assign|
-|Action Card|Global||Read|Read|
-|Connection|Global|Read|Read|Read|
-|Contact|Global|Create, Read, Write, Append, Append To|Create, Read, Write, Append, Append To|Create, Read, Write, Append, Append To|
-|Note|Global|||Create, Read, Write, Delete Append, Assign|
-|Opportunity|Global||Create, Read, Write, Append, Append To|Create, Read, Write, Append, Append To|
-|Post|Global|||Create, Read, Append To|
-|User Entity UI|User|Create, Read, Write|Create, Read, Write|Create, Read, Write|
+|Организация|Глобальная|Создание, Чтение, Запись, Добавление, Добавление в, Назначение|Создание, Чтение, Запись, Добавление, Добавление в, Назначение|Создание, Чтение, Запись, Добавление, Добавление в, Назначение|
+|Карта действий|Глобальная||Чтение|Чтение|
+|Подключение|Глобальная|Чтение|Чтение|Чтение|
+|Контакт|Глобальная|Создание, Чтение, Запись, Добавление, Добавление в|Создание, Чтение, Запись, Добавление, Добавление в|Создание, Чтение, Запись, Добавление, Добавление в|
+|Заметка|Глобальная|||Создание, Чтение, Запись, Удаление, Добавление, Назначение|
+|Возможность|Глобальная||Создание, Чтение, Запись, Добавление, Добавление в|Создание, Чтение, Запись, Добавление, Добавление в|
+|Почта|Глобальная|||Создание, Чтение, Добавление в|
+|Пользовательский интерфейс объекта пользователя|Пользователь|Создание, Чтение, Запись|Создание, Чтение, Запись|Создание, Чтение, Запись|
 
-##### Sales
-|Security Role|Access Level|Dynamics NAV 2018 and Earlier|Business Central <br> October 2018|Business Central <br> April 2019|
+##### <a name="sales"></a>Продажи
+|Роль безопасности|Уровень доступа|Dynamics NAV 2018 и ранее|Business Central <br> Октябрь 2018|Business Central <br> Апрель 2019|
 |----|----|-----|----|----|
-|Invoice|Global|Create, Read, Write, Append, Append To|Create, Read, Write, Append, Append To|Create, Read, Write, Append, Append To|
-|Order|Global|Read, Write, Append To|Read, Write, Append To|Read, Write, Append, Append To, Assign|
-|Product|Global|Create, Read, Write, Append, Append To|Create, Read, Write, Append, Append To|Create, Read, Write, Append, Append To|
-|Property|Global|Read|Read|Read|
-|Property Association|Global|Read|Read|Read|
-|Property Option Set Item|Global|Read|Read|Read|
-|Quote|Global|Read|Read|Read|
+|Счет|Глобальная|Создание, Чтение, Запись, Добавление, Добавление в|Создание, Чтение, Запись, Добавление, Добавление в|Создание, Чтение, Запись, Добавление, Добавление в|
+|Заказ|Глобальная|Чтение, Запись, Добавление в|Чтение, Запись, Добавление в|Чтение, Запись, Добавление, Добавление в, Назначение|
+|Продукт|Глобальная|Создание, Чтение, Запись, Добавление, Добавление в|Создание, Чтение, Запись, Добавление, Добавление в|Создание, Чтение, Запись, Добавление, Добавление в|
+|Свойство|Глобальная|Чтение|Чтение|Чтение|
+|Связь свойств|Глобальная|Чтение|Чтение|Чтение|
+|Элемент набора параметров свойства|Глобальная|Чтение|Чтение|Чтение|
+|Предложение|Глобальная|Чтение|Чтение|Чтение|
 
-##### Service
-|Security Role|Access Level|Dynamics NAV 2018 and Earlier|Business Central <br> October 2018|Business Central <br> April 2019|
+##### <a name="service"></a>Сервис
+|Роль безопасности|Уровень доступа|Dynamics NAV 2018 и ранее|Business Central <br> Октябрь 2018|Business Central <br> Апрель 2019|
 |----|----|-----|----|----|
-|Case|Global|Read|Read|Read|
+|Обращение|Глобальная|Чтение|Чтение|Чтение|
 
-##### Business Management
-|Security Role|Access Level|Dynamics NAV 2018 and Earlier|Business Central <br> October 2018|Business Central <br> April 2019|
+##### <a name="business-management"></a>Управление бизнесом
+|Роль безопасности|Уровень доступа|Dynamics NAV 2018 и ранее|Business Central <br> Октябрь 2018|Business Central <br> Апрель 2019|
 |----|----|-----|----|----|
-|Currency|Global|Create, Read, Write|Create, Read, Write|Create, Read, Write|
-|Organization|Global|Read, Write|Read, Write|Read, Write|
-|Security Role|Global|||Read|
-|User|Global|Create, Read, Write, Append, Append To|Create, Read, Write, Append, Append To|Create, Read, Write, Append, Append To|
-|User Settings|Global|Create, Read, Write, Delete, Append To|Create, Read, Write, Delete, Append To|Create, Read, Write, Delete, Append To|
-|Act on Behalf of Another User|Global|Yes|Yes|Yes|
+|Валюта|Глобальная|Создание, Чтение, Запись|Создание, Чтение, Запись|Создание, Чтение, Запись|
+|Организация|Глобальная|Чтение, Запись|Чтение, Запись|Чтение, Запись|
+|Роль безопасности|Глобальная|||Чтение|
+|Пользователь|Глобальная|Создание, Чтение, Запись, Добавление, Добавление в|Создание, Чтение, Запись, Добавление, Добавление в|Создание, Чтение, Запись, Добавление, Добавление в|
+|Пользовательские настройки|Глобальная|Создание, Чтение, Запись, Удаление, Добавление в|Создание, Чтение, Запись, Удаление, Добавление в|Создание, Чтение, Запись, Удаление, Добавление в|
+|Действие от имени другого пользователя|Глобальная|Да|Да|Да|
 
-##### Customization
-|Security Role|Access Level|Dynamics NAV 2018 and Earlier|Business Central <br> October 2018|Business Central <br> April 2019|
+##### <a name="customization"></a>Настройка
+|Роль безопасности|Уровень доступа|Dynamics NAV 2018 и ранее|Business Central <br> Октябрь 2018|Business Central <br> Апрель 2019|
 |----|----|-----|----|----|
-|Field|Global||Read|Read|
-|Plug-in Assembly|Global|Read|Read|Read|
-|Plug-in Type|Global|Read|Read|Read|
-|SDK Message|Global|Read|Read|Read|
-|SDK Message Processing Step|Global|Read|Read|Read|
-|Web Resource|Global|Read|Read|Read|
+|Поле|Глобальная||Чтение|Чтение|
+|Сборка подключаемых модулей|Глобальная|Чтение|Чтение|Чтение|
+|Тип подключаемого модуля|Глобальная|Чтение|Чтение|Чтение|
+|Сообщение SDK|Глобальная|Чтение|Чтение|Чтение|
+|Шаг обработки сообщений SDK|Глобальная|Чтение|Чтение|Чтение|
+|Веб-ресурс|Глобальная|Чтение|Чтение|Чтение|
 
-##### Custom Entities
-|Security Role|Access Level|Dynamics NAV 2018 and Earlier|Business Central <br> October 2018|Business Central <br> April 2019|
+##### <a name="custom-entities"></a>Пользовательские объекты
+|Роль безопасности|Уровень доступа|Dynamics NAV 2018 и ранее|Business Central <br> Октябрь 2018|Business Central <br> Апрель 2019|
 |----|----|-----|----|----|
-|Dynamics 365 Business Central Account Statistics|Global|Create, Read, Write, Append To|Create, Read, Write, Append To|Create, Read, Write, Append To|
-|Dynamics 365 Business Central Connection|Global|Read|Read|Read|
+|Статистика организации Dynamics 365 Business Central|Глобальная|Создание, Чтение, Запись, Добавление в|Создание, Чтение, Запись, Добавление в|Создание, Чтение, Запись, Добавление в|
+|Подключение к Dynamics 365 Business Central|Глобальная|Чтение|Чтение|Чтение|
 
-### Product Availability User
-You can allow sales people to view inventory levels for the items they sell by granting them the permissions described in the following table.
+### <a name="product-availability-user"></a>Пользователь наличия товара
+Вы можете позволить продавцам просматривать уровни запасов для товаров, которые они продают, предоставив им разрешения, описанные в следующей таблице.
 
-##### Custom Entities
-|Security Role|Access Level|Dynamics NAV 2018 and Earlier|Business Central <br> October 2018|Business Central <br> April 2019|
+##### <a name="custom-entities"></a>Пользовательские объекты
+|Роль безопасности|Уровень доступа|Dynamics NAV 2018 и ранее|Business Central <br> Октябрь 2018|Business Central <br> Апрель 2019|
 |----|----|-----|----|----|
-|Dynamics 365 Business Central Account Statistics|Global|Create, Read, Write, Append To|Create, Read, Write, Append To|Create, Read, Write, Append To|
-|Dynamics 365 Business Central Connection|Global|Read|Read|Read|
-
--->
+|Статистика организации Dynamics 365 Business Central|Глобальная|Создание, Чтение, Запись, Добавление в|Создание, Чтение, Запись, Добавление в|Создание, Чтение, Запись, Добавление в|
+|Подключение к Dynamics 365 Business Central|Глобальная|Чтение|Чтение|Чтение|
 
 ## <a name="see-also"></a>См. также  
-[Интеграция с Microsoft Dataverse](admin-common-data-service.md)  
 [Интеграция с Dynamics 365 Sales](admin-prepare-dynamics-365-for-sales-for-integration.md)  
-
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]

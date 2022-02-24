@@ -1,21 +1,21 @@
 ---
-title: Настройка сервисных предложений
-description: При настройке сервисного управления необходимо выбрать виды сервиса, которые будут предлагаться клиентам и составить их график.
+title: Настройка сервисных предложений | Документация Майкрософт
+description: Узнайте, как настраивать сервисы, которые вы предлагаете своим клиентам.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: conceptual
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: components, service item, service
-ms.date: 06/23/2021
-ms.author: edupont
-ms.openlocfilehash: a3a61ba65136aa15836039ac54057eefff37f29d
-ms.sourcegitcommit: e562b45fda20ff88230e086caa6587913eddae26
+ms.date: 10/01/2019
+ms.author: sgroespe
+ms.openlocfilehash: 8d34ef54ebfe16b59149036d59c2ce6e264baefb
+ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "6323889"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "2877259"
 ---
 # <a name="set-up-service-offerings"></a>Настройка сервисных предложений
 При настройке сервисного управления необходимо выбрать виды сервиса, которые будут предлагаться клиентам и составить их график. Сервис представляет собой тип работы, выполняемой с использованием одного или нескольких ресурсов, результаты которой предоставляются клиенту. Сервисом, например, может быть ремонт компьютера. Сервисным товаром может быть обслуживаемое оборудование или товар, например, требующий ремонта компьютер, установленный у конкретного пользователя. Любой сервис можно настроить как часть группы смежных услуг по ремонту или обслуживанию.  
@@ -29,5 +29,3 @@ ms.locfileid: "6323889"
   
 ## <a name="see-also"></a>См. также  
 [Настройка управления сервисным обслуживанием](service-setup-service.md)   
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]

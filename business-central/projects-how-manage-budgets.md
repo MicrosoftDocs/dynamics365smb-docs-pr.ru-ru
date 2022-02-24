@@ -1,22 +1,23 @@
 ---
-title: Настройка и управление бюджетом для работы
+title: Настройка и управление бюджетом для работы | Документация Майкрософт
 description: Далее описывается процедура планирования ресурсов и прогнозирования и контроля себестоимости для проекта путем настройки бюджета для каждой работы.
+services: project-madeira
+documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: conceptual
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: project budget, forecast
-ms.search.form: 1002, 1007
-ms.date: 04/01/2021
-ms.author: edupont
-ms.openlocfilehash: 901a925e1ce8019cd2f347ac5b3e4c59735b444f
-ms.sourcegitcommit: 2ab6709741be16ca8029e2afadf19d28cf00fbc7
+ms.date: 10/01/2019
+ms.author: sgroespe
+ms.openlocfilehash: 639955ef4ac9e782207d4cfee7a89f38d5c99501
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/14/2022
-ms.locfileid: "7972282"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2312872"
 ---
 # <a name="manage-job-budgets"></a>Управление бюджетами работ
 Бюджет можно настроить для каждой работы. Бюджет необходим для планирования ресурсов, выделенных для выполнения работы. Бюджет может быть общим, с небольшим количеством операций, или же он может содержать больше операций, которые разделены по уровням деятельности. Затем можно сравнивать бюджетные суммы с фактическим потреблением, занесенным в журнал работ. Контролируя различия между фактическим и бюджетным потреблением, можно контролировать текущий проект и улучшить качество будущих работ за счет снижения риска неправильной оценки затрат.
@@ -26,7 +27,7 @@ ms.locfileid: "7972282"
 ## <a name="to-estimate-the-budgeted-costs-for-a-job"></a><a name="JobBudgetCosts"></a> Оценка бюджетных затрат для работы
 Когда клиент хочет знать цену работы, накладная по которой будет выставлена на основе потребления, необходимо определить бюджетные затраты на работу. Для этого используйте страницу **Строки задач по работе**.
 
-1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Работы**, а затем выберите связанную ссылку.  
+1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Работы**, а затем выберите соответствующую ссылку.  
 2. Откройте соответствующую работу.
 3. Выделите строку задачи типа "Учет", затем выберите действие **Строки планирования работ**.
 4. На новой строке заполните поля, как требуется. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]   
@@ -54,7 +55,4 @@ ms.locfileid: "7972282"
 [Финансы](finance.md)  
 [Покупки](purchasing-manage-purchasing.md)         
 [Продажи](sales-manage-sales.md)      
-[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
-
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]
+[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  

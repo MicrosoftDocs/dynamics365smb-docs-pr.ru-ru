@@ -3,17 +3,17 @@ title: Создание кредит-нот в России
 description: Российские усовершенствования включают кредит-ноты для издержек основных средств.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: conceptual
+ms.topic: article
 ms.search.keywords: ''
-ms.date: 04/01/2021
+ms.date: 04/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 1af56b3ba739a5deb0daac3c7ba0193de7e1d150
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: e40f68183801e57555cd26664b6b1f30f82ebd4e
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6441021"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3180968"
 ---
 # <a name="create-a-credit-memo-for-a-fixed-asset-charge"></a>Создание кредит-ноты для издержек ОС
 
@@ -21,7 +21,7 @@ ms.locfileid: "6441021"
 
 ## <a name="to-create-a-credit-memo-for-a-fixed-asset-charge"></a>Создание кредит-ноты для издержек ОС
 
-1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../../media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Кредит-нота покупки**, а затем выберите связанную ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Кредит-нота покупок**, затем выберите соответствующую ссылку.
 2. Введите данные кредит-ноты для ошибочных издержек основного средства.
 3. Учет кредит-ноты.
 
@@ -32,6 +32,3 @@ ms.locfileid: "6441021"
 
 [Основные Средства](../../fa-manage.md)  
 [Функциональность локальной версии для России](russia-local-functionality.md)  
-
-
-[!INCLUDE[footer-include](../../includes/footer-banner.md)]

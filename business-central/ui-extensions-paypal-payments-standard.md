@@ -1,45 +1,42 @@
 ---
-title: Использование расширения Paypal Payments Standard
-description: В этой теме описывается порядок использования стандартного расширения, чтобы клиенты могли совершать платежи через PayPal.
+title: Использование расширения PayPal Payments Standard | Документация Майкрософт
+description: Описывается порядок использования расширения, чтобы клиенты могли совершать платежи через PayPal.
 services: project-madeira
 documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: conceptual
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms. search.keywords: app, add-in, manifest, customize
-ms.date: 06/23/2021
-ms.author: edupont
-ms.openlocfilehash: cc7db26df0cfd554b083ac606c14965eecc991eb
-ms.sourcegitcommit: e562b45fda20ff88230e086caa6587913eddae26
+ms.date: 10/01/2019
+ms.author: sgroespe
+ms.openlocfilehash: f295ab10d30f5a22f924ec3ad76548375f929b7c
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "6322881"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2315448"
 ---
 # <a name="the-paypal-payments-standard-extension"></a>Расширение PayPal Payments Standard
-Клиенты постоянно требуют более высокого качества обслуживания как с точки зрения качества продукции, так и с точки зрения вариантов доставки и оплаты. Служба Paypal Payments Standard помогает улучшить качество обслуживания.
+Клиенты постоянно требуют более высокого качества обслуживания как с точки зрения качества продукции, так и с точки зрения вариантов доставки и оплаты. Служба стандарта платежей PayPal помогает улучшить качество обслуживания.
 
 В качестве альтернативы сбору платежей через банковские переводы или кредитные карты вы можете предложить клиентам оплату через учетную запись PayPal. Когда вы отправляете счет продажи или заказ на продажу по электронной почте, в содержании сообщения эл. почты и во вложенном PDF-документе имеется ссылка PayPal. Когда клиент выбирает эту ссылку, открывается страница сервиса для его учетной записи PayPal, содержащая сведения об оплате этой продажи. Затем клиент может оплатить счет как любой другой платеж PayPal.
 
-Служба Paypal Payments Standard предоставляет следующие преимущества:
+Служба стандарта платежей PayPal предоставляет следующие преимущества:
 
 * Платежи клиентов быстрее поступают на ваш банковский счет.
 * У клиентов есть больше способов оплачивать счета.
 * PayPal предлагает надежную службу платежей, которой клиенты отдают предпочтение по сравнению с вводом данных кредитных карт на веб-сайтах.
 * PayPal предлагает несколько способов обработки платежей, в том числе обработку кредитных карт, счета PayPal и другие источники.
 * Ссылку PayPal можно автоматически добавить в документы продажи или пользователем вручную.
-* Служба Paypal Payments Standard не включает ежемесячные расходы или сборы за установку.
+* Служба стандарта платежей PayPal не включает ежемесячные расходы или сборы за установку.
 * Поскольку она является расширением, вы можете легко включать службу стандарта платежей PayPal только тогда, когда она нужна для вашего бизнеса.  
 
 Дополнительные сведения см. в разделе [Включение платежей клиентов через PayPal](sales-how-enable-payment-service-extensions.md).
 
 ## <a name="see-also"></a>См. также
-[Настройка [!INCLUDE[prod_short](includes/prod_short.md)] с помощью расширений](ui-extensions.md)  
+[Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью расширений](ui-extensions.md)  
 [Настройка продаж](sales-setup-sales.md)  
-[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
-
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]
+[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

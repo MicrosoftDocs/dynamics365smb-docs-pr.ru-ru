@@ -1,32 +1,31 @@
 ---
-title: Включение платежей клиентов через службу платежей
-description: Облегчите клиентам оплату счетов, включив платежи клиентов через службы платежей.
+title: Включение платежей клиентов через службу платежей | Документация Майкрософт
+description: Облегчите клиентам оплату счетов, включив службы платежей.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: conceptual
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: online payment
-ms.search.forms: 1060, 1061, 1062
-ms.date: 06/25/2021
-ms.author: edupont
-ms.openlocfilehash: 8216c4f34cf63b1dcc9a501747ae8738309ba511
-ms.sourcegitcommit: 189bf08d7ddf6c8b7ef2c09058c6847aa6e590d3
+ms.date: 04/01/2020
+ms.author: sgroespe
+ms.openlocfilehash: 18ed3b77ffa369d4d9f3bd66ea54b81adb0c88e3
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/31/2022
-ms.locfileid: "8059860"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3191815"
 ---
 # <a name="enable-customer-payments-through-payment-services"></a>Включение платежей клиентов через службу платежей
-В качестве альтернативы сбору платежей через банковские переводы или кредитные карты вы можете предложить клиентам оплату через учетную запись в службе платежей, например PayPal или WorldPay.  
+В качестве альтернативы сбору платежей через банковские переводы или кредитные карты вы можете предложить клиентам оплату через учетную запись в службе платежей, например Microsoft Pay, PayPal или WorldPay.  
 
-После включения службы платежей в [!INCLUDE[prod_short](includes/prod_short.md)] станет доступна ссылка на службу в документах продажи, отправляемых по электронной почте клиентам. Клиенты могут использовать эту ссылку для перехода к службе платежей и оплаты счетов непосредственно из документа продажи. Если не требуется включать ссылку, например если клиент платит наличными деньгами, можно удалить службу платежей из счета до учета.  
+После включения службы платежей в [!INCLUDE[d365fin](includes/d365fin_md.md)] станет доступна ссылка на службу в документах продажи, отправляемых по электронной почте клиентам. Клиенты могут использовать эту ссылку для перехода к службе платежей и оплаты счетов непосредственно из документа продажи. Если не требуется включать ссылку, например если клиент платит наличными деньгами, можно удалить службу платежей из счета до учета.  
 
-Расширения PayPal Payments Standard и WorldPay Payments Standard установлены в [!INCLUDE[prod_short](includes/prod_short.md)] и готовы к включению.  
+Расширения Microsoft Pay, PayPal Payments Standard и WorldPay Payments Standard установлены в [!INCLUDE[d365fin](includes/d365fin_md.md)] и готовы к включению.  
 
-## <a name="to-enable-a-payment-service-in-prod_short"></a>Включение службы платежей в [!INCLUDE[prod_short](includes/prod_short.md)]
-1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Службы платежей**, а затем выберите связанную ссылку.  
+## <a name="to-enable-a-payment-service-in-d365fin"></a>Включение службы платежей в [!INCLUDE[d365fin](includes/d365fin_md.md)]
+1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Службы платежей**, затем выберите соответствующую ссылку.  
 2. На странице **Службы платежей** выберите действие **Создать**.  
 3. Выберите службу платежей, затем закройте страницу.  
 4. На странице **Службы платежей** выберите действие **Настройка**.  
@@ -34,7 +33,7 @@ ms.locfileid: "8059860"
 6. Закройте страницу.  
 
 ## <a name="to-select-a-payment-service-on-a-sales-invoice"></a>Выбор службы платежей в счете продажи
-1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Счета продажи**, а затем выберите связанную ссылку.  
+1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Счета продажи**, затем выберите соответствующую ссылку.  
 2. Откройте счет продажи, который необходимо оплатить с помощью службы платежей.  
 3. В поле **Служба платежей** выберите службу платежей.  
 
@@ -44,8 +43,5 @@ ms.locfileid: "8059860"
 ## <a name="see-also"></a>См. также  
 [Настройка продаж](sales-setup-sales.md)  
 [Продажи](sales-manage-sales.md)  
-[Настройка [!INCLUDE[prod_short](includes/prod_short.md)] с помощью расширений](ui-extensions.md)  
-[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
-
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]
+[Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью расширений](ui-extensions.md)  
+[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  

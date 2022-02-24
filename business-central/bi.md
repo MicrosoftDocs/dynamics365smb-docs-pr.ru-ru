@@ -1,26 +1,26 @@
 ---
-title: Бизнес-аналитика
-description: Business Central содержит ряд функций, которые помогут вам собирать, анализировать и делиться ценными данными компании для бизнес-аналитики и принятия решений.
+title: Бизнес-аналитика | Документация Майкрософт
+description: Фиксируйте и анализируйте бизнес-данные, например цифры продаж, покупок, текущих расходов, оплаты труда сотрудников и бюджеты, которые могут представлять собой ценную информацию для бизнес-аналитики и принятия решений.
 services: project-madeira
 documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: conceptual
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: bi, power BI, analysis, KPI
-ms.date: 06/14/2021
-ms.author: edupont
-ms.openlocfilehash: 866cfa9c35e7af7abb17ba9c9171244e2107de4d
-ms.sourcegitcommit: e562b45fda20ff88230e086caa6587913eddae26
+ms.date: 04/01/2020
+ms.author: sgroespe
+ms.openlocfilehash: 6f8935ed6a8ca2ac806dd746a0376210d5e8abbf
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "6323747"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3186000"
 ---
 # <a name="business-intelligence"></a>Бизнес-аналитика
-Во время делового процесса в организации обрабатываются огромные объемы данных. Эти данные, отражающие цифры продаж, покупок, текущих расходов, оплаты труда сотрудников, сальдо и т. д., могут представлять из себя ценную информацию, или интеллектуальные ресурсы, для принятия решений. [!INCLUDE[prod_short](includes/prod_short.md)] содержит множество функций, помогающих собирать, анализировать и совместно использовать данные организации.
+Во время делового процесса в организации обрабатываются огромные объемы данных. Эти данные, отражающие цифры продаж, покупок, текущих расходов, оплаты труда сотрудников, сальдо и т. д., могут представлять из себя ценную информацию, или интеллектуальные ресурсы, для принятия решений. [!INCLUDE[d365fin](includes/d365fin_md.md)] содержит множество функций, помогающих собирать, анализировать и совместно использовать данные организации.
 
 Функция измерений играет важную роль в бизнес-аналитике. Измерением называются данные, которые можно добавить в операции в качестве своего рода маркера. Эти данные используются для группировки операций со сходными характеристиками, такими как клиенты, регионы, товары или менеджеры, и удобного извлечениях этих групп для анализа. Кроме того, измерения могут также использоваться при определении представлений анализа и создании финансовых отчетов для отчетности. Дополнительные сведения см. в разделе [Работа с измерениями](finance-dimensions.md).
 
@@ -44,9 +44,6 @@ ms.locfileid: "6323747"
 [Использование Business Central в качестве источника данных Power BI](across-how-use-financials-data-source-powerbi.md)  
 [Закрытие финансовых периодов](year-close-years-periods.md)  
 [Импорт данных из других финансовых систем](across-import-data-configuration-packages.md)  
-[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 
-## [!INCLUDE[prod_short](includes/free_trial_md.md)]  
-
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]
+## [!INCLUDE[d365fin](includes/free_trial_md.md)]  

@@ -3,17 +3,17 @@ title: Настройка договоров с клиентами и поста
 description: Российские улучшения включают договоры с клиентами и поставщиками.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: conceptual
+ms.topic: article
 ms.search.keywords: ''
-ms.date: 04/01/2021
+ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 1243e032275d110fade317cad8cb779022339f57
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 119ba8b7d65c142bda07c6b226a612b7240ec020
+ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6442633"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "2554498"
 ---
 # <a name="set-up-customer-and-vendor-agreements"></a>Настройка договоров с клиентами и поставщиками
 
@@ -27,7 +27,7 @@ ms.locfileid: "6442633"
 
 ## <a name="to-set-up-an-agreement"></a>Настройка договора
 
-1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../../media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Настройка модуля "Продажи и дебиторская задолженность"**, а затем выберите связанную ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка модуля "Продажи"**, а затем выберите соответствующую ссылку.
 
 2. Чтобы настроить договор, на экспресс-вкладке **Измерения** и экспресс-вкладках **Нумерация** заполните поля, перечисленные в таблице ниже.
 
@@ -39,7 +39,7 @@ ms.locfileid: "6442633"
 
 ## <a name="to-create-a-customer-or-vendor-agreement"></a>Создание договора с клиентом или поставщиком 
 
-1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../../media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Клиенты**, а затем выберите связанную ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Клиенты**, а затем выберите соответствующую ссылку.
 
 2. Выберите клиента из списка и выберите действие **Правка**.
 
@@ -71,6 +71,3 @@ ms.locfileid: "6442633"
 
 [Отчеты по расчетам с клиентами (Россия)](Russian-Receivables-Reports.md)  
 [Отчеты о платежах (Россия)](Russian-Payables-Reports.md)  
-
-
-[!INCLUDE[footer-include](../../includes/footer-banner.md)]

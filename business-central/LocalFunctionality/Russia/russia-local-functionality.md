@@ -1,24 +1,24 @@
 ---
 title: Функциональность локальной версии для России
-description: В следующих разделах описана функциональность локальной версии [!INCLUDE[prod_short](../../includes/prod_short.md)] для России.
+description: В следующих разделах описана функциональность локальной версии [!INCLUDE[prodshort](../../includes/prodshort.md)] для России.
 author: AliiaSalikhova
 ms.service: dynamics365-business-central
-ms.topic: conceptual
+ms.topic: article
 ms.workload: na
 ms.search.keywords: ''
 ms.reviewer: edupont
-ms.date: 04/01/2021
+ms.date: 06/09/2020
 ms.author: soalex
-ms.openlocfilehash: 86a1d100d3e25ea7cc9c213654844d8a8e4333cf
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: fcae42e00dbff7742f48808643683b19d4f7dbf1
+ms.sourcegitcommit: 0b5f8f68b1c9526288bfcce1a3bdc988d2910040
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5781411"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "3454265"
 ---
 # <a name="russia-local-functionality"></a>Функциональность локальной версии для России
 
-В [!INCLUDE[prod_short](../../includes/prod_short.md)] имеются особые функции для отслеживания и управления основными средствами, предназначенные именно для России. Например, можно использовать местные функции [!INCLUDE[prod_short](../../includes/prod_short.md)] для расчета НДС на основе российских ставок НДС и российского законодательства.
+В [!INCLUDE[prodshort](../../includes/prodshort.md)] имеются особые функции для отслеживания и управления основными средствами, предназначенные именно для России. Например, можно использовать местные функции [!INCLUDE[prodshort](../../includes/prodshort.md)] для расчета НДС на основе российских ставок НДС и российского законодательства.
 
 ## <a name="feature-availability"></a>Доступность функций
 
@@ -112,6 +112,3 @@ ms.locfileid: "5781411"
 [Отчеты о платежах (Россия)](Russian-Payables-Reports.md)  
 [Специальные коды для информации о компании, клиентах, поставщиках](special-codes-company-information-customers-vendors.md)  
 [Наличие в странах/регионах и поддерживаемые языки](/dynamics365/business-central/dev-itpro/compliance/apptest-countries-and-translations)  
-
-
-[!INCLUDE[footer-include](../../includes/footer-banner.md)]
