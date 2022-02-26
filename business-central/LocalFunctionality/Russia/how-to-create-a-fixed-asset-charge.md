@@ -3,17 +3,17 @@ title: Создание издержек основных средств в Ро
 description: Российские улучшения включают издержки ОС.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 57d9f2e4ef2a4dbd59908bacf43b01f84c7fb90e
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: fb448a94869f2b6947f7f5cc6aa2d7392030feb3
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3180967"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6441019"
 ---
 # <a name="create-a-fixed-asset-charge"></a>Создание издержек ОС
 
@@ -21,7 +21,7 @@ ms.locfileid: "3180967"
 
 ## <a name="to-create-a-fixed-asset-charge"></a>Создание издержек ОС
 
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Карточка издержки ОС**, затем выберите соответствующую ссылку.
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../../media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Карточка издержки ОС**, а затем выберите связанную ссылку.
 
 2. На экспресс-вкладке **Общее** заполните поля, как описано в следующей таблице.
 
@@ -40,3 +40,6 @@ ms.locfileid: "3180967"
 ## <a name="see-also"></a>См. также
 
 [Настройка основных средств](../../fa-setup.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

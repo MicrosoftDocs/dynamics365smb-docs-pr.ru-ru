@@ -3,23 +3,21 @@ title: Издержки ОС в России
 description: Российские улучшения включают издержки ОС.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 12dbbbaa8b4ca377c84ccf2f4c059bbf7ebaed59
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: bf000466ab72c0b200434d181b92ac816aae226a
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3180978"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5787318"
 ---
 # <a name="fixed-asset-charges"></a>Издержки ОС
 
-Функция издержек основных средств позволяет включать дополнительные издержки на покупку основных средств в стоимость приобретения ОС. Дополнительные сведения см. в разделе [Создание издержек ОС](how-to-create-a-fixed-asset-charge.md).  
-
-Стоимость приобретения ОС можно изменить в следующих случаях:  
+Функция издержек основных средств позволяет включать дополнительные издержки на покупку основных средств в стоимость приобретения ОС. Дополнительные сведения см. в разделе [Практическое руководство. Создание издержек ОС](how-to-create-a-fixed-asset-charge.md). 
 
 - после техобслуживания;
 - при ремонте;
@@ -35,3 +33,6 @@ ms.locfileid: "3180978"
 [Создание кредит-ноты для издержек ОС](How-to-Create-a-Credit-Memo-for-a-Fixed-Asset-Charge.md)  
 [Просмотр учтенных операций по издержкам основных средств](How-to-View-Posted-Entries-on-a-Fixed-Asset-Charge.md)  
 [Настройка основных средств](../../fa-setup.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

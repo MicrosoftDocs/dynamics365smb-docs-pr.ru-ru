@@ -3,21 +3,21 @@ title: Авансовые разницы в России
 description: Российские усовершенствования включают управление авансовыми разницами.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
-ms.date: 10/01/2019
+ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: f0d8cae9bae18296bf2763640ff9d7250ca53bf3
-ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
+ms.openlocfilehash: eccc58e2fd9558ab9c64d1754b2d5dc201b8fc6a
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "2554588"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5781413"
 ---
 # <a name="prepayment-differences"></a>Авансовые разницы
 
-Когда вы применяете предоплату к счету в иностранной валюте, [!INCLUDE[prodshort](../../includes/prodshort.md)] рассчитывает разницу в суммах на основе курсов обмена валют между счетом и предоплатой и создает запись авансовой разницы для счета.  
+Когда вы применяете предоплату к счету в иностранной валюте, [!INCLUDE[prod_short](../../includes/prod_short.md)] рассчитывает разницу в суммах на основе курсов обмена валют между счетом и предоплатой и создает запись авансовой разницы для счета.  
 
 ### <a name="setup-for-purchases"></a>Настройка для покупок
 
@@ -46,3 +46,6 @@ ms.locfileid: "2554588"
 ## <a name="see-also"></a>См. также
 
 [Функциональность локальной версии для России](russia-local-functionality.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

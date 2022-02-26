@@ -3,17 +3,17 @@ title: Зарплата в России
 description: Российские усовершенствования включают поддержку начисления заработной платы.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 3f8c3f0c2bd318390925e44081c963ec656b7715
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: 8d421866567b25ec68dbf493f9ede91a87b79585
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3180989"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5773462"
 ---
 # <a name="payroll"></a>Зарплата
 
@@ -52,7 +52,7 @@ ms.locfileid: "3180989"
 
 Расчет заработной платы осуществляется по специальному зарплатному документу, индивидуальному для каждого работника.
 
-[!INCLUDE[prodshort](../../includes/prodshort.md)] поддерживает два типа зарплатных документов: 
+[!INCLUDE[prod_short](../../includes/prod_short.md)] поддерживает два типа зарплатных документов: 
 
 - Выплата заработной платы между периодами; 
 - Базовая заработная плата. 
@@ -85,3 +85,6 @@ ms.locfileid: "3180989"
 ## <a name="see-also"></a>См. также
 
 [Персонал](Human-Resources.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

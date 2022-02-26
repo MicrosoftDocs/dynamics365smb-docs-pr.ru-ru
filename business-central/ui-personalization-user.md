@@ -1,21 +1,21 @@
 ---
-title: Персонализация страниц | Документация Майкрософт
-description: Узнайте, как настраивать пользовательский интерфейс в соответствии с вашим способом работы в Business Central.
+title: Персонализация страниц (содержит видео)
+description: Узнайте, как настроить пользовательский интерфейс и персонализировать рабочую область в соответствии со своим стилем работы и личными предпочтениями в Business Central.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: customize, personalize, personalization, hide columns, remove fields, move fields, resize column, change column width
-ms.date: 04/01/2020
-ms.author: sgroespe
-ms.openlocfilehash: c0fe93df0022f66aa5cc3964c2717e2e6ca76147
-ms.sourcegitcommit: 8a4e66f7fc8f9ef8bdf34595e0d3983df4749376
+ms.date: 06/24/2021
+ms.author: edupont
+ms.openlocfilehash: cd25d18787f8f28b01974e59580f7e83425e54bf
+ms.sourcegitcommit: 4c97f38fc53c1c1ec534054a4a100d8cfb73175b
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "3262194"
+ms.lasthandoff: 12/20/2021
+ms.locfileid: "7940280"
 ---
 # <a name="personalize-your-workspace"></a>Персонализация рабочей области
 Вы можете персонализировать свою рабочую область в соответствии со вашей работой и предпочтениями, изменяя страницы, чтобы на них отображалась только требуемая информация в тех местах, в которых она нужна. Сделанная вами персонализация изменяет только то, что видите вы, а не то, что видят другие пользователи.
@@ -28,6 +28,11 @@ ms.locfileid: "3262194"
 > Администраторы могут вносить в макеты страниц такие же изменения, как и пользователи, путем настройки рабочей области для профили, который назначается нескольким пользователям. Дополнительные сведения см. в разделе [Настройка страниц для ролей](ui-personalization-manage.md).<br /><br />
 Администраторы также могут переопределять или отключать персонализацию пользователей, а также указывать, какие функции вообще могут видеть пользователи во всех или конкретных компаниях. Дополнительные сведения см. в разделе [Настройка Business Central](ui-customizing-overview.md).
 
+## <a name="video-overview"></a>Обзор видео
+В следующем видео показаны некоторые способы персонализации вашего ролевого центра.
+
+> [!Video https://www.microsoft.com/en-us/videoplayer/embed/RE4ArUB?rel=0]
+
 ## <a name="to-change-the-width-of-a-column"></a>Изменение ширины столбца
 Ширину столбцов в любом списке легко можно изменить путем перетаскивания границы между двумя столбцами влево или вправо.
 1. В заголовке списка выберите границу между двумя столбцами и перетащите ее.
@@ -37,7 +42,7 @@ ms.locfileid: "3262194"
 
 ## <a name="to-start-personalizing-a-page-through-the-personalizing-banner"></a>Чтобы начать персонализацию страницы с помощью баннера **Персонализация**
 1. Откройте любую страницу, которую вы хотите персонализировать.
-2. В правом верхнем углу выберите ![Настройка](media/ui-experience/settings_icon_small.png "Значок настроек для ролевого центра"), а затем выберите действие **Персонализировать**.
+2. В правом верхнем углу выберите ![Настройки.](media/ui-experience/settings_icon_small.png "Значок настроек для ролевого центра") и выберите действие **Персонализация**.
 
     Сверху появляется баннер **Персонализация**, который указывает, что можно начинать вносить изменения.
 
@@ -138,6 +143,9 @@ ms.locfileid: "3262194"
 
 ## <a name="see-also"></a>См. также
 [Настройка страниц для профилей](ui-personalization-manage.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 [Изменение базовых настроек](ui-change-basic-settings.md)  
 [Изменение набора отображаемых функций](ui-experiences.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

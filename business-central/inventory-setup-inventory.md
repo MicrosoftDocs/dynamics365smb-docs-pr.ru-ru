@@ -1,23 +1,22 @@
 ---
-title: Настройка запасов | Документация Майкрософт
+title: Настройка запасов
 description: Описывается, как настроить процессы запасов, включая маршруты перемещения и склады.
-services: project-madeira
-documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: warehouse, stock
-ms.date: 04/01/2020
-ms.author: SorenGP
-ms.openlocfilehash: 14d98f971bcb075a94396ed59b560e5420100413
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.search.form: 30, 461
+ms.date: 04/01/2021
+ms.author: edupont
+ms.openlocfilehash: 870bcf2e7980ccf5717cbb93ada44087afe95c4d
+ms.sourcegitcommit: 189bf08d7ddf6c8b7ef2c09058c6847aa6e590d3
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3181776"
+ms.lasthandoff: 01/31/2022
+ms.locfileid: "8059461"
 ---
 # <a name="setting-up-inventory"></a>Настройка запасов
 Прежде чем приступать к управлению складскими операциями и учетом стоимости товаров, необходимо настроить правила и значения, которые определяют политики запасов в компании.
@@ -38,12 +37,17 @@ ms.locfileid: "3181776"
 |Как дополнение к карточкам товаров, записывайте информацию о товарах на конкретном складе или о конкретном варианте.|[Настройка единиц хранения](inventory-how-to-set-up-stockkeeping-units.md)|
 | Назначение товаров категориям и задание атрибутов для упрощения поиска товаров для вас и клиентов. |[Категоризация товаров](inventory-how-categorize-items.md) |
 |Одновременный импорт нескольких изображений товаров из ZIP-файла, в котором файлы названы в соответствии с номерами товаров.|[Импорт нескольких изображений товаров](inventory-how-import-item-pictures.md)|
+|Укажите отчеты по умолчанию, которые будут использоваться для различных типов документов.|[Выбор отчета в Business Central](across-report-selections.md)|
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/trade-get-started-dynamics-365-business-central/)
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/trade-get-started-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
+
 [Управление запасами](inventory-manage-inventory.md)  
 [Управление закупками](purchasing-manage-purchasing.md)  
 [Управление продажами](sales-manage-sales.md)    
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 [Общие бизнес-функции](ui-across-business-areas.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

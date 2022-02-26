@@ -1,29 +1,29 @@
 ---
 title: Создание новых операций стоимости для товаров на складе | Документация Майкрософт
 description: Описывается, как повысить или понизить операции стоимости одного или нескольких товаров в запасах путем учета текущей вычисленной стоимости.
-services: project-madeira
 documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: costing, inventory cost, value entries
-ms.date: 04/01/2020
-ms.author: sgroespe
-ms.openlocfilehash: c961d15d04da5fcad18a460adc269f3099962f6a
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.search.forms: 5803,
+ms.date: 04/01/2021
+ms.author: edupont
+ms.openlocfilehash: b07aba72be831dd68eea3475f3ee591a7c319051
+ms.sourcegitcommit: 189bf08d7ddf6c8b7ef2c09058c6847aa6e590d3
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3182136"
+ms.lasthandoff: 01/31/2022
+ms.locfileid: "8059600"
 ---
 # <a name="revalue-inventory"></a>Переоценка запасов
 Чтобы повысить или понизить стоимость изделия или конкретной учтенной товарной операции, нужно воспользоваться журналом переоценки.
 
 ## <a name="to-revalue-inventory"></a>Переоценка запасов
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Журнал переоценки**, затем выберите соответствующую ссылку.
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Журнал переоценки**, а затем выберите связанную ссылку.
 2. Выберите действие **Расчет стоимости запасов**.
 3. На странице **Расчет стоимости запасов** заполните требуемые поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 4. Нажмите кнопку **ОК**.
@@ -39,4 +39,7 @@ ms.locfileid: "3182136"
 [Запасы](inventory-manage-inventory.md)  
 [Продажи](sales-manage-sales.md)  
 [Покупки](purchasing-manage-purchasing.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

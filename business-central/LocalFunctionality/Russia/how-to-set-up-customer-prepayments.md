@@ -3,17 +3,17 @@ title: Настройка предоплат клиентов в России
 description: Российские улучшения включают предоплату клиентов.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
-ms.date: 10/01/2019
+ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: a6764e37c30d31ef8d98cf9e915f045cf1c65a69
-ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
+ms.openlocfilehash: b96bd22eb5ef7ca337a59ece94cbd09e3e229612
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "2554499"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6446154"
 ---
 # <a name="set-up-customer-prepayments"></a>Настройка предоплат клиентов
 
@@ -21,7 +21,7 @@ ms.locfileid: "2554499"
 
 ## <a name="to-set-up-customer-prepayments"></a>Настройка предоплат клиентов
 
-1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка модуля "Продажи"**, а затем выберите соответствующую ссылку.
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../../media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Настройка модуля "Продажи и дебиторская задолженность"**, а затем выберите связанную ссылку.
 
 2. На экспресс-вкладке **Нумерация** убедитесь, что серия номеров **Серия номеров учт. счетов предопл.** совпадает с **Серия номеров учт. счетов**. Убедитесь также, что серия номеров для **Серия номеров учт. кр.-нот предопл.** совпадает с серией для **Серия номеров учт. кредит-нот**.
 
@@ -52,3 +52,6 @@ ms.locfileid: "2554499"
 
 [Выставление счетов на предоплату](../../finance-invoice-prepayments.md)  
 [Пошаговое руководство. Настройка и выставление счетов на продажу](../../walkthrough-setting-up-and-invoicing-sales-prepayments.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

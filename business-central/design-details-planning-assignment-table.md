@@ -1,21 +1,21 @@
 ---
-title: Сведения о проектировании — таблица "Назначение произ. плана" | Документация Майкрософт
-description: В этом разделе приведены сведения о том, что происходит при изменении способа планирования товара.
+title: 'Сведения о проектировании: таблица "Назначение произ. плана"'
+description: Эта тема дает представление о том, что происходит, когда изменение структуры спроса или предложения требует, чтобы вы рассчитали, как вы планируете для товара.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2020
-ms.author: sgroespe
-ms.openlocfilehash: 4002bc464f012cfd279db91047ed98ec1193cb36
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.date: 06/15/2021
+ms.author: edupont
+ms.openlocfilehash: cdd16d0f3143701ca53125ef74f91ae5bd143f1c
+ms.sourcegitcommit: e562b45fda20ff88230e086caa6587913eddae26
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3184920"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "6321599"
 ---
 # <a name="design-details-planning-assignment-table"></a>Сведения о проектировании: таблица "Назначение произ. плана"
 Все товары должны быть запланированы, однако нет необходимости вычислять план для товара, если не было изменений в цепочке спрос-поставка с момента последнего расчета плана.  
@@ -67,3 +67,6 @@ ms.locfileid: "3184920"
 [Сведения о проектировании: обработка политик дозаказа](design-details-handling-reordering-policies.md)   
 [Сведения о проектировании: перемещения при планировании](design-details-transfers-in-planning.md)   
 [Сведения о проектировании: параметры планирования](design-details-planning-parameters.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

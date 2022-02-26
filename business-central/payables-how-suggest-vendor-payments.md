@@ -1,25 +1,25 @@
 ---
-title: Использование пакетного задания "Предлож. оплаты поставщикам" | Документы Майкрософт
+title: Пакетное задание "Предложить оплаты поставщикам"
 description: Вы можете задать настройки оплаты поставщикам для получения предложений по оплатам, которые быть произведены в ближайшее время или по которым доступны скидки.
-services: project-madeira
-documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: vendor payment, creditor, debt, balance due, AP
-ms.date: 04/01/2019
-ms.author: sgroespe
-ms.openlocfilehash: 9936a77c7afdc89d6d8c8485d01b4970e85fcb19
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.search.form: 256
+ms.date: 04/01/2021
+ms.author: edupont
+ms.openlocfilehash: 962a1fde49db09b3d739ac33eba43fa7316cc25d
+ms.sourcegitcommit: e008b3d7003c256475d6c606e5f7c9866a6bbb72
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1254003"
+ms.lasthandoff: 01/10/2022
+ms.locfileid: "7953162"
 ---
 # <a name="suggest-vendor-payments"></a>Предлож. оплаты поставщикам
+
 На странице **Журнал платежей** можно использовать пакетное задание **Предлож. оплаты поставщикам** для предложения строк платежей. Строки для платежей, для которых скоро наступает крайний срок, или платежей, для которых доступна скидка, предлагаются на основании ваших настроек.
 
 Чтобы максимально эффективно использовать предложения по оплате, необходимо сначала назначить приоритеты поставщикам. Дополнительные сведения см. в разделе [Назначение приоритетов поставщикам](purchasing-how-prioritize-vendors.md).  
@@ -34,7 +34,7 @@ ms.locfileid: "1254003"
     * Для открытых операций поставщиков, которые квалифицируются по скидкам оплаты в порядке номеров поставщиков.  
 
 ## <a name="to-use-the-suggest-vendor-payments-function"></a>Использование функции предложения оплаты поставщикам
-1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Журналы платежей**, затем выберите связанную ссылку.  
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Журналы платежей**, а затем выберите связанную ссылку.  
 2. Откройте соответствующий журнал, а затем выберите действие **Предлож. оплаты поставщикам**.  
 3. Заполните соответствующим образом поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
 4. Нажмите кнопку **ОК**.  
@@ -56,4 +56,7 @@ ms.locfileid: "1254003"
 [Управление кредиторской задолженностью](payables-manage-payables.md)  
 [Осуществление платежей](payables-make-payments.md)  
 [Работа с финансовыми журналами](ui-work-general-journals.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

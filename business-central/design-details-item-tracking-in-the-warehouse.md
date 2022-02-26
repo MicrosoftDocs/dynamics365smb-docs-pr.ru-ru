@@ -1,21 +1,21 @@
 ---
-title: Сведения о проектировании — отслеживание товаров на складе | Документация Майкрософт
-description: Обработка серийных номеров и номеров партий изначально является складской задачей, и, следовательно, все входящие и исходящие складские документы имеют стандартные функции назначения и выбора номеров трассировки товара. Однако поскольку система резервирования основывается на операциях книги товаров, документы складской операций, в которых регистрируются только складские операции, не поддерживаются полностью.
+title: 'Сведения о проектировании: трассировка товара на складе'
+description: Входящие и исходящие складские документы имеют стандартные функции для присвоения и выбора номеров отслеживания товаров.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: design, item, tracking, serial number, lot number, outbound documents
-ms.date: 04/01/2020
-ms.author: sgroespe
-ms.openlocfilehash: 02a87bc61fbadae4392800f84adbc176bfb87b23
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.date: 06/15/2021
+ms.author: edupont
+ms.openlocfilehash: 3bf30b7739e488eeb3610d191cfb4f3b20e0e79e
+ms.sourcegitcommit: e562b45fda20ff88230e086caa6587913eddae26
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3185016"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "6320368"
 ---
 # <a name="design-details-item-tracking-in-the-warehouse"></a>Сведения о проектировании: трассировка товара на складе
 Обработка серийных номеров и номеров партий изначально является складской задачей, и, следовательно, все входящие и исходящие складские документы имеют стандартные функции назначения и выбора номеров трассировки товара.  
@@ -31,3 +31,6 @@ ms.locfileid: "3185016"
 [Сведения о проектировании: интеграция с запасом](design-details-integration-with-inventory.md)  
 [Сведения о проектировании: наличие на складе](design-details-availability-in-the-warehouse.md)  
 [Сведения о проектировании: разработка трассировки товара](design-details-item-tracking-design.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

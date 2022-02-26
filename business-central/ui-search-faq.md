@@ -1,21 +1,21 @@
 ---
-title: Вопросы и ответы о функции "Что вы хотите сделать" | Документация Майкрософт
+title: Вопросы и ответы о функции "Что вы хотите сделать"
 description: Эта статья содержит ответы на вопросы, которые наши партнеры и клиенты часто задают по поводу функции "Что вы хотите сделать".
 author: bholtorf
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: find
-ms.date: 02/12/2020
+ms.date: 06/24/2021
 ms.author: bholtorf
-ms.openlocfilehash: 67dd65491710206245a2ff83dce3d3eb94484770
-ms.sourcegitcommit: c78df3aefb3e2ed8c28e5ac8340d56ab787212e8
+ms.openlocfilehash: 20493ffc3dd20da07d5f27602f4c766a0ebfbd87
+ms.sourcegitcommit: e562b45fda20ff88230e086caa6587913eddae26
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/19/2020
-ms.locfileid: "3071914"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "6325867"
 ---
 # <a name="tell-me-faq"></a>Вопросы и ответы о функции "Что вы хотите сделать"
 В этой теме содержатся ответы на вопросы, которые часто задают наши продвинутые пользователи о функции "Что вы хотите сделать"
@@ -32,7 +32,7 @@ ms.locfileid: "3071914"
 ### <a name="what-makes-this-different-from-what-was-previously-known-as-page-search"></a>Чем эта функция отличается от ранее известной функции поиска страниц?
 Поиск страниц эволюционировал в функцию "Что вы хотите сделать", чтобы помочь работать быстрее. Поиск страниц мог помочь только переходить к страницам или отчетам. На техническом уровне функция "Что вы хотите сделать" больше не основывается на концепции MenuSuite.
 
-### <a name="i-use-on-premises-d365fin-does-that-include-tell-me"></a>Я использую локальную версию [!INCLUDE[d365fin](includes/d365fin_md.md)]. Она включает функцию "Что вы хотите сделать"?
+### <a name="i-use-on-premises-prod_short-does-that-include-tell-me"></a>Я использую локальную версию [!INCLUDE[prod_short](includes/prod_short.md)]. Она включает функцию "Что вы хотите сделать"?
 Можно использовать функцию "Что вы хотите сделать" в веб-клиенте локальной версии для поиска действий, страниц и отчетов, но не документации, или приложения и консультативные услуги в AppSource.
 
 ### <a name="is-tell-me-available-for-all-form-factors"></a>Доступна ли функция "Что вы хотите сделать" для всех форм-факторов?
@@ -50,3 +50,6 @@ ms.locfileid: "3071914"
 [Поиск страниц и информации с помощью функции "Что вы хотите сделать"](ui-search.md)  
 [Поиск страниц с помощью обозревателя ролей](ui-role-explorer.md)  
 [Добавление закладки на страницу или отчет в ролевом центре](ui-bookmarks.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

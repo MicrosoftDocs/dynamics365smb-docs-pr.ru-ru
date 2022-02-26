@@ -3,19 +3,19 @@ title: Сведения о проектировании — счета в гла
 description: Чтобы выверить операции запасов и операции журнала производственных мощностей с ГК, сопутствующие операции стоимости учитываются на разных счетах ГК.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2020
-ms.author: sgroespe
-ms.openlocfilehash: 6e6af3c9afe8e0d63d5ec2bcfe4905be0a7997df
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.date: 06/08/2021
+ms.author: edupont
+ms.openlocfilehash: 41b94d44ba374ecbcad64a2b1da100fcf3e1a2ab
+ms.sourcegitcommit: 0953171d39e1232a7c126142d68cac858234a20e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3185880"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "6215582"
 ---
 # <a name="design-details-accounts-in-the-general-ledger"></a>Сведения о проектировании: счета в главной книге
 Чтобы выверить операции запасов и операции журнала производственных мощностей с ГК, сопутствующие операции стоимости учитываются на разных счетах ГК. Дополнительные сведения см. в разделе [Сведения о проектировании: выверка с главной книгой](design-details-reconciliation-with-the-general-ledger.md).  
@@ -99,4 +99,7 @@ ms.locfileid: "3185880"
  [Сведения о проектировании: учет ожидаемой себестоимости](design-details-expected-cost-posting.md)  
  [Управление себестоимостью товаров](finance-manage-inventory-costs.md)  
  [Финансы](finance.md)  
- [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+ [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

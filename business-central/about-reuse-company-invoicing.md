@@ -3,37 +3,37 @@ title: Использование Invoicing и Business Central | Докумен
 description: Обходное решение для доступа к Microsoft Invoicing при регистрации на Dynamics 365 Business Central.
 author: bholtorf
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: Invoicing, Office 365
-ms.date: 04/30/2020
+ms.search.keywords: Invoicing, Microsoft 365
+ms.date: 04/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: 7776cd01218f5959734173226574bb4a0d043153
-ms.sourcegitcommit: 866f0e6ed9df3397072b9df838e31c3a1f4b626d
+ms.openlocfilehash: ea59fa49889cd6bfc53f727123f259448242c79b
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "3333864"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6439151"
 ---
-# <a name="using-the-same-office-365-account-in-d365fin-and-microsoft-invoicing"></a>Использование одной и той же учетной записи Office 365 в [!INCLUDE[d365fin](includes/d365fin_long_md.md)] и Microsoft Invoicing
-При регистрации на пробную версию [!INCLUDE[d365fin](includes/d365fin_md.md)] можно перейти на 30-дневную фазу оценки, начать подписку или прекратить использование [!INCLUDE[d365fin](includes/d365fin_md.md)]. Во всех случаях возможно, что вы в какой-то момент увидели что-то под названием **Microsoft Invoicing** и щелкнули соответствующую плитку. Это было приложение, которое входило в состав того, что сейчас называется подпиской Microsoft 365 Business Standard (а раньше называлось Office 365 Business Premium), поэтому видеть эту плитку в своем интерфейсе Office 365 могли не все.  
+# <a name="using-the-same-microsoft-365-account-in-prod_short-and-microsoft-invoicing"></a>Использование одной и той же учетной записи Microsoft 365 в [!INCLUDE[prod_short](includes/prod_long.md)] и Microsoft Invoicing
+При регистрации на пробную версию [!INCLUDE[prod_short](includes/prod_short.md)] можно перейти на 30-дневную фазу оценки, начать подписку или прекратить использование [!INCLUDE[prod_short](includes/prod_short.md)]. Во всех случаях возможно, что вы в какой-то момент увидели что-то под названием **Microsoft Invoicing** и щелкнули соответствующую плитку. Это было приложение, которое входило в состав того, что сейчас называется подпиской Microsoft 365 Business Standard (а раньше называлось Microsoft 365 Business Premium), поэтому видеть эту плитку в своем интерфейсе Microsoft 365 могли не все.  
 
-Microsoft Invoicing больше не предоставляется, однако если вам нужно войти в Invoicing, чтобы извлечь свои данные, вы можете увидеть сообщение о невозможности доступа Microsoft Invoicing из-за того, что ваша учетная запись используется в [!INCLUDE[d365fin](includes/d365fin_md.md)].  
+Microsoft Invoicing больше не предоставляется, однако если вам нужно войти в Invoicing, чтобы извлечь свои данные, вы можете увидеть сообщение о невозможности доступа Microsoft Invoicing из-за того, что ваша учетная запись используется в [!INCLUDE[prod_short](includes/prod_short.md)].  
 
 Подобное сообщение отображается при установке мобильного приложения для Invoicing.  
 
 ## <a name="workaround"></a>Обходное решение
-Invoicing и [!INCLUDE[d365fin](includes/d365fin_md.md)] используют одну и ту же платформу. Это означает, что вы распознаетесь как существующий пользователь [!INCLUDE[d365fin](includes/d365fin_md.md)] при попытке перейти в Invoicing в Центре администрирования Microsoft 365. Причиной этого является то, что Invoicing не может использовать ту же организацию, что и [!INCLUDE[d365fin](includes/d365fin_md.md)].  
+Invoicing и [!INCLUDE[prod_short](includes/prod_short.md)] используют одну и ту же платформу. Это означает, что вы распознаетесь как существующий пользователь [!INCLUDE[prod_short](includes/prod_short.md)] при попытке перейти в Invoicing в Центре администрирования Microsoft 365. Причиной этого является то, что Invoicing не может использовать ту же организацию, что и [!INCLUDE[prod_short](includes/prod_short.md)].  
 
-Поэтому вам следует выполнить вход в [!INCLUDE[d365fin](includes/d365fin_md.md)] и переименовать существующую организацию, а затем создать новую организацию, которую можно использовать в Invoicing. В этом обходном решении данные не перемещаются и не перезаписываются.
+Поэтому вам следует выполнить вход в [!INCLUDE[prod_short](includes/prod_short.md)] и переименовать существующую организацию, а затем создать новую организацию, которую можно использовать в Invoicing. В этом обходном решении данные не перемещаются и не перезаписываются.
 
 ### <a name="to-rename-your-company"></a>Переименование организации
-1. Выполните вход в [!INCLUDE[d365fin](includes/d365fin_md.md)].
+1. Выполните вход в [!INCLUDE[prod_short](includes/prod_short.md)].
 2. В правом верхнем углу щелкните значок **Параметры** ![Параметры](media/ui-experience/settings_icon_small.png "Значок настроек для ролевого центра"), затем выберите **Мои настройки**.
 3. В поле **Организация** выберите другую организацию.
-4. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Организации**, затем выберите соответствующую ссылку.  
+4. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Компании**, а затем выберите связанную ссылку.  
 5. На странице **Организации** выберите **Изменить список**.  
 6. Измените имя записи *Моя организация* на другое.  
 
@@ -44,10 +44,13 @@ Invoicing и [!INCLUDE[d365fin](includes/d365fin_md.md)] используют о
 Выполнение этой операции также займет несколько минут. По завершении процесса вы сможете получить доступ к Invoicing в интерфейсе Microsoft 365 Business Standard, но только для экспорта данных, так как приложение Invoicing устарело.  
 
 ### <a name="what-about-my-data"></a>Что происходит с данными?
-При переименовании имени первоначальной организации таблицы баз данных, в которых хранятся существующие данные [!INCLUDE[d365fin](includes/d365fin_md.md)], будут переименованы, но сами данные не будут изменены.  
+При переименовании имени первоначальной организации таблицы баз данных, в которых хранятся существующие данные [!INCLUDE[prod_short](includes/prod_short.md)], будут переименованы, но сами данные не будут изменены.  
 
-Если используется и Invoicing, и [!INCLUDE[d365fin](includes/d365fin_md.md)], данные хранятся в двух различных контейнерах (двух организациях). Данные не используются совместно, поэтому потребуется управлять клиентами и товарами в обеих организациях.  
+Если используется и Invoicing, и [!INCLUDE[prod_short](includes/prod_short.md)], данные хранятся в двух различных контейнерах (двух организациях). Данные не используются совместно, поэтому потребуется управлять клиентами и товарами в обеих организациях.  
 
 ## <a name="see-also"></a>См. также
-[Вопросы и ответы](across-faq.md)  
+[Вопросы и ответы](across-faq.yml)  
 [Администрация](admin-setup-and-administration.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

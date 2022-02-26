@@ -3,17 +3,17 @@ title: Безвозмездное получение в России
 description: Российские усовершенствования включают безвозмездное получение основных средств.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: eb9b443d27f3b526d9f91218d1d979786675aa75
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: aa0b75879b0aa910e80bf34a3e981f5993cdf139
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3180993"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5774984"
 ---
 # <a name="gratuitous-receipt-of-fixed-assets"></a>Безвозмездное получение основных средств.
 
@@ -63,3 +63,6 @@ ms.locfileid: "3180993"
 ## <a name="see-also"></a>См. также
 
 [Основные Средства](fixed-assets.md)
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

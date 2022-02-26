@@ -1,21 +1,21 @@
 ---
-title: Рекомендации по настройке. Параметры планирования | Документация Майкрософт
-description: Экспресс-вкладка Планирование в карточке товара является центром цепочки поставок в организации. Для рентабельного управления запасами и обслуживания клиентов на высочайшем уровне очень важно установить правильные параметры планирования.
+title: 'Рекомендации по настройке: параметры планирования'
+description: В этом разделе описываются лучшие методы настройки выбранных полей параметров планирования с помощью экспресс-вкладки «Планирование» в карточке товара.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2020
-ms.author: sgroespe
-ms.openlocfilehash: 8ff874a076aa1a0bba09e1277cb19ee6553eaa8b
-ms.sourcegitcommit: 99915b493a7e49d12c530f2f9fda1fcedb518b6e
+ms.date: 06/23/2021
+ms.author: edupont
+ms.openlocfilehash: 72d6f07ca98fad0bed123c648025665add723c23
+ms.sourcegitcommit: e562b45fda20ff88230e086caa6587913eddae26
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "3271922"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "6320060"
 ---
 # <a name="setup-best-practices-planning-parameters"></a>Рекомендации по настройке: параметры планирования
 Экспресс-вкладка **Планирование** в карточке товара является центром цепочки поставок в организации. Для рентабельного управления запасами и обслуживания клиентов на высочайшем уровне очень важно установить правильные параметры планирования.  
@@ -45,4 +45,7 @@ ms.locfileid: "3271922"
  [Сведения о проектировании: планирование поставок](design-details-supply-planning.md)   
  [Настройка сложных областей приложения с помощью рекомендаций](set-up-complex-application-areas-using-best-practices.md)  
  [Сведения о проектировании: спрос на пустом складе](design-details-demand-at-blank-location.md)  
- [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+ [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

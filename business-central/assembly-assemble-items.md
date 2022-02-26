@@ -1,24 +1,24 @@
 ---
-title: Управление сборкой | Документация Майкрософт
-description: Поддерживайте компании, которые поставляют продукты своим клиентам, объединяя компоненты в простые процессы без потребности в функциях производства, но с функциями сборки товаров, интегрирующиеся с существующими функциями, например для организации продаж, планирования, резервирования и складской деятельности.
+title: Управление сборкой
+description: Поддерживайте компании, которые поставляют продукты своим клиентам, комбинируя компоненты в простых процессах без необходимости функциональности производства.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: kit, kitting
-ms.date: 04/01/2020
-ms.author: sgroespe
-ms.openlocfilehash: 015d11ed2ec58fff09b0c4870a7c5a1ee11e7896
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.date: 06/14/2021
+ms.author: edupont
+ms.openlocfilehash: d149ed0da02124a442668bb67a659c0dde36dad3
+ms.sourcegitcommit: e562b45fda20ff88230e086caa6587913eddae26
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3186480"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "6326367"
 ---
 # <a name="assembly-management"></a>Управление сборкой
-Для обеспечения поддержки компаний, которые поставляют продукты своим клиентам, объединяя компоненты в простые процессы без потребности в функциях производства, [!INCLUDE[d365fin](includes/d365fin_md.md)] содержит функции сборки товаров, интегрирующиеся с существующими функциями, например для организации продаж, планирования, резервирования и складской деятельности.  
+Для обеспечения поддержки компаний, которые поставляют продукты своим клиентам, объединяя компоненты в простые процессы без потребности в функциях производства, [!INCLUDE[prod_short](includes/prod_short.md)] содержит функции сборки товаров, интегрирующиеся с существующими функциями, например для организации продаж, планирования, резервирования и складской деятельности.  
 
  Сборочный элемент определяется как продаваемый товар, который содержит сборочную спецификацию. Дополнительные сведения см. в разделе [Работа со спецификациями](inventory-how-work-BOMs.md).
 
@@ -48,10 +48,17 @@ ms.locfileid: "3186480"
 
 ## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/assemble-items-dynamics-365-business-central/)
 
-## <a name="see-also"></a>См. также  
+## <a name="see-also"></a>См. также
+
 [Работа со спецификациями](inventory-how-work-BOMs.md)  
 [Запасы](inventory-manage-inventory.md)  
 [Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Сведения о проектировании: планирование поставок](design-details-supply-planning.md)  
+<!-- [Walkthrough: Planning Supplies Manually](walkthrough-planning-supplies-manually.md)   -->
+<!-- [Walkthrough: Selling, Assembling, and Shipping Kits](walkthrough-selling-assembling-and-shipping-kits.md)   -->
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
 
-## [!INCLUDE[d365fin](includes/free_trial_md.md)]  
+## [!INCLUDE[prod_short](includes/free_trial_md.md)]  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

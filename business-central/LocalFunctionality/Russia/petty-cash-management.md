@@ -3,17 +3,17 @@ title: Управление мелкими доходами/расходами �
 description: Российские улучшения включают управление мелкими доходами/расходами.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
-ms.date: 10/01/2019
+ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 2e10c2e49962dfee856254b1399a494d85150b4f
-ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
+ms.openlocfilehash: bd5036d32172f747e3b1d63349af746f38903a07
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "2554590"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5781415"
 ---
 # <a name="petty-cash-management"></a>Управление мелкими доходами/расходами
 
@@ -101,3 +101,6 @@ ms.locfileid: "2554590"
 [Печать отчета "Журнал регистрации кассовых документов КО-3"](How-to-Print-the-Cash-Order-Journal-CO-3-Report.md)  
 [Печать отчета "Кассовая книга КО-4"](How-to-Print-the-Cash-Report-CO-4-Report.md)  
 
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

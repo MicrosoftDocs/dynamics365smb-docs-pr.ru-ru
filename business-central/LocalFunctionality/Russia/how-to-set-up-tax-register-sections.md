@@ -3,17 +3,17 @@ title: Настройка секций налогового регистра в 
 description: Российские улучшения включают секции налогового регистра.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
-ms.date: 10/01/2019
+ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: c612d8c4a46814cef611fbce25c22b08949bbe05
-ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
+ms.openlocfilehash: 34e5d34dd5e8f8467adff10e5c717e909b80e970
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "2554494"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6437189"
 ---
 # <a name="set-up-tax-register-sections"></a>Настройка секций налогового регистра
 
@@ -23,7 +23,7 @@ ms.locfileid: "2554494"
 
 ## <a name="to-set-up-a-tax-register"></a>Настройка налогового регистра
 
-1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Налоговые регистры**, затем выберите связанную ссылку.
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../../media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Налоговые регистры**, а затем выберите связанную ссылку.
 
 2. В окне **Секции налоговые регистров** выберите действие **Создать**.
 
@@ -90,3 +90,6 @@ ms.locfileid: "2554494"
 [Налоговые регистры](Tax-Registers.md)  
 [Расчет налоговых регистров](How-to-Create-Tax-Registers.md)  
 [Сбор сведений о налоге на прибыль для налоговой декларации](Collecting-Profit-Tax-Information-for-Tax-Declaration.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

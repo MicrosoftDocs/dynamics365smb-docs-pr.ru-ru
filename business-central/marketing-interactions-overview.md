@@ -1,26 +1,26 @@
 ---
-title: Создание и управление взаимодействиями с контактами | Документация Майкрософт
-description: В Business Central взаимодействиями являются все типы коммуникаций между организацией и контактами. Например, взаимодействиями могут быть эл. почта, письмо, телефон, встреча и т. д.
+title: Создание и управление взаимодействиями с контактами
+description: В Business Central взаимодействиями являются все типы коммуникаций между организацией и контактами. Прочтите о способах создания контактов и управления ими.
 services: project-madeira
 documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: overview
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: relationship, prospect
-ms.date: 04/01/2020
-ms.author: sgroespe
-ms.openlocfilehash: 3f739e64a8ff2405254b1bf7811cbf506e6ba823
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.date: 06/22/2021
+ms.author: edupont
+ms.openlocfilehash: de3362b82bdba2248e8d3e288822ec12db0fcc05
+ms.sourcegitcommit: 8464b37c4f1e5819aed81d9cfdc382fc3d0762fc
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3181416"
+ms.lasthandoff: 01/19/2022
+ms.locfileid: "8011156"
 ---
-# <a name="managing-interactions"></a>Управление взаимодействиями
-В [!INCLUDE[d365fin](includes/d365fin_md.md)] взаимодействиями являются все типы коммуникаций между организацией и контактами. Например, взаимодействиями могут быть эл. почта, письмо, телефон, встреча и т. д.
+# <a name="managing-interactions-with-your-contacts"></a>Управление взаимодействиями с контактами
+В [!INCLUDE[prod_short](includes/prod_short.md)] взаимодействиями являются все типы коммуникаций между организацией и контактами. Например, взаимодействиями могут быть эл. почта, письмо, телефон, встреча и т. д.
 
 Можно регистрировать все ваши взаимодействия с контактами для того, чтобы отслеживать маркетинговую и торговую деятельность в отношении контактов, а также для улучшения последующих деловых взаимодействий с ними.
 
@@ -31,3 +31,6 @@ ms.locfileid: "3181416"
 | Настройте систему для записи взаимодействий. |[Настройка контактов](marketing-setup-contacts.md) |
 |Создайте взаимодействия для того, чтобы регистрировать все взаимодействия и коммуникации с контактами и сегментами, например, отправка сообщений электронной почты.|[Создание взаимодействий для контактов и сегментов](marketing-how-create-interactions.md)|
 |Настройте систему для автоматической регистрации взаимодействий для документов продаж, покупок и сервиса, например, при создании, отправке или печати документов.|[Автоматическая регистрация взаимодействий с контактами](marketing-auto-record-interactions.md)|
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

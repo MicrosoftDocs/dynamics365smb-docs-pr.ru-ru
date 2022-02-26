@@ -1,21 +1,21 @@
 ---
-title: Об учете затрат | Документация Майкрософт
-description: Учета затрат поможет оценить затраты на ведение бизнеса.
+title: Об учете затрат
+description: Учета затрат поможет оценить затраты на ведение бизнеса. Информация об учете затрат предназначена для анализа различных проблем.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: ''
-ms.date: 04/01/2020
-ms.author: sgroespe
-ms.openlocfilehash: 6c61a23499735d694b2769730c5e3ce22ac835b1
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.search.form: 1101, 1103, 1105, 1108, 1111, 1112, 1124
+ms.date: 06/16/2021
+ms.author: edupont
+ms.openlocfilehash: 0d349f186757a38b9473b98fc74bfb490b81892e
+ms.sourcegitcommit: 2ab6709741be16ca8029e2afadf19d28cf00fbc7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3184152"
+ms.lasthandoff: 01/14/2022
+ms.locfileid: "7973678"
 ---
 # <a name="about-cost-accounting"></a>Об учете затрат
 Учета затрат поможет оценить затраты на ведение бизнеса. Информация об учете затрат предназначена для анализа следующего:  
@@ -37,7 +37,7 @@ ms.locfileid: "3184152"
 
 На следующей диаграмме показан рабочий процесс учета затрат.  
 
-![Обзор учета затрат](media/costaccountingoverview.png "CostAccountingOverview")  
+![Обзор учета затрат.](media/costaccountingoverview.png "CostAccountingOverview")  
 
 ## <a name="cost-types-cost-centers-and-cost-objects"></a>Типы затрат, места возникновения затрат и объекты затрат  
 Можно определить типы затрат, места возникновения затрат и объекты затрат для анализа сущности затрат, откуда поступают затраты и на чей счет они должны быть отнесены.  
@@ -72,4 +72,7 @@ ms.locfileid: "3184152"
  [Учет по затратам](finance-manage-cost-accounting.md)  
  [Финансы](finance.md)   
  [Терминология в учете затрат](finance-terminology-in-cost-accounting.md)  
- [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+ [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

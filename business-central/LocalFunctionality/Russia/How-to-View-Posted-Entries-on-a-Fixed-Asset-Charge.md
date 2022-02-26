@@ -3,17 +3,17 @@ title: Просмотр учтенных операций по издержка�
 description: Российские усовершенствования включают учтенные операции для издержек основных средств.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 1217a129fd453edbc9ca16780feefd12de9aa415
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: e3b2c19bdad4ff9e95a16049650c4ef87de85974
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3180995"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6441381"
 ---
 # <a name="view-posted-entries-on-a-fixed-asset-charge"></a>Просмотр учтенных операций по издержкам основных средств
 
@@ -21,8 +21,11 @@ ms.locfileid: "3180995"
 
 ## <a name="to-view-a-posted-entry-on-a-fixed-asset-charge"></a>Просмотр учтенных операций по издержкам основных средств
 
-- Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Книга операций по ОС**, затем выберите соответствующую ссылку.
+- Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../../media/ui-search/search_small.png "Что вы хотите сделать") значок **Операции книги ОС**, а затем выберите связанную ссылку.
 
 ## <a name="see-also"></a>См. также
 
 [Создание издержек ОС](How-to-Create-a-Fixed-Asset-Charge.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

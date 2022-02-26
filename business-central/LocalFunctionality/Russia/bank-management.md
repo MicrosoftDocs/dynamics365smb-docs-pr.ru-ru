@@ -3,21 +3,21 @@ title: Управление банками в России
 description: Российские усовершенствования включают управление банками.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 6c2a2c06abfaf0e82f66c3d9a25e3426bb666ff4
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: 79ae8d062a6d4c9611344eac67db2486f7689d59
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3180981"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5777571"
 ---
 # <a name="bank-management"></a>Управление банками
 
-В [!INCLUDE[prodshort](../../includes/prodshort.md)] можно создать структуры справочника ЦБ РФ для хранения справочной информации по банку в одном месте, создания бюджетных классификаций, добавления сведений о банковских счетах в определенные счета главной книги и печати и учета соответствующих документов.
+В [!INCLUDE[prod_short](../../includes/prod_short.md)] можно создать структуры справочника ЦБ РФ для хранения справочной информации по банку в одном месте, создания бюджетных классификаций, добавления сведений о банковских счетах в определенные счета главной книги и печати и учета соответствующих документов.
 
  
 
@@ -58,3 +58,6 @@ ms.locfileid: "3180981"
 ## <a name="see-also"></a>См. также 
 
 [Настройка платежного поручения](How-to-Set-Up-a-Bank-Payment-Order.md)
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

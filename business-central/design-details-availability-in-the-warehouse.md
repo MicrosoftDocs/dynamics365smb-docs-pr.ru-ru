@@ -3,19 +3,19 @@ title: Сведения о проектировании — наличие на 
 description: Система должна постоянно контролировать доступность товаров на складе, чтобы исходящие заказы могли эффективно обрабатываться и обеспечивать оптимальные поставки.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2020
-ms.author: sgroespe
-ms.openlocfilehash: 10eb4e51a90437d847d01fdbf577adba8c8275eb
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.date: 06/08/2021
+ms.author: edupont
+ms.openlocfilehash: 7d23dc10ffb215ee2ac160c9ec9b9fd1ddb5cc2d
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3185760"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6442539"
 ---
 # <a name="design-details-availability-in-the-warehouse"></a>Сведения о проектировании: наличие на складе
 Система должна постоянно контролировать доступность товаров на складе, чтобы исходящие заказы могли эффективно обрабатываться и обеспечивать оптимальные поставки.  
@@ -47,7 +47,7 @@ ms.locfileid: "3185760"
 
  На следующей схеме показаны разные элементы вычислений.  
 
- ![Доступно для выбора с перекрытием резервирования](media/design_details_warehouse_management_availability_2.png "Доступно для выбора с перекрытием резервирования")  
+ ![Доступно для выбора с перекрытием резервирования.](media/design_details_warehouse_management_availability_2.png "Доступно для выбора с перекрытием резервирования")  
 
 ## <a name="quantity-available-to-reserve"></a>Количество, доступное для резервирования  
  Поскольку основные понятия содержимого ячейки и резервирования сосуществуют, количество товаров, доступных для резервирования, должно быть согласовано с распределениями в исходящих документах склада.  
@@ -72,8 +72,11 @@ ms.locfileid: "3185760"
 
  На следующей схеме показаны разные элементы вычислений.  
 
- ![Доступно для резервирования, на распределения склада](media/design_details_warehouse_management_availability_3.png "Доступно для резервирования, на распределения склада")  
+ ![Доступно для резервирования, на распределения склада.](media/design_details_warehouse_management_availability_3.png "Доступно для резервирования, на распределения склада")  
 
 ## <a name="see-also"></a>См. также  
- [Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
+ [Сведения о проектировании: Warehouse Management](design-details-warehouse-management.md)  
  [Просмотр наличия товара](inventory-how-availability-overview.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

@@ -3,17 +3,17 @@ title: План счетов в России
 description: Российские улучшения включают план счетов.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
-ms.date: 10/01/2019
+ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 69c50062134d82507ea0e743c46d5f6f76a6f793
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: dcbbb79986fdf213638de9e53292fc8d542fb29c
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2301129"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5781409"
 ---
 # <a name="russian-chart-of-accounts"></a>Российский план счетов
 
@@ -33,3 +33,6 @@ ms.locfileid: "2301129"
 ## <a name="see-also"></a>См. также
 
 [Функциональность локальной версии для России](russia-local-functionality.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

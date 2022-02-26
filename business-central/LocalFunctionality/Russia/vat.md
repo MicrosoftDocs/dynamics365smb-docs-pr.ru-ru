@@ -3,17 +3,17 @@ title: НДС в России
 description: Российские усовершенствования включают поддержку НДС.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: overview
 ms.search.keywords: ''
-ms.date: 10/01/2019
+ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: dbdd1b81251145583593bac54a04a956335b23a4
-ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
+ms.openlocfilehash: 90ba4b635b6adb25444f24e2b532fae04b021088
+ms.sourcegitcommit: 8464b37c4f1e5819aed81d9cfdc382fc3d0762fc
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "2554553"
+ms.lasthandoff: 01/19/2022
+ms.locfileid: "8012622"
 ---
 # <a name="vat-overview-in-the-russian-version"></a>Обзор НДС в русской версии
 
@@ -45,3 +45,6 @@ ms.locfileid: "2554553"
 [НДС по предоплатам клиентов](VAT-by-Customer-prepayments.md)  
 [Восстановление НДС](VAT-reinstatement.md)  
 [Схема налогового агента поставщика](Vendor-Tax-Agent-scheme.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

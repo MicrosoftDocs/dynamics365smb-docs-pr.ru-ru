@@ -3,19 +3,19 @@ title: Как заблокировать продажи клиентам
 description: При необходимости вы можете заблокировать включение клиента в документы продажи и другие операции продажи.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2020
-ms.author: sgroespe
-ms.openlocfilehash: 7cc82ab0aaf28b355117571d0d2cc5869141693f
-ms.sourcegitcommit: 4545bb597dd9dc4c563b30af762977ee1d815497
+ms.date: 04/01/2021
+ms.author: edupont
+ms.openlocfilehash: a5ac7b1cd9d58c91584c2777442094bace0673fd
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/29/2020
-ms.locfileid: "3410720"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6436027"
 ---
 # <a name="block-customers"></a>Блокировка клиентов
 Можно заблокировать клиента, например из-за несостоятельности, чтобы этого клиента нельзя было добавить в документы продажи или чтобы никакие транзакции не могли быть учтены для клиента.
@@ -32,7 +32,7 @@ ms.locfileid: "3410720"
 |**Все**|Для данного клиента не разрешены никакие транзакции, включая платежи.|  
 
 ## <a name="to-block-a-customer"></a>Для блокировки клиента  
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Клиенты**, затем выберите соответствующую ссылку.
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Клиенты**, а затем выберите связанную ссылку.
 2. Выберите клиента, затем выберите действие **Изменить**.
 3. в поле **Заблокировано** выберите, что блокировать, как описано в таблице выше.
 
@@ -40,3 +40,6 @@ ms.locfileid: "3410720"
 [Регистрация новых клиентов](sales-how-register-new-customers.md)  
 [Сбор непогашенных остатков задолженности](receivables-collect-outstanding-balances.md)  
 [Управление дебиторской задолженностью](receivables-manage-receivables.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

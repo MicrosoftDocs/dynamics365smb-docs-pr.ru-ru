@@ -5,18 +5,18 @@ services: project-madeira
 documentationcenter: ''
 author: SusanneWindfeldPedersen
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.date: 10/01/2019
+ms.date: 04/01/2021
 ms.author: solsen
-ms.openlocfilehash: ab2bcb78479e91c111868c21bd3019c7971d9ffb
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 96e4ef52bc896cd02f0e6b38a470d16a00284c66
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2310880"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6445429"
 ---
 # <a name="view-test-reports-before-posting"></a>Просмотр тестовых отчетов перед учетом
 Когда все будет готово для учета документа, такого как заказ, счет или кредит-нота, можно выполнить тестирование документа, чтобы убедиться в отсутствии препятствующих учету проблем.
@@ -25,7 +25,7 @@ ms.locfileid: "2310880"
 >   Следующая процедура относится к тестированию перед учетом документа покупки. Эти функции работают аналогичным образом и для документов продажи.
 
 ## <a name="to-print-a-test-report-before-posting-a-purchase-invoice"></a>Печать тестового отчета до учета счета покупки
-1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Счета покупки**, затем выберите связанную ссылку.
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Счета покупки**, а затем выберите связанную ссылку.
 2. Откройте счет покупки, который требуется протестировать.
 3. Выберите действие **Тестовый отчет**.  
 
@@ -33,4 +33,7 @@ ms.locfileid: "2310880"
 
 ## <a name="see-also"></a>См. также
 [Учет документов и журналов](ui-post-documents-journals.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

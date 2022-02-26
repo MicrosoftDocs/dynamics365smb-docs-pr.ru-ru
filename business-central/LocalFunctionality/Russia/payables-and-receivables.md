@@ -1,23 +1,23 @@
 ---
 title: Расчеты с клиентами и поставщиками в России
-description: Российские улучшения включают расчеты с клиентами и поставщиками.
+description: Российские улучшения включают кредиторскую и дебиторскую задолженность в русской версии.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
-ms.date: 10/01/2019
+ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 98abdc9bbb3015bdce77b3d137a3c39e92999727
-ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
+ms.openlocfilehash: 67b235a23bb9fa95f03279940bb12360ca347e17
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "2554589"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5786393"
 ---
-# <a name="payables-and-receivables"></a>Расчеты с клиентами и поставщиками
+# <a name="payables-and-receivables-in-the-russian-version"></a>Версия расчетов с клиентами и поставщиками в России
 
-В России имеются особые функции [!INCLUDE[prodshort](../../includes/prodshort.md)] для отслеживания и управления расчетами с клиентами и поставщиками.
+В России имеются особые функции [!INCLUDE[prod_short](../../includes/prod_short.md)] для отслеживания и управления расчетами с клиентами и поставщиками.
 
 ## <a name="getting-started-with-payables-and-receivables"></a>Начало работы с расчетами с поставщиками и клиентами
 
@@ -38,3 +38,6 @@ ms.locfileid: "2554589"
 ## <a name="see-also"></a>См. также
 
 [Функциональность локальной версии для России](russia-local-functionality.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

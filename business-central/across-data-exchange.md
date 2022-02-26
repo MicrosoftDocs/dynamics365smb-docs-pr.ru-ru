@@ -1,26 +1,26 @@
 ---
-title: Электронные документы в Business Central | Документация Майкрософт
-description: Введение в отправку и получение электронных документов в Business Central.
+title: Электронные документы в Business Central
+description: Это обзор, как использовать структуру обмена данными, чтобы управлять обменом данными в бизнес-документах, таких как банковские файлы и курсы обмена валют.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: ''
-ms.date: 01/30/2020
-ms.author: sgroespe
-ms.openlocfilehash: ac4060caf413245720c01d55e7ebf809d973a647
-ms.sourcegitcommit: 1c286468697d403b9e925186c2c05e724d612b88
+ms.search.keywords: Data exchange framework, data files, data exchange, electronic document, invoice, Business Central, business document, standard-compliant file
+ms.date: 06/10/2021
+ms.author: edupont
+ms.openlocfilehash: 3f67cf78444e263932897948f93c8ece028989d8
+ms.sourcegitcommit: 6ad0a834fc225cc27dfdbee4a83cf06bbbcbc1c9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/31/2020
-ms.locfileid: "2999835"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "7588380"
 ---
 # <a name="exchanging-data-electronically"></a>Электронный обмен данными
 Можно использовать структуру обмена данными, чтобы управлять обменом бизнес-документами, банковскими файлами, курсами обмена валют и другими файлами данных с бизнес-партнерами.
 
-В стандартной версии [!INCLUDE[d365fin](includes/d365fin_md.md)] структура обмена данными используется в таких функциях, как электронные документы, импорт и экспорт банковских файлов и обновление курсов обмена валют. Для получения дополнительной информации см. [О структуре обмена данными](across-about-the-data-exchange-framework.md).
+В стандартной версии [!INCLUDE[prod_short](includes/prod_short.md)] структура обмена данными используется в таких процессах, обмен электронными документами, импорт и экспорт банковских файлов и обновление курсов обмена валют. Для получения дополнительной информации см. [О структуре обмена данными](across-about-the-data-exchange-framework.md).
 
 Как администратор или партнер Майкрософт, вы можете использовать структуру в новых функциях интеграции, указав, какие данные и каким образом будут передаваться. Дополнительные сведения см. в разделе [Настройка определений обмена данными](across-how-to-set-up-data-exchange-definitions.md).
 
@@ -39,3 +39,6 @@ ms.locfileid: "2999835"
 [Обмен данными](across-exchange-data.md)  
 [Входящие документы](across-income-documents.md)  
 [Общие бизнес-функции](ui-across-business-areas.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

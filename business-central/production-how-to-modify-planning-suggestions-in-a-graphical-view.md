@@ -1,25 +1,25 @@
 ---
-title: Практическое руководство. Изменение предложений по планированию в графическом виде | Документация Майкрософт
-description: Типичное действие планирования — изменить или добавить строки журнала планирования для изменения предлагаемых заказов на поставку до того, как они будут зафиксированы выполнением функции Выполнить указание. Альтернатива такому действию в журнале планирования — использовать графическое представление.
+title: Изменение предложений по планированию в графическом виде
+description: Типичное действие планирования — изменить или добавить строки журнала планирования для изменения предлагаемых заказов на поставку до того, как они будут зафиксированы выполнением функции Выполнить указание.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 05/05/2020
-ms.author: sgroespe
-ms.openlocfilehash: 593fd5544f544b793b14fe14e4faf69f13d21ed6
-ms.sourcegitcommit: 57e31a8b92feeaf8c6c63eba147f36b38eee7679
+ms.date: 06/25/2021
+ms.author: edupont
+ms.openlocfilehash: ab69ea915a4d7b1029b5fc833320f89e84fb6d98
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "3339950"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6438581"
 ---
 # <a name="modify-planning-suggestions-in-a-graphical-view"></a>Изменение предложений по планированию в графическом виде
 
-Типичное действие планирования — изменить или добавить строки журнала планирования для изменения предлагаемых заказов на поставку до того, как они будут зафиксированы выполнением функции **Выполнить указание**. Альтернатива такому действию в журнале планирования — использовать графическое представление. Однако в настоящее время в [!INCLUDE [prodshort](includes/prodshort.md)] это не поддерживается.  
+Типичное действие планирования — изменить или добавить строки журнала планирования для изменения предлагаемых заказов на поставку до того, как они будут зафиксированы выполнением функции **Выполнить указание**. Альтернатива такому действию в журнале планирования — использовать графическое представление. Однако в настоящее время в [!INCLUDE[prod_short](includes/prod_short.md)] это не поддерживается.  
 
 <!--On the **Item Availability by Timeline** page, you can modify certain supply orders and suggestions by dragging elements on the x-axis to change quantity or dragging elements on the y-axis to change due date.  
 
@@ -37,7 +37,7 @@ The following procedure shows how to modify supply suggestions by drag and drop.
 
 ## To modify suggested supply orders in the graphical view
 
-1. Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Planning Worksheet**, and then choose the related link.  
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Planning Worksheet**, and then choose the related link.  
 
 2. Choose the line that you want to see item availability for, choose **Item Availability by**, and then choose **Timeline**.
 
@@ -102,4 +102,7 @@ To implement the supply plan changes, you must follow the resulting action messa
 [Покупки](purchasing-manage-purchasing.md)  
 [Сведения о проектировании: планирование поставок](design-details-supply-planning.md)  
 [Рекомендации по настройке. Планирование поставок](setup-best-practices-supply-planning.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

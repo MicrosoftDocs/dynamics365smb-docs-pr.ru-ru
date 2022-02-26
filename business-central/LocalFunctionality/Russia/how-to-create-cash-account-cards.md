@@ -3,17 +3,17 @@ title: Создание карточек счетов кассы в России
 description: Российские улучшения включают счета кассы.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 88e906f7911eb6409c0fdadce93b146bf95a72b8
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: b0103399c7c1c7d8f3d1885472087e0a94333dae
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3180964"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6439139"
 ---
 # <a name="create-cash-account-cards"></a>Создание карточек счетов кассы
 
@@ -21,7 +21,7 @@ ms.locfileid: "3180964"
 
 ## <a name="to-create-a-cash-account-card"></a>Создание карточек счетов кассы
 
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Счета кассы**, затем выберите соответствующую ссылку.
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../../media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Кассы**, а затем выберите связанную ссылку.
 
 2. В окне **Карточка кассы** на экспресс-вкладке **Учет** заполните поля, как описано в следующей таблице.
 
@@ -40,3 +40,6 @@ ms.locfileid: "3180964"
 
 [Управление мелкими доходами/расходами](Petty-Cash-Management.md)  
 [Управление банками и кассами](bank-and-cash-management.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

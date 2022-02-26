@@ -1,21 +1,22 @@
 ---
-title: Перемещение товаров между складами | Документация Майкрософт
+title: Перемещение товаров между складами
 description: Описывается, как перемещать запасы из одного места или склада в другое место или склад с помощью журнала реклассификации или заказов на перемещение.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: move, warehouse
-ms.date: 04/01/2020
-ms.author: SorenGP
-ms.openlocfilehash: c7d383fdaf75857013651944207616bdc7208e6d
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.search.forms: 5746, 5745, 5759, 5753, 5743, 5758, 5752, 5744, 5749, 5740, 5741, 5742, 5757, 5748, 5747, 9285, 5756, 5755
+ms.date: 04/01/2021
+ms.author: edupont
+ms.openlocfilehash: 166ac80202717ff3418b040ad01bccb1eb97ac66
+ms.sourcegitcommit: 189bf08d7ddf6c8b7ef2c09058c6847aa6e590d3
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3181968"
+ms.lasthandoff: 01/31/2022
+ms.locfileid: "8059390"
 ---
 # <a name="transfer-inventory-between-locations"></a>Перемещение запасов между складами
 Вы можете перемещать складские товары между складами, создав заказы на перемещение. В качестве альтернативы можно использовать журнал реклассификации товаров.
@@ -30,8 +31,8 @@ ms.locfileid: "3181968"
 Для перемещения товаров, следует настроить склады и маршруты перемещения. Дополнительные сведения см. в разделе [Настройка складов](inventory-how-setup-locations.md).
 
 ## <a name="to-transfer-items-with-a-transfer-order"></a>Перемещение товаров с помощью заказа на перемещение
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Заказы на перемещение**, затем выберите соответствующую ссылку.
-2. В заголовке страницы **Заказ на перемещение** заполните поля требуемым образом. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Заказы на перемещение**, а затем выберите связанную ссылку.
+2. На странице **Заказ на перемещение** заполните требуемые поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 
     > [!NOTE]  
     >   После заполнения полей **Код транзитного склада**, **Код экспедитора** и **Услуги экспедитора** на странице **Спец. транс. маршрута** при настройке маршрута перемещения соответствующие поля в заказе на перемещение заполняются автоматически.
@@ -51,7 +52,7 @@ ms.locfileid: "3181968"
 5. Выберите действие **Учет**, выберите параметр **Получить** и нажмите кнопку **ОК**.
 
 ## <a name="to-transfer-items-with-the-item-reclassification-journal"></a>Перемещение товаров с помощью журнала реклассификации товаров
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Журналы рекласс. товаров**, затем выберите соответствующую ссылку.
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Журналы реклассификации товаров**, а затем выберите связанную ссылку.
 2. На странице **Журнал реклассификации товаров** заполните требуемые поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 3. В поле **Код склада** введите склад, на котором хранятся товары в данный момент.
 
@@ -63,6 +64,9 @@ ms.locfileid: "3181968"
 ## <a name="see-also"></a>См. также
 [Управление запасами](inventory-manage-inventory.md)  
 [Настройка складов](inventory-how-setup-locations.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 [Изменение набора отображаемых функций](ui-experiences.md)  
 [Общие бизнес-функции](ui-across-business-areas.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

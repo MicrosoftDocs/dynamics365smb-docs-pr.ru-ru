@@ -1,21 +1,21 @@
 ---
-title: Сведения о проектировании — интеграция с запасами | Документация Майкрософт
-description: Область применения управления складом и область применения запасов взаимодействуют друг с другом в физических запасах и в корректировке запасов или склада.
+title: 'Сведения о проектировании: интеграция с запасом'
+description: Warehouse Management и область применения запасов взаимодействуют друг с другом в физических запасах и в корректировке запасов или склада.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2020
-ms.author: sgroespe
-ms.openlocfilehash: bbc9c0e55041f4584ae7609f727179737adaa041
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.date: 06/15/2021
+ms.author: edupont
+ms.openlocfilehash: 209bf5b50f362b11d0ba4fdc6ae0cab47a3622fa
+ms.sourcegitcommit: e562b45fda20ff88230e086caa6587913eddae26
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3185352"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "6319203"
 ---
 # <a name="design-details-integration-with-inventory"></a>Сведения о проектировании: интеграция с запасом
 Область применения управления складом и область применения запасов взаимодействуют друг с другом в физических запасах и в корректировке запасов или склада.  
@@ -48,3 +48,5 @@ ms.locfileid: "3185352"
 ## <a name="see-also"></a>См. также  
  [Сведения о проектировании: управление складом](design-details-warehouse-management.md)   
  [Сведения о проектировании: наличие на складе](design-details-availability-in-the-warehouse.md)
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

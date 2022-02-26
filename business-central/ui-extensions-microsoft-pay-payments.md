@@ -1,29 +1,29 @@
 ---
-title: Стандарт Microsoft Pay | Документация Майкрософт
-description: Предоставляет сведения о расширении Microsoft Pay.
+title: Стандарт Microsoft Pay
+description: Расширение Microsoft Pay добавляет ссылку Microsoft Pay в ваши документы продажи, чтобы клиент мог легко заплатить с помощью Microsoft Pay.
 services: project-madeira
 documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.date: 01/08/2020
-ms.author: sgroespe
-ms.openlocfilehash: 336aa735b703d7924914f4180ce46fd00ea23479
-ms.sourcegitcommit: 70fe73040126960c813804d001b646f81cbf2f38
+ms.date: 04/01/2021
+ms.author: edupont
+ms.openlocfilehash: 574ebae554b21c5184a5e1c2bcd5ae9b0d34f817
+ms.sourcegitcommit: e562b45fda20ff88230e086caa6587913eddae26
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2020
-ms.locfileid: "2943287"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "6322931"
 ---
 # <a name="the-microsoft-pay-extension"></a>Расширение Microsoft Pay
 
 > [!IMPORTANT]
-> Начиная с 8 февраля 2020 года изменения в сервисе Microsoft Pay будут влиять нна расширение Microsoft Pay в Microsoft [!INCLUDE[d365fin](includes/d365fin_long_md.md)]. Из-за изменений после 8 февраля ссылка **Оплатить**, которую расширение Microsoft Pay генерирует для счетов в [!INCLUDE[d365fin](includes/d365fin_md.md)], не будет открывать Microsoft Pay. Клиенты, которые используют расширение, должны изменить свои настройки службы платежей, чтобы вместо этого использовать расширение PayPal.<br /></br>
+> Начиная с 8 февраля 2020 года изменения в сервисе Microsoft Pay будут влиять нна расширение Microsoft Pay в Microsoft [!INCLUDE[prod_short](includes/prod_long.md)]. Из-за изменений после 8 февраля ссылка **Оплатить**, которую расширение Microsoft Pay генерирует для счетов в [!INCLUDE[prod_short](includes/prod_short.md)], не будет открывать Microsoft Pay. Клиенты, которые используют расширение, должны изменить свои настройки службы платежей, чтобы вместо этого использовать расширение PayPal.<br /></br>
 >
-> С 8 января мы будем отображать уведомление в [!INCLUDE[d365fin](includes/d365fin_md.md)]. Уведомление будет содержать ссылку на параметры, которые необходимо изменить, и дополнительную информацию. После 8 февраля расширение Microsoft Pay больше не будет доступно в [!INCLUDE[d365fin](includes/d365fin_md.md)].<br /></br>
+> С 8 января мы будем отображать уведомление в [!INCLUDE[prod_short](includes/prod_short.md)]. Уведомление будет содержать ссылку на параметры, которые необходимо изменить, и дополнительную информацию. После 8 февраля расширение Microsoft Pay больше не будет доступно в [!INCLUDE[prod_short](includes/prod_short.md)].<br /></br>
 >
 > Изменения коснулись следующих версий Business Central:
 > - Microsoft Dynamics 365 Business Central, октябрь 2018
@@ -42,9 +42,12 @@ ms.locfileid: "2943287"
 - Ссылка Microsoft Pay может автоматически внедряться в каждый документ счета или пользователем.
 - Поскольку данная функция построена как расширение, ее можно свободно включать тогда, когда это нужно для ваших бизнес-процессов.
 
-Включение расширения службы платежей в [!INCLUDE[d365fin](includes/d365fin_md.md)] бесплатно, однако вам потребуется связаться со службой платежей для получения учетной записи. Дополнительные сведения см. в разделе [Включение платежей клиентов через службу платежей](sales-how-enable-payment-service-extensions.md).
+Включение расширения службы платежей в [!INCLUDE[prod_short](includes/prod_short.md)] бесплатно, однако вам потребуется связаться со службой платежей для получения учетной записи. Дополнительные сведения см. в разделе [Включение платежей клиентов через службу платежей](sales-how-enable-payment-service-extensions.md).
 
 ## <a name="see-also"></a>См. также
-[Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью расширений](ui-extensions.md)  
+[Настройка [!INCLUDE[prod_short](includes/prod_short.md)] с помощью расширений](ui-extensions.md)  
 [Настройка продаж](sales-setup-sales.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

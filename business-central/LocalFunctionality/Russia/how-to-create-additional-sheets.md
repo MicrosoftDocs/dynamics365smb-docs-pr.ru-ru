@@ -3,21 +3,21 @@ title: Создание дополнительных листов в Росси�
 description: Российские усовершенствования включают дополнительные листы для книг НДС покупок и продаж.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: d73c13b9b27f11184e80dac6bdc83aaed8e6cfd7
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: f53f2e975f37b6b88fa067382f5db899f5ebd28e
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3180966"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5788226"
 ---
 # <a name="create-additional-sheets"></a>Создание дополнительных листов
 
-В [!INCLUDE[prodshort](../../includes/prodshort.md)] можно создавать дополнительные листы на основе книг НДС покупок и книг НДС продаж.
+В [!INCLUDE[prod_short](../../includes/prod_short.md)] можно создавать дополнительные листы на основе книг НДС покупок и книг НДС продаж.
 
 ## <a name="to-create-entries-for-an-additional-sheet-for-a-vat-purchase-or-sales-ledger"></a>Создание операций для дополнительного листа книги НДС покупок или продаж
 
@@ -96,3 +96,6 @@ ms.locfileid: "3180966"
 ## <a name="see-also"></a>См. также
 
 [Книги НДС](VAT-Ledgers.md)
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

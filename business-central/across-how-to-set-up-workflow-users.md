@@ -1,21 +1,21 @@
 ---
-title: Настройка пользователей рабочих процессов | Документация Майкрософт
-description: Перед созданием рабочих процессов необходимо произвести настройку пользователей, которые будут участниками рабочего процесса. Это необходимо, например, чтобы указать, кто должен получать уведомления о необходимости действий на определенном шаге рабочего процесса.
+title: Как настраивать пользователей рабочих процессов
+description: Перед созданием рабочих процессов необходимо произвести настройку пользователей, которые будут участниками рабочих процессов на странице "Группа пользователей рабочего процесса".
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: reject, delegate, request
-ms.date: 06/08/2020
-ms.author: sgroespe
-ms.openlocfilehash: ba6508c9679923836092ba4df9d3453a39f7fd9b
-ms.sourcegitcommit: 0b5f8f68b1c9526288bfcce1a3bdc988d2910040
+ms.date: 06/11/2021
+ms.author: edupont
+ms.openlocfilehash: 2a6ee1b7fd7a65dba36bae95c8981657b6307bfb
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "3454275"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6439924"
 ---
 # <a name="set-up-workflow-users"></a>Настройка пользователей рабочих процессов
 
@@ -32,7 +32,7 @@ ms.locfileid: "3454275"
 
 ## <a name="to-set-up-a-workflow-user"></a>Настройка пользователя рабочего процесса
 
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Группы пользователей рабочего процесса**, затем выберите соответствующую ссылку.  
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Группы пользователей рабочего процесса**, а затем выберите связанную ссылку.  
 2. Выберите действие **Создать**. Откроется страница **Группа пользователей рабочего процесса**.  
 3. В поле **Код** введите не более 20 знаков для обозначения рабочего процесса.  
 4. В поле **Описание** введите описание рабочего процесса.  
@@ -52,3 +52,6 @@ ms.locfileid: "3454275"
 [Использование рабочих процессов](across-use-workflows.md)  
 [Пошаговое руководство. Настройка и использование рабочего процесса утверждения покупки](walkthrough-setting-up-and-using-a-purchase-approval-workflow.md)  
 [Рабочий процесс](across-workflow.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

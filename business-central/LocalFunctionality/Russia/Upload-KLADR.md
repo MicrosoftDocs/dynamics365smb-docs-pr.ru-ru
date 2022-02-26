@@ -3,21 +3,21 @@ title: Загрузка КЛАДР в России
 description: Российские улучшения включают поддержку формата КЛАДР.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 076f5b15ef3c126f612639e9073b653ad5061ddd
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: ed4457929dd43703c8d997c56b861f640d28912b
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3180988"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5773460"
 ---
 # <a name="upload-kladr"></a>Загрузка КЛАДР
 
-[!INCLUDE[prodshort](../../includes/prodshort.md)] поддерживает работу с классификатором адресов РФ **КЛАДР** — ведомственным классификатором, созданным для распределения территорий между налоговыми инспекциями и автоматизированной рассылки корреспонденции.
+[!INCLUDE[prod_short](../../includes/prod_short.md)] поддерживает работу с классификатором адресов РФ **КЛАДР** — ведомственным классификатором, созданным для распределения территорий между налоговыми инспекциями и автоматизированной рассылки корреспонденции.
 
 Загрузка КЛАДР может осуществляться в отдельных регионах по мере необходимости.  
 
@@ -34,3 +34,6 @@ ms.locfileid: "3180988"
 ## <a name="see-also"></a>См. также
 
 [Налоговый учет](Tax-Accounting.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

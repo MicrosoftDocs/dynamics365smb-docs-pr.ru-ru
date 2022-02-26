@@ -3,17 +3,17 @@ title: Настройка юрисдикций нормы в России
 description: Российские усовершенствования включают юрисдикции нормы.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
-ms.date: 10/01/2019
+ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 5d95ccb7006767a476cc2dbb32e9f1e9aec5ae1a
-ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
+ms.openlocfilehash: 4869ea2f12e964c053a912180709d92d8740e816
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "2554497"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6437193"
 ---
 # <a name="set-up-norm-jurisdictions"></a>Настройка юрисдикций нормы
 
@@ -21,7 +21,7 @@ ms.locfileid: "2554497"
 
 ## <a name="to-set-up-norm-jurisdictions"></a>Настройка юрисдикций нормы
 
-1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Юрисдикции нормы**, а затем выберите соответствующую ссылку.
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../../media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Юрисдикции нормы**, а затем выберите связанную ссылку.
 
 2. Введите **Код** и **Описание** юрисдикции нормы, которую необходимо настроить.
 
@@ -57,3 +57,6 @@ ms.locfileid: "2554497"
 [Налоговый учет](Tax-Accounting.md)  
 [Налоговые регистры](Tax-Registers.md)  
 [Расчет налоговых регистров](How-to-Create-Tax-Registers.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

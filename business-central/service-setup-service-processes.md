@@ -3,19 +3,19 @@ title: Настройка процессов управления сервисо
 description: Узнайте, как настраивать процессы, помогающие обеспечить удовлетворенность клиентов вашей службой обслуживания клиентов.
 author: bholtorf
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: service, number sequences, setup, warnings, fee, contracts, warranties
-ms.date: 04/01/2020
+ms.date: 04/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: 80f56b9572e8ff20c29174e738aff135243530b7
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: 91a6b16b4a7670fa78ddda0317ce20f259d35892
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3192303"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6438236"
 ---
 # <a name="configure-service-processes"></a>Настройка сервисных процессов
 Ниже приведены некоторые примеры настроек, которые могут быть применены к процессами сервисного управления:  
@@ -27,7 +27,7 @@ ms.locfileid: "3192303"
 * Номерные серии, используемые для документов и товаров, связанных с сервисом.  
 
 ## <a name="to-enter-general-and-mandatory-settings"></a>Ввод общих и обязательных настроек
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка управления сервисом**, затем выберите соответствующую ссылку.
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Настройка управления сервисом**, а затем выберите связанную ссылку.
 2. Заполните соответствующим образом поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
 
 ## <a name="see-also"></a>См. также  
@@ -37,3 +37,6 @@ ms.locfileid: "3192303"
 [Настройка дополнительных затрат для сервисов](service-how-setup-service-costs-pricing.md)  
 [Настройка устранения проблем](service-how-setup-troubleshooting.md)  
 [Управление сервисом](service-service.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

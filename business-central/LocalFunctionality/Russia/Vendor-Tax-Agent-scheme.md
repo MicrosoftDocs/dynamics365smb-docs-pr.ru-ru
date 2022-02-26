@@ -3,17 +3,17 @@ title: Схема налогового агента поставщика в Ро
 description: Российские усовершенствования включают схемы налоговых агентов поставщиков.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 787dc8a7a26472779d37858f152f288162404466
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: f92e284150926fcd24530777c13722e7a72228aa
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3180982"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5773458"
 ---
 # <a name="vendor-tax-agent-scheme"></a>Схема налогового агента поставщика
 
@@ -37,7 +37,7 @@ ms.locfileid: "3180982"
 
 1. Создание и выпуск счета
 
-Номер договора (с настройками для продавца с уплатой НДС из внутренних фондов) должен быть указан.
+    Номер договора (с настройками для продавца с уплатой НДС из внутренних фондов) должен быть указан.
 
 2. Создание строки в журнале платежей:
 
@@ -77,38 +77,38 @@ ms.locfileid: "3180982"
     - НДС товарная группа налогового агента
     - Тип источника оплаты НДС - Фонды поставщика
 
-## <a name="prepayment-and-payment-vat"></a>Предоплата и оплата НДС
+## <a name="post-prepayment-and-payment-vat"></a>Учет предоплаты и оплаты НДС
 
 1. Создайте и выпустите счет.
 
 2. Для оплаты в валюте для банка и в рублях для поставщика необходимо создать две строки в **журнале платежей**.
 
-    **Для поставщика:**
+    - **Для поставщика:**
 
-        - Posting Date,
-        - Document Type - Payment
-        - Prepayment - yes
-        - Account Type - Vendor
-        - Account No.
-        - Agreement No.
-        - Bal. Account Type - G/L Account
-        - Bal. Account - “ ”
-        - Currency Code - “ “
-        - Prepayment Document No. is required
-        - Amount - in rubles
+        - Дата учета,
+        - Тип документа - Платеж
+        - Предоплата - да
+        - Тип счета — поставщик
+        - Номер счета
+        - Номер договора
+        - Тип балансового счета — счет ГК
+        - Баланс. счет — " "
+        - Код валюты — " "
+        - Номер документа предоплаты требуется
+        - Сумма — в рублях
 
-    **Для банка:**
+    - **Для банка:**
 
-        - Posting Date,
-        - Document Type - Payment
-        - Prepayment - yes
-        - Account Type - Bank Account
-        - Account No.
-        - Agreement No.
-        - Bal. Account Type -  G/L Account
-        - Bal. Account - “ ”
-        - Currency Code
-        - Amount - in USD/EUR
+        - Дата учета,
+        - Тип документа - Платеж
+        - Предоплата - да
+        - Тип счета — банковский счет
+        - Номер счета
+        - Номер договора
+        - Тип балансового счета — счет ГК
+        - Баланс. счет — " "
+        - код валюты;
+        - Сумма — в долларах США/Евро
 
 3. Выполните учет строк журнала.
 4. Выполните отгрузку.
@@ -127,33 +127,36 @@ ms.locfileid: "3180982"
 
     Для оплаты в валюте для банка и в рублях для поставщика необходимо создать две строки в журнале платежей.
 
-    **Для поставщика:**
+    - **Для поставщика:**
 
-        - Posting Date
-        - Document Type - Payment
-        - Account Type - Vendor
-        - Account No.
-        - External Document No.
-        - Internal Document No.
-        - Agreement No.
-        - Bal. Account Type - G/L Account
-        - Bal. Account - “ ”
-        - Currency Code - “ “
-        - Prepayment Document No. is required
-        - Amount - in rubles
+        - Дата учета
+        - Тип документа - Платеж
+        - Тип счета — поставщик
+        - Номер счета
+        - Номер внешнего документа
+        - Номер внутреннего документа
+        - Номер договора
+        - Тип балансового счета — счет ГК
+        - Баланс. счет — " "
+        - Код валюты — " "
+        - Номер документа предоплаты требуется
+        - Сумма — в рублях
 
-    **Для банка:**
+    - **Для банка:**
 
-        - Posting Date,
-        - Document Type - Payment
-        - Account Type - Bank Account
-        - Account No.
-        - Agreement No.
-        - Bal. Account Type -  G/L Account
-        - Bal. Account - “ ”
-        - Currency Code
-        - Amount - in USD/EUR
+        - Дата учета,
+        - Тип документа - Платеж
+        - Тип счета — банковский счет
+        - Номер счета
+        - Номер договора
+        - Тип балансового счета — счет ГК
+        - Баланс. счет — " "
+        - код валюты;
+        - Сумма — в долларах США/Евро
 
 ## <a name="see-also"></a>См. также
 
 [Функциональность локальной версии для России](russia-local-functionality.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

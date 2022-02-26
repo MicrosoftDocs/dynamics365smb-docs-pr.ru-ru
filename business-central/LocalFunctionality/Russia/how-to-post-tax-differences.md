@@ -3,17 +3,17 @@ title: Учет налоговых разниц в России
 description: Российские улучшения включают учет налоговых разниц.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: aa3c342910820d120e7ab3fd1ca944ed1342bb80
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: 27c362a436aad848d15760a7c3a84f50890be4e4
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3180955"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6443516"
 ---
 # <a name="post-tax-differences"></a>Учет налоговых разниц
 
@@ -23,7 +23,7 @@ ms.locfileid: "3180955"
 
 ## <a name="to-post-tax-differences"></a>Учет налоговых разниц
 
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Журналы налоговых разниц**, затем выберите соответствующую ссылку.
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../../media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Журналы налоговых разниц**, а затем выберите связанную ссылку.
 
 2. Введите значения в поля, как описано в следующей таблице.
 
@@ -69,3 +69,6 @@ ms.locfileid: "3180955"
 [Налоговый учет](Tax-Accounting.md)  
 [Налоговые регистры](Tax-Registers.md)  
 [Расчет налоговых регистров](How-to-Create-Tax-Registers.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

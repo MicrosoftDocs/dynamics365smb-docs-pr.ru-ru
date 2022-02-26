@@ -1,19 +1,21 @@
 ---
 title: Просмотр информации о таблицах
+description: Узнайте, как просмотреть информацию о любых таблицах базы данных прямо из клиентского интерфейса в Business Central.
 author: jswymer
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.date: 04/20/2020
+ms.search.form: 8700
+ms.date: 06/14/2021
 ms.author: jswymer
-ms.openlocfilehash: de93063a60e6b64405b1491a67489c8bfa4657ad
-ms.sourcegitcommit: 99915b493a7e49d12c530f2f9fda1fcedb518b6e
+ms.openlocfilehash: 70aff9cf0aa2af7096c8c4c047e249585e34c777
+ms.sourcegitcommit: 8464b37c4f1e5819aed81d9cfdc382fc3d0762fc
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "3275322"
+ms.lasthandoff: 01/19/2022
+ms.locfileid: "8010968"
 ---
 # <a name="viewing-table-information"></a>Просмотр информации о таблицах
 
@@ -23,7 +25,7 @@ ms.locfileid: "3275322"
 
 ## <a name="viewing-table-information"></a>Просмотр информации о таблицах
 
-Чтобы открыть эту страницу, выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Сведения о таблице**, а затем выберите соответствующую ссылку.
+Чтобы открыть эту страницу, выберите ![Поиск страницы или отчета.](media/ui-search/search_small.png "Значок поиска страницы или отчета") значок, введите **Информация о таблице**, а затем выберите связанную ссылку.
 
 В следующей таблице показано, какая именно информация предоставляется по каждой таблице:
 
@@ -39,3 +41,6 @@ ms.locfileid: "3275322"
 
 [Инспекция страниц](across-inspect-page.md)  
 [Статьи о производительности для разработчиков](/dynamics365/business-central/dev-itpro/performance/performance-developer)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

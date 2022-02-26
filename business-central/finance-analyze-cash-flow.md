@@ -1,26 +1,25 @@
 ---
-title: Анализ движения денежных средств | Документация Майкрософт
+title: Анализ движения денежных средств
 description: Описывается, как использовать диаграммы цикла кассы, дохода и расхода, движения денежных средств и прогноза движения денежных средств для анализа и будущего переноса кассы в организацию и из нее.
-services: project-madeira
-documentationcenter: ''
 author: bholtorf
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: money flow, expense and income, liquidity, cash receipts minus cash payments, Cartera
-ms.date: 04/01/2020
+ms.search.form: 762, 840, 841, 847, 848, 849, 850, 857, 858, 859, 860, 862, 863, 865, 866, 867, 868, 869, 1818
+ms.date: 12/20/2021
 ms.author: bholtorf
-ms.openlocfilehash: 5a13d461bd4764173e7d674ef35f5fa32f11318b
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: f7edf7f1b878f6647b123c956531313317f3bb15
+ms.sourcegitcommit: 2ab6709741be16ca8029e2afadf19d28cf00fbc7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3184008"
+ms.lasthandoff: 01/14/2022
+ms.locfileid: "7973574"
 ---
 # <a name="analyzing-cash-flow-in-your-company"></a>Анализ движения денежных средств в организации
-Как говорят, деньги решают все. Диаграммы в ролевом центре бухгалтера предоставляют сведения, которые помогут принимать обоснованные решения относительно того, что сделать с кассой.  
+Диаграммы в ролевом центре бухгалтера предоставляют аналитики, которые помогут принимать обоснованные решения относительно того, что сделать с кассой.  
 
 | Чтобы на эти вопросы | Используйте эту диаграмму |
 | --- | --- |
@@ -45,6 +44,7 @@ ms.locfileid: "3184008"
 * Пропускаются дублирующие заказы на продажу и заказы на покупку.  
 
 ## <a name="to-view-a-cash-flow-worksheet"></a>Просмотр журнала движения денежных средств
+
 1. Выполните поиск по **Прогнозы движения денежных средств**, а затем выберите соответствующую ссылку.  
 2. Выберите прогноз движения денежных средств, а затем щелкните действие **Журнал движения денежных средств**.  
 3. На странице **Журнал движения денежных средств** выберите действие **Предложить строки журнала**.  
@@ -52,6 +52,11 @@ ms.locfileid: "3184008"
 ## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/forecast-cash-flow-dynamics-365-business-central/index)
 
 ## <a name="see-also"></a>См. также
+
 [Настройка финансов](finance-setup-finance.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 [Настройка анализа движения денежных средств](finance-setup-cash-flow-analyses.md)  
+[Прогноз движения денежных средств в Dynamics 365 Business Central (Microsoft Learn)](/learn/modules/forecast-cash-flow-dynamics-365-business-central/index)  
+[Настройка прогнозов движения денежных средств с помощью ИИ Azure в Dynamics 365 Business Central (Microsoft Learn)](/learn/modules/setup-cash-flow-forecasts/)  
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

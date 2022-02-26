@@ -3,19 +3,19 @@ title: Сведения о проектировании — структура �
 description: Чтобы понять, как переконструировано хранение и учет операций измерения, важно понять структуру таблицы.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2020
-ms.author: sgroespe
-ms.openlocfilehash: 04e9fda4d784f8e1fa049455ddcab989691e821c
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.date: 06/08/2021
+ms.author: edupont
+ms.openlocfilehash: 6d418633eb884f0b8cfca2f46fc69103a8fabdb2
+ms.sourcegitcommit: 0953171d39e1232a7c126142d68cac858234a20e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3184630"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "6215732"
 ---
 # <a name="design-details-table-structure"></a>Сведения о проектировании: структура таблицы
 Чтобы понять, как записи измерения хранятся и учитываются, важно понять структуру таблицы.  
@@ -181,8 +181,7 @@ ms.locfileid: "3184630"
 |5637|**Буфер ГК учета ОС**|  
 |7136|**Буфер товарного бюджета**|  
 
-## <a name="see-also"></a>См. также  
- [Сведения о проектировании: операции набора измерений](design-details-dimension-set-entries.md)   
- [Обзор записей набора измерений](design-details-dimension-set-entries-overview.md)   
- [Сведения о проектировании: поиск комбинаций измерений](design-details-searching-for-dimension-combinations.md)   
- 
+## <a name="see-also"></a>См. также
+
+[Обзор записей набора измерений](design-details-dimension-set-entries-overview.md)  
+[Сведения о проектировании: поиск комбинаций измерений](design-details-searching-for-dimension-combinations.md)   

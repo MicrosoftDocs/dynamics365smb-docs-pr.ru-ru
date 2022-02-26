@@ -1,22 +1,22 @@
 ---
-title: Отображение аналитики с возможностью действий в ролевых центрах | Документация Майкрософт
-description: Расширение Essential Business Insights обеспечивает ротацию серий бизнес-аналитик в ролевых центрах.
+title: Отображение аналитики с возможностью действий в ролевых центрах
+description: Узнайте, как расширение Essential Business Insights обеспечивает ротацию серий бизнес-аналитик в ролевых центрах.
 documentationcenter: ''
 author: bholtorf
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: BI, add-in, insight, headline, data
-ms.date: 10/01/2019
+ms.date: 06/23/2021
 ms.author: bholtorf
-ms.openlocfilehash: 08a955f9fb2698b95e8cc92648be0e7c0bfe6e6c
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 458e7826979b75c370cb0a90d90c2d64c9ab599e
+ms.sourcegitcommit: e562b45fda20ff88230e086caa6587913eddae26
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2311264"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "6322673"
 ---
 # <a name="the-essential-business-insights-extension"></a>Расширение Essential Business Insights
 Расширение Essential Business Insights находит интересные бизнес-сведения в данных вашей организации и отображает их в виде газетных заголовков в ролевых центрах. В зависимости от того, что это расширение находит в данных, аналитика поступает за прошлую неделю, месяц или три месяца от текущей даты. Аналитика обновляется каждые 10 минут.  
@@ -37,4 +37,7 @@ ms.locfileid: "2311264"
 |Администратор| Отображает приветствие и ссылку на информацию о продукте.|
 
 ## <a name="see-also"></a>См. также
-[Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью расширений](ui-extensions.md)
+[Настройка [!INCLUDE[prod_short](includes/prod_short.md)] с помощью расширений](ui-extensions.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

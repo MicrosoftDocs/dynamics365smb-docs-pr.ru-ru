@@ -3,17 +3,17 @@ title: Восстановление НДС в России
 description: Российские улучшения включают восстановление НДС.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 313c2a56342e51687e7568fbce7da829d1d2d457
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: cc2d3e8bb64c393edfe7a47c146b63fa3ebb0e1d
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3180984"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5782193"
 ---
 # <a name="vat-reinstatement"></a>Восстановление НДС
 
@@ -56,3 +56,6 @@ ms.locfileid: "3180984"
 ## <a name="see-also"></a>См. также
 
 [Функциональность локальной версии для России](russia-local-functionality.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

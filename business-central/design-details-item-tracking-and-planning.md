@@ -3,19 +3,19 @@ title: Сведения о проектировании — трассировк
 description: Поскольку они хранятся в системе резервирования, номера трассировки товара полностью согласовываются с записями трассировки заказов.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2020
-ms.author: sgroespe
-ms.openlocfilehash: f43523794af06ed5709ec2738cda8bad68fd1b7d
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.date: 06/08/2021
+ms.author: edupont
+ms.openlocfilehash: a01ddb4ac423df3f4ada16740550edf46949886a
+ms.sourcegitcommit: 0953171d39e1232a7c126142d68cac858234a20e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3185136"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "6215907"
 ---
 # <a name="design-details-item-tracking-and-planning"></a>Сведения о проектировании: трассировка и планирование товара
 Поскольку они хранятся в системе резервирования, номера трассировки товара полностью согласовываются с записями трассировки заказов. Это означает, что товарам с записями трассировки заказов можно присвоить номера трассировки заказов. И наоборот, товары с номерами трассировки товара могут стать записями трассировки заказов. Дополнительные сведения см. в разделе [Сведения о проектировании: проектирование трассировки товара](design-details-item-tracking-design.md).
@@ -56,3 +56,6 @@ ms.locfileid: "3185136"
 [Сведения о проектировании: балансировка спроса и поставки](design-details-balancing-demand-and-supply.md)  
 [Сведения о проектировании: резервирование, трассировка заказов и отправка сообщений о действиях](design-details-reservation-order-tracking-and-action-messaging.md)   
 [Сведения о проектировании: планирование поставок](design-details-supply-planning.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

@@ -3,23 +3,23 @@ title: Предоплата для поставщиков и клиентов в
 description: Российские усовершенствования включают управление предоплатой поставщиков и клиентов.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: d2d43cc9a68b2ad63f94d51f28a3e5d5efd3b735
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: bd5dcbec1834d6fdc528e79c4fca2ef91183f195
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3180990"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5782195"
 ---
 # <a name="posting-vendor-and-customer-prepayments"></a>Учет предоплаты поставщиков и клиентов
 
-В российской версии предоплаты работают не так, как в стандартной версии [!INCLUDE[prodshort](../../includes/prodshort.md)], Когда мы получаем предоплату, по правилам бухгалтерского учета необходимо учесть предоплату на отдельном счете. Таким образом, группы учета поставщиков и клиентов имеют поле **Счет предоплаты**.
+В российской версии предоплаты работают не так, как в стандартной версии [!INCLUDE[prod_short](../../includes/prod_short.md)], Когда мы получаем предоплату, по правилам бухгалтерского учета необходимо учесть предоплату на отдельном счете. Таким образом, группы учета поставщиков и клиентов имеют поле **Счет предоплаты**.
 
-[!INCLUDE[prodshort](../../includes/prodshort.md)] использует эти счета для операций предоплаты — платежей с отметкой "Предоплата".
+[!INCLUDE[prod_short](../../includes/prod_short.md)] использует эти счета для операций предоплаты — платежей с отметкой "Предоплата".
 
 ## <a name="to-post-a-prepayment"></a>Для учета предоплаты
 
@@ -37,3 +37,6 @@ ms.locfileid: "3180990"
 ## <a name="see-also"></a>См. также
 
 [Функциональность локальной версии для России](russia-local-functionality.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

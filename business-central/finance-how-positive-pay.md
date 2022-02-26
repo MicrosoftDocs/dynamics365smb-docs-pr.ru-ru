@@ -1,37 +1,36 @@
 ---
-title: Экспорт файлов Positive Pay | Документация Майкрософт
+title: Экспорт файлов Positive Pay
 description: Вы можете гарантировать, чтобы банк выполнял клиринг только проверенных платежных документов и сумм путем экспорта файла Positive Pay, содержащего сведения о поставщике и платеже.
-services: project-madeira
-documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: check, clearing
-ms.date: 04/01/2020
-ms.author: sgroespe
-ms.openlocfilehash: d1a7922895e357e51ba66dd8853961300a8fcc6c
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.search.form: 1231, 1232, 1233, 1234
+ms.date: 04/01/2021
+ms.author: edupont
+ms.openlocfilehash: ce185da68d8f7bb1ab82138e83015035a19cb056
+ms.sourcegitcommit: 2ab6709741be16ca8029e2afadf19d28cf00fbc7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3183634"
+ms.lasthandoff: 01/14/2022
+ms.locfileid: "7973496"
 ---
 # <a name="export-a-positive-pay-file"></a>Экспорт файла Positive Pay
 Чтобы гарантировать, чтобы банк выполнял клиринг только по проверенным платежным документам и суммам, можно экспортировать файл Positive Pay, содержащий информацию о поставщике, номер платежного документа, сумму платежа, который можно затем переслать в банк для справки при обработке платежей.
 
-Программа [!INCLUDE[d365fin](includes/d365fin_md.md)] предварительно настроена для поддержки файлов Positive Pay оплаты для банков Bank of America и City Bank.
+Программа [!INCLUDE[prod_short](includes/prod_short.md)] предварительно настроена для поддержки файлов Positive Pay оплаты для банков Bank of America и City Bank.
 
 ## <a name="to-set-up-a-bank-account-for-positive-pay"></a>Настройка банковского счета для Positive Pay
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Банковские счета**, затем выберите соответствующую ссылку.
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Банковские счета**, а затем выберите связанную ссылку.
 2. Откройте карточку банка, для которого требуется использовать Positive Pay.
 3. В поле **Код экспорта Positive Pay** введите POSPAYBANK.
 4. Закройте страницу.
 
 ## <a name="to-export-a-positive-pay-file"></a>Экспорт файла Positive Pay
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Банковские счета**, затем выберите соответствующую ссылку.
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Банковские счета**, а затем выберите связанную ссылку.
 2. Выберите банковский счет, для которого необходимо экспортировать файл Positive Pay.
 3. Выберите действие **Экспорт Positive Pay**.
 
@@ -44,7 +43,7 @@ ms.locfileid: "3183634"
 
 Просмотр экспортированных записей Positive Pay
 
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Банковские счета**, затем выберите соответствующую ссылку.
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Банковские счета**, а затем выберите связанную ссылку.
 2. Выберите банковский счет, для которого необходимо просмотреть записи экспорта Positive Pay.
 3. Выберите действие **Записи Positive Pay**.
 
@@ -54,7 +53,7 @@ ms.locfileid: "3183634"
 
 Повторный экспорт файлов Positive Pay
 
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Банковские счета**, затем выберите соответствующую ссылку.
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Банковские счета**, а затем выберите связанную ссылку.
 2. Выберите банковский счет, для которого необходимо повторно экспортировать файлы Positive Pay.
 3. Выберите действие **Записи Positive Pay**.
 4. Выберите строку для файла Positive Pay, который необходимо повторно экспортировать.
@@ -64,4 +63,7 @@ ms.locfileid: "3183634"
 [Финансы](finance.md)  
 [Настройка финансов](finance-setup-finance.md)  
 [Работа с финансовыми журналами](ui-work-general-journals.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

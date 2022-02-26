@@ -1,28 +1,27 @@
 ---
-title: Настройка складских процессов | Документы Майкрософт
-description: Стратегия распределения организации отражена в настройке ее складских процессов. Сюда входит определение того, как различные товары обрабатываются на различных складах, например уровень управления ячейками, а также объем рабочего процесса, необходимого для складских действий.
-services: project-madeira
-documentationcenter: ''
+title: Настройка складских процессов
+description: Стратегия распределения организации отражена в настройке ее складских процессов, например, местоположений складов.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: ''
-ms.date: 04/01/2019
-ms.author: sgroespe
-ms.openlocfilehash: df77998dc9e5ee06531f3be158a7d9ca2604fc05
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.search.form: 5775, 7300, 7301, 7302, 7303, 7304, 7305, 7306, 7307, 7308, 7325, 7344, 7346, 7347, 7353, 7366
+ms.date: 06/25/2021
+ms.author: edupont
+ms.openlocfilehash: 7864b7dcb09d0528f6f0674ae7af3740ab7e5951
+ms.sourcegitcommit: 2ab6709741be16ca8029e2afadf19d28cf00fbc7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1248701"
+ms.lasthandoff: 01/14/2022
+ms.locfileid: "7973236"
 ---
 # <a name="setting-up-warehouse-management"></a>Настройка управления складом
+
 Стратегия распределения организации отражена в настройке ее складских процессов. Сюда входит определение того, как различные товары обрабатываются на различных складах, например уровень управления ячейками, а также объем рабочего процесса, необходимого для складских действий.  
 
- В следующей таблице приводится последовательность задач со ссылками на разделы, в которых они описываются.   
+В следующей таблице приводится последовательность задач со ссылками на разделы, в которых они описываются.  
 
 |**Задача**|**Ссылка**|  
 |------------|-------------|  
@@ -42,10 +41,15 @@ ms.locfileid: "1248701"
 |Настроить склад на автоматическое предложение товаров при подборе в порядке истечения срока их хранения, при этом товары с ближайшим сроком предлагаются первыми.|[Включение подбора по методу FEFO](warehouse-picking-by-fefo.md)|
 |Получить подсказки по реорганизации складов, ячеек или зон для улучшения эффективности складских действий.|[Изменение структуры складов](warehouse-how-to-restructure-warehouses.md)|
 |Интегрировать устройства чтения штрих-кода в решение управления складом. Только для локальных развертываний.|[Использование автоматизированных систем сбора данных (ADCS)](warehouse-use-automated-data-capture-systems-adcs.md)|
+|Укажите отчеты по умолчанию, которые будут использоваться для различных типов документов.|[Выбор отчета в Business Central](across-report-selections.md)|
 
-## <a name="see-also"></a>См. также  
+## <a name="see-also"></a>См. также
+
 [Управление складом](warehouse-manage-warehouse.md)  
-[Наличие](inventory-manage-inventory.md)  
-[Управление сборкой](assembly-assemble-items.md)    
-[Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Запасы](inventory-manage-inventory.md)  
+[Управление сборкой](assembly-assemble-items.md)
+[Сведения о проектировании: Warehouse Management](design-details-warehouse-management.md)  
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

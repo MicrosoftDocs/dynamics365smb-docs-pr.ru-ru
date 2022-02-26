@@ -1,30 +1,30 @@
 ---
-title: Методы расчета НЗП для расчета и записи хода выполнения работ | Документация Майкрософт
+title: Методы расчета НЗП для расчета и записи хода выполнения работ
 description: Описываются различные методы НЗП, которые можно использовать для учета, отслеживания и расчета финансовой информации для текущих незавершенных работ.
-services: project-madeira
-documentationcenter: ''
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: work in process, work in progress, calculate project WIP
-ms.date: 04/01/2020
-ms.author: sgroespe
-ms.openlocfilehash: 24dc65182bba549f624f8a66e7eecb1341f1aee1
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.search.form: 1010
+ms.date: 04/01/2021
+ms.author: edupont
+ms.openlocfilehash: d7fbe8faa3fc4d75f068ad585faddeb1b5186e70
+ms.sourcegitcommit: 2ab6709741be16ca8029e2afadf19d28cf00fbc7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3192799"
+ms.lasthandoff: 01/14/2022
+ms.locfileid: "7970889"
 ---
-# <a name="understanding-wip-methods"></a>Общее представление о методах учета НЗП
+# <a name="understanding-wip-methods-in-project-management"></a>Понимание методов НЗП в управлении проектами
+
 По мере выполнения работы, материалы, ресурсы и т. д. потребляются и подлежат учету. Незавершенное производство (НЗП) — это функция, позволяющая в процессе выполнения работы оценивать ее стоимость с финансовый точки зрения в Главной книге, пока работы еще не завершены. В большинстве случаев затраты можно учесть до выставления счета по работе. Если учитывать только расходы, финансовый отчет будет неточным.
 
 Для трассировки стоимости в Главной книге, можно рассчитать НЗП и учесть стоимость в Главной книге. Для получения дополнительной информации см. раздел [Отслеживание хода выполнения работ и производительности](projects-how-monitor-progress-performance.md).
 
-[!INCLUDE[d365fin](includes/d365fin_md.md)] поддерживает следующие методы расчета и регистрации стоимости незавершенного производства.
+[!INCLUDE[prod_short](includes/prod_short.md)] поддерживает следующие методы расчета и регистрации стоимости незавершенного производства.
 
 | Метод НЗП | Формула расчета | Описание расчета |
 | --- | --- | --- |
@@ -35,8 +35,12 @@ ms.locfileid: "3192799"
 | Выполненный контракт |Сумма НЗП = Сумма себестоимости НЗП = Потребл. (итоговая себест.)<br /><br /> Сумма продаж по НЗП = К оплате (цена по выст. счетам) |При использовании метода "Выполненный контракт" доходы и затраты не признаются до завершения работы. Данный метод следует применять, если оценки затрат и доходов по данной работе слишком неопределенные.<br /><br /> До завершения работы все потребление учитывается на счете затрат НЗП (активы), а все продажи по выставленным счетам учитываются на счете продаж НЗП, по которым выставлены счета (пассивы). |
 
 ## <a name="see-also"></a>См. также
+
 [Управление проектами](projects-manage-projects.md)  
 [Финансы](finance.md)  
-[Покупки](purchasing-manage-purchasing.md)         
-[Продажи](sales-manage-sales.md)      
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Покупки](purchasing-manage-purchasing.md)  
+[Продажи](sales-manage-sales.md)  
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

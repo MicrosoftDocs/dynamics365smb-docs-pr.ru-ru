@@ -3,17 +3,17 @@ title: Персонал и зарплата в России
 description: Российские усовершенствования включают в модуль персонала и зарплаты.
 author: DianaMalina
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 02ccec23f9efb9ffd3fe3186bedc696dbc41c49d
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: 140ab8b37d4986e45d07b50fea25067befde5e9f
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3180994"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5781701"
 ---
 # <a name="human-resources"></a>Персонал и зарплата
 
@@ -30,3 +30,6 @@ ms.locfileid: "3180994"
 [Формирование и изменение порядка составления списка персонала, расстановка персонала](Forming-and-changing-Staff-List-Order-Staff-Arrangement.md)
 
 [Планирование отпусков](Vacation-planning.md)
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

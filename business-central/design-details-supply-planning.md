@@ -3,22 +3,22 @@ title: Сведения о проектировании — планирован
 description: Этот раздел содержит обзор концепций и принципов, используемых в функциях планирования поставок в Business Central.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: design, supply, planning, reordering, replenishment
-ms.date: 04/01/2020
-ms.author: sgroespe
-ms.openlocfilehash: 8b364aef69ab7b9e036caebe2f60387982cd9221
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.date: 06/08/2021
+ms.author: edupont
+ms.openlocfilehash: 78b5700646d95d9cdc38a7a67663473fafddaa2c
+ms.sourcegitcommit: 0953171d39e1232a7c126142d68cac858234a20e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3184670"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "6214832"
 ---
 # <a name="design-details-supply-planning"></a>Сведения о проектировании: планирование поставок
-Документация содержит подробные технические сведения о концепциях и принципах, используемых в функциях планирования поставок в [!INCLUDE[d365fin](includes/d365fin_md.md)].  
+Документация содержит подробные технические сведения о концепциях и принципах, используемых в функциях планирования поставок в [!INCLUDE[prod_short](includes/prod_short.md)].  
 
 В ней описывается, как работает система планирования и как скорректировать алгоритмы для выполнения требований планирования в различных средах. Сначала приводятся основные понятия решений, а затем описывается логика центрального механизма, балансировка поставок и выполнение планирования запасов с использованием политик дозаказа.  
 
@@ -31,3 +31,6 @@ ms.locfileid: "3184670"
 [Сведения о проектировании: таблица "Назначение произ. плана"](design-details-planning-assignment-table.md)  
 [Сведения о проектировании: спрос на пустом складе](design-details-demand-at-blank-location.md)  
 [Сведения о проектировании: перемещения при планировании](design-details-transfers-in-planning.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

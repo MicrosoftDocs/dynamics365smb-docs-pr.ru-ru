@@ -5,21 +5,21 @@ services: project-madeira
 documentationcenter: ''
 author: SusanneWindfeldPedersen
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.date: 10/01/2019
+ms.date: 04/01/2021
 ms.author: solsen
-ms.openlocfilehash: 6cab6247c8edb050a038ef7641b646f1a7412588
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 386025d90301f780f8bf5927de495658a100825f
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2310832"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5775279"
 ---
 # <a name="detecting-mandatory-fields"></a>Выявление обязательных полей
-При вводе данных на страницах в [!INCLUDE[d365fin](includes/d365fin_md.md)] некоторые поля помечаются красной звездочкой. Красная звездочка означает, что необходимо заполнить поле, чтобы завершить определенную процедуру, в которой используется это поле, например учесть транзакцию, в которой используется значение в поле.
+При вводе данных на страницах в [!INCLUDE[prod_short](includes/prod_short.md)] некоторые поля помечаются красной звездочкой. Красная звездочка означает, что необходимо заполнить поле, чтобы завершить определенную процедуру, в которой используется это поле, например учесть транзакцию, в которой используется значение в поле.
 
 Даже если в поле содержится красная звездочка, не обязательно заполнять поле, чтобы перейти к другим полям или закрыть страницу. Красная звездочка исключительно служит напоминанием, что определенный процесс будет заблокирован.
 
@@ -29,4 +29,7 @@ ms.locfileid: "2310832"
 На странице **Карточка товара** отображается красная звездочка в поле **Описание**, чтобы указать, что невозможно ввести товар в строке документа, например в заказе на продажу, если это поле не заполнено.
 
 ## <a name="see-also"></a>См. также
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

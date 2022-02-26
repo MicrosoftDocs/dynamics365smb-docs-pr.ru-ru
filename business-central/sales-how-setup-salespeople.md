@@ -1,31 +1,31 @@
 ---
-title: Настройка менеджера по продажам | Документация Майкрософт
+title: Настройка менеджера по продажам (содержит видео) | Документация Майкрософт
 description: Вы можете задать идентификатор для каждого менеджера по продажам, чтобы можно было отслеживать личную производительность менеджера и назначать менеджеров контактам.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: sales rep
-ms.date: 10/01/2019
-ms.author: sgroespe
-ms.openlocfilehash: ef0e1db9e4af18ad209c111c951c98a46b0aabe9
-ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
+ms.date: 04/01/2021
+ms.author: edupont
+ms.openlocfilehash: 2771eff803209b7f4295f6ac8a2e2af0d937f5fe
+ms.sourcegitcommit: 4c97f38fc53c1c1ec534054a4a100d8cfb73175b
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "2877571"
+ms.lasthandoff: 12/20/2021
+ms.locfileid: "7940030"
 ---
 # <a name="set-up-salespeople"></a>Настройка менеджеров по продажам
 Во многих организациях в качестве основания для расчета комиссионных от продажи или премии предпочитают учитывать вклад конкретного сотрудника. См., например, отчет **Комиссионные менеджера по продажам**. Кроме этого, организации может понадобиться каждому из своих контактов приписать некоторого менеджера.
 
 При настройке менеджера на странице **Менеджеры** можно выбрать код в поле **Код менеджера** всех соответствующих записей, например в карточках счета ГК, клиента, поставщика, контактов и кампании. После этого при учете или настройке счетов, кредит-нот, строк журнала, действий процент-нот и т д, код менеджера будет подставляться в итоговые операции книги.
 <br><br>  
-> [!Video https://www.microsoft.com/videoplayer/embed/RE43Vhm)]
+> [!Video https://www.microsoft.com/videoplayer/embed/RE43Vhm?rel=0]
 
 ## <a name="to-set-up-a-salesperson-code"></a>Настройка кода менеджера
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Менеджеры по продажам**, затем выберите соответствующую ссылку.
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Менеджеры по продажам**, а затем выберите связанную ссылку.
 2. На странице **Менеджеры** выберите действие **Создать**.
 
 Менеджера можно использовать для различных работ по управлению и маркетингу. Например, можно назначить задачи менеджерам по продажам, чтобы задачи были связаны с возможностями продаж, назначенными конкретному менеджеру. Дополнительные сведения см. в разделе [Настройка циклов продаж и этапов циклов](marketing-how-setup-opportunity-sales-cycles-stages.md).
@@ -33,4 +33,7 @@ ms.locfileid: "2877571"
 ## <a name="see-also"></a>См. также
 [Настройка продаж](sales-setup-sales.md)  
 [Продажи](sales-manage-sales.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

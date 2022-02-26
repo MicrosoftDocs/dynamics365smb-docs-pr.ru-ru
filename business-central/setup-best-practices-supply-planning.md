@@ -1,21 +1,21 @@
 ---
-title: Рекомендации по настройке. Планирование поставок | Документация Майкрософт
-description: Планирование поставок является критически важной деловой областью. При правильной настройке и использовании планирование поставок позволяет организации избежать дефицита и сократить затраты на оформление заказов и инвентаризацию.
+title: Рекомендации по настройке. Планирование поставок
+description: При правильной настройке и использовании планирование поставок позволяет организации избежать дефицита и сократить затраты на оформление заказов и инвентаризацию.
 author: SorenGP
 ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2020
-ms.author: sgroespe
-ms.openlocfilehash: 6e80ba7e148e8a415c8b9c71e42bdda13df7050f
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.date: 06/25/2021
+ms.author: edupont
+ms.openlocfilehash: 423d26aad7fe708cf51d614449cb7a3666c27dd6
+ms.sourcegitcommit: e562b45fda20ff88230e086caa6587913eddae26
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3192175"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "6320035"
 ---
 # <a name="setup-best-practices-supply-planning"></a>Рекомендации по настройке. Планирование поставок
 Планирование поставок является критически важной деловой областью. При правильной настройке и использовании планирование поставок позволяет организации избежать дефицита и сократить затраты на оформление заказов и инвентаризацию.  
@@ -34,4 +34,7 @@ ms.locfileid: "3192175"
  [Сведения о проектировании: планирование поставок](design-details-supply-planning.md)   
  [Сведения о проектировании: параметры планирования](design-details-planning-parameters.md)   
  [Настройка сложных областей приложения с помощью рекомендаций](set-up-complex-application-areas-using-best-practices.md)  
- [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+ [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]
