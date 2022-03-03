@@ -2,17 +2,16 @@
 title: Управление хранилищем путем удаления документов или сжатия данных
 description: Узнайте, как работать с накоплением исторических документов (и уменьшить объем данных, хранящихся в базе данных), удаляя или сжимая их.
 author: edupont04
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.form: 107, 9040
 ms.date: 06/14/2021
 ms.author: edupont
-ms.openlocfilehash: edd23c8dcb7e129446a8f3d0180fcd107d08fa02
-ms.sourcegitcommit: 8464b37c4f1e5819aed81d9cfdc382fc3d0762fc
+ms.openlocfilehash: a5c79da88ec49f6d9ff763b6712b0777158d2805
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/19/2022
-ms.locfileid: "8011469"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8147913"
 ---
 # <a name="manage-storage-by-deleting-documents-or-compressing-data"></a>Управление хранилищем путем удаления документов или сжатия данных
 

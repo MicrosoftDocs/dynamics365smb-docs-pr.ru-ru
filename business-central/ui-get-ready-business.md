@@ -2,7 +2,6 @@
 title: Подготовьтесь к ведению бизнеса
 description: Описывает руководства по сопровождаемой настройке, видео, разделы и страницы справки и страницы, помогающие подготовиться к ведению бизнеса в Business Central.
 author: edupont04
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.keywords: SMTP, mail, Microsoft 365, setup, wizard, experience
 ms.date: 09/29/2021
 ms.author: edupont
-ms.openlocfilehash: ba9039d637dcdee7f42302d1f1260b1224414677
-ms.sourcegitcommit: 6ad0a834fc225cc27dfdbee4a83cf06bbbcbc1c9
+ms.openlocfilehash: b75381cd5153294ec65878c3e6726b9a3e4821de
+ms.sourcegitcommit: cdb57f14960f58b1d36a1b373fbf35dfed5fad9e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2021
-ms.locfileid: "7589136"
+ms.lasthandoff: 02/23/2022
+ms.locfileid: "8335035"
 ---
 # <a name="getting-ready-for-doing-business"></a>Подготовьтесь к ведению бизнеса
 
@@ -70,9 +69,9 @@ ms.locfileid: "7589136"
 
 ## <a name="adding-users-and-permissions"></a>Добавление пользователей и разрешений
 
-Если требуется добавить несколько пользователей, это можно сделать в центре администрирования Microsoft Office 365. Для получения дополнительной информации см. раздел [Создание пользователей в соответствии с лицензиями](ui-how-users-permissions.md).
+Если требуется добавить несколько пользователей, это можно сделать в центре администрирования Microsoft 365. Для получения дополнительной информации см. раздел [Создание пользователей в соответствии с лицензиями](ui-how-users-permissions.md).
 
-После создания пользователей с лицензией Microsoft 365 их можно импортировать на страницу **Пользователи** с помощью действия **Получить обновления из Office 365**. Затем можно приступить к назначению разрешений пользователям и организации их по группам пользователей. Дополнительные сведения см. в разделе [Назначение разрешений пользователям и группам](ui-define-granular-permissions.md).  
+После создания пользователей с лицензией на Microsoft 365 их можно импортировать на страницу **Пользователи** с помощью действия **Получить обновления из Office 365**. Затем можно приступить к назначению разрешений пользователям и организации их по группам пользователей. Дополнительные сведения см. в разделе [Назначение разрешений пользователям и группам](ui-define-granular-permissions.md).  
 
 ## <a name="product-help"></a>Справка продукта
 
@@ -94,6 +93,7 @@ ms.locfileid: "7589136"
 [Поиск в области справки](product-help-and-support.md#search-in-the-help-pane)  
 [Ресурсы для справки и поддержки](product-help-and-support.md)  
 [Сайт Microsoft Learn](/learn/dynamics365/business-central?WT.mc_id=dyn365bc_landingpage-docs)  
+[Миграция данных](/dynamics365/business-central/dev-itpro/administration/migrate-data)  
 
 ## [!INCLUDE[prod_short](includes/free_trial_md.md)]  
 

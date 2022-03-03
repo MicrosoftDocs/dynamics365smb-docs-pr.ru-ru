@@ -2,7 +2,6 @@
 title: Настройка циклов продаж и этапов циклов | Документация Майкрософт
 description: Описывается, как определять этапы продаж от первого контакта до закрытия, чтобы создавать циклы и назначать их возможным сделкам в Business Central.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,12 +10,12 @@ ms.search.keywords: relationship, prospect
 ms.search.forms: 5122, 5121, 5120, 5175, 5119
 ms.date: 04/01/2021
 ms.author: jswymer
-ms.openlocfilehash: 16c72d0c0b2b14e73b390b585b505f00956ac4d4
-ms.sourcegitcommit: 189bf08d7ddf6c8b7ef2c09058c6847aa6e590d3
+ms.openlocfilehash: 5eb180d1190e56dc7a43354b5aef2637500a38be
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/31/2022
-ms.locfileid: "8059756"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8148438"
 ---
 # <a name="set-up-opportunity-sales-cycles-and-cycle-stages"></a>Настройка циклов возможных продаж и этапов циклов
 Прежде чем начать использовать возможностей продаж, необходимо настроить циклы продаж и их этапы. Цикл продаж состоит из последовательности этапов от первого контакта до закрытия продаж. Каждый этап может содержать определенные требования, которые должны быть соблюдены, такие как обязательное наличие предложения по продаже перед переходом к следующей стадии. Можно также указать, можно ли пропустить этап. Можно настроить столько циклов продаж, сколько требуется, а также необходимое количество этапов цикла продаж в каждом цикле.

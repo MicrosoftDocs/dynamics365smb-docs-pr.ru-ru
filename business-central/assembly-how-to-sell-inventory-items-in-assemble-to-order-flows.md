@@ -2,7 +2,6 @@
 title: Практическое руководство. Продажа складских товаров в потоках сборки на заказ
 description: Если товар настроен для сборки на заказ, товар должен быть собран для заказов на продажу, и автоматически создается связанный заказ на сборку.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.keywords: kit, kitting
 ms.date: 06/14/2021
 ms.author: edupont
-ms.openlocfilehash: 35fa56c5a0b465f07a38bddc44f5f569283b2a1d
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 2d68bb10c6ff7d153417dbdc491dd8abd75b7adc
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6435408"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8146986"
 ---
 # <a name="selling-inventory-items-in-assemble-to-order-flows"></a>Продажа складских товаров в потоках сборки на заказ
 Если поле **Политика сборки** в карточке товара сборочного элемента имеет значение **Сборка на заказ** процесс продажи по умолчанию предполагает, что товар отсутствует в запасах и должен быть собран для данного конкретного заказа на продажу. Поэтому связанный сборочный заказ создается автоматически при добавлении товара в строку заказа на продажу. Дополнительные сведения см. в разделе [Продажа товара, собранного на заказ](assembly-how-to-sell-items-assembled-to-order.md). Если часть (или все) количества заказов на продажу уже доступна на складе, можно создать уменьшение количества сборочного заказа, изменив поле **Количество для сборки на заказ** в строке заказа на продажу.  

@@ -2,24 +2,23 @@
 title: Миграция данных клиента
 description: Вы можете перенести существующие данные клиентов из существующей системы в Business Central, используя RapidStart Services — или просто введите их прямо в компанию.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: ''
-ms.date: 04/01/2021
+ms.search.form: 1799, 1807, 8632, 1800, 1340
+ms.date: 02/18/2022
 ms.author: edupont
-ms.openlocfilehash: 38e2062566d77d539b1280bdc4829f55bace386b
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: f339e5c878d64cb243c34c97f6711629389bfa0e
+ms.sourcegitcommit: cdb57f14960f58b1d36a1b373fbf35dfed5fad9e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6437470"
+ms.lasthandoff: 02/23/2022
+ms.locfileid: "8335374"
 ---
 # <a name="migrate-customer-data"></a>Миграция данных клиента
 
-Можно перенести существующие данные клиента из существующей системы ERP в [!INCLUDE[prod_short](includes/prod_short.md)] с помощью инструментов переноса данных RapidStart Services. В качестве носителей информации можно использовать файлы Excel. Также можно вручную данные, вводя их непосредственно в организацию.
+Можно перенести существующие данные клиента из существующей системы ERP в [!INCLUDE[prod_short](includes/prod_short.md)] с помощью инструментов переноса данных RapidStart Services. В качестве носителей информации можно использовать файлы Excel. Также можно вручную данные, вводя их непосредственно в организацию. В качестве альтернативы вы можете использовать мастер **Миграция в облако** для облегчения переноса данных. Дополнительные сведения см. в разделе [Миграция данных](/dynamics365/business-central/dev-itpro/administration/migrate-data) в материалах для администратора.
 
 > [!NOTE]
 > Поля типа Blob не могут быть экспортированы/импортированы с использованием Excel.

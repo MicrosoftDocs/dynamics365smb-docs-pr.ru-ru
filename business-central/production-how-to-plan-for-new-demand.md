@@ -2,7 +2,6 @@
 title: Последовательное планирование по каждому заказу
 description: Эта задача планирования может быть выполнена на странице "Планирование заказов", в котором отображаются все данные нового спроса наряду со сведениями о готовности и предложениями по поставке, включая замену товара.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.form: 5522, 5524, 5526
 ms.date: 07/29/2021
 ms.author: edupont
-ms.openlocfilehash: 2f8d31513984ced422d4bedae9c70cac703fd775
-ms.sourcegitcommit: 2ab6709741be16ca8029e2afadf19d28cf00fbc7
+ms.openlocfilehash: 8d26c606782193ee9017b4f57577d3e6cdf79cab
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/14/2022
-ms.locfileid: "7972334"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8148386"
 ---
 # <a name="plan-for-new-demand-order-by-order"></a>Последовательное планирование по каждому заказу
 

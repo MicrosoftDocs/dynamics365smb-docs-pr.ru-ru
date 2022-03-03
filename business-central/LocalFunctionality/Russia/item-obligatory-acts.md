@@ -2,18 +2,17 @@
 title: Акты обязательств по товару России
 description: Российские улучшения включают акты обязательств по товару.
 author: DianaMalina
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: d40f452f6a954152e987d1670d2027d61b1029c4
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: f592be5b3b43f616527431b3a1cdbe1275781e2f
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6437181"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8132217"
 ---
 # <a name="item-obligatory-acts"></a>Акты обязательств по товару
 

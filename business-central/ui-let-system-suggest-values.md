@@ -2,20 +2,19 @@
 title: Разрешение Business Central предлагать значения
 description: Чтобы избежать ручных подсчетов и быстро и точно выполнять задачи, вы можете настроить автоматический ввод данных, чтобы программа Business Central заполняла выбранные поля.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.form: 39, 251, 981
+ms.search.form: 39, 251, 981, 9020, 9022, 9026, 9027, 9030, 9000, 9004, 9005, 9018, 9006, 9007, 9010, 9016, 9017
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: c7aaa366a237e2196aaa8a6e376220e5d5794d87
-ms.sourcegitcommit: f4b32ba1f926a2a712400c36305616f320757723
+ms.openlocfilehash: a9250a206d21d472bbe3efac1b54f47a36e1d95b
+ms.sourcegitcommit: cdb57f14960f58b1d36a1b373fbf35dfed5fad9e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/08/2022
-ms.locfileid: "8100825"
+ms.lasthandoff: 02/23/2022
+ms.locfileid: "8335193"
 ---
 # <a name="letting-prod_short-suggest-values"></a>Разрешение [!INCLUDE[prod_short](includes/prod_short.md)] предлагать значения
 [!INCLUDE[prod_short](includes/prod_short.md)] помогает выполнять задачи быстрее и с меньшим числом ошибок благодаря автоматическому заполнению полей или строк данными, которые в противном случае вам пришлось бы рассчитываться и вводить самостоятельно. Хотя такой автоматический ввод данных всегда верен, при необходимости вы можете изменить эти значения.

@@ -2,7 +2,6 @@
 title: Вопросы и ответы по Teams
 description: Получите ответы на некоторые типичные вопросы о работе с Teams и Business Central.
 author: jswymer
-ms.service: dynamics365-business-central
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.keywords: Teams, MS Teams, Microsoft Teams, Skype, Link, Microsoft 365, collaborate, collaboration, teamwork, faq, errors
 ms.date: 10/01/2021
 ms.author: jswymer
-ms.openlocfilehash: cd53825ced18cafab27571671a203cda82d3dcc9
-ms.sourcegitcommit: 6ad0a834fc225cc27dfdbee4a83cf06bbbcbc1c9
+ms.openlocfilehash: 34c669f955bebf84149959182bb1ce8bdeb139a0
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2021
-ms.locfileid: "7587869"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8147496"
 ---
 # <a name="teams-faq"></a>Вопросы и ответы по Teams
 
@@ -107,7 +106,7 @@ ms.locfileid: "7587869"
 
 ### <a name="what-is-the-best-way-for-me-to-demonstrate-prod_shortmd-and-microsoft-teams-to-prospective-customers"></a>Как мне лучше всего продемонстрировать [!INCLUDE [prod_short.md](includes/prod_short.md)] и Microsoft Teams потенциальным клиентам?
 
-Если вы являетесь партнером по перепродаже, вам может потребоваться среда, которую вы можете показывать потенциальным клиентам в рамках предпродажных демонстраций. Чтобы не повлиять на Microsoft Teams в своей организации, вы можете получить демонстрационную учетную запись Microsoft 365 по адресу [https://aka.ms/CDX](https://aka.ms/CDX). Эта учетная запись дает вам полный контроль над независимой организацией Azure, которая включает Microsoft Teams и [!INCLUDE [prod_short.md](includes/prod_short.md)]. Дополнительные сведения см. в разделе [Подготовка демонстрационных сред для Dynamics 365 Business Central](/dynamics365/business-central/dev-itpro/administration/demo-environment).
+Если вы являетесь партнером по перепродаже, вам может потребоваться среда, которую вы можете показывать потенциальным клиентам в рамках предпродажных демонстраций. Чтобы не затрагивать Microsoft Teams в своей организации, вы можете получить демонстрационную учетную запись Microsoft 365 здесь: [https://aka.ms/CDX](https://aka.ms/CDX). Эта учетная запись дает вам полный контроль над независимой организацией Azure, которая включает Microsoft Teams и [!INCLUDE [prod_short.md](includes/prod_short.md)]. Дополнительные сведения см. в разделе [Подготовка демонстрационных сред для Dynamics 365 Business Central](/dynamics365/business-central/dev-itpro/administration/demo-environment).
 
 ### <a name="does-the-prod_shortmd-app-for-teams-cater-for-my-customization-and-personalization"></a>Учитывает ли приложение [!INCLUDE [prod_short.md](includes/prod_short.md)] для Teams мою настройку и персонализацию?
 
@@ -188,7 +187,7 @@ ms.locfileid: "7587869"
 
 ### <a name="can-i-call-a-contact-from-the-prod_shortmd-app-for-teams"></a>Могу ли я позвонить контакту из приложения [!INCLUDE [prod_short.md](includes/prod_short.md)] для Teams?
 
-[!INCLUDE [prod_short.md](includes/prod_short.md)] имеет ограниченную интеграцию с возможностями вызова Teams. Невозможно мгновенно начать VOIP-звонок из карточки контакта или окна сведений о контакте. Однако при просмотре сведений о контакте в классическом приложении Teams вы можете выбрать поле номера телефона, чтобы набрать этот номер, если Teams настроено в качестве приложения для набора номера по умолчанию на вашем устройстве. Чтобы набирать номера стационарных или мобильных телефонов с помощью ТСОП, традиционной телефонной системы, Teams требуется приложение Microsoft 365 Business Voice. Чтобы узнать больше, см. раздел [Что такое Microsoft 365 Business Voice?](/MicrosoftTeams/business-voice/whats-business-voice).
+[!INCLUDE [prod_short.md](includes/prod_short.md)] имеет ограниченную интеграцию с возможностями вызова Teams. Невозможно мгновенно начать VOIP-звонок из карточки контакта или окна сведений о контакте. Однако при просмотре сведений о контакте в классическом приложении Teams вы можете выбрать поле номера телефона, чтобы набрать этот номер, если Teams настроено в качестве приложения для набора номера по умолчанию на вашем устройстве. Чтобы набирать номера стационарных или мобильных телефонов с помощью ТСОП (традиционной телефонной системы), Teams требуется приложение Microsoft 365 Business Voice. Чтобы узнать больше, см. раздел [Что такое Microsoft 365 Business Voice?](/MicrosoftTeams/business-voice/whats-business-voice).
 
 ### <a name="how-do-i-view-recent-documents-for-a-customer-or-vendor"></a>Как просмотреть последние документы для клиента или поставщика?
 

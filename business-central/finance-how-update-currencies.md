@@ -2,18 +2,17 @@
 title: Обновление курсов валют (содержит видео)
 description: Отслеживание сумм в различных валютах с использованием кодов валюты, и разрешение Business Central помогать корректировать валютные курсы учтенных операций с помощью внешнего сервиса.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: multiple currencies, adjust exchange rates, FX rates
 ms.search.form: 5, 118
-ms.date: 07/23/2021
+ms.date: 02/17/2022
 ms.author: edupont
-ms.openlocfilehash: 93a5059be3810af4d0351c6508c5d6119eaa4015
-ms.sourcegitcommit: 2ab6709741be16ca8029e2afadf19d28cf00fbc7
+ms.openlocfilehash: 04f96b269b842045c1a804f976ffddfd5348befc
+ms.sourcegitcommit: 75a388b1d8917e2bbd49398ef76cf86cf37e6767
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/14/2022
-ms.locfileid: "7972891"
+ms.lasthandoff: 02/17/2022
+ms.locfileid: "8323270"
 ---
 # <a name="update-currency-exchange-rates"></a>Обновление валютных курсов
 
@@ -28,6 +27,9 @@ ms.locfileid: "7972891"
 
 > [!IMPORTANT]
 > Если вы хотите использовать дополнительную валюту отчетности для финансовой отчетности, убедитесь, что вы понимаете ограничения. Дополнительные сведения см. в разделе [Настройка дополнительной отчетной валюты](finance-how-setup-additional-currencies.md).
+
+> [!NOTE]  
+> При учете в ГК с использованием кода валюты, например учете расхода в финансовом журнале с использованием кода валюты, транзакция конвертируется в МВ с использованием валютного курса на дату учета. Операция ГК не будет содержать информацию о том, какая валюта использовалась, а только сумму в МВ. Если вы хотите фиксировать исходную валюту — например, для выставления счета — вы должны использовать документы продажи и покупки, а также банковские счета, в которых хранится информация о коде валюты для операций.
 
 ## <a name="currencies"></a>Валюты
 

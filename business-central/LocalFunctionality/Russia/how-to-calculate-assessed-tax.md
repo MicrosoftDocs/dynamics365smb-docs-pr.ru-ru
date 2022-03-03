@@ -2,18 +2,17 @@
 title: Расчет налога на имущество в России
 description: Российские усовершенствования включают расчет налога на имущество.
 author: DianaMalina
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: b2b3df59b3f25814a6e8098771cf789f6a037b10
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 12acf54f0b03edbc4858685b89328df7acdee31b
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6441023"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8146014"
 ---
 # <a name="calculate-assessed-tax"></a>Расчет налога на имущество
 

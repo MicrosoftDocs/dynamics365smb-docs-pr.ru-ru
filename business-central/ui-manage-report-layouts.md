@@ -2,7 +2,6 @@
 title: Пользовательские и встроенные макеты отчетов и документов
 description: Макеты отчетов служат для персонализации документов, например для настройки шрифтов, логотипов и параметров страниц PDF-файлов, которые вы отправляете клиентам.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,12 +10,12 @@ ms.search.keywords: customized report, document layout, logo, personalize
 ms.search.form: 9652, 9650
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 11467596a489c3d3ec550caa35353c72e548e675
-ms.sourcegitcommit: f4b32ba1f926a2a712400c36305616f320757723
+ms.openlocfilehash: d150d656371f67d6cfe04668e504f481cf9cc213
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/08/2022
-ms.locfileid: "8100851"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8129842"
 ---
 # <a name="managing-report-and-document-layouts"></a>Управление макетами отчетов и документов
 Макет отчета контролирует содержимое и формат отчета, включая то, какие поля данных набора данных отчета отображаются в нем и как они упорядочены, а также стиль текста, изображения и т. д. В [!INCLUDE[prod_short](includes/prod_short.md)] можно изменить используемый в отчете макет, создать новый макет или изменить текущие макеты.

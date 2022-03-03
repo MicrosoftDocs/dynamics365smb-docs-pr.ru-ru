@@ -4,7 +4,6 @@ description: Если определены пользовательские ма
 services: project-madeira
 documentationcenter: ''
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,12 +11,12 @@ ms.workload: na
 ms.search.keywords: customized report, document layout, logo, personalize
 ms.date: 06/24/2021
 ms.author: edupont
-ms.openlocfilehash: 29b349824e2aff727cd255e612fa054f1d71610c
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 4b417c689c02a0252e3967379e33a88386ad694f
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6443747"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8147470"
 ---
 # <a name="define-document-layouts-for-customers-and-vendors"></a>Определение макетов документов для клиентов и поставщиков
 Если определены пользовательские макеты отчетов, вы можете выбрать их из карточек клиентов и поставщиков, чтобы указать, какие макеты будут использоваться для документов, которые вы создаете для данного клиента или поставщика. Значение поля **Использование** определяет, для какого процесса будет использоваться макет документа, например **Напоминание**, **Отгрузка** или **Подтверждение**.

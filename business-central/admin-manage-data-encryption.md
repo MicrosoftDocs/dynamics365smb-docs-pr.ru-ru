@@ -2,7 +2,6 @@
 title: Управление шифрованием данных | Документация Майкрософт
 description: Можно зашифровать данные на Business Central Server, создав новые или импортировав существующие ключи шифрования, включаемые на сервере.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 2be2d73c21ec0c2701bf9e9d63b1213ae9370975
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: e9b04903b612609fc7d7c2dff4b3feffc184ae51
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5786836"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8147966"
 ---
 # <a name="managing-data-encryption"></a>Управление шифрованием данных
 Можно зашифровать данные на сервере [!INCLUDE[prod_short](includes/prod_short.md)], создав новые или импортировав существующие ключи шифрования, включаемые на экземпляре сервера [!INCLUDE[prod_short](includes/prod_short.md)], подключенном к базе данных.

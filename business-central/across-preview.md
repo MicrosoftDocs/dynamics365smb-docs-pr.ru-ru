@@ -2,19 +2,18 @@
 title: Пробные версии и подписки
 description: Узнайте, как получить пробную версию Business Central, как работать в средах "песочницы" и как оформить подписку.
 author: edupont04
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.workload: na
 ms.search.keywords: preview, trial, sandbox, subscription
 ms.search.form: 1803, 1801
-ms.date: 09/29/2021
+ms.date: 02/18/2022
 ms.author: edupont
-ms.openlocfilehash: 01bdfbd52db384176defb5383470346b086fe293
-ms.sourcegitcommit: 8464b37c4f1e5819aed81d9cfdc382fc3d0762fc
+ms.openlocfilehash: 4b31d6d4ca0a7fba8376437fb37f3678f607f7b3
+ms.sourcegitcommit: cdb57f14960f58b1d36a1b373fbf35dfed5fad9e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/19/2022
-ms.locfileid: "8011550"
+ms.lasthandoff: 02/23/2022
+ms.locfileid: "8335530"
 ---
 # <a name="prod_long-trials-and-subscriptions"></a>Пробные версии и подписки [!INCLUDE[prod_long](includes/prod_long.md)]
 
@@ -38,7 +37,7 @@ ms.locfileid: "8011550"
 
 ### <a name="add-your-own-data-to-an-empty-trial-company"></a>Добавьте свои данные в пустую пробную компанию
 
-Если вы хотите попробовать [!INCLUDE[prod_short](includes/prod_short.md)] с собственными данными, вы можете перейти на бесплатную 30-дневную пробную версию с пустой компанией. Мастер настройки **Настройка организации** поможет вам определить основную информацию о вашем бизнесе. При желании вы можете импортировать данные из существующего решения по управлению бизнесом, чтобы вы могли оценить [!INCLUDE[prod_short](includes/prod_short.md)] с вашими собственными данными. Тем не менее, мы рекомендуем вам не использовать бесплатную пробную версию в качестве помощи для работы бизнеса. Свяжитесь с [партнером по перепродаже](/dynamics365/business-central/across-faq#findpartner), чтобы узнать больше о том, как начать работать с [!INCLUDE[prod_short](includes/prod_short.md)].  
+Если вы хотите попробовать [!INCLUDE[prod_short](includes/prod_short.md)] с собственными данными, вы можете перейти на бесплатную 30-дневную пробную версию с пустой компанией. Мастер настройки **Настройка организации** поможет вам определить основную информацию о вашем бизнесе. При желании вы можете импортировать данные из существующего решения по управлению бизнесом, чтобы вы могли оценить [!INCLUDE[prod_short](includes/prod_short.md)] с вашими собственными данными. Тем не менее, мы рекомендуем вам не использовать бесплатную пробную версию в качестве помощи для работы бизнеса. Свяжитесь с [партнером по перепродаже](/dynamics365/business-central/across-faq#findpartner), чтобы узнать больше о том, как начать работать с [!INCLUDE[prod_short](includes/prod_short.md)]. Партнер также может помочь вам перенести ваши данные в [!INCLUDE [prod_short](includes/prod_short.md)] Online.  
 
 Если для принятия решения вам недостаточно 30 дней, вы можете продлить пробную версию. Для получения дополнительной информации см. [Нужно больше времени на принятие решения о подписке?](admin-extend-trial.md)  
 
@@ -105,6 +104,7 @@ ms.locfileid: "8011550"
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 [Вопросы и ответы](across-faq.yml)  
 [Как найти партнера по перепродаже?](/dynamics365/business-central/across-faq#findpartner)  
+[Миграция данных](/dynamics365/business-central/dev-itpro/administration/migrate-data)  
 [Выбор среды "песочница" для разработки Dynamics 365 Business Central](/dynamics365/business-central/dev-itpro/developer/devenv-sandbox-overview?toc=/dynamics365/business-central/toc.json)  
 [Наличие в странах/регионах и поддерживаемые переводы](/dynamics365/business-central/dev-itpro/compliance/apptest-countries-and-translations?toc=/dynamics365/business-central/toc.json)  
 [Продление пробных версий (в качестве администратора)](/dynamics365/business-central/dev-itpro/administration/tenant-administration#extending-trials)  

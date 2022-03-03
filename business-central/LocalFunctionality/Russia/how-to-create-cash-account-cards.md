@@ -2,18 +2,17 @@
 title: Создание карточек счетов кассы в России
 description: Российские улучшения включают счета кассы.
 author: DianaMalina
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: b0103399c7c1c7d8f3d1885472087e0a94333dae
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: f4a1c16b24ee6bbcb4dfdcfac9b3665cd18a5f6d
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6439139"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8149255"
 ---
 # <a name="create-cash-account-cards"></a>Создание карточек счетов кассы
 

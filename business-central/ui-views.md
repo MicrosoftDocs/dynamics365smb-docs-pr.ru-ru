@@ -2,20 +2,19 @@
 title: Сохранение и персонализация представлений списков
 description: Узнайте, как создавать собственные представления для отфильтрованных списков, а также как сохранять, переименовывать и управлять этими представлениями.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: ''
+ms.search.form: 9020, 9022, 9026, 9027, 9030, 9000, 9004, 9005, 9018, 9006, 9007, 9010, 9016, 9017
 ms.date: 06/24/2021
 ms.author: edupont
-ms.openlocfilehash: 6ac3489151d9e4e0ebf0867b94b59678bba0f35e
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 5cfc08a7a4f8645bc8657477819cdacc9d147d88
+ms.sourcegitcommit: 75a388b1d8917e2bbd49398ef76cf86cf37e6767
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6445355"
+ms.lasthandoff: 02/17/2022
+ms.locfileid: "8322880"
 ---
 # <a name="save-and-personalize-list-views"></a>Сохранение и персонализация представлений списков
 Если вы установили фильтр для списка и хотите сохранить его для использования в дальнейшем, вы можете сохранить его как представление. Дополнительные сведения о фильтрации списков см. в разделе [Установка фильтров в списках](ui-enter-criteria-filters.md#setting-filters-on-lists).

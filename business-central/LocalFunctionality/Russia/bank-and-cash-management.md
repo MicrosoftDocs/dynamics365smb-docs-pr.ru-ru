@@ -2,18 +2,17 @@
 title: Управление банками и кассами в России
 description: Российские усовершенствования включают управление банками и кассами.
 author: DianaMalina
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 347ead6fc2af6b562419e50b060bdaae0e2287a5
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: e162fb7e98395648e4cc48237e18e77c21028e03
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5784641"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8148880"
 ---
 # <a name="bank-and-cash-management"></a>Управление банками и кассами
 

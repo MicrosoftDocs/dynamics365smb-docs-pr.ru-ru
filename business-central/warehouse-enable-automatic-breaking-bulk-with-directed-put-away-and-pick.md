@@ -2,7 +2,6 @@
 title: Разбивка с расширенным подбором и размещением
 description: Узнайте, как включить автоматическую разбивку с расширенным подбором и размещением, а также разбивку с размещениями, подборами, перемещениями и т. д.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/25/2021
 ms.author: edupont
-ms.openlocfilehash: a3e992b86b2c53393ee385fd4abde05bd2b915f2
-ms.sourcegitcommit: e562b45fda20ff88230e086caa6587913eddae26
+ms.openlocfilehash: 82b0625cf36b0c304a28c1196aa76289d5711c15
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "6324843"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8144467"
 ---
 # <a name="enable-automatic-breaking-bulk-with-directed-put-away-and-pick"></a>Разрешение автоматической разбивки с расширенным подбором и размещением
 Для складов, использующих расширенный подбор и размещение, [!INCLUDE[prod_short](includes/prod_short.md)] в различных ситуациях осуществляет разбивку автоматически, т. е. при создании складских инструкций, удовлетворяющих требованиям документов-источников, производственных заказов или внутренних подборов и размещений преобразует крупные единицы измерения в более мелкие. Разбивка иногда также означает сбор более мелких единиц измерения при необходимости удовлетворить исходящие запросы, разбивая крупные единицы измерения в документе-источнике или производственном заказе на более мелкие единицы, существующие на складе.   

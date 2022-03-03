@@ -1,22 +1,20 @@
 ---
-title: Просмотр тестового отчета перед учетом документа продажи или покупки | Документация Майкрософт
+title: Просмотр тестового отчета перед учетом документа продажи или покупки
 description: Перед учетом документа, например заказа или кредит-ноты, вы можете проверить и просмотреть его, чтобы устранить ошибки, которые могут препятствовать учету.
-services: project-madeira
-documentationcenter: ''
 author: SusanneWindfeldPedersen
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
+ms.search.form: 9020, 9022, 9026, 9027, 9030, 9000, 9004, 9005, 9018, 9006, 9007, 9010, 9016, 9017
 ms.date: 04/01/2021
 ms.author: solsen
-ms.openlocfilehash: 96e4ef52bc896cd02f0e6b38a470d16a00284c66
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 1f7154c438437aacb3788c91ad9c17bba8673477
+ms.sourcegitcommit: cdb57f14960f58b1d36a1b373fbf35dfed5fad9e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6445429"
+ms.lasthandoff: 02/23/2022
+ms.locfileid: "8335348"
 ---
 # <a name="view-test-reports-before-posting"></a>Просмотр тестовых отчетов перед учетом
 Когда все будет готово для учета документа, такого как заказ, счет или кредит-нота, можно выполнить тестирование документа, чтобы убедиться в отсутствии препятствующих учету проблем.

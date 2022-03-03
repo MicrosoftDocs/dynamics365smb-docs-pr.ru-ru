@@ -2,18 +2,17 @@
 title: Продажа основных средств в России
 description: Российские усовершенствования включают управление продажей или перемещением основных средств.
 author: DianaMalina
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 10ae3f51db10201c3af921e392a2e6cb156936d7
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: c25f89b34b2b974014649a77fd8ff3e745e43a90
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5774239"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8148882"
 ---
 # <a name="selling-fixed-assets"></a>Продажа основных средств
 

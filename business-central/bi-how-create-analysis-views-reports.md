@@ -1,21 +1,21 @@
 ---
-title: Создание аналитических отчетов | Документация Майкрософт
+title: Создание аналитических отчетов
 description: Описывает процедуру создания новых аналитических отчетов для продаж, покупок и запасов, а также настройку шаблонов анализа.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: bi, power BI, analysis, KPI
+ms.search.form: 555, 556, 557, 558, 9372, 9370, 9371
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: f8454b9427398dcd95df914ffb9596bf0318f9ba
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: d874c55108a985cd4076e2bbcc8eec53287db008
+ms.sourcegitcommit: cdb57f14960f58b1d36a1b373fbf35dfed5fad9e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6437055"
+ms.lasthandoff: 02/23/2022
+ms.locfileid: "8335504"
 ---
 #  <a name="create-analysis-reports"></a>Создание аналитических отчетов
 Менеджеры продаж должны регулярно анализировать товарооборот, общую прибыль и другие важные показатели, характеризующие процесс продаж. В свою очередь, для менеджеров больший интерес представляют сведения о динамике объемов покупок, выполнении поставщиками своих обязательств, а также информация о ценах покупки. Для складских менеджеров и менеджеров, занимающихся вопросами логистики, необходима информация об обороте товаров на складе, движении запасов и статистике значений склада.  

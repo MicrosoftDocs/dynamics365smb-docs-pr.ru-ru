@@ -2,7 +2,6 @@
 title: Учет по затратам | Документация Майкрософт
 description: Учета затрат помогает оценить затраты на ведение бизнеса. Чтобы начать учет затрат, см. следующие разделы.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 6505633f7535ed2b9f36d6670d4fdc1d6a6c4172
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: c22248b9f81837cfaf52717314d7981a64ede8c8
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5788181"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8148640"
 ---
 # <a name="accounting-for-costs"></a>Учет по затратам
 Учета затрат помогает оценить затраты на ведение бизнеса. Чтобы начать учет затрат, см. следующие разделы.  

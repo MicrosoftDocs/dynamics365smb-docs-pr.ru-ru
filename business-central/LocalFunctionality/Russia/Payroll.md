@@ -2,18 +2,17 @@
 title: Зарплата в России
 description: Российские усовершенствования включают поддержку начисления заработной платы.
 author: DianaMalina
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 8d421866567b25ec68dbf493f9ede91a87b79585
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: f4e12c6afe4beaa1a338f7a8f6a9d450811f44d1
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5773462"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8149263"
 ---
 # <a name="payroll"></a>Зарплата
 

@@ -2,18 +2,17 @@
 title: Обзор финансовых отчетов в России
 description: Российские улучшения включают обзор финансовых отчетов.
 author: DianaMalina
-ms.service: dynamics365-business-central
 ms.topic: overview
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 10c78ea97122719c09ac215e720872dc5d75a2f5
-ms.sourcegitcommit: 8464b37c4f1e5819aed81d9cfdc382fc3d0762fc
+ms.openlocfilehash: 829d2b757aca39c0ff4024f734fab698e6584e2b
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/19/2022
-ms.locfileid: "8011511"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8149257"
 ---
 # <a name="account-schedules-overview"></a>Обзор финансовых отчетов
 

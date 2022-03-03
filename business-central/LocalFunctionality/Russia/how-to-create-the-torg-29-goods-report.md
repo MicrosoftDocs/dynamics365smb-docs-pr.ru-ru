@@ -2,18 +2,17 @@
 title: Создание товарного отчета ТОРГ-29 в России
 description: Российские улучшения включают поддержку товарного отчета ТОРГ-29.
 author: DianaMalina
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 1f4a3218adc6eb7cfbf73b246ec24bdf55436412
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 2d7e1108777cee4507fd854543d948a089b07881
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6443555"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8146012"
 ---
 # <a name="create-the-torg-29-goods-report"></a>Создание товарного отчета ТОРГ-29
 

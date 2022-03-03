@@ -2,7 +2,6 @@
 title: Настройка расширенного размещения и подбора
 description: Настройте склады на расширенный подбор и размещение, чтобы использовать новый набор функций, которые обеспечивают поддержку максимально эффективного функционирования склада.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/25/2021
 ms.author: edupont
-ms.openlocfilehash: 0c7a49208216b12c234c0b40576b26f4f39e9ab5
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 4e83df2350ef8419a6de4e0fde9bf140660b943e
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6438036"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8145216"
 ---
 # <a name="set-up-items-and-locations-for-directed-put-away-and-pick"></a>Настройка товаров и складов для использования расширенного подбора и размещения
 Если склад настраивается на расширенный подбор и размещение, возникает возможность использования нового набора функций, которые обеспечивают поддержку максимально эффективного функционирования склада. Чтобы в полной мере использовать эти функциональные возможности, нужно предоставить дополнительную информацию о товарах, которая позволит провести необходимые вычисления для определения наиболее целесообразных и эффективных способов руководства деятельностью склада. Дополнительные сведения см. в разделе [Сведения о проектировании: настройка склада](design-details-warehouse-setup.md).

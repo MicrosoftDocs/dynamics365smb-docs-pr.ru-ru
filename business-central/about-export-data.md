@@ -2,21 +2,20 @@
 title: Экспорт данных из Business Central в Excel
 description: Вы можете экспортировать финансовые отчеты и данные бизнес-аналитики из Business Central в Excel или открыть данные в Excel.
 author: edupont04
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: analysis, reporting, financial report, business intelligence, BI, Excel
-ms.search.form: 9901
+ms.search.form: 9901, 9018, 9020, 9022, 9027
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 078b3988feb2d6e11d0601ca5aae48cdc5e6f893
-ms.sourcegitcommit: 8464b37c4f1e5819aed81d9cfdc382fc3d0762fc
+ms.openlocfilehash: 3161c51160790b2fcc4e702866025e501167b644
+ms.sourcegitcommit: cdb57f14960f58b1d36a1b373fbf35dfed5fad9e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/19/2022
-ms.locfileid: "8012010"
+ms.lasthandoff: 02/23/2022
+ms.locfileid: "8335608"
 ---
 # <a name="exporting-your-business-data-to-excel"></a>Экспорт бизнес-данных в Excel
 Если вы хотите работать с данными из [!INCLUDE[prod_short](includes/prod_short.md)] в Excel, вы можете открыть все списки в Excel и работать с ними там. Аналогично, если требуется отменить подписку на [!INCLUDE[prod_short](includes/prod_short.md)], вы можете экспортировать данные в Excel, чтобы забрать их с собой.

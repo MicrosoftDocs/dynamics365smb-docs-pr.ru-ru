@@ -2,18 +2,17 @@
 title: Настройка налогового учета в России
 description: Российские улучшения включают налоговый учет.
 author: DianaMalina
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 6d35606143a4f27574a003c09f47e3c52669e29e
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: dc2018f74bceb392000d1ff0b8638993474557a6
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6437191"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8148874"
 ---
 # <a name="set-up-tax-accounting"></a>Настройка налогового учета
 

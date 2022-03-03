@@ -1,19 +1,18 @@
 ---
-title: Как осуществить трассировку посылок
+title: Трассировка посылок
 description: Используйте службу трассировки экспедиторов в Интернете, чтобы отслеживать посылки и следить за ходом доставки.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: rfq
-ms.search.form: 103, 142, 800, 806
+ms.search.form: 142, 800, 806
 ms.date: 06/23/2021
 ms.author: edupont
-ms.openlocfilehash: 8c05c4a86e0bf9ace996dfc879b719324dc99593
-ms.sourcegitcommit: a9e2aaee735870af566db68532cfa697347d68e0
+ms.openlocfilehash: b5a819c1aeea44b39f7c8497420e08af3c0ae2ab
+ms.sourcegitcommit: cdb57f14960f58b1d36a1b373fbf35dfed5fad9e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/04/2021
-ms.locfileid: "7752370"
+ms.lasthandoff: 02/23/2022
+ms.locfileid: "8334490"
 ---
 # <a name="track-packages"></a>Трассировка посылок
 Большинство экспедиторов предоставляют веб-сервис, позволяющий отслеживать статус ваших посылок, пока они находятся в пути. Эта информация может быть полезна во многих бизнес-процессах, например, при обслуживании клиентов. Если организация пользуется услугами одного или нескольких экспедиторов, можно ввести о них базовую информацию, а затем использовать службу отслеживания посылок страниц "Учтенные расходные накладные", "Учтенные счета продажи", "Учтенные кредит-ноты продажи" и "Учтенные возвратные приходные накладные". Дополнительные сведения см. в разделе [Настройка экспедиторов](sales-how-to-set-up-shipping-agents.md). 

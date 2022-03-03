@@ -1,23 +1,21 @@
 ---
 title: Бизнес-аналитика
 description: Business Central содержит ряд функций, которые помогут вам собирать, анализировать и делиться ценными данными компании для бизнес-аналитики и принятия решений.
-services: project-madeira
-documentationcenter: ''
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: bi, power BI, analysis, KPI
+ms.search.form: 103, 198, 490
 ms.date: 06/14/2021
 ms.author: edupont
-ms.openlocfilehash: 866cfa9c35e7af7abb17ba9c9171244e2107de4d
-ms.sourcegitcommit: e562b45fda20ff88230e086caa6587913eddae26
+ms.openlocfilehash: 994ae303d46e2e3d290ca297038a3bca6fc21d44
+ms.sourcegitcommit: cdb57f14960f58b1d36a1b373fbf35dfed5fad9e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "6323747"
+ms.lasthandoff: 02/23/2022
+ms.locfileid: "8335452"
 ---
 # <a name="business-intelligence"></a>Бизнес-аналитика
 Во время делового процесса в организации обрабатываются огромные объемы данных. Эти данные, отражающие цифры продаж, покупок, текущих расходов, оплаты труда сотрудников, сальдо и т. д., могут представлять из себя ценную информацию, или интеллектуальные ресурсы, для принятия решений. [!INCLUDE[prod_short](includes/prod_short.md)] содержит множество функций, помогающих собирать, анализировать и совместно использовать данные организации.

@@ -2,18 +2,17 @@
 title: Работа с финансовыми отчетами в России
 description: Российские улучшения включают дополнительные функции, связанные с финансовыми отчетами.
 author: DianaMalina
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 8cd95fa8e524a60f2bea2f2a095a194bb130a6e1
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 3f731ab40e3c576e2b9ffc6f4953057d6d5985e7
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6441379"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8149267"
 ---
 # <a name="work-with-account-schedules"></a>Работа с финансовыми отчетами
 

@@ -1,22 +1,21 @@
 ---
 title: Настройка Business Central
 description: Прочтите о различных способах настройки Business Central для улучшения доступа к функциям и возможностям, которые вам больше всего нужны в повседневной работе.
-documentationcenter: ''
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: overview
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: personalize, add-in, extend, customize
+ms.search.form: 9020, 9022, 9026, 9027, 9030, 9000, 9004, 9005, 9018, 9006, 9007, 9010, 9016, 9017
 ms.date: 06/23/2021
 ms.author: edupont
-ms.openlocfilehash: 7294eeb0c03dc1c494ce88e6d4e366b491070acf
-ms.sourcegitcommit: 8464b37c4f1e5819aed81d9cfdc382fc3d0762fc
+ms.openlocfilehash: 6eea88cf254b4d1b299a54c47d0e87774f0b21ae
+ms.sourcegitcommit: cdb57f14960f58b1d36a1b373fbf35dfed5fad9e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/19/2022
-ms.locfileid: "8012765"
+ms.lasthandoff: 02/23/2022
+ms.locfileid: "8335299"
 ---
 # <a name="customize-business-central"></a>Настройка Business Central
 Существуют различные способы настройки приложения, чтобы предоставить вам и вашим коллегам доступ к функциям, функциональным возможностям и данным, которые нужны вам больше всего, способом, наиболее соответствующим вашей повседневной работе. Пользователи, которые смогут просмотреть изменения, зависят от того, что вы делаете, как описано в этой таблице.

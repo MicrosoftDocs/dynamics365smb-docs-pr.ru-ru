@@ -2,18 +2,17 @@
 title: Ввод, отслеживание и списание основных средств в России
 description: Вы можете управлять основными средствами с помощью функций актов учета основных средств в [!INCLUDE[prod_short](../../includes/prod_short.md)]. Акты учета основных средств служат для ввода, отслеживания и списания основных средств организации.
 author: DianaMalina
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: f0885e652054ed3d0ff8905724f83bffda1a94dd
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: af398cd279baa4972a54edd4319acc4f164193d9
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6444788"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8149269"
 ---
 # <a name="release-track-and-write-off-fixed-assets"></a>Ввод, отслеживание и списание основных средств
 

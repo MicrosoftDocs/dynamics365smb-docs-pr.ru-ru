@@ -2,7 +2,6 @@
 title: Как отменить учет сборки
 description: Иногда нужно отменить учтенный заказ на сборку, например если заказ был учтен с ошибками, которые необходимо исправить.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.keywords: kit, kitting
 ms.date: 06/14/2021
 ms.author: edupont
-ms.openlocfilehash: 48c454084e850b5dedf58c499263258c0ae8294c
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 245eaede4bce79fa3626d5a8a8d102b9c190ccaf
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6435348"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8143768"
 ---
 # <a name="undo-assembly-posting"></a>Отмена учета сборки
 Иногда может возникнуть необходимость отменить учтенный сборочный заказ, например в случае учете заказа с ошибками, которые нужно исправить, или потому, что он вообще не должен был быть учтен, и его нужно откатить.

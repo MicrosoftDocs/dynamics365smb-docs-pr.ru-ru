@@ -2,18 +2,17 @@
 title: Персонал и зарплата в России
 description: Российские усовершенствования включают в модуль персонала и зарплаты.
 author: DianaMalina
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 140ab8b37d4986e45d07b50fea25067befde5e9f
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: dbcc449bc7b4485fd4c0922747a39c034d9ac355
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5781701"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8149265"
 ---
 # <a name="human-resources"></a>Персонал и зарплата
 

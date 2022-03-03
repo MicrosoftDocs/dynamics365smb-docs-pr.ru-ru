@@ -2,7 +2,6 @@
 title: Настройка регистрации электронной почты | Документация Майкрософт
 description: Узнайте, как превратить взаимодействие по электронной почте между продавцами и клиентами в реальные возможности продаж.
 author: bholtorf
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.keywords: relationship, prospect, opportunity, email
 ms.date: 04/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: c1e47dba1c10b994cb43c21afbfdd548f85c774b
-ms.sourcegitcommit: 04055135ff13db551dc74a2467a1f79d2953b8ed
+ms.openlocfilehash: 2abc0406fa8e86646d2382a4c7bbb1e228439728
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/08/2021
-ms.locfileid: "7482349"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8148412"
 ---
 # <a name="track-email-message-exchanges-between-salespeople-and-contacts"></a>Отслеживание обмена сообщениями электронной почты между продавцами и контактами
 
@@ -31,7 +30,7 @@ ms.locfileid: "7482349"
 
 Начните работать с регистрацией электронной почты за два простых шага:
 
-1. Соедините [!INCLUDE[prod_short](includes/prod_short.md)] с Exchange Online для подписки Microsoft 365. Exchange Online обрабатывает ваши сообщения электронной почты. Мы упростили этот шаг, предоставив мастер настройки. Вам просто нужны ваши учетные данные администратора для вашей учетной записи администратора в Microsoft 365. Чтобы запустить руководство, выберите страницу **Мастер настройки**, затем выберите руководство **Настройка регистрации электронной почты**.  
+1. Соедините [!INCLUDE[prod_short](includes/prod_short.md)] с Exchange Online для своей подписки Microsoft 365. Exchange Online обрабатывает ваши сообщения электронной почты. Мы упростили этот шаг, предоставив мастер настройки. Вам нужны только ваши учетные данные администратора для вашей учетной записи администратора в Microsoft 365. Чтобы запустить руководство, выберите страницу **Мастер настройки**, затем выберите руководство **Настройка регистрации электронной почты**.  
 
 2. Убедитесь, что действительные адреса электронной почты были введены в [!INCLUDE[prod_short](includes/prod_short.md)] для ваших продавцов и контактов, в зависимости от того, являются ли они потенциальными или существующими клиентами. Для этого для каждого клиента или продавца откройте карточку **Контакт** или **Менеджер по продажам/закупкам** и посмотрите в поле **Адрес эл. почты**.
 

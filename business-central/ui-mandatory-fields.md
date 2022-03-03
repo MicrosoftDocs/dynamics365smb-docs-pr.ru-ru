@@ -1,22 +1,20 @@
 ---
-title: Обязательные поля для выполнения процессов | Документация Майкрософт
+title: Обязательные поля для выполнения процессов
 description: Узнайте о полях, помеченных красной звездочкой, что означает, они являются обязательными и должны быть заполнены для завершения процесса.
-services: project-madeira
-documentationcenter: ''
 author: SusanneWindfeldPedersen
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
+ms.search.form: 9020, 9022, 9026, 9027, 9030, 9000, 9004, 9005, 9018, 9006, 9007, 9010, 9016, 9017
 ms.date: 04/01/2021
 ms.author: solsen
-ms.openlocfilehash: 386025d90301f780f8bf5927de495658a100825f
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 2694b4489878d7d953d4075eaa5cc740b817d727
+ms.sourcegitcommit: cdb57f14960f58b1d36a1b373fbf35dfed5fad9e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5775279"
+ms.lasthandoff: 02/23/2022
+ms.locfileid: "8335219"
 ---
 # <a name="detecting-mandatory-fields"></a>Выявление обязательных полей
 При вводе данных на страницах в [!INCLUDE[prod_short](includes/prod_short.md)] некоторые поля помечаются красной звездочкой. Красная звездочка означает, что необходимо заполнить поле, чтобы завершить определенную процедуру, в которой используется это поле, например учесть транзакцию, в которой используется значение в поле.

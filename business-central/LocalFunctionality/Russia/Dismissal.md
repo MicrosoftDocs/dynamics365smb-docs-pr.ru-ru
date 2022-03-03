@@ -2,18 +2,17 @@
 title: Увольнение в России
 description: Российские улучшения включают увольнение сотрудников.
 author: DianaMalina
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 1e97f2433471c19c7d6b04e5646f5bf1acf757c5
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 855bd685fe86915a56f0b044ee7a4679d3d7cd69
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5771365"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8148886"
 ---
 # <a name="dismissal"></a>Увольнение
 

@@ -2,18 +2,17 @@
 title: Импорт и экспорт финансовых отчетов в России
 description: Российские усовершенствования включают импорт и экспорт финансовых отчетов.
 author: DianaMalina
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 8a714d9457c8ed5e174ca1364aef4cc8cd3cbf57
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: a8b15290f24bec79f05289dce892a06079af2b84
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6443545"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8149253"
 ---
 # <a name="import-and-export-account-schedules"></a>Импорт и экспорт финансовых отчетов
 

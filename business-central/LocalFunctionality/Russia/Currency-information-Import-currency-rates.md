@@ -2,18 +2,17 @@
 title: Информация о валюте в России
 description: Российские улучшения включают информацию о валюте для импорта курсов валют.
 author: DianaMalina
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 1e0a6470242658849c79660c0bdd03716e129851
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: b06b8561022391c9f5e43b88cb644dd3e8ced034
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5771367"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8148884"
 ---
 # <a name="currency-information-import-currency-rates"></a>Информация о валюте, импорт курсов валют
 

@@ -2,7 +2,6 @@
 title: Вопросы и ответы по OneDrive для бизнеса
 description: Получите ответы на некоторые типичные вопросы о работе с OneDrive для бизнеса и Business Central.
 author: bholtorf
-ms.service: dynamics365-business-central
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.keywords: OneDrive, integration, share, browser
 ms.date: 05/19/2021
 ms.author: bholtorf
-ms.openlocfilehash: 3d9058b3b0f751729d5538f36454bd8244a3594f
-ms.sourcegitcommit: 6ad0a834fc225cc27dfdbee4a83cf06bbbcbc1c9
+ms.openlocfilehash: f54e8b6290e9dd653180b3ea05246255b84dc2ae
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2021
-ms.locfileid: "7589497"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8144054"
 ---
 # <a name="onedrive-for-business-faq"></a>Вопросы и ответы по OneDrive для бизнеса
 
@@ -29,7 +28,7 @@ ms.locfileid: "7589497"
 
 ## <a name="is-onedrive-the-same-as-sharepoint-for-storing-files"></a>OneDrive то же самое, что и SharePoint, для хранения файлов?
 
-В рамках подписки на Microsoft 365 ваша организация предоставляет вам OneDrive, ваше файловое хранилище в облаке. OneDrive по умолчанию является частным, где вы упорядочиваете свой контент и выбираете, какими файлами или папками делиться и с кем. SharePoint, с другой стороны, предоставляет файловый репозиторий в облаке, который используется совместно с другими пользователями вашей организации.  
+В рамках подписки на Microsoft 365 ваша организация предоставляет вам OneDrive — файловое хранилище в облаке. OneDrive по умолчанию является частным, где вы упорядочиваете свой контент и выбираете, какими файлами или папками делиться и с кем. SharePoint, с другой стороны, предоставляет файловый репозиторий в облаке, который используется совместно с другими пользователями вашей организации.  
 
 ## <a name="does-prod_short-support-consumer-onedrive"></a>Поддерживает ли [!INCLUDE[prod_short](includes/prod_short.md)] OneDrive для потребителей?
 
@@ -37,7 +36,7 @@ ms.locfileid: "7589497"
 
 ## <a name="are-all-onedrive-for-business-plans-supported"></a>Поддерживаются все планы OneDrive для бизнеса?
 
-[!INCLUDE[prod_short](includes/prod_short.md)] не поддерживает автономные планы для OneDrive для бизнеса. OneDrive должны быть приобретены как часть плана Microsoft 365 для бизнеса или предприятия. Для получения дополнительной информации см. [Сравнивать цены и планы на облачное хранилище OneDrive](https://www.microsoft.com/microsoft-365/onedrive/compare-onedrive-plans?market=af&activetab=tab:primaryr2).  
+[!INCLUDE[prod_short](includes/prod_short.md)] не поддерживает автономные планы для OneDrive для бизнеса. OneDrive приобретается в составе плана Microsoft 365 "бизнес" или "корпоративный". Для получения дополнительной информации см. [Сравнивать цены и планы на облачное хранилище OneDrive](https://www.microsoft.com/microsoft-365/onedrive/compare-onedrive-plans?market=af&activetab=tab:primaryr2).  
 
 ## <a name="where-can-i-see-onedrive-service-health"></a>Где посмотреть работоспособность службы OneDrive?
 

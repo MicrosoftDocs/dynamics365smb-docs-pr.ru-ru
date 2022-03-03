@@ -3,7 +3,6 @@ title: Обзор получения данных о наличии
 description: Вы можете получать информацию о доступности товаров по складам, событиям продажи или покупки, периоду времени и другом.
 documentationcenter: ''
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: overview
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,12 +11,12 @@ ms.search.keywords: stock
 ms.search.form: 908, 909, 925, 926, 504, 501, 500, 499, 99000896, 342, 515, 5417, 5415, 5871, 5530, 492, 157, 5540, 5416, 5414, 1872, 1873, 99000902, 353, 491, 9231, 5390
 ms.date: 06/16/2021
 ms.author: edupont
-ms.openlocfilehash: 01efc9191cad10414c344b4fe3a28ae2cef63ef9
-ms.sourcegitcommit: 189bf08d7ddf6c8b7ef2c09058c6847aa6e590d3
+ms.openlocfilehash: 7884eaa5e929eed27607fe77b3bea31fe6a12dc8
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/31/2022
-ms.locfileid: "8060120"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8130518"
 ---
 # <a name="view-the-availability-of-items"></a>Просмотр наличия товара
 В контексте бизнес-задачи можно получить расширенную информацию о времени и месте приобретения товара, например при разговоре с клиентом о дате доставки.

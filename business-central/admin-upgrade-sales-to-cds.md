@@ -2,7 +2,6 @@
 title: Обновление интеграции с Dynamics 365 Sales
 description: В этой теме рассказывается, как переместить интеграцию Dynamics 365 Business Central с Dynamics 365 Sales в последнюю версию.
 author: bholtorf
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.keywords: sales, crm, integration, integrating
 ms.date: 06/14/2021
 ms.author: bholtorf
-ms.openlocfilehash: c6405326890b8f33b399f880e54d0fcf14db1650
-ms.sourcegitcommit: a486aa1760519c380b8cdc8fdf614bed306b65ea
+ms.openlocfilehash: 977238383e7f4e4745e48a1966fe7714125406eb
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/13/2021
-ms.locfileid: "6543024"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8148802"
 ---
 # <a name="upgrading-an-integration-with-dynamics-365-sales"></a>Обновление интеграции с Dynamics 365 Sales
 [!INCLUDE[prod_short](includes/prod_short.md)] интегрируется с [!INCLUDE[prod_short](includes/cds_long_md.md)], что позволяет легко подключать и синхронизировать данные с другими приложениями Dynamics 365, такими как [!INCLUDE[crm_md](includes/crm_md.md)], или даже с приложениями, которые вы создаете сами. Если вы впервые выполняете интеграцию, мы рекомендуем сделать это через [!INCLUDE[prod_short](includes/cds_long_md.md)]. Дополнительные сведения см. в разделе [Интеграция с Dataverse](admin-common-data-service.md).

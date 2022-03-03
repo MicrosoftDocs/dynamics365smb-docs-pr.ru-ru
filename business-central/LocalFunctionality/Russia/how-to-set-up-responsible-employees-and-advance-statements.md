@@ -2,18 +2,17 @@
 title: Настройка материально-ответственных сотрудников и авансовых отчетов в России
 description: Российские улучшения включают поддержку определения пользователей в качестве материально-ответственных сотрудников настройку авансовых отчетов, которые показывают платежи и другие документы по сотрудникам.
 author: DianaMalina
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 683aab0d32ccf1ebcf25129526490b4cf563be21
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: ac80197669730c1505c82e2f6ecde96cb54e1e17
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6444734"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8148876"
 ---
 # <a name="set-up-responsible-employees-and-advance-statements"></a>Настройка материально-ответственных сотрудников и авансовых отчетов
 
