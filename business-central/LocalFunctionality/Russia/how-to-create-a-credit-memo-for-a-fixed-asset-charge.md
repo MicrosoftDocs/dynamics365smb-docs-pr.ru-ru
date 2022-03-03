@@ -2,18 +2,17 @@
 title: Создание кредит-нот в России
 description: Российские усовершенствования включают кредит-ноты для издержек основных средств.
 author: DianaMalina
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 1af56b3ba739a5deb0daac3c7ba0193de7e1d150
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 1892a23f4e065fe12a719c3ef472833910a53003
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6441021"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8141789"
 ---
 # <a name="create-a-credit-memo-for-a-fixed-asset-charge"></a>Создание кредит-ноты для издержек ОС
 

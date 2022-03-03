@@ -2,18 +2,17 @@
 title: Налоговые регистры в России
 description: Российские улучшения включают налоговые регистры.
 author: DianaMalina
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 297fda45f4ec028d6eb18ca78d296accbaa6c7d1
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: dfdf49e42a7d65c00f50d5ab19c952dc8aff36bb
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5777569"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8131060"
 ---
 # <a name="tax-registers"></a>Налоговые регистры
 

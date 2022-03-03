@@ -2,7 +2,6 @@
 title: Настройка учетных записей пользователя для интеграции с Microsoft Dataverse | Документы Майкрософт
 description: Узнайте, как настроить учетные записи пользователей, которые приложения используют для обмена данными, и что используют люди для доступа к данным в приложениях и их синхронизации.
 author: bholtorf
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: e0bc05375930c506dc0ef9a7f1ea0263f47c1ad7
-ms.sourcegitcommit: 1508643075dafc25e9c52810a584b8df1d14b1dc
+ms.openlocfilehash: 6ed2346b1033559f24feafa1f9a527b4b817cfeb
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "8049696"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8143898"
 ---
 # <a name="setting-up-user-accounts-for-integrating-with-microsoft-dataverse"></a>Настройка учетных записей пользователя для интеграции с Microsoft Dataverse
 

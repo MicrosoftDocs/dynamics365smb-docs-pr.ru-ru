@@ -2,7 +2,6 @@
 title: Определение сроков и порядка получения уведомлений о рабочих процессах
 description: Когда вы настраиваете пользователей в рабочих процессах утверждения, вы можете указать, как и когда каждый пользователь утверждения будет получать уведомления.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/11/2021
 ms.author: edupont
-ms.openlocfilehash: 6812fa270066b03fa64a7d8c664ef4df8d28eff0
-ms.sourcegitcommit: 2c972dfc94d27245eaa99efcf638d030dedafb22
+ms.openlocfilehash: 3f663ca22cdcfde38b42ac0285eaf403a9e0982d
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/09/2022
-ms.locfileid: "8102503"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8129171"
 ---
 # <a name="specify-when-and-how-to-receive-workflow-notifications"></a>Определение сроков и порядка получения уведомлений о рабочих процессах
 Когда вы настраиваете утверждающих пользователей в рабочих процессах, где вы хотите, чтобы кто-то утверждал изменения, например, когда создаются новые записи или когда кто-то запрашивает утверждение, вы должны указать, как и когда утверждающий пользователь будет уведомлен. Например, вы можете указать, что утвержденный пользователь будет немедленно получать электронное письмо, когда кто-то создает нового клиента. Кроме того, вы можете запланировать доставку уведомлений, например, еженедельно или ежемесячно.

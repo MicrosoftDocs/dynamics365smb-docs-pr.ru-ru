@@ -2,7 +2,6 @@
 title: Сопоставление полей для экспорта файлов банковских платежей | Документация Майкрософт
 description: При экспорте файлов платежей с использованием расширения AMC Banking 365 Fundamentals экспортируемые данные предоставляются поставщику услуг.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: f705334d42d27e22d9108a410ab91a213c725a4d
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 46664dac24f5da8eab714f1be303e4fb7241496d
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6437756"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8131038"
 ---
 # <a name="field-mapping-when-exporting-payment-files-using-the-amc-banking-365-fundamentals-extension"></a>Сопоставление полей при экспорте файлов платежей с использованием расширения AMC Banking 365 Fundamentals
 При экспорте файлов платежей с использованием расширения AMC Banking 365 Fundamentals экспортируемые данные предоставляются поставщику услуг. Поставщик услуг отвечает за конфиденциальность этих данных. Дополнительные сведения о расширении AMC Banking 365 Fundamentals см. в разделе [Использование расширения AMC Banking 365 Fundamentals](ui-extensions-amc-banking.md).  

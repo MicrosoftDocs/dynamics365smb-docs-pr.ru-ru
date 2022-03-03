@@ -1,15 +1,14 @@
 ---
 author: jill-kotel-andersson
-ms.service: dynamics365-business-central
 ms.topic: include
 ms.date: 09/27/2021
 ms.author: edupont
-ms.openlocfilehash: 410aca90e40ee714f35ad9ff1fd8b96d398c9d8e
-ms.sourcegitcommit: 428ba6385cb27475e8803c2a8967daa22cfe8879
+ms.openlocfilehash: 0adf8b93cd5cfb6349e829ceb88f4f9428892051
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/29/2021
-ms.locfileid: "7724543"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8128508"
 ---
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать 2.](../media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Поставщики**, а затем выберите связанную ссылку.  
 2. На странице **Поставщики** выберите **Создать**.

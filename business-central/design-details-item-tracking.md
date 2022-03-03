@@ -2,7 +2,6 @@
 title: 'Сведения о проектировании: трассировка товара'
 description: Система отслеживания товаров обеспечивает простую обработку серийных номеров и номеров партий, которые могут потребоваться для соблюдения требований законодательства или помощи при обработке гарантии.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/15/2021
 ms.author: edupont
-ms.openlocfilehash: 788d003324ccf7314d316f201cc561e0a2877933
-ms.sourcegitcommit: e562b45fda20ff88230e086caa6587913eddae26
+ms.openlocfilehash: 55e8463e788e222265a0ec837196c55726caf53e
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "6320293"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8146622"
 ---
 # <a name="design-details-item-tracking"></a>Сведения о проектировании: трассировка товара
 По мере усложнения потока товаров в текущей цепочке поставок организациям становится все более важно иметь возможность отслеживать товары. Отслеживание потока транзакций по товару — это юридическое требование в сфере медицинских и химических поставок, но в других бизнес-сферах может потребоваться отслеживать продукты с гарантиями или сроками годности в целях обслуживания клиентов.  

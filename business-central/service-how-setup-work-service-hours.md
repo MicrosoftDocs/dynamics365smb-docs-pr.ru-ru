@@ -2,7 +2,6 @@
 title: Практическое руководство. Настройка рабочих часов и часов работы сервиса
 description: Узнайте, как настроить время работы и сервиса для вычисления даты и времени отклика на сервисные заказы и предложения.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/23/2021
 ms.author: edupont
-ms.openlocfilehash: 2e5dac47a5d4e3ac8e707879b28660f3f62ed1ae
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 919b9c19f93e82c1dc738894e0828fc91f2af46c
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6436480"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8139265"
 ---
 # <a name="set-up-work-hours-and-service-hours"></a>Настройка рабочих часов и часов работы сервиса
 Как правило, система сервисного управления отслеживает время использования ресурсов и статус сервисных заказов с целью прогнозирования рабочих нагрузок и потребностей в сервисе. В [!INCLUDE[prod_short](includes/prod_short.md)] предусмотрены встроенные средства, которые можно настроить индивидуально для записи такого рода информации.  

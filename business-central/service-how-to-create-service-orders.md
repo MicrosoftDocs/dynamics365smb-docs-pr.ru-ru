@@ -2,7 +2,6 @@
 title: Как создавать сервисные заказы продажи
 description: Изучите различные задачи, связанные с созданием сервисных заказов в Business Central, такие как создание нового сервисного заказа или заказов на основе сервисного контракта.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/23/2021
 ms.author: edupont
-ms.openlocfilehash: adac8451aadd5aa5d6c772b16baefe60dea317b1
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: d74aa4a4898010f4aeb3adfee37f4628dbea1f30
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6441939"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8140635"
 ---
 # <a name="create-service-orders"></a>Создание сервисных заказов
 Страницу **Сервисный заказ** можно использовать для создания документов, в которые вводится информация о сервисе, например ремонте и обслуживании, для сервисных товаров по запросу клиента.  

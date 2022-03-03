@@ -3,7 +3,6 @@ title: Использование OCR для преобразования PDF в
 description: Описывает процедуру использования службы OCR для преобразования входящих PDF или графических файлов в электронные документы.
 documentationcenter: ''
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,12 +10,12 @@ ms.workload: na
 ms.search.keywords: electronic document, e-invoice, incoming document, OCR, ecommerce, document exchange, import invoice
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: a5defde47d21492c104c767f21165573221a1e51
-ms.sourcegitcommit: 6ad0a834fc225cc27dfdbee4a83cf06bbbcbc1c9
+ms.openlocfilehash: 5464f2770ca603a67b825ff8b5908cb7ac255d9b
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2021
-ms.locfileid: "7587534"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8141545"
 ---
 # <a name="use-ocr-to-turn-pdf-and-image-files-into-electronic-documents"></a>Использование OCR для преобразования PDF-файлов и файлов изображений в электронные документы
 Из PDF-файлов или файлов изображений, получаемых от торговых партнеров, с помощью внешнего сервиса OCR (оптическое распознавание символов) можно создавать электронные документы, подходящие для преобразования в записи документов в [!INCLUDE[prod_short](includes/prod_short.md)]. Например, при получении от поставщика счета в формате PDF можно отправить его в службу OCR на странице **Входящие документы**. Это описано в первой процедуре.

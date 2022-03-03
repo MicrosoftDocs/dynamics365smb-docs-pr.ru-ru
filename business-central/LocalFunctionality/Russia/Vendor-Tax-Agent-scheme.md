@@ -2,18 +2,17 @@
 title: Схема налогового агента поставщика в России
 description: Российские усовершенствования включают схемы налоговых агентов поставщиков.
 author: DianaMalina
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: f92e284150926fcd24530777c13722e7a72228aa
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: aac99223f26b3f28a4e1511f383ee09be5bde307
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5773458"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8133492"
 ---
 # <a name="vendor-tax-agent-scheme"></a>Схема налогового агента поставщика
 

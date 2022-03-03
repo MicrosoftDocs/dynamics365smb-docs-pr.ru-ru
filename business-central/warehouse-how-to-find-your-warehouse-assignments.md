@@ -2,7 +2,6 @@
 title: Как искать складские назначения
 description: В этом разделе объясняется, как найти назначенные вам складские назначения на странице «Карточка товара» после создания для вас инструкций.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/24/2021
 ms.author: edupont
-ms.openlocfilehash: 6c861ed1f068d6381d99ef0761244befd08ba43a
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 5fe603b5cb2499c4b74e29725ee1747219d37e27
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6444134"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8141981"
 ---
 # <a name="find-your-warehouse-assignments"></a>Поиск складских назначений
 Чтобы найти складские назначения, откройте страницу карточки для выбранного товара. Если складские инструкции созданы, то строки «Взять» и «Поместить» будут видимыми, и можно приступать к работе над назначением. На некоторых складах менеджер может назначить специальные инструкции для каждого работника. Дополнительные сведения см. в разделе [Настройка работников склада](warehouse-how-to-set-up-warehouse-employees.md).

@@ -2,7 +2,6 @@
 title: Управление интеграцией Microsoft Teams с Business Central | Документация Майкрософт
 description: Управление интеграцией Business Central с Microsoft Teams.
 author: jswymer
-ms.service: dynamics365-business-central
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.keywords: Teams, MS Teams, Microsoft Teams, Skype, Link, Microsoft 365, collaborate, collaboration, teamwork
 ms.date: 04/12/2021
 ms.author: jswymer
-ms.openlocfilehash: 7fef0f2ffe23155e840fa89a62b1822fee1efd35
-ms.sourcegitcommit: 6ad0a834fc225cc27dfdbee4a83cf06bbbcbc1c9
+ms.openlocfilehash: 4d6e329dbf6c8d5badfcb317261db18d8432d303
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2021
-ms.locfileid: "7589086"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8147038"
 ---
 # <a name="managing-microsoft-teams-integration-with-prod_short"></a>Управление интеграцией Microsoft Teams с [!INCLUDE [prod_short](includes/prod_short.md)]
 
@@ -120,7 +119,7 @@ Microsoft Teams обеспечивает обширный контроль за 
 
 Вы также можете использовать информационные барьеры, чтобы люди или группы не могли общаться друг с другом. Дополнительные сведения см. в разделе [Информационные барьеры в Microsoft Teams](/microsoftteams/information-barriers-in-teams).
 
-Функции предотвращения потери данных в Центре безопасности и соответствия требованиям Microsoft 365 нельзя применять специально к карточкам. Но их можно применить к сообщениям чата, содержащим карточки. <!-- To track upcoming advanced features that include enabling DLP for cards, see [https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=67093](https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=67093).-->
+Функции предотвращения потери данных в Центре безопасности и соответствия требованиям Microsoft 365 нельзя применять к самим карточкам. Но их можно применить к сообщениям чата, содержащим карточки. <!-- To track upcoming advanced features that include enabling DLP for cards, see [https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=67093](https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=67093).-->
 
 ### <a name="responding-to-data-requests"></a>Ответы на запросы данных
 

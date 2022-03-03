@@ -2,18 +2,17 @@
 title: Корреспонденция финансовых операций в России
 description: Российские улучшения включают корреспонденцию финансовых операций.
 author: DianaMalina
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 4e496bdac34212955b0c99cbbf0851f4882633ce
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: ddea0492ceddf3798c3cc8ea7c3d6b841c1156e5
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6441027"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8134455"
 ---
 # <a name="general-ledger-correspondence"></a>Корреспонденция финансовых операций
 

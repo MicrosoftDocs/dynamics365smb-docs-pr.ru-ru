@@ -2,18 +2,17 @@
 title: Регистрация НДС по заказам на покупку в России
 description: Российские усовершенствования включают поддержку НДС в заказах на покупку.
 author: DianaMalina
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 5b741cdcd94b0425e2f6a76463c4dc237d8c07a9
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 61ee8761d1227aa30f29ca9bbd50113edc06ac4f
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6442645"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8129321"
 ---
 # <a name="register-vat-on-purchase-orders"></a>Регистрация НДС по заказам на покупку
 

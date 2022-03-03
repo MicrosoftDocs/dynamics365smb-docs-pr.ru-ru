@@ -2,18 +2,17 @@
 title: Настройка счетов нематериальных активов в России
 description: Российские усовершенствования включают учет нематериальных активов на выделенном счете.
 author: DianaMalina
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: f33357aeb164f58cc42f4d0aa698797f8f25ea90
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: eae7d6e1c263667cb45a0ec3e0cf807fc7be9503
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6442637"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8147326"
 ---
 # <a name="set-up-an-intangible-assets-account"></a>Настройка счета нематериальных активов
 

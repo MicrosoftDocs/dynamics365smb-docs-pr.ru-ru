@@ -2,7 +2,6 @@
 title: Настройка электронной почты в Business Central (содержит видео)
 description: Описывается, как подключить учетные записи электронной почты к Business Central, чтобы вы могли отправлять исходящие сообщения, не открывая другое приложение.
 author: bholtorf
-ms.service: dynamics365-business-central
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,12 +10,12 @@ ms.search.keywords: SMTP, email, Office 365, connector
 ms.search.form: 1805, 9813, 9814, 1262, 1263
 ms.date: 04/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: 7e71694e59dcd17072bb7616324953ca02117a89
-ms.sourcegitcommit: c05806689d289d101bd558696199cefbd989473e
+ms.openlocfilehash: dfeb85bae0329059d4dda9b5edc302b4d0e908e6
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2022
-ms.locfileid: "8115070"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8142553"
 ---
 # <a name="set-up-email"></a>Настройка электронной почты
 Сотрудники предприятий ежедневно отправляют по электронной почте информацию и документы, такие как заказы на продажу и покупку и счета-фактуры. Администраторы могут сделать это проще, подключив одну или несколько учетных записей электронной почты к [!INCLUDE[prod_short](includes/prod_short.md)], так что вы можете отправлять документы, не открывая приложение электронной почты. Вы можете составлять каждое сообщение индивидуально с помощью основных инструментов форматирования, таких как шрифты, стили, цвета и т. д., и добавлять вложения размером до 100 МБ. Администраторы также могут настроить макеты отчетов, которые включают только ключевую информацию из документов. Дополнительные сведения см. в разделе [Отправка документов по электронной почте](ui-how-send-documents-email.md).

@@ -2,18 +2,17 @@
 title: Учет налоговых разниц в России
 description: Российские улучшения включают учет налоговых разниц.
 author: DianaMalina
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 27c362a436aad848d15760a7c3a84f50890be4e4
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 11c81c023d8c1e6c6c108279cb2dc017d03e2f70
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6443516"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8136672"
 ---
 # <a name="post-tax-differences"></a>Учет налоговых разниц
 

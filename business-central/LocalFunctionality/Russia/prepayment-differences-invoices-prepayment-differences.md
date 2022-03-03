@@ -2,18 +2,17 @@
 title: Авансовые разницы в России
 description: Российские усовершенствования включают управление авансовыми разницами.
 author: DianaMalina
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: eccc58e2fd9558ab9c64d1754b2d5dc201b8fc6a
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: bc924a65454ccbd899748080d5fe6bedad3a863b
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5781413"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8135519"
 ---
 # <a name="prepayment-differences"></a>Авансовые разницы
 

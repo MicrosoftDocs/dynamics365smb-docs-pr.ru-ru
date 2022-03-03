@@ -2,7 +2,6 @@
 title: Использование перевода разницы на счет для выверки платежей
 description: Описывается, как обрабатывать платежи,которые невозможно применить к документу, например, если возникает разница сумм из-за валютных курсов.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.keywords: payment process, cash receipts
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 2964f1fb9a0944d87adf77e9c2127a2fde5b13dd
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 1f6fdc38e85944541c908c3c658f14496c619c0a
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6445455"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8139447"
 ---
 # <a name="reconcile-payments-that-cannot-be-applied-automatically"></a>Выверка платежей, которые не могут быть применены автоматически
 Иногда может понадобиться обработать платежи на банковский счет, которые не могут быть применены к соответствующей отрытой операции книги клиентов, поставщиков или банковских счетов. Причинами могут быть отсутствие в [!INCLUDE[prod_short](includes/prod_short.md)] документа, к которому можно применить платеж, или расхождение в суммах между документом в [!INCLUDE[prod_short](includes/prod_short.md)] и транзакцией, например из-за обмена валюты. На странице **Журнал выверки платежей** все суммы транзакций для платежей, которые еще не применены, отображаются в поле **Разница**, включая суммы, которые не могут быть применены по вышеуказанным причинам.

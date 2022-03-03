@@ -1,15 +1,14 @@
 ---
 author: edupont04
-ms.service: dynamics365-business-central
 ms.topic: include
 ms.date: 01/19/2022
 ms.author: edupont
-ms.openlocfilehash: 0c55abcc47b8d9b786bfce9d1d95673c817b231d
-ms.sourcegitcommit: 8464b37c4f1e5819aed81d9cfdc382fc3d0762fc
+ms.openlocfilehash: e51ca836aa5add5f6cf84fb9da9cb42c163bf97c
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/19/2022
-ms.locfileid: "8013697"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8145294"
 ---
 > [!IMPORTANT]  
 > При учете заказа создается расходная накладная и счет. Эти документы можно выполнять одновременно и независимо друг от друга. Можно создавать частичную расходную накладную и частичный счет, заполнив поля **Кол-во для отгрузки** и **Кол-во для выставления счета** в строках отдельных заказов на продажу перед учетом. Следует отметить, что невозможно создавать счет по тому, что еще не отгружено. Т.е. прежде, чем выставлять счет, следует зарегистрировать расходную накладную или следует выбрать одновременное выполнение отгрузки и выставления счета.

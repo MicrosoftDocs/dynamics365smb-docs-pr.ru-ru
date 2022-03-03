@@ -2,18 +2,17 @@
 title: Малоценные основные средства в России
 description: Российские усовершенствования включают управление основными средствами, которые нельзя амортизировать.
 author: DianaMalina
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 7a35a8aa40b517cf9893e1652db0ff01f11d8249
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: c0b79d230b37a37f879b22a72b90d06e36751351
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6444088"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8135517"
 ---
 # <a name="undepreciable-fixed-assets"></a>Малоценные основные средства
 

@@ -2,18 +2,17 @@
 title: Создание налоговых регистров в России
 description: Описывает, как создавать налоговые регистры в России.
 author: DianaMalina
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: fef3d127d341ef8cbdaa936ee40a9613392ced8d
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: cdd402a45ac0b744009274925b4af6848b630a22
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5784966"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8129331"
 ---
 # <a name="create-tax-registers"></a>Расчет налоговых регистров
 

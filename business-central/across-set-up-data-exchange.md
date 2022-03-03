@@ -2,7 +2,6 @@
 title: Настроить обмен данными для отправки и получения файлов
 description: Чтобы отправлять и получать электронные документы и импортировать или экспортировать банковские файлы, необходимо настроить платформу обмена данными для обмена внешними файлами.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/11/2021
 ms.author: edupont
-ms.openlocfilehash: 0b94d258a07ba65c81f329144d12a8b4e10093a9
-ms.sourcegitcommit: e562b45fda20ff88230e086caa6587913eddae26
+ms.openlocfilehash: 9736a1ea6c0da0381a14c8e77eabaaf752ea9f34
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "6325097"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8133282"
 ---
 # <a name="setting-up-data-exchange"></a>Настройка обмена данными
 Прежде чем отправлять и получать электронные документы и импортировать или экспортировать банковские файлы, необходимо настроить платформу обмена данными для обработки соответствующих файлов. Кроме того, вы должны настроить связанные области, такие как клиенты, которым вы отправляете электронные счета, или расширение AMC Banking 365 Fundamentals, если вы используете внешнего поставщика услуг для преобразования ваших банковских файлов. Дополнительные сведения см. в разделе [Электронный обмен данными](across-data-exchange.md).  

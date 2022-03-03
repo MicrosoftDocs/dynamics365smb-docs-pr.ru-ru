@@ -2,7 +2,6 @@
 title: Настройка организации с RapidStart Services
 description: Вы можете создать новую компанию в Business Central с помощью RapidStart Services для повышения производительности за счет автоматизации и упрощения повторяющихся задач.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/14/2021
 ms.author: edupont
-ms.openlocfilehash: 813ac2b7c8fe074e9c1f2572f947b92156a56d1a
-ms.sourcegitcommit: ecbabd2d0fdf2566cea4a05a25b09ff6ca6256c6
+ms.openlocfilehash: c5e47b4e866ce25a0a2cac84e00630b371f6e2b2
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6649791"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8147064"
 ---
 # <a name="setting-up-a-company-with-rapidstart-services"></a>Настройка организации со службами RapidStart Services
 Можно настроить новую организацию в [!INCLUDE[prod_short](includes/prod_short.md)] с помощью служб RapidStart Services — инструмента, предназначенного для ускорения развертывания, повышения качества внедрения, использования единого подхода к внедрению и повышения производительности за счет автоматизации и упрощения повторяющихся задач.  

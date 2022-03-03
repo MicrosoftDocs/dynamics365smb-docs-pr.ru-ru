@@ -2,7 +2,6 @@
 title: Сведения о проектировании — учет заказа на сборку
 description: Учет заказа на сборку основан на тех же принципах, что и учет похожих операций заказов на продажу и потребления/выход производства.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/15/2021
 ms.author: edupont
-ms.openlocfilehash: 155fbf64c5ca0dcffce22f16f7ffbfc6375250f1
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 2ec7e242bd174f3a825a29923b33642d035ec4ca
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6442564"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8132117"
 ---
 # <a name="design-details-assembly-order-posting"></a>Сведения о проектировании: учет заказа на сборку
 Учет заказа на сборку основан на тех же принципах, что и учет похожих операций заказов на продажу и потребления/выход производства. Однако эти принципы объединены в заказах на сборку, которые имеют собственный пользовательский интерфейс учета, как в заказах на продажу, в то время как фактический учет операций осуществляется в фоновом режиме в виде прямого учета журнала товаров и ресурсов, как для производственного потребления, выхода и производственной мощности.  

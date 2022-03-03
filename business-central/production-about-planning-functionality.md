@@ -2,7 +2,6 @@
 title: О функциональности планирования
 description: Система планирования в Dynamics 365 Business Central учитывает все данные спроса и предложения, сравнивает результаты и генерирует предложения для соответствия между предложением и спросом.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.form: 5430
 ms.date: 07/16/2021
 ms.author: edupont
-ms.openlocfilehash: 89934218c50dde53452b678422c003ea9aa48f9f
-ms.sourcegitcommit: 2ab6709741be16ca8029e2afadf19d28cf00fbc7
+ms.openlocfilehash: 14048cfe4d18df0002f51dacac658a6c07bc0155
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/14/2022
-ms.locfileid: "7972438"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8135111"
 ---
 # <a name="about-planning-functionality"></a>О функциональности планирования
 

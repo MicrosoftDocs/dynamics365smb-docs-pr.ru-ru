@@ -2,18 +2,17 @@
 title: Печать отчета "Журнал регистрации кассовых документов КО-3" в России
 description: Улучшения в России включают поддержку отчета "Журнал регистрации кассовых документов КО-3"
 author: DianaMalina
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: a426b54bbf5c42d072d301409da497321a7d25ca
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 11271174e614df3c6e842c5773bad27b25e62700
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6442647"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8142623"
 ---
 # <a name="print-the-cash-order-journal-co-3-report"></a>Печать отчета "Журнал регистрации кассовых документов КО-3"
 

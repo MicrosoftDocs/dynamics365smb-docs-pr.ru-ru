@@ -2,7 +2,6 @@
 title: Использование шаблонов Word для массовых сообщений | Документация Майкрософт
 description: Шаблоны Word могут упростить массовое создание документов, персонализированных для определенных сущностей.
 author: bholtorf
-ms.service: dynamics365-business-central
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.keywords: document, mail, merge, Word, template, email
 ms.date: 04/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: c624d718d27de607aed49a82a506f81eec57247c
-ms.sourcegitcommit: 6ad0a834fc225cc27dfdbee4a83cf06bbbcbc1c9
+ms.openlocfilehash: 9e87e86ea4f267bea0e636f16fab55ae485ee8cf
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2021
-ms.locfileid: "7588911"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8145320"
 ---
 # <a name="using-word-templates-for-bulk-communication"></a>Использование шаблонов Word для массовых сообщений
 Шаблоны Microsoft Word могут упростить массовые сообщения в печатном виде или по электронной почте с такими сущностями, как контакты, клиенты и поставщики. Например, вы можете создавать буклеты для оповещения клиентов о кампании распродаж, письма для информирования поставщиков о новой политике закупок или приглашения для привлечения контактов на предстоящее мероприятие.

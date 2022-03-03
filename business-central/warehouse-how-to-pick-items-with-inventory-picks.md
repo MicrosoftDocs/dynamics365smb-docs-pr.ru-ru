@@ -2,7 +2,6 @@
 title: Как выполнять подбор товаров с помощью подбора запасов
 description: Если настройки склада требуют обработку подбора, а не обработку отгрузки, то для регистрации и учета информации о подборе и отгрузке для документов-источников следует использовать документы подбора запасов.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 05bd840f0e4db2f383544b99d3edc26a443f423b
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: b0f0bf09670620a36ee696fdc9d1483a2c33f77b
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6438211"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8144337"
 ---
 # <a name="pick-items-with-inventory-picks"></a>Подбор товаров с помощью подбора запасов
 

@@ -2,7 +2,6 @@
 title: Продление пробной версии Business Central
 description: Если требуется дополнительные времени, чтобы определить, нужно ли подписаться на Dynamics 365 Business Central, имеется возможность один раз продлить пробную версию. Узнайте о своих возможностях.
 author: bholtorf
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: 0843dee0e0ac392f138bfa7632635dff8d6411ce
-ms.sourcegitcommit: 1aab52477956bf1aa7376fc7fb984644bc398c61
+ms.openlocfilehash: 571b71ed67a14151d668fa6e1b37a837a989a693
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/04/2021
-ms.locfileid: "6184278"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8129112"
 ---
 # <a name="need-more-time-to-decide-whether-to-subscribe"></a>Нужно больше времени на принятие решения о подписке?
 
@@ -29,7 +28,7 @@ ms.locfileid: "6184278"
 
     войдите в систему с учетной записью электронной почты, которую вы использовали при регистрации в пробной версии.  
 
-    Если вы зарегистрировались с учетной записью электронной почты от [30-дневной пробной версии Microsoft 365](/microsoft-365/commerce/sign-up-for-office-365-trial), тогда вы должны сначала продлить пробную версию Microsoft 365 или купить подписку на Microsoft 365. Дополнительные сведения см. в разделе [Продление пробной версии на Microsoft 365 для бизнеса](/microsoft-365/commerce/extend-your-trial).
+    Если вы зарегистрировались с учетной записью электронной почты от [30-дневной пробной версии Microsoft 365](/microsoft-365/commerce/sign-up-for-office-365-trial), вы должны сначала продлить пробную версию Microsoft 365 или купить подписку на Microsoft 365. Дополнительные сведения см. в разделе [Продление пробной версии на Microsoft 365 для бизнеса](/microsoft-365/commerce/extend-your-trial).
 2. В уведомлении, которое отображается поверх рабочей области, выберите **Продлить пробный период**.
 
     Если вы проигнорировали уведомление, необходимо выйти из системы и снова войти в нее.

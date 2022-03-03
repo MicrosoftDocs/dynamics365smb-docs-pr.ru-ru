@@ -2,7 +2,6 @@
 title: Выверка банковских счетов и применение платежей
 description: Описываются задачи по выверке банковских счетов, счетов расчетов с клиентами и поставщиками, учету приходных кассовых поступлений и расходов и автоматическому применению платежей.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,12 +10,12 @@ ms.search.keywords: payment process, direct payment posting, reconcile payment, 
 ms.search.form: 1290, 1291, 1293, 1294
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 12da473253ff3c494ec2c63e4fbfc32aedd5d1f9
-ms.sourcegitcommit: f4b32ba1f926a2a712400c36305616f320757723
+ms.openlocfilehash: 9eb37571da51c0bab1fed0f6f62170208e7ee8c6
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/08/2022
-ms.locfileid: "8101221"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8146180"
 ---
 # <a name="applying-payments-automatically-and-reconciling-bank-accounts"></a>Автоматическое применение платежей и выверка банковских счетов
 Следует регулярно выверять банковский, дебетовый и кредитовый счета путем применения платежей, зарегистрированных на банковском счете, к связанным открытым (неоплаченным) счетам и кредит-нотам либо к другим открытым операциям в [!INCLUDE[prod_short](includes/prod_short.md)].  

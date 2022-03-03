@@ -2,7 +2,6 @@
 title: Сведения о проектировании — структура интерфейса учета
 description: В этом разделе приведен обзор глобальных процедур и сведения о дизайне в структуре интерфейса учета.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.keywords: posting, interface, design
 ms.date: 06/15/2021
 ms.author: edupont
-ms.openlocfilehash: 80805675a3ecb1c847f0a55c2dc50008faa3b21f
-ms.sourcegitcommit: e562b45fda20ff88230e086caa6587913eddae26
+ms.openlocfilehash: ed590455c9edbe5b8727988d4300172223bd2056
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "6318388"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8131929"
 ---
 # <a name="design-details-posting-interface-structure"></a>Сведения о проектировании: структура интерфейса учета
 В структуре интерфейса учета [!INCLUDE[prod_short](includes/prod_short.md)] существует несколько глобальных процедур, использующих одну и ту же структуру:  

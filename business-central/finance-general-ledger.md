@@ -2,7 +2,6 @@
 title: Сведения о главной книге и плане счетов
 description: Описывает главную книгу, план счетов и категории счетов. На странице Настройка ГК укажите, как требуется обрабатывать определенные ситуации учета в вашей организации.
 author: edupont04
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,12 +10,12 @@ ms.search.keywords: analysis, history, track
 ms.search.form: 18, 20, 37, 65, 99, 312, 313, 395, 552, 569, 570, 634, 790, 791, 1158
 ms.date: 12/03/2021
 ms.author: edupont
-ms.openlocfilehash: 98aca02ceba638b65849ff8218bafe07be2190db
-ms.sourcegitcommit: 2ab6709741be16ca8029e2afadf19d28cf00fbc7
+ms.openlocfilehash: 78d4ce41c4c6e85751134b51efe181380da8a0e4
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/14/2022
-ms.locfileid: "7973071"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8138073"
 ---
 # <a name="understanding-the-general-ledger-and-the-chart-of-accounts"></a>Принципы работы с главной книгой и планом счетов
 

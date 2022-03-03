@@ -2,7 +2,6 @@
 title: Как разместить товары с помощью складского размещения
 description: Прочтите о том, как использовать документ «Размещение запасов» для записи и разноски информации о размещении и приемке для ваших исходных документов.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/25/2021
 ms.author: edupont
-ms.openlocfilehash: e28e565858f4dc6fc1e01c614914b0b1620c9659
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 02d3f8dca5381ecebac7cb2d980841a2e5897846
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6438111"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8138158"
 ---
 # <a name="put-items-away-with-inventory-put-aways"></a>Размещение товаров с помощью складского размещения
 Если настройки склада таковы, что требуется обработка размещения, но не требуется обработка приемки, то, чтобы зарегистрировать и учесть информацию о размещении и приемке для документов-источников, нужно пользоваться документом **Размещение запасов**. Входящим документом-источником может быть заказ покупки, заказ возврата продажи, входящий заказ передвижения, заказ на сборку или производственный заказ, готовая продукция которого готова для размещения.  

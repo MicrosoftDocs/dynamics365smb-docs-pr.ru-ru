@@ -2,7 +2,6 @@
 title: Практическое руководство. Создание специальных заказов
 description: Узнайте, как создавать специальный заказ для отгрузки конкретного товара из каталога конкретному клиенту.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/23/2021
 ms.author: edupont
-ms.openlocfilehash: 80c26420a4a8e90a2a2b076169f6af505343ad76
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: d879e8cfb556ca0c7fc496f72ec653826e8d7db9
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6440257"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8128717"
 ---
 # <a name="create-special-orders"></a>Создание специальных заказов
 Для отгрузки товара из каталога конкретному клиенту можно создать специальный заказ. Поставщик отгружает товар на склад организации, после чего этот товар отгружается в адрес клиента либо отдельно, либо вместе с другими товарами по другому заказу.  

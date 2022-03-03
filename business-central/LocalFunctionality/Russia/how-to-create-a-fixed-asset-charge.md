@@ -2,18 +2,17 @@
 title: Создание издержек основных средств в России
 description: Российские улучшения включают издержки ОС.
 author: DianaMalina
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: fb448a94869f2b6947f7f5cc6aa2d7392030feb3
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: ffa1568be0f416b516fdad772283b41c26e4b150
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6441019"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8144140"
 ---
 # <a name="create-a-fixed-asset-charge"></a>Создание издержек ОС
 

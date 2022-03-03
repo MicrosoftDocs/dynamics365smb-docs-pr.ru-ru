@@ -2,7 +2,6 @@
 title: Создание предложений по продаже
 description: Узнайте о процессе создания предложения по продаже или запроса предложения (RFQ) для записи вашего предложения клиенту или потенциальному клиенту для продажи продуктов на определенных условиях.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,12 +10,12 @@ ms.search.keywords: rfq
 ms.search.form: 41, 9300
 ms.date: 07/12/2021
 ms.author: edupont
-ms.openlocfilehash: c4abee09dfe5b0f2d2e26680f2822552747b4b86
-ms.sourcegitcommit: a9e2aaee735870af566db68532cfa697347d68e0
+ms.openlocfilehash: a493c2de0747e7674bd9e9771b63f8d3ddd1f534
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/04/2021
-ms.locfileid: "7752395"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8130180"
 ---
 # <a name="make-sales-quotes"></a>Создание предложений по продаже
 

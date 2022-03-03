@@ -2,7 +2,6 @@
 title: Настройка службы обмена документами | Документация Майкрософт
 description: Внешний поставщик службы используется для обмена электронными документами с деловыми партнерами.
 author: bholtorf
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/11/2021
 ms.author: edupont
-ms.openlocfilehash: eea1b946814803c1f05d5b4985d3c5330931fbc6
-ms.sourcegitcommit: 6ad0a834fc225cc27dfdbee4a83cf06bbbcbc1c9
+ms.openlocfilehash: 8804b9bb7f7b8112e54e8a9953198db8686f768d
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2021
-ms.locfileid: "7588755"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8133386"
 ---
 # <a name="set-up-a-document-exchange-service"></a>Настройка службы обмена документами
 В рамках платформы обмена данными вы можете обмениваться документами купли-продажи со своими торговыми партнерами без дополнительных действий, таких как прикрепление документов к сообщениям электронной почты в виде файлов PDF. Например, когда вы готовы выставить счет клиенту, вы можете разнести счет и отправить его на оплату в виде файла, который ваш клиент может получить в своем приложении для управления бизнесом. Дополнительные сведения см. в разделе [Электронный обмен данными](across-data-exchange.md).

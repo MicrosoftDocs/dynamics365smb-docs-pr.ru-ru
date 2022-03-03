@@ -2,7 +2,6 @@
 title: Подбор для внутренних операций в расширенных конфигурациях склада
 description: Если в ваших местоположениях используется комплектация и отгрузка, выберите компоненты для производственной и сборочной деятельности на странице "Складской подбор".
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 5ef90e4c99a567e6abe18f06b8a9be29365323bb
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 5df764b1ca184d1f70dd67c08abf0505833dc2aa
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6445776"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8139135"
 ---
 # <a name="pick-for-production-or-assembly-in-advanced-warehouse-configurations"></a>Подбор для производства или сборки в расширенных конфигурациях склада
 В расширенных конфигурациях склада, где склад настроен на использование подбора и отгрузки, можно выбрать компоненты для производственных и сборочных действий на странице **Складской подбор**.  
@@ -57,7 +56,7 @@ ms.locfileid: "6445776"
 ## <a name="see-also"></a>См. также
 [Управление складом](warehouse-manage-warehouse.md)  
 [Запасы](inventory-manage-inventory.md)  
-[Настройка управления складом](warehouse-setup-warehouse.md)     
+[Настройка Warehouse Management](warehouse-setup-warehouse.md)     
 [Управление сборкой](assembly-assemble-items.md)    
 [Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

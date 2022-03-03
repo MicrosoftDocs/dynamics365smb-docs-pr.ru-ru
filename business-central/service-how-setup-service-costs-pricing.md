@@ -2,7 +2,6 @@
 title: Настройка цен и дополнительных издержек для сервисов
 description: Узнайте как использовать функции ценообразования для установки и настройки в приложении применения и корректировки цен на сервисные товары, ремонт и заказы.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.keywords: service, cost, service order
 ms.date: 06/25/2021
 ms.author: edupont
-ms.openlocfilehash: 595f25f872cf669d4b79f1cc10542b46e2da22d2
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 52ffc9d1d0ebce87a4e0f952e3f742a0159e1cc1
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6436555"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8136955"
 ---
 # <a name="set-up-pricing-and-additional-costs-for-services"></a>Настройка цен и дополнительных издержек для сервисов
 Функция ценообразования [!INCLUDE[prod_short](includes/prod_short.md)] используется для установки и настройки в приложении применения и корректировки цен на сервисные товары, ремонт и заказы. Установленные цены можно легко передать в процесс выставления счетов.  

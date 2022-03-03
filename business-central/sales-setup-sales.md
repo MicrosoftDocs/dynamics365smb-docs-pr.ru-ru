@@ -2,7 +2,6 @@
 title: Обзор задач по настройке процессов продажи
 description: Обзор задач, необходимых для настройки правил и значений, которые определяют ваши политики и процессы продаж, включая общую настройку и настройку продаж, связанных с финансами.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: overview
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,12 +10,12 @@ ms.search.keywords: trade, sell, configure
 ms.search.form: 170, 172, 300, 301, 428, 456, 459, 1401
 ms.date: 06/23/2021
 ms.author: edupont
-ms.openlocfilehash: 63d9357d29fbfdc3c230c69602fd370c5d73f21b
-ms.sourcegitcommit: c05806689d289d101bd558696199cefbd989473e
+ms.openlocfilehash: 63aeff6e2b549807fd843260e4f273b7e4013ddd
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2022
-ms.locfileid: "8115454"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8140661"
 ---
 # <a name="setting-up-sales"></a>Настройка продаж
 Прежде чем приступать к управлению процессами продажи, необходимо настроить правила и значения, которые определяют политики продажи в организации.

@@ -4,7 +4,6 @@ description: Описываются задачи для указания инф�
 services: project-madeira
 documentationcenter: ''
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,12 +11,12 @@ ms.workload: na
 ms.search.keywords: relationship, prospect
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: ed9a7b84798ac7b0bf103329c9e06ea0468aa03b
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 33bb659621fe31d096020c52906915c9697e6a60
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5788081"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8137839"
 ---
 # <a name="set-up-contacts"></a>Настройка контактов
 При создании контактов можно ввести определенные сведения, такие как отрасль, к которой принадлежит контакт, и деловые отношения с контактами.

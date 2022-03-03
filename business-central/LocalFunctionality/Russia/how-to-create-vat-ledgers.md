@@ -2,18 +2,17 @@
 title: Создание книг НДС в России
 description: Российские улучшения включают работу с книгами НДС.
 author: DianaMalina
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 221431e0ad2e976aef028c98b786a6b892e8824c
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 311efe3bf35df41a2a89fba0ef470634833a15fa
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6443553"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8146006"
 ---
 # <a name="create-vat-ledgers"></a>Создание книг НДС
 

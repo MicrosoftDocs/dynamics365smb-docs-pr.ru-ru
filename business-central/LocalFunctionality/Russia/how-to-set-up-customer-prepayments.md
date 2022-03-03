@@ -2,18 +2,17 @@
 title: Настройка предоплат клиентов в России
 description: Российские улучшения включают предоплату клиентов.
 author: DianaMalina
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: b96bd22eb5ef7ca337a59ece94cbd09e3e229612
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 0b1826d0709cc4ef7c0d6c4346e63959343e0937
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6446154"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8138129"
 ---
 # <a name="set-up-customer-prepayments"></a>Настройка предоплат клиентов
 

@@ -2,18 +2,17 @@
 title: Инвентаризация основных средств в России
 description: Российские улучшения включают инвентаризацию основных средств.
 author: DianaMalina
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 8ca9cf002de780f9a841b8b164143ca34a190f16
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: cd31ea7fa11063af9185ab7bc811a6674c342fe6
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6441031"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8141791"
 ---
 # <a name="fixed-asset-inventory"></a>Инвентаризация основных средств
 

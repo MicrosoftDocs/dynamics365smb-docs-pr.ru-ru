@@ -2,7 +2,6 @@
 title: Учет производственных мощностей
 description: Разнесите израсходованные мощности, которые не присвоены производственному заказу, в журнале мощностей и просмотрите проведенные мощности на странице записей книги мощностей.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.form: 5832, 99000802, 99000820
 ms.date: 06/22/2021
 ms.author: edupont
-ms.openlocfilehash: 92e4a3cb7243a8e6e11e9744a2b308b7b1bcd4a0
-ms.sourcegitcommit: 2ab6709741be16ca8029e2afadf19d28cf00fbc7
+ms.openlocfilehash: 5a5b44609551b7ead773e82b996e1e610f0fe65d
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/14/2022
-ms.locfileid: "7972308"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8137553"
 ---
 # <a name="post-capacities"></a>Учет производственных мощностей
 Учет используемых производственных мощностей, не присвоенных производственному заказу, осуществляется в журнале производственных мощностей. Например, работы по обслуживанию должны быть приписаны к производственным мощностям, а не к производственному заказу.  

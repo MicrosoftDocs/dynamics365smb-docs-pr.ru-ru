@@ -3,7 +3,6 @@ title: Расширение "Поиск и устранение неисправ
 description: С целыми числами работать проще. Используйте это расширение для округления сумм основных средств в книге ОС.
 documentationcenter: ''
 author: bholtorf
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,12 +10,12 @@ ms.workload: na
 ms.search.keywords: machinery, buildings
 ms.date: 10/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: 39bfc61cf928b6556a3c54625c8b6f9221553c93
-ms.sourcegitcommit: a6000804ad9a176de5750372d3951547ddb71006
+ms.openlocfilehash: bad9c995f87a3a4dfc598989e68b8e2b047a7d5d
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/25/2021
-ms.locfileid: "7865583"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8142319"
 ---
 # <a name="the-troubleshooting-fa-ledger-entries-extension"></a>Расширение "Поиск и устранение неисправностей для операций книги ОС"
 Используйте расширение "Поиск и устранение неисправностей для операций книги ОС", чтобы округлить суммы амортизации и приобретения в операциях книги основных средств до целых чисел. Например, чтобы округлить сумму от 30 000,44 до 30 000. Типичными причинами проблем с округлением являются миграция данных, внезапное начало учета сумм в главной книге или настройки, которые вы внесли в свой [!INCLUDE[prod_short](includes/prod_short.md)].

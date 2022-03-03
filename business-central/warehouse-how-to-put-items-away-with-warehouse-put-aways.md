@@ -2,7 +2,6 @@
 title: Как размещать товары с помощью складского размещения | Документация Майкрософт
 description: Узнайте различные способы размещения товаров в Business Central с помощью следующих задач складского размещения.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/25/2021
 ms.author: edupont
-ms.openlocfilehash: 0f4dbac3c3131cf31690710cba9457e7508acad5
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: bf748b94ec2a53eb92464a94c1172dd6971c8389
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6438086"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8134566"
 ---
 # <a name="put-items-away-with-warehouse-put-aways"></a>Размещение товаров с помощью складских размещений
 Если склад настроен так, что требуется обработка как складского размещения, так и складской приемки, то для управления размещением товаров используются документы складского размещения.  

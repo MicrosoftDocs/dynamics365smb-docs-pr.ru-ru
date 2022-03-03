@@ -2,18 +2,17 @@
 title: НДС в России
 description: Российские усовершенствования включают поддержку НДС.
 author: DianaMalina
-ms.service: dynamics365-business-central
 ms.topic: overview
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 90ba4b635b6adb25444f24e2b532fae04b021088
-ms.sourcegitcommit: 8464b37c4f1e5819aed81d9cfdc382fc3d0762fc
+ms.openlocfilehash: aaf5c262dbd0eb39ca9c32cddcfa8eedc4b22d50
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/19/2022
-ms.locfileid: "8012622"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8145055"
 ---
 # <a name="vat-overview-in-the-russian-version"></a>Обзор НДС в русской версии
 

@@ -2,7 +2,6 @@
 title: Использовать единицы измерения производственной партии
 description: В этом разделе дается обзор того, как работать с единицами измерения производственной партии в Business Central.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/25/2021
 ms.author: edupont
-ms.openlocfilehash: d0fed17c296932afd5f976d5cceb7a4b83c79dae
-ms.sourcegitcommit: e562b45fda20ff88230e086caa6587913eddae26
+ms.openlocfilehash: 6e7d188adceffbc6044162e14de5cbb141c21b54
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "6321245"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8137501"
 ---
 # <a name="work-with-manufacturing-batch-units-of-measure"></a>Работа с единицами измерения производственной партии
 Если при хранении товара используется одна единица измерения, а при производстве — другая, может быть создан производственный заказ, в котором единица измерения производственной партии используется для расчета правильного количества компонентов при выполнении пакетного задания **Обновление произв. заказа**. Примером расчета единицы измерения производственной партии является ситуация, когда хранение товара на складе осуществляется поштучно, а производство — в тоннах.  

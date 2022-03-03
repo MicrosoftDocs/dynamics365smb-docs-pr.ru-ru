@@ -2,18 +2,17 @@
 title: Настройка и создание доверенностей в России
 description: Российские усовершенствования включают создание и печать доверенностей.
 author: DianaMalina
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 6caff9fc09a7dff34e80e84d1dd0919a0988c860
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 20b70ffc11ca63263860496f61ea688c06ad7589
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6442635"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8134447"
 ---
 # <a name="set-up-and-create-letters-of-attorney"></a>Создание и настройка доверенности
 

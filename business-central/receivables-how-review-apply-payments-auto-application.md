@@ -2,7 +2,6 @@
 title: Проверка автоматически примененных платежей и повторное применение платежей вручную | Документация Майкрософт
 description: После того как платежи были применены автоматически вы можете просмотреть все операции платежей и вручную повторно применить те из них, которые были применены неверно.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.keywords: payment process, reconcile payment, expenses, cash receipts
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: dce6cdfdf70d968ae06c88ad4d567ad5cde803dd
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: c2844c7fc1969e2159c67f8783481fbbc143a39a
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6443245"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8144909"
 ---
 # <a name="review-and-apply-payments-manually-after-automatic-application"></a>Проверка и применение платежей вручную после автоматического применения
 Для каждой строки журнала, представляющей платеж, на странице **Журнал выверки платежей** можно открыть страницу **Применение платежа**, чтобы просмотреть все открытые операции кандидатов для платежа и подробные сведения о сопоставлении данных, на котором основано применение платежа, для каждой операции. Здесь можно вручную применить платежи или повторно применить платежи, которые были применены автоматически к неверной операции. Дополнительные сведения об автоматическом применении см. в разделе [Выверка платежей с использованием автоматического применения](receivables-how-reconcile-payments-auto-application.md).

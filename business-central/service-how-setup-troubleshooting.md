@@ -2,7 +2,6 @@
 title: Настройка процессов устранения неисправностей | Документация Майкрософт
 description: Узнайте, как настраивать процессы, которые помогают представителям по сервисному обслуживанию выявлять и устранять неполадки в сервисных товарах.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.keywords: service, service item, troubleshoot, repairs, maintenance
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 5dbef8bda307a38b25e3c84776da0a50e2daced5
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: ba3a265f94221388fb539d3c5b90a3327440b37a
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6436505"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8134877"
 ---
 # <a name="setting-up-troubleshooting-for-service-items"></a>Настройка устранения неполадок для сервисных товаров
 Можно настроить руководства по устранению неполадок, которые помогают техническим специалистам устранять проблемы при обслуживании. Например, руководство может являться списком операций при выполнении ремонта или последовательностью вопросов, которые требуется задать о товарах. После настройки руководство по устранению неисправностей их можно назначить группам сервисных товаров, сервисным товарам или товарам. Для руководств предусмотрена иерархия наследования. Если назначить их группе сервисных товаров, включенных в эту группу товары будут наследовать эти руководства, если они не будут указаны для товаров. Аналогично, сервисные товары будут наследовать из товаров.  

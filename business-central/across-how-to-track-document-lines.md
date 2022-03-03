@@ -2,7 +2,6 @@
 title: Отслеживание строк заказа со связанными документами
 description: Просматривайте документы, связанные со строками заказов на продажу и покупку, такие как предложения с расценками, отгрузки, получения и общие заказы, чтобы идентифицировать документы, используемые для обработки заказов.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.form: 6560, 42, 50, 507, 509
 ms.date: 06/11/2021
 ms.author: edupont
-ms.openlocfilehash: 316536c7a44e4b1e3eb25c81fabb498c6b9a21a5
-ms.sourcegitcommit: 8464b37c4f1e5819aed81d9cfdc382fc3d0762fc
+ms.openlocfilehash: 6a71c817570dd1a784995bbc41f095f0ce799c6f
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/19/2022
-ms.locfileid: "8012187"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8138834"
 ---
 # <a name="track-document-lines"></a>Отслеживание строк документа
 Можно просматривать документы, которые связаны со строками заказа на продажу и строками заказа на покупку, включая из строк архивированных заказов. Связанные документы, которые вы можете отслеживать, включая предложения, отгрузки, приемки и общие заказы. Это помогает идентифицировать документы, используемые для обработки заказов.  

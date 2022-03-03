@@ -2,7 +2,6 @@
 title: Обновление пользовательских макетов отчетов
 description: Узнайте, как обновить настраиваемый макет отчета, используемый в отчете, например, при изменении дизайна набора данных отчета.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.form: 9652, 9650
 ms.date: 06/24/2021
 ms.author: edupont
-ms.openlocfilehash: a3d3aabe01a9969e8665f24479d8b11b26b54d5b
-ms.sourcegitcommit: f4b32ba1f926a2a712400c36305616f320757723
+ms.openlocfilehash: d04b6b37573c81c3eef43fd2077b42bd7f5e1884
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/08/2022
-ms.locfileid: "8101481"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8144623"
 ---
 # <a name="update-custom-report-layouts"></a>Обновление пользовательских макетов отчетов
 

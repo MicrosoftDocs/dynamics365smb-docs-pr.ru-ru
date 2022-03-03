@@ -2,7 +2,6 @@
 title: 'Сведения о проектировании: периоды учета запасов'
 description: Периоды инвентаризации можно использовать, чтобы избежать проблем с сальдо и оценками запасов, путем открытия или закрытия периодов инвентаризации, чтобы ограничить учет заданным периодом времени.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/15/2021
 ms.author: edupont
-ms.openlocfilehash: 66624cd4a6992ed227055748f5e8bc972187a8dc
-ms.sourcegitcommit: 641d7018f7ee21345a67651bfa4603e6dd2c4bab
+ms.openlocfilehash: 77348fbf2ef37320b0bfa0ea56a0d395f9b4b142
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/27/2021
-ms.locfileid: "7865700"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8133892"
 ---
 # <a name="design-details-inventory-periods"></a>Сведения о проектировании: периоды учета запасов
 Транзакции или коррекции себестоимости, записанные задним числом, часто влияют на сальдо и количество запасов в учетные периоды, которые могут считаться закрытыми. Это может иметь отрицательный эффект на точность отчетности, особенно в глобальных корпорациях. Функцию периодов инвентаризации можно использовать, чтобы избежать таких проблем, путем открытия или закрытия периодов инвентаризации, чтобы ограничить учет заданным периодом времени.  

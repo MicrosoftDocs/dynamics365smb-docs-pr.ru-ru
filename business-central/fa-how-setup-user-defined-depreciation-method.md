@@ -2,18 +2,17 @@
 title: Настройка пользовательских методов амортизации ОС
 description: В Business Central вы можете применить определяемый пользователем метод амортизации для определения метода амортизации вашего ОС на странице «Карточка основных средств».
 author: jill-kotel-andersson
-ms.service: dynamics365-business-central
 ms.reviewer: edupont
 ms.topic: conceptual
 ms.search.keywords: user-depreciation
 ms.date: 07/05/2021
 ms.author: edupont
-ms.openlocfilehash: 4c55d19f5019e8a9526396d4d253a1f9a9f40844
-ms.sourcegitcommit: 428ba6385cb27475e8803c2a8967daa22cfe8879
+ms.openlocfilehash: 517c3cdb51762c3c0fadcf29ff1ad6dbf949f971
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/29/2021
-ms.locfileid: "7724641"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8144987"
 ---
 # <a name="set-up-fixed-assets-with-user-defined-depreciation-methods"></a>Настройка основных средств с использованием методов амортизации, определяемых пользователем
 

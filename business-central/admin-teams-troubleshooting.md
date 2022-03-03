@@ -2,7 +2,6 @@
 title: Устранение неполадок интеграции Microsoft Teams
 description: Узнайте о том, что вы можете делать как администратор для управления интеграцией Microsoft Teams.
 author: jswymer
-ms.service: dynamics365-business-central
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.keywords: Teams, MS Teams, Microsoft Teams, Skype, Link, Microsoft 365, collaborate, collaboration, teamwork, troubleshooting, errors
 ms.date: 10/01/2021
 ms.author: jswymer
-ms.openlocfilehash: 376d1bebd79c225a54ca8544b757a719a55bfebd
-ms.sourcegitcommit: 795f0298e32b4c0174aeeb9a7da64f1e5c8457d6
+ms.openlocfilehash: 7bea8e591b92666c6d92ce34b0849ad774dcc35a
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/04/2021
-ms.locfileid: "7596676"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8147012"
 ---
 # <a name="troubleshooting-microsoft-teams-integration-with-prod_short"></a>Устранение неполадок интеграции Microsoft Teams с [!INCLUDE [prod_short](includes/prod_short.md)]
 
@@ -155,7 +154,7 @@ ms.locfileid: "7596676"
 
 ## <a name="unable-to-sign-into-the-share-to-teams-window"></a>Невозможно войти в окно «Поделиться в Teams» 
 
-Эта проблема может быть вызвана разными причинами. Например, идентификатор, который вы используете для входа в систему, должен иметь доступ к Microsoft Teams, например, через подписку Microsoft 365.
+Эта проблема может быть вызвана разными причинами. Например, идентификатор, который вы используете для входа в систему, должен иметь доступ к Microsoft Teams — например, через подписку на Microsoft 365.
 
 ## <a name="see-also"></a>См. также
 

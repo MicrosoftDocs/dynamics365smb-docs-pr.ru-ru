@@ -2,18 +2,17 @@
 title: Установление начислений и отчислений в России
 description: Российские улучшения включают начисления и отчисления.
 author: DianaMalina
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 3552fbc3567efe4fc82a42284bad28968c3c1398
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 0da44db4bfac13ff2969a17d71e74dadae728838
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5771363"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8142641"
 ---
 # <a name="establishing-charges-and-deductions-to-the-employee"></a>Установление начислений и удержаний работнику
 

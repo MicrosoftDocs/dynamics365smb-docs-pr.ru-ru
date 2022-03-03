@@ -2,19 +2,18 @@
 title: Документы запасов в России
 description: Российские улучшения для документов запасов.
 author: DianaMalina
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
 ms.search.form: 6774, 6775, 6776
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 2691ce452886ab7e210b81aaca055106979b50d0
-ms.sourcegitcommit: c05806689d289d101bd558696199cefbd989473e
+ms.openlocfilehash: 4eeee9dc77d71b9065a200ce5d2d53dd090f2bf8
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2022
-ms.locfileid: "8115029"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8144136"
 ---
 # <a name="inventory-documents"></a>Инвентарные документы
 

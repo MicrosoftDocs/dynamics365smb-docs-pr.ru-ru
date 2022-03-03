@@ -2,7 +2,6 @@
 title: 'Сведения о проектировании: таблица "Назначение произ. плана"'
 description: Эта тема дает представление о том, что происходит, когда изменение структуры спроса или предложения требует, чтобы вы рассчитали, как вы планируете для товара.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/15/2021
 ms.author: edupont
-ms.openlocfilehash: cdd16d0f3143701ca53125ef74f91ae5bd143f1c
-ms.sourcegitcommit: e562b45fda20ff88230e086caa6587913eddae26
+ms.openlocfilehash: 878f301db5b7b887201fd2e803fd299dc3894dbf
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "6321599"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8146596"
 ---
 # <a name="design-details-planning-assignment-table"></a>Сведения о проектировании: таблица "Назначение произ. плана"
 Все товары должны быть запланированы, однако нет необходимости вычислять план для товара, если не было изменений в цепочке спрос-поставка с момента последнего расчета плана.  

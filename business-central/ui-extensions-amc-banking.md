@@ -2,7 +2,6 @@
 title: Использование расширения AMC Banking 365 Fundamentals
 description: Узнайте, как легко обмениваться данными с вашими банками, преобразовывая данные в нужный им формат.
 author: bholtorf
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms. search.keywords: bank, format, data
 ms.date: 06/23/2021
 ms.author: bholtorf
-ms.openlocfilehash: 7aaf35b16600ed6b1c23da65665c82cc952356c2
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 87a31fafadb63d8dad9f6432a6f64343e22d15b8
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6443597"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8140453"
 ---
 # <a name="using-the-amc-banking-365-fundamentals-extension"></a>Использование расширения AMC Banking 365 Fundamentals
 Расширение AMC Banking 365 Fundamentals упрощает и делает более точной отправку данных в ваши банки. Расширение подключает [!INCLUDE[prod_short](includes/prod_short.md)] к службе AMC Banking 365 Fundamentals для Microsoft Dynamics 365 Business Central, которая может конвертировать банковские данные из [!INCLUDE[prod_short](includes/prod_short.md)] в форматы, которые требуются более чем 600 банками по всему миру. Например, это облегчает перевод платежей и кредитов поставщикам путем ввода платежей в [!INCLUDE[prod_short](includes/prod_short.md)], а затем отправки их в ваш банк. Форматы также могут упростить процессы выверки банковских счетов. Для получения дополнительной информации см. раздел [AMC Banking для Microsoft Dynamics 365 Business Central](https://www.amcbanking.com/bc-fundamentals/),

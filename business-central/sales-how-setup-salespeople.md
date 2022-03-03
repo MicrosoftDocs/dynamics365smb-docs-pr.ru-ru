@@ -2,7 +2,6 @@
 title: Настройка менеджера по продажам (содержит видео) | Документация Майкрософт
 description: Вы можете задать идентификатор для каждого менеджера по продажам, чтобы можно было отслеживать личную производительность менеджера и назначать менеджеров контактам.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.keywords: sales rep
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 2771eff803209b7f4295f6ac8a2e2af0d937f5fe
-ms.sourcegitcommit: 4c97f38fc53c1c1ec534054a4a100d8cfb73175b
+ms.openlocfilehash: 8c4cca41beb49c05568d6e0c1c21946bb493e30b
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/20/2021
-ms.locfileid: "7940030"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8145398"
 ---
 # <a name="set-up-salespeople"></a>Настройка менеджеров по продажам
 Во многих организациях в качестве основания для расчета комиссионных от продажи или премии предпочитают учитывать вклад конкретного сотрудника. См., например, отчет **Комиссионные менеджера по продажам**. Кроме этого, организации может понадобиться каждому из своих контактов приписать некоторого менеджера.

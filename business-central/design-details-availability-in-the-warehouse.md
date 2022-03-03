@@ -2,7 +2,6 @@
 title: Сведения о проектировании — наличие на складе | Документация Майкрософт
 description: Система должна постоянно контролировать доступность товаров на складе, чтобы исходящие заказы могли эффективно обрабатываться и обеспечивать оптимальные поставки.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/08/2021
 ms.author: edupont
-ms.openlocfilehash: 7d23dc10ffb215ee2ac160c9ec9b9fd1ddb5cc2d
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 670fbfc0f7e576f92ef26e31418d0d44f6262eec
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6442539"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8132085"
 ---
 # <a name="design-details-availability-in-the-warehouse"></a>Сведения о проектировании: наличие на складе
 Система должна постоянно контролировать доступность товаров на складе, чтобы исходящие заказы могли эффективно обрабатываться и обеспечивать оптимальные поставки.  

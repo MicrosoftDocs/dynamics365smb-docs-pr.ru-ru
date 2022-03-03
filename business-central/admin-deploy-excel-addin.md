@@ -2,7 +2,6 @@
 title: Получение надстройки Business Central для Excel
 description: Узнайте, как пользователи могут получить надстройку Business Central для Excel.
 author: jswymer
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.keywords: Excel, add-in, centralized deployment, M365 admin center, individual acquisition, appsource
 ms.date: 10/07/2021
 ms.author: jswymer
-ms.openlocfilehash: 6bb034f9809f4241a4a538d6ecb133976fb60fb2
-ms.sourcegitcommit: a6000804ad9a176de5750372d3951547ddb71006
+ms.openlocfilehash: 29cfec8ea605209aed7e7005dfcfa1c10d54b7b6
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/25/2021
-ms.locfileid: "7865496"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8141415"
 ---
 # <a name="get-the-business-central-add-in-for-excel"></a>Получение надстройки Business Central для Excel
 
@@ -71,7 +70,7 @@ ms.locfileid: "7865496"
 
 1. В [!INCLUDE[prod_short](includes/prod_short.md)] выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") введите **Централизованное развертывание надстроек Excel**, затем выберите связанную ссылку.
 2. Прочтите информацию на странице **Настройка надстройки Excel для Business Central** и выберите **Далее**.
-3. Войдите в [Центр администрирования Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2163967) и перейти в **Интегрированные приложения**<!--**Add-ins**-->.
+3. Войдите в [центр администрирования Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2163967) и перейдите в **Интегрированные приложения**.<!--**Add-ins**-->.
 
     Выполните следующие шаги, чтобы настроить надстройку для развертывания из Магазина Office: 
     1. Выберите **Получить приложения**, чтобы открыть Магазин Office (AppSource). <!--**Deploy Add-in** 5. In the **Deploy a new add-in**, select **Choose from the store**.-->

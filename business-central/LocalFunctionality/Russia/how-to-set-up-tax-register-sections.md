@@ -2,18 +2,17 @@
 title: Настройка секций налогового регистра в России
 description: Российские улучшения включают секции налогового регистра.
 author: DianaMalina
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 34e5d34dd5e8f8467adff10e5c717e909b80e970
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 96bc8f42eec2374548855ddda8bed13624c63e67
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6437189"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8133488"
 ---
 # <a name="set-up-tax-register-sections"></a>Настройка секций налогового регистра
 

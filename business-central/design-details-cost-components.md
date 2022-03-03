@@ -2,7 +2,6 @@
 title: Сведения о проектировании — компоненты себестоимости | Документация Майкрософт
 description: Компоненты себестоимости представляют собой другие типы затрат, которые составляют стоимость прихода или расхода склада.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/08/2021
 ms.author: edupont
-ms.openlocfilehash: 1c1dd2eafb648a7c6053406ea3c931d6e7cecb76
-ms.sourcegitcommit: 0953171d39e1232a7c126142d68cac858234a20e
+ms.openlocfilehash: ef7f0d170c76dc79627123ce76e036729b4d0bd0
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "6215362"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8143664"
 ---
 # <a name="design-details-cost-components"></a>Сведения о проектировании: компоненты себестоимости
 Компоненты себестоимости представляют собой другие типы затрат, которые составляют стоимость прихода или расхода склада.  

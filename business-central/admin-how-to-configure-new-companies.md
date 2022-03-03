@@ -2,7 +2,6 @@
 title: Как настраивать новые организации | Документация Майкрософт
 description: Можно установить и настроить только что созданную организацию. Точная настройка реализации состоит из трех этапов.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: b7a71e6611d78555d4be266e2b972152e5c43857
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: f0964028b7d6e711e48e1361950d1ec6b4e14425
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6439689"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8130804"
 ---
 # <a name="configure-new-companies"></a>Настройка новых организаций
 Настройка новой организации в вашей реализации решения обычно производится в три этапа. На первом этапе необходимо импортировать пакет конфигурации в виде файла .rapidstart с информацией о конфигурации. Во второй фазе изменяется информация о конфигурации и затем применяется к новой организации. На конечном этапе можно просмотреть и исправить все ошибки.  

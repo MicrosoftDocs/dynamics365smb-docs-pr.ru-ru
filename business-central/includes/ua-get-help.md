@@ -1,14 +1,13 @@
 ---
 author: edupont04
-ms.service: dynamics365-business-central
 ms.topic: include
 ms.date: 09/27/2021
 ms.author: edupont
-ms.openlocfilehash: 6971b5f63a40a0308b645472f775ab74aeabe911
-ms.sourcegitcommit: 6ad0a834fc225cc27dfdbee4a83cf06bbbcbc1c9
+ms.openlocfilehash: 59b9cd9f5db84d499f1bc1355d25634fec6ad712
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2021
-ms.locfileid: "7587977"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8132290"
 ---
 [!INCLUDE[prod_short](prod_short.md)] включает всплывающие подсказки для полей и действий, а также обучающие советы для некоторых из наиболее важных страниц, которые могут помочь вам в различных бизнес-процессах. Для каждой всплывающей подсказки и обучающего совета можно выбрать ссылку **Подробнее**, чтобы открыть справку для соответствующей страницы. На всех страницах используйте *Ctrl+F1* на клавиатуре, чтобы открыть справку по соответствующей странице. На любом устройстве знак вопроса в правом верхнем углу открывает страницу **Помощь и поддержка** и справку по продукту.  

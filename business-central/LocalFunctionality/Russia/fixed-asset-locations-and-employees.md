@@ -2,18 +2,17 @@
 title: 'ОС: местоположения и ответственные сотрудники в России'
 description: Российские улучшения включают местоположения и ответственных сотрудников для основных средств.
 author: DianaMalina
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 0863e85a54811f6a2c8bc6a787d10bccd7b91aa9
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 697604e721f158c02066ca891d202b04f4f71bde
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6441029"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8144144"
 ---
 # <a name="fixed-asset-locations-and-employees"></a>ОС: местоположения и ответственные сотрудники
 

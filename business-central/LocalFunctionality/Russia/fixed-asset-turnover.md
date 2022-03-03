@@ -2,18 +2,17 @@
 title: Оборот основных средств в России
 description: Российские улучшения включают оборот основных средств.
 author: DianaMalina
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: c1216c5c3216b6e17622a82a90f4e6ee4dcb8ac6
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 1e69446c67e1f0dc03a5687b2ab793f334e28981
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5775715"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8144146"
 ---
 # <a name="fixed-asset-turnover"></a>Оборот основных средств
 

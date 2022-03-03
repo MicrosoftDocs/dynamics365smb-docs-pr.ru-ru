@@ -2,7 +2,6 @@
 title: Настройка атрибутов товаров и назначение их товарам
 description: Описывается порядок настройки значений атрибутов товаров, которые, например, можно использовать как поисковые слова, а также присваивать товарам и товарным категориям.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,12 +10,12 @@ ms.search.keywords: categories, search words, facets
 ms.search.forms: 7507, 7509, 7506, 7505, 7503, 7502, 7510, 7504, 7501, 7500, 9110, 5734, 7508
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: d2c8eec702840e6046eab362a867317091a9c3aa
-ms.sourcegitcommit: 189bf08d7ddf6c8b7ef2c09058c6847aa6e590d3
+ms.openlocfilehash: 73ee4d6e2c8a2630e75ff2ccb1210c46c58b4ba3
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/31/2022
-ms.locfileid: "8059364"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8130376"
 ---
 # <a name="work-with-item-attributes"></a>Работа с атрибутами товаров
 Когда клиенты интересуются товаром, с помощью личного обращения или в интегрированном интернет-магазине, они могут осуществлять запрос или поиск по определенным характеристикам, например по высоте или модельному году. Чтобы предоставить такую услугу, вы можете назначить товарам атрибуты различных типов, которые можно использовать при поиске товаров.

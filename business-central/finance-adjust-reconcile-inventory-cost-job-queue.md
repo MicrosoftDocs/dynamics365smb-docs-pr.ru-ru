@@ -2,7 +2,6 @@
 title: Планирование заданий для корректировки и выверки себестоимости запасов
 description: Узнайте, как с помощью очереди заданий переместить задачи для корректировки себестоимости запасов или сверки ее с главной книгой в фоновом режиме. Например, если ваша компания выполняет много задач или обрабатывает много транзакций.
 author: AndreiPanko
-ms.service: dynamics365-business-central
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,12 +10,12 @@ ms.reviewer: edupont
 ms.search.form: 461
 ms.date: 09/23/2021
 ms.author: andreipa
-ms.openlocfilehash: 85fec80ca9b7f2184e67da58f9d05a86534e90ac
-ms.sourcegitcommit: 2ab6709741be16ca8029e2afadf19d28cf00fbc7
+ms.openlocfilehash: 40642b524e44234cda8ef0bd468ff8eb47decb69
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/14/2022
-ms.locfileid: "7973548"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8142267"
 ---
 # <a name="schedule-jobs-for-adjusting-and-reconciling-inventory-cost-with-the-general-ledger"></a>Планирование заданий для корректировки и выверки себестоимости запасов с главной книгой
 

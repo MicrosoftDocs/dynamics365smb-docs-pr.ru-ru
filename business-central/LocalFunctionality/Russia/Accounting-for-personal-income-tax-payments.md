@@ -2,18 +2,17 @@
 title: Учет платежей подоходного налога в России
 description: Российские улучшения включают учет платежей подоходного налога.
 author: DianaMalina
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: c5b2da46bf2a03872e6afac02f53c3e3660504b5
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 7ca4ed2f30c1a1551131df015e0848808cd89340
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5771373"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8133494"
 ---
 # <a name="accounting-for-personal-income-tax-payments"></a>Учет платежей подоходного налога
 

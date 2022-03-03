@@ -2,18 +2,17 @@
 title: Запасы в России
 description: Российские улучшения включают дополнительные функции для управления запасами.
 author: DianaMalina
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: cdd905e0a1d2240c92bc4e7f2ad918a5c1e90cfc
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 0be085da029c8c57910801dc980465219f507f55
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5786657"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8142621"
 ---
 # <a name="inventory-in-the-russian-version"></a>Запасы в русской версии
 

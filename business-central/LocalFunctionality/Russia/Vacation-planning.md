@@ -2,18 +2,17 @@
 title: Планирование отпусков в России
 description: Российские улучшения включают управление отпусками.
 author: DianaMalina
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: a8f975007ceff1465d701069130cee5a39b3bb86
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: b1a2fddfbcc745a1538d9ad377d056e8693732a8
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5782189"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8142633"
 ---
 # <a name="vacation-planning"></a>Планирование отпусков
 

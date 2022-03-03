@@ -2,18 +2,17 @@
 title: Регистры налоговых разниц в России
 description: Российские улучшения включают регистры налоговых разниц.
 author: DianaMalina
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 97dc6b3d19b253f30ff2e778a38fc606620aa1d5
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: d78ab40d187640a75abee5751d9f8194fa6d20e2
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6446152"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8131062"
 ---
 # <a name="tax-difference-registers"></a>Регистры налоговых разниц
 

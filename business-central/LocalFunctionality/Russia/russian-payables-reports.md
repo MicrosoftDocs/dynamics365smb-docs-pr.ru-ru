@@ -2,18 +2,17 @@
 title: Отчеты о платежах в России
 description: Российские улучшения включают отчеты о платежах.
 author: DianaMalina
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 47c8a2086c1749943a421f18e98cb45a16d59177
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: 10972ed20078cc362bcd46f95d30f4a0c7bdd8ec
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6436347"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8138962"
 ---
 # <a name="russian-payables-reports"></a>Отчеты о платежах (Россия)
 

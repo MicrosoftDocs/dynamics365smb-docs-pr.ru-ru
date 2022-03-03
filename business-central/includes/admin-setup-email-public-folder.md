@@ -1,20 +1,19 @@
 ---
 author: edupont04
-ms.service: dynamics365-accountant
 ms.topic: include
-ms.date: 09/02/2021
+ms.date: 02/15/2022
 ms.author: edupont
-ms.openlocfilehash: 5bb0e2d4ec0dfe20ecb6668a6d01ba4e8a174b8e
-ms.sourcegitcommit: 04055135ff13db551dc74a2467a1f79d2953b8ed
+ms.openlocfilehash: c947d843a17c46323febee83a01c80a574982bbd
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/08/2021
-ms.locfileid: "7482301"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8142501"
 ---
 > [!NOTE]
 > В следующих разделах предполагается, что у вас есть права администратора для Exchange Online.
 
-Прежде чем вы сможете настроить регистрацию электронной почты, вы должны подготовить [общие папки](/exchange/collaboration-exo/public-folders/public-folders?preserve-view=true) Office 365. Вы можете сделать это в [центре администрирования Exchange](/exchange/exchange-admin-center?preserve-view=true) или вы можете использовать [Exchange Online PowerShell](/powershell/exchange/exchange-online-powershell?view=exchange-ps&?preserve-view=true).
+Прежде чем вы сможете настроить регистрацию электронной почты, вы должны подготовить [общие папки](/exchange/collaboration-exo/public-folders/public-folders) Office 365. Вы можете сделать это в [центре администрирования Exchange](/exchange/exchange-admin-center?preserve-view=true) или вы можете использовать [Exchange Online PowerShell](/powershell/exchange/exchange-online-powershell?view=exchange-ps&?preserve-view=true).
 
 > [!TIP]
 > Если вы хотите использовать [Exchange Online PowerShell](/powershell/exchange/exchange-online-powershell?view=exchange-ps&preserve-view=true), Вы можете найти вдохновение для того, как настроить свой скрипт в примере скрипта, который мы опубликовали в [репозитории BCTech](https://github.com/microsoft/BCTech/tree/master/samples/EmailLogging).
@@ -31,7 +30,7 @@ ms.locfileid: "7482301"
 |Избранные роли  |Общие папки            |
 |Выбранные пользователи  |Электронный адрес учетной записи пользователя, которую Business Central будет использовать для выполнения задания регистрации электронной почты.|
 
-Дополнительные сведения см. в разделе [Управление группами ролей в Exchange Online](/exchange/permissions-exo/role-groups?preserve-view=true).
+Дополнительные сведения см. в разделе [Управление группами ролей в Exchange Online](/exchange/permissions-exo/role-groups).
 
 ### <a name="create-a-new-public-folder-mailbox"></a>Создать новый почтовый ящик общедоступной папки
 
@@ -41,7 +40,7 @@ ms.locfileid: "7482301"
 |----------------|--------------------------|
 |Name            |Общий почтовый ящик            |
 
-Дополнительные сведения см. в разделе [Создайте новый почтовый ящик для общих папок](/exchange/collaboration-exo/public-folders/create-public-folder-mailbox?preserve-view=true).
+Дополнительные сведения см. в разделе [Создание нового почтового ящика для общих папок](/exchange/collaboration-exo/public-folders/create-public-folder-mailbox).
 
 ### <a name="create-new-public-folders"></a>Создание новых общих папок
 
@@ -51,7 +50,7 @@ ms.locfileid: "7482301"
     - `\Email Logging\Queue\`
     - `\Email Logging\Storage\`
 
-Дополнительные сведения см. в разделе [Создание общей папки](/exchange/collaboration-exo/public-folders/create-public-folder?preserve-view=true).
+Дополнительные сведения см. в разделе [Создание общей папки](/exchange/collaboration-exo/public-folders/create-public-folder).
 
 ### <a name="set-public-folder-ownership"></a>Установить право собственности на общую папку
 
@@ -61,7 +60,7 @@ ms.locfileid: "7482301"
 
 ### <a name="mail-enable-the-queue-public-folder"></a>Включение поддержки электронной почты для общая папка *Очередь*
 
-  Дополнительные сведения см. в [Включение или отключение поддержки электронной почты для общей папки](/exchange/collaboration-exo/public-folders/enable-or-disable-mail-for-public-folder?preserve-view=true).
+  Дополнительные сведения см. в разделе [Включение или отключение поддержки электронной почты для общей папки](/exchange/collaboration-exo/public-folders/enable-or-disable-mail-for-public-folder).
 
 ### <a name="mail-enable-sending-emails-to-the-queue-public-folder"></a>Оправка электронной почты с включением почты в общую папку *Очередь*
 

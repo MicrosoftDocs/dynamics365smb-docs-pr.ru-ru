@@ -2,18 +2,17 @@
 title: Подготовка операций НДС к учету в России
 description: Российские улучшения включают возможность периодически предоставлять в налоговые органы данные о чистой сумме НДС покупок или продаж.
 author: DianaMalina
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 916e6b0d5899e59f30d9aa9885df3d57e877cc0d
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: b6e018fe0bb33ca9f4a2894a1b535c9192ddb101
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6442649"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8129325"
 ---
 # <a name="prepare-vat-entries-for-posting"></a>Подготовка операций НДС к учету
 

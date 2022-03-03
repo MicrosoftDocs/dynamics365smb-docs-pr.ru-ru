@@ -2,7 +2,6 @@
 title: Настройка клиентов, оплачивающих наличными
 description: В этой теме описаны шаги, необходимые для настройки счета-фактуры с номером клиента для клиентов, которые платят наличными.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.form: 21, 22
 ms.date: 06/16/2021
 ms.author: edupont
-ms.openlocfilehash: 7b021b957d2984d2b2ea239c1e8f737d90071215
-ms.sourcegitcommit: 2ab6709741be16ca8029e2afadf19d28cf00fbc7
+ms.openlocfilehash: 537c25d60282712f66afcdcfe9e44eb99bd2291f
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/14/2022
-ms.locfileid: "7973444"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8139551"
 ---
 # <a name="set-up-cash-customers"></a>Настройка клиентов, оплачивающих наличными
 

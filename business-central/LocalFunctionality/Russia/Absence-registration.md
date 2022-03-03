@@ -2,18 +2,17 @@
 title: Регистрация отсутствия в России
 description: Российские улучшения включают регистрацию отсутствия.
 author: DianaMalina
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: cbff8aa1475e2900ae3a1b8f0cc2230a7f52fe4f
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 1f41e403bcab6676ca9706ef694b4f3bbd9ab44d
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5771370"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8133495"
 ---
 # <a name="absence-registration"></a>Регистрация отсутствия
 

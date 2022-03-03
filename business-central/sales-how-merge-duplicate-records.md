@@ -2,7 +2,6 @@
 title: Объединение повторяющихся записей клиента или поставщика
 description: Описывает, как объединить информацию о клиентах или поставщиках, если у вас есть повторяющиеся записи о некоторых из них.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms.search.keywords: client
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 336c10e93a50e7fb880f9bf5856c85b44daef266
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: bc68aba329f391333dfddc9e6ba5ce8c59212c74
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6436855"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8130128"
 ---
 # <a name="merge-duplicate-records"></a>Объединение повторяющихся записей
 Когда с течением времени различные пользователи создают новые карточки клиентов, поставщиков или контактов, или когда новые записи создаются автоматически во время миграции, клиент, поставщик или контакт могут быть представлены в системе в нескольких записях. В этом случае можно воспользоваться страницей **Объединить дубликат** из карточки записи, которую требуется сохранить. Страница обеспечивает обзор значений дублированных полей и предоставляет функции для выбора, какие значения сохранить или удалить при объединении записей в одну.
