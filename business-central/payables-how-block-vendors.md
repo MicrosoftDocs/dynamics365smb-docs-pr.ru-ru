@@ -1,21 +1,21 @@
 ---
-title: Блокировка поставщиков
+title: Как заблокировать покупки от поставщиков
 description: Прочитайте, как заблокировать включение поставщиков в какие-либо транзакции или как просто заблокировать новые платежи им.
 author: bholtorf
+ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.search.form: 27
 ms.date: 06/22/2021
 ms.author: bholtorf
-ms.openlocfilehash: 5b1c93c8768f65832aae41f0fe65835b426a805f
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: ca2e3cb627a33a17dac57bacba9a6c002fbcc90e
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8145580"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6438856"
 ---
 # <a name="block-vendors"></a>Блокировка поставщиков
 Можно заблокировать поставщика, например из-за несостоятельности, чтобы этого поставщика нельзя было добавить в документы покупки или чтобы никакие платежи не могли быть учтены для этого поставщика.

@@ -1,44 +1,39 @@
 ---
-title: Переключение на другую компанию или среду
+title: Переключение на другую компанию или среду | Документация Майкрософт
 description: Если вы работаете в нескольких организациях, вы можете быстро переключаться между средами и компаниями.
 author: bholtorf
-ms.topic: conceptual
+ms.service: dynamics365-business-central
+ms.topic: article
 ms.search.keywords: environments, companies, tenants, organization
-ms.search.form: 9020, 9022, 9026, 9027, 9030, 9000, 9004, 9005, 9018, 9006, 9007, 9010, 9016, 9017
-ms.date: 10/04/2021
+ms.date: 10/01/2020
 ms.author: bholtorf
-ms.openlocfilehash: 265974a70dc54bae24ea26aa1385fbf2c2ef9cb5
-ms.sourcegitcommit: cdb57f14960f58b1d36a1b373fbf35dfed5fad9e
+ms.openlocfilehash: 24ea6b353a22ae00ca98901c080c031870f66168
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/23/2022
-ms.locfileid: "8335270"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3925601"
 ---
 # <a name="switching-to-another-company-or-environment"></a>Переключение на другую компанию или среду
 
-[!INCLUDE [company_environment](includes/company_environment.md)] Дополнительные сведения см. в разделе [Создание новой организации в [!INCLUDE[prod_short](includes/prod_short.md)]](about-new-company.md).  
+[!INCLUDE [company_environment](includes/company_environment.md)] Дополнительные сведения см. в разделе [Создание новой организации в [!INCLUDE[d365fin](includes/d365fin_md.md)]](about-new-company.md).  
 
 > [!TIP]
-> Если вы часто переключаетесь между организациями или работаете с [!INCLUDE[prod_short](includes/prod_short.md)] из другого приложения, например Microsoft Teams, можно легко потерять из виду, где вы находитесь. Чтобы помочь вам отслеживать, вы можете добавить эмблему, которая будет отображать название организации, чтобы вы могли быстро проверить, что вы находитесь в нужном месте. Дополнительные сведения см. в [Отображение эмблемы организации для быстрого доступа к информации об организации](ui-change-basic-settings.md#badge).
+> Если вы часто переключаетесь между компаниями, может быть легко потерять отслеживание того, где вы находитесь. Чтобы помочь вам отслеживать, вы можете добавить эмблему, которая будет отображать название компании, чтобы вы могли быстро проверить, что вы находитесь в нужном месте. Дополнительные сведения см. в [Отображение эмблемы организации для быстрого доступа к информации об организации](ui-change-basic-settings.md#to-display-a-company-badge-for-quick-access-to-company-information).
 
 ## <a name="switch-to-another-environment"></a>Переход к другой среде
 
-Когда вы вошли в [!INCLUDE[prod_short](includes/prod_short.md)], доступные вам среды доступны на начальной странице Office.com. 
+Когда вы вошли в [!INCLUDE[d365fin](includes/d365fin_md.md)], доступные вам среды доступны на начальной странице Dynamics 365. Вы можете открыть страницу, выбрав значок **Средство запуска приложений** ![Средство запуска приложений](media/app-launcher-icon.png "Средство запуска приложений обеспечивает доступ к дополнительным функциям") и выбирая **Dynamics 365**. Чтобы перейти к вашей компании по умолчанию в этой среде, выберите плитку. Там будет одна плитка для каждого типа среды. Если у вас есть несколько сред определенного типа, при выборе плитки вы можете выбрать среду для доступа.
 
-1. Выберите значок **Средство запуска приложений** ![Средство запуска приложений](media/app-launcher-icon.png "Средство запуска приложений обеспечивает доступ к дополнительным функциям").
-2. Если вы не видите приложение для [!INCLUDE[prod_short](includes/prod_short.md)] в открывшейся области, выберите **Office 365**. Затем введите **Business Central** в поле **Поиск** или выберите **Все приложения** > **Business Central**.   
-3. Будет указано одно приложение [!INCLUDE[prod_short](includes/prod_short.md)] для каждого типа среды, например производственной среды и песочницы. Чтобы переключиться в другую среду, выберите приложение [!INCLUDE[prod_short](includes/prod_short.md)] с учетом типа среды. Если есть несколько сред определенного типа, при выборе среды для доступа появится запрос.
+На следующем рисунке показаны плитки для доступа к рабочим средам и средам песочницы на начальной странице Dynamics 365.
 
-<!--
-The following image shows tiles for accessing production and sandbox environments on the Dynamics 365 Home page.
+:::image type="content" source="media/app-picker-environments.png" alt-text="На начальной странице Dynamics 365 показаны рабочая среда и среда песочницы.":::
 
-:::image type="content" source="media/app-picker-environments.png" alt-text="The Dynamics 365 Home page showing production and sandbox environments.":::
--->
 ## <a name="switch-to-another-company"></a>Переход к другой компании
 
-Когда вы вошли в [!INCLUDE[prod_short](includes/prod_short.md)], вы можете быстро переключиться на другую организацию. После того, как вы сделаете это, выбранная вами компания станет компанией по умолчанию и будет отображаться при следующем входе в систему.
+Когда вы вошли в [!INCLUDE[d365fin](includes/d365fin_md.md)], Вы можете быстро переключиться на другую компанию. После того, как вы сделаете это, выбранная вами компания станет компанией по умолчанию и будет отображаться при следующем входе в систему.
 
-1. В правом верхнем углу щелкните значок **Параметры** ![Параметры.](media/ui-experience/settings_icon_small.png "Значок настроек для ролевого центра"), а затем выберите действие **Мои настройки**.
+1. В правом верхнем углу щелкните значок **Параметры** ![Параметры](media/ui-experience/settings_icon_small.png "Значок настроек для ролевого центра"), а затем выберите действие **Мои настройки**.
 
     > [!TIP]
     > Вы также можете использовать сочетание клавиш Alt+T, чтобы быстро открыть страницу «Мои настройки».
@@ -53,6 +48,3 @@ The following image shows tiles for accessing production and sandbox environment
 
 [Центр администрирования Business Central](/dynamics365/business-central/dev-itpro/administration/tenant-admin-center)  
 [Изменение базовых настроек](ui-change-basic-settings.md)  
-
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]

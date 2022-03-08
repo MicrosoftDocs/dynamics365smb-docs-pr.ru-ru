@@ -1,20 +1,23 @@
 ---
 title: Рекомендации по настройке. Политики повторного заказа | Документация Майкрософт
 description: Поле Политика дозаказа в карточках товара содержит четыре разных метода планирования, которые определяют способ взаимодействия отдельных параметров планирования.
+services: project-madeira
+documentationcenter: ''
 author: SorenGP
-ms.topic: conceptual
+ms.service: dynamics365-business-central
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2021
-ms.author: edupont
-ms.openlocfilehash: e6c76729d5b8ecf2a42b0b749a951ee05cef96f3
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.date: 10/01/2019
+ms.author: sgroespe
+ms.openlocfilehash: 46e4b5861242258769548cae5f214a8d7cb8f9a6
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8142883"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2311528"
 ---
 # <a name="setup-best-practices-reordering-policies"></a>Рекомендации по настройке. Политики повторного заказа
 Поле **Политика дозаказа** в карточках товара содержит четыре разных метода планирования, которые определяют способ взаимодействия отдельных параметров планирования.  
@@ -27,9 +30,9 @@ ms.locfileid: "8142883"
 |Б|20|20|
 |C|60-70|10-30|
 
-ABC-классификация показывает, что время и средства можно сэкономить, используя более свободное управление товарами для низкого уровня "стоимость-объем" в отличие от высокого уровня "стоимость-объем". На следующей иллюстрации показано, как политика повтора заказа в [!INCLUDE[prod_short](includes/prod_short.md)] лучше всего подходит для товара A, B и C соответственно.
+ABC-классификация показывает, что время и средства можно сэкономить, используя более свободное управление товарами для низкого уровня "стоимость-объем" в отличие от высокого уровня "стоимость-объем". На следующей иллюстрации показано, как политика повтора заказа в [!INCLUDE[d365fin](includes/d365fin_md.md)] лучше всего подходит для товара A, B и C соответственно.
 
-![Классификация по алфавиту.](media/abc_classification.png "abc_classification")
+![Классификация ABC](media/abc_classification.png "abc_classification")
 
 В следующей таблице приведены рекомендации по выбору одной из четырех политик.  
 
@@ -42,9 +45,10 @@ ABC-классификация показывает, что время и сре
 
 ## <a name="see-also"></a>См. также  
  [Рекомендации по настройке. Планирование поставок](setup-best-practices-supply-planning.md)   
- [Сведения о проектировании: обработка политик дозаказа](design-details-handling-reordering-policies.md)   
+ [Сведения о проектировании: политики дозаказа](design-details-reordering-policies.md)   
+ [Сведения о проектировании: заказ](design-details-order.md)   
+ [Сведения о проектировании: партия на партию](design-details-lot-for-lot.md)   
+ [Сведения о проектировании: фиксированное количество дозаказа](design-details-fixed-reorder-qty.md)   
+ [Сведения о проектировании: максимальное количество](design-details-maximum-qty.md)   
  [Настройка сложных областей приложения с помощью рекомендаций](set-up-complex-application-areas-using-best-practices.md)  
- [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
-
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]
+ [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

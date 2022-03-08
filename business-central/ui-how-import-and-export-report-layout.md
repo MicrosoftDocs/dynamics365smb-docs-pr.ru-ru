@@ -1,22 +1,25 @@
 ---
-title: Импорт и экспорт макета отчета и документа
+title: Импорт и экспорт макета отчета и документа | Документация Майкрософт
 description: Можно импортировать и экспортировать существующий пользовательский макет отчета в виде файла в расположении на компьютере или в сети.
-author: SorenGP
-ms.topic: conceptual
+services: project-madeira
+documentationcenter: ''
+author: jswymer
+ms.service: dynamics365-business-central
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.form: 9652, 9650
-ms.date: 04/01/2021
-ms.author: edupont
-ms.openlocfilehash: 03d92e13adc9208ec98eda57cfc1d6b6e93ab028
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.search.keywords: ''
+ms.date: 10/01/2019
+ms.author: jswymer
+ms.openlocfilehash: 493217e3f7607c4553d6c0ac6500f21f0ff712cc
+ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8148308"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "2553822"
 ---
-# <a name="import-and-export-custom-report-layouts"></a>Импорт и экспорт пользовательских макетов отчетов
+# <a name="import-and-export-a-report-or-document-layout"></a>Импорт и экспорт макета отчета или документа
 Можно импортировать и экспортировать существующий пользовательский макет отчета в виде файла в расположении на компьютере или в сети. Например, можно экспортировать макет отчета, а затем отправить файл другому лицу для изменения. Это лицо может затем внести изменения в макет и вернуть файл, чтобы вы могли импортировать его обратно.  
 
 > [!IMPORTANT]  
@@ -24,7 +27,7 @@ ms.locfileid: "8148308"
 
 ### <a name="to-export-a-report-layout-to-a-file"></a>Экспорт макета отчета в файл  
 
-1.  Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Выбор макета отчета**, а затем выберите связанную ссылку.  
+1.  Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Выбор макета отчета**, а затем выберите соответствующую ссылку.  
 
 2.  Выберите строку отчета, которая содержит пользовательский макет отчета, который требуется экспортировать, затем выберите действие **Пользовательские макеты**.  
 
@@ -38,7 +41,7 @@ ms.locfileid: "8148308"
 
      Для макетов отчета Word файл должен иметь расширение DOCX. Для макетов отчета RDLC файл должен иметь расширение RDLC или RDL.  
 
-2.  Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Выбор макета отчета**, а затем выберите связанную ссылку.  
+2.  Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Выбор макета отчета**, а затем выберите соответствующую ссылку.  
 
 3.  Выберите строку отчета, для которого требуется импортировать макет отчета, затем выберите действие **Пользовательские макеты**.  
 
@@ -48,13 +51,7 @@ ms.locfileid: "8148308"
 
  Исходный пользовательский макет отчета заменяется на импортированный макет отчета.  
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/change-documents-dynamics-365-business-central/index)
-
-## <a name="see-also"></a>См. также
-
-[Создание и изменение пользовательского макета отчета](ui-how-create-custom-report-layout.md)   
-[Управление макетами отчетов и документов](ui-manage-report-layouts.md)  
-[Работа с отчетами, пакетными заданиями и XMLport](ui-work-report.md)    
-
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]
+## <a name="see-also"></a>См. также  
+ [Создание и изменение пользовательского макета отчета](ui-how-create-custom-report-layout.md)   
+ [Управление макетами отчетов и документов](ui-manage-report-layouts.md)  
+ [Работа с отчетами, пакетными заданиями и XMLport](ui-work-report.md)    

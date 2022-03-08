@@ -1,20 +1,21 @@
 ---
-title: Сведения о проектировании — структура учета трассировки товаров
-description: Узнайте, как использовать операции книги учета товаров в качестве основного носителя номеров отслеживания товаров в структуре разноски отслеживания товаров.
+title: Сведения о проектировании — структура учета трассировки товаров | Документация Майкрософт
+description: Узнайте, как использовать операции книги товаров как основной носитель номеров трассировки товара.
 author: SorenGP
-ms.topic: conceptual
+ms.service: dynamics365-business-central
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: design, item tracking, posting, inventory
-ms.date: 06/15/2021
-ms.author: edupont
-ms.openlocfilehash: b568e62a71b907e8d2f9cbc8eba43773be655b44
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.date: 04/01/2020
+ms.author: sgroespe
+ms.openlocfilehash: 5fc178585579d4f4f8b253ecdb696964993e09c8
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8136326"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3184992"
 ---
 # <a name="design-details-item-tracking-posting-structure"></a>Сведения о проектировании: структура учета трассировки товаров
 Для того чтобы скоординировать с функцией учета стоимости товаров и получить более простое и надежное решение, операции журнала товаров используются как основные носители номеров трассировки товаров.  
@@ -47,5 +48,3 @@ Codeunit 22 переходит по номерам трассировки тов
 ## <a name="see-also"></a>См. также  
 [Сведения о проектировании: трассировка товара](design-details-item-tracking.md)   
 [Сведения о проектировании: разработка трассировки товара](design-details-item-tracking-design.md)
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]

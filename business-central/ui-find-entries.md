@@ -1,21 +1,21 @@
 ---
-title: Поиск записей
+title: Поиск записей | Документация Microsoft
 description: В этой статье описывается, как работать с документами и записями, которые связаны
 author: jswymer
+ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: find
-ms.search.form: 344, 9020, 9022, 9026, 9027, 9030, 9000, 9004, 9005, 9018, 9006, 9007, 9010, 9016, 9017
 ms.date: 04/01/2021
 ms.author: jswymer
-ms.openlocfilehash: b77a8508d921f885276d3e0b7956d7785b7f29cb
-ms.sourcegitcommit: 75a388b1d8917e2bbd49398ef76cf86cf37e6767
+ms.openlocfilehash: 5f8ddd7176e69c9d1eb3b8d8ff98c93695d50993
+ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/17/2022
-ms.locfileid: "8322984"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "5771165"
 ---
 # <a name="finding-related-entries-for-posted-documents"></a>Поиск связанных записей для учтенных документов 
 
@@ -41,7 +41,7 @@ ms.locfileid: "8322984"
 <!--
  There are two ways to open this page:
 
-- Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Find Entries**, and then choose the related link.
+- Choose the ![Lightbulb that opens the Tell Me feature](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Find Entries**, and then choose the related link.
 
     With this way, the **Find Entries** page might be empty, and you'll have to start searching for entries from scratch.
     
@@ -67,7 +67,7 @@ ms.locfileid: "8322984"
 После того, как вы сделаете выбор, введите релевантную поисковую информацию в поля вверху. Используйте всплывающие подсказки на полях. Когда вы закончите, выберите **Найти**, чтобы начать поиск. Если изменить любые фильтры, следует снова выбрать **Найти**.
 
 > [!TIP]
-> Несколько примеров использования **Найти записи**, см. [Отслеживание отслеживаемых предметов](inventory-how-to-trace-item-tracked-items.md) <!--and [Walkthrough: Tracing Serial-Lot Numbers](walkthrough-tracing-serial-lot-numbers.md). -->
+> Для пары примеров использования **Найти записи** см. [Трассировка товаров, трассируемых по товарам](inventory-how-to-trace-item-tracked-items.md) и [Пошаговое руководство. Трассировка серийных номеров и номеров партии](walkthrough-tracing-serial-lot-numbers.md).
 
 ## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/user-interface-dynamics-365-business-central/index)
 

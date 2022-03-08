@@ -2,6 +2,7 @@
 title: Управление интеграцией OneDrive с Business Central
 description: Узнайте о том, что вы можете сделать для управления интеграцией между Business Central и OneDrive для бизнеса.
 author: bholtorf
+ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -9,19 +10,19 @@ ms.workload: na
 ms.search.keywords: OneDrive, share, browser
 ms.date: 05/12/2021
 ms.author: bholtorf
-ms.openlocfilehash: 20c6eb27aa3af2557ce77993b11f759f2c329100
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: cceb05c1ad19a95494c188cd2482b45962535c94
+ms.sourcegitcommit: 99c705d160451c05b226350ff94b52fb0c3ae7a0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8144028"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "7606414"
 ---
 # <a name="managing-onedrive-integration-with-business-central"></a>Управление интеграцией OneDrive с Business Central 
 В этой статье представлен обзор того, что администратор может делать для управления интеграцией OneDrive для бизнеса с [!INCLUDE[prod_short](includes/prod_short.md)]. Клиенты [!INCLUDE[prod_short](includes/prod_short.md)] Online получают выгоду от автоматической интеграции, без дополнительной настройки, необходимой для использования этих функций. 
 
 ## <a name="minimum-requirements"></a>Минимальные требования
 
-* У каждого пользователя должна быть лицензия на [!INCLUDE[prod_short](includes/prod_short.md)] и OneDrive в составе плана Microsoft 365.
+* У каждого пользователя должна быть лицензия на [!INCLUDE[prod_short](includes/prod_short.md)] и OneDrive как часть плана Microsoft 365.
 * OneDrive должны быть настроены для каждого пользователя.
 
 ## <a name="governance"></a>Управление
@@ -67,7 +68,7 @@ ms.locfileid: "8144028"
 
    For more information, see [Authenticating Business Central Users with Azure Active Directory](/dynamics365/business-central/dev-itpro/administration/authenticating-users-with-azure-active-directory)-->
 
-Добавьте зарегистрированное приложение для Business Central в свой клиент Azure AD, соответствующий вашему плану Microsoft 365. Как и другие службы Azure, которые работают с Business Central, OneDrive требует регистрации приложения в Azure Active Directory (Azure AD). Регистрация приложения предоставляет услуги аутентификации и авторизации между Business Central и SharePoint, что используется OneDrive.
+Добавьте зарегистрированное приложение для Business Central в свой арендатор Azure AD вашего плана Microsoft 365. Как и другие службы Azure, которые работают с Business Central, OneDrive требует регистрации приложения в Azure Active Directory (Azure AD). Регистрация приложения предоставляет услуги аутентификации и авторизации между Business Central и SharePoint, что используется OneDrive.
 
 Настройте зарегистрированное приложение со следующими делегированными разрешениями для API SharePoint:
 

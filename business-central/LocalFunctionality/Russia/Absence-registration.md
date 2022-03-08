@@ -2,23 +2,24 @@
 title: Регистрация отсутствия в России
 description: Российские улучшения включают регистрацию отсутствия.
 author: DianaMalina
-ms.topic: conceptual
+ms.service: dynamics365-business-central
+ms.topic: article
 ms.search.keywords: ''
-ms.date: 04/01/2021
+ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 1f41e403bcab6676ca9706ef694b4f3bbd9ab44d
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 9038462d228d2799bfc7f47db191ca079f24145f
+ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8133495"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "2301201"
 ---
 # <a name="absence-registration"></a>Регистрация отсутствия
 
 Все виды отсутствия, которые оплачиваются в соответствии с законодательством о среднем заработке, должны регистрироваться в соответствующих типах приказов. 
 
-Есть четыре типа приказов в [!INCLUDE[prod_short](../../includes/prod_short.md)]:
+Есть четыре типа приказов в [!INCLUDE[prodshort](../../includes/prodshort.md)]:
 
 - Отпуск; 
 - Командировка; 
@@ -59,6 +60,3 @@ ms.locfileid: "8133495"
 ## <a name="see-also"></a>См. также
 
 [Персонал](Human-Resources.md)
-
-
-[!INCLUDE[footer-include](../../includes/footer-banner.md)]

@@ -1,24 +1,25 @@
 ---
-title: Конфигурирование шаблонов API
+title: Конфигурирование шаблонов API | Документация Майкрософт
 description: Описываются действия, которые необходимо выполнить для настройки шаблонов API для Dynamics 365 Business Central.
+services: project-madeira
+documentationcenter: ''
 author: SusanneWindfeldPedersen
+ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: API templates, configuring templates
-ms.search.form: 5469
 ms.date: 04/01/2021
 ms.author: solsen
-ms.openlocfilehash: 63793ca9907d0b2c58df7f82dae88783ba0fcbc7
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: fef3b56de7724745dcf8385c0e4665e3e2d4743d
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8136353"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6443996"
 ---
 # <a name="configuring-api-templates"></a>Конфигурирование шаблонов API
-
 Библиотека API для [!INCLUDE[prod_short_md](includes/prod_short.md)] предоставляет разработчикам упрощенное представление лежащих в ее основе объектов. Не все свойства в приложении предоставляются через связанный API. Страница **Настройка API** позволяет определить шаблоны, используемые для заполнения пустых свойств в объекте при создании действия POST через API. 
 
 Например, если для объекта товара определен шаблон конфигурации, при создании новой записи товара через API товаров все свойства нового товара, не определенные в вызове API, будут заполняться из выбранного шаблона. Например, если для поля **Общая товарная группа** не задается значение через API, однако значение задано в выбранном шаблоне, то к новому товару будет применено значение товарной группы, определенное в шаблоне. 

@@ -2,19 +2,20 @@
 title: Настройка браузера
 description: Описывается, как настроить браузеры для работы с решением Business Central и продуктами, которые с ним интегрируются.
 author: jswymer
+ms.service: dynamics365-business-central
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: Teams, web client, troubleshooting, errors
-ms.date: 04/01/2021
+ms.date: 01/08/2021
 ms.author: jswymer
-ms.openlocfilehash: a60c9e041ec61c61374fa7860c27018d362b165f
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: b5083735be31b635cb3fc3ce404e7f182d04640f
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8141753"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5384978"
 ---
 # <a name="setting-up-and-troubleshooting-your-browser-to-work-with-business-central-web-client"></a>Настройка и устранение неполадок браузера для работы с веб-клиентом Business Central
 
@@ -24,7 +25,7 @@ ms.locfileid: "8141753"
 
 ## <a name="use-a-supported-browser"></a>Использование поддерживаемого браузера
 
-Убедитесь, что вы используете один из поддерживаемых браузеров. См. раздел [Минимальные требования для использования Business Central](product-requirements.md#browsers).  
+Убедитесь, что вы используете один из поддерживаемых браузеров. См. раздел [Минимальные требования для использования Business Central](product-requirements.md#recommended-browsers).  
 
 ## <a name="allow-javascript-from-business-central"></a>Разрешение JavaScript из Business Central
 

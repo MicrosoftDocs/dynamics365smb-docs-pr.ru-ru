@@ -2,25 +2,26 @@
 title: Определение расширений финансовых отчетов в России
 description: Российские усовершенствования включают расширение строк финансовых отчетов.
 author: DianaMalina
-ms.topic: conceptual
+ms.service: dynamics365-business-central
+ms.topic: article
 ms.search.keywords: ''
-ms.date: 04/01/2021
+ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 4aaac7a1d813c7326797de46b0487cbe4f14e38a
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: f9341168a1ad5a5ea23a05c8f2b5df580349a2a2
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8129329"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3921234"
 ---
 # <a name="define-an-account-schedule-extension"></a>Определение расширения финансового отчета
 
-[!INCLUDE[prod_short](../../includes/prod_short.md)] позволяет определить расширение для строки финансового отчета. Расширения удобны, если требуется фильтрация данных для счетов главной книги.
+[!INCLUDE[prodshort](../../includes/prodshort.md)] позволяет определить расширение для строки финансового отчета. Расширения удобны, если требуется фильтрация данных для счетов главной книги.
 
 ## <a name="to-define-an-account-schedule-extension"></a>Определение расширения финансового отчета
 
-1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../../media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Финансовый отчет**, а затем выберите связанную ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Финансовый отчет**, затем выберите соответствующую ссылку.
 2. Выберите финансовый отчет, для которого необходимо определить расширение.
 3. Выберите **Изменение финансового отчета**.
 4. В поле **Номер строки** выберите номер строки финансового отчета, для которого необходимо определить расширение.
@@ -33,6 +34,3 @@ ms.locfileid: "8129329"
 [Работа с финансовыми отчетами](How-to-Work-with-Account-Schedules.md)  
 [Обзор финансовых отчетов](account-schedules-overview.md)  
 [Определение константы финансового отчета](How-to-Define-an-Account-Schedule-Constant.md)  
-
-
-[!INCLUDE[footer-include](../../includes/footer-banner.md)]

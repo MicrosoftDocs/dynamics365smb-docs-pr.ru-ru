@@ -2,17 +2,18 @@
 title: Ввод сведений таможенных деклараций в России
 description: Российские улучшения включают таможенные декларации.
 author: AndreiPanko
+ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: andreipa
-ms.openlocfilehash: d4022492fe08d27eb71b94ba045e04f2d318df59
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 592a96b2e4d53a443d959f7fbe8e0ea262d4d056
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8131072"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6443547"
 ---
 # <a name="custom-declaration"></a>Таможенная декларация
 Российское законодательство требует, чтобы компании регистрировали и отслеживали номер таможенной декларации для всех импортируемых товаров. Если компания продает импортные товары, она должна указывать номер таможенной декларации и страну происхождения в счетах-фактурах.

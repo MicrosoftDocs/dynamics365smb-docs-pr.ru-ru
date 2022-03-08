@@ -2,19 +2,20 @@
 title: Сведения о проектировании — поставка и требования | Документация Майкрософт
 description: В этом разделе вводится концепция требования — это общий термин, используемый для любого типа общего требования, такого как заказ на продажу и требуемый компонент в производственном заказе.
 author: SorenGP
-ms.topic: conceptual
+ms.service: dynamics365-business-central
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: design, demand, supply, inventory, planning
-ms.date: 06/08/2021
-ms.author: edupont
-ms.openlocfilehash: 3b5f390343f74bc559cce48b2037edd125f829ca
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.date: 04/01/2020
+ms.author: sgroespe
+ms.openlocfilehash: f808865bd4fc2113dd5c04071f7ba2e8793fe3af
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8143638"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3185568"
 ---
 # <a name="design-details-demand-at-blank-location"></a>Сведения о проектировании: спрос на пустом складе
 Если пользователь создает событие требования, например строку заказа на продажу, программа иногда позволяет пользователю указать код склада, в другие разы — нет, нужно использовать пустой склад.
@@ -131,6 +132,3 @@ ms.locfileid: "8143638"
 [Сведения о проектировании: балансировка спроса и поставки](design-details-balancing-demand-and-supply.md)   
 [Сведения о проектировании: основные понятия системы планирования](design-details-central-concepts-of-the-planning-system.md)   
 [Сведения о проектировании: планирование поставок](design-details-supply-planning.md)
-
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]

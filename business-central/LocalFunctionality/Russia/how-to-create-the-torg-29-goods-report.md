@@ -2,17 +2,18 @@
 title: Создание товарного отчета ТОРГ-29 в России
 description: Российские улучшения включают поддержку товарного отчета ТОРГ-29.
 author: DianaMalina
-ms.topic: conceptual
+ms.service: dynamics365-business-central
+ms.topic: article
 ms.search.keywords: ''
-ms.date: 04/01/2021
+ms.date: 10/01/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 2d7e1108777cee4507fd854543d948a089b07881
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 684e33d1ab4c002f6062df9c809292311bbe1b86
+ms.sourcegitcommit: 319023e53627dbe8e68643908aacc6fd594a4957
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8146012"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "2554515"
 ---
 # <a name="create-the-torg-29-goods-report"></a>Создание товарного отчета ТОРГ-29
 
@@ -22,7 +23,7 @@ ms.locfileid: "8146012"
 
 ## <a name="to-create-the-torg-29-report"></a>Создание отчета ТОРГ-29
 
-1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../../media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Товарный отчет ТОРГ-29**, а затем выберите связанную ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Товарный отчет ТОРГ-29**, а затем выберите соответствующую ссылку.
 
 2. На экспресс-вкладке **Параметры** заполните поля, как описано в следующей таблице.
 
@@ -50,6 +51,3 @@ ms.locfileid: "8146012"
 ## <a name="see-also"></a>См. также
 
 [Настройка запасов](../../inventory-setup-inventory.md)  
-
-
-[!INCLUDE[footer-include](../../includes/footer-banner.md)]

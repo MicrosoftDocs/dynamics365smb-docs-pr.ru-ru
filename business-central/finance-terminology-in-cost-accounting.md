@@ -1,27 +1,28 @@
 ---
-title: Терминология в учете затрат
-description: В этой теме определяются ключевые термины, которые используются в учете затрат, такие как ключ распределения и источник распределения.
+title: Терминология в учете затрат | Документы Майкрософт
+description: В этом разделе определены ключевые понятия, которые используются в учете затрат.
+services: project-madeira
+documentationcenter: ''
 author: SorenGP
-ms.topic: conceptual
+ms.service: dynamics365-financials
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 06/16/2021
-ms.author: edupont
-ms.openlocfilehash: 4ba3cb0930426f44c1064f4d565b8ddaf8563fdd
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.date: 07/01/2017
+ms.author: sgroespe
+ms.openlocfilehash: 53b696861178957a389e03a09ef4f78552ca0c7f
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8147574"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1238743"
 ---
 # <a name="terminology-in-cost-accounting"></a>Терминология в учете затрат
-
 В этом разделе определены ключевые понятия, которые используются в учете затрат.  
 
-## <a name="key-terms"></a>Ключевые понятия
-
+## <a name="key-terms"></a>Ключевые понятия  
  В следующей таблице даны определения основных понятий в учете затрат.  
 
 |**Термин**|**Описание**|  
@@ -51,7 +52,4 @@ ms.locfileid: "8147574"
 ## <a name="see-also"></a>См. также  
  [Об учете затрат](finance-about-cost-accounting.md)   
  [Учет по затратам](finance-manage-cost-accounting.md)  
- [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
-
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]
+ [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

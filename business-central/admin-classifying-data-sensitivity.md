@@ -5,17 +5,17 @@ author: bholtorf
 ms.author: bholtorf
 ms.custom: na
 ms.reviewer: na
-ms.topic: conceptual
-ms.search.form: 1752
-ms.date: 06/14/2021
-ms.openlocfilehash: 4ec4e6cd24c620829b35b7e3e25a27d4f127e045
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.service: dynamics365-business-central
+ms.topic: article
+ms.date: 10/01/2019
+ms.openlocfilehash: 7578cdff40111adcbf2401e6bed33ddf47641107
+ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8136430"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "2880980"
 ---
-# <a name="classifying-data-sensitivity-fields"></a>Классификация полей конфиденциальности данных
+# <a name="classifying-data-sensitivity"></a>Классификация конфиденциальности данных
 Для классификации полей, в которых хранятся конфиденциальные или личные данные, партнер Майкрософт может настроить свойство ```DataClassification``` полей. Для этого требуется доступ к таблицам базы данных, либо через среду разработки, либо путем запуска сценария Windows PowerShell. Дополнительные сведения см. в разделе [Классификация данных](/dynamics365/business-central/dev-itpro/developer/devenv-classifying-data).  
 
 Как клиент, вы можете добавить второй уровень классификации, указав уровни конфиденциальности для данных, которых хранятся в стандартных и настроенных полях. Классификация конфиденциальности данных помогает гарантировать, что вы знаете, где хранятся личные данные в вашей системе, и упрощает ответ на запросы от субъектов данных. Например, если контакт или клиент попросит вас экспортировать свои личные данные. Дополнительные сведения см. в разделе [Ответ на запросы о личных данных](admin-responding-to-requests-about-personal-data.md).
@@ -50,6 +50,3 @@ ms.locfileid: "8136430"
 ## <a name="see-also"></a>См. также
 
 [Классификация данных](/dynamics365/business-central/dev-itpro/developer/devenv-classifying-data)  
-
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]

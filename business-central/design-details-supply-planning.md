@@ -2,22 +2,23 @@
 title: Сведения о проектировании — планирование поставок | Документация Майкрософт
 description: Этот раздел содержит обзор концепций и принципов, используемых в функциях планирования поставок в Business Central.
 author: SorenGP
-ms.topic: conceptual
+ms.service: dynamics365-business-central
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: design, supply, planning, reordering, replenishment
-ms.date: 06/08/2021
-ms.author: edupont
-ms.openlocfilehash: 7f1ba46b98d041639b2089a661b5e7b137edc6b1
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.date: 04/01/2020
+ms.author: sgroespe
+ms.openlocfilehash: 8b364aef69ab7b9e036caebe2f60387982cd9221
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8131838"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3184670"
 ---
 # <a name="design-details-supply-planning"></a>Сведения о проектировании: планирование поставок
-Документация содержит подробные технические сведения о концепциях и принципах, используемых в функциях планирования поставок в [!INCLUDE[prod_short](includes/prod_short.md)].  
+Документация содержит подробные технические сведения о концепциях и принципах, используемых в функциях планирования поставок в [!INCLUDE[d365fin](includes/d365fin_md.md)].  
 
 В ней описывается, как работает система планирования и как скорректировать алгоритмы для выполнения требований планирования в различных средах. Сначала приводятся основные понятия решений, а затем описывается логика центрального механизма, балансировка поставок и выполнение планирования запасов с использованием политик дозаказа.  
 
@@ -30,6 +31,3 @@ ms.locfileid: "8131838"
 [Сведения о проектировании: таблица "Назначение произ. плана"](design-details-planning-assignment-table.md)  
 [Сведения о проектировании: спрос на пустом складе](design-details-demand-at-blank-location.md)  
 [Сведения о проектировании: перемещения при планировании](design-details-transfers-in-planning.md)
-
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]

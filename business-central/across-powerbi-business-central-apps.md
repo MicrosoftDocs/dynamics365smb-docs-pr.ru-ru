@@ -2,19 +2,20 @@
 title: Использование приложений Business Central в Power BI | Документация Майкрософт
 description: Анализ данных, бизнес-аналитика и КПЭ на основе данных Business Central становятся проще благодаря приложениям Business Central для Power BI.
 author: jswymer
+ms.service: dynamics365-business-central
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: account schedule, analysis, reporting, financial report, business intelligence, KPI
-ms.date: 04/01/2021
+ms.date: 10/01/2020
 ms.author: jswymer
-ms.openlocfilehash: e61e4561c4227eba4c518e6e5ec0582c5ebe7d70
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 479fa9897d817075aec8d2d6fd9431dbe49ab162
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8134152"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4754321"
 ---
 # <a name="using-the-prod_short-apps-in-power-bi"></a>Использование приложений [!INCLUDE [prod_short](includes/prod_short.md)] в Power BI
 
@@ -62,7 +63,7 @@ ms.locfileid: "8134152"
 1. Откройте браузер, перейдите по адресу [https://powerbi.microsoft.com](https://powerbi.microsoft.com) и войдите в свою учетную запись.
 2. Выберите **Получить данные** в нижней части левой панели навигации.  
 
-    ![Переход к разделу "Получить данные".](./media/across-how-to-connect-powerbi-d365-content-packs/powerbi-get-data.png)
+    ![Переход к разделу "Получить данные"](./media/across-how-to-connect-powerbi-d365-content-packs/powerbi-get-data.png)
 
     Можно также начать из [!INCLUDE [prod_short](includes/prod_short.md)]. Находясь на домашней странице, перейдите к пункту **Выбор отчета** в разделе Power BI. Выберите на ленте **Сервис** или **Моя организация**. Галерея организации в Power BI или Microsoft AppSource открывается, отфильтрованная, чтобы отображать только приложения, связанные с [!INCLUDE[prod_short](includes/prod_short.md)].
 
@@ -88,7 +89,7 @@ ms.locfileid: "8134152"
 5. При появлении запроса введите имя пользователя и пароль для входа в [!INCLUDE[prod_short](includes/prod_short.md)].
 6. После подключения панель мониторинга и отчеты добавляются в вашу рабочую область Power BI. По завершении плитки отображают данные из вашей организации [!INCLUDE[prod_short](includes/prod_short.md)].
 
-    ![Выберите Dynamics 365 Business Central и выберите "Получить сейчас".](./media/across-how-to-connect-powerbi-d365-content-packs/powerbi-workspace-dashboard-report-dataset.png)
+    ![Выберите Dynamics 365 Business Central и выберите "Получить сейчас"](./media/across-how-to-connect-powerbi-d365-content-packs/powerbi-workspace-dashboard-report-dataset.png)
 
 ## <a name="fixing-problems"></a>Устранение проблем
 
@@ -163,14 +164,11 @@ ms.locfileid: "8134152"
 [Быстрый старт: подключение к данным в Power BI Desktop](/power-bi/desktop-quickstart-connect-to-data)  
 [Документация Power BI](/power-bi/)  
 [Бизнес-аналитика](bi.md)  
-[Подготовьтесь к ведению бизнеса](ui-get-ready-business.md)  
+[Приступая к работе](product-get-started.md)  
 [Импорт бизнес-данных из других финансовых систем](across-import-data-configuration-packages.md)  
 [Настройка [!INCLUDE[prod_short](includes/prod_short.md)]](setup.md)  
 [Использование [!INCLUDE[prod_short](includes/prod_short.md)] как источника данных Power BI](across-how-use-financials-data-source-powerbi.md)  
 [Использование [!INCLUDE[prod_short](includes/prod_short.md)] как источника данных Power Apps](across-how-use-financials-data-source-powerapps.md)  
 [Использование [!INCLUDE[prod_short](includes/prod_short.md)] в Power Automate](across-how-use-financials-data-source-flow.md)  
 
-
-
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]
+## [!INCLUDE[prod_short](includes/free_trial_md.md)]  

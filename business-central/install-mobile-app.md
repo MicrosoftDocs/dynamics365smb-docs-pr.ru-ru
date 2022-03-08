@@ -1,33 +1,33 @@
 ---
-title: Получение Business Central на мобильном устройстве (содержит видео)
-description: В этом разделе описаны различные способы просмотра и редактирования данных Business Central, отправки в Excel и другое на телефоне или планшете.
-author: jswymer
+title: Получение Business Central на мобильном устройстве
+description: Данные Business Central можно просматривать и редактировать на телефоне или планшете.
+author: edupont04
+ms.service: dynamics365-business-central
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: desktop, Windows, app
-ms.date: 10/01/2021
-ms.author: jswymer
-ms.openlocfilehash: 9c550c5e62b025d59c451aed83a6dbf6f0e1e11b
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.search.keywords: phone, tablet
+ms.date: 10/15/2020
+ms.author: edupont
+ms.openlocfilehash: 4ed1d9d7eb4c9628bad6ff80f296cff24833fa93
+ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8138470"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4746445"
 ---
 # <a name="getting-business-central-on-your-mobile-device"></a>Получение Business Central на мобильном устройстве
 
-Работайте с данными [!INCLUDE[prod_short](includes/prod_short.md)] с мобильного устройства. Вы можете просматривать бизнес-данные, использовать такие функции, как отправка в Excel или Microsoft 365, просматривать последние диаграммы и ключевые показатели эффективности, отправлять по электронной почте предложения и счета, а также делать фотографии с помощью камеры и прикладывать снимки. Выполните следующие действия для загрузки приложения и начала работы.
+Работайте с данными [!INCLUDE[prod_short](includes/prod_short.md)] с мобильного устройства. Вы можете просматривать бизнес-данные, использовать такие функции, как отправка в Excel или Office 365, просматривать последние диаграммы и ключевые показатели эффективности, отправлять по электронной почте предложения и счета, а также делать фотографии с помощью камеры и прикладывать снимки. Выполните следующие действия для загрузки приложения и начала работы.
 
 > [!Video https://www.microsoft.com/en-us/videoplayer/embed/RE4Arje?rel=0]
 
-> [!TIP]
-> Хотите, чтобы приложение было на рабочем столе вашего компьютера с Windows или macOS? См. [Получение приложения Business Central на настольном компьютере](install-desktop-app.md).
-
 ## <a name="get-the-app-on-my-mobile-device"></a>Получение приложения на мобильном устройстве
 
-1. Установите приложение [!INCLUDE[prod_short](includes/prod_short.md)] на мобильное устройство, скачав его из App Store или Google Play.  
+1. Установите приложение [!INCLUDE[prod_short](includes/prod_short.md)] на мобильное устройство, скачав его из магазина Windows, App Store или Google Play.  
+
+   - [Магазин Windows](https://go.microsoft.com/fwlink/?LinkId=734848) (только ПК)
    - [App Store](https://go.microsoft.com/fwlink/?LinkId=734847)
    - [Google Play](https://go.microsoft.com/fwlink/?LinkId=734849)
 2. Запустите приложение на мобильном устройстве.
@@ -44,8 +44,9 @@ ms.locfileid: "8138470"
 
 Если вы используете [!INCLUDE[prod_short](includes/prod_short.md)] On-Premises, вы также можете пользоваться преимуществами мобильного приложения. Установка аналогична, но с парой исключений.
 
-1. Установите приложение [!INCLUDE[prod_short](includes/prod_short.md)] на мобильное устройство, скачав его из App Store или Google Play.  
+1. Установите приложение [!INCLUDE[prod_short](includes/prod_short.md)] на мобильное устройство, скачав его из магазина Windows, App Store или Google Play.  
 
+   - [Магазин Windows](https://go.microsoft.com/fwlink/?LinkId=734848) (только ПК)
    - [App Store](https://go.microsoft.com/fwlink/?LinkId=734847)
    - [Google Play](https://go.microsoft.com/fwlink/?LinkId=734849)
 2. Запустите приложение на мобильном устройстве.
@@ -62,9 +63,6 @@ ms.locfileid: "8138470"
 
 ## <a name="see-also"></a>См. также
 
-[Вопросы и ответы по мобильным приложениям](ui-mobile-faq.yml)  
-[Подготовьтесь к ведению бизнеса](ui-get-ready-business.md)  
+[Вопросы и ответы по мобильным приложениям](ui-mobile-faq.md)  
+[Приступая к работе](product-get-started.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
-
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]

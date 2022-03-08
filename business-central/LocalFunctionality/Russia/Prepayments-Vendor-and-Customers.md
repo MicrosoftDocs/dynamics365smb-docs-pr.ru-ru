@@ -2,17 +2,18 @@
 title: Предоплата для поставщиков и клиентов в России
 description: Российские усовершенствования включают управление предоплатой поставщиков и клиентов.
 author: DianaMalina
+ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
-ms.date: 04/01/2021
+ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: c275f8f8c9ea4cf1bffbd3a1b56369d3924b8c55
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: c976b48080554a2a5db171f030d06be5d7cfdab4
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8144150"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5382785"
 ---
 # <a name="posting-vendor-and-customer-prepayments"></a>Учет предоплаты поставщиков и клиентов
 

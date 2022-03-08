@@ -2,18 +2,19 @@
 title: Настройка цен работ и групп учета работ
 description: Далее описывается процедура настройки общих сведений для работ, а также цен товаров для работ, ресурсов, счетов ГК и групп учета работ.
 author: edupont04
+ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.workload: na
 ms.search.keywords: project management
 ms.search.form: 211, 463, 1012
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: d4880f91c53e8618db9be5e0bcdbfa396cbf21fd
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 5b5a071bbaff4b0c5a95725fdf77af3887b5e00a
+ms.sourcegitcommit: 2ab6709741be16ca8029e2afadf19d28cf00fbc7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8137449"
+ms.lasthandoff: 01/14/2022
+ms.locfileid: "7973288"
 ---
 # <a name="set-up-jobs-prices-and-job-posting-groups"></a>Настройка цен работ и групп учета работ
 

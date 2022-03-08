@@ -1,21 +1,21 @@
 ---
-title: Обзор задач по управлению платежами поставщикам
+title: Обзор задач управления платежами поставщикам | Microsoft Docs
 description: Описываются задачи по управлению платежами поставщикам или кредиторам, включая учет строк платежей и получение обзора сумм к оплате.
 author: edupont04
-ms.topic: overview
+ms.service: dynamics365-business-central
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: print check, vendor payment, creditor, debt, balance due, AP
-ms.search.form: 254, 256, 1190, 1191, 1227, 1228, 1229
-ms.date: 04/01/2021
+ms.date: 04/01/2019
 ms.author: edupont
-ms.openlocfilehash: 6cda8910fdd2f0bdaa3e79a193cae5274d6f9ba8
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 4ece210d5dd8f7748b6c7031bb0fedf571b61c9c
+ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8137761"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1253175"
 ---
 # <a name="making-payments"></a>Осуществление платежей
 
@@ -37,7 +37,7 @@ ms.locfileid: "8137761"
 |Учет платежей в адрес поставщиков или сотрудников и возвратов в адрес клиентов и (при необходимости) применение платежей к соответствующим неоплаченным счетам/кредит-нотам для их закрытия в качестве оплаченных.|[Регистрация платежей и возвратов](payables-how-post-payments-refunds.md)|
 | Использование функции на странице **Журнал платежей** для предложения оплат поставщикам в соответствии с выбранными критериями, такими как срок оплаты, доступность скидки и ваша ликвидность. |[Предлож. оплаты поставщикам](payables-how-suggest-vendor-payments.md) |
 | Выпуск платежных документов для платежей поставщикам или возвратов клиентам в печатном виде или в электронном виде. Аннулируйте чеки перед учетом или после него. |[Совершение платежей с помощью платежных документов](payables-how-work-checks.md) |
-|Выполнение электронных платежей согласно стандарту кредитового перевода SEPA в ЕС.|[Выполнение платежей с помощью расширения AMC Banking 365 Fundamentals или кредитного перевода SEPA](finance-make-payments-with-bank-data-conversion-service-or-sepa-credit-transfer.md)|
+|Выполнение электронных платежей согласно стандарту кредитового перевода SEPA в ЕС.|[Выполнение платежей с помощью службы конвертации банковских данных или кредитового перевода SEPA](finance-make-payments-with-bank-data-conversion-service-or-sepa-credit-transfer.md)|
 | Платите поставщику наличными или чеком, и учитывайте платеж при учете счета. |[Немедленное создание счетов покупки](finance-how-to-settle-purchase-invoices-promptly.md) |
 | Убедитесь, что банк выполняет клиринг только проверенных платежных документов и сумм, отправив ему файл, содержащий сведения о поставщике, платежном документе и платеже. |[Экспорт файла Positive Pay](finance-how-positive-pay.md) |
 
@@ -45,7 +45,4 @@ ms.locfileid: "8137761"
 [Управление кредиторской задолженностью](payables-manage-payables.md)  
 [Покупки](purchasing-manage-purchasing.md)  
 [Управление дебиторской задолженностью](receivables-manage-receivables.md)  
-[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
-
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]
+[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  

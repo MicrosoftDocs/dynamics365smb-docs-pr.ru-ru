@@ -2,19 +2,20 @@
 title: Настройка организации с помощью мастера RapidStart | Документация Майкрософт
 description: Можно быстро настроить новую организацию, которую вы создали с помощью мастера RapidStart Services.
 author: SorenGP
-ms.topic: conceptual
+ms.service: dynamics365-business-central
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2021
-ms.author: edupont
-ms.openlocfilehash: 1b29412d166bd5b2225d780a0b0cee476874dcd0
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.date: 04/01/2020
+ms.author: sgroespe
+ms.openlocfilehash: 1a9d4c2a4a99ebec0aa1fc019871608948844b7a
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8130856"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3187224"
 ---
 # <a name="configure-a-company-with-the-rapidstart-wizard"></a>Настройка организации с помощью мастера RapidStart
 Можно быстро настроить новую организацию, которую вы создали с помощью мастера RapidStart Services.
@@ -38,7 +39,7 @@ ms.locfileid: "8130856"
     >  Ролевой центр изменяется только после того как пользователь завершил настройку организации. Если имеется больше сведений о настройке для изучения и изменения, для продолжения работы сначала используйте журнал конфигураций. Затем вернитесь в мастер для обновления своего профиля ролевого центра или выберите действие **Выполнить настройку**.
 
 7. Нажмите кнопку **ОК**.  
-8. Чтобы убедиться, что информация о конфигурации была применена к новой компании, выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Информация о компании**, а затем выберите связанную ссылку.
+8. Чтобы убедиться, что сведения о конфигурации применены к новой организации, выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Информация об организации**, а затем выберите соответствующую ссылку.
 
 Страница **Информация об организации** содержит указанные пользователем сведения.   
 
@@ -48,6 +49,3 @@ ms.locfileid: "8130856"
 [Применение конфигураций к новым организациям](admin-apply-configuration-to-new-companies.md)  
 [Настройка организации со службами RapidStart Services](admin-set-up-a-company-with-rapidstart.md)  
 [Администрация](admin-setup-and-administration.md)
-
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]

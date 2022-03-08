@@ -2,6 +2,7 @@
 title: Применение платежей к неоплаченным документам продажи | Документация Майкрософт
 description: Вы применяете суммы, уплаченные клиентами, к соответствующим документам продажи у учитываете платежи, чтобы обновить книги клиента, банка и ГК.
 author: SorenGP
+ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -9,12 +10,12 @@ ms.workload: na
 ms.search.keywords: payment process, cash receipts, customer payment
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: dab5042a6a72426453f92c67e2763d370ce8dff1
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 9a2880437f802cb07617690361558745e06540eb
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8139499"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6445404"
 ---
 # <a name="reconcile-customer-payments-from-a-list-of-unpaid-sales-documents"></a>Выверка платежей клиентов из списка неоплаченных документов продажи
 Когда ваши клиенты вносят оплату на ваш электронный банковский счет, необходимо применить каждую оплаченную сумму к связанному документу продажи, а затем учесть платеж и обновить главную книгу, клиента и банковские учтённые операции. В зависимости от потребностей бизнеса можно получать платежи и регистрировать эту оплату различными способами: вручную, автоматически и с помощью службы платежей.  

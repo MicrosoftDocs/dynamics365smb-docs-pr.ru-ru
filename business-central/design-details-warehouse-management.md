@@ -2,22 +2,23 @@
 title: Сведения о проектировании — управление складом | Документация Майкрософт
 description: Этот раздел содержит обзор дизайна, концепций и принципов, используемых в функциях управления складом в Business Central.
 author: SorenGP
-ms.topic: conceptual
+ms.service: dynamics365-business-central
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 06/08/2021
+ms.date: 04/01/2020
 ms.author: edupont
-ms.openlocfilehash: 1b1ec2e989db8c30c0e82f20c31be588dd90fbc1
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 25e492318d7581780fd9fe9038531e1ba1c24282
+ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8149183"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "3787180"
 ---
 # <a name="design-details-warehouse-management"></a>Сведения о проектировании: управление складом
-Этот документ содержит обзор концепций и принципов, использованных в функциях управления складом в [!INCLUDE[prod_short](includes/prod_short.md)]. В ней описывается, как работают функции центрального склада и как управление складом интегрируется с другими функциями цепочки поставок.  
+Этот документ содержит обзор концепций и принципов, использованных в функциях управления складом в [!INCLUDE[d365fin](includes/d365fin_md.md)]. В ней описывается, как работают функции центрального склада и как управление складом интегрируется с другими функциями цепочки поставок.  
 
 Чтобы различать разные уровни сложности складирования, в этом документе используется две общие группы — базовые и расширенные конфигурации складирования, описываемые в одноименных разделах. Эта простая дифференциация охватывает разные уровни сложности, как определено областями продукции и настройками склада. Дополнительные сведения см. в разделе [Сведения о проектировании: настройка склада](design-details-warehouse-setup.md).  
 
@@ -29,6 +30,3 @@ ms.locfileid: "8149183"
 [Сведения о проектировании: наличие на складе](design-details-availability-in-the-warehouse.md)  
 [Сведения о проектировании: исходящий складской поток](design-details-outbound-warehouse-flow.md)  
 [Сведения о проектировании: интеграция с запасом](design-details-integration-with-inventory.md)
-
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]

@@ -1,25 +1,26 @@
 ---
-title: Управление персоналом
+title: Использование функций управления персоналом | Документация Майкрософт
 description: Вы можете регистрировать новый персонал, редактировать информацию об имеющихся сотрудниках, регистрировать и анализировать их отсутствие.
+services: project-madeira
+documentationcenter: ''
 author: SorenGP
-ms.topic: conceptual
+ms.service: dynamics365-business-central
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: personnel, people, employee, staff, HR
-ms.search.form: 5200, 5201, 5212, 5211
-ms.date: 04/01/2021
-ms.author: edupont
-ms.openlocfilehash: 97758b684b3a68508b9b6966d155f956d58c1f4a
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.date: 04/01/2020
+ms.author: sgroespe
+ms.openlocfilehash: d17575523f74ceb4cb11fb7756fff56135d50966
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8135910"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3182544"
 ---
 # <a name="manage-human-resources"></a>Управление персоналом
-
-В [!INCLUDE[prod_short](includes/prod_short.md)] можно хранить подробные записи о сотрудниках. В программе можно регистрировать и хранить такие сведения о сотрудниках, как трудовые соглашения, конфиденциальная информация, квалификации и контактные данные сотрудников.
+В [!INCLUDE[d365fin](includes/d365fin_md.md)] можно хранить подробные записи о сотрудниках. В программе можно регистрировать и хранить такие сведения о сотрудниках, как трудовые соглашения, конфиденциальная информация, квалификации и контактные данные сотрудников.
 
 Также можно регистрировать простои сотрудников, что позволяет при необходимости анализировать зарегистрированные простои.
 
@@ -33,10 +34,6 @@ ms.locfileid: "8135910"
 | Зарегистрируйте простои сотрудников и просмотрите статистику простоев с помощью различных фильтров. |[Управление простоем сотрудника](hr-how-manage-absence.md) |
 
 ## <a name="see-also"></a>См. также
-
 [Финансы](finance.md)  
-[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
+[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 [Изменение набора отображаемых функций](ui-experiences.md)        
-
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]

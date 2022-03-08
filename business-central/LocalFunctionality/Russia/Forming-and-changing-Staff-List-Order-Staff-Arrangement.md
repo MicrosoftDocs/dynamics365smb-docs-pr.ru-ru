@@ -2,17 +2,18 @@
 title: Формирование и изменение штатного расписания в России
 description: Российские усовершенствования включают формирование и изменение штатного расписания.
 author: DianaMalina
-ms.topic: conceptual
+ms.service: dynamics365-business-central
+ms.topic: article
 ms.search.keywords: ''
-ms.date: 04/01/2021
+ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: f4f0b3535f1e791a21cef647ceca508c3faf1014
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: e9af27592a11386aa68e7d989c70f189fbdfefff
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8142639"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3921310"
 ---
 # <a name="forming-and-changing-the-staff-list-order"></a>Формирование и изменение порядка составления штатного расписания
 
@@ -51,7 +52,7 @@ ms.locfileid: "8142639"
 
 ## <a name="forming-of-staff-list"></a>Формирование штатного расписания
 
-В [!INCLUDE[prod_short](../../includes/prod_short.md)] есть концепция архива штатных расписаний. Архив штатных расписаний позволяет сохранить статус штатного расписания на момент его создания.
+В [!INCLUDE[prodshort](../../includes/prodshort.md)] есть концепция архива штатных расписаний. Архив штатных расписаний позволяет сохранить статус штатного расписания на момент его создания.
 
 Штатное расписание на любую доступную дату: **Персонал > Организация > Штатное расписание**.
 
@@ -78,6 +79,3 @@ ms.locfileid: "8142639"
 ## <a name="see-also"></a>См. также
 
 [Персонал](Human-Resources.md)  
-
-
-[!INCLUDE[footer-include](../../includes/footer-banner.md)]

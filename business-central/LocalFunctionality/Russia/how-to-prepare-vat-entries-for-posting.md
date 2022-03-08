@@ -2,25 +2,26 @@
 title: Подготовка операций НДС к учету в России
 description: Российские улучшения включают возможность периодически предоставлять в налоговые органы данные о чистой сумме НДС покупок или продаж.
 author: DianaMalina
-ms.topic: conceptual
+ms.service: dynamics365-business-central
+ms.topic: article
 ms.search.keywords: ''
-ms.date: 04/01/2021
+ms.date: 07/02/2019
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: b6e018fe0bb33ca9f4a2894a1b535c9192ddb101
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: b140fa7b2e2c8015d5fe8d7b1686812200b2f8dc
+ms.sourcegitcommit: 8fe694b7bbe7fc0456ed5a9e42291218d2251b05
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8129325"
+ms.lasthandoff: 07/04/2019
+ms.locfileid: "1738208"
 ---
-# <a name="prepare-vat-entries-for-posting"></a>Подготовка операций НДС к учету
+# <a name="how-to-prepare-vat-entries-for-posting"></a>Практическое руководство. Подготовка операций НДС к учету
 
 Необходимо периодически предоставлять в налоговые органы данные о чистой сумме НДС. Можно использовать **Журнал НДС** для подготовки транзакций с открытыми суммами НДС к учету и для копирования операций в соответствующий журнал НДС. Обычно это нужно перед запуском пакетного задания **Вычисление и учет зачета НДС** для учета и закрытия операций НДС.
 
 ## <a name="to-prepare-vat-entries-for-posting"></a>Подготовка операций НДС к учету
 
-1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../../media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Журнал НДС**, а затем выберите связанную ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Журнал НДС**, затем выберите связанную ссылку.
 
 2. Выберите фильтры, которые определяют связанные с НДС транзакции, которые требуется включить в зачет НДС.
 
@@ -40,7 +41,4 @@ ms.locfileid: "8129325"
 
 ## <a name="see-also"></a>См. также
 
-[Подача отчета об НДС в налоговые органы](../../finance-how-report-vat.md)  
-
-
-[!INCLUDE[footer-include](../../includes/footer-banner.md)]
+[Практическое руководство. Подача отчета об НДС в налоговые органы](../../finance-how-report-vat.md)  

@@ -1,24 +1,25 @@
 ---
-title: Настройка банка
+title: Настройка банковских операций | Документация Майкрософт
 description: Карточки банковских счетов служат для отслеживания банковских счетов и настройки банковских выписок, например Yodlee, для обмена данными.
+services: project-madeira
+documentationcenter: ''
 author: SorenGP
+ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: Yodlee, feed, stream, data exchange, AMC, link
-ms.search.form: 1200
-ms.date: 04/01/2021
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 21665191cc2b6dbedc09321fd165ef2fab098fc3
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: cddfc8c8bb053c314c6c6dddf98b2cfd86c9878f
+ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8139934"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5386253"
 ---
 # <a name="setting-up-banking"></a>Настройка банковских операций
-
 Используя карточки банковских счетов, можно отслеживать все банковские счета в любой валюте. После настройки банковских счетов можно также использовать параметр печати платежных документов.
 
 Для использования электронных банковских сервисов для импорта банковских выписок и экспорта платежей следует настроить и включить соответствующие сервисы.
@@ -29,10 +30,7 @@ ms.locfileid: "8139934"
 | Настройте внешний сервис, который позволяет импортировать банковские выписки в электронном виде для применения платежей и выверки банковских транзакций. |[Настройка службы Envestnet Yodlee Bank Feeds](bank-how-setup-bank-statement-service.md) |
 | Настройте внешний сервис, который позволяет экспортировать платежи в банк для обработки и импортировать банковские выписки в виде банковских файлов для применения платежей и выверки банковских транзакций. |[Использование расширения AMC Banking 365 Fundamentals](ui-extensions-amc-banking.md) |
 
-[!INCLUDE [local-functionality](includes/local-functionality.md)]
-
 ## <a name="see-also"></a>См. также
-
 [Выверка банковских счетов](bank-manage-bank-accounts.md)  
 [Управление дебиторской задолженностью](receivables-manage-receivables.md)  
 [Управление кредиторской задолженностью](payables-manage-payables.md)  

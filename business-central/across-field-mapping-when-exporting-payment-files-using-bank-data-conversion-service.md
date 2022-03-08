@@ -2,30 +2,28 @@
 title: Сопоставление полей для экспорта файлов банковских платежей | Документация Майкрософт
 description: При экспорте файлов платежей с использованием расширения AMC Banking 365 Fundamentals экспортируемые данные предоставляются поставщику услуг.
 author: SorenGP
-ms.topic: conceptual
+ms.service: dynamics365-business-central
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2021
+ms.date: 10/01/2020
 ms.author: edupont
-ms.openlocfilehash: 46664dac24f5da8eab714f1be303e4fb7241496d
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: a761d1127e2a0568e59a329fd3e187beffb6b7e5
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8131038"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3918080"
 ---
 # <a name="field-mapping-when-exporting-payment-files-using-the-amc-banking-365-fundamentals-extension"></a>Сопоставление полей при экспорте файлов платежей с использованием расширения AMC Banking 365 Fundamentals
 При экспорте файлов платежей с использованием расширения AMC Banking 365 Fundamentals экспортируемые данные предоставляются поставщику услуг. Поставщик услуг отвечает за конфиденциальность этих данных. Дополнительные сведения о расширении AMC Banking 365 Fundamentals см. в разделе [Использование расширения AMC Banking 365 Fundamentals](ui-extensions-amc-banking.md).  
 
 > [!CAUTION]  
->  При экспорте файлов платежей с помощью расширения AMC Banking 365 Fundamentals некоторые бизнес-данные станут доступны поставщику службы. Поставщик услуг AMC Consult A/S отвечает за конфиденциальность этих данных. Дополнительные сведения прочитайте в разделе [Политика конфиденциальности AMC](https://go.microsoft.com/fwlink/?LinkId=510158).  
+>  При экспорте файлов платежей с помощью расширения AMC Banking 365 Fundamentals некоторые бизнес-данные станут доступны поставщику службы. Поставщик услуг AMC Consult A/S отвечает за конфиденциальность этих данных. Дополнительные сведения см. в разделе [Политика конфиденциальности AMC](https://go.microsoft.com/fwlink/?LinkId=510158).  
 
-> [!NOTE]
-> В общей версии [!INCLUDE[prod_short](includes/prod_short.md)] настраивается и подключается глобальный поставщик услуг для преобразования банковских данных в любой формат файла, требуемый банком. В версиях для Северной Америки та же служба может использоваться для отправки файлов платежей в виде электронного перевода денежных средств (EFT), например, обычно используется сеть автоматизированной клиринговой палаты (ACH), но с немного другим процессом.
-
-В следующей таблице перечислены поля в [!INCLUDE[prod_short](includes/prod_short.md)], из которых вы можете экспортировать данные.  
+В следующей таблице перечислены поля в [!INCLUDE[d365fin](includes/d365fin_md.md)], из которых вы можете экспортировать данные.  
 
 |Составленное поле|Поле в таблице|Стол|Описание|  
 |------------------|--------------------|-----------|---------------------------------------|  
@@ -74,6 +72,3 @@ ms.locfileid: "8131038"
 [Электронный обмен данными](across-data-exchange.md)
 [Использование расширения AMC Banking 365 Fundamentals](ui-extensions-amc-banking.md)   
 [Выполнение платежей с помощью расширения AMC Banking 365 Fundamentals или кредитного перевода SEPA](finance-make-payments-with-bank-data-conversion-service-or-sepa-credit-transfer.md)   
-
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]

@@ -1,19 +1,22 @@
 ---
-title: Просмотр операций перед учетом документа или журнала
+title: Просмотр операций перед учетом документа или журнала | Документация Майкрософт
 description: Вы можете проверить правильность операций в документах и журналах, прежде чем учитывать их в главной книге.
+services: project-madeira
+documentationcenter: ''
 author: SusanneWindfeldPedersen
+ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.date: 04/01/2021
 ms.author: solsen
-ms.openlocfilehash: 0b367c59b3d9be298fa7f42fe0b94018d99c94a5
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: fc137cb8c45d935be28d5ededc435d2d4648f8bb
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8148230"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6441048"
 ---
 # <a name="preview-posting-results"></a>Предварительный просмотр результатов учета
 Во всех документах и журналах, которые можно учитывать, можно нажать кнопку **Предварительный просмотр учета** для просмотра различных типов операций, которые будут созданы при учете документа или журнала.

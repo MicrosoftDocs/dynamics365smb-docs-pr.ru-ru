@@ -2,17 +2,18 @@
 title: Настройка предоплат клиентов в России
 description: Российские улучшения включают предоплату клиентов.
 author: DianaMalina
-ms.topic: conceptual
+ms.service: dynamics365-business-central
+ms.topic: article
 ms.search.keywords: ''
-ms.date: 04/01/2021
+ms.date: 10/01/2020
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 0b1826d0709cc4ef7c0d6c4346e63959343e0937
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 4c8524f239442be602e0407dcf82869c802602ad
+ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8138129"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "3921204"
 ---
 # <a name="set-up-customer-prepayments"></a>Настройка предоплат клиентов
 
@@ -20,7 +21,7 @@ ms.locfileid: "8138129"
 
 ## <a name="to-set-up-customer-prepayments"></a>Настройка предоплат клиентов
 
-1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../../media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Настройка модуля "Продажи и дебиторская задолженность"**, а затем выберите связанную ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка модуля "Продажи и дебитор. задолж."**, затем выберите соответствующую ссылку.
 
 2. На экспресс-вкладке **Нумерация** убедитесь, что серия номеров **Серия номеров учт. счетов предопл.** совпадает с **Серия номеров учт. счетов**. Убедитесь также, что серия номеров для **Серия номеров учт. кр.-нот предопл.** совпадает с серией для **Серия номеров учт. кредит-нот**.
 
@@ -51,6 +52,3 @@ ms.locfileid: "8138129"
 
 [Выставление счетов на предоплату](../../finance-invoice-prepayments.md)  
 [Пошаговое руководство. Настройка и выставление счетов на продажу](../../walkthrough-setting-up-and-invoicing-sales-prepayments.md)  
-
-
-[!INCLUDE[footer-include](../../includes/footer-banner.md)]

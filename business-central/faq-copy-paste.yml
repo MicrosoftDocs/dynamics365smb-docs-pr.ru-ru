@@ -2,13 +2,12 @@
 metadata:
   title: Вопросы и ответы по копированию и вставке данных
   description: Получите ответы на часто задаваемые вопросы о копировании и вставке данных из полей и строк со страниц Business Central.
-  ms.topic: faq
-  ms.openlocfilehash: a8c70088338b022802cf72d9a77da1c4e8263af1
-  ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+  ms.openlocfilehash: 7d3d0e29bb6751913297974f611aa9695677ed66
+  ms.sourcegitcommit: 5f403a0567dcfa77493178d116ac64e531c269ad
   ms.translationtype: HT
   ms.contentlocale: ru-RU
-  ms.lasthandoff: 02/15/2022
-  ms.locfileid: "8133814"
+  ms.lasthandoff: 02/15/2021
+  ms.locfileid: "5181833"
 title: Вопросы и ответы по копированию и вставке
 summary: "Вы можете скопировать одну или несколько строк (записей) из списка или одно поле на странице, а затем вставить скопированное на ту же страницу, другую страницу или во внешний документ (например, в Microsoft Excel или сообщение электронной почты Outlook).  \n\nВкратце, чтобы скопировать, нажмите CTRL+C (cmd+C в macOS) на клавиатуре. Для вставки нажмите CTRL+V (cmd+V в macOS). Имеется нескольких других сочетаний клавиш для копирования и вставки, которые помогаю экономить время при вводе данных. Дополнительные сведения о них см. в разделе [Сочетания клавиш](keyboard-shortcuts.md#CopyRows). Эта статья отвечает на часто возникающие вопросы по копированию и вставке.  \n"
 sections:
@@ -73,4 +72,4 @@ sections:
   - question: Почему я получают ошибки при вставке строки?
     answer: >
       При вставке в [!INCLUDE[prod_short](includes/prod_short.md)] каждая строка проверяются, чтобы убедиться, что значения в каждом столбце действительны. Если столбец содержит недопустимое значение, вставка останавливается и отображается сообщение об ошибке. Чтобы избежать этого, убедитесь, что в столбцах содержатся допустимые значения перед их вставкой.
-additionalContent: "## <a name=\"next-steps\"></a>Дальнейшие шаги\nСопутствующую информацию можно найти здесь: \n  - [Вспомогательные функции](ui-accessibility.md)  \n  - [Подготовьтесь к ведению бизнеса](ui-get-ready-business.md)  \n  - [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  \n  - [Вопросы и ответы](across-faq.yml)"
+additionalContent: "## <a name=\"next-steps\"></a>Дальнейшие шаги\nСопутствующую информацию можно найти здесь: \n  - [Вспомогательные функции](ui-accessibility.md)  \n  - [Приступая к работе](product-get-started.md)  \n  - [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  \n  - [Вопросы и ответы](across-faq.md)"

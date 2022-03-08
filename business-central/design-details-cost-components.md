@@ -2,19 +2,20 @@
 title: Сведения о проектировании — компоненты себестоимости | Документация Майкрософт
 description: Компоненты себестоимости представляют собой другие типы затрат, которые составляют стоимость прихода или расхода склада.
 author: SorenGP
-ms.topic: conceptual
+ms.service: dynamics365-business-central
+ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 06/08/2021
-ms.author: edupont
-ms.openlocfilehash: ef7f0d170c76dc79627123ce76e036729b4d0bd0
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.date: 04/01/2020
+ms.author: sgroespe
+ms.openlocfilehash: 7bcc5eaafdde8412c5e6bebfa3d24d7f033ef193
+ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8143664"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "3185616"
 ---
 # <a name="design-details-cost-components"></a>Сведения о проектировании: компоненты себестоимости
 Компоненты себестоимости представляют собой другие типы затрат, которые составляют стоимость прихода или расхода склада.  
@@ -43,7 +44,4 @@ ms.locfileid: "8143664"
  [Сведения о проектировании: себестоимость запасов](design-details-inventory-costing.md)   
  [Сведения о проектировании: отклонение](design-details-variance.md) [Управление себестоимостью товаров](finance-manage-inventory-costs.md)  
  [Финансы](finance.md)  
- [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
-
-
-[!INCLUDE[footer-include](includes/footer-banner.md)]
+ [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  

@@ -2,20 +2,21 @@
 title: Обзор движения денежных средств
 description: Обзор входящего и исходящего потоков денежных средств, помогающий спрогнозировать получение и выплату.
 author: jill-kotel-andersson
-ms.topic: overview
+ms.service: dynamics365-business-central
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: cash flow, money flow, expense and income, liquidity, cash receipts minus cash payments
-ms.search.form: 841, 849, 1818
-ms.date: 12/20/2021
-ms.author: edupont
-ms.openlocfilehash: fef3a27cf02d48fcf08a7bb70c469ed2820d0753
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.date: 06/08/2021
+ms.author: a-jillk
+ms.reviewer: edupont
+ms.openlocfilehash: ae259cdccb2dc29882f3aee1a9062cfe0a2f5e73
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8149105"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6444716"
 ---
 # <a name="cash-flow-overview"></a>Обзор движения денежных средств
 
@@ -25,7 +26,7 @@ ms.locfileid: "8149105"
 
 Термин *движение денежных средств* используется для обозначения кассовых поступления за вычетом платежей наличными за выбранный период. Это оценка суммы, которая, как предполагается, будет поступать в ваш бизнес и уходить из него, и она содержит перечень всех прогнозов доходов и расходов.
 
-## <a name="work-with-cash-flow"></a>Работа с движением денежных средств
+## <a name="cash-flow-overview"></a>Обзор движения денежных средств
 
 На следующей иллюстрации представлен обзор работы с движением денежных средств.
 
@@ -48,9 +49,9 @@ ms.locfileid: "8149105"
 
 На основании зарегистрированных строк журнала можно периодически делать прогноз движения денежных средств. Схемой является часто используемая схема для прогноза движения денежных средств. Схема состоит из трех разделов.
 
-- Кассовые поступления  
-- Денежные расходы  
-- Чистое движение денежных средств или наличные деньги  
+  - Кассовые поступления  
+  - Денежные расходы  
+  - Чистое движение денежных средств или наличные деньги  
 
 Кассовые поступления содержат подробности дохода, который получает предприятие.
 
@@ -73,10 +74,7 @@ ms.locfileid: "8149105"
 После этого можно использовать прогноз как инструмент принятия решений для внутреннего управления, который упрощает планирование и принятие важных стратегических решений по коммерческим операциям.
 
 ## <a name="see-also"></a>См. также
-
 [Настройка анализа движения денежных средств](finance-setup-cash-flow-analyses.md)  
-[Анализ движения денежных средств](finance-analyze-cash-flow.md)  
-[Прогноз движения денежных средств в Dynamics 365 Business Central (Microsoft Learn)](/learn/modules/forecast-cash-flow-dynamics-365-business-central/index)  
-[Настройка прогнозов движения денежных средств с помощью ИИ Azure в Dynamics 365 Business Central (Microsoft Learn)](/learn/modules/setup-cash-flow-forecasts/)  
+[Анализ движения денежных средств](finance-analyze-cash-flow.md)
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

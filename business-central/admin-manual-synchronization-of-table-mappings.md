@@ -2,6 +2,7 @@
 title: Ручная синхронизация сопоставления таблиц | Документация Майкрософт
 description: Синхронизация копирует данные между таблицами Microsoft Dataverse и Business Central для поддержания актуальности обеих систем.
 author: bholtorf
+ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -9,15 +10,15 @@ ms.workload: na
 ms.search.keywords: sales, crm, integration, sync, synchronize
 ms.date: 04/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: d36032b28790052ad568a91c40d0b6eec7e2bc31
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: ca44ce5f2f83e61080ddfff5dbe1771ffc586653
+ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8149216"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "6435526"
 ---
 # <a name="manually-synchronize-table-mappings"></a>Ручная синхронизация сопоставлений таблиц
-
+[!INCLUDE[prod_short](includes/cc_data_platform_banner.md)]
 
 Сопоставление таблиц интеграции связывает таблицу [!INCLUDE[prod_short](includes/prod_short.md)], например клиента, с таблицей [!INCLUDE[prod_short](includes/cds_long_md.md)], например счетом. Синхронизация сопоставления таблиц интеграции позволяет синхронизировать данные во всех записях таблицы [!INCLUDE[prod_short](includes/prod_short.md)] и таблицы [!INCLUDE[prod_short](includes/cds_long_md.md)], которые связаны. Кроме того, в зависимости от конфигурации сопоставления таблицы, синхронизация может создавать и связывать новые записи в целевом решении для несвязанных записей в источнике.  
 
