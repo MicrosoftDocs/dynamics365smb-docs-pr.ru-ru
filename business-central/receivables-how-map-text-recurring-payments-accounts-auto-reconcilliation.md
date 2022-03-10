@@ -2,20 +2,19 @@
 title: Настройка сопоставления текста со счетами для типовых платежей | Документация Майкрософт
 description: Связывайте текст в платежах с определенными счетами, чтобы платежи учитывались на счетах при учете журнала выверки платежей.
 author: SorenGP
-ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: account linking, direct payment posting, automatic payment processing, reconcile payment, recurring expense, recurring cash receipt
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 6e389d31d6f9a28c9cff12950c37f01c1cf51004
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: 942f472b2ca134e98d87becc3a866e76f1138114
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4748572"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8144935"
 ---
 # <a name="map-text-on-recurring-payments-to-accounts-for-automatic-reconciliation"></a>Сопоставление текста на типовых платежах со счетами для автоматической выверки
 На странице **Сопоставление текста со счетами**, открываемом со страницы **Журнал выверки платежей**, можно настроить сопоставления между текстом платежей и конкретными дебетовыми, кредитными и балансовыми счетами, чтобы такие платежи учитывались на заданных счетах при учете в журнале выверки платежей.
@@ -30,7 +29,7 @@ ms.locfileid: "4748572"
 В строке журнала выверки платежей, где платеж настроен на учет в соответствии с сопоставлением текст-счет, поле **Достоверность совпадения** содержит значение **Высокий – сопоставление текста со счетами**, а поля **Тип счета** и **Номер счета** содержат сопоставленные счета.
 
 ## <a name="to-map-text-on-recurring-payments-to-accounts-for-automatic-reconciliation"></a>Сопоставление текста на типовых платежах со счетами для автоматической выверки
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Журналы выверки платежей**, затем выберите соответствующую ссылку.
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Журналы выверки платежей**, а затем выберите связанную ссылку.
 2. Откройте журнал выверки платежей. Дополнительные сведения см. в разделе [Выверка платежей с использованием автоматического применения](receivables-how-reconcile-payments-auto-application.md).
 3. Выберите действие **Определить соответствие текста счетам**. Откроется страница **Сопоставление текста со счетами**.
 4. В поле **Текст сопоставления** введите любой текст, который встречается в платежах, которые требуется учесть на заданных счетах без применения к открытой операции. Можно ввести до 50-ти символов.
@@ -63,3 +62,6 @@ ms.locfileid: "4748572"
 [Настройка службы Envestnet Yodlee Bank Feeds](bank-how-setup-bank-statement-service.md)  
 [Настройка [!INCLUDE[prod_short](includes/prod_short.md)] с помощью расширений](ui-extensions.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

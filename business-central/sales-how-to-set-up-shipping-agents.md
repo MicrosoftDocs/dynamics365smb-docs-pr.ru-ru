@@ -1,21 +1,20 @@
 ---
-title: Практическое руководство. Настройка экспедиторов | Документация Майкрософт
-description: Для каждого экспедитора можно задать код и указать соответствующую информацию.
+title: Практическое руководство. Настройка экспедиторов
+description: Узнайте, как настроить код для каждого из ваших экспедиторов и ввести описательную информацию о каждом из них и предоставляемых ими услугах.
 author: SorenGP
-ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2019
-ms.author: sgroespe
-ms.openlocfilehash: b1c5b0940998531601f0ab1c604c31328ce2bd66
-ms.sourcegitcommit: cfc92eefa8b06fb426482f54e393f0e6e222f712
+ms.date: 06/23/2021
+ms.author: edupont
+ms.openlocfilehash: b4ec7a008c58256a8b7a351d8ee6890ad43fb00a
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "2882858"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8136981"
 ---
 # <a name="set-up-shipping-agents"></a>Настройка экспедиторов
 Для каждого экспедитора можно задать код и указать соответствующую информацию.  
@@ -28,7 +27,7 @@ ms.locfileid: "2882858"
 После того, как для строки продажи задана услуга экспедитора, время отгрузки для услуги будет включаться в расчет сроков по заказу для данной строки. Дополнительные сведения см. в разделе [Расчет сроков планирования заказов](sales-how-to-calculate-order-promising-dates.md).
 
 ## <a name="to-set-up-a-shipping-agent"></a>Настройка экспедитора  
-1.  Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Экспедиторы**, затем выберите соответствующую ссылку.  
+1.  Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Экспедиторы**, а затем выберите связанную ссылку.  
 2.  Заполните соответствующим образом поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)].  
 3.  Выберите действие **Услуги экспедитора**.
 4. В поле **Услуги экспедитора** заполните требуемые поля.
@@ -44,4 +43,7 @@ ms.locfileid: "2882858"
 [Настройка управления складом](warehouse-setup-warehouse.md)     
 [Управление сборкой](assembly-assemble-items.md)    
 [Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

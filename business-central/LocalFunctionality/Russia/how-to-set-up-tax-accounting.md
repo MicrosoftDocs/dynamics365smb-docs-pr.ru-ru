@@ -2,18 +2,17 @@
 title: Настройка налогового учета в России
 description: Российские улучшения включают налоговый учет.
 author: DianaMalina
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: aecf1bd3c8f38740a2e4c2a9fb74d4224e0c877c
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: dc2018f74bceb392000d1ff0b8638993474557a6
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5383478"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8148874"
 ---
 # <a name="set-up-tax-accounting"></a>Настройка налогового учета
 
@@ -21,7 +20,7 @@ ms.locfileid: "5383478"
 
 ## <a name="to-activate-tax-accounting"></a>Активация налогового учета
 
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка налоговых регистров**, затем выберите соответствующую ссылку.
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../../media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Настройка налоговых регистров**, а затем выберите связанную ссылку.
 
 2. На экспресс-вкладке **Общее** выберите коды для следующих измерений.
 

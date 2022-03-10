@@ -1,23 +1,20 @@
 ---
-title: Обработка запасов и себестоимость производства | Документация Майкрософт
-description: Хотя значительная часть функциональных возможностей по учету себестоимости выражается в базовых процессах, для выполнения которых не требуется вмешательство пользователя, таких как применение операции и автоматическая коррекция себестоимости, некоторые поля, страницы и отчеты предназначены для использования пользователями, которые явно или неявно управляют себестоимостью товаров или операций.
-services: project-madeira
-documentationcenter: ''
+title: Обработка запасов и себестоимость производства
+description: Узнайте, как ряд полей, страниц и отчетов предназначены для пользователей, которые прямо или косвенно управляют стоимостью товаров или операций.
 author: SorenGP
-ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2019
-ms.author: sgroespe
-ms.openlocfilehash: 1f858457bcf667d158642fe42f3ea85e668adff3
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.date: 06/16/2021
+ms.author: edupont
+ms.openlocfilehash: 9203aa99271bc5fba840b3d568adc098686ef961
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2306368"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8136099"
 ---
 # <a name="handling-inventory-and-manufacturing-costs"></a>Обработка запасов и себестоимость производства
 Хотя значительная часть функциональных возможностей по учету себестоимости выражается в базовых процессах, для выполнения которых не требуется вмешательство пользователя, таких как применение операции и автоматическая коррекция себестоимости, некоторые поля, страницы и отчеты предназначены для использования пользователями, которые явно или неявно управляют себестоимостью товаров или операций.  
@@ -40,3 +37,6 @@ ms.locfileid: "2306368"
 ## <a name="see-also"></a>См. также  
 [Управление себестоимостью товаров](finance-manage-inventory-costs.md)
 [Сведения о проектировании: себестоимость запасов](design-details-inventory-costing.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

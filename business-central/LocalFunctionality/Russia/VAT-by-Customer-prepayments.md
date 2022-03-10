@@ -2,18 +2,17 @@
 title: НДС по предоплатам клиентов в России
 description: Российские улучшения включают отчетность по НДС по предоплатам клиентов.
 author: DianaMalina
-ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
-ms.date: 10/01/2019
+ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 0f96dac9e048997eb55f4fc0017149826865b810
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 002f7b75597779170c840100e5782352ab737f02
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2301190"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8149261"
 ---
 # <a name="vat-by-customer-prepayment"></a>НДС по предоплатам клиентов
 
@@ -60,3 +59,6 @@ ms.locfileid: "2301190"
 ## <a name="see-also"></a>См. также
 
 [Функциональность локальной версии для России](russia-local-functionality.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

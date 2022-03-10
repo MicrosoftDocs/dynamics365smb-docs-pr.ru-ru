@@ -1,21 +1,21 @@
 ---
-title: Выдача, печать, отмена и аннулирование платежных документов | Документация Майкрософт
+title: Выдача, печать, отмена и аннулирование платежных документов
 description: Далее описывается процедура выдачи платежных документов с помощью журнала платежей, печать платежных документов и их аннулирование или просмотр операций книги платежей в Business Central.
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: payment journal, print check, vendor payment, creditor, debt, balance due, AP
+ms.search.form: 256, 404,
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: c3f0a848e1a7011b163a92fbf5a58f4cd761ef95
-ms.sourcegitcommit: a7cb0be8eae6ece95f5259d7de7a48b385c9cfeb
+ms.openlocfilehash: b2c57c4a96021beb6e02564e7b24577f52b60922
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6438781"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8137813"
 ---
 # <a name="make-check-payments"></a>Совершение платежей с помощью платежных документов
 

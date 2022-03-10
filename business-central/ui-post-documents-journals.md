@@ -1,27 +1,25 @@
 ---
-title: Обзор учета документов и журналов | Документация Майкрософт
-description: Описывает действия при выполнении и способы учета документов и журналов.
-services: project-madeira
-documentationcenter: ''
+title: Учет документов и журналов
+description: В этом разделе описаны действия учета и способы учета документов и журналов в различных книгах компании.
 author: SorenGP
-ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: overview
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.date: 04/01/2020
-ms.author: sgroespe
-ms.openlocfilehash: 50fa4e64ac34a694ede3403818fa736364056296
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.date: 06/24/2021
+ms.search.form: 9020, 9022, 9026, 9027, 9030, 9000, 9004, 9005, 9018, 9006, 9007, 9010, 9016, 9017
+ms.author: edupont
+ms.openlocfilehash: 13c2639ab416fd472850fef5161f0f374024bb51
+ms.sourcegitcommit: cdb57f14960f58b1d36a1b373fbf35dfed5fad9e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3189583"
+ms.lasthandoff: 02/23/2022
+ms.locfileid: "8335582"
 ---
 # <a name="posting-documents-and-journals"></a>Учет документов и журналов
 Учет представляет бухгалтерское действие по записи бизнес-транзакций в различных книгах организации.
 
-Практически в каждом документе и журнале в [!INCLUDE[d365fin](includes/d365fin_md.md)] имеется группа **Учет**, в которой можно выбрать различные действия по учету, например **Учесть**, **Предварительный просмотр учета**, **Учесть и отправить**, **Учесть и отправить по эл. почте**.
+Практически в каждом документе и журнале в [!INCLUDE[prod_short](includes/prod_short.md)] имеется группа **Учет**, в которой можно выбрать различные действия по учету, например **Учесть**, **Предварительный просмотр учета**, **Учесть и отправить**, **Учесть и отправить по эл. почте**.
 
 В следующей таблице описаны связанные задачи со ссылками на разделы, в которых они описываются.
 
@@ -37,4 +35,7 @@ ms.locfileid: "3189583"
 ## <a name="see-also"></a>См. также
 [Изменение учтенных документов](across-edit-posted-document.md)  
 [Общие бизнес-функции](ui-across-business-areas.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

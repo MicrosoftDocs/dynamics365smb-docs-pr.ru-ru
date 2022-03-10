@@ -1,21 +1,21 @@
 ---
-title: Настройка информации маркетинга и управления контактами | Документация Майкрософт
+title: Настройка маркетинга и информации для управления контактами
 description: Вы можете настроить управление маркетингом и контактами в Business Central для оптимизации отношений с потенциальными и текущими клиентами и повышения качества кампаний и рекламных акций.
 author: SorenGP
-ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: relationship, prospect, client, customer, campaign, promo
-ms.date: 10/01/2020
+ms.search.forms: 5172, 5173, 5170, 5094, 429
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 7d1b9a1af6edde26e9c966bb25bc6d237a510d00
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 8f43e37b540c9e3b3a89299f8609af7aea8398e9
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3921696"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8130333"
 ---
 # <a name="setting-up-relationship-management"></a>Настройка управления отношениями
 
@@ -23,7 +23,7 @@ ms.locfileid: "3921696"
 
 Управление контактами и стратегия определения, привлечения и удержания клиентов помогут оптимизировать бизнес и повысить уровень обслуживания клиентов. Хорошо налаженная система управления контактами также поможет создавать и поддерживать отношения с клиентами. Коммуникации являются ключевым моментом в этих отношениях. Для успешной деятельности организации необходимо выстроить коммуникации с потенциальными и имеющимися клиентами, поставщиками и бизнес-партнерами в соответствии с их запросами. Первым шагом является разработка стратегии и определение способа использования контактной информации в организации. Эту информацию будут просматривать разные группы в организации, поэтому правильно организованная система повысит общую производительность.
 
-Параметры маркетинга и управления контактами задаются на странице **Настройка модуля Маркетинг**. Чтобы открыть страницу **Настройка модуля "Маркетинг"**, выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка модуля "Маркетинг"**, а затем выберите соответствующую ссылку.
+Параметры маркетинга и управления контактами задаются на странице **Настройка модуля Маркетинг**. Чтобы открыть страницу **Настройка модуля "Маркетинг"**, выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Настройка модуля "Маркетинг"**, а затем выберите связанную ссылку.
 
 ## <a name="automatically-copying-specific-information-from-contact-companies-to-contact-persons"></a>Автоматическое копирование определенных сведений из контактных организаций в контактные лица
 Иногда информация о контактных организациях совпадает с информацией о контактных лицах, работающих в этих организациях, например подробный адрес. В разделе **Наследование** страницы **Настройка модуля Маркетинг** можно указать, что приложение должно автоматически копировать определенные поля из карточки контактной организации в карточку контактного лица каждый раз при создании контактного лица для контактной организации. Например, можно скопировать код менеджера, подробный адрес (адрес, адрес 2, город, почтовый индекс и страну), сведения о связи (номер факса, телекс, номера телефона) и другую информацию.
@@ -40,7 +40,7 @@ ms.locfileid: "3921696"
 <!--You can also setup a default salutation that application automatically assigns to your contacts. You can use these salutations in your interaction template attachments (for example, Microsoft Word documents). When setting up a default salutation, you can enter a salutation text and a salutation format. For example, if the salutation text is Dear, and the salutation format is Salutation Text + Title + Name, application will automatically enter Dear Mr. John Smith as a salutation for a contact called John Smith.-->
 
 ## <a name="automatically-recording-interactions"></a>Автоматическая регистрация взаимодействий
-[!INCLUDE[d365fin](includes/d365fin_md.md)] может автоматически регистрировать документы покупки и продажи как взаимодействия (например, заказы, счета, накладные и т. д.), так же как и адреса электронной почты, телефонные звонки и титульные листы.
+[!INCLUDE[prod_short](includes/prod_short.md)] может автоматически регистрировать документы покупки и продажи как взаимодействия (например, заказы, счета, накладные и т. д.), так же как и адреса электронной почты, телефонные звонки и титульные листы.
 
 Дополнительные сведения см. в разделе [Автоматическая регистрация взаимодействий с контактами](marketing-auto-record-interactions.md).
 
@@ -59,4 +59,7 @@ ms.locfileid: "3921696"
 
 ## <a name="see-also"></a>См. также
 [Управление контактами](marketing-contacts.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

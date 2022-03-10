@@ -2,17 +2,16 @@
 title: Настройка условия платежа
 description: В базовой версии Business Central используйте условия оплаты для управления сроками оплаты и скидками на оплату.
 author: edupont04
-ms.service: dynamics365-business-central
 ms.topic: conceptual
-ms.search.keywords: ''
-ms.date: 01/21/2021
+ms.search.form: 4
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: dfed018a58897b5e51f90fcce725c9060c32f3ea
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: 2ad055bef260d732c9f7732c094f660704f6acdf
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5383404"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8135988"
 ---
 # <a name="set-up-payment-terms"></a>Настройка условия платежа
 
@@ -28,7 +27,7 @@ ms.locfileid: "5383404"
 
 ## <a name="to-set-up-payment-terms"></a>Настройка условий оплаты
 
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Условия оплаты**, затем выберите соответствующую ссылку.  
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Условия оплаты**, а затем выберите связанную ссылку.  
 2. Заполните соответствующим образом поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
 
 После настройки условий платежа их можно назначить клиентам и поставщикам. При желании назначьте условия оплаты для ваших способов оплаты.  

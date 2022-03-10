@@ -1,26 +1,27 @@
 ---
-title: Создание контактов компании и управление ими | Документация Майкрософт
+title: Создание контактов организации и управление ими
 description: Все внешние субъекты, с которыми у вас есть деловые отношения (например, потенциальные и текущие клиенты, поставщики и консультанты), настраиваются как контакты.
-services: project-madeira
-documentationcenter: ''
 author: SorenGP
-ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: relationship, prospect
-ms.date: 10/01/2019
-ms.author: sgroespe
-ms.openlocfilehash: 510252387dfb2acef7163819f223b6bcb49ac0f9
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.search.forms: 5054, 5050, 5051, 5052, 5104, 5053, 9130, 6701, 5055, 1604
+ms.date: 04/01/2021
+ms.author: edupont
+ms.openlocfilehash: 815b4c406b203e32a0d424a2ecf76f7aa0564662
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2309344"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8131487"
 ---
 # <a name="managing-contacts"></a>Управление контактами
+
 Сотрудники в вашей организации регулярно контактируют с потенциальными бизнес-клиентами, и эти контакты могут перерасти в формальные отношения. Все такие внешние контакты и их подробная информация должны регистрироваться в системе, чтобы коммуникация была более успешной и чтобы их можно было легко преобразовать в официальные отношения с клиентом, поставщиком или банком.
+
+Используйте список **Контакты** для управления вашими контактами. Отсюда вы можете создавать возможности и управлять другими взаимодействиями с отдельными контактами. Вы также можете просмотреть статистику о контакте и получить доступ к ряду отчетов. Для получения информации о том, как найти нужный контакт в списке, см. [Сортировка, поиск и фильтрация](ui-enter-criteria-filters.md).  
 
 В следующей таблице приводится последовательность задач со ссылками на разделы, в которых они описываются.
 
@@ -32,5 +33,10 @@ ms.locfileid: "2309344"
 |Разрешение конфликта, когда две или более записей существуют для одного и того же контакта.|[Объединение повторяющихся записей](sales-how-merge-duplicate-records.md)|
 
 ## <a name="see-also"></a>См. также
+
 [Управление возможностями продаж](marketing-manage-sales-opportunities.md)  
+[Сортировка, поиск и фильтрация](ui-enter-criteria-filters.md)  
 [Работа с Business Central](ui-work-product.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

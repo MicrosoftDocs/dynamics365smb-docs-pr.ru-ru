@@ -1,21 +1,20 @@
 ---
-title: Расширение для миграции QuickBooks Online | Документация Майкрософт
+title: Расширение миграции данных QuickBooks Online
 description: Описывает, как использовать расширение для миграции клиентов, поставщиков, товаров и счетов из QuickBooks Online в Business Central.
 author: bholtorf
-ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms. search.keywords: extension, migrate, data, QuickBooks, import
-ms.date: 10/01/2020
+ms.date: 06/24/2021
 ms.author: bholtorf
-ms.openlocfilehash: 064f7fd7f0737263234b7324c298e513ef91e9c8
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: 235c3050eac4dac983f486f66fe9e837e9594c57
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4757471"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8146050"
 ---
 # <a name="the-quickbooks-online-data-migration-extension"></a>Расширение миграции данных QuickBooks Online
 
@@ -54,7 +53,7 @@ ms.locfileid: "4757471"
 
 Начать очень просто. Вам достаточно запустить руководство по сопровождаемой настройке **Миграция данных**. Вот как это сделать:
 
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Мастер настройки**, затем выберите **Миграция бизнес-данных**.
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Мастер настройки**, а затем выберите **Миграция бизнес-данных**.
 2. На каждом этапе следуйте инструкциям руководства по сопровождаемой настройке.
 
 ## <a name="what-do-i-do-after-i-migrate-data"></a>Что нужно сделать после переноса данных?
@@ -71,3 +70,6 @@ ms.locfileid: "4757471"
 
 [Импорт бизнес-данных из других финансовых систем](across-import-data-configuration-packages.md)  
 [Настройка [!INCLUDE[prod_short](includes/prod_short.md)] с помощью расширений](ui-extensions.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

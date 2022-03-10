@@ -1,29 +1,26 @@
 ---
-title: Поиск документов без вложений| Документация Майкрософт
-Description: Вы можете осуществлять поиск операций главной книги для учтенных документов покупок и продаж, у которых нет входящих электронных документов, например для импортированных счетов.
-services: project-madeira
-documentationcenter: ''
+title: Поиск учтенных документов без входящих документов
+description: Вы можете осуществлять поиск операций главной книги для учтенных документов покупок и продаж, у которых нет входящих электронных документов, например для импортированных счетов.
 author: SorenGP
-ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: electronic document, e-invoice, incoming document, OCR, ecommerce, document exchange, import invoice
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 2c827297a120b866e908edee34ccb7203fea419e
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: c7e696eed559e6b0c5d7a9c9b9563efd8bdfbea0
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3919667"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8130986"
 ---
 # <a name="find-posted-documents-without-incoming-document-records"></a>Поиск учтенных документов без записей входящих документов
 На страницах **План счетов** и **Операции главной книги** с помощью функции поиска можно найти операции главной книги для учтенных документов покупки и продажи, которые не имеют записей входящих документов, и затем централизованно связать их с существующими записями или создать новые записи с прикрепленными файлами документов.
 
 ## <a name="to-find-posted-documents-without-incoming-document-records"></a>Поиск учтенных документов без записей входящих документов
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **План счетов**, затем выберите соответствующую ссылку.
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **План счетов**, а затем выберите связанную ссылку.
 2. Выберите строку счета ГК для тех операций главной книги, для которых вы ходите увидеть учтенные документы покупки и продажи без записей входящих документов, а затем выберите действие **Учтенные документы без входящего документа**.
 3. Альтернативный вариант — выберите действие **Книга операций**.
 4. На странице **Операции главной книги** выберите действие **Учтенные документы без входящих документов**.
@@ -41,4 +38,7 @@ ms.locfileid: "3919667"
 [Обработка входящих документов](across-process-income-documents.md)  
 [Входящие документы](across-income-documents.md)  
 [Покупки](purchasing-manage-purchasing.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

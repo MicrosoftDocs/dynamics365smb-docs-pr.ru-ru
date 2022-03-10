@@ -2,7 +2,6 @@
 title: Сопоставление таблиц и полей для синхронизации | Microsoft Docs
 description: Узнайте, как сопоставить таблицы и поля для синхронизации данных между Business Central и Microsoft Dataverse.
 author: bholtorf
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,15 +9,15 @@ ms.workload: na
 ms.search.keywords: sales, crm, integration, sync, synchronize, table mapping
 ms.date: 04/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: 44729a82d50a925d9ad904f8035dd49daee24262
-ms.sourcegitcommit: 6ad0a834fc225cc27dfdbee4a83cf06bbbcbc1c9
+ms.openlocfilehash: 844b053a307d88bd93d945a7927726fd28518000
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2021
-ms.locfileid: "7588705"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8147142"
 ---
 # <a name="mapping-the-tables-and-fields-to-synchronize"></a>Сопоставление таблиц и полей для синхронизации
-[!INCLUDE[prod_short](includes/cc_data_platform_banner.md)]
+
 
 Основой синхронизации данных является сопоставление таблиц и полей в [!INCLUDE[prod_short](includes/prod_short.md)] с таблицами и столбцами в [!INCLUDE[prod_short](includes/cds_long_md.md)], чтобы они могли обмениваться данными. Сопоставление происходит через таблицы интеграции. 
 

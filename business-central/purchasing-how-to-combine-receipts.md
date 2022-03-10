@@ -1,21 +1,21 @@
 ---
-title: Как объединить приходные накладные | Документы Майкрософт
+title: Объединение приходных накладных в один счет
 description: Если необходимо выставить счет по нескольким приходным накладным покупки одновременно, можно использовать функцию Объединить приемки.
 author: SorenGP
-ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 07/02/2020
+ms.search.form: 136, 145, 146
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 70433ce496c79edcd053ae345b3b0559cf60b744
-ms.sourcegitcommit: a80afd4e5075018716efad76d82a54e158f1392d
+ms.openlocfilehash: fa038043a1a9451f3f74c0ab72f8c9a2b8033cf0
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "3782903"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8137267"
 ---
 # <a name="combine-receipts-on-a-single-invoice"></a>Объединение приходных накладных в один счет
 
@@ -30,7 +30,7 @@ ms.locfileid: "3782903"
 
 ## <a name="to-combine-receipts"></a>Объединение приемок
 
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Счета покупки**, затем выберите соответствующую ссылку.  
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Счета покупки**, а затем выберите связанную ссылку.  
 2. Выберите действие **Создать**. Дополнительные сведения см. в разделе [Регистрация покупок](purchasing-how-record-purchases.md).  
 3. На экспресс-вкладке **Строки** выберите действие **Получить строки приемки**.  
 4. Выберите несколько строк приемки, которые должны быть включены в счет.  
@@ -40,7 +40,7 @@ ms.locfileid: "3782903"
 
 ## <a name="to-remove-open-purchase-orders-after-combined-receipt-posting"></a>Удаление открытых заказов на покупку после совмещенного учета приходных накладных
 
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Удаление заказов на покупку, по которым выставлены счета**, затем выберите соответствующую ссылку.  
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Удалить заказы на покупку, по которым выставлены счета**, а затем выберите связанную ссылку.  
 2. Заполните соответствующим образом поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)].
 3. Нажмите кнопку **ОК**.  
 
@@ -52,4 +52,7 @@ ms.locfileid: "3782903"
 
 [Покупки](purchasing-manage-purchasing.md)  
 [Исправление или отмена неоплаченных счетов покупки](purchasing-how-correct-cancel-unpaid-purchase-invoices.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

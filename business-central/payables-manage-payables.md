@@ -1,21 +1,21 @@
 ---
-title: Обзор задач управления кредиторской задолженностью | Документация Майкрософт
+title: Обзор задач управления кредиторской задолженностью
 description: Описываются задачи управления кредиторской задолженностью, например, оплата кредиторам или применение исходящих платежей к операциями книг для закрытия счетов или кредит-нот.
 author: edupont04
-ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: overview
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: vendor payment, creditor, debt, balance due, AP
-ms.date: 10/01/2020
+ms.search.form: 161, 254, 256, 347, 574, 599, 9002
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 9d7da8009b1bb7522bba0b6d59fa2bf3629abc28
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: ef7b8fafd5949d9a3595a003c4840994e2319d54
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3916655"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8137735"
 ---
 # <a name="managing-payables"></a>Управление кредиторской задолженностью
 
@@ -42,6 +42,9 @@ ms.locfileid: "3916655"
 [Управление дебиторской задолженностью](receivables-manage-receivables.md)  
 [Использование товарных издержек для учета дополнительных торговых расходов](payables-how-assign-item-charges.md)  
 [Общие бизнес-функции](ui-across-business-areas.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
 
-## [!INCLUDE[d365fin](includes/free_trial_md.md)]  
+## [!INCLUDE[prod_short](includes/free_trial_md.md)]  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

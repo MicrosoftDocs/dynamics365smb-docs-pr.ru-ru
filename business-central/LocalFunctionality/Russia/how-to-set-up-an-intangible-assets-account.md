@@ -2,18 +2,17 @@
 title: Настройка счетов нематериальных активов в России
 description: Российские усовершенствования включают учет нематериальных активов на выделенном счете.
 author: DianaMalina
-ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
-ms.date: 04/01/2020
+ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: ff187490c5a4f5daaba0e06e7f2cc4d1b75ea59c
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.openlocfilehash: eae7d6e1c263667cb45a0ec3e0cf807fc7be9503
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3180947"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8147326"
 ---
 # <a name="set-up-an-intangible-assets-account"></a>Настройка счета нематериальных активов
 
@@ -23,7 +22,7 @@ ms.locfileid: "3180947"
 
 ## <a name="to-set-up-an-intangible-asset-account"></a>Настройка счета нематериальных активов
 
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Основные средства**, затем выберите соответствующую ссылку.
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../../media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Основные Средства**, а затем выберите связанную ссылку.
 2. Откройте карточку основного средства.
 3. В окне **Карточка основного средства** выберите **Нематериальный актив** в поле **Тип ОС**.
 4. Приобретите нематериальный актив и введите его в эксплуатацию. Дополнительные сведения см. в разделе [Покупка и ввод в эксплуатацию малоценных основных средств](Undepreciable-Fixed-Assets.md).
@@ -31,3 +30,6 @@ ms.locfileid: "3180947"
 ## <a name="see-also"></a>См. также
 
 [Основные Средства](../../fa-manage.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

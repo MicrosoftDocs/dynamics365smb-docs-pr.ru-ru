@@ -1,28 +1,30 @@
 ---
-title: Сведения о проектировании — себестоимость запасов | Документация Майкрософт
+title: Сведения о проектировании — себестоимость запасов
 description: Документация содержит подробные технические сведения о концепциях и принципах, используемых в функциях учета стоимости товаров в Business Central.
 author: SorenGP
-ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: design, inventory, costing
-ms.date: 04/01/2020
-ms.author: sgroespe
-ms.openlocfilehash: 8dc7f7ac1e9f1d6b9919ecf7401d5cadf69a56c0
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.search.form: 8645
+ms.date: 06/08/2021
+ms.author: edupont
+ms.openlocfilehash: 82b837475f12f402d3b534f1ae1063a56619d8c4
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3185304"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8146661"
 ---
 # <a name="design-details-inventory-costing"></a>Сведения о проектировании: себестоимость запасов
-Документация содержит подробные технические сведения о концепциях и принципах, используемых в функциях учета стоимости товаров в [!INCLUDE[d365fin](includes/d365fin_md.md)].  
+
+Документация содержит подробные технические сведения о концепциях и принципах, используемых в функциях учета стоимости товаров в [!INCLUDE[prod_short](includes/prod_short.md)].  
 
 Учет себестоимости запасов, который также называют управлением затратами, связан с записью и отчетностью по текущим бизнес-расходам.  
 
-## <a name="in-this-section"></a>В этом разделе  
+## <a name="in-this-section"></a>В этом разделе
+
 [Сведения о проектировании: методы учета себестоимости](design-details-costing-methods.md)  
 [Сведения о проектировании: применение товара](design-details-item-application.md)  
 [Сведения о проектировании: известная проблема применения товара](design-details-inventory-zero-level-open-item-ledger-entries.md)  
@@ -41,3 +43,6 @@ ms.locfileid: "3185304"
 [Сведения о проектировании: счета в главной книге](design-details-accounts-in-the-general-ledger.md)  
 [Сведения о проектировании: оценка стоимости запасов](design-details-inventory-valuation.md)  
 [Сведения о проектировании: переоценка](design-details-revaluation.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

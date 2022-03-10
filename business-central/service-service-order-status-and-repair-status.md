@@ -1,21 +1,20 @@
 ---
 title: Статус сервисного заказа и ремонта
-description: Поле "Статус" на странице "Сервисный заказ" и статус ремонта сервисного товара, представленный полем "Код статуса ремонта" на странице "Сервисный заказ", имеют определенную взаимозависимость в области приложения "Сервисное управление". Статус сервисного заказа отражает статус ремонта всех сервисных товаров данного сервисного заказа.
+description: Статус сервисного заказа отражает статус ремонта всех сервисных товаров данного сервисного заказа.
 author: SorenGP
-ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/15/2020
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 9bbe3a4263250a7d06bfffa2019114eba72a31ca
-ms.sourcegitcommit: 2d2dfb6c3eca1322835f0167dc7dab614346972e
+ms.openlocfilehash: 09de6fa5eeb88e03935224d232bdffa1e1c8bce6
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "4038622"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8139213"
 ---
 # <a name="service-order-status-and-repair-status"></a>Статус сервисного заказа и ремонта
 
@@ -94,3 +93,6 @@ ms.locfileid: "4038622"
 
 [Настройка статусов для сервисных заказов и ремонтных работ](service-order-repair-status.md)  
 [Настройка управления сервисным обслуживанием](service-setup-service.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

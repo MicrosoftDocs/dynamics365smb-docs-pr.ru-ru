@@ -1,25 +1,24 @@
 ---
 title: Отмена учета путем учета сторнирующей операции
 description: Если выполнен ошибочный учет в финансовом журнале, можно воспользоваться функцией сторнирования транзакции, чтобы отменить учет, сохранив корректный след аудита.
-services: project-madeira
-documentationcenter: ''
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: reimbursement
+ms.search.form: 20, 25, 29, 38, 202, 5912,
 ms.date: 07/22/2021
 ms.author: edupont
-ms.openlocfilehash: c23dcaed561997b5c0f38b4cd5ad5631b8519706
-ms.sourcegitcommit: e904da8dc45e41cdd1434111c15e2a9d9edd3fa2
+ms.openlocfilehash: 2a9689db234280c2bcca5e32ade2a82488c15de5
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "6660160"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8147730"
 ---
 # <a name="reverse-journal-postings-and-undo-receiptsshipments"></a>Сторнирование учета в журнале и отмена приходных/расходных накладных
+
 Сторнирования учета в журнале используются не только для исправления ошибок, но также могут использоваться, например, для очистки старой записи начислений перед вводом новой. Вы выбираете операцию и создаете сторнирующую операцию (операции, идентичные исходным, но с противоположным знаком в поле суммы) с таким же номером документа и датой учета, что и у исходной операции. После сторнирования операции необходимо создать корректирующую запись.
 
 Можно сторнировать только те операции, которые были учтены из строки финансового журнала. Операцию можно сторнировать только один раз.
@@ -80,6 +79,7 @@ ms.locfileid: "6660160"
 8.  Исправьте запись в поле **Кол-во** и снова выполните учет возврата покупки.  
 
 ## <a name="see-also"></a>См. также
+
 [Отмена учета сборки](assembly-how-to-undo-assembly-posting.md)  
 [Учет транзакций непосредственно в главной книге](finance-how-post-transactions-directly.md)  
 [Работа с финансовыми журналами](ui-work-general-journals.md)  

@@ -2,20 +2,19 @@
 title: Настройка секций налогового регистра в России
 description: Российские улучшения включают секции налогового регистра.
 author: DianaMalina
-ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
-ms.date: 07/02/2019
+ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: b54b089da45199b88f66bd9fbec90abb70dc3f10
-ms.sourcegitcommit: 8fe694b7bbe7fc0456ed5a9e42291218d2251b05
+ms.openlocfilehash: 96bc8f42eec2374548855ddda8bed13624c63e67
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/04/2019
-ms.locfileid: "1738247"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8133488"
 ---
-# <a name="how-to-set-up-tax-register-sections"></a>Практическое руководство. Настройка секций налогового регистра
+# <a name="set-up-tax-register-sections"></a>Настройка секций налогового регистра
 
 Вы можете создать новую секцию налогового регистра или выбрать секцию налогового регистра, которая будет использоваться в организации в текущем налоговом периоде. Можно выбрать секцию налогового регистра, действовавшую в одном из предыдущих налоговых периодов, и посмотреть налоговую информацию за любой из периодов. Имеется возможность копирования налоговых регистров из одной секции налоговых регистров в другую. Это позволяет настраивать налоговые регистры и отлаживать алгоритм сбора информации в налоговые регистры.
 
@@ -23,7 +22,7 @@ ms.locfileid: "1738247"
 
 ## <a name="to-set-up-a-tax-register"></a>Настройка налогового регистра
 
-1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Налоговые регистры**, затем выберите связанную ссылку.
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../../media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Налоговые регистры**, а затем выберите связанную ссылку.
 
 2. В окне **Секции налоговые регистров** выберите действие **Создать**.
 
@@ -88,5 +87,8 @@ ms.locfileid: "1738247"
 
 [Налоговый учет](Tax-Accounting.md)  
 [Налоговые регистры](Tax-Registers.md)  
-[Практическое руководство. Создание налоговых регистров](How-to-Create-Tax-Registers.md)  
+[Расчет налоговых регистров](How-to-Create-Tax-Registers.md)  
 [Сбор сведений о налоге на прибыль для налоговой декларации](Collecting-Profit-Tax-Information-for-Tax-Declaration.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

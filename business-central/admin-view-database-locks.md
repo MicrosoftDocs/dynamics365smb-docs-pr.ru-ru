@@ -1,20 +1,20 @@
 ---
 title: Просмотр блокировок базы данных
-description: Узнайте, как просмотреть информацию о любых блокировках базы данных прямо из клиентского интерфейса в Business Central.
+description: Узнайте, как просмотреть информацию о блокировках базы данных клиентов прямо из клиентского интерфейса в Business Central.
 author: jswymer
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.date: 10/01/2020
+ms.search.form: 9511
+ms.date: 06/14/2021
 ms.author: jswymer
-ms.openlocfilehash: 640608b810f3ad9812decc493ad4e35bcc316f98
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: 0a2561eea331ffbaeb058dee2ee13caf0a82d18c
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5388153"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8143690"
 ---
 # <a name="viewing-database-locks"></a>Просмотр блокировок базы данных
 
@@ -24,7 +24,7 @@ ms.locfileid: "5388153"
 
 ## <a name="to-view-database-locks"></a>Для просмотра блокировок базы данных
 
-Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Блокировки базы данных**, затем выберите соответствующую ссылку.
+Выберите ![Поиск страницы или отчета.](media/ui-search/search_small.png "Значок поиска страницы или отчета") значок, введите **Блокировки базы данных**, а затем выберите связанную ссылку.
 
 Страница **Блокировки базы данных** дает снимок всех текущих блокировок базы данных.
 

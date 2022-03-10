@@ -2,19 +2,19 @@
 title: Раннее включение новых функций
 description: Узнайте, как включать необязательные функции до того, как они станут обязательными.
 author: mikebcMSFT
-ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: administration, admin, key, optional, feature management, early access, preview
-ms.date: 10/01/2020
+ms.search.form: 2610
+ms.date: 06/14/2021
 ms.author: mikebc
-ms.openlocfilehash: 5e09c2a07a3259cd44d13b58765f1d522c46d409
-ms.sourcegitcommit: 2e7307fbe1eb3b34d0ad9356226a19409054a402
+ms.openlocfilehash: a3cc650067c18da1594e2381413f8dd76966ab3a
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4754005"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8141389"
 ---
-# <a name="enabling-upcoming-features-ahead-of-time"></a>Раннее включение новых функций
+# <a name="enabling-new-and-upcoming-features-ahead-of-time"></a>Раннее включение новых и будущих функций
 
 Некоторые новые функции можно включать заранее, что позволяет начать пользоваться ими как можно раньше. Раннее включение функций дает вам время протестировать их и подготовить свою организацию к изменениям.
 
@@ -24,4 +24,7 @@ ms.locfileid: "4754005"
 
 ## <a name="see-also"></a>См. также
 
-[Новые и планируемые функции](https://aka.ms/Dynamics365ReleasePlan)  
+[Новые и планируемые функции](/dynamics365-release-plan/2021wave1/)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

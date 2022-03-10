@@ -1,23 +1,21 @@
 ---
-title: Обзор задач для управления покупками | Документация Майкрософт
+title: Обзор задач управления закупками
 description: Описывает задачи по управлению покупками или процессами покупок, включая работу счетов покупки и заказов на покупку.
-services: project-madeira
-documentationcenter: ''
 author: SorenGP
-ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: overview
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: procurement, supply, vendor order
-ms.date: 04/01/2020
-ms.author: sgroespe
-ms.openlocfilehash: e13ca8290c4f9036c96b7aed8ab42c43142b4e47
-ms.sourcegitcommit: 88e4b30eaf6fa32af0c1452ce2f85ff1111c75e2
+ms.search.form: 460
+ms.date: 04/01/2021
+ms.author: edupont
+ms.openlocfilehash: a2d561087755f6cac596b216d9e02fa31be61726
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "3190927"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8137241"
 ---
 # <a name="purchasing"></a>Закупки
 Счет покупки или заказ на покупку создается для записи стоимости покупок и отслеживания кредиторской задолженности. Если требуется управлять запасами, счета покупки также используются для динамического обновления уровней запасов, чтобы уменьшить себестоимости запасов и обеспечить лучшее обслуживание клиентов. Расходы на покупку, включая затраты на обслуживание, и стоимость запасов, полученная из учета счетов покупки, составляют показатели прибыли и другие ключевые показатели эффективности финансовой деятельности в ролевом центре.
@@ -42,9 +40,13 @@ ms.locfileid: "3190927"
 | Создайте кредит-ноту покупки, чтобы отменить конкретный учтенный счет покупки для отражения продуктов, которые возвращаются поставщику, и собираемой суммы платежа. |[Обработка возвратов покупки или отмен](purchasing-how-register-new-vendors.md) |
 |Подготовка к выставлению одного счета по нескольким приходным накладным от одного поставщика путем объединения приходных накладных в одном счете.|[Объединение приходных накладных в один счет](purchasing-how-to-combine-receipts.md)|
 |Преобразование, например, электронных счетов от поставщиков в счета покупки в Business Central.|[Получение и преобразование электронных документов](purchasing-how-to-receive-and-convert-electronic-documents.md)|
-| Узнайте, как [!INCLUDE[d365fin](includes/d365fin_md.md)] рассчитывает, когда необходимо заказать товар для получения его в конкретную дату.|[Расчет даты для покупок](purchasing-date-calculation-for-purchases.md)|
+| Узнайте, как [!INCLUDE[prod_short](includes/prod_short.md)] рассчитывает, когда необходимо заказать товар для получения его в конкретную дату.|[Расчет даты для покупок](purchasing-date-calculation-for-purchases.md)|
 |Разрешение конфликта, когда две или более записей существуют для одного и того же поставщика.|[Объединение повторяющихся записей](sales-how-merge-duplicate-records.md)|
 |Управление обязательством перед поставщиком приобрести большой объем, доставляемый за несколько отгрузок в течение определенного периода времени.|[Работа с общими заказами на покупку](sales-how-to-create-blanket-sales-orders.md)|
+
+## <a name="external-document-numbers"></a>Номера внешних документов
+
+[!INCLUDE [ext-doc-no-purch](includes/ext-doc-no-purch.md)]
 
 ## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/purchase-items-services-dynamics-365-business-central/)
 
@@ -53,7 +55,10 @@ ms.locfileid: "3190927"
 [Регистрация новых поставщиков](purchasing-how-register-new-vendors.md)  
 [Управление кредиторской задолженностью](payables-manage-payables.md)  
 [Управление проектами](projects-manage-projects.md)    
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 [Общие бизнес-функции](ui-across-business-areas.md)
 
-## [!INCLUDE[d365fin](includes/free_trial_md.md)]  
+## [!INCLUDE[prod_short](includes/free_trial_md.md)]  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

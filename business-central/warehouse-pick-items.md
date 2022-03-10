@@ -1,21 +1,20 @@
 ---
-title: Подбор товаров | Документация Майкрософт
-description: Складская операция подбора товаров до их отгрузки или потребления выполняется различными способами в зависимости от настроек функций управления складом. Сложность настройки может колебаться от полного отсутствия функций склада до базовых конфигураций склада для поочередной обработки заказов в ходе одной или нескольких операций; кроме того, может использоваться расширенная конфигурация, когда все складские операции должны выполняться в рамках расширенного рабочего процесса.
+title: Подбор товаров
+description: Операция подбора товаров до их отгрузки или потребления выполняется различными способами в зависимости от настроек функций управления складом.
 author: SorenGP
-ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: ''
-ms.date: 10/01/2020
+ms.search.form: 5779, 5798, 7343, 7345, 7357, 7359, 7377, 7392, 7395, 7397, 9313, 9316, 9344
+ms.date: 06/25/2021
 ms.author: edupont
-ms.openlocfilehash: ef457ddf93e2634345c809b241e15acc94d0593e
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 9933982018e274b2ea84d568d56fee0d3aee73d3
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3911725"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8139074"
 ---
 # <a name="pick-items"></a>Подбор товаров
 
@@ -48,7 +47,10 @@ ms.locfileid: "3911725"
 ## <a name="see-also"></a>См. также  
 [Управление складом](warehouse-manage-warehouse.md)  
 [Наличие](inventory-manage-inventory.md)  
-[Настройка управления складом](warehouse-setup-warehouse.md)     
-[Управление сборкой](assembly-assemble-items.md)    
-[Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Настройка Warehouse Management](warehouse-setup-warehouse.md) 
+[Управление сборкой](assembly-assemble-items.md)
+[Сведения о проектировании: Warehouse Management](design-details-warehouse-management.md)  
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

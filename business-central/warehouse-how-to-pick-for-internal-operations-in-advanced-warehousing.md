@@ -2,20 +2,19 @@
 title: Подбор для внутренних операций в расширенных конфигурациях склада
 description: Если в ваших местоположениях используется комплектация и отгрузка, выберите компоненты для производственной и сборочной деятельности на странице "Складской подбор".
 author: SorenGP
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 3aa0ae0d65fd719e2cd5ae2bd05568163109da16
-ms.sourcegitcommit: ff2b55b7e790447e0c1fcd5c2ec7f7610338ebaa
+ms.openlocfilehash: 5df764b1ca184d1f70dd67c08abf0505833dc2aa
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5386753"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8139135"
 ---
 # <a name="pick-for-production-or-assembly-in-advanced-warehouse-configurations"></a>Подбор для производства или сборки в расширенных конфигурациях склада
 В расширенных конфигурациях склада, где склад настроен на использование подбора и отгрузки, можно выбрать компоненты для производственных и сборочных действий на странице **Складской подбор**.  
@@ -40,7 +39,7 @@ ms.locfileid: "5386753"
 |Заказ на сборку|Измените статус на "Выпущено".|  
 
 ## <a name="to-pick-components-using-the-pick-worksheet"></a>Подбор компонентов из журнала подбора  
-1.  Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Журнал подбора**, затем выберите соответствующую ссылку.  
+1.  Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Журнал подбора**, а затем выберите связанную ссылку.  
 2.  Выберите действие **Получить складские документы**, затем выберите строки компонента из запущенного производственного заказа.  
 3.  Проверить строки, отсортировать их для обеспечения эффективного цикла подбора и при необходимости скомбинировать с другими строками журнала для наиболее эффективного использования времени работника.  
 4.  Выберите действие **Создать подбор**.  
@@ -52,12 +51,12 @@ ms.locfileid: "5386753"
 ## <a name="filling-the-consumption-bin"></a>Заполнение ячейки потребления
 Эта блок-схема показывает, как поле **Код ячейки** в строках компонентов производственного заказа заполняется в соответствии с настройкой склада.
 
-![Диаграмма ячейки](media/binflow.png "BinFlow")  
+![Диаграмма ячейки.](media/binflow.png "BinFlow")  
 
 ## <a name="see-also"></a>См. также
 [Управление складом](warehouse-manage-warehouse.md)  
 [Запасы](inventory-manage-inventory.md)  
-[Настройка управления складом](warehouse-setup-warehouse.md)     
+[Настройка Warehouse Management](warehouse-setup-warehouse.md)     
 [Управление сборкой](assembly-assemble-items.md)    
 [Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

@@ -1,29 +1,28 @@
 ---
-title: Определение контактов в сегменте | Документы Майкрософт
+title: Определение контактов в сегменте | Документация Майкрософт
 description: После создания сегмента вы можете добавить в него контакты, например в рамках маркетинговой кампании, ориентированной на определенных клиентов.
 services: project-madeira
 documentationcenter: ''
 author: jswymer
-ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: marketing, campaign, promo, prospect, contact, client, customer
-ms.date: 04/01/2019
+ms.date: 04/01/2021
 ms.author: jswymer
-ms.openlocfilehash: 00f1f0c7f81741c509e8c2707c38dbaa23087c93
-ms.sourcegitcommit: 60b87e5eb32bb408dd65b9855c29159b1dfbfca8
+ms.openlocfilehash: 975a6e769bbba3a32451fc1e9fda54da9cad401b
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1239272"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8135215"
 ---
 # <a name="add-contacts-to-segments"></a>Добавление контактов к сегментам
 После создания сегмента и ввода базовой информации о нем можно добавить к сегменту контакты. Это можно сделать, заполнив вручную строки на странице **Сегмент**, но проще и быстрее использовать действие **Добавить контакты**.
 
 ## <a name="to-add-a-contact-to-a-segment"></a>Добавление контакта к сегменту
-1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Сегменты**, затем выберите связанную ссылку.  
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Сегменты**, а затем выберите связанную ссылку.  
 2. Выберите сегмент, а затем выберите действие **Добавить контакты**. Откроется страница пакетного задания **Добавление контактов**.
 3. В разделе **Контакт** задайте фильтры, чтобы указать информацию, которую требуется использовать для выбора контактов.
 
@@ -57,4 +56,7 @@ ms.locfileid: "1239272"
 [Создание сегмента](marketing-how-create-segment.md)   
 [Управление сегментами](marketing-segments.md)  
 [Управление возможностями продаж](marketing-manage-sales-opportunities.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

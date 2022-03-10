@@ -1,26 +1,26 @@
 ---
-title: Настройка складских процессов | Документация Майкрософт
-description: Стратегия распределения организации отражена в настройке ее складских процессов. Сюда входит определение того, как различные товары обрабатываются на различных складах, например уровень управления ячейками, а также объем рабочего процесса, необходимого для складских действий.
+title: Настройка складских процессов
+description: Стратегия распределения организации отражена в настройке ее складских процессов, например, местоположений складов.
 author: SorenGP
-ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: ''
-ms.date: 10/01/2020
+ms.search.form: 5775, 7300, 7301, 7302, 7303, 7304, 7305, 7306, 7307, 7308, 7325, 7344, 7346, 7347, 7353, 7366
+ms.date: 06/25/2021
 ms.author: edupont
-ms.openlocfilehash: c96691ada97f0ee91b53d9cde303c2413e99025e
-ms.sourcegitcommit: 32bfc2acaaf3693afc9aeb86feea505fd328caa1
+ms.openlocfilehash: c2645f028dcf32e90d8e3f1260e4110401c4fe6f
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/19/2021
-ms.locfileid: "5024391"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8145164"
 ---
 # <a name="setting-up-warehouse-management"></a>Настройка управления складом
+
 Стратегия распределения организации отражена в настройке ее складских процессов. Сюда входит определение того, как различные товары обрабатываются на различных складах, например уровень управления ячейками, а также объем рабочего процесса, необходимого для складских действий.  
 
- В следующей таблице приводится последовательность задач со ссылками на разделы, в которых они описываются.   
+В следующей таблице приводится последовательность задач со ссылками на разделы, в которых они описываются.  
 
 |**Задача**|**Ссылка**|  
 |------------|-------------|  
@@ -42,9 +42,13 @@ ms.locfileid: "5024391"
 |Интегрировать устройства чтения штрих-кода в решение управления складом. Только для локальных развертываний.|[Использование автоматизированных систем сбора данных (ADCS)](warehouse-use-automated-data-capture-systems-adcs.md)|
 |Укажите отчеты по умолчанию, которые будут использоваться для различных типов документов.|[Выбор отчета в Business Central](across-report-selections.md)|
 
-## <a name="see-also"></a>См. также  
+## <a name="see-also"></a>См. также
+
 [Управление складом](warehouse-manage-warehouse.md)  
 [Запасы](inventory-manage-inventory.md)  
-[Управление сборкой](assembly-assemble-items.md)    
-[Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
+[Управление сборкой](assembly-assemble-items.md)
+[Сведения о проектировании: Warehouse Management](design-details-warehouse-management.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

@@ -2,18 +2,17 @@
 title: 'ОС: местоположения и ответственные сотрудники в России'
 description: Российские улучшения включают местоположения и ответственных сотрудников для основных средств.
 author: DianaMalina
-ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: f22618095c63c70848db8d0521d4eb5d12b79832
-ms.sourcegitcommit: 766e2840fd16efb901d211d7fa64d96766ac99d9
+ms.openlocfilehash: 697604e721f158c02066ca891d202b04f4f71bde
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "5775226"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8144144"
 ---
 # <a name="fixed-asset-locations-and-employees"></a>ОС: местоположения и ответственные сотрудники
 
@@ -29,7 +28,7 @@ ms.locfileid: "5775226"
 
 Ниже показано, как обеспечить, чтобы поля **Код местонахождения ОС** и **Код сотрудника** были всегда заполнены для основных средств.
 
-1. Выберите значок ![Лампочка, которая открывает функцию "Что вы хотите сделать"](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка ОС**, затем выберите соответствующую ссылку.
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../../media/ui-search/search_small.png "Что вы хотите сделать") значок введите *Настройка ОС*, а затем выберите связанную ссылку.
 2. На экспресс-вкладке **Общие** установите флажок **Местонахождение ОС обязательно**.
 
 

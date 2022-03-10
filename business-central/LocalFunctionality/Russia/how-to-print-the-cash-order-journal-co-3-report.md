@@ -2,20 +2,19 @@
 title: Печать отчета "Журнал регистрации кассовых документов КО-3" в России
 description: Улучшения в России включают поддержку отчета "Журнал регистрации кассовых документов КО-3"
 author: DianaMalina
-ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.search.keywords: ''
-ms.date: 10/01/2019
+ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 27312ee2857e15ba310e4b22625309fb0b799839
-ms.sourcegitcommit: 02e704bc3e01d62072144919774f1244c42827e4
+ms.openlocfilehash: 11271174e614df3c6e842c5773bad27b25e62700
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "2301155"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8142623"
 ---
-# <a name="how-to-print-the-cash-order-journal-co-3-report"></a>Практическое руководство. Печать отчета "Журнал регистрации кассовых документов КО-3"
+# <a name="print-the-cash-order-journal-co-3-report"></a>Печать отчета "Журнал регистрации кассовых документов КО-3"
 
 Отчет **Журнал регистрации кассовых документов КО-3** печатает унифицированную стандартную форму (обычно ежемесячно).  
 
@@ -23,7 +22,7 @@ ms.locfileid: "2301155"
 
 ## <a name="to-print-the-cash-order-journal-co-3-report"></a>Печать отчета "Журнал регистрации кассовых документов КО-3"
 
-1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать](../../media/ui-search/search_small.png "Что вы хотите сделать"), введите **Журнал регистрации кассовых документов КО-3**, а затем выберите соответствующую ссылку.
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../../media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Журнал регистрации кассовых документов КО-3**, а затем выберите связанную ссылку.
 
 2. В окне **Журнал регистрации кассовых документов КО-3** заполните поля.
 
@@ -39,3 +38,6 @@ ms.locfileid: "2301155"
 ## <a name="see-also"></a>См. также
 
 [Функциональность локальной версии для России](russia-local-functionality.md)  
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

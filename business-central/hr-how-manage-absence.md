@@ -1,22 +1,20 @@
 ---
-title: Управление простоем сотрудника | Документация Майкрософт
-description: Описывается, как регистрировать отсутствие сотрудников и анализировать статистику отсутствия.
-services: project-madeira
-documentationcenter: ''
+title: Управление простоем сотрудника
+description: Описывает, как регистрировать отсутствие сотрудников и анализировать статистику отсутствия с помощью страниц «Регистрация отсутствия» и «Отсутствие сотрудников».
 author: SorenGP
-ms.service: dynamics365-business-central
-ms.topic: article
+ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.date: 10/01/2020
+ms.search.form: 5212, 5211, 5200
+ms.date: 06/16/2021
 ms.author: edupont
-ms.openlocfilehash: 42bd650cd3452be8c209e2ff12d1f5c06d6c4f21
-ms.sourcegitcommit: ddbb5cede750df1baba4b3eab8fbed6744b5b9d6
+ms.openlocfilehash: 77ae09aebd78c870cc92d01700fc9a9188f340ee
+ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3913617"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "8146440"
 ---
 # <a name="manage-employee-absence"></a>Управление простоем сотрудника
 Для управления простоем сотрудника необходимо зарегистрировать этот простой на странице **Регистрация простоя**. Его можно просмотреть различными способами для анализа и отчетности.
@@ -71,5 +69,8 @@ ms.locfileid: "3913617"
 ## <a name="see-also"></a>См. также
 [Управление персоналом](hr-manage-human-resources.md)  
 [Финансы](finance.md)  
-[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 [Изменение набора отображаемых функций](ui-experiences.md)
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]
