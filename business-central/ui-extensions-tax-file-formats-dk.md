@@ -3,7 +3,7 @@ title: Использование расширения форматов файл
 description: Это расширение форматов файлов налогов облегчает экспорт файлов, форматированных в соответствии с банковскими требованиями к предоставляемым электронным документам.
 services: project-madeira
 documentationcenter: ''
-author: bholtorf
+author: brentholtorf
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,12 +11,12 @@ ms.workload: na
 ms. search.keywords: extension, bank, formats
 ms.date: 06/23/2021
 ms.author: bholtorf
-ms.openlocfilehash: b65d1ee627f4b6c440e1e0f1150fd0ecbdbedc43
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 61716768899d10cf474accbf5ee0347b9ec0c219
+ms.sourcegitcommit: 5a02f8527faecdffcc54f9c5c70cefe8c4b3b3f4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8129868"
+ms.lasthandoff: 03/04/2022
+ms.locfileid: "8382393"
 ---
 # <a name="the-tax-file-formats-dk-extension"></a>Расширения форматов файлов налогов (DK)
 Если вы торгуете с компаниями, внутренними филиалами или дочерними компаниями в других странах ЕС, вы должны предоставлять сведения об этой деятельности в организации SKAT и Statistics Denmark. При использовании функций отчетности НДС и Интрастат в [!INCLUDE[prod_short](includes/prod_short.md)] это расширение обеспечивает совместимость экспортируемого файла с требованиями этих организаций. Расширение добавляет модули Codeunit для экспорта файла отчета MS-ECSL и подачи строк экспорта Интрастат в конфигурацию отчета по НДС, чтобы можно было экспортировать данные непосредственно в новом формате.

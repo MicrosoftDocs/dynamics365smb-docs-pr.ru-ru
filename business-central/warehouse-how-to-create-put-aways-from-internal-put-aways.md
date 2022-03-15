@@ -7,14 +7,15 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
+ms.search.form: 7354, 7356, 7357, 7358, 7359, 7361
 ms.date: 06/24/2021
 ms.author: edupont
-ms.openlocfilehash: 609564faa1e0d5b1e7c364360315ca71b9ba3d06
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 9e0eae31f29e726c15add24ef9d4b48b81b3d299
+ms.sourcegitcommit: 5a02f8527faecdffcc54f9c5c70cefe8c4b3b3f4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8140089"
+ms.lasthandoff: 03/04/2022
+ms.locfileid: "8383647"
 ---
 # <a name="pick-and-put-away-without-a-source-document"></a>Подбор и размещение без документа-источника
 После размещения, но до подбора с целью удовлетворения требований производственного заказа или отгрузки товары хранятся на складе как часть доступных складских запасов.  
@@ -53,8 +54,8 @@ ms.locfileid: "8140089"
 ## <a name="see-also"></a>См. также  
 [Управление складом](warehouse-manage-warehouse.md)  
 [Запасы](inventory-manage-inventory.md)  
-[Настройка управления складом](warehouse-setup-warehouse.md)     
-[Управление сборкой](assembly-assemble-items.md)    
+[Настройка управления складом](warehouse-setup-warehouse.md)  
+[Управление сборкой](assembly-assemble-items.md)  
 [Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
 

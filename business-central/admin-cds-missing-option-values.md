@@ -1,18 +1,18 @@
 ---
 title: Обработка отсутствующих значений параметров
 description: Узнайте, как предотвратить сбой полной синхронизации из-за того ,что параметры в сопоставленных полях отличаются. Эти процессы требуют помощи разработчика.
-author: bholtorf
+author: brentholtorf
 ms.author: bholtorf
 ms.custom: na
 ms.reviewer: na
 ms.topic: conceptual
 ms.date: 06/14/2021
-ms.openlocfilehash: 34d1583ac7e844a7d7acad82f202c37be0b99c47
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 1735b1e3d04b9b35653047b19587f84234389735
+ms.sourcegitcommit: 5a02f8527faecdffcc54f9c5c70cefe8c4b3b3f4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8133970"
+ms.lasthandoff: 03/04/2022
+ms.locfileid: "8383377"
 ---
 # <a name="handling-missing-option-values"></a>Обработка отсутствующих значений параметров
 

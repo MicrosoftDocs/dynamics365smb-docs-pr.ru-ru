@@ -1,5 +1,5 @@
 ---
-title: Как присваивать товарам стандартные ячейки
+title: Присвоение товарам стандартных ячеек
 description: Если на складе используются ячейки, присвоение товарам стандартных ячеек может значительно облегчить процесс отгрузки, приемки и перемещения товаров.
 author: SorenGP
 ms.topic: conceptual
@@ -7,14 +7,15 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
+ms.search.form: 7371, 7374, 7379
 ms.date: 06/25/2021
 ms.author: edupont
-ms.openlocfilehash: e4f3d103c5bfdcedfef6fa3571f4ca56aa2ccb9a
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 6802009029d8eea434e7c5096f4efb591ee4993b
+ms.sourcegitcommit: 5a02f8527faecdffcc54f9c5c70cefe8c4b3b3f4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8134669"
+ms.lasthandoff: 03/04/2022
+ms.locfileid: "8382745"
 ---
 # <a name="assign-default-bins-to-items"></a>Присвоение товарам стандартных ячеек
 Если на складе используются ячейки, присвоение товарам стандартных ячеек может значительно облегчить процесс отгрузки, приемки и перемещения товаров. Когда товару присваивается стандартная ячейка, она будет предлагаться в начале каждой транзакции для этого товара. Стандартные ячейки задаются на странице **Содержимое ячейки**.  
@@ -28,7 +29,7 @@ ms.locfileid: "8134669"
 >  При размещении товара, которому не присвоена стандартная ячейка, ему будет приписана в качестве ячейки по умолчанию та ячейка, в которой этот товар размещен.  
 
 ## <a name="to-change-the-default-bin-for-an-item"></a>Изменение стандартной ячейки для товара  
-Может возникать необходимость изменить стандартную ячейку для товара или присвоить стандартную ячейку новому товару.    
+Может возникать необходимость изменить стандартную ячейку для товара или присвоить стандартную ячейку новому товару.
 1.  Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Содержимое ячейки**, а затем выберите связанную ссылку.  
 2.  В поле **Фильтр по складу** выберите нужный код склада.  
 3.  Найдите запись о текущей стандартной ячейке данного товара и снимите флажок **Станд. ячейка**.  
@@ -40,9 +41,9 @@ ms.locfileid: "8134669"
 ## <a name="see-also"></a>См. также  
 [Управление складом](warehouse-manage-warehouse.md)  
 [Наличие](inventory-manage-inventory.md)  
-[Настройка управления складом](warehouse-setup-warehouse.md)     
-[Управление сборкой](assembly-assemble-items.md)    
-[Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
+[Настройка Warehouse Management](warehouse-setup-warehouse.md) 
+[Управление сборкой](assembly-assemble-items.md)
+[Сведения о проектировании: Warehouse Management](design-details-warehouse-management.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
 
 

@@ -1,7 +1,7 @@
 ---
 title: Управление интеграцией OneDrive с Business Central
 description: Узнайте о том, что вы можете сделать для управления интеграцией между Business Central и OneDrive для бизнеса.
-author: bholtorf
+author: brentholtorf
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: OneDrive, share, browser
 ms.date: 05/12/2021
 ms.author: bholtorf
-ms.openlocfilehash: 20c6eb27aa3af2557ce77993b11f759f2c329100
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 5debd01f9d26e5e1dc1abc1a0123073d0f7ee234
+ms.sourcegitcommit: 5a02f8527faecdffcc54f9c5c70cefe8c4b3b3f4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8144028"
+ms.lasthandoff: 03/04/2022
+ms.locfileid: "8382875"
 ---
 # <a name="managing-onedrive-integration-with-business-central"></a>Управление интеграцией OneDrive с Business Central 
 В этой статье представлен обзор того, что администратор может делать для управления интеграцией OneDrive для бизнеса с [!INCLUDE[prod_short](includes/prod_short.md)]. Клиенты [!INCLUDE[prod_short](includes/prod_short.md)] Online получают выгоду от автоматической интеграции, без дополнительной настройки, необходимой для использования этих функций. 

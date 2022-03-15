@@ -1,7 +1,7 @@
 ---
 title: Практическое руководство. Работа с НДС по продажам и покупкам
 description: В этой теме описываются различные способы работы с НДС, как вручную, так и с автоматической настройкой, чтобы помочь вам соблюдать правила конкретной страны или региона.
-author: bholtorf
+author: brentholtorf
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +10,12 @@ ms.search.keywords: VAT, sales, purchases
 ms.search.form: 118, 130, 142, 459, 460, 525
 ms.date: 06/16/2021
 ms.author: bholtorf
-ms.openlocfilehash: ed3cbe00aac1faf920df6954ee1694bdabce9835
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 7543c60455794d9f004ea11b2baccf81264b9886
+ms.sourcegitcommit: 5a02f8527faecdffcc54f9c5c70cefe8c4b3b3f4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8133788"
+ms.lasthandoff: 03/04/2022
+ms.locfileid: "8382103"
 ---
 # <a name="work-with-vat-on-sales-and-purchases"></a>Работа с НДС по продажам и покупкам
 Если в вашей стране или регионе требуется рассчитывать налог на добавленную стоимость (НДС) на транзакции продаж и покупок, чтобы можно было сообщать суммы в налоговые органы, можно настроить [!INCLUDE[prod_short](includes/prod_short.md)] для автоматического расчета НДС по документам продажи и покупки. Дополнительные сведения см. в разделе [Настройка методов расчета и учета налога на добавленную стоимость](finance-setup-vat.md).

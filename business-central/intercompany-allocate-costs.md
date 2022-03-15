@@ -3,7 +3,7 @@ title: Распределение затрат между внутрифирме
 description: Узнайте, как настройки НДС для клиентов и поставщиков определяют, рассчитывается ли НДС и как он рассчитывается.
 services: project-madeira
 documentationcenter: ''
-author: bholtorf
+author: brentholtorf
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,12 +11,12 @@ ms.workload: na
 ms.search.keywords: incoming document
 ms.date: 04/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: fc11979fb6e21feba85c883b83ca7a3dcc5d8772
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: a4abd45046beb70376490dbd4209f33debf6b573
+ms.sourcegitcommit: 5a02f8527faecdffcc54f9c5c70cefe8c4b3b3f4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8137917"
+ms.lasthandoff: 03/04/2022
+ms.locfileid: "8382063"
 ---
 # <a name="allocate-costs-to-intercompany-partners"></a>Распределение затрат между внутрифирменными партнерами
 Когда вы используете внутрихолдинговые разноски для передачи документов между компаниями-партнерами, настройки, связанные с НДС (в первую очередь, бизнес-группа разноски НДС), назначенные для счетов клиента или поставщиков (связанных с внутрихолдинговым партнером), определяют, будет ли рассчитываться и регистрироваться НДС, и как это будет выполняться. Вы также можете выполнять распределение затрат непосредственно из заказа на покупку между компаниями-партнерами. Например, если вы регистрируете счет на покупку от внешнего поставщика и хотите распределить некоторые или все затраты на одного или нескольких внутрихолдинговых партнеров.

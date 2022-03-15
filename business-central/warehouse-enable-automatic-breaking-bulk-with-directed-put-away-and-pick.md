@@ -7,14 +7,15 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
+ms.search.form: 5703, 7352
 ms.date: 06/25/2021
 ms.author: edupont
-ms.openlocfilehash: 82b0625cf36b0c304a28c1196aa76289d5711c15
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: f16fb21773a519edc77fca615d679e106b397af8
+ms.sourcegitcommit: 5a02f8527faecdffcc54f9c5c70cefe8c4b3b3f4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8144467"
+ms.lasthandoff: 03/04/2022
+ms.locfileid: "8382771"
 ---
 # <a name="enable-automatic-breaking-bulk-with-directed-put-away-and-pick"></a>Разрешение автоматической разбивки с расширенным подбором и размещением
 Для складов, использующих расширенный подбор и размещение, [!INCLUDE[prod_short](includes/prod_short.md)] в различных ситуациях осуществляет разбивку автоматически, т. е. при создании складских инструкций, удовлетворяющих требованиям документов-источников, производственных заказов или внутренних подборов и размещений преобразует крупные единицы измерения в более мелкие. Разбивка иногда также означает сбор более мелких единиц измерения при необходимости удовлетворить исходящие запросы, разбивая крупные единицы измерения в документе-источнике или производственном заказе на более мелкие единицы, существующие на складе.   
@@ -46,9 +47,9 @@ ms.locfileid: "8144467"
 ## <a name="see-also"></a>См. также  
 [Управление складом](warehouse-manage-warehouse.md)  
 [Наличие](inventory-manage-inventory.md)  
-[Настройка управления складом](warehouse-setup-warehouse.md)     
-[Управление сборкой](assembly-assemble-items.md)    
-[Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
+[Настройка Warehouse Management](warehouse-setup-warehouse.md) 
+[Управление сборкой](assembly-assemble-items.md)
+[Сведения о проектировании: Warehouse Management](design-details-warehouse-management.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 
 

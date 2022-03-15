@@ -8,12 +8,12 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: aaf3a30be1c04d1f5f30c157b20a1f10c51170a3
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: cb917d1d54d66e02315e82ef6596a8fef65fb077
+ms.sourcegitcommit: 6d48c1f601ed22b6b0358311baf63c073ab75e64
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8145268"
+ms.lasthandoff: 03/01/2022
+ms.locfileid: "8366194"
 ---
 # <a name="troubleshooting-self-service-sign-up"></a>Устранение неполадок при самостоятельной регистрации
 Регистрация в [!INCLUDE[prod_short](includes/prod_short.md)] проста и выполняется очень быстро. Вы можете создать бесплатную учетную запись, даже если у вас есть существующая организация. В этой статье рассмотрены проблемы, которые могут возникнуть при регистрации.
@@ -43,6 +43,8 @@ ms.locfileid: "8145268"
 
 ## <a name="see-also"></a>См. также
 
+[Зарегистрироваться для бесплатного пробного пользования Dynamics 365 Business Central](trial-signup.md)  
+[Вопросы и ответы по пробной версии Dynamics 365 Business Central](trial-faq.md)  
 [Добро пожаловать в [!INCLUDE[prod_short](includes/prod_long.md)]](index.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 [Локальная функциональность](about-localization.md)  

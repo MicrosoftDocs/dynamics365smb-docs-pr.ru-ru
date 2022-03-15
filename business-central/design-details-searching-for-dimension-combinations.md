@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/08/2021
 ms.author: edupont
-ms.openlocfilehash: 67aa9c5a7b56b00e49573b5232045f032db178c3
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 7ad41e67eb84149f2c17ea5d00fce0b6cd306f74
+ms.sourcegitcommit: 6d48c1f601ed22b6b0358311baf63c073ab75e64
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8145814"
+ms.lasthandoff: 03/01/2022
+ms.locfileid: "8366165"
 ---
 # <a name="design-details-searching-for-dimension-combinations"></a>Сведения о проектировании: поиск комбинаций измерений
 Если страница закрывается после редактирования набора измерений [!INCLUDE[prod_short](includes/prod_short.md)] определяет, существует ли отредактированный набор измерений. Если набор не существует, создается новый набор и возвращается код комбинации измерений.  
@@ -73,7 +73,7 @@ EXIT(DimSet.ID);
 
 ## <a name="see-also"></a>См. также
     
- [Сведения о проектировании: операции набора измерений](design-details-dimension-set-entries.md)   
+ [Сведения о проектировании: операции набора измерений](/dynamics365/business-central/design-details-dimension-set-entries-overview)   
  [Обзор записей набора измерений](design-details-dimension-set-entries-overview.md)   
  [Сведения о проектировании: структура таблицы](design-details-table-structure.md)   
  

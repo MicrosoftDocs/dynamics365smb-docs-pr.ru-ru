@@ -1,5 +1,5 @@
 ---
-title: Практическое руководство. Сборка товаров
+title: Сборка товаров
 description: Если поле Метод пополнения в карточке товара содержит значение Сборка, то метод сбора поставки товара по умолчанию — по определенным компонентам, а также может быть по конкретному ресурсу.
 author: SorenGP
 ms.topic: conceptual
@@ -7,14 +7,15 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: kit, kitting
+ms.search.form: 900, 901, 902, 903, 904, 907, 910, 916, 920, 921, 922, 923, 940, 941, 942, 930, 931, 932, 914, 915, 905
 ms.date: 06/14/2021
 ms.author: edupont
-ms.openlocfilehash: 04c8296089847b7ef1ab051158db578413212be9
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: d41ae558bf8570ab3439f25b82ed9892cb419ecd
+ms.sourcegitcommit: 5a02f8527faecdffcc54f9c5c70cefe8c4b3b3f4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8146969"
+ms.lasthandoff: 03/04/2022
+ms.locfileid: "8381436"
 ---
 # <a name="assemble-items"></a>Сборка товаров
 Если поле **Метод пополнения** в карточке товара содержит значение **Сборка**, то метод сбора поставки товара по умолчанию — по определенным компонентам, а также может быть по конкретному ресурсу.  

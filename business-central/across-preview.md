@@ -6,14 +6,14 @@ ms.topic: conceptual
 ms.workload: na
 ms.search.keywords: preview, trial, sandbox, subscription
 ms.search.form: 1803, 1801
-ms.date: 02/18/2022
+ms.date: 02/22/2022
 ms.author: edupont
-ms.openlocfilehash: 4b31d6d4ca0a7fba8376437fb37f3678f607f7b3
-ms.sourcegitcommit: cdb57f14960f58b1d36a1b373fbf35dfed5fad9e
+ms.openlocfilehash: 48d8ee794c9259a19b22dfcb7c6203f489bf3534
+ms.sourcegitcommit: 6d48c1f601ed22b6b0358311baf63c073ab75e64
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/23/2022
-ms.locfileid: "8335530"
+ms.lasthandoff: 03/01/2022
+ms.locfileid: "8366240"
 ---
 # <a name="prod_long-trials-and-subscriptions"></a>Пробные версии и подписки [!INCLUDE[prod_long](includes/prod_long.md)]
 
@@ -21,9 +21,9 @@ ms.locfileid: "8335530"
 
 Если вы еще не работаете с партнером, см. раздел [Как найти партнера по перепродаже?](/dynamics365/business-central/across-faq#findpartner).  
 
-## <a name="getting-started-with-a-trial"></a>Начало работы с пробной версией
+## <a name="get-started-with-a-trial"></a>Начало работы с пробной версией
 
-Вы можете зарегистрироваться на бесплатную пробную версию [здесь](https://go.microsoft.com/fwlink/?linkid=847861). Мы рекомендуем вам работать с [партнером по перепродаже](/dynamics365/business-central/across-faq#findpartner), чтобы помочь вашей организации начать использовать [!INCLUDE[prod_short](includes/prod_short.md)].  
+Вы можете зарегистрироваться на бесплатную пробную версию [здесь](https://go.microsoft.com/fwlink/?linkid=847861). Мы рекомендуем вам работать с [партнером по перепродаже](/dynamics365/business-central/across-faq#findpartner), чтобы помочь вашей организации начать использовать [!INCLUDE[prod_short](includes/prod_short.md)]. См. также статью [Зарегистрироваться для бесплатного пробного пользования Dynamics 365 Business Central](trial-signup.md) для начала работы.  
 
 В зависимости от вашей страны или региона пробная версия включает в себя языки и функциональные возможности, необходимые для вашей страны или региона. Для получения дополнительной информации см. [Изменение языка и языкового стандарта](about-locale-language.md).  
 
@@ -37,11 +37,11 @@ ms.locfileid: "8335530"
 
 ### <a name="add-your-own-data-to-an-empty-trial-company"></a>Добавьте свои данные в пустую пробную компанию
 
-Если вы хотите попробовать [!INCLUDE[prod_short](includes/prod_short.md)] с собственными данными, вы можете перейти на бесплатную 30-дневную пробную версию с пустой компанией. Мастер настройки **Настройка организации** поможет вам определить основную информацию о вашем бизнесе. При желании вы можете импортировать данные из существующего решения по управлению бизнесом, чтобы вы могли оценить [!INCLUDE[prod_short](includes/prod_short.md)] с вашими собственными данными. Тем не менее, мы рекомендуем вам не использовать бесплатную пробную версию в качестве помощи для работы бизнеса. Свяжитесь с [партнером по перепродаже](/dynamics365/business-central/across-faq#findpartner), чтобы узнать больше о том, как начать работать с [!INCLUDE[prod_short](includes/prod_short.md)]. Партнер также может помочь вам перенести ваши данные в [!INCLUDE [prod_short](includes/prod_short.md)] Online.  
+Если вы хотите попробовать [!INCLUDE[prod_short](includes/prod_short.md)] с собственными данными, вы можете перейти на бесплатную 30-дневную пробную версию без примеров данных. Мастер настройки **Настройка организации** поможет вам определить основную информацию о вашем бизнесе. При желании вы можете импортировать данные из существующего решения по управлению бизнесом, чтобы вы могли оценить [!INCLUDE[prod_short](includes/prod_short.md)] с вашими собственными данными. Тем не менее, мы рекомендуем вам не использовать бесплатную пробную версию в качестве помощи для работы бизнеса. Свяжитесь с [партнером по перепродаже](/dynamics365/business-central/across-faq#findpartner), чтобы узнать больше о том, как начать работать с [!INCLUDE[prod_short](includes/prod_short.md)]. Партнер также может помочь вам перенести ваши данные в [!INCLUDE [prod_short](includes/prod_short.md)] Online.  
 
 Если для принятия решения вам недостаточно 30 дней, вы можете продлить пробную версию. Для получения дополнительной информации см. [Нужно больше времени на принятие решения о подписке?](admin-extend-trial.md)  
 
-### <a name="setting-up-your-company-in-prod_short"></a>Настройка собственной компании в [!INCLUDE[prod_short](includes/prod_short.md)]
+### <a name="set-up-your-company-in-prod_short"></a>Настройка компании в [!INCLUDE[prod_short](includes/prod_short.md)]
 
 Статьи [краткого руководства](quick-start-business-central.md) могут помочь вам сделать первые шаги в настройке [!INCLUDE [prod_short](includes/prod_short.md)] для своей организации. В [!INCLUDE [prod_short](includes/prod_short.md)] на странице **Мастер настройки** перечислены руководства мастера настройки, которые могут вам помочь. В зависимости от вашей роли, страны или региона, на этой странице приводятся различные руководства по настройке, как показано в следующей таблице:
 
@@ -70,7 +70,7 @@ ms.locfileid: "8335530"
 > [!IMPORTANT]
 > При предоставлении доступа к [!INCLUDE[prod_short](includes/prod_short.md)] другим людям в вашей компании вы должны убедиться, что другие пользователи не находятся в системе в момент удаления организации.  
 
-## <a name="getting-started-with-a-subscription"></a>Начало работы с подпиской
+## <a name="get-started-with-a-subscription"></a>Начало работы с подпиской
 
 При каждом выполнении входа во время пробного периода отображается уведомление вверху в синем поле с указанием оставшегося времени. Если вы решили оформить подписку, найдите партнера [!INCLUDE[prod_short](includes/prod_short.md)]. Для получения дополнительной информации см. раздел [Как найти партнера по перепродаже?](/dynamics365/business-central/across-faq#findpartner). Партнер может помочь вам настроить [!INCLUDE[prod_short](includes/prod_short.md)] в соответствии с особенностями вашего бизнеса, в том числе импортировать данные из вашей предыдущей системы. Вы также можете настроить [!INCLUDE[prod_short](includes/prod_short.md)], добавляя приложения из [коммерческой платформы Майкрософт](https://go.microsoft.com/fwlink/?linkid=2081646).  
 
@@ -83,7 +83,7 @@ ms.locfileid: "8335530"
 
 Для получения дополнительной информации о том, что вы можете делать с [!INCLUDE [prod_short](includes/prod_short.md)], прочтите [Подготовьтесь к ведению бизнеса](ui-get-ready-business.md) и [Функциональные бизнес-возможности](across-business-functionality.md).  
 
-## <a name="getting-started-with-sandboxes"></a>Начало работы с песочницами
+## <a name="get-started-with-sandboxes"></a>Начало работы с песочницами
 
 Среды "песочницы" позволяют попрактиковаться с [!INCLUDE[prod_short](includes/prod_short.md)]. Песочница — это непроизводственная среда, которую можно использовать поверх производственного экземпляра [!INCLUDE[prod_short](includes/prod_short.md)]. Например, если вы хотите пройти бесплатное онлайн-обучение от [Microsoft Learn](/learn/dynamics365/business-central?WT.mc_id=dyn365bc_landingpage-docs), ваш администратор может [создать среду песочницы](/dynamics365/business-central/dev-itpro/administration/tenant-admin-center-environments#create-a-sandbox-environment). Таким образом, вы и ваши коллеги сможете практиковаться в безопасном месте, а не в производственной среде.  
 
@@ -98,6 +98,8 @@ ms.locfileid: "8335530"
 
 ## <a name="see-also"></a>См. также
 
+[Зарегистрироваться для бесплатного пробного пользования Dynamics 365 Business Central](trial-signup.md)  
+[Вопросы и ответы по пробной версии Dynamics 365 Business Central](trial-faq.md)  
 [Краткое руководство по Business Central](quick-start-business-central.md)  
 [Подготовьтесь к ведению бизнеса](ui-get-ready-business.md)  
 [Продление пробной версии](admin-extend-trial.md)  

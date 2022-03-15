@@ -1,5 +1,5 @@
 ---
-title: Создание общих заказов на сборку | Документация Майкрософт
+title: Создание общих заказов на сборку
 description: Создавайте общие заказы на продажу для настраиваемых сборочных элементов до периодического создания фактических заказов на продажу по договору общего заказа.
 author: SorenGP
 ms.topic: conceptual
@@ -7,14 +7,15 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: kit, kitting
+ms.search.form: 900, 901, 902, 903, 904, 907, 910, 916, 920, 921, 922, 923, 940, 941, 942, 930, 931, 932, 914, 915, 905
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: e565a07bf148043de47eab5cba4df5c76beceb5a
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 45550b0aa5c3d55b8988b597ebef038df108a7a2
+ms.sourcegitcommit: 5a02f8527faecdffcc54f9c5c70cefe8c4b3b3f4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8146934"
+ms.lasthandoff: 03/04/2022
+ms.locfileid: "8383997"
 ---
 # <a name="create-blanket-assembly-orders"></a>Создание общих заказов на сборку
 Можно использовать функцию управления сборкой, чтобы настроить сборочный элемент по запросу клиента во время процесса продаж. Дополнительные сведения см. в разделе [Продажа товара, собранного на заказ](assembly-how-to-sell-items-assembled-to-order.md).  

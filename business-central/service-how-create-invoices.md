@@ -1,7 +1,7 @@
 ---
 title: Создание сервисных счетов или кредит-нот для сервисов
 description: Узнайте, как использовать Business Central для удобного создания кредитовых счетов и кредит-нот для ваших служб.
-author: bholtorf
+author: brentholtorf
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/23/2021
 ms.author: bholtorf
-ms.openlocfilehash: 47ff02006af6182752ed110464b4c8aa493060c5
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 6802f145d0312339080cff0d58e9e784dca51088
+ms.sourcegitcommit: 5a02f8527faecdffcc54f9c5c70cefe8c4b3b3f4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8143092"
+ms.lasthandoff: 03/04/2022
+ms.locfileid: "8381808"
 ---
 # <a name="create-service-invoices-or-credit-memos"></a>Создание сервисных счетов или кредит-нот
 Простота выставления счетов по сервисным заказам — ключевая особенность [!INCLUDE[prod_short](includes/prod_short.md)]. Можно настроить [!INCLUDE[prod_short](includes/prod_short.md)] так, чтобы технический персонал, работающий на выезде, мог создавать счета без привязки к конкретным контрактам или заказам. Вы таже можете настроить [!INCLUDE[prod_short](includes/prod_short.md)] так, чтобы периодически выставлять счета на обслуживание. Расчетный период по каждому контракту определяет, как часто по нему выставляются счета.

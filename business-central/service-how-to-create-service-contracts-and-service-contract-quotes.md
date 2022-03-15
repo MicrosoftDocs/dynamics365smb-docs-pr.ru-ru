@@ -1,7 +1,7 @@
 ---
 title: Как работать с сервисными контрактами и предложениями по сервисным контрактам | Документация Майкрософт
 description: Сервисный контракт можно создать как вручную, так и на основе предложения по сервисному контракту. Можно создать контракт на основе предложения по сервисному контракту.
-author: bholtorf
+author: brentholtorf
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: 0a9e90f19584e3586bac0cc80dac3b2cc0d9ce74
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: dcd6ec21880a2f4e8fa9cf3fdd04be1eb4dd191b
+ms.sourcegitcommit: 5a02f8527faecdffcc54f9c5c70cefe8c4b3b3f4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8134903"
+ms.lasthandoff: 03/04/2022
+ms.locfileid: "8383537"
 ---
 # <a name="work-with-service-contracts-and-service-contract-quotes"></a>Работа с сервисными контрактами и предложениями по сервисным контрактам
 Сервисный контракт можно создать как вручную, так и на основе предложения по сервисному контракту. Можно использовать предложение по сервисному контракту в качестве предварительного документа для создания сервисного контракта, в котором организация делает предложение клиенту, причем предложение должно быть одобрено клиентом до его преобразования в сервисный контракт. Процедуры создания сервисного контракта или предложения по сервисному контракту похожи.  

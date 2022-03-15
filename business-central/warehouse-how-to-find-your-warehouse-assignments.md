@@ -1,26 +1,28 @@
 ---
-title: Как искать складские назначения
+title: Поиск складских назначений
 description: В этом разделе объясняется, как найти назначенные вам складские назначения на странице «Карточка товара» после создания для вас инструкций.
 author: SorenGP
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: ''
+ms.search.form: 9000
 ms.date: 06/24/2021
 ms.author: edupont
-ms.openlocfilehash: 5fe603b5cb2499c4b74e29725ee1747219d37e27
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 5b27848474f26f92b54169e1d60e8e786a6ab95f
+ms.sourcegitcommit: 5a02f8527faecdffcc54f9c5c70cefe8c4b3b3f4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8141981"
+ms.lasthandoff: 03/04/2022
+ms.locfileid: "8382157"
 ---
 # <a name="find-your-warehouse-assignments"></a>Поиск складских назначений
+
 Чтобы найти складские назначения, откройте страницу карточки для выбранного товара. Если складские инструкции созданы, то строки «Взять» и «Поместить» будут видимыми, и можно приступать к работе над назначением. На некоторых складах менеджер может назначить специальные инструкции для каждого работника. Дополнительные сведения см. в разделе [Настройка работников склада](warehouse-how-to-set-up-warehouse-employees.md).
 
-## <a name="to-find-an-instruction-assigned-to-you"></a>Поиск инструкции, предназначенной для вас  
-1.  Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") введите **Складские размещения**, **Складские подборы** или **Складское перемещение**, а затем выберите связанную ссылку.
+## <a name="to-find-an-instruction-assigned-to-you"></a>Поиск инструкции, предназначенной для вас
+
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") введите **Складские размещения**, **Складские подборы** или **Складское перемещение**, а затем выберите связанную ссылку.
 
     Все три страницы показывают назначения для всех складов.  
 
@@ -29,12 +31,13 @@ ms.locfileid: "8141981"
 
 Поле **Код исполнителя** в заголовке используется также для требования назначения работы, если менеджер склада не назначил конкретных инструкций работникам. Просто до начала работы по инструкции ввести код пользователя в заголовок склада. Коллеги могут выбрать работу по другим инструкциям, и, таким образом, двойной работы на складе не будет.  
 
-## <a name="see-also"></a>См. также  
+## <a name="see-also"></a>См. также
+
 [Управление складом](warehouse-manage-warehouse.md)  
 [Наличие](inventory-manage-inventory.md)  
-[Настройка управления складом](warehouse-setup-warehouse.md)     
-[Управление сборкой](assembly-assemble-items.md)    
-[Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
+[Настройка Warehouse Management](warehouse-setup-warehouse.md) 
+[Управление сборкой](assembly-assemble-items.md)
+[Сведения о проектировании: Warehouse Management](design-details-warehouse-management.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md) 
 
 

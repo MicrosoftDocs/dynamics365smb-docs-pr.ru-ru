@@ -1,7 +1,7 @@
 ---
 title: Вопросы и ответы о функции "Что вы хотите сделать"
 description: Эта статья содержит ответы на вопросы, которые наши партнеры и клиенты часто задают по поводу функции "Что вы хотите сделать".
-author: bholtorf
+author: brentholtorf
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +10,12 @@ ms.search.keywords: find
 ms.search.form: 9020, 9022, 9026, 9027, 9030, 9000, 9004, 9005, 9018, 9006, 9007, 9010, 9016, 9017
 ms.date: 06/24/2021
 ms.author: bholtorf
-ms.openlocfilehash: 13605b6188f9aa2c30a82cbb8216d8419a711d31
-ms.sourcegitcommit: cdb57f14960f58b1d36a1b373fbf35dfed5fad9e
+ms.openlocfilehash: 387ab76eb4ce26ca312165a1bd4e746478ec7340
+ms.sourcegitcommit: 5a02f8527faecdffcc54f9c5c70cefe8c4b3b3f4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/23/2022
-ms.locfileid: "8334717"
+ms.lasthandoff: 03/04/2022
+ms.locfileid: "8381649"
 ---
 # <a name="tell-me-faq"></a>Вопросы и ответы о функции "Что вы хотите сделать"
 В этой теме содержатся ответы на вопросы, которые часто задают наши продвинутые пользователи о функции "Что вы хотите сделать"

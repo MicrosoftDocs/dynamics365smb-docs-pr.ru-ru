@@ -1,7 +1,7 @@
 ---
 title: Как распределять ресурсы | Документация Майкрософт
 description: Чтобы исправить сумму, на которую будет ежегодно выставляться счет, можно изменить годовую сумму в сервисном контракте или в предложении по контракту.
-author: bholtorf
+author: brentholtorf
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: ba3571eac4e26646507db2c67f0c2f77207a4566
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 71cbdf87ba74c0cff1839fb4a3d4e1620884f407
+ms.sourcegitcommit: 5a02f8527faecdffcc54f9c5c70cefe8c4b3b3f4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8143066"
+ms.lasthandoff: 03/04/2022
+ms.locfileid: "8382693"
 ---
 # <a name="allocate-resources"></a>Распределение ресурсов
 Ключевым элементом сервисного управления является персонал, предоставляющий услуги. Можно настроить [!INCLUDE[prod_short](includes/prod_short.md)] для назначения правильных сотрудников соответствующим работам. Назначения могут задаваться на основе сервисных зон, в которых находятся сотрудники, или мест, где производится сервисное обслуживание. Кроме этого, при реагировании на сервисные запросы можно группировать ресурсы. Дополнительные сведения см. в разделе [Настройка распределения ресурсов](service-how-setup-resource-allocation.md).

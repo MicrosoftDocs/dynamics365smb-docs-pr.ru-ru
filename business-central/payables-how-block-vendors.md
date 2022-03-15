@@ -1,7 +1,7 @@
 ---
 title: Блокировка поставщиков
 description: Прочитайте, как заблокировать включение поставщиков в какие-либо транзакции или как просто заблокировать новые платежи им.
-author: bholtorf
+author: brentholtorf
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +10,12 @@ ms.search.keywords: ''
 ms.search.form: 27
 ms.date: 06/22/2021
 ms.author: bholtorf
-ms.openlocfilehash: 5b1c93c8768f65832aae41f0fe65835b426a805f
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 5734eeec7da24dc945018639fda42290f7bd331e
+ms.sourcegitcommit: 5a02f8527faecdffcc54f9c5c70cefe8c4b3b3f4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8145580"
+ms.lasthandoff: 03/04/2022
+ms.locfileid: "8383861"
 ---
 # <a name="block-vendors"></a>Блокировка поставщиков
 Можно заблокировать поставщика, например из-за несостоятельности, чтобы этого поставщика нельзя было добавить в документы покупки или чтобы никакие платежи не могли быть учтены для этого поставщика.

@@ -1,7 +1,7 @@
 ---
 title: Как настроить товары, выдаваемые для временного пользования | Документация Майкрософт
 description: Можно настроить товары временного пользования, которые можно предоставить клиентам взамен сервисных товаров, находящихся в обслуживании.
-author: bholtorf
+author: brentholtorf
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: 252696484a8c7d90bac90628cf74896240889ba9
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: c4fda37826295491db4445ec78103013149d2aa0
+ms.sourcegitcommit: 5a02f8527faecdffcc54f9c5c70cefe8c4b3b3f4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8132632"
+ms.lasthandoff: 03/04/2022
+ms.locfileid: "8383035"
 ---
 # <a name="set-up-a-loaner-program"></a>Настройка программы временного пользования
 Иногда возникает необходимость в предоставлении клиенту товара для временного пользования в качестве замены товара, находящегося в ремонте. В [!INCLUDE[prod_short](includes/prod_short.md)] можно настроить программу временного пользования, предоставлять клиентам товары во временное пользование и отслеживать возврат, когда клиенты возвращают товары. Кроме того, можно добавлять комментарии о товарах для временного пользования одним из двух способов:  

@@ -1,8 +1,7 @@
 ---
 title: Расширение для управления группой НДС
 description: Вы можете взаимодействовать с другими предприятиями, чтобы сформировать группу НДС, и действовать как участник или представитель группы при отчетности по НДС.
-author: bholtorf
-manager: annbe
+author: brentholtorf
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +9,12 @@ ms.workload: na
 ms. search.keywords: VAT, value added tax, report
 ms.date: 04/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: 470b8af1322fa0f3b295f566244af44c3183c2fe
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: f385cd6dc2186a2e492eb7c045639ec34185237c
+ms.sourcegitcommit: 5a02f8527faecdffcc54f9c5c70cefe8c4b3b3f4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8132450"
+ms.lasthandoff: 03/04/2022
+ms.locfileid: "8382561"
 ---
 # <a name="the-vat-group-management-extension"></a>Расширение для управления группой НДС
 
@@ -84,9 +83,9 @@ ms.locfileid: "8132450"
 5. Выберите **Тип аутентификации**, выберите **OAuth2**, а затем выберите **Далее**.
 6. В поле **ИД клиента** введите идентификатор, предоставленный представителем группы НДС.
 7. В поле **Секрет клиента, предоставленный представителем группы НДС** введите секрет, предоставленный представителем группы НДС.
-8. В поле **Конечная точка авторизации OAuth 2.0** введите *https://login.microsoftonline.com/common/oauth2*.
-9. В поле **URL-адрес ресурса OAuth 2.0** введите *https://api.businesscentral.dynamics.com/*.
-10. В поле **URL-адрес перенаправления OAuth 2.0** введите *https://businesscentral.dynamics.com/OAuthLanding.htm*. 
+8. В поле **Конечная точка авторизации OAuth 2.0** введите `https://login.microsoftonline.com/common/oauth2`.
+9. В поле **URL-адрес ресурса OAuth 2.0** введите `https://api.businesscentral.dynamics.com/`.
+10. В поле **URL-адрес перенаправления OAuth 2.0** введите `https://businesscentral.dynamics.com/OAuthLanding.htm`. 
 11. Когда вы указали различные поля, выберите **Далее**, а затем введите учетные данные пользователя, предоставленные представителем группы НДС.
 12. Выберите конфигурацию отчета по НДС, которую вы используете для сообщения НДС налоговому органу в вашей стране.
 
@@ -94,7 +93,7 @@ ms.locfileid: "8132450"
 
 ## <a name="using-the-vat-group-management-features"></a>Использование функций управления группой НДС
 
-Участники группы НДС используют стандартные процессы для подготовки деклараций по НДС. Единственная разница — выбрать версию отчета **VATGROUP**, которая отправляет декларацию по НДС представителю группы НДС, а не налоговым органам. Дополнительные сведения см. в разделе [Об отчете о возврате НДС](finance-how-report-vat.md#about-the-vat-return-report).
+Участники группы НДС используют стандартные процессы для подготовки деклараций по НДС. Единственная разница — выбрать версию отчета **VATGROUP**, которая отправляет декларацию по НДС представителю группы НДС, а не налоговым органам. Дополнительные сведения см. в разделе [Об отчете о возврате НДС](finance-how-report-vat.md#vatreturn).
 
 В следующих разделах описываются задачи, которые должны выполнять представители группы НДС.
 

@@ -1,7 +1,7 @@
 ---
 title: Настройка распределения ресурсов | Документация Майкрософт
 description: Узнайте, как система может помочь обеспечить, чтобы для сервисных работ назначались сотрудники с необходимыми навыками.
-author: bholtorf
+author: brentholtorf
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: resource, skill, service, zones
 ms.date: 04/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: a1455e315cf575d7ac7549113770d5cafa5012c8
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 9f98a4079140020382edb505e0dcf0f9470808ea
+ms.sourcegitcommit: 5a02f8527faecdffcc54f9c5c70cefe8c4b3b3f4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8139317"
+ms.lasthandoff: 03/04/2022
+ms.locfileid: "8383457"
 ---
 # <a name="set-up-resource-allocation"></a>Настройка распределения ресурсов
 Для обеспечения хорошего качества выполнения сервисной задачи важно найти квалифицированный ресурс, обладающий квалификацией для выполнения работы. Можно настроить [!INCLUDE[prod_short](includes/prod_short.md)] таким образом, чтобы было легко выделить для работы сотрудника с требуемой квалификацией. В [!INCLUDE[prod_short](includes/prod_short.md)] это называется _распределением ресурсов_. Ресурсы можно распределять на основе квалификации, доступности или по принадлежности к той же зоне обслуживания, что и клиент. 

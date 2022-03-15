@@ -1,7 +1,7 @@
 ---
 title: Управление сервисной ценой
 description: Управление сервисными ценами позволяет настраивать группы сервисных цен, сервисные цены, корректировку сервисных цен и многое другое.
-author: bholtorf
+author: brentholtorf
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/23/2021
 ms.author: bholtorf
-ms.openlocfilehash: e6cfc801e40bfae60dd687ede073bd4367e69092
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: b4a4e528b2104c6b72f6be2ca149443802205e89
+ms.sourcegitcommit: 5a02f8527faecdffcc54f9c5c70cefe8c4b3b3f4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8142965"
+ms.lasthandoff: 03/04/2022
+ms.locfileid: "8381196"
 ---
 # <a name="service-price-management"></a>Управление сервисной ценой
 Функциональные возможности управления сервисной ценой позволяют использовать лучшие цены в сервисных заказах, создавать для клиентов персонализированные соглашения по сервисным ценам, повышать эффективность работы обслуживающего персонала и ускорять процесс выставления счетов.  

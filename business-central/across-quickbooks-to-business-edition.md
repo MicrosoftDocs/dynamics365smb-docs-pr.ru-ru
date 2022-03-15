@@ -1,7 +1,7 @@
 ---
 title: Передача данных из приложения QuickBooks
 description: Вы можете переносить данные, например клиентов, поставщиков, товары в запасах и счета ГК из приложений QuickBooks в Business Central.
-author: bholtorf
+author: brentholtorf
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -10,12 +10,12 @@ ms.search.keywords: app, import, migrate, data, transfer, QuickBooks, customize
 ms.search.form: 1808
 ms.date: 04/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: 9e8f24712efe1c6902d83e3c454d5c90209629c3
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 8ba1ef2d6625cb49c1b4d12dc5626c3669ecb320
+ms.sourcegitcommit: 5a02f8527faecdffcc54f9c5c70cefe8c4b3b3f4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8134049"
+ms.lasthandoff: 03/04/2022
+ms.locfileid: "8384154"
 ---
 # <a name="changing-from-a-quickbooks-app-to-dynamics-365-business-central"></a>Переход с приложения QuickBooks на Dynamics 365 Business Central
 Все больше организаций ввиду увеличения масштабов своей деятельности переходят с таких финансовых приложений, предназначенных для стартапов и других небольших предприятий, как QuickBooks Desktop и QuickBooks Online, на систему [!INCLUDE[prod_short](includes/prod_short.md)], способную обслуживать более крупные и сложные организации. 

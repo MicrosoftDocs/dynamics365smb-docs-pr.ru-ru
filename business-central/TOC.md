@@ -88,14 +88,16 @@
 ##### [Сведения о проектировании: структура механизма учета](design-details-posting-engine-structure.md)  
 
 ## Попробовать
+### [Зарегистрироваться для бесплатного пробного пользования Dynamics 365 Business Central](trial-signup.md)
+### [Вопросы и ответы по пробной версии Dynamics 365 Business Central](trial-faq.md)
 ### [Пробные версии и подписки](across-preview.md)
-### [Подготовьтесь к ведению бизнеса](ui-get-ready-business.md)
+### [Подготовка к ведению бизнеса](ui-get-ready-business.md)
 ### [Устранение неполадок при самостоятельной регистрации](ui-troubleshoot-self-signup.md)
 ### [Продление пробной версии](admin-extend-trial.md)
 ### [Отмена подписки или удаление Business Central](admin-cancel.md)
 ## Купить
-### [Начало работы с подпиской](across-preview.md#getting-started-with-a-subscription)
-### [Подготовьтесь к ведению бизнеса](ui-get-ready-business.md)
+### [Начало работы с подпиской](across-preview.md#get-started-with-a-subscription)
+### [Подготовка к ведению бизнеса](ui-get-ready-business.md)
 
 ## Краткие руководства
 ### [Краткое руководство по Business Central](quick-start-business-central.md)
@@ -557,7 +559,7 @@
 #### [Удаление и повторное применение операций журнала товаров](finance-how-to-remove-and-reapply-item-entries.md)
 #### [Закрытие открытых операций в книге товаров, появившихся в результате фиксированного применения в товарном журнале](finance-how-to-close-open-item-ledger-entries-resulting-from-fixed-application-in-the-item-journal.md)
 #### Отчет о затратах и выверка с главной книгой
-##### [Отчет о затратах](finance-report-costs-and-reconcile-with-the-general-ledger.md)
+##### [Отчет о затратах](/dynamics365/business-central/finance-how-to-post-inventory-costs-to-the-general-ledger)
 ##### [Выверка себестоимости товаров с главной книгой](finance-how-to-post-inventory-costs-to-the-general-ledger.md)
 ##### [Отслеживание хода выполнения работ и производительности](projects-how-monitor-progress-performance.md)
 #### [Корректировка и сверка стоимости запасов с главной книгой с помощью очереди заданий](finance-adjust-reconcile-inventory-cost-job-queue.md)
