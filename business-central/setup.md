@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: configure, initialize
 ms.date: 06/23/2021
 ms.author: edupont
-ms.openlocfilehash: 38aaf6b77defd6afcc9cbe2bda7b56d71c139699
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 10b9483d46caa9fff156a80f5301521ae9c36d63
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8128640"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8510769"
 ---
 # <a name="overview-of-tasks-to-set-up-prod_short"></a>Обзор задач по настройке [!INCLUDE[prod_short](includes/prod_short.md)]
 
@@ -63,6 +63,7 @@ ms.locfileid: "8128640"
 
 ## <a name="see-also"></a>См. также
 
+[Обзор информации о компании](admin-company-information.md)  
 [Администрация](admin-setup-and-administration.md)  
 [Финансы](finance.md)  
 [Продажи](sales-manage-sales.md)  

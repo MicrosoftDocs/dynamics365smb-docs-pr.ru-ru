@@ -10,12 +10,12 @@ ms.search.keywords: project management, KPI, work in process, work in progress
 ms.search.form: 89, 92, 1010
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: f79829b3f227b6a5dcc94c95aa1aaf9826b3d7ce
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: f53a98d0574bfd324249b85b0b75de5f5e4997e9
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8131289"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8514937"
 ---
 # <a name="monitor-job-progress-and-performance"></a>Отслеживание хода выполнения работ и производительности
 По мере выполнения работы, материалы, ресурсы и т. д. потребляются и подлежат учету. Незавершенное производство (НЗП) — это функция, позволяющая в процессе выполнения работы оценивать ее стоимость с финансовый точки зрения в Главной книге, пока работы еще не завершены. В большинстве случаев затраты можно учесть до выставления счета по работе. Если учитывать только расходы, финансовый отчет будет неточным. Дополнительные сведения см. в разделе [Общее представление о методах учета НЗП](projects-understanding-wip.md).

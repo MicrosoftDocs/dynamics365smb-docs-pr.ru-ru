@@ -10,12 +10,12 @@ ms.search.keywords: analysis, reporting, financial report, business intelligence
 ms.search.form: 9901, 9018, 9020, 9022, 9027
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 3161c51160790b2fcc4e702866025e501167b644
-ms.sourcegitcommit: cdb57f14960f58b1d36a1b373fbf35dfed5fad9e
+ms.openlocfilehash: 912309636020923e522ea3060abf814c179dcbb1
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/23/2022
-ms.locfileid: "8335608"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8521388"
 ---
 # <a name="exporting-your-business-data-to-excel"></a>Экспорт бизнес-данных в Excel
 Если вы хотите работать с данными из [!INCLUDE[prod_short](includes/prod_short.md)] в Excel, вы можете открыть все списки в Excel и работать с ними там. Аналогично, если требуется отменить подписку на [!INCLUDE[prod_short](includes/prod_short.md)], вы можете экспортировать данные в Excel, чтобы забрать их с собой.

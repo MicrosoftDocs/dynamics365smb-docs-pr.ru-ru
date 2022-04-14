@@ -10,12 +10,12 @@ ms.search.keywords: ''
 ms.search.form: 256, 1205, 1206, 1209, 10810, 10811
 ms.date: 07/06/2021
 ms.author: bholtorf
-ms.openlocfilehash: 7ca67e062f2ea6720d0aa7cbf196fd2c6e612159
-ms.sourcegitcommit: 5a02f8527faecdffcc54f9c5c70cefe8c4b3b3f4
+ms.openlocfilehash: be2f6e3efdfd34d59c55a3addeefb5646454b3bb
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/04/2022
-ms.locfileid: "8382632"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8516269"
 ---
 # <a name="make-payments-with-the-amc-banking-365-fundamentals-extension-or-sepa-credit-transfer"></a>Выполнение платежей с помощью расширения AMC Banking 365 Fundamentals или кредитного перевода SEPA
 
@@ -93,7 +93,7 @@ ms.locfileid: "8382632"
 В общей версии [!INCLUDE[prod_short](includes/prod_short.md)] расширение AMC Banking 365 Fundamentals доступно. В версиях для Северной Америки это же расширение можно использовать для отправки файлов платежей как электронного платежа (EFT), однако процесс немного отличается. См. шаг 6 в разделе [Экспорт платежей в банковский файл](finance-make-payments-with-bank-data-conversion-service-or-sepa-credit-transfer.md#to-export-payments-to-a-bank-file).
 
 > [!NOTE]  
-> Прежде чем можно будет экспортировать файлы платежей из журнала платежей, следует указать электронный формат для используемого банковского счета и включить расширение AMC Banking 365 Fundamentals. Для получения дополнительной информации см. разделы [Настройка банковских счетов](bank-how-setup-bank-accounts.md) и [Использование расширения AMC Banking 365 Fundamentals](ui-extensions-amc-banking.md). Кроме того, необходимо установить флажок **Разрешить экспорт платежей** на странице **Разделы финансового журнала**. Дополнительные сведения см. в разделе [Работа с финансовыми журналами](ui-work-general-journals.md).  
+> Прежде чем можно будет экспортировать файлы платежей из журнала платежей, следует указать электронный формат для используемого банковского счета и включить расширение AMC Banking 365 Fundamentals. Для получения дополнительной информации см. разделы [Настройка банковских счетов](bank-how-setup-bank-accounts.md) и [Использование расширения AMC Banking 365 Fundamentals](ui-extensions-amc-banking.md). Кроме того, необходимо установить флажок **Разрешить экспорт платежей** на странице **Разделы финансового журнала**. Дополнительные сведения прочитайте в разделе [Работа с финансовыми журналами](ui-work-general-journals.md).  
 
 Страница **Регистры кредитовых переводов** служит для просмотра файлов платежей, которые были экспортированы из журнала платежей. С этой страницы можно также повторно экспортировать файлы платежей в случае технических ошибок или изменения файлов. Однако обратите внимание, что файлы EFT не отображаются на этой странице и не могут быть экспортированы повторно.  
 

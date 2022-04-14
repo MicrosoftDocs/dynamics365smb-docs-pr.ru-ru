@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/08/2021
 ms.author: edupont
-ms.openlocfilehash: a4877cf45e4cbf035e2914b72e10f4d7a4102e59
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 737ca33780c83a5f44576e623296976b0fc1fdd9
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8145866"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8522984"
 ---
 # <a name="design-details-inventory-valuation"></a>Сведения о проектировании: оценка стоимости запасов
 Оценка стоимости запасов — определение себестоимости, назначенной товару в запасах, выраженной с помощью следующего уравнения.  

@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: migration, Excel
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 5c6dc9d386bde8e4f8496f086141589ea4c89c73
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: f2918b554cf578baa0636f0a18bbbbf2fc8a4692
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8136456"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8516477"
 ---
 # <a name="importing-business-data-from-other-finance-systems"></a>Импорт бизнес-данных из других финансовых систем
 
@@ -40,7 +40,7 @@ ms.locfileid: "8136456"
 > [!NOTE]  
 >   Работа с пакетами конфигураций — расширенная функция, и рекомендуется связаться с администратором. Дополнительные сведения см. в разделе [Импорт данных из устаревшего ПО учета с использованием пакета конфигурации](across-import-data-configuration-packages.md).
 
-## <a name="working-with-data-in-excel"></a>Работа с данными в Excel
+## <a name="work-with-data-in-excel"></a>Работа с данными в Excel
 При экспорте пакета конфигурации по умолчанию в Excel созданная книга содержит лист для каждой таблицы в пакете. Чтобы упростить задачи, можно воспользоваться преимуществами инструментов управления XML, которые встроены в Excel. Также можно воспользоваться встроенными функциями Excel, чтобы помочь с форматом данных и поместить данные в правильную ячейку. Например, добавьте пустой лист и скопируйте в него устаревшие данные. Затем создайте формулу Excel для сопоставления данных в листе преобразования между полями в экспортированном листе и устаревшими данными клиента. После сопоставления всех данных скопируйте диапазон данных в табличный журнал.  
 
 > [!IMPORTANT]  

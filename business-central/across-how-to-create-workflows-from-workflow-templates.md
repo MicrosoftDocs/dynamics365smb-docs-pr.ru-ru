@@ -11,12 +11,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/11/2021
 ms.author: edupont
-ms.openlocfilehash: d429b5acce6520b86a1272620379265fb01b1462
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 038494ebd8442c20239bc2426754389117ed95c9
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8147272"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8521336"
 ---
 # <a name="create-workflows-from-workflow-templates"></a>Создание рабочих процессов из шаблонов рабочих процессов
 Для экономии времени при создании новых рабочих процессов можно создавать рабочие процессы из шаблонов рабочих процессов.  

@@ -9,14 +9,14 @@ ms.workload: na
 ms.search.keywords: account schedule, analysis, reporting, financial report, business intelligence, KPI
 ms.date: 04/01/2021
 ms.author: jswymer
-ms.openlocfilehash: 54271ce12ed5b71266511a85ab7a10516092be36
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: b51aa003aa37ed95545d4f9d94e3c34d25d02270
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8147168"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8510926"
 ---
-# <a name="working-with-power-bi-reports-in-prod_short"></a>Работа с отчетами Power BI в [!INCLUDE [prod_short](includes/prod_short.md)]
+# <a name="work-with-power-bi-reports-in-prod_short"></a>Работа с отчетами Power BI в [!INCLUDE [prod_short](includes/prod_short.md)]
 
 В этой статье вы узнаете некоторые основные сведения о просмотре ответов Power BI в [!INCLUDE [prod_short](includes/prod_short.md)].
 
@@ -65,7 +65,7 @@ ms.locfileid: "8147168"
 
 После подключения вы можете выбрать отчет из части Power BI на страницах.
 
-## <a name="working-with-power-bi-reports"></a>Работа с отчетами Power BI
+## <a name="work-with-power-bi-reports"></a>Работа с отчетами Power BI
 
 ### <a name="show-reports-on-list-pages"></a>Отображение отчетов на страницах списков
 

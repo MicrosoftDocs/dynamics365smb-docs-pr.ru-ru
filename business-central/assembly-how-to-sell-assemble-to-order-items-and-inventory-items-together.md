@@ -10,12 +10,12 @@ ms.search.keywords: kit, kitting
 ms.search.form: 900, 901, 902, 903, 904, 907, 910, 916, 920, 921, 922, 923, 940, 941, 942, 930, 931, 932, 914, 915, 905
 ms.date: 06/14/2021
 ms.author: edupont
-ms.openlocfilehash: 9409c33858f32628c9f8a85fe6d19fd5afb5986f
-ms.sourcegitcommit: 5a02f8527faecdffcc54f9c5c70cefe8c4b3b3f4
+ms.openlocfilehash: 34bbdae60f2e9e17cdd6f006f4af432658ee9dbe
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/04/2022
-ms.locfileid: "8381887"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8519870"
 ---
 # <a name="sell-assemble-to-order-items-and-inventory-items-together"></a>Совместная продажа товаров, собираемых на заказ, и складских товаров
 Если поле **Политика сборки** в карточке товара сборочного элемента имеет значение **Сборка на склад** процесс продажи по умолчанию предполагает, что товар уже собран и подобран из запасов, если он доступен. Поэтому сборочный заказ не создается автоматически и не привязывается к строке заказа на продажу. Если часть (или все) количества уже не доступна, можно создать сборочный заказа для остатка, заполнив поле **Количество для сборки на заказ** в строке заказа на продажу. Таким образом можно собирать товар на заказ, даже если он настроен на сборку на склад по умолчанию.  
@@ -41,8 +41,8 @@ ms.locfileid: "8381887"
 ## <a name="see-also"></a>См. также  
 [Управление сборкой](assembly-assemble-items.md)  
 [Работа со спецификациями](inventory-how-work-BOMs.md)  
-[Наличие](inventory-manage-inventory.md)  
-[Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
+[Запасы](inventory-manage-inventory.md)  
+[Сведения о проектировании: Warehouse Management](design-details-warehouse-management.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
 
 

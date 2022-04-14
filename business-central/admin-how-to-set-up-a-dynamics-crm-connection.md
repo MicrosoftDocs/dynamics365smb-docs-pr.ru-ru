@@ -8,12 +8,12 @@ ms.search.keywords: ''
 ms.search.forms: 7200, 7201
 ms.date: 09/30/2021
 ms.author: bholtorf
-ms.openlocfilehash: f83764061bb341b0b9d6619a0c5d14cac6b664a9
-ms.sourcegitcommit: 5a02f8527faecdffcc54f9c5c70cefe8c4b3b3f4
+ms.openlocfilehash: 57f8091d81870f9e58af80462259006d4cb822ae
+ms.sourcegitcommit: 4a57fb5b88b9ebbb61fdd1b25e1fd4ba0013c8e5
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/04/2022
-ms.locfileid: "8383835"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "8485036"
 ---
 # <a name="connect-to-microsoft-dataverse"></a>Подключение к Microsoft Dataverse
 
@@ -25,10 +25,10 @@ ms.locfileid: "8383835"
 
 Перед тем, как создать соединение, необходимо подготовить несколько фрагментов информации:  
 
-* URL-адрес для среды [!INCLUDE[cds_long_md](includes/cds_long_md.md)], к которой требуется подключиться. Если вы используете мастер настройки **Настройка подключения Dataverse**, чтобы создать соединение, мы обнаружим ваши среды, но вы также можете ввести URL-адрес другой среды в своем клиенте.  
+* URL-адрес для среды [!INCLUDE[cds_long_md](includes/cds_long_md.md)], к которой требуется подключиться. Если вы используете мастер настройки **Настройка подключения Dataverse** для создания подключения, мы найдем ваши среды. Вы также можете ввести URL-адрес другой среды в своем клиенте.  
 * Имя пользователя и пароль учетной записи, которая имеет разрешения администратора в [!INCLUDE[prod_short](includes/prod_short.md)] и [!INCLUDE[cds_long_md](includes/cds_long_md.md)].  
 * Если у вас есть локальная версия [!INCLUDE[prod_short](includes/prod_short.md)] выпуска 2020, волна 1, версия 16.5, ознакомьтесь со статьей [Некоторые известные проблемы](/dynamics365/business-central/dev-itpro/upgrade/known-issues#wrong-net-assemblies-for-external-connected-services). Вам нужно будет выполнить описанный обходной метод, прежде чем вы сможете создать подключение к [!INCLUDE[cds_long_md](includes/cds_long_md.md)].
-* Местная валюта компании в [!INCLUDE[prod_short](includes/prod_short.md)] должна быть такой же, как и базовая валюта транзакции в [!INCLUDE[cds_long_md](includes/cds_long_md.md)]. После того, как базовая транзакция установлена в [!INCLUDE[cds_long_md](includes/cds_long_md.md)], это не может быть изменено. Для получения дополнительной информации см. [Сущность валюты транзакции (валюта)](/powerapps/developer/data-platform/transaction-currency-currency-entity). Это означает, что у всех компаний [!INCLUDE[prod_short](includes/prod_short.md)], которые вы подключаете к организации [!INCLUDE[cds_long_md](includes/cds_long_md.md)], должна использоваться та же валюта.
+* Местная валюта компании в [!INCLUDE[prod_short](includes/prod_short.md)] должна быть такой же, как и базовая валюта транзакции в [!INCLUDE[cds_long_md](includes/cds_long_md.md)]. После совершения операции в базовой валюте в [!INCLUDE[cds_long_md](includes/cds_long_md.md)], вы не можете изменить его. Для получения дополнительной информации см. [Сущность валюты транзакции (валюта)](/powerapps/developer/data-platform/transaction-currency-currency-entity). У всех компаний [!INCLUDE[prod_short](includes/prod_short.md)], которые вы подключаете к организации [!INCLUDE[cds_long_md](includes/cds_long_md.md)], должна использоваться та же валюта.
 
 > [!IMPORTANT]
 > Ваша среда [!INCLUDE[cds_long_md](includes/cds_long_md.md)] не должна находиться в режиме администрирования. Режим администрирования приведет к сбою подключения, поскольку у учетной записи пользователя интеграции для подключения нет прав администратора. Дополнительные сведения см. в разделе [Режим администрирования](/power-platform/admin/admin-mode).
@@ -71,7 +71,7 @@ ms.locfileid: "8383835"
 
 ### <a name="to-create-or-maintain-the-connection-manually"></a>Создание или ведение подключения вручную
 
-Далее описан порядок настройки подключения вручную на странице **Настройка подключения Dataverse**. Это также страница, на которой можно управлять настройками для интеграции.
+Далее описан порядок настройки подключения вручную на странице **Настройка подключения Dataverse**. Страница **Настройка подключения Dataverse**, где вы управляете настройками интеграции.
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Настройка подключения Dataverse**, а затем выберите связанную ссылку.
 2. Введите следующие сведения для подключения из [!INCLUDE[cds_long_md](includes/cds_long_md.md)] к [!INCLUDE[prod_short](includes/prod_short.md)].
@@ -88,7 +88,7 @@ ms.locfileid: "8383835"
 
     <!-- |Field|Description|
     |-----|-----|
-    |**[!INCLUDE[prod_short](includes/prod_short.md)] Users Must Map to CDS Users**|If you are using the Person ownership model, specify whether [!INCLUDE[prod_short](includes/prod_short.md)] user accounts must have a matching user accounts in [!INCLUDE[cds_long_md](includes/cds_long_md.md)]. The **Microsoft 365 Authentication Email** of the [!INCLUDE[prod_short](includes/prod_short.md)] user must be the same as the **Primary Email** of the [!INCLUDE[crm_md](includes/crm_md.md)] user.<br /><br /> If you set the value to **Yes**, [!INCLUDE[prod_short](includes/prod_short.md)] users who do not have a matching [!INCLUDE[crm_md](includes/crm_md.md)] user account will not have [!INCLUDE[prod_short](includes/prod_short.md)] integration capabilities in the user interface. Access to [!INCLUDE[crm_md](includes/crm_md.md)] data directly from [!INCLUDE[prod_short](includes/prod_short.md)] is done on behalf of the [!INCLUDE[crm_md](includes/crm_md.md)] user account.<br /><br /> If you set the value to **No**, all [!INCLUDE[prod_short](includes/prod_short.md)] users will have [!INCLUDE[crm_md](includes/crm_md.md)] integration capabilities in the user interface. Access to [!INCLUDE[crm_md](includes/crm_md.md)] data is done on behalf of the [!INCLUDE[crm_md](includes/crm_md.md)] connection (integration) user.|
+    |**[!INCLUDE[prod_short](includes/prod_short.md)] Users Must Map to CDS Users**|If you're using the Person ownership model, specify whether [!INCLUDE[prod_short](includes/prod_short.md)] user accounts must have a matching user accounts in [!INCLUDE[cds_long_md](includes/cds_long_md.md)]. The **Microsoft 365 Authentication Email** of the [!INCLUDE[prod_short](includes/prod_short.md)] user must be the same as the **Primary Email** of the [!INCLUDE[crm_md](includes/crm_md.md)] user.<br /><br /> If you set the value to **Yes**, [!INCLUDE[prod_short](includes/prod_short.md)] users who don't have a matching [!INCLUDE[crm_md](includes/crm_md.md)] user account won't have [!INCLUDE[prod_short](includes/prod_short.md)] integration capabilities in the user interface. Access to [!INCLUDE[crm_md](includes/crm_md.md)] data directly from [!INCLUDE[prod_short](includes/prod_short.md)] is done on behalf of the [!INCLUDE[crm_md](includes/crm_md.md)] user account.<br /><br /> If you set the value to **No**, all [!INCLUDE[prod_short](includes/prod_short.md)] users will have [!INCLUDE[crm_md](includes/crm_md.md)] integration capabilities in the user interface. Access to [!INCLUDE[crm_md](includes/crm_md.md)] data is done on behalf of the [!INCLUDE[crm_md](includes/crm_md.md)] connection (integration) user.|
     |**Current Business Central Salesperson is Mapped to a User**|Indicates whether your user account is mapped to an account in [!INCLUDE[crm_md](includes/crm_md.md)] double check the name of this field|-->
 4. Для тестирования настроек подключения выберите **Подключение**, затем **Проверить подключение**.  
 
@@ -107,9 +107,7 @@ The following video shows the steps to connect [!INCLUDE[prod_short](includes/pr
 
 ## <a name="customize-the-match-based-coupling"></a>Настроить связывание на основе совпадений
 
-Начиная с волны 2 выпуска 2021 года вы можете объединять записи в [!INCLUDE [prod_short](includes/prod_short.md)] и [!INCLUDE [cds_long_md](includes/cds_long_md.md)] на основе критериев соответствия, определенных администратором.  
-
-Алгоритм сопоставления записей можно запустить из следующих мест в [!INCLUDE [prod_short](includes/prod_short.md)]:
+Начиная с волны 2 выпуска 2021 года администратор может вводить критерии, чтобы объединять записи на соответствий. Алгоритм сопоставления записей можно запустить из следующих мест в [!INCLUDE [prod_short](includes/prod_short.md)]:
 
 * Список страниц, отображающих записи, синхронизированные с [!INCLUDE [cds_long_md](includes/cds_long_md.md)], например страницы "Клиенты" и "Товары".  
 
@@ -118,24 +116,24 @@ The following video shows the steps to connect [!INCLUDE[prod_short](includes/pr
     Когда процесс связывания на основе совпадений запускается из списка основных данных, задание связывания будет запланировано сразу после выбора критериев связывания.  
 * Страница **Просмотр полной синхронизации Dataverse**.  
 
-    Когда процесс полной синхронизации обнаруживает, что у вас есть несвязанные записи, как в [!INCLUDE [prod_short](includes/prod_short.md)], так и в [!INCLUDE [cds_long_md](includes/cds_long_md.md)], ссылка **Выбрать критерии связывания** появляется для соответствующей таблицы интеграции.  
+    Когда процесс полной синхронизации обнаруживает, что у вас есть несвязанные записи, как в [!INCLUDE [prod_short](includes/prod_short.md)], так и в [!INCLUDE [cds_long_md](includes/cds_long_md.md)], ссылка **Выбрать критерии связывания** появляется для таблицы интеграции.  
 
-    Вы можете начать процесс **Запустить полную синхронизацию** на страницах **Настройка подключения Dataverse** и **Настройка подключения Dynamics 365**, и его можно инициировать как шаг в мастере настройки **Настроить подключение к Dataverse**, когда вы решите завершить настройку и запустить полную синхронизацию в конце.  
+    Вы можете начать процесс **Запустить полную синхронизацию** на страницах **Настройка подключения Dataverse** и **Настройка подключения Dynamics 365**. Вы также можете запустить его в мастере настройки **Настроить подключение к Dataverse** после завершения настройки.  
 
     Когда процесс связывания на основе совпадений запускается со страницы **Просмотр полной синхронизации Dataverse**, задание связывания будет запланировано сразу после завершения настройки.  
 * Список **Сопоставления таблиц интеграции**.  
 
     Выберите сопоставление, выберите действие **Связывание**, а затем выберите **Связывание на основе совпадений**.
 
-    Когда процесс связывания на основе совпадений запускается из отображения таблицы интеграции, задание связывания запускается для всех несвязанных записей в этом сопоставлении. Если он был запущен для набора выбранных записей из списка, он будет запущен только для выбранных несвязанных записей.
+    Когда процесс связывания на основе совпадений запускается из отображения таблицы интеграции, задание связывания запускается для всех несвязанных записей в этом сопоставлении. Вы также можете выбрать несвязанные записи в списке, чтобы выполнить задание только для этих записей.
 
 Во всех трех случаях откроется страница **Выберите критерии связывание**, на которой вы можете определить соответствующие критерии связывания. На этой странице настройте связывание, выполнив следующие задачи:
 
-* Выберите поля для сопоставления записей [!INCLUDE [prod_short](includes/prod_short.md)] и сущностей [!INCLUDE [cds_long_md](includes/cds_long_md.md)], а также выберите, будет ли сопоставление в этом поле зависеть от регистра или нет.  
+* Выберите поля для сопоставления записей [!INCLUDE [prod_short](includes/prod_short.md)] с сущностями [!INCLUDE [cds_long_md](includes/cds_long_md.md)]. Вы можете указать, будет ли совпадение учитывать регистр.  
 
-* Укажите, следует ли запускать синхронизацию после связывания записей, и, если запись использует двунаправленное сопоставление, также выберите, что произойдет, если конфликты указаны на странице **Разрешение конфликтов обновления**.  
+* Укажите, следует ли синхронизировать после соединения записей. Если в записях используется двунаправленное сопоставление, вы также можете указать, что произойдет, если конфликты будут перечислены в списке на странице **Разрешение конфликтов обновлений**.  
 
-* Установите приоритет порядка, в котором выполняется поиск записей, указав *приоритет сопоставления* для соответствующих полей сопоставления. Приоритеты сопоставления заставляют алгоритм искать сопоставление в количестве итераций, как определено значениями поля **Приоритет сопоставления** в порядке возрастания. Пустое значение в поле **Приоритет сопоставления** понимается как приоритет 0, поэтому поля с этим значением учитываются первыми.  
+* Установите приоритет порядка, в котором выполняется поиск записей, указав *приоритет сопоставления* для соответствующих полей сопоставления. [!INCLUDE [prod_short](includes/prod_short.md)] будет искать совпадение в порядке возрастания на основе значения в поле **Приоритет соответствия**. Пустое значение в поле **Приоритет соответствия** равно приоритету 0, что является наивысшим приоритетом. Поля с приоритетом 0 считаются первыми.  
 
 * Укажите, следует ли создавать новый экземпляр объекта в [!INCLUDE [cds_long_md](includes/cds_long_md.md)] в случае, если невозможно найти уникальное несвязанное сопоставление с использованием критериев сопоставления. Чтобы активировать эту возможность, выберите действие **Создать новую, если найти совпадение не удается**.  
 
@@ -143,48 +141,44 @@ The following video shows the steps to connect [!INCLUDE[prod_short](includes/pr
 
 Чтобы просмотреть результаты задания соединения, откройте страницу **Сопоставления таблиц интеграции**, выберите соответствующее сопоставление, выберите действие **Связывание**, а затем выберите действие **Журнал заданий связывания интеграции**.  
 
-Если есть какие-либо записи, которые не были связаны, вы можете развернуть значение в столбце "Ошибка", что откроет список ошибок, в котором указывается, почему не удалось объединить записи.  
+Если записи не удалось соединить, вы можете выбрать значение в столбце **Ошибка**, чтобы открыть список ошибок, описывающих, почему это произошло.  
 
-Неудачное связывание часто происходит в следующих случаях:
+Как правило, связывание выходит из строя по следующим причинам:
 
 * Критерии соответствия не определены
 
-    В этом случае снова запустите связывание на основе совпадений, но не забудьте определить критерии связывания.
+    Запустите связывание на основе совпадений, но не забудьте определить критерии связывания.
 
-* Не найдено совпадений для ряда записей на основе выбранных совпадающих полей
+* Не найдено совпадений для полей, указанных в критериях соответствия
 
-    В этом случае повторите связывание с некоторыми другими соответствующими полями.
+    Повторите связывание, используя разные поля.
 
-* Найдено несколько совпадений для ряда записей на основе выбранных совпадающих полей  
+* Для нескольких записей найдено несколько совпадений на основе полей, указанных в критериях соответствия  
 
-    В этом случае повторите связывание с некоторыми другими соответствующими полями.
+    Повторите связывание, используя разные поля.
 
-* Обнаружено одно совпадение, но соответствующая запись уже связана с другой записью в [!INCLUDE [prod_short](includes/prod_short.md)]  
+* Обнаружено совпадение, но соответствующая запись уже связана с другой записью в [!INCLUDE [prod_short](includes/prod_short.md)]  
 
-    В этом случае повторите связывание с некоторыми другими совпадающими полями или выясните, почему этот объект [!INCLUDE [cds_long_md](includes/cds_long_md.md)] связан с другой записью в [!INCLUDE [prod_short](includes/prod_short.md)].
+    Повторите связывание, используя разные поля, или узнайте, почему эта сущность [!INCLUDE [cds_long_md](includes/cds_long_md.md)] связана с записью в [!INCLUDE [prod_short](includes/prod_short.md)].
 
 > [!TIP]
-> Чтобы дать обзор хода связывания, в поле **Связано с Dataverse** показано, связана ли конкретная запись с объектом [!INCLUDE [cds_long_md](includes/cds_long_md.md)] или нет. Вы можете отфильтровать список записей, которые синхронизируются с [!INCLUDE [cds_long_md](includes/cds_long_md.md)] по этому полю.
+> Чтобы дать обзор хода связывания, в поле **Связано с Dataverse** показано, связана ли конкретная запись с объектом [!INCLUDE [cds_long_md](includes/cds_long_md.md)]. Вы можете использовать поле **Связано с Dataverse** для фильтрации списка записей, которые вы синхронизируете.
 
 ## <a name="upgrade-connections-from-business-central-online-to-use-certificate-based-authentication"></a>Обновление подключений к Business Central Online для использования аутентификации на основе сертификатов
 > [!NOTE]
 > Этот раздел актуален только для клиентов [!INCLUDE[prod_short](includes/prod_short.md)] Online, размещенных на сервере Microsoft. Онлайн-клиенты, размещенные у независимых поставщиков программного обеспечения, и локальные установки не затронуты.
 
-В апреле 2022 г. в [!INCLUDE[cds_long_md](includes/cds_long_md.md)] отменена поддержка типа проверки подлинности Office365 (имя пользователя/пароль). Для получения дополнительной информации см. [Прекращение поддержки типа проверки подлинности Office365](/power-platform/important-changes-coming#deprecation-of-office365-authentication-type-and-organizationserviceproxy-class-for-connecting-to-dataverse). Кроме того, в марте 2022 г. в [!INCLUDE[prod_short](includes/prod_short.md)] отменена поддержка использования аутентификации между службами на основе секрета клиента для онлайн-клиентов, и требуется использование аутентификации между службами на основе сертификатов для подключений к [!INCLUDE[cds_long_md](includes/cds_long_md.md)]. Клиенты [!INCLUDE[prod_short](includes/prod_short.md)] Online, размещенные независимыми поставщиками программного обеспечения, и локальные установки могут продолжать использовать аутентификацию секрета клиента для подключения к [!INCLUDE[cds_long_md](includes/cds_long_md.md)].
+В апреле 2022 г. в [!INCLUDE[cds_long_md](includes/cds_long_md.md)] отменена поддержка типа проверки подлинности Office365 (имя пользователя/пароль). Для получения дополнительной информации см. [Прекращение поддержки типа проверки подлинности Office365](/power-platform/important-changes-coming#deprecation-of-office365-authentication-type-and-organizationserviceproxy-class-for-connecting-to-dataverse). Кроме того, в марте 2022 г. [!INCLUDE[prod_short](includes/prod_short.md)] не рекомендует использование проверки подлинности между службами на основе секрета клиента для онлайн-клиентов. Для подключений к [!INCLUDE[cds_long_md](includes/cds_long_md.md)] следует использовать аутентификацию между службы с сертификатами. Клиенты [!INCLUDE[prod_short](includes/prod_short.md)] Online, размещенные независимыми поставщиками программного обеспечения, и локальные установки могут продолжать использовать секреты клиента для аутентификации.
 
 Чтобы не нарушать интеграцию, _вы должны обновить_ подключение для использования проверки подлинности на основе сертификатов. Хотя изменение запланировано на март 2022 года, мы настоятельно рекомендуем выполнить обновление как можно скорее. Следующие шаги описывают, как перейти на аутентификацию на основе сертификатов. 
 
 ### <a name="to-upgrade-your-business-central-online-connection-to-use-certificate-based-authentication"></a>Обновление подключения Business Central Online для использования аутентификации на основе сертификатов
 
-> [!NOTE]
-> Аутентификация на основе сертификатов доступна в выпуске Business Central 2021, волны 1 и более поздних версиях. Если вы используете более раннюю версию, вы должны запланировать обновление для выпуска Business Central 2021 волны 1 до марта 2022 года. Дополнительные сведения см. в разделе [Планирование обновлений](/dynamics365/business-central/dev-itpro/administration/update-rollout-timeline#scheduling-updates). Если у вас возникнут проблемы, обратитесь к партнеру или в службу поддержки.
-
-1. В [центре администрирования,Business Central](/dynamics365/business-central/dev-itpro/administration/tenant-admin-center) убедитесь, что вы используете Business Central 2021 волны 1 или более позднюю версию (версия 18 или более поздняя).
-2. В зависимости от того, интегрируете ли вы с Dynamics 365 Sales, выполните одно из следующих действий:
+1. В зависимости от того, интегрируете ли вы с Dynamics 365 Sales, выполните одно из следующих действий:
    * Если да, откройте страницу **Настройка подключения Microsoft Dynamics 365**.
    * Если нет, откройте страницу **Настройка подключения Dataverse**.
-3. Выберите **Подключение**, а потом **Использовать проверку подлинности на основе сертификатов** для обновления подключения для использования проверки подлинности на основе сертификата.
-4. Войдите в систему с учетными данными администратора для Dataverse. Вход в систему должен занять меньше минуты.
+2. Выберите **Подключение**, а потом **Использовать проверку подлинности на основе сертификатов** для обновления подключения для использования проверки подлинности на основе сертификата.
+3. Войдите в систему с учетными данными администратора для Dataverse. Вход в систему должен занять меньше минуты.
 
 > [!NOTE]
 > Вы должны повторять эти шаги в каждой среде [!INCLUDE[prod_short](includes/prod_short.md)], включая рабочую среду и среду песочницы, и в каждой компании, в которой у вас есть подключение к [!INCLUDE[cds_long_md](includes/cds_long_md.md)].
@@ -193,7 +187,7 @@ The following video shows the steps to connect [!INCLUDE[prod_short](includes/pr
 
 Чтобы подключить локальную версию [!INCLUDE[prod_short](includes/prod_short.md)] [!INCLUDE[cds_long_md](includes/cds_long_md.md)], необходимо указать некоторую информацию на странице **Настройка подключения Dataverse**.
 
-Если вы хотите подключиться с помощью учетной записи Azure Active Directory ( Azure AD), вы должны зарегистрировать заявку в Azure AD и укажите идентификатор приложения, секретный ключ хранилища и используемый URL-адрес перенаправления. URL-адрес перенаправления предварительно заполнен и должен работать для большинства установок. Вы должны настроить вашу установку на использование HTTPS. Для получения дополнительной информации см. [Настройка SSL для защиты подключения веб-клиента Business Central](/dynamics365/business-central/dev-itpro/deployment/configure-ssl-web-client-connection). Если вы настраиваете на своем сервере другую начальную страницу, вы всегда можете изменить URL-адрес. Секрет клиента будет сохранен как зашифрованная строка в вашей базе данных. 
+Для подключения с помощью учетной записи Azure Active Directory (Azure AD) необходимо зарегистрировать приложение в Azure AD. Вам нужно будет указать идентификатор приложения, секрет хранилища ключей и URL-адрес перенаправления для использования. URL-адрес перенаправления предварительно заполнен и должен работать для большинства установок. Вы должны настроить вашу установку на использование HTTPS. Для получения дополнительной информации см. [Настройка SSL для защиты подключения веб-клиента Business Central](/dynamics365/business-central/dev-itpro/deployment/configure-ssl-web-client-connection). Если вы настраиваете на своем сервере другую начальную страницу, вы можете изменить URL-адрес. Секрет клиента будет сохранен как зашифрованная строка в вашей базе данных. 
 
 ### <a name="prerequisites"></a>Предварительные требования
 
@@ -221,7 +215,7 @@ Dataverse должна использовать один из следующих
     > Имя API Dynamics CRM может измениться.
 
 5. В **управлять** выберите **Сертификаты и секреты**, а затем создайте новый секрет для вашего приложения. Вы будете использовать секрет либо в [!INCLUDE[prod_short](includes/prod_short.md)], в поле **Секрет клиента** на **Настройка подключения Dataverse** или сохраните в защищенном хранилище и предоставьте его подписчику события, как описано ранее в этом разделе.
-6. Выберите **обзор**, а затем найдите значение **Код приложения (клиента)**. Это код клиента вашего приложения. Вы должны ввести его либо на страница **Настройка подключения Dataverse** в **Код клиента** или сохраните его в безопасном хранилище и предоставьте его подписчику события.
+6. Выберите **обзор**, а затем найдите значение **Код приложения (клиента)**. Этот код — код клиента вашего приложения. Вы должны ввести его либо на страница **Настройка подключения Dataverse** в **Код клиента** или сохраните его в безопасном хранилище и предоставьте его подписчику события.
 7. В [!INCLUDE[prod_short](includes/prod_short.md)], на страница **Настройка подключения Dataverse**, в поле **URL-адрес среды** введите URL-адрес для вашей среды [!INCLUDE[cds_long_md](includes/cds_long_md.md)].
 8. Чтобы включить подключение к [!INCLUDE[cds_long_md](includes/cds_long_md.md)] включите переключатель **Включено**.
 9. Войдите в систему с учетной записью администратора для Azure Active Directory (эта учетная запись должна иметь действующую лицензию для [!INCLUDE[cds_long_md](includes/cds_long_md.md)] и быть администратором в вашей среде [!INCLUDE[cds_long_md](includes/cds_long_md.md)]). После входа в систему вам будет предложено разрешить зарегистрированному приложению войти в [!INCLUDE[cds_long_md](includes/cds_long_md.md)] от имени организации. Вы должны дать согласие на завершение установки.

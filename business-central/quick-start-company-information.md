@@ -7,14 +7,15 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: quickstart
-ms.date: 09/29/2021
+ms.search.form: 1,
+ms.date: 03/14/2022
 ms.author: edupont
-ms.openlocfilehash: beaca5bec31c0ba4877245cade5363dad21fe05a
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: bf7435f7d11e05cbe517208ffacd173a73ba1fd6
+ms.sourcegitcommit: 3ca91139035b34cfe0b0303e4caff7c6d02d0d14
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8133658"
+ms.lasthandoff: 03/14/2022
+ms.locfileid: "8417617"
 ---
 # <a name="company-information-quick-start"></a>Краткое руководство. Информация о компании
 
@@ -25,19 +26,14 @@ ms.locfileid: "8133658"
 ## <a name="to-set-up-company-information"></a>Настройка сведений о компании  
 
 1. Выберите ![значок шестеренки, чтобы открыть меню настроек.](media/ui-experience/settings_icon_small.png) и выберите действие **Информация о компании**.
-2. На экспресс-вкладке введите сведения, как указано в следующей таблице.
+2. На экспресс-вкладке введите сведения, как указано в следующей таблице. [!INCLUDE [tooltip-inline-tip_md](includes/tooltip-inline-tip_md.md)]
 
-    |Поле|Описание|  
-    |-------------|---------------------------------------|  
-    |**Общие**|Введите общую информацию о вашей компании, включая логотип, поскольку он будет отображаться в документах, предназначенных для клиентов, например, в счетах, которые вы отправляете. |  
-    |**Связь**|Введите основную контактную информацию компании, например номер телефона и адрес электронной почты.|  
-    |**Оплаты**| Заполните соответствующую банковскую информацию, чтобы убедиться, что ваши клиенты смогут платить вам.|  
-    |**Отгрузка**|Заполните соответствующую информацию о доставке, чтобы вы могли отправлять и получать товары от вашей компании и для нее.|  
-    |**Налог**|В зависимости от страны/региона, где вы живете, вам может быть доступна экспресс-вкладка Налог. Если есть, заполните ее.|  
+    [!INCLUDE [admin-company-info-fasttabs](includes/admin-company-info-fasttabs.md)]
 
 После того, как вы закончите заполнение информации, вы можете закрыть страницу.  
 
 ## <a name="see-also"></a>См. также  
 
+[Обзор информации о компании](admin-company-information.md)  
+[Настройка сведений об организации в Италии](LocalFunctionality/Italy/how-to-set-up-company-information.md)  
 [Краткое руководство по Business Central](quick-start-business-central.md)  
-[Настройка сведений об организации](LocalFunctionality/Italy/how-to-set-up-company-information.md)  

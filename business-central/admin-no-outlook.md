@@ -9,14 +9,14 @@ ms.workload: na
 ms.search.keywords: SMTP, mail, Microsoft 365
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 79a02ba516c1359863ac552e66fce03287519a65
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 7ac4d66671d7eeb78c5fead20e7a43844c5d03c0
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8144080"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8517061"
 ---
-# <a name="using-business-central-without-outlook"></a>Использование Business Central без Outlook
+# <a name="use-business-central-without-outlook"></a>Использование Business Central без Outlook
 [!INCLUDE[prod_short](includes/prod_short.md)] имеет глубокую интеграцию с Microsoft 365, и вы можете использовать [!INCLUDE[prod_short](includes/prod_short.md)] в качестве рабочего почтового ящика в Outlook. Но если у вас нет Outlook, вы можете работать с [!INCLUDE[prod_short](includes/prod_short.md)] в браузере или на мобильном устройстве.  
 
 ## <a name="sending-email"></a>Отправка электронной почты

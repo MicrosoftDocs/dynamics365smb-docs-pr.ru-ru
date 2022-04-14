@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: hub-and-spoke, multi-site, headquarter, sites
 ms.date: 10/01/2020
 ms.author: bholtorf
-ms.openlocfilehash: ec650016000d8f6007a3abfa839cea7f1422de7b
-ms.sourcegitcommit: 5a02f8527faecdffcc54f9c5c70cefe8c4b3b3f4
+ms.openlocfilehash: 88877f719ec969fbca6dfd5928faf185b447bb42
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/04/2022
-ms.locfileid: "8382049"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8520364"
 ---
 # <a name="business-central-for-multi-site-and-international-organizations"></a>Business Central для организаций со многими подразделениями и международных организаций
 Организации, у которых есть несколько подразделений, часто используют "звездообразную" бизнес-модель, когда материнская компания или головной офис управляет всеми операциями бизнеса, в то время как каждое подразделение функционирует как отдельное юридическое лицо. Подразделения часто географически распределены и имеют разные потребности в обмене информацией с головной компанией. Кроме того, подразделениям обычно не нужен такой же уровень сложности, и им часто не хватает ресурсов для обслуживания большой системы.

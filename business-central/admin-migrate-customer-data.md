@@ -1,24 +1,26 @@
 ---
 title: Миграция данных клиента
-description: Вы можете перенести существующие данные клиентов из существующей системы в Business Central, используя RapidStart Services — или просто введите их прямо в компанию.
-author: SorenGP
+description: Можно перенести существующие данные клиента из существующей системы ERP в Business Central с помощью мастера настройки. В качестве альтернативы используйте Excel и RapidStart Services.
+author: edupont04
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.form: 1799, 1807, 8632, 1800, 1340
+ms.search.form: 1799, 1807, 8632, 1800, 1340, 8614, 8615
 ms.date: 02/18/2022
 ms.author: edupont
-ms.openlocfilehash: f339e5c878d64cb243c34c97f6711629389bfa0e
-ms.sourcegitcommit: cdb57f14960f58b1d36a1b373fbf35dfed5fad9e
+ms.openlocfilehash: 492ec993dfbf33f90fc601b1d6f8f27319ee39c9
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/23/2022
-ms.locfileid: "8335374"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8515723"
 ---
 # <a name="migrate-customer-data"></a>Миграция данных клиента
 
-Можно перенести существующие данные клиента из существующей системы ERP в [!INCLUDE[prod_short](includes/prod_short.md)] с помощью инструментов переноса данных RapidStart Services. В качестве носителей информации можно использовать файлы Excel. Также можно вручную данные, вводя их непосредственно в организацию. В качестве альтернативы вы можете использовать мастер **Миграция в облако** для облегчения переноса данных. Дополнительные сведения см. в разделе [Миграция данных](/dynamics365/business-central/dev-itpro/administration/migrate-data) в материалах для администратора.
+Можно перенести существующие данные клиента из существующей системы ERP в [!INCLUDE[prod_short](includes/prod_short.md)] Online с помощью процесса миграции в облако для поддерживаемых версий. Кроме того, вы можете перейти в локальную версию [!INCLUDE [prod_short](includes/prod_short.md)] с помощью инструментов переноса данных RapidStart Services, а затем переключиться на облако. Для получения дополнительной информации см. раздел [Миграция локальных данных в Business Central Online](/dynamics365/business-central/dev-itpro/administration/migrate-data) в материалах для администраторов (только на английском).  
+
+В этой статье мы рассмотрим файлы конфигурации, которые вы можете экспортировать и импортировать в [!INCLUDE [prod_short](includes/prod_short.md)]. Текст был написан с учетом локальных развертываний.  
 
 > [!NOTE]
 > Поля типа Blob не могут быть экспортированы/импортированы с использованием Excel.

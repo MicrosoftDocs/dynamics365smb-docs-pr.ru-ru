@@ -10,12 +10,12 @@ ms.search.keywords: ''
 ms.search.forms: 5704, 5700, 5702, 5701
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 92be2a9cf0a3ef176d4f3fe1c51ec5543c30bca5
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 320a5315f569deeec8c86ce8246497f171fbb853
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8131539"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8517398"
 ---
 # <a name="set-up-stockkeeping-units"></a>Настройка единиц хранения
 Единицы хранения используются для записи информации о товарах для кода конкретного склада или кода варианта.  
@@ -45,7 +45,7 @@ ms.locfileid: "8131539"
 [Управление складом](warehouse-manage-warehouse.md)  
 [Наличие](inventory-manage-inventory.md)  
 [Управление сборкой](assembly-assemble-items.md)    
-[Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
+[Сведения о проектировании: Warehouse Management](design-details-warehouse-management.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 
 

@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/24/2021
 ms.author: edupont
-ms.openlocfilehash: b824cec7e6169f20d3da6bf853828a103b3c2928
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: b7be198a27a5c0a95aacb9c6eca988681d097316
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8144363"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8515229"
 ---
 # <a name="pick-for-production-or-assembly-in-basic-warehouse-configurations"></a>Подбор для производства или сборки в базовых конфигурациях склада
 Способ размещения подбора компонентов для заказов на производство или сборку зависит от того, как настроен склад. Дополнительные сведения см. в разделе [Настройка управления складом](warehouse-setup-warehouse.md).
@@ -87,7 +87,7 @@ ms.locfileid: "8144363"
 [Запасы](inventory-manage-inventory.md)  
 [Настройка Warehouse Management](warehouse-setup-warehouse.md)     
 [Управление сборкой](assembly-assemble-items.md)    
-[Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
+[Сведения о проектировании: Warehouse Management](design-details-warehouse-management.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
 
 

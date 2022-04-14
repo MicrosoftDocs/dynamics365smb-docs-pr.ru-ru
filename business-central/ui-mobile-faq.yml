@@ -10,12 +10,12 @@ metadata:
   ms.search.keywords: phone, tablet
   ms.date: 10/25/2021
   ms.author: edupont
-  ms.openlocfilehash: 2511135e9e0aebb3a813c5fede167d10b46f045a
-  ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+  ms.openlocfilehash: 70e9bf530b2b640c42ee346d39ce6d06d5a7cee8
+  ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
   ms.translationtype: HT
   ms.contentlocale: ru-RU
-  ms.lasthandoff: 02/15/2022
-  ms.locfileid: "8140323"
+  ms.lasthandoff: 03/31/2022
+  ms.locfileid: "8513475"
 title: Вопросы и ответы по мобильным приложениям
 summary: "В этой статье содержатся ответы на вопросы, которые часто задают наши опытные пользователи о мобильных приложениях для [!INCLUDE [prod_short](includes/prod_short.md)].  \n"
 sections:
@@ -83,7 +83,7 @@ sections:
     answer: "Почти, но не совсем. См. список в разделе [В приложениях такой же опыт, как и в браузере?](#is-it-the-same-experience-in-the-apps-as-in-the-browser-).  \n"
   - question: >
       Могу ли я подключить приложение к нашему локальному решению?
-    answer: "Да, можете. Это немного другой способ входа в систему, вот и все. Дополнительные сведения см. в разделе [Использование локальной версии Business Central](install-mobile-app.md#using-business-central-on-premises).  \n"
+    answer: "Да, можете. Это немного другой способ входа в систему, вот и все. Дополнительные сведения см. в разделе [Использование локальной версии Business Central](install-mobile-app.md#use-business-central-on-premises).  \n"
   - question: >
       Может ли гостевой пользователь использовать приложение для доступа к нашему решению Business Central?
     answer: "Кол-во Гостевые пользователи — это приглашенные пользователи из других клиентов Azure Active Directory (AD), не вашего клиента. В этом случае приложение будет проверять подлинность для основного клиента Azure AD гостевого пользователя и пробовать открыть конечную точку Business Central на этом клиенте вместо вашего.  \n"

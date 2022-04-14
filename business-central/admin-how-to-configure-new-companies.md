@@ -1,6 +1,6 @@
 ---
-title: Как настраивать новые организации | Документация Майкрософт
-description: Можно установить и настроить только что созданную организацию. Точная настройка реализации состоит из трех этапов.
+title: Настройка новых организаций
+description: Можно установить и настроить только что созданную организацию с RapidStart Services. Точная настройка реализации состоит из трех этапов.
 author: SorenGP
 ms.topic: conceptual
 ms.devlang: na
@@ -9,14 +9,14 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: f0964028b7d6e711e48e1361950d1ec6b4e14425
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 8b3bdea227d5314d4b4f218fed59906db1995180
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8130804"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8515775"
 ---
-# <a name="configure-new-companies"></a>Настройка новых организаций
+# <a name="configure-new-companies-with-rapidstart-services"></a>Настройка новых организаций с RapidStart Services
 Настройка новой организации в вашей реализации решения обычно производится в три этапа. На первом этапе необходимо импортировать пакет конфигурации в виде файла .rapidstart с информацией о конфигурации. Во второй фазе изменяется информация о конфигурации и затем применяется к новой организации. На конечном этапе можно просмотреть и исправить все ошибки.  
 
 В следующих процедурах предполагается, что был создан и сохранен пакет конфигурации. Дополнительные сведения см. в разделе [Подготовка пакета конфигурации](admin-how-to-prepare-a-configuration-package.md).  

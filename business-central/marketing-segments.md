@@ -11,12 +11,12 @@ ms.search.keywords: relationship, prospect
 ms.search.forms: 5150, 5142, 5140, 5141, 5144, 5091, 5143, 5093, 5092
 ms.date: 06/22/2021
 ms.author: jswymer
-ms.openlocfilehash: c107a9ae74343663eea6a97fb0360852b49ecd05
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 3ff214627aa1486d818d02e632e6b0be293313f6
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8130288"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8519652"
 ---
 # <a name="managing-segments"></a>Управление сегментами
 Вы создаете сегменты для выбора группы контактов по определенному критерию. Например, сегментом может быть отрасль, к которой принадлежат контакты, или деловые отношения с ними. Можно создать сегмент для выбора контактов, которым будет адресована кампания.

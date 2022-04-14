@@ -1,20 +1,20 @@
 ---
 title: Минимальные требования при использовании Business Central
 description: Узнайте о минимальных требованиях к системе и версии для использования Business Central Online ниже.
-author: edupont04
+author: jswymer
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: version
-ms.date: 06/25/2021
-ms.author: edupont
-ms.openlocfilehash: 8f0e9b608611c963cd31112a31d004108ad1ab73
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.date: 03/31/2022
+ms.author: jswymer
+ms.openlocfilehash: 8a2c342f31dc4c17bb34af22ffc912dcc51c5cf9
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8135189"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8514417"
 ---
 # <a name="minimum-requirements-for-using-business-central"></a>Минимальные требования для использования Business Central
 
@@ -24,25 +24,16 @@ ms.locfileid: "8135189"
 
 **Microsoft Edge:** программа [!INCLUDE[prod_short](includes/prod_short.md)] предназначена для работы с новой версией Microsoft Edge.
   
-**Chrome для Windows и Firefox для Windows:** приложение [!INCLUDE[prod_short](includes/prod_short.md)] предназначено для работы с текущей версией этих настольных браузеров. 
+**Chrome для Windows и Firefox для Windows:** приложение [!INCLUDE[prod_short](includes/prod_short.md)] предназначено для работы с текущей версией этих настольных браузеров. Приложение Business Central на настольном компьютере не работает с Firefox.
  
 **Safari:** программа [!INCLUDE[prod_short](includes/prod_short.md)] предназначена для работы с текущей версией Safari в macOS.  
 
 ## <a name="mobile-devices"></a>Мобильные устройства
 
-**Windows:** Windows 10 S, Home, Pro, Enterprise или Education (32-разрядная и 64-разрядная версии).
-
 **Android (планшет и телефон):** одна из трех последних основных версий и их обновления.
 
 **iOS (iPad и iPhone):** одна из трех последних основных версий и их обновления.
 
-<!--
-
-**Windows:** [!INCLUDE[prod_short](includes/prod_short.md)] for Windows can be installed on devices with at least 1 GB of RAM and Windows 10 S, Home, Pro, Enterprise, or Education (32-bit and 64-bit editions).  
-**iOS:** [!INCLUDE[prod_short](includes/prod_short.md)] for iPad and iPhone requires iOS 10.0 or later.  
-**Android:** [!INCLUDE[prod_short](includes/prod_short.md)] for Android tablet and Android phone can be installed on devices with at least 1 GB of RAM and Android 6.0 or higher.  
-**Device size:** [!INCLUDE[prod_short](includes/prod_short.md)] is supported on smart phones with a minimum screen size of 4" and tablets with a minimum screen size of 7".  
--->
 ## <a name="outlook"></a>Outlook
 
 **Приложения Outlook:** для использования [!INCLUDE[prod_short](includes/prod_short.md)] Online как папки "Входящие" для бизнеса в Outlook требуется Outlook 2019 или более поздней версии, Outlook в Интернете, Outlook для iOS или Outlook для Android. Ваша организация также должна использовать Microsoft 365. Вы не можете использовать [!INCLUDE[prod_short](includes/prod_short.md)] Online как папку "Входящие" для бизнеса в Outlook, если ваша организация использует локальный сервер Exchange. 
@@ -50,8 +41,8 @@ ms.locfileid: "8135189"
 > [!IMPORTANT]
 > Начиная с волны выпуска 2 Business Central 2021, вы больше не сможете входить в надстройку Business Central из версий Outlook до 2012 года.
   
-**Браузеры:** При использовании [!INCLUDE[prod_short](includes/prod_short.md)] в качестве папки "Входящие" для бизнеса в Outlook в браузере надстройка требует, чтобы на компьютере был установлен один из браузеров, перечисленных в качестве поддерживаемых ранее в этой статье. 
- 
+**Браузеры:** При использовании [!INCLUDE[prod_short](includes/prod_short.md)] в качестве папки "Входящие" для бизнеса в Outlook в браузере надстройка требует, чтобы на компьютере был установлен один из браузеров, перечисленных в качестве поддерживаемых ранее в этой статье.
+
 **Платформы:** при использовании надстройки [!INCLUDE[prod_short](includes/prod_short.md)] для Outlook в Outlook для iOS или Outlook для Android надстройка требует, чтобы в качестве мобильного устройства использовалось одно из поддерживаемых мобильных устройств для [!INCLUDE[prod_short](includes/prod_short.md)].  
 
 ## <a name="teams"></a>Teams
@@ -78,7 +69,7 @@ ms.locfileid: "8135189"
 - Firefox для Windows
 - Safari для macOS
 
-## <a name="using-business-central-on-premises"></a>Использование локальной версии Business Central
+## <a name="use-business-central-on-premises"></a>Используйте локальную версию Business Central
 
 Если вы хотите развернуть Business Central локально, вам следует проверить системные требования. Для получения дополнительной информации см. [Системные требования для Dynamics 365 Business Central](/dynamics365/business-central/dev-itpro/deployment/system-requirements-business-central-v18) и [Обзор развертывания](/dynamics365/business-central/dev-itpro/deployment/deployment).  
 

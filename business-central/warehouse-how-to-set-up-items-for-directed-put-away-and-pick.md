@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/25/2021
 ms.author: edupont
-ms.openlocfilehash: 4e83df2350ef8419a6de4e0fde9bf140660b943e
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: a33e68984a20a815b0ac774695937d5aae36a093
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8145216"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8519470"
 ---
 # <a name="set-up-items-and-locations-for-directed-put-away-and-pick"></a>Настройка товаров и складов для использования расширенного подбора и размещения
 Если склад настраивается на расширенный подбор и размещение, возникает возможность использования нового набора функций, которые обеспечивают поддержку максимально эффективного функционирования склада. Чтобы в полной мере использовать эти функциональные возможности, нужно предоставить дополнительную информацию о товарах, которая позволит провести необходимые вычисления для определения наиболее целесообразных и эффективных способов руководства деятельностью склада. Дополнительные сведения см. в разделе [Сведения о проектировании: настройка склада](design-details-warehouse-setup.md).
@@ -66,7 +66,7 @@ ms.locfileid: "8145216"
 [Наличие](inventory-manage-inventory.md)  
 [Настройка управления складом](warehouse-setup-warehouse.md)     
 [Управление сборкой](assembly-assemble-items.md)    
-[Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
+[Сведения о проектировании: Warehouse Management](design-details-warehouse-management.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 
 

@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 46664dac24f5da8eab714f1be303e4fb7241496d
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 31f6c59f13bed6fdb62624b56ad732824af77230
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8131038"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8519333"
 ---
 # <a name="field-mapping-when-exporting-payment-files-using-the-amc-banking-365-fundamentals-extension"></a>Сопоставление полей при экспорте файлов платежей с использованием расширения AMC Banking 365 Fundamentals
 При экспорте файлов платежей с использованием расширения AMC Banking 365 Fundamentals экспортируемые данные предоставляются поставщику услуг. Поставщик услуг отвечает за конфиденциальность этих данных. Дополнительные сведения о расширении AMC Banking 365 Fundamentals см. в разделе [Использование расширения AMC Banking 365 Fundamentals](ui-extensions-amc-banking.md).  

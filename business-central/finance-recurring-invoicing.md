@@ -11,12 +11,12 @@ ms.search.form: 283
 ms.reviewer: edupont
 ms.date: 04/01/2021
 ms.author: andreipa
-ms.openlocfilehash: cf990ec5de639054a79e98275be76cb0aed989d1
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 96a4330b880ecfe760c146d4b7ae5778716725ef
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8128795"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8513917"
 ---
 # <a name="work-with-recurring-revenue-in-prod_short"></a>Работа с повторяющимся доходом в [!INCLUDE[prod_short](includes/prod_short.md)]
 
@@ -29,11 +29,11 @@ ms.locfileid: "8128795"
 
 ### <a name="why-use-this-option"></a>Зачем использовать эту опцию
 
-С помощью этой опции вы определяете гибкие периоды выставления счетов с использованием [Формул даты](ui-enter-date-ranges.md#using-date-formulas).
+С помощью этой опции вы определяете гибкие периоды выставления счетов с использованием [Формул даты](ui-enter-date-ranges.md#use-date-formulas).
 
 Однако с этой опцией вы не можете печатать и отправлять счета в версии по умолчанию [!INCLUDE[prod_short](includes/prod_short.md)].  
 
-Дополнительные сведения см. в разделе [Работа с типовыми журналами](ui-work-general-journals.md#working-with-recurring-journals).  
+Дополнительные сведения см. в разделе [Работа с типовыми журналами](ui-work-general-journals.md#work-with-recurring-journals).  
 
 ## <a name="create-multiple-invoices-based-on-a-recurring-job-journal"></a>Создание нескольких счетов на основе типового журнала работ
 
@@ -111,8 +111,8 @@ ms.locfileid: "8128795"
 
 ## <a name="see-also"></a>См. также
 
-[Формулы даты](ui-enter-date-ranges.md#using-date-formulas)  
-[Работа с типовыми журналами](ui-work-general-journals.md#working-with-recurring-journals)  
+[Формулы даты](ui-enter-date-ranges.md#use-date-formulas)  
+[Работа с типовыми журналами](ui-work-general-journals.md#work-with-recurring-journals)  
 [Создание строк журнала работ](projects-how-record-job-usage.md#to-create-job-journal-lines-manually)  
 [Создание нескольких счетов продажи по работам](projects-how-invoice-jobs.md#to-create-multiple-job-sales-invoices)  
 [Создание типовых строк продажи и покупки](sales-how-work-standard-lines.md)  

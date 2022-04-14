@@ -10,12 +10,12 @@ ms.search.keywords: account linking, direct payment posting, automatic payment p
 ms.search.form: 1290, 1294, 1287
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 754f278c352f4b7c20df84c64d1e90315dca70d9
-ms.sourcegitcommit: 5a02f8527faecdffcc54f9c5c70cefe8c4b3b3f4
+ms.openlocfilehash: 69ec5c81ff1c93fd4ab91540f3ad3e420171c6c9
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/04/2022
-ms.locfileid: "8381356"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8514833"
 ---
 # <a name="map-text-on-recurring-payments-to-accounts-for-automatic-reconciliation"></a>Сопоставление текста на типовых платежах со счетами для автоматической выверки
 На странице **Сопоставление текста со счетами**, открываемом со страницы **Журнал выверки платежей**, можно настроить сопоставления между текстом платежей и конкретными дебетовыми, кредитными и балансовыми счетами, чтобы такие платежи учитывались на заданных счетах при учете в журнале выверки платежей.

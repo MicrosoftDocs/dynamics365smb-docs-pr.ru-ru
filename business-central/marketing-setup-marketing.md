@@ -10,12 +10,12 @@ ms.search.keywords: relationship, prospect, client, customer, campaign, promo
 ms.search.forms: 5172, 5173, 5170, 5094, 429
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 8f43e37b540c9e3b3a89299f8609af7aea8398e9
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: a91592818e5e486f58857da07d5d9dc0390d5fba
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8130333"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8517925"
 ---
 # <a name="setting-up-relationship-management"></a>Настройка управления отношениями
 
@@ -32,7 +32,7 @@ ms.locfileid: "8130333"
 
 Дополнительные сведения см. в разделе [Создание контактов](marketing-create-contact-companies.md).
 
-## <a name="using-predefined-defaults-on-new-contacts"></a>Использование заранее определенных значений по умолчанию для новых контактов
+## <a name="use-predefined-defaults-on-new-contacts"></a>Использование заранее определенных значений по умолчанию для новых контактов
 Можно выбрать автоматическое назначение приложением определенного кода языка, кода территории, кода менеджера и кода страны/региона по умолчанию каждому вновь создаваемому контакту. Также можно ввести стандартный код цикла продажи, который приложение будет автоматически присваивать каждой новой создаваемой возможности.
 
 Наследование полей переписывает установленные по умолчанию значения. Например, если по умолчанию установлен английский язык, а язык контактной организации немецкий, приложение будет автоматически назначать немецкий язык в качестве кода языка для контактных лиц, регистрируемых для данной организации.

@@ -10,12 +10,12 @@ ms.search.keywords: price, pricing, discount, discounting, rebate, sale, purchas
 ms.search.form: 459, 460, 7001, 7011, 7015, 7016, 7017, 7018
 ms.date: 04/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: 3a6d6b680ebfb89c376872d2dcd5cb6fb535d4a3
-ms.sourcegitcommit: 5a02f8527faecdffcc54f9c5c70cefe8c4b3b3f4
+ms.openlocfilehash: c4ea2854ccc287b95c42bf942389d4dbfb2fd2e3
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/04/2022
-ms.locfileid: "8383299"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8523609"
 ---
 # <a name="set-up-prices-and-discounts"></a>Настройка цен и скидок
 > [!NOTE]
@@ -99,7 +99,7 @@ ms.locfileid: "8383299"
 
 ---
 
-## <a name="working-with-invoice-discounts-and-service-charges"></a>Работа со скидками по счетам и платой за сервисное обслуживание
+## <a name="work-with-invoice-discounts-and-service-charges"></a>Работа со скидками по счетам и платой за сервисное обслуживание
 При использовании скидок счетов размер суммы счета определяет размер предлагаемой скидки. На странице **Скидки счета** можно также добавить в счета плату за обслуживание на определенную сумму.  <!--The Invoice Discounts page is hard to find.-->
 
 Прежде чем вы сможете использовать скидки по продажам, необходимо ввести в приложение определенную информацию. Вы должны решить, каким клиентам будет предоставлен этот тип скидки, и какой процент скидки вы будете использовать.  

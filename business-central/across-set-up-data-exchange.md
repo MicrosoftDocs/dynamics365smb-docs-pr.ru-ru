@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/11/2021
 ms.author: edupont
-ms.openlocfilehash: 9736a1ea6c0da0381a14c8e77eabaaf752ea9f34
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 7847387049dd799044ed3dca4b62a657b726b069
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8133282"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8517138"
 ---
 # <a name="setting-up-data-exchange"></a>Настройка обмена данными
 Прежде чем отправлять и получать электронные документы и импортировать или экспортировать банковские файлы, необходимо настроить платформу обмена данными для обработки соответствующих файлов. Кроме того, вы должны настроить связанные области, такие как клиенты, которым вы отправляете электронные счета, или расширение AMC Banking 365 Fundamentals, если вы используете внешнего поставщика услуг для преобразования ваших банковских файлов. Дополнительные сведения см. в разделе [Электронный обмен данными](across-data-exchange.md).  

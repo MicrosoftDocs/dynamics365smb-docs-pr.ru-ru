@@ -1,22 +1,21 @@
 ---
-title: Определение контактов в сегменте | Документация Майкрософт
+title: Добавление контактов к сегментам
 description: После создания сегмента вы можете добавить в него контакты, например в рамках маркетинговой кампании, ориентированной на определенных клиентов.
-services: project-madeira
-documentationcenter: ''
 author: jswymer
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: marketing, campaign, promo, prospect, contact, client, customer
+ms.search.form: 5091, 5093
 ms.date: 04/01/2021
 ms.author: jswymer
-ms.openlocfilehash: 975a6e769bbba3a32451fc1e9fda54da9cad401b
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: d285e384ceef9e78fca764fdffaabb3ff439ea02
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8135215"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8519073"
 ---
 # <a name="add-contacts-to-segments"></a>Добавление контактов к сегментам
 После создания сегмента и ввода базовой информации о нем можно добавить к сегменту контакты. Это можно сделать, заполнив вручную строки на странице **Сегмент**, но проще и быстрее использовать действие **Добавить контакты**.

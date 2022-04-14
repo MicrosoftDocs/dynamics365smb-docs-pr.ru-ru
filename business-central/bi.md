@@ -10,12 +10,12 @@ ms.search.keywords: bi, power BI, analysis, KPI
 ms.search.form: 103, 198, 490
 ms.date: 06/14/2021
 ms.author: edupont
-ms.openlocfilehash: 994ae303d46e2e3d290ca297038a3bca6fc21d44
-ms.sourcegitcommit: cdb57f14960f58b1d36a1b373fbf35dfed5fad9e
+ms.openlocfilehash: be92e23a1dece6225a0700dc4fb3b718481367cb
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/23/2022
-ms.locfileid: "8335452"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8523141"
 ---
 # <a name="business-intelligence"></a>Бизнес-аналитика
 Во время делового процесса в организации обрабатываются огромные объемы данных. Эти данные, отражающие цифры продаж, покупок, текущих расходов, оплаты труда сотрудников, сальдо и т. д., могут представлять из себя ценную информацию, или интеллектуальные ресурсы, для принятия решений. [!INCLUDE[prod_short](includes/prod_short.md)] содержит множество функций, помогающих собирать, анализировать и совместно использовать данные организации.

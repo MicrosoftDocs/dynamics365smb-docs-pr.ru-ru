@@ -1,21 +1,22 @@
 ---
 title: Обработка отсутствующих значений параметров
-description: Узнайте, как предотвратить сбой полной синхронизации из-за того ,что параметры в сопоставленных полях отличаются. Эти процессы требуют помощи разработчика.
+description: Узнайте, как предотвратить сбой полной синхронизации из-за того ,что параметры в сопоставленных полях отличаются. Этот процесс требует помощи разработчика.
 author: brentholtorf
 ms.author: bholtorf
 ms.custom: na
 ms.reviewer: na
 ms.topic: conceptual
-ms.date: 06/14/2021
-ms.openlocfilehash: 1735b1e3d04b9b35653047b19587f84234389735
-ms.sourcegitcommit: 5a02f8527faecdffcc54f9c5c70cefe8c4b3b3f4
+ms.date: 03/23/2022
+ms.openlocfilehash: a726d182babca26525e2931ea2b487171b470bcc
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/04/2022
-ms.locfileid: "8383377"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8512494"
 ---
 # <a name="handling-missing-option-values"></a>Обработка отсутствующих значений параметров
-
+> [!NOTE]
+> В волне 1 выпуска 2022 года вы можете создавать свои собственные сопоставления параметров. Дополнительные сведения см. в разделе [Настройка сопоставлений параметров с Microsoft Dataverse](/dynamics365/business-central/dev-itpro/administration/administration-custom-option-mapping). Новые возможности требуют, чтобы ваш администратор включил **Обновление функции: сопоставление с наборами параметров в Dataverse без кода** на странице **Управление функциями**. Для получения дополнительной информации см. [Раннее включение новых функций](/dynamics365/business-central/dev-itpro/administration/feature-management).
 
 Эта тема предназначена для технической аудитории. Описываемые в ней процессы требуют помощи разработчика.
 

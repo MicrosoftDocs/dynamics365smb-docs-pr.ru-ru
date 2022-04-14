@@ -9,14 +9,17 @@ ms.workload: na
 ms.search.form: 9652, 9650
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 03d92e13adc9208ec98eda57cfc1d6b6e93ab028
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: f8f0af4e34f57ebe64f454901e7f9e237fe7018c
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8148308"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8512762"
 ---
-# <a name="import-and-export-custom-report-layouts"></a>Импорт и экспорт пользовательских макетов отчетов
+# <a name="legacy-import-and-export-custom-report-layouts"></a>(Устарело) Импорт и экспорт пользовательских макетов отчетов
+
+[!INCLUDE[legacy-custom-layouts](includes/legacy-custom-layouts.md)]
+
 Можно импортировать и экспортировать существующий пользовательский макет отчета в виде файла в расположении на компьютере или в сети. Например, можно экспортировать макет отчета, а затем отправить файл другому лицу для изменения. Это лицо может затем внести изменения в макет и вернуть файл, чтобы вы могли импортировать его обратно.  
 
 > [!IMPORTANT]  

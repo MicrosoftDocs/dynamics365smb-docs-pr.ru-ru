@@ -7,14 +7,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: accessibility, shortcuts, keyboarding, keys
-ms.date: 04/01/2021
+ms.date: 01/27/2022
 ms.author: bholtorf
-ms.openlocfilehash: 39700bcb00aadf4a567da0487db58c17aefe58af
-ms.sourcegitcommit: 5a02f8527faecdffcc54f9c5c70cefe8c4b3b3f4
+ms.openlocfilehash: 3d8b49c34bee069c10fdd2713de9ed0cd3c3fb72
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/04/2022
-ms.locfileid: "8381753"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8517977"
 ---
 # <a name="keyboard-shortcuts"></a>Сочетания клавиш
 
@@ -239,6 +239,14 @@ ms.locfileid: "8381753"
 |F3 или Ctrl+стрелка вниз|Перемещает фокус на следующую найденную функцию в обозревателе ролей. F3 переместит фокус на поле **Поиск** после последнего найденного объекта.|
 |Shift F3 или Ctrl+стрелка вверх|Перемещает фокус на предыдущую найденную функцию в обозревателе ролей.|
 |Ctrl+Shift|Разверните или сверните все вложенные узлы, помимо узлов верхнего уровня, когда вы выбираете действие **Развернуть** или **Свернуть**.|
+
+##  <a name="numeric-keypad-shortcuts"></a><a name="keypad"></a> Сочетания клавиш цифровой клавиатуры
+
+В следующей таблице описаны сочетания клавиш на цифровой клавиатуре.
+
+|Нажмите эти клавиши<br />(в macOS)|Действие|
+|--------------------------------|----------|
+|Alt+десятичный разделитель|Переключите вывод клавиши десятичного разделителя либо на точку (.), либо на символ, определенный **Страна/регион** на странице **Мои настройки**. Для получения дополнительной информации см. в [Установка десятичного разделителя, используемого цифровыми клавиатурами](ui-enter-data.md#decimal).|
 
 ## <a name="see-also"></a>См. также
 

@@ -10,12 +10,12 @@ ms.search.keywords: ''
 ms.search.forms: 6520,
 ms.date: 06/16/2021
 ms.author: edupont
-ms.openlocfilehash: 6592172331b92c1e0b6623c36c5531b4a32b5088
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 991df58fde5f525772d5b9eeadbf802429965575
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8148530"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8517424"
 ---
 # <a name="trace-item-tracked-items"></a>Трассировка товаров, трассируемых по товарам
 Можно просмотреть, где использовался товар, для которого требуется трассировка, включая то, как и где он был получен или произведен, перемещен, продан, потреблен или возвращен. Также можно найти все текущие экземпляры определенного серийного номера или номера партии в базе данных. Функции, которые позволяют это сделать "Трассировка товаров" и [Найти записи](ui-find-entries.md).  

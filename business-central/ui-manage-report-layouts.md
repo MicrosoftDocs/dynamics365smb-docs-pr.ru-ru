@@ -1,7 +1,7 @@
 ---
-title: Пользовательские и встроенные макеты отчетов и документов
+title: Управление макетами отчетов и документов
 description: Макеты отчетов служат для персонализации документов, например для настройки шрифтов, логотипов и параметров страниц PDF-файлов, которые вы отправляете клиентам.
-author: SorenGP
+author: jswymer
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -9,56 +9,125 @@ ms.workload: na
 ms.search.keywords: customized report, document layout, logo, personalize
 ms.search.form: 9652, 9650
 ms.date: 04/01/2021
-ms.author: edupont
-ms.openlocfilehash: d150d656371f67d6cfe04668e504f481cf9cc213
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.author: jswymer
+ms.openlocfilehash: 5fed722bb5929da100c1c92e63aebb1f10cf53d0
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8129842"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8520686"
 ---
-# <a name="managing-report-and-document-layouts"></a>Управление макетами отчетов и документов
+# <a name="report-and-document-layouts-overview"></a>Обзор макетов отчетов и документов
+
 Макет отчета контролирует содержимое и формат отчета, включая то, какие поля данных набора данных отчета отображаются в нем и как они упорядочены, а также стиль текста, изображения и т. д. В [!INCLUDE[prod_short](includes/prod_short.md)] можно изменить используемый в отчете макет, создать новый макет или изменить текущие макеты.
 
 > [!NOTE]  
->   В [!INCLUDE[prod_short](includes/prod_short.md)] термин "отчет" также означает внешние документы, такие как счета продажи и подтверждения заказов, которые вы отправляете клиентам в виде PDF-файлов.
+> В [!INCLUDE[prod_short](includes/prod_short.md)] термин "отчет" также означает внешние документы, такие как счета продажи и подтверждения заказов, которые вы отправляете клиентам в виде PDF-файлов.
 
-В частности, макет отчета настраивает следующее.
+## <a name="introduction"></a>Введение
+
+В частности, макет отчета настраивает следующее:
 
 * Поля меток и данных для включения из набора данных отчета [!INCLUDE[prod_short](includes/prod_short.md)].
 * Текстовый формат, например тип, размер и цвет шрифта.
 * Логотип компании и его расположение.
 * Общие параметры страницы, такие как поля и фоновые изображения.
 
-Отчет можно настроить с несколькими макетами, между которыми можно при необходимости переключаться. Можно использовать один из встроенных макетов отчета или создать пользовательские макеты отчета и назначить их отчетам. Дополнительные сведения см. в разделе [Создание пользовательского макета отчета или документа](ui-how-create-custom-report-layout.md).
+Отчет можно настроить с несколькими макетами, между которыми можно при необходимости переключаться. 
 
-Существует два типа макетов отчета, которые можно использовать в отчетах — Word и RDLC.
+<!--You can use one of the built-in report layouts or you can create custom report layouts and assign them to your reports as needed. For more information, see [Create a Custom Report or Document Layout](ui-how-create-custom-report-layout.md).-->
 
-## <a name="word-report-layout-overview"></a>Обзор макета отчетов Word
-Макет отчета Word основан на документе Word (тип файла DOCX). Макеты отчетов Word позволяют разрабатывать макеты отчетов с помощью Microsoft Word. Макет отчета Word определяет содержимое отчета, расположение элементов отчета и их внешний вид. Документ макета отчетов Word, как правило, использует таблицы для организации содержимого, клетки которых могут содержать поля данных, текст или изображения.
+Есть два важных аспекта макетов отчетов, которые будут влиять на то, как вы с ними работаете: *тип макета* и *источник макета*. Тип макета указывает тип файла, на котором основан макет. Источник макета указывает источник макета.
 
- ![Пример макета отчета Word для NAV.](media/nav_wordreportlayout_edit_in_word_example.png "NAV_WordReportLayout_Edit_In_Word_Example")  
+## <a name="layout-types"></a>Типы макета
 
-## <a name="rdlc-layout-overview"></a>Обзор макета RDLC
-Макеты RDLC основаны на клиентских макетах определения отчета (типы файла RDLC или RDL). Эти макеты создаются и изменяются с использованием конструктора отчетов SQL Server Report Builder. Дизайнерская концепция макетов RDLC схожа с макетами Word, где макет определяет общий формат отчета и включаемые в него поля из набора данных. Разработка макетов RDLC более сложная, чем макетов Word. Дополнительные сведения см. в разделе [Разработка макетов отчетов RDLC](/dynamics-nav/Designing-RDLC-Report-Layouts).
+Существует четыре типа макетов отчета, которые можно использовать в отчетах — Word, RDLC, Excel и внешний.
 
-## <a name="built-in-and-custom-report-layouts"></a>Встроенные и пользовательские макеты отчетов
-[!INCLUDE[prod_short](includes/prod_short.md)] включает несколько встроенных макетов. Встроенные макеты — это предопределенные макеты, предназначенные для определенных отчетов. Отчеты [!INCLUDE[prod_short](includes/prod_short.md)] будут иметь встроенный макет RDLC, макет отчета Word, а в некоторых случаях оба макета. Невозможно изменить встроенные макеты отчетов в [!INCLUDE[prod_short](includes/prod_short.md)], но можно использовать их в качестве начальной точки для создания собственных пользовательских макетов отчетов.
+### <a name="word"></a>Word
 
-Пользовательские макеты — это макеты отчетов, созданные пользователем для изменения внешнего вида отчета. Обычно пользовательский макет создается на основании встроенного макета, но его можно создать с нуля или из копии существующего пользовательского макета. Пользовательские макеты позволяют настроить несколько макетов для одного и того же отчета. При необходимости можно переключаться между ними. Например, можно иметь разные макеты для каждой организации [!INCLUDE[prod_short](includes/prod_short.md)] или разные макеты для одной и той же организации, но разных случаев или событий, например специальной кампании или сезона отпусков.
+Макеты Word основаны на документах Word (тип файла DOCX). Макеты Word позволяют разрабатывать макеты отчетов с помощью Microsoft Word. Макет Word определяет содержимое отчета, расположение элементов отчета и их внешний вид. Документ макета Word, как правило, использует таблицы для организации содержимого, клетки которых могут содержать поля данных, текст или изображения.
 
-## <a name="deciding-whether-to-use-a-word-or-rdlc-report-layout"></a>Выбор между макетом отчета RDLC и Word
-В основе макета отчета может лежать документ Word или файл RDLC. Принятие решения об использовании макета отчета Word или RDLC зависит от того, как должен выглядеть готовый отчет, и ваших знаний о построителе отчетов SQL Server или Word.
+[![Пример макета отчета Word для Business Central.](media/word-layout-overview.png)](media/word-layout-overview.png#lightbox) 
 
-Общие концепции дизайна макетов Word и RDLC очень схожи. Однако каждый тип имеет определенные особенности дизайна, влияющие на отображение созданного отчета в [!INCLUDE[prod_short](includes/prod_short.md)]. Это означат, что один и тот же отчет может выглядеть по-разному при использовании макетов отчетов Word и RDLC.
+<!--![Example of a word report layout document for Business Central.](media/nav_wordreportlayout_edit_in_word_example.png) -->
 
-Процедура настройки макетов отчетов Word и RDLC в отчетах одинакова. Основное различие — в способе изменения макетов. Макеты отчетов Word, как правило, проще создавать и изменять, чем макеты отчетов RDLC, поскольку можно использовать Word. Макеты отчетов RDLC изменяются с помощью построителя отчетов SQL Server, предназначенного для более продвинутых пользователей.
+Дополнительные сведения см. в разделе [Работа с макетами Word](ui-how-add-fields-word-report-layout.md).
 
-Дополнительные сведения о том, как изменить используемый макет, см. в разделе [Смена текущего макета отчета](ui-how-change-layout-currently-used-report.md).
+### <a name="excel"></a>Excel
+
+Макеты Excel основаны на книгах Microsoft Excel (тип файлов XLSX). Они позволяют создавать отчеты с использованием знакомых функций Excel для обобщения, анализа и представления данных с помощью таких средств, таких как формулы, сводные таблицы и сводные диаграммы и других.
+
+[![Показывает пример макета Excel.](media/excel-layout-2.png)](media/excel-layout-2.png#lightbox)
+
+Дополнительные сведения см. в разделе [Работа с макетами Excel](ui-excel-report-layouts.md).
+
+### <a name="rdlc"></a>RDLC
+
+Макеты RDLC основаны на клиентских макетах определения отчета (типы файла RDL или RDLC). Эти макеты создаются и изменяются с помощью SQL Server Report Builder или Microsoft RDLC Report Designer. Концепция дизайна для макетов RDLC аналогична макетам Word, где макет определяет, какие поля отображать и как они расположены. Однако разработка макетов RDLC более сложная, чем макетов Word.
+
+[![Показывает пример макета RDLC.](media/rdlc-layout-overview.png)](media/rdlc-layout-overview.png#lightbox)
+
+Дополнительные сведения см. в разделе [Работа с макетами RDLC](ui-rdlc-report-layouts.md).
+
+### <a name="external"></a>Внешнее
+
+Тип внешнего макета относится к расширенному типу, специально разработанному для определенных отчетов. Сами отчеты и макеты обычно предоставляются партнерами, а не корпорацией Майкрософт. Фактический тип файла макета зависит от поставщика.
+
+Для получения дополнительной информации см. [Построение пользовательского отчета](/dynamics365/business-central/dev-itpro/developer/devenv-report-custom-render).
+
+## <a name="layout-sources"></a>Источники макета
+
+В дополнение к типу макеты делятся на три категории в зависимости от их источника или происхождения.
+
+* Макеты расширения
+
+   Макеты расширения — это макеты, которые являются частью расширения, установленного в среде. Эти макеты обычно представляют собой стандартные макеты, предоставляемые Microsoft, например, в базовом приложении. Или это могут быть макеты, включенные в расширения от других поставщиков программного обеспечения. Вы можете распознать макеты расширений на странице **Макеты отчетов**, потому что имя расширения и издатель отображаются в столбце **Расширение**.
+
+* Заданные пользователем макеты
+
+   Другим источником макетов является конечный пользователь. В Business Central пользователь с соответствующими разрешениями может добавлять новые макеты различными способами. Например, вы можете начать с существующего макета расширения или другого заданного пользователем макета. На странице **Макеты отчетов** заданный пользователем макет будет иметь пустой столбец **Расширение**.
+
+   Для получения дополнительной информации см. [Приступайте к созданию макетов отчетов](ui-get-started-layouts.md).
+
+* Пользовательские макеты
+
+  Пользовательские макеты — это также макеты, созданные пользователями. Разница в том, что эти макеты созданы на устаревшей странице **Пользовательские макеты отчетов**, и они могут быть только типа Word и RDLC. Хотя вы по-прежнему можете создавать пользовательские макеты, они постепенно уступают место заданным пользователем макетам.
+
+  Дополнительные сведения см. в разделе [(Устарело) Создание и изменение пользовательских макетов отчетов](ui-how-create-custom-report-layout.md).
+
+Для получения информации, которая поможет вам решить, какой тип лучше всего подходит для вас, см. [Решите, какой тип макета вам нужен](ui-get-started-layouts.md#decide).
+
+> [!IMPORTANT]
+> Важно помнить, что вы не можете изменять макеты расширений в клиенте Business Central. Например, вам не разрешено изменять имя или тип макета, а также загружать и заменять его другой версией. Если вы попытаетесь это сделать, появится сообщение об ошибке. Вместо этого вам придется создать заданный пользователем или пользовательский макет на основе макета расширения.
+
+<!--
+### Built-in and custom report layouts
+
+
+
+[!INCLUDE[prod_short](includes/prod_short.md)] includes several built-in layouts. Built-in layouts are predefined layouts that are designed for specific reports. [!INCLUDE[prod_short](includes/prod_short.md)] reports will have a built-in layout as either an RDLC report layout, Word report layout, or in some cases both. You can’t modify a built-in report layout from [!INCLUDE[prod_short](includes/prod_short.md)] but you use them as a starting point for building your own custom report layouts.
+
+Custom layouts are report layouts that you design to change the appearance of a report. You typically create a custom layout based on a built-in layout, but you can create them from scratch or from a copy of an existing custom layout. Custom layouts enable you to have multiple layouts for the same report, which you switch among as needed. For example, you can have different layouts for each [!INCLUDE[prod_short](includes/prod_short.md)] company, or you can have different layouts for the same company for specific occasions or events, like a special campaign or holiday season.
+
+
+Deciding on whether to use a Word, Excel, or RDLC layout type will depend on how you want the generated report to look and your knowledge of tools for creating the layouts, like Word, Excel, and SQL Server Report Builder.
+
+* The general design concepts for Word and RDLC layouts are similar. However each type has certain design features that affect how the generated report appears in [!INCLUDE[prod_short](includes/prod_short.md)]. This means that the same report might look different when using the Word report layout compared to the RDLC report layout.
+
+* The process for setting up Word, Excel, and RDLC report layouts on reports is the same. The main difference is in the way you modify the layouts. Word and especially Excel layouts are typically easier to create and modify than RDLC report layouts because you use Word and Excel. RDLC report layouts are modified by using SQL Server Report builder, which targets more advanced users.
+
+* Not all reports and document have a dataset that is optimized for use with an Excel layout. For example, aggregations and complex calculations work best with RDLC or Word layouts. The same is true for documents.
+
+For information about how to switch the layout currently used on a report, see [Set the Layout Used by a Report](ui-set-report-layout.md).
+
+-->
+
+
 
 ## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/change-documents-dynamics-365-business-central/index)
 
 ## <a name="see-also"></a>См. также
+
 [Обновление пользовательских макетов отчетов](ui-update-report-layouts.md)  
 [Создание и изменение пользовательских макетов отчетов](ui-how-create-custom-report-layout.md)  
 [Импорт и экспорт пользовательского макета отчета или документа](ui-how-import-and-export-report-layout.md)  

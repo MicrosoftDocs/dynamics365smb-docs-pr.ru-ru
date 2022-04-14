@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: sales, crm, integration, integrating
 ms.date: 06/14/2021
 ms.author: bholtorf
-ms.openlocfilehash: addc48ca52ea27ee7c63b8f8c1b44af8a2f1eb63
-ms.sourcegitcommit: 5a02f8527faecdffcc54f9c5c70cefe8c4b3b3f4
+ms.openlocfilehash: b4fb329c076cab03b6ea5ccc78813ad57ae29db3
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/04/2022
-ms.locfileid: "8383109"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8517034"
 ---
 # <a name="integrating-with-dynamics-365-sales"></a>Интеграция с Dynamics 365 Sales
 
@@ -80,6 +80,7 @@ ms.locfileid: "8383109"
 | **Интеграция заказов на продажу разрешена** | Разрешите пользователям отправлять заказы на продажу и активированные предложения в [!INCLUDE[crm_md](includes/crm_md.md)] и затем просматривать и обрабатывать их в [!INCLUDE[prod_short](includes/prod_short.md)]. Это интегрирует процесс в [!INCLUDE[crm_md](includes/crm_md.md)]. Дополнительные сведения см. в разделе [Включение интеграции обработки заказов на продажу](/dynamics365/customer-engagement/sales-enterprise/developer/enable-sales-order-processing-integration). |
 | **Автоматически создавать заказы на продажу** | Создание заказов на продажу в [!INCLUDE[prod_short](includes/prod_short.md)], когда пользователь создает и отправляет заказ на продажу в [!INCLUDE[crm_md](includes/crm_md.md)]. |
 | **Автоматически обрабатывать предложения по продаже** | Обработка предложения по продаже в [!INCLUDE[prod_short](includes/prod_short.md)], когда пользователь создает и активирует его в [!INCLUDE[crm_md](includes/crm_md.md)]. Дополнительные сведения см. в разделе [Обработка данных в предложениях по продаже](/dynamics365/business-central/marketing-integrate-dynamicscrm?tabs=new-experience#handling-sales-quotes-data). |
+|**Двунаправленная синхронизация заказов на продажу**|Синхронизируйте заказы на продажу в обоих направлениях. Например, если клиент передумал о продукте или количестве, которое он заказал в [!INCLUDE[crm_md](includes/crm_md.md)], вы можете обработать изменение в [!INCLUDE[prod_short](includes/prod_short.md)], архивировав документ продажи и создав новый. То же самое относится и к изменениям в [!INCLUDE[prod_short](includes/prod_short.md)]. Например, при изменении цен, сумм налогов или ожидаемых дат отгрузки эти изменения автоматически синхронизируются с [!INCLUDE[crm_md](includes/crm_md.md)]. Это помогает держать ваших продавцов в курсе последних изменений и статуса котировок и заказов.|
 
 <!--
 ### User Account Settings
@@ -104,7 +105,7 @@ Integration with Business Central through Dataverse requires an administrator us
 | Возможность | Возможность | [!INCLUDE[prod_short](includes/prod_short.md)] -> [!INCLUDE[prod_short](includes/cds_long_md.md)] и [!INCLUDE[crm_md](includes/crm_md.md)] -> [!INCLUDE[prod_short](includes/prod_short.md)] |  |
 | Заголовок счета продажи | Счет | [!INCLUDE[prod_short](includes/prod_short.md)] -> [!INCLUDE[crm_md](includes/crm_md.md)] |  |
 | Строка счета продажи | Продукт счета | [!INCLUDE[prod_short](includes/prod_short.md)] -> [!INCLUDE[crm_md](includes/crm_md.md)] |  |
-| Заголовок заказа на продажу | Заказ на продажу | [!INCLUDE[prod_short](includes/prod_short.md)] -> [!INCLUDE[crm_md](includes/crm_md.md)] | Фильтр заголовков продаж [!INCLUDE[prod_short](includes/prod_short.md)]: **Тип документа** — Заказ, **Статус** — Выпущено |
+| Заголовок заказа на продажу | Заказ на продажу | [!INCLUDE[prod_short](includes/prod_short.md)] -> [!INCLUDE[crm_md](includes/crm_md.md)] и [!INCLUDE[crm_md](includes/crm_md.md)] -> [!INCLUDE[prod_short](includes/prod_short.md)] <br><br> Для синхронизации в обоих направлениях необходимо включить **Двунаправленная синхронизация заказов на продажу** на странице **Настройка подключения Dynamics 365**.| Фильтр заголовков продаж [!INCLUDE[prod_short](includes/prod_short.md)]: **Тип документа** — Заказ, **Статус** — Выпущено |
 | Примечания заказа на продажу | Примечания заказа на продажу | [!INCLUDE[prod_short](includes/prod_short.md)] -> [!INCLUDE[crm_md](includes/crm_md.md)] и [!INCLUDE[crm_md](includes/crm_md.md)] -> [!INCLUDE[prod_short](includes/prod_short.md)] |  |
 
 > [!NOTE]

@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: accessibility, shortcuts, keyboarding
 ms.date: 04/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: f6f4966a1132c4e389cb3b37f31d9dcc883d27b5
-ms.sourcegitcommit: 5a02f8527faecdffcc54f9c5c70cefe8c4b3b3f4
+ms.openlocfilehash: 7496c21745e2a27271db8ccb37c9607040e5259b
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/04/2022
-ms.locfileid: "8384206"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8511601"
 ---
 # <a name="keyboard-quick-reference---pc-only"></a>Краткая справка по сочетаниям клавиш — только ПК
 
@@ -79,11 +79,18 @@ ms.locfileid: "8384206"
 |-|-|
 |Ctrl+Shift+Enter|Переход к следующему полю экспресс-ввода за пределами списка|
 |Enter/Shift+Enter|Переход к следующему/предыдущему полю экспресс-ввода|
+
 ##### <a name="report-preview"></a>Предварительный просмотр отчета
 
 |Нажмите эти клавиши|Действие|
 |-|-|
 |Ctrl+Home/End|Перейти к первой/последней странице|
+
+#### <a name="numeric-keypad"></a>Цифровая клавиатура
+
+|Нажмите эти клавиши|Действие|  
+|-|-|
+|Alt+десятичный разделитель|Переключить вывод клавиши десятичного разделителя на цифровой клавиатуре|
 
 > [!TIP]
 > Для графической версии, пригодной для печати, выберите следующее изображение и скачайте файл PDF.

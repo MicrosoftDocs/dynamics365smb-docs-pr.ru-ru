@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/24/2021
 ms.author: edupont
-ms.openlocfilehash: 4e9bd9e44a92c952fe01636b1ef724491e479cf1
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: f7127569153ee98aaadcbb807432d852a4f22d0d
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8145242"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8518709"
 ---
 # <a name="walkthrough-planning-supplies-manually"></a>Пошаговое руководство. Планирование поставок вручную
 
@@ -55,7 +55,7 @@ ms.locfileid: "8145242"
 ## <a name="setting-up-the-sample-data"></a>Настройка образца данных  
  В стандартной демонстрационной организации CRONUS в данный момент есть множество незапланированных требований. В процессе выполнения различных задач планирования этого пошагового руководства нужно будет отклониться от реалистичных потоков деловых операций, игнорируя требования с более близкими сроками выполнения и используя вместо них более поздние сроки.  
 
-## <a name="using-the-order-planning-page"></a>Использование страницы «Планирование заказов»  
+## <a name="use-the-order-planning-page"></a>Использование страницы «Планирование заказов»  
 
 Страница **Планирование заказов** может быть доступна из нескольких разных мест:  
 

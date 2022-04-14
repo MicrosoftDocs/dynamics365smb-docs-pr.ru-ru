@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/25/2021
 ms.author: edupont
-ms.openlocfilehash: b7bd6481c6347cfb9c8d02ba58f38101802a6caa
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 109ebfef1650c365cb383aac56cf51ab9ee8231b
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8131123"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8518551"
 ---
 # <a name="plan-put-aways-in-worksheets"></a>Планирование размещений в журналах
 Если на складе требуется обрабатывать и размещения, и приемки, и необходимо запланировать инструкции по размещению для нескольких приемок, то вместо того, чтобы работники выполняли инструкции, созданные приложением для каждой учтенной приходной накладной, можно воспользоваться журналом размещений.  
@@ -66,7 +66,7 @@ ms.locfileid: "8131123"
 [Наличие](inventory-manage-inventory.md)  
 [Настройка управления складом](warehouse-setup-warehouse.md)     
 [Управление сборкой](assembly-assemble-items.md)    
-[Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
+[Сведения о проектировании: Warehouse Management](design-details-warehouse-management.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
 
 

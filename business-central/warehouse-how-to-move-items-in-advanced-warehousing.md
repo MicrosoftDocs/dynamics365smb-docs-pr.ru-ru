@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.form: 7351
 ms.date: 06/24/2021
 ms.author: edupont
-ms.openlocfilehash: 06b9b770a94a12a5e6f473259c943a52de713e19
-ms.sourcegitcommit: 5a02f8527faecdffcc54f9c5c70cefe8c4b3b3f4
+ms.openlocfilehash: 02a96b48049207d2272c62b008148c000cf676e0
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/04/2022
-ms.locfileid: "8384050"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8520582"
 ---
 # <a name="move-items-in-advanced-warehouse-configurations"></a>Перемещение товаров в расширенных конфигурациях склада
 В расширенных настройках складов, в которых используются расширенный подбор и размещение, складские перемещения между ячейками выполняются мастером склада, который подготавливает перемещения в журнале передвижений, а затем создает складские передвижения, которые должны выполнить сотрудники склада.  
@@ -51,7 +51,7 @@ ms.locfileid: "8384050"
 [Наличие](inventory-manage-inventory.md)  
 [Настройка управления складом](warehouse-setup-warehouse.md)     
 [Управление сборкой](assembly-assemble-items.md)    
-[Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
+[Сведения о проектировании: Warehouse Management](design-details-warehouse-management.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
 
 

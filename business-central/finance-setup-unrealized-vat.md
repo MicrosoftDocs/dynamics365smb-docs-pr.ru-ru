@@ -10,12 +10,12 @@ ms.search.keywords: cash, VAT, unrealized, cash-based
 ms.search.form: 118, 472, 473
 ms.date: 04/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: 168d73da4c2cb9d457071aa9f1116fc397aad648
-ms.sourcegitcommit: 5a02f8527faecdffcc54f9c5c70cefe8c4b3b3f4
+ms.openlocfilehash: 1ae48b042cf3df00a1d62a6871136e2526b3db0c
+ms.sourcegitcommit: 3ca91139035b34cfe0b0303e4caff7c6d02d0d14
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/04/2022
-ms.locfileid: "8381243"
+ms.lasthandoff: 03/14/2022
+ms.locfileid: "8417699"
 ---
 # <a name="set-up-unrealized-vat-for-cash-based-accounting"></a>Настройка нереализованного НДС для учета на основании кассы
 
@@ -23,7 +23,7 @@ ms.locfileid: "8381243"
 
 ## <a name="to-use-general-ledger-accounts-for-unrealized-vat"></a>Использование счетов главной книги для нереализованного НДС
 
-Суммы НДС могут вычисляться и учитываться на временном счете главной книги при учете счета, а затем учитываться на правильном счете главной книги и включаться в отчеты по НДС при учете фактической оплаты счета. Перед тем, как это сделать, следует произвести настройку учета НДС.
+Суммы НДС могут вычисляться и учитываться на временном счете главной книги при учете счета, а затем учитываться на правильном счете главной книги и включаться в отчеты по НДС при учете фактической оплаты счета. Перед тем, как это сделать, следует [произвести настройку учета НДС](finance-setup-vat.md).
 
 Чтобы использовать счета для нереализованного НДС, выполните следующие действия:
 

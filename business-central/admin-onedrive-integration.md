@@ -1,22 +1,23 @@
 ---
 title: Управление интеграцией OneDrive с Business Central
 description: Узнайте о том, что вы можете сделать для управления интеграцией между Business Central и OneDrive для бизнеса.
-author: brentholtorf
+author: jswymer
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: OneDrive, share, browser
-ms.date: 05/12/2021
-ms.author: bholtorf
-ms.openlocfilehash: 5debd01f9d26e5e1dc1abc1a0123073d0f7ee234
-ms.sourcegitcommit: 5a02f8527faecdffcc54f9c5c70cefe8c4b3b3f4
+ms.date: 02/28/2022
+ms.author: jswymer
+ms.openlocfilehash: 7f630f8c13f692889f1d8526698d42633c42a4ee
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/04/2022
-ms.locfileid: "8382875"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8514599"
 ---
-# <a name="managing-onedrive-integration-with-business-central"></a>Управление интеграцией OneDrive с Business Central 
+# <a name="managing-onedrive-integration-with-business-central"></a>Управление интеграцией OneDrive с Business Central
+
 В этой статье представлен обзор того, что администратор может делать для управления интеграцией OneDrive для бизнеса с [!INCLUDE[prod_short](includes/prod_short.md)]. Клиенты [!INCLUDE[prod_short](includes/prod_short.md)] Online получают выгоду от автоматической интеграции, без дополнительной настройки, необходимой для использования этих функций. 
 
 ## <a name="minimum-requirements"></a>Минимальные требования
@@ -25,6 +26,7 @@ ms.locfileid: "8382875"
 * OneDrive должны быть настроены для каждого пользователя.
 
 ## <a name="governance"></a>Управление
+
 Центр администрирования SharePoint обеспечивает широкий контроль над политиками, которые регулируют использование OneDrive во всей организации. Глобальные администраторы или пользователи, у которых есть роль администратора SharePoint, могут настраивать политики, определяющие, у кого есть доступ к OneDrive, где хранятся данные, жизненный цикл контента и многое другое. Следующие ссылки предоставляют информацию о часто используемых функциях и настройках, которые могут улучшить вашу интеграцию с [!INCLUDE[prod_short](includes/prod_short.md)]. 
 
 * [Управление настройками общего доступа](/sharepoint/turn-external-sharing-on-or-off)
@@ -39,9 +41,11 @@ ms.locfileid: "8382875"
 > Некоторые функции могут быть доступны только для определенных планов.
 
 ## <a name="managing-privacy"></a>Управление конфиденциальностью
+
 Администраторы и конечные пользователи контролируют контент, хранящийся в OneDrive, и эти данные принадлежат исключительно вашей организации. Для получения дополнительной информации см. [Как SharePoint и OneDrive защищают ваши данные в облаке](/sharepoint/safeguarding-your-data). Вы также можете прочесть наше [Заявление о конфиденциальности Microsoft](https://privacy.microsoft.com/en-us/privacystatement), в котором объясняется, какие данные обрабатывает Microsoft, как Microsoft обрабатывает их и для каких целей.
 
 ## <a name="restoring-onedrive-and-prod_short"></a>Восстановление OneDrive и [!INCLUDE[prod_short](includes/prod_short.md)]
+
 В рамках процедуры аварийного восстановления администраторам может потребоваться восстановить среду [!INCLUDE[prod_short](includes/prod_short.md)] в резервную копию из момента в прошлом и синхронизировать хранилище OneDrive на этот момент времени. OneDrive предоставляет для этого различные инструменты, такие как восстановление OneDrive пользователя к предыдущему моменту, восстановление предыдущей версии отдельного файла или восстановление удаленных файлов. Для получения дополнительных сведений см. следующие статьи:
 
 * Для [!INCLUDE[prod_short](includes/prod_short.md)] см. [Восстановление среды в центре администрирования](/dynamics365/business-central/dev-itpro/administration/tenant-admin-center-backup-restore).
@@ -70,6 +74,11 @@ ms.locfileid: "8382875"
 Добавьте зарегистрированное приложение для Business Central в свой клиент Azure AD, соответствующий вашему плану Microsoft 365. Как и другие службы Azure, которые работают с Business Central, OneDrive требует регистрации приложения в Azure Active Directory (Azure AD). Регистрация приложения предоставляет услуги аутентификации и авторизации между Business Central и SharePoint, что используется OneDrive.
 
 Настройте зарегистрированное приложение со следующими делегированными разрешениями для API SharePoint:
+
+- AllSites.FullControl
+- User.ReadWrite.All 
+
+Для Business Central 2021 выпуска волны 2 (версия 19) вместо этого установите эти разрешения:
 
 - AllSites.Write
 - MyFiles.Write

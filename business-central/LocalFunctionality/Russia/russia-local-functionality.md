@@ -8,12 +8,12 @@ ms.search.keywords: ''
 ms.reviewer: edupont
 ms.date: 04/01/2021
 ms.author: soalex
-ms.openlocfilehash: 000bf543f6d70b2df70a4b15d74ffed25d606b66
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: b1839f7f8aeda96b3c027500946aa9d556bc44d3
+ms.sourcegitcommit: 3ca91139035b34cfe0b0303e4caff7c6d02d0d14
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8141787"
+ms.lasthandoff: 03/14/2022
+ms.locfileid: "8417633"
 ---
 # <a name="russia-local-functionality"></a>Функциональность локальной версии для России
 
@@ -94,6 +94,7 @@ ms.locfileid: "8141787"
     * [Акт инвентаризации расчетов с клиентами и поставщиками ИНВ-17](Inventory-Act-of-Receivables-And-Payables-INV-17.md) **Уже доступно**
     * [Оборотная ведомость для товаров по ГК](Item-General-Ledger-Turnover.md) **Уже доступно**
     * [Создание товарного отчета ТОРГ-29](How-to-Create-the-TORG-29-Goods-Report.md) **Уже доступно**
+    * [Товарная накладная](bill-of-lading.md) **Волна 1 выпуска 2022 года**
 
 * Персонал и зарплата
     * [Персонал и зарплата](Human-Resources.md) **Уже доступно**

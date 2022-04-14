@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: Teams, MS Teams, Microsoft Teams, Skype, Link, Microsoft 365, collaborate, collaboration, teamwork, faq, errors
 ms.date: 10/01/2021
 ms.author: jswymer
-ms.openlocfilehash: 34c669f955bebf84149959182bb1ce8bdeb139a0
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: addfaaf3e5991e5e0bce4d7e39c47f645cd6a2de
+ms.sourcegitcommit: d6af3155bb818430f22d5caca78df322a8d9b178
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8147496"
+ms.lasthandoff: 04/01/2022
+ms.locfileid: "8528583"
 ---
 # <a name="teams-faq"></a>Вопросы и ответы по Teams
 
@@ -70,10 +70,6 @@ ms.locfileid: "8147496"
 
 - Приложение работает со ссылками на основе шаблона **\*.bc.dynamics.com**, который обычно используется с внедрением приложений.
 - Поиск контактов недоступен для встраиваемых приложений, заменяющих базовое приложение от Microsoft.
-
-### <a name="where-can-i-find-teams-integration-inside-the-prod_shortmd-web-client"></a>Где я могу найти интеграцию Teams в веб-клиенте [!INCLUDE [prod_short.md](includes/prod_short.md)]? 
-
-В настоящее время нет встраивания элементов управления Teams или наличия функций Teams внутри веб-клиента [!INCLUDE [prod_short.md](includes/prod_short.md)] или других клиентов.
 
 ### <a name="does-prod_shortmd-work-with-the-teams-mobile-app"></a>Работает ли [!INCLUDE [prod_short.md](includes/prod_short.md)] с мобильным приложением Teams?
 
@@ -304,7 +300,11 @@ ms.locfileid: "8147496"
 
 ### <a name="can-i-access-my-location-from-the-details-window-in-teams"></a><a name="location"></a>Могу ли я получить доступ к моему местоположению из окна сведений в Teams?
 
-Если вы используете функции в [!INCLUDE [prod_short.md](includes/prod_short.md)], которые обращаются к вашим текущим координатам местоположения, например на картах, вы должны использовать Teams в браузере или мобильное приложение Teams. Местоположение недоступно при использовании классического приложения Teams. 
+Если вы используете функции в [!INCLUDE [prod_short.md](includes/prod_short.md)], которые обращаются к вашим текущим координатам местоположения, например на картах, вы должны использовать Teams в браузере или мобильное приложение Teams. Местоположение недоступно при использовании классического приложения Teams.
+
+### <a name="how-do-i-open-the-details-in-a-new-window"></a>Как открыть сведения в новом окне?
+
+Открытие окна сведений в виде отдельного окна полезно для многозадачности или для возможности работать с бизнес-данными, сохраняя при этом возможность использовать чат Teams и другие функции Teams. Чтобы открыть сведения в отдельном окне, выберите **Открыть в браузере** в меню с многоточием (**...**) в правом верхнем углу окна.
 
 ## <a name="collaborate-with-guests"></a>[Сотрудничество с гостями](#tab/collaborating)
 
@@ -346,7 +346,7 @@ ms.locfileid: "8147496"
 
 ### <a name="is-share-to-teams-available-in-all-business-central-clients"></a>Доступно ли Отправка данных в Teams во всех клиентах Business Central? 
 
-В настоящее время Отправка данных в Teams доступно исключительно в классическом веб-клиенте и в окне сведений в Teams.  
+В настоящее время функция «Поделиться в Teams» доступна в настольном веб-клиенте, в окне сведений в Teams и при открытии страницы в новом окне из надстройки Outlook.
 
 ### <a name="where-do-i-find-share-to-teams-in-business-central"></a>Где найти Отправка данных в Teams в Business Central? 
 

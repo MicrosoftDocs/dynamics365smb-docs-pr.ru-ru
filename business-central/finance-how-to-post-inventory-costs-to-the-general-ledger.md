@@ -10,12 +10,12 @@ ms.search.keywords: warehouse, stock
 ms.search.form: 9297
 ms.date: 06/16/2021
 ms.author: edupont
-ms.openlocfilehash: 35b9753a1d21ebfbd2970699c720b0e97ed5bcb4
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: de9216c02f44d159f077beeba00a44952a6a92aa
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8142163"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8519782"
 ---
 # <a name="reconcile-inventory-costs-with-the-general-ledger"></a>Выверка себестоимости товаров с главной книгой
 

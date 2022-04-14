@@ -10,12 +10,12 @@ ms.search.keywords: transportation, added cost, landed cost
 ms.search.form: 5709, 5800, 5805, 5814
 ms.date: 06/22/2021
 ms.author: edupont
-ms.openlocfilehash: 6cfebffb12eb2cd7ffa84e12a07c01968c429069
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: cd8485bf4d679e740f60c8cc38e5912953b5b0bb
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8145606"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8522828"
 ---
 # <a name="use-item-charges-to-account-for-additional-trade-costs"></a>Использование товарных издержек для учета дополнительных торговых расходов
 Чтобы правильно оценить товары, необходимо перенести на них дополнительные издержки, например в связи с транспортировкой, физическим обращением, страховкой, которые возникли при покупке или продаже товаров. В случае покупки стоимость покупаемого товара состоит из цены поставщика и всех дополнительных прямых товарных издержек, которые могут быть заданы по индивидуальным приемкам или расходным накладным на возврат товара. В случае продажи знать затраты по отгрузке проданного товара может быть так же важно для организации, как знать затраты по получению приобретенного товара.

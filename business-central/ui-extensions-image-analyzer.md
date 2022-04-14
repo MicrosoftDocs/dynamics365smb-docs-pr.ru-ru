@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: API, extension, Cognitive Services, image, computer vision, attribute, tag, recognition
 ms.date: 05/19/2021
 ms.author: bholtorf
-ms.openlocfilehash: 65ec760458f1a30ef4810acdff01ebd9e0a699b2
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 8fd9a592ab0d827fb1866eec80a0771f85d91a38
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8140427"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8512840"
 ---
 # <a name="the-image-analyzer-extension"></a>Расширение "Анализатор изображений"
 
@@ -121,7 +121,7 @@ ms.locfileid: "8140427"
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Подключения к службе**, а затем выберите **Настройка анализа изображений**.  
 2. Снимите флажок **Включать анализатор изображений**.  
 
-Или полностью удалите расширение. Вы всегда можете получить его снова из AppSource. Дополнительные сведения см. в разделе [Установка и удаление расширений в Business Central](ui-extensions-install-uninstall.md#uninstalling-an-extension).  
+Или полностью удалите расширение. Вы всегда можете получить его снова из AppSource. Дополнительные сведения см. в разделе [Установка и удаление расширений в Business Central](ui-extensions-install-uninstall.md#uninstall-an-extension).  
 
 ## <a name="see-also"></a>См. также
 

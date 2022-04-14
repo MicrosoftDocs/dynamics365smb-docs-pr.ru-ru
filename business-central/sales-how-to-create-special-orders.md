@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/23/2021
 ms.author: edupont
-ms.openlocfilehash: d879e8cfb556ca0c7fc496f72ec653826e8d7db9
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: d263be575b6f4102c25ff1b7fe2aa288058cbd22
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8128717"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8518917"
 ---
 # <a name="create-special-orders"></a>Создание специальных заказов
 Для отгрузки товара из каталога конкретному клиенту можно создать специальный заказ. Поставщик отгружает товар на склад организации, после чего этот товар отгружается в адрес клиента либо отдельно, либо вместе с другими товарами по другому заказу.  

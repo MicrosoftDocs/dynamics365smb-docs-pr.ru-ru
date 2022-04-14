@@ -10,12 +10,12 @@ ms.search.keywords: ''
 ms.search.form: 393, 7382
 ms.date: 06/25/2021
 ms.author: edupont
-ms.openlocfilehash: 965a87d731a2e1d9cb2ae390add4536c77c6824c
-ms.sourcegitcommit: 5a02f8527faecdffcc54f9c5c70cefe8c4b3b3f4
+ms.openlocfilehash: aa3c8b246d83ac222b4ceeb43124c835ca955850
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/04/2022
-ms.locfileid: "8381040"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8520608"
 ---
 # <a name="move-items-ad-hoc-in-basic-warehouse-configurations"></a>Перемещение специальных товаров в базовых конфигурациях склада
 Иногда может потребоваться переместить товары между внутренними ячейками, ячейками без приемки или ячейками отгрузки без определенного требования из документа-источника. Можно выполнить эти специальные передвижения, например, чтобы реорганизовать товары на складе, переместить товары в зону осмотра либо переместить дополнительные товары в область производства или из нее без привязки системы к документу-источнику производственного заказа.  
@@ -74,7 +74,7 @@ ms.locfileid: "8381040"
 [Наличие](inventory-manage-inventory.md)  
 [Настройка управления складом](warehouse-setup-warehouse.md)     
 [Управление сборкой](assembly-assemble-items.md)    
-[Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
+[Сведения о проектировании: Warehouse Management](design-details-warehouse-management.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
 
 

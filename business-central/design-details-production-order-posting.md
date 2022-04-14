@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/08/2021
 ms.author: edupont
-ms.openlocfilehash: 21dfc90e25c33c26bc739ff32274d0a5088a6e2f
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 51d04edb267ba2d75b4ed57d1587b40994f009cc
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8146570"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8511705"
 ---
 # <a name="design-details-production-order-posting"></a>Сведения о проектировании: учет производственного заказа
 Аналогично учету заказа на сборку использованные компоненты и использованное время машины преобразуются и выпускаются как произведенный товар по завершении производственного заказа. Дополнительные сведения см. в разделе [Сведения о проектировании: учет заказа на сборку](design-details-assembly-order-posting.md). Однако поток затрат для заказов на сборку менее сложен, в частности из-за того, что учет себестоимости сборки выполняется только один раз и поэтому не создает запасы НЗП.

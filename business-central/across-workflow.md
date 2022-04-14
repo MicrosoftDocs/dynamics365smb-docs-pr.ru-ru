@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/11/2021
 ms.author: edupont
-ms.openlocfilehash: 02f03c3b3423de2b78aea7f4e61c65c968290341
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 9cfdcc9bbf8e24675c6894b8ca2efbf10129d990
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8130883"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8511185"
 ---
 # <a name="workflows-in-dynamics-365-business-central"></a>Рабочие процессы в Dynamics 365 Business Central
 

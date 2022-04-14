@@ -10,12 +10,12 @@ ms.search.keywords: relationship, prospect
 ms.search.forms: 5122, 5121, 5120, 5175, 5119
 ms.date: 04/01/2021
 ms.author: jswymer
-ms.openlocfilehash: 5eb180d1190e56dc7a43354b5aef2637500a38be
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: bc42d30cfbfd664ec3d60576f21f4e7cbf3967e8
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8148438"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8522932"
 ---
 # <a name="set-up-opportunity-sales-cycles-and-cycle-stages"></a>Настройка циклов возможных продаж и этапов циклов
 Прежде чем начать использовать возможностей продаж, необходимо настроить циклы продаж и их этапы. Цикл продаж состоит из последовательности этапов от первого контакта до закрытия продаж. Каждый этап может содержать определенные требования, которые должны быть соблюдены, такие как обязательное наличие предложения по продаже перед переходом к следующей стадии. Можно также указать, можно ли пропустить этап. Можно настроить столько циклов продаж, сколько требуется, а также необходимое количество этапов цикла продаж в каждом цикле.

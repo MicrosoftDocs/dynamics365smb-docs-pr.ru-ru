@@ -6,31 +6,31 @@ ms.topic: landing-page
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.date: 09/29/2021
+ms.date: 01/28/2022
 ms.author: edupont
-ms.openlocfilehash: 398f9a221dbdbdf2889d847b2d26db7faec23ff0
-ms.sourcegitcommit: 6d48c1f601ed22b6b0358311baf63c073ab75e64
+ms.openlocfilehash: 0a901fca9da818459e8c94735c041dfbafff9471
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/01/2022
-ms.locfileid: "8367206"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8518133"
 ---
 # <a name="welcome-to-prod_long"></a>Добро пожаловать в [!INCLUDE[prod_long](includes/prod_long.md)]
 
-[!INCLUDE[prod_short](includes/prod_short.md)] — это решение по управлению деятельностью для малых и средних предприятий, позволяющее автоматизировать и упростить бизнес процессы и лучше управлять бизнесом. Легко настраиваемое, с множеством полезных функций, [!INCLUDE[prod_short](includes/prod_short.md)] позволяет организациям управлять деятельностью, включая финансы, производство, продажи, отгрузку, управление проектом, оказание услуг и т. д. Решение позволяет легко добавлять функциональность, специфическую для региона, в котором осуществляется деятельность, а также для сферы деятельности организации.  
+[!INCLUDE[prod_short](includes/prod_short.md)] — это решение по управлению деятельностью для малых и средних предприятий, позволяющее автоматизировать и упростить бизнес процессы и лучше управлять бизнесом. Легко настраиваемое, с множеством полезных функций, [!INCLUDE[prod_short](includes/prod_short.md)] позволяет организациям управлять деятельностью, включая финансы, производство, продажи, отгрузку, управление проектом, оказание услуг и т. д. Решение позволяет легко добавлять функциональность, специфическую для региона, в котором осуществляется деятельность, а также для сферы деятельности организации. [!INCLUDE[prod_short](includes/prod_short.md)] быстрота реализации, удобство настройки и простота определяли и продолжают определять направление инноваций в области проектирования, разработки и внедрения программных продуктов, а также удобства эксплуатации.  
 
-[Узнайте, как получить бесплатную пробную версию здесь](trial-signup.md).  
-
-Если у вас уже есть [!INCLUDE[prod_short](includes/prod_short.md)], то войдите на [https://businesscentral.dynamics.com](https://businesscentral.dynamics.com). В противном случае, [просмотрите обзор](https://dynamics.microsoft.com/business-central/overview/), [пройдите тур с гидом](https://dynamics.microsoft.com/en-us/guidedtour/dynamics/business-central/1/1), затем [начните бесплатный пробный период](https://go.microsoft.com/fwlink/?linkid=847861). См. [статьи с краткими руководствами](quick-start-business-central.md), чтобы лучше узнать [!INCLUDE [prod_short](includes/prod_short.md)]. Дополнительные сведения об адаптации к [!INCLUDE[prod_short](includes/prod_short.md)] см. в разделе [Подготовьтесь к ведению бизнеса](ui-get-ready-business.md).  
+Если у вас уже есть [!INCLUDE[prod_short](includes/prod_short.md)], то войдите на [https://businesscentral.dynamics.com](https://businesscentral.dynamics.com). В противном случае, [просмотрите обзор](https://dynamics.microsoft.com/business-central/overview/), [пройдите тур с гидом](https://dynamics.microsoft.com/en-us/guidedtour/dynamics/business-central/1/1), затем [начните бесплатный пробный период](trial-signup.md). См. [статьи с краткими руководствами](quick-start-business-central.md), чтобы лучше узнать [!INCLUDE [prod_short](includes/prod_short.md)]. Дополнительные сведения об адаптации к [!INCLUDE[prod_short](includes/prod_short.md)] см. в разделе [Подготовьтесь к ведению бизнеса](ui-get-ready-business.md).  
 
 > [!TIP]
 > Вы перешли сюда из [!INCLUDE [prod_short](includes/prod_short.md)]? Если вы не уверены, где найти то, что ищете, вы можете **фильтровать по заголовкам** в панели навигации слева, или вы можете использовать поле **Поиск** в верхней части окна браузера.  
 >
 > Вы также можете использовать возможности поиска в [!INCLUDE [prod_short](includes/prod_short.md)], чтобы найти соответствующую документацию. Дополнительные сведения см. в разделе [Поиск страниц и информации с помощью функции "Что вы хотите сделать"](ui-search.md).
 
-## <a name="overview"></a>Обзор
+[!INCLUDE [ua-get-help](includes/ua-get-help.md)]
 
-[!INCLUDE[prod_short](includes/prod_short.md)] быстрота реализации, удобство настройки и простота определяли и продолжают определять направление инноваций в области проектирования, разработки и внедрения программных продуктов, а также удобства эксплуатации. На панели навигации слева вы можете найти информацию об использовании [!INCLUDE[prod_short](includes/prod_short.md)] в вашей компании. Найдите ссылки на описания наиболее часто используемых возможностей в разделе [Бизнес-процессы](#business-processes).  
+## <a name="microsoft-docs"></a>Документация Майкрософт
+
+На панели навигации слева вы можете найти информацию об использовании [!INCLUDE[prod_short](includes/prod_short.md)] в вашей компании. Найдите ссылки на описания наиболее часто используемых возможностей в разделе [Бизнес-процессы](#business-processes). См. также раздел [Использование сайта docs.microsoft.com, чтобы узнать больше](product-help-and-support.md#use-the-docsmicrosoftcom-site-to-learn-more).  
 
 [!INCLUDE [ua-get-help](includes/ua-get-help.md)]
 
@@ -106,6 +106,7 @@ ms.locfileid: "8367206"
 [Получение [!INCLUDE[prod_short](includes/prod_short.md)] на мобильном устройстве](install-mobile-app.md)  
 [Работа с измерениями](finance-dimensions.md)  
 [Ресурсы для справки и поддержки](product-help-and-support.md)  
+[Использование сайта docs.microsoft.com, чтобы узнать больше](product-help-and-support.md#use-the-docsmicrosoftcom-site-to-learn-more)  
 [Соответствие [!INCLUDE[prod_short](includes/prod_short.md)]](compliance/compliance-overview.md)  
 [Условия использования службы [!INCLUDE[prod_short](includes/prod_short.md)] Online](compliance/compliance-service-compliance.md#service-terms)  
 [Основные и незначительные обновления Business Central Online](/dynamics365/business-central/dev-itpro/administration/update-rollout-timeline)  

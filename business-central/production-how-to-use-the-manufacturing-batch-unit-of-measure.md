@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/25/2021
 ms.author: edupont
-ms.openlocfilehash: 6e7d188adceffbc6044162e14de5cbb141c21b54
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: abf8fd20f15f02edad3f451da04729dfd2824bd4
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8137501"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8514443"
 ---
 # <a name="work-with-manufacturing-batch-units-of-measure"></a>Работа с единицами измерения производственной партии
 Если при хранении товара используется одна единица измерения, а при производстве — другая, может быть создан производственный заказ, в котором единица измерения производственной партии используется для расчета правильного количества компонентов при выполнении пакетного задания **Обновление произв. заказа**. Примером расчета единицы измерения производственной партии является ситуация, когда хранение товара на складе осуществляется поштучно, а производство — в тоннах.  
@@ -48,7 +48,7 @@ ms.locfileid: "8137501"
 [Настройка производства](production-configure-production-processes.md)  
 [Производство](production-manage-manufacturing.md)    
 [Планирование](production-planning.md)   
-[Наличие](inventory-manage-inventory.md)  
+[Запасы](inventory-manage-inventory.md)  
 [Покупки](purchasing-manage-purchasing.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 

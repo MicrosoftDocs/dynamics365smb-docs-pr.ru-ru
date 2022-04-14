@@ -10,12 +10,12 @@ ms.search.keywords: repair, service
 ms.search.form: 5600, 5642
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: e55b85397ca50995870ab86ed40421bbb0b4cb6d
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 05a9348d08a3255b3e2b438a540fc7a84de26b0d
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8147860"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8518185"
 ---
 # <a name="set-up-fixed-asset-maintenance"></a>Настройка обслуживания основного средства
 Для управления обслуживанием основных средств следует сначала настроить некоторые общие сведения об обслуживании, счета учета для затрат на обслуживание, а также коды обслуживания для различных типов работ, например планового обслуживания или ремонта.

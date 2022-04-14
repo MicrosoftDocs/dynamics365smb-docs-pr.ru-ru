@@ -10,12 +10,12 @@ ms.search.keywords: ''
 ms.search.form: 9020, 9022, 9026, 9027, 9030, 9000, 9004, 9005, 9018, 9006, 9007, 9010, 9016, 9017
 ms.date: 06/23/2021
 ms.author: edupont
-ms.openlocfilehash: 5cc5f6039a25161267127f40f4f3077725c5d0bc
-ms.sourcegitcommit: cdb57f14960f58b1d36a1b373fbf35dfed5fad9e
+ms.openlocfilehash: 5da6070b00d635cba1aa2cbd7bb282d226d96023
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/23/2022
-ms.locfileid: "8334932"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8521706"
 ---
 # <a name="bookmark-a-page-or-report-on-your-role-center"></a>Добавление закладки на страницу или отчет в ролевом центре
 С помощью нового значка закладки вы можете добавить действие, которое открывает страницу или отчет из меню навигации ролевого центра. Закладки позволяют быстро открывать нужный контент или бизнес-задачи. Закладка добавляется с целевой страницы или отчета, т. е. с экрана, который должна открывать ссылка в ролевом центре.

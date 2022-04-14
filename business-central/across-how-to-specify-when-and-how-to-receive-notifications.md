@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/11/2021
 ms.author: edupont
-ms.openlocfilehash: 3f663ca22cdcfde38b42ac0285eaf403a9e0982d
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 261e2908f7f7ed3a47a337b2c3f49d7c633f1cce
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8129171"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8522356"
 ---
 # <a name="specify-when-and-how-to-receive-workflow-notifications"></a>Определение сроков и порядка получения уведомлений о рабочих процессах
 Когда вы настраиваете утверждающих пользователей в рабочих процессах, где вы хотите, чтобы кто-то утверждал изменения, например, когда создаются новые записи или когда кто-то запрашивает утверждение, вы должны указать, как и когда утверждающий пользователь будет уведомлен. Например, вы можете указать, что утвержденный пользователь будет немедленно получать электронное письмо, когда кто-то создает нового клиента. Кроме того, вы можете запланировать доставку уведомлений, например, еженедельно или ежемесячно.

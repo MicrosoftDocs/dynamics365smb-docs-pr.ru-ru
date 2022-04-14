@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/23/2021
 ms.author: edupont
-ms.openlocfilehash: bee576ce77411e15710e9f09ccbc6ef457f80728
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: e195e6658bc495b5d06764114d971c9fc4b7b484
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8145450"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8522620"
 ---
 # <a name="date-calculation-for-sales"></a>Расчет даты для продаж
 [!INCLUDE[prod_short](includes/prod_short.md)] автоматически вычисляет наиболее раннюю дату, на которую может быть произведена отгрузка товара, указанного в строке заказа за продажу.

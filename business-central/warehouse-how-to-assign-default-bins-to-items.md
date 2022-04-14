@@ -10,12 +10,12 @@ ms.search.keywords: ''
 ms.search.form: 7371, 7374, 7379
 ms.date: 06/25/2021
 ms.author: edupont
-ms.openlocfilehash: 6802009029d8eea434e7c5096f4efb591ee4993b
-ms.sourcegitcommit: 5a02f8527faecdffcc54f9c5c70cefe8c4b3b3f4
+ms.openlocfilehash: ac50c7cf8aaf68ab0846a79788bb13e63a3c8b50
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/04/2022
-ms.locfileid: "8382745"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8513371"
 ---
 # <a name="assign-default-bins-to-items"></a>Присвоение товарам стандартных ячеек
 Если на складе используются ячейки, присвоение товарам стандартных ячеек может значительно облегчить процесс отгрузки, приемки и перемещения товаров. Когда товару присваивается стандартная ячейка, она будет предлагаться в начале каждой транзакции для этого товара. Стандартные ячейки задаются на странице **Содержимое ячейки**.  

@@ -10,12 +10,12 @@ ms.search.keywords: delete, data, retention, policy, policies
 ms.search.form: 3903, 3901
 ms.date: 04/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: 1abd02f7c70e8fe624e7d8b18ec7b7cb8b7c2c9e
-ms.sourcegitcommit: 5a02f8527faecdffcc54f9c5c70cefe8c4b3b3f4
+ms.openlocfilehash: a6fee7aedd8fca20e032bc3ac67e5f9e26d1fb22
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/04/2022
-ms.locfileid: "8383943"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8517086"
 ---
 # <a name="define-retention-policies"></a>Определение политик хранения
 Администраторы могут определять политики хранения, чтобы указать, как часто они хотят, чтобы [!INCLUDE[prod_short](includes/prod_short.md)] удалял устаревшие данные в таблицах, содержащих записи журнала и архивные записи. Например, очистка записей журнала может упростить работу с действительно важными данными. Политики могут включать все данные в таблицах, срок действия которых истек, или вы можете добавить критерии фильтрации, которые будут включать в политику только определенные просроченные данные. 

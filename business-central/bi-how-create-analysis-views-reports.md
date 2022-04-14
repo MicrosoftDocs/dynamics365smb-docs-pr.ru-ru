@@ -10,12 +10,12 @@ ms.search.keywords: bi, power BI, analysis, KPI
 ms.search.form: 555, 556, 557, 558, 9372, 9370, 9371
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: d874c55108a985cd4076e2bbcc8eec53287db008
-ms.sourcegitcommit: cdb57f14960f58b1d36a1b373fbf35dfed5fad9e
+ms.openlocfilehash: c5b77c97edc202c90cf82b5820a31fa99cf97b8e
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/23/2022
-ms.locfileid: "8335504"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8512390"
 ---
 #  <a name="create-analysis-reports"></a>Создание аналитических отчетов
 Менеджеры продаж должны регулярно анализировать товарооборот, общую прибыль и другие важные показатели, характеризующие процесс продаж. В свою очередь, для менеджеров больший интерес представляют сведения о динамике объемов покупок, выполнении поставщиками своих обязательств, а также информация о ценах покупки. Для складских менеджеров и менеджеров, занимающихся вопросами логистики, необходима информация об обороте товаров на складе, движении запасов и статистике значений склада.  

@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: sales, crm, integration, sync, synchronize, table mapping
 ms.date: 04/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: dfae531d49166d3a95c841cfc27e7f73e181072d
-ms.sourcegitcommit: 5a02f8527faecdffcc54f9c5c70cefe8c4b3b3f4
+ms.openlocfilehash: b0d7382cbc831ff856dc8d75bb776fc9f9ee022a
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/04/2022
-ms.locfileid: "8383141"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8515749"
 ---
 # <a name="mapping-the-tables-and-fields-to-synchronize"></a>Сопоставление таблиц и полей для синхронизации
 
@@ -85,7 +85,7 @@ ms.locfileid: "8383141"
 
 2.  В операции сопоставления таблицы в списке удалите значение в поле **Синхр. только связанные записи**.  
 
-## <a name="using-configuration-templates-on-table-mappings"></a>Использование шаблонов конфигурации для сопоставлений таблицы
+## <a name="use-configuration-templates-on-table-mappings"></a>Использование шаблонов конфигурации для сопоставлений таблицы
 Шаблоны конфигурации можно назначить для сопоставлений таблицы, чтобы они использовали новые записи или строки, созданные в [!INCLUDE[prod_short](includes/prod_short.md)] или [!INCLUDE[prod_short](includes/cds_long_md.md)]. Для каждого сопоставления таблицы можно задать шаблон конфигурации, чтобы он использовался для новых записей [!INCLUDE[prod_short](includes/prod_short.md)], и другой шаблон, который должен использовать новые строки [!INCLUDE[prod_short](includes/cds_long_md.md)].  
 
 При установке настройки синхронизации по умолчанию, в большинстве случаев буду автоматически созданы два шаблона конфигурации и применены для сопоставления таблицы для клиентов [!INCLUDE[prod_short](includes/prod_short.md)] и организаций [!INCLUDE[crm_md](includes/crm_md.md)]: **CDSCUST** и **CDSACCOUNT**.  

@@ -5,14 +5,14 @@ author: edupont04
 ms.topic: conceptual
 ms.search.keywords: setup, reporting
 ms.search.form: 306, 307, 347, 385, 524, 865, 5932, 7401, 7355, 99000917
-ms.date: 04/01/2021
+ms.date: 03/11/2022
 ms.author: edupont
-ms.openlocfilehash: 16ad3480c10da544c7fdd3a6a299dc6d86cfce46
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 35cd5f86eeee3eecd24f63d37f8d43191dbd9be8
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8134060"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8512457"
 ---
 # <a name="report-selection-in-business-central"></a>Выбор отчета в Business Central
 
@@ -43,6 +43,7 @@ ms.locfileid: "8134060"
 * **Выбор отчета — склад**  
 * **Выбор отчета — банковский счет**  
 * **Выбор отчетов — напоминание/процент-нота**  
+* **Выбор отчета - работа**  
 
 ## <a name="example-report-selection-for-sales-documents"></a>Пример. Выбор отчета для документов на продажу
 
@@ -68,6 +69,15 @@ ms.locfileid: "8134060"
 [Управление макетами отчетов и документов](ui-manage-report-layouts.md)  
 [Определение макетов документов для клиентов и поставщиков](ui-define-customer-vendor-document-layouts.md)  
 [Настройка принтеров](ui-specify-printer-selection-reports.md)  
-
+[Финансовые отчеты и аналитика в Business Central](finance-reports.md)  
+[Отчеты и аналитика по дебиторской задолженности в Business Central](receivables-reports.md) 
+[Отчеты и аналитика по кредиторской задолженности в Business Central](payables-reports.md)  
+[Отчеты и аналитика по ОС в Business Central](fa-reports.md)  
+[Проектные отчеты и аналитика в Business Central](project-reports.md)  
+[Отчеты о покупках и аналитика в Business Central](sales-reports.md)  
+[Отчеты о покупках и аналитика в Business Central](purchase-reports.md)  
+[Отчеты и аналитика запасов и склада в Business Central](inventory-WMS-reports.md)  
+[Отчеты по сборке и аналитика в Business Central](assembly-reports.md)  
+[Производственные отчеты и аналитика в Business Central](production-reports.md)  
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

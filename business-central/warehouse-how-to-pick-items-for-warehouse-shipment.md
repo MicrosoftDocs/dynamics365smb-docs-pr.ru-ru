@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 7335c388efc48f3c9a04238e7727817f28a7757f
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 5d46916a96a55cf71c6b018fc66b4165c742b632
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8128528"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8518579"
 ---
 # <a name="pick-items-for-warehouse-shipment"></a>Подбор товаров для складской отгрузки
 Если склад настроен так, что требуется обработка как складского подбора, так и складской отгрузки, то для создания и обработки информации о подборе до учета складской отгрузки используются документы складского подбора.  
@@ -77,7 +77,7 @@ ms.locfileid: "8128528"
 [Наличие](inventory-manage-inventory.md)  
 [Настройка управления складом](warehouse-setup-warehouse.md)     
 [Управление сборкой](assembly-assemble-items.md)    
-[Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
+[Сведения о проектировании: Warehouse Management](design-details-warehouse-management.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
 
 

@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.form: 5430
 ms.date: 07/16/2021
 ms.author: edupont
-ms.openlocfilehash: 14048cfe4d18df0002f51dacac658a6c07bc0155
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 693e7a3a5970e681840332f7b6899f1867e36bd1
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8135111"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8512260"
 ---
 # <a name="about-planning-functionality"></a>О функциональности планирования
 
@@ -168,9 +168,9 @@ ms.locfileid: "8135111"
 [Планирование](production-planning.md)  
 [Настройка производства](production-configure-production-processes.md)  
 [Производство](production-manage-manufacturing.md)  
-[Наличие](inventory-manage-inventory.md)  
+[Запасы](inventory-manage-inventory.md)  
 [Покупки](purchasing-manage-purchasing.md)  
-[Рекомендации по настройке: планирование поставок](setup-best-practices-supply-planning.md)  
+[Рекомендации по настройке. Планирование поставок](setup-best-practices-supply-planning.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
 
 

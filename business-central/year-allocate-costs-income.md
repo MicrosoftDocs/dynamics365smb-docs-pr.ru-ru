@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.form: 283, 5629
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 9f378289f5e6351b431a871110a778b4df8793bb
-ms.sourcegitcommit: 6d48c1f601ed22b6b0358311baf63c073ab75e64
+ms.openlocfilehash: 91741eea4d2ba780e7493e6aff256238bd542769
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/01/2022
-ms.locfileid: "8367102"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8511368"
 ---
 # <a name="allocate-costs-and-income"></a>Распределить затраты и доход
 
@@ -27,7 +27,7 @@ ms.locfileid: "8367102"
 Функция распределения может использоваться с типовыми финансовыми журналами и в журналах основных средств.
 <!--You can also distribute the cost or revenue of a line to an intercompany partner when you post a sales or purchase document. When you post the document, a line will be posted in your general journal, and a corresponding line will be created in the intercompany outbox.-->
 
-Далее описана процедура подготовки к распределению затрат в типовом финансовом журнале путем определения ключей распределения. После определения ключей распределения вы выполняете и учитываете журнал как любой другой типовой финансовый журнал. Дополнительные сведения см. в разделе [Работа с финансовыми журналами](ui-work-general-journals.md).
+Далее описана процедура подготовки к распределению затрат в типовом финансовом журнале путем определения ключей распределения. После определения ключей распределения вы выполняете и учитываете журнал как любой другой типовой финансовый журнал. Дополнительные сведения прочитайте в разделе [Работа с финансовыми журналами](ui-work-general-journals.md).
 
 ## <a name="to-set-up-allocation-keys"></a>Настройка ключей распределения
 

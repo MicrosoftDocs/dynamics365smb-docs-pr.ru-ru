@@ -1,28 +1,29 @@
 ---
 title: Сбор значений настройки клиента
-description: Анкета конфигурации помогает сократить внедрение, упрощая создание новых компаний и предоставляя клиентам файл Excel или XML.
+description: Если вы хотите использовать RapidStart Services, анкета конфигурации помогает сократить внедрение, упрощая создание новых компаний и предоставляя клиентам файл Excel или XML.
 author: SorenGP
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: ''
+ms.search.form: 8610, 8613
 ms.date: 06/14/2021
 ms.author: edupont
-ms.openlocfilehash: d26fb334462ad52a14058e8d5f6b9f86088ad3d7
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 91c13c5b0fb67befd0c03e2662c545ff8231e6da
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8145974"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8518393"
 ---
-# <a name="gather-customer-setup-values"></a>Сбор значений настройки клиента
+# <a name="gather-customer-setup-values-with-rapidstart-services"></a>Сбор значений настройки клиента с RapidStart Services
 Анкета конфигурации используется для упрощения снижения рабочей нагрузки благодаря оптимизации настройки новой организации. Можно сгенерировать анкету конфигурации в [!INCLUDE[prod_short](includes/prod_short.md)], а затем передать ее клиенту в файле Excel или XML.  
 
 Можно изменить все значения по умолчанию в анкете на более точно соответствующие нуждам клиента.  
 
 > [!TIP]  
->  Дополнительные сведения об определении значений настройки в полях планирования поставок см. в разделе [Рекомендации по настройке: планирование поставок](setup-best-practices-supply-planning.md).  
+> Дополнительные сведения об определении значений настройки в полях планирования поставок см. в разделе [Рекомендации по настройке: планирование поставок](setup-best-practices-supply-planning.md).  
 
 Когда клиент заполняет анкету, вы импортируете файл в новую организацию [!INCLUDE[prod_short](includes/prod_short.md)] клиента. Вы и ваш клиент проверяете ответы на анкету, прежде чем применить их к организации.
 

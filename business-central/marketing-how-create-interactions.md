@@ -11,12 +11,12 @@ ms.search.keywords: relationship, prospect
 ms.search.forms: 5077, 5078, 5074, 5076, 5186, 5075, 5079
 ms.date: 04/01/2021
 ms.author: jswymer
-ms.openlocfilehash: 273df19ec77f54e923b552b75986237635c40600
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: f0e0660d1a93e462af3a7a74ccd1d6420ef86c3d
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8131461"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8522906"
 ---
 # <a name="create-interactions-on-contacts-and-segments"></a>Создание взаимодействий для контактов и сегментов
 Можно создавать взаимодействия для того, чтобы регистрировать все взаимодействия и коммуникации с контактами и сегментами, например, прямые почтовые рассылки.
@@ -49,7 +49,7 @@ ms.locfileid: "8131461"
 Если установлен флажок в поле **Создать контрольный сегмент**, программа автоматически создает новый сегмент, содержащий те же контакты, что и только что зарегистрированный.
 
 ## <a name="see-also"></a>См. также
-[Запись взаимодействий](marketing-interactions.md)  
+[Регистрация взаимодействий](marketing-interactions.md)  
 [Управление контактами](marketing-contacts.md)  
 [Управление возможностями продаж](marketing-manage-sales-opportunities.md)  
 [Работа с Business Central](ui-work-product.md)

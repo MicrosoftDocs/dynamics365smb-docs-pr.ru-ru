@@ -10,12 +10,12 @@ ms.search.keywords: warehouse, stock
 ms.search.form: 30, 461
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 4e5c1ef77c9053bb47ab3f800b3524bf24b6a7be
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 90d0a563fa9be14bcc2aaa5a3dceb4d05bcff840
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8148464"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8512944"
 ---
 # <a name="setting-up-inventory"></a>Настройка запасов
 Прежде чем приступать к управлению складскими операциями и учетом стоимости товаров, необходимо настроить правила и значения, которые определяют политики запасов в компании.

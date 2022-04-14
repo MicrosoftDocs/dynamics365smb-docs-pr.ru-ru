@@ -9,14 +9,15 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 841d57ec0e5897ee0395e498ed24dc19b4fcbaea
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: e142f8aef14ea82d67de0c51a996e4f6a6b43dbf
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8143938"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8513178"
 ---
-# <a name="set-up-company-configuration"></a>Настройка конфигурации организации
+# <a name="set-up-company-configuration-with-rapidstart-services"></a>Настройка конфигурации организации с RapidStart Services
+
 Процесс внедрения начинается с партнера Майкрософт. Как партнер, вы отвечаете за продумывание подробностей конфигурации и создание пакета, который клиент может легко применить. Перед созданием новой организации в сетевой или локальной версии [!INCLUDE [prod_short](includes/prod_short.md)] следует спланировать ее настройку. Необходимо учитывать основные данные настройки и типы данных, которые будет запрашивать решение [!INCLUDE[prod_short](includes/prod_short.md)]. Вся эта информация включается в пакеты конфигураций.
 
 Службы RapidStart Services также предоставляют вам средства, которые вы будете использовать для миграции любых старых данных, таких как клиенты и поставщики.  

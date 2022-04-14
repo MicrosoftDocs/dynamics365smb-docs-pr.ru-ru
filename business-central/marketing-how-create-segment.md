@@ -1,22 +1,21 @@
 ---
-title: Создание сегментов | Документация Майкрософт
+title: Создание сегментов
 description: Далее описывается процедура создания сегмента для группы контактов в Business Central, например, чтобы обращаться к нескольким контактам с помощью прямой почтовой рассылки.
-services: project-madeira
-documentationcenter: ''
 author: jswymer
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: relationship, prospect
+ms.search.form: 5091, 5093
 ms.date: 04/01/2021
 ms.author: jswymer
-ms.openlocfilehash: a6aaabb50d3bb24036d7f94c413103348134f9a4
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 018b0519378c5066173aa00a285b2b26a9967c65
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8131438"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8522958"
 ---
 # <a name="create-segments"></a>Создание сегментов
 Для выбора группы контактов можно создать сегменты, например, если требуется создать взаимодействие, в которое вовлечены несколько контактов, таких как прямая почтовая рассылка.

@@ -10,12 +10,12 @@ ms.search.keywords: barcode
 ms.search.form: 7700, 7703, 7704, 7706, 7707, 7710, 9813, 9814
 ms.date: 06/25/2021
 ms.author: edupont
-ms.openlocfilehash: 88f0fdefa640cb96316e0958279513211f6abf4d
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: cf0ac9f90efe234b73d4509e50502ca37dcf458e
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8144259"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8514703"
 ---
 # <a name="use-automated-data-capture-systems-adcs"></a>Использование автоматизированных систем сбора данных (ADCS)
 
@@ -120,7 +120,7 @@ ms.locfileid: "8144259"
 [Запасы](inventory-manage-inventory.md)  
 [Настройка управления складом](warehouse-setup-warehouse.md)     
 [Управление сборкой](assembly-assemble-items.md)    
-[Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
+[Сведения о проектировании: Warehouse Management](design-details-warehouse-management.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
 
 

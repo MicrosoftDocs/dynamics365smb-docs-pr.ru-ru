@@ -9,12 +9,12 @@ ms.workload: na
 ms. search.keywords: VAT, value added tax, report
 ms.date: 04/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: f385cd6dc2186a2e492eb7c045639ec34185237c
-ms.sourcegitcommit: 5a02f8527faecdffcc54f9c5c70cefe8c4b3b3f4
+ms.openlocfilehash: 7d040289fbcf85b67c32147e56f13797e3bd5447
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/04/2022
-ms.locfileid: "8382561"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8519574"
 ---
 # <a name="the-vat-group-management-extension"></a>Расширение для управления группой НДС
 
@@ -91,7 +91,7 @@ ms.locfileid: "8382561"
 
   Например, в Соединенном Королевстве конфигурация отчета по НДС будет настроена так, чтобы сообщать НДС в HMRC. Расширение управления группой НДС копирует эту настройку, но заменяет codeunit отправки кодом, который поддерживает отправку представителю группы НДС, а не налоговым органам. codeunit предоставляется Microsoft. По завершении нажмите **Далее**.
 
-## <a name="using-the-vat-group-management-features"></a>Использование функций управления группой НДС
+## <a name="use-the-vat-group-management-features"></a>Использование функций управления группой НДС
 
 Участники группы НДС используют стандартные процессы для подготовки деклараций по НДС. Единственная разница — выбрать версию отчета **VATGROUP**, которая отправляет декларацию по НДС представителю группы НДС, а не налоговым органам. Дополнительные сведения см. в разделе [Об отчете о возврате НДС](finance-how-report-vat.md#vatreturn).
 

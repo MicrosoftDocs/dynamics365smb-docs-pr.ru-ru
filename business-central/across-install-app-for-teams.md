@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: Teams, MS Teams, Microsoft Teams, Skype, Link, Microsoft 365, collaborate, collaboration, teamwork
 ms.date: 04/12/2021
 ms.author: jswymer
-ms.openlocfilehash: e19db53137980b986dabc933ae56d33a5a768350
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: cd127d1b313a0c060ef676c74f0df83e01896b53
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8141519"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8516451"
 ---
 # <a name="install-the-prod_short-app-for-microsoft-teams"></a>Установите приложение [!INCLUDE [prod_short](includes/prod_short.md)] для Microsoft Teams
 
@@ -59,8 +59,8 @@ ms.locfileid: "8141519"
 4. Выберите приложение, когда найдете его.
 5. Нажмите **Добавить**.
 
-> [!NOTE]
-> В любом случае вас могут попросить войти в [!INCLUDE [prod_short](includes/prod_short.md)]. Выберите ссылку **Войти** и следуйте инструкциям, чтобы ввести имя для входа и пароль для [!INCLUDE [prod_short](includes/prod_short.md)].
+> [!TIP]
+> Если вы вставите ссылку на страницу Business Central в беседу группы и у вас не установлено приложение, вы получите сообщение вроде: **Business Central хочет показать предварительный просмотр этой ссылки.** Чтобы установить приложение, выберите **Показать предварительный просмотр** и следуйте инструкциям.
 
 **Вариант 3. Из Business Central**
 
@@ -68,6 +68,9 @@ ms.locfileid: "8141519"
 2. Выберите ![Лупа, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") введите **Получить приложение Business Central для Teams**, а затем выберите связанную ссылку.  
 3. Выберите **Получить приложение из магазина**.
 4. Подождите, пока откроется Teams и появится приложение Business Central, затем выберите **Добавить**.
+
+> [!NOTE]
+> В любом случае вас могут попросить войти в [!INCLUDE [prod_short](includes/prod_short.md)]. Выберите ссылку **Войти** и следуйте инструкциям, чтобы ввести имя для входа и пароль для [!INCLUDE [prod_short](includes/prod_short.md)].
 
 ## <a name="next-step"></a>Следующий шаг
 

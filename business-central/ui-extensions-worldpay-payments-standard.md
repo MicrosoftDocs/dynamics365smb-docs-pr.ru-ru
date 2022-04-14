@@ -10,12 +10,12 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.date: 06/23/2021
 ms.author: bholtorf
-ms.openlocfilehash: cdaa582e11d3d0deaabb7282da54f65c447013e1
-ms.sourcegitcommit: 5a02f8527faecdffcc54f9c5c70cefe8c4b3b3f4
+ms.openlocfilehash: 55dd366b65ee831989e09ea08f80b5d656993609
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/04/2022
-ms.locfileid: "8381384"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8521576"
 ---
 # <a name="the-worldpay-payments-standard-extension"></a>Расширение WorldPay Payments Standard
 Расширение WorldPay Payments Standard предоставляет клиентам удобную альтернативу осуществления платежей с помощью банковских переводов или кредитных карт. Кроме того, платежи, сделанные с помощью службы платежей, обычно поступают на банковский счет быстрее.

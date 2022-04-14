@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.form: 7374
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: b1332240d6c6b0e43bada158fe11e82d42e0119f
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: ef6b031cfb87c74a62da85d0c7073a91e5e176e9
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8144233"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8520529"
 ---
 # <a name="create-bin-contents"></a>Создание содержимого ячейки
 
@@ -62,7 +62,7 @@ ms.locfileid: "8144233"
 [Наличие](inventory-manage-inventory.md)  
 [Настройка управления складом](warehouse-setup-warehouse.md)  
 [Управление сборкой](assembly-assemble-items.md)  
-[Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
+[Сведения о проектировании: Warehouse Management](design-details-warehouse-management.md)  
 [Сведения о проектировании: настройка склада](design-details-warehouse-setup.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
 

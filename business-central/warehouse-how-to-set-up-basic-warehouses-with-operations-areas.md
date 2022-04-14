@@ -10,12 +10,12 @@ ms.search.keywords: ''
 ms.search.form: 6774, 6775, 6776
 ms.date: 06/25/2021
 ms.author: edupont
-ms.openlocfilehash: 7d64cb9cdba21d3a023c86fbb39e802a78945c2b
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 502ac0d10379166426014ea3bda0eedb1f6d601c
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8144207"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8512000"
 ---
 # <a name="set-up-basic-warehouses-with-operations-areas"></a>Настройка базовых складов с помощью зон операций
 Если область внутренних операций, например производство или сборка, существуют в рамках базовой конфигурации склада, в которой склады используют поле **Ячейка обязательна** и, возможно, поля настройки **Требуется подбор** и **Требуется размещение**, можно использовать следующие базовые складские документы для регистрации складских операций в областях внутренних операций.  
@@ -139,7 +139,7 @@ ms.locfileid: "8144207"
 [Наличие](inventory-manage-inventory.md)  
 [Настройка управления складом](warehouse-setup-warehouse.md)  
 [Управление сборкой](assembly-assemble-items.md)  
-[Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
+[Сведения о проектировании: Warehouse Management](design-details-warehouse-management.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 
 

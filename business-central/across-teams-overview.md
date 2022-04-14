@@ -7,14 +7,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: Teams, MS Teams, Microsoft Teams, Skype, Link, Microsoft 365, collaborate, collaboration, teamwork
-ms.date: 04/12/2021
+ms.date: 03/04/2022
 ms.author: jswymer
-ms.openlocfilehash: 1cbb122c313f60b79678d5e8ed3b186b52f25782
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 4ee154f242eebb65f9ef61453c8ff51c770f2713
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8138730"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8511237"
 ---
 # <a name="business-central-and-microsoft-teams-integration"></a>Интеграция Business Central и Microsoft Teams
 
@@ -44,7 +44,7 @@ ms.locfileid: "8138730"
 
 Скопируйте ссылку на любую запись Business Central и вставьте ее в беседу Teams, чтобы поделиться ею с коллегами. Приложение затем развернет ссылку в компактную интерактивную карточку, отображающую информацию о записи.
 
-[![Интеграция Teams с Business Central.](media/teams-intro-v3.png)](media/teams-intro-v3.png#lightbox)
+[![Интеграция Teams с Business Central.](media/teams-intro-vBC20.png)](media/teams-intro-vBC20.png#lightbox)
 
 После разговора вы и ваши коллеги можете просматривать дополнительные сведения о записи, редактировать данные и принимать меры — не выходя из Teams.
 
@@ -65,7 +65,7 @@ ms.locfileid: "8138730"
     Если вы не уверены, есть ли у вас такая учетная запись, или не знаете свои учетные данные для входа, обратитесь к администратору своей компании.
 
     > [!TIP]
-    > Если в вашей организации нет подписки на [!INCLUDE [prod_short](includes/prod_short.md)], вы можете зарегистрироваться на бесплатную пробную версию. Дополнительные сведения см. в разделе [Приступая к работе с пробной версией](across-preview.md#getting-started-with-a-trial).
+    > Если в вашей организации нет подписки на [!INCLUDE [prod_short](includes/prod_short.md)], вы можете зарегистрироваться на бесплатную пробную версию. Дополнительные сведения см. в разделе [Приступая к работе с пробной версией](across-preview.md#get-started-with-a-trial).
 
 2. Как администратор см. [Управление интеграцией Microsoft Teams с Business Central](admin-teams-integration.md) для получения информации о настройке пользователей для работы с [!INCLUDE [prod_short](includes/prod_short.md)] и Teams.
 3. Установка приложения [!INCLUDE [prod_short](includes/prod_short.md)] в Teams. См. [Установка приложения [!INCLUDE [prod_short](includes/prod_short.md)] для Microsoft Teams](across-install-app-for-teams.md).

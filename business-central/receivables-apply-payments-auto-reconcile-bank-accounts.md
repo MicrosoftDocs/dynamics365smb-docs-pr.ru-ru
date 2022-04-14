@@ -10,12 +10,12 @@ ms.search.keywords: payment process, direct payment posting, reconcile payment, 
 ms.search.form: 1290, 1291, 1293, 1294
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 9eb37571da51c0bab1fed0f6f62170208e7ee8c6
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: f19f2a449e90476ed77d144c1faf715f21777f5e
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8146180"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8522698"
 ---
 # <a name="applying-payments-automatically-and-reconciling-bank-accounts"></a>Автоматическое применение платежей и выверка банковских счетов
 Следует регулярно выверять банковский, дебетовый и кредитовый счета путем применения платежей, зарегистрированных на банковском счете, к связанным открытым (неоплаченным) счетам и кредит-нотам либо к другим открытым операциям в [!INCLUDE[prod_short](includes/prod_short.md)].  

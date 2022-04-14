@@ -10,14 +10,14 @@ ms.search.keywords: dates, reporting, filter, calendar, shorthand, range
 ms.search.form: 9020, 9022, 9026, 9027, 9030, 9000, 9004, 9005, 9018, 9006, 9007, 9010, 9016, 9017
 ms.date: 06/23/2021
 ms.author: edupont
-ms.openlocfilehash: 934fcefa552f01a05f95221d57d9a708b9acc26f
-ms.sourcegitcommit: 75a388b1d8917e2bbd49398ef76cf86cf37e6767
+ms.openlocfilehash: 010d130801dd68023eca4c3b65d716fa3ddcc8e8
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/17/2022
-ms.locfileid: "8323010"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8518865"
 ---
-# <a name="working-with-calendar-dates-and-times"></a>Работа с календарными датами и значениями времени
+# <a name="work-with-calendar-dates-and-times"></a>Работа с календарными датами и значениями времени
 
 [!INCLUDE[prod_short](includes/prod_long.md)] предлагает несколько способов ввода дат и времени, включая мощные функции, которые ускоряют ввод данных или помогают написать сложные выражения календаря. Имеются различные места в приложении, в которых можно ввести в полях даты и значения времени. Например, в заказе на продажу можно установить дату отгрузки. При фильтрации данных или подготовке отчета по данным можно ввести даты и время для выделения только данных, в которых вы заинтересованы.
 
@@ -63,12 +63,15 @@ The following sections describe how you can enter dates, times, datetimes, durat
 
 В поле даты можно ввести две, четыре, шесть или восемь цифр:
 
--   Если введены только две цифры, они будут интерпретированы как день, а месяц и год будут добавлены к рабочей даты.
+- Если введены только две цифры, они будут интерпретированы как день, а месяц и год будут добавлены к рабочей даты.
 
--   Если введены четыре цифры, они будут интерпретированы как день и месяц, к которым будет добавлен год рабочей даты. Порядок дня и месяца определяется настройками региона. Даже если ваши настройки региона имеют года до дня и месяца, четыре цифры интерпретируются как день и месяц.
+- Если введены четыре цифры, они будут интерпретированы как день и месяц, к которым будет добавлен год рабочей даты. Порядок дня и месяца определяется настройками региона. Даже если ваши настройки региона имеют года до дня и месяца, четыре цифры интерпретируются как день и месяц.
 
--   При вводе даты в интервале от 01.01.1930 до 31.12.2029 можно ввести две цифры года; в противном случае необходимо ввести все четыре цифры.
+- При вводе даты в интервале от 01.01.1950 до 31.12.2049 можно ввести две цифры года; в противном случае необходимо ввести все четыре цифры.
 
+  > [!NOTE]
+  > Если вы используете локальную версию [!INCLUDE[prod_short](includes/prod_short.md)] диапазон двухзначного года может быть другим. Администраторы могут изменить диапазон, изменив параметр **CalendarTwoDigitYearMax** сервера [!INCLUDE[prod_short](includes/prod_short.md)]. Дополнительные сведения см. в разделе [Настройка Business Central Server](/dynamics365/business-central/dev-itpro/administration/configure-server-instance#General).
+ 
 ### <a name="today"></a>Сегодня
 
 Введите слово для _сегодня_ на языке, указанном на странице **Мои настройки**, чтобы установить дату записи на сегодняшнюю дату. Вместо ввода всего слова можно ввести часть слова, начиная с начала, например. Например, на русском языке вы можете ввести _c_ или _сег_, если это не начало другого слова.
@@ -130,7 +133,7 @@ The following sections describe how you can enter dates, times, datetimes, durat
 
 Можно использовать любые допустимые форматы в фильтрах диапазона дат. Например, пон14 3..с 4п при применении к полю даты и времени дает фильтр с 3 утра в понедельник в неделю 14 года текущей рабочей даты, включительно, до 16:00 сегодня, включительно.
 
-## <a name="using-date-formulas"></a>Использование формул дат
+## <a name="use-date-formulas"></a>Формулы расчета дат
 Формула даты — это краткая сокращенная буквенно-числовая комбинация, задающая способ вычисления дат. Можно вводить формулы дат в различных вычисляемых полях расчета даты или фильтрах.
 
 > [!NOTE]
@@ -216,7 +219,7 @@ You can also combine the various format types.
 
 Note that we have used the US date format MMDDYY here. As [!INCLUDE[prod_short](includes/prod_short.md)] becomes available in other markets, you'll be able to use the formats that you are used to.
 
-## Using Date Formulas
+## Use Date Formulas
 A date formula is a short, abbreviated combination of letters and numbers that specifies how to calculate dates. You can enter date formulas in various date calculation fields and in recurring frequency fields in recurring journals.
 
 > [!NOTE]

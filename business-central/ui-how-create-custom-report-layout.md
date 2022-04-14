@@ -10,14 +10,16 @@ ms.search.keywords: customized report, document layout, logo, personalize
 ms.search.form: 9650, 9652
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 0b4642f6ca4c7701cbb49e8441debccfbd32b9be
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: d629b2639325b95ab90db8aaf8ac9a3e5d51fc33
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8134721"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8511445"
 ---
-# <a name="create-and-modify-custom-report-layouts"></a>Создание и изменение пользовательских макетов отчетов
+# <a name="legacy-create-and-modify-custom-report-layouts"></a>(Устарело) Создание и изменение пользовательских макетов отчетов
+
+[!INCLUDE[legacy-custom-layouts](includes/legacy-custom-layouts.md)]
 
 По умолчанию отчет будет иметь встроенный макет отчета RDLC или Word либо оба типа. Невозможно изменить встроенные макеты. Однако можно создать собственные пользовательские макеты, с помощью которых можно изменить внешний вид отчета при его просмотре, печати или сохранении. Можно создать несколько пользовательских макетов ответов для одного отчета, а затем при необходимости переключаться между макетами, которые используются в отчете.
 
@@ -63,56 +65,56 @@ ms.locfileid: "8134721"
 
 ### <a name="to-modify-a-custom-layout"></a>Изменение пользовательского макета
 
-1.  Экспорт пользовательского макета производится со страницы **Пользовательские макеты отчетов**. Если эта страница еще не открыта, выполните поиск и откройте страницу **Выбор макета отчета**, выберите отчет, содержащий макет, который вы хотите изменить, затем выберите действие **Пользовательские макеты**.  
-2.  На странице **Пользовательские макеты отчетов** выберите макет, который требуется изменить, выберите действие **Экспортировать макет**, затем выберите **Сохранить** или **Сохранить как**, чтобы сохранить документ макета отчета в папке компьютера или в сети.  
+1. Экспорт пользовательского макета производится со страницы **Пользовательские макеты отчетов**. Если эта страница еще не открыта, выполните поиск и откройте страницу **Выбор макета отчета**, выберите отчет, содержащий макет, который вы хотите изменить, затем выберите действие **Пользовательские макеты**.  
+2. На странице **Пользовательские макеты отчетов** выберите макет, который требуется изменить, выберите действие **Экспортировать макет**, затем выберите **Сохранить** или **Сохранить как**, чтобы сохранить документ макета отчета в папке компьютера или в сети.  
+3. Откройте сохраненный документ макета отчета и внесите изменения.
 
-3.  Откройте сохраненный документ макета отчета и внесите изменения.
+   Если вы изменяете макет Word, откройте документ макета в Word. Подробности редактирования см. в [Работа с макетами Word](ui-how-add-fields-word-report-layout.md)<!--the next section [Making Changes to the Report Layout](ui-how-create-custom-report-layout.md#MakeChangesToLayout)-->.
 
-      Если вы изменяете макет Word, откройте документ макета в Word. Подробнее о редактировании см. в следующем разделе [Изменение макета отчета](ui-how-create-custom-report-layout.md#MakeChangesToLayout).
+   Макеты отчета RDLC обеспечивают больше возможностей, чем макеты отчета Word. Дополнительные сведения об изменении макета отчета RDLC см. в разделе [Разработка макетов отчетов RDLC](/dynamics-nav/Designing-RDLC-Report-Layouts).
 
-      Макеты отчета RDLC обеспечивают больше возможностей, чем макеты отчета Word. Дополнительные сведения об изменении макета отчета RDLC см. в разделе [Разработка макетов отчетов RDLC](/dynamics-nav/Designing-RDLC-Report-Layouts).
+   По завершении обязательно сохраните изменения.
 
-      По завершении обязательно сохраните изменения.
-
-4.  Вернитесь на страницу **Пользовательские макеты отчетов**, выберите макет отчета, который вы экспортировали и изменили, затем выберите действие **Импортировать макет**.  
+4. Вернитесь на страницу **Пользовательские макеты отчетов**, выберите макет отчета, который вы экспортировали и изменили, затем выберите действие **Импортировать макет**.  
 
 5. В диалоговом окне **Импорт** выберите **Выбрать**, чтобы найти и выбрать измененный документ макета отчета, затем выберите **Открыть**.
 
 > [!IMPORTANT]
 > Не забудьте импортировать измененный документ макета отчета. В противном случае новый макет отчета будет недоступен.
 
-##  <a name="create-and-modify-custom-report-layouts"></a><a name="MakeChangesToLayout"></a> Создание и изменение пользовательских макетов отчетов
+<!--
+##  <a name="MakeChangesToLayout"></a> Create and Modify Custom Report Layouts
 
-Чтобы внести общие изменения формата и макета, такие как изменение шрифта текста, добавление и изменение таблицы или удаление поля данных, просто используйте базовые функции редактирования в Word, как это делается в обычных документах Word.
+To make general formatting and layout changes, such as changing text font, adding and modifying a table, or removing a data field, just use the basic editing features of Word, like you do with any Word document.
 
-При разработке макета отчета Word с нуля или добавлении новых полей данных сначала добавьте таблицу, включающую строки и столбцы, в которых, в конечном счете, будут содержаться поля данных.
+If you're designing a Word report layout from scratch or adding new data fields, then start by adding a table that includes rows and columns that will eventually hold the data fields.
 
 > [!TIP]  
-> Отобразите сетку таблицы, чтобы было видно границы ячеек таблицы. Не забудьте скрыть сетки при редактировании. Чтобы показать или скрыть сетки таблицы, выберите таблицу, а затем в разделе **Макет** на вкладке **Таблица** выберите **Отобразить сетку**.
+> Show the table gridlines so that you see the boundaries of table cells. Remember to hide the gridlines when you're done editing. To show or hide table gridlines, select the table, and then under **Layout** on the **Table** tab, choose **View Gridlines**.
 
-### <a name="embedding-fonts-in-word-layouts-for-consistency"></a>Внедрение шрифтов в макеты Word для единообразия
+### Embedding Fonts in Word Layouts for Consistency
 
-Чтобы отчеты всегда отображались и печатались с использованием предусмотренного шрифта, когда пользователь открывает или печатает отчеты, можно внедрить шрифты в документ Word. Однако внедренные шрифты значительно увеличивают размер файлов Word. Дополнительные сведения о внедрении шрифтов в Word см. в разделе [Внедрение шрифтов в Word, PowerPoint или Excel](https://support.office.com/article/Embed-fonts-in-Word-PowerPoint-or-Excel-cb3982aa-ea76-4323-b008-86670f222dbc).
+To ensure that reports always display and print with the intended fonts, wherever users open or print the reports, you can embed the fonts in the Word document. However, embedding fonts can significantly increase the size of the Word files. For more information about embedding fonts in Word, see [Embed fonts in Word, PowerPoint, or Excel](https://support.office.com/article/Embed-fonts-in-Word-PowerPoint-or-Excel-cb3982aa-ea76-4323-b008-86670f222dbc).
 
-###  <a name="removing-label-and-data-fields-in-word-layouts"></a><a name="RemoveField"></a> Удаление меток и полей данных в макетах Word
+###  <a name="RemoveField"></a> Removing Label and Data Fields in Word Layouts
 
- Поля меток и данных отчета содержатся в элементах управления содержимым в Word. На следующем рисунке показан элемент управления содержимым при выборе в документе Word.  
+ Label and data fields of a report are contained in content controls in Word. The following figure illustrates a content control when it's selected in the Word document.  
 
- ![Управление содержимым поля в макете отчета Word.](media/nav_wordreportlayouts_contentcontrol.png "NAV_WordReportLayouts_ContentControl")  
+ ![Content control for field in Word report layout.](media/nav_wordreportlayouts_contentcontrol.png "NAV_WordReportLayouts_ContentControl")  
 
- Название метки или имя поля с данными отображается в элементе управления содержимым. В этом примере название поля — АдресОрг1.  
+ The name of the label or data field name displays in the content control. In the example, the field name is CompanyAddr1.  
 
-### <a name="to-remove-a-label-or-data-field"></a>Удаление метки или поля данных  
+### To remove a label or data field  
 
-1. Щелкните правой кнопкой поле, которое требуется удалить, и выберите **Удалить элемент управления содержимым**.  
+1. Right-click the field that you want to delete, and then choose **Remove Content Control**.  
 
-     Элемент управления содержимым удаляется, однако название поля остается в виде текста.  
+     The content control is removed, but the field name remains as text.  
 
-2. Удалите остающийся текст по мере надобности  
+2. Delete the remaining text as needed.  
 
-### <a name="adding-data-fields"></a>Добавление полей данных
+### Adding data fields
 
-Добавление полей данных из набора данных отчета является более усовершенствованным и требует определенных знаний набора данных отчета. Сведения о добавлении полей для данных, меток, данных и изображений см. в разделе [Добавление полей в макет отчета Word](ui-how-add-fields-word-report-layout.md).  
+Adding data fields from a report dataset is a more advanced and requires some knowledge of the report dataset. For information about adding fields for data, labels, data, and images, see [Add Fields to a Word Report Layout](ui-how-add-fields-word-report-layout.md).  -->
 
 ## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/change-documents-dynamics-365-business-central/index)
 

@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 5df764b1ca184d1f70dd67c08abf0505833dc2aa
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: d0e7db8e4aeade9865114769c659075971dd3c8d
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8139135"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8518631"
 ---
 # <a name="pick-for-production-or-assembly-in-advanced-warehouse-configurations"></a>Подбор для производства или сборки в расширенных конфигурациях склада
 В расширенных конфигурациях склада, где склад настроен на использование подбора и отгрузки, можно выбрать компоненты для производственных и сборочных действий на странице **Складской подбор**.  
@@ -58,7 +58,7 @@ ms.locfileid: "8139135"
 [Запасы](inventory-manage-inventory.md)  
 [Настройка Warehouse Management](warehouse-setup-warehouse.md)     
 [Управление сборкой](assembly-assemble-items.md)    
-[Сведения о проектировании: управление складом](design-details-warehouse-management.md)  
+[Сведения о проектировании: Warehouse Management](design-details-warehouse-management.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
 
 

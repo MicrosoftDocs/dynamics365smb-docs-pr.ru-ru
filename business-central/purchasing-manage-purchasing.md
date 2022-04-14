@@ -10,12 +10,12 @@ ms.search.keywords: procurement, supply, vendor order
 ms.search.form: 460, 9307
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 2cdf62f5b484e7c361bdf0e6819490c07540a0f5
-ms.sourcegitcommit: 5a02f8527faecdffcc54f9c5c70cefe8c4b3b3f4
+ms.openlocfilehash: 4a8d4e2568c64e09f1b71c247c6701e67bf9a824
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/04/2022
-ms.locfileid: "8380962"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8513813"
 ---
 # <a name="purchasing"></a>Закупки
 Счет покупки или заказ на покупку создается для записи стоимости покупок и отслеживания кредиторской задолженности. Если требуется управлять запасами, счета покупки также используются для динамического обновления уровней запасов, чтобы уменьшить себестоимости запасов и обеспечить лучшее обслуживание клиентов. Расходы на покупку, включая затраты на обслуживание, и стоимость запасов, полученная из учета счетов покупки, составляют показатели прибыли и другие ключевые показатели эффективности финансовой деятельности в ролевом центре.

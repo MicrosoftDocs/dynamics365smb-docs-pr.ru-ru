@@ -10,12 +10,12 @@ ms.search.keywords: payment due, debt, overdue, fee, charge, reminder
 ms.search.form: 431, 432, 436, 478
 ms.date: 02/09/2022
 ms.author: edupont
-ms.openlocfilehash: 81c86841bd4000cab881e06783fd521ae18d1cbf
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 9456123c29b26c964acf974163ca31daa1e1b7c1
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8132840"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8523375"
 ---
 # <a name="set-up-reminder-terms-and-levels"></a>Настройка условий и уровней напоминаний
 
@@ -94,7 +94,7 @@ ms.locfileid: "8132840"
     Например, если написать **Вы должны %9 %7 со сроком оплаты %2.**, полученное напоминание будет содержать следующий текст: **Вы должны 1200,50 руб. со сроком оплаты 02-02-2014.**.
 
     > [!NOTE]
-    > Срок оплаты рассчитывается в соответствии с введенной формулой даты. Подробнее см. в разделе [Использование формул дат](ui-enter-date-ranges.md#using-date-formulas).
+    > Срок оплаты рассчитывается в соответствии с введенной формулой даты. Подробнее см. в разделе [Использование формул дат](ui-enter-date-ranges.md#use-date-formulas).
 
 После настройки условий напоминаний с дополнительными уровнями и текстом в каждую карточку клиента необходимо ввести один из кодов. Дополнительные сведения см. в разделе [Регистрация новых клиентов](sales-how-register-new-customers.md).  
 

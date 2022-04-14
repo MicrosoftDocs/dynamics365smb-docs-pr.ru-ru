@@ -10,12 +10,12 @@ ms.search.keywords: supplier, payment priority
 ms.search.form: 26, 27
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 41977fdf7d90082094e3cc9ff025a56b878a6b2c
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 411163798b5af49a154e19243e556c010bffd5ee
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8131227"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8513787"
 ---
 # <a name="prioritize-vendors"></a>Назначение приоритетов поставщикам
 В [!INCLUDE[prod_short](includes/prod_short.md)] предлагаются различные виды оплат поставщикам, например оплаты, которые должны быть произведены быстро, или оплаты, для которых возможны скидки. Дополнительные сведения см. в разделе [Предложение оплаты поставщикам](payables-how-suggest-vendor-payments.md).

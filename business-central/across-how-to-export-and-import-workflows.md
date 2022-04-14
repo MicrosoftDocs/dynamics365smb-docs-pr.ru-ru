@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 70a39d8d80ff5ca36953bea3923e4adbcbbca0d3
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: ece05f68c15384ab11ae492bd6f138da14bafc1c
+ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8136534"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "8513204"
 ---
 # <a name="export-and-import-workflows"></a>Экспорт и импорт рабочих процессов
 Для передачи рабочих процессов в другие базы данных [!INCLUDE[prod_short](includes/prod_short.md)], например для экономии времени при создании рабочих процессов, рабочие процессы можно экспортировать и импортировать.  
