@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: sales, crm, integration, sync, synchronize, table mapping
 ms.date: 04/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: b0d7382cbc831ff856dc8d75bb776fc9f9ee022a
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
+ms.openlocfilehash: e6e7d42af64db3c1725e9f4b54ba7ca4e4b16320
+ms.sourcegitcommit: 55f42d2407e109b4924218cb22129467b53deb08
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8515749"
+ms.lasthandoff: 04/08/2022
+ms.locfileid: "8557409"
 ---
 # <a name="mapping-the-tables-and-fields-to-synchronize"></a>Сопоставление таблиц и полей для синхронизации
 
@@ -28,6 +28,9 @@ ms.locfileid: "8515749"
 
 > [!Note]
 > Если вы используете локальную версию [!INCLUDE[prod_short](includes/prod_short.md)], сопоставления таблиц интеграции хранятся в таблице "5335 Сопоставления таблиц интеграции", где можно просмотреть и изменить сопоставления. Сложные сопоставления и правила синхронизации определены в модуле Codeunit 5341. 
+
+### <a name="additional-mappings"></a>Дополнительные сопоставления 
+Условия оплаты, способы отгрузки и экспедиторы могут меняться, и может быть важно наличие возможности их корректировать. Если вы включите **Обновление функции: сопоставление с наборами параметров в Dataverse без кода** на странице [Управление функциями](https://businesscentral.dynamics.com/?page=2610), вы можете вручную добавить сопоставления таблиц интеграции для условий оплаты (УСЛОВИЯ ОПЛАТЫ), способов отгрузки (СПОСОБ ОТГРУЗКИ) и экспедиторов (ЭКСПЕДИТОР). Это сопоставление может помочь убедиться, что ваши политики одинаковы для этих настроек в [!INCLUDE[prod_short](includes/cds_long_md.md)] и [!INCLUDE[cds_long_md](includes/cds_long_md.md)].
 
 ### <a name="synchronization-rules"></a>Правила синхронизации
 Сопоставление таблиц интеграции также включает в себя правила, управляющие тем, как задания синхронизации интеграции синхронизируют записи в таблице [!INCLUDE[prod_short](includes/prod_short.md)] и таблице в [!INCLUDE[prod_short](includes/cds_long_md.md)]. <!--For examples of rules for an integration with Sales, see [Synchronization Rules](admin-synchronizing-business-central-and-sales.md#synchronization-rules). need to verify link -->

@@ -1,6 +1,6 @@
 ---
 title: Интеграция с Dynamics 365 Sales
-description: Узнайте, как подготовить Dynamics 365 Business Central к интеграции с Dynamics 365 Sales, чтобы понять, что происходит на сервере.
+description: Узнайте, как подготовить Dynamics 365 Business Central к интеграции с Dynamics 365 Sales.
 author: brentholtorf
 ms.topic: conceptual
 ms.devlang: na
@@ -9,23 +9,22 @@ ms.workload: na
 ms.search.keywords: sales, crm, integration, integrating
 ms.date: 06/14/2021
 ms.author: bholtorf
-ms.openlocfilehash: b4fb329c076cab03b6ea5ccc78813ad57ae29db3
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
+ms.openlocfilehash: 86ca61b19495269d90597e7f050c92bb935099e1
+ms.sourcegitcommit: 55f42d2407e109b4924218cb22129467b53deb08
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8517034"
+ms.lasthandoff: 04/08/2022
+ms.locfileid: "8557279"
 ---
 # <a name="integrating-with-dynamics-365-sales"></a>Интеграция с Dynamics 365 Sales
 
-
-Роль менеджера по продажам часто рассматривается как самая направленная наружу должность в бизнесе. Однако может быть полезно для менеджеров по продажам посмотреть внутрь бизнеса и увидеть, что происходит на заднем дворе. Путем интеграции [!INCLUDE[prod_short](includes/prod_short.md)] и [!INCLUDE[crm_md](includes/crm_md.md)], можно предоставить менеджерам по продажи такие аналитические данные, позволив им просматривать информацию в [!INCLUDE[prod_short](includes/prod_short.md)] во время работы в [!INCLUDE[crm_md](includes/crm_md.md)]. Например, при подготовке предложения по продаже может быть полезно знать, имеется ли достаточно запасов для выполнения заказа. Дополнительные сведения см. в разделе [Использование Dynamics 365 Sales из Business Central](marketing-integrate-dynamicscrm.md).
+Роль менеджера по продажам часто рассматривается как самая направленная наружу должность в бизнесе. Однако может быть полезно для менеджеров по продажам посмотреть внутрь бизнеса и увидеть, что происходит на заднем дворе. Путем интеграции [!INCLUDE[prod_short](includes/prod_short.md)] и [!INCLUDE[crm_md](includes/crm_md.md)] вы можете дать своим продавцам эту информацию. Интеграция позволит людям просматривать информацию в [!INCLUDE[prod_short](includes/prod_short.md)] во время работы в [!INCLUDE[crm_md](includes/crm_md.md)]. Например, при подготовке предложения по продаже может быть полезно знать, имеется ли достаточно запасов для выполнения заказа. Дополнительные сведения см. в разделе [Использование Dynamics 365 Sales из Business Central](marketing-integrate-dynamicscrm.md).
 
 > [!NOTE]
 > В этом разделе описывается процесс интеграции сетевых версий [!INCLUDE[crm_md](includes/crm_md.md)] и [!INCLUDE[prod_short](includes/prod_short.md)] через [!INCLUDE[prod_short](includes/cds_long_md.md)]. Сведения о локальной конфигурации см. в разделе [Подготовка Dynamics 365 Sales к локальной интеграции](/dynamics365/business-central/dev-itpro/administration/prepare-dynamics-365-for-sales-for-integration).
 
 ## <a name="integrating-through-dataverse"></a>Интеграция через Dataverse
-[!INCLUDE[prod_short](includes/prod_short.md)] также интегрируется с [!INCLUDE[prod_short](includes/cds_long_md.md)], что позволяет легко подключать и синхронизировать данные с другими приложениями Dynamics 365, такими как [!INCLUDE[crm_md](includes/crm_md.md)], или даже с приложениями, которые вы создаете сами. Если вы впервые выполняете интеграцию, это следует сделать это через [!INCLUDE[prod_short](includes/cds_long_md.md)]. Дополнительные сведения см. в разделе [Интеграция с Dataverse](admin-common-data-service.md).
+Чтобы упростить подключение и синхронизацию данных с другими приложениями Dynamics 365, [!INCLUDE[prod_short](includes/prod_short.md)] также интегрируется с [!INCLUDE[prod_short](includes/cds_long_md.md)]. Например, вы можете подключиться к [!INCLUDE[crm_md](includes/crm_md.md)] или даже к приложениям, которые вы создаете сами. Если вы впервые выполняете интеграцию, это следует сделать это через [!INCLUDE[prod_short](includes/cds_long_md.md)]. Дополнительные сведения см. в разделе [Интеграция с Dataverse](admin-common-data-service.md).
 
 Если вы уже интегрировали [!INCLUDE[crm_md](includes/crm_md.md)] с [!INCLUDE[prod_short](includes/prod_short.md)], вы можете продолжить синхронизацию данных, используя ваши настройки. Однако, если вы обновите или выключите интеграцию [!INCLUDE[crm_md](includes/crm_md.md)], чтобы включить его снова, вы должны подключиться через [!INCLUDE[prod_short](includes/cds_long_md.md)]. Дополнительные сведения см. в разделе [Обновление интеграции с Dynamics 365 Sales](admin-upgrade-sales-to-cds.md).
 
@@ -33,7 +32,7 @@ ms.locfileid: "8517034"
 > При повторном подключении через [!INCLUDE[prod_short](includes/cds_long_md.md)] применяются настройки синхронизации по умолчанию и перезаписываются все ваши конфигурации. Например, будут применены сопоставления таблиц по умолчанию.
 
 ## <a name="integration-settings-that-are-specific-to-a-crm_md-integration"></a>Параметры интеграции, специфичные для интеграции [!INCLUDE[crm_md](includes/crm_md.md)]
-Интеграция с [!INCLUDE[prod_short](includes/prod_short.md)] происходит через [!INCLUDE[prod_short](includes/cds_long_md.md)], и есть много стандартных настроек и таблиц, которые обеспечиваются интеграцией. В дополнение к стандартным настройкам, есть некоторые, которые являются специфическими для [!INCLUDE[crm_md](includes/crm_md.md)]. Они перечислены в следующих разделах.
+Интеграция с [!INCLUDE[prod_short](includes/prod_short.md)] происходит через [!INCLUDE[prod_short](includes/cds_long_md.md)], предусмотрено множество стандартных настроек и таблиц. В дополнение к стандартным настройкам, есть некоторые, которые являются специфическими для [!INCLUDE[crm_md](includes/crm_md.md)]. Настройки перечислены в следующих разделах.
 
 ## <a name="permissions-and-security-roles-for-user-accounts-in-sales"></a>Разрешения и роли безопасности для учетных записей пользователей в Sales
 При установке решения интеграции разрешения для учетной записи пользователя интеграции настраиваются. Если эти разрешения изменены, вам может потребоваться сбросить их. Вы можете сделать это, переустановив решение интеграции, выбрав **Повторить развертывание решения интеграции** на странице **Настройка подключения Dynamics 365**. Развернуты следующие роли безопасности:
@@ -48,39 +47,34 @@ ms.locfileid: "8517034"
 1. Выберите **Настройка и расширения**, затем выберите **Мастер настройки**.
 2. Выберите **Настройка подключения к Dynamics 365 Sales**, чтобы запустить мастер настройки.
 3. Заполните соответствующим образом поля.
-4. При необходимости, имеются расширенные настройки, которые могут улучшить безопасность и включить дополнительные возможности, такие как обработка заказов на продажу и просмотр уровней запасов. Расширенные параметры рассматриваются в таблице ниже.  
+4. При желании можно использовать расширенные параметры, которые могут повысить безопасность и предоставить дополнительные возможности. Расширенные параметры рассматриваются в таблице ниже.  
 
-| Поле | Описание |
+| Поле | Описанием |
 |--|--|
-| **Импорт решения Dynamics 365 Sales** | Разрешить это, чтобы установить и настроить решение интеграции в [!INCLUDE[crm_md](includes/crm_md.md)]. <!--For more information, see [About the Base CDS Integration Solution](admin-common-data-service.md#about-the-business-central-integration-solution). Need to add a new topic--> |
-| **Публикация веб-службы наличия товаров** | Разрешите пользователям, которые используют [!INCLUDE[crm_md](includes/crm_md.md)], просматривать наличие товаров (продуктов) в запасах в [!INCLUDE[prod_short](includes/prod_short.md)]. Для этого необходима учетная запись пользователя [!INCLUDE[prod_short](includes/prod_short.md)] с ключом доступа к веб-службам. Назначение ключа выполняется в два этапа. В учетной записи пользователя в [!INCLUDE[prod_short](includes/prod_short.md)] необходимо выбрать действие **Изменить ключ веб-службы**. В мастере настройки "Настройка подключения к Dynamics 365 Sales" необходимо указать URL-адрес веб-службы Dynamics 365 Business Central OData и предоставить учетные данные пользователя [!INCLUDE[prod_short](includes/prod_short.md)] для получения доступа к сервису. Дополнительные сведения см. в разделе [Веб-службы OData](/dynamics365/business-central/dev-itpro/webservices/odata-web-services). |
-|**Имя пользователя веб-службы OData Business Central** | Имя пользователя учетной записи [!INCLUDE[prod_short](includes/prod_short.md)], которую [!INCLUDE[crm_md](includes/crm_md.md)] использует для извлечения сведений о наличии товаров в [!INCLUDE[prod_short](includes/prod_short.md)] через веб-службу OData. |
-| **Ключ доступа веб-службы OData Business Central** | Ключ доступа учетной записи пользователя, которую [!INCLUDE[crm_md](includes/crm_md.md)] использует для получения сведений о наличии товаров из [!INCLUDE[prod_short](includes/prod_short.md)] через веб-службу OData. Ключ назначается пользователю, выбранному в поле **Имя пользователя веб-службы OData Business Central**. Чтобы получить ключ, выберите кнопку **Найти значение** рядом с именем пользователя, выберите пользователя, выберите **Управление**, затем выберите **Правка**. В карточке пользователя выберите **Действия**, **Проверка подлинности**, затем выберите **Изменить ключ веб-службы**. |
-| **Включить интеграцию с заказом на продажу** | Когда сотрудники создают заказы на продажу в [!INCLUDE[crm_md](includes/crm_md.md)] и выполняют заказы в [!INCLUDE[prod_short](includes/prod_short.md)], это интегрирует процесс в [!INCLUDE[crm_md](includes/crm_md.md)]. Дополнительные сведения см. в разделе [Включение интеграции обработки заказов на продажу](/dynamics365/customer-engagement/sales-enterprise/developer/enable-sales-order-processing-integration). Для этого требуется, чтобы вы предоставили учетные данные для учетной записи пользователя-администратора в [!INCLUDE[crm_md](includes/crm_md.md)]. Дополнительные сведения см. в разделе [Обработка данных в заказах на продажу](marketing-integrate-dynamicscrm.md#handling-sales-order-data). |
+| **Импорт решения Dynamics 365 Sales** | Установите и настройте решение интеграции в [!INCLUDE[crm_md](includes/crm_md.md)]. <!--For more information, see [About the Base CDS Integration Solution](admin-common-data-service.md#about-the-business-central-integration-solution). Need to add a new topic--> |
+|**Автоматическая синхронизация наличия товаров**|Указывает, что очередь работ для наличия товаров должна быть запланирована. Очередь работы запускается каждые 30 минут и обновляет доступность связанных товаров.|
+| **Включить интеграцию с заказом на продажу** | Когда сотрудники создают заказы на продажу в [!INCLUDE[crm_md](includes/crm_md.md)] и выполняют заказы в [!INCLUDE[prod_short](includes/prod_short.md)], эта настройка процесс в [!INCLUDE[crm_md](includes/crm_md.md)]. Дополнительные сведения см. в разделе [Включение интеграции обработки заказов на продажу](/dynamics365/customer-engagement/sales-enterprise/developer/enable-sales-order-processing-integration). Вы должны предоставить учетные данные для учетной записи пользователя-администратора в [!INCLUDE[crm_md](includes/crm_md.md)]. Дополнительные сведения см. в разделе [Обработка данных в заказах на продажу](marketing-integrate-dynamicscrm.md#handling-sales-order-data). |
 |**Включить подключение к Dynamics 365 Sales** | Включите подключение к [!INCLUDE[crm_md](includes/crm_md.md)]. |
-| **Версия SDK Dynamics 365** | Это необходимо только в том случае, если выполняется интеграция с локальной версией [!INCLUDE[crm_md](includes/crm_md.md)]. Это комплект разработки программного обеспечения Dynamics 365 (также называемый Xrm), который используется для подключения [!INCLUDE[prod_short](includes/prod_short.md)] к [!INCLUDE[crm_md](includes/crm_md.md)]. Версия должна быть совместима с версией пакета SDK, которая используется [!INCLUDE[crm_md](includes/crm_md.md)], и равна или новее версии, используемой [!INCLUDE[crm_md](includes/crm_md.md)]. |
+| **Версия SDK Dynamics 365** | Это необходимо только в том случае, если выполняется интеграция с локальной версией [!INCLUDE[crm_md](includes/crm_md.md)]. Этот SDK является комплектом разработки программного обеспечения Dynamics 365 (также называемый Xrm), который используется для подключения [!INCLUDE[prod_short](includes/prod_short.md)] к [!INCLUDE[crm_md](includes/crm_md.md)]. Версия должна быть совместима с версией пакета SDK, которая используется [!INCLUDE[crm_md](includes/crm_md.md)], и равна или новее версии, используемой [!INCLUDE[crm_md](includes/crm_md.md)]. |
 
 ### <a name="connection-settings-on-the-microsoft-dynamics-365-connection-setup-page"></a>Параметры подключения на странице настройки подключения Microsoft Dynamics 365
 
 Введите следующие сведения для подключения из [!INCLUDE[prod_short](includes/prod_short.md)] к [!INCLUDE[crm_md](includes/crm_md.md)].
 
-| Поле | Описание |
+| Поле | Описанием |
 |--|--|
-|**URL-адрес Dynamics 365 Sales**|URL-адрес вашего экземпляра [!INCLUDE[crm_md](includes/crm_md.md)]. Это позволяет пользователям открывать соответствующие записи в [!INCLUDE[prod_short](includes/prod_short.md)] из записей в [!INCLUDE[crm_md](includes/crm_md.md)], например счет или продукт. Записи [!INCLUDE[prod_short](includes/prod_short.md)] открываются в [!INCLUDE[prod_short](includes/prod_short.md)].|
-|**Веб-служба наличия товаров включена**|Разрешите пользователям, которые используют [!INCLUDE[crm_md](includes/crm_md.md)], просматривать наличие товаров (продуктов) в запасах в [!INCLUDE[prod_short](includes/prod_short.md)]. Если она включена, также необходимо указать имя пользователя и ключ доступа для [!INCLUDE[crm_md](includes/crm_md.md)], чтобы использовать веб-службу OData для наличия товаров (продуктов). Дополнительные сведения см. в разделе [Веб-службы OData](/dynamics365/business-central/dev-itpro/webservices/odata-web-services).|
-|**URL-адрес веб-службы OData Dynamics 365 Business Central**|Если включена веб-служба наличия товаров, URL-адрес веб-службы OData предоставляется для вас. Для использования задайте в этом поле URL-адрес экземпляра [!INCLUDE[prod_short](includes/prod_short.md)].<br /><br /> Для возврата в поле URL-адреса по умолчанию для [!INCLUDE[prod_short](includes/prod_short.md)], выберите действие **Сбросить URL-адрес веб-клиента**.<br /><br /> Это поле используется только в случае установки решения интеграции [!INCLUDE[prod_short](includes/prod_short.md)] в [!INCLUDE[crm_md](includes/crm_md.md)].|
-|**Имя пользователя веб-службы OData Dynamics 365 Business Central**|Имя пользователя учетной записи, которую [!INCLUDE[crm_md](includes/crm_md.md)] использует для получения сведений о наличии товаров из [!INCLUDE[prod_short](includes/prod_short.md)] через веб-службу OData.|
-|**Ключ доступа веб-службы OData Dynamics 365 Business Central**|Ключ доступа учетной записи пользователя, которую [!INCLUDE[crm_md](includes/crm_md.md)] использует для получения сведений о наличии товаров из [!INCLUDE[prod_short](includes/prod_short.md)] через веб-службу OData. Ключ назначается пользователю, выбранному в поле **Имя пользователя веб-службы OData Dynamics 365 Business Central**. Чтобы получить ключ, выберите кнопку **Найти значение** рядом с именем пользователя, выберите пользователя, выберите **Управление**, затем выберите **Правка**. В карточке пользователя выберите **Действия**, **Проверка подлинности**, затем выберите **Изменить ключ веб-службы**.|
+|**URL-адрес Dynamics 365 Sales**|URL-адрес вашего экземпляра [!INCLUDE[crm_md](includes/crm_md.md)]. Этот параметр позволяет пользователям открывать записи в [!INCLUDE[prod_short](includes/prod_short.md)], которые соответствуют записям в [!INCLUDE[crm_md](includes/crm_md.md)]. Например, счет или продукт. Записи [!INCLUDE[prod_short](includes/prod_short.md)] открываются в [!INCLUDE[prod_short](includes/prod_short.md)].|
+|**Автоматическая синхронизация наличия товаров**|Указывает, что очередь работ для наличия товаров должна быть запланирована. Очередь работы запускается каждые 30 минут и обновляет доступность связанных товаров.|
 |**Версия SDK Dynamics 365**|Если выполняется интеграция с локальной версией [!INCLUDE[crm_md](includes/crm_md.md)], следует использовать набор разработки программного обеспечения Dynamics 365 (также называемый Xrm) для подключения [!INCLUDE[prod_short](includes/prod_short.md)] к [!INCLUDE[crm_md](includes/crm_md.md)]. Выбранная версия должна быть совместима с версией SDK, которая используется приложением [!INCLUDE[crm_md](includes/crm_md.md)]. Эта версия равна или новее версии, используемой приложением [!INCLUDE[crm_md](includes/crm_md.md)].|
 
 В дополнение к приведенным выше параметрам введите следующие настройки для [!INCLUDE[crm_md](includes/crm_md.md)].
 
 | Поле | Описание |
 |--|--|
-| **Интеграция заказов на продажу разрешена** | Разрешите пользователям отправлять заказы на продажу и активированные предложения в [!INCLUDE[crm_md](includes/crm_md.md)] и затем просматривать и обрабатывать их в [!INCLUDE[prod_short](includes/prod_short.md)]. Это интегрирует процесс в [!INCLUDE[crm_md](includes/crm_md.md)]. Дополнительные сведения см. в разделе [Включение интеграции обработки заказов на продажу](/dynamics365/customer-engagement/sales-enterprise/developer/enable-sales-order-processing-integration). |
+| **Интеграция заказов на продажу разрешена** | Разрешите пользователям отправлять заказы на продажу и активированные предложения в [!INCLUDE[crm_md](includes/crm_md.md)] и затем просматривать и обрабатывать их в [!INCLUDE[prod_short](includes/prod_short.md)]. Эта настройка интегрирует процесс в [!INCLUDE[crm_md](includes/crm_md.md)]. Дополнительные сведения см. в разделе [Включение интеграции обработки заказов на продажу](/dynamics365/customer-engagement/sales-enterprise/developer/enable-sales-order-processing-integration). |
 | **Автоматически создавать заказы на продажу** | Создание заказов на продажу в [!INCLUDE[prod_short](includes/prod_short.md)], когда пользователь создает и отправляет заказ на продажу в [!INCLUDE[crm_md](includes/crm_md.md)]. |
 | **Автоматически обрабатывать предложения по продаже** | Обработка предложения по продаже в [!INCLUDE[prod_short](includes/prod_short.md)], когда пользователь создает и активирует его в [!INCLUDE[crm_md](includes/crm_md.md)]. Дополнительные сведения см. в разделе [Обработка данных в предложениях по продаже](/dynamics365/business-central/marketing-integrate-dynamicscrm?tabs=new-experience#handling-sales-quotes-data). |
-|**Двунаправленная синхронизация заказов на продажу**|Синхронизируйте заказы на продажу в обоих направлениях. Например, если клиент передумал о продукте или количестве, которое он заказал в [!INCLUDE[crm_md](includes/crm_md.md)], вы можете обработать изменение в [!INCLUDE[prod_short](includes/prod_short.md)], архивировав документ продажи и создав новый. То же самое относится и к изменениям в [!INCLUDE[prod_short](includes/prod_short.md)]. Например, при изменении цен, сумм налогов или ожидаемых дат отгрузки эти изменения автоматически синхронизируются с [!INCLUDE[crm_md](includes/crm_md.md)]. Это помогает держать ваших продавцов в курсе последних изменений и статуса котировок и заказов.|
+|**Двунаправленная синхронизация заказов на продажу**|Синхронизируйте заказы на продажу в обоих направлениях. Например, если клиент передумал о продукте или количестве, которое он заказал в [!INCLUDE[crm_md](includes/crm_md.md)], вы можете архивировать документ продажи и создать новый в [!INCLUDE[prod_short](includes/prod_short.md)]. То же самое относится и к изменениям в [!INCLUDE[prod_short](includes/prod_short.md)]. Например, при изменении цен, сумм налогов или ожидаемых дат отгрузки эти изменения автоматически синхронизируются с [!INCLUDE[crm_md](includes/crm_md.md)]. Двунаправленная синхронизация помогает держать ваших продавцов в курсе последних изменений и статуса предложений и заказов.|
 
 <!--
 ### User Account Settings
@@ -102,7 +96,7 @@ Integration with Business Central through Dataverse requires an administrator us
 | Группа единиц | CRM Uomschedule | [!INCLUDE[prod_short](includes/prod_short.md)] -> [!INCLUDE[crm_md](includes/crm_md.md)] ||
 | Ценовая группа клиента | Прайс-лист | [!INCLUDE[prod_short](includes/prod_short.md)] -> [!INCLUDE[crm_md](includes/crm_md.md)] |  |
 | Цена продажи | Прайс-лист на продукцию | [!INCLUDE[prod_short](includes/prod_short.md)] -> [!INCLUDE[crm_md](includes/crm_md.md)] | Фильтр контактов [!INCLUDE[prod_short](includes/prod_short.md)]: **Код продажи** не пустой, **Тип продажи** — **Ценовая группа клиента** |
-| Возможность | Возможность | [!INCLUDE[prod_short](includes/prod_short.md)] -> [!INCLUDE[prod_short](includes/cds_long_md.md)] и [!INCLUDE[crm_md](includes/crm_md.md)] -> [!INCLUDE[prod_short](includes/prod_short.md)] |  |
+| Возможная сделка | Возможная сделка | [!INCLUDE[prod_short](includes/prod_short.md)] -> [!INCLUDE[prod_short](includes/cds_long_md.md)] и [!INCLUDE[crm_md](includes/crm_md.md)] -> [!INCLUDE[prod_short](includes/prod_short.md)] |  |
 | Заголовок счета продажи | Счет | [!INCLUDE[prod_short](includes/prod_short.md)] -> [!INCLUDE[crm_md](includes/crm_md.md)] |  |
 | Строка счета продажи | Продукт счета | [!INCLUDE[prod_short](includes/prod_short.md)] -> [!INCLUDE[crm_md](includes/crm_md.md)] |  |
 | Заголовок заказа на продажу | Заказ на продажу | [!INCLUDE[prod_short](includes/prod_short.md)] -> [!INCLUDE[crm_md](includes/crm_md.md)] и [!INCLUDE[crm_md](includes/crm_md.md)] -> [!INCLUDE[prod_short](includes/prod_short.md)] <br><br> Для синхронизации в обоих направлениях необходимо включить **Двунаправленная синхронизация заказов на продажу** на странице **Настройка подключения Dynamics 365**.| Фильтр заголовков продаж [!INCLUDE[prod_short](includes/prod_short.md)]: **Тип документа** — Заказ, **Статус** — Выпущено |
@@ -114,7 +108,7 @@ Integration with Business Central through Dataverse requires an administrator us
 ## <a name="synchronizing-items-and-resources-with-products-with-different-units-of-measure"></a>Синхронизация номенклатур и ресурсов с товарами с разными единицами измерения
 Компании часто производят или покупают товары в одной единице измерения, а затем продают их в другой. Чтобы синхронизировать элементы, в которых используется несколько единиц измерения, необходимо включить **Обновление функции: синхронизация нескольких единиц измерения с Dynamics 365 Sales** на странице **Управление функциями**. 
 
-Когда вы это сделаете, создается новая таблица групп единиц, которая назначается каждому товару и ресурсу в [!INCLUDE[prod_short](includes/prod_short.md)]. Это позволяет сопоставить таблицы «Группа единиц», «Единица измерения товара» и «Единица измерения ресурса» в [!INCLUDE[prod_short](includes/prod_short.md)] с группой единиц Dynamics 365 Sales <!--Need to verify this name--> в [!INCLUDE[crm_md](includes/crm_md.md)], как показано на следующем изображении.
+Когда вы включите обновлений функций, создается новая таблица групп единиц, которая назначается каждому товару и ресурсу в [!INCLUDE[prod_short](includes/prod_short.md)]. Таблицы позволяют сопоставить таблицы «Группа единиц», «Единица измерения товара» и «Единица измерения ресурса» в [!INCLUDE[prod_short](includes/prod_short.md)] с группой единиц Dynamics 365 Sales в [!INCLUDE[crm_md](includes/crm_md.md)]. На следующем изображении показаны сопоставления.
 
 :::image type="content" source="media/unit group 1.png" alt-text="Отображение таблиц для групп единиц":::
 
@@ -134,7 +128,7 @@ Integration with Business Central through Dataverse requires an administrator us
 
 Следующие шаги описывают шаги для начала сопоставления групп единиц:
 
-1. Убедитесь, что продукты в [!INCLUDE[crm_md](includes/crm_md.md)] не связаны с товарами или ресурсами в [!INCLUDE[prod_short](includes/prod_short.md)]. Если они связаны, перейдите на страницы **Продукты** и/или **Ресурсы** и используйте параметры фильтра, чтобы выбрать связанные записи. Затем выберите действие **Dynamics 365 Sales** и выберите **Отменить связывание**. Будет запланировано фоновое задание для разъединения записей. Пока задание выполняется, вы можете проверить его статус, используя действие **Журнал синхронизации**. Дополнительные сведения см. в разделе [Связывание и синхронизация](admin-how-to-couple-and-synchronize-records-manually.md). 
+1. Убедитесь, что продукты в [!INCLUDE[crm_md](includes/crm_md.md)] не связаны с товарами или ресурсами в [!INCLUDE[prod_short](includes/prod_short.md)]. Если они связаны, перейдите на страницы **Продукты** и/или **Ресурсы** и используйте параметры фильтра, чтобы выбрать связанные записи. Затем выберите действие **Dynamics 365 Sales** и выберите **Отменить связывание**. Это действие планирует фоновое задание для разъединения записей. Пока задание выполняется, вы можете проверить его статус, используя действие **Журнал синхронизации**. Дополнительные сведения см. в разделе [Связывание и синхронизация](admin-how-to-couple-and-synchronize-records-manually.md). 
 2. Поскольку что новые продукты будут создаваться в [!INCLUDE[crm_md](includes/crm_md.md)] с новыми группами единиц, чтобы избежать дублирования имен, выполните одно из следующих действий:
     
     * Переименуйте свои продукты, а затем удалите их в [!INCLUDE[crm_md](includes/crm_md.md)]. Для получения дополнительной информации см. [Списание продуктов (Центр продаж)](/dynamics365/sales-enterprise/retire-product). Для массового редактирования ваших продуктов в Microsoft Excel, войдите в Power Apps, выберите среду, перейдите в таблицу **Продукт** и выберите вкладку **Данные**. Удалите все примененные фильтры. В группе **Данные** выберите действие **Редактировать данные в Excel**. Добавьте префикс или суффикс к связанным продуктам, а затем удалите их.
@@ -149,12 +143,12 @@ Integration with Business Central through Dataverse requires an administrator us
     > [!NOTE]
     > Для сопоставлений, которые еще не были полностью синхронизированы, это действие полностью синхронизирует их. Чтобы предотвратить синхронизацию этих сопоставлений, удалите сопоставления со страницы. Это только удаляет их из текущей полной синхронизации, но не удаляет сопоставления.
     
-5. Выберите сопоставление **ТОВАР-ПРОДУКТ**, а затем выберите действие **Перезапустить**. Это создает новые продукты из товаров в [!INCLUDE[crm_md](includes/crm_md.md)] и назначает новую группу единиц, относящуюся к товару.
-6. Выберите сопоставление **РЕСУРС-ПРОДУКТ**, а затем выберите действие **Перезапустить**. Это создает новые продукты из ресурсов в [!INCLUDE[crm_md](includes/crm_md.md)] и назначает новую группу единиц, относящуюся к ресурсам.
+5. Выберите сопоставление **ТОВАР-ПРОДУКТ**, а затем выберите действие **Перезапустить**. Перезапуск создает новые продукты из товаров в [!INCLUDE[crm_md](includes/crm_md.md)] и назначает новую группу единиц, относящуюся к товару.
+6. Выберите сопоставление **РЕСУРС-ПРОДУКТ**, а затем выберите действие **Перезапустить**. Перезапуск создает новые продукты из ресурсов в [!INCLUDE[crm_md](includes/crm_md.md)] и назначает новую группу единиц, относящуюся к ресурсам.
 
 ### <a name="synchronization-rules"></a>Правила синхронизации
 
-В следующей таблице перечислены правила, управляющие синхронизацией между [!INCLUDE[crm_md](includes/crm_md.md)] и [!INCLUDE[prod_short](includes/prod_short.md)]. Это в дополнение к правилам, определенным для Dataverse, которые также применяются. Дополнительные сведения см. в разделе [Сопоставление стандартных сущностей](admin-synchronizing-business-central-and-sales.md#standard-table-mapping-for-synchronization).
+В следующей таблице перечислены правила, управляющие синхронизацией между [!INCLUDE[crm_md](includes/crm_md.md)] и [!INCLUDE[prod_short](includes/prod_short.md)]. Эти правила дополняют правила, определенные для Dataverse, которые также применяются. Дополнительные сведения см. в разделе [Сопоставление стандартных сущностей](admin-synchronizing-business-central-and-sales.md#standard-table-mapping-for-synchronization).
 
 > [!NOTE]  
 > Изменения данных, которые были сделаны в учетной записи пользователя интеграции, не синхронизируются. Поэтому рекомендуется не изменять данные при использовании этой учетной записи. Дополнительные сведения см. в разделе [Настройка учетных записей пользователей для интеграции с Dynamics 365 Sales](admin-setting-up-integration-with-dynamics-sales.md).
@@ -168,7 +162,7 @@ Integration with Business Central through Dataverse requires an administrator us
 |Цены продажи|Цены Sales с типом продажи "Ценовая группа клиента" и определенным кодом продаж, синхронизируются со строками прайс-листов [!INCLUDE[crm_md](includes/crm_md.md)].|
 |Возможные сделки|Возможные сделки синхронизируются с возможными сделками [!INCLUDE[crm_md](includes/crm_md.md)]. Значение кода менеджера по продажам определяет владельца связанной таблицы в [!INCLUDE[crm_md](includes/crm_md.md)].|
 |Учтенные счета продажи|Учтенные счета продажи синхронизируются со счетами продажи. Прежде чем счет можно будет синхронизировать, рекомендуется синхронизировать все остальные таблицы, которые могут быть использованы в нем, от менеджеров по продажам до прайс-листов. Значение кода менеджера по продажам в заголовке счета определяет владельца связанной таблицы в Sales.|
-|Заказы на продажу|Когда включена интеграция заказов на продажу, заказы на продажу в [!INCLUDE[prod_short](includes/prod_short.md)], которые созданы из отправленных заказов на продажу в [!INCLUDE[crm_md](includes/crm_md.md)], синхронизируются с заказами на продажу в INCLUDE SALES, когда они выпущены. Прежде чем синхронизировать заказы, рекомендуется сначала синхронизировать все таблицы, связанные с заказом, такие как продавцы и прайс-листы. Поле кода менеджера по продажам в заголовке заказа определяет владельца связанной таблицы в [!INCLUDE[crm_md](includes/crm_md.md)].|
+|Заказы на продажу|Когда включена интеграция заказов на продажу, заказы на продажу в [!INCLUDE[prod_short](includes/prod_short.md)], которые созданы из отправленных заказов на продажу в [!INCLUDE[crm_md](includes/crm_md.md)], синхронизируются с заказами на продажу в [!INCLUDE[crm_md](includes/crm_md.md)], когда они выпущены. Прежде чем синхронизировать заказы, рекомендуется сначала синхронизировать все таблицы, связанные с заказом, такие как продавцы и прайс-листы. Поле кода менеджера по продажам в заголовке заказа определяет владельца связанной таблицы в [!INCLUDE[crm_md](includes/crm_md.md)].|
 
 ### <a name="synchronization-jobs-for-a-sales-integration"></a>Задания синхронизации для интеграции Sales
 
@@ -196,7 +190,7 @@ Integration with Business Central through Dataverse requires an administrator us
 |Синхронизация "Статистика по клиенту — Dynamics 365 Sales"|Обновление организаций [!INCLUDE[crm_md](includes/crm_md.md)] с новейшими данными клиентов [!INCLUDE[prod_short](includes/prod_short.md)]. В [!INCLUDE[crm_md](includes/crm_md.md)] данная информация отображается в форме быстрого просмотра **Статистика организации Business Central** организаций, которые связаны с клиентами [!INCLUDE[prod_short](includes/prod_short.md)].<br /><br /> Эти данные можно также обновлять вручную из каждой записи клиента. Дополнительные сведения см. в разделе [Связывание и синхронизация записей вручную](admin-how-to-couple-and-synchronize-records-manually.md). </BR></BR>**Примечание.** Эта запись очереди заданий используется только в случае установки решения интеграции [!INCLUDE[prod_short](includes/prod_short.md)] в [!INCLUDE[crm_md](includes/crm_md.md)]. |Неприменимо|Неприменимо|30|Неприменимо| 
 
 ## <a name="connecting-to-on-premises-versions-of-business-central-2019-release-wave-1-and-microsoft-dynamics-nav-2018"></a>Подключение к локальным версиям выпуска Business Central 2019, волны 1 и Microsoft Dynamics NAV 2018
-Рабочая группа Microsoft Power Platform [объявила](/power-platform/important-changes-coming#deprecation-of-office365-authentication-type-and-organizationserviceproxy-class-for-connecting-to-dataverse), что она объявляет устаревшим тип проверки подлинности Office365. Если вы используете локальную версию [!INCLUDE[prod_short](includes/prod_short.md)], более раннюю, чем выпуск Business Central 2019 волны 1, необходимо использовать тип проверки подлинности OAuth для подключения к [!INCLUDE[crm_md](includes/crm_md.md)] онлайн. Шаги в этом разделе описывают, как подключить следующие версии продуктов:
+Рабочая группа Microsoft Power Platform [объявила](/power-platform/important-changes-coming#deprecation-of-office365-authentication-type-and-organizationserviceproxy-class-for-connecting-to-dataverse), что она объявляет устаревшим тип проверки подлинности Office365. Если вы используете локальную версию [!INCLUDE[prod_short](includes/prod_short.md)], более раннюю, чем выпуск Business Central 2019 волны 1, необходимо использовать тип проверки подлинности OAuth для подключения к [!INCLUDE[crm_md](includes/crm_md.md)] Online. Шаги в этом разделе описывают, как подключить следующие версии продуктов:
 
 * Выпуск Business Central 2019, волна 1
 * Microsoft Dynamics NAV 2018
@@ -215,7 +209,7 @@ Integration with Business Central through Dataverse requires an administrator us
 
 ### <a name="to-connect-business-central-2019-release-wave-1-and-dynamics-nav-2018"></a>Для подключения выпуска Business Central 2019 волны 1 и Dynamics NAV 2018
 
-1. Импортируйте решение интеграции Microsoft Dynamics 365 Business Central в вашу среду [!INCLUDE[crm_md](includes/crm_md.md)]. Решение интеграции доступно в папке CrmCustomization на установочном DVD-диске [!INCLUDE[prod_short](includes/prod_short.md)] или Dynamics NAV 2018. В зависимости от версии продукта импортируйте одно из следующего:
+1. Импортируйте решение интеграции Microsoft Dynamics 365 Business Central в вашу среду [!INCLUDE[crm_md](includes/crm_md.md)]. Решение интеграции доступно в папке CrmCustomization на установочном DVD-диске [!INCLUDE[prod_short](includes/prod_short.md)] или Dynamics NAV 2018. В зависимости от версии продукта импортируйте одно из следующих решений:
 
    * Для [!INCLUDE[prod_short](includes/prod_short.md)] папка содержит DynamicsNAVIntegrationSolution_v9 и DynamicsNAVIntegrationSolution_v91. решения. Решение, которое вы должны импортировать, зависит от версии [!INCLUDE[crm_md](includes/crm_md.md)], к которой вы подключаетесь. [!INCLUDE[crm_md](includes/crm_md.md)] Online требует решения интеграции DynamicsNAVIntegrationSolution_v91.
    * Для Dynamics NAV 2018 установите решение DynamicsNAVIntegrationSolution.
@@ -235,7 +229,7 @@ Integration with Business Central through Dataverse requires an administrator us
    >
    > Кроме того, приложение, которое вы регистрируете, не должно иметь секрета. Подключение приложения с секретом к Dataverse доступно только в выпуске Business Central 2020 волны 1 и более поздних версиях.
   
-4. В зависимости от версии продукта выполните одно из следующего:
+4. В зависимости от версии продукта выполните одно из следующих действий:
 
     * В [!INCLUDE[prod_short](includes/prod_short.md)] найдите пункт **Настройка подключения Microsoft Dynamics 365**, затем выберите связанную ссылку. 
     * В Dynamics NAV 2018 найдите пункт **Настройка подключения Microsoft Dynamics 365 for Sales**, затем выберите связанную ссылку.
