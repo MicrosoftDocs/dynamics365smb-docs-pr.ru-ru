@@ -7,15 +7,15 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: feature overview, functionality
-ms.search.form: 9020, 9022, 9027, 9018
+ms.search.form: 9020, 9022, 9027, 9024
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 5f8cfbef682b2a039c5a52483a09380452fba4b9
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
+ms.openlocfilehash: 47cd78dc6f706407a0be9814e170054b95e4403d
+ms.sourcegitcommit: f9143302b8271f5924a027cacdf29dc37c95f4c6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8513605"
+ms.lasthandoff: 04/29/2022
+ms.locfileid: "8655051"
 ---
 # <a name="general-business-functionality"></a>Общие бизнес-функции
 [!INCLUDE[prod_short](includes/prod_short.md)] включает специальные функции для типичных деловых областей компании, таких как управление финансами или продажами. Дополнительные сведения см. в разделе [Функциональные бизнес-возможности](across-business-functionality.md).
@@ -24,6 +24,8 @@ ms.locfileid: "8513605"
 
 > [!NOTE]
 > В дополнение к бизнес-функциям пользовательского интерфейса, описанным в этом разделе, можно использовать общие функции пользовательского интерфейса для повседневного взаимодействия с системой. Дополнительные сведения см. в разделе [Работа с Business Central](ui-work-product.md).
+
+[!INCLUDE [about-ui-learn](includes/about-ui-learn.md)]
 
 В следующей таблице перечислены эти общие деловые области и приведены ссылки на разделы, в которых они описываются.
 

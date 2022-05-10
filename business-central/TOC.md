@@ -1569,6 +1569,7 @@
 ##### [Синхронизация с контактами в Outlook](admin-synchronize-outlook-contacts.md)
 ##### [Оптимизировать Outlook](admin-outlook-optimize.md)
 ##### [Использование Business Central без Outlook](admin-no-outlook.md)
+##### [Вопросы и ответы](ui-outlook-addin-faq.yml)
 ### Настройка отчетов
 #### [Выбор отчета](across-report-selections.md)
 ### Настройка подключений
@@ -1611,6 +1612,7 @@
 #### [Переход с приложения QuickBooks на Business Central](across-quickbooks-to-business-edition.md)
 #### [Пакетное выставление счетов для Microsoft Bookings](finance-bookings.md)
 #### [Импорт бизнес-данных из других финансовых систем](across-import-data-configuration-packages.md)
+### [Информация о компании](admin-company-information.md)
 ### [Создание серий номеров](ui-create-number-series.md)
 ### [Настройка базовых календарей](across-how-to-assign-base-calendars.md)
 ### [Настройка принтеров](ui-specify-printer-selection-reports.md)

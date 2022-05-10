@@ -7,19 +7,21 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: feature overview
-ms.search.form: 9020, 9022, 9026, 9027, 9030, 9000, 9004, 9005, 9018, 9006, 9007, 9010, 9016, 9017
+ms.search.form: 9020, 9022, 9026, 9027, 9030, 9000, 9009, 9004, 9005, 9024, 9006, 9007, 9010, 9016, 9017
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: e494307c5301549f2adaa15737e1f944d284bbf6
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
+ms.openlocfilehash: e413f75356af244dafe7e887207db370b942db7b
+ms.sourcegitcommit: f9143302b8271f5924a027cacdf29dc37c95f4c6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8514230"
+ms.lasthandoff: 04/29/2022
+ms.locfileid: "8654895"
 ---
 # <a name="business-functionality"></a>Функциональные бизнес-возможности
 
 [!INCLUDE[prod_short](includes/prod_short.md)] предоставляет функциональные возможности для распространенных бизнес-процессов в небольших и средних организациях, в основном занимающихся оптовыми продажами и профессиональными услугами. Однако также поддерживаются более сложные процессы, такие как сборка, производство, сервис и расширенное управление складом. [Узнайте, как получить бесплатную пробную версию здесь](trial-signup.md).  
+
+[!INCLUDE [about-ui-learn](includes/about-ui-learn.md)]
 
 [!INCLUDE[prod_short](includes/prod_short.md)] содержит стандартные конфигурации для большинства бизнес-процессов, но вы можете изменить их в соответствии со своими бизнес-потребностями. Из ролевого центра вы можете получить доступ к руководствам по настройке, помогающим настроить определенные сценарии и добавить функции в [!INCLUDE[prod_short](includes/prod_short.md)]. Некоторые области бизнес-функций должны настраиваться вручную. Статья [Краткое руководство по Business Central](quick-start-business-central.md) может помочь вам сделать первые шаги в создании своего собственного [!INCLUDE [prod_short](includes/prod_short.md)]. Дополнительные сведения см. в разделе [Настройка [!INCLUDE[prod_short](includes/prod_short.md)]](setup.md).
 

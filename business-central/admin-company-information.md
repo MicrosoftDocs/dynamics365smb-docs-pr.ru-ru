@@ -3,15 +3,15 @@ title: Обзор информации о компании
 description: На странице Информация о компании указана основная информация о бизнес-объекте, такая как имя, адреса и информация о доставке.
 author: edupont04
 ms.topic: conceptual
-ms.search.form: 1,
-ms.date: 03/14/2022
+ms.search.form: 1
+ms.date: 04/20/2022
 ms.author: edupont
-ms.openlocfilehash: d9f8c6e831cae4efd53df435ffda0c6a96b0bc49
-ms.sourcegitcommit: 3ca91139035b34cfe0b0303e4caff7c6d02d0d14
+ms.openlocfilehash: 1adf94a191b2e0514f7a7435ac1807ca19498b14
+ms.sourcegitcommit: cfe4e924af2c89c09250270245e7a1eef1184bfc
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/14/2022
-ms.locfileid: "8417824"
+ms.lasthandoff: 04/21/2022
+ms.locfileid: "8626243"
 ---
 # <a name="company-information-overview"></a>Обзор информации о компании
 
@@ -21,14 +21,24 @@ ms.locfileid: "8417824"
 
 Следует заполнить страницу **Информация об организации** вместе со странице **Настройка ГК** для каждой организации, которая настраивается в программе. Вы также должны настроить каждую область в [!INCLUDE [prod_short](includes/prod_short.md)], такую как страница **Настройка модуля "Продажи и дебитор. задолж."** для каждой компании. Дополнительные сведения см. в разделе [Обзор задач по настройке [!INCLUDE[prod_short](includes/prod_short.md)]](setup.md).  
 
-Страница **Информация о компании** содержит разные поля и экспресс-вкладки в зависимости от вашей страны/региона. В следующей таблице описаны наиболее часто используемые экспресс-вкладки.
+Страница **Информация о компании** содержит разные поля и экспресс-вкладки в зависимости от вашей страны/региона. [!INCLUDE [tooltip-inline-tip_md](includes/tooltip-inline-tip_md.md)]В следующей таблице описаны наиболее часто используемые экспресс-вкладки.
 
 [!INCLUDE [admin-company-info-fasttabs](includes/admin-company-info-fasttabs.md)]
 
 После того, как вы закончите заполнение информации, вы можете закрыть страницу.  
+
+## <a name="work-with-multiple-companies"></a>Работа с несколькими компаниями
+
+Если ваш [!INCLUDE [prod_short](includes/prod_short.md)] включает в себя несколько компаний, ваши пользователи могут захотеть использовать *значки компании*, чтобы отслеживать, в какой компании они работают в настоящее время. Дополнительные сведения см. в [Отображение эмблемы организации для быстрого доступа к информации об организации](ui-change-basic-settings.md#badge).  
+
+## <a name="experience"></a>Функциональность
+
+Пользовательский интерфейс по умолчанию в пробной версии [!INCLUDE [prod_short](includes/prod_short.md)] не раскрывает все возможности. Вы можете включить полный интерфейс на странице **Информация о компании**. Дополнительные сведения см. в разделе [Изменение набора отображаемых функций](ui-experiences.md).  
 
 ## <a name="see-also"></a>См. также
 
 [Обзор задач по настройке [!INCLUDE[prod_short](includes/prod_short.md)]](setup.md)  
 [Краткое руководство. Информация о компании](quick-start-company-information.md)  
 [Настройка сведений об организации в Италии](LocalFunctionality/Italy/how-to-set-up-company-information.md)  
+[Изменение базовых настроек](ui-change-basic-settings.md)  
+[Изменение набора отображаемых функций](ui-experiences.md)  

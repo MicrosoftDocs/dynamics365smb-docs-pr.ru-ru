@@ -7,15 +7,15 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: find
-ms.search.form: TellMe, 9020, 9022, 9026, 9027, 9030, 9000, 9004, 9005, 9018, 9006, 9007, 9010, 9016, 9017
+ms.search.form: TellMe, 9020, 9022, 9026, 9027, 9030, 9000, 9009, 9004, 9005, 9024, 9006, 9007, 9010, 9016, 9017
 ms.date: 04/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: c8f75b9f2d5be0a7916996362518bb5d49762484
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
+ms.openlocfilehash: e1cbfea9a95d45fe78f0ef83ca2545b9a86a7645
+ms.sourcegitcommit: f9143302b8271f5924a027cacdf29dc37c95f4c6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8512053"
+ms.lasthandoff: 04/29/2022
+ms.locfileid: "8655752"
 ---
 # <a name="finding-pages-and-information-with-tell-me"></a>Поиск страниц и информации с помощью функции "Что вы хотите сделать"  
 В этом разделе описывается, как функция "Что вы хотите сделать" может помочь быстро перейти к таким вещам, как действия, страницы или отчеты, искать информацию о том, как выполнить определенную задачу, и найти дополнительные приложения и консультативные услуги для [!INCLUDE[prod_short](includes/prod_short.md)].  
@@ -33,6 +33,8 @@ ms.locfileid: "8512053"
 
 > [!NOTE]  
 >   Если вы предпочитаете использовать клавиатуру, используйте клавишу табуляции и клавиши со стрелками для выбора пункта в результатах. При нажатии клавиши ВВОД без выбора результата [!INCLUDE[prod_short](includes/prod_short.md)] открывает первый результат в списке.
+
+[!INCLUDE [about-ui-learn](includes/about-ui-learn.md)]
 
 ### <a name="finding-an-action-on-the-current-page"></a>Поиск действия на текущей странице
 Раздел **На текущей странице** позволяет искать и выполнять действия на открытой странице. Например, если открыта страница **Предложение по продаже** и вы ввели "клиент", этот раздел включает действие, которое открывает карточку клиента для клиента, выбранного в предложении по продаже.
