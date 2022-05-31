@@ -8,14 +8,14 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: VAT, posting, tax, value-added tax
 ms.search.form: 10, 1877, 470, 471, 472
-ms.date: 03/04/2022
+ms.date: 04/12/2022
 ms.author: bholtorf
-ms.openlocfilehash: 285f0f224853837e2aac6553c34d366afb09f08a
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
+ms.openlocfilehash: 98a190594dbd2b37f949bdc51e7f810dd739b769
+ms.sourcegitcommit: 4853614c85beb347091c5c4c1ea8d974dec887fc
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8519229"
+ms.lasthandoff: 05/11/2022
+ms.locfileid: "8740315"
 ---
 # <a name="set-up-calculations-and-posting-methods-for-value-added-tax"></a>Настройка методов расчета и учета налога на добавленную стоимость
 
@@ -225,6 +225,15 @@ ms.locfileid: "8519229"
 [Работа со средством изменения ставки НДС](finance-how-use-vat-rate-change-tool.md)  
 [Проверка регистрационных номеров НДС](finance-how-validate-vat-registration-number.md)  
 [Локальная функциональность в Business Central](about-localization.md)  
+[Отчетность по НДС в немецкой версии](LocalFunctionality/Germany/vat-reporting.md)  
+[Бельгийский НДС](LocalFunctionality/Belgium/belgian-vat.md)  
+[НДС в Италии](LocalFunctionality/Italy/italian-vat.md)  
+[Настройка электронных деклараций по НДС и ICP в голландской версии](LocalFunctionality/Netherlands/how-to-set-up-electronic-vat-and-icp-declarations.md)  
+[Отчеты по НДС в испанской версии](LocalFunctionality/Spain/vat-reports.md)  
+[Настройка учета налога на товары и услуги в австралийской версии](LocalFunctionality/Australia/how-to-set-up-goods-and-service-tax-posting.md)  
+[НДС в чешской версии](LocalFunctionality/Czech/finance-vat.md)  
+[Отчетность по НДС в норвежской версии](LocalFunctionality/Norway/norwegian-vat-reporting.md)  
+[Отчетность по налогу на товары и услуги и HST-налогу в Канаде](LocalFunctionality/Canada/sales-tax-goods-services.md)  
 
 ## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/process-vat-dynamics-365-business-central/)
 

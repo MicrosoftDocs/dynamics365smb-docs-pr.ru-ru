@@ -237,21 +237,9 @@
 ##### [Поиск учтенных документов без записей входящих документов](across-how-find-posted-documents-without-income-document-records.md)
 ##### [Управление большим количеством записей входящих документов](across-how-manage-many-income-document-records.md)
 
-### Рабочий процесс
+### Рабочие процессы
 #### [Обзор рабочего процесса](across-workflow.md)
-#### Настройка рабочих процессов
-##### [Настройка рабочих процессов](across-set-up-workflows.md)
-##### [Настройка пользователей рабочих процессов](across-how-to-set-up-workflow-users.md)
-##### [Настройка утверждающих пользователей](across-how-to-set-up-approval-users.md)
-##### [Уведомления рабочих процессов](across-setting-up-workflow-notifications.md)
-##### [Определение сроков и порядка получения уведомлений пользователями](across-how-to-specify-when-and-how-to-receive-notifications.md)
-##### [Создание и изменение макетов](ui-get-started-layouts.md)
-<!--##### [Create and Modify Custom Report Layouts](ui-how-create-custom-report-layout.md)-->
-##### [Настройка электронной почты](admin-how-setup-email.md)
-##### [Создание рабочих процессов](across-how-to-create-workflows.md)
-##### [Создание рабочих процессов из шаблонов рабочих процессов](across-how-to-create-workflows-from-workflow-templates.md)
-##### [Экспорт и импорт рабочих процессов](across-how-to-export-and-import-workflows.md)
-##### [Пошаговое руководство. Настройка и использование рабочего процесса утверждения покупки](walkthrough-setting-up-and-using-a-purchase-approval-workflow.md)
+#### [Использование Business Central в потоках Power Automate](across-how-use-financials-data-source-flow.md)
 #### Использование рабочих процессов
 ##### [Использование рабочих процессов](across-use-workflows.md)
 ##### [Включение рабочих процессов](across-how-to-enable-workflows.md)
@@ -259,7 +247,7 @@
 ##### [Ограничение и разрешение использования записи](across-how-to-restrict-and-allow-usage-of-a-record.md)
 ##### [Просмотр архивированных экземпляров шагов рабочих процессов](across-how-to-view-archived-workflow-step-instances.md)
 ##### [Удаление рабочих процессов](across-how-to-delete-workflows.md)
-
+<!--data exchange-->
 ### Электронный обмен данными
 #### [Обзор OData Exchange](across-data-exchange.md)
 #### [О структуре обмена данными](across-about-the-data-exchange-framework.md)
@@ -672,8 +660,18 @@
 #### [Учет сервиса](service-service-posting.md)
 #### [Учет сервисных заказов и кредит-нот](service-how-to-post-service-orders.md)
 #### [Предоставление и прием товаров для временного пользования](service-how-to-lend-receive-loaners.md)
+<!--Shopify-->
+## Интернет-магазин с Shopify
+### [Начало работы с соединителем Shopify](shopify/get-started.md)
+### [Синхронизация элементов в Shopify](shopify/synchronize-items.md)
+### [Синхронизация клиентов в Shopify](shopify/synchronize-customers.md)
+### [Синхронизация и выполнение заказов на продажу в Shopify](shopify/synchronize-orders.md)
+### [Запуск заданий в фоновом режиме](shopify/background.md)
+### [Устранение неполадок с соединителем Shopify](shopify/troubleshoot.md)
+### [Часто задаваемые вопросы по соединителю Shopify](shopify/shopify-faq.md)
+
 <!--Company Hub-->
-## Раздел организации
+## Мои организации
 ### [Управление работой компаний в разделе организаций](company-hub.md)
 ### [Добавьте компании в свой раздел организации](company-hub-add-company.md)
 ### [Устранение неполадок в вашем Company Hub](company-hub-troubleshooting.md)
@@ -770,6 +768,7 @@
 ##### [Корпоративные номера и номера филиалов](LocalFunctionality/Belgium/enterprise-numbers-and-branch-numbers.md)
 ##### [Ограничение учетного периода](LocalFunctionality/Belgium/how-to-limit-the-posting-period.md)
 ##### [Задание рабочей даты в качестве даты учета](LocalFunctionality/Belgium/how-to-set-the-work-date-as-the-posting-date.md)
+##### [Указание шаблона журнала обязательным](LocalFunctionality/Belgium/specify-journal-template-mandatory.md)
 
 ### Канада
 #### [Локальная функциональность в канадской версии](LocalFunctionality/Canada/canada-local-functionality.md)
@@ -823,6 +822,7 @@
 #### НДС
 ##### [Печать отчетов по выверке НДС](LocalFunctionality/Denmark/how-to-print-vat-reconciliation-reports.md)
 ##### [Отчетность VAT-VIES](LocalFunctionality/Denmark/vat-vies-reporting.md)
+##### [Настройка ИНН для Интрастат](LocalFunctionality/Denmark/vat-registration-no-intrastat.md)
 #### Банковские операции и платежи
 ##### [Сведения FIK в журнале выверки платежей](LocalFunctionality/Denmark/fik-details-in-the-payment-reconciliation-journal.md)
 ##### [Расширение платежей и выверки (DK)](ui-extensions-payments-reconciliation-formats-dk.md)
@@ -1329,6 +1329,7 @@
 ##### [Модуль расчетов с клиентами Cartera](LocalFunctionality/Spain/receivables-cartera-module.md)
 ##### [Модуль платежей Cartera](LocalFunctionality/Spain/payments-cartera-module.md)
 ##### [SII — типы счетов и кредит-нот в документах по продаже и покупке](LocalFunctionality/Spain/SII-invoice-types-sales-purchase-documents.md)
+##### [Настройка SII для отчетности по НДС](LocalFunctionality/Spain/sii-setup.md)
 #### Основные финансы
 ##### [Настройка и закрытие сальдо отчета о прибыли и убытках](LocalFunctionality/Spain/how-to-set-up-and-close-income-statement-balances.md)
 ##### [Создание отступа и проверка плана счетов](LocalFunctionality/Spain/how-to-indent-and-validate-chart-of-accounts.md)
@@ -1572,6 +1573,17 @@
 ##### [Вопросы и ответы](ui-outlook-addin-faq.yml)
 ### Настройка отчетов
 #### [Выбор отчета](across-report-selections.md)
+### Настройка рабочих процессов утверждения на основе шаблонов
+#### [Настройка рабочих процессов утверждения](across-set-up-workflows.md)
+#### [Настройка пользователей рабочих процессов](across-how-to-set-up-workflow-users.md)
+#### [Настройка утверждающих пользователей](across-how-to-set-up-approval-users.md)
+#### [Уведомления рабочих процессов](across-setting-up-workflow-notifications.md)
+#### [Определение сроков и порядка получения уведомлений о рабочих процессах](across-how-to-specify-when-and-how-to-receive-notifications.md)
+#### [Создание рабочих процессов](across-how-to-create-workflows.md)
+#### [Создание рабочих процессов из шаблонов рабочих процессов](across-how-to-create-workflows-from-workflow-templates.md)
+#### [Экспорт и импорт рабочих процессов](across-how-to-export-and-import-workflows.md)
+#### [Пошаговое руководство. Настройка и использование рабочего процесса утверждения покупки](walkthrough-setting-up-and-using-a-purchase-approval-workflow.md)
+<!--Connectors-->
 ### Настройка подключений
 #### [Получение надстройки Business Central для Excel](admin-deploy-excel-addin.md)
 #### Использование Business Central в качестве папки "Входящие" для бизнеса в Outlook 
@@ -1606,7 +1618,8 @@
 ###### [Использование приложений Business Central в Power BI](across-powerbi-business-central-apps.md)
 ##### [Вопросы и ответы](power-bi-faq.md)
 #### Использование Power Automate с Business Central
-##### [Использование Business Central в автоматическом бизнес-процессе](across-how-use-financials-data-source-flow.md)
+##### [Использование Business Central в потоках Power Automate](across-how-use-financials-data-source-flow.md)
+##### [Устранение неполадок в автоматизированных рабочих процессах](across-flow-troubleshoot.md)  
 #### Использование Power Apps с Business Central
 ##### [Подключение к данным Business Central для создания бизнес-приложения с помощью Power Apps](across-how-use-financials-data-source-powerapps.md)
 #### [Переход с приложения QuickBooks на Business Central](across-quickbooks-to-business-edition.md)
@@ -1760,23 +1773,6 @@
 ### [Классификация конфиденциальности данных](admin-classifying-data-sensitivity.md)
 ### [Ответ на запросы о личных данных](admin-responding-to-requests-about-personal-data.md)
 ### [Создание новых компаний](about-new-company.md)
-### Настройка организации с RapidStart Services
-#### [Обзор RapidStart](admin-set-up-a-company-with-rapidstart.md)
-#### Настройка конфигурации организации
-##### [Обзор конфигурации компании](admin-set-up-company-configuration.md)
-##### [Управление конфигурацией организации в журнале](admin-how-to-manage-company-configuration-in-a-worksheet.md)
-##### [Подготовка пакета конфигурации](admin-how-to-prepare-a-configuration-package.md)
-#### Применение конфигураций к новым организациям
-##### [Применение конфигураций к новым организациям](admin-apply-configuration-to-new-companies.md)
-##### [Создание новой организации](admin-how-to-create-a-new-company.md)
-##### [Настройка новых организаций](admin-how-to-configure-new-companies.md)
-##### [Настройка организации с помощью мастера RapidStart](admin-how-to-configure-a-company-with-the-rapidstart-wizard.md)
-##### [Копирование данных в новые организации](admin-how-to-copy-data-to-new-companies.md)
-##### [Создание входящего сальдо журнала](admin-how-to-create-journal-opening-balances.md)
-#### [Сбор данных настройки клиента](admin-gather-customer-setup-values.md)
-#### [Подготовьтесь к миграции данных клиента с помощью шаблонов](admin-use-templates-to-prepare-customer-data-for-migration.md)
-#### [Миграция данных клиента](admin-migrate-customer-data.md)
-#### [Советы и подсказки: RapidStart Services](admin-tips-and-tricks-rapidstart-services.md)
 ### [Журнал изменений](across-log-changes.md)
 ### [Использование очередей работ для планирования задач](admin-job-queues-schedule-tasks.md)
 ### [Управление хранилищем путем сжатия данных или удаления документов](admin-manage-documents.md)

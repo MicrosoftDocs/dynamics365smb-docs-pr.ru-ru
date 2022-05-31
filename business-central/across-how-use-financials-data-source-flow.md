@@ -1,130 +1,65 @@
 ---
-title: Связывание данных с Power Automate | Microsoft Docs
-description: Вы можете сделать данные Business Central доступными в качестве источника данных и указать URL-адрес OData ваших веб-служб для создания автоматического бизнес-процесса.
+title: Использование Business Central в рабочих процессах Power Automate
+description: Настройте и используйте рабочие процессы Power Automate, которые создают или изменяют данные Business Central.
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: workflow, OData, Power App, SOAP, Entity set not found, workflowWebhookSubscriptions
-ms.date: 07/27/2021
+ms.date: 05/12/2022
 ms.author: edupont
 author: jswymer
-ms.openlocfilehash: 62718df1c80cb419501b72bcbdb6d7a6f9f18402
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
+ms.openlocfilehash: 93eb177ff9ba102277a50f9686ea941df33d5563
+ms.sourcegitcommit: 13ac10624bee47c73989b2b20942a01c849b4a6a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8518471"
+ms.lasthandoff: 05/12/2022
+ms.locfileid: "8744114"
 ---
-# <a name="use-prod_short-in-an-automated-workflow"></a>Использование [!INCLUDE[prod_short](includes/prod_short.md)] в автоматическом бизнес-процессе
+# <a name="use-prod_short-in-power-automate-flows"></a>Использование [!INCLUDE[prod_short](includes/prod_short.md)] в рабочих процессах Power Automate
 
-Можно использовать данные [!INCLUDE[prod_short](includes/prod_short.md)] как часть рабочего процесса в Microsoft Power Automate.
-
-> [!NOTE]
-> В дополнение к Power Automate, можно использовать функцию рабочего процесса в [!INCLUDE[prod_short](includes/prod_short.md)]. Обратите внимание, что хотя это две отдельные системы для создания рабочих процессов, любой шаблон рабочего процесса, созданный в Power Automate, добавляется в список рабочих процессов в [!INCLUDE[prod_short](includes/prod_short.md)]. Дополнительные сведения см. в разделе [Рабочий процесс](across-workflow.md).  
+Можно использовать данные [!INCLUDE[prod_short](includes/prod_short.md)] как часть рабочего процесса в Microsoft Power Automate. Создавайте собственные рабочие процессы и подключайтесь к своим данным с помощью соединителя [!INCLUDE [prod_short](includes/prod_short.md)].  
 
 > [!NOTE]  
 > Вы должны иметь допустимую учетную запись в [!INCLUDE[prod_short](includes/prod_short.md)] и в Power Automate.  
 
-## <a name="add-prod_short-as-a-data-source-in-power-automate"></a>Добавление [!INCLUDE[prod_short](includes/prod_short.md)] как источника данных в Power Automate
+> [!TIP]
+> Кроме Power Automate, в [!INCLUDE[prod_short](includes/prod_short.md)] можно использовать шаблоны рабочего процесса утверждения. Хотя это две отдельные системы для создания рабочих процессов, любой шаблон рабочего процесса утверждения, созданный в Power Automate, добавляется в список рабочих процессов в [!INCLUDE[prod_short](includes/prod_short.md)]. Дополнительные сведения см. в разделе [Рабочие процессы](across-workflow.md).  
 
-1. В браузере перейдите к [flow.microsoft.com](https://flow.microsoft.com) и выполните вход.
-2. Выберите **Мои потоки** в ленте вверху страницы.
-3. Есть три способа создать поток: **Начните с шаблона**, **Начните с пустого** и **Начните с соединителя**. Шаблон представляет собой предопределенный поток, уже созданный для пользователя. Чтобы использовать шаблон, выберите его и создайте подключение для каждого сервиса, используемого шаблоном. При использовании вариантов **Начните с пустого** и **Начните с соединителя** можно создать новый поток совершенно с нуля.
-4. Чтобы создать поток с нуля, на странице **Мои потоки** выберите **Начните с пустого** и **Автоматизированный поток**.
-5. Найдите соединитель **Microsoft [!INCLUDE[prod_long](includes/prod_long.md)]**.
-6. Укажите имя и выберите триггер, который вы будете использовать для своего потока.
-7. Из списка доступных триггеров выберите один из доступных триггеров [!INCLUDE[prod_short](includes/prod_short.md)]:  
+## <a name="automated-workflows"></a>Автоматизированные рабочие процессы
 
-    - *При запросе утверждения поставщика*  
-    - *Если запрашивается утверждение строки финансового журнала* 
-    - *При удалении записи*
-    - *При изменении записи*
-    - *При создании записи*
-    - *Когда запись изменена*
-    - *Если запрашивается утверждение раздела финансового журнала* 
-    - *Если запрашивается утверждение клиента*
-    - *Если запрашивается утверждение товара*
-    - *Если запрашивается утверждение документа покупки*
-    - *При запросе утверждения документа покупки*
+С помощью Power Automate вы можете создавать бизнес-процессы непосредственно внутри компании и полагаться на разработчиков-любителей. Дополнительные сведения см. в разделе [Настройка автоматизированных рабочих процессов](/dynamics365/business-central/dev-itpro/powerplatform/automate-workflows) в материалах по администрированию.  
 
-8. Power Automate предложит выбрать среду и организацию в пределах вашего арендатора [!INCLUDE[prod_short](includes/prod_short.md)], а также все условия в ваших данных, которые вам требуется обнаруживать.
+## <a name="manual-instant-flows"></a>Ручные мгновенные рабочие процессы
 
-    > [!NOTE]
-    > Соединитель [!INCLUDE[prod_short](includes/prod_short.md)] для Power Automate поддерживает несколько рабочих сред и сред-песочниц. Если вы не создали несколько рабочих сред и сред-песочниц, **Рабочая среда** — единственный доступный для выбора вариант.  
+С мая 2022 года администратор [!INCLUDE [prod_short](includes/prod_short.md)] онлайн может [включить функцию](admin-feature-management.md), чтобы рабочий процесс Power Automate можно было запускать с большинства страниц. Дополнительные сведения см. в разделе [Настройка автоматизированных рабочих процессов](/dynamics365/business-central/dev-itpro/powerplatform/automate-workflows) в материалах по администрированию.  
 
-    На этом шаге вы успешно подключились к данным Business Central[!INCLUDE[prod_short](includes/prod_short.md)] и готовы начать создание потока.
+После того как администратор подключит [!INCLUDE [prod_short](includes/prod_short.md)] к Power Automate, вы увидите все рабочие процессы, добавленные вашей организацией, выбрав действие **Автоматизировать** на соответствующих страницах. Вы сможете запускать рабочие процессы, не покидая [!INCLUDE [prod_short](includes/prod_short.md)].  
 
-9. Для создания потока на основе шаблона выберите вариант **Начните с шаблона**.
-10. Найдите шаблоны **Microsoft [!INCLUDE[prod_long](includes/prod_long.md)]**.
-11. Из списка доступных шаблонов выберите один из шаблонов, а затем выберите **Создать**.  
+Эти автоматизированные рабочие процессы открываются на панели в [!INCLUDE [prod_short](includes/prod_short.md)] онлайн, чтобы вы оставались в контексте бизнес-процесса, над которым работали. На некоторых страницах действие **Автоматизировать** расположено в меню **Больше параметров**. Найдите его, выберите пункт меню **Power Automate**, а затем нажмите на соответствующую ссылку, чтобы запустить рабочий процесс. Подключение к Power Automate уже настроено.  
 
-    - *Запросить утверждение для заказа на продажу Microsoft [!INCLUDE[prod_long](includes/prod_long.md)]*
-    - *Запросить утверждение для предложения по продаже Microsoft [!INCLUDE[prod_long](includes/prod_long.md)]*
-    - *Запросить утверждение для счета на продажу Microsoft [!INCLUDE[prod_long](includes/prod_long.md)]*
-    - *Запросить утверждение для кредит-ноты продажи Microsoft [!INCLUDE[prod_long](includes/prod_long.md)]*
-    - *Запросить утверждение для клиента Microsoft [!INCLUDE[prod_long](includes/prod_long.md)]*
-    - *Запросить утверждение для заказа на покупку Microsoft [!INCLUDE[prod_long](includes/prod_long.md)]*
-    - *Запросить утверждение для счета на покупку Microsoft [!INCLUDE[prod_long](includes/prod_long.md)]*
-    - *Запросить утверждение для кредит-ноты покупки Microsoft [!INCLUDE[prod_long](includes/prod_long.md)]*  
-    - *Запросить утверждение для товара Microsoft [!INCLUDE[prod_long](includes/prod_long.md)]*
-    - *Запросить утверждение для поставщика Microsoft [!INCLUDE[prod_long](includes/prod_long.md)]*
-    - *Запросить утверждение раздела финансового журнала Microsoft [!INCLUDE[prod_long](includes/prod_long.md)]*  
-    - *Запросить утверждение строк финансового журнала Microsoft [!INCLUDE[prod_long](includes/prod_long.md)]*
-12. Power Automate отобразит список служб, используемых в шаблоне потока, и попытается автоматически подключиться к этим службам. Если вы ранее не подключались к какой-либо службе, вам будет предложено войти в каждую из служб, к которой нужно подключиться. После успешного установления подключения рядом с каждой из служб появится зеленая галочка. Выберите **Продолжить**.
-13. Power Automate предложит вам выбрать среду и организацию в вашем арендаторе [!INCLUDE[prod_short](includes/prod_short.md)]. Поскольку каждый этап в потоке не зависит от следующего, при использовании шаблона [!INCLUDE[prod_short](includes/prod_short.md)] Power Automate может потребоваться указать среду и организацию несколько раз.
+Для большинства рабочих процессов требуется заполнить одно или два поля, прежде чем выбирать действие **Запустить процесс**.  
 
-Дополнительные сведения см. в разделе [Документация по Power Automate](/power-automate/getting-started).
+> [!TIP]
+> Если вы не видите действие **Автоматизировать**, ваш сервис [!INCLUDE [prod_short](includes/prod_short.md)], вероятно, еще не настроен для использования Power Automate. Для получения дополнительных сведений обратитесь к администратору.
 
-## <a name="troubleshooting"></a>Устранение неполадок
+## <a name="add-more-automated-flows-and-manual-instant-flows"></a>Добавьте больше автоматизированных рабочих процессов и ручных мгновенных рабочих процессов
 
-### <a name="entity-set-not-found-error"></a>Ошибка "Набор сущностей не найден"
+Вы можете создавать рабочие процессы на веб-сайте [powerautomate.microsoft.com](https://powerautomate.microsoft.com). Однако если ваш администратор включил возможность запуска рабочих процессов Power Automate в [!INCLUDE [prod_short](includes/prod_short.md)] онлайн, вы можете начать создавать рабочий процесс с действия **Автоматизировать** на соответствующих страницах. На некоторых страницах действие **Автоматизировать** расположено в меню **Больше параметров**. Найдите его, выберите пункт меню **Power Automate**, а затем нажмите **Создать рабочий процесс**. Power Automate откроется в новой вкладке браузера, и вы автоматически войдете в систему.
 
-#### <a name="problem"></a>Проблема
+## <a name="manage-workflows"></a>Управление рабочими процессами
 
-При создании нового потока Power Automate с использованием триггера утверждения [!INCLUDE[prod_short](includes/prod_short.md)], например *Если запрашивается утверждение документа покупки*, вы получите сообщение об ошибке, подобное следующему:
-
-**Набор сущностей не найден: \<name\>**
-
-где **\<name\>** — это имя отсутствующей веб-службы, например **workflowWebhookSubscriptions** или **workflowPurchaseDocumentLines**.
-
-#### <a name="possible-cause"></a>Возможная причина
-
-Для использования Power Automate для интеграции с вашим утверждениями [!INCLUDE[prod_short](includes/prod_short.md)] требуется, чтобы определенные объекты страницы и модуля codeunit были опубликованы как веб-службы. По умолчанию большинство необходимых объектов публикуются для вас как веб-службы. Но в некоторых случаях ваша среда могла быть настроена так, что эти объекты больше не публикуются.
-
-#### <a name="fix"></a>Исправление
-
-Перейдите на страницу **Веб-службы** и убедитесь, что следующие объекты опубликованы как веб-службы. Для каждого объекта в списке должна быть запись с установленным флажком **Опубликовано**. 
-
-|Тип объекта|ИД объекта|Имя объекта|Имя службы|
-|-----------|---------|-----------|------------|
-|Модуль Codeunit|  1544    |WorkflowWebhookSubscription|WorkflowActionResponse|
-|Стр.|  6408|   workflowCustomers|  workflowCustomers|
-|Стр.   |6406   |workflowGenJournalBatches| workflowGenJournalBatches|
-|Стр.   |6407   |workflowGenJournalLines|workflowGenJournalLines|
-|Стр.   |6409   |workflowItems| workflowItems|
-|Стр.   |6405   |Объект строки документа покупки|workflowPurchaseDocumentLines|
-|Стр.|  6404    |workflowPurchaseDocuments| workflowPurchaseDocuments|
-|Стр.|  6403    |Объект строки документа продажи |workflowSalesDocumentLines|
-|Стр.|  6402|   workflowSalesDocuments| workflowSalesDocuments|
-|Стр.|  6410    |workflowVendors|   workflowVendors|
-|Стр.|  831 |workflowWebhookSubscriptions|  workflowWebhookSubscriptions|
-
-> [!NOTE]
-> Значение **Имя службы** должно быть точно таким, как показано в таблице. Не меняйте и не переводите название службы.
-
-Дополнительные сведения о публикации веб-служб см. в разделе [Публикация веб-службы](across-how-publish-web-service.md).
+Вы посмотреть все рабочие процессы, к которым у вас есть доступ, выбрав действие **Управление рабочими процессами** в меню **Power Automate**. Список процессов откроется в новой вкладке браузера, и вы автоматически войдете в Power Automate. Там можно увидеть, когда каждый рабочий процесс запускался в последний раз.  
 
 ## <a name="see-also"></a>См. также
 
-[Подготовьтесь к ведению бизнеса](ui-get-ready-business.md)  
-[Рабочий процесс](across-workflow.md)  
+[Устранение неполадок в автоматизированных рабочих процессах [!INCLUDE[prod_short](includes/prod_short.md)]](across-flow-troubleshoot.md)  
+[Подготовка к ведению бизнеса](ui-get-ready-business.md)  
+[Рабочие процессы](across-workflow.md)  
 [Импорт бизнес-данных из других финансовых систем](across-import-data-configuration-packages.md)  
 [Назначение разрешений пользователям и группам](ui-define-granular-permissions.md)  
-[Управление рабочими процессами [!INCLUDE[prod_long](includes/prod_long.md)]](across-use-workflows.md)  
-[Настройка пользователя для утверждений](across-how-to-set-up-approval-users.md)  
 [Настройка [!INCLUDE[prod_short](includes/prod_short.md)]](setup.md)  
 [Финансы](finance.md)  
-
+[Настройка автоматизированных рабочих процессов](/dynamics365/business-central/dev-itpro/powerplatform/automate-workflows)  
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

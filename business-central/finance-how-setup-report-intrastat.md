@@ -10,12 +10,12 @@ ms.search.keywords: electronic document, Intrastat, trade, EU, European Union
 ms.search.form: 308, 309, 310, 311, 325, 326, 327, 328, 405, 406, 8451, 12202, 31077
 ms.date: 01/28/2022
 ms.author: bholtorf
-ms.openlocfilehash: 2530b6a5d562cfd22abd8ae097408388034a5711
-ms.sourcegitcommit: 4a57fb5b88b9ebbb61fdd1b25e1fd4ba0013c8e5
+ms.openlocfilehash: d5b1358166f8d26a62da79059a73948bcd7b9784
+ms.sourcegitcommit: 4853614c85beb347091c5c4c1ea8d974dec887fc
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/25/2022
-ms.locfileid: "8485007"
+ms.lasthandoff: 05/11/2022
+ms.locfileid: "8740341"
 ---
 # <a name="set-up-and-report-intrastat"></a>Настройка и подача отчетности Интрастат
 
@@ -125,7 +125,7 @@ ms.locfileid: "8485007"
 6. Опубликуйте изменения, внесенные в Excel, обратно в [!INCLUDE[prod_short](includes/prod_short.md)]
 
 > [!Note]
-> В версии [!INCLUDE[prod_short](includes/prod_short.md)], которая не поддерживает [**Изменить в Excel**](across-work-with-excel.md#edit-in-excel) для журналов можно [создавать пакеты конфигурации](admin-how-to-prepare-a-configuration-package.md#to-create-a-configuration-package) для экспорта и импорта строк журнала Интрастат в Excel. 
+> В версиях [!INCLUDE[prod_short](includes/prod_short.md)], которые не поддерживают функцию [**Изменить в Excel**](across-work-with-excel.md#edit-in-excel) для журналов, можно создавать пакеты конфигурации для экспорта и импорта строк журнала Интрастат в Excel. Для получения дополнительной информации см. раздел [Перенос локальных данных в Business Central Online](/dynamics365/business-central/dev-itpro/administration/migrate-data) в материалах для администраторов.
 
 ### <a name="report-intrastat-on-a-form-or-a-file"></a>Предоставление отчета Интрастат на бланке или в файле
 
@@ -167,6 +167,7 @@ ms.locfileid: "8485007"
 ## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/process-intrastat-dynamics-365-business-central/index)
 
 ## <a name="see-also"></a>См. также
+
 [Финансовый менеджмент](finance.md)
 
 
