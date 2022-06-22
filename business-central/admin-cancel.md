@@ -7,48 +7,43 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: remove, delete
-ms.date: 02/23/2022
+ms.date: 06/08/2022
 ms.author: edupont
-ms.openlocfilehash: f6586423ed8fa0254c84d2cd8737d1104f1ecea4
-ms.sourcegitcommit: 6d48c1f601ed22b6b0358311baf63c073ab75e64
+ms.openlocfilehash: 929993c80c52857dd01e978552654c7f5a42e496
+ms.sourcegitcommit: 7b6d70798b4da283d1d3e38a05151df2209c2b72
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/01/2022
-ms.locfileid: "8366966"
+ms.lasthandoff: 06/12/2022
+ms.locfileid: "8950123"
 ---
 # <a name="unsubscribe-or-remove-prod_short"></a>Отмена подписки или удаление [!INCLUDE[prod_short](includes/prod_short.md)]
 
 Если вы хотите прекратить пользоваться [!INCLUDE[prod_short](includes/prod_short.md)], вы можете закрыть свою учетную запись или попросить удалить лицензию из вашей учетной записи. Действия, которые необходимо предпринять, отличаются в зависимости от того, пользуетесь ли вы бесплатной пробной версией или у вас есть подписка.  
 
-## <a name="closing-your-free-trial-of-prod_short"></a>Прекращение бесплатного пробного пользования [!INCLUDE[prod_short](includes/prod_short.md)]
+Если вы хотите завершить работу с пробной версией, ваш администратор может узнать больше о различных типах пробных версий и о порядке их завершения [здесь](/dynamics365/business-central/dev-itpro/administration/trials-subscriptions)  
 
-Если вы зарегистрировались на бесплатное пробное пользование, но не хотите продолжать пользоваться [!INCLUDE[prod_short](includes/prod_short.md)], вы можете в любой момент закрыть свою учетную запись. Перед закрытием учетной записи рекомендуем экспортировать данные, если они у вас есть. Вы можете прочитать о том, как экспортировать данные в Excel в [Экспорт данных в другие финансовые системы](about-export-data.md#exporting-data-to-other-finance-systems). Если вы предпочитаете экспортировать все данные в контейнер хранилища Azure, ваш администратор Microsoft 365 может сделать это в центре администрирования. Для получения дополнительной информации см. [Экспорт баз данных в центре администрирования](/dynamics365/business-central/dev-itpro/administration/tenant-admin-center-database-export).  
+Если вы хотите прекратить подписку, ваш администратор должен удалить подписку в центре администрирования Microsoft 365. Для получения дополнительных сведений см. [здесь](/dynamics365/business-central/dev-itpro/administration/trials-subscriptions?#removing-a-subscription).  
 
-Вы должны попросить своего администратора Microsoft 365 удалить пробную подписку из учетной записи вашей компании в [центре администрирования Microsoft 365](https://admin.microsoft.com/).  
+> [!TIP]
+> Перед закрытием учетной записи рекомендуем экспортировать данные, если они у вас есть.
 
-Если вы зарегистрировались на [!INCLUDE[prod_short](includes/prod_short.md)] с помощью учетной записи, не являющейся деловой учетной записью Microsoft 365, у вас нет администратора Microsoft 365. Вместо этого следует отменить подписку, связавшись с отделом отмены [!INCLUDE[prod_short](includes/prod_short.md)] путем отправки сообщения электронной почты по адресу [cancelbusinesscentra@microsoft.com](mailto:cancelbusinesscentra@microsoft.com). Вы должны указать имя своего арендатора [!INCLUDE[prod_short](includes/prod_short.md)] в сообщении, чтобы мы могли идентифицировать вас. Вы можете найти эту информацию на странице **Справка и поддержка**. Дополнительные сведения см. в разделе [Ресурсы по Справке и поддержке](product-help-and-support.md).  
-
-## <a name="unsubscribing-by-removing-prod_short-from-your-microsoft-365-experience"></a>Отмена подписки путем удаления [!INCLUDE[prod_short](includes/prod_short.md)] из Microsoft 365
-
-Если ваша компания подписывается на [!INCLUDE[prod_short](includes/prod_short.md)], но вам, как пользователю, больше не нужен доступ, вы должны попросить администратора или партнера Dynamics 365 удалить лицензию [!INCLUDE[prod_short](includes/prod_short.md)] из вашей учетной записи пользователя Microsoft 365. Если [!INCLUDE[prod_short](includes/prod_short.md)] удаляется из вашей учетной записи, а другие пользователи в организации продолжают использовать подписку, они по-прежнему будут иметь доступ к общим данным в организации [!INCLUDE[prod_short](includes/prod_short.md)].  
-
-Если ваша компания желает отменить подписку на [!INCLUDE[prod_short](includes/prod_short.md)], партнер Dynamics 365 может удалить платную подписку из учетной записи компании. Для получения дополнительной информации см. раздел [Администрирование Business Central Online](/dynamics365/business-central/dev-itpro/administration/tenant-administration) в содержимом для разработчиков и ИТ-специалистов.  
-
-Управление учетными записями и лицензиями осуществляется с помощью [центра администрирования Microsoft 365](https://admin.microsoft.com/). Удалять лицензии на [!INCLUDE[prod_short](includes/prod_short.md)] из учетных записей пользователя или удалить подписку из учетной записи компании могут только администраторы.  
+Вы можете прочитать о том, как экспортировать данные в Excel в [Экспорт данных в другие финансовые системы](about-export-data.md#exporting-data-to-other-finance-systems). Если вы предпочитаете экспортировать все данные в контейнер хранилища Azure, ваш администратор Microsoft 365 может сделать это в центре администрирования. Для получения дополнительной информации см. [Экспорт баз данных в центре администрирования](/dynamics365/business-central/dev-itpro/administration/tenant-admin-center-database-export).  
 
 ## <a name="removing-prod_short-from-your-app-launcher"></a>Удаление [!INCLUDE[prod_short](includes/prod_short.md)] из средства запуска приложений
 
-Если требуется скрыть [!INCLUDE[prod_short](includes/prod_short.md)] из средства запуска приложений, вы можете просто открепить его. При этом никакие данные не будут удалены, а подписка сохранится.  
+Если требуется скрыть [!INCLUDE[prod_short](includes/prod_short.md)] из средства запуска приложений, вы можете открепить его. Данные не теряются, и этот шаг не отменяет вашу подписку.  
 
 ## <a name="see-also"></a>См. также
 
-[Подготовьтесь к ведению бизнеса](ui-get-ready-business.md)  
-[Создание новых организаций](about-new-company.md)  
+[Вопросы и ответы по пробной версии Business Central](trial-faq.md)  
+[Пробные версии и подписки (для администраторов)](/dynamics365/business-central/dev-itpro/administration/trials-subscriptions)  
+[Подготовка к ведению бизнеса](ui-get-ready-business.md)  
+[Создание новых компаний](about-new-company.md)  
 [Экспорт бизнес-данных в Excel](about-export-data.md)  
 [Центр администрирования Microsoft 365](https://admin.microsoft.com/)  
 [Какова продолжительность пробного периода и как отменить подписку?](https://community.dynamics.com/business/b/financials/archive/2016/11/28/how-long-is-the-trial-period-and-how-do-i-cancel)  
 [Экспорт бизнес-данных в Excel](about-export-data.md)  
 [Экспорт баз данных в центре администрирования](/dynamics365/business-central/dev-itpro/administration/tenant-admin-center-database-export)  
-
+[Подписки и платежная документация Microsoft 365 Business](/microsoft-365/commerce/)  
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

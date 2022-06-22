@@ -8,12 +8,12 @@ ms.search.keywords: SMTP, mail, Microsoft 365, cover, body, PayPal, layout
 ms.search.form: ''
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 5e791eb8f066085b8230aeac4c85a82c67093f06
-ms.sourcegitcommit: f9143302b8271f5924a027cacdf29dc37c95f4c6
+ms.openlocfilehash: 632591160ab5cfad7d33fc26bf3f9a9b4877176a
+ms.sourcegitcommit: 7b6d70798b4da283d1d3e38a05151df2209c2b72
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "8655581"
+ms.lasthandoff: 06/12/2022
+ms.locfileid: "8950494"
 ---
 # <a name="send-documents-and-emails"></a>Отправка документов и сообщений электронной почты
 
@@ -44,7 +44,7 @@ ms.locfileid: "8655581"
 7. В поле **Вложение** созданный счет по умолчанию прикрепляется как PDF-файл.
 8. В поле **Содержание** введите краткое сообщение получателю.
 
-    Если на странице **Выбор отчета - продажи** настроен текст сообщения электронной почты, связанный с документом, поле **Содержание** заполняется автоматически. Дополнительные сведения см. в разделе [Настройка многоразовых текстов и макетов электронной почты для документов продажи и закупок](admin-how-setup-email.md#set-up-reusable-email-texts-and-layouts-for-sales-and-purchase-documents).
+    Если на странице **Выбор отчета - продажи** настроен текст сообщения электронной почты, связанный с документом, поле **Содержание** заполняется автоматически. Для получения дополнительной информации см. раздел [Настройка повторно используемых текстов и макетов сообщений электронной почты](admin-how-setup-email.md#set-up-reusable-email-texts-and-layouts).
 9. Нажмите кнопку **ОК** для отправки сообщения электронной почты.
 
 > [!NOTE]  

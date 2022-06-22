@@ -8,14 +8,14 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: API templates, configuring templates
 ms.search.form: 5469
-ms.date: 04/01/2021
+ms.date: 06/07/2022
 ms.author: solsen
-ms.openlocfilehash: f5c91eb303d26f88af56613790ce0d5aa5d7854a
-ms.sourcegitcommit: 4853614c85beb347091c5c4c1ea8d974dec887fc
+ms.openlocfilehash: e38c8143cfad1fc4b0c7bbc4bd2995e0e48d264f
+ms.sourcegitcommit: 7b6d70798b4da283d1d3e38a05151df2209c2b72
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/11/2022
-ms.locfileid: "8740261"
+ms.lasthandoff: 06/12/2022
+ms.locfileid: "8950412"
 ---
 # <a name="configure-api-templates"></a>Настройка шаблонов API
 
@@ -30,6 +30,9 @@ ms.locfileid: "8740261"
 ## <a name="assign-the-template-to-an-api"></a>Назначение шаблона API-интерфейсу
 
 Чтобы назначить шаблон API-интерфейсу, необходимо выполнить следующие действия.
+
+> [!NOTE]  
+> Шаблоны API можно настроить только со следующими страницами API: contacts, countriesRegions, currencies, customers, employees, itemCategories, paymentMethods, paymentTerms, shipmentMethods, unitsOfMeasure и vendors.
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Настройка API** и выберите связанную ссылку.
 2. Выберите **Создать**, а затем выберите значение поля **Порядок** для записи.  

@@ -1,20 +1,20 @@
 ---
 title: Краткая справка по сочетаниям клавиш на ПК
 description: Удобная для печати справочная страница, содержащая наиболее популярные сочетания клавиш для пользователей ПК.
-author: brentholtorf
+author: jswymer
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: accessibility, shortcuts, keyboarding
-ms.date: 04/01/2021
-ms.author: bholtorf
-ms.openlocfilehash: 7496c21745e2a27271db8ccb37c9607040e5259b
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
+ms.date: 05/23/2022
+ms.author: jswymer
+ms.openlocfilehash: 399dd54ea89937dc29def09831688642a9889742
+ms.sourcegitcommit: 93f30ce3349233cbcd03f300e74b654b49fa5518
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8511601"
+ms.lasthandoff: 05/24/2022
+ms.locfileid: "8799537"
 ---
 # <a name="keyboard-quick-reference---pc-only"></a>Краткая справка по сочетаниям клавиш — только ПК
 
@@ -27,6 +27,7 @@ ms.locfileid: "8511601"
 |Alt+Shift+N|Закрытие вновь созданной записи и создание новой|
 |Alt+O|Добавление новой заметки для выбранной записи|
 |Alt+Q|Открытие **Что вы хотите**|
+|Ctrl+Alt+Q|Открытие **Найти записи**|
 |Alt+Стрелка вверх|Открытие всплывающей подсказки или ошибки проверки|
 |ALT+СТРЕЛКА ВНИЗ|Открытие раскрывающегося списка или поля подстановки|
 |Alt+T|Открытие страницы **Мои настройки**|
@@ -34,7 +35,7 @@ ms.locfileid: "8511601"
 |Ctrl+Insert|Вставка новой строки в документ|
 |Ctrl+Delete|Удаление строки в документе или журнале|
 |Ctrl+Shift+F12|Развертывание части с позициями (строками) на странице документа|
-|Ctrl+F1|Открытие справки для страницы<br />Навигация при персонализации и настройке|
+|Ctrl+F1|Открытие области справки или статьи справки|
 |Ctrl+Щелчок|Навигация при персонализации и настройке|
 |Shift+F12|Открытие обозревателя ролей, обзор функций|
 |F5/Ctrl+F5|Обновление или перезагрузка страницы|

@@ -101,13 +101,13 @@
 ## Попробовать
 ### [Зарегистрироваться для бесплатного пробного пользования Dynamics 365 Business Central](trial-signup.md)
 ### [Вопросы и ответы по пробной версии Dynamics 365 Business Central](trial-faq.md)
-### [Пробные версии и подписки](across-preview.md)
+### [Пробные версии и подписки (только на английском языке)](/dynamics365/business-central/dev-itpro/administration/trials-subscriptions?toc=/dynamics365/business-central/toc.json)
 ### [Подготовка к ведению бизнеса](ui-get-ready-business.md)
 ### [Устранение неполадок при самостоятельной регистрации](ui-troubleshoot-self-signup.md)
 ### [Продление пробной версии](admin-extend-trial.md)
 ### [Отмена подписки или удаление Business Central](admin-cancel.md)
 ## Купить
-### [Начало работы с подпиской](across-preview.md#get-started-with-a-subscription)
+### [Начало работы с подпиской](trial-signup.md#get-started-with-a-subscription)
 ### [Подготовка к ведению бизнеса](ui-get-ready-business.md)
 
 ## Краткие руководства
@@ -358,6 +358,7 @@
 #### [Об оценке себестоимости товаров](finance-learn-about-costing.md)
 #### [Использование товарных издержек для учета дополнительных торговых расходов](payables-how-assign-item-charges.md)
 #### [О расчете стандартной себестоимости](finance-about-calculating-standard-cost.md)
+#### [О расчете себестоимости единицы](finance-about-calculating-unit-cost.md)
 #### [Сведения о проектировании: себестоимость запасов](design-details-inventory-costing.md)
 #### [Работа с учетными периодами](finance-how-to-work-with-inventory-periods.md)
 #### [Настройка оценки стоимости запасов и учета себестоимости](finance-set-up-inventory-valuation-and-costing.md)
@@ -1424,6 +1425,7 @@
 ##### [Налог с продаж в США](LocalFunctionality/UnitedStates/us-sales-tax.md)
 ##### [Отчетность по налогу с продаж в США](LocalFunctionality/UnitedStates/us-sales-tax.md)  
 ##### [Отчетность по транзакциям, подлежащим учету по форме 1099 в США](LocalFunctionality/UnitedStates/tax-1099.md)  
+##### [Настройка и использование формы IRS 1099](LocalFunctionality/UnitedStates/set-up-use-irs1099-form.md)
 ##### [Настройка налога на использование и налога на покупки](LocalFunctionality/UnitedStates/how-to-set-up-use-tax-and-purchase-tax.md)  
 ##### [Настройка нереализованного налога с продажи и скидок по оплате за продажи](LocalFunctionality/UnitedStates/how-to-set-up-unrealized-sales-tax-and-sales-payment-discounts.md)  
 #### Банковские операции и платежи
@@ -1474,6 +1476,7 @@
 #### [Включение платежей клиентов через службу платежей](sales-how-enable-payment-service-extensions.md)
 #### [Регистрация специальных цен продажи и скидок](sales-how-record-sales-price-discount-payment-agreements.md)
 #### [Настройка ценовых групп клиента](sales-how-to-set-up-customer-price-groups.md)
+#### [Настройка групп скидок клиента](sales-how-to-set-up-customer-discount-groups.md)
 #### [Настройка менеджеров по продажам](sales-how-setup-salespeople.md)
 #### [Настройка профилей отправки документов](sales-how-setup-document-send-profiles.md)
 #### [Отправка документов по электронной почте](ui-how-send-documents-email.md)
@@ -1811,12 +1814,12 @@
 #### [Миграция данных QuickBooks Online](ui-extensions-quickbooks-online-data-migration.md)
 #### [Импорт файла зарплаты Quickbooks](ui-extensions-quickbooks-payroll.md)
 #### [Прогноз продаж и запасов](ui-extensions-sales-forecast.md)
-#### [Управление группой НДС](ui-extensions-vat-group.md)
 #### [WorldPay Payments Standard](ui-extensions-worldpay-payments-standard.md)
 #### [DK — Миграция данных C5](ui-extensions-c5-data-migration.md)
 #### [DK — Платежи и выверки](ui-extensions-payments-reconciliation-formats-dk.md)
 #### [DK — Форматы налоговой документации](ui-extensions-tax-file-formats-dk.md)
 #### [UK — Почтовые индексы Великобритании GetAddress.io](LocalFunctionality/UnitedKingdom/ui-extensions-getaddressio.md)
+#### [UK — Управление группой НДС](ui-extensions-vat-group.md)
 #### [US/CA/UK/AU/NZ/ZA — Отправить авизо](ui-extensions-send-remittance-advice.md)
 #### [Расширения для Business Central от других поставщиков](ui-extensions-other.md)
 ## Интеграция с Dynamics 365 Sales

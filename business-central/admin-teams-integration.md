@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: Teams, MS Teams, Microsoft Teams, Skype, Link, Microsoft 365, collaborate, collaboration, teamwork
 ms.date: 04/12/2021
 ms.author: jswymer
-ms.openlocfilehash: 4d6e329dbf6c8d5badfcb317261db18d8432d303
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 03e283bc2664b1f73a56c48fefdde9cba78918d2
+ms.sourcegitcommit: 93f30ce3349233cbcd03f300e74b654b49fa5518
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8147038"
+ms.lasthandoff: 05/24/2022
+ms.locfileid: "8799775"
 ---
 # <a name="managing-microsoft-teams-integration-with-prod_short"></a>Управление интеграцией Microsoft Teams с [!INCLUDE [prod_short](includes/prod_short.md)]
 
@@ -30,16 +30,18 @@ ms.locfileid: "8147038"
 
 - Необходимые лицензии
 
-    В этой таблице представлен обзор лицензий, необходимых для работы функций приложения [!INCLUDE [prod_short](includes/prod_short.md)] в Teams.
+    Для приложения [!INCLUDE[prod_short](includes/prod_short.md)] требуется лицензия Teams через подписку Microsoft 365 Business или Enterprise. Отельные подписки на Teams, такие как Microsoft Teams (бесплатно) или Microsoft Teams Essentials, не поддерживаются.
 
-    |Какая|Лицензия Teams|Лицензия [!INCLUDE [prod_short](includes/prod_short.md)]|
-    |----|---|---|
-    |Поиск контактов [!INCLUDE [prod_short](includes/prod_short.md)].|![флажок.](media/check.png "галочка")|![флажок](media/check.png "галочка")|
-    |Вставьте ссылку в запись [!INCLUDE [prod_short](includes/prod_short.md)] в беседу и отправьте как карточку.|![флажок](media/check.png "галочка")|![флажок](media/check.png "галочка")|
-    |Поделиться ссылкой со страницы в [!INCLUDE [prod_short](includes/prod_short.md)] в беседе Teams.|![флажок](media/check.png "галочка")|![флажок](media/check.png "галочка")|
-    |Посмотреть карточку записи [!INCLUDE [prod_short](includes/prod_short.md)] в разговоре.|![флажок](media/check.png "галочка")||
-    |Посмотреть подробности карточки записи [!INCLUDE [prod_short](includes/prod_short.md)] в разговоре.|![флажок](media/check.png "галочка")|![флажок](media/check.png "галочка")|
-    |Откройте ссылку на страницу в [!INCLUDE [prod_short](includes/prod_short.md)] из беседы.|![флажок](media/check.png "галочка")|![флажок](media/check.png "галочка")|
+    Большинство функций приложения [!INCLUDE[prod_short](includes/prod_short.md)] для Teams также требуют лицензии [!INCLUDE [prod_short](includes/prod_short.md)], как показано в следующей таблице.
+
+    |Какая|Лицензия [!INCLUDE [prod_short](includes/prod_short.md)]|
+    |----|---|
+    |Поиск контактов [!INCLUDE [prod_short](includes/prod_short.md)].|![флажок](media/check.png "галочка")|
+    |Вставьте ссылку в запись [!INCLUDE [prod_short](includes/prod_short.md)] в беседу и отправьте как карточку.|![флажок](media/check.png "галочка")|
+    |Поделиться ссылкой со страницы в [!INCLUDE [prod_short](includes/prod_short.md)] в беседе Teams.|![флажок](media/check.png "галочка")|
+    |Посмотреть карточку записи [!INCLUDE [prod_short](includes/prod_short.md)] в разговоре.||
+    |Посмотреть подробности карточки записи [!INCLUDE [prod_short](includes/prod_short.md)] в разговоре.|![флажок](media/check.png "галочка")|
+    |Откройте ссылку на страницу в [!INCLUDE [prod_short](includes/prod_short.md)] из беседы.|![флажок](media/check.png "галочка")|
 
 - Разрешить предварительный просмотр URL-адресов
 

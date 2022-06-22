@@ -10,16 +10,19 @@ ms.search.keywords: customized report, document layout, logo, personalize
 ms.search.form: 9650, 9652
 ms.date: 03/23/2022
 ms.author: jswymer
-ms.openlocfilehash: 95d8aaf6749a2f02b1f586a2f235d3a5eaa7c21f
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
+ms.openlocfilehash: 9dafc8e193ccf3c47947be6508a0917a45393c91
+ms.sourcegitcommit: 7b6d70798b4da283d1d3e38a05151df2209c2b72
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8525172"
+ms.lasthandoff: 06/12/2022
+ms.locfileid: "8950043"
 ---
 # <a name="get-started-creating-report-layouts"></a>Приступайте к созданию макетов отчетов
 
 В Business Central есть множество встроенных макетов, которые вы можете использовать в своих отчетах. Другие макеты можно добавить как часть других расширений. Но также можно создавать собственные отчеты с нуля или на основе существующего макета.
+
+> [!IMPORTANT]
+> Вы можете также использовать макеты отчетов для добавления содержимого в сообщения электронной почты. Например, макеты отчетов могут сэкономить время и помочь обеспечить согласованность за счет повторного использования одного и того же содержимого при общении с клиентами. Чтобы использовать пользовательские макеты отчетов с сообщениями электронной почты, тип файла макета должен быть Word. Вы не можете использовать тип файлов RDLC. Для получения дополнительной информации см. раздел [Настройка повторно используемых текстов и макетов сообщений электронной почты](admin-how-setup-email.md#set-up-reusable-email-texts-and-layouts). 
 
 ## <a name="overview"></a>Обзор
 

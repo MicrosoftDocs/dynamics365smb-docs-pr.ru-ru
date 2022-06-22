@@ -6,12 +6,12 @@ ms.topic: get-started
 ms.custom: template-trial-faq
 ms.author: edupont
 ms.date: 02/23/2022
-ms.openlocfilehash: 6cb42322383506a7b6633952cb171cb7c6602339
-ms.sourcegitcommit: 6d48c1f601ed22b6b0358311baf63c073ab75e64
+ms.openlocfilehash: 368ed714fb7b8367ff1876cb5be83e422860b684
+ms.sourcegitcommit: 0bb9473a2563211bc0c02ebfd837bba1b2e9ad3f
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/01/2022
-ms.locfileid: "8367301"
+ms.lasthandoff: 05/25/2022
+ms.locfileid: "8805156"
 ---
 # <a name="dynamics-365-business-central-trial-faq"></a>Вопросы и ответы по пробной версии Dynamics 365 Business Central
 
@@ -19,11 +19,11 @@ ms.locfileid: "8367301"
 
 ### <a name="can-i-convert-the-trial-to-a-paid-license"></a>Могу ли я преобразовать пробную версию в платную лицензию?
 
-Да, можете. Дополнительные сведения см. в разделе [Начало работы с подпиской](across-preview.md#get-started-with-a-subscription).  
+Да, можете. Дополнительные сведения см. в разделе [Начало работы с подпиской](trial-signup.md#get-started-with-a-subscription).  
 
 ### <a name="what-are-the-trial-limits-and-quotas"></a>Какие ограничения и квоты установлены для пробной версии?
 
-Бесплатная пробная версия включает образцы данных. Если вы хотите попробовать Business Central с собственными данными, вы можете перейти на бесплатную 30-дневную пробную версию с пустой компанией. Дополнительные сведения см. в разделе [Пробные версии и подписки [!INCLUDE[prod_long](includes/prod_long.md)]](across-preview.md).  
+Бесплатная пробная версия включает образцы данных. Если вы хотите попробовать Business Central с собственными данными, вы можете перейти на бесплатную 30-дневную пробную версию с пустой компанией. Ваш администратор может узнать больше о пробных версиях и подписках [здесь](/dynamics365/business-central/dev-itpro/administration/trials-subscriptions).  
 
 ### <a name="how-do-i-start-using-the-trial"></a>Как начать использовать пробную версию?
 
@@ -54,4 +54,4 @@ ms.locfileid: "8367301"
 [Зарегистрироваться для бесплатного пробного пользования Dynamics 365 Business Central](trial-signup.md)  
 [Вопросы и ответы об использовании Business Central](across-faq.yml)  
 [Устранение неполадок при самостоятельной регистрации](ui-troubleshoot-self-signup.md)  
-[Пробные версии и подписки [!INCLUDE[prod_long](includes/prod_long.md)]](across-preview.md)  
+[Пробные версии и подписки [!INCLUDE[prod_long](includes/prod_long.md)]](/dynamics365/business-central/dev-itpro/administration/trials-subscriptions)  

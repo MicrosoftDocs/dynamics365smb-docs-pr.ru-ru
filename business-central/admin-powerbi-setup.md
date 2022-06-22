@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: Power BI, setup, analysis, reporting, financial report, business intelligence, KPI
 ms.date: 04/01/2021
 ms.author: jswymer
-ms.openlocfilehash: b3eb777c7a495c5b4b73ace26151e53403f81f00
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
+ms.openlocfilehash: c893513098d5078995e6cab09abcf0d2e0bb2769
+ms.sourcegitcommit: 7b6d70798b4da283d1d3e38a05151df2209c2b72
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8521206"
+ms.lasthandoff: 06/12/2022
+ms.locfileid: "8950360"
 ---
 # <a name="enabling-power-bi-integration-with-prod_short"></a>Включение интеграции Power BI с [!INCLUDE[prod_short](includes/prod_short.md)]
 
@@ -84,7 +84,7 @@ Business Central Online также поддерживает настраивае
 
 4. Создайте регистрацию приложения [!INCLUDE[prod_short](includes/prod_short.md)] в Microsoft Azure.
 
-    Чтобы просмотреть отчеты Power BI, встроенные в страницы [!INCLUDE[prod_short](includes/prod_short.md)], необходимо зарегистрировать приложение для [!INCLUDE[prod_short](includes/prod_short.md)] в Microsoft Azure. Зарегистрированному приложению требуется разрешение на службы Power BI. Для получения дополнительной информации см. раздел [Регистрация [!INCLUDE[prod_short](includes/prod_short.md)] On-Premises в Azure AD для интеграции с другими службами](/dynamics365/business-central/dev-itpro/administration/register-app-azure).
+    Для просмотра отчетов Power BI, встроенных в страницы [!INCLUDE[prod_short](includes/prod_short.md)], необходимо зарегистрировать приложение для [!INCLUDE[prod_short](includes/prod_short.md)] в Microsoft Azure. Зарегистрированному приложению требуется разрешение на службы Power BI. Как минимум, приложение требует разрешения **User.ReadWrite.All**. Чтобы пользователи могли просматривать отчеты из общих рабочих областей Power BI, приложению требуется разрешение **Workspace.Read.All**. Для получения дополнительной информации см. раздел [Регистрация [!INCLUDE[prod_short](includes/prod_short.md)] On-Premises в Azure AD для интеграции с другими службами](/dynamics365/business-central/dev-itpro/administration/register-app-azure).
 
     > [!NOTE]
     > Если ваше развертывание использует аутентификацию NavUserPassword, [!INCLUDE[prod_short](includes/prod_short.md)] подключается к одной службе Power BI для всех пользователей. Вы укажете эту учетную запись службы при регистрации приложения. С аутентификацией Azure AD [!INCLUDE[prod_short](includes/prod_short.md)] подключается к службе Power BI, связанно с отдельными учетными записями пользователей.

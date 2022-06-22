@@ -7,14 +7,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: version
-ms.date: 03/31/2022
+ms.date: 06/08/2022
 ms.author: jswymer
-ms.openlocfilehash: 8a2c342f31dc4c17bb34af22ffc912dcc51c5cf9
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
+ms.openlocfilehash: 05ff8b9acb0c69f42c8ad36ab8a588c9b597424a
+ms.sourcegitcommit: 7b6d70798b4da283d1d3e38a05151df2209c2b72
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8514417"
+ms.lasthandoff: 06/12/2022
+ms.locfileid: "8950440"
 ---
 # <a name="minimum-requirements-for-using-business-central"></a>Минимальные требования для использования Business Central
 
@@ -22,17 +22,20 @@ ms.locfileid: "8514417"
 
 ## <a name="browsers"></a>Браузеры
 
-**Microsoft Edge:** программа [!INCLUDE[prod_short](includes/prod_short.md)] предназначена для работы с новой версией Microsoft Edge.
+**Microsoft Edge:** приложение [!INCLUDE[prod_short](includes/prod_short.md)] предназначено для работы с текущей версией Microsoft Edge.
   
-**Chrome для Windows и Firefox для Windows:** приложение [!INCLUDE[prod_short](includes/prod_short.md)] предназначено для работы с текущей версией этих настольных браузеров. Приложение Business Central на настольном компьютере не работает с Firefox.
+**Chrome для Windows и Firefox для Windows:** приложение [!INCLUDE[prod_short](includes/prod_short.md)] предназначено для работы с текущей версией этих настольных браузеров.
  
 **Safari:** программа [!INCLUDE[prod_short](includes/prod_short.md)] предназначена для работы с текущей версией Safari в macOS.  
 
+> [!TIP]
+> Установите приложение [!INCLUDE[prod_short](includes/prod_short.md)] [в меню «Пуск»](install-desktop-app.md#install-the-app-for-business-central-online) с использованием браузеров Microsoft Edge или Chrome.
+
 ## <a name="mobile-devices"></a>Мобильные устройства
 
-**Android (планшет и телефон):** одна из трех последних основных версий и их обновления.
+**Android (планшет и телефон):** одна из трех последних основных версий операционной системы и их обновления.
 
-**iOS (iPad и iPhone):** одна из трех последних основных версий и их обновления.
+**iOS (iPad и iPhone):** одна из трех последних основных версий операционной системы и их обновления.
 
 ## <a name="outlook"></a>Outlook
 
@@ -53,6 +56,8 @@ ms.locfileid: "8514417"
 
 **Платформы**: при использовании приложения [!INCLUDE[prod_short](includes/prod_short.md)] в Teams для iOS или Android, приложение требует, чтобы на мобильном устройстве работала одна из поддерживаемых мобильных платформ, перечисленных ранее в этой статье.
 
+**Поддерживаемая подписка:** приложение [!INCLUDE[prod_short](includes/prod_short.md)] для Teams поддерживает подписки Microsoft 365 Business и Enterprise, но не отдельные подписки Teams, такие как Microsoft Teams (бесплатно) или Microsoft Teams Essentials.
+
 ## <a name="excel"></a>Excel
 
 **Изменить в Excel:** Для использования надстройки Excel для внесения изменений в Excel и оправки этих изменений обратно в [!INCLUDE[prod_short](includes/prod_short.md)] необходимо иметь Excel 2019 или более поздней версии. Дополнительные сведения см. в разделе [Анализ финансовых выписок в Microsoft Excel](finance-analyze-excel.md).  
@@ -64,18 +69,22 @@ ms.locfileid: "8514417"
 
 Центр администрирования предназначен для работы с текущей версией следующих браузеров:
 
-- Новый Microsoft Edge
+- Microsoft Edge
 - Chrome для Windows
 - Firefox для Windows
 - Safari для macOS
 
 ## <a name="use-business-central-on-premises"></a>Используйте локальную версию Business Central
 
-Если вы хотите развернуть Business Central локально, вам следует проверить системные требования. Для получения дополнительной информации см. [Системные требования для Dynamics 365 Business Central](/dynamics365/business-central/dev-itpro/deployment/system-requirements-business-central-v18) и [Обзор развертывания](/dynamics365/business-central/dev-itpro/deployment/deployment).  
+Если вы хотите развернуть Business Central локально, вам следует проверить системные требования. Для получения дополнительной информации см. [Системные требования для Dynamics 365 Business Central](/dynamics365/business-central/dev-itpro/deployment/system-requirements-business-central-v20) и [Обзор развертывания](/dynamics365/business-central/dev-itpro/deployment/deployment).  
 
 ## <a name="see-also"></a>См. также
 
 [Подготовьтесь к ведению бизнеса](ui-get-ready-business.md)  
-[Системные требования для Dynamics 365 Business Central](/dynamics365/business-central/dev-itpro/deployment/system-requirements-business-central-v18)  
+[Системные требования для Dynamics 365 Business Central](/dynamics365/business-central/dev-itpro/deployment/system-requirements-business-central-v20)  
+[Получение приложения Business Central на настольном компьютере](install-desktop-app.md)  
+[Получение Business Central на мобильном устройстве](install-mobile-app.md)  
+[Управление бизнес-взаимодействиями в Microsoft Outlook](admin-outlook.md)  
+[Интеграция Business Central и Microsoft Teams](across-teams-overview.md)  
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

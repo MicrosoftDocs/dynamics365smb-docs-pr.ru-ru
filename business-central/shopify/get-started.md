@@ -1,22 +1,53 @@
 ---
 title: Начало работы с соединителем для Shopify
 description: Первые шаги при настройке соединения между Business Central и Shopify
-ms.date: 05/16/2022
+ms.date: 05/27/2022
 ms.topic: article
 ms.service: dynamics365-business-central
 ms.reviewer: solsen
 author: AndreiPanko
 ms.author: andreipa
-ms.openlocfilehash: 2b88995cad8cfe0c3688ca062643f2d339fed9bf
-ms.sourcegitcommit: f071aef3660cc3202006e00f2f790faff849a240
+ms.openlocfilehash: 64fae9efdda832f14593564b9a19101d120c9712
+ms.sourcegitcommit: fb43bc843be4ea9c0c674a14945df727974d9bb9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/18/2022
-ms.locfileid: "8768155"
+ms.lasthandoff: 05/27/2022
+ms.locfileid: "8808937"
 ---
 # <a name="get-started-with-the-shopify-connector"></a>Начало работы с соединителем Shopify
 
-[!INCLUDE [prod_short](../includes/prod_short.md)] обеспечивает гибкость для подключения к нему вашего магазина (магазинов) Shopify, чтобы максимально повысить эффективность вашего бизнеса. Вы можете просматривать информацию о своем бизнесе и интернет-магазине Shopify и управлять всеми этими данными с помощью соединителя Shopify. Чтобы использовать Shopify с [!INCLUDE [prod_short](../includes/prod_short.md)], вам нужно выполнить несколько шагов. Эта страница служит руководством для завершения интеграции вашего магазина Shopify с [!INCLUDE [prod_short](../includes/prod_short.md)].
+Свяжите магазин (или магазины) Shopify с [!INCLUDE [prod_short](../includes/prod_short.md)], чтобы максимально повысить эффективность вашего бизнеса. Управляйте и просматривайте аналитику о своем бизнесе и вашем магазине Shopify как единое целое. 
+
+Соединитель Shopify включает следующие возможности:
+
+- Поддержка более чем одного магазина Shopify  
+
+  - Каждый магазин имеет свою собственную настройку, включая набор продуктов, местоположения, используемые для расчета запасов, и прайс-листы.  
+- Двунаправленная синхронизация товаров или продуктов  
+
+  - Соединитель будет синхронизировать изображения, варианты товаров, штрих-коды, номера товаров поставщиков, расширенные тексты и теги.  
+  - Экспортируйте атрибуты товаров в Shopify.  
+  - Используйте выбранные ценовые группы и скидки клиентов для определения цен, экспортируемых в Shopify.  
+  - Решите, могут ли товары создаваться автоматически, или разрешите только обновления существующих продуктов.  
+- Синхронизация уровней запасов  
+
+  - Выберите некоторые или все доступные местоположения в [!INCLUDE [prod_short](../includes/prod_short.md)].  
+  - Обновите уровни запасов в нескольких местах в Shopify.  
+- Двунаправленная синхронизация клиентов  
+
+  - Выполняйте умное сопоставление клиентов по телефону и электронной почте.  
+  - Используйте шаблоны для конкретной страны при создании клиентов, что поможет обеспечить правильность налоговых настроек.  
+- Импорт заказов из Shopify  
+
+  - Во время импорта вы можете автоматически создавать клиентов в [!INCLUDE [prod_short](../includes/prod_short.md)] или решить управлять клиентами в Shopify.  
+  - Включите заказы, созданные в других каналах, таких как Shopify POS или Amazon.  
+  - Стоимость доставки, подарочные карты, советы, способы доставки и оплаты, транзакции и риск мошенничества.  
+  - Получайте информацию о платежах из Shopify Payments.  
+- Простое отслеживание информации о выполнении  
+
+  - При желании выберите запись информации об отслеживании товара из [!INCLUDE [prod_short](../includes/prod_short.md)] в Shopify.  
+
+Чтобы использовать Shopify с [!INCLUDE [prod_short](../includes/prod_short.md)], есть пара вещей, которые нужно сделать в первую очередь. Эта статья служит руководством для завершения интеграции вашего магазина Shopify с [!INCLUDE [prod_short](../includes/prod_short.md)].
 
 ## <a name="prerequisites-for-shopify"></a>Предварительные требования для Shopify
 
@@ -27,7 +58,7 @@ ms.locfileid: "8768155"
 
 Чтобы создать новую учетную запись Shopify или зарегистрироваться для получения бесплатной 14-дневной пробной версии, перейдите на страницу [Shopify](https://www.shopify.com/). Для получения дополнительной информации о том, как создать и персонализировать свой интернет-магазин, см. [Центр справки Shopify](https://help.shopify.com/).
   
-- Поддерживаются и другие каналы продаж, например POS-терминалы Shopify.
+Поддерживаются и другие каналы продаж, например POS-терминалы Shopify.
 
 ### <a name="recommended-settings"></a>Рекомендуемые параметры
 
@@ -37,27 +68,27 @@ ms.locfileid: "8768155"
 
 ## <a name="prerequisites-for-business-central"></a>Предварительные требования для Business Central
 
-- Убедитесь, что у вас установлено расширение **Подключение к Shopify для [!INCLUDE[prod_short](../includes/prod_short.md)]**.
+- Убедитесь, что приложение **[Соединитель Shopify](https://go.microsoft.com/fwlink/?linkid=2196238)** установлено.
 
-Расширение предварительно устанавливается для всех новых учетных записей и пробных версий. Если вам нужно установить расширения из Marketplace, посетите страницу [Установка и удаление расширений](../ui-extensions-install-uninstall.md#install). Выполните шаги, перечисленные ниже, если у вас нет [!INCLUDE[prod_short](../includes/prod_short.md)].
-<!--
-## Installing the **Dynamics 365 Business Central** app to your Shopify online store
+Это приложение предварительно устанавливается для всех новых учетных записей и пробных версий. Дополнительные сведения об установке приложений из магазина приложений Marketplace см. в разделе [Установка и удаление расширений](../ui-extensions-install-uninstall.md#install). Выполните шаги, перечисленные ниже, если у вас нет [!INCLUDE[prod_short](../includes/prod_short.md)].
 
-For existing [!INCLUDE[prod_short](../includes/prod_short.md)], this step is optional and can be skipped.
+## <a name="installing-the-dynamics-365-business-central-app-to-your-shopify-online-store"></a>Установка приложения **Dynamics 365 Business Central** для вашего интернет-магазина Shopify
 
-1. Locate the [Dynamics 365 Business Central](https://apps.shopify.com/dynamics-365-business-central) app on the [Shopify AppStore](https://apps.shopify.com/)
-2. Choose the **Add App** button. Sign-in into your Shopify account if prompted. Select the required online shop if you've more than one.
-3. After reviewing privacy and permissions, choose the **Install App** button.
-  You can find and open the installed **Dynamics 365 Business Central** app in the **Apps** section on the sidebar of **Shopify admin**.
-4. Choose **Sign up now** to start [!INCLUDE[prod_short](../includes/prod_short.md)] trial or **Sign in** if you already have [!INCLUDE[prod_short](../includes/prod_short.md)]. You'll be redirected to your [!INCLUDE[prod_short](../includes/prod_short.md)] at [Business Central](https://businesscentral.dynamics.com).
-5. The next steps should be done in [!INCLUDE[prod_short](../includes/prod_short.md)].
--->
+Для существующего [!INCLUDE[prod_short](../includes/prod_short.md)] этот шаг является необязательным и может быть пропущен.
+
+1. Найдите приложение [Dynamics 365 Business Central](https://apps.shopify.com/dynamics-365-business-central) в магазине приложений [Shopify AppStore](https://apps.shopify.com/)
+2. Нажмите кнопку **Добавить приложение**. Если будет предложено, войдите в свою учетную запись Shopify. Выберите нужный интернет-магазин, если у вас их несколько.
+3. Ознакомившись с конфиденциальностью и разрешениями, нажмите кнопку **Установить приложение**.
+  Вы можете найти и открыть установленное приложение **Dynamics 365 Business Central** в разделе **Программы** на боковой панели **Администратор Shopify**.
+4. Выберите **Войти сейчас**, чтобы начать пробный период [!INCLUDE[prod_short](../includes/prod_short.md)], или используйте **Войти**, если у вас уже есть [!INCLUDE[prod_short](../includes/prod_short.md)]. Вы будете перенаправлены в ваш [!INCLUDE[prod_short](../includes/prod_short.md)] на [Business Central](https://businesscentral.dynamics.com).
+5. Следующие шаги должны быть выполнены в [!INCLUDE[prod_short](../includes/prod_short.md)].
+
 ## <a name="connecting-business-central-to-the-shopify-online-store"></a>Подключение Business Central к интернет-магазину Shopify
 
 1. Нажмите на значок поиска ![Лампочка, которая открывает функцию "Что вы хотите сделать"](../media/ui-search/search_small.png "Что вы хотите сделать"), значок, введите **магазин Shopify** и выберите связанную ссылку.
 2. Выберите действие **Создать**.  
 3. В поле **Код** укажите нужный код.  
-4. В поле **URL-адрес Shopify** введите адрес вашего интернет-магазина, который необходимо подключить.
+4. В поле **URL-адрес Shopify** введите адрес вашего интернет-магазина, который необходимо подключить. Используйте следующий формат: `https://{shop}.myshopify.com/`.
 5. Установите переключатель в положение **Включено**, а затем посмотрите и примите условия использования.
 6. При появлении запроса войдите в свою учетную запись Shopify, проверьте конфиденциальность и разрешения, а затем нажмите кнопку **Установить приложение**.
 

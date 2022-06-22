@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: Teams, MS Teams, Microsoft Teams, Skype, Link, Microsoft 365, collaborate, collaboration, teamwork
 ms.date: 03/04/2022
 ms.author: jswymer
-ms.openlocfilehash: 4ee154f242eebb65f9ef61453c8ff51c770f2713
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
+ms.openlocfilehash: 5252d3e595b3ae0246646fe7eafe910cdf4da2f0
+ms.sourcegitcommit: 0bb9473a2563211bc0c02ebfd837bba1b2e9ad3f
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8511237"
+ms.lasthandoff: 05/25/2022
+ms.locfileid: "8805052"
 ---
 # <a name="business-central-and-microsoft-teams-integration"></a>Интеграция Business Central и Microsoft Teams
 
@@ -65,7 +65,7 @@ ms.locfileid: "8511237"
     Если вы не уверены, есть ли у вас такая учетная запись, или не знаете свои учетные данные для входа, обратитесь к администратору своей компании.
 
     > [!TIP]
-    > Если в вашей организации нет подписки на [!INCLUDE [prod_short](includes/prod_short.md)], вы можете зарегистрироваться на бесплатную пробную версию. Дополнительные сведения см. в разделе [Приступая к работе с пробной версией](across-preview.md#get-started-with-a-trial).
+    > Если в вашей организации нет подписки на [!INCLUDE [prod_short](includes/prod_short.md)], вы можете зарегистрироваться на бесплатную пробную версию. Дополнительные сведения см. в разделе [Регистрация на бесплатную пробную версию Dynamics 365 Business Central](trial-signup.md).
 
 2. Как администратор см. [Управление интеграцией Microsoft Teams с Business Central](admin-teams-integration.md) для получения информации о настройке пользователей для работы с [!INCLUDE [prod_short](includes/prod_short.md)] и Teams.
 3. Установка приложения [!INCLUDE [prod_short](includes/prod_short.md)] в Teams. См. [Установка приложения [!INCLUDE [prod_short](includes/prod_short.md)] для Microsoft Teams](across-install-app-for-teams.md).

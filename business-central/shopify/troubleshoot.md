@@ -7,12 +7,12 @@ ms.service: dynamics365-business-central
 author: edupont04
 ms.author: andreipa
 ms.reviewer: solsen
-ms.openlocfilehash: 01ff5ab1c5e6f132098f914f6bfe97e097cc88b0
-ms.sourcegitcommit: f071aef3660cc3202006e00f2f790faff849a240
+ms.openlocfilehash: ff2e4aca52f479e461dab0d9d0f0ce4958d19353
+ms.sourcegitcommit: fb43bc843be4ea9c0c674a14945df727974d9bb9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/18/2022
-ms.locfileid: "8768165"
+ms.lasthandoff: 05/27/2022
+ms.locfileid: "8808871"
 ---
 # <a name="troubleshooting-the-shopify-and-business-central-synchronization"></a>Устранение неполадок Shopify и синхронизация с Business Central
 
@@ -56,9 +56,8 @@ ms.locfileid: "8768165"
 
 1. Введите в поиске ![Лампочка, которая открывает функцию "Что вы хотите сделать".](../media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **магазин Shopify** и выберите связанную ссылку.
 2. Выберите магазин, токен доступа которого вы хотите получить, чтобы открыть страницу **Карточка магазина Shopify**.
-3. В поле **Код** укажите первый код.  
-4. Выберите действие **Запрос доступа**.
-5. Если будет предложено, войдите в свою учетную запись Shopify.
+3. Выберите действие **Запрос доступа**.
+4. Если будет предложено, войдите в свою учетную запись Shopify.
 
 ## <a name="see-also"></a>См. также
 

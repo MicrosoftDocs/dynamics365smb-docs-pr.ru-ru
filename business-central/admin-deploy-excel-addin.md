@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: Excel, add-in, centralized deployment, M365 admin center, individual acquisition, appsource
 ms.date: 10/07/2021
 ms.author: jswymer
-ms.openlocfilehash: beb7a01986d12458e0615918608b44a6d90c269c
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
+ms.openlocfilehash: e8229b1d911b51e065b3d5a94fff1a0253bd5e26
+ms.sourcegitcommit: 7b6d70798b4da283d1d3e38a05151df2209c2b72
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8518419"
+ms.lasthandoff: 06/12/2022
+ms.locfileid: "8950095"
 ---
 # <a name="get-the-business-central-add-in-for-excel"></a>Получение надстройки Business Central для Excel
 
@@ -130,8 +130,7 @@ ms.locfileid: "8518419"
 |Данные не могут быть опубликованы обратно в [!INCLUDE [prod_short](includes/prod_short.md)].|Проверьте соединение, открыв книгу в Excel в браузере. |Иногда расширение может блокировать публикацию. Если страница развернута или настроена, удалите расширения и повторите попытку.|
 |Даты неправильные  |Excel может отображать время и даты в формате, отличном от [!INCLUDE [prod_short](includes/prod_short.md)]. Это условие не делает их неправильными, и данные в [!INCLUDE [prod_short](includes/prod_short.md)] не будут перепутаны.|         |
 |Для некоторых страниц списков редактирование нескольких строк в Excel постоянно вызывает ошибки. Это состояние может возникнуть, если вызовы OData включают FlowFields и поля вне элемента управления повторителя.|На странице **Веб-службы** установите флажки **Исключить нередактируемые поля FlowFields** и **Исключить поля за пределами повторителя** для опубликованной страницы. Установка этих флажков исключает нередактируемые поля FlowFields и поля из расчета eTag. |Эти флажки по умолчанию скрыты. Чтобы показать их на странице **Веб-службы**, используйте [персонализацию](/dynamics365/business-central/ui-personalization-user). |
-
-
+|Пользователи больше не могут войти в надстройку. Когда они пытаются войти, процесс останавливается без завершения.| Эта проблема может быть вызвана обновлением, которое мы внесли в надстройку где-то в июле 2022 года. Дополнительную информацию и сведения об исправлении см. в разделе [Изменение конфигурации надстройки Excel для поддержки обновления за июль 2022 г.](/dynamics365/business-central/dev-itpro/administration/update-excel-addin-configuration).|Применимо только в локальной версии [!INCLUDE [prod_short](includes/prod_short.md)] On-Premises|
 
 <!--
 ## Deploy the Excel add-in for Business Central online
