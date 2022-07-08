@@ -10,12 +10,12 @@ ms.search.keywords: check, bank transfer, cash, PayPal
 ms.search.form: 427
 ms.date: 04/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: abe1d874658c393b0d9795c1710e642b4e33add0
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
+ms.openlocfilehash: 5cf88736711667a18a43e75bc70533de5c924ad2
+ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8512962"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "9076595"
 ---
 # <a name="set-up-payment-methods"></a>Настройка способов оплаты
 
@@ -42,6 +42,8 @@ ms.locfileid: "8512962"
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Клиент** или **Поставщик**, а затем выберите связанную ссылку.
 2. В поле **Код способа оплаты** выберите метод, который будет использоваться по умолчанию для клиента или поставщика.
+
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/cash-management-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 

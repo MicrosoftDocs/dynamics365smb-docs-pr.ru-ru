@@ -6,12 +6,12 @@ ms.topic: get-started
 ms.custom: template-trial-setup
 ms.author: edupont
 ms.date: 05/25/2022
-ms.openlocfilehash: b832a72484c5186c2b619ada6278c2f396a6dbec
-ms.sourcegitcommit: 0bb9473a2563211bc0c02ebfd837bba1b2e9ad3f
+ms.openlocfilehash: 71f1e81982b649a12604f4d5fa77db3ddec5d9bf
+ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/25/2022
-ms.locfileid: "8805182"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "9077506"
 ---
 # <a name="sign-up-for-a-free-dynamics-365-business-central-trial"></a>Зарегистрироваться для бесплатного пробного пользования Dynamics 365 Business Central
 
@@ -43,9 +43,10 @@ Business Central предлагает бесплатную пробную вер
 
 Для получения дополнительной информации о том, что вы можете делать с [!INCLUDE [prod_short](includes/prod_short.md)], прочтите [Подготовьтесь к ведению бизнеса](ui-get-ready-business.md) и [Функциональные бизнес-возможности](across-business-functionality.md).  
 
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/trial-dynamics-365-business-central/)
+
 ## <a name="additional-resources"></a>Дополнительные ресурсы
 
-- [Просмотрите обучение по Microsoft Learn](/learn/dynamics365/business-central?WT.mc_id=dyn365bc_landingpage-docs)  
 - [Посетите нашу библиотеку видео](across-videos.md)  
 - [Вопросы и ответы по пробной версии](trial-faq.md)  
 - [Устранение неполадок при самостоятельной регистрации](ui-troubleshoot-self-signup.md)  

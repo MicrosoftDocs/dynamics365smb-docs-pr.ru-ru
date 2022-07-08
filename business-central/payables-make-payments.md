@@ -10,12 +10,12 @@ ms.search.keywords: print check, vendor payment, creditor, debt, balance due, AP
 ms.search.form: 254, 256, 1190, 1191, 1227, 1228, 1229
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: ba8b80508fbab49fddb4d9927d47af3ae1d9708a
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
+ms.openlocfilehash: c6f9a6e526abad8e2ad53325ddf4d0079d28def2
+ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8520920"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "9077948"
 ---
 # <a name="making-payments"></a>Осуществление платежей
 
@@ -41,7 +41,10 @@ ms.locfileid: "8520920"
 | Платите поставщику наличными или чеком, и учитывайте платеж при учете счета. |[Немедленное создание счетов покупки](finance-how-to-settle-purchase-invoices-promptly.md) |
 | Убедитесь, что банк выполняет клиринг только проверенных платежных документов и сумм, отправив ему файл, содержащий сведения о поставщике, платежном документе и платеже. |[Экспорт файла Positive Pay](finance-how-positive-pay.md) |
 
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/process-customer-vendor-payments-dynamics-365-business-central/)
+
 ## <a name="see-also"></a>См. также
+
 [Управление кредиторской задолженностью](payables-manage-payables.md)  
 [Покупки](purchasing-manage-purchasing.md)  
 [Управление дебиторской задолженностью](receivables-manage-receivables.md)  

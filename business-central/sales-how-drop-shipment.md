@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: direct shipment
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: bc6530a17e98d36a3f26e68e6231306aebfdda1d
-ms.sourcegitcommit: 2fa712d0aabe4287ebd4454c28d142d6baf045a0
+ms.openlocfilehash: 9a5ec7fb14adc453eb29c49474109b17d35d177b
+ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/09/2022
-ms.locfileid: "8729779"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "9076907"
 ---
 # <a name="make-drop-shipments"></a>Выполнение прямых поставок
 
@@ -77,6 +77,8 @@ ms.locfileid: "8729779"
 3. В поле **Кол-во для отгрузки** укажите, какое количество из заказа следует доставить, полное или частичное количество по заказу.
 4. Выберите действие **Учесть** или **Учесть и отправить**.
 5. Выберите вариант **Отгрузить** (чтобы счет был выставлен позже) или вариант **Отгрузить и выставить счет** (чтобы счет был выставлен незамедлительно).
+
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/create-sales-documents-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 

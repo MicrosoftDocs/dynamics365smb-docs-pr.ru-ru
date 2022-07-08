@@ -10,12 +10,12 @@ ms.search.keywords: payment process, direct payment posting, reconcile payment, 
 ms.search.form: 389, 1290, 1294, 1287
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 2418ca1164d0a3d67ca9ae3403733dfbd9a56660
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
+ms.openlocfilehash: 8c4d11dd4e031388ea5ec28bb8a181122b50b470
+ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8520816"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "9074592"
 ---
 # <a name="reconcile-payments-using-automatic-application"></a>Выверка платежей с использованием автоматического применения
 
@@ -44,6 +44,7 @@ ms.locfileid: "8520816"
 > Можно начать импорт банковских транзакций одновременно с открытием страницы **Журнал выверки платежей** для существующего журнала. В следующей процедуре описан импорт банковских транзакций на странице **Журнал выверки платежей** после создания нового журнала.
 
 ## <a name="to-reconcile-payments-using-automatic-application"></a>Выверка платежей с использованием автоматического применения
+
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Журналы выверки платежей**, а затем выберите связанную ссылку.
 2. Для работы в новом журнале выверки платежей выберите действие **Создать журнал**.
 3. На странице **Список банковских счетов платежа** выберите банковский счет, для которого вы хотите выверить платежи, а затем нажмите кнопку **ОК**.
@@ -88,7 +89,10 @@ ms.locfileid: "8520816"
 > [!NOTE]  
 >   Если выверять банковский счет со страницы **Журнал выверки платежей** не требуется, вы должны использовать страницу **Выверка банковского счета**. Дополнительные сведения см. в разделе [Выверка банковских счетов](bank-how-reconcile-bank-accounts-separately.md).
 
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/use-journals-dynamics-365-business-central/)
+
 ## <a name="see-also"></a>См. также
+
 [Управление дебиторской задолженностью](receivables-manage-receivables.md)  
 [Продажи](sales-manage-sales.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

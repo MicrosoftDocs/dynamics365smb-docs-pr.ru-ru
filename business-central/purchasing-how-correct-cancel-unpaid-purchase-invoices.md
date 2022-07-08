@@ -10,12 +10,12 @@ ms.search.keywords: undo, credit memo, return
 ms.search.form: 138, 140, 146
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 568f9f4424eefb249176fc56cbc515fc03a9af24
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
+ms.openlocfilehash: 7cfff3b5140dfa01aa3028b47cf9e52bad47cd8c
+ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8517346"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "9078626"
 ---
 # <a name="correct-or-cancel-unpaid-purchase-invoices"></a>Исправление или отмена неоплаченных счетов покупки
 
@@ -28,6 +28,7 @@ ms.locfileid: "8517346"
 > [!Video https://www.microsoft.com/videoplayer/embed/RE4dhoc?rel=0]
 
 ## <a name="to-correct-a-posted-purchase-invoice"></a>Коррекция учтенного счета покупки
+
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Учтенные счета покупки**, а затем выберите связанную ссылку.  
 2. Выберите учтенный счет покупки, который требуется откорректировать.  
 
@@ -41,6 +42,7 @@ ms.locfileid: "8517346"
 4. Выберите **Показать корректирующую кредит-ноту**, чтобы просмотреть учтенную кредит-ноту покупки, которая аннулирует исходный учтенный счет покупки.
 
 ## <a name="to-cancel-a-posted-purchase-invoice"></a>Отмена учтенного счета покупки
+
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Учтенные счета покупки**, а затем выберите связанную ссылку.  
 2. Выберите учтенный счет покупки, который требуется отменить.
 
@@ -52,9 +54,13 @@ ms.locfileid: "8517346"
 4. Выберите **Показать корректирующую кредит-ноту**, чтобы просмотреть учтенную кредит-ноту покупки, которая аннулирует исходный учтенный счет покупки.
 
 ### <a name="partial-invoice-posting-also-supported"></a>Также поддерживается частичный учет счетов
+
 Если отмена связана с частичным учетом счета, то исходная строка заказа на покупку обновляется, чтобы отразить отмененное количество в счете. Поля **Кол-во для выст. счета** и **Выставленное в счете количество** в соответствующей строке заказа на покупку сбрасываются в значения до частичного учета.
 
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/receive-invoice-dynamics-d365-business-central/)
+
 ## <a name="see-also"></a>См. также
+
 [Покупки](purchasing-manage-purchasing.md)  
 [Регистрация покупок](purchasing-how-record-purchases.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

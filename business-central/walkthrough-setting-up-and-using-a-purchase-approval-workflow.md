@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/24/2021
 ms.author: edupont
-ms.openlocfilehash: f921a6da2bb963d7cb53f062f32db7af6169020c
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
+ms.openlocfilehash: d4d2134945f0beb15853bc9cca227cde74285c9d
+ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8520078"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "9074516"
 ---
 # <a name="walkthrough-setting-up-and-using-a-purchase-approval-workflow"></a>Пошаговое руководство. Настройка и использование рабочего процесса утверждения покупки
 
@@ -120,6 +120,8 @@ ms.locfileid: "8520078"
 Варианты рабочих процессов заполняются посредством заполнения полей в строках рабочего процесса из фиксированных списков значений события и отклика, представляющих сценарии, которые поддерживаются кодом приложения. Дополнительные сведения см. в разделе [Создание рабочих процессов](across-how-to-create-workflows.md).  
 
 Если бизнес-сценарий требует события или отклика рабочего процесса, которые не поддерживаются, партнеру Майкрософт придется реализовать их через код или вы можете настроить рабочий процесс с помощью Power Automate. Дополнительные сведения см. в разделе [Использование [!INCLUDE[prod_short](includes/prod_short.md)] в автоматизированном рабочем процессе](across-how-use-financials-data-source-flow.md) или [События в AL](/dynamics365/business-central/dev-itpro/developer/devenv-events-in-al) в справке разработчика, соответственно.
+
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/use-approval-workflows/)
 
 ## <a name="see-also"></a>См. также
 

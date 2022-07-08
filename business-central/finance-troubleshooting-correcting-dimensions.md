@@ -10,12 +10,12 @@ ms.search.keywords: dimension, correction, correct, business intelligence
 ms.search.form: 116, 540, 2588
 ms.date: 09/27/2021
 ms.author: bholtorf
-ms.openlocfilehash: 497daecd0834b2651e52131df809d12d45b18d48
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
+ms.openlocfilehash: 82f71f3fafb0b977dde28033443f4585aeaced52
+ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8519125"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "9075425"
 ---
 # <a name="troubleshooting-and-correcting-dimensions"></a>Устранение неполадок и исправление измерений
 
@@ -122,7 +122,12 @@ ms.locfileid: "8519125"
 
 После исправления измерений ваши данные для учета затрат будут рассинхронизированы. В учете затрат используются измерения для агрегирования сумм для центров затрат и объектов затрат, а также для выполнения распределения затрат. Изменение измерений для записей главной книги, вероятно, будет означать, что вы повторно запустите свои модели учета затрат. Нужно ли вам просто удалить несколько регистров затрат и повторно запустить распределения, или вам нужно удалить все и повторно запустить все ваши модели, зависит от данных, которые были обновлены, и от того, как настроены ваши возможности учета затрат. Необходимо вручную определить, где корректировки измерений повлияют на учет затрат, и где необходимы обновления. [!INCLUDE[prod_short](includes/prod_short.md)] в настоящее время не предоставляет автоматизированного способа сделать это.
 
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/dimensions-dynamics-365-business-central/)
+
 ## <a name="see-also"></a>См. также
 
-[Работа с измерениями](finance-dimensions.md)
-[Анализируйте данные по измерениям](bi-how-analyze-data-dimension.md)  
+[Работа с измерениями](finance-dimensions.md)  
+[Анализ данных по измерениям](bi-how-analyze-data-dimension.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

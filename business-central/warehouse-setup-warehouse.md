@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.form: 5775, 7300, 7301, 7302, 7303, 7304, 7305, 7306, 7307, 7308, 7325, 7344, 7346, 7347, 7353, 7366
 ms.date: 06/25/2021
 ms.author: edupont
-ms.openlocfilehash: 28c1ff79108f8192695a6faa524b06f409e9058e
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
+ms.openlocfilehash: db5db1518e4064a158e83ccfef1409d919a4e35d
+ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8518497"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "9075633"
 ---
 # <a name="setting-up-warehouse-management"></a>Настройка управления складом
 
@@ -42,11 +42,13 @@ ms.locfileid: "8518497"
 |Интегрировать устройства чтения штрих-кода в решение управления складом. Только для локальных развертываний.|[Использование автоматизированных систем сбора данных (ADCS)](warehouse-use-automated-data-capture-systems-adcs.md)|
 |Укажите отчеты по умолчанию, которые будут использоваться для различных типов документов.|[Выбор отчета в Business Central](across-report-selections.md)|
 
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/set-up-warehouse-management/)
+
 ## <a name="see-also"></a>См. также
 
 [Управление складом](warehouse-manage-warehouse.md)  
 [Запасы](inventory-manage-inventory.md)  
-[Управление сборкой](assembly-assemble-items.md)
+[Управление сборкой](assembly-assemble-items.md)  
 [Сведения о проектировании: Warehouse Management](design-details-warehouse-management.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
 

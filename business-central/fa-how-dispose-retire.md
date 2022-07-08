@@ -10,12 +10,12 @@ ms.search.keywords: scrap
 ms.search.form: 5628, 5610, 5611, 5629, 5633
 ms.date: 06/15/2021
 ms.author: edupont
-ms.openlocfilehash: 210cfc51b9a9ffc68166636a2ff2d0e33edcbb62
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
+ms.openlocfilehash: dd8e374a0f7124084d789858767d08c4935d1631
+ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8523583"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "9077323"
 ---
 # <a name="dispose-of-or-retire-fixed-assets"></a>Списание или выбытие основных средств
 
@@ -40,6 +40,7 @@ ms.locfileid: "8523583"
 В случае продажи или другого выбытия части основного средства, следует разделить средство до регистрации транзакции реализации. Дополнительные сведения см. в разделе [Перемещение, разделение или объединение основных средств](fa-how-trans-split-combine.md).  
 
 ## <a name="to-view-disposal-ledger-entries"></a>Просмотр операций книги выбытия
+
 При продаже или списании основного средства сумма списания учитывается в главной книге, в которой можно просмотреть результат.  
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Основные Средства**, а затем выберите связанную ссылку.  
@@ -49,6 +50,8 @@ ms.locfileid: "8523583"
 5. На странице **Найти записи** выберите строку операции ГК, затем выберите действие **Показать связанные записи**.  
 
 Открывается страница **Операции главной книги**, на которой можно просмотреть операции, созданные в результате учета реализации.  
+
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/dispose-fixed-assets/)
 
 ## <a name="see-also"></a>См. также
 

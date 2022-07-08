@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.form: 5779, 5798, 7343, 7345, 7357, 7359, 7377, 7392, 7395, 7397, 9313, 9316, 9344
 ms.date: 06/25/2021
 ms.author: edupont
-ms.openlocfilehash: 028fb8d63045964fdb4e48cbbe3a6372677512d1
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
+ms.openlocfilehash: 6f85c37a9a781493f1a67f00c9dcaade540697c7
+ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8520555"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "9078860"
 ---
 # <a name="pick-items"></a>Подбор товаров
 
@@ -44,11 +44,14 @@ ms.locfileid: "8520555"
 |Разделение строки подбора на несколько строк, например из-за того, что в указанной ячейке недостаточно товара.|[Разделение строк складских заданий](warehouse-how-to-split-warehouse-activity-lines.md)|
 |Получить немедленный доступ к подборам, присвоенным вам как работнику склада.|[Поиск складских назначений](warehouse-how-to-find-your-warehouse-assignments.md)|  
 
-## <a name="see-also"></a>См. также  
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/pick-ship-items-business-central/)
+
+## <a name="see-also"></a>См. также
+
 [Управление складом](warehouse-manage-warehouse.md)  
-[Наличие](inventory-manage-inventory.md)  
-[Настройка Warehouse Management](warehouse-setup-warehouse.md) 
-[Управление сборкой](assembly-assemble-items.md)
+[Запасы](inventory-manage-inventory.md)  
+[Настройка управления складом](warehouse-setup-warehouse.md)  
+[Управление сборкой](assembly-assemble-items.md)  
 [Сведения о проектировании: Warehouse Management](design-details-warehouse-management.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
 

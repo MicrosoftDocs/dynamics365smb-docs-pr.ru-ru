@@ -7,12 +7,12 @@ ms.search.keywords: administration, admin, key, optional, feature management, ea
 ms.search.form: 2610
 ms.date: 06/14/2021
 ms.author: mikebc
-ms.openlocfilehash: a3cc650067c18da1594e2381413f8dd76966ab3a
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: ca23cb79f3ef95db1cb7c9528805d37a7560fc8a
+ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8141389"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "9077662"
 ---
 # <a name="enabling-new-and-upcoming-features-ahead-of-time"></a>Раннее включение новых и будущих функций
 
@@ -21,6 +21,8 @@ ms.locfileid: "8141389"
 Когда Майкрософт выпускает функции или усовершенствования функций в рамках незначительных обновлений, некоторые из этих функций включаются не сразу. Администраторы могут включить каждую из функций на странице **Управление функциями**. После того как функция включена, она становится доступной для всех пользователей в этой среде независимо от того, как они осуществляют доступ к [!INCLUDE[prod_short](includes/prod_short.md)]. Функции можно без проблем отключать снова. В течение некоторого времени эти функции являются необязательными.
 
 Подробнее об [управлении функциями](/dynamics365/business-central/dev-itpro/administration/feature-management).  
+
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/admin-online-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 

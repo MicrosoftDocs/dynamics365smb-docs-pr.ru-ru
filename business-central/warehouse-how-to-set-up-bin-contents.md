@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.form: 7374
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: ef6b031cfb87c74a62da85d0c7073a91e5e176e9
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
+ms.openlocfilehash: 9135514b6f788aab99b3433a04ad28ec36064e30
+ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8520529"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "9074358"
 ---
 # <a name="create-bin-contents"></a>Создание содержимого ячейки
 
@@ -55,11 +55,13 @@ ms.locfileid: "8520529"
 
 В данном журнале вы работаете с несколькими строками содержимого ячейки для нескольких ячеек и, следовательно, получаете хороший обзор того, что помещается в различные ячейки в данной зоне, пролете или ряду.  
 
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/set-up-zones-bins/)
+
 ## <a name="see-also"></a>См. также
 
 [Расчет пополнения ячеек](warehouse-how-to-calculate-bin-replenishment.md)  
 [Управление складом](warehouse-manage-warehouse.md)  
-[Наличие](inventory-manage-inventory.md)  
+[Запасы](inventory-manage-inventory.md)  
 [Настройка управления складом](warehouse-setup-warehouse.md)  
 [Управление сборкой](assembly-assemble-items.md)  
 [Сведения о проектировании: Warehouse Management](design-details-warehouse-management.md)  

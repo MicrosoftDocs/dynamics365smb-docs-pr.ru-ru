@@ -9,14 +9,15 @@ ms.workload: na
 ms.search.keywords: sales rep
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 6046562a16bd1f9736bd10bea5c4bda397d99df1
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
+ms.openlocfilehash: 99f23e497c969e9a9461928d1e550605f6db1eae
+ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8512183"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "9076361"
 ---
 # <a name="set-up-salespeople"></a>Настройка менеджеров по продажам
+
 Во многих организациях в качестве основания для расчета комиссионных от продажи или премии предпочитают учитывать вклад конкретного сотрудника. См., например, отчет **Комиссионные менеджера по продажам**. Кроме этого, организации может понадобиться каждому из своих контактов приписать некоторого менеджера.
 
 При настройке менеджера на странице **Менеджеры** можно выбрать код в поле **Код менеджера** всех соответствующих записей, например в карточках счета ГК, клиента, поставщика, контактов и кампании. После этого при учете или настройке счетов, кредит-нот, строк журнала, действий процент-нот и т д, код менеджера будет подставляться в итоговые операции книги.
@@ -24,12 +25,16 @@ ms.locfileid: "8512183"
 > [!Video https://www.microsoft.com/videoplayer/embed/RE43Vhm?rel=0]
 
 ## <a name="to-set-up-a-salesperson-code"></a>Настройка кода менеджера
+
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Менеджеры по продажам**, а затем выберите связанную ссылку.
 2. На странице **Менеджеры** выберите действие **Создать**.
 
 Менеджера можно использовать для различных работ по управлению и маркетингу. Например, можно назначить задачи менеджерам по продажам, чтобы задачи были связаны с возможностями продаж, назначенными конкретному менеджеру. Дополнительные сведения см. в разделе [Настройка циклов продаж и этапов циклов](marketing-how-setup-opportunity-sales-cycles-stages.md).
 
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/trade-master-data-dynamics-365-business-central/)
+
 ## <a name="see-also"></a>См. также
+
 [Настройка продаж](sales-setup-sales.md)  
 [Продажи](sales-manage-sales.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  

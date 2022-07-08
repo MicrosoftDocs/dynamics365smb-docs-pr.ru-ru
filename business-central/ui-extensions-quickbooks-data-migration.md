@@ -9,12 +9,12 @@ ms.workload: na
 ms. search.keywords: app, add-in, manifest, customize, import, implement
 ms.date: 06/24/2021
 ms.author: edupont
-ms.openlocfilehash: 5c910aa7ab769af315c34db27c065fb8b496c878
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 0b608fb83b643e548b5400c6339ce35e09e5617f
+ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8136747"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "9078522"
 ---
 # <a name="the-quickbooks-data-migration-extension"></a>Расширение для миграции данных QuickBooks
 
@@ -64,6 +64,8 @@ Business Central требует, чтобы счетам главной книг
 Есть несколько важных вещей, которые нужно сделать. Если для транзакций в QuickBooks Online были заданы суммы наценки или скидки, их необходимо вручную добавить в соответствующие транзакции в Business Central, прежде чем учитывать их.
 Если вы используете налог на добавленную стоимость (НДС), вы можете добавить учетные бизнес-группы или товарные группы в параметры учета, чтобы вы могли учитывать суммы НДС.
 Проверьте начальные сальдо счетов в главной книге. В QuickBooks не хранится текущее сальдо для всех счетов, поэтому вам может потребоваться исправить начальные сальдо.
+
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/migrate-data-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 

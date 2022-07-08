@@ -10,12 +10,12 @@ ms.search.keywords: decimal separator, data entry, focus
 ms.search.form: 9020, 9022, 9026, 9027, 9030, 9000, 9009, 9004, 9005, 9024, 9006, 9007, 9010, 9016, 9017
 ms.date: 03/23/2022
 ms.author: jswymer
-ms.openlocfilehash: fffc72eaa44207779a751c3d85381f830f651eb3
-ms.sourcegitcommit: f9143302b8271f5924a027cacdf29dc37c95f4c6
+ms.openlocfilehash: 398c32043297e6900754da535f01a3fb5059c204
+ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "8655024"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "9076829"
 ---
 # <a name="entering-data"></a>Ввод данных
 
@@ -281,6 +281,8 @@ When working on multiple tasks at a time or when managing interruptions to the c
 
 > [!TIP]
 > Могут быть случаи, когда вы хотите использовать десятичный разделитель для ввода точки (.). Например, предположим, что вы вводите диапазон дат в фильтр, например `01/01/2022..04/01/2022` или что-то, что требует точки. Чтобы разрешить ситуацию, нажмите клавиши «Alt + десятичный разделитель» на цифровой клавиатуре. Эта комбинация клавиш переключает десятичный разделитель между выводом точки и десятичным разделителем, как определено в параметр **Регион**.
+
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/explore-modify-info-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 

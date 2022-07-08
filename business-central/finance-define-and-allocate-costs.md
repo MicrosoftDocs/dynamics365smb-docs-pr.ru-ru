@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.form: 1102, 1105, 1106, 1107, 1109, 1114
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 11d979329860d72476a6c2ae2ad6fcf57bd2485e
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 78dd79ab8a0f2b966b60dd9d75e95a521b83f4a2
+ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8149131"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "9075555"
 ---
 # <a name="defining-and-allocating-costs"></a>Определение и распределение затрат
 
@@ -143,12 +143,14 @@ ms.locfileid: "8149131"
 > [!IMPORTANT]  
 > [!INCLUDE[prod_short](includes/prod_short.md)] использует показатели продаж предыдущих лет для расчета акции стоимостью 1596,50 МВ со ста процентами для пакетов ИТ-ОБОРУДОВАНИЕ. Это означает, что все товары, проданные в прошлом году, будут распределены в объект затрат "ИТ-ОБОРУДОВАНИЕ".
 
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/allocate-costs-dynamics-365-business-central/)
+
 ## <a name="see-also"></a>См. также
 
- [Настройка учета затрат](finance-set-up-cost-accounting.md)   
- [Перемещение и операции учета затрат](finance-transfer-and-post-cost-entries.md)   
- [Учет по затратам](finance-manage-cost-accounting.md)   
- [Терминология в учете затрат](finance-terminology-in-cost-accounting.md)   
+ [Настройка учета затрат](finance-set-up-cost-accounting.md)  
+ [Перемещение и операции учета затрат](finance-transfer-and-post-cost-entries.md)  
+ [Учет по затратам](finance-manage-cost-accounting.md)  
+ [Терминология в учете затрат](finance-terminology-in-cost-accounting.md)  
  [Об учете затрат](finance-about-cost-accounting.md)
 
 

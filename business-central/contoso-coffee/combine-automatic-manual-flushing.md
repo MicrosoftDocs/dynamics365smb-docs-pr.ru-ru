@@ -6,12 +6,12 @@ ms.topic: article
 ms.service: dynamics365-business-central
 author: edupont04
 ms.author: andreipa
-ms.openlocfilehash: 6b128f79cb8e629147bdd5ae77f2545ad0f7025c
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
+ms.openlocfilehash: c5552d81dc612070b5dd5512222806527e18ce7e
+ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8525185"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "9078756"
 ---
 # <a name="walkthrough-combine-automatic-and-manual-flushing"></a>Пошаговое руководство: сочетание автоматического и ручного списание
 
@@ -23,7 +23,9 @@ ms.locfileid: "8525185"
 
 ## <a name="steps"></a>Шаги
 
-1. Создайте утвержденный производственный заказ на пять единиц продукта **SP-SCM1004, AutoDrip**. Для руководства см. [Пошаговое руководство. Создание утвержденного планового производственного заказа и его изменение](create-firm-planned-production-order-change.md).  
+> [Примечание!] Не забудьте скорректировать запасы, разместив журнал товаров с остатками на начало периода.
+
+1. Создайте утвержденный производственный заказ на пять единиц продукта **SP-SCM1004, AutoDrip** в местоположении *NORTH*. Для руководства см. [Пошаговое руководство. Создание утвержденного планового производственного заказа и его изменение](create-firm-planned-production-order-change.md).  
 
 2. Выпустите производственный заказ.
 

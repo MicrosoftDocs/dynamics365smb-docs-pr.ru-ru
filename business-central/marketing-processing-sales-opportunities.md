@@ -1,8 +1,6 @@
 ---
 title: Обработка возможностей продаж в циклах продаж
 description: В этом разделе описываются различные способы обработки возможностей продаж в циклах продаж и перемещения возможной сделки по стадиям цикла продаж.
-services: project-madeira
-documentationcenter: ''
 author: jswymer
 ms.topic: conceptual
 ms.devlang: na
@@ -11,12 +9,12 @@ ms.workload: na
 ms.search.keywords: relationship, prospect
 ms.date: 06/22/2021
 ms.author: jswymer
-ms.openlocfilehash: 927e90a5e25205873a3d0784c7065b9735dc7b24
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
+ms.openlocfilehash: 60ce53dc750812dc7519e6d3894a51f4e16d71eb
+ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8515463"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "9076439"
 ---
 # <a name="process-sales-opportunities"></a>Обработка возможностей продаж
 После создания возможности есть ряд функций для управления возможностью и ее перемещения по этапам до завершения.

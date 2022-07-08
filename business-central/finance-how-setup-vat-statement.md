@@ -10,12 +10,12 @@ ms.search.keywords: VAT, posting, tax, value-added tax
 ms.search.form: 317, 318, 320, 474
 ms.date: 06/16/2021
 ms.author: bholtorf
-ms.openlocfilehash: 356eb4fd32eff269b166767ae3b6cb3df6b67f1b
-ms.sourcegitcommit: 5a02f8527faecdffcc54f9c5c70cefe8c4b3b3f4
+ms.openlocfilehash: bda2bc95c78f5cc2119a6725b7dd57491938d67b
+ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/04/2022
-ms.locfileid: "8383701"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "9075529"
 ---
 # <a name="set-up-vat-statement-templates-and-vat-statement-names"></a>Настройка шаблонов отчетов НДС и названий отчетов НДС
 
@@ -45,10 +45,12 @@ ms.locfileid: "8383701"
 4. В строках, в которых поле **Тип** содержит значение **Группировка операций НДС**, список операций НДС можно просмотреть, выбрав сумму в поле **Сумма столбца**.
 5. Вы можете использовать персонализацию, чтобы показывать больше полей в строках. Например, поля нереализованной суммы базы и нереализованной суммы НДС, если вы используете нереализованный НДС.
 
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/process-vat-dynamics-365-business-central/)
+
 ## <a name="see-also"></a>См. также
 
 [Настройка налога на добавленную стоимость](finance-setup-vat.md)  
-[Настройка нереализованного НДС](finance-setup-unrealized-vat.md)      
+[Настройка нереализованного НДС](finance-setup-unrealized-vat.md)  
 [Подача отчета об НДС в налоговый орган](finance-how-report-vat.md)  
 [Работа с НДС по продажам и покупкам](finance-work-with-vat.md)  
 [Локальная функциональность в Business Central](about-localization.md)

@@ -10,12 +10,12 @@ ms.search.keywords: online printing, email printing, cloud printing, Universal P
 ms.search.form: 8900
 ms.date: 06/24/2021
 ms.author: jswymer
-ms.openlocfilehash: e9c7cc2166581c318ff8febcf112765b4f78923c
-ms.sourcegitcommit: f9143302b8271f5924a027cacdf29dc37c95f4c6
+ms.openlocfilehash: 86f808aca7223115a3124d24dfc517ed6f96ae33
+ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "8655295"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "9075659"
 ---
 # <a name="set-up-printers"></a>Настройка принтеров
 
@@ -269,11 +269,14 @@ There is a technical problem withe the printer. Unsupported document-format: app
 > Более конкретные значения выбора принтера имеют преимущество над общим выбором принтера. Например, параметры выбора принтера, которые имеют значения в полях **Код пользователя**, **Код отчета** и **Имя принтера**, имеют приоритет над параметрами выбора принтера, которые имеют пустые записи в поле **Код пользователя** или **Код отчета**.
 
 ### <a name="choosing-the-printer-when-running-a-report"></a>Выбор принтера при запуске отчета
+
 Вместо использования принтера по умолчанию при запуске отчета вы можете переопределить этот параметр на странице запроса. Просто выберите, какой принтер вы хотите использовать для этого вызова отчета в раскрывающемся меню **Принтер**.
 
 ### <a name="sizing-print-jobs"></a>Величина заданий печати
 
 Облачная печать предназначена для документов разумного размера. Большинство облачных служб, включая PrintNode и HP ePrint, имеют ограничение в 10 МБ на одно задание. Если вам нужно печатать более объемные отчеты, возможно, вам придется разделить их на несколько распечаток.
+
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/change-documents-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 

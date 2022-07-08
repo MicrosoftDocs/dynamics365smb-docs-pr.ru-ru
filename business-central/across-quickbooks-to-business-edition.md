@@ -10,14 +10,15 @@ ms.search.keywords: app, import, migrate, data, transfer, QuickBooks, customize
 ms.search.form: 1808
 ms.date: 04/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: 8ba1ef2d6625cb49c1b4d12dc5626c3669ecb320
-ms.sourcegitcommit: 5a02f8527faecdffcc54f9c5c70cefe8c4b3b3f4
+ms.openlocfilehash: 871181121d409c336526bbc2a569d163d2b671f5
+ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/04/2022
-ms.locfileid: "8384154"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "9078834"
 ---
 # <a name="changing-from-a-quickbooks-app-to-dynamics-365-business-central"></a>Переход с приложения QuickBooks на Dynamics 365 Business Central
+
 Все больше организаций ввиду увеличения масштабов своей деятельности переходят с таких финансовых приложений, предназначенных для стартапов и других небольших предприятий, как QuickBooks Desktop и QuickBooks Online, на систему [!INCLUDE[prod_short](includes/prod_short.md)], способную обслуживать более крупные и сложные организации. 
 
 В процессе такого перехода компании обычно стремятся перенести в новую систему свои бизнес-данные, чтобы не начинать все с нуля. Чтобы облегчить перенос данных, в [!INCLUDE[prod_short](includes/prod_short.md)] предусмотрены встроенные расширения для миграции таких данных, как клиенты, поставщики, товары в запасах и счета главной книги. Следующие расширения установлены и готовы к работе в составе мастера настройки **Миграция данных**:
@@ -31,9 +32,13 @@ ms.locfileid: "8384154"
 * [Расширение миграции данных QuickBooks Online](ui-extensions-quickbooks-online-data-migration.md)
 
 ## <a name="ready-now"></a>Готовы начинать?
+
 Если вы готовы начать прямо сейчас, выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Мастер настройки**, а затем выберите связанную ссылку. Выберите **Миграция бизнес-данных**, затем выполните шаги в руководстве.
 
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/migrate-data-dynamics-365-business-central/)
+
 ## <a name="see-also"></a>См. также
+
 [Импорт бизнес-данных из других финансовых систем](across-import-data-configuration-packages.md)  
 [Настройка Business Central с помощью расширений](ui-extensions.md)   
 

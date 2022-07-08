@@ -10,12 +10,12 @@ ms.search.keywords: task, process, report, print, schedule, save, Excel, PDF, Wo
 ms.search.form: ''
 ms.date: 03/24/2022
 ms.author: jswymer
-ms.openlocfilehash: f2129ff54f49637fb8abbcae374a2e9f7e5d7c2e
-ms.sourcegitcommit: f9143302b8271f5924a027cacdf29dc37c95f4c6
+ms.openlocfilehash: 43e2c33af227ccd33ad5e5a616df78fd75298bcd
+ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "8655232"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "9076179"
 ---
 # <a name="run-and-print-reports"></a>Выполнение и печать отчетов
 
@@ -145,6 +145,8 @@ Use the **Microsoft Word Document** option to generate a report as a Word docume
 
 > [!NOTE]
 > Максимальные значения могут быть разными для [!INCLUDE[prod_short](includes/prod_short.md)] (локальная версия), и администратор может их изменить. Дополнительные сведения см. в разделе [Настройка Business Central Server — отчеты](/dynamics365/business-central/dev-itpro/administration/configure-server-instance#Reports). Для обзора ограничений отчетов [!INCLUDE[prod_short](includes/prod_short.md)] (онлайн), см. [Операционные ограничения](/dynamics365/business-central/dev-itpro/administration/operational-limits-online).
+
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/setup-reporting-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 

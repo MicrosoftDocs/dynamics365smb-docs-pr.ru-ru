@@ -10,12 +10,12 @@ ms.search.keywords: posting setup, initialize
 ms.search.form: 312, 313
 ms.date: 03/24/2022
 ms.author: bholtorf
-ms.openlocfilehash: 4391b73a6e7f26262349abaeff751dd8f0f6c4e1
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
+ms.openlocfilehash: a3ce9d938994f6300e0a1f2c26511b3c0702c124
+ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8515671"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "9076569"
 ---
 # <a name="set-up-posting-groups"></a>Настройка учетных групп
 
@@ -58,6 +58,7 @@ ms.locfileid: "8515671"
 | Группы учета основных средств |Определите счета для различных типов расходов и затрат, например расходов по приобретению, сумм накопленной амортизации, затрат на выбытие, накопленной амортизации при выбытии, прибылей из-за выбытия, убытков из-за выбытия, расходов на обслуживание, а также издержек на амортизацию. Группы учета настраиваются на странице **Учетные группы ОС**. |
 
 ### <a name="allowing-substitute-customer-or-vendor-posting-groups-on-documents"></a>Разрешение замещающих групп клиентов или поставщиков в документах
+
 Вы можете позволить людям выбирать группы учета клиентов и поставщиков, отличные от групп по умолчанию, когда они работают с документами и журналами продаж или покупок.
 
 Чтобы разрешить внесение изменений в группы учета клиентов, выберите **Разрешить изменение группы учета** на страницах **Настройка модуля "Продажи и дебитор. задолж."** и **Сервисный центр — настройка** и на странице **Настройка модуля Покупки и кредиторская задолженность** для внесения изменений в группу учета поставщиков.
@@ -129,10 +130,13 @@ ms.locfileid: "8515671"
 > [!NOTE]
 > Описанная выше обработка ошибок недоступна для журналов товаров, ресурсов, сотрудников и основных средств, а также для счетов ГК, добавленных в локальные версии учетных групп.
 
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/posting-groups-dynamics-365-business-central/)
+
 ## <a name="see-also"></a>См. также
+
 [Главная книга и план счетов](finance-general-ledger.md)  
 [Настройка финансов](finance-setup-finance.md)  
-[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

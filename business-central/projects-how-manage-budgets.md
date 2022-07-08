@@ -10,14 +10,15 @@ ms.search.keywords: project budget, forecast
 ms.search.form: 1002, 1007
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: c34a4dd34ab34c7d1a5b02686618ab5f95957cbd
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
+ms.openlocfilehash: bc3d630e232e560987daefaabbe7ea8b5ddc681c
+ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8513891"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "9075373"
 ---
 # <a name="manage-job-budgets"></a>Управление бюджетами работ
+
 Бюджет можно настроить для каждой работы. Бюджет необходим для планирования ресурсов, выделенных для выполнения работы. Бюджет может быть общим, с небольшим количеством операций, или же он может содержать больше операций, которые разделены по уровням деятельности. Затем можно сравнивать бюджетные суммы с фактическим потреблением, занесенным в журнал работ. Контролируя различия между фактическим и бюджетным потреблением, можно контролировать текущий проект и улучшить качество будущих работ за счет снижения риска неправильной оценки затрат.
 
 Следующая процедура показывает, как оценить бюджетные затраты во время планирования. Информацию о регистрации бюджетных и фактических цен и затрат для работ см. в разделе [Регистрация потребления для работ](projects-how-record-job-usage.md).  
@@ -48,11 +49,14 @@ ms.locfileid: "8513891"
 
 Информацию о регистрации бюджетных и фактических цен и затрат для работ см. в разделе [Регистрация потребления для работ](projects-how-record-job-usage.md).
 
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/set-up-job-planning-lines/)
+
 ## <a name="see-also"></a>См. также
+
 [Управление проектами](projects-manage-projects.md)  
 [Финансы](finance.md)  
-[Покупки](purchasing-manage-purchasing.md)         
-[Продажи](sales-manage-sales.md)      
+[Покупки](purchasing-manage-purchasing.md)  
+[Продажи](sales-manage-sales.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 
 

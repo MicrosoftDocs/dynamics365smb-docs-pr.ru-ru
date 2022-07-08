@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/11/2021
 ms.author: edupont
-ms.openlocfilehash: 8fc4dc464e6562684db6b4ae67422f59cb641927
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
+ms.openlocfilehash: b7e6574567e07b42187d3e33cfbf7f99e13096f8
+ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8511211"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "9077375"
 ---
 # <a name="use-workflows"></a>Использование рабочих процессов
 
@@ -69,10 +69,13 @@ ms.locfileid: "8511211"
 |Просмотр экземпляров шагов рабочего процесса в статусе "Завершено".|[Просмотр архивированных экземпляров шагов рабочих процессов](across-how-to-view-archived-workflow-step-instances.md)|  
 |Удаление рабочего процесса, про который известно, что он больше не будет использоваться.|[Удаление рабочих процессов](across-how-to-delete-workflows.md)|  
 
-## <a name="see-also"></a>См. также  
-[Настройка рабочих процессов](across-set-up-workflows.md)   
-[Рабочий процесс](across-workflow.md)   
-[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/create-workflows/)
+
+## <a name="see-also"></a>См. также
+
+[Настройка рабочих процессов](across-set-up-workflows.md)  
+[Рабочий процесс](across-workflow.md)  
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

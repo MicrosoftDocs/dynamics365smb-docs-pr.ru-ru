@@ -9,31 +9,36 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 6ff238b213de72210908c89eae1da180a1a10fb1
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
+ms.openlocfilehash: 8c21bcccbde5198a5e880d7a1dee13ab2bc67952
+ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8519307"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "9077037"
 ---
 # <a name="enable-workflows"></a>Включение рабочих процессов
+
 Когда рабочий процесс создан и вы уверены, что он готов к запуску, рабочий процесс необходимо включить.  
 
  На странице **Рабочий процесс** создайте рабочий процесс, указав в строках связанные с ним шаги. Каждый шаг состоит из события рабочего процесса, ограниченного условиями события, и отклика рабочего процесса, ограниченного параметрами отклика. Шаги рабочего процесса заполняются посредством заполнения полей в строках рабочего процесса из фиксированных списков значений события и отклика, представляющих сценарии, которые поддерживаются кодом приложения. Дополнительные сведения см. в разделе [Создание рабочих процессов](across-how-to-create-workflows.md).  
 
-## <a name="to-enable-a-workflow"></a>Включение рабочего процесса  
+## <a name="to-enable-a-workflow"></a>Включение рабочего процесса
+
 1.  Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Рабочие процессы**, а затем выберите связанную ссылку.  
 2.  Откройте рабочий процесс, который требуется включить.  
 3.  На странице **Рабочий процесс** установите флажок **Включено**.  
 
-## <a name="see-also"></a>См. также  
- [Создание рабочих процессов](across-how-to-create-workflows.md)   
- [Просмотр архивированных экземпляров шагов рабочих процессов](across-how-to-view-archived-workflow-step-instances.md)   
- [Удаление рабочих процессов](across-how-to-delete-workflows.md)   
- [Настройка рабочих процессов](across-set-up-workflows.md)   
- [Использование рабочих процессов](across-use-workflows.md)   
- [Пошаговое руководство. Настройка и использование рабочего процесса утверждения покупки](walkthrough-setting-up-and-using-a-purchase-approval-workflow.md)   
- [Рабочий процесс](across-workflow.md)   
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/create-workflows/)
+
+## <a name="see-also"></a>См. также
+
+ [Создание рабочих процессов](across-how-to-create-workflows.md)  
+ [Просмотр архивированных экземпляров шагов рабочих процессов](across-how-to-view-archived-workflow-step-instances.md)  
+ [Удаление рабочих процессов](across-how-to-delete-workflows.md)  
+ [Настройка рабочих процессов](across-set-up-workflows.md)  
+ [Использование рабочих процессов](across-use-workflows.md)  
+ [Пошаговое руководство. Настройка и использование рабочего процесса утверждения покупки](walkthrough-setting-up-and-using-a-purchase-approval-workflow.md)  
+ [Рабочий процесс](across-workflow.md)  
 
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

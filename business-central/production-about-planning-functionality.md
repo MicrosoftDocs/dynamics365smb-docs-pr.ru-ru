@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.form: 5430
 ms.date: 07/16/2021
 ms.author: edupont
-ms.openlocfilehash: 693e7a3a5970e681840332f7b6899f1867e36bd1
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
+ms.openlocfilehash: 51f1e2ff31e819c8aa571335b25dc51ec61d6d30
+ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8512260"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "9077212"
 ---
 # <a name="about-planning-functionality"></a>О функциональности планирования
 
@@ -161,6 +161,8 @@ ms.locfileid: "8512260"
 В строках журнала заявок содержится детальная информация о товаре, который необходимо заказать повторно. Можно редактировать и удалять строки в соответствии с планом пополнения, последующая обработка строк осуществляется с помощью пакетного задания **Выполнить указание**.
 
 Подробнее о планировании с местоположениями и перемещениями см. в разделе [Планирование с местоположением или без него](production-planning-with-without-locations.md).
+
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/plan-items-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 

@@ -1,8 +1,6 @@
 ---
 title: Обзор задач для предоставления услуг | Документация Майкрософт
 description: Описываются задачи, которые нужно настроить, чтобы предоставлять качественное обслуживание и выполнять условия соглашений с клиентами.
-services: project-madeira
-documentationcenter: ''
 author: SorenGP
 ms.topic: overview
 ms.devlang: na
@@ -11,12 +9,12 @@ ms.workload: na
 ms.search.keywords: service, service items, respond, response
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: ae2dd8a55c030d06e839a97f482adf1c548d6dbd
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: e44033b067ab51e17925330618f954294252177b
+ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8128514"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "9077818"
 ---
 # <a name="delivering-service"></a>Предоставление услуги
 В [!INCLUDE[prod_short](includes/prod_short.md)] предусмотрены функции, упрощающие процесс предоставления услуг по созданным контрактам и переданным на выполнение сервисным заказам. С помощью **панели диспетчера** технический персонал и диспетчеры могут легко находить невыполненные сервисные заказы. **Панель диспетчера** позволяет с первого взгляда определить, какие заказы выполняются, а какие уже выполнены заказы.  

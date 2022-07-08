@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: OData, Power App, SOAP
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 75dbc465373843327c4ff1c4a8563452d3464d94
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: a9c4f0decab63b3e0484ceff3f0bd7c31c638258
+ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8133308"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "9075112"
 ---
 # <a name="connecting-to-your-business-central-data-to-build-a-business-app-using-power-apps"></a>Подключение к данным Business Central для создания бизнес-приложения с помощью Power Apps
 
@@ -48,6 +48,8 @@ ms.locfileid: "8133308"
 
 > [!NOTE]
 > Если требуется подключиться к [!INCLUDE[prod_short](includes/prod_short.md)] On-Premises, необходимо выбрать соединитель **Business Central (локальная версия)** на шаге 3.  
+
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/power-apps-power-automate-business-central/)
 
 ## <a name="see-also"></a>См. также
 

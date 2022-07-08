@@ -6,12 +6,12 @@ ms.topic: conceptual
 ms.search.form: 1
 ms.date: 04/20/2022
 ms.author: edupont
-ms.openlocfilehash: 1adf94a191b2e0514f7a7435ac1807ca19498b14
-ms.sourcegitcommit: cfe4e924af2c89c09250270245e7a1eef1184bfc
+ms.openlocfilehash: 5de13d4f6e625db0d0871a3f7a94f62d726abc8f
+ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/21/2022
-ms.locfileid: "8626243"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "9077714"
 ---
 # <a name="company-information-overview"></a>Обзор информации о компании
 
@@ -35,6 +35,8 @@ ms.locfileid: "8626243"
 
 Пользовательский интерфейс по умолчанию в пробной версии [!INCLUDE [prod_short](includes/prod_short.md)] не раскрывает все возможности. Вы можете включить полный интерфейс на странице **Информация о компании**. Дополнительные сведения см. в разделе [Изменение набора отображаемых функций](ui-experiences.md).  
 
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/create-new-companies-dynamics-365-business-central/)
+
 ## <a name="see-also"></a>См. также
 
 [Обзор задач по настройке [!INCLUDE[prod_short](includes/prod_short.md)]](setup.md)  
@@ -42,3 +44,6 @@ ms.locfileid: "8626243"
 [Настройка сведений об организации в Италии](LocalFunctionality/Italy/how-to-set-up-company-information.md)  
 [Изменение базовых настроек](ui-change-basic-settings.md)  
 [Изменение набора отображаемых функций](ui-experiences.md)  
+
+
+[!INCLUDE[footer-include](includes/footer-banner.md)]

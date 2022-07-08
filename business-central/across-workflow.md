@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 05/12/2022
 ms.author: edupont
-ms.openlocfilehash: 84d4a87a0edab18be342b9ed5732de0350a31645
-ms.sourcegitcommit: bc645e7ecb1940a85b2c433aa894d3494c9b10df
+ms.openlocfilehash: 7ea61d359bbdaf0ac788a0fada151fe3e0ad5960
+ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/12/2022
-ms.locfileid: "8743675"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "9075086"
 ---
 # <a name="workflows-in-dynamics-365-business-central"></a>Рабочие процессы в Dynamics 365 Business Central
 
@@ -47,6 +47,8 @@ ms.locfileid: "8743675"
 |Настройте пользователей рабочего процесса, определите, как пользователи будут получать уведомления, и создайте новые рабочие процессы. Для новых рабочих процессов для неподдерживаемых сценариев реализуйте необходимые элементы рабочего процесса путем настройки кода приложения.|[Настройка рабочих процессов](across-set-up-workflows.md)|  
 |Включите процессы, выполните действия над уведомлениями рабочего процесса, включая запрос утверждения, и утвердите запросы на выполнение шага рабочего процесса. Архивируйте и удалите рабочие процессы.|[Использование рабочих процессов](across-use-workflows.md)|  
 
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/create-workflows/)
+
 ## <a name="see-also"></a>См. также
 
 [Продажи](sales-manage-sales.md)  
@@ -55,5 +57,6 @@ ms.locfileid: "8743675"
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 [Использование [!INCLUDE[prod_short](includes/prod_short.md)] в рабочих процессах Power Automate](across-how-use-financials-data-source-flow.md)  
 [Устранение неполадок в автоматизированных рабочих процессах [!INCLUDE[prod_short](includes/prod_short.md)]](across-flow-troubleshoot.md)  
+
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

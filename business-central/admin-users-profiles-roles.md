@@ -7,12 +7,12 @@ ms.search.keywords: profiles, users
 ms.search.form: 9171
 ms.date: 06/14/2021
 ms.author: edupont
-ms.openlocfilehash: b17a4f5a375e4fa1ad067d2679b37bb3d0f5da95
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
+ms.openlocfilehash: a44338ca10dee37bba6d78ec1c73cb7b156bd2b3
+ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8514151"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "9079276"
 ---
 # <a name="manage-user-profiles"></a>Управление профилями пользователей
 
@@ -145,7 +145,10 @@ ms.locfileid: "8514151"
 
 Для [!INCLUDE[prod_short](includes/prod_short.md)] локальная версия вы можете управлять сеансами, например, с помощью SQL Server Management Studio. Дополнительные сведения см. в [Техническая документация по SQL Server](/sql/sql-server).  
 
-## <a name="see-also"></a>См. также  
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/users-security-dynamics-365-business-central/)
+
+## <a name="see-also"></a>См. также
+
 [Назначение разрешений пользователям и группам](ui-define-granular-permissions.md)  
 [Настройка страниц для профилей](ui-personalization-manage.md)  
 [Персонализация рабочей области](ui-personalization-user.md)  

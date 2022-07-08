@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.form: 44, 48, 42, 50, 52, 9305, 9307
 ms.date: 06/16/2021
 ms.author: edupont
-ms.openlocfilehash: cccfd5f5ca2b0e3d892e834465d628262f97151d
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
+ms.openlocfilehash: d45fc8f3b3636e79c17fec799f8f3682f0772e1b
+ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8520390"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "9075503"
 ---
 # <a name="correct-prepayments"></a>Корректировка предоплат
 
@@ -37,6 +37,8 @@ ms.locfileid: "8520390"
 
 5. Чтобы создать счет на предоплату для любых новых строк в кредит-ноте продажи, выберите действие **Предоплата**, затем выберите действие **Учет счета на предоплату** или **Учет и печать счета на предоплату**.  
 6. Чтобы создать дополнительный счет на предоплату, увеличьте сумму предоплаты в одной или нескольких строках и выполните учет счета на предоплату. Новый счет будет создан на сумму разницы между суммами предоплаты, уже включенными в счет, и новыми суммами предоплаты.  
+
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/prepayment-invoices-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 

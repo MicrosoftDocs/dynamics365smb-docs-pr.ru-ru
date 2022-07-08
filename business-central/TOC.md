@@ -229,13 +229,11 @@
 ### Входящие документы
 #### [Обзор входящих документов](across-income-documents.md)
 #### [Настройка входящих документов](across-how-setup-income-documents.md)
-#### Обработка входящих документов
-##### [Обработка входящих документов](across-process-income-documents.md)
-##### [Создание записей входящих документов](across-how-create-income-document-records.md)
-##### [Использование OCR для преобразования PDF-файлов и файлов изображений в электронные документы](across-how-use-ocr-pdf-images-files.md)
-##### [Создание записей входящих документов непосредственно из документов и операций](across-how-connect-disconnect-income-document-records.md)
-##### [Поиск учтенных документов без записей входящих документов](across-how-find-posted-documents-without-income-document-records.md)
-##### [Управление большим количеством записей входящих документов](across-how-manage-many-income-document-records.md)
+#### [Создание записей входящих документов](across-how-create-income-document-records.md)
+#### [Использование OCR для преобразования PDF-файлов и файлов изображений в электронные документы](across-how-use-ocr-pdf-images-files.md)
+#### [Создание записей входящих документов непосредственно из документов и операций](across-how-connect-disconnect-income-document-records.md)
+#### [Поиск учтенных документов без записей входящих документов](across-how-find-posted-documents-without-income-document-records.md)
+#### [Управление большим количеством записей входящих документов](across-how-manage-many-income-document-records.md)
 
 ### Рабочие процессы
 #### [Обзор рабочего процесса](across-workflow.md)
@@ -1424,8 +1422,8 @@
 #### Налог
 ##### [Налог с продаж в США](LocalFunctionality/UnitedStates/us-sales-tax.md)
 ##### [Отчетность по налогу с продаж в США](LocalFunctionality/UnitedStates/us-sales-tax.md)  
-##### [Отчетность по транзакциям, подлежащим учету по форме 1099 в США](LocalFunctionality/UnitedStates/tax-1099.md)  
 ##### [Настройка и использование формы IRS 1099](LocalFunctionality/UnitedStates/set-up-use-irs1099-form.md)
+##### [Изменения нормативного формата 1099 и сведения о нем](LocalFunctionality/UnitedStates/tax-1099-changes.md)  
 ##### [Настройка налога на использование и налога на покупки](LocalFunctionality/UnitedStates/how-to-set-up-use-tax-and-purchase-tax.md)  
 ##### [Настройка нереализованного налога с продажи и скидок по оплате за продажи](LocalFunctionality/UnitedStates/how-to-set-up-unrealized-sales-tax-and-sales-payment-discounts.md)  
 #### Банковские операции и платежи

@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.form: 7335, 7337, 7339, 7340, 7341, 7362, 9008
 ms.date: 06/24/2021
 ms.author: edupont
-ms.openlocfilehash: 5af803495f90590e288ad3d4e919995bb60e06b2
-ms.sourcegitcommit: cfe4e924af2c89c09250270245e7a1eef1184bfc
+ms.openlocfilehash: 7ad15181a1dc25f8b3ee923a62f5b4c553f965b2
+ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/21/2022
-ms.locfileid: "8626607"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "9078912"
 ---
 # <a name="ship-items"></a>Отгрузка товаров
 
@@ -106,10 +106,12 @@ ms.locfileid: "8626607"
 > [!NOTE]
 > Если на складе ожидается прибытие конкретных товаров и используется функция переброски, то в каждой строке журнала отгрузки или подбора [!INCLUDE[prod_short](includes/prod_short.md)] вычисляет количество товара, находящегося в ячейке переброски. Это поле обновляется при каждом закрытии и открытии документа отгрузки или журнала. Дополнительные сведения см. в разделе [Переброска товаров](warehouse-how-to-cross-dock-items.md).
 
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/ship-invoice-items-dynamics-365-business-central/)
+
 ## <a name="see-also"></a>См. также
 
 [Управление складом](warehouse-manage-warehouse.md)  
-[Наличие](inventory-manage-inventory.md)  
+[Запасы](inventory-manage-inventory.md)  
 [Настройка управления складом](warehouse-setup-warehouse.md)  
 [Управление сборкой](assembly-assemble-items.md)  
 [Сведения о проектировании: Warehouse Management](design-details-warehouse-management.md)  

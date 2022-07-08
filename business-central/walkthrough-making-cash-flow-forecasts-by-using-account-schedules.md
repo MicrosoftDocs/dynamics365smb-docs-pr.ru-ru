@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/24/2021
 ms.author: edupont
-ms.openlocfilehash: be9ddda098391cad347948993c2038de7efc8fc9
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
+ms.openlocfilehash: 242c3e65401f188068c6e1fbea20212d4a3a7653
+ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8521446"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "9076153"
 ---
 # <a name="walkthrough-making-cash-flow-forecasts-by-using-account-schedules"></a>Пошаговое руководство: создание прогнозов движения денежных средств с использованием финансовых отчетов
 
@@ -141,6 +141,8 @@ ms.locfileid: "8521446"
 1. На странице **Названия финансовых отчетов** выберите действие **Обзор**, чтобы просмотреть прогноз движения денежных средств.  
 2. На странице **Просмотр финансового отчета** можно выбрать сумму, а затем просмотреть записи прогноза движения денежных средств, которые составляют сумму. Кроме того, можно просмотреть используемую формулу для расчета суммы. Можно также фильтровать суммы по дате и измерению.  
 3. Выберите действие **Печать** для печати прогноза движения денежных средств.  
+
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/forecast-cash-flow-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 

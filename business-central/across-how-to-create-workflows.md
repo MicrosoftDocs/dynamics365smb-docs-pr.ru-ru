@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/30/2021
 ms.author: edupont
-ms.openlocfilehash: eb733e1d157e509ce7bbe4ee2fa4db682dae3980
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
+ms.openlocfilehash: fe69109b512ea0e37c4564e08e1d35eb82e898c9
+ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8521284"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "9077740"
 ---
 # <a name="create-workflows-to-connect-business-process-tasks"></a>Создавайте рабочие процессы для соединения задач бизнес-процессов
 
@@ -178,6 +178,8 @@ ms.locfileid: "8521284"
 :::image type="content" source="media/Workflows/workflow-example-2.png" alt-text="Иллюстрация рабочего процесса утверждения имени поставщика.":::
 
 Затем вы должны протестировать рабочий процесс, открыв существующего поставщика и изменив имя. Убедитесь, что при изменении имени поставщика сделан запрос на утверждение.
+
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/create-workflows/)
 
 ## <a name="see-also"></a>См. также
 

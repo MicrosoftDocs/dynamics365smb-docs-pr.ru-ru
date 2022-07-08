@@ -7,15 +7,14 @@ ms.custom: na
 ms.reviewer: na
 ms.topic: conceptual
 ms.date: 06/14/2021
-ms.openlocfilehash: f7c39cc06a84da212b6d3045eeb9c3cb8087046a
-ms.sourcegitcommit: 5a02f8527faecdffcc54f9c5c70cefe8c4b3b3f4
+ms.openlocfilehash: 251376700e140043705ce05fcf47f7ebbb0dcd4b
+ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/04/2022
-ms.locfileid: "8382901"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "9079614"
 ---
 # <a name="integrating-with-microsoft-dataverse"></a>Интеграция с Microsoft Dataverse
-
 
 Бизнес-приложения часто используют данные из более чем одного источника. [!INCLUDE[prod_short](includes/cds_long_md.md)] объединяет данные в единый набор логики, облегчающей подключение других приложений Dynamics 365, таких как [!INCLUDE[crm_md](includes/crm_md.md)] или ваше собственное приложение, построенное на основе [!INCLUDE[prod_short](includes/cds_long_md.md)], к [!INCLUDE[prod_short_md](includes/prod_short.md)]. Для получения дополнительных сведений о [!INCLUDE[prod_short](includes/cds_long_md.md)] см. раздел [Что такое Dataverse?](/powerapps/maker/common-data-service/data-platform-intro)
 
@@ -31,12 +30,15 @@ ms.locfileid: "8382901"
 3. Синхронизируйте данные между приложениями. Дополнительные сведения см. в разделе [Синхронизация Business Central и Dataverse](admin-synchronizing-business-central-and-sales.md). 
 
 ## <a name="getting-started-with-prod_short"></a>Приступая к работе с [!INCLUDE[prod_short](includes/cds_long_md.md)]
+
 Чтобы начать работу с [!INCLUDE[prod_short](includes/cds_long_md.md)], вам понадобится учетная запись Microsoft Power Apps. Если у вас еще нет учетной записи Power Apps, вы можете получить его бесплатно, посетив [powerapps.com](https://make.powerapps.com/?utm_source=padocs&utm_medium=linkinadoc&utm_campaign=referralsfromdoc) и выбрав ссылку **Начать бесплатно**. Чтобы узнать больше о том, как начать работу с [!INCLUDE[prod_short](includes/cds_long_md.md)], см. модуль [Начало работы с Dataverse](/learn/modules/get-started-with-powerapps-common-data-service/) от Microsoft Learn.
 
 ## <a name="bi-directional-or-uni-directional-data-synchronization"></a>Двунаправленная или однонаправленная синхронизация данных
+
 В зависимости от потребностей вашего бизнеса, вы можете настроить интеграцию для синхронизации данных из одного бизнес-приложения Dynamics 365 в другое или наоборот, либо в обоих направлениях в режиме, близком к режиму реального времени, через [!INCLUDE[prod_short](includes/cds_long_md.md)]. Например, если вы интегрируете [!INCLUDE[prod_short](includes/prod_short.md)] с [!INCLUDE[crm_md](includes/crm_md.md)] через [!INCLUDE[prod_short](includes/cds_long_md.md)], продавец может создать заказ на продажу в [!INCLUDE[crm_md](includes/crm_md.md)], и заказ будет синхронизирован с [!INCLUDE[prod_short](includes/prod_short.md)]. И наоборот, из [!INCLUDE[crm_md](includes/crm_md.md)] продавец может просматривать информацию из [!INCLUDE[prod_short](includes/prod_short.md)] о наличии товара в заказе. 
 
 ## <a name="standard-and-custom-entities"></a>Стандартные и пользовательские объекты
+
 [!INCLUDE[prod_short](includes/cds_long_md.md)] безопасно хранит данные в наборе таблиц, которые представляют собой наборы записей, аналогично тому, как таблица хранит данные в базе данных. [!INCLUDE[prod_short](includes/cds_long_md.md)] включает в себя базовый набор стандартных таблиц, которые охватывают типичные сценарии, но вы также можете создавать собственные таблицы, характерные для вашей организации. В [!INCLUDE[prod_short](includes/prod_short.md)] можно просмотреть стандартные и настраиваемые таблицы, синхронизируемые на странице сопоставления таблиц интеграции.
 
 ## <a name="about-the-business-central-base-integration-solution"></a>О базовом решении интеграции Business Central
@@ -60,12 +62,12 @@ ms.locfileid: "8382901"
 
 Во время настройки соединения создаются сопоставления таблиц интеграции, которые необходимы для синхронизации данных. Сущности в [!INCLUDE[prod_short](includes/cds_long_md.md)] сопоставляются с таблицами и полями таблиц в Business Central посредством таблиц интеграции. Дополнительные сведения см. в разделе [Сопоставление стандартных объектов для синхронизации](admin-synchronizing-business-central-and-sales.md#standard-table-mapping-for-synchronization).
 
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/use-model-driven-apps-common-data-service/)
+
 ## <a name="see-also"></a>См. также
+
 [Модели владения данными](admin-cds-company-concept.md)  
 <!--needs to be removed as this is moved to dev-itpro docs[Walkthrough: Customizing an Integration with Dataverse](\dynamics365\business-central\dev-itpro\administration\administration-custom-cds-integration) -->
-
-
-
 
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

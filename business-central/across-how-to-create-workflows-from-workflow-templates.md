@@ -1,8 +1,6 @@
 ---
 title: Как создавать рабочие процессы из шаблонов рабочих процессов
 description: Чтобы сэкономить время при создании новых рабочих процессов, вы можете создавать нередактируемые рабочие процессы из шаблонов рабочих процессов с префиксом «MS».
-services: project-madeira
-documentationcenter: ''
 author: SorenGP
 ms.topic: conceptual
 ms.devlang: na
@@ -11,14 +9,15 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/11/2021
 ms.author: edupont
-ms.openlocfilehash: 038494ebd8442c20239bc2426754389117ed95c9
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
+ms.openlocfilehash: 6f4109b7de28938ac21945fce57179837aeb70b8
+ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8521336"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "9076777"
 ---
 # <a name="create-workflows-from-workflow-templates"></a>Создание рабочих процессов из шаблонов рабочих процессов
+
 Для экономии времени при создании новых рабочих процессов можно создавать рабочие процессы из шаблонов рабочих процессов.  
 
  Шаблоны рабочих процессов не подлежат редактированию и существуют в универсальной версии [!INCLUDE[prod_short](includes/prod_short.md)]. Коды для шаблонов рабочих процессов, добавленных Майкрософт, имеют приставку "MS-".  
@@ -27,7 +26,8 @@ ms.locfileid: "8521336"
 
 На странице **Рабочий процесс** создайте рабочий процесс, указав в строках связанные с ним шаги. Каждый шаг состоит из события рабочего процесса, ограниченного условиями события, и отклика рабочего процесса, ограниченного параметрами отклика. Шаги рабочего процесса заполняются посредством заполнения полей в строках рабочего процесса из фиксированных списков значений события и отклика, представляющих сценарии, которые поддерживаются кодом приложения. Дополнительные сведения см. в разделе [Создание рабочих процессов](across-how-to-create-workflows.md).  
 
-## <a name="to-create-a-workflow-from-workflow-template"></a>Создание рабочего процесса из шаблона рабочего процесса  
+## <a name="to-create-a-workflow-from-workflow-template"></a>Создание рабочего процесса из шаблона рабочего процесса
+
 1.  Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Рабочие процессы**, а затем выберите связанную ссылку.  
 2.  Выберите действие **Создать рабочий процесс из шаблона**. Открывается страница **Шаблоны рабочих процессов**.  
 3.  Выберите рабочий процесс, а затем нажмите кнопку **ОК**.  
@@ -35,15 +35,18 @@ ms.locfileid: "8521336"
      Откроется страница **Рабочий процесс** для нового рабочего процесса, содержащее всю информацию из выбранного шаблона. Значение в поле **Код** дополняется символами, например "01", которые указывают, что это первый рабочий процесс, созданный на основе шаблона рабочего процесса.  
 4.  Для продолжения создания потока операций измените шаги рабочего процесса или добавьте новые. Дополнительные сведения см. в разделе [Создание рабочих процессов](across-how-to-create-workflows.md).  
 
-## <a name="see-also"></a>См. также  
- [Создание рабочих процессов](across-how-to-create-workflows.md)   
- [Экспорт и импорт рабочих процессов](across-how-to-export-and-import-workflows.md)   
- [Просмотр архивированных экземпляров шагов рабочих процессов](across-how-to-view-archived-workflow-step-instances.md)   
- [Удаление рабочих процессов](across-how-to-delete-workflows.md)   
- [Пошаговое руководство. Настройка и использование рабочего процесса утверждения покупки](walkthrough-setting-up-and-using-a-purchase-approval-workflow.md)   
- [Настройка рабочих процессов](across-set-up-workflows.md)   
- [Использование рабочих процессов](across-use-workflows.md)   
- [Рабочий процесс](across-workflow.md)   
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/create-workflows/)
+
+## <a name="see-also"></a>См. также
+
+ [Создание рабочих процессов](across-how-to-create-workflows.md)  
+ [Экспорт и импорт рабочих процессов](across-how-to-export-and-import-workflows.md)  
+ [Просмотр архивированных экземпляров шагов рабочих процессов](across-how-to-view-archived-workflow-step-instances.md)  
+ [Удаление рабочих процессов](across-how-to-delete-workflows.md)  
+ [Пошаговое руководство. Настройка и использование рабочего процесса утверждения покупки](walkthrough-setting-up-and-using-a-purchase-approval-workflow.md)  
+ [Настройка рабочих процессов](across-set-up-workflows.md)  
+ [Использование рабочих процессов](across-use-workflows.md)  
+ [Рабочий процесс](across-workflow.md)  
 
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

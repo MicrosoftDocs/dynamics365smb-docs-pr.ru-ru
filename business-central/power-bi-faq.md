@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: Power BI, reports, faq, errors
 ms.date: 04/22/2021
 ms.author: jswymer
-ms.openlocfilehash: b19471cc3833c642ee65dc262fd5ca6cc1a57492
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
+ms.openlocfilehash: e5f98a7851702f95b627e69544eb181d3d0d5206
+ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8520182"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "9077922"
 ---
 # <a name="power-bi--faq"></a>Часто задаваемые вопросы по Power BI
 
@@ -250,15 +250,17 @@ In general, we recommend avoiding any database modifications in API pages when t
 
 ---
 
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/change-documents-dynamics-365-business-central/)
+
 ## <a name="see-also"></a>См. также
 
-[Общие сведения о лицензировании Power BI](admin-powerbi-setup.md#license)
-[Business Central и Power BI](admin-powerbi.md)  
+[Лицензирование Power BI](admin-powerbi-setup.md#license)  
+[Введение в Business Central и Power BI](admin-powerbi.md)  
 [Обзор интеграции Power BI](admin-powerbi-overview.md)  
 [Включение Power BI в Business Central](admin-powerbi-setup.md)  
 [Работа с отчетами Power BI в Business Central](across-working-with-powerbi.md)  
 [Работа с данными Business Central в Power BI](across-working-with-business-central-in-powerbi.md)  
-[Создание отчетов Power BI для отображения данных Business Central](across-how-use-financials-data-source-powerbi.md)    
+[Создание отчетов Power BI для отображения данных Business Central](across-how-use-financials-data-source-powerbi.md)  
 [Документация Power BI](/power-bi/)  
 
 

@@ -10,14 +10,15 @@ ms.search.keywords: machinery, buildings
 ms.search.form: 5607
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 17e478464d49424d2eb929a297033605c91c25ba
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
+ms.openlocfilehash: 9ec826560a44908b0635bf7698040b1c0e088b04
+ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8516347"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "9076647"
 ---
 # <a name="setting-up-fixed-assets"></a>Настройка основных средств
+
 До начала работы с основными средствами необходимо определить несколько вещей.  
 
 * Способ страхования, ведения и амортизации основных средств.  
@@ -41,8 +42,10 @@ ms.locfileid: "8516347"
 | Изучите различные методы расчета амортизации основных средств. |[Методы амортизации](fa-depreciation-methods.md) |
 | Узнайте о том, как применять определенные пользователем методы амортизации. |[Настройка пользовательских методов амортизации](fa-how-setup-user-defined-depreciation-method.md) |
 
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/set-up-fixed-assets-management/)
 
 ## <a name="see-also"></a>См. также
+
 [Основные Средства](fa-manage.md)  
 [Финансы](finance.md)  
 [Подготовьтесь к ведению бизнеса](ui-get-ready-business.md)  

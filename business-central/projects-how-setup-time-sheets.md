@@ -10,12 +10,12 @@ ms.search.keywords: project management, capacity, staff, resource, time sheet
 ms.search.form: 977, 462, 76, 77
 ms.date: 12/13/2021
 ms.author: edupont
-ms.openlocfilehash: b9453285ce1bf18f3eeef3c3148f6dd00921c03f
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
+ms.openlocfilehash: a1c5314d8aba0b31d02491da1e588f7a23c83a38
+ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8510821"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "9078964"
 ---
 # <a name="set-up-time-sheets"></a>Настройка табелей учета рабочего времени
 
@@ -94,10 +94,12 @@ ms.locfileid: "8510821"
 > [!NOTE]  
 > Нельзя изменить код пользователя, утверждающего табели, если имеются табели, которые еще не были обработаны и имеют статус **Отправлено** или **Открыто**.
 
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/set-up-jobs-resources/)
+
 ## <a name="see-also"></a>См. также
 
 [Использование табелей учета рабочего времени для проектов](projects-how-use-time-sheets.md)  
-[Создание табелей учета рабочего времени](projects-how-use-time-sheets.md#to-create-time-sheets)  
+[Порядок создания табелей учета рабочего времени](projects-how-use-time-sheets.md#to-create-time-sheets)  
 [Учет потребления или использования для проектов](projects-how-record-job-usage.md)  
 [Настройка управления проектами](projects-setup-projects.md)  
 [Управление проектами](projects-manage-projects.md)  

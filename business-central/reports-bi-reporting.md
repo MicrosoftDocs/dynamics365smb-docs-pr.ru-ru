@@ -10,12 +10,12 @@ ms.search.keywords: feature overview
 ms.reviewer: edupont
 ms.date: 02/03/2022
 ms.author: kepontop
-ms.openlocfilehash: a51175dc5dd124b58ef92e87ab6874f04e4bea41
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 4b7a806b3e12298fe493b943cf57446c824a5c34
+ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8144883"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "9076959"
 ---
 # <a name="business-intelligence-and-reporting-overview"></a>Обзор бизнес-аналитики и отчетности
 
@@ -30,14 +30,16 @@ ms.locfileid: "8144883"
 | Узнайте, как интегрировать внешние инструменты бизнес-аналитики с [!INCLUDE[prod_short](includes/prod_short.md)].| [Инструменты внешней бизнес-аналитики](reports-external-analysis.md) |
 |Узнайте, как изменить макеты отчетов или даже разработать собственные отчеты с нуля. |[Разработка отчетов](reports-develop-reports.md)|
 
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/setup-reporting-dynamics-365-business-central/)
+
 ## <a name="see-also"></a>См. также
 
-[Используйте отчеты в повседневной работе](reports-use-reports.md)
-[Обзор отчета](reports-available-reports.md)
-[Специальный анализ данных](reports-adhoc-analysis.md)
-[Встроенная аналитика](reports-built-in-analytics.md)
-[Инструменты внешней бизнес-аналитики](reports-external-analysis.md)
-[Разработка отчетов](reports-develop-reports.md)
+[Используйте отчеты в повседневной работе](reports-use-reports.md)  
+[Обзор отчета](reports-available-reports.md)  
+[Специальный анализ данных](reports-adhoc-analysis.md)  
+[Встроенная аналитика](reports-built-in-analytics.md)  
+[Инструменты внешней бизнес-аналитики](reports-external-analysis.md)  
+[Разработка отчетов](reports-develop-reports.md)  
 
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

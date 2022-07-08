@@ -9,12 +9,12 @@ ms.search.keywords: workflow, OData, Power App, SOAP, Entity set not found, work
 ms.date: 05/12/2022
 ms.author: edupont
 author: jswymer
-ms.openlocfilehash: 93eb177ff9ba102277a50f9686ea941df33d5563
-ms.sourcegitcommit: 13ac10624bee47c73989b2b20942a01c849b4a6a
+ms.openlocfilehash: f1128a9fb4e9643286e4305695e1d40719d86301
+ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/12/2022
-ms.locfileid: "8744114"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "9079328"
 ---
 # <a name="use-prod_short-in-power-automate-flows"></a>Использование [!INCLUDE[prod_short](includes/prod_short.md)] в рабочих процессах Power Automate
 
@@ -50,6 +50,8 @@ ms.locfileid: "8744114"
 ## <a name="manage-workflows"></a>Управление рабочими процессами
 
 Вы посмотреть все рабочие процессы, к которым у вас есть доступ, выбрав действие **Управление рабочими процессами** в меню **Power Automate**. Список процессов откроется в новой вкладке браузера, и вы автоматически войдете в Power Automate. Там можно увидеть, когда каждый рабочий процесс запускался в последний раз.  
+
+## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/use-power-automate/)
 
 ## <a name="see-also"></a>См. также
 

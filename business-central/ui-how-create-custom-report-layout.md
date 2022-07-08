@@ -10,12 +10,12 @@ ms.search.keywords: customized report, document layout, logo, personalize
 ms.search.form: 9650, 9652
 ms.date: 03/06/2022
 ms.author: edupont
-ms.openlocfilehash: 5e25685241e85a1a90ac23c7eb47f9808f3239b9
-ms.sourcegitcommit: 7b6d70798b4da283d1d3e38a05151df2209c2b72
+ms.openlocfilehash: 81073838cc6bfd1858a3b3d18cd554b62080704a
+ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/12/2022
-ms.locfileid: "8950386"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "9075347"
 ---
 # <a name="legacy-create-and-modify-custom-report-layouts"></a>(Устарело) Создание и изменение пользовательских макетов отчетов
 
@@ -126,7 +126,7 @@ Adding data fields from a report dataset is a more advanced and requires some kn
 [Смена текущего макета отчета](ui-how-change-layout-currently-used-report.md)  
 [Импорт и экспорт пользовательского макета отчета или документа](ui-how-import-and-export-report-layout.md)  
 [Работа с отчетами, пакетными заданиями и XMLport](ui-work-report.md)  
-[Подготовка финансовой отчетности с помощью финансовых отчетов и категорий счетов](bi-how-work-account-schedule.md) 
+[Подготовка финансовой отчетности с помощью финансовых отчетов и категорий счетов](bi-how-work-account-schedule.md)  
 [Бизнес-аналитика](bi.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 

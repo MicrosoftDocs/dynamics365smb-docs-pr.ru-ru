@@ -10,12 +10,12 @@ ms.search.keywords: customized report, document layout, logo, personalize
 ms.search.form: 9650, 9652
 ms.date: 03/14/2022
 ms.author: jswymer
-ms.openlocfilehash: 609678742ccf9593407e96ea412a377f37c8abf9
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
+ms.openlocfilehash: c0800642804b8e8c9e1dc629224bfac77b174500
+ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8525227"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "9075737"
 ---
 # <a name="working-with-excel-layouts"></a>Работа с макетами Excel
 
@@ -143,10 +143,10 @@ ms.locfileid: "8525227"
 [Смена текущего макета отчета](ui-how-change-layout-currently-used-report.md)  
 [Импорт и экспорт пользовательского макета отчета или документа](ui-how-import-and-export-report-layout.md)  
 [Работа с отчетами, пакетными заданиями и XMLport](ui-work-report.md)  
-[Подготовка финансовой отчетности с помощью финансовых отчетов и категорий счетов](bi-how-work-account-schedule.md) 
+[Подготовка финансовой отчетности с помощью финансовых отчетов и категорий счетов](bi-how-work-account-schedule.md)  
 [Бизнес-аналитика](bi.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
-[Анализ данных отчета с помощью Excel](report-analyze-excel.md).
+[Анализ данных отчета с помощью Excel](report-analyze-excel.md)  
 
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]
