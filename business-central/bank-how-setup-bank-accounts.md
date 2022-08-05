@@ -10,12 +10,12 @@ ms.search.keywords: Yodlee, feed, stream
 ms.search.form: 370, 371, 372, 373, 375, 423, 424, 425, 426, 1240, 1280
 ms.date: 01/24/2022
 ms.author: edupont
-ms.openlocfilehash: af48197d84407fc16e103991852f98fa0338bf9e
-ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
+ms.openlocfilehash: 0feba901ac569c0cbd714f8ea3d3c271c82425bd
+ms.sourcegitcommit: 5560a49ca4ce85fa12e50ed9e14de6d5cba5f5c3
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "9078782"
+ms.lasthandoff: 07/13/2022
+ms.locfileid: "9144144"
 ---
 # <a name="set-up-bank-accounts"></a>Настройка банковских счетов
 
@@ -88,7 +88,7 @@ ms.locfileid: "9078782"
 
 ## <a name="to-set-up-bank-accounts"></a>Настройка банковских счетов
 
-1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Банковские счета**, а затем выберите связанную ссылку.
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать 1.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Банковские счета**, а затем выберите связанную ссылку.
 2. На странице **Банковские счета** выберите действие **Создать**.
 3. Заполните соответствующим образом поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 
@@ -169,7 +169,7 @@ The following table explains key fields.
 
 Поля на экспресс-вкладке **Перемещение** на странице **Карточка банковского счета** связаны с импортом и экспортом банковских файлов и выписок. Для получения дополнительной информации см. разделы [Использование расширения AMC Banking 365 Fundamentals](ui-extensions-amc-banking.md) и [Настройка службы Envestnet Yodlee Bank Feeds](bank-how-setup-bank-statement-service.md).
 
-1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Банковские счета**, а затем выберите связанную ссылку.
+1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать 2.](media/ui-search/search_small.png "Что вы хотите сделать") и введите **Банковские счета**, а затем выберите связанную ссылку.
 2. Откройте карточку банковского счета, в которую будут импортироваться или экспортироваться банковские файлы.
 3. На экспресс-вкладке **Перемещение** заполните необходимые поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 
@@ -222,14 +222,7 @@ The following table explains key fields.
 
 Поля на экспресс-вкладке **Перемещение** на странице **Карточка банк. счета поставщика** связаны с экспортом банковских файлов и выписок. Для получения дополнительной информации см. разделы [Использование расширения AMC Banking 365 Fundamentals](ui-extensions-amc-banking.md) и [Экспорт платежей в банковский файл](finance-make-payments-with-bank-data-conversion-service-or-sepa-credit-transfer.md#exporting-payments-to-a-bank-file).
 
-1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Поставщики**, а затем выберите связанную ссылку.
-2. Откройте карточку поставщика, на банковских счет которого будут экспортироваться банковские файлы платежей.
-3. Выберите действие **Банковские счета**.
-4. Из **Список банковских счетов поставщика** выберите соответствующий банковский счет или добавьте новый банковский счет.  
-5. На странице **Карточка банк. счета поставщика** на экспресс-вкладке **Перемещение** заполните требуемые поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
-
-> [!WARNING]
-> Некоторые поля в банковском счете поставщика могут содержать конфиденциальные данные, например поля **Номер отделения банка**, **Номер банковского счета**, **Код SWIFT** и **Код IBAN**. Для получения дополнительной информации прочитайте [Мониторинг конфиденциальных полей](across-log-changes.md#monitoring-sensitive-fields).
+[!INCLUDE[purchase-vendor-bank-account](includes/purchase-vendor-bank-account.md)]
 
 ## <a name="changing-your-bank-account"></a>Изменение банковского счета
 
@@ -257,6 +250,5 @@ The following table explains key fields.
 [Выверка платежей](receivables-apply-payments-auto-reconcile-bank-accounts.md)  
 [Сведения о главной книге и плане счетов](finance-general-ledger.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
-
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

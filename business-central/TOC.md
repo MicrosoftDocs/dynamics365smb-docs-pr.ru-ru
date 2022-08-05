@@ -440,7 +440,7 @@
 ### [Продажа продуктов](sales-how-sell-products.md)
 ### [Печать сборочного листа](sales-how-print-picking-list.md)
 ### [Разнести продажи](ui-post-sales.md)
-### [Создание типовых строк продажи и покупки](sales-how-work-standard-lines.md)
+### [Создание типовых строк продажи](sales-how-work-standard-lines.md)
 ### [Выполнение прямых поставок](sales-how-drop-shipment.md)
 ### [Создание специальных заказов](sales-how-to-create-special-orders.md)
 ### [Обработка возвратов продажи или отмен](sales-how-process-sales-returns-cancellations.md)
@@ -472,9 +472,9 @@
 ### [Работа с общими заказами на покупку](sales-how-to-create-blanket-sales-orders.md)
 ### [Номера внешних документов в документах покупки](purchasing-ext-doc-no.md)
 ### [Ввод номеров внешних документов](across-enter-external-document-numbers.md)
+### [Создание типовых строк покупок](purchasing-how-work-recurring-purchase-lines.md)
 
-
-## Запасы
+## Складируемый
 ### [Обзор запасов](inventory-manage-inventory.md)
 ### [Отчеты о запасах и складах](inventory-WMS-reports.md)
 ### [Регистрация новых товаров](inventory-how-register-new-items.md)
@@ -1472,6 +1472,7 @@
 #### [Настройка продаж](sales-setup-sales.md)
 #### [Регистрация новых клиентов](sales-how-register-new-customers.md)
 #### [Включение платежей клиентов через службу платежей](sales-how-enable-payment-service-extensions.md)
+#### [Настройка цен и скидок](across-prices-and-discounts.md)
 #### [Регистрация специальных цен продажи и скидок](sales-how-record-sales-price-discount-payment-agreements.md)
 #### [Настройка ценовых групп клиента](sales-how-to-set-up-customer-price-groups.md)
 #### [Настройка групп скидок клиента](sales-how-to-set-up-customer-discount-groups.md)
@@ -1483,9 +1484,11 @@
 ### Настройка покупок
 #### [Настройка покупок](purchasing-setup-purchasing.md)
 #### [Регистрация новых поставщиков](purchasing-how-register-new-vendors.md)
-#### [Регистрация специальных цен покупки и скидок](purchasing-how-record-purchase-price-discount-payment-agreements.md)
+#### [Настройка банковских счетов поставщика](purchasing-how-set-up-vendors-bank-accounts.md)
 #### [Назначение приоритетов поставщикам](purchasing-how-prioritize-vendors.md)
 #### [Настройка менеджеров по закупкам](purchasing-how-setup-purchasers.md)
+#### [Настройка цен и скидок](across-prices-and-discounts.md)
+#### [Регистрация специальных цен покупки и скидок](purchasing-how-record-purchase-price-discount-payment-agreements.md)
 ### Настройка запасов
 #### [Настройка запасов](inventory-setup-inventory.md)
 #### [Настройка общей информации по запасам](inventory-how-setup-general.md)
@@ -1772,6 +1775,7 @@
 ### [Управление пользовательскими параметрами и настройками](admin-manage-user-settings-preferences.md)
 ### [Настройка принтеров](ui-specify-printer-selection-reports.md)
 ### [Классификация конфиденциальности данных](admin-classifying-data-sensitivity.md)
+### [Статус уведомлений о конфиденциальности](privacy-notices-status.md)
 ### [Ответ на запросы о личных данных](admin-responding-to-requests-about-personal-data.md)
 ### [Создание новых компаний](about-new-company.md)
 ### [Журнал изменений](across-log-changes.md)
