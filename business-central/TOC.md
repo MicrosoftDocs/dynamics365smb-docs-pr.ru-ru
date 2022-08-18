@@ -1308,6 +1308,7 @@
 ##### [Отчет 349](LocalFunctionality/Spain/report-349.md)  
 ##### [Создание отчета 349](LocalFunctionality/Spain/how-to-create-report-349.md)  
 ##### [Настройка отчетов 340 для малого бизнеса](LocalFunctionality/Spain/how-to-set-up-340-reports-for-small-businesses.md)
+##### [Настройка SII для отчетности по НДС](LocalFunctionality/Spain/sii-setup.md)
 ##### [Создание шаблонов для отчетов НДС через Интернет в формате текстового файла](LocalFunctionality/Spain/how-to-create-templates-for-telematic-vat-statements-in-text-file-format.md)
 ##### [Создание шаблонов для отчетов НДС через Интернет в формате XML-файла](LocalFunctionality/Spain/how-to-create-templates-for-telematic-vat-statements-in-xml-file-format.md)
 ##### [Экспорт отчетов по НДС в формате XML](LocalFunctionality/Spain/how-to-export-vat-statements-in-xml-format.md)  
@@ -1328,7 +1329,6 @@
 ##### [Модуль расчетов с клиентами Cartera](LocalFunctionality/Spain/receivables-cartera-module.md)
 ##### [Модуль платежей Cartera](LocalFunctionality/Spain/payments-cartera-module.md)
 ##### [SII — типы счетов и кредит-нот в документах по продаже и покупке](LocalFunctionality/Spain/SII-invoice-types-sales-purchase-documents.md)
-##### [Настройка SII для отчетности по НДС](LocalFunctionality/Spain/sii-setup.md)
 #### Основные финансы
 ##### [Настройка и закрытие сальдо отчета о прибыли и убытках](LocalFunctionality/Spain/how-to-set-up-and-close-income-statement-balances.md)
 ##### [Создание отступа и проверка плана счетов](LocalFunctionality/Spain/how-to-indent-and-validate-chart-of-accounts.md)
