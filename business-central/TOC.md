@@ -665,6 +665,7 @@
 ### [Синхронизация элементов в Shopify](shopify/synchronize-items.md)
 ### [Синхронизация клиентов в Shopify](shopify/synchronize-customers.md)
 ### [Синхронизация и выполнение заказов на продажу в Shopify](shopify/synchronize-orders.md)
+### [Настройка налогов для подключения Shopify](shopify/setup-taxes.md)
 ### [Запуск заданий в фоновом режиме](shopify/background.md)
 ### [Устранение неполадок с соединителем Shopify](shopify/troubleshoot.md)
 ### [Часто задаваемые вопросы по соединителю Shopify](shopify/shopify-faq.md)

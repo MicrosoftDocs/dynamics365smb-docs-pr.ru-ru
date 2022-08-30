@@ -7,18 +7,20 @@ ms.search.keywords: environments, companies, tenants, organization
 ms.search.form: 9020, 9022, 9026, 9027, 9030, 9000, 9009, 9004, 9005, 9024, 9006, 9007, 9010, 9016, 9017
 ms.date: 10/04/2021
 ms.author: bholtorf
-ms.openlocfilehash: 7a874890fe88b32668b309edb43563f8d11e7555
-ms.sourcegitcommit: f9143302b8271f5924a027cacdf29dc37c95f4c6
+ms.openlocfilehash: 0f8c8bf1f9f9c56f1790bf8fd6727eab6977ad3c
+ms.sourcegitcommit: b353f06e0c91aa6e725d59600f90329774847ece
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "8655388"
+ms.lasthandoff: 08/19/2022
+ms.locfileid: "9317359"
 ---
 # <a name="switching-to-another-company-or-environment"></a>Переключение на другую компанию или среду
 
 [!INCLUDE [prod_short](includes/prod_short.md)] доступно во многих странах и поддерживает различные типы организаций. Ваша организация может настроить [!INCLUDE [prod_short](includes/prod_short.md)], поэтому вы должны понимать термины *компания* и *среда*.  
 
-[!INCLUDE [company_environment](includes/company_environment.md)] Дополнительные сведения см. в разделе [Создание новой организации в [!INCLUDE[prod_short](includes/prod_short.md)]](about-new-company.md).  
+[!INCLUDE [company_environment](includes/company_environment.md)]
+
+Дополнительную информацию см. в разделе [Создание новой организации в [!INCLUDE[prod_short](includes/prod_short.md)]](about-new-company.md).  
 
 > [!TIP]
 > Если вы часто переключаетесь между организациями или работаете с [!INCLUDE[prod_short](includes/prod_short.md)] из другого приложения, например Microsoft Teams, можно легко потерять из виду, где вы находитесь. Чтобы помочь вам отслеживать, вы можете добавить эмблему, которая будет отображать название организации, чтобы вы могли быстро проверить, что вы находитесь в нужном месте. Дополнительные сведения см. в [Отображение эмблемы организации для быстрого доступа к информации об организации](ui-change-basic-settings.md#badge).
@@ -32,8 +34,11 @@ ms.locfileid: "8655388"
 Когда вы вошли в [!INCLUDE[prod_short](includes/prod_short.md)], доступные вам среды доступны на начальной странице Office.com.  
 
 1. Выберите значок **Средство запуска приложений** ![Средство запуска приложений](media/app-launcher-icon.png "Средство запуска приложений обеспечивает доступ к дополнительным функциям").
-2. Если вы не видите приложение для [!INCLUDE[prod_short](includes/prod_short.md)] в открывшейся области, выберите **Office 365**. Затем введите **Business Central** в поле **Поиск** или выберите **Все приложения** > **Business Central**.  
-3. Будет указано одно приложение [!INCLUDE[prod_short](includes/prod_short.md)] для каждого типа среды, например производственной среды и песочницы. Чтобы переключиться в другую среду, выберите приложение [!INCLUDE[prod_short](includes/prod_short.md)] с учетом типа среды. Если есть несколько сред определенного типа, при выборе среды для доступа появится запрос.
+2. В открывшейся панели найдите и выберите [!INCLUDE[prod_short](includes/prod_short.md)]. Если вы не видите [!INCLUDE[prod_short](includes/prod_short.md)], выберите **Все приложения**, затем введите **Business Central** в поле **Поиск**.
+
+   :::image type="content" source="media/app-launcher-bc-tile.png" alt-text="Панель запуска приложений Microsoft 365, на которой отображается плитка Business Central.":::  
+
+3. Если есть несколько сред, будет предложено выбрать среду для доступа.
 
 <!--
 The following image shows tiles for accessing production and sandbox environments on the Dynamics 365 Home page.

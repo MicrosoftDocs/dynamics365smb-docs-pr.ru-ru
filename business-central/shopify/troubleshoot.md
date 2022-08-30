@@ -1,18 +1,18 @@
 ---
 title: Устранение неполадок Shopify и синхронизация с Business Central
 description: Узнайте, что делать, если что-то пойдет не так во время синхронизации данных между Shopify и Business Central
-ms.date: 05/16/2022
+ms.date: 08/19/2022
 ms.topic: article
 ms.service: dynamics365-business-central
 author: edupont04
 ms.author: andreipa
 ms.reviewer: solsen
-ms.openlocfilehash: bebdf73fd1b01a3c750a3d91496a8f5bb87f8db4
-ms.sourcegitcommit: f1e272485a0e675d337a694aba3e35a5daf43920
+ms.openlocfilehash: 4ccbe8ac97eba568ff82d965f24b86ab58c95f81
+ms.sourcegitcommit: b353f06e0c91aa6e725d59600f90329774847ece
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/09/2022
-ms.locfileid: "9129645"
+ms.lasthandoff: 08/19/2022
+ms.locfileid: "9317250"
 ---
 # <a name="troubleshooting-the-shopify-and-business-central-synchronization"></a>Устранение неполадок Shopify и синхронизация с Business Central
 
@@ -86,6 +86,16 @@ ms.locfileid: "9129645"
 2. Выберите магазин, для токена доступа которого вы хотите выполнить ротацию, чтобы открыть страницу **Карточка магазина Shopify**.
 3. Выберите действие **Запрос доступа**.
 4. При появлении запроса войдите в свою учетную запись Shopify, проверьте конфиденциальность и разрешения, а затем нажмите кнопку **Установить приложение**.
+
+## <a name="known-issues"></a>Известные проблемы
+
+### <a name="gen-bus-posting-group-must-have-a-value-in-customer-it-cannot-be-zero-or-empty"></a>Строка финансового Учетная бизнес-группа должна иметь значение в клиенте. Это значение не может быть нулевым или пустым.
+
+Заполните поле **Код шаблона клиента** в окне **Карточка магазина Shopify** с шаблоном, который имеет заполненное значение **Общая бизнес-группа**. Шаблон клиента используется не только для создания клиентов, но и для расчета цены продажи и при создании документов продажи.
+
+### <a name="importing-data-to-your-shopify-shop-isnt-enabled-go-to-the-shop-card-to-enable-it"></a>Импорт данных в ваш магазин Shopify не включен. Перейдите в карточку магазина, чтобы включить его.
+
+В окне **Карточка магазина Shopify** включите выключатель **Разрешить синхронизацию данных в Shopify**.  Этот переключатель предназначен для защиты интернет-магазина от получения демо-данных от [!INCLUDE[prod_short](../includes/prod_short.md)].
 
 ## <a name="see-also"></a>См. также
 
