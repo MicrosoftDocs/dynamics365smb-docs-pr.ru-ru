@@ -296,6 +296,7 @@
 #### [Блокировка клиентов](receivables-how-block-customers.md)
 #### [Работа с отклонениями в оплате и отклонениями скидки по оплате](finance-payment-tolerance-and-payment-discount-tolerance.md)
 #### [Расширение прогноза просрочки платежа](ui-extensions-late-payment-prediction.md)
+#### [Налог с продаж в версии Business Central по умолчанию](sales-tax-concept.md)
 
 ### Управление кредиторской задолженностью
 #### [Обзор кредиторской задолженности](payables-manage-payables.md)

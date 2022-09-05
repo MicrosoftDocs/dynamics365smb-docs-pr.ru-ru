@@ -7,16 +7,18 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: C5, financials, extension
+ms.search.form: 20600,
 ms.date: 04/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: 1ddb4468bda648b0368551ecb8cdbc6167cf4778
-ms.sourcegitcommit: 5a02f8527faecdffcc54f9c5c70cefe8c4b3b3f4
+ms.openlocfilehash: 4304a42f865086de3337deb3a49b1f1512e0e201
+ms.sourcegitcommit: 38b1272947f64a473de910fe81ad97db5213e6c3
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/04/2022
-ms.locfileid: "8381676"
+ms.lasthandoff: 08/29/2022
+ms.locfileid: "9362226"
 ---
 # <a name="the-basic-experience-extension"></a>Расширение базового взаимодействия
+
 Если вы использовали Microsoft Dynamics C5, партнеры Майкрософт могут помочь вам перейти на более современное решение, основанное на [!INCLUDE[prod_short](includes/prod_short.md)], так что вы можете продолжать пользоваться теми же усовершенствованными возможностями, что и Dynamics C5.
 
 Это расширение предназначено для малого бизнеса и может поддерживать до трех пользователей. Если вам нужно больше пользователей, вы должны перейти на лицензию [!INCLUDE[prod_short](includes/prod_short.md)] и удалить это расширение.
@@ -25,6 +27,7 @@ ms.locfileid: "8381676"
 > На данный момент это расширение доступно только для клиентов в Дании и Исландии. 
 
 ## <a name="whats-available"></a>Что доступно
+
 В следующей таблице описаны возможности, которые доступны при установке расширения базового взаимодействия.
 
 |Регион  |Функциональность  |
@@ -36,6 +39,7 @@ ms.locfileid: "8381676"
 |**Наличие** |Базовые запасы, замена товаров, перекрестная ссылка на товары |
 
 ## <a name="getting-started"></a>Приступая к работе
+
 Это расширение немного отличается от большинства, и вам потребуется помощь партнера Microsoft для его установки и настройки. Чтобы вы знали, чего ожидать, вот общее представление о том, что будет делать партнер Microsoft.
 
 1. Создание нового клиента [!INCLUDE[prod_short](includes/prod_short.md)]. Это может быть пробная версия или версия CSP.
@@ -46,9 +50,11 @@ ms.locfileid: "8381676"
 6. Загрузите и установите расширение базового взаимодействия из AppSource.
 
 ## <a name="migrating-data"></a>Миграция данных
+
 Возьмите с собой данные Dynamics C5. После того, как ваш партнер Microsoft установит расширение базового взаимодействия, у вас будет пустая компания. Простой способ перенести данные из Dynamics C5 в базовое взаимодействие — использовать расширение C5 Data Migration, которое включено в [!INCLUDE[prod_short](includes/prod_short.md)]. Расширение переносит клиентов, поставщиков, товары, а также ваши счета главной книги и их записи.
 
 ## <a name="see-also"></a>См. также
-[Расширение миграции данных C5](ui-extensions-c5-data-migration.md)
+
+[Расширение миграции данных C5](ui-extensions-c5-data-migration.md)  
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]
