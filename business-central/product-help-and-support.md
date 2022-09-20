@@ -7,12 +7,12 @@ ms.topic: conceptual
 ms.search.form: HelpAndSupport
 ms.author: edupont
 ms.date: 03/21/2022
-ms.openlocfilehash: d97911cd7c3556e8ee447102e22b3764548b6f13
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
+ms.openlocfilehash: 33cd44d4aab7f22dd8ea2cbad7fd21a4955142a0
+ms.sourcegitcommit: 8b95e1700a9d1e5be16cbfe94fdf7b660f1cd5d7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8516930"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "9460626"
 ---
 # <a name="resources-for-help-and-support"></a>Ресурсы для справки и поддержки
 
@@ -138,7 +138,7 @@ ms.locfileid: "8516930"
 Для получения дополнительной информации см. [Передача проблем с поддержкой в корпорацию Майкрософт](/dynamics365/business-central/dev-itpro/administration/manage-technical-support#escalating-support-issues-to-microsoft) в материалах для администраторов.  
 
 > [!NOTE]
-> В [!INCLUDE[prod_short](includes/prod_short.md)] Online раздел **Сообщить о проблеме** доступен только в том случае, если вы оплатили подписку [!INCLUDE[prod_short](includes/prod_short.md)]. Если в подписались на пробную версию и пока еще не приобрели [!INCLUDE[prod_short](includes/prod_short.md)], у вас нет продавца-партнера, и вы не можете связаться с группой поддержки компании Майкрософт. Вы можете найти партнера [!INCLUDE[prod_short](includes/prod_short.md)] на странице [Я ищу поставщика решений](https://go.microsoft.com/fwlink/?linkid=2038145). Для получения дополнительной информации см. раздел [Как найти партнера по перепродаже?](/dynamics365/business-central/across-faq#findpartner).  
+> В [!INCLUDE[prod_short](includes/prod_short.md)] Online раздел **Сообщить о проблеме** доступен только в том случае, если вы оплатили подписку [!INCLUDE[prod_short](includes/prod_short.md)]. Если в подписались на пробную версию и пока еще не приобрели [!INCLUDE[prod_short](includes/prod_short.md)], у вас нет продавца-партнера, и вы не можете связаться с группой поддержки компании Майкрософт. Вы можете найти партнера [!INCLUDE[prod_short](includes/prod_short.md)] на странице [Я ищу поставщика решений](https://go.microsoft.com/fwlink/?linkid=2038145). Для получения дополнительной информации см. раздел [Как найти партнера по перепродаже?](/dynamics365/business-central/across-faq#how-do-i-find-a-reselling-partner).  
 >
 > В локальной версии [!INCLUDE[prod_short](includes/prod_short.md)] этот раздел доступен только в волне 2 выпуска 2020 года (версия 18) и новее.
 
@@ -232,7 +232,7 @@ docs.microsoft.com содержит содержимое для других п�
 
 [Учебный каталог Business Central](readiness/readiness-learning-catalog.md)  
 [Краткое руководство по Business Central](quick-start-business-central.md)  
-[Как найти партнера по перепродаже?](/dynamics365/business-central/across-faq#findpartner)  
+[Как найти партнера по перепродаже?](/dynamics365/business-central/across-faq#how-do-i-find-a-reselling-partner)  
 [Справочная система (доступна только на английском языке)](/dynamics365/business-central/dev-itpro/user-assistance?toc=/dynamics365/business-central/toc.json)  
 [Запись блога: поиск правильных ресурсов и предоставление отзывов](https://community.dynamics.com/business/b/financials/posts/find-the-right-resources-and-provide-feedback)  
 [Документы для разработчиков и по администрированию Business Central](/dynamics365/business-central/dev-itpro/)  

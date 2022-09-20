@@ -9,18 +9,18 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: f1c1ba7640c03314c53bceee13711c66f03a3c09
-ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
+ms.openlocfilehash: 17491ce9bdc611bbdc7d06755edebe12a5f5df31
+ms.sourcegitcommit: 8b95e1700a9d1e5be16cbfe94fdf7b660f1cd5d7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "9079302"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "9460675"
 ---
 # <a name="need-more-time-to-decide-whether-to-subscribe"></a>Нужно больше времени на принятие решения о подписке?
 
 Важно принять правильное решение при выборе бизнес-приложения, и мы знаем, что может потребоваться определенное время на изучение всех аспектов [!INCLUDE[prod_short](includes/prod_short.md)]. Если необходимо больше времени для проведения оценки, вы можете самостоятельно продлить пробный период еще на 30 дней. Если срок действия пробной версии подходит к концу, при входе в систему отображается уведомление с предупреждением. Уведомление содержит ссылку на руководство **Продление пробного периода**, которое можно использовать для продления пробного периода. Дополнительные 30 дней начинаются с момента выбора пункта **Продлить пробный период** в руководстве.
 
-Однако самостоятельно продлить пробный период можно только один раз. Дважды продлить срок невозможно, по крайней мере самостоятельно. Если вы уже продлевали период, партнер Microsoft может продлить его для вас еще раз. Это также можно сделать только один раз. Если вы еще не работаете с партнером, см. раздел [Как найти партнера по перепродаже?](/dynamics365/business-central/across-faq#findpartner).  
+Однако самостоятельно продлить пробный период можно только один раз. Дважды продлить срок невозможно, по крайней мере самостоятельно. Если вы уже продлевали период, партнер Microsoft может продлить его для вас еще раз. Это также можно сделать только один раз. Если вы еще не работаете с партнером, см. раздел [Как найти партнера по перепродаже?](/dynamics365/business-central/across-faq#how-do-i-find-a-reselling-partner).  
 
 ## <a name="to-extend-your-trial-period"></a>Продление пробного периода
 
@@ -56,7 +56,7 @@ ms.locfileid: "9079302"
 
 [Пробные версии и подписки (только на английском языке)](/dynamics365/business-central/dev-itpro/administration/trials-subscriptions?toc=/dynamics365/business-central/toc.json)  
 [Создание новых организаций](about-new-company.md)  
-[Как найти партнера по перепродаже?](/dynamics365/business-central/across-faq#findpartner)  
+[Как найти партнера по перепродаже?](/dynamics365/business-central/across-faq#how-do-i-find-a-reselling-partner)  
 [Продление пробных версий (в качестве администратора)](/dynamics365/business-central/dev-itpro/administration/tenant-administration#extending-trials)  
 [Начало работы в качестве торгового посредника по Business Central Online](/dynamics365/business-central/dev-itpro/administration/get-started-online)  
 

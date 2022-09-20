@@ -1,4 +1,4 @@
-# [Добро пожаловать в Business Central](index.md)
+# [Добро пожаловать в Business Central](index.md)  
 # [Новые и планируемые функции](product-news.md)
 # Начало работы
 ## [Обзор бизнес-функций](across-business-functionality.md)
@@ -225,6 +225,7 @@
 ### [Работа с финансовыми журналами](ui-work-general-journals.md)
 ### [Использование очередей работ для планирования задач](admin-job-queues-schedule-tasks.md)
 ### [Разрешение Business Central предлагать значения](ui-let-system-suggest-values.md)
+### [Использование онлайн-карт для поиска местоположений и составления маршрутов](across-online-maps.md)
 
 ### Входящие документы
 #### [Обзор входящих документов](across-income-documents.md)
@@ -442,6 +443,7 @@
 ### [Печать сборочного листа](sales-how-print-picking-list.md)
 ### [Разнести продажи](ui-post-sales.md)
 ### [Создание типовых строк продажи](sales-how-work-standard-lines.md)
+### [Обработка частичных поставок со сведениями по доставке](sales-how-send-partial-shipments.md)
 ### [Выполнение прямых поставок](sales-how-drop-shipment.md)
 ### [Создание специальных заказов](sales-how-to-create-special-orders.md)
 ### [Обработка возвратов продажи или отмен](sales-how-process-sales-returns-cancellations.md)
@@ -1635,6 +1637,7 @@
 ### [Создание серий номеров](ui-create-number-series.md)
 ### [Настройка базовых календарей](across-how-to-assign-base-calendars.md)
 ### [Настройка принтеров](ui-specify-printer-selection-reports.md)
+### [Настройка онлайн-карт](across-online-maps-setup.md)
 ### [Получение Business Central на мобильном устройстве](install-mobile-app.md)
 ### [Получение Business Central на настольном компьютере](install-desktop-app.md)
 <!--Reporting landing page-->
@@ -1838,6 +1841,7 @@
 ### [Ручная синхронизация сопоставлений таблиц](admin-manual-synchronization-of-table-mappings.md)
 ### [Синхронизация по расписанию](admin-scheduled-synchronization-using-the-synchronization-job-queue-entries.md)
 ### [Устранение ошибок синхронизации](admin-troubleshoot-sales-synchronization.md)
+### [Использование потока Power Automate для оповещений об изменениях сущностей Dataverse](admin-power-automate-flow-dataverse.md)
 ## Сведения о проектировании
 ### [Обзор сведений о структуре приложения](design-details-application-design.md)
 ### Сведения о проектировании: планирование поставок

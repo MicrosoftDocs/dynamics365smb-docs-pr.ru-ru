@@ -1,5 +1,5 @@
 ---
-title: Использование приложений Business Central в Power BI | Документация Майкрософт
+title: Использование приложений Business Central в Power BI
 description: Анализ данных, бизнес-аналитика и КПЭ на основе данных Business Central становятся проще благодаря приложениям Business Central для Power BI.
 author: jswymer
 ms.topic: get-started-article
@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: account schedule, analysis, reporting, financial report, business intelligence, KPI
 ms.date: 04/01/2021
 ms.author: jswymer
-ms.openlocfilehash: cd29453c816eabd8e9475ac7e818c120bd589f3b
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
+ms.openlocfilehash: 7a6b6de60f6262906429127b0588ca62c9dcca1b
+ms.sourcegitcommit: 8b95e1700a9d1e5be16cbfe94fdf7b660f1cd5d7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8519189"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "9461080"
 ---
 # <a name="use-the-prod_short-apps-in-power-bi"></a>Использование приложений [!INCLUDE [prod_short](includes/prod_short.md)] в Power BI
 
@@ -158,19 +158,18 @@ ms.locfileid: "8519189"
 [Обзор компонентов и архитектуры интеграции Power BI для [!INCLUDE[prod_short](includes/prod_short.md)]](admin-powerbi-overview.md)  
 [Работа с данными [!INCLUDE [prod_short](includes/prod_short.md)] в Power BI](across-working-with-business-central-in-powerbi.md)  
 [Создание отчетов Power BI для отображения данных [!INCLUDE [prod_long](includes/prod_long.md)]](across-how-use-financials-data-source-powerbi.md)  
-[Power BI для потребителей](/power-bi/consumer/end-user-consumer)  
-["Новый внешний вид" службы Power BI](/power-bi/service-new-look)  
-[Быстрый старт: подключение к данным в Power BI Desktop](/power-bi/desktop-quickstart-connect-to-data)  
-[Документация Power BI](/power-bi/)  
 [Бизнес-аналитика](bi.md)  
-[Подготовьтесь к ведению бизнеса](ui-get-ready-business.md)  
+[Подготовка к ведению бизнеса](ui-get-ready-business.md)  
 [Импорт бизнес-данных из других финансовых систем](across-import-data-configuration-packages.md)  
 [Настройка [!INCLUDE[prod_short](includes/prod_short.md)]](setup.md)  
 [Использование [!INCLUDE[prod_short](includes/prod_short.md)] как источника данных Power BI](across-how-use-financials-data-source-powerbi.md)  
 [Использование [!INCLUDE[prod_short](includes/prod_short.md)] как источника данных Power Apps](across-how-use-financials-data-source-powerapps.md)  
 [Использование [!INCLUDE[prod_short](includes/prod_short.md)] в Power Automate](across-how-use-financials-data-source-flow.md)  
-
-
+[Документация Power BI](/power-bi/)  
+[Что такое Power BI?](/power-bi/fundamentals/power-bi-overview)  
+[Быстрый старт: подключение к данным в Power BI Desktop](/power-bi/desktop-quickstart-connect-to-data)  
+[Введение в витрины данных](/power-bi/transform-model/datamarts/datamarts-overview)  
+[Введение в потоки данных и самостоятельную подготовку данных](/power-bi/transform-model/dataflows/dataflows-introduction-self-service)  
 
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

@@ -6,12 +6,12 @@ ms.topic: get-started
 ms.custom: template-trial-setup
 ms.author: edupont
 ms.date: 05/25/2022
-ms.openlocfilehash: 71f1e81982b649a12604f4d5fa77db3ddec5d9bf
-ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
+ms.openlocfilehash: 7c57b608800bdd67d633698d984b34c3143418b3
+ms.sourcegitcommit: 8b95e1700a9d1e5be16cbfe94fdf7b660f1cd5d7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "9077506"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "9461026"
 ---
 # <a name="sign-up-for-a-free-dynamics-365-business-central-trial"></a>Зарегистрироваться для бесплатного пробного пользования Dynamics 365 Business Central
 
@@ -32,7 +32,7 @@ Business Central предлагает бесплатную пробную вер
 
 ## <a name="get-started-with-a-subscription"></a>Начало работы с подпиской
 
-При каждом выполнении входа во время пробного периода отображается уведомление вверху в синем поле с указанием оставшегося времени. Если вы решили оформить подписку, найдите партнера [!INCLUDE[prod_short](includes/prod_short.md)]. Для получения дополнительной информации см. раздел [Как найти партнера по перепродаже?](/dynamics365/business-central/across-faq#findpartner). Партнер может помочь вам настроить [!INCLUDE[prod_short](includes/prod_short.md)] в соответствии с особенностями вашего бизнеса, в том числе импортировать данные из вашей предыдущей системы. Вы также можете настроить [!INCLUDE[prod_short](includes/prod_short.md)], добавляя приложения из [коммерческой платформы Майкрософт](https://go.microsoft.com/fwlink/?linkid=2081646).  
+При каждом выполнении входа во время пробного периода отображается уведомление вверху в синем поле с указанием оставшегося времени. Если вы решили оформить подписку, найдите партнера [!INCLUDE[prod_short](includes/prod_short.md)]. Для получения дополнительной информации см. раздел [Как найти партнера по перепродаже?](/dynamics365/business-central/across-faq#how-do-i-find-a-reselling-partner). Партнер может помочь вам настроить [!INCLUDE[prod_short](includes/prod_short.md)] в соответствии с особенностями вашего бизнеса, в том числе импортировать данные из вашей предыдущей системы. Вы также можете настроить [!INCLUDE[prod_short](includes/prod_short.md)], добавляя приложения из [коммерческой платформы Майкрософт](https://go.microsoft.com/fwlink/?linkid=2081646).  
 
 Сетевая версия [!INCLUDE[prod_short](includes/prod_short.md)] использует Microsoft 365. Если ваша компания использует другой тип настройки электронной почты, партнер может помочь вам решить, как выполнить миграцию, или же рекомендовать вам использовать локальную версию [!INCLUDE[prod_short](includes/prod_short.md)].  
 
