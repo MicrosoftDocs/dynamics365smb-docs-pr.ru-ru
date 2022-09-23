@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: phone, tablet
 ms.date: 01/11/2022
 ms.author: jswymer
-ms.openlocfilehash: 3e04e348c55fa487f8a7776c0f197210c3cacb49
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
+ms.openlocfilehash: b188268feeb483a62ee82990ba3cf92b5afa1606
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8519756"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9528979"
 ---
 # <a name="get-business-central-desktop-app"></a>Получение приложения Business Central на настольном компьютере
 
@@ -72,7 +72,7 @@ ms.locfileid: "8519756"
 > [!IMPORTANT]
 > Если вы используете версию Business Central впуска 2021 волны 1 (версия 18) или более раннюю, вы не сможете установить приложение, как описано в этой статье. Вместо этого установите приложение из [Microsoft Store](https://go.microsoft.com/fwlink/?LinkId=734848). Дополнительные сведения и справку об установке этого устаревшего приложения см. в разделе [Подготовка и установка приложения Business Central](/dynamics365/business-central/dev-itpro/deployment/install-business-central-app).
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/alternative-interfaces-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/alternative-interfaces-dynamics-365-business-central/index)
 
 ## <a name="see-also"></a>См. также
 

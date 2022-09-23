@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: SMTP, mail, Microsoft 365, setup, wizard, experience
 ms.date: 05/25/2022
 ms.author: edupont
-ms.openlocfilehash: 26c988bcfce774dfa05b77c52347cfcf83106309
-ms.sourcegitcommit: 0bb9473a2563211bc0c02ebfd837bba1b2e9ad3f
+ms.openlocfilehash: 167ad75bceeec8e0e5bb998f8075f547a51b2157
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/25/2022
-ms.locfileid: "8805130"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9535804"
 ---
 # <a name="get-ready-for-doing-business"></a>Подготовка к ведению бизнеса
 
@@ -114,9 +114,9 @@ ms.locfileid: "8805130"
 [Назначение разрешений пользователям и группам](ui-define-granular-permissions.md)  
 [Поиск в области справки](product-help-and-support.md#search-in-the-help-pane)  
 [Ресурсы для справки и поддержки](product-help-and-support.md)  
-[Сайт Microsoft Learn](/learn/dynamics365/business-central?WT.mc_id=dyn365bc_landingpage-docs)  
+[Обучение Microsoft](/training/dynamics365/business-central?WT.mc_id=dyn365bc_landingpage-docs)  
 [Миграция данных](/dynamics365/business-central/dev-itpro/administration/migrate-data)  
-[Пробные версии и подписки](/dynamics365/business-central/dev-itpro/administration/trials-subscriptions.md)  
+[Пробные версии и подписки](/dynamics365/business-central/dev-itpro/administration/trials-subscriptions)  
 
 ## [!INCLUDE[prod_short](includes/free_trial_md.md)]  
 

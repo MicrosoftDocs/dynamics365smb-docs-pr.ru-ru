@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.form: 42, 50, 9305, 9307
 ms.date: 12/02/2021
 ms.author: edupont
-ms.openlocfilehash: 620a1af0deff6f9615b38706dd3f53f3db285008
-ms.sourcegitcommit: 38b1272947f64a473de910fe81ad97db5213e6c3
+ms.openlocfilehash: ffb2adb5a0ec43da14ee7fd9126c3293ea73ab22
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/29/2022
-ms.locfileid: "9362072"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9534917"
 ---
 # <a name="create-prepayment-invoices"></a>Создание счетов на предоплату
 
@@ -73,7 +73,7 @@ ms.locfileid: "9362072"
 
 Вы можете ускорить обработку заказов и счетов, настроив записи очереди заданий, которые автоматически обновляют статус этих документов. Когда счет на предоплату оплачен, записи очереди заданий могут автоматически изменить статус документа с **В ожидании предоплаты** на **Выпущен**. Когда вы настраиваете записи очереди заданий, вам нужно будет использовать модули codeunit **383 Обновить ожидающие продажи с предоплатой** и **383 Обновить ожидающие покупки с предоплатой**. Мы рекомендуем запланировать частый запуск записей, например, каждую минуту. Дополнительные сведения см. в разделе [Использование очередей работ для планирования задач](admin-job-queues-schedule-tasks.md).
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/prepayment-invoices-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/prepayment-invoices-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 

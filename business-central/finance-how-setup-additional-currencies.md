@@ -10,12 +10,12 @@ ms.search.keywords: multiple currencies, foreign exchange rates
 ms.search.form: 5, 16,118, 483, 495
 ms.date: 07/23/2021
 ms.author: edupont
-ms.openlocfilehash: 43933346f68fef474dc1f68c7eadbe295732bad8
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
+ms.openlocfilehash: 12441e9c34f443835dfaccc1a2a8ddedadd7d3c6
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8515041"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9532651"
 ---
 # <a name="set-up-an-additional-reporting-currency"></a>Настройка дополнительной отчетной валюты
 
@@ -130,7 +130,7 @@ ms.locfileid: "8515041"
 > [!NOTE]  
 > Поле **Доп. отчетная валюта** будет активировано только после нажатия кнопки **OK** в пакетном задании **Корректировать доп. отчетную валюту**.  
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/use-multiple-currencies-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/paths/use-multiple-currencies-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 

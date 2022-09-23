@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.form: 42, 42, 48, 50, 52, 9305, 9307
 ms.date: 12/03/2021
 ms.author: edupont
-ms.openlocfilehash: e1bc919488a1932338b71938cc4c6e2928cfc177
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
+ms.openlocfilehash: c39d5e0462c9fb4563e9f481256c916f0b9c397e
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8514021"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9535214"
 ---
 # <a name="invoicing-prepayments"></a>Выставление счетов на предоплату
 
@@ -35,7 +35,7 @@ ms.locfileid: "8514021"
 |Создание заказа, коррекция суммы предоплаты и выставление счета на сумму предоплаты.|[Создание счетов на предоплату](finance-how-to-create-prepayment-invoices.md)|  
 |Выставление дополнительного счета на предоплату для дополнительных товаров или дополнительного аванса по исходному заказу, или выдача кредит-ноты предоплаты.|[Корректировка предоплат](finance-how-to-correct-prepayments.md)|  
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/prepayment-invoices-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/prepayment-invoices-dynamics-365-business-central/index)
 
 ## <a name="see-also"></a>См. также
 

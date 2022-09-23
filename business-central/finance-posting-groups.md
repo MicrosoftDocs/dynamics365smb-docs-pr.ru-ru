@@ -10,12 +10,12 @@ ms.search.keywords: posting setup, initialize
 ms.search.form: 312, 313
 ms.date: 08/26/2022
 ms.author: bholtorf
-ms.openlocfilehash: e3cb6fd841dc4d6e0f9b00d2966ca00bab577b15
-ms.sourcegitcommit: 8b95e1700a9d1e5be16cbfe94fdf7b660f1cd5d7
+ms.openlocfilehash: 96505ae8097131b6c02aba65c9ab751b3e331224
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2022
-ms.locfileid: "9460783"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9535187"
 ---
 # <a name="set-up-posting-groups"></a>Настройка учетных групп
 
@@ -132,7 +132,7 @@ ms.locfileid: "9460783"
 > [!NOTE]
 > Описанная выше обработка ошибок недоступна для журналов товаров, ресурсов, сотрудников и основных средств, а также для счетов ГК, добавленных в локальные версии учетных групп.
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/posting-groups-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/posting-groups-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 

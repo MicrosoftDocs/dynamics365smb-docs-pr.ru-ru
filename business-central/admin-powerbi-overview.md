@@ -10,12 +10,12 @@ ms.search.keywords: account schedule, analysis, reporting, financial report, bus
 ms.reviewer: edupont
 ms.date: 04/01/2021
 ms.author: jswymer
-ms.openlocfilehash: 3469abf51165af7dcbdeb9c97e867829fe97ff22
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
+ms.openlocfilehash: 63aa8e6b23c2977e8e44c6f346f33c1c33fe3c2a
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8513152"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9533218"
 ---
 # <a name="power-bi-integration-component-and-architecture-overview-for-prod_short"></a>Обзор компонентов и архитектуры интеграции Power BI для [!INCLUDE[prod_short](includes/prod_short.md)]
 
@@ -65,7 +65,7 @@ ms.locfileid: "8513152"
 6. Пользователь создает отчет в Power BI Desktop.
 7. Пользователь публикует отчет в службе Power BI. Отчеты затем становятся доступными для выбора в [!INCLUDE[prod_short](includes/prod_short.md)].
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/configure-powerbi-excel-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/configure-powerbi-excel-dynamics-365-business-central/index)
 
 ## <a name="see-also"></a>См. также
 

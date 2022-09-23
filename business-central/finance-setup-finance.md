@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: accounting, auditing, bookkeeping
 ms.date: 01/21/2022
 ms.author: edupont
-ms.openlocfilehash: 6026f9ea7a0adeb66f6c543365cf7caeb91a7628
-ms.sourcegitcommit: f9143302b8271f5924a027cacdf29dc37c95f4c6
+ms.openlocfilehash: 87d5ede3d1cbd94178a614cd7929da9c8e43600a
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "8654946"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9532192"
 ---
 # <a name="setting-up-finance"></a>Настройка финансов
 Прежде чем вы сможете начать свой бизнес, вы должны указать правила и настройки по умолчанию для управления финансовыми процессами в этой компании. Начните с настройки основы учетных записей организации — плана счетов. Затем настраиваются учетные группы, что позволяет сделать более эффективным процесс назначения используемых по умолчанию учетных счетов главной книги клиентам, поставщикам и товарам.
@@ -56,7 +56,7 @@ ms.locfileid: "8654946"
 > [!TIP]
 > В зависимости от вашего географического положения некоторые страницы могут содержать поля, которые не описаны в перечисленных здесь статьях, поскольку они применяются к локальным функциям или настройкам. [!INCLUDE [tooltip-inline-tip_md](includes/tooltip-inline-tip_md.md)]
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/set-up-financial-management-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/paths/set-up-financial-management-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 

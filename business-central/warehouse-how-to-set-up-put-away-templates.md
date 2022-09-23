@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.form: 7312, 7313, 7314, 7321, 7322, 7323, 7329
 ms.date: 06/25/2021
 ms.author: edupont
-ms.openlocfilehash: 59780a66ad71cb04db8ac50f6a4d28a95a8548bb
-ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
+ms.openlocfilehash: 83d15ea1db01ef8161c81465a8c521128c7b8407
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "9074384"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9529816"
 ---
 # <a name="set-up-put-away-templates"></a>Настройка шаблонов размещения
 
@@ -37,7 +37,7 @@ ms.locfileid: "9074384"
 
 Можно создавать различные шаблоны размещения и использовать их в соответствии с индивидуальными требованиями. В первую очередь выполняется обращение к шаблону размещения, выбранному для товара или единицы хранения, при наличии таковых. Если данные поля не заполнены, то используется шаблон размещения, выбранный для склада на экспресс-вкладке **Политики ячеек** в карточке склада.  
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/put-away-templates/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/put-away-templates/)
 
 ## <a name="see-also"></a>См. также
 

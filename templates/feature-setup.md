@@ -6,18 +6,18 @@ ms.service: dynamics365-business-central
 ms.topic: article
 ms.date: 10/01/2021
 ms.author: MyMSFTAlias (if I work for Microsoft; otherwise edupont)
-ms.openlocfilehash: 837dc686f3a926683a736e2f4f3108d752bb791b
-ms.sourcegitcommit: 67006b090a7bd70446414a19cc82e531190637dc
+ms.openlocfilehash: 66327ff91c22111e288bcb6b15d7b510cf498688
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/16/2022
-ms.locfileid: "8311181"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9535375"
 ---
 # <a name="set-up-this-feature-in-max-100-characters"></a>Настройте эту функцию за макс. 100 символов
 
 Используйте [!INCLUDE [prod_short](includes/prod_short.md)] для названия продукта и пишите активными предложениями, такими как «Выполняйте работу быстрее» и «С этой функцией вы сможете то-то».  
 
-Советы по разметке и стилю см. в [Руководство по созданию Dynamics 365 Business Central](https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/help/writing-guide).  
+Советы по разметке и стилю см. в [Руководство по созданию Dynamics 365 Business Central](https://learn.microsoft.com/dynamics365/business-central/dev-itpro/help/writing-guide).  
 
 Не забудьте добавить ссылки "См. также" и добавить новую статью в файл TOC.md.  
 

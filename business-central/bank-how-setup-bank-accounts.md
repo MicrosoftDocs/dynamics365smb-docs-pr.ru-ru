@@ -10,12 +10,12 @@ ms.search.keywords: Yodlee, feed, stream
 ms.search.form: 370, 371, 372, 373, 375, 423, 424, 425, 426, 1240, 1280
 ms.date: 01/24/2022
 ms.author: edupont
-ms.openlocfilehash: 0feba901ac569c0cbd714f8ea3d3c271c82425bd
-ms.sourcegitcommit: 5560a49ca4ce85fa12e50ed9e14de6d5cba5f5c3
+ms.openlocfilehash: 922d80f054b2daea6c06b7c440ac3605fa0bd243
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/13/2022
-ms.locfileid: "9144144"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9529384"
 ---
 # <a name="set-up-bank-accounts"></a>Настройка банковских счетов
 
@@ -235,7 +235,7 @@ The following table explains key fields.
 
 Чтобы получить более сжатое представление о ваших денежных счетах в финансовой отчетности, используйте счета **Сумма (от)** и **Сумма (до)** в вашем плане счетов, строки **Группировка** в финансовых отчетах или категории счетов ГК. Для получения дополнительной информации прочитайте раздел [Бизнес-аналитика и Financial Reporting](bi.md).
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/cash-management-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/cash-management-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 

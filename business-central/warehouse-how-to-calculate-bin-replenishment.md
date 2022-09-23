@@ -10,12 +10,12 @@ ms.search.keywords: ''
 ms.search.form: 7315, 7351
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: f59670f427eb530eabaa69aa7596d610cb117078
-ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
+ms.openlocfilehash: 0f2653087df90ca6801f0d2e972f142e1f65b889
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "9076127"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9530816"
 ---
 # <a name="calculate-bin-replenishment"></a>Расчет пополнения ячеек
 
@@ -47,7 +47,7 @@ ms.locfileid: "9076127"
 >   
 >  то поля **Из зоны** и **Из ячейки** будут пусты, потому что алгоритм, рассчитывающий, откуда необходимо переместить товары, запускается при активации функции **Создать передвижение**.  
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/move-items/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/move-items/)
 
 ## <a name="see-also"></a>См. также
 

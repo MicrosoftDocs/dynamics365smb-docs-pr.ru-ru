@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/29/2021
 ms.author: edupont
-ms.openlocfilehash: 8a310ba099c6eb5c90d116304240db3291bac67c
-ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
+ms.openlocfilehash: ebe70f9fdd98f68616b15eaf37154c6072c601a8
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "9079510"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9533567"
 ---
 # <a name="calculate-order-promising-dates"></a>Расчет сроков планирования заказов
 
@@ -134,7 +134,7 @@ ms.locfileid: "9079510"
     - Если известно, что в настоящее время товар отсутствует на складе и требуется рассчитать ближайшую дату, когда товар будет доступен путем подачи новых заявок на пополнение запасов, выберите **В наличии**.  
 5.  Нажмите кнопку **Принять**, чтобы принять ближайшую доступную дату отгрузки.  
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/promising-sales-order-delivery-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/promising-sales-order-delivery-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 

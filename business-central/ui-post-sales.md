@@ -10,12 +10,12 @@ ms.reviewer: edupont
 ms.search.form: 130, 142, 1350
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 47c390cfbd9827d539fa99046c1ad82ba739bac3
-ms.sourcegitcommit: f9143302b8271f5924a027cacdf29dc37c95f4c6
+ms.openlocfilehash: 91744dd58d68c6b732c9abe794f33b0c9a11211a
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "8655580"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9535684"
 ---
 # <a name="posting-sales"></a>Учет продаж
 
@@ -53,7 +53,7 @@ ms.locfileid: "8655580"
 
 Вы можете редактировать определенные поля в учтенных документах покупки, такие как **Номер отслеживания посылки** . Дополнительные сведения см. в разделе [Изменение учтенных документов](across-edit-posted-document.md). Для более важных полей, которые влияют на аудиторский след, необходимо выполнить сторнирование или отменить проводку. Дополнительные сведения см. в разделе [Сторнирование учета в журнале и отмена приходных/расходных накладных](finance-how-reverse-journal-posting.md).
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/ship-invoice-items-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/ship-invoice-items-dynamics-365-business-central/index)
 
 ## <a name="see-also"></a>См. также
 

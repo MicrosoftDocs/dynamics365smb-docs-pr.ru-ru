@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: UOM
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 8b03ca934a87573feded023311f01349066f886c
-ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
+ms.openlocfilehash: cb1366e5d4eb2c2ec578b313379deffde7f62764
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "9074852"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9532894"
 ---
 # <a name="set-up-units-of-measure"></a>Настройка единиц измерения
 
@@ -80,7 +80,7 @@ ms.locfileid: "9074852"
 4. В случае покупок на экспресс-вкладке **Пополнение** в поле **Единица измерения покупки** откройте страницу **Единица измерения товара**.
 5. Выберите код, который требуется настроить в качестве единицы измерения по умолчанию для продажи или покупок соответственно, а затем нажмите кнопку **ОК**.
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/trade-master-data-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/trade-master-data-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 

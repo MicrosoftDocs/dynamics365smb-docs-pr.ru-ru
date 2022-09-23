@@ -8,12 +8,12 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.date: 01/28/2022
 ms.author: edupont
-ms.openlocfilehash: 07dfa98c8499a2a9c7de9d5005d941f8d65aa7fb
-ms.sourcegitcommit: 0bb9473a2563211bc0c02ebfd837bba1b2e9ad3f
+ms.openlocfilehash: 0f1e728b67555fcbde041f556265824b1a64a169
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/25/2022
-ms.locfileid: "8805078"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9529033"
 ---
 # <a name="welcome-to-prod_long"></a>Добро пожаловать в [!INCLUDE[prod_long](includes/prod_long.md)]
 
@@ -30,11 +30,11 @@ ms.locfileid: "8805078"
 
 ## <a name="microsoft-docs"></a>Документация Майкрософт
 
-На панели навигации слева вы можете найти информацию об использовании [!INCLUDE[prod_short](includes/prod_short.md)] в вашей компании. Найдите ссылки на описания наиболее часто используемых возможностей в разделе [Бизнес-процессы](#business-processes). См. также раздел [Использование сайта docs.microsoft.com, чтобы узнать больше](product-help-and-support.md#use-the-docsmicrosoftcom-site-to-learn-more).  
+На панели навигации слева вы можете найти информацию об использовании [!INCLUDE[prod_short](includes/prod_short.md)] в вашей компании. Найдите ссылки на описания наиболее часто используемых возможностей в разделе [Бизнес-процессы](#business-processes). См. также раздел [Узнайте больше, используя документацию по продукту](product-help-and-support.md#learn-more-using-the-product-documentation).
 
 [!INCLUDE [ua-get-help](includes/ua-get-help.md)]
 
-Вы также можете [посетить нашу видеотеку](across-videos.md) или начать с пути обучения [Начать работу с Microsoft Dynamics 365 Business Central](/learn/paths/get-started-dynamics-365-business-central/) на [Microsoft Learn](/learn/dynamics365/business-central?WT.mc_id=dyn365bc_landingpage-docs).  
+Вы также можете [посетить нашу видеотеку](across-videos.md) или начать с пути обучения [Начать работу с Microsoft Dynamics 365 Business Central](/training/paths/get-started-dynamics-365-business-central/) на сайте [Обучение Microsoft](/training/dynamics365/business-central?WT.mc_id=dyn365bc_landingpage-docs).  
 
 > [!NOTE]
 > Если не указано иное, содержимое сайта Docs.microsoft.com отражает последнюю версию интернет-версии [!INCLUDE[prod_short](includes/prod_short.md)]. Если ваша организация использует другую интернет-версию [!INCLUDE[prod_short](includes/prod_short.md)], некоторые возможности могут быть недоступны. Кроме того, если ваша организация использует локальную версию [!INCLUDE[prod_short](includes/prod_short.md)], вы можете использовать более раннюю версию. Дополнительные сведения см. в разделе [Часто задаваемые вопросы](across-faq.yml).
@@ -76,9 +76,9 @@ ms.locfileid: "8805078"
 - [AL Development Environment](/dynamics365/business-central/dev-itpro/developer/devenv-reference-overview)
 - [Правила и рекомендации для кода AL](/dynamics365/business-central/dev-itpro/compliance/apptest-overview)
 
-## <a name="learn"></a>Сведения
+## <a name="learn"></a>Изучение
 
-Найдите бесплатное электронное обучение для [!INCLUDE[prod_short](includes/prod_short.md)] на сайте [Microsoft Learn](/learn/dynamics365/business-central?WT.mc_id=dyn365bc_landingpage-docs).  
+Найдите бесплатное электронное обучение по [!INCLUDE[prod_short](includes/prod_short.md)] на сайте [Обучение Microsoft](/training/dynamics365/business-central?WT.mc_id=dyn365bc_landingpage-docs).  
 
 Вы также можете просмотреть видеоролики о новых и часто используемых возможностях в нашей видеотеке. Для получения дополнительной информации см. раздел [Посетите нашу библиотеку видео](across-videos.md).  
 
@@ -94,11 +94,11 @@ ms.locfileid: "8805078"
 
 [!INCLUDE [ua-rss](includes/ua-rss.md)]  
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/dynamics365/business-central?WT.mc_id=dyn365bc_landingpage-docs)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/dynamics365/business-central?WT.mc_id=dyn365bc_landingpage-docs)
 
 ## <a name="see-also"></a>См. также
 
-[Dynamics 365 Business Central на сайте Microsoft Learn](/learn/dynamics365/business-central?WT.mc_id=dyn365bc_landingpage-docs)  
+[Обучение Dynamics 365 Business Central](/training/dynamics365/business-central?WT.mc_id=dyn365bc_landingpage-docs)  
 [Краткое руководство по Business Central](quick-start-business-central.md)  
 [Начало работы с Business Central](ui-get-ready-business.md)  
 [Посетите нашу библиотеку видео](across-videos.md)  
@@ -107,7 +107,7 @@ ms.locfileid: "8805078"
 [Получение [!INCLUDE[prod_short](includes/prod_short.md)] на мобильном устройстве](install-mobile-app.md)  
 [Работа с измерениями](finance-dimensions.md)  
 [Ресурсы для справки и поддержки](product-help-and-support.md)  
-[Использование сайта docs.microsoft.com, чтобы узнать больше](product-help-and-support.md#use-the-docsmicrosoftcom-site-to-learn-more)  
+[Узнайте больше, используя документацию по продукту](product-help-and-support.md#learn-more-using-the-product-documentation)  
 [Соответствие [!INCLUDE[prod_short](includes/prod_short.md)]](compliance/compliance-overview.md)  
 [Условия использования службы [!INCLUDE[prod_short](includes/prod_short.md)] Online](compliance/compliance-service-compliance.md#service-terms)  
 [Основные и незначительные обновления Business Central Online](/dynamics365/business-central/dev-itpro/administration/update-rollout-timeline)  

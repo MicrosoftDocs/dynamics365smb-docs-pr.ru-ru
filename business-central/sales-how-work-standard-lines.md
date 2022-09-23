@@ -10,12 +10,12 @@ ms.search.keywords: trade, sell, replenishment
 ms.search.form: 172
 ms.date: 07/06/2022
 ms.author: edupont
-ms.openlocfilehash: 7b5e0b32306fad7a4379aca6e3dbc23eb609c99e
-ms.sourcegitcommit: 5560a49ca4ce85fa12e50ed9e14de6d5cba5f5c3
+ms.openlocfilehash: 1d4223bb324a10644e0974f8b92564f5bf85dce2
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/13/2022
-ms.locfileid: "9144117"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9535625"
 ---
 # <a name="create-recurring-sales"></a>Создание типовых продаж
 
@@ -76,7 +76,7 @@ ms.locfileid: "9144117"
 
 Для клиентов создаются счета продажи с указанным стандартным клиентским кодом продажи, а также всеми заданными сведениями о прямом дебете для учета на определенную дату.
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/create-sales-documents-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/create-sales-documents-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 

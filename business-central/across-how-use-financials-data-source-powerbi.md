@@ -7,14 +7,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: business intelligence, KPI, Odata, Power App, SOAP, analysis
-ms.date: 04/01/2021
+ms.date: 09/07/2022
 ms.author: jswymer
-ms.openlocfilehash: 926c614dcb28c7bde4ee8c0a611ac45aa7145fb8
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
+ms.openlocfilehash: 72df794aa170736507c959ea0e75e4bb52b234d7
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8523219"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9534377"
 ---
 # <a name="building-power-bi-reports-to-display-prod_long-data"></a>Создание отчетов Power BI для отображения данных [!INCLUDE [prod_long](includes/prod_long.md)]
 
@@ -48,6 +48,8 @@ ms.locfileid: "8523219"
 - Загрузите тему отчета [!INCLUDE [prod_short](includes/prod_short.md)] (необязательно).
 
   Дополнительные сведения см. в разделе [Использование темы отчета [!INCLUDE [prod_short](includes/prod_short.md)]](#theme) в этой статье.
+
+[!INCLUDE[note-multicompany-reports](includes/note-multicompany-reports.md)]
 
 ## <a name="add-prod_short-as-a-data-source-in-power-bi-desktop"></a><a name="getdata"></a>Добавление [!INCLUDE[prod_short](includes/prod_short.md)] как источника данных в Power BI Desktop
 
@@ -183,7 +185,7 @@ ms.locfileid: "8523219"
 9. Нажмите **Готово**.
 10. Выберите **Закрыть и применить** на ленте, чтобы сохранить изменения и закрыть редактор Power Query.
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/configure-powerbi-excel-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/configure-powerbi-excel-dynamics-365-business-central/index)
 
 ## <a name="see-also"></a>См. также
 

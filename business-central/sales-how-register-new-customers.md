@@ -10,12 +10,12 @@ ms.search.keywords: client, customer, credit
 ms.search.form: 7, 21, 22, 33, 42, 43, 367, 368, 369, 461, 512, 785, 1330, 1380, 1381, 1382, 1627, 2107, 7177, 9080, 9081, 9084, 9301, 9305
 ms.date: 09/01/2022
 ms.author: edupont
-ms.openlocfilehash: 846e781fac2dc6d99e614e6cd46be980f86554d2
-ms.sourcegitcommit: 8b95e1700a9d1e5be16cbfe94fdf7b660f1cd5d7
+ms.openlocfilehash: 22fed660ba176bbce8375d03a7c6a5bf9e20b01b
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2022
-ms.locfileid: "9460945"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9533804"
 ---
 # <a name="register-new-customers"></a>Регистрация новых клиентов
 
@@ -88,7 +88,7 @@ ms.locfileid: "9460945"
     |**Задолженность**|Поле **Сумма задолженности** в карточке клиента установлен, и выводится предупреждение, если у клиента имеется просроченная задолженность.|
     |**Без предупреждения**|Нет отображаемых кредитных предупреждений относительно статуса клиента.|
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/trade-master-data-dynamics-365-business-central/).
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/trade-master-data-dynamics-365-business-central/).
 
 ## <a name="see-also"></a>См. также
 

@@ -10,12 +10,12 @@ ms.search.keywords: cash flow, money flow, expense and income, liquidity, cash r
 ms.search.form: 841, 849, 1818
 ms.date: 12/20/2021
 ms.author: edupont
-ms.openlocfilehash: fef3a27cf02d48fcf08a7bb70c469ed2820d0753
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 811bf9e69e75bbc3b46a20a5c3d4a6226abcdccc
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8149105"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9530599"
 ---
 # <a name="cash-flow-overview"></a>Обзор движения денежных средств
 
@@ -76,7 +76,7 @@ ms.locfileid: "8149105"
 
 [Настройка анализа движения денежных средств](finance-setup-cash-flow-analyses.md)  
 [Анализ движения денежных средств](finance-analyze-cash-flow.md)  
-[Прогноз движения денежных средств в Dynamics 365 Business Central (Microsoft Learn)](/learn/modules/forecast-cash-flow-dynamics-365-business-central/index)  
-[Настройка прогнозов движения денежных средств с помощью ИИ Azure в Dynamics 365 Business Central (Microsoft Learn)](/learn/modules/setup-cash-flow-forecasts/)  
+[Прогноз движения денежных средств в Dynamics 365 Business Central](/training/modules/forecast-cash-flow-dynamics-365-business-central/index)  
+[Настройка прогнозов движения денежных средств с помощью ИИ Azure в Dynamics 365 Business Central](/training/modules/setup-cash-flow-forecasts/)  
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

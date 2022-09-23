@@ -10,12 +10,12 @@ ms.search.keywords: warehouse, stock
 ms.search.forms: 5804, 2106, 5823, 5751, 5750, 772, 5829, 5828, 513, 304, 40, 38, 167, 117, 5827, 9223, 158, 354, 9152, 286, 5754, 5402, 209, 297, 298, 99000782
 ms.date: 06/16/2021
 ms.author: edupont
-ms.openlocfilehash: f14c7d9f4fc99c0b6d44ff1cd971f05f979b7fdd
-ms.sourcegitcommit: 38b1272947f64a473de910fe81ad97db5213e6c3
+ms.openlocfilehash: 568ccee7e01aacb429e6ed2e2b69daf91f67b488
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/29/2022
-ms.locfileid: "9361723"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9530032"
 ---
 # <a name="manage-inventory"></a>Управление запасами
 
@@ -60,7 +60,7 @@ ms.locfileid: "9361723"
 |Управление бизнес-операциями в офисах продаж, отделах закупки или отделах планирования завода в нескольких местах.|[Работа с центрами ответственности](inventory-responsibility-centers.md)|
 |Используйте ресурсы с особыми функциями для различных услуг и пунктов обслуживания.|[Настройка распределения ресурсов](service-how-setup-resource-allocation.md)|
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/get-started-inventory-management/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/paths/get-started-inventory-management/)
 
 ## <a name="see-also"></a>См. также
 

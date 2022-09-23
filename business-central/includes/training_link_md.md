@@ -1,1 +1,1 @@
-Получите [обучение!](/learn/dynamics365/business-central?WT.mc_id=dyn365bc_landingpage-docs)
+Получите [обучение!](/training/dynamics365/business-central?WT.mc_id=dyn365bc_landingpage-docs)

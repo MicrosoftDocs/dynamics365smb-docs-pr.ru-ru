@@ -10,12 +10,12 @@ ms.search.keywords: customized report, document layout, logo, personalize
 ms.search.form: 9652, 9650
 ms.date: 03/07/2022
 ms.author: jswymer
-ms.openlocfilehash: af90fd2361a42c06f8af360119bb391efb184de5
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
+ms.openlocfilehash: 612dc8ada170ae6925bd3121db324cec1624ce68
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8515307"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9530140"
 ---
 # <a name="legacy-set-the-layout-used-by-a-report"></a>(Устарело) Установите макет, используемый отчетом
 
@@ -62,7 +62,7 @@ ms.locfileid: "8515307"
 
 Теперь вы можете перейти к карточкам своих клиентов и поставщиков, чтобы указать, какой из макетов использовать для различных документов, которые вы создаете для данного клиента или поставщика, например при подтверждении заказа или напоминании об оплате. Для получения дополнительной информации см. [Определение макетов документов для клиентов и поставщиков](ui-define-customer-vendor-document-layouts.md).
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/change-documents-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/change-documents-dynamics-365-business-central/index)
 
 ## <a name="see-also"></a>См. также
 [Управление макетами отчетов](ui-manage-report-layouts.md)  

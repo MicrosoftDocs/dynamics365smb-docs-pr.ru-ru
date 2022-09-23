@@ -7,12 +7,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/11/2021
 ms.author: edupont
-ms.openlocfilehash: 99c08769429eef51a1d52e142d455ccd227781c7
-ms.sourcegitcommit: f1e272485a0e675d337a694aba3e35a5daf43920
+ms.openlocfilehash: 9405af9c52b17ab34fded263692e3294ed8aaf11
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/09/2022
-ms.locfileid: "9130015"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9533972"
 ---
 # <a name="workflow-notifications"></a>Уведомления рабочих процессов
 
@@ -53,7 +53,7 @@ ms.locfileid: "9130015"
 
     Для рабочих процессов утверждения добавьте шаг отклика рабочего процесса, чтобы уведомить отправителя, когда запрос был утвержден или отклонен. Дополнительные сведения см. на шаге 9 в разделе [Создание рабочих процессов](across-how-to-create-workflows.md#to-create-a-workflow).  
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/create-workflows/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/create-workflows/)
 
 ## <a name="see-also"></a>См. также
 

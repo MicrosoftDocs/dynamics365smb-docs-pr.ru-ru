@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: Power BI, setup, analysis, reporting, financial report, business intelligence, KPI
 ms.date: 07/13/2022
 ms.author: jswymer
-ms.openlocfilehash: 5be0366c2d26e809e966844fc6851cfc5d9e29b7
-ms.sourcegitcommit: 5560a49ca4ce85fa12e50ed9e14de6d5cba5f5c3
+ms.openlocfilehash: 6f2aea0734a25a49d21bd45628ddf0068f5cb7a6
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/13/2022
-ms.locfileid: "9144306"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9530977"
 ---
 # <a name="enabling-power-bi-integration-with-prod_short"></a>Включение интеграции Power BI с [!INCLUDE[prod_short](includes/prod_short.md)]
 
@@ -97,7 +97,7 @@ Business Central Online также поддерживает настраивае
     Для первоначального подключения откройте [!INCLUDE[prod_short](includes/prod_short.md)] и выполните на главной странице процедуру **Начало работы с Power BI**. Это действие проведет вас через процесс получения согласия и проверит вашу лицензию Power BI. При появлении запроса войдите в систему, используя учетную запись администратора Azure. Дополнительные сведения см. в разделе [Подключение к Power BI — только один раз](across-working-with-powerbi.md#connect).
 
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/Configure-powerbi-excel-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/Configure-powerbi-excel-dynamics-365-business-central/index)
 
 ## <a name="see-also"></a>См. также
 

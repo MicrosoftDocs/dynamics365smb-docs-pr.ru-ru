@@ -10,12 +10,12 @@ ms.search.keywords: extension, migrate, data, QuickBooks, import
 ms.search.form: 1830,
 ms.date: 06/24/2021
 ms.author: bholtorf
-ms.openlocfilehash: f2e7c3243a2633534dc36dd37aef5d096a7d1f28
-ms.sourcegitcommit: 38b1272947f64a473de910fe81ad97db5213e6c3
+ms.openlocfilehash: 4c0e9a89b81e9d967482d79e91b4aa05619fc658
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/29/2022
-ms.locfileid: "9361372"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9528576"
 ---
 # <a name="the-quickbooks-online-data-migration-extension"></a>Расширение миграции данных QuickBooks Online
 
@@ -67,7 +67,7 @@ ms.locfileid: "9361372"
 * Если вы используете налог на добавленную стоимость (НДС), вы можете добавить учетные бизнес-группы или товарные группы в параметры учета, чтобы вы могли учитывать суммы НДС.
 * Проверьте начальные сальдо счетов в главной книге. В QuickBooks Online не хранится текущее сальдо для всех счетов, поэтому вам может потребоваться исправить начальные сальдо.
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/migrate-data-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/migrate-data-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 

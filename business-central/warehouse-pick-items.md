@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.form: 5779, 5798, 7343, 7345, 7357, 7359, 7377, 7392, 7395, 7397, 9313, 9316, 9344
 ms.date: 06/25/2021
 ms.author: edupont
-ms.openlocfilehash: 6f85c37a9a781493f1a67f00c9dcaade540697c7
-ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
+ms.openlocfilehash: 07cb13480146496c7186cef2d845c4a799eb699a
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "9078860"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9535588"
 ---
 # <a name="pick-items"></a>Подбор товаров
 
@@ -44,7 +44,7 @@ ms.locfileid: "9078860"
 |Разделение строки подбора на несколько строк, например из-за того, что в указанной ячейке недостаточно товара.|[Разделение строк складских заданий](warehouse-how-to-split-warehouse-activity-lines.md)|
 |Получить немедленный доступ к подборам, присвоенным вам как работнику склада.|[Поиск складских назначений](warehouse-how-to-find-your-warehouse-assignments.md)|  
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/pick-ship-items-business-central/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/paths/pick-ship-items-business-central/)
 
 ## <a name="see-also"></a>См. также
 

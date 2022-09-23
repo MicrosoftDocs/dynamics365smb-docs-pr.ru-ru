@@ -10,12 +10,12 @@ ms.search.keywords: transportation, added cost, landed cost
 ms.search.form: 5709, 5800, 5805, 5814
 ms.date: 06/22/2021
 ms.author: edupont
-ms.openlocfilehash: 8de7d110e54660d4d1c79cd6b65a69b8476d9e9a
-ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
+ms.openlocfilehash: 626af5eb217548b3813a137c16b7a84c1e860da2
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "9075874"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9528738"
 ---
 # <a name="use-item-charges-to-account-for-additional-trade-costs"></a>Использование товарных издержек для учета дополнительных торговых расходов
 Чтобы правильно оценить товары, необходимо перенести на них дополнительные издержки, например в связи с транспортировкой, физическим обращением, страховкой, которые возникли при покупке или продаже товаров. В случае покупки стоимость покупаемого товара состоит из цены поставщика и всех дополнительных прямых товарных издержек, которые могут быть заданы по индивидуальным приемкам или расходным накладным на возврат товара. В случае продажи знать затраты по отгрузке проданного товара может быть так же важно для организации, как знать затраты по получению приобретенного товара.
@@ -79,7 +79,7 @@ ms.locfileid: "9075874"
 
 Товарные издержки в отдельном счете покупки теперь назначены товару в учтенной приходной накладной покупки, в результате чего инвентарная стоимость товара будет увеличена на товарные издержки.
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/post-purchase-item-charges-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/post-purchase-item-charges-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 

@@ -10,12 +10,12 @@ ms.search.keywords: multiple currencies, payment, reconcile
 ms.search.form: 148, 460, 25
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 0ec081740ff45dc018d975f6d84deae4aae907cb
-ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
+ms.openlocfilehash: e8a09e2a832e5461b0a597a9caf4af8e9d7af7e9
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "9078704"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9529060"
 ---
 # <a name="enable-application-of-ledger-entries-in-different-currencies"></a>Включение операций книги в разных валютах
 
@@ -48,7 +48,7 @@ ms.locfileid: "9078704"
 3. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Учетные группы поставщика**, а затем выберите связанную ссылку.  
 4. В полях **Деб. счет округл. при прим. валюты** и **Кр. счет округл. при прим. валюты** введите соответствующие счета ГК, чтобы учесть различия в округлении.  
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/process-foreign-currency-payments-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/process-foreign-currency-payments-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 

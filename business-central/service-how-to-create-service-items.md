@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/23/2021
 ms.author: edupont
-ms.openlocfilehash: 80c8eab293fbabd05e385c89f63f7900a7e7cbde
-ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
+ms.openlocfilehash: 89434ef4ac6b9421859791e4e04f895d506e78bb
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "9074545"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9530167"
 ---
 # <a name="create-service-items"></a>Создание сервисных товаров
 
@@ -62,7 +62,7 @@ ms.locfileid: "9074545"
 
     Вставляется сервисная строка с типом **Себестоимость** с начальным сбором. Начальный сбор будет применен к выбранному сервисному товару.
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/create-items/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/create-items/)
 
 ## <a name="see-also"></a>См. также
 

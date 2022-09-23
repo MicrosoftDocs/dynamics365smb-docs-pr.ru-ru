@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: customer payment, debtor, balance due, AR
 ms.date: 06/23/2021
 ms.author: edupont
-ms.openlocfilehash: f5f701f4c26b81140fd87a81aa47591d268c8203
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
+ms.openlocfilehash: 37aa7f341bd0a8f097e0ca9737bffd3d2cd4e507
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8510795"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9534107"
 ---
 # <a name="managing-receivables"></a>Управление дебиторской задолженностью
 
@@ -47,7 +47,7 @@ ms.locfileid: "8510795"
 |Настройте отклонение, при котором система закрывает счет, даже если платеж, включая все скидки, не полностью покрывает сумму счета.|[Работа с отклонениями в оплате и отклонениями скидки по оплате](finance-payment-tolerance-and-payment-discount-tolerance.md)|
 | Прогноз просрочки платежей для документов продажи. | [Расширение прогноза просрочки платежа](ui-extensions-late-payment-prediction.md) |
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/process-customer-vendor-payments-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/paths/process-customer-vendor-payments-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 [Продажи](sales-manage-sales.md)  

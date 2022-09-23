@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: business intelligence, KPI, Odata, Power App, SOAP, analysis
 ms.date: 06/11/2021
 ms.author: jswymer
-ms.openlocfilehash: ccdcf519d33c9b4ee23526e773ec8eccc9e0ebdd
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
+ms.openlocfilehash: 7aa2fee69e6d7725e4986b44d3f657d6ca9c4819
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8517165"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9534323"
 ---
 # <a name="creating-power-bi-reports-for-displaying-list-data-in-prod_short"></a>Создание отчетов Power BI для отображения данных списка в [!INCLUDE[prod_short](includes/prod_short.md)]
 
@@ -122,7 +122,7 @@ For more information about getting started, see [Use [!INCLUDE[prod_short](inclu
 
 Проверьте, что отчет имеет размер 325 х 310 пикселей. Сохраните отчет, а затем обновите страницу списка.  
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/configure-powerbi-excel-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/configure-powerbi-excel-dynamics-365-business-central/index)
 
 ## <a name="see-also"></a>См. также
 

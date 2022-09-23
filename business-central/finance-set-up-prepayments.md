@@ -7,12 +7,12 @@ ms.search.keyword: prepayment
 ms.search.form: 314, 459, 460, 664
 ms.date: 10/27/2021
 ms.author: edupont
-ms.openlocfilehash: cf7f84b8ba0c7622f08856b677e3559cc669e7ed
-ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
+ms.openlocfilehash: 72e5be73b78e702bfa006a79b6c3a46c8b11ed96
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "9078678"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9531166"
 ---
 # <a name="set-up-prepayments"></a>Настройка предоплаты
 
@@ -106,7 +106,7 @@ ms.locfileid: "9078678"
 3. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Операции очереди работ**, а затем выберите связанную ссылку.
 4. Настройте запись очереди заданий **Обновить ожидающие продажи с предоплатой**, например, с помощью параметров на экспресс-вкладке **Повторение**, чтобы запланировать, как часто вы хотите, чтобы оно запускалось. Дополнительные сведения см. в разделе [Использование очередей работ для планирования задач](admin-job-queues-schedule-tasks.md).
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/prepayment-invoices-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/prepayment-invoices-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также  
 

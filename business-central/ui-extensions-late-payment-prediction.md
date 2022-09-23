@@ -10,12 +10,12 @@ ms.search.keywords: customer, payment, invoice, sales, invoice, quote
 ms.search.form: 1950, 1951,
 ms.date: 12/20/2021
 ms.author: bholtorf
-ms.openlocfilehash: 5c62b50867383ffb4aa9b3bff375d9c36a1e194c
-ms.sourcegitcommit: 38b1272947f64a473de910fe81ad97db5213e6c3
+ms.openlocfilehash: a2b6cc372846ec525c9f035aa98c5daafbf31913
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/29/2022
-ms.locfileid: "9361506"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9533769"
 ---
 # <a name="the-late-payment-prediction-extension"></a>Расширение прогноза просрочки платежа
 
@@ -118,13 +118,13 @@ Microsoft развертывает и управляет рядом веб-сл�
 7. Установите флажок **Использовать мою подписку Azure**.
 8. На экспресс-вкладке **Учетные данные моей модели** введите URL-адрес API и ключ API для вашей модели.  .  
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/predict-late-payments-sales-documents/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/predict-late-payments-sales-documents/)
 
 ## <a name="see-also"></a>См. также
 
 [Документация студии машинного обучения Azure](/azure/machine-learning/classic/)  
 [Настройка Business Central с помощью расширений](ui-extensions.md)  
 [Добро пожаловать в [!INCLUDE[prod_long](includes/prod_long.md)]](index.md)  
-[Использование искусственного интеллекта в Microsoft Dynamics 365 Business Central (Microsoft Learn)](/learn/paths/use-artificial-intelligence/)  
+[Использование искусственного интеллекта в Microsoft Dynamics 365 Business Central](/training/paths/use-artificial-intelligence/)  
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

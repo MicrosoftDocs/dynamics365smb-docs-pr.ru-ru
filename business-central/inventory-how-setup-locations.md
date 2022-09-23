@@ -10,12 +10,12 @@ ms.search.keywords: warehouse, distribution center
 ms.search.forms: 5703, 15
 ms.date: 06/16/2021
 ms.author: edupont
-ms.openlocfilehash: 9ed3bc15f8f8b94e842d8c01415b04018e4fc6ec
-ms.sourcegitcommit: f1e272485a0e675d337a694aba3e35a5daf43920
+ms.openlocfilehash: 0888a0a47f3a5ae58dcf7712218f801cde1711c5
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/09/2022
-ms.locfileid: "9129681"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9528308"
 ---
 # <a name="set-up-locations"></a>Настройка складов
 
@@ -48,7 +48,7 @@ ms.locfileid: "9129681"
 
 Вы можете изменить конфигурацию местоположения позже, но вы не можете редактировать настройку местоположений, в которых есть записи книги товаров.  
 
-Если у вас есть несколько местоположений, вы можете определить маршруты передачи между местоположениями. Дополнительные сведения см. в разделе [Создание маршрута перемещения](inventory-how-setup-locations.md#to-create-a-transfer-route). 
+Если у вас есть несколько местоположений, вы можете определить маршруты передачи между местоположениями. Дополнительные сведения см. в разделе [Создание маршрута перемещения](inventory-how-setup-locations.md#to-create-a-transfer-route).
 
 ### <a name="to-create-a-transfer-route"></a>Создание маршрута перемещения
 
@@ -79,7 +79,7 @@ ms.locfileid: "9129681"
 ## <a name="default-dimensions-for-locations"></a>Размеры по умолчанию для складов
 Вы устанавливаете размеры по умолчанию для склада на странице **Карточка склада**, выбирая **Измерения**. После этого измерения склада по умолчанию назначаются документам, когда вы выбираете склад в строке. При необходимости вы можете удалить или изменить измерение в строке. В поле **Учет значения** вы можете потребовать,чтобы люди указали измерения для складов, прежде чем они смогут опубликовать запись. Если вы хотите, чтобы люди могли выбирать только определенные значения измерений, вы можете указать их в поле **Фильтр допустимых значений**. Вы также можете включить значения измерения склада на странице **Приоритеты измерения по умолчанию** и комбинации измерений для комбинаций правил приоритета и измерений на странице **Комбинации измерений**.
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/trade-set-up-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/trade-set-up-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 
@@ -91,6 +91,5 @@ ms.locfileid: "9129681"
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 [Изменение набора отображаемых функций](ui-experiences.md)  
 [Общие бизнес-функции](ui-across-business-areas.md)
-
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

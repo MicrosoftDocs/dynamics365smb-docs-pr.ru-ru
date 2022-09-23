@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: electronic document, e-invoice, incoming document, OCR, ecommerce, document exchange, import invoice
 ms.date: 06/14/2022
 ms.author: edupont
-ms.openlocfilehash: ad50260df068d38cb8266e04434eb4faf4d052f3
-ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
+ms.openlocfilehash: 8b532ce1345b9df1ae98cdd98349d4fd4c5b27df
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "9076049"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9535025"
 ---
 # <a name="find-posted-documents-without-incoming-document-records"></a>Поиск учтенных документов без записей входящих документов
 
@@ -37,7 +37,7 @@ ms.locfileid: "9076049"
 
 Если нужная запись входящего документа отсутствует на странице **Входящие документы**, ее можно создать. Дополнительные сведения см. в разделе [Создание записей входящих документов](across-how-create-income-document-records.md).
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/incoming-documents-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/incoming-documents-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 

@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: bcc706a221c40019792167b4b75cb8826216457d
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 49280683e865e1c86f50532999dfa182e15015a2
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8147246"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9530302"
 ---
 # <a name="set-up-electronic-document-sending-and-receiving"></a>Настройка отправки и получения электронных документов
 
@@ -142,7 +142,7 @@ ms.locfileid: "8147246"
     |---------------------------------|---------------------------------------|  
     |**Счет ГК для нетоварных строк**|Определяет счет ГК, который автоматически вставляется в строки покупки, созданные из электронных документов, когда строка входящего документа не содержит опознаваемый товар. Любая строка входящего документа, которая не имеет кода GTIN или номенклатурного номера поставщика, будет преобразована в строку покупки типа **Счет ГК**, и поле **Номер** в строке покупки будут содержать счет, выбранный в поле **Счет ГК для нетоварных строк**.<br /><br /> Если поле **Счет ГК для нетоварных строк** оставлено пустым, а в строке входящего документа имеются строки без опознаваемых товаров, то документ покупки не создается. Сообщение об ошибке укажет, что необходимо заполнить поле **Счет ГК для нетоварных строк**, прежде чем можно будет завершить выполнение задачи.|  
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/electronic-documents-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/electronic-documents-dynamics-365-business-central/index)
 
 ## <a name="see-also"></a>См. также  
 [Электронный обмен данными](across-data-exchange.md)   

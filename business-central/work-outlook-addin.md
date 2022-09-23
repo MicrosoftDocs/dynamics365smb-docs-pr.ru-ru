@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: SMTP, mail, Microsoft 365
 ms.date: 04/21/2022
 ms.author: jswymer
-ms.openlocfilehash: ac75505d2f9987037cf04bbe96a0a1eb398c737c
-ms.sourcegitcommit: f9143302b8271f5924a027cacdf29dc37c95f4c6
+ms.openlocfilehash: 94ff94bab70582f4f9b4dcd73a5923931317d6f1
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "8655849"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9530329"
 ---
 # <a name="use-business-central-as-your-business-inbox-in-outlook"></a>Использование Business Central в качестве папки "Входящие" для бизнеса в Outlook
 
@@ -128,7 +128,7 @@ ms.locfileid: "8655849"
 > С волны 1 выпуска 2022 года документы открываются в новом окне браузера со всеми возможностями, которые вы знаете из [!INCLUDE [prod_short](includes/prod_short.md)]. Вы можете переходить от документа к списку и обратно, открывать списки в Excel, отправлять документы на печать, а также запускать или предварительно просматривать связанные отчеты. У вас также есть все знакомые сочетания клавиш, когда вы открываете документы из Outlook.  
 
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/alternative-interfaces-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/alternative-interfaces-dynamics-365-business-central/index)
 
 ## <a name="see-also"></a>См. также
 

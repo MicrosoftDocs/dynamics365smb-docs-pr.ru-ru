@@ -11,12 +11,12 @@ ms.search.keywords: special price, alternate price, pricing
 ms.search.form: 7022, 7024
 ms.date: 06/03/2022
 ms.author: bholtorf
-ms.openlocfilehash: 2bf0a8881ea896c1728f02f07e5991b284a3ccae
-ms.sourcegitcommit: f1e272485a0e675d337a694aba3e35a5daf43920
+ms.openlocfilehash: 7705acac2b2c53bea96fee0431cb83702e46b0c6
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/09/2022
-ms.locfileid: "9129853"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9529600"
 ---
 # <a name="record-special-sales-prices-and-discounts"></a>Регистрация специальных цен продажи и скидок
 
@@ -221,7 +221,7 @@ ms.locfileid: "9129853"
 > [!TIP]  
 > Перед вводом данной информации рекомендуется подготовить общую структуру скидок, которые предполагается использовать. Это упростит настройку привязки клиентов к одной и той же странице скидки счета. Чем меньше страниц требуется настроить, тем быстрее можно вводить базовую информацию.
 
-Для тренировки по скидкам при продаже см. раздел [Настройка скидок для клиентов](/learn/modules/customer-discounts-dynamics-365-business-central/index) в Microsoft Learn.  
+Для тренировки по скидкам при продаже см. раздел [Настройка скидок для клиентов](/training/modules/customer-discounts-dynamics-365-business-central/index).
 
 ### <a name="calculating-invoice-discounts-on-sales"></a>Расчет скидок счета по продажам
 
@@ -276,7 +276,7 @@ ms.locfileid: "9129853"
 4. В поле **Скидка (%)** введите скидку по счету в процентах от суммы счета.
 5. Повторите шаги 5–7 для каждой валюты, в которой клиент будет получать отдельную скидку по счету.
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/manage-sales-prices-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/manage-sales-prices-dynamics-365-business-central/index)
 
 ## <a name="see-also"></a>См. также
 

@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: OneDrive, share, browser
 ms.date: 02/28/2022
 ms.author: jswymer
-ms.openlocfilehash: 7f630f8c13f692889f1d8526698d42633c42a4ee
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
+ms.openlocfilehash: c55abae59196d896b48a7b656e7fb7c4c7734fa8
+ms.sourcegitcommit: 2396dd27e7886918d59c5e8e13b8f7a39a97075d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8514599"
+ms.lasthandoff: 09/16/2022
+ms.locfileid: "9524498"
 ---
 # <a name="managing-onedrive-integration-with-business-central"></a>Управление интеграцией OneDrive с Business Central
 
@@ -53,7 +53,7 @@ ms.locfileid: "8514599"
 
 ## <a name="configuring-business-central-on-premises"></a>Настройка локальной версии Business Central
 
-Администратор должен установить соединение между локальной версией [!INCLUDE[prod_short](includes/prod_short.md)] и OneDrive. В отличие от [!INCLUDE[prod_short](includes/prod_short.md)] Online соединение не автоматическое. Если соединение не настроено, пользователи не могут использовать функции для OneDrive. 
+Администратор должен установить соединение между локальной версией [!INCLUDE[prod_short](includes/prod_short.md)] и OneDrive. В отличие от [!INCLUDE[prod_short](includes/prod_short.md)] Online соединение не автоматическое. Если соединение не настроено, пользователи не могут использовать функции для OneDrive.
 
 Локальная версия [!INCLUDE[prod_short](includes/prod_short.md)] может быть подключена только к OneDrive, размещенному Microsoft в облаке. Подключение локальной версии [!INCLUDE[prod_short](includes/prod_short.md)] к репозиторию Мои сайты сервера SharePoint не поддерживается.
 
@@ -64,7 +64,7 @@ ms.locfileid: "8514599"
 >* При экспорте любого отчета в файл он автоматически копирует файл в OneDrive, затем открывает его в Excel Online, Word Online или OneDrive. 
 >* Другие функции также могут автоматически открываться в OneDrive.
 
-### <a name="to-prepare-prod_short-on-premises-for-connecting-to-onedrive"></a>Подготовка локальной версии [!INCLUDE[prod_short](includes/prod_short.md)] для подключения к OneDrive
+### <a name="prepare-prod_short-on-premises-for-connecting-to-onedrive"></a>Подготовка локальной версии [!INCLUDE[prod_short](includes/prod_short.md)] для подключения к OneDrive
 
 <!-- 
 1. For the best experience Configure Azure Active Directory (AD) authentication.
@@ -86,12 +86,12 @@ ms.locfileid: "8514599"
 
 Вы выполняете эту работу на портале Azure. Обязательно скопируйте идентификатор приложения (клиента) и секрет клиента, используемые зарегистрированным приложением. Эта информация понадобится вам в следующем задании.
 
-Для получения дополнительной информации о регистрации приложения и настройке разрешений см. [Регистрация приложения в Azure Active Directory](/dynamics365/business-central/dev-itpro/administration/register-app-azure#register-an-application-in-azure-active-directory) в справке для ИТ-специалистов и разработчиков.
+Для получения дополнительной информации о предварительных требованиях, регистрации приложения и настройке разрешений см. разделе [Регистрация приложения в Azure Active Directory](/dynamics365/business-central/dev-itpro/administration/register-app-azure#register-an-application-in-azure-active-directory) в справке для ИТ-специалистов и разработчиков.
 
 > [!TIP]
 > Если вы уже зарегистрировали приложение в рамках интеграции с другим продуктом Microsoft, например Power BI, вы можете повторно использовать эту регистрацию приложения. В этом случае вам просто нужно установить разрешения SharePoint.
 
-### <a name="to-set-up-the-connection-in-prod_short-on-premises"></a>Чтобы установить соединение в локальной версии [!INCLUDE[prod_short](includes/prod_short.md)]
+### <a name="set-up-the-connection-in-prod_short-on-premises"></a>Настройка подключения в локальной версии [!INCLUDE[prod_short](includes/prod_short.md)]
 
 <!--
 > [!NOTE]
@@ -101,7 +101,7 @@ ms.locfileid: "8514599"
 > * NavUserPassword
 > * Azure Active Directory
 -->
-1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") введите **Настройка подключения Microsoft SharePoint**, а затем выберите связанную ссылку.
+1. Выберите значок ![Лампочка, которая открывает функцию «Что вы хотите сделать»](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Настройка подключения Microsoft SharePoint**, а затем выберите связанную ссылку.
 2. В поле **Описание** введите описание для подключения, например **OneDrive**.
 3. В поле **Папка** введите **Business Central**.
 4. В поле **Расположение** введите URL-адрес вашего OneDrive.
@@ -118,7 +118,9 @@ ms.locfileid: "8514599"
 > Страница настройки подключения SharePoint используется для настройки нескольких устаревших функций. В разделе **Общее** настраивается подключение к OneDrive, а раздел **Общие документы** перенаправляет файлы в SharePoint вместо этого. Устаревшая функция SharePoint будет убрана в ближайшем будущем. Мы рекомендуем не настраивать раздел **Общие документы**.
 
 ## <a name="see-also"></a>См. также
+
 [Интеграция Business Central и OneDrive для бизнеса](across-onedrive-overview.md)  
 [Открытие файлов Business Central в OneDrive](across-share-onedrive.md)  
-[Часто задаваемые вопросы по OneDrive](admin-onedrive-faq.md)
+[Часто задаваемые вопросы по OneDrive](admin-onedrive-faq.md)  
 
+[!INCLUDE[footer-include](includes/footer-banner.md)]

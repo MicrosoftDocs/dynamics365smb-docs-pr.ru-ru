@@ -10,12 +10,12 @@ ms.search.keywords: bank account balance, bank statement
 ms.search.form: 379, 388, 389, 1290, 1692, 10124
 ms.date: 06/14/2021
 ms.author: bholtorf
-ms.openlocfilehash: e74df84ac5119e87aecd6a15e270dfd50fb1b117
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
+ms.openlocfilehash: d12ac9b5aa8718c2445cd7a4054ff0549e5d8ada
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8514495"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9534944"
 ---
 # <a name="reconcile-bank-accounts"></a>Выверка банковских счетов
 
@@ -166,7 +166,7 @@ ms.locfileid: "8514495"
 >
 >Сальдо последней выписки хранится на банковском счете, чтобы свести к минимуму ошибки при выполнении банковских выверок, но его также можно редактировать, что позволяет выполнять банковские выверки в любом порядке. Это также означает, что если вы отмените выписку по счету, новое конечное сальдо может не быть сальдо последней выписки в следующей выписке по счету. Нет функции, которая позволяла бы перемещать сальдо вперед для всех последующих выписок по счету, поэтому помните об этом при использовании отмены. 
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/bank-reconciliation-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/bank-reconciliation-dynamics-365-business-central/index)
 
 ## <a name="see-also"></a>См. также
 

@@ -10,12 +10,12 @@ ms.search.keywords: quickstart
 ms.search.form: 1,
 ms.date: 03/14/2022
 ms.author: edupont
-ms.openlocfilehash: eb466433beecbd9cb41b13fab4cb011dd172cec3
-ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
+ms.openlocfilehash: e2ee4c75deebcca1a774a6472e08db12984114d2
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "9077115"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9528173"
 ---
 # <a name="company-information-quick-start"></a>Краткое руководство. Информация о компании
 
@@ -32,7 +32,7 @@ ms.locfileid: "9077115"
 
 После того, как вы закончите заполнение информации, вы можете закрыть страницу.  
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/create-new-companies-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/create-new-companies-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также  
 

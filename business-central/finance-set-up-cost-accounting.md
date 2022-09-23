@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.form: 1100, 1112, 1113, 1122
 ms.date: 06/16/2021
 ms.author: edupont
-ms.openlocfilehash: ceba015b16e990bc71e0217ed2f8ee85ca6ae1ec
-ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
+ms.openlocfilehash: 96d2542c719c7a93f4190294c7b4f42e0a11c68e
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "9074878"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9535052"
 ---
 # <a name="setting-up-cost-accounting"></a>Настройка учета затрат
 
@@ -195,7 +195,7 @@ ms.locfileid: "9074878"
 > [!NOTE]  
 >  Чтобы убедиться в том, что предопределенный центр затрат и объект затрат, настраиваемые в главной книге, автоматически перенесены в модуль учета затрат, установите флажок **Проверка разносок ГК** на странице "Настройка учета затрат".
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/cost-accounting-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/cost-accounting-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 

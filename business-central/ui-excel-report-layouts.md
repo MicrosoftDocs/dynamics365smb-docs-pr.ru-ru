@@ -10,12 +10,12 @@ ms.search.keywords: customized report, document layout, logo, personalize
 ms.search.form: 9650, 9652
 ms.date: 03/14/2022
 ms.author: jswymer
-ms.openlocfilehash: c0800642804b8e8c9e1dc629224bfac77b174500
-ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
+ms.openlocfilehash: 45f321afeb411eee4cb9f9dd215cefc393f58458
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "9075737"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9529573"
 ---
 # <a name="working-with-excel-layouts"></a>Работа с макетами Excel
 
@@ -135,7 +135,7 @@ ms.locfileid: "9075737"
 - Не добавляйте столбцы, если они не включены в набор данных отчета.
 - Листы можно размещать в любом порядке. Например, лист **Данные** может быть первым или последним.
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/change-documents-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/change-documents-dynamics-365-business-central/index)
 
 ## <a name="see-also"></a>См. также
 

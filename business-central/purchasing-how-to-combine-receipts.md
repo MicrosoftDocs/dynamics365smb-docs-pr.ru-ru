@@ -10,12 +10,12 @@ ms.search.keywords: ''
 ms.search.form: 136, 145, 146, 9308
 ms.date: 08/03/2022
 ms.author: edupont
-ms.openlocfilehash: 10543531b6ffc7d7543ae768a2410379e75b6c80
-ms.sourcegitcommit: bb9b2b4e693fa326a13d94e5e83f60e6c7ac5b68
+ms.openlocfilehash: dc1fa2e308ce0920815a5766d4e077a2eb0ce62a
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/06/2022
-ms.locfileid: "9227396"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9534539"
 ---
 # <a name="combine-receipts-on-a-single-invoice"></a>Объединение приходных накладных в один счет
 
@@ -48,7 +48,7 @@ ms.locfileid: "9227396"
 
 Повторите шаги с 1 по 3 для всех остальных затронутых документов, таких как общие заказы на покупку.
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/processing-invoices-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/processing-invoices-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 

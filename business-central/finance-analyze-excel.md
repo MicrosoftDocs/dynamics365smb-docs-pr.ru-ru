@@ -7,12 +7,12 @@ ms.search.keywords: accountant, accounting, financial report
 ms.search.form: 9027
 ms.date: 08/23/2022
 ms.author: edupont
-ms.openlocfilehash: 43b5a4181b50da65f25be3f3fc73a0e01fd885af
-ms.sourcegitcommit: 38b1272947f64a473de910fe81ad97db5213e6c3
+ms.openlocfilehash: 874234154c7a2ae2e8cf0444794a2b4fbdcbcf5e
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/29/2022
-ms.locfileid: "9361766"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9534215"
 ---
 # <a name="analyzing-financial-statements-in-microsoft-excel"></a>Анализ финансовых отчетов в Microsoft Excel
 
@@ -56,7 +56,7 @@ ms.locfileid: "9361766"
 
 Надстройка позволяет получать обновленные данные из [!INCLUDE [prod_short](includes/prod_short.md)], а также передавать изменения в [!INCLUDE [prod_short](includes/prod_short.md)]. Однако возможность передавать данные обратно в базу данных недоступна для финансовых отчетов, которые вы можете просматривать в Excel.  
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/configure-powerbi-excel-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/configure-powerbi-excel-dynamics-365-business-central/index)
 
 ## <a name="see-also"></a>См. также
 

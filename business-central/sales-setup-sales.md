@@ -10,12 +10,12 @@ ms.search.keywords: trade, sell, configure
 ms.search.form: 170, 172, 300, 301, 428, 456, 459, 1401
 ms.date: 06/23/2021
 ms.author: edupont
-ms.openlocfilehash: 4e34a21fc06c8c880e124db4040c088e4d235ffb
-ms.sourcegitcommit: 8b95e1700a9d1e5be16cbfe94fdf7b660f1cd5d7
+ms.openlocfilehash: 2346c246fdf0d9973f40e7d0073dee9004c68669
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2022
-ms.locfileid: "9460810"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9531355"
 ---
 # <a name="setting-up-sales"></a>Настройка продаж
 Прежде чем приступать к управлению процессами продажи, необходимо настроить правила и значения, которые определяют политики продажи в организации.
@@ -39,7 +39,7 @@ ms.locfileid: "9460810"
 |Ввести сведения о различных используемых перевозчиках, включая ссылки на их службу отслеживания пакетов.|[Настройка экспедиторов](sales-how-to-set-up-shipping-agents.md)|
 |Укажите отчеты по умолчанию, которые будут использоваться для различных типов документов.|[Выбор отчета в Business Central](across-report-selections.md)|
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/trade-get-started-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/paths/trade-get-started-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 [Продажи](sales-manage-sales.md)  

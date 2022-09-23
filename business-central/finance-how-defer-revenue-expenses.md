@@ -10,12 +10,12 @@ ms.search.keywords: postpone
 ms.search.form: 1700, 1701, 1702, 1703, 1704, 1705, 1706, 1707
 ms.date: 06/16/2021
 ms.author: edupont
-ms.openlocfilehash: 3e8240b2bd74d71e46937ae63ab6053b0f39528e
-ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
+ms.openlocfilehash: d7eac169dc75f81f1d696a4a1e7344b5235a83a3
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "9078730"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9529098"
 ---
 # <a name="defer-revenues-and-expenses"></a>Доходы и расходы будущих периодов
 
@@ -96,7 +96,7 @@ ms.locfileid: "9078730"
 2. На странице **Сводка РБП по продажам** в поле **Сальдо на дату** введите дату, по которую требуется просмотреть доходы будущих периодов.
 3. Нажмите кнопку **Предварительный просмотр**.
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/processing-invoices-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/processing-invoices-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 

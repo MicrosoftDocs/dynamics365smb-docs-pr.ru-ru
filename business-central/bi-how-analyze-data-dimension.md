@@ -10,12 +10,12 @@ ms.search.keywords: bi, power BI, analysis, KPI
 ms.search.form: 545, 555, 556, 557, 558, 9372, 9370, 9371
 ms.date: 06/14/2021
 ms.author: edupont
-ms.openlocfilehash: 5578a67baf1f6036c1a9f8804a9618f446e34006
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
+ms.openlocfilehash: b18bd7f224988f0e5357aa68088ea311ea0cd965
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8512443"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9530680"
 ---
 #  <a name="analyze-data-by-dimensions"></a>Анализ данных по измерениям
 В финансовом анализе измерением называются данные, которые можно добавить в операции в качестве своего рода маркера. Эти данные используются для группировки операций со сходными характеристиками, такими как клиенты, регионы, товары или менеджеры, и удобного извлечениях этих групп для анализа. Измерения могут использоваться в операциях в журналах, документах и бюджетах. Термин «измерение» указывает на то, как именно происходит анализ. Например, двумерный анализ может использоваться для просмотра продаж по областям. Однако, создание операций с использованием более двух измерений позволяет осуществлять более сложный анализ, например анализ продаж по кампаниям по сбыту по группам клиентов по областям. Дополнительные сведения см. в разделе [Работа с измерениями](finance-dimensions.md).
@@ -75,7 +75,7 @@ ms.locfileid: "8512443"
 > [!NOTE]  
 >   Чтобы одновременно изменить некоторые или все аналитические отчеты, воспользуйтесь пакетным заданием **Обновление представлений анализа**.  
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/dimensions-financial-reports-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/dimensions-financial-reports-dynamics-365-business-central/index)
 
 ## <a name="see-also"></a>См. также
 [Бизнес-аналитика](bi.md)  

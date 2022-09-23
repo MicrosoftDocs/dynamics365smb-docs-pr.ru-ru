@@ -10,12 +10,12 @@ ms.search.keywords: repair, service
 ms.search.form: 5642, 5625
 ms.date: 06/15/2021
 ms.author: edupont
-ms.openlocfilehash: 18be12c81ddfebd07c1311e6a0f338712f842f21
-ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
+ms.openlocfilehash: db722d702dbfa6499c5ae259313af8915b95d51c
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "9078208"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9534242"
 ---
 # <a name="maintain-fixed-assets"></a>Обслуживание основных средств
 
@@ -90,7 +90,7 @@ ms.locfileid: "9078208"
 2. Заполните соответствующим образом поля.
 3. Нажмите кнопку **Печать** или **Просмотр**.
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/manage-fixed-assets-maintenance-insurances/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/paths/manage-fixed-assets-maintenance-insurances/)
 
 ## <a name="see-also"></a>См. также
 

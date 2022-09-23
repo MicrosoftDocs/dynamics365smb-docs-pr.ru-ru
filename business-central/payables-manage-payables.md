@@ -10,12 +10,12 @@ ms.search.keywords: vendor payment, creditor, debt, balance due, AP
 ms.search.form: 161, 254, 256, 347, 574, 599, 9002
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 7365ca162baf7aacb0cac16d5eee3fdec0e7c098
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
+ms.openlocfilehash: c3049cc4dd488a7ff7648d2a11d0371ac463daa6
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8523349"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9531446"
 ---
 # <a name="managing-payables"></a>Управление кредиторской задолженностью
 
@@ -35,7 +35,7 @@ ms.locfileid: "8523349"
 |Проверьте правильность переоценки запасов, назначив дополнительную себестоимость товаров, например за транспортировку, физическое обращение, страхование и другие расходы, которые вы несли при покупке.|[Использование товарных издержек для учета дополнительных торговых расходов](payables-how-assign-item-charges.md)|
 |Возмещайте личные средства, затраченные сотрудниками на служебные цели, путем платежей на их банковские счета.|[Регистрация и возмещение расходов сотрудников](finance-how-record-reimburse-employee-expenses.md)|
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/process-customer-vendor-payments-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/paths/process-customer-vendor-payments-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 [Покупки](purchasing-manage-purchasing.md)  

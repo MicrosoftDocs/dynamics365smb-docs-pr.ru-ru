@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/11/2021
 ms.author: edupont
-ms.openlocfilehash: 18a9d4ba7e2865e41d660261a598b1b755c68023
-ms.sourcegitcommit: f1e272485a0e675d337a694aba3e35a5daf43920
+ms.openlocfilehash: 988e3ad6185e06bbe82f21005e64ad9bada051a5
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/09/2022
-ms.locfileid: "9129716"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9534998"
 ---
 # <a name="create-workflows-from-workflow-templates"></a>Создание рабочих процессов из шаблонов рабочих процессов
 
@@ -35,7 +35,7 @@ ms.locfileid: "9129716"
    Откроется страница **Рабочий процесс** для нового рабочего процесса, содержащее всю информацию из выбранного шаблона. Значение в поле **Код** дополняется символами, например "-01", которые указывают, что это первый рабочий процесс, созданный на основе шаблона рабочего процесса.  
 4. Для продолжения создания потока операций измените шаги рабочего процесса или добавьте новые. Дополнительные сведения см. в разделе [Создание рабочих процессов](across-how-to-create-workflows.md).  
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/create-workflows/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/create-workflows/)
 
 ## <a name="see-also"></a>См. также
 

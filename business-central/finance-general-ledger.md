@@ -10,12 +10,12 @@ ms.search.keywords: analysis, history, track
 ms.search.form: 18, 20, 37, 65, 99, 312, 314, 313, 395, 552, 569, 570, 634, 790, 791, 1158
 ms.date: 08/23/2022
 ms.author: edupont
-ms.openlocfilehash: 29f66fae0413bb0f8a757cfceedce8e0504e8686
-ms.sourcegitcommit: 38b1272947f64a473de910fe81ad97db5213e6c3
+ms.openlocfilehash: 1d246e342d286e75da5aacaf1e6a305c5d0559e4
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/29/2022
-ms.locfileid: "9362280"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9534647"
 ---
 # <a name="understanding-the-general-ledger-and-the-chart-of-accounts"></a>Принципы работы с главной книгой и планом счетов
 
@@ -95,7 +95,7 @@ ms.locfileid: "9362280"
 
 В небольшой организации, такой как демонстрационная компания CRONUS, большинство пользователей могут редактировать план счетов. Исключением являются пользователи с лицензией ЧЛЕН ГРУППЫ. Однако в более крупных организациях обычно используются роли и разрешения для ограничения доступа к редактированию плана счетов. Если вы администратор или у вас есть роль **Бизнес-руководитель** или **Бухгалтер**, вы можете контролировать разрешения пользователей, чтобы предоставлять людям доступ к соответствующим таблицам. Дополнительные сведения см. в разделе [Получение обзора разрешений пользователя](ui-define-granular-permissions.md#to-get-an-overview-of-a-users-permissions).  
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/business-central-configure-general-ledger-setup/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/business-central-configure-general-ledger-setup/)
 
 ## <a name="see-also"></a>См. также
 

@@ -6,12 +6,12 @@ ms.topic: get-started
 ms.custom: template-trial-faq
 ms.author: edupont
 ms.date: 02/23/2022
-ms.openlocfilehash: 995d7277d67b3db4360210e80b417b8a62d6b1a8
-ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
+ms.openlocfilehash: 43dba5e57a3262d9803255c146285ca1aa3f4159
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "9077089"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9535723"
 ---
 # <a name="dynamics-365-business-central-trial-faq"></a>Вопросы и ответы по пробной версии Dynamics 365 Business Central
 
@@ -49,7 +49,7 @@ ms.locfileid: "9077089"
 
 Это невозможно. Если вы случайно удалили образцы данных, попросите администратора создать новую среду песочницы. Дополнительные сведения см. в разделе [Рабочая среда и среда песочницы](/dynamics365/business-central/dev-itpro/administration/environment-types) в документации для администраторов (только на английском).  
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/trial-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/trial-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 

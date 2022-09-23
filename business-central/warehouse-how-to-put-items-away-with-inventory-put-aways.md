@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/25/2021
 ms.author: edupont
-ms.openlocfilehash: 4d90980030453dd2b152d2b85901a9db12cadf2f
-ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
+ms.openlocfilehash: ce664efeb299072e73c2b25ea87ed28596164015
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "9078314"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9528495"
 ---
 # <a name="put-items-away-with-inventory-put-aways"></a>Размещение товаров с помощью складского размещения
 
@@ -77,7 +77,7 @@ ms.locfileid: "9078314"
 
 В процессе учета будет учтена приемка или, для производственных заказов, выход размещенных строк документа-источника, а если на складе используются ячейки, то при учете будут также созданы складские операции, чтобы учесть изменения количества в ячейках.
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/receive-put-away-items/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/receive-put-away-items/)
 
 ## <a name="see-also"></a>См. также
 

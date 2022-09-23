@@ -10,12 +10,12 @@ ms.workload: na
 ms.search.keywords: sandbox, demo, develop
 ms.date: 12/20/2021
 ms.author: solsen
-ms.openlocfilehash: c1e576d24e9a9ca3b81e58e534449729776c6fa1
-ms.sourcegitcommit: f1e272485a0e675d337a694aba3e35a5daf43920
+ms.openlocfilehash: f921660e82bb288b64a0ab559290c7645f1e9007
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/09/2022
-ms.locfileid: "9130178"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9529735"
 ---
 # <a name="sandbox-environments-in-prod_short"></a>Среды-песочницы в [!INCLUDE[prod_short](includes/prod_short.md)]
 
@@ -28,7 +28,7 @@ ms.locfileid: "9130178"
 
 Например, если вы хотите создать "песочницу" для сравнительного тестирования, ваш администратор может создать выделенную среду в центре администрирования. Дополнительные сведения см. в разделе [Рабочая среда и среда песочницы](/dynamics365/business-central/dev-itpro/administration/environment-types) в документации для разработчиков и администраторов.  
 
-Вы также можете безопасно использовать песочницы для обучения, например, для прохождения пути обучения от [Microsoft Learn](/learn/dynamics365/business-central?WT.mc_id=dyn365bc_landingpage-docs), потому что это безопасная среда для экспериментов. Если что-то пойдет не так, вы просто удалите песочницу и начнете заново.  
+Вы также можете безопасно использовать песочницы для обучения, например, для прохождения пути обучения с сайта [Обучение Microsoft](/training/dynamics365/business-central?WT.mc_id=dyn365bc_landingpage-docs), потому что это безопасная среда для экспериментов. Если что-то пойдет не так, вы просто удалите песочницу и начнете заново.  
 
 Когда вы закончите, вы можете удалить песочницу с помощью центра администрирования.  
 
@@ -70,7 +70,7 @@ When the assisted setup guide completes, you can start exploring the new company
 
 <!-- ![In-client Designer.](./media/across-sandbox/sandbox-inclient-designer.png) -->
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/admin-online-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/admin-online-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 

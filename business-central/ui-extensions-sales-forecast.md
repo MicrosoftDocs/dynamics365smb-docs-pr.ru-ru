@@ -10,12 +10,12 @@ ms.search.keywords: app, add-in, manifest, customize, budget
 ms.search.form: 1850, 1851, 1853,
 ms.date: 12/20/2021
 ms.author: edupont
-ms.openlocfilehash: fd48dacda54a5a81a7bb3a734201da31e8eb5453
-ms.sourcegitcommit: 38b1272947f64a473de910fe81ad97db5213e6c3
+ms.openlocfilehash: ad8a1b1945331c9db4ef326bdf2bb36e68b35aaa
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/29/2022
-ms.locfileid: "9362253"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9533513"
 ---
 # <a name="the-sales-and-inventory-forecast-extension"></a>Расширения "Прогноз продаж и запасов"
 
@@ -64,13 +64,13 @@ ms.locfileid: "9362253"
 6. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Настройка прогноза продаж и запасов**, а затем выберите связанную ссылку.  
 7. Разверните экспресс-вкладку **Общие**, затем заполните поля URL-адреса API и кода API.  
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/use-sales-inventory-forecast-extension/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/use-sales-inventory-forecast-extension/)
 
 ## <a name="see-also"></a>См. также
 
 [Продажи](sales-manage-sales.md)  
 [Запасы](inventory-manage-inventory.md)  
 [Настройка [!INCLUDE[prod_short](includes/prod_short.md)] с помощью расширений](ui-extensions.md)  
-[Использование искусственного интеллекта в Microsoft Dynamics 365 Business Central (Microsoft Learn)](/learn/paths/use-artificial-intelligence/)  
+[Использование искусственного интеллекта в Microsoft Dynamics 365 Business Central](/training/paths/use-artificial-intelligence/)  
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

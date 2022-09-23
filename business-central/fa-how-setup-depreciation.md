@@ -6,12 +6,12 @@ ms.topic: conceptual
 ms.search.keywords: write down
 ms.date: 06/28/2021
 ms.author: edupont
-ms.openlocfilehash: 887a8f94db8f289769c2fba7a1938d7b7960e400
-ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
+ms.openlocfilehash: c1912cf6c6e755949e8aa32b749145efc8b70783
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "9079198"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9534674"
 ---
 # <a name="set-up-fixed-asset-depreciation"></a>Настройка амортизации основных средств
 
@@ -95,7 +95,7 @@ ms.locfileid: "9079198"
 
 При выборе данного поля во время выполнения пакетного задания «Расчет амортизации» будет использоваться календарный год, состоящий из 365 дней, причем количество дней в каждом из месяцев будет соответствовать календарю. Единственным исключением является февраль високосного года, для которого в пакетном задании будет указываться не 29 дней, а 28. Поэтому все года, включая високосные, рассматриваются, как состоящие из 365 дней.
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/configure-depreciation-books/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/configure-depreciation-books/)
 
 ## <a name="see-also"></a>См. также
 

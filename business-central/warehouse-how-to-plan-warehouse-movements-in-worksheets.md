@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 4454fd40daffbaa5d551635c406f10c70009d3bf
-ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
+ms.openlocfilehash: 1ec80435211b139868bf62ddf0ce269a802d2abc
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "9076075"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9534053"
 ---
 # <a name="plan-warehouse-movements-in-worksheets"></a>Планирование складских перемещений в журналах
 
@@ -67,7 +67,7 @@ ms.locfileid: "9076075"
 6.  Удалите незаполненные строки, которые служили для информационных целей.  
 7.  Когда в строках журнала будут точно отражено, каким образом работник склада должен выполнять перемещение, выберите действие **Создать передвижение**, чтобы создать инструкции для сотрудника.  
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/move-items/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/move-items/)
 
 ## <a name="see-also"></a>См. также
 

@@ -10,12 +10,12 @@ ms.search.keywords: kit, kitting
 ms.search.form: 900, 901, 902, 903, 904, 907, 910, 916, 920, 921, 922, 923, 940, 941, 942, 930, 931, 932, 914, 915, 905
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 0fa9923c9bdec0c5f70ef07977cb7bf87550ab3a
-ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
+ms.openlocfilehash: 79d7e9ac5e3a71002af168ee02feef1a76671fce
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "9078808"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9528416"
 ---
 # <a name="quote-an-assemble-to-order-sale"></a>Предложения продажи сборки на заказ
 
@@ -40,7 +40,7 @@ ms.locfileid: "9078808"
 6.  При регулировке строк сборочного заказа в соответствии с предложением закройте окно **Строки сборки на заказ**, чтобы вернуться на страницу **Предложение**.  
 7.  Если клиент принимает предложение, создайте заказ на продажу оцененного сборочного элемента. Дополнительные сведения см. в разделе [Создание предложений по продаже](sales-how-make-offers.md). Связанное предложение по сборке и все настройки связаны с новым заказом на продажу для подготовки сборки товара или товаров, которые должны быть проданы.  
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/assemble-to-order-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/assemble-to-order-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 

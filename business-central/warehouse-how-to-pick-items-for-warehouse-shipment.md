@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 730308e265f7a3fef3ad4a8069ea3f5c6bf0a7d2
-ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
+ms.openlocfilehash: 23a730f79e3b5969243a1b176152496b6e20bdd2
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "9078392"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9534728"
 ---
 # <a name="pick-items-for-warehouse-shipment"></a>Подбор товаров для складской отгрузки
 
@@ -75,7 +75,7 @@ ms.locfileid: "9078392"
 
 > В этом случае количество сборки на заказ обрабатывается как описано в этом разделе, а количество запасов обрабатывается как любая другая обычные строка расходной накладной. Дополнительные сведения о сценариях комбинаций см. в разделе [Сборка на заказ и сборка на склад](assembly-assemble-to-order-or-assemble-to-stock.md).
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/pick-ship-items-warehouse/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/pick-ship-items-warehouse/)
 
 ## <a name="see-also"></a>См. также
 

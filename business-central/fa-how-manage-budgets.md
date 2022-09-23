@@ -10,12 +10,12 @@ ms.search.keywords: forecast
 ms.search.form: 5610, 5611
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: c23881a80761a9c5ffe229b6299c320c39fc3f85
-ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
+ms.openlocfilehash: a39ff86ea1bc8b3a2e772b8b3b557cdf863f8d7f
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "9079224"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9528363"
 ---
 # <a name="manage-budgets-for-fixed-assets"></a>Управление бюджетами основных средств
 
@@ -60,7 +60,7 @@ ms.locfileid: "9079224"
 4. Оставьте экспресс-вкладку **Основное средство** пустой, если нужно включить все основные средства. В поле **Бюджетируемое ОС** можно ввести **Нет** для исключения бюджетируемых основных средств или **Да** для просмотра только бюджетируемых основных средств.
 5. Нажмите кнопку **Печать** или **Просмотр**.
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/budget-fixed-assets/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/budget-fixed-assets/)
 
 ## <a name="see-also"></a>См. также
 

@@ -10,12 +10,12 @@ ms.search.keywords: dimension, correction, correct, business intelligence
 ms.search.form: 116, 540, 2588
 ms.date: 09/27/2021
 ms.author: bholtorf
-ms.openlocfilehash: 82f71f3fafb0b977dde28033443f4585aeaced52
-ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
+ms.openlocfilehash: 2f9662df035851c1700a3b5ca01b71a418832dbf
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "9075425"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9532840"
 ---
 # <a name="troubleshooting-and-correcting-dimensions"></a>Устранение неполадок и исправление измерений
 
@@ -122,7 +122,7 @@ ms.locfileid: "9075425"
 
 После исправления измерений ваши данные для учета затрат будут рассинхронизированы. В учете затрат используются измерения для агрегирования сумм для центров затрат и объектов затрат, а также для выполнения распределения затрат. Изменение измерений для записей главной книги, вероятно, будет означать, что вы повторно запустите свои модели учета затрат. Нужно ли вам просто удалить несколько регистров затрат и повторно запустить распределения, или вам нужно удалить все и повторно запустить все ваши модели, зависит от данных, которые были обновлены, и от того, как настроены ваши возможности учета затрат. Необходимо вручную определить, где корректировки измерений повлияют на учет затрат, и где необходимы обновления. [!INCLUDE[prod_short](includes/prod_short.md)] в настоящее время не предоставляет автоматизированного способа сделать это.
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/dimensions-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/dimensions-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 

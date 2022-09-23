@@ -6,12 +6,12 @@ ms.service: dynamics365-business-central
 ms.topic: article
 ms.date: 07/04/2022
 ms.author: a-reishima
-ms.openlocfilehash: 1839f54de2382ad5b7d8b6b936181e105a56e06b
-ms.sourcegitcommit: 5560a49ca4ce85fa12e50ed9e14de6d5cba5f5c3
+ms.openlocfilehash: 8c6faa8adadb62449d1067f877b40176bc15d034
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/13/2022
-ms.locfileid: "9144413"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9529635"
 ---
 # <a name="set-up-vendor-bank-accounts"></a>Настройка банковских счетов поставщика
 
@@ -32,7 +32,7 @@ ms.locfileid: "9144413"
 2. Открытие карточки поставщика.
 3. На экспресс-вкладке **Платежи** выберите банковский счет поставщика по умолчанию в поле **Код предпочитаемого банковского счета**.
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/cash-management-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/cash-management-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 

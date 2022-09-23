@@ -10,12 +10,12 @@ ms.search.keywords: purchase fixed asset
 ms.search.form: 5605, 5551, 5600, 5628, 5629, 5633
 ms.date: 12/03/2021
 ms.author: edupont
-ms.openlocfilehash: 79705da9117c8b201b4f652351771210f97f3cb7
-ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
+ms.openlocfilehash: 92ef679d915954425eddbe5caf6674e0b42a396a
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "9075008"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9529897"
 ---
 # <a name="acquire-fixed-assets"></a>Приобрести основные средства
 
@@ -105,7 +105,7 @@ ms.locfileid: "9075008"
 > [!NOTE]
 > Если для основного средства существует ликвидационная стоимость, то это значение будет использоваться при учете амортизации вместо значения в поле **Конечная балансовая стоимость** на странице **Книги амортизации ОС**. Для получения дополнительной информации см. [Управление конечной балансовой стоимостью](fa-how-depreciate-amortize.md#to-manage-the-ending-book-value).
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/purchase-fixed-assets/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/purchase-fixed-assets/)
 
 ## <a name="see-also"></a>См. также
 

@@ -10,12 +10,12 @@ ms.search.keywords: analysis, reporting, financial report, business intelligence
 ms.search.form: 9901
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 02493bee3940bf1416c2485b0b45016edbca9baa
-ms.sourcegitcommit: f9143302b8271f5924a027cacdf29dc37c95f4c6
+ms.openlocfilehash: adfb0a98f79f3e32656e6e9f6b95172e6a83dd39
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "8655180"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9529951"
 ---
 # <a name="export-your-business-data-to-excel"></a>Экспорт бизнес-данных в Excel
 
@@ -78,7 +78,7 @@ Excel — мощный инструмент для работы с данным�
 
 Дополнительные сведения см. в разделе [Получение обзора разрешений пользователя](ui-define-granular-permissions.md#to-get-an-overview-of-a-users-permissions).
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/configure-powerbi-excel-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/configure-powerbi-excel-dynamics-365-business-central/index)
 
 ## <a name="see-also"></a>См. также
 [Отмена подписки [!INCLUDE[prod_short](includes/prod_short.md)]](admin-cancel.md)  

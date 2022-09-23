@@ -10,12 +10,12 @@ ms.search.keywords: write down
 ms.search.form: 5610, 5611, 5629, 5633, 5659, 5660, 5663, 5619, 5666
 ms.date: 06/15/2021
 ms.author: edupont
-ms.openlocfilehash: 8defe24ef55db891a630d1bce647382286901eaa
-ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
+ms.openlocfilehash: ccd446b8e5c814127a1b7192e1ec2bfe77b80750
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "9074982"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9530653"
 ---
 # <a name="depreciate-or-amortize-fixed-assets"></a>Амортизация основных средств
 
@@ -121,7 +121,7 @@ ms.locfileid: "9074982"
 
 Скопированные строки создаются в журнале ГК учета основных средств или в журнале основных средств в зависимости от того, включена ли интеграция главной книги для копируемого журнала амортизации.  
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/calculate-post-depreciations/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/calculate-post-depreciations/)
 
 ## <a name="see-also"></a>См. также
 

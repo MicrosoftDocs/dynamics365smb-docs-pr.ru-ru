@@ -10,12 +10,12 @@ ms.search.keywords: ''
 ms.search.form: 1123
 ms.date: 06/16/2021
 ms.author: edupont
-ms.openlocfilehash: 92f44504f97c4203585486fc937ed3bb560ad5d4
-ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
+ms.openlocfilehash: cee2ced8b51de66de847c0132e8ce35a08b7b229
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "9076543"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9532165"
 ---
 # <a name="terminology-in-cost-accounting"></a>Терминология в учете затрат
 
@@ -49,7 +49,7 @@ ms.locfileid: "9076543"
 |Переменные затраты|Переменные затраты — это расходы, которые меняются пропорционально деятельности компании. Переменные затраты — это сумма предельной себестоимости всех производимых товаров. Постоянные и переменные затраты составляют два компонента общих затрат.|  
 |Вариант|Вариант используется как необязательная определяемая пользователем метка для распределений. Назначение этикетки — фильтрация групп распределения.|  
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/use-cost-accounting-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/paths/use-cost-accounting-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 

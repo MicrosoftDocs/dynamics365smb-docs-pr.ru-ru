@@ -10,12 +10,12 @@ ms.search.keywords: accounting, auditing, bookkeeping
 ms.search.form: 257, 259, 279
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 08545d1bb23b8a70d10c6114f4840ce186aa94cc
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
+ms.openlocfilehash: ab140d214c25735bf8158a2255f8f35ba246442c
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8515567"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9535160"
 ---
 # <a name="setting-up-source-codes-and-reason-codes-for-audit-trails"></a>Настройка кодов источников и кодов причин для журналов аудита
 
@@ -83,9 +83,9 @@ ms.locfileid: "8515567"
 
 2. В заголовке документа продажи или покупки введите код в поле **Код причины**.
 
-При учете счета код причины копируется в каждую операцию главной книги, клиента и поставщика. Поскольку все строки учитываются как одна операция, задать различные коды причин для отдельных строк покупок и продаж нельзя.
+При учете счета код причины копируется в каждую операцию главной книги, клиента и поставщика. Поскольку все строки учтены как одна операция, нет возможности задать различные коды причин для отдельных строк покупок и продаж.
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/set-up-financial-management-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/paths/set-up-financial-management-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 

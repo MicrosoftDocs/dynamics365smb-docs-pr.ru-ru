@@ -3,9 +3,9 @@
 # Начало работы
 ## [Обзор бизнес-функций](across-business-functionality.md)
 <!--### [Get Ready for Doing Business](ui-get-ready-business.md)-->
-## Сведения
+## Изучение
 ### [Учебный каталог Business Central](readiness/readiness-learning-catalog.md)
-### [Business Central в Microsoft Learn](/learn/dynamics365/business-central?WT.mc_id=dyn365bc_landingpage-docs)
+### [Обучение Business Central](/training/dynamics365/business-central?WT.mc_id=dyn365bc_landingpage-docs)
 ### Пошаговые руководства по бизнес-процессам
 #### [Доступные пошаговые руководства](walkthrough-business-process-walkthroughs.md)
 #### [Пошаговое руководство. Проведение кампании по продажам](walkthrough-conducting-a-sales-campaign.md)

@@ -10,12 +10,12 @@ ms.search.keywords: money flow, expense and income, liquidity, cash receipts min
 ms.search.form: 846, 847, 849, 851, 855, 862, 869, 1818
 ms.date: 06/16/2021
 ms.author: bholtorf
-ms.openlocfilehash: a79299d835b7a5af06edf16119f037cdaf610311
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
+ms.openlocfilehash: c20a7e2a53974d17b8571f0a4d69d6298804b064
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8515619"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9534161"
 ---
 # <a name="setting-up-cash-flow-analysis"></a>Настройка анализа движения денежных средств
 Если вам требуется помощь в решении относительно того, что делать с кассой, просмотрите диаграммы в ролевом центре бухгалтера:  
@@ -124,7 +124,7 @@ ms.locfileid: "8515619"
 6. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Настройка движения денежных средств**, а затем выберите соответствующую ссылку.  
 7. Разверните экспресс-вкладку **ИИ Azure**, а затем заполните соответствующие поля.  
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/forecast-cash-flow-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/forecast-cash-flow-dynamics-365-business-central/index)
 
 ## <a name="see-also"></a>См. также
 

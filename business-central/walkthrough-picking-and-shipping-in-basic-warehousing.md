@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/24/2021
 ms.author: edupont
-ms.openlocfilehash: 0594134585fe85540c7ed87e1588fd218b7a561a
-ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
+ms.openlocfilehash: baa47a48cf7813a704666cb130eddc0adc6f4923
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "9074462"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9531949"
 ---
 # <a name="walkthrough-picking-and-shipping-in-basic-warehouse-configurations"></a>Пошаговое руководство. Подбор и отгрузка в основных складских конфигурациях
 
@@ -144,7 +144,7 @@ To complete this walkthrough, you will need:
 
     Теперь 30 фонарей Амстердам зарегистрированы как подобранные из ячеек С-01-0001 и С-01-0002, и создана отрицательная операция товарной книги, отражающая учтенную расходную накладную продажи.  
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/pick-ship-items-business-central/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/paths/pick-ship-items-business-central/)
 
 ## <a name="see-also"></a>См. также
 

@@ -6,12 +6,12 @@ ms.topic: conceptual
 ms.search.form: 1
 ms.date: 04/20/2022
 ms.author: edupont
-ms.openlocfilehash: 5de13d4f6e625db0d0871a3f7a94f62d726abc8f
-ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
+ms.openlocfilehash: 791d2b5c91014b2b9ce836854285ea8f0f32df37
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "9077714"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9533945"
 ---
 # <a name="company-information-overview"></a>Обзор информации о компании
 
@@ -35,7 +35,7 @@ ms.locfileid: "9077714"
 
 Пользовательский интерфейс по умолчанию в пробной версии [!INCLUDE [prod_short](includes/prod_short.md)] не раскрывает все возможности. Вы можете включить полный интерфейс на странице **Информация о компании**. Дополнительные сведения см. в разделе [Изменение набора отображаемых функций](ui-experiences.md).  
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/create-new-companies-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/create-new-companies-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 

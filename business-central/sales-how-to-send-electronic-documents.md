@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/23/2021
 ms.author: edupont
-ms.openlocfilehash: dd7914ba66eef12cb092e716836ef44276f2128d
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: b7054dcdedbb86edad111297b59347a6aa60fc2a
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8130076"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9535777"
 ---
 # <a name="send-electronic-documents"></a>Отправка электронных документов
 
@@ -49,7 +49,7 @@ ms.locfileid: "8130076"
     > [!NOTE]  
     >  Можно также отправить учтенный счет на продажу в виде электронного документа. Процедура аналогична описанной в этом разделе для документов неучтенных продаж. На странице **Учтенный счет продажи** выберите действие **Журнал действий** для просмотра статуса электронного документа.  
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/electronic-documents-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/electronic-documents-dynamics-365-business-central/index)
 
 ## <a name="see-also"></a>См. также
 

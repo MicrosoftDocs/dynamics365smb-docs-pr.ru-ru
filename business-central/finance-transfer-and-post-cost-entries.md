@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.form: 1100, 1103, 1104, 1108, 1113, 1135
 ms.date: 06/16/2021
 ms.author: edupont
-ms.openlocfilehash: f3743e49795f8673bc8fe24e9def11686863954f
-ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
+ms.openlocfilehash: b822ed9b6a9fa6d784d8f2846d74cd0c98550b0d
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "9078078"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9532867"
 ---
 # <a name="transferring-and-posting-cost-entries"></a>Перемещение и операции учета затрат
 
@@ -104,7 +104,7 @@ ms.locfileid: "9078078"
 
 В таблице **Регистр затрат** [!INCLUDE[prod_short](includes/prod_short.md)] создает запись с перемещением источника из Главной книги. Записи операций записи с номерами первой и последней операции, которые перенесены, в дополнение к номерам первой и последней операции затрат, которые созданы.
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/transfer-gl-entries-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/transfer-gl-entries-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 

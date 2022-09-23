@@ -7,12 +7,12 @@ ms.search.keywords: customize, personalize, personalization, hide columns, remov
 ms.search.form: 9171
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: bbb912f0e9e6718ba625fba4dc05fae19f4f2ebb
-ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
+ms.openlocfilehash: 0c2b40bd42149991bf19b670c59582c260f235f7
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "9076205"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9531571"
 ---
 # <a name="customize-pages-for-profiles"></a>Настройка страниц для профилей
 
@@ -68,7 +68,7 @@ ms.locfileid: "9076205"
 
 Макет на выбранных страницах корректируется с учетом внесенных вами изменений.
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/tailor-roles-design-ui/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/paths/tailor-roles-design-ui/)
 
 ## <a name="see-also"></a>См. также
 

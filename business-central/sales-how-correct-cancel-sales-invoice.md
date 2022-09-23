@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: undo, credit memo, return
 ms.date: 06/23/2021
 ms.author: edupont
-ms.openlocfilehash: 00be9cdf2e76df93f144662e70bb8558e9b12a2e
-ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
+ms.openlocfilehash: 95cf36a9f48b3452bcc28e049c12ae310c58e2ee
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "9076933"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9531031"
 ---
 # <a name="correct-or-cancel-unpaid-sales-invoices"></a>Исправление или отмена неоплаченных счетов продажи
 
@@ -67,7 +67,7 @@ ms.locfileid: "9076933"
     Автоматически создается кредит-нота продажи, которая учитывается для аннулирования исходного учтенного счета продажи.
 5. Выберите действие **Показать корректирующую кредит-ноту**, чтобы просмотреть учтенную кредит-ноту продажи, которая аннулирует исходный учтенный счет продажи.
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/ship-invoice-items-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/ship-invoice-items-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 

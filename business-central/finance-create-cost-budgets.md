@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.form: 1115, 1116, 1117, 1118, 1119, 1120, 1121, 1131, 1132, 1133
 ms.date: 06/16/2021
 ms.author: edupont
-ms.openlocfilehash: 171e046e68cd3eaabbb10b0e1aeacb508cbc76b4
-ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
+ms.openlocfilehash: 71ed144297e1f7b98b5fcb7252a216258719f68a
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "9078130"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9533648"
 ---
 # <a name="creating-cost-budgets"></a>Создание бюджетов затрат
 
@@ -32,7 +32,7 @@ ms.locfileid: "9078130"
 |См. регистры бюджета затрат и записи бюджета затрат.|Страница **Журналы бюджета расходов**|  
 |Печать сравнений бюджета затрат с использованием различных отчетов.|Отчет **Баланс/Бюджет затрат**<br /><br /> Отчет **Ведомость учета затрат/Бюджет**<br /><br /> отчет **Бюджет затрат по центрам затрат**<br /><br /> Отчет **Бюджет затрат по объектам затрат**|  
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/cost-accounting-reports-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/cost-accounting-reports-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 

@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: sales rep
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 99f23e497c969e9a9461928d1e550605f6db1eae
-ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
+ms.openlocfilehash: 6a1254cb18546556b977eb009a819806e62ee2ca
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "9076361"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9531652"
 ---
 # <a name="set-up-salespeople"></a>Настройка менеджеров по продажам
 
@@ -31,7 +31,7 @@ ms.locfileid: "9076361"
 
 Менеджера можно использовать для различных работ по управлению и маркетингу. Например, можно назначить задачи менеджерам по продажам, чтобы задачи были связаны с возможностями продаж, назначенными конкретному менеджеру. Дополнительные сведения см. в разделе [Настройка циклов продаж и этапов циклов](marketing-how-setup-opportunity-sales-cycles-stages.md).
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/trade-master-data-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/trade-master-data-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 

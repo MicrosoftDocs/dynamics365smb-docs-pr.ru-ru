@@ -10,12 +10,12 @@ ms.search.keywords: payment due, debt, overdue, fee, charge
 ms.search.form: 6, 494
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 565654d8f7a4dd38aceccbcc39e722bad89bf67e
-ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
+ms.openlocfilehash: 27378e1c2c12077bdb04aa9f1e2b93f27fe048dc
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "9077610"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9528281"
 ---
 # <a name="set-up-finance-charge-terms"></a>Настройка процентных ставок
 
@@ -68,7 +68,7 @@ ms.locfileid: "9077610"
 |%8|Содержимое поля **Код валюты** в заголовке процент-ноты|  
 |%9|Содержимое поля **Дата учета** в заголовке процент-ноты|  
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/send-memos-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/send-memos-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 

@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 12/03/2021
 ms.author: edupont
-ms.openlocfilehash: 1c26882670321a3a2957302413f6f7ebd11a1f6d
-ms.sourcegitcommit: 38b1272947f64a473de910fe81ad97db5213e6c3
+ms.openlocfilehash: aaa277f97d1abe36fdffbb97212f1498723e116c
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/29/2022
-ms.locfileid: "9362311"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9535536"
 ---
 # <a name="walkthrough-setting-up-and-invoicing-sales-prepayments"></a>Пошаговое руководство. Настройка и выставление счетов на продажу
 
@@ -241,7 +241,7 @@ ms.locfileid: "9362311"
 
 Возможности предоплаты упрощают настройку и применение правил предоплаты для клиентов и товаров. Они также позволяют вам учитывать платеж по счету-фактуре.  
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/prepayment-invoices-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/prepayment-invoices-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 

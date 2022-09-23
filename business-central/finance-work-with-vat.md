@@ -10,12 +10,12 @@ ms.search.keywords: VAT, sales, purchases
 ms.search.form: 7, 118, 130, 142, 459, 460, 525
 ms.date: 06/16/2021
 ms.author: bholtorf
-ms.openlocfilehash: ea32a78ec191d335fb772a7040ed81db6753b196
-ms.sourcegitcommit: 3ca91139035b34cfe0b0303e4caff7c6d02d0d14
+ms.openlocfilehash: b8c09f49b741f7979f79f5e3305ef11258ffaaea
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/14/2022
-ms.locfileid: "8417523"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9530923"
 ---
 # <a name="work-with-vat-on-sales-and-purchases"></a>Работа с НДС по продажам и покупкам
 Если в вашей стране или регионе требуется, чтобы вы рассчитывали и сообщали налог на добавленную стоимость (НДС) по сделкам купли-продажи, вы можете настроить [!INCLUDE[prod_short](includes/prod_short.md)] для расчета НДС. Дополнительные сведения см. в разделе [Настройка методов расчета и учета налога на добавленную стоимость](finance-setup-vat.md).
@@ -193,7 +193,7 @@ ms.locfileid: "8417523"
 > * Создание сертификата поставки вручную  
 > * Печать сертификата поставки.
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/process-vat-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/paths/process-vat-dynamics-365-business-central/)
 
 ## <a name="see-also"></a>См. также
 

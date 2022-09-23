@@ -10,12 +10,12 @@ ms.search.keywords: SMTP, email, Office 365, connector
 ms.search.form: 1805, 9813, 9814, 1262, 1263
 ms.date: 02/06/2022
 ms.author: bholtorf
-ms.openlocfilehash: df98aeba310bdc1e111834277b28c4c8edc9085b
-ms.sourcegitcommit: 0513051fd4a3b804188e7404569e802ec327cf84
+ms.openlocfilehash: 22bd7fcf0eff9b3f7c41975a32127d9d482c42cc
+ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/22/2022
-ms.locfileid: "9041430"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9534296"
 ---
 # <a name="set-up-email"></a>Настройка электронной почты
 Сотрудники предприятий ежедневно отправляют по электронной почте информацию и документы, такие как заказы на продажу и покупку и счета-фактуры. Администраторы могут подключить одну или несколько учетных записей электронной почты к [!INCLUDE[prod_short](includes/prod_short.md)], что позволяет отправлять документы, не открывая приложение электронной почты. Вы можете составлять каждое сообщение индивидуально с помощью основных инструментов форматирования, таких как шрифты, стили, цвета и т. д., и добавлять вложения размером до 100 МБ. Кроме того, макеты отчетов позволяют администраторам включать только ключевую информацию из документов. Дополнительные сведения прочитайте в разделе [Отправка документов по электронной почте](ui-how-send-documents-email.md).
@@ -229,7 +229,7 @@ Next, you connect [!INCLUDE[prod_short](includes/prod_short.md)] with Exchange O
 
 -->
 
-## <a name="see-related-training-at-microsoft-learn"></a>Прочтите соответствующее обучение на странице [Microsoft Learn](/learn/modules/set-up-email/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/set-up-email/)
 
 ## <a name="see-also"></a>См. также
 
