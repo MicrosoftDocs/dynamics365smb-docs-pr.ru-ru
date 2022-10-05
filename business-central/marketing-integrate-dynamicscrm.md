@@ -9,14 +9,14 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: integration, synchronize, map, Sales
 ms.search.forms: 9980, 5341, 5349, 5330, 1817, 5342, 5337, 5336, 5331, 5343, 5334, 5346, 5348, 5329, 5380, 5353, 5381, 5351, 5333, 5360, 5373, 5371, 5340, 5345, 5362, 1313, 5361, 1876, 5339, 5338, 5335, 5332, 6250
-ms.date: 04/01/2021
+ms.date: 09/16/2022
 ms.author: bholtorf
-ms.openlocfilehash: a25fdcf9760d5677885c3927cb07d20cfa7e8387
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
+ms.openlocfilehash: 46055056fc17b4997b5e49ccefe8cd104bef0a6d
+ms.sourcegitcommit: 9049f75c86dea374e5bfe297304caa32f579f6e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8520998"
+ms.lasthandoff: 09/23/2022
+ms.locfileid: "9585869"
 ---
 # <a name="use-dynamics-365-sales-from-business-central"></a>Использование Dynamics 365 Sales из Business Central
 Если вы используете Dynamics 365 Sales для взаимодействия с клиентами, вы получаете в свое распоряжение бесшовную интеграцию процесса от интереса до получения денег, используя [!INCLUDE[prod_short](includes/prod_short.md)] для внутренних действий, таких как обработка заказов, управление запасами и работа с финансами.
@@ -76,7 +76,7 @@ ms.locfileid: "8520998"
 
 Если описание товара в исходном заказе на продажу является длинным, то создается дополнительная строка заказа типа **Комментарий**, чтобы в ней хранился полный текст заказа на продажу в [!INCLUDE[prod_short](includes/prod_short.md)].
 
-Обновления полей в заголовках заказов на продажу, например полях "Дата последней расходной накладной" или "Требуемая дата доставки", которые сопоставляются в Сопоставление таблиц интеграции **SALESORDER-ORDER**, периодически синхронизируются в [!INCLUDE[crm_md](includes/crm_md.md)]. Процессы, такие как выпуск заказа на продажу и отгрузка или выставление счета по заказу на продажу, учитываются на временной шкале заказа на продажу в [!INCLUDE[crm_md](includes/crm_md.md)]. Дополнительные сведения см. в разделе [Введение в каналы действий](/dynamics365/sales-enterprise/manage-activities). <!--The /dynamics365/sales-enterprise/developer/introduction-activity-feeds link was broken. Should this actually point to /dynamics365/sales-enterprise/manage-activities-->
+Обновления полей в заголовках заказов на продажу, например полях "Дата последней расходной накладной" или "Требуемая дата доставки", которые сопоставляются в Сопоставление таблиц интеграции **SALESORDER-ORDER**, периодически синхронизируются в [!INCLUDE[crm_md](includes/crm_md.md)]. Процессы, такие как выпуск заказа на продажу, отгрузка по заказу на продажу и выставление счета по заказу на продажу, учитываются на временной шкале заказа на продажу в [!INCLUDE[crm_md](includes/crm_md.md)]. Дополнительные сведения см. в разделе [Введение в каналы действий](/dynamics365/sales-enterprise/manage-activities). Чтобы включить учет и действия для заказов в [!INCLUDE[crm_md](includes/crm_md.md)], см. раздел [Настройка элемента управления "Примечания" для доступа к информации о записях для настраиваемой сущности](/dynamics365/customerengagement/on-premises/customize/notes-control-legacy) в документации по Customer Engagement. В статье упоминается локальная версия Customer Engagement On-Premises, но шаги те же, что и для онлайн-версии. <!--The /dynamics365/sales-enterprise/developer/introduction-activity-feeds link was broken. Should this actually point to /dynamics365/sales-enterprise/manage-activities-->
 
 > [!NOTE]  
 > Периодическая синхронизация на основе сопоставления таблиц интеграции **SALESORDER-ORDER** будет работать только при включенной интеграции заказов на продажу. Для получения дополнительной информации см. раздел [Параметры подключения на странице настройки подключения к Sales](admin-prepare-dynamics-365-for-sales-for-integration.md). Синхронизируются только заказы на продажу, созданные из отправленных заказов на продажу в [!INCLUDE[crm_md](includes/crm_md.md)]. Дополнительные сведения см. в разделе [Включение интеграции обработки заказов на продажу](/dynamics365/sales-enterprise/developer/enable-sales-order-processing-integration).

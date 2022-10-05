@@ -11,12 +11,12 @@ ms.search.form: ''
 ms.date: 09/05/2022
 ms.author: bholtorf
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: dc1601caac73dc7c58862938ddc612a9536e84e9
-ms.sourcegitcommit: 2396dd27e7886918d59c5e8e13b8f7a39a97075d
+ms.openlocfilehash: 542514d1f8fc8f0bfa6a0bd3c8cacbaf25cab651
+ms.sourcegitcommit: 9049f75c86dea374e5bfe297304caa32f579f6e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2022
-ms.locfileid: "9524510"
+ms.lasthandoff: 09/23/2022
+ms.locfileid: "9585896"
 ---
 # <a name="use-a-power-automate-flow-for-alerts-to-dataverse-entity-changes"></a>Использование потока Power Automate для оповещений об изменениях сущностей Dataverse
 
@@ -54,11 +54,14 @@ ms.locfileid: "9524510"
 Данные синхронизируются между [!INCLUDE[prod_short](includes/prod_short.md)] и [!INCLUDE [cds_long_md](includes/cds_long_md.md)] через учетную запись пользователя интеграции. Чтобы игнорировать изменения, внесенные при синхронизации, создайте в своем потоке шаг условия, исключающий изменения, внесенные учетной записью пользователя интеграции.  
 
 1. Добавьте шаг **Получить строку по ID из Dataverse** после триггера потока со следующими настройками. Для получения дополнительной информации см. раздел [Получение строки по ID из Dataverse](/power-automate/dataverse/get-row-id).
+
     1. В поле **Имя таблицы** выберите **Пользователи**
     2. В поле **Идентификатор строки** выберите **Кем изменено (значение)** из триггера потока.  
+
 2. Добавьте шаг условия со следующими параметрами **или** для идентификации учетной записи пользователя интеграции.
     1. **Основной адрес электронной почты** пользователя содержит **contoso.com**
     2. **Полное имя** пользователя содержит **[!INCLUDE[prod_short](includes/prod_short.md)]**.
+
 3. Добавьте элемент управления «Завершить», чтобы остановить поток, если сущность была изменена учетной записью пользователя интеграции.
 
 На следующем изображении показано, как определить триггер потока и условие потока.
@@ -73,6 +76,7 @@ ms.locfileid: "9524510"
 2. Выберите действие **Создать запись (V3)**.
 
 :::image type="content" source="media/power-automate-flow-dataverse-connector.png" alt-text="Настройки соединителя [!INCLUDE[prod_short](includes/prod_short.md)]":::
+
 3. Используйте кнопку **помощь в изменении (...)** в правом верхнем углу, чтобы добавить подключение к вашему [!INCLUDE[prod_short](includes/prod_short.md)].
 4. При подключении заполните поля **Имя среды** и **Название компании**.
 5. В поле **Категория API** введите **microsoft/dataverse/v1.0**.
@@ -87,7 +91,8 @@ ms.locfileid: "9524510"
 Когда вы добавляете, удаляете или изменяете учетную запись в среде [!INCLUDE [cds_long_md](includes/cds_long_md.md)], этот поток будет выполнять следующие действия:
 
 1. Вызывать среду [!INCLUDE[prod_short](includes/prod_short.md)], которую вы указали в соединителе [!INCLUDE[prod_short](includes/prod_short.md)].
-2. Использовать API [!INCLUDE[prod_short](includes/prod_short.md)] для вставки записи со значением **учетная запись** для параметра **Имя сущности** в таблице **Изменение элемента Dataverse**. 3. [!INCLUDE[prod_short](includes/prod_short.md)] запустит элемент очереди заданий, который синхронизирует клиентов с учетными записями.
+2. Использовать API [!INCLUDE[prod_short](includes/prod_short.md)] для вставки записи со значением **учетная запись** для параметра **entityName** в таблице **Изменение элемента Dataverse**. Этот параметр является точным названием сущности Dataverse, для которой создается поток.
+3. [!INCLUDE[prod_short](includes/prod_short.md)] запустит элемент очереди заданий, который синхронизирует клиентов с учетными записями.
 
 ## <a name="see-also"></a>См. также
 

@@ -113,8 +113,11 @@
 ## Краткие руководства
 ### [Краткое руководство по Business Central](quick-start-business-central.md)
 ### [Настройка сведений об организации](quick-start-company-information.md)
+### [Ввод финансовой информации](quick-start-financial-information.md)
 ### [Продажа продуктов и услуг](quick-start-sell-products-and-services.md)
 ### [Покупка продуктов и услуг](quick-start-procurement.md)
+### [Настройка и печать отчетов и документов](quick-start-reports-and-documents.md)
+### [Получение аналитики с помощью бизнес-аналитики](quick-start-business-intelligence.md)
 
 <!--use-->
 ## Советы для продуктивной работы в Business Central
@@ -239,13 +242,13 @@
 ### Рабочие процессы
 #### [Обзор рабочего процесса](across-workflow.md)
 #### [Использование Business Central в потоках Power Automate](across-how-use-financials-data-source-flow.md)
-#### Использование рабочих процессов
-##### [Использование рабочих процессов](across-use-workflows.md)
-##### [Включение рабочих процессов](across-how-to-enable-workflows.md)
-##### [Использование рабочего процесса утверждения](across-how-use-approval-workflows.md)
+#### Использование рабочего процесса утверждения
+##### [Использование рабочих процессов утверждения](across-use-workflows.md)
+##### [Включение рабочих процессов утверждения](across-how-to-enable-workflows.md)
+##### [Как использовать рабочие процессы утверждения](across-how-use-approval-workflows.md)
 ##### [Ограничение и разрешение использования записи](across-how-to-restrict-and-allow-usage-of-a-record.md)
 ##### [Просмотр архивированных экземпляров шагов рабочих процессов](across-how-to-view-archived-workflow-step-instances.md)
-##### [Удаление рабочих процессов](across-how-to-delete-workflows.md)
+##### [Удаление рабочих процессов утверждения](across-how-to-delete-workflows.md)
 <!--data exchange-->
 ### Электронный обмен данными
 #### [Обзор OData Exchange](across-data-exchange.md)
@@ -1585,11 +1588,11 @@
 #### [Настройка рабочих процессов утверждения](across-set-up-workflows.md)
 #### [Настройка пользователей рабочих процессов](across-how-to-set-up-workflow-users.md)
 #### [Настройка утверждающих пользователей](across-how-to-set-up-approval-users.md)
-#### [Уведомления рабочих процессов](across-setting-up-workflow-notifications.md)
+#### [Уведомления рабочего процесса утверждения](across-setting-up-workflow-notifications.md)
 #### [Определение сроков и порядка получения уведомлений о рабочих процессах](across-how-to-specify-when-and-how-to-receive-notifications.md)
-#### [Создание рабочих процессов](across-how-to-create-workflows.md)
+#### [Создание рабочих процессов утверждения](across-how-to-create-workflows.md)
 #### [Создание рабочих процессов из шаблонов рабочих процессов](across-how-to-create-workflows-from-workflow-templates.md)
-#### [Экспорт и импорт рабочих процессов](across-how-to-export-and-import-workflows.md)
+#### [Экспорт и импорт рабочих процессов утвердения](across-how-to-export-and-import-workflows.md)
 #### [Пошаговое руководство. Настройка и использование рабочего процесса утверждения покупки](walkthrough-setting-up-and-using-a-purchase-approval-workflow.md)
 <!--Connectors-->
 ### Настройка подключений
@@ -1626,7 +1629,7 @@
 ###### [Использование приложений Business Central в Power BI](across-powerbi-business-central-apps.md)
 ##### [Вопросы и ответы](power-bi-faq.md)
 #### Использование Power Automate с Business Central
-##### [Использование Business Central в потоках Power Automate](across-how-use-financials-data-source-flow.md)
+##### [Использование потоков Power Automate в Business Central](across-how-use-financials-data-source-flow.md)
 ##### [Устранение неполадок в автоматизированных рабочих процессах](across-flow-troubleshoot.md)  
 #### Использование Power Apps с Business Central
 ##### [Подключение к данным Business Central для создания бизнес-приложения с помощью Power Apps](across-how-use-financials-data-source-powerapps.md)

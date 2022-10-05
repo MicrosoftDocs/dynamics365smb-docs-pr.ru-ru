@@ -10,12 +10,12 @@ ms.search.keywords: online printing, email printing, cloud printing, Universal P
 ms.search.form: 2650, 2750, 2752, 2753, 2754, 8900,
 ms.date: 06/24/2021
 ms.author: jswymer
-ms.openlocfilehash: 8915015f015642a85439fbdd5511271b06a8358f
-ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
+ms.openlocfilehash: c1b55f213ad738deb03a5f13afccbc8f4bac10b2
+ms.sourcegitcommit: 9049f75c86dea374e5bfe297304caa32f579f6e4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/19/2022
-ms.locfileid: "9531301"
+ms.lasthandoff: 09/23/2022
+ms.locfileid: "9585707"
 ---
 # <a name="set-up-printers"></a>Настройка принтеров
 
@@ -135,7 +135,7 @@ ms.locfileid: "9531301"
 
 Теперь вы готовы добавить принтеры в [!INCLUDE[prod_short](includes/prod_short.md)], настроить принтеры по умолчанию для отчетов и начинать печатать.  
 
-### <a name="add-universal-printer-printers-to-business-central"></a>Добавление принтеров универсальной печати в Business Central
+### <a name="add-universal-print-printers-to-business-central"></a>Добавление принтеров универсальной печати в Business Central
 
 После того как принтеры настроены и к ним предоставлен общий доступ в службе универсальной печати, вы готовы к их использованию в Business Central. Есть два способа добавить принтеры универсальной печати. Вы можете добавить принтеры все сразу или по отдельности.
 
