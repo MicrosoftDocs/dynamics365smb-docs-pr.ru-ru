@@ -6,12 +6,12 @@ ms.topic: conceptual
 ms.search.form: 4
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 2ad055bef260d732c9f7732c094f660704f6acdf
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: e6b242bc3da6a2845c457cfbfcfaf80e6c71d31d
+ms.sourcegitcommit: 8ad79e0ec6e625796af298f756a142624f514cf3
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8135988"
+ms.lasthandoff: 09/30/2022
+ms.locfileid: "9605115"
 ---
 # <a name="set-up-payment-terms"></a>Настройка условия платежа
 
@@ -35,7 +35,7 @@ ms.locfileid: "8135988"
 > [!TIP]
 > В базовой версии [!INCLUDE [prod_short](includes/prod_short.md)] условия оплаты с частичной оплатой не поддерживаются. Вместо этого вы должны использовать функцию предоплаты. Дополнительные сведения см. в разделе [Настройка предоплат](finance-set-up-prepayments.md).
 >
-> В некоторых странах вы *можете* настроить условия оплаты с частичной оплатой. Чтобы узнать, поддерживается ли эта возможность в вашей стране, см. раздел **Локальная функциональность** на панели навигации слева на сайте [Docs.microsoft.com](about-localization.md).
+> В некоторых странах вы *можете* настроить условия оплаты с частичной оплатой. Чтобы узнать, поддерживается ли эта возможность в вашей стране, см. раздел **Локальная функциональность** на панели навигации с левой стороны статьи [Microsoft Learn](about-localization.md).
 
 ## <a name="see-also"></a>См. также
 

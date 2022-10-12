@@ -10,12 +10,12 @@ ms.search.keywords: language, locale, localization, culture, region, regional se
 ms.search.form: 9020, 9022, 9026, 9027, 9030, 9000, 9009, 9004, 9005, 9024, 9006, 9007, 9010, 9016, 9017
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: cdac371269e523f30712d4cb0be1087e07e70d5e
-ms.sourcegitcommit: f9143302b8271f5924a027cacdf29dc37c95f4c6
+ms.openlocfilehash: 23cb50952e1fda9a8dc46398aaf5054e7e03e3ed
+ms.sourcegitcommit: 8ad79e0ec6e625796af298f756a142624f514cf3
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "8655518"
+ms.lasthandoff: 09/30/2022
+ms.locfileid: "9606834"
 ---
 # <a name="changing-language-and-region"></a>Изменение языка и региона
 
@@ -58,14 +58,14 @@ ms.locfileid: "8655518"
 
 ## <a name="languages-of-the-prod_short-help"></a>Языки справки [!INCLUDE[prod_short](includes/prod_short.md)]
 
-Содержимое справки для версии по умолчанию [!INCLUDE[prod_short](includes/prod_short.md)] публикуется на сайте документации Microsoft. Контент доступен на разных языках. При доступе к документам из [!INCLUDE[prod_short](includes/prod_short.md)] содержимое отображается на вашем языке. По умолчанию, если какая-либо страница еще недоступна на вашем языке, она отображается на английском.
+Справочные материалы для версии по умолчанию [!INCLUDE[prod_short](includes/prod_short.md)] публикуется на сайте Microsoft Learn. Контент доступен на разных языках. При доступе к документации из [!INCLUDE[prod_short](includes/prod_short.md)] контент отображается на вашем языке. По умолчанию, если какая-либо страница еще недоступна на вашем языке, она отображается на английском.
 
-### <a name="how-do-i-change-the-language-of-the-microsoft-docs-site"></a>Как изменить язык сайта "Документация Майкрософт"?
+### <a name="how-do-i-change-the-language-of-the-microsoft-learn-site"></a>Как изменить язык сайта Microsoft Learn?
 
 Это просто — перейдите вниз страницы браузера и выберите символ глобуса в левом нижнем углу.
 
 > [!NOTE]  
-> В списке отображаются все языки, поддерживаемые сайтом "Документация Майкрософт". [!INCLUDE[prod_short](includes/prod_short.md)] доступен в ограниченном количестве стран/регионов, а справочные материалы [!INCLUDE [prod_short](includes/prod_short.md)] доступны не на всех языках, поддерживаемых сайтом "Документация Майкрософт".
+> В списке отображаются все языки, поддерживаемые сайтом Microsoft Learn. [!INCLUDE[prod_short](includes/prod_short.md)] доступен в ограниченном количестве стран/регионов, а справочные материалы [!INCLUDE [prod_short](includes/prod_short.md)] доступны не на всех языках, поддерживаемых сайтом Microsoft Learn.
 
 ## <a name="see-also"></a>См. также
 

@@ -2,7 +2,7 @@
 # [Новые и планируемые функции](product-news.md)
 # Начало работы
 ## [Обзор бизнес-функций](across-business-functionality.md)
-<!--### [Get Ready for Doing Business](ui-get-ready-business.md)-->
+<!--### [Get Ready for Doing Business](ui-get-ready-business.md)  -->
 ## Изучение
 ### [Учебный каталог Business Central](readiness/readiness-learning-catalog.md)
 ### [Обучение Business Central](/training/dynamics365/business-central?WT.mc_id=dyn365bc_landingpage-docs)
@@ -20,7 +20,7 @@
 #### [Пошаговое руководство. Вычисление незавершенного производства для задания](walkthrough-calculating-work-in-process-for-a-job.md)
 #### [Пошаговое руководство. Подбор и отгрузка в базовых конфигурациях склада](walkthrough-picking-and-shipping-in-basic-warehousing.md)
 <!-- #### [Walkthrough: Tracing Serial/Lot Numbers](walkthrough-tracing-serial-lot-numbers.md) -->
-#### [Пошаговое руководство. Создание прогнозов движения денежных средств с использованием финансовых отчетов](walkthrough-making-cash-flow-forecasts-by-using-account-schedules.md)
+#### [Пошаговое руководство: создание прогнозов движения денежных средств с помощью финансовых отчетов](walkthrough-making-cash-flow-forecasts-by-using-account-schedules.md)
 <!-- Contoso-->
 ### Демонстрационные данные Contoso Coffee для производства
 #### [Введение в демонстрационные данные Contoso Coffee](contoso-coffee/contoso-coffee-intro.md)
@@ -124,6 +124,7 @@
 ### [Общий обзор функциональных возможностей](ui-work-product.md)
 ### [Краткая сводка в удобном для печати виде](ui-work-product.md#cheatsheet)
 ### [Поиск страниц и информации с помощью функции "Что вы хотите сделать"](ui-search.md)
+### [Поиск конкретных данных](ui-search-data.md)
 ### [Поиск страниц с помощью обозревателя ролей](ui-role-explorer.md)
 ### [Вопросы и ответы о функции "Что вы хотите сделать"](ui-search-faq.md)
 ### [Сортировка, поиск и фильтрация](ui-enter-criteria-filters.md)
@@ -196,10 +197,11 @@
 ### [Ресурсы для справки и поддержки](product-help-and-support.md)
 ### [Посетите нашу библиотеку видео](across-videos.md)
 ### [Получение технической поддержки](/dynamics365/business-central/dev-itpro/technical-support?toc=/dynamics365/business-central/toc.json)
-<!--## Learn
-### [Dynamics 365 Business Central on Microsoft Learn](/learn/dynamics365/business-central?WT.mc_id=dyn365bc_landingpage-docs)
+
+<!--## Microsoft Learn training
+### [Dynamics 365 Business Central on Microsoft Learn](/training/dynamics365/business-central?WT.mc_id=dyn365bc_landingpage-docs)
 ### [Business Central Learning Catalog](readiness/readiness-learning-catalog.md)
-### [Business Functionality Learning Paths](/learn/browse/?products=dynamics-business-central&roles=business-user&resource_type=learning%20path)
+### [Business Functionality Learning Paths](/training/browse/?products=dynamics-business-central&roles=business-user&resource_type=learning%20path)
 ### Resources for a Business Decision Maker
 #### [Learning catalog](readiness/readiness-learning-bus-decision-makers.md)
 #### [Get Ready for Doing Business](ui-get-ready-business.md)
@@ -225,6 +227,7 @@
 ### [Одновременный учет нескольких документов](ui-batch-posting.md)
 ### [Предварительный просмотр результатов учета](ui-how-preview-post-results.md)
 ### [Изменение учтенных документов](across-edit-posted-document.md)
+### [Поле статуса на документах](ui-document-status.md)
 ### [Работа с финансовыми журналами](ui-work-general-journals.md)
 ### [Использование очередей работ для планирования задач](admin-job-queues-schedule-tasks.md)
 ### [Разрешение Business Central предлагать значения](ui-let-system-suggest-values.md)
@@ -257,7 +260,6 @@
 ##### [Настройка обмена данными](across-set-up-data-exchange.md)
 ##### [Настройка службы обмена документами](across-how-to-set-up-a-document-exchange-service.md)
 ##### [Настройка входящих документов](across-how-setup-income-documents.md)
-##### [Обновление валютных курсов](finance-how-update-currencies.md)
 ##### [Настройка отправки и получения электронных документов](across-how-to-set-up-electronic-document-sending-and-receiving.md)
 #### [Сбор платежей с прямым дебетом SEPA](finance-collect-payments-with-sepa-direct-debit.md)
 ##### [Использование расширения AMC Banking 365 Fundamentals](ui-extensions-amc-banking.md)
@@ -275,7 +277,6 @@
 ##### [Экспорт платежей в банковский файл](finance-make-payments-with-bank-data-conversion-service-or-sepa-credit-transfer.md#exporting-payments-to-a-bank-file)
 ##### [Выполнение платежей с помощью расширения AMC Banking 365 Fundamentals или кредитного перевода SEPA](finance-make-payments-with-bank-data-conversion-service-or-sepa-credit-transfer.md)
 ##### [Сбор платежей с прямым дебетом SEPA](finance-collect-payments-with-sepa-direct-debit.md)
-##### [Обновление валютных курсов](finance-how-update-currencies.md)
 ##### [Сопоставление полей при импорте файлов SEPA CAMT](across-field-mapping-when-importing-sepa-camt-files.md)
 ##### [Сопоставление полей для расширения AMC Banking 365 Fundamentals](across-field-mapping-when-exporting-payment-files-using-bank-data-conversion-service.md)
 
@@ -301,6 +302,7 @@
 #### [Работа с отклонениями в оплате и отклонениями скидки по оплате](finance-payment-tolerance-and-payment-discount-tolerance.md)
 #### [Расширение прогноза просрочки платежа](ui-extensions-late-payment-prediction.md)
 #### [Налог с продаж в версии Business Central по умолчанию](sales-tax-concept.md)
+#### [Работа с отчетностью Интрастат](finance-how-report-intrastat.md)
 
 ### Управление кредиторской задолженностью
 #### [Обзор кредиторской задолженности](payables-manage-payables.md)
@@ -416,18 +418,18 @@
 ### [Подача отчета об НДС в налоговые органы](finance-how-report-vat.md)
 ### [Преобразование сервисных контрактов, которые включают суммы НДС](service-how-to-convert-service-contracts.md)
 ### [Управление изменениями ставки НДС](finance-how-use-vat-rate-change-tool.md)
-### [Пошаговое руководство. Создание прогнозов движения денежных средств с использованием финансовых отчетов](walkthrough-making-cash-flow-forecasts-by-using-account-schedules.md)
+### [Пошаговое руководство: создание прогнозов движения денежных средств с помощью финансовых отчетов](walkthrough-making-cash-flow-forecasts-by-using-account-schedules.md)
 ### [Анализ финансовых отчетов в Excel](finance-analyze-excel.md)
 ### [Перевод банковских средств](bank-how-transfer-bank-funds.md)
 ### [Создание внесения на банковский счет](bank-create-bank-deposits.md)
 ### [Работа бухгалтера в Business Central](finance-accounting.md)
 ### [Организаций со многими подразделениями и международные организации](finance-multi-site-organizations.md)
 
-## Бизнес-аналитика и Financial Reporting
-### [Обзор бизнес-аналитики и Financial Reporting](bi.md)
+## Финансовая бизнес-аналитика и отчетность
+### [Обзор финансовой бизнес-аналитики и отчетности](bi.md)
 ### [Финансовые отчеты](finance-reports.md)
 ### [Анализ фактических сумм в с равнении с суммами бюджета](bi-how-analyze-actual-versus-budget.md)
-### [Подготовка финансовой отчетности с помощью финансовых отчетов и категорий счетов](bi-how-work-account-schedule.md)
+### [Подготовка Financial Reporting с помощью финансовых данных и категорий счетов](bi-how-work-account-schedule.md)
 ### [Настройка и публикация веб-служб ключевых показателей эффективности, которые основаны на финансовых отчетах](bi-how-to-set-up-and-publish-kpi-web-services-based-on-account-schedules.md)
 ### [Анализ данных по измерениям](bi-how-analyze-data-dimension.md)
 ### [Создание аналитических отчетов](bi-how-create-analysis-views-reports.md)
@@ -456,7 +458,7 @@
 ### [Объединение поставок в один счет](sales-how-to-combine-shipments-on-a-single-invoice.md)
 ### [Расчет сроков планирования заказов](sales-how-to-calculate-order-promising-dates.md)
 ### [Трассировка посылок](sales-how-track-packages.md)
-### [Расчет даты для продаж](sales-date-calculation-for-sales.md)
+### [Расчет даты доставки для продаж](sales-date-calculation-for-sales.md)
 ### [Объединение повторяющихся записей](sales-how-merge-duplicate-records.md)
 ### [Работа с повторяющимся доходом](finance-recurring-invoicing.md)
 ### [Ввод номеров внешних документов](across-enter-external-document-numbers.md)
@@ -486,6 +488,7 @@
 ### [Регистрация новых товаров](inventory-how-register-new-items.md)
 ### [Работа со спецификациями](inventory-how-work-BOMs.md)
 ### [Категоризация товаров](inventory-how-categorize-items.md)
+### [Управление вариантами продукта](inventory-item-variants.md)  
 ### [Работа с атрибутами товаров](inventory-how-work-item-attributes.md)
 ### [Работа с товарами из каталога](inventory-how-work-nonstock-items.md)
 ### [Подсчет и корректировка запасов с использованием документов](inventory-how-count-inventory-with-documents.md)
@@ -588,7 +591,7 @@
 ### [Совместная продажа товаров, собираемых на заказ, и складских товаров](assembly-how-to-sell-assemble-to-order-items-and-inventory-items-together.md)
 ### [Создание общих заказов на сборку](assembly-how-to-create-blanket-assembly-orders.md)
 ### [Отмена учета сборки](assembly-how-to-undo-assembly-posting.md)
-### [Работа со спецификациями](inventory-how-work-BOMs.md)
+### [Работа со спецификациями сборки](assembly-how-work-assembly-boms.md)
 ### [Сведения о проектировании: учет заказа на сборку](design-details-assembly-order-posting.md)
 
 ## Производство
@@ -629,8 +632,8 @@
 #### [Подбор товаров](warehouse-pick-items.md)
 #### [Подбор товаров с помощью подбора запасов](warehouse-how-to-pick-items-with-inventory-picks.md)
 #### [Подбор товаров для складской отгрузки](warehouse-how-to-pick-items-for-warehouse-shipment.md)
-#### [Подбор для производства или сборки в базовых конфигурациях склада](warehouse-how-to-pick-for-production.md)
-#### [Подбор для производства или сборки в расширенных конфигурациях склада](warehouse-how-to-pick-for-internal-operations-in-advanced-warehousing.md)
+#### [Подбор для производства, сборки или заданий в базовых конфигурациях склада](warehouse-how-to-pick-for-production.md)
+#### [Подбор для производства, сборки или работ в расширенных конфигурациях склада](warehouse-how-to-pick-for-internal-operations-in-advanced-warehousing.md)
 #### [Планирование подборов в журналах](warehouse-how-to-plan-picks-in-worksheets.md)
 #### [Подбор и размещение без документа-источника](warehouse-how-to-create-put-aways-from-internal-put-aways.md)
 #### [Подбор по методу FEFO](warehouse-picking-by-fefo.md)
@@ -668,10 +671,9 @@
 <!--Shopify-->
 ## Интернет-магазин с Shopify
 ### [Начало работы с соединителем Shopify](shopify/get-started.md)
-### [Синхронизация элементов в Shopify](shopify/synchronize-items.md)
-### [Синхронизация клиентов в Shopify](shopify/synchronize-customers.md)
+### [Синхронизация товаров с Shopify](shopify/synchronize-items.md)
+### [Синхронизация клиентов с Shopify](shopify/synchronize-customers.md)
 ### [Синхронизация и выполнение заказов на продажу в Shopify](shopify/synchronize-orders.md)
-### [Настройка налогов для подключения Shopify](shopify/setup-taxes.md)
 ### [Запуск заданий в фоновом режиме](shopify/background.md)
 ### [Устранение неполадок с соединителем Shopify](shopify/troubleshoot.md)
 ### [Часто задаваемые вопросы по соединителю Shopify](shopify/shopify-faq.md)
@@ -1229,9 +1231,9 @@
 #### [Локальная функциональность в русской версии](LocalFunctionality/Russia/russia-local-functionality.md)
 #### Основные финансы
 ##### [Обзор финансовых отчетов](LocalFunctionality/Russia/account-schedules-overview.md)
-##### [Импорт и экспорт финансовых отчетов](LocalFunctionality/Russia/How-to-Import-and-Export-Account-Schedules.md)
-##### [Определение расширения финансового отчета](LocalFunctionality/Russia/How-to-Define-an-Account-Schedule-Extension.md)
-##### [Определение константы финансового отчета](LocalFunctionality/Russia/How-to-Define-an-Account-Schedule-Constant.md)
+##### [Импорт и экспорт бухгалтерских отчетов](LocalFunctionality/Russia/How-to-Import-and-Export-Account-Schedules.md)
+##### [Определение расширения финансовых отчетов](LocalFunctionality/Russia/How-to-Define-an-Account-Schedule-Extension.md)
+##### [Определение константы финансовых отчетов](LocalFunctionality/Russia/How-to-Define-an-Account-Schedule-Constant.md)
 ##### [Работа с финансовыми отчетами](LocalFunctionality/Russia/How-to-Work-with-Account-Schedules.md)
 ##### [Фин. корреспонденция](LocalFunctionality/Russia/general-ledger-correspondence.md)
 ##### [Валюта](LocalFunctionality/Russia/Currency-information-Import-currency-rates.md)
@@ -1427,7 +1429,7 @@
 ### Соединенные Штаты
 #### [Локальная функциональность в версии США](LocalFunctionality/UnitedStates/united-states-local-functionality.md)
 #### Налог
-##### [Налог с продаж в США](LocalFunctionality/UnitedStates/us-sales-tax.md)
+##### [Настройка базового налога](LocalFunctionality/UnitedStates/us-tax-setup.md)  
 ##### [Отчетность по налогу с продаж в США](LocalFunctionality/UnitedStates/us-sales-tax.md)  
 ##### [Настройка и использование формы IRS 1099](LocalFunctionality/UnitedStates/set-up-use-irs1099-form.md)
 ##### [Изменения нормативного формата 1099 и сведения о нем](LocalFunctionality/UnitedStates/tax-1099-changes.md)  
@@ -1449,7 +1451,7 @@
 #### [Настройка способов оплаты](finance-payment-methods.md)
 #### [Настройка условия платежа](finance-payment-terms.md)
 #### [Настройка учетных групп](finance-posting-groups.md)
-#### [Подготовка финансовой отчетности с помощью финансовых отчетов и категорий счетов](bi-how-work-account-schedule.md)
+#### [Подготовка Financial Reporting с помощью финансовых данных и категорий счетов](bi-how-work-account-schedule.md)
 #### [Работа с отклонениями в оплате и отклонениями скидки по оплате](finance-payment-tolerance-and-payment-discount-tolerance.md)
 #### [Работа с учетными периодами и финансовыми годами](finance-accounting-periods-and-fiscal-years.md)
 #### [Настройка условий и уровней напоминаний](finance-setup-reminders.md)
@@ -1467,7 +1469,7 @@
 #### [Настройка плана счетов](finance-setup-chart-accounts.md)
 #### [Настройка анализа движения денежных средств](finance-setup-cash-flow-analyses.md)
 #### [Настройка клиентов, оплачивающих наличными](finance-how-to-set-up-cash-customers.md)
-#### [Настройка и подача отчетности Интрастат](finance-how-setup-report-intrastat.md)
+#### [Настройка отчетности Интрастат](finance-how-setup-report-intrastat.md)
 #### [Использование ключей распределения в финансовых журналах](ui-how-use-allocation-keys-general-journals.md)
 ### Настройка банка
 #### [Настройка банка](bank-setup-banking.md)
@@ -1583,7 +1585,7 @@
 ##### [Использование Business Central без Outlook](admin-no-outlook.md)
 ##### [Вопросы и ответы](ui-outlook-addin-faq.yml)
 ### Настройка отчетов
-#### [Выбор отчета](across-report-selections.md)
+#### [Выбор отчета для документов](across-report-selections.md)
 ### Настройка рабочих процессов утверждения на основе шаблонов
 #### [Настройка рабочих процессов утверждения](across-set-up-workflows.md)
 #### [Настройка пользователей рабочих процессов](across-how-to-set-up-workflow-users.md)
@@ -1613,7 +1615,8 @@
 #### Использование OneDrive для бизнеса с Business Central
 ##### [Обзор](across-onedrive-overview.md)
 ##### [Управление OneDrive для бизнес-интеграции](admin-onedrive-integration.md)
-##### [Открытие файлов Business Central в OneDrive](across-share-onedrive.md)
+###### [Настройка интеграции OneDrive с локальной версией Business Central On-premises](admin-onedrive-integration-onpremises.md)
+##### [Открытие и общий доступ к файлам в OneDrive](across-share-onedrive.md)
 ##### [Часто задаваемые вопросы по OneDrive](admin-onedrive-faq.md)
 #### Использование Power BI с Business Central
 ##### [Введение](admin-powerbi.md)
@@ -1653,9 +1656,9 @@
 ### [Выполнение отчетов](ui-work-report.md)
 ### [Добавить закладку для отчета](ui-bookmarks.md)
 ### [Анализ данных отчета с помощью Excel](report-analyze-excel.md)
-<!--### [Using the report inbox] (missing.md)-->
 ### [Печать отчетов](ui-specify-printer-selection-reports.md#default)
 ### [Планирование отчетов](ui-work-report.md#ScheduleReport)
+### [Совместное использование и экспорт отчетов с помощью папки «Входящие отчеты»](ui-work-report-inbox.md)
 ### [Управление сохраненными настройками в отчетах](reports-saving-reusing-settings.md)
 ### [Установите макет, используемый отчетом](ui-set-report-layout.md)
 ### [(Устарело) Установите макет, используемый отчетом](ui-how-change-layout-currently-used-report.md)
@@ -1663,7 +1666,7 @@
 ## Встроенные отчеты
 ### [Обзор отчета](reports-available-reports.md)
 ### Финансы
-#### [Финансовая аналитика](bi.md)
+#### [Финансовая бизнес-аналитика](bi.md)
 #### [Анализ финансовых отчетов с помощью Excel](finance-analyze-excel.md)
 #### [Основные финансовые отчеты](finance-reports.md)
 #### [Отчеты о дебиторской задолженности](receivables-reports.md)
@@ -1704,7 +1707,7 @@
 
 ### Управление сборкой
 #### [Отчеты по управлению сборкой](assembly-reports.md)
-#### [Просмотр структуры спецификации](inventory-how-work-boms.md#to-view-components-and-resources-indented-according-to-the-bom-structure)
+#### [Просмотр структуры спецификации](assembly-how-work-assembly-boms.md#to-view-components-and-resources-indented-according-to-the-bom-structure)
 
 ### Производство
 #### [Производственные отчеты](production-reports.md)
@@ -1723,13 +1726,13 @@
 ### [Вопросы и ответы по поиску и фильтрации](ui-search-filter-faq.yml)
 ### [Анализ данных страницы в Excel](across-work-with-excel.md)
 ### [Анализ данных отчета с помощью Excel](report-analyze-excel.md)
-### [Финансовая аналитика](bi.md)
+### [Финансовая бизнес-аналитика](bi.md)
 
 ## Встроенная аналитика 
 ### [Обзор](reports-built-in-analytics.md)
 ### [Интеллектуальная аналитика](about-intelligent-cloud.md)
 ### [Работа с отчетами Power BI](across-working-with-powerbi.md)
-### [Финансовая аналитика](bi.md)
+### [Финансовая бизнес-аналитика](bi.md)
 ### [Анализ финансовых отчетов с помощью Excel](finance-analyze-excel.md)
 ### [Консолидация финансовых данных из нескольких организаций](finance-consolidated-company-reporting.md)
 ### [Отчет об использовании телеметрии](/dynamics365/business-central/dev-itpro/administration/telemetry-reports-trace)

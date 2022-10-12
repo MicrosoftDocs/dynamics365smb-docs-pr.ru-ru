@@ -1,6 +1,6 @@
 ---
 title: Предложения продажи сборки на заказ
-description: Можно использовать функцию управления сборкой, чтобы настроить сборочный элемент по запросу клиента во время процесса продаж.
+description: Можно использовать функцию управления сборкой, чтобы настроить сборочный элемент в соответствии с запросом клиента во время процесса продаж.
 author: SorenGP
 ms.topic: conceptual
 ms.devlang: na
@@ -10,16 +10,16 @@ ms.search.keywords: kit, kitting
 ms.search.form: 900, 901, 902, 903, 904, 907, 910, 916, 920, 921, 922, 923, 940, 941, 942, 930, 931, 932, 914, 915, 905
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 79d7e9ac5e3a71002af168ee02feef1a76671fce
-ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
+ms.openlocfilehash: 7ba67db5f2ba0e01dc2b3b13dca162de714b3127
+ms.sourcegitcommit: 8ad79e0ec6e625796af298f756a142624f514cf3
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/19/2022
-ms.locfileid: "9528416"
+ms.lasthandoff: 09/30/2022
+ms.locfileid: "9607315"
 ---
 # <a name="quote-an-assemble-to-order-sale"></a>Предложения продажи сборки на заказ
 
-Можно использовать функцию управления сборкой, чтобы настроить сборочный элемент по запросу клиента во время процесса продаж. Дополнительные сведения см. в разделе [Продажа товара, собранного на заказ](assembly-how-to-sell-items-assembled-to-order.md).  
+Можно использовать функцию управления сборкой, чтобы настроить сборочный элемент в соответствии с запросом клиента во время процесса продаж. Дополнительные сведения см. в статье [Продажа товара, собранного на заказ](assembly-how-to-sell-items-assembled-to-order.md).  
 
 Как при продаже любого другого типа товара, можно также создать предложение по продаже для настраиваемого сборочного элемента до его преобразования в заказ на продажу. Этот процесс включает несколько дополнительных этапов при его сравнении с созданием обычного предложения по продаже, и он использует разновидность связанного сборочного заказа, которой является предложение по сборке.
 
@@ -45,7 +45,7 @@ ms.locfileid: "9528416"
 ## <a name="see-also"></a>См. также
 
 [Управление сборкой](assembly-assemble-items.md)  
-[Работа со спецификациями](inventory-how-work-BOMs.md)  
+[Работа со сборочными спецификациями](assembly-how-work-assembly-boms.md)  
 [Запасы](inventory-manage-inventory.md)  
 [Сведения о проектировании: Warehouse Management](design-details-warehouse-management.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

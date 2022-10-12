@@ -10,12 +10,12 @@ ms.search.keywords: IC, group, consolidation, affiliate, subsidiary
 ms.search.form: 605, 620, 602, 603, 601, 600, 652, 653, 606, 607, 609, 608, 621
 ms.date: 03/09/2022
 ms.author: edupont
-ms.openlocfilehash: 7add9cf10ff90ff978c67cf691b2f7e5c6b87bdd
-ms.sourcegitcommit: 8b95e1700a9d1e5be16cbfe94fdf7b660f1cd5d7
+ms.openlocfilehash: 32a0005f2ebbc6bfc87c21fed8469c86535e15de
+ms.sourcegitcommit: 8ad79e0ec6e625796af298f756a142624f514cf3
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2022
-ms.locfileid: "9460864"
+ms.lasthandoff: 09/30/2022
+ms.locfileid: "9607288"
 ---
 # <a name="set-up-intercompany-transaction-posting"></a>Настройка разноски внутрихолдинговых транзакций
 
@@ -56,6 +56,10 @@ ms.locfileid: "9460864"
 
 > [!NOTE]
 > В [!INCLUDE[prod_short](includes/prod_short.md)] Online вы не можете использовать расположение файлов для передачи транзакций своим партнерам, потому что [!INCLUDE[prod_short](includes/prod_short.md)] не имеет доступа к вашей локальной сети. Поэтому, если вы выберете **Расположение файла** в поле **Тип передачи**, поле **Путь к папке** недоступно. Вместо этого файл будет загружен в папку "Загрузки" на вашем компьютере. Затем вы отправляете файл кому-то в партнерской компании, например, по электронной почте. Для более прямого процесса мы рекомендуем вам выбрать вместо этого пункт **Электронная почта**.
+
+> [!NOTE]
+> Для межфирменной проводки, если вы включили выключатель **Авто. Принять транзакции** на странице **Карта межфирменного партнера**, [!INCLUDE[prod_short](includes/prod_short.md)] подавляет сообщения, предупреждающие о счетах-фактурах на покупку, дублирующих исходный заказ на покупку. Поэтому важно иметь бизнес-процесс для управления дубликатами. Например, путем удаления таких заказов на покупку при получении счета на покупку от внутрихолдингового партнера.
+
 
 ## <a name="to-set-up-intercompany-vendors-and-intercompany-customers"></a>Настройка межфирменных поставщиков и межфирменных клиентов
 

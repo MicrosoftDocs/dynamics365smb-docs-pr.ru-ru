@@ -5,14 +5,14 @@ author: jswymer
 ms.topic: conceptual
 ms.workload: na
 ms.search.keywords: ''
-ms.date: 04/01/2022
+ms.date: 09/21/2022
 ms.author: jswymer
-ms.openlocfilehash: 8fd3d76ed8affd506ad4cd1838a182e595ecb0bf
-ms.sourcegitcommit: d6af3155bb818430f22d5caca78df322a8d9b178
+ms.openlocfilehash: e54cabd331253a40b160a6cc89b4ab170bd1db89
+ms.sourcegitcommit: 8ad79e0ec6e625796af298f756a142624f514cf3
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2022
-ms.locfileid: "8528509"
+ms.lasthandoff: 09/30/2022
+ms.locfileid: "9607477"
 ---
 # <a name="sharing-business-data-from-business-central"></a>Совместное использование бизнес-данных из Business Central
 
@@ -42,7 +42,7 @@ ms.locfileid: "8528509"
 
 ![Поддерживается](media/check.png) Business Central Online ![Не поддерживается](media/x-icon.png) Локальная версия Business Central
 
-Непосредственно с большинства страниц коллекций и страниц сведений вы можете отправить ссылку на страницу людям, групповым чатам или каналам. Например, можно поделиться ссылкой на отфильтрованный просмотр ваших записей. Затем получатели могут выбрать ссылку, чтобы открыть страницу в Business Central.
+Непосредственно с большинства страниц коллекций и страниц сведений вы можете отправить ссылку на страницу людям, групповым чатам или каналам. Например, можно поделиться ссылкой на отфильтрованный просмотр ваших записей. Если вы установили приложение [!INCLUDE[prod_short](includes/prod_short.md)] Teams, ссылка автоматически развернется в компактную карточку, которую вы можете приложить к своему сообщению. Получатели смогут выбрать ссылку иил карточку, чтобы открыть страницу в Business Central.
 
 Дополнительные сведения см. в разделе [Общий доступ к записям и ссылки страниц в Teams](across-working-with-teams.md).
 

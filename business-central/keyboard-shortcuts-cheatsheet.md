@@ -7,14 +7,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: accessibility, shortcuts, keyboarding
-ms.date: 05/23/2022
+ms.date: 08/19/2022
 ms.author: jswymer
-ms.openlocfilehash: 399dd54ea89937dc29def09831688642a9889742
-ms.sourcegitcommit: 93f30ce3349233cbcd03f300e74b654b49fa5518
+ms.openlocfilehash: ddcee165f275b3e7ad757b5a8a448c9a65a7d33c
+ms.sourcegitcommit: 8ad79e0ec6e625796af298f756a142624f514cf3
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/24/2022
-ms.locfileid: "8799537"
+ms.lasthandoff: 09/30/2022
+ms.locfileid: "9605801"
 ---
 # <a name="keyboard-quick-reference---pc-only"></a>Краткая справка по сочетаниям клавиш — только ПК
 
@@ -37,6 +37,7 @@ ms.locfileid: "8799537"
 |Ctrl+Shift+F12|Развертывание части с позициями (строками) на странице документа|
 |Ctrl+F1|Открытие области справки или статьи справки|
 |Ctrl+Щелчок|Навигация при персонализации и настройке|
+|Ctrl+O|Смена компании или среду|
 |Shift+F12|Открытие обозревателя ролей, обзор функций|
 |F5/Ctrl+F5|Обновление или перезагрузка страницы|
 |Tab/Shift+Tab|Перемещение фокуса на следующий/предыдущий элемент|

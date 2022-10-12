@@ -4,18 +4,18 @@ ms.service: dynamics365-business-central
 ms.topic: include
 ms.date: 03/22/2022
 ms.author: edupont
-ms.openlocfilehash: f574fbb444752b1c8b0761df80dbfdc98e8123e6
-ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
+ms.openlocfilehash: 83453858afb9cbaa893252e712fa408b27483b45
+ms.sourcegitcommit: 8ad79e0ec6e625796af298f756a142624f514cf3
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/19/2022
-ms.locfileid: "9531679"
+ms.lasthandoff: 09/30/2022
+ms.locfileid: "9607612"
 ---
 - Ссылка на текущую страницу
 
   В верхней части панели отображается карточка с кратким описанием текущей страницы, если оно существует. Если описание страницы отсутствует, то в карточке представлена единственная ссылка на статью о странице.  
 
-  Если [!INCLUDE[prod_short](prod_short.md)] не может найти соответствующую ссылку, мы показываем целевую страницу на сайте [Документация Microsoft](/dynamics365/business-central). Например, если страница была частью приложения, которое не добавляло сопоставление контекстно-зависимой справки в [!INCLUDE[prod_short](prod_short.md)], то для *Ссылки на обучение* по умолчанию используется целевая страница.  
+  Если [!INCLUDE[prod_short](prod_short.md)] не может найти соответствующую ссылку, мы показываем целевую страницу в [Microsoft Learn](/dynamics365/business-central). Например, если страница была частью приложения, которое не добавляло сопоставление контекстно-зависимой справки в [!INCLUDE[prod_short](prod_short.md)], то для *Ссылки на обучение* по умолчанию используется целевая страница.  
 
 - Ссылки на связанные статьи
 

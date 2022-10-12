@@ -8,12 +8,12 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.date: 01/28/2022
 ms.author: edupont
-ms.openlocfilehash: 0f1e728b67555fcbde041f556265824b1a64a169
-ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
+ms.openlocfilehash: 139ecb336cbfa637ad723322dad2b205050864b4
+ms.sourcegitcommit: 8ad79e0ec6e625796af298f756a142624f514cf3
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/19/2022
-ms.locfileid: "9529033"
+ms.lasthandoff: 09/30/2022
+ms.locfileid: "9604980"
 ---
 # <a name="welcome-to-prod_long"></a>Добро пожаловать в [!INCLUDE[prod_long](includes/prod_long.md)]
 
@@ -28,16 +28,16 @@ ms.locfileid: "9529033"
 
 [!INCLUDE [ua-get-help](includes/ua-get-help.md)]
 
-## <a name="microsoft-docs"></a>Документация Майкрософт
+## <a name="microsoft-learn"></a>Microsoft Learn
 
 На панели навигации слева вы можете найти информацию об использовании [!INCLUDE[prod_short](includes/prod_short.md)] в вашей компании. Найдите ссылки на описания наиболее часто используемых возможностей в разделе [Бизнес-процессы](#business-processes). См. также раздел [Узнайте больше, используя документацию по продукту](product-help-and-support.md#learn-more-using-the-product-documentation).
 
 [!INCLUDE [ua-get-help](includes/ua-get-help.md)]
 
-Вы также можете [посетить нашу видеотеку](across-videos.md) или начать с пути обучения [Начать работу с Microsoft Dynamics 365 Business Central](/training/paths/get-started-dynamics-365-business-central/) на сайте [Обучение Microsoft](/training/dynamics365/business-central?WT.mc_id=dyn365bc_landingpage-docs).  
+Вы также можете [посетить нашу видеотеку](across-videos.md) или начать с пути обучения [Начать работу с Microsoft Dynamics 365 Business Central](/training/paths/get-started-dynamics-365-business-central/) на [Microsoft Learn](/training/dynamics365/business-central?WT.mc_id=dyn365bc_landingpage-docs).  
 
 > [!NOTE]
-> Если не указано иное, содержимое сайта Docs.microsoft.com отражает последнюю версию интернет-версии [!INCLUDE[prod_short](includes/prod_short.md)]. Если ваша организация использует другую интернет-версию [!INCLUDE[prod_short](includes/prod_short.md)], некоторые возможности могут быть недоступны. Кроме того, если ваша организация использует локальную версию [!INCLUDE[prod_short](includes/prod_short.md)], вы можете использовать более раннюю версию. Дополнительные сведения см. в разделе [Часто задаваемые вопросы](across-faq.yml).
+> Если не указано иное, статьи о Microsoft Learn отражают последнюю версию [!INCLUDE[prod_short](includes/prod_short.md)] Online. Если ваша организация использует другую интернет-версию [!INCLUDE[prod_short](includes/prod_short.md)], некоторые возможности могут быть недоступны. Кроме того, если ваша организация использует локальную версию [!INCLUDE[prod_short](includes/prod_short.md)], вы можете использовать более раннюю версию. Дополнительные сведения см. в разделе [Часто задаваемые вопросы](across-faq.yml).
 
 В следующих разделах указаны ключевые статьи, которые помогут вам познакомиться с [!INCLUDE [prod_short](includes/prod_short.md)].  
 
@@ -76,9 +76,9 @@ ms.locfileid: "9529033"
 - [AL Development Environment](/dynamics365/business-central/dev-itpro/developer/devenv-reference-overview)
 - [Правила и рекомендации для кода AL](/dynamics365/business-central/dev-itpro/compliance/apptest-overview)
 
-## <a name="learn"></a>Изучение
+## <a name="microsoft-learn-training"></a>Обучение Microsoft Learn
 
-Найдите бесплатное электронное обучение по [!INCLUDE[prod_short](includes/prod_short.md)] на сайте [Обучение Microsoft](/training/dynamics365/business-central?WT.mc_id=dyn365bc_landingpage-docs).  
+Найдите бесплатное электронное обучение по [!INCLUDE[prod_short](includes/prod_short.md)] на сайте [Обучение Microsoft Learn](/training/dynamics365/business-central?WT.mc_id=dyn365bc_landingpage-docs).
 
 Вы также можете просмотреть видеоролики о новых и часто используемых возможностях в нашей видеотеке. Для получения дополнительной информации см. раздел [Посетите нашу библиотеку видео](across-videos.md).  
 
@@ -94,12 +94,12 @@ ms.locfileid: "9529033"
 
 [!INCLUDE [ua-rss](includes/ua-rss.md)]  
 
-## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/dynamics365/business-central?WT.mc_id=dyn365bc_landingpage-docs)
+## <a name="see-related-microsoft-learn-training"></a>См. соответствующее [обучение Microsoft Learn](/training/dynamics365/business-central?WT.mc_id=dyn365bc_landingpage-docs)
 
 ## <a name="see-also"></a>См. также
 
 [Обучение Dynamics 365 Business Central](/training/dynamics365/business-central?WT.mc_id=dyn365bc_landingpage-docs)  
-[Краткое руководство по Business Central](quick-start-business-central.md)  
+[Краткие руководства по Business Central](quick-start-business-central.md)  
 [Начало работы с Business Central](ui-get-ready-business.md)  
 [Посетите нашу библиотеку видео](across-videos.md)  
 [Настройка [!INCLUDE[prod_short](includes/prod_short.md)] с помощью расширений](ui-extensions.md)  
@@ -114,7 +114,6 @@ ms.locfileid: "9529033"
 [Документация по Dynamics 365](/dynamics365/)  
 [Dynamics 365 Business Central на microsoft.com](https://dynamics.microsoft.com/business-central/overview/)  
 [Изучение возможностей Dynamics 365 Business Central](https://dynamics.microsoft.com/business-central/capabilities/)  
-[Представляем docs.microsoft.com (исходная запись в блоге)](/teamblog/introducing-docs-microsoft-com)  
 
 ## [!INCLUDE[prod_short](includes/free_trial_md.md)]
 

@@ -9,23 +9,38 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 04/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: 5e485827ed5fb5fcef9a807650993734099377de
-ms.sourcegitcommit: 5a02f8527faecdffcc54f9c5c70cefe8c4b3b3f4
+ms.openlocfilehash: 7683c301131fa5729d74e1c6ef70880db7f3327d
+ms.sourcegitcommit: 8ad79e0ec6e625796af298f756a142624f514cf3
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/04/2022
-ms.locfileid: "8382289"
+ms.lasthandoff: 09/30/2022
+ms.locfileid: "9607342"
 ---
 # <a name="setting-up-user-accounts-for-integrating-with-microsoft-dataverse"></a>Настройка учетных записей пользователя для интеграции с Microsoft Dataverse
 
+Эта статья содержит обзор порядка настройки учетных записей пользователей, которые требуются для интеграции [!INCLUDE[prod_short](includes/cds_long_md.md)] с [!INCLUDE[prod_short](includes/prod_short.md)].
 
-Эта статья содержит обзор порядка настройки учетных записей пользователей, которые требуются для интеграции [!INCLUDE[prod_short](includes/cds_long_md.md)] с [!INCLUDE[prod_short](includes/prod_short.md)].  
+## <a name="set-up-the-administrator-user-account"></a>Настройка учетной записи пользователя-администратора
 
-## <a name="setting-up-the-administrator-user-account"></a>Настройка учетной записи пользователя-администратора
-Вы должны добавить свою учетную запись администратора для [!INCLUDE[prod_short](includes/prod_short.md)] как пользователя в [!INCLUDE[prod_short](includes/cds_long_md.md)]. Когда вы устанавливаете подключение между [!INCLUDE[prod_short](includes/prod_short.md)] и [!INCLUDE[prod_short](includes/cds_long_md.md)], мы будем использовать эту учетную запись один раз для установки и настройки некоторых необходимых компонентов. 
+Вы должны добавить свою учетную запись администратора для [!INCLUDE[prod_short](includes/prod_short.md)] в качестве пользователя в [!INCLUDE[cds_long](includes/cds_long_md.md)]. При настройке подключения между [!INCLUDE[prod_short](includes/prod_short.md)] и [!INCLUDE[prod_short](includes/cds_long_md.md)] мы будем использовать эту учетную запись однократно — для установки и настройки некоторых необходимых компонентов.
+
+> [!IMPORTANT]
+> Учетная запись администратора должна быть лицензированным пользователем с ролью безопасности **Системный администратор** в среде [!INCLUDE[prod_short](includes/cds_long_md.md)] и глобальным администратором в арендаторе, к которому относится среда. Этой учетной записи не требуется лицензия на [!INCLUDE[prod_short](includes/prod_short.md)], так как она будет использоваться только для подготовки к работе службы в арендаторе [!INCLUDE[prod_short](includes/cds_long_md.md)] и выполнения задач по настройке.
+>
+> По завершении настройки подключения этого пользователя [!INCLUDE[prod_short](includes/cds_long_md.md)] можно будет удалить. Интеграция будет продолжать использовать учетную запись пользователя, которая была автоматически создана специально для интеграции.
 
 ## <a name="permissions-and-security-roles-for-user-accounts-in-prod_short"></a>Разрешения и роли безопасности для учетных записей пользователей в [!INCLUDE[prod_short](includes/cds_long_md.md)]
-При установке базового решения интеграции CDS разрешения для учетной записи пользователя интеграции настраиваются. Если эти разрешения изменены вручную, можно сбросить их. Вы можете сделать это, переустановив базовое решение интеграции CDS, выбрав **Повторить развертывание решения интеграции** на странице **Настройка подключения Common Data Service**. Роль безопасности интеграции Business Central CDS развернута.
+
+Базовое решение интенрации создает для интеграции следующе роли в [!INCLUDE[cds_long](includes/cds_long_md.md)]:
+
+* **Администратор интеграции** — позволяет пользователям управлять подключением между [!INCLUDE[prod_short](includes/prod_short.md)] и [!INCLUDE[cds_long](includes/cds_long_md.md)]. Обычно она назначается только автоматически созданной учетной записи пользователя для синхронизации.
+* **Пользователь интеграции** — позволяет пользователям получать доступ к синхронизированным данным. Обычно она назначается автоматически созданной учетной записи пользователя для синхронизации и любым другим пользователя, которому необходимо просматривать синхронизированные данные или получать к ним доступ.
+
+> [!NOTE]
+>
+> Роли **Администратор интеграции** и **Пользователь интеграции** должны использоваться только пользователем приложения, который запускает интеграцию. Пользователю приложения не требуется назначенная лицнензия на [!INCLUDE[prod_short](includes/prod_short.md)] и [!INCLUDE[cds_long](includes/cds_long_md.md)].
+
+Когда вы устанавливаете базовое решение интеграции, оно настраивает разрешения для учетной записи пользователя интеграции. Если эти разрешения были изменены вручную, их можно сбросить. На странице **Настройка подключения к Dataverse** выберите **Повторить развертывание решения интеграции**, чтобы переустановить базовое решение интеграции. В рамках этого действия будет развернута роль безопасности "Интеграция Business Central".
 
 <!--
 The following tables list the minimum permissions for the user accounts in [!INCLUDE[prod_short](includes/cds_long_md.md)].
@@ -120,9 +135,9 @@ You can allow sales people to view inventory levels for the items they sell by g
 
 -->
 
-## <a name="see-also"></a>См. также  
+## <a name="see-also"></a>См. также
+
 [Интеграция с Microsoft Dataverse](admin-common-data-service.md)  
 [Интеграция с Dynamics 365 Sales](admin-prepare-dynamics-365-for-sales-for-integration.md)  
-
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

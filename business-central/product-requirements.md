@@ -7,14 +7,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: version
-ms.date: 06/08/2022
+ms.date: 08/23/2022
 ms.author: jswymer
-ms.openlocfilehash: 05ff8b9acb0c69f42c8ad36ab8a588c9b597424a
-ms.sourcegitcommit: 7b6d70798b4da283d1d3e38a05151df2209c2b72
+ms.openlocfilehash: 34fc581e0140826e957b50b649d3b72573403552
+ms.sourcegitcommit: 8ad79e0ec6e625796af298f756a142624f514cf3
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/12/2022
-ms.locfileid: "8950440"
+ms.lasthandoff: 09/30/2022
+ms.locfileid: "9607693"
 ---
 # <a name="minimum-requirements-for-using-business-central"></a>Минимальные требования для использования Business Central
 
@@ -41,9 +41,6 @@ ms.locfileid: "8950440"
 
 **Приложения Outlook:** для использования [!INCLUDE[prod_short](includes/prod_short.md)] Online как папки "Входящие" для бизнеса в Outlook требуется Outlook 2019 или более поздней версии, Outlook в Интернете, Outlook для iOS или Outlook для Android. Ваша организация также должна использовать Microsoft 365. Вы не можете использовать [!INCLUDE[prod_short](includes/prod_short.md)] Online как папку "Входящие" для бизнеса в Outlook, если ваша организация использует локальный сервер Exchange. 
 
-> [!IMPORTANT]
-> Начиная с волны выпуска 2 Business Central 2021, вы больше не сможете входить в надстройку Business Central из версий Outlook до 2012 года.
-  
 **Браузеры:** При использовании [!INCLUDE[prod_short](includes/prod_short.md)] в качестве папки "Входящие" для бизнеса в Outlook в браузере надстройка требует, чтобы на компьютере был установлен один из браузеров, перечисленных в качестве поддерживаемых ранее в этой статье.
 
 **Платформы:** при использовании надстройки [!INCLUDE[prod_short](includes/prod_short.md)] для Outlook в Outlook для iOS или Outlook для Android надстройка требует, чтобы в качестве мобильного устройства использовалось одно из поддерживаемых мобильных устройств для [!INCLUDE[prod_short](includes/prod_short.md)].  
@@ -61,9 +58,6 @@ ms.locfileid: "8950440"
 ## <a name="excel"></a>Excel
 
 **Изменить в Excel:** Для использования надстройки Excel для внесения изменений в Excel и оправки этих изменений обратно в [!INCLUDE[prod_short](includes/prod_short.md)] необходимо иметь Excel 2019 или более поздней версии. Дополнительные сведения см. в разделе [Анализ финансовых выписок в Microsoft Excel](finance-analyze-excel.md).  
-
-> [!IMPORTANT]
-> Начиная с волны 2 выпуска Business Central 2021, функция надстройки Excel будет поддерживать только Excel версии 2012 или более поздней.
 
 ## <a name="using-the-business-central-administration-center"></a><a name="TAC"></a> Использование центра администрирования Business Central
 

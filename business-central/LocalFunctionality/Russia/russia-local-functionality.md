@@ -6,23 +6,23 @@ ms.topic: conceptual
 ms.workload: na
 ms.search.keywords: ''
 ms.reviewer: edupont
-ms.date: 04/01/2021
+ms.date: 08/26/2022
 ms.author: soalex
-ms.openlocfilehash: b1839f7f8aeda96b3c027500946aa9d556bc44d3
-ms.sourcegitcommit: 3ca91139035b34cfe0b0303e4caff7c6d02d0d14
+ms.openlocfilehash: aeb20b20773554cc0fd914d2057fc74e1972ab7e
+ms.sourcegitcommit: 8ad79e0ec6e625796af298f756a142624f514cf3
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/14/2022
-ms.locfileid: "8417633"
+ms.lasthandoff: 09/30/2022
+ms.locfileid: "9606546"
 ---
 # <a name="russia-local-functionality"></a>Функциональность локальной версии для России
 
-В [!INCLUDE[prod_short](../../includes/prod_short.md)] имеются особые функции для отслеживания и управления основными средствами, предназначенные именно для России. Например, можно использовать местные функции [!INCLUDE[prod_short](../../includes/prod_short.md)] для расчета НДС на основе российских ставок НДС и российского законодательства.
+В [!INCLUDE[prod_short](../../includes/prod_short.md)] имеются специальные символы для России, которые можно использовать для отслеживания и управления вашим бизнесом. Например, можно использовать местные функции [!INCLUDE[prod_short](../../includes/prod_short.md)] для расчета налога на добавленную стоимость (НДС) на основе российских ставок НДС и российского законодательства.
 
 ## <a name="feature-availability"></a>Доступность функций
 
 * Основные финансы
-    * [Обзор плана счетов](account-schedules-overview.md) **Уже доступно**
+    * [Обзор финансовых отчетов](account-schedules-overview.md) **Уже доступно**
     * [Импорт и экспорт финансовых отчетов](How-to-Import-and-Export-Account-Schedules.md) **Уже доступно**
     * [Определение расширения финансового отчета](How-to-Define-an-Account-Schedule-Extension.md) **Уже доступно**
     * [Определение константы финансового отчета](How-to-Define-an-Account-Schedule-Constant.md) **Уже доступно**
@@ -67,12 +67,12 @@ ms.locfileid: "8417633"
     * [Настройка книг НДС](How-to-Set-Up-VAT-Ledgers.md) **Уже доступно**  
     * [Подготовка операций НДС к учету](How-to-Prepare-VAT-Entries-for-Posting.md) **Уже доступно**  
     * [Зачет НДС](Settlement-VAT.md) **Уже доступно**  
-    * [Загрузка книг покупок и продаж и декларации НДС в формате XML](upload-books-purchases-sales-xml-vat-declaration.md) **Уже доступно**  
+    * [Отправка книг покупок и продаж и декларации НДС в формате XML](upload-books-purchases-sales-xml-vat-declaration.md) **Уже доступно**
     * [НДС по предоплатам клиентов](VAT-by-Customer-prepayments.md) **Уже доступно**  
     * [Восстановление НДС](VAT-reinstatement.md) **Уже доступно**  
     * [Схема налогового агента поставщика](Vendor-Tax-Agent-scheme.md) **Уже доступно**  
 
-* Налоговый учет
+* Налоговый Учет
     * [Налоговый учет](Tax-Accounting.md) **Уже доступно**
     * [Настройка налогового учета](How-to-Set-Up-Tax-Accounting.md) **Уже доступно**  
     * [Налоговые регистры](Tax-Registers.md) **Уже доступно**  
@@ -112,6 +112,5 @@ ms.locfileid: "8417633"
 [Отчеты о платежах (Россия)](Russian-Payables-Reports.md)  
 [Специальные коды для информации о компании, клиентах, поставщиках](special-codes-company-information-customers-vendors.md)  
 [Наличие в странах/регионах и поддерживаемые языки](/dynamics365/business-central/dev-itpro/compliance/apptest-countries-and-translations)  
-
 
 [!INCLUDE[footer-include](../../includes/footer-banner.md)]

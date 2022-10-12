@@ -9,18 +9,18 @@ ms.workload: na
 ms.search.keywords: feature overview
 ms.date: 02/03/2022
 ms.author: edupont
-ms.openlocfilehash: a56d6f2846abc934f611cd1c918cd5a3cc56b5fb
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: 8968c050701871f610c051432229f88f73804f32
+ms.sourcegitcommit: 8ad79e0ec6e625796af298f756a142624f514cf3
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8137098"
+ms.lasthandoff: 09/30/2022
+ms.locfileid: "9607774"
 ---
 # <a name="built-in-analytics"></a>Встроенная аналитика
 
-[!INCLUDE[prod_short](includes/prod_short.md)] поставляется с рядом функций, позволяющих анализировать данные в агрегированном виде. Возможно, вы хотите отслеживать финансовые КПЭ или анализировать финансовые отчеты в Excel.
+[!INCLUDE[prod_short](includes/prod_short.md)] поставляется с некоторыми функциями, позволяющими анализировать данные в агрегированном виде. Эта функция полезна, если, например, вы хотите отслеживать финансовые ключевые показатели эффективности (КПЭ) или анализировать финансовые отчеты в Microsoft Excel. Ниже приведены ссылки, которые помогут вам узнать, как ее использовать.
 
-| Задача | Ссылка |
+| По | Ссылка |
 | --- | --- |
 |Получите обзор КПЭ, таких как наличие денежных средств, рентабельность продаж, чистая прибыль или стоимость запасов. | [Интеллектуальная аналитика](about-intelligent-cloud.md) |
 |Анализируйте данные с помощью встроенных отчетов Power BI. | [Работа с отчетами Power BI](across-working-with-powerbi.md) |
@@ -32,6 +32,5 @@ ms.locfileid: "8137098"
 ## <a name="see-also"></a>См. также
 
 [Обзор бизнес-аналитики и отчетности](reports-use-reports.md)
-
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

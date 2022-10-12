@@ -7,14 +7,14 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: Teams, MS Teams, Microsoft Teams, Skype, Link, Microsoft 365, collaborate, collaboration, teamwork, share records
-ms.date: 05/19/2021
+ms.date: 09/22/2022
 ms.author: jswymer
-ms.openlocfilehash: d663f3099f90f5eccff3ab5acefc97f8b27629b2
-ms.sourcegitcommit: d6af3155bb818430f22d5caca78df322a8d9b178
+ms.openlocfilehash: 17be576dad0eaf31918951e4e11a73acdd0ae70e
+ms.sourcegitcommit: b4da421c19c3aa3031b0344ec2829d2038be6642
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2022
-ms.locfileid: "8528453"
+ms.lasthandoff: 10/03/2022
+ms.locfileid: "9617798"
 ---
 # <a name="sharing-business-central-records-and-page-links-in-microsoft-teams"></a>Совместное использование записей Business Central и ссылок на страницы в Microsoft Teams
 
@@ -102,18 +102,24 @@ The [!INCLUDE [prod_short](includes/prod_short.md)] app lets you:
 
 Непосредственно с большинства страниц коллекций, таких как страница **Товары**, и страниц сведений, например карточка **Товары**, вы можете отправить ссылку на страницу определенным получателям в беседе Teams. Например, вы можете поделиться ссылкой на отфильтрованный просмотр ваших записей. Затем получатели могут выбрать ссылку, чтобы открыть страницу в [!INCLUDE [prod_short](includes/prod_short.md)]\.
 
- ![!Меню Поделиться отображается на карточке.](media/teams-share-link.png "Меню Поделиться отображается на карточке.")
+[![!Меню «Поделиться», отображаемое на карточке.](media/teams-share-link-v2.png "Меню Поделиться отображается на карточке.")](media/teams-share-link-v2.png#lightbox)
 
 ### <a name="prerequisites"></a>Предварительные требования
-У вас есть доступ к Microsoft Teams.
+
+- У вас есть доступ к Microsoft Teams.
+- (Необязательно) Вы установили приложение [!INCLUDE [prod_short](includes/prod_short.md)] в Teams. 
+
+  Если приложение установлено, сообщения, которые вы отправляете со ссылкой, также будут содержать компактную карточку для страницы. Для получения дополнительной информации о том, как установить приложение, см. раздел [Установка приложения [!INCLUDE [prod_short](includes/prod_short.md)] для Microsoft Teams](across-install-app-for-teams.md).
 
 ### <a name="share-a-link"></a>Поделитесь ссылкой
 
 1. В [!INCLUDE [prod_short](includes/prod_short.md)]\, откройте страницу, которой требуется поделиться.
 2. Вверху страницы выберите ![!Действие Поделиться с другими приложениями на страницах.](media/share-icon.png) затем **Поделиться в Teams**.
 3. Если вас попросят, войдите в Teams со своим именем пользователя и паролем.
-4. На странице **Отправка данных в Teams** введите имя человека, группы или канала, куда вы хотите отправить сообщение. 
-5. В окне сообщения будет ссылка на страницу. Добавьте дополнительную информацию, если хотите, затем выберите **Поделиться**.
+4. На странице **Отправка данных в Teams** введите имя человека, группы или канала, куда вы хотите отправить сообщение.
+5. В окне сообщения будет ссылка на страницу. Если установлено приложение [!INCLUDE [prod_short](includes/prod_short.md)] для Teams, карточка для связанной записи или страницы также будет присутствовать в окне сообщения.
+
+   Добавьте дополнительную информацию, если хотите, затем выберите **Поделиться**.
 6. Ссылка отправлена. Если вы хотите перейти к беседе, выберите **Перейти в Teams**.
 
 ## <a name="see-also"></a>См. также
@@ -127,6 +133,5 @@ The [!INCLUDE [prod_short](includes/prod_short.md)] app lets you:
 [Разработка для интеграции Teams](/dynamics365/business-central/dev-itpro/developer/devenv-develop-for-teams)  
 
 ## [!INCLUDE[prod_short](includes/free_trial_md.md)]  
-
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

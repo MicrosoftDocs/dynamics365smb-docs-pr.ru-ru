@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.form: 99000768, 99000779, 99000780, 99000866
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 45fec99ad6082f8d0bb7258415477df833712b41
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
+ms.openlocfilehash: 0ae567c2ac44c1b8b272b7a7f2ed1e9ba4826b60
+ms.sourcegitcommit: 8ad79e0ec6e625796af298f756a142624f514cf3
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8523323"
+ms.lasthandoff: 09/30/2022
+ms.locfileid: "9605770"
 ---
 # <a name="setting-up-manufacturing"></a>Настройка производства
 
@@ -24,9 +24,7 @@ ms.locfileid: "8523323"
 
 После настройки производства можно планировать и выполнять производственные заказы. Дополнительные сведения см. в разделе [Планирование](production-planning.md) и [Производство](production-manage-manufacturing.md).  
 
-
-
- В следующей таблице приводится последовательность задач со ссылками на разделы, в которых они описываются.   
+В следующей таблице приводится последовательность задач со ссылками на разделы, в которых они описываются.
 
 |**Задача**|**Ссылка**|  
 |------------|-------------|  
@@ -42,11 +40,11 @@ ms.locfileid: "8523323"
 |Подготовьте рабочие центры и маршруты для представления субподрядных производственных операций.|[Субподрядное производство](production-how-to-subcontract-manufacturing.md)|  
 
 ## <a name="see-also"></a>См. также
-[Производство](production-manage-manufacturing.md)
-[Планирование](production-planning.md)   
+
+[Производство](production-manage-manufacturing.md)  
+[Планирование](production-planning.md)  
 [Запасы](inventory-manage-inventory.md)  
 [Покупки](purchasing-manage-purchasing.md)  
-[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
-
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

@@ -7,12 +7,12 @@ ms.topic: conceptual
 ms.search.form: HelpAndSupport
 ms.author: edupont
 ms.date: 03/21/2022
-ms.openlocfilehash: d006df90aa6eba3b1970db971cdb14700a3bbd6b
-ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
+ms.openlocfilehash: 9e20cf4862f841e96a83b129a27b7db34494f57c
+ms.sourcegitcommit: 8ad79e0ec6e625796af298f756a142624f514cf3
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/19/2022
-ms.locfileid: "9531706"
+ms.lasthandoff: 09/30/2022
+ms.locfileid: "9607720"
 ---
 # <a name="resources-for-help-and-support"></a>Ресурсы для справки и поддержки
 
@@ -51,7 +51,7 @@ ms.locfileid: "9531706"
 Используйте поле поиска в верхней части области справки, чтобы найти инструкции по использованию продукта, встроенным возможностям и доступным учебным модулям. В зависимости от условий поиска на панели отображаются пять или более ссылок с кратким описанием. Выберите ссылку или уточните условия поиска. Когда вы выбираете ссылку, целевая статья открывается в новой вкладке браузера. Затем вы можете отключить вкладку браузера, чтобы вы могли просматривать соответствующую информацию рядом с [!INCLUDE [prod_short](includes/prod_short.md)]. Область остается открытой, пока вы перемещаетесь по [!INCLUDE [prod_short](includes/prod_short.md)], чтобы контент, который вы искали, оставался видимым.  
 
 > [!NOTE]
-> В текущей версии [!INCLUDE [prod_short](includes/prod_short.md)] поле поиска в области справки применяется только к контенту, опубликованному на сайте [docs.microsoft.com](/dynamics365/business-central).
+> В текущей версии [!INCLUDE [prod_short](includes/prod_short.md)] поле поиска в области справки применяется только к контенту, опубликованному в [документации по Dynamics 365 Business Central](/dynamics365/business-central) на сайте Microsoft Learn.
 
 ## <a name="help--support-page"></a>Страница справки и поддержки
 
@@ -83,7 +83,7 @@ ms.locfileid: "9531706"
 
 - Справка о странице, которая только что просматривалась в [!INCLUDE[prod_short](includes/prod_short.md)]  
 
-  Эта ссылка создается автоматически. Если [!INCLUDE[prod_short](includes/prod_short.md)] не может найти подходящую ссылку, отображается целевая страница на сайте [Docs.microsoft.com](index.md) для версии по умолчанию [!INCLUDE[prod_short](includes/prod_short.md)]. Например, если страница была частью приложения, которое не добавляло сопоставление контекстно-зависимой справки в [!INCLUDE[prod_short](includes/prod_short.md)], то для *Ссылки на обучение* по умолчанию используется целевая страница.  
+  Эта ссылка создается автоматически. Если [!INCLUDE[prod_short](includes/prod_short.md)] не может найти подходящую ссылку, отображается [целевая страница на сайте Microsoft Learn](index.md) для версии [!INCLUDE[prod_short](includes/prod_short.md)] по умолчанию. Например, если страница была частью приложения, которое не добавляло сопоставление контекстно-зависимой справки в [!INCLUDE[prod_short](includes/prod_short.md)], то для *Ссылки на обучение* по умолчанию используется целевая страница.  
   
 - Целевая страница справки для [!INCLUDE[prod_short](includes/prod_short.md)]  
 

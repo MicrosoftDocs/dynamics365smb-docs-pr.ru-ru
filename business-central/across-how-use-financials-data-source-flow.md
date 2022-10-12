@@ -10,12 +10,12 @@ ms.search.keywords: workflow, OData, Power App, SOAP, Power Automate,
 ms.search.form: 1500,
 ms.date: 09/13/2022
 ms.author: edupont
-ms.openlocfilehash: 369ee2b4aded272a8a3a21fe810b4b6c62dd1de0
-ms.sourcegitcommit: 9049f75c86dea374e5bfe297304caa32f579f6e4
+ms.openlocfilehash: 5fe089c0330a8d2b7a71f4907212665722d27d38
+ms.sourcegitcommit: 8ad79e0ec6e625796af298f756a142624f514cf3
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/23/2022
-ms.locfileid: "9585464"
+ms.lasthandoff: 09/30/2022
+ms.locfileid: "9606526"
 ---
 # <a name="use-power-automate-flows-in-prod_short"></a>Использование потоков Power Automate в [!INCLUDE[prod_short](includes/prod_short.md)]
 
@@ -43,9 +43,7 @@ ms.locfileid: "9585464"
 
 ## <a name="instant-flows"></a>Мгновенные потоки
 
-Начиная с выпуска волны 1 2022 года (с мая 2022 года) администратор [!INCLUDE [prod_short](includes/prod_short.md)] Online может [включить функцию](admin-feature-management.md), чтобы поток Power Automate можно было запускать с большинства страниц списка, карточек и документов. Узнайте больше в статье [Настройка автоматизированных рабочих процессов](/dynamics365/business-central/dev-itpro/powerplatform/automate-workflows) в материалах по администрированию.
-
-После того как администратор подключит [!INCLUDE [prod_short](includes/prod_short.md)] к Power Automate, вы увидите все потоки, добавленные вашей организацией, выбрав действие **Автоматизировать** на соответствующих страницах. Мгновенные потоки выполняются, не покидая [!INCLUDE [prod_short](includes/prod_short.md)].
+[!INCLUDE [prod_short](includes/prod_short.md)] может запускать потоки Power Automate с большинства страниц со списками, карточек и страниц документов. После того как администратор подключит [!INCLUDE [prod_short](includes/prod_short.md)] к Power Automate, вы увидите все потоки, добавленные вашей организацией, выбрав действие **Автоматизировать** на соответствующих страницах. Мгновенные потоки выполняются, не покидая [!INCLUDE [prod_short](includes/prod_short.md)]. Узнайте больше в статье [Настройка автоматизированных рабочих процессов](/dynamics365/business-central/dev-itpro/powerplatform/automate-workflows) в материалах по администрированию.
 
 Эти мгновенные рабочие процессы открываются на странице в [!INCLUDE [prod_short](includes/prod_short.md)] Online, чтобы вы оставались в контексте бизнес-процесса, над которым работали. Выберите действие **Автоматизировать** (на некоторых страницах оно расположено в меню **Больше параметров**), выберите пункт меню **Power Automate**, затем выберите соответствующую ссылку, чтобы запустить рабочий процесс. Подключение к Power Automate уже настроено.
 
@@ -62,7 +60,7 @@ ms.locfileid: "9585464"
 
 ## <a name="manage-automated-workflows"></a>Управление автоматизированными рабочими процессами
 
-Вы можете создавать новые потоки или управлять существующими потоками Power Automate в [!INCLUDE [prod_short](includes/prod_short.md)] на странице **Управление потоками Power Automate**. Узнайте больше в статье [Управление потоками Power Automate](/dynamics365/business-central/dev-itpro/powerplatform/manage-power-automate-flows.md) в материалах по администрированию.
+Вы можете создавать новые потоки или управлять существующими потоками Power Automate в [!INCLUDE [prod_short](includes/prod_short.md)] на странице **Управление потоками Power Automate**. Узнайте больше в статье [Управление потоками Power Automate](/dynamics365/business-central/dev-itpro/powerplatform/manage-power-automate-flows) в материалах по администрированию.
 
 Вы также можете управлять доступными рабочими процессами Power Automate на странице **Рабочие процессы** в [!INCLUDE[prod_short](includes/prod_short.md)]. На этой странице перечислены как встроенные утверждения, так и рабочие процессы Power Automate с возможностью последующего включения/отключения, удаления и просмотра рабочего процесса на веб-сайте Power Automate.
 

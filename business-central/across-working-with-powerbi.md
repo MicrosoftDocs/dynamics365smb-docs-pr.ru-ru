@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: account schedule, analysis, reporting, financial report, business intelligence, KPI
 ms.date: 04/01/2021
 ms.author: jswymer
-ms.openlocfilehash: b594ebf1cebd1fbec7302777b5233ffd3eec198b
-ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
+ms.openlocfilehash: 70bcc50bd419a73e242390d5a21e41360ae8d8cf
+ms.sourcegitcommit: 8ad79e0ec6e625796af298f756a142624f514cf3
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/19/2022
-ms.locfileid: "9535322"
+ms.lasthandoff: 09/30/2022
+ms.locfileid: "9606445"
 ---
 # <a name="work-with-power-bi-reports-in-prod_short"></a>Работа с отчетами Power BI в [!INCLUDE [prod_short](includes/prod_short.md)]
 
@@ -52,7 +52,7 @@ ms.locfileid: "9535322"
     - Если вы еще не зарегистрировались на Power BI, выберите [Перейти на домашнюю страницу Power BI](https://powerbi.microsoft.com). Зарегистрируйте учетную запись, затем вернитесь в [!INCLUDE[prod_short](includes/prod_short.md)] и закончите настройку.
 
     - Если у вас уже есть лицензия, выберите **Далее**.
-4. На следующей странице [!INCLUDE[prod_short](includes/prod_short.md)] теперь загрузит демонстрационный отчет в Power BI. Это займет несколько минут, поэтому выполняется в фоновом режиме. Чтобы завершить настройку, выберите **Далее**, затем **Готово**.
+4. На следующей странице [!INCLUDE[prod_short](includes/prod_short.md)] теперь загрузит демонстрационный отчет в Power BI. Этот шаг займет несколько минут, поэтому выполняется в фоновом режиме. Чтобы завершить настройку, выберите **Далее**, затем **Готово**.
 
 Начнется процесс подключения. В процессе [!INCLUDE [prod_short](includes/prod_short.md)] обменивается данными со службой Power BI, чтобы определить, есть ли у вас действующие учетная запись и лицензия Power BI. Как только ваша лицензия будет подтверждена, отчет Power BI по умолчанию отображаются на странице. Если там отчет не отображается, вы можете выбрать отчет из части.
 
@@ -69,9 +69,14 @@ ms.locfileid: "9535322"
 
 ### <a name="show-reports-on-list-pages"></a>Отображение отчетов на страницах списков
 
-[!INCLUDE[prod_long](includes/prod_long.md)] включает информационную панель Power BI на нескольких ключевых страницах списка. Эта информационная панель предоставляет дополнительные сведения о данных в списке. При перемещении между строками в списке отчет обновляется и фильтруется в соответствии с выбранной операцией. Если вы не видите эту часть, то на панели действий выберите **Действия** > **Показать** > **Показать/скрыть отчеты Power BI**.
+[!INCLUDE[prod_long](includes/prod_long.md)] включает информационную панель Power BI на нескольких ключевых страницах списка. Эта информационная панель предоставляет дополнительные сведения о данных в списке. При перемещении между строками в списке отчет обновляется и фильтруется в соответствии с выбранной операцией.
 
 Чтобы узнать, как создавать отчеты для страниц списков, см. раздел [Создание отчетов Power BI для отображения данных списка в [!INCLUDE[prod_short](includes/prod_short.md)]](across-how-use-powerbi-reports-factbox.md).
+
+> [!TIP]
+> Если вы не видите информационную панель Power BI, она может быть скрыта в вашей рабочей области персонализацией. Выберите значок ![Параметры](media/ui-experience/settings_icon_small.png "Значок настроек для ролевого центра"), а затем выберите действие **Персонализация**. Дополнительные сведения см. в разделе [Персонализация рабочей области](ui-personalization-user.md).
+>
+> Или, если у вас более старая версия Business Central, перейдите на панель действий, выберите **Действия** > **Отображение** > **Показать/скрыть отчеты Power BI**.
 
 ### <a name="switch-reports"></a>Переключение отчетов
 
@@ -143,7 +148,6 @@ ms.locfileid: "9535322"
 [Подготовьтесь к ведению бизнеса](ui-get-ready-business.md)  
 [Импорт бизнес-данных из других финансовых систем](across-import-data-configuration-packages.md)  
 [Настройка [!INCLUDE[prod_short](includes/prod_short.md)]](setup.md)  
-[Использование [!INCLUDE[prod_short](includes/prod_short.md)] как источника данных Power BI](across-how-use-financials-data-source-powerbi.md)  
 [Использование [!INCLUDE[prod_short](includes/prod_short.md)] как источника данных Power Apps](across-how-use-financials-data-source-powerapps.md)  
 [Использование [!INCLUDE[prod_short](includes/prod_short.md)] в Power Automate](across-how-use-financials-data-source-flow.md)  
 

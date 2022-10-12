@@ -7,34 +7,34 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: Teams, MS Teams, Microsoft Teams, Skype, Link, Microsoft 365, collaborate, collaboration, teamwork, faq, errors
-ms.date: 10/01/2021
+ms.date: 09/28/2022
 ms.author: jswymer
-ms.openlocfilehash: addfaaf3e5991e5e0bce4d7e39c47f645cd6a2de
-ms.sourcegitcommit: d6af3155bb818430f22d5caca78df322a8d9b178
+ms.openlocfilehash: d9dfc380b1b8a76fc06363740b256f28b162a85a
+ms.sourcegitcommit: 8ad79e0ec6e625796af298f756a142624f514cf3
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2022
-ms.locfileid: "8528583"
+ms.lasthandoff: 09/30/2022
+ms.locfileid: "9606121"
 ---
 # <a name="teams-faq"></a>Вопросы и ответы по Teams
 
 [!INCLUDE [online_only](includes/online_only.md)]
 
-В этой статье даны ответы на некоторые вопросы, которые могут у вас возникнуть по работе с Teams и [!INCLUDE [prod_short](includes/prod_short.md)].
+В этой статье даны ответы на некоторые вопросы, которые могут у вас возникнуть по работе с Microsoft Teams и [!INCLUDE [prod_short](includes/prod_short.md)].
 
 ## <a name="general"></a>[Общие](#tab/general)
 
 ### <a name="how-do-i-sign-in-to-the-prod_shortmd-app-in-teams"></a>Как мне войти в приложение [!INCLUDE [prod_short.md](includes/prod_short.md)] в Teams?
 
-После установки приложения вам будет предложено войти в систему при первом использовании приложения, когда вы вставляете ссылку [!INCLUDE [prod_short.md](includes/prod_short.md)] в чат Teams или выбираете действие **Детали** на карточке в Teams. В зависимости от вашего клиента Teams вам может потребоваться ввести свои учетные данные, которые вы используете для доступа к [!INCLUDE [prod_short.md](includes/prod_short.md)].
+После установки приложения вам будет предложено войти в систему при первом его использовании, когда вы вставляете ссылку [!INCLUDE [prod_short.md](includes/prod_short.md)] в чат Teams или выбираете действие **Детали** на карточке в Teams. В зависимости от вашего клиента Teams вам может потребоваться ввести учетные данные, которые вы используете для доступа к [!INCLUDE [prod_short.md](includes/prod_short.md)].
 
 ### <a name="how-do-i-sign-out-of-the-prod_shortmd-app-in-teams"></a>Как мне выйти из приложения [!INCLUDE [prod_short.md](includes/prod_short.md)] в Teams?
 
-Чтобы выйти из текущего удостоверения пользователя в Teams, используемого для подключения к [!INCLUDE [prod_short.md](includes/prod_short.md)], перейдите в любое окно создания чата, щелкните правой кнопкой мыши значок [!INCLUDE [prod_short.md](includes/prod_short.md)] снизу, затем выберите **Параметры**. Когда появится окно, проверьте свой идентификатор, с которым вы в настоящее время находитесь в системе, затем выберите **Выход**.
+Чтобы выйти из удостоверения в Teams, используемого для подключения к [!INCLUDE [prod_short.md](includes/prod_short.md)], перейдите в любое окно создания чата, щелкните правой кнопкой мыши значок [!INCLUDE [prod_short.md](includes/prod_short.md)] снизу, затем выберите **Параметры**. Когда появится окно, проверьте свой идентификатор, с которым вы в настоящее время находитесь в системе, затем выберите **Выход**.
 
 ### <a name="does-the-app-for-teams-connect-to-prod_shortmd-on-premises"></a>Подключается ли приложение для Teams к [!INCLUDE [prod_short.md](includes/prod_short.md)] On Premises? 
 
-Кол-во Приложение [!INCLUDE [prod_short.md](includes/prod_short.md)] для Teams работает только с [!INCLUDE [prod_short.md](includes/prod_short.md)] Online. Нет планов поддерживать типы развертывания [!INCLUDE [prod_short.md](includes/prod_short.md)], &mdash; например, локальное, гибридное или частное облако, &mdash; которые Microsoft не размещает и не управляет ими напрямую.
+№ Приложение [!INCLUDE [prod_short.md](includes/prod_short.md)] для Teams работает только с [!INCLUDE [prod_short.md](includes/prod_short.md)] Online. Нет планов поддерживать типы развертывания [!INCLUDE [prod_short.md](includes/prod_short.md)], &mdash; например, локальное, гибридное или частное облако, &mdash; которые Microsoft не размещает и не управляет ими напрямую.
 
 ### <a name="does-the-app-work-with-multiple-companies-and-environments"></a>Работает ли приложение с несколькими компаниями и средами? 
 
@@ -46,7 +46,7 @@ ms.locfileid: "8528583"
 
 ### <a name="does-the-prod_shortmd-app-work-with-any-localization-of-prod_shortmd"></a>Работает ли приложение [!INCLUDE [prod_short.md](includes/prod_short.md)] с любой локализацией [!INCLUDE [prod_short.md](includes/prod_short.md)]? 
 
-Да. Приложение предназначено для работы с любой локализацией [!INCLUDE [prod_short.md](includes/prod_short.md)], независимо от того, предлагается ли эта локализация напрямую от Microsoft или через партнера. Дополнительные сведения см. в [Наличие в странах/регионах и поддерживаемые языки](/dynamics365/business-central/dev-itpro/compliance/apptest-countries-and-translations?toc=/dynamics365/business-central/toc.json).
+Да. Приложение предназначено для работы с любой локализацией [!INCLUDE [prod_short.md](includes/prod_short.md)], независимо от того, предлагается ли эта локализация напрямую от Microsoft или через партнера. Подробнее см. в разделе [Наличие в странах/регионах и поддерживаемые языки](/dynamics365/business-central/dev-itpro/compliance/apptest-countries-and-translations?toc=/dynamics365/business-central/toc.json).
 
 ### <a name="which-languages-does-the-prod_shortmd-app-support"></a><a name="language"></a>Какие языки поддерживает приложение [!INCLUDE [prod_short.md](includes/prod_short.md)]?
 
@@ -59,7 +59,7 @@ ms.locfileid: "8528583"
 
 |Кто|Карточка|Детали карточки |
 |-|----|--------------| 
-|Автор сообщения |Отображается на языке, который указан для вас в Teams. Если [!INCLUDE [prod_short.md](includes/prod_short.md)] не предлагает тот же язык, карточка отображается на английском языке. |Отображается на языке, который указан для вас в [!INCLUDE [prod_short.md](includes/prod_short.md)].  которые могут включать языки из языковых приложений, предоставляемых партнерами. |
+|Автор сообщения |Отображается на языке, который указан для вас в Teams. Если [!INCLUDE [prod_short.md](includes/prod_short.md)] не предлагает тот же язык, карточка отображается на английском языке. |Отображается на языке, указанном для вас в [!INCLUDE [prod_short.md](includes/prod_short.md)], которые могут включать языки из языковых приложений, предоставленных партнерами. |
 |Получатель сообщения |Отображается на языке автора сообщения. |Отображается на языке, который указан для вас в [!INCLUDE [prod_short.md](includes/prod_short.md)]. |
 
 Список поддерживаемых языков для [!INCLUDE [prod_short.md](includes/prod_short.md)] см. в разделе [Поддерживаемые языки](/dynamics365/business-central/dev-itpro/compliance/apptest-countries-and-translations?toc=/dynamics365/business-central/toc.json#supported-languages).
@@ -73,50 +73,50 @@ ms.locfileid: "8528583"
 
 ### <a name="does-prod_shortmd-work-with-the-teams-mobile-app"></a>Работает ли [!INCLUDE [prod_short.md](includes/prod_short.md)] с мобильным приложением Teams?
 
-Да. Приложение [!INCLUDE [prod_short.md](includes/prod_short.md)] может быть установлено из классического приложения Teams или браузера либо администратором для всех пользователей. После установки приложения [!INCLUDE [prod_short.md](includes/prod_short.md)] автоматически доступно в Teams для iOS и Android. На мобильных устройствах вы можете просматривать только карточки, отправленные другими, получать доступ к деталям или открывать карточку в полном объеме в мобильном приложении [!INCLUDE [prod_short.md](includes/prod_short.md)]. Вы не можете вставлять ссылки, которые расширяются в карточки при составлении сообщений или искать контакты. Минимальные требования для мобильных устройств см. в разделе [Минимальные требования для использования Business Central](product-requirements.md).
+Да. Приложение [!INCLUDE [prod_short.md](includes/prod_short.md)] может быть установлено из классического приложения Teams или браузера либо администратором для всех пользователей. После установки приложения [!INCLUDE [prod_short.md](includes/prod_short.md)] автоматически доступно в Teams для iOS и Android. На мобильных устройствах вы можете просматривать только карточки, отправленные другими, получать доступ к деталям или открывать карточку в полном объеме в мобильном приложении [!INCLUDE [prod_short.md](includes/prod_short.md)]. Вы не можете вставлять ссылки, которые расширяются в карточки при составлении сообщений или искать контакты. Подробнее о минимальных требованиях для мобильных устройств см. в разделе [Минимальные требования для использования Business Central](product-requirements.md).
 
 ### <a name="is-the-prod_shortmd-app-for-teams-the-same-as-the-prod_shortmd-app-for-ios-and-android"></a>Приложение [!INCLUDE [prod_short.md](includes/prod_short.md)] для Teams такое же, как приложение [!INCLUDE [prod_short.md](includes/prod_short.md)] для iOS и Android?
 
-Кол-во Приложение для Teams — это надстройка к Microsoft Teams и предназначено исключительно для совместной работы, которая сигнализируется в Teams. С другой стороны, мобильное приложение [!INCLUDE [prod_short.md](includes/prod_short.md)] предлагает богатый опыт работы с данными [!INCLUDE [prod_short.md](includes/prod_short.md)] на ваших мобильных устройствах.
+Кол-во Приложение для Teams — это надстройка к Microsoft Teams и предназначено исключительно для совместной работы в Teams. С другой стороны, мобильное приложение [!INCLUDE [prod_short.md](includes/prod_short.md)] предлагает богатый опыт работы с данными [!INCLUDE [prod_short.md](includes/prod_short.md)] на ваших мобильных устройствах.
 
-Мобильным пользователям рекомендуется установить как мобильное приложение, так и приложение для Teams, чтобы получить максимальную отдачу от [!INCLUDE [prod_short.md](includes/prod_short.md)]. Когда оба установлены, вы можете выбрать действие **Открыть на новой вкладке** над карточкой в Teams, чтобы открыть детали карточки в мобильном приложении [!INCLUDE [prod_short.md](includes/prod_short.md)]. Для получения информации об установке [!INCLUDE [prod_short.md](includes/prod_short.md)] и мобильных приложений Teams см.:
+Мобильным пользователям рекомендуется установить как мобильное приложение, так и приложение для Teams, чтобы получить максимальную отдачу от [!INCLUDE [prod_short.md](includes/prod_short.md)]. Когда оба установлены, вы можете выбрать действие **Открыть на новой вкладке** над карточкой в Teams, чтобы открыть детали карточки в мобильном приложении [!INCLUDE [prod_short.md](includes/prod_short.md)]. Подробнее об установке [!INCLUDE [prod_short.md](includes/prod_short.md)] и мобильных приложений Teams см.:
 
 - [Получение Business Central на мобильном устройстве](install-mobile-app.md)
 - [Получение мобильного приложения Teams](https://support.microsoft.com/office/download-the-mobile-app-for-teams-5940ebdc-0082-4fb1-83c4-751edc23dcb5) в службе поддержки Microsoft
 
 ### <a name="does-the-prod_shortmd-app-work-in-all-teams-clients"></a>Приложение [!INCLUDE [prod_short.md](includes/prod_short.md)] работает во всех клиентах Teams?
 
-Кол-во Приложение [!INCLUDE [prod_short.md](includes/prod_short.md)] для Teams не поддерживается при установке в виде пакета для macOS или Linux. На этих платформах вы можете получить доступ к Teams с помощью поддерживаемого браузера.
+№ Приложение [!INCLUDE [prod_short.md](includes/prod_short.md)] для Teams не поддерживается при установке в виде пакета для macOS или Linux. На этих платформах вы получаете доступ к Teams с помощью поддерживаемого браузера.
 
 Минимальные требования в [!INCLUDE [prod_short.md](includes/prod_short.md)] см. в разделе [Минимальные требования для использования Business Central](product-requirements.md#teams).
 
-Для получения информации о выборе клиентов Teams и о том, как их установить, см. раздел [Получение клиентов для Microsoft Teams](/microsoftteams/get-clients) в документации Teams.
+Подробнее о выборе клиентов Teams и о том, как их установить, см. раздел [Получение клиентов для Microsoft Teams](/microsoftteams/get-clients) в документации Teams.
 
 ### <a name="which-teams-client-is-best-for-prod_shortmd"></a>Какой клиент Teams лучше всего подходит для [!INCLUDE [prod_short.md](includes/prod_short.md)]?
 
 Между клиентами Teams есть лишь незначительные различия и ограничения, которые могут повлиять на ваш опыт работы с приложением [!INCLUDE [prod_short.md](includes/prod_short.md)] для Teams. При выборе клиента Teams учитывайте:
 
 - Доступ к камере и местоположению невозможен из окна сведений в настольном приложении Teams.
-- Номера телефонов нельзя активировать из окна сведений в Teams для iOS, Teams для Android или Teams в браузере.
+- Номера телефонов нельзя активировать из окна сведений в Teams для iOS, Android или в браузере.
 - Использование Microsoft Edge с Teams в браузере позволяет легко работать с несколькими удостоверениями и учетными записями, входя в Teams из разных профилей. Чтобы узнать об использовании профилей в Microsoft Edge, см. раздел [Вход и создание нескольких профилей в Microsoft Edge](https://support.microsoft.com/office/sign-in-and-create-multiple-profiles-in-microsoft-edge-df94e622-2061-49ae-ad1d-6f0e43ce6435) в службе поддержки Microsoft.
 
 ### <a name="what-is-the-best-way-for-me-to-demonstrate-prod_shortmd-and-microsoft-teams-to-prospective-customers"></a>Как мне лучше всего продемонстрировать [!INCLUDE [prod_short.md](includes/prod_short.md)] и Microsoft Teams потенциальным клиентам?
 
-Если вы являетесь партнером по перепродаже, вам может потребоваться среда, которую вы можете показывать потенциальным клиентам в рамках предпродажных демонстраций. Чтобы не затрагивать Microsoft Teams в своей организации, вы можете получить демонстрационную учетную запись Microsoft 365 здесь: [https://aka.ms/CDX](https://aka.ms/CDX). Эта учетная запись дает вам полный контроль над независимой организацией Azure, которая включает Microsoft Teams и [!INCLUDE [prod_short.md](includes/prod_short.md)]. Дополнительные сведения см. в разделе [Подготовка демонстрационных сред для Dynamics 365 Business Central](/dynamics365/business-central/dev-itpro/administration/demo-environment).
+Если вы являетесь партнером по перепродаже, вам может потребоваться среда, которую вы можете показывать потенциальным клиентам в рамках предпродажных демонстраций. Чтобы не затрагивать Microsoft Teams в своей организации, вы можете получить демонстрационную учетную запись Microsoft 365 здесь: [https://aka.ms/CDX](https://aka.ms/CDX). Эта учетная запись дает вам полный контроль над независимой организацией Azure, которая включает Microsoft Teams и [!INCLUDE [prod_short.md](includes/prod_short.md)]. Подробнее см. в разделе [Подготовка демонстрационных сред для Dynamics 365 Business Central](/dynamics365/business-central/dev-itpro/administration/demo-environment).
 
-### <a name="does-the-prod_shortmd-app-for-teams-cater-for-my-customization-and-personalization"></a>Учитывает ли приложение [!INCLUDE [prod_short.md](includes/prod_short.md)] для Teams мою настройку и персонализацию?
+### <a name="does-the-prod_shortmd-app-for-teams-cater-to-my-customization-and-personalization"></a>Учитывает ли приложение [!INCLUDE [prod_short.md](includes/prod_short.md)] для Teams мою настройку и персонализацию?
 
 Приложение [!INCLUDE [prod_short.md](includes/prod_short.md)] для Teams может отображать карточки для ссылок на страницы и таблицы клиентов в [!INCLUDE [prod_short.md](includes/prod_short.md)], например страницы и таблицы, созданные из ваших собственных расширений или из AppSource.
 
-На поля, отображаемые на карточке в Teams, также могут влиять настройки [!INCLUDE [prod_short.md](includes/prod_short.md)], установленные для вашей организации. Карточки не учитывают никакую индивидуальную настройку ролей или персонализацию пользователя. Однако в окне сведений о карточке отображаются сведения о записях, как если бы вы их видели в [!INCLUDE [prod_short.md](includes/prod_short.md)], включая любые расширения, настройки ролей и персонализацию пользователей.
+На поля, отображаемые на карточке в Teams, также могут влиять настройки [!INCLUDE [prod_short.md](includes/prod_short.md)], установленные для вашей организации. Карточки не учитывают никакую индивидуальную настройку ролей или персонализацию пользователя. Однако в окне сведений о карточке отображаются сведения о записях, как если бы вы их видели в [!INCLUDE [prod_short.md](includes/prod_short.md)], включая расширения, настройки ролей и персонализацию пользователей.
 
 При поиске контактов поля, совпадающие в таблице **Контакты**, и поля, отображаемые в результатах поиска, не подвергаются никаким настройкам или персонализации.
 
 ### <a name="how-do-the-permissions-required-by-the-app-affect-my-privacy"></a>Как разрешения, требуемые приложением, влияют на мою конфиденциальность?
 
-Перед установкой приложения [!INCLUDE [prod_short.md](includes/prod_short.md)] для Teams вы можете просмотреть минимальные разрешения, необходимые для работы приложения. Устанавливая приложение, вы соглашаетесь с тем, что у приложения есть разрешение на получение сообщений и данных, которые вы ему предоставляете, а у Teams есть разрешение на хранение и обработку этих сообщений.
+Перед установкой приложения [!INCLUDE [prod_short.md](includes/prod_short.md)] для Teams вы можете просмотреть минимальные разрешения, необходимые для работы приложения. Устанавливая приложение, вы даете приложению разрешение на получение сообщений и данных, которые вы ему предоставляете, и вы предоставляете Teams разрешение на хранение и обработку этих сообщений.
 
-Кроме того, некоторые функции [!INCLUDE [prod_short.md](includes/prod_short.md)] требуют открытия внешних ссылок или доступа к вашей камере или географическому положению. Например, предположим, что вы хотите сделать фотографию счета-фактуры на покупку для обработки. Приложение [!INCLUDE [prod_short.md](includes/prod_short.md)] не использует эти возможности без вашего согласия, и они используются только определенными функциями в окне **Подробнее**. Когда вы используете одну из этих функций в первый раз, Teams отобразит диалоговое окно с просьбой предоставить доступ к необходимым возможностям устройства.
+Кроме того, некоторые функции [!INCLUDE [prod_short.md](includes/prod_short.md)] требуют открытия внешних ссылок или доступа к вашей камере или географическому положению. Таким образом, предположим, что вы хотите сделать фотографию счета-фактуры на покупку для обработки. Приложение [!INCLUDE [prod_short.md](includes/prod_short.md)] не использует эти возможности без вашего согласия, и они используются только определенными функциями в окне **Подробнее**. Когда вы используете одну из этих функций в первый раз, Teams отображает диалоговое окно с просьбой предоставить доступ к необходимым возможностям устройства.
 
 - На рабочем столе Teams вы просматриваете и настраиваете разрешения приложений в окне **Настройки**. Выберите изображение своего профиля вверху приложения, выберите **Настройки** > **Разрешения**, затем выберите приложение [!INCLUDE [prod_short.md](includes/prod_short.md)].
 
@@ -143,7 +143,7 @@ ms.locfileid: "8528583"
 
 ### <a name="where-can-i-find-teams-integration-inside-the-business-central-web-client"></a>Где я могу найти интеграцию Teams в веб-клиенте Business Central? 
 
-Информацию о функциональных возможностях веб-клиента, связанного с Teams, см. в [Общий доступ к записям и ссылки страниц в Microsoft Teams](across-working-with-teams.md#share-link).
+Подробнее о функциональных возможностях веб-клиента, связанного с Teams, см. в [Общий доступ к записям и ссылки страниц в Microsoft Teams](across-working-with-teams.md#share-link).
 
 ## <a name="search-for-contacts"></a>[Поиск контактов](#tab/contacts)
 
@@ -153,10 +153,9 @@ ms.locfileid: "8528583"
 
 ### <a name="which-fields-in-the-contacts-table-can-i-search"></a>В каких полях таблицы контактов я могу искать?
 
-По мере того, как вы вводите условия поиска в поле поиска, они сопоставляются с большинством полей в таблице **Контакты**. Поля включают, например, **Номер**, **Имя**, поля **Адрес**, **Номер телефона** или **Номер мобильного телефона**, а также **Электронная почта**. 
+По мере того, как вы вводите условия поиска в поле поиска, они сопоставляются с большинством полей в таблице **Контакты**. Поля включают, например, **Номер**, **Имя**, **Адрес**, **Номер телефона** или **Номер мобильного телефона**, а также **Электронная почта**. 
 
 Условия поиска не сопоставляются ни с одним настраиваемым полем, добавленным в таблицу **Контакты** приложениями и расширениями.
-
 ### <a name="do-search-results-include-companies-and-persons"></a>Включают ли результаты поиска компании и людей?
 
 Да. В [!INCLUDE [prod_short.md](includes/prod_short.md)] контакты могут быть типа **Компания** или типа **Человек**, где одно или несколько физических лиц могут быть связаны с компанией. В результатах поиска компании и физические лица имеют разные значки.
@@ -270,7 +269,7 @@ ms.locfileid: "8528583"
 
 ### <a name="how-do-i-find-out-which-company-a-card-in-teams-belongs-to"></a>Как узнать, какой организации принадлежит карточка в Teams?
 
-Если вы работаете в организациях [!INCLUDE [prod_short.md](includes/prod_short.md)], обратитесь к своему администратору с вопросом о включении логотипа организации для каждой организации. Если этот параметр включен, эта понятная подсказка отображается в любом окне сведений в Teams и показывает компанию и среду, к которой принадлежит запись. Чтобы узнать, как настроить значок организации, см. [Отображение эмблемы организации для быстрого доступа к информации об организации](ui-change-basic-settings.md#badge).
+Если вы работаете в организациях [!INCLUDE [prod_short.md](includes/prod_short.md)], обратитесь к своему администратору с вопросом о включении логотипа организации для каждой организации. Если этот параметр включен, эта понятная подсказка отображается в любом окне сведений в Teams и показывает компанию и среду, к которой принадлежит запись. Чтобы узнать, как настроить эмблему компании, см. раздел [Отображение эмблемы компании](admin-company-information.md#badge).
 
 ## <a name="work-with-card-details"></a>[Работа со сведения карточки](#tab/carddetails)
 
@@ -326,7 +325,7 @@ ms.locfileid: "8528583"
 
 ### <a name="does-share-to-teams-send-a-compact-card"></a>Отправляет ли Отправка данных в Teams компактную карточку? 
 
-В настоящее время доступен обмен только глубокой ссылкой на страницу. Получатели увидят в вашем сообщении гиперссылку, которую они смогут выбрать, чтобы перейти в [!INCLUDE [prod_short.md](includes/prod_short.md)] в отдельном окне браузера. 
+Да. Ссылка автоматически превратится в карточку, если у вас установлено приложение Business Central для Teams. 
 
 ### <a name="will-recipients-receive-the-message-from-me-or-from-a-business-central-service-account"></a>Получат ли получатели сообщение от меня или от учетной записи службы Business Central? 
 
@@ -334,7 +333,7 @@ ms.locfileid: "8528583"
 
 ### <a name="is-share-to-teams-available-in-business-central-on-premises"></a>Доступно ли Отправка данных в Teams в локальной версии Business Central? 
 
-Кол-во Аналогично приложению [!INCLUDE [prod_short.md](includes/prod_short.md)] для Teams эта функция доступна только для веб-клиента в локальной версии [!INCLUDE [prod_short.md](includes/prod_short.md)]. Нет планов поддерживать типы развертывания [!INCLUDE [prod_short.md](includes/prod_short.md)] &mdash; например, локальное, гибридное или частное облако, &mdash; которые Microsoft не размещает и не управляет ими напрямую.
+Кол-во Аналогично приложению [!INCLUDE [prod_short.md](includes/prod_short.md)] для Teams эта функция доступна только для веб-клиента в локальной версии [!INCLUDE [prod_short.md](includes/prod_short.md)]. Нет планов поддерживать типы развертывания [!INCLUDE [prod_short.md](includes/prod_short.md)], &mdash; например, локальное, гибридное или частное облако, &mdash; которые Microsoft не размещает и не управляет ими напрямую.
 
 ### <a name="does-share-to-teams-grant-permissions-to-recipients"></a>Предоставляет ли Отправка данных в Teams разрешения получателям? 
 
