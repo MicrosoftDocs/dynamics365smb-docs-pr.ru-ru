@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: Teams, MS Teams, Microsoft Teams, Skype, Link, Microsoft 365, collaborate, collaboration, teamwork
 ms.date: 09/22/2022
 ms.author: jswymer
-ms.openlocfilehash: fbedf23a65940b73e521d06d17abbbaef77fd512
-ms.sourcegitcommit: 8ad79e0ec6e625796af298f756a142624f514cf3
+ms.openlocfilehash: f826ceaca3ae6f5a68a60a43f4824fcbe60c0753
+ms.sourcegitcommit: 902834e76460d751a345485c66fd2831066b396b
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/30/2022
-ms.locfileid: "9607429"
+ms.lasthandoff: 10/25/2022
+ms.locfileid: "9716563"
 ---
 # <a name="business-central-and-microsoft-teams-integration"></a>Интеграция Business Central и Microsoft Teams
 
@@ -54,7 +54,9 @@ ms.locfileid: "9607429"
 
 Непосредственно на большинстве страниц коллекций и сведений в Business Central вы можете использовать действие **Отправка данных в Teams** из ![!Значок меню «Поделиться» на страницах.](media/share-icon.png "Меню Поделиться отображается на карточке.") чтобы ввести сообщение, выбрать получателей, например членов команды, группы или каналы, и отправить сообщение со ссылкой на страницу Business Central.
 
-![!Меню «Поделиться» отображается на карточке.](media/teams-share-link.png "Меню Поделиться отображается на карточке.")
+[![!Меню «Поделиться», отображаемое на карточке.](media/teams-share-link-v2.png "Меню Поделиться отображается на карточке.")](media/teams-share-link-v2.png#lightbox)
+
+<!--![!The Share menu displayed on a card.](media/teams-share-link.png "The Share menu displayed on a card.")-->
 
 Дополнительные сведения см. в разделе [Общий доступ к записям и ссылки страниц в Microsoft Teams](across-working-with-teams.md#share-link).
 

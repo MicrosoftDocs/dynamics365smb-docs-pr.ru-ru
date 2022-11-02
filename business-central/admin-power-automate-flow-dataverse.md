@@ -10,18 +10,14 @@ ms.search.keywords: Power Automate, Flow, Dataverse
 ms.search.form: ''
 ms.date: 09/05/2022
 ms.author: bholtorf
-ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: 542514d1f8fc8f0bfa6a0bd3c8cacbaf25cab651
-ms.sourcegitcommit: 9049f75c86dea374e5bfe297304caa32f579f6e4
+ms.openlocfilehash: d58a8ba6b1b2c451caa391ef5dd89e0d73d38b5a
+ms.sourcegitcommit: 902834e76460d751a345485c66fd2831066b396b
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/23/2022
-ms.locfileid: "9585896"
+ms.lasthandoff: 10/25/2022
+ms.locfileid: "9716508"
 ---
 # <a name="use-a-power-automate-flow-for-alerts-to-dataverse-entity-changes"></a>Использование потока Power Automate для оповещений об изменениях сущностей Dataverse
-
-> [!IMPORTANT]
-> В этой статье описываются функции, которые станут доступны во второй волне выпуска 2022 года. Пока этот выпуск недоступен, вы не сможете использовать поток Power Automate, чтобы получать оповещения об изменениях сущностей в Dataverse.
 
 Администраторы могут создать автоматизированный поток в Power Automate, который уведомляет ваш [!INCLUDE[prod_short](includes/prod_short.md)] об изменениях в записях в вашей организации [!INCLUDE [cds_long_md](includes/cds_long_md.md)].
 
