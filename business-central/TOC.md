@@ -674,7 +674,9 @@
 ### [Синхронизация товаров с Shopify](shopify/synchronize-items.md)
 ### [Синхронизация клиентов с Shopify](shopify/synchronize-customers.md)
 ### [Синхронизация и выполнение заказов на продажу в Shopify](shopify/synchronize-orders.md)
-### [Запуск заданий в фоновом режиме](shopify/background.md)
+### [Синхронизация транзакций и выплат](shopify/transactions-and-payouts.md)
+### [Настройка налогов для подключения к Shopify](shopify/setup-taxes.md)
+### [Запуск задач в фоновом режиме](shopify/background.md)
 ### [Устранение неполадок с соединителем Shopify](shopify/troubleshoot.md)
 ### [Часто задаваемые вопросы по соединителю Shopify](shopify/shopify-faq.md)
 
@@ -1775,7 +1777,7 @@
 ### [Соответствие служб](compliance/compliance-service-compliance.md)
 ### [Сертификаты](compliance/compliance-certifications.md)
 ## [Обзор служб (только на английском языке)](/dynamics365/business-central/dev-itpro/service-overview?toc=/dynamics365/business-central/toc.json)
-
+## [Функции пробной версии, которые предполагают подключение к другим службам Майкрософт](privacy-connected-services.md)
 # Разработка и администрирование
 ## [Начните с документации по разработке и администрированию](/dynamics365/business-central/dev-itpro/index?toc=/dynamics365/business-central/toc.json)
 ## Задачи администрирования в Business Central
