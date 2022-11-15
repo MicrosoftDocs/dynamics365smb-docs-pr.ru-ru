@@ -1610,6 +1610,7 @@
 ##### [Управление интеграцией команд](admin-teams-integration.md)
 ##### [Установка приложения Business Central в Teams](across-install-app-for-teams.md)
 ##### [Поиск клиентов, поставщиков и контактов](across-search-contacts-teams.md)
+##### [Добавление вкладки Business Central в канал или чат](across-teams-tab.md)
 ##### [Совместное использование записей Business Central и ссылок на страницы в Teams](across-working-with-teams.md)
 ##### [Изменение компании и других параметров](across-teams-settings.md)
 ##### [Вопросы и ответы по Teams](teams-faq.md)
@@ -1784,6 +1785,12 @@
 ### [Задачи администрирования](admin-setup-and-administration.md)
 ### [Создание пользователей в соответствии с лицензиями](ui-how-users-permissions.md)
 ### [Назначение разрешений пользователям и группам](ui-define-granular-permissions.md)
+### Доступ с лицензиями на Microsoft 365
+#### [Обзор](admin-access-with-m365-license.md)
+#### [Настройка доступа с лицензиями на Microsoft 365](admin-access-with-m365-license-setup.md)
+#### [Процедура доступа пользователей](admin-access-with-m365-license-flow.md)
+<!--#### [FAQ](admin-access-with-m365-license-faq.md) file temporarily moved to archive folder-->
+#### [Устранение неполадок](admin-access-with-m365-license-troubleshooting.md) 
 ### [Управление профилями](admin-users-profiles-roles.md)
 ### [Управление пользовательскими параметрами и настройками](admin-manage-user-settings-preferences.md)
 ### [Настройка принтеров](ui-specify-printer-selection-reports.md)
