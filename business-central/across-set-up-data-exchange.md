@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: ''
 ms.date: 06/11/2021
 ms.author: edupont
-ms.openlocfilehash: d2b4ac035f3c6336a5bc5646cbc0145bb671788a
-ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
+ms.openlocfilehash: 2cabd68e2ec22aaef4ad1f0b34305a95a2e93a5e
+ms.sourcegitcommit: 61fdaded30310ba8bdf95f99e76335372f583642
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/19/2022
-ms.locfileid: "9529438"
+ms.lasthandoff: 11/04/2022
+ms.locfileid: "9744928"
 ---
 # <a name="setting-up-data-exchange"></a>Настройка обмена данными
 
@@ -35,6 +35,7 @@ ms.locfileid: "9529438"
 |Настройка проверки подлинности пользователей и URL-адреса поставщика AMC Banking 365 Fundamentals, необходимого для преобразования файлов банка в формат определенного банка.|[Использование расширения AMC Banking 365 Fundamentals](ui-extensions-amc-banking.md)|  
 |Настройте и включите внешний сервис, который позволяет импортировать банковские выписки прямо в электронном виде.|[Настройка службы банковских выписок](bank-how-setup-bank-statement-service.md)|  
 |После включения службы банковских выписок свяжите банковские счета в [!INCLUDE[prod_short](includes/prod_short.md)]|[Настройка банковских счетов](bank-how-setup-bank-accounts.md)|  
+|Настройка экспорта данных для отчетности Интрастат в [!INCLUDE[prod_short](includes/prod_short.md)].|[Настройка отчетности Интрастат](finance-how-setup-report-intrastat.md)|
 |Подготовьтесь к настройке нового определения обмена данными для файла или потока данных, используя XML-схему файла для предварительного заполнения экспресс\-вкладки **Определения столбца** на странице **Определения учета обмена**.|[Использование XML-схем для определения обмена данными](across-how-to-use-xml-schemas-to-prepare-data-exchange-definitions.md)|  
 |Настройте платформу обмена данными, чтобы дать возможность пользователям получать новые документы покупки в определенном формате, отправлять документы продажи в новом формате, импортировать новый банковский файл и производить другие виды обмена данными.|[Настройка определений обмена данными](across-how-to-set-up-data-exchange-definitions.md)|  
 

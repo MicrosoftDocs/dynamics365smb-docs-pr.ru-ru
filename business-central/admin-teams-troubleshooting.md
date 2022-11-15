@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: Teams, MS Teams, Microsoft Teams, Skype, Link, Microsoft 365, collaborate, collaboration, teamwork, troubleshooting, errors
 ms.date: 10/01/2021
 ms.author: jswymer
-ms.openlocfilehash: 9d6d5ca853d11a08c2933dd6abcbc82d0ff4dbc4
-ms.sourcegitcommit: d6af3155bb818430f22d5caca78df322a8d9b178
+ms.openlocfilehash: 064780473eb98f4fde4d170f0aa5c16a998799af
+ms.sourcegitcommit: 61fdaded30310ba8bdf95f99e76335372f583642
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2022
-ms.locfileid: "8528479"
+ms.lasthandoff: 11/04/2022
+ms.locfileid: "9744766"
 ---
 # <a name="troubleshooting-microsoft-teams-integration-with-prod_short"></a>Устранение неполадок интеграции Microsoft Teams с [!INCLUDE [prod_short](includes/prod_short.md)]
 
@@ -159,6 +159,23 @@ ms.locfileid: "8528479"
 ## <a name="my-cards-no-longer-have-a-popout-button"></a>На моих карточках больше нет всплывающей кнопки
 
 С апреля 2022 г. ссылки, отображаемые в виде компактной карточки в Teams, больше не будут содержать кнопку **Всплывание**. Чтобы открыть эту карточку в отдельном окне, выберите кнопку **Сведения**, затем выберите **Открыть в браузере** в меню с многоточием (**...**) в правом верхнем углу окна.
+
+## <a name="cant-pin-a-card-to-tab"></a>Не удается прикрепить карточку к вкладке
+
+У этой причины может быть несколько причин.
+
+- Если карточкой поделились из Search ME, ее нельзя прикрепить к вкладке. 
+
+- Прикрепить карточку невозможно, пока вы не добавите свою первую вкладку Business Central. Эта проблема известна в Teams. 
+
+## <a name="someone-added-a-tab-but-the-tab-doesnt-show-up-for-me"></a>Кто-то добавил вкладку, но у меня она не отображается
+
+Эта проблема связана с тем, что у вас не установлено приложение BC для Teams. Видеть вкладки Business Central могут только те пользователи, у которых установлено это приложение.
+
+## <a name="others-see-different-sorting-or-column-layout-than-what-the-tab-author-sees"></a>Другие пользователи видят другую сортировку или компоновку столбцов (не такие, как у автора)
+
+Эта проблема скорее всего связана с тем, что вы поделились представлением списка, которое является личным представлением. В этом случае поработайте со своим администратором над созданием представлений списка для конкретных ролей, охватывающих различные роли в канале/чате, или создайте такое представление для всей организации, чтобы у всех пользователей данные выглядели одинаково.
+
 
 ## <a name="see-also"></a>См. также
 
