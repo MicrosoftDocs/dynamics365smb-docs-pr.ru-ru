@@ -3,30 +3,32 @@ metadata:
   title: Вопросы и ответы по электронным счетам
   description: Получите ответы о службе обмена документами и поддерживаемых версиях PEPPOL.
   ms.topic: faq
-  ms.openlocfilehash: 0351a756d8b07eee489ff5457c8463f8587dded4
-  ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+  author: edupont04
+  ms.author: edupont
+  ms.openlocfilehash: 42e9278371ac9736d9d6a0d4b8e288fbe295c863
+  ms.sourcegitcommit: 61fdaded30310ba8bdf95f99e76335372f583642
   ms.translationtype: HT
   ms.contentlocale: ru-RU
-  ms.lasthandoff: 02/15/2022
-  ms.locfileid: "8136222"
+  ms.lasthandoff: 11/04/2022
+  ms.locfileid: "9744820"
 title: Вопросы и ответы по электронным счетам
-summary: "Встроенная служба обмена документами отправляет электронные счета в TradeShift, поставщику услуг, который пересылает электронные счета получателям PEPPOL или NemHandel. Но служба поддерживает ограниченное количество версий.   \n\nВ этом разделе по вопросам и ответам даются ответы на некоторые ключевые вопросы об электронном выставлении счетов.  \n"
+summary: "Встроенная служба обмена документами отправляет электронные счета в TradeShift — поставщику услуг, который пересылает электронные счета получателям PEPPOL или NemHandel. Но служба поддерживает ограниченное количество версий.   \n\nВ этом разделе по вопросам и ответам даются ответы на некоторые ключевые вопросы об электронном выставлении счетов.  \n"
 sections:
 - name: Общие
   questions:
   - question: В чем проблема?
     answer: Встроенная поддержка PEPPOL использует интерфейс API, предоставляемый TradeShift. Но этот API не поддерживает более новые версии PEPPOL.
   - question: Какая последняя версия PEPPOL поддерживается API TradeShift?
-    answer: Последняя версия PEPPOL поддерживаемая API TradeShift, это **PEPPOL BIS 2.1**.
+    answer: Последняя версия PEPPOL, поддерживаемая API TradeShift, — **PEPPOL BIS 2.1**.
   - question: Какая последняя версия PEPPOL поддерживается Business Central?
-    answer: Последней версией PEPPOL, поддерживаемой версией Business Central по умолчанию, является **PEPPOL BIS 3.0**. Мы продолжим работу существующей службы обмена документами на основе TradeShift, пока TradeShift поддерживает текущий API. Кроме того, мы продолжаем поддерживать поддерживаемые в настоящее время форматы электронных счетов.
+    answer: Последняя версия PEPPOL, поддерживаемая версией Business Central по умолчанию, — **PEPPOL BIS 3.0**. Мы продолжим работу существующей службы обмена документами на основе TradeShift, пока TradeShift поддерживает текущий API. Кроме того, мы продолжаем поддерживать поддерживаемые в настоящее время форматы электронных счетов.
 - name: 'Приложения '
   questions:
   - question: Есть ли приложения, которые могут помочь нам с электронным выставлением счетов?
     answer: >
       Да! В следующем списке представлены примеры существующих приложений для Business Central, которые поддерживают электронное выставление счетов в новейших форматах. Обратите внимание, что это не полный список:
 
-      - [Pagero — приложение для электронного выставления счетов (Дания, Германия, Финляндия, Франция, Норвегия, Испания, Швеция, Соединенное Королевство)](https://appsource.microsoft.com/product/dynamics-365-business-central/pubid.pagero-4798327%7Caid.pagero%7Cpappid.92b90d1d-ecde-4d26-a95b-1d57720e79c6)
+      - [Pagero — приложение для электронного выставления счетов (Бельгия, Германия, Дания, Италия, Испания, Люксембург, Норвегия, Саудовская Аравия, Сингапур, Соединенное Королевство, США, Финляндия, Франция, Швеция)](https://appsource.microsoft.com/product/dynamics-365-business-central/pubid.pagero-4798327%7Caid.pagero%7Cpappid.92b90d1d-ecde-4d26-a95b-1d57720e79c6)
 
       - [Oseberg Solutions — электронный счет PEPPOL Bis (Норвегия)](https://appsource.microsoft.com/product/dynamics-365-business-central/PUBID.oseberg_solutions%7CAID.oseberg_peppol%7CPAPPID.49206e10-c889-400d-8465-bde6555e00fc)
 
@@ -36,7 +38,7 @@ sections:
 
       - [NAVlab — FTE LITE CLOUD (Италия)](https://appsource.microsoft.com/product/dynamics-365-business-central/PUBID.navlab-1990684%7CAID.felight%7CPAPPID.a239eef8-4446-4379-a0af-e0f8f1e7f260?tab=Overview)
 
-      - [AppVision — электронный счет для Венгрии](https://appsource.microsoft.com/product/dynamics-365-business-central/PUBID.appvision-5226274%7CAID.hungarian_electronic_invoice%7CPAPPID.f5891011-91e3-416e-92c7-db21f1f3a939?tab=Overview) 
+      - [AppVision — электронный счет для Венгрии](https://appsource.microsoft.com/product/dynamics-365-business-central/PUBID.appvision-5226274%7CAID.hungarian_electronic_invoice%7CPAPPID.f5891011-91e3-416e-92c7-db21f1f3a939?tab=Overview)
 
       - [Estonian Dynamics Partners — Telema EDI (Эстония)](https://appsource.microsoft.com/product/dynamics-365-business-central/PUBID.estonian_dynamics_partners%7CAID.telema-edi%7CPAPPID.0f6cfaa0-c4d6-49af-a644-4194e69420be)
 
@@ -50,5 +52,5 @@ sections:
 - name: Требование B2G в Германии
   questions:
   - question: А как насчет требования B2G в Германии?
-    answer: Для пользователей Business Central, у которых есть клиенты в правительстве Германии и которым требуется выставление счетов B2G, с 27 ноября 2020 года они должны отправлять счета в местных форматах, таких как *XRechnung* или *ZUGFeRD*.  Это будет поддерживаться такими приложениями, как [Belware XRechnung](https://appsource.microsoft.com/product/dynamics-365-business-central/PUBID.belwaregmbh2%7CAID.connector_365_xrechnung%7CPAPPID.0e71f27e-d331-4045-a643-c2777a797cc4?tab=Overview) или [электронное выставление счетов Pagero](https://appsource.microsoft.com/product/dynamics-365-business-central/pubid.pagero-4798327%7Caid.pagero%7Cpappid.92b90d1d-ecde-4d26-a95b-1d57720e79c6). 
+    answer: Для пользователей Business Central, у которых есть клиенты в правительстве Германии и которым требуется выставление счетов B2G, с 27 ноября 2020 года они должны отправлять счета в местных форматах, таких как *XRechnung* или *ZUGFeRD*.  Это будет поддерживаться такими приложениями, как [Belware XRechnung](https://appsource.microsoft.com/product/dynamics-365-business-central/PUBID.belwaregmbh2%7CAID.connector_365_xrechnung%7CPAPPID.0e71f27e-d331-4045-a643-c2777a797cc4?tab=Overview) или [электронное выставление счетов Pagero](https://appsource.microsoft.com/product/dynamics-365-business-central/pubid.pagero-4798327%7Caid.pagero%7Cpappid.92b90d1d-ecde-4d26-a95b-1d57720e79c6).
 additionalContent: "## <a name=\"next-steps\"></a>Дальнейшие шаги\nСопутствующую информацию можно найти здесь: \n  - [Отправка электронных документов](sales-how-to-send-electronic-documents.md)"

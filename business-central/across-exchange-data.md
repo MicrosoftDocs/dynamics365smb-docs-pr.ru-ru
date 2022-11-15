@@ -9,12 +9,12 @@ ms.workload: na
 ms.search.keywords: exchange data, external files, electronic documents, AMC Banking, OCT, SEPA
 ms.date: 06/10/2021
 ms.author: edupont
-ms.openlocfilehash: 00bac7c92cf6b29cbd79f5b3f04eaa9dfab1ee2d
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
+ms.openlocfilehash: bb5886d46e780a32f0d0e58d0f62c58cacdc91a7
+ms.sourcegitcommit: 61fdaded30310ba8bdf95f99e76335372f583642
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8133438"
+ms.lasthandoff: 11/04/2022
+ms.locfileid: "9744739"
 ---
 # <a name="exchanging-data"></a>Обмен данными
 Доступен обмен данными между [!INCLUDE[prod_short](includes/prod_short.md)] и внешними файлами или потоками в связи с выполнением бизнес-задач общего характера, таких как отправка и получение электронных документов и импорт или экспорт банковских файлов.  
@@ -34,6 +34,7 @@ ms.locfileid: "8133438"
 |Проинструктируйте банк, чтобы он переводил суммы платежей из банковских счетов ваших клиентов на счет вашей организации в соответствии с настройкой прямого дебета SEPA.|[Создание операций погашения прямого дебета SEPA и их экспорт в файл банка](finance-collect-payments-with-sepa-direct-debit.md#creating-sepa-direct-debit-collection-entries-and-export-to-a-bank-file)|  
 |Для обновления страницы **Валюты** воспользуйтесь поставщиком службы для курсов валют.|[Обновление валютных курсов](finance-how-update-currencies.md)|  
 |Просмотрите, какие элементы файлов сопоставляются с полями [!INCLUDE[prod_short](includes/prod_short.md)] при импорте файлов выписок SEPA CAMT.|[Сопоставление полей при импорте файлов SEPA CAMT](across-field-mapping-when-importing-sepa-camt-files.md)|  
+|Экспорт данных для отчетности Интрастат в [!INCLUDE[prod_short](includes/prod_short.md)].|[Настройка отчетности Интрастат](finance-how-setup-report-intrastat.md)|
 |Просмотрите, какие поля [!INCLUDE[prod_short](includes/prod_short.md)] сопоставляются с элементами файла при экспорте файлов платежей с помощью расширения AMC Banking 365 Fundamentals.|[Сопоставление полей при экспорте файлов платежей с использованием расширения AMC Banking 365 Fundamentals](across-field-mapping-when-exporting-payment-files-using-bank-data-conversion-service.md)|  
 
 ## <a name="see-also"></a>См. также  
