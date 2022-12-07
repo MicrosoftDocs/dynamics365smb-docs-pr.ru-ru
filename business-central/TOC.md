@@ -21,6 +21,7 @@
 #### [Пошаговое руководство. Подбор и отгрузка в базовых конфигурациях склада](walkthrough-picking-and-shipping-in-basic-warehousing.md)
 <!-- #### [Walkthrough: Tracing Serial/Lot Numbers](walkthrough-tracing-serial-lot-numbers.md) -->
 #### [Пошаговое руководство: создание прогнозов движения денежных средств с помощью финансовых отчетов](walkthrough-making-cash-flow-forecasts-by-using-account-schedules.md)
+#### [Пошаговое руководство: настройка и использование соединителя Shopify](shopify/walkthrough-setting-up-and-using-shopify.md)
 <!-- Contoso-->
 ### Демонстрационные данные Contoso Coffee для производства
 #### [Введение в демонстрационные данные Contoso Coffee](contoso-coffee/contoso-coffee-intro.md)
@@ -671,6 +672,7 @@
 <!--Shopify-->
 ## Интернет-магазин с Shopify
 ### [Начало работы с соединителем Shopify](shopify/get-started.md)
+#### [Создание и настройка учетной записи Shopify](shopify/shopify-account.md)
 ### [Синхронизация товаров с Shopify](shopify/synchronize-items.md)
 ### [Синхронизация клиентов с Shopify](shopify/synchronize-customers.md)
 ### [Синхронизация и выполнение заказов на продажу в Shopify](shopify/synchronize-orders.md)
@@ -679,6 +681,7 @@
 ### [Запуск задач в фоновом режиме](shopify/background.md)
 ### [Устранение неполадок с соединителем Shopify](shopify/troubleshoot.md)
 ### [Часто задаваемые вопросы по соединителю Shopify](shopify/shopify-faq.md)
+### [Пошаговое руководство: настройка и использование соединителя Shopify](shopify/walkthrough-setting-up-and-using-shopify.md)
 
 <!--Company Hub-->
 ## Мои организации
@@ -1789,7 +1792,7 @@
 #### [Обзор](admin-access-with-m365-license.md)
 #### [Настройка доступа с лицензиями на Microsoft 365](admin-access-with-m365-license-setup.md)
 #### [Процедура доступа пользователей](admin-access-with-m365-license-flow.md)
-<!--#### [FAQ](admin-access-with-m365-license-faq.md) file temporarily moved to archive folder-->
+#### [Вопросы и ответы](admin-access-with-m365-license-faq.md)
 #### [Устранение неполадок](admin-access-with-m365-license-troubleshooting.md) 
 ### [Управление профилями](admin-users-profiles-roles.md)
 ### [Управление пользовательскими параметрами и настройками](admin-manage-user-settings-preferences.md)

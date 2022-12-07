@@ -9,18 +9,19 @@ ms.topic: how-to
 ms.date: 11/03/2022
 ms.custom: bap-template
 ms.search.keywords: License, access, Microsoft 365, collaborate, collaboration, Teams, Microsoft Teams
-ms.openlocfilehash: f509c0a8bf5e9320eb0f2712863984221b7138b9
-ms.sourcegitcommit: 61fdaded30310ba8bdf95f99e76335372f583642
+ms.search.forms: 9061
+ms.openlocfilehash: 3b3e7d42e077749bd4443506f7423dce03e9e82f
+ms.sourcegitcommit: 61f22aeede684f0ae772353ede6530ff03ff2f90
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/04/2022
-ms.locfileid: "9745024"
+ms.lasthandoff: 11/24/2022
+ms.locfileid: "9804423"
 ---
-# <a name="set-up-access-with-microsoft-365-licenses"></a>Настройка доступа с лицензиями на Microsoft 365 
+# <a name="set-up-business-central-access-in-teams-with-microsoft-365-licenses"></a>Настройка доступа к Business Central в Teams с помощью лицензий на Microsoft 365
 
-Прежде чем пользователи смогут осуществлять доступ к Business Central со своими лицензиями на Microsoft 365, администратору необходимо выполнить ряд действий. Приведенные ниже действия представляют собой минимум, необходимый для начала работы.  
+Прежде чем пользователи смогут осуществлять доступ к Business Central со своими лицензиями на Microsoft 365, администратору необходимо выполнить ряд действий. Приведенные ниже действия представляют собой минимум, необходимый для начала работы. Чтобы узнать больше о доступе с помощью лицензий Microsoft 365, перейдите на страницу [Доступ к Business Central Access с помощью лицензий Microsoft 365](admin-access-with-m365-license.md).
 
-## <a name="deploy-the-business-central-app-for-teams"></a>Развертывание приложения Business Central для Teams 
+## <a name="deploy-the-business-central-app-for-teams"></a>Развертывание приложения Business Central для Teams
 
 Чтобы держатели лицензий на Business Central могли делиться данными в Teams, а также чтобы держатели лицензий на Microsoft 365 могли осуществлять доступ к этим данным, и у тех, и у других должно быть установлено приложение Business Central для Teams. Хотя пользователи могут установить это приложение самостоятельно, администраторам рекомендуется использовать централизованное развертывание. Централизованное развертывание позволяет развернуть приложение для более широкой аудитории в организации и минимизировать усилия отдельных пользователей. 
 
@@ -43,8 +44,10 @@ ms.locfileid: "9745024"
 3. В верхней части страницы лицензии на **Microsoft 365** выберите значок изменения ![Значок изменения](media/edit-pencil.png), затем включите параметр **Настройка разрешений**. 
 4. В разделе **Пользовательские наборы разрешений** добавьте соответствующие наборы разрешений и укажите, применяются ли они к одной организации или ко всем организациям в среде.
 
+С помощью этой конфигурации пользователи, в которых есть лицензия только на Microsoft 365, добавляются в список **Пользователи**, когда впервые осуществляют доступ к Business Central. Для получения дополнительной информации о пользователях см. раздел [Создание пользователей в соответствии с лицензиями](ui-how-users-permissions.md).
+
 > [!NOTE]
-> При синхронизации списка пользователей в Business Central с пользователями в Microsoft 365 в список пользователей Business Central добавляются только пользователи, у которых есть лицензия на Business Central. Пользователи, в которых есть лицензия только на Microsoft 365, добавляются в список пользователей, когда впервые осуществляют доступ к Business Central. Подробнее см. в статье [Создание пользователей в соответствии с лицензиями](ui-how-users-permissions.md).
+> При синхронизации списка пользователей в Business Central с пользователями в Microsoft 365 в список пользователей Business Central добавляются только пользователи, у которых есть лицензия на Business Central. Для большего административного контроля над разрешениями, группами пользователей и профилями вы можете назначить группу безопасности среде. Когда среды защищены с помощью группы безопасности и разрешен доступ с помощью лицензий Microsoft 365, действие **Обновить пользователей из Microsoft 365** на странице **Пользователи** также будет включать в себя пользователей, у которых есть только лицензия Microsoft 365. Чтобы узнать о защите сред, см. раздел [Управление доступом с помощью групп Azure Active Directory](/dynamics365/business-central/dev-itpro/administration/tenant-admin-center-manage-access#manage-access-using-azure-active-directory-groups) в справке для разработчиков и ИТ-специалистов.
 
 > [!TIP]
 > Ищете более быстрый способ начать работу при использовании этой функции в песочнице или тестовой организации? Назначьте набор разрешений **D365 Чтение**, который предоставляет разрешение на доступ к большинству объектов.  
@@ -89,6 +92,6 @@ ms.locfileid: "9745024"
 
 ## <a name="see-also"></a>См. также
 
-[Доступ к Business Central с лицензиями на Microsoft 365](admin-access-with-m365-license.md#minimum-requirements)  
+[Обзор Business Central с лицензиями на Microsoft 365](admin-access-with-m365-license.md#minimum-requirements)  
 [Устранение неполадок с доступом с лицензиями на Microsoft 365](admin-access-with-m365-license-troubleshooting.md)  
 [Интеграция Business Central и Microsoft Teams](across-teams-overview.md)  

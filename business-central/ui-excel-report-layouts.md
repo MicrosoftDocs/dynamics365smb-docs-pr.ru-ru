@@ -8,14 +8,14 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: customized report, document layout, logo, personalize
 ms.search.form: 9650, 9652
-ms.date: 03/14/2022
+ms.date: 11/10/2022
 ms.author: jswymer
-ms.openlocfilehash: 2a46c6eab31e89da0956a7d847a64792b18a2fcd
-ms.sourcegitcommit: 8ad79e0ec6e625796af298f756a142624f514cf3
+ms.openlocfilehash: 790b354577dbb14d7fd0aa75db6e5158f09a5c89
+ms.sourcegitcommit: 9bba11d474e21711cc8e2afefee8efb473170707
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/30/2022
-ms.locfileid: "9606942"
+ms.lasthandoff: 11/18/2022
+ms.locfileid: "9788242"
 ---
 # <a name="working-with-microsoft-excel-layouts"></a>Работа с макетами Microsoft Excel
 
@@ -133,8 +133,6 @@ ms.locfileid: "9606942"
 - Вы можете удалить или скрыть столбцы.
 - Не добавляйте столбцы, если они не включены в набор данных отчета.
 - Вы можете размещать листы в любом порядке, с листом **Данные** первым или последним.
-
-## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/change-documents-dynamics-365-business-central/index)
 
 ## <a name="see-also"></a>См. также
 

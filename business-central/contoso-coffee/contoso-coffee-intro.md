@@ -7,12 +7,12 @@ ms.service: dynamics365-business-central
 ms.search.form: 4760
 author: edupont04
 ms.author: andreipa
-ms.openlocfilehash: 23ae8513cf14aa99f8ae1a437b0544c66bf5360e
-ms.sourcegitcommit: 38b1272947f64a473de910fe81ad97db5213e6c3
+ms.openlocfilehash: 41dac60578399e09b9a67ac5747d48648a872f9c
+ms.sourcegitcommit: 9bba11d474e21711cc8e2afefee8efb473170707
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/29/2022
-ms.locfileid: "9362099"
+ms.lasthandoff: 11/18/2022
+ms.locfileid: "9788235"
 ---
 # <a name="introduction-to-contoso-coffee-demo-data"></a>Введение в демонстрационные данные Contoso Coffee
 
@@ -32,7 +32,7 @@ Contoso Coffee — вымышленная компания, производящ
 
   Этот продукт представляет собой спецификацию с подсборкой, **Маршрут**. Мы рекомендуем его для демонстрации различных методов списания как для компонентов, так и для операций. Метод учета себестоимости *Стандарт*.
 
-- **SP-SCM1008 AutoDripLite**
+- **SP-SCM1006 AutoDripLite**
 
   Этот продукт имеет три варианта и три спецификации, которые можно присвоить единицам хранения. В продукте используется концепция фантомной спецификации. Метод учета себестоимости *Стандарт*.
 
