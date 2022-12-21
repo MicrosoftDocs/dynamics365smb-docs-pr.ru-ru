@@ -1,21 +1,19 @@
 ---
 title: Использование общих функций в различных бизнес-областях
 description: Узнайте о функциях, которые доступны в различных бизнес-областях в Business Central.
-author: SorenGP
+author: brentholtorf
+ms.author: bholtorf
+ms.reviewer: jswymer
+ms.service: dynamics365-business-central
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
-ms.search.keywords: feature overview, functionality
-ms.search.form: 9020, 9022, 9027, 9024
-ms.date: 09/19/2022
-ms.author: edupont
-ms.openlocfilehash: ce1550e658b881aa81a98c6c7e19c0d5b7011d19
-ms.sourcegitcommit: 8ad79e0ec6e625796af298f756a142624f514cf3
+ms.date: 12/01/2022
+ms.custom: bap-template
+ms.openlocfilehash: c9f17c81e3cb2fcd57fef536e9c910416bdb1643
+ms.sourcegitcommit: 12ff9dcbefb47f2280479cceb656ea7e6ac2cfa1
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/30/2022
-ms.locfileid: "9605905"
+ms.lasthandoff: 12/02/2022
+ms.locfileid: "9822483"
 ---
 # <a name="general-business-functionality"></a>Общие бизнес-функции
 
@@ -43,7 +41,8 @@ ms.locfileid: "9605905"
 |Учет сразу нескольких документов продажи и покупки, немедленно или по расписанию.|[Одновременный учет нескольких документов](ui-batch-posting.md)|  
 |Проверка результата учета перед собственно учетом.|[Предварительный просмотр результатов учета](ui-how-preview-post-results.md)|
 |Редактирование выбранных полей в учтенных документах по продажам или покупкам.|[Изменение учтенных документов](across-edit-posted-document.md)|
-| Понимать доступный статус для документов предложений, заказов и кредит-нот, таких как **Открыто** и **Выпущено** | [Поле статуса на документах](ui-document-status.md) |
+|Узнайте, как находить документы и операции, связанные друг с другом, на основе информации о документе, контакте или товаре. | [Поиск связанных операций для документов](ui-find-entries.md) |
+|Понимать доступный статус для документов предложений, заказов и кредит-нот, таких как **Открыто** и **Выпущено** | [Поле статуса на документах](ui-document-status.md) |
 |Узнайте о том, как работать с финансовыми журналами, которые используются для учета на счетах главной книги и других счетах, таких как банковские счета, счета клиентов, поставщиков или основных средств. |[Работа с финансовыми журналами](ui-work-general-journals.md) |
 | Планирование отчета для его выполнения в заданную дату и время. |[Планирование выполнения отчета](ui-work-report.md#ScheduleReport) |
 |Система может помогать выполнять задачи быстрее и с меньшим числом ошибок благодаря автоматическому заполнению полей или строк данными, которые в противном случае вам пришлось бы рассчитываться и вводить самостоятельно.|[Разрешение Business Central предлагать значения](ui-let-system-suggest-values.md)|
