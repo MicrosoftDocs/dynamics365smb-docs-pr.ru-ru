@@ -106,6 +106,13 @@
 ### [Устранение неполадок при самостоятельной регистрации](ui-troubleshoot-self-signup.md)
 ### [Продление пробного использования](admin-extend-trial.md)
 ### [Отмена подписки или удаление Business Central](admin-cancel.md)
+### Написание маркетинговых текстов для товаров на базе ИИ с помощью Copilot
+#### [Обзор](ai-overview.md)
+#### [Как получить предварительную версию (выпуск с Copilot)](ai-preview-getstarted.md)
+#### [Настройка создания маркетинговых текстов для товаров на базе ИИ](enable-ai.md)
+#### [Создание маркетинговых текстов для товаров на базе ИИ](item-marketing-text.md)
+#### [Вопросы и ответы](ai-faq.md)
+
 ## Купить
 ### [Начало работы с подпиской](trial-signup.md#get-started-with-a-subscription)
 ### [Подготовка к ведению бизнеса](ui-get-ready-business.md)
@@ -492,6 +499,7 @@
 ### [Управление вариантами продуктов](inventory-item-variants.md)  
 ### [Работа с атрибутами товаров](inventory-how-work-item-attributes.md)
 ### [Работа с товарами из каталога](inventory-how-work-nonstock-items.md)
+### [Добавление маркетингового текста для товаров](item-marketing-text.md)
 ### [Подсчет и коррекция запасов с использованием документов](inventory-how-count-inventory-with-documents.md)
 ### [Подсчет, коррекция и реклассификация запасов с использованием журналов](inventory-how-count-adjust-reclassify.md)
 ### [Просмотр наличия товаров](inventory-how-availability-overview.md)
@@ -1523,6 +1531,7 @@
 #### [Настройка единиц хранения](inventory-how-to-set-up-stockkeeping-units.md)
 #### [Категоризация товаров](inventory-how-categorize-items.md)
 #### [Импорт множественных изображений товаров](inventory-how-import-item-pictures.md)
+#### [Настройка создания маркетинговых текстов для товаров на базе ИИ с помощью Copilot](enable-ai.md)
 ### Настройка управления проектами
 #### [Настройка проектов](projects-setup-projects.md)
 #### [Настройка ресурсов](projects-how-setup-resources.md)
@@ -1594,6 +1603,7 @@
 ##### [Получение надстройки Business Central для Outlook](admin-outlook.md)
 ##### [Использование Business Central в качестве папки "Входящие" для бизнеса в Outlook](work-outlook-addin.md)
 ##### [Синхронизация с контактами в Outlook](admin-synchronize-outlook-contacts.md)
+###### [Настройка синхронизации контактов для локального экземпляра](admin-contact-sync-setup-onprem.md)
 ##### [Оптимизация Outlook](admin-outlook-optimize.md)
 ##### [Использование Business Central без Outlook](admin-no-outlook.md)
 ##### [Вопросы и ответы](ui-outlook-addin-faq.yml)
@@ -1615,6 +1625,7 @@
 #### Использование Business Central в качестве папки "Входящие" для бизнеса в Outlook 
 ##### [Обзор](admin-outlook.md)
 ##### [Синхронизация с контактами в Microsoft Outlook](admin-synchronize-outlook-contacts.md)
+###### [Настройка синхронизации контактов для локального экземпляра](admin-contact-sync-setup-onprem.md)
 ##### [Использование Business Central без Outlook](admin-no-outlook.md)
 #### Использование Microsoft Teams с Business Central
 ##### [Обзор](across-teams-overview.md)
