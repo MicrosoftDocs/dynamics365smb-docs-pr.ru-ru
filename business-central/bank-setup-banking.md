@@ -1,23 +1,17 @@
 ---
 title: Настройка банка
-description: Карточки банковских счетов служат для отслеживания банковских счетов и настройки банковских выписок, например Yodlee, для обмена данными.
+description: 'Карточки банковских счетов служат для отслеживания банковских счетов и настройки банковских выписок, например Yodlee, для обмена данными.'
 author: SorenGP
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: Yodlee, feed, stream, data exchange, AMC, link
+ms.search.keywords: 'Yodlee, feed, stream, data exchange, AMC, link'
 ms.search.form: 1200
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 95455b4100aa2628fe6f1e2eefdce8c8117f1166
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8516399"
 ---
-# <a name="setting-up-banking"></a>Настройка банковских операций
+# Настройка банковских операций
 
 Используя карточки банковских счетов, можно отслеживать все банковские счета в любой валюте. После настройки банковских счетов можно также использовать параметр печати платежных документов.
 
@@ -31,7 +25,7 @@ ms.locfileid: "8516399"
 
 [!INCLUDE [local-functionality](includes/local-functionality.md)]
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Выверка банковских счетов](bank-manage-bank-accounts.md)  
 [Управление дебиторской задолженностью](receivables-manage-receivables.md)  

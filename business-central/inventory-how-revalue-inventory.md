@@ -1,27 +1,21 @@
 ---
 title: Создание новых операций стоимости для товаров на складе | Документация Майкрософт
-description: Описывается, как повысить или понизить операции стоимости одного или нескольких товаров в запасах путем учета текущей вычисленной стоимости.
+description: 'Описывается, как повысить или понизить операции стоимости одного или нескольких товаров в запасах путем учета текущей вычисленной стоимости.'
 documentationcenter: ''
 author: SorenGP
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: costing, inventory cost, value entries
-ms.search.forms: 5803,
+ms.search.keywords: 'costing, inventory cost, value entries'
+ms.search.forms: '5803,'
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: edad8dcc23a204f4dcfabfa43a9c83918f63f416
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8511550"
 ---
-# <a name="revalue-inventory"></a>Переоценка запасов
+# Переоценка запасов
 Чтобы повысить или понизить стоимость изделия или конкретной учтенной товарной операции, нужно воспользоваться журналом переоценки.
 
-## <a name="to-revalue-inventory"></a>Переоценка запасов
+## Переоценка запасов
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Журнал переоценки**, а затем выберите связанную ссылку.
 2. Выберите действие **Расчет стоимости запасов**.
 3. На странице **Расчет стоимости запасов** заполните требуемые поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
@@ -33,7 +27,7 @@ ms.locfileid: "8511550"
 
 Создаются новые операции стоимости, которые отражают учтенную переоценку. Новые значения можно просмотреть в соответствующей карточке товара.
 
-## <a name="see-also"></a>См. также
+## См. также
 [Сведения о проектировании: переоценка](design-details-revaluation.md)  
 [Запасы](inventory-manage-inventory.md)  
 [Продажи](sales-manage-sales.md)  

@@ -7,17 +7,11 @@ ms.reviewer: andreipa
 ms.service: dynamics365-business-central
 ms.topic: how-to
 ms.date: 11/23/2022
-ms.search.keywords: kit, kitting
-ms.search.form: 900, 901, 902, 903, 904, 907, 910, 916, 920, 921, 922, 923, 940, 941, 942, 930, 931, 932, 914, 915, 905
+ms.search.keywords: 'kit, kitting'
+ms.search.form: '900, 901, 902, 903, 904, 907, 910, 916, 920, 921, 922, 923, 940, 941, 942, 930, 931, 932, 914, 915, 905'
 ms.custom: bap-template
-ms.openlocfilehash: 35d75808f0d2a0212396151dd2a7a2438dfc7fe5
-ms.sourcegitcommit: 61f22aeede684f0ae772353ede6530ff03ff2f90
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 11/24/2022
-ms.locfileid: "9804504"
 ---
-# <a name="assemble-items"></a>Сборка товаров
+# Сборка товаров
 
 Если поле **Метод пополнения** в карточке товара содержит значение **Сборка**, то метод сбора поставки товара по умолчанию — в соответствии со сборочной спецификацией, а также может быть по конкретному ресурсу. Подробнее в разделе [Работа со сборочными спецификациями](assembly-how-work-assembly-boms.md). Узнайте больше о настройке сборочного элемента в разделе [Сборка для заказа и сборка на склад](assembly-assemble-to-order-or-assemble-to-stock.md).
 
@@ -33,7 +27,7 @@ ms.locfileid: "9804504"
 > [!NOTE]  
 > Компоненты сборки обрабатываются особым образом в рамках базовой конфигурации склада. Подробнее см. раздел [Обработка товаров сборки для заказа со складскими подборками](warehouse-how-to-pick-items-with-inventory-picks.md#handling-assemble-to-order-items-with-inventory-picks).
 
-## <a name="to-assemble-an-item-to-stock"></a>Сборка товара на склад
+## Сборка товара на склад
 
 Выполните шаги этой процедуры, чтобы собрать товар на склад. Чтобы узнать о сборке для заказа, перейдите в раздел [Продажа товаров, собранных для заказа](assembly-how-to-sell-items-assembled-to-order.md).
 
@@ -67,14 +61,14 @@ ms.locfileid: "9804504"
 
 После успешного учета сборочный элемент учитывается как выход к коду склада и коду потенциальной ячейки, которые определяются в сборочном заказе. Для созданных вручную сборочных заказов склад может быть скопирован автоматически из поля настройки **Склад по умолчанию для заказов**. Для потоков сборки на заказ код склада может быть скопирован из строки заказа на продажу.  
 
-## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/paths/assemble-items-dynamics-365-business-central/)
+## См. соответствующее [обучение Microsoft](/training/paths/assemble-items-dynamics-365-business-central/)
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Управление сборкой](assembly-assemble-items.md)  
 [Работа со сборочными спецификациями](assembly-how-work-assembly-boms.md)  
 [Запасы](inventory-manage-inventory.md)  
-[Сведения о проектировании: Warehouse Management](design-details-warehouse-management.md)  
+[Обзор Warehouse Management](design-details-warehouse-management.md)
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

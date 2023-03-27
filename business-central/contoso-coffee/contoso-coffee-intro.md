@@ -1,20 +1,15 @@
 ---
 title: Введение в демонстрационные данные Contoso Coffee
-description: Обзор сценариев того, как демонстрационные данные Contoso Coffee могут помочь вам узнать, как использовать производственные возможности в Business Central.
+description: 'Обзор сценариев того, как демонстрационные данные Contoso Coffee могут помочь вам узнать, как использовать производственные возможности в Business Central.'
 ms.date: 04/01/2022
 ms.topic: article
 ms.service: dynamics365-business-central
 ms.search.form: 4760
 author: edupont04
 ms.author: andreipa
-ms.openlocfilehash: 41dac60578399e09b9a67ac5747d48648a872f9c
-ms.sourcegitcommit: 9bba11d474e21711cc8e2afefee8efb473170707
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 11/18/2022
-ms.locfileid: "9788235"
 ---
-# <a name="introduction-to-contoso-coffee-demo-data"></a>Введение в демонстрационные данные Contoso Coffee
+
+# Введение в демонстрационные данные Contoso Coffee
 
 Contoso Coffee — вымышленная компания, производящая бытовые и коммерческие кофеварки. Приложения **Contoso Coffee** для Business Central добавляют демонстрационные данные, которые можно использовать, чтобы узнать, как использовать производственные возможности в Business Central.  
 
@@ -41,7 +36,7 @@ Contoso Coffee — вымышленная компания, производящ
 > [!IMPORTANT]
 > Прежде чем запускать любой из сценариев для Contoso Coffee, разнесите все строки журнала номенклатур с начальным сальдо. Дополнительные требования см. в разделе [Настройка данных Contoso Coffee](#set-up-contoso-coffee-data).
 
-## <a name="set-up-contoso-coffee-data"></a>Настройка данных Contoso Coffee
+## Настройка данных Contoso Coffee
 
 Чтобы использовать демонстрационные данные Contoso Coffee, необходимо установить два приложения в соответствующей компании в [!INCLUDE [prod_short](../includes/prod_short.md)]:  
 
@@ -72,7 +67,7 @@ Contoso Coffee — вымышленная компания, производящ
 
 Когда будете готовы, выберите действие **Создать демонстрационные данные**. Добавление данных в базовую базу данных занимает несколько минут, но затем вы можете запускать различные сценарии.  
 
-## <a name="scenarios"></a>Сценарии
+## Сценарии
 
 В настоящее время демонстрационные данные Contoso Coffee поддерживают следующие сценарии тестирования и обучения:
 
@@ -90,7 +85,7 @@ Contoso Coffee — вымышленная компания, производящ
 > [!IMPORTANT]
 > Для этих пошаговых руководств требуется, чтобы взаимодействие с пользователем было установлено как *Премиум* на странице **Информация о компании**.
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Производство](../production-manage-manufacturing.md)  
 [Производственные отчеты и аналитика в Business Central](../production-reports.md)  

@@ -3,13 +3,8 @@ author: edupont04
 ms.topic: include
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 2520fcfb3b4faa49e89feae0f11a719bbfdb810a
-ms.sourcegitcommit: cdb57f14960f58b1d36a1b373fbf35dfed5fad9e
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 02/24/2022
-ms.locfileid: "8349007"
 ---
+
 В следующей таблице описаны некоторые ключевые отчеты отчетности по покупкам.
 
 | Отчет | Описание | Код | 

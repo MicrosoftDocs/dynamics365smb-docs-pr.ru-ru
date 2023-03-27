@@ -6,17 +6,11 @@ ms.topic: overview
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: relationship, prospect
+ms.search.keywords: 'relationship, prospect'
 ms.date: 06/22/2021
 ms.author: edupont
-ms.openlocfilehash: b489cc9977b6711de8c5851ea7c95899c6dfaf14
-ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "9074748"
 ---
-# <a name="managing-interactions-with-your-contacts"></a>Управление взаимодействиями с контактами
+# Управление взаимодействиями с контактами
 В [!INCLUDE[prod_short](includes/prod_short.md)] взаимодействиями являются все типы коммуникаций между организацией и контактами. Например, взаимодействиями могут быть эл. почта, письмо, телефон, встреча и т. д.
 
 Можно регистрировать все ваши взаимодействия с контактами для того, чтобы отслеживать маркетинговую и торговую деятельность в отношении контактов, а также для улучшения последующих деловых взаимодействий с ними.

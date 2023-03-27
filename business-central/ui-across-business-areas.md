@@ -1,6 +1,6 @@
 ---
 title: Использование общих функций в различных бизнес-областях
-description: Узнайте о функциях, которые доступны в различных бизнес-областях в Business Central.
+description: 'Узнайте о функциях, которые доступны в различных бизнес-областях в Business Central.'
 author: brentholtorf
 ms.author: bholtorf
 ms.reviewer: jswymer
@@ -8,14 +8,8 @@ ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.date: 12/01/2022
 ms.custom: bap-template
-ms.openlocfilehash: c9f17c81e3cb2fcd57fef536e9c910416bdb1643
-ms.sourcegitcommit: 12ff9dcbefb47f2280479cceb656ea7e6ac2cfa1
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 12/02/2022
-ms.locfileid: "9822483"
 ---
-# <a name="general-business-functionality"></a>Общие бизнес-функции
+# Общие бизнес-функции
 
 [!INCLUDE[prod_short](includes/prod_short.md)] включает специальные функции для типичных деловых областей компании, таких как управление финансами или продажами. Дополнительные сведения см. в разделе [Функциональные бизнес-возможности](across-business-functionality.md).
 
@@ -51,7 +45,7 @@ ms.locfileid: "9822483"
 | Настройка определений обмена данными, с помощью которых можно будет отправлять и получать электронные документы. |[Электронный обмен данными](across-data-exchange.md) |
 | Используйте онлайн-карты, чтобы найти местоположения и маршруты к клиентам, поставщикам и адресам в целом. | [Использование онлайн-карт для поиска местоположений и составления маршрутов](across-online-maps.md) |
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 [Администрация](admin-setup-and-administration.md)  

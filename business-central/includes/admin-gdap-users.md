@@ -3,12 +3,6 @@ author: edupont04
 ms.topic: include
 ms.date: 05/09/2022
 ms.author: edupont
-ms.openlocfilehash: f002086780e694ad80f2b5c80e942ab411de1948
-ms.sourcegitcommit: 2fa712d0aabe4287ebd4454c28d142d6baf045a0
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 05/09/2022
-ms.locfileid: "8732967"
 ---
 Кроме сотрудников вашей компании, вы можете видеть других пользователей в списке **Пользователи**. Когда делегированный администратор из компании-партнера по перепродаже входит в среду [!INCLUDE [prod_short](prod_short.md)] от имени своего клиента, для него автоматически создается пользователь в [!INCLUDE [prod_short](prod_short.md)]. Таким образом, действия, выполняемые делегированным администратором, такие как публикация документов, регистрируются в [!INCLUDE [prod_short](prod_short.md)] и связываются с его идентификатором пользователя.  
 

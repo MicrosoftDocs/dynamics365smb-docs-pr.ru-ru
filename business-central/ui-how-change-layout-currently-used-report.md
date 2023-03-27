@@ -1,23 +1,17 @@
 ---
 title: Изменение внешнего вида отчета путем выбора другого макета
-description: Вы можете использовать различные макеты для отчетов и переключаться между ними, чтобы изменять внешний вид отчета.
+description: 'Вы можете использовать различные макеты для отчетов и переключаться между ними, чтобы изменять внешний вид отчета.'
 author: jswymer
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: customized report, document layout, logo, personalize
-ms.search.form: 9652, 9650
+ms.search.keywords: 'customized report, document layout, logo, personalize'
+ms.search.form: '9652, 9650'
 ms.date: 03/07/2022
 ms.author: jswymer
-ms.openlocfilehash: 612dc8ada170ae6925bd3121db324cec1624ce68
-ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 09/19/2022
-ms.locfileid: "9530140"
 ---
-# <a name="legacy-set-the-layout-used-by-a-report"></a>(Устарело) Установите макет, используемый отчетом
+# (Устарело) Установите макет, используемый отчетом
 
 [!INCLUDE[legacy-custom-layouts](includes/legacy-custom-layouts.md)]
 
@@ -30,7 +24,7 @@ ms.locfileid: "9530140"
 > [!TIP]  
 > Отчеты о документах (не списки), в которых используется макет отчета Word, обычно быстрее, чем те, в которых используется макет отчета RDLC. Поэтому если имеется выбор между макетом отчета Word или RDLC для отчета по документам, используйте макет отчета Word для оптимальной производительности.
 
-## <a name="to-change-which-report-layout-to-use-for-a-report-or-document"></a>Чтобы изменить макет отчета для использования в отчете или документе
+## Чтобы изменить макет отчета для использования в отчете или документе
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Выбор макета отчета**, а затем выберите связанную ссылку.
   
@@ -49,7 +43,7 @@ ms.locfileid: "9530140"
 
 Если выбран встроенный макет отчета RDLC или Word, никакие дальнейшие действия не требуются, а макет будет использоваться при следующем выполнении отчета.
 
-## <a name="to-change-the-custom-layout-to-use-for-a-report-layout"></a>Чтобы изменить пользовательский макет отчета
+## Чтобы изменить пользовательский макет отчета
 
 Вы также можете изменить текущий используемый пользовательский макет. Дополнительные сведения см. в разделе [Создание и изменение пользовательских макетов отчетов](ui-how-create-custom-report-layout.md).
 
@@ -62,9 +56,9 @@ ms.locfileid: "9530140"
 
 Теперь вы можете перейти к карточкам своих клиентов и поставщиков, чтобы указать, какой из макетов использовать для различных документов, которые вы создаете для данного клиента или поставщика, например при подтверждении заказа или напоминании об оплате. Для получения дополнительной информации см. [Определение макетов документов для клиентов и поставщиков](ui-define-customer-vendor-document-layouts.md).
 
-## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/change-documents-dynamics-365-business-central/index)
+## См. соответствующее [обучение Microsoft](/training/modules/change-documents-dynamics-365-business-central/index)
 
-## <a name="see-also"></a>См. также
+## См. также
 [Управление макетами отчетов](ui-manage-report-layouts.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
 

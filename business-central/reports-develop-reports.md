@@ -10,18 +10,13 @@ ms.reviewer: edupont
 ms.search.keywords: feature overview
 ms.date: 02/03/2022
 ms.author: kepontop
-ms.openlocfilehash: f1ae794b1345e50d7a649c117514c8cf94dcc025
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8139395"
 ---
-# <a name="developing-business-central-report-layouts-and-datasets"></a>Разработка макетов отчетов и наборов данных Business Central
+
+# Разработка макетов отчетов и наборов данных Business Central
 
 Отчет в [!INCLUDE[prod_short](includes/prod_short.md)] состоит из объекта отчета, который определяет _набор данных_ отчета (какие данные доступны) и количество _макетов отчетов_ (как представлены данные).  
 
-## <a name="developing-report-layouts"></a>Разработка макетов отчетов
+## Разработка макетов отчетов
 
 Возможно, вы хотите изменить существующие макеты отчетов, представленные в [!INCLUDE[prod_short](includes/prod_short.md)]? В зависимости от технологии, используемой для макета, вы можете сделать это самостоятельно (макеты Excel и, возможно, также Word), или, возможно, вам понадобится разработчик (макеты RDLC с идеальной точностью до пикселя).
 
@@ -36,7 +31,7 @@ ms.locfileid: "8139395"
 | Чтобы узнать, как изменить макет по умолчанию для отчета. | [Изменение макета по умолчанию](ui-how-change-layout-currently-used-report.md) |
 <!-- | Научиться работать с макетами Excel | [Работа с макетами Excel](ui-how-add-fields-word-report-layout.md) | -->
 
-## <a name="developing-report-datasets"></a>Разработка наборов данных отчетов
+## Разработка наборов данных отчетов
 
  Чтобы изменить определения набора данных, которые определяют, какие данные доступны в отчете, вам нужен разработчик, который знает язык программирования AL и инструменты для разработки объектов отчета и расширений отчета.
 
@@ -45,7 +40,7 @@ ms.locfileid: "8139395"
 | Узнайте, как программировать отчеты в AL | [Руководство по разработке отчетов](/dynamics365/business-central/dev-itpro/developer/devenv-reports) |
 | Узнайте, как сделать отчеты эффективными | [Руководство по настройке производительности отчетов](/dynamics365/business-central/dev-itpro/performance/performance-developer#writing-efficient-reports) |
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Обзор бизнес-аналитики и отчетности](reports-use-reports.md)
 

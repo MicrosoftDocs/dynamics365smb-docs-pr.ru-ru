@@ -1,21 +1,15 @@
 ---
-title: Функции пробной версии, которые предполагают подключение к другим службам Майкрософт
-description: Обзор служб Майкрософт, к которым подключается пробная версия Business Central.
+title: 'Функции пробной версии, которые предполагают подключение к другим службам Майкрософт'
+description: 'Обзор служб Майкрософт, к которым подключается пробная версия Business Central.'
 author: jswymer
 ms.topic: overview
 ms.service: dynamics365-business-central
-ms.search.keywords: privacy, trial, Microsoft services
+ms.search.keywords: 'privacy, trial, Microsoft services'
 ms.date: 10/28/2022
 ms.author: jswymer
 ms.reviewer: jswymer
-ms.openlocfilehash: baad6c682a744d87cd6e2d2c0536a06a7b349384
-ms.sourcegitcommit: 5bb13966e9ba8d7a3c2f00dd32f167acccf90b82
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 10/28/2022
-ms.locfileid: "9728731"
 ---
-# <a name="trial-features-that-connect-to-other-microsoft-services"></a>Функции пробной версии, которые предполагают подключение к другим службам Майкрософт 
+# Функции пробной версии, которые предполагают подключение к другим службам Майкрософт 
 
 [!INCLUDE[prod_long](includes/prod_long.md)] представляет собой комплексное решение для управления бизнесом, которое глубоко интегрировано с офисными приложениями Microsoft 365 и Power Platform. Ваша бесплатная пробная версия Business Central может подключаться к ряду служб Майкрософт, которые необходимо сначала настроить и включить. Чтобы вы могли использовать бесплатную пробную версию с максимальной пользой, некоторые из этих функций активированы для вас автоматически. Несмотря на наличие подключений из [!INCLUDE[prod_short](includes/prod_short.md)], эти службы не входят в пробную версию, и их необходимо приобретать отдельно, если у вас еще нет к ним доступа.
 

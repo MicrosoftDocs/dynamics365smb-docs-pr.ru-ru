@@ -1,23 +1,17 @@
 ---
 title: Добавление сведений в записи для себя | Документация Майкрософт
-description: Можно добавлять заметки в любые записи в приложении. Например, при наличии дополнительных сведений о заказе на продажу, которые не соответствуют ни одному из полей в заказе на продажу, эти сведения можно изложить в заметке.
+description: 'Можно добавлять заметки в любые записи в приложении. Например, при наличии дополнительных сведений о заказе на продажу, которые не соответствуют ни одному из полей в заказе на продажу, эти сведения можно изложить в заметке.'
 author: jswymer
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: ''
-ROBOTS: NOINDEX,NOFOLLOW
+ms.search.keywords: null
+ROBOTS: 'NOINDEX,NOFOLLOW'
 ms.date: 04/01/2021
 ms.author: jswymer
-ms.openlocfilehash: dde082a69ff9074dc0afd86e6b4e71f0d68d5cbd
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8511948"
 ---
-# <a name="add-and-view-notes-on-records"></a>Добавление и просмотр заметок в записях
+# Добавление и просмотр заметок в записях
  Вы <!--OnPrem and your colleagues -->можете добавить заметки в записи в приложении. На многих страницах, в особенности тех, в которых отображается список записей, например на странице **Заказы на продажу**, предусмотрено действие **Заметки** или информационная панель **Заметки**. <!--OnPrem Notes is where you can write notes about a record to yourself or others, and where you can view notes to you from others. For example, a note could be a general comment or processing instruction to your colleague, who can then respond to your note using their own **Notes**. Or, your colleague can add a note that gives you extra information about a sales order that is not covered by the information on the sales order. These notes and correspondences will follow the record as it is processed in the company.-->
 
  > [!NOTE]  
@@ -46,7 +40,7 @@ ms.locfileid: "8511948"
      If **Notify** is selected, the note will be sent as a notification to the user's **My Notifications** on the Role Center.  -->
 <!--OnPrem
 3.  Choose the **OK** button.  -->
-## <a name="see-also"></a>См. также
+## См. также
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 
 

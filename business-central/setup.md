@@ -1,22 +1,16 @@
 ---
 title: Обзор задач для настройки Business Central
-description: Прочтите обзор необходимых задач по настройке, инициализации и конфигурированию Business Central в соответствии с вашими потребностями.
+description: 'Прочтите обзор необходимых задач по настройке, инициализации и конфигурированию Business Central в соответствии с вашими потребностями.'
 author: edupont04
 ms.topic: overview
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: configure, initialize
+ms.search.keywords: 'configure, initialize'
 ms.date: 09/27/2022
 ms.author: edupont
-ms.openlocfilehash: 65fd173213af21631b27019a79fc8030d6839daf
-ms.sourcegitcommit: 8ad79e0ec6e625796af298f756a142624f514cf3
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 09/30/2022
-ms.locfileid: "9604838"
 ---
-# <a name="overview-of-tasks-to-set-up-prod_short"></a>Обзор задач по настройке [!INCLUDE[prod_short](includes/prod_short.md)]
+# Обзор задач по настройке [!INCLUDE[prod_short](includes/prod_short.md)]
 
 [!INCLUDE[prod_short](includes/prod_short.md)] содержит стандартные конфигурации для большинства бизнес-процессов, но вы можете изменить их в соответствии с потребностями вашей организации. Статья [Краткое руководство по Business Central](quick-start-business-central.md) поможет вам сделать первые шаги в создании своего собственного [!INCLUDE [prod_short](includes/prod_short.md)]. В этой статье представлен обзор того, как можно настроить [!INCLUDE [prod_short](includes/prod_short.md)] для вашей организации.
 
@@ -61,13 +55,13 @@ ms.locfileid: "9604838"
 > [!NOTE]
 > Как администратор, вы можете настроить новую организацию в [!INCLUDE[prod_short](includes/prod_short.md)] с помощью служб RapidStart Services — инструмента, предназначенного для ускорения развертывания, повышения качества внедрения, использования единого подхода к внедрению и повышения производительности за счет автоматизации и упрощения повторяющихся задач. Подробнее см. в разделе [Настройка компании с помощью RapidStart Services](admin-set-up-a-company-with-rapidstart.md)
 
-## <a name="set-up-apps"></a>Настройка приложений
+## Настройка приложений
 
 Помимо основных возможностей в [!INCLUDE [prod_short](includes/prod_short.md)], Microsoft добавляет несколько приложений, перечисленных на [странице **Управление расширениями**](https://businesscentral.dynamics.com/?page=2500). Начиная с октября 2022 года каждое приложение предоставляет ссылку для запуска своей страницы настройки — просто выберите действие **Настройка**.  
 
 Вы также можете добавить возможности в свое [!INCLUDE [prod_short](includes/prod_short.md)], добавляя приложения AppSource. Подробнее см. в разделе [Настройка Business Central Online с помощью расширений](ui-extensions.md).  
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Обзор информации о компании](admin-company-information.md)  
 [Администрация](admin-setup-and-administration.md)  
@@ -79,7 +73,7 @@ ms.locfileid: "9604838"
 [Основные Средства](fa-manage.md)  
 [Управление сборкой](assembly-assemble-items.md)  
 [Производство](production-manage-manufacturing.md)  
-[Управление складом](warehouse-manage-warehouse.md)  
+[Обзор Warehouse Management](design-details-warehouse-management.md)
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 [Создание новых организаций в [!INCLUDE[prod_short](includes/prod_short.md)]](about-new-company.md)  
 [Подготовка к ведению бизнеса](ui-get-ready-business.md)  

@@ -1,26 +1,20 @@
 ---
 title: Настройка учетных записей пользователя для интеграции с Microsoft Dataverse | Документы Майкрософт
-description: Узнайте, как настроить учетные записи пользователей, которые приложения используют для обмена данными, и что используют люди для доступа к данным в приложениях и их синхронизации.
+description: 'Узнайте, как настроить учетные записи пользователей, которые приложения используют для обмена данными, и что используют люди для доступа к данным в приложениях и их синхронизации.'
 author: brentholtorf
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: ''
+ms.search.keywords: null
 ms.date: 04/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: 7683c301131fa5729d74e1c6ef70880db7f3327d
-ms.sourcegitcommit: 8ad79e0ec6e625796af298f756a142624f514cf3
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 09/30/2022
-ms.locfileid: "9607342"
 ---
-# <a name="setting-up-user-accounts-for-integrating-with-microsoft-dataverse"></a>Настройка учетных записей пользователя для интеграции с Microsoft Dataverse
+# Настройка учетных записей пользователя для интеграции с Microsoft Dataverse
 
 Эта статья содержит обзор порядка настройки учетных записей пользователей, которые требуются для интеграции [!INCLUDE[prod_short](includes/cds_long_md.md)] с [!INCLUDE[prod_short](includes/prod_short.md)].
 
-## <a name="set-up-the-administrator-user-account"></a>Настройка учетной записи пользователя-администратора
+## Настройка учетной записи пользователя-администратора
 
 Вы должны добавить свою учетную запись администратора для [!INCLUDE[prod_short](includes/prod_short.md)] в качестве пользователя в [!INCLUDE[cds_long](includes/cds_long_md.md)]. При настройке подключения между [!INCLUDE[prod_short](includes/prod_short.md)] и [!INCLUDE[prod_short](includes/cds_long_md.md)] мы будем использовать эту учетную запись однократно — для установки и настройки некоторых необходимых компонентов.
 
@@ -29,7 +23,7 @@ ms.locfileid: "9607342"
 >
 > По завершении настройки подключения этого пользователя [!INCLUDE[prod_short](includes/cds_long_md.md)] можно будет удалить. Интеграция будет продолжать использовать учетную запись пользователя, которая была автоматически создана специально для интеграции.
 
-## <a name="permissions-and-security-roles-for-user-accounts-in-prod_short"></a>Разрешения и роли безопасности для учетных записей пользователей в [!INCLUDE[prod_short](includes/cds_long_md.md)]
+## Разрешения и роли безопасности для учетных записей пользователей в [!INCLUDE[prod_short](includes/cds_long_md.md)]
 
 Базовое решение интенрации создает для интеграции следующе роли в [!INCLUDE[cds_long](includes/cds_long_md.md)]:
 
@@ -38,7 +32,7 @@ ms.locfileid: "9607342"
 
 > [!NOTE]
 >
-> Роли **Администратор интеграции** и **Пользователь интеграции** должны использоваться только пользователем приложения, который запускает интеграцию. Пользователю приложения не требуется назначенная лицнензия на [!INCLUDE[prod_short](includes/prod_short.md)] и [!INCLUDE[cds_long](includes/cds_long_md.md)].
+> Роли **Администратор интеграции**и **Пользователь интеграции** должны использоваться только пользователем приложения, который запускает интеграцию. Пользователю приложения не требуется назначенная лицнензия на [!INCLUDE[prod_short](includes/prod_short.md)] и [!INCLUDE[cds_long](includes/cds_long_md.md)].
 
 Когда вы устанавливаете базовое решение интеграции, оно настраивает разрешения для учетной записи пользователя интеграции. Если эти разрешения были изменены вручную, их можно сбросить. На странице **Настройка подключения к Dataverse** выберите **Повторить развертывание решения интеграции**, чтобы переустановить базовое решение интеграции. В рамках этого действия будет развернута роль безопасности "Интеграция Business Central".
 
@@ -135,7 +129,7 @@ You can allow sales people to view inventory levels for the items they sell by g
 
 -->
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Интеграция с Microsoft Dataverse](admin-common-data-service.md)  
 [Интеграция с Dynamics 365 Sales](admin-prepare-dynamics-365-for-sales-for-integration.md)  

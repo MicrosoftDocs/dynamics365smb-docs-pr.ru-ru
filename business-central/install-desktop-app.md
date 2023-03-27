@@ -1,26 +1,20 @@
 ---
 title: Получение Business Central на настольном компьютере
-description: В этой статье описывается, как установить приложение Business Central на настольный компьютер Windows или MACiOS.
+description: 'В этой статье описывается, как установить приложение Business Central на настольный компьютер Windows или MACiOS.'
 author: jswymer
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: phone, tablet
+ms.search.keywords: 'phone, tablet'
 ms.date: 01/11/2022
 ms.author: jswymer
-ms.openlocfilehash: b188268feeb483a62ee82990ba3cf92b5afa1606
-ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 09/19/2022
-ms.locfileid: "9528979"
 ---
-# <a name="get-business-central-desktop-app"></a>Получение приложения Business Central на настольном компьютере
+# Получение приложения Business Central на настольном компьютере
 
 Если у вас есть компьютер с Windows (ПК) или macOS, вы можете установить приложение Business Central на свой настольный компьютер. Приложение работает с Business Central Online и локально.
 
-## <a name="why-use-the-app"></a>Почему нужно использовать это приложение?
+## Почему нужно использовать это приложение?
 
 Приложение Business Central похоже на веб-клиент, но имеет несколько преимуществ, например:
 
@@ -31,11 +25,11 @@ ms.locfileid: "9528979"
 
      Когда вы открываете приложение для определенной среды, имя среды включается в заголовок окна. При работе с несколькими средами [!INCLUDE[prod_short](includes/prod_short.md)] каждое окно приложения отображается отдельно. По названию вам будет легче увидеть, какое окно связано с каждой средой.
 
-## <a name="install-the-app-for-business-central-online"></a>Установка приложения Business Central Online
+## Установка приложения Business Central Online
 
 Установить приложение Business Central Online можно двумя способами. Вы можете установить его прямо из браузера или из Microsoft Store. Какой бы подход вы ни использовали, это одно и то же приложение. Разница в том, что установка из браузера позволяет установить приложение для каждой среды, если их несколько.
 
-### <a name="from-microsoft-store"></a>Из Microsoft Store
+### Из Microsoft Store
 
 1. Перейдите в [Microsoft Store](https://go.microsoft.com/fwlink/?linkid=2182870).
 2. Выберите **Получить** > **Установить**. 
@@ -43,7 +37,7 @@ ms.locfileid: "9528979"
 
 В следующий раз, когда вы захотите открыть приложение, найдите его в меню **Пуск**.
 
-### <a name="from-the-browser"></a>Из браузера
+### Из браузера
 
 1. Откройте веб-клиент [!INCLUDE[prod_short](includes/prod_short.md)] в Microsoft Edge или Google Chrome.
 
@@ -63,7 +57,7 @@ ms.locfileid: "9528979"
 
 После установки приложение появится в меню **Пуск**. Если вы выбрали определенную среду для приложения, имя среды добавляется к имени приложения в меню **Пуск**.
 
-## <a name="install-the-app-for-business-central-on-premises"></a>Установка приложения Business Central локально
+## Установка приложения Business Central локально
 
 Установка классического приложения при использовании локальной версии Business Central в выполняется прямо в браузере, как [описано выше](#from-the-browser). Если у вас только один клиент, просто откройте Business Central в своем браузере и выберите ![Значок для установки приложения в Microsoft Edge.](media/ui-edge-install-app-icon.png) **Приложение доступно. Установить Business Central** или ![Значок для установки приложения в Chrome.](media/ui-chrome-install-app-icon.png) **Установить Business Central**, как показано выше.
 
@@ -72,9 +66,9 @@ ms.locfileid: "9528979"
 > [!IMPORTANT]
 > Если вы используете версию Business Central впуска 2021 волны 1 (версия 18) или более раннюю, вы не сможете установить приложение, как описано в этой статье. Вместо этого установите приложение из [Microsoft Store](https://go.microsoft.com/fwlink/?LinkId=734848). Дополнительные сведения и справку об установке этого устаревшего приложения см. в разделе [Подготовка и установка приложения Business Central](/dynamics365/business-central/dev-itpro/deployment/install-business-central-app).
 
-## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/alternative-interfaces-dynamics-365-business-central/index)
+## См. соответствующее [обучение Microsoft](/training/modules/alternative-interfaces-dynamics-365-business-central/index)
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Вопросы и ответы по мобильным приложениям](ui-mobile-faq.yml)  
 [Подготовьтесь к ведению бизнеса](ui-get-ready-business.md)  

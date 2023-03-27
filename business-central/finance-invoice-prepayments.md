@@ -1,22 +1,16 @@
 ---
 title: Предоплата по счету
-description: Узнайте, как использовать предоплаты, чтобы выставлять счета и собирать необходимые авансы от клиентов и переводить авансы поставщикам в Business Central.
+description: 'Узнайте, как использовать предоплаты, чтобы выставлять счета и собирать необходимые авансы от клиентов и переводить авансы поставщикам в Business Central.'
 author: edupont04
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.form: 42, 42, 48, 50, 52, 9305, 9307
+ms.search.form: '42, 42, 48, 50, 52, 9305, 9307'
 ms.date: 12/03/2021
 ms.author: edupont
-ms.openlocfilehash: c39d5e0462c9fb4563e9f481256c916f0b9c397e
-ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 09/19/2022
-ms.locfileid: "9535214"
 ---
-# <a name="invoicing-prepayments"></a>Выставление счетов на предоплату
+# Выставление счетов на предоплату
 
 [!INCLUDE [prepayment_def](includes/prepayment_def.md)]
 
@@ -35,9 +29,9 @@ ms.locfileid: "9535214"
 |Создание заказа, коррекция суммы предоплаты и выставление счета на сумму предоплаты.|[Создание счетов на предоплату](finance-how-to-create-prepayment-invoices.md)|  
 |Выставление дополнительного счета на предоплату для дополнительных товаров или дополнительного аванса по исходному заказу, или выдача кредит-ноты предоплаты.|[Корректировка предоплат](finance-how-to-correct-prepayments.md)|  
 
-## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/prepayment-invoices-dynamics-365-business-central/index)
+## См. соответствующее [обучение Microsoft](/training/modules/prepayment-invoices-dynamics-365-business-central/index)
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Пошаговое руководство. Настройка и выставление счетов на продажу](walkthrough-setting-up-and-invoicing-sales-prepayments.md)  
 [Финансы](finance.md)  

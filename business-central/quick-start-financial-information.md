@@ -1,31 +1,26 @@
 ---
 title: Краткое руководство по финансовой информации
-description: Подготовьте свою компанию к работе, настроив финансовую информацию в Business Central.
+description: 'Подготовьте свою компанию к работе, настроив финансовую информацию в Business Central.'
 author: rubenseishima
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: quickstart
-ms.search.form: ''
+ms.search.form: null
 ms.date: 08/25/2022
 ms.author: a-reishima
-ms.openlocfilehash: 6d8383015e977acffe94555eec00bfb8f104085d
-ms.sourcegitcommit: 9049f75c86dea374e5bfe297304caa32f579f6e4
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 09/23/2022
-ms.locfileid: "9586082"
 ---
-# <a name="financial-information-quick-start"></a>Краткое руководство по финансовой информации
+
+# Краткое руководство по финансовой информации
 
 После ввода основной информации о компании в [!INCLUDE[prod_short](includes/prod_short.md)] одним из следующих шагов является заполнение финансового раздела. Вы делаете это не только для получения или совершения платежей, но и для надлежащего управления числовыми показателями вашего бизнеса и составления отчетов.
 
-## <a name="the-chart-of-accounts"></a>План счетов
+## План счетов
 
 План счетов (COA) предлагает обзор финансов компании, перечисляя счета в структурированных группах, таких как активы, обязательства, доходы, себестоимость проданных товаров и расходы. [!INCLUDE[prod_short](includes/prod_short.md)] включает стандартный план счетов, который можно настроить в соответствии с практикой бухучета в вашей организации.
 
-## <a name="set-up-the-chart-of-accounts"></a>Настройка плана счетов
+## Настройка плана счетов
 
 В следующем видео показано, как настроить план счетов в [!INCLUDE[prod_short](includes/prod_short.md)].
 
@@ -33,7 +28,7 @@ ms.locfileid: "9586082"
 
 > [!Video https://www.microsoft.com/videoplayer/embed/RE43KO9?rel=0]
 
-### <a name="add-an-account-to-the-chart-of-accounts"></a>Добавление счета в план счетов
+### Добавление счета в план счетов
 
 Чтобы добавить счет, не включенный по умолчанию в [!INCLUDE[prod_short](includes/prod_short.md)], — например, садовые услуги, — просто выполните следующие действия:
 
@@ -61,7 +56,7 @@ ms.locfileid: "9586082"
 
 5. Требуемым образом заполните оставшиеся поля на странице **Карточка счета ГК**. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 
-### <a name="get-an-overview-of-the-chart-of-accounts"></a>Получение обзора плана счетов
+### Получение обзора плана счетов
 
 Если вам нужен более компактный вид плана счетов, без столбцов для групп учета, типа учета или типа затрат, например, **Обзор плана счетов** перечисляет основную информацию для каждого счета в таблице меньшего размера. Кроме того, вы можете свернуть или развернуть группы, чтобы скрыть счета внутри них.
 
@@ -69,7 +64,7 @@ ms.locfileid: "9586082"
 
 Узнайте больше о плане счетов и главной книге в разделе [Принципы работы с главной книгой и планом счетов](finance-general-ledger.md).
 
-## <a name="set-up-bank-accounts"></a>Настройка банковских счетов
+## Настройка банковских счетов
 
 Банковские счета в [!INCLUDE[prod_short](includes/prod_short.md)] регистрируют банковские операции и связаны с записями в плане счетов. В следующем видео показано, как настроить банковские счета.
 
@@ -84,9 +79,9 @@ ms.locfileid: "9586082"
    Поле отличается от поля **Номер банковского счета**, также доступно на экспресс-вкладке **Общее**.
 4. Заполните требуемым образом поля на странице **Карточка банковского счета**. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 
-## <a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/set-up-financial-management-dynamics-365-business-central/).
+## См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/set-up-financial-management-dynamics-365-business-central/).
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Настройка плана счетов](finance-setup-chart-accounts.md)  
 [Настройка банковских счетов](bank-how-setup-bank-accounts.md)  

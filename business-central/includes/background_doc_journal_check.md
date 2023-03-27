@@ -3,14 +3,8 @@ author: bholtorf
 ms.topic: include
 ms.date: 02/23/2022
 ms.author: bholtorf
-ms.openlocfilehash: 7441e5632c5d1541f76ecc4c64c334e1c1853068
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8525239"
 ---
-## <a name="check-data-in-documents-and-journals-while-you-work"></a>Проверка данных в документах и журналах во время работы
+## Проверка данных в документах и журналах во время работы
 
 В волне 1 выпуска 2022 года мы представили функцию, которая будет проверять данные, которые вы вводите в документы и журналы, во время их ввода. Например, включение этой функции может помочь избежать ошибок при вводе данных или невозможности опубликовать что-либо из-за ошибки. 
 

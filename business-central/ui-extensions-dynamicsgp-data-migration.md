@@ -1,28 +1,22 @@
 ---
 title: Миграция данных из Dynamics GP до 15.3
-description: До обновления 15.3 можно использовать расширение для миграции данных Dynamics GP, чтобы перенести клиентов, поставщиков и другое из Dynamics GP в Business Central.
+description: 'До обновления 15.3 можно использовать расширение для миграции данных Dynamics GP, чтобы перенести клиентов, поставщиков и другое из Dynamics GP в Business Central.'
 author: edupont04
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms. search.keywords: app, add-in, manifest, customize, import, implement
+ms. search.keywords: 'app, add-in, manifest, customize, import, implement'
 ms.date: 06/23/2021
 ms.author: edupont
 ROBOTS: NOINDEX
-ms.openlocfilehash: cdea4b0f37e519aaca1fedec0b680452c37d55bc
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8134825"
 ---
-# <a name="the-dynamics-gp-data-migration-extension"></a>Расширение для миграции данных Dynamics GP
+# Расширение для миграции данных Dynamics GP
 
 > [!NOTE]
 > Это расширение считается устаревшим после выхода обновления 15.3. Мы рекомендуем пользователям, которые хотят перейти с Dynamics GP, начать использовать мастер **Миграция в облако**. Расширение **Миграция в облако** обладает более надежной функциональностью и переносит больше данных в Business Central из Dynamics GP. Для получения дополнительной информации см. раздел [Миграция в Business Central Online из Dynamics GP](/dynamics365/business-central/dev-itpro/administration/migrate-dynamics-gp) в содержимом по администрированию для [!INCLUDE[prod_short](includes/prod_short.md)].
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Расширение интеллектуального облака для миграции в облако](ui-extensions-data-replication.md)  
 [Импорт бизнес-данных из других финансовых систем](across-import-data-configuration-packages.md)  

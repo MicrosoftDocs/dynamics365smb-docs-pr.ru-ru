@@ -1,23 +1,17 @@
 ---
 title: Обзор задач управления закупками
-description: Описывает задачи по управлению покупками или процессами покупок, включая работу счетов покупки и заказов на покупку.
+description: 'Описывает задачи по управлению покупками или процессами покупок, включая работу счетов покупки и заказов на покупку.'
 author: SorenGP
 ms.topic: overview
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: procurement, supply, vendor order
-ms.search.form: 460, 9307
+ms.search.keywords: 'procurement, supply, vendor order'
+ms.search.form: '460, 9307'
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: c24e8c4550c03965524626daf291f6496e92bde0
-ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 09/19/2022
-ms.locfileid: "9528227"
 ---
-# <a name="purchasing"></a>Закупки
+# Закупки
 
 Счет покупки или заказ на покупку создается для записи стоимости покупок и отслеживания кредиторской задолженности. Если требуется управлять запасами, счета покупки также используются для динамического обновления уровней запасов, чтобы уменьшить себестоимости запасов и обеспечить лучшее обслуживание клиентов. Расходы на покупку, включая затраты на обслуживание, и стоимость запасов, полученная из учета счетов покупки, составляют показатели прибыли и другие ключевые показатели эффективности финансовой деятельности в ролевом центре.
 
@@ -45,13 +39,13 @@ ms.locfileid: "9528227"
 |Разрешение конфликта, когда две или более записей существуют для одного и того же поставщика.|[Объединение повторяющихся записей](sales-how-merge-duplicate-records.md)|
 |Управление обязательством перед поставщиком приобрести большой объем, доставляемый за несколько отгрузок в течение определенного периода времени.|[Работа с общими заказами на покупку](sales-how-to-create-blanket-sales-orders.md)|
 
-## <a name="external-document-numbers"></a>Номера внешних документов
+## Номера внешних документов
 
 [!INCLUDE [ext-doc-no-purch](includes/ext-doc-no-purch.md)]
 
-## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/paths/purchase-items-services-dynamics-365-business-central/)
+## См. соответствующее [обучение Microsoft](/training/paths/purchase-items-services-dynamics-365-business-central/)
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Настройка покупки](purchasing-setup-purchasing.md)  
 [Регистрация новых поставщиков](purchasing-how-register-new-vendors.md)  

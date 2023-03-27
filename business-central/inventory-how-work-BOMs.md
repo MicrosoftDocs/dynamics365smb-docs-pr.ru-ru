@@ -1,27 +1,21 @@
 ---
 title: Работа со спецификациями
-description: Сборочная спецификация или производственная спецификация создается для указания компонентов или ресурсов, требуемых для создания товара, который представляет спецификация.
+description: 'Сборочная спецификация или производственная спецификация создается для указания компонентов или ресурсов, требуемых для создания товара, который представляет спецификация.'
 author: SorenGP
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: bills of material, assembly BOM, production BOM,
-ms.search.form: ''
+ms.search.keywords: 'bills of material, assembly BOM, production BOM,'
+ms.search.form: null
 ms.date: 09/26/2022
 ms.author: a-reishima
-ms.openlocfilehash: 4b1f1b15c2502ddb894baf733308800846a74206
-ms.sourcegitcommit: 8ad79e0ec6e625796af298f756a142624f514cf3
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 09/30/2022
-ms.locfileid: "9606726"
 ---
-# <a name="work-with-bills-of-material"></a>Работа со спецификациями
+# Работа со спецификациями
 
 Спецификации используются для структурирования родительских товаров, которые должны быть собраны из других товаров или произведены ресурсами или машинными центрами из компонентов.
 
-## <a name="assembly-boms-or-production-boms"></a>Сборочные или производственные спецификации
+## Сборочные или производственные спецификации
 
 [!INCLUDE[prod_short](includes/prod_short.md)] поддерживает два различных типа спецификаций:
 
@@ -42,7 +36,7 @@ ms.locfileid: "9606726"
 
 Как сборочные заказы, так и производственные заказов могут быть связаны непосредственно с заказами на продажу. Вы можете использовать только сборочные заказы, чтобы настроить конечный товар непосредственно для запроса клиента с помощью заказа на продажу.
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Работа со спецификациями сборки](assembly-how-work-assembly-boms.md)  
 [Создание производственных спецификаций](production-how-to-create-production-boms.md)  

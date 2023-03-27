@@ -6,17 +6,11 @@ ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: design, item, tracking, tracing
+ms.search.keywords: 'design, item, tracking, tracing'
 ms.date: 06/08/2021
 ms.author: edupont
-ms.openlocfilehash: 626d22b4a45035698862c727547b332c898508af
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8141337"
 ---
-# <a name="design-details-item-tracking-design"></a>Сведения о проектировании: разработка трассировки товара
+# Сведения о проектировании: разработка трассировки товара
 
 Отслеживание товара в [!INCLUDE[prod_short](includes/prod_short.md)] началось с [!INCLUDE [navnow_md](includes/navnow_md.md)]. Функция отслеживания номенклатуры находится в отдельной объектной структуре со сложными ссылками на учтенные документы и записи книги номенклатуры, и она интегрирована с системой резервирования, которая обрабатывает резервирование, отслеживание заказов и обмен сообщениями о действиях. Дополнительные сведения см. в разделе [Сведения о проектировании: резервирование, трассировка заказов и отправка сообщений о действиях](design-details-reservation-order-tracking-and-action-messaging.md) в сведениях о проектировании планирования снабжения.  
 
@@ -39,7 +33,7 @@ Codeunit 22 **Журнал товаров – Строка учета** тепе
 
 Дополнительные сведения см. в разделе [Сведения о проектировании: структура учета трассировки товаров](design-details-item-tracking-posting-structure.md).  
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Сведения о проектировании: трассировка товара](design-details-item-tracking.md)
 

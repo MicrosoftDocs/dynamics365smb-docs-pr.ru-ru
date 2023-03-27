@@ -7,17 +7,11 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: reconcile
-ms.search.form: 377, 378, 165, 1284
+ms.search.form: '377, 378, 165, 1284'
 ms.date: 06/14/2021
 ms.author: edupont
-ms.openlocfilehash: 352304983b331d361947d88fdafc134d50fe70a3
-ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 09/19/2022
-ms.locfileid: "9530896"
 ---
-# <a name="manage-and-reconcile-your-bank-accounts"></a>Управляйте и проводите выверку своих банковских счетов
+# Управляйте и проводите выверку своих банковских счетов
 
 Банковская выверка должна проводиться через равные промежутки времени для всех ваших банковских счетов, чтобы обеспечить правильность кассовых записей компании. Для этого вы сравниваете и сопоставляете записи на своих внутренних банковских счетах с банковскими операциями в вашем банке, а затем учитываете сальдо на своих внутренних банковских счетах, чтобы итоги были доступны финансовым менеджерам. Банковская выверка также является практическим способом выявления и устранения недостающих платежей и ошибок в бухгалтерском учете.
 
@@ -38,9 +32,9 @@ ms.locfileid: "9530896"
 > [!TIP]
 > Используйте банковскую выверку, чтобы убедиться, что ваши книги обновлены, и не публикуйте выверку, пока вы не будете удовлетворены выверкой.
 
-## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/paths/reconcile-bank-accounts-dynamics-365-business-central/)
+## См. соответствующее [обучение Microsoft](/training/paths/reconcile-bank-accounts-dynamics-365-business-central/)
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Настройка банковских операций](bank-setup-banking.md)  
 [Выверка банковских счетов](bank-how-reconcile-bank-accounts-separately.md)  

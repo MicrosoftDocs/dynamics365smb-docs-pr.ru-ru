@@ -6,18 +6,12 @@ ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: supplier, payment priority
-ms.search.form: 26, 27
+ms.search.keywords: 'supplier, payment priority'
+ms.search.form: '26, 27'
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: ed025f130fc2de9be77c373ab9b651844496b8a7
-ms.sourcegitcommit: 5560a49ca4ce85fa12e50ed9e14de6d5cba5f5c3
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/13/2022
-ms.locfileid: "9144215"
 ---
-# <a name="prioritize-vendors"></a>Назначение приоритетов поставщикам
+# Назначение приоритетов поставщикам
 
 В [!INCLUDE[prod_short](includes/prod_short.md)] предлагаются различные виды оплат поставщикам, например оплаты, которые должны быть произведены быстро, или оплаты, для которых возможны скидки. Дополнительные сведения см. в разделе [Предложение оплаты поставщикам](payables-how-suggest-vendor-payments.md).
 
@@ -25,7 +19,7 @@ ms.locfileid: "9144215"
 <br><br>
 > [!Video https://www.microsoft.com/videoplayer/embed/RE3PRGa?rel=0]
 
-## <a name="to-prioritize-vendors"></a>Назначение приоритета поставщикам
+## Назначение приоритета поставщикам
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Поставщики**, а затем выберите связанную ссылку.
 2. Выберите соответствующего поставщика, а затем выберите **Правка**.
@@ -35,7 +29,7 @@ ms.locfileid: "9144215"
 
 Если назначать приоритет для поставщика не требуется, оставьте поле **Приоритет** пустым. В случае же использования средства предложения с учетом приоритетов, поставщик, с пустым полем «Приоритет», будет числиться после всех поставщиков, которые имеют номер приоритета. В случае необходимости можно вводить столько уровней приоритета, сколько требуется.
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Регистрация новых поставщиков](purchasing-how-register-new-vendors.md)  
 [Настройка покупки](purchasing-setup-purchasing.md)  

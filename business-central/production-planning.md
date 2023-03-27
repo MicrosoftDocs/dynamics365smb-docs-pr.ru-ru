@@ -6,17 +6,11 @@ ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.for: 291, 292, 293, 295, 517, 9010, 9038
+ms.search.for: '291, 292, 293, 295, 517, 9010, 9038'
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 5fd4e6b1cf7e5f77c1273a58223f0c0b55db1ab0
-ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 09/19/2022
-ms.locfileid: "9534836"
 ---
-# <a name="planning"></a>Планирование
+# Планирование
 
 Производственные операции, необходимые для преобразования затраченных ресурсов в готовую продукцию, должны быть запланированы по дням или неделям, в зависимости от объема и характера товаров. [!INCLUDE[prod_short](includes/prod_short.md)] предлагает функции снабжения для выполнения ожидаемых и фактических требований, возникающих вследствие продажи, сборки и производства, а также функции распределенного планирования с использованием единиц хранения и перемещений между складами.
 
@@ -45,9 +39,9 @@ ms.locfileid: "9534836"
 |Просмотрите ожидаемый доступный запас товара различными способами и определите полные потребности, плановые поступления по заказу и другие события, влияющие на него с течением времени.|[Просмотр наличия товара](inventory-how-availability-overview.md)|  
 <!--|Выполнение выбранных действий планирования, таких как изменение или добавление строк журнала планирования, в графическом представлении плана поставки.|[Изменение предложений по планированию в графическом виде](production-how-to-modify-planning-suggestions-in-a-graphical-view.md)|-->
 
-## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/plan-items-dynamics-365-business-central/)
+## См. соответствующее [обучение Microsoft](/training/modules/plan-items-dynamics-365-business-central/)
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Настройка производства](production-configure-production-processes.md)  
 [Производство](production-manage-manufacturing.md)  

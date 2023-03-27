@@ -1,30 +1,24 @@
 ---
 title: Настройка запасов
-description: Описывается, как настроить процессы запасов, включая маршруты перемещения и склады.
+description: 'Описывается, как настроить процессы запасов, включая маршруты перемещения и склады.'
 author: SorenGP
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: warehouse, stock
-ms.search.form: 30, 461
+ms.search.keywords: 'warehouse, stock'
+ms.search.form: '30, 461'
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 7d637ae9b0413bb069927166fc8a5ac74e9dd7e2
-ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 09/19/2022
-ms.locfileid: "9531490"
 ---
-# <a name="setting-up-inventory"></a>Настройка запасов
+# Настройка запасов
 Прежде чем приступать к управлению складскими операциями и учетом стоимости товаров, необходимо настроить правила и значения, которые определяют политики запасов в компании.
 
 Вы можете обеспечить лучшее обслуживание клиентов и оптимизировать цепочку поставок, организовав запасы по различным адресам. После этого вы можете закупать, хранить или продавать товары на различных складах и перемещать их между ними.
 
-Если вы настроили запасы, вы можете управлять различными процессами, связанными с товарными транзакциями. Дополнительные сведения см. в разделах [Управление запасами](inventory-manage-inventory.md) и [Управление складом](warehouse-manage-warehouse.md).
+Если вы настроили запасы, вы можете управлять различными процессами, связанными с товарными транзакциями. Дополнительно см. в разделах [Управление запасами](inventory-manage-inventory.md) и [Обзор Warehouse Management](design-details-warehouse-management.md).
 
-| По | Ссылка |
+| Задача | Ссылка |
 | --- | --- |
 | Определить общую настройку запасов, например серии номеров и использование складов. |[Настройка общей информации по запасам](inventory-how-setup-general.md) |
 |Настройка эффективной модели распределения с комбинацией различных складов и центров ответственности, присваиваемых бизнес-партнерам или сотрудникам.|[Работа с центрами ответственности](inventory-responsibility-centers.md)|
@@ -38,13 +32,14 @@ ms.locfileid: "9531490"
 |Одновременный импорт нескольких изображений товаров из ZIP-файла, в котором файлы названы в соответствии с номерами товаров.|[Импорт нескольких изображений товаров](inventory-how-import-item-pictures.md)|
 |Укажите отчеты по умолчанию, которые будут использоваться для различных типов документов.|[Выбор отчета в Business Central](across-report-selections.md)|
 
-## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/paths/trade-get-started-dynamics-365-business-central/)
+## См. соответствующее [обучение Microsoft](/training/paths/trade-get-started-dynamics-365-business-central/)
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Управление запасами](inventory-manage-inventory.md)  
 [Управление закупками](purchasing-manage-purchasing.md)  
 [Управление продажами](sales-manage-sales.md)    
+[Обзор Warehouse Management](design-details-warehouse-management.md)
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 [Общие бизнес-функции](ui-across-business-areas.md)
 

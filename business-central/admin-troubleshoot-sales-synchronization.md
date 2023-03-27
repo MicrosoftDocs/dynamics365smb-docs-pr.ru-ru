@@ -1,22 +1,16 @@
 ---
 title: Устранение ошибок синхронизации
-description: В этой теме содержатся инструкции по выявлению, устранению и разрешению ошибок синхронизации.
+description: 'В этой теме содержатся инструкции по выявлению, устранению и разрешению ошибок синхронизации.'
 author: brentholtorf
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: ''
+ms.search.keywords: null
 ms.date: 06/14/2021
 ms.author: bholtorf
-ms.openlocfilehash: a7490c896daabd05ef0b0bb7d125e15963d83320
-ms.sourcegitcommit: 5a02f8527faecdffcc54f9c5c70cefe8c4b3b3f4
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 03/04/2022
-ms.locfileid: "8381490"
 ---
-# <a name="troubleshooting-synchronization-errors"></a>Устранение ошибок синхронизации
+# Устранение ошибок синхронизации
 
 
 Интеграция [!INCLUDE[prod_short](includes/prod_short.md)] с [!INCLUDE[prod_short](includes/cds_long_md.md)] — сложный процесс, и иногда что-то идет не так. В этом разделе рассказывается о некоторых типичных ошибках, которые могут возникнуть, и даются советы о том, как их исправить.
@@ -38,7 +32,7 @@ ms.locfileid: "8381490"
 * Действия **Удалить записи старше 7 дней** и **Удалить все записи** помогут очистить список. Как правило, эти действия используются после устранения причины ошибки, которая влияет на многие записи. При этом следует соблюдать осторожность. Эти действия могут удалить ошибки, которые все еще актуальны.
 * Действие **Показать стек вызовов ошибки** показывает информацию, которая может помочь определить причину ошибки. Если вы не можете устранить ошибку самостоятельно и решили отправить запрос в службу поддержки, включите эту информацию в запрос поддержки.
 
-## <a name="see-also"></a>См. также
+## См. также
 [Интеграция с Microsoft Dataverse](admin-prepare-dynamics-365-for-sales-for-integration.md)  
 [Настройка учетных записей пользователя для интеграции с Microsoft Dataverse](admin-setting-up-integration-with-dynamics-sales.md)  
 [Настройка подключения к Microsoft Dataverse](admin-how-to-set-up-a-dynamics-crm-connection.md)  

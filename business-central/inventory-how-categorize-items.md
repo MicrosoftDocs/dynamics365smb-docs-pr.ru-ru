@@ -1,23 +1,17 @@
 ---
 title: Организация товаров по категориям (содержит видео) | Документация Майкрософт
-description: Чтобы находить товары, вы можете назначить им атрибуты и упорядочить их по категориям.
+description: 'Чтобы находить товары, вы можете назначить им атрибуты и упорядочить их по категориям.'
 author: SorenGP
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: category, search, attribute, facet
-ms.search.form: 5730, 5733, 5401
+ms.search.keywords: 'category, search, attribute, facet'
+ms.search.form: '5730, 5733, 5401'
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 93c504b139003c4d2385e4c906390302784ed1c5
-ms.sourcegitcommit: 8ad79e0ec6e625796af298f756a142624f514cf3
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 09/30/2022
-ms.locfileid: "9607234"
 ---
-# <a name="categorize-items"></a>Категоризация товаров
+# Категоризация товаров
 
 Для общего представления о товарах и упрощения их сортировки и поиска целесообразно систематизировать товары по категориям товаров.
 
@@ -26,7 +20,7 @@ ms.locfileid: "9607234"
 
 > [!Video https://www.microsoft.com/en-us/videoplayer/embed/RE4j4mo?rel=0]
 
-## <a name="to-create-an-item-category"></a>Создание категории товара
+## Создание категории товара
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Категории товаров**, а затем выберите связанную ссылку.
 2. На странице **Категории товара** выберите действие **Создать**.
 3. На странице **Карточка категории товаров** заполните требуемые поля на экспресс-вкладке **Общее**. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
@@ -40,19 +34,19 @@ ms.locfileid: "9607234"
 
 Если вы передумали относительно категории предметов, вы можете удалить ее. Однако, если она уже была назначен элементу, вы должны удалить это назначение, прежде чем вы сможете удалить категорию элемента.
 
-## <a name="to-assign-an-item-category-to-an-item"></a>Назначение товару категории товаров
+## Назначение товару категории товаров
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Товары**, а затем выберите связанную ссылку.
 2. Откройте карточку товара, которому нужно присвоить категорию товаров.
 3. Нажмите кнопку выбора в поле **Код товарной категории** и выберите существующую категорию товаров. Можно также выбрать действие **Создать**, чтобы сначала создать новую категорию товаров, как объясняется в разделе [Создание категории товара](inventory-how-categorize-items.md#to-create-an-item-category).
 
-## <a name="categories-attributes-and-variants"></a>Категории, атрибуты и варианты
+## Категории, атрибуты и варианты
 
 [!INCLUDE[inventory_variant](includes/inventory_variant.md)]
 
-## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/trade-master-data-dynamics-365-business-central/)
+## См. соответствующее [обучение Microsoft](/training/modules/trade-master-data-dynamics-365-business-central/)
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Работа с атрибутами товаров](inventory-how-work-item-attributes.md)  
 [Управление вариантами продукта](inventory-item-variants.md)  

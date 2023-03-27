@@ -6,17 +6,11 @@ ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: service, work hours, configure, price, pricing
+ms.search.keywords: 'service, work hours, configure, price, pricing'
 ms.date: 06/23/2021
 ms.author: bholtorf
-ms.openlocfilehash: 157ac179e51330cc5d9606872a8a121a4bbb67f2
-ms.sourcegitcommit: 00a8acc82cdc90e0d0db9d1a4f98a908944fd50a
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "9077558"
 ---
-# <a name="planning-services"></a>Планирование сервисов
+# Планирование сервисов
 С помощью [!INCLUDE[prod_short](includes/prod_short.md)] можно настраивать стандартные задачи, необходимые для выполнения требований службы поддержки клиентов. Для этого необходимо определить, какие сервисные товары и предложения поддерживает ваша сервисная организация, и по какой цене.   
 
 [!INCLUDE[prod_short](includes/prod_short.md)] также обеспечивает некоторые статистические инструменты, которые можно использовать для определения того, насколько хорошо идут дела, и выявления областей, в которых возможны улучшения.
@@ -31,7 +25,7 @@ ms.locfileid: "9077558"
 |Узнайте о связи между статусами ремонта, и об их влиянии на выделенные ресурсы, и наоборот.|[Статус распределения и ремонта](service-allocation-status-and-repair-status.md)|  
 |Используйте статистические данные для анализа своих сервисных процессов. | [Просмотр сервисной статистики](service-service-statistics.md) |
 
-## <a name="see-also"></a>См. также
+## См. также
 [Выполнение контрактов на обслуживание](service-fulfill-service-contracts.md)  
 [Предоставление услуги](service-deliver-service.md)  
 [Настройка цен и дополнительных издержек для сервисов](service-how-setup-service-costs-pricing.md)  

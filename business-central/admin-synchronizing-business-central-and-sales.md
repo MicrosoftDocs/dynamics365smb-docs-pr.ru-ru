@@ -6,17 +6,12 @@ ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: Dataverse, integration, sync, synchronize, mapping
+ms.search.keywords: 'Dataverse, integration, sync, synchronize, mapping'
 ms.date: 06/14/2021
 ms.author: bholtorf
-ms.openlocfilehash: 7c03e4491519a31aeaf11c4d52555ab222701c32
-ms.sourcegitcommit: 5a02f8527faecdffcc54f9c5c70cefe8c4b3b3f4
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 03/04/2022
-ms.locfileid: "8383089"
 ---
-# <a name="synchronizing-data-in-business-central-with-microsoft-dataverse"></a>Синхронизация данных в Business Central с Microsoft Dataverse
+
+# Синхронизация данных в Business Central с Microsoft Dataverse
 
 
 При интеграции [!INCLUDE[prod_short](includes/cds_long_md.md)] с [!INCLUDE[prod_short](includes/prod_short.md)] можно решить, требуется ли синхронизировать данные в выбранных полях [!INCLUDE[prod_short](includes/prod_short.md)] (таких как клиенты, контакты и менеджеры по продаже) с эквивалентными строками в [!INCLUDE[prod_short](includes/cds_long_md.md)] (таких как организации, контакты и пользователи). В зависимости от типа строки, можно синхронизировать данные из [!INCLUDE[prod_short](includes/cds_long_md.md)] в [!INCLUDE[prod_short](includes/prod_short.md)] или наоборот. Дополнительные сведения см. в разделе [Интеграция с Dynamics 365 Sales](admin-prepare-dynamics-365-for-sales-for-integration.md).  
@@ -42,7 +37,7 @@ ms.locfileid: "8383089"
 > Синхронизация между [!INCLUDE[prod_short](includes/cds_long_md.md)] и [!INCLUDE[prod_short](includes/prod_short.md)] основана на запланированном выполнении записей очереди заданий и не гарантирует согласованность данных в реальном времени между двумя службами. Для согласованности данных в реальном времени вам следует изучить [Виртуальные таблицы Business Central](/dynamics365/business-central/dev-itpro/powerplatform/powerplat-overview) или API Business Central.   
 
 
-## <a name="standard-table-mapping-for-synchronization"></a>Сопоставление стандартных таблиц для синхронизации
+## Сопоставление стандартных таблиц для синхронизации
 Таблицы в [!INCLUDE[prod_short](includes/cds_long_md.md)], например организации, интегрируются с эквивалентными типами таблиц в [!INCLUDE[prod_short](includes/prod_short.md)], например клиенты. Для работы с данными [!INCLUDE[prod_short](includes/cds_long_md.md)] нужно настроить ссылки, называемые связываниями, между таблицами в [!INCLUDE[prod_short](includes/cds_long_md.md)] и [!INCLUDE[prod_short](includes/prod_short.md)].
 
 В следующей таблице перечислено стандартное соответствие между таблицами в [!INCLUDE[prod_short](includes/prod_short.md)] и [!INCLUDE[prod_short](includes/cds_long_md.md)].
@@ -61,10 +56,10 @@ ms.locfileid: "8383089"
 > [!NOTE]
 > Действия **Dataverse** не будут доступны на страницах, например, на странице "Карточка клиента", для записей, которые не соблюдают фильтр таблицы в сопоставлении таблицы интеграции.
 
-### <a name="tip-for-admins-viewing-table-mappings"></a>Совет для администраторов: просмотр сопоставлений таблиц
+### Совет для администраторов: просмотр сопоставлений таблиц
 Можно просмотреть сопоставления между таблицами в [!INCLUDE[prod_short](includes/cds_long_md.md)] и [!INCLUDE[prod_short](includes/prod_short.md)] на странице **Сопоставления таблиц интеграции**, где можно также применять фильтры. Сопоставления определяются между полями в таблицах [!INCLUDE[prod_short](includes/prod_short.md)] и столбцами в таблицах [!INCLUDE[prod_short](includes/cds_long_md.md)] на странице **Сопоставление полей интеграции**, где можно добавить дополнительную логику сопоставления. Например, это может быть полезно в случае необходимости устранить проблему синхронизации.
 
-## <a name="see-also"></a>См. также  
+## См. также  
 [Связывание и синхронизация записей вручную](admin-how-to-couple-and-synchronize-records-manually.md)   
 [Синхронизация по расписанию](admin-scheduled-synchronization-using-the-synchronization-job-queue-entries.md)   
 [Интеграция с Dynamics 365 Sales](admin-prepare-dynamics-365-for-sales-for-integration.md)

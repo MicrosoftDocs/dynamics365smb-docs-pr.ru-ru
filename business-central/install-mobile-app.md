@@ -1,22 +1,17 @@
 ---
 title: Получение Business Central на мобильном устройстве (содержит видео)
-description: В этом разделе описаны различные способы просмотра и редактирования данных Business Central, отправки в Excel и другое на телефоне или планшете.
+description: 'В этом разделе описаны различные способы просмотра и редактирования данных Business Central, отправки в Excel и другое на телефоне или планшете.'
 author: jswymer
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: desktop, Windows, app
+ms.search.keywords: 'desktop, Windows, app'
 ms.date: 10/01/2021
 ms.author: jswymer
-ms.openlocfilehash: 075af1a6b1d02a68a84d504b7ffa8602b50b17f8
-ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 09/19/2022
-ms.locfileid: "9534090"
 ---
-# <a name="getting-business-central-on-your-mobile-device"></a>Получение Business Central на мобильном устройстве
+
+# Получение Business Central на мобильном устройстве
 
 Работайте с данными [!INCLUDE[prod_short](includes/prod_short.md)] с мобильного устройства. Вы можете просматривать бизнес-данные, использовать такие функции, как отправка в Excel или Microsoft 365, просматривать последние диаграммы и ключевые показатели эффективности, отправлять по электронной почте предложения и счета, а также делать фотографии с помощью камеры и прикладывать снимки. Выполните следующие действия для загрузки приложения и начала работы.
 
@@ -25,7 +20,7 @@ ms.locfileid: "9534090"
 > [!TIP]
 > Хотите, чтобы приложение было на рабочем столе вашего компьютера с Windows или macOS? См. [Получение приложения Business Central на настольном компьютере](install-desktop-app.md).
 
-## <a name="get-the-app-on-my-mobile-device"></a>Получение приложения на мобильном устройстве
+## Получение приложения на мобильном устройстве
 
 1. Установите приложение [!INCLUDE[prod_short](includes/prod_short.md)] на мобильное устройство, скачав его из App Store или Google Play.  
    - [App Store](https://go.microsoft.com/fwlink/?LinkId=734847)
@@ -40,7 +35,7 @@ ms.locfileid: "9534090"
 > [!TIP]
 > Если вы хотите подключить приложение к среде песочницы, выберите кнопку **Дополнительные параметры**, затем выберите вариант входа в систему **Облачная песочница**. Затем, если у вас более одной среды песочницы, выберите соответствующую среду.
 
-## <a name="use-business-central-on-premises"></a>Используете локальную версию Business Central?
+## Используете локальную версию Business Central?
 
 Если вы используете [!INCLUDE[prod_short](includes/prod_short.md)] On-Premises, вы также можете пользоваться преимуществами мобильного приложения. Установка аналогична, но с парой исключений.
 
@@ -58,9 +53,9 @@ ms.locfileid: "9534090"
 > [!NOTE]
 > Если у вас возникли проблемы с правильной работой приложения, поговорите со своим администратором. Это может быть отсутствие необходимых условий или неполная конфигурация. Дополнительные сведения см. в разделе [Подготовка среды для мобильного приложения](/dynamics365/business-central/dev-itpro/deployment/install-business-central-app#prereqs) или [Устранение неполадок мобильного приложения Business Central в локальной версии](/dynamics365/business-central/dev-itpro/developer/devenv-troubleshooting-the-mobile-app).
 
-## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/alternative-interfaces-dynamics-365-business-central/index)
+## См. соответствующее [обучение Microsoft](/training/modules/alternative-interfaces-dynamics-365-business-central/index)
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Вопросы и ответы по мобильным приложениям](ui-mobile-faq.yml)  
 [Подготовьтесь к ведению бизнеса](ui-get-ready-business.md)  

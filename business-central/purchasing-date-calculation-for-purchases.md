@@ -1,23 +1,17 @@
 ---
 title: Расчет дат для покупок
-description: В этой статье описывается, как можно рассчитать даты для покупок.
+description: 'В этой статье описывается, как можно рассчитать даты для покупок.'
 author: brentholtorf
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: purchase order, purchase, date, receipt, delivery, lead time
-ms.search.forms: ''
+ms.search.keywords: 'purchase order, purchase, date, receipt, delivery, lead time'
+ms.search.forms: null
 ms.date: 10/28/2022
 ms.author: bholtorf
-ms.openlocfilehash: 54d3ce9c571973482fe1ba0fdb8cad76a87752c2
-ms.sourcegitcommit: 61fdaded30310ba8bdf95f99e76335372f583642
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 11/04/2022
-ms.locfileid: "9744955"
 ---
-# <a name="calculate-dates-for-purchases"></a>Расчет дат для покупок
+# Расчет дат для покупок
 
 Если вам требуется наличие товаров в запасах на определенную дату, [!INCLUDE[prod_short](includes/prod_short.md)] может автоматически рассчитать дату, когда их следует заказать. 
 
@@ -32,7 +26,7 @@ ms.locfileid: "9744955"
 > [!TIP]
 > По умолчанию многие поля даты, упомянутые в этой статье, скрыты в строках заказа на покупку. Если поле недоступно, вы можете добавить его, персонализировав страницу. Дополнительные сведения см. в разделе [Персонализация рабочей области](ui-personalization-user.md).
 
-## <a name="calculating-with-a-requested-receipt-date"></a>Вычисление с требуемой датой приемки
+## Вычисление с требуемой датой приемки
 
 Если в строке заказа на покупку указана требуемая дата получения, эта дата является основой для следующих расчетов:  
 
@@ -44,7 +38,7 @@ ms.locfileid: "9744955"
 > [!NOTE]
 > Если ваш процесс основан на обратном расчете, например, если вы используете запрошенную дату получения для получения даты заказа, мы рекомендуем использовать формулы дат с фиксированной длительностью, такие как "5D" для пяти дней или "1W" для одной недели. Формулы дат без фиксированной длительности, такие как "CW" для текущей недели или CM для текущего месяца, могут привести к неправильным вычислениям даты. Дополнительные сведения о формулах дат см. в разделе [Работа с календарными датами и значениями времени](ui-enter-date-ranges.md).
 
-## <a name="calculating-without-a-requested-receipt-date"></a>Вычисление без требуемой даты приемки
+## Вычисление без требуемой даты приемки
 
 При вводе строки заказа на покупку без требуемой даты приемки в поле **Дата заказа** в строке отображается дата из поля **Дата заказа** в заголовке заказа на покупку. Эта дата может быть введенной вами датой или рабочей датой. Даты затем рассчитываются для строки заказа на покупку с датой заказа в качестве начальной точки, как указано ниже:  
 
@@ -53,7 +47,7 @@ ms.locfileid: "9744955"
 
 Если вы измените дату заказа в строке, [!INCLUDE[prod_short](includes/prod_short.md)] пересчитывает другие даты.  
 
-## <a name="default-values-for-lead-time-calculation"></a>Значения по умолчанию для расчета времени подготовки
+## Значения по умолчанию для расчета времени подготовки
 
 [!INCLUDE[prod_short](includes/prod_short.md)] использует формулы дат в поле **Рассчитанное время подготовки заказа** в строке заказа на покупку для расчета даты заказа и ожидаемой даты поступления.  
 
@@ -64,9 +58,9 @@ ms.locfileid: "9744955"
 3. Карточка единицы хранения
 4. Карточка поставщика
 
-## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/estimate-receipt-dates-dynamics-365-business-central/)
+## См. соответствующее [обучение Microsoft](/training/modules/estimate-receipt-dates-dynamics-365-business-central/)
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Расчет даты для продаж](sales-date-calculation-for-sales.md)  
 [Расчет сроков планирования заказов](sales-how-to-calculate-order-promising-dates.md)  

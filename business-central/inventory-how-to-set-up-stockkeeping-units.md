@@ -6,24 +6,18 @@ ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: ''
-ms.search.forms: 5704, 5700, 5702, 5701
+ms.search.keywords: null
+ms.search.forms: '5704, 5700, 5702, 5701'
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: e61c61f760dd14145ecea76f36903f8a4124cac5
-ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 09/19/2022
-ms.locfileid: "9533756"
 ---
-# <a name="set-up-stockkeeping-units"></a>Настройка единиц хранения
+# Настройка единиц хранения
 
 Единицы хранения используются для записи информации о товарах для кода конкретного склада или кода варианта.  
 
 Единицы хранения являются дополнением к карточкам товара. Они не заменяют их, хотя связаны с ними. Единицы хранения позволяют различать для одного и того же товара информацию о товаре, предназначенном для конкретной площадки хранения (как складской комплекс или центр дистрибуции) или для конкретного варианта хранения (таких как различные номера полок и различная информация о пополнении).  
 
-## <a name="to-set-up-a-stockkeeping-unit"></a>Настройка единицы хранения  
+## Настройка единицы хранения  
 
 1.  Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Единицы хранения**, а затем выберите связанную ссылку.  
 2.  Выберите действие **Создать**.  
@@ -40,16 +34,15 @@ ms.locfileid: "9533756"
 > Если номер SKU указывается при производстве, поле **Стандартная себестоимость** не используется для выставления счетов и коррекции фактической себестоимости производимого товара. Вместо этого используется поле **Стандартная себестоимость** в карточке базового товара, и все отклонения рассчитываются на базе структуры себестоимости данного товара.<br /><br />
 > Поскольку производственные спецификации и маршрутизаций не могут быть назначены единицам хранения, себестоимость единиц будет свернута, а связанный расчет доль затрат также не будет доступен для единиц хранения. Дополнительные сведения см. в разделе [Расчет стандартной себестоимости](finance-about-calculating-standard-cost.md)
 
-## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/control-inventory-multiple-locations/)
+## См. соответствующее [обучение Microsoft](/training/modules/control-inventory-multiple-locations/)
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Регистрация новых товаров](inventory-how-register-new-items.md)  
 [Настройка управления складом](warehouse-setup-warehouse.md)  
-[Управление складом](warehouse-manage-warehouse.md)  
-[Наличие](inventory-manage-inventory.md)  
+[Обзор управления складом](design-details-warehouse-management.md)
+[Запас](inventory-manage-inventory.md)  
 [Управление сборкой](assembly-assemble-items.md)    
-[Сведения о проектировании: Warehouse Management](design-details-warehouse-management.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 
 

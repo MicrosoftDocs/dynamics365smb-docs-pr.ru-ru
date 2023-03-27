@@ -1,23 +1,17 @@
 ---
 title: Финансовый менеджмент (содержит видео)
-description: Узнайте, как Business Central поддерживает ваши потребности в финансовом управлении, бухгалтерском учете, аудите или ведении бухгалтерского учета.
+description: 'Узнайте, как Business Central поддерживает ваши потребности в финансовом управлении, бухгалтерском учете, аудите или ведении бухгалтерского учета.'
 author: edupont04
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: accounting, auditing, bookkeeping
-ms.search.form: 1151, 1166, 9027, 9004
+ms.search.keywords: 'accounting, auditing, bookkeeping'
+ms.search.form: '1151, 1166, 9027, 9004'
 ms.date: 08/19/2022
 ms.author: edupont
-ms.openlocfilehash: bd8bd7089be89c9d5a2f57b53b104a2b5ac2a565
-ms.sourcegitcommit: 8ad79e0ec6e625796af298f756a142624f514cf3
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 09/30/2022
-ms.locfileid: "9605007"
 ---
-# <a name="financial-management"></a>Финансовый менеджмент
+# Финансовый менеджмент
 
 [!INCLUDE[prod_short](includes/prod_short.md)] содержит стандартную конфигурацию для большинства финансовых процессов, но вы можете изменить ее в соответствии со своими бизнес-потребностями. Узнайте больше в разделе [Настройка Finance](finance-setup-finance.md).
 
@@ -55,13 +49,13 @@ ms.locfileid: "9605007"
 | Работа с финансовыми отчетами и обзорами в Microsoft Excel. |[Анализ финансовых выписок в Excel](finance-analyze-excel.md) |
 |Узнайте, как использовать ролевой центр бухгалтеров, использовать внешнего бухгалтера и использовать раздел организации для управления счетами для нескольких клиентов.|[Работа бухгалтера в Business Central](finance-accounting.md)|  
 
-## <a name="take-a-video-tour"></a>Смотреть видеообзор
+## Смотреть видеообзор
 
 Это видео знакомит с некоторыми ключевыми возможностями управления финансами. <br><br>  
 
 > [!Video https://www.microsoft.com/videoplayer/embed/RE4Fss4?rel=0]
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Настройка финансов](finance-setup-finance.md)  
 [Продажи](sales-manage-sales.md)  

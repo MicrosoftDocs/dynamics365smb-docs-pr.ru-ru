@@ -6,17 +6,11 @@ ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: ''
+ms.search.keywords: null
 ms.date: 11/26/2021
 ms.author: edupont
-ms.openlocfilehash: 886099234469a475e831d8f767d0aa1cf0023ece
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8518263"
 ---
-# <a name="application-design-details"></a>Сведения о структуре приложения
+# Сведения о структуре приложения
 
 Статьи в этом разделе содержат подробные технические сведения о сложных функциях приложений в [!INCLUDE[prod_short](includes/prod_short.md)].  
 
@@ -28,15 +22,15 @@ ms.locfileid: "8518263"
 |Узнайте, как пакетное задание "Коррекция себестоимости запасов" идентифицирует и назначает дату учета операциям стоимости, которые пакетное задание собирается создать.|[Подробности разработки: дата учета для операции коррекции стоимости](design-details-inventory-adjustment-value-entry-posting-date.md)|
 |Получение сведений о дизайне хранения и учета измерений, включая примеры кода по миграции и обновлению кода измерения.|[Сведения о проектировании: операции набора измерений](design-details-dimension-set-entries-overview.md)|
 |Дополнительные сведения о работе системы планирования и коррекции алгоритмов для выполнения требований планирования в различных средах.|[Сведения о проектировании: планирование поставок](design-details-supply-planning.md)|  
-|Дополнительные сведения об основных принципах функций расширенной и базовой конфигураций склада и их интеграции с другими функциями цепочки поставок.|[Сведения о проектировании: управление складом](design-details-warehouse-management.md)|  
+|Узнайте, как система постоянно контролировать доступность товаров на складе, чтобы исходящие заказы могли эффективно обрабатываться и обеспечивать оптимальные поставки.|[Сведения о проектировании: наличие на складе](design-details-availability-in-the-warehouse.md)|
 |Дополнительные сведения о предыдущей и текущей разработке функций трассировки товаров и ее интеграции с системой резервирования для включения серийных номеров/номеров партий в расчеты наличия.|[Сведения о проектировании: трассировка товара](design-details-item-tracking.md)|  
 |Узнайте о функции строки учета финансового журнала.|[Сведения о проектировании: строка учета финансового журнала](design-details-general-journal-post-line.md)|
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Планирование](production-planning.md)  
 [Управление себестоимостью товаров](finance-manage-inventory-costs.md)  
-[Управление складом](warehouse-manage-warehouse.md)  
+[Обзор Warehouse Management](design-details-warehouse-management.md)
 [Настройка сложных областей приложения с помощью рекомендаций](set-up-complex-application-areas-using-best-practices.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 

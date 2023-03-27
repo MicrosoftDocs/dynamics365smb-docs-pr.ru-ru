@@ -1,24 +1,19 @@
 ---
 title: Отображение аналитики с возможностью действий в ролевых центрах
-description: Узнайте, как расширение Essential Business Insights обеспечивает ротацию серий бизнес-аналитик в ролевых центрах.
+description: 'Узнайте, как расширение Essential Business Insights обеспечивает ротацию серий бизнес-аналитик в ролевых центрах.'
 documentationcenter: ''
 author: brentholtorf
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: BI, add-in, insight, headline, data
-ms.search.form: 1439,
+ms.search.keywords: 'BI, add-in, insight, headline, data'
+ms.search.form: '1439,'
 ms.date: 06/23/2021
 ms.author: bholtorf
-ms.openlocfilehash: f703448f15c7284f51a2876ccd2b83b9a2351b9d
-ms.sourcegitcommit: 38b1272947f64a473de910fe81ad97db5213e6c3
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 08/29/2022
-ms.locfileid: "9361750"
 ---
-# <a name="the-essential-business-insights-extension"></a>Расширение Essential Business Insights
+
+# Расширение Essential Business Insights
 
 Расширение Essential Business Insights находит интересные бизнес-сведения в данных вашей организации и отображает их в виде газетных заголовков в ролевых центрах. В зависимости от того, что это расширение находит в данных, аналитика поступает за прошлую неделю, месяц или три месяца от текущей даты. Аналитика обновляется каждые 10 минут.  
 
@@ -37,7 +32,7 @@ ms.locfileid: "9361750"
 |Менеджер проекта| Отображает приветствие и ссылку на информацию о продукте.|
 |Администратор| Отображает приветствие и ссылку на информацию о продукте.|
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Настройка [!INCLUDE[prod_short](includes/prod_short.md)] с помощью расширений](ui-extensions.md)
 

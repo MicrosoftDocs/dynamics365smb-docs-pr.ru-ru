@@ -1,33 +1,28 @@
 ---
 title: Настройка шаблонов API
-description: Описываются действия, которые необходимо выполнить для настройки шаблонов API для Dynamics 365 Business Central.
+description: 'Описываются действия, которые необходимо выполнить для настройки шаблонов API для Dynamics 365 Business Central.'
 author: SusanneWindfeldPedersen
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: API templates, configuring templates
+ms.search.keywords: 'API templates, configuring templates'
 ms.search.form: 5469
 ms.date: 06/07/2022
 ms.author: solsen
-ms.openlocfilehash: e38c8143cfad1fc4b0c7bbc4bd2995e0e48d264f
-ms.sourcegitcommit: 7b6d70798b4da283d1d3e38a05151df2209c2b72
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 06/12/2022
-ms.locfileid: "8950412"
 ---
-# <a name="configure-api-templates"></a>Настройка шаблонов API
+
+# Настройка шаблонов API
 
 Библиотека API для [!INCLUDE[prod_short_md](includes/prod_short.md)] предоставляет разработчикам упрощенное представление лежащих в ее основе объектов. Не все свойства в приложении предоставляются через связанный API. Страница **Настройка API** позволяет определить шаблоны, используемые для заполнения пустых свойств в объекте при создании действия POST через API. 
 
 Например, если для объекта товара определен шаблон конфигурации, при создании новой записи товара через API товаров все свойства нового товара, не определенные в вызове API, будут заполняться из выбранного шаблона. Например, если для поля **Общая товарная группа** не задается значение через API, однако значение задано в выбранном шаблоне, то к новому товару будет применено значение товарной группы, определенное в шаблоне. 
 
-## <a name="setting-up-the-entity-template"></a>Создание шаблона объекта
+## Создание шаблона объекта
 
 Чтобы использовать шаблоны с библиотекой API, необходимо сначала создать шаблоны и определить для них свойства. Создать эти шаблоны можно на странице **Шаблоны конфигурации**. Для получения дополнительной информации см. раздел [Перенос локальных данных в Business Central Online](/dynamics365/business-central/dev-itpro/administration/migrate-data) в материалах для администраторов (только на английском языке).  
 
-## <a name="assign-the-template-to-an-api"></a>Назначение шаблона API-интерфейсу
+## Назначение шаблона API-интерфейсу
 
 Чтобы назначить шаблон API-интерфейсу, необходимо выполнить следующие действия.
 
@@ -50,7 +45,7 @@ ms.locfileid: "8950412"
 
     Заданный шаблон применяется к новой записи, создаваемой через API, если и только если значения, уже определенные для нового экземпляра записи, соответствуют условиям, определенным в поле **Условия**.
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Документация по API](/dynamics-nav/fin-graph)  
 [Разработка Connect Apps для [!INCLUDE[prod_short_md](includes/prod_short.md)]](/dynamics365/business-central/dev-itpro/developer/devenv-develop-connect-apps)  

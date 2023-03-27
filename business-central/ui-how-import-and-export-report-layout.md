@@ -6,17 +6,11 @@ ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.form: 9652, 9650
+ms.search.form: '9652, 9650'
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: f0384ea780065c72e6fd4ca3ff95d2ec771a20ea
-ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 09/19/2022
-ms.locfileid: "9528146"
 ---
-# <a name="legacy-import-and-export-custom-report-layouts"></a>(Устарело) Импорт и экспорт пользовательских макетов отчетов
+# (Устарело) Импорт и экспорт пользовательских макетов отчетов
 
 [!INCLUDE[legacy-custom-layouts](includes/legacy-custom-layouts.md)]
 
@@ -25,7 +19,7 @@ ms.locfileid: "9528146"
 > [!IMPORTANT]  
 >  Невозможно импортировать экспортировать встроенные макеты отчетов.  
 
-### <a name="to-export-a-report-layout-to-a-file"></a>Экспорт макета отчета в файл  
+### Экспорт макета отчета в файл  
 
 1.  Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Выбор макета отчета**, а затем выберите связанную ссылку.  
 
@@ -35,7 +29,7 @@ ms.locfileid: "9528146"
 
 4.  В диалоговом окне **Экспорт файла** выберите кнопку **Сохранить** и сохраните файл в расположение на компьютере или в сети.  
 
-### <a name="to-import-a-report-layout-file"></a>Импорт файла макета отчета  
+### Импорт файла макета отчета  
 
 1.  Убедитесь, что соответствующий файл, определяющий макет отчета, доступен на компьютере или в сети.  
 
@@ -51,9 +45,9 @@ ms.locfileid: "9528146"
 
  Исходный пользовательский макет отчета заменяется на импортированный макет отчета.  
 
-## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/change-documents-dynamics-365-business-central/index)
+## См. соответствующее [обучение Microsoft](/training/modules/change-documents-dynamics-365-business-central/index)
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Создание и изменение пользовательского макета отчета](ui-how-create-custom-report-layout.md)   
 [Управление макетами отчетов и документов](ui-manage-report-layouts.md)  

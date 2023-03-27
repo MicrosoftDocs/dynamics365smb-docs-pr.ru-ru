@@ -1,23 +1,17 @@
 ---
 title: Создание и изменение пользовательских макетов для отчетов и документов
-description: Узнайте, как создать пользовательские макеты, с помощью которых можно персонализировать внешний вид отчета при его просмотре, печати или сохранении.
+description: 'Узнайте, как создать пользовательские макеты, с помощью которых можно персонализировать внешний вид отчета при его просмотре, печати или сохранении.'
 author: SorenGP
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: customized report, document layout, logo, personalize
-ms.search.form: 9650, 9652
+ms.search.keywords: 'customized report, document layout, logo, personalize'
+ms.search.form: '9650, 9652'
 ms.date: 03/06/2022
 ms.author: edupont
-ms.openlocfilehash: 465954e6549ee7ffd0822438a0ad004686d5b424
-ms.sourcegitcommit: 8ad79e0ec6e625796af298f756a142624f514cf3
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 09/30/2022
-ms.locfileid: "9604782"
 ---
-# <a name="legacy-create-and-modify-custom-report-layouts"></a>(Устарело) Создание и изменение пользовательских макетов отчетов
+# (Устарело) Создание и изменение пользовательских макетов отчетов
 
 [!INCLUDE[legacy-custom-layouts](includes/legacy-custom-layouts.md)]
 
@@ -35,7 +29,7 @@ ms.locfileid: "9604782"
 
 Вы можете также использовать пользовательские макеты отчетов для добавления содержимого в сообщения электронной почты. Макеты отчетов могут сэкономить время и помочь обеспечить согласованность за счет повторного использования одного и того же содержимого при общении с клиентами. Чтобы использовать пользовательские макеты отчетов с сообщениями электронной почты, тип файла макета должен быть Word; использовать тип файла RDLC невозможно. Подробнее см. в разделе [Настройка многократно используемых текстов и макетов сообщений электронной почты](admin-how-setup-email.md#set-up-reusable-email-texts-and-layouts).
 
-## <a name="create-a-custom-layout"></a>Создание пользовательского макета
+## Создание пользовательского макета
 
 1. Выберите значок ![Лампочка, которая открывает функцию «Что вы хотите сделать»](media/ui-search/search_small.png "Что вы хотите сделать"), значок, введите **Выбор макета отчета**, а затем выберите связанную ссылку.
 
@@ -60,11 +54,11 @@ ms.locfileid: "9604782"
 > [!TIP]
 > Вы можете экспортировать результаты отчета в файл Microsoft Excel для просмотра полного набора данных, включая все столбцы, но без макета. Файл Excel может помочь вам убедиться, что отчет возвращает ожидаемые данные, или найти проблему. Подробнее см. в разделе [Анализ данных отчета с помощью Excel](report-analyze-excel.md).
 
-## <a name="modifying-a-custom-layout"></a><a name="ModifyCustomLayout"></a>Изменение пользовательского макета
+## <a name="ModifyCustomLayout"></a>Изменение пользовательского макета
 
 Чтобы изменить пользовательский макет отчета, вы должны сначала экспортировать макет отчета в виде файла на свой компьютер или в сеть. Затем откройте экспортированный документ и внесите изменения. По завершении внесения изменений необходимо импортировать макет отчета.
 
-### <a name="modify-a-custom-layout"></a>Изменение пользовательского макета
+### Изменение пользовательского макета
 
 1. Экспортируйте пользовательский макет со страницы **Пользовательские макеты отчетов**. Если эта страница еще не открыта, выполните поиск и откройте страницу **Выбор макета отчета**, выберите отчет, содержащий макет, который вы хотите изменить, затем выберите действие **Пользовательские макеты**.  
 2. На странице **Пользовательские макеты отчетов** выберите макет, который требуется изменить, выберите действие **Экспортировать макет**, затем выберите **Сохранить** или **Сохранить как**, чтобы сохранить документ макета отчета в папке компьютера или в сети.  
@@ -117,9 +111,9 @@ To ensure that reports always display and print with the intended fonts, whereve
 
 Adding data fields from a report dataset is more advanced and requires some knowledge of the report dataset. Learn more about adding fields for data, labels, and images at [Add Fields to a Word Report Layout](ui-how-add-fields-word-report-layout.md).  -->
 
-## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/change-documents-dynamics-365-business-central/index)
+## См. соответствующее [обучение Microsoft](/training/modules/change-documents-dynamics-365-business-central/index)
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Управление макетами отчетов](ui-manage-report-layouts.md)  
 [Смена текущего макета отчета](ui-how-change-layout-currently-used-report.md)  

@@ -1,27 +1,21 @@
 ---
 title: Настройка общей информации по запасам
-description: Описывает, как определить общую настройку запасов, чтобы вы могли управлять своим складом и запасами.
+description: 'Описывает, как определить общую настройку запасов, чтобы вы могли управлять своим складом и запасами.'
 author: brentholtorf
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: warehouse, stock
-ms.search.form: 30, 456, 461
+ms.search.keywords: 'warehouse, stock'
+ms.search.form: '30, 456, 461'
 ms.date: 07/28/2021
 ms.author: edupont
-ms.openlocfilehash: 0cf56049c5c7d5b31cb75185bb26f9619317d9e1
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8522018"
 ---
-# <a name="set-up-general-inventory-information"></a>Настройка общей информации по запасам
+# Настройка общей информации по запасам
 
 Можно указать общую информацию по запасам на странице **Настройка запасов**.
 
-## <a name="to-set-up-general-inventory-information"></a>Настройка общей информации по запасам
+## Настройка общей информации по запасам
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Настройка запасов**, а затем выберите связанную ссылку.
 2. На странице **Настройка запасов** заполните требуемые поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
@@ -37,7 +31,7 @@ ms.locfileid: "8522018"
 >
 > Кроме того, вы можете вручную корректировать затраты через регулярные промежутки времени с помощью пакетного задания «Коррекция себестоимости запасов». Вы также можете отключить автоматический учет себестоимости или задать в поле **Автоматическая коррекция себестоимости** значение *Никогда*. В обоих случаях отображается уведомление, из которого вы можете запустить мастер настройки, который поможет вам запланировать задачи для очереди заданий. [!INCLUDE [tooltip-inline-tip_md](includes/tooltip-inline-tip_md.md)]
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Настройка запасов](inventory-setup-inventory.md)  
 [Сведения о проектировании: методы учета себестоимости](design-details-costing-methods.md)  

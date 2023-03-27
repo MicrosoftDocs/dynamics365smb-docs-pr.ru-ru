@@ -3,12 +3,6 @@ author: edupont04
 ms.topic: include
 ms.date: 04/11/2022
 ms.author: edupont
-ms.openlocfilehash: ff4f8469a24ac92b8b817528306d808cf2994686
-ms.sourcegitcommit: 4853614c85beb347091c5c4c1ea8d974dec887fc
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 05/11/2022
-ms.locfileid: "8740287"
 ---
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать 0.](../media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Настройка отчетов по НДС**, а затем выберите связанную ссылку.  
 2. Чтобы разрешить пользователям изменять и повторно отправлять этот отчет, выберите поле **Разрешить изменение**.  

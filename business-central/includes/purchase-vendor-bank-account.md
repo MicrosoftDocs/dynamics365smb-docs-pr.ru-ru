@@ -3,13 +3,8 @@ author: rubenseishima
 ms.topic: include
 ms.date: 06/30/2022
 ms.author: a-reishima
-ms.openlocfilehash: c77d21222c7ac2fe2ddcfe4cfa129c6959afa441
-ms.sourcegitcommit: 5560a49ca4ce85fa12e50ed9e14de6d5cba5f5c3
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/13/2022
-ms.locfileid: "9144410"
 ---
+
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Поставщики**, а затем выберите связанную ссылку.
 2. Открытие карточки поставщика.
 3. Выберите действие **Банковские счета**.

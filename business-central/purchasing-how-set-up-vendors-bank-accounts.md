@@ -1,30 +1,24 @@
 ---
 title: Настройка банковских счетов поставщика
-description: Узнайте, как связать банковские счета с карточками поставщиков в Business Central, включая контактную информацию, коды SWIFT и IBAN.
+description: 'Узнайте, как связать банковские счета с карточками поставщиков в Business Central, включая контактную информацию, коды SWIFT и IBAN.'
 author: rubenseishima
 ms.service: dynamics365-business-central
 ms.topic: article
 ms.date: 07/04/2022
 ms.author: a-reishima
-ms.openlocfilehash: 8c6faa8adadb62449d1067f877b40176bc15d034
-ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 09/19/2022
-ms.locfileid: "9529635"
 ---
-# <a name="set-up-vendor-bank-accounts"></a>Настройка банковских счетов поставщика
+# Настройка банковских счетов поставщика
 
 Вы можете использовать информацию о банковском счете в [!INCLUDE [prod_short](includes/prod_short.md)], чтобы отслеживать банковские транзакции вашей компании, но также вы также можете задать банковские реквизиты для поставщиков. Данные банковского счета поставщика могут упростить платежи поставщикам, если использовать [расширение AMC Banking 365 Fundamentals](ui-extensions-amc-banking.md) или, например, функцию [Экспорт платежей в банковский файл](finance-make-payments-with-bank-data-conversion-service-or-sepa-credit-transfer.md).
 
-## <a name="add-or-edit-a-vendor-bank-account"></a>Добавление и изменение банковского счета поставщика
+## Добавление и изменение банковского счета поставщика
 
 [!INCLUDE [purchase-vendor-bank-account](includes/purchase-vendor-bank-account.md)]
 
 > [!TIP]
 > Вы можете установить дополнительные банковские счета поставщика на странице **Список банковских счетов поставщика**.
 
-## <a name="set-up-a-preferred-vendor-bank-account"></a>Настройка предпочтительного банковского счета поставщика
+## Настройка предпочтительного банковского счета поставщика
 
 Если у поставщика есть один или несколько банковских счетов и вы хотите выбрать предпочтительный вариант для строк журнала платежей, выполните следующие действия:
 
@@ -32,9 +26,9 @@ ms.locfileid: "9529635"
 2. Открытие карточки поставщика.
 3. На экспресс-вкладке **Платежи** выберите банковский счет поставщика по умолчанию в поле **Код предпочитаемого банковского счета**.
 
-## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/cash-management-dynamics-365-business-central/)
+## См. соответствующее [обучение Microsoft](/training/modules/cash-management-dynamics-365-business-central/)
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Настройка покупки](purchasing-setup-purchasing.md)  
 [Регистрация новых поставщиков](purchasing-how-register-new-vendors.md)  

@@ -1,6 +1,6 @@
 ---
 title: Встроенная аналитика
-description: Предоставляет обзор всех функций, поддерживающих задачи аналитики в продукте Business Central.
+description: 'Предоставляет обзор всех функций, поддерживающих задачи аналитики в продукте Business Central.'
 author: edupont04
 ms.topic: conceptual
 ms.devlang: na
@@ -9,14 +9,8 @@ ms.workload: na
 ms.search.keywords: feature overview
 ms.date: 02/03/2022
 ms.author: edupont
-ms.openlocfilehash: 8968c050701871f610c051432229f88f73804f32
-ms.sourcegitcommit: 8ad79e0ec6e625796af298f756a142624f514cf3
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 09/30/2022
-ms.locfileid: "9607774"
 ---
-# <a name="built-in-analytics"></a>Встроенная аналитика
+# Встроенная аналитика
 
 [!INCLUDE[prod_short](includes/prod_short.md)] поставляется с некоторыми функциями, позволяющими анализировать данные в агрегированном виде. Эта функция полезна, если, например, вы хотите отслеживать финансовые ключевые показатели эффективности (КПЭ) или анализировать финансовые отчеты в Microsoft Excel. Ниже приведены ссылки, которые помогут вам узнать, как ее использовать.
 
@@ -29,7 +23,7 @@ ms.locfileid: "9607774"
 |Анализ финансовых данных по нескольким организациям | [Консолидация финансовых данных из нескольких организаций](finance-consolidated-company-reporting.md) |
 |Получайте аналитику о том, какие отчеты используют пользователи| [Отчет об использовании телеметрии](/dynamics365/business-central/dev-itpro/administration/telemetry-reports-trace)|
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Обзор бизнес-аналитики и отчетности](reports-use-reports.md)
 

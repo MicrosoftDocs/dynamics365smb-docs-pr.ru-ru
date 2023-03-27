@@ -1,29 +1,23 @@
 ---
 title: Локальный функционал и стратегия локализации
-description: Узнайте о доступности Business Central в регионах и соответствии нормативным требованиям в тех странах, где Microsoft предоставляет локальные функции.
+description: 'Узнайте о доступности Business Central в регионах и соответствии нормативным требованиям в тех странах, где Microsoft предоставляет локальные функции.'
 author: edupont04
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: availability, localization
-ms.search.form: ''
+ms.search.keywords: 'availability, localization'
+ms.search.form: null
 ms.date: 06/11/2021
 ms.author: edupont
-ms.openlocfilehash: a0468ce2d5c58fae7fc8298b4f4bf320ba3540ce
-ms.sourcegitcommit: f9143302b8271f5924a027cacdf29dc37c95f4c6
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "8655726"
 ---
-# <a name="local-functionality-in-prod_long"></a>Локальная функциональность в [!INCLUDE[prod_long](includes/prod_long.md)]
+# Локальная функциональность в [!INCLUDE[prod_long](includes/prod_long.md)]
 
 [!INCLUDE[prod_short](includes/prod_short.md)] предлагает стратегию объединенной локализации, включая модели под управлением Майкрософт и партнеров. В этом разделе представлены описания функций, применимых к странам, в которых корпорация Майкрософт обеспечивает соблюдение нормативных требований, и других локальных функций.  
 
 Список поддерживаемых в настоящее время рынков см. в разделе [Наличие в странах/регионах и поддерживаемые переводы](/dynamics365/business-central/dev-itpro/compliance/apptest-countries-and-translations?toc=/dynamics365/business-central/toc.json),  
 
-## <a name="local-functionality"></a>Локальная функциональность
+## Локальная функциональность
 
 Для получения сведений о локальной функциональности для каждой страны/региона перейдите по связанной ссылке:
 
@@ -54,11 +48,11 @@ ms.locfileid: "8655726"
 |        | Индия | [Локальная функциональность в Индии](LocalFunctionality/India/india-local-functionality.md) |
 |        | Новая Зеландия | [Локальная функциональность Новой Зеландии](localfunctionality/newzealand/new-zealand-local-functionality.md) |
 
-### <a name="other-countries"></a>Другие страны
+### Другие страны
 
 [!INCLUDE[prod_short](includes/prod_short.md)] также доступно в других странах в виде локализованных приложений. Если партнер Майкрософт разработал локализованное приложение для вашей страны/региона, его можно найти в [AppSource](https://go.microsoft.com/fwlink/?linkid=2081646).
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Подготовьтесь к ведению бизнеса](ui-get-ready-business.md)  
 [Соответствие](compliance/compliance-overview.md)  

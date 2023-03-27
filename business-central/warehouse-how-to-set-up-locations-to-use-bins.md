@@ -6,17 +6,11 @@ ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: ''
+ms.search.keywords: null
 ms.date: 06/25/2021
 ms.author: edupont
-ms.openlocfilehash: eef49d2ad6d1f52e8b85b1c3e06695668d19fd4f
-ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 09/19/2022
-ms.locfileid: "9530086"
 ---
-# <a name="set-up-locations-to-use-bins"></a>Настройка складов для использования ячеек
+# Настройка складов для использования ячеек
 
 Ячейки являются базовой складской структурой и используются для формирования предложений по размещению товаров. После создания ячеек можно четко определить содержимое для помещения в каждую ячейку; ячейка может также функционировать в качестве плавающей ячейки без определенного содержимого.  
 
@@ -25,7 +19,7 @@ ms.locfileid: "9530086"
 > [!NOTE]  
 >  Прежде чем можно будет указать коды ячеек в карточке склада, эти коды ячеек необходимо создать. Дополнительные сведения см. в разделе [Создание ячеек](warehouse-how-to-create-individual-bins.md).  
 
-## <a name="to-set-up-a-location-to-use-bins"></a>Настройка склада для использования ячеек
+## Настройка склада для использования ячеек
 
 1.  Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Склады**, а затем выберите связанную ссылку.  
 2.  Выберите расположение, где необходимо использовать ячейки.  
@@ -39,21 +33,20 @@ ms.locfileid: "9530086"
 10. Заполните поля на экспресс-вкладке **Политики ячеек**, если они относятся к данному складу. Наиболее важными являются поля **Политика заполнения ячеек**, **Разрешить разбивку** и **Код шаблона размещения**.  
 11. На экспресс-вкладке **Склад** заполните поля **Исходящие - время обработки склада**, **Входящие - время обработки склада** и **Код базового календаря**. Дополнительные сведения см. в разделе [Настройка базовых календарей](across-how-to-assign-base-calendars.md).
 
-## <a name="filling-the-consumption-bin"></a>Заполнение ячейки потребления
+## Заполнение ячейки потребления
 
 Эта блок-схема показывает, как поле **Код ячейки** в строках компонентов производственного заказа заполняется в соответствии с настройкой склада.
 
 ![Диаграмма ячейки.](media/binflow.png "BinFlow")  
 
-## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/configure-bins-location/)
+## См. соответствующее [обучение Microsoft](/training/modules/configure-bins-location/)
 
-## <a name="see-also"></a>См. также
+## См. также
 
-[Управление складом](warehouse-manage-warehouse.md)  
-[Запасы](inventory-manage-inventory.md)  
+[Обзор управления складом](design-details-warehouse-management.md)
+[Запас](inventory-manage-inventory.md)  
 [Настройка Warehouse Management](warehouse-setup-warehouse.md)     
 [Управление сборкой](assembly-assemble-items.md)    
-[Сведения о проектировании: Warehouse Management](design-details-warehouse-management.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
 
 

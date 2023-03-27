@@ -1,22 +1,15 @@
 ---
 title: Административные задачи в Business Central
-description: Некоторые задачи в Business Central требуют централизованного администрирования и настройки. Познакомьтесь с этими задачами и узнайте, что делать.
-author: SorenGP
+description: 'Некоторые задачи в Business Central требуют централизованного администрирования и настройки. Познакомьтесь с этими задачами и узнайте, что делать.'
+author: brentholtorf
+ms.author: bholtorf
+ms.reviewer: bholtorf
+ms.service: dynamics365-business-central
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
-ms.search.keywords: ''
-ms.date: 07/23/2021
-ms.author: edupont
-ms.openlocfilehash: 8d961c1d54dda71651eb81c6dfab05733d0207fc
-ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 09/19/2022
-ms.locfileid: "9533245"
+ms.date: 01/11/2023
+ms.custom: bap-template
 ---
-# <a name="administration-tasks"></a>Задачи администрирования
+# Задачи администрирования
 
 Основные задачи администрирования обычно выполняются в организации исполнителем какой-либо одной роли. Объем этих задач может зависеть от размера организации и должностных обязанностей администратора. Среди подобных задач могут быть следующие: управление синхронизацией с базой данных работ и очередей электронной почты, задание пользователей и настройка пользовательского интерфейса.  
 
@@ -50,7 +43,7 @@ ms.locfileid: "9533245"
 |Подключите Dynamics 365 Sales к [!INCLUDE[prod_short](includes/prod_short.md)] для получения бесшовной интеграции между отношениями с клиентами и обработкой заказов в процессах от интереса до получения денег.|[Интеграция с Dynamics 365 Sales](admin-prepare-dynamics-365-for-sales-for-integration.md)|
 |Измените поля и действия, которые будут отображаться в пользовательском интерфейсе, в соответствии с бизнес-процессами вашей организации и расширения решения с помощью приложений.|[Настройка [!INCLUDE[prod_short](includes/prod_short.md)]](ui-customizing-overview.md)|
 
-## <a name="administration-in-the-admin-center"></a>Администрирование в центре администрирования
+## Администрирование в центре администрирования
 
 Внутренние и делегированные администраторы имеют доступ к центру администрирования [!INCLUDE [prod_short](includes/prod_short.md)], где они могут настраивать, отслеживать и устранять неполадки сред [!INCLUDE [prod_short](includes/prod_short.md)]. В следующей таблице приводятся некоторые ключевые задачи со ссылками на статьи, в которых они описываются.  
 
@@ -58,12 +51,12 @@ ms.locfileid: "9533245"
 |------------|-------------|
 |Узнайте о доступных вам инструментах для устранения неполадок.|[Техническая поддержка](/dynamics365/business-central/dev-itpro/technical-support)|
 |Мониторинг использования и устранения неполадок сеансов|[Телеметрия среды в центре администрирования Business Central](/dynamics365/business-central/dev-itpro/administration/tenant-admin-center-telemetry)|
-|Управление сеансами пользователей, включая отмену сеансов, если пользователь заблокирован.|[Управление сеансами](/dynamics365/business-central/dev-itpro/administration/tenant-admin-center-environments#managing-sessions)|
+|Управление сеансами пользователей, включая отмену сеансов, если пользователь заблокирован.|[Управление сеансами](/dynamics365/business-central/dev-itpro/administration/tenant-admin-center-manage-sessions)|
 |Настройте клиента для отправки данных телеметрии в Azure Application Insights для лучшего анализа и устранения неполадок.|[Включение отправки телеметрии в Application Insights](/dynamics365/business-central/dev-itpro/administration/telemetry-enable-application-insights)|
 
-## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/paths/deploy-configure-dynamics-365-business-central/)
+## См. соответствующее [обучение Microsoft](/training/paths/deploy-configure-dynamics-365-business-central/)
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Функциональные бизнес-возможности](across-business-functionality.md)  
 [Общие бизнес-функции](ui-across-business-areas.md)  

@@ -8,20 +8,14 @@ ms.service: dynamics365-business-central
 ms.topic: how-to
 ms.date: 11/03/2022
 ms.custom: bap-template
-ms.search.keywords: License, access, Microsoft 365, collaborate, collaboration, Teams, Microsoft Teams
-ms.search.forms: 9061
-ms.openlocfilehash: 3b3e7d42e077749bd4443506f7423dce03e9e82f
-ms.sourcegitcommit: 61f22aeede684f0ae772353ede6530ff03ff2f90
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 11/24/2022
-ms.locfileid: "9804423"
+ms.search.keywords: 'License, access, Microsoft 365, collaborate, collaboration, Teams, Microsoft Teams'
+ms.search.form: 9061
 ---
-# <a name="set-up-business-central-access-in-teams-with-microsoft-365-licenses"></a>Настройка доступа к Business Central в Teams с помощью лицензий на Microsoft 365
+# Настройка доступа к Business Central в Teams с помощью лицензий на Microsoft 365
 
 Прежде чем пользователи смогут осуществлять доступ к Business Central со своими лицензиями на Microsoft 365, администратору необходимо выполнить ряд действий. Приведенные ниже действия представляют собой минимум, необходимый для начала работы. Чтобы узнать больше о доступе с помощью лицензий Microsoft 365, перейдите на страницу [Доступ к Business Central Access с помощью лицензий Microsoft 365](admin-access-with-m365-license.md).
 
-## <a name="deploy-the-business-central-app-for-teams"></a>Развертывание приложения Business Central для Teams
+## Развертывание приложения Business Central для Teams
 
 Чтобы держатели лицензий на Business Central могли делиться данными в Teams, а также чтобы держатели лицензий на Microsoft 365 могли осуществлять доступ к этим данным, и у тех, и у других должно быть установлено приложение Business Central для Teams. Хотя пользователи могут установить это приложение самостоятельно, администраторам рекомендуется использовать централизованное развертывание. Централизованное развертывание позволяет развернуть приложение для более широкой аудитории в организации и минимизировать усилия отдельных пользователей. 
 
@@ -33,7 +27,7 @@ ms.locfileid: "9804423"
 > [!TIP]
 > Ищете более быстрый способ начать работу с этой функцией? Тестовые пользователи могут установить приложение со страницы [aka.ms/BCgetTeamsApp](https://aka.ms/BCgetTeamsApp).
 
-## <a name="configure-permissions"></a>Настройка разрешений
+## Настройка разрешений
 
 В Business Central по умолчанию реализована защита: для минимизации рисков в стандартной конфигурации пользователям Microsoft 365 не предоставляются никакие разрешения. Администраторы должны настроить разрешения в отношении объектов, которые определяют, к каким таблицам, страницам и отчетам можно получать доступ в Teams, имея только лицензию на Microsoft 365. Эти разрешения представляют собой начальные разрешения, назначаемые, когда пользователь впервые входит в систему со своей лицензией на Microsoft 365. 
 
@@ -56,7 +50,7 @@ ms.locfileid: "9804423"
 
 Подробнее см. в статье [Назначение разрешений пользователям и группам](ui-define-granular-permissions.md) и [Составление наборов разрешений](/dynamics365/business-central/dev-itpro/developer/devenv-permissionset-composing).
 
-## <a name="turn-on-access-with-microsoft-365-licenses"></a>Включение доступа с лицензиями на Microsoft 365
+## Включение доступа с лицензиями на Microsoft 365
 
 По умолчанию доступ с лицензиями на Microsoft 365 выключен. Доступ необходимо включать для каждой среды отдельно, что дает администраторам возможность его контролировать и позволяет выполнять поэтапное развертывание в организации. Включить доступ можно в центре администрирования Business Central: 
 
@@ -66,7 +60,7 @@ ms.locfileid: "9804423"
 4. На панели **Лицензии на Microsoft 365** включите переключатель. 
 5. Закончив, выберите **Сохранить** и примите подтверждение. Изменение вступает в силу немедленно.
 
-## <a name="test-your-setup"></a>Тестирование конфигурации
+## Тестирование конфигурации
 
 Чтобы убедиться, что полученная конфигурация готова к работе, выполните следующие действия и проверьте, все ли работает должным образом. 
 
@@ -90,7 +84,7 @@ ms.locfileid: "9804423"
 > [!TIP]
 > Что-то пошло не так? Прочитайте статью [Устранение неполадок с доступом с лицензиями на Microsoft 365](admin-access-with-m365-license-troubleshooting.md).
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Обзор Business Central с лицензиями на Microsoft 365](admin-access-with-m365-license.md#minimum-requirements)  
 [Устранение неполадок с доступом с лицензиями на Microsoft 365](admin-access-with-m365-license-troubleshooting.md)  

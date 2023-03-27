@@ -1,6 +1,6 @@
 ---
 title: Используйте отчеты в повседневной работе
-description: Содержит обзор всех функций бизнес-аналитики и отчетности, которые поддерживаются в продукте Business Central.
+description: 'Содержит обзор всех функций бизнес-аналитики и отчетности, которые поддерживаются в продукте Business Central.'
 author: edupont04
 ms.topic: conceptual
 ms.devlang: na
@@ -9,14 +9,8 @@ ms.workload: na
 ms.search.keywords: feature overview
 ms.date: 09/22/2022
 ms.author: edupont
-ms.openlocfilehash: 016acda42ce891b50d766d089c33fb5b68cf8028
-ms.sourcegitcommit: 8ad79e0ec6e625796af298f756a142624f514cf3
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 09/30/2022
-ms.locfileid: "9605716"
 ---
-# <a name="use-reports-in-daily-work"></a>Используйте отчеты в повседневной работе
+# Используйте отчеты в повседневной работе
 
 Отчет в [!INCLUDE[prod_short](includes/prod_short.md)] собирает информацию на основе указанного набора критериев. Он систематизирует и представляет информацию в удобном для чтения формате, который вы можете распечатать или сохранить в виде файла.  
 
@@ -31,9 +25,9 @@ ms.locfileid: "9605716"
 | Узнайте, как изменить макет по умолчанию для отчета. | [Изменение макета отчета по умолчанию](ui-how-change-layout-currently-used-report.md) |
 | Просмотр и анализ данных из набора данных отчета в Microsoft Excel. | [Сохранение набора данных отчета в Excel со страницы запроса](/dynamics365-release-plan/2021wave1/smb/dynamics365-business-central/save-report-dataset-excel-request-page) |
 
-## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/paths/setup-reporting-dynamics-365-business-central/).
+## См. соответствующее [обучение Microsoft](/training/paths/setup-reporting-dynamics-365-business-central/).
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Обзор отчета](reports-available-reports.md)  
 [Обзор бизнес-аналитики и отчетности](ui-work-report.md)  

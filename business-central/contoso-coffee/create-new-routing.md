@@ -1,27 +1,22 @@
 ---
 title: Создание нового маршрута
-description: Пошаговое руководство, чтобы узнать, как ввести всю информацию для нового маршрута вручную в Business Central.
+description: 'Пошаговое руководство, чтобы узнать, как ввести всю информацию для нового маршрута вручную в Business Central.'
 ms.date: 04/01/2022
 ms.topic: article
 ms.service: dynamics365-business-central
 author: edupont04
 ms.author: andreipa
-ms.openlocfilehash: deb1ef6ab18cbd6562ae18cc17495fe3e5021db1
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8525251"
 ---
-# <a name="walkthrough-create-a-new-routing"></a>Руководство. Создание нового маршрута
+
+# Руководство. Создание нового маршрута
 
 В этой статье мы покажем вам, как использовать демонстрационные данные Contoso Coffee для ручной настройки нового производственного маршрута в [!INCLUDE [prod_short](../includes/prod_short.md)].  
 
-## <a name="scenario"></a>Сценарий
+## Сценарий
 
 Оскар, инженер-технолог Contoso Coffee, решает создать новый маршрут с именем *Новый путь*. Поскольку эта маршрутизация отличается от любой другой маршрутизации в Contoso Coffee, он должен вручную ввести всю информацию для маршрутизации.  
 
-## <a name="steps"></a>Шаги
+## Шаги
 
 1. Создайте заголовок маршрутизации.  
 
@@ -60,6 +55,6 @@ ms.locfileid: "8525251"
 
 Теперь новая маршрутизация настроена.  
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Введение в демонстрационные данные Contoso Coffee](contoso-coffee-intro.md)  

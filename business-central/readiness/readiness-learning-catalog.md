@@ -5,14 +5,9 @@ author: loreleishannonmsft
 ms.date: 04/01/2021
 ms.topic: conceptual
 ms.author: margoc
-ms.openlocfilehash: 511c7c616e94458cc2eb8489831d528968400903
-ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 09/19/2022
-ms.locfileid: "9530194"
 ---
-# <a name="business-central-learning-catalog"></a>Учебный каталог Business Central
+
+# Учебный каталог Business Central
 
 Найдите подходящее онлайн-обучение, личные семинары и мероприятия для вашей роли пользователя или партнера Business Central.
 
@@ -20,7 +15,7 @@ ms.locfileid: "9530194"
 
     :::column:::
 
-    ### <a name="business-decision-maker"></a>Лица, принимающие бизнес-решения
+    ### Лица, принимающие бизнес-решения
 
     Вы решаете, стоит ли инвестировать в новые технологии? 
 
@@ -36,7 +31,7 @@ ms.locfileid: "9530194"
 
     :::column:::
 
-    ### <a name="business-user"></a>Бизнес-пользователь
+    ### Бизнес-пользователь
 
     Вы только что получили новое приложение для использования? 
 
@@ -54,7 +49,7 @@ ms.locfileid: "9530194"
 
     :::column:::
 
-    ### <a name="developer"></a>Разработчик
+    ### Разработчик
 
     Вам нужно написать код для интеграции с другими источниками данных, расширить функциональность базовой системы или создать сложное приложение?
 
@@ -66,7 +61,7 @@ ms.locfileid: "9530194"
 
     :::column:::
 
-    ### <a name="functional-consultant"></a>Функциональный консультант
+    ### Функциональный консультант
     
     Вы эксперт по внедрению для бизнес-сферы? 
 

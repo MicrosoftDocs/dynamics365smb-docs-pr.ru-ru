@@ -1,4 +1,8 @@
-> [!NOTE]
->Каковы ваши предпочтения в отношении языка документации? [Пройдите краткий опрос](https://aka.ms/BAG_Docs_Language_Survey) (обратите внимание, что этот опрос представлен на английском языке).
->
->Опрос займет около семи минут. Личные данные не собираются ([заявление о конфиденциальности](https://go.microsoft.com/fwlink/?LinkId=521839)).
+---
+author: edupont04
+ms.topic: include
+ms.date: 11/01/2022
+ms.author: edupont
+---
+[Бесплатные модули электронного обучения для Business Central можно найти здесь](/training/dynamics365/business-central)
+

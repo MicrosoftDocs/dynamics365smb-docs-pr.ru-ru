@@ -3,18 +3,12 @@ author: jill-kotel-andersson
 ms.topic: include
 ms.date: 05/27/2021
 ms.author: edupont
-ms.openlocfilehash: 838a5c44ca1be72644b3cb9b7d26c65adccc96af
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8148074"
 ---
-## <a name="setting-up-the-location"></a>Настройка склада
+## Настройка склада
 
 Настройка страницы **Карточка склада** определяет потоки склада организации. Используйте карточку «Склады», чтобы указать место с кодовым названием *ЮГ*.
 
-### <a name="to-set-up-the-location-south"></a>Настройка склада ЮГ
+### Настройка склада ЮГ
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Склады**, а затем выберите связанную ссылку.  
 2. Создайте карточку склада с названием *ЮГ*.  

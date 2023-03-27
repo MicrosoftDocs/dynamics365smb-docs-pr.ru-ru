@@ -6,17 +6,11 @@ ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: accounting, auditing, bookkeeping
+ms.search.keywords: 'accounting, auditing, bookkeeping'
 ms.date: 08/19/2022
 ms.author: edupont
-ms.openlocfilehash: 64b6b3e3aa74d51b78a62bf2c89e630452c662bb
-ms.sourcegitcommit: 8ad79e0ec6e625796af298f756a142624f514cf3
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 09/30/2022
-ms.locfileid: "9605443"
 ---
-# <a name="setting-up-finance"></a>Настройка финансов
+# Настройка финансов
 
 Прежде чем вы сможете начать свой бизнес, вы должны указать, как вы хотите управлять финансовыми процессами компании. Сначала вы настраиваете основу учетных записей организации: план счетов (COA). Затем настраиваются учетные группы, что позволяет сделать более эффективным процесс назначения используемых по умолчанию учетных счетов главной книги клиентам, поставщикам и товарам.
 
@@ -57,9 +51,9 @@ ms.locfileid: "9605443"
 > [!TIP]
 > В зависимости от вашего географического положения некоторые страницы Business Central могут содержать поля, которые не описаны в перечисленных выше статьях, поскольку они применяются к локальным функциям или настройкам. [!INCLUDE [tooltip-inline-tip_md](includes/tooltip-inline-tip_md.md)]
 
-## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/paths/set-up-financial-management-dynamics-365-business-central/)
+## См. соответствующее [обучение Microsoft](/training/paths/set-up-financial-management-dynamics-365-business-central/)
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Финансы](finance.md)  
 [Выверка банковских счетов](bank-manage-bank-accounts.md)  

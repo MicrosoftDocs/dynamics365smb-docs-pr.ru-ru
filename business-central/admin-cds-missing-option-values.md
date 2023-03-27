@@ -1,20 +1,15 @@
 ---
 title: Обработка отсутствующих значений параметров
-description: Узнайте, как предотвратить сбой полной синхронизации из-за того ,что параметры в сопоставленных полях отличаются. Этот процесс требует помощи разработчика.
+description: 'Узнайте, как предотвратить сбой полной синхронизации из-за того ,что параметры в сопоставленных полях отличаются. Этот процесс требует помощи разработчика.'
 author: brentholtorf
 ms.author: bholtorf
 ms.custom: na
 ms.reviewer: na
 ms.topic: conceptual
 ms.date: 03/23/2022
-ms.openlocfilehash: a726d182babca26525e2931ea2b487171b470bcc
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8512494"
 ---
-# <a name="handling-missing-option-values"></a>Обработка отсутствующих значений параметров
+
+# Обработка отсутствующих значений параметров
 > [!NOTE]
 > В волне 1 выпуска 2022 года вы можете создавать свои собственные сопоставления параметров. Дополнительные сведения см. в разделе [Настройка сопоставлений параметров с Microsoft Dataverse](/dynamics365/business-central/dev-itpro/administration/administration-custom-option-mapping). Новые возможности требуют, чтобы ваш администратор включил **Обновление функции: сопоставление с наборами параметров в Dataverse без кода** на странице **Управление функциями**. Для получения дополнительной информации см. [Раннее включение новых функций](/dynamics365/business-central/dev-itpro/administration/feature-management).
 
@@ -87,7 +82,7 @@ enum 5334 "CDS Payment Terms Code"
 
 Все из перечислений [!INCLUDE[prod_short](includes/prod_short.md)] выше сопоставляются с наборами параметров в [!INCLUDE[prod_short](includes/cds_long_md.md)].
 
-### <a name="extending-option-sets-in-prod_short"></a>Расширение наборов параметров в [!INCLUDE[prod_short](includes/prod_short.md)]
+### Расширение наборов параметров в [!INCLUDE[prod_short](includes/prod_short.md)]
 1. Создайте новое расширение AL.
 
 2. Добавьте расширение Enum для параметров, которые вы хотите расширить. Убедитесь, что вы используете одно и то же значение. 
@@ -109,7 +104,7 @@ enumextension 50100 "CDS Payment Terms Code Extension" extends "CDS Payment Term
 > [!NOTE]
 > Первые десять символов имен и подписей новых значений параметров должны быть уникальными. Например, два параметра «Перевод 20 рабочих дней» и «Перевод 20 календарных дней» вызовут ошибку, поскольку оба имеют одинаковые первые 10 символов «Перевод 20». Назовите их, например, «TRF20 WD» и «TRF20 CD».
 
-### <a name="update-prod_short-option-mapping"></a>Обновление сопоставления параметров [!INCLUDE[prod_short](includes/cds_long_md.md)]
+### Обновление сопоставления параметров [!INCLUDE[prod_short](includes/cds_long_md.md)]
 Теперь вы можете воссоздать сопоставление между параметрами [!INCLUDE[prod_short](includes/cds_long_md.md)] и записями [!INCLUDE[prod_short](includes/prod_short.md)].
 
 На странице **Сопоставление таблиц интеграции** выберите строку для сопоставления **Условия оплаты**, затем выберите действие **Синхронизировать измененные записи**. Страница **Сопоставление параметров Dataverse** обновляется дополнительными записями ниже.
@@ -145,7 +140,7 @@ enumextension 50100 "CDS Payment Terms Code Extension" extends "CDS Payment Term
 | *NET60*      |                      |                           | 0.         | FALSE                         |                   |
 | ***ПЕРЕВОД*** |                      |                           | 0.         | FALSE                         |                   |
 
-## <a name="see-also"></a>См. также
+## См. также
 [Сопоставление таблиц и полей для синхронизации](admin-how-to-modify-table-mappings-for-synchronization.md)
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

@@ -1,22 +1,16 @@
 ---
 title: Отмена подписки или удаление Business Central
-description: Узнайте, как убрать или удалить свой Business Central, если у вас есть пробная подписка или если у вас есть платная подписка.
+description: 'Узнайте, как убрать или удалить свой Business Central, если у вас есть пробная подписка или если у вас есть платная подписка.'
 author: edupont04
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: remove, delete
+ms.search.keywords: 'remove, delete'
 ms.date: 06/08/2022
 ms.author: edupont
-ms.openlocfilehash: 929993c80c52857dd01e978552654c7f5a42e496
-ms.sourcegitcommit: 7b6d70798b4da283d1d3e38a05151df2209c2b72
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 06/12/2022
-ms.locfileid: "8950123"
 ---
-# <a name="unsubscribe-or-remove-prod_short"></a>Отмена подписки или удаление [!INCLUDE[prod_short](includes/prod_short.md)]
+# Отмена подписки или удаление [!INCLUDE[prod_short](includes/prod_short.md)]
 
 Если вы хотите прекратить пользоваться [!INCLUDE[prod_short](includes/prod_short.md)], вы можете закрыть свою учетную запись или попросить удалить лицензию из вашей учетной записи. Действия, которые необходимо предпринять, отличаются в зависимости от того, пользуетесь ли вы бесплатной пробной версией или у вас есть подписка.  
 
@@ -29,11 +23,11 @@ ms.locfileid: "8950123"
 
 Вы можете прочитать о том, как экспортировать данные в Excel в [Экспорт данных в другие финансовые системы](about-export-data.md#exporting-data-to-other-finance-systems). Если вы предпочитаете экспортировать все данные в контейнер хранилища Azure, ваш администратор Microsoft 365 может сделать это в центре администрирования. Для получения дополнительной информации см. [Экспорт баз данных в центре администрирования](/dynamics365/business-central/dev-itpro/administration/tenant-admin-center-database-export).  
 
-## <a name="removing-prod_short-from-your-app-launcher"></a>Удаление [!INCLUDE[prod_short](includes/prod_short.md)] из средства запуска приложений
+## Удаление [!INCLUDE[prod_short](includes/prod_short.md)] из средства запуска приложений
 
 Если требуется скрыть [!INCLUDE[prod_short](includes/prod_short.md)] из средства запуска приложений, вы можете открепить его. Данные не теряются, и этот шаг не отменяет вашу подписку.  
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Вопросы и ответы по пробной версии Business Central](trial-faq.md)  
 [Пробные версии и подписки (для администраторов)](/dynamics365/business-central/dev-itpro/administration/trials-subscriptions)  

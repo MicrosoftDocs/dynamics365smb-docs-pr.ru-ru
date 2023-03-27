@@ -1,35 +1,34 @@
 ---
-title: Сведения о проектировании — планирование поставок | Документация Майкрософт
-description: Этот раздел содержит обзор концепций и принципов, используемых в функциях планирования поставок в Business Central.
-author: SorenGP
+title: Сведения о проектировании — планирование поставок
+description: 'Этот раздел содержит обзор концепций и принципов, используемых в функциях планирования поставок в Business Central.'
+author: brentholtorf
+ms.author: bholtorf
+ms.reviewer: andreipa
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
-ms.search.keywords: design, supply, planning, reordering, replenishment
-ms.date: 06/08/2021
-ms.author: edupont
-ms.openlocfilehash: 7f1ba46b98d041639b2089a661b5e7b137edc6b1
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8131838"
+ms.date: 02/23/2023
+ms.custom: bap-template
+ms.search.keywords: 'design, supply, planning, reordering, replenishment'
 ---
-# <a name="design-details-supply-planning"></a>Сведения о проектировании: планирование поставок
+# Сведения о проектировании: планирование поставок
+
 Документация содержит подробные технические сведения о концепциях и принципах, используемых в функциях планирования поставок в [!INCLUDE[prod_short](includes/prod_short.md)].  
 
-В ней описывается, как работает система планирования и как скорректировать алгоритмы для выполнения требований планирования в различных средах. Сначала приводятся основные понятия решений, а затем описывается логика центрального механизма, балансировка поставок и выполнение планирования запасов с использованием политик дозаказа.  
+В статьях объясняется, как работает система планирования:
 
-## <a name="in-this-section"></a>В этом разделе  
+* Как настроить алгоритмов для выполнения требований планирования в различных средах
+* Вводит концепции центрального решения
+* Описывает логику центрального механизма балансировки поставок
+* Объясняет, как использовать политики повторного заказа в планировании запасов  
+
+## В этом разделе  
+
 [Сведения о проектировании: основные понятия системы планирования](design-details-central-concepts-of-the-planning-system.md)  
 [Сведения о проектировании: резервирование, трассировка заказов и отправка сообщений о действиях](design-details-reservation-order-tracking-and-action-messaging.md)  
 [Сведения о проектировании: балансировка спроса и поставки](design-details-balancing-demand-and-supply.md)  
 [Сведения о проектировании: обработка политик дозаказа](design-details-handling-reordering-policies.md)  
 [Сведения о проектировании: параметры планирования](design-details-planning-parameters.md)  
 [Сведения о проектировании: таблица "Назначение произ. плана"](design-details-planning-assignment-table.md)  
-[Сведения о проектировании: спрос на пустом складе](design-details-demand-at-blank-location.md)  
+[Сведения о проектировании: Планирование со складами и без складов](production-planning-with-without-locations.md)  
 [Сведения о проектировании: перемещения при планировании](design-details-transfers-in-planning.md)
-
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

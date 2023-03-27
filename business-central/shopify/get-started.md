@@ -5,23 +5,18 @@ ms.date: 05/27/2022
 ms.topic: article
 ms.service: dynamics365-business-central
 ms.reviewer: solsen
-ms.search.form: 30100, 30101, 30102, 30103, 30104, 30135,
+ms.search.form: '30100, 30101, 30102, 30103, 30104, 30135,'
 author: AndreiPanko
 ms.author: andreipa
-ms.openlocfilehash: bc3c5769a100909faedbfacce58bb1a2b146f5ad
-ms.sourcegitcommit: bb6ecb20cbd82fdb5235e3cb426fc73c29c0a7ae
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 11/23/2022
-ms.locfileid: "9802988"
 ---
-# <a name="get-started-with-the-shopify-connector"></a>Начало работы с соединителем Shopify
+
+# Начало работы с соединителем Shopify
 
 Свяжите магазин (или магазины) Shopify с [!INCLUDE [prod_short](../includes/prod_short.md)], чтобы максимально повысить эффективность вашего бизнеса. Управляйте и просматривайте аналитику о своем бизнесе и вашем магазине Shopify как единое целое.
 
 Чтобы использовать Shopify с [!INCLUDE [prod_short](../includes/prod_short.md)], необходимо сначала выполнить определенные подготовительные действия. Эта статья представляет собой руководство по интеграции вашего магазина Shopify с [!INCLUDE [prod_short](../includes/prod_short.md)].
 
-## <a name="prerequisites-for-shopify"></a>Предварительные требования для Shopify
+## Предварительные требования для Shopify
 
 У вас должны быть:
 
@@ -30,7 +25,7 @@ ms.locfileid: "9802988"
 
 Дополнительные сведения о создании пробных версий Shopify и рекомендуемых настройках см. в разделе [Создание и настройка учетной записи Shopify](shopify-account.md).
 
-## <a name="prerequisites-for-business-central"></a>Предварительные требования для Business Central
+## Предварительные требования для Business Central
 
 - Убедитесь, что приложение **[Соединитель Shopify](https://go.microsoft.com/fwlink/?linkid=2196238)** установлено.
 
@@ -39,7 +34,7 @@ ms.locfileid: "9802988"
 - Убедитесь, что у пользователя достаточно прав. На соединитель Shopify распространяется набор разрешений *Shopify — Admin (SHPFY — ADMIN)*. Подробнее см. в статьях [Создание пользователей в соответствии с лицензиями](../ui-how-users-permissions.md) и [Назначение разрешений пользователям и группам](../ui-define-granular-permissions.md).
 
 
-## <a name="install-the-dynamics-365-business-central-app-to-your-shopify-online-store"></a>Установка приложения Dynamics 365 Business Central для вашего интернет-магазина Shopify
+## Установка приложения Dynamics 365 Business Central для вашего интернет-магазина Shopify
 
 Для существующего [!INCLUDE[prod_short](../includes/prod_short.md)] этот шаг является необязательным и может быть пропущен.
 
@@ -51,7 +46,7 @@ ms.locfileid: "9802988"
 4. Выберите **Зарегистрироваться**, чтобы начать пробный период [!INCLUDE[prod_short](../includes/prod_short.md)], или **Войти**, если у вас уже есть [!INCLUDE[prod_short](../includes/prod_short.md)]. Вы будете перенаправлены на свою страницу [Business Central](https://businesscentral.dynamics.com).
 5. Следующие шаги должны быть выполнены в [!INCLUDE[prod_short](../includes/prod_short.md)].
 
-## <a name="connect-business-central-to-the-shopify-online-store"></a>Подключение Business Central к интернет-магазину Shopify
+## Подключение Business Central к интернет-магазину Shopify
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **магазин Shopify** и выберите связанную ссылку.
 2. Выберите действие **Создать**.  
@@ -62,14 +57,14 @@ ms.locfileid: "9802988"
 
 Повторите шаги 2–6 для всех интернет-магазинов, которые хотите подключить.
 
-### <a name="known-issues"></a>Известные проблемы
+### Известные проблемы
 
 - Браузер блокирует всплывающее окно. При установке переключателя в положение **Включено** система открывает страницу **Ожидание отклика — не закрывайте эту страницу**, которая ожидает токен доступа от Shopify; если эту страницу закрыть или она будет заблокирована, вы не сможете подключиться к Shopify. Подробнее см. в статье [Запрос токена доступа](troubleshoot.md#request-the-access-token)
 - [Oauth invalid_request: не удалось найти приложение Shopify API вместе с api_key](troubleshoot.md#oauth-error-invalid_request-could-not-find-shopify-api-application-with-api_key)
 - [Не удается подключиться из песочницы](troubleshoot.md#verify-and-enable-permissions-to-make-http-requests-when-running-in-a-non-production-environment)
 
 
-## <a name="next-steps"></a>Дальнейшие шаги
+## Дальнейшие шаги
 
 Теперь ваш интернет-магазин подключен к [!INCLUDE[prod_short](../includes/prod_short.md)]. На следующих этапах вы определите, как и что синхронизировать.
 
@@ -77,7 +72,7 @@ ms.locfileid: "9802988"
 - [Синхронизация клиентов](synchronize-customers.md)
 - [Синхронизация заказов](synchronize-orders.md)
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Пошаговое руководство: настройка и использование соединителя Shopify](walkthrough-setting-up-and-using-shopify.md)  
 

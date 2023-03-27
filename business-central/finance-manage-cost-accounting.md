@@ -6,18 +6,12 @@ ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: ''
+ms.search.keywords: null
 ms.search.form: 1123
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: ccce829d284379ab307c141d4076ad30bfbaa018
-ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 09/19/2022
-ms.locfileid: "9535241"
 ---
-# <a name="accounting-for-costs"></a>Учет по затратам
+# Учет по затратам
 Учета затрат помогает оценить затраты на ведение бизнеса. Чтобы начать учет затрат, см. следующие разделы.  
 
 |Задача|Ссылка|  
@@ -30,9 +24,9 @@ ms.locfileid: "9535241"
 |Узнайте о процессах создания бюджетов себестоимости.|[Создание бюджетов расходов](finance-create-cost-budgets.md)|
 |Отмена операций бюджета затрат из регистра бюджета затрат.|[Удаление операций бюджета затрат](finance-how-to-delete-cost-budget-entries.md)|
 
-## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/paths/use-cost-accounting-dynamics-365-business-central/)
+## См. соответствующее [обучение Microsoft](/training/paths/use-cost-accounting-dynamics-365-business-central/)
 
-## <a name="see-also"></a>См. также  
+## См. также  
 [Финансы](finance.md)  
 [Управление себестоимостью товаров](finance-manage-inventory-costs.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

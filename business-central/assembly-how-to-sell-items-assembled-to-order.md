@@ -1,23 +1,17 @@
 ---
-title: Продажа товара, собранного на заказ
-description: Узнайте, как продать товар, собранный на заказ.
+title: 'Продажа товара, собранного на заказ'
+description: 'Узнайте, как продать товар, собранный на заказ.'
 author: brentholtorf
 ms.author: bholtorf
 ms.reviewer: andreipa
 ms.service: dynamics365-business-central
 ms.topic: how-to
 ms.date: 11/23/2022
-ms.search.keywords: kit, kitting, substitute items
-ms.search.form: 900, 901, 902, 903, 904, 907, 910, 916, 920, 921, 922, 923, 940, 941, 942, 930, 931, 932, 914, 915, 905
+ms.search.keywords: 'kit, kitting, substitute items'
+ms.search.form: '900, 901, 902, 903, 904, 907, 910, 916, 920, 921, 922, 923, 940, 941, 942, 930, 931, 932, 914, 915, 905'
 ms.custom: bap-template
-ms.openlocfilehash: a9c686531a813e9eaf849d30fbcb41fc4f31c696
-ms.sourcegitcommit: 61f22aeede684f0ae772353ede6530ff03ff2f90
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 11/24/2022
-ms.locfileid: "9804477"
 ---
-# <a name="sell-items-assembled-to-order"></a>Продажа товара, собранного на заказ
+# Продажа товара, собранного на заказ
 
 Если товары настроены для сборки на заказ, их наличие на складе не ожидается, и эти товары будут быть собраны при их добавлении в заказ на продажу. Товар настраивается для сборки на заказ, если в поле **Политика сборки** на карточке товара указано **Сборка для заказа**. При вводе товара в строке заказа продажи автоматически создается заказ на сборку и связывается с заказом на продажу.  
 
@@ -34,7 +28,7 @@ ms.locfileid: "9804477"
 > [!NOTE]  
 > Следующая процедура не включает шаги по созданию стандартного заказа на продажу, происходящие до шага, на котором указывается товар сборки для заказа для строки заказа на продажу. Узнайте больше о создании заказов на продажу в разделе [Продажа товара с заказом продажи клиента](sales-how-sell-products.md).  
 
-## <a name="to-sell-an-item-that-is-assembled-to-order"></a>Продажа товара, собранного на заказ
+## Продажа товара, собранного на заказ
 
 1. Выберите значок ![Лампочка, которая открывает функцию «Что вы хотите сделать»](media/ui-search/search_small.png "Что вы хотите сделать"), значок введите **Заказы на продажу**, а затем выберите связанную ссылку.  
 2. Создайте заказ на продажу. 
@@ -66,15 +60,15 @@ ms.locfileid: "9804477"
 > [!NOTE]  
 > Замены товаров не заменяют автоматически товары другими товарами, например, при создании заказа на продажу или в спецификации. Вместо этого вы будете предупреждены о том, что вам доступна замена.
 
-## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/assemble-to-order-dynamics-365-business-central/)
+## См. соответствующее [обучение Microsoft](/training/modules/assemble-to-order-dynamics-365-business-central/)
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Управление сборкой](assembly-assemble-items.md)  
 [Работа со сборочными спецификациями](assembly-how-work-assembly-boms.md)  
 [Регистрация новых товаров](inventory-how-register-new-items.md)  
 [Запасы](inventory-manage-inventory.md)  
-[Сведения о проектировании: Warehouse Management](design-details-warehouse-management.md)  
+[Обзор Warehouse Management](design-details-warehouse-management.md)
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

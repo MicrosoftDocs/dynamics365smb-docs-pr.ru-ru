@@ -6,24 +6,18 @@ ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: OData, Power App, SOAP
+ms.search.keywords: 'OData, Power App, SOAP'
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: d7dbc334edcd22bb41ea5ad3a37ff53a52bfe970
-ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 09/19/2022
-ms.locfileid: "9531895"
 ---
-# <a name="connecting-to-your-business-central-data-to-build-a-business-app-using-power-apps"></a>Подключение к данным Business Central для создания бизнес-приложения с помощью Power Apps
+# Подключение к данным Business Central для создания бизнес-приложения с помощью Power Apps
 
 Данные [!INCLUDE[prod_short](includes/prod_short.md)] можно сделать доступными в качестве источника данных в Power Apps.  
 
 > [!NOTE]  
 > Вы должны иметь допустимую учетную запись в [!INCLUDE[prod_short](includes/prod_short.md)] и в Power Apps.  
 
-## <a name="to-add-prod_short-as-a-data-source-in-power-apps"></a>Добавление [!INCLUDE[prod_short](includes/prod_short.md)] как источника данных в Power Apps
+## Добавление [!INCLUDE[prod_short](includes/prod_short.md)] как источника данных в Power Apps
 
 1. В браузере перейдите к [powerapps.microsoft.com](https://powerapps.microsoft.com/) и выполните вход.
 2. На домашней странице, в разделе **Начать с данных**, выберите плитка **Другие источники данных**.  
@@ -49,9 +43,9 @@ ms.locfileid: "9531895"
 > [!NOTE]
 > Если требуется подключиться к [!INCLUDE[prod_short](includes/prod_short.md)] On-Premises, необходимо выбрать соединитель **Business Central (локальная версия)** на шаге 3.  
 
-## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/paths/power-apps-power-automate-business-central/)
+## См. соответствующее [обучение Microsoft](/training/paths/power-apps-power-automate-business-central/)
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Создание приложения на основе холста из шаблона в Power Apps](/powerapps/maker/canvas-apps/get-started-test-drive)  
 [Импорт бизнес-данных из других финансовых систем](across-import-data-configuration-packages.md)  

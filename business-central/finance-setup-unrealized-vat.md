@@ -1,27 +1,22 @@
 ---
 title: Настройка нереализованного НДС
-description: Если используется учет на основании кассы, можно определить способ обработки нереализованного НДС для продаж и покупок.
+description: 'Если используется учет на основании кассы, можно определить способ обработки нереализованного НДС для продаж и покупок.'
 author: brentholtorf
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: cash, VAT, unrealized, cash-based
-ms.search.form: 118, 472, 473
+ms.search.keywords: 'cash, VAT, unrealized, cash-based'
+ms.search.form: '118, 472, 473'
 ms.date: 04/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: 1ae48b042cf3df00a1d62a6871136e2526b3db0c
-ms.sourcegitcommit: 3ca91139035b34cfe0b0303e4caff7c6d02d0d14
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 03/14/2022
-ms.locfileid: "8417699"
 ---
-# <a name="set-up-unrealized-vat-for-cash-based-accounting"></a>Настройка нереализованного НДС для учета на основании кассы
+
+# Настройка нереализованного НДС для учета на основании кассы
 
 При использовании методов учета на основании кассы можно настроить [!INCLUDE[prod_short](includes/prod_short.md)] для обработки нереализованного НДС.
 
-## <a name="to-use-general-ledger-accounts-for-unrealized-vat"></a>Использование счетов главной книги для нереализованного НДС
+## Использование счетов главной книги для нереализованного НДС
 
 Суммы НДС могут вычисляться и учитываться на временном счете главной книги при учете счета, а затем учитываться на правильном счете главной книги и включаться в отчеты по НДС при учете фактической оплаты счета. Перед тем, как это сделать, следует [произвести настройку учета НДС](finance-setup-vat.md).
 
@@ -51,7 +46,7 @@ ms.locfileid: "8417699"
 > [!NOTE]  
 > Сумма НДС будет учтена на этом счете и будет там находиться до тех пор, пока не произойдет выполнение учета клиентской оплаты. Тогда сумма будет перемещена на счет НДС покупки.
 
-## <a name="see-also"></a>См. также
+## См. также
 [Настройка методов расчета и учета налога на добавленную стоимость](finance-setup-vat.md)
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

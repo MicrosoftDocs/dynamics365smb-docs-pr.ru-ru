@@ -3,12 +3,6 @@ author: edupont04
 ms.topic: include
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 44cd8156e66be7736da4f1c51f507715d7842478
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8147418"
 ---
 При вводе даты и времени, то есть даты и времени в одном поле, необходимо оставлять пробел между датой и временем. Часть даты может содержать только пробелы в форме официального разделителя дат настроек региона. Время может содержать пробелы вокруг индикатора AM/PM в соответствующих региональных настройках.
 

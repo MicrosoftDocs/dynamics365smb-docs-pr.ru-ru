@@ -7,18 +7,12 @@ ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: contact, prospect, client
-ms.search.forms: 9076, 9026
+ms.search.keywords: 'contact, prospect, client'
+ms.search.forms: '9076, 9026'
 ms.date: 06/22/2021
 ms.author: edupont
-ms.openlocfilehash: 3dec95b484bce34c2eff2cbc49510e54f871f4ef
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8137865"
 ---
-# <a name="managing-relationships"></a>Управление отношениями
+# Управление отношениями
 Функции управления отношениями в [!INCLUDE[prod_short](includes/prod_short.md)] помогают управлять продажами. Эти функции обеспечивают доступ к полной и точной информации и позволяют концентрироваться на взаимодействиях в предпочтительных сегментах клиентов и контактов.
 
 Успешные методики продаж и маркетинга помогают принимать правильные решения в нужное время. [!INCLUDE[prod_short](includes/prod_short.md)] предоставляет точный и своевременный обзор контактной информации для более эффективного обслуживания потенциальных клиентов и постоянного повышения качества этого обслуживания.
