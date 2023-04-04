@@ -1,27 +1,21 @@
 ---
 title: Закрытие учетных периодов для финансового года
-description: В этой статье описывается, как закрыть учетные периоды, составляющие финансовый год для закрытия года.
+description: 'В этой статье описывается, как закрыть учетные периоды, составляющие финансовый год для закрытия года.'
 author: jswymer
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: year closing, close accounting period, close fiscal year, bank account detailed trial balance
+ms.search.keywords: 'year closing, close accounting period, close fiscal year, bank account detailed trial balance'
 ms.search.form: 100
 ms.date: 06/25/2021
 ms.author: jswymer
-ms.openlocfilehash: 944c2e9a9955a38b079234cc3ef9fb365407a97a
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8514287"
 ---
-# <a name="close-accounting-periods"></a>Закрытие учетных периодов
+# Закрытие учетных периодов
 
 При завершении финансового года следует завершить периоды, которые его образуют.
 
-## <a name="to-close-accounting-periods"></a>Практическое руководство. Закрытие учетных периодов
+## Практическое руководство. Закрытие учетных периодов
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") введите **Учетные периоды**, а затем выберите связанную ссылку.
 2. На странице **Учетные периоды** выберите действие **Закрыть год**.
@@ -38,7 +32,7 @@ ms.locfileid: "8514287"
 
 После закрытия финансового года счета прибылей и убытков следует закрыть, а результаты года должны быть перемещены на счет в балансовом отчете. Эти действия можно повторять при каждом учете закрытого финансового года.
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Закрытие книг](year-close-books.md)  
 [Учет операции закрытия года](year-how-post-year-end-close-entry.md)  

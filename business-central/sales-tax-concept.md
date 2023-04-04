@@ -1,23 +1,18 @@
 ---
 title: Налог с продаж в версии по умолчанию
-description: Узнайте, как базовая версия Business Central поддерживает налог с продаж, и получите описание базовой концепции.
+description: 'Узнайте, как базовая версия Business Central поддерживает налог с продаж, и получите описание базовой концепции.'
 author: altotovi
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: tax, posting, sales tax
-ms.search.form: 10, 315, 466, 467, 468, 469, 10015, 10016, 10101
+ms.search.keywords: 'tax, posting, sales tax'
+ms.search.form: '10, 315, 466, 467, 468, 469, 10015, 10016, 10101'
 ms.date: 07/21/2022
 ms.author: altotovi
-ms.openlocfilehash: 8690e43fcf0c1c2440f5dbaffdf0a5305677f618
-ms.sourcegitcommit: 38b1272947f64a473de910fe81ad97db5213e6c3
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 08/29/2022
-ms.locfileid: "9361913"
 ---
-# <a name="sales-tax-in-the-default-version-of-business-central"></a>Налог с продаж в версии Business Central по умолчанию
+
+# Налог с продаж в версии Business Central по умолчанию
 
 **Налог с продаж** — это налог, который применяется к покупке товаров и услуг для потребителей и к продаже товаров и услуг для предприятий. Налог с продаж в идеале должен применяться ко всему конечному потреблению с некоторыми исключениями. Освобождение от налога на конечное потребление зависит от местных органов власти, но в целом сделки между предприятиями освобождены от налога с продаж.  
 
@@ -28,7 +23,7 @@ ms.locfileid: "9361913"
 > [!IMPORTANT]
 > Хотя налог с продаж доступен в версии по умолчанию, Microsoft поддерживает использование налога с продаж только в США и Канаде.
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Отчет по налогу с продаж в США](localfunctionality/UnitedStates/us-sales-tax.md)  
 [Отчет по налогу с продаж в Канаде](localfunctionality/canada/ca-sales-tax.md)  

@@ -6,18 +6,12 @@ ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: machinery, buildings
-ms.search.form: 5604, 5606, 5664, 5601, 5602, 5658, 5603, 5671, 5641, 5629, 5633, 5634, 5649, 5622, 5650
+ms.search.keywords: 'machinery, buildings'
+ms.search.form: '5604, 5606, 5664, 5601, 5602, 5658, 5603, 5671, 5641, 5629, 5633, 5634, 5649, 5622, 5650'
 ms.date: 06/15/2021
 ms.author: edupont
-ms.openlocfilehash: 5bd6ff8d27b17e413c418de64bea7ded8428e892
-ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 09/19/2022
-ms.locfileid: "9529303"
 ---
-# <a name="managing-fixed-assets"></a>Управление основными средствами
+# Управление основными средствами
 
 Функциональные возможности по управлению основными средствами [!INCLUDE[prod_short](includes/prod_short.md)] позволяют получать информацию об основных средствах и обеспечивают правильную периодическую амортизацию. Кроме того, они позволяют отслеживать затраты на обслуживание, управлять страховыми полисами, учитывать транзакции основных средств и создавать различные отчеты и статистику.
 
@@ -47,15 +41,15 @@ ms.locfileid: "9529303"
 | Учесть транзакции выбытия, просмотреть операции книги выбытия и учесть частичные выбытия. |[Списание или выбытие основных средств](fa-how-dispose-retire.md) |
 | Управлять бюджетами основных средств, бюджетировать стоимость приобретения, выбытие и амортизацию основных средств. |[Управление бюджетами основных средств](fa-how-manage-budgets.md) |
 
-## <a name="video-overview"></a>Обзор видео
+## Обзор видео
 
 Следующее видео охватывает основы основных средств.
 
 > [!Video https://www.microsoft.com/en-us/videoplayer/embed/RE4AegS?rel=0]
 
-## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/paths/manage-fixed-assets-transactions/)
+## См. соответствующее [обучение Microsoft](/training/paths/manage-fixed-assets-transactions/)
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Настройка основных средств](fa-setup.md)  
 [Изменение набора отображаемых функций](ui-experiences.md)  

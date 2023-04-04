@@ -1,23 +1,17 @@
 ---
 title: Выверка платежей с использованием расширения Envestnet Yodlee Bank Feeds
-description: Описание расширения Envestnet Yodlee Bank Feeds, которое устанавливает связь с банковскими счетами для быстрой выверки банковских платежей.
+description: 'Описание расширения Envestnet Yodlee Bank Feeds, которое устанавливает связь с банковскими счетами для быстрой выверки банковских платежей.'
 author: SorenGP
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: app, add-in, manifest, customize, stream, bank account link
-ms.search.form: 1450, 1451, 1452, 1453, 1454, 1458, 1460,
+ms.search.keywords: 'app, add-in, manifest, customize, stream, bank account link'
+ms.search.form: '1450, 1451, 1452, 1453, 1454, 1458, 1460,'
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 1e2c1b1b9030033ec35c79e478d0d5bd5246b3d6
-ms.sourcegitcommit: 38b1272947f64a473de910fe81ad97db5213e6c3
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 08/29/2022
-ms.locfileid: "9361999"
 ---
-# <a name="the-envestnet-yodlee-bank-feeds-extension"></a>Расширение Envestnet Yodlee Bank Feeds
+# Расширение Envestnet Yodlee Bank Feeds
 
 Для быстрой выверки платежей на ваши банковские счета вы можете использовать службу Envestnet Yodlee Bank Feeds, которая позволяет связать банковский счет в вашей системе со счетом в интернет-банке. Это означает, что последняя банковская выписка автоматически или вручную будет передаваться в ваш журнал выверки, чтобы вы всегда обрабатывали последний платежи с минимальным риском ошибок.
 
@@ -40,13 +34,13 @@ ms.locfileid: "9361999"
 * Поддерживает ручной и автоматический ввод данных из банковских выписок.
 * Позволяет поручать выверку платежей бухгалтеру, предоставляя ему доступ к банковским выпискам.
 
-## <a name="available-bank-feeds"></a>Доступные банковские каналы
+## Доступные банковские каналы
 
 Вы можете проверить, поддерживается ли банк, настроив и подключившись к службе Envestnet Yodlee Bank Feeds. Банк появится в списке, если он поддерживается Envestnet Yodlee.
 
 Дополнительные сведения см. в разделе [Настройка службы Envestnet Yodlee Bank Feeds](bank-how-setup-bank-statement-service.md).
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Настройка [!INCLUDE[prod_short](includes/prod_short.md)] с помощью расширений](ui-extensions.md)  
 [Автоматическое применение платежей и выверка банковских счетов](receivables-apply-payments-auto-reconcile-bank-accounts.md)  

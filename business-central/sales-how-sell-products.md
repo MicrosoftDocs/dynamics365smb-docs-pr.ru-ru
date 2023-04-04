@@ -6,18 +6,12 @@ ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: trade, partial deliveries, customer sales order, shipping advice, partial shipments,
-ms.search.form: 42, 48, 9305
+ms.search.keywords: 'trade, partial deliveries, customer sales order, shipping advice, partial shipments,'
+ms.search.form: '42, 48, 9305'
 ms.date: 09/02/2022
 ms.author: edupont
-ms.openlocfilehash: 7d3363557e469344c1648c52b08393efc0f2dc69
-ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 09/19/2022
-ms.locfileid: "9535831"
 ---
-# <a name="sell-products-with-a-customer-sales-order"></a>Продажа товара с заказом продажи клиента
+# Продажа товара с заказом продажи клиента
 
 В этой статье приведены инструкции о том, когда использовать заказ клиента на продажу в дополнение ко счету. Если процесс продажи требует, чтобы выполнялась отгрузка только части количества в заказе, например потому, что полное количество недоступно в конкретный момент, необходимо обработать эту продажу путем создания заказа на продажу.
 
@@ -29,7 +23,7 @@ ms.locfileid: "9535831"
 
 Можно даже создавать заказы с прямой оплатой для незарегистрированных клиентов, сначала настроив карточку клиента, оплачивающего наличными, которая указывается в заказе на продажу. Подробнее в разделе [Настройка клиентов](finance-how-to-set-up-cash-customers.md).
 
-## <a name="create-a-sales-order"></a>Создайте заказ на продажу
+## Создайте заказ на продажу
 
 > [!NOTE]  
 > Следующая процедура предполагает, что клиент уже настроен. Инструкции о том, как это сделать, см. [Регистрация новых клиентов](sales-how-register-new-customers.md).
@@ -93,13 +87,13 @@ ms.locfileid: "9535831"
 
 Связанные операции книги товаров и клиентов будут созданы в вашей системе, а заказ на продажу сформирован в виде PDF-документа. Когда заказ продажи полностью учтен, он удаляется из списка заказов на продажу и заменяется новыми документами в списке учтенных счетов продажи и учтенных расходных накладных продажи.  
 
-## <a name="external-document-number"></a>Номер внешнего документа
+## Номер внешнего документа
 
 [!INCLUDE [ext-doc-no-sales](includes/ext-doc-no-sales.md)]
 
-## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/create-sales-documents-dynamics-365-business-central/).
+## См. соответствующее [обучение Microsoft](/training/modules/create-sales-documents-dynamics-365-business-central/).
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Выставление счетов продажи](sales-how-invoice-sales.md)  
 [Учет продаж](ui-post-sales.md)  

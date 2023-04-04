@@ -1,24 +1,18 @@
 ---
 title: Редактирование учтенных документов о продажах и покупке
-description: В этой теме объясняется, как обновить информацию в опубликованном документе, таком как расходная накладная продажи или счет-фактура покупки, когда соответствующая информация изменилась.
+description: 'В этой теме объясняется, как обновить информацию в опубликованном документе, таком как расходная накладная продажи или счет-фактура покупки, когда соответствующая информация изменилась.'
 author: SorenGP
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.reviewer: edupont
-ms.search.keywords: Posted document, editable, posted sales shipment, posted purchase invoice, posted return shipment, posted return receipt, Business Central, business document
-ms.search.form: 130, 138, 142, 146, 6660, 6662, 6650, 6652
+ms.search.keywords: 'Posted document, editable, posted sales shipment, posted purchase invoice, posted return shipment, posted return receipt, Business Central, business document'
+ms.search.form: '130, 138, 142, 146, 6660, 6662, 6650, 6652'
 ms.date: 06/10/2021
 ms.author: edupont
-ms.openlocfilehash: ae59d920f4c560caff2bb545b1922bcd4bff65db
-ms.sourcegitcommit: 12ff9dcbefb47f2280479cceb656ea7e6ac2cfa1
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 12/02/2022
-ms.locfileid: "9822550"
 ---
-# <a name="edit-posted-documents"></a>Изменение учтенных документов
+# Изменение учтенных документов
 
 Иногда вам нужно обновить учтенный документ, потому что изменилась информация, относящаяся к документу. Например, в учтенном документе продажи это может быть номер для отслеживания посылки агентом по доставке. В учтенном документе покупки это может быть текст ссылки на платеж.
 
@@ -38,7 +32,7 @@ ms.locfileid: "9822550"
 - RU: учтенная кредит-нота продажи
 - IT: учтенная расходная накладная на перемещение, учтенная сервисная расходная накладная
 
-## <a name="to-edit-a-posted-sales-shipment"></a>Чтобы отредактировать учтенную расходную накладную продажи
+## Чтобы отредактировать учтенную расходную накладную продажи
 
 Далее поясняется, как редактировать учтенную расходную накладную продажи. Шаги аналогичны для других поддерживаемых документов.
 
@@ -49,7 +43,7 @@ ms.locfileid: "9822550"
 
 Учтенная расходная накладная продажи обновлена.
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Учет документов и журналов](ui-post-documents-journals.md)  
 [Поиск связанных операций для документов](ui-find-entries.md)  

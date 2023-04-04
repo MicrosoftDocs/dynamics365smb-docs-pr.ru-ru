@@ -7,23 +7,33 @@ metadata:
   ms.devlang: na
   ms.tgt_pltfrm: na
   ms.workload: na
-  ms.search.keywords: phone, tablet
+  ms.search.keywords: 'phone, tablet'
   ms.date: 04/27/2022
   ms.author: jswymer
-  ms.openlocfilehash: 6749b3117c71223db191d0c79c17eef2f385fc05
-  ms.sourcegitcommit: f9143302b8271f5924a027cacdf29dc37c95f4c6
-  ms.translationtype: HT
-  ms.contentlocale: ru-RU
-  ms.lasthandoff: 04/29/2022
-  ms.locfileid: "8656598"
 title: Вопросы и ответы по надстройке Business Central для Outlook
-summary: "В этой статье даны ответы на вопросы, которые пользователи часто задают о надстройке Business Central для Outlook.   \n"
+summary: |
+  В этой статье даны ответы на вопросы, которые пользователи часто задают о надстройке Business Central для Outlook.   
 sections:
-- name: Пропущено
-  questions:
-  - question: "How do I change the environment my add-in is pointing to?  \n"
-    answer: "The environment URL is configured in the add-in when the add-in is installed (specifically, in the add-in's manifest file). If you want the add-in to point to a different environment, open the desired Business Central environment and deploy the add-in again, for example, by running the **Get the Outlook Add-in** assisted setup. This action  will redeploy the add-in with updated environment URLs. \n\n> [!NOTE]\n> It might take some time before the change takes effect.\n"
-  - question: >
-      Can I customize the add-in to connect to multiple environments?
-    answer: "Yes. As an administrator, developer, or partner, you can modify and build your own add-in manifests. One way is to download the Contact Insights manifest from each environment that the users want to connect to. Then, modify the `<Id>` and `<DisplayName>` tags to allow multiple versions of the add-in to be installed. These modifications will let the user have multiple Business Central add-ins installed, each pointing to their own environment.\n\n![Multiple Business Central add-ins for Outlook.](media/outlook-multiple-addins.png) \n"
-additionalContent: "\n## See also\n\n[Get the Business Central Add-in for Outlook](admin-outlook.md)  \n[Use Business Central as your Business Inbox in Outlook](work-outlook-addin.md)  \n\n[!INCLUDE[footer-include](includes/footer-banner.md)]"
+  - name: Пропущено
+    questions:
+      - question: |
+          Как изменить среду, на которую указывает моя надстройка?  
+        answer: |
+          URL-адрес среды настраивается в надстройке, когда установлена надстройка (а именно, в файле манифеста надстройки). Если вы хотите, чтобы надстройка указывала на другую среду, откройте нужную среду Business Central и снова разверните надстройку, например, запустив мастер настройки **Получить надстройку Outlook**. Это действие повторно развернет надстройку с обновленными URL-адресами среды. 
+
+          > [!NOTE]
+          > Прежде чем изменение вступит в силу, может пройти некоторое время.
+      - question: |
+          Можно ли настроить надстройку для подключения к нескольким средам?
+        answer: |
+          Да. Как администратор, разработчик или партнер, вы можете изменять и создавать собственные манифесты надстроек. Один из способов — загрузить манифест "Информация о контакте" из каждой среды, к которой хотят подключиться пользователи. Затем измените теги `<Id>` и `<DisplayName>`, чтобы разрешить установку нескольких версий надстройки. Эти изменения позволят пользователю установить несколько надстроек Business Central, каждая из которых указывает на свою собственную среду.
+
+          ![Несколько надстроек Business Central для Outlook.](media/outlook-multiple-addins.png) 
+additionalContent: |
+
+  ## См. также
+
+  [Получение надстройки Business Central для Outlook](admin-outlook.md)  
+  [Использование Business Central в качестве папки "Входящие" для бизнеса в Outlook](work-outlook-addin.md)  
+
+  [!INCLUDE[footer-include](includes/footer-banner.md)]

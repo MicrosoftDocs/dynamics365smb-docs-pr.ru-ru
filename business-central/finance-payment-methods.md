@@ -1,23 +1,17 @@
 ---
 title: Настройка способов оплаты (содержит видео)
-description: Способы оплаты, например, чеки, банковские переводы, наличные или PayPal используются для того, чтобы определять, как именно должны оплачиваться счета на продажу и покупку.
+description: 'Способы оплаты, например, чеки, банковские переводы, наличные или PayPal используются для того, чтобы определять, как именно должны оплачиваться счета на продажу и покупку.'
 author: brentholtorf
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: check, bank transfer, cash, PayPal
+ms.search.keywords: 'check, bank transfer, cash, PayPal'
 ms.search.form: 427
 ms.date: 04/01/2021
 ms.author: bholtorf
-ms.openlocfilehash: ef92b2ade7c18a57438a6a87a939070cb42a9fb1
-ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 09/19/2022
-ms.locfileid: "9530626"
 ---
-# <a name="set-up-payment-methods"></a>Настройка способов оплаты
+# Настройка способов оплаты
 
 Методы оплаты определяют предпочтительный способ, которым клиенты осуществляют платежи вам, и способ, которым вы хотите платить поставщикам. Метод может меняться для каждого клиента или поставщика. Типичными примерами методов оплаты являются **банк**, **касса**, **чек** или **счет**.
 
@@ -29,7 +23,7 @@ ms.locfileid: "9530626"
 
 > [!Video https://www.microsoft.com/videoplayer/embed/RE476Ys?rel=0]
 
-## <a name="to-set-up-a-payment-method"></a>Настройка метода оплаты
+## Настройка метода оплаты
 
 [!INCLUDE[prod_short](includes/prod_short.md)] обеспечивает несколько способов платежа, которые часто используются организациями. Можно, однако, добавить любое необходимое число.
 
@@ -38,14 +32,14 @@ ms.locfileid: "9530626"
 
 При желании добавьте условия оплаты для вашего способа оплаты. Дополнительные сведения см. в разделе [Настройка условия платежа](finance-payment-terms.md).  
 
-## <a name="to-assign-a-payment-method-to-a-customer-or-vendor"></a>Присвоение метода платежа клиенту или поставщику
+## Присвоение метода платежа клиенту или поставщику
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Клиент** или **Поставщик**, а затем выберите связанную ссылку.
 2. В поле **Код способа оплаты** выберите метод, который будет использоваться по умолчанию для клиента или поставщика.
 
-## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/cash-management-dynamics-365-business-central/)
+## См. соответствующее [обучение Microsoft](/training/modules/cash-management-dynamics-365-business-central/)
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Регистрация новых клиентов](sales-how-register-new-customers.md)  
 [Настройка условия платежа](finance-payment-terms.md)  

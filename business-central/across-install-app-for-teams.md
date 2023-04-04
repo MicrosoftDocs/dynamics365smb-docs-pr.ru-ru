@@ -6,17 +6,12 @@ ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: Teams, MS Teams, Microsoft Teams, Skype, Link, Microsoft 365, collaborate, collaboration, teamwork
+ms.search.keywords: 'Teams, MS Teams, Microsoft Teams, Skype, Link, Microsoft 365, collaborate, collaboration, teamwork'
 ms.date: 04/12/2021
 ms.author: jswymer
-ms.openlocfilehash: cd127d1b313a0c060ef676c74f0df83e01896b53
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8516451"
 ---
-# <a name="install-the-prod_short-app-for-microsoft-teams"></a>Установите приложение [!INCLUDE [prod_short](includes/prod_short.md)] для Microsoft Teams
+
+# Установите приложение [!INCLUDE [prod_short](includes/prod_short.md)] для Microsoft Teams
 
 [!INCLUDE [online_only](includes/online_only.md)]
 
@@ -25,7 +20,7 @@ ms.locfileid: "8516451"
 > [!NOTE]
 > Ваш администратор мог настроить все так, чтобы приложение автоматически устанавливалось для вас. Чтобы проверить, установлено ли приложение, откройте Teams, затем выберите **Приложения**. Найдите **Business Central**, затем выберите его, когда найдете. Если показано **Открыть** на странице **Business Central**, приложение уже установлено.  
 
-## <a name="prerequisites"></a>Предварительные требования
+## Предварительные требования
 
 - Учетная запись пользователя [!INCLUDE [prod_short](includes/prod_short.md)] Online требуется для приложения [!INCLUDE [prod_short](includes/prod_short.md)] для Teams.
 
@@ -35,7 +30,7 @@ ms.locfileid: "8516451"
 
 - Политики вашей организации должны позволять устанавливать приложения в Microsoft Teams.
 
-## <a name="add-the-business-central-app-to-teams"></a>Добавление приложения Business Central в Teams
+## Добавление приложения Business Central в Teams
 
 Установить приложение Business Central можно тремя способами:
 
@@ -72,11 +67,11 @@ ms.locfileid: "8516451"
 > [!NOTE]
 > В любом случае вас могут попросить войти в [!INCLUDE [prod_short](includes/prod_short.md)]. Выберите ссылку **Войти** и следуйте инструкциям, чтобы ввести имя для входа и пароль для [!INCLUDE [prod_short](includes/prod_short.md)].
 
-## <a name="next-step"></a>Следующий шаг
+## Следующий шаг
 
 Теперь вы готовы использовать приложение в Teams для поиска контактов или обмена записями Business Central. Для получения дополнительной информации см. [Поиск клиентов, поставщиков и других контактов из Microsoft Teams](across-search-contacts-teams.md) или [Общий доступ к записям в Microsoft Teams](across-working-with-teams.md).
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Обзор интеграции Business Central и Microsoft Teams](across-teams-overview.md)  
 [Вопросы и ответы по Teams](teams-faq.md)  

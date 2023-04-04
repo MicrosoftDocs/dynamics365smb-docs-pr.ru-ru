@@ -1,30 +1,24 @@
 ---
 title: Общий сведения по Business Central и Power BI
-description: Получение обзора использования Power BI для получения аналитических сведений, бизнес-аналитики и ключевых показателей эффективности из данных Business Central.
+description: 'Получение обзора использования Power BI для получения аналитических сведений, бизнес-аналитики и ключевых показателей эффективности из данных Business Central.'
 author: jswymer
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: account schedule, analysis, reporting, financial report, business intelligence, KPI
-ms.search.form: 6316, 6317
+ms.search.keywords: 'account schedule, analysis, reporting, financial report, business intelligence, KPI'
+ms.search.form: '6316, 6317'
 ms.reviewer: edupont
 ms.date: 08/30/2022
 ms.author: jswymer
-ms.openlocfilehash: 43c0b32a25d8ebb55aae14937a6d8c2269395963
-ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 09/19/2022
-ms.locfileid: "9533918"
 ---
-# <a name="introduction-to-prod_short-and-power-bi"></a>Введение в [!INCLUDE[prod_short](includes/prod_short.md)] и Power BI
+# Введение в [!INCLUDE[prod_short](includes/prod_short.md)] и Power BI
 
 Получать аналитические сведения о ваших данных [!INCLUDE[prod_short](includes/prod_short.md)] легко с помощью [Power BI](https://powerbi.microsoft.com) — системы визуализации данных от Microsoft. Power BI извлекает данные [!INCLUDE[prod_short](includes/prod_short.md)], позволяющие вам создавать панели мониторинга и отчеты на основе этих данных. Power BI предоставляет гибкую альтернативу встроенным отчетам [!INCLUDE[prod_short](includes/prod_short.md)], позволяя детализировать и настраивать визуализацию и даже объединять данные из разных компаний в [!INCLUDE[prod_short](includes/prod_short.md)]. Некоторые отчеты Power BI также можно встроить в Business Central и просматривать, не выходя из системы. Более сложные панели мониторинга лучше использовать с веб-сайта Power BI.
 
 ![Power BI и Business Central.](media/power-bi-intro.png)
 
-## <a name="what-you-can-do-with-power-bi-and-prod_short"></a>Что можно делать с Power BI и [!INCLUDE[prod_short](includes/prod_short.md)]
+## Что можно делать с Power BI и [!INCLUDE[prod_short](includes/prod_short.md)]
 
 Есть разные возможности для работы с [!INCLUDE[prod_short](includes/prod_short.md)] и Power BI. Некоторые вещи можете делать из Power BI, а все остальное делается из [!INCLUDE[prod_short](includes/prod_short.md)]. Кроме того, некоторые функции доступны только с [!INCLUDE[prod_short](includes/prod_short.md)] Online, но не с On-Premises. Следующая таблица дает вам обзор.
 
@@ -38,7 +32,7 @@ ms.locfileid: "9533918"
 
 <a name="onprem"><sup>*</sup></a> Для этой функции требуется зарегистрированное приложение для Business Central в Microsoft Azure. Для получения дополнительной информации см. раздел [Регистрация Business Central On-Premises в Azure AD для интеграции с другими службами](/dynamics365/business-central/dev-itpro/administration/register-app-azure).
 
-## <a name="get-ready-to-use-power-bi"></a>Подготовка к использованию Power BI
+## Подготовка к использованию Power BI
 
 Есть несколько задач, которые необходимо выполнить, прежде чем вы сможете начать использовать Power BI с [!INCLUDE[prod_short](includes/prod_short.md)]. <!-- Some of the tasks are typically only done by administrators or super users.--> Задачи будут зависеть от вашей роли в вашей организации и от того, что вы хотите делать с Power BI:
 
@@ -76,9 +70,9 @@ ms.locfileid: "9533918"
 
 -->
 
-## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/configure-powerbi-excel-dynamics-365-business-central/index)
+## См. соответствующее [обучение Microsoft](/training/modules/configure-powerbi-excel-dynamics-365-business-central/index)
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Бизнес-аналитика](bi.md)  
 [Подготовка к ведению бизнеса](ui-get-ready-business.md)  

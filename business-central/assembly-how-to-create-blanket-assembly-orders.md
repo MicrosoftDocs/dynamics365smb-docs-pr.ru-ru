@@ -6,18 +6,12 @@ ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: kit, kitting
-ms.search.form: 900, 901, 902, 903, 904, 907, 910, 916, 920, 921, 922, 923, 940, 941, 942, 930, 931, 932, 914, 915, 905
+ms.search.keywords: 'kit, kitting'
+ms.search.form: '900, 901, 902, 903, 904, 907, 910, 916, 920, 921, 922, 923, 940, 941, 942, 930, 931, 932, 914, 915, 905'
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 41e682a54861857ce0ee36bbbf34924c5795b11b
-ms.sourcegitcommit: 8ad79e0ec6e625796af298f756a142624f514cf3
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 09/30/2022
-ms.locfileid: "9605466"
 ---
-# <a name="create-blanket-assembly-orders"></a>Создание общих заказов на сборку
+# Создание общих заказов на сборку
 
 Можно использовать функцию управления сборкой, чтобы настроить сборочный элемент в соответствии с запросом клиента во время процесса продаж. Дополнительные сведения см. в разделе [Продажа товара, собранного на заказ](assembly-how-to-sell-items-assembled-to-order.md).  
 
@@ -26,7 +20,7 @@ ms.locfileid: "9605466"
 > [!NOTE]  
 >  Как и во всех общих заказах, количества в общих сборочных заказах представляют собой только прогнозы, а не рабочие значения, пока они не будет преобразованы в фактические сборочные заказы. Следовательно, функции заказа, такие как расчет наличия, резервирование и трассировка товара, не активны в общих сборочных заказах.  
 
-## <a name="to-create-a-blanket-assembly-order-for-an-assemble-to-order-item"></a>Создание общего сборочного заказа для товара сборки\-на\-заказ  
+## Создание общего сборочного заказа для товара сборки\-на\-заказ  
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Общие заказы на продажу**, а затем выберите связанную ссылку.  
 2. Создайте новый общий заказ на продажу с одной строкой для сборочного элемента. Дополнительные сведения см. в разделе [Создание общих заказов на продажу](sales-how-to-create-blanket-sales-orders.md).  
@@ -42,13 +36,13 @@ ms.locfileid: "9605466"
 
 Связанный общий сборочный заказ и все настройки связаны с новым заказом на продажу для подготовки сборки товара или товаров, которые должны быть проданы.  
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Создание общих заказов на продажу](sales-how-to-create-blanket-sales-orders.md)  
 [Управление сборкой](assembly-assemble-items.md)  
 [Работа со сборочными спецификациями](assembly-how-work-assembly-boms.md)  
 [Запасы](inventory-manage-inventory.md)  
-[Сведения о проектировании: Warehouse Management](design-details-warehouse-management.md)  
+[Обзор Warehouse Management](design-details-warehouse-management.md)
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
 
 

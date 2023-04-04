@@ -6,14 +6,12 @@ ms.topic: conceptual
 ms.workload: na
 ms.search.keywords: null
 ms.search.forms: '7200, 7201'
-ms.date: 09/30/2021
+ms.date: 03/22/2023
 ms.author: bholtorf
 ---
 # Подключение к Microsoft Dataverse
 
-
-
-В этом разделе описывается, как установить соединение между [!INCLUDE[prod_short](includes/prod_short.md)] и [!INCLUDE[cds_long_md](includes/cds_long_md.md)]. Как правило, предприятия создают соединение для интеграции и синхронизации данных с другим бизнес-приложением Dynamics 365, например [!INCLUDE[crm_md](includes/crm_md.md)].  
+В этой статье описывается, как установить соединение между [!INCLUDE[prod_short](includes/prod_short.md)] и [!INCLUDE[cds_long_md](includes/cds_long_md.md)]. Как правило, предприятия создают соединение для интеграции и синхронизации данных с другим бизнес-приложением Dynamics 365, например [!INCLUDE[crm_md](includes/crm_md.md)].  
 
 ## Перед началом работы
 
@@ -45,6 +43,7 @@ ms.author: bholtorf
 > Предоставляя согласие от имени организации, администратор дает право зарегистрированному приложению Azure, которое называется Интеграция [!INCLUDE[prod_short](includes/prod_short.md)] в [!INCLUDE[cds_long_md](includes/cds_long_md.md)] синхронизировать данные, используя автоматически созданные учетные данные пользователя приложения интеграции [!INCLUDE[prod_short](includes/prod_short.md)].
 
 ### Использование мастера настройки подключения Dataverse
+
 Руководство по настройке подключения Dataverse может упростить подключение приложений и даже помочь вам выполнить первоначальную синхронизацию. Если вы выберете запуск начальной синхронизации, [!INCLUDE[prod_short](includes/prod_short.md)] проверит данные в обоих приложениях и предоставит рекомендации по подходу к начальной синхронизации. В следующей таблице описаны эти рекомендации.
 
 |Рекомендация  |Описание  |
@@ -99,7 +98,7 @@ The following video shows the steps to connect [!INCLUDE[prod_short](includes/pr
 
 -->
 
-## Настроить связывание на основе совпадений
+## Настройка связывания на основе совпадений
 
 Начиная с волны 2 выпуска 2021 года администратор может вводить критерии, чтобы объединять записи на соответствий. Алгоритм сопоставления записей можно запустить из следующих мест в [!INCLUDE [prod_short](includes/prod_short.md)]:
 
@@ -159,6 +158,7 @@ The following video shows the steps to connect [!INCLUDE[prod_short](includes/pr
 > Чтобы дать обзор хода связывания, в поле **Связано с Dataverse** показано, связана ли конкретная запись с объектом [!INCLUDE [cds_long_md](includes/cds_long_md.md)]. Вы можете использовать поле **Связано с Dataverse** для фильтрации списка записей, которые вы синхронизируете.
 
 ## Обновление подключений к Business Central Online для использования аутентификации на основе сертификатов
+
 > [!NOTE]
 > Этот раздел актуален только для клиентов [!INCLUDE[prod_short](includes/prod_short.md)] Online, размещенных на сервере Microsoft. Онлайн-клиенты, размещенные у независимых поставщиков программного обеспечения, и локальные установки не затронуты.
 
@@ -182,17 +182,6 @@ The following video shows the steps to connect [!INCLUDE[prod_short](includes/pr
 Чтобы подключить локальную версию [!INCLUDE[prod_short](includes/prod_short.md)] [!INCLUDE[cds_long_md](includes/cds_long_md.md)], необходимо указать некоторую информацию на странице **Настройка подключения Dataverse**.
 
 Для подключения с помощью учетной записи Azure Active Directory (Azure AD) необходимо зарегистрировать приложение в Azure AD. Вам нужно будет указать идентификатор приложения, секрет хранилища ключей и URL-адрес перенаправления для использования. URL-адрес перенаправления предварительно заполнен и должен работать для большинства установок. Вы должны настроить вашу установку на использование HTTPS. Для получения дополнительной информации см. [Настройка SSL для защиты подключения веб-клиента Business Central](/dynamics365/business-central/dev-itpro/deployment/configure-ssl-web-client-connection). Если вы настраиваете на своем сервере другую начальную страницу, вы можете изменить URL-адрес. Секрет клиента будет сохранен как зашифрованная строка в вашей базе данных. 
-
-### Предварительные требования
-
-Dataverse должна использовать один из следующих типов аутентификации:
-
-* Office365 (устаревшая версия)
-
-  > [!IMPORTANT]
-  > С апреля 2022 года поддержка Office365 (устаревшая версия) будет прекращена. Дополнительные сведения см. в разделе [Запланированные важные изменения (устаревания) в Power Apps, Power Automate и приложениях для взаимодействия с клиентами](/power-platform/important-changes-coming#deprecation-of-office365-authentication-type-and-organizationserviceproxy-class-for-connecting-to-dataverse).
-* Office365 (современный, на основе секрета клиента OAuth2)
-* OAuth
 
 ### Чтобы зарегистрировать заявку в Azure AD для подключения из Business Central к Dataverse
 

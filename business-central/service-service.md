@@ -1,22 +1,16 @@
 ---
 title: Сервисный центр
-description: Научитесь использовать функции Business Central, предназначенные для управления и отслеживания сервисов для поддержки операций ремонтных мастерских и выездного обслуживания.
+description: 'Научитесь использовать функции Business Central, предназначенные для управления и отслеживания сервисов для поддержки операций ремонтных мастерских и выездного обслуживания.'
 author: SorenGP
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: ''
+ms.search.keywords: null
 ms.date: 06/23/2021
 ms.author: edupont
-ms.openlocfilehash: 9b579b2b91d9699800b5fbf550c58c2e7caaa77d
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8142910"
 ---
-# <a name="service-management"></a>Сервисный центр
+# Сервисный центр
 > [!NOTE]
 > Функциональная возможность, описанная в этом разделе и его подразделах, отображается в пользовательском университете только при наличии функционального уровня **Premium**. Дополнительные сведения см. в разделе [Изменение набора отображаемых функций](ui-experiences.md).
 
@@ -42,7 +36,7 @@ ms.locfileid: "8142910"
 |Создание и управление контрактными соглашениями между организацией и клиентами.|[Выполнение контрактов на обслуживание](service-fulfill-service-contracts.md)|  
 |Предоставление сервисных услуг клиентам и выставление счетов по сервисным заказам.|[Предоставление услуги](service-deliver-service.md)|  
 
-## <a name="see-also"></a>См. также  
+## См. также  
 [Управление дебиторской задолженностью](receivables-manage-receivables.md)   
 [Работы](projects-how-create-jobs.md)   
 [Добро пожаловать в [!INCLUDE[prod_long](includes/prod_long.md)] ](index.md)

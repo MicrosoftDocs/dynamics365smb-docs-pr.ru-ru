@@ -1,22 +1,16 @@
 ---
-title: Обзор отчетов, помогающих готовить отчеты о закрытии | Документация Майкрософт
-description: Содержит обзор отчетов, которые можно использовать для сбора информации для подготовки отчетов о закрытии при закрытии финансового года организацией.
+title: 'Обзор отчетов, помогающих готовить отчеты о закрытии | Документация Майкрософт'
+description: 'Содержит обзор отчетов, которые можно использовать для сбора информации для подготовки отчетов о закрытии при закрытии финансового года организацией.'
 author: jswymer
 ms.topic: overview
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: year closing, close accounting period, close fiscal year, aging, creditor payments, vendor payments, assets, liabilities, equity, analysis, reporting, financial report, business intelligence, BI, Power Bi, KPI
+ms.search.keywords: 'year closing, close accounting period, close fiscal year, aging, creditor payments, vendor payments, assets, liabilities, equity, analysis, reporting, financial report, business intelligence, BI, Power Bi, KPI'
 ms.date: 04/01/2021
 ms.author: jswymer
-ms.openlocfilehash: d10ae12501feba348794c3deaa3ca66e221553b9
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8521420"
 ---
-# <a name="preparing-closing-statements"></a>Подготовка отчетов о закрытии
+# Подготовка отчетов о закрытии
 Существует несколько стандартных отчетов, которые можно использовать для сбора сведений, необходимых организации для подготовки отчетов о закрытии периодов.
 
 В следующей таблице приведены отчеты, которые могут быть полезны в ходе этого процесса.  
@@ -33,7 +27,7 @@ ms.locfileid: "8521420"
 
 Для просмотра отчета выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") и введите имя, которое отображается в таблице, а затем выберите связанную ссылку.
 
-## <a name="see-also"></a>См. также
+## См. также
 [Закрытие года и периодов](year-close-years-periods.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 [Бизнес-аналитика](bi.md)

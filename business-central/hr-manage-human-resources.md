@@ -1,23 +1,17 @@
 ---
 title: Управление персоналом
-description: Вы можете регистрировать новый персонал, редактировать информацию об имеющихся сотрудниках, регистрировать и анализировать их отсутствие.
+description: 'Вы можете регистрировать новый персонал, редактировать информацию об имеющихся сотрудниках, регистрировать и анализировать их отсутствие.'
 author: SorenGP
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: personnel, people, employee, staff, HR
-ms.search.form: 5200, 5201, 5204, 5206, 5208, 5209, 5211, 5212, 5221, 5228
+ms.search.keywords: 'personnel, people, employee, staff, HR'
+ms.search.form: '5200, 5201, 5204, 5206, 5208, 5209, 5211, 5212, 5221, 5228'
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: 18e0a6cad715da0f06d289112311f3c00bf4e46d
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8521102"
 ---
-# <a name="manage-human-resources"></a>Управление персоналом
+# Управление персоналом
 
 В [!INCLUDE[prod_short](includes/prod_short.md)] можно хранить подробные записи о сотрудниках. В программе можно регистрировать и хранить такие сведения о сотрудниках, как трудовые соглашения, конфиденциальная информация, квалификации и контактные данные сотрудников.
 
@@ -32,7 +26,7 @@ ms.locfileid: "8521102"
 | Зарегистрируйте новых сотрудников или измените записи существующих сотрудников, а также вложите связанные сведения, такие как контракты и статьи. |[Регистрация сотрудников](hr-how-register-employees.md) |
 | Зарегистрируйте простои сотрудников и просмотрите статистику простоев с помощью различных фильтров. |[Управление простоем сотрудника](hr-how-manage-absence.md) |
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Финансы](finance.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
