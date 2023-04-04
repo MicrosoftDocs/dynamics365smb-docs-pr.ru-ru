@@ -87,6 +87,8 @@ ms.search.form: '393, 7382'
 3. Заполните во всех строках журнала оставшиеся поля.
 4. Выполните учет журнала реклассификации.  
 
+    [!INCLUDE [preview-posting-inventory](includes/preview-posting-inventory.md)]
+
 ## См. соответствующее [обучение Microsoft](/training/modules/manage-internal-warehouse-processes/)
 
 ## См. также

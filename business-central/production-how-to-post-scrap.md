@@ -7,7 +7,7 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.form: 99000823
-ms.date: 04/01/2021
+ms.date: 03/08/2023
 ms.author: edupont
 ---
 # Учет брака/отходов вручную
@@ -24,6 +24,8 @@ ms.author: edupont
 3. В поле **Кол-во брака/отхода** введите количество брака/отхода.  
 4. В поле **Код брака** введите код брака/отхода.  
 5. Выберите действие **Учет** для учета указанного брака или отходов на операцию.  
+
+    [!INCLUDE [preview-posting-inventory](includes/preview-posting-inventory.md)]    
 
 ## См. также
 
