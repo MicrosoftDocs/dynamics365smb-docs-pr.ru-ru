@@ -23,16 +23,23 @@
 #### [Пошаговое руководство. Создание прогнозов движения денежных средств с помощью бухгалтерских отчетов](walkthrough-making-cash-flow-forecasts-by-using-account-schedules.md)
 #### [Пошаговое руководство. Настройка и использование соединителя Shopify](shopify/walkthrough-setting-up-and-using-shopify.md)
 <!-- Contoso-->
-### Демонстрационные данные Contoso Coffee для производства
-#### [Введение в демонстрационные данные Contoso Coffee](contoso-coffee/contoso-coffee-intro.md)
-#### [Создание новой производственной спецификации и версии спецификации](contoso-coffee/create-new-production-bom-version.md)
-#### [Создание нового маршрута](contoso-coffee/create-new-routing.md)
-#### [Создание и изменение утвержденного производственного заказа](contoso-coffee/create-firm-planned-production-order-change.md)
-#### [Комбинирование автоматического и ручного списания](contoso-coffee/combine-automatic-manual-flushing.md)
-#### [Использование планирования заказов для создания и резервирования поставок](contoso-coffee/order-planning-create-reserve-supply.md)
-#### [Настройка и обработка субподрядной операции](contoso-coffee/set-up-process-subcontracting-operation.md)
-#### [Создание новой производственной мощности](contoso-coffee/set-up-new-capacity.md)
-#### [Варианты](contoso-coffee/variants.md)
+### Демонстрационные данные Contoso Coffee
+#### [Знакомство с демонстрационными данными Contoso Coffee](contoso-coffee/contoso-coffee-intro.md)
+#### Производство
+##### [Знакомство с производством Contoso Coffee](contoso-coffee/manufacturing/contoso-coffee-manufacturing-intro.md)
+##### [Создание новой производственной спецификации и версии спецификации](contoso-coffee/manufacturing/create-new-production-bom-version.md)
+##### [Создание нового маршрута](contoso-coffee/manufacturing/create-new-routing.md)
+##### [Создание и изменение утвержденного производственного заказа](contoso-coffee/manufacturing/create-firm-planned-production-order-change.md)
+##### [Комбинирование автоматического и ручного списания](contoso-coffee/manufacturing/combine-automatic-manual-flushing.md)
+##### [Использование планирования заказов для создания и резервирования поставок](contoso-coffee/manufacturing/order-planning-create-reserve-supply.md)
+##### [Настройка и обработка субподрядной операции](contoso-coffee/manufacturing/set-up-process-subcontracting-operation.md)
+##### [Создание новой производственной мощности](contoso-coffee/manufacturing/set-up-new-capacity.md)
+##### [Варианты](contoso-coffee/manufacturing/variants.md)
+#### Складское хозяйство
+##### [Знакомство со складом Contoso Coffee](contoso-coffee/warehousing/contoso-coffee-warehousing-intro.md)
+##### [Пошаговое руководство. Приход и расход в базовых конфигурациях склада](contoso-coffee/warehousing/warehouse-basic-flow-putaway-pick.md)
+##### [Пошаговое руководство. Приход и расход в смешанных конфигурациях склада](contoso-coffee/warehousing/warehouse-mixed-flow-receive-pick-ship.md)
+##### [Пошаговое руководство. Приход и расход в расширенных конфигурациях склада с расширенным подбором и размещением](contoso-coffee/warehousing/warehouse-directed-flow.md)
 
 ### Технические подробности
 #### [О технических подробностях решений, реализованных в приложении](design-details-application-design.md)
@@ -108,7 +115,7 @@
 ### [Отмена подписки или удаление Business Central](admin-cancel.md)
 ### Написание маркетинговых текстов для товаров на базе ИИ с помощью Copilot
 #### [Обзор](ai-overview.md)
-#### [Как получить предварительную версию (выпуск с Copilot)](ai-preview-getstarted.md)
+#### [Получение предварительной версии](ai-preview-getstarted.md)
 #### [Настройка создания маркетинговых текстов для товаров на базе ИИ](enable-ai.md)
 #### [Создание маркетинговых текстов для товаров на базе ИИ](item-marketing-text.md)
 #### [Вопросы и ответы](ai-faq.md)
@@ -409,8 +416,12 @@
 ### Консолидация финансовых данных из нескольких организаций
 #### [Консолидация организаций](finance-consolidated-company-reporting.md)
 #### [Настройка консолидации организаций](finance-consolidated-company-reporting-setup.md)
+
+### Работа с планом счетов и главной книгой
+#### [Главная книга и план счетов](finance-general-ledger.md)
+#### [Проверка счетов](finance-review-accounts.md)
+
 ### [Консолидация сальдо для организации, которая является клиентом и поставщиком](finance-consolidate-customer-vendor-balances.md)
-### [Главная книга и план счетов](finance-general-ledger.md)
 ### [Работа с измерениями](finance-dimensions.md)
 ### [Диагностика и исправление измерений](finance-troubleshooting-correcting-dimensions.md)
 ### [Валюты в Business Central](finance-currencies.md)
@@ -436,6 +447,7 @@
 ## Финансовая бизнес-аналитика и отчетность
 ### [Обзор финансовой бизнес-аналитики и отчетности](bi.md)
 ### [Бухгалтерские отчеты](finance-reports.md)
+### [Анализ данных с помощью статистических счетов](bi-use-statistical-accounts.md)
 ### [Анализ фактических сумм в сравнении с суммами бюджета](bi-how-analyze-actual-versus-budget.md)
 ### [Подготовка бухгалтерской отчетности с помощью финансовых данных и категорий счетов](bi-how-work-account-schedule.md)
 ### [Настройка и публикация веб-служб КПЭ, основанных на бухгалтерских отчетах](bi-how-to-set-up-and-publish-kpi-web-services-based-on-account-schedules.md)
@@ -1511,14 +1523,16 @@
 #### [Отправка документов по электронной почте](ui-how-send-documents-email.md)
 #### [Настройка способов доставки](sales-how-set-up-shipment-methods.md)
 #### [Настройка экспедиторов](sales-how-to-set-up-shipping-agents.md)
-### Настройка покупок
-#### [Настройка покупок](purchasing-setup-purchasing.md)
+#### [Определение политики учета счетов для пользователей](admin-setup-invoice-posting-policy.md)
+### Настройка закупок
+#### [Настройка закупок](purchasing-setup-purchasing.md)
 #### [Регистрация новых поставщиков](purchasing-how-register-new-vendors.md)
 #### [Настройка банковских счетов поставщиков](purchasing-how-set-up-vendors-bank-accounts.md)
 #### [Назначение приоритетов поставщикам](purchasing-how-prioritize-vendors.md)
 #### [Настройка менеджеров по закупкам](purchasing-how-setup-purchasers.md)
 #### [Настройка цен и скидок](across-prices-and-discounts.md)
 #### [Регистрация специальных цен покупки и скидок](purchasing-how-record-purchase-price-discount-payment-agreements.md)
+#### [Определение политики учета счетов для пользователей](admin-setup-invoice-posting-policy.md)
 ### Настройка запасов
 #### [Настройка запасов](inventory-setup-inventory.md)
 #### [Настройка общей информации о запасах](inventory-how-setup-general.md)
@@ -1631,6 +1645,7 @@
 ##### [Обзор](across-teams-overview.md)
 ##### [Управление интеграцией с Teams](admin-teams-integration.md)
 ##### [Установка приложения Business Central для Teams](across-install-app-for-teams.md)
+##### [Доступ к данным в Teams без лицензии на Business Central](teams-access-with-m365-license.md)
 ##### [Поиск клиентов, поставщиков и контактов](across-search-contacts-teams.md)
 ##### [Добавление вкладки Business Central в канал или чат](across-teams-tab.md)
 ##### [Публикация записей и ссылок на страницы в Teams](across-working-with-teams.md)
@@ -1753,8 +1768,9 @@
 ### [Обзор](reports-adhoc-analysis.md)
 ### [Сортировка, поиск и фильтрация](ui-enter-criteria-filters.md)
 ### [Вопросы и ответы о поиске и фильтрации](ui-search-filter-faq.yml)
-### [Анализ данных страницы в Excel](across-work-with-excel.md)
+### [Анализ данных страниц в Excel](across-work-with-excel.md)
 ### [Анализ данных отчета с помощью Excel](report-analyze-excel.md)
+### [Анализ данных списка в режиме анализа](analysis-mode.md)
 ### [Финансовая бизнес-аналитика](bi.md)
 
 ## Встроенная аналитика 
@@ -1884,6 +1900,9 @@
 ### [Синхронизация по расписанию](admin-scheduled-synchronization-using-the-synchronization-job-queue-entries.md)
 ### [Устранение ошибок синхронизации](admin-troubleshoot-sales-synchronization.md)
 ### [Использование потока Power Automate для оповещения об изменениях сущностей Dataverse](admin-power-automate-flow-dataverse.md)
+## Синхронизация основных данных между организациями
+### [Подготовка к синхронизации основных данных](admin-set-up-data-sync.md)
+### [Управление синхронизацией основных данных](admin-sync-master-data.md)
 ## Технические подробности
 ### [О технических подробностях решений, реализованных в приложении](design-details-application-design.md)
 ### Технические подробности: планирование поставок
