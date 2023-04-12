@@ -1,14 +1,14 @@
 ---
-title: Краткая справка по сочетаниям клавиш на ПК
+title: Краткая справка по сочетаниям клавиш — только ПК
 description: 'Удобная для печати справочная страница, содержащая наиболее популярные сочетания клавиш для пользователей ПК.'
 author: jswymer
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
-ms.search.keywords: 'accessibility, shortcuts, keyboarding'
-ms.date: 08/19/2022
+ms.search.keywords: 'accessibility, shortcuts, keyboarding, keys'
+ms.date: 02/09/2023
 ms.author: jswymer
+ms.review: jswymer
+ms.service: dynamics365-business-central
+ms.custom: bap-template
 ---
 
 # Краткая справка по сочетаниям клавиш — только ПК
@@ -17,6 +17,7 @@ ms.author: jswymer
 
 |Выберите эти клавиши|Действие|  
 |-|-|
+|<kbd>Alt</kbd>|Отображение клавиш доступа для навигации по строке действий или меню навигации|
 |<kbd>Alt</kbd>+<kbd>F2</kbd>|Отображение и скрытие области информационных панелей|
 |<kbd>Alt</kbd>+<kbd>N</kbd>|Создание новой записи|
 |<kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>N</kbd>|Закрытие вновь созданной записи и создание новой|

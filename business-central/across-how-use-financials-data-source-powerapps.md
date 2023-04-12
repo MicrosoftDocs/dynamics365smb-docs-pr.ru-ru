@@ -1,14 +1,12 @@
 ---
 title: Использование данных для создания приложения | Документация Майкрософт
 description: Данные Business Central можно сделать доступными в качестве источника данных и указать URL-адрес OData ваших веб-служб для создания бизнес-приложения с помощью Power Apps.
-author: edupont04
+author: jswymer
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.service: dynamics365-business-central
 ms.search.keywords: 'OData, Power App, SOAP'
-ms.date: 04/01/2021
-ms.author: edupont
+ms.date: 04/01/2023
+ms.author: jswymer
 ---
 # Подключение к данным Business Central для создания бизнес-приложения с помощью Power Apps
 
@@ -34,7 +32,7 @@ ms.author: edupont
 Эти так называемые таблицы отображаются как конечные точки соединителем [!INCLUDE[prod_short](includes/prod_short.md)] для Power Apps.  
 
 > [!NOTE]
-> Если требуется включение данных из других таблиц в [!INCLUDE[prod_short](includes/prod_short.md)] в ваше приложение, необходимо работать с разработчиком для определения пользовательского API-интерфейса в [!INCLUDE[prod_short](includes/prod_short.md)], затем использовать этот пользовательский API-интерфейс через пользовательский соединитель в Power Apps. Дополнительные сведения см. в разделе [Создание пользовательского соединителя с нуля](/connectors/custom-connectors/define-blank).  
+> Если вы хотите включить в свое приложение данные из других таблиц в [!INCLUDE[prod_short](includes/prod_short.md)], вы должны совместно с разработчиком определить пользовательский API-интерфейс в [!INCLUDE[prod_short](includes/prod_short.md)].  
 
 На этом шаге вы успешно подключились с данным [!INCLUDE[prod_short](includes/prod_short.md)] и готовы начать создание PowerApp. Можно добавить дополнительные экраны и подключить дополнительные данные из [!INCLUDE[prod_short](includes/prod_short.md)]. Дополнительные сведения см. в разделе [Создание приложения на основе холста из примера в Power Apps](/powerapps/maker/canvas-apps/open-and-run-a-sample-app).  
 

@@ -96,7 +96,7 @@ ms.author: bholtorf
 
 [Создание маршрутов](production-how-to-create-routings.md)  
 [Управление вариантами продукта](inventory-item-variants.md)  
-[Пошаговое руководство: варианты](contoso-coffee/variants.md)  
+[Пошаговое руководство: варианты](contoso-coffee/manufacturing/variants.md)  
 [Настройка производства](production-configure-production-processes.md)  
 [Производство](production-manage-manufacturing.md)  
 [Планирование](production-planning.md)  

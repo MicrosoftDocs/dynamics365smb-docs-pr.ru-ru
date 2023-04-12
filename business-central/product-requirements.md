@@ -2,13 +2,13 @@
 title: Минимальные требования при использовании Business Central
 description: Узнайте о минимальных требованиях к системе и версии для использования Business Central Online ниже.
 author: jswymer
-ms.topic: get-started-article
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.topic: overview
+ms.custom: bap-template
 ms.search.keywords: version
-ms.date: 08/23/2022
+ms.date: 02/28/2023
+ms.review: jswymer
 ms.author: jswymer
+ms.service: dynamics365-business-central
 ---
 # Минимальные требования для использования Business Central
 
@@ -64,7 +64,7 @@ ms.author: jswymer
 
 ## Используйте локальную версию Business Central
 
-Если вы хотите развернуть Business Central локально, вам следует проверить системные требования. Для получения дополнительной информации см. [Системные требования для Dynamics 365 Business Central](/dynamics365/business-central/dev-itpro/deployment/system-requirements-business-central-v20) и [Обзор развертывания](/dynamics365/business-central/dev-itpro/deployment/deployment).  
+Если вы хотите развернуть Business Central локально, вам следует проверить системные требования. Для получения дополнительной информации см. [Системные требования для Dynamics 365 Business Central](/dynamics365/business-central/dev-itpro/deployment/system-requirements-business-central-v22) и [Обзор развертывания](/dynamics365/business-central/dev-itpro/deployment/deployment).  
 
 ## См. также
 

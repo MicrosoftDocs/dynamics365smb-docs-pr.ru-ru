@@ -1,15 +1,14 @@
 ---
 title: Отслеживание хода выполнения работ и производительности
 description: 'Описывает, как можно создать метод незавершенного производства (НЗП) и рассчитать НЗП для оценки финансового значения еще выполняющихся работ.'
-author: SorenGP
-ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+author: brentholtorf
+ms.author: bholtorf
+ms.reviewer: andreipa
+ms.topic: how-to
+ms.date: 03/28/2023
+ms.custom: bap-template
 ms.search.keywords: 'project management, KPI, work in process, work in progress'
 ms.search.form: '89, 92, 1010'
-ms.date: 08/04/2022
-ms.author: edupont
 ---
 # Отслеживание хода выполнения работ и производительности
 
