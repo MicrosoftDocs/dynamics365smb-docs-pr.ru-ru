@@ -2,7 +2,6 @@
 title: Базовое расширение миграции в облако
 description: Используйте базовое расширение миграции в облако для связывания локального решения с Business Central Online.
 author: edupont04
-manager: edupont
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
