@@ -3,18 +3,13 @@ title: Корректировка валютных курсов в России
 description: Российские усовершенствования включают корректировку валютных курсов.
 author: DianaMalina
 ms.topic: conceptual
-ms.search.keywords: ''
+ms.search.keywords: null
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 460ee4441a805926d67bbd3837bd0230ed43548a
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8149271"
 ---
-# <a name="adjust-exchange-rates-in-the-russian-version"></a>Корректировка валютных курсов в версии для России
+
+# Корректировка валютных курсов в версии для России
 
 Разница для между российской и международной функцией — российский отчет создает корректировочную операцию для каждой операции Поставщика и Клиента и использует учетную группу из операции не из карточки Продавца и Клиента.
 
@@ -36,7 +31,7 @@ ms.locfileid: "8149271"
 
    3. Щелкните ОК.
    
-   ## <a name="see-also"></a>См. также 
+   ## См. также 
 
 [Функциональность локальной версии для России](russia-local-functionality.md)
 

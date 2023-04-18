@@ -1,20 +1,15 @@
 ---
 title: Создание налоговых регистров в России
-description: Описывает, как создавать налоговые регистры в России.
+description: 'Описывает, как создавать налоговые регистры в России.'
 author: DianaMalina
 ms.topic: conceptual
-ms.search.keywords: ''
+ms.search.keywords: null
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: cdd402a45ac0b744009274925b4af6848b630a22
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8129331"
 ---
-# <a name="create-tax-registers"></a>Расчет налоговых регистров
+
+# Расчет налоговых регистров
 
 В следующей процедуре показан порядок создания налоговых регистров.
 
@@ -58,7 +53,7 @@ ms.locfileid: "8129331"
 
 12. Выберите **Показать связанные записи** для просмотра всех транзакций любой созданной книги операций.
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Налоговый учет](Tax-Accounting.md)  
 [Налоговые регистры](Tax-Registers.md)  

@@ -3,18 +3,13 @@ title: Загрузка КЛАДР в России
 description: Российские улучшения включают поддержку формата КЛАДР.
 author: DianaMalina
 ms.topic: conceptual
-ms.search.keywords: ''
+ms.search.keywords: null
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 8253d350ea348db7b7fbd71189777a700990b52b
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8141795"
 ---
-# <a name="upload-kladr"></a>Загрузка КЛАДР
+
+# Загрузка КЛАДР
 
 [!INCLUDE[prod_short](../../includes/prod_short.md)] поддерживает работу с классификатором адресов РФ **КЛАДР** — ведомственным классификатором, созданным для распределения территорий между налоговыми инспекциями и автоматизированной рассылки корреспонденции.
 
@@ -30,7 +25,7 @@ ms.locfileid: "8141795"
 
 4. Нажмите "ОК".
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Налоговый учет](Tax-Accounting.md)  
 

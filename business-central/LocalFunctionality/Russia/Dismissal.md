@@ -3,18 +3,13 @@ title: Увольнение в России
 description: Российские улучшения включают увольнение сотрудников.
 author: DianaMalina
 ms.topic: conceptual
-ms.search.keywords: ''
+ms.search.keywords: null
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 855bd685fe86915a56f0b044ee7a4679d3d7cd69
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8148886"
 ---
-# <a name="dismissal"></a>Увольнение
+
+# Увольнение
 
 Для уволенного создается дополнительная строка трудового договора, где **Тип операции** — *Увольнение*. 
 
@@ -42,7 +37,7 @@ ms.locfileid: "8148886"
 
 6. Карточка сотрудника содержит информацию об увольнении (в поле **Статус** установлено значение *Уволен*, заполнены поля **Дата увольнения** и **Код причины увольнения**).
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Персонал](Human-Resources.md)
 

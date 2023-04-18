@@ -3,22 +3,17 @@ title: Настройка налогового учета в России
 description: Российские улучшения включают налоговый учет.
 author: DianaMalina
 ms.topic: conceptual
-ms.search.keywords: ''
+ms.search.keywords: null
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: dc2018f74bceb392000d1ff0b8638993474557a6
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8148874"
 ---
-# <a name="set-up-tax-accounting"></a>Настройка налогового учета
+
+# Настройка налогового учета
 
 Налоговый учет позволяет применять правила признания доходов и расходов в соответствии с местным законодательством. Вы можете активировать функции налогового учета в [!INCLUDE[prod_short](../../includes/prod_short.md)], настроив налоговые регистры.
 
-## <a name="to-activate-tax-accounting"></a>Активация налогового учета
+## Активация налогового учета
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../../media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Настройка налоговых регистров**, а затем выберите связанную ссылку.
 
@@ -45,7 +40,7 @@ ms.locfileid: "8148874"
 
 Дополнительные сведения о том, как настроить налоговые регистры, см. в разделе [Создание налоговых регистров](How-to-Create-Tax-Registers.md).
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Налоговый учет](Tax-Accounting.md)  
 [Налоговые регистры](Tax-Registers.md)  

@@ -3,18 +3,13 @@ title: Издержки ОС в России
 description: Российские улучшения включают издержки ОС.
 author: DianaMalina
 ms.topic: conceptual
-ms.search.keywords: ''
+ms.search.keywords: null
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 98384cd7f6083e046815e5a66ff3a2632808a7b4
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8142629"
 ---
-# <a name="fixed-asset-charges"></a>Издержки ОС
+
+# Издержки ОС
 
 Функция издержек основных средств позволяет включать дополнительные издержки на покупку основных средств в стоимость приобретения ОС. Дополнительные сведения см. в разделе [Практическое руководство. Создание издержек ОС](how-to-create-a-fixed-asset-charge.md). 
 
@@ -26,7 +21,7 @@ ms.locfileid: "8142629"
 
 Кроме того, можно также определить, как основное средство будет амортизироваться. Для расчета амортизации основных средств можно использовать несколько методов. При необходимости рассчитать амортизацию одного или нескольких основных средств несколькими методами амортизации, следует настроить методы амортизации ОС.
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Создание издержек ОС](How-to-Create-a-Fixed-Asset-Charge.md)  
 [Создание кредит-ноты для издержек ОС](How-to-Create-a-Credit-Memo-for-a-Fixed-Asset-Charge.md)  

@@ -3,22 +3,17 @@ title: Регистрация НДС по заказам на покупку в 
 description: Российские усовершенствования включают поддержку НДС в заказах на покупку.
 author: DianaMalina
 ms.topic: conceptual
-ms.search.keywords: ''
+ms.search.keywords: null
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 61ee8761d1227aa30f29ca9bbd50113edc06ac4f
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8129321"
 ---
-# <a name="register-vat-on-purchase-orders"></a>Регистрация НДС по заказам на покупку
+
+# Регистрация НДС по заказам на покупку
 
 В России организации должны вести журнал НДС по входящим и исходящим счетам. [!INCLUDE[prod_short](../../includes/prod_short.md)] позволяет регистрировать НДС по заказам на покупку, чтобы эта информация отслеживалась в журнале счетов НДС.
 
-## <a name="to-register-vat-on-a-purchase-order"></a>Регистрация НДС по заказам на покупку
+## Регистрация НДС по заказам на покупку
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../../media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Заказ на покупку**, а затем выберите связанную ссылку. Выберите соответствующий заказ на покупку.
 
@@ -39,7 +34,7 @@ ms.locfileid: "8129321"
 
    Транзакция НДС теперь зарегистрирована и будет отслеживаться в журнале счетов НДС после учета заказа на покупку.
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Настройка книг НДС](How-to-Set-Up-VAT-Ledgers.md)  
 [Подготовка операций НДС к учету](How-to-Prepare-VAT-Entries-for-Posting.md)  

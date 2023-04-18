@@ -3,22 +3,17 @@ title: Определение расширений финансовых отче
 description: Российские усовершенствования включают расширение строк финансовых отчетов.
 author: DianaMalina
 ms.topic: conceptual
-ms.search.keywords: ''
+ms.search.keywords: null
 ms.date: 08/26/2022
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: cb8efe5e52e290e94d1cc0ea9b03414e21878122
-ms.sourcegitcommit: 8ad79e0ec6e625796af298f756a142624f514cf3
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 09/30/2022
-ms.locfileid: "9606575"
 ---
-# <a name="define-a-financial-report-extension"></a>Определение расширения финансовых отчетов
+
+# Определение расширения финансовых отчетов
 
 [!INCLUDE[prod_short](../../includes/prod_short.md)] позволяет определить расширение для строки финансового отчета. Расширения удобны, если требуется фильтрация данных для счетов главной книги.
 
-## <a name="to-define-a-financial-report-extension"></a>Определение расширения финансовых отчетов
+## Определение расширения финансовых отчетов
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../../media/ui-search/search_small.png "Что вы хотите сделать") введите **Финансовый отчет**, затем выберите связанную ссылку.
 2. Выберите финансовый отчет, для которого необходимо определить расширение.
@@ -28,7 +23,7 @@ ms.locfileid: "9606575"
 
 На основе вашего выбора сведения финансового отчета фильтруются из таблиц операций, а затем новые суммы рассчитываются для указанной строки финансового отчета.
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Работа с финансовыми отчетами](How-to-Work-with-Account-Schedules.md)  
 [Обзор финансовых отчетов](account-schedules-overview.md)  

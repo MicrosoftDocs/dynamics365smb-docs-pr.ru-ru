@@ -3,18 +3,13 @@ title: Регистрация отсутствия в России
 description: Российские улучшения включают регистрацию отсутствия.
 author: DianaMalina
 ms.topic: conceptual
-ms.search.keywords: ''
+ms.search.keywords: null
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 1f41e403bcab6676ca9706ef694b4f3bbd9ab44d
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8133495"
 ---
-# <a name="absence-registration"></a>Регистрация отсутствия
+
+# Регистрация отсутствия
 
 Все виды отсутствия, которые оплачиваются в соответствии с законодательством о среднем заработке, должны регистрироваться в соответствующих типах приказов. 
 
@@ -56,7 +51,7 @@ ms.locfileid: "8133495"
 
 Рассмотренный приказ может быть отменен. Функция доступна в виде карточки рассматриваемого приказа. Только приказы, по которым не рассчитывается заработная плата, могут быть отменены.
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Персонал](Human-Resources.md)
 

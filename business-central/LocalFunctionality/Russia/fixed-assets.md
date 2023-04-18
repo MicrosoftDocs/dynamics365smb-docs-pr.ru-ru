@@ -3,22 +3,17 @@ title: Основные средств в России
 description: Российские улучшения включают основные средства.
 author: DianaMalina
 ms.topic: overview
-ms.search.keywords: ''
+ms.search.keywords: null
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 08aac30c64e40e9f28c3d1126168835bb144b572
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8144142"
 ---
-# <a name="overview---fixed-assets"></a>Обзор — основные средства
+
+# Обзор — основные средства
 
 В России имеются особые функции [!INCLUDE[prod_short](../../includes/prod_short.md)] для отслеживания и управления основными средствами. С помощью функций основных средств можно управлять амортизацией и стоимостью обслуживания, отслеживать перемещения основных средств, управлять их продажей и реализацией, а также формировать различные отчеты и статистику.
 
-## <a name="getting-started-with-fixed-assets"></a>Начало работы с основными средствами
+## Начало работы с основными средствами
 
 Воспользуйтесь следующей таблицей, чтобы больше узнать о функциях основных средств, доступных для России.
 

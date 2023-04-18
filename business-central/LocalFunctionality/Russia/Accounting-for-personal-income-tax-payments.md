@@ -3,18 +3,13 @@ title: Учет платежей подоходного налога в Росс
 description: Российские улучшения включают учет платежей подоходного налога.
 author: DianaMalina
 ms.topic: conceptual
-ms.search.keywords: ''
+ms.search.keywords: null
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 7ca4ed2f30c1a1551131df015e0848808cd89340
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8133494"
 ---
-# <a name="accounting-for-personal-income-tax-payments"></a>Учет платежей подоходного налога
+
+# Учет платежей подоходного налога
 
 Фонд для исчисления и уплаты подоходного налога с физических лиц должен быть зарегистрирован в системе как налоговый орган поставщика.
 
@@ -30,7 +25,7 @@ ms.locfileid: "8133494"
 
 НДФЛ уплачивается путем формирования платежного поручения в налоговый орган.
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Налоговый учет](Tax-Accounting.md)
 

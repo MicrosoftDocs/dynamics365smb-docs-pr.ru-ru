@@ -3,22 +3,17 @@ title: Запасы в России
 description: Российские улучшения включают дополнительные функции для управления запасами.
 author: DianaMalina
 ms.topic: conceptual
-ms.search.keywords: ''
+ms.search.keywords: null
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 0be085da029c8c57910801dc980465219f507f55
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8142621"
 ---
-# <a name="inventory-in-the-russian-version"></a>Запасы в русской версии
+
+# Запасы в русской версии
 
 Функция запасов для России описывается в нескольких разделах.
 
-## <a name="in-this-section"></a>В этом разделе
+## В этом разделе
 
 [Товары Настройка](Inventory-Setup.md)
 

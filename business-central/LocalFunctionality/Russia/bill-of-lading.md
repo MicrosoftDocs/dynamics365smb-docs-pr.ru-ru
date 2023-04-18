@@ -1,24 +1,19 @@
 ---
-title: Товарная накладная [Россия]
+title: 'Товарная накладная [Россия]'
 description: Усовершенствования для документов товарных накладных в русской версии Business Central.
 author: altotovi
 ms.topic: article
-ms.search.keywords: ''
+ms.search.keywords: null
 ms.date: 04/01/2022
 ms.reviewer: edupont
 ms.author: altotovi
-ms.openlocfilehash: e04561e2d3824d48373e498b11fef31f23c28f4f
-ms.sourcegitcommit: 8a12074b170a14d98ab7ffdad77d66aed64e5783
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "8522398"
 ---
-# <a name="bill-of-lading-in-the-russian-version"></a>Накладная в русской версии
+
+# Накладная в русской версии
 
 В России накладная является юридическим документом между компанией, которая отгружает товары, и перевозчиком. Документ сопровождает отгруженные товары и служит квитанцией об отгрузке, когда товары доставляются в пункт назначения.
 
-## <a name="set-up-bills-of-lading-report"></a>Настройка отчета по накладным
+## Настройка отчета по накладным
 
 Чтобы настроить отчет **Накладная**, выполните следующие действия:  
 
@@ -28,7 +23,7 @@ ms.locfileid: "8522398"
 
 Отчет экспортируется в Microsoft Excel.
 
-## <a name="printing-document"></a>Печать документа
+## Печать документа
 
 Когда вы настроите документ, его можно распечатать из любой **Учтенная расходная накладная продажи**. При печати отчета он экспортируется в Excel.
 

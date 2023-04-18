@@ -1,0 +1,64 @@
+---
+title: Настройка синхронизации контактов с Outlook для локальной версии Business Central
+description: 'Узнайте, как настроить локальную среду Business Central для синхронизации контактов в Business Central и Outlook.'
+author: jswymer
+ms.author: jswymer
+ms.reviewer: jswymer
+ms.service: dynamics365-business-central
+ms.topic: how-to
+ms.date: 04/04/2023
+ms.custom: bap-template
+---
+
+# Настройка синхронизации контактов с Outlook для локальной версии Business Central
+
+В этой статье вы узнаете, как настроить [!INCLUDE[prod_short](includes/prod_short.md)] локальную синхронизацию контактов в [!INCLUDE[prod_short](includes/prod_short.md)] с контактами в Outlook. Дополнительную информацию об этой функции см. в разделе [Синхронизация контактов в Business Central с контактами в Microsoft Outlook](admin-synchronize-outlook-contacts.md).
+
+## Введение
+
+Синхронизация контактов требует использования протокола OAuth 2.0 для аутентификации в Exchange Online. Ранее также поддерживалась обычная аутентификация, но она устарела и больше не поддерживается в Exchange Online. Вы можете узнать больше о прекращении поддержки в разделе [Прекращение поддержки обычной аутентификации в Exchange Online](/exchange/clients-and-mobile-in-exchange-online/deprecation-of-basic-authentication-exchange-online). Это изменение означает, что синхронизация контактов в Business Central могла перестать работать в вашей локальной среде. В этой статье объясняется, как сделать так, чтобы она стала снова работать.
+
+## Предварительные требования
+
+- Exchange Online, в виде отдельной версии или в рамках плана Microsoft 365  
+- Доступ к арендатору Azure Active Directory (Azure AD), используемому в Exchange Online
+- У пользователей [!INCLUDE[prod_short](includes/prod_short.md)] есть учетная запись электронной почты Microsoft 365 или Exchange Online, которая назначена их учетным записям в [!INCLUDE[prod_short](includes/prod_short.md)]. Проверить эту настройку можно в разделе **Проверка подлинности Microsoft 365** профиля пользователя в списке **Пользователи**. 
+
+## Настройка синхронизации контактов
+
+Выполните следующие шаги, чтобы настроить синхронизацию контактов. Если вы используете [!INCLUDE[prod_short](includes/prod_short.md)] Spring 2019 (v.14), вам потребуется выполнить дополнительный шаг, который либо изменит код приложения, либо установит соединение с Power BI.
+
+1. <a name="registerapp"></a>Регистрация приложения для Exchange Online API в вашем арендаторе Azure AD.
+
+   В рамках этого шага вам необходимо добавить зарегистрированное приложение в арендатор Azure AD, соответствующий вашему плану Microsoft 365 или Exchange Online. Как и другие службы Azure, которые работают с Business Central, для Exchange Online требуется приложение, зарегистрированное в Azure AD. Зарегистрированное приложение предоставляет услуги аутентификации и авторизации между Business Central и Exchange Online.
+
+   Подробные инструкции можно найти в справке для разработчиков и ИТ-специалистов, с статье [Регистрация приложения в Azure Active Directory](/dynamics365/business-central/dev-itpro/administration/register-app-azure#register-an-application-in-azure-active-directory). При выполнении инструкций помните о следующих аспектах:
+
+   - Если вы уже зарегистрировали приложение в рамках интеграции с другим продуктом Майкрософт, например Power BI, то используйте это зарегистрированное приложение. В этом случае вам просто нужно настроить приложение с разрешениями Office 365 Exchange Online, описанными в следующем пункте.
+
+   - Настройте зарегистрированное приложение со следующими делегированными разрешениями Office 365 Exchange Online для API:
+
+     - Контакты.ReadWrite
+     - EWS.AccessAsUser.All
+
+2. Для [!INCLUDE[prod_short](includes/prod_short.md)] версии 14 выполните одну из следующих задач:
+
+   - Измените страницу 6700, заменив `FALSE` на `TRUE` в следующей строке кода в триггере `OnPageOpen`:
+
+     ```
+     PasswordRequired := AzureADMgt.GetAccessToken(AzureADMgt.GetO365Resource,AzureADMgt.GetO365ResourceName,TRUE) = '';
+     ```
+
+   - Создайте новую страницу со следующим кодом в триггере OnPageOpen:
+
+     ```
+     PasswordRequired := AzureADMgt.GetAccessToken(AzureADMgt.GetO365Resource,AzureADMgt.GetO365ResourceName,TRUE) = '';
+     ```
+
+   - Настройте Power BI, следуя инструкциям в разделе [Настройка локальной версии Business Central для интеграции с Power BI](admin-powerbi-setup.md#setup).
+
+   После того, как выбранное вами решение будет готово, попросите пользователей либо запустить новую/измененную страницу, либо [подключиться к Power BI](across-working-with-powerbi.md#connect). Им нужно будет выполнить этот шаг только один раз.
+
+## Дальнейшие шаги
+
+[Синхронизация контактов в Business Central с контактами в Microsoft Outlook](admin-synchronize-outlook-contacts.md)  
