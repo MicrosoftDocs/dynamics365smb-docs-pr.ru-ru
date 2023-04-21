@@ -427,7 +427,8 @@
 ### [Валюты в Business Central](finance-currencies.md)
 ### [Создание бюджетов ГК](finance-how-create-budgets.md)
 ### [Учет транзакций непосредственно в главной книге](finance-how-post-transactions-directly.md)
-### [Сторнирование учета в журнале и отмена приходных/расходных накладных](finance-how-reverse-journal-posting.md)
+### [Сторнирование учтенных журнальных операций и отмена приходных/расходных накладных](finance-how-reverse-journal-posting.md)
+### [Экспорт файлов аудита](finance-how-to-export-audit-files.md)
 ### [Распределение затрат и дохода](year-allocate-costs-income.md)
 ### [Регистрация и возмещение расходов сотрудников](finance-how-record-reimburse-employee-expenses.md)
 ### [Доходы и расходы будущих периодов](finance-how-defer-revenue-expenses.md)
@@ -809,6 +810,7 @@
 ##### [Ограничение учетного периода](LocalFunctionality/Belgium/how-to-limit-the-posting-period.md)
 ##### [Задание рабочей даты в качестве даты учета](LocalFunctionality/Belgium/how-to-set-the-work-date-as-the-posting-date.md)
 ##### [Требование обязательности использования шаблонов журналов](LocalFunctionality/Belgium/specify-journal-template-mandatory.md)
+##### [Отнесения на будущие периоды в отчетах по книгам продаж и покупок](LocalFunctionality/Belgium/how-to-use-deferrals.md}
 
 ### Канада
 #### [Локальная функциональность в канадской версии](LocalFunctionality/Canada/canada-local-functionality.md)
