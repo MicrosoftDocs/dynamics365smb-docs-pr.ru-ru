@@ -3,22 +3,17 @@ title: Создание карточек счетов кассы в России
 description: Российские улучшения включают счета кассы.
 author: DianaMalina
 ms.topic: conceptual
-ms.search.keywords: ''
+ms.search.keywords: null
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: f4a1c16b24ee6bbcb4dfdcfac9b3665cd18a5f6d
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8149255"
 ---
-# <a name="create-cash-account-cards"></a>Создание карточек счетов кассы
+
+# Создание карточек счетов кассы
 
 Счета кассы похожи на банковские счета и создаются так же. Можно создать любое необходимое количество карточек счетов кассы.
 
-## <a name="to-create-a-cash-account-card"></a>Создание карточек счетов кассы
+## Создание карточек счетов кассы
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../../media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Кассы**, а затем выберите связанную ссылку.
 
@@ -35,7 +30,7 @@ ms.locfileid: "8149255"
 
 3. Нажмите кнопку **ОК**.
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Управление мелкими доходами/расходами](Petty-Cash-Management.md)  
 [Управление банками и кассами](bank-and-cash-management.md)  

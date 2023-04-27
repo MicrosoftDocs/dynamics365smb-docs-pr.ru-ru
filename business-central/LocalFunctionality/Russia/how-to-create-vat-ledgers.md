@@ -3,18 +3,13 @@ title: Создание книг НДС в России
 description: Российские улучшения включают работу с книгами НДС.
 author: DianaMalina
 ms.topic: conceptual
-ms.search.keywords: ''
+ms.search.keywords: null
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 311efe3bf35df41a2a89fba0ef470634833a15fa
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8146006"
 ---
-# <a name="create-vat-ledgers"></a>Создание книг НДС
+
+# Создание книг НДС
 
 Можно создать любое количество книг НДС. Например, можно создать следующие книги: 
 
@@ -22,7 +17,7 @@ ms.locfileid: "8146006"
 - дополнительные книги продаж для разниц суммы и предоплат;
 - объединенные книги продаж для компании в целом.
 
-## <a name="to-create-a-vat-ledger"></a>Создание книги НДС
+## Создание книги НДС
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../../media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Список книг покупок и продаж**, а затем выберите связанную ссылку.
 
@@ -47,7 +42,7 @@ ms.locfileid: "8146006"
 
 Теперь можно напечатать книгу НДС как книгу НДС или как дополнительный лист.
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Книги НДС](VAT-Ledgers.md)  
 [Настройка книг НДС](How-to-Set-Up-VAT-Ledgers.md)  
