@@ -2,19 +2,17 @@
 title: Синхронизация Business Central и Dataverse
 description: Узнайте о синхронизации данных между Business Central и Dataverse.
 author: brentholtorf
-ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
-ms.search.keywords: 'sales, crm, integration, sync, synchronize'
-ms.date: 06/14/2021
 ms.author: bholtorf
+ms.reviewer: ivkoleti
+ms.topic: conceptual
+ms.date: 03/31/2023
+ms.custom: bap-template
+ms.search.keywords: 'sales, crm, integration, sync, synchronize'
 ---
 
 # Планирование синхронизации между Business Central и Dataverse
 
-
-Можно синхронизировать [!INCLUDE[prod_short](includes/prod_short.md)] с [!INCLUDE[cds_long_md](includes/cds_long_md.md)] для запланированных интервалов путем настройки заданий в очереди заданий. Задания синхронизации выполнят синхронизацию данных в записях [!INCLUDE[prod_short](includes/prod_short.md)] и записях [!INCLUDE[cds_long_md](includes/cds_long_md.md)], которые ранее были связаны. Или для записей, которые еще не связаны, в зависимости от направления синхронизации и правил, задания синхронизации могут создать и связать новые записи в целевой системе. 
+Можно синхронизировать [!INCLUDE[prod_short](includes/prod_short.md)] с [!INCLUDE[cds_long_md](includes/cds_long_md.md)] для запланированных интервалов путем настройки заданий в очереди заданий. Задания синхронизации синхронизируют данные в записях [!INCLUDE[prod_short](includes/prod_short.md)] и записях [!INCLUDE[cds_long_md](includes/cds_long_md.md)], которые связаны. Что касается еще не связанных записей, в зависимости от направления синхронизации и правил, задания синхронизации могут создавать и связывать новые записи в целевой системе.
 
 Имеется несколько заданий синхронизации, которые доступны в готовом виде. Задания выполняются в следующем порядке во избежание зависимостей связывания между таблицами. Дополнительные сведения см. в разделе [Использование очередей работ для планирования задач](admin-job-queues-schedule-tasks.md).
 
@@ -44,12 +42,12 @@ ms.author: bholtorf
 
 Чтобы синхронизировать данные, записи таблицы [!INCLUDE[cds_long_md](includes/cds_long_md.md)] должны быть связаны с записями [!INCLUDE[prod_short](includes/prod_short.md)]. Например, клиент [!INCLUDE[prod_short](includes/prod_short.md)] должен быть связан с организацией [!INCLUDE[cds_long_md](includes/cds_long_md.md)]. Связи можно настроить вручную перед выполнением заданий синхронизации или позволить заданиям синхронизации автоматически настроить связи. В следующем списке указан способ синхронизации данных между [!INCLUDE[cds_long_md](includes/cds_long_md.md)] и [!INCLUDE[prod_short](includes/prod_short.md)] при использовании операций очереди заданий синхронизации. Дополнительные сведения см. в разделе [Связывание и синхронизация записей вручную](admin-how-to-couple-and-synchronize-records-manually.md).
 
-- Флажок **Синхр. только связанные записи** флажок контролирует, создаются ли новые записи при синхронизации. По умолчанию флажок установлен, что означает, что будут синхронизированы только связанные записи. При сопоставлении таблицы интеграции можно изменить сопоставление таблицы между таблицей [!INCLUDE[cds_long_md](includes/cds_long_md.md)] и таблицей [!INCLUDE[prod_short](includes/prod_short.md)], чтобы задания синхронизации интеграции создавали новые записи в целевой базе данных для каждой строки в исходной базе, которая не связана. Дополнительные сведения см. в разделе [Создание новых записей](admin-how-to-modify-table-mappings-for-synchronization.md#creating-new-records).
+- Флажок **Синхр. только связанные записи** флажок контролирует, создаются ли новые записи при синхронизации. По умолчанию флажок установлен, что означает, что будут синхронизированы только связанные записи. При сопоставлении таблицы интеграции можно изменить сопоставление таблицы между таблицей [!INCLUDE[cds_long_md](includes/cds_long_md.md)] и таблицей [!INCLUDE[prod_short](includes/prod_short.md)], чтобы задания синхронизации интеграции создавали новые записи в целевой базе данных для каждой строки в исходной базе, которая не связана. Дополнительные сведения см. в разделе [Создание новых записей](admin-how-to-modify-table-mappings-for-synchronization.md#create-new-records).
 
     **Пример** Если вы снимите флажок **Синхр. только связанные записи**, то при синхронизации клиентов в [!INCLUDE[prod_short](includes/prod_short.md)] с организациями в [!INCLUDE[cds_long_md](includes/cds_long_md.md)] для каждого клиента в [!INCLUDE[prod_short](includes/prod_short.md)] создается и автоматически связывается новая организация. Кроме того, поскольку синхронизация в этом случае является двунаправленной, новый клиент создается и связывается для каждой организации [!INCLUDE[cds_long_md](includes/cds_long_md.md)], которая еще не связана.  
 
     > [!NOTE]  
-    > Имеются правила и фильтры, которые определяют, какие данные синхронизируются. Для получения дополнительной информации см. [Правила синхронизации](admin-synchronizing-business-central-and-sales.md).
+    > Имеются правила и фильтры, которые определяют, какие данные синхронизируются. Дополнительную информацию см. в разделе [Правила синхронизации](admin-synchronizing-business-central-and-sales.md).
 
 - Когда новые записи создаются в [!INCLUDE[prod_short](includes/prod_short.md)], записи используют шаблон, определенный для сопоставления таблиц интеграции, или шаблон по умолчанию, доступный для этого типа строки. Поля заполняются данными из [!INCLUDE[prod_short](includes/prod_short.md)] или [!INCLUDE[cds_long_md](includes/cds_long_md.md)] в зависимости от направления синхронизации. Дополнительные сведения см. в разделе [Изменение сопоставлений таблицы для синхронизации](admin-how-to-modify-table-mappings-for-synchronization.md).  
 
@@ -60,6 +58,7 @@ ms.author: bholtorf
 - При двунаправленной синхронизации задание выполняет синхронизацию из [!INCLUDE[prod_short](includes/prod_short.md)] в [!INCLUDE[cds_long_md](includes/cds_long_md.md)], а затем из [!INCLUDE[cds_long_md](includes/cds_long_md.md)] в [!INCLUDE[prod_short](includes/prod_short.md)].
 
 ## О таймаутах неактивности
+
 Некоторые операции очереди работ, например те, которые планируют синхронизацию между [!INCLUDE[prod_short](includes/prod_short.md)] и [!INCLUDE[cds_long_md](includes/cds_long_md.md)], используют поле **Таймаут неактивности** на странице операции очереди работ, чтобы предотвратить ненужный запуск очереди работ.  
 
 :::image type="content" source="media/on-hold-with-inactivity-timeout.png" alt-text="Блок-схема, когда операции очереди работ приостанавливаются из-за неактивности.":::
