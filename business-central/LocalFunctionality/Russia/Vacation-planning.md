@@ -3,18 +3,13 @@ title: Планирование отпусков в России
 description: Российские улучшения включают управление отпусками.
 author: DianaMalina
 ms.topic: conceptual
-ms.search.keywords: ''
+ms.search.keywords: null
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: b1a2fddfbcc745a1538d9ad377d056e8693732a8
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8142633"
 ---
-# <a name="vacation-planning"></a>Планирование отпусков
+
+# Планирование отпусков
 
 В [!INCLUDE[prod_short](../../includes/prod_short.md)] имеется график отпусков на календарный год:
 
@@ -31,7 +26,7 @@ ms.locfileid: "8142633"
 
 Остальные поля формы заполняются по мере необходимости в случае переноса отпуска.
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Персонал](Human-Resources.md)  
 

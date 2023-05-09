@@ -3,18 +3,12 @@ title: Безвозмездное получение в России
 description: Российские усовершенствования включают безвозмездное получение основных средств.
 author: DianaMalina
 ms.topic: conceptual
-ms.search.keywords: ''
+ms.search.keywords: null
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: 5ae87ac060e1fd9b65b8703598f897b3ea634ebe
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8142637"
 ---
-# <a name="gratuitous-receipt-of-fixed-assets"></a>Безвозмездное получение основных средств.
+# Безвозмездное получение основных средств.
 
 Учет безвозмездного получения основных средств регистрируется в одном из разделов журнала главной книги по основным средствам:
 
@@ -59,7 +53,7 @@ ms.locfileid: "8142637"
 
 6. В результате учета **Журналов ОС** в запись о приобретении создается в Главной книге основных средств для книги амортизации для налогового учета.
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Основные Средства](fixed-assets.md)
 

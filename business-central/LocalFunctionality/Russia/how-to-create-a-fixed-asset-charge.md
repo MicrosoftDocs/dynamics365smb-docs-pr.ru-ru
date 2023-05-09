@@ -3,22 +3,17 @@ title: Создание издержек основных средств в Ро
 description: Российские улучшения включают издержки ОС.
 author: DianaMalina
 ms.topic: conceptual
-ms.search.keywords: ''
+ms.search.keywords: null
 ms.date: 04/01/2021
 ms.reviewer: edupont
 ms.author: soalex
-ms.openlocfilehash: ffa1568be0f416b516fdad772283b41c26e4b150
-ms.sourcegitcommit: ef80c461713fff1a75998766e7a4ed3a7c6121d0
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "8144140"
 ---
-# <a name="create-a-fixed-asset-charge"></a>Создание издержек ОС
+
+# Создание издержек ОС
 
 Ниже показано, как создать новые издержки основного средства. 
 
-## <a name="to-create-a-fixed-asset-charge"></a>Создание издержек ОС
+## Создание издержек ОС
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../../media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Карточка издержки ОС**, а затем выберите связанную ссылку.
 
@@ -36,7 +31,7 @@ ms.locfileid: "8144140"
    | **Счет ГК для ОС в эксплуатации** | Определите счет ГК для учета суммы издержек ОС при вводе основного средства в эксплуатацию. |
    | **Код налоговой разницы для ОС**   | Укажите код налоговой разницы, связанной с издержками основного средства. |
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Настройка основных средств](../../fa-setup.md)  
 
