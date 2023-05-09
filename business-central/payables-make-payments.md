@@ -1,23 +1,17 @@
 ---
 title: Обзор задач по управлению платежами поставщикам
-description: Описываются задачи по управлению платежами поставщикам или кредиторам, включая учет строк платежей и получение обзора сумм к оплате.
+description: 'Описываются задачи по управлению платежами поставщикам или кредиторам, включая учет строк платежей и получение обзора сумм к оплате.'
 author: edupont04
 ms.topic: overview
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: print check, vendor payment, creditor, debt, balance due, AP
-ms.search.form: 254, 256, 1190, 1191, 1227, 1228, 1229
+ms.search.keywords: 'print check, vendor payment, creditor, debt, balance due, AP'
+ms.search.form: '254, 256, 1190, 1191, 1227, 1228, 1229'
 ms.date: 04/01/2021
 ms.author: edupont
-ms.openlocfilehash: fd3786fd6795163fb0327a54c501808272621a30
-ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 09/19/2022
-ms.locfileid: "9531463"
 ---
-# <a name="making-payments"></a>Осуществление платежей
+# Осуществление платежей
 
 При учете выполнении платежей поставщикам или клиентам или возмещения расходов сотрудникам вы учитываете соответствующие строки платежей на странице **Журнал платежей**. Журнал платежей — это финансовый журнал, оптимизированный для совершения платежей и включающий ряд мощных функций, таких как функция **Предлож. оплаты поставщикам**, которая находит платежи поставщикам с наступившим сроком, и отчет **Поставщик - сводка задолженности с распределением по срокам**, который показывает обзор платежей поставщикам с наступившим сроком.  
 
@@ -41,9 +35,9 @@ ms.locfileid: "9531463"
 | Платите поставщику наличными или чеком, и учитывайте платеж при учете счета. |[Немедленное создание счетов покупки](finance-how-to-settle-purchase-invoices-promptly.md) |
 | Убедитесь, что банк выполняет клиринг только проверенных платежных документов и сумм, отправив ему файл, содержащий сведения о поставщике, платежном документе и платеже. |[Экспорт файла Positive Pay](finance-how-positive-pay.md) |
 
-## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/paths/process-customer-vendor-payments-dynamics-365-business-central/)
+## См. соответствующее [обучение Microsoft](/training/paths/process-customer-vendor-payments-dynamics-365-business-central/)
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Управление кредиторской задолженностью](payables-manage-payables.md)  
 [Покупки](purchasing-manage-purchasing.md)  

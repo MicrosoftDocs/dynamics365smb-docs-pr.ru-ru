@@ -6,22 +6,16 @@ ms.topic: overview
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.keywords: account schedule, analysis, reporting, financial report, business intelligence, KPI
+ms.search.keywords: 'account schedule, analysis, reporting, financial report, business intelligence, KPI'
 ms.reviewer: edupont
 ms.date: 04/01/2021
 ms.author: jswymer
-ms.openlocfilehash: 63aa8e6b23c2977e8e44c6f346f33c1c33fe3c2a
-ms.sourcegitcommit: 3acadf94fa34ca57fc137cb2296e644fbabc1a60
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 09/19/2022
-ms.locfileid: "9533218"
 ---
-# <a name="power-bi-integration-component-and-architecture-overview-for-prod_short"></a>Обзор компонентов и архитектуры интеграции Power BI для [!INCLUDE[prod_short](includes/prod_short.md)]
+# Обзор компонентов и архитектуры интеграции Power BI для [!INCLUDE[prod_short](includes/prod_short.md)]
 
 В этой статье вы узнаете о различных аспектах интеграции Power BI с [!INCLUDE[prod_short](includes/prod_short.md)], чтобы помочь вам разобраться в его реализации и использовании.
 
-## <a name="components"></a>Компоненты
+## Компоненты
 
 В следующей таблице описаны основные компоненты, связанные с интеграцией Power BI.
 
@@ -31,7 +25,7 @@ ms.locfileid: "9533218"
 |Power BI Desktop|Инструмент разработки для создания отчетов и панелей мониторинга, позволяющий запускать отчеты. Он доступен для бесплатной загрузки в Microsoft Store и устанавливается локально.|
 |[!INCLUDE[prod_short](includes/prod_short.md)]|Сетевое или локальное решение с соединителями, доступными для Power BI, и возможностью внедрить часть Power BI.|
 
-## <a name="whats-available-from-the-start"></a>Что доступно с самого начала
+## Что доступно с самого начала
 
 В следующей таблице описаны доступные функции.
 
@@ -43,7 +37,7 @@ ms.locfileid: "9533218"
 |Отчеты Power BI по умолчанию в ролевых центрах, развернутых в Power BI|Online|
 |Приложения Power BI в Microsoft AppSource|Online|
 
-## <a name="architecture"></a>Архитектура
+## Архитектура
 
 [!INCLUDE[prod_short](includes/prod_short.md)] интегрируется с Power BI через соединитель с использованием OData. Источник данных для отчетов Power BI представляется как страницы API или веб-службы OData.
 
@@ -51,7 +45,7 @@ ms.locfileid: "9533218"
 
 С февраля 2022 г. отчеты Power BI для [!INCLUDE[prod_short](includes/prod_short.md)] Online извлекаются из вторичной реплики базы данных, доступной только для чтения. Реплика базы данных является частью [горизонтального масштабирования для чтения](/dynamics365/business-central/dev-itpro/administration/database-read-scale-out-overview) в [!INCLUDE[prod_short](includes/prod_short.md)] Online. Эта конфигурация освобождает основную базу данных для транзакций, что повышает производительность системы. Подключение к реплике базы данных только для чтения является неотъемлемой частью соединителя Business Central Online и не требует дополнительной настройки с вашей стороны. Все новые отчеты по умолчанию будут подключаться к реплике базы данных, доступной только для чтения. Старые отчеты по-прежнему будут использовать основную базу данных. Для получения дополнительной информации см. [План выпуска Business Central 2021 волны 2](/dynamics365-release-plan/2021wave2/smb/dynamics365-business-central/use-secondary-read-only-database-power-bi-reporting).
 
-## <a name="general-flow"></a>Общий поток
+## Общий поток
 
 На следующей диаграмме показан основной рабочий процесс для пользователей при подключении [!INCLUDE[prod_short](includes/prod_short.md)] к Power BI.
 
@@ -65,9 +59,9 @@ ms.locfileid: "9533218"
 6. Пользователь создает отчет в Power BI Desktop.
 7. Пользователь публикует отчет в службе Power BI. Отчеты затем становятся доступными для выбора в [!INCLUDE[prod_short](includes/prod_short.md)].
 
-## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/configure-powerbi-excel-dynamics-365-business-central/index)
+## См. соответствующее [обучение Microsoft](/training/modules/configure-powerbi-excel-dynamics-365-business-central/index)
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Business Central и Power BI](admin-powerbi.md)  
 [Power BI для потребителей](/power-bi/consumer/end-user-consumer)  

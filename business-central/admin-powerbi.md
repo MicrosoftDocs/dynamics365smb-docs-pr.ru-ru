@@ -2,15 +2,13 @@
 title: Общий сведения по Business Central и Power BI
 description: 'Получение обзора использования Power BI для получения аналитических сведений, бизнес-аналитики и ключевых показателей эффективности из данных Business Central.'
 author: jswymer
-ms.topic: get-started-article
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.topic: overview
 ms.search.keywords: 'account schedule, analysis, reporting, financial report, business intelligence, KPI'
 ms.search.form: '6316, 6317'
-ms.reviewer: edupont
-ms.date: 08/30/2022
+ms.reviewer: jswymer
+ms.date: 04/26/2023
 ms.author: jswymer
+ms.custom: bap-template
 ---
 # Введение в [!INCLUDE[prod_short](includes/prod_short.md)] и Power BI
 
@@ -28,9 +26,9 @@ ms.author: jswymer
 |Просмотр отчетов Power BI в клиенте [!INCLUDE[prod_short](includes/prod_short.md)].| Отчеты Power BI, отображающие данные [!INCLUDE[prod_short](includes/prod_short.md)], могут быть встроены прямо в страницы частей [!INCLUDE[prod_short](includes/prod_short.md)]. Вы можете переключить часть для отображения любого отчета, который вам доступен. |![работает онлайн.](media/check.png)|![Работа локально](media/check.png)<sup>[*](#onprem)</sup>|[Здесь...](across-working-with-powerbi.md).|
 |Создавайте отчеты и панели мониторинга в Power BI, которые отображают данные [!INCLUDE[prod_short](includes/prod_short.md)].|Используйте Power BI Desktop для создания собственных отчетов и панелей мониторинга. Вы можете опубликовать отчеты в своей собственной службе Power BI или поделиться ими с другими пользователями в вашей организации.|![Работа онлайн.](media/check.png)|![работа локально](media/check.png)|[Здесь...](across-how-use-financials-data-source-powerbi.md)|
 |Приложения [!INCLUDE[prod_short](includes/prod_short.md)] в Power BI| [!INCLUDE[prod_short](includes/prod_short.md)] публикует три приложения для Power BI в Microsoft AppSource. Эти приложения создают подробные отчеты и панели мониторинга в вашей службе Power BI для просмотра данных [!INCLUDE[prod_short](includes/prod_short.md)]. Доступные приложения включают: <ul><li>[!INCLUDE [prod_long](includes/prod_long.md)] — CRM </li><li>[!INCLUDE [prod_long](includes/prod_long.md)] — Finance </li><li>[!INCLUDE [prod_long](includes/prod_long.md)] — Sales </li></ul>  |![Работа онлайн.](media/check.png)||[Здесь...](across-powerbi-business-central-apps.md)|
-|Работа с данными [!INCLUDE [prod_short](includes/prod_short.md)] в витринах и потоках данных|С июля 2022 года вы можете использовать соединитель [!INCLUDE [prod_short](includes/prod_short.md)] в Power Query Online для потоков данных, которыми вы делитесь в разных отчетах и информационных панелях.|[Здесь...](across-powerbi-business-central-apps.md)|
+|Работа с данными [!INCLUDE [prod_short](includes/prod_short.md)] в витринах и потоках данных|С июля 2022 года вы можете использовать соединитель [!INCLUDE [prod_short](includes/prod_short.md)] в Power Query Online для потоков данных, которыми вы делитесь в разных отчетах и информационных панелях.|![работает онлайн.](media/check.png)||[Здесь...](across-powerbi-business-central-apps.md)|
 
-<a name="onprem"><sup>*</sup></a> Для этой функции требуется зарегистрированное приложение для Business Central в Microsoft Azure. Для получения дополнительной информации см. раздел [Регистрация Business Central On-Premises в Azure AD для интеграции с другими службами](/dynamics365/business-central/dev-itpro/administration/register-app-azure).
+<a name="onprem"><sup>*</sup></a> Для этой функции требуется зарегистрированное приложение для Business Central в Microsoft Azure. Для получения дополнительной информации см. статью [Регистрация Business Central On-Premises в Azure AD для интеграции с другими службами](/dynamics365/business-central/dev-itpro/administration/register-app-azure).
 
 ## Подготовка к использованию Power BI
 
@@ -47,36 +45,37 @@ ms.author: jswymer
 |Предоставление данных Business Central для Power BI||![это флажок.](media/check.png)|![снова флажок](media/check.png)|[Предоставлять данные через страницы API или веб-службы OData](admin-powerbi-setup.md#exposedata)
 |Включение интеграции Power BI<br />(только локальная версия)||![это флажок.](media/check.png)||[Настройка локальной версии Business Central для интеграции Power BI](admin-powerbi-setup.md#setup)|
 
+## Отслеживание КПЭ вашего бизнеса с помощью метрик Power BI
 
-<!--
+Если вы используете Power BI для обработки данных [!INCLUDE[prod_short](includes/prod_short.md)], вы легко можете отслеживать важные для вас КПЭ или метрики. 
 
+С помощью метрик в Power BI вы можете создавать свои собственные метрики и отслеживать их в сравнении со своими ключевыми бизнес-целями на одной панели. Эта функция способствует выработке культуры данных, стимулируя ответственность, единообразие и прозрачность для команд и инициатив в организациях. 
 
+Настройка метрик Power BI предполагает четыре шага:
 
-1. If you're using [!INCLUDE[prod_short](includes/prod_short.md)] on-premises, make sure your deployment meets the requirements outlined in [Set up [!INCLUDE[prod_short](includes/prod_short.md)] on-premises for Power BI integration](admin-powerbi-setup.md#setup). This task is typically an administrative task.
+1. Создайте систему показателей в службе Power BI . См. статью [Создание систем показателей в Power BI](/power-bi/create-reports/service-goals-create).
+2. Добавьте _метрики_ , которые вы хотите отслеживать, подключившись к своему отчету Power BI по телеметрии. См. раздел [Создание подключенных метрик](/power-bi/create-reports/service-goals-create-connected).
+3. Чтобы добавить оповещения, определите правила статуса для своих метрик. См. раздел [Создание автоматических правил статуса для метрик](/power-bi/create-reports/service-metrics-status-rules).
 
-2. Expose Business Central data through API pages or published web services.
+   Этот шаг позволяет автоматизировать обновления статуса на основе правил, регулирующих данную метрику. Правила инициируют изменения в зависимости от значения, процента достижения цели, условий по дате или комбинации этих трех факторов, что делает правила максимально универсальными. Для подключенных метрик эти правила статуса обновляются каждый раз, когда обновляются данные в вашей системе показателей.
+4. Наконец, следите за метриками, получая оповещения в Teams или по электронной почте. См. статью [Отслеживание метрик](/power-bi/create-reports/service-metrics-follow).
 
-    Business Central online automatically included several pages as APIs. For more information, see [Business Central API V2.0](/dynamics365/business-central/dev-itpro/api-reference/v2.0/). Application developers for Business Central online can create custom API pages that you can then consume in reports. For more information, see [Developing a Custom API](/dynamics365/business-central/dev-itpro/developer/devenv-develop-custom-api).
+Дополнительные сведения о метриках Power BI см. в статье [Начало работы с метриками в Power BI](/power-bi/create-reports/service-goals-introduction).
 
-   Codeunit, page, and query objects can be published as OData web services. There are many web services published by default. An easy way to find the web services is to search for *web services* in [!INCLUDE[prod_short](includes/prod_short.md)]. For more information about publishing web services, see [Publish a Web Service](across-how-publish-web-service.md).
+> [!NOTE]
+> В настоящее встраивать системы показателей из метрик Power BI в [!INCLUDE[prod_short](includes/prod_short.md)] невозможно.
 
-3. Get a Power BI account.
+## Дальнейшие шаги
 
-   To do anything with Power BI and [!INCLUDE[prod_short](includes/prod_short.md)], whether you're an administrator or just a consumer, you'll need Power BI service account. To get an account, go to [https://powerbi.microsoft.com](https://powerbi.microsoft.com). To sign up for an account, use your work email address and password. Sign-up requires that you have a license, but in most cases you should already have a free license. For more information, see [Power BI Licensing](admin-powerbi-setup.md#license).
+- Если вы администратор, которому нужно настроить Power BI в [!INCLUDE[prod_short](includes/prod_short.md)], см. статью [Включение интеграции Power BI](admin-powerbi-setup.md).
+- Если интеграция с Power BI уже настроена и вы хотите опробовать ее функции, см. статью [Работа с отчетами Power BI в Business Central](across-working-with-powerbi.md).
 
-4. If you want to create your own Power BI reports, get Power BI Desktop.
-
-   You can download [Power BI Desktop](https://powerbi.microsoft.com/desktop/). For more information, see [Get Power BI Desktop](/power-bi/fundamentals/desktop-get-the-desktop).
-
--->
 
 ## См. соответствующее [обучение Microsoft](/training/modules/configure-powerbi-excel-dynamics-365-business-central/index)
 
 ## См. также
 
 [Бизнес-аналитика](bi.md)  
-[Подготовка к ведению бизнеса](ui-get-ready-business.md)  
-[Импорт бизнес-данных из других финансовых систем](across-import-data-configuration-packages.md)  
 [Настройка [!INCLUDE[prod_short](includes/prod_short.md)]](setup.md)  
 [Использование [!INCLUDE[prod_short](includes/prod_short.md)] как источника данных Power BI](across-how-use-financials-data-source-powerbi.md)  
 [Использование [!INCLUDE[prod_short](includes/prod_short.md)] как источника данных Power Apps](across-how-use-financials-data-source-powerapps.md)  
@@ -86,7 +85,5 @@ ms.author: jswymer
 [Быстрый старт: подключение к данным в Power BI Desktop](/power-bi/desktop-quickstart-connect-to-data)  
 [Введение в витрины данных](/power-bi/transform-model/datamarts/datamarts-overview)  
 [Введение в потоки данных и самостоятельную подготовку данных](/power-bi/transform-model/dataflows/dataflows-introduction-self-service)  
-
-
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]
