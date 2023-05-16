@@ -1,4 +1,5 @@
-# [Добро пожаловать в Business Central](index.md)  
+
+# [Добро пожаловать в Business Central](index.md)
 # [Новые и планируемые возможности](product-news.md)
 # Начало работы
 ## [Обзор бизнес-функциональности](across-business-functionality.md)
