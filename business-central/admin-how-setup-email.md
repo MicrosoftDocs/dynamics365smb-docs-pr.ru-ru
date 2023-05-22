@@ -232,13 +232,13 @@ Next, you connect [!INCLUDE[prod_short](includes/prod_short.md)] with Exchange O
 
 ### Подключение [!INCLUDE[prod_short](includes/prod_short.md)] к регистрации приложения
 
-После регистрации приложения на портале Azure в [!INCLUDE[prod_short](includes/prod_short.md)] используйте мастер настройки **Регистрация AAD приложения электронной почты** для подключения [!INCLUDE[prod_short](includes/prod_short.md)] к нему.
+После регистрации приложения на портале Azure в [!INCLUDE[prod_short](includes/prod_short.md)] используйте страницу **Регистрация AAD приложения электронной почты** для подключения [!INCLUDE[prod_short](includes/prod_short.md)] к нему.
 
 1. В [!INCLUDE[prod_short](includes/prod_short.md)] выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Регистрация AAD приложения электронной почты**, а затем выберите связанную ссылку.
 2. Заполните соответствующим образом поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 
 > [!TIP]
-> Также, если вы подключаетесь впервые, вы можете запустить мастер настройки **Настройка электронной почты**. Руководство потребует информацию для подключения к регистрации вашего приложения. <!--Need to verify this too. Ask John to clear the aad settings, delete the email accounts, and then run the guide.-->
+> Также, если вы подключаетесь впервые, вы можете запустить мастер настройки **Настройка электронной почты**. В этом случае мастер также будет включать страницу "Регистрация AAD приложения электронной почты", позволяющую добавить информацию для подключения к регистрации вашего приложения. <!--Need to verify this too. Ask John to clear the aad settings, delete the email accounts, and then run the guide.-->
 
 <!--
 
