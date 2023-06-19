@@ -60,7 +60,7 @@ ms.author: andreipa
 
 - Браузер блокирует всплывающее окно. При включении переключателя **Включено** [!INCLUDE [prod_short](../includes/prod_short.md)] ожидает токен доступа от Shopify и в это время отображает страницу **Ожидание отклика — не закрывайте эту страницу**. Если эта страница будет закрыта или заблокирована, вы не сможете подключиться к Shopify. Подробнее см. в статье [Запрос токена доступа](troubleshoot.md#request-the-access-token)
 - [Ошибка: Ошибка Oauth, invalid_request: не удалось найти приложение API для Shopify с api_key](troubleshoot.md#error-oauth-error-invalid_request-could-not-find-shopify-api-application-with-api_key)
-- [Не удается подключиться из песочницы](troubleshoot.md#verify-and-enable-permissions-to-make-http-requests-when-running-in-a-non-production-environment)
+- [Не удается подключиться из песочницы](troubleshoot.md#verify-and-enable-permissions-to-make-http-requests-in-a-non-production-environment)
 
 ## Дальнейшие шаги
 
@@ -96,7 +96,11 @@ ms.author: andreipa
 * **Shopify может обновлять клиентов** — чтобы не обновлялись существующие клиенты;
 * **Автоматически создавать заказы на продажу** — чтобы не создавались заказы на продажу и счета-фактуры продажи.
 
+Дополнительные сведения см. в статье [Восстановление среды](/dynamics365/business-central/dev-itpro/administration/tenant-admin-center-backup-restore).
+
 ### Рабочая среда Shopify и песочница Business Central
+
+Желательно сделать резервную копию ваших данных. Например, вы можете экспортировать свои продукты и клиентов. Дополнительные сведения см. в статье [Использование CSV-файлов для резервного копирования информации магазина](https://help.shopify.com/en/manual/shopify-admin/duplicate-store#using-csv-files-to-back-up-store-information).
 
 Отключите переключатель **Разрешить синхронизацию данных с Shopify**, чтобы [!INCLUDE[prod_short](../includes/prod_short.md)] не производил запись в Shopify. В этом случае вы сможете импортировать продукты, изображения, клиентов и заказы из Shopify. Но вы не сможете отправлять товары, цены, уровни запасов, клиентов, информацию о выполнении в Shopify.
 

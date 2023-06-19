@@ -39,7 +39,7 @@ ms.author: edupont
 ## См. также  
 [Управление дебиторской задолженностью](receivables-manage-receivables.md)   
 [Работы](projects-how-create-jobs.md)   
-[Добро пожаловать в [!INCLUDE[prod_long](includes/prod_long.md)] ](index.md)
+[Добро пожаловать в [!INCLUDE[prod_long](includes/prod_long.md)] ](welcome.md)
 
 ## [!INCLUDE[prod_short](includes/free_trial_md.md)]  
 

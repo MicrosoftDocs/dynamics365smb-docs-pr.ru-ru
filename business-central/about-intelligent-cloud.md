@@ -37,7 +37,7 @@ ms.author: edupont
 
 ## См. также
 
-[Добро пожаловать в Business Central](index.md)  
+[Добро пожаловать в Business Central](welcome.md)  
 [Расширения облачной миграции](ui-extensions-data-replication.md)  
 [Миграция локальных данных в Business Central Online](/dynamics365/business-central/dev-itpro/administration/migrate-data)  
 

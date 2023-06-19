@@ -39,7 +39,7 @@ ms.author: edupont
 
 [Зарегистрироваться для бесплатного пробного пользования Dynamics 365 Business Central](trial-signup.md)  
 [Вопросы и ответы по пробной версии Dynamics 365 Business Central](trial-faq.md)  
-[Добро пожаловать в [!INCLUDE[prod_short](includes/prod_long.md)]](index.md)  
+[Добро пожаловать в [!INCLUDE[prod_short](includes/prod_long.md)]](welcome.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 [Локальная функциональность](about-localization.md)  
 [Наличие в странах/регионах и поддерживаемые переводы](/dynamics365/business-central/dev-itpro/compliance/apptest-countries-and-translations?toc=/dynamics365/business-central/toc.json)  

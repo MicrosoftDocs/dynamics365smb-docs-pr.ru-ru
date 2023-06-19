@@ -11,7 +11,7 @@ ms.search.keywords: 'audit, export, SIE, SAF-T, FAC, GDPdU, file export'
 ms.search.form: '5260, 5261, 5264, 5266, 5267, 5270'
 ms.date: 04/04/2023
 ms.author: altotovi
-ms.reviewer: null
+ms.reviewer: kfend
 ---
 
 # Экспорт файлов аудита
@@ -98,10 +98,9 @@ ms.reviewer: null
 > Если вы собираетесь экспортировать большое количество операций, не рекомендуем экспортировать их в текущем сеансе из-за возможных проблем с производительностью. Вместо этого советуем использовать параллельную обработку в нерабочие дни или часы.
 
 ## См. также
-
 [Финансовый менеджмент](finance.md)  
 [Принципы работы с главной книгой и планом счетов](finance-general-ledger.md)  
 [Работа с измерениями](finance-dimensions.md)  
-[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+[Работа с Business Central](ui-work-product.md)
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

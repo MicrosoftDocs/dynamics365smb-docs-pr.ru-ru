@@ -118,7 +118,7 @@ Microsoft развертывает и управляет рядом веб-сл�
 
 [Документация студии машинного обучения Azure](/azure/machine-learning/classic/)  
 [Настройка Business Central с помощью расширений](ui-extensions.md)  
-[Добро пожаловать в [!INCLUDE[prod_long](includes/prod_long.md)]](index.md)  
+[Добро пожаловать в [!INCLUDE[prod_long](includes/prod_long.md)]](welcome.md)  
 [Использование искусственного интеллекта в Microsoft Dynamics 365 Business Central](/training/paths/use-artificial-intelligence/)  
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

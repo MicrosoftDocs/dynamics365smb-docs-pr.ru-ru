@@ -70,7 +70,7 @@ ms.author: soalex
 [Локальная функциональность в [!INCLUDE[prod_long](includes/prod_long.md)]](about-localization.md)  
 [Изменение языка и языкового стандарта](about-locale-language.md)  
 [Подготовьтесь к ведению бизнеса](ui-get-ready-business.md)  
-[Добро пожаловать в Business Central](index.md)  
+[Добро пожаловать в Business Central](welcome.md)  
 
 ## [!INCLUDE[prod_short](includes/free_trial_md.md)]  
 

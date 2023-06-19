@@ -50,6 +50,9 @@ ms.author: andreipa
   1. *(для тестирования) Bogus Gateway*. Дополнительные сведения см. в разделе [Активация Bogus Gateway для тестирования](https://help.shopify.com/en/manual/checkout-settings/test-orders#place-a-test-order-by-simulating-a-transaction).
   2. *Shopify Payments* в режиме тестирования. Подробнее см. в разделе [Тестирование Shopify Payments](https://help.shopify.com/en/manual/payments/shopify-payments/testing-shopify-payments).
 
+> [!Note]  
+> Используемые для разработки магазины обычно защищены паролем. Когда вы пытаетесь открыть определенную страницу в своем интернет-магазине из [!INCLUDE [prod_short](../includes/prod_short.md)] — например, чтобы перейти к определенному продукту или заказу — вам потребуется ввести свой пароль. Во время тестирования, чтобы не вводить пароль, войдите в систему на портале администрирования Shopify и откройте свой магазин оттуда. Вам не нужно будет вводить пароль магазина, пока вы не закроете браузер или пока не истечет время вашего сеанса.  
+
 ## См. также
 
 [Начало работы с соединителем Shopify](get-started.md)  
