@@ -10,7 +10,7 @@ ms.search.keywords: feature overview
 ms.date: 02/03/2022
 ms.author: edupont
 ---
-# Анализ данных в инструментах бизнес-аналитики
+# <a name="analyze-data-in-business-intelligence-tools" />Анализ данных в инструментах бизнес-аналитики
 
 Если вы предпочитаете использовать инструменты бизнес-аналитики, которые не встроены в [!INCLUDE[prod_short](includes/prod_short.md)], на этой странице представлены рекомендации по инструментам и методам достижения этой цели.
 
@@ -21,7 +21,7 @@ ms.author: edupont
 |Извлекайте данные в хранилища данных или озеро данных. |[Извлечение данных в хранилища данных или озера данных](/dynamics365/business-central/dev-itpro/performance/performance-developer#efficient-extracts-to-data-lakes-or-data-warehouses)|
 |Чтение данных Business Central с помощью API.| [API Business Central](/dynamics365/business-central/dev-itpro/api-reference/v2.0/)|
 
-## См. также
+## <a name="see-also" />См. также
 
 [Обзор бизнес-аналитики и отчетности](reports-use-reports.md)
 

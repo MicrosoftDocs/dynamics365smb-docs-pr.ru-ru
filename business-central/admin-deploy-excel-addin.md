@@ -10,20 +10,20 @@ ms.search.keywords: 'Excel, add-in, centralized deployment, M365 admin center, i
 ms.date: 10/07/2021
 ms.author: jswymer
 ---
-# Получение надстройки Business Central для Excel
+# <a name="get-the-business-central-add-in-for-excel" />Получение надстройки Business Central для Excel
 
 [!INCLUDE[prod_short](includes/prod_short.md)] включает надстройку для Excel, которая позволяет пользователям выбирать действие **Изменить в Excel** на определенных страницах, чтобы открыть данные на листе Excel. Это действие отличается от действия **Открыть в Excel**, потому что оно позволяет пользователям вносить изменения в Excel, а затем публиковать изменения обратно в [!INCLUDE[prod_short](includes/prod_short.md)]
 
-## Обзор
+## <a name="overview" />Обзор
 
-### О надстройке
+### <a name="about-the-add-in" />О надстройке
 
 Надстройка называется **Надстройка Office Microsoft Dynamics** и ее можно установить из [Магазина Office (AppSource)](https://appsource.microsoft.com/). После установки надстройки действие **Изменить в Excel** доступно на большинстве страниц списков и частей списков по значку **Поделиться** ![Поделиться страницей в другом приложении.](media/share-icon.png). Дополнительную информацию по использованию надстройки см. в разделе [Просмотр и редактирование в Excel из Business Central](across-work-with-excel.md).
 
 > [!NOTE]
 > Надстройка работает только в Windows, но не в macOS.
 
-### О развертывании в качестве администратора
+### <a name="about-deployment-as-an-admin" />О развертывании в качестве администратора
 
 С [!INCLUDE[prod_short](includes/prod_short.md)] Online есть несколько вариантов развертывания для предоставления надстройки пользователям. Один из вариантов — *индивидуальное получение*, когда вы разрешаете пользователям устанавливать надстройку самостоятельно. При использовании этого параметра у пользователей должен быть доступ к загрузке файлов из Магазина Office. Другой вариант — настроить *Централизованное развертывание* в центре администрирования Microsoft 365 для автоматического развертывания надстройки для всей организации, групп или конкретных пользователей. Централизованное развертывание позволяет предоставить надстройку пользователям, если ваша организация не предоставляет пользователям доступ к Магазину Office.
 
@@ -35,21 +35,21 @@ ms.author: jswymer
 
 При использовании обоих вариантов развертывания надстройка автоматически настраивается для подключения к [!INCLUDE[prod_short](includes/prod_short.md)]. Третий вариант развертывания — это установка надстройки вручную прямо из Excel. С помощью этого варианта пользователям нужно будет настроить надстройку для подключения к [!INCLUDE[prod_short](includes/prod_short.md)]
 
-### <a name="switch"></a>Переход от индивидуального получения к централизованному развертыванию или наоборот
+### <a name="a-nameswitchaswitching-from-individual-acquisition-to-centralized-deployment-or-the-other-way-around" /><a name="switch"></a>Переход от индивидуального получения к централизованному развертыванию или наоборот
 
 Когда вы переходите с индивидуального получения надстройки на централизованное развертывание или наоборот, это влияет на файлы Excel, созданные пользователями до перехода. После перехода пользователи по-прежнему могут открывать любые листы Excel, ранее созданные с помощью действия **Изменить в Excel** или созданные вручную путем настройки надстройки Excel. Но они не могут обновить данные в файле из Business Central или отправить обновления в Business Central.
 
 Это условие вызвано тем, что каждому файлу Excel присваивается идентификатор «надстройки». При переходе к централизованному развертыванию или из него назначается другой идентификатор, поэтому более ранний идентификатор становится заблокированным.
 
-## Подготовка (только локальная версия)
+## <a name="preparation-on-premises-only" />Подготовка (только локальная версия)
 
 Локальная версия [!INCLUDE[prod_short](includes/prod_short.md)] требует, чтобы ваша среда была настроена для надстройки. В противном случае действие **Изменить в Excel** будет недоступно пользователям. Для получения дополнительной информации см. [Настройка надстройки Excel для редактирования данных Business Central](/dynamics365/business-central/dev-itpro/administration/configuring-excel-addin) в справке для разработчиков и ИТ-специалистов.
 
-## Разверните надстройку с помощью централизованного развертывания
+## <a name="deploy-the-add-in-by-using-centralized-deployment" />Разверните надстройку с помощью централизованного развертывания
 
 Централизованное развертывание — это функция центра администрирования Microsoft 365, которую вы используете для автоматической установки надстроек в пользовательских приложениях Office, таких как Excel. Чтобы помочь вам с централизованным развертыванием, [!INCLUDE[prod_short](includes/prod_short.md)] содержит мастера **Централизованное развертывание надстроек Excel**.
 
-### Подготовка к работе
+### <a name="before-you-begin" />Подготовка к работе
 
 - Чтобы узнать, как запретить пользователям скачивать файлы из магазина Office, см. [Управление надстройками в центре администрирования](/microsoft-365/admin/manage/manage-addins-in-the-admin-center).
 - Убедитесь, что централизованное развертывание подойдет для вашей организации. Для получения дополнительной информации см. [Определение пригодности централизованного развертывания надстроек для вашей организации](/microsoft-365/admin/manage/centralized-deployment-of-add-ins)
@@ -58,7 +58,7 @@ ms.author: jswymer
 > [!NOTE]
 > Включение централизованного развертывания влияет на функции, использующие надстройку Excel, такие как действие **Изменить в Excel**. Это не влияет на другие связанные с Excel функции и/или разрешения, назначенные пользователям в [!INCLUDE[prod_short](includes/prod_short.md)]
 
-### Настроить централизованное развертывание надстройки
+### <a name="set-up-centralized-deployment-of-the-add-in" />Настроить централизованное развертывание надстройки
 
 Вы будете работать в [!INCLUDE[prod_short](includes/prod_short.md)] и в центре администрирования Microsoft 365.
 
@@ -87,7 +87,7 @@ ms.author: jswymer
 > [!NOTE]
 > Может пройти до 24 часов, прежде чем надстройка будет автоматически развернута пользователями в Excel.
 
-## <a name="install"></a>Индивидуальное получение. Установка надстройки вручную для собственного использования
+## <a name="a-nameinstallaindividual-acquisition-install-the-add-in-manually-for-your-own-use" /><a name="install"></a>Индивидуальное получение. Установка надстройки вручную для собственного использования
 
 В большинстве случаев, когда вы открываете Excel из Business Central, надстройка либо устанавливается автоматически, либо вам будет предложено установить ее. Однако могут быть случаи, когда вам придется вручную установить надстройку.
 
@@ -97,7 +97,7 @@ ms.author: jswymer
 
 Когда надстройка установлена, она отображается в Excel в виде панели. Далее настройте подключение.
 
-### Настроить соединение с Business Central
+### <a name="configure-the-business-central-connection" />Настроить соединение с Business Central
 
 Если пользователь не может подключиться автоматически, вы можете разблокировать его, попросив его выполнить следующие действия:
 
@@ -109,11 +109,11 @@ ms.author: jswymer
 
 Надстройка теперь подключена к [!INCLUDE [prod_short](includes/prod_short.md)], и вы можете редактировать данные и публиковать изменения в [!INCLUDE [prod_short](includes/prod_short.md)].  
 
-## Подготовьте устройства и сеть для надстройки Excel
+## <a name="prepare-devices-and-network-for-the-excel-add-in" />Подготовьте устройства и сеть для надстройки Excel
 
 Сетевые службы, такие как прокси или брандмауэры, должны разрешать маршрутизацию между каждым клиентским устройством, на котором установлена надстройка, и многими конечными точками служб. Список конечных точек см. в [Подготовка сети к надстройке Excel](/dynamics365/business-central/dev-itpro/administration/configuring-network-for-addins).
 
-## Устранение неполадок
+## <a name="troubleshooting" />Устранение неполадок
 
 Иногда у пользователей возникают проблемы с надстройкой Excel. В этом разделе дается несколько советов, как разблокировать пользователей в определенных обстоятельствах.
 
@@ -127,14 +127,14 @@ ms.author: jswymer
 |Пользователи больше не могут войти в надстройку. Когда они пытаются войти, процесс останавливается без завершения.| Эта проблема может быть вызвана обновлением, которое мы внесли в надстройку где-то в июле 2022 года. Дополнительную информацию и сведения об исправлении см. в разделе [Изменение конфигурации надстройки Excel для поддержки обновления за июль 2022 г.](/dynamics365/business-central/dev-itpro/administration/update-excel-addin-configuration).|Применимо только в локальной версии [!INCLUDE [prod_short](includes/prod_short.md)] On-Premises|
 
 <!--
-## Deploy the Excel add-in for Business Central online
+## <a name="deploy-the-excel-add-in-for-business-central-online" />Deploy the Excel add-in for Business Central online
 
 For [!INCLUDE [prod_short](includes/prod_short.md)] online, the administrator can deploy the add-in for all users. But users can also install the add-in themselves, provided they have permission to configure their Office experience.  
 
 > [!TIP]
 > In some organizations, administrators cannot deploy add-ins centrally. For more information, see [Determine if Centralized Deployment of add-ins works for your organization](/microsoft-365/admin/manage/centralized-deployment-of-add-ins?view=o365-worldwide&preserve-view=true).
 
-### To deploy the Excel add-in for all users
+### <a name="to-deploy-the-excel-add-in-for-all-users" />To deploy the Excel add-in for all users
 
 1. As the administrator, sign in to the Microsoft commercial website and find the add-in at [https://appsource.microsoft.com/product/office/WA104379629](https://appsource.microsoft.com/product/office/WA104379629).
 2. Choose the **Get it now** button.
@@ -145,7 +145,7 @@ For [!INCLUDE [prod_short](includes/prod_short.md)] online, the administrator ca
 5. Save your changes.
 
 
-### To add the Excel add-in locally
+### <a name="to-add-the-excel-add-in-locally" />To add the Excel add-in locally
 
 1. Open Excel, and then open any Excel workbook.
 2. On the **Insert** menu, choose **Office Add-ins**, and then choose **Admin managed** or **Store** as appropriate.
@@ -159,9 +159,9 @@ When the add-in is installed, it shows up as a panel in Excel. Next, you must co
 > [!NOTE]
 > In certain deployments, the administrator must configure network access to unblock the Excel add-in. For more information, see [Preparing Your Network for the Excel Add-In](configuring-network-for-addins.md).-->
 
-## См. соответствующее [обучение Microsoft](/training/modules/configure-powerbi-excel-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-trainingtrainingmodulesconfigure-powerbi-excel-dynamics--business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/configure-powerbi-excel-dynamics-365-business-central/index)
 
-## См. также
+## <a name="see-also" />См. также
 
 [Анализ финансовых отчетов в Microsoft Excel](finance-analyze-excel.md)  
 [Работа с Business Central](ui-work-product.md)  

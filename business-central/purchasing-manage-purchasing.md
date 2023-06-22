@@ -11,7 +11,7 @@ ms.search.form: '460, 9307'
 ms.date: 04/01/2021
 ms.author: edupont
 ---
-# Закупки
+# <a name="purchasing" />Закупки
 
 Счет покупки или заказ на покупку создается для записи стоимости покупок и отслеживания кредиторской задолженности. Если требуется управлять запасами, счета покупки также используются для динамического обновления уровней запасов, чтобы уменьшить себестоимости запасов и обеспечить лучшее обслуживание клиентов. Расходы на покупку, включая затраты на обслуживание, и стоимость запасов, полученная из учета счетов покупки, составляют показатели прибыли и другие ключевые показатели эффективности финансовой деятельности в ролевом центре.
 
@@ -39,13 +39,13 @@ ms.author: edupont
 |Разрешение конфликта, когда две или более записей существуют для одного и того же поставщика.|[Объединение повторяющихся записей](sales-how-merge-duplicate-records.md)|
 |Управление обязательством перед поставщиком приобрести большой объем, доставляемый за несколько отгрузок в течение определенного периода времени.|[Работа с общими заказами на покупку](sales-how-to-create-blanket-sales-orders.md)|
 
-## Номера внешних документов
+## <a name="external-document-numbers" />Номера внешних документов
 
 [!INCLUDE [ext-doc-no-purch](includes/ext-doc-no-purch.md)]
 
-## См. соответствующее [обучение Microsoft](/training/paths/purchase-items-services-dynamics-365-business-central/)
+## <a name="see-related-microsoft-trainingtrainingpathspurchase-items-services-dynamics--business-central" />См. соответствующее [обучение Microsoft](/training/paths/purchase-items-services-dynamics-365-business-central/)
 
-## См. также
+## <a name="see-also" />См. также
 
 [Настройка покупки](purchasing-setup-purchasing.md)  
 [Регистрация новых поставщиков](purchasing-how-register-new-vendors.md)  
@@ -54,7 +54,7 @@ ms.author: edupont
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 [Общие бизнес-функции](ui-across-business-areas.md)
 
-## [!INCLUDE[prod_short](includes/free_trial_md.md)]  
+## <a name="includeprodshortincludesfreetrialmdmd" />[!INCLUDE[prod_short](includes/free_trial_md.md)]
 
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

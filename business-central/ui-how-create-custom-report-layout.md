@@ -11,7 +11,7 @@ ms.search.form: '9650, 9652'
 ms.date: 03/06/2022
 ms.author: edupont
 ---
-# (Устарело) Создание и изменение пользовательских макетов отчетов
+# <a name="legacy-create-and-modify-custom-report-layouts" />(Устарело) Создание и изменение пользовательских макетов отчетов
 
 [!INCLUDE[legacy-custom-layouts](includes/legacy-custom-layouts.md)]
 
@@ -29,7 +29,7 @@ ms.author: edupont
 
 Вы можете также использовать пользовательские макеты отчетов для добавления содержимого в сообщения электронной почты. Макеты отчетов могут сэкономить время и помочь обеспечить согласованность за счет повторного использования одного и того же содержимого при общении с клиентами. Чтобы использовать пользовательские макеты отчетов с сообщениями электронной почты, тип файла макета должен быть Word; использовать тип файла RDLC невозможно. Подробнее см. в разделе [Настройка многократно используемых текстов и макетов сообщений электронной почты](admin-how-setup-email.md#set-up-reusable-email-texts-and-layouts).
 
-## Создание пользовательского макета
+## <a name="create-a-custom-layout" />Создание пользовательского макета
 
 1. Выберите значок ![Лампочка, которая открывает функцию «Что вы хотите сделать»](media/ui-search/search_small.png "Что вы хотите сделать"), значок, введите **Выбор макета отчета**, а затем выберите связанную ссылку.
 
@@ -54,11 +54,11 @@ ms.author: edupont
 > [!TIP]
 > Вы можете экспортировать результаты отчета в файл Microsoft Excel для просмотра полного набора данных, включая все столбцы, но без макета. Файл Excel может помочь вам убедиться, что отчет возвращает ожидаемые данные, или найти проблему. Подробнее см. в разделе [Анализ данных отчета с помощью Excel](report-analyze-excel.md).
 
-## <a name="ModifyCustomLayout"></a>Изменение пользовательского макета
+## <a name="a-namemodifycustomlayoutamodifying-a-custom-layout" /><a name="ModifyCustomLayout"></a>Изменение пользовательского макета
 
 Чтобы изменить пользовательский макет отчета, вы должны сначала экспортировать макет отчета в виде файла на свой компьютер или в сеть. Затем откройте экспортированный документ и внесите изменения. По завершении внесения изменений необходимо импортировать макет отчета.
 
-### Изменение пользовательского макета
+### <a name="modify-a-custom-layout" />Изменение пользовательского макета
 
 1. Экспортируйте пользовательский макет со страницы **Пользовательские макеты отчетов**. Если эта страница еще не открыта, выполните поиск и откройте страницу **Выбор макета отчета**, выберите отчет, содержащий макет, который вы хотите изменить, затем выберите действие **Пользовательские макеты**.  
 2. На странице **Пользовательские макеты отчетов** выберите макет, который требуется изменить, выберите действие **Экспортировать макет**, затем выберите **Сохранить** или **Сохранить как**, чтобы сохранить документ макета отчета в папке компьютера или в сети.  
@@ -78,7 +78,7 @@ ms.author: edupont
 > Не забудьте импортировать измененный документ макета отчета. В противном случае новый макет отчета будет недоступен.
 
 <!--
-##  <a name="MakeChangesToLayout"></a> Create and modify custom report layouts
+## <a name="a-namemakechangestolayouta-create-and-modify-custom-report-layouts" /><a name="MakeChangesToLayout"></a> Create and modify custom report layouts
 
 To make general formatting and layout changes, such as changing text font, adding and modifying a table, or removing a data field, just use the basic editing features of Word like you do with any Word document.
 
@@ -87,11 +87,11 @@ If you're designing a Word report layout from scratch or adding new data fields,
 > [!TIP]  
 > Show the table gridlines so that you see the boundaries of table cells. Remember to hide the gridlines when you're done editing. To show or hide table gridlines, select the table, and then under **Layout** on the **Table** tab, choose **View Gridlines**.
 
-### Embedding fonts in Word layouts for consistency
+### <a name="embedding-fonts-in-word-layouts-for-consistency" />Embedding fonts in Word layouts for consistency
 
 To ensure that reports always display and print with the intended fonts, wherever users open or print the reports, you can embed the fonts in the Word document. However, embedding fonts can significantly increase the size of the Word files. Learn more about embedding fonts in Word at [Embed fonts in Word, PowerPoint, or Excel](https://support.office.com/article/Embed-fonts-in-Word-PowerPoint-or-Excel-cb3982aa-ea76-4323-b008-86670f222dbc).
 
-###  <a name="RemoveField"></a> Removing label and data fields in Word layouts
+### <a name="a-nameremovefielda-removing-label-and-data-fields-in-word-layouts" /><a name="RemoveField"></a> Removing label and data fields in Word layouts
 
  Label and data fields of a report are contained in content controls in Word. The following figure illustrates a content control when it's selected in the Word document.  
 
@@ -99,7 +99,7 @@ To ensure that reports always display and print with the intended fonts, whereve
 
  The name of the label or data field name displays in the content control. In the example, the field name is CompanyAddr1.  
 
-### To remove a label or data field  
+### <a name="to-remove-a-label-or-data-field" />To remove a label or data field
 
 1. Right-click the field you want to delete, then choose **Remove Content Control**.  
 
@@ -107,13 +107,13 @@ To ensure that reports always display and print with the intended fonts, whereve
 
 2. Delete the remaining text as needed.  
 
-### Adding data fields
+### <a name="adding-data-fields" />Adding data fields
 
 Adding data fields from a report dataset is more advanced and requires some knowledge of the report dataset. Learn more about adding fields for data, labels, and images at [Add Fields to a Word Report Layout](ui-how-add-fields-word-report-layout.md).  -->
 
-## См. соответствующее [обучение Microsoft](/training/modules/change-documents-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-trainingtrainingmoduleschange-documents-dynamics--business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/change-documents-dynamics-365-business-central/index)
 
-## См. также
+## <a name="see-also" />См. также
 
 [Управление макетами отчетов](ui-manage-report-layouts.md)  
 [Смена текущего макета отчета](ui-how-change-layout-currently-used-report.md)  

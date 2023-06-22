@@ -11,7 +11,7 @@ ms.search.form: '9652, 9650'
 ms.date: 03/07/2022
 ms.author: jswymer
 ---
-# (Устарело) Установите макет, используемый отчетом
+# <a name="legacy-set-the-layout-used-by-a-report" />(Устарело) Установите макет, используемый отчетом
 
 [!INCLUDE[legacy-custom-layouts](includes/legacy-custom-layouts.md)]
 
@@ -24,7 +24,7 @@ ms.author: jswymer
 > [!TIP]  
 > Отчеты о документах (не списки), в которых используется макет отчета Word, обычно быстрее, чем те, в которых используется макет отчета RDLC. Поэтому если имеется выбор между макетом отчета Word или RDLC для отчета по документам, используйте макет отчета Word для оптимальной производительности.
 
-## Чтобы изменить макет отчета для использования в отчете или документе
+## <a name="to-change-which-report-layout-to-use-for-a-report-or-document" />Чтобы изменить макет отчета для использования в отчете или документе
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Выбор макета отчета**, а затем выберите связанную ссылку.
   
@@ -43,7 +43,7 @@ ms.author: jswymer
 
 Если выбран встроенный макет отчета RDLC или Word, никакие дальнейшие действия не требуются, а макет будет использоваться при следующем выполнении отчета.
 
-## Чтобы изменить пользовательский макет отчета
+## <a name="to-change-the-custom-layout-to-use-for-a-report-layout" />Чтобы изменить пользовательский макет отчета
 
 Вы также можете изменить текущий используемый пользовательский макет. Дополнительные сведения см. в разделе [Создание и изменение пользовательских макетов отчетов](ui-how-create-custom-report-layout.md).
 
@@ -56,9 +56,9 @@ ms.author: jswymer
 
 Теперь вы можете перейти к карточкам своих клиентов и поставщиков, чтобы указать, какой из макетов использовать для различных документов, которые вы создаете для данного клиента или поставщика, например при подтверждении заказа или напоминании об оплате. Для получения дополнительной информации см. [Определение макетов документов для клиентов и поставщиков](ui-define-customer-vendor-document-layouts.md).
 
-## См. соответствующее [обучение Microsoft](/training/modules/change-documents-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-trainingtrainingmoduleschange-documents-dynamics--business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/change-documents-dynamics-365-business-central/index)
 
-## См. также
+## <a name="see-also" />См. также
 [Управление макетами отчетов](ui-manage-report-layouts.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
 

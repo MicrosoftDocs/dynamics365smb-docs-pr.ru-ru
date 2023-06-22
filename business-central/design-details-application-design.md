@@ -10,7 +10,7 @@ ms.search.keywords: null
 ms.date: 11/26/2021
 ms.author: edupont
 ---
-# Сведения о структуре приложения
+# <a name="application-design-details" />Сведения о структуре приложения
 
 Статьи в этом разделе содержат подробные технические сведения о сложных функциях приложений в [!INCLUDE[prod_short](includes/prod_short.md)].  
 
@@ -26,7 +26,7 @@ ms.author: edupont
 |Дополнительные сведения о предыдущей и текущей разработке функций трассировки товаров и ее интеграции с системой резервирования для включения серийных номеров/номеров партий в расчеты наличия.|[Сведения о проектировании: трассировка товара](design-details-item-tracking.md)|  
 |Узнайте о функции строки учета финансового журнала.|[Сведения о проектировании: строка учета финансового журнала](design-details-general-journal-post-line.md)|
 
-## См. также
+## <a name="see-also" />См. также
 
 [Планирование](production-planning.md)  
 [Управление себестоимостью товаров](finance-manage-inventory-costs.md)  
@@ -34,4 +34,4 @@ ms.author: edupont
 [Настройка сложных областей приложения с помощью рекомендаций](set-up-complex-application-areas-using-best-practices.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 
-## [!INCLUDE[prod_short](includes/free_trial_md.md)]  
+## <a name="includeprodshortincludesfreetrialmdmd" />[!INCLUDE[prod_short](includes/free_trial_md.md)]

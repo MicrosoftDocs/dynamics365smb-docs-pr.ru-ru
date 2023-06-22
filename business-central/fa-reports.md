@@ -8,15 +8,15 @@ ms.search.form: 'Report_5600, Report_5601, Report_5603, Report_5604, Report_5605
 ms.date: 07/13/2021
 ms.author: edupont
 ---
-# Отчеты и аналитика по ОС в Business Central
+# <a name="fixed-assets-reports-and-analytics-in-business-central" />Отчеты и аналитика по ОС в Business Central
 
 Чтобы помочь вам управлять своими основными средствами в [!INCLUDE [prod_short](includes/prod_short.md)], встроены стандартные отчеты и аналитика. Функция выходит за рамки традиционных ограничений отчетности, чтобы помочь вам эффективно разрабатывать различные типы отчетов.  
 
-## Отчеты
+## <a name="reports" />Отчеты
 [!INCLUDE [fa_reports](includes/fa-reports-include.md)]
 
 
-## См. также
+## <a name="see-also" />См. также
 
 [Анализ финансовых отчетов в Microsoft Excel](finance-analyze-excel.md)  
 [Работа с измерениями](finance-dimensions.md)  

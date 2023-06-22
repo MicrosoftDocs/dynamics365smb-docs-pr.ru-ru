@@ -10,7 +10,7 @@ ms.search.form: '5406, 5407, 5728, 8903, 9011, 9012, 9013, 9041, 9044, 9047, 932
 ms.date: 04/01/2021
 ms.author: edupont
 ---
-# Производство
+# <a name="manufacturing" />Производство
 
 > [!NOTE]
 > Функциональность, описанная в этом разделе и его подразделах, отображается в пользовательском университете только при наличии функционального уровня **Premium**. Дополнительные сведения см. в разделе [Изменение набора отображаемых функций](ui-experiences.md).
@@ -39,7 +39,7 @@ ms.author: edupont
 |Использование страницы **Журнал производственных мощностей** для учета использованных производственных мощностей, которые не назначены производственному заказу, например работы по техническому обслуживанию|[Учет производственных мощностей](production-how-to-post-capacities.md)|  
 |Расчет и коррекция себестоимости производимых готовых товаров и использованных компонентов для финансовой выверки|[О затратах на завершенные производственные заказы](finance-about-finished-production-order-costs.md)|  
 
-## См. также
+## <a name="see-also" />См. также
 
 [Настройка производства](production-configure-production-processes.md)  
 [Планирование](production-planning.md)  
@@ -47,7 +47,7 @@ ms.author: edupont
 [Покупки](purchasing-manage-purchasing.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
 
-## [!INCLUDE[prod_short](includes/free_trial_md.md)]  
+## <a name="includeprodshortincludesfreetrialmdmd" />[!INCLUDE[prod_short](includes/free_trial_md.md)]
 
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

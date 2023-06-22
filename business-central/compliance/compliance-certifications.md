@@ -10,11 +10,11 @@ ms.search.keywords: null
 ms.date: 06/14/2021
 ms.author: soalex
 ---
-# Сертификаты
+# <a name="certifications" />Сертификаты
 
 Это содержимое содержит сведения о сертификациях в связи с [!INCLUDE[prod_short](../includes/prod_short.md)].  
 
-## Сертификации и аккредитации для стран/регионов
+## <a name="countryregion-specific-certifications-and-accreditations" />Сертификации и аккредитации для стран/регионов
 
 В некоторых странах или регионах бухгалтерское программное обеспечение должно быть сертифицировано на соответствие требованиям местного налогового законодательства и финансовым требованиям. В некоторых странах это необходимая ежегодная процедура, в других странах соответствие требуется подтвердить только один раз. Ниже приведен список текущих стран/регионов, в которых пройдена сертификация Business Central.
 
@@ -27,17 +27,17 @@ ms.author: soalex
 > [!NOTE]  
 > В странах/регионах, в которых Майкрософт не выпустила местную версию, обычно партнеры проводят сертификацию базовых продуктов Business Central, включая в первую очередь функции локализации и учета нормативной базы партнеров.
 
-## Прочие сертификаты
+## <a name="other-certifications" />Прочие сертификаты
 
 Business Central как облачный сервис также получил такие сертификаты, такие как ISO 27001 и другие. Полный список этих сертификатов см. на [этой странице (PDF)](https://aka.ms/d365-compliance-list).
 
-## См. также
+## <a name="see-also" />См. также
 
 [Соответствие](compliance-overview.md)  
 [Соответствие приложений](compliance-application-compliance.md)  
 [Соответствие служб](compliance-service-compliance.md)  
 
-## [!INCLUDE[prod_short](../includes/free_trial_md.md)]  
+## <a name="includeprodshortincludesfreetrialmdmd" />[!INCLUDE[prod_short](../includes/free_trial_md.md)]
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

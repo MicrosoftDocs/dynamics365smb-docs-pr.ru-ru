@@ -11,7 +11,7 @@ ms.search.form: '170, 172, 300, 301, 428, 456, 459, 1401'
 ms.date: 06/23/2021
 ms.author: edupont
 ---
-# Настройка продаж
+# <a name="setting-up-sales" />Настройка продаж
 Прежде чем приступать к управлению процессами продажи, необходимо настроить правила и значения, которые определяют политики продажи в организации.
 
 Вы должны определить общие настройки на странице **Продажи и дебиторская задолженность**, например, какие документы продажи требуются, как учитываются их значения и тип строк, которые нужно создать по умолчанию. Эта общая настройка обычно выполняется один раз в ходе начального внедрения.
@@ -33,9 +33,9 @@ ms.author: edupont
 |Ввести сведения о различных используемых перевозчиках, включая ссылки на их службу отслеживания пакетов.|[Настройка экспедиторов](sales-how-to-set-up-shipping-agents.md)|
 |Укажите отчеты по умолчанию, которые будут использоваться для различных типов документов.|[Выбор отчета в Business Central](across-report-selections.md)|
 
-## См. соответствующее [обучение Microsoft](/training/paths/trade-get-started-dynamics-365-business-central/)
+## <a name="see-related-microsoft-trainingtrainingpathstrade-get-started-dynamics--business-central" />См. соответствующее [обучение Microsoft](/training/paths/trade-get-started-dynamics-365-business-central/)
 
-## См. также
+## <a name="see-also" />См. также
 [Продажи](sales-manage-sales.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
 

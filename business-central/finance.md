@@ -11,7 +11,7 @@ ms.search.form: '1151, 1166, 9027, 9004'
 ms.date: 08/19/2022
 ms.author: edupont
 ---
-# Финансовый менеджмент
+# <a name="financial-management" />Финансовый менеджмент
 
 [!INCLUDE[prod_short](includes/prod_short.md)] содержит стандартную конфигурацию для большинства финансовых процессов, но вы можете изменить ее в соответствии со своими бизнес-потребностями. Узнайте больше в разделе [Настройка Finance](finance-setup-finance.md).
 
@@ -49,13 +49,13 @@ ms.author: edupont
 | Работа с финансовыми отчетами и обзорами в Microsoft Excel. |[Анализ финансовых выписок в Excel](finance-analyze-excel.md) |
 |Узнайте, как использовать ролевой центр бухгалтеров, использовать внешнего бухгалтера и использовать раздел организации для управления счетами для нескольких клиентов.|[Работа бухгалтера в Business Central](finance-accounting.md)|  
 
-## Смотреть видеообзор
+## <a name="take-a-video-tour" />Смотреть видеообзор
 
 Это видео знакомит с некоторыми ключевыми возможностями управления финансами. <br><br>  
 
 > [!Video https://www.microsoft.com/videoplayer/embed/RE4Fss4?rel=0]
 
-## См. также
+## <a name="see-also" />См. также
 
 [Настройка финансов](finance-setup-finance.md)  
 [Продажи](sales-manage-sales.md)  
@@ -66,6 +66,6 @@ ms.author: edupont
 [Работа с финансовыми журналами](ui-work-general-journals.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 
-## [!INCLUDE[prod_short](includes/free_trial_md.md)]  
+## <a name="includeprodshortincludesfreetrialmdmd" />[!INCLUDE[prod_short](includes/free_trial_md.md)]
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

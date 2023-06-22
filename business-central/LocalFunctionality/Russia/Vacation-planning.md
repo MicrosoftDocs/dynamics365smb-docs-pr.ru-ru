@@ -9,7 +9,7 @@ ms.reviewer: edupont
 ms.author: soalex
 ---
 
-# Планирование отпусков
+# <a name="vacation-planning" />Планирование отпусков
 
 В [!INCLUDE[prod_short](../../includes/prod_short.md)] имеется график отпусков на календарный год:
 
@@ -26,7 +26,7 @@ ms.author: soalex
 
 Остальные поля формы заполняются по мере необходимости в случае переноса отпуска.
 
-## См. также
+## <a name="see-also" />См. также
 
 [Персонал](Human-Resources.md)  
 
