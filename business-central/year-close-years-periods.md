@@ -29,7 +29,7 @@ ms.author: jswymer
 | Закрытие учетных периодов и финансового года, перенос сальдо отчетов о прибылях и убытках на балансовые счета и учет операций закрытия года. |[Закрытие книг](year-close-books.md) |
 | Печать отчетов, которые могут помочь в создании финансовых отчетов. |[Подготовка отчетов о закрытии](year-prepare-close-statement.md) |
 
-## <a name="see-related-microsoft-trainingtrainingmodulesclose-fiscal-year-dynamics--business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/close-fiscal-year-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-trainingtrainingmodulesclose-fiscal-year-dynamics-365-business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/close-fiscal-year-dynamics-365-business-central/index)
 
 ## <a name="see-also" />См. также
 

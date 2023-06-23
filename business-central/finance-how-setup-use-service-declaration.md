@@ -155,7 +155,7 @@ ms.search.form: '30, 76, 5010, 5022, 5023, 5024, 5800'
 
 Если указать значение в поле **Код типа сервисной транзакции**, но не выбрать поле **Применимо для декларации услуг**, вы сможете учесть документ, но при этом строка не будет рассчитана.
 
-## <a name="see-related-training-at-microsoft-learnlearnmodulesprocess-intrastat-dynamics--business-centralindex" />См. соответствующие учебные ресурсы на странице [Microsoft Learn](/learn/modules/process-intrastat-dynamics-365-business-central/index).
+## <a name="see-related-training-at-microsoft-learnlearnmodulesprocess-intrastat-dynamics-365-business-centralindex" />См. соответствующие учебные ресурсы на странице [Microsoft Learn](/learn/modules/process-intrastat-dynamics-365-business-central/index).
 
 ## <a name="see-also" />См. также
 

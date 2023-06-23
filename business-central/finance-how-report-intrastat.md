@@ -116,7 +116,7 @@ ms.author: altotovi
 * *Выпущено*: [!INCLUDE[prod_short](includes/prod_short.md)] автоматически меняет статус на *Выпущено* при создании файла. С этого момента вы не можете вносить изменения в **отчет Интрастат**. Если вам нужно что-то изменить и подать отчет снова, вы можете использовать действие **Открыть повторно** для повторного открытия отчета Интрастат. После повторного открытия документа вы можете использовать действие **Выпустить** для повторного выпуска документа.
 * **Отчет сдан**: определяет, включена ли информация об операции в отчетность для налоговых органов. Это не обычный статус, а самостоятельное поле, и даже если вы повторно откроете отчет Интрастат, все равно будет видно, что файл для этого отчета уже создан.
 
-## <a name="see-related-training-at-microsoft-learnlearnmodulesprocess-intrastat-dynamics--business-centralindex" />См. соответствующие учебные ресурсы на странице [Microsoft Learn](/learn/modules/process-intrastat-dynamics-365-business-central/index).
+## <a name="see-related-training-at-microsoft-learnlearnmodulesprocess-intrastat-dynamics-365-business-centralindex" />См. соответствующие учебные ресурсы на странице [Microsoft Learn](/learn/modules/process-intrastat-dynamics-365-business-central/index).
 
 ## <a name="see-also" />См. также
 

@@ -234,7 +234,7 @@ ms.author: bholtorf
 > * Создание сертификата поставки вручную  
 > * Печать сертификата поставки.
 
-## <a name="see-related-microsoft-trainingtrainingpathsprocess-vat-dynamics--business-central" />См. соответствующее [обучение Microsoft](/training/paths/process-vat-dynamics-365-business-central/)
+## <a name="see-related-microsoft-trainingtrainingpathsprocess-vat-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/paths/process-vat-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

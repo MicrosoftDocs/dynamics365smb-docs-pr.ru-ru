@@ -8,7 +8,7 @@ ms.author: edupont
 ms.date: 02/23/2022
 ---
 
-# <a name="dynamics--business-central-trial-faq" />Вопросы и ответы по пробной версии Dynamics 365 Business Central
+# <a name="dynamics-365-business-central-trial-faq" />Вопросы и ответы по пробной версии Dynamics 365 Business Central
 
 [!INCLUDE [beethoven-trial](includes/beethoven-trial.md)]
 
@@ -44,7 +44,7 @@ ms.date: 02/23/2022
 
 Это невозможно. Если вы случайно удалили образцы данных, попросите администратора создать новую среду песочницы. Дополнительные сведения см. в разделе [Рабочая среда и среда песочницы](/dynamics365/business-central/dev-itpro/administration/environment-types) в документации для администраторов (только на английском).  
 
-## <a name="see-related-microsoft-trainingtrainingmodulestrial-dynamics--business-central" />См. соответствующее [обучение Microsoft](/training/modules/trial-dynamics-365-business-central/)
+## <a name="see-related-microsoft-trainingtrainingmodulestrial-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/trial-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

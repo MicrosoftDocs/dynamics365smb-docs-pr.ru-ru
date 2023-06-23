@@ -79,7 +79,7 @@ ms.author: edupont
 
 При учете счета код причины копируется в каждую операцию главной книги, клиента и поставщика. Поскольку все строки учтены как одна операция, нет возможности задать различные коды причин для отдельных строк покупок и продаж.
 
-## <a name="see-related-microsoft-trainingtrainingpathsset-up-financial-management-dynamics--business-central" />См. соответствующее [обучение Microsoft](/training/paths/set-up-financial-management-dynamics-365-business-central/)
+## <a name="see-related-microsoft-trainingtrainingpathsset-up-financial-management-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/paths/set-up-financial-management-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

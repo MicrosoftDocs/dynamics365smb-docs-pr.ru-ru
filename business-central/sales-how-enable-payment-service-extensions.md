@@ -37,7 +37,7 @@ ms.author: edupont
     > [!NOTE]  
     > Поле **Служба платежей** доступно, только если включена служба платежей.  
 
-## <a name="see-related-microsoft-trainingtrainingmodulescash-management-dynamics--business-central" />См. соответствующее [обучение Microsoft](/training/modules/cash-management-dynamics-365-business-central/)
+## <a name="see-related-microsoft-trainingtrainingmodulescash-management-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/cash-management-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

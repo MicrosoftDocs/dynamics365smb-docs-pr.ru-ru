@@ -12,7 +12,7 @@ ms.date: 04/01/2021
 ms.author: bholtorf
 ---
 
-# <a name="the-c-data-migration-extension" />Расширение миграции данных C5
+# <a name="the-c5-data-migration-extension" />Расширение миграции данных C5
 
 Это расширение упрощает перенос клиентов, поставщиков, товаров и ваших счетов главной книги из Microsoft Dynamics C5 2012 в [!INCLUDE[prod_short](includes/prod_short.md)]. Также можно перенести архивные операции для счетов главной книги.
 

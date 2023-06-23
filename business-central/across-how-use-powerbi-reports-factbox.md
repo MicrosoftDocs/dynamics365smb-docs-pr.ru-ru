@@ -116,7 +116,7 @@ For more information about getting started, see [Use [!INCLUDE[prod_short](inclu
 
 Проверьте, что отчет имеет размер 325 х 310 пикселей. Сохраните отчет, а затем обновите страницу списка.  
 
-## <a name="see-related-microsoft-trainingtrainingmodulesconfigure-powerbi-excel-dynamics--business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/configure-powerbi-excel-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-trainingtrainingmodulesconfigure-powerbi-excel-dynamics-365-business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/configure-powerbi-excel-dynamics-365-business-central/index)
 
 ## <a name="see-also" />См. также
 

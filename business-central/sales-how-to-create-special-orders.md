@@ -38,7 +38,7 @@ ms.author: edupont
 > [!NOTE]  
 >  Нельзя использовать функцию специального заказа, если товар уже зарезервирован. Поэтому для товаров, которые продаются по специальным заказам, убедитесь, что значение в поле **Резервировать** в карточке товара не равно **Всегда**.  
 
-## <a name="see-related-microsoft-trainingtrainingmodulescreate-sales-documents-dynamics--business-central" />См. соответствующее [обучение Microsoft](/training/modules/create-sales-documents-dynamics-365-business-central/)
+## <a name="see-related-microsoft-trainingtrainingmodulescreate-sales-documents-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/create-sales-documents-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

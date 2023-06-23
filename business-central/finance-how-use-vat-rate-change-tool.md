@@ -100,7 +100,7 @@ ms.author: andregu
 > [!IMPORTANT]  
 > После преобразования выбирается поле **Преобразовано** в таблице **Запись журнала изменения ставки НДС**, а поле **Преобразованная дата** в таблице **Запись журнала изменения ставки НДС** отображает дату преобразования.  
 
-## <a name="see-related-microsoft-trainingtrainingmodulesrate-change-dynamics--business-central" />См. соответствующее [обучение Microsoft](/training/modules/rate-change-dynamics-365-business-central/)
+## <a name="see-related-microsoft-trainingtrainingmodulesrate-change-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/rate-change-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

@@ -275,7 +275,7 @@ When working on multiple tasks at a time or when managing interruptions to the c
 > [!TIP]
 > Могут быть случаи, когда вы хотите использовать десятичный разделитель для ввода точки (.). Например, предположим, что вы вводите диапазон дат в фильтр, например `01/01/2022..04/01/2022` или что-то, что требует точки. Чтобы разрешить ситуацию, выберите клавиши <kbd>Alt</kbd>+<kbd>десятичный разделитель</kbd> на цифровой клавиатуре. Эта комбинация клавиш переключает десятичный разделитель между выводом точки и десятичным разделителем, как определено в параметр **Регион**.
 
-## <a name="see-related-microsoft-trainingtrainingmodulesexplore-modify-info-dynamics--business-central" />См. соответствующее [обучение Microsoft](/training/modules/explore-modify-info-dynamics-365-business-central/)
+## <a name="see-related-microsoft-trainingtrainingmodulesexplore-modify-info-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/explore-modify-info-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

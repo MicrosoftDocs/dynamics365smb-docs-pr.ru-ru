@@ -43,7 +43,7 @@ ms.author: edupont
 
 Дополнительные сведения см. в разделе [Использование OCR для преобразования PDF-файлов и графических файлов в электронные документы](across-how-use-ocr-pdf-images-files.md).  
 
-## <a name="see-related-microsoft-trainingtrainingmodulesincoming-documents-dynamics--business-central" />См. соответствующее [обучение Microsoft](/training/modules/incoming-documents-dynamics-365-business-central/)
+## <a name="see-related-microsoft-trainingtrainingmodulesincoming-documents-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/incoming-documents-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

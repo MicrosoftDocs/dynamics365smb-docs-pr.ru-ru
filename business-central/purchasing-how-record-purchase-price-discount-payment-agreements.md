@@ -139,7 +139,7 @@ ms.author: bholtorf
 
 Если для товара в строке невозможно рассчитать специальную цену, будет вставлена либо последняя прямая себестоимость, либо цена единицы из карточки товара.
 
-## <a name="see-related-microsoft-trainingtrainingmodulesset-up-prices-discounts-dynamics--business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/set-up-prices-discounts-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-trainingtrainingmodulesset-up-prices-discounts-dynamics-365-business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/set-up-prices-discounts-dynamics-365-business-central/index)
 
 ## <a name="see-also" />См. также
 

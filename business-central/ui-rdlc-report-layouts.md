@@ -41,7 +41,7 @@ RDL/RDLC и способы использования построителя о�
 > [!NOTE]
 > Построитель отчетов распознает только файлы типа RDL, но не RDLC. Файлы макетов, экспортированные из Business Central, это файлы типа RDLC. Поэтому, чтобы изменить этот макет в построителе отчетов, переименуйте тип файла в RDL.
 
-## <a name="see-related-microsoft-trainingtrainingmoduleschange-documents-dynamics--business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/change-documents-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-trainingtrainingmoduleschange-documents-dynamics-365-business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/change-documents-dynamics-365-business-central/index)
 
 ## <a name="see-also" />См. также
 

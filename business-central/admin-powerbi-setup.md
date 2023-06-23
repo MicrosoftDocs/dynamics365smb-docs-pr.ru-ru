@@ -97,7 +97,7 @@ Business Central Online также поддерживает настраивае
     Для первоначального подключения откройте [!INCLUDE[prod_short](includes/prod_short.md)] и выполните на главной странице процедуру **Начало работы с Power BI**. Это действие проведет вас через процесс получения согласия и проверит вашу лицензию Power BI. При появлении запроса войдите в систему, используя учетную запись администратора Azure. Дополнительные сведения см. в разделе [Подключение к Power BI — только один раз](across-working-with-powerbi.md#connect).
 
 
-## <a name="see-related-microsoft-trainingtrainingmodulesconfigure-powerbi-excel-dynamics--business-centralindex" /><a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/Configure-powerbi-excel-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-trainingtrainingmodulesconfigure-powerbi-excel-dynamics-365-business-centralindex" /><a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/Configure-powerbi-excel-dynamics-365-business-central/index)
 
 ## <a name="see-also" /><a name="see-also"></a>См. также
 

@@ -26,7 +26,7 @@ ms.author: kepontop
 | Интеграция внешних инструментов бизнес-аналитики с [!INCLUDE[prod_short](includes/prod_short.md)].| [Инструменты внешней бизнес-аналитики](reports-external-analysis.md) |
 |Изменение макетов отчетов или даже разработка собственных отчетов с нуля. |[Разработка отчетов](reports-develop-reports.md)|
 
-## <a name="see-related-microsoft-trainingtrainingpathssetup-reporting-dynamics--business-central" />См. соответствующее [обучение Microsoft](/training/paths/setup-reporting-dynamics-365-business-central/).
+## <a name="see-related-microsoft-trainingtrainingpathssetup-reporting-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/paths/setup-reporting-dynamics-365-business-central/).
 
 ## <a name="see-also" />См. также
 

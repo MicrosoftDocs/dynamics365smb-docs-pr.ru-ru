@@ -37,7 +37,7 @@ ms.author: edupont
 | Свяжите текст платежей с конкретным счетом клиента, поставщика или счетом ГК, чтобы всегда учитывать типовые приходные кассовые ордеры или расходы на этих счетах, когда нет документов, к которым их можно было бы применить. |[Сопоставление текста на типовых платежах со счетами для автоматической выверки](receivables-how-map-text-recurring-payments-accounts-auto-reconcilliation.md) |
 |Настройте правила, определяющие, как платежи/банковские транзации должны автоматически применяться к соответствующим открытым операциям книг при использовании функции **Применить автоматически** на странице **Журнал выверки платежей**.|[Настройка правил для автоматического применения платежей](receivables-how-set-up-payment-application-rules.md)|
 
-## <a name="see-related-microsoft-trainingtrainingmodulesuse-journals-dynamics--business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/use-journals-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-trainingtrainingmodulesuse-journals-dynamics-365-business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/use-journals-dynamics-365-business-central/index)
 
 ## <a name="see-also" />См. также
 [Выверка банковских счетов](bank-how-reconcile-bank-accounts-separately.md)  

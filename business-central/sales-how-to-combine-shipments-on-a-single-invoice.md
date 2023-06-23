@@ -59,7 +59,7 @@ ms.author: edupont
 
 Повторите шаги с 1 по 3 для всех остальных затронутых документов, таких как общие заказы на продажу.
 
-## <a name="see-related-microsoft-trainingtrainingmodulesinvoicing-customers-dynamics--business-central" />См. соответствующее [обучение Microsoft](/training/modules/invoicing-customers-dynamics-365-business-central/)
+## <a name="see-related-microsoft-trainingtrainingmodulesinvoicing-customers-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/invoicing-customers-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

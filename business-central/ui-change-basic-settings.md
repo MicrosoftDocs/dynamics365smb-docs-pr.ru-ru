@@ -107,7 +107,7 @@ You can add a customized badge in the top-right corner, which you can choose to 
 
 [!INCLUDE [ua-teachingtips](includes/ua-teachingtips.md)]
 
-## <a name="see-related-microsoft-trainingtrainingmodulespersonalize-ui-dynamics--business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/personalize-ui-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-trainingtrainingmodulespersonalize-ui-dynamics-365-business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/personalize-ui-dynamics-365-business-central/index)
 
 ## <a name="see-also" />См. также
 

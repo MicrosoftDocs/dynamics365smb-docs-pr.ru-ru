@@ -122,7 +122,7 @@ ms.author: edupont
 
 Значение в поле **Валютный курс** на странице **Валюты** обновляется до самого актуального валютного курса.
 
-## <a name="see-related-microsoft-trainingtrainingpathsuse-multiple-currencies-dynamics--business-central" />См. соответствующее [обучение Microsoft](/training/paths/use-multiple-currencies-dynamics-365-business-central/)
+## <a name="see-related-microsoft-trainingtrainingpathsuse-multiple-currencies-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/paths/use-multiple-currencies-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

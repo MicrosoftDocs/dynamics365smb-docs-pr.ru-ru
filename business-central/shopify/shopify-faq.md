@@ -16,7 +16,7 @@ ms.author: andreipa
 
 Shopify — это приложение на основе подписки, которое позволяет любому настроить интернет-магазин и продавать свою продукцию. Платформа Shopify предлагает интернет-магазинам пакет услуг для платежей, маркетинга, доставки и взаимодействия с клиентами.
 
-## <a name="what-is-the-microsoft-dynamics--business-central-shopify-connector" />Что такое соединитель Microsoft Dynamics 365 Business Central Shopify?
+## <a name="what-is-the-microsoft-dynamics-365-business-central-shopify-connector" />Что такое соединитель Microsoft Dynamics 365 Business Central Shopify?
 
 С помощью соединителя Shopify компании могут подключать свой магазин (или магазины) Shopify к [!INCLUDE[prod_short](../includes/prod_short.md)], чтобы максимально повысить эффективность бизнеса. Используя соединитель Shopify, они могут получать доступ к ценной информации о своем бизнесе и интернет-магазине Shopify и управлять всеми этими данными как единым блоком.
 

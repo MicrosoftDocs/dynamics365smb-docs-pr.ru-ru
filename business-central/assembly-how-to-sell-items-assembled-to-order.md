@@ -60,7 +60,7 @@ ms.custom: bap-template
 > [!NOTE]  
 > Замены товаров не заменяют автоматически товары другими товарами, например, при создании заказа на продажу или в спецификации. Вместо этого вы будете предупреждены о том, что вам доступна замена.
 
-## <a name="see-related-microsoft-trainingtrainingmodulesassemble-to-order-dynamics--business-central" />См. соответствующее [обучение Microsoft](/training/modules/assemble-to-order-dynamics-365-business-central/)
+## <a name="see-related-microsoft-trainingtrainingmodulesassemble-to-order-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/assemble-to-order-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

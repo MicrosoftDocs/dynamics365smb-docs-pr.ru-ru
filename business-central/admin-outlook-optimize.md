@@ -33,11 +33,11 @@ ms.author: jswymer
 
 [Установить обновления Office](https://support.microsoft.com/office/install-office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5)
 
-## <a name="install-microsoft-edge-webview" />Установите Microsoft Edge WebView2
+## <a name="install-microsoft-edge-webview2" />Установите Microsoft Edge WebView2
 
 Убедитесь, что Microsoft Edge WebView2 установлен на вашем устройстве.
 
-### <a name="how-to-check-if-microsoft-edge-webview-is-installed" />Как проверить, установлен ли Microsoft Edge WebView2
+### <a name="how-to-check-if-microsoft-edge-webview2-is-installed" />Как проверить, установлен ли Microsoft Edge WebView2
 
 Чтобы проверить, установлен ли Microsoft Edge WebView2 на компьютере, выполните следующие действия:
 
@@ -52,7 +52,7 @@ ms.author: jswymer
 2. Выберите **Программ** > **Программы и компоненты**.
 3. Введите **WebView2** в поле поиска. Если Microsoft Edge WebView2 установлен, вы увидите запись с названием **Среда выполнения Microsoft Edge WebView2**.
 
-### <a name="how-to-install-microsoft-edge-webview" />Как установить Microsoft Edge WebView2
+### <a name="how-to-install-microsoft-edge-webview2" />Как установить Microsoft Edge WebView2
 
 1. В браузере перейдите в [https://developer.microsoft.com/microsoft-edge/webview2/](https://developer.microsoft.com/microsoft-edge/webview2/).
 2. Выберите **Загрузить**.

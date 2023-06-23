@@ -128,7 +128,7 @@ ms.author: edupont
     - Если известно, что в настоящее время товар отсутствует на складе и требуется рассчитать ближайшую дату, когда товар будет доступен путем подачи новых заявок на пополнение запасов, выберите **В наличии**.  
 5.  Нажмите кнопку **Принять**, чтобы принять ближайшую доступную дату отгрузки.  
 
-## <a name="see-related-microsoft-trainingtrainingmodulespromising-sales-order-delivery-dynamics--business-central" />См. соответствующее [обучение Microsoft](/training/modules/promising-sales-order-delivery-dynamics-365-business-central/)
+## <a name="see-related-microsoft-trainingtrainingmodulespromising-sales-order-delivery-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/promising-sales-order-delivery-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

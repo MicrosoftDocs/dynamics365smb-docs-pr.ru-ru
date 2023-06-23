@@ -87,7 +87,7 @@ ms.author: edupont
 > [!NOTE]
 > Если вы являетесь партнером или торговым посредником Microsoft и заинтересованы в предоставлении списка рекомендуемых приложений, см. [Рекомендовать приложения из AppSource](/dynamics365/business-central/dev-itpro/administration/recommend-apps) в содержимом по администрированию.
 
-## <a name="see-related-microsoft-trainingtrainingmodulescustomize-dynamics--business-central" />См. соответствующее [обучение Microsoft](/training/modules/customize-dynamics-365-business-central/)
+## <a name="see-related-microsoft-trainingtrainingmodulescustomize-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/customize-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

@@ -43,7 +43,7 @@ ms.author: edupont
     > [!NOTE]  
     >  Можно также отправить учтенный счет на продажу в виде электронного документа. Процедура аналогична описанной в этом разделе для документов неучтенных продаж. На странице **Учтенный счет продажи** выберите действие **Журнал действий** для просмотра статуса электронного документа.  
 
-## <a name="see-related-microsoft-trainingtrainingmoduleselectronic-documents-dynamics--business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/electronic-documents-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-trainingtrainingmoduleselectronic-documents-dynamics-365-business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/electronic-documents-dynamics-365-business-central/index)
 
 ## <a name="see-also" />См. также
 

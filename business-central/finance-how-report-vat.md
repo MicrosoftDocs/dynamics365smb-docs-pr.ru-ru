@@ -148,7 +148,7 @@ ms.author: bholtorf
 > [!Note]
 > При создании модулей codeunit для отчета следует следить за значением поля **Версия отчета по НДС**. Это поле должно отражать версию отчета, которая требуется налоговыми органами. Например, в этом поле можно ввести **2021** для указания того, что отчет соответствует требованиям, действующим в этом году. Чтобы узнать текущую версию, обратитесь в свой налоговый орган.  
 
-## <a name="see-related-microsoft-trainingtrainingpathsprocess-vat-dynamics--business-central" />См. соответствующее [обучение Microsoft](/training/paths/process-vat-dynamics-365-business-central/)
+## <a name="see-related-microsoft-trainingtrainingpathsprocess-vat-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/paths/process-vat-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

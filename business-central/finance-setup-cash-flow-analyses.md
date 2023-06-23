@@ -134,7 +134,7 @@ ms.author: bholtorf
 7. Разверните экспресс-вкладку **ИИ Azure**, затем заполните поля, включая URL-адрес API и ключ API, предоставленные студией машинного обучения Azure. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 8. В ролевом центре бухгалтера выберите действие **Пересчитать прогноз** на диаграмме **Прогноз движения денежных средств**.
 
-## <a name="see-related-microsoft-trainingtrainingmodulesforecast-cash-flow-dynamics--business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/forecast-cash-flow-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-trainingtrainingmodulesforecast-cash-flow-dynamics-365-business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/forecast-cash-flow-dynamics-365-business-central/index)
 
 ## <a name="see-also" />См. также
 

@@ -70,7 +70,7 @@ ms.author: bholtorf
 5. Заполнив шаблон нового поставщика, нажмите **ОК**.  
    Шаблон поставщика добавляется в список шаблонов поставщиков, чтобы можно было использовать его для создания новых карточек поставщиков.
 
-## <a name="see-related-microsoft-trainingtrainingmodulestrade-master-data-dynamics--business-central" />См. соответствующее [обучение Microsoft](/training/modules/trade-master-data-dynamics-365-business-central/).
+## <a name="see-related-microsoft-trainingtrainingmodulestrade-master-data-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/trade-master-data-dynamics-365-business-central/).
 
 ## <a name="see-also" />См. также
 

@@ -14,11 +14,11 @@ ms.author: edupont
 
 Это приложение — облачная служба, не требующая специального программного обеспечения, за исключением современного браузера, однако имеются некоторые ограничения.  
 
-### <a name="how-do-i-sign-up-for-the-trial-without-a-microsoft--tenant" />Как зарегистрироваться для использования пробной версии без клиента Microsoft 365?
+### <a name="how-do-i-sign-up-for-the-trial-without-a-microsoft-365-tenant" />Как зарегистрироваться для использования пробной версии без клиента Microsoft 365?
 
 Это невозможно. Используйте рабочий или учебный адрес электронной почты.
 
-### <a name="can-i-sign-up-for-other-dynamics--apps-such-as-sales-marketing-and-customer-service" />Могу ли я подписаться на другие приложения Dynamics 365, такие как Sales, Marketing и Customer Service?
+### <a name="can-i-sign-up-for-other-dynamics-365-apps-such-as-sales-marketing-and-customer-service" />Могу ли я подписаться на другие приложения Dynamics 365, такие как Sales, Marketing и Customer Service?
 
 Да, можете. Чтобы просмотреть все доступные пробные версии, [посетите страницу центра пробных версий](https://dynamics.microsoft.com/dynamics-365-free-trial). Вы можете использовать один и тот же почтовый ящик, чтобы подписаться на различные пробные версии.<!-- However, it is not possible to have multiple apps on the same trial site. Each trial will be on a different org and URL. The trial data won’t be shared across apps.-->
 

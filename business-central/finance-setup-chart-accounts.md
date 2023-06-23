@@ -49,7 +49,7 @@ ms.author: edupont
 
 Установка для поля **Блокировать удаление счетов ГК** значения *Да* можно считать передовой практикой, как и установка даты в поле **Проверять удаление счета ГК с операциями после**, например, до даты, до которой вы должны хранить свои финансовые данные.  
 
-## <a name="see-related-microsoft-trainingtrainingmoduleschart-accounts-dynamics--business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/chart-accounts-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-trainingtrainingmoduleschart-accounts-dynamics-365-business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/chart-accounts-dynamics-365-business-central/index)
 
 ## <a name="see-also" />См. также
 

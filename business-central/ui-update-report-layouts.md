@@ -58,7 +58,7 @@ ms.author: edupont
 
 После изменения макета попытайтесь обновить его снова.  
 
-## <a name="see-related-microsoft-trainingtrainingmoduleschange-documents-dynamics--business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/change-documents-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-trainingtrainingmoduleschange-documents-dynamics-365-business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/change-documents-dynamics-365-business-central/index)
 
 ## <a name="see-also" />См. также
  [Управление макетами отчетов](ui-manage-report-layouts.md)  

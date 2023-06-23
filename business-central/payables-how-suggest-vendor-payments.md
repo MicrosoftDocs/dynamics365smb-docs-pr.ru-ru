@@ -47,7 +47,7 @@ ms.author: edupont
 > [!NOTE]  
 >   Если счет покупки просрочен, в качестве даты учета устанавливается рабочая дата и цвет шрифта в строке меняется на красный.  
 
-## <a name="see-related-microsoft-trainingtrainingmodulessuggest-vendor-payments-dynamics--business-central" />См. соответствующее [обучение Microsoft](/training/modules/suggest-vendor-payments-dynamics-365-business-central/)
+## <a name="see-related-microsoft-trainingtrainingmodulessuggest-vendor-payments-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/suggest-vendor-payments-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

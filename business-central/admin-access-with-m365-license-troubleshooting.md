@@ -10,7 +10,7 @@ ms.custom: bap-template
 ms.search.keywords: 'License, access, Microsoft 365, collaborate, collaboration, Teams, Microsoft Teams'
 ---
 
-# <a name="troubleshoot-access-with-microsoft--licenses" />Устранение неполадок с доступом с лицензиями на Microsoft 365
+# <a name="troubleshoot-access-with-microsoft-365-licenses" />Устранение неполадок с доступом с лицензиями на Microsoft 365
 
 ## <a name="this-page-uses-data-from-related-tables-that-you-do-not-have-access-to-error-message" />Сообщение об ошибке "На этой странице используются данные из связанных таблиц, к которым у вас нет доступа"
 
@@ -24,7 +24,7 @@ ms.search.keywords: 'License, access, Microsoft 365, collaborate, collaboration,
 
 Скорее всего, у вас нет разрешений в отношении объектов — таблиц, на которые ссылается текущая страница или запись.
 
-## <a name="microsoft--access-has-been-enabled-but-users-get-a-permission-error" />Доступ Microsoft 365 включен, но для пользователей отображается ошибка, связанная с разрешениями
+## <a name="microsoft-365-access-has-been-enabled-but-users-get-a-permission-error" />Доступ Microsoft 365 включен, но для пользователей отображается ошибка, связанная с разрешениями
 
 ### <a name="symptoms" />Признаки
 

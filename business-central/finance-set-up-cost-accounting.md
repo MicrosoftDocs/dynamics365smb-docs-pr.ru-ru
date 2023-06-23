@@ -189,7 +189,7 @@ ms.author: edupont
 > [!NOTE]  
 >  Чтобы убедиться в том, что предопределенный центр затрат и объект затрат, настраиваемые в главной книге, автоматически перенесены в модуль учета затрат, установите флажок **Проверка разносок ГК** на странице "Настройка учета затрат".
 
-## <a name="see-related-microsoft-trainingtrainingmodulescost-accounting-dynamics--business-central" />См. соответствующее [обучение Microsoft](/training/modules/cost-accounting-dynamics-365-business-central/)
+## <a name="see-related-microsoft-trainingtrainingmodulescost-accounting-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/cost-accounting-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

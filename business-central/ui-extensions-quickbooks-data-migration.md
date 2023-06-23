@@ -61,7 +61,7 @@ Business Central требует, чтобы счетам главной книг
 Если вы используете налог на добавленную стоимость (НДС), вы можете добавить учетные бизнес-группы или товарные группы в параметры учета, чтобы вы могли учитывать суммы НДС.
 Проверьте начальные сальдо счетов в главной книге. В QuickBooks не хранится текущее сальдо для всех счетов, поэтому вам может потребоваться исправить начальные сальдо.
 
-## <a name="see-related-microsoft-trainingtrainingmodulesmigrate-data-dynamics--business-central" />См. соответствующее [обучение Microsoft](/training/modules/migrate-data-dynamics-365-business-central/)
+## <a name="see-related-microsoft-trainingtrainingmodulesmigrate-data-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/migrate-data-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

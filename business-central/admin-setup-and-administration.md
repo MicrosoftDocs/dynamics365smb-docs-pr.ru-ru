@@ -54,7 +54,7 @@ ms.custom: bap-template
 |Управление сеансами пользователей, включая отмену сеансов, если пользователь заблокирован.|[Управление сеансами](/dynamics365/business-central/dev-itpro/administration/tenant-admin-center-manage-sessions)|
 |Настройте клиента для отправки данных телеметрии в Azure Application Insights для лучшего анализа и устранения неполадок.|[Включение отправки телеметрии в Application Insights](/dynamics365/business-central/dev-itpro/administration/telemetry-enable-application-insights)|
 
-## <a name="see-related-microsoft-trainingtrainingpathsdeploy-configure-dynamics--business-central" />См. соответствующее [обучение Microsoft](/training/paths/deploy-configure-dynamics-365-business-central/)
+## <a name="see-related-microsoft-trainingtrainingpathsdeploy-configure-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/paths/deploy-configure-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

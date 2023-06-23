@@ -43,7 +43,7 @@ ms.author: edupont
 
 [!INCLUDE [ext-doc-no-purch](includes/ext-doc-no-purch.md)]
 
-## <a name="see-related-microsoft-trainingtrainingpathspurchase-items-services-dynamics--business-central" />См. соответствующее [обучение Microsoft](/training/paths/purchase-items-services-dynamics-365-business-central/)
+## <a name="see-related-microsoft-trainingtrainingpathspurchase-items-services-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/paths/purchase-items-services-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

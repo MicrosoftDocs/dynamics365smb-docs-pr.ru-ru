@@ -57,7 +57,7 @@ ms.author: edupont
 | На страницах **План счетов** и **Операции главной книги** с помощью функции поиска можно найти операции ГК для учтенных документов покупки и продажи, которые не имеют записей входящих документов, и затем централизованно связать их с существующими записями или создать новые записи с прикрепленными файлами документов. |[Поиск учтенных документов без записей входящих документов](across-how-find-posted-documents-without-income-document-records.md) |
 | Получайте лучшее представление, устанавливая для записей входящих документов статус *Обработано* и удалите их из представления по умолчанию. |[Управление большим количеством записей входящих документов](across-how-manage-many-income-document-records.md) |
 
-## <a name="see-related-microsoft-trainingtrainingmodulesincoming-documents-dynamics--business-central" />См. соответствующее [обучение Microsoft](/training/modules/incoming-documents-dynamics-365-business-central/)
+## <a name="see-related-microsoft-trainingtrainingmodulesincoming-documents-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/incoming-documents-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

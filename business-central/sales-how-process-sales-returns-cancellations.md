@@ -140,7 +140,7 @@ ms.author: edupont
 
 Дополнительные сведения см. в разделе [Сведения о проектировании. Расчет себестоимости запасов](design-details-inventory-costing.md).
 
-## <a name="see-related-microsoft-trainingtrainingpathsreturn-items-dynamics--business-central" />См. соответствующее [обучение Microsoft](/training/paths/return-items-dynamics-365-business-central/)
+## <a name="see-related-microsoft-trainingtrainingpathsreturn-items-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/paths/return-items-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

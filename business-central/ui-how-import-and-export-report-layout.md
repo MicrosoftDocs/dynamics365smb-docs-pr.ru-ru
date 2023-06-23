@@ -45,7 +45,7 @@ ms.author: edupont
 
  Исходный пользовательский макет отчета заменяется на импортированный макет отчета.  
 
-## <a name="see-related-microsoft-trainingtrainingmoduleschange-documents-dynamics--business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/change-documents-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-trainingtrainingmoduleschange-documents-dynamics-365-business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/change-documents-dynamics-365-business-central/index)
 
 ## <a name="see-also" />См. также
 

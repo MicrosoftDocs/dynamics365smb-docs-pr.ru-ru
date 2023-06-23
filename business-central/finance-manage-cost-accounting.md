@@ -24,7 +24,7 @@ ms.author: edupont
 |Узнайте о процессах создания бюджетов себестоимости.|[Создание бюджетов расходов](finance-create-cost-budgets.md)|
 |Отмена операций бюджета затрат из регистра бюджета затрат.|[Удаление операций бюджета затрат](finance-how-to-delete-cost-budget-entries.md)|
 
-## <a name="see-related-microsoft-trainingtrainingpathsuse-cost-accounting-dynamics--business-central" />См. соответствующее [обучение Microsoft](/training/paths/use-cost-accounting-dynamics-365-business-central/)
+## <a name="see-related-microsoft-trainingtrainingpathsuse-cost-accounting-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/paths/use-cost-accounting-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 [Финансы](finance.md)  

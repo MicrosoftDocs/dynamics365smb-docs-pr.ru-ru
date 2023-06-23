@@ -172,7 +172,7 @@ When you want to search for data, such as customer names, addresses, or product 
 > [!TIP]
 > Если вы используете цифровую клавиатуру, клавиша десятичного разделителя может выводить символ, отличный от точки (.). Чтобы переключиться на точку, нажмите клавиши <kbd>Alt</kbd>+<kbd>десятичный разделитель</kbd> на цифровой клавиатуре. Если вы хотите переключиться обратно, снова нажмите <kbd>Alt</kbd>+<kbd>десятичный разделитель</kbd>. Для получения дополнительной информации см. в [Установка десятичного разделителя, используемого цифровыми клавиатурами](ui-enter-data.md#decimal).
 
-#### <a name="-eitheror" />(&#124;) Или/или
+#### <a name="124-eitheror" />(&#124;) Или/или
 
 |Образец выражения|Отображаемые записи|  
 |-----------------------|-----------------------|  
@@ -302,7 +302,7 @@ When you want to search for data, such as customer names, addresses, or product 
 |-----------------------|-----------------------|  
 |`%myvendors`|Поставщики в списке **Мои поставщики** вашего ролевого центра. |  
 
-## <a name="see-related-microsoft-trainingtrainingmodulessearch-filter-sort-data-dynamics--business-central" />См. соответствующее [обучение Microsoft](/training/modules/search-filter-sort-data-dynamics-365-business-central/)
+## <a name="see-related-microsoft-trainingtrainingmodulessearch-filter-sort-data-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/search-filter-sort-data-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

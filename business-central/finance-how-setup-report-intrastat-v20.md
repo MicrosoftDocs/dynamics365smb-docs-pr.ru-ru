@@ -170,7 +170,7 @@ ms.author: bholtorf
 
 На странице **Коды тарифов** добавьте все используемые коды. Перед началом учета следует ввести коды в карточку товара. При настройке кодов их следует ввести в поле **Код тарифа** в карточке товара. Также следует заполнить поле **Вес нетто** на карточке товаров.
 
-## <a name="see-related-training-at-microsoft-learnlearnmodulesprocess-intrastat-dynamics--business-centralindex" />См. соответствующие учебные ресурсы на странице [Microsoft Learn](/learn/modules/process-intrastat-dynamics-365-business-central/index).
+## <a name="see-related-training-at-microsoft-learnlearnmodulesprocess-intrastat-dynamics-365-business-centralindex" />См. соответствующие учебные ресурсы на странице [Microsoft Learn](/learn/modules/process-intrastat-dynamics-365-business-central/index).
 
 ## <a name="see-also" />См. также
 

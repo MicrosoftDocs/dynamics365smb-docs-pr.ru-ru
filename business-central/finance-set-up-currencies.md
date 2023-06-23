@@ -111,7 +111,7 @@ ms.author: edupont
 
 [!INCLUDE [finance-currencies-example](includes/finance-currencies-example.md)]
 
-## <a name="see-related-microsoft-trainingtrainingmodulescurrencies-exchange-rates-dynamics--business-central" />См. соответствующее [обучение Microsoft](/training/modules/currencies-exchange-rates-dynamics-365-business-central/)
+## <a name="see-related-microsoft-trainingtrainingmodulescurrencies-exchange-rates-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/currencies-exchange-rates-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

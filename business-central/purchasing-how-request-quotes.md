@@ -31,7 +31,7 @@ ms.author: edupont
 > [!NOTE]
 > Невозможно напрямую преобразовать предложение по покупке в счет покупки, как это можно сделать с предложениями по продаже. Подробнее о том, как создать счет покупки, см. в разделе [Регистрация покупок с помощью счетов покупок](purchasing-how-record-purchases.md).
 
-## <a name="see-related-microsoft-trainingtrainingmodulescreate-purchase-documents-dynamics--business-central" />См. соответствующее [обучение Microsoft](/training/modules/create-purchase-documents-dynamics-365-business-central/).
+## <a name="see-related-microsoft-trainingtrainingmodulescreate-purchase-documents-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/create-purchase-documents-dynamics-365-business-central/).
 
 ## <a name="see-also" />См. также
 

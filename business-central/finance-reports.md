@@ -30,7 +30,7 @@ ms.author: edupont
 * [Создание отчетов с XBRL](bi-create-reports-with-xbrl.md)  
 * [Управление намерением доступа к базе данных](admin-data-access-intent.md)  
 
-## <a name="see-related-microsoft-trainingtrainingpathscreate-financial-reports-dynamics--business-central" />См. соответствующее [обучение Microsoft](/training/paths/create-financial-reports-dynamics-365-business-central/)
+## <a name="see-related-microsoft-trainingtrainingpathscreate-financial-reports-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/paths/create-financial-reports-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

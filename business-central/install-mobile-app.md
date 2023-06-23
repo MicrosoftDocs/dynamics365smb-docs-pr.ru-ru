@@ -53,7 +53,7 @@ ms.author: jswymer
 > [!NOTE]
 > Если у вас возникли проблемы с правильной работой приложения, поговорите со своим администратором. Это может быть отсутствие необходимых условий или неполная конфигурация. Дополнительные сведения см. в разделе [Подготовка среды для мобильного приложения](/dynamics365/business-central/dev-itpro/deployment/install-business-central-app#prereqs) или [Устранение неполадок мобильного приложения Business Central в локальной версии](/dynamics365/business-central/dev-itpro/developer/devenv-troubleshooting-the-mobile-app).
 
-## <a name="see-related-microsoft-trainingtrainingmodulesalternative-interfaces-dynamics--business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/alternative-interfaces-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-trainingtrainingmodulesalternative-interfaces-dynamics-365-business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/alternative-interfaces-dynamics-365-business-central/index)
 
 ## <a name="see-also" />См. также
 

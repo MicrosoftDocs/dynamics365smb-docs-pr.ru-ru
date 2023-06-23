@@ -74,7 +74,7 @@ ms.author: edupont
 4. В случае покупок на экспресс-вкладке **Пополнение** в поле **Единица измерения покупки** откройте страницу **Единица измерения товара**.
 5. Выберите код, который требуется настроить в качестве единицы измерения по умолчанию для продажи или покупок соответственно, а затем нажмите кнопку **ОК**.
 
-## <a name="see-related-microsoft-trainingtrainingmodulestrade-master-data-dynamics--business-central" />См. соответствующее [обучение Microsoft](/training/modules/trade-master-data-dynamics-365-business-central/)
+## <a name="see-related-microsoft-trainingtrainingmodulestrade-master-data-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/trade-master-data-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

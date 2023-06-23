@@ -41,7 +41,7 @@ ms.author: edupont
 |Настройте отклонение, при котором система закрывает счет, даже если платеж, включая все скидки, не полностью покрывает сумму счета.|[Работа с отклонениями в оплате и отклонениями скидки по оплате](finance-payment-tolerance-and-payment-discount-tolerance.md)|
 | Прогноз просрочки платежей для документов продажи. | [Расширение прогноза просрочки платежа](ui-extensions-late-payment-prediction.md) |
 
-## <a name="see-related-microsoft-trainingtrainingpathsprocess-customer-vendor-payments-dynamics--business-central" />См. соответствующее [обучение Microsoft](/training/paths/process-customer-vendor-payments-dynamics-365-business-central/)
+## <a name="see-related-microsoft-trainingtrainingpathsprocess-customer-vendor-payments-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/paths/process-customer-vendor-payments-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 [Продажи](sales-manage-sales.md)  

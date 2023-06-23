@@ -144,7 +144,7 @@ ms.author: jswymer
 - [Выберите плитку](/power-bi/service-dashboard-tiles), чтобы открыть основной отчет.  
 - По умолчанию ваш набор данных не запланирован для обновления. Вы можете изменить расписание обновления или попробовать обновить его по требованию, используя **Обновить сейчас**. Дополнительные сведения см. в разделе [Настройка графика обновления](/power-bi/refresh-scheduled-refresh).
 
-## <a name="see-related-microsoft-trainingtrainingmodulesconfigure-powerbi-excel-dynamics--business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/configure-powerbi-excel-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-trainingtrainingmodulesconfigure-powerbi-excel-dynamics-365-business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/configure-powerbi-excel-dynamics-365-business-central/index)
 
 ## <a name="see-also" />См. также
 

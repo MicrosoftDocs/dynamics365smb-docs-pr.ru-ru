@@ -167,7 +167,7 @@ ms.search.form: 9171
 
 Для [!INCLUDE[prod_short](includes/prod_short.md)] локальная версия вы можете управлять сеансами, например, с помощью SQL Server Management Studio. Дополнительные сведения см. в [Техническая документация по SQL Server](/sql/sql-server).  
 
-## <a name="see-related-microsoft-trainingtrainingmodulesusers-security-dynamics--business-central" />См. соответствующее [обучение Microsoft](/training/modules/users-security-dynamics-365-business-central/)
+## <a name="see-related-microsoft-trainingtrainingmodulesusers-security-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/users-security-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

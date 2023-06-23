@@ -158,7 +158,7 @@ ms.author: bholtorf
    > [!TIP]
    > Как администратор вы можете скрыть пункт **Автоматизация** от пользователей. Подробнее см. в статье [Настройка интеграции Power Automate](/dynamics365/business-central/dev-itpro/powerplatform/power-automate-setup).
 
-## <a name="see-related-microsoft-trainingtrainingmodulespersonalize-ui-dynamics--business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/personalize-ui-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-trainingtrainingmodulespersonalize-ui-dynamics-365-business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/personalize-ui-dynamics-365-business-central/index)
 
 ## <a name="see-also" />См. также
 [Настройка страниц для профилей](ui-personalization-manage.md)  

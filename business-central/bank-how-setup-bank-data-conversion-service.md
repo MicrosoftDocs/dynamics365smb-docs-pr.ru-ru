@@ -11,7 +11,7 @@ ms.search.form: '304, 20106, 20105, 20100, 20101, 20107, 20109'
 ms.date: 04/01/2021
 ms.author: edupont
 ---
-# <a name="set-up-the-amc-banking--fundamentals-extension" />Настройка расширения AMC Banking 365 Fundamentals
+# <a name="set-up-the-amc-banking-365-fundamentals-extension" />Настройка расширения AMC Banking 365 Fundamentals
 Глобальный поставщик услуг преобразования платежной информации в любой формат данных, требуемый банком, подключен и готов к включению в [!INCLUDE[prod_short](includes/prod_short.md)]. В [!INCLUDE[prod_short](includes/prod_short.md)] он называется расширением AMC Banking 365 Fundamentals.
 
 Вы можете экспортировать строки платежей со страницы **Журнал платежей** в файл или поток данных, который затем можно передать в банк для автоматической обработки, чтобы не проводить электронные платежи по одному. Дополнительные сведения см. в разделе [Экспорт платежей в банковский файл](finance-make-payments-with-bank-data-conversion-service-or-sepa-credit-transfer.md#exporting-payments-to-a-bank-file).
@@ -25,7 +25,7 @@ ms.author: edupont
 > [!NOTE]  
 > Расширение AMC Banking 365 Fundamentals может налагать ограничение на число строк, экспортируемых в одном файле. Если превысить это ограничение, будет выдано сообщение об ошибке. Рекомендуется, чтобы файлы банковских выписок не превышали 1000 строк, поскольку время обработки в расширении AMC Banking 365 Fundamentals может значительно увеличиться.
 
-## <a name="to-sign-your-company-up-for-the-amc-banking--fundamentals-extension" />Как зарегистрировать компанию в расширении AMC Banking 365 Fundamentals
+## <a name="to-sign-your-company-up-for-the-amc-banking-365-fundamentals-extension" />Как зарегистрировать компанию в расширении AMC Banking 365 Fundamentals
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Настройка службы преобр. банковских данных**, а затем выберите связанную ссылку.  
 2. Откроется страница **Настройка службы преобр. банковских данных** с тремя полями, предварительно заполненными соответствующими URL-адресами поставщика расширения AMC Banking 365 Fundamentals.
 

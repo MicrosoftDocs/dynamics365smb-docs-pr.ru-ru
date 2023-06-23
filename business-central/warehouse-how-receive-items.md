@@ -92,7 +92,7 @@ ms.search.form: '5768, 7330, 7332, 7333, 7342, 7363, 8510, 9008'
 * Для расширенных конфигураций, в которых используется расширенные размещение и подбор, [!INCLUDE [prod_short](includes/prod_short.md)] использует код ячейки приемки со страницы **Карточка склада** для склада. Если код ячейки приемки не указан, ячейка не указывается. Если ячейки товара и приемки не совпадают, код ячейки приемки остается пустым.
 * В других конфигурациях если код ячейки приемки не указан, [!INCLUDE [prod_short](includes/prod_short.md)] использует код ячейки из исходного документа.
 
-## <a name="see-related-microsoft-trainingtrainingmodulesreceive-invoice-dynamics-d-business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/receive-invoice-dynamics-d365-business-central/index).
+## <a name="see-related-microsoft-trainingtrainingmodulesreceive-invoice-dynamics-d365-business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/receive-invoice-dynamics-d365-business-central/index).
 
 ## <a name="see-also" />См. также
 

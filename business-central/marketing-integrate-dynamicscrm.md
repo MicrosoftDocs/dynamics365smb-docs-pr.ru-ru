@@ -12,7 +12,7 @@ ms.search.forms: '9980, 5341, 5349, 5330, 1817, 5342, 5337, 5336, 5331, 5343, 53
 ms.date: 09/16/2022
 ms.author: bholtorf
 ---
-# <a name="use-dynamics--sales-from-business-central" />Использование Dynamics 365 Sales из Business Central
+# <a name="use-dynamics-365-sales-from-business-central" />Использование Dynamics 365 Sales из Business Central
 Если вы используете Dynamics 365 Sales для взаимодействия с клиентами, вы получаете в свое распоряжение бесшовную интеграцию процесса от интереса до получения денег, используя [!INCLUDE[prod_short](includes/prod_short.md)] для внутренних действий, таких как обработка заказов, управление запасами и работа с финансами.
 
 Прежде чем вы сможете использовать возможности интеграции, ваш системный администратор должен настроить подключение и определить пользователей в [!INCLUDE[crm_md](includes/crm_md.md)]. Дополнительные сведения см. в разделе [Интеграция с Dynamics 365 Sales](admin-prepare-dynamics-365-for-sales-for-integration.md).

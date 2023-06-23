@@ -32,7 +32,7 @@ ms.author: edupont
 5. Чтобы создать счет на предоплату для любых новых строк в кредит-ноте продажи, выберите действие **Предоплата**, затем выберите действие **Учет счета на предоплату** или **Учет и печать счета на предоплату**.  
 6. Чтобы создать дополнительный счет на предоплату, увеличьте сумму предоплаты в одной или нескольких строках и выполните учет счета на предоплату. Новый счет будет создан на сумму разницы между суммами предоплаты, уже включенными в счет, и новыми суммами предоплаты.  
 
-## <a name="see-related-microsoft-trainingtrainingmodulesprepayment-invoices-dynamics--business-central" />См. соответствующее [обучение Microsoft](/training/modules/prepayment-invoices-dynamics-365-business-central/)
+## <a name="see-related-microsoft-trainingtrainingmodulesprepayment-invoices-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/prepayment-invoices-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

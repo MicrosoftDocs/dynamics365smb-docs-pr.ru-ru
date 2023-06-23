@@ -80,7 +80,7 @@ ms.author: edupont
 
 Но когда вы открываете ту же страницу списка со своей домашней страницы, действие **Управление** отсутствует. Вместо этого, чтобы открыть отдельный заказ на продажу, вы просто выбираете поле **Номер**. В этом представлении вы не можете закрепить панель действий.  
 
-## <a name="see-related-microsoft-trainingtrainingpathswork-pro-data-dynamics--business-central" />См. соответствующее [обучение Microsoft](/training/paths/work-pro-data-dynamics-365-business-central/)
+## <a name="see-related-microsoft-trainingtrainingpathswork-pro-data-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/paths/work-pro-data-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

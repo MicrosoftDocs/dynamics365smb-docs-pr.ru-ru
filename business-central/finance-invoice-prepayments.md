@@ -29,7 +29,7 @@ ms.author: edupont
 |Создание заказа, коррекция суммы предоплаты и выставление счета на сумму предоплаты.|[Создание счетов на предоплату](finance-how-to-create-prepayment-invoices.md)|  
 |Выставление дополнительного счета на предоплату для дополнительных товаров или дополнительного аванса по исходному заказу, или выдача кредит-ноты предоплаты.|[Корректировка предоплат](finance-how-to-correct-prepayments.md)|  
 
-## <a name="see-related-microsoft-trainingtrainingmodulesprepayment-invoices-dynamics--business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/prepayment-invoices-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-trainingtrainingmodulesprepayment-invoices-dynamics-365-business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/prepayment-invoices-dynamics-365-business-central/index)
 
 ## <a name="see-also" />См. также
 

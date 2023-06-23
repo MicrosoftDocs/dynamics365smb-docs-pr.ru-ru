@@ -27,7 +27,7 @@ ms.author: edupont
 
 После того, как вы закончите заполнение информации, вы можете закрыть страницу.  
 
-## <a name="see-related-microsoft-trainingtrainingmodulescreate-new-companies-dynamics--business-central" />См. соответствующее [обучение Microsoft](/training/modules/create-new-companies-dynamics-365-business-central/)
+## <a name="see-related-microsoft-trainingtrainingmodulescreate-new-companies-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/create-new-companies-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

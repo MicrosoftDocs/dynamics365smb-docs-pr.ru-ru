@@ -74,7 +74,7 @@ ms.author: edupont
 | Низкие              | 4        | Нет                    | Нет                             | Одно совпадение                      |
 | Низкие              | 5        | Нет                    | Нет                             | Множественные совпадения               |
 
-## <a name="see-related-microsoft-trainingtrainingmodulesreconciliation-journals-dynamics--business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/reconciliation-journals-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-trainingtrainingmodulesreconciliation-journals-dynamics-365-business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/reconciliation-journals-dynamics-365-business-central/index)
 
 ## <a name="see-also" />См. также
 [Выверка платежей с использованием автоматического применения](receivables-how-reconcile-payments-auto-application.md)  

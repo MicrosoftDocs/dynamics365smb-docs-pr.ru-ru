@@ -104,7 +104,7 @@ ms.author: bholtorf
 
 Из склада EAST будет скопировано измерение ADM.
 
-## <a name="see-related-training-at-microsoft-learnlearnmodulestrade-set-up-dynamics--business-central" />См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/trade-set-up-dynamics-365-business-central/)
+## <a name="see-related-training-at-microsoft-learnlearnmodulestrade-set-up-dynamics-365-business-central" />См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/trade-set-up-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

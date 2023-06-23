@@ -220,7 +220,7 @@ ms.search.form: '39, 101, 102, 182, 184, 185, 201, 207, 250, 251, 253, 255, 256,
 
 Значение поля **Номер документа** при необходимости изменяется таким образом, чтобы номера документов в отдельных или сгруппированных строках журнала располагались в последовательном порядке. После перенумерации документов можно будет учесть журнал.
 
-## <a name="see-related-microsoft-trainingtrainingpathsuse-journals-dynamics--business-central" />См. соответствующее [обучение Microsoft](/training/paths/use-journals-dynamics-365-business-central/)
+## <a name="see-related-microsoft-trainingtrainingpathsuse-journals-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/paths/use-journals-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

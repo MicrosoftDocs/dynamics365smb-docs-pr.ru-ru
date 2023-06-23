@@ -8,7 +8,7 @@ ms.author: edupont
 ms.date: 05/25/2022
 ---
 
-# <a name="sign-up-for-a-free-dynamics--business-central-trial" />Зарегистрироваться для бесплатного пробного пользования Dynamics 365 Business Central
+# <a name="sign-up-for-a-free-dynamics-365-business-central-trial" />Зарегистрироваться для бесплатного пробного пользования Dynamics 365 Business Central
 
 Business Central предлагает бесплатную пробную версию. После быстрой регистрации вы получите доступ ко многим из ключевых функций приложения. Пробная версия позволяет вам протестировать приложение с демонстрационными данными. Если вы хотите попробовать работу с собственными данными, вы можете перейти на бесплатную 30-дневную пробную версию. [Подробнее о функциях Business Central](across-business-functionality.md).  
 
@@ -38,7 +38,7 @@ Business Central предлагает бесплатную пробную вер
 
 Для получения дополнительной информации о том, что вы можете делать с [!INCLUDE [prod_short](includes/prod_short.md)], прочтите [Подготовьтесь к ведению бизнеса](ui-get-ready-business.md) и [Функциональные бизнес-возможности](across-business-functionality.md).  
 
-## <a name="see-related-microsoft-trainingtrainingmodulestrial-dynamics--business-central" />См. соответствующее [обучение Microsoft](/training/modules/trial-dynamics-365-business-central/)
+## <a name="see-related-microsoft-trainingtrainingmodulestrial-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/trial-dynamics-365-business-central/)
 
 ## <a name="additional-resources" />Дополнительные ресурсы
 

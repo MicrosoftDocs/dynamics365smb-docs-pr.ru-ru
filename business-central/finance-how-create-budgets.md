@@ -53,7 +53,7 @@ ms.author: edupont
 
 Подразделение зарплат распределяет эту сумму по трем счетам учета. Когда производится импорт обратно в бюджет ГК, три счета заполняются новыми данными Excel, в сумме дающими 1 200 000 МВ, а строка заголовка остается пустой.
 
-## <a name="see-related-microsoft-trainingtrainingmodulesbudgets-exchange-rates-dynamics--business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/budgets-exchange-rates-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-trainingtrainingmodulesbudgets-exchange-rates-dynamics-365-business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/budgets-exchange-rates-dynamics-365-business-central/index)
 
 ## <a name="see-also" />См. также
 

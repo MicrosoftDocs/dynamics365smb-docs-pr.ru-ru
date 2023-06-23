@@ -100,7 +100,7 @@ ms.author: edupont
 3. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Операции очереди работ**, а затем выберите связанную ссылку.
 4. Настройте запись очереди заданий **Обновить ожидающие продажи с предоплатой**, например, с помощью параметров на экспресс-вкладке **Повторение**, чтобы запланировать, как часто вы хотите, чтобы оно запускалось. Дополнительные сведения см. в разделе [Использование очередей работ для планирования задач](admin-job-queues-schedule-tasks.md).
 
-## <a name="see-related-microsoft-trainingtrainingmodulesprepayment-invoices-dynamics--business-central" />См. соответствующее [обучение Microsoft](/training/modules/prepayment-invoices-dynamics-365-business-central/)
+## <a name="see-related-microsoft-trainingtrainingmodulesprepayment-invoices-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/prepayment-invoices-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

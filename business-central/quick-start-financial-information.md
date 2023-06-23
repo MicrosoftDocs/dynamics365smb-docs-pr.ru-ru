@@ -79,7 +79,7 @@ ms.author: a-reishima
    Поле отличается от поля **Номер банковского счета**, также доступно на экспресс-вкладке **Общее**.
 4. Заполните требуемым образом поля на странице **Карточка банковского счета**. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 
-## <a name="see-related-training-at-microsoft-learnlearnpathsset-up-financial-management-dynamics--business-central" />См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/set-up-financial-management-dynamics-365-business-central/).
+## <a name="see-related-training-at-microsoft-learnlearnpathsset-up-financial-management-dynamics-365-business-central" />См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/set-up-financial-management-dynamics-365-business-central/).
 
 ## <a name="see-also" />См. также
 

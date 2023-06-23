@@ -52,7 +52,7 @@ ms.author: edupont
 | --- | --- | --- | --- | --- |
 | MyBank |ПУСТО |60400|Счет ГК |ПУСТО |
 
-## <a name="see-related-microsoft-trainingtrainingmodulesuse-journals-dynamics--business-central" />См. соответствующее [обучение Microsoft](/training/modules/use-journals-dynamics-365-business-central/)
+## <a name="see-related-microsoft-trainingtrainingmodulesuse-journals-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/use-journals-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

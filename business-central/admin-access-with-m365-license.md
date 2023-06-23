@@ -11,13 +11,13 @@ ms.custom: bap-template
 ms.search.keywords: 'License, access, Microsoft 365, collaborate, collaboration, Teams, Microsoft Teams'
 ---
 
-# <a name="business-central-access-with-microsoft--licenses" />Доступ к Business Central с лицензиями на Microsoft 365
+# <a name="business-central-access-with-microsoft-365-licenses" />Доступ к Business Central с лицензиями на Microsoft 365
 
 Пользователям [!INCLUDE[prod_short](includes/prod_short.md)] назначается лицензия на Dynamics 365 Business Central, которая позволяет им просматривать свои бизнес-данные, а также изменять их и выполнять с ними действия из любого пользовательского интерфейса. Для всех остальных сотрудников в организации, которым требуется только время от времени просматривать данные, в Business Central предусмотрен доступ через Microsoft 365.  
 
 Когда у организации есть подписка и на Dynamics 365 Business Central, и на Microsoft 365, администраторы могут настраивать среды для доступа к данным с лицензиями на Microsoft 365 и выбирать, к каким именно таблицам и другим объектам будет доступ у данной категории пользователей. После такой настройки сотрудники, у которых есть лицензия на Microsoft 365, но нет лицензии на [!INCLUDE [prod_short](includes/prod_short.md)], могут просматривать записи [!INCLUDE [prod_short](includes/prod_short.md)], которыми с ними делятся другие пользователи в чате и каналах Microsoft Teams.
 
-## <a name="why-enable-access-with-microsoft--licenses" />Преимущества предоставления доступа с лицензиями на Microsoft 365
+## <a name="why-enable-access-with-microsoft-365-licenses" />Преимущества предоставления доступа с лицензиями на Microsoft 365
 
 - Обеспечение доступности основных данных, доступ к которым должен быть у всех сотрудников организации.
 

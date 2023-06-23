@@ -89,7 +89,7 @@ ms.author: edupont
 
 5. На странице **Строки продажи** выберите действие **Показать документ**, чтобы просмотреть запись.
 
-## <a name="see-related-microsoft-trainingtrainingmodulescreate-sales-documents-dynamics--business-central" />См. соответствующее [обучение Microsoft](/training/modules/create-sales-documents-dynamics-365-business-central/)
+## <a name="see-related-microsoft-trainingtrainingmodulescreate-sales-documents-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/create-sales-documents-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

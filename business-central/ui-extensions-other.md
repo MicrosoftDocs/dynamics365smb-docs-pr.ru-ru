@@ -16,7 +16,7 @@ ms.author: edupont
 
 Список расширений от других организаций растет каждый месяц. Поэтому следите за обновлениями [AppSource.microsoft.com](https://go.microsoft.com/fwlink/?linkid=2081646) и скачивайте расширения, которые помогут вам в работе с [!INCLUDE[prod_short](includes/prod_short.md)].  
 
-## <a name="see-related-microsoft-trainingtrainingmodulescustomize-dynamics--business-central" />См. соответствующее [обучение Microsoft](/training/modules/customize-dynamics-365-business-central/)
+## <a name="see-related-microsoft-trainingtrainingmodulescustomize-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/customize-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

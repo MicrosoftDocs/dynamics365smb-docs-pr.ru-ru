@@ -199,7 +199,7 @@ ms.author: bholtorf
 
 После регистрации специальных цен и скидок по строке для покупок и продаж [!INCLUDE[d365fin](includes/d365fin_md.md)] гарантирует, что ваша прибыль от торговли товаром будет всегда оптимальна, автоматически рассчитывая наилучшую цену в документах продажи и покупки и в строках журнала товаров и работ. Дополнительные сведения см. в разделе [Расчет лучшей цены](sales-how-record-sales-price-discount-payment-agreements.md#best-price-calculation).
 
-## <a name="see-related-microsoft-trainingtrainingmodulescustomer-discounts-dynamics--business-central" />См. соответствующее [обучение Microsoft](/training/modules/customer-discounts-dynamics-365-business-central/)
+## <a name="see-related-microsoft-trainingtrainingmodulescustomer-discounts-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/customer-discounts-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

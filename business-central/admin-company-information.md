@@ -54,7 +54,7 @@ ms.author: edupont
 
 Пользовательский интерфейс по умолчанию в пробной версии [!INCLUDE [prod_short](includes/prod_short.md)] не раскрывает все возможности. Вы можете включить полный интерфейс на странице **Информация об организации**. Дополнительные сведения см. в разделе [Изменение набора отображаемых функций](ui-experiences.md).  
 
-## <a name="see-related-microsoft-trainingtrainingmodulescreate-new-companies-dynamics--business-central" />См. соответствующее [обучение Microsoft](/training/modules/create-new-companies-dynamics-365-business-central/)
+## <a name="see-related-microsoft-trainingtrainingmodulescreate-new-companies-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/create-new-companies-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

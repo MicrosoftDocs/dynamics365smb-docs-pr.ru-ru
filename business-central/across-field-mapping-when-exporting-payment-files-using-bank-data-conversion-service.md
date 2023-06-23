@@ -10,7 +10,7 @@ ms.search.keywords: null
 ms.date: 04/01/2021
 ms.author: edupont
 ---
-# <a name="field-mapping-when-exporting-payment-files-using-the-amc-banking--fundamentals-extension" />Сопоставление полей при экспорте файлов платежей с использованием расширения AMC Banking 365 Fundamentals
+# <a name="field-mapping-when-exporting-payment-files-using-the-amc-banking-365-fundamentals-extension" />Сопоставление полей при экспорте файлов платежей с использованием расширения AMC Banking 365 Fundamentals
 При экспорте файлов платежей с использованием расширения AMC Banking 365 Fundamentals экспортируемые данные предоставляются поставщику услуг. Поставщик услуг отвечает за конфиденциальность этих данных. Дополнительные сведения о расширении AMC Banking 365 Fundamentals см. в разделе [Использование расширения AMC Banking 365 Fundamentals](ui-extensions-amc-banking.md).  
 
 > [!CAUTION]  

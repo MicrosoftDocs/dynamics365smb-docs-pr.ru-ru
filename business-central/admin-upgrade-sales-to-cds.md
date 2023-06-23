@@ -10,7 +10,7 @@ ms.search.keywords: 'sales, crm, integration, integrating'
 ms.date: 06/14/2021
 ms.author: bholtorf
 ---
-# <a name="upgrading-an-integration-with-dynamics--sales" />Обновление интеграции с Dynamics 365 Sales
+# <a name="upgrading-an-integration-with-dynamics-365-sales" />Обновление интеграции с Dynamics 365 Sales
 [!INCLUDE[prod_short](includes/prod_short.md)] интегрируется с [!INCLUDE[prod_short](includes/cds_long_md.md)], что позволяет легко подключать и синхронизировать данные с другими приложениями Dynamics 365, такими как [!INCLUDE[crm_md](includes/crm_md.md)], или даже с приложениями, которые вы создаете сами. Если вы впервые выполняете интеграцию, мы рекомендуем сделать это через [!INCLUDE[prod_short](includes/cds_long_md.md)]. Дополнительные сведения см. в разделе [Интеграция с Dataverse](admin-common-data-service.md).
 
 Если вы уже интегрировали [!INCLUDE[crm_md](includes/crm_md.md)] с [!INCLUDE[prod_short](includes/prod_short.md)], вы можете продолжить синхронизацию данных, используя ваши настройки. Однако, если вы обновите [!INCLUDE[prod_short](includes/prod_short.md)] или выключите интеграцию [!INCLUDE[crm_md](includes/crm_md.md)], чтобы включить его снова, вы должны подключиться через [!INCLUDE[prod_short](includes/cds_long_md.md)]. 

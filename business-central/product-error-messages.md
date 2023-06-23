@@ -6,7 +6,7 @@ ms.topic: conceptual
 ms.date: 04/01/2021
 ms.author: edupont
 ---
-# <a name="warnings-and-error-messages-in-dynamics--business-central" />Предупреждения и сообщения об ошибках в Dynamics 365 Business Central
+# <a name="warnings-and-error-messages-in-dynamics-365-business-central" />Предупреждения и сообщения об ошибках в Dynamics 365 Business Central
 
 В течение рабочего дня вы можете видеть уведомления в [!INCLUDE [prod_short](includes/prod_short.md)], что что-то пошло не так, или что, например, что-то не удалось учесть. Во многих случаях уведомление позволяет легко решить проблему или отменить любые внесенные вами изменения. В других случаях у вас может не быть информации, необходимой для разблокировки. В этой статье даются советы, как добиться прогресса.  
 

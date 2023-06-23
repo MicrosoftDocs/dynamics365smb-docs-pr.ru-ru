@@ -235,7 +235,7 @@ ms.author: edupont
 
 Возможности предоплаты упрощают настройку и применение правил предоплаты для клиентов и товаров. Они также позволяют вам учитывать платеж по счету-фактуре.  
 
-## <a name="see-related-microsoft-trainingtrainingmodulesprepayment-invoices-dynamics--business-central" />См. соответствующее [обучение Microsoft](/training/modules/prepayment-invoices-dynamics-365-business-central/)
+## <a name="see-related-microsoft-trainingtrainingmodulesprepayment-invoices-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/prepayment-invoices-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

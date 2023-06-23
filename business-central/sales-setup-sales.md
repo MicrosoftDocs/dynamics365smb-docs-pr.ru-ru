@@ -33,7 +33,7 @@ ms.author: edupont
 |Ввести сведения о различных используемых перевозчиках, включая ссылки на их службу отслеживания пакетов.|[Настройка экспедиторов](sales-how-to-set-up-shipping-agents.md)|
 |Укажите отчеты по умолчанию, которые будут использоваться для различных типов документов.|[Выбор отчета в Business Central](across-report-selections.md)|
 
-## <a name="see-related-microsoft-trainingtrainingpathstrade-get-started-dynamics--business-central" />См. соответствующее [обучение Microsoft](/training/paths/trade-get-started-dynamics-365-business-central/)
+## <a name="see-related-microsoft-trainingtrainingpathstrade-get-started-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/paths/trade-get-started-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 [Продажи](sales-manage-sales.md)  

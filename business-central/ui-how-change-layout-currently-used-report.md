@@ -56,7 +56,7 @@ ms.author: jswymer
 
 Теперь вы можете перейти к карточкам своих клиентов и поставщиков, чтобы указать, какой из макетов использовать для различных документов, которые вы создаете для данного клиента или поставщика, например при подтверждении заказа или напоминании об оплате. Для получения дополнительной информации см. [Определение макетов документов для клиентов и поставщиков](ui-define-customer-vendor-document-layouts.md).
 
-## <a name="see-related-microsoft-trainingtrainingmoduleschange-documents-dynamics--business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/change-documents-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-trainingtrainingmoduleschange-documents-dynamics-365-business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/change-documents-dynamics-365-business-central/index)
 
 ## <a name="see-also" />См. также
 [Управление макетами отчетов](ui-manage-report-layouts.md)  

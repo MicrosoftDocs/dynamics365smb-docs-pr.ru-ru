@@ -124,7 +124,7 @@ ms.author: edupont
 > [!NOTE]  
 > Поле **Доп. отчетная валюта** будет активировано только после нажатия кнопки **OK** в пакетном задании **Корректировать доп. отчетную валюту**.  
 
-## <a name="see-related-microsoft-trainingtrainingpathsuse-multiple-currencies-dynamics--business-central" />См. соответствующее [обучение Microsoft](/training/paths/use-multiple-currencies-dynamics-365-business-central/)
+## <a name="see-related-microsoft-trainingtrainingpathsuse-multiple-currencies-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/paths/use-multiple-currencies-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

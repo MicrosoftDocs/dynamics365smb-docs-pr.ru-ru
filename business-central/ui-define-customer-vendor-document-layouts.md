@@ -45,7 +45,7 @@ ms.author: edupont
 1. На странице **Макеты документов** в строке макета отчета, который вы хотите отправить конкретному контакту клиента, выберите действие **Выбрать адрес эл. почты из контактов**.
 2. На странице **Контакты** выберите один или несколько контактов, а затем выберите **ОК**.
 
-## <a name="see-related-microsoft-trainingtrainingmoduleschange-documents-dynamics--business-central" />См. соответствующее [обучение Microsoft](/training/modules/change-documents-dynamics-365-business-central/)
+## <a name="see-related-microsoft-trainingtrainingmoduleschange-documents-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/change-documents-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

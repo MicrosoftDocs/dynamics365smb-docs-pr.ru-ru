@@ -45,7 +45,7 @@ ms.author: edupont
 > [!NOTE]
 > В целях безопасности и по юридическим причинам вы не можете загружать пользовательские шрифты в среду [!INCLUDE[prod_short](includes/prod_short.md)].
 
-### <a name="micr-e-b-specifications" />Спецификации MICR E-13B
+### <a name="micr-e-13b-specifications" />Спецификации MICR E-13B
 
 Ниже приведено краткое описание спецификаций для шрифтов MICR E-13B, которые могут быть полезны при калибровке шрифтов в макетах чеков с определенными принтерами MICR.
 
@@ -57,7 +57,7 @@ ms.author: edupont
 
 Полную спецификацию шрифтов MICR E-13B можно найти в документации поставщика здесь: ( https://www.idautomation.com/micr-fonts/e13b/).
 
-### <a name="micr-cmc--specifications" />Спецификации MICR CMC-7
+### <a name="micr-cmc-7-specifications" />Спецификации MICR CMC-7
 
 Следующие шрифты CMC-7 доступны в [!INCLUDE[prod_short](includes/prod_short.md)] online:
 

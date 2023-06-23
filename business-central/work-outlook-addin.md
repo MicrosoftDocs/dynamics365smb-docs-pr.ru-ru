@@ -122,7 +122,7 @@ ms.author: jswymer
 > С волны 1 выпуска 2022 года документы открываются в новом окне браузера со всеми возможностями, которые вы знаете из [!INCLUDE [prod_short](includes/prod_short.md)]. Вы можете переходить от документа к списку и обратно, открывать списки в Excel, отправлять документы на печать, а также запускать или предварительно просматривать связанные отчеты. У вас также есть все знакомые сочетания клавиш, когда вы открываете документы из Outlook.  
 
 
-## <a name="see-related-microsoft-trainingtrainingmodulesalternative-interfaces-dynamics--business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/alternative-interfaces-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-trainingtrainingmodulesalternative-interfaces-dynamics-365-business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/alternative-interfaces-dynamics-365-business-central/index)
 
 ## <a name="see-also" />См. также
 

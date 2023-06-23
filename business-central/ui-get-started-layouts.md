@@ -178,7 +178,7 @@ ms.author: jswymer
     > Чтобы помочь вам найти макет, используйте поле **Поиск**, область **Фильтр** панель и сортировку столбцов.
 3. Измените **Имя макета**, затем выберите **ОК**.
 
-## <a name="see-related-microsoft-trainingtrainingmoduleschange-documents-dynamics--business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/change-documents-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-trainingtrainingmoduleschange-documents-dynamics-365-business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/change-documents-dynamics-365-business-central/index)
 
 ## <a name="see-also" />См. также
 

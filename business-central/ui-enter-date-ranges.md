@@ -345,7 +345,7 @@ The following example shows how you can use a minus sign to indicate a date in t
 
 Например, если по умолчанию используются часы, число 5 будет преобразовано в 5 часов.
 
-## <a name="see-related-microsoft-trainingtrainingmodulesexplore-modify-info-dynamics--business-central" />См. соответствующее [обучение Microsoft](/training/modules/explore-modify-info-dynamics-365-business-central/)
+## <a name="see-related-microsoft-trainingtrainingmodulesexplore-modify-info-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/explore-modify-info-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

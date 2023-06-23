@@ -61,7 +61,7 @@ ms.custom: bap-template
 
 После успешного учета сборочный элемент учитывается как выход к коду склада и коду потенциальной ячейки, которые определяются в сборочном заказе. Для созданных вручную сборочных заказов склад может быть скопирован автоматически из поля настройки **Склад по умолчанию для заказов**. Для потоков сборки на заказ код склада может быть скопирован из строки заказа на продажу.  
 
-## <a name="see-related-microsoft-trainingtrainingpathsassemble-items-dynamics--business-central" />См. соответствующее [обучение Microsoft](/training/paths/assemble-items-dynamics-365-business-central/)
+## <a name="see-related-microsoft-trainingtrainingpathsassemble-items-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/paths/assemble-items-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

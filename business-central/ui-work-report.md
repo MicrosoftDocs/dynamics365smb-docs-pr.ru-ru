@@ -153,7 +153,7 @@ ms.author: jswymer
 > [!NOTE]
 > Максимальные значения могут быть разными для [!INCLUDE[prod_short](includes/prod_short.md)] (локальная версия), и администратор может их изменить. Подробнее см. в разделе [Настройка Business Central Server — отчеты](/dynamics365/business-central/dev-itpro/administration/configure-server-instance#Reports). Для обзора ограничений отчетов в [!INCLUDE[prod_short](includes/prod_short.md)] (онлайн) см. раздел [Операционные ограничения](/dynamics365/business-central/dev-itpro/administration/operational-limits-online).
 
-## <a name="see-related-microsoft-trainingtrainingpathssetup-reporting-dynamics--business-central" />См. соответствующее [обучение Microsoft](/training/paths/setup-reporting-dynamics-365-business-central/).
+## <a name="see-related-microsoft-trainingtrainingpathssetup-reporting-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/paths/setup-reporting-dynamics-365-business-central/).
 
 ## <a name="see-also" />См. также
 

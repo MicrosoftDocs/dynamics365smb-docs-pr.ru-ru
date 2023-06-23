@@ -64,7 +64,7 @@ When the assisted setup guide completes, you can start exploring the new company
 
 <!-- ![In-client Designer.](./media/across-sandbox/sandbox-inclient-designer.png) -->
 
-## <a name="see-related-microsoft-trainingtrainingmodulesadmin-online-dynamics--business-central" />См. соответствующее [обучение Microsoft](/training/modules/admin-online-dynamics-365-business-central/)
+## <a name="see-related-microsoft-trainingtrainingmodulesadmin-online-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/admin-online-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

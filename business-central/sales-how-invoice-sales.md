@@ -119,7 +119,7 @@ ms.author: edupont
 
 [!INCLUDE [ext-doc-no-sales](includes/ext-doc-no-sales.md)]
 
-## <a name="see-related-microsoft-trainingtrainingmodulesinvoicing-customers-dynamics--business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/invoicing-customers-dynamics-365-business-central/index).
+## <a name="see-related-microsoft-trainingtrainingmodulesinvoicing-customers-dynamics-365-business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/invoicing-customers-dynamics-365-business-central/index).
 
 ## <a name="see-also" />См. также
 

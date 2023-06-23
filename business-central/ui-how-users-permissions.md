@@ -118,7 +118,7 @@ ms.reviewer: jswymer
 
 Вы также можете удалить лицензию у пользователя в центре администрирования Microsoft 365. Затем пользователь не может войти в систему. Для получения дополнительной информации см. раздел [Удаление лицензий у пользователей](/microsoft-365/admin/manage/remove-licenses-from-users),
 
-### <a name="a-namemasynchronization-with-microsoft-" /><a name="m365"></a>Синхронизация с Microsoft 365
+### <a name="a-namem365asynchronization-with-microsoft-365" /><a name="m365"></a>Синхронизация с Microsoft 365
 
 Когда назначается лицензия для [!INCLUDE[prod_short](includes/prod_short.md)] пользователю в Microsoft 365, есть два способа создать пользователя в [!INCLUDE[prod_short](includes/prod_short.md)].  
 

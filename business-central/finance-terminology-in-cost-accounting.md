@@ -43,7 +43,7 @@ ms.author: edupont
 |Переменные затраты|Переменные затраты — это расходы, которые меняются пропорционально деятельности компании. Переменные затраты — это сумма предельной себестоимости всех производимых товаров. Постоянные и переменные затраты составляют два компонента общих затрат.|  
 |Вариант|Вариант используется как необязательная определяемая пользователем метка для распределений. Назначение этикетки — фильтрация групп распределения.|  
 
-## <a name="see-related-microsoft-trainingtrainingpathsuse-cost-accounting-dynamics--business-central" />См. соответствующее [обучение Microsoft](/training/paths/use-cost-accounting-dynamics-365-business-central/)
+## <a name="see-related-microsoft-trainingtrainingpathsuse-cost-accounting-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/paths/use-cost-accounting-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

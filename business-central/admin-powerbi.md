@@ -71,7 +71,7 @@ ms.custom: bap-template
 - Если интеграция с Power BI уже настроена и вы хотите опробовать ее функции, см. статью [Работа с отчетами Power BI в Business Central](across-working-with-powerbi.md).
 
 
-## <a name="see-related-microsoft-trainingtrainingmodulesconfigure-powerbi-excel-dynamics--business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/configure-powerbi-excel-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-trainingtrainingmodulesconfigure-powerbi-excel-dynamics-365-business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/configure-powerbi-excel-dynamics-365-business-central/index)
 
 ## <a name="see-also" />См. также
 

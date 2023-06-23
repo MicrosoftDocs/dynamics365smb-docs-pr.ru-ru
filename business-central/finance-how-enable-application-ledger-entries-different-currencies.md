@@ -42,7 +42,7 @@ ms.author: edupont
 3. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Учетные группы поставщика**, а затем выберите связанную ссылку.  
 4. В полях **Деб. счет округл. при прим. валюты** и **Кр. счет округл. при прим. валюты** введите соответствующие счета ГК, чтобы учесть различия в округлении.  
 
-## <a name="see-related-microsoft-trainingtrainingmodulesprocess-foreign-currency-payments-dynamics--business-central" />См. соответствующее [обучение Microsoft](/training/modules/process-foreign-currency-payments-dynamics-365-business-central/)
+## <a name="see-related-microsoft-trainingtrainingmodulesprocess-foreign-currency-payments-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/process-foreign-currency-payments-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

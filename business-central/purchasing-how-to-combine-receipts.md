@@ -42,7 +42,7 @@ ms.author: edupont
 
 Повторите шаги с 1 по 3 для всех остальных затронутых документов, таких как общие заказы на покупку.
 
-## <a name="see-related-microsoft-trainingtrainingmodulesprocessing-invoices-dynamics--business-central" />См. соответствующее [обучение Microsoft](/training/modules/processing-invoices-dynamics-365-business-central/)
+## <a name="see-related-microsoft-trainingtrainingmodulesprocessing-invoices-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/processing-invoices-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

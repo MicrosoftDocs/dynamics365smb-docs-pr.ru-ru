@@ -58,7 +58,7 @@ ms.author: bholtorf
 3. Карточка единицы хранения
 4. Карточка поставщика
 
-## <a name="see-related-microsoft-trainingtrainingmodulesestimate-receipt-dates-dynamics--business-central" />См. соответствующее [обучение Microsoft](/training/modules/estimate-receipt-dates-dynamics-365-business-central/)
+## <a name="see-related-microsoft-trainingtrainingmodulesestimate-receipt-dates-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/estimate-receipt-dates-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

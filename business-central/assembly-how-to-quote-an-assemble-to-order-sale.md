@@ -34,7 +34,7 @@ ms.author: edupont
 6.  При регулировке строк сборочного заказа в соответствии с предложением закройте окно **Строки сборки на заказ**, чтобы вернуться на страницу **Предложение**.  
 7.  Если клиент принимает предложение, создайте заказ на продажу оцененного сборочного элемента. Дополнительные сведения см. в разделе [Создание предложений по продаже](sales-how-make-offers.md). Связанное предложение по сборке и все настройки связаны с новым заказом на продажу для подготовки сборки товара или товаров, которые должны быть проданы.  
 
-## <a name="see-related-microsoft-trainingtrainingmodulesassemble-to-order-dynamics--business-central" />См. соответствующее [обучение Microsoft](/training/modules/assemble-to-order-dynamics-365-business-central/)
+## <a name="see-related-microsoft-trainingtrainingmodulesassemble-to-order-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/assemble-to-order-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

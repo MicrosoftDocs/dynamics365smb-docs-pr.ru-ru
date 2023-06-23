@@ -95,7 +95,7 @@ ms.author: edupont
 
 Когда вы будете готовы обработать товар, который отсутствовал, обновите поле **Количество для обработки** и примите к учету заказ.
 
-## <a name="see-related-microsoft-trainingtrainingmodulespost-purchase-item-charges-dynamics--business-central" />См. соответствующее [обучение Microsoft](/training/modules/post-purchase-item-charges-dynamics-365-business-central/)
+## <a name="see-related-microsoft-trainingtrainingmodulespost-purchase-item-charges-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/post-purchase-item-charges-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

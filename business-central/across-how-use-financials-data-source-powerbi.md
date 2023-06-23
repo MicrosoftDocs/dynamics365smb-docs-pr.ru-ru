@@ -180,7 +180,7 @@ ms.author: jswymer
 9. Нажмите **Готово**.
 10. Выберите **Закрыть и применить** на ленте, чтобы сохранить изменения и закрыть редактор Power Query.
 
-## <a name="see-related-microsoft-trainingtrainingmodulesconfigure-powerbi-excel-dynamics--business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/configure-powerbi-excel-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-trainingtrainingmodulesconfigure-powerbi-excel-dynamics-365-business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/configure-powerbi-excel-dynamics-365-business-central/index)
 
 ## <a name="see-also" />См. также
 

@@ -72,7 +72,7 @@ ms.author: edupont
 4. Выберите действие **Учесть** или **Учесть и отправить**.
 5. Выберите вариант **Отгрузить** (чтобы счет был выставлен позже) или вариант **Отгрузить и выставить счет** (чтобы счет был выставлен незамедлительно).
 
-## <a name="see-related-microsoft-trainingtrainingmodulescreate-sales-documents-dynamics--business-central" />См. соответствующее [обучение Microsoft](/training/modules/create-sales-documents-dynamics-365-business-central/)
+## <a name="see-related-microsoft-trainingtrainingmodulescreate-sales-documents-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/create-sales-documents-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

@@ -17,7 +17,7 @@ ms.author: mikebc
 
 Подробнее об [управлении функциями](/dynamics365/business-central/dev-itpro/administration/feature-management).  
 
-## <a name="see-related-microsoft-trainingtrainingmodulesadmin-online-dynamics--business-central" />См. соответствующее [обучение Microsoft](/training/modules/admin-online-dynamics-365-business-central/)
+## <a name="see-related-microsoft-trainingtrainingmodulesadmin-online-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/admin-online-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

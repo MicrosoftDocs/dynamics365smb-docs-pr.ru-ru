@@ -114,7 +114,7 @@ XBRL **документ** это бизнес-отчет, например фи�
 6. Для импорта базы ссылок выберите действие **Импорт**.  
 7. Нажмите кнопку **Да**, чтобы применить базу ссылок к схеме.  
 
-## <a name="see-related-training-at-microsoft-learnlearnmodulesxbrl-reports-dynamics--business-centralindex" />См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/xbrl-reports-dynamics-365-business-central/index).
+## <a name="see-related-training-at-microsoft-learnlearnmodulesxbrl-reports-dynamics-365-business-centralindex" />См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/xbrl-reports-dynamics-365-business-central/index).
 
 ## <a name="see-also" />См. также
 

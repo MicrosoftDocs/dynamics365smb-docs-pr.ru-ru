@@ -58,7 +58,7 @@ ms.author: jswymer
 
 Отчеты предназначены для использования макета по умолчанию. Вы можете вернуться к исходному макету по умолчанию со страницы **Выбор макета отчета**. Просто выберите отчет, затем выберите действие **Восстановить параметры по умолчанию** вверху страницы.
 
-## <a name="see-related-microsoft-trainingtrainingmoduleschange-documents-dynamics--business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/change-documents-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-trainingtrainingmoduleschange-documents-dynamics-365-business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/change-documents-dynamics-365-business-central/index)
 
 ## <a name="see-also" />См. также
 

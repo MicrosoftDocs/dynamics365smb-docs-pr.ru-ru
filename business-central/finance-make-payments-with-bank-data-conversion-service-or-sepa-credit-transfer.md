@@ -11,7 +11,7 @@ ms.search.form: '256, 1205, 1206, 1209, 10810, 10811'
 ms.date: 07/06/2021
 ms.author: bholtorf
 ---
-# <a name="make-payments-with-the-amc-banking--fundamentals-extension-or-sepa-credit-transfer" />Выполнение платежей с помощью расширения AMC Banking 365 Fundamentals или кредитного перевода SEPA
+# <a name="make-payments-with-the-amc-banking-365-fundamentals-extension-or-sepa-credit-transfer" />Выполнение платежей с помощью расширения AMC Banking 365 Fundamentals или кредитного перевода SEPA
 
 На странице **Журнал платежей** можно обработать платежи поставщикам путем экспорта файла со сведениями о платежах из строк журнала. Затем можно загрузить файл в электронный банк для обработки соответствующих денежных переводов. [!INCLUDE[prod_short](includes/prod_short.md)] поддерживает формат кредитового перевода SEPA, но в вашей стране или регионе могут быть доступны другие форматы электронных платежей.
 
@@ -23,7 +23,7 @@ ms.author: bholtorf
 > [!NOTE]  
 > Убедившись, что платежи успешно обработаны банком, можно переходить к учету строк журнала платежей.  
 
-## <a name="setting-up-the-amc-banking--fundamentals-extension" />Настройка расширения AMC Banking 365 Fundamentals
+## <a name="setting-up-the-amc-banking-365-fundamentals-extension" />Настройка расширения AMC Banking 365 Fundamentals
 
 Активируйте расширение AMC Banking 365 Fundamentals для преобразования любого файла банковской выписки в формат, который можно импортировать, или для преобразования экспортируемых файлов платежей в требуемый банком формат. Дополнительные сведения см. в разделе [Использование расширения AMC Banking 365 Fundamentals](ui-extensions-amc-banking.md).
 

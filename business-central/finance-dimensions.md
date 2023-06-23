@@ -238,7 +238,7 @@ ms.search.form: '408, 479, 480, 481, 484, 536, 537, 538, 539, 540, 541, 542, 543
 > [!NOTE]  
 > На странице **Измерения операции в книге** отображаются измерения для одной операции книги. По мере перемещения по операциям книги содержимое страницы **Измерения операции в книге** меняется соответствующим образом.
 
-## <a name="see-related-microsoft-trainingtrainingmodulesdimensions-dynamics--business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/dimensions-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-trainingtrainingmodulesdimensions-dynamics-365-business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/dimensions-dynamics-365-business-central/index)
 
 ## <a name="see-also" />См. также
 

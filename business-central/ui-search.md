@@ -70,7 +70,7 @@ ms.author: bholtorf
 
 Мы показали функцию "Что вы хотите сделать" различным заинтересованным лицам, отметили общие задаваемые ими вопросы и создали по нашим записям список часто задаваемых вопросов. Если вам интересно, см. раздел [Вопросы и ответы по функции "Что вы хотите сделать"](ui-search-faq.md).
 
-## <a name="see-related-microsoft-trainingtrainingmodulesuser-interface-dynamics--business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/user-interface-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-trainingtrainingmodulesuser-interface-dynamics-365-business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/user-interface-dynamics-365-business-central/index)
 
 ## <a name="see-also" />См. также
 

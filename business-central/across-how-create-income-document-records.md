@@ -61,7 +61,7 @@ ms.author: edupont
 6. На странице **Вставка файла** выберите файл, представляющий соответствующий входящий документ, а затем нажмите кнопку **Открыть**.
 7. На странице **Входящий документ** заполните поля по мере необходимости. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 
-## <a name="see-related-microsoft-trainingtrainingmodulesincoming-documents-dynamics--business-central" />См. соответствующее [обучение Microsoft](/training/modules/incoming-documents-dynamics-365-business-central/)
+## <a name="see-related-microsoft-trainingtrainingmodulesincoming-documents-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/incoming-documents-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 
