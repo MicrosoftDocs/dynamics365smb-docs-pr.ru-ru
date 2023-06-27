@@ -7,7 +7,7 @@ ms.topic: conceptual
 ms.author: margoc
 ---
 
-# <a name="business-central-learning-catalog" />Учебный каталог Business Central
+# <a name="business-central-learning-catalog"></a>Учебный каталог Business Central
 
 Найдите подходящее онлайн-обучение, личные семинары и мероприятия для вашей роли пользователя или партнера Business Central.
 

@@ -10,7 +10,7 @@ ms.search.keywords: 'business intelligence, KPI, Odata, Power App, SOAP, analysi
 ms.date: 06/11/2021
 ms.author: jswymer
 ---
-# <a name="creating-power-bi-reports-for-displaying-list-data-in-" />Создание отчетов Power BI для отображения данных списка в [!INCLUDE[prod_short](includes/prod_short.md)]
+# <a name="creating-power-bi-reports-for-displaying-list-data-in-"></a>Создание отчетов Power BI для отображения данных списка в [!INCLUDE[prod_short](includes/prod_short.md)]
 
 [!INCLUDE[prod_long](includes/prod_long.md)] включает элемент управления информационной панели Power BI на многих ключевых страницах списка. Цель этой информационной панели — отображать отчеты Power BI, которые связаны с записями в списках, обеспечивая дополнительное понимание данных. Идея заключается в том, что при перемещении между строками в списке отчет обновляется в соответствии с выбранной операцией.
 
@@ -19,7 +19,7 @@ ms.author: jswymer
 > [!NOTE]
 > Для получения общей информации о создании и публикации отчетов Power BI для Business Central см. раздел [Создание отчетов Power BI для отображения данных [!INCLUDE [prod_long](includes/prod_long.md)]](across-how-use-financials-data-source-powerbi.md). 
 
-## <a name="prerequisites" />Предварительные требования
+## <a name="prerequisites"></a>Предварительные требования
 
 - Учетная запись Power BI.
 - Power BI Desktop.
@@ -27,7 +27,7 @@ ms.author: jswymer
 <!-- 
 For more information about getting started, see [Use [!INCLUDE[prod_short](includes/prod_short.md)] as a Power BI Data Source](across-how-use-financials-data-source-powerbi.md).-->
 
-## <a name="create-a-report-for-a-list-page" />Создание отчета для страницы со списком
+## <a name="create-a-report-for-a-list-page"></a>Создание отчета для страницы со списком
 
 1. Запустите Power BI Desktop.
 2. Выберите **Получить данные** и начните выбирать источник данных для отчета.
@@ -75,7 +75,7 @@ For more information about getting started, see [Use [!INCLUDE[prod_short](inclu
 
     Если отчет разработан правильно, он отображается.  
 
-## <a name="set-the-report-size-and-color" />Задание размера и цвета отчета
+## <a name="set-the-report-size-and-color"></a>Задание размера и цвета отчета
 
 Отчет должен иметь размер 325 х 310 пикселей. Этот размер обеспечивает правильное масштабирование отчета в доступном пространстве элемента управления информационной панелью Power BI в [!INCLUDE[prod_short](includes/prod_short.md)]. Чтобы определить размер отчета, поместите фокус вне области макета отчета, а затем щелкните значок валика.
 
@@ -88,37 +88,37 @@ For more information about getting started, see [Use [!INCLUDE[prod_short](inclu
 > [!TIP]
 > Используйте файл темы [!INCLUDE [prod_short](includes/prod_short.md)] для создания отчетов с тем же цветовым стилем, что и приложения [!INCLUDE [prod_short](includes/prod_short.md)]. Дополнительные сведения см. в разделе [Использование темы отчета [!INCLUDE [prod_short](includes/prod_short.md)]](across-how-use-financials-data-source-powerbi.md#theme).
 
-## <a name="reports-with-multiple-pages" />Отчеты с несколькими страницами
+## <a name="reports-with-multiple-pages"></a>Отчеты с несколькими страницами
 
 В Power BI можно создать один отчет с несколькими страницами. Однако для отчетов, которые будут отображаться со страницами списков, мы не рекомендуем создавать более одной страницы. На информационной панели Power BI отображается только первая страница вашего отчета.
 
-## <a name="fixing-problems" />Устранение проблем
+## <a name="fixing-problems"></a>Устранение проблем
 
 В этом разделе объясняется, как устранять проблемы, с которыми вы можете столкнуться при попытке просмотреть отчет Power BI для страницы списка в [!INCLUDE[prod_short](includes/prod_short.md)].  
 
-### <a name="you-cant-see-the-power-bi-factbox-on-a-list-page" />Вы не видите информационную панель Power BI на странице списка
+### <a name="you-cant-see-the-power-bi-factbox-on-a-list-page"></a>Вы не видите информационную панель Power BI на странице списка
 
 По умолчанию информационная панель Power BI скрыт от просмотра. Чтобы показать информационную панель на странице, на панели действий выберите **Действия** > **Показать** > **Показать/скрыть отчеты Power BI**.
 
-### <a name="you-cant-see-the-report-in-the-select-report-pane" />Вы не видите отчет на странице выбора отчета
+### <a name="you-cant-see-the-report-in-the-select-report-pane"></a>Вы не видите отчет на странице выбора отчета
 
 В названии отчета нет названия страницы списка, которая отображается. Очистите фильтр, чтобы получить полный список доступных отчетов Power BI.  
 
-### <a name="report-is-loaded-but-blank-not-filtered-or-filtered-incorrectly" />Отчет загружен, но пуст, не отфильтрован или неправильно отфильтрован
+### <a name="report-is-loaded-but-blank-not-filtered-or-filtered-incorrectly"></a>Отчет загружен, но пуст, не отфильтрован или неправильно отфильтрован
 
 Убедитесь, что фильтр отчета содержит правильный первичный ключ. В большинстве случаев это поле **Номер**, но в таблице **Операция ГК**, например, следует использовать поле **Номер операции**.
 
-### <a name="report-is-loaded-but-it-shows-a-page-you-didnt-expect" />Отчет загружен, но показывает страницу, которую вы не ожидали
+### <a name="report-is-loaded-but-it-shows-a-page-you-didnt-expect"></a>Отчет загружен, но показывает страницу, которую вы не ожидали
 
 Убедитесь, что страница, которую вы хотите отобразить, является первой страницей в вашем отчете.  
 
-### <a name="report-appears-with-an-unwanted-gray-boarder-or-its-too-small-or-too-large" />В отчетах отображаются ненужная серая граница, отчет слишком мал или слишком большой
+### <a name="report-appears-with-an-unwanted-gray-boarder-or-its-too-small-or-too-large"></a>В отчетах отображаются ненужная серая граница, отчет слишком мал или слишком большой
 
 Проверьте, что отчет имеет размер 325 х 310 пикселей. Сохраните отчет, а затем обновите страницу списка.  
 
-## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/configure-powerbi-excel-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/configure-powerbi-excel-dynamics-365-business-central/index)
 
-## <a name="see-also" />См. также
+## <a name="see-also"></a>См. также
 
 [Включение бизнес-данных для Power BI](admin-powerbi.md)  
 [Использование [!INCLUDE[prod_short](includes/prod_short.md)] как источника данных Power BI](across-how-use-financials-data-source-powerbi.md)  

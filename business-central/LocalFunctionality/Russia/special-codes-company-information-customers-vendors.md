@@ -9,11 +9,11 @@ ms.reviewer: edupont
 ms.author: soalex
 ---
 
-# <a name="special-codes-for-company-information-customers-and-vendors" />Специальные коды для информации о компании, клиентах, поставщиках
+# <a name="special-codes-for-company-information-customers-and-vendors"></a>Специальные коды для информации о компании, клиентах, поставщиках
 
 В русской версии [!INCLUDE[prod_short](../../includes/prod_short.md)] добавлены специальные коды классификации, которые необходимы в некоторых печатных формах и отчетах.
 
-## <a name="company-information" />Информация о компании
+## <a name="company-information"></a>Информация о компании
 
 Нас странице **Информация о компании** можно указать коды:
 
@@ -43,7 +43,7 @@ ms.author: soalex
 - СОНО налогового органа получателя
 - СОНО налогового органа админ. единицы
 
-## <a name="vendors" />Поставщики
+## <a name="vendors"></a>Поставщики
 
 На странице **Карточка поставщика** добавлены следующие поля:
 
@@ -54,7 +54,7 @@ ms.author: soalex
 - Код ОКОНХ
 - КПП
 
-## <a name="customers" />Клиенты
+## <a name="customers"></a>Клиенты
 
 На странице **Карточка клиента** добавлены следующие поля:
 
@@ -67,7 +67,7 @@ ms.author: soalex
 - КПП
 - Код ОКПО
 
-## <a name="see-also" />См. также
+## <a name="see-also"></a>См. также
 
 [Функциональность локальной версии для России](russia-local-functionality.md)  
 

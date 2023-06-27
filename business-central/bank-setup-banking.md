@@ -11,7 +11,7 @@ ms.search.form: 1200
 ms.date: 04/01/2021
 ms.author: edupont
 ---
-# <a name="setting-up-banking" />Настройка банковских операций
+# <a name="setting-up-banking"></a>Настройка банковских операций
 
 Используя карточки банковских счетов, можно отслеживать все банковские счета в любой валюте. После настройки банковских счетов можно также использовать параметр печати платежных документов.
 
@@ -25,7 +25,7 @@ ms.author: edupont
 
 [!INCLUDE [local-functionality](includes/local-functionality.md)]
 
-## <a name="see-also" />См. также
+## <a name="see-also"></a>См. также
 
 [Выверка банковских счетов](bank-manage-bank-accounts.md)  
 [Управление дебиторской задолженностью](receivables-manage-receivables.md)  

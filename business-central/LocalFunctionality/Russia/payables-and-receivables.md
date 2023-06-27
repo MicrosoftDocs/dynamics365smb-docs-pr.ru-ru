@@ -9,11 +9,11 @@ ms.reviewer: edupont
 ms.author: soalex
 ---
 
-# <a name="payables-and-receivables-in-the-russian-version" />Версия расчетов с клиентами и поставщиками в России
+# <a name="payables-and-receivables-in-the-russian-version"></a>Версия расчетов с клиентами и поставщиками в России
 
 В России имеются особые функции [!INCLUDE[prod_short](../../includes/prod_short.md)] для отслеживания и управления расчетами с клиентами и поставщиками.
 
-## <a name="getting-started-with-payables-and-receivables" />Начало работы с расчетами с поставщиками и клиентами
+## <a name="getting-started-with-payables-and-receivables"></a>Начало работы с расчетами с поставщиками и клиентами
 
 Воспользуйтесь следующей таблицей, чтобы больше узнать о функциях расчетов с клиентами и поставщиками, доступных для России.
 
@@ -29,7 +29,7 @@ ms.author: soalex
 |[Авансовые разницы](prepayment-differences-invoices-prepayment-differences.md)|Позволяет учесть авансовую разницу.|
 | [Настройка договоров с клиентами и поставщиками](How-to-Set-Up-Customer-and-Vendor-Agreements.md) | Позволяет настраивать договоры с клиентами и поставщиками. |
 
-## <a name="see-also" />См. также
+## <a name="see-also"></a>См. также
 
 [Функциональность локальной версии для России](russia-local-functionality.md)  
 

@@ -10,7 +10,7 @@ ms.search.keywords: 'remove, delete'
 ms.date: 06/08/2022
 ms.author: edupont
 ---
-# <a name="unsubscribe-or-remove-" />Отмена подписки или удаление [!INCLUDE[prod_short](includes/prod_short.md)]
+# <a name="unsubscribe-or-remove-"></a>Отмена подписки или удаление [!INCLUDE[prod_short](includes/prod_short.md)]
 
 Если вы хотите прекратить пользоваться [!INCLUDE[prod_short](includes/prod_short.md)], вы можете закрыть свою учетную запись или попросить удалить лицензию из вашей учетной записи. Действия, которые необходимо предпринять, отличаются в зависимости от того, пользуетесь ли вы бесплатной пробной версией или у вас есть подписка.  
 
@@ -23,11 +23,11 @@ ms.author: edupont
 
 Вы можете прочитать о том, как экспортировать данные в Excel в [Экспорт данных в другие финансовые системы](about-export-data.md#exporting-data-to-other-finance-systems). Если вы предпочитаете экспортировать все данные в контейнер хранилища Azure, ваш администратор Microsoft 365 может сделать это в центре администрирования. Для получения дополнительной информации см. [Экспорт баз данных в центре администрирования](/dynamics365/business-central/dev-itpro/administration/tenant-admin-center-database-export).  
 
-## <a name="removing--from-your-app-launcher" />Удаление [!INCLUDE[prod_short](includes/prod_short.md)] из средства запуска приложений
+## <a name="removing--from-your-app-launcher"></a>Удаление [!INCLUDE[prod_short](includes/prod_short.md)] из средства запуска приложений
 
 Если требуется скрыть [!INCLUDE[prod_short](includes/prod_short.md)] из средства запуска приложений, вы можете открепить его. Данные не теряются, и этот шаг не отменяет вашу подписку.  
 
-## <a name="see-also" />См. также
+## <a name="see-also"></a>См. также
 
 [Вопросы и ответы по пробной версии Business Central](trial-faq.md)  
 [Пробные версии и подписки (для администраторов)](/dynamics365/business-central/dev-itpro/administration/trials-subscriptions)  

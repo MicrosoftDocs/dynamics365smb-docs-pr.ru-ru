@@ -9,7 +9,7 @@ ms.reviewer: edupont
 ms.author: soalex
 ---
 
-# <a name="human-resources" />Персонал и зарплата
+# <a name="human-resources"></a>Персонал и зарплата
 
 В этом разделе:
 

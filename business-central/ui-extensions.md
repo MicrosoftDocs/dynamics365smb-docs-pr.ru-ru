@@ -8,11 +8,11 @@ ms.search.form: '2500, 2502, 20350, 20353'
 ms.date: 09/27/2022
 ms.author: edupont
 ---
-# <a name="customizing-business-central-online-with-apps" />Настройка Business Central Online с помощью приложений
+# <a name="customizing-business-central-online-with-apps"></a>Настройка Business Central Online с помощью приложений
 
 Вы можете изменить [!INCLUDE[prod_short](includes/prod_short.md)] интернет-версии за счет установки приложений, которые добавляют функциональность, изменяют поведение или, например, предоставляют доступ к новым интернет-службам. Эти приложения также называются *расширениями*, потому что они *расширяют* [!INCLUDE [prod_short](includes/prod_short.md)].
 
-## <a name="manage-apps" />Управление приложениями
+## <a name="manage-apps"></a>Управление приложениями
 
 [!INCLUDE [2023rw1-sec-group-short](includes/2023rw1-sec-group-short.md)]
 
@@ -49,7 +49,7 @@ ms.author: edupont
 > [!NOTE]  
 > Узнавать о новых приложениях от Microsoft и других поставщиков можно по адресу [AppSource.microsoft.com](https://appsource.microsoft.com/marketplace/apps?product=dynamics-365%3Bdynamics-365-business-central&page=1).
 
-## <a name="apps-and-data-transfer" />Приложения и передача данных
+## <a name="apps-and-data-transfer"></a>Приложения и передача данных
 
 Поскольку следующие приложения взаимодействуют с другими службами, они могут передавать данные за пределы географии среды [!INCLUDE[prod_short](includes/prod_short.md)]:
 
@@ -69,7 +69,7 @@ ms.author: edupont
 * Интернет-карта
 * Служба проверки ИНН в ЕС Служба
 
-## <a name="connect-your-business" />Обмен данными для вашего бизнеса
+## <a name="connect-your-business"></a>Обмен данными для вашего бизнеса
 
 Начиная с волны 2 выпуска 2022 года среды [!INCLUDE [prod_short](includes/prod_short.md)] Online могут перечислить одно или несколько приложений на страницах **Приложения для подключения** и **Банковские приложения**. Эти приложения могут подключить вашу организацию к внешним службам, которые повышают производительность за счет автоматизации процессов. Например, вы можете подключиться к своим банкам и автоматически импортировать банковские транзакции. Приложения легко установить и настроить прямо с этой страницы. Выберите приложение, чтобы узнать больше о возможностях и ценах.  
 
@@ -80,16 +80,16 @@ ms.author: edupont
 
 Эта внешняя служба создаст список соответствующих приложений в зависимости от вашей страны или региона
 
-## <a name="recommended-apps" />Рекомендуемые приложения
+## <a name="recommended-apps"></a>Рекомендуемые приложения
 
 Партнеры и торговые посредники Microsoft могут создавать приложения, которые они могут использовать для составления списков приложений, которые они часто рекомендуют своим клиентам. Если они это сделают и развернут приложение для вашего клиента, приложения будут доступны на странице **Рекомендуемые приложения**. Там вы можете прочитать о каждом приложении и решить, устанавливать ли их.
 
 > [!NOTE]
 > Если вы являетесь партнером или торговым посредником Microsoft и заинтересованы в предоставлении списка рекомендуемых приложений, см. [Рекомендовать приложения из AppSource](/dynamics365/business-central/dev-itpro/administration/recommend-apps) в содержимом по администрированию.
 
-## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/customize-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/customize-dynamics-365-business-central/)
 
-## <a name="see-also" />См. также
+## <a name="see-also"></a>См. также
 
 [Установка и удаление приложений](ui-extensions-install-uninstall.md)  
 [Настройка Business Central](ui-customizing-overview.md)  

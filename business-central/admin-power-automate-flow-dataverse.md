@@ -11,14 +11,14 @@ ms.search.form: null
 ms.date: 09/05/2022
 ms.author: bholtorf
 ---
-# <a name="use-a-power-automate-flow-for-alerts-to-dataverse-entity-changes" />Использование потока Power Automate для оповещений об изменениях сущностей Dataverse
+# <a name="use-a-power-automate-flow-for-alerts-to-dataverse-entity-changes"></a>Использование потока Power Automate для оповещений об изменениях сущностей Dataverse
 
 Администраторы могут создать автоматизированный поток в Power Automate, который уведомляет ваш [!INCLUDE[prod_short](includes/prod_short.md)] об изменениях в записях в вашей организации [!INCLUDE [cds_long_md](includes/cds_long_md.md)].
 
 > [!NOTE]
 > В этой статье предполагается, что вы подключили свою онлайн-версию [!INCLUDE[prod_short](includes/prod_short.md)] с [!INCLUDE [cds_long_md](includes/cds_long_md.md)] и запланированную синхронизацию двух приложений.
 
-## <a name="import-the-flow-template" />Импорт шаблона потока
+## <a name="import-the-flow-template"></a>Импорт шаблона потока
 
 > [!TIP]
 > Чтобы упростить настройку потока, мы создали шаблон, который определит для вас триггер потока и условие потока. Чтобы использовать шаблон, выполните действия, описанные в этом разделе. Чтобы создать поток самостоятельно, пропустите этот раздел и начните с шагов, описанных в разделе [Определение триггера потока](#define-the-flow-trigger).
@@ -30,7 +30,7 @@ ms.author: bholtorf
 3. Выберите шаблон **Уведомить Business Central при изменении учетной записи**.
 4. Далее переходите к шагам из раздела [Уведомить Business Central об изменении](#notify-business-central-about-a-change).
 
-## <a name="define-the-flow-trigger" />Определение триггера потока
+## <a name="define-the-flow-trigger"></a>Определение триггера потока
 
 1. Войдите в [Power Automate](https://flow.microsoft.com).
 2. Создайте автоматический облачный поток, который запускается, когда строка для сущности [!INCLUDE [cds_long_md](includes/cds_long_md.md)] добавляется, изменяется или удаляется. Для получения дополнительной информации см. раздел [Запуск потоков при добавлении, изменении или удалении строки](/power-automate/dataverse/create-update-delete-trigger). В этом примере используется сущность **Учетные записи**. На следующем изображении показаны настройки для первого шага определения триггера потока.
@@ -39,7 +39,7 @@ ms.author: bholtorf
 3. Используйте кнопку **AssistEdit (...)** в правом верхнем углу, чтобы добавить подключение к вашей среде [!INCLUDE [cds_long_md](includes/cds_long_md.md)].
 4. Выберите **Показать дополнительные параметры**, а в поле **Фильтр строк** введите **customertypecode eq 3** или **customertypecode eq 11** и **statecode eq 0**. Эти значения означают, что триггер будет срабатывать только при внесении изменений в активные учетные записи типа **клиент** или **поставщик**.
 
-## <a name="define-the-flow-condition" />Определение условия потока
+## <a name="define-the-flow-condition"></a>Определение условия потока
 
 Данные синхронизируются между [!INCLUDE[prod_short](includes/prod_short.md)] и [!INCLUDE [cds_long_md](includes/cds_long_md.md)] через учетную запись пользователя интеграции. Чтобы игнорировать изменения, внесенные при синхронизации, создайте в своем потоке шаг условия, исключающий изменения, внесенные учетной записью пользователя интеграции.  
 
@@ -58,7 +58,7 @@ ms.author: bholtorf
 
 :::image type="content" source="media/power-automate-flow-dataverse.png" alt-text="Обзор настроек триггера потока и условий":::
 
-## <a name="notify-business-central-about-a-change" />Уведомление Business Central об изменении
+## <a name="notify-business-central-about-a-change"></a>Уведомление Business Central об изменении
 
 Если поток не остановлен условием, вы должны уведомить [!INCLUDE[prod_short](includes/prod_short.md)], что произошло изменение. Для этого используйте соединитель [!INCLUDE[prod_short](includes/prod_short.md)].
 
@@ -84,7 +84,7 @@ ms.author: bholtorf
 2. Использовать API [!INCLUDE[prod_short](includes/prod_short.md)] для вставки записи со значением **учетная запись** для параметра **entityName** в таблице **Изменение элемента Dataverse**. Этот параметр является точным названием сущности Dataverse, для которой создается поток.
 3. [!INCLUDE[prod_short](includes/prod_short.md)] запустит элемент очереди заданий, который синхронизирует клиентов с учетными записями.
 
-## <a name="see-also" />См. также
+## <a name="see-also"></a>См. также
 
 [Использование Business Central в потоках Power Automate](across-how-use-financials-data-source-flow.md)  
 [Настройка автоматизированных рабочих процессов](/business-central/dev-itpro/powerplatform/automate-workflows)  

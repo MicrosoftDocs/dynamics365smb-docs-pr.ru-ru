@@ -11,7 +11,7 @@ ms.search.form: '30, 461'
 ms.date: 04/01/2021
 ms.author: edupont
 ---
-# <a name="setting-up-inventory" />Настройка запасов
+# <a name="setting-up-inventory"></a>Настройка запасов
 Прежде чем приступать к управлению складскими операциями и учетом стоимости товаров, необходимо настроить правила и значения, которые определяют политики запасов в компании.
 
 Вы можете обеспечить лучшее обслуживание клиентов и оптимизировать цепочку поставок, организовав запасы по различным адресам. После этого вы можете закупать, хранить или продавать товары на различных складах и перемещать их между ними.
@@ -32,9 +32,9 @@ ms.author: edupont
 |Одновременный импорт нескольких изображений товаров из ZIP-файла, в котором файлы названы в соответствии с номерами товаров.|[Импорт нескольких изображений товаров](inventory-how-import-item-pictures.md)|
 |Укажите отчеты по умолчанию, которые будут использоваться для различных типов документов.|[Выбор отчета в Business Central](across-report-selections.md)|
 
-## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/paths/trade-get-started-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/paths/trade-get-started-dynamics-365-business-central/)
 
-## <a name="see-also" />См. также
+## <a name="see-also"></a>См. также
 
 [Управление запасами](inventory-manage-inventory.md)  
 [Управление закупками](purchasing-manage-purchasing.md)  

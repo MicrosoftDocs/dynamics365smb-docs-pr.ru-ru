@@ -10,7 +10,7 @@ ms.search.keywords: feature overview
 ms.date: 08/19/2022
 ms.author: edupont
 ---
-# <a name="ad-hoc-data-analysis" />Специальный анализ данных
+# <a name="ad-hoc-data-analysis"></a>Специальный анализ данных
 
 Иногда вам нужно проанализировать данные в [!INCLUDE[prod_short](includes/prod_short.md)] способом, недоступным в стандартном отчете. Эту задачу часто называют "специальным анализом". Ниже приведены ссылки, которые помогут вам узнать, как ее выполнить.
 
@@ -21,7 +21,7 @@ ms.author: edupont
 | Просмотр и анализ данных из набора данных отчета в Excel. | [Сохранение набора данных отчета в Excel со страницы запроса](/dynamics365-release-plan/2021wave1/smb/dynamics365-business-central/save-report-dataset-excel-request-page) |
 | Просматривайте и анализируйте финансовые данные с помощью финансовых отчетов. | [Финансовая аналитика](bi.md) |
 
-## <a name="see-also" />См. также
+## <a name="see-also"></a>См. также
 
 [Обзор бизнес-аналитики и отчетности](ui-work-report.md)
 

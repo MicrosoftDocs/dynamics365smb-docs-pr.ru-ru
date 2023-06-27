@@ -11,7 +11,7 @@ ms.search.form: 253
 ms.date: 09/02/2022
 ms.author: edupont
 ---
-# <a name="sales" />Продажи
+# <a name="sales"></a>Продажи
 
 Счет продажи или заказы на продажу создаются для записи соглашения с клиентом о продаже определенных товаров на определенных условиях доставки и оплаты.
 
@@ -53,7 +53,7 @@ ms.author: edupont
 |Оповещайте своих клиентов о датах доставки заказа путем расчета даты "В наличии" или "Доступно для распределения ".|[Расчет сроков планирования заказов](sales-how-to-calculate-order-promising-dates.md)|
 |Разрешение конфликта, когда две или более записей существуют для одного и того же клиента.|[Объединение повторяющихся записей](sales-how-merge-duplicate-records.md)|
 
-## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/paths/sell-items-services-dynamics-365-business-central/).
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/paths/sell-items-services-dynamics-365-business-central/).
 
 [Настройка продаж](sales-setup-sales.md)  
 [Регистрация новых клиентов](sales-how-register-new-customers.md)  

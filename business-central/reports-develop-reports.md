@@ -12,11 +12,11 @@ ms.date: 02/03/2022
 ms.author: kepontop
 ---
 
-# <a name="developing-business-central-report-layouts-and-datasets" />Разработка макетов отчетов и наборов данных Business Central
+# <a name="developing-business-central-report-layouts-and-datasets"></a>Разработка макетов отчетов и наборов данных Business Central
 
 Отчет в [!INCLUDE[prod_short](includes/prod_short.md)] состоит из объекта отчета, который определяет _набор данных_ отчета (какие данные доступны) и количество _макетов отчетов_ (как представлены данные).  
 
-## <a name="developing-report-layouts" />Разработка макетов отчетов
+## <a name="developing-report-layouts"></a>Разработка макетов отчетов
 
 Возможно, вы хотите изменить существующие макеты отчетов, представленные в [!INCLUDE[prod_short](includes/prod_short.md)]? В зависимости от технологии, используемой для макета, вы можете сделать это самостоятельно (макеты Excel и, возможно, также Word), или, возможно, вам понадобится разработчик (макеты RDLC с идеальной точностью до пикселя).
 
@@ -31,7 +31,7 @@ ms.author: kepontop
 | Чтобы узнать, как изменить макет по умолчанию для отчета. | [Изменение макета по умолчанию](ui-how-change-layout-currently-used-report.md) |
 <!-- | Научиться работать с макетами Excel | [Работа с макетами Excel](ui-how-add-fields-word-report-layout.md) | -->
 
-## <a name="developing-report-datasets" />Разработка наборов данных отчетов
+## <a name="developing-report-datasets"></a>Разработка наборов данных отчетов
 
  Чтобы изменить определения набора данных, которые определяют, какие данные доступны в отчете, вам нужен разработчик, который знает язык программирования AL и инструменты для разработки объектов отчета и расширений отчета.
 
@@ -40,7 +40,7 @@ ms.author: kepontop
 | Узнайте, как программировать отчеты в AL | [Руководство по разработке отчетов](/dynamics365/business-central/dev-itpro/developer/devenv-reports) |
 | Узнайте, как сделать отчеты эффективными | [Руководство по настройке производительности отчетов](/dynamics365/business-central/dev-itpro/performance/performance-developer#writing-efficient-reports) |
 
-## <a name="see-also" />См. также
+## <a name="see-also"></a>См. также
 
 [Обзор бизнес-аналитики и отчетности](reports-use-reports.md)
 

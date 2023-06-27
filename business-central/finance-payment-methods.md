@@ -11,7 +11,7 @@ ms.search.form: 427
 ms.date: 04/01/2021
 ms.author: bholtorf
 ---
-# <a name="set-up-payment-methods" />Настройка способов оплаты
+# <a name="set-up-payment-methods"></a>Настройка способов оплаты
 
 Методы оплаты определяют предпочтительный способ, которым клиенты осуществляют платежи вам, и способ, которым вы хотите платить поставщикам. Метод может меняться для каждого клиента или поставщика. Типичными примерами методов оплаты являются **банк**, **касса**, **чек** или **счет**.
 
@@ -23,7 +23,7 @@ ms.author: bholtorf
 
 > [!Video https://www.microsoft.com/videoplayer/embed/RE476Ys?rel=0]
 
-## <a name="to-set-up-a-payment-method" />Настройка метода оплаты
+## <a name="to-set-up-a-payment-method"></a>Настройка метода оплаты
 
 [!INCLUDE[prod_short](includes/prod_short.md)] обеспечивает несколько способов платежа, которые часто используются организациями. Можно, однако, добавить любое необходимое число.
 
@@ -32,14 +32,14 @@ ms.author: bholtorf
 
 При желании добавьте условия оплаты для вашего способа оплаты. Дополнительные сведения см. в разделе [Настройка условия платежа](finance-payment-terms.md).  
 
-## <a name="to-assign-a-payment-method-to-a-customer-or-vendor" />Присвоение метода платежа клиенту или поставщику
+## <a name="to-assign-a-payment-method-to-a-customer-or-vendor"></a>Присвоение метода платежа клиенту или поставщику
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Клиент** или **Поставщик**, а затем выберите связанную ссылку.
 2. В поле **Код способа оплаты** выберите метод, который будет использоваться по умолчанию для клиента или поставщика.
 
-## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/cash-management-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/cash-management-dynamics-365-business-central/)
 
-## <a name="see-also" />См. также
+## <a name="see-also"></a>См. также
 
 [Регистрация новых клиентов](sales-how-register-new-customers.md)  
 [Настройка условия платежа](finance-payment-terms.md)  

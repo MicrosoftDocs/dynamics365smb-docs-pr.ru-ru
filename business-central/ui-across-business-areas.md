@@ -9,7 +9,7 @@ ms.topic: conceptual
 ms.date: 12/01/2022
 ms.custom: bap-template
 ---
-# <a name="general-business-functionality" />Общие бизнес-функции
+# <a name="general-business-functionality"></a>Общие бизнес-функции
 
 [!INCLUDE[prod_short](includes/prod_short.md)] включает специальные функции для типичных деловых областей компании, таких как управление финансами или продажами. Дополнительные сведения см. в разделе [Функциональные бизнес-возможности](across-business-functionality.md).
 
@@ -45,7 +45,7 @@ ms.custom: bap-template
 | Настройка определений обмена данными, с помощью которых можно будет отправлять и получать электронные документы. |[Электронный обмен данными](across-data-exchange.md) |
 | Используйте онлайн-карты, чтобы найти местоположения и маршруты к клиентам, поставщикам и адресам в целом. | [Использование онлайн-карт для поиска местоположений и составления маршрутов](across-online-maps.md) |
 
-## <a name="see-also" />См. также
+## <a name="see-also"></a>См. также
 
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 [Администрация](admin-setup-and-administration.md)  

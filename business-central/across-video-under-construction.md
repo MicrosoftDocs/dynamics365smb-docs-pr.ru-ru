@@ -11,7 +11,7 @@ ms.date: 06/11/2021
 ms.author: bholtorf
 ---
 
-# <a name="sorry-this-content-is-under-construction" />Извините, этот контент находится в разработке
+# <a name="sorry-this-content-is-under-construction"></a>Извините, этот контент находится в разработке
 
 :::image type="content" source="media/helene/empty illustration_BCdocs.png" alt-text="Прямо сейчас здесь ничего нет." border="false":::
 
@@ -21,7 +21,7 @@ ms.author: bholtorf
 
 Тем не менее, повторите попытку позже, а пока вы можете изучить другие темы на [канале Dynamics 365 в YouTube](https://www.youtube.com/playlist?list=PLcakwueIHoT-wVFPKUtmxlqcG1kJ0oqq4).
 
-## <a name="see-also" />См. также
+## <a name="see-also"></a>См. также
 [Посетите нашу библиотеку видео](across-videos.md)
 
  
