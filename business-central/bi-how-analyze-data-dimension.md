@@ -73,7 +73,7 @@ ms.author: edupont
 > [!NOTE]  
 > Чтобы одновременно изменить некоторые или все аналитические отчеты, воспользуйтесь пакетным заданием **Обновление представлений анализа**.  
 
-## <a name="see-related-training-at-microsoft-learnlearnmodulesdimensions-financial-reports-dynamics-365-business-centralindex" />См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/dimensions-financial-reports-dynamics-365-business-central/index).
+## <a name="see-related-training-at-microsoft-learn" />См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/dimensions-financial-reports-dynamics-365-business-central/index).
 
 ## <a name="see-also" />См. также
 

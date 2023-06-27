@@ -184,7 +184,7 @@ ms.search.form: '103, 104, 108, 195, 196, 197, 198, 489, 490, 764, 765, 766'
 > [!NOTE]
 > При импорте бухгалтерских отчетов существующие записи с теми же именами, что и импортируемые, будут удалены.
 
-## <a name="see-related-microsoft-trainingtrainingmodulesconfigure-financial-reports-dynamics-365-business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/configure-financial-reports-dynamics-365-business-central/index).
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/configure-financial-reports-dynamics-365-business-central/index).
 
 ## <a name="see-also" />См. также
 

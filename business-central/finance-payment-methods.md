@@ -37,7 +37,7 @@ ms.author: bholtorf
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Клиент** или **Поставщик**, а затем выберите связанную ссылку.
 2. В поле **Код способа оплаты** выберите метод, который будет использоваться по умолчанию для клиента или поставщика.
 
-## <a name="see-related-microsoft-trainingtrainingmodulescash-management-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/cash-management-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/cash-management-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

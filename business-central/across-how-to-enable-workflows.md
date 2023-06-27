@@ -22,7 +22,7 @@ ms.author: edupont
 2. Откройте рабочий процесс, который требуется включить.  
 3. На странице **Рабочий процесс** установите значение **Включено**.  
 
-## <a name="see-related-microsoft-trainingtrainingmodulescreate-workflows" />См. соответствующее [обучение Microsoft](/training/modules/create-workflows/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/create-workflows/)
 
 ## <a name="see-also" />См. также
 

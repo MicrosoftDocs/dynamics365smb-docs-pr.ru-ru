@@ -22,7 +22,7 @@ ms.author: jswymer
 > [!IMPORTANT]
 > Локальная версия [!INCLUDE[prod_short](includes/prod_short.md)] может быть подключена только к OneDrive, размещенному Microsoft в облаке. Подключение локальной версии [!INCLUDE[prod_short](includes/prod_short.md)] к репозиторию Мои сайты сервера SharePoint не поддерживается.
 
-## <a name="a-nameregisterapparegister-an-app-in-azure-ad-for-onedrive-integration" /><a name="registerapp"></a>Регистрация приложения в Azure AD для интеграции с OneDrive
+## <a name="register-an-app-in-azure-ad-for-onedrive-integration" /><a name="registerapp"></a>Регистрация приложения в Azure AD для интеграции с OneDrive
 
 В рамках этой задачи вам необходимо добавить зарегистрированное приложение для Business Central в арендатор Azure AD, соответствующий вашему плану Microsoft 365. Как и другие службы Azure, которые работают с Business Central, OneDrive требуется приложение, зарегистрированное в Azure Active Directory (Azure AD). Зарегистрированное приложение предоставляет услуги аутентификации и авторизации между Business Central и SharePoint (SharePoint используется OneDrive).
 
@@ -45,7 +45,7 @@ ms.author: jswymer
 
 - Если вы используете Business Central версии 19 или 20, скопируйте **ИД приложения (клиента)** и **секрет клиента**, используемые зарегистрированным приложением. Эта информация понадобится вам в следующем задании.
 
-## <a name="a-nameurlaget-your-onedrive-url" /><a name="url"></a>Получение URL-адреса OneDrive
+## <a name="get-your-onedrive-url" /><a name="url"></a>Получение URL-адреса OneDrive
 
 [!INCLUDE[onedrive-url](includes/onedrive-url.md)]
 
@@ -74,7 +74,7 @@ ms.author: jswymer
    - Если вы еще не настроили зарегистрированное приложение в Azure AD, откроется мастер **Настройка Azure Active Directory**.
 6. По завершении будет считаться, что все пользователи согласны с уведомлением о конфиденциальности для интеграции с OneDrive. Если вы хотите сделать так, чтобы пользователи соглашались или не соглашались с ним самостоятельно, перейдите на страницу **Статус уведомлений о конфиденциальности** и выберите **Разрешить пользователю решать** для интеграции с OneDrive. В этом случае пользователям будет предлагаться согласиться или не согласиться с уведомлением о конфиденциальности при первом использовании функций OneDrive. Для получения дополнительной информации см. статью [Уведомления о конфиденциальности](privacy-notices-status.md).
 
-## <a name="set-up-the-connection-in-includeprodshortincludesprodshortmd-version-19-and-20" />Настройка подключения в [!INCLUDE[prod_short](includes/prod_short.md)] версий 19 и 20
+## <a name="set-up-the-connection-in--version-19-and-20" />Настройка подключения в [!INCLUDE[prod_short](includes/prod_short.md)] версий 19 и 20
 
 Используйте эту процедуру, если вы используете волну 1 выпуска 2022 года Business Central (версию 20) или волну 2 выпуска 2021 года (версию 19).
 > [!IMPORTANT]
@@ -106,7 +106,7 @@ ms.author: jswymer
 
 Прежде чем приступить к переходу или во время перехода обращайтесь к следующему разделу, чтобы узнать о некоторых аспектах и особенностях, связанных с этим процессом. 
 
-### <a name="a-nameonedrivesetupmigrationaabout-switching-to-the-new-onedrive-integration" /><a name="onedrivesetupmigration"></a>О переходе на новую интеграцию с OneDrive
+### <a name="about-switching-to-the-new-onedrive-integration" /><a name="onedrivesetupmigration"></a>О переходе на новую интеграцию с OneDrive
 
 В дополнение к интеграции с OneDrive Business Central также может интегрироваться с другими службами, такими как Power BI и Универсальная печать. Для интеграции с этими другими службами также требуется зарегистрированное приложение Azure AD для аутентификации. Приложение Azure AD, используемое этими другими службами, настраивается в мастере настройки **Настройка учетных записей Azure Active Directory**. При переходе со старой настройки подключения к SharePoint новый мастер настройки **Настройка OneDrive** изменит интеграцию с OneDrive так, чтобы для нее тоже использовался мастер настройки **Настройка учетных записей Azure Active Directory** &mdash; чтобы для всех интеграций использовалось одно и то же приложение Azure AD.
 

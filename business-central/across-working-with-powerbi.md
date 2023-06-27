@@ -10,7 +10,7 @@ ms.search.keywords: 'account schedule, analysis, reporting, financial report, bu
 ms.date: 04/01/2021
 ms.author: jswymer
 ---
-# <a name="work-with-power-bi-reports-in-include-prodshortincludesprodshortmd" />Работа с отчетами Power BI в [!INCLUDE [prod_short](includes/prod_short.md)]
+# <a name="work-with-power-bi-reports-in-" />Работа с отчетами Power BI в [!INCLUDE [prod_short](includes/prod_short.md)]
 
 В этой статье вы узнаете некоторые основные сведения о просмотре ответов Power BI в [!INCLUDE [prod_short](includes/prod_short.md)].
 
@@ -35,7 +35,7 @@ ms.author: jswymer
 
 Прежде чем вы сможете использовать Power BI с помощью [!INCLUDE[prod_short](includes/prod_short.md)], вам нужно зарегистрироваться в службе Power BI. Если вы еще не зарегистрировались, перейдите на [https://powerbi.microsoft.com](https://powerbi.microsoft.com). При регистрации используйте рабочий адрес электронной почты и пароль.
 
-## <a name="a-nameconnectaconnect-to-power-bi---one-time-only" /><a name="connect"></a>Подключение к Power BI — только один раз
+## <a name="connect-to-power-bi---one-time-only" /><a name="connect"></a>Подключение к Power BI — только один раз
 
 При первом входе в [!INCLUDE [prod_short](includes/prod_short.md)] вы, вероятно, увидите пустую часть Power BI (как показано на предыдущем рисунке) на различных страницах. Первое, что нужно сделать, это подключиться к вашей учетной записи Power BI. После подключения вы можете просматривать отчеты. Вам нужно выполнить этот шаг только один раз.
 
@@ -53,7 +53,7 @@ ms.author: jswymer
 > [!TIP]
 > С [!INCLUDE [prod_short](includes/prod_short.md)] Online этот шаг автоматически отправит отчеты Power BI по умолчанию, используемые в [!INCLUDE [prod_short](includes/prod_short.md)], в вашу рабочую область Power BI.
 
-#### <a name="from-include-prodshortincludesprodshortmd-on-premises" />Из [!INCLUDE [prod_short](includes/prod_short.md)] On-premises
+#### <a name="from--on-premises" />Из [!INCLUDE [prod_short](includes/prod_short.md)] On-premises
 
 Присоединение к Power BI из [!INCLUDE [prod_short](includes/prod_short.md)] похоже на случай Online. Однако вам может быть предложено на странице **РАЗРЕШЕНИЯ СЛУЖБЫ AZURE ACTIVE DIRECTORY** предоставить доступ к службам Power BI. Чтобы предоставить доступ, выберите **Авторизовать службы Azure**, затем **Принять**.
 
@@ -99,7 +99,7 @@ ms.author: jswymer
 > [!NOTE]
 > Эта возможность недоступна с [!INCLUDE [prod_short](includes/prod_short.md)] On-Premises.
 
-### <a name="a-nameuploadaupload-reports" /><a name="upload"></a>Отправка отчетов
+### <a name="upload-reports" /><a name="upload"></a>Отправка отчетов
 
 Отчеты Power BI можно распространять среди пользователей в виде файлов .pbix. Если у вас есть файлы .pbix, вы можете загрузить их и поделиться ими со всеми пользователями [!INCLUDE [prod_short](includes/prod_short.md)]. Отчеты становятся общими внутри каждой организации в [!INCLUDE [prod_short](includes/prod_short.md)].  
 
@@ -126,7 +126,7 @@ ms.author: jswymer
 
 Вероятно, это потому, что в названии отчета нет названия страницы списка. Очистите фильтр, чтобы получить полный список доступных отчетов Power BI.
 
-## <a name="see-related-microsoft-trainingtrainingmodulesconfigure-powerbi-excel-dynamics-365-business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/configure-powerbi-excel-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/configure-powerbi-excel-dynamics-365-business-central/index)
 
 ## <a name="see-also" />См. также
 

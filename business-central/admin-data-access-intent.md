@@ -43,7 +43,7 @@ ms.author: jswymer
     > [!NOTE]
     > Если объект, который можно редактировать, например, карточка клиента, установлен на **Только чтение**, первичная база данных будет по-прежнему использоваться, независимо от цели доступа, что позволяет пользователям вносить изменения в обычном режиме.
 
-## <a name="see-related-microsoft-trainingtrainingpathsdeploy-configure-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/paths/deploy-configure-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/paths/deploy-configure-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 [Функциональные бизнес-возможности](across-business-functionality.md)  
@@ -51,7 +51,7 @@ ms.author: jswymer
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 [Подготовьтесь к ведению бизнеса](ui-get-ready-business.md)    
 
-## <a name="includeprodshortincludesfreetrialmdmd" />[!INCLUDE[prod_short](includes/free_trial_md.md)]
+## [!INCLUDE[prod_short](includes/free_trial_md.md)]
 
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

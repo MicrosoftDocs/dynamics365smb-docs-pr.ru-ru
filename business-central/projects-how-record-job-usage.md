@@ -96,7 +96,7 @@ ms.custom: bap-template
 2. Выберите соответствующий журнал работ, затем выберите действие **Книга операций**.  
 3. На странице **Книга операций по работам** выберите действие **Показать связанные строки планирования работ**.
 
-## <a name="see-related-microsoft-trainingtrainingpathspost-job-usage-sales" />См. соответствующее [обучение Microsoft](/training/paths/post-job-usage-sales/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/paths/post-job-usage-sales/)
 
 ## <a name="see-also" />См. также
 

@@ -51,7 +51,7 @@ ms.custom: bap-template
 
 :::image type="content" source="media/binflow.png" alt-text="Поле кода ячейки в строках компонентов производственного заказа.":::
 
-## <a name="see-related-microsoft-trainingtrainingmodulesconfigure-bins-location" />См. соответствующее [обучение Microsoft](/training/modules/configure-bins-location/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/configure-bins-location/)
 
 ## <a name="see-also" />См. также
 

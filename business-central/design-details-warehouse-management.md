@@ -231,7 +231,7 @@ ms.custom: bap-template
 
 Шаблоны размещения задают набор приоритетных правил, которым необходимо следовать при создании размещений. Например, шаблон размещения может потребовать размещения товаров в ячейке с содержимым ячейки, которая имеет ту же единицу измерения. Если не удается найти аналогичную ячейку с достаточной вместимостью, товар необходимо поместить в пустую ячейку. Шаблон размещения назначается товару и складу.  
 
-## <a name="see-related-microsoft-trainingtrainingmodulesget-started-warehouse-management" />См. соответствующее [обучение Microsoft](/training/modules/get-started-warehouse-management/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/get-started-warehouse-management/)
 
 ## <a name="see-also" />См. также
 
@@ -239,6 +239,6 @@ ms.custom: bap-template
 [Настройка управления складом](warehouse-setup-warehouse.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 
-## <a name="includeprodshortincludesfreetrialmdmd" />[!INCLUDE[prod_short](includes/free_trial_md.md)]
+## [!INCLUDE[prod_short](includes/free_trial_md.md)]
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

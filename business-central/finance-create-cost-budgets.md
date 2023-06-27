@@ -26,7 +26,7 @@ ms.author: edupont
 |См. регистры бюджета затрат и записи бюджета затрат.|Страница **Журналы бюджета расходов**|  
 |Печать сравнений бюджета затрат с использованием различных отчетов.|Отчет **Баланс/Бюджет затрат**<br /><br /> Отчет **Ведомость учета затрат/Бюджет**<br /><br /> отчет **Бюджет затрат по центрам затрат**<br /><br /> Отчет **Бюджет затрат по объектам затрат**|  
 
-## <a name="see-related-microsoft-trainingtrainingmodulescost-accounting-reports-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/cost-accounting-reports-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/cost-accounting-reports-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

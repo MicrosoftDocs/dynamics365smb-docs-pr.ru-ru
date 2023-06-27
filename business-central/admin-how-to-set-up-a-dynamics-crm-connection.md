@@ -29,7 +29,7 @@ ms.author: bholtorf
 > Эти шаги описывают процедуру для [!INCLUDE[prod_short](includes/prod_short.md)] Online.
 > Если вы используете локальную версию [!INCLUDE[prod_short](includes/prod_short.md)] и не используете учетную запись Azure Active Directory для подключения [!INCLUDE [cds_long_md](includes/cds_long_md.md)], вы также должны указать имя пользователя и пароль учетной записи пользователя для интеграции. Эта учетная запись называется учетной записью "пользователя интеграции". Если вы используете учетная запись Azure Active Directory интеграция учетной записи пользователя не требуется или не отображается. Пользователь интеграции будет настроен автоматически и не потребует лицензии.
 
-## <a name="set-up-a-connection-to-includecdslongmdincludescdslongmdmd" />Настройка подключения к [!INCLUDE[cds_long_md](includes/cds_long_md.md)]
+## <a name="set-up-a-connection-to-" />Настройка подключения к [!INCLUDE[cds_long_md](includes/cds_long_md.md)]
 
 Для всех типов аутентификации, отличных от аутентификации Microsoft 365, вы настраиваете подключение к [!INCLUDE[cds_long_md](includes/cds_long_md.md)] на странице **Настройка подключения к Dataverse**. Для аутентификации Microsoft 365 рекомендуется использовать мастер настройки **Настройка подключения Dataverse**. Этот мастер позволяет проще настроить подключение и указать расширенные функции, такие как модель ответственности и начальной синхронизации.  
 
@@ -206,7 +206,7 @@ The following video shows the steps to connect [!INCLUDE[prod_short](includes/pr
    > [!NOTE]
    > Если вам не предлагается войти в систему с учетной записью администратора, возможно, это связано с блокировкой всплывающих окон. Чтобы войти, разрешите всплывающие окна от `https://login.microsoftonline.com`.
 
-### <a name="to-disconnect-from-includecdslongmdincludescdslongmdmd" />Отключение от [!INCLUDE[cds_long_md](includes/cds_long_md.md)]
+### <a name="to-disconnect-from-" />Отключение от [!INCLUDE[cds_long_md](includes/cds_long_md.md)]
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Настройка подключения Dataverse**, а затем выберите связанную ссылку.
 2. На странице **Настройка подключения Dataverse** выключите переключатель **Включено**.  

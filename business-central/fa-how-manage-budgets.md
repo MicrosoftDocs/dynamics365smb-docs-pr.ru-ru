@@ -54,7 +54,7 @@ ms.author: edupont
 4. Оставьте экспресс-вкладку **Основное средство** пустой, если нужно включить все основные средства. В поле **Бюджетируемое ОС** можно ввести **Нет** для исключения бюджетируемых основных средств или **Да** для просмотра только бюджетируемых основных средств.
 5. Нажмите кнопку **Печать** или **Просмотр**.
 
-## <a name="see-related-microsoft-trainingtrainingmodulesbudget-fixed-assets" />См. соответствующее [обучение Microsoft](/training/modules/budget-fixed-assets/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/budget-fixed-assets/)
 
 ## <a name="see-also" />См. также
 

@@ -230,7 +230,7 @@ The following table explains key fields.
 
 Чтобы получить более сжатое представление о ваших денежных счетах в финансовой отчетности, используйте счета **Сумма (от)** и **Сумма (до)** в плане счетов, строки **Группировка** в бухгалтерских или категории счетов ГК. Подробнее см. в разделе [Бизнес-аналитика и финансовая отчетность](bi.md).
 
-## <a name="see-related-microsoft-trainingtrainingmodulescash-management-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/cash-management-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/cash-management-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

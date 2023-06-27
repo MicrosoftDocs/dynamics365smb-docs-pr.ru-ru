@@ -10,7 +10,7 @@ ms.search.form: 'RoleExplorer, 9020, 9022, 9026, 9027, 9030, 9000, 9009, 9004, 9
 ms.date: 06/25/2021
 ms.author: edupont
 ---
-# <a name="work-with-includeprodshortincludesprodshortmd" />Работа с [!INCLUDE[prod_short](includes/prod_short.md)]
+# <a name="work-with-" />Работа с [!INCLUDE[prod_short](includes/prod_short.md)]
 
 При выполнении бизнес-задач приходится производить разнообразные действия с данными, например создавать записи и вводить данные, сортировать и фильтровать данные, создавать заметки и выводить данные в другие приложения.
 
@@ -18,7 +18,7 @@ ms.author: edupont
 
 [!INCLUDE [about-ui-learn](includes/about-ui-learn.md)]
 
-## <a name="a-namecheatsheetatips-and-tricks" /><a name="cheatsheet"></a>Советы и подсказки
+## <a name="tips-and-tricks" /><a name="cheatsheet"></a>Советы и подсказки
 
 > [!TIP]
 > Для удобного для печати обзора наиболее часто используемых функций выберите следующее изображение и скачайте файл PDF.
@@ -80,7 +80,7 @@ ms.author: edupont
 
 Но когда вы открываете ту же страницу списка со своей домашней страницы, действие **Управление** отсутствует. Вместо этого, чтобы открыть отдельный заказ на продажу, вы просто выбираете поле **Номер**. В этом представлении вы не можете закрепить панель действий.  
 
-## <a name="see-related-microsoft-trainingtrainingpathswork-pro-data-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/paths/work-pro-data-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/paths/work-pro-data-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 
@@ -89,7 +89,7 @@ ms.author: edupont
 [Общие бизнес-функции](ui-across-business-areas.md)  
 [Советы по повышению эффективности для бизнес-пользователей](/dynamics365/business-central/dev-itpro/performance/performance-users?toc=/dynamics365/business-central/toc.json)
 
-## <a name="includeprodshortincludesfreetrialmdmd" />[!INCLUDE[prod_short](includes/free_trial_md.md)]
+## [!INCLUDE[prod_short](includes/free_trial_md.md)]
 
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

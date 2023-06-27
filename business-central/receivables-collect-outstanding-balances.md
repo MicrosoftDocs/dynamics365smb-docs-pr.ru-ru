@@ -107,7 +107,7 @@ ms.author: edupont
 
 [!INCLUDE [multiple-interest-rates-def](includes/multiple-interest-rates-def.md)] Дополнительные сведения см. в разделе [Настройка нескольких процентных ставок](finance-how-to-set-up-multiple-interest-rates.md).  
 
-## <a name="see-related-microsoft-trainingtrainingpathsprocess-financial-periodic-activities-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/paths/process-financial-periodic-activities-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/paths/process-financial-periodic-activities-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

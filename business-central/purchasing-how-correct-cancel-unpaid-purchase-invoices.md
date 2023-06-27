@@ -51,7 +51,7 @@ ms.author: edupont
 
 Если отмена связана с частичным учетом счета, то исходная строка заказа на покупку обновляется, чтобы отразить отмененное количество в счете. Поля **Кол-во для выст. счета** и **Выставленное в счете количество** в соответствующей строке заказа на покупку сбрасываются в значения до частичного учета.
 
-## <a name="see-related-microsoft-trainingtrainingmodulesreceive-invoice-dynamics-d365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/receive-invoice-dynamics-d365-business-central/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/receive-invoice-dynamics-d365-business-central/)
 
 ## <a name="see-also" />См. также
 

@@ -28,7 +28,7 @@ ms.author: edupont
 
 Есть несколько функций, которые вы можете использовать для переключения между организациями во время работы, например переключатель организации (<kbd>Ctrl</kbd>+<kbd>O</kbd>). Подробнее см. в статье [Переключение на другую организацию или среду](ui-organization-switch.md).
 
-## <a name="a-namebadgeadisplay-a-company-badge" /><a name="badge"></a>Отображение эмблемы организации
+## <a name="display-a-company-badge" /><a name="badge"></a>Отображение эмблемы организации
 
 При наличии нескольких огранизаций или сред вы увидите переключатель организаций в верхней правой части панели приложения, рядом со значком поиска на панели приложения. По умолчанию для переключателя организаций используется стандартный значок организации, например![значок организации (средство запуска).](media/ui-experience/company-icon.png "Отображает значок переключателя организаций, используемый при наличии одной среды") и ![company-icon-mult-env](media/ui-experience/company-icon-multi-env.png "Отображает значок переключателя организаций, используемый при наличии нескольких сред").
 
@@ -54,7 +54,7 @@ ms.author: edupont
 
 Пользовательский интерфейс по умолчанию в пробной версии [!INCLUDE [prod_short](includes/prod_short.md)] не раскрывает все возможности. Вы можете включить полный интерфейс на странице **Информация об организации**. Дополнительные сведения см. в разделе [Изменение набора отображаемых функций](ui-experiences.md).  
 
-## <a name="see-related-microsoft-trainingtrainingmodulescreate-new-companies-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/create-new-companies-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/create-new-companies-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

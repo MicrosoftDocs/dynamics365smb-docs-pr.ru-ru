@@ -137,7 +137,7 @@ ms.author: edupont
 > [!IMPORTANT]  
 > [!INCLUDE[prod_short](includes/prod_short.md)] использует показатели продаж предыдущих лет для расчета акции стоимостью 1596,50 МВ со ста процентами для пакетов ИТ-ОБОРУДОВАНИЕ. Это означает, что все товары, проданные в прошлом году, будут распределены в объект затрат "ИТ-ОБОРУДОВАНИЕ".
 
-## <a name="see-related-microsoft-trainingtrainingmodulesallocate-costs-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/allocate-costs-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/allocate-costs-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

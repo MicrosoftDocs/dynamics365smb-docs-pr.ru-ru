@@ -98,7 +98,7 @@ ms.author: edupont
 
 В небольшой организации, такой как демонстрационная компания CRONUS, большинство пользователей могут редактировать план счетов, за исключением пользователей с лицензией TEAM MEMBER. Однако в более крупных организациях обычно используются роли и разрешения для ограничения доступа к редактированию плана счетов. Если вы администратор или у вас есть роль *Бизнес-руководитель* или *Бухгалтер*, вы можете управлять разрешениями пользователей, чтобы предоставлять людям доступ к соответствующим таблицам. Подпробнее см. в разделе [Получение обзора разрешений пользователя](ui-define-granular-permissions.md#to-get-an-overview-of-a-users-permissions).  
 
-## <a name="see-related-microsoft-trainingtrainingmodulesbusiness-central-configure-general-ledger-setup" />См. соответствующее [обучение Microsoft](/training/modules/business-central-configure-general-ledger-setup/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/business-central-configure-general-ledger-setup/)
 
 ## <a name="see-also" />См. также
 

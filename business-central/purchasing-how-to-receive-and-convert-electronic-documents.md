@@ -52,7 +52,7 @@ ms.author: edupont
 
     Любые ошибки проверки, обычно связанные с некорректностью или отсутствием данных в [!INCLUDE[prod_short](includes/prod_short.md)], будут представлены на экспресс-вкладке **Сообщения об ошибках**.  
 
-## <a name="see-related-microsoft-trainingtrainingmoduleselectronic-documents-dynamics-365-business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/electronic-documents-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/electronic-documents-dynamics-365-business-central/index)
 
 ## <a name="see-also" />См. также
 

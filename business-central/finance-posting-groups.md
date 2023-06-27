@@ -126,7 +126,7 @@ ms.author: bholtorf
 > [!NOTE]
 > Описанная выше обработка ошибок недоступна для журналов товаров, ресурсов, сотрудников и основных средств, а также для счетов ГК, добавленных в локальные версии учетных групп.
 
-## <a name="see-related-microsoft-trainingtrainingmodulesposting-groups-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/posting-groups-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/posting-groups-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

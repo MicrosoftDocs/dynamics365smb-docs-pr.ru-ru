@@ -64,7 +64,7 @@ r Созданный файл отчета автоматически сохра
 
 Узнайте больше о том, как настроить отчеты и документы в соответствии с потребностями вашего бизнеса, в разделе [Макеты отчетов и документов](ui-manage-report-layouts.md).
 
-## <a name="see-related-training-at-microsoft-learnlearnmoduleswork-with-reports" />См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/work-with-reports/).
+## <a name="see-related-training-at-microsoft-learn" />См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/work-with-reports/).
 
 ## <a name="see-also" />См. также
 

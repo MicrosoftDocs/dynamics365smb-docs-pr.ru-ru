@@ -139,7 +139,7 @@ ms.search.form: '89, 92, 1010'
 
 На странице **Операции книги работ** можно просматривать операции, связанные с любой работой.  
 
-## <a name="find-related-microsoft-trainingtrainingpathscalculate-post-job-wip" />Найдите соответствующее [обучение Microsoft](/training/paths/calculate-post-job-wip/)
+## <a name="find-related-microsoft-training" />Найдите соответствующее [обучение Microsoft](/training/paths/calculate-post-job-wip/)
 
 ## <a name="see-also" />См. также
 

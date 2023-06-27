@@ -55,7 +55,7 @@ ms.author: edupont
 > [!NOTE]  
 >   Номера в кодах журналов выполняют специфическую функцию. Если код шаблона журнала или код раздела журнала содержит номер, то номер автоматически возрастает на единицу при каждом учете журнала. Например, если НН1 вводится в поле **Название**, название журнала будет изменяться на НН2 после того, как журнал с названием НН1 будет учтен.
 
-## <a name="see-related-microsoft-trainingtrainingpathsset-up-fixed-assets-management" />См. соответствующее [обучение Microsoft](/training/paths/set-up-fixed-assets-management/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/paths/set-up-fixed-assets-management/)
 
 ## <a name="see-also" />См. также
 

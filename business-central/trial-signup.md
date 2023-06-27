@@ -38,7 +38,7 @@ Business Central предлагает бесплатную пробную вер
 
 Для получения дополнительной информации о том, что вы можете делать с [!INCLUDE [prod_short](includes/prod_short.md)], прочтите [Подготовьтесь к ведению бизнеса](ui-get-ready-business.md) и [Функциональные бизнес-возможности](across-business-functionality.md).  
 
-## <a name="see-related-microsoft-trainingtrainingmodulestrial-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/trial-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/trial-dynamics-365-business-central/)
 
 ## <a name="additional-resources" />Дополнительные ресурсы
 

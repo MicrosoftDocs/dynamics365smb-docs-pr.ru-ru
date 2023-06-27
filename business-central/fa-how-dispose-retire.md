@@ -45,7 +45,7 @@ ms.author: edupont
 
 Открывается страница **Операции главной книги**, на которой можно просмотреть операции, созданные в результате учета реализации.  
 
-## <a name="see-related-microsoft-trainingtrainingmodulesdispose-fixed-assets" />См. соответствующее [обучение Microsoft](/training/modules/dispose-fixed-assets/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/dispose-fixed-assets/)
 
 ## <a name="see-also" />См. также
 

@@ -132,11 +132,11 @@ ms.author: andreipa
 
 ## <a name="walkthrough-invite-your-customers-to-your-new-online-store" />Пошаговое руководство: приглашение клиентов в новый интернет-магазин
 
-### <a name="scenario" />Сценарий
+### <a name="scenario-1" />Сценарий
 
 После успешного быстрого запуска нового интернет-магазина вам нужно, чтобы ваши текущие клиенты посетили его и начали делать заказы.
 
-### <a name="steps" />Шаги
+### <a name="steps-1" />Шаги
 
 В [!INCLUDE[prod_short](../includes/prod_short.md)] выполните следующие шаги:
 
@@ -148,11 +148,11 @@ ms.author: andreipa
 
 ## <a name="walkthrough-fine-tuning-of-item-management" />Пошаговое руководство: тонкая настройка управления товарами
 
-### <a name="scenario" />Сценарий
+### <a name="scenario-2" />Сценарий
 
 Вы хотели бы добавить больше гибкости и контроля в свои процессы, связанные с управлением товарами. Вы хотите улучшить описание продукта и хотели бы добавить дополнительные этапы проверки, прежде чем продукты станут доступны для конечного клиента.
 
-### <a name="steps" />Шаги
+### <a name="steps-2" />Шаги
 
 В [!INCLUDE[prod_short](../includes/prod_short.md)] выполните следующие шаги:
 
@@ -241,11 +241,11 @@ ms.author: andreipa
 
 ## <a name="walkthrough-import-items-from-shopify" />Пошаговое руководство: импорт товаров из Shopify
 
-### <a name="scenario" />Сценарий
+### <a name="scenario-3" />Сценарий
 
 У вас уже есть успешный интернет-магазин, и вы хотели бы начать использовать [!INCLUDE[prod_short](../includes/prod_short.md)] в качестве программного обеспечения для управления бизнесом. Вам нужно импортировать как можно больше данных из Shopify. 
 
-### <a name="steps" />Шаги
+### <a name="steps-3" />Шаги
 
 Это продолжение [Пошагового руководства: начало продаж товаров в Интернете](walkthrough-setting-up-and-using-shopify.md#walkthrough-start-selling-products-online). Вы также можете попробовать использовать собственные данные, например, свой магазин Shopify или песочницу.
 

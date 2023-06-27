@@ -49,7 +49,7 @@ ms.author: bholtorf
 > [!NOTE]  
 > Пользователи могут просматривать только те учтенные документы, которые относятся к их собственному центру ответственности. Однако они могут просматривать все записи книги и переходить к другим учтенным документам из записей книги.
 
-## <a name="see-related-microsoft-trainingtrainingmodulesset-up-responsibility-centers" />См. соответствующее [обучение Microsoft](/training/modules/set-up-responsibility-centers/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/set-up-responsibility-centers/)
 
 ## <a name="see-also" />См. также
 

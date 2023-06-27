@@ -50,7 +50,7 @@ The resource you are looking for has been removed, had its name changed, or is t
 1. В Microsoft Edge перейдите к пункту **Настройки** > **Файлы cookie и разрешения сайтов** > **Файлы cookie и данные сайта**.
 2. Переместите выключатель **Разрешить сайтам сохранять и читать данные файлов cookie** вправо (Вкл.).  
 
-## <a name="a-namepopupaallow-pop-ups-from-business-central" /><a name="popup"></a>Разрешение всплывающих окон из Business Central
+## <a name="allow-pop-ups-from-business-central" /><a name="popup"></a>Разрешение всплывающих окон из Business Central
 
 [!INCLUDE[prod_short](includes/prod_short.md)] интегрируется с несколькими продуктами. В некоторых случаях, например, с Microsoft Teams, [!INCLUDE[prod_short](includes/prod_short.md)] открывается во всплывающем окне внутри продукта. Эта возможность требует, чтобы ваш браузер разрешал всплывающие окна из [!INCLUDE[prod_short](includes/prod_short.md)].
 

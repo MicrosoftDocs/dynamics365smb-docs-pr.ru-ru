@@ -47,7 +47,7 @@ ms.author: edupont
 
 Вы можете редактировать определенные поля в учтенных документах покупки, такие как **Номер отслеживания посылки** . Дополнительные сведения см. в разделе [Изменение учтенных документов](across-edit-posted-document.md). Для более важных полей, которые влияют на аудиторский след, необходимо выполнить сторнирование или отменить проводку. Дополнительные сведения см. в разделе [Сторнирование учета в журнале и отмена приходных/расходных накладных](finance-how-reverse-journal-posting.md).
 
-## <a name="see-related-microsoft-trainingtrainingmodulesship-invoice-items-dynamics-365-business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/ship-invoice-items-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/ship-invoice-items-dynamics-365-business-central/index)
 
 ## <a name="see-also" />См. также
 

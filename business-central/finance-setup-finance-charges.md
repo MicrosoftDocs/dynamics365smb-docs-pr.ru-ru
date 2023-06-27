@@ -62,7 +62,7 @@ ms.author: edupont
 |%8|Содержимое поля **Код валюты** в заголовке процент-ноты|  
 |%9|Содержимое поля **Дата учета** в заголовке процент-ноты|  
 
-## <a name="see-related-microsoft-trainingtrainingmodulessend-memos-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/send-memos-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/send-memos-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

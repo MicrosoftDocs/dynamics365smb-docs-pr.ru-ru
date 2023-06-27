@@ -58,7 +58,7 @@ ms.search.forms: '5725, 5726, 5732'
 > [!NOTE]  
 > Автоматически создается ссылки товара между номером товара у поставщика и вашим новым номером товара. Чтобы узнать больше о ссылках на товары, перейдите к разделу [Использование ссылок на товары](inventory-how-use-item-cross-refs.md).
 
-## <a name="see-related-microsoft-trainingtrainingmodulescreate-sales-documents-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/create-sales-documents-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/create-sales-documents-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

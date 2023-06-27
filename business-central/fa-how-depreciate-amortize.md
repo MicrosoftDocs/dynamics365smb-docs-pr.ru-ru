@@ -115,7 +115,7 @@ ms.author: edupont
 
 Скопированные строки создаются в журнале ГК учета основных средств или в журнале основных средств в зависимости от того, включена ли интеграция главной книги для копируемого журнала амортизации.  
 
-## <a name="see-related-microsoft-trainingtrainingmodulescalculate-post-depreciations" />См. соответствующее [обучение Microsoft](/training/modules/calculate-post-depreciations/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/calculate-post-depreciations/)
 
 ## <a name="see-also" />См. также
 

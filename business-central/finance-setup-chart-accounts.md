@@ -49,7 +49,7 @@ ms.author: edupont
 
 Установка для поля **Блокировать удаление счетов ГК** значения *Да* можно считать передовой практикой, как и установка даты в поле **Проверять удаление счета ГК с операциями после**, например, до даты, до которой вы должны хранить свои финансовые данные.  
 
-## <a name="see-related-microsoft-trainingtrainingmoduleschart-accounts-dynamics-365-business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/chart-accounts-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/chart-accounts-dynamics-365-business-central/index)
 
 ## <a name="see-also" />См. также
 
@@ -65,6 +65,6 @@ ms.author: edupont
 [Настройка и закрытие сальдо отчета о прибыли и убытках в испанской версии](LocalFunctionality/Spain/how-to-set-up-and-close-income-statement-balances.md)  
 [Создание отступа и проверка плана счетов в испанской версии](LocalFunctionality/Spain/how-to-indent-and-validate-chart-of-accounts.md)  
 
-## <a name="includeprodshortincludesfreetrialmdmd" />[!INCLUDE[prod_short](includes/free_trial_md.md)]
+## [!INCLUDE[prod_short](includes/free_trial_md.md)]
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

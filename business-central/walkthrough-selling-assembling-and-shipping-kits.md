@@ -436,7 +436,7 @@ ms.author: edupont
 
     Когда магазин оборудования осуществляет оплату за приемку 18 ПК из CRONUS, заказ на продажу и связанные с ним сборочные заказы удаляются.  
 
-## <a name="see-related-microsoft-trainingtrainingpathsassemble-items-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/paths/assemble-items-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/paths/assemble-items-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

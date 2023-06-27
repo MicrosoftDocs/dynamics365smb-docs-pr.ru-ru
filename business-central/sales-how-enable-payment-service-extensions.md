@@ -19,7 +19,7 @@ ms.author: edupont
 
 Расширения PayPal Payments Standard и WorldPay Payments Standard установлены в [!INCLUDE[prod_short](includes/prod_short.md)] и готовы к включению.  
 
-## <a name="to-enable-a-payment-service-in-includeprodshortincludesprodshortmd" />Включение службы платежей в [!INCLUDE[prod_short](includes/prod_short.md)]
+## <a name="to-enable-a-payment-service-in-" />Включение службы платежей в [!INCLUDE[prod_short](includes/prod_short.md)]
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Службы платежей**, а затем выберите связанную ссылку.  
 2. На странице **Службы платежей** выберите действие **Создать**.  
@@ -37,7 +37,7 @@ ms.author: edupont
     > [!NOTE]  
     > Поле **Служба платежей** доступно, только если включена служба платежей.  
 
-## <a name="see-related-microsoft-trainingtrainingmodulescash-management-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/cash-management-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/cash-management-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

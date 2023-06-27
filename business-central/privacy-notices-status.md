@@ -11,7 +11,7 @@ ms.author: a-jaaamir
 ms.date: 07/21/2022
 ---
 
-# <a name="privacy-notices-status-in-includeprodlongincludesprodlongmd" />Статус уведомлений о конфиденциальности в [!INCLUDE[prod_long](includes/prod_long.md)]
+# <a name="privacy-notices-status-in-" />Статус уведомлений о конфиденциальности в [!INCLUDE[prod_long](includes/prod_long.md)]
 
 В этой статье обсуждается, что такое уведомление о конфиденциальности, и объясняется предназначение страницы **Статус уведомления о конфиденциальности** в [!INCLUDE[prod_short](includes/prod_short.md)]. Вы также узнаете, как администраторы могут использовать эту страницу.
 

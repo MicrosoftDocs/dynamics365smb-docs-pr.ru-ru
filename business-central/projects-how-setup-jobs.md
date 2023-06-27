@@ -99,7 +99,7 @@ ms.search.form: '211, 463, 1012'
 | **Счет признанных затрат** |Счет затрат, содержащий признанные затраты для работы. Обычно это дебетовый счет затрат. |
 | **Счет признанных продаж** |Счет доходов, содержащий признанный доход для работы. Обычно это кредитовый счет дохода. |
 
-## <a name="see-related-microsoft-trainingtrainingpathsset-up-jobs-resources" />См. соответствующее [обучение Microsoft](/training/paths/set-up-jobs-resources/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/paths/set-up-jobs-resources/)
 
 ## <a name="see-also" />См. также
 

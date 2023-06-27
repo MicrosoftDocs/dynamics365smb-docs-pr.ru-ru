@@ -106,7 +106,7 @@ ms.author: edupont
 
 Себестоимости товаров, которые составляют сборочную спецификацию, копируются из карточек товара компонента. Себестоимость каждого товара умножается на количество, и общая себестоимость отображается в поле **Себестоимость единицы** в карточке товара.
 
-## <a name="see-related-microsoft-trainingtrainingmodulesset-up-assembly-items-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/set-up-assembly-items-dynamics-365-business-central/).
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/set-up-assembly-items-dynamics-365-business-central/).
 
 ## <a name="see-also" />См. также
 

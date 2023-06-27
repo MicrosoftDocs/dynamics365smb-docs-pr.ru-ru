@@ -57,7 +57,7 @@ ms.author: jswymer
 
 * Заполнение налоговых выписок.  
 
-## <a name="see-related-microsoft-trainingtrainingmodulesclose-fiscal-year-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/close-fiscal-year-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/close-fiscal-year-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

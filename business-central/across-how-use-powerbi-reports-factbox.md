@@ -10,7 +10,7 @@ ms.search.keywords: 'business intelligence, KPI, Odata, Power App, SOAP, analysi
 ms.date: 06/11/2021
 ms.author: jswymer
 ---
-# <a name="creating-power-bi-reports-for-displaying-list-data-in-includeprodshortincludesprodshortmd" />Создание отчетов Power BI для отображения данных списка в [!INCLUDE[prod_short](includes/prod_short.md)]
+# <a name="creating-power-bi-reports-for-displaying-list-data-in-" />Создание отчетов Power BI для отображения данных списка в [!INCLUDE[prod_short](includes/prod_short.md)]
 
 [!INCLUDE[prod_long](includes/prod_long.md)] включает элемент управления информационной панели Power BI на многих ключевых страницах списка. Цель этой информационной панели — отображать отчеты Power BI, которые связаны с записями в списках, обеспечивая дополнительное понимание данных. Идея заключается в том, что при перемещении между строками в списке отчет обновляется в соответствии с выбранной операцией.
 
@@ -116,7 +116,7 @@ For more information about getting started, see [Use [!INCLUDE[prod_short](inclu
 
 Проверьте, что отчет имеет размер 325 х 310 пикселей. Сохраните отчет, а затем обновите страницу списка.  
 
-## <a name="see-related-microsoft-trainingtrainingmodulesconfigure-powerbi-excel-dynamics-365-business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/configure-powerbi-excel-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/configure-powerbi-excel-dynamics-365-business-central/index)
 
 ## <a name="see-also" />См. также
 

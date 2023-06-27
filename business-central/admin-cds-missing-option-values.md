@@ -82,7 +82,7 @@ enum 5334 "CDS Payment Terms Code"
 
 Все из перечислений [!INCLUDE[prod_short](includes/prod_short.md)] выше сопоставляются с наборами параметров в [!INCLUDE[prod_short](includes/cds_long_md.md)].
 
-### <a name="extending-option-sets-in-includeprodshortincludesprodshortmd" />Расширение наборов параметров в [!INCLUDE[prod_short](includes/prod_short.md)]
+### <a name="extending-option-sets-in-" />Расширение наборов параметров в [!INCLUDE[prod_short](includes/prod_short.md)]
 1. Создайте новое расширение AL.
 
 2. Добавьте расширение Enum для параметров, которые вы хотите расширить. Убедитесь, что вы используете одно и то же значение. 
@@ -104,7 +104,7 @@ enumextension 50100 "CDS Payment Terms Code Extension" extends "CDS Payment Term
 > [!NOTE]
 > Первые десять символов имен и подписей новых значений параметров должны быть уникальными. Например, два параметра «Перевод 20 рабочих дней» и «Перевод 20 календарных дней» вызовут ошибку, поскольку оба имеют одинаковые первые 10 символов «Перевод 20». Назовите их, например, «TRF20 WD» и «TRF20 CD».
 
-### <a name="update-includeprodshortincludescdslongmdmd-option-mapping" />Обновление сопоставления параметров [!INCLUDE[prod_short](includes/cds_long_md.md)]
+### <a name="update--option-mapping" />Обновление сопоставления параметров [!INCLUDE[prod_short](includes/cds_long_md.md)]
 Теперь вы можете воссоздать сопоставление между параметрами [!INCLUDE[prod_short](includes/cds_long_md.md)] и записями [!INCLUDE[prod_short](includes/prod_short.md)].
 
 На странице **Сопоставление таблиц интеграции** выберите строку для сопоставления **Условия оплаты**, затем выберите действие **Синхронизировать измененные записи**. Страница **Сопоставление параметров Dataverse** обновляется дополнительными записями ниже.

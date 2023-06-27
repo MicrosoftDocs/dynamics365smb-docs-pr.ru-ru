@@ -70,7 +70,7 @@ ms.author: edupont
 | Укажите отчеты по умолчанию, которые будут использоваться для различных типов документов. |[Выбор отчета в Business Central](across-report-selections.md)|
 |Укажите, разрешено ли пользователям принимать к учету счета-фактуры покупки и должны ли они принимать их к учету вместе с отгрузкой. |[Определение политики учета счетов для пользователей](admin-setup-invoice-posting-policy.md)|
 
-## <a name="see-related-training-at-microsoft-learnlearnpathstrade-get-started-dynamics-365-business-central" />См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/trade-get-started-dynamics-365-business-central/).
+## <a name="see-related-training-at-microsoft-learn" />См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/trade-get-started-dynamics-365-business-central/).
 
 ## <a name="see-also" />См. также
 

@@ -37,7 +37,7 @@ Business Central как облачный сервис также получил 
 [Соответствие приложений](compliance-application-compliance.md)  
 [Соответствие служб](compliance-service-compliance.md)  
 
-## <a name="includeprodshortincludesfreetrialmdmd" />[!INCLUDE[prod_short](../includes/free_trial_md.md)]
+## [!INCLUDE[prod_short](../includes/free_trial_md.md)]
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

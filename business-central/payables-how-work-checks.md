@@ -75,7 +75,7 @@ ms.author: edupont
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Банк. счет - сведения о платежных документах**, а затем выберите связанную ссылку.
 2. Установите необходимые фильтры, а затем нажмите кнопку **Предварительный просмотр**.
 
-## <a name="see-related-microsoft-trainingtrainingmodulesuse-checks-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/use-checks-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/use-checks-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

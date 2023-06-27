@@ -79,7 +79,7 @@ ms.author: edupont
 4. На странице **Строки планирования работ** на новой строке заполните требуемые поля.
 5. Повторите шаги 3 и 4 для всех строк планирования, которые необходимы для рабочего задания.
 
-## <a name="see-related-microsoft-trainingtrainingmodulescreate-new-job" />См. соответствующее [обучение Microsoft](/training/modules/create-new-job/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/create-new-job/)
 
 ## <a name="see-also" />См. также
 

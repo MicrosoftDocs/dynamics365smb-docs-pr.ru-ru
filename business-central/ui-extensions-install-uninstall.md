@@ -22,7 +22,7 @@ ms.search.form: '2500, 20350'
 
 Для использования расширения вам должны быть назначены соответствующие наборы разрешений.
 
-## <a name="a-nameinstallainstall-an-extension" /><a name="install"></a>Установка расширения
+## <a name="install-an-extension" /><a name="install"></a>Установка расширения
 
 Управление приложениями и расширениями осуществляется на странице **Управление расширениями**. Эта страница доступна с начальной страницы. Или же выберите значок **Поиск страницы или отчета** ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") в правом верхнем углу введите **Расширение**, а затем выберите соответствующую ссылку.  
 
@@ -103,7 +103,7 @@ ms.search.form: '2500, 20350'
 [Расширения [!INCLUDE[prod_short](includes/prod_short.md)] от других поставщиков](ui-extensions-other.md)  
 [Подготовьтесь к ведению бизнеса](ui-get-ready-business.md)  
 
-## <a name="includeprodshortincludesfreetrialmdmd" />[!INCLUDE[prod_short](includes/free_trial_md.md)]
+## [!INCLUDE[prod_short](includes/free_trial_md.md)]
 
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

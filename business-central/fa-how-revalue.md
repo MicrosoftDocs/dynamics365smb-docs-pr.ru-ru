@@ -114,7 +114,7 @@ ms.author: edupont
 
 *Суммарная амортизация = 100 +15 = +55,54 = 170,54*
 
-## <a name="see-related-microsoft-trainingtrainingpathsmanage-advanced-fixed-assets-transactions" />См. соответствующее [обучение Microsoft](/training/paths/manage-advanced-fixed-assets-transactions/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/paths/manage-advanced-fixed-assets-transactions/)
 
 ## <a name="see-also" />См. также
 

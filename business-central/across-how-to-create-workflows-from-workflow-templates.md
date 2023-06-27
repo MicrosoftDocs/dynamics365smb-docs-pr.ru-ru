@@ -29,7 +29,7 @@ ms.author: edupont
    Откроется страница **Рабочий процесс** для нового рабочего процесса, содержащее всю информацию из выбранного шаблона. Значение в поле **Код** дополняется символами, например "-01", которые указывают, что это первый рабочий процесс, созданный на основе шаблона рабочего процесса.  
 4. Для продолжения создания потока операций измените шаги рабочего процесса или добавьте новые. Дополнительные сведения см. в разделе [Создание рабочих процессов](across-how-to-create-workflows.md).  
 
-## <a name="see-related-microsoft-trainingtrainingmodulescreate-workflows" />См. соответствующее [обучение Microsoft](/training/modules/create-workflows/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/create-workflows/)
 
 ## <a name="see-also" />См. также
 

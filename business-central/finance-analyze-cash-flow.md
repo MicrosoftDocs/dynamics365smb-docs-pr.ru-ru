@@ -42,7 +42,7 @@ ms.author: bholtorf
 2. Выберите прогноз движения денежных средств, а затем щелкните действие **Журнал движения денежных средств**.  
 3. На странице **Журнал движения денежных средств** выберите действие **Предложить строки журнала**.  
 
-## <a name="see-related-microsoft-trainingtrainingmodulesforecast-cash-flow-dynamics-365-business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/forecast-cash-flow-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/forecast-cash-flow-dynamics-365-business-central/index)
 
 ## <a name="see-also" />См. также
 

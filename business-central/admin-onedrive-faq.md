@@ -16,7 +16,7 @@ ms.author: bholtorf
 
 В этой статье даны ответы на некоторые вопросы, которые могут у вас возникнуть по работе с OneDrive и [!INCLUDE [prod_short](includes/prod_short.md)].
 
-## <a name="does-this-work-with-all-includeprodshortincludesprodshortmd-clients" />Это работает со всеми клиентами [!INCLUDE[prod_short](includes/prod_short.md)]?
+## <a name="does-this-work-with-all--clients" />Это работает со всеми клиентами [!INCLUDE[prod_short](includes/prod_short.md)]?
 
 Да. Вы можете открывать файлы в OneDrive в мобильных приложениях [!INCLUDE[prod_short](includes/prod_short.md)] при просмотре сведений карточки в Microsoft Teams или даже из надстройки Outlook.  
 
@@ -24,7 +24,7 @@ ms.author: bholtorf
 
 В рамках подписки на Microsoft 365 ваша организация предоставляет вам OneDrive — файловое хранилище в облаке. OneDrive по умолчанию является частным, где вы упорядочиваете свой контент и выбираете, какими файлами или папками делиться и с кем. SharePoint, с другой стороны, предоставляет файловый репозиторий в облаке, который используется совместно с другими пользователями вашей организации.  
 
-## <a name="does-includeprodshortincludesprodshortmd-support-consumer-onedrive" />Поддерживает ли [!INCLUDE[prod_short](includes/prod_short.md)] OneDrive для потребителей?
+## <a name="does--support-consumer-onedrive" />Поддерживает ли [!INCLUDE[prod_short](includes/prod_short.md)] OneDrive для потребителей?
 
 Кол-во Эта интеграция предназначена исключительно для OneDrive для бизнеса и поддерживает только вашу рабочую учетную запись. 
 
@@ -36,15 +36,15 @@ ms.author: bholtorf
 
 Администраторы могут получить доступ к панели мониторинга работоспособности службы в центре администрирования Microsoft 365. Панель мониторинга включает доступность службы OneDrive. Перейдите на [https://admin.microsoft.com/Adminportal/Home?#/servicehealth](https://admin.microsoft.com/Adminportal/Home?#/servicehealth).
  
-## <a name="is-onedrive-integration-available-to-includeprodshortincludesprodshortmd-on-premises" />Доступна ли интеграция OneDrive для локальной версии [!INCLUDE[prod_short](includes/prod_short.md)]?
+## <a name="is-onedrive-integration-available-to--on-premises" />Доступна ли интеграция OneDrive для локальной версии [!INCLUDE[prod_short](includes/prod_short.md)]?
 
 Да, но в отличие от [!INCLUDE[prod_short](includes/prod_short.md)] Online, требуется дополнительная настройка. Дополнительные сведения см. в разделе [Настройка локальной версии Business Central](admin-onedrive-integration-onpremises.md).  
 
-## <a name="does-includeprodshortincludesprodshortmd-on-premises-connect-with-sharepoint-server" />Подключается ли локальная версия [!INCLUDE[prod_short](includes/prod_short.md)] к серверу SharePoint?
+## <a name="does--on-premises-connect-with-sharepoint-server" />Подключается ли локальная версия [!INCLUDE[prod_short](includes/prod_short.md)] к серверу SharePoint?
 
 № Эта комбинация развертываний не поддерживается, даже если на сервере SharePoint включены "Мои сайты".  
 
-## <a name="does-includeprodshortincludesprodshortmd-online-connect-with-sharepoint-server" />Подключается ли [!INCLUDE[prod_short](includes/prod_short.md)] Online к серверу SharePoint?
+## <a name="does--online-connect-with-sharepoint-server" />Подключается ли [!INCLUDE[prod_short](includes/prod_short.md)] Online к серверу SharePoint?
 
 № Эта комбинация развертываний не поддерживается, даже если на сервере SharePoint включены "Мои сайты".  
 
@@ -56,7 +56,7 @@ ms.author: bholtorf
 
 [!INCLUDE[prod_short](includes/prod_short.md)] не переносит автоматически файлы, открытые ранее в OneDrive, в новую папку. После переименования вашей компании действие Открыть в OneDrive скопирует файлы в папку с новым названием компании.   
 
-## <a name="when-attaching-files-to-includeprodshortincludesprodshortmd-how-do-i-pick-a-file-from-onedrive" />При прикреплении файлов к [!INCLUDE[prod_short](includes/prod_short.md)] как мне выбрать файл из OneDrive?
+## <a name="when-attaching-files-to--how-do-i-pick-a-file-from-onedrive" />При прикреплении файлов к [!INCLUDE[prod_short](includes/prod_short.md)] как мне выбрать файл из OneDrive?
 
 [!INCLUDE[prod_short](includes/prod_short.md)] не предоставляет средства выбора облачных файлов. Вы должны скачать файл из OneDrive на свое устройство, а затем отправить его в [!INCLUDE[prod_short](includes/prod_short.md)]. 
 
@@ -72,11 +72,11 @@ ms.author: bholtorf
 
 Это устаревшая функция, в которой все файлы [!INCLUDE[prod_short](includes/prod_short.md)] от всех пользователей отправляются в одну папку SharePoint. Мы рекомендуем не настраивать экспресс-вкладку «Общие документы» на странице **Настройка подключения к SharePoint**, потому что эта страница [устарела](/dynamics365/business-central/dev-itpro/upgrade/deprecated-features-w1#microsoft-sharepoint-connection-setup) и будет удалена в волне 2 выпуска 2023 года (версии 23.0).  Рекомендуем вместо этого использовать мастер **Настройка OneDrive**.  
 
-## <a name="which-version-of-includeprodshortincludesprodshortmd-supports-onedrive" />Какая версия [!INCLUDE[prod_short](includes/prod_short.md)] поддерживает OneDrive?
+## <a name="which-version-of--supports-onedrive" />Какая версия [!INCLUDE[prod_short](includes/prod_short.md)] поддерживает OneDrive?
 
 Интеграция с OneDrive стала доступна в выпуске 2021 года, волна 2.  
 
-## <a name="a-namefeaturesawhich-features-are-affected-by-onedrive-integration" /><a name="features"></a>На какие функции влияет интеграция с OneDrive?
+## <a name="which-features-are-affected-by-onedrive-integration" /><a name="features"></a>На какие функции влияет интеграция с OneDrive?
 
 В мастере настройки **Настройка OneDrive** для настройки интеграции с OneDrive вы можете включить или отключить функции для обработки файлов Business Central в OneDrive. За эти функции отвечают два параметра:
 

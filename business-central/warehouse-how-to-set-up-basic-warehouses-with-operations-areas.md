@@ -136,7 +136,7 @@ ms.author: edupont
 > [!NOTE]  
 >  Ячейка должна быть пустой, прежде чем выбрать или очистить поле **Специальная**.
 
-## <a name="see-related-microsoft-trainingtrainingmodulesget-started-warehouse-management" />См. соответствующее [обучение Microsoft](/training/modules/get-started-warehouse-management/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/get-started-warehouse-management/)
 
 ## <a name="see-also" />См. также
 

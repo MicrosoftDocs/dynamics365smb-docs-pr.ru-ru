@@ -11,7 +11,7 @@ ms.search.form: '1638, 6702, 6704'
 ms.date: 05/20/2022
 ms.author: edupont
 ---
-# <a name="bulk-invoicing-for-microsoft-bookings-in-includeprodshortincludesprodshortmd" />Пакетное выставление счетов для Microsoft Bookings в [!INCLUDE[prod_short](includes/prod_short.md)]
+# <a name="bulk-invoicing-for-microsoft-bookings-in-" />Пакетное выставление счетов для Microsoft Bookings в [!INCLUDE[prod_short](includes/prod_short.md)]
 
 Если ваша организация использует приложение Bookings в Microsoft 365, вы можете массово выставлять счета для назначений. На странице **Резервирования без выст. счета** в [!INCLUDE[prod_short](includes/prod_short.md)] представлен список завершенных резервирований организации. На этой странице можно быстро выбрать назначения, по которым требуется создать счет, и создать черновики счетов за оказанные услуги.  
 

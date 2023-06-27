@@ -125,7 +125,7 @@ ms.search.forms: '5746, 5745, 5759, 5753, 5743, 5758, 5752, 5744, 5749, 5740, 57
 
 Чтобы завершить корректировку, повторно откройте заказ на перемещение, введите правильное количество и примите заказ к учету. Если вы используете складскую отгрузку для отгрузки заказа, создайте и примите к учету новую складскую отгрузку.
 
-## <a name="see-related-microsoft-trainingtrainingmodulestransfer-items" />См. соответствующее [обучение Microsoft](/training/modules/transfer-items/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/transfer-items/)
 
 ## <a name="see-also" />См. также
 

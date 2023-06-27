@@ -32,6 +32,6 @@ ms.reviewer: jswymer
 
 Мы заботимся о вашей конфиденциальности. Чтобы больше узнать о том, как Майкрософт обрабатывает ваши данные, ознакомьтесь с [заявлением о конфиденциальности Майкрософт](https://go.microsoft.com/fwlink/?linkid=521839).
 
-## <a name="includeprodshortincludesfreetrialmdmd" />[!INCLUDE[prod_short](includes/free_trial_md.md)]
+## [!INCLUDE[prod_short](includes/free_trial_md.md)]
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

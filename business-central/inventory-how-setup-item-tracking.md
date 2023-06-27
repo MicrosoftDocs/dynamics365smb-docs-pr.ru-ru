@@ -109,7 +109,7 @@ ms.author: edupont
 > [!NOTE]
 > Использовать функцию **Изменить в Excel** для создания строк журнала с информацией для трассировки нельзя.
 
-## <a name="see-related-microsoft-trainingtrainingmodulesprepare-item-tracking" />См. соответствующее [обучение Microsoft](/training/modules/prepare-item-tracking/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/prepare-item-tracking/)
 
 ## <a name="see-also" />См. также
 

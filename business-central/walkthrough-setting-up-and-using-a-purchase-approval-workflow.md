@@ -117,7 +117,7 @@ ms.author: edupont
 
 [!INCLUDE[workflow](includes/workflow.md)]
 
-## <a name="see-related-microsoft-trainingtrainingmodulesuse-approval-workflows" />См. соответствующее [обучение Microsoft](/training/modules/use-approval-workflows/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/use-approval-workflows/)
 
 ## <a name="see-also" />См. также
 

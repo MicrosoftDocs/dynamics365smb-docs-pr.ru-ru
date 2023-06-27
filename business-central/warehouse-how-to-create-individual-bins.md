@@ -70,7 +70,7 @@ ms.author: edupont
 
 Повторите процесс для другого набора ячеек, пока не будут созданы все ячейки на складе.  
 
-## <a name="see-related-microsoft-trainingtrainingmodulescreate-new-bins" />См. соответствующее [обучение Microsoft](/training/modules/create-new-bins/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/create-new-bins/)
 
 ## <a name="see-also" />См. также
 

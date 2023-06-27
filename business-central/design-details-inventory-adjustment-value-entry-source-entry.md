@@ -158,7 +158,7 @@ ms.author: edupont
 
 ## <a name="item-charge-scenario" />Сценарий товарных издержек
 
-### <a name="prerequisites" />Предварительные требования
+### <a name="prerequisites-1" />Предварительные требования
 
 Введите одно из следующих значений:
 
@@ -184,7 +184,7 @@ ms.author: edupont
 
 - Разрешить учет по = пусто  
 
-### <a name="to-test-the-scenario" />Для проверки сценария
+### <a name="to-test-the-scenario-1" />Для проверки сценария
 
 Протестируйте этот сценарий, выполнив следующие шаги:
 

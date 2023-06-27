@@ -139,7 +139,7 @@ ms.author: edupont
 
 Таким образом, если часто требуется проводить планирование с учетом требований на складах, рекомендуется использовать функцию "Единицы хранения".
 
-## <a name="see-related-training-at-microsoft-learntrainingpathstrade-get-started-dynamics-365-business-central" />См. соответствующее обучение по адресу [Microsoft Learn](/training/paths/trade-get-started-dynamics-365-business-central/).
+## <a name="see-related-training-at-microsoft-learn" />См. соответствующее обучение по адресу [Microsoft Learn](/training/paths/trade-get-started-dynamics-365-business-central/).
 
 ## <a name="see-also" />См. также
 

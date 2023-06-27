@@ -10,7 +10,7 @@ ms.search.keywords: 'configure, initialize'
 ms.date: 09/27/2022
 ms.author: edupont
 ---
-# <a name="overview-of-tasks-to-set-up-includeprodshortincludesprodshortmd" />Обзор задач по настройке [!INCLUDE[prod_short](includes/prod_short.md)]
+# <a name="overview-of-tasks-to-set-up-" />Обзор задач по настройке [!INCLUDE[prod_short](includes/prod_short.md)]
 
 [!INCLUDE[prod_short](includes/prod_short.md)] содержит стандартные конфигурации для большинства бизнес-процессов, но вы можете изменить их в соответствии с потребностями вашей организации. Статья [Краткое руководство по Business Central](quick-start-business-central.md) поможет вам сделать первые шаги в создании своего собственного [!INCLUDE [prod_short](includes/prod_short.md)]. В этой статье представлен обзор того, как можно настроить [!INCLUDE [prod_short](includes/prod_short.md)] для вашей организации.
 
@@ -79,6 +79,6 @@ ms.author: edupont
 [Подготовка к ведению бизнеса](ui-get-ready-business.md)  
 [Краткое руководство по Business Central](quick-start-business-central.md)  
 
-## <a name="includeprodshortincludesfreetrialmdmd" />[!INCLUDE[prod_short](includes/free_trial_md.md)]
+## [!INCLUDE[prod_short](includes/free_trial_md.md)]
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

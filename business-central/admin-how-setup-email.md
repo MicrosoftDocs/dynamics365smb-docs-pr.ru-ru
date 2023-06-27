@@ -230,7 +230,7 @@ Next, you connect [!INCLUDE[prod_short](includes/prod_short.md)] with Exchange O
 > [!NOTE]
 Если у вас возникли проблемы с использованием протокола SMTP для отправки сообщений электронной почты после подключения [!INCLUDE[prod_short](includes/prod_short.md)] к регистрации вашего приложения, это может быть связано с тем, что проверка подлинности SMTP AUTH не включена для вашего клиента. Мы рекомендуем вместо этого использовать соединители электронной почты Microsoft 365 и Текущий пользователь, поскольку они используют API-интерфейсы Microsoft Graph Mail. Однако, если вам необходимо использовать протокол SMTP, вы можете включить SMTP AUTH. Дополнительные сведения см. в разделе [Включение или отключение отправки для аутентифицированного клиента SMTP (SMTP AUTH) в Exchange Online](/exchange/clients-and-mobile-in-exchange-online/authenticated-client-smtp-submission#disable-smtp-auth-in-your-organization).
 
-### <a name="connect-includeprodshortincludesprodshortmd-to-your-app-registration" />Подключение [!INCLUDE[prod_short](includes/prod_short.md)] к регистрации приложения
+### <a name="connect--to-your-app-registration" />Подключение [!INCLUDE[prod_short](includes/prod_short.md)] к регистрации приложения
 
 После регистрации приложения на портале Azure в [!INCLUDE[prod_short](includes/prod_short.md)] используйте страницу **Регистрация AAD приложения электронной почты** для подключения [!INCLUDE[prod_short](includes/prod_short.md)] к нему.
 
@@ -263,7 +263,7 @@ Next, you connect [!INCLUDE[prod_short](includes/prod_short.md)] with Exchange O
 
 -->
 
-## <a name="see-related-microsoft-trainingtrainingmodulesset-up-email" />См. соответствующее [обучение Microsoft](/training/modules/set-up-email/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/set-up-email/)
 
 ## <a name="see-also" />См. также
 

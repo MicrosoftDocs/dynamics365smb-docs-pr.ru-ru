@@ -31,7 +31,7 @@ ms.author: edupont
 
 Если нужная запись входящего документа отсутствует на странице **Входящие документы**, ее можно создать. Дополнительные сведения см. в разделе [Создание записей входящих документов](across-how-create-income-document-records.md).
 
-## <a name="see-related-microsoft-trainingtrainingmodulesincoming-documents-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/incoming-documents-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/incoming-documents-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

@@ -16,7 +16,7 @@ ms.author: edupont
 
 [!INCLUDE [finance-currencies-lcy](includes/finance-currencies-lcy-note.md)]
 
-## <a name="a-namecurracurrencies" /><a name="curr"></a>Валюты
+## <a name="currencies" /><a name="curr"></a>Валюты
 
 В следующей таблице описываются другие поля в списке **Валюты**.
 
@@ -111,7 +111,7 @@ ms.author: edupont
 
 [!INCLUDE [finance-currencies-example](includes/finance-currencies-example.md)]
 
-## <a name="see-related-microsoft-trainingtrainingmodulescurrencies-exchange-rates-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/currencies-exchange-rates-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/currencies-exchange-rates-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

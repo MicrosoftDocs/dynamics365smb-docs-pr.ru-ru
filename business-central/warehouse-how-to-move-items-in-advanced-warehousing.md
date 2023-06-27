@@ -138,7 +138,7 @@ ms.search.form: '7351,'
 2. Заполните поля **Номер товара**, **Из кода зоны**, **Из кода ячейки**, **В код зоны** и **В код ячейки**.  
 3. Выберите действие **Регистр**.  
 
-## <a name="see-related-microsoft-trainingtrainingmodulesmanage-internal-warehouse-processes" />См. соответствующее [обучение Microsoft](/training/modules/manage-internal-warehouse-processes/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/manage-internal-warehouse-processes/)
 
 ## <a name="see-also" />См. также
 

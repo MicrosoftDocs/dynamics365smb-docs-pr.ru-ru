@@ -80,7 +80,7 @@ ms.author: edupont
 [Миграция данных QuickBooks](ui-extensions-quickbooks-data-migration.md)  
 [Импорт нескольких изображений товаров](inventory-how-import-item-pictures.md)
 
-## <a name="includeprodshortincludesfreetrialmdmd" />[!INCLUDE[prod_short](includes/free_trial_md.md)]
+## [!INCLUDE[prod_short](includes/free_trial_md.md)]
 
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

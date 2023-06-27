@@ -51,7 +51,7 @@ ms.search.form: '900, 901, 902, 903, 904, 907, 910, 916, 920, 921, 922, 923, 940
 |Узнайте, как работать со сборочными спецификациями, и в чем заключаются их основные отличия от производственных спецификаций.|[Работа со сборочными спецификациями](assembly-how-work-assembly-boms.md)|
 |Узнайте о учете потребления и выпуска при сборке а также о том, как [!INCLUDE [prod_short](includes/prod_short.md)] распределяет затраты на товар и ресурсы в главной книге.|[Сведения о проектировании: учет заказа на сборку](design-details-assembly-order-posting.md)|  
 
-## <a name="see-related-microsoft-trainingtrainingpathsassemble-items-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/paths/assemble-items-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/paths/assemble-items-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 
@@ -63,6 +63,6 @@ ms.search.form: '900, 901, 902, 903, 904, 907, 910, 916, 920, 921, 922, 923, 940
 <!-- [Walkthrough: Selling, Assembling, and Shipping Kits](walkthrough-selling-assembling-and-shipping-kits.md)   -->
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 
-## <a name="includeprodshortincludesfreetrialmdmd" />[!INCLUDE[prod_short](includes/free_trial_md.md)]
+## [!INCLUDE[prod_short](includes/free_trial_md.md)]
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

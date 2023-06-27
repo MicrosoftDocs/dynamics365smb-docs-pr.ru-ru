@@ -64,7 +64,7 @@ ms.author: edupont
 | Просмотр экземпляров шагов рабочего процесса со статусом **Завершено**. | [Просмотр архивированных экземпляров шагов рабочих процессов](across-how-to-view-archived-workflow-step-instances.md) |
 | Удаление рабочего процесса утверждения, про который известно, что он больше не будет использоваться. | [Удаление рабочих процессов утверждения](across-how-to-delete-workflows.md) |
 
-## <a name="see-related-microsoft-trainingtrainingmodulescreate-workflows" />См. соответствующее [обучение Microsoft](/training/modules/create-workflows/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/create-workflows/)
 
 ## <a name="see-also" />См. также
 

@@ -56,7 +56,7 @@ ms.author: edupont
 
     Вставляется сервисная строка с типом **Себестоимость** с начальным сбором. Начальный сбор будет применен к выбранному сервисному товару.
 
-## <a name="see-related-microsoft-trainingtrainingmodulescreate-items" />См. соответствующее [обучение Microsoft](/training/modules/create-items/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/create-items/)
 
 ## <a name="see-also" />См. также
 

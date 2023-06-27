@@ -37,7 +37,7 @@ ms.author: jswymer
 > [!NOTE]  
 >  Невозможно изменить встроенные макеты отчетов<!--Onprem. Built-in layouts can only be modified by using the development environment-->.  
 
-### <a name="a-nameopenxmlparta-to-open-the-custom-xml-part-for-the-report-in-word" /><a name="OpenXMLPart"></a> Открытие пользовательской части XML для отчета в Word
+### <a name="to-open-the-custom-xml-part-for-the-report-in-word" /><a name="OpenXMLPart"></a> Открытие пользовательской части XML для отчета в Word
   
 1. Если это еще не сделано, откройте макет отчета Word в Word.  
   
@@ -103,7 +103,7 @@ ms.author: jswymer
   
 3. Чтобы увеличить или уменьшить размер изображения, перетащите маркер размера по направлению к центру элемента управления содержимым или от него.  
 
-## <a name="a-nameremovefielda-removing-label-and-data-fields" /><a name="RemoveField"></a> Удаление полей меток и данных
+## <a name="removing-label-and-data-fields" /><a name="RemoveField"></a> Удаление полей меток и данных
 
 Поля меток и данных отчета содержатся в элементах управления содержимым в Word. На следующем рисунке показан элемент управления содержимым при выборе в документе Word.  
 

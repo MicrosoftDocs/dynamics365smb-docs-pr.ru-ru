@@ -78,7 +78,7 @@ ms.author: edupont
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок **Просроченные запросы утверждения**, а затем выберите связанную ссылку.
 2. На странице **Просроченные запросы утверждения** выберите действие **Отправить уведомления о просроченном утверждении**.
 
-## <a name="see-related-microsoft-trainingtrainingmodulesuse-approval-workflows" />См. соответствующее [обучение Microsoft](/training/modules/use-approval-workflows/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/use-approval-workflows/)
 
 ## <a name="see-also" />См. также
 

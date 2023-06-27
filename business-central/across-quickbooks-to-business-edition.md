@@ -31,7 +31,7 @@ ms.author: bholtorf
 
 Если вы готовы начать прямо сейчас, выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Мастер настройки**, а затем выберите связанную ссылку. Выберите **Миграция бизнес-данных**, затем выполните шаги в руководстве.
 
-## <a name="see-related-microsoft-trainingtrainingmodulesmigrate-data-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/migrate-data-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/migrate-data-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

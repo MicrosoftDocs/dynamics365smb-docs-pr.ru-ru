@@ -33,7 +33,7 @@ ms.author: bholtorf
 1. На странице **Определение обмена данными** опишите форматирование строк и столбцов в файле. Подробнее см. в разделе [Описание форматирования строк и столбцов в файле](#formatlinescolumns).  
 2. На странице **Сопоставление обмена данными** сопоставьте столбцы в файле данных с полями в [!INCLUDE[prod_short](includes/prod_short.md)]. Подробнее см. в разделе [Сопоставление столбцов в файле данных с полями в [!INCLUDE[prod_short](includes/prod_short.md)]](#mapfields).  
 
-### <a name="a-nameformatlinescolumnsato-describe-the-formatting-of-lines-and-columns-in-the-file" /><a name=formatlinescolumns></a>Описание форматирования строк и столбцов в файле
+### <a name="to-describe-the-formatting-of-lines-and-columns-in-the-file" /><a name=formatlinescolumns></a>Описание форматирования строк и столбцов в файле
 
 1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать 1.](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Определения обмена данными**, а затем выберите соответствующую ссылку.  
 2. Выберите действие **Создать**.  
@@ -108,7 +108,7 @@ ms.author: bholtorf
 > [!NOTE]  
 > Конкретное сопоставление зависит от коммерческого назначения обмениваемого файла данных и от местных вариаций. Даже банковский стандарт SEPA отличается в зависимости от региона. [!INCLUDE[prod_short](includes/prod_short.md)] изначально поддерживает импорт файлов банковских выписок SEPA в формате CAMT. Он представлен кодом записи определения обмена данными **SEPA CAMT** на странице **Определения обмена данными**. Информацию о сопоставлении конкретных полей данной поддержки SEPA CAMT см. в разделе [Сопоставление полей при импорте файлов SEPA CAMT](across-field-mapping-when-importing-sepa-camt-files.md).  
 
-### <a name="a-namemapfieldsato-map-columns-in-the-data-file-to-fields-in-includeprodshortincludesprodshortmd" /><a name=mapfields></a>Сопоставление столбцов в файле данных с полями в [!INCLUDE[prod_short](includes/prod_short.md)]
+### <a name="to-map-columns-in-the-data-file-to-fields-in-" /><a name=mapfields></a>Сопоставление столбцов в файле данных с полями в [!INCLUDE[prod_short](includes/prod_short.md)]
 
 > [!TIP]
 > Иногда значения в полях, которые, вы хотите сопоставить, различаются. Например, в одном бизнес-приложении код языка для США — "U.S.", а в другом "US." Это означает, что вы должны преобразовать значение при обмене данными. Это происходит через правила преобразования, которые вы определяете для полей. Подробнее см. в статье [Правила преобразования](across-how-to-set-up-data-exchange-definitions.md#transformation-rules).

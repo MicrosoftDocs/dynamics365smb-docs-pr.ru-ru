@@ -25,7 +25,7 @@ ms.author: edupont
 
 Менеджера можно использовать для различных работ по управлению и маркетингу. Например, можно назначить задачи менеджерам по продажам, чтобы задачи были связаны с возможностями продаж, назначенными конкретному менеджеру. Дополнительные сведения см. в разделе [Настройка циклов продаж и этапов циклов](marketing-how-setup-opportunity-sales-cycles-stages.md).
 
-## <a name="see-related-microsoft-trainingtrainingmodulestrade-master-data-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/trade-master-data-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/trade-master-data-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

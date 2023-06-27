@@ -60,7 +60,7 @@ ms.author: edupont
 3. На экспресс-вкладке **Параметры** заполните поля соответствующим образом, чтобы определить, что должно отображаться в таблице.  
 4. На экспресс-вкладке **Строки** наведите указатель мыши на поле в таблице, чтобы прочитать краткое описание отображаемой суммы.  
 
-## <a name="see-related-training-at-microsoft-learnlearnmodulesbudgets-exchange-rates-dynamics-365-business-centralindex" />См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/budgets-exchange-rates-dynamics-365-business-central/index).
+## <a name="see-related-training-at-microsoft-learn" />См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/budgets-exchange-rates-dynamics-365-business-central/index).
 
 ## <a name="see-also" />См. также
 

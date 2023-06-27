@@ -53,7 +53,7 @@ ms.service: dynamics365-business-central
 
 **Изменить в Excel:** Для использования надстройки Excel для внесения изменений в Excel и оправки этих изменений обратно в [!INCLUDE[prod_short](includes/prod_short.md)] необходимо иметь Excel 2019 или более поздней версии. Дополнительные сведения см. в разделе [Анализ финансовых выписок в Microsoft Excel](finance-analyze-excel.md).  
 
-## <a name="a-nametaca-using-the-business-central-administration-center" /><a name="TAC"></a> Использование центра администрирования Business Central
+## <a name="using-the-business-central-administration-center" /><a name="TAC"></a> Использование центра администрирования Business Central
 
 Центр администрирования предназначен для работы с текущей версией следующих браузеров:
 

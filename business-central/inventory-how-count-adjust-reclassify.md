@@ -202,7 +202,7 @@ The item’s inventory is adjusted. The new quantity is shown in the **Quantity 
 5. Выберите **ОК**. Подводится итог положительной и отрицательной коррекции для каждого товара и создаются строки в журнале товаров.  
 6. Выполните учет строк журнала, чтобы ввести разницу в количестве в книгу товарных операций. Запасы в ячейках и в книге товаров теперь совпадают.  
 
-## <a name="see-related-microsoft-trainingtrainingmodulesadjust-inventory" />См. соответствующее [обучение Microsoft](/training/modules/adjust-inventory/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/adjust-inventory/)
 
 ## <a name="see-also" />См. также
 

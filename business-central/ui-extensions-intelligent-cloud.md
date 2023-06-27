@@ -17,7 +17,7 @@ ms.author: edupont
 
 После настройки подключения вы можете перенести данные из локального решения в [!INCLUDE[prod_short](includes/prod_short.md)] Online. Это расширение будет работать совместно с расширением репликации данных, доступным для вашего конкретного локального решения. Дополнительно см. в разделе [Запуск инструмента облачной миграции](/dynamics365/business-central/dev-itpro/administration/migration-tool).  
 
-## <a name="see-related-microsoft-trainingtrainingmodulesconnect-intelligent-cloud-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/connect-intelligent-cloud-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/connect-intelligent-cloud-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

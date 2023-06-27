@@ -8,11 +8,11 @@ ms.search.keywords: null
 ms.date: 06/25/2021
 ms.author: soalex
 ---
-# Отправка оповещений о специальных нормативных функциях для страны или региона
+# <a name="submit-alerts-about-countryregion-specific-regulatory-features" />Отправка оповещений о специальных нормативных функциях для страны или региона
 
 Приглашаем вас использовать Microsoft Dynamics Lifecycle Services (LCS) для отправки нормативных оповещений через сервис отправки нормативных оповещений Dynamics.  
 
-## Для отправки нормативного оповещения в LCS
+## <a name="to-submit-a-regulatory-alert-in-lcs" />Для отправки нормативного оповещения в LCS
 
 1. Перейдите в [https://lcs.dynamics.com](https://lcs.dynamics.com) и выполните вход  
 
@@ -65,7 +65,7 @@ ms.author: soalex
 
       После отправки оповещения вы получите подтверждение, что оповещение успешно отправлено в корпорацию Майкрософт.
 
-## См. также
+## <a name="see-also" />См. также
 
 [Локальная функциональность в [!INCLUDE[prod_long](includes/prod_long.md)]](about-localization.md)  
 [Изменение языка и языкового стандарта](about-locale-language.md)  

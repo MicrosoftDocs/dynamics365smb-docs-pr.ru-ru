@@ -82,7 +82,7 @@ ms.author: edupont
     |**Задолженность**|Поле **Сумма задолженности** в карточке клиента установлен, и выводится предупреждение, если у клиента имеется просроченная задолженность.|
     |**Без предупреждения**|Нет отображаемых кредитных предупреждений относительно статуса клиента.|
 
-## <a name="see-related-microsoft-trainingtrainingmodulestrade-master-data-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/trade-master-data-dynamics-365-business-central/).
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/trade-master-data-dynamics-365-business-central/).
 
 ## <a name="see-also" />См. также
 

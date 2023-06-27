@@ -92,7 +92,7 @@ ms.author: edupont
 
 Выбранный номер будет использоваться для заполнения поля **Номер** в карточке или документе согласно настройкам, выполненным в строке серии номеров.  
 
-## <a name="see-related-microsoft-trainingtrainingmodulesnumber-series-trail-codes-dynamics-365-business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/number-series-trail-codes-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/number-series-trail-codes-dynamics-365-business-central/index)
 
 ## <a name="see-also" />См. также
 

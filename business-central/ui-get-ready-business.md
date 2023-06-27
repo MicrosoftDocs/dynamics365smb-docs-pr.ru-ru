@@ -71,7 +71,7 @@ ms.author: edupont
 
 [!INCLUDE [ua-get-help](includes/ua-get-help.md)] Дополнительные сведения см. в разделе [Ресурсы по Справке и поддержке](product-help-and-support.md).  
 
-### <a name="set-up-your-company-in-includeprodshortincludesprodshortmd" />Настройка компании в [!INCLUDE[prod_short](includes/prod_short.md)]
+### <a name="set-up-your-company-in-" />Настройка компании в [!INCLUDE[prod_short](includes/prod_short.md)]
 
 Статьи [краткого руководства](quick-start-business-central.md) могут помочь вам сделать первые шаги в настройке [!INCLUDE [prod_short](includes/prod_short.md)] для своей организации. В [!INCLUDE [prod_short](includes/prod_short.md)] на странице **Мастер настройки** перечислены руководства мастера настройки, которые могут вам помочь. В зависимости от вашей роли, страны или региона, на этой странице приводятся различные руководства по настройке, как показано в следующей таблице:
 
@@ -112,6 +112,6 @@ ms.author: edupont
 [Миграция данных](/dynamics365/business-central/dev-itpro/administration/migrate-data)  
 [Пробные версии и подписки](/dynamics365/business-central/dev-itpro/administration/trials-subscriptions)  
 
-## <a name="includeprodshortincludesfreetrialmdmd" />[!INCLUDE[prod_short](includes/free_trial_md.md)]
+## [!INCLUDE[prod_short](includes/free_trial_md.md)]
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

@@ -11,7 +11,7 @@ ms.search.form: null
 ms.date: 06/11/2021
 ms.author: edupont
 ---
-# <a name="local-functionality-in-includeprodlongincludesprodlongmd" />Локальная функциональность в [!INCLUDE[prod_long](includes/prod_long.md)]
+# <a name="local-functionality-in-" />Локальная функциональность в [!INCLUDE[prod_long](includes/prod_long.md)]
 
 [!INCLUDE[prod_short](includes/prod_short.md)] предлагает стратегию объединенной локализации, включая модели под управлением Майкрософт и партнеров. В этом разделе представлены описания функций, применимых к странам, в которых корпорация Майкрософт обеспечивает соблюдение нормативных требований, и других локальных функций.  
 

@@ -174,7 +174,7 @@ ms.search.forms: '9330, 931, 990008, 89, 900, 902'
 
 :::image type="content" source="media/binflow.png" alt-text="Обзор времени и порядка заполнения поля &quot;Код ячейки&quot;":::
 
-## <a name="see-related-microsoft-trainingtrainingpathspick-ship-items-business-central" />См. соответствующее [обучение Microsoft](/training/paths/pick-ship-items-business-central/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/paths/pick-ship-items-business-central/)
 
 ## <a name="see-also" />См. также
 

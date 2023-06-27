@@ -10,7 +10,7 @@ audience: null
 ms.author: a-jaaamir
 ms.date: 06/09/2022
 ---
-# <a name="database-missing-indexes-in-includeprodlongincludesprodlongmd" />Отсутствующие индексы базы данных в [!INCLUDE[prod_long](includes/prod_long.md)]
+# <a name="database-missing-indexes-in-" />Отсутствующие индексы базы данных в [!INCLUDE[prod_long](includes/prod_long.md)]
 
 Администраторы и разработчики могут сделать базу данных более эффективной и, в конечном счете, повысить производительность приложения, используя информацию, извлеченную функцией **Индексы, отсутствующие в базе данных** в [!INCLUDE[prod_short](includes/prod_short.md)].
 

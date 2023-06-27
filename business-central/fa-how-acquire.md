@@ -99,7 +99,7 @@ ms.author: edupont
 > [!NOTE]
 > Если для основного средства существует ликвидационная стоимость, то это значение будет использоваться при учете амортизации вместо значения в поле **Конечная балансовая стоимость** на странице **Книги амортизации ОС**. Для получения дополнительной информации см. [Управление конечной балансовой стоимостью](fa-how-depreciate-amortize.md#to-manage-the-ending-book-value).
 
-## <a name="see-related-microsoft-trainingtrainingmodulespurchase-fixed-assets" />См. соответствующее [обучение Microsoft](/training/modules/purchase-fixed-assets/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/purchase-fixed-assets/)
 
 ## <a name="see-also" />См. также
 

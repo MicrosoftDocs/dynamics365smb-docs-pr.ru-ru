@@ -93,7 +93,7 @@ ms.search.form: '672, 673, 674, 671'
 
 Дополнительные сведения о планировании см. в разделе [Планирование выполнения отчета](ui-work-report.md#ScheduleReport)
 
-### <a name="schedule-synchronization-between-includeprodshortincludesprodshortmd-and-includeprodshortincludescdslongmdmd" />Планирование синхронизации между [!INCLUDE[prod_short](includes/prod_short.md)] и [!INCLUDE[prod_short](includes/cds_long_md.md)]
+### <a name="schedule-synchronization-between--and-includeprod_short" />Планирование синхронизации между [!INCLUDE[prod_short](includes/prod_short.md)] и [!INCLUDE[prod_short](includes/cds_long_md.md)]
 
 Если вы интегрировали [!INCLUDE[prod_short](includes/prod_short.md)] с [!INCLUDE[prod_short](includes/cds_long_md.md)], очередь заданий позволяет запланировать синхронизацию данных. В зависимости от направления и правил, которые вы определили, задание в очереди может создавать записи в одном приложении для соответствия записям в другом. Хороший пример — при регистрации контакта в [!INCLUDE[crm_md](includes/crm_md.md)] задание в очереди может автоматически настроить контакт в [!INCLUDE[prod_short](includes/prod_short.md)]. Дополнительные сведения о планировании см. в разделе [Планирование синхронизации между Business Central и Dynamics 365 Sales](admin-scheduled-synchronization-using-the-synchronization-job-queue-entries.md).
 

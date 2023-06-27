@@ -115,7 +115,7 @@ ms.search.form: '7335, 7337, 7339, 7340, 7341, 7362, 9008'
 >
 > Количество сборки на заказ обрабатывается, как описано в этой статье. Количество запасов обрабатывается как обычная строка складской отгрузки. Дополнительные сведения о сценариях комбинаций см. в разделе [Сборка для заказа и сборка на склад](assembly-assemble-to-order-or-assemble-to-stock.md).
 
-## <a name="see-related-microsoft-trainingtrainingmodulesship-invoice-items-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/ship-invoice-items-dynamics-365-business-central/).
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/ship-invoice-items-dynamics-365-business-central/).
 
 ## <a name="see-also" />См. также
 

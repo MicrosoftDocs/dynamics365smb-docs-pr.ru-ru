@@ -39,7 +39,7 @@ ms.author: edupont
 |Просмотрите ожидаемый доступный запас товара различными способами и определите полные потребности, плановые поступления по заказу и другие события, влияющие на него с течением времени.|[Просмотр наличия товара](inventory-how-availability-overview.md)|  
 <!--|Выполнение выбранных действий планирования, таких как изменение или добавление строк журнала планирования, в графическом представлении плана поставки.|[Изменение предложений по планированию в графическом виде](production-how-to-modify-planning-suggestions-in-a-graphical-view.md)|-->
 
-## <a name="see-related-microsoft-trainingtrainingmodulesplan-items-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/plan-items-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/plan-items-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 
@@ -51,7 +51,7 @@ ms.author: edupont
 [Рекомендации по настройке. Планирование поставок](setup-best-practices-supply-planning.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
 
-## <a name="includeprodshortincludesfreetrialmdmd" />[!INCLUDE[prod_short](includes/free_trial_md.md)]
+## [!INCLUDE[prod_short](includes/free_trial_md.md)]
 
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

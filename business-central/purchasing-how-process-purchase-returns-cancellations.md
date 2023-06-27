@@ -181,7 +181,7 @@ ms.author: edupont
 2. Заполните поля, как требуется, и нажмите кнопку **ОК**.  
 3. В качестве альтернативы удалите отдельные заказы на возврат покупки вручную.
 
-## <a name="see-related-microsoft-trainingtrainingpathsreturn-items-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/paths/return-items-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/paths/return-items-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 [Покупки](purchasing-manage-purchasing.md)  

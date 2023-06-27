@@ -123,7 +123,7 @@ The following sections describe how you can enter dates, times, datetimes, durat
 |в 23|Вторник недели 23 года рабочей даты|
 |в-1|Вторник недели 1 года рабочей даты|
 
-## <a name="a-namebkmksettingdaterangesa-setting-ranges" /><a name="BKMK_SettingDateRanges"></a> Диапазоны дат
+## <a name="setting-ranges" /><a name="BKMK_SettingDateRanges"></a> Диапазоны дат
 
 В списках, итогах и отчетах можно установить фильтры по датам, времени и дате и времени, содержащие начальное значение и, необязательно, конечное значение для отображения только данных, содержащихся в данном диапазоне. При установке диапазонов дат следует руководствоваться стандартными правилами.
 
@@ -222,7 +222,7 @@ You can also combine the various format types.
 
 Note that we have used the US date format MMDDYY here. As [!INCLUDE[prod_short](includes/prod_short.md)] becomes available in other markets, you'll be able to use the formats that you are used to.
 
-## <a name="use-date-formulas" />Use Date Formulas
+## <a name="use-date-formulas-1" />Use Date Formulas
 A date formula is a short, abbreviated combination of letters and numbers that specifies how to calculate dates. You can enter date formulas in various date calculation fields and in recurring frequency fields in recurring journals.
 
 > [!NOTE]
@@ -345,7 +345,7 @@ The following example shows how you can use a minus sign to indicate a date in t
 
 Например, если по умолчанию используются часы, число 5 будет преобразовано в 5 часов.
 
-## <a name="see-related-microsoft-trainingtrainingmodulesexplore-modify-info-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/explore-modify-info-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/explore-modify-info-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

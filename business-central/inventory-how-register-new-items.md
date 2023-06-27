@@ -115,7 +115,7 @@ ms.author: edupont
 
 Примеры использования полей на экспресс-вкладке **Планирование** прочитайте [Рекомендации по настройке. Параметры планирования](setup-best-practices-planning-parameters.md).  
 
-## <a name="see-related-microsoft-trainingtrainingmodulescreate-items" />См. соответствующее [обучение Microsoft](/training/modules/create-items/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/create-items/)
 
 ## <a name="see-also" />См. также
 

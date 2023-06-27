@@ -96,7 +96,7 @@ ms.search.form: '900, 901, 902, 903, 904, 907, 910, 916, 920, 921, 922, 923, 940
 * Минимальное количество, которое можно ввести — 1. Вам необходимо собрать как минимум одну единицу, чтобы иметь возможность продать четыре единицы с учетом того, что оставшиеся три имеются в запасах.  
 * Максимальное количество, которое можно ввести — 4. Это ограничение гарантирует, что вы не соберете больше предмета, чем вам нужно для продажи.  
 
-## <a name="see-related-microsoft-trainingtrainingpathsassemble-items-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/paths/assemble-items-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/paths/assemble-items-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

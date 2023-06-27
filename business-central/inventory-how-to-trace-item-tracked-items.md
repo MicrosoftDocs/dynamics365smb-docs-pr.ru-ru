@@ -59,7 +59,7 @@ ms.author: edupont
 3. В полях **Серийный номер** и **Номер партии** введите номера трассировки товара, которые нужно трассировать.  
 4. Выберите действие **Найти** для обнаружения всех экземпляров серийного номера или номера партии в базе данных.  
 
-## <a name="see-related-microsoft-trainingtrainingmodulesprepare-item-tracking" />См. соответствующее [обучение Microsoft](/training/modules/prepare-item-tracking/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/prepare-item-tracking/)
 
 ## <a name="see-also" />См. также
 

@@ -111,7 +111,7 @@ ms.search.forms: '7335, 7339, 7345,'
 
 Теперь вы можете доставить товары в отгрузочный отсек и учесть отгрузку, включая соответствующий исходный документ, на странице **Складская отгрузка**. Подробнее см. в разделе [Отгрузка товаров](warehouse-how-ship-items.md).
 
-## <a name="see-related-microsoft-trainingtrainingmodulespick-ship-items-warehouse" />См. соответствующее [обучение Microsoft](/training/modules/pick-ship-items-warehouse/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/pick-ship-items-warehouse/)
 
 ## <a name="see-also" />См. также
 

@@ -22,7 +22,7 @@ ms.search.form: '7328, 7348'
 5. Включите переключатель **По умолчанию**, чтобы указать, что это единственный склад, где сотрудник может выполнять складские действия.  
 6. Повторите эти шаги, чтобы назначить складам других работников или назначить другие склады существующим работникам склада.  
 
-## <a name="see-related-microsoft-trainingtrainingmodulesget-started-warehouse-management" />См. соответствующее [обучение Microsoft](/training/modules/get-started-warehouse-management/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/get-started-warehouse-management/)
 
 ## <a name="see-also" />См. также
 

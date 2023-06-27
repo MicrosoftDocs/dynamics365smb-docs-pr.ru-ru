@@ -47,7 +47,7 @@ ms.author: edupont
 
 > [!Video https://www.microsoft.com/en-us/videoplayer/embed/RE4AegS?rel=0]
 
-## <a name="see-related-microsoft-trainingtrainingpathsmanage-fixed-assets-transactions" />См. соответствующее [обучение Microsoft](/training/paths/manage-fixed-assets-transactions/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/paths/manage-fixed-assets-transactions/)
 
 ## <a name="see-also" />См. также
 
@@ -57,7 +57,7 @@ ms.author: edupont
 [Подготовьтесь к ведению бизнеса](ui-get-ready-business.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
 
-## <a name="includeprodshortincludesfreetrialmdmd" />[!INCLUDE[prod_short](includes/free_trial_md.md)]
+## [!INCLUDE[prod_short](includes/free_trial_md.md)]
  
 
 

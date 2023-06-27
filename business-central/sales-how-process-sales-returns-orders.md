@@ -95,7 +95,7 @@ ms.author: edupont
 
 При учете возврата плата за пополнение складских запасов добавляется к соответствующей сумме продажи. Таким образом будет поддерживаться точная оценка запасов.  
 
-## <a name="see-related-microsoft-trainingtrainingpathsreturn-items-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/paths/return-items-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/paths/return-items-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

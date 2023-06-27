@@ -75,7 +75,7 @@ ms.author: edupont
 
 Товары на странице **Товары** фильтруются по указанным значениям атрибутов товаров.
 
-## <a name="see-related-microsoft-trainingtrainingmodulestrade-master-data-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/trade-master-data-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/trade-master-data-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

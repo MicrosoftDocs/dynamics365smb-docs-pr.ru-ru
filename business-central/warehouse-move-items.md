@@ -36,7 +36,7 @@ ms.search.form: '7315, 7349, 7351, 7382, 7384, 7386, 7387, 7399, 7400, 9314, 933
 |Используйте журнал складского перемещения, внутренний подбор и размещение для перемещения товаров в расширенных настройках складов с расширенным подбором и размещением.|[Перемещение товаров в расширенных конфигурациях склада](warehouse-how-to-move-items-in-advanced-warehousing.md)|  
 |Реструктуризация склада с введением новых кодов и характеристик ячеек и, возможно, их перемещением.|[Изменение структуры складов](warehouse-how-to-restructure-warehouses.md)|  
 
-## <a name="see-related-microsoft-trainingtrainingmodulesmanage-internal-warehouse-processes" />См. соответствующее [обучение Microsoft](/training/modules/manage-internal-warehouse-processes/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/manage-internal-warehouse-processes/)
 
 ## <a name="see-also" />См. также
 

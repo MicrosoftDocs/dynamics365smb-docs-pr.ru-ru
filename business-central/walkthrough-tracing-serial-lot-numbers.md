@@ -297,7 +297,7 @@ ms.author: bholtorf
 
  На этом пошаговое руководство по использованию страницы **Найти операции** для управления процессом выявления и устранения дефектов при интеграции со страницей **Трассировка товаров** завершается.  
 
-## <a name="see-related-microsoft-trainingtrainingpathsuse-serial-lot-numbers" />См. соответствующее [обучение Microsoft](/training/paths/use-serial-lot-numbers/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/paths/use-serial-lot-numbers/)
 
 ## <a name="see-also" />См. также
 

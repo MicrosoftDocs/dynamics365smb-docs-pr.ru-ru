@@ -120,7 +120,7 @@ ms.author: edupont
 
 Поля на экспресс-вкладке **Финансовые сведения** на странице **Входящий документ** будут обновлены с внесением новых значений, введенных на шаге 4.
 
-## <a name="see-related-microsoft-trainingtrainingmodulesincoming-documents-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/incoming-documents-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/incoming-documents-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

@@ -121,7 +121,7 @@ ms.author: bholtorf
 
 Перед использованием веб-службы прогноза [!INCLUDE[prod_short](includes/prod_short.md)] сжимает транзакции по полю **Дата документа** на основе значения в поле **Тип периода** на странице **Настройка движения денежных средств**.
 
-## <a name="a-nameanchortextacreate-and-use-your-own-predictive-web-service-for-cash-flow-forecasts" /><a name="AnchorText"></a>Создание собственной веб-службы прогнозирования для прогнозов движения денежных средств
+## <a name="create-and-use-your-own-predictive-web-service-for-cash-flow-forecasts" /><a name="AnchorText"></a>Создание собственной веб-службы прогнозирования для прогнозов движения денежных средств
 
 Также можно создать собственную веб-службу прогнозирования, основанную на общедоступной модели под названием **Модель прогнозирования для Microsoft Business Central**. Эта прогнозная модель доступна в Интернете в Коллекции решений ИИ Azure. Чтобы использовать эту модель, выполните следующие шаги:  
 
@@ -134,7 +134,7 @@ ms.author: bholtorf
 7. Разверните экспресс-вкладку **ИИ Azure**, затем заполните поля, включая URL-адрес API и ключ API, предоставленные студией машинного обучения Azure. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 8. В ролевом центре бухгалтера выберите действие **Пересчитать прогноз** на диаграмме **Прогноз движения денежных средств**.
 
-## <a name="see-related-microsoft-trainingtrainingmodulesforecast-cash-flow-dynamics-365-business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/forecast-cash-flow-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/forecast-cash-flow-dynamics-365-business-central/index)
 
 ## <a name="see-also" />См. также
 

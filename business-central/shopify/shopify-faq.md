@@ -55,7 +55,7 @@ Shopify — это приложение на основе подписки, к�
 
 ## <a name="what-support-is-offered-for-the-shopify-connector" />Какая поддержка предлагается для соединителя Shopify?
 
-### <a name="includeprodshortincludesprodshortmd" />[!INCLUDE[prod_short](../includes/prod_short.md)]
+### [!INCLUDE[prod_short](../includes/prod_short.md)]
 
 Соединитель Shopify покрывается текущей моделью поддержки. Дополнительные сведения см. в разделе [Техническая поддержка](/dynamics365/business-central/dev-itpro/administration//manage-technical-support) (только на английском языке).
 

@@ -25,7 +25,7 @@ ms.author: bholtorf
 > [!NOTE]
 > При повторном подключении через [!INCLUDE[prod_short](includes/cds_long_md.md)] применяются настройки синхронизации по умолчанию и перезаписываются все ваши конфигурации. Например, будут применены сопоставления таблиц по умолчанию.
 
-## <a name="integration-settings-that-are-specific-to-a-includecrmmdincludescrmmdmd-integration" />Параметры интеграции, специфичные для интеграции [!INCLUDE[crm_md](includes/crm_md.md)]
+## <a name="integration-settings-that-are-specific-to-a--integration" />Параметры интеграции, специфичные для интеграции [!INCLUDE[crm_md](includes/crm_md.md)]
 Интеграция с [!INCLUDE[prod_short](includes/prod_short.md)] происходит через [!INCLUDE[prod_short](includes/cds_long_md.md)], предусмотрено множество стандартных настроек и таблиц. В дополнение к стандартным настройкам, есть некоторые, которые являются специфическими для [!INCLUDE[crm_md](includes/crm_md.md)]. Настройки перечислены в следующих разделах.
 
 ## <a name="permissions-and-security-roles-for-user-accounts-in-sales" />Разрешения и роли безопасности для учетных записей пользователей в Sales

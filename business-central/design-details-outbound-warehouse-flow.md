@@ -83,7 +83,7 @@ ms.custom: bap-template
 
 :::image type="content" source="media/design_details_warehouse_management_outbound_advanced_flow.png" alt-text="Показывает этапы базового исходящего потока на складе.":::
 
-### <a name="1-release-a-source-document" />1. Выпуск исходного документа
+### <a name="1-release-a-source-document-1" />1. Выпуск исходного документа
 
 Выпуск исходного документа в расширенных конфигурациях делает то же самое, что и в базовых конфигурациях. Товары становятся доступными для обработки на складе. Например, они могут быть включены в отгрузку.  
 

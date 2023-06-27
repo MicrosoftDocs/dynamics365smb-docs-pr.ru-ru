@@ -10,7 +10,7 @@ ms.search.keywords: 'account schedule, analysis, reporting, financial report, bu
 ms.date: 04/01/2021
 ms.author: jswymer
 ---
-# <a name="use-the-include-prodshortincludesprodshortmd-apps-in-power-bi" />Использование приложений [!INCLUDE [prod_short](includes/prod_short.md)] в Power BI
+# <a name="use-the--apps-in-power-bi" />Использование приложений [!INCLUDE [prod_short](includes/prod_short.md)] в Power BI
 
 > **ОТНОСИТСЯ К:** [!INCLUDE [prod_long](includes/prod_long.md)] Online 
 
@@ -51,7 +51,7 @@ ms.author: jswymer
 
 Подпишитесь на службу Power BI. Если вы еще не зарегистрировались, перейдите на [https://powerbi.microsoft.com](https://powerbi.microsoft.com). При регистрации используйте рабочий адрес электронной почты и пароль.
 
-## <a name="install-a-includeprodshortincludesprodshortmd-app-in-power-bi" />Установка приложения [!INCLUDE[prod_short](includes/prod_short.md)] в Power BI
+## <a name="install-a--app-in-power-bi" />Установка приложения [!INCLUDE[prod_short](includes/prod_short.md)] в Power BI
 
 1. Откройте браузер, перейдите по адресу [https://powerbi.microsoft.com](https://powerbi.microsoft.com) и войдите в свою учетную запись.
 2. Выберите **Получить данные** в нижней части левой панели навигации.  
@@ -69,7 +69,7 @@ ms.author: jswymer
 
     По завершении приложение будет доступно в пункте **Приложения** в меню навигации в Power BI.
 
-## <a name="connect-the-includeprodshortincludesprodshortmd-app-to-your-data" />Подключение приложения [!INCLUDE[prod_short](includes/prod_short.md)] к вашим данным
+## <a name="connect-the--app-to-your-data" />Подключение приложения [!INCLUDE[prod_short](includes/prod_short.md)] к вашим данным
 
 1. В пункте **Приложения** выберите приложение Business Central, затем **Подключить**.
 2. При появлении запроса заполните поля **Название компании** и **Среда** сведениями об экземпляре [!INCLUDE[prod_short](includes/prod_short.md)], к которому хотите подключиться.
@@ -96,7 +96,7 @@ ms.author: jswymer
 
 Это сообщение появляется, если отчет по умолчанию не удалось развернуть на вашей рабочей области Power BI. Или отчет развернут, но не был успешно обновлен. В случае этой проблемы перейдите к отчету в своей рабочей области Power BI, выберите **Набор данных**, **Настройки**, а затем вручную обновите учетные данные. После успешного обновления набора данных вернитесь в [!INCLUDE[prod_short](includes/prod_short.md)] и вручную выберите отчет на странице **Выбрать отчеты**.
 
-### <a name="you-need-a-power-bi-pro-license-to-install-the-includeprodshortincludesprodshortmd-app-in-power-bi" />Вам необходима лицензия Power BI Pro для установки приложения [!INCLUDE[prod_short](includes/prod_short.md)] в Power BI
+### <a name="you-need-a-power-bi-pro-license-to-install-the--app-in-power-bi" />Вам необходима лицензия Power BI Pro для установки приложения [!INCLUDE[prod_short](includes/prod_short.md)] в Power BI
 
 Вам требуется [лицензия Power BI Pro](/power-bi/service-features-license-type), чтобы делиться своим контентом, и людям, с которыми вы им делитесь, тоже. Контент должен находиться в рабочей области с [премиум-емкостью](/power-bi/service-premium-what-is). Дополнительные сведения см. в разделе [Способы поделиться своей работой в Power BI](/power-bi/service-how-to-collaborate-distribute-dashboards-reports).  
 
@@ -144,7 +144,7 @@ ms.author: jswymer
 - [Выберите плитку](/power-bi/service-dashboard-tiles), чтобы открыть основной отчет.  
 - По умолчанию ваш набор данных не запланирован для обновления. Вы можете изменить расписание обновления или попробовать обновить его по требованию, используя **Обновить сейчас**. Дополнительные сведения см. в разделе [Настройка графика обновления](/power-bi/refresh-scheduled-refresh).
 
-## <a name="see-related-microsoft-trainingtrainingmodulesconfigure-powerbi-excel-dynamics-365-business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/configure-powerbi-excel-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/configure-powerbi-excel-dynamics-365-business-central/index)
 
 ## <a name="see-also" />См. также
 

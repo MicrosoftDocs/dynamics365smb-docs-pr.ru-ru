@@ -74,7 +74,7 @@ ms.author: edupont
 3. На странице **Цены ресурсов** заполните требуемые поля в строке.
 4. Повторите шаг 3 для каждой альтернативной цены ресурса, которую необходимо настроить.
 
-## <a name="see-related-microsoft-trainingtrainingpathsset-up-jobs-resources" />См. соответствующее [обучение Microsoft](/training/paths/set-up-jobs-resources/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/paths/set-up-jobs-resources/)
 
 ## <a name="see-also" />См. также
 

@@ -29,7 +29,7 @@ ms.author: edupont
 2. Откройте соответствующую карточку поставщика для поставщика, которому необходимо назначить менеджера.
 3. В поле **Код менеджера** выберите соответствующий код менеджера, затем закройте страницу.
 
-## <a name="see-related-microsoft-trainingtrainingmodulestrade-master-data-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/trade-master-data-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/trade-master-data-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

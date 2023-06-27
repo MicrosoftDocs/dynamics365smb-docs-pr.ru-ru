@@ -17,7 +17,7 @@ ms.author: jswymer
 
 [!INCLUDE [about-ui-learn](includes/about-ui-learn.md)]
 
-## <a name="a-namerole-centerarole" /><a name="role-center"></a>Роль
+## <a name="role" /><a name="role-center"></a>Роль
 
 Роль определяет начальную страницу — начальный экран, разработанный в соответствии с задачами конкретной роли в организации. В зависимости от вашей роли, домашняя страница или ролевой центр позволяет вам получить общее представление о компании, подразделении или ваших личных задачах. Он также помогает переходить к вашим ежедневным задачам и находить работу, которая вам назначена.
 
@@ -33,7 +33,7 @@ ms.author: jswymer
 2. На странице **Мои настройки** в поле **Роль** выберите роль, которую вы хотите использовать по умолчанию. Например, выберите **Бухгалтер**.
 3. Выберите **ОК**.
 
-## <a name="a-namecompanyacompany" /><a name="company"></a>Компания
+## <a name="company" /><a name="company"></a>Компания
 
 Организация выполняет роль контейнера данных в [!INCLUDE[prod_short](includes/prod_short.md)]. В базе данных может быть несколько организаций, но одновременно можно выбрать только одну из них. Организация по умолчанию называется CRONUS и содержит только демонстрационные данные.
 
@@ -53,7 +53,7 @@ The company name is always displayed at the top left corner and works as an acti
 2. In the **Name** field, enter the new company name.
 3. Leave the page. The system restarts and displays the new company in the top-left corner.
 
-### <a name="a-namebadgeato-display-a-company-badge-for-quick-access-to-company-information" /><a name="badge"></a>To display a company badge for quick access to company information
+### <a name="to-display-a-company-badge-for-quick-access-to-company-information" /><a name="badge"></a>To display a company badge for quick access to company information
 
 You can add a customized badge in the top-right corner, which you can choose to quickly view company name and tenant information in a pop-up box. The company badge is also useful when [!INCLUDE[prod_short](includes/prod_short.md)] is embedded in another application, like Microsoft Teams or in some other web application. In these cases, because the [!INCLUDE[web_client](includes/web_client.md)] displays less surrounding contextual information, the company badge serves as the only way to determine which company or environment a record belongs to.
 
@@ -63,7 +63,7 @@ You can add a customized badge in the top-right corner, which you can choose to 
 > [!NOTE]
 > If a company badge is defined, then you cannot change the company name as described in [To change the company name](ui-change-basic-settings.md#to-change-the-company-name)-->
 
-## <a name="a-namework-dateawork-date" /><a name="work-date"></a>Рабочая дата
+## <a name="work-date" /><a name="work-date"></a>Рабочая дата
 
 Чаще всего в качестве рабочей даты используется сегодняшняя дата. Для выполнения таких задач, как проведение транзакций на определенную дату, отличную от текущей, может возникнуть потребность временно изменить рабочую дату.
 
@@ -83,11 +83,11 @@ You can add a customized badge in the top-right corner, which you can choose to 
 
 Если рабочая дата не установлена на текущий день (сегодня), то на всех страницах, в на которых возможно редактирование даты, текущая рабочая дата отображается в левом верхнем углу.
 
-## <a name="a-nameregiona-region" /><a name="region"></a> Регион
+## <a name="region" /><a name="region"></a> Регион
 
 Настройка **Регион** определяет способ отображения или форматирования дат, времени, чисел и валюты. Он также определяет, какой символ используется в качестве десятичного разделителя при использовании цифровой клавиатуры для ввода данных. Узнайте больше в разделе [Ввод данных](ui-enter-data.md#decimal).
 
-## <a name="a-namelanguagea-language" /><a name="language"></a> Язык
+## <a name="language" /><a name="language"></a> Язык
 
 Позволяет изменить язык отображения. Это поле отображается только в случае, когда для выбора доступно несколько языков.
 
@@ -107,7 +107,7 @@ You can add a customized badge in the top-right corner, which you can choose to 
 
 [!INCLUDE [ua-teachingtips](includes/ua-teachingtips.md)]
 
-## <a name="see-related-microsoft-trainingtrainingmodulespersonalize-ui-dynamics-365-business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/personalize-ui-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/personalize-ui-dynamics-365-business-central/index)
 
 ## <a name="see-also" />См. также
 

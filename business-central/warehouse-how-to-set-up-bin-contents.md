@@ -49,7 +49,7 @@ ms.author: edupont
 
 В данном журнале вы работаете с несколькими строками содержимого ячейки для нескольких ячеек и, следовательно, получаете хороший обзор того, что помещается в различные ячейки в данной зоне, пролете или ряду.  
 
-## <a name="see-related-microsoft-trainingtrainingmodulesset-up-zones-bins" />См. соответствующее [обучение Microsoft](/training/modules/set-up-zones-bins/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/set-up-zones-bins/)
 
 ## <a name="see-also" />См. также
 

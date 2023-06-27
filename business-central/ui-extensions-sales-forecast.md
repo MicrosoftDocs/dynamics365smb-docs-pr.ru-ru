@@ -59,7 +59,7 @@ ms.author: edupont
 6. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Настройка прогноза продаж и запасов**, а затем выберите связанную ссылку.  
 7. Разверните экспресс-вкладку **Общие**, затем заполните поля URL-адреса API и кода API.  
 
-## <a name="see-related-microsoft-trainingtrainingmodulesuse-sales-inventory-forecast-extension" />См. соответствующее [обучение Microsoft](/training/modules/use-sales-inventory-forecast-extension/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/use-sales-inventory-forecast-extension/)
 
 ## <a name="see-also" />См. также
 

@@ -88,7 +88,7 @@ ms.author: edupont
 > [!NOTE]  
 > Нельзя изменить код пользователя, утверждающего табели, если имеются табели, которые еще не были обработаны и имеют статус **Отправлено** или **Открыто**.
 
-## <a name="see-related-microsoft-trainingtrainingpathsset-up-jobs-resources" />См. соответствующее [обучение Microsoft](/training/paths/set-up-jobs-resources/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/paths/set-up-jobs-resources/)
 
 ## <a name="see-also" />См. также
 

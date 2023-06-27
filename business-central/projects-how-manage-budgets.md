@@ -17,7 +17,7 @@ ms.author: edupont
 
 Следующая процедура показывает, как оценить бюджетные затраты во время планирования. Информацию о регистрации бюджетных и фактических цен и затрат для работ см. в разделе [Регистрация потребления для работ](projects-how-record-job-usage.md).  
 
-## <a name="a-namejobbudgetcostsa-to-estimate-the-budgeted-costs-for-a-job" /><a name="JobBudgetCosts"></a> Оценка бюджетных затрат для работы
+## <a name="to-estimate-the-budgeted-costs-for-a-job" /><a name="JobBudgetCosts"></a> Оценка бюджетных затрат для работы
 Когда клиент хочет знать цену работы, накладная по которой будет выставлена на основе потребления, необходимо определить бюджетные затраты на работу. Для этого используйте страницу **Строки задач по работе**.
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Работы**, а затем выберите связанную ссылку.  
@@ -43,7 +43,7 @@ ms.author: edupont
 
 Информацию о регистрации бюджетных и фактических цен и затрат для работ см. в разделе [Регистрация потребления для работ](projects-how-record-job-usage.md).
 
-## <a name="see-related-microsoft-trainingtrainingmodulesset-up-job-planning-lines" />См. соответствующее [обучение Microsoft](/training/modules/set-up-job-planning-lines/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/set-up-job-planning-lines/)
 
 ## <a name="see-also" />См. также
 

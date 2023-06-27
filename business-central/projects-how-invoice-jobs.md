@@ -60,7 +60,7 @@ ms.author: edupont
 > [!NOTE]  
 >   Приведенная выше процедура аналогична процедуре для создания, рассмотрения и учета кредит-ноты продажи, связанной с работой.
 
-## <a name="see-related-microsoft-trainingtrainingpathspost-job-usage-sales" />См. соответствующее [обучение Microsoft](/training/paths/post-job-usage-sales/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/paths/post-job-usage-sales/)
 
 ## <a name="see-also" />См. также
 

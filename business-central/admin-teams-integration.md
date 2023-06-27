@@ -11,7 +11,7 @@ ms.custom: bap-template
 ms.service: dynamics365-business-central
 ---
 
-# <a name="managing-microsoft-teams-integration-with-include-prodshortincludesprodshortmd" />Управление интеграцией Microsoft Teams с [!INCLUDE [prod_short](includes/prod_short.md)]
+# <a name="managing-microsoft-teams-integration-with-" />Управление интеграцией Microsoft Teams с [!INCLUDE [prod_short](includes/prod_short.md)]
 
 [!INCLUDE [online_only](includes/online_only.md)]
 
@@ -42,7 +42,7 @@ ms.service: dynamics365-business-central
 
     Параметр политики **Разрешить предварительный просмотр URL-адресов** должен быть включен. В противном случае невозможно создать карточку для ссылок [!INCLUDE [prod_short](includes/prod_short.md)], вставленных в беседу Teams. Для получения дополнительной информации об этом параметре см. [Управляйте политиками обмена сообщениями в Teams](/microsoftteams/messaging-policies-in-teams).
 
-### <a name="managing-the-include-prodshortincludesprodshortmd-app-optional" />Управление приложением [!INCLUDE [prod_short](includes/prod_short.md)] (необязательно)
+### <a name="managing-the--app-optional" />Управление приложением [!INCLUDE [prod_short](includes/prod_short.md)] (необязательно)
 
 Как администратор Teams вы можете управлять всеми приложениями для своей организации, включая приложение [!INCLUDE [prod_short](includes/prod_short.md)]. Вы можете утвердить или установить приложение [!INCLUDE [prod_short](includes/prod_short.md)] для вашей организации, запретить пользователю устанавливать приложение и т. д.
 
@@ -51,9 +51,9 @@ ms.service: dynamics365-business-central
 - [Управляйте своими приложениями в центре администрирования Microsoft Teams](/MicrosoftTeams/manage-apps)
 - [Управляйте политиками настройки приложений в Microsoft Teams](/microsoftteams/teams-app-setup-policies)
 
-## <a name="in-include-prodshortincludesprodshortmd" />В [!INCLUDE [prod_short](includes/prod_short.md)]
+## <a name="in-" />В [!INCLUDE [prod_short](includes/prod_short.md)]
 
-### <a name="minimum-requirements" />Минимальные требования
+### <a name="minimum-requirements-1" />Минимальные требования
 
 - Версия [!INCLUDE [prod_short](includes/prod_short.md)]:
 
@@ -103,7 +103,7 @@ ms.service: dynamics365-business-central
 
 Microsoft Teams обеспечивает обширный контроль за соблюдением и управлением конфиденциальными или личными данными &mdash; включая данные, добавленные в чаты и каналы приложением [!INCLUDE [prod_short](includes/prod_short.md)].
 
-### <a name="understanding-where-include-prodshortincludesprodshortmd-cards-are-stored" />Сведения о том, где хранятся карточки [!INCLUDE [prod_short](includes/prod_short.md)]
+### <a name="understanding-where--cards-are-stored" />Сведения о том, где хранятся карточки [!INCLUDE [prod_short](includes/prod_short.md)]
 
 После отправки карточки в чат она и поля, отображаемые на карточке, копируются в Teams. Эта информация регулируется политиками Teams для вашей организации, такими как политики хранения данных. При отображении сведений карточки никакие данные в окне сведений не хранятся в Teams. Данные остаются в [!INCLUDE [prod_short](includes/prod_short.md)] и будут извлечены Teams только тогда, когда пользователь решит просмотреть сведения. 
 
@@ -153,7 +153,7 @@ Microsoft Teams обеспечивает обширный контроль за 
 [Устранение неполадок Teams](admin-teams-troubleshooting.md)  
 [Разработка для интеграции Teams](/dynamics365/business-central/dev-itpro/developer/devenv-develop-for-teams)  
 
-## <a name="includeprodshortincludesfreetrialmdmd" />[!INCLUDE[prod_short](includes/free_trial_md.md)]
+## [!INCLUDE[prod_short](includes/free_trial_md.md)]
 
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

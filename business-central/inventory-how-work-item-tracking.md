@@ -220,7 +220,7 @@ Alternatively, you can create an information card when you post journals or docu
 8. Если необходимо изменить существующую информацию для номера лота или серийного номера, можно использовать запись информации о номере или серии.  
 9. Выполните учет журнала для установления связи обновленных номеров трассировки товара или сроков годности с соответствующей учтенной товарной операцией
 
-## <a name="see-related-microsoft-trainingtrainingmodulesprepare-item-tracking" />См. соответствующее [обучение Microsoft](/training/modules/prepare-item-tracking/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/prepare-item-tracking/)
 
 ## <a name="see-also" />См. также
 

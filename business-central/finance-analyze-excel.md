@@ -44,13 +44,13 @@ ms.author: edupont
 
 Другие листы в книге Excel показывают данные, лежащие в основе отчета. Чтобы узнать, что стоит за группировками в отчетах Excel, вам, возможно, придется отфильтровать списки в [!INCLUDE [prod_short](includes/prod_short.md)].  
 
-## <a name="the-include-prodshortincludesprodshortmd-excel-add-in" />Надстройка [!INCLUDE [prod_short](includes/prod_short.md)] Excel
+## <a name="the--excel-add-in" />Надстройка [!INCLUDE [prod_short](includes/prod_short.md)] Excel
 
 Ваш [!INCLUDE [prod_short](includes/prod_short.md)] включает в себя надстройку для Excel. В зависимости от подписки, вход выполняется автоматически или необходимо указать данные для входа для [!INCLUDE [prod_short](includes/prod_short.md)]. Дополнительную информацию см. в разделе [Просмотр и редактирование в Excel из Business Central](across-work-with-excel.md).  
 
 Надстройка позволяет получать обновленные данные из [!INCLUDE [prod_short](includes/prod_short.md)], а также передавать изменения в [!INCLUDE [prod_short](includes/prod_short.md)]. Однако возможность передавать данные обратно в базу данных недоступна для финансовых отчетов, которые вы можете просматривать в Excel.  
 
-## <a name="see-related-microsoft-trainingtrainingmodulesconfigure-powerbi-excel-dynamics-365-business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/configure-powerbi-excel-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/configure-powerbi-excel-dynamics-365-business-central/index)
 
 ## <a name="see-also" />См. также
 

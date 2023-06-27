@@ -36,7 +36,7 @@ ms.author: edupont
 - *дата отгрузки + исходящие - время обработки склада = плановая дата отгрузки*
 - *плановая дата поставки + время отгрузки = плановая дата доставки*
 
-## <a name="see-related-microsoft-trainingtrainingmodulespromising-sales-order-delivery-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/promising-sales-order-delivery-dynamics-365-business-central/).
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/promising-sales-order-delivery-dynamics-365-business-central/).
 
 ## <a name="see-also" />См. также
 

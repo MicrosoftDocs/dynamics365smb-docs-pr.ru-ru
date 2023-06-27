@@ -45,7 +45,7 @@ ms.author: bholtorf
 
 [!INCLUDE [admin-viral-trial-expiry](includes/admin-viral-trial-expiry.md)]
 
-## <a name="see-related-microsoft-trainingtrainingmodulestrial-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/trial-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/trial-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

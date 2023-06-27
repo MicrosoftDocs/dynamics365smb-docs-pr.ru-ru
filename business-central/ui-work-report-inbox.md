@@ -47,7 +47,7 @@ ms.author: a-reishima
 >
 > Использование действия **Поделиться** делает сгенерированный файл отчета доступным для других пользователей только в OneDrive для бизнеса и не перечисляет запланированный отчет в их папке **Входящие отчеты**.
 
-## <a name="see-related-training-at-microsoft-learnlearnpathsbuild-reports" />См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/build-reports/).
+## <a name="see-related-training-at-microsoft-learn" />См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/build-reports/).
 
 ## <a name="see-also" />См. также
 

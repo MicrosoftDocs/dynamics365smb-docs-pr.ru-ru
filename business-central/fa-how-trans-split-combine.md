@@ -66,7 +66,7 @@ ms.author: edupont
 2. Заполните соответствующим образом поля.
 3. Нажмите кнопку **Печать** или **Просмотр**.  
 
-## <a name="see-related-microsoft-trainingtrainingpathsreclassify-fixed-assets" />См. соответствующее [обучение Microsoft](/training/paths/reclassify-fixed-assets/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/paths/reclassify-fixed-assets/)
 
 ## <a name="see-also" />См. также
 

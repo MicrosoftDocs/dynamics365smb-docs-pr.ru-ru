@@ -61,7 +61,7 @@ ms.author: edupont
     Автоматически создается кредит-нота продажи, которая учитывается для аннулирования исходного учтенного счета продажи.
 5. Выберите действие **Показать корректирующую кредит-ноту**, чтобы просмотреть учтенную кредит-ноту продажи, которая аннулирует исходный учтенный счет продажи.
 
-## <a name="see-related-microsoft-trainingtrainingmodulesship-invoice-items-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/ship-invoice-items-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/ship-invoice-items-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

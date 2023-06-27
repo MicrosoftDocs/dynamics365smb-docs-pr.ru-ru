@@ -242,7 +242,7 @@ ms.author: edupont
 > [!NOTE]
 > Доступные отчеты могут отличаться в зависимости от локализации вашей страны или региона. Базовое приложение не содержит никаких макетов.
 
-## <a name="see-related-microsoft-trainingtrainingmodulesadjust-inventory" />См. соответствующее [обучение Microsoft](/training/modules/adjust-inventory/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/adjust-inventory/)
 
 ## <a name="see-also" />См. также
 

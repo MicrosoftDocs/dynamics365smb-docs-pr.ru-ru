@@ -35,7 +35,7 @@ ms.author: jswymer
 
 При использовании обоих вариантов развертывания надстройка автоматически настраивается для подключения к [!INCLUDE[prod_short](includes/prod_short.md)]. Третий вариант развертывания — это установка надстройки вручную прямо из Excel. С помощью этого варианта пользователям нужно будет настроить надстройку для подключения к [!INCLUDE[prod_short](includes/prod_short.md)]
 
-### <a name="a-nameswitchaswitching-from-individual-acquisition-to-centralized-deployment-or-the-other-way-around" /><a name="switch"></a>Переход от индивидуального получения к централизованному развертыванию или наоборот
+### <a name="switching-from-individual-acquisition-to-centralized-deployment-or-the-other-way-around" /><a name="switch"></a>Переход от индивидуального получения к централизованному развертыванию или наоборот
 
 Когда вы переходите с индивидуального получения надстройки на централизованное развертывание или наоборот, это влияет на файлы Excel, созданные пользователями до перехода. После перехода пользователи по-прежнему могут открывать любые листы Excel, ранее созданные с помощью действия **Изменить в Excel** или созданные вручную путем настройки надстройки Excel. Но они не могут обновить данные в файле из Business Central или отправить обновления в Business Central.
 
@@ -87,7 +87,7 @@ ms.author: jswymer
 > [!NOTE]
 > Может пройти до 24 часов, прежде чем надстройка будет автоматически развернута пользователями в Excel.
 
-## <a name="a-nameinstallaindividual-acquisition-install-the-add-in-manually-for-your-own-use" /><a name="install"></a>Индивидуальное получение. Установка надстройки вручную для собственного использования
+## <a name="individual-acquisition-install-the-add-in-manually-for-your-own-use" /><a name="install"></a>Индивидуальное получение. Установка надстройки вручную для собственного использования
 
 В большинстве случаев, когда вы открываете Excel из Business Central, надстройка либо устанавливается автоматически, либо вам будет предложено установить ее. Однако могут быть случаи, когда вам придется вручную установить надстройку.
 
@@ -159,7 +159,7 @@ When the add-in is installed, it shows up as a panel in Excel. Next, you must co
 > [!NOTE]
 > In certain deployments, the administrator must configure network access to unblock the Excel add-in. For more information, see [Preparing Your Network for the Excel Add-In](configuring-network-for-addins.md).-->
 
-## <a name="see-related-microsoft-trainingtrainingmodulesconfigure-powerbi-excel-dynamics-365-business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/configure-powerbi-excel-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/configure-powerbi-excel-dynamics-365-business-central/index)
 
 ## <a name="see-also" />См. также
 

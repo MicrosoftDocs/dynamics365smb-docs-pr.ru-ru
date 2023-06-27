@@ -49,7 +49,7 @@ ms.author: edupont
 
   Для рабочих процессов утверждения добавьте шаг отклика рабочего процесса, чтобы уведомить отправителя, когда запрос был утвержден или отклонен. Узнайте больше из шага 9 в разделе [Создание рабочих процессов](across-how-to-create-workflows.md#to-create-a-workflow).   
 
-## <a name="see-related-microsoft-trainingtrainingmodulescreate-workflows" />См. соответствующее [обучение Microsoft](/training/modules/create-workflows/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/create-workflows/)
 
 ## <a name="see-also" />См. также
 

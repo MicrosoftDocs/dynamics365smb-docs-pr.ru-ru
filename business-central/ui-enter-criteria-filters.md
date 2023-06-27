@@ -77,7 +77,7 @@ When you want to search for data, such as customer names, addresses, or product 
 |`@*man`|Все записи с полями, которые заканчиваются на **man** без учета регистра. Например, **Sportsman**, но не **Manchester** или **manual**.|
 
 
-## <a name="a-namefilteringafiltering" /><a name="filtering"></a>Фильтрация
+## <a name="filtering" /><a name="filtering"></a>Фильтрация
 
 Фильтрация обеспечивает более широкие и разнообразные способы контроля того, какие записи включаются в список, отчет или XMLport. Имеется два основных отличия между поиском и фильтрацией, как описано в таблице ниже.
 
@@ -249,7 +249,7 @@ When you want to search for data, such as customer names, addresses, or product 
 |`..1299|1400..`|Все записи с номером меньше или равно 1299 или номером от 1400 или больше (все номера, кроме от 1300 до 1399).|  
 |`>50&<100`|Все записи с номерами больше 50 и меньше 100 (номера от 51 до 99).|  
 
-### <a name="a-namesymbolsafiltering-on-values-that-contain-symbols" /><a name="symbols"></a>Фильтрация значений, содержащих символы
+### <a name="filtering-on-values-that-contain-symbols" /><a name="symbols"></a>Фильтрация значений, содержащих символы
 
 Могут быть случаи, когда значения полей содержат один из следующих символов:
 
@@ -302,7 +302,7 @@ When you want to search for data, such as customer names, addresses, or product 
 |-----------------------|-----------------------|  
 |`%myvendors`|Поставщики в списке **Мои поставщики** вашего ролевого центра. |  
 
-## <a name="see-related-microsoft-trainingtrainingmodulessearch-filter-sort-data-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/search-filter-sort-data-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/search-filter-sort-data-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

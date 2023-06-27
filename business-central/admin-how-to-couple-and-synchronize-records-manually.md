@@ -39,7 +39,7 @@ ms.search.form: '6250,'
 2. Выберите действие **Синхронизировать сейчас**.  
 3. Если запись можно синхронизировать в одном направлении, выберите параметр, определяющий направление обновления данных, затем выберите **ОК**.  
 
-## <a name="to-synchronize-a-single-record-from-includecrmmdincludescrmmdmd" />Синхронизация одной записи из [!INCLUDE[crm_md](includes/crm_md.md)]
+## <a name="to-synchronize-a-single-record-from-" />Синхронизация одной записи из [!INCLUDE[crm_md](includes/crm_md.md)]
 
 1. В [!INCLUDE[crm_md](includes/crm_md.md)] откройте форму для записи, которую требуется связать. Например, форма карточки организации или карточки контакта.  
 2. Выберите действие **[!INCLUDE[prod_short](includes/prod_short.md)]** на ленте, чтобы открыть и связать запись автоматически.

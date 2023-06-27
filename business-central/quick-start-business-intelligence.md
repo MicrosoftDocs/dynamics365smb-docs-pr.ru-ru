@@ -40,7 +40,7 @@ ms.author: a-reishima
 
 Вы также можете создавать визуальные отчеты на основе [!INCLUDE[prod_short](includes/prod_short.md)], используя параметр типа файла **Документ Microsoft Excel (только данные)** на страницах запроса отчета. Узнайте больше в разделе [Запуск и печать отчетов](ui-work-report.md).
 
-## <a name="see-related-training-at-microsoft-learnlearnpathsuse-power-bi" />См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/use-power-bi).
+## <a name="see-related-training-at-microsoft-learn" />См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/use-power-bi).
 
 ## <a name="see-also" />См. также
 

@@ -147,7 +147,7 @@ ms.author: jswymer
 
 Если у вас есть старые отчеты, основанные на данных Business Central, они не будут подключаться к доступной только для чтения реплике базы данных.
 
-### <a name="a-namedatabasemodsaive-tried-the-preview-of-the-new-connector-for-the-february-2022-update-when-i-connect-to-my-custom-business-central-api-page-i-get-the-error-cannot-insert-a-record-current-connection-intent-is-read-only-how-can-i-fix-it" /><a name="databasemods"></a>Мы попробовали предварительную версию нового соединителя для обновления за февраль 2022 года. При подключении к своей настраиваемой странице API Business Central, я получаю сообщение об ошибке "Невозможно вставить запись. Назначение текущего подключения — только чтение". Как это исправить?
+### <a name="ive-tried-the-preview-of-the-new-connector-for-the-february-2022-update-when-i-connect-to-my-custom-business-central-api-page-i-get-the-error-cannot-insert-a-record-current-connection-intent-is-read-only-how-can-i-fix-it" /><a name="databasemods"></a>Мы попробовали предварительную версию нового соединителя для обновления за февраль 2022 года. При подключении к своей настраиваемой странице API Business Central, я получаю сообщение об ошибке "Невозможно вставить запись. Назначение текущего подключения — только чтение". Как это исправить?
 
 С новым соединителем новые отчеты, использующие данные Business Central, по умолчанию будут подключаться к доступной только для чтения реплике базы данных Business Central. Это изменение принесет улучшение производительности. Однако в редких случаях это может вызвать ошибку. Эта ошибка обычно возникает из-за того, что ваш пользовательский API вносит изменения в записи Business Central, пока Power BI пытается получить данные. В частности, это происходит при работе триггеров AL: OnInit, OnOpenPage, OnFindRecord, OnNextRecord, OnAfterGetRecord и OnAfterGetCurrRecord.
 
@@ -182,7 +182,7 @@ In general, we recommend avoiding any database modifications in API pages when t
 10. Select **Close & Apply** from the ribbon to save the changes and close Power Query Editor.
 
 -->
-### <a name="a-namepermsahow-do-i-change-or-clear-the-user-account-im-currently-using-to-connect-to-business-central-from-power-bi-desktop" /><a name="perms"></a>Как изменить или удалить учетную запись пользователя, которую я сейчас использую для подключения к Business Central из Power BI Desktop?
+### <a name="how-do-i-change-or-clear-the-user-account-im-currently-using-to-connect-to-business-central-from-power-bi-desktop" /><a name="perms"></a>Как изменить или удалить учетную запись пользователя, которую я сейчас использую для подключения к Business Central из Power BI Desktop?
 
 В Power BI Desktop выполните один из следующих шагов:
 
@@ -237,14 +237,14 @@ In general, we recommend avoiding any database modifications in API pages when t
 
 Мы изучаем эту функцию. Power BI предлагает мощные API-интерфейсы для управления развертыванием отчетов. Для получения дополнительной информации см. [Общие сведения о конвейерах развертывания](/power-bi/create-reports/deployment-pipelines-overview).
 
-### <a name="when-i-get-data-from-business-central-to-use-in-my-power-bi-reports-i-see-some-values-like-x0020-what-are-these-values" />Когда я получаю данные из Business Central для использования в моих отчетах Power BI, я вижу некоторые значения, такие как "_х0020_". Что это за значения?
+### <a name="when-i-get-data-from-business-central-to-use-in-my-power-bi-reports-i-see-some-values-like-_x0020_-what-are-these-values" />Когда я получаю данные из Business Central для использования в моих отчетах Power BI, я вижу некоторые значения, такие как "_х0020_". Что это за значения?
 
 На некоторых страницах API, включая большинство страниц API версии 2.0, есть поля, основанные на [объектах AL Enum](/dynamics365/business-central/dev-itpro/developer/devenv-extensible-enums). Поля, основанные на объектах AL Enum, должны иметь согласованные и всегда одинаковые имена, чтобы фильтры в отчете всегда работали &mdash; независимо от того, какой язык или операционную систему вы используете. По этой причине поля, основанные на перечислениях AL Enum, не переводятся и кодируются, чтобы избежать использования специальных символов, включая пробел. В частности, всякий раз, когда в объекте AL Enum есть пустой параметр, он кодируется как "_x0020_". Вы всегда можете применить преобразование к своим данным в Power BI, если вы хотите отобразить другое значение для этих полей, например "Пусто".
 
 
 ---
 
-## <a name="see-related-microsoft-trainingtrainingmoduleschange-documents-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/change-documents-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/change-documents-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

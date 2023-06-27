@@ -55,7 +55,7 @@ ms.author: edupont
 |Управление бизнес-операциями в офисах продаж, отделах закупки или отделах планирования завода в нескольких местах.|[Работа с центрами ответственности](inventory-responsibility-centers.md)|
 |Используйте ресурсы с особыми функциями для различных услуг и пунктов обслуживания.|[Настройка распределения ресурсов](service-how-setup-resource-allocation.md)|
 
-## <a name="see-related-microsoft-trainingtrainingpathsget-started-inventory-management" />См. соответствующее [обучение Microsoft](/training/paths/get-started-inventory-management/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/paths/get-started-inventory-management/)
 
 ## <a name="see-also" />См. также
 
@@ -65,6 +65,6 @@ ms.author: edupont
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 [Общие бизнес-функции](ui-across-business-areas.md)  
 
-## <a name="includeprodshortincludesfreetrialmdmd" />[!INCLUDE[prod_short](includes/free_trial_md.md)]
+## [!INCLUDE[prod_short](includes/free_trial_md.md)]
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

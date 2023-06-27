@@ -84,7 +84,7 @@ ms.author: edupont
 2. Заполните соответствующим образом поля.
 3. Нажмите кнопку **Печать** или **Просмотр**.
 
-## <a name="see-related-microsoft-trainingtrainingpathsmanage-fixed-assets-maintenance-insurances" />См. соответствующее [обучение Microsoft](/training/paths/manage-fixed-assets-maintenance-insurances/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/paths/manage-fixed-assets-maintenance-insurances/)
 
 ## <a name="see-also" />См. также
 

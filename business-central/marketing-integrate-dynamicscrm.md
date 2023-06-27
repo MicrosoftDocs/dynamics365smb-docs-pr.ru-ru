@@ -138,7 +138,7 @@ ms.author: bholtorf
 [Назначение разрешений пользователям и группам](ui-define-granular-permissions.md)    
 [Обзор Sales и центра продаж](/dynamics365/customer-engagement/sales-enterprise/overview)  
 
-## <a name="includeprodshortincludesfreetrialmdmd" />[!INCLUDE[prod_short](includes/free_trial_md.md)]
+## [!INCLUDE[prod_short](includes/free_trial_md.md)]
 
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

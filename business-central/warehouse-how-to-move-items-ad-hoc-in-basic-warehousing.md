@@ -89,7 +89,7 @@ ms.search.form: '393, 7382'
 
     [!INCLUDE [preview-posting-inventory](includes/preview-posting-inventory.md)]
 
-## <a name="see-related-microsoft-trainingtrainingmodulesmanage-internal-warehouse-processes" />См. соответствующее [обучение Microsoft](/training/modules/manage-internal-warehouse-processes/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/manage-internal-warehouse-processes/)
 
 ## <a name="see-also" />См. также
 

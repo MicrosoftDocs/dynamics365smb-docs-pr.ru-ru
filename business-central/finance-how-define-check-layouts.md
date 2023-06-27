@@ -70,7 +70,7 @@ ms.author: edupont
 
 ![Спецификации MICR CMC-7.](media/font_MICR_CMC-7_Specifications.png "Спецификации MICR CMC-7")
 
-### <a name="delimiter-characters" />Символы-разделители
+### <a name="delimiter-characters-1" />Символы-разделители
 
 ![Символы-разделители для CMC-7.](media/font-cmc7-letters.png "Символы-разделители для CMC-7")
 

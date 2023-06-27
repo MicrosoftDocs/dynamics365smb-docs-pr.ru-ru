@@ -62,7 +62,7 @@ ms.author: edupont
 
 Макет на выбранных страницах корректируется с учетом внесенных вами изменений.
 
-## <a name="see-related-microsoft-trainingtrainingpathstailor-roles-design-ui" />См. соответствующее [обучение Microsoft](/training/paths/tailor-roles-design-ui/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/paths/tailor-roles-design-ui/)
 
 ## <a name="see-also" />См. также
 

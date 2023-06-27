@@ -24,7 +24,7 @@ ms.date: 06/14/2021
 
 3. Синхронизируйте данные между приложениями. Дополнительные сведения см. в разделе [Синхронизация Business Central и Dataverse](admin-synchronizing-business-central-and-sales.md). 
 
-## <a name="getting-started-with-includeprodshortincludescdslongmdmd" />Приступая к работе с [!INCLUDE[prod_short](includes/cds_long_md.md)]
+## <a name="getting-started-with-" />Приступая к работе с [!INCLUDE[prod_short](includes/cds_long_md.md)]
 
 Чтобы начать работу с [!INCLUDE[prod_short](includes/cds_long_md.md)], вам понадобится учетная запись Microsoft Power Apps. Если у вас еще нет учетной записи Power Apps, вы можете получить его бесплатно, посетив [powerapps.com](https://make.powerapps.com/?utm_source=padocs&utm_medium=linkinadoc&utm_campaign=referralsfromdoc) и выбрав ссылку **Начать бесплатно**. Чтобы узнать больше о том, как начать работу с [!INCLUDE[prod_short](includes/cds_long_md.md)], см. модуль [Начало работы с Dataverse](/training/modules/get-started-with-powerapps-common-data-service/) из обучения Microsoft.
 
@@ -57,7 +57,7 @@ ms.date: 06/14/2021
 
 Во время настройки соединения создаются сопоставления таблиц интеграции, которые необходимы для синхронизации данных. Сущности в [!INCLUDE[prod_short](includes/cds_long_md.md)] сопоставляются с таблицами и полями таблиц в Business Central посредством таблиц интеграции. Дополнительные сведения см. в разделе [Сопоставление стандартных объектов для синхронизации](admin-synchronizing-business-central-and-sales.md#standard-table-mapping-for-synchronization).
 
-## <a name="see-related-microsoft-trainingtrainingmodulesuse-model-driven-apps-common-data-service" />См. соответствующее [обучение Microsoft](/training/modules/use-model-driven-apps-common-data-service/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/use-model-driven-apps-common-data-service/)
 
 ## <a name="see-also" />См. также
 

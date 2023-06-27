@@ -53,7 +53,7 @@ ms.author: edupont
 |Оповещайте своих клиентов о датах доставки заказа путем расчета даты "В наличии" или "Доступно для распределения ".|[Расчет сроков планирования заказов](sales-how-to-calculate-order-promising-dates.md)|
 |Разрешение конфликта, когда две или более записей существуют для одного и того же клиента.|[Объединение повторяющихся записей](sales-how-merge-duplicate-records.md)|
 
-## <a name="see-related-microsoft-trainingtrainingpathssell-items-services-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/paths/sell-items-services-dynamics-365-business-central/).
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/paths/sell-items-services-dynamics-365-business-central/).
 
 [Настройка продаж](sales-setup-sales.md)  
 [Регистрация новых клиентов](sales-how-register-new-customers.md)  
@@ -63,6 +63,6 @@ ms.author: edupont
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 [Общие бизнес-функции](ui-across-business-areas.md)
 
-## <a name="includeprodshortincludesfreetrialmdmd" />[!INCLUDE[prod_short](includes/free_trial_md.md)]
+## [!INCLUDE[prod_short](includes/free_trial_md.md)]
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

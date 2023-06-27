@@ -211,11 +211,11 @@ ms.author: edupont
 |**29**|**1,000** <br />**1,000**|**60** <br />**30**|**5** <br />**5**|**15.01.03** <br />**01/17/03**|**01/20/03** <br />**01/22/03**|**>22.01.03**|**2000**|**Нет**|**Да**|**0**|**0**|  
 |30|1 000 <br />1 000|60 <br />30|5 <br />5|15.01.03 <br />17.01.03|20.01.03 <br />22.01.03|>22.01.03|1990|PaymentTolerance|Да|0|5|  
 
-### <a name="payment-range-diagrams" />Диаграммы диапазона оплаты
+### <a name="payment-range-diagrams-1" />Диаграммы диапазона оплаты
 
 По отношению к сценарию выше диаграммы диапазонов оплаты распределяются следующим образом:  
 
-#### <a name="1-payment-date-011503-scenarios-1-3" />(1) Дата платежа <=15.01.03 (сценарии 1-3)
+#### <a name="1-payment-date-011503-scenarios-1-3-1" />(1) Дата платежа <=15.01.03 (сценарии 1-3)
 
 Сумма остатка на  
 
@@ -275,7 +275,7 @@ ms.author: edupont
 
 (2) Если оплата находится в пределах этих диапазонов, все операции приложения не могут быть закрыты, даже с отклонением.
 
-## <a name="see-related-microsoft-trainingtrainingmodulesenter-payments-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/enter-payments-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/enter-payments-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

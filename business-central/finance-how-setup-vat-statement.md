@@ -39,7 +39,7 @@ ms.author: bholtorf
 4. В строках, в которых поле **Тип** содержит значение **Группировка операций НДС**, список операций НДС можно просмотреть, выбрав сумму в поле **Сумма столбца**.
 5. Вы можете использовать персонализацию, чтобы показывать больше полей в строках. Например, поля нереализованной суммы базы и нереализованной суммы НДС, если вы используете нереализованный НДС.
 
-## <a name="see-related-microsoft-trainingtrainingpathsprocess-vat-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/paths/process-vat-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/paths/process-vat-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

@@ -44,7 +44,7 @@ ms.date: 02/23/2022
 
 Это невозможно. Если вы случайно удалили образцы данных, попросите администратора создать новую среду песочницы. Дополнительные сведения см. в разделе [Рабочая среда и среда песочницы](/dynamics365/business-central/dev-itpro/administration/environment-types) в документации для администраторов (только на английском).  
 
-## <a name="see-related-microsoft-trainingtrainingmodulestrial-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/trial-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/trial-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

@@ -41,7 +41,7 @@ ms.author: edupont
 
 Связь с учтенным документом будет удалена. Теперь можно связать другую запись входящего документа с данным учтенным документом, как описано в этой статье.
 
-## <a name="see-related-microsoft-trainingtrainingmodulesincoming-documents-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/incoming-documents-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/incoming-documents-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

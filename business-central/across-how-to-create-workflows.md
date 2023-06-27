@@ -172,7 +172,7 @@ ms.custom: bap-template
 
 Теперь протестируйте рабочий процесс, открыв карточку существующего поставщика и изменив имя. Убедитесь, что при изменении имени поставщика отправляется запрос на утверждение.
 
-## <a name="see-related-microsoft-trainingtrainingmodulescreate-workflows" />См. соответствующее [обучение Microsoft](/training/modules/create-workflows/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/create-workflows/)
 
 ## <a name="see-also" />См. также
 

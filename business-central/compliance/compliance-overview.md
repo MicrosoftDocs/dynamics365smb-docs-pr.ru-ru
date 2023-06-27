@@ -27,7 +27,7 @@ ms.author: soalex
 |См. информацию о различных аттестациях, связанных с Business Central. Здесь можно найти информацию по общих сертификатах и сертификатах, специфичных для стран.|[Сертификаты](compliance-certifications.md)|  
 |Узнайте об условиях соглашения об уровне обслуживания и других условиях обслуживания|[Условия предоставления услуг](compliance-service-compliance.md#service-terms)|  
 
-## <a name="includeprodshortincludesfreetrialmdmd" />[!INCLUDE[prod_short](../includes/free_trial_md.md)]
+## [!INCLUDE[prod_short](../includes/free_trial_md.md)]
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

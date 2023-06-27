@@ -135,7 +135,7 @@ To complete this walkthrough, you will need:
 
     Теперь 30 фонарей Амстердам зарегистрированы как подобранные из ячеек С-01-0001 и С-01-0002, и создана отрицательная операция товарной книги, отражающая учтенную расходную накладную продажи.  
 
-## <a name="see-related-microsoft-trainingtrainingpathspick-ship-items-business-central" />См. соответствующее [обучение Microsoft](/training/paths/pick-ship-items-business-central/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/paths/pick-ship-items-business-central/)
 
 ## <a name="see-also" />См. также
 

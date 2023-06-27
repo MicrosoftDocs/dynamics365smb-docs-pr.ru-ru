@@ -26,7 +26,7 @@ ms.author: a-reishima
 2. Открытие карточки поставщика.
 3. На экспресс-вкладке **Платежи** выберите банковский счет поставщика по умолчанию в поле **Код предпочитаемого банковского счета**.
 
-## <a name="see-related-microsoft-trainingtrainingmodulescash-management-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/cash-management-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/cash-management-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

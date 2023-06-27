@@ -33,7 +33,7 @@ ms.author: edupont
 |Подготовьтесь к настройке нового определения обмена данными для файла или потока данных, используя XML-схему файла для предварительного заполнения экспресс\-вкладки **Определения столбца** на странице **Определения учета обмена**.|[Использование XML-схем для определения обмена данными](across-how-to-use-xml-schemas-to-prepare-data-exchange-definitions.md)|  
 |Настройте платформу обмена данными, чтобы дать возможность пользователям получать новые документы покупки в определенном формате, отправлять документы продажи в новом формате, импортировать новый банковский файл и производить другие виды обмена данными.|[Настройка определений обмена данными](across-how-to-set-up-data-exchange-definitions.md)|  
 
-## <a name="see-related-microsoft-trainingtrainingmoduleselectronic-documents-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/electronic-documents-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/electronic-documents-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

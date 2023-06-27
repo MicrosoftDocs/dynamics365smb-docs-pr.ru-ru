@@ -118,7 +118,7 @@ ms.search.forms: '931, 7377'
 > [!NOTE]  
 > Если товары собираются на заказ, складской подбор для связанного заказа на продажу создаст перемещение запасов для всех компонентов сборки.  
 
-## <a name="see-related-microsoft-trainingtrainingpathspick-ship-items-business-central" />См. соответствующее [обучение Microsoft](/training/paths/pick-ship-items-business-central/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/paths/pick-ship-items-business-central/)
 
 ## <a name="see-also" />См. также
 

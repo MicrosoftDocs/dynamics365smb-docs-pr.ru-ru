@@ -112,7 +112,7 @@ ms.search.forms: '7352, 7333'
 
 5. После того как все товары размещены в ячейках согласно инструкции, выберите действие **Зарегистрировать размещение**.  
 
-## <a name="see-related-microsoft-trainingtrainingmodulesreceive-put-away-items" />См. соответствующее [обучение Microsoft](/training/modules/receive-put-away-items/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/receive-put-away-items/)
 
 ## <a name="see-also" />См. также
 

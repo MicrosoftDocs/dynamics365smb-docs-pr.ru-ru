@@ -54,7 +54,7 @@ ms.reviewer: jswymer
 
 Дополнительные сведения см. в разделе [Делегированный доступ администратора к Business Central Online](/dynamics365/business-central/dev-itpro/administration/delegated-admin).  
 
-### <a name="a-namelicensespermissionsaconfigure-permissions-based-on-licenses" /><a name="licensespermissions"></a>Конфигурирование разрешений на основе лицензий
+### <a name="configure-permissions-based-on-licenses" /><a name="licensespermissions"></a>Конфигурирование разрешений на основе лицензий
 
 [!INCLUDE [2022_releasewave1](includes/2022_releasewave1.md)]
 
@@ -84,7 +84,7 @@ ms.reviewer: jswymer
 > [!IMPORTANT]
 > Эта настройка разрешений действует только для новых пользователей, которым вы назначаете соответствующую лицензию. Существующие пользователи не обновляются. Мы рекомендуем вам настроить разрешения, прежде чем вы начнете назначать лицензии пользователям в центре администрирования Microsoft 365.
 
-### <a name="a-nameadduserato-add-users-or-update-user-information-and-license-assignments-in-business-central" /><a name="adduser"></a>Добавление пользователей или обновление данных пользователей и назначений лицензий в Business Central
+### <a name="to-add-users-or-update-user-information-and-license-assignments-in-business-central" /><a name="adduser"></a>Добавление пользователей или обновление данных пользователей и назначений лицензий в Business Central
 
 После добавления пользователей или изменения информации о пользователях в центре администрирования Microsoft 365 вы можете быстро импортировать информацию о пользователях в [!INCLUDE[prod_short](includes/prod_short.md)]. Импорт включает в себя назначение лицензий.  
 
@@ -118,7 +118,7 @@ ms.reviewer: jswymer
 
 Вы также можете удалить лицензию у пользователя в центре администрирования Microsoft 365. Затем пользователь не может войти в систему. Для получения дополнительной информации см. раздел [Удаление лицензий у пользователей](/microsoft-365/admin/manage/remove-licenses-from-users),
 
-### <a name="a-namem365asynchronization-with-microsoft-365" /><a name="m365"></a>Синхронизация с Microsoft 365
+### <a name="synchronization-with-microsoft-365" /><a name="m365"></a>Синхронизация с Microsoft 365
 
 Когда назначается лицензия для [!INCLUDE[prod_short](includes/prod_short.md)] пользователю в Microsoft 365, есть два способа создать пользователя в [!INCLUDE[prod_short](includes/prod_short.md)].  
 

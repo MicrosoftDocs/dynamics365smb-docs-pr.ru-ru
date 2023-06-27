@@ -90,7 +90,7 @@ ms.author: edupont
 
 При выборе данного поля во время выполнения пакетного задания «Расчет амортизации» будет использоваться календарный год, состоящий из 365 дней, причем количество дней в каждом из месяцев будет соответствовать календарю. Единственным исключением является февраль високосного года, для которого в пакетном задании будет указываться не 29 дней, а 28. Поэтому все года, включая високосные, рассматриваются, как состоящие из 365 дней.
 
-## <a name="see-related-microsoft-trainingtrainingmodulesconfigure-depreciation-books" />См. соответствующее [обучение Microsoft](/training/modules/configure-depreciation-books/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/configure-depreciation-books/)
 
 ## <a name="see-also" />См. также
 

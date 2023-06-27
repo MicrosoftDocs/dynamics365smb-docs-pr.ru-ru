@@ -123,7 +123,7 @@ ms.author: edupont
 
 Для учета средств, не интегрированных с главной книгой, пропустите шаги 6 и 8.
 
-## <a name="see-related-microsoft-trainingtrainingpathsset-up-fixed-assets-management" />См. соответствующее [обучение Microsoft](/training/paths/set-up-fixed-assets-management/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/paths/set-up-fixed-assets-management/)
 
 ## <a name="see-also" />См. также
 

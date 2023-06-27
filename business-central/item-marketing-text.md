@@ -15,7 +15,7 @@ ms.custom: bap-template
 
 Существует два способа создания маркетингового текста: Самый простой способ — использовать Copilot, который предлагает вам текст, сгенерированный ИИ. Другой способ — начать с нуля. 
 
-## <a name="a-namecopilotacreate-ai-generated-marketing-text-preview-with-copilot" /><a name=copilot></a>Создание маркетинговых текстов на базе ИИ (предварительная версия) с помощью Copilot
+## <a name="create-ai-generated-marketing-text-preview-with-copilot" /><a name=copilot></a>Создание маркетинговых текстов на базе ИИ (предварительная версия) с помощью Copilot
 
 [!INCLUDE[ai-preview](includes/ai-preview.md)]
 

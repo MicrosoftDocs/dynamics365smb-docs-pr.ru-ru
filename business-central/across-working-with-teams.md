@@ -93,13 +93,13 @@ The [!INCLUDE [prod_short](includes/prod_short.md)] app lets you:
 
 Подробнее о работе с карточками и сведениях о карточках см. в разделе [Вопросы и ответы по Teams](teams-faq.md).
 
-## <a name="a-nameshare-linkashare-a-link-to-page-from-business-central-to-teams" /><a name="share-link"></a>Делитесь ссылкой на страницу в Business Central в Teams
+## <a name="share-a-link-to-page-from-business-central-to-teams" /><a name="share-link"></a>Делитесь ссылкой на страницу в Business Central в Teams
 
 Непосредственно с большинства страниц коллекций, таких как страница **Товары**, и страниц сведений, например карточка **Товары**, вы можете отправить ссылку на страницу определенным получателям в беседе Teams. Например, вы можете поделиться ссылкой на отфильтрованный просмотр ваших записей. Затем получатели могут выбрать ссылку, чтобы открыть страницу в [!INCLUDE [prod_short](includes/prod_short.md)]\.
 
 [![!Меню «Поделиться», отображаемое на карточке.](media/teams-share-link-v2.png "Меню Поделиться отображается на карточке.")](media/teams-share-link-v2.png#lightbox)
 
-### <a name="prerequisites" />Предварительные требования
+### <a name="prerequisites-1" />Предварительные требования
 
 - У вас есть доступ к Microsoft Teams.
 - (Необязательно) Вы установили приложение [!INCLUDE [prod_short](includes/prod_short.md)] в Teams. 
@@ -127,6 +127,6 @@ The [!INCLUDE [prod_short](includes/prod_short.md)] app lets you:
 [Устранение неполадок Teams](admin-teams-troubleshooting.md)  
 [Разработка для интеграции Teams](/dynamics365/business-central/dev-itpro/developer/devenv-develop-for-teams)  
 
-## <a name="includeprodshortincludesfreetrialmdmd" />[!INCLUDE[prod_short](includes/free_trial_md.md)]
+## [!INCLUDE[prod_short](includes/free_trial_md.md)]
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

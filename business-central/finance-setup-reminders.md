@@ -92,7 +92,7 @@ ms.author: edupont
 
 После настройки условий напоминаний с дополнительными уровнями и текстом в каждую карточку клиента необходимо ввести один из кодов. Дополнительные сведения см. в разделе [Регистрация новых клиентов](sales-how-register-new-customers.md).  
 
-## <a name="see-related-microsoft-trainingtrainingmodulessend-reminders-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/send-reminders-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/send-reminders-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

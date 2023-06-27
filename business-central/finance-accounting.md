@@ -11,7 +11,7 @@ ms.search.form: '100, 1156, 1157, 1314, 1315, 1316, 9027'
 ms.date: 04/01/2021
 ms.author: edupont
 ---
-# <a name="accountant-experiences-in-includeprodlongincludesprodlongmd" />Работа бухгалтера в [!INCLUDE[prod_long](includes/prod_long.md)]
+# <a name="accountant-experiences-in-" />Работа бухгалтера в [!INCLUDE[prod_long](includes/prod_long.md)]
 
 Любой организации нужно вести учет и подписывать соответствующую документацию. Некоторые организации используют внешнего бухгалтера, а у других — бухгалтер в штате. Независимо от того, какой бухгалтер у вас, вы можете использовать ролевой центр **Бухгалтер** в качестве начальной страницы [!INCLUDE[prod_short](includes/prod_short.md)]. Отсюда можно получить доступ ко всем страницам, которые нужны для работы.  
 
@@ -25,7 +25,7 @@ ms.author: edupont
 
 Если вы работаете в нескольких компаниях [!INCLUDE [prod_short](includes/prod_short.md)], вам может быть полезно использовать страницу **Раздел организации** для контроля работы.  Для получения дополнительной информации см. [Управление работой нескольких компаний в разделе организаций](company-hub.md).  
 
-## <a name="a-nameinviteaccountantainviting-your-external-accountant-to-your-includeprodshortincludesprodshortmd" /><a name="inviteaccountant"></a>Приглашение внешнего бухгалтера в ваш экземпляр [!INCLUDE[prod_short](includes/prod_short.md)]
+## <a name="inviting-your-external-accountant-to-your-" /><a name="inviteaccountant"></a>Приглашение внешнего бухгалтера в ваш экземпляр [!INCLUDE[prod_short](includes/prod_short.md)]
 
 Если вы используете внешнего бухгалтера для управления вашим учетом и финансовой отчетностью, ваш администратор может пригласить его в ваш экземпляр [!INCLUDE[prod_short](includes/prod_short.md)], чтобы он работал в вашими данными. [!INCLUDE[prod_short](includes/prod_short.md)] включает три лицензии типа "Внешний бухгалтер". Подробные сведения о лицензировании см. в разделе [Руководство по лицензированию Microsoft Dynamics 365 Business Central](https://go.microsoft.com/fwlink/?LinkId=871590).
 
@@ -64,7 +64,7 @@ ms.author: edupont
 
 Затем вы должны назначить новому гостевому пользователю лицензию на [!INCLUDE[prod_short](includes/prod_short.md)].
 
-#### <a name="to-give-your-accountant-access-to-your-includeprodshortincludesprodshortmd" />Как дать бухгалтеру доступ к вашему [!INCLUDE[prod_short](includes/prod_short.md)]
+#### <a name="to-give-your-accountant-access-to-your-" />Как дать бухгалтеру доступ к вашему [!INCLUDE[prod_short](includes/prod_short.md)]
 
 1. На портале Azure для нового пользователя выберите **Профиль**, а затем выберите **Редактировать**.
 2. Укажите страну в поле **Расположение использования**, а затем выберите **Сохранить**.
@@ -78,7 +78,7 @@ ms.author: edupont
 
 В случае успеха лицензия назначается гостевому пользователю и создается гостевая учетная запись.
 
-### <a name="importing-the-new-user-into-includeprodshortincludesprodshortmd" />Импорт нового пользователя в [!INCLUDE[prod_short](includes/prod_short.md)]
+### <a name="importing-the-new-user-into-" />Импорт нового пользователя в [!INCLUDE[prod_short](includes/prod_short.md)]
 
 Бухгалтер получит электронное письмо с уведомлением о том, что ему предоставлен доступ к вашей Active Directory. Далее вы должны предоставить ему доступ к нужной компании в [!INCLUDE[prod_short](includes/prod_short.md)].
 

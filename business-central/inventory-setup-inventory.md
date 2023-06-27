@@ -32,7 +32,7 @@ ms.author: edupont
 |Одновременный импорт нескольких изображений товаров из ZIP-файла, в котором файлы названы в соответствии с номерами товаров.|[Импорт нескольких изображений товаров](inventory-how-import-item-pictures.md)|
 |Укажите отчеты по умолчанию, которые будут использоваться для различных типов документов.|[Выбор отчета в Business Central](across-report-selections.md)|
 
-## <a name="see-related-microsoft-trainingtrainingpathstrade-get-started-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/paths/trade-get-started-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/paths/trade-get-started-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

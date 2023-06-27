@@ -31,7 +31,7 @@ ms.author: edupont
 
 Можно создавать различные шаблоны размещения и использовать их в соответствии с индивидуальными требованиями. В первую очередь выполняется обращение к шаблону размещения, выбранному для товара или единицы хранения, при наличии таковых. Если данные поля не заполнены, то используется шаблон размещения, выбранный для склада на экспресс-вкладке **Политики ячеек** в карточке склада.  
 
-## <a name="see-related-microsoft-trainingtrainingmodulesput-away-templates" />См. соответствующее [обучение Microsoft](/training/modules/put-away-templates/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/put-away-templates/)
 
 ## <a name="see-also" />См. также
 

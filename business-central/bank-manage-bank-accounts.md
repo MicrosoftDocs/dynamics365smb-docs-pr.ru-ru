@@ -32,7 +32,7 @@ ms.author: edupont
 > [!TIP]
 > Используйте банковскую выверку, чтобы убедиться, что ваши книги обновлены, и не публикуйте выверку, пока вы не будете удовлетворены выверкой.
 
-## <a name="see-related-microsoft-trainingtrainingpathsreconcile-bank-accounts-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/paths/reconcile-bank-accounts-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/paths/reconcile-bank-accounts-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

@@ -51,7 +51,7 @@ ms.author: edupont
 > [!TIP]
 > В зависимости от вашего географического положения некоторые страницы Business Central могут содержать поля, которые не описаны в перечисленных выше статьях, поскольку они применяются к локальным функциям или настройкам. [!INCLUDE [tooltip-inline-tip_md](includes/tooltip-inline-tip_md.md)]
 
-## <a name="see-related-microsoft-trainingtrainingpathsset-up-financial-management-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/paths/set-up-financial-management-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/paths/set-up-financial-management-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 
@@ -62,6 +62,6 @@ ms.author: edupont
 [Анализ движения денежных средств в организации](finance-analyze-cash-flow.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 
-## <a name="includeprodshortincludesfreetrialmdmd" />[!INCLUDE[prod_short](includes/free_trial_md.md)]
+## [!INCLUDE[prod_short](includes/free_trial_md.md)]
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

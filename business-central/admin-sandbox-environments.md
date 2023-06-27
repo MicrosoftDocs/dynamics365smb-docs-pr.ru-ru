@@ -11,7 +11,7 @@ ms.search.keywords: 'sandbox, demo, develop'
 ms.date: 12/20/2021
 ms.author: solsen
 ---
-# <a name="sandbox-environments-in-includeprodshortincludesprodshortmd" />Среды-песочницы в [!INCLUDE[prod_short](includes/prod_short.md)]
+# <a name="sandbox-environments-in-" />Среды-песочницы в [!INCLUDE[prod_short](includes/prod_short.md)]
 
 В [!INCLUDE[prod_short](includes/prod_short.md)] Online вы можете легко получить безопасную среду, в которой тестировать, обучать или устранять неполадки, не нарушая рабочие процессы вашей компании или бизнес-данные. Такая непроизводственная среда называется *песочницей*. В среде песочницы, изолированной от производственной среды, можно безопасно исследовать, обучать, демонстрировать, разрабатывать и тестировать сервисы без риска повлиять на данные или настройки производственной среды.  
 
@@ -64,7 +64,7 @@ When the assisted setup guide completes, you can start exploring the new company
 
 <!-- ![In-client Designer.](./media/across-sandbox/sandbox-inclient-designer.png) -->
 
-## <a name="see-related-microsoft-trainingtrainingmodulesadmin-online-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/admin-online-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/admin-online-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

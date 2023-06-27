@@ -66,7 +66,7 @@ ms.author: jswymer
 > [!IMPORTANT]
 > Если вы используете версию Business Central впуска 2021 волны 1 (версия 18) или более раннюю, вы не сможете установить приложение, как описано в этой статье. Вместо этого установите приложение из [Microsoft Store](https://go.microsoft.com/fwlink/?LinkId=734848). Дополнительные сведения и справку об установке этого устаревшего приложения см. в разделе [Подготовка и установка приложения Business Central](/dynamics365/business-central/dev-itpro/deployment/install-business-central-app).
 
-## <a name="see-related-microsoft-trainingtrainingmodulesalternative-interfaces-dynamics-365-business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/alternative-interfaces-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/alternative-interfaces-dynamics-365-business-central/index)
 
 ## <a name="see-also" />См. также
 

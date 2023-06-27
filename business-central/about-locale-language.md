@@ -50,7 +50,7 @@ ms.author: edupont
 
 На странице **Справка и поддержка** можно посмотреть версию [!INCLUDE[prod_short](includes/prod_short.md)], на которой основана ваша организация. Если вы хотите основать компанию на другой версии, ваш администратор может создать новую производственную среду. Для получения дополнительной информации см. раздел [Создание новой производственной среды](/dynamics365/business-central/dev-itpro/administration/tenant-admin-center-environments#create-a-new-production-environment) в контенте для разработчиков и ИТ-специалистов.  
 
-## <a name="languages-of-the-includeprodshortincludesprodshortmd-help" />Языки справки [!INCLUDE[prod_short](includes/prod_short.md)]
+## <a name="languages-of-the--help" />Языки справки [!INCLUDE[prod_short](includes/prod_short.md)]
 
 Справочные материалы для версии по умолчанию [!INCLUDE[prod_short](includes/prod_short.md)] публикуется на сайте Microsoft Learn. Контент доступен на разных языках. При доступе к документации из [!INCLUDE[prod_short](includes/prod_short.md)] контент отображается на вашем языке. По умолчанию, если какая-либо страница еще недоступна на вашем языке, она отображается на английском.
 

@@ -46,7 +46,7 @@ ms.author: jswymer
 > [!TIP]
 > Примеры использования функции **Найти операции** см. в статьях [Трассировка товаров, трассируемых по товарам](inventory-how-to-trace-item-tracked-items.md) и [Пошаговое руководство. Трассировка серийных номеров и номеров партии](walkthrough-tracing-serial-lot-numbers.md).
 
-## <a name="see-related-microsoft-trainingtrainingmodulesuser-interface-dynamics-365-business-centralindex" />См. соответствующее [обучение Microsoft](/training/modules/user-interface-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/user-interface-dynamics-365-business-central/index)
 
 ## <a name="see-also" />См. также
 

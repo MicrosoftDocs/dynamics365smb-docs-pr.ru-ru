@@ -102,7 +102,7 @@ ms.author: edupont
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") введите **Настройка ГК** или **Настройка пользователя**, а затем выберите соответствующую ссылку.
 2. В полях **Разрешить учет РБП с** и **Разрешить учет РБП по** введите дату начала и окончания периода.
 
-## <a name="see-related-microsoft-trainingtrainingmodulesprocessing-invoices-dynamics-365-business-central" />См. соответствующее [обучение Microsoft](/training/modules/processing-invoices-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/modules/processing-invoices-dynamics-365-business-central/)
 
 ## <a name="see-also" />См. также
 

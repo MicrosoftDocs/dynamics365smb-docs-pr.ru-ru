@@ -36,7 +36,7 @@ ms.author: edupont
 | Изучите различные методы расчета амортизации основных средств. |[Методы амортизации](fa-depreciation-methods.md) |
 | Узнайте о том, как применять определенные пользователем методы амортизации. |[Настройка пользовательских методов амортизации](fa-how-setup-user-defined-depreciation-method.md) |
 
-## <a name="see-related-microsoft-trainingtrainingpathsset-up-fixed-assets-management" />См. соответствующее [обучение Microsoft](/training/paths/set-up-fixed-assets-management/)
+## <a name="see-related-microsoft-training" />См. соответствующее [обучение Microsoft](/training/paths/set-up-fixed-assets-management/)
 
 ## <a name="see-also" />См. также
 
