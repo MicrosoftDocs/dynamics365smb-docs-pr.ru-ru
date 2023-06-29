@@ -11,7 +11,7 @@ ms.search.form: '900, 901, 902, 903, 904, 907, 910, 916, 920, 921, 922, 923, 940
 ms.date: 04/01/2021
 ms.author: edupont
 ---
-# <a name="quote-an-assemble-to-order-sale"></a>Предложения продажи сборки на заказ
+# <a name="quote-an-assemble-to-order-sale"></a><a name="quote-an-assemble-to-order-sale"></a>Предложения продажи сборки на заказ
 
 Можно использовать функцию управления сборкой, чтобы настроить сборочный элемент в соответствии с запросом клиента во время процесса продаж. Дополнительные сведения см. в статье [Продажа товара, собранного на заказ](assembly-how-to-sell-items-assembled-to-order.md).  
 
@@ -20,7 +20,7 @@ ms.author: edupont
 > [!NOTE]  
 >  Как и во всех типах предложений, количества в предложениях по сборке не используются в расчетах наличия, планирования или резервирования.  
 
-## <a name="to-create-a-sales-quote-for-an-assemble-to-order-item"></a>Создание предложения по продаже для товара сборки на заказ
+## <a name="to-create-a-sales-quote-for-an-assemble-to-order-item"></a><a name="to-create-a-sales-quote-for-an-assemble-to-order-item"></a>Создание предложения по продаже для товара сборки на заказ
 
 1.  Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Предложение по продаже**, а затем выберите связанную ссылку.  
 2.  Создайте строку предложения по продаже с одной строкой для сборочного элемента. Дополнительные сведения см. в разделе [Создание предложений по продаже](sales-how-make-offers.md).  
@@ -34,9 +34,9 @@ ms.author: edupont
 6.  При регулировке строк сборочного заказа в соответствии с предложением закройте окно **Строки сборки на заказ**, чтобы вернуться на страницу **Предложение**.  
 7.  Если клиент принимает предложение, создайте заказ на продажу оцененного сборочного элемента. Дополнительные сведения см. в разделе [Создание предложений по продаже](sales-how-make-offers.md). Связанное предложение по сборке и все настройки связаны с новым заказом на продажу для подготовки сборки товара или товаров, которые должны быть проданы.  
 
-## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/assemble-to-order-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/assemble-to-order-dynamics-365-business-central/)
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a>См. также
 
 [Управление сборкой](assembly-assemble-items.md)  
 [Работа со сборочными спецификациями](assembly-how-work-assembly-boms.md)  

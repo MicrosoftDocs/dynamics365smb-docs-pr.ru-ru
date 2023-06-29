@@ -11,7 +11,7 @@ ms.search.form: '5709, 5800, 5805, 5814'
 ms.date: 06/22/2021
 ms.author: edupont
 ---
-# <a name="use-item-charges-to-account-for-additional-trade-costs"></a>Использование товарных издержек для учета дополнительных торговых расходов
+# <a name="use-item-charges-to-account-for-additional-trade-costs"></a><a name="use-item-charges-to-account-for-additional-trade-costs"></a>Использование товарных издержек для учета дополнительных торговых расходов
 
 Чтобы правильно оценить товары, необходимо перенести на них дополнительные издержки, например в связи с транспортировкой, физическим обращением, страховкой, которые возникли при покупке или продаже товаров. В случае покупки полная стоимость покупаемого товара состоит из цены поставщика и всех остальных прямых товарных издержек, которые могут быть присвоены отдельным приходным накладным или расходным накладным на возврат товара. В случае продажи знать затраты по отгрузке проданного товара может быть так же важно для организации, как знать затраты по получению приобретенного товара.
 
@@ -31,13 +31,13 @@ ms.author: edupont
 > [!NOTE]  
 > Товарные издержки можно назначить заказам, счетам и кредит-нотам как для продаж, так и для покупок. В следующих процедурах описано выполнение работы с товарными издержками для счета покупки. Шаги аналогичны всем остальным документам продажи и покупки.
 
-## <a name="example"></a>Пример
+## <a name="example"></a><a name="example"></a>Пример
 
 В этом видео показано, как обрабатывать дополнительные расходы на доставку в рамках оценки стоимости запасов.
 <br><br>  
 > [!Video https://www.microsoft.com/videoplayer/embed/RE4b0SB?rel=0]
 
-## <a name="to-set-up-item-charge-numbers"></a>Настройка номеров товарных издержек
+## <a name="to-set-up-item-charge-numbers"></a><a name="to-set-up-item-charge-numbers"></a>Настройка номеров товарных издержек
 
 Номера товарных издержек позволяют различать различные виды товарных издержек.
 
@@ -45,7 +45,7 @@ ms.author: edupont
 2. На странице **Товарные издержки** выберите действие **Создать** для создания новой строки.
 3. Заполните соответствующим образом поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 
-## <a name="to-assign-an-item-charge-directly-to-the-purchase-invoice-for-the-item"></a>Назначение товарной издержки непосредственно счету покупки для товара
+## <a name="to-assign-an-item-charge-directly-to-the-purchase-invoice-for-the-item"></a><a name="to-assign-an-item-charge-directly-to-the-purchase-invoice-for-the-item"></a>Назначение товарной издержки непосредственно счету покупки для товара
 
 Если вам известна товарная издержка в момент учета счета покупки для товара, выполните указанные ниже действия.
 
@@ -69,7 +69,7 @@ ms.author: edupont
 
 Теперь товарные издержки назначаются счету покупки. При учете приходной накладной счета покупки инвентарная стоимость товара обновляется до стоимости товарных издержек.  
 
-## <a name="to-assign-an-item-charge-from-a-separate-invoice-to-the-purchase-invoice-for-the-item"></a>Назначение товарной издержки из отдельного счета счету покупки для товара
+## <a name="to-assign-an-item-charge-from-a-separate-invoice-to-the-purchase-invoice-for-the-item"></a><a name="to-assign-an-item-charge-from-a-separate-invoice-to-the-purchase-invoice-for-the-item"></a>Назначение товарной издержки из отдельного счета счету покупки для товара
 
 Если получен счет на товарные издержки после учета исходной приходной накладной, выполните следующие действия.
 
@@ -80,7 +80,7 @@ ms.author: edupont
 
 Товарные издержки в отдельном счете покупки теперь назначены товару в учтенной приходной накладной покупки, в результате чего инвентарная стоимость товара будет увеличена на товарные издержки.
 
-## <a name="handle-item-charges-for-partial-receipts"></a>Обработка товарных издержек при частичной приемке
+## <a name="handle-item-charges-for-partial-receipts"></a><a name="handle-item-charges-for-partial-receipts"></a>Обработка товарных издержек при частичной приемке
 
 Давайте рассмотрим пример обработки товарных издержек в случае частичного поступления товаров.
 
@@ -95,9 +95,9 @@ ms.author: edupont
 
 Когда вы будете готовы обработать товар, который отсутствовал, обновите поле **Количество для обработки** и примите к учету заказ.
 
-## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/post-purchase-item-charges-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/post-purchase-item-charges-dynamics-365-business-central/)
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a>См. также
 
 [Управление кредиторской задолженностью](payables-manage-payables.md)  
 [Регистрация покупок](purchasing-how-record-purchases.md)  

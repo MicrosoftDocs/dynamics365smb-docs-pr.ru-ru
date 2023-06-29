@@ -11,7 +11,7 @@ ms.search.form: '136, 145, 146, 9308'
 ms.date: 08/03/2022
 ms.author: edupont
 ---
-# <a name="combine-receipts-on-a-single-invoice"></a>Объединение приходных накладных в один счет
+# <a name="combine-receipts-on-a-single-invoice"></a><a name="combine-receipts-on-a-single-invoice"></a>Объединение приходных накладных в один счет
 
 Если необходимо выставить счет по нескольким приходным накладным покупки одновременно, можно выбрать несколько строк приходной накладной из счета покупки.  
 
@@ -22,7 +22,7 @@ ms.author: edupont
 > [!NOTE]
 > Полученный счет покупки не может быть впоследствии исправлен или отменен. Если вы хотите изменить созданный таким образом счет покупки, вы должны использовать кредит-ноты покупки. Дополнительные сведения см. в разделе [Исправление или отмена неоплаченных счетов покупки](purchasing-how-correct-cancel-unpaid-purchase-invoices.md).
 
-## <a name="to-combine-receipts"></a>Объединение приемок
+## <a name="to-combine-receipts"></a><a name="to-combine-receipts"></a>Объединение приемок
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Счета покупки**, а затем выберите связанную ссылку.  
 2. Выберите действие **Создать**. Дополнительные сведения см. в разделе [Регистрация покупок](purchasing-how-record-purchases.md).  
@@ -32,7 +32,7 @@ ms.author: edupont
     Если выбраны неправильные строки или если необходимо начать сначала, можно просто удалить строки из счета на покупку и использовать функцию **Получить строки прих. накладной** еще раз.  
 5. Чтобы учесть счет, выберите действие **Учет**.  
 
-## <a name="to-remove-open-purchase-orders-after-combined-receipt-posting"></a>Удаление открытых заказов на покупку после совмещенного учета приходных накладных
+## <a name="to-remove-open-purchase-orders-after-combined-receipt-posting"></a><a name="to-remove-open-purchase-orders-after-combined-receipt-posting"></a>Удаление открытых заказов на покупку после совмещенного учета приходных накладных
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Удалить заказы на покупку, по которым выставлены счета**, а затем выберите связанную ссылку.  
 2. Заполните соответствующим образом поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)].
@@ -42,9 +42,9 @@ ms.author: edupont
 
 Повторите шаги с 1 по 3 для всех остальных затронутых документов, таких как общие заказы на покупку.
 
-## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/processing-invoices-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/processing-invoices-dynamics-365-business-central/)
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a>См. также
 
 [Покупки](purchasing-manage-purchasing.md)  
 [Исправление или отмена неоплаченных счетов покупки](purchasing-how-correct-cancel-unpaid-purchase-invoices.md)  

@@ -11,7 +11,7 @@ ms.date: 06/24/2021
 ms.author: bholtorf
 ---
 
-# <a name="the-payments-and-reconciliations-dk-extension"></a>Расширение платежей и выверки (DK)
+# <a name="the-payments-and-reconciliations-dk-extension"></a><a name="the-payments-and-reconciliations-dk-extension"></a>Расширение платежей и выверки (DK)
 
 Делайте быстрые платежи без ошибок, экспортируя файлы, форматированные специально для обмена документами с поставщиком или банком. Эти файлы ускоряют процессы платежей и выверки, а также устраняют ошибки, которые возможны при вводе информации вручную на веб-сайте банка.  
 
@@ -20,7 +20,7 @@ ms.author: bholtorf
 > [!Note]
 > Для использования расширения необходимо знать, какой формат требуется для поставщика или банка. Некоторые банки или поставщики предоставляют эту информацию на своих веб-сайтах; однако может потребоваться связаться с их службой обслуживания клиентов для получения этой информации.  
 
-## <a name="supported-bank-formats"></a>Поддерживаемые банковские форматы
+## <a name="supported-bank-formats"></a><a name="supported-bank-formats"></a>Поддерживаемые банковские форматы
 Это расширение может применять следующие форматы файлов платежей:  
 
 * BANKDATA-V3  
@@ -36,7 +36,7 @@ ms.author: bholtorf
 * SDC  
 * SDC-CSV  
 
-## <a name="to-set-up-the-extension"></a>Настройка расширения
+## <a name="to-set-up-the-extension"></a><a name="to-set-up-the-extension"></a>Настройка расширения
 
 Для начала работы нужно выполнить несколько шагов.  
 
@@ -47,13 +47,13 @@ ms.author: bholtorf
 
 Кроме того, необходимо назначить поставщиков группам **Общая бизнес-группа** и **Учетная группа поставщика** внутри страны. Настройка страны/региона для поставщика должна быть Дания (DK). Дополнительные сведения см. в разделе [Настройка учетных групп](finance-posting-groups.md).  
 
-### <a name="to-allow--to-export-payment-data"></a>Чтобы разрешить [!INCLUDE[prod_short](includes/prod_short.md)] экспортировать данные платежей
+### <a name="to-allow--to-export-payment-data"></a><a name="to-allow--to-export-payment-data"></a>Чтобы разрешить [!INCLUDE[prod_short](includes/prod_short.md)] экспортировать данные платежей
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Журнал платежей**, а затем выберите связанную ссылку.  
 2. На странице **Изменение журнала платежей** выберите пакет **Банк**.  
 3. Установите флажок **Разрешить экспорт платежей**.  
 
-### <a name="to-specify-a-payment-method-for-a-vendor"></a>Указание способ оплаты для поставщика
+### <a name="to-specify-a-payment-method-for-a-vendor"></a><a name="to-specify-a-payment-method-for-a-vendor"></a>Указание способ оплаты для поставщика
 
 В следующей таблице перечислены сочетания способов оплаты FIK и GIRO, которые поддерживает [!INCLUDE[prod_short](includes/prod_short.md)].
 
@@ -67,13 +67,13 @@ ms.author: bholtorf
 2. Откройте карточку, разверните вкладку **Платежи**, в поле **Способ платежа** выберите способ платежа.  
 3. В зависимости от выбора следует заполнить другие поля. См. таблицу выше для описания комбинаций.  
 
-### <a name="to-specify-the-format-to-use-for-a-bank-account"></a>Указание формата для использования для банковского счета
+### <a name="to-specify-the-format-to-use-for-a-bank-account"></a><a name="to-specify-the-format-to-use-for-a-bank-account"></a>Указание формата для использования для банковского счета
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Банковские счета**, а затем выберите связанную ссылку.  
 2. Откройте карточку для банковского счета.  
 3. В поле **Формат экспорта платежей** выберите формат для экспорта файла.  
 
-## <a name="choosing-the-fik-or-giro-payment-information-for-vendor-invoices"></a>Выбор информации о платеже FIK или Жиро для счета поставщика
+## <a name="choosing-the-fik-or-giro-payment-information-for-vendor-invoices"></a><a name="choosing-the-fik-or-giro-payment-information-for-vendor-invoices"></a>Выбор информации о платеже FIK или Жиро для счета поставщика
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Счета покупки**, а затем выберите связанную ссылку.
 2. Выберите поставщика, Не забудьте, это должен быть датский поставщик с адресом в Дании.
@@ -85,7 +85,7 @@ ms.author: bholtorf
 
 5. Учет счета.
 
-## <a name="to-use-the-extension-to-export-payment-data"></a>Использование расширения для экспорта данных платежа
+## <a name="to-use-the-extension-to-export-payment-data"></a><a name="to-use-the-extension-to-export-payment-data"></a>Использование расширения для экспорта данных платежа
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Журналы платежей**, а затем выберите связанную ссылку.  
 2. Выберите действие **Журналы предлож. оплаты поставщикам**.  
@@ -97,7 +97,7 @@ ms.author: bholtorf
 4. В поле **Тип банковского платежа** выберите **Электронные платежи**.  
 5. Выберите действие **Экспорт**.  
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a>См. также
 
 [Настройка Business Central для [!INCLUDE[prod_short](includes/prod_short.md)] с помощью расширений](ui-extensions.md)  
 [Сбор платежей с прямым дебетом SEPA](finance-collect-payments-with-sepa-direct-debit.md)  

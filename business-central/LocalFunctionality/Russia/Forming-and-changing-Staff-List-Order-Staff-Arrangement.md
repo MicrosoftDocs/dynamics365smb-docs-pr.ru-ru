@@ -14,11 +14,11 @@ ms.contentlocale: ru-RU
 ms.lasthandoff: 02/15/2022
 ms.locfileid: "8142639"
 ---
-# <a name="forming-and-changing-the-staff-list-order"></a><a name="forming-and-changing-the-staff-list-order"></a>Формирование и изменение порядка составления штатного расписания
+# <a name="forming-and-changing-the-staff-list-order"></a><a name="forming-and-changing-the-staff-list-order"></a><a name="forming-and-changing-the-staff-list-order"></a>Формирование и изменение порядка составления штатного расписания
 
 Вы можете формировать и изменять штатное расписание.
 
-## <a name="changing-of-staff-list"></a><a name="changing-of-staff-list"></a>Изменение штатного расписания
+## <a name="changing-of-staff-list"></a><a name="changing-of-staff-list"></a><a name="changing-of-staff-list"></a>Изменение штатного расписания
 
 Чтобы внести изменения в штатное расписание, выберите **Персонал и зарплата > Организация > Приказ по штатному расписанию**
 
@@ -49,7 +49,7 @@ ms.locfileid: "8142639"
 >
 > Подразделение может быть закрыто, если все позиции в нем закрыты.
 
-## <a name="forming-of-staff-list"></a><a name="forming-of-staff-list"></a>Формирование штатного расписания
+## <a name="forming-of-staff-list"></a><a name="forming-of-staff-list"></a><a name="forming-of-staff-list"></a>Формирование штатного расписания
 
 В [!INCLUDE[prod_short](../../includes/prod_short.md)] есть концепция архива штатных расписаний. Архив штатных расписаний позволяет сохранить статус штатного расписания на момент его создания.
 
@@ -61,7 +61,7 @@ ms.locfileid: "8142639"
 
 Сформированное штатное расписание на указанную дату переносится в список учтенных документов. **Персонал > Архив > Архив штатного расписания**
 
-## <a name="staff-arrangement"></a><a name="staff-arrangement"></a>Штатная расстановка
+## <a name="staff-arrangement"></a><a name="staff-arrangement"></a><a name="staff-arrangement"></a>Штатная расстановка
 
 Штатное расписание является безличным документом, в нем указывается количество должностей в организации и оклады для них. Однако некоторые компании печатают специальную форму, которая не регулируется законодательством — штатную расстановку.
 
@@ -75,7 +75,7 @@ ms.locfileid: "8142639"
 
 Нажмите кнопку ОК, чтобы создать отчет.
 
-## <a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
 
 [Персонал](Human-Resources.md)  
 

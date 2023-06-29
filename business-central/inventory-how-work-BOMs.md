@@ -11,11 +11,11 @@ ms.search.form: null
 ms.date: 09/26/2022
 ms.author: a-reishima
 ---
-# <a name="work-with-bills-of-material"></a>Работа со спецификациями
+# <a name="work-with-bills-of-material"></a><a name="work-with-bills-of-material"></a>Работа со спецификациями
 
 Спецификации используются для структурирования родительских товаров, которые должны быть собраны из других товаров или произведены ресурсами или машинными центрами из компонентов.
 
-## <a name="assembly-boms-or-production-boms"></a>Сборочные или производственные спецификации
+## <a name="assembly-boms-or-production-boms"></a><a name="assembly-boms-or-production-boms"></a>Сборочные или производственные спецификации
 
 [!INCLUDE[prod_short](includes/prod_short.md)] поддерживает два различных типа спецификаций:
 
@@ -36,7 +36,7 @@ ms.author: a-reishima
 
 Как сборочные заказы, так и производственные заказов могут быть связаны непосредственно с заказами на продажу. Вы можете использовать только сборочные заказы, чтобы настроить конечный товар непосредственно для запроса клиента с помощью заказа на продажу.
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a>См. также
 
 [Работа со спецификациями сборки](assembly-how-work-assembly-boms.md)  
 [Создание производственных спецификаций](production-how-to-create-production-boms.md)  

@@ -11,7 +11,7 @@ ms.search.form: '289, 290, 376, 462, 463, 1029, 8904, 9014, 9015'
 ms.date: 06/22/2021
 ms.author: edupont
 ---
-# <a name="setting-up-project-management"></a>Настройка управления проектами
+# <a name="setting-up-project-management"></a><a name="setting-up-project-management"></a>Настройка управления проектами
 
 Прежде чем использовать [!INCLUDE[prod_short](includes/prod_short.md)] для управления проектами, необходимо настроить ресурсы, табели и работы.
 
@@ -26,7 +26,7 @@ ms.author: edupont
 | Обеспечьте ресурсам возможность быстро создавать отчеты об использовании времени отдельным пользователем или машиной, и обеспечьте менеджерам возможность просматривать потребление и его распределение. |[Настройка табелей учета рабочего времени](projects-how-setup-time-sheets.md) |
 | Создайте карточки работ и подготовьте рабочие задания. Настройте цены товаров для работ и ресурсов работ и задайте учетные группы работ. |[Настройка области «Работы»](projects-how-setup-jobs.md) |
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a>См. также
 
 [Управление проектами](projects-manage-projects.md)  
 [Видео: создание работы в Dynamics 365 Business Central](https://www.youtube.com/watch?v=VqaPWr7BWmw)  

@@ -11,13 +11,13 @@ ms.custom: bap-template
 ms.search.keywords: 'License, access, Microsoft 365, collaborate, collaboration, Teams, Microsoft Teams'
 ---
 
-# <a name="business-central-access-with-microsoft-365-licenses"></a>Доступ к Business Central с лицензиями на Microsoft 365
+# <a name="business-central-access-with-microsoft-365-licenses"></a><a name="business-central-access-with-microsoft-365-licenses"></a>Доступ к Business Central с лицензиями на Microsoft 365
 
 Пользователям [!INCLUDE[prod_short](includes/prod_short.md)] назначается лицензия на Dynamics 365 Business Central, которая позволяет им просматривать свои бизнес-данные, а также изменять их и выполнять с ними действия из любого пользовательского интерфейса. Для всех остальных сотрудников в организации, которым требуется только время от времени просматривать данные, в Business Central предусмотрен доступ через Microsoft 365.  
 
 Когда у организации есть подписка и на Dynamics 365 Business Central, и на Microsoft 365, администраторы могут настраивать среды для доступа к данным с лицензиями на Microsoft 365 и выбирать, к каким именно таблицам и другим объектам будет доступ у данной категории пользователей. После такой настройки сотрудники, у которых есть лицензия на Microsoft 365, но нет лицензии на [!INCLUDE [prod_short](includes/prod_short.md)], могут просматривать записи [!INCLUDE [prod_short](includes/prod_short.md)], которыми с ними делятся другие пользователи в чате и каналах Microsoft Teams.
 
-## <a name="why-enable-access-with-microsoft-365-licenses"></a>Преимущества предоставления доступа с лицензиями на Microsoft 365
+## <a name="why-enable-access-with-microsoft-365-licenses"></a><a name="why-enable-access-with-microsoft-365-licenses"></a>Преимущества предоставления доступа с лицензиями на Microsoft 365
 
 - Обеспечение доступности основных данных, доступ к которым должен быть у всех сотрудников организации.
 
@@ -31,11 +31,11 @@ ms.search.keywords: 'License, access, Microsoft 365, collaborate, collaboration,
 
 - Повышение безопасности данных за счет уменьшения потребности во вставке снимков экрана с бизнес-данными за пределами системы управления данными.
 
-## <a name="use-rights"></a>Права на использование
+## <a name="use-rights"></a><a name="use-rights"></a>Права на использование
 
 Когда пользователи осуществляют доступ к [!INCLUDE [prod_short](includes/prod_short.md)] с лицензией на Microsoft 365, эта лицензия дает им право на чтение (но не на запись) данных [!INCLUDE [prod_short](includes/prod_short.md)] через упрощенный пользовательский интерфейс в Microsoft Teams. В этом разделе рассматриваются эти права и ограничения, что поможет вам спланировать настройку и использовать эту возможность с максимальной пользой. Дополнительную информацию об этом типе лицензий по сравнению с другими лицензиями на [!INCLUDE [prod_short](includes/prod_short.md)] см. [в руководстве по лицензированию Dynamics 365](https://go.microsoft.com/fwlink/?LinkId=866544).
  
-### <a name="client-access"></a>Доступ через клиенты
+### <a name="client-access"></a><a name="client-access"></a>Доступ через клиенты
 
 Пользователи имеют право на доступ к данным [!INCLUDE [prod_short](includes/prod_short.md)] в Microsoft Teams. В следующей таблице перечислены различные методы доступа к службе [!INCLUDE [prod_short](includes/prod_short.md)], разрешенные для данной лицензии.
 
@@ -48,15 +48,15 @@ ms.search.keywords: 'License, access, Microsoft 365, collaborate, collaboration,
 |Интеграции Business Central с другими приложениями Office|![Нет](media/x-icon.png )|
 |Клиент Business Central, встроенный в любые другие приложения |![Нет](media/x-icon.png )|
 
-### <a name="data-access"></a>Доступ к данным
+### <a name="data-access"></a><a name="data-access"></a>Доступ к данным
 
 Пользователи имеют право читать данные таблиц, но не могут изменять, создавать или удалять записи. Платформа [!INCLUDE [prod_short](includes/prod_short.md)] автоматически предотвращает запись в какие-либо таблицы данных.  
 
-### <a name="use-of-objects"></a>Использование объектов
+### <a name="use-of-objects"></a><a name="use-of-objects"></a>Использование объектов
 
 Доступ с лицензиями на Microsoft 365 не ограничивает объекты или диапазоны объектов Business Central, к которым можно осуществлять доступ. Пользователи имеют право на доступ к базовому приложению Майкрософт и всем расширениям, таким как настройки и надстройки.
 
-## <a name="simplified-user-interface"></a>Упрощенный пользовательский интерфейс
+## <a name="simplified-user-interface"></a><a name="simplified-user-interface"></a>Упрощенный пользовательский интерфейс
 
 Пользователи имеют право на использование сокращенного набора возможностей и функций, предоставляемых [!INCLUDE [prod_short](includes/prod_short.md)] в Microsoft Teams. В таблицах ниже приведены наиболее важные из этих функций. Этот список не является исчерпывающим и может быть изменен.
 
@@ -90,17 +90,17 @@ ms.search.keywords: 'License, access, Microsoft 365, collaborate, collaboration,
 |Встроенная справка|![Да](media/check.png) |Подсказки, ссылки на документацию|
 |Расширенная справка |![Нет](media/x-icon.png )|Советы по страницам и полям, панель справки|
 
-## <a name="minimum-requirements"></a>Минимальные требования
+## <a name="minimum-requirements"></a><a name="minimum-requirements"></a>Минимальные требования
 
 В этом разделе приведены минимальные требования, которым должна соответствовать ваша организация, чтобы иметь возможность получать доступ с лицензиями на Microsoft 365, а также минимальные требования, которым должны соответствовать отдельные пользователи Microsoft Teams для осуществления доступа к данным [!INCLUDE [prod_short](includes/prod_short.md)] без лицензии на [!INCLUDE [prod_short](includes/prod_short.md)].
 
-### <a name="requirements-to-enable-access"></a>Требования для организации доступа
+### <a name="requirements-to-enable-access"></a><a name="requirements-to-enable-access"></a>Требования для организации доступа
 
 - [!INCLUDE [prod_short](includes/prod_short.md)] находится в режиме онлайн (SaaS).
 
 - Среды должны иметь версию платформы 21.1 или более позднюю.
 
-### <a name="requirements-for-individual-users-to-access-data-in-teams"></a>Требования к отдельным пользователям для доступа к данным в Teams
+### <a name="requirements-for-individual-users-to-access-data-in-teams"></a><a name="requirements-for-individual-users-to-access-data-in-teams"></a>Требования к отдельным пользователям для доступа к данным в Teams
 
 - Доступ к данным должен осуществляться с помощью приложения [!INCLUDE [prod_short](includes/prod_short.md)] для Teams. У пользователей должно быть установлено приложение [!INCLUDE [prod_short](includes/prod_short.md)] для Teams, и они должны использовать один из поддерживаемых клиентов Teams. Список клиентов Teams, поддерживаемых [!INCLUDE [prod_short](includes/prod_short.md)], см. в разделе [Минимальные требования для использования Business Central](product-requirements.md#teams).
 
@@ -138,11 +138,11 @@ ms.search.keywords: 'License, access, Microsoft 365, collaborate, collaboration,
 
 - В организации должен быть хотя бы один другой пользователь, которому назначена лицензия на Dynamics 365 Business Central.
 
-## <a name="next-steps"></a>Дальнейшие шаги
+## <a name="next-steps"></a><a name="next-steps"></a>Дальнейшие шаги
 
 - Получите представление о процедуре доступа пользователей, чтобы спланировать свой подход и настройку Business Central в соответствии с вашими бизнес-задачами. См. статью [Процедура доступа пользователей](admin-access-with-m365-license-flow.md).
 - Настройте свою среду и пользователей для доступа с лицензиями на Microsoft 365. См. статью [Настройка доступа с лицензиями на Microsoft 365](admin-access-with-m365-license-setup.md).
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a>См. также
 
 [Интеграция Business Central и Microsoft Teams](across-teams-overview.md)  

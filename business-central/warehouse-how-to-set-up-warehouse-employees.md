@@ -9,11 +9,11 @@ ms.date: 03/09/2023
 ms.custom: bap-template
 ms.search.form: '7328, 7348'
 ---
-# <a name="set-up-warehouse-employees"></a>Настройка работников склада
+# <a name="set-up-warehouse-employees"></a><a name="set-up-warehouse-employees"></a>Настройка работников склада
 
 Каждый пользователь, который выполняет складские действия, должен быть настроен как работник склада, которому должен быть назначен склад по умолчанию. [!INCLUDE [prod_short](includes/prod_short.md)] отфильтровывает складские действия по складу по умолчанию, назначенному работнику. Они могут выполнять только складские действия на этом складе. Вы также можете назначить пользователя другим складам. Пользователь сможет получать доступ, но не сможет выполнять действия на этих складах.
 
-## <a name="to-set-up-warehouse-employees"></a>Настройка работников склада
+## <a name="to-set-up-warehouse-employees"></a><a name="to-set-up-warehouse-employees"></a>Настройка работников склада
 
 1. Выберите значок ![Лампочка, которая открывает функцию «Что вы хотите сделать»](media/ui-search/search_small.png "Что вы хотите сделать"), значок, введите **Работники склада**, а затем выберите связанную ссылку.  
 2. Выберите действие **Создать**.  
@@ -22,9 +22,9 @@ ms.search.form: '7328, 7348'
 5. Включите переключатель **По умолчанию**, чтобы указать, что это единственный склад, где сотрудник может выполнять складские действия.  
 6. Повторите эти шаги, чтобы назначить складам других работников или назначить другие склады существующим работникам склада.  
 
-## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/get-started-warehouse-management/)
+## <a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/get-started-warehouse-management/)
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a>См. также
 
 [Обзор управления складом](design-details-warehouse-management.md)
 [Запас](inventory-manage-inventory.md)  

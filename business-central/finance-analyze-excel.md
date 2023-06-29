@@ -8,7 +8,7 @@ ms.search.form: 9027
 ms.date: 08/23/2022
 ms.author: edupont
 ---
-# <a name="analyzing-financial-statements-in-microsoft-excel"></a>Анализ финансовых отчетов в Microsoft Excel
+# <a name="analyzing-financial-statements-in-microsoft-excel"></a><a name="analyzing-financial-statements-in-microsoft-excel"></a>Анализ финансовых отчетов в Microsoft Excel
 
 [!INCLUDE [prod_short](includes/prod_short.md)] предоставляет ключевые показатели эффективности и получает обзоры финансов вашей компании. Ниже приведены примеры способов анализа ключевых показателей эффективности и обзоров в Excel:
 
@@ -18,7 +18,7 @@ ms.author: edupont
 > [!TIP]
 > По умолчанию отчеты, которые вы можете просматривать в Excel, предназначены для анализа текущего года. Однако отчет о прибылях и убытках является исключением. Этот отчет позволяет фильтровать данные, чтобы включить в анализ данные за предыдущие годы.
 
-## <a name="getting-the-overview-and-the-details-in-excel"></a>Получение обзора и подробные сведений в Excel
+## <a name="getting-the-overview-and-the-details-in-excel"></a><a name="getting-the-overview-and-the-details-in-excel"></a>Получение обзора и подробные сведений в Excel
 
 В ролевых центрах "Бизнес-руководитель" и "Бухгалтер" действие **Отчеты** позволяет выбрать финансовые отчеты для просмотра в Excel. При выборе отчета он открывается в Excel или Excel Online. Надстройка связывает данные с [!INCLUDE [prod_short](includes/prod_short.md)]. Однако необходимо выполнить вход с теми же учетными данными, которые используются с [!INCLUDE [prod_short](includes/prod_short.md)]. В следующей таблице перечислены отчеты и места, где они доступны.  
 
@@ -38,21 +38,21 @@ ms.author: edupont
 
 В Excel отображается вкладка с данными, скомпонованными на первом листе. Все экспортированные данные также присутствуют на других листах, если они вам потребуются. Можно сразу же напечатать отчет или можно изменить его, чтобы отображался требуемые вам обзорные и подробные сведения. Для дополнительной фильтрации данных и их анализа используйте надстройку [!INCLUDE [prod_short](includes/prod_short.md)] Excel.  
 
-### <a name="understanding-the-excel-templates"></a>Общие сведения о шаблонах Excel
+### <a name="understanding-the-excel-templates"></a><a name="understanding-the-excel-templates"></a>Общие сведения о шаблонах Excel
 
 Стандартные отчеты Excel основаны на данных в текущей компании. Например, демонстрационная организация настроила план счетов, чтобы перечислить три денежных счета в *Текущие активы*: 10100 **Текущий счет**, 10200 **Сберегательный счет** и 10300 **Мелкая касса**. На счетах есть поле **Подкатегория счета** со значением *Наличные*, и их общая сумма отображается как *Наличные* в отчете Excel **Балансовый отчет**.  
 
 Другие листы в книге Excel показывают данные, лежащие в основе отчета. Чтобы узнать, что стоит за группировками в отчетах Excel, вам, возможно, придется отфильтровать списки в [!INCLUDE [prod_short](includes/prod_short.md)].  
 
-## <a name="the--excel-add-in"></a>Надстройка [!INCLUDE [prod_short](includes/prod_short.md)] Excel
+## <a name="the--excel-add-in"></a><a name="the--excel-add-in"></a>Надстройка [!INCLUDE [prod_short](includes/prod_short.md)] Excel
 
 Ваш [!INCLUDE [prod_short](includes/prod_short.md)] включает в себя надстройку для Excel. В зависимости от подписки, вход выполняется автоматически или необходимо указать данные для входа для [!INCLUDE [prod_short](includes/prod_short.md)]. Дополнительную информацию см. в разделе [Просмотр и редактирование в Excel из Business Central](across-work-with-excel.md).  
 
 Надстройка позволяет получать обновленные данные из [!INCLUDE [prod_short](includes/prod_short.md)], а также передавать изменения в [!INCLUDE [prod_short](includes/prod_short.md)]. Однако возможность передавать данные обратно в базу данных недоступна для финансовых отчетов, которые вы можете просматривать в Excel.  
 
-## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/configure-powerbi-excel-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/configure-powerbi-excel-dynamics-365-business-central/index)
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a>См. также
 
 [Просмотр и редактирование в Excel из Business Central](across-work-with-excel.md)  
 [Финансы](finance.md)  

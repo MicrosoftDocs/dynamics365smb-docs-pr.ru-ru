@@ -10,7 +10,7 @@ ms.custom: bap-template
 ms.search.keywords: 'kit, kitting'
 ms.search.form: '900, 901, 902, 903, 904, 907, 910, 916, 920, 921, 922, 923, 940, 941, 942, 930, 931, 932, 914, 915, 905'
 ---
-# <a name="assembly-management"></a>Управление сборкой
+# <a name="assembly-management"></a><a name="assembly-management"></a>Управление сборкой
 
 Организации могут поставлять продукты своим клиентам, комбинируя компоненты без использования производственных функций. Функции для сборки товаров интегрируются со связанными функциями, такими как продажи, планирование, резервирование и складирование.  
 
@@ -51,9 +51,9 @@ ms.search.form: '900, 901, 902, 903, 904, 907, 910, 916, 920, 921, 922, 923, 940
 |Узнайте, как работать со сборочными спецификациями, и в чем заключаются их основные отличия от производственных спецификаций.|[Работа со сборочными спецификациями](assembly-how-work-assembly-boms.md)|
 |Узнайте о учете потребления и выпуска при сборке а также о том, как [!INCLUDE [prod_short](includes/prod_short.md)] распределяет затраты на товар и ресурсы в главной книге.|[Сведения о проектировании: учет заказа на сборку](design-details-assembly-order-posting.md)|  
 
-## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/paths/assemble-items-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/paths/assemble-items-dynamics-365-business-central/)
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a>См. также
 
 [Работа со спецификациями](inventory-how-work-BOMs.md)  
 [Запасы](inventory-manage-inventory.md)  

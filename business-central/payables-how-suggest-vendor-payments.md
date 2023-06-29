@@ -11,7 +11,7 @@ ms.search.form: 256
 ms.date: 04/01/2021
 ms.author: edupont
 ---
-# <a name="suggest-vendor-payments"></a>Предлож. оплаты поставщикам
+# <a name="suggest-vendor-payments"></a><a name="suggest-vendor-payments"></a>Предлож. оплаты поставщикам
 
 На странице **Журнал платежей** можно использовать пакетное задание **Предлож. оплаты поставщикам** для предложения строк платежей. Строки для платежей, для которых скоро наступает крайний срок, или платежей, для которых доступна скидка, предлагаются на основании ваших настроек.
 
@@ -26,14 +26,14 @@ ms.author: edupont
     * По просроченным операциям поставщиков, которым не назначены приоритеты.  
     * Для открытых операций поставщиков, которые квалифицируются по скидкам оплаты в порядке номеров поставщиков.  
 
-## <a name="to-use-the-suggest-vendor-payments-function"></a>Использование функции предложения оплаты поставщикам
+## <a name="to-use-the-suggest-vendor-payments-function"></a><a name="to-use-the-suggest-vendor-payments-function"></a>Использование функции предложения оплаты поставщикам
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Журналы платежей**, а затем выберите связанную ссылку.  
 2. Откройте соответствующий журнал, а затем выберите действие **Предлож. оплаты поставщикам**.  
 3. Заполните соответствующим образом поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
 4. Нажмите кнопку **ОК**.  
 
-## <a name="to-insert-the-due-date-as-posting-date-on-payment-journal-lines"></a>Вставка срока оплаты в качестве даты учета в строках журнала платежей
+## <a name="to-insert-the-due-date-as-posting-date-on-payment-journal-lines"></a><a name="to-insert-the-due-date-as-posting-date-on-payment-journal-lines"></a>Вставка срока оплаты в качестве даты учета в строках журнала платежей
 
 При использовании пакетного задания **Предлож. оплаты поставщикам** для создания строк платежей для поставщиков можно также заполнить два специальных поля, чтобы убедиться, что в созданных строках используется дата оплаты для вычисления даты учета. Это поля **Рассчитать дату учета на основе срока оплаты примен. документа** и **Примен. смещения срока оплаты документа**.  
 
@@ -47,9 +47,9 @@ ms.author: edupont
 > [!NOTE]  
 >   Если счет покупки просрочен, в качестве даты учета устанавливается рабочая дата и цвет шрифта в строке меняется на красный.  
 
-## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/suggest-vendor-payments-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/suggest-vendor-payments-dynamics-365-business-central/)
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a>См. также
 
 [Управление кредиторской задолженностью](payables-manage-payables.md)  
 [Осуществление платежей](payables-make-payments.md)  

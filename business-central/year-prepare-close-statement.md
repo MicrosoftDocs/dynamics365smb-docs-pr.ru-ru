@@ -10,7 +10,7 @@ ms.search.keywords: 'year closing, close accounting period, close fiscal year, a
 ms.date: 04/01/2021
 ms.author: jswymer
 ---
-# <a name="preparing-closing-statements"></a>Подготовка отчетов о закрытии
+# <a name="preparing-closing-statements"></a><a name="preparing-closing-statements"></a>Подготовка отчетов о закрытии
 Существует несколько стандартных отчетов, которые можно использовать для сбора сведений, необходимых организации для подготовки отчетов о закрытии периодов.
 
 В следующей таблице приведены отчеты, которые могут быть полезны в ходе этого процесса.  
@@ -27,7 +27,7 @@ ms.author: jswymer
 
 Для просмотра отчета выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") и введите имя, которое отображается в таблице, а затем выберите связанную ссылку.
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a>См. также
 [Закрытие года и периодов](year-close-years-periods.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 [Бизнес-аналитика](bi.md)

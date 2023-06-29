@@ -9,11 +9,11 @@ ms.reviewer: edupont
 ms.author: soalex
 ---
 
-# <a name="create-cash-account-cards"></a>Создание карточек счетов кассы
+# <a name="create-cash-account-cards"></a><a name="create-cash-account-cards"></a>Создание карточек счетов кассы
 
 Счета кассы похожи на банковские счета и создаются так же. Можно создать любое необходимое количество карточек счетов кассы.
 
-## <a name="to-create-a-cash-account-card"></a>Создание карточек счетов кассы
+## <a name="to-create-a-cash-account-card"></a><a name="to-create-a-cash-account-card"></a>Создание карточек счетов кассы
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../../media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Кассы**, а затем выберите связанную ссылку.
 
@@ -30,7 +30,7 @@ ms.author: soalex
 
 3. Нажмите кнопку **ОК**.
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a>См. также
 
 [Управление мелкими доходами/расходами](Petty-Cash-Management.md)  
 [Управление банками и кассами](bank-and-cash-management.md)  

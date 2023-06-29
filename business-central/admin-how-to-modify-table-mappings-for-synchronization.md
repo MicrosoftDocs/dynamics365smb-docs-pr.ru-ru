@@ -9,11 +9,11 @@ ms.date: 03/31/2023
 ms.custom: bap-template
 ms.search.keywords: 'sales, crm, integration, sync, synchronize, table mapping'
 ---
-# <a name="mapping-the-tables-and-fields-to-synchronize"></a>Сопоставление таблиц и полей для синхронизации
+# <a name="mapping-the-tables-and-fields-to-synchronize"></a><a name="mapping-the-tables-and-fields-to-synchronize"></a>Сопоставление таблиц и полей для синхронизации
 
 Основой синхронизации данных является сопоставление таблиц и полей в [!INCLUDE[prod_short](includes/prod_short.md)] с таблицами и столбцами в [!INCLUDE[prod_short](includes/cds_long_md.md)], чтобы они могли обмениваться данными. Сопоставление происходит через таблицы интеграции.
 
-## <a name="mapping-integration-tables"></a>Сопоставление таблиц интеграции
+## <a name="mapping-integration-tables"></a><a name="mapping-integration-tables"></a>Сопоставление таблиц интеграции
 
 Таблица интеграции — это таблица базе данных [!INCLUDE[prod_short](includes/prod_short.md)], представляющая таблицу, например счет, в [!INCLUDE[cds_long_md](includes/cds_long_md.md)]. Таблица интеграции включает поля, соответствующие столбцам в таблице [!INCLUDE[cds_long_md](includes/cds_long_md.md)]. Например, таблица интеграции "Счет" связывается с таблицей "Счета" в [!INCLUDE[cds_short_md](includes/cds_long_md.md)]. Для каждой таблице в [!INCLUDE[cds_short_md](includes/cds_short_md.md)], которую необходимо синхронизировать с данными в [!INCLUDE[prod_short](includes/prod_short.md)], должно быть соответствующее сопоставление таблиц интеграции.
 
@@ -27,15 +27,15 @@ ms.search.keywords: 'sales, crm, integration, sync, synchronize, table mapping'
 >
 > Чтобы избежать снижения производительности, на странице **Сопоставления таблиц интеграции** для любой таблицы можно включить или отключить синхронизацию данных на основе событий. По умолчанию синхронизация на основе событий включена, поэтому существующие интеграции не затрагиваются. Ваш администратор может включить или выключить синхронизацию для определенных таблиц.
 
-### <a name="additional-mappings"></a>Дополнительные сопоставления
+### <a name="additional-mappings"></a><a name="additional-mappings"></a>Дополнительные сопоставления
 
 Условия оплаты, способы отгрузки и экспедиторы могут меняться, и может быть важно наличие возможности их корректировать. Если вы включите **Обновление функции: сопоставление с наборами параметров в Dataverse без кода** на странице [Управление функциями](https://businesscentral.dynamics.com/?page=2610), вы можете вручную добавить сопоставления таблиц интеграции для условий оплаты (УСЛОВИЯ ОПЛАТЫ), способов отгрузки (СПОСОБ ОТГРУЗКИ) и экспедиторов (ЭКСПЕДИТОР). Это сопоставление может помочь убедиться, что ваши политики одинаковы для этих настроек в [!INCLUDE[prod_short](includes/cds_long_md.md)] и [!INCLUDE[cds_long_md](includes/cds_long_md.md)].
 
-### <a name="synchronization-rules"></a>Правила синхронизации
+### <a name="synchronization-rules"></a><a name="synchronization-rules"></a>Правила синхронизации
 
 Сопоставление таблиц интеграции также включает в себя правила, управляющие тем, как задания синхронизации интеграции синхронизируют записи в таблице [!INCLUDE[prod_short](includes/prod_short.md)] и таблице в [!INCLUDE[prod_short](includes/cds_long_md.md)]. Примеры правил интеграции с Sales см. в разделе [Правила синхронизации](#synchronization-rules).
 
-### <a name="strategies-for-auto-resolving-conflicts"></a>Стратегии автоматического разрешения конфликтов
+### <a name="strategies-for-auto-resolving-conflicts"></a><a name="strategies-for-auto-resolving-conflicts"></a>Стратегии автоматического разрешения конфликтов
 
 Конфликты данных могут легко возникнуть, когда бизнес-приложения обмениваются данными на постоянной основе. Например, кто-то может удалить или изменить строку в одном из приложений или в обоих. Чтобы уменьшить количество конфликтов, которые вам придется разрешать вручную, вы можете указать стратегии разрешения, и [!INCLUDE[prod_short](includes/prod_short.md)] автоматически будет разрешать конфликты в соответствии с правилами в стратегиях.
 
@@ -47,7 +47,7 @@ ms.search.keywords: 'sales, crm, integration, sync, synchronize, table mapping'
 
 После того, как вы укажете стратегию, на странице **Ошибки синхронизации связанных данных**, вы можете выбрать действие **Повторить все** для автоматического разрешения конфликтов.
 
-## <a name="mapping-integration-fields"></a>Сопоставление полей интеграции
+## <a name="mapping-integration-fields"></a><a name="mapping-integration-fields"></a>Сопоставление полей интеграции
 
 Составление таблиц — это только первый шаг. Вы также должны сопоставить поля в таблицах. Сопоставления полей интеграции связывают поля в таблицах [!INCLUDE[prod_short](includes/prod_short.md)] с соответствующими столбцам в [!INCLUDE[prod_short](includes/cds_long_md.md)] и определяют, нужно ли синхронизировать данные в каждой таблице. Стандартное сопоставление таблиц, которое предоставляет [!INCLUDE[prod_short](includes/prod_short.md)], включает сопоставления полей, но вы можете изменить их. Дополнительные сведения см. в разделе [Просмотр сопоставлений таблиц](admin-synchronizing-business-central-and-sales.md#tip-for-admins-viewing-table-mappings).
 
@@ -56,15 +56,15 @@ ms.search.keywords: 'sales, crm, integration, sync, synchronize, table mapping'
 
 Вы можете вручную сопоставить поля или автоматизировать процесс, сопоставив несколько полей одновременно на основе критериев сопоставления их значений. Для получения дополнительной информации см. [Чтобы связать несколько записей на основе сопоставления значений поля](admin-how-to-couple-and-synchronize-records-manually.md).
 
-### <a name="handle-differences-in-field-values"></a>Обработка различий в значениях полей
+### <a name="handle-differences-in-field-values"></a><a name="handle-differences-in-field-values"></a>Обработка различий в значениях полей
 
 Иногда значения в полях, которые, вы хотите сопоставить, различаются. Например, в [!INCLUDE[crm_md](includes/crm_md.md)] код языка для США — "U.S.", а в [!INCLUDE[prod_short](includes/prod_short.md)] — "US". Это означает, что вы должны преобразовать значение при синхронизации данными. Это происходит через правила преобразования, которые вы определяете для полей. Вы определяете правила преобразования на странице **Сопоставления таблиц интеграции**, выбрав **Сопоставление**, затем **Поля**. Доступные готовые правила, но вы также можете создавать свои собственные. Для получения дополнительной информации см. [Правила преобразования](across-how-to-set-up-data-exchange-definitions.md#transformation-rules).
 
-### <a name="handle-missing-option-values"></a>Обработка отсутствия значений параметров
+### <a name="handle-missing-option-values"></a><a name="handle-missing-option-values"></a>Обработка отсутствия значений параметров
 
 [!INCLUDE[prod_short](includes/cds_long_md.md)] содержит столбцы набора параметров, предоставляющие значения параметров, которые можно сопоставить полям [!INCLUDE[prod_short](includes/prod_short.md)] типа **Параметр** для автоматической синхронизации. Во время синхронизации несопоставленные параметры игнорируются, а отсутствующие параметры добавляются к связанной таблице [!INCLUDE[prod_short](includes/prod_short.md)] и добавляются в системную таблицу **Сопоставление параметров CDS** для обработки вручную позже. Например, добавив отсутствующие параметры в любом продукте, а затем обновив сопоставление. Дополнительные сведения см. в разделе [Обработка отсутствующих значений параметров](admin-cds-missing-option-values.md).
 
-## <a name="couple-records"></a>Связывание записей
+## <a name="couple-records"></a><a name="couple-records"></a>Связывание записей
 
 Связывание сопоставляет строки в [!INCLUDE[prod_short](includes/cds_long_md.md)] с записями в [!INCLUDE[prod_short](includes/prod_short.md)]. Например, счета в [!INCLUDE[prod_short](includes/cds_long_md.md)] обычно связываются с клиентами в [!INCLUDE[prod_short](includes/prod_short.md)]. Связывание записей дает следующие преимущества:
 
@@ -73,7 +73,7 @@ ms.search.keywords: 'sales, crm, integration, sync, synchronize, table mapping'
 
 Связывания могут быть настроены автоматически с помощью заданий синхронизации или вручную путем изменения записи в [!INCLUDE[prod_short](includes/prod_short.md)]. Для получения дополнительной информации см. [Синхронизация данных в [!INCLUDE[prod_short](includes/prod_short.md)] и [!INCLUDE[prod_short](includes/cds_long_md.md)]](admin-synchronizing-business-central-and-sales.md) и [Связывание и синхронизация записей вручную](admin-manual-synchronization-of-table-mappings.md#synchronize-individual-table-mappings).
 
-## <a name="filter-records-and-rows"></a>Фильтрация записей и строк
+## <a name="filter-records-and-rows"></a><a name="filter-records-and-rows"></a>Фильтрация записей и строк
 
 Если вы не хотите синхронизировать все строки для конкретной таблицы в [!INCLUDE[prod_short](includes/cds_long_md.md)] или таблицы в [!INCLUDE[prod_short](includes/prod_short.md)], можно настроить фильтры для ограничения синхронизируемых данных. Можно установить фильтры на странице **Сопоставления таблиц интеграции**.  
 
@@ -81,18 +81,18 @@ ms.search.keywords: 'sales, crm, integration, sync, synchronize, table mapping'
 2. Для фильтрации записей [!INCLUDE[prod_short](includes/prod_short.md)] задайте значение в поле **Фильтр таблицы**.  
 3. Для фильтрации строк [!INCLUDE[prod_short](includes/cds_long_md.md)] задайте значение в поле **Фильтр таблицы интеграции**.  
 
-## <a name="create-new-records"></a>Создание новых записей
+## <a name="create-new-records"></a><a name="create-new-records"></a>Создание новых записей
 
 По умолчанию задания синхронизации интеграции выполнят синхронизацию только связанных записей в [!INCLUDE[prod_short](includes/prod_short.md)] и строк в [!INCLUDE[prod_short](includes/cds_long_md.md)]. Можно настроить сопоставления таблицы, чтобы новые записи или строки были созданы в назначении (например, [!INCLUDE[prod_short](includes/prod_short.md)]) для каждой строки в источнике (например, [!INCLUDE[prod_short](includes/cds_long_md.md)]), которая уже не связана.  
 
 Например, задание синхронизации "ПРОДАВЦЫ — Dynamics 365 Sales" использует сопоставление таблицы ПРОДАВЦЫ. Задание синхронизации копирует данные из пользователей в [!INCLUDE[prod_short](includes/cds_long_md.md)] в продавцов в [!INCLUDE[prod_short](includes/prod_short.md)]. Если сопоставление таблицы настроено для создания записей, для каждого пользователя в [!INCLUDE[prod_short](includes/cds_long_md.md)], который еще не связан с продавцом в [!INCLUDE[prod_short](includes/prod_short.md)], в [!INCLUDE[prod_short](includes/prod_short.md)] создается новая строка продавца.  
 
-### <a name="to-create-new-records-during-synchronization"></a>Создание записей во время синхронизации
+### <a name="to-create-new-records-during-synchronization"></a><a name="to-create-new-records-during-synchronization"></a>Создание записей во время синхронизации
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Сопоставления таблиц интеграции**, а затем выберите связанную ссылку.
 2. В операции сопоставления таблицы в списке удалите значение в поле **Синхр. только связанные записи**.  
 
-## <a name="use-configuration-templates-on-table-mappings"></a>Использование шаблонов конфигурации для сопоставлений таблицы
+## <a name="use-configuration-templates-on-table-mappings"></a><a name="use-configuration-templates-on-table-mappings"></a>Использование шаблонов конфигурации для сопоставлений таблицы
 
 Шаблоны конфигурации можно назначить для сопоставлений таблицы, чтобы они использовали новые записи или строки, созданные в [!INCLUDE[prod_short](includes/prod_short.md)] или [!INCLUDE[prod_short](includes/cds_long_md.md)]. Для каждого сопоставления таблицы можно задать шаблон конфигурации, чтобы он использовался для новых записей [!INCLUDE[prod_short](includes/prod_short.md)], и другой шаблон, который должен использовать новые строки [!INCLUDE[prod_short](includes/cds_long_md.md)].  
 
@@ -104,13 +104,13 @@ ms.search.keywords: 'sales, crm, integration, sync, synchronize, table mapping'
 
 * **CDSACCOUNT** создает и синхронизирует новую организацию в [!INCLUDE[prod_short](includes/cds_long_md.md)] на основе организации в [!INCLUDE[prod_short](includes/prod_short.md)].  
 
-### <a name="to-specify-configuration-templates-on-a-table-mapping"></a>Указание шаблонов конфигурации для сопоставления таблицы
+### <a name="to-specify-configuration-templates-on-a-table-mapping"></a><a name="to-specify-configuration-templates-on-a-table-mapping"></a>Указание шаблонов конфигурации для сопоставления таблицы
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Сопоставления таблиц интеграции**, а затем выберите связанную ссылку.
 2. В операции сопоставления таблицы в списке в поле **Код шаблона конфигурации таблиц** выберите шаблон конфигурации для использования для новых записей в [!INCLUDE[prod_short](includes/prod_short.md)].  
 3. Задайте в поле **Код шаблона конфигурации внутр. табл.** шаблон конфигурации для использования для новых записей в [!INCLUDE[prod_short](includes/cds_long_md.md)].
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a>См. также
 
 [Об интеграции Dynamics 365 Business Central с [!INCLUDE[prod_short](includes/cds_long_md.md)]](admin-prepare-dynamics-365-for-sales-for-integration.md )  
 [Синхронизация Business Central и [!INCLUDE[prod_short](includes/cds_long_md.md)]](admin-synchronizing-business-central-and-sales.md)  

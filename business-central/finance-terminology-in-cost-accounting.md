@@ -11,11 +11,11 @@ ms.search.form: 1123
 ms.date: 06/16/2021
 ms.author: edupont
 ---
-# <a name="terminology-in-cost-accounting"></a>Терминология в учете затрат
+# <a name="terminology-in-cost-accounting"></a><a name="terminology-in-cost-accounting"></a>Терминология в учете затрат
 
 В этом разделе определены ключевые понятия, которые используются в учете затрат.  
 
-## <a name="key-terms"></a>Ключевые понятия
+## <a name="key-terms"></a><a name="key-terms"></a>Ключевые понятия
 
  В следующей таблице даны определения основных понятий в учете затрат.  
 
@@ -43,9 +43,9 @@ ms.author: edupont
 |Переменные затраты|Переменные затраты — это расходы, которые меняются пропорционально деятельности компании. Переменные затраты — это сумма предельной себестоимости всех производимых товаров. Постоянные и переменные затраты составляют два компонента общих затрат.|  
 |Вариант|Вариант используется как необязательная определяемая пользователем метка для распределений. Назначение этикетки — фильтрация групп распределения.|  
 
-## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/paths/use-cost-accounting-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/paths/use-cost-accounting-dynamics-365-business-central/)
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a>См. также
 
  [Об учете затрат](finance-about-cost-accounting.md)  
  [Учет по затратам](finance-manage-cost-accounting.md)  

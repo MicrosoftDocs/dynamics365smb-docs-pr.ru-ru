@@ -9,11 +9,11 @@ ms.reviewer: edupont
 ms.author: soalex
 ---
 
-# <a name="import-and-export-financial-reports"></a>Импорт и экспорт бухгалтерских отчетов
+# <a name="import-and-export-financial-reports"></a><a name="import-and-export-financial-reports"></a>Импорт и экспорт бухгалтерских отчетов
 
 Вы можете импортировать и экспортировать финансовые отчеты в другие организации в базы данных.
 
-## <a name="to-import-and-export-financial-reports"></a>Импорт и экспорт бухгалтерских отчетов
+## <a name="to-import-and-export-financial-reports"></a><a name="to-import-and-export-financial-reports"></a>Импорт и экспорт бухгалтерских отчетов
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../../media/ui-search/search_small.png "Что вы хотите сделать") введите **Финансовые отчеты**, затем выберите связанную ссылку.
 2. Выберите действие **Импорт настроек** или **Экспорт настроек**. Создается XML-файл для импорта или экспорта.
@@ -21,7 +21,7 @@ ms.author: soalex
 > [!NOTE]
 > При импорте финансовых отчетов все существующие записи со значениями первичного ключа, равного импортированным значениям, удаляются.
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a>См. также
 
 [Работа с финансовыми отчетами](How-to-Work-with-Account-Schedules.md)  
 

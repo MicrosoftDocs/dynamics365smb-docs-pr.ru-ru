@@ -10,7 +10,7 @@ ms.date: 11/03/2022
 ms.custom: bap-template
 ms.search.keywords: 'License, access, Microsoft 365, collaborate, collaboration, Teams, Microsoft Teams'
 ---
-# <a name="user-access-flow-for-microsoft-365-licenses"></a>Процедура доступа пользователей с лицензиями на Microsoft 365
+# <a name="user-access-flow-for-microsoft-365-licenses"></a><a name="user-access-flow-for-microsoft-365-licenses"></a>Процедура доступа пользователей с лицензиями на Microsoft 365
 
 [!INCLUDE [2023rw1-sec-group-short](includes/2023rw1-sec-group-short.md)]
 
@@ -30,7 +30,7 @@ ms.search.keywords: 'License, access, Microsoft 365, collaborate, collaboration,
 > [!NOTE]
 > Действия могут отличаться от описанных в зависимости от дополнительных параметров безопасности, заданных в Microsoft 365 или Business Central.
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a>См. также
 
 [Доступ к Business Central с лицензиями на Microsoft 365](admin-access-with-m365-license.md#minimum-requirements)  
 [Настройка доступа с лицензиями на Microsoft 365](admin-access-with-m365-license-setup.md)  

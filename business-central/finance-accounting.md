@@ -11,21 +11,21 @@ ms.search.form: '100, 1156, 1157, 1314, 1315, 1316, 9027'
 ms.date: 04/01/2021
 ms.author: edupont
 ---
-# <a name="accountant-experiences-in-"></a>Работа бухгалтера в [!INCLUDE[prod_long](includes/prod_long.md)]
+# <a name="accountant-experiences-in-"></a><a name="accountant-experiences-in-"></a>Работа бухгалтера в [!INCLUDE[prod_long](includes/prod_long.md)]
 
 Любой организации нужно вести учет и подписывать соответствующую документацию. Некоторые организации используют внешнего бухгалтера, а у других — бухгалтер в штате. Независимо от того, какой бухгалтер у вас, вы можете использовать ролевой центр **Бухгалтер** в качестве начальной страницы [!INCLUDE[prod_short](includes/prod_short.md)]. Отсюда можно получить доступ ко всем страницам, которые нужны для работы.  
 
-## <a name="accountant-role-center"></a>Ролевой центр бухгалтера
+## <a name="accountant-role-center"></a><a name="accountant-role-center"></a>Ролевой центр бухгалтера
 
 Ролевой центр — это панель мониторинга с плитками, которые показывают основные показатели в реальном времени и дают быстрый доступ к данным. На ленте в верхней части страницы доступны дополнительные действия, такие как открытие часто используемых финансовых отчетов и выписок в Microsoft Excel. На панели навигации сверху можно быстро переходить между списками, которые чаще всего используются. Здесь отображаются другие области, такие как **Учтенные документы**, с различными типами документов, учтенных в организации.  
 
 Если вы впервые работаете с [!INCLUDE[prod_short](includes/prod_short.md)], вы можете запустить список видео в правой части ролевого центра. Можно также запустить тур **Приступая к работе**, содержащее основную информацию.  
 
-## <a name="company-hub"></a>Раздел организации
+## <a name="company-hub"></a><a name="company-hub"></a>Раздел организации
 
 Если вы работаете в нескольких компаниях [!INCLUDE [prod_short](includes/prod_short.md)], вам может быть полезно использовать страницу **Раздел организации** для контроля работы.  Для получения дополнительной информации см. [Управление работой нескольких компаний в разделе организаций](company-hub.md).  
 
-## <a name="inviting-your-external-accountant-to-your-"></a><a name="inviteaccountant"></a>Приглашение внешнего бухгалтера в ваш экземпляр [!INCLUDE[prod_short](includes/prod_short.md)]
+## <a name="inviting-your-external-accountant-to-your-"></a><a name="inviting-your-external-accountant-to-your-"></a><a name="inviteaccountant"></a>Приглашение внешнего бухгалтера в ваш экземпляр [!INCLUDE[prod_short](includes/prod_short.md)]
 
 Если вы используете внешнего бухгалтера для управления вашим учетом и финансовой отчетностью, ваш администратор может пригласить его в ваш экземпляр [!INCLUDE[prod_short](includes/prod_short.md)], чтобы он работал в вашими данными. [!INCLUDE[prod_short](includes/prod_short.md)] включает три лицензии типа "Внешний бухгалтер". Подробные сведения о лицензировании см. в разделе [Руководство по лицензированию Microsoft Dynamics 365 Business Central](https://go.microsoft.com/fwlink/?LinkId=871590).
 
@@ -45,11 +45,11 @@ ms.author: edupont
 >
 > Эта задача требует доступа к управлению пользователями и лицензиями в Azure Active Directory. Пользователю, который отправляет это приглашение, должна быть назначена роль **Глобальный администратор** или **Администратор пользователей** в центре администрирования Microsoft 365. Для получения дополнительной информации см. [О ролях администраторов](/microsoft-365/admin/add-users/about-admin-roles) в материалах для администраторов Microsoft 365.  
 
-### <a name="adding-your-accountant-to-your-microsoft-365-in-the-azure-portal"></a>Добавление вашего бухгалтера в Microsoft 365 через портал Azure
+### <a name="adding-your-accountant-to-your-microsoft-365-in-the-azure-portal"></a><a name="adding-your-accountant-to-your-microsoft-365-in-the-azure-portal"></a>Добавление вашего бухгалтера в Microsoft 365 через портал Azure
 
 Если ваш администратор или партнер по перепродаже не хотят использовать руководство **Пригласить внешнего бухгалтера**, они могут добавить внешнего пользователя на портале Azure и назначить этому пользователю лицензию *Внешний бухгалтер*. Для получения дополнительной информации см. [Быстрый старт: добавление гостевых пользователей в каталог на портале Azure](/azure/active-directory/b2b/b2b-quickstart-add-guest-users-portal).
 
-#### <a name="to-add-your-accountant-as-a-guest-user"></a>Чтобы добавить бухгалтера в качестве гостя
+#### <a name="to-add-your-accountant-as-a-guest-user"></a><a name="to-add-your-accountant-as-a-guest-user"></a>Чтобы добавить бухгалтера в качестве гостя
 
 1. Откройте [портал Azure](https://portal.azure.com/).
 2. В левой области выберите **Azure Active Directory**.
@@ -64,7 +64,7 @@ ms.author: edupont
 
 Затем вы должны назначить новому гостевому пользователю лицензию на [!INCLUDE[prod_short](includes/prod_short.md)].
 
-#### <a name="to-give-your-accountant-access-to-your-"></a>Как дать бухгалтеру доступ к вашему [!INCLUDE[prod_short](includes/prod_short.md)]
+#### <a name="to-give-your-accountant-access-to-your-"></a><a name="to-give-your-accountant-access-to-your-"></a>Как дать бухгалтеру доступ к вашему [!INCLUDE[prod_short](includes/prod_short.md)]
 
 1. На портале Azure для нового пользователя выберите **Профиль**, а затем выберите **Редактировать**.
 2. Укажите страну в поле **Расположение использования**, а затем выберите **Сохранить**.
@@ -78,11 +78,11 @@ ms.author: edupont
 
 В случае успеха лицензия назначается гостевому пользователю и создается гостевая учетная запись.
 
-### <a name="importing-the-new-user-into-"></a>Импорт нового пользователя в [!INCLUDE[prod_short](includes/prod_short.md)]
+### <a name="importing-the-new-user-into-"></a><a name="importing-the-new-user-into-"></a>Импорт нового пользователя в [!INCLUDE[prod_short](includes/prod_short.md)]
 
 Бухгалтер получит электронное письмо с уведомлением о том, что ему предоставлен доступ к вашей Active Directory. Далее вы должны предоставить ему доступ к нужной компании в [!INCLUDE[prod_short](includes/prod_short.md)].
 
-#### <a name="to-add-the-accountant-to-the-right-company"></a>Добавление бухгалтера в нужную компанию
+#### <a name="to-add-the-accountant-to-the-right-company"></a><a name="to-add-the-accountant-to-the-right-company"></a>Добавление бухгалтера в нужную компанию
 
 1. Откройте компанию [!INCLUDE[prod_short](includes/prod_short.md)], к которой вы хотите предоставить бухгалтеру доступ, по адресу [https://businesscentral.dynamics.com](https://businesscentral.dynamics.com).
 2. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Пользователи**, а затем выберите связанную ссылку.  
@@ -92,7 +92,7 @@ ms.author: edupont
 
 Если вы хотите предоставить доступ нескольким компаниям, вы должны войти в каждую компанию и повторить этот процесс. Кроме того, вы можете обновить группы разрешений для профиля пользователя бухгалтера в [!INCLUDE[prod_short](includes/prod_short.md)]например, назначив их в группу пользователей *D365 Bus Premium*. Дополнительные сведения см. в разделе [Назначение разрешений пользователям и группам](ui-define-granular-permissions.md).  
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a>См. также
 
 [Финансы](finance.md)  
 [Настройка финансов](finance-setup-finance.md)  

@@ -10,7 +10,7 @@ ms.search.form: '99000846, 99000850'
 ms.date: 03/08/2023
 ms.author: edupont
 ---
-# <a name="batch-post-production-consumption"></a>Учет потребления для производства в пакетном режиме
+# <a name="batch-post-production-consumption"></a><a name="batch-post-production-consumption"></a>Учет потребления для производства в пакетном режиме
 
 Если используется метод списания **Вручную**, используйте журнал потребления для учета компонентов вручную.  
 
@@ -19,7 +19,7 @@ ms.author: edupont
 
 Можно также настроить [!INCLUDE[prod_short](includes/prod_short.md)] для автоматического учета (*списания*) компонентов при запуске или завершении производственных заказов. Дополнительные сведения см. в разделе [Включение списания компонентов в соответствии с производственным выпуском](production-how-to-flush-components-according-to-operation-output.md).
 
-## <a name="to-post-consumption-for-one-or-more-production-order-lines"></a>Учет потребления для одной или нескольких строк производственного заказа
+## <a name="to-post-consumption-for-one-or-more-production-order-lines"></a><a name="to-post-consumption-for-one-or-more-production-order-lines"></a>Учет потребления для одной или нескольких строк производственного заказа
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Журнал потребления**, а затем выберите связанную ссылку.  
 2. Заполните поля данными производственного заказа и данными о потреблении. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
@@ -33,7 +33,7 @@ ms.author: edupont
 
     [!INCLUDE [preview-posting-inventory](includes/preview-posting-inventory.md)]
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a>См. также
 
 [Производство](production-manage-manufacturing.md)  
 [Настройка производства](production-configure-production-processes.md)  

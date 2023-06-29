@@ -9,7 +9,7 @@ ms.reviewer: edupont
 ms.author: soalex
 ---
 
-# <a name="adjust-exchange-rates-in-the-russian-version"></a>Корректировка валютных курсов в версии для России
+# <a name="adjust-exchange-rates-in-the-russian-version"></a><a name="adjust-exchange-rates-in-the-russian-version"></a>Корректировка валютных курсов в версии для России
 
 Разница для между российской и международной функцией — российский отчет создает корректировочную операцию для каждой операции Поставщика и Клиента и использует учетную группу из операции не из карточки Продавца и Клиента.
 

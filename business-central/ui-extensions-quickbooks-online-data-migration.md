@@ -12,11 +12,11 @@ ms.date: 06/24/2021
 ms.author: bholtorf
 ---
 
-# <a name="the-quickbooks-online-data-migration-extension"></a>Расширение миграции данных QuickBooks Online
+# <a name="the-quickbooks-online-data-migration-extension"></a><a name="the-quickbooks-online-data-migration-extension"></a>Расширение миграции данных QuickBooks Online
 
 Это расширение входит в руководстве по сопровождаемой настройке **Миграция данных**, которое помогает переносить важные бизнес-данные из QuickBooks Online в [!INCLUDE[prod_short](includes/prod_short.md)]. Например, это бывает полезно, если ваш бизнес расет, и вы решили обновить свое приложение для управления бизнесом и перейти на [!INCLUDE[prod_short](includes/prod_short.md)].
 
-## <a name="what-data-can-i-import-from-quickbooks-online"></a>Какие данные можно импортировать из QuickBooks Online?
+## <a name="what-data-can-i-import-from-quickbooks-online"></a><a name="what-data-can-i-import-from-quickbooks-online"></a>Какие данные можно импортировать из QuickBooks Online?
 
 Можно импортировать следующие данные из QuickBooks Online в [!INCLUDE[prod_short](includes/prod_short.md)]:  
 
@@ -33,7 +33,7 @@ ms.author: bholtorf
 > [!NOTE]  
 > Мы не переносим заказы на покупку и заказы на продажу.
 
-## <a name="before-you-start"></a>Перед началом работы
+## <a name="before-you-start"></a><a name="before-you-start"></a>Перед началом работы
 
 Важной частью процесса миграции является указание счетов, на которые должны быть перенесены транзакции. Рекомендуется задать сопоставление до переноса данных. Например, задать счета, на которых вы учитываете транзакции для:  
 
@@ -45,14 +45,14 @@ ms.author: bholtorf
 
 Если транзакции в QuickBooks Online содержат суммы налога, необходимо настроить налоговый счет в налоговых юрисдикциях в [!INCLUDE[prod_short](includes/prod_short.md)], прежде чем вы сможете учитывать транзакции.
 
-## <a name="how-do-i-start-using-the-extension"></a>Как начать использование расширения?
+## <a name="how-do-i-start-using-the-extension"></a><a name="how-do-i-start-using-the-extension"></a>Как начать использование расширения?
 
 Начать очень просто. Вам достаточно запустить руководство по сопровождаемой настройке **Миграция данных**. Вот как это сделать:
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Мастер настройки**, а затем выберите **Миграция бизнес-данных**.
 2. На каждом этапе следуйте инструкциям руководства по сопровождаемой настройке.
 
-## <a name="what-do-i-do-after-i-migrate-data"></a>Что нужно сделать после переноса данных?
+## <a name="what-do-i-do-after-i-migrate-data"></a><a name="what-do-i-do-after-i-migrate-data"></a>Что нужно сделать после переноса данных?
 
 После переноса данных транзакции имеют статус **Неучтенные**, чтобы их можно было проверить и внести корректировки. Чтобы проверить транзакции, откройте страницу, на которой они должны находиться. Например, чтобы проверить неучтенные счета продажи, перейдите на страницу **Счета продажи**. Чтобы проверить журналы платежей, перейдите на страницу **Журналы платежей**.  
 
@@ -62,9 +62,9 @@ ms.author: bholtorf
 * Если вы используете налог на добавленную стоимость (НДС), вы можете добавить учетные бизнес-группы или товарные группы в параметры учета, чтобы вы могли учитывать суммы НДС.
 * Проверьте начальные сальдо счетов в главной книге. В QuickBooks Online не хранится текущее сальдо для всех счетов, поэтому вам может потребоваться исправить начальные сальдо.
 
-## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/migrate-data-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/migrate-data-dynamics-365-business-central/)
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a>См. также
 
 [Импорт бизнес-данных из других финансовых систем](across-import-data-configuration-packages.md)  
 [Настройка [!INCLUDE[prod_short](includes/prod_short.md)] с помощью расширений](ui-extensions.md)  

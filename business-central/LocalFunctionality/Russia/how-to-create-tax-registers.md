@@ -9,7 +9,7 @@ ms.reviewer: edupont
 ms.author: soalex
 ---
 
-# <a name="create-tax-registers"></a>Расчет налоговых регистров
+# <a name="create-tax-registers"></a><a name="create-tax-registers"></a>Расчет налоговых регистров
 
 В следующей процедуре показан порядок создания налоговых регистров.
 
@@ -53,7 +53,7 @@ ms.author: soalex
 
 12. Выберите **Показать связанные записи** для просмотра всех транзакций любой созданной книги операций.
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a>См. также
 
 [Налоговый учет](Tax-Accounting.md)  
 [Налоговые регистры](Tax-Registers.md)  

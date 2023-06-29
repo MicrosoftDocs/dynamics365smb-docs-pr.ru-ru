@@ -10,7 +10,7 @@ ms.search.form: '1115, 1116, 1117, 1118, 1119, 1120, 1121, 1131, 1132, 1133'
 ms.date: 06/16/2021
 ms.author: edupont
 ---
-# <a name="creating-cost-budgets"></a>Создание бюджетов затрат
+# <a name="creating-cost-budgets"></a><a name="creating-cost-budgets"></a>Создание бюджетов затрат
 
 Бюджетирование при учете затрат напоминает бюджетирование в Главной книге. Бюджет расходов создается на основе типов затрат, подобно тому как бюджет Главной книги — на основе счетов Главной книги.  
 
@@ -26,9 +26,9 @@ ms.author: edupont
 |См. регистры бюджета затрат и записи бюджета затрат.|Страница **Журналы бюджета расходов**|  
 |Печать сравнений бюджета затрат с использованием различных отчетов.|Отчет **Баланс/Бюджет затрат**<br /><br /> Отчет **Ведомость учета затрат/Бюджет**<br /><br /> отчет **Бюджет затрат по центрам затрат**<br /><br /> Отчет **Бюджет затрат по объектам затрат**|  
 
-## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/cost-accounting-reports-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/cost-accounting-reports-dynamics-365-business-central/)
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a>См. также
 
 [Учет по затратам](finance-manage-cost-accounting.md)  
 [Создание бюджетов ГК](finance-how-create-budgets.md)  
