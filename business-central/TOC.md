@@ -1,5 +1,6 @@
 
-# [Добро пожаловать в Business Central](index.md)
+# [Документация по Business Central](index.yml)
+# [Добро пожаловать в Business Central](welcome.md)
 # [Новые и планируемые возможности](product-news.md)
 # Начало работы
 ## [Обзор бизнес-функциональности](across-business-functionality.md)
@@ -156,7 +157,8 @@
 ### [Изменение базовых параметров](ui-change-basic-settings.md)
 ### [Переключение на другую организацию или среду](ui-organization-switch.md)
 ### [Управление уведомлениями](ui-smart-notifications.md)
-### [Советы по повышению продуктивности для бизнес-пользователей](/dynamics365/business-central/dev-itpro/performance/performance-users?toc=/dynamics365/business-central/toc.json)
+### [Советы по повышению производительности для бизнес-пользователей](/dynamics365/business-central/dev-itpro/performance/performance-users?toc=/dynamics365/business-central/toc.json)
+### [Анализ производительности](/dynamics365/business-central/dev-itpro/administration/performance-profiler-overview?toc=/dynamics365/business-central/toc.json)
 ### [Предупреждения и сообщения об ошибках](product-error-messages.md)
 ### Персонализация Business Central
 #### [Персонализация вашей рабочей области](ui-personalization-user.md)
@@ -996,6 +998,7 @@
 ### Индия
 #### [Обзор](LocalFunctionality/India/india-local-functionality.md)
 #### [Настройка учетных серий номеров](LocalFunctionality/India/posting-no-series-setup.md)
+#### [Журнал аудита и журналы изменений для бухгалтерского программного обеспечения в Индии](LocalFunctionality/India/india-audit-trail-edit-logs-accounting-software.md)
 #### Механизм начисления налогов
 ##### [Обзор](LocalFunctionality/India/TaxEngine-001-Overview.md)  
 ##### [Конфигурация импорта и экспорта механизма начисления налогов](LocalFunctionality/India/TaxEngine-002-Import-Export-Configuration.md)
@@ -1844,6 +1847,7 @@
 ### [Задачи администрирования](admin-setup-and-administration.md)
 ### Управление доступом к Business Central
 #### [Обзор](admin-access-overview.md)
+#### [Управление доступом к Business Central с помощью групп безопасности](ui-security-groups.md)
 #### Доступ с лицензиями на Microsoft 365
 ##### [Обзор](admin-access-with-m365-license.md)
 ##### [Настройка доступа с лицензиями на Microsoft 365](admin-access-with-m365-license-setup.md)
