@@ -9,11 +9,11 @@ ms.reviewer: edupont
 ms.author: soalex
 ---
 
-# <a name="vat-settlement"></a><a name="vat-settlement"></a>Зачет НДС
+# <a name="vat-settlement"></a><a name="vat-settlement"></a><a name="vat-settlement"></a>Зачет НДС
 
 Возможен полный зачет НДС или части НДС.
 
-## <a name="setup"></a><a name="setup"></a>Настройка
+## <a name="setup"></a><a name="setup"></a><a name="setup"></a>Настройка
 
 Вы должны настроить учетные группы НДС на странице **Настройка учета НДС**. Вы можете указать НДС бизнес-группу или НДС товарную группу.  
 
@@ -26,7 +26,7 @@ ms.author: soalex
 - Указаны шаблон зачета НДС и раздел зачета НДС  
 - Указан счет нереализованного НДС
 
-## <a name="vat-settlement-1"></a><a name="vat-settlement-1"></a>Зачет НДС
+## <a name="vat-settlement-1"></a><a name="vat-settlement-1"></a><a name="vat-settlement-1"></a>Зачет НДС
 
 Чтобы вручную зачесть НДС, необходимо использовать рабочий лист для зачета НДС.   
 
@@ -42,7 +42,7 @@ ms.author: soalex
 
 После учета журнала в регистре НДС появляется сформированная транзакция.
 
-### <a name="vat-allocation"></a><a name="vat-allocation"></a>Распределение НДС
+### <a name="vat-allocation"></a><a name="vat-allocation"></a><a name="vat-allocation"></a>Распределение НДС
 
 Можно учесть только часть суммы НДС и списать оставшуюся часть.
 
@@ -56,7 +56,7 @@ ms.author: soalex
 
 3. Нажмите ОК. Учтите журнал.
 
-## <a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
 
 [Функциональность локальной версии для России](russia-local-functionality.md)  
 

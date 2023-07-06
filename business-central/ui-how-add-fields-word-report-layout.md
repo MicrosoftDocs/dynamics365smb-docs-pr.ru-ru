@@ -11,7 +11,7 @@ ms.date: 11/25/2021
 ms.author: jswymer
 ---
 
-# <a name="work-with-word-layouts"></a><a name="work-with-word-layouts"></a>Работа с макетами Word
+# <a name="work-with-word-layouts"></a><a name="work-with-word-layouts"></a><a name="work-with-word-layouts"></a>Работа с макетами Word
 
 Макет отчета Word определяет содержимое и формат отчета при его предварительном просмотре и печати из Business Central. Вы создаете и изменяете эти макеты, используя Microsoft Word.
 
@@ -26,18 +26,18 @@ ms.author: jswymer
 > [!TIP]  
 > Отобразите сетку таблицы, чтобы было видно границы ячеек таблицы. Не забудьте скрыть сетки при редактировании. Чтобы показать или скрыть сетки таблицы, выберите таблицу, а затем в разделе **Макет** на вкладке **Таблица** выберите **Отобразить сетку**.
 
-## <a name="embedding-fonts-in-word-layouts-for-consistency"></a><a name="embedding-fonts-in-word-layouts-for-consistency"></a>Внедрение шрифтов в макеты Word для единообразия
+## <a name="embedding-fonts-in-word-layouts-for-consistency"></a><a name="embedding-fonts-in-word-layouts-for-consistency"></a><a name="embedding-fonts-in-word-layouts-for-consistency"></a>Внедрение шрифтов в макеты Word для единообразия
 
 Чтобы отчеты всегда отображались и печатались с использованием предусмотренного шрифта, когда пользователь открывает или печатает отчеты, можно внедрить шрифты в документ Word. Однако внедренные шрифты значительно увеличивают размер файлов Word. Дополнительные сведения о внедрении шрифтов в Word см. в разделе [Внедрение шрифтов в Word, PowerPoint или Excel](https://support.office.com/article/Embed-fonts-in-Word-PowerPoint-or-Excel-cb3982aa-ea76-4323-b008-86670f222dbc).
 
-## <a name="adding-data-fields"></a><a name="adding-data-fields"></a>Добавление полей данных
+## <a name="adding-data-fields"></a><a name="adding-data-fields"></a><a name="adding-data-fields"></a>Добавление полей данных
 
 Набор данных отчета может состоять из полей, отображающих метки, данные и изображения. В этом разделе описывается процедура добавления полей набора данных отчета в существующий макет отчета Word для отчета. Поля добавляются с использованием пользовательской части XML в Word для отчета и путем добавления элементов управления содержимым, сопоставляемых полям в наборе данных отчета. Добавление полей требует определенных знаний набора данных отчета, чтобы можно было идентифицировать поля, которые требуется добавить в макет.  
   
 > [!NOTE]  
 >  Невозможно изменить встроенные макеты отчетов<!--Onprem. Built-in layouts can only be modified by using the development environment-->.  
 
-### <a name="to-open-the-custom-xml-part-for-the-report-in-word"></a><a name="to-open-the-custom-xml-part-for-the-report-in-word"></a><a name="OpenXMLPart"></a> Открытие пользовательской части XML для отчета в Word
+### <a name="to-open-the-custom-xml-part-for-the-report-in-word"></a><a name="to-open-the-custom-xml-part-for-the-report-in-word"></a><a name="to-open-the-custom-xml-part-for-the-report-in-word"></a><a name="OpenXMLPart"></a> Открытие пользовательской части XML для отчета в Word
   
 1. Если это еще не сделано, откройте макет отчета Word в Word.  
   
@@ -59,7 +59,7 @@ ms.author: jswymer
   
      После выбора пользовательской XML-части в области сопоставления XML отображаются метки и элементы управления полем, доступные для отчета.  
   
-### <a name="to-add-a-label-or-data-field"></a><a name="to-add-a-label-or-data-field"></a>Добавление поля метки или данных
+### <a name="to-add-a-label-or-data-field"></a><a name="to-add-a-label-or-data-field"></a><a name="to-add-a-label-or-data-field"></a>Добавление поля метки или данных
   
 1. Поместите курсор в документ, где требуется добавить элемент управления.  
   
@@ -68,7 +68,7 @@ ms.author: jswymer
     > [!NOTE]  
     >  Невозможно добавить поле, вручную введя название поля набора данных в элементе управления содержимым. Необходимо использовать область **Сопоставление XML** для сопоставления полей.  
   
-### <a name="to-add-repeating-rows-of-data-fields-to-create-a-list"></a><a name="to-add-repeating-rows-of-data-fields-to-create-a-list"></a>Добавление повторяющихся строк полей данных для создания списка
+### <a name="to-add-repeating-rows-of-data-fields-to-create-a-list"></a><a name="to-add-repeating-rows-of-data-fields-to-create-a-list"></a><a name="to-add-repeating-rows-of-data-fields-to-create-a-list"></a>Добавление повторяющихся строк полей данных для создания списка
   
 1. В таблице добавьте строку таблицы со столбцом для каждого поля, которое должно повторяться.  
   
@@ -86,7 +86,7 @@ ms.author: jswymer
   
     3. Для каждого поля повторите шаги а и б.  
   
-## <a name="adding-image-fields"></a><a name="adding-image-fields"></a>Добавление полей изображений
+## <a name="adding-image-fields"></a><a name="adding-image-fields"></a><a name="adding-image-fields"></a>Добавление полей изображений
 
 Набор данных отчета может включать поле, содержащее изображение, например логотип компании или изображение товара. Чтобы добавить изображение из набора данных отчета, вставьте элемент управления содержимым **Изображение**.  
   
@@ -95,7 +95,7 @@ ms.author: jswymer
 > [!IMPORTANT]  
 > Можно добавить изображения только в формате, поддерживаемом Word, например BMP, JPEG и PNG. При добавлении изображения в формате, не поддерживаемом Word, получается ошибка при выполнении отчета из клиента [!INCLUDE[prod_short](includes/prod_short.md)].  
   
-### <a name="to-add-an-image"></a><a name="to-add-an-image"></a>Добавление изображения
+### <a name="to-add-an-image"></a><a name="to-add-an-image"></a><a name="to-add-an-image"></a>Добавление изображения
   
 1. Поместите указатель в документ, где требуется добавить элемент управления.  
   
@@ -103,7 +103,7 @@ ms.author: jswymer
   
 3. Чтобы увеличить или уменьшить размер изображения, перетащите маркер размера по направлению к центру элемента управления содержимым или от него.  
 
-## <a name="removing-label-and-data-fields"></a><a name="removing-label-and-data-fields"></a><a name="RemoveField"></a> Удаление полей меток и данных
+## <a name="removing-label-and-data-fields"></a><a name="removing-label-and-data-fields"></a><a name="removing-label-and-data-fields"></a><a name="RemoveField"></a> Удаление полей меток и данных
 
 Поля меток и данных отчета содержатся в элементах управления содержимым в Word. На следующем рисунке показан элемент управления содержимым при выборе в документе Word.  
 
@@ -111,7 +111,7 @@ ms.author: jswymer
 
 Название метки или имя поля с данными отображается в элементе управления содержимым. В этом примере название поля — АдресОрг1.  
 
-### <a name="to-remove-a-label-or-data-field"></a><a name="to-remove-a-label-or-data-field"></a>Удаление метки или поля данных
+### <a name="to-remove-a-label-or-data-field"></a><a name="to-remove-a-label-or-data-field"></a><a name="to-remove-a-label-or-data-field"></a>Удаление метки или поля данных
 
 1. Щелкните правой кнопкой поле, которое требуется удалить, и выберите **Удалить элемент управления содержимым**.  
 
@@ -119,11 +119,11 @@ ms.author: jswymer
 
 2. Удалите остающийся текст по мере надобности
 
-## <a name="custom-xml-part-overview"></a><a name="custom-xml-part-overview"></a>Обзор пользовательской XML-части
+## <a name="custom-xml-part-overview"></a><a name="custom-xml-part-overview"></a><a name="custom-xml-part-overview"></a>Обзор пользовательской XML-части
 
 Макеты отчетов Word создаются на базе *пользовательских XML-частей*. Пользовательская XML-часть для отчета состоит из элементов, соответствующих элементам данных, столбцам и меткам, составляющим набор данных отчета. <!--OnPrem The data as defined in the Report Dataset Designer in Microsoft Dynamics NAV Development Environment. -->Пользовательская XML-часть используется для сопоставления данных в отчете при выполнении отчета.
 
-### <a name="xml-structure-of-custom-xml-part"></a><a name="xml-structure-of-custom-xml-part"></a>Структура XML пользовательской части XML
+### <a name="xml-structure-of-custom-xml-part"></a><a name="xml-structure-of-custom-xml-part"></a><a name="xml-structure-of-custom-xml-part"></a>Структура XML пользовательской части XML
 
 В следующей таблице приведен упрощенный обзор XML пользовательской XML-части.  
   
@@ -136,7 +136,7 @@ ms.author: jswymer
 |`....<DataItem2>`<br /><br /> `......<DataItem2Column1>DataItem2Column1</DataItem2Column1>`<br /><br /> `....</DataItem2>`<br /><br /> `....<DataItem3>`<br /><br /> `......<DataItem3Column1>DataItem3Column1</DataItem3Column1>`<br /><br /> `....</DataItem3>`|Элементы данных и столбцы, вложенные в элемент данных верхнего уровня. Столбцы перечислены в алфавитном порядке под соответствующим элементом данных.|  
 |`..</DataItem1>`<br /><br /> `</WordReportXmlPart>`|Заключительный элемент.|  
   
-### <a name="custom-xml-part-in-word"></a><a name="custom-xml-part-in-word"></a>Пользовательская часть XML в Word
+### <a name="custom-xml-part-in-word"></a><a name="custom-xml-part-in-word"></a><a name="custom-xml-part-in-word"></a>Пользовательская часть XML в Word
 
  В Word следует открыть пользовательскую XML-часть в области **Сопоставление XML**, а затем воспользоваться этой областью для сопоставления этих элементов элементам управления содержимым в документе Word. Область **Сопоставление XML** можно открыть на вкладке **Разработчик** (для получения дополнительных сведений см. в разделе [Отображение вкладки разработчика на ленте](/visualstudio/vsto/how-to-show-the-developer-tab-on-the-ribbon)).  
   
@@ -154,7 +154,7 @@ ms.author: jswymer
   
 * Язык метки, отображаемый при выполнении отчета, зависит от настройки языка объекта отчета.  
   
-## <a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
 
 [Создание и изменение пользовательского макета отчета](ui-how-create-custom-report-layout.md)   
 

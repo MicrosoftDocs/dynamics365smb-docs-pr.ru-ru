@@ -10,7 +10,7 @@ ms.search.keywords: 'electronic document, e-invoice, incoming document, OCR, eco
 ms.date: 06/14/2022
 ms.author: edupont
 ---
-# <a name="create-incoming-document-records"></a><a name="create-incoming-document-records"></a>Создание записей входящих документов
+# <a name="create-incoming-document-records"></a><a name="create-incoming-document-records"></a><a name="create-incoming-document-records"></a>Создание записей входящих документов
 
 На странице **Входящие документы** можно использовать различные функции для просмотра квитанций по расходам, управления задачами OCR, а также преобразования входящих файлов документов, вручную и автоматически, в соответствующие документы либо строки журналов. Внешние файлы можно прикреплять на любом этапе обработки, в том числе к учтенным документам и к полученным записям поставщика, клиента и главной книги.
 
@@ -18,7 +18,7 @@ ms.author: edupont
 
 Перед использованием функции **Входящие документы** необходимо выполнить обязательную настройку. Дополнительные сведения см. в разделе [Настройка входящих документов](across-how-setup-income-documents.md).
 
-## <a name="approve-or-reject-an-incoming-document"></a><a name="approve-or-reject-an-incoming-document"></a>Утверждение или отклонение входящего документа
+## <a name="approve-or-reject-an-incoming-document"></a><a name="approve-or-reject-an-incoming-document"></a><a name="approve-or-reject-an-incoming-document"></a>Утверждение или отклонение входящего документа
 
 Если вы настроили функцию **Входящие документы**, чтобы требовать утверждения для создания документов, пользователи с соответствующими правами должны утвердить записи перед их обработкой. Дополнительные сведения см. в разделе [Настройка утверждающих для записей входящих документов](across-how-setup-income-documents.md#to-set-up-approvers-of-incoming-document-records).
 
@@ -27,7 +27,7 @@ ms.author: edupont
 
 При утверждении записи входящего документа в строке этого документа устанавливается флажок **Выпущено**. Например, пользователь, который отвечает за создание счетов на покупку, может перейти к обработке записи.
 
-## <a name="create-an-incoming-document-record-by-taking-a-photo"></a><a name="create-an-incoming-document-record-by-taking-a-photo"></a>Создание записи входящего документа по фотографии
+## <a name="create-an-incoming-document-record-by-taking-a-photo"></a><a name="create-an-incoming-document-record-by-taking-a-photo"></a><a name="create-an-incoming-document-record-by-taking-a-photo"></a>Создание записи входящего документа по фотографии
 
 > [!NOTE]  
 > Следующая процедура применяется только к клиентам [!INCLUDE[prod_short](includes/prod_short.md)] для планшетов и телефонов.
@@ -39,7 +39,7 @@ ms.author: edupont
 
     Создается новая запись входящего документа с прикрепленным изображением.
 
-## <a name="attach-an-image-to-an-incoming-document-record-by-taking-a-photo"></a><a name="attach-an-image-to-an-incoming-document-record-by-taking-a-photo"></a>Прикрепление изображения к записи входящего документа по фотографии
+## <a name="attach-an-image-to-an-incoming-document-record-by-taking-a-photo"></a><a name="attach-an-image-to-an-incoming-document-record-by-taking-a-photo"></a><a name="attach-an-image-to-an-incoming-document-record-by-taking-a-photo"></a>Прикрепление изображения к записи входящего документа по фотографии
 
 > [!NOTE]  
 > Следующая процедура применяется только к клиентам [!INCLUDE[prod_short](includes/prod_short.md)] для планшетов и телефонов.
@@ -51,7 +51,7 @@ ms.author: edupont
 
     Изображение прикрепляется к записи входящего документа.
 
-## <a name="create-an-incoming-document-record-manually"></a><a name="create-an-incoming-document-record-manually"></a>Создание записи входящего документа вручную
+## <a name="create-an-incoming-document-record-manually"></a><a name="create-an-incoming-document-record-manually"></a><a name="create-an-incoming-document-record-manually"></a>Создание записи входящего документа вручную
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") введите **Входящие документы**, затем выберите связанную ссылку.
 2. Выберите **Создать**, затем выберите действие **Создать из файла**.  
@@ -61,9 +61,9 @@ ms.author: edupont
 6. На странице **Вставка файла** выберите файл, представляющий соответствующий входящий документ, а затем нажмите кнопку **Открыть**.
 7. На странице **Входящий документ** заполните поля по мере необходимости. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 
-## <a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/incoming-documents-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/incoming-documents-dynamics-365-business-central/)
 
-## <a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
 
 [Использование OCR для преобразования PDF-файлов и файлов изображений в электронные документы](across-how-use-ocr-pdf-images-files.md)
 [Создание записей входящих документов непосредственно из документов и операций](across-how-connect-disconnect-income-document-records.md)

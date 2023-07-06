@@ -10,7 +10,7 @@ ms.search.keywords: null
 ms.date: 11/03/2022
 ms.author: bholtorf
 ---
-# <a name="block-items-from-sales-or-purchasing"></a><a name="block-items-from-sales-or-purchasing"></a>Блокировка товаров для продажи или покупки
+# <a name="block-items-from-sales-or-purchasing"></a><a name="block-items-from-sales-or-purchasing"></a><a name="block-items-from-sales-or-purchasing"></a>Блокировка товаров для продажи или покупки
 
 Можно заблокировать товар, чтобы запретить его ввод в строки документов продажи или покупки, а также запретить его учет в транзакциях. Например, это удобно, если товар имеет известный дефект. Если кто-то выберет заблокированный товар в документе продажи или покупки, он получит сообщение о том, что товар заблокирован.
 
@@ -27,22 +27,22 @@ ms.author: bholtorf
 
 При использовании действия **Копировать из документа** для создания новых документов на основе существующих документов вы получаете уведомление, если какие-либо товары в строках исходного документа заблокированы. Заблокированные строки документа исключаются из нового документа, а уведомление показывает обзор всех строк документа, которые заблокированы в исходном документе.
 
-## <a name="to-block-an-item-from-being-entered-on-sales-lines"></a><a name="to-block-an-item-from-being-entered-on-sales-lines"></a>Блокировка ввода товара в строки продажи
+## <a name="to-block-an-item-from-being-entered-on-sales-lines"></a><a name="to-block-an-item-from-being-entered-on-sales-lines"></a><a name="to-block-an-item-from-being-entered-on-sales-lines"></a>Блокировка ввода товара в строки продажи
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Товары**, а затем выберите связанную ссылку.  
 2. Выберите товар, который необходимо заблокировать, а затем установите флажок **Продажи заблокированы**.  
 
-## <a name="to-block-an-item-from-being-entered-on-purchase-lines"></a><a name="to-block-an-item-from-being-entered-on-purchase-lines"></a>Блокировка ввода товара в строки покупки
+## <a name="to-block-an-item-from-being-entered-on-purchase-lines"></a><a name="to-block-an-item-from-being-entered-on-purchase-lines"></a><a name="to-block-an-item-from-being-entered-on-purchase-lines"></a>Блокировка ввода товара в строки покупки
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Товары**, а затем выберите связанную ссылку.  
 2. Выберите товар, который необходимо заблокировать, а затем установите флажок **Покупки заблокированы**.  
 
-## <a name="to-block-an-item-from-being-posted"></a><a name="to-block-an-item-from-being-posted"></a>Блокировка товара для учета
+## <a name="to-block-an-item-from-being-posted"></a><a name="to-block-an-item-from-being-posted"></a><a name="to-block-an-item-from-being-posted"></a>Блокировка товара для учета
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Товары**, а затем выберите связанную ссылку.
 2. Выберите товар, который необходимо заблокировать, а затем установите флажок **Заблокировано**.
 
-## <a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
 
 [Регистрация новых товаров](inventory-how-register-new-items.md)  
 [Запасы](inventory-manage-inventory.md)  

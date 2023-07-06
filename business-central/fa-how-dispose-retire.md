@@ -11,7 +11,7 @@ ms.search.form: '5628, 5610, 5611, 5629, 5633'
 ms.date: 06/15/2021
 ms.author: edupont
 ---
-# <a name="dispose-of-or-retire-fixed-assets"></a><a name="dispose-of-or-retire-fixed-assets"></a>Списание или выбытие основных средств
+# <a name="dispose-of-or-retire-fixed-assets"></a><a name="dispose-of-or-retire-fixed-assets"></a><a name="dispose-of-or-retire-fixed-assets"></a>Списание или выбытие основных средств
 
 При продаже основного средства или его списании по другим причинам необходимо учесть сумму выбытия для расчета и регистрации прибыли или убытков. Операция выбытия должна быть последней операцией, учтенной для основного средства. Для частично списанного основного средства можно учесть более одной операции выбытия. Общая сумма всех учтенных сумм выбытия должна быть суммой по кредиту.  
 
@@ -20,7 +20,7 @@ ms.author: edupont
 
 Следующие шаги предполагают, что вы уже настроили соответствующие учетные группы на странице **Учетные группы ОС**. Дополнительные сведения см. в разделе [Настройка учетных групп основных средств](fa-how-setup-general.md#to-set-up-fixed-asset-posting-groups).  
 
-## <a name="to-post-a-disposal-from-the-fixed-asset-gl-journal"></a><a name="to-post-a-disposal-from-the-fixed-asset-gl-journal"></a>Учет выбытия с использованием журнала ГК учета основных средств
+## <a name="to-post-a-disposal-from-the-fixed-asset-gl-journal"></a><a name="to-post-a-disposal-from-the-fixed-asset-gl-journal"></a><a name="to-post-a-disposal-from-the-fixed-asset-gl-journal"></a>Учет выбытия с использованием журнала ГК учета основных средств
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Журналы ГК учета основных средств**, а затем выберите связанную ссылку.  
 2. Создайте начальную строку журнала и заполните поля, как требуется. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
@@ -33,7 +33,7 @@ ms.author: edupont
 
 В случае продажи или другого выбытия части основного средства, следует разделить средство до регистрации транзакции реализации. Дополнительные сведения см. в разделе [Перемещение, разделение или объединение основных средств](fa-how-trans-split-combine.md).  
 
-## <a name="to-view-disposal-ledger-entries"></a><a name="to-view-disposal-ledger-entries"></a>Просмотр операций книги выбытия
+## <a name="to-view-disposal-ledger-entries"></a><a name="to-view-disposal-ledger-entries"></a><a name="to-view-disposal-ledger-entries"></a>Просмотр операций книги выбытия
 
 При продаже или списании основного средства сумма списания учитывается в главной книге, в которой можно просмотреть результат.  
 
@@ -45,9 +45,9 @@ ms.author: edupont
 
 Открывается страница **Операции главной книги**, на которой можно просмотреть операции, созданные в результате учета реализации.  
 
-## <a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/dispose-fixed-assets/)
+## <a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/dispose-fixed-assets/)
 
-## <a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
 
 [Основные Средства](fa-manage.md)  
 [Настройка основных средств](fa-setup.md)  

@@ -8,11 +8,11 @@ ms.search.form: '306, 307, 347, 385, 524, 865, 5932, 7401, 7355, 99000917'
 ms.date: 06/09/2022
 ms.author: bholtorf
 ---
-# <a name="report-selection-for-documents-in-business-central"></a><a name="report-selection-for-documents-in-business-central"></a>Выбор отчетов для документов в Business Central
+# <a name="report-selection-for-documents-in-business-central"></a><a name="report-selection-for-documents-in-business-central"></a><a name="report-selection-for-documents-in-business-central"></a>Выбор отчетов для документов в Business Central
 
 Вы можете настроить отчеты по умолчанию для печати документов продажи, покупки и сервиса, таких как заказы, предложения с расценками и счета. Например, если у вас есть особый макет для счетов на продажу, вы можете указать этот отчет на странице **Выбор отчетов — продажи**, чтобы его можно было использовать для отправки или печати счетов на продажу.  
 
-## <a name="available-report-selections"></a><a name="available-report-selections"></a>Доступный выбор отчетов
+## <a name="available-report-selections"></a><a name="available-report-selections"></a><a name="available-report-selections"></a>Доступный выбор отчетов
 
 Страницы **Выбор отчета** указывают, какие отчеты будут распечатаны в различных ситуациях. [!INCLUDE [prod_short](includes/prod_short.md)] предоставляет конфигурации по умолчанию, но при необходимости их можно изменить. Можно также добавлять отчеты на страницы **Выбор отчета**, если вы хотите печатать более одного отчета на каждый тип документов, например. 
 
@@ -39,7 +39,7 @@ ms.author: bholtorf
 * **Выбор отчета - работа**  
 * **Выбор отчета - сервис**
 
-## <a name="example-report-selection-for-sales-documents"></a><a name="example-report-selection-for-sales-documents"></a>Пример. Выбор отчета для документов на продажу
+## <a name="example-report-selection-for-sales-documents"></a><a name="example-report-selection-for-sales-documents"></a><a name="example-report-selection-for-sales-documents"></a>Пример. Выбор отчета для документов на продажу
 
 Страница **Выбор отчета - продажи** содержит отчеты по умолчанию, которые будут использоваться в различных сценариях для каждого связанного типа документа. Выберите тип документа в поле **Назначение**, затем добавьте или просмотрите выбранный отчет. Вы можете настроить более одного отчета и указать порядок отправки или распечатки этих отчетов.  
 
@@ -55,7 +55,7 @@ ms.author: bholtorf
 |**Использовать для вложения в сообщение электронной почты**| Прикрепите соответствующий документ к сообщению электронной почты.|
 |**Описание макета содержания сообщения электронной почты**|Укажите используемый макет основного текста сообщения электронной почты. Как правило, это пользовательский макет отчета. |
 
-## <a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
 
 [Настройка многократно используемых текстов и макетов сообщений электронной почты](admin-how-setup-email.md#set-up-reusable-email-texts-and-layouts)  
 [Выбор макета платежного документа](finance-how-define-check-layouts.md)  

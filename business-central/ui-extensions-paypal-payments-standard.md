@@ -11,7 +11,7 @@ ms.search.form: '1070, 1071, 1073, 1074'
 ms.date: 06/23/2021
 ms.author: edupont
 ---
-# <a name="the-paypal-payments-standard-extension"></a><a name="the-paypal-payments-standard-extension"></a>Расширение PayPal Payments Standard
+# <a name="the-paypal-payments-standard-extension"></a><a name="the-paypal-payments-standard-extension"></a><a name="the-paypal-payments-standard-extension"></a>Расширение PayPal Payments Standard
 
 Клиенты постоянно требуют более высокого качества обслуживания как с точки зрения качества продукции, так и с точки зрения вариантов доставки и оплаты. Служба Paypal Payments Standard помогает улучшить качество обслуживания.
 
@@ -29,7 +29,7 @@ ms.author: edupont
 
 Дополнительные сведения см. в разделе [Включение платежей клиентов через PayPal](sales-how-enable-payment-service-extensions.md).
 
-## <a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
 
 [Настройка [!INCLUDE[prod_short](includes/prod_short.md)] с помощью расширений](ui-extensions.md)  
 [Настройка продаж](sales-setup-sales.md)  

@@ -10,7 +10,7 @@ ms.search.keywords: null
 ms.date: 09/13/2022
 ms.author: edupont
 ---
-# <a name="set-up-approval-workflows"></a><a name="set-up-approval-workflows"></a>Настройка рабочих процессов утверждения
+# <a name="set-up-approval-workflows"></a><a name="set-up-approval-workflows"></a><a name="set-up-approval-workflows"></a>Настройка рабочих процессов утверждения
 
 Можно настроить и использовать рабочие процессы, связывающие задачи бизнес-процесса, выполняемые различными пользователями. Системные задачи, такие как автоматический учет, могут включаться в качестве шагов рабочего процесса, предшествующих задачам пользователя или выполняемых после них. Типичные шаги рабочего процесса — запрос и выдача разрешения на создание новых записей. Подробнее в разделе [Использование рабочих процессов утверждения](across-use-workflows.md).
 
@@ -35,16 +35,16 @@ ms.author: edupont
 |Общий доступ к рабочим процессам с другими базами данных [!INCLUDE[prod_short](includes/prod_short.md)].|[Экспорт и импорт рабочих процессов утвердения](across-how-to-export-and-import-workflows.md)|  
 |Изучение принципов настройки рабочего процесса для утверждения документов продажи, следуя единой комплексной процедуре.|[Пошаговое руководство. Настройка и использование рабочего процесса утверждения покупки](walkthrough-setting-up-and-using-a-purchase-approval-workflow.md)|  
 
-## <a name="example-of-an-approval-workflow"></a><a name="example-of-an-approval-workflow"></a>Пример рабочего процесса утверждения
+## <a name="example-of-an-approval-workflow"></a><a name="example-of-an-approval-workflow"></a><a name="example-of-an-approval-workflow"></a>Пример рабочего процесса утверждения
 
 В этом видео показано, как настроить рабочий процесс, требующий от пользователя запросить чье-либо одобрение, прежде чем он сможет изменить информацию о существующем клиенте или создать нового клиента.  
 <br><br>  
 
 > [!Video https://www.microsoft.com/en-us/videoplayer/embed/RE4jzHI?rel=0]
 
-## <a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/create-workflows/)
+## <a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/create-workflows/)
 
-## <a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
 
 [Использование рабочих процессов утверждения](across-use-workflows.md)  
 [Рабочий процесс](across-workflow.md)  

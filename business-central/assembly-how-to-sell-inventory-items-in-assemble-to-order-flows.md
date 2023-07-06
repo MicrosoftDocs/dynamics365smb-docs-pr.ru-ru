@@ -10,7 +10,7 @@ ms.custom: bap-template
 ms.search.keywords: 'kit, kitting'
 ms.search.form: '900, 901, 902, 903, 904, 907, 910, 916, 920, 921, 922, 923, 940, 941, 942, 930, 931, 932, 914, 915, 905'
 ---
-# <a name="selling-inventory-items-in-assemble-to-order-flows"></a><a name="selling-inventory-items-in-assemble-to-order-flows"></a>Продажа складских товаров в потоках сборки на заказ
+# <a name="selling-inventory-items-in-assemble-to-order-flows"></a><a name="selling-inventory-items-in-assemble-to-order-flows"></a><a name="selling-inventory-items-in-assemble-to-order-flows"></a>Продажа складских товаров в потоках сборки на заказ
 
 Если поле **Политика сборки** в карточке товара сборочного элемента имеет значение **Сборка на заказ**, процесс продажи по умолчанию предполагает, что товар отсутствует в запасах и должен быть собран для данного конкретного заказа на продажу. При добавлении товара в строке заказа на продажу [!INCLUDE [prod_short](includes/prod_short.md)] создает заказ на сборку и связывает с заказом на продажу. Чтобы узнать больше о том, как продавать товары, собираемые на заказ, перейдите к [Продажа товара, собранного на заказ](assembly-how-to-sell-items-assembled-to-order.md). Однако, если некоторая часть заказа на продажу уже доступна на складе, можно создать уменьшение количества заказа на сборку, изменив поле **Количество для сборки на заказ** в строке заказа на продажу.  
 
@@ -30,7 +30,7 @@ ms.search.form: '900, 901, 902, 903, 904, 907, 910, 916, 920, 921, 922, 923, 940
 2. Уменьшение этого количества из связанного заказа на сборку.
 3. Резервирование количества запасов, чтобы убедиться, что оно подобрано и отгружено для заказа.  
 
-## <a name="to-sell-inventory-items-in-assemble-to-order-flows"></a><a name="to-sell-inventory-items-in-assemble-to-order-flows"></a>Продажа складских товаров в потоках сборки на заказ
+## <a name="to-sell-inventory-items-in-assemble-to-order-flows"></a><a name="to-sell-inventory-items-in-assemble-to-order-flows"></a><a name="to-sell-inventory-items-in-assemble-to-order-flows"></a>Продажа складских товаров в потоках сборки на заказ
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Заказы на продажу**, а затем выберите связанную ссылку.  
 2. Создайте заказ на продажу. Подробнее о том, как создавать заказы на продажу, см. в разделе [Продажа продуктов](sales-how-sell-products.md).  
@@ -47,9 +47,9 @@ ms.search.form: '900, 901, 902, 903, 904, 907, 910, 916, 920, 921, 922, 923, 940
 > [!CAUTION]  
 > Поле **Код ячейки** в заказе на продажу может быть предварительно заполнено в соответствии с полем **Код ячейки сборки на заказ** или **Код исходящей сборочн. ячейки** в карточке склада. В этом случае поле **Код ячейки** в строке заказа на продажу может быть неправильным при таком сочетании количества сборки на заказ и сборки на склад. Рекомендуется перепроверить, что ячейка в поле **Код ячейки** работает для всех количеств. В качестве альтернативы введите два разных количества в отдельных строках заказа на продажу.  
 
-## <a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/assemble-to-order-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/assemble-to-order-dynamics-365-business-central/)
 
-## <a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
 
 [Управление сборкой](assembly-assemble-items.md)  
 [Резервирование товаров](inventory-how-to-reserve-items.md)  

@@ -11,13 +11,13 @@ ms.date: 09/07/2022
 ms.author: jswymer
 ---
 
-# <a name="building-power-bi-reports-to-display--data"></a><a name="building-power-bi-reports-to-display--data"></a>Создание отчетов Power BI для отображения данных [!INCLUDE [prod_long](includes/prod_long.md)]
+# <a name="building-power-bi-reports-to-display--data"></a><a name="building-power-bi-reports-to-display--data"></a><a name="building-power-bi-reports-to-display--data"></a>Создание отчетов Power BI для отображения данных [!INCLUDE [prod_long](includes/prod_long.md)]
 
 Можно сделать данные [!INCLUDE[prod_long](includes/prod_long.md)] доступными в качестве источника данных в Power BI Desktop и создать мощные отчеты о состоянии вашего бизнеса.
 
 В этой статье рассказывается, как начать использовать Power BI Desktop для создания отчетов, отображающих данные [!INCLUDE[prod_long](includes/prod_long.md)].  После создания отчетов вы можете опубликовать их в своей службе Power BI или поделиться ими со всеми пользователями в вашей организации. Как только эти отчеты будут в службе Power BI, пользователи, которые настроены для нее, могут затем просматривать отчеты в [!INCLUDE[prod_long](includes/prod_long.md)].
 
-## <a name="get-ready"></a><a name="get-ready"></a>Подготовка
+## <a name="get-ready"></a><a name="get-ready"></a><a name="get-ready"></a>Подготовка
 
 - Подпишитесь на службу Power BI.
 
@@ -46,7 +46,7 @@ ms.author: jswymer
 
 [!INCLUDE[note-multicompany-reports](includes/note-multicompany-reports.md)]
 
-## <a name="add--as-a-data-source-in-power-bi-desktop"></a><a name="add--as-a-data-source-in-power-bi-desktop"></a><a name="getdata"></a>Добавление [!INCLUDE[prod_short](includes/prod_short.md)] как источника данных в Power BI Desktop
+## <a name="add--as-a-data-source-in-power-bi-desktop"></a><a name="add--as-a-data-source-in-power-bi-desktop"></a><a name="add--as-a-data-source-in-power-bi-desktop"></a><a name="getdata"></a>Добавление [!INCLUDE[prod_short](includes/prod_short.md)] как источника данных в Power BI Desktop
 
 Первая задача при создании отчетов — добавить [!INCLUDE[prod_short](includes/prod_short.md)] как источник данных в Power BI Desktop. После подключения вы можете приступить к созданию отчета.
 
@@ -100,39 +100,39 @@ ms.author: jswymer
 > [!TIP]
 > Дополнительные сведения об использовании Power BI Desktop см. в разделе [Приступая к работе с Power BI Desktop](/power-bi/fundamentals/desktop-getting-started).
 
-## <a name="creating-accessible-reports"></a><a name="creating-accessible-reports"></a>Создание доступных отчетов
+## <a name="creating-accessible-reports"></a><a name="creating-accessible-reports"></a><a name="creating-accessible-reports"></a>Создание доступных отчетов
 
 Важно, чтобы ваши отчеты были доступны как можно большему количеству людей. Постарайтесь создавать отчеты так, чтобы они не требовали специальной адаптации для удовлетворения конкретных потребностей разных пользователей. Убедитесь, что дизайн позволяет пользователям использовать стандартные технологии специальных возможностей, например программы чтения с экрана. Power BI включает различные специальные возможности, инструменты и рекомендации, которые помогут вам в достижении этой цели. Для дополнительной информации см. [Разработка отчетов Power BI с учетом специальных возможностей](/power-bi/create-reports/desktop-accessibility-creating-reports) в документации Power BI.
 
-## <a name="creating-reports-to-display-data-associated-with-a-list"></a><a name="creating-reports-to-display-data-associated-with-a-list"></a>Создание отчетов для отображения данных, связанных со списком
+## <a name="creating-reports-to-display-data-associated-with-a-list"></a><a name="creating-reports-to-display-data-associated-with-a-list"></a><a name="creating-reports-to-display-data-associated-with-a-list"></a>Создание отчетов для отображения данных, связанных со списком
 
 Вы можете создавать отчеты, которые отображаются на информационной панели страницы списка [!INCLUDE [prod_short](includes/prod_short.md)]. Отчеты могут содержать данные о записи, выбранной в списке. Создание этих отчетов аналогично созданию других отчетов, за исключением того, что вам нужно сделать несколько вещей, чтобы убедиться, что отчеты отображаются должным образом. Для получения дополнительной информации см. раздел [Создание отчетов Power BI для отображения данных списка в [!INCLUDE[prod_short](includes/prod_short.md)]](across-how-use-powerbi-reports-factbox.md).
 
-## <a name="using-the--report-theme-optional"></a><a name="using-the--report-theme-optional"></a><a name="theme"></a>Использование темы отчетов [!INCLUDE [prod_short](includes/prod_short.md)] (необязательно)
+## <a name="using-the--report-theme-optional"></a><a name="using-the--report-theme-optional"></a><a name="using-the--report-theme-optional"></a><a name="theme"></a>Использование темы отчетов [!INCLUDE [prod_short](includes/prod_short.md)] (необязательно)
 
 Перед построением отчета рекомендуется скачать и импортировать файл темы [!INCLUDE [prod_short](includes/prod_short.md)]. Файл темы создает цветовую палитру, чтобы можно было создавать отчеты с таким же цветовым стилем, что и приложения [!INCLUDE [prod_short](includes/prod_short.md)] без необходимости определения настраиваемых цветов для каждого визуального элемента.
 
 > [!NOTE]
 > Эта задача является необязательной. Вы всегда можете создать свои отчеты, затем скачать и применить шаблон стиля позже.
 
-### <a name="download-the-theme"></a><a name="download-the-theme"></a>Скачивание темы
+### <a name="download-the-theme"></a><a name="download-the-theme"></a><a name="download-the-theme"></a>Скачивание темы
 
 Файл темы доступен как файл json в коллекции тем сообщества Microsoft Power BI. Чтобы скачать файл темы, выполните следующие действия:
 
 1. Перейдите в [Коллекцию тем сообщества Microsoft Power BI для Microsoft Dynamics 365 Business Central](https://community.powerbi.com/t5/Themes-Gallery/Microsoft-Dynamics-365-Business-Central/m-p/385875).
 2. Выберите скачивание вложения **Microsoft Dynamics Business Central.json**.
 
-### <a name="import-the-theme-on-a-report"></a><a name="import-the-theme-on-a-report"></a>Импорт темы в отчет
+### <a name="import-the-theme-on-a-report"></a><a name="import-the-theme-on-a-report"></a><a name="import-the-theme-on-a-report"></a>Импорт темы в отчет
 
 После того, как вы скачали тему отчета [!INCLUDE [prod_short](includes/prod_short.md)], вы можете импортировать ее в свои отчеты. Чтобы импортировать тему, выберите **Представление** > **Темы** > **Поиск тем**. Дополнительные сведения см. в разделе [Power BI Desktop — импорт пользовательских тем отчетов](/power-bi/create-reports/desktop-report-themes#import-custom-report-theme-files).
 
-## <a name="publish-reports"></a><a name="publish-reports"></a>Публикация отчетов
+## <a name="publish-reports"></a><a name="publish-reports"></a><a name="publish-reports"></a>Публикация отчетов
 
 После того как вы создали или изменили отчет, вы можете опубликовать его в своей службе Power BI, а также поделиться им с другими в вашей организации. После публикации вы увидите отчет в Power BI. Отчет также становится доступным для выбора в [!INCLUDE[prod_short](includes/prod_short.md)].
 
 Чтобы опубликовать отчет, выберите **Опубликовать** на вкладке **Главная** на ленте или из меню **файл**. Если вы вошли в службу Power BI, отчет публикуется в этой службе. В противном случае вам будет предложено войти в систему. 
 
-## <a name="distribute-or-share-a-report"></a><a name="distribute-or-share-a-report"></a>Распространение отчета или предоставление доступа к нему
+## <a name="distribute-or-share-a-report"></a><a name="distribute-or-share-a-report"></a><a name="distribute-or-share-a-report"></a>Распространение отчета или предоставление доступа к нему
 
 Есть несколько способов отправить отчеты своим коллегам и другим людям:
 
@@ -147,9 +147,9 @@ ms.author: jswymer
 
     Если у вас есть лицензия Power BI Pro, вы можете поделиться отчетом с другими прямо из своей службы Power BI. Дополнительные сведения см. в разделе [Power BI — предоставление доступа к панели мониторинга или отчету](/power-bi/collaborate-share/service-share-dashboards#share-a-dashboard-or-report).
 
-## <a name="fixing-problems"></a><a name="fixing-problems"></a>Устранение проблем
+## <a name="fixing-problems"></a><a name="fixing-problems"></a><a name="fixing-problems"></a>Устранение проблем
 
-### <a name="cannot-insert-a-record-current-connection-intent-is-read-only-error-connecting-to-custom-api-page"></a><a name="cannot-insert-a-record-current-connection-intent-is-read-only-error-connecting-to-custom-api-page"></a>"Невозможно вставить запись. Назначение текущего подключения — только чтение". ошибка при подключении к странице пользовательского API
+### <a name="cannot-insert-a-record-current-connection-intent-is-read-only-error-connecting-to-custom-api-page"></a><a name="cannot-insert-a-record-current-connection-intent-is-read-only-error-connecting-to-custom-api-page"></a><a name="cannot-insert-a-record-current-connection-intent-is-read-only-error-connecting-to-custom-api-page"></a>"Невозможно вставить запись. Назначение текущего подключения — только чтение". ошибка при подключении к странице пользовательского API
 
 > **ПРИМЕНЯЕТСЯ К:** Business Central Online
 
@@ -180,9 +180,9 @@ ms.author: jswymer
 9. Нажмите **Готово**.
 10. Выберите **Закрыть и применить** на ленте, чтобы сохранить изменения и закрыть редактор Power Query.
 
-## <a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/configure-powerbi-excel-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/configure-powerbi-excel-dynamics-365-business-central/index)
 
-## <a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
 
 [Включение бизнес-данных для Power BI](admin-powerbi.md)  
 [Бизнес-аналитика](bi.md)  

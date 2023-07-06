@@ -10,7 +10,7 @@ ms.date: 12/16/2022
 ms.custom: bap-template
 ms.search.form: '393, 7382'
 ---
-# <a name="move-items-internally-in-basic-warehouse-configurations"></a><a name="move-items-internally-in-basic-warehouse-configurations"></a>Внутреннее перемещение товаров в базовых конфигурациях склада
+# <a name="move-items-internally-in-basic-warehouse-configurations"></a><a name="move-items-internally-in-basic-warehouse-configurations"></a><a name="move-items-internally-in-basic-warehouse-configurations"></a>Внутреннее перемещение товаров в базовых конфигурациях склада
 
 Вы можете перемещать товары между ячейками без спроса из исходного документа. Например, в рамках следующих мероприятий:
 
@@ -25,11 +25,11 @@ ms.search.form: '393, 7382'
 * С помощью страницы **Внутреннее перемещение**.
 * С помощью страницы **Журнал реклассификаций товаров**.  
 
-## <a name="internal-movements"></a><a name="internal-movements"></a>Внутренние перемещения
+## <a name="internal-movements"></a><a name="internal-movements"></a><a name="internal-movements"></a>Внутренние перемещения
 
 На странице **Внутренние перемещения** можно указать строки «Взять» и «Поместить», когда нет спроса из исходный документ. Страница "Внутреннее перемещение" похожа на журнал для организации вещей. Вы не можете обработать фактическое перемещение непосредственно из него. Когда строка заполнена, используйте действие **Создать перемещение запасов**, чтобы отправить строку на страницу **Перемещение запасов**, где вы обрабатываете и регистрируете перемещение.
 
-### <a name="to-move-items-as-an-internal-movement"></a><a name="to-move-items-as-an-internal-movement"></a>Перемещение товаров как складское помещение
+### <a name="to-move-items-as-an-internal-movement"></a><a name="to-move-items-as-an-internal-movement"></a><a name="to-move-items-as-an-internal-movement"></a>Перемещение товаров как складское помещение
 
 1. Выберите значок ![Лампочка, которая открывает функцию «Что вы хотите сделать»](media/ui-search/search_small.png "Что вы хотите сделать"), значок, введите **Внутреннее перемещение**, а затем выберите связанную ссылку.  
 2. Выберите действие **Создать**. Убедитесь, что поле **Нет.** на экспресс-вкладке **Общие** заполнено.
@@ -59,7 +59,7 @@ ms.search.form: '393, 7382'
 
 Оставшееся незапланированные перемещение выполняется на странице **Перемещение запасов** таким же образом, как и для перемещения на основе документов источника.
 
-### <a name="to-record-the-inventory-movement"></a><a name="to-record-the-inventory-movement"></a>Регистрация перемещения запасов
+### <a name="to-record-the-inventory-movement"></a><a name="to-record-the-inventory-movement"></a><a name="to-record-the-inventory-movement"></a>Регистрация перемещения запасов
 
 1. На странице **Перемещение запасов** откройте документ, для которого нужно записать перемещение.  
 2. В поле **Код ячейки** в строках перемещения, ячейка, из которой требуется подобрать товары, это в которой товар доступен. Если требуется, ячейку можно изменить.
@@ -72,7 +72,7 @@ ms.search.form: '393, 7382'
 
 * Складские операции указывают на то, что количество перемещается из приемных ячеек в складские ячейки.
 
-## <a name="to-move-items-with-the-item-reclassification-journal"></a><a name="to-move-items-with-the-item-reclassification-journal"></a>Перемещение товаров с помощью журнала реклассификации товара
+## <a name="to-move-items-with-the-item-reclassification-journal"></a><a name="to-move-items-with-the-item-reclassification-journal"></a><a name="to-move-items-with-the-item-reclassification-journal"></a>Перемещение товаров с помощью журнала реклассификации товара
 
 Вместо использования документов перемещения можно регистрировать перемещения, переквалифицируя коды ячеек на товары. Подробнее см. в разделе [Подсчет, корректировка и повторная классификация запасов с помощью журналов](inventory-how-count-adjust-reclassify.md).
 
@@ -89,9 +89,9 @@ ms.search.form: '393, 7382'
 
     [!INCLUDE [preview-posting-inventory](includes/preview-posting-inventory.md)]
 
-## <a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/manage-internal-warehouse-processes/)
+## <a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/manage-internal-warehouse-processes/)
 
-## <a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
 
 [Обзор управления складом](design-details-warehouse-management.md)
 [Запас](inventory-manage-inventory.md)  

@@ -11,7 +11,7 @@ ms.search.form: '148, 460, 25'
 ms.date: 04/01/2021
 ms.author: edupont
 ---
-# <a name="enable-application-of-ledger-entries-in-different-currencies"></a><a name="enable-application-of-ledger-entries-in-different-currencies"></a>Включение операций книги в разных валютах
+# <a name="enable-application-of-ledger-entries-in-different-currencies"></a><a name="enable-application-of-ledger-entries-in-different-currencies"></a><a name="enable-application-of-ledger-entries-in-different-currencies"></a>Включение операций книги в разных валютах
 
 В случае, если покупка у поставщика была произведена в одной валюте, а оплата проходит в другой валюте, то можно применить данную оплату к данной покупке.
 
@@ -19,7 +19,7 @@ ms.author: edupont
 
 Далее описывается процедура настройки для операций книги поставщиков на странице **Настройка модуля "Покупки"**. Настройка аналогична для операций книги клиентов на странице **Настройка модуля "Продажи"**.
 
-## <a name="to-enable-application-of-vendor-ledger-entries-in-different-currencies"></a><a name="to-enable-application-of-vendor-ledger-entries-in-different-currencies"></a>Включение применения операций книги поставщиков в различных валютах
+## <a name="to-enable-application-of-vendor-ledger-entries-in-different-currencies"></a><a name="to-enable-application-of-vendor-ledger-entries-in-different-currencies"></a><a name="to-enable-application-of-vendor-ledger-entries-in-different-currencies"></a>Включение применения операций книги поставщиков в различных валютах
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Настройка модуля "Покупки и кредиторская задолженность"**, а затем выберите связанную ссылку.
 2. В поле **Применение между валютами** выберите один из следующих параметров.
@@ -30,7 +30,7 @@ ms.author: edupont
 | Евро |Разрешено применение для валют стран ЕС. |
 | Все |Разрешено применение для всех валют. |
 
-## <a name="to-set-up-gl-accounts-for-currency-application-rounding-differences"></a><a name="to-set-up-gl-accounts-for-currency-application-rounding-differences"></a>Настройка счетов ГК для разницы округления применения валюты
+## <a name="to-set-up-gl-accounts-for-currency-application-rounding-differences"></a><a name="to-set-up-gl-accounts-for-currency-application-rounding-differences"></a><a name="to-set-up-gl-accounts-for-currency-application-rounding-differences"></a>Настройка счетов ГК для разницы округления применения валюты
 
 При применении операций в различных валютах следует настроить счет ГК, по которому будет вестись учет разницы округления.  
 
@@ -42,9 +42,9 @@ ms.author: edupont
 3. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Учетные группы поставщика**, а затем выберите связанную ссылку.  
 4. В полях **Деб. счет округл. при прим. валюты** и **Кр. счет округл. при прим. валюты** введите соответствующие счета ГК, чтобы учесть различия в округлении.  
 
-## <a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/process-foreign-currency-payments-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/process-foreign-currency-payments-dynamics-365-business-central/)
 
-## <a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
 
 [Управление кредиторской задолженностью](payables-manage-payables.md)  
 [Управление дебиторской задолженностью](receivables-manage-receivables.md)  

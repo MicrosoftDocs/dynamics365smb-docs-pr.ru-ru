@@ -10,7 +10,7 @@ ms.search.keywords: null
 ms.date: 06/23/2021
 ms.author: edupont
 ---
-# <a name="create-special-orders"></a><a name="create-special-orders"></a>Создание специальных заказов
+# <a name="create-special-orders"></a><a name="create-special-orders"></a><a name="create-special-orders"></a>Создание специальных заказов
 
 Для отгрузки товара из каталога конкретному клиенту можно создать специальный заказ. Поставщик отгружает товар на склад организации, после чего этот товар отгружается в адрес клиента либо отдельно, либо вместе с другими товарами по другому заказу.  
 
@@ -18,7 +18,7 @@ ms.author: edupont
 
 Перед использованием этой функции следует сначала настроить карточки клиента, поставщика и товара, которые необходимы для создания заказа.  
 
-## <a name="to-create-a-special-order"></a><a name="to-create-a-special-order"></a>Создание специального заказа
+## <a name="to-create-a-special-order"></a><a name="to-create-a-special-order"></a><a name="to-create-a-special-order"></a>Создание специального заказа
 
 1.  Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Заказ на продажу**, а затем выберите связанную ссылку.  
 2. Выберите действие **Создать**. Создайте и заполните заказ на продажу товара. Дополнительные сведения см. в разделе [Продажа продукции](sales-how-sell-products.md).
@@ -38,9 +38,9 @@ ms.author: edupont
 > [!NOTE]  
 >  Нельзя использовать функцию специального заказа, если товар уже зарезервирован. Поэтому для товаров, которые продаются по специальным заказам, убедитесь, что значение в поле **Резервировать** в карточке товара не равно **Всегда**.  
 
-## <a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/create-sales-documents-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/create-sales-documents-dynamics-365-business-central/)
 
-## <a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
 
 [Работа с товарами из каталога](inventory-how-work-nonstock-items.md)  
 [Продажи](sales-manage-sales.md)  

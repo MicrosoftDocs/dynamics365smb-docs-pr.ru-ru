@@ -7,14 +7,14 @@ ms.search.form: '51, 9308'
 ms.date: 04/01/2021
 ms.author: bholtorf
 ---
-# <a name="settle-purchase-invoices-promptly"></a><a name="settle-purchase-invoices-promptly"></a>Немедленное создание счетов покупки
+# <a name="settle-purchase-invoices-promptly"></a><a name="settle-purchase-invoices-promptly"></a><a name="settle-purchase-invoices-promptly"></a>Немедленное создание счетов покупки
 
 В случае потребности в оплате поставщику наличными или чеком, платеж можно учесть при учете счета.  
 
 > [!NOTE]  
 > Если оплата счетов наличными, чеком или банковским переводом производится часто, то можно рекомендовать установить специальный метод оплаты с использованием балансирующего счета и ввода этого метода в поле **Способ платежа** на карточке поставщика. Номер балансирующего счета вставляется автоматически в заголовок счета при создании нового счета. Дополнительные сведения см. в разделе [Определение способов оплаты](finance-payment-methods.md).  
 
-## <a name="to-settle-purchase-invoices-promptly"></a><a name="to-settle-purchase-invoices-promptly"></a>Немедленное создание счетов покупки
+## <a name="to-settle-purchase-invoices-promptly"></a><a name="to-settle-purchase-invoices-promptly"></a><a name="to-settle-purchase-invoices-promptly"></a>Немедленное создание счетов покупки
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Счета покупки**, а затем выберите связанную ссылку.  
 2. Выберите действие **Создать**.  
@@ -25,7 +25,7 @@ ms.author: bholtorf
 >
 > Эта настройка требуется только в том случае, если вы не укажете балансирующие счета в способах оплаты, как описано выше.
 
-## <a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
 
 [Управление кредиторской задолженностью](payables-manage-payables.md)  
 [Покупки](purchasing-manage-purchasing.md)  

@@ -11,7 +11,7 @@ ms.search.form: 'TellMe, 9020, 9022, 9026, 9027, 9030, 9000, 9009, 9004, 9005, 9
 ms.date: 09/13/2022
 ms.author: bholtorf
 ---
-# <a name="finding-pages-and-information-with-tell-me"></a><a name="finding-pages-and-information-with-tell-me"></a>Поиск страниц и информации с помощью функции "Что вы хотите сделать"
+# <a name="finding-pages-and-information-with-tell-me"></a><a name="finding-pages-and-information-with-tell-me"></a><a name="finding-pages-and-information-with-tell-me"></a>Поиск страниц и информации с помощью функции "Что вы хотите сделать"
 
 В этой статье описывается, как поле поиска в продукте *Что вы хотите сделать* может помочь быстро перейти к таким вещам, как действия, страницы или отчеты, искать информацию о том, как выполнить определенную задачу, и найти другие приложения и консультативные услуги для [!INCLUDE[prod_short](includes/prod_short.md)].  
 
@@ -31,48 +31,48 @@ ms.author: bholtorf
 
 [!INCLUDE [about-ui-learn](includes/about-ui-learn.md)]
 
-## <a name="find-an-action-on-the-current-page"></a><a name="find-an-action-on-the-current-page"></a>Поиск действия на текущей странице
+## <a name="find-an-action-on-the-current-page"></a><a name="find-an-action-on-the-current-page"></a><a name="find-an-action-on-the-current-page"></a>Поиск действия на текущей странице
 
 Раздел **На текущей странице** позволяет искать и выполнять работу на открытой странице. Например, если открыта страница **Предложение по продаже** и вы ввели "клиент", этот раздел включает действие, которое открывает карточку клиента для клиента, выбранного в предложении по продаже.
 
 > [!NOTE]  
 > Список включает только действия, которые доступны на навигационной панели в верхней части страницы. Действия на экспресс-вкладках не включены.  
 
-## <a name="find-a-page-or-a-task"></a><a name="find-a-page-or-a-task"></a>Поиск страницы или задачи
+## <a name="find-a-page-or-a-task"></a><a name="find-a-page-or-a-task"></a><a name="find-a-page-or-a-task"></a>Поиск страницы или задачи
 
 Результаты в разделе **Перейти к разделу "Страницы и задачи"** обеспечивают доступ к другим страницам и позволяют выполнять задачи или искать информацию. Если вы часто используете эти страницы, вы можете выбрать значок закладки, чтобы добавить ссылку на любую страницу в свой ролевой центр. Дополнительные сведения см. в разделеРолевой центр [Добавление действия страницы в ролевой центр](ui-bookmarks.md),
 
 Страницы и задачи, которые перечислены, зависят от выбранного для организации варианта взаимодействия. Функциональность **Essential** предоставляет доступ к меньшему числу компонентов, чем функциональность **Premium**. При первом входе в систему используется функциональность **Essential**. Дополнительные сведения см. в разделе [Настройка интерфейса [!INCLUDE[prod_short](includes/prod_short.md)]](ui-experiences.md).
 
-## <a name="find-a-report-or-archived-information"></a><a name="find-a-report-or-archived-information"></a>Поиск отчета или помещенной в архив информации
+## <a name="find-a-report-or-archived-information"></a><a name="find-a-report-or-archived-information"></a><a name="find-a-report-or-archived-information"></a>Поиск отчета или помещенной в архив информации
 
 Раздел **Перейти к разделу "Отчеты и анализ"** предоставляет доступ к инструментам отчетности. Например, чтобы открыть отчет **Балансовый отчет** из списка или получить доступ к архивным документам и иной информации.  
 
-## <a name="find-information-in-the-help"></a><a name="find-information-in-the-help"></a>Поиск информации в справке
+## <a name="find-information-in-the-help"></a><a name="find-information-in-the-help"></a><a name="find-information-in-the-help"></a>Поиск информации в справке
 
 В разделе **Документация** вы увидите ссылку для повторного поиска в документации Microsoft. Если вы выберете ссылку, откроется панель справки, в которой будут показаны результаты поиска.  
 
 > [!NOTE]  
 > Документация для расширений сторонних разработчиков в результаты не включается.
 
-## <a name="get-more-functionality-from-apps"></a><a name="get-more-functionality-from-apps"></a>Получение большей функциональности от приложений
+## <a name="get-more-functionality-from-apps"></a><a name="get-more-functionality-from-apps"></a><a name="get-more-functionality-from-apps"></a>Получение большей функциональности от приложений
 
 Наше сообщество партнеров постоянно разрабатывает приложения, расширяющие возможности [!INCLUDE[prod_short](includes/prod_short.md)]. В разделе **Получить из Microsoft AppSource** перечисляются приложения для [!INCLUDE[prod_short](includes/prod_short.md)], которые доступны на Microsoft AppSource и связаны с ключевым словом, которое вы искали.
 
-## <a name="search-for-data"></a><a name="search-for-data"></a>Поиск данных
+## <a name="search-for-data"></a><a name="search-for-data"></a><a name="search-for-data"></a>Поиск данных
 
 Функция **Что вы хотите сделать** не выполняет поиск данных, таких как названия клиентов, адреса или транзакции. Вместо этого можно найти данные на страницах списка, выбрав значок ![Поиск в списке](media/ui-search/search-list.png "Значок поиска в списке") **Поиск** в левом углу заголовка списка. Поиск применяется только к просматриваемому списку. Дополнительные сведения см. в разделе [Поиск, фильтрация и сортировка списков](ui-enter-criteria-filters.md).  
 
 > [!TIP]
 > Начиная с волны 2 выпуска 2022 г. вы можете выполнять поиск строк учтенных документов, таких как строки счета-фактуры, строки кредит-ноты, строки отгрузки и строки поступления. Выполните поиск типа строк документа, который вы хотите найти, затем добавьте в закладки ссылки на документы на своей домашней странице для быстрого доступа к исходному или отфильтрованному представлению. Подробнее см. в разделе [Добавление действия страницы в ролевой центр](ui-bookmarks.md).
 
-## <a name="questions"></a><a name="questions"></a>Вопросы?
+## <a name="questions"></a><a name="questions"></a><a name="questions"></a>Вопросы?
 
 Мы показали функцию "Что вы хотите сделать" различным заинтересованным лицам, отметили общие задаваемые ими вопросы и создали по нашим записям список часто задаваемых вопросов. Если вам интересно, см. раздел [Вопросы и ответы по функции "Что вы хотите сделать"](ui-search-faq.md).
 
-## <a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/user-interface-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/user-interface-dynamics-365-business-central/index)
 
-## <a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
 
 [Работа с Business Central](ui-work-product.md)  
 [Добавление действия страницы в ролевой центр](ui-bookmarks.md)  

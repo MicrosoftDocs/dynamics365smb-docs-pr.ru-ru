@@ -8,7 +8,7 @@ ms.search.keywords: null
 ms.date: 09/13/2022
 ms.author: edupont
 ---
-# <a name="approval-workflow-notifications"></a><a name="approval-workflow-notifications"></a>Уведомления рабочего процесса утверждения
+# <a name="approval-workflow-notifications"></a><a name="approval-workflow-notifications"></a><a name="approval-workflow-notifications"></a>Уведомления рабочего процесса утверждения
 
 Настройте свои рабочие процессы так, чтобы они автоматически уведомляли пользователей, когда их внимание требуется на каком-либо этапе рабочего процесса. Многие отклики рабочего процесса связаны с уведомлением пользователя о случившемся событии, относительно которого необходимо предпринять какое-либо действие.
 
@@ -20,7 +20,7 @@ ms.author: edupont
 > [!IMPORTANT]  
 > Все уведомления рабочих процессов отправляются через очередь заданий. Убедитесь, что очередь заданий установленной программы настроена для поддержки уведомлений рабочих процессов, и что вы выбрали флажок **Запускать автоматически с сервера**. Подробнее см. в разделе [Использование очередей работ для планирования задач](admin-job-queues-schedule-tasks.md).
 
-## <a name="set-up-notifications"></a><a name="set-up-notifications"></a>Настройка уведомлений
+## <a name="set-up-notifications"></a><a name="set-up-notifications"></a><a name="set-up-notifications"></a>Настройка уведомлений
 
 Вы можете настроить различные аспекты уведомлений рабочих процессов в следующих местах:  
 
@@ -49,9 +49,9 @@ ms.author: edupont
 
   Для рабочих процессов утверждения добавьте шаг отклика рабочего процесса, чтобы уведомить отправителя, когда запрос был утвержден или отклонен. Узнайте больше из шага 9 в разделе [Создание рабочих процессов](across-how-to-create-workflows.md#to-create-a-workflow).   
 
-## <a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/create-workflows/)
+## <a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/create-workflows/)
 
-## <a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
 
 [Настройка утверждающих пользователей](across-how-to-set-up-approval-users.md)  
 [Настройка пользователей рабочих процессов](across-how-to-set-up-workflow-users.md)  

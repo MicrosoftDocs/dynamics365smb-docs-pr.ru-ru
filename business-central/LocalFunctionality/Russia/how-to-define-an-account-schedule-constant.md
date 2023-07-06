@@ -9,11 +9,11 @@ ms.reviewer: edupont
 ms.author: soalex
 ---
 
-# <a name="define-a-financial-report-constant"></a><a name="define-a-financial-report-constant"></a>Определение константы финансовых отчетов
+# <a name="define-a-financial-report-constant"></a><a name="define-a-financial-report-constant"></a><a name="define-a-financial-report-constant"></a>Определение константы финансовых отчетов
 
 [!INCLUDE[prod_short](../../includes/prod_short.md)] позволяет определить константу для строки финансового отчета. Константы полезны, если значение финансового отчета не меняется.
 
-## <a name="to-define-a-financial-report-constant"></a><a name="to-define-a-financial-report-constant"></a>Чтобы определить константу финансового отчета
+## <a name="to-define-a-financial-report-constant"></a><a name="to-define-a-financial-report-constant"></a><a name="to-define-a-financial-report-constant"></a>Чтобы определить константу финансового отчета
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../../media/ui-search/search_small.png "Что вы хотите сделать") введите **Финансовый отчет**, затем выберите связанную ссылку.
 2. Выберите финансовый отчет, для которого необходимо определить константу.
@@ -21,7 +21,7 @@ ms.author: soalex
 4. В поле **Номер строки** выберите номер строки финансового отчета, для которого необходимо определить константу.
 5. В поле **Тип группировки** выберите **Константа**, затем введите постоянную величину в поле **Группировка**.
 
-## <a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
 
 [Работа с финансовыми отчетами](How-to-Work-with-Account-Schedules.md)  
 [Обзор финансовых отчетов](account-schedules-overview.md)  

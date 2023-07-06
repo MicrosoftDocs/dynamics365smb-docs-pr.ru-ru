@@ -8,21 +8,21 @@ ms.search.form: 'Report_311, Report_312, Report_313, Report_320, Report_709, Rep
 ms.date: 06/01/2021
 ms.author: andreipa
 ---
-# <a name="purchase-reports-and-analytics-in-business-central"></a><a name="purchase-reports-and-analytics-in-business-central"></a>Отчеты о покупках и аналитика в Business Central
+# <a name="purchase-reports-and-analytics-in-business-central"></a><a name="purchase-reports-and-analytics-in-business-central"></a><a name="purchase-reports-and-analytics-in-business-central"></a>Отчеты о покупках и аналитика в Business Central
 
 Отчетность о покупках в [!INCLUDE [prod_short](includes/prod_short.md)] позволяет профессионалам закупок и бизнеса получать информацию и статистические данные о текущей и прошлой деятельности по покупке.  
 
-## <a name="reports"></a><a name="reports"></a>Отчеты
+## <a name="reports"></a><a name="reports"></a><a name="reports"></a>Отчеты
 [!INCLUDE [purchase_reports](includes/purchase-reports-include.md)]
 
-## <a name="tasks"></a><a name="tasks"></a>Задачи
+## <a name="tasks"></a><a name="tasks"></a><a name="tasks"></a>Задачи
 В следующих статьях описываются некоторые ключевые задачи анализа состояния вашего бизнеса:
 
 * [Создание аналитических отчетов](bi-how-create-analysis-views-reports.md)  
 * [Просмотр наличия товара](inventory-how-availability-overview.md)  
 
 
-## <a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
 [Настройка покупки](purchasing-setup-purchasing.md)  
 [Покупки](purchasing-manage-purchasing.md)  
 

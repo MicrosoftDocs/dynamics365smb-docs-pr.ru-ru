@@ -10,7 +10,7 @@ ms.search.keywords: 'customization, personalization'
 ms.date: 12/21/2021
 ms.author: edupont
 ---
-# <a name="manage-saved-settings-for-reports-and-batch-jobs"></a><a name="manage-saved-settings-for-reports-and-batch-jobs"></a>Управление сохраненными настройками отчетов и пакетных заданий
+# <a name="manage-saved-settings-for-reports-and-batch-jobs"></a><a name="manage-saved-settings-for-reports-and-batch-jobs"></a><a name="manage-saved-settings-for-reports-and-batch-jobs"></a>Управление сохраненными настройками отчетов и пакетных заданий
 
 Во время выполнения отчетов пользователи обычно видят страницу, которая позволяет задать параметры и установить фильтры для изменения данных, которые будут включены в отчет. Эта страница называется *страницей запроса*. Отчет может содержать одну или несколько *сохраненных настроек*, которые можно применять к отчету со страницы запроса отчета. *Сохраненные настройки* в целом являются заранее заданными параметрами и фильтрами. Сохраненные настройки обеспечивают быстрый и удобный способ единообразного создания отчетов, содержащих правильные данные. Дополнительные сведения см. в разделе [Использование сохраненных параметров](ui-work-report.md#SavedSettings).
 
@@ -19,7 +19,7 @@ ms.author: edupont
 
 При наличии соответствующих прав доступа можно просматривать, создавать и изменять сохраненные настройки для всех отчетов для всех пользователей в организации. Можно назначить сохраненные настройки отчета отдельным пользователям или всем пользователям в организации.
 
-## <a name="manage-saved-settings"></a><a name="manage-saved-settings"></a>Управление сохраненными настройками
+## <a name="manage-saved-settings"></a><a name="manage-saved-settings"></a><a name="manage-saved-settings"></a>Управление сохраненными настройками
 
 Для управления сохраненными настройками используется страница **Настройки отчетов**. Существует два способа открыть эту страницу:
 
@@ -35,7 +35,7 @@ ms.author: edupont
 >
 > Однако в некоторых случаях параметры не могут быть общими, и администратор также не может их изменить. Большинство пакетных заданий не поддерживают общие настройки.  
 
-## <a name="create-or-modify-saved-settings-for-all-users"></a><a name="create-or-modify-saved-settings-for-all-users"></a>Создайте или измените сохраненные настройки для всех пользователей
+## <a name="create-or-modify-saved-settings-for-all-users"></a><a name="create-or-modify-saved-settings-for-all-users"></a><a name="create-or-modify-saved-settings-for-all-users"></a>Создайте или измените сохраненные настройки для всех пользователей
 
 На странице **Параметры отчета** можно:
 
@@ -49,7 +49,7 @@ ms.author: edupont
 > [!NOTE]
 > Возможность сохранения настроек доступна только в отчетах, в которых для [свойства SaveValues](/dynamics365/business-central/dev-itpro/developer/properties/devenv-savevalues-property) страницы запроса отчета задано значение **Да**. Свойство **SaveValues** задается разработчиком.  
 
-## <a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
 
 [Работа с отчетами, пакетными заданиями и XMLport](ui-work-report.md)  
 

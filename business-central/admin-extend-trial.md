@@ -11,13 +11,13 @@ ms.date: 04/01/2021
 ms.author: bholtorf
 ---
 
-# <a name="need-more-time-to-decide-whether-to-subscribe"></a><a name="need-more-time-to-decide-whether-to-subscribe"></a>Нужно больше времени на принятие решения о подписке?
+# <a name="need-more-time-to-decide-whether-to-subscribe"></a><a name="need-more-time-to-decide-whether-to-subscribe"></a><a name="need-more-time-to-decide-whether-to-subscribe"></a>Нужно больше времени на принятие решения о подписке?
 
 Важно принять правильное решение при выборе бизнес-приложения, и мы знаем, что может потребоваться определенное время на изучение всех аспектов [!INCLUDE[prod_short](includes/prod_short.md)]. Если необходимо больше времени для проведения оценки, вы можете самостоятельно продлить пробный период еще на 30 дней. Если срок действия пробной версии подходит к концу, при входе в систему отображается уведомление с предупреждением. Уведомление содержит ссылку на руководство **Продление пробного периода**, которое можно использовать для продления пробного периода. Дополнительные 30 дней начинаются с момента выбора пункта **Продлить пробный период** в руководстве.
 
 Однако самостоятельно продлить пробный период можно только один раз. Дважды продлить срок невозможно, по крайней мере самостоятельно. Если вы уже продлевали период, партнер Microsoft может продлить его для вас еще раз. Это также можно сделать только один раз. Если вы еще не работаете с партнером, см. раздел [Как найти партнера по перепродаже?](/dynamics365/business-central/across-faq#how-do-i-find-a-reselling-partner).  
 
-## <a name="to-extend-your-trial-period"></a><a name="to-extend-your-trial-period"></a>Продление пробного периода
+## <a name="to-extend-your-trial-period"></a><a name="to-extend-your-trial-period"></a><a name="to-extend-your-trial-period"></a>Продление пробного периода
 
 1. Войдите в [!INCLUDE[prod_short](includes/prod_short.md)] на странице [https://businesscentral.dynamics.com/](https://businesscentral.dynamics.com/).
 
@@ -31,7 +31,7 @@ ms.author: bholtorf
 > [!TIP]
 > Если вы не видите уведомление, вы можете с помощью [!INCLUDE [prod_short](includes/prod_short.md)] принудительно выполнить мастер настройки **Продлить пробный период**, добавив параметр ```?page=1828``` для URL-адреса, например, в следующем примере: [https://businesscentral.dynamics.com/?page=1828](https://businesscentral.dynamics.com/?page=1828)
 
-## <a name="what-happens-if-my-trial-period-is-expired"></a><a name="what-happens-if-my-trial-period-is-expired"></a>Чтобы будет после завершения пробного периода?
+## <a name="what-happens-if-my-trial-period-is-expired"></a><a name="what-happens-if-my-trial-period-is-expired"></a><a name="what-happens-if-my-trial-period-is-expired"></a>Чтобы будет после завершения пробного периода?
 
 Если первый 30-дневный пробный период истек, вы можете продлить его самостоятельно, как описано выше, и все будет работать как обычно. Просто выполните вход в демонстрационную организацию и запустите из уведомления руководство **Продление пробного периода**.  
 
@@ -45,9 +45,9 @@ ms.author: bholtorf
 
 [!INCLUDE [admin-viral-trial-expiry](includes/admin-viral-trial-expiry.md)]
 
-## <a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/trial-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/trial-dynamics-365-business-central/)
 
-## <a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
 
 [Пробные версии и подписки (только на английском языке)](/dynamics365/business-central/dev-itpro/administration/trials-subscriptions?toc=/dynamics365/business-central/toc.json)  
 [Создание новых организаций](about-new-company.md)  

@@ -10,7 +10,7 @@ ms.search.form: 40
 ms.date: 04/01/2021
 ms.author: edupont
 ---
-# <a name="close-open-item-ledger-entries-resulting-from-fixed-application-in-the-item-journal"></a><a name="close-open-item-ledger-entries-resulting-from-fixed-application-in-the-item-journal"></a>Закрытие открытых операций в книге товаров, появившихся в результате фиксированного применения в товарном журнале
+# <a name="close-open-item-ledger-entries-resulting-from-fixed-application-in-the-item-journal"></a><a name="close-open-item-ledger-entries-resulting-from-fixed-application-in-the-item-journal"></a><a name="close-open-item-ledger-entries-resulting-from-fixed-application-in-the-item-journal"></a>Закрытие открытых операций в книге товаров, появившихся в результате фиксированного применения в товарном журнале
 
 Используйте поле **Примен. из операции** на странице **Журнал товаров**, чтобы создать фиксированное применение между входящей транзакцией и исходной исходящей транзакцией. Например, для исправления исходящей транзакции или обработки ее возврата.  
 
@@ -23,7 +23,7 @@ ms.author: edupont
 
 Следующая процедура описывает закрытие таких операций посредством двух корректирующих учетов в журнале товаров.  
 
-## <a name="to-close-open-item-ledger-entries-that-result-from-a-fixed-application-in-the-item-journal"></a><a name="to-close-open-item-ledger-entries-that-result-from-a-fixed-application-in-the-item-journal"></a>Закрытие открытых операций в книге товаров, появившихся в результате фиксированного применения в товарном журнале
+## <a name="to-close-open-item-ledger-entries-that-result-from-a-fixed-application-in-the-item-journal"></a><a name="to-close-open-item-ledger-entries-that-result-from-a-fixed-application-in-the-item-journal"></a><a name="to-close-open-item-ledger-entries-that-result-from-a-fixed-application-in-the-item-journal"></a>Закрытие открытых операций в книге товаров, появившихся в результате фиксированного применения в товарном журнале
 
 1. Используйте поле **Примен. из операции** для учета прихода с соответствующим количеством. Это закрывает исходную отрицательную операцию с фиксированным применением.  
 
@@ -32,7 +32,7 @@ ms.author: edupont
 
     Поле **Примен. к операции** определяет, должно ли количество в строке журнала товаров применяться к уже учтенному документу. Если это имеет место, то введите номер учтенной товарной операции, к которой должна применяться строка журнала товаров.
 
-## <a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
 
 [Удаление и повторное применение операций журнала товаров](finance-how-to-remove-and-reapply-item-entries.md)  
 [Обработка возвратов и отмены продажи](sales-how-process-sales-returns-cancellations.md)  

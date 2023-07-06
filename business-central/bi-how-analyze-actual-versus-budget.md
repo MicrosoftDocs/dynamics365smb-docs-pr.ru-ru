@@ -11,13 +11,13 @@ ms.search.form: '120, 121, 422'
 ms.date: 09/14/2022
 ms.author: edupont
 ---
-# <a name="analyze-actual-amounts-versus-budgeted-amounts"></a><a name="analyze-actual-amounts-versus-budgeted-amounts"></a>Анализ фактических сумм в с равнении с суммами бюджета
+# <a name="analyze-actual-amounts-versus-budgeted-amounts"></a><a name="analyze-actual-amounts-versus-budgeted-amounts"></a><a name="analyze-actual-amounts-versus-budgeted-amounts"></a>Анализ фактических сумм в с равнении с суммами бюджета
 
 В процессе сбора, анализа и предоставления доступа к данным своей организации вы просматриваете фактические суммы в сравнении с суммами бюджета для всех счетов и для различных периодов.
 
 Чтобы анализировать суммы бюджетов, сначала нужно создать бюджеты главной книги (ГК). Дополнительные сведения см. в разделе [Создание бюджетов ГК](finance-how-create-budgets.md).
 
-## <a name="view-a-gl-budget"></a><a name="view-a-gl-budget"></a>Просмотр бюджета ГК
+## <a name="view-a-gl-budget"></a><a name="view-a-gl-budget"></a><a name="view-a-gl-budget"></a>Просмотр бюджета ГК
 
 Для бюджета с измерениями операции можно фильтровать и просматривать конкретные бюджеты.
 
@@ -34,7 +34,7 @@ ms.author: edupont
 > [!TIP]  
 > Для внесения изменений в бюджет используйте действие **Изменить бюджет**. На странице бюджета, выберите сумму для просмотра базовых операций бюджета главной книги.
 
-## <a name="view-actual-and-budgeted-amounts-for-all-accounts"></a><a name="view-actual-and-budgeted-amounts-for-all-accounts"></a>Просмотр фактических сумм и сумм бюджета по всем счетам
+## <a name="view-actual-and-budgeted-amounts-for-all-accounts"></a><a name="view-actual-and-budgeted-amounts-for-all-accounts"></a><a name="view-actual-and-budgeted-amounts-for-all-accounts"></a>Просмотр фактических сумм и сумм бюджета по всем счетам
 
 Бюджеты главной книги и их сравнение с фактическими цифрами можно просмотреть в разных областях [!INCLUDE[prod_short](includes/prod_short.md)].
 
@@ -51,7 +51,7 @@ ms.author: edupont
 > [!TIP]  
 > Используйте поле **Просмотр как** на странице **Сальдо/бюджет ГК** для выбора продолжительности периода. Используйте поле **Просмотр как** для выбора способа расчета сумм: **Оборот** или **Сальдо на дату**. Выберите действие **Предыдущий период** или **Следующий период**, чтобы изменить период.  
 
-## <a name="to-view-actual-and-budgeted-amounts-for-several-periods"></a><a name="to-view-actual-and-budgeted-amounts-for-several-periods"></a>Просмотр фактических сумм и сумм бюджета по нескольким периодам
+## <a name="to-view-actual-and-budgeted-amounts-for-several-periods"></a><a name="to-view-actual-and-budgeted-amounts-for-several-periods"></a><a name="to-view-actual-and-budgeted-amounts-for-several-periods"></a>Просмотр фактических сумм и сумм бюджета по нескольким периодам
 
 Вместо просмотра фактических и бюджетных сумм по всем счетам в рамках одного периода, можно просмотреть данные по одному счету для нескольких периодов.  
 
@@ -60,9 +60,9 @@ ms.author: edupont
 3. На экспресс-вкладке **Параметры** заполните поля соответствующим образом, чтобы определить, что должно отображаться в таблице.  
 4. На экспресс-вкладке **Строки** наведите указатель мыши на поле в таблице, чтобы прочитать краткое описание отображаемой суммы.  
 
-## <a name="see-related-training-at-microsoft-learn"></a><a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/budgets-exchange-rates-dynamics-365-business-central/index).
+## <a name="see-related-training-at-microsoft-learn"></a><a name="see-related-training-at-microsoft-learn"></a><a name="see-related-training-at-microsoft-learn"></a>См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/budgets-exchange-rates-dynamics-365-business-central/index).
 
-## <a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
 
 [Финансовая бизнес-аналитика](bi.md)  
 [Работа с бухгалтерскими отчетами](bi-how-work-account-schedule.md)  

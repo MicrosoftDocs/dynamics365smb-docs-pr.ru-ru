@@ -10,7 +10,7 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.form: '5768, 7330, 7332, 7333, 7342, 7363, 8510, 9008'
 ---
-# <a name="receive-items-with-warehouse-receipts"></a><a name="receive-items-with-warehouse-receipts"></a>Приемка товаров с помощью складской приемки
+# <a name="receive-items-with-warehouse-receipts"></a><a name="receive-items-with-warehouse-receipts"></a><a name="receive-items-with-warehouse-receipts"></a>Приемка товаров с помощью складской приемки
 
 В [!INCLUDE[prod_short](includes/prod_short.md)] получение и размещение происходит с использованием одного из четырех методов, как описано в следующей таблице.
 
@@ -25,7 +25,7 @@ ms.search.form: '5768, 7330, 7332, 7333, 7342, 7363, 8510, 9008'
 
 Следующая статья относится к методам В и Г в предыдущей таблице.
 
-## <a name="receive-items-with-a-warehouse-receipt"></a><a name="receive-items-with-a-warehouse-receipt"></a>Приемка товаров с помощью складской приемки
+## <a name="receive-items-with-a-warehouse-receipt"></a><a name="receive-items-with-a-warehouse-receipt"></a><a name="receive-items-with-a-warehouse-receipt"></a>Приемка товаров с помощью складской приемки
 
 Если товары поступают на склад, настроенный на обработку складской приемки, необходимо получить строки выпущенных исходных документов, которые инициировали приемку. Если вы используете ячейки, вы можете либо принять ячейку по умолчанию, либо указать ячейку для размещения товаров. Последнее может потребоваться, когда вы получаете товар в первый раз. Затем введите количество полученного товара и учесть приемку.  
 
@@ -66,7 +66,7 @@ ms.search.form: '5768, 7330, 7332, 7333, 7342, 7363, 8510, 9008'
     > [!NOTE]  
     > Если на вашем складе используется кросс-докинг, вы можете проверить, можете ли вы перебрасывать товары, не размещая их. Чтобы узнать больше о кросс-докинге, перейдите на страницу [Переброска товаров](warehouse-how-to-cross-dock-items.md).
 
-## <a name="how-to-use-filters-to-get-source-documents"></a><a name="how-to-use-filters-to-get-source-documents"></a>Использование фильтров при получении исходных документов
+## <a name="how-to-use-filters-to-get-source-documents"></a><a name="how-to-use-filters-to-get-source-documents"></a><a name="how-to-use-filters-to-get-source-documents"></a>Использование фильтров при получении исходных документов
 
 В складской приемке можно использовать страницу **Фильтры для получения первичных документов**, чтобы получить строки выпущенных исходных документов, определяющих товары к приемке.
 
@@ -82,7 +82,7 @@ ms.search.form: '5768, 7330, 7332, 7333, 7342, 7363, 8510, 9008'
 
 Количество комбинаций фильтров не ограничено. Фильтры сохраняются на странице **Фильтры для получения исходных документов** и доступны в следующий раз, когда они вам понадобятся. Можно в любой момент изменить критерии, выбрав действие **Изменить**.
 
-## <a name="zone-and-bin-codes"></a><a name="zone-and-bin-codes"></a>Коды зон и ячеек
+## <a name="zone-and-bin-codes"></a><a name="zone-and-bin-codes"></a><a name="zone-and-bin-codes"></a>Коды зон и ячеек
 
 Чтобы получить товары с кодами класса склада, отличающимися от кода класса ячейки из поля **Код ячейки** заголовка документа, то перед получением строк исходного документа для этих товаров удалите содержимое поля **Код ячейки** в заголовке.  
 <!-- TBD, table with comparison of various options-->
@@ -92,9 +92,9 @@ ms.search.form: '5768, 7330, 7332, 7333, 7342, 7363, 8510, 9008'
 * Для расширенных конфигураций, в которых используется расширенные размещение и подбор, [!INCLUDE [prod_short](includes/prod_short.md)] использует код ячейки приемки со страницы **Карточка склада** для склада. Если код ячейки приемки не указан, ячейка не указывается. Если ячейки товара и приемки не совпадают, код ячейки приемки остается пустым.
 * В других конфигурациях если код ячейки приемки не указан, [!INCLUDE [prod_short](includes/prod_short.md)] использует код ячейки из исходного документа.
 
-## <a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/receive-invoice-dynamics-d365-business-central/index).
+## <a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/receive-invoice-dynamics-d365-business-central/index).
 
-## <a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
 
 [Обзор управления складом](design-details-warehouse-management.md)
 [Запас](inventory-manage-inventory.md)  

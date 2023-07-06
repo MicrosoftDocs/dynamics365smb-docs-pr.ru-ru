@@ -12,11 +12,11 @@ ms.date: 04/01/2021
 ms.author: andreipa
 ---
 
-# <a name="walkthrough-of-inbound-and-outbound-flow-in-advanced-warehouse-configuration-with-directed-put-away-and-pick"></a><a name="walkthrough-of-inbound-and-outbound-flow-in-advanced-warehouse-configuration-with-directed-put-away-and-pick"></a>Пошаговое руководство. Приход и расход в расширенных конфигурациях склада с расширенным подбором и размещением
+# <a name="walkthrough-of-inbound-and-outbound-flow-in-advanced-warehouse-configuration-with-directed-put-away-and-pick"></a><a name="walkthrough-of-inbound-and-outbound-flow-in-advanced-warehouse-configuration-with-directed-put-away-and-pick"></a><a name="walkthrough-of-inbound-and-outbound-flow-in-advanced-warehouse-configuration-with-directed-put-away-and-pick"></a>Пошаговое руководство. Приход и расход в расширенных конфигурациях склада с расширенным подбором и размещением
 
 Это пошаговое руководство демонстрирует выполнение входящих и исходящих потоков в конфигурации «Расширенная: расширенные размещение и подбор». Дополнительные сведения см. в разделе [Обзор различных вариантов настройки](../../design-details-warehouse-management.md#overview-of-different-configuration-options).
 
-## <a name="prerequisites"></a><a name="prerequisites"></a>Предварительные требования
+## <a name="prerequisites"></a><a name="prerequisites"></a><a name="prerequisites"></a>Предварительные требования
 Для прохождения данного пошагового руководства вы должны назначить себя работником склада *БЕЛЫЙ*, выполнив следующие действия:  
 1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать 1.](../../media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Работники склада**, а затем выберите связанную ссылку.  
 2. Выберите поле **ИД пользователя** и укажите свою учетную запись пользователя на странице **Пользователи**.  
@@ -24,10 +24,10 @@ ms.author: andreipa
 4. Включите переключатель **По умолчанию**.
 
 
-## <a name="scenario"></a><a name="scenario"></a>Сценарий
+## <a name="scenario"></a><a name="scenario"></a><a name="scenario"></a>Сценарий
 Елена, менеджер склада, использует функции переброски и пополнения ячеек, чтобы ускорить приемку и отгрузку.  
 
-## <a name="steps"></a><a name="steps"></a>Шаги
+## <a name="steps"></a><a name="steps"></a><a name="steps"></a>Шаги
 
 1. Создание складской отгрузки.  
 
@@ -136,7 +136,7 @@ ms.author: andreipa
     4. Подтвердите параметр **Отгрузить** .
 
 
-## <a name="results"></a><a name="results"></a>Результаты
+## <a name="results"></a><a name="results"></a><a name="results"></a>Результаты
 - создана **учтенная складская приемка**;
 - создано **зарегистрированное складское размещение**;    
 - создана **учтенная приходная накладная покупки**;    
@@ -150,7 +150,7 @@ ms.author: andreipa
 
 
 
-## <a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
 [Приемка товаров](../../warehouse-how-receive-items.md) 
 [Сведения о проектировании: входящий складской поток](../../design-details-inbound-warehouse-flow.md) 
 [Отгрузка товаров](../../warehouse-how-ship-items.md) 

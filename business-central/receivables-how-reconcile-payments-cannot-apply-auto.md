@@ -11,7 +11,7 @@ ms.search.form: '1290, 1294, 1287'
 ms.date: 04/01/2021
 ms.author: edupont
 ---
-# <a name="reconcile-payments-that-cannot-be-applied-automatically"></a><a name="reconcile-payments-that-cannot-be-applied-automatically"></a>Выверка платежей, которые не могут быть применены автоматически
+# <a name="reconcile-payments-that-cannot-be-applied-automatically"></a><a name="reconcile-payments-that-cannot-be-applied-automatically"></a><a name="reconcile-payments-that-cannot-be-applied-automatically"></a>Выверка платежей, которые не могут быть применены автоматически
 Иногда может понадобиться обработать платежи на банковский счет, которые не могут быть применены к соответствующей отрытой операции книги клиентов, поставщиков или банковских счетов. Причинами могут быть отсутствие в [!INCLUDE[prod_short](includes/prod_short.md)] документа, к которому можно применить платеж, или расхождение в суммах между документом в [!INCLUDE[prod_short](includes/prod_short.md)] и транзакцией, например из-за обмена валюты. На странице **Журнал выверки платежей** все суммы транзакций для платежей, которые еще не применены, отображаются в поле **Разница**, включая суммы, которые не могут быть применены по вышеуказанным причинам.
 
 Способы разрешения этих типов непримененных платежей:
@@ -29,7 +29,7 @@ ms.author: edupont
 > [!TIP]  
 >   Аналогичная функция существует для настройки автоматической выверки типовых платежей, которые не могут быть применены к соответствующим открытым операциям книги клиентов, поставщиков или банковских счетов. Дополнительные сведения см. в разделе [Сопоставление текста на типовых платежах со счетами для автоматической выверки](receivables-how-map-text-recurring-payments-accounts-auto-reconcilliation.md).
 
-## <a name="to-reconcile-payments-that-cannot-be-applied-automatically"></a><a name="to-reconcile-payments-that-cannot-be-applied-automatically"></a>Выверка платежей, которые не могут быть применены автоматически
+## <a name="to-reconcile-payments-that-cannot-be-applied-automatically"></a><a name="to-reconcile-payments-that-cannot-be-applied-automatically"></a><a name="to-reconcile-payments-that-cannot-be-applied-automatically"></a>Выверка платежей, которые не могут быть применены автоматически
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Журналы выверки платежей**, а затем выберите связанную ссылку.
 2. Откройте журнал выверки платежей. Дополнительные сведения см. в разделе [Выверка платежей с использованием автоматического применения](receivables-how-reconcile-payments-auto-application.md).
 3. Выберите **Перевести разницу на счет**. Откроется страница **Перевести разницу на счет**.
@@ -42,7 +42,7 @@ ms.author: edupont
 
 Если значение в **Разница** было меньше значения в поле **Сумма транзакции**, будет создана дополнительная строка журнала с той же датой и текстом и с разницей, вставленной в поле **Сумма транзакции**. В исходной строке журнала разница будет вычтена из значения в поле **Сумма транзакции**, а платеж останется примененным к соответствующей операции книги клиентов, поставщиков или банковских счетов. При учете журнала выверки платежей одна часть платежа будет учтена как примененный платеж. Другая часть платежа будет учтена непосредственно на указанном счете.
 
-## <a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
 [Управление дебиторской задолженностью](receivables-manage-receivables.md)  
 [Продажи](sales-manage-sales.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

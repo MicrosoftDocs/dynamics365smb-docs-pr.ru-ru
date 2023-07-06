@@ -6,11 +6,11 @@ ms.topic: conceptual
 ms.date: 04/01/2021
 ms.author: edupont
 ---
-# <a name="warnings-and-error-messages-in-dynamics-365-business-central"></a><a name="warnings-and-error-messages-in-dynamics-365-business-central"></a>Предупреждения и сообщения об ошибках в Dynamics 365 Business Central
+# <a name="warnings-and-error-messages-in-dynamics-365-business-central"></a><a name="warnings-and-error-messages-in-dynamics-365-business-central"></a><a name="warnings-and-error-messages-in-dynamics-365-business-central"></a>Предупреждения и сообщения об ошибках в Dynamics 365 Business Central
 
 В течение рабочего дня вы можете видеть уведомления в [!INCLUDE [prod_short](includes/prod_short.md)], что что-то пошло не так, или что, например, что-то не удалось учесть. Во многих случаях уведомление позволяет легко решить проблему или отменить любые внесенные вами изменения. В других случаях у вас может не быть информации, необходимой для разблокировки. В этой статье даются советы, как добиться прогресса.  
 
-## <a name="in-product-user-assistance"></a><a name="in-product-user-assistance"></a>Встроенная поддержка пользователей в продукте
+## <a name="in-product-user-assistance"></a><a name="in-product-user-assistance"></a><a name="in-product-user-assistance"></a>Встроенная поддержка пользователей в продукте
 
 Версия по умолчанию [!INCLUDE [prod_short](includes/prod_short.md)] включает описания большинства полей, столбцов и действий, к которым можно получить доступ, если вы выберете имя. В сочетании с обучающими советами для важных страниц, описательными подписями и инструктивным текстом эти всплывающие подсказки или выноски являются нашей текущей реализацией *встроенной помощи пользователю*, что является важным принципом в современном мире разработки программного обеспечения.  
 
@@ -18,15 +18,15 @@ ms.author: edupont
 
 Для получения дополнительной информации см. раздел [Модель помощи пользователям Dynamics 365 Business Central](/dynamics365/business-central/dev-itpro/user-assistance) в административном содержимом для [!INCLUDE [prod_short](includes/prod_short.md)].  
 
-## <a name="help-and-support-page"></a><a name="help-and-support-page"></a>Страница справки и поддержки
+## <a name="help-and-support-page"></a><a name="help-and-support-page"></a><a name="help-and-support-page"></a>Страница справки и поддержки
 
 В [!INCLUDE[prod_short](includes/prod_short.md)] пункт меню справки (вопросительный знак в правом верхнем углу) предоставляет доступ к странице **Справка и поддержка**, на которой можно найти ссылки на ресурсы, которые могут помочь найти ответы на вопросы. Дополнительные сведения см. в разделе [Ресурсы по Справке и поддержке](product-help-and-support.md).  
 
-## <a name="help-others"></a><a name="help-others"></a>Помощь другим
+## <a name="help-others"></a><a name="help-others"></a><a name="help-others"></a>Помощь другим
 
 Если вы являетесь администратором или суперпользователем, вы можете помочь другим, просмотрев сообщения об ошибках на странице **Регистр сообщений об ошибках** или в центре администрирования. Во многих случаях предупреждение или сообщение об ошибке связано с настройкой или отсутствием разрешений и аналогичными проблемами, с которыми суперпользователь или администратор могут легко помочь. В других случаях вам, возможно, придется проверить страницы, чтобы определить причину. Для получения дополнительной информации см. [Поиск технической информации](/dynamics365/business-central/dev-itpro/administration/manage-technical-support#finding-technical-information) в материалах по администрированию для [!INCLUDE [prod_short](includes/prod_short.md)].  
 
-## <a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
 
 [Ресурсы для справки и поддержки](product-help-and-support.md)  
 [Вопросы и ответы](across-faq.yml)  

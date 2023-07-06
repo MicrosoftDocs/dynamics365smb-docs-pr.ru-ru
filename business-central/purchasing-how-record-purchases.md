@@ -11,18 +11,18 @@ ms.search.form: '50 ,51, 53, 56, 146, 147, 9307, 9309, 9306, 9308, 9310'
 ms.date: 09/01/2022
 ms.author: edupont
 ---
-# <a name="record-purchases-with-purchase-invoices-and-orders"></a><a name="record-purchases-with-purchase-invoices-and-orders"></a>Регистрация покупок со счетами покупок и заказами
+# <a name="record-purchases-with-purchase-invoices-and-orders"></a><a name="record-purchases-with-purchase-invoices-and-orders"></a><a name="record-purchases-with-purchase-invoices-and-orders"></a>Регистрация покупок со счетами покупок и заказами
 
 Счет покупки или заказ на покупку создается для записи стоимости покупок и отслеживания кредиторской задолженности. Счета покупки и заказы на покупку также используются для динамического обновления уровней запасов, то есть вы можете уменьшить себестоимость запасов и обеспечить лучшее обслуживание клиентов. Расходы на покупку, включая затраты на обслуживание, и стоимость запасов, полученная из учета счетов покупки или заказов, составляют показатели прибыли и другие ключевые показатели эффективности (KPI) финансовой деятельности в ролевом центре.
 
-## <a name="record-purchases-with-purchase-invoices"></a><a name="record-purchases-with-purchase-invoices"></a>Регистрация покупок со счетами покупок
+## <a name="record-purchases-with-purchase-invoices"></a><a name="record-purchases-with-purchase-invoices"></a><a name="record-purchases-with-purchase-invoices"></a>Регистрация покупок со счетами покупок
 
 При получении складских товаров или выполнении приобретенной услуги счет покупки учитывается, чтобы обновить складские и финансовые записи и активировать платеж поставщику в соответствии с условиями оплаты. [Осуществление платежей](payables-make-payments.md).
 
 > [!CAUTION]  
 > Не выполняйте учет счета покупки для физических товаров, пока не будут получены товары и не будет известна конечная стоимость покупки, включая все дополнительные издержки. В противном случае значения стоимости запасов и прибыли могут быть неверными.
 
-### <a name="create-a-and-post-purchase-invoice"></a><a name="create-a-and-post-purchase-invoice"></a>Создайте и учтите счет покупки
+### <a name="create-a-and-post-purchase-invoice"></a><a name="create-a-and-post-purchase-invoice"></a><a name="create-a-and-post-purchase-invoice"></a>Создайте и учтите счет покупки
 
 Ниже описано, как создать счет на покупку. Действия для заказа на покупку аналогичны. Основное отличие заключается в том, что в заказах на покупку есть дополнительные поля и действия для физической обработки товаров.
 
@@ -64,7 +64,7 @@ ms.author: edupont
 >
 > Чтобы проверить суммы, которые будут фактически учтены, перейдите на страницу **Статистика**, которая учитывает округления расчетов. Кроме того, если вы выбираете действие **Выпустить**, поля итоговых сумм будут обновлены, чтобы включить вычисления округления.
 
-## <a name="posted-invoices"></a><a name="posted-invoices"></a>Учтенные счета
+## <a name="posted-invoices"></a><a name="posted-invoices"></a><a name="posted-invoices"></a>Учтенные счета
 
 [!INCLUDE [posted-invoices](includes/posted-invoices.md)]
 
@@ -73,7 +73,7 @@ ms.author: edupont
 [Откройте список **Учтенные счета покупки**](https://businesscentral.dynamics.com/?page=146) в [!INCLUDE [prod_short](includes/prod_short.md)].
 
 
-## <a name="purchasing-non-inventory-items"></a><a name="purchasing-non-inventory-items"></a>Покупка товаров, не относящихся к запасам
+## <a name="purchasing-non-inventory-items"></a><a name="purchasing-non-inventory-items"></a><a name="purchasing-non-inventory-items"></a>Покупка товаров, не относящихся к запасам
 
 Строки в счете покупки могут иметь тип **Ресурс** или **Товар**. Карточки товара могут быть далее классифицированы по типам **Складируемый**, **Сервисный** или **Нескладируемый**, что определяет, представляет ли товар собой физические единицы, единицы измерения времени работы (также применяется к ресурсам) или физические единицы, которые не отслеживаются в запасах. Подробнее в разделе [Регистрация новых товаров](inventory-how-register-new-items.md). Процедура обработки счетов покупки такая же для всех упомянутых типов.
 
@@ -82,7 +82,7 @@ ms.author: edupont
 >
 > Чтобы использовать купленный ресурс, вам может потребоваться задать емкость ресурса и вручную назначить его заданию. При покупке ресурса создается запись в книге учета ресурсов; однако записи в книге учета ресурсов не отслеживаются по количеству и стоимости, как, например, товары. Если требуется отслеживание количества и стоимости, рассмотрите возможность использования других типов позиций строки.
 
-## <a name="when-to-use-purchase-orders"></a><a name="when-to-use-purchase-orders"></a>Когда использовать заказы на покупку
+## <a name="when-to-use-purchase-orders"></a><a name="when-to-use-purchase-orders"></a><a name="when-to-use-purchase-orders"></a>Когда использовать заказы на покупку
 
 Заказы на покупку следует использовать, если процесс покупки требует, чтобы вы могли регистрировать частичную приемку количества в заказе, например потому, что полное количество недоступно у поставщика. Если продажа товаров осуществляется путем непосредственной поставки от поставщика клиенту в виде прямой поставки, то также необходимо использовать заказы на покупку. Подробнее см. в разделе [Выполнение прямых поставок](sales-how-drop-shipment.md).
 
@@ -92,7 +92,7 @@ ms.author: edupont
 
 > [!Video https://www.microsoft.com/videoplayer/embed/RE4b3tt?rel=0]
 
-## <a name="receive-items-with-a-purchase-order"></a><a name="receive-items-with-a-purchase-order"></a>Приемка товаров с помощью заказа на покупку
+## <a name="receive-items-with-a-purchase-order"></a><a name="receive-items-with-a-purchase-order"></a><a name="receive-items-with-a-purchase-order"></a>Приемка товаров с помощью заказа на покупку
 
 Ниже описано, как получать товары с использованием из заказа на покупку. 
 
@@ -109,19 +109,19 @@ ms.author: edupont
 > [!NOTE]
 > Если вы используете обработку на складе, вы не можете использовать действие **Учесть** по заказу на покупку. Это связано с тем, что сотрудник склада уже разнес количество заказа на покупку как полученное. Подробнее см. в разделе [Сведения о проектировании: входящий складской поток](design-details-inbound-warehouse-flow.md).
 
-## <a name="receive-more-items-than-ordered"></a><a name="receive-more-items-than-ordered"></a>Получение большего количества товаров, чем заказано
+## <a name="receive-more-items-than-ordered"></a><a name="receive-more-items-than-ordered"></a><a name="receive-more-items-than-ordered"></a>Получение большего количества товаров, чем заказано
 
 Когда прибывает больше товаров, чем заказали, вы можете оприходовать их, а не отменить получение. Например, может быть дешевле оставить излишки товаров в запасах, чем возвращать их, или же ваш поставщик может предложить вам скидку за то, что вы оставите излишек у себя.
 
 <!--move the over-receipt setup info to an article about purchasing. Keep the concept info here and link to the steps-->
-### <a name="set-up-over-receipts"></a><a name="set-up-over-receipts"></a>Настройка переприхода
+### <a name="set-up-over-receipts"></a><a name="set-up-over-receipts"></a><a name="set-up-over-receipts"></a>Настройка переприхода
 
 Создайте коды переприхода, чтобы определить процент, на который полученное количество может превышать заказанное количество. В поле **Отклонение переприхода (%)** укажите процент. Затем вы назначаете код на страницах "Карточка товара" или "Карточка поставщика" для товаров и поставщиков.  
 
 1. Выберите значок ![Лампочка, которая открывает функцию «Что вы хотите сделать»](media/ui-search/search_small.png "Что вы хотите сделать"), значок введите **Коды переприхода**, а затем выберите связанную ссылку.
 2. Заполните соответствующим образом поля. [!INCLUDE [tooltip-inline-tip_md](includes/tooltip-inline-tip_md.md)]
 
-### <a name="assign-the-over-receipt-code-to-an-item"></a><a name="assign-the-over-receipt-code-to-an-item"></a>Код переприхода присваивается товару
+### <a name="assign-the-over-receipt-code-to-an-item"></a><a name="assign-the-over-receipt-code-to-an-item"></a><a name="assign-the-over-receipt-code-to-an-item"></a>Код переприхода присваивается товару
 
 1. Выберите значок ![Лампочка, которая открывает функцию «Что вы хотите сделать»](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Товары**, а затем выберите соответствующую ссылку.
 2. Откройте окно **Карточка товара** для товара.
@@ -132,7 +132,7 @@ ms.author: edupont
 > [!NOTE]
 > Вы можете настроить рабочий процесс утверждения, требующий подтверждения избыточных поступлений, прежде чем их можно будет обработать. Установите флажок **Требуется утверждение** на странице **Коды переприхода**. Дополнительные сведения см. в разделе [Создание рабочих процессов](across-how-to-create-workflows.md).
 
-### <a name="over-receive-an-order"></a><a name="over-receive-an-order"></a>Получение заказа сверх нормы
+### <a name="over-receive-an-order"></a><a name="over-receive-an-order"></a><a name="over-receive-an-order"></a>Получение заказа сверх нормы
 
 В строках закупок и строках складской приемки поле **Количество переприхода** используется для записи избыточного количества, то есть количества, которое превышает значение заказанного количества в поле **Количество**.
 
@@ -149,11 +149,11 @@ ms.author: edupont
 > [!NOTE]
 > [!INCLUDE[prod_short](includes/prod_short.md)] не обрабатывает автоматически финансовые аспекты переприхода. Вы должны вручную обработать это по согласованию с поставщиком, например, чтобы поставщик переслал новый или обновленный счет-фактуру.
 
-## <a name="external-document-number"></a><a name="external-document-number"></a>Номер внешнего документа
+## <a name="external-document-number"></a><a name="external-document-number"></a><a name="external-document-number"></a>Номер внешнего документа
 
 [!INCLUDE [ext-doc-no-purch](includes/ext-doc-no-purch.md)]
 
-## <a name="posting-purchases"></a><a name="posting-purchases"></a>Учет покупок
+## <a name="posting-purchases"></a><a name="posting-purchases"></a><a name="posting-purchases"></a>Учет покупок
 
 В документе покупки можно выбирать следующие действия учета:
 
@@ -183,21 +183,21 @@ ms.author: edupont
 
 Программа позволяет выполнить либо учет, либо учет и печать. Если выбрать учет и печать, отчет напечатается одновременно с его учетом. Можно также выбрать действие **Пакетный учет**, чтобы выполнять учет нескольких заказов одновременно. Подробнее в разделе [Одновременный учет нескольких документов](ui-batch-posting.md).
 
-## <a name="viewing-ledger-entries"></a><a name="viewing-ledger-entries"></a>Просмотр операций книги
+## <a name="viewing-ledger-entries"></a><a name="viewing-ledger-entries"></a><a name="viewing-ledger-entries"></a>Просмотр операций книги
 
 Если учет завершен, учтенные строки покупки удаляются из заказа. При завершении учета появляется соответствующее сообщение. После этого появится возможность просмотра учтенных операций на различных страницах, в том числе на страницах **Книга операций по поставщикам**, **Операции ГК**, **Книга операций по товарам**, **Записи книги учета ресурсов**, **Приходные накладные** и **Учтенные счета покупки**.
 
 В большинстве случаев вы можете открыть операции в бухгалтерской книге из соответствующей карточки или документа. Например, на странице **Карточка поставщика** выберите действие **Операции**.
 
-## <a name="editing-ledger-entries"></a><a name="editing-ledger-entries"></a>Изменение операций книги
+## <a name="editing-ledger-entries"></a><a name="editing-ledger-entries"></a><a name="editing-ledger-entries"></a>Изменение операций книги
 
 Вы можете редактировать определенные поля в учтенных документах покупки, такие как поле **Ссылка на оплату**. Подробнее в разделе [Изменение учтенных документов](across-edit-posted-document.md). Для более важных полей, которые влияют на аудиторский след, необходимо выполнить сторнирование или отменить проводку. Подробнее в разделе [Сторнирование учета в журнале и отмена приходных/расходных накладных](finance-how-reverse-journal-posting.md).
 
-## <a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/receive-invoice-dynamics-d365-business-central/index).
+## <a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/receive-invoice-dynamics-d365-business-central/index).
 
-## <a name="see-related-microsoft-training-1"></a><a name="see-related-microsoft-training-1"></a>См. соответствующее [обучение Microsoft](/training/modules/processing-invoices-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-training-1"></a><a name="see-related-microsoft-training-1"></a><a name="see-related-microsoft-training-1"></a>См. соответствующее [обучение Microsoft](/training/modules/processing-invoices-dynamics-365-business-central/index)
 
-## <a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
 
 [Запрос предложений](purchasing-how-request-quotes.md)  
 [Покупка товаров для продажи](purchasing-how-purchase-products-sale.md)  

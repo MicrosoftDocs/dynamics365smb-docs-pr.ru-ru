@@ -10,10 +10,10 @@ ms.search.form: '6560, 42, 50, 507, 509'
 ms.date: 06/11/2021
 ms.author: edupont
 ---
-# <a name="track-document-lines"></a><a name="track-document-lines"></a>Отслеживание строк документа
+# <a name="track-document-lines"></a><a name="track-document-lines"></a><a name="track-document-lines"></a>Отслеживание строк документа
 Можно просматривать документы, которые связаны со строками заказа на продажу и строками заказа на покупку, включая из строк архивированных заказов. Связанные документы, которые вы можете отслеживать, включая предложения, отгрузки, приемки и общие заказы. Это помогает идентифицировать документы, используемые для обработки заказов.  
 
-## <a name="to-track-documents-related-to-a-sales-order-line"></a><a name="to-track-documents-related-to-a-sales-order-line"></a>Отслеживание документов, связанных со строкой заказа на продажу
+## <a name="to-track-documents-related-to-a-sales-order-line"></a><a name="to-track-documents-related-to-a-sales-order-line"></a><a name="to-track-documents-related-to-a-sales-order-line"></a>Отслеживание документов, связанных со строкой заказа на продажу
 Следующая процедура описывает, как отслеживать из строки заказа на продажу. Шаги аналогичны для строк заказов на покупку и общих заказов.
 
 1.  Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Заказы на продажу**, а затем выберите связанную ссылку.  
@@ -24,7 +24,7 @@ ms.author: edupont
 
 [!INCLUDE [line-no-info](includes/line-no-info.md)]
 
-## <a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
 [Продажи](sales-manage-sales.md)  
 [Общие бизнес-функции](ui-across-business-areas.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

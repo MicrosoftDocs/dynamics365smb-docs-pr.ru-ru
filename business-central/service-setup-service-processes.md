@@ -10,7 +10,7 @@ ms.search.keywords: 'service, number sequences, setup, warnings, fee, contracts,
 ms.date: 04/01/2021
 ms.author: bholtorf
 ---
-# <a name="configure-service-processes"></a><a name="configure-service-processes"></a>Настройка сервисных процессов
+# <a name="configure-service-processes"></a><a name="configure-service-processes"></a><a name="configure-service-processes"></a>Настройка сервисных процессов
 Ниже приведены некоторые примеры настроек, которые могут быть применены к процессами сервисного управления:  
   
 * Некоторые общие настройки для различных процессов, таких как предупреждения, вычисления следующего сервиса для сервисных товаров, начальный взнос для оценки, используемый уровень отчетности по неисправностям и так далее.  
@@ -19,11 +19,11 @@ ms.author: bholtorf
 * Настройки для контрактов, такие как максимальное число дней, которое можно использовать для заказов по сервисным контрактам, требуется ли использовать коды причины при отмене контракта, стандартные тексты для описаний контракта и суммы по контракту.  
 * Номерные серии, используемые для документов и товаров, связанных с сервисом.  
 
-## <a name="to-enter-general-and-mandatory-settings"></a><a name="to-enter-general-and-mandatory-settings"></a>Ввод общих и обязательных настроек
+## <a name="to-enter-general-and-mandatory-settings"></a><a name="to-enter-general-and-mandatory-settings"></a><a name="to-enter-general-and-mandatory-settings"></a>Ввод общих и обязательных настроек
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Настройка управления сервисом**, а затем выберите связанную ссылку.
 2. Заполните соответствующим образом поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
 
-## <a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
 [Настройка отчетности по неисправностям](service-how-setup-fault-reporting.md)  
 [Настройка распределения ресурсов](service-how-setup-resource-allocation.md)  
 [Настройка кодов для стандартных сервисов](service-how-setup-service-coding.md)  

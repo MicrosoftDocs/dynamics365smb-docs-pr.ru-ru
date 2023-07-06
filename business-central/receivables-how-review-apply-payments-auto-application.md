@@ -11,7 +11,7 @@ ms.search.form: '1290, 1294, 1287'
 ms.date: 04/01/2021
 ms.author: edupont
 ---
-# <a name="review-and-apply-payments-manually-after-automatic-application"></a><a name="review-and-apply-payments-manually-after-automatic-application"></a>Проверка и применение платежей вручную после автоматического применения
+# <a name="review-and-apply-payments-manually-after-automatic-application"></a><a name="review-and-apply-payments-manually-after-automatic-application"></a><a name="review-and-apply-payments-manually-after-automatic-application"></a>Проверка и применение платежей вручную после автоматического применения
 Для каждой строки журнала, представляющей платеж, на странице **Журнал выверки платежей** можно открыть страницу **Применение платежа**, чтобы просмотреть все открытые операции кандидатов для платежа и подробные сведения о сопоставлении данных, на котором основано применение платежа, для каждой операции. Здесь можно вручную применить платежи или повторно применить платежи, которые были применены автоматически к неверной операции. Дополнительные сведения об автоматическом применении см. в разделе [Выверка платежей с использованием автоматического применения](receivables-how-reconcile-payments-auto-application.md).
 
 > [!IMPORTANT]  
@@ -30,7 +30,7 @@ ms.author: edupont
 > [!NOTE]  
 >   Теперь платеж можно применить только к одному счету. Если необходимо разделить применение на несколько открытых операций, например для применения единовременного платежа, открытые операции должны предназначаться для одного счета. Дополнительные сведения см. в шагах 7 и 8 процедуры, описанной в этом разделе.
 
-## <a name="to-review-or-apply-payments-after-automatic-application"></a><a name="to-review-or-apply-payments-after-automatic-application"></a>Проверка или применение платежей после автоматического применения
+## <a name="to-review-or-apply-payments-after-automatic-application"></a><a name="to-review-or-apply-payments-after-automatic-application"></a><a name="to-review-or-apply-payments-after-automatic-application"></a>Проверка или применение платежей после автоматического применения
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Журналы выверки платежей**, а затем выберите связанную ссылку.
 2. Откройте журнал выверки платежей для банковского счета, для которого требуется выверить платежи. Дополнительные сведения см. в разделе [Выверка платежей с использованием автоматического применения](receivables-how-reconcile-payments-auto-application.md).
 3. На странице **Журнал выверки платежей** выберите платеж, которые вы хотите проверить или вручную применить к одной или нескольким открытым операциям, а затем действие **Применить вручную**.
@@ -43,7 +43,7 @@ ms.author: edupont
 
 Страница **Применение платежей** будет закрыта, и на странице **Журнал выверки платежей** значение в поле **Достоверность совпадения** поменяется на **Принято**, чтобы указать, что пользователь проверил или вручную применил платеж.
 
-## <a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
 [Управление дебиторской задолженностью](receivables-manage-receivables.md)  
 [Продажи](sales-manage-sales.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

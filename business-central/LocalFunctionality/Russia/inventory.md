@@ -9,11 +9,11 @@ ms.reviewer: edupont
 ms.author: soalex
 ---
 
-# <a name="inventory-in-the-russian-version"></a><a name="inventory-in-the-russian-version"></a>Запасы в русской версии
+# <a name="inventory-in-the-russian-version"></a><a name="inventory-in-the-russian-version"></a><a name="inventory-in-the-russian-version"></a>Запасы в русской версии
 
 Функция запасов для России описывается в нескольких разделах.
 
-## <a name="in-this-section"></a><a name="in-this-section"></a>В этом разделе
+## <a name="in-this-section"></a><a name="in-this-section"></a><a name="in-this-section"></a>В этом разделе
 
 [Товары Настройка](Inventory-Setup.md)
 

@@ -10,7 +10,7 @@ ms.date: 01/25/2023
 ms.custom: bap-template
 ms.search.form: '7230, 7233, 5338, 7236, 672, 7234'
 ---
-# <a name="manage-master-data-synchronization"></a><a name="manage-master-data-synchronization"></a>Управление синхронизацией основных данных
+# <a name="manage-master-data-synchronization"></a><a name="manage-master-data-synchronization"></a><a name="manage-master-data-synchronization"></a>Управление синхронизацией основных данных
 
 После того как вы настроите синхронизацию основных данных и выполните синхронизацию в первый раз, записи в выбранных таблицах будут связаны и для каждой таблицы будет создана операция очереди повторяющихся заданий. Операции очереди заданий автоматически синхронизируют данные в дочерних компаниях, когда кто-либо вносит изменения в исходную компанию. Другими словами, вам больше не нужно ничего делать.
 
@@ -21,7 +21,7 @@ ms.search.form: '7230, 7233, 5338, 7236, 672, 7234'
 
 В этой статье описываются инструменты, которые можно использовать для бесперебойной синхронизации.
 
-## <a name="investigate-the-status-of-synchronization"></a><a name="investigate-the-status-of-synchronization"></a>Расследование состояния синхронизации
+## <a name="investigate-the-status-of-synchronization"></a><a name="investigate-the-status-of-synchronization"></a><a name="investigate-the-status-of-synchronization"></a>Расследование состояния синхронизации
 
 На странице **Таблицы синхронизации** есть два действия, которые могут помочь вам контролировать синхронизацию:
 
@@ -38,29 +38,29 @@ ms.search.form: '7230, 7233, 5338, 7236, 672, 7234'
 > [!NOTE]
 > Если вы обнаружите ошибку на странице **Задания синхронизации интеграции** и не сможете устранить ее самостоятельно, то при обращении к своему партнеру или в Microsoft за поддержкой полезно предоставить сообщение об ошибке и информацию стека вызовов.
 
-## <a name="synchronize-modified-records"></a><a name="synchronize-modified-records"></a>Синхронизация измененных записей
+## <a name="synchronize-modified-records"></a><a name="synchronize-modified-records"></a><a name="synchronize-modified-records"></a>Синхронизация измененных записей
 
 Если вы изменяете настройку для таблицы или поля в дочерней компании, вы должны обновить синхронизацию. Например, если вы решите установить для поля флажок **Перезаписывать локальные изменения**, чтобы разрешить перезаписывать локальные изменения данными исходной компании. Для обновления синхронизации используйте действие **Синхронизировать измененные записи** на странице **Таблицы синхронизации**.
 
-## <a name="update-table-schemas"></a><a name="update-table-schemas"></a>Обновление схем таблиц
+## <a name="update-table-schemas"></a><a name="update-table-schemas"></a><a name="update-table-schemas"></a>Обновление схем таблиц
 
 Если исходная компания изменит таблицу, например добавит в нее поле, которое вы хотите синхронизировать, дочерним компаниям потребуется обновить свои сопоставления полей. Используйте действие **Обновить поля** на странице **Поля синхронизации**. 
 
-## <a name="enable-or-disable-couplings-between-records"></a><a name="enable-or-disable-couplings-between-records"></a>Включение и отключение связей между записями
+## <a name="enable-or-disable-couplings-between-records"></a><a name="enable-or-disable-couplings-between-records"></a><a name="enable-or-disable-couplings-between-records"></a>Включение и отключение связей между записями
 
 Чтобы начать или прекратить связывание определенных записей в таблице, на странице **Поля синхронизации** выберите поля, а затем используйте действие **Включить** или **Отключить**. 
 
 > [!TIP]
 > Быстрый способ включить или отключить несколько полей одновременно — выбрать их в списке, а затем использовать действие **Включить** или **Отключить**.
 
-## <a name="adding-extensions"></a><a name="adding-extensions"></a>Добавление расширений
+## <a name="adding-extensions"></a><a name="adding-extensions"></a><a name="adding-extensions"></a>Добавление расширений
 
 Если исходная компания устанавливает новое расширение, дочерняя компания также должна установить его, если дочерней компании нужно синхронизировать данные для этого расширения. Для добавления таблиц из расширения в список дочерняя компания может использовать действие **Обновить поля** на странице **Поля синхронизации**.
 
 > [!NOTE]
 > Некоторые таблицы получают данные из связанных таблиц. Если вы добавите расширение, которое не включает связанные таблицы, поля этих таблиц будут недоступны. Убедитесь, что вы добавили все связанные таблицы.
 
-## <a name="clean-up-old-entries"></a><a name="clean-up-old-entries"></a>Очистка старых операций
+## <a name="clean-up-old-entries"></a><a name="clean-up-old-entries"></a><a name="clean-up-old-entries"></a>Очистка старых операций
 
 Со временем количество операций в журнале синхронизации становится большим, поэтому вам может потребоваться удалить ненужные операции. Чтобы упростить очистку старых операций, на странице **Задания синхронизации интеграции** предлагаются следующие действия:
 
@@ -68,11 +68,11 @@ ms.search.form: '7230, 7233, 5338, 7236, 672, 7234'
 * **Удалить все операции**
 
 <!--
-## <a name="recreate-a-deleted-job-queue-entry"></a><a name="recreate-a-deleted-job-queue-entry"></a>Recreate a deleted job queue entry
+## <a name="recreate-a-deleted-job-queue-entry"></a><a name="recreate-a-deleted-job-queue-entry"></a><a name="recreate-a-deleted-job-queue-entry"></a>Recreate a deleted job queue entry
 
 If the recurring job queue entry is deleted for a table, you can quickly recreate it. On the **Synchronization Tables** page, choose the **Use Default Synchronization Setup** action.
 -->
 
-## <a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
 
 [Подготовка к синхронизации основных данных](admin-set-up-data-sync.md)

@@ -10,7 +10,7 @@ ms.search.keywords: 'email, PDF, electronic document'
 ms.date: 04/01/2021
 ms.author: edupont
 ---
-# <a name="set-up-document-sending-profiles"></a><a name="set-up-document-sending-profiles"></a>Настройка профилей отправки документов
+# <a name="set-up-document-sending-profiles"></a><a name="set-up-document-sending-profiles"></a><a name="set-up-document-sending-profiles"></a>Настройка профилей отправки документов
 Для каждого клиента можно настроить предпочтительный способ отправки документов продажи, так что не придется каждый раз выбирать вариант отправки при выборе действия **Учесть и отправить**.
 
 На странице **Профили отправки документов** можно настроить различные профили отправки, которые затем можно будет выбирать в поле **Профиль отправки документов** в карточке клиента. Вы можете установить флажок **По умолчанию**, чтобы указать, что профиль отправки документа является профилем по умолчанию для всех клиентов, кроме тех, у которых в поле **Профиль отправки документов** указан иной профиль.
@@ -20,17 +20,17 @@ ms.author: edupont
 
 > [!Video https://www.microsoft.com/en-us/videoplayer/embed/RE4jzHH?rel=0]
 
-## <a name="to-set-up-a-document-sending-profile"></a><a name="to-set-up-a-document-sending-profile"></a>Настройка профиля отправки документов
+## <a name="to-set-up-a-document-sending-profile"></a><a name="to-set-up-a-document-sending-profile"></a><a name="to-set-up-a-document-sending-profile"></a>Настройка профиля отправки документов
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Профили отправки документов**, а затем выберите связанную ссылку.
 2. На странице **Профили отправки документов** выберите действие **Создать**.
 3. Заполните соответствующим образом поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 
-## <a name="to-specify-a-sending-profile-on-a-customer-card"></a><a name="to-specify-a-sending-profile-on-a-customer-card"></a>Определение профиля отправки в карточке клиента
+## <a name="to-specify-a-sending-profile-on-a-customer-card"></a><a name="to-specify-a-sending-profile-on-a-customer-card"></a><a name="to-specify-a-sending-profile-on-a-customer-card"></a>Определение профиля отправки в карточке клиента
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Клиенты**, а затем выберите связанную ссылку.
 2. Откройте карточку клиента, для которого нужно настроить профиль отправки.
 3. В поле **Профиль отправки документов** выберите профиль, настроенный, как описано в предыдущей процедуре.
 
-## <a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
 [Настройка продаж](sales-setup-sales.md)  
 [Продажи](sales-manage-sales.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

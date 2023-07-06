@@ -8,21 +8,21 @@ ms.search.form: 'Report_5871, Report_5872, Report_99000753, Report_99000756, Rep
 ms.date: 06/01/2021
 ms.author: andreipa
 ---
-# <a name="production-reports-and-analytics-in-business-central"></a><a name="production-reports-and-analytics-in-business-central"></a>Производственные отчеты и аналитика в Business Central
+# <a name="production-reports-and-analytics-in-business-central"></a><a name="production-reports-and-analytics-in-business-central"></a><a name="production-reports-and-analytics-in-business-central"></a>Производственные отчеты и аналитика в Business Central
 
 Производственные отчеты в [!INCLUDE [prod_short](includes/prod_short.md)] позволяют профессионалам производства и бизнеса получать информацию и статистические данные о текущей и прошлой деятельности по производству.  
 
-## <a name="reports"></a><a name="reports"></a>Отчеты
+## <a name="reports"></a><a name="reports"></a><a name="reports"></a>Отчеты
 [!INCLUDE [production_reports](includes/production-reports-include.md)]
 
-## <a name="tasks"></a><a name="tasks"></a>Задачи
+## <a name="tasks"></a><a name="tasks"></a><a name="tasks"></a>Задачи
 
 В следующих статьях описываются некоторые ключевые задачи анализа состояния вашего бизнеса:
 
 * [Просмотр загрузки производственных и машинных центров](production-how-to-view-the-load-on-work-centers.md)  
 * [Просмотр наличия товара](inventory-how-availability-overview.md)
 
-## <a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
 
 [Настройка производства](production-configure-production-processes.md)  
 [Производство](production-manage-manufacturing.md)  

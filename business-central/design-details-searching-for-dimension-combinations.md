@@ -10,13 +10,13 @@ ms.search.keywords: null
 ms.date: 06/08/2021
 ms.author: edupont
 ---
-# <a name="design-details-searching-for-dimension-combinations"></a><a name="design-details-searching-for-dimension-combinations"></a>Сведения о проектировании: поиск комбинаций измерений
+# <a name="design-details-searching-for-dimension-combinations"></a><a name="design-details-searching-for-dimension-combinations"></a><a name="design-details-searching-for-dimension-combinations"></a>Сведения о проектировании: поиск комбинаций измерений
 Если страница закрывается после редактирования набора измерений [!INCLUDE[prod_short](includes/prod_short.md)] определяет, существует ли отредактированный набор измерений. Если набор не существует, создается новый набор и возвращается код комбинации измерений.  
 
-## <a name="building-search-tree"></a><a name="building-search-tree"></a>Создание дерева поиска
+## <a name="building-search-tree"></a><a name="building-search-tree"></a><a name="building-search-tree"></a>Создание дерева поиска
  Таблица 481 **Узел дерева набора измерений** используется, когда [!INCLUDE[prod_short](includes/prod_short.md)] выполняет оценку того, существует ли набор измерений в таблице 480 **Операция набора измерений**. Оценка выполняется путем рекурсивного обхода дерева поиска начиная с верхнего уровня (0). Верхний уровень 0 представляет набор измерений без операций набора измерений. Дочерние элементы этого набора измерений представляют наборы измерений только с одной операцией набора измерений. Дочерние элементы этих наборов измерений представляют наборы измерений с двумя дочерними элементами и т. д.  
 
-### <a name="example-1"></a><a name="example-1"></a>Пример 1
+### <a name="example-1"></a><a name="example-1"></a><a name="example-1"></a>Пример 1
  На следующей схеме представлено дерево поиска с шестью наборами измерений. На схеме отображается только идентификационная операция набора измерений.  
 
  ![Пример древовидной структуры измерений.](media/nav2013_dimension_tree.png "Пример древовидной структуры измерений")  
@@ -33,14 +33,14 @@ ms.author: edupont
 |Комплект 5|AREA 40|  
 |Комплект 6|AREA 40, PROJ VW|  
 
-### <a name="example-2"></a><a name="example-2"></a>Пример 2
+### <a name="example-2"></a><a name="example-2"></a><a name="example-2"></a>Пример 2
  Этот пример показывает, как [!INCLUDE[prod_short](includes/prod_short.md)] оценивает, существует ли набор измерений, состоящий из операций набора измерений AREA 40, DEPT PROD.  
 
  Сначала [!INCLUDE[prod_short](includes/prod_short.md)] также обновляет таблицу **Узел дерева набора измерений**, чтобы гарантировать, что дерево поиска будет выглядеть так, как на следующей схеме. Таким образом, набор измерений 7 становится дочерним набором набора измерений 5.  
 
  ![Пример древовидной структуры измерений в NAV 2013.](media/nav2013_dimension_tree_example2.png "Пример древовидной структуры измерений в NAV 2013")  
 
-### <a name="finding-dimension-set-id"></a><a name="finding-dimension-set-id"></a>Поиск кода набора измерений
+### <a name="finding-dimension-set-id"></a><a name="finding-dimension-set-id"></a><a name="finding-dimension-set-id"></a>Поиск кода набора измерений
  На концептуальном уровне **Родительский код**, **Измерение** и **Значение измерения** в дереве поиска объединяются и используются как первичный ключ, поскольку [!INCLUDE[prod_short](includes/prod_short.md)] перемещается по дереву в том же порядке, что и операции измерений. Функция GET (запись) используется для поиска ИД набора измерений. В следующем примере кода показано, как найти ИД набора измерений с тремя значениями измерений.  
 
 ```  
@@ -65,7 +65,7 @@ EXIT(DimSet.ID);
 
 ```  
 
-## <a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
     
  [Сведения о проектировании: операции набора измерений](/dynamics365/business-central/design-details-dimension-set-entries-overview)   
  [Обзор записей набора измерений](design-details-dimension-set-entries-overview.md)   

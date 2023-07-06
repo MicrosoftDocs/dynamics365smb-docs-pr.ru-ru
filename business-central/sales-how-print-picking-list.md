@@ -10,13 +10,13 @@ ms.search.keywords: null
 ms.date: 06/25/2021
 ms.author: edupont
 ---
-# <a name="print-the-picking-list"></a><a name="print-the-picking-list"></a>Печать сборочного листа
+# <a name="print-the-picking-list"></a><a name="print-the-picking-list"></a><a name="print-the-picking-list"></a>Печать сборочного листа
 
 Сборочные листы можно печатать непосредственно из заказа на продажу и любого другого документа, который является основанием для отгрузки товаров.
 
 Этот отчет обычно используется в компаниях, которые не используют отдельную функциональность для управления складом, чтобы работник склада мог просмотреть или напечатать сборочный лист из связанного с ним документа продаж. В компаниях с большими объемами или более сложными процессами отгрузки и подбора товаров планируется и выполняется по специальным складским документам. Подробнее см. в разделе [Исходящий складской поток](design-details-outbound-warehouse-flow.md).
 
-## <a name="to-print-a-picking-list-from-a-sales-order"></a><a name="to-print-a-picking-list-from-a-sales-order"></a>Печать сборочного листа из заказа на продажу
+## <a name="to-print-a-picking-list-from-a-sales-order"></a><a name="to-print-a-picking-list-from-a-sales-order"></a><a name="to-print-a-picking-list-from-a-sales-order"></a>Печать сборочного листа из заказа на продажу
 
 Следующая процедура основана на заказе на продажу. Аналогичные шаги можно использовать для всех других документов, которые являются основанием для отгрузки товаров, например заказа на перемещение.
 
@@ -30,7 +30,7 @@ ms.author: edupont
 > [!NOTE]
 > Если вы использовали в заказе на продажу функцию **Раскрыть спецификацию**, то в отчете отображаются только компоненты связанного сборочного элемента. Дополнительно см. в разделе [Работа со спецификациями](inventory-how-work-BOMs.md).
 
-## <a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
 
 [Запасы](inventory-manage-inventory.md)  
 [Исходящий складской поток](design-details-outbound-warehouse-flow.md)

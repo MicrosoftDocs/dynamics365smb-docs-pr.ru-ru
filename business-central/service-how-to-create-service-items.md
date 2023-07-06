@@ -10,18 +10,18 @@ ms.search.keywords: null
 ms.date: 06/23/2021
 ms.author: edupont
 ---
-# <a name="create-service-items"></a><a name="create-service-items"></a>Создание сервисных товаров
+# <a name="create-service-items"></a><a name="create-service-items"></a><a name="create-service-items"></a>Создание сервисных товаров
 
 В [!INCLUDE[prod_short](includes/prod_short.md)] под термином "сервисный товар" понимается оборудование или товары, требующие обслуживания. При создании сервисного заказа вы указываете товар, который требует обслуживания. В заказе можно связать сервисный товар с товаром на складе или группой сервисных товаров.    
 
 При получении товара, который требует обслуживания, можно зарегистрировать его как сервисный товар. Существует несколько способов сделать это. Например, можно создать сервисный товар на странице **Сервисные товары** либо в составе другого процесса, например при работе с сервисным заказом.   
 
-## <a name="to-create-a-service-item"></a><a name="to-create-a-service-item"></a>Создание сервисного товара
+## <a name="to-create-a-service-item"></a><a name="to-create-a-service-item"></a><a name="to-create-a-service-item"></a>Создание сервисного товара
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Сервисные товары**, а затем выберите связанную ссылку.
 2. Заполните соответствующим образом поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
 
-## <a name="to-create-service-items-within-a-service-order"></a><a name="to-create-service-items-within-a-service-order"></a>Создание сервисных товаров в сервисном заказе
+## <a name="to-create-service-items-within-a-service-order"></a><a name="to-create-service-items-within-a-service-order"></a><a name="to-create-service-items-within-a-service-order"></a>Создание сервисных товаров в сервисном заказе
 
 При получении сервисных товаров для обслуживания, которые нужно зарегистрировать как сервисные товары, можно создать их в качестве сервисных товаров на страницах **Сервисный заказ** или **Сервисное предложение**.  
 
@@ -31,7 +31,7 @@ ms.author: edupont
 
     Сервисному товару назначается номер и создается карточка сервисного товара. Поле **Код сервисного товара** заполняется номером нового сервисного товара.
 
-## <a name="to-create-a-service-item-when-shipping-items"></a><a name="to-create-a-service-item-when-shipping-items"></a>Создание сервисного товара при отгрузке товаров
+## <a name="to-create-a-service-item-when-shipping-items"></a><a name="to-create-a-service-item-when-shipping-items"></a><a name="to-create-a-service-item-when-shipping-items"></a>Создание сервисного товара при отгрузке товаров
 
 При отгрузке товаров путем учета заказов на продажу или счетов продажи отгруженные товары автоматически регистрируются как сервисные товары, если справедливо следующее условие. Товары должны принадлежать к группе сервисных товаров с флажком в поле **Создать сервисный товар**. Если серийные номера товаров были зарегистрированы на странице "Товар трассировка строки", эта информация автоматически копируется в поле **Серийный номер** карточки сервисного товара при создании сервисных товаров.  
 
@@ -48,7 +48,7 @@ ms.author: edupont
 >   
 >  Если товар является спецификацией и спецификация не вскрыта, для нее создается сервисный товар на тех же условиях (группа сервисных товаров и, при необходимости, серийные номера).  
 
-## <a name="to-insert-a-starting-fee-for-a-service-item"></a><a name="to-insert-a-starting-fee-for-a-service-item"></a>Вставка начального тарифа для сервисного товара
+## <a name="to-insert-a-starting-fee-for-a-service-item"></a><a name="to-insert-a-starting-fee-for-a-service-item"></a><a name="to-insert-a-starting-fee-for-a-service-item"></a>Вставка начального тарифа для сервисного товара
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Сервисные задачи**, а затем выберите связанную ссылку.
 2. Выберите действие **Товарный журнал**.
@@ -56,9 +56,9 @@ ms.author: edupont
 
     Вставляется сервисная строка с типом **Себестоимость** с начальным сбором. Начальный сбор будет применен к выбранному сервисному товару.
 
-## <a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/create-items/)
+## <a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/create-items/)
 
-## <a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
 
 [Настройка сервисных товаров и компонентов сервисных товаров](service-how-setup-service-items.md)  
 [Настройка управления сервисным обслуживанием](service-setup-service.md)  

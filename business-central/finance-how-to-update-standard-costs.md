@@ -10,7 +10,7 @@ ms.search.form: 5841
 ms.date: 04/01/2021
 ms.author: edupont
 ---
-# <a name="update-standard-costs"></a><a name="update-standard-costs"></a>Обновление стандартных себестоимостей
+# <a name="update-standard-costs"></a><a name="update-standard-costs"></a><a name="update-standard-costs"></a>Обновление стандартных себестоимостей
 Необходимо периодически обновлять стандартные себестоимости компонентов и развертывать новые стоимости вплоть до родительского товара. Процесс обычно состоит из следующих четырех этапов:  
 
 1.  Обновите себестоимости на уровне компонента и производственных мощностей. Дополнительные сведения см. в пакетном задании **Предложить станд. себестоимость товара**.  
@@ -20,7 +20,7 @@ ms.author: edupont
 
 Дополнительные сведения см. в разделе [Расчет стандартной себестоимости](finance-about-calculating-standard-cost.md).
   
-## <a name="to-update-standard-costs"></a><a name="to-update-standard-costs"></a>Обновление стандартных себестоимостей
+## <a name="to-update-standard-costs"></a><a name="to-update-standard-costs"></a><a name="to-update-standard-costs"></a>Обновление стандартных себестоимостей
 
 1.  Запустите пакетное задание **Коррекция себест. запасов**.  
 2.  Запустите пакетное задание **Учет себест. запасов в ГК**.  
@@ -35,7 +35,7 @@ ms.author: edupont
     7.  Запустите пакетное задание **Выполнить изменения станд. себестоимости**.  
 4.  Просмотрите и учтите страницу **Журнал переоценки**, который был заполнен операциями с предыдущих шагов этого процесса.  
 
-## <a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
 
  [О расчете стандартной себестоимости](finance-about-calculating-standard-cost.md)   
  [Управление себестоимостью товаров](finance-manage-inventory-costs.md)   

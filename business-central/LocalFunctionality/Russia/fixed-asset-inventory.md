@@ -9,7 +9,7 @@ ms.reviewer: edupont
 ms.author: soalex
 ---
 
-# <a name="fixed-asset-inventory"></a><a name="fixed-asset-inventory"></a>Инвентаризация основных средств
+# <a name="fixed-asset-inventory"></a><a name="fixed-asset-inventory"></a><a name="fixed-asset-inventory"></a>Инвентаризация основных средств
 
 Функция инвентаризации основных средств позволяет:
 
@@ -22,7 +22,7 @@ ms.author: soalex
 
 
 
-## <a name="inventory-lists-of-fixed-assets"></a><a name="inventory-lists-of-fixed-assets"></a>Инвентарные списки основных средств
+## <a name="inventory-lists-of-fixed-assets"></a><a name="inventory-lists-of-fixed-assets"></a><a name="inventory-lists-of-fixed-assets"></a>Инвентарные списки основных средств
 
 Для проведения инвентаризации необходимо создать инвентарные списки основных средств с расчетными количествами и суммами. Такие списки разделены по аналитике: например по физическому местоположению или сотруднику, ответственному за определенные основные средства.
 
@@ -75,7 +75,7 @@ ms.author: soalex
 
 
 
-## <a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
 
 [ОС: местоположения и ответственные сотрудники](Fixed-Asset-Locations-and-Employees.md)
 

@@ -9,11 +9,11 @@ ms.reviewer: edupont
 ms.author: soalex
 ---
 
-# <a name="prepare-vat-entries-for-posting"></a><a name="prepare-vat-entries-for-posting"></a>Подготовка операций НДС к учету
+# <a name="prepare-vat-entries-for-posting"></a><a name="prepare-vat-entries-for-posting"></a><a name="prepare-vat-entries-for-posting"></a>Подготовка операций НДС к учету
 
 Необходимо периодически предоставлять в налоговые органы данные о чистой сумме НДС. Можно использовать **Журнал НДС** для подготовки транзакций с открытыми суммами НДС к учету и для копирования операций в соответствующий журнал НДС. Обычно это нужно перед запуском пакетного задания **Вычисление и учет зачета НДС** для учета и закрытия операций НДС.
 
-## <a name="to-prepare-vat-entries-for-posting"></a><a name="to-prepare-vat-entries-for-posting"></a>Подготовка операций НДС к учету
+## <a name="to-prepare-vat-entries-for-posting"></a><a name="to-prepare-vat-entries-for-posting"></a><a name="to-prepare-vat-entries-for-posting"></a>Подготовка операций НДС к учету
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../../media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Журнал НДС**, а затем выберите связанную ссылку.
 
@@ -33,7 +33,7 @@ ms.author: soalex
 
 Операции копируется в соответствующие журналы НДС. Теперь можно запустить пакетное задание **Вычисление и учет зачета НДС**, чтобы закрыть операции НДС.
 
-## <a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
 
 [Подача отчета об НДС в налоговые органы](../../finance-how-report-vat.md)  
 

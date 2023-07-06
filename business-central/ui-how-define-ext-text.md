@@ -10,13 +10,13 @@ ms.search.form: '391, 30'
 ms.date: 06/24/2021
 ms.author: edupont
 ---
-# <a name="add-extended-text"></a><a name="add-extended-text"></a>Добавить расширенный текст
+# <a name="add-extended-text"></a><a name="add-extended-text"></a><a name="add-extended-text"></a>Добавить расширенный текст
 
 Вы можете расширить описание товаров, единиц хранения, счетов главной книги и ресурсов, добавив дополнительные строки в виде расширенного текста. Вы также можете установить условия для использования дополнительных строк.  
 
 В следующем разделе описывается, как добавить расширенный текст в описание товара. Но те же шаги применяются к единицам хранения, счетам главной книги и ресурсам.  
 
-## <a name="to-define-extended-text-for-an-description"></a><a name="to-define-extended-text-for-an-description"></a>Определение расширенного текста для описания
+## <a name="to-define-extended-text-for-an-description"></a><a name="to-define-extended-text-for-an-description"></a><a name="to-define-extended-text-for-an-description"></a>Определение расширенного текста для описания
 
 1. Откройте карточку для товара, для которого необходимо добавить расширенный текст, затем выберите действие **Расширенный текст**.
 2. Заполните поля **Код** и **Описание**.
@@ -29,12 +29,12 @@ ms.author: edupont
 
 Теперь вы можете добавить этот расширенный текст в документы. Следующая процедура объясняет, как добавить расширенный текст в заказ на продажу, но те же шаги применимы к любому другому документу, который вы указали для расширенного текста.  
 
-## <a name="to-add-an-extended-item-text-on-a-sales-order-line"></a><a name="to-add-an-extended-item-text-on-a-sales-order-line"></a>Добавление расширенного текста товара в строку заказа на продажу
+## <a name="to-add-an-extended-item-text-on-a-sales-order-line"></a><a name="to-add-an-extended-item-text-on-a-sales-order-line"></a><a name="to-add-an-extended-item-text-on-a-sales-order-line"></a>Добавление расширенного текста товара в строку заказа на продажу
 
 1. Откройте заказ на продажу со строкой продажи для товара, для которого определен расширенный текст. Дополнительные сведения см. в разделе [Продажа продукции](sales-how-sell-products.md).
 2. Выберите соответствующую строку, затем выберите действие **Вставить расширенный текст**.
 
-## <a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
 
 [Настройка запасов](inventory-setup-inventory.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

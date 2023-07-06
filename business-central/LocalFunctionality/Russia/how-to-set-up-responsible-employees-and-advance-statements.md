@@ -9,11 +9,11 @@ ms.reviewer: edupont
 ms.author: soalex
 ---
 
-# <a name="set-up-responsible-employees-and-advance-statements"></a><a name="set-up-responsible-employees-and-advance-statements"></a>Настройка материально-ответственных сотрудников и авансовых отчетов
+# <a name="set-up-responsible-employees-and-advance-statements"></a><a name="set-up-responsible-employees-and-advance-statements"></a><a name="set-up-responsible-employees-and-advance-statements"></a>Настройка материально-ответственных сотрудников и авансовых отчетов
 
 **Авансовый отчет** позволяет печатать и просматривать сведения о платежах, выполненных и полученных материально-ответственными лицами. Кроме того, этот отчет позволяет печатать и просматривать первичные документы по расходам материально-ответственных лиц.
 
-## <a name="creating-the-responsible-employee-card"></a><a name="creating-the-responsible-employee-card"></a>Создание карточки подотчетного лица
+## <a name="creating-the-responsible-employee-card"></a><a name="creating-the-responsible-employee-card"></a><a name="creating-the-responsible-employee-card"></a>Создание карточки подотчетного лица
 
 Окно **Карточка подотчетного лица** создается для каждого материально-ответственного лица на основе окна **Карточка сотрудника**. Кроме того, ее можно создать отдельно.
 
@@ -27,13 +27,13 @@ ms.author: soalex
 
 Ниже показано, как открыть окно **Карточка подотчетного лица**.
 
-### <a name="to-create-a-responsible-employee-card"></a><a name="to-create-a-responsible-employee-card"></a>Создание карточки подотчетного лица
+### <a name="to-create-a-responsible-employee-card"></a><a name="to-create-a-responsible-employee-card"></a><a name="to-create-a-responsible-employee-card"></a>Создание карточки подотчетного лица
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../../media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Подотчетные лица**, а затем выберите связанную ссылку.
 2. Создайте новую карточку.
 3. Нажмите кнопку **ОК**.
 
-### <a name="to-create-a-responsible-employee-card-from-an-employee-card"></a><a name="to-create-a-responsible-employee-card-from-an-employee-card"></a>Создание карточки подотчетного лица из карточки сотрудника
+### <a name="to-create-a-responsible-employee-card-from-an-employee-card"></a><a name="to-create-a-responsible-employee-card-from-an-employee-card"></a><a name="to-create-a-responsible-employee-card-from-an-employee-card"></a>Создание карточки подотчетного лица из карточки сотрудника
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../../media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Сотрудники**, а затем выберите связанную ссылку.
 
@@ -56,7 +56,7 @@ ms.author: soalex
    | **НДС бизнес-группа**            | Определяет значение поля **Бизнес-группа НДС авансового отчета** из настройки модуля "Покупки" на экспресс-вкладке **Авансовый отчет**. |
    | **Учетная группа поставщика**              | Определяет значение поля **Аванс. отчет - учетная группа поставщиков** из настройки модуля "Покупки" на экспресс-вкладке **Авансовый отчет**. |
 
-## <a name="creating-the-advance-statement"></a><a name="creating-the-advance-statement"></a>Создание авансового отчета
+## <a name="creating-the-advance-statement"></a><a name="creating-the-advance-statement"></a><a name="creating-the-advance-statement"></a>Создание авансового отчета
 
 **Авансовый отчет** создают подотчетные лица. В этом отчете содержатся сведения об оплатах, полученных сотрудниками, и о первичных документах, предоставленных для подтверждения расходов.
 
@@ -89,7 +89,7 @@ ms.author: soalex
   - **Тип** — "Подотчет";
   - **Подотчет Поставщик Но.** — номер поставщика.
 
-### <a name="to-access-the-advance-statement"></a><a name="to-access-the-advance-statement"></a>Чтобы открыть авансовый отчет, необходимо выполнить следующие действия.
+### <a name="to-access-the-advance-statement"></a><a name="to-access-the-advance-statement"></a><a name="to-access-the-advance-statement"></a>Чтобы открыть авансовый отчет, необходимо выполнить следующие действия.
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../../media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Авансовые отчеты**, а затем выберите связанную ссылку.
 
@@ -129,11 +129,11 @@ ms.author: soalex
 
 3. Выберите действие **Выпустить**. Выпущенный авансовый отчет можно будет напечатать.
 
-## <a name="printing-an-unposted-advance-statement"></a><a name="printing-an-unposted-advance-statement"></a>Печать неучтенного авансового отчета
+## <a name="printing-an-unposted-advance-statement"></a><a name="printing-an-unposted-advance-statement"></a><a name="printing-an-unposted-advance-statement"></a>Печать неучтенного авансового отчета
 
 Ниже показано, как напечатать неучтенный авансовый отчет.
 
-### <a name="to-print-an-unposted-advance-statement"></a><a name="to-print-an-unposted-advance-statement"></a>Печать неучтенного авансового отчета
+### <a name="to-print-an-unposted-advance-statement"></a><a name="to-print-an-unposted-advance-statement"></a><a name="to-print-an-unposted-advance-statement"></a>Печать неучтенного авансового отчета
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../../media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Авансовые отчеты**, а затем выберите связанную ссылку.
 
@@ -159,21 +159,21 @@ ms.author: soalex
 
 5. Нажмите кнопку **Печать**.
 
-## <a name="viewing-the-posted-advance-statement"></a><a name="viewing-the-posted-advance-statement"></a>Просмотр учтенного авансового отчета
+## <a name="viewing-the-posted-advance-statement"></a><a name="viewing-the-posted-advance-statement"></a><a name="viewing-the-posted-advance-statement"></a>Просмотр учтенного авансового отчета
 
 В следующей процедуре показано, как открыть учтенный **Авансовый отчет**.
 
-### <a name="to-view-the-posted-advance-statement"></a><a name="to-view-the-posted-advance-statement"></a>Просмотр учтенного авансового отчета
+### <a name="to-view-the-posted-advance-statement"></a><a name="to-view-the-posted-advance-statement"></a><a name="to-view-the-posted-advance-statement"></a>Просмотр учтенного авансового отчета
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../../media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Учтенный авансовый отчет**, а затем выберите связанную ссылку.
 
 В учтенном авансовом отчете указаны все сведения, введенные в документ в форме **Авансовый отчет**.
 
-## <a name="printing-the-posted-advance-statement"></a><a name="printing-the-posted-advance-statement"></a>Печать учтенного авансового отчета
+## <a name="printing-the-posted-advance-statement"></a><a name="printing-the-posted-advance-statement"></a><a name="printing-the-posted-advance-statement"></a>Печать учтенного авансового отчета
 
 Ниже показано, как напечатать учтенный **Авансовый отчет**.
 
-### <a name="to-print-a-posted-advance-statement"></a><a name="to-print-a-posted-advance-statement"></a>Печать учтенного авансового отчета
+### <a name="to-print-a-posted-advance-statement"></a><a name="to-print-a-posted-advance-statement"></a><a name="to-print-a-posted-advance-statement"></a>Печать учтенного авансового отчета
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../../media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Учтенные авансовые отчеты**, а затем выберите связанную ссылку.
 
@@ -198,7 +198,7 @@ ms.author: soalex
 
 5. Нажмите кнопку **Печать**.
 
-## <a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
 
 [Персонал](../../hr-manage-human-resources.md)  
 

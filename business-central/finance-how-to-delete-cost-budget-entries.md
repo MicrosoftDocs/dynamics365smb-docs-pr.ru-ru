@@ -10,13 +10,13 @@ ms.search.form: 1115
 ms.date: 04/01/2021
 ms.author: edupont
 ---
-# <a name="delete-cost-budget-entries"></a><a name="delete-cost-budget-entries"></a>Удалить записи затрат бюджета
+# <a name="delete-cost-budget-entries"></a><a name="delete-cost-budget-entries"></a><a name="delete-cost-budget-entries"></a>Удалить записи затрат бюджета
 
 Используйте пакетное задание **Удалить записи бюджета затрат** для отмены операций бюджета затрат из регистра бюджета затрат.  
 
 Чтобы исключить все пропуски по операциям бюджета затрат и операциям регистра затрат, нельзя удалить единственную операцию или раздел операций в середине списка операций регистра.  
 
-## <a name="to-delete-a-cost-budget-entry"></a><a name="to-delete-a-cost-budget-entry"></a>Удаление записи бюджета затрат
+## <a name="to-delete-a-cost-budget-entry"></a><a name="to-delete-a-cost-budget-entry"></a><a name="to-delete-a-cost-budget-entry"></a>Удаление записи бюджета затрат
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Удалить записи бюджета затрат**, а затем выберите соответствующую связь.  
 
@@ -28,7 +28,7 @@ ms.author: edupont
 > [!NOTE]  
 > Чтобы избежать случайного удаления бюджетных операций, можно закрыть операции регистра, пометив эти строки как **Закрыто** в поле **Закрыто** на странице **Журналы бюджета расходов**.  
 
-## <a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
 
 [Учет по затратам](finance-manage-cost-accounting.md)
 [Создание бюджетов затрат](finance-create-cost-budgets.md)  

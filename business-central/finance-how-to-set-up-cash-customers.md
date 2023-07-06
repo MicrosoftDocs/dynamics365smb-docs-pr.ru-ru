@@ -10,11 +10,11 @@ ms.search.form: '21, 22'
 ms.date: 06/16/2021
 ms.author: edupont
 ---
-# <a name="set-up-cash-customers"></a><a name="set-up-cash-customers"></a>Настройка клиентов, оплачивающих наличными
+# <a name="set-up-cash-customers"></a><a name="set-up-cash-customers"></a><a name="set-up-cash-customers"></a>Настройка клиентов, оплачивающих наличными
 
 Счет не может быть создан без номера клиента. Это правило выполняется даже тогда, когда выполняется продажа с наличным расчетом, и по счету клиента записи не производятся.  
 
-## <a name="to-set-up-a-cash-customer"></a><a name="to-set-up-a-cash-customer"></a>Настройка клиента, оплачивающего наличными
+## <a name="to-set-up-a-cash-customer"></a><a name="to-set-up-a-cash-customer"></a><a name="to-set-up-a-cash-customer"></a>Настройка клиента, оплачивающего наличными
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Клиент**, а затем выберите связанную ссылку.  
 2. Создайте новую **Карточку клиента**. Дополнительные сведения см. в разделе [Регистрация новых клиентов](sales-how-register-new-customers.md).
@@ -29,7 +29,7 @@ ms.author: edupont
 >
 > Для учетной группы должен быть задан номер счета расчетов с клиентами, даже если после выполнения учета баланс по этому счету всегда будет равен 0.  
 
-## <a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
 
 [Управление дебиторской задолженностью](receivables-manage-receivables.md)  
 [Регистрация новых клиентов](sales-how-register-new-customers.md)

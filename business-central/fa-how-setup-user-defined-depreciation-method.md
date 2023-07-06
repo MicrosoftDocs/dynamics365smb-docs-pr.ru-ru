@@ -9,7 +9,7 @@ ms.date: 07/05/2021
 ms.author: edupont
 ---
 
-# <a name="set-up-fixed-assets-with-user-defined-depreciation-methods"></a><a name="set-up-fixed-assets-with-user-defined-depreciation-methods"></a>Настройка основных средств с использованием методов амортизации, определяемых пользователем
+# <a name="set-up-fixed-assets-with-user-defined-depreciation-methods"></a><a name="set-up-fixed-assets-with-user-defined-depreciation-methods"></a><a name="set-up-fixed-assets-with-user-defined-depreciation-methods"></a>Настройка основных средств с использованием методов амортизации, определяемых пользователем
 
 Можно использовать [!INCLUDE[prod_short](includes/prod_short.md)], чтобы настроить определяемые пользователем методы амортизации, как описано здесь.
 
@@ -23,7 +23,7 @@ ms.author: edupont
 > [!NOTE]  
 > Если дата в поле **Первая польз. дата аморт.** используется для определения временных интервалов, то она будет **Дата начала амортизации**, что используется для определения числа дней амортизации. Если **Первая дата аморт. польз.** является более ранней, чем **Дата начала амортизации**, процентное содержание первого периода в таблице амортизации будет только частично использоваться, если программа вычисляет первую амортизацию. Это означает, что основное средство не должно быть полностью амортизировано в конце последнего периода.
 
-## <a name="to-assign-a-depreciation-book-to-a-fixed-asset-with-a-user-defined-depreciation-method"></a><a name="to-assign-a-depreciation-book-to-a-fixed-asset-with-a-user-defined-depreciation-method"></a>Назначение книги амортизации для основных средств с помощью определяемого пользователем метода амортизации
+## <a name="to-assign-a-depreciation-book-to-a-fixed-asset-with-a-user-defined-depreciation-method"></a><a name="to-assign-a-depreciation-book-to-a-fixed-asset-with-a-user-defined-depreciation-method"></a><a name="to-assign-a-depreciation-book-to-a-fixed-asset-with-a-user-defined-depreciation-method"></a>Назначение книги амортизации для основных средств с помощью определяемого пользователем метода амортизации
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Основные Средства**, а затем выберите связанную ссылку.
 2. Выберите основное средство, для которого необходимо настроить книгу амортизации основных средств.
@@ -36,7 +36,7 @@ ms.author: edupont
 7. Когда вы используете пользовательский метод, поле **Первая польз. дата аморт.** должно быть задано на дату, которая совпадает или раньше, чем в поле **Дата начала амортизации**. Если выбрано значение в поле **Длина периода** в таблице амортизации, то дата в поле **Первая польз. дата аморт.** должна быть датой начала учетного периода.
 8. Либо заполните поле **Число лет амортизации** или поле **Дата окончания амортизации**. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)] 
 
-## <a name="to-set-up-user-defined-depreciation-methods"></a><a name="to-set-up-user-defined-depreciation-methods"></a>Настройка пользовательских методов амортизации
+## <a name="to-set-up-user-defined-depreciation-methods"></a><a name="to-set-up-user-defined-depreciation-methods"></a><a name="to-set-up-user-defined-depreciation-methods"></a>Настройка пользовательских методов амортизации
 
 На странице **Таблица амортизации** можно задать определяемые пользователем методы амортизации. Например, можно настроить амортизацию на основе количества единиц.  
 
@@ -56,11 +56,11 @@ ms.author: edupont
 * Год 3 = 2/10  
 * Год 4 = 1/10  
 
-### <a name="depreciation-based-on-number-of-units"></a><a name="depreciation-based-on-number-of-units"></a>Амортизация на основании числа единиц
+### <a name="depreciation-based-on-number-of-units"></a><a name="depreciation-based-on-number-of-units"></a><a name="depreciation-based-on-number-of-units"></a>Амортизация на основании числа единиц
 
 Этот определяемый пользователем метод также можно использовать для амортизации на основании единиц товара, например при учете производственных машин с известным сроком службы. На странице **Таблицы амортизации** можно ввести число единиц, которые могут производиться в каждый период (месяц, квартал, год и учетный период).  
 
-### <a name="example---user-defined-depreciation"></a><a name="example---user-defined-depreciation"></a>Пример. Определенная пользователем амортизация
+### <a name="example---user-defined-depreciation"></a><a name="example---user-defined-depreciation"></a><a name="example---user-defined-depreciation"></a>Пример. Определенная пользователем амортизация
 
 Используется метод амортизации, который позволяет амортизировать средства ускоренным путем с целью снижения налогов.  
 
@@ -93,7 +93,7 @@ ms.author: edupont
 | 12-31-24 |Амортизация |Нет |Нет |0 |
 
 
-## <a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
 [Настройка основных средств](fa-setup.md)  
 [Основные Средства](fa-manage.md)  
 [Настройка амортизации основных средств](fa-how-setup-depreciation.md)  

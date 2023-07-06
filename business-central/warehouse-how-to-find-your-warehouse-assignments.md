@@ -10,11 +10,11 @@ ms.search.form: 9000
 ms.date: 06/24/2021
 ms.author: edupont
 ---
-# <a name="find-your-warehouse-assignments"></a><a name="find-your-warehouse-assignments"></a>Поиск складских назначений
+# <a name="find-your-warehouse-assignments"></a><a name="find-your-warehouse-assignments"></a><a name="find-your-warehouse-assignments"></a>Поиск складских назначений
 
 Чтобы найти складские назначения, откройте страницу карточки для выбранного товара. Если складские инструкции созданы, то строки «Взять» и «Поместить» будут видимыми, и можно приступать к работе над назначением. На некоторых складах менеджер может назначить специальные инструкции для каждого работника. Дополнительные сведения см. в разделе [Настройка работников склада](warehouse-how-to-set-up-warehouse-employees.md).
 
-## <a name="to-find-an-instruction-assigned-to-you"></a><a name="to-find-an-instruction-assigned-to-you"></a>Поиск инструкции, предназначенной для вас
+## <a name="to-find-an-instruction-assigned-to-you"></a><a name="to-find-an-instruction-assigned-to-you"></a><a name="to-find-an-instruction-assigned-to-you"></a>Поиск инструкции, предназначенной для вас
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") введите **Складские размещения**, **Складские подборы** или **Складское перемещение**, а затем выберите связанную ссылку.
 
@@ -25,7 +25,7 @@ ms.author: edupont
 
 Поле **Код исполнителя** в заголовке используется также для требования назначения работы, если менеджер склада не назначил конкретных инструкций работникам. Просто до начала работы по инструкции ввести код пользователя в заголовок склада. Коллеги могут выбрать работу по другим инструкциям, и, таким образом, двойной работы на складе не будет.  
 
-## <a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
 
 [Обзор управления складом](design-details-warehouse-management.md)
 [Запас](inventory-manage-inventory.md)  

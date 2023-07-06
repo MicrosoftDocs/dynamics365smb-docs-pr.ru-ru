@@ -7,7 +7,7 @@ ms.search.form: 4
 ms.date: 04/01/2021
 ms.author: edupont
 ---
-# <a name="set-up-payment-terms"></a><a name="set-up-payment-terms"></a>Настройка условия платежа
+# <a name="set-up-payment-terms"></a><a name="set-up-payment-terms"></a><a name="set-up-payment-terms"></a>Настройка условия платежа
 
 Условия оплаты определяют, как вы управляете сроками оплаты и скидками при оплате. Можно задавать любое количество кодов условий платежа и использовать формулы дат для определения условий. Когда вы впервые регистрируетесь на [!INCLUDE [prod_short](includes/prod_short.md)], демонстрационная компания предлагает несколько способов оплаты, которые часто используются предприятиями. Можно, однако, добавить любое необходимое число.  
 
@@ -19,7 +19,7 @@ ms.author: edupont
 
 Если вы хотите отправлять своим клиентам напоминания о просроченных платежах, вы должны настроить уровни и условия напоминаний. Дополнительные сведения см. в разделе [Настройка условий и уровней напоминаний](finance-setup-reminders.md).  
 
-## <a name="to-set-up-payment-terms"></a><a name="to-set-up-payment-terms"></a>Настройка условий оплаты
+## <a name="to-set-up-payment-terms"></a><a name="to-set-up-payment-terms"></a><a name="to-set-up-payment-terms"></a>Настройка условий оплаты
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Условия оплаты**, а затем выберите связанную ссылку.  
 2. Заполните соответствующим образом поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
@@ -31,7 +31,7 @@ ms.author: edupont
 >
 > В некоторых странах вы *можете* настроить условия оплаты с частичной оплатой. Чтобы узнать, поддерживается ли эта возможность в вашей стране, см. раздел **Локальная функциональность** на панели навигации с левой стороны статьи [Microsoft Learn](about-localization.md).
 
-## <a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
 
 [Настройка способов оплаты](finance-payment-methods.md)  
 [Настройка предоплаты](finance-set-up-prepayments.md)  

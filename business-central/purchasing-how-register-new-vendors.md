@@ -11,7 +11,7 @@ ms.search.form: '26, 27, 34, 461, 786, 1379, 1385, 1386, 1628'
 ms.date: 09/05/2022
 ms.author: bholtorf
 ---
-# <a name="register-new-vendors"></a><a name="register-new-vendors"></a>Регистрация новых поставщиков
+# <a name="register-new-vendors"></a><a name="register-new-vendors"></a><a name="register-new-vendors"></a>Регистрация новых поставщиков
 
 Поставщики предоставляют продукцию, которую вы продаете. Каждый поставщик, у которого производится покупка, должен быть зарегистрирован с созданием карточки поставщика.
 
@@ -22,7 +22,7 @@ ms.author: bholtorf
 
 > [!Video https://www.microsoft.com/videoplayer/embed/RE3PZtd?rel=0]
 
-## <a name="adding-new-vendors"></a><a name="adding-new-vendors"></a>Добавление новых поставщиков
+## <a name="adding-new-vendors"></a><a name="adding-new-vendors"></a><a name="adding-new-vendors"></a>Добавление новых поставщиков
 
 Вы можете добавлять новых поставщиков вручную, заполнив страницу **Карточка поставщика**, или вы можете использовать шаблоны, которые содержат предопределенную информацию. Например, можно создавать шаблоны для разных типов профилей поставщиков. Использование шаблонов экономит время при добавлении новых поставщиков и помогает каждый раз обеспечивать верность информации.
 
@@ -40,7 +40,7 @@ ms.author: bholtorf
 
 Вы указываете адреса получателей платежей на страницах карточек поставщиков и на экспресс-вкладке «Отгрузка и платежи» в заказах на покупку и счетах-фактурах. Когда вы создаете строки журнала платежей с помощью действий «Оплатить поставщику» или «Создать платеж» на странице списка поставщиков или на странице карточки поставщика или с помощью действия «Применить записи» в журнале платежей, назначается код получателя перевода в записи книги поставщиков. Вы можете перезаписать это значение.
 
-### <a name="to-create-a-new-vendor"></a><a name="to-create-a-new-vendor"></a>Создание нового поставщика
+### <a name="to-create-a-new-vendor"></a><a name="to-create-a-new-vendor"></a><a name="to-create-a-new-vendor"></a>Создание нового поставщика
 
 [!INCLUDE[create_new_vendor](includes/create_new_vendor.md)]
 
@@ -51,7 +51,7 @@ ms.author: bholtorf
 
 Если эту карточку поставщика требуется использовать в качестве шаблона при создании новых карточек поставщиков, ее можно сохранить в качестве шаблона поставщика. Подробнее см. в разделе [Сохранение карточки поставщика в качестве шаблона](#to-save-the-vendor-card-as-a-template).
 
-### <a name="deleting-and-editing-vendor-information"></a><a name="deleting-and-editing-vendor-information"></a>Удаление и редактирование информации о поставщике
+### <a name="deleting-and-editing-vendor-information"></a><a name="deleting-and-editing-vendor-information"></a><a name="deleting-and-editing-vendor-information"></a>Удаление и редактирование информации о поставщике
 
 Вы можете редактировать информацию в карточках поставщика в любое время. Однако если вы учли транзакцию для поставщика, удалить карточку нельзя, потому что операции книги могут быть необходимы для аудита. Для удаления карточек поставщиков с операциями книги обратитесь к партнеру Майкрософт, который может сделать это посредством кода.
 
@@ -61,7 +61,7 @@ ms.author: bholtorf
 > [!TIP]
 > Вы можете добавить альтернативные адреса в карточки поставщиков, выбрав действие **Адреса заказов**.
 
-## <a name="to-save-the-vendor-card-as-a-template"></a><a name="to-save-the-vendor-card-as-a-template"></a>Сохранение карточки поставщика в качестве шаблона
+## <a name="to-save-the-vendor-card-as-a-template"></a><a name="to-save-the-vendor-card-as-a-template"></a><a name="to-save-the-vendor-card-as-a-template"></a>Сохранение карточки поставщика в качестве шаблона
 
 1. На странице **Карточка поставщика** выберите действие **Сохранить как шаблон**. Откроется страница **Шаблон поставщика**, на которой карточка поставщика будет показана в качестве шаблона.
 2. Заполните соответствующим образом поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
@@ -70,9 +70,9 @@ ms.author: bholtorf
 5. Заполнив шаблон нового поставщика, нажмите **ОК**.  
    Шаблон поставщика добавляется в список шаблонов поставщиков, чтобы можно было использовать его для создания новых карточек поставщиков.
 
-## <a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/trade-master-data-dynamics-365-business-central/).
+## <a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/trade-master-data-dynamics-365-business-central/).
 
-## <a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
 
 [Объединение повторяющихся записей](sales-how-merge-duplicate-records.md)  
 [Создание серий номеров](ui-create-number-series.md)  

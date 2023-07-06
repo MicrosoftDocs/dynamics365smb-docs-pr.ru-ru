@@ -12,7 +12,7 @@ ms.date: 09/20/2022
 ms.author: bholtorf
 ---
 
-# <a name="use-the-amc-banking-365-fundamentals-extension"></a><a name="use-the-amc-banking-365-fundamentals-extension"></a>Использование расширения AMC Banking 365 Fundamentals
+# <a name="use-the-amc-banking-365-fundamentals-extension"></a><a name="use-the-amc-banking-365-fundamentals-extension"></a><a name="use-the-amc-banking-365-fundamentals-extension"></a>Использование расширения AMC Banking 365 Fundamentals
 
 Расширение AMC Banking 365 Fundamentals упрощает и делает более точной отправку данных в ваши банки. Расширение подключает [!INCLUDE[prod_short](includes/prod_short.md)] к службе AMC Banking 365 Fundamentals для Microsoft Dynamics 365 Business Central, которая может конвертировать банковские данные из [!INCLUDE[prod_short](includes/prod_short.md)] в форматы, которые требуются более чем 600 банками по всему миру. Например, это облегчает перевод платежей и кредитов поставщикам путем ввода платежей в [!INCLUDE[prod_short](includes/prod_short.md)], а затем отправки их в ваш банк. Форматы также могут упростить процессы выверки банковских счетов. Для получения дополнительной информации см. раздел [AMC Banking для Microsoft Dynamics 365 Business Central](https://www.amcbanking.com/bc-fundamentals/),
 
@@ -22,7 +22,7 @@ ms.author: bholtorf
 > [!NOTE]
 > В общей версии [!INCLUDE[prod_short](includes/prod_short.md)] настраивается и подключается глобальный поставщик услуг для преобразования банковских данных в любой формат файла, требуемый банком. В версиях для Северной Америки та же служба может использоваться для отправки файлов платежей в виде электронного перевода денежных средств (EFT), например, обычно используется сеть автоматизированной клиринговой палаты (ACH), но с немного другим процессом.
 
-## <a name="use-our-demonstration-account"></a><a name="use-our-demonstration-account"></a>Использование нашей демонстрационной учетной записи
+## <a name="use-our-demonstration-account"></a><a name="use-our-demonstration-account"></a><a name="use-our-demonstration-account"></a>Использование нашей демонстрационной учетной записи
 
 [!INCLUDE[prod_short](includes/prod_short.md)] поставляется с демонстрационной учетной записью, которая позволяет вам попробовать расширение AMC Banking 365 Fundamentals. Мы предоставляем настройки по умолчанию для подключения к AMC Banking с указанием банковских счетов, из которых требуется получать данные, в [!INCLUDE[prod_short](includes/prod_short.md)], плюс несколько определений обмена данными. Вы можете просмотреть настройки подключения на странице **Настройка AMC Banking**. Для банковских счетов расширение применяет значения в полях **Название банка**, **Номера сообщ. кред. переводов**, **Формат импорта банковской выписки** и **Формат экспорта платежей** на карточках банковских счетов.
 
@@ -31,11 +31,11 @@ ms.author: bholtorf
 > [!NOTE]
 > На демонстрационной учетной записи есть некоторые ограничения. Например, при преобразовании платежей сумма в преобразованном файле не будет соответствовать фактической сумме. Вместо этого сумма всегда будет равна пяти единицами валюты, которую вы используете для платежей.  
 
-## <a name="setting-up-the-extension"></a><a name="setting-up-the-extension"></a>Настройка расширения
+## <a name="setting-up-the-extension"></a><a name="setting-up-the-extension"></a><a name="setting-up-the-extension"></a>Настройка расширения
 
 Начало работы с расширением включает в себя всего несколько простых шагов, и мастер настройки установит соединение и включит расширение. Руководство будет выполнять такие вещи, как установка определений обмена данными для настроек экспорта/импорта банковских выписок и инициирование серий номеров, используемых для сообщений о кредитных переводах.  
 
-### <a name="to-set-up-the-required-permission-sets"></a><a name="to-set-up-the-required-permission-sets"></a>Настройка необходимых наборов разрешений
+### <a name="to-set-up-the-required-permission-sets"></a><a name="to-set-up-the-required-permission-sets"></a><a name="to-set-up-the-required-permission-sets"></a>Настройка необходимых наборов разрешений
 
 Прежде чем люди смогут использовать это расширение, ваш администратор должен скопировать следующие наборы разрешений, отредактировать их, а затем назначить новые наборы разрешений пользователям вместо оригинальных:
 
@@ -48,14 +48,14 @@ ms.author: bholtorf
 
 Для каждого нового набора разрешений предоставьте только разрешение **Чтение** для элемента **Таблица настройки AMC Banking (20101)**. Дополнительные сведения см. в разделе [Создание и изменение разрешений вручную](ui-define-granular-permissions.md#to-create-a-permission-set).
 
-### <a name="to-connect-the-extension-to-amc-banking"></a><a name="to-connect-the-extension-to-amc-banking"></a>Чтобы подключить расширение к AMC Banking
+### <a name="to-connect-the-extension-to-amc-banking"></a><a name="to-connect-the-extension-to-amc-banking"></a><a name="to-connect-the-extension-to-amc-banking"></a>Чтобы подключить расширение к AMC Banking
 
 1. Получить модуль и план обслуживания для AMC Banking. Для этого посетите страницу [Лицензия AMC](https://license.amcbanking.com/register).
 2. В [!INCLUDE[prod_short](includes/prod_short.md)] выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Настройка AMC Banking**, а затем выберите связанную ссылку.  
 3. На странице **Настройка AMC Banking** выберите действие **Мастер настройки**.
 4. Выполните шаги облегчить в мастере настройки.
 
-### <a name="to-connect-bank-accounts-to-the-extension"></a><a name="to-connect-bank-accounts-to-the-extension"></a>Подключение банковских счетов к расширению
+### <a name="to-connect-bank-accounts-to-the-extension"></a><a name="to-connect-bank-accounts-to-the-extension"></a><a name="to-connect-bank-accounts-to-the-extension"></a>Подключение банковских счетов к расширению
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Банковские счета**, а затем выберите связанную ссылку.
 2. Откройте карту для банковского счета, который вы хотите подключить к услуге.
@@ -65,14 +65,14 @@ ms.author: bholtorf
 4. В поле **Номера сообщ. кред. переводов** выберите номер серии для сообщений, сопровождающих платежи.
 5. В полях **Формат импорта банковской выписки** и **Формат экспорта платежей** выберите определения обмена данными, которые требуются вашему банку.
 
-## <a name="use-the-extension"></a><a name="use-the-extension"></a>Использование расширения
+## <a name="use-the-extension"></a><a name="use-the-extension"></a><a name="use-the-extension"></a>Использование расширения
 
 Использование этого расширения — это всего лишь вопрос экспорта данных на странице **Журналы платежей**, а затем отправки его в веб-службу вашего банка. Дополнительные сведения см. в разделе [Выполнение платежей с помощью обработки данных банка или кредитового перевода SEPA](finance-make-payments-with-bank-data-conversion-service-or-sepa-credit-transfer.md).
 
 > [!NOTE]
 > Вы должны заполнить поля **SWIFT-код** и **IBAN** для каждого банковского счета.
 
-### <a name="to-export-data-and-submit-it-to-your-bank"></a><a name="to-export-data-and-submit-it-to-your-bank"></a>Экспорт данных и отправка их в ваш банк
+### <a name="to-export-data-and-submit-it-to-your-bank"></a><a name="to-export-data-and-submit-it-to-your-bank"></a><a name="to-export-data-and-submit-it-to-your-bank"></a>Экспорт данных и отправка их в ваш банк
 
 > [!CAUTION]  
 > При экспорте данных с помощью расширения AMC Banking 365 Fundamentals некоторые бизнес-данные станут доступны поставщику службы. Поставщик услуг AMC Consult A/S отвечает за конфиденциальность этих данных. Дополнительные сведения см. в разделе [Политика конфиденциальности AMC](https://go.microsoft.com/fwlink/?LinkId=510158).
@@ -84,14 +84,14 @@ ms.author: bholtorf
    > Для каждой строки не забудьте выбрать **Электронный платеж** в поле **Тип банковского платежа**.
 3. Выберите действие **Экспорт**.
 
-### <a name="to-import-and-apply-the-converted-file"></a><a name="to-import-and-apply-the-converted-file"></a>Импорт и применение преобразованного файла
+### <a name="to-import-and-apply-the-converted-file"></a><a name="to-import-and-apply-the-converted-file"></a><a name="to-import-and-apply-the-converted-file"></a>Импорт и применение преобразованного файла
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Журнал выверки платежей**, а затем выберите связанную ссылку.
 2. Выберите действие **Импорт банковских транзакций**, затем выберите преобразованный файл.  
 
    [!INCLUDE[prod_short](includes/prod_short.md)] создаст новый журнал выверки платежей, содержащий данные в файле. Дополнительные сведения см. в разделе [Автоматическое применение платежей и выверка банковских счетов](receivables-apply-payments-auto-reconcile-bank-accounts.md).
 
-## <a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
 
 [Настройка [!INCLUDE[prod_short](includes/prod_short.md)] с помощью расширений](ui-extensions.md)  
 [Подготовьтесь к ведению бизнеса](ui-get-ready-business.md)  

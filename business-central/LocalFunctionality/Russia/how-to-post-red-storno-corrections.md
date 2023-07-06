@@ -9,7 +9,7 @@ ms.reviewer: edupont
 ms.author: soalex
 ---
 
-# <a name="post-red-storno-corrections"></a><a name="post-red-storno-corrections"></a>Учет коррекций "красный сторно"
+# <a name="post-red-storno-corrections"></a><a name="post-red-storno-corrections"></a><a name="post-red-storno-corrections"></a>Учет коррекций "красный сторно"
 
 Можно настраивать склад на использование одного столбца для первоначального и корректирующего учета. Эта функция часто называется *красный сторно*. Учет "красный сторно" можно использовать для учета следующих операций склада:
 
@@ -21,7 +21,7 @@ ms.author: soalex
 > [!NOTE]
 > Функцию "красный сторно" необходимо включить в окне **Настройка модуля "Запасы"**, прежде чем можно будет учитывать корректирующие операции. Дополнительные сведения см. в разделе [Настройка модуля "Запасы"](Inventory-Setup.md).  
 
-## <a name="to-post-corrective-entries-in-the-item-journal"></a><a name="to-post-corrective-entries-in-the-item-journal"></a>Учет корректирующих операций в журнале товаров
+## <a name="to-post-corrective-entries-in-the-item-journal"></a><a name="to-post-corrective-entries-in-the-item-journal"></a><a name="to-post-corrective-entries-in-the-item-journal"></a>Учет корректирующих операций в журнале товаров
 
 1. Выберите ![Поиск страницы или отчета.]() значок, введите **Журнал товаров**, а затем выберите связанную ссылку.
 
@@ -39,7 +39,7 @@ ms.author: soalex
 
 Коррекция учитывается, и учитывается вся корреспонденция счета главной книги, которая была настроена.
 
-## <a name="to-reverse-item-documents"></a><a name="to-reverse-item-documents"></a>Сторнирование товарных документов
+## <a name="to-reverse-item-documents"></a><a name="to-reverse-item-documents"></a><a name="to-reverse-item-documents"></a>Сторнирование товарных документов
 
 1. Чтобы отменить поступление товара, выберите ![Найти страницу или отчет.]() значок, введите **Оприходование товаров**, а затем выберите связанную ссылку.
 
@@ -57,7 +57,7 @@ ms.author: soalex
 
 6. Выполните учет журнала.
 
-## <a name="to-post-item-revaluation-or-item-reclassification-journals"></a><a name="to-post-item-revaluation-or-item-reclassification-journals"></a>Учет журналов переоценки или реклассификации товаров
+## <a name="to-post-item-revaluation-or-item-reclassification-journals"></a><a name="to-post-item-revaluation-or-item-reclassification-journals"></a><a name="to-post-item-revaluation-or-item-reclassification-journals"></a>Учет журналов переоценки или реклассификации товаров
 
 1. Чтобы учесть переоценку товара, выберите ![Найти страницу или отчет.]() значок, введите **Журнал переоценки**, а затем выберите связанную ссылку.
 
@@ -73,7 +73,7 @@ ms.author: soalex
 
 3. Выполните учет журнала.
 
-## <a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
 
 [Настройка запасов](Inventory-Setup.md)  
 
