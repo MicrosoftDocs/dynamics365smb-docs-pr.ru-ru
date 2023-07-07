@@ -7,13 +7,13 @@ ms.topic: conceptual
 ms.author: margoc
 ---
 
-# <a name="partner-sales-and-marketing-learning-catalog"></a><a name="partner-sales-and-marketing-learning-catalog"></a><a name="partner-sales-and-marketing-learning-catalog"></a>Каталог обучения партнеров по продажам и маркетингу
+# <a name="partner-sales-and-marketing-learning-catalog"></a>Каталог обучения партнеров по продажам и маркетингу
 
 Вы несете ответственность за помощь своим клиентам в приобретении правильного решения?
 
 Следующий каталог организован от базовых знаний до конкретных областей и от самых простых до самых продвинутых знаний. Если контент существует в нескольких форматах, мы сообщим вам, чтобы вы могли выбрать формат обучения, который наилучшим образом соответствует вашим потребностям.  
 
-## <a name="business-value"></a><a name="business-value"></a><a name="business-value"></a>Ценность для бизнеса<a name="busvalue"></a>
+## <a name="business-value"></a><a name="busvalue"></a>Ценность для бизнеса
 
 | Содержимое     | Описание    | Формат                                | Длина              |
 |-------------|----------------|---------------------------------------|---------------------|
@@ -21,7 +21,7 @@ ms.author: margoc
 | [Изучение возможностей Dynamics 365 Business Central](https://dynamics.microsoft.com/business-central/capabilities/) | Изучение возможностей Dynamics 365 Business Central    | Веб-сайт    |                     |
 | [Dynamics 365 Business Central](/training/modules/dynamics-365-business-central/)            | Этот модуль показывает особенности приложения, преимущества и примеры Dynamics 365 Business Central в действии.    | Бесплатный путь онлайн-обучения в произвольном темпе | 24 минуты          |
 
-## <a name="getting-started"></a><a name="getting-started"></a><a name="getting-started"></a>Начало работы<a name="get-started"></a>
+## <a name="getting-started"></a><a name="get-started"></a>Начало работы
 
 | Содержимое   | Описание   | Формат                                | Длина              |
 |-----------|---------------|---------------------------------------|---------------------|
@@ -30,7 +30,7 @@ ms.author: margoc
 | [Профессиональная работа с данными в Business Central](/training/paths/work-pro-data-dynamics-365-business-central) | Вы только начинаете работать с Business Central? Этот путь обучения поможет подготовить вас к типам данных в Business Central и к тому, как найти нужную информацию в приложении.      | Бесплатный путь онлайн-обучения в произвольном темпе | 2 часа 27 минут  |
 | [Список воспроизведения YouTube по Business Central](https://www.youtube.com/playlist?list=PLcakwueIHoT-wVFPKUtmxlqcG1kJ0oqq4) | Целевая страница YouTube с видеороликами по Dynamics 365 Business Central  | Видео YouTube  |                     |
 
-## <a name="grow-your-business"></a><a name="grow-your-business"></a><a name="grow-your-business"></a>Рост вашего бизнеса<a name="grow"></a>
+## <a name="grow-your-business"></a><a name="grow"></a>Рост вашего бизнеса
 
 | Содержимое   | Описание        | Формат                                | Длина                |
 |-----------|--------------------|---------------------------------------|-----------------------|

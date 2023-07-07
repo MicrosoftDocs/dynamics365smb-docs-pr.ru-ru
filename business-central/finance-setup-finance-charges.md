@@ -11,11 +11,11 @@ ms.search.form: '6, 494'
 ms.date: 04/01/2021
 ms.author: edupont
 ---
-# <a name="set-up-finance-charge-terms"></a><a name="set-up-finance-charge-terms"></a><a name="set-up-finance-charge-terms"></a>Настройка процентных ставок
+# <a name="set-up-finance-charge-terms"></a>Настройка процентных ставок
 
 Если клиент не внес оплату в срок, указанный для оплаты, проценты могут быть вычислены автоматически и добавлены к просроченным суммам счета клиента. Клиентов можно проинформировать о добавленных процентах путем отправки им процент-нот. Но сначала необходимо настроить код, который представляет расчет каждой процентной ставки. Затем можно ввести этот код в поле "Код процентной ставки" в карточках клиента.  
 
-## <a name="finance-charge-terms"></a><a name="finance-charge-terms"></a><a name="finance-charge-terms"></a>Процентные ставки
+## <a name="finance-charge-terms"></a>Процентные ставки
 
 Вы должны настроить процентные ставки для каждого расчета финансовых сборов, а затем назначить условия клиенту в поле **Код процентной ставки** на странице **Клиент**.
 
@@ -33,7 +33,7 @@ ms.author: edupont
 
 Кроме этого, каждое условие в таблице "Процентные ставки" связано с подтаблицей таблицы "Процент-нота - текст". При каждой настройке процентных ставок можно определять начало и/или конец текста, включаемого в процент-ноту.
 
-### <a name="to-set-up-finance-charge-terms"></a><a name="to-set-up-finance-charge-terms"></a><a name="to-set-up-finance-charge-terms"></a>Настройка процентных ставок
+### <a name="to-set-up-finance-charge-terms"></a>Настройка процентных ставок
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Процентные ставки**, а затем выберите связанную ссылку.  
 2. Заполните соответствующим образом поля.
@@ -62,9 +62,9 @@ ms.author: edupont
 |%8|Содержимое поля **Код валюты** в заголовке процент-ноты|  
 |%9|Содержимое поля **Дата учета** в заголовке процент-ноты|  
 
-## <a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/send-memos-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/send-memos-dynamics-365-business-central/)
 
-## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также
 
 [Сбор непогашенных остатков задолженности](receivables-collect-outstanding-balances.md)  
 [Настройка условий и уровней напоминаний](finance-setup-reminders.md)  

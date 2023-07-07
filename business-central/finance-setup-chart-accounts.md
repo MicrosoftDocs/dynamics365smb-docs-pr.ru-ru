@@ -11,14 +11,14 @@ ms.search.form: '16, 17, 18, 118, 386, 391'
 ms.date: 01/21/2022
 ms.author: edupont
 ---
-# <a name="set-up-or-change-the-chart-of-accounts"></a><a name="set-up-or-change-the-chart-of-accounts"></a><a name="set-up-or-change-the-chart-of-accounts"></a>Настройка или изменение плана счетов
+# <a name="set-up-or-change-the-chart-of-accounts"></a>Настройка или изменение плана счетов
 
 В плане счетов (COA) отображаются счета главной книги, на которых хранятся финансовые данные. [!INCLUDE[prod_short](includes/prod_short.md)] включает стандартный план счетов (COA), готовый к использованию в вашей организации. Однако вы можете изменить счета по умолчанию и добавить новые счета.
 <br><br>  
 
 > [!Video https://www.microsoft.com/videoplayer/embed/RE43KO9?rel=0]
 
-## <a name="add-or-change-accounts"></a><a name="add-or-change-accounts"></a><a name="add-or-change-accounts"></a>Добавить или изменить счета
+## <a name="add-or-change-accounts"></a>Добавить или изменить счета
 
 В плане счетов (COA) вы можете открыть каждый счет главной книги (ГК) и добавить или изменить параметры. [!INCLUDE [tooltip-inline-tip_md](includes/tooltip-inline-tip_md.md)] 
 
@@ -29,7 +29,7 @@ ms.author: edupont
 > [!IMPORTANT]
 > Если в полях **Группировка** для счетов **Сумма (до)** определения были введены до выполнения функции создания отступов, их следует ввести снова после выполнения этой функции, так как она производит запись значений поверх старых во всех полях **Сумма (до)**.
 
-## <a name="delete-accounts"></a><a name="delete-accounts"></a><a name="delete-accounts"></a>Удаление счетов
+## <a name="delete-accounts"></a>Удаление счетов
 
 Вы можете удалить счет главной книги. Однако прежде чем удалять его, должно быть соблюдено следующее:  
 
@@ -39,7 +39,7 @@ ms.author: edupont
 
 [!INCLUDE[prod_short](includes/prod_short.md)] не допускает удаления счета главной книги, на котором хранятся данные, необходимые для плана счетов.  
 
-## <a name="block-deletion-of-gl-accounts"></a><a name="block-deletion-of-gl-accounts"></a><a name="block-deletion-of-gl-accounts"></a>Блокировать удаление счетов ГК
+## <a name="block-deletion-of-gl-accounts"></a>Блокировать удаление счетов ГК
 
 [!INCLUDE [2022_releasewave1](includes/2022_releasewave1.md)]
 
@@ -49,9 +49,9 @@ ms.author: edupont
 
 Установка для поля **Блокировать удаление счетов ГК** значения *Да* можно считать передовой практикой, как и установка даты в поле **Проверять удаление счета ГК с операциями после**, например, до даты, до которой вы должны хранить свои финансовые данные.  
 
-## <a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/chart-accounts-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/chart-accounts-dynamics-365-business-central/index)
 
-## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также
 
 [Главная книга и план счетов](finance-general-ledger.md)  
 [Выверка банковских счетов](bank-manage-bank-accounts.md)  

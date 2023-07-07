@@ -10,7 +10,7 @@ ms.search.keywords: sales rep
 ms.date: 04/01/2021
 ms.author: edupont
 ---
-# <a name="set-up-salespeople"></a><a name="set-up-salespeople"></a><a name="set-up-salespeople"></a>Настройка менеджеров по продажам
+# <a name="set-up-salespeople"></a>Настройка менеджеров по продажам
 
 Во многих организациях в качестве основания для расчета комиссионных от продажи или премии предпочитают учитывать вклад конкретного сотрудника. См., например, отчет **Комиссионные менеджера по продажам**. Кроме этого, организации может понадобиться каждому из своих контактов приписать некоторого менеджера.
 
@@ -18,16 +18,16 @@ ms.author: edupont
 <br><br>  
 > [!Video https://www.microsoft.com/videoplayer/embed/RE43Vhm?rel=0]
 
-## <a name="to-set-up-a-salesperson-code"></a><a name="to-set-up-a-salesperson-code"></a><a name="to-set-up-a-salesperson-code"></a>Настройка кода менеджера
+## <a name="to-set-up-a-salesperson-code"></a>Настройка кода менеджера
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Менеджеры по продажам**, а затем выберите связанную ссылку.
 2. На странице **Менеджеры** выберите действие **Создать**.
 
 Менеджера можно использовать для различных работ по управлению и маркетингу. Например, можно назначить задачи менеджерам по продажам, чтобы задачи были связаны с возможностями продаж, назначенными конкретному менеджеру. Дополнительные сведения см. в разделе [Настройка циклов продаж и этапов циклов](marketing-how-setup-opportunity-sales-cycles-stages.md).
 
-## <a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/trade-master-data-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/trade-master-data-dynamics-365-business-central/)
 
-## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также
 
 [Настройка продаж](sales-setup-sales.md)  
 [Продажи](sales-manage-sales.md)  

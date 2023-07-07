@@ -9,11 +9,11 @@ ms.reviewer: edupont
 ms.author: soalex
 ---
 
-# <a name="create-a-fixed-asset-charge"></a><a name="create-a-fixed-asset-charge"></a><a name="create-a-fixed-asset-charge"></a>Создание издержек ОС
+# <a name="create-a-fixed-asset-charge"></a>Создание издержек ОС
 
 Ниже показано, как создать новые издержки основного средства. 
 
-## <a name="to-create-a-fixed-asset-charge"></a><a name="to-create-a-fixed-asset-charge"></a><a name="to-create-a-fixed-asset-charge"></a>Создание издержек ОС
+## <a name="to-create-a-fixed-asset-charge"></a>Создание издержек ОС
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../../media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Карточка издержки ОС**, а затем выберите связанную ссылку.
 
@@ -31,7 +31,7 @@ ms.author: soalex
    | **Счет ГК для ОС в эксплуатации** | Определите счет ГК для учета суммы издержек ОС при вводе основного средства в эксплуатацию. |
    | **Код налоговой разницы для ОС**   | Укажите код налоговой разницы, связанной с издержками основного средства. |
 
-## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также
 
 [Настройка основных средств](../../fa-setup.md)  
 

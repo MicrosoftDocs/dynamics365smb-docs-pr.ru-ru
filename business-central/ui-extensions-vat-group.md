@@ -12,24 +12,24 @@ ms.date: 07/08/2022
 ms.author: bholtorf
 ---
 
-# <a name="the-vat-group-management-extension-for-the-united-kingdom"></a><a name="the-vat-group-management-extension-for-the-united-kingdom"></a><a name="the-vat-group-management-extension-for-the-united-kingdom"></a>Расширение управления группой НДС для Соединенного Королевства
+# <a name="the-vat-group-management-extension-for-the-united-kingdom"></a>Расширение управления группой НДС для Соединенного Королевства
 
 Вы можете присоединить одно или несколько предприятий в Соединенном Королевстве, чтобы объединить отчетность по налогу на добавленную стоимость (НДС) под одним регистрационным номером. Такой тип расположения известен как *Группа НДС*. Вы можете взаимодействовать с группой в качестве участника или представителя группы.
 
-## <a name="forming-a-vat-group"></a><a name="forming-a-vat-group"></a><a name="forming-a-vat-group"></a>Формирование группы НДС
+## <a name="forming-a-vat-group"></a>Формирование группы НДС
 
 Участники группы НДС и представитель группы могут использовать мастер настройки **Настройка управления группой НДС**, чтобы определить их взаимодействие с группой и установить связь между их клиентами [!INCLUDE[prod_short](includes/prod_short.md)]. Участники группы могут использовать это соединение для подачи декларации по НДС представителю группы. Представитель группы будет использовать единую декларацию по НДС для подачи в налоговые органы от имени всей группы.
 
 [!INCLUDE[prod_short](includes/prod_short.md)] поддерживает подачу межгрупповых деклараций по НДС для компаний, использующих [!INCLUDE[prod_short](includes/prod_short.md)] локально или в Интернете и в любой комбинации, что влияет на настройку обмена данными между предприятиями. В этой статье описаны различные настройки групп.
 
-### <a name="license-requirements"></a><a name="license-requirements"></a><a name="license-requirements"></a>Требования к лицензиям
+### <a name="license-requirements"></a>Требования к лицензиям
 
 Участники группы должны иметь лицензию на использование [!INCLUDE[prod_short](includes/prod_short.md)]. Вы не можете использовать гостевые учетные записи в группах НДС.
 
 * Для расчета и подачи деклараций по НДС пользователь должен быть полноправным пользователем [!INCLUDE[prod_short](includes/prod_short.md)].
 * Для входа в систему и выполнения основных задач, таких как создание учетных записей, вам нужна лицензия члена группы [!INCLUDE[prod_long](includes/prod_long.md)].
 
-## <a name="set-up-a-vat-group"></a><a name="set-up-a-vat-group"></a><a name="set-up-a-vat-group"></a>Настройка группы НДС
+## <a name="set-up-a-vat-group"></a>Настройка группы НДС
 
 Далее показан рекомендуемый порядок шагов для администратора по созданию группы НДС:
 
@@ -44,7 +44,7 @@ ms.author: bholtorf
 > [!NOTE]
 > Чтобы подключиться к представителю группы НДС, участники группы должны иметь учетную запись пользователя с возможностью доступа к [!INCLUDE[prod_short](includes/prod_short.md)] представителя группы НДС. Для этого представитель группы НДС должен создать хотя бы одного пользователя. Однако из соображений безопасности мы рекомендуем создать пользователя для каждого члена группы НДС, который может быть системной учетной записью пользователя, не связанной с реальным лицом. Убедитесь, что учетные данные пользователей распространяются среди участников группы НДС безопасным способом.
 
-### <a name="azure-active-directory-setup-for-group-members"></a><a name="azure-active-directory-setup-for-group-members"></a><a name="azure-active-directory-setup-for-group-members"></a>Настройка Azure Active Directory для участников группы
+### <a name="azure-active-directory-setup-for-group-members"></a>Настройка Azure Active Directory для участников группы
 
 Когда представитель группы НДС использует [!INCLUDE[prod_short](includes/prod_short.md)] Online или локальную версию, участники группы НДС должны использовать Azure Active Directory для аутентификации пользователей при подаче декларации по НДС представителю группы НДС. Для локальной версии [!INCLUDE[prod_short](includes/prod_short.md)] участники должны настроить единый вход. Для получения дополнительной информации см. раздел [Настройка аутентификации Azure Active Directory с WS-Federation](/dynamics365/business-central/dev-itpro/administration/authenticating-users-with-azure-active-directory?tabs=singletenant%2Cadmintool).
 
@@ -60,7 +60,7 @@ ms.author: bholtorf
 * В разделе **Разрешения API** добавьте разрешения для [!INCLUDE[prod_short](includes/prod_short.md)]. Разрешите делегированный доступ к **Financials.ReadWrite.All** и **user_impersonation**.
 * В разделе **Обзор** обратите внимание на **ИД приложения (клиента)**. Участникам группы НДС нужен ИД для настройки подключения к представителю группы.
 
-### <a name="group-api-setup"></a><a name="group-api-setup"></a><a name="group-api-setup"></a>Настройка API группы
+### <a name="group-api-setup"></a>Настройка API группы
 
 Представитель группы НДС создает и предоставляет API участникам группы. Участники используют этот API для подключения к клиенту [!INCLUDE[prod_short](includes/prod_short.md)] представителя и подачи деклараций по НДС. Участники группы НДС часто используют [!INCLUDE[prod_short](includes/prod_short.md)] в отдельных клиентах Azure Active Directory. Поэтому требуется настройка, чтобы установить связь между участником группы НДС и [!INCLUDE[prod_short](includes/prod_short.md)] представителя.
 
@@ -72,7 +72,7 @@ ms.author: bholtorf
 1. В разделе **Сведения** скопируйте **URL-адрес**.
 1. Откройте Блокнот и вставьте URL-адрес. Замените `https://businesscentral.dynamics.com` на `https://api.businesscentral.dynamics.com/v2.0`.
 
-## <a name="set-up-vat-group-members"></a><a name="set-up-vat-group-members"></a><a name="set-up-vat-group-members"></a>Настройка участников группы НДС
+## <a name="set-up-vat-group-members"></a>Настройка участников группы НДС
 
 Участники группы НДС подключаются к представителю, вызывая веб-службу клиента представителя группы НДС. Вызывающий должен быть аутентифицирован с помощью OAuth2. При настройке расширения для управления группами НДС участникам будет предложено пройти аутентификацию у представителя группы НДС, в ходе которой формируется и сохраняется токен доступа. Этот токен доступа используется при подаче декларации по НДС представителю группы НДС.
 
@@ -96,14 +96,14 @@ ms.author: bholtorf
 
    Затем выполните шаги, указанные в разделах [Представитель группы НДС использует Business Central в Интернете](ui-extensions-vat-group.md#vat-group-representative-uses-business-central-online) или [Представитель группы НДС использует Business Central Online в локальной среде](ui-extensions-vat-group.md#vat-group-representative-uses-business-central-on-premises) ниже.
 
-### <a name="vat-group-representative-uses-business-central-online"></a><a name="vat-group-representative-uses-business-central-online"></a><a name="vat-group-representative-uses-business-central-online"></a>Представитель группы НДС использует Business Central в Интернете
+### <a name="vat-group-representative-uses-business-central-online"></a>Представитель группы НДС использует Business Central в Интернете
 
 1. Введите учетные данные пользователя, предоставленные представителем группы НДС, и добавьте необходимые разрешения, чтобы сформировать токен доступа.
 2. Выберите конфигурацию отчета по НДС, которая используется для подачи деклараций по НДС в налоговые органы Великобритании. 
 
 После завершения настройки [!INCLUDE[prod_short](includes/prod_short.md)] создаст новую конфигурацию на основе этого выбора и будет использовать ее для отправки деклараций по НДС представителю группы НДС.
 
-### <a name="vat-group-representative-uses-business-central-on-premises"></a><a name="vat-group-representative-uses-business-central-on-premises"></a><a name="vat-group-representative-uses-business-central-on-premises"></a>Представитель группы НДС использует Business Central Online в локальной среде
+### <a name="vat-group-representative-uses-business-central-on-premises"></a>Представитель группы НДС использует Business Central Online в локальной среде
 
 1. Введите учетные данные пользователя, предоставленные представителем группы НДС, и выберите **Далее**.
 2. В поле **ИД клиента** укажите идентификатор клиента из регистрации приложения в [Azure Active Directory](#azure-active-directory-setup-for-group-members).
@@ -114,7 +114,7 @@ ms.author: bholtorf
 7. После настройки различных полей выберите **Далее**, а затем подтвердите подключение для проверки подлинности, чтобы сформировать токен доступа.
 8. Выберите конфигурацию отчета по НДС, которая используется для подачи деклараций по НДС в налоговые органы Великобритании.
 
-## <a name="set-up-the-vat-group-representative"></a><a name="set-up-the-vat-group-representative"></a><a name="set-up-the-vat-group-representative"></a>Настройка представителя группы НДС
+## <a name="set-up-the-vat-group-representative"></a>Настройка представителя группы НДС
 
 > [!NOTE]
 > Для локальной среды [!INCLUDE[prod_short](includes/prod_short.md)] поддерживает только один экземпляр клиента представителя группы.
@@ -135,7 +135,7 @@ ms.author: bholtorf
     3. В поле **Организация** укажите компанию, из которой участник группы будет отправлять отчеты по НДС в [!INCLUDE[prod_short](includes/prod_short.md)], например **CRONUS UK Ltd**.
     4. Укажите контактные данные для организации.
 
-## <a name="use-the-vat-group-management-features"></a><a name="use-the-vat-group-management-features"></a><a name="use-the-vat-group-management-features"></a>Использование функций управления группой НДС
+## <a name="use-the-vat-group-management-features"></a>Использование функций управления группой НДС
 
 Участники группы НДС используют стандартные процессы для подготовки деклараций по НДС. Единственная разница — участникам нужно выбрать версию отчета **VATGROUP** на странице **Декларации по НДС** для отправки декларации по НДС представителю группы НДС, а не налоговым органам. Дополнительные сведения см. а разделе [Об отчете о возврате НДС](finance-how-report-vat.md#vatreturn).
 
@@ -144,14 +144,14 @@ ms.author: bholtorf
 
 В следующих разделах описываются задачи, которые должны выполнять представители группы НДС для регистрации групповой декларации по НДС.
 
-### <a name="review-vat-member-submissions"></a><a name="review-vat-member-submissions"></a><a name="review-vat-member-submissions"></a>Обзор подачи ответов участников группы НДС
+### <a name="review-vat-member-submissions"></a>Обзор подачи ответов участников группы НДС
 
 На странице **Подачи отчетов в группу зачета НДС** перечислены декларации по НДС, представленные участниками. Эта страница служит местом для черновиков отправки, пока представитель группы НДС не включит их в декларацию по НДС для группы. Представитель может открыть заявки, чтобы просмотреть отдельные поля, содержащие сумму, указанную каждым участником группы НДС.
 
 > [!TIP]
 > На странице **Периоды возврата НДС** поле **Подачи отчетов участников группы** показывает, сколько отчетов подали участники. Чтобы убедиться, что этот номер актуален, выберите действие **Получить периоды возврата НДС**.
 
-### <a name="create-a-group-vat-return"></a><a name="create-a-group-vat-return"></a><a name="create-a-group-vat-return"></a>Создание групповой декларации по НДС
+### <a name="create-a-group-vat-return"></a>Создание групповой декларации по НДС
 
 Чтобы подать декларацию по НДС для группы, на странице **Декларации по НДС** создайте декларацию по НДС только для вашей компании. После этого включите самые последние представления НДС от участников группы НДС, выбрав действие **Включить групповой НДС**.  
 
@@ -160,7 +160,7 @@ ms.author: bholtorf
 > [!IMPORTANT]
 > Функциональность группы НДС поддерживается только на тех рынках, где [!INCLUDE[prod_short](includes/prod_short.md)] использует структуру НДС, которая состоит из налоговых деклараций и периодов возврата НДС. Вы не можете использовать группы НДС на рынках, где есть другие реализации местной отчетности по НДС, например в Австрии, Германии, Италии, Испании и Швейцарии.
 
-## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также
 
 [Локальные функции Соединенного Королевства в британской версии](LocalFunctionality/unitedkingdom/united-kingdom-local-functionality.md)  
 [Налоги в цифровом виде в Соединенном Королевстве](LocalFunctionality/UnitedKingdom/making-tax-digital-submit-vat-return.md)  

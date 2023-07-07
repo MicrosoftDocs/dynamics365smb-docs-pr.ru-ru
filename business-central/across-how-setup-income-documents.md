@@ -10,13 +10,13 @@ ms.search.keywords: 'electronic document, e-invoice, incoming document, OCR, eco
 ms.date: 06/14/2022
 ms.author: edupont
 ---
-# <a name="set-up-incoming-documents"></a><a name="set-up-incoming-documents"></a><a name="set-up-incoming-documents"></a>Настройка входящих документов
+# <a name="set-up-incoming-documents"></a>Настройка входящих документов
 
 При создании строк финансового журнала на основании записей входящих документов необходимо выбрать на странице **Настройка входящих документов** шаблон и раздел журнала.
 
 Если функция **Входящие документы** настроена, можно использовать различные функции для просмотра квитанций по расходам, управления задачами OCR, а также преобразования входящих файлов документов, вручную и автоматически, в соответствующие документы либо строки журналов. Внешние файлы можно прикреплять на любом этапе обработки, в том числе к учтенным документам и к полученным записям поставщика, клиента и главной книги. Дополнительные сведения см. в разделе [Создание записей входящих документов](across-how-create-income-document-records.md).
 
-## <a name="to-set-up-the-incoming-documents-feature"></a><a name="to-set-up-the-incoming-documents-feature"></a><a name="to-set-up-the-incoming-documents-feature"></a>Настройка возможности входящих документов
+## <a name="to-set-up-the-incoming-documents-feature"></a>Настройка возможности входящих документов
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Настройка входящих документов**, а затем выберите связанную ссылку.
 2. Заполните соответствующим образом поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
@@ -25,13 +25,13 @@ ms.author: edupont
 
 Наконец, если вы используете службу OCR для преобразования файлов PDF или изображений, представляющих входящие документы, [вы должны ее настроить](#to-set-up-an-ocr-service). В противном случае вы также можете пропустить этот раздел.
 
-## <a name="to-set-up-approvers-of-incoming-document-records"></a><a name="to-set-up-approvers-of-incoming-document-records"></a><a name="to-set-up-approvers-of-incoming-document-records"></a>Настройка утверждающих для записей входящих документов
+## <a name="to-set-up-approvers-of-incoming-document-records"></a>Настройка утверждающих для записей входящих документов
 
 Если пользователи не должны создавать счета или строки финансового журнала на основании записей входящих документов до утверждения документов, настройте процесс утверждения для входящих документов. Утверждающие входящих документов должны быть настроены в качестве пользователей рабочего процесса утверждения.
 
 Прежде чем можно будет создавать рабочие процессы, которые включают шаги утверждения, необходимо настроить пользователей рабочих процессов, участвующих в процессах утверждения. На странице **Настройка пользователя для утверждений** также можно задавать лимиты по суммам для отдельных типов запросов и определять заместителей утверждающих лиц, которым делегируются запросы на утверждение в случае отсутствия исходного утверждающего лица. Дополнительные сведения см. в разделе [Настройка утверждающих пользователей](across-how-to-set-up-approval-users.md).
 
-## <a name="to-set-up-an-ocr-service"></a><a name="to-set-up-an-ocr-service"></a><a name="to-set-up-an-ocr-service"></a>Настройка службы распознавания
+## <a name="to-set-up-an-ocr-service"></a>Настройка службы распознавания
 
 Чтобы преобразовать PDF-файлы и файлы изображений в электронные документы, которые можно преобразовать в счета-фактуры, кредит-ноты или строки журнала, настройте функцию OCR. Кроме того, вы можете создавать записи вручную для представления внешних документов.
 
@@ -43,9 +43,9 @@ ms.author: edupont
 
 Дополнительные сведения см. в разделе [Использование OCR для преобразования PDF-файлов и графических файлов в электронные документы](across-how-use-ocr-pdf-images-files.md).  
 
-## <a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/incoming-documents-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/incoming-documents-dynamics-365-business-central/)
 
-## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также
 
 [Входящие документы](across-income-documents.md)  
 [Покупки](purchasing-manage-purchasing.md)  

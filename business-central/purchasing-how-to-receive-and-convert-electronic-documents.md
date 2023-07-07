@@ -11,7 +11,7 @@ ms.search.form: '189, 190, 191'
 ms.date: 06/23/2021
 ms.author: edupont
 ---
-# <a name="receive-and-convert-electronic-documents"></a><a name="receive-and-convert-electronic-documents"></a><a name="receive-and-convert-electronic-documents"></a>Получение и преобразование электронных документов
+# <a name="receive-and-convert-electronic-documents"></a>Получение и преобразование электронных документов
 
 Универсальная версия [!INCLUDE[prod_short](includes/prod_short.md)] поддерживает получение электронных счетов и кредит-нот в формате PEPPOL, поддерживаемом крупнейшими поставщиками служб обмена документами. Для получения счета от поставщика в формате электронного документа PEPPOL необходимо обработать документ на странице "Входящие документы", преобразовав его в счет покупки или строку финансового журнала в [!INCLUDE[prod_short](includes/prod_short.md)].
 
@@ -34,7 +34,7 @@ ms.author: edupont
 
 Далее описан порядок получения счета поставщика и его преобразование в счет покупки в [!INCLUDE[prod_short](includes/prod_short.md)]. Процедура та же самая при преобразовании счета поставщика в строку финансового журнала.  
 
-### <a name="to-receive-and-convert-an-electronic-invoice-to-a-purchase-invoice"></a><a name="to-receive-and-convert-an-electronic-invoice-to-a-purchase-invoice"></a><a name="to-receive-and-convert-an-electronic-invoice-to-a-purchase-invoice"></a>Получение и преобразование электронного счета в счете покупки
+### <a name="to-receive-and-convert-an-electronic-invoice-to-a-purchase-invoice"></a>Получение и преобразование электронного счета в счете покупки
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Входящие документы**, а затем выберите связанную ссылку.  
 
@@ -52,9 +52,9 @@ ms.author: edupont
 
     Любые ошибки проверки, обычно связанные с некорректностью или отсутствием данных в [!INCLUDE[prod_short](includes/prod_short.md)], будут представлены на экспресс-вкладке **Сообщения об ошибках**.  
 
-## <a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/electronic-documents-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/electronic-documents-dynamics-365-business-central/index)
 
-## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также
 
 [Управление кредиторской задолженностью](payables-manage-payables.md)  
 [Входящие документы](across-income-documents.md)  

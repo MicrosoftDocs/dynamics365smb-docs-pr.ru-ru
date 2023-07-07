@@ -9,7 +9,7 @@ ms.reviewer: edupont
 ms.author: soalex
 ---
 
-# <a name="russian-chart-of-accounts"></a><a name="russian-chart-of-accounts"></a><a name="russian-chart-of-accounts"></a>Российский план счетов
+# <a name="russian-chart-of-accounts"></a>Российский план счетов
 
 В окне **План счетов** доступны следующие поля: 
 
@@ -24,7 +24,7 @@ ms.author: soalex
 | **Тип источника**   | **Общие**       | Показывает тип источника, который требуется учитывать на данном счете ГК. | Отчетность |
 | **код валюты;** | **Консолидация** | Выбор кода валюты по умолчанию для счета ГК. |           |
 
-## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также
 
 [Функциональность локальной версии для России](russia-local-functionality.md)  
 

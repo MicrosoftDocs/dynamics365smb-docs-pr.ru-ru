@@ -11,7 +11,7 @@ ms.search.forms: '1060, 1061, 1062'
 ms.date: 06/25/2021
 ms.author: edupont
 ---
-# <a name="enable-customer-payments-through-payment-services"></a><a name="enable-customer-payments-through-payment-services"></a><a name="enable-customer-payments-through-payment-services"></a>Включение платежей клиентов через службу платежей
+# <a name="enable-customer-payments-through-payment-services"></a>Включение платежей клиентов через службу платежей
 
 В качестве альтернативы сбору платежей через банковские переводы или кредитные карты вы можете предложить клиентам оплату через учетную запись в службе платежей, например PayPal или WorldPay.  
 
@@ -19,7 +19,7 @@ ms.author: edupont
 
 Расширения PayPal Payments Standard и WorldPay Payments Standard установлены в [!INCLUDE[prod_short](includes/prod_short.md)] и готовы к включению.  
 
-## <a name="to-enable-a-payment-service-in-"></a><a name="to-enable-a-payment-service-in-"></a><a name="to-enable-a-payment-service-in-"></a>Включение службы платежей в [!INCLUDE[prod_short](includes/prod_short.md)]
+## <a name="to-enable-a-payment-service-in-"></a>Включение службы платежей в [!INCLUDE[prod_short](includes/prod_short.md)]
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Службы платежей**, а затем выберите связанную ссылку.  
 2. На странице **Службы платежей** выберите действие **Создать**.  
@@ -28,7 +28,7 @@ ms.author: edupont
 5. Заполните соответствующим образом поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
 6. Закройте страницу.  
 
-## <a name="to-select-a-payment-service-on-a-sales-invoice"></a><a name="to-select-a-payment-service-on-a-sales-invoice"></a><a name="to-select-a-payment-service-on-a-sales-invoice"></a>Выбор службы платежей в счете продажи
+## <a name="to-select-a-payment-service-on-a-sales-invoice"></a>Выбор службы платежей в счете продажи
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Счета продажи**, а затем выберите связанную ссылку.  
 2. Откройте счет продажи, который необходимо оплатить с помощью службы платежей.  
@@ -37,9 +37,9 @@ ms.author: edupont
     > [!NOTE]  
     > Поле **Служба платежей** доступно, только если включена служба платежей.  
 
-## <a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/cash-management-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/cash-management-dynamics-365-business-central/)
 
-## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также
 
 [Настройка продаж](sales-setup-sales.md)  
 [Продажи](sales-manage-sales.md)  

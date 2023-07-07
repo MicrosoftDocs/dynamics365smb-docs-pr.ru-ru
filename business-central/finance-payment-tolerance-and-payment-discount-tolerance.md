@@ -10,7 +10,7 @@ ms.search.form: '118, 314, 395'
 ms.date: 04/03/2023
 ms.author: edupont
 ---
-# <a name="work-with-payment-tolerances-and-payment-discount-tolerances"></a><a name="work-with-payment-tolerances-and-payment-discount-tolerances"></a><a name="work-with-payment-tolerances-and-payment-discount-tolerances"></a>Работа с отклонениями в оплате и отклонениями скидки по оплате
+# <a name="work-with-payment-tolerances-and-payment-discount-tolerances"></a>Работа с отклонениями в оплате и отклонениями скидки по оплате
 
 Можно настроить отклонение в оплате для закрытия счета в ситуации, когда платеж не полностью покрывает сумму счета. Например, отклонения в оплате обычно относятся к небольшим суммам, корректировать которые будет дороже, чем просто принять. Можно настроить отклонения в скидке по оплате, чтобы предоставить скидку по оплате после даты скидки по оплате.  
 
@@ -18,7 +18,7 @@ ms.author: edupont
 
 Отклонения скидки по оплате можно использовать, чтобы в случае, когда скидка оплаты принята после даты скидки оплаты, она всегда будет учтена либо на счет скидки оплаты, либо на счет отклонения в оплате.
 
-## <a name="applying-payment-tolerance-to-multiple-documents"></a><a name="applying-payment-tolerance-to-multiple-documents"></a><a name="applying-payment-tolerance-to-multiple-documents"></a>Применение отклонения в оплате к нескольким документам
+## <a name="applying-payment-tolerance-to-multiple-documents"></a>Применение отклонения в оплате к нескольким документам
 
 Возможности учета отклонения для документа не зависят от того, применяется ли он отдельно или вместе с другими документами. Принятие скидки при просрочке платежа при применении отклонения в оплате к нескольким документам выполняется автоматически для каждого документа, для которого истинно следующее правило:  
 
@@ -36,7 +36,7 @@ ms.author: edupont
 
 Дополнительные сведения см. в разделе [Включение или отключение предупреждений об отклонении оплаты](finance-payment-tolerance-and-payment-discount-tolerance.md#to-enable-or-disable-payment-tolerance-warnings). 
 
-## <a name="to-set-up-tolerances"></a><a name="to-set-up-tolerances"></a><a name="to-set-up-tolerances"></a>Настройка допусков
+## <a name="to-set-up-tolerances"></a>Настройка допусков
 
 Допуски для дней и сумм позволяют вам закрыть счет, даже если платеж не полностью покрывает сумму счета. Например, из-за превышения срока скидки по оплате, вычета товаров или из-за незначительной ошибки. Это также применимо для возвратов и кредит-нот.  
 
@@ -70,7 +70,7 @@ ms.author: edupont
 > [!IMPORTANT]  
 > Когда вы включаете поле **Корр. для скидки оплаты** на странице **Настройка учета НДС**, сумма НДС считается относящейся к суммам **Отклонения в оплате** и **Скидки оплаты** и НДС будет уменьшен для обеих сумм транзакции, если они существуют. Для системы нельзя настроить использование снижения НДС только для одного типа транзакции.  
 
-## <a name="to-enable-or-disable-payment-tolerance-warnings"></a><a name="to-enable-or-disable-payment-tolerance-warnings"></a><a name="to-enable-or-disable-payment-tolerance-warnings"></a>Включение или отключение предупреждений об отклонении в оплате
+## <a name="to-enable-or-disable-payment-tolerance-warnings"></a>Включение или отключение предупреждений об отклонении в оплате
 
 При учете применения с балансом в пределах допустимого отклонения появится предупреждение об отклонении в оплате. Затем можно решить, каким образом учитывать и документировать баланс.    
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Настройка ГК**, а затем выберите связанную ссылку.  
@@ -79,7 +79,7 @@ ms.author: edupont
 > [!NOTE]  
 > Параметром по умолчанию для страницы **Предупреждение об отклонении в оплате** является **Оставить сальдо как сумму остатка**. Параметром по умолчанию для страницы **Предупреждение об отклонениях в скидках оплаты** является **Не принимать скидку на просроченную оплату**.
 
-## <a name="to-block-payment-tolerance-for-customers"></a><a name="to-block-payment-tolerance-for-customers"></a><a name="to-block-payment-tolerance-for-customers"></a>Блокировка отклонения в оплате для клиентов
+## <a name="to-block-payment-tolerance-for-customers"></a>Блокировка отклонения в оплате для клиентов
 
 По умолчанию настройка стандартного допустимого отклонения в оплате разрешена. Чтобы запретить то или иное отклонение в оплате для клиента или поставщика, следует заблокировать допустимое отклонение в карточке соответствующего клиента или поставщика. Ниже описано, как выполнить это для клиента. Действия для поставщика аналогичны.
 
@@ -89,7 +89,7 @@ ms.author: edupont
 > [!NOTE]  
 > Если у клиента или поставщика есть открытые операции, необходимо сначала удалить отклонения в оплате из этих операций.
 
-## <a name="example-1---tolerance-calculations-for-a-single-document"></a><a name="example-1---tolerance-calculations-for-a-single-document"></a><a name="example-1---tolerance-calculations-for-a-single-document"></a>Пример 1 — Расчеты отклонения для отдельного документа
+## <a name="example-1---tolerance-calculations-for-a-single-document"></a>Пример 1 — Расчеты отклонения для отдельного документа
 
 Ниже приведены примеры сценариев расчетов ожидаемого отклонения и учета в различных ситуациях.  
 
@@ -123,11 +123,11 @@ ms.author: edupont
 |14|1 000|20|5|15.01.03|20.01.03|>20.01.03|980|Нет|Нет, 20 на данном счете|0|0|  
 |15|1 000|20|5|15.01.03|20.01.03|>20.01.03|975|Нет|Нет, 25 на данном счете|0|0|  
 
-### <a name="payment-range-diagrams"></a><a name="payment-range-diagrams"></a><a name="payment-range-diagrams"></a>Диаграммы диапазона оплаты
+### <a name="payment-range-diagrams"></a>Диаграммы диапазона оплаты
 
 По отношению к сценарию выше диаграммы диапазонов оплаты распределяются следующим образом:  
 
-#### <a name="1-payment-date-011503-scenarios-1-3"></a><a name="1-payment-date-011503-scenarios-1-3"></a><a name="1-payment-date-011503-scenarios-1-3"></a>(1) Дата платежа <=15.01.03 (сценарии 1-3)
+#### <a name="1-payment-date-011503-scenarios-1-3"></a>(1) Дата платежа <=15.01.03 (сценарии 1-3)
 
 Сумма остатка на  
 
@@ -139,7 +139,7 @@ ms.author: edupont
 
 (2) Если оплата находится в пределах этих диапазонов, все операции приложения не могут быть закрыты, даже с отклонением.  
 
-#### <a name="2-payment-date-is-between-011603-and-012003-scenarios-4-9"></a><a name="2-payment-date-is-between-011603-and-012003-scenarios-4-9"></a><a name="2-payment-date-is-between-011603-and-012003-scenarios-4-9"></a>(2) Дата платежа между 16.01.03 и 20.01.03 (Сценарии 4-9)
+#### <a name="2-payment-date-is-between-011603-and-012003-scenarios-4-9"></a>(2) Дата платежа между 16.01.03 и 20.01.03 (Сценарии 4-9)
 
 Сумма остатка на  
 
@@ -151,7 +151,7 @@ ms.author: edupont
 
 (2) Если оплата находится в пределах этих диапазонов, все операции приложения не могут быть закрыты, даже с отклонением.  
 
-#### <a name="3-payment-date-is-after-012003-scenarios-10-15"></a><a name="3-payment-date-is-after-012003-scenarios-10-15"></a><a name="3-payment-date-is-after-012003-scenarios-10-15"></a>(3) Дата платежа после 20.01.03 (Сценарии 10-15)
+#### <a name="3-payment-date-is-after-012003-scenarios-10-15"></a>(3) Дата платежа после 20.01.03 (Сценарии 10-15)
 
 Сумма остатка на  
 
@@ -163,7 +163,7 @@ ms.author: edupont
 
 (2) Если оплата находится в пределах этих диапазонов, все операции приложения не могут быть закрыты, даже с отклонением.  
 
-## <a name="example-2---tolerance-calculations-for-multiple-documents"></a><a name="example-2---tolerance-calculations-for-multiple-documents"></a><a name="example-2---tolerance-calculations-for-multiple-documents"></a>Пример 2 — Расчеты отклонения для нескольких документов
+## <a name="example-2---tolerance-calculations-for-multiple-documents"></a>Пример 2 — Расчеты отклонения для нескольких документов
 
 Ниже приведены примеры сценариев расчетов ожидаемого отклонения и учета в различных ситуациях. Эти примеры ограничиваются сценариями, в результате которых все операции в данном приложении закрываются.  
 
@@ -211,11 +211,11 @@ ms.author: edupont
 |**29**|**1,000** <br />**1,000**|**60** <br />**30**|**5** <br />**5**|**15.01.03** <br />**01/17/03**|**01/20/03** <br />**01/22/03**|**>22.01.03**|**2000**|**Нет**|**Да**|**0**|**0**|  
 |30|1 000 <br />1 000|60 <br />30|5 <br />5|15.01.03 <br />17.01.03|20.01.03 <br />22.01.03|>22.01.03|1990|PaymentTolerance|Да|0|5|  
 
-### <a name="payment-range-diagrams-1"></a><a name="payment-range-diagrams-1"></a><a name="payment-range-diagrams-1"></a>Диаграммы диапазона оплаты
+### <a name="payment-range-diagrams-1"></a>Диаграммы диапазона оплаты
 
 По отношению к сценарию выше диаграммы диапазонов оплаты распределяются следующим образом:  
 
-#### <a name="1-payment-date-011503-scenarios-1-3-1"></a><a name="1-payment-date-011503-scenarios-1-3-1"></a><a name="1-payment-date-011503-scenarios-1-3-1"></a>(1) Дата платежа <=15.01.03 (сценарии 1-3)
+#### <a name="1-payment-date-011503-scenarios-1-3-1"></a>(1) Дата платежа <=15.01.03 (сценарии 1-3)
 
 Сумма остатка на  
 
@@ -227,7 +227,7 @@ ms.author: edupont
 
 (2) Если оплата находится в пределах этих диапазонов, все операции приложения не могут быть закрыты, даже с отклонением.  
 
-#### <a name="2-payment-date-is-between-011603-and-011703-scenarios-4-9"></a><a name="2-payment-date-is-between-011603-and-011703-scenarios-4-9"></a><a name="2-payment-date-is-between-011603-and-011703-scenarios-4-9"></a>(2) Дата платежа между 16.01.03 и 17.01.03 (сценарии 4-9)
+#### <a name="2-payment-date-is-between-011603-and-011703-scenarios-4-9"></a>(2) Дата платежа между 16.01.03 и 17.01.03 (сценарии 4-9)
 
 Сумма остатка на  
 
@@ -239,7 +239,7 @@ ms.author: edupont
 
 (2) Если оплата находится в пределах этих диапазонов, все операции приложения не могут быть закрыты, даже с отклонением.  
 
-#### <a name="3-payment-date-is-between-011803-and-012003-scenarios-10-21"></a><a name="3-payment-date-is-between-011803-and-012003-scenarios-10-21"></a><a name="3-payment-date-is-between-011803-and-012003-scenarios-10-21"></a>(3) Дата платежа между 18.01.03 и 20.01.03 (Сценарии 10-21)
+#### <a name="3-payment-date-is-between-011803-and-012003-scenarios-10-21"></a>(3) Дата платежа между 18.01.03 и 20.01.03 (Сценарии 10-21)
 
 Сумма остатка на  
 
@@ -251,7 +251,7 @@ ms.author: edupont
 
 (2) Если оплата находится в пределах этих диапазонов, все операции приложения не могут быть закрыты, даже с отклонением.  
 
-#### <a name="4-payment-date-is-between-012103-and-012203-scenarios-22-27"></a><a name="4-payment-date-is-between-012103-and-012203-scenarios-22-27"></a><a name="4-payment-date-is-between-012103-and-012203-scenarios-22-27"></a>(4) Дата платежа между 21.01.03 и 22.01.03 (Сценарии 22-27)
+#### <a name="4-payment-date-is-between-012103-and-012203-scenarios-22-27"></a>(4) Дата платежа между 21.01.03 и 22.01.03 (Сценарии 22-27)
 
 Сумма остатка на  
 
@@ -263,7 +263,7 @@ ms.author: edupont
 
 (2) Если оплата находится в пределах этих диапазонов, все операции приложения не могут быть закрыты, даже с отклонением.  
 
-#### <a name="5-payment-date-is-after-012203-scenarios-28-30"></a><a name="5-payment-date-is-after-012203-scenarios-28-30"></a><a name="5-payment-date-is-after-012203-scenarios-28-30"></a>(5) Дата платежа после 22.01.03 (сценарии 28-30)
+#### <a name="5-payment-date-is-after-012203-scenarios-28-30"></a>(5) Дата платежа после 22.01.03 (сценарии 28-30)
 
 Сумма остатка на  
 
@@ -275,9 +275,9 @@ ms.author: edupont
 
 (2) Если оплата находится в пределах этих диапазонов, все операции приложения не могут быть закрыты, даже с отклонением.
 
-## <a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/enter-payments-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/enter-payments-dynamics-365-business-central/)
 
-## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также
 
 [Финансы](finance.md)  
 [Настройка финансов](finance-setup-finance.md)  

@@ -9,9 +9,9 @@ ms.reviewer: edupont
 ms.author: soalex
 ---
 
-# <a name="vendor-tax-agent-scheme"></a><a name="vendor-tax-agent-scheme"></a><a name="vendor-tax-agent-scheme"></a>Схема налогового агента поставщика
+# <a name="vendor-tax-agent-scheme"></a>Схема налогового агента поставщика
 
-## <a name="vat-from-internal-funds"></a><a name="vat-from-internal-funds"></a><a name="vat-from-internal-funds"></a>НДС из внутренних фондов
+## <a name="vat-from-internal-funds"></a>НДС из внутренних фондов
 
 Заполните поля в карточке поставщика.
 
@@ -27,7 +27,7 @@ ms.author: soalex
     - НДС товарная группа налогового агента
     - Тип источника оплаты НДС - Внутренние фонды
 
-## <a name="prepayment-and-payment-vat"></a><a name="prepayment-and-payment-vat"></a><a name="prepayment-and-payment-vat"></a>Предоплата и оплата НДС
+## <a name="prepayment-and-payment-vat"></a>Предоплата и оплата НДС
 
 1. Создание и выпуск счета
 
@@ -56,7 +56,7 @@ ms.author: soalex
 7. Создайте и выполните учет платежа в налоговый орган.
 8. Откройте журнал НДС. Выполните учет НДС (см. [Зачет НДС](Settlement-VAT.md)).
 
-## <a name="vat-from-vendor-funds"></a><a name="vat-from-vendor-funds"></a><a name="vat-from-vendor-funds"></a>НДС из фондов поставщика
+## <a name="vat-from-vendor-funds"></a>НДС из фондов поставщика
 
 Заполните поля в карточке поставщика.
 
@@ -71,7 +71,7 @@ ms.author: soalex
     - НДС товарная группа налогового агента
     - Тип источника оплаты НДС - Фонды поставщика
 
-## <a name="post-prepayment-and-payment-vat"></a><a name="post-prepayment-and-payment-vat"></a><a name="post-prepayment-and-payment-vat"></a>Учет предоплаты и оплаты НДС
+## <a name="post-prepayment-and-payment-vat"></a>Учет предоплаты и оплаты НДС
 
 1. Создайте и выпустите счет.
 
@@ -148,7 +148,7 @@ ms.author: soalex
         - код валюты;
         - Сумма — в долларах США/Евро
 
-## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также
 
 [Функциональность локальной версии для России](russia-local-functionality.md)  
 

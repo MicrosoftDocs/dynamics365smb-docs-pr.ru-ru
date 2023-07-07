@@ -11,7 +11,7 @@ ms.search.form: '5604, 5606, 5664, 5601, 5602, 5658, 5603, 5671, 5641, 5629, 563
 ms.date: 06/15/2021
 ms.author: edupont
 ---
-# <a name="managing-fixed-assets"></a><a name="managing-fixed-assets"></a><a name="managing-fixed-assets"></a>Управление основными средствами
+# <a name="managing-fixed-assets"></a>Управление основными средствами
 
 Функциональные возможности по управлению основными средствами [!INCLUDE[prod_short](includes/prod_short.md)] позволяют получать информацию об основных средствах и обеспечивают правильную периодическую амортизацию. Кроме того, они позволяют отслеживать затраты на обслуживание, управлять страховыми полисами, учитывать транзакции основных средств и создавать различные отчеты и статистику.
 
@@ -41,15 +41,15 @@ ms.author: edupont
 | Учесть транзакции выбытия, просмотреть операции книги выбытия и учесть частичные выбытия. |[Списание или выбытие основных средств](fa-how-dispose-retire.md) |
 | Управлять бюджетами основных средств, бюджетировать стоимость приобретения, выбытие и амортизацию основных средств. |[Управление бюджетами основных средств](fa-how-manage-budgets.md) |
 
-## <a name="video-overview"></a><a name="video-overview"></a><a name="video-overview"></a>Обзор видео
+## <a name="video-overview"></a>Обзор видео
 
 Следующее видео охватывает основы основных средств.
 
 > [!Video https://www.microsoft.com/en-us/videoplayer/embed/RE4AegS?rel=0]
 
-## <a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/paths/manage-fixed-assets-transactions/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/paths/manage-fixed-assets-transactions/)
 
-## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также
 
 [Настройка основных средств](fa-setup.md)  
 [Изменение набора отображаемых функций](ui-experiences.md)  

@@ -11,7 +11,7 @@ ms.reviewer: edupont
 ms.date: 09/22/2022
 ms.author: kepontop
 ---
-# <a name="business-intelligence-and-reporting-overview"></a><a name="business-intelligence-and-reporting-overview"></a><a name="business-intelligence-and-reporting-overview"></a>Обзор бизнес-аналитики и отчетности
+# <a name="business-intelligence-and-reporting-overview"></a>Обзор бизнес-аналитики и отчетности
 
 Малые и средние организации полагаются на возможности встроенной аналитики и отчетов, которые они могут использовать в готовом виде для отслеживания своего бизнеса. [!INCLUDE[prod_short](includes/prod_short.md)] поддерживает общие бизнес-процессы, а также более сложные процессы для таких организаций. Каждый из этих процессов включает отчеты и инструменты аналитики. Вы также можете выполнять специальный анализ прямо с домашней страницы.  
 
@@ -26,9 +26,9 @@ ms.author: kepontop
 | Интеграция внешних инструментов бизнес-аналитики с [!INCLUDE[prod_short](includes/prod_short.md)].| [Инструменты внешней бизнес-аналитики](reports-external-analysis.md) |
 |Изменение макетов отчетов или даже разработка собственных отчетов с нуля. |[Разработка отчетов](reports-develop-reports.md)|
 
-## <a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/paths/setup-reporting-dynamics-365-business-central/).
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/paths/setup-reporting-dynamics-365-business-central/).
 
-## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также
 
 [Финансовая бизнес-аналитика](bi.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  

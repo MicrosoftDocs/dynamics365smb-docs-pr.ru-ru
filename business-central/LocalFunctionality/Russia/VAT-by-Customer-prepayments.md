@@ -9,11 +9,11 @@ ms.reviewer: edupont
 ms.author: soalex
 ---
 
-# <a name="vat-by-customer-prepayment"></a><a name="vat-by-customer-prepayment"></a><a name="vat-by-customer-prepayment"></a>НДС по предоплатам клиентов
+# <a name="vat-by-customer-prepayment"></a>НДС по предоплатам клиентов
 
 Когда компания получает предоплату от клиента, вы должны создать счет НДС и запись и запись НДС на сумму НДС. 
 
-## <a name="setup"></a><a name="setup"></a><a name="setup"></a>Настройка
+## <a name="setup"></a>Настройка
 
 1. Включите нереализованный НДС в окне **Настройка ГК**.
 2. Настройте тип "Нереализованный НДС" и выберите учетную счет, по которой будет осуществляться операция нереализованного НДС — **Настройка учета НДС**.
@@ -26,13 +26,13 @@ ms.author: soalex
 
 4. Настройте учет НДС на странице **Настройка учета НДС**.
 
-## <a name="receiving-prepayment"></a><a name="receiving-prepayment"></a><a name="receiving-prepayment"></a>Получение предоплаты
+## <a name="receiving-prepayment"></a>Получение предоплаты
 
 После получения предоплаты от клиента система создает записи нереализованного НДС и счета НДС. 
 
 Выполните учет предоплаты в финансовом журнале (см. [Предоплата продавца и покупателя](Prepayments-Vendor-and-Customers.md)).
 
-## <a name="return-prepayment"></a><a name="return-prepayment"></a><a name="return-prepayment"></a>Возврат предоплаты
+## <a name="return-prepayment"></a>Возврат предоплаты
 
 Для возврата предоплаты необходимо создать запись реализованного НДС. 
 
@@ -51,7 +51,7 @@ ms.author: soalex
 
 Нажмите "ОК". Система автоматически создаст корректирующие операции.
 
-## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также
 
 [Функциональность локальной версии для России](russia-local-functionality.md)  
 

@@ -11,7 +11,7 @@ ms.search.form: '370, 371, 372, 373, 375, 423, 424, 425, 426, 1240, 1280'
 ms.date: 01/24/2022
 ms.author: edupont
 ---
-# <a name="set-up-bank-accounts"></a><a name="set-up-bank-accounts"></a><a name="set-up-bank-accounts"></a>Настройка банковских счетов
+# <a name="set-up-bank-accounts"></a>Настройка банковских счетов
 
 Банковские счета в [!INCLUDE[prod_short](includes/prod_short.md)] используются для того, чтобы отслеживать банковские транзакции. Счета могут быть деноминированы в местной валюте либо в иностранной валюте. После настройки банковских счетов можно использовать функцию «Печать платежей». Банковские счета включают дополнительные функции для [выверки платежей](receivables-apply-payments-auto-reconcile-bank-accounts.md), [банковской выверки](bank-how-reconcile-bank-accounts-separately.md), а также импорта и экспорта банковских файлов. Банковские счета также могут быть включены в транзакции в общих журналах. Каждый банковский счет связан со счетом в плане счетов через назначенную группу разноски банковских счетов. Использование банковского счета в платежной транзакции автоматически операцию как на банковском счете, так и на связанном счете главной книги (ГК).  
 
@@ -81,7 +81,7 @@ ms.author: edupont
 > [!WARNING]
 > Некоторые поля могут содержать конфиденциальные данные, например поля **Номер отделения банка**, **Номер банковского счета**, **Код SWIFT** и **Код IBAN**. Подробнее см. в статье [Мониторинг конфиденциальных полей](across-log-changes.md#monitoring-sensitive-fields).
 
-## <a name="to-set-up-bank-accounts"></a><a name="to-set-up-bank-accounts"></a><a name="to-set-up-bank-accounts"></a>Настройка банковских счетов
+## <a name="to-set-up-bank-accounts"></a>Настройка банковских счетов
 
 1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать 1.](media/ui-search/search_small.png "Что вы хотите сделать"), и введите **Банковские счета**, затем выберите связанную ссылку.
 2. На странице **Банковские счета** выберите действие **Создать**.
@@ -151,7 +151,7 @@ The following table explains key fields.
 |Payment Export Format|Specifies the format of the bank file that is exported when you choose **Export Payments to File** on the **Payment Journal** page.|
 -->
 
-## <a name="to-enter-an-opening-balance"></a><a name="to-enter-an-opening-balance"></a><a name="to-enter-an-opening-balance"></a>Ввод начального сальдо
+## <a name="to-enter-an-opening-balance"></a>Ввод начального сальдо
 
 Чтобы занести в поле **Сальдо** начальное сальдо, необходимо учесть в книге банковских счетов операцию на соответствующую сумму. Это можно сделать, выполнив выверку банковского счета. Подробнее см. в статье [Выверка банковских счетов](bank-how-reconcile-bank-accounts-separately.md).  
 >
@@ -160,7 +160,7 @@ The following table explains key fields.
 > [!IMPORTANT]
 > Не учитывайте начальное сальдо непосредственно в главной книге. Наличие на счете ГК операций, учтенных на нем напрямую, обычно приводит к тому, что вы не можете выверить банковский счет. С банковскими счетами в иностранной валюте такая практика приводит к накоплению разниц по мере учета все большего числа банковких выверок. Обычно вы учитываете начальное сальдо непосредственно на банковском счете, а затем эта сумма оказывается на счете ГК. Другой вариант — позднее сторнировать его со счета ГК, который вы используете для сальдирования начального сальдо главной книги. В обоих случаях необходимо сальдировать любой прямой учет на счете ГК до того, как вы начнете свою первую выверку банковских счетов &mdash; особенно если банковский счет открыт в иностранной валюте.
 
-## <a name="to-set-up-your-bank-account-for-import-or-export-of-bank-files"></a><a name="to-set-up-your-bank-account-for-import-or-export-of-bank-files"></a><a name="to-set-up-your-bank-account-for-import-or-export-of-bank-files"></a>Настройка банковского счета для импорта или экспорта банковских файлов
+## <a name="to-set-up-your-bank-account-for-import-or-export-of-bank-files"></a>Настройка банковского счета для импорта или экспорта банковских файлов
 
 Поля на экспресс-вкладке **Перемещение** на странице **Карточка банковского счета** связаны с импортом и экспортом банковских файлов и выписок. Подробнее см. в статьях [Использование расширения AMC Banking 365 Fundamentals](ui-extensions-amc-banking.md) и [Настройка службы Envestnet Yodlee Bank Feeds](bank-how-setup-bank-statement-service.md).
 
@@ -213,13 +213,13 @@ The following table explains key fields.
   :::column-end:::
 :::row-end:::
 
-## <a name="to-set-up-vendor-bank-accounts-for-export-of-bank-files"></a><a name="to-set-up-vendor-bank-accounts-for-export-of-bank-files"></a><a name="to-set-up-vendor-bank-accounts-for-export-of-bank-files"></a>Настройка банковских счетов поставщиков для экспорта банковских файлов
+## <a name="to-set-up-vendor-bank-accounts-for-export-of-bank-files"></a>Настройка банковских счетов поставщиков для экспорта банковских файлов
 
 Поля на экспресс-вкладке **Перемещение** на странице **Карточка банк. счета поставщика** связаны с экспортом банковских потоков и файлов. Подробнее см. в статьях [Использование расширения AMC Banking 365 Fundamentals](ui-extensions-amc-banking.md) и [Экспорт платежей в банковский файл](finance-make-payments-with-bank-data-conversion-service-or-sepa-credit-transfer.md#exporting-payments-to-a-bank-file).
 
 [!INCLUDE[purchase-vendor-bank-account](includes/purchase-vendor-bank-account.md)]
 
-## <a name="changing-your-bank-account"></a><a name="changing-your-bank-account"></a><a name="changing-your-bank-account"></a>Изменение банковского счета
+## <a name="changing-your-bank-account"></a>Изменение банковского счета
 
 Если вы хотите использовать другой банковский счет для своей компании, вы должны создать новый банковский счет в [!INCLUDE[prod_short](includes/prod_short.md)]. Мы рекомендуем вам не просто заменять информацию о счете, которую вы в настоящее время используете, потому что это может привести к неверным данным. Например, ваш начальный баланс может быть неправильным или ваш банковский поток может перестать работать правильно. Важно хранить текущий и новый счета отдельно.
 
@@ -230,9 +230,9 @@ The following table explains key fields.
 
 Чтобы получить более сжатое представление о ваших денежных счетах в финансовой отчетности, используйте счета **Сумма (от)** и **Сумма (до)** в плане счетов, строки **Группировка** в бухгалтерских или категории счетов ГК. Подробнее см. в разделе [Бизнес-аналитика и финансовая отчетность](bi.md).
 
-## <a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/cash-management-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/cash-management-dynamics-365-business-central/)
 
-## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также
 
 [Настройка банковских операций](bank-setup-banking.md)  
 [Настройка учетных групп](finance-posting-groups.md)  

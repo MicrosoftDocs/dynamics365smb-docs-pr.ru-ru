@@ -11,7 +11,7 @@ ms.search.form: '26, 1346, 7012, 7014, 7017, 7018, 7189, 7190, 9307'
 ms.date: 04/01/2021
 ms.author: bholtorf
 ---
-# <a name="record-special-purchase-prices-and-discounts"></a><a name="record-special-purchase-prices-and-discounts"></a><a name="record-special-purchase-prices-and-discounts"></a>Регистрация специальных цен покупки и скидок
+# <a name="record-special-purchase-prices-and-discounts"></a>Регистрация специальных цен покупки и скидок
 
 > [!NOTE]
 > Во 2-й волне выпуска 2020 года мы выпустили оптимизированные процессы для настройки цен и скидок и управления ими. Если вы новый клиент, использующий эту версию, вы используете новую версию. Если вы уже являетесь клиентом, то используете ли вы новый интерфейс, зависит от того, включил ли ваш администратор обновление функции **Новые возможности ценообразования для продажи** в **Управление функциями**. Для получения дополнительной информации см. [Раннее включение новых функций](/dynamics365/business-central/dev-itpro/administration/feature-management).
@@ -31,7 +31,7 @@ ms.author: bholtorf
 
 Так как скидки строк покупки и цены покупки зависят от комбинации товара и поставщика, можно также ввести эту конфигурацию из карточки товара, в которой определяются правила и значения. Дополнительные сведения см. в разделе [Регистрация новых товаров](inventory-how-register-new-items.md).
 
-## <a name="to-set-up-a-special-purchase-price-for-a-vendor"></a><a name="to-set-up-a-special-purchase-price-for-a-vendor"></a><a name="to-set-up-a-special-purchase-price-for-a-vendor"></a>Настройка специальных цен покупки для поставщика
+## <a name="to-set-up-a-special-purchase-price-for-a-vendor"></a>Настройка специальных цен покупки для поставщика
 
 #### [Текущая версия](#tab/current-experience)
 
@@ -54,7 +54,7 @@ ms.author: bholtorf
 
 ---
 
-## <a name="to-set-up-a-line-discount-for-a-vendor"></a><a name="to-set-up-a-line-discount-for-a-vendor"></a><a name="to-set-up-a-line-discount-for-a-vendor"></a>Настройка скидки строки для поставщика
+## <a name="to-set-up-a-line-discount-for-a-vendor"></a>Настройка скидки строки для поставщика
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Поставщики**, а затем выберите связанную ссылку.
 2. Откройте соответствующую карточку поставщика и выберите действие **Скидки строки**.
@@ -63,7 +63,7 @@ ms.author: bholtorf
 3. Заполните поля в строке по мере необходимости. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 4. Заполните строку для каждой комбинации, для которой поставщик предоставляет скидку строки покупки.
 
-## <a name="to-set-up-an-invoice-discount-for-a-vendor"></a><a name="to-set-up-an-invoice-discount-for-a-vendor"></a><a name="to-set-up-an-invoice-discount-for-a-vendor"></a>Настройка скидки по счету для поставщика
+## <a name="to-set-up-an-invoice-discount-for-a-vendor"></a>Настройка скидки по счету для поставщика
 
 Когда поставщики проинформируют вас о том, какие скидки они предоставляют, укажите в карточках этих поставщиков коды скидок по счетам и настройте условия для каждого кода.
 
@@ -83,7 +83,7 @@ ms.author: bholtorf
 
 Скидка по счету теперь настроена и назначена соответствующему поставщику. При выборе кода поставщика в поле **Код скидки по счету** на других карточках поставщиков этим поставщикам назначается та же скидка по счету.
 
-## <a name="to-choose-a-principle-for-posting-purchase-discounts"></a><a name="to-choose-a-principle-for-posting-purchase-discounts"></a><a name="to-choose-a-principle-for-posting-purchase-discounts"></a>Выбор принципа учета скидок покупки
+## <a name="to-choose-a-principle-for-posting-purchase-discounts"></a>Выбор принципа учета скидок покупки
 
 При принятии к учету счета покупки, который включает одну или более скидок, можно выбирать между двумя принципами учета сумм скидок. Можно учитывать скидки раздельно или можно вычитать скидки из скидок счетов.  
 
@@ -99,7 +99,7 @@ ms.author: bholtorf
 |**Скидки строки**|Вычитается|Раздельный учет|  
 |**Нет скидок**|Вычитается|Вычитается|  
 
-## <a name="purchase-invoice-discounts-and-service-charges"></a><a name="purchase-invoice-discounts-and-service-charges"></a><a name="purchase-invoice-discounts-and-service-charges"></a>Скидки по счетам покупки и плата за сервисное обслуживание
+## <a name="purchase-invoice-discounts-and-service-charges"></a>Скидки по счетам покупки и плата за сервисное обслуживание
 
 Если имеются фиксированные условия предоставления скидок по счетам от конкретных поставщиков, то их можно вводить по этим поставщикам. Затем будет рассчитана скидка при заполнении счета покупки.  
 
@@ -116,7 +116,7 @@ ms.author: bholtorf
 > [!TIP]  
 > Перед вводом данной информации рекомендуется подготовить общую структуру скидок, которые предполагается использовать. Это облегчает просмотр поставщиков, ассоциированных с конкретной страницей скидок по счетам. Чем меньше страниц требуется настроить, тем быстрее можно вводить базовую информацию.
 
-## <a name="best-price-calculation"></a><a name="best-price-calculation"></a><a name="best-price-calculation"></a>Расчет лучшей цены
+## <a name="best-price-calculation"></a>Расчет лучшей цены
 
 После регистрации специальных цен и скидок по строке для покупок и продаж [!INCLUDE[prod_short](includes/prod_short.md)] гарантирует, что ваша прибыль от торговли товаром будет всегда оптимальна, автоматически рассчитывая наилучшую цену в документах продажи и покупки и в строках журнала товаров и работ.
 
@@ -139,9 +139,9 @@ ms.author: bholtorf
 
 Если для товара в строке невозможно рассчитать специальную цену, будет вставлена либо последняя прямая себестоимость, либо цена единицы из карточки товара.
 
-## <a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/set-up-prices-discounts-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/set-up-prices-discounts-dynamics-365-business-central/index)
 
-## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также
 
 [Настройка покупки](purchasing-setup-purchasing.md)  
 [Покупки](purchasing-manage-purchasing.md)  

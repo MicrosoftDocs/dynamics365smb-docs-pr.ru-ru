@@ -10,18 +10,18 @@ ms.search.form: '99000887, 99000888, 99000889, 99000890, 99000891, 99000892, 990
 ms.date: 04/01/2021
 ms.author: edupont
 ---
-# <a name="view-load-on-work-and-machine-centers"></a><a name="view-load-on-work-and-machine-centers"></a><a name="view-load-on-work-and-machine-centers"></a>Просмотр загрузки производственных и машинных центров
+# <a name="view-load-on-work-and-machine-centers"></a>Просмотр загрузки производственных и машинных центров
 
 На страницах **Карточка производственного центра** и **Карточка машинного центра** можно просмотреть загрузку цеха как результат запланированных и запущенных производственных заказов.  
 
-## <a name="to-view-the-load-on-work-centers"></a><a name="to-view-the-load-on-work-centers"></a><a name="to-view-the-load-on-work-centers"></a>Просмотр загрузки рабочих центров
+## <a name="to-view-the-load-on-work-centers"></a>Просмотр загрузки рабочих центров
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Производственные центры**, а затем выберите связанную ссылку.  
 2. Откройте соответствующую карточку **Производственный центр** из списка, затем выберите действие **Загрузка**.  
 
 Воспользуйтесь полями **Просмотр по** и **Просмотр как** на экспресс-вкладке **Параметры**, чтобы выбрать требуемый период.  
 
-## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также
 [Производство](production-manage-manufacturing.md)
 [Настройка производства](production-configure-production-processes.md)  
 [Планирование](production-planning.md)  

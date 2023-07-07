@@ -10,11 +10,11 @@ ms.search.form: 9880
 ms.date: 04/01/2021
 ms.author: jswymer
 ---
-# <a name="managing-database-access-intent"></a><a name="managing-database-access-intent"></a><a name="managing-database-access-intent"></a>Управление намерением доступа к базе данных
+# <a name="managing-database-access-intent"></a>Управление намерением доступа к базе данных
 
 Как суперпользователь или администратор, вы можете изменить намерение доступа к базе данных в отчетах, страницах типа API и запросах, чтобы повысить производительность службы.
 
-## <a name="overview"></a><a name="overview"></a><a name="overview"></a>Обзор
+## <a name="overview"></a>Обзор
 
 [!INCLUDE[prod_short](includes/prod_short.md)] можно настроить на использование реплик только для чтения основной базы данных (чтение-запись). Использование реплики базы данных снижает нагрузку на основную базу данных. В некоторых случаях это также улучшит производительность при просмотре данных в клиенте. Реплики полезны для объектов, таких как отчеты, запросы и страницы API, которые используются только для просмотра данных, а не для их изменения.
 
@@ -24,7 +24,7 @@ ms.author: jswymer
 
 В сфере баз данных эта функция обычно известна как *горизонтальное масштабирование для чтения*. Для получения дополнительной информации о горизонтальном масштабировании для чтения и намерениях доступа к данным в [!INCLUDE[prod_short](includes/prod_short.md)] см. раздел [Использование горизонтального масштабирования для чтения для улучшения производительности](/dynamics365/business-central/dev-itpro/administration/database-read-scale-out-overview) в справке [!INCLUDE[prod_short](includes/prod_short.md)] для разработчиков и администраторов.
 
-## <a name="to-change-the-database-access-intent"></a><a name="to-change-the-database-access-intent"></a><a name="to-change-the-database-access-intent"></a>Изменение намерения доступа к базе данных
+## <a name="to-change-the-database-access-intent"></a>Изменение намерения доступа к базе данных
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Список намерений доступа к базе данных**, а затем выберите связанную ссылку.
 
@@ -43,9 +43,9 @@ ms.author: jswymer
     > [!NOTE]
     > Если объект, который можно редактировать, например, карточка клиента, установлен на **Только чтение**, первичная база данных будет по-прежнему использоваться, независимо от цели доступа, что позволяет пользователям вносить изменения в обычном режиме.
 
-## <a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/paths/deploy-configure-dynamics-365-business-central/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/paths/deploy-configure-dynamics-365-business-central/)
 
-## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также
 [Функциональные бизнес-возможности](across-business-functionality.md)  
 [Общие бизнес-функции](ui-across-business-areas.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  

@@ -12,7 +12,7 @@ ms.reviewer: edupont
 ms.date: 06/14/2021
 ms.author: soalex
 ---
-# <a name="compliance-overview"></a><a name="compliance-overview"></a><a name="compliance-overview"></a>Обзор соответствия
+# <a name="compliance-overview"></a>Обзор соответствия
 
 Это содержимое содержит сведения о соответствии в связи с [!INCLUDE[prod_short](../includes/prod_short.md)].  
 

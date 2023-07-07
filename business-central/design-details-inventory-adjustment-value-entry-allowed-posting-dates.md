@@ -11,7 +11,7 @@ ms.date: 09/17/2021
 ms.author: edupont
 ---
 
-# <a name="error-message-posting-date-is-not-within-your-range-of-allowed-posting-dates"></a><a name="error-message-posting-date-is-not-within-your-range-of-allowed-posting-dates"></a><a name="error-message-posting-date-is-not-within-your-range-of-allowed-posting-dates"></a>Сообщение об ошибке "Дата учета вне пределов разрешенного диапазона дат учета"
+# <a name="error-message-posting-date-is-not-within-your-range-of-allowed-posting-dates"></a>Сообщение об ошибке "Дата учета вне пределов разрешенного диапазона дат учета"
 
 При использовании пакетного задания **Коррекция себестоимости запасов** вы можете столкнуться со следующим сообщением об ошибке:
 
@@ -19,7 +19,7 @@ ms.author: edupont
 
 Это сообщение об ошибке указывает на то, что пользователю не разрешено учитывать записи для рассматриваемой даты, и это можно исправить, изменив настройки пользователя.
 
-## <a name="change-the-user-setup"></a><a name="change-the-user-setup"></a><a name="change-the-user-setup"></a>Измените настройки пользователя
+## <a name="change-the-user-setup"></a>Измените настройки пользователя
 
 |ИД пользователя  |Разрешить учет с  | Разрешить учет по  |
 |---------|---------|--------|
@@ -27,9 +27,9 @@ ms.author: edupont
 
 Пользователь в этом случае разрешил диапазон дат учета с 11-го сентября по 30-е сентября, и, таким образом, не разрешил учет операции коррекции стоимости с датой учета 10-е сентября.  
 
-### <a name="overview-of-involved-posting-date-setup"></a><a name="overview-of-involved-posting-date-setup"></a><a name="overview-of-involved-posting-date-setup"></a>Обзор соответствующей настройки дат учета
+### <a name="overview-of-involved-posting-date-setup"></a>Обзор соответствующей настройки дат учета
 
-#### <a name="inventory-periods"></a><a name="inventory-periods"></a><a name="inventory-periods"></a>Периоды учета запасов
+#### <a name="inventory-periods"></a>Периоды учета запасов
 
 |Дата окончания  |Name  |Закрыт  |
 |---------|---------|---------|
@@ -46,7 +46,7 @@ ms.author: edupont
 |2020-11-30     |Ноябрь 2020 г.   |         |
 |2020-12-31     |Декабрь 2020 г.   |         |  
 
-#### <a name="general-ledger-setup"></a><a name="general-ledger-setup"></a><a name="general-ledger-setup"></a>Настройка ГК
+#### <a name="general-ledger-setup"></a>Настройка ГК
 
 |Поле|Значение|
 |---------|---------|
@@ -55,7 +55,7 @@ ms.author: edupont
 |Учитывать время:       |         |
 |Локальный формат адреса:|   Индекс      |  
 
-#### <a name="user-setup"></a><a name="user-setup"></a><a name="user-setup"></a>Настройка пользователя
+#### <a name="user-setup"></a>Настройка пользователя
 
 |ИД пользователя  |Разрешить учет с  | Разрешить учет по  |
 |---------|---------|--------|
@@ -63,7 +63,7 @@ ms.author: edupont
 
 Если назначить более широкий допустимый диапазон дат учета, как в параметре "Период инвентаризации" или "Настройка главной книги", упомянутый конфликт, вызывающий ошибку, может быть устранен. Запись значения корректировки с датой учета 10 сентября будет успешно учтена с этой настройкой.
   
-## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также
 
 [Подробности разработки: дата учета для операции коррекции стоимости](design-details-inventory-adjustment-value-entry-posting-date.md)  
 [Сведения о проектировании: себестоимость запасов](design-details-inventory-costing.md)  

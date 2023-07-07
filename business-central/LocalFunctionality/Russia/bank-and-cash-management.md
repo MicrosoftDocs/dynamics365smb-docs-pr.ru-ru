@@ -9,11 +9,11 @@ ms.reviewer: edupont
 ms.author: soalex
 ---
 
-# <a name="bank-and-cash-management"></a><a name="bank-and-cash-management"></a><a name="bank-and-cash-management"></a>Управление банками и кассами
+# <a name="bank-and-cash-management"></a>Управление банками и кассами
 
 Функциональная возможность для России для управления банками и кассами описывается в нескольких разделах.
 
-## <a name="in-this-section"></a><a name="in-this-section"></a><a name="in-this-section"></a>В этом разделе
+## <a name="in-this-section"></a>В этом разделе
 
 [Управление банком](Bank-Management.md)
 

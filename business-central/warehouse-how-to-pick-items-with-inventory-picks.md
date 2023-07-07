@@ -10,7 +10,7 @@ ms.date: 01/25/2023
 ms.custom: bap-template
 ms.search.forms: '931, 7377'
 ---
-# <a name="pick-items-with-inventory-picks"></a><a name="pick-items-with-inventory-picks"></a><a name="pick-items-with-inventory-picks"></a>Подбор товаров с помощью подбора запасов
+# <a name="pick-items-with-inventory-picks"></a>Подбор товаров с помощью подбора запасов
 
 В [!INCLUDE[prod_short](includes/prod_short.md)] подберите и отгрузите товары с использованием одного из четырех методов, как описано в следующей таблице.
 
@@ -42,29 +42,29 @@ ms.search.forms: '931, 7377'
 
 После этого складской подбор можно создавать на странице **Подбор запасов** на основании исходного документа.  
 
-## <a name="to-create-an-inventory-pick-from-the-source-document"></a><a name="to-create-an-inventory-pick-from-the-source-document"></a><a name="to-create-an-inventory-pick-from-the-source-document"></a>Создание документа складского подбора из документа-источника
+## <a name="to-create-an-inventory-pick-from-the-source-document"></a>Создание документа складского подбора из документа-источника
 
 1. В документе-источнике, который может быть заказом на продажу, заказом на возврат покупки, исходящим заказом на перемещение или производственным заказом, выберите действие **Создать размещение/подбор запасов**.
 2. Установите флажок **Создать товарный подбор**.  
 3. Нажмите кнопку **ОК**. Будет создан новый подбор запасов.
 
-## <a name="to-create-multiple-inventory-picks-with-a-batch-job"></a><a name="to-create-multiple-inventory-picks-with-a-batch-job"></a><a name="to-create-multiple-inventory-picks-with-a-batch-job"></a>Создание нескольких складских подборов с помощью пакетного задания
+## <a name="to-create-multiple-inventory-picks-with-a-batch-job"></a>Создание нескольких складских подборов с помощью пакетного задания
 
 1. Выберите значок ![Лампочка, которая открывает функцию «Что вы хотите сделать»](media/ui-search/search_small.png "Что вы хотите сделать"), значок введите **Создание размещение/подбор/перемещение запасов**, а затем выберите связанную ссылку.  
 2. На экспресс-вкладке **Запрос склада** с помощью полей **Документ-источник** и **Номер источника** отфильтруйте данные по определенному типу документов или диапазонам номеров документов. Например, можно создать подборы только для заказов на продажу.  
 3. На экспресс-вкладке **Параметры** установите флажок **Создать подбор запасов**.
 4. Нажмите кнопку **ОК**.
 
-## <a name="to-create-the-pick-in-two-steps"></a><a name="to-create-the-pick-in-two-steps"></a><a name="to-create-the-pick-in-two-steps"></a>Чтобы создать пикировку в два шага
+## <a name="to-create-the-pick-in-two-steps"></a>Чтобы создать пикировку в два шага
 
-### <a name="to-request-an-inventory-pick-by-releasing-the-source-document"></a><a name="to-request-an-inventory-pick-by-releasing-the-source-document"></a><a name="to-request-an-inventory-pick-by-releasing-the-source-document"></a>Запрос складского подбора путем выпуска документа-источника
+### <a name="to-request-an-inventory-pick-by-releasing-the-source-document"></a>Запрос складского подбора путем выпуска документа-источника
 
 В случае заказов на продажу, возвратов покупок и исходящих заказов на перемещение складской запрос создается путем выпуска заказа. Разблокировка заказа делает товары доступными для комплектации.
 
 1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Заказы на продажу**, а затем выберите связанную ссылку.
 2. Выберите заказ на продажу, который требуется выпустить, затем выберите действие **Выпустить**.
 
-### <a name="to-create-an-inventory-pick-based-on-the-source-document"></a><a name="to-create-an-inventory-pick-based-on-the-source-document"></a><a name="to-create-an-inventory-pick-based-on-the-source-document"></a>Создание складского подбора на основе документа-источника
+### <a name="to-create-an-inventory-pick-based-on-the-source-document"></a>Создание складского подбора на основе документа-источника
 
 После деблокирования заказа сотрудник склада может создать подборку запасов.
 
@@ -75,7 +75,7 @@ ms.search.forms: '931, 7377'
 5. В качестве альтернативы выберите действие **Получить исходный документ**, чтобы выбрать документ из списка исходящих документов-источников, готовых к подбору на складе.  
 6. Нажмите кнопку **ОК**, чтобы заполнить строки подбора в соответствии с выбранными документом-источником.  
 
-## <a name="to-record-inventory-picks"></a><a name="to-record-inventory-picks"></a><a name="to-record-inventory-picks"></a>Регистрация подборок запасов
+## <a name="to-record-inventory-picks"></a>Регистрация подборок запасов
 
 1. Выберите значок ![Лампочка, которая открывает функцию «Что вы хотите сделать»](media/ui-search/search_small.png "Что вы хотите сделать"), значок введите **Подбор запасов**, а затем выберите связанную ссылку.  
 2. В поле **Код ячейки** в строках подбора, ячейка, из которой требуется скомплектовать товары, предлагается в соответствии с ячейкой товара по умолчанию. При необходимости данную ячейку можно изменить на этой странице.  
@@ -88,7 +88,7 @@ ms.search.forms: '931, 7377'
     * Учет отгрузки подобранных строк исходного документа.
     * Если на складе используются ячейки, в процессе учета создаются также складские операции, чтобы учесть изменения количества в ячейках.  
 
-## <a name="handling-assemble-to-order-items-with-inventory-picks"></a><a name="handling-assemble-to-order-items-with-inventory-picks"></a><a name="handling-assemble-to-order-items-with-inventory-picks"></a>Обработка товаров сборки на заказ со складскими подборами
+## <a name="handling-assemble-to-order-items-with-inventory-picks"></a>Обработка товаров сборки на заказ со складскими подборами
 
 Также можно использовать страницу **Подбор запасов** также используется для подбора и отгрузки для продажи, когда товары необходимо собрать до их отгрузки. Подробнее см. в разделе [Продажа товара, собранного на заказ](assembly-how-to-sell-items-assembled-to-order.md).
 
@@ -118,9 +118,9 @@ ms.search.forms: '931, 7377'
 > [!NOTE]  
 > Если товары собираются на заказ, складской подбор для связанного заказа на продажу создаст перемещение запасов для всех компонентов сборки.  
 
-## <a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/paths/pick-ship-items-business-central/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/paths/pick-ship-items-business-central/)
 
-## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также
 
 [Обзор управления складом](design-details-warehouse-management.md)
 [Запас](inventory-manage-inventory.md)  

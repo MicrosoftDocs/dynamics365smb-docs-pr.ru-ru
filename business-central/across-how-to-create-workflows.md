@@ -8,7 +8,7 @@ ms.topic: how-to
 ms.date: 04/24/2023
 ms.custom: bap-template
 ---
-# <a name="create-workflows-to-connect-tasks-in-business-processes"></a><a name="create-workflows-to-connect-tasks-in-business-processes"></a><a name="create-workflows-to-connect-tasks-in-business-processes"></a>Создание рабочих процессов для соединения задач в бизнес-процессах
+# <a name="create-workflows-to-connect-tasks-in-business-processes"></a>Создание рабочих процессов для соединения задач в бизнес-процессах
 
 Вы можете создавать рабочие процессы, соединяющие задачи, выполняемые в бизнес-процессах разными пользователями. Системные задачи, такие как автоматический учет, могут включаться в качестве шагов рабочего процесса, предшествующих задачам пользователя или выполняемых после них. Типичные шаги рабочего процесса — запрос и выдача разрешения на создание новых записей.  
 
@@ -42,7 +42,7 @@ ms.custom: bap-template
 
 Параметры для событий и откликов определены системой. Для добавления новых параметров вам потребуется разработать расширение.
 
-## <a name="to-create-a-workflow"></a><a name="to-create-a-workflow"></a><a name="to-create-a-workflow"></a>Создание потока операций
+## <a name="to-create-a-workflow"></a>Создание потока операций
 
 1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") введите **Рабочие процессы**, затем выберите связанную ссылку.  
 2. Выберите действие **Создать**. Откроется страница **Рабочий процесс**.  
@@ -113,7 +113,7 @@ ms.custom: bap-template
 > [!TIP]  
 > Чтобы увидеть связи между таблицами, которые используются в рабочих процессах, выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") затем введите **Связи таблица - рабочий процесс**.  
 
-## <a name="example-of-creating-a-new-workflow-using-existing-events"></a><a name="example-of-creating-a-new-workflow-using-existing-events"></a><a name="example-of-creating-a-new-workflow-using-existing-events"></a>Пример создания нового рабочего процесса с использованием существующих событий
+## <a name="example-of-creating-a-new-workflow-using-existing-events"></a>Пример создания нового рабочего процесса с использованием существующих событий
 
 В следующем примере создается рабочий процесс для утверждения изменения в имени поставщика:
 
@@ -172,9 +172,9 @@ ms.custom: bap-template
 
 Теперь протестируйте рабочий процесс, открыв карточку существующего поставщика и изменив имя. Убедитесь, что при изменении имени поставщика отправляется запрос на утверждение.
 
-## <a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/create-workflows/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/create-workflows/)
 
-## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также
 
 [Создание рабочих процессов из шаблонов рабочих процессов](across-how-to-create-workflows-from-workflow-templates.md)  
 [Настройка утверждающих пользователей](across-how-to-set-up-approval-users.md)  

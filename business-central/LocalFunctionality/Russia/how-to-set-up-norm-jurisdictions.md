@@ -9,11 +9,11 @@ ms.reviewer: edupont
 ms.author: soalex
 ---
 
-# <a name="set-up-norm-jurisdictions"></a><a name="set-up-norm-jurisdictions"></a><a name="set-up-norm-jurisdictions"></a>Настройка юрисдикций нормы
+# <a name="set-up-norm-jurisdictions"></a>Настройка юрисдикций нормы
 
 Юрисдикции нормы основаны на российском налоговом законодательстве, в которое определены различные ставки налогов. Юрисдикции номы используются для расчета налогооблагаемых прибылей и убытков в налоговом учете. В окне **Юрисдикции нормы** вы можете настроить и определить юрисдикции нормы, которые будут использоваться при расчете налоговых разниц.
 
-## <a name="to-set-up-norm-jurisdictions"></a><a name="to-set-up-norm-jurisdictions"></a><a name="to-set-up-norm-jurisdictions"></a>Настройка юрисдикций нормы
+## <a name="to-set-up-norm-jurisdictions"></a>Настройка юрисдикций нормы
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../../media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Юрисдикции нормы**, а затем выберите связанную ссылку.
 
@@ -44,7 +44,7 @@ ms.author: soalex
 
 Настроенная юрисдикция нормы теперь доступна для расчета налоговых разниц.
 
-## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также
 
 [Налоговые разницы](Tax-Differences.md)  
 [Настройка расчета налоговых разниц](Setting-up-Tax-Difference-Calculation.md)  

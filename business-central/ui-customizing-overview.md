@@ -11,7 +11,7 @@ ms.search.form: '2500, 2502'
 ms.date: 06/23/2021
 ms.author: edupont
 ---
-# <a name="customize-business-central"></a><a name="customize-business-central"></a><a name="customize-business-central"></a>Настройка Business Central
+# <a name="customize-business-central"></a>Настройка Business Central
 
 Существуют различные способы настройки приложения, чтобы предоставить вам и вашим коллегам доступ к функциям, функциональным возможностям и данным, которые нужны вам больше всего, способом, наиболее соответствующим вашей повседневной работе. Пользователи, которые смогут просмотреть изменения, зависят от того, что вы делаете, как описано в этой таблице.
 
@@ -28,9 +28,9 @@ ms.author: edupont
 > [!NOTE]
 > Все описания функций в пользовательской документации для [!INCLUDE[prod_short](includes/prod_short.md)] предполагают наличие уровня **Premium**, то есть описание охватывает полный набор элементов пользовательского интерфейса. Поэтому пользователи с уровнем функциональности **Essential** могут в некоторых разделах увидеть описание функций и элементов пользовательского интерфейса, которые не отображаются в их пользовательском интерфейсе. Дополнительные сведения см. в разделе [Изменение набора отображаемых функций](ui-experiences.md).
 
-## <a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/paths/tailor-roles-design-ui/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/paths/tailor-roles-design-ui/)
 
-## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также
 
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 

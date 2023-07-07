@@ -11,11 +11,11 @@ ms.search.form: 461
 ms.date: 09/23/2021
 ms.author: andreipa
 ---
-# <a name="schedule-jobs-for-adjusting-and-reconciling-inventory-cost-with-the-general-ledger"></a><a name="schedule-jobs-for-adjusting-and-reconciling-inventory-cost-with-the-general-ledger"></a><a name="schedule-jobs-for-adjusting-and-reconciling-inventory-cost-with-the-general-ledger"></a>Планирование заданий для корректировки и выверки себестоимости запасов с главной книгой
+# <a name="schedule-jobs-for-adjusting-and-reconciling-inventory-cost-with-the-general-ledger"></a>Планирование заданий для корректировки и выверки себестоимости запасов с главной книгой
 
 Для оптимизации работы автоматическая корректировка затрат и разноска в главную книгу включены по умолчанию. Однако по мере накопления данных со временем это может повлиять на производительность. Чтобы снизить нагрузку на приложение, часто бывает полезно использовать записи очереди заданий для перемещения задач для выполнения в фоновом режиме.
 
-## <a name="move-the-task-of-adjusting-item-costs-to-the-background-with-the-help-of-assisted-setup"></a><a name="move-the-task-of-adjusting-item-costs-to-the-background-with-the-help-of-assisted-setup"></a><a name="move-the-task-of-adjusting-item-costs-to-the-background-with-the-help-of-assisted-setup"></a>Перемещение задачи корректировки себестоимости товаров в фоновый режим с помощью мастера настройки
+## <a name="move-the-task-of-adjusting-item-costs-to-the-background-with-the-help-of-assisted-setup"></a>Перемещение задачи корректировки себестоимости товаров в фоновый режим с помощью мастера настройки
 
 Создание записей очереди заданий может быть непростым делом даже для опытного консультанта, поэтому у нас есть мастер настройки, который упростит процесс корректировки себестоимости товара.  
 
@@ -29,7 +29,7 @@ ms.author: andreipa
 
 5. Выберите поле **Просмотреть операции очереди работ по завершении настройки** для просмотра и изменения настроек. Дополнительные сведения см. в разделе [Использование очередей работ для планирования задач](admin-job-queues-schedule-tasks.md).  
 
-## <a name="to-create-a-job-queue-entry-for-adjusting-and-reconciling-inventory-cost-manually"></a><a name="to-create-a-job-queue-entry-for-adjusting-and-reconciling-inventory-cost-manually"></a><a name="to-create-a-job-queue-entry-for-adjusting-and-reconciling-inventory-cost-manually"></a>Чтобы создать запись в очереди заданий для корректировки и согласования себестоимости запасов вручную
+## <a name="to-create-a-job-queue-entry-for-adjusting-and-reconciling-inventory-cost-manually"></a>Чтобы создать запись в очереди заданий для корректировки и согласования себестоимости запасов вручную
 
 Кроме того, вы можете создавать записи в очереди заданий вручную. Следующая процедура показывает, как установить пакетное задание **Корректировка себестоимости запасов** для автоматического ежедневного выполнения, но те же действия применяются к пакетному заданию **Учет себестоимости запасов в ГК**.  
 
@@ -48,7 +48,7 @@ ms.author: andreipa
 > [!TIP]
 > Чтобы избежать блокировки, не планируйте задачи для пакетного задания **Корректировка себестоимости запасов**, codeunit **Учет себестоимости запасов в ГК** и задачи учета транзакций продажи или покупки одновременно. Убедитесь, что они используют одну и ту же категорию очереди заданий.
 
-## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также
 
 [Корректировка себестоимости товаров](inventory-how-adjust-item-costs.md)  
 [Выверка себестоимости товаров с главной книгой](finance-how-to-post-inventory-costs-to-the-general-ledger.md)  

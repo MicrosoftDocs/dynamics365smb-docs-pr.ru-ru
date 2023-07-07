@@ -9,11 +9,11 @@ ms.reviewer: edupont
 ms.author: soalex
 ---
 
-# <a name="overview---fixed-assets"></a><a name="overview---fixed-assets"></a><a name="overview---fixed-assets"></a>Обзор — основные средства
+# <a name="overview---fixed-assets"></a>Обзор — основные средства
 
 В России имеются особые функции [!INCLUDE[prod_short](../../includes/prod_short.md)] для отслеживания и управления основными средствами. С помощью функций основных средств можно управлять амортизацией и стоимостью обслуживания, отслеживать перемещения основных средств, управлять их продажей и реализацией, а также формировать различные отчеты и статистику.
 
-## <a name="getting-started-with-fixed-assets"></a><a name="getting-started-with-fixed-assets"></a><a name="getting-started-with-fixed-assets"></a>Начало работы с основными средствами
+## <a name="getting-started-with-fixed-assets"></a>Начало работы с основными средствами
 
 Воспользуйтесь следующей таблицей, чтобы больше узнать о функциях основных средств, доступных для России.
 

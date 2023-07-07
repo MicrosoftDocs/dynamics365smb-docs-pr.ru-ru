@@ -11,7 +11,7 @@ ms.reviewer: edupont
 ms.date: 06/14/2021
 ms.author: soalex
 ---
-# <a name="service-compliance"></a><a name="service-compliance"></a><a name="service-compliance"></a>Соответствие служб
+# <a name="service-compliance"></a>Соответствие служб
 
 Это содержимое содержит сведения о соответствии сервиса в связи с [!INCLUDE[prod_short](../includes/prod_short.md)] Online  
 
@@ -21,11 +21,11 @@ Business Central является облачной службой с глоба�
 
 Если вас интересует полный список предложений соответствия от корпорации Майкрософт, см. в разделе [Центр доверия Майкрософт](https://www.microsoft.com/trustcenter/compliance/complianceofferings).
 
-## <a name="service-terms"></a><a name="service-terms"></a><a name="service-terms"></a>Условия предоставления услуг
+## <a name="service-terms"></a>Условия предоставления услуг
 
 [!INCLUDE [service-terms](../includes/service-terms.md)]
 
-## <a name="see-also"></a><a name="see-also"></a><a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также
 
 [Соответствие](compliance-overview.md)  
 [Соответствие приложений](compliance-application-compliance.md)  
