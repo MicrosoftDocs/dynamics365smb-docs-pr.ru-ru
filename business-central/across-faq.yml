@@ -16,7 +16,7 @@ sections:
       - question: |
           Business Central доступен в моем стране или регионе?
         answer: |
-          [!INCLUDE[prod_short](includes/prod_short.md)] доступно в ограниченном количестве стран, но новые страны добавляются ежеквартально за счет локализации, проводимой корпорацией Майкрософт или партнерами. Дополнительные сведения можно найти в разделе [Наличие в странах/регионах и поддерживаемые переводы](/dynamics365/business-central/dev-itpro/compliance/apptest-countries-and-translations?toc=/dynamics365/business-central/toc.json) (доступно только на английском языке).  
+          [!INCLUDE[prod_short](includes/prod_short.md)] доступно в ограниченном количестве стран, но новые страны/регионы добавляются ежеквартально за счет локализации, проводимой корпорацией Майкрософт или партнерами. Дополнительные сведения можно найти в разделе [Наличие в странах/регионах и поддерживаемые переводы](/dynamics365/business-central/dev-itpro/compliance/apptest-countries-and-translations?toc=/dynamics365/business-central/toc.json) (доступно только на английском языке).  
       - question: |
           Как получить Business Central?
         answer: |

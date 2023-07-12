@@ -2,17 +2,14 @@
 title: Обзор соответствия
 description: 'Обзор, как функциональные возможности Business Central построены на платформе и позволяют клиентам легко обеспечивать соответствие и соблюдать нормативное законодательные нормы.'
 author: sorenfriisalexandersen
-documentationcenter: ''
-ms.topic: overview
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
-ms.search.keywords: null
-ms.reviewer: edupont
-ms.date: 06/14/2021
 ms.author: soalex
+ms.reviewer: bholtorf
+ms.topic: conceptual
+ms.date: 04/25/2023
+ms.custom: bap-template
 ---
-# <a name="compliance-overview"></a>Обзор соответствия
+
+# Обзор соответствия
 
 Это содержимое содержит сведения о соответствии в связи с [!INCLUDE[prod_short](../includes/prod_short.md)].  
 
@@ -22,12 +19,12 @@ ms.author: soalex
 
 |**Задача**|**Раздел**|  
 |------------|-------------|  
-|Узнайте о соответствии с точки зрения применения, такого как GDPR, международных стандартах бухгалтерского учета и т. д.|[Соответствие приложений](compliance-application-compliance.md)|  
+|Узнайте о соответствии нормативам на уровне приложения, в частности о конфиденциальности данных, международных стандартах бухгалтерского учета и т. д.|[Соответствие приложений](compliance-application-compliance.md)|  
 |Узнайте о соответствии на уровне сервиса, а также о подходах, использованных на платформе, чтобы Business Central обеспечивало лучшее в своем классе соответствие сервиса.|[Соответствие служб](compliance-service-compliance.md)|  
-|См. информацию о различных аттестациях, связанных с Business Central. Здесь можно найти информацию по общих сертификатах и сертификатах, специфичных для стран.|[Сертификаты](compliance-certifications.md)|  
+|См. информацию о различных аттестациях, связанных с Business Central. Здесь можно найти информацию по общих сертификатах и сертификатах, специфичных для стран/регионов.|[Сертификации](compliance-certifications.md)|  
 |Узнайте об условиях соглашения об уровне обслуживания и других условиях обслуживания|[Условия предоставления услуг](compliance-service-compliance.md#service-terms)|  
 
-## [!INCLUDE[prod_short](../includes/free_trial_md.md)]
+## [!INCLUDE[prod_short](../includes/free_trial_md.md)]  
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

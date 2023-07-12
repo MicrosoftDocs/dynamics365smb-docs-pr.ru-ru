@@ -3,15 +3,15 @@ title: Использование Microsoft Dataverse
 description: 'Введение в то, как интегрировать и использовать Microsoft Dataverse и его компоненты для подключения к другим приложениям Dynamics 365.'
 author: brentholtorf
 ms.author: bholtorf
-ms.custom: na
-ms.reviewer: na
+ms.reviewer: ivkoleti
 ms.topic: conceptual
-ms.date: 06/14/2021
+ms.date: 06/28/2023
+ms.custom: bap-template
 ---
 
-# <a name="integrating-with-microsoft-dataverse"></a><a name="integrating-with-microsoft-dataverse"></a>Интеграция с Microsoft Dataverse
+# Интеграция с Microsoft Dataverse
 
-Бизнес-приложения часто используют данные из более чем одного источника. [!INCLUDE[prod_short](includes/cds_long_md.md)] объединяет данные в единый набор логики, облегчающей подключение других приложений Dynamics 365, таких как [!INCLUDE[crm_md](includes/crm_md.md)] или ваше собственное приложение, построенное на основе [!INCLUDE[prod_short](includes/cds_long_md.md)], к [!INCLUDE[prod_short_md](includes/prod_short.md)]. Для получения дополнительных сведений о [!INCLUDE[prod_short](includes/cds_long_md.md)] см. раздел [Что такое Dataverse?](/powerapps/maker/common-data-service/data-platform-intro)
+Бизнес-приложения часто используют данные из более чем одного источника. [!INCLUDE[prod_short](includes/cds_long_md.md)] объединяет данные в единый набор логики, облегчающей подключение [!INCLUDE[prod_short](includes/prod_short.md)] к другим приложениям Dynamics 365. Например, [!INCLUDE[crm_md](includes/crm_md.md)] или ваше собственное приложение, созданное на основе [!INCLUDE[prod_short](includes/cds_long_md.md)]. Подробнее о [!INCLUDE[prod_short](includes/cds_long_md.md)] см. в разделе [Что такое Dataverse?](/powerapps/maker/common-data-service/data-platform-intro).
 
 Следующие шаги предоставляют обзор шагов интеграции [!INCLUDE[prod_short](includes/cds_long_md.md)] с [!INCLUDE[prod_short](includes/prod_short.md)].
 
@@ -24,19 +24,19 @@ ms.date: 06/14/2021
 
 3. Синхронизируйте данные между приложениями. Дополнительные сведения см. в разделе [Синхронизация Business Central и Dataverse](admin-synchronizing-business-central-and-sales.md). 
 
-## <a name="getting-started-with-"></a><a name="getting-started-with-"></a>Приступая к работе с [!INCLUDE[prod_short](includes/cds_long_md.md)]
+## Начало работы с [!INCLUDE[prod_short](includes/cds_long_md.md)]
 
-Чтобы начать работу с [!INCLUDE[prod_short](includes/cds_long_md.md)], вам понадобится учетная запись Microsoft Power Apps. Если у вас еще нет учетной записи Power Apps, вы можете получить его бесплатно, посетив [powerapps.com](https://make.powerapps.com/?utm_source=padocs&utm_medium=linkinadoc&utm_campaign=referralsfromdoc) и выбрав ссылку **Начать бесплатно**. Чтобы узнать больше о том, как начать работу с [!INCLUDE[prod_short](includes/cds_long_md.md)], см. модуль [Начало работы с Dataverse](/training/modules/get-started-with-powerapps-common-data-service/) из обучения Microsoft.
+Чтобы начать работу с [!INCLUDE[prod_short](includes/cds_long_md.md)], вам понадобится учетная запись Microsoft Power Apps. Если у вас еще нет учетной записи Power Apps, вы можете получить его бесплатно, посетив [powerapps.com](https://make.powerapps.com/?utm_source=padocs&utm_medium=linkinadoc&utm_campaign=referralsfromdoc) и выбрав ссылку **Начать бесплатно**. Чтобы узнать больше о том, как начать работу с [!INCLUDE[prod_short](includes/cds_long_md.md)], перейдите в модуль [Начало работы с Dataverse](/training/modules/get-started-with-powerapps-common-data-service/) из обучения Microsoft.
 
-## <a name="bi-directional-or-uni-directional-data-synchronization"></a><a name="bi-directional-or-uni-directional-data-synchronization"></a>Двунаправленная или однонаправленная синхронизация данных
+## Двунаправленная или однонаправленная синхронизация данных
 
-В зависимости от потребностей вашего бизнеса, вы можете настроить интеграцию для синхронизации данных из одного бизнес-приложения Dynamics 365 в другое или наоборот, либо в обоих направлениях в режиме, близком к режиму реального времени, через [!INCLUDE[prod_short](includes/cds_long_md.md)]. Например, если вы интегрируете [!INCLUDE[prod_short](includes/prod_short.md)] с [!INCLUDE[crm_md](includes/crm_md.md)] через [!INCLUDE[prod_short](includes/cds_long_md.md)], продавец может создать заказ на продажу в [!INCLUDE[crm_md](includes/crm_md.md)], и заказ будет синхронизирован с [!INCLUDE[prod_short](includes/prod_short.md)]. И наоборот, из [!INCLUDE[crm_md](includes/crm_md.md)] продавец может просматривать информацию из [!INCLUDE[prod_short](includes/prod_short.md)] о наличии товара в заказе. 
+Вы можете синхронизировать данные из одного бизнес-приложения Dynamics 365 в другое или наоборот, либо в обоих направлениях в режиме, близком к режиму реального времени, через [!INCLUDE[prod_short](includes/cds_long_md.md)]. Например, если вы интегрируете [!INCLUDE[prod_short](includes/prod_short.md)] с [!INCLUDE[crm_md](includes/crm_md.md)], продавец может создать заказ на продажу в [!INCLUDE[crm_md](includes/crm_md.md)], и заказ синхронизируется с [!INCLUDE[prod_short](includes/prod_short.md)]. И наоборот, из [!INCLUDE[crm_md](includes/crm_md.md)] продавец может проверить наличие номенклатуры из заказа в [!INCLUDE[prod_short](includes/prod_short.md)]. 
 
-## <a name="standard-and-custom-entities"></a><a name="standard-and-custom-entities"></a>Стандартные и пользовательские объекты
+## Стандартные и пользовательские сущности
 
 [!INCLUDE[prod_short](includes/cds_long_md.md)] безопасно хранит данные в наборе таблиц, которые представляют собой наборы записей, аналогично тому, как таблица хранит данные в базе данных. [!INCLUDE[prod_short](includes/cds_long_md.md)] включает в себя базовый набор стандартных таблиц, которые охватывают типичные сценарии, но вы также можете создавать собственные таблицы, характерные для вашей организации. В [!INCLUDE[prod_short](includes/prod_short.md)] можно просмотреть стандартные и настраиваемые таблицы, синхронизируемые на странице сопоставления таблиц интеграции.
 
-## <a name="about-the-business-central-base-integration-solution"></a><a name="about-the-business-central-base-integration-solution"></a>О базовом решении интеграции Business Central
+## О базовом решении интеграции Business Central
 
 Базовое решение интеграции является ключевым компонентом интеграции. Это решение добавляет необходимые роли и уровни доступа к учетным записям пользователей для интеграции и создает таблицы, необходимые для сопоставления компании [!INCLUDE[prod_short](includes/prod_short.md)] с бизнес-подразделениями в [!INCLUDE[prod_short](includes/cds_long_md.md)]. 
 
@@ -44,22 +44,43 @@ ms.date: 06/14/2021
 
 * Системный администратор  
 
-Дополнительные сведения см. в разделах [Настройка учетных записей пользователей для интеграции с [!INCLUDE[prod_short](includes/cds_long_md.md)]](admin-setting-up-integration-with-dynamics-sales.md) и [Создание пользователей в Microsoft Dynamics 365 (online) и назначение ролей безопасности](/dynamics365/customer-engagement/admin/create-users-assign-online-security-roles). 
+Чтобы узнать больше об учетных записях пользователей, перейдите к следующим статьям:
+
+* [Настройка учетных записей пользователя для интеграции с [!INCLUDE[prod_short](includes/cds_long_md.md)]](admin-setting-up-integration-with-dynamics-sales.md) 
+* [Создание пользователей в Microsoft Dynamics 365 (online) и назначение ем ролей безопасности](/dynamics365/customer-engagement/admin/create-users-assign-online-security-roles) 
 
 Учетная запись администратора используется только один раз во время установки для изменений конфигурации, которые базовое решение интеграции вносит в [!INCLUDE[prod_short](includes/cds_long_md.md)]. После импорта решения учетная запись больше не требуется. Интеграция будет продолжать использовать учетную запись пользователя, которая была автоматически создана специально для интеграции.
 
 Помимо настройки [!INCLUDE[prod_short](includes/cds_long_md.md)], решение также создает следующие роли в [!INCLUDE[prod_short](includes/cds_long_md.md)] для интеграции:
 
-* **Администратор интеграции** — позволяет пользователям управлять подключением между [!INCLUDE[prod_short](includes/prod_short.md)] и [!INCLUDE[prod_short](includes/cds_long_md.md)]. Обычно она назначается только автоматически созданной учетной записи пользователя для синхронизации.  
-* **Пользователь интеграции** — позволяет пользователям получать доступ к синхронизированным данным. Обычно она назначается автоматически созданной учетной записи пользователя для синхронизации и любым другим пользователя, которому необходимо просматривать синхронизированные данные или получать к ним доступ.
+* **Администратор интеграции** — позволяет пользователям управлять подключением между [!INCLUDE[prod_short](includes/prod_short.md)] и [!INCLUDE[prod_short](includes/cds_long_md.md)]. Обычно эта роль назначается только учетной записи пользователя, автоматически созданной для синхронизации.  
+* **Пользователь интеграции** — позволяет пользователям получать доступ к синхронизированным данным. Как правило, вы назначаете эту роль следующим учетным записям пользователей:
 
-Для получения подробной информации о каждой роли, например о разрешениях и уровнях доступа, см. [Настройка учетных записей пользователей для интеграции с [!INCLUDE[prod_short](includes/cds_long_md.md)]](admin-setting-up-integration-with-dynamics-sales.md).
+  * Учетные записи пользователей, которые автоматически создаются для синхронизации.
+  * Другие пользователи, которым нужен доступ к синхронизированным данным.
 
-Во время настройки соединения создаются сопоставления таблиц интеграции, которые необходимы для синхронизации данных. Сущности в [!INCLUDE[prod_short](includes/cds_long_md.md)] сопоставляются с таблицами и полями таблиц в Business Central посредством таблиц интеграции. Дополнительные сведения см. в разделе [Сопоставление стандартных объектов для синхронизации](admin-synchronizing-business-central-and-sales.md#standard-table-mapping-for-synchronization).
+Чтобы узнать больше о каждой роли, например о разрешениях и уровнях доступа, перейдите в раздел [Настройка учетных записей пользователей для интеграции с [!INCLUDE[prod_short](includes/cds_long_md.md)]](admin-setting-up-integration-with-dynamics-sales.md).
 
-## <a name="see-related-microsoft-training"></a><a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/use-model-driven-apps-common-data-service/)
+Когда вы настраиваете подключение, вы создаете сопоставления таблиц интеграции, которые необходимы для синхронизации данных. Сущности в [!INCLUDE[prod_short](includes/cds_long_md.md)] сопоставляются с таблицами и полями таблиц в [!INCLUDE [prod_short](includes/prod_short.md)] посредством таблиц интеграции. Чтобы узнать больше о сопоставлениях, перейдите к разделу [Сопоставление стандартных сущностей для синхронизации](admin-synchronizing-business-central-and-sales.md#standard-table-mapping-for-synchronization).
 
-## <a name="see-also"></a><a name="see-also"></a>См. также
+## Обработка различий в местной и базовой валютами транзакций
+
+Вы можете подключиться к среде [!INCLUDE[prod_short](includes/cds_long_md.md)], в которой базовая валюта отличается от местной валюты в [!INCLUDE[prod_short](includes/prod_short.md)]. Вы устанавливаете подключение в [!INCLUDE[prod_short](includes/prod_short.md)] на странице **Настройка подключения Dataverse** или с помощью мастера настройки **Настройка подключения к Dataverse**.
+
+Чтобы иметь возможность подключения, убедитесь, что в настройке базовой валюты транзакции в [!INCLUDE[prod_short](includes/cds_long_md.md)] указана валюта, установленная на странице **Валюты** в [!INCLUDE [prod_short](includes/prod_short.md)], и по крайней мере один валютный курс указан для валюты на странице **Валютные курсы**.
+
+Приведем пример. Вы подключаете [!INCLUDE[prod_short](includes/cds_long_md.md)] с евро (EUR), установленным в качестве местной валюты на странице **Настройка ГК**, к среде [!INCLUDE[prod_short](includes/cds_long_md.md)], в которой в качестве базовой валюты транзакции задан доллар США (USD). Вам понадобятся доллары США на странице **Валюты** в [!INCLUDE [prod_short](includes/prod_short.md)] и соответствующий валютный курс. 
+
+Когда вы включаете подключение к [!INCLUDE[prod_short](includes/cds_long_md.md)], [!INCLUDE [prod_short](includes/prod_short.md)] добавляет его локальную валюту в сущность **Валюта** в [!INCLUDE[prod_short](includes/cds_long_md.md)] с валютным курсом из поля **Коэффициент курса валюты** на странице **Валютные курсы**.
+
+Синхронизация валют однонаправленная, из [!INCLUDE [prod_short](includes/prod_short.md)] в [!INCLUDE [!INCLUDE[prod_short](includes/cds_long_md.md)], денежные суммы конвертируются и синхронизируются следующим образом:
+
+* Суммы в базовой валюте [!INCLUDE[prod_short](includes/cds_long_md.md)] конвертируются в местную валюту [!INCLUDE [prod_short](includes/prod_short.md)] на основе последнего обменного курса, синхронизированного с [!INCLUDE [prod_short](includes/prod_short.md)].
+* Суммы в местной валюте [!INCLUDE [prod_short](includes/prod_short.md)] синхронизируются с местной валютой [!INCLUDE [prod_short](includes/prod_short.md)] в одной из других (не базовых) валют в [!INCLUDE[prod_short](includes/cds_long_md.md)].
+
+## См. соответствующее [обучение Microsoft](/training/modules/use-model-driven-apps-common-data-service/)
+
+## См. также
 
 [Модели владения данными](admin-cds-company-concept.md)  
 <!--needs to be removed as this is moved to dev-itpro docs[Walkthrough: Customizing an Integration with Dataverse](\dynamics365\business-central\dev-itpro\administration\administration-custom-cds-integration) -->
