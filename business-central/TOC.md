@@ -106,8 +106,8 @@
 ##### [Об учете строки финансового журнала](design-details-general-journal-post-line-overview.md)  
 ##### [Технические подробности: структура интерфейса учета](design-details-posting-interface-structure.md)  
 ##### [Технические подробности: структура механизма учета](design-details-posting-engine-structure.md)  
-
-## Попробовать
+#### [Технические подробности: невычитаемый НДС](design-details-nondeductible-vat.md)
+## Пробное использование
 ### [Регистрация для бесплатного пробного использования Dynamics 365 Business Central](trial-signup.md)
 ### [Вопросы и ответы о пробном использовании Dynamics 365 Business Central](trial-faq.md)
 ### [Пробные версии и подписки (только на английском языке)](/dynamics365/business-central/dev-itpro/administration/trials-subscriptions?toc=/dynamics365/business-central/toc.json)
