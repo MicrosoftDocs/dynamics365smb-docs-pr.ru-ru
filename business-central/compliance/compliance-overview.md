@@ -9,7 +9,7 @@ ms.date: 04/25/2023
 ms.custom: bap-template
 ---
 
-# <a name="compliance-overview"></a>Обзор соответствия
+# Обзор соответствия
 
 Это содержимое содержит сведения о соответствии в связи с [!INCLUDE[prod_short](../includes/prod_short.md)].  
 

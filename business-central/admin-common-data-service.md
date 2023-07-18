@@ -9,7 +9,7 @@ ms.date: 06/28/2023
 ms.custom: bap-template
 ---
 
-# <a name="integrate-with-microsoft-dataverse"></a>Интеграция с Microsoft Dataverse
+# Интеграция с Microsoft Dataverse
 
 Бизнес-приложения часто используют данные из более чем одного источника. [!INCLUDE[prod_short](includes/cds_long_md.md)] объединяет данные в единый набор логики, облегчающей подключение [!INCLUDE[prod_short](includes/prod_short.md)] к другим приложениям Dynamics 365. Например, [!INCLUDE[crm_md](includes/crm_md.md)] или ваше собственное приложение, созданное на основе [!INCLUDE[prod_short](includes/cds_long_md.md)]. Подробнее о [!INCLUDE[prod_short](includes/cds_long_md.md)] см. в разделе [Что такое Dataverse?](/powerapps/maker/common-data-service/data-platform-intro).
 
@@ -24,19 +24,19 @@ ms.custom: bap-template
 
 3. Синхронизируйте данные между приложениями. Дополнительные сведения см. в разделе [Синхронизация Business Central и Dataverse](admin-synchronizing-business-central-and-sales.md). 
 
-## <a name="get-started-with-"></a>Начало работы с [!INCLUDE[prod_short](includes/cds_long_md.md)]
+## Начало работы с [!INCLUDE[prod_short](includes/cds_long_md.md)]
 
 Чтобы начать работу с [!INCLUDE[prod_short](includes/cds_long_md.md)], вам понадобится учетная запись Microsoft Power Apps. Если у вас еще нет учетной записи Power Apps, вы можете получить его бесплатно, посетив [powerapps.com](https://make.powerapps.com/?utm_source=padocs&utm_medium=linkinadoc&utm_campaign=referralsfromdoc) и выбрав ссылку **Начать бесплатно**. Чтобы узнать больше о том, как начать работу с [!INCLUDE[prod_short](includes/cds_long_md.md)], перейдите в модуль [Начало работы с Dataverse](/training/modules/get-started-with-powerapps-common-data-service/) из обучения Microsoft.
 
-## <a name="bi-directional-or-uni-directional-data-synchronization"></a>Двунаправленная или однонаправленная синхронизация данных
+## Двунаправленная или однонаправленная синхронизация данных
 
 Вы можете синхронизировать данные из одного бизнес-приложения Dynamics 365 в другое или наоборот, либо в обоих направлениях в режиме, близком к режиму реального времени, через [!INCLUDE[prod_short](includes/cds_long_md.md)]. Например, если вы интегрируете [!INCLUDE[prod_short](includes/prod_short.md)] с [!INCLUDE[crm_md](includes/crm_md.md)], продавец может создать заказ на продажу в [!INCLUDE[crm_md](includes/crm_md.md)], и заказ синхронизируется с [!INCLUDE[prod_short](includes/prod_short.md)]. И наоборот, из [!INCLUDE[crm_md](includes/crm_md.md)] продавец может проверить наличие номенклатуры из заказа в [!INCLUDE[prod_short](includes/prod_short.md)]. 
 
-## <a name="standard-and-custom-entities"></a>Стандартные и пользовательские сущности
+## Стандартные и пользовательские сущности
 
 [!INCLUDE[prod_short](includes/cds_long_md.md)] безопасно хранит данные в наборе таблиц, которые представляют собой наборы записей, аналогично тому, как таблица хранит данные в базе данных. [!INCLUDE[prod_short](includes/cds_long_md.md)] включает в себя базовый набор стандартных таблиц, которые охватывают типичные сценарии, но вы также можете создавать собственные таблицы, характерные для вашей организации. В [!INCLUDE[prod_short](includes/prod_short.md)] можно просмотреть стандартные и настраиваемые таблицы, синхронизируемые на странице сопоставления таблиц интеграции.
 
-## <a name="about-the-business-central-base-integration-solution"></a>О базовом решении интеграции Business Central
+## О базовом решении интеграции Business Central
 
 Базовое решение интеграции является ключевым компонентом интеграции. Это решение добавляет необходимые роли и уровни доступа к учетным записям пользователей для интеграции и создает таблицы, необходимые для сопоставления компании [!INCLUDE[prod_short](includes/prod_short.md)] с бизнес-подразделениями в [!INCLUDE[prod_short](includes/cds_long_md.md)]. 
 
@@ -63,7 +63,7 @@ ms.custom: bap-template
 
 Когда вы настраиваете подключение, вы создаете сопоставления таблиц интеграции, которые необходимы для синхронизации данных. Сущности в [!INCLUDE[prod_short](includes/cds_long_md.md)] сопоставляются с таблицами и полями таблиц в [!INCLUDE [prod_short](includes/prod_short.md)] посредством таблиц интеграции. Чтобы узнать больше о сопоставлениях, перейдите к разделу [Сопоставление стандартных сущностей для синхронизации](admin-synchronizing-business-central-and-sales.md#standard-table-mapping-for-synchronization).
 
-## <a name="handle-differences-in-local-and-base-transaction-currencies"></a>Обработка различий в местной и базовой валютами транзакций
+## Обработка различий в местной и базовой валютами транзакций
 
 Вы можете подключиться к среде [!INCLUDE[prod_short](includes/cds_long_md.md)], в которой базовая валюта отличается от местной валюты в [!INCLUDE[prod_short](includes/prod_short.md)]. Вы устанавливаете подключение в [!INCLUDE[prod_short](includes/prod_short.md)] на странице **Настройка подключения Dataverse** или с помощью мастера настройки **Настройка подключения к Dataverse**.
 
@@ -78,9 +78,9 @@ ms.custom: bap-template
 * Суммы в базовой валюте [!INCLUDE[prod_short](includes/cds_long_md.md)] конвертируются в местную валюту [!INCLUDE [prod_short](includes/prod_short.md)] на основе последнего обменного курса, синхронизированного с [!INCLUDE [prod_short](includes/prod_short.md)].
 * Суммы в местной валюте [!INCLUDE [prod_short](includes/prod_short.md)] синхронизируются с местной валютой [!INCLUDE [prod_short](includes/prod_short.md)] в одной из других (не базовых) валют в [!INCLUDE[prod_short](includes/cds_long_md.md)].
 
-## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/use-model-driven-apps-common-data-service/)
+## См. соответствующее [обучение Microsoft](/training/modules/use-model-driven-apps-common-data-service/)
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Модели владения данными](admin-cds-company-concept.md)  
 <!--needs to be removed as this is moved to dev-itpro docs[Walkthrough: Customizing an Integration with Dataverse](\dynamics365\business-central\dev-itpro\administration\administration-custom-cds-integration) -->
