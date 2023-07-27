@@ -6,17 +6,17 @@ ms.topic: overview
 ms.search.keywords: 'account schedule, analysis, reporting, financial report, business intelligence, KPI'
 ms.search.form: '6316, 6317'
 ms.reviewer: jswymer
-ms.date: 04/26/2023
+ms.date: 07/17/2023
 ms.author: jswymer
 ms.custom: bap-template
 ---
-# <a name="introduction-to--and-power-bi"></a>Введение в [!INCLUDE[prod_short](includes/prod_short.md)] и Power BI
+# Введение в [!INCLUDE[prod_short](includes/prod_short.md)] и Power BI
 
 Получать аналитические сведения о ваших данных [!INCLUDE[prod_short](includes/prod_short.md)] легко с помощью [Power BI](https://powerbi.microsoft.com) — системы визуализации данных от Microsoft. Power BI извлекает данные [!INCLUDE[prod_short](includes/prod_short.md)], позволяющие вам создавать панели мониторинга и отчеты на основе этих данных. Power BI предоставляет гибкую альтернативу встроенным отчетам [!INCLUDE[prod_short](includes/prod_short.md)], позволяя детализировать и настраивать визуализацию и даже объединять данные из разных компаний в [!INCLUDE[prod_short](includes/prod_short.md)]. Некоторые отчеты Power BI также можно встроить в Business Central и просматривать, не выходя из системы. Более сложные панели мониторинга лучше использовать с веб-сайта Power BI.
 
 ![Power BI и Business Central.](media/power-bi-intro.png)
 
-## <a name="what-you-can-do-with-power-bi-and-"></a>Что можно делать с Power BI и [!INCLUDE[prod_short](includes/prod_short.md)]
+## Что можно делать с Power BI и [!INCLUDE[prod_short](includes/prod_short.md)]
 
 Есть разные возможности для работы с [!INCLUDE[prod_short](includes/prod_short.md)] и Power BI. Некоторые вещи можете делать из Power BI, а все остальное делается из [!INCLUDE[prod_short](includes/prod_short.md)]. Кроме того, некоторые функции доступны только с [!INCLUDE[prod_short](includes/prod_short.md)] Online, но не с On-Premises. Следующая таблица дает вам обзор.
 
@@ -30,7 +30,7 @@ ms.custom: bap-template
 
 <a name="onprem"><sup>*</sup></a> Для этой функции требуется зарегистрированное приложение для Business Central в Microsoft Azure. Для получения дополнительной информации см. статью [Регистрация Business Central On-Premises в Azure AD для интеграции с другими службами](/dynamics365/business-central/dev-itpro/administration/register-app-azure).
 
-## <a name="get-ready-to-use-power-bi"></a>Подготовка к использованию Power BI
+## Подготовка к использованию Power BI
 
 Есть несколько задач, которые необходимо выполнить, прежде чем вы сможете начать использовать Power BI с [!INCLUDE[prod_short](includes/prod_short.md)]. <!-- Some of the tasks are typically only done by administrators or super users.--> Задачи будут зависеть от вашей роли в вашей организации и от того, что вы хотите делать с Power BI:
 
@@ -45,7 +45,7 @@ ms.custom: bap-template
 |Предоставление данных Business Central для Power BI||![это флажок.](media/check.png)|![снова флажок](media/check.png)|[Предоставлять данные через страницы API или веб-службы OData](admin-powerbi-setup.md#exposedata)
 |Включение интеграции Power BI<br />(только локальная версия)||![это флажок.](media/check.png)||[Настройка локальной версии Business Central для интеграции Power BI](admin-powerbi-setup.md#setup)|
 
-## <a name="track-your-business-kpis-with-power-bi-metrics"></a>Отслеживание КПЭ вашего бизнеса с помощью метрик Power BI
+## Отслеживание КПЭ вашего бизнеса с помощью метрик Power BI
 
 Если вы используете Power BI для обработки данных [!INCLUDE[prod_short](includes/prod_short.md)], вы легко можете отслеживать важные для вас КПЭ или метрики. 
 
@@ -53,27 +53,26 @@ ms.custom: bap-template
 
 Настройка метрик Power BI предполагает четыре шага:
 
-1. Создайте систему показателей в службе Power BI . См. статью [Создание систем показателей в Power BI](/power-bi/create-reports/service-goals-create).
-2. Добавьте _метрики_ , которые вы хотите отслеживать, подключившись к своему отчету Power BI по телеметрии. См. раздел [Создание подключенных метрик](/power-bi/create-reports/service-goals-create-connected).
-3. Чтобы добавить оповещения, определите правила статуса для своих метрик. См. раздел [Создание автоматических правил статуса для метрик](/power-bi/create-reports/service-metrics-status-rules).
+1. Создайте систему показателей в службе Power BI . Подробнее см. в статье [Создание систем показателей в Power BI](/power-bi/create-reports/service-goals-create).  
+2. Добавьте _метрики_ , которые вы хотите отслеживать, подключившись к своему отчету Power BI по телеметрии. Подробнее см. в статье [Создание подключенных метрик](/power-bi/create-reports/service-goals-create-connected).  
+3. Чтобы добавить оповещения, определите правила статуса для своих метрик. Подробнее см. в статье [Создание автоматических правил состояния для метрик](/power-bi/create-reports/service-metrics-status-rules).  
 
-   Этот шаг позволяет автоматизировать обновления статуса на основе правил, регулирующих данную метрику. Правила инициируют изменения в зависимости от значения, процента достижения цели, условий по дате или комбинации этих трех факторов, что делает правила максимально универсальными. Для подключенных метрик эти правила статуса обновляются каждый раз, когда обновляются данные в вашей системе показателей.
-4. Наконец, следите за метриками, получая оповещения в Teams или по электронной почте. См. статью [Отслеживание метрик](/power-bi/create-reports/service-metrics-follow).
+    Этот шаг позволяет автоматизировать обновления статуса на основе правил, регулирующих данную метрику. Правила инициируют изменения в зависимости от значения, процента достижения цели, условий по дате или комбинации этих трех факторов, что делает правила максимально универсальными. Для подключенных метрик эти правила статуса обновляются каждый раз, когда обновляются данные в вашей системе показателей.
+4. Наконец, следите за метриками, получая оповещения в Teams или по электронной почте. Подробнее см. в статье [Отслеживание метрик](/power-bi/create-reports/service-metrics-follow).  
 
-Дополнительные сведения о метриках Power BI см. в статье [Начало работы с метриками в Power BI](/power-bi/create-reports/service-goals-introduction).
+Подробнее о метриках Power BI см. в статье [Начало работы с метриками в Power BI](/power-bi/create-reports/service-goals-introduction).
 
 > [!NOTE]
 > В настоящее встраивать системы показателей из метрик Power BI в [!INCLUDE[prod_short](includes/prod_short.md)] невозможно.
 
-## <a name="next-steps"></a>Дальнейшие шаги
+## Дальнейшие шаги
 
 - Если вы администратор, которому нужно настроить Power BI в [!INCLUDE[prod_short](includes/prod_short.md)], см. статью [Включение интеграции Power BI](admin-powerbi-setup.md).
 - Если интеграция с Power BI уже настроена и вы хотите опробовать ее функции, см. статью [Работа с отчетами Power BI в Business Central](across-working-with-powerbi.md).
 
+## См. соответствующее [обучение Microsoft](/training/modules/configure-powerbi-excel-dynamics-365-business-central/index)
 
-## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/configure-powerbi-excel-dynamics-365-business-central/index)
-
-## <a name="see-also"></a>См. также
+## См. также
 
 [Бизнес-аналитика](bi.md)  
 [Настройка [!INCLUDE[prod_short](includes/prod_short.md)]](setup.md)  
