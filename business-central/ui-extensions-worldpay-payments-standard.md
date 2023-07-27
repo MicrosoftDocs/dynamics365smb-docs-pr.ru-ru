@@ -10,7 +10,7 @@ ms.workload: na
 ms.date: 06/23/2021
 ms.author: bholtorf
 ---
-# Расширение WorldPay Payments Standard
+# <a name="the-worldpay-payments-standard-extension"></a>Расширение WorldPay Payments Standard
 
 > [!CAUTION]
 > Расширение WorldPay Payments Standard вскоре станет нерекомендуемым к использованию. Код будет помечен как устаревший начиная с волны 2 выпуска 2023 года. Приложение будет активно на протяжении следующих трех основных выпусков, после чего будет удалено.   
@@ -20,7 +20,7 @@ ms.author: bholtorf
 
 Включение расширения службы платежей в [!INCLUDE[prod_short](includes/prod_short.md)] бесплатно, однако вам потребуется связаться со службой платежей для получения учетной записи. Дополнительные сведения см. в разделе [Включение платежей клиентов через службу платежей](sales-how-enable-payment-service-extensions.md).
 
-## См. также
+## <a name="see-also"></a>См. также
 
 [Настройка [!INCLUDE[prod_short](includes/prod_short.md)] с помощью расширений](ui-extensions.md)  
 [Настройка продаж](sales-setup-sales.md)  
