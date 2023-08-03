@@ -10,7 +10,7 @@ ms.date: 01/25/2023
 ms.custom: bap-template
 ms.search.form: '7315, 7349, 7351, 7382, 7384, 7386, 7387, 7399, 7400, 9314, 9330, 9345'
 ---
-# <a name="moving-items"></a>Перемещение товаров
+# Перемещение товаров
 
 Вы можете перемещать товары на своем складе разными способами, в зависимости от того, как вы настроили свой склад. Сложность может быть разной:
 
@@ -36,9 +36,9 @@ ms.search.form: '7315, 7349, 7351, 7382, 7384, 7386, 7387, 7399, 7400, 9314, 933
 |Используйте журнал складского перемещения, внутренний подбор и размещение для перемещения товаров в расширенных настройках складов с расширенным подбором и размещением.|[Перемещение товаров в расширенных конфигурациях склада](warehouse-how-to-move-items-in-advanced-warehousing.md)|  
 |Реструктуризация склада с введением новых кодов и характеристик ячеек и, возможно, их перемещением.|[Изменение структуры складов](warehouse-how-to-restructure-warehouses.md)|  
 
-## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/manage-internal-warehouse-processes/)
+## См. соответствующее [обучение Microsoft](/training/modules/manage-internal-warehouse-processes/)
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Обзор управления складом](design-details-warehouse-management.md)  
 [Запасы](inventory-manage-inventory.md)  
