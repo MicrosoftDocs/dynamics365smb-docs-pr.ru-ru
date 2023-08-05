@@ -11,7 +11,7 @@ ms.search.keywords: 'sandbox, demo, develop'
 ms.date: 12/20/2021
 ms.author: solsen
 ---
-# <a name="sandbox-environments-in-"></a>Среды-песочницы в [!INCLUDE[prod_short](includes/prod_short.md)]
+# Среды-песочницы в [!INCLUDE[prod_short](includes/prod_short.md)]
 
 В [!INCLUDE[prod_short](includes/prod_short.md)] Online вы можете легко получить безопасную среду, в которой тестировать, обучать или устранять неполадки, не нарушая рабочие процессы вашей компании или бизнес-данные. Такая непроизводственная среда называется *песочницей*. В среде песочницы, изолированной от производственной среды, можно безопасно исследовать, обучать, демонстрировать, разрабатывать и тестировать сервисы без риска повлиять на данные или настройки производственной среды.  
 
@@ -35,13 +35,13 @@ ms.author: solsen
 <!--* [Complete sample data](#complete-sample-data)  -->
 * [Конструктор](#designer)  
 
-## <a name="advanced-user-experience"></a>Повышенное удобство работы пользователей
+## Повышенное удобство работы пользователей
 
 Можно включить и попробовать полные функциональные возможности стандартной версии [!INCLUDE[prod_short](includes/prod_short.md)] в среде арендатора песочницы, задав поле **Опыт** на странице **Информация о компании** на *Premium*. Найдите страницу **Информация о компании** в :::image type="content" source="media/ui-experience/settings_icon_small.png" alt-text="Значок настроек."::: меню.  
 
 После того как вы включили вариант настройки *Premium*, вы получаете доступ ко всем стандартным профилям (ролям) и ролевым центрам стандартной версии. Кроме того, вы можете связаться с партнером по перепродаже для демонстрации возможностей. Для получения дополнительной информации прочитайте раздел [Как найти партнера по перепродаже?](across-faq.yml#how-do-i-find-a-reselling-partner).  
 
-### <a name="complete-sample-data"></a>Полные демонстрационные данные
+### Полные демонстрационные данные
 
 В ситуациях, когда вам нужны дополнительные примеры данных, обратитесь к своему партнеру по перепродаже.
 <!-- In the sandbox environment, you can also create a new company with the **Advanced Evaluation - Complete Sample Data** option so that you can take training or step through walkthroughs that require additional sample data, such as [Walkthrough: Receiving and Putting Away in Basic Warehouse Configurations](walkthrough-receiving-and-putting-away-in-basic-warehousing.md).   -->
@@ -56,7 +56,7 @@ ms.author: solsen
 
 When the assisted setup guide completes, you can start exploring the new company with the complete sample data. For more information, see [Creating New Companies in [!INCLUDE[prod_short](includes/prod_short.md)]](about-new-company.md).  -->
 
-## <a name="designer"></a>Конструктор
+## Конструктор
 
 В среде "песочницы" включен **Конструктор**. Вы можете активировать конструктора, выбрав значок дизайна ![Конструктор.](./media/across-sandbox/sandbox-inclient-design-icon.png) на странице или выбрав пункт меню **Дизайн** в ![Параметры](media/ui-experience/settings_icon_small.png) Меню параметров.  
 
@@ -64,9 +64,9 @@ When the assisted setup guide completes, you can start exploring the new company
 
 <!-- ![In-client Designer.](./media/across-sandbox/sandbox-inclient-designer.png) -->
 
-## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/admin-online-dynamics-365-business-central/)
+## См. соответствующее [обучение Microsoft](/training/modules/admin-online-dynamics-365-business-central/)
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 [Пробные версии и подписки [!INCLUDE[prod_long](includes/prod_long.md)]](/dynamics365/business-central/dev-itpro/administration/trials-subscriptions)  

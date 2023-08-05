@@ -11,7 +11,7 @@ ms.search.form: 1123
 ms.date: 04/01/2021
 ms.author: edupont
 ---
-# <a name="accounting-for-costs"></a>Учет по затратам
+# Учет по затратам
 Учета затрат помогает оценить затраты на ведение бизнеса. Чтобы начать учет затрат, см. следующие разделы.  
 
 |Задача|Ссылка|  
@@ -24,9 +24,9 @@ ms.author: edupont
 |Узнайте о процессах создания бюджетов себестоимости.|[Создание бюджетов расходов](finance-create-cost-budgets.md)|
 |Отмена операций бюджета затрат из регистра бюджета затрат.|[Удаление операций бюджета затрат](finance-how-to-delete-cost-budget-entries.md)|
 
-## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/paths/use-cost-accounting-dynamics-365-business-central/)
+## См. соответствующее [обучение Microsoft](/training/paths/use-cost-accounting-dynamics-365-business-central/)
 
-## <a name="see-also"></a>См. также
+## См. также  
 [Финансы](finance.md)  
 [Управление себестоимостью товаров](finance-manage-inventory-costs.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

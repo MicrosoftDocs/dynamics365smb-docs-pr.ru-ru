@@ -11,7 +11,7 @@ ms.date: 04/12/2021
 ms.author: jswymer
 ---
 
-# <a name="changing-company-and-other-settings-in-teams"></a>Изменение компании и других параметров в Teams
+# Изменение компании и других параметров в Teams
 
 [!INCLUDE [online_only](includes/online_only.md)]
 
@@ -27,7 +27,7 @@ ms.author: jswymer
 
    ![Параметры для Business Central из поля сообщения.](media/teams-settings-command-box.png)
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Обзор интеграции Business Central и Microsoft Teams](across-teams-overview.md)  
 [Установка приложения [!INCLUDE [prod_short](includes/prod_short.md)] для Microsoft Teams](across-install-app-for-teams.md)  
@@ -37,7 +37,7 @@ ms.author: jswymer
 [Устранение неполадок Teams](admin-teams-troubleshooting.md)  
 [Разработка для интеграции Teams](/dynamics365/business-central/dev-itpro/developer/devenv-develop-for-teams)  
 
-## [!INCLUDE[prod_short](includes/free_trial_md.md)]
+## [!INCLUDE[prod_short](includes/free_trial_md.md)]  
 
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

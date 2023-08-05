@@ -350,6 +350,7 @@
 
 ### Управление НДС
 #### [Обзор управления НДС](finance-manage-vat.md)
+#### [Транзакции покупки третьей стороной в ЕС](finance-how-to-eu3party-trade-purchase.md)
 #### Настройка НДС
 ##### [Настройка налога на добавленную стоимость](finance-setup-vat.md)
 ##### [Настройка учетных групп](finance-posting-groups.md#tax-posting-groups)
