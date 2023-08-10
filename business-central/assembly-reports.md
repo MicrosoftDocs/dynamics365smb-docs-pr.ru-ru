@@ -8,21 +8,21 @@ ms.search.form: '900, 901, 902, 903, 904, 907, 910, 916, 920, 921, 922, 923, 940
 ms.date: 06/01/2021
 ms.author: andreipa
 ---
-# Отчеты по сборке и аналитика в Business Central
+# <a name="assembly-reports-and-analytics-in-business-central"></a>Отчеты по сборке и аналитика в Business Central
 
 Отчетность по сборке в [!INCLUDE [prod_short](includes/prod_short.md)] позволяет профессионалам производства и бизнеса получать информацию и статистические данные о текущей и прошлой деятельности по сборке.  
 
-## Отчеты
+## <a name="reports"></a>Отчеты
 
 [!INCLUDE [assembly_reports](includes/assembly-reports-include.md)]
 
-## Задачи
+## <a name="tasks"></a>Задачи
 
 В следующих статьях описываются некоторые ключевые задачи анализа состояния вашего бизнеса:
 
 * [Просмотр наличия товара](inventory-how-availability-overview.md)
 
-## См. также
+## <a name="see-also"></a>См. также
 
 [Управление сборкой](assembly-assemble-items.md)  
 [Работа со сборочными спецификациями](assembly-how-work-assembly-boms.md)  

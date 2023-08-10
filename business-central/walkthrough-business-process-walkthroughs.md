@@ -10,7 +10,7 @@ ms.search.keywords: null
 ms.date: 06/24/2021
 ms.author: edupont
 ---
-# Пошаговые руководства по бизнес-процессам
+# <a name="business-process-walkthroughs"></a>Пошаговые руководства по бизнес-процессам
 
 В этом сборнике пошаговых руководств представлены поэтапные комплексные бизнес-процессы, которые можно выполнять с помощью демонстрационной организации CRONUS. Пошаговые руководства состоят из нескольких процедур, некоторые из которых обычно выполняются одним пользователем, а другие включают в себя несколько других ролей пользователей. Чтобы сымитировать рабочую среду, некоторые пошаговые руководства содержат шаги настройки, необходимые для выполнения упражнений в описанном порядке. Эти этапы могут обеспечить понимание типов информации, которую пользователи должны предоставить ИТ-специалистам в своей организации.  
 
@@ -36,7 +36,7 @@ ms.author: edupont
 <!-- |Put received items away in advanced warehouse configurations. **Requires complete sample data**|[Walkthrough: Receiving and Putting Away in advanced warehouse configurations](walkthrough-receiving-and-putting-away-in-advanced-warehousing.md)|   -->
 <!-- |Perform defects management. **Requires complete sample data** |[Walkthrough: Tracing Serial-Lot Numbers](walkthrough-tracing-serial-lot-numbers.md)| -->
 
-## См. также
+## <a name="see-also"></a>См. также
 
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 

@@ -11,7 +11,7 @@ ms.search.form: 5607
 ms.date: 04/01/2021
 ms.author: edupont
 ---
-# Настройка основных средств
+# <a name="setting-up-fixed-assets"></a>Настройка основных средств
 
 До начала работы с основными средствами необходимо определить несколько вещей.  
 
@@ -36,9 +36,9 @@ ms.author: edupont
 | Изучите различные методы расчета амортизации основных средств. |[Методы амортизации](fa-depreciation-methods.md) |
 | Узнайте о том, как применять определенные пользователем методы амортизации. |[Настройка пользовательских методов амортизации](fa-how-setup-user-defined-depreciation-method.md) |
 
-## См. соответствующее [обучение Microsoft](/training/paths/set-up-fixed-assets-management/)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/paths/set-up-fixed-assets-management/)
 
-## См. также
+## <a name="see-also"></a>См. также
 
 [Основные Средства](fa-manage.md)  
 [Финансы](finance.md)  
