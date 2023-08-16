@@ -1995,13 +1995,13 @@
 #### [Технические подробности: структура таблиц](design-details-table-structure.md)
 <!--migrate to BC online-->
 ## Миграция на Business Central Online
-### [Миграция локальных данных](/dynamics365/business-central/dev-itpro/administration/migrate-data?toc=/dynamics365/business-central/toc.json)
-### [Запуск инструмента миграции в облако](/dynamics365/business-central/dev-itpro/administration/migration-tool?toc=/dynamics365/business-central/toc.json)
-### [Управление миграцией в облако](/dynamics365/business-central/dev-itpro/administration/migration-management?toc=/dynamics365/business-central/toc.json)
-### [Миграция из локального экземпляра Business Central](/dynamics365/business-central/dev-itpro/administration/migrate-business-central-on-premises?toc=/dynamics365/business-central/toc.json)
-### [Миграция из Dynamics GP](/dynamics365/business-central/dev-itpro/administration/migrate-dynamics-gp?toc=/dynamics365/business-central/toc.json)
-### [Миграция из Dynamics NAV](/dynamics365/business-central/dev-itpro/upgrade/Upgrade-Considerations#online?toc=/dynamics365/business-central/toc.json)
-### [Вопросы и ответы о миграции в облако](/dynamics365/business-central/dev-itpro/administration/faq-intelligent-cloud?toc=/dynamics365/business-central/toc.json)
+### [Введение](/dynamics365/business-central/dev-itpro/administration/migrate-data?toc=/dynamics365/business-central/toc.json)
+<!--### [Running the Cloud Migration Tool](/dynamics365/business-central/dev-itpro/administration/migration-tool?toc=/dynamics365/business-central/toc.json)-->
+### [Управление миграцией в облако](/dynamics365/business-central/dev-itpro/administration/migration-manage?toc=/dynamics365/business-central/toc.json)
+### [Миграция с локального экземпляра Business Central](/dynamics365/business-central/dev-itpro/administration/migrate-business-central-on-premises?toc=/dynamics365/business-central/toc.json)
+### [Миграция с Dynamics GP](/dynamics365/business-central/dev-itpro/administration/migrate-dynamics-gp?toc=/dynamics365/business-central/toc.json)
+<!--### [Migrating from Dynamics NAV](/dynamics365/business-central/dev-itpro/upgrade/Upgrade-Considerations#online?toc=/dynamics365/business-central/toc.json)-->
+### [Вопросы и ответы о миграции в облако](/dynamics365/business-central/dev-itpro/administration/faq-migrate-data?toc=/dynamics365/business-central/toc.json)
 ## [Администрирование Business Central Online](/dynamics365/business-central/dev-itpro/administration/tenant-administration?toc=/dynamics365/business-central/toc.json)
 ## [Разработка](/dynamics365/business-central/dev-itpro/developer/devenv-dev-overview?toc=/dynamics365/business-central/toc.json)
 ## [Защита и безопасность](/dynamics365/business-central/dev-itpro/security/security-and-protection?toc=/dynamics365/business-central/toc.json)

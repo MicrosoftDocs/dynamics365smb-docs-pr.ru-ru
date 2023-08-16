@@ -10,7 +10,7 @@ ms.search.keywords: 'configure, initialize'
 ms.date: 09/27/2022
 ms.author: edupont
 ---
-# <a name="overview-of-tasks-to-set-up-"></a>Обзор задач по настройке [!INCLUDE[prod_short](includes/prod_short.md)]
+# Обзор задач по настройке [!INCLUDE[prod_short](includes/prod_short.md)]
 
 [!INCLUDE[prod_short](includes/prod_short.md)] содержит стандартные конфигурации для большинства бизнес-процессов, но вы можете изменить их в соответствии с потребностями вашей организации. Статья [Краткое руководство по Business Central](quick-start-business-central.md) поможет вам сделать первые шаги в создании своего собственного [!INCLUDE [prod_short](includes/prod_short.md)]. В этой статье представлен обзор того, как можно настроить [!INCLUDE [prod_short](includes/prod_short.md)] для вашей организации.
 
@@ -55,13 +55,13 @@ ms.author: edupont
 > [!NOTE]
 > Как администратор, вы можете настроить новую организацию в [!INCLUDE[prod_short](includes/prod_short.md)] с помощью служб RapidStart Services — инструмента, предназначенного для ускорения развертывания, повышения качества внедрения, использования единого подхода к внедрению и повышения производительности за счет автоматизации и упрощения повторяющихся задач. Подробнее см. в разделе [Настройка компании с помощью RapidStart Services](admin-set-up-a-company-with-rapidstart.md)
 
-## <a name="set-up-apps"></a>Настройка приложений
+## Настройка приложений
 
 Помимо основных возможностей в [!INCLUDE [prod_short](includes/prod_short.md)], Microsoft добавляет несколько приложений, перечисленных на [странице **Управление расширениями**](https://businesscentral.dynamics.com/?page=2500). Начиная с октября 2022 года каждое приложение предоставляет ссылку для запуска своей страницы настройки — просто выберите действие **Настройка**.  
 
 Вы также можете добавить возможности в свое [!INCLUDE [prod_short](includes/prod_short.md)], добавляя приложения AppSource. Подробнее см. в разделе [Настройка Business Central Online с помощью расширений](ui-extensions.md).  
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Обзор информации о компании](admin-company-information.md)  
 [Администрация](admin-setup-and-administration.md)  

@@ -12,13 +12,13 @@ ms.date: 06/23/2021
 ms.author: edupont
 ---
 
-# <a name="work-with-calendar-dates-and-times"></a>Работа с календарными датами и значениями времени
+# Работа с календарными датами и значениями времени
 
 Даты и время можно вводить несколькими способами. [!INCLUDE[prod_short](includes/prod_long.md)] включает в себя мощные функции, которые ускоряют ввод данных или помогают писать сложные выражения для календаря. Имеются различные места в приложении, в которых можно ввести в полях даты и значения времени. Например, в заказе на продажу можно установить дату отгрузки. При фильтрации данных или подготовке отчета по данным можно ввести даты и время для выделения только данных, в которых вы заинтересованы.
 
 [!INCLUDE [about-ui-learn](includes/about-ui-learn.md)]
 
-## <a name="check-your-region-and-language-settings"></a>Проверьте свои настройки региона и языка
+## Проверьте свои настройки региона и языка
 
 На странице **Мои настройки** указаны **Регион** и **Язык**, которые вы используете в приложении. Данные настройки влияют на способ ввода дат и времени.
 
@@ -33,7 +33,7 @@ ms.author: edupont
 The following sections describe how you can enter dates, times, datetimes, durations, date ranges, and how you use date formulas.
 -->
 
-## <a name="entering-dates"></a>Ввод дат
+## Ввод дат
 
 В поле даты можно ввести дату, используя стандартный формат для региона настройки. Можно использовать различные разделители в различных регионах между днями, месяцами и годами. Например, некоторые регионы используют черточки (mm-dd-yyyy), другие используют наклонные черты (mm/dd/yyyy).  
 
@@ -45,7 +45,7 @@ The following sections describe how you can enter dates, times, datetimes, durat
 
 Для работы продуктивнее с датами и временами можно использовать любой из методов или форматов, которые описаны в следующих разделах.
 
-### <a name="picking-dates-from-the-calendar"></a>Выбор дат из календаря
+### Выбор дат из календаря
 
 Любое поле, в котором отображается значок календаря, можно настроить с помощью средства выбора даты календаря. Для отображения средства выбора даты календаря активируйте значок календаря или выберите сочетание клавиш <kbd>Ctrl</kbd>+<kbd>HOME</kbd> в поле.
 
@@ -53,7 +53,7 @@ The following sections describe how you can enter dates, times, datetimes, durat
 
 См. также [Сочетания клавиш в элементе управления для выбора даты календаря](keyboard-shortcuts.md#calendarshortcuts).
 
-### <a name="day-week-year-pattern"></a>Структура день\-неделя\-год
+### Структура день\-неделя\-год
 
 Можно ввести дату как день недели, за которым следует номер недели и, необязательно, год. Например, Пон25 или пон25 означает понедельник недели 25. Год если не вводить, то используется год рабочей даты.
 
@@ -61,7 +61,7 @@ The following sections describe how you can enter dates, times, datetimes, durat
 
 Схема номера недели всегда ISO 8601, в котором неделя 1 — это неделя, включающая 4-е января или неделя с первым четвергом года.
 
-### <a name="digit-patterns"></a>Цифровые схемы
+### Цифровые схемы
 
 В поле даты можно ввести две, четыре, шесть или восемь цифр:
 
@@ -74,17 +74,17 @@ The following sections describe how you can enter dates, times, datetimes, durat
   > [!NOTE]
   > Если вы используете локальную версию [!INCLUDE[prod_short](includes/prod_short.md)] диапазон двухзначного года может быть другим. Администраторы могут изменить диапазон, изменив параметр **CalendarTwoDigitYearMax** сервера [!INCLUDE[prod_short](includes/prod_short.md)]. Дополнительные сведения см. в разделе [Настройка Business Central Server](/dynamics365/business-central/dev-itpro/administration/configure-server-instance#General).
  
-### <a name="today"></a>Сегодня
+### Сегодня
 
 Введите слово для _сегодня_ на языке, указанном на странице **Мои настройки**, чтобы установить дату записи на сегодняшнюю дату. Вместо ввода всего слова можно ввести часть слова, начиная с начала, например. Например, на русском языке вы можете ввести _c_ или _сег_, если это не начало другого слова.
 
-### <a name="period"></a>периоду
+### периоду
 
 Для фильтрации по определенному учетному периоду введите в поле даты букву п или слово период, затем введите число, которое указывает учетный период, например п2 или период4. Учетный период задается по отношению к финансовому году текущей рабочей даты, которая задана в вашем ролевом центре. Например, если рабочая дата **21.03.22**, то _п1_ или просто _п_ выполняет фильтрацию по первому учетному периоду для финансового года 2022 (например, 01.01.22..31.01.22). _п15_ фильтрует по 15 учетному периоду с начала финансового года 2022 (например, 01.03.23..31.03.23).
 
 Учетные периоды определяются на странице **Учетные периоды**. Для просмотра или изменения учетных периодов откройте страницу [здесь](https://businesscentral.dynamics.com/?page=100).
 
-### <a name="work-date"></a>Рабочая дата
+### Рабочая дата
 
 Используйте рабочую дату, чтобы указать дату, которая не является сегодняшней датой в записях. Например, рабочая дата полезна, когда вам нужно установить определенную дату для нескольких записей. Вы указываете дату работы на странице **Мои настройки**. 
 
@@ -92,13 +92,13 @@ The following sections describe how you can enter dates, times, datetimes, durat
 
 Если вы не указали рабочую дату, будет использоваться сегодняшняя дата. Дополнительные сведения прочитайте в [Изменение базовых настроек, таких как рабочая дата](ui-change-basic-settings.md#work-date).
 
-### <a name="closing-date"></a>Дата закрытия
+### Дата закрытия
 
 При закрытии финансового года можно использовать даты в специальном формате, указывающем на закрытие. Дата закрытия технически лежит между двумя календарными датами, например между 31 декабря и 1 января.
 
 Чтобы указать, что дата является датой закрытия, следует непосредственно перед датой ввести букву З, например З123101. Этот формат можно использовать в сочетании со всеми схемами даты.
 
-### <a name="examples"></a>Примеры
+### Примеры
 
 В следующей таблице содержится несколько примеров дат с использованием всех форматов. Предполагаются настройки региона, которые форматируют даты в соответствии со следующими параметрами: **год.месяц.дата.**, неделя начинается в понедельник и английский язык.
 
@@ -123,7 +123,7 @@ The following sections describe how you can enter dates, times, datetimes, durat
 |в 23|Вторник недели 23 года рабочей даты|
 |в-1|Вторник недели 1 года рабочей даты|
 
-## <a name="setting-ranges"></a><a name="BKMK_SettingDateRanges"></a>Диапазоны дат
+##  <a name="BKMK_SettingDateRanges"></a> Диапазоны дат
 
 В списках, итогах и отчетах можно установить фильтры по датам, времени и дате и времени, содержащие начальное значение и, необязательно, конечное значение для отображения только данных, содержащихся в данном диапазоне. При установке диапазонов дат следует руководствоваться стандартными правилами.
 
@@ -135,7 +135,7 @@ The following sections describe how you can enter dates, times, datetimes, durat
 
 Можно использовать любые допустимые форматы в фильтрах диапазона дат. Например, пон14 3..с 4п при применении к полю даты и времени дает фильтр с 3 утра в понедельник в неделю 14 года текущей рабочей даты, включительно, до 16:00 сегодня, включительно.
 
-## <a name="use-date-formulas"></a>Формулы расчета дат
+## Формулы расчета дат
 
 Формула даты — это краткая сокращенная буквенно-числовая комбинация, задающая способ вычисления дат. Можно вводить формулы дат в различных вычисляемых полях расчета даты или фильтрах.
 
@@ -199,7 +199,7 @@ The following sections describe how you can enter dates, times, datetimes, durat
 > [!IMPORTANT]
 > Если на складе используется базовый календарь, то вводимая в это поле формула даты, например **Время отгрузки**, интерпретирована в соответствии с рабочими днями календаря. Например, 1Н означает семь рабочих дней.
 <!--
-# <a name="entering-date-ranges"></a>Entering Date Ranges
+# Entering Date Ranges
 You can set filters containing a start date and an end date to display only the data contained in that date range or time interval. Special rules apply to the way you set date ranges. Let's take the **Customer Top 10** as an example:
 
 ![Setting a date range in the request page for the Customer Top 10 list.](./media/ui-enter-date-ranges/customer-top10-list.png)
@@ -222,7 +222,7 @@ You can also combine the various format types.
 
 Note that we have used the US date format MMDDYY here. As [!INCLUDE[prod_short](includes/prod_short.md)] becomes available in other markets, you'll be able to use the formats that you are used to.
 
-## <a name="use-date-formulas-1"></a>Use Date Formulas
+## Use Date Formulas
 A date formula is a short, abbreviated combination of letters and numbers that specifies how to calculate dates. You can enter date formulas in various date calculation fields and in recurring frequency fields in recurring journals.
 
 > [!NOTE]
@@ -287,7 +287,7 @@ The following example shows how you can use a minus sign to indicate a date in t
 
 -->
 
-## <a name="entering-times"></a>Ввод времени
+## Ввод времени
 
 При вводе времени можно вставить разделители, отличные от пробелов, между единицами измерения. Если вы используете двойные цифры для каждой единицы до миллисекунд, то это не требуется.
 
@@ -320,11 +320,11 @@ The following example shows how you can use a minus sign to indicate a date in t
 
 Слово "время" на языке, используемом [!INCLUDE[prod_short](includes/prod_long.md)], будет оценено как текущее время на компьютере или мобильном устройстве. Можно ввести любую часть слова, начиная с начала, например в или ВРЕМ.
 
-## <a name="entering-combined-dates-and-times"></a>Ввод комбинированных дат и времени
+## Ввод комбинированных дат и времени
 
 [!INCLUDE [datetimes](includes/datetimes.md)]
 
-## <a name="entering-duration"></a>Ввод продолжительности
+## Ввод продолжительности
 
 Некоторые поля в приложении представляют длительность или прошедшее время, а не определенную дату или время. Длительность вводится в виде числа, за которым следует единица измерения.
 
@@ -345,9 +345,9 @@ The following example shows how you can use a minus sign to indicate a date in t
 
 Например, если по умолчанию используются часы, число 5 будет преобразовано в 5 часов.
 
-## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/explore-modify-info-dynamics-365-business-central/)
+## См. соответствующее [обучение Microsoft](/training/modules/explore-modify-info-dynamics-365-business-central/)
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Работа с [!INCLUDE[prod_short](includes/prod_long.md)]](ui-work-product.md)  
 [Расчет даты для покупок](purchasing-date-calculation-for-purchases.md)  

@@ -10,7 +10,7 @@ ms.search.keywords: 'posting, interface, design'
 ms.date: 06/15/2021
 ms.author: edupont
 ---
-# <a name="design-details-posting-interface-structure"></a>Сведения о проектировании: структура интерфейса учета
+# Сведения о проектировании: структура интерфейса учета
 В структуре интерфейса учета [!INCLUDE[prod_short](includes/prod_short.md)] существует несколько глобальных процедур, использующих одну и ту же структуру:  
   
 * RunWithCheck и RunWithoutCheck вызывают код процедуры — универсальный интерфейс учета для строки финансового журнала.  
@@ -19,7 +19,7 @@ ms.author: edupont
 * UnapplyCustLedgEntry — отмена учета применения клиента, вызываемого из модуля codeunit 226 CustEntry "Применение учтенных операций".  
 * UnapplyVendLedgEntry — отмена учета применения поставщика, вызываемого из модуля codeunit 227 VendEntry "Применение учтенных операций".  
   
-## <a name="see-also"></a>См. также
+## См. также  
 [Сведения о проектировании: структура механизма учета](design-details-posting-engine-structure.md)
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

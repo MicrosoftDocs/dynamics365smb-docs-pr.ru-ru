@@ -10,7 +10,7 @@ ms.search.keywords: 'customer payment, debtor, balance due, AR'
 ms.date: 06/23/2021
 ms.author: edupont
 ---
-# <a name="managing-receivables"></a>Управление дебиторской задолженностью
+# Управление дебиторской задолженностью
 
 Стандартный шаг в любом финансовом процессе — выверка банковских счетов, для которого требуется применить входящие платежи к операциям книги клиентов или поставщиков, чтобы закрыть счета продажи и кредит-ноты покупки как оплаченные.
 
@@ -41,15 +41,15 @@ ms.author: edupont
 |Настройте отклонение, при котором система закрывает счет, даже если платеж, включая все скидки, не полностью покрывает сумму счета.|[Работа с отклонениями в оплате и отклонениями скидки по оплате](finance-payment-tolerance-and-payment-discount-tolerance.md)|
 | Прогноз просрочки платежей для документов продажи. | [Расширение прогноза просрочки платежа](ui-extensions-late-payment-prediction.md) |
 
-## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/paths/process-customer-vendor-payments-dynamics-365-business-central/)
+## См. соответствующее [обучение Microsoft](/training/paths/process-customer-vendor-payments-dynamics-365-business-central/)
 
-## <a name="see-also"></a>См. также
+## См. также
 [Продажи](sales-manage-sales.md)  
 [Управление кредиторской задолженностью](payables-manage-payables.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 [Общие бизнес-функции](ui-across-business-areas.md)
 
-## [!INCLUDE[prod_short](includes/free_trial_md.md)]
+## [!INCLUDE[prod_short](includes/free_trial_md.md)]  
 
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]
