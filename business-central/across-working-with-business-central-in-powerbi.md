@@ -10,15 +10,15 @@ ms.search.keywords: 'account schedule, analysis, reporting, financial report, bu
 ms.date: 09/07/2022
 ms.author: jswymer
 ---
-# Работа с данными [!INCLUDE [prod_short](includes/prod_short.md)] в Power BI
+# <a name="work-with--data-in-power-bi"></a>Работа с данными [!INCLUDE [prod_short](includes/prod_short.md)] в Power BI
 
 В этой статье вы узнаете некоторые основы работы с отчетами и панелями мониторинга в Power BI с использованием [!INCLUDE [prod_short](includes/prod_short.md)] как источника данных. В статье обсуждаются некоторые аспекты, которые помогут вам начать работу в качестве пользователя [!INCLUDE[prod_short](includes/prod_short.md)]. Общие рекомендации и инструкции по использованию Power BI см. в [документации для пользователей Power BI](/power-bi/consumer).
 
-## Подготовка
+## <a name="get-ready"></a>Подготовка
 
 Подпишитесь на службу Power BI. Если вы еще не зарегистрировались, перейдите на [https://powerbi.microsoft.com](https://powerbi.microsoft.com). При регистрации используйте рабочий адрес электронной почты и пароль.
 
-## Начало работы
+## <a name="get-started"></a>Начало работы
 
 Как только у вас будет учетная запись Power BI, вы можете войти в [https://powerbi.microsoft.com/](https://powerbi.microsoft.com/).
 
@@ -30,21 +30,21 @@ ms.author: jswymer
 
 Если вы используете [!INCLUDE[prod_short](includes/prod_short.md)] On-Premises, вам придется начать с нуля, используя Power BI Desktop. Дополнительно отчеты Power BI могут распространяться в виде файлов, которые вы можете отправлять.
 
-## Получение новейших данных
+## <a name="get-the-latest-data"></a>Получение новейших данных
 
 Каждый отчет Power BI основан на наборе данных, который получает данные из источников [!INCLUDE[prod_short](includes/prod_short.md)]. Вы хотите убедиться, что данные в ваших отчетах Power BI актуальны относительно данных в [!INCLUDE[prod_short](includes/prod_short.md)]. Эта концепция называется *обновлением*.  В зависимости от того, как ваша организация настроила Power BI, обновление может не производиться автоматически. Есть два способа обновить данные: вручную или по расписанию. Ручное обновление выполняется по запросу по мере необходимости. Обновление по расписанию позволяет выполнять автоматическое обновление через определенные промежутки времени.
 
-### Обновление вручную
+### <a name="refresh-manually"></a>Обновление вручную
 
 На панели навигации в разделе **Наборы данных** выберите **Больше параметров (...)** рядом с набором данных, затем выберите **Обновить сейчас**.
 
-### Обновление по расписанию
+### <a name="schedule-a-refresh"></a>Обновление по расписанию
 
 На панели навигации в разделе "Наборы данных" выберите "Больше параметров (...)" рядом с набором данных, затем выберите **Запланировать обновление**. Заполните информацию в разделе **Запланировать обновление** и выберите **Применить**.
 
 Дополнительные сведения см. в разделе [Настройка обновления по расписанию](/power-bi/connect-data/refresh-scheduled-refresh)
 
-## <a name="upload"></a>Отправка отчетов из файлов
+## <a name="upload-reports-from-files"></a><a name="upload"></a>Отправка отчетов из файлов
 
 Отчеты Power BI можно распространять среди пользователей в виде файлов .pbix. Если у вас есть файл .pbix, вы можете отправить его в рабочую область. Чтобы отправить отчет, выполните следующие действия:
 
@@ -62,7 +62,7 @@ ms.author: jswymer
 > [!TIP]
 > Если вы используете [!INCLUDE[prod_short](includes/prod_short.md)] Online, вы также можете отправить отчет из [!INCLUDE[prod_short](includes/prod_short.md)]. Дополнительные сведения см. в разделе [Работа с отчетами Power BI в [!INCLUDE [prod_short](includes/prod_short.md)] — отправка отчетов](across-working-with-powerbi.md#upload).
 
-## <a name="share"></a>Предоставление доступа к отчетам другим пользователям
+## <a name="share-reports-with-others"></a><a name="share"></a>Предоставление доступа к отчетам другим пользователям
 
 Когда отчет появится в вашей рабочей области, вы можете поделиться им с другими в своей организации.
 
@@ -71,9 +71,9 @@ ms.author: jswymer
 > [!NOTE]
 > Вы должны иметь [лицензию Power BI Pro](/power-bi/service-features-license-type), и люди, с которыми вы делитесь, тоже. Контент должен находиться в рабочей области с [премиум-емкостью](/power-bi/service-premium-what-is). Дополнительные сведения см. в разделе [Способы поделиться своей работой в Power BI](/power-bi/service-how-to-collaborate-distribute-dashboards-reports).
 
-## См. соответствующее [обучение Microsoft](/training/modules/configure-powerbi-excel-dynamics-365-business-central/index)
+## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/configure-powerbi-excel-dynamics-365-business-central/index)
 
-## См. также
+## <a name="see-also"></a>См. также
 
 [Business Central и Power BI](admin-powerbi.md)  
 [Создание отчетов Power BI для отображения данных [!INCLUDE [prod_long](includes/prod_long.md)]](across-how-use-financials-data-source-powerbi.md)  
