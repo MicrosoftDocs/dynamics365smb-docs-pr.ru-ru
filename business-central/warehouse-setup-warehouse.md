@@ -1,16 +1,16 @@
 ---
 title: Настройка складских процессов
 description: 'Стратегия распределения организации отражена в настройке ее складских процессов, например, местоположений складов.'
-author: SorenGP
+author: brentholtorf
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.form: '5775, 7300, 7301, 7302, 7303, 7304, 7305, 7306, 7307, 7308, 7325, 7344, 7346, 7347, 7353, 7366'
 ms.date: 06/25/2021
-ms.author: edupont
+ms.author: bholtorf
 ---
-# <a name="setting-up-warehouse-management"></a>Настройка управления складом
+# Настройка управления складом
 
 Стратегия распределения организации отражена в настройке ее складских процессов. Сюда входит определение того, как различные товары обрабатываются на различных складах, например уровень управления ячейками, а также объем рабочего процесса, необходимого для складских действий.  
 
@@ -35,9 +35,9 @@ ms.author: edupont
 |Получить подсказки по реорганизации складов, ячеек или зон для улучшения эффективности складских действий.|[Изменение структуры складов](warehouse-how-to-restructure-warehouses.md)|
 |Укажите отчеты по умолчанию, которые будут использоваться для различных типов документов.|[Выбор отчета в Business Central](across-report-selections.md)|
 
-## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/paths/set-up-warehouse-management/)
+## См. соответствующее [обучение Microsoft](/training/paths/set-up-warehouse-management/)
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Запасы](inventory-manage-inventory.md)  
 [Управление сборкой](assembly-assemble-items.md)  

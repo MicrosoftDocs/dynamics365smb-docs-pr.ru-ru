@@ -1,16 +1,16 @@
 ---
 title: Сведения о проектировании — разработка трассировки товара
 description: В этом разделе описывается структура отслеживания товара в Business Central по мере его прохождения через версии продукта.
-author: SorenGP
+author: brentholtorf
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: 'design, item, tracking, tracing'
 ms.date: 06/08/2021
-ms.author: edupont
+ms.author: bholtorf
 ---
-# <a name="design-details-item-tracking-design"></a>Сведения о проектировании: разработка трассировки товара
+# Сведения о проектировании: разработка трассировки товара
 
 Отслеживание товара в [!INCLUDE[prod_short](includes/prod_short.md)] началось с [!INCLUDE [navnow_md](includes/navnow_md.md)]. Функция отслеживания номенклатуры находится в отдельной объектной структуре со сложными ссылками на учтенные документы и записи книги номенклатуры, и она интегрирована с системой резервирования, которая обрабатывает резервирование, отслеживание заказов и обмен сообщениями о действиях. Дополнительные сведения см. в разделе [Сведения о проектировании: резервирование, трассировка заказов и отправка сообщений о действиях](design-details-reservation-order-tracking-and-action-messaging.md) в сведениях о проектировании планирования снабжения.  
 
@@ -33,7 +33,7 @@ Codeunit 22 **Журнал товаров – Строка учета** тепе
 
 Дополнительные сведения см. в разделе [Сведения о проектировании: структура учета трассировки товаров](design-details-item-tracking-posting-structure.md).  
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Сведения о проектировании: трассировка товара](design-details-item-tracking.md)
 

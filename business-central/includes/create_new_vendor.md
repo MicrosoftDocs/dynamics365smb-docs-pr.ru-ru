@@ -1,8 +1,8 @@
 ---
-author: jill-kotel-andersson
+author: brentholtorf
 ms.topic: include
 ms.date: 09/27/2021
-ms.author: edupont
+ms.author: bholtorf
 ---
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать 2.](../media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Поставщики**, а затем выберите связанную ссылку.  

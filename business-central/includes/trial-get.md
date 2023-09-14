@@ -1,8 +1,8 @@
 ---
-author: edupont04
+author: brentholtorf
 ms.topic: include
 ms.date: 04/05/2022
-ms.author: edupont
+ms.author: bholtorf
 ---
 1. Перейдите на [пробный сайт](https://go.microsoft.com/fwlink/?linkid=847861), выберите *Финансы и операции*, а затем в карточке **Dynamics 365 Business Central** выберите кнопку **Попробовать бесплатно**.  
 2. Введите свой рабочий или учебный адрес электронной почты и другие сведения. Вы будете перенаправлены в пробную версию в [https://businesscentral.dynamics.com/](https://businesscentral.dynamics.com/).  

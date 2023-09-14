@@ -5,7 +5,7 @@
 # Начало работы
 ## [Обзор бизнес-функциональности](across-business-functionality.md)
 <!--### [Get Ready for Doing Business](ui-get-ready-business.md)  -->
-## Обучение
+## Изучение
 ### [Каталог учебных ресурсов по Business Central](readiness/readiness-learning-catalog.md)
 ### [Обучение работе с Business Central](/training/dynamics365/business-central?WT.mc_id=dyn365bc_landingpage-docs)
 ### Пошаговые руководства по бизнес-процессам
@@ -77,7 +77,7 @@
 ##### [Технические подробности планирования поставок](design-details-supply-planning.md)
 ##### [Технические подробности: основные понятия системы планирования](design-details-central-concepts-of-the-planning-system.md)  
 ##### [Технические подробности: резервирование, трассировка заказов и сообщения о действиях](design-details-reservation-order-tracking-and-action-messaging.md)  
-##### [Технические подробности: балансировка спроса и поставок](design-details-balancing-demand-and-supply.md)  
+##### [Технические подробности: балансировка требований и поставок](design-details-balancing-demand-and-supply.md)  
 ##### [Технические подробности: обработка политик дозаказа](design-details-handling-reordering-policies.md)  
 ##### [Технические подробности: параметры планирования](design-details-planning-parameters.md)  
 ##### [Технические подробности: таблица "Назначение произ. плана"](design-details-planning-assignment-table.md)  
@@ -122,7 +122,7 @@
 #### [Создание маркетинговых текстов для товаров на базе ИИ](item-marketing-text.md)
 #### [Вопросы и ответы](ai-faq.md)
 
-## Купить
+## Приобретение
 ### [Начало работы с подпиской](trial-signup.md#get-started-with-a-subscription)
 ### [Подготовка к ведению бизнеса](ui-get-ready-business.md)
 
@@ -189,12 +189,12 @@
 ##### [Установка макета для отчета](ui-how-change-layout-currently-used-report.md)
 ### Совместное использование бизнес-данных
 #### [Обзор](across-share-data-features.md)
-#### [Публикация записей Business Central и ссылок на страницы в Teams](across-working-with-teams.md)
-#### [Общий доступ к файлам в OneDrive](across-share-onedrive.md)
+#### [Публикация записей и ссылок на страницы в Teams](across-working-with-teams.md)
+#### [Отправка файлов в OneDrive](across-share-onedrive.md)
 #### [Просмотр и редактирование в Excel](across-work-with-excel.md)
 ### Специальные возможности, сочетания клавиш и сенсорные жесты
 #### [Специальные возможности](ui-accessibility.md)
-#### [Сочетания клавиш](keyboard-shortcuts.md)
+#### [сочетания клавиш;](keyboard-shortcuts.md)
 #### [Краткий справочник сочетаний клавиш (только ПК)](keyboard-shortcuts-cheatsheet.md)
 #### [Сенсорные жесты и жесты пером](touch-gestures.md)
 ### [Устранение неполадок: доступ к камере и геолокации](ui-troubleshooting-camera-location.md)
@@ -207,7 +207,7 @@
 ### [Вопросы и ответы о копировании и вставке](faq-copy-paste.yml)
 ### [Вопросы и ответы о мобильных приложениях](ui-mobile-faq.yml)
 ### [Вопросы и ответы о Teams](teams-faq.md)
-### [Вопросы и ответы об электронном выставлении счетов](faq-electronic-invoicing.yml)
+### [Вопросы и ответы об электронных счетах](faq-electronic-invoicing.yml)
 ### [Минимальные требования](product-requirements.md)
 
 ## Справка и поддержка
@@ -272,15 +272,15 @@
 ##### [Удаление рабочих процессов утверждения](across-how-to-delete-workflows.md)
 <!--data exchange-->
 ### Электронный обмен данными
-#### [Обзор OData Exchange](across-data-exchange.md)
-#### [О платформе обмена данными](across-about-the-data-exchange-framework.md)
+#### [Обзор обмена данными](across-data-exchange.md)
+#### [Об архитектуре обмена данными](across-about-the-data-exchange-framework.md)
 #### Настройка обмена данными
 ##### [Настройка обмена данными](across-set-up-data-exchange.md)
 ##### [Настройка службы обмена документами](across-how-to-set-up-a-document-exchange-service.md)
 ##### [Настройка входящих документов](across-how-setup-income-documents.md)
-##### [Настройка отправки и получения электронных документов](across-how-to-set-up-electronic-document-sending-and-receiving.md)
+##### [Подготовка к отправке и получению документов в электронном виде](across-how-to-set-up-electronic-document-sending-and-receiving.md)
 #### [Сбор платежей с помощью прямого дебетования SEPA](finance-collect-payments-with-sepa-direct-debit.md)
-##### [Использование расширения AMC Banking 365 Fundamentals](ui-extensions-amc-banking.md)
+##### [Настройка расширения AMC Banking 365 Fundamentals](ui-extensions-amc-banking.md)
 ##### [Настройка службы банковских выписок](bank-how-setup-bank-statement-service.md)
 ##### [Настройка банковских счетов](bank-how-setup-bank-accounts.md)
 ##### [Использование XML-схем для подготовки определений обмена данными](across-how-to-use-xml-schemas-to-prepare-data-exchange-definitions.md)
@@ -295,8 +295,8 @@
 ##### [Экспорт платежей в банковский файл](finance-make-payments-with-bank-data-conversion-service-or-sepa-credit-transfer.md#exporting-payments-to-a-bank-file)
 ##### [Совершение платежей с помощью расширения AMC Banking 365 Fundamentals или кредитового перевода SEPA](finance-make-payments-with-bank-data-conversion-service-or-sepa-credit-transfer.md)
 ##### [Сбор платежей с помощью прямого дебетования SEPA](finance-collect-payments-with-sepa-direct-debit.md)
-##### [Сопоставление полей при импорте файлов SEPA CAMT](across-field-mapping-when-importing-sepa-camt-files.md)
-##### [Сопоставление полей для расширения AMC Banking 365 Fundamentals](across-field-mapping-when-exporting-payment-files-using-bank-data-conversion-service.md)
+##### [Сопоставление полей при импорте файлов CAMT SEPA](across-field-mapping-when-importing-sepa-camt-files.md)
+##### [Сопоставление полей при использовании расширения AMC Banking 365 Fundamentals](across-field-mapping-when-exporting-payment-files-using-bank-data-conversion-service.md)
 
 ## Финансы
 ### [Обзор финансов](finance.md)
@@ -328,7 +328,7 @@
 #### Совершение платежей
 ##### [Совершение платежей](payables-make-payments.md)
 ##### [Работа с финансовыми журналами](ui-work-general-journals.md)
-##### [Регистрация платежей и возвратов](payables-how-post-payments-refunds.md)
+##### [Регистрация платежей и возвратов денег](payables-how-post-payments-refunds.md)
 ##### [Предложения по оплатам поставщикам](payables-how-suggest-vendor-payments.md)
 ##### [Совершение платежей с использованием платежных документов](payables-how-work-checks.md)
 ##### [Совершение платежей с помощью расширения AMC Banking 365 Fundamentals или кредитового перевода SEPA](finance-make-payments-with-bank-data-conversion-service-or-sepa-credit-transfer.md)
@@ -353,7 +353,7 @@
 #### [Транзакции покупки третьей стороной в ЕС](finance-how-to-eu3party-trade-purchase.md)
 #### Настройка НДС
 ##### [Настройка налога на добавленную стоимость](finance-setup-vat.md)
-##### [Настройка учетных групп](finance-posting-groups.md#tax-posting-groups)
+##### [Настройка групп учета](finance-posting-groups.md#tax-posting-groups)
 ##### [Настройка невычитаемого НДС](finance-setup-nondeductible-vat.md)
 ##### [Настройка нереализованного НДС](finance-setup-unrealized-vat.md)
 ##### [Настройка отчета по НДС](finance-how-setup-vat-statement.md)
@@ -376,10 +376,10 @@
 
 ### Управление межфирменными транзакциями
 #### [Обзор межфирменной функциональности](intercompany-manage.md)
-#### [Настройка межфирменной функциональности](intercompany-how-setup.md)
+#### [Настройка межфирменных процессов](intercompany-how-setup.md)
 #### [Работа с межфирменными документами и журналами](intercompany-how-work-documents-journals.md)
 #### [Управление межфирменными папками входящих и исходящих](intercompany-how-manage-intercompany-inbox.md)
-#### [Распределение затрат между внутрифирменными партнерами](intercompany-allocate-costs.md)
+#### [Распределение затрат между межфирменными партнерами](intercompany-allocate-costs.md)
 
 ### Учет затрат
 #### [Обзор учета затрат](finance-manage-cost-accounting.md)
@@ -392,12 +392,12 @@
 #### [Удаление операций бюджета затрат](finance-how-to-delete-cost-budget-entries.md)
 
 ### Управление себестоимостью запасов
-#### [Обзор учета себестоимости запасов](finance-manage-inventory-costs.md)
-#### [Об учете себестоимости запасов](finance-learn-about-costing.md)
+#### [Обзор себестоимости запасов](finance-manage-inventory-costs.md)
+#### [О себестоимости запасов](finance-learn-about-costing.md)
 #### [Использование товарных издержек для учета дополнительных торговых затрат](payables-how-assign-item-charges.md)
 #### [О расчете стандартной себестоимости](finance-about-calculating-standard-cost.md)
 #### [О расчете себестоимости единицы](finance-about-calculating-unit-cost.md)
-#### [Технические подробности: учет себестоимости запасов](design-details-inventory-costing.md)
+#### [Технические подробности: себестоимость запасов](design-details-inventory-costing.md)
 #### [Работа с периодами закрытия склада](finance-how-to-work-with-inventory-periods.md)
 #### [Настройка оценки стоимости и учета себестоимости запасов](finance-set-up-inventory-valuation-and-costing.md)
 #### [Переоценка запасов](inventory-how-revalue-inventory.md)
@@ -410,7 +410,7 @@
 ##### [Отчетность по себестоимости](finance-report-costs-and-reconcile-with-the-general-ledger.md)
 ##### [Выверка себестоимости запасов с главной книгой](finance-how-to-post-inventory-costs-to-the-general-ledger.md)
 ##### [Мониторинг хода выполнения работ](projects-how-monitor-progress-performance.md)
-#### [Корректировка и выверка стоимости запасов с главной книгой с помощью очереди заданий](finance-adjust-reconcile-inventory-cost-job-queue.md)
+#### [Коррекция и выверка стоимости запасов с главной книгой с помощью очереди заданий](finance-adjust-reconcile-inventory-cost-job-queue.md)
 
 ### Управление движением денежных средств
 #### [Обзор движения денежных средств](finance-cash-flow-overview.md)
@@ -420,7 +420,7 @@
 #### [Обзор закрытия года](year-close-years-periods.md)
 #### [Работа с учетными периодами и финансовыми годами](finance-accounting-periods-and-fiscal-years.md)
 #### [Определение учетных периодов](finance-how-specify-posting-periods.md)
-#### [Закрытие периодов](year-how-complete-period-end-processes.md)
+#### [Обзор задач по закрытию учетных периодов](year-how-complete-period-end-processes.md)
 #### [Обновление валютных курсов](finance-how-update-currencies.md)
 #### [Распределение затрат и дохода](year-allocate-costs-income.md)
 #### [Подача отчетности по НДС в налоговые органы](finance-how-report-vat.md)
@@ -441,12 +441,12 @@
 
 ### [Консолидация сальдо для организации, которая является клиентом и поставщиком](finance-consolidate-customer-vendor-balances.md)
 ### [Работа с измерениями](finance-dimensions.md)
-### [Диагностика и исправление измерений](finance-troubleshooting-correcting-dimensions.md)
+### [Диагностика и корректировка измерений](finance-troubleshooting-correcting-dimensions.md)
 ### [Валюты в Business Central](finance-currencies.md)
 ### [Создание бюджетов ГК](finance-how-create-budgets.md)
 ### [Учет транзакций непосредственно в главной книге](finance-how-post-transactions-directly.md)
 ### [Сторнирование учтенных журнальных операций и отмена приходных/расходных накладных](finance-how-reverse-journal-posting.md)
-### [Экспорт файлов аудита](finance-how-to-export-audit-files.md)
+### [Экспорт файлов для аудита](finance-how-to-export-audit-files.md)
 ### [Распределение затрат и дохода](year-allocate-costs-income.md)
 ### [Регистрация и возмещение расходов сотрудников](finance-how-record-reimburse-employee-expenses.md)
 ### [Доходы и расходы будущих периодов](finance-how-defer-revenue-expenses.md)
@@ -482,7 +482,7 @@
 ### [Пошаговое руководство. Настройка и выставление счетов на предоплату](walkthrough-setting-up-and-invoicing-sales-prepayments.md)
 ### [Регистрация новых клиентов](sales-how-register-new-customers.md)
 ### [Создание предложений по продаже](sales-how-make-offers.md)
-### [Выставление счетов по продаже](sales-how-invoice-sales.md)
+### [Выставление счетов по продажам](sales-how-invoice-sales.md)
 ### [Продажа продуктов](sales-how-sell-products.md)
 ### [Печать сборочного листа](sales-how-print-picking-list.md)
 ### [Учет продаж](ui-post-sales.md)
@@ -492,7 +492,7 @@
 ### [Создание специальных заказов](sales-how-to-create-special-orders.md)
 ### [Обработка возвратов или отмен продаж](sales-how-process-sales-returns-cancellations.md)
 ### [Обработка заказов на возврат продаж](sales-how-process-sales-returns-orders.md)
-### [Исправление или отмена неоплаченных счетов продажи](sales-how-correct-cancel-sales-invoice.md)
+### [Корректировка или отмена неоплаченных счетов продажи](sales-how-correct-cancel-sales-invoice.md)
 ### [Работа с общими заказами на продажу](sales-how-to-create-blanket-sales-orders.md)
 ### [Объединение расходных накладных в один счет](sales-how-to-combine-shipments-on-a-single-invoice.md)
 ### [Расчет сроков доставки заказов](sales-how-to-calculate-order-promising-dates.md)
@@ -510,14 +510,14 @@
 ### [Запрос предложений](purchasing-how-request-quotes.md)
 ### [Покупка товаров для продажи](purchasing-how-purchase-products-sale.md)
 <!-- ### [Post Purchases](ui-post-purchases.md) -->
-### [Исправление или отмена неоплаченных счетов покупки](purchasing-how-correct-cancel-unpaid-purchase-invoices.md)
+### [Корректировка или отмена неоплаченных счетов покупки](purchasing-how-correct-cancel-unpaid-purchase-invoices.md)
 ### [Объединение приходных накладных в один счет](purchasing-how-to-combine-receipts.md)
 ### [Обработка возвратов или отмен покупок](purchasing-how-process-purchase-returns-cancellations.md)
 ### [Получение и преобразование электронных документов](purchasing-how-to-receive-and-convert-electronic-documents.md)
 ### [Расчет дат для покупок](purchasing-date-calculation-for-purchases.md)
 ### [Объединение повторяющихся записей](sales-how-merge-duplicate-records.md)
 ### [Работа с общими заказами на покупку](sales-how-to-create-blanket-sales-orders.md)
-### [Номера внешних документов в документах покупки](purchasing-ext-doc-no.md)
+### [Внешние номера документов в документах покупки](purchasing-ext-doc-no.md)
 ### [Ввод номеров внешних документов](across-enter-external-document-numbers.md)
 ### [Создание строк типовых покупок](purchasing-how-work-recurring-purchase-lines.md)
 
@@ -588,7 +588,7 @@
 #### [Регистрация взаимодействий с контактами](marketing-interactions.md)
 #### [Создание взаимодействий для контактов и сегментов](marketing-how-create-interactions.md)
 #### [Автоматическая регистрация взаимодействий с контактами](marketing-auto-record-interactions.md)
-### Управление возможностями продаж
+### Управление возможностями в продажах
 #### [Возможности](marketing-manage-sales-opportunities.md)
 #### [Настройка циклов продаж и этапов циклов](marketing-how-setup-opportunity-sales-cycles-stages.md)
 #### [Создание возможностей](marketing-how-create-opportunities.md)
@@ -607,14 +607,14 @@
 ## Планирование
 ### [Производственное планирование](production-planning.md)
 ### [О функциональности планирования](production-about-planning-functionality.md)
-### [Планирование с местами хранения и без мест хранения](production-planning-with-without-locations.md)
+### [Планирование со складами и без складов](production-planning-with-without-locations.md)
 ### [Создание прогноза](production-how-to-create-a-forecast.md)
 ### [Создание производственных заказов из заказов на продажу](production-how-to-create-production-orders-from-sales-orders.md)
-### [Планирование удовлетворения нового спроса по заказам](production-how-to-plan-for-new-demand.md)
+### [Планирование удовлетворения новых требований по заказам](production-how-to-plan-for-new-demand.md)
 ### [Запуск полного планирования (MPS или MRP)](production-how-to-run-mps-and-mrp.md)
 ### [Прямое перепланирование или обновление производственных заказов](production-how-to-replan-refresh-production-orders.md)
-### [Отслеживание связей между спросом и поставками](production-how-track-demand-supply.md)
-### [Журнал заявок](production-about-planning-functionality.md#requisition-worksheet)
+### [Отслеживание связей между требованиями и поставками](production-how-track-demand-supply.md)
+### [Рабочий журнал заявок](production-about-planning-functionality.md#requisition-worksheet)
 ### [Сообщения о действиях](production-how-to-run-mps-and-mrp.md#action-messages)
 <!-- ### [Walkthrough: Planning Supplies Manually](walkthrough-planning-supplies-manually.md) -->
 <!-- ### [Walkthrough: Planning Supplies Automatically](walkthrough-planning-supplies-automatically.md) -->
@@ -622,7 +622,7 @@
 
 ## Управление сборкой
 ### [Сборка товаров](assembly-assemble-items.md)
-### [Отчеты по сборке](assembly-reports.md)
+### [Отчеты по сборкам](assembly-reports.md)
 ### [Сборка на заказ и сборка на склад](assembly-assemble-to-order-or-assemble-to-stock.md)
 ### [Создание предложения по продаже сборки на заказ](assembly-how-to-quote-an-assemble-to-order-sale.md)
 ### [Сборка товаров](assembly-how-to-assemble-items.md)
@@ -695,7 +695,7 @@
 ## Управление сервисом
 ### [Управление сервисом](service-service.md)
 ### Планирование сервиса
-#### [Планирование сервиса](service-plan-service.md)
+#### [Планирование управления сервисом](service-plan-service.md)
 #### [Управление ценами на сервис](service-service-price-management.md)
 #### [Статус сервисного заказа и ремонта](service-service-order-status-and-repair-status.md)
 #### [Статус распределения и статус ремонта сервисных товаров](service-allocation-status-and-repair-status.md)
@@ -752,7 +752,7 @@
 ##### [Просмотр учтенных налоговых кредит-нот](LocalFunctionality\Australia\how-to-view-posted-tax-credit-memos.md)
 ##### [Настройка учета налога на товары и услуги](LocalFunctionality/Australia/how-to-set-up-goods-and-service-tax-posting.md)
 ##### [Расчет налога на товары и услуги в предоплатах](LocalFunctionality/Australia/how-to-calculate-goods-and-services-tax-on-prepayments.md)
-##### [Корректировка зачетных валютных курсов для операций НДС](LocalFunctionality/Australia/how-to-adjust-settlement-exchange-rates-for-vat-entries.md)
+##### [Коррекция зачетных валютных курсов для операций НДС](LocalFunctionality/Australia/how-to-adjust-settlement-exchange-rates-for-vat-entries.md)
 ##### [Печать отчетов по сопоставлению налога на товары и услуги](LocalFunctionality/Australia/how-to-print-goods-and-service-tax-settlement-reports.md)
 #### Банковские операции и платежи
 ##### [Сравнение движения денежных средств по банку](LocalFunctionality/Australia/how-to-compare-bank-cash-flow.md)
@@ -794,9 +794,9 @@
 ### Бельгия
 #### [Локальная функциональность в бельгийской версии](LocalFunctionality/Belgium/belgium-local-functionality.md)
 #### НДС
-##### [Бельгийский НДС](LocalFunctionality/Belgium/belgian-vat.md)
+##### [НДС в Бельгии](LocalFunctionality/Belgium/belgian-vat.md)
 ##### [Настройка невычитаемого НДС](LocalFunctionality/Belgium/how-to-set-up-non-deductible-vat.md)
-##### [Внесение коррекций в НДС вручную](LocalFunctionality/Belgium/how-to-make-manual-corrections-to-vat.md)
+##### [Внесение корректировок в НДС вручную](LocalFunctionality/Belgium/how-to-make-manual-corrections-to-vat.md)
 ##### [Печать периодических отчетов по НДС](LocalFunctionality/Belgium/how-to-print-periodic-vat-reports.md)
 ##### [Настройка бельгийских тарифных номеров](LocalFunctionality/Belgium/how-to-set-up-belgian-tariff-numbers.md)
 ##### [Бельгийская отчетность Интрастат](LocalFunctionality/Belgium/belgian-intrastat-reporting.md)
@@ -828,12 +828,12 @@
 ##### [Ограничение учетного периода](LocalFunctionality/Belgium/how-to-limit-the-posting-period.md)
 ##### [Задание рабочей даты в качестве даты учета](LocalFunctionality/Belgium/how-to-set-the-work-date-as-the-posting-date.md)
 ##### [Требование обязательности использования шаблонов журналов](LocalFunctionality/Belgium/specify-journal-template-mandatory.md)
-##### [Отнесения на будущие периоды в отчетах по книгам продаж и покупок](LocalFunctionality/Belgium/how-to-use-deferrals.md}
+##### [РБП/ДБП в отчетах книги продаж и покупок](LocalFunctionality/Belgium/how-to-use-deferrals.md)
 
 ### Канада
 #### [Локальная функциональность в канадской версии](LocalFunctionality/Canada/canada-local-functionality.md)
 #### Налоги
-##### [Отчетность по налогу с продаж и налогу на товары и услуги в Канаде](LocalFunctionality/Canada/sales-tax-goods-services.md)
+##### [Отчетность по налогу на товары и услуги и гармонизированному налогу с продаж в Канаде](LocalFunctionality/Canada/sales-tax-goods-services.md)
 ##### [Отчетность по налогу с продаж в Канаде](LocalFunctionality/Canada/ca-sales-tax.md)
 ##### [Настройка нереализованного налога с продаж и скидок по оплате за продажи](LocalFunctionality/Canada/how-to-set-up-unrealized-sales-tax-and-sales-payment-discounts.md)
 ##### [Настройка налога на использование и налога на покупки](LocalFunctionality/Canada/how-to-set-up-use-tax-and-purchase-tax.md)
@@ -955,7 +955,7 @@
 ##### [Настройка отчетов по НДС](LocalFunctionality/Germany/how-to-set-up-vat-reports.md)
 ##### [Отчетность по НДС](LocalFunctionality/Germany/vat-reporting.md)
 ##### [Создание отчетов по НДС](LocalFunctionality/Germany/how-to-create-vat-reports.md)
-##### [Исправление отчетов по НДС](LocalFunctionality/Germany/how-to-correct-vat-reports.md)  
+##### [Корректировка отчетов по НДС](LocalFunctionality/Germany/how-to-correct-vat-reports.md)  
 ##### [Предварительные уведомления об НДС по продажам](LocalFunctionality\Germany\how-to-set-up-and-export-sales-vat-advance-notifications.md)
 ##### [Декларирование НДС (VIES)](LocalFunctionality/Germany/how-to-declare-vat-vies-tax.md)
 #### Банковские операции и платежи
@@ -982,7 +982,7 @@
 ##### [Валютные курсы](LocalFunctionality/Germany/currency-exchange-rates.md)
 ##### [Список продаж ЕС в Германии](LocalFunctionality/Germany/eu-sales-list-in-germany.md)
 ##### [Включение регистрационных номеров организаций в отчеты о продажах и покупках](LocalFunctionality/Germany/how-to-include-company-registration-numbers-on-sales-reports-and-purchase-reports.md)
-##### [Печать информации о конфигурации главной книги](LocalFunctionality/Germany/how-to-print-general-ledger-setup-information.md)
+##### [Печать информации о настройке главной книги](LocalFunctionality/Germany/how-to-print-general-ledger-setup-information.md)
 ##### [Сертификация Business Central для рынка Германии (документ на немецком языке)](https://go.microsoft.com/fwlink/?linkid=875256)
 
 ### Исландия
@@ -990,7 +990,7 @@
 #### НДС
 ##### [Печать сводной информации об НДС в документах](LocalFunctionality/Iceland/how-to-print-vat-summary-information-on-documents.md)  
 ##### [Вывод особых данных и отчетов для налогового органа](LocalFunctionality/Iceland/special-data-output-and-reports-for-the-tax-authority.md)
-#### Электронное выставление счетов
+#### Вопросы и ответы об электронных счетах
 ##### [Требование электронного выставления счетов: выпуск счетов в единственном экземпляре](LocalFunctionality/Iceland/electronic-invoicing-requirement-issuing-single-copy-invoice.md)
 #### Общее  
 ##### [Сопоставление кодов IRS с планом счетов](LocalFunctionality/Iceland/how-to-map-irs-numbers-to-chart-of-accounts.md)  
@@ -1039,7 +1039,7 @@
 ###### [Продажа иностранному клиенту](LocalFunctionality/India/GST-Sale-to-Foreign-Customer-Service.md)
 ###### [Продажа зарегистрированному клиенту через зарубежный POS-терминал](LocalFunctionality/India/GST-Sale-to-Registered-Customer-Overseas-POS.md)
 ###### [GST и TCS в транзакции продажи](LocalFunctionality/India/GST-TCS-and-GST-on-Sales-Transaction.md)
-###### [GST и Kerala Flood CESS](LocalFunctionality/India/GST-and-Kerala-Flood-Cess-on-Sales.md)
+###### [Дополнительный сбор GST в связи с наводнением в Керале](LocalFunctionality/India/GST-and-Kerala-Flood-Cess-on-Sales.md)
 ##### GST с возвратов продаж
 ###### [Возврат продажи от зарегистрированного и незарегистрированного клиента](LocalFunctionality/India/GST-Sale-Return-to-Registered-Unregistered-Customer.md)
 ###### [Возврат продажи от зарегистрированного клиента через зарубежный POS-терминал](LocalFunctionality/India/GST-Sales-Return-to-Registered-Customer-Overseas-POS.md)
@@ -1050,19 +1050,19 @@
 ###### [Обзор GST с банковских комиссий](LocalFunctionality/India/GST-Bank-Charges-Overview.md)
 ###### [Транзакции по GST с банковских комиссий](LocalFunctionality/India/GST-Bank-Charges-Transaction.md)
 ##### GST TDS/TCS
-###### [Обзор GST TDS и GST TCS](LocalFunctionality/India/GST-TDS-TCS-Overview.md)
+###### [Обзор GST TDS/TCS](LocalFunctionality/India/GST-TDS-TCS-Overview.md)
 ###### [GST TCS с оплаты](LocalFunctionality/India/GST-TCS-on-Payment.md)
-###### [GST TDS TCS с поступления](LocalFunctionality/India/GST-TDS-TCS-on-Receipt.md)
-##### Корректировки/периодические операции по GST
+###### [GST TDS/TCS с поступления](LocalFunctionality/India/GST-TDS-TCS-on-Receipt.md)
+##### Коррекции/периодические операции по GST
 ###### [Коррекция кредита и обязательства по GST](LocalFunctionality/India/GST-GST-Credit-and-Liability-Adjustment-for-Reverse-Charge-Service-Invoice.md)
 ###### [Выверка GST](LocalFunctionality/India/GST-Reconciliation.md)
 ###### [Электронная транспортная накладная с GST](LocalFunctionality/India/GST-E-Way-Bill.md)
 ###### [Кредитовая коррекция входящего GST](LocalFunctionality/India/GST-Input-Tax-Credit-Adjustment.md)
 ###### [Расчеты по GST](LocalFunctionality/India/GST-Settelement.md)
 ###### [Электронный счет c GST](LocalFunctionality/India/GST-E-Invoice.md)
-##### GST Cess
-###### [Базовая настройка GST Cess](LocalFunctionality/India/GST-Cess-Basic-Setup.md)
-###### [Расчет GST Cess](LocalFunctionality/India/GST-Cess-Calculations.md)
+##### Дополнительный сбор GST
+###### [Базовая настройка дополнительного сбора GST](LocalFunctionality/India/GST-Cess-Basic-Setup.md)
+###### [Расчет дополнительного сбора GST](LocalFunctionality/India/GST-Cess-Calculations.md)
 ##### GST при управлении сервисом
 ###### [GST при управлении сервисом](LocalFunctionality/India/GST-Service-Management.md)
 ##### GST при распределении входящих услуг
@@ -1110,9 +1110,9 @@
 ### Италия
 #### [Локальная функциональность в итальянской версии](LocalFunctionality/Italy/italy-local-functionality.md)
 #### НДС
-##### [Итальянский НДС](LocalFunctionality/Italy/italian-vat.md)
+##### [НДС в Италии](LocalFunctionality/Italy/italian-vat.md)
 ##### [Отправка отчетов по НДС](LocalFunctionality/Italy/how-to-submit-vat-statements.md)
-##### [Исправление отчетов по транзакциям с НДС](LocalFunctionality/Italy/how-to-correct-vat-transactions-reports.md)
+##### [Корректировка отчетов по транзакциям с НДС](LocalFunctionality/Italy/how-to-correct-vat-transactions-reports.md)
 ##### [Создание электронных отчетов по транзакциям с НДС](LocalFunctionality/Italy/how-to-create-electronic-vat-transactions-reports.md)
 ##### [Экспорт отчетов по транзакциям с НДС](LocalFunctionality/Italy/how-to-export-vat-transactions-reports.md)
 ##### [Обновление данных транзакций по НДС](LocalFunctionality\Italy\how-to-update-vat-transactions-data.md)
@@ -1129,7 +1129,7 @@
 ##### [Выпуск платежей поставщикам и счетов клиентам](LocalFunctionality/Italy/how-to-issue-vendor-payments-and-customer-bills.md)
 #### Базовые финансы
 ##### [Закрытие финансового года](LocalFunctionality/Italy/how-to-close-a-fiscal-year.md)
-##### [Определение сумм по дебету и кредиту](LocalFunctionality/Italy/how-to-define-debit-and-credit-amounts.md)
+##### [Определение кредитовых и дебетовых сумм](LocalFunctionality/Italy/how-to-define-debit-and-credit-amounts.md)
 ##### [Сторнирование операций журнала](LocalFunctionality/Italy/reversing-journal-entries.md)
 #### Запасы
 ##### [Настройка исходной себестоимости товаров](LocalFunctionality/Italy/how-to-set-up-initial-item-costs.md)
@@ -1152,10 +1152,10 @@
 ##### [Настройка и формирование отчетов DIOT](LocalFunctionality/Mexico/ui-extensions-setup-and-generate-diot-report-mx.md)
 ##### [Типы налоговой идентификации для Мексики](LocalFunctionality/Mexico/tax-identification-types-for-mexico.md)
 ##### [Пересчет НДС](LocalFunctionality/Mexico/vat-recalculation.md)
-#### Электронное выставление счетов
-##### [Электронное выставление счетов (MX)](LocalFunctionality/Mexico/electronic-invoicing.md)
+#### Вопросы и ответы об электронных счетах
+##### [Электронные счета (MX)](LocalFunctionality/Mexico/electronic-invoicing.md)
 ##### [Настройка веб-служб PAC](LocalFunctionality/Mexico/how-to-set-up-pac-web-services.md)
-##### [Настройка электронного выставления счетов (MX)](LocalFunctionality/Mexico/how-to-set-up-electronic-invoicing.md)
+##### [Настройка электронных счетов (MX)](LocalFunctionality/Mexico/how-to-set-up-electronic-invoicing.md)
 ##### [Формирование электронных счетов (MX)](LocalFunctionality/Mexico/how-to-generate-electronic-invoices.md)
 ##### [Отборочные накладные для путевых листов (Carta de Porte) и заказы на перемещение (MX)](LocalFunctionality/Mexico/packing-slips-transfer-orders.md)
 #### Общее
@@ -1196,7 +1196,7 @@
 ##### [Изменение сумм документа в счетах на покупку и кредит-нотах](LocalFunctionality/Netherlands/how-to-edit-document-amounts-in-purchase-invoices-and-credit-memos.md)  
 ##### [Настройка проверки сумм покупок](LocalFunctionality/Netherlands/how-to-set-up-validation-of-purchase-amounts.md)
 #### Общее
-##### [Товаро-транспортные накладные CMR](LocalFunctionality/Netherlands/cmr-notes.md)
+##### [Товарно-транспортные накладные CMR](LocalFunctionality/Netherlands/cmr-notes.md)
 ##### [Почтовые индексы в Нидерландах](LocalFunctionality/Netherlands/dutch-post-codes.md)
 ##### [Импорт почтовых индексов](LocalFunctionality/Netherlands/how-to-import-post-codes.md)
 ##### [Импорт обновлений почтовых индексов](LocalFunctionality/Netherlands/how-to-import-post-code-updates.md)
@@ -1213,7 +1213,7 @@
 ##### [Просмотр операций по подоходному налогу](LocalFunctionality\NewZealand\how-to-view-withholding-tax-entries.md)
 ##### [Просмотр учтенных налоговых кредит-нот](LocalFunctionality/NewZealand/how-to-view-posted-tax-credit-memos.md)  
 ##### [Просмотр учтенных счетов-фактур](LocalFunctionality/NewZealand/how-to-view-posted-tax-invoices.md)
-##### [Корректировка зачетных валютных курсов для операций НДС](LocalFunctionality/NewZealand/how-to-adjust-settlement-exchange-rates-for-vat-entries.md)
+##### [Коррекция зачетных валютных курсов для операций НДС](LocalFunctionality/NewZealand/how-to-adjust-settlement-exchange-rates-for-vat-entries.md)
 ##### [Расчет налога на товары и услуги в предоплатах](LocalFunctionality/NewZealand/how-to-calculate-goods-and-services-tax-on-prepayments.md)
 ##### [Печать отчетов по сопоставлению налога на товары и услуги](LocalFunctionality/NewZealand/how-to-print-goods-and-service-tax-settlement-reports.md)
 #### Банковские операции и платежи
@@ -1235,7 +1235,7 @@
 ### Норвегия
 #### [Локальная функциональность в норвежской версии](LocalFunctionality/Norway/norway-local-functionality.md)
 #### НДС
-##### [Норвежский стандартный файл аудита — работа с налогом (SAF-T)](LocalFunctionality/Norway/ui-extensions-setup-and-generate-saf-t-files-no.md)
+##### [Норвежский стандартный файл для аудита — работа с налогом (SAF-T)](LocalFunctionality/Norway/ui-extensions-setup-and-generate-saf-t-files-no.md)
 ##### [Норвежская отчетность по НДС](LocalFunctionality/Norway/norwegian-vat-reporting.md)
 ##### [Норвежские коды НДС](LocalFunctionality/Norway/norwegian-vat-codes.md)  
 ##### [Как использовать один код НДС в журналах](LocalFunctionality/Norway/how-to-use-one-vat-code-in-journals.md)
@@ -1323,13 +1323,13 @@
 #### НДС
 ##### [НДС в российской версии](LocalFunctionality/Russia/VAT.md)
 ##### [Настройка книг НДС](LocalFunctionality/Russia/How-to-Set-Up-VAT-Ledgers.md)  
-##### [Подготовка операций НДС к учету](LocalFunctionality/Russia/How-to-Prepare-VAT-Entries-for-Posting.md)  
-##### [Зачет НДС](LocalFunctionality/Russia/Settlement-VAT.md)  
+##### [Подготовка и учет операций НДС](LocalFunctionality/Russia/How-to-Prepare-VAT-Entries-for-Posting.md)  
+##### [Расчеты по VAT](LocalFunctionality/Russia/Settlement-VAT.md)  
 ##### [Отправка книг покупок и продаж и декларации НДС в формате XML](LocalFunctionality/Russia/upload-books-purchases-sales-xml-vat-declaration.md)  
 ##### [НДС с предоплаты клиента](LocalFunctionality/Russia/VAT-by-Customer-prepayments.md)  
 ##### [Восстановление НДС](LocalFunctionality/Russia/VAT-reinstatement.md)  
 ##### [Схема "Поставщик — налоговый агент"](LocalFunctionality/Russia/Vendor-Tax-Agent-scheme.md)  
-#### Налоговый Учет
+#### Налоговый учет
 ##### [Налоговый учет в российской версии](LocalFunctionality/Russia/Tax-Accounting.md)
 ##### [Настройка налогового учета](LocalFunctionality/Russia/How-to-Set-Up-Tax-Accounting.md)  
 ##### [Налоговые регистры](LocalFunctionality/Russia/Tax-Registers.md)  
@@ -1340,7 +1340,7 @@
 ##### [Отправка КЛАДР](LocalFunctionality/Russia/Upload-KLADR.md)  
 ##### [Обязательные отчеты](LocalFunctionality/Russia/Statutory-Reports.md)
 #### Банковские операции
-##### [Управление банком](LocalFunctionality/Russia/bank-management.md)
+##### [Управление банковскими операциями](LocalFunctionality/Russia/bank-management.md)
 #### Запасы
 ##### [Запасы в российской версии](LocalFunctionality/Russia/Inventory.md)
 ##### [Настройка запасов](LocalFunctionality/Russia/Inventory-Setup.md)
@@ -1356,13 +1356,13 @@
 ##### [Установление начислений и удержаний работнику](LocalFunctionality/Russia/Establishment-of-charges-and-deductions-to-the-employee.md)
 ##### [Регистрация отсутствия](LocalFunctionality/Russia/Absence-registration.md)
 ##### [Увольнение](LocalFunctionality/Russia/Dismissal.md)
-##### [Формирование и изменение порядка составления штатного расписания](LocalFunctionality/Russia/Forming-and-changing-Staff-List-Order-Staff-Arrangement.md)
+##### [Составление и изменение штатного расписания](LocalFunctionality/Russia/Forming-and-changing-Staff-List-Order-Staff-Arrangement.md)
 ##### [Планирование отпусков](LocalFunctionality/Russia/Vacation-planning.md)
 
 ### Испания
 #### [Локальная функциональность в испанской версии](LocalFunctionality/Spain/spain-local-functionality.md)
 #### НДС
-##### [Отчеты по НДС](LocalFunctionality/Spain/vat-reports.md)
+##### [Отчетность по НДС](LocalFunctionality/Spain/vat-reports.md)
 ##### [Отчет 340](LocalFunctionality/Spain/report-340.md)  
 ##### [Создание отчета 340](LocalFunctionality/Spain/how-to-create-report-340.md)  
 ##### [Отчет 347](LocalFunctionality/Spain/report-347.md)  
@@ -1386,7 +1386,7 @@
 ##### [Ввод кодов CCC](LocalFunctionality/Spain/how-to-enter-ccc-codes.md)
 ##### [Настройка платежных дней и неплатежных периодов](LocalFunctionality/Spain/how-to-set-up-payment-days-and-non-payment-periods.md)
 ##### [Платежи наличными](LocalFunctionality/Spain/payments-in-cash.md)
-#### Электронное выставление счетов
+#### Электронные счета
 ##### [Модуль Cartera](LocalFunctionality/Spain/cartera-module.md)
 ##### [Модуль расчетов с клиентами Cartera](LocalFunctionality/Spain/receivables-cartera-module.md)
 ##### [Модуль платежей Cartera](LocalFunctionality/Spain/payments-cartera-module.md)
@@ -1442,7 +1442,7 @@
 ##### [Сальдо](LocalFunctionality/Switzerland/balance.md)
 ##### [Коррекция валютных курсов](LocalFunctionality/Switzerland/how-to-adjust-exchange-rates.md)
 ##### [Просмотр временных сальдо в журналах главной книги](LocalFunctionality/Switzerland/how-to-view-temporary-balances-in-general-ledger-journals.md)
-##### [Печать информации о конфигурации главной книги](LocalFunctionality/Switzerland/how-to-print-general-ledger-setup-information.md)
+##### [Печать информации о настройке главной книги](LocalFunctionality/Switzerland/how-to-print-general-ledger-setup-information.md)
 #### Покупки
 ##### [Напоминания о доставке](LocalFunctionality/Switzerland/delivery-reminders.md)
 ##### [Настройка напоминаний о доставке](LocalFunctionality/Switzerland/how-to-set-up-delivery-reminders.md)
@@ -1485,7 +1485,7 @@
 ##### [Базовая настройка налогообложения](LocalFunctionality/UnitedStates/us-tax-setup.md)  
 ##### [Отчетность по налогу с продаж в США](LocalFunctionality/UnitedStates/us-sales-tax.md)  
 ##### [Настройка и использование формы IRS 1099](LocalFunctionality/UnitedStates/set-up-use-irs1099-form.md)
-##### [Изменения нормативного формата 1099 и сведения о нем](LocalFunctionality/UnitedStates/tax-1099-changes.md)  
+##### [Изменения формата 1099 и сведения о нем](LocalFunctionality/UnitedStates/tax-1099-changes.md)  
 ##### [Настройка и использование формы IRS 1096](LocalFunctionality/UnitedStates/set-up-use-irs1096-form.md)
 ##### [Настройка налога на использование и налога на покупки](LocalFunctionality/UnitedStates/how-to-set-up-use-tax-and-purchase-tax.md)  
 ##### [Настройка нереализованного налога с продаж и скидок по оплате за продажи](LocalFunctionality/UnitedStates/how-to-set-up-unrealized-sales-tax-and-sales-payment-discounts.md)  
@@ -1503,13 +1503,13 @@
 ### Настройка финансов
 #### [Настройка финансов](finance-setup-finance.md)
 #### [Настройка способов оплаты](finance-payment-methods.md)
-#### [Настройка условий оплаты](finance-payment-terms.md)
+#### [Настройка условий платежа](finance-payment-terms.md)
 #### [Настройка учетных групп](finance-posting-groups.md)
 #### [Подготовка бухгалтерской отчетности с помощью финансовых данных и категорий счетов](bi-how-work-account-schedule.md)
 #### [Работа с отклонениями в оплате и отклонениями скидок по оплате](finance-payment-tolerance-and-payment-discount-tolerance.md)
 #### [Работа с учетными периодами и финансовыми годами](finance-accounting-periods-and-fiscal-years.md)
 #### [Настройка условий и уровней напоминаний](finance-setup-reminders.md)
-#### [Настройка процентных ставок](finance-setup-finance-charges.md)
+#### [Настройка условий процент-нот](finance-setup-finance-charges.md)
 #### [Настройка налога на добавленную стоимость (НДС)](finance-setup-vat.md)
 #### [Настройка методов расчета и учета налога на добавленную стоимость (НДС)](finance-setup-vat.md)
 #### [Настройка нереализованного НДС для учета по движению денежных средств](finance-setup-unrealized-vat.md)
@@ -1529,7 +1529,7 @@
 #### [Настройка банковских операций](bank-setup-banking.md)
 #### [Настройка банковских счетов](bank-how-setup-bank-accounts.md)
 #### [Настройка службы Envestnet Yodlee Bank Feeds](bank-how-setup-bank-statement-service.md)
-#### [Использование расширения AMC Banking 365 Fundamentals](ui-extensions-amc-banking.md)
+#### [Настройка расширения AMC Banking 365 Fundamentals](ui-extensions-amc-banking.md)
 #### [Выбор макета платежного документа](finance-how-define-check-layouts.md)
 ### Настройка продаж
 #### [Настройка продаж](sales-setup-sales.md)
@@ -1545,8 +1545,8 @@
 #### [Настройка способов доставки](sales-how-set-up-shipment-methods.md)
 #### [Настройка экспедиторов](sales-how-to-set-up-shipping-agents.md)
 #### [Определение политики учета счетов для пользователей](admin-setup-invoice-posting-policy.md)
-### Настройка закупок
-#### [Настройка закупок](purchasing-setup-purchasing.md)
+### Настройка покупок
+#### [Настройка покупок](purchasing-setup-purchasing.md)
 #### [Регистрация новых поставщиков](purchasing-how-register-new-vendors.md)
 #### [Настройка банковских счетов поставщиков](purchasing-how-set-up-vendors-bank-accounts.md)
 #### [Назначение приоритетов поставщикам](purchasing-how-prioritize-vendors.md)
@@ -1558,7 +1558,7 @@
 #### [Настройка запасов](inventory-setup-inventory.md)
 #### [Настройка общей информации о запасах](inventory-how-setup-general.md)
 #### [Работа с центрами ответственности](inventory-responsibility-centers.md)
-#### [Настройка мест хранения](inventory-how-setup-locations.md)
+#### [Настройка складов](inventory-how-setup-locations.md)
 #### [Регистрация новых товаров](inventory-how-register-new-items.md)
 #### [Копирование существующих товаров для создания новых товаров](inventory-how-copy-items.md)
 #### [О типах товаров](inventory-about-item-types.md)
@@ -1589,12 +1589,12 @@
 #### [Назначение товарам стандартных ячеек](warehouse-how-to-assign-default-bins-to-items.md)
 #### [Настройка шаблонов размещения](warehouse-how-to-set-up-put-away-templates.md)
 #### [Настройка работников склада](warehouse-how-to-set-up-warehouse-employees.md)
-#### [Настройка мест хранения для использования ячеек](warehouse-how-to-set-up-locations-to-use-bins.md)
+#### [Настройка складов для использования ячеек](warehouse-how-to-set-up-locations-to-use-bins.md)
 #### [Преобразование существующих мест хранения в склады](warehouse-how-to-convert-existing-locations-to-warehouse-locations.md)
 #### [Настройка базовых складов с зонами операций](warehouse-how-to-set-up-basic-warehouses-with-operations-areas.md)
-#### [Настройка товаров и мест хранения для использования расширенного подбора и размещения](warehouse-how-to-set-up-items-for-directed-put-away-and-pick.md)
+#### [Настройка товаров и складов для использования расширенного подбора и размещения](warehouse-how-to-set-up-items-for-directed-put-away-and-pick.md)
 #### [Использование автоматической разбивки с расширенным подбором и размещением](warehouse-enable-automatic-breaking-bulk-with-directed-put-away-and-pick.md)
-#### [Использование подбора по методу FEFO](warehouse-picking-by-fefo.md)
+#### [Включение метода FEFO для подбора товаров](warehouse-picking-by-fefo.md)
 <!-- #### [Enable Automated Data Capture Systems (ADCS)](warehouse-use-automated-data-capture-systems-adcs.md) -->
 #### [Реструктуризация складов](warehouse-how-to-restructure-warehouses.md)
 ### Настройка производства
@@ -1624,7 +1624,7 @@
 #### [Настройка статусов для сервисных заказов и ремонтных работ](service-order-repair-status.md)
 #### [Настройка программы временного пользования](service-how-setup-loaner-program.md)
 #### [Настройка сервисных контрактов](service-how-setup-service-contracts.md)
-### Рекомендации по настройке сложных областей приложения
+### Рекомендации по настройке сложных областей приложения 
 #### [Рекомендации по настройке](set-up-complex-application-areas-using-best-practices.md)
 #### Рекомендации по настройке: планирование поставок
 ##### [Настройка планирования поставок](setup-best-practices-supply-planning.md)
@@ -1719,7 +1719,7 @@
 ## Использование отчетов в повседневной работе
 ### [Обзор](reports-use-reports.md)
 ### [Запуск отчетов](ui-work-report.md)
-### [Создание закладки на отчет](ui-bookmarks.md)
+### [Добавление закладки для отчета](ui-bookmarks.md)
 ### [Анализ данных отчета с помощью Excel](report-analyze-excel.md)
 ### [Печать отчетов](ui-specify-printer-selection-reports.md#default)
 ### [Планирование запуска отчетов на определенное время](ui-work-report.md#ScheduleReport)
@@ -1830,7 +1830,7 @@
 #### [Руководство по настройке производительности отчетов](/dynamics365/business-central/dev-itpro/performance/performance-developer#writing-efficient-reports)
 
 
-# Безопасность, конфиденциальность, соответствие
+# Безопасность, конфиденциальность и соответствие
 ## Защита и безопасность
 ### [Обзор безопасности и защиты (только на английском языке)](/dynamics365/business-central/dev-itpro/security/security-and-protection?toc=/dynamics365/business-central/toc.json)
 ## Конфиденциальность
@@ -1841,14 +1841,14 @@
 ### [Соответствие служб](compliance/compliance-service-compliance.md)
 ### [Сертификации](compliance/compliance-certifications.md)
 ## [Обзор служб (только на английском языке)](/dynamics365/business-central/dev-itpro/service-overview?toc=/dynamics365/business-central/toc.json)
-## [Функции пробной версии, которые предполагают подключение к другим службам Майкрософт](privacy-connected-services.md)
+## [Функции пробной версии, предполагающие подключение к другим службам Майкрософт](privacy-connected-services.md)
 # Разработка и администрирование
 ## [Начало работы с документацией по разработке и администрированию](/dynamics365/business-central/dev-itpro/index?toc=/dynamics365/business-central/toc.json)
 ## Задачи администрирования в Business Central
 ### [Задачи администрирования](admin-setup-and-administration.md)
 ### Управление доступом к Business Central
 #### [Обзор](admin-access-overview.md)
-#### [Управление доступом к Business Central с помощью групп безопасности](ui-security-groups.md)
+#### [Управление доступом к Business Central с использованием групп безопасности](ui-security-groups.md)
 #### Доступ с лицензиями на Microsoft 365
 ##### [Обзор](admin-access-with-m365-license.md)
 ##### [Настройка доступа с лицензиями на Microsoft 365](admin-access-with-m365-license-setup.md)
@@ -1865,7 +1865,7 @@
 #### [Классификация конфиденциальности данных](admin-classifying-data-sensitivity.md)
 #### [Реагирование на запросы о личных данных](admin-responding-to-requests-about-personal-data.md)
 #### [Ведение журнала изменений](across-log-changes.md)
-#### [Управление хранилищем путем сжатия данных или удаления документов](admin-manage-documents.md)
+#### [Сжатие данных или удаление документов для экономии места в хранилище](admin-manage-documents.md)
 #### [Архивация данных](admin-archive-data.md)
 #### [Определение политик хранения данных](admin-data-retention-policies.md)
 #### [Управление шифрованием данных](admin-manage-data-encryption.md)
@@ -1887,17 +1887,17 @@
 ### [Настройка страниц для профилей](ui-personalization-manage.md)
 ### [Изменение набора отображаемых функций](ui-experiences.md)
 ### [Настройка цветного индикатора в очередях](admin-how-set-up-colored-indicator-on-cues.md)
-### Настройка с помощью расширений
+### Пользовательская настройка с использованием расширений
 #### [Обзор расширений](ui-extensions.md)
 #### [Установка и удаление расширений](ui-extensions-install-uninstall.md)
 #### [Расширение AMC Banking 365 Fundamentals](ui-extensions-amc-banking.md)
-#### [Зарплата Ceridian](ui-extensions-ceridian-payroll.md)
+#### [Ceridian Payroll](ui-extensions-ceridian-payroll.md)
 #### [Мои организации](ui-extensions-company-hub.md)
 #### [DK — Миграция данных из C5](ui-extensions-c5-data-migration.md)
 #### [DK — Платежи и выверки](ui-extensions-payments-reconciliation-formats-dk.md)
 #### [DK — Форматы налоговых файлов](ui-extensions-tax-file-formats-dk.md)
 #### [Envestnet Yodlee Bank Feeds](ui-extensions-yodlee-bank-feeds.md)
-#### [Важная бизнес-аналитика](ui-extensions-essential-business-insights.md)
+#### [Основные бизнес-заголовки](ui-extensions-essential-business-insights.md)
 #### [Анализ изображений](ui-extensions-image-analyzer.md)
 #### [Расширения для миграции в облако](ui-extensions-data-replication.md)
 #### [Базовое расширение для миграции в облако](ui-extensions-intelligent-cloud.md)
@@ -1936,7 +1936,7 @@
 #### [Обзор планирования поставок](design-details-supply-planning.md)
 #### [Технические подробности: основные понятия системы планирования](design-details-central-concepts-of-the-planning-system.md)  
 #### [Технические подробности: резервирование, трассировка заказов и сообщения о действиях](design-details-reservation-order-tracking-and-action-messaging.md)  
-#### [Технические подробности: балансировка спроса и поставок](design-details-balancing-demand-and-supply.md)  
+#### [Технические подробности: балансировка требований и поставок](design-details-balancing-demand-and-supply.md)  
 #### [Технические подробности: обработка политик дозаказа](design-details-handling-reordering-policies.md)  
 #### [Технические подробности: параметры планирования](design-details-planning-parameters.md)  
 #### [Технические подробности: таблица "Назначение произ. плана"](design-details-planning-assignment-table.md)  
@@ -1965,15 +1965,15 @@
 #### [Технические подробности: счета в главной книге](design-details-accounts-in-the-general-ledger.md)
 #### [Технические подробности: оценка стоимости запасов](design-details-inventory-valuation.md)  
 #### [Технические подробности: переоценка](design-details-revaluation.md)
-<!-- ### Design Details: Warehouse Management -->
-<!-- #### [Warehouse Management Overview](design-details-warehouse-management.md) -->
-<!-- #### [Design Details: Warehouse Overview](design-details-warehouse-overview.md) -->  
-<!-- #### [Design Details: Warehouse Setup](design-details-warehouse-setup.md)   deleted, use warehouse-setup-warehouse.md -->
-<!-- #### [Design Details: Inbound Warehouse Flow](design-details-inbound-warehouse-flow.md)  -->
-<!-- #### [Design Details: Internal Warehouse Flows](design-details-internal-warehouse-flows.md) --> 
+<!-- ### Design details: Warehouse management -->
+<!-- #### [Warehouse management overview](design-details-warehouse-management.md) -->
+<!-- #### [Design details: Warehouse overview](design-details-warehouse-overview.md) -->  
+<!-- #### [Design details: Warehouse setup](design-details-warehouse-setup.md)   deleted, use warehouse-setup-warehouse.md -->
+<!-- #### [Design details: Inbound warehouse flow](design-details-inbound-warehouse-flow.md)  -->
+<!-- #### [Design details: Internal warehouse flows](design-details-internal-warehouse-flows.md) --> 
 ### [Технические подробности: наличие на складе](design-details-availability-in-the-warehouse.md)  
-<!-- #### [Design Details: Outbound Warehouse Flow](design-details-outbound-warehouse-flow.md)  -->
-<!-- #### [Design Details: Integration with Inventory](design-details-integration-with-inventory.md)-->
+<!-- #### [Design details: Outbound warehouse flow](design-details-outbound-warehouse-flow.md)  -->
+<!-- #### [Design details: Integration with inventory](design-details-integration-with-inventory.md)-->
 ### Технические подробности: трассировка товаров
 #### [Обзор трассировки товаров](design-details-item-tracking.md)
 #### [Технические подробности: архитектура трассировки товаров](design-details-item-tracking-design.md)  

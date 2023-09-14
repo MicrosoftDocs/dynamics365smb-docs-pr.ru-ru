@@ -1,14 +1,14 @@
 ---
 title: Обработка частичных отгрузок
 description: Отгрузки заказов на продажу могут быть обработаны в Business Central в виде частичных отгрузок с использованием полей Сведения по доставке и Кол-во для отгрузки.
-author: rubenseishima
+author: brentholtorf
 ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: 'shipping advice, partial shipments, partial deliveries, trade, customer sales order'
 ms.date: 08/12/2022
-ms.author: a-reishima
+ms.author: bholtorf
 ---
-# <a name="process-partial-shipments"></a>Обработка частичных отгрузок
+# Обработка частичных отгрузок
 
 При частичной отгрузке заказ не отправляется сразу. Например, из заказа на 100 единиц вы отгружаете 40 единиц сразу и 60 позже. Не существует ограничений по количеству отгрузок, которые можно выполнить для заказа.
 
@@ -18,7 +18,7 @@ ms.author: a-reishima
 
 [!INCLUDE [order-ship-invoice_md](includes/order-ship-invoice.md)]
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Продажа товара с заказом продажи клиента](sales-how-sell-products.md)  
 [Отгрузка товаров](warehouse-how-ship-items.md)  

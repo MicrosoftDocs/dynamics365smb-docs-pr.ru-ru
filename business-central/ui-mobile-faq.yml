@@ -2,14 +2,14 @@
 metadata:
   title: Вопросы и ответы по мобильным приложениям
   description: См. ответы на часто задаваемые вопросы об использовании Business Central на телефоне или планшете.
-  author: edupont04
+  author: brentholtorf
   ms.topic: faq
   ms.devlang: na
   ms.tgt_pltfrm: na
   ms.workload: na
   ms.search.keywords: 'phone, tablet'
   ms.date: 10/25/2021
-  ms.author: edupont
+  ms.author: bholtorf
 title: Вопросы и ответы по мобильным приложениям
 summary: |
   В этой статье содержатся ответы на вопросы, которые часто задают наши опытные пользователи о мобильных приложениях для [!INCLUDE [prod_short](includes/prod_short.md)].  

@@ -1,16 +1,16 @@
 ---
 title: Настройка финансовых процессов
 description: Узнайте о необходимых задачах по настройке финансов для своего бизнеса в соответствии требованиями учет и аудита.
-author: edupont04
+author: brentholtorf
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: 'accounting, auditing, bookkeeping'
 ms.date: 08/19/2022
-ms.author: edupont
+ms.author: bholtorf
 ---
-# <a name="setting-up-finance"></a>Настройка финансов
+# Настройка финансов
 
 Прежде чем вы сможете начать свой бизнес, вы должны указать, как вы хотите управлять финансовыми процессами компании. Сначала вы настраиваете основу учетных записей организации: план счетов (COA). Затем настраиваются учетные группы, что позволяет сделать более эффективным процесс назначения используемых по умолчанию учетных счетов главной книги клиентам, поставщикам и товарам.
 
@@ -51,9 +51,9 @@ ms.author: edupont
 > [!TIP]
 > В зависимости от вашего географического положения некоторые страницы Business Central могут содержать поля, которые не описаны в перечисленных выше статьях, поскольку они применяются к локальным функциям или настройкам. [!INCLUDE [tooltip-inline-tip_md](includes/tooltip-inline-tip_md.md)]
 
-## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/paths/set-up-financial-management-dynamics-365-business-central/)
+## См. соответствующее [обучение Microsoft](/training/paths/set-up-financial-management-dynamics-365-business-central/)
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Финансы](finance.md)  
 [Выверка банковских счетов](bank-manage-bank-accounts.md)  

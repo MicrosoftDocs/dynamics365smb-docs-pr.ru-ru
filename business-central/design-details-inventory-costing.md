@@ -1,7 +1,7 @@
 ---
 title: Сведения о проектировании — себестоимость запасов
 description: 'Документация содержит подробные технические сведения о концепциях и принципах, используемых в функциях учета стоимости товаров в Business Central.'
-author: SorenGP
+author: brentholtorf
 ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -9,15 +9,15 @@ ms.workload: na
 ms.search.keywords: 'design, inventory, costing'
 ms.search.form: 8645
 ms.date: 06/08/2021
-ms.author: edupont
+ms.author: bholtorf
 ---
-# <a name="design-details-inventory-costing"></a>Сведения о проектировании: себестоимость запасов
+# Сведения о проектировании: себестоимость запасов
 
 Документация содержит подробные технические сведения о концепциях и принципах, используемых в функциях учета стоимости товаров в [!INCLUDE[prod_short](includes/prod_short.md)].  
 
 Учет себестоимости запасов, который также называют управлением затратами, связан с записью и отчетностью по текущим бизнес-расходам.  
 
-## <a name="in-this-section"></a>В этом разделе
+## В этом разделе
 
 [Сведения о проектировании: методы учета себестоимости](design-details-costing-methods.md)  
 [Сведения о проектировании: применение товара](design-details-item-application.md)  
