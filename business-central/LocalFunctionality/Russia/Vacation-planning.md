@@ -5,11 +5,11 @@ author: DianaMalina
 ms.topic: conceptual
 ms.search.keywords: null
 ms.date: 04/01/2021
-ms.reviewer: edupont
+ms.reviewer: bholtorf
 ms.author: soalex
 ---
 
-# <a name="vacation-planning"></a>Планирование отпусков
+# Планирование отпусков
 
 В [!INCLUDE[prod_short](../../includes/prod_short.md)] имеется график отпусков на календарный год:
 
@@ -26,7 +26,7 @@ ms.author: soalex
 
 Остальные поля формы заполняются по мере необходимости в случае переноса отпуска.
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Персонал](Human-Resources.md)  
 

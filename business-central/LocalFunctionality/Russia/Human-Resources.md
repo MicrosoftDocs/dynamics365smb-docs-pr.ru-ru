@@ -5,11 +5,11 @@ author: DianaMalina
 ms.topic: conceptual
 ms.search.keywords: null
 ms.date: 04/01/2021
-ms.reviewer: edupont
+ms.reviewer: bholtorf
 ms.author: soalex
 ---
 
-# <a name="human-resources"></a>Персонал и зарплата
+# Персонал и зарплата
 
 В этом разделе:
 

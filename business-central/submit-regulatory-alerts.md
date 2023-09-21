@@ -3,16 +3,16 @@ title: Отправка нормативных оповещений
 description: 'Если вам известно о новом законодательстве, для которого требуется функциональная поддержка в Business Central, вы можете с помощью этого руководства отправить нормативное оповещение рабочей группе продукта.'
 author: sorenfriisalexandersen
 ms.topic: conceptual
-ms.reviewer: edupont
+ms.reviewer: bholtorf
 ms.search.keywords: null
 ms.date: 06/25/2021
 ms.author: soalex
 ---
-# <a name="submit-alerts-about-countryregion-specific-regulatory-features"></a>Отправка оповещений о специальных нормативных функциях для страны или региона
+# Отправка оповещений о специальных нормативных функциях для страны или региона
 
 Приглашаем вас использовать Microsoft Dynamics Lifecycle Services (LCS) для отправки нормативных оповещений через сервис отправки нормативных оповещений Dynamics.  
 
-## <a name="to-submit-a-regulatory-alert-in-lcs"></a>Для отправки нормативного оповещения в LCS
+## Для отправки нормативного оповещения в LCS
 
 1. Перейдите в [https://lcs.dynamics.com](https://lcs.dynamics.com) и выполните вход  
 
@@ -65,7 +65,7 @@ ms.author: soalex
 
       После отправки оповещения вы получите подтверждение, что оповещение успешно отправлено в корпорацию Майкрософт.
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Локальная функциональность в [!INCLUDE[prod_long](includes/prod_long.md)]](about-localization.md)  
 [Изменение языка и языкового стандарта](about-locale-language.md)  

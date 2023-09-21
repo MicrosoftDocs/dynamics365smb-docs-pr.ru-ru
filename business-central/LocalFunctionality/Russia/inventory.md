@@ -5,15 +5,15 @@ author: DianaMalina
 ms.topic: conceptual
 ms.search.keywords: null
 ms.date: 04/01/2021
-ms.reviewer: edupont
+ms.reviewer: bholtorf
 ms.author: soalex
 ---
 
-# <a name="inventory-in-the-russian-version"></a>Запасы в русской версии
+# Запасы в русской версии
 
 Функция запасов для России описывается в нескольких разделах.
 
-## <a name="in-this-section"></a>В этом разделе
+## В этом разделе
 
 [Товары Настройка](Inventory-Setup.md)
 

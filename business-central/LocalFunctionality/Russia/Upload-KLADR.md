@@ -5,11 +5,11 @@ author: DianaMalina
 ms.topic: conceptual
 ms.search.keywords: null
 ms.date: 04/01/2021
-ms.reviewer: edupont
+ms.reviewer: bholtorf
 ms.author: soalex
 ---
 
-# <a name="upload-kladr"></a>Загрузка КЛАДР
+# Загрузка КЛАДР
 
 [!INCLUDE[prod_short](../../includes/prod_short.md)] поддерживает работу с классификатором адресов РФ **КЛАДР** — ведомственным классификатором, созданным для распределения территорий между налоговыми инспекциями и автоматизированной рассылки корреспонденции.
 
@@ -25,7 +25,7 @@ ms.author: soalex
 
 4. Нажмите "ОК".
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Налоговый учет](Tax-Accounting.md)  
 

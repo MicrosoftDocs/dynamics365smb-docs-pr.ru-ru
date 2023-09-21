@@ -9,7 +9,7 @@ ms.search.form: '1360, 1361, 1364,'
 ms.date: 08/02/2023
 ms.custom: hap-template
 ---
-# <a name="the-worldpay-payments-standard-extension"></a>Расширение WorldPay Payments Standard
+# Расширение WorldPay Payments Standard
 
 > [!CAUTION]
 > Расширение WorldPay Payments Standard вскоре станет нерекомендуемым к использованию. Код будет помечен как устаревший начиная с волны 2 выпуска 2023 года. Приложение будет активно на протяжении следующих трех основных выпусков, после чего будет удалено.
@@ -20,7 +20,7 @@ ms.custom: hap-template
 
 Включение расширения службы платежей в [!INCLUDE[prod_short](includes/prod_short.md)] бесплатно, однако вам потребуется связаться со службой платежей для получения учетной записи. Дополнительные сведения см. в разделе [Включение платежей клиентов через службу платежей](sales-how-enable-payment-service-extensions.md).
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Настройка [!INCLUDE[prod_short](includes/prod_short.md)] с помощью расширений](ui-extensions.md)  
 [Настройка продаж](sales-setup-sales.md)  

@@ -5,15 +5,15 @@ author: DianaMalina
 ms.topic: conceptual
 ms.search.keywords: null
 ms.date: 04/01/2021
-ms.reviewer: edupont
+ms.reviewer: bholtorf
 ms.author: soalex
 ---
 
-# <a name="bank-and-cash-management"></a>Управление банками и кассами
+# Управление банками и кассами
 
 Функциональная возможность для России для управления банками и кассами описывается в нескольких разделах.
 
-## <a name="in-this-section"></a>В этом разделе
+## В этом разделе 
 
 [Управление банком](Bank-Management.md)
 

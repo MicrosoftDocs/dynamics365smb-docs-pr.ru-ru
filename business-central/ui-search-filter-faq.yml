@@ -2,13 +2,13 @@
 metadata:
   title: О поиске и фильтрации в Business Central
   description: Ответы на часто задаваемые вопросы о поиске и фильтрации.
-  author: mikebcMSFT
+  author: brentholtorf
   ms.topic: faq
   ms.reviewer: bholtorf
   ms.search.keywords: 'keyboarding, productivity, how do i, filter pane'
   ms.search.form: TellMe
   ms.date: 04/01/2021
-  ms.author: mikebc
+  ms.author: bholtorf
 title: Вопросы и ответы по поиску и фильтрации
 summary: Эта статья отвечает на некоторые часто возникающие вопросы по поиску и фильтрации в Business Central.
 sections:
