@@ -11,13 +11,13 @@ ms.search.form: null
 ms.date: 06/11/2021
 ms.author: bholtorf
 ---
-# Локальная функциональность в [!INCLUDE[prod_long](includes/prod_long.md)]
+# <a name="what-is-local-functionality-in-"></a>Локальная функциональность в [!INCLUDE[prod_long](includes/prod_long.md)]
 
 [!INCLUDE[prod_short](includes/prod_short.md)] предлагает стратегию объединенной локализации, включая модели под управлением Майкрософт и партнеров. В этом разделе представлены описания функций, применимых к странам/регионам, в которых корпорация Майкрософт обеспечивает соблюдение нормативных требований, и других локальных функций.  
 
 Список поддерживаемых в настоящее время рынков см. в разделе [Наличие в странах/регионах и поддерживаемые переводы](/dynamics365/business-central/dev-itpro/compliance/apptest-countries-and-translations?toc=/dynamics365/business-central/toc.json),  
 
-## Локальная функциональность
+## <a name="local-functionality"></a>Локальная функциональность
 
 Для получения сведений о локальной функциональности для каждой страны/региона перейдите по связанной ссылке:
 
@@ -48,11 +48,11 @@ ms.author: bholtorf
 |        | Индия | [Локальная функциональность в Индии](LocalFunctionality/India/india-local-functionality.md) |
 |        | Новая Зеландия | [Локальная функциональность Новой Зеландии](localfunctionality/newzealand/new-zealand-local-functionality.md) |
 
-### Другие страны/регионы
+### <a name="other-countriesregions"></a>Другие страны/регионы
 
 [!INCLUDE[prod_short](includes/prod_short.md)] также доступно в других странах в виде локализованных приложений. Если партнер Майкрософт разработал локализованное приложение для вашей страны/региона, его можно найти в [AppSource](https://go.microsoft.com/fwlink/?linkid=2081646).
 
-## См. также
+## <a name="see-also"></a>См. также
 [Создание сред](/dynamics365/business-central/dev-itpro/administration/tenant-admin-center-environments)  
 [Подготовьтесь к ведению бизнеса](ui-get-ready-business.md)  
 [Соответствие](compliance/compliance-overview.md)  

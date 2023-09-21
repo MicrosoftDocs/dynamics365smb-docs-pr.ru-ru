@@ -9,12 +9,12 @@ author: brentholtorf
 ms.author: bholtorf
 ---
 
-# Введение в демонстрационные данные Contoso Coffee
+# <a name="introduction-to-contoso-coffee-demo-data"></a>Введение в демонстрационные данные Contoso Coffee
 
 Contoso Coffee — вымышленная компания, производящая бытовые и коммерческие кофеварки. Приложения **Contoso Coffee** для Business Central добавляют демонстрационные данные, которые вы можете использовать, чтобы узнать, как использовать возможности Business Central.  
 
 
-## Настройка данных Contoso Coffee
+## <a name="set-up-contoso-coffee-data"></a>Настройка данных Contoso Coffee
 
 Чтобы использовать демонстрационные данные Contoso Coffee, необходимо установить два приложения в соответствующей компании в [!INCLUDE [prod_short](../includes/prod_short.md)]:  
 
@@ -31,7 +31,7 @@ Contoso Coffee — вымышленная компания, производящ
  - [Настройка производства](manufacturing/contoso-coffee-manufacturing-intro.md) — для подготовки к использованию [сценариев производства](#manufacturing-scenarios)
  - [Настройка складского хозяйства](warehousing/contoso-coffee-warehousing-intro.md) — для подготовки к использованию [сценариев складского хозяйства](#warehousing-scenarios)
 
-## Производственные сценарии
+## <a name="manufacturing-scenarios"></a>Производственные сценарии
 
 В настоящее время демонстрационные данные Contoso Coffee поддерживают следующие производственные сценарии для тестирования и обучения:
 
@@ -49,7 +49,7 @@ Contoso Coffee — вымышленная компания, производящ
 > [!IMPORTANT]
 > Для пошаговых руководств по производству требуется, чтобы взаимодействие с пользователем было установлено как *Премиум* на странице **Информация о компании**.
 
-## Складские сценарии
+## <a name="warehousing-scenarios"></a>Складские сценарии
 
 В настоящее время демонстрационные данные Contoso Coffee поддерживают следующие складские сценарии для тестирования и обучения:
 
@@ -59,7 +59,7 @@ Contoso Coffee — вымышленная компания, производящ
 
 Прочитайте шаги для каждого сценария в соответствующей статье.
    
-## См. также
+## <a name="see-also"></a>См. также
 
 [Производство](../production-manage-manufacturing.md)  
 [Складирование](../warehouse-manage-warehouse.md)  
