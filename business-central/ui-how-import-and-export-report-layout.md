@@ -45,8 +45,6 @@ ms.author: bholtorf
 
  Исходный пользовательский макет отчета заменяется на импортированный макет отчета.  
 
-## См. соответствующее [обучение Microsoft](/training/modules/change-documents-dynamics-365-business-central/index)
-
 ## См. также
 
 [Создание и изменение пользовательского макета отчета](ui-how-create-custom-report-layout.md)   

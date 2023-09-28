@@ -61,8 +61,6 @@ ms.author: bholtorf
 
 Если вы предпочитаете хранить код приложения и секрет в другом месте, вы можете оставить поля «Код клиента» и «Секрет клиента» пустыми и написать расширение для получения кода и секрета из местоположения. Вы можете предоставить секрет во время выполнения, подписавшись на события OnGetClientId и OnGetClientSecret в codeunit 1410 "Doc. Exch. Service Mgt.".
 
-## См. соответствующее [обучение Microsoft](/training/modules/electronic-documents-dynamics-365-business-central/)
-
 ## См. также
 
 [Настройка обмена данными](across-set-up-data-exchange.md)  

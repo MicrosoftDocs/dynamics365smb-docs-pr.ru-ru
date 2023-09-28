@@ -120,8 +120,6 @@ ms.author: bholtorf
 
 Поля на экспресс-вкладке **Финансовые сведения** на странице **Входящий документ** будут обновлены с внесением новых значений, введенных на шаге 4.
 
-## См. соответствующее [обучение Microsoft](/training/modules/incoming-documents-dynamics-365-business-central/)
-
 ## См. также
 
 [Создание записей входящих документов](across-how-create-income-document-records.md)

@@ -3,7 +3,7 @@ title: 'Продажа товара, собранного на заказ'
 description: 'Узнайте, как продать товар, собранный на заказ.'
 author: brentholtorf
 ms.author: bholtorf
-ms.reviewer: andreipa
+ms.reviewer: bholtorf
 ms.service: dynamics365-business-central
 ms.topic: how-to
 ms.date: 11/23/2022
@@ -60,12 +60,10 @@ ms.custom: bap-template
 > [!NOTE]  
 > Замены товаров не заменяют автоматически товары другими товарами, например, при создании заказа на продажу или в спецификации. Вместо этого вы будете предупреждены о том, что вам доступна замена.
 
-## См. соответствующее [обучение Microsoft](/training/modules/assemble-to-order-dynamics-365-business-central/)
-
 ## См. также
 
 [Управление сборкой](assembly-assemble-items.md)  
-[Работа со сборочными спецификациями](assembly-how-work-assembly-boms.md)  
+[Работа со спецификациями сборки](assembly-how-work-assembly-boms.md)  
 [Регистрация новых товаров](inventory-how-register-new-items.md)  
 [Запасы](inventory-manage-inventory.md)  
 [Обзор Warehouse Management](design-details-warehouse-management.md)

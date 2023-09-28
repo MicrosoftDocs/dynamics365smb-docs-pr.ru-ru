@@ -104,12 +104,10 @@ ms.author: bholtorf
 
 Из склада EAST будет скопировано измерение ADM.
 
-## См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/trade-set-up-dynamics-365-business-central/)
-
 ## См. также
 
 [Управление запасами](inventory-manage-inventory.md)  
-[Перемещение запасов между складами](inventory-how-transfer-between-locations.md)  
+[Перемещение запасов между местами хранения](inventory-how-transfer-between-locations.md)  
 [Создание ячеек](warehouse-how-to-create-individual-bins.md)  
 [Настройка типов ячеек](warehouse-how-to-set-up-bin-types.md)  
 [Настройка управления складом](warehouse-setup-warehouse.md)  

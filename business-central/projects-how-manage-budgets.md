@@ -43,8 +43,6 @@ ms.author: bholtorf
 
 Информацию о регистрации бюджетных и фактических цен и затрат для работ см. в разделе [Регистрация потребления для работ](projects-how-record-job-usage.md).
 
-## См. соответствующее [обучение Microsoft](/training/modules/set-up-job-planning-lines/)
-
 ## См. также
 
 [Управление проектами](projects-manage-projects.md)  

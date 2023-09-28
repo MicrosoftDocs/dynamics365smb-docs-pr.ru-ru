@@ -29,8 +29,6 @@ ms.author: bholtorf
 
 Обменные курсы — это инструмент для расчета стоимости каждой валютной операции в местной валюте (МВ). Дополнительные сведения см. в разделе [Обновление валютных курсов](finance-how-update-currencies.md).  
 
-## См. соответствующее [обучение Microsoft](/training/paths/use-multiple-currencies-dynamics-365-business-central/)
-
 ## См. также
 
 [Настройка валют](finance-set-up-currencies.md)  

@@ -52,8 +52,6 @@ ms.author: bholtorf
 
     Любые ошибки проверки, обычно связанные с некорректностью или отсутствием данных в [!INCLUDE[prod_short](includes/prod_short.md)], будут представлены на экспресс-вкладке **Сообщения об ошибках**.  
 
-## См. соответствующее [обучение Microsoft](/training/modules/electronic-documents-dynamics-365-business-central/index)
-
 ## См. также
 
 [Управление кредиторской задолженностью](payables-manage-payables.md)  

@@ -62,8 +62,6 @@ ms.author: bholtorf
 |%8|Содержимое поля **Код валюты** в заголовке процент-ноты|  
 |%9|Содержимое поля **Дата учета** в заголовке процент-ноты|  
 
-## См. соответствующее [обучение Microsoft](/training/modules/send-memos-dynamics-365-business-central/)
-
 ## См. также
 
 [Сбор непогашенных остатков задолженности](receivables-collect-outstanding-balances.md)  

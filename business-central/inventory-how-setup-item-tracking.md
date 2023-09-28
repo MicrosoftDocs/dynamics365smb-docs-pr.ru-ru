@@ -109,8 +109,6 @@ ms.author: bholtorf
 > [!NOTE]
 > Использовать функцию **Изменить в Excel** для создания строк журнала с информацией для трассировки нельзя.
 
-## См. соответствующее [обучение Microsoft](/training/modules/prepare-item-tracking/)
-
 ## См. также
 
 [Работа с серийными номерами и номерами партий](inventory-how-work-item-tracking.md)  

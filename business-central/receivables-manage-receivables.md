@@ -39,15 +39,13 @@ ms.author: bholtorf
 |С согласия клиента можно собирать оплаты непосредственно с банковского счета клиента соответственно, только в валюте Евро.|[Сбор платежей с прямым дебетом SEPA](finance-collect-payments-with-sepa-direct-debit.md)|
 |Блокировка ввода клиента в документы или учета его операций, например из-за несостоятельности.|[Блокировка клиентов](receivables-how-block-customers.md)|
 |Настройте отклонение, при котором система закрывает счет, даже если платеж, включая все скидки, не полностью покрывает сумму счета.|[Работа с отклонениями в оплате и отклонениями скидки по оплате](finance-payment-tolerance-and-payment-discount-tolerance.md)|
-| Прогноз просрочки платежей для документов продажи. | [Расширение прогноза просрочки платежа](ui-extensions-late-payment-prediction.md) |
-
-## См. соответствующее [обучение Microsoft](/training/paths/process-customer-vendor-payments-dynamics-365-business-central/)
+| Прогноз просрочки платежей для документов продажи. | [Расширение "Прогнозирование просрочек оплаты"](ui-extensions-late-payment-prediction.md) |
 
 ## См. также
 [Продажи](sales-manage-sales.md)  
 [Управление кредиторской задолженностью](payables-manage-payables.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
-[Общие бизнес-функции](ui-across-business-areas.md)
+[Общая бизнес-функциональность](ui-across-business-areas.md)
 
 ## [!INCLUDE[prod_short](includes/free_trial_md.md)]  
 

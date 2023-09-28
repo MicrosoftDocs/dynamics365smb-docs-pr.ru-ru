@@ -26,13 +26,11 @@ ms.author: bholtorf
 |См. регистры бюджета затрат и записи бюджета затрат.|Страница **Журналы бюджета расходов**|  
 |Печать сравнений бюджета затрат с использованием различных отчетов.|Отчет **Баланс/Бюджет затрат**<br /><br /> Отчет **Ведомость учета затрат/Бюджет**<br /><br /> отчет **Бюджет затрат по центрам затрат**<br /><br /> Отчет **Бюджет затрат по объектам затрат**|  
 
-## См. соответствующее [обучение Microsoft](/training/modules/cost-accounting-reports-dynamics-365-business-central/)
-
 ## См. также
 
-[Учет по затратам](finance-manage-cost-accounting.md)  
+[Учет затрат](finance-manage-cost-accounting.md)  
 [Создание бюджетов ГК](finance-how-create-budgets.md)  
-[Терминология в учете затрат](finance-terminology-in-cost-accounting.md)  
+[Терминология учета затрат](finance-terminology-in-cost-accounting.md)  
 [Определение и распределение затрат](finance-define-and-allocate-costs.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
 

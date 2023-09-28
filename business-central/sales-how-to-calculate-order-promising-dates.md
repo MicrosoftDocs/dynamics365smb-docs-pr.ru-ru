@@ -128,12 +128,10 @@ ms.author: bholtorf
     - Если известно, что в настоящее время товар отсутствует на складе и требуется рассчитать ближайшую дату, когда товар будет доступен путем подачи новых заявок на пополнение запасов, выберите **В наличии**.  
 5.  Нажмите кнопку **Принять**, чтобы принять ближайшую доступную дату отгрузки.  
 
-## См. соответствующее [обучение Microsoft](/training/modules/promising-sales-order-delivery-dynamics-365-business-central/)
-
 ## См. также
 
 [Продажи](sales-manage-sales.md)  
-[Расчет даты для покупок](purchasing-date-calculation-for-purchases.md)  
+[Расчет дат для покупок](purchasing-date-calculation-for-purchases.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
 
 

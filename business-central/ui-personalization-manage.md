@@ -62,13 +62,11 @@ ms.author: bholtorf
 
 Макет на выбранных страницах корректируется с учетом внесенных вами изменений.
 
-## См. соответствующее [обучение Microsoft](/training/paths/tailor-roles-design-ui/)
-
 ## См. также
 
-[Персонализация рабочей области](ui-personalization-user.md)  
+[Персонализация вашей рабочей области](ui-personalization-user.md)  
 [Управление профилями](admin-users-profiles-roles.md)  
-[Изменение базовых настроек](ui-change-basic-settings.md)  
+[Изменение базовых параметров](ui-change-basic-settings.md)  
 [Изменение набора отображаемых функций](ui-experiences.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 

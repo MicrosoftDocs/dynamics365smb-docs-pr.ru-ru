@@ -2,14 +2,12 @@
 title: Настройка электронной почты в Business Central (содержит видео)
 description: 'Описывается, как подключить учетные записи электронной почты к Business Central, чтобы вы могли отправлять исходящие сообщения, не открывая другое приложение.'
 author: brentholtorf
+ms.author: bholtorf
 ms.topic: get-started-article
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
 ms.search.keywords: 'SMTP, email, Office 365, connector'
 ms.search.form: '1805, 9813, 9814, 1262, 1263'
-ms.date: 07/17/2023
-ms.author: bholtorf
+ms.date: 09/13/2023
+ms.custom: bap-template
 ---
 
 # Настройка электронной почты
@@ -56,7 +54,9 @@ ms.author: bholtorf
 Если вы хотите использовать протокол SMTP для отправки сообщений электронной почты из [!INCLUDE[prod_short](includes/prod_short.md)], вы можете использовать расширение соединителя SMTP. При настройке учетной записи, использующей SMTP, важным полем является **Тип отправителя**. Если вы выберете **Конкретный пользователь**, сообщения электронной почты будут отправляться с использованием имени и другой информации из учетной записи, которую вы настраиваете. Однако, если вы выберете **Текущий пользователь**, сообщения электронной почты будут отправляться с учетной записи электронной почты, указанной для учетной записи каждого пользователя. Текущий пользователь похож на функцию «Отправить как». Дополнительные сведения см. в разделе [Использование замещающего адреса отправителя в исходящих сообщениях электронной почты](admin-how-setup-email.md#use-a-substitute-sender-address-on-outbound-email-messages). 
 
 > [!IMPORTANT]
-> Если вы используете локальную версию [!INCLUDE[prod_short](includes/prod_short.md)] On-Premises, вы можете использовать для аутентификации протокол OAuth 2.0. Вы должны создать регистрацию приложения на портале Azure, а затем запустить мастер настройки **Настройка Azure Active Directory** в [!INCLUDE[prod_short](includes/prod_short.md)], чтобы подключиться к Azure AD. Дополнительные сведения см. в разделе [Создание регистрации приложения для Business Central на портале Azure](admin-how-setup-email.md#create-an-app-registration-for-business-central-in-azure-portal).
+> Если вы используете локальную версию [!INCLUDE[prod_short](includes/prod_short.md)] On-Premises, вы можете использовать для аутентификации протокол OAuth 2.0. Чтобы использовать OAuth для SMTP, все пользователи должны находиться в одном клиенте Microsoft Entra. 
+> 
+> Вы должны создать регистрацию приложения на портале Azure, а затем запустить мастер настройки **Настройка Azure Active Directory** в [!INCLUDE[prod_short](includes/prod_short.md)], чтобы подключиться к Azure AD. Дополнительные сведения см. в разделе [Создание регистрации приложения для Business Central на портале Azure](admin-how-setup-email.md#create-an-app-registration-for-business-central-in-azure-portal).
 >
 > В Exchange Online использовать обычную аутентификацию для SMTP больше не рекомендуется. Это изменение не затронет арендаторов, которые в настоящее время используют SMTP AUTH. Однако мы настоятельно рекомендуем использовать последнюю версию [!INCLUDE [prod_short](includes/prod_short.md)] и настроить аутентификацию OAuth 2.0 для SMTP. Мы не будем добавлять аутентификацию на основе сертификатов для более ранних версий [!INCLUDE [prod_short](includes/prod_short.md)], например версии 14. Если у вас нет возможности настроить аутентификацию OAuth 2.0, рекомендуем изучить сторонние альтернативы, если вы хотите использовать электронную почту SMTP в более ранних версиях.
 
@@ -273,8 +273,6 @@ Next, you connect [!INCLUDE[prod_short](includes/prod_short.md)] with Exchange O
 18. The **Verify Registration** button becomes available. 
 
 -->
-
-## См. соответствующее [обучение Microsoft](/training/modules/set-up-email/)
 
 ## См. также
 

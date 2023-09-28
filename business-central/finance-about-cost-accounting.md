@@ -68,13 +68,11 @@ ms.author: bholtorf
 
 Большинство отчетов и статистики основаны на учтенных операциях затрат. Можно установить сортировку результатов и использовать фильтры, чтобы определить, какие данные необходимо отображать. Можно создавать отчеты для анализа распределения стоимости. Кроме этого, можно использовать стандартные бухгалтерские отчеты для определения способа отображения отчетов по плану типов затрат.  
 
-## См. соответствующее [обучение Microsoft](/training/paths/use-cost-accounting-dynamics-365-business-central/)
-
 ## См. также
 
-[Учет по затратам](finance-manage-cost-accounting.md)  
+[Учет затрат](finance-manage-cost-accounting.md)  
 [Финансы](finance.md)  
-[Терминология в учете затрат](finance-terminology-in-cost-accounting.md)  
+[Терминология учета затрат](finance-terminology-in-cost-accounting.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

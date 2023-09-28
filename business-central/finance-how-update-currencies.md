@@ -122,8 +122,6 @@ ms.author: bholtorf
 
 Значение в поле **Валютный курс** на странице **Валюты** обновляется до самого актуального валютного курса.
 
-## См. соответствующее [обучение Microsoft](/training/paths/use-multiple-currencies-dynamics-365-business-central/)
-
 ## См. также
 
 [Валюты в Business Central](finance-currencies.md)  

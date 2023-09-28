@@ -3,7 +3,7 @@ title: Перемещение товаров
 description: Узнайте о перемещении товаров между ячейками на вашем складе.
 author: brentholtorf
 ms.author: bholtorf
-ms.reviewer: andreipa
+ms.reviewer: bholtorf
 ms.service: dynamics365-business-central
 ms.topic: Conceptual
 ms.date: 01/25/2023
@@ -34,13 +34,11 @@ ms.search.form: '7315, 7349, 7351, 7382, 7384, 7386, 7387, 7399, 7400, 9314, 933
 |Перемещение товаров складами|[Перемещение запасов между складами](inventory-how-transfer-between-locations.md)|
 |Перемещает товары между ячейками в базовых конфигурациях складов в любое время и без исходных документов.|[Перемещение товаров в базовых конфигурациях склада](warehouse-how-to-move-items-ad-hoc-in-basic-warehousing.md)|
 |Используйте журнал складского перемещения, внутренний подбор и размещение для перемещения товаров в расширенных настройках складов с расширенным подбором и размещением.|[Перемещение товаров в расширенных конфигурациях склада](warehouse-how-to-move-items-in-advanced-warehousing.md)|  
-|Реструктуризация склада с введением новых кодов и характеристик ячеек и, возможно, их перемещением.|[Изменение структуры складов](warehouse-how-to-restructure-warehouses.md)|  
-
-## См. соответствующее [обучение Microsoft](/training/modules/manage-internal-warehouse-processes/)
+|Реструктуризация склада с введением новых кодов и характеристик ячеек и, возможно, их перемещением.|[Реструктуризация складов](warehouse-how-to-restructure-warehouses.md)|  
 
 ## См. также
 
-[Обзор управления складом](design-details-warehouse-management.md)  
+[Обзор управления складами](design-details-warehouse-management.md)  
 [Запасы](inventory-manage-inventory.md)  
 [Настройка управления складом](warehouse-setup-warehouse.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

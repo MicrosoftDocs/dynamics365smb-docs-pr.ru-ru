@@ -70,8 +70,6 @@ ms.author: bholtorf
 
 Повторите процесс для другого набора ячеек, пока не будут созданы все ячейки на складе.  
 
-## См. соответствующее [обучение Microsoft](/training/modules/create-new-bins/)
-
 ## См. также
 
 [Обзор управления складом](design-details-warehouse-management.md)

@@ -111,8 +111,6 @@ ms.author: bholtorf
 
 [!INCLUDE [finance-currencies-example](includes/finance-currencies-example.md)]
 
-## См. соответствующее [обучение Microsoft](/training/modules/currencies-exchange-rates-dynamics-365-business-central/)
-
 ## См. также
 
 [Обновление валютных курсов](finance-how-update-currencies.md)  

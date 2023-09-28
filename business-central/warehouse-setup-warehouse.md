@@ -35,8 +35,6 @@ ms.author: bholtorf
 |Получить подсказки по реорганизации складов, ячеек или зон для улучшения эффективности складских действий.|[Изменение структуры складов](warehouse-how-to-restructure-warehouses.md)|
 |Укажите отчеты по умолчанию, которые будут использоваться для различных типов документов.|[Выбор отчета в Business Central](across-report-selections.md)|
 
-## См. соответствующее [обучение Microsoft](/training/paths/set-up-warehouse-management/)
-
 ## См. также
 
 [Запасы](inventory-manage-inventory.md)  

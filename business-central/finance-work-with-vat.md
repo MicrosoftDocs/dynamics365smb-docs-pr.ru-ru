@@ -234,8 +234,6 @@ ms.author: bholtorf
 > * Создание сертификата поставки вручную  
 > * Печать сертификата поставки.
 
-## См. соответствующее [обучение Microsoft](/training/paths/process-vat-dynamics-365-business-central/)
-
 ## См. также
 
 [Настройка методов расчета и учета налога на добавленную стоимость](finance-setup-vat.md)  

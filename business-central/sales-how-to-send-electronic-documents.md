@@ -43,11 +43,9 @@ ms.author: bholtorf
     > [!NOTE]  
     >  Можно также отправить учтенный счет на продажу в виде электронного документа. Процедура аналогична описанной в этом разделе для документов неучтенных продаж. На странице **Учтенный счет продажи** выберите действие **Журнал действий** для просмотра статуса электронного документа.  
 
-## См. соответствующее [обучение Microsoft](/training/modules/electronic-documents-dynamics-365-business-central/index)
-
 ## См. также
 
-[Выставление счетов продажи](sales-how-invoice-sales.md)  
+[Выставление счетов по продаже](sales-how-invoice-sales.md)  
 [Настройка профилей отправки документов](sales-how-setup-document-send-profiles.md)  
 [Настройка отправки и получения электронных документов](across-how-to-set-up-electronic-document-sending-and-receiving.md)  
 [Настройка службы обмена документами](across-how-to-set-up-a-document-exchange-service.md)  

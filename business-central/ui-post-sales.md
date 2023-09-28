@@ -6,7 +6,7 @@ ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.reviewer: edupont
+ms.reviewer: bholtorf
 ms.search.form: '130, 142, 1350'
 ms.date: 04/01/2021
 ms.author: bholtorf
@@ -46,8 +46,6 @@ ms.author: bholtorf
 ## Изменение операций книги
 
 Вы можете редактировать определенные поля в учтенных документах покупки, такие как **Номер отслеживания посылки** . Дополнительные сведения см. в разделе [Изменение учтенных документов](across-edit-posted-document.md). Для более важных полей, которые влияют на аудиторский след, необходимо выполнить сторнирование или отменить проводку. Дополнительные сведения см. в разделе [Сторнирование учета в журнале и отмена приходных/расходных накладных](finance-how-reverse-journal-posting.md).
-
-## См. соответствующее [обучение Microsoft](/training/modules/ship-invoice-items-dynamics-365-business-central/index)
 
 ## См. также
 

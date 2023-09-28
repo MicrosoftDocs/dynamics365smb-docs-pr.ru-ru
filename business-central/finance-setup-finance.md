@@ -51,8 +51,6 @@ ms.author: bholtorf
 > [!TIP]
 > В зависимости от вашего географического положения некоторые страницы Business Central могут содержать поля, которые не описаны в перечисленных выше статьях, поскольку они применяются к локальным функциям или настройкам. [!INCLUDE [tooltip-inline-tip_md](includes/tooltip-inline-tip_md.md)]
 
-## См. соответствующее [обучение Microsoft](/training/paths/set-up-financial-management-dynamics-365-business-central/)
-
 ## См. также
 
 [Финансы](finance.md)  

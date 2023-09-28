@@ -70,13 +70,11 @@ ms.author: bholtorf
 
 Для клиентов создаются счета продажи с указанным стандартным клиентским кодом продажи, а также всеми заданными сведениями о прямом дебете для учета на определенную дату.
 
-## См. соответствующее [обучение Microsoft](/training/modules/create-sales-documents-dynamics-365-business-central/)
-
 ## См. также
 
 [Продажи](sales-manage-sales.md)  
 [Настройка продаж](sales-setup-sales.md)  
-[Создание типовых строк покупок](purchasing-how-work-recurring-purchase-lines.md)  
+[Создание строк типовых покупок](purchasing-how-work-recurring-purchase-lines.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

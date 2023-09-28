@@ -59,8 +59,6 @@ ms.author: jswymer
 6. Пользователь создает отчет в Power BI Desktop.
 7. Пользователь публикует отчет в службе Power BI. Отчеты затем становятся доступными для выбора в [!INCLUDE[prod_short](includes/prod_short.md)].
 
-## См. соответствующее [обучение Microsoft](/training/modules/configure-powerbi-excel-dynamics-365-business-central/index)
-
 ## См. также
 
 [Business Central и Power BI](admin-powerbi.md)  

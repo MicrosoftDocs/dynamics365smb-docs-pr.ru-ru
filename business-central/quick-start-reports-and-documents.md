@@ -64,11 +64,9 @@ r Созданный файл отчета автоматически сохра
 
 Узнайте больше о том, как настроить отчеты и документы в соответствии с потребностями вашего бизнеса, в разделе [Макеты отчетов и документов](ui-manage-report-layouts.md).
 
-## См. соответствующее обучение на странице [Microsoft Learn](/learn/modules/work-with-reports/).
-
 ## См. также
 
-[Используйте отчеты в повседневной работе](reports-use-reports.md)  
+[Использование отчетов в повседневной работе](reports-use-reports.md)  
 [Доступные отчеты в [!INCLUDE[prod_short](includes/prod_short.md)]](reports-available-reports.md)  
 [Выбор отчета по документам](across-report-selections.md)  
 [Краткое руководство по Business Central](quick-start-business-central.md)  

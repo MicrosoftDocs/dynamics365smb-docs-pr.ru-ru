@@ -32,8 +32,6 @@ ms.author: bholtorf
 > [!TIP]
 > Используйте банковскую выверку, чтобы убедиться, что ваши книги обновлены, и не публикуйте выверку, пока вы не будете удовлетворены выверкой.
 
-## См. соответствующее [обучение Microsoft](/training/paths/reconcile-bank-accounts-dynamics-365-business-central/)
-
 ## См. также
 
 [Настройка банковских операций](bank-setup-banking.md)  

@@ -25,11 +25,9 @@ ms.author: bholtorf
 | Узнайте, как изменить макет по умолчанию для отчета. | [Изменение макета отчета по умолчанию](ui-how-change-layout-currently-used-report.md) |
 | Просмотр и анализ данных из набора данных отчета в Microsoft Excel. | [Сохранение набора данных отчета в Excel со страницы запроса](/dynamics365-release-plan/2021wave1/smb/dynamics365-business-central/save-report-dataset-excel-request-page) |
 
-## См. соответствующее [обучение Microsoft](/training/paths/setup-reporting-dynamics-365-business-central/).
-
 ## См. также
 
-[Обзор отчета](reports-available-reports.md)  
+[Обзор отчетов](reports-available-reports.md)  
 [Обзор бизнес-аналитики и отчетности](ui-work-report.md)  
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

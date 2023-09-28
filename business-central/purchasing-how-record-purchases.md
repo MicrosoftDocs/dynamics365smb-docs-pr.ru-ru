@@ -193,10 +193,6 @@ ms.author: bholtorf
 
 Вы можете редактировать определенные поля в учтенных документах покупки, такие как поле **Ссылка на оплату**. Подробнее в разделе [Изменение учтенных документов](across-edit-posted-document.md). Для более важных полей, которые влияют на аудиторский след, необходимо выполнить сторнирование или отменить проводку. Подробнее в разделе [Сторнирование учета в журнале и отмена приходных/расходных накладных](finance-how-reverse-journal-posting.md).
 
-## См. соответствующее [обучение Microsoft](/training/modules/receive-invoice-dynamics-d365-business-central/index).
-
-## См. соответствующее [обучение Microsoft](/training/modules/processing-invoices-dynamics-365-business-central/index)
-
 ## См. также
 
 [Запрос предложений](purchasing-how-request-quotes.md)  

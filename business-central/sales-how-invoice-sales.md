@@ -119,8 +119,6 @@ ms.author: bholtorf
 
 [!INCLUDE [ext-doc-no-sales](includes/ext-doc-no-sales.md)]
 
-## См. соответствующее [обучение Microsoft](/training/modules/invoicing-customers-dynamics-365-business-central/index).
-
 ## См. также
 
 [Продажи](sales-manage-sales.md)  

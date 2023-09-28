@@ -42,8 +42,6 @@ ms.author: bholtorf
 
 > [!Video https://www.microsoft.com/en-us/videoplayer/embed/RE4jzHI?rel=0]
 
-## См. соответствующее [обучение Microsoft](/training/modules/create-workflows/)
-
 ## См. также
 
 [Использование рабочих процессов утверждения](across-use-workflows.md)  

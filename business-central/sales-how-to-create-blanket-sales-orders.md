@@ -89,8 +89,6 @@ ms.author: bholtorf
 
 5. На странице **Строки продажи** выберите действие **Показать документ**, чтобы просмотреть запись.
 
-## См. соответствующее [обучение Microsoft](/training/modules/create-sales-documents-dynamics-365-business-central/)
-
 ## См. также
 
 [Продажи](sales-manage-sales.md)  

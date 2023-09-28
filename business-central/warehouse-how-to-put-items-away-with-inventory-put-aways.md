@@ -83,8 +83,6 @@ ms.search.forms: '7375,'
 
     [!INCLUDE [preview-posting-warehouse](includes/preview-posting-warehouse.md)]
 
-## См. соответствующее [обучение Microsoft](/training/modules/receive-put-away-items/)
-
 ## См. также
 
 [Обзор управления складом](design-details-warehouse-management.md)

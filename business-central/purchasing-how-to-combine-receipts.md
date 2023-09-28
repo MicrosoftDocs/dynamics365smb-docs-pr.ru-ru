@@ -42,8 +42,6 @@ ms.author: bholtorf
 
 Повторите шаги с 1 по 3 для всех остальных затронутых документов, таких как общие заказы на покупку.
 
-## См. соответствующее [обучение Microsoft](/training/modules/processing-invoices-dynamics-365-business-central/)
-
 ## См. также
 
 [Покупки](purchasing-manage-purchasing.md)  

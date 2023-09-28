@@ -36,12 +36,10 @@ ms.author: bholtorf
 - *дата отгрузки + исходящие - время обработки склада = плановая дата отгрузки*
 - *плановая дата поставки + время отгрузки = плановая дата доставки*
 
-## См. соответствующее [обучение Microsoft](/training/modules/promising-sales-order-delivery-dynamics-365-business-central/).
-
 ## См. также
 
-[Расчет даты для покупок](purchasing-date-calculation-for-purchases.md)  
-[Расчет сроков планирования заказов](sales-how-to-calculate-order-promising-dates.md)  
+[Расчет дат для покупок](purchasing-date-calculation-for-purchases.md)  
+[Расчет сроков доставки заказов](sales-how-to-calculate-order-promising-dates.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

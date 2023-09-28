@@ -302,8 +302,6 @@ ms.author: bholtorf
 
 [!INCLUDE [vat-report-setup](includes/vat-report-setup.md)]
 
-## См. соответствующее [обучение Microsoft](/training/paths/process-vat-dynamics-365-business-central/)
-
 ## См. также
 
 [Настройка шаблонов отчетов НДС и названий отчетов НДС](finance-how-setup-vat-statement.md)  

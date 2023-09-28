@@ -40,12 +40,10 @@ ms.author: bholtorf
 
 Вы также можете создавать визуальные отчеты на основе [!INCLUDE[prod_short](includes/prod_short.md)], используя параметр типа файла **Документ Microsoft Excel (только данные)** на страницах запроса отчета. Узнайте больше в разделе [Запуск и печать отчетов](ui-work-report.md).
 
-## См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/use-power-bi).
-
 ## См. также
 
 [Бизнес-аналитика и Financial Reporting](bi.md)  
-[Краткое руководство по Business Central](quick-start-business-central.md)  
+[Краткие руководства по Business Central](quick-start-business-central.md)  
 [Работа с отчетами Power BI в Business Central](across-working-with-powerbi.md)  
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

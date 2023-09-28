@@ -436,8 +436,6 @@ ms.author: bholtorf
 
     Когда магазин оборудования осуществляет оплату за приемку 18 ПК из CRONUS, заказ на продажу и связанные с ним сборочные заказы удаляются.  
 
-## См. соответствующее [обучение Microsoft](/training/paths/assemble-items-dynamics-365-business-central/)
-
 ## См. также
 
  [Сборка на заказ и сборка на склад](assembly-assemble-to-order-or-assemble-to-stock.md)   

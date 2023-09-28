@@ -91,14 +91,12 @@ ms.author: bholtorf
 
 [!INCLUDE [ext-doc-no-sales](includes/ext-doc-no-sales.md)]
 
-## См. соответствующее [обучение Microsoft](/training/modules/create-sales-documents-dynamics-365-business-central/).
-
 ## См. также
 
-[Выставление счетов продажи](sales-how-invoice-sales.md)  
+[Выставление счетов по продаже](sales-how-invoice-sales.md)  
 [Учет продаж](ui-post-sales.md)  
 [Отгрузка товаров](warehouse-how-ship-items.md)  
-[Выполнение прямых поставок](sales-how-drop-shipment.md)  
+[Прямые поставки](sales-how-drop-shipment.md)  
 [Продажи](sales-manage-sales.md)  
 [Настройка продаж](sales-setup-sales.md)  
 [Печать сборочного листа](sales-how-print-picking-list.md)  

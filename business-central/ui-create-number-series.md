@@ -92,8 +92,6 @@ ms.author: bholtorf
 
 Выбранный номер будет использоваться для заполнения поля **Номер** в карточке или документе согласно настройкам, выполненным в строке серии номеров.  
 
-## См. соответствующее [обучение Microsoft](/training/modules/number-series-trail-codes-dynamics-365-business-central/index)
-
 ## См. также
 
 [Настройка [!INCLUDE[prod_short](includes/prod_short.md)]](setup.md)  

@@ -58,8 +58,6 @@ ms.author: bholtorf
 
 После изменения макета попытайтесь обновить его снова.  
 
-## См. соответствующее [обучение Microsoft](/training/modules/change-documents-dynamics-365-business-central/index)
-
 ## См. также  
  [Управление макетами отчетов](ui-manage-report-layouts.md)  
  [Работа с отчетами, пакетными заданиями и XMLport](ui-work-report.md)  

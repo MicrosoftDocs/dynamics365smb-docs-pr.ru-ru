@@ -54,8 +54,6 @@ ms.author: bholtorf
 
 Пользовательский интерфейс по умолчанию в пробной версии [!INCLUDE [prod_short](includes/prod_short.md)] не раскрывает все возможности. Вы можете включить полный интерфейс на странице **Информация об организации**. Дополнительные сведения см. в разделе [Изменение набора отображаемых функций](ui-experiences.md).  
 
-## См. соответствующее [обучение Microsoft](/training/modules/create-new-companies-dynamics-365-business-central/)
-
 ## См. также
 
 [Обзор задач по настройке [!INCLUDE[prod_short](includes/prod_short.md)]](setup.md)  

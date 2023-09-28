@@ -123,8 +123,6 @@ ms.author: bholtorf
 
 Для учета средств, не интегрированных с главной книгой, пропустите шаги 6 и 8.
 
-## См. соответствующее [обучение Microsoft](/training/paths/set-up-fixed-assets-management/)
-
 ## См. также
 
 [Настройка основных средств](fa-setup.md)  

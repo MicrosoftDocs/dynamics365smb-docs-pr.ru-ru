@@ -88,8 +88,6 @@ ms.author: bholtorf
 > [!NOTE]  
 >   Если выверять банковский счет со страницы **Журнал выверки платежей** не требуется, вы должны использовать страницу **Выверка банковского счета**. Дополнительные сведения см. в разделе [Выверка банковских счетов](bank-how-reconcile-bank-accounts-separately.md).
 
-## См. соответствующее [обучение Microsoft](/training/modules/use-journals-dynamics-365-business-central/)
-
 ## См. также
 
 [Управление дебиторской задолженностью](receivables-manage-receivables.md)  

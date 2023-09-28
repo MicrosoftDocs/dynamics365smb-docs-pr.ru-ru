@@ -275,8 +275,6 @@ ms.author: bholtorf
 
 (2) Если оплата находится в пределах этих диапазонов, все операции приложения не могут быть закрыты, даже с отклонением.
 
-## См. соответствующее [обучение Microsoft](/training/modules/enter-payments-dynamics-365-business-central/)
-
 ## См. также
 
 [Финансы](finance.md)  

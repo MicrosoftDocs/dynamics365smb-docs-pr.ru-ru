@@ -117,8 +117,6 @@ ms.author: bholtorf
 
 [!INCLUDE[workflow](includes/workflow.md)]
 
-## См. соответствующее [обучение Microsoft](/training/modules/use-approval-workflows/)
-
 ## См. также
 
 [Настройка утверждающих пользователей](across-how-to-set-up-approval-users.md)  

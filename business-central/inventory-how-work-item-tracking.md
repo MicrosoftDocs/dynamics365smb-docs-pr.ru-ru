@@ -220,11 +220,9 @@ Alternatively, you can create an information card when you post journals or docu
 8. Если необходимо изменить существующую информацию для номера лота или серийного номера, можно использовать запись информации о номере или серии.  
 9. Выполните учет журнала для установления связи обновленных номеров трассировки товара или сроков годности с соответствующей учтенной товарной операцией
 
-## См. соответствующее [обучение Microsoft](/training/modules/prepare-item-tracking/)
-
 ## См. также
 
-[Настройка отслеживания товаров по серийному номеру, номеру партии и номеру упаковки](inventory-how-setup-item-tracking.md)  
+[Настройка трассировки товаров по серийному номеру, номеру партии и номеру пакета](inventory-how-setup-item-tracking.md)  
 [Трассировка товаров, трассируемых по товарам](inventory-how-to-trace-item-tracked-items.md)  
 [Запасы](inventory-manage-inventory.md)  
 [Сведения о проектировании: трассировка товара](design-details-item-tracking.md)  

@@ -95,13 +95,11 @@ ms.author: bholtorf
 
 Когда вы будете готовы обработать товар, который отсутствовал, обновите поле **Количество для обработки** и примите к учету заказ.
 
-## См. соответствующее [обучение Microsoft](/training/modules/post-purchase-item-charges-dynamics-365-business-central/)
-
 ## См. также
 
 [Управление кредиторской задолженностью](payables-manage-payables.md)  
 [Регистрация покупок](purchasing-how-record-purchases.md)  
-[Выставление счетов продажи](sales-how-invoice-sales.md)  
+[Выставление счетов по продаже](sales-how-invoice-sales.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 
 

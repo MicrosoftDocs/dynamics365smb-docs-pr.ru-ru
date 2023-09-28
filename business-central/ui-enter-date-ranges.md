@@ -345,12 +345,10 @@ The following example shows how you can use a minus sign to indicate a date in t
 
 Например, если по умолчанию используются часы, число 5 будет преобразовано в 5 часов.
 
-## См. соответствующее [обучение Microsoft](/training/modules/explore-modify-info-dynamics-365-business-central/)
-
 ## См. также
 
 [Работа с [!INCLUDE[prod_short](includes/prod_long.md)]](ui-work-product.md)  
-[Расчет даты для покупок](purchasing-date-calculation-for-purchases.md)  
+[Расчет дат для покупок](purchasing-date-calculation-for-purchases.md)  
 [Ввод критериев в фильтрах](ui-enter-criteria-filters.md)  
 
 

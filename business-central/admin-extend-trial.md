@@ -45,8 +45,6 @@ ms.author: bholtorf
 
 [!INCLUDE [admin-viral-trial-expiry](includes/admin-viral-trial-expiry.md)]
 
-## См. соответствующее [обучение Microsoft](/training/modules/trial-dynamics-365-business-central/)
-
 ## См. также
 
 [Пробные версии и подписки (только на английском языке)](/dynamics365/business-central/dev-itpro/administration/trials-subscriptions?toc=/dynamics365/business-central/toc.json)  

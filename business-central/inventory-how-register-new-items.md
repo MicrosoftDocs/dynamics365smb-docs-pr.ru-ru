@@ -115,13 +115,11 @@ ms.author: bholtorf
 
 Примеры использования полей на экспресс-вкладке **Планирование** прочитайте [Рекомендации по настройке. Параметры планирования](setup-best-practices-planning-parameters.md).  
 
-## См. соответствующее [обучение Microsoft](/training/modules/create-items/)
-
 ## См. также
 
 [Запасы](inventory-manage-inventory.md)  
 [Настройка единиц измерения](inventory-how-setup-units-of-measure.md)  
-[Управление вариантами продукта](inventory-item-variants.md)  
+[Управление вариантами продуктов](inventory-item-variants.md)  
 [Настройка отчетности Интрастат](finance-how-setup-report-intrastat.md#other-intrastat-configurations)  
 [Выверка себестоимости товаров с главной книгой](finance-how-to-post-inventory-costs-to-the-general-ledger.md)  
 [Создание серий номеров](ui-create-number-series.md)  

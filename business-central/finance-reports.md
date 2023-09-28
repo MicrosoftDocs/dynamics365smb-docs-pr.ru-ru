@@ -24,13 +24,11 @@ ms.author: bholtorf
 
 * [Анализ фактических сумм в с равнении с суммами бюджета](bi-how-analyze-actual-versus-budget.md)  
 * [Подготовка Financial Reporting с помощью финансовых данных и категорий счетов](bi-how-work-account-schedule.md)  
-* [Настройка и публикация веб-служб ключевых показателей эффективности, которые основаны на финансовых отчетах](bi-how-to-set-up-and-publish-kpi-web-services-based-on-account-schedules.md)  
+* [Настройка и публикация веб-служб КПЭ, основанных на бухгалтерских отчетах](bi-how-to-set-up-and-publish-kpi-web-services-based-on-account-schedules.md)  
 * [Анализ данных по измерениям](bi-how-analyze-data-dimension.md)  
 * [Создание аналитических отчетов](bi-how-create-analysis-views-reports.md)  
-* [Создание отчетов с XBRL](bi-create-reports-with-xbrl.md)  
+* [Создание отчетов с использованием XBRL](bi-create-reports-with-xbrl.md)  
 * [Управление намерением доступа к базе данных](admin-data-access-intent.md)  
-
-## См. соответствующее [обучение Microsoft](/training/paths/create-financial-reports-dynamics-365-business-central/)
 
 ## См. также
 

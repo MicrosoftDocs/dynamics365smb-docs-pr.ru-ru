@@ -32,8 +32,6 @@ ms.author: bholtorf
 |Одновременный импорт нескольких изображений товаров из ZIP-файла, в котором файлы названы в соответствии с номерами товаров.|[Импорт нескольких изображений товаров](inventory-how-import-item-pictures.md)|
 |Укажите отчеты по умолчанию, которые будут использоваться для различных типов документов.|[Выбор отчета в Business Central](across-report-selections.md)|
 
-## См. соответствующее [обучение Microsoft](/training/paths/trade-get-started-dynamics-365-business-central/)
-
 ## См. также
 
 [Управление запасами](inventory-manage-inventory.md)  

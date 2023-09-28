@@ -11,7 +11,7 @@ ms.search.form: 100
 ms.date: 08/18/2022
 ms.author: jswymer
 ---
-# <a name="closing-years-and-periods"></a>Закрытие года и периодов
+# Закрытие года и периодов
 
 В конце финансового года существует ряд административных задач, которые необходимо выполнить, например убедиться, что все документы и журналы учтены, данные о валюте актуальны, книги закрыты и т. д. Фактические задачи будут зависеть от вашей организации.
 
@@ -29,9 +29,7 @@ ms.author: jswymer
 | Закрытие учетных периодов и финансового года, перенос сальдо отчетов о прибылях и убытках на балансовые счета и учет операций закрытия года. |[Закрытие книг](year-close-books.md) |
 | Печать отчетов, которые могут помочь в создании финансовых отчетов. |[Подготовка отчетов о закрытии](year-prepare-close-statement.md) |
 
-## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/close-fiscal-year-dynamics-365-business-central/index)
-
-## <a name="see-also"></a>См. также
+## См. также
 
 [Работа с учетными периодами и финансовыми годами](finance-accounting-periods-and-fiscal-years.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

@@ -47,13 +47,11 @@ ms.author: bholtorf
 >
 > Использование действия **Поделиться** делает сгенерированный файл отчета доступным для других пользователей только в OneDrive для бизнеса и не перечисляет запланированный отчет в их папке **Входящие отчеты**.
 
-## См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/build-reports/).
-
 ## См. также
 
-[Выполнение и печать отчетов](ui-work-report.md)  
+[Запуск и печать отчетов](ui-work-report.md)  
 [Доступные отчеты в [!INCLUDE[prod_short](includes/prod_short.md)]](reports-available-reports.md)  
-[Используйте отчеты в повседневной работе](reports-use-reports.md)  
+[Использование отчетов в повседневной работе](reports-use-reports.md)  
 [Обзор бизнес-аналитики и отчетности](reports-bi-reporting.md)  
 [Настройка принтеров](ui-specify-printer-selection-reports.md)  
 [Работа с календарными датами и значениями времени](ui-enter-date-ranges.md)  

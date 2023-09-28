@@ -40,8 +40,6 @@ ms.author: bholtorf
     > [!NOTE]  
     > Поле **Служба платежей** доступно, только если включена служба платежей.  
 
-## См. соответствующее [обучение Microsoft](/training/modules/cash-management-dynamics-365-business-central/)
-
 ## См. также
 
 [Настройка продаж](sales-setup-sales.md)  

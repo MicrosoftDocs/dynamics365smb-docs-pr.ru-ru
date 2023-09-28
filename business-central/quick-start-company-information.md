@@ -27,8 +27,6 @@ ms.author: bholtorf
 
 После того, как вы закончите заполнение информации, вы можете закрыть страницу.  
 
-## См. соответствующее [обучение Microsoft](/training/modules/create-new-companies-dynamics-365-business-central/)
-
 ## См. также  
 
 [Обзор информации о компании](admin-company-information.md)  

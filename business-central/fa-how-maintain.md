@@ -84,8 +84,6 @@ ms.author: bholtorf
 2. Заполните соответствующим образом поля.
 3. Нажмите кнопку **Печать** или **Просмотр**.
 
-## См. соответствующее [обучение Microsoft](/training/paths/manage-fixed-assets-maintenance-insurances/)
-
 ## См. также
 
 [Основные Средства](fa-manage.md)  

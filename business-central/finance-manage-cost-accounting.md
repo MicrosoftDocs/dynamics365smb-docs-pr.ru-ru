@@ -24,8 +24,6 @@ ms.author: bholtorf
 |Узнайте о процессах создания бюджетов себестоимости.|[Создание бюджетов расходов](finance-create-cost-budgets.md)|
 |Отмена операций бюджета затрат из регистра бюджета затрат.|[Удаление операций бюджета затрат](finance-how-to-delete-cost-budget-entries.md)|
 
-## См. соответствующее [обучение Microsoft](/training/paths/use-cost-accounting-dynamics-365-business-central/)
-
 ## См. также  
 [Финансы](finance.md)  
 [Управление себестоимостью товаров](finance-manage-inventory-costs.md)  

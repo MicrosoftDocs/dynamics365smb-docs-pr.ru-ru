@@ -133,11 +133,9 @@ ms.author: bholtorf
 2. На странице **Финансовый отчет** можно выбрать сумму, затем просмотреть записи прогноза движения денежных средств, которые составляют сумму. Кроме того, можно просмотреть используемую формулу для расчета суммы. Можно также фильтровать суммы по дате и измерению.  
 3. Выберите действие **Печать** для печати прогноза движения денежных средств.  
 
-## См. соответствующее [обучение Microsoft](/training/modules/forecast-cash-flow-dynamics-365-business-central/)
-
 ## См. также
 
-[Работа с финансовыми отчетами](bi-how-work-account-schedule.md)  
+[Работа с бухгалтерскими отчетами](bi-how-work-account-schedule.md)  
 [Анализ движения денежных средств в организации](finance-analyze-cash-flow.md)  
 [Пошаговые описания бизнес-процессов](walkthrough-business-process-walkthroughs.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  

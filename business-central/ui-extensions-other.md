@@ -16,8 +16,6 @@ ms.author: bholtorf
 
 Список расширений от других организаций растет каждый месяц. Поэтому следите за обновлениями [AppSource.microsoft.com](https://go.microsoft.com/fwlink/?linkid=2081646) и скачивайте расширения, которые помогут вам в работе с [!INCLUDE[prod_short](includes/prod_short.md)].  
 
-## См. соответствующее [обучение Microsoft](/training/modules/customize-dynamics-365-business-central/)
-
 ## См. также
 
 [Настройка [!INCLUDE[prod_short](includes/prod_short.md)] с помощью расширений](ui-extensions.md)  

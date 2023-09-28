@@ -167,8 +167,6 @@ ms.author: bholtorf
 
 :::image type="content" source="media/binflow.png" alt-text="Обзор времени и порядка заполнения поля &quot;Код ячейки&quot;":::
 
-## См. соответствующее [обучение Microsoft](/training/paths/pick-ship-items-business-central/)
-
 ## См. также
 
 [Запасы](inventory-manage-inventory.md)  

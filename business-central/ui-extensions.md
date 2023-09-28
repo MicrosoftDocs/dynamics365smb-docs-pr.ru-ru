@@ -87,12 +87,10 @@ ms.author: bholtorf
 > [!NOTE]
 > Если вы являетесь партнером или торговым посредником Microsoft и заинтересованы в предоставлении списка рекомендуемых приложений, см. [Рекомендовать приложения из AppSource](/dynamics365/business-central/dev-itpro/administration/recommend-apps) в содержимом по администрированию.
 
-## См. соответствующее [обучение Microsoft](/training/modules/customize-dynamics-365-business-central/)
-
 ## См. также
 
 [Установка и удаление приложений](ui-extensions-install-uninstall.md)  
-[Настройка Business Central](ui-customizing-overview.md)  
+[Пользовательская настройка Business Central](ui-customizing-overview.md)  
 [Приложения для Business Central от других поставщиков](ui-extensions-other.md)  
 [Настройка службы Envestnet Yodlee Bank Feeds](bank-how-setup-bank-statement-service.md)  
 [Включение платежей клиентов через службу платежей](sales-how-enable-payment-service-extensions.md)  

@@ -181,8 +181,6 @@ ms.author: bholtorf
 2. Заполните поля, как требуется, и нажмите кнопку **ОК**.  
 3. В качестве альтернативы удалите отдельные заказы на возврат покупки вручную.
 
-## См. соответствующее [обучение Microsoft](/training/paths/return-items-dynamics-365-business-central/)
-
 ## См. также
 [Покупки](purchasing-manage-purchasing.md)  
 [Регистрация покупок](purchasing-how-record-purchases.md)  

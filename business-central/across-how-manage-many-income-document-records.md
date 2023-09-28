@@ -47,8 +47,6 @@ ms.author: bholtorf
 > [!NOTE]  
 > Это действие можно выполнить для отдельной записи на странице **Карточка входящего документа**.
 
-## См. соответствующее [обучение Microsoft](/training/modules/incoming-documents-dynamics-365-business-central/)
-
 ## См. также
   
 [Создание записей входящих документов](across-how-create-income-document-records.md)

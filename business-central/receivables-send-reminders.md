@@ -11,15 +11,13 @@ ms.search.form: '436, 437, 442, 431, 432, 434'
 ms.date: 02/09/2022
 ms.author: bholtorf
 ---
-# Отправка напоминания о непогашенных остатках задолженности
+# Отправка напоминаний о задолженностях
 
 [!INCLUDE [receivables-reminders](includes/receivables-reminders.md)]
 
-## См. соответствующее [обучение Microsoft](/training/paths/process-financial-periodic-activities-dynamics-365-business-central/)
-
 ## См. также
 
-[Сбор непогашенных остатков задолженности](receivables-collect-outstanding-balances.md)  
+[Сбор задолженностей](receivables-collect-outstanding-balances.md)  
 [Настройка нескольких процентных ставок для отложенного платежа](finance-how-to-set-up-multiple-interest-rates.md)  
 [Настройка условий и уровней напоминаний](finance-setup-reminders.md)  
 [Настройка процентных ставок](finance-setup-finance-charges.md)  

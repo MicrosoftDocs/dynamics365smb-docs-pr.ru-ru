@@ -137,12 +137,10 @@ ms.author: bholtorf
 > [!IMPORTANT]  
 > [!INCLUDE[prod_short](includes/prod_short.md)] использует показатели продаж предыдущих лет для расчета акции стоимостью 1596,50 МВ со ста процентами для пакетов ИТ-ОБОРУДОВАНИЕ. Это означает, что все товары, проданные в прошлом году, будут распределены в объект затрат "ИТ-ОБОРУДОВАНИЕ".
 
-## См. соответствующее [обучение Microsoft](/training/modules/allocate-costs-dynamics-365-business-central/)
-
 ## См. также
 
  [Настройка учета затрат](finance-set-up-cost-accounting.md)  
- [Перемещение и операции учета затрат](finance-transfer-and-post-cost-entries.md)  
+ [Перемещение и учет операций затрат](finance-transfer-and-post-cost-entries.md)  
  [Учет по затратам](finance-manage-cost-accounting.md)  
  [Терминология в учете затрат](finance-terminology-in-cost-accounting.md)  
  [Об учете затрат](finance-about-cost-accounting.md)

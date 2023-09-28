@@ -79,13 +79,11 @@ ms.author: bholtorf
    Поле отличается от поля **Номер банковского счета**, также доступно на экспресс-вкладке **Общее**.
 4. Заполните требуемым образом поля на странице **Карточка банковского счета**. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 
-## См. соответствующее обучение на странице [Microsoft Learn](/learn/paths/set-up-financial-management-dynamics-365-business-central/).
-
 ## См. также
 
 [Настройка плана счетов](finance-setup-chart-accounts.md)  
 [Настройка банковских счетов](bank-how-setup-bank-accounts.md)  
-[Выполнение и печать отчетов](ui-work-report.md)  
+[Запуск и печать отчетов](ui-work-report.md)  
 [Краткое руководство по Business Central](quick-start-business-central.md)  
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

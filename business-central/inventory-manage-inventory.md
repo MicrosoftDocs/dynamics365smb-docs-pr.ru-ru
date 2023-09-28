@@ -55,8 +55,6 @@ ms.author: bholtorf
 |Управление бизнес-операциями в офисах продаж, отделах закупки или отделах планирования завода в нескольких местах.|[Работа с центрами ответственности](inventory-responsibility-centers.md)|
 |Используйте ресурсы с особыми функциями для различных услуг и пунктов обслуживания.|[Настройка распределения ресурсов](service-how-setup-resource-allocation.md)|
 
-## См. соответствующее [обучение Microsoft](/training/paths/get-started-inventory-management/)
-
 ## См. также
 
 [Обзор управления складом](design-details-warehouse-management.md)

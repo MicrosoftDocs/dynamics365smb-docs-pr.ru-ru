@@ -47,8 +47,6 @@ ms.author: bholtorf
 
 > [!Video https://www.microsoft.com/en-us/videoplayer/embed/RE4AegS?rel=0]
 
-## См. соответствующее [обучение Microsoft](/training/paths/manage-fixed-assets-transactions/)
-
 ## См. также
 
 [Настройка основных средств](fa-setup.md)  

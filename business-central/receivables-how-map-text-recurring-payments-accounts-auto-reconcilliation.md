@@ -52,8 +52,6 @@ ms.author: bholtorf
 | --- | --- | --- | --- | --- |
 | MyBank |ПУСТО |60400|Счет ГК |ПУСТО |
 
-## См. соответствующее [обучение Microsoft](/training/modules/use-journals-dynamics-365-business-central/)
-
 ## См. также
 
 [Управление дебиторской задолженностью](receivables-manage-receivables.md)  

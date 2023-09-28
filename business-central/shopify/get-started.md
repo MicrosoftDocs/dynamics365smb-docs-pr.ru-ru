@@ -6,8 +6,8 @@ ms.topic: article
 ms.service: dynamics365-business-central
 ms.reviewer: solsen
 ms.search.form: '30100, 30101, 30102, 30103, 30104, 30135,'
-author: AndreiPanko
-ms.author: andreipa
+author: brentholtorf
+ms.author: bholtorf
 ---
 
 # Начало работы с соединителем Shopify
@@ -59,7 +59,9 @@ ms.author: andreipa
 ### Известные проблемы
 
 - Браузер блокирует всплывающее окно. При включении переключателя **Включено** [!INCLUDE [prod_short](../includes/prod_short.md)] ожидает токен доступа от Shopify и в это время отображает страницу **Ожидание отклика — не закрывайте эту страницу**. Если эта страница будет закрыта или заблокирована, вы не сможете подключиться к Shopify. Подробнее см. в статье [Запрос токена доступа](troubleshoot.md#request-the-access-token)
+- Возможно, было бы неплохо открыть администрирование Shopify в том же браузере, что и [!INCLUDE [prod_short](../includes/prod_short.md)]
 - [Ошибка: Ошибка Oauth, invalid_request: не удалось найти приложение API для Shopify с api_key](troubleshoot.md#error-oauth-error-invalid_request-could-not-find-shopify-api-application-with-api_key)
+- [Ошибка: ошибка Oauth invalid_request: у вашей учетной записи нет разрешения на предоставление запрошенного доступа для этого приложения.](troubleshoot.md#error-oauth-error-invalid_request-your-account-does-not-have-permission-to-grant-the-requested-access-for-this-app)
 - [Не удается подключиться из песочницы](troubleshoot.md#verify-and-enable-permissions-to-make-http-requests-in-a-non-production-environment)
 
 ## Дальнейшие шаги
@@ -108,8 +110,6 @@ ms.author: andreipa
 
 *   Выберите **Черновик** в поле **Статус создания продукта**, чтобы гарантировать, что экспортированные продукты не будут доступны покупателям. Вы можете проверить, как продукция выглядит в интернет-магазине, а также синхронизировать цены, варианты и уровни запасов. Только не забудьте использовать фильтры на странице **Добавить товар в Shopify**, чтобы ограничить количество экспортируемых товаров.
 * Выключите переключатель **Экспорт клиента в Shopify**, чтобы не передавать клиентов в Shopify.
-
-## См. соответствующее [обучение Microsoft](/training/paths/use-shopify-connector-dynamics-365-business-central/)
 
 ## См. также
 

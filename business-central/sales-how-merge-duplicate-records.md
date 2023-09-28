@@ -56,8 +56,6 @@ ms.author: bholtorf
 > [!NOTE]
 > Для контактов можно использовать функцию поиска двойных контактов, прежде чем использовать страницу **Объединить дубликат**. Дополнительные сведения см. в разделе [Поиск повторяющихся контактов](marketing-setup-contacts.md#searching-for-duplicate-contacts).
 
-## См. соответствующее [обучение Microsoft](/training/modules/trade-master-data-dynamics-365-business-central/)
-
 ## См. также
 
 [Продажи](sales-manage-sales.md)  

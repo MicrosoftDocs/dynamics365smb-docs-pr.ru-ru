@@ -3,7 +3,7 @@ title: Среды-песочницы
 description: 'Узнайте о том, как специализированная среда может помочь вам безопасно исследовать, изучать, демонстрировать, разрабатывать, устранять неполадки и тестировать Business Central.'
 author: brentholtorf
 ms.topic: conceptual
-ms.reviewer: edupont
+ms.reviewer: bholtorf
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
@@ -63,8 +63,6 @@ When the assisted setup guide completes, you can start exploring the new company
 Для получения дополнительной информации см. [Использование конструктора](/dynamics365/business-central/dev-itpro/developer/devenv-inclient-designer) в документации разработчика и администратора (только на английском языке).  
 
 <!-- ![In-client Designer.](./media/across-sandbox/sandbox-inclient-designer.png) -->
-
-## См. соответствующее [обучение Microsoft](/training/modules/admin-online-dynamics-365-business-central/)
 
 ## См. также
 

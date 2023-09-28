@@ -136,8 +136,6 @@ ms.author: bholtorf
 > [!NOTE]  
 >  Ячейка должна быть пустой, прежде чем выбрать или очистить поле **Специальная**.
 
-## См. соответствующее [обучение Microsoft](/training/modules/get-started-warehouse-management/)
-
 ## См. также
 
 [Обзор управления складом](design-details-warehouse-management.md)

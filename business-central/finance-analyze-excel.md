@@ -50,8 +50,6 @@ ms.author: bholtorf
 
 Надстройка позволяет получать обновленные данные из [!INCLUDE [prod_short](includes/prod_short.md)], а также передавать изменения в [!INCLUDE [prod_short](includes/prod_short.md)]. Однако возможность передавать данные обратно в базу данных недоступна для финансовых отчетов, которые вы можете просматривать в Excel.  
 
-## См. соответствующее [обучение Microsoft](/training/modules/configure-powerbi-excel-dynamics-365-business-central/index)
-
 ## См. также
 
 [Просмотр и редактирование в Excel из Business Central](across-work-with-excel.md)  

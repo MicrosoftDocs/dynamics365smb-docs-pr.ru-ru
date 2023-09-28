@@ -46,8 +46,6 @@ ms.author: bholtorf
 
 Следующий шаг — указать, как [!INCLUDE [prod_short](includes/prod_short.md)] будет уведомлять людей о наличии запроса, требующего их внимания. Подробнее см. в статье [Настройка уведомлений рабочего процесса](across-setting-up-workflow-notifications.md).
 
-## См. соответствующее [обучение Microsoft](/training/modules/create-workflows/)
-
 ## См. также
 
 [Настройка пользователей рабочих процессов](across-how-to-set-up-workflow-users.md)  
