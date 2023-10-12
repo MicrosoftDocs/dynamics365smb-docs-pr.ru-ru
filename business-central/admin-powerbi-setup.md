@@ -2,19 +2,18 @@
 title: Включение интеграции Power BI с Business Central
 description: 'Узнайте, как настроить подключение к Power BI. С отчетами Power BI можно получить аналитические сведения, бизнес-аналитику и ключевые показатели эффективности из данных Business Central.'
 author: jswymer
-ms.topic: get-started-article
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.topic: get-started
 ms.search.keywords: 'Power BI, setup, analysis, reporting, financial report, business intelligence, KPI'
-ms.date: 07/13/2022
+ms.date: 09/28/2023
 ms.author: jswymer
 ---
-# <a name="enabling-power-bi-integration-with-"></a>Включение интеграции Power BI с [!INCLUDE[prod_short](includes/prod_short.md)]
+# Включение интеграции Power BI с [!INCLUDE[prod_short](includes/prod_short.md)]
+
+[!INCLUDE[azure-ad-to-microsoft-entra-id](~/../shared-content/shared/azure-ad-to-microsoft-entra-id.md)]
 
 В этой статье описывается, как подготовить [!INCLUDE[prod_short](includes/prod_short.md)] к интеграции с Power BI. [!INCLUDE[prod_short](includes/prod_short.md)] Online уже включен для интеграции, хотя есть некоторая информация о лицензировании, которую вы, возможно, захотите прочитать. Для [!INCLUDE[prod_short](includes/prod_short.md)] On-Premises вам требуется настроить свою среду для подключения к Power BI, прежде чем пользователи смогут с ним работать.
 
-## <a name="power-bi-licensing"></a><a name="license"></a>Лицензирование Power BI
+## <a name="license"></a>Лицензирование Power BI
 
 С [!INCLUDE[prod_short](includes/prod_short.md)] пользователи получают бесплатную лицензию Power BI, которая обеспечивает доступ к наиболее распространенным функциям в [!INCLUDE[prod_short](includes/prod_short.md)] и Power BI. Вы также можете приобрести лицензию Power BI Pro, предоставляющую доступ к дополнительным функциям. В следующей таблице представлен обзор функций, доступных для каждой лицензии.
 
@@ -25,11 +24,11 @@ ms.author: jswymer
 
 Дополнительные сведения см. в разделе [Лицензирование службы Power BI для пользователей в вашей организации](/power-bi/admin/service-admin-licensing-organization) или [Регистрация на службу Power BI как физическое лицо](/power-bi/fundamentals/service-self-service-signup-for-power-bi).
 
-## <a name="expose-data-through-api-or-odata-web-services"></a><a name="exposedata"></a>Предоставлять данные через API или веб-службы OData
+## <a name="exposedata"></a>Предоставлять данные через API или веб-службы OData
 
 Business Central предлагает два способа предоставления данных, которые могут быть использованы отчетами Power BI: страницы или запросы API и веб-службы Open Data Protocol (OData).
 
-### <a name="api-pages-and-queries"></a>Страницы и запросы API
+### Страницы и запросы API
 
 > **ПРИМЕНЯЕТСЯ К:** только Business Central Online
 
@@ -44,21 +43,21 @@ Business Central Online также поддерживает настраивае
 >
 > В редких случаях поведение вызывает ошибку, когда пользователь пытается получить данные из API для отчета в Power BI Desktop. Однако если для пользовательского API необходимы модификации базы данных, пользователи Power BI Desktop могут форсировать такое поведение. Дополнительные сведения см. в разделе [Создание отчетов Power BI для отображения данных Business Central](across-how-use-financials-data-source-powerbi.md#fixing-problems).
 
-### <a name="odata-web-services"></a>Веб-службы OData
+### Веб-службы OData
 
 Вы можете публиковать объекты приложения Business Central, такие как модули кода, страницы и запросы, как [Веб-службы OData](/dynamics365/business-central/dev-itpro/webservices/odata-web-services). В Business Central Online по умолчанию публикуется множество веб-служб. Простой способ найти веб-службы — найти *веб-службы* в [!INCLUDE[prod_short](includes/prod_short.md)]. На странице **Веб-службы** убедитесь, что поле **Опубликовать** выбрано для веб-служб, перечисленных выше. Дополнительные сведения о публикации веб-служб см. в разделе [Публикация веб-службы](across-how-publish-web-service.md).
 
 Чтобы узнать, что вы можете сделать для обеспечения максимальной производительности веб-служб с точки зрения сервера Business Central Server (конечная точка) и потребителя (клиент), ознакомьтесь с разделом [Создание эффективных веб-служб](/dynamics365/business-central/dev-itpro/performance/performance-developer#writing-efficient-web-services).
 
-### <a name="choosing-whether-to-use-api-pages-or-odata-web-services"></a>Выбор использования страниц API или веб-служб OData
+### Выбор использования страниц API или веб-служб OData
 
 По возможности рекомендуется использовать страницы API вместо веб-службы OData. Страницы API обычно быстрее загружают данные в отчеты Power BI, чем веб-службы OData. Кроме того, они более гибкие, поскольку позволяют получать данные из полей таблицы, которые не определены в объекте страницы.
 
-## <a name="set-up--on-premises-for-power-bi-integration"></a><a name="setup"></a>Настройка [!INCLUDE[prod_short](includes/prod_short.md)] On-Premises для интеграции с Power BI
+## <a name="setup"></a>Настройка [!INCLUDE[prod_short](includes/prod_short.md)] On-Premises для интеграции с Power BI
 
 В этом разделе объясняются требования к развертыванию [!INCLUDE[prod_short](includes/prod_short.md)] On-Premises для интеграции с Power BI.
 
-1. Настройте либо NavUserPassword, либо проверку подлинности Azure Active Directory для развертывания.  
+1. Настройте либо [NavUserPassword](/dynamics365/business-central/dev-itpro/administration/authenticating-users-with-navuserpassword), либо [Microsoft Entra ID](/dynamics365/business-central/dev-itpro/administration/authenticating-users-with-azure-ad-overview) в качестве метода проверки подлинности для развертывания.  
     
     > [!NOTE]
     > Интеграция с Power BI не поддерживает проверку подлинности Windows и не поддерживается в клиенте Windows.
@@ -79,22 +78,19 @@ Business Central Online также поддерживает настраивае
 
 4. Создайте регистрацию приложения [!INCLUDE[prod_short](includes/prod_short.md)] в Microsoft Azure.
 
-    Для просмотра отчетов Power BI, встроенных в страницы [!INCLUDE[prod_short](includes/prod_short.md)], необходимо зарегистрировать приложение для [!INCLUDE[prod_short](includes/prod_short.md)] в Microsoft Azure. Зарегистрированному приложению требуется разрешение на службы Power BI. Как минимум, приложение требует разрешения **User.ReadWrite.All**. Чтобы пользователи могли просматривать отчеты из общих рабочих областей Power BI, приложению требуется разрешение **Workspace.Read.All**. Для получения дополнительной информации см. раздел [Регистрация [!INCLUDE[prod_short](includes/prod_short.md)] On-Premises в Azure AD для интеграции с другими службами](/dynamics365/business-central/dev-itpro/administration/register-app-azure).
+    Для просмотра отчетов Power BI, встроенных в страницы [!INCLUDE[prod_short](includes/prod_short.md)], необходимо зарегистрировать приложение для [!INCLUDE[prod_short](includes/prod_short.md)] в Microsoft Azure. Зарегистрированному приложению требуется разрешение на службы Power BI. Как минимум, приложение требует разрешения **User.ReadWrite.All**. Чтобы пользователи могли просматривать отчеты из общих рабочих областей Power BI, приложению требуется разрешение **Workspace.Read.All**. Дополнительные сведения см. в статье [Регистрация локального экземпляра [!INCLUDE[prod_short](includes/prod_short.md)] в Microsoft Entra для интеграции с другими службами](/dynamics365/business-central/dev-itpro/administration/register-app-azure).
 
     > [!NOTE]
-    > Если ваше развертывание использует аутентификацию NavUserPassword, [!INCLUDE[prod_short](includes/prod_short.md)] подключается к одной службе Power BI для всех пользователей. Вы укажете эту учетную запись службы при регистрации приложения. С аутентификацией Azure AD [!INCLUDE[prod_short](includes/prod_short.md)] подключается к службе Power BI, связанно с отдельными учетными записями пользователей.
+    > Если ваше развертывание использует аутентификацию NavUserPassword, [!INCLUDE[prod_short](includes/prod_short.md)] подключается к одной службе Power BI для всех пользователей. Вы укажете эту учетную запись службы при регистрации приложения. С аутентификацией Microsoft Entra [!INCLUDE[prod_short](includes/prod_short.md)] подключается к службе Power BI, связанно с отдельными учетными записями пользователей.
 
     <!-- Windows authentication can also be used but you can't get data from BC in Power BI -->
 5. Выполните первоначальное подключение Business Central к Power BI.
 
     Прежде чем конечные пользователи смогут использовать Power BI в [!INCLUDE[prod_short](includes/prod_short.md)], администратор приложения Azure должен будет дать согласие на службу Power BI.
 
-    Для первоначального подключения откройте [!INCLUDE[prod_short](includes/prod_short.md)] и выполните на главной странице процедуру **Начало работы с Power BI**. Это действие проведет вас через процесс получения согласия и проверит вашу лицензию Power BI. При появлении запроса войдите в систему, используя учетную запись администратора Azure. Дополнительные сведения см. в разделе [Подключение к Power BI — только один раз](across-working-with-powerbi.md#connect).
+    Для первоначального подключения откройте [!INCLUDE[prod_short](includes/prod_short.md)] и выполните на главной странице процедуру **Начало работы с Power BI**. Это действие проведет вас через процесс получения согласия и проверит вашу лицензию Power BI. При появлении запроса войдите в систему, используя учетную запись администратора Microsoft Entra. Дополнительные сведения см. в разделе [Подключение к Power BI — только один раз](across-working-with-powerbi.md#connect).
 
-
-## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/Configure-powerbi-excel-dynamics-365-business-central/index)
-
-## <a name="see-also"></a>См. также
+## См. также
 
 [Business Central и Power BI](admin-powerbi.md)  
 [Обзор компонентов и архитектуры интеграции Power BI для [!INCLUDE[prod_short](includes/prod_short.md)]](admin-powerbi-overview.md)  

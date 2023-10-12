@@ -10,14 +10,14 @@ ms.search.form: 99000823
 ms.date: 03/08/2023
 ms.author: bholtorf
 ---
-# <a name="post-scrap-manually"></a>Учет брака/отходов вручную
+# Учет брака/отходов вручную
 
 Если в ходе обработки возникают отходы, их можно также ввести в журнал выхода.  
 
 > [!NOTE]
 > Добавление количества брака/отхода не увеличивает количество выхода.  
 
-## <a name="to-post-scrap-manually"></a>Учет брака вручную
+## Учет брака вручную
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Журнал выхода продукции**, а затем выберите связанную ссылку.  
 2. Заполните соответствующим образом поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
@@ -27,7 +27,7 @@ ms.author: bholtorf
 
     [!INCLUDE [preview-posting-inventory](includes/preview-posting-inventory.md)]    
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Производство](production-manage-manufacturing.md)
 [Настройка производства](production-configure-production-processes.md)  

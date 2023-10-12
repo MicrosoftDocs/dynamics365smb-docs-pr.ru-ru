@@ -2,11 +2,11 @@
 metadata:
   title: Вопросы и ответы об использовании Business Central
   description: 'Ответы на общие вопросы о том, как зарегистрироваться на Business Central или приобрести его, продлить пробную версию, отменить подписку, а также найти обучение и другую поддержку.'
-  author: edupont04
+  author: brentholtorf
   ms.topic: faq
   ms.search.keywords: 'FAQ, email, Microsoft 365, subscription, subscribe, trial, plan, application area, experience, support, buy, upgrade, extend'
   ms.date: 07/14/2023
-  ms.author: edupont
+  ms.author: bholtorf
 title: Вопросы и ответы об использовании Business Central
 summary: |
   В этом разделе содержатся ответы на часто задаваемые вопросы по регистрации на пробную версию, приобретению подписки и использованию [!INCLUDE[prod_short](includes/prod_short.md)]. Можно также узнать порядок получения технической поддержки.  
@@ -16,7 +16,7 @@ sections:
       - question: |
           Business Central доступен в моем стране или регионе?
         answer: |
-          [!INCLUDE[prod_short](includes/prod_short.md)] доступно в ограниченном количестве стран, но новые страны/регионы добавляются ежеквартально за счет локализации, проводимой корпорацией Майкрософт или партнерами. Дополнительные сведения можно найти в разделе [Наличие в странах/регионах и поддерживаемые переводы](/dynamics365/business-central/dev-itpro/compliance/apptest-countries-and-translations?toc=/dynamics365/business-central/toc.json) (доступно только на английском языке).  
+          Продукт [!INCLUDE[prod_short](includes/prod_short.md)] доступен в ограниченном количестве стран/регионов, но новые страны/регионы добавляются ежеквартально за счет локализации, проводимой корпорацией Майкрософт или партнерами. Дополнительные сведения можно найти в разделе [Наличие в странах/регионах и поддерживаемые переводы](/dynamics365/business-central/dev-itpro/compliance/apptest-countries-and-translations?toc=/dynamics365/business-central/toc.json) (доступно только на английском языке).  
       - question: |
           Как получить Business Central?
         answer: |
@@ -65,7 +65,7 @@ sections:
       - question: |
           Где мне найти этот номер строки?
         answer: |
-          Такие документы, как заказ на продажу или счета-фактуры продажи, состоят из заголовков и строк. В каждой строке есть номер, который [!INCLUDE [prod_short](includes/prod_short.md)] использует для идентификации этой конкретной строки. В результате вы можете увидеть предупреждение или сообщение об ошибке, например, что есть ошибка в строке с номером 1000. В версии по умолчанию [!INCLUDE [prod_short](includes/prod_short.md)] номера строк скрыты. Если вы хотите видеть номера строк, вы должны персонализировать текущую страницу и добавить **№ строки**. . Подробнее см. в разделе [Персонализация рабочей области](ui-personalization-user.md#to-start-personalizing-a-page-through-the-personalizing-banner).  
+          Такие документы, как заказ на продажу или счета-фактуры продажи, состоят из заголовков и строк. В каждой строке есть номер, который [!INCLUDE [prod_short](includes/prod_short.md)] использует для идентификации этой конкретной строки. В результате вы можете увидеть предупреждение или сообщение об ошибке, например, что есть ошибка в строке с номером 1000. В версии по умолчанию [!INCLUDE [prod_short](includes/prod_short.md)] номера строк скрыты. Если вы хотите видеть номера строк, вы должны персонализировать текущую страницу и добавить **№ строки**. . Подробнее см. в разделе [Персонализация рабочей области](ui-personalization-user.md#start-personalizing-by-using-the-personalization-mode).  
       - question: |
           Почему в справке описываются функциональные возможности, к которым я не могу получить доступ?
         answer: |
@@ -90,7 +90,7 @@ sections:
 
           Если регистрация выполнена с не относящейся к работе учетной записью Microsoft 365 (например, joe@mysolution.com) и у вас есть подписка на Microsoft 365, можно связать ваш домен (*mysolution.com*) с подпиской на Microsoft 365. Подробнее см. в разделе [Что такое домен?](/microsoft-365/admin/get-help-with-domains/what-is-a-domain?view=o365-worldwide&preserve-view=true) в содержимом Microsoft 365.  
 
-          Если у вас нет подписки на Microsoft 365 и вы не хотите приобретать ее, то при регистрации мы подготовим для вас нового клиента Azure Active Directory, чтобы у вас был доступ к расширенным средствам администрирования на портале Azure.  
+          Если у вас нет подписки на Microsoft 365 и вы не хотите приобретать ее, то при регистрации мы подготовим для вас нового клиента Microsoft Entra, чтобы у вас был доступ к расширенным средствам администрирования на портале Azure.  
       - question: |
           Что такое интеграция с Microsoft 365?
         answer: |

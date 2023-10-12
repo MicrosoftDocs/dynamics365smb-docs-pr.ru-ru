@@ -9,7 +9,7 @@ ms.date: 08/25/2023
 ms.custom: bap-template
 ms.search.keywords: 'news, release plan, roadmap, whats new'
 ---
-# <a name="new-and-planned-for-dynamics-365-business-central"></a>Новые и планируемые функции для Dynamics 365 Business Central
+# Новые и планируемые функции для Dynamics 365 Business Central
 
 [!INCLUDE[release notes](includes/release-notes.md)]
 
@@ -22,11 +22,11 @@ ms.search.keywords: 'news, release plan, roadmap, whats new'
 
 Узнать, как [!INCLUDE [prod_short](includes/prod_short.md)] Online будет получать следующие обновления, можно из статьи [Основные обновления и дополнительные обновления](/dynamics365/business-central/dev-itpro/administration/update-rollout-timeline) (только на английском языке).
 
-## <a name="get-notified-about-changes-through-an-rss-feed"></a>Получайте уведомления об изменениях через RSS-канал
+## Получайте уведомления об изменениях через RSS-канал
 
 [!INCLUDE [ua-rss](includes/ua-rss.md)]
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Библиотека видео](across-videos.md)  
 [Ресурсы для справки и поддержки](product-help-and-support.md)  
@@ -34,7 +34,7 @@ ms.search.keywords: 'news, release plan, roadmap, whats new'
 [Краткие руководства по Business Central](quick-start-business-central.md)  
 [Что нового и что изменилось](/dynamics365/business-central/dev-itpro/whatsnew/overview)  
 [Возможности Dynamics 365 Business Central](https://dynamics.microsoft.com/business-central/capabilities/)  
-[Дорожная карта Dynamics 365 Business Central](https://dynamics.microsoft.com/roadmap/business-central/)  
+[Dynamics 365 Business Central Планы выпусков](https://releaseplans.microsoft.com/?app=Business+Central&group=dynamics-365&subgroup=dynamics-365-business-central)
 [Блог Dynamics 365](https://cloudblogs.microsoft.com/dynamics365/it/product/business-central/)  
 [Цены на Business Central](https://dynamics.microsoft.com/business-central/overview/#pricing)  
 [Форум сообщества Dynamics 365 Business Central](https://community.dynamics.com/forums/thread/?groupid=e78817ab-a926-4d31-96cc-aef040a4eb04)  

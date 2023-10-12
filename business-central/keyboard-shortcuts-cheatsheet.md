@@ -4,16 +4,16 @@ description: 'Удобная для печати справочная стран
 author: jswymer
 ms.topic: conceptual
 ms.search.keywords: 'accessibility, shortcuts, keyboarding, keys'
-ms.date: 02/09/2023
+ms.date: 09/11/2023
 ms.author: jswymer
 ms.review: jswymer
 ms.service: dynamics365-business-central
 ms.custom: bap-template
 ---
 
-# <a name="keyboard-quick-reference---pc-only"></a>Краткая справка по сочетаниям клавиш — только ПК
+# Краткая справка по сочетаниям клавиш — только ПК
 
-#### <a name="general"></a>Общие
+#### Общие
 
 |Выберите эти клавиши|Действие|  
 |-|-|
@@ -26,6 +26,7 @@ ms.custom: bap-template
 |<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Q</kbd>|Открытие **Найти записи**|
 |<kbd>Alt</kbd>+<kbd>Стрелка вверх</kbd>|Открытие всплывающей подсказки или ошибки проверки|
 |<kbd>Alt</kbd>+<kbd>Стрелка вниз</kbd>|Открытие раскрывающегося списка или поля подстановки|
+|<kbd>Ctrl</kbd>+<kbd>Alt</kbd><kbd>Стрелка вниз</kbd>|Открытие карточки связанной записи или ее страницы списка, отфильтрованной по значению в поле подстановки или помощи в редактировании|
 |<kbd>Alt</kbd>+<kbd>T</kbd>|Открытие страницы **Мои настройки**|
 |<kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>W</kbd>|Открытие текущей карточки или документа в новом окне|
 |<kbd>Ctrl</kbd>+<kbd>Insert</kbd>|Вставка новой строки в документ|
@@ -39,7 +40,7 @@ ms.custom: bap-template
 |<kbd>Tab</kbd>/<kbd>Shift</kbd>+<kbd>Tab</kbd>|Перемещение фокуса на следующий/предыдущий элемент|
 |<kbd>F6</kbd>/<kbd>Shift</kbd>+<kbd>F6</kbd>|Переход к следующей экспресс-вкладке/части|
 
-#### <a name="navigate--select-rows"></a>Навигация и выбор строк
+#### Навигация и выбор строк
 
 |Выберите эти клавиши|Действие|
 |-|-|
@@ -53,14 +54,14 @@ ms.custom: bap-template
 |<kbd>Shift</kbd>+<kbd>Page Up</kbd>/<kbd>Down</kbd>|Выбор видимых строк сверху или снизу|
 |<kbd>Ctrl</kbd>+<kbd>Ввод</kbd>|Вывод фокуса из списка|
 
-#### <a name="copy--paste"></a>Копирование и вставка
+#### Копирование и вставка
 
 |Выберите эти клавиши|Действие|
 |-|-|
 |<kbd>Ctrl</kbd>+<kbd>C</kbd>/<kbd>V</kbd>|Копировать/вставить строки|
 |<kbd>F8</kbd>|Копировать поле выше в текущую строку|
 
-#### <a name="search-filter--sort"></a>Поиск, фильтрация и сортировка
+#### Поиск, фильтрация и сортировка
 
 |Выберите эти клавиши|Действие|
 |-|-|
@@ -71,20 +72,20 @@ ms.custom: bap-template
 |<kbd>Shift</kbd>+<kbd>Alt</kbd>+<kbd>F3</kbd>|Добавить фильтр в выбранное поле|
 |<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>F3</kbd>|Сброс фильтров|
 
-#### <a name="quick-entry"></a>Экспресс-ввод
+#### Экспресс-ввод
 
 |Выберите эти клавиши|Действие|
 |-|-|
 |<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>Ввод</kbd>|Переход к следующему полю экспресс-ввода за пределами списка|
 |<kbd>Enter</kbd>/<kbd>Shift</kbd>+<kbd>Ввод</kbd>|Переход к следующему/предыдущему полю экспресс-ввода|
 
-##### <a name="report-preview"></a>Предварительный просмотр отчета
+##### Предварительный просмотр отчета
 
 |Выберите эти клавиши|Действие|
 |-|-|
 |<kbd>Ctrl</kbd>+<kbd>Home</kbd>/<kbd>End</kbd>|Перейти к первой/последней странице|
 
-#### <a name="numeric-keypad"></a>Цифровая клавиатура
+#### Цифровая клавиатура
 
 |Выберите эти клавиши|Действие|  
 |-|-|

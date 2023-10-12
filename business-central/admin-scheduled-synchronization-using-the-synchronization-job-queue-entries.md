@@ -10,7 +10,7 @@ ms.custom: bap-template
 ms.search.keywords: 'sales, crm, integration, sync, synchronize'
 ---
 
-# <a name="scheduling-a-synchronization-between-business-central-and-dataverse"></a>Планирование синхронизации между Business Central и Dataverse
+# Планирование синхронизации между Business Central и Dataverse
 
 Можно синхронизировать [!INCLUDE[prod_short](includes/prod_short.md)] с [!INCLUDE[cds_long_md](includes/cds_long_md.md)] для запланированных интервалов путем настройки заданий в очереди заданий. Задания синхронизации синхронизируют данные в записях [!INCLUDE[prod_short](includes/prod_short.md)] и записях [!INCLUDE[cds_long_md](includes/cds_long_md.md)], которые связаны. Что касается еще не связанных записей, в зависимости от направления синхронизации и правил, задания синхронизации могут создавать и связывать новые записи в целевой системе.
 
@@ -24,7 +24,7 @@ ms.search.keywords: 'sales, crm, integration, sync, synchronize'
 
 Задания можно просмотреть на странице **Операции очереди работ**. Дополнительные сведения см. в разделе [Использование очередей работ для планирования задач](admin-job-queues-schedule-tasks.md).
 
-## <a name="default-synchronization-job-queue-entries"></a>Операции очереди заданий синхронизации по умолчанию
+## Операции очереди заданий синхронизации по умолчанию
 
 В следующей таблице описываются задания синхронизации по умолчанию для [!INCLUDE[cds_long_md](includes/cds_long_md.md)].  
 
@@ -36,7 +36,7 @@ ms.search.keywords: 'sales, crm, integration, sync, synchronize'
 | Задание синхронизации "ПОСТАВЩИК — Common Data Service" | Синхронизирует организации [!INCLUDE[cds_long_md](includes/cds_long_md.md)] с клиентами [!INCLUDE[prod_short](includes/prod_short.md)]. | Двунаправленная | ПОСТАВЩИК | 30 | 720<br> (12 ч.) |
 | Задание синхронизации "ПРОДАВЦЫ — Common Data Service" | Синхронизирует продавцов [!INCLUDE[prod_short](includes/prod_short.md)] с пользователями [!INCLUDE[cds_long_md](includes/cds_long_md.md)]. | Из [!INCLUDE[cds_long_md](includes/cds_long_md.md)] в [!INCLUDE[prod_short](includes/prod_short.md)] | ПРОДАВЦЫ | 30 | 1440<br> (24 ч.) |
 
-## <a name="synchronization-process"></a>Процесс синхронизации
+## Процесс синхронизации
 
 Каждая операция очереди заданий синхронизации использует соответствующее сопоставление таблицы интеграции, задающее таблицу [!INCLUDE[prod_short](includes/prod_short.md)] и таблицу [!INCLUDE[cds_long_md](includes/cds_long_md.md)], которые должны быть синхронизированы. Сопоставления таблиц также включают ряд настроек, управляющих записями в таблице [!INCLUDE[prod_short](includes/prod_short.md)] и таблице [!INCLUDE[cds_long_md](includes/cds_long_md.md)], которые должны быть синхронизированы.  
 
@@ -57,9 +57,9 @@ ms.search.keywords: 'sales, crm, integration, sync, synchronize'
 
 - При двунаправленной синхронизации задание выполняет синхронизацию из [!INCLUDE[prod_short](includes/prod_short.md)] в [!INCLUDE[cds_long_md](includes/cds_long_md.md)], а затем из [!INCLUDE[cds_long_md](includes/cds_long_md.md)] в [!INCLUDE[prod_short](includes/prod_short.md)].
 
-## <a name="about-inactivity-timeouts"></a>О таймаутах неактивности
+## О таймаутах неактивности
 
-Некоторые операции очереди работ, например те, которые планируют синхронизацию между [!INCLUDE[prod_short](includes/prod_short.md)] и [!INCLUDE[cds_long_md](includes/cds_long_md.md)], используют поле **Таймаут неактивности** на странице операции очереди работ, чтобы предотвратить ненужный запуск очереди работ.  
+Некоторые операции очереди заданий, например те, которые планируют синхронизацию между [!INCLUDE[prod_short](includes/prod_short.md)] и [!INCLUDE[cds_long_md](includes/cds_long_md.md)], используют поле **Таймаут неактивности** на странице **Операция очереди заданий** во избежание ненужных запусков операции очереди заданий.  
 
 :::image type="content" source="media/on-hold-with-inactivity-timeout.png" alt-text="Блок-схема, когда операции очереди работ приостанавливаются из-за неактивности.":::
 
@@ -70,7 +70,7 @@ ms.search.keywords: 'sales, crm, integration, sync, synchronize'
 > [!Note]
 > [!INCLUDE[prod_short](includes/prod_short.md)] автоматически активирует операции очереди работ, которые находятся на удержании только тогда, когда в [!INCLUDE[prod_short](includes/prod_short.md)] происходят изменения. Изменения в [!INCLUDE[cds_long_md](includes/cds_long_md.md)] не активируют операции очереди работ.
 
-## <a name="to-view-the-synchronization-job-log"></a>Просмотр журнала заданий синхронизации
+## Просмотр журнала заданий синхронизации
 
 1. Выберите значок :::image type="icon" source="media/ui-search/search_small.png" border="false":::, введите **Журнал синхронизации интеграции**, а затем выберите связанную ссылку.
 2. Если при выполнении задания синхронизации произошла одна или несколько ошибок, количество ошибок отображается в столбце **Ошибки**. Для просмотра ошибок по заданию выберите номер.  
@@ -78,16 +78,16 @@ ms.search.keywords: 'sales, crm, integration, sync, synchronize'
     > [!TIP]  
     > Можно просмотреть все ошибки задания синхронизации, открыв журнал ошибок задания синхронизации вручную.
 
-## <a name="to-view-the-synchronization-job-log-from-the-table-mappings"></a>Просмотр журнала заданий синхронизации из сопоставлений таблиц
+## Просмотр журнала заданий синхронизации из сопоставлений таблиц
 
 1. Выберите значок :::image type="icon" source="media/ui-search/search_small.png" border="false":::, введите **Сопоставления таблиц интеграции**, а затем выберите связанную ссылку.
 2. На странице **Сопоставления таблиц интеграции** выберите запись, затем выберите **Журнал заданий синхронизации интеграции**.  
 
-## <a name="to-view-the-synchronization-error-log"></a>Просмотр журнала ошибок синхронизации
+## Просмотр журнала ошибок синхронизации
 
 - Выберите значок :::image type="icon" source="media/ui-search/search_small.png" border="false":::, введите **Ошибки синхронизации интеграции**, а затем выберите связанную ссылку.
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Синхронизация данных в Business Central и [!INCLUDE[cds_long_md](includes/cds_long_md.md)]](admin-synchronizing-business-central-and-sales.md)  
 [Ручная синхронизация сопоставлений таблиц](admin-manual-synchronization-of-table-mappings.md)  

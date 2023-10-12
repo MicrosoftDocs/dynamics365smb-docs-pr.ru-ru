@@ -3,14 +3,16 @@ title: Настройка электронной почты в Business Central 
 description: 'Описывается, как подключить учетные записи электронной почты к Business Central, чтобы вы могли отправлять исходящие сообщения, не открывая другое приложение.'
 author: brentholtorf
 ms.author: bholtorf
-ms.topic: get-started-article
+ms.topic: get-started
 ms.search.keywords: 'SMTP, email, Office 365, connector'
 ms.search.form: '1805, 9813, 9814, 1262, 1263'
 ms.date: 09/13/2023
 ms.custom: bap-template
 ---
 
-# <a name="set-up-email"></a>Настройка электронной почты
+# Настройка электронной почты
+
+[!INCLUDE[azure-ad-to-microsoft-entra-id](~/../shared-content/shared/azure-ad-to-microsoft-entra-id.md)]
 
 Сотрудники предприятий ежедневно отправляют по электронной почте информацию и документы, такие как заказы на продажу и покупку и счета-фактуры. Администраторы могут подключить одну или несколько учетных записей электронной почты к [!INCLUDE[prod_short](includes/prod_short.md)], что позволяет отправлять документы, не открывая приложение электронной почты. Вы можете составлять каждое сообщение индивидуально с помощью основных инструментов форматирования, таких как шрифты, стили, цвета и т. д., и добавлять вложения размером до 100 МБ. Кроме того, макеты отчетов позволяют администраторам включать только ключевую информацию из документов. Подробнее см. в разделе [Отправка документов по электронной почте](ui-how-send-documents-email.md).
 
@@ -21,14 +23,14 @@ ms.custom: bap-template
 >
 > Если вы используете локальную версию [!INCLUDE[prod_short](includes/prod_short.md)], прежде чем вы сможете настроить электронную почту, вы должны создать регистрацию приложения для [!INCLUDE[prod_short](includes/prod_short.md)] на портале Azure. Регистрация приложения позволит [!INCLUDE[prod_short](includes/prod_short.md)] авторизовать и аутентифицировать вашего поставщика электронной почты. Подробнее см. в статье [Настройка электронной почты для локальной версии Business Central](admin-how-setup-email.md#set-up-email-for-business-central-on-premises). В [!INCLUDE[prod_short](includes/prod_short.md)] Online мы сделаем это за вас.
 
-## <a name="requirements"></a>Требования
+## Требования
 
 Существует несколько требований, которые должны быть выполнены для настройки и использования функций электронной почты.
 
 * Чтобы настроить электронную почту, у вас должен быть набор разрешений **НАСТРОЙКА ЭЛ. ПОЧТЫ**. Дополнительные сведения см. в разделе [Назначение разрешений пользователям и группам](ui-define-granular-permissions.md).
 * Каждый, кто будет использовать функции электронной почты, должен иметь полную лицензию на [!INCLUDE [prod_short](includes/prod_short.md)]. Например, делегированные администраторы и гостевые пользователи не могут использовать учетную запись электронной почты арендатора.
 
-## <a name="add-email-accounts"></a>Добавление учетных записей электронной почты
+## Добавление учетных записей электронной почты
 
 Вы добавляете учетные записи электронной почты через расширения, которые позволяют учетным записям разных поставщиков подключаться к [!INCLUDE[prod_short](includes/prod_short.md)]. Стандартные расширения позволяют использовать учетные записи из Microsoft Exchange Online. Однако могут быть доступны и другие расширения, позволяющие подключать учетные записи других поставщиков, например Gmail.
 
@@ -49,20 +51,20 @@ ms.custom: bap-template
 
 > [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE4JsUk]
 
-## <a name="use-smtp"></a>Использовать SMTP
+## Использовать SMTP
 
 Если вы хотите использовать протокол SMTP для отправки сообщений электронной почты из [!INCLUDE[prod_short](includes/prod_short.md)], вы можете использовать расширение соединителя SMTP. При настройке учетной записи, использующей SMTP, важным полем является **Тип отправителя**. Если вы выберете **Конкретный пользователь**, сообщения электронной почты будут отправляться с использованием имени и другой информации из учетной записи, которую вы настраиваете. Однако, если вы выберете **Текущий пользователь**, сообщения электронной почты будут отправляться с учетной записи электронной почты, указанной для учетной записи каждого пользователя. Текущий пользователь похож на функцию «Отправить как». Дополнительные сведения см. в разделе [Использование замещающего адреса отправителя в исходящих сообщениях электронной почты](admin-how-setup-email.md#use-a-substitute-sender-address-on-outbound-email-messages). 
 
 > [!IMPORTANT]
 > Если вы используете локальную версию [!INCLUDE[prod_short](includes/prod_short.md)] On-Premises, вы можете использовать для аутентификации протокол OAuth 2.0. Чтобы использовать OAuth для SMTP, все пользователи должны находиться в одном клиенте Microsoft Entra. 
 > 
-> Вы должны создать регистрацию приложения на портале Azure, а затем запустить мастер настройки **Настройка Azure Active Directory** в [!INCLUDE[prod_short](includes/prod_short.md)], чтобы подключиться к Azure AD. Дополнительные сведения см. в разделе [Создание регистрации приложения для Business Central на портале Azure](admin-how-setup-email.md#create-an-app-registration-for-business-central-in-azure-portal).
+> Вы должны создать регистрацию приложения на портале Azure, а затем запустить мастер настройки **Настройка Microsoft Entra ID** в [!INCLUDE[prod_short](includes/prod_short.md)], чтобы подключиться к Microsoft Entra ID. Дополнительные сведения см. в разделе [Создание регистрации приложения для Business Central на портале Azure](admin-how-setup-email.md#create-an-app-registration-for-business-central-in-azure-portal).
 >
 > В Exchange Online использовать обычную аутентификацию для SMTP больше не рекомендуется. Это изменение не затронет арендаторов, которые в настоящее время используют SMTP AUTH. Однако мы настоятельно рекомендуем использовать последнюю версию [!INCLUDE [prod_short](includes/prod_short.md)] и настроить аутентификацию OAuth 2.0 для SMTP. Мы не будем добавлять аутентификацию на основе сертификатов для более ранних версий [!INCLUDE [prod_short](includes/prod_short.md)], например версии 14. Если у вас нет возможности настроить аутентификацию OAuth 2.0, рекомендуем изучить сторонние альтернативы, если вы хотите использовать электронную почту SMTP в более ранних версиях.
 
 [!INCLUDE [email-copy-company](includes/email-copy-company.md)]
 
-## <a name="use-the-set-up-email-assisted-setup-guide"></a>Использование мастера настройки "Настройка электронной почты"
+## Использование мастера настройки "Настройка электронной почты"
 
 Мастер настройки **Настройка электронной почты** поможет вам быстро начать работу с электронной почтой.
 
@@ -78,14 +80,14 @@ ms.custom: bap-template
 > If you choose **Other (SMTP)** and are using an account that requires two-factor authentication, the password that you enter in the **Password** field must be the same that you use for your Microsoft 365 subscription, and it must be of type **App Password**. For more information, see [Manage app passwords for two-step verification](/azure/active-directory/user-help/multi-factor-authentication-end-user-app-passwords). 
 
 is this still true?-->
-## <a name="assign-email-scenarios-to-email-accounts"></a>Назначение сценариев электронной почты учетной записям электронной почты
+## Назначение сценариев электронной почты учетной записям электронной почты
 
 Сценарии электронной почты — это процессы, которые включают отправку документа. Например, заказ на продажу или покупку или уведомление, такое как приглашение внешнего бухгалтера. Определенные учетные записи электронной почты могут использоваться для определенных сценариев. Например, вы можете указать, что все пользователи всегда отправляют документы на продажу из одной учетной записи, документы на покупку из другой учетной записи, а складские или производственные документы — из третьей учетной записи. Вы можете назначать, переназначать и удалять сценарии в любое время. Сценарий может быть назначен только одной учетной записи электронной почты одновременно. Учетная запись электронной почты по умолчанию будет использоваться для всех сценариев, которые не назначены учетной записи.
 
 На странице **Назначение сценариев электронной почты** можно выбрать действие **Задать вложения по умолчанию** для добавления вложений к сценариям электронной почты. Эти вложения будут доступны всегда, когда вы составляете сообщение электронной почты для документа, связанного со сценарием. Каждый сценарий электронной почты может иметь одно или несколько вложений по умолчанию. Вложения по умолчанию автоматически добавляются в сообщения для сценария электронной почты. Например, когда вы отправляете по электронной почте заказ на продажу, будет добавлено вложение по умолчанию, указанное для сценария "Заказ на продажу". Вложения по умолчанию отображаются в разделе **Вложения** в нижней части страницы **Напишите сообщение**. Вы можете вручную добавить в сообщение вложения, не предусмотренные по умолчанию.
 
 <!--
-## <a name="to-set-up-email"></a>To set up email
+## To set up email
 1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **SMTP Email Setup**, and then choose the related link.
 2. Fill in the fields as necessary. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 
@@ -97,7 +99,7 @@ is this still true?-->
 
 -->
 
-## <a name="set-up-view-policies"></a>Настройка политик просмотра
+## Настройка политик просмотра
 
 Вы можете управлять сообщениями электронной почты, которые пользователь может видеть на страницах «Исходящие сообщения» и «Отправленные сообщения».
 
@@ -111,7 +113,7 @@ is this still true?-->
 > [!NOTE]
 > Если вы оставите поле **ИД пользователя** пустым, а затем выберете действие **Политика просмотра электронной почты**, политика будет применяться ко всем пользователям.
 
-## <a name="specify-how-many-messages-an-account-can-send-per-minute"></a>Задание максимального количества сообщений, которое учетная запись может отправлять в минуту
+## Задание максимального количества сообщений, которое учетная запись может отправлять в минуту
 
 Некоторые поставщики услуг электронной почты (интернет-провайдеры) ограничивают количество сообщений электронной почты, которые учетная запись электронной почты может отправить за один раз или в течение определенного периода времени (или и то, и другое). Эта практика, известная как  *регулирование электронной почты*, помогает интернет-провайдерам контролировать трафик на своих серверах и предотвращать рассылку спама. Если учетная запись электронной почты превышает лимит, интернет-провайдер может заблокировать сообщения. Чтобы количество сообщений, отправляемых из [!INCLUDE [prod_short](includes/prod_short.md)], не превышало установленный вашим интернет-провайдером лимит, укажите лимит для каждой из своих учетных записей электронной почты.
 
@@ -122,7 +124,7 @@ is this still true?-->
 * При использовании мастера настройки «Настройка электронной почты» укажите лимит в поле **Лимит отправки сообщений в минуту**.
 * Для существующих учетных записей электронной почты укажите лимит в поле **Лимит отправки электронной почты** в учетной записи.
 
-## <a name="set-up-reusable-email-texts-and-layouts"></a>Настройка многократно используемых текстов и макетов сообщений электронной почты
+## Настройка многократно используемых текстов и макетов сообщений электронной почты
 
 Вы можете использовать отчеты для включения ключевой информации из документов продаж покупок и сервиса в тексты сообщений электронной почты. Макеты отчетов определяют стиль и содержание текста в электронном письме. Например, содержание может включать такие тексты, как приветствие или инструкции, которые предшествуют информации о документе. Эта процедура описывает, как настроить отчет **Счет продажи** по разнесенным счетам продаж, но процесс аналогичен для других отчетов.
 
@@ -142,7 +144,7 @@ is this still true?-->
 
 Теперь, когда вы выбираете, например, действие **Отправить** на странице **Учтенный счет продажи**, содержание сообщения электронной почты будет включать информацию из отчета 1306, перед которой будет расположен стандартный текст в соответствии с макетом отчета, выбранном на шаге 5.
 
-## <a name="use-a-substitute-sender-address-on-outbound-email-messages"></a>Использование замещающего адреса отправителя в исходящих сообщениях электронной почты
+## Использование замещающего адреса отправителя в исходящих сообщениях электронной почты
 
 Если вы используете расширение соединителя SMTP, вы можете использовать возможности **Отправить как** или **Отправить от имени** из Microsoft Exchange для изменения адреса отправителя в исходящих сообщениях. [!INCLUDE[prod_short](includes/prod_short.md)] будет использовать учетную запись SMTP для аутентификации в Exchange, но либо заменит адрес отправителя на указанный вами, либо добавит к нему "от имени".
 
@@ -159,14 +161,14 @@ is this still true?-->
 > Вы можете использовать только одну учетную запись для замены адресов отправителей. То есть, вы не можете иметь один замещающий адрес для процессов покупки, а другой — для процессов продажи.
 
 <!--
-### <a name="to-set-up-the-substitute-sender-address-for-all-outbound-email-messages"></a>To set up the substitute sender address for all outbound email messages
+### To set up the substitute sender address for all outbound email messages
 1. In the **Exchange admin center** for your Microsoft 365 account, find the mailbox to use as the substitute address, and then copy or make a note of the address. If you need a new address, go to your Microsoft 365 admin center to create a new user and set up their mailbox.
 2. In [!INCLUDE[prod_short](includes/prod_short.md)] choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **SMTP Email Setup**, and then choose the related link.
 3. In the **Send As** field, enter the substitute address.
 4. Copy or make a note of the address in the **User ID** field.
 5. In the **Exchange admin center**, find the mailbox to use as the substitute address, and then enter the address from the **User ID** field in the **Send As** field. For more information, see [Use the EAC to assign permissions to individual mailboxes](/Exchange/recipients/mailbox-permissions?view=exchserver-2019&preserve-view=true#use-the-eac-to-assign-permissions-to-individual-mailboxes).
 
-### <a name="to-use-the-substitute-address-in-approval-workflows"></a>To use the substitute address in approval workflows
+### To use the substitute address in approval workflows
 1. In [!INCLUDE[prod_short](includes/prod_short.md)] choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **SMTP Email Setup**, and then choose the related link.
 2. Copy or make a note of the address in the **User ID** field.
 3. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Approval User Setup**, and then choose the related link.
@@ -177,11 +179,11 @@ is this still true?-->
 > [!Note]
 > [!INCLUDE[prod_short](includes/prod_short.md)] will determine which address to display in the following order: <br><br> 1. The address specified in the **E-Mail** field on the **Approval User Setup** page for messages in a workflow. <br> 2. The address specified in the **Send As** field in the **SMTP Email Setup** page. <br> 3. The address specified in the **User ID** field in the **SMTP Email Setup** page. -->
 
-## <a name="set-up-document-sending-profiles"></a>Настройка профилей отправки документов
+## Настройка профилей отправки документов
 
 Вы можете сэкономить время, настроив предпочтительный способ отправки торговых документов для каждого из ваших клиентов. Вам не нужно будет выбирать вариант отправки, например, отправлять ли документ по электронной почте или в виде электронного документа, каждый раз, когда вы отправляете документ. Дополнительные сведения см. в разделе [Настройка профилей отправки документов](sales-how-setup-document-send-profiles.md).
 
-## <a name="optional-set-up-email-logging-in-exchange-online"></a>(Необязательно) Настройка регистрации электронной почты в Exchange Online
+## (Необязательно) Настройка регистрации электронной почты в Exchange Online
 
 Получите больше от общения между продавцами и вашими существующими или потенциальными клиентами. Вы можете отслеживать обмен сообщениями электронной почты, а затем превращать его в действенные возможности. Подробнее см. в статье [Отслеживание обмена сообщениями электронной почты между продавцами и контактами](marketing-set-up-email-logging.md).  
 <!--
@@ -189,7 +191,7 @@ is this still true?-->
 
 Next, you connect [!INCLUDE[prod_short](includes/prod_short.md)] with Exchange Online. For more information, see [Track Email Message Exchanges Between Salespeople and Contacts](marketing-set-up-email-logging.md).  -->
 
-## <a name="optional-monitor-email-usage-and-troubleshoot-email-failures-with-telemetry"></a>(Необязательно) Отслеживание использования электронной почты и устранение сбоев  электронной почты с помощью телеметрии
+## (Необязательно) Отслеживание использования электронной почты и устранение сбоев  электронной почты с помощью телеметрии
 
 Администраторы могут включить функцию телеметрии в [!INCLUDE[prod_short](includes/prod_short.md)] для получения данных об использовании и сбоях различных функций в системе. Для электронной почты в журнале регистрируются следующие операции:
 
@@ -200,13 +202,13 @@ Next, you connect [!INCLUDE[prod_short](includes/prod_short.md)] with Exchange O
 
 Вы можете использовать эти данные для отслеживания использования электронной почты и устранения сбоев электронной почты. Подробнее см. в статье [Анализ телеметрии электронной почты (для администраторов)](/dynamics365/business-central/dev-itpro/administration/telemetry-email-trace)  
 
-## <a name="set-up-email-for-business-central-on-premises"></a>Настройка электронной почты для локальной версии Business Central
+## Настройка электронной почты для локальной версии Business Central
 
-[!INCLUDE[prod_short](includes/prod_short.md)] On-Premises может интегрироваться со службами, основанными на Microsoft Azure. Например, вы можете использовать Cortana Intelligence для более точного прогноза денежных потоков, Power BI для визуализации вашего бизнеса и Exchange Online для отправки электронной почты. Интеграция с этими сервисами основана на регистрации приложения в Azure Active Directory. Регистрация приложения предоставляет услуги аутентификации и авторизации для связи. Чтобы использовать возможности электронной почты в [!INCLUDE[prod_short](includes/prod_short.md)] On-Premises, вы должны зарегистрировать [!INCLUDE[prod_short](includes/prod_short.md)] как приложение на портале Azure, а затем подключить [!INCLUDE[prod_short](includes/prod_short.md)] к регистрации приложения. В следующих разделах описано, как это сделать.
+[!INCLUDE[prod_short](includes/prod_short.md)] On-Premises может интегрироваться со службами, основанными на Microsoft Azure. Например, вы можете использовать Cortana Intelligence для более точного прогноза денежных потоков, Power BI для визуализации вашего бизнеса и Exchange Online для отправки электронной почты. Интеграция с этими сервисами основана на регистрации приложения в Microsoft Entra ID. Регистрация приложения предоставляет услуги аутентификации и авторизации для связи. Чтобы использовать возможности электронной почты в [!INCLUDE[prod_short](includes/prod_short.md)] On-Premises, вы должны зарегистрировать [!INCLUDE[prod_short](includes/prod_short.md)] как приложение на портале Azure, а затем подключить [!INCLUDE[prod_short](includes/prod_short.md)] к регистрации приложения. В следующих разделах описано, как это сделать.
 
-### <a name="create-an-app-registration-for-business-central-in-azure-portal"></a>Создание регистрации приложения для Business Central на портале Azure
+### Создание регистрации приложения для Business Central на портале Azure
 
-Шаги по регистрации [!INCLUDE[prod_short](includes/prod_short.md)] на портале Azure описаны в разделе [Регистрация приложения в Azure Active Directory](/dynamics365/business-central/dev-itpro/administration/register-app-azure#register-an-application-in-azure-active-directory).
+Действия, которые необходимо предпринять для регистрации [!INCLUDE[prod_short](includes/prod_short.md)] на портале Azure, описаны в статье [Регистрация приложения в Microsoft Entra ID](/dynamics365/business-central/dev-itpro/administration/register-app-azure#register-an-application-in-azure-active-directory).
 
 > [!NOTE]
 > Чтобы использовать функции электронной почты, при регистрации вашего приложения должна использоваться конфигурация с несколькими клиентами.
@@ -241,28 +243,28 @@ Next, you connect [!INCLUDE[prod_short](includes/prod_short.md)] with Exchange O
 > [!NOTE]
 Если у вас возникли проблемы с использованием протокола SMTP для отправки сообщений электронной почты после подключения [!INCLUDE[prod_short](includes/prod_short.md)] к регистрации вашего приложения, это может быть связано с тем, что проверка подлинности SMTP AUTH не включена для вашего клиента. Мы рекомендуем вместо этого использовать соединители электронной почты Microsoft 365 и Текущий пользователь, поскольку они используют API-интерфейсы Microsoft Graph Mail. Однако, если вам необходимо использовать протокол SMTP, вы можете включить SMTP AUTH. Дополнительные сведения см. в разделе [Включение или отключение отправки для аутентифицированного клиента SMTP (SMTP AUTH) в Exchange Online](/exchange/clients-and-mobile-in-exchange-online/authenticated-client-smtp-submission#disable-smtp-auth-in-your-organization).
 
-### <a name="connect--to-your-app-registration"></a>Подключение [!INCLUDE[prod_short](includes/prod_short.md)] к регистрации приложения
+### Подключение [!INCLUDE[prod_short](includes/prod_short.md)] к регистрации приложения
 
-После регистрации приложения на портале Azure в [!INCLUDE[prod_short](includes/prod_short.md)] используйте страницу **Регистрация AAD приложения электронной почты** для подключения [!INCLUDE[prod_short](includes/prod_short.md)] к нему.
+После регистрации приложения на портале Azure в [!INCLUDE[prod_short](includes/prod_short.md)] используйте страницу **Регистрация приложения электронной почты в Microsoft Entra ID**, чтобы подключить к нему [!INCLUDE[prod_short](includes/prod_short.md)].
 
-1. В [!INCLUDE[prod_short](includes/prod_short.md)] выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок введите **Регистрация AAD приложения электронной почты**, а затем выберите связанную ссылку.
+1. В [!INCLUDE[prod_short](includes/prod_short.md)] выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") введите **Регистрация приложения электронной почты в Microsoft Entra ID**, а затем выберите соответствующую ссылку.
 2. Заполните соответствующим образом поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 
 > [!TIP]
-> Также, если вы подключаетесь впервые, вы можете запустить мастер настройки **Настройка электронной почты**. В этом случае мастер также будет включать страницу "Регистрация AAD приложения электронной почты", позволяющую добавить информацию для подключения к регистрации вашего приложения. <!--Need to verify this too. Ask John to clear the aad settings, delete the email accounts, and then run the guide.-->
+> Также, если вы подключаетесь впервые, вы можете запустить мастер настройки **Настройка электронной почты**. В этом случае мастер также будет включать страницу «Регистрация приложения электронной почты в Microsoft Entra ID», позволяющую добавить информацию для подключения к регистрации вашего приложения. <!--Need to verify this too. Ask John to clear the aad settings, delete the email accounts, and then run the guide.-->
 
 <!--
 
 1. In [!INCLUDE[prod_short](includes/prod_short.md)], start the **Email Application AAD Registration** assisted setup guide.
 2. On the first page of the guide, copy the value in the **Redirect URL** field.
-3. In Azure Active Directory, search for **App registrations**, and then open the **App registrations** page.
+3. In Microsoft Entra ID, search for **App registrations**, and then open the **App registrations** page.
 4. Choose **New registration**.
 5. In the **Name** field, enter a name for your app.
-6. Under **Supported account types**, choose either the **Accounts in any organizational directory (Any Azure AD Directory - Multitenant)** or **Accounts in any organizational directory (Any Azure AD Directory - Multitenant) and personal Microsoft accounts (/e.g. Skype, Xbox)** options, depending on your needs. If you're unsure, choose **Help me choose** for more information.
+6. Under **Supported account types**, choose either the **Accounts in any organizational directory (Any Microsoft Entra Directory - Multitenant)** or **Accounts in any organizational directory (Any Microsoft Entra Directory - Multitenant) and personal Microsoft accounts (/e.g. Skype, Xbox)** options, depending on your needs. If you're unsure, choose **Help me choose** for more information.
 7. Under **Redirect URI (optional)**, choose **Web**, paste the URL you copied from the **Redirect URL** field in the assisted setup guide in Business Central, and then choose **Register**.
 8. On the navigation pane, choose **Overview**, and then copy the value in the **Application (client) ID** field.
 9. In [!INCLUDE[prod_short](includes/prod_short.md)], in the assisted setup guide, paste the ID in **Client ID** field.
-10. In Azure Active Directory, on the navigation pane, choose **API permissions**, and then choose **Add a permission**.
+10. In Microsoft Entra ID, on the navigation pane, choose **API permissions**, and then choose **Add a permission**.
 11. On the **Request API permissions** pane, on the **Microsoft APIs** tab, choose **Microsoft Graph**.  
 12. Choose **Delegated permissions**, and then in the **Select permissions** field, search for **Mail.ReadWrite**, **Mail.Send**, and **offline_access**. Choose those permissions, and then choose **Add permissions**.
 13. On the navigation pane, choose **Certificates & secrets**.
@@ -274,7 +276,7 @@ Next, you connect [!INCLUDE[prod_short](includes/prod_short.md)] with Exchange O
 
 -->
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Общие почтовые ящики в Exchange Online](/exchange/collaboration-exo/shared-mailboxes)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  

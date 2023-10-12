@@ -6,30 +6,55 @@ ms.topic: conceptual
 ms.workload: na
 ms.search.keywords: null
 ms.search.forms: '7200, 7201'
-ms.date: 03/22/2023
+ms.date: 09/28/2023
 ms.author: bholtorf
 ---
-# <a name="connect-to-microsoft-dataverse"></a>Подключение к Microsoft Dataverse
+# Подключение к Microsoft Dataverse
+
+[!INCLUDE[azure-ad-to-microsoft-entra-id](~/../shared-content/shared/azure-ad-to-microsoft-entra-id.md)]
 
 В этой статье описывается, как установить соединение между [!INCLUDE[prod_short](includes/prod_short.md)] и [!INCLUDE[cds_long_md](includes/cds_long_md.md)]. Как правило, предприятия создают соединение для интеграции и синхронизации данных с другим бизнес-приложением Dynamics 365, например [!INCLUDE[crm_md](includes/crm_md.md)].  
 
-## <a name="before-you-start"></a>Перед началом работы
+## Перед началом работы
 
 Перед тем, как создать соединение, необходимо подготовить несколько фрагментов информации:  
 
 * URL-адрес для среды [!INCLUDE[cds_long_md](includes/cds_long_md.md)], к которой требуется подключиться. Если вы используете мастер настройки **Настройка подключения Dataverse** для создания подключения, мы найдем ваши среды. Вы также можете ввести URL-адрес другой среды в своем клиенте.  
 * Имя пользователя и пароль учетной записи, которая имеет разрешения администратора в [!INCLUDE[prod_short](includes/prod_short.md)] и [!INCLUDE[cds_long_md](includes/cds_long_md.md)].  
 * Если у вас есть локальная версия [!INCLUDE[prod_short](includes/prod_short.md)] выпуска 2020, волна 1, версия 16.5, ознакомьтесь со статьей [Некоторые известные проблемы](/dynamics365/business-central/dev-itpro/upgrade/known-issues#wrong-net-assemblies-for-external-connected-services). Вам нужно будет выполнить описанный обходной метод, прежде чем вы сможете создать подключение к [!INCLUDE[cds_long_md](includes/cds_long_md.md)].
-* Местная валюта компании в [!INCLUDE[prod_short](includes/prod_short.md)] должна быть такой же, как и базовая валюта транзакции в [!INCLUDE[cds_long_md](includes/cds_long_md.md)]. После совершения операции в базовой валюте в [!INCLUDE[cds_long_md](includes/cds_long_md.md)], вы не можете изменить его. Для получения дополнительной информации см. [Сущность валюты транзакции (валюта)](/powerapps/developer/data-platform/transaction-currency-currency-entity). У всех компаний [!INCLUDE[prod_short](includes/prod_short.md)], которые вы подключаете к организации [!INCLUDE[cds_long_md](includes/cds_long_md.md)], должна использоваться та же валюта.
+* Местные валюты, которые использует каждая организация. Организации [!INCLUDE [prod_short](includes/prod_short.md)] могут подключаться к среде [!INCLUDE [cds_long_md](includes/cds_long_md.md)], базовая валюта в которой отличается от их местной валюты. Подробнее об управлении мультивалютными конфигурациями см. в разделе [Использование разных валют](#allow-for-different-currencies).
 
 > [!IMPORTANT]
 > Ваша среда [!INCLUDE[cds_long_md](includes/cds_long_md.md)] не должна находиться в режиме администрирования. Режим администрирования приведет к сбою подключения, поскольку у учетной записи пользователя интеграции для подключения нет прав администратора. Дополнительные сведения см. в разделе [Режим администрирования](/power-platform/admin/admin-mode).
 
 > [!Note]
 > Эти шаги описывают процедуру для [!INCLUDE[prod_short](includes/prod_short.md)] Online.
-> Если вы используете локальную версию [!INCLUDE[prod_short](includes/prod_short.md)] и не используете учетную запись Azure Active Directory для подключения [!INCLUDE [cds_long_md](includes/cds_long_md.md)], вы также должны указать имя пользователя и пароль учетной записи пользователя для интеграции. Эта учетная запись называется учетной записью "пользователя интеграции". Если вы используете учетная запись Azure Active Directory интеграция учетной записи пользователя не требуется или не отображается. Пользователь интеграции будет настроен автоматически и не потребует лицензии.
+> Если вы используете локальную версию [!INCLUDE[prod_short](includes/prod_short.md)] и не используете учетную запись Microsoft Entra для подключения к [!INCLUDE [cds_long_md](includes/cds_long_md.md)], вы также должны указать имя пользователя и пароль учетной записи пользователя для интеграции. Эта учетная запись называется учетной записью "пользователя интеграции". Если вы используете учетную запись Microsoft Entra, учетная запись пользователя интеграции не требуется и не отображается. Пользователь интеграции будет настроен автоматически и не потребует лицензии.
 
-## <a name="set-up-a-connection-to-"></a>Настройка подключения к [!INCLUDE[cds_long_md](includes/cds_long_md.md)]
+## Использование разных валют
+
+Организации [!INCLUDE [prod_short](includes/prod_short.md)] могут подключаться к среде [!INCLUDE [cds_long_md](includes/cds_long_md.md)], базовая валюта в которой отличается от их местной валюты.
+
+> [!NOTE]
+> Синхронизация нескольких валют требует использования однонаправленной синхронизации — из [!INCLUDE [prod_short](includes/prod_short.md)] в [!INCLUDE [cds_long_md](includes/cds_long_md.md)].
+
+Подробнее о базовой валюте в [!INCLUDE [cds_long_md](includes/cds_long_md.md)] см. в статье [Сущность валюты транзакции (валюта)](/powerapps/developer/data-platform/transaction-currency-currency-entity). 
+
+Подробнее о валютах в [!INCLUDE [prod_short](includes/prod_short.md)] см. в статье [Валюты в Business Central](finance-currencies.md).
+
+Чтобы разрешить использование разных валют, перед подключением убедитесь, что вы указали следующие параметры:
+
+* Значение параметра базовой валюты транзакций в [!INCLUDE [cds_long_md](includes/cds_long_md.md)] соответствует коду валюты, указанному на странице **Валюты** в [!INCLUDE [prod_short](includes/prod_short.md)].
+* Для валюты указан по крайней мере один обменный курс в [!INCLUDE [prod_short](includes/prod_short.md)] на странице **Валютные курсы**.
+
+Когда вы включаете подключение к [!INCLUDE [cds_long_md](includes/cds_long_md.md)], [!INCLUDE [prod_short](includes/prod_short.md)] добавляет местную валюты этой системы в сущность **Валюта** в [!INCLUDE [cds_long_md](includes/cds_long_md.md)]. Для местной валюты используется обменный курс, указанный в поле **Коэффициент курса валюты** на странице **Валютные курсы**.
+
+Поскольку синхронизация валют однонаправленная — из [!INCLUDE [prod_short](includes/prod_short.md)] в [!INCLUDE [cds_long_md](includes/cds_long_md.md)] — денежные суммы конвертируются и синхронизируются следующим образом:
+
+* Суммы в базовой валюте [!INCLUDE [cds_long_md](includes/cds_long_md.md)] конвертируются в местную валюту [!INCLUDE [prod_short](includes/prod_short.md)] с использованием последнего обменного курса, синхронизированного с [!INCLUDE [prod_short](includes/prod_short.md)].
+* Суммы в местной валюте [!INCLUDE [prod_short](includes/prod_short.md)] синхронизируются с местной валютой [!INCLUDE [prod_short](includes/prod_short.md)] в одной из дополнительных (не базовых) валют в [!INCLUDE [cds_long_md](includes/cds_long_md.md)].
+
+## Настройка подключения к [!INCLUDE[cds_long_md](includes/cds_long_md.md)]
 
 Для всех типов аутентификации, отличных от аутентификации Microsoft 365, вы настраиваете подключение к [!INCLUDE[cds_long_md](includes/cds_long_md.md)] на странице **Настройка подключения к Dataverse**. Для аутентификации Microsoft 365 рекомендуется использовать мастер настройки **Настройка подключения Dataverse**. Этот мастер позволяет проще настроить подключение и указать расширенные функции, такие как модель ответственности и начальной синхронизации.  
 
@@ -42,7 +67,7 @@ ms.author: bholtorf
 >
 > Предоставляя согласие от имени организации, администратор дает право зарегистрированному приложению Azure, которое называется Интеграция [!INCLUDE[prod_short](includes/prod_short.md)] в [!INCLUDE[cds_long_md](includes/cds_long_md.md)] синхронизировать данные, используя автоматически созданные учетные данные пользователя приложения интеграции [!INCLUDE[prod_short](includes/prod_short.md)].
 
-### <a name="to-use-the-dataverse-connection-setup-assisted-setup-guide"></a>Использование мастера настройки подключения Dataverse
+### Использование мастера настройки подключения Dataverse
 
 Руководство по настройке подключения Dataverse может упростить подключение приложений и даже помочь вам выполнить первоначальную синхронизацию. Если вы выберете запуск начальной синхронизации, [!INCLUDE[prod_short](includes/prod_short.md)] проверит данные в обоих приложениях и предоставит рекомендации по подходу к начальной синхронизации. В следующей таблице описаны эти рекомендации.
 
@@ -62,7 +87,7 @@ ms.author: bholtorf
 > [!NOTE]
 > Если вам не предлагается войти в систему с учетной записью администратора, возможно, это связано с блокировкой всплывающих окон. Чтобы войти, разрешите всплывающие окна от `https://login.microsoftonline.com`.
 
-### <a name="to-create-or-maintain-the-connection-manually"></a>Создание или ведение подключения вручную
+### Создание или ведение подключения вручную
 
 Далее описан порядок настройки подключения вручную на странице **Настройка подключения Dataverse**. Страница **Настройка подключения Dataverse**, где вы управляете настройками интеграции.
 
@@ -90,7 +115,7 @@ ms.author: bholtorf
 5. Если синхронизация [!INCLUDE[cds_long_md](includes/cds_long_md.md)] еще не настроена, вы получите запрос, следует ли использовать настройки синхронизации по умолчанию. В зависимости от того, требуется ли соответствие записей в [!INCLUDE[cds_long_md](includes/cds_long_md.md)] и [!INCLUDE[prod_short](includes/prod_short.md)], выберите **Да** или **Нет**.
 
 <!--
-## <a name="show-me-the-process"></a>Show Me the Process
+## Show Me the Process
 
 The following video shows the steps to connect [!INCLUDE[prod_short](includes/prod_short.md)] and [!INCLUDE[cds_long_md](includes/cds_long_md.md)]. <br>
   
@@ -98,7 +123,7 @@ The following video shows the steps to connect [!INCLUDE[prod_short](includes/pr
 
 -->
 
-## <a name="customize-the-match-based-coupling"></a>Настройка связывания на основе совпадений
+## Настройка связывания на основе совпадений
 
 Начиная с волны 2 выпуска 2021 года администратор может вводить критерии, чтобы объединять записи на соответствий. Алгоритм сопоставления записей можно запустить из следующих мест в [!INCLUDE [prod_short](includes/prod_short.md)]:
 
@@ -130,7 +155,7 @@ The following video shows the steps to connect [!INCLUDE[prod_short](includes/pr
 
 * Укажите, следует ли создавать новый экземпляр объекта в [!INCLUDE [cds_long_md](includes/cds_long_md.md)] в случае, если невозможно найти уникальное несвязанное сопоставление с использованием критериев сопоставления. Чтобы активировать эту возможность, выберите действие **Создать новую, если найти совпадение не удается**.  
 
-### <a name="view-the-results-of-the-coupling-job"></a>Посмотреть результаты задания соединения
+### Посмотреть результаты задания соединения
 
 Чтобы просмотреть результаты задания соединения, откройте страницу **Сопоставления таблиц интеграции**, выберите соответствующее сопоставление, выберите действие **Связывание**, а затем выберите действие **Журнал заданий связывания интеграции**.  
 
@@ -157,7 +182,7 @@ The following video shows the steps to connect [!INCLUDE[prod_short](includes/pr
 > [!TIP]
 > Чтобы дать обзор хода связывания, в поле **Связано с Dataverse** показано, связана ли конкретная запись с объектом [!INCLUDE [cds_long_md](includes/cds_long_md.md)]. Вы можете использовать поле **Связано с Dataverse** для фильтрации списка записей, которые вы синхронизируете.
 
-## <a name="upgrade-connections-from-business-central-online-to-use-certificate-based-authentication"></a>Обновление подключений к Business Central Online для использования аутентификации на основе сертификатов
+## Обновление подключений к Business Central Online для использования аутентификации на основе сертификатов
 
 > [!NOTE]
 > Этот раздел актуален только для клиентов [!INCLUDE[prod_short](includes/prod_short.md)] Online, размещенных на сервере Microsoft. Онлайн-клиенты, размещенные у независимых поставщиков программного обеспечения, и локальные установки не затронуты.
@@ -166,7 +191,7 @@ The following video shows the steps to connect [!INCLUDE[prod_short](includes/pr
 
 Чтобы не нарушать интеграцию, _вы должны обновить_ подключение для использования проверки подлинности на основе сертификатов. Хотя изменение запланировано на март 2022 года, мы настоятельно рекомендуем выполнить обновление как можно скорее. Следующие шаги описывают, как перейти на аутентификацию на основе сертификатов. 
 
-### <a name="to-upgrade-your-business-central-online-connection-to-use-certificate-based-authentication"></a>Обновление подключения Business Central Online для использования аутентификации на основе сертификатов
+### Обновление подключения Business Central Online для использования аутентификации на основе сертификатов
 
 1. В зависимости от того, интегрируете ли вы с Dynamics 365 Sales, выполните одно из следующих действий:
    * Если да, откройте страницу **Настройка подключения Microsoft Dynamics 365**.
@@ -177,15 +202,15 @@ The following video shows the steps to connect [!INCLUDE[prod_short](includes/pr
 > [!NOTE]
 > Вы должны повторять эти шаги в каждой среде [!INCLUDE[prod_short](includes/prod_short.md)], включая рабочую среду и среду песочницы, и в каждой компании, в которой у вас есть подключение к [!INCLUDE[cds_long_md](includes/cds_long_md.md)].
 
-## <a name="connecting-on-premises-versions"></a>Подключение локальных версий
+## Подключение локальных версий
 
 Чтобы подключить локальную версию [!INCLUDE[prod_short](includes/prod_short.md)] [!INCLUDE[cds_long_md](includes/cds_long_md.md)], необходимо указать некоторую информацию на странице **Настройка подключения Dataverse**.
 
-Для подключения с помощью учетной записи Azure Active Directory (Azure AD) необходимо зарегистрировать приложение в Azure AD. Вам нужно будет указать идентификатор приложения, секрет хранилища ключей и URL-адрес перенаправления для использования. URL-адрес перенаправления предварительно заполнен и должен работать для большинства установок. Вы должны настроить вашу установку на использование HTTPS. Для получения дополнительной информации см. [Настройка SSL для защиты подключения веб-клиента Business Central](/dynamics365/business-central/dev-itpro/deployment/configure-ssl-web-client-connection). Если вы настраиваете на своем сервере другую начальную страницу, вы можете изменить URL-адрес. Секрет клиента будет сохранен как зашифрованная строка в вашей базе данных. 
+Для подключения с использованием учетной записи Microsoft Entra необходимо зарегистрировать приложение в Microsoft Entra ID. Вам нужно будет указать идентификатор приложения, секрет хранилища ключей и URL-адрес перенаправления для использования. URL-адрес перенаправления предварительно заполнен и должен работать для большинства установок. Вы должны настроить вашу установку на использование HTTPS. Для получения дополнительной информации см. [Настройка SSL для защиты подключения веб-клиента Business Central](/dynamics365/business-central/dev-itpro/deployment/configure-ssl-web-client-connection). Если вы настраиваете на своем сервере другую начальную страницу, вы можете изменить URL-адрес. Секрет клиента будет сохранен как зашифрованная строка в вашей базе данных. 
 
-### <a name="to-register-an-application-in-azure-ad-for-connecting-from-business-central-to-dataverse"></a>Чтобы зарегистрировать заявку в Azure AD для подключения из Business Central к Dataverse
+### Регистрация приложения в Microsoft Entra ID для подключения из Business Central к Dataverse
 
-Следующие шаги предполагают, что вы используете Azure AD, чтобы управлять удостоверениями и доступом. Дополнительные сведения о регистрации приложения в Azure AD, см. в [Быстрый старт: зарегистрируйте приложение на платформе идентификации Microsoft](/azure/active-directory/develop/quickstart-register-app). 
+Следующие шаги предполагают, что вы используете Microsoft Entra ID для управления удостоверениями и доступом. Дополнительные сведения о регистрации приложения в Microsoft Entra ID см. в статье [Краткое руководство. Регистрация приложения с помощью платформы удостоверений Майкрософт](/azure/active-directory/develop/quickstart-register-app). 
 
 1. В Azure Portal, в **управлять** на панели навигации выберите **Аутентификация**.  
 2. В **URL-адреса перенаправления** добавьте URL-адрес перенаправления, который предлагается на страница **Настройка подключения Dataverse** в [!INCLUDE[prod_short](includes/prod_short.md)].
@@ -201,17 +226,17 @@ The following video shows the steps to connect [!INCLUDE[prod_short](includes/pr
 6. Выберите **обзор**, а затем найдите значение **Код приложения (клиента)**. Этот код — код клиента вашего приложения. Вы должны ввести его либо на страница **Настройка подключения Dataverse** в **Код клиента**или сохраните его в безопасном хранилище и предоставьте его подписчику события.
 7. В [!INCLUDE[prod_short](includes/prod_short.md)], на страница **Настройка подключения Dataverse**, в поле **URL-адрес среды** введите URL-адрес для вашей среды [!INCLUDE[cds_long_md](includes/cds_long_md.md)].
 8. Чтобы включить подключение к [!INCLUDE[cds_long_md](includes/cds_long_md.md)] включите переключатель **Включено**.
-9. Войдите в систему с учетной записью администратора для Azure Active Directory (эта учетная запись должна иметь действующую лицензию для [!INCLUDE[cds_long_md](includes/cds_long_md.md)] и быть администратором в вашей среде [!INCLUDE[cds_long_md](includes/cds_long_md.md)]). После входа в систему вам будет предложено разрешить зарегистрированному приложению войти в [!INCLUDE[cds_long_md](includes/cds_long_md.md)] от имени организации. Вы должны дать согласие на завершение установки.
+9. Войдите в систему с учетной записью администратора для Microsoft Entra ID (эта учетная запись должна иметь действующую лицензию на [!INCLUDE[cds_long_md](includes/cds_long_md.md)] и быть администратором в вашей среде [!INCLUDE[cds_long_md](includes/cds_long_md.md)]). После входа в систему вам будет предложено разрешить зарегистрированному приложению войти в [!INCLUDE[cds_long_md](includes/cds_long_md.md)] от имени организации. Вы должны дать согласие на завершение установки.
 
    > [!NOTE]
    > Если вам не предлагается войти в систему с учетной записью администратора, возможно, это связано с блокировкой всплывающих окон. Чтобы войти, разрешите всплывающие окна от `https://login.microsoftonline.com`.
 
-### <a name="to-disconnect-from-"></a>Отключение от [!INCLUDE[cds_long_md](includes/cds_long_md.md)]
+### Отключение от [!INCLUDE[cds_long_md](includes/cds_long_md.md)]
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Настройка подключения Dataverse**, а затем выберите связанную ссылку.
 2. На странице **Настройка подключения Dataverse** выключите переключатель **Включено**.  
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Просмотр статуса синхронизации](admin-how-to-view-synchronization-status.md)  
 

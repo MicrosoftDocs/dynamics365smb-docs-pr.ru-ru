@@ -10,7 +10,9 @@ ms.date: 01/26/2023
 ms.custom: bap-template
 ---
 
-# <a name="set-up-universal-print-printers"></a>Настройка принтеров универсальной печати
+# Настройка принтеров универсальной печати
+
+[!INCLUDE[azure-ad-to-microsoft-entra-id](~/../shared-content/shared/azure-ad-to-microsoft-entra-id.md)]
 
 Универсальная печать — это служба на основе подписки Microsoft 365, полностью работающая на Microsoft Azure. Она обеспечивает централизованное управление принтером через портал универсальной печати. [!INCLUDE[prod_short](includes/prod_short.md)] делает принтеры, настроенные в универсальной печати, доступными для пользователей клиентов через расширение **Интеграция универсальной печати**.
 
@@ -21,7 +23,7 @@ ms.custom: bap-template
 1. В Microsoft Azure настройте универсальную печать и добавьте принтеры, которые вы хотите использовать в Business Central, в общие ресурсы печати. Перейдите к [этому разделу](#set-up-universal-print-and-printers-in-microsoft-azure).
 2. В [!INCLUDE[prod_short](includes/prod_short.md)] добавьте принтеры из общих ресурсов печати в универсальную печать. Перейдите к [этому разделу](#add-printers-in-business-central-online) в Интернете или [сюда](#add-printers-in-business-central-on-premises) в локальной среде.
 
-## <a name="prerequisites"></a>Предварительные требования
+## Предварительные требования
 
 - Поддерживаемые принтеры
 
@@ -35,7 +37,7 @@ ms.custom: bap-template
 
   - У вас есть роли **Администратор принтера** и **Глобальный администратор** в Azure.
 
-    Для управления универсальной печатью ваша учетная запись должна иметь роли **Администратор принтера** и **Глобальный администратор** в Azure AD. Эти роли необходимы только для управления универсальной печатью. Они не требуются тем, кто настраивает принтеры из [!INCLUDE[prod_short](includes/prod_short.md)].
+    Для управления универсальной печатью ваша учетная запись должна иметь роли **Администратор принтера** и **Глобальный администратор** в Microsoft Entra ID. Эти роли необходимы только для управления универсальной печатью. Они не требуются тем, кто настраивает принтеры из [!INCLUDE[prod_short](includes/prod_short.md)].
 
 - [!INCLUDE[prod_short](includes/prod_short.md)] (сетевая и локальная версии):
 
@@ -44,18 +46,18 @@ ms.custom: bap-template
 
     Это расширение публикуется и устанавливается по умолчанию как часть сетевой и локальной версии [!INCLUDE[prod_short](includes/prod_short.md)]. Вы можете проверить, установлено ли оно, на странице **Управление расширениями**. Подробнее см. в разделе [Установка и удаление расширений в Business Central](ui-extensions-install-uninstall.md).
 - [!INCLUDE[prod_short](includes/prod_short.md)] (только локальная версия):
-  - Проверка подлинности Azure Active Directory (AD) или NavUserPassword настроена.
+  - Проверка подлинности Microsoft Entra ID или по NavUserPassword настроена.
     > [!NOTE]
     >  Расширение универсальной печати не поддерживает проверку подлинности между службами (S2S). Для отправки заданий на печать в службу универсальной печати через Graph API требуется вошедший в систему пользователь.
-  - Приложение для Business Central регистрируется в вашем клиенте Azure AD и [!INCLUDE[prod_short](includes/prod_short.md)].
+  - Приложение для Business Central регистрируется в вашем клиенте Microsoft Entra и [!INCLUDE[prod_short](includes/prod_short.md)].
 
-    Как и другие службы Azure, которые работают с [!INCLUDE[prod_short](includes/prod_short.md)], универсальная печать требует регистрации приложения для [!INCLUDE[prod_short](includes/prod_short.md)] в Azure AD. Регистрация приложения предоставляет услуги аутентификации и авторизации между [!INCLUDE[prod_short](includes/prod_short.md)] и универсальной печатью.
+    Как и другие службы Azure, которые работают с [!INCLUDE[prod_short](includes/prod_short.md)], универсальная печать требует регистрации приложения для [!INCLUDE[prod_short](includes/prod_short.md)] в Microsoft Entra ID. Регистрация приложения предоставляет услуги аутентификации и авторизации между [!INCLUDE[prod_short](includes/prod_short.md)] и универсальной печатью.
 
     Ваше развертывание может уже использовать регистрацию приложения для других служб Azure, например Power BI. Если да, то используйте существующую регистрацию приложения для универсальной печати, а не добавляйте новую. Единственное, что вам нужно сделать в этом случае, — это изменить регистрацию приложения, чтобы включить соответствующие разрешения на печать для Microsoft Graph API: **PrinterShare.ReadBasic.All**, **PrintJob.Create** и **PrintJob.ReadBasic.** 
 
-    Чтобы зарегистрировать приложение и установить соответствующие разрешения, выполните действия, описанные в разделе [Регистрация приложения в Azure Active Directory](/dynamics365/business-central/dev-itpro/administration/register-app-azure#register-an-application-in-azure-active-directory).
+    Чтобы зарегистрировать приложение и установить соответствующие разрешения, выполните действия, описанные в статье [Регистрация приложения в Microsoft Entra ID](/dynamics365/business-central/dev-itpro/administration/register-app-azure#register-an-application-in-azure-active-directory).
 
-## <a name="set-up-universal-print-and-printers-in-microsoft-azure"></a>Настройка универсальной печати и принтеров в Microsoft Azure
+## Настройка универсальной печати и принтеров в Microsoft Azure
 
 Прежде чем вы сможете начать управлять принтерами универсальной печати в Business Central, необходимо выполнить несколько задач, чтобы настроить универсальную печать и запустить ее в Azure с теми принтерами, которые вы хотите использовать.
 
@@ -69,9 +71,9 @@ ms.custom: bap-template
 
       Подробнее см. в разделе [Справка центра администрирования Microsoft — назначение лицензий пользователям](/microsoft-365/admin/manage/assign-licenses-to-users).
 
-    - С [!INCLUDE[prod_short](includes/prod_short.md)] On-Premises вы назначаете лицензии в своем клиенте Azure с помощью портала Azure.
+    - Если у вас локальная версия [!INCLUDE[prod_short](includes/prod_short.md)], вы назначаете лицензии в своем арендаторе с помощью портала Azure.
 
-      Подробнее см. в разделе [Каталог Azure — назначение или удаление лицензии на портале Azure Active Directory](/azure/active-directory/fundamentals/license-users-groups).
+      Подробнее см. в статье [Назначение или удаление лицензий на портале Azure](/azure/active-directory/fundamentals/license-users-groups).
 
 2. Установите соединитель универсальной печати для регистрации принтеров, которые не могут напрямую взаимодействовать с универсальной печатью.
 
@@ -102,13 +104,13 @@ ms.custom: bap-template
 
 6. Включите преобразование документов.
 
-    Универсальная печать отображает содержимое для печати в формате XPS. Некоторые существующие на рынке принтеры не поддерживают рендеринг содержимого XPS &mdash; во многих случаях поддерживается только формат PDF. Печать на этих принтерах завершится ошибкой, если служба универсальной печати не настроена для преобразования документов в формат, поддерживаемый принтером.
+    Универсальная печать отображает содержимое для печати в формате XPS. Некоторые существующие на рынке старые принтеры не поддерживают рендеринг содержимого XPS — во многих случаях поддерживается только формат PDF. Печать на этих принтерах завершится ошибкой, если служба универсальной печати не настроена для преобразования документов в формат, поддерживаемый принтером.
 
     Подробнее см. в разделе [Обзор преобразования документов](/universal-print/portal/document-conversion).
 
 Теперь вы готовы добавить принтеры в [!INCLUDE[prod_short](includes/prod_short.md)], настроить принтеры по умолчанию для отчетов и начинать печатать.  
 
-## <a name="add-printers-in-business-central-online"></a>Добавление принтеров в Business Central Online
+## Добавление принтеров в Business Central Online
 
 После того как принтеры настроены и к ним предоставлен общий доступ в службе универсальной печати, вы готовы добавить их в [!INCLUDE[prod_short](includes/prod_short.md)] для использования. Есть два способа добавить принтеры универсальной печати. Вы можете добавить принтеры все сразу или по отдельности.
 
@@ -131,7 +133,7 @@ ms.custom: bap-template
 
 После добавления принтера вы можете просматривать и изменять его настройки со страницы **Управление принтером**. Просто выберите принтер, затем выберите **Изменить параметры принтера**.
 
-## <a name="add-printers-in-business-central-on-premises"></a>Добавление принтеров в Business Central локальная версия
+## Добавление принтеров в Business Central локальная версия
 
 <!--With [!INCLUDE[prod_short](includes/prod_short.md)] on-premises, unlike online, users aren't automatically authenticated with the registered app in Azure used for the Universal Print service. So, before any Business Central user (including admins) can add or even use Universal Print printers, they'll have to authenticate with the Azure app and grant access to the Universal Print service. The following procedure describes how to initiate this authentication flow. Each user typically only has to do this task once.-->
 
@@ -147,17 +149,17 @@ ms.custom: bap-template
 > Если вы являетесь администратором, мы рекомендуем выполнить эту задачу раньше других пользователей. Затем сообщите пользователям, которым потребуется использовать принтеры универсальной печати, как это сделать. Если зарегистрированному в Azure приложению для универсальной печати требуется согласие администратора на разрешения API, будет проще предоставить согласие от имени организации. Вы можете предоставить согласие администратора на портале Azure или при выполнении следующих шагов. 
 
 <!-- To Do Adding printers individually lets you duplicate printers with custom , like different paper trays and paper size and orientation.  To add printers individually, you'll need to know printer's share name in Universal Print. -->
-### <a name="connect-to-universal-print-for-the-first-time"></a>Подключитесь к универсальной печати в первый раз
+### Подключитесь к универсальной печати в первый раз
 
 Выполните эти шаги, чтобы подключиться к службе универсальной печати в первый раз.
 
 1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Управление принтером**, затем выберите связанную ссылку.
 2. Выберите **Универсальная печать** > **Добавить все принтеры универсальной печати**, чтобы запустить руководство по настройке (мастер) **Добавление принтеров универсальной печати**.
-3. Следуйте инструкциям на экране, пока не перейдете на страницу РАЗРЕШЕНИЯ СЛУЖБЫ AZURE ACTIVE DIRECTORY.
+3. Следуйте инструкциям на экране, пока не дойдете до страницы **РАЗРЕШЕНИЯ СЛУЖБЫ MICROSOFT ENTRA**.
 
-    <!--The AZURE ACTIVE DIRECTORY SERVICE PERMISSIONS page appears. You'll be prompted to give consent to Azure Services. You'll be lead through the process of verifying your Azure AD setup, checking your Universal Print license, and then adding the printers.-->
+    <!--The MICROSOFT ENTRA SERVICE PERMISSIONS page appears. You'll be prompted to give consent to Azure Services. You'll be lead through the process of verifying your Microsoft Entra ID setup, checking your Universal Print license, and then adding the printers.-->
 
-   ![Страница разрешений службы AZURE ACTIVE DIRECTORY](media/azure-ad-services-permissions.png "Страница разрешений службы AZURE ACTIVE DIRECTORY")
+   ![Показана страница РАЗРЕШЕНИЯ СЛУЖБЫ MICROSOFT ENTRA](media/azure-ad-services-permissions.png "Показана страница РАЗРЕШЕНИЯ СЛУЖБЫ MICROSOFT ENTRA")
 
 4. Выберите ссылку **Авторизовать службы Azure**.
 
@@ -173,11 +175,11 @@ ms.custom: bap-template
 
 После первоначального входа в систему вы можете использовать принтеры универсальной печати для печати отчетов и других заданий на печать. Для получения дополнительной информации перейдите к [Печать отчета](ui-work-report.md#PrintReport). Если вы хотите добавить, удалить или изменить какие-либо принтеры, просто вернитесь на страницу **Управление печатью** и выберите **Универсальная печать**.
 
-## <a name="common-problems-and-resolutions"></a>Распространенные проблемы и способы их решения
+## Распространенные проблемы и способы их решения
 
 В этом разделе вы узнаете о распространенных проблемах, с которыми могут столкнуться пользователи при попытке настроить или использовать принтеры универсальной печати.
 
-### <a name="you-dont-have-access-to-the-printer-your-printer"></a>У вас нет доступа к принтеру \<your-printer\>.
+### У вас нет доступа к принтеру \<your-printer\>.
 
 Если пользователь получает это сообщение при попытке распечатать документ на принтере универсальной печати, это может быть вызвано одним из следующих условий:
 
@@ -186,17 +188,17 @@ ms.custom: bap-template
 - (Локальный) Регистрация приложения Azure, используемая для универсальной печати, не работает или была недавно изменена с момента последнего входа пользователя в систему.
 - (Локально) Пользователь еще не вошел в зарегистрированное приложение Azure для приложения универсальной печати и не дал согласие в первый раз.
 
-## <a name="there-was-an-error-fetching-printers-shared-to-you"></a>Произошла ошибка при извлечении принтеров, к которым вам предоставлен доступ.
+## Произошла ошибка при извлечении принтеров, к которым вам предоставлен доступ.
 
 Если пользователь получает это сообщение при попытке добавить принтер универсальной печати со страницы **Управление принтером**, обычно это связано с тем, что он еще не выполнил вход в зарегистрированное приложение Azure для приложения универсальной печати и не дал согласие в первый раз. 
 <!--
-### <a name="troubleshooting"></a>Troubleshooting
+### Troubleshooting
 
-#### <a name="you-dont-see-the-a-printer-in-the"></a>You don't see the a printer in the
+#### You don't see the a printer in the 
 
 The printer is not shared in Universal Print.
 
-### <a name="you-get-an-error-when-tryong-to-add-all-or-a-single-printer"></a>You get an error when tryong to add all or a single printer
+### You get an error when tryong to add all or a single printer
 
 You have'nt been assigned a Uincersla Print license.
 
@@ -204,7 +206,7 @@ There was an error fetching printers shared to you. You don't have access to the
 or 
 You don't seem to have access to Universal Print. Make sure you have a Universal Print subscription, and that your account has been assigned a Universal Print license.
 
-## <a name="could-not-upload-the-document-to-print-job-50"></a>Could not upload the document to print job 50.
+## Could not upload the document to print job 50.
 
 There is a technical problem withe the printer. Unsupported document-format: application/pdf. Supported formats: Attribute document-format-supported: SimpleIppValue-Type:MimeMediaType-Value:application/oxps
 
@@ -213,10 +215,10 @@ There is a technical problem withe the printer. Unsupported document-format: app
 
 -->
 
-## <a name="next-steps"></a>Дальнейшие шаги
+## Дальнейшие шаги
 [Настройка принтеров по умолчанию](ui-specify-printer-selection-reports.md).
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Обзор принтеров](admin-printer-setup-overview.md)  
 [Настройка принтеров с поддержкой электронной почты](admin-printer-setup-email.md)

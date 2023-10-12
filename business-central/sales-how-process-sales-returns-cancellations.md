@@ -140,8 +140,6 @@ ms.author: bholtorf
 
 Дополнительные сведения см. в разделе [Сведения о проектировании. Расчет себестоимости запасов](design-details-inventory-costing.md).
 
-## См. соответствующее [обучение Microsoft](/training/paths/return-items-dynamics-365-business-central/)
-
 ## См. также
 
 [Продажи](sales-manage-sales.md)  

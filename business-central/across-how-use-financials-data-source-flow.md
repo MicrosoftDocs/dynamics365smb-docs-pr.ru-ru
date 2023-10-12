@@ -8,10 +8,10 @@ ms.service: dynamics365-business-central
 ms.topic: conceptual
 ms.search.keywords: 'workflow, OData, Power App, SOAP, Power Automate,'
 ms.search.form: '1500,'
-ms.date: 10/10/2022
+ms.date: 08/31/2023
 ms.custom: bap-template
 ---
-# <a name="use-power-automate-flows-in-"></a>Использование потоков Power Automate в [!INCLUDE[prod_short](includes/prod_short.md)]
+# Использование потоков Power Automate в [!INCLUDE[prod_short](includes/prod_short.md)]
 
 В составе [!INCLUDE[prod_short](includes/prod_short.md)] вы получаете лицензию на Microsoft Power Automate. Эта лицензия позволяет вам использовать данные [!INCLUDE[prod_short](includes/prod_short.md)] как часть рабочего процесса в Microsoft Power Automate. Вы можете создавать потоки и подключаться к своим данным из внутренних и внешних источников посредством соединителя [!INCLUDE [prod_short](includes/prod_short.md)].
 
@@ -25,7 +25,7 @@ ms.custom: bap-template
 > [!TIP]
 > Кроме Power Automate, в [!INCLUDE[prod_short](includes/prod_short.md)] можно использовать шаблоны рабочего процесса утверждения. Хотя это две отдельные системы для создания рабочих процессов, любой шаблон рабочего процесса утверждения, созданный в Power Automate, добавляется в список рабочих процессов в [!INCLUDE[prod_short](includes/prod_short.md)]. Подробнее см. в разделе [Рабочие процессы](across-workflow.md).
 
-## <a name="about-power-automate-flows"></a>О потоках Power Automate
+## О потоках Power Automate
 
 Power Automate — это служба, которая позволяет создавать автоматизированные рабочие процессы (или потоки) между приложениями и службами, такими как [!INCLUDE[prod_short](includes/prod_short.md)]. Умение писать код для создания потоков Power Automate практически не требуется. Они могут быть связаны с широким спектром событий и ответов, таких как:
 
@@ -36,34 +36,35 @@ Power Automate — это служба, которая позволяет соз
 
 Существует три разных типа облачных потоков, с которыми вы можете работать:
 
-|Тип потока|Описание|
+|Тип потока|Описанием|
 |---------|-----------|
-|Автоматизированный|Этот тип потока запускается автоматически по событию. В [!INCLUDE[prod_short](includes/prod_short.md)] событием может быть создание, изменение или удаление записи или документа. Так, например, новый счет продажи может инициировать поток для запроса утверждения, для которого могут быть заданы разные события в зависимости от ответа утверждающего. При отрицательном ответе отправителю запроса на утверждение отправляется уведомление и электронное письмо. Положительный ответ одновременно обновляет электронную таблицу Excel, расположенную в папке SharePoint, и отправляет обновление в чат Teams. Автоматизированные потоки могут запускаться как внутренними, так и внешними событиями в [!INCLUDE[prod_short](includes/prod_short.md)].|
-|По расписанию|Этот тип потока также запускается автоматически, но периодически в запланированные дату и время. |
-|Мгновенный |Этот тип потока запускается по запросу, то есть пользователь должен запускать его вручную с помощью кнопки или действия в другом приложении или устройстве, в данном случае в клиенте [!INCLUDE[prod_short](includes/prod_short.md)]. Мгновенные потоки работают аналогично пакетным ярлыкам, выполняя несколько длительных шагов с помощью нескольких нажатий кнопок и запуская их с определенных страниц или таблиц. Например, поток может добавить кнопку в меню действий на странице **Поставщики**, чтобы блокировать платежи поставщику и, в то же время, отправлять настраиваемые электронные письма контактному лицу поставщика и закупщикам вашей компании, а также обновлять контакт в Outlook. |
+|Автоматизированный поток|Этот тип потока запускается автоматически по событию. В [!INCLUDE[prod_short](includes/prod_short.md)] событием может быть создание, изменение или удаление записи или документа. Так, например, новый счет продажи может инициировать поток для запроса утверждения, для которого могут быть заданы разные события в зависимости от ответа утверждающего. При отрицательном ответе отправителю запроса на утверждение отправляется уведомление и электронное письмо. Положительный ответ одновременно обновляет электронную таблицу Excel, расположенную в папке SharePoint, и отправляет обновление в чат Teams. Автоматизированные потоки могут запускаться как внутренними, так и внешними событиями в [!INCLUDE[prod_short](includes/prod_short.md)].|
+|Поток утверждения|Потоки утверждения также являются автоматизированными потоками в Power Automate, но они предназначены специально для запроса утверждения при внесении изменений в записи и данные. Вы можете использовать потоки утверждения в Power Automate в качестве альтернативы [функции рабочих процессов утверждения](across-use-workflows.md), предусмотренной в [!INCLUDE[prod_short](includes/prod_short.md)]. |
+|Поток по расписанию|Этот тип потока также запускается автоматически, но периодически в запланированные дату и время. |
+|Мгновенный поток|Этот тип потока запускается по запросу, то есть пользователь должен запускать его вручную с помощью кнопки или действия в другом приложении или устройстве, в данном случае в клиенте [!INCLUDE[prod_short](includes/prod_short.md)]. Мгновенные потоки работают аналогично пакетным ярлыкам, выполняя несколько длительных шагов с помощью нескольких нажатий кнопок и запуская их с определенных страниц или таблиц. Например, поток может добавить кнопку в меню действий на странице **Поставщики**, чтобы блокировать платежи поставщику и, в то же время, отправлять настраиваемые электронные письма контактному лицу поставщика и закупщикам вашей компании, а также обновлять контакт в Outlook. |
 
-## <a name="power-automate-features"></a>Функции Power Automate
+## Функции Power Automate
 
 Вы можете просмотреть все потоки Power Automate, доступные вам в данный момент, войдя в систему в [Power Automate](https://powerautomate.com) и выбрав **Мои потоки** на панели навигации слева. Здесь вы найдете все потоки, которые вы уже создали сами, и потоки, которыми с вами поделились администратор или коллеги.
 
 - Мгновенные потоки также доступны для запуска непосредственно с большинства страниц списков, карточек и документов в [!INCLUDE[prod_short](includes/prod_short.md)]. Мгновенные потоки находятся в группе действий **Автоматизация** на панели действий на страницах. Чтобы запустить поток, выберите его и следуйте инструкциям. Подробнее см. в разделах ниже.
- 
-- Автоматизированные потоки [!INCLUDE[prod_short](includes/prod_short.md)] не требуют никаких действий с вашей стороны, кром случаев, когда вы хотите изменить их или отключить. В противном случае они будут работать только при срабатывании. 
+
+- Автоматизированные потоки [!INCLUDE[prod_short](includes/prod_short.md)] не требуют никаких действий с вашей стороны, кром случаев, когда вы хотите изменить их или отключить. В противном случае они просто работают при срабатывании триггера. 
 <!--
 
-## <a name="automated-flows"></a>Automated flows
+## Automated flows
 
 With Power Automate, you can create business flows directly in-house and rely on citizen developers. Automated workflows can be started by both internal and external events in [!INCLUDE[prod_short](includes/prod_short.md)], and also be set to run periodically. Learn more and get instructions on how to create flows in the [Set Up Automated Workflows](/dynamics365/business-central/dev-itpro/powerplatform/automate-workflows) article in the administration content.
 
 -->
 
-## <a name="run-instant-flows"></a>Запуск мгновенных потоков
+## Запуск мгновенных потоков
 
 Мгновенные потоки открываются внутри [!INCLUDE [prod_short](includes/prod_short.md)] Online, чтобы вы оставались в контексте бизнес-процесса, над которым работаете. Вы можете запустить мгновенный поток из большинства списков, карточек или документов.
 
 1. На панели действий выберите **Автоматизация**, а затем выберите поток из списка доступных потоков в действии **Power Automate**
 
-    :::image type="content" source="media/power-automate-action-intro.png" alt-text="Показывает действие «Автоматизация» на панели действий с развернутыми действиями.":::
+    :::image type="content" source="media/power-automate-instant-menu.svg" alt-text="Показано действие «Автоматизация» с мгновенными потоками.":::
 
     На некоторых страницах пункт **Автоматизация** находится внутри пункта **Еще (...)**. 
 2. На панели **Run Flow** заполните все необходимые поля, затем выберите **Продолжить**, чтобы запустить поток.
@@ -84,33 +85,43 @@ Most flows require you to fill in a field or two before you choose the **Run flo
 > [!TIP]
 > If you don't see an **Automate** action, then your [!INCLUDE [prod_short](includes/prod_short.md)] probably hasn't yet been set up to use Power Automate. Learn more from your admin.-->
 
-## <a name="create-edit-and-manage-flows"></a>Создание и редактирование потоков, а также управление ими
+## Создание и редактирование потоков, а также управление ими
 
-Создание новых потоков, их изменение и управление существующими потоками (например, их включение или выключение) может осуществляться непосредственно в Power Automate. Однако вы можете инициировать некоторые из этих задач из [!INCLUDE[prod_short](includes/prod_short.md)]:
+Создание новых потоков, их изменение и управление существующими потоками (например, их включение или выключение) может осуществляться непосредственно в Power Automate. Однако вы можете инициировать некоторые из этих задач из меню действий «Автоматизация» в [!INCLUDE[prod_short](includes/prod_short.md)]:
 
-- Чтобы создать мгновенный поток из списка, карточки или со страницы документа, выберите **Автоматизация** > **Создать поток**.
-- Чтобы открыть Power Automate из списка, карточки или со страницы документа, выберите **Автоматизация** > **Управление потоками**.
+:::image type="content" source="media/power-automate-menu.svg" alt-text="Показывает действие «Автоматизация» на панели действий с развернутыми действиями.":::
+
+- Чтобы создать автоматизированный поток со страницы списка, карточки или документа, выберите **Автоматизация** > **Создать автоматизированный поток**.
+- Чтобы создать поток утверждения со страницы карточки или документа, выберите **Автоматизация** > **Создать поток утверждения**.
+
+  > [!TIP]
+  > Это действие доступно только на страницах типа «карточка» и «документ», но не на страницах списков.
+- Чтобы создать мгновенный поток со страницы списка, карточки или документа, выберите **Автоматизация** > **Создать действие на основе потока**.
+- Чтобы открыть Power Automate со страницы списка, карточки или документа, выберите **Автоматизация** > **Управление потоками**.
 <!--- To create new flows or manage existing flows from inside [!INCLUDE[prod_short](includes/prod_short.md)], got to the **Manage Power Automate Flows** page.-->
 
-Некоторые задачи обычно выполняются администраторами или суперпользователями. Эти задачи требуют более обширных знаний о бизнес-процессах в [!INCLUDE[prod_short](includes/prod_short.md)]. Чтобы узнать больше, прочитайте статьи [Интеграция с Power Automate](/dynamics365/business-central/dev-itpro/powerplatform/power-automate-overview), [Настройка мгновенных потоков](/dynamics365/business-central/dev-itpro/powerplatform/instant-flows) и [Управление потоками Power Automate](/dynamics365/business-central/dev-itpro/powerplatform/manage-power-automate-flows).
+Некоторые задачи обычно выполняются администраторами или суперпользователями. Эти задачи требуют более обширных знаний о бизнес-процессах в [!INCLUDE[prod_short](includes/prod_short.md)]. Подробнее см. в следующих статьях в справке для разработчиков и ИТ-специалистов Business Central:
+
+- [Интеграция с Power Automate](/dynamics365/business-central/dev-itpro/powerplatform/power-automate-overview)
+- [Создание автоматизированных потоков](/dynamics365/business-central/dev-itpro/powerplatform/instant-flows) (в этой статье также рассматриваются потоки утверждения)
+- [Создание мгновенных потоков](/dynamics365/business-central/dev-itpro/powerplatform/instant-flows)
+- [Управление потоками Power Automate](/dynamics365/business-central/dev-itpro/powerplatform/manage-power-automate-flows)
 <!-- 
 
-## <a name="add-more-automated-flows-and-instant-flows"></a>Add more automated flows and instant flows
+## Add more automated flows and instant flows
 
 You can create flows through the [powerautomate.microsoft.com](https://powerautomate.microsoft.com) website. However, if your admin has switched on the capability to run Power Automate flows from inside [!INCLUDE [prod_short](includes/prod_short.md)] online, you can start the process of building a flow from the **Automate** action on the relevant pages, which can be found under the **More Options** menu depending on the page. Then choose the **Power Automate** menu item, and then choose the **Create a flow** action. Power Automate then opens in a new browser tab, and you're signed in automatically.
 
 You can find sample templates to adapt to your company and all available trigger events, using both [!INCLUDE [prod_short](includes/prod_short.md)] and external tools, by choosing the **Connectors** menu on the Power Automate website. Learn more about available templates and triggers in the [Set Up Automated Workflows](/dynamics365/business-central/dev-itpro/powerplatform/automate-workflows) article in the administration content.
 
-## <a name="create-and-manage-power-automate-flows"></a>Create and manage Power Automate flows
+## Create and manage Power Automate flows
 
 You can create new flows or manage existing Power Automate flows in [!INCLUDE [prod_short](includes/prod_short.md)] on the **Manage Power Automate Flows** page. Learn more in the [Manage Power Automate Flows](/dynamics365/business-central/dev-itpro/powerplatform/manage-power-automate-flows) article in the administration content.
 
 <!--
 You can also manage available Power Automate workflows on the **Workflows** page in [!INCLUDE[prod_short](includes/prod_short.md)]. The page lists both the built-in approval and Power Automate workflows, with options for the latter to enable/disable, delete, and view the workflow on the Power Automate website.-->
 
-## <a name="see-related-microsoft-training"></a>См. соответствующее [обучение Microsoft](/training/modules/use-power-automate/)
-
-## <a name="see-also"></a>См. также
+## См. также
 
 [Устранение неполадок в автоматизированных рабочих процессах [!INCLUDE[prod_short](includes/prod_short.md)]](across-flow-troubleshoot.md)  
 [Подготовка к ведению бизнеса](ui-get-ready-business.md)  
@@ -124,4 +135,3 @@ You can also manage available Power Automate workflows on the **Workflows** page
 [Включение мгновенных потоков](/dynamics365/business-central/dev-itpro/powerplatform/instant-flows)  
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]
-a

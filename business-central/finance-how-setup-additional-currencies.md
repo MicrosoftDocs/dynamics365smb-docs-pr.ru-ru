@@ -124,12 +124,10 @@ ms.author: bholtorf
 > [!NOTE]  
 > Поле **Доп. отчетная валюта** будет активировано только после нажатия кнопки **OK** в пакетном задании **Корректировать доп. отчетную валюту**.  
 
-## См. соответствующее [обучение Microsoft](/training/paths/use-multiple-currencies-dynamics-365-business-central/)
-
 ## См. также
 
 [Обновление валютных курсов](finance-how-update-currencies.md)  
-[Закрытие года и периодов](year-close-years-periods.md)  
+[Закрытие годов и периодов](year-close-years-periods.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
 
 

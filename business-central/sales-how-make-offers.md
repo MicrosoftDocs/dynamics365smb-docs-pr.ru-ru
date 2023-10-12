@@ -92,14 +92,12 @@ ms.author: bholtorf
 
 [!INCLUDE [ext-doc-no-sales](includes/ext-doc-no-sales.md)]
 
-## См. соответствующее [обучение Microsoft](/training/modules/create-sales-documents-dynamics-365-business-central/)
-
 ## См. также
 
 [Продажи](sales-manage-sales.md)  
 [Настройка продаж](sales-setup-sales.md)  
 [Отправка документов по электронной почте](ui-how-send-documents-email.md)  
-[Архивирование документов](across-how-to-archive-documents.md)  
+[Архивация документов](across-how-to-archive-documents.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]
