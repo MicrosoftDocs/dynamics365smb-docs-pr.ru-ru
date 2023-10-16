@@ -107,8 +107,6 @@ ms.author: bholtorf
 
 [!INCLUDE [multiple-interest-rates-def](includes/multiple-interest-rates-def.md)] Дополнительные сведения см. в разделе [Настройка нескольких процентных ставок](finance-how-to-set-up-multiple-interest-rates.md).  
 
-## См. соответствующее [обучение Microsoft](/training/paths/process-financial-periodic-activities-dynamics-365-business-central/)
-
 ## См. также
 
 [Настройка условий и уровней напоминаний](finance-setup-reminders.md)  

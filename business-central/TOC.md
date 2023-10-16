@@ -348,6 +348,11 @@
 #### [Работа с отклонениями в оплате и отклонениями скидок по оплате](finance-payment-tolerance-and-payment-discount-tolerance.md)
 #### [Расширение "Прогнозирование просрочек оплаты"](ui-extensions-late-payment-prediction.md)
 
+### Управление электронными документами
+#### [Настройка электронных документов](finance-how-setup-edocuments.md)
+#### [Использование электронных документов при продажах и покупках](finance-how-use-edocuments.md)
+#### [Расширение функциональности электронных документов](/dynamics365/business-central/dev-itpro/developer/devenv-extend-edocuments)
+
 ### Управление НДС
 #### [Обзор управления НДС](finance-manage-vat.md)
 #### [Транзакции покупки третьей стороной в ЕС](finance-how-to-eu3party-trade-purchase.md)
@@ -447,9 +452,10 @@
 ### [Учет транзакций непосредственно в главной книге](finance-how-post-transactions-directly.md)
 ### [Сторнирование учтенных журнальных операций и отмена приходных/расходных накладных](finance-how-reverse-journal-posting.md)
 ### [Экспорт файлов для аудита](finance-how-to-export-audit-files.md)
-### [Распределение затрат и дохода](year-allocate-costs-income.md)
 ### [Регистрация и возмещение расходов сотрудников](finance-how-record-reimburse-employee-expenses.md)
 ### [Доходы и расходы будущих периодов](finance-how-defer-revenue-expenses.md)
+### [Распределение типовых затрат и дохода](year-allocate-costs-income.md)
+### [Распределение доходов и затрат по нескольким счетам ГК](finance-allocate-revenue-costs.md)
 ### [Обновление валютных курсов](finance-how-update-currencies.md)
 ### [Импорт зарплатных транзакций](finance-how-import-payroll-transactions.md)
 ### [Работа с НДС по продажам и покупкам](finance-work-with-vat.md)
@@ -585,6 +591,7 @@
 #### [Управление взаимодействиями для сегментов](marketing-interaction-segments.md)
 ### Управление взаимодействиями
 #### [Взаимодействия](marketing-interactions-overview.md)
+#### [Вложения для взаимодействий](marketing-interaction-attachments.md)
 #### [Регистрация взаимодействий с контактами](marketing-interactions.md)
 #### [Создание взаимодействий для контактов и сегментов](marketing-how-create-interactions.md)
 #### [Автоматическая регистрация взаимодействий с контактами](marketing-auto-record-interactions.md)
@@ -1545,6 +1552,7 @@
 #### [Настройка способов доставки](sales-how-set-up-shipment-methods.md)
 #### [Настройка экспедиторов](sales-how-to-set-up-shipping-agents.md)
 #### [Определение политики учета счетов для пользователей](admin-setup-invoice-posting-policy.md)
+#### [Обновление дат документов в соответствии с датами учета](across-link-doc-dates-to-posting-dates.md)
 ### Настройка покупок
 #### [Настройка покупок](purchasing-setup-purchasing.md)
 #### [Регистрация новых поставщиков](purchasing-how-register-new-vendors.md)
@@ -1554,6 +1562,7 @@
 #### [Настройка цен и скидок](across-prices-and-discounts.md)
 #### [Регистрация специальных цен покупки и скидок](purchasing-how-record-purchase-price-discount-payment-agreements.md)
 #### [Определение политики учета счетов для пользователей](admin-setup-invoice-posting-policy.md)
+#### [Обновление дат документов в соответствии с датами учета](across-link-doc-dates-to-posting-dates.md)
 ### Настройка запасов
 #### [Настройка запасов](inventory-setup-inventory.md)
 #### [Настройка общей информации о запасах](inventory-how-setup-general.md)
@@ -1720,7 +1729,7 @@
 ### [Обзор](reports-use-reports.md)
 ### [Запуск отчетов](ui-work-report.md)
 ### [Добавление закладки для отчета](ui-bookmarks.md)
-### [Анализ данных отчета с помощью Excel](report-analyze-excel.md)
+### [Анализ данных отчетов с помощью Excel](report-analyze-excel.md)
 ### [Печать отчетов](ui-specify-printer-selection-reports.md#default)
 ### [Планирование запуска отчетов на определенное время](ui-work-report.md#ScheduleReport)
 ### [Совместное использование и экспорт отчетов с помощью папки "Входящие отчеты"](ui-work-report-inbox.md)
@@ -1790,8 +1799,8 @@
 ### [Сортировка, поиск и фильтрация](ui-enter-criteria-filters.md)
 ### [Вопросы и ответы о поиске и фильтрации](ui-search-filter-faq.yml)
 ### [Анализ данных страниц в Excel](across-work-with-excel.md)
-### [Анализ данных отчета с помощью Excel](report-analyze-excel.md)
-### [Анализ данных списка в режиме анализа](analysis-mode.md)
+### [Анализ данных отчетов с помощью Excel](report-analyze-excel.md)
+### [Анализ данных списков и запросов в режиме анализа](analysis-mode.md)
 ### [Финансовая бизнес-аналитика](bi.md)
 
 ## Встроенная аналитика 
