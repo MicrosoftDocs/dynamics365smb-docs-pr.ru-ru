@@ -9,7 +9,7 @@ ms.reviewer: bholtorf
 ms.author: soalex
 ---
 
-# Персонал и зарплата
+# <a name="human-resources"></a>Персонал и зарплата
 
 В этом разделе:
 
