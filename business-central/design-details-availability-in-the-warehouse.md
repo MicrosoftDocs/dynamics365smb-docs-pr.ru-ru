@@ -73,6 +73,10 @@ ms.custom: bap-template
 
 В строке резервирования количество, которое невозможно зарезервировать, поскольку оно распределено на склад, отображается в поле **Кол-во, распред. на складе** на странице **Резервирование**.  
 
+## Проверка доступности товаров для подбора
+
+[!INCLUDE [inventory-availability-overview](includes/inventory-availability-overview.md)]
+
 ### Расчет количества, доступного для резервирования
 
 [!INCLUDE [prod_short](includes/prod_short.md)] рассчитывает количество, доступное для резервирования, следующим образом:  
@@ -85,8 +89,8 @@ ms.custom: bap-template
 
 ## См. также  
 
-[Обзор Warehouse Management](design-details-warehouse-management.md)
-[Просмотр наличия товаров](inventory-how-availability-overview.md)
-
+[Обзор управления складами](design-details-warehouse-management.md)
+[Просмотр наличия товара](inventory-how-availability-overview.md)
+[Подбор для производства, сборки или работ в расширенных конфигурациях склада](warehouse-how-to-pick-for-internal-operations-in-advanced-warehousing.md)
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]
