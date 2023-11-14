@@ -10,13 +10,13 @@ ms.search.keywords: null
 ms.date: 05/27/2021
 ms.author: bholtorf
 ---
-# <a name="external-document-numbers-on-purchase-documents"></a>Номера внешних документов в документах покупки
+# Номера внешних документов в документах покупки
 
 [!INCLUDE [ext-doc-no-purch](includes/ext-doc-no-purch.md)]
 
 Вы также можете указать номера внешних документов в документах по продаже. Для получения дополнительной информации см. [Номера внешних документов](sales-how-invoice-sales.md#external-document-numbers)
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Ввод номеров внешних документов](across-enter-external-document-numbers.md)  
 [Покупки](purchasing-manage-purchasing.md)  

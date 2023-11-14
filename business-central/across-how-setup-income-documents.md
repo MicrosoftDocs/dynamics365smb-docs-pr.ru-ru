@@ -43,8 +43,6 @@ ms.author: bholtorf
 
 Дополнительные сведения см. в разделе [Использование OCR для преобразования PDF-файлов и графических файлов в электронные документы](across-how-use-ocr-pdf-images-files.md).  
 
-## См. соответствующее [обучение Microsoft](/training/modules/incoming-documents-dynamics-365-business-central/)
-
 ## См. также
 
 [Входящие документы](across-income-documents.md)  

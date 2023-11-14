@@ -58,12 +58,10 @@ ms.author: bholtorf
 3. Карточка единицы хранения
 4. Карточка поставщика
 
-## См. соответствующее [обучение Microsoft](/training/modules/estimate-receipt-dates-dynamics-365-business-central/)
-
 ## См. также
 
 [Расчет даты для продаж](sales-date-calculation-for-sales.md)  
-[Расчет сроков планирования заказов](sales-how-to-calculate-order-promising-dates.md)  
+[Расчет сроков доставки заказов](sales-how-to-calculate-order-promising-dates.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 
 

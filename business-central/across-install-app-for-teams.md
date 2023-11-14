@@ -11,7 +11,7 @@ ms.date: 04/12/2021
 ms.author: jswymer
 ---
 
-# <a name="install-the--app-for-microsoft-teams"></a>Установите приложение [!INCLUDE [prod_short](includes/prod_short.md)] для Microsoft Teams
+# Установите приложение [!INCLUDE [prod_short](includes/prod_short.md)] для Microsoft Teams
 
 [!INCLUDE [online_only](includes/online_only.md)]
 
@@ -20,7 +20,7 @@ ms.author: jswymer
 > [!NOTE]
 > Ваш администратор мог настроить все так, чтобы приложение автоматически устанавливалось для вас. Чтобы проверить, установлено ли приложение, откройте Teams, затем выберите **Приложения**. Найдите **Business Central**, затем выберите его, когда найдете. Если показано **Открыть** на странице **Business Central**, приложение уже установлено.  
 
-## <a name="prerequisites"></a>Предварительные требования
+## Предварительные требования
 
 - Учетная запись пользователя [!INCLUDE [prod_short](includes/prod_short.md)] Online требуется для приложения [!INCLUDE [prod_short](includes/prod_short.md)] для Teams.
 
@@ -30,7 +30,7 @@ ms.author: jswymer
 
 - Политики вашей организации должны позволять устанавливать приложения в Microsoft Teams.
 
-## <a name="add-the-business-central-app-to-teams"></a>Добавление приложения Business Central в Teams
+## Добавление приложения Business Central в Teams
 
 Установить приложение Business Central можно тремя способами:
 
@@ -67,11 +67,11 @@ ms.author: jswymer
 > [!NOTE]
 > В любом случае вас могут попросить войти в [!INCLUDE [prod_short](includes/prod_short.md)]. Выберите ссылку **Войти** и следуйте инструкциям, чтобы ввести имя для входа и пароль для [!INCLUDE [prod_short](includes/prod_short.md)].
 
-## <a name="next-step"></a>Следующий шаг
+## Следующий шаг
 
 Теперь вы готовы использовать приложение в Teams для поиска контактов или обмена записями Business Central. Для получения дополнительной информации см. [Поиск клиентов, поставщиков и других контактов из Microsoft Teams](across-search-contacts-teams.md) или [Общий доступ к записям в Microsoft Teams](across-working-with-teams.md).
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Обзор интеграции Business Central и Microsoft Teams](across-teams-overview.md)  
 [Вопросы и ответы по Teams](teams-faq.md)  

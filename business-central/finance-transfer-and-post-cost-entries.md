@@ -98,8 +98,6 @@ ms.author: bholtorf
 
 В таблице **Регистр затрат** [!INCLUDE[prod_short](includes/prod_short.md)] создает запись с перемещением источника из Главной книги. Записи операций записи с номерами первой и последней операции, которые перенесены, в дополнение к номерам первой и последней операции затрат, которые созданы.
 
-## См. соответствующее [обучение Microsoft](/training/modules/transfer-gl-entries-dynamics-365-business-central/)
-
 ## См. также
 
  [Об учете затрат](finance-about-cost-accounting.md)  

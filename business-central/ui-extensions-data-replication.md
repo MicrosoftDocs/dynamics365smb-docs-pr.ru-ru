@@ -13,7 +13,7 @@ ms.date: 06/23/2021
 ms.author: bholtorf
 ---
 
-# <a name="cloud-migration-extensions-for-migrating-to-business-central-online"></a>Расширения облачной миграции для перехода на Business Central Online
+# Расширения облачной миграции для перехода на Business Central Online
 
 В зависимости от вашего локального решения вы должны использовать разные расширения для подключения ваших данных к [!INCLUDE[prod_short](includes/prod_short.md)] Online с целью переноса вашего решения в облако.  
 
@@ -21,22 +21,22 @@ ms.author: bholtorf
 
 Для получения дополнительной информации см. раздел [Миграция локальных данных в Business Central Online](/dynamics365/business-central/dev-itpro/administration/migrate-data) в материалах для администраторов [!INCLUDE[prod_short](includes/prod_short.md)].  
 
-## <a name="business-central-on-premises"></a>Локальная версия Business Central
+## Локальная версия Business Central
 
 Если используется локальное развертывание [!INCLUDE[prod_short](includes/prod_short.md)], получите расширения **Основа интеллектуального облака** и **Интеллектуальное облако Business Central**, затем выполните мастер настройки **Настройка миграции в облако**.  
 
-## <a name="dynamics-gp"></a>Dynamics GP
+## Dynamics GP
 
 Если используется Dynamics GP, получите расширения **Базовое расширение интеллектуального облака** и **Интеллектуальное облако Dynamics GP**, затем запустите мастер настройки **Настройка миграции в облако**.  
 
 > [!IMPORTANT]
 > Миграция из Dynamics GP с использованием мастер настройки **Настройка миграции в облако** в настоящее время поддерживается только для следующих рынков: США, Канада, Соединенное Королевство.
 
-## <a name="dynamics-sl"></a>Dynamics SL
+## Dynamics SL
 
 Если используется Dynamics SL, получите расширения **База интеллектуального облака**, **Интеллектуальное облако Microsoft Dynamics SL** и **Смарт-листы истории Microsoft Dynamics SL**, затем запустите мастер настройки **Настройка миграции в облако**.  
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Базовое расширение миграции в облако](ui-extensions-intelligent-cloud.md)  
 [Миграция локальных данных в Business Central Online](/dynamics365/business-central/dev-itpro/administration/migrate-data)  

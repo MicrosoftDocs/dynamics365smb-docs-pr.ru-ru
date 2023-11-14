@@ -5,8 +5,9 @@
 # Начало работы
 ## [Обзор бизнес-функциональности](across-business-functionality.md)
 <!--### [Get Ready for Doing Business](ui-get-ready-business.md)  -->
-## Изучение
-### [Каталог учебных ресурсов по Business Central](readiness/readiness-learning-catalog.md)
+## Обучение
+### [Ресурсы для пользователей](resources-for-users.md)
+### [Каталог учебных курсов по Business Central](readiness/readiness-learning-catalog.md)
 ### [Обучение работе с Business Central](/training/dynamics365/business-central?WT.mc_id=dyn365bc_landingpage-docs)
 ### Пошаговые руководства по бизнес-процессам
 #### [Доступные пошаговые руководства](walkthrough-business-process-walkthroughs.md)
@@ -349,6 +350,7 @@
 #### [Расширение "Прогнозирование просрочек оплаты"](ui-extensions-late-payment-prediction.md)
 
 ### Управление электронными документами
+#### [Обзор электронных документов](finance-edocuments-overview.md)
 #### [Настройка электронных документов](finance-how-setup-edocuments.md)
 #### [Использование электронных документов при продажах и покупках](finance-how-use-edocuments.md)
 #### [Расширение функциональности электронных документов](/dynamics365/business-central/dev-itpro/developer/devenv-extend-edocuments)
@@ -1815,6 +1817,7 @@
 
 ## Анализ данных в инструментах бизнес-аналитики
 ### [Обзор](reports-external-analysis.md)
+### [Microsoft Fabric и Business Central](admin-fabric.md)
 ### [Использование Power BI с Business Central](admin-powerbi.md)
 ### [Анализ бухгалтерских отчетов с помощью Excel](finance-analyze-excel.md)
 ### [Извлечение данных в хранилища данных или озера данных](/dynamics365/business-central/dev-itpro/performance/performance-developer#efficient-extracts-to-data-lakes-or-data-warehouses)
