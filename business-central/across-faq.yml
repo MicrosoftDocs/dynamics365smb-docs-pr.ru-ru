@@ -86,7 +86,7 @@ sections:
       - question: |
           Нужно ли мне покупать Microsoft 365?
         answer: |
-          № Но если вы хотите попробовать [!INCLUDE[prod_short](includes/prod_short.md)] с полной интеграцией в Microsoft 365, вы можете зарегистрировать 1-месячную бесплатную пробную версию Microsoft 365 [здесь](https://products.office.com/try).  
+          Нет. Но если вы хотите попробовать [!INCLUDE[prod_short](includes/prod_short.md)] с полной интеграцией в Microsoft 365, вы можете зарегистрировать 1-месячную бесплатную пробную версию Microsoft 365 [здесь](https://products.office.com/try).  
 
           Если регистрация выполнена с не относящейся к работе учетной записью Microsoft 365 (например, joe@mysolution.com) и у вас есть подписка на Microsoft 365, можно связать ваш домен (*mysolution.com*) с подпиской на Microsoft 365. Подробнее см. в разделе [Что такое домен?](/microsoft-365/admin/get-help-with-domains/what-is-a-domain?view=o365-worldwide&preserve-view=true) в содержимом Microsoft 365.  
 
