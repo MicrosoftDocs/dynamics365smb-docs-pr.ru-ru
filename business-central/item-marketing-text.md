@@ -15,7 +15,7 @@ ms.custom: bap-template
 
 Существует два способа создания маркетингового текста: Самый простой способ — использовать Copilot, который предлагает вам текст, сгенерированный ИИ. Другой способ — начать с нуля. 
 
-## <a name="create-ai-generated-marketing-text-preview-with-copilot"></a><a name=copilot></a>Создание маркетинговых текстов на базе ИИ (предварительная версия) с помощью Copilot
+## <a name="get-marketing-text-suggestions-with-copilot"></a><a name=copilot></a>Создание маркетинговых текстов на базе ИИ (предварительная версия) с помощью Copilot
 
 [!INCLUDE[ai-preview](includes/ai-preview.md)]
 
@@ -115,7 +115,7 @@ Copilot призван сэкономить ваше время и помочь 
 
    Copilot найдет слова и фразы, относящиеся к категории, и включит их в предлагаемый текст.
 
-## <a name="create-marketing-text-from-scratch"></a>Создание маркетингового текста с нуля
+## <a name="create-text-from-scratch"></a>Создание маркетингового текста с нуля
 
 1. В Business Central откройте товар, который вы хотите изменить следующим образом:
 
