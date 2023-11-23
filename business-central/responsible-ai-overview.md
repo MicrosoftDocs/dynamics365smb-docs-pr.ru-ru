@@ -10,7 +10,7 @@ ms.author: jswymer
 ms.reviewer: jswymer
 ---
 
-# <a name="responsible-ai-faqs-for-for-dynamics-365-business-central"></a>Вопросы и ответы об ответственном применении ИИ для Dynamics 365 Business Central
+# Вопросы и ответы об ответственном применении ИИ для Dynamics 365 Business Central
 
 [!INCLUDE[responsible-ai-features-intro](includes/responsible-ai-intro.md)]
 

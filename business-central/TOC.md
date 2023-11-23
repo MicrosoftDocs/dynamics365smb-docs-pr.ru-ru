@@ -116,13 +116,6 @@
 ### [Устранение неполадок при самостоятельной регистрации](ui-troubleshoot-self-signup.md)
 ### [Продление пробного использования](admin-extend-trial.md)
 ### [Отмена подписки или удаление Business Central](admin-cancel.md)
-### Написание маркетинговых текстов для товаров на базе ИИ с помощью Copilot
-#### [Обзор](ai-overview.md)
-#### [Получение предварительной версии](ai-preview-getstarted.md)
-#### [Настройка создания маркетинговых текстов для товаров на базе ИИ](enable-ai.md)
-#### [Создание маркетинговых текстов для товаров на базе ИИ](item-marketing-text.md)
-#### [Вопросы и ответы](ai-faq.md)
-
 ## Приобретение
 ### [Начало работы с подпиской](trial-signup.md#get-started-with-a-subscription)
 ### [Подготовка к ведению бизнеса](ui-get-ready-business.md)
@@ -379,6 +372,7 @@
 ### Выверка банковских счетов
 #### [Обзор банковской выверки](bank-manage-bank-accounts.md)
 #### [Выверка банковских счетов](bank-how-reconcile-bank-accounts-separately.md)
+#### [Выверка банковских счетов с помощью Copilot (предварительная версия)](bank-reconciliation-with-copilot.md)
 #### [Автоматическое применение платежей и выверка банковских счетов](receivables-apply-payments-auto-reconcile-bank-accounts.md)
 
 ### Управление межфирменными транзакциями
@@ -1577,7 +1571,6 @@
 #### [Настройка единиц хранения](inventory-how-to-set-up-stockkeeping-units.md)
 #### [Категоризация товаров](inventory-how-categorize-items.md)
 #### [Импорт множественных изображений товаров](inventory-how-import-item-pictures.md)
-#### [Настройка создания маркетинговых текстов для товаров на базе ИИ с помощью Copilot](enable-ai.md)
 ### Настройка управления проектами
 #### [Настройка проектов](projects-setup-projects.md)
 #### [Настройка ресурсов](projects-how-setup-resources.md)
@@ -1841,6 +1834,17 @@
 #### [Руководство по разработке отчетов](/dynamics365/business-central/dev-itpro/developer/devenv-reports)
 #### [Руководство по настройке производительности отчетов](/dynamics365/business-central/dev-itpro/performance/performance-developer#writing-efficient-reports)
 
+# Возможности Copilot и ИИ
+## Управление возможностями Copilot и ИИ
+### [Настройка возможностей Copilot и ИИ](enable-ai.md)
+### [Перемещение данных Copilot по географическим регионам](ai-copilot-data-movement.md)
+## Помощь в выверке банковского счета (предварительная версия)
+### [Выверка банковских счетов с помощью Copilot](bank-reconciliation-with-copilot.md)
+### [Вопросы и ответы о помощи в выверке банковского счета](faqs-bank-reconciliation.md)
+## Предлагаемые маркетинговые тексты
+### [Обзор предлагаемых маркетинговых текстов](ai-overview.md)
+### [Создание маркетингового текста с помощью Copilot](item-marketing-text.md)
+### [Вопросы и ответы о предлагаемых маркетинговых текстах](faqs-marketing-text.md)
 
 # Безопасность, конфиденциальность и соответствие
 ## Защита и безопасность
@@ -1894,6 +1898,7 @@
 ### [Раннее включение новых функций](admin-feature-management.md)
 ### [Адаптация пользователей с использованием контрольных списков](admin-checklist.md)
 ### [Среды-песочницы](admin-sandbox-environments.md)
+## [Возможности Copilot и ИИ](enable-ai.md)
 ## Пользовательская настройка Business Central
 ### [Обзор пользовательской настройки](ui-customizing-overview.md)
 ### [Настройка страниц для профилей](ui-personalization-manage.md)
@@ -1926,19 +1931,19 @@
 #### [US/CA/UK/AU/NZ/ZA — Отправка платежного авизо](ui-extensions-send-remittance-advice.md)
 #### [WorldPay Payments Standard](ui-extensions-worldpay-payments-standard.md)
 #### [Расширения для Business Central от других поставщиков](ui-extensions-other.md)
-## Интеграция с Dynamics 365 Sales
-### [Интеграция с Dynamics 365 Sales](admin-prepare-dynamics-365-for-sales-for-integration.md)
+## Интеграция с другими приложениями Dynamics 365
+### [Интеграция с Dynamics 365 Sales посредством синхронизации данных](admin-prepare-dynamics-365-for-sales-for-integration.md)
 ## Интеграция с Microsoft Dataverse
-### [Интеграция с Microsoft Dataverse](admin-common-data-service.md)
-### [Модели владения данными](admin-cds-company-concept.md)
-### [Настройка учетных записей пользователей для интеграции с Microsoft Dataverse](admin-setting-up-integration-with-dynamics-sales.md)
-### [Подключение к Microsoft Dataverse](admin-how-to-set-up-a-dynamics-crm-connection.md)
+### [Интеграция с Dataverse посредством синхронизации данных](admin-common-data-service.md)
+### [Модели владения данными для синхронизации](admin-cds-company-concept.md)
+### [Настройка учетных записей пользователей для интеграции с Dataverse посредством синхронизации данных](admin-setting-up-integration-with-dynamics-sales.md)
+### [Подключение к Dataverse для синхронизации данных](admin-how-to-set-up-a-dynamics-crm-connection.md)
 ### [Синхронизация Business Central и Microsoft Dataverse](admin-synchronizing-business-central-and-sales.md)
 ### [Сопоставление таблиц и полей для синхронизации](admin-how-to-modify-table-mappings-for-synchronization.md)
 ### [Синхронизация сопоставлений таблиц вручную](admin-manual-synchronization-of-table-mappings.md)
 ### [Синхронизация по расписанию](admin-scheduled-synchronization-using-the-synchronization-job-queue-entries.md)
 ### [Устранение ошибок синхронизации](admin-troubleshoot-sales-synchronization.md)
-### [Использование потока Power Automate для оповещения об изменениях сущностей Dataverse](admin-power-automate-flow-dataverse.md)
+### [Использование потока Power Automate для своевременной синхронизации изменений сущностей Dataverse](admin-power-automate-flow-dataverse.md)
 ## Синхронизация основных данных между организациями
 ### [Подготовка к синхронизации основных данных](admin-set-up-data-sync.md)
 ### [Управление синхронизацией основных данных](admin-sync-master-data.md)
@@ -2019,3 +2024,7 @@
 ## [Защита и безопасность](/dynamics365/business-central/dev-itpro/security/security-and-protection?toc=/dynamics365/business-central/toc.json)
 ## [Производительность](/dynamics365/business-central/dev-itpro/performance/performance-overview?toc=/dynamics365/business-central/toc.json)
 ## [Удаленные или нерекомендуемые функции](/dynamics365/business-central/dev-itpro/upgrade/deprecated-features-w1?toc=/dynamics365/business-central/toc.json)
+# Ответственное применение ИИ
+## [Обзор](responsible-ai-overview.md)
+## [Вопросы и ответы о помощи в выверке банковского счета (предварительная версия)](faqs-bank-reconciliation.md)
+## [Вопросы и ответы о предлагаемых маркетинговых текстах](faqs-marketing-text.md)
