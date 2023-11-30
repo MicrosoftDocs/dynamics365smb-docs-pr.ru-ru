@@ -5,9 +5,8 @@
 # Начало работы
 ## [Обзор бизнес-функциональности](across-business-functionality.md)
 <!--### [Get Ready for Doing Business](ui-get-ready-business.md)  -->
-## Обучение
+## Изучение
 ### [Ресурсы для пользователей](resources-for-users.md)
-### [Каталог учебных курсов по Business Central](readiness/readiness-learning-catalog.md)
 ### [Обучение работе с Business Central](/training/dynamics365/business-central?WT.mc_id=dyn365bc_landingpage-docs)
 ### Пошаговые руководства по бизнес-процессам
 #### [Доступные пошаговые руководства](walkthrough-business-process-walkthroughs.md)
@@ -209,19 +208,6 @@
 ### [Библиотека видео](across-videos.md)
 ### [Получение технической поддержки](/dynamics365/business-central/dev-itpro/administration/manage-technical-support?toc=/dynamics365/business-central/toc.json)
 
-<!--## Microsoft Learn training
-### [Dynamics 365 Business Central on Microsoft Learn](/training/dynamics365/business-central?WT.mc_id=dyn365bc_landingpage-docs)
-### [Business Central Learning Catalog](readiness/readiness-learning-catalog.md)
-### [Business Functionality Learning Paths](/training/browse/?products=dynamics-business-central&roles=business-user&resource_type=learning%20path)
-### Resources for a Business Decision Maker
-#### [Learning catalog](readiness/readiness-learning-bus-decision-makers.md)
-#### [Get Ready for Doing Business](ui-get-ready-business.md)
-### Resources for a Business User
-#### [Learning catalog](readiness/readiness-learning-bus-users.md)
-#### [Get Ready for Doing Business](ui-get-ready-business.md)
-### Resources for a Developer
-#### [Learning catalog](readiness/readiness-learning-developers.md)
-#### [Documentation](/dynamics365/business-central/dev-itpro/developer/devenv-dev-overview?toc=/dynamics365/business-central/toc.json)-->
 # Бизнес-функциональность
 ## [Обзор бизнес-функциональности](across-business-functionality.md)
 <!--general-->
@@ -242,8 +228,9 @@
 ### [Поле "Статус" в документах](ui-document-status.md)
 ### [Работа с финансовыми журналами](ui-work-general-journals.md)
 ### [Использование очередей заданий для планирования задач](admin-job-queues-schedule-tasks.md)
-### [Автоматически предлагаемые значения](ui-let-system-suggest-values.md)
+### [Разрешение Business Central предлагать значения](ui-let-system-suggest-values.md)
 ### [Использование онлайн-карт для поиска местоположений и составления маршрутов](across-online-maps.md)
+### [Настройка цифровых ваучеров](across-how-setup-digital-vouchers.md)
 
 ### Входящие документы
 #### [Обзор входящих документов](across-income-documents.md)
@@ -882,10 +869,12 @@
 
 ### Дания
 #### [Локальная функциональность в датской версии](LocalFunctionality/Denmark/denmark-local-functionality.md)
+#### [Уведомление и регистрация в NemHandelsregisteret в Дании](localfunctionality/denmark/how-to-nemhandel-register.md)
 #### НДС
 ##### [Печать отчетов по выверке НДС](LocalFunctionality/Denmark/how-to-print-vat-reconciliation-reports.md)
 ##### [Отчетность по НДС (VIES)](LocalFunctionality/Denmark/vat-vies-reporting.md)
 ##### [Настройка регистрационных номеров плательщиков НДС для Интрастат](LocalFunctionality/Denmark/vat-registration-no-intrastat.md)
+##### [Отправка отчетов по НДС в электронном виде](localfunctionality/denmark/how-to-evat-statement-dk.md)
 #### Банковские операции и платежи
 ##### [Сведения по стандарту FIK в журнале выверки платежей](LocalFunctionality/Denmark/fik-details-in-the-payment-reconciliation-journal.md)
 ##### [Расширение "Платежи и выверки" (DK)](ui-extensions-payments-reconciliation-formats-dk.md)
@@ -897,6 +886,8 @@
 ##### [Создание электронных документов в формате OIOUBL](LocalFunctionality/Denmark/how-to-create-electronic-documents-by-using-oioubl.md)
 #### Зарплата
 ##### [Определения данных для зарплаты (DK)](LocalFunctionality/Denmark/ui-extensions-payroll-data-definitions-dk.md)
+#### Цифровые ваучеры
+##### [Настройка цифровых ваучеров в Дании](localfunctionality/denmark/how-to-digital-vouchers-dk.md)
 
 ### Финляндия
 #### [Локальная функциональность в финской версии](LocalFunctionality/Finland/finland-local-functionality.md)
@@ -1838,6 +1829,7 @@
 ## Управление возможностями Copilot и ИИ
 ### [Настройка возможностей Copilot и ИИ](enable-ai.md)
 ### [Перемещение данных Copilot по географическим регионам](ai-copilot-data-movement.md)
+### [Устранение неполадок с возможностями Copilot и ИИ](ai-copilot-troubleshooting.md)
 ## Помощь в выверке банковского счета (предварительная версия)
 ### [Выверка банковских счетов с помощью Copilot](bank-reconciliation-with-copilot.md)
 ### [Вопросы и ответы о помощи в выверке банковского счета](faqs-bank-reconciliation.md)

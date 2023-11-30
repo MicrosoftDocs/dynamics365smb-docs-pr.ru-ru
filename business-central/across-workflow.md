@@ -9,11 +9,11 @@ ms.topic: conceptual
 ms.date: 10/10/2022
 ms.custom: bap-template
 ---
-# <a name="workflows-in-dynamics-365-business-central"></a>Рабочие процессы в Dynamics 365 Business Central
+# Рабочие процессы в Dynamics 365 Business Central
 
 Можно настроить и использовать рабочие процессы для связи задач бизнес-процесса, выполняемых различными пользователями. Системные задачи, такие как автоматическая публикация, могут включаться в рабочие процессы в качестве шагов. Перед системными задачами или после них могут выполняться пользовательские задачи. Типичные шаги рабочего процесса — запрос и выдача разрешения на создание новых записей.
 
-Версия [!INCLUDE [prod_short](includes/prod_short.md)] по умолчанию поддерживает три типа рабочих процессов:
+Версия [!INCLUDE [prod_short](includes/prod_short.md)] по умолчанию поддерживает следующие типы рабочих процессов:
   
 * Рабочие процессы Power Automate
 
@@ -24,9 +24,9 @@ ms.custom: bap-template
 
 * Рабочие процессы утверждения на основе встроенных шаблонов рабочих процессов
 
-  На странице **Шаблоны рабочих процессов** вы можете увидеть все доступные рабочие процессы. Пробная версия [!INCLUDE[prod_short](includes/prod_short.md)] содержит множество заранее настроенных рабочих процессов, представленных шаблонами, которые можно скопировать для создания новых. Когда вы открываете шаблон со страницы **Шаблоны рабочего процесса** и название рабочего процесса начинается с *MS-*, тогда этот шаблон был добавлен Microsoft.
+  На странице **Шаблоны рабочих процессов** вы можете увидеть все доступные рабочие процессы. Пробная версия [!INCLUDE[prod_short](includes/prod_short.md)] содержит множество заранее настроенных рабочих процессов, представленных шаблонами, которые можно копировать для создания новых. Когда вы открываете шаблон со страницы **Шаблоны рабочего процесса** и название рабочего процесса начинается с *MS-*, тогда этот шаблон был добавлен Microsoft.
 
-## <a name="power-automate-flows"></a>Рабочие процессы Power Automate
+## Рабочие процессы Power Automate
 
 Используя [!INCLUDE [prod_short](includes/prod_short.md)] Online, вы можете зарегистрироваться в Power Automate для создания мощных автоматизированных рабочих процессов. Эти рабочие процессы будут запускаться из [!INCLUDE [prod_short](includes/prod_short.md)]. Эти потоки могут соединять внутренние и внешние источники данных и инструменты — без знания программирования.
 
@@ -36,7 +36,7 @@ ms.custom: bap-template
 |Узнайте как создавать потоки, редактировать их и управлять ими|[Настройка автоматизированных потоков](/dynamics365/business-central/dev-itpro/powerplatform/automate-workflows) и [Настройка мгновенных потоков](/dynamics365/business-central/dev-itpro/powerplatform/instant-flows)|
 |Настройка интеграции Power Automate с [!INCLUDE[prod_short](includes/prod_short.md)] для пользователей в качестве администратора|[Настройка интеграции с Power Automate](/dynamics365/business-central/dev-itpro/powerplatform/power-automate-setup)|
 
-## <a name="approval-workflows"></a>Рабочие процессы утверждения
+## Рабочие процессы утверждения
 
 Создайте рабочий процесс утверждения, указав что запускает рабочий процесс и что происходит дальше, следующим образом:
 
@@ -57,7 +57,7 @@ ms.custom: bap-template
 <!--
 | Integrate company data with Power Automate workflows, using both internal and external sources and events to create and automate tasks or workflows. | [Use Power Automate Flows in [!INCLUDE[prod_short](includes/prod_short.md)]](across-how-use-financials-data-source-flow.md) |-->
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Продажи](sales-manage-sales.md)  
 [Покупки](purchasing-manage-purchasing.md)  

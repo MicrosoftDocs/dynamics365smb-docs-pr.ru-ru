@@ -65,7 +65,7 @@ sections:
       - question: |
           Где мне найти этот номер строки?
         answer: |
-          Такие документы, как заказ на продажу или счета-фактуры продажи, состоят из заголовков и строк. В каждой строке есть номер, который [!INCLUDE [prod_short](includes/prod_short.md)] использует для идентификации этой конкретной строки. В результате вы можете увидеть предупреждение или сообщение об ошибке, например, что есть ошибка в строке с номером 1000. В версии по умолчанию [!INCLUDE [prod_short](includes/prod_short.md)] номера строк скрыты. Если вы хотите видеть номера строк, вы должны персонализировать текущую страницу и добавить **№ строки**. . Подробнее см. в разделе [Персонализация рабочей области](ui-personalization-user.md#start-personalizing-by-using-the-personalization-mode).  
+          Такие документы, как заказ на продажу или счета-фактуры продажи, состоят из заголовков и строк. В каждой строке есть номер, который [!INCLUDE [prod_short](includes/prod_short.md)] использует для идентификации этой конкретной строки. В результате вы можете увидеть предупреждение или сообщение об ошибке, например, что есть ошибка в строке с номером 1000. В версии по умолчанию [!INCLUDE [prod_short](includes/prod_short.md)] номера строк скрыты. Если вы хотите видеть номера строк, вы должны персонализировать текущую страницу и добавить поле **№ строки** . Подробнее см. в разделе [Персонализация рабочей области](ui-personalization-user.md#start-personalizing-by-using-the-personalization-mode).  
       - question: |
           Почему в справке описываются функциональные возможности, к которым я не могу получить доступ?
         answer: |
@@ -86,7 +86,7 @@ sections:
       - question: |
           Нужно ли мне покупать Microsoft 365?
         answer: |
-          Нет. Но если вы хотите попробовать [!INCLUDE[prod_short](includes/prod_short.md)] с полной интеграцией в Microsoft 365, вы можете зарегистрировать 1-месячную бесплатную пробную версию Microsoft 365 [здесь](https://products.office.com/try).  
+          № Но если вы хотите попробовать [!INCLUDE[prod_short](includes/prod_short.md)] с полной интеграцией в Microsoft 365, вы можете зарегистрировать 1-месячную бесплатную пробную версию Microsoft 365 [здесь](https://products.office.com/try).  
 
           Если регистрация выполнена с не относящейся к работе учетной записью Microsoft 365 (например, joe@mysolution.com) и у вас есть подписка на Microsoft 365, можно связать ваш домен (*mysolution.com*) с подпиской на Microsoft 365. Подробнее см. в разделе [Что такое домен?](/microsoft-365/admin/get-help-with-domains/what-is-a-domain?view=o365-worldwide&preserve-view=true) в содержимом Microsoft 365.  
 
@@ -148,11 +148,11 @@ additionalContent: |
   [Изменение языка и языкового стандарта](about-locale-language.md)  
   [Использование [!INCLUDE[prod_short](includes/prod_short.md)] в качестве рабочего почтового ящика в Outlook](admin-outlook.md)  
   [Использование [!INCLUDE[prod_short](includes/prod_short.md)] без Outlook](admin-no-outlook.md)  
-  [Изменение базовых настроек](ui-change-basic-settings.md)  
+  [Изменение базовых параметров](ui-change-basic-settings.md)  
   [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
   [Получение ответов на вопросы](/dynamics365/business-central/ui-get-ready-business#getting-answers-to-questions)  
+  [Обучение Business Central](/training/dynamics365/business-central?WT.mc_id=dyn365bc_landingpage-docs)   
   [Ресурсы для справки и поддержки](product-help-and-support.md)  
-  [Учебный каталог Business Central](readiness/readiness-learning-catalog.md)  
   [Назначение разрешений пользователям и группам](ui-define-granular-permissions.md)  
   [Наличие в странах/регионах и поддерживаемые переводы](/dynamics365/business-central/dev-itpro/compliance/apptest-countries-and-translations?toc=/dynamics365/business-central/toc.json)  
   [Условия предоставления услуг](compliance/compliance-service-compliance.md#service-terms)  

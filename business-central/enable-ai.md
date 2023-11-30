@@ -1,48 +1,114 @@
 ---
-title: Настройка создания маркетинговых текстов для товаров на базе ИИ (предварительная версия) с помощью Copilot
-description: 'В этой статье рассматривается, как получить пробную версию Business Central с Copilot и включить Copilot в среде.'
+title: Настройка возможностей Copilot и ИИ
+description: 'В этой статье объясняется, как включить Copilot в среде.'
 author: jswymer
 ms.author: jswymer
 ms.reviewer: jswymer
 ms.topic: how-to
-ms.date: 03/22/2023
+ms.date: 10/29/2023
 ms.custom: bap-template
+ms.search.form: 7775
 ---
 
-# <a name="configure-ai-powered-item-marketing-text-preview-with-copilot"></a>Настройка создания маркетинговых текстов для товаров на базе ИИ (предварительная версия) с помощью Copilot
+# Настройка возможностей Copilot и ИИ 
 
-[!INCLUDE[ai-preview](includes/ai-preview.md)]
+<!--[!INCLUDE[ai-preview](includes/ai-preview.md)]-->
 
-В этой статье объясняется, как вы можете управлять возможностью создания маркетингового текста на базе ИИ с помощью Copilot для вашей организации. Эту задачу выполняет администратор. Чтобы сделать эту функцию доступной для пользователей, необходимо выполнить два требования:
+<!--This article explains how you can control the ability to create AI-powered item marketing text with Copilot for your organization. This task is done by an admin. There are two requirements that you must fulfill to make the feature available to users:-->
 
-- Включите функцию **Создание описаний товаров на базе ИИ с помощью Copilot**.
-- Согласитесь с условиями [предварительной версии](https://dynamics.microsoft.com/legaldocs/supp-dynamics365-preview/) и [Заявлением о конфиденциальности Microsoft](https://go.microsoft.com/fwlink/?LinkId=521839) от имени организации.
+В этой статье рассматривается, как управлять Copilot и другими возможностями ИИ в Business Central. Эту задачу выполняет администратор. Copilot — это системная функция и неотъемлемая часть Business Central. Как и в случае с большинством системных функций, вы не предоставляете доступ отдельным пользователям и не можете включить или отключить Copilot. Однако в Copilot предусмотрены элементы управления данными и возможность деактивации отдельных возможностей Copilot и ИИ для каждой среды. Существуют разные уровни управления доступом к возможностям ИИ, в зависимости от функции:
 
-Если какое-либо из этих требований не выполняется, функция не будет доступна для использования.
+- Разрешение на перемещение данных между географическими регионами
 
-## <a name="prerequisites"></a>Предварительные требования
+  Эта задача требуется только в том случае, если ваша среда Business Central находится в другой географии, чем используемая ею служба Azure OpenAI. [Подробнее](#allow-data-movement-across-geographies)
 
-Вы используете [предварительную версию](ai-preview-getstarted.md) Business Central, в которой включен Copilot. Включение Copilot выполняется администратором. Для получения дополнительной информации перейдите к разделу [Настройка создания маркетингового текста для товаров на базе ИИ с помощью Copilot](enable-ai.md).
+- Активируйте эту функцию на странице **Возможности Copilot и ИИ**. [Подробнее](#activate-features)
 
-## <a name="enable-or-disable-create-ai-powered-product-descriptions-with-copilot"></a>Включение или выключение создания описаний товаров на базе ИИ с помощью Copilot
+- Включите конкретную функцию, если она все еще управляется разделом **Управление функциями**.
+
+  В волне 2 выпуска 2023 года в разделе **Управление функциями** включены как предложения маркетингового текста, так и функции помощи в выверке банковских счетов. [Подробнее](#enable-feature-in-feature-management)
+
+Если какие-либо из этих требований не выполняются, функция не доступна для использования.
+
+## Предварительные требования
+
+- Вы используете Business Central Online версии 23.1 или более поздней. <!--[preview version](ai-preview-getstarted.md) of Business Central that's enabled for Copilot.-->
+- У вас есть права администратора или суперпользователя в Business Central.  <!--For more information, go to [Configure AI-powered item marketing text with Copilot](enable-ai.md).-->
+
+## Разрешение перемещения данных между географическими регионами
+
+Эта задача применима только в том случае, если переключатель **Разрешить перемещение данных** появляется в верхней части страницы **Возможности Copilot и ИИ**. Переключатель **Разрешить перемещение данных** указывает, что местоположение вашей среды Business Central, &mdash; то есть географическое положение, в котором данные обрабатываются и хранятся, &mdash; отличается от географии службы Azure OpenAI, используемой Copilot. Если вы хотите включить Copilot, вам необходимо разрешить перемещение данных между географическими регионами. Чтобы узнать больше о перемещении данных, перейдите в раздел [Перемещение данных Copilot между регионами](ai-copilot-data-movement.md). 
+
+Чтобы разрешить перемещение данных за пределы вашего географического региона, выполните следующие действия:
+
+1. В Business Central найдите и откройте страницу **Возможности Copilot и ИИ**.
+1. Включите переключатель **Разрешить перемещение данных**.
+
+   ![![альтернативный текст](allow-data-movement.png)](allow-data-movement.png)
+
+Вы можете отказаться, выключив переключатель **Разрешить перемещение данных**. Как только служба Azure OpenAI станет доступна в вашей географии среды Business Central, ваша среда автоматически подключится к ней, и переключатель больше не будет доступен. 
+
+
+<!--
+| Australia, United Kingdom, United States | Within the respective geographical region |
+| Europe, France, Germany, Norway, Switzerland  | Sweden or Switzerland |
+| Asia Pacific, Brazil, Canada, India, Japan, Singapore, South Africa, South Korea, United Arab Emirates  | United States |-->
+
+
+
+<!--Note
+
+If your environment is hosted in North America, Copilot will use an Azure OpenAI endpoint in North America to process your data.
+If your environment is hosted in Europe, Copilot will use an Azure OpenAI endpoint in Europe to process your data.
+If your environment is hosted anywhere else, Copilot will use an Azure OpenAI endpoint outside of the region in which the environment is hosted.
+To opt in 
+
+Copilot and other AI capabilities use Azure OpenAI Service.  and are provided by default to only those customers with environments that have United States as their geography for data processing and storage. While the Azure OpenAI Service is available in multiple geographies including Australia, Canada, United States, France, Japan and UK, Copilot does not follow the same regional rollout schedule.
+
+Meanwhile, customers with environments outside the United States can use Copilot AI features by opting in to share relevant data with the Azure OpenAI Service in United States or Switzerland.
+
+The information in the following table outlines the Azure OpenAI service that's used by the Copilot services based on the geography of their Dynamics 365 environment when they opt-in to share data.-->
+## Активирование функций
+
+Все возможности Copilot и ИИ активны по умолчанию, когда предлагаются в качестве предварительной версии или становятся общедоступными. Используя страницу **Возможности Copilot и ИИ**, вы можете отключать и снова включать отдельные функции для всех пользователей.
+
+1. В Business Central найдите и откройте страницу **Возможности Copilot и ИИ**.
+
+1. На странице перечислены все доступные функции Copilot и ИИ, а также их текущий статус, который может быть активным или неактивным. Функции разделены на два раздела &mdash; один раздел для функций в предварительной версии, а другой для функций, которые общедоступны. 
+
+   [![Показывает ролевой центр Business Central и контрольный список для Copilot](media/copilot-and-ai-capabilties-page.svg)](media/copilot-and-ai-capabilties-page.svg#lightbox)
+
+   - Чтобы включить функцию, выберите ее в списке, а затем выберите действие **Активировать**.
+   - Чтобы выключить функцию, выберите ее, а затем выберите действие **Деактивировать**. 
+
+
+## Включение функции в разделе «Управление функциями»
+
+Когда отдельные возможности Copilot выпускаются в рамках незначительных обновлений Business Central, эти возможности являются необязательными до следующего обновления с основным номером версии. **Управление функциями** используется для включения или отключения функций, находящихся на этапе предварительной версии, таких как выверка банковских счетов, а также некоторых общедоступных функций, таких как предлагаемые маркетинговые тексты. [Узнайте больше об управлении функциями](/dynamics365/business-central/dev-itpro/administration/feature-management).
 
 1. В Business Central найдите и откройте страницу **Управление функциями**.
-2. Установите в столбце **Включено для** функции **Предварительная версии функции: создание описаний товаров на базе ИИ с помощью Copilot** значение **Все пользователи**, чтобы включить функцию, или **Нет**, чтобы ее отключить.
+2. Чтобы включить функцию, установите для столбца **Включено для** значение **Все пользователи**. Чтобы отключить функцию, установите для столбца **Включено для** значение **Нет**. Используйте следующую таблицу, чтобы помочь определить переключатель, применимый к возможностям Copilot и AO, которые вы хотите включить:
+
+   - **Предварительная версия функции: выверка банковских счетов с помощью Copilot** относится к функции помощи в выверке банковских счетов.
+   - **Предварительная версия функции: создание описаний продуктов на основе ИИ с помощью Copilot** относится к функции предложений маркетингового текста.
 
    Дополнительные сведения об управлении функциями в целом см. в разделе [Управление функциями](/dynamics365/business-central/dev-itpro/administration/feature-management).
 
-## <a name="consent-to-or-reject-preview-and-privacy-terms-and-conditions-for-all-users"></a>Согласие на условия использования предварительной версии и условия конфиденциальности или отказ от них для всех пользователей
+## Предоставление доступа пользователям 
 
-1. В Business Central найдите и откройте страницу **Статус уведомлений о конфиденциальности**.
-2. В столбце **Имя интеграции** выберите **Azure OpenAI**, затем прочитайте условия.
-3. В строке **Azure OpenAI** установите флажок **Принять для всех** для согласия или флажок **Отклонить для всех** для отказа.
+Возможности Copilot и ИИ могут содержать функциональность, предназначенную для любых пользователей в вашей организации или для пользователей с конкретными ролями. Большинство возможностей Copilot и ИИ предусматривают управление доступом с использованием разрешений и наборов разрешений в системе управления разрешениями Business Central. [Узнайте больше о разрешениях и наборах разрешений](ui-define-granular-permissions.md).
 
-## <a name="next-steps"></a>Дальнейшие шаги
+Чтобы предоставить или запретить доступ к определенным возможностям Copilot и ИИ, сверьтесь с документацией по этой функции или обратитесь к ее к издателю, чтобы узнать, какие разрешения необходимы. 
 
-После того как вы включите эту функцию и дадите на нее свое согласие, вы сможете опробовать Copilot на товарах в Business Central. Перейдите в раздел [Добавление маркетингового текста для товаров](item-marketing-text.md).  
+## Дальнейшие шаги
 
-## <a name="see-also"></a>См. также
+После того как вы активируете функции и дадите согласие на их использование, вы готовы опробовать их. Переходите к разделам:
 
-[Обзор функции создания маркетинговых текстов для товаров на базе ИИ с помощью Copilot](ai-overview.md)  
-[Создание маркетингового текста для товаров с помощью Copilot](item-marketing-text.md)  
-[Вопросы и ответы по созданию маркетинговых текстов для товаров на базе ИИ с помощью Copilot](ai-faq.md)  
+- [Добавление маркетингового текста для товаров](item-marketing-text.md) 
+- [Выверка с использованием помощи в выверке банковских счетов](bank-reconciliation-with-copilot.md) 
+
+## См. также
+
+[Устранение неполадок с возможностями Copilot и ИИ](ai-copilot-troubleshooting.md)  
+[Обзор предлагаемых маркетинговых текстов](ai-overview.md)   
+[Вопросы и ответы о предлагаемых маркетинговых текстах](faqs-marketing-text.md)  
