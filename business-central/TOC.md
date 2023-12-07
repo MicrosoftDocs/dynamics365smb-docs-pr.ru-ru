@@ -1,7 +1,7 @@
 
 # [Документация по Business Central](index.yml)
 # [Добро пожаловать в Business Central](welcome.md)
-# [Новые и планируемые возможности](product-news.md)
+# [Новые и планируемые возможности](/dynamics365/business-central/dev-itpro/whatsnew/overview)
 # Начало работы
 ## [Обзор бизнес-функциональности](across-business-functionality.md)
 <!--### [Get Ready for Doing Business](ui-get-ready-business.md)  -->
