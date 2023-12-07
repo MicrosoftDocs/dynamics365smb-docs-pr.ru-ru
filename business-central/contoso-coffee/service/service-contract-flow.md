@@ -73,7 +73,7 @@ ms.custom: bap-template
 - Будет создан подписанный сервисный контракт с операциями книги
 - Будет создан учтенный сервисный счет
 
-## <a name="creating-a-service-order-for-a-service-contract-and-assign-resources"></a>Создание сервисного заказа для сервисного контракта и назначение ресурсов
+## <a name="create-a-service-order-for-a-service-contract-and-assign-resources"></a>Создание сервисного заказа для сервисного контракта и назначение ресурсов
 
 ### <a name="scenario-2"></a>Сценарий
 
