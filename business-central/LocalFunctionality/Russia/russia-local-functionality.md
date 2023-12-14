@@ -9,11 +9,11 @@ ms.reviewer: bholtorf
 ms.date: 11/07/2023
 ms.author: soalex
 ---
-# Локальная функциональность для России
+# <a name="russia-local-functionality"></a>Локальная функциональность для России
 
 В [!INCLUDE[prod_short](../../includes/prod_short.md)] имеются специальные символы для России, которые можно использовать для отслеживания и управления вашим бизнесом. Например, можно использовать местные функции [!INCLUDE[prod_short](../../includes/prod_short.md)] для расчета налога на добавленную стоимость (НДС) на основе российских ставок НДС и российского законодательства.
 
-## Доступность функций
+## <a name="feature-availability"></a>Доступность функций
 
 * Основные финансы
     * [Обзор финансовых отчетов](account-schedules-overview.md) **Уже доступно**
@@ -99,11 +99,11 @@ ms.author: soalex
     * [Формирование и изменение порядка составления списка персонала](Forming-and-changing-Staff-List-Order-Staff-Arrangement.md) **Уже доступно**
     * [Планирование отпусков](Vacation-planning.md) **Уже доступно**
 
-## Изучение будущих законодательных требований
+## <a name="future-legislation-requirements-being-investigated"></a>Изучение будущих законодательных требований
 
 В настоящее время новых нормативных требований и функций для их соблюдения не предвидится. Если вам известно о каких-либо новых нормативных требованиях, отправьте нам [оповещение о новом нормативном требовании](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbRwkeauYiJKZOpJ0CtKuVmJlURURaMlQ4Rk05UFY4NkVEOTA0MUU5WThXSC4u).
 
-## См. также
+## <a name="see-also"></a>См. также
 
 [Российский план счетов](Russian-Chart-of-Accounts.md)  
 [Отчеты по расчетам с клиентами в России](Russian-Receivables-Reports.md)  
