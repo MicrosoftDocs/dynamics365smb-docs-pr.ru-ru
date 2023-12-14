@@ -1,19 +1,19 @@
 ---
-title: Функциональность локальной версии для России
-description: 'В следующих разделах описана функциональность локальной версии [!INCLUDE[prod_short](../../includes/prod_short.md)] для России.'
+title: Локальная функциональность для России
+description: 'В следующих статьях рассматривается функциональность локальной версии [!INCLUDE[prod_short](../../includes/prod_short.md)] для России.'
 author: AliiaSalikhova
 ms.topic: conceptual
 ms.workload: na
 ms.search.keywords: null
 ms.reviewer: bholtorf
-ms.date: 08/26/2022
+ms.date: 11/07/2023
 ms.author: soalex
 ---
-# <a name="russia-local-functionality"></a>Функциональность локальной версии для России
+# Локальная функциональность для России
 
 В [!INCLUDE[prod_short](../../includes/prod_short.md)] имеются специальные символы для России, которые можно использовать для отслеживания и управления вашим бизнесом. Например, можно использовать местные функции [!INCLUDE[prod_short](../../includes/prod_short.md)] для расчета налога на добавленную стоимость (НДС) на основе российских ставок НДС и российского законодательства.
 
-## <a name="feature-availability"></a>Доступность функций
+## Доступность функций
 
 * Основные финансы
     * [Обзор финансовых отчетов](account-schedules-overview.md) **Уже доступно**
@@ -30,7 +30,7 @@ ms.author: soalex
     * [Ввод сведений таможенных деклараций](how-to-enter-custom-declarations-information.md) **Уже доступно**
     * [Создание и настройка доверенности](how-to-set-up-and-create-letters-of-attorney.md) **Уже доступно**
     * [Отчеты о платежах (Россия)](russian-payables-reports.md) **Уже доступно**
-    * [Отчеты по расчетам с клиентами (Россия)](russian-receivables-reports.md) **Уже доступно**
+    * [Отчеты по расчетам с клиентами в России](russian-receivables-reports.md) **Уже доступно**
     * [Настройка предоплат клиентов](how-to-set-up-customer-prepayments.md) **Уже доступно**
     * [Настройка предоплат поставщиков](how-to-set-up-vendor-prepayments.md) **Уже доступно**
     * [Учет предоплаты для поставщиков и клиентов](prepayments-vendor-and-customers.md) **Уже доступно**
@@ -66,7 +66,7 @@ ms.author: soalex
     * [Восстановление НДС](VAT-reinstatement.md) **Уже доступно**  
     * [Схема налогового агента поставщика](Vendor-Tax-Agent-scheme.md) **Уже доступно**  
 
-* Налоговый Учет
+* Налоговый учет
     * [Налоговый учет](Tax-Accounting.md) **Уже доступно**
     * [Настройка налогового учета](How-to-Set-Up-Tax-Accounting.md) **Уже доступно**  
     * [Налоговые регистры](Tax-Registers.md) **Уже доступно**  
@@ -99,11 +99,11 @@ ms.author: soalex
     * [Формирование и изменение порядка составления списка персонала](Forming-and-changing-Staff-List-Order-Staff-Arrangement.md) **Уже доступно**
     * [Планирование отпусков](Vacation-planning.md) **Уже доступно**
 
-## <a name="future-legislation-requirements-being-investigated"></a>Изучение будущих законодательных требований
+## Изучение будущих законодательных требований
 
 В настоящее время новых нормативных требований и функций для их соблюдения не предвидится. Если вам известно о каких-либо новых нормативных требованиях, отправьте нам [оповещение о новом нормативном требовании](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbRwkeauYiJKZOpJ0CtKuVmJlURURaMlQ4Rk05UFY4NkVEOTA0MUU5WThXSC4u).
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Российский план счетов](Russian-Chart-of-Accounts.md)  
 [Отчеты по расчетам с клиентами в России](Russian-Receivables-Reports.md)  
