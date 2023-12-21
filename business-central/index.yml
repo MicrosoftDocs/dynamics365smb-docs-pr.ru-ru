@@ -162,7 +162,7 @@ additionalContent:
             - text: Работа с отчетами Power BI в Business Central
               url: /dynamics365/business-central/across-working-with-powerbi
             - text: Анализ данных списка в режиме анализа
-              url: /dynamics365/business-central/across-working-with-powerbi
+              url: /dynamics365/business-central/analysis-mode
             - text: Анализ данных отчета с помощью Excel
               url: /dynamics365/business-central/report-analyze-excel
         - title: Общая бизнес-функциональность
