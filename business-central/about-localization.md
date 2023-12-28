@@ -10,13 +10,13 @@ ms.search.form: null
 ms.date: 09/05/2023
 ms.custom: bap-template
 ---
-# <a name="what-is-local-functionality-in-"></a>Что такое локальная функциональность в [!INCLUDE[prod_long](includes/prod_long.md)]?
+# Что такое локальная функциональность в [!INCLUDE[prod_long](includes/prod_long.md)]?
 
 [!INCLUDE[prod_short](includes/prod_short.md)] предлагает стратегию объединенной локализации, включая модели под управлением Майкрософт и партнеров. В этом разделе представлены описания функций, применимых к странам/регионам, в которых корпорация Майкрософт обеспечивает соблюдение нормативных требований, и других локальных функций.  
 
-Список поддерживаемых в настоящее время рынков см. в разделе [Наличие в странах/регионах и поддерживаемые переводы](/dynamics365/business-central/dev-itpro/compliance/apptest-countries-and-translations?toc=/dynamics365/business-central/toc.json),  
+Список поддерживаемых в настоящее время рынков см. в разделе [Доступность в странах/регионах и поддерживаемые языки](/dynamics365/business-central/dev-itpro/compliance/apptest-countries-and-translations?toc=/dynamics365/business-central/toc.json),  
 
-## <a name="local-functionality"></a>Локальная функциональность
+## Локальная функциональность
 
 В следующей таблице приведены ссылки на статьи, в которых можно узнать о локальных функциях для каждой страны/региона.
 
@@ -47,16 +47,16 @@ ms.custom: bap-template
 |        | Индия | [Локальная функциональность в Индии](LocalFunctionality/India/india-local-functionality.md) |
 |        | Новая Зеландия | [Локальная функциональность Новой Зеландии](localfunctionality/newzealand/new-zealand-local-functionality.md) |
 
-### <a name="other-countriesregions"></a>Другие страны/регионы
+### Другие страны/регионы
 
 [!INCLUDE[prod_short](includes/prod_short.md)] также доступно в других странах в виде локализованных приложений. Если партнер Майкрософт разработал локализованное приложение для вашей страны/региона, его можно найти в [AppSource](https://go.microsoft.com/fwlink/?linkid=2081646).
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Создание сред](/dynamics365/business-central/dev-itpro/administration/tenant-admin-center-environments)  
-[Подготовьтесь к ведению бизнеса](ui-get-ready-business.md)  
-[Соответствие](compliance/compliance-overview.md)  
-[Наличие в странах/регионах и поддерживаемые переводы](/dynamics365/business-central/dev-itpro/compliance/apptest-countries-and-translations?toc=/dynamics365/business-central/toc.json)  
+[Подготовка к ведению бизнеса](ui-get-ready-business.md)  
+[Обзор соответствия](compliance/compliance-overview.md)  
+[Наличие в странах/регионах и поддерживаемые языки](/dynamics365/business-central/dev-itpro/compliance/apptest-countries-and-translations?toc=/dynamics365/business-central/toc.json)  
 [Международная доступность Microsoft Dynamics 365](/dynamics365/get-started/availability)  
 [Разработка локализационного решения](/dynamics365/business-central/dev-itpro/developer/readiness/readiness-develop-localization)  
 

@@ -1,7 +1,7 @@
 
 # [Документация по Business Central](index.yml)
 # [Добро пожаловать в Business Central](welcome.md)
-# [Новые и планируемые возможности](/dynamics365/business-central/dev-itpro/whatsnew/overview)
+# [Новые и планируемые возможности](/dynamics365/business-central/dev-itpro/whatsnew/overview?toc=/dynamics365/business-central/toc.json)
 # Начало работы
 ## [Обзор бизнес-функциональности](across-business-functionality.md)
 <!--### [Get Ready for Doing Business](ui-get-ready-business.md)  -->
@@ -333,6 +333,7 @@
 #### [Обзор электронных документов](finance-edocuments-overview.md)
 #### [Настройка электронных документов](finance-how-setup-edocuments.md)
 #### [Использование электронных документов при продажах и покупках](finance-how-use-edocuments.md)
+#### [Настройка соединителя "Электронные документы" с внешними конечными точками](finance-how-setup-edocuments-external.md)
 #### [Расширение функциональности электронных документов](/dynamics365/business-central/dev-itpro/developer/devenv-extend-edocuments)
 
 ### Управление НДС
@@ -870,9 +871,11 @@
 ### Дания
 #### [Локальная функциональность в датской версии](LocalFunctionality/Denmark/denmark-local-functionality.md)
 #### [Уведомление и регистрация в NemHandelsregisteret в Дании](localfunctionality/denmark/how-to-nemhandel-register.md)
+#### [Настройка электронного выставления счетов с помощью NemHandel](localfunctionality/denmark/how-to-edocuments-nemhadel.md)
+#### [Хранение данных о транзакциях в течение пяти лет в Дании](localfunctionality/denmark/how-to-keep-data-5years.md)
 #### НДС
 ##### [Печать отчетов по выверке НДС](LocalFunctionality/Denmark/how-to-print-vat-reconciliation-reports.md)
-##### [Отчетность по НДС (VIES)](LocalFunctionality/Denmark/vat-vies-reporting.md)
+##### [Отчетность по НДС VIES](LocalFunctionality/Denmark/vat-vies-reporting.md)
 ##### [Настройка регистрационных номеров плательщиков НДС для Интрастат](LocalFunctionality/Denmark/vat-registration-no-intrastat.md)
 ##### [Отправка отчетов по НДС в электронном виде](localfunctionality/denmark/how-to-evat-statement-dk.md)
 #### Банковские операции и платежи
@@ -883,7 +886,7 @@
 ##### [Настройка клиентов для использования формата OIOUBL](LocalFunctionality/Denmark/how-to-set-up-customers-for-oioubl.md)
 ##### [Настройка электронного выставления счетов в формате OIOUBL](LocalFunctionality/Denmark/how-to-set-up-oioubl.md)
 ##### [Расширение OIOUBL для электронного выставления счетов](LocalFunctionality/Denmark/ui-extensions-oioubl.md)
-##### [Создание электронных документов в формате OIOUBL](LocalFunctionality/Denmark/how-to-create-electronic-documents-by-using-oioubl.md)
+##### [Создание электронных документов в формате OIOUBL](LocalFunctionality/Denmark/how-to-create-electronic-documents-by-using-oioubl.md
 #### Зарплата
 ##### [Определения данных для зарплаты (DK)](LocalFunctionality/Denmark/ui-extensions-payroll-data-definitions-dk.md)
 #### Цифровые ваучеры
