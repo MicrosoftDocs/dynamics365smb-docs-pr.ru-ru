@@ -42,6 +42,10 @@
 ##### [Пошаговое руководство. Приход и расход в базовых конфигурациях склада](contoso-coffee/warehousing/warehouse-basic-flow-putaway-pick.md)
 ##### [Пошаговое руководство. Приход и расход в смешанных конфигурациях склада](contoso-coffee/warehousing/warehouse-mixed-flow-receive-pick-ship.md)
 ##### [Пошаговое руководство. Приход и расход в расширенных конфигурациях склада с расширенным подбором и размещением](contoso-coffee/warehousing/warehouse-directed-flow.md)
+#### Сервис
+##### [Знакомство с управлением сервисом Contoso Coffee](contoso-coffee/service/contoso-coffee-service-intro.md)
+##### [Пошаговое руководство. Сервисные заказы для сервисных товаров](contoso-coffee/service/service-basic-flow-order.md)
+##### [Пошаговое руководство. Сервисные контракты для сервисных товаров](contoso-coffee/service/service-contract-flow.md)
 
 ### Технические подробности
 #### [О технических подробностях решений, реализованных в приложении](design-details-application-design.md)

@@ -8,12 +8,12 @@ ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: 'app, import, migrate, data, transfer, QuickBooks, customize'
 ms.search.form: 1808
-ms.date: 04/01/2021
+ms.date: 12/12/2023
 ms.author: bholtorf
 ---
 
 
-# <a name="changing-from-a-quickbooks-app-to-dynamics-365-business-central"></a>Переход с приложения QuickBooks на Dynamics 365 Business Central
+# Переход с приложения QuickBooks на Dynamics 365 Business Central
 
 Все больше организаций ввиду увеличения масштабов своей деятельности переходят с таких финансовых приложений, предназначенных для стартапов и других небольших предприятий, как QuickBooks Desktop и QuickBooks Online, на систему [!INCLUDE[prod_short](includes/prod_short.md)], способную обслуживать более крупные и сложные организации. 
 
@@ -27,11 +27,11 @@ ms.author: bholtorf
 * [Расширение миграции данных QuickBooks Desktop](ui-extensions-quickbooks-data-migration.md)
 * [Расширение миграции данных QuickBooks Online](ui-extensions-quickbooks-online-data-migration.md)
 
-## <a name="ready-now"></a>Готовы начинать?
+## Готовы начинать?
 
-Если вы готовы начать прямо сейчас, выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Мастер настройки**, а затем выберите связанную ссылку. Выберите **Миграция бизнес-данных**, затем выполните шаги в руководстве.
+Если вы готовы начать прямо сейчас, выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Мастер настройки**, а затем выберите связанную ссылку. Выберите **Миграция бизнес-данных**, затем выполните шаги в руководстве.
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Импорт бизнес-данных из других финансовых систем](across-import-data-configuration-packages.md)  
 [Настройка Business Central с помощью расширений](ui-extensions.md)   

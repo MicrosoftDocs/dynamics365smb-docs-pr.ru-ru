@@ -7,13 +7,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.form: '1080, 1081, 1083, 1085, 1087, 1089'
-ms.date: 04/01/2021
+ms.date: 12/12/2023
 ms.author: bholtorf
 ---
-# <a name="the-microsoft-pay-extension"></a>Расширение Microsoft Pay
+# Расширение Microsoft Pay
 
 > [!IMPORTANT]
-> Начиная с 8 февраля 2020 года изменения в сервисе Microsoft Pay будут влиять нна расширение Microsoft Pay в Microsoft [!INCLUDE[prod_short](includes/prod_long.md)]. Из-за изменений после 8 февраля ссылка **Оплатить**, которую расширение Microsoft Pay генерирует для счетов в [!INCLUDE[prod_short](includes/prod_short.md)], не будет открывать Microsoft Pay. Клиенты, которые используют расширение, должны изменить свои настройки службы платежей, чтобы вместо этого использовать расширение PayPal.<br /></br>
+> Начиная с 8 февраля 2020 года изменения в сервисе Microsoft Pay будут влиять на расширение Microsoft Pay в Microsoft [!INCLUDE[prod_short](includes/prod_long.md)]. Из-за изменений после 8 февраля ссылка **Оплатить**, которую расширение Microsoft Pay генерирует для счетов в [!INCLUDE[prod_short](includes/prod_short.md)], не будет открывать Microsoft Pay. Клиенты, которые используют расширение, должны изменить свои настройки службы платежей, чтобы вместо этого использовать расширение PayPal.<br /></br>
 >
 > С 8 января мы будем отображать уведомление в [!INCLUDE[prod_short](includes/prod_short.md)]. Уведомление будет содержать ссылку на параметры, которые необходимо изменить, и дополнительную информацию. После 8 февраля расширение Microsoft Pay больше не будет доступно в [!INCLUDE[prod_short](includes/prod_short.md)].<br /></br>
 >
@@ -34,9 +34,9 @@ ms.author: bholtorf
 - Ссылка Microsoft Pay может автоматически внедряться в каждый документ счета или пользователем.
 - Поскольку данная функция построена как расширение, ее можно свободно включать тогда, когда это нужно для ваших бизнес-процессов.
 
-Включение расширения службы платежей в [!INCLUDE[prod_short](includes/prod_short.md)] бесплатно, однако вам потребуется связаться со службой платежей для получения учетной записи. Дополнительные сведения см. в разделе [Включение платежей клиентов через службу платежей](sales-how-enable-payment-service-extensions.md).
+Расширения служб платежей в [!INCLUDE[prod_short](includes/prod_short.md)] включаются бесплатно, однако вам потребуется связаться со службой платежей для получения учетной записи. Дополнительные сведения см. в разделе [Включение платежей клиентов через службу платежей](sales-how-enable-payment-service-extensions.md).
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Настройка [!INCLUDE[prod_short](includes/prod_short.md)] с помощью расширений](ui-extensions.md)  
 [Настройка продаж](sales-setup-sales.md)  
