@@ -11,7 +11,7 @@ ms.custom: bap-template
 ms.search.keywords: 'Teams, MS Teams, Microsoft Teams, Skype, Link, Microsoft 365, collaborate, collaboration, teamwork, share records, tab'
 ---
 
-# Добавление вкладки Business Central в Microsoft Teams
+# <a name="add-business-central-tab-in-microsoft-teams"></a>Добавление вкладки Business Central в Microsoft Teams
 
 [!INCLUDE [online_only](includes/online_only.md)]
 
@@ -19,7 +19,7 @@ ms.search.keywords: 'Teams, MS Teams, Microsoft Teams, Skype, Link, Microsoft 36
 
 ![Вкладки в Teams](media/teams-tabs-border.png)
 
-## О вкладках Business Central
+## <a name="about-business-central-tabs"></a>О вкладках Business Central
 
 На вкладке [!INCLUDE [prod_short](includes/prod_short.md)] содержится компактное представление страниц-списков и страниц-карточек [!INCLUDE [prod_short](includes/prod_short.md)]. На вкладке не отображается весь веб-клиент [!INCLUDE [prod_short](includes/prod_short.md)]. На ней нет границы браузера, баннера [!INCLUDE [prod_short](includes/prod_short.md)] (например, с функцией "Что вы хотите сделать", поиском и справкой) или верхнего меню навигации &mdash; только содержимое страницы и связанные с ним действия. Содержимое интерактивно, то есть вы можете выбирать действия и ссылки, изменять данные и многое другое. То, что вы видите и то, что вы можете делать, ограничивается разрешениями, назначенными вашей учетной записи в [!INCLUDE [prod_short](includes/prod_short.md)].
 
@@ -28,7 +28,7 @@ ms.search.keywords: 'Teams, MS Teams, Microsoft Teams, Skype, Link, Microsoft 36
 > [!TIP]
 > Вы разработчик? Вы также можете добавлять вкладки программно с помощью API Microsoft Graph. Дополнительные сведения см. в статье [Добавление вкладок Business Central в Teams](/dynamics365/business-central/dev-itpro/developer/devenv-develop-for-teams-tabs).  
 
-## Предварительные требования
+## <a name="prerequisites"></a>Предварительные требования
 
 Для добавления вкладки [!INCLUDE [prod_short](includes/prod_short.md)] должны быть соблюдены следующие требования:
 
@@ -42,7 +42,7 @@ ms.search.keywords: 'Teams, MS Teams, Microsoft Teams, Skype, Link, Microsoft 36
 - У вас есть лицензия [!INCLUDE [prod_short](includes/prod_short.md)] или ограниченный доступ к Business Central с лицензией только на Microsoft 365. Дополнительные сведения см. в статье [Доступ к Business Central с лицензиями на Microsoft 365](admin-access-with-m365-license.md).
 - Вы установили приложение [!INCLUDE [prod_short](includes/prod_short.md)] в Teams.
 
-## Добавление вкладки с рекомендуемым содержимым
+## <a name="add-tab-using-recommended-content"></a>Добавление вкладки с рекомендуемым содержимым
 
 Следуя инструкциям ниже, вы можете добавить вкладку, выбрав, что должно на ней отображаться, из готового списка рекомендуемого содержимого на основе вашего ролевого центра &mdash; не выходя из Teams. Подробнее о предлагаемом на выбор содержимом см. в статье [Откуда берется рекомендуемое содержимое?](/dynamics365/business-central/teams-faq?tabs=tabs#where-does-the-recommended-content-come-from).
 
@@ -61,7 +61,7 @@ ms.search.keywords: 'Teams, MS Teams, Microsoft Teams, Skype, Link, Microsoft 36
 6. Выберите **Опубликовать в канале объявление об этой вкладке**, чтобы автоматически опубликовать в канале или чате Teams объявление для его участников о том, что вы добавили эту вкладку.
 7. Нажмите **Сохранить**.
 
-## Добавление вкладки с использованием ссылки на страницу
+## <a name="add-tab-using-a-page-link"></a>Добавление вкладки с использованием ссылки на страницу
 
 Другой способ добавить вкладку — это использовать ссылку (URL-адрес) на страницу, которую вы хотите отображать. Этим способом удобно пользоваться, когда вы хотите отобразить определенную запись [!INCLUDE [prod_short](includes/prod_short.md)] или страницу-список, которая не отмечена закладкой в вашем ролевом центре.
 
@@ -80,14 +80,14 @@ ms.search.keywords: 'Teams, MS Teams, Microsoft Teams, Skype, Link, Microsoft 36
 8. Выберите **Опубликовать в канале объявление об этой вкладке**, чтобы автоматически опубликовать в канале или чате Teams объявление для его участников о том, что вы добавили эту вкладку.
 9. Нажмите **Сохранить**.
 
-## Добавление вкладки путем закрепления подробностей карточки
+## <a name="add-tab-by-pinning-card-details"></a>Добавление вкладки путем закрепления подробностей карточки
 
 Следуя этим инструкциям, вы сможете добавить вкладку для записи, которая была опубликована или вставлена в канал или чат Teams. Чтобы узнать, как делиться записями и ссылками на страницы в Teams, см. статью [Совместное использование записей Business Central и ссылок на страницы в Teams](across-working-with-teams.md).
 
 1. В Teams выберите кнопку **Подробности** на карточке.
 2. В правом верхнем углу подробностей карточки выберите значок **Закрепить наверху чата** ![Значок булавки для добавления вкладки Teams в Business Central](media/pin-teams.png).
 
-## Изменение вкладки и ее содержимого
+## <a name="change-a-tab-and-its-content"></a>Изменение вкладки и ее содержимого
 
 После добавления вкладки вы можете внести в нее определенные изменения. Например, вы можете переименовать вкладку, переместить ее и удалить. Вы найдете эти действия в параметрах вкладки, которые доступны, если выбрать стрелку вниз на вкладке.
 
@@ -97,7 +97,7 @@ ms.search.keywords: 'Teams, MS Teams, Microsoft Teams, Skype, Link, Microsoft 36
 
 Вы также можете изменять представление страницы и данных на ней, например сортировать данные и переключаться между представлениями списка и плиток. Такие изменения не влияют на то, что видят другие пользователи. Они будут видеть то, что вы изначально опубликовали, пока сами не внесут аналогичные изменения.
 
-## См. также
+## <a name="see-also"></a>См. также
 
 [Обзор интеграции Business Central и Microsoft Teams](across-teams-overview.md)  
 [Установка приложения [!INCLUDE [prod_short](includes/prod_short.md)] для Microsoft Teams](across-install-app-for-teams.md)  

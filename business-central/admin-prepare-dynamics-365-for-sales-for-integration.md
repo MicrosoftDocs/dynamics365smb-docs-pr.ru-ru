@@ -17,7 +17,7 @@ ms.custom: bap-template
 > [!NOTE]
 > В этом разделе описывается процесс интеграции сетевых версий [!INCLUDE[crm_md](includes/crm_md.md)] и [!INCLUDE[prod_short](includes/prod_short.md)] через [!INCLUDE[prod_short](includes/cds_long_md.md)]. Сведения о локальной конфигурации см. в разделе [Подготовка Dynamics 365 Sales к локальной интеграции](/dynamics365/business-central/dev-itpro/administration/prepare-dynamics-365-for-sales-for-integration).
 
-## <a name="integrating-through-dataverse"></a>Интеграция через Dataverse
+## <a name="integrate-through-dataverse"></a>Интеграция через Dataverse
 
 Чтобы упростить подключение и синхронизацию данных с другими приложениями Dynamics 365, [!INCLUDE[prod_short](includes/prod_short.md)] также интегрируется с [!INCLUDE[prod_short](includes/cds_long_md.md)]. Например, вы можете подключиться к [!INCLUDE[crm_md](includes/crm_md.md)] или даже к приложениям, которые вы создаете сами. Если вы впервые выполняете интеграцию, это следует сделать это через [!INCLUDE[prod_short](includes/cds_long_md.md)]. Дополнительные сведения см. в разделе [Интеграция с Dataverse](admin-common-data-service.md).
 
@@ -122,7 +122,7 @@ Integration with Business Central through Dataverse requires an administrator us
 > [!NOTE]
 > Сопоставления для таблиц единиц измерения номенклатур, единицы измерения ресурсов и группы единиц доступны только в том случае, если ваш администратор включил **Обновление функции: синхронизация нескольких единиц измерения с Dynamics 365 Sales** на странице **Управление функциями**. Для получения дополнительной информации прочтите [Синхронизация номенклатур и ресурсов с товарами в разных единицах измерения](admin-prepare-dynamics-365-for-sales-for-integration.md#synchronizing-items-and-resources-with-products-with-different-units-of-measure).
 
-## <a name="synchronizing-items-and-resources-with-products-with-different-units-of-measure"></a>Синхронизация товаров и ресурсов с продуктами с разными единицами измерения
+## <a name="synchronize-items-and-resources-with-products-with-different-units-of-measure"></a>Синхронизация товаров и ресурсов с продуктами с разными единицами измерения
 
 Компании часто производят или покупают товары в одной единице измерения, а затем продают их в другой. Чтобы синхронизировать элементы, в которых используется несколько единиц измерения, необходимо включить **Обновление функции: синхронизация нескольких единиц измерения с Dynamics 365 Sales** на странице **Управление функциями**. 
 
@@ -132,7 +132,7 @@ Integration with Business Central through Dataverse requires an administrator us
 
 Вы можете создать несколько единиц измерения для каждой группы единиц и назначить группы для продуктов в [!INCLUDE[crm_md](includes/crm_md.md)]. После этого вы сможете синхронизировать продукты с товарами и ресурсами в [!INCLUDE[prod_short](includes/prod_short.md)]. Вы можете вручную связать единицы измерения товаров или единицы измерения ресурса с группой единиц. Когда вы это сделаете, если группа единиц для товара или ресурса не связана с группой единиц в [!INCLUDE[crm_md](includes/crm_md.md)], например, потому что группа единиц не существует, [!INCLUDE[prod_short](includes/prod_short.md)] автоматически создаст группу единиц в [!INCLUDE[crm_md](includes/crm_md.md)].
 
-### <a name="mapping-items-and-resources-to-products"></a>Сопоставление товаров и ресурсов с продуктами
+### <a name="map-items-and-resources-to-products"></a>Сопоставление товаров и ресурсов с продуктами
 
 Когда вы включаете **Обновление функции: синхронизация нескольких единиц измерения с Dynamics 365 Sales**, происходит следующее:
 
@@ -208,7 +208,7 @@ Integration with Business Central through Dataverse requires an administrator us
 |Задание синхронизации "POSTEDSALESINV-INV — Dynamics 365 Sales"|Синхронизирует счета [!INCLUDE[crm_md](includes/crm_md.md)] с учтенными счетами продаж [!INCLUDE[prod_short](includes/prod_short.md)].|Из [!INCLUDE[prod_short](includes/prod_short.md)] в [!INCLUDE[crm_md](includes/crm_md.md)]|СЧЕТА — УЧТЕННЫЕ СЧЕТА ПРОДАЖ|30|1440<br> (24 ч.)|
 |Синхронизация "Статистика по клиенту — Dynamics 365 Sales"|Обновление организаций [!INCLUDE[crm_md](includes/crm_md.md)] с новейшими данными клиентов [!INCLUDE[prod_short](includes/prod_short.md)]. В [!INCLUDE[crm_md](includes/crm_md.md)] данная информация отображается в форме быстрого просмотра **Статистика организации Business Central** организаций, которые связаны с клиентами [!INCLUDE[prod_short](includes/prod_short.md)].<br /><br /> Эти данные можно также обновлять вручную из каждой записи клиента. Дополнительные сведения см. в разделе [Связывание и синхронизация записей вручную](admin-how-to-couple-and-synchronize-records-manually.md). </BR></BR>**Примечание.** Эта запись очереди заданий используется только в случае установки решения интеграции [!INCLUDE[prod_short](includes/prod_short.md)] в [!INCLUDE[crm_md](includes/crm_md.md)]. |Неприменимо|Неприменимо|30|Неприменимо| 
 
-## <a name="connecting-to-on-premises-versions-of-business-central-2019-release-wave-1-and-microsoft-dynamics-nav-2018"></a>Подключение к локальным версиям выпуска Business Central 2019 волны 1 и Microsoft Dynamics NAV 2018
+## <a name="connect-to-on-premises-versions-of-business-central-2019-release-wave-1-and-microsoft-dynamics-nav-2018"></a>Подключение к локальным версиям выпуска Business Central 2019 волны 1 и Microsoft Dynamics NAV 2018
 
 Рабочая группа Microsoft Power Platform [объявила](/power-platform/important-changes-coming#deprecation-of-office365-authentication-type-and-organizationserviceproxy-class-for-connecting-to-dataverse), что она объявляет устаревшим тип проверки подлинности Office365. Если вы используете локальную версию [!INCLUDE[prod_short](includes/prod_short.md)], более раннюю, чем выпуск Business Central 2019 волны 1, необходимо использовать тип проверки подлинности OAuth для подключения к [!INCLUDE[crm_md](includes/crm_md.md)] Online. Шаги в этом разделе описывают, как подключить следующие версии продуктов:
 
@@ -227,7 +227,7 @@ Integration with Business Central through Dataverse requires an administrator us
 
    * OAuth
 
-### <a name="to-connect-business-central-2019-release-wave-1-and-dynamics-nav-2018"></a>Для подключения выпуска Business Central 2019 волны 1 и Dynamics NAV 2018
+### <a name="connect-business-central-2019-release-wave-1-and-dynamics-nav-2018"></a>Для подключения выпуска Business Central 2019 волны 1 и Dynamics NAV 2018
 
 1. Импортируйте решение интеграции Microsoft Dynamics 365 Business Central в вашу среду [!INCLUDE[crm_md](includes/crm_md.md)]. Решение интеграции доступно в папке CrmCustomization на установочном DVD-диске [!INCLUDE[prod_short](includes/prod_short.md)] или Dynamics NAV 2018. В зависимости от версии продукта импортируйте одно из следующих решений:
 
