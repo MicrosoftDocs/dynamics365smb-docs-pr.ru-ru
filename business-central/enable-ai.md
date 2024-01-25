@@ -8,9 +8,11 @@ ms.topic: how-to
 ms.date: 10/29/2023
 ms.custom: bap-template
 ms.search.form: 7775
+ms.collection:
+  - bap-ai-copilot
 ---
 
-# <a name="configure-copilot-and-ai-capabilities"></a>Настройка возможностей Copilot и ИИ
+# Настройка возможностей Copilot и ИИ 
 
 <!--[!INCLUDE[ai-preview](includes/ai-preview.md)]-->
 
@@ -30,12 +32,12 @@ ms.search.form: 7775
 
 Если какие-либо из этих требований не выполняются, функция не доступна для использования.
 
-## <a name="prerequisites"></a>Предварительные требования
+## Предварительные требования
 
 - Вы используете Business Central Online версии 23.1 или более поздней. <!--[preview version](ai-preview-getstarted.md) of Business Central that's enabled for Copilot.-->
 - У вас есть права администратора или суперпользователя в Business Central.  <!--For more information, go to [Configure AI-powered item marketing text with Copilot](enable-ai.md).-->
 
-## <a name="allow-data-movement-across-geographies"></a>Разрешение перемещения данных между географическими регионами
+## Разрешение перемещения данных между географическими регионами
 
 Эта задача применима только в том случае, если переключатель **Разрешить перемещение данных** появляется в верхней части страницы **Возможности Copilot и ИИ**. Если вместо переключателя **Разрешить перемещение данных** отображается ссылка **Как управлять своими данными Copilot?**, пропустите этот шаг.
 
@@ -70,7 +72,7 @@ Copilot and other AI capabilities use Azure OpenAI Service.  and are provided by
 Meanwhile, customers with environments outside the United States can use Copilot AI features by opting in to share relevant data with the Azure OpenAI Service in United States or Switzerland.
 
 The information in the following table outlines the Azure OpenAI service that's used by the Copilot services based on the geography of their Dynamics 365 environment when they opt-in to share data.-->
-## <a name="activate-features"></a>Активирование функций
+## Активирование функций
 
 Все возможности Copilot и ИИ активны по умолчанию, когда предлагаются в качестве предварительной версии или становятся общедоступными. Используя страницу **Возможности Copilot и ИИ**, вы можете отключать и снова включать отдельные функции для всех пользователей.
 
@@ -84,7 +86,7 @@ The information in the following table outlines the Azure OpenAI service that's 
    - Чтобы выключить функцию, выберите ее, а затем выберите действие **Деактивировать**. 
 
 
-## <a name="enable-feature-in-feature-management"></a>Включение функции в разделе «Управление функциями»
+## Включение функции в разделе «Управление функциями»
 
 Когда отдельные возможности Copilot выпускаются в рамках незначительных обновлений Business Central, эти возможности являются необязательными до следующего обновления с основным номером версии. **Управление функциями** используется для включения или отключения функций, находящихся на этапе предварительной версии, таких как выверка банковских счетов, а также некоторых общедоступных функций, таких как предлагаемые маркетинговые тексты. [Узнайте больше об управлении функциями](/dynamics365/business-central/dev-itpro/administration/feature-management).
 
@@ -96,20 +98,20 @@ The information in the following table outlines the Azure OpenAI service that's 
 
    Дополнительные сведения об управлении функциями в целом см. в разделе [Управление функциями](/dynamics365/business-central/dev-itpro/administration/feature-management).
 
-## <a name="granting-user-access"></a>Предоставление доступа пользователям
+## Предоставление доступа пользователям 
 
 Возможности Copilot и ИИ могут содержать функциональность, предназначенную для любых пользователей в вашей организации или для пользователей с конкретными ролями. Большинство возможностей Copilot и ИИ предусматривают управление доступом с использованием разрешений и наборов разрешений в системе управления разрешениями Business Central. [Узнайте больше о разрешениях и наборах разрешений](ui-define-granular-permissions.md).
 
 Чтобы предоставить или запретить доступ к определенным возможностям Copilot и ИИ, сверьтесь с документацией по этой функции или обратитесь к ее к издателю, чтобы узнать, какие разрешения необходимы. 
 
-## <a name="next-steps"></a>Дальнейшие шаги
+## Дальнейшие шаги
 
 После того как вы активируете функции и дадите согласие на их использование, вы готовы опробовать их. Переходите к разделам:
 
 - [Добавление маркетингового текста для товаров](item-marketing-text.md) 
 - [Выверка с использованием помощи в выверке банковских счетов](bank-reconciliation-with-copilot.md) 
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Устранение неполадок с возможностями Copilot и ИИ](ai-copilot-troubleshooting.md)  
 [Обзор предлагаемых маркетинговых текстов](ai-overview.md)   

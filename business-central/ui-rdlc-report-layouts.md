@@ -3,20 +3,20 @@ title: Работа с макетами RDLC
 description: Ознакомьтесь с макетами отчетов RDLC.
 author: jswymer
 ms.topic: conceptual
-ms.service: dynamics365-business-central
+ms.service: dynamics-365-business-central
 ms.search.keywords: 'customized report, document layout, logo, personalize'
 ms.search.form: '9650, 9652'
 ms.date: 12/04/2023
 ms.author: jswymer
 ms.reviewer: jswymer
 ---
-# <a name="working-with-rdlc-layouts"></a>Работа с макетами RDLC
+# Работа с макетами RDLC
 
 Макеты RDLC основаны на макетах определения отчета (файлах типа RDL или RDLC). Концепции разработки макетов RDLC аналогичны другим типам макетов. Макет определяет, какие поля отображать и как они расположены. Однако разработка макетов RDLC более сложная, чем макетов Word и Excel.
 
 [![Показывает разные элементы макета RDLC.](media/rdlc-layout.png)](media/rdlc-layout.png#lightbox)
 
-## <a name="required-tools"></a>Необходимые средства
+## Необходимые средства
 
 Для внесения изменений в макеты RDL вы можете использовать либо конструктор отчетов Microsoft SQL Server, либо Microsoft Visual Studio с расширением RDLC Report Designer.
 
@@ -24,7 +24,7 @@ ms.reviewer: jswymer
 
 - RDLC Report Designer — это расширение для Visual Studio 2019 и более новых версий. Вы можете загрузить и установить RDLC Report Designer в [магазине Visual Studio](https://marketplace.visualstudio.com/items?itemName=ProBITools.MicrosoftRdlcReportDesignerforVisualStudio-18001).
 
-## <a name="create-and-modify-rdlc-layouts"></a>Создание и изменение макетов RDLC
+## Создание и изменение макетов RDLC
 
 Создание и изменение макетов RDLC — сложная задача, которую обычно выполняют опытные пользователи или разработчики. Основные понятия не относятся к макетам отчетов Business Central. По этой причине мы отсылаем вас к следующей документации:
 
@@ -39,7 +39,7 @@ ms.reviewer: jswymer
 > [!NOTE]
 > Построитель отчетов распознает только файлы типа RDL, но не RDLC. Файлы макетов, экспортированные из Business Central, это файлы типа RDLC. Поэтому, чтобы изменить этот макет в построителе отчетов, переименуйте тип файла в RDL.
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Управление макетами отчетов](ui-manage-report-layouts.md)  
 [Установка макета для отчета](ui-set-report-layout.md)  

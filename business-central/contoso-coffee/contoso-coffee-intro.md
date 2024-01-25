@@ -6,16 +6,16 @@ ms.author: bholtorf
 ms.reviewer: andreipa
 ms.date: 09/20/2023
 ms.topic: article
-ms.service: dynamics365-business-central
+ms.service: dynamics-365-business-central
 ms.search.form: '5194,'
 ms.custom: bap-template
 ---
 
-# <a name="introduction-to-contoso-coffee-demo-data"></a>Введение в демонстрационные данные Contoso Coffee
+# Введение в демонстрационные данные Contoso Coffee
 
 Contoso Coffee — вымышленная компания, производящая бытовые и коммерческие кофеварки. Приложения **Contoso Coffee** для [!INCLUDE [prod_short](../includes/prod_short.md)] предназначены для добавления демонстрационных данных, которые вы можете использовать для ознакомлений с возможностями [!INCLUDE [prod_short](../includes/prod_short.md)].  
 
-## <a name="set-up-contoso-coffee-data"></a>Настройка данных Contoso Coffee
+## Настройка данных Contoso Coffee
 
 [!INCLUDE [contoso-coffee-app-install](../includes/contoso-coffee-app-install.md)]
 
@@ -39,7 +39,7 @@ Contoso Coffee — вымышленная компания, производящ
 
 После настройки модулей, которые вы хотите опробовать, выберите действие **Создать**, чтобы создать для них демонстрационные данные.
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Производство](../production-manage-manufacturing.md)  
 [Складское хозяйство](../warehouse-manage-warehouse.md)  
