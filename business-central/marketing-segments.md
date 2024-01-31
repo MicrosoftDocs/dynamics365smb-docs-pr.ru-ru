@@ -4,15 +4,14 @@ description: 'В этом разделе описывается, как созд
 documentationcenter: ''
 author: jswymer
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.keywords: 'relationship, prospect'
 ms.search.forms: '5150, 5142, 5140, 5141, 5144, 5091, 5143, 5093, 5092'
 ms.date: 10/04/2023
 ms.author: jswymer
+ms.service: dynamics-365-business-central
 ---
-# <a name="managing-segments"></a>Управление сегментами
+# Управление сегментами
 Вы создаете сегменты для выбора группы контактов по определенному критерию. Например, сегментом может быть отрасль, к которой принадлежат контакты, или деловые отношения с ними. Можно создать сегмент для выбора контактов, которым будет адресована кампания.
 
 Чтобы создать сегмент, выполните две основных задачи:
@@ -28,7 +27,7 @@ ms.author: jswymer
 | Управление контактами, назначенными сегментам. |[Добавление контактов к сегментам](marketing-add-contact-segment.md) |
 | Узнайте об использовании взаимодействий для сегментов, включая регистрацию. |[Управление взаимодействиями для сегментов](marketing-interaction-segments.md) |
 
-## <a name="see-also"></a>См. также
+## См. также
 [Управление возможностями продаж](marketing-manage-sales-opportunities.md)  
 [Управление контактами](marketing-contacts.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

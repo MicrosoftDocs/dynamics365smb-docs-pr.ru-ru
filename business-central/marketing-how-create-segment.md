@@ -3,18 +3,17 @@ title: Создание сегментов
 description: 'Далее описывается процедура создания сегмента для группы контактов в Business Central, например, чтобы обращаться к нескольким контактам с помощью прямой почтовой рассылки.'
 author: jswymer
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.keywords: 'relationship, prospect'
 ms.search.form: '5091, 5093'
 ms.date: 04/01/2021
 ms.author: jswymer
+ms.service: dynamics-365-business-central
 ---
-# <a name="create-segments"></a>Создание сегментов
+# Создание сегментов
 Для выбора группы контактов можно создать сегменты, например, если требуется создать взаимодействие, в которое вовлечены несколько контактов, таких как прямая почтовая рассылка.
 
-## <a name="to-create-a-segment"></a>Создание сегмента
+## Создание сегмента
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Сегменты**, а затем выберите связанную ссылку.
 2. Выберите действие **Создать**.
 3. В разделе **Общее** в поле **Номер** введите номер сегмента.
@@ -24,7 +23,7 @@ ms.author: jswymer
 
 Теперь в сегмент можно добавить контакты. Дополнительные сведения см. в разделе [Добавление контактов к сегментам](marketing-add-contact-segment.md).
 
-## <a name="see-also"></a>См. также
+## См. также
 [Управление сегментами](marketing-segments.md)  
 [Управление возможностями продаж](marketing-manage-sales-opportunities.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  

@@ -3,14 +3,13 @@ title: Изменение предложений по планированию �
 description: 'Типичное действие планирования — изменить или добавить строки журнала планирования для изменения предлагаемых заказов на поставку до того, как они будут зафиксированы выполнением функции Выполнить указание.'
 author: brentholtorf
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.keywords: null
 ms.date: 11/22/2023
 ms.author: bholtorf
+ms.service: dynamics-365-business-central
 ---
-# <a name="modify-planning-suggestions-in-a-graphical-view"></a>Изменение предложений по планированию в графическом виде
+# Изменение предложений по планированию в графическом виде
 
 Типичное действие планирования — изменить или добавить строки журнала планирования для изменения предлагаемых заказов на поставку до того, как они будут зафиксированы выполнением функции **Выполнить указание**. Альтернатива такому действию в журнале планирования — использовать графическое представление. Однако в настоящее время в [!INCLUDE[prod_short](includes/prod_short.md)] это не поддерживается.  
 
@@ -28,7 +27,7 @@ When you choose **Save Changes** on the **Item Availability by Timeline** page, 
 
 The following procedure shows how to modify supply suggestions by drag and drop. As an alternative, you can change the **Due Date** and **Quantity** fields on the **Event Changes** FastTab and immediately see the changes graphically on the **Timeline** FastTab on the **Planning Worksheet** page.  
 
-## <a name="to-modify-suggested-supply-orders-in-the-graphical-view"></a>To modify suggested supply orders in the graphical view
+## To modify suggested supply orders in the graphical view
 
 1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do") icon, enter **Planning Worksheet**, and then choose the related link.  
 
@@ -53,7 +52,7 @@ The following procedure shows how to modify supply suggestions by drag and drop.
 
 To implement the supply plan changes, you must follow the resulting action messages from the planning or requisition worksheet. For more information, see Carry Out Action Msg.-Plan..
 
-## <a name="symbols-and-icons-on-the-timeline-fasttab"></a>Symbols and Icons on the Timeline FastTab
+## Symbols and Icons on the Timeline FastTab
  |Symbol/Icon|Description|  
  |------------------|---------------------------------------|  
  |Black cross|Orders (both supply and demand).<br /><br /> -   Cannot be modified.<br />-   Visible when the **Show Projected Inventory** field is selected (orange graph).|  
@@ -86,7 +85,7 @@ To implement the supply plan changes, you must follow the resulting action messa
  |While moving an element, press Esc.|Cancels the move. **Note:**  Does not work if you have released the mouse button.|
 -->
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Планирование](production-planning.md)  
 [Настройка производства](production-configure-production-processes.md)  

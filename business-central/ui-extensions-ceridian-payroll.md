@@ -3,15 +3,14 @@ title: Импорт данных о зарплате с помощью расш�
 description: Это расширение позволяет импортировать транзакции зарплаты из служб Ceridian HR/Payroll (США) и Ceridian PowerPay (Канада).
 author: brentholtorf
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms. search.keywords: 'app, add-in, manifest, customize, salary, wage'
 ms.search.form: '1665,'
 ms.date: 04/01/2021
 ms.author: bholtorf
+ms.service: dynamics-365-business-central
 ---
-# <a name="the-ceridian-payroll-extension"></a>Расширение зарплаты Ceridian
+# Расширение зарплаты Ceridian
 
 Для учета выплаты зарплаты и связанных транзакций необходимо импортировать и учесть финансовые транзакции, сделанные поставщиком системы зарплаты, в главную книгу.
 
@@ -19,7 +18,7 @@ ms.author: bholtorf
 
 Расширение "Зарплата Ceridian" позволяет импортировать транзакции зарплаты из служб Ceridian HR/Payroll (США) и Ceridian PowerPay (Канада).
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Настройка [!INCLUDE[prod_short](includes/prod_short.md)] с помощью расширений](ui-extensions.md)  
 [Финансы](finance.md)  

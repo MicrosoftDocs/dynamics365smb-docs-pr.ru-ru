@@ -3,6 +3,7 @@ author: jswymer
 ms.topic: include
 ms.date: 11/01/2023
 ms.author: jswymer
+ms.service: dynamics-365-business-central
 ---
 Предложения маркетингового текста поддерживаются только на следующих языках и языковых стандартах:
 

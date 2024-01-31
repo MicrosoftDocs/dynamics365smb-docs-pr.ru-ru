@@ -3,15 +3,14 @@ title: Посетите нашу библиотеку видео
 description: 'Посетите нашу видеотеку, чтобы получить помощь от видеороликов для начала работы, с примерами общих задач "как сделать это", тематическими видеороликами о продуктах.'
 author: brentholtorf
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.keywords: 'video, library, how to'
 ms.search.form: '9020, 9022, 9026, 9027, 9030, 9000, 9009, 9004, 9005, 9024, 9006, 9007, 9010, 9016, 9017'
 ms.date: 06/11/2021
 ms.author: bholtorf
+ms.service: dynamics-365-business-central
 ---
-# <a name="visit-our-video-library"></a>Посетите нашу библиотеку видео
+# Посетите нашу библиотеку видео
 
 Вы нашли нашу документацию. Некоторые люди предпочитают смотреть контент, а не читать его. С этой целью мы создаем короткие, легко усваиваемые видеоролики. Большинство видео дополняют нашу помощь пользователям, а некоторые из них можно просматривать самостоятельно.  
 
@@ -24,7 +23,7 @@ ms.author: bholtorf
 
 [!INCLUDE [about-ui-learn](includes/about-ui-learn.md)]
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Подготовьтесь к ведению бизнеса](ui-get-ready-business.md)  
 [Канал Dynamics 365 в YouTube](https://www.youtube.com/channel/UCJGCg4rB3QSs8y_1FquelBQ)  

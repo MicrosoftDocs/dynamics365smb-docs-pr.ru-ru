@@ -3,15 +3,14 @@ title: Финансовый менеджмент (содержит видео)
 description: 'Узнайте, как Business Central поддерживает ваши потребности в финансовом управлении, бухгалтерском учете, аудите или ведении бухгалтерского учета.'
 author: brentholtorf
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.keywords: 'accounting, auditing, bookkeeping'
 ms.search.form: '1151, 1166, 9027, 9004'
 ms.date: 12/19/2023
 ms.author: bholtorf
+ms.service: dynamics-365-business-central
 ---
-# <a name="financial-management"></a>Финансовый менеджмент
+# Финансовый менеджмент
 
 [!INCLUDE[prod_short](includes/prod_short.md)] содержит стандартную конфигурацию для большинства финансовых процессов, но вы можете изменить ее в соответствии со своими бизнес-потребностями. Узнайте больше в разделе [Настройка Finance](finance-setup-finance.md).
 
@@ -49,13 +48,13 @@ ms.author: bholtorf
 | Работа с финансовыми отчетами и обзорами в Microsoft Excel. |[Анализ финансовых выписок в Excel](finance-analyze-excel.md) |
 |Узнайте, как использовать ролевой центр бухгалтеров, использовать внешнего бухгалтера и использовать раздел организации для управления счетами для нескольких клиентов.|[Работа бухгалтера в Business Central](finance-accounting.md)|  
 
-## <a name="take-a-video-tour"></a>Смотреть видеообзор
+## Смотреть видеообзор
 
 Это видео знакомит с некоторыми ключевыми возможностями управления финансами. <br><br>  
 
 > [!Video https://www.microsoft.com/videoplayer/embed/RE4Fss4?rel=0]
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Настройка финансов](finance-setup-finance.md)  
 [Продажи](sales-manage-sales.md)  

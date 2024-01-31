@@ -3,15 +3,14 @@ title: Закрытие финансовых годов и учетных пер
 description: 'Описываются задачи по закрытию финансового года или учетного периода, например, обеспечение того, что документы и журналы учтены, а также сверка балансов банковских счетов.'
 author: jswymer
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.keywords: 'year closing, close accounting period, close fiscal year, bank account detailed trial balance'
 ms.search.form: 100
 ms.date: 08/18/2022
 ms.author: jswymer
+ms.service: dynamics-365-business-central
 ---
-# <a name="closing-years-and-periods"></a>Закрытие года и периодов
+# Закрытие года и периодов
 
 В конце финансового года существует ряд административных задач, которые необходимо выполнить, например убедиться, что все документы и журналы учтены, данные о валюте актуальны, книги закрыты и т. д. Фактические задачи будут зависеть от вашей организации.
 
@@ -29,7 +28,7 @@ ms.author: jswymer
 | Закрытие учетных периодов и финансового года, перенос сальдо отчетов о прибылях и убытках на балансовые счета и учет операций закрытия года. |[Закрытие книг](year-close-books.md) |
 | Печать отчетов, которые могут помочь в создании финансовых отчетов. |[Подготовка отчетов о закрытии](year-prepare-close-statement.md) |
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Работа с учетными периодами и финансовыми годами](finance-accounting-periods-and-fiscal-years.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)

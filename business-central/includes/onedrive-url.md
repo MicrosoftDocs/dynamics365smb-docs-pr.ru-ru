@@ -1,3 +1,6 @@
+---
+ms.service: dynamics-365-business-central
+---
 Вам потребуется URL-адрес, чтобы подключиться к OneDrive из Business Central. Самый простой способ получить URL-адрес — войти в [OneDrive](https://onedrive.live.com) для вашей организации. В адресе браузера вы увидите URL-адрес следующего формата:
 
 `https://<your Microsoft 365 tenant name>-my.sharepoint.com/personal/<your user name>`

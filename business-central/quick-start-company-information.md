@@ -3,22 +3,21 @@ title: Краткое руководство. Информация о компа
 description: 'Узнайте, как заполнить первые важные поля о вашей компании в Business Central, прочитав это краткое руководство.'
 author: brentholtorf
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.keywords: quickstart
 ms.search.form: '1,'
 ms.date: 03/14/2022
 ms.author: bholtorf
+ms.service: dynamics-365-business-central
 ---
 
-# <a name="company-information-quick-start"></a>Краткое руководство. Информация о компании
+# Краткое руководство. Информация о компании
 
 Чтобы помочь вам наладить работу вашей компании в [!INCLUDE[prod_short](includes/prod_short.md)], вы должны сначала заполнить некоторые основные данные о компании и соответствующую информацию в зависимости от потребностей вашего бизнеса.  
 
 Вы можете ввести все необходимые данные на странице **Информация о компании** при создании новой компании.
 
-## <a name="to-set-up-company-information"></a>Настройка сведений о компании
+## Настройка сведений о компании  
 
 1. Выберите ![значок шестеренки, чтобы открыть меню настроек.](media/ui-experience/settings_icon_small.png) и выберите действие **Информация о компании**.
 2. На экспресс-вкладке введите сведения, как указано в следующей таблице. [!INCLUDE [tooltip-inline-tip_md](includes/tooltip-inline-tip_md.md)]
@@ -27,7 +26,7 @@ ms.author: bholtorf
 
 После того, как вы закончите заполнение информации, вы можете закрыть страницу.  
 
-## <a name="see-also"></a>См. также
+## См. также  
 
 [Обзор информации о компании](admin-company-information.md)  
 [Настройка сведений об организации в Италии](LocalFunctionality/Italy/how-to-set-up-company-information.md)  

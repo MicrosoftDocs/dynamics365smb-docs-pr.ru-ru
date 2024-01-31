@@ -7,12 +7,13 @@ ms.search.keywords: null
 ms.date: 11/07/2023
 ms.reviewer: bholtorf
 ms.author: soalex
+ms.service: dynamics-365-business-central
 ---
-# <a name="payables-and-receivables-in-the-russian-version"></a>Расчеты с поставщиками и клиентами в российской версии
+# Расчеты с поставщиками и клиентами в российской версии
 
 В России имеются особые функции [!INCLUDE[prod_short](../../includes/prod_short.md)] для отслеживания и управления расчетами с клиентами и поставщиками.
 
-## <a name="getting-started-with-payables-and-receivables"></a>Начало работы с расчетами с поставщиками и клиентами
+## Начало работы с расчетами с поставщиками и клиентами
 
 Воспользуйтесь следующей таблицей, чтобы больше узнать о функциях расчетов с клиентами и поставщиками, доступных для России.
 
@@ -28,7 +29,7 @@ ms.author: soalex
 |[Авансовые разницы](prepayment-differences-invoices-prepayment-differences.md)|Позволяет учесть авансовую разницу.|
 | [Настройка договоров с клиентами и поставщиками](How-to-Set-Up-Customer-and-Vendor-Agreements.md) | Позволяет настраивать договоры с клиентами и поставщиками. |
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Функциональность локальной версии для России](russia-local-functionality.md)  
 

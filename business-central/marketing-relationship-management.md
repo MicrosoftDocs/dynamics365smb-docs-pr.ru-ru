@@ -4,15 +4,14 @@ description: Управление отношениями помогает осу
 documentationcenter: ''
 author: brentholtorf
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.keywords: 'contact, prospect, client'
 ms.search.forms: '9076, 9026'
 ms.date: 06/22/2021
 ms.author: bholtorf
+ms.service: dynamics-365-business-central
 ---
-# <a name="managing-relationships"></a>Управление отношениями
+# Управление отношениями
 Функции управления отношениями в [!INCLUDE[prod_short](includes/prod_short.md)] помогают управлять продажами. Эти функции обеспечивают доступ к полной и точной информации и позволяют концентрироваться на взаимодействиях в предпочтительных сегментах клиентов и контактов.
 
 Успешные методики продаж и маркетинга помогают принимать правильные решения в нужное время. [!INCLUDE[prod_short](includes/prod_short.md)] предоставляет точный и своевременный обзор контактной информации для более эффективного обслуживания потенциальных клиентов и постоянного повышения качества этого обслуживания.

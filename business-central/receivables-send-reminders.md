@@ -3,19 +3,18 @@ title: Отправка напоминания о непогашенных ос�
 description: 'Узнайте, как напомнить клиенту о просроченном платеже.  напоминания клиентам о предстоящих платежах, а также добавление штрафов к платежам из-за задержки с оплатой.'
 author: brentholtorf
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.keywords: 'payment due, debt, overdue, fee, charge, reminder'
 ms.search.form: '436, 437, 442, 431, 432, 434'
 ms.date: 02/09/2022
 ms.author: bholtorf
+ms.service: dynamics-365-business-central
 ---
-# <a name="send-reminders-of-outstanding-balances"></a>Отправка напоминаний о задолженностях
+# Отправка напоминаний о задолженностях
 
 [!INCLUDE [receivables-reminders](includes/receivables-reminders.md)]
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Сбор задолженностей](receivables-collect-outstanding-balances.md)  
 [Настройка нескольких процентных ставок для отложенного платежа](finance-how-to-set-up-multiple-interest-rates.md)  

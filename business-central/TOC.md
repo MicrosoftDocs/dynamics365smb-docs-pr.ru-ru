@@ -1,3 +1,6 @@
+---
+ms.service: dynamics-365-business-central
+---
 
 # [Документация по Business Central](index.yml)
 # [Добро пожаловать в Business Central](welcome.md)
@@ -286,6 +289,7 @@
 ## Финансы
 ### [Обзор финансов](finance.md)
 ### [Бухгалтерские отчеты](finance-reports.md)
+
 ### Управление расчетами с клиентами
 #### [Обзор расчетов с клиентами](receivables-manage-receivables.md)
 #### [Отчеты и аналитика по расчетам с клиентами](receivables-reports.md)
@@ -298,6 +302,7 @@
 ##### [Настройка правил для автоматического применения платежей](receivables-how-set-up-payment-application-rules.md)
 #### [Выверка платежей клиентов из списка неоплаченных документов продажи](receivables-how-reconcile-customer-payments-list-unpaid-sales-documents.md)
 #### [Выверка платежей клиентов с журналом приходных кассовых ордеров или из книги операций по клиентам](receivables-how-apply-sales-transactions-manually.md)
+#### [Консолидация сальдо для организации, которая является клиентом и поставщиком](finance-consolidate-customer-vendor-balances.md)
 #### [Сбор задолженностей](receivables-collect-outstanding-balances.md)
 #### [Сбор платежей с помощью прямого дебетования SEPA](finance-collect-payments-with-sepa-direct-debit.md)
 #### [Отправка напоминаний о задолженностях](receivables-send-reminders.md)
@@ -326,34 +331,13 @@
 ##### [Выверка платежей, которые не могут быть применены автоматически](receivables-how-reconcile-payments-cannot-apply-auto.md)
 ##### [Сопоставление текста на типовых платежах со счетами для автоматической выверки](receivables-how-map-text-recurring-payments-accounts-auto-reconcilliation.md)
 #### [Выверка платежей поставщикам с журналом платежей или из книги операций по поставщикам](payables-how-apply-purchase-transactions-manually.md)
+#### [Консолидация сальдо для организации, которая является клиентом и поставщиком](finance-consolidate-customer-vendor-balances.md)
 #### [Сбор задолженностей](receivables-collect-outstanding-balances.md)
 #### [Сбор платежей с помощью прямого дебетования SEPA](finance-collect-payments-with-sepa-direct-debit.md)
 #### [Блокировка поставщиков](payables-how-block-vendors.md)
 #### [Использование товарных издержек для учета дополнительных торговых затрат](payables-how-assign-item-charges.md)
 #### [Работа с отклонениями в оплате и отклонениями скидок по оплате](finance-payment-tolerance-and-payment-discount-tolerance.md)
 #### [Расширение "Прогнозирование просрочек оплаты"](ui-extensions-late-payment-prediction.md)
-
-### Управление электронными документами
-#### [Обзор электронных документов](finance-edocuments-overview.md)
-#### [Настройка электронных документов](finance-how-setup-edocuments.md)
-#### [Использование электронных документов при продажах и покупках](finance-how-use-edocuments.md)
-#### [Настройка соединителя "Электронные документы" с внешними конечными точками](finance-how-setup-edocuments-external.md)
-#### [Расширение функциональности электронных документов](/dynamics365/business-central/dev-itpro/developer/devenv-extend-edocuments)
-
-### Управление НДС
-#### [Обзор управления НДС](finance-manage-vat.md)
-#### [Транзакции покупки третьей стороной в ЕС](finance-how-to-eu3party-trade-purchase.md)
-#### Настройка НДС
-##### [Настройка налога на добавленную стоимость](finance-setup-vat.md)
-##### [Настройка групп учета](finance-posting-groups.md#tax-posting-groups)
-##### [Настройка невычитаемого НДС](finance-setup-nondeductible-vat.md)
-##### [Настройка нереализованного НДС](finance-setup-unrealized-vat.md)
-##### [Настройка отчета по НДС](finance-how-setup-vat-statement.md)
-#### [Работа с НДС по продажам и покупкам](finance-work-with-vat.md)
-#### [Использование невычитаемого НДС](finance-how-use-non-deductible-vat.md)
-#### [Подача отчетов по НДС в налоговые органы](finance-how-report-vat.md)
-#### [Управление изменениями ставки НДС](finance-how-use-vat-rate-change-tool.md)
-#### [Проверка регистрационных номеров плательщиков НДС](finance-how-validate-vat-registration-number.md)
 
 ### Выставление счетов на предоплату
 #### [Обзор предоплат](finance-invoice-prepayments.md)
@@ -366,13 +350,8 @@
 #### [Выверка банковских счетов](bank-how-reconcile-bank-accounts-separately.md)
 #### [Выверка банковских счетов с помощью Copilot (предварительная версия)](bank-reconciliation-with-copilot.md)
 #### [Автоматическое применение платежей и выверка банковских счетов](receivables-apply-payments-auto-reconcile-bank-accounts.md)
-
-### Управление межфирменными транзакциями
-#### [Обзор межфирменной функциональности](intercompany-manage.md)
-#### [Настройка межфирменных процессов](intercompany-how-setup.md)
-#### [Работа с межфирменными документами и журналами](intercompany-how-work-documents-journals.md)
-#### [Управление межфирменными папками входящих и исходящих](intercompany-how-manage-intercompany-inbox.md)
-#### [Распределение затрат между межфирменными партнерами](intercompany-allocate-costs.md)
+#### [Перевод банковских средств](bank-how-transfer-bank-funds.md)
+#### [Создание внесений на банковский счет](bank-create-bank-deposits.md)
 
 ### Учет затрат
 #### [Обзор учета затрат](finance-manage-cost-accounting.md)
@@ -408,6 +387,8 @@
 ### Управление движением денежных средств
 #### [Обзор движения денежных средств](finance-cash-flow-overview.md)
 #### [Анализ движения денежных средств в организации](finance-analyze-cash-flow.md)
+#### [Пошаговое руководство. Создание прогнозов движения денежных средств с помощью бухгалтерских отчетов](walkthrough-making-cash-flow-forecasts-by-using-account-schedules.md)
+
 
 ### Закрытие годов и периодов
 #### [Обзор закрытия года](year-close-years-periods.md)
@@ -424,38 +405,63 @@
 #### [Закрытие счетов отчета о прибылях и убытках](year-close-income-statement.md)
 #### [Учет операции закрытия года](year-how-post-year-end-close-entry.md)
 
-### Консолидация финансовых данных из нескольких организаций
-#### [Консолидация организаций](finance-consolidated-company-reporting.md)
-#### [Настройка консолидации организаций](finance-consolidated-company-reporting-setup.md)
-
-### Работа с планом счетов и главной книгой
+### Работа с планом счетов и главной книгой (ГК)
 #### [Главная книга и план счетов](finance-general-ledger.md)
 #### [Проверка счетов](finance-review-accounts.md)
+#### [Учет транзакций непосредственно в главной книге](finance-how-post-transactions-directly.md)
+#### [Сторнирование учтенных журнальных операций и отмена приходных/расходных накладных](finance-how-reverse-journal-posting.md)
+#### [Регистрация и возмещение расходов сотрудников](finance-how-record-reimburse-employee-expenses.md)
+#### [Создание бюджетов ГК](finance-how-create-budgets.md)
+#### [Экспорт файлов для аудита](finance-how-to-export-audit-files.md)
+#### [Доходы и расходы будущих периодов](finance-how-defer-revenue-expenses.md)
+#### [Распределение типовых затрат и дохода](year-allocate-costs-income.md)
+#### [Распределение доходов и затрат по нескольким счетам ГК](finance-allocate-revenue-costs.md)
 
-### [Консолидация сальдо для организации, которая является клиентом и поставщиком](finance-consolidate-customer-vendor-balances.md)
-### [Работа с измерениями](finance-dimensions.md)
-### [Диагностика и корректировка измерений](finance-troubleshooting-correcting-dimensions.md)
-### [Валюты в Business Central](finance-currencies.md)
-### [Создание бюджетов ГК](finance-how-create-budgets.md)
-### [Учет транзакций непосредственно в главной книге](finance-how-post-transactions-directly.md)
-### [Сторнирование учтенных журнальных операций и отмена приходных/расходных накладных](finance-how-reverse-journal-posting.md)
-### [Экспорт файлов для аудита](finance-how-to-export-audit-files.md)
-### [Регистрация и возмещение расходов сотрудников](finance-how-record-reimburse-employee-expenses.md)
-### [Доходы и расходы будущих периодов](finance-how-defer-revenue-expenses.md)
-### [Распределение типовых затрат и дохода](year-allocate-costs-income.md)
-### [Распределение доходов и затрат по нескольким счетам ГК](finance-allocate-revenue-costs.md)
-### [Обновление валютных курсов](finance-how-update-currencies.md)
-### [Импорт зарплатных транзакций](finance-how-import-payroll-transactions.md)
-### [Работа с НДС по продажам и покупкам](finance-work-with-vat.md)
-### [Подача отчетности по НДС в налоговые органы](finance-how-report-vat.md)
-### [Преобразование сервисных контрактов, которые включают суммы НДС](service-how-to-convert-service-contracts.md)
-### [Управление изменениями ставки НДС](finance-how-use-vat-rate-change-tool.md)
-### [Пошаговое руководство. Создание прогнозов движения денежных средств с помощью бухгалтерских отчетов](walkthrough-making-cash-flow-forecasts-by-using-account-schedules.md)
-### [Анализ бухгалтерских отчетов в Excel](finance-analyze-excel.md)
-### [Перевод банковских средств](bank-how-transfer-bank-funds.md)
-### [Создание внесений на банковский счет](bank-create-bank-deposits.md)
-### [Интерфейсы для бухгалтеров в Business Central](finance-accounting.md)
+### Работа с измерениями
+#### [Обзор измерений](finance-dimensions.md)
+#### [Диагностика и корректировка измерений](finance-troubleshooting-correcting-dimensions.md)
+#### [Импорт зарплатных транзакций](finance-how-import-payroll-transactions.md)
+
+### Работа с валютами
+#### [Валюты в Business Central](finance-currencies.md)
+#### [Обновление валютных курсов](finance-how-update-currencies.md)
+
+### Работа с НДС
+#### [Обзор управления НДС](finance-manage-vat.md)
+#### [Транзакции покупки третьей стороной в ЕС](finance-how-to-eu3party-trade-purchase.md)
+#### Настройка НДС
+##### [Настройка налога на добавленную стоимость](finance-setup-vat.md)
+##### [Настройка групп учета](finance-posting-groups.md#tax-posting-groups)
+##### [Настройка невычитаемого НДС](finance-setup-nondeductible-vat.md)
+##### [Настройка нереализованного НДС](finance-setup-unrealized-vat.md)
+##### [Настройка отчета по НДС](finance-how-setup-vat-statement.md)
+#### [Работа с НДС по продажам и покупкам](finance-work-with-vat.md)
+#### [Использование невычитаемого НДС](finance-how-use-non-deductible-vat.md)
+#### [Подача отчетов по НДС в налоговые органы](finance-how-report-vat.md)
+#### [Управление изменениями ставки НДС](finance-how-use-vat-rate-change-tool.md)
+#### [Проверка регистрационных номеров плательщиков НДС](finance-how-validate-vat-registration-number.md)
+#### [Преобразование сервисных контрактов, которые включают суммы НДС](service-how-to-convert-service-contracts.md)
+
+### Настройка и использование электронных документов
+#### [Обзор электронных документов](finance-edocuments-overview.md)
+#### [Настройка электронных документов](finance-how-setup-edocuments.md)
+#### [Использование электронных документов при продажах и покупках](finance-how-use-edocuments.md)
+#### [Настройка соединителя "Электронные документы" с внешними конечными точками](finance-how-setup-edocuments-external.md)
+#### [Расширение функциональности электронных документов](/dynamics365/business-central/dev-itpro/developer/devenv-extend-edocuments)
+
 ### [Организации с несколькими подразделениями и международные организации](finance-multi-site-organizations.md)
+#### Консолидация финансовых данных из нескольких организаций
+##### [Консолидация организаций](finance-consolidated-company-reporting.md)
+##### [Настройка консолидации организаций](finance-consolidated-company-reporting-setup.md)
+#### Управление межфирменными транзакциями
+##### [Обзор межфирменной функциональности](intercompany-manage.md)
+##### [Настройка межфирменных процессов](intercompany-how-setup.md)
+##### [Работа с межфирменными документами и журналами](intercompany-how-work-documents-journals.md)
+##### [Управление межфирменными папками входящих и исходящих](intercompany-how-manage-intercompany-inbox.md)
+##### [Распределение затрат между межфирменными партнерами](intercompany-allocate-costs.md)
+
+### [Интерфейсы для бухгалтеров в Business Central](finance-accounting.md)
+
 
 ## Финансовая бизнес-аналитика и отчетность
 ### [Обзор финансовой бизнес-аналитики и отчетности](bi.md)
@@ -466,8 +472,11 @@
 ### [Настройка и публикация веб-служб КПЭ, основанных на бухгалтерских отчетах](bi-how-to-set-up-and-publish-kpi-web-services-based-on-account-schedules.md)
 ### [Анализ данных по измерениям](bi-how-analyze-data-dimension.md)
 ### [Создание аналитических отчетов](bi-how-create-analysis-views-reports.md)
+### [Анализ бухгалтерских отчетов в Excel](finance-analyze-excel.md)
 ### [Создание отчетов с использованием XBRL](bi-create-reports-with-xbrl.md)
 ### [Управление намерением доступа к базе данных](admin-data-access-intent.md)
+### [Пошаговое руководство. Создание прогнозов движения денежных средств с помощью бухгалтерских отчетов](walkthrough-making-cash-flow-forecasts-by-using-account-schedules.md)
+
 
 ## Продажи
 ### [Обзор продаж](sales-manage-sales.md)
@@ -874,9 +883,13 @@
 
 ### Дания
 #### [Локальная функциональность в датской версии](LocalFunctionality/Denmark/denmark-local-functionality.md)
-#### [Уведомление и регистрация в NemHandelsregisteret в Дании](localfunctionality/denmark/how-to-nemhandel-register.md)
-#### [Настройка электронного выставления счетов с помощью NemHandel](localfunctionality/denmark/how-to-edocuments-nemhadel.md)
+#### Соответствие
 #### [Хранение данных о транзакциях в течение пяти лет в Дании](localfunctionality/denmark/how-to-keep-data-5years.md)
+##### [Настройка цифровых ваучеров в Дании](localfunctionality/denmark/how-to-digital-vouchers-dk.md)
+#### Аудит
+##### [Экспорт файла для аудита в формате SAF-T в Дании](LocalFunctionality/Denmark/how-to-use-saft-audit-files-export.md)
+##### [Государственный стандартный план счетов в Дании](LocalFunctionality/Denmark/how-to-set-up-standard-coa.md)
+##### [Экспорт данных бухгалтерского учета в Regnskab Basis в Дании](LocalFunctionality/Denmark/how-to-use-regnskabbasis-export.md)
 #### НДС
 ##### [Печать отчетов по выверке НДС](LocalFunctionality/Denmark/how-to-print-vat-reconciliation-reports.md)
 ##### [Отчетность по НДС VIES](LocalFunctionality/Denmark/vat-vies-reporting.md)
@@ -890,11 +903,11 @@
 ##### [Настройка клиентов для использования формата OIOUBL](LocalFunctionality/Denmark/how-to-set-up-customers-for-oioubl.md)
 ##### [Настройка электронного выставления счетов в формате OIOUBL](LocalFunctionality/Denmark/how-to-set-up-oioubl.md)
 ##### [Расширение OIOUBL для электронного выставления счетов](LocalFunctionality/Denmark/ui-extensions-oioubl.md)
-##### [Создание электронных документов в формате OIOUBL](LocalFunctionality/Denmark/how-to-create-electronic-documents-by-using-oioubl.md
+##### [Создание электронных документов в формате OIOUBL](LocalFunctionality/Denmark/how-to-create-electronic-documents-by-using-oioubl.md)
+#### [Уведомление и регистрация в NemHandelsregisteret в Дании](localfunctionality/denmark/how-to-nemhandel-register.md)
+#### [Настройка электронного выставления счетов с помощью NemHandel](localfunctionality/denmark/how-to-edocuments-nemhadel.md)
 #### Зарплата
 ##### [Определения данных для зарплаты (DK)](LocalFunctionality/Denmark/ui-extensions-payroll-data-definitions-dk.md)
-#### Цифровые ваучеры
-##### [Настройка цифровых ваучеров в Дании](localfunctionality/denmark/how-to-digital-vouchers-dk.md)
 
 ### Финляндия
 #### [Локальная функциональность в финской версии](LocalFunctionality/Finland/finland-local-functionality.md)
@@ -1832,19 +1845,6 @@
 #### [Руководство по разработке отчетов](/dynamics365/business-central/dev-itpro/developer/devenv-reports)
 #### [Руководство по настройке производительности отчетов](/dynamics365/business-central/dev-itpro/performance/performance-developer#writing-efficient-reports)
 
-# Возможности Copilot и ИИ
-## Управление возможностями Copilot и ИИ
-### [Настройка возможностей Copilot и ИИ](enable-ai.md)
-### [Перемещение данных Copilot по географическим регионам](ai-copilot-data-movement.md)
-### [Устранение неполадок с возможностями Copilot и ИИ](ai-copilot-troubleshooting.md)
-## Помощь в выверке банковского счета (предварительная версия)
-### [Выверка банковских счетов с помощью Copilot](bank-reconciliation-with-copilot.md)
-### [Вопросы и ответы о помощи в выверке банковского счета](faqs-bank-reconciliation.md)
-## Предлагаемые маркетинговые тексты
-### [Обзор предлагаемых маркетинговых текстов](ai-overview.md)
-### [Создание маркетингового текста с помощью Copilot](item-marketing-text.md)
-### [Вопросы и ответы о предлагаемых маркетинговых текстах](faqs-marketing-text.md)
-
 # Безопасность, конфиденциальность и соответствие
 ## Защита и безопасность
 ### [Обзор безопасности и защиты (только на английском языке)](/dynamics365/business-central/dev-itpro/security/security-and-protection?toc=/dynamics365/business-central/toc.json)
@@ -2023,6 +2023,18 @@
 ## [Защита и безопасность](/dynamics365/business-central/dev-itpro/security/security-and-protection?toc=/dynamics365/business-central/toc.json)
 ## [Производительность](/dynamics365/business-central/dev-itpro/performance/performance-overview?toc=/dynamics365/business-central/toc.json)
 ## [Удаленные или нерекомендуемые функции](/dynamics365/business-central/dev-itpro/upgrade/deprecated-features-w1?toc=/dynamics365/business-central/toc.json)
+# Возможности Copilot и ИИ
+## Управление возможностями Copilot и ИИ
+### [Настройка возможностей Copilot и ИИ](enable-ai.md)
+### [Перемещение данных Copilot по географическим регионам](ai-copilot-data-movement.md)
+### [Устранение неполадок с возможностями Copilot и ИИ](ai-copilot-troubleshooting.md)
+## Помощь в выверке банковского счета (предварительная версия)
+### [Выверка банковских счетов с помощью Copilot](bank-reconciliation-with-copilot.md)
+### [Вопросы и ответы о помощи в выверке банковского счета](faqs-bank-reconciliation.md)
+## Предлагаемые маркетинговые тексты
+### [Обзор предлагаемых маркетинговых текстов](ai-overview.md)
+### [Создание маркетингового текста с помощью Copilot](item-marketing-text.md)
+### [Вопросы и ответы о предлагаемых маркетинговых текстах](faqs-marketing-text.md)
 # Ответственное применение ИИ
 ## [Обзор](responsible-ai-overview.md)
 ## [Вопросы и ответы о помощи в выверке банковского счета (предварительная версия)](faqs-bank-reconciliation.md)

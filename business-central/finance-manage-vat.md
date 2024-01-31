@@ -3,15 +3,14 @@ title: Обзор управления НДС
 description: Информация и ресурсы по управлению НДС.
 author: brentholtorf
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.keywords: VAT
 ms.search.form: '118, 472, 737, 743'
 ms.date: 01/31/2023
 ms.author: altotovi
+ms.service: dynamics-365-business-central
 ---
-# <a name="vat-management-overview"></a>Обзор управления НДС
+# Обзор управления НДС
 Налог на добавленную стоимость (НДС) — это косвенный налог на потребление товаров и услуг. НДС взимается на каждом этапе цепочки поставок, где создается добавленная стоимость, от первоначального производства до точки продажи. Следующие разделы помогут вам начать работу с управлением НДС.  
 
 |  Статья  |  Описанием  |  
@@ -29,7 +28,7 @@ ms.author: altotovi
 | [Проверка регистрационных номеров плательщиков НДС](finance-how-validate-vat-registration-number.md) | В этой статье рассматривается, как использовать встроенную в Business Central проверку регистрационных номеров плательщиков НДС для контактов, клиентов и поставщиков на базе VIES — службы проверки номеров НДС в Европейском союзе.|
 
 
-## <a name="see-also"></a>См. также
+## См. также  
 [Финансы](finance.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
 
