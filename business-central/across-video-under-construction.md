@@ -10,7 +10,7 @@ ms.author: bholtorf
 ms.service: dynamics-365-business-central
 ---
 
-# Извините, этот контент находится в разработке
+# <a name="sorry-this-content-is-under-construction"></a>Извините, этот контент находится в разработке
 
 :::image type="content" source="media/helene/empty illustration_BCdocs.png" alt-text="Прямо сейчас здесь ничего нет." border="false":::
 
@@ -20,7 +20,7 @@ ms.service: dynamics-365-business-central
 
 Тем не менее, повторите попытку позже, а пока вы можете изучить другие темы на [канале Dynamics 365 в YouTube](https://www.youtube.com/playlist?list=PLcakwueIHoT-wVFPKUtmxlqcG1kJ0oqq4).
 
-## См. также
+## <a name="see-also"></a>См. также
 [Посетите нашу библиотеку видео](across-videos.md)
 
  

@@ -11,7 +11,7 @@ ms.author: jswymer
 ms.service: dynamics-365-business-central
 ---
 
-# Поиск страниц с помощью обозревателя ролей
+# <a name="finding-pages-with-the-role-explorer"></a>Поиск страниц с помощью обозревателя ролей
 
 Вы можете получить обзор всех бизнес-функций, доступных для вашей роли, а также для других ролей. В следующей документации этот обзор функций называется *обозреватель ролей*.
 
@@ -19,7 +19,7 @@ ms.service: dynamics-365-business-central
 
 [!INCLUDE [about-ui-learn](includes/about-ui-learn.md)]
 
-## Откройте обозреватель ролей
+## <a name="open-the-role-explorer"></a>Откройте обозреватель ролей
 
 Открыть обозреватель ролей можно из ролевого центра и со всех страниц списка, а также из окна **Что вы хотите сделать**.
 
@@ -28,7 +28,7 @@ ms.service: dynamics-365-business-central
 
 Когда вы впервые открываете ролевой центр, он показывает ссылки на большинство функций, доступных для вашей роли.
 
-## Функции навигации
+## <a name="navigate-features"></a>Функции навигации
 
 Действия, которые открывают страницы, организованы под узлами, названными по названию функций или областей приложения. Каждый узел можно свернуть или развернуть по отдельности, и вы можете свернуть/развернуть все узлы вместе.
 
@@ -36,11 +36,11 @@ ms.service: dynamics-365-business-central
 - Чтобы развернуть/свернуть все узлы верхнего уровня на странице, но оставить подузлы такими, какие они есть, выберите **...** вверху, затем выберите **Развернуть** или **Свернуть**.
 - Чтобы развернуть/свернуть все узлы верхнего уровня и подузлы под ним, выберите **...** вверху, затем выберите действие **Развернуть все** или **Свернуть все**.
 
-## Поиск функций
+## <a name="search-for-features"></a>Поиск функций
 
 Чтобы быстро найти функции, выберите **Найти**, затем введите слово или фразу для функции, которую вы ищете. Ролевой центр выделит весь подходящий текст. Если функция скрыта от просмотра в свернутом узле, свернутый узел помечается точкой. 
 
-## Изучите другие роли
+## <a name="explore-other-roles"></a>Изучите другие роли
 
 Чтобы изучить роли, отличные от вашей, выберите **Другие роли**. В ролевом центре каждая роль отображается под отдельным заголовком со ссылками на ее функции. Вы можете перемещаться и находить функции так же, как при изучении своей роли.
 
@@ -56,7 +56,7 @@ ms.service: dynamics-365-business-central
 > Для разработчиков вы классифицируете страницы и отчеты, устанавливая [свойство UsageCategory](/dynamics365/business-central/dev-itpro/developer/properties/devenv-usagecategory-property) в AL-коде объекта.
 <!--
  
-## Role explorer actions
+## <a name="role-explorer-actions"></a>Role explorer actions
 
 There a several actions along the top of the role explorer to help you locate features of your role and other roles.
 
@@ -79,7 +79,7 @@ Choose the **Explore more roles** action at the top of the role explorer to get 
 > Only Role Center actions for profiles where the **Show in Role Explorer** check box is selected will appear on the extended version of the role explorer (shown with the **Explore more roles** action). For more information, see [Manage Profiles](admin-users-profiles-roles.md).
 -->
 
-## Развернуть и свернуть узлы в обозревателе ролей
+## <a name="expand-and-collapse-nodes-on-the-role-explorer"></a>Развернуть и свернуть узлы в обозревателе ролей
 
 Действия, которые открывают страницы, организованы под узлами, названными по названию функций или областей приложения. Каждый узел можно свернуть или развернуть по отдельности, и вы можете свернуть/развернуть все узлы вместе.
 
@@ -89,7 +89,7 @@ Choose the **Explore more roles** action at the top of the role explorer to get 
   - Нажимайте клавиши <kbd>Ctrl</kbd>+<kbd>Shift</kbd>, выбирая действие **Развернуть** или **Свернуть** в правом верхнем углу.
   - Выберите **...** в правом верхнем углу, затем выберите действие **Развернуть все** или **Свернуть все**.
 
-## См. также
+## <a name="see-also"></a>См. также
 [Поиск страниц и информации с помощью функции "Что вы хотите сделать"](ui-search.md)  
 [Управление профилями](admin-users-profiles-roles.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  

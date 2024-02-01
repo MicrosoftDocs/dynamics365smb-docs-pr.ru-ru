@@ -9,7 +9,7 @@ ms.date: 06/10/2021
 ms.author: bholtorf
 ms.service: dynamics-365-business-central
 ---
-# Обмен данными
+# <a name="exchanging-data"></a>Обмен данными
 Доступен обмен данными между [!INCLUDE[prod_short](includes/prod_short.md)] и внешними файлами или потоками в связи с выполнением бизнес-задач общего характера, таких как отправка и получение электронных документов и импорт или экспорт банковских файлов.  
 
 Прежде чем отправлять и получать электронные документы и импортировать или экспортировать банковские файлы, необходимо настроить платформу обмена данными для обработки файлов или потоков данных. Кроме того, вы должны настроить связанные области, такие как клиенты, которым вы отправляете электронные счета, и расширение AMC Banking 365 Fundamentals, если вы распространяете преобразования банковских файлов для внешних поставщиков услуг. Дополнительные сведения см. в разделе [Настройка обмена данными](across-set-up-data-exchange.md).  
@@ -30,7 +30,7 @@ ms.service: dynamics-365-business-central
 |Экспорт данных для отчетности Интрастат в [!INCLUDE[prod_short](includes/prod_short.md)].|[Настройка отчетности Интрастат](finance-how-setup-report-intrastat.md)|
 |Просмотрите, какие поля [!INCLUDE[prod_short](includes/prod_short.md)] сопоставляются с элементами файла при экспорте файлов платежей с помощью расширения AMC Banking 365 Fundamentals.|[Сопоставление полей при экспорте файлов платежей с использованием расширения AMC Banking 365 Fundamentals](across-field-mapping-when-exporting-payment-files-using-bank-data-conversion-service.md)|  
 
-## См. также  
+## <a name="see-also"></a>См. также
 [Настройка обмена данными](across-set-up-data-exchange.md)  
 [Электронный обмен данными](across-data-exchange.md)  
 [Выставление счетов продажи](sales-how-invoice-sales.md)   

@@ -9,10 +9,10 @@ ms.date: 11/14/2023
 ms.custom: bap-template
 ms.service: dynamics-365-business-central
 ---
-# Обновление дат документов в соответствии с датами учета
+# <a name="updating-document-dates-with-posting-dates"></a>Обновление дат документов в соответствии с датами учета
 
 [!INCLUDE [document-posting-date](includes/document-posting-date.md)]
 
-## См. также
+## <a name="see-also"></a>См. также
 
 [Настройка продаж](sales-setup-sales.md)

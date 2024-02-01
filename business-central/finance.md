@@ -10,7 +10,7 @@ ms.date: 12/19/2023
 ms.author: bholtorf
 ms.service: dynamics-365-business-central
 ---
-# Финансовый менеджмент
+# <a name="financial-management"></a>Финансовый менеджмент
 
 [!INCLUDE[prod_short](includes/prod_short.md)] содержит стандартную конфигурацию для большинства финансовых процессов, но вы можете изменить ее в соответствии со своими бизнес-потребностями. Узнайте больше в разделе [Настройка Finance](finance-setup-finance.md).
 
@@ -48,13 +48,13 @@ ms.service: dynamics-365-business-central
 | Работа с финансовыми отчетами и обзорами в Microsoft Excel. |[Анализ финансовых выписок в Excel](finance-analyze-excel.md) |
 |Узнайте, как использовать ролевой центр бухгалтеров, использовать внешнего бухгалтера и использовать раздел организации для управления счетами для нескольких клиентов.|[Работа бухгалтера в Business Central](finance-accounting.md)|  
 
-## Смотреть видеообзор
+## <a name="take-a-video-tour"></a>Смотреть видеообзор
 
 Это видео знакомит с некоторыми ключевыми возможностями управления финансами. <br><br>  
 
 > [!Video https://www.microsoft.com/videoplayer/embed/RE4Fss4?rel=0]
 
-## См. также
+## <a name="see-also"></a>См. также
 
 [Настройка финансов](finance-setup-finance.md)  
 [Продажи](sales-manage-sales.md)  
