@@ -3,9 +3,7 @@ title: Настройка управления сервисом | Докумен
 description: 'Обзор задач по настройке управления сервисом в соответствии со способом, которым организации управляют своими сервисами.'
 author: brentholtorf
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.keywords: 'service, service items, repairs, maintenance, fix'
 ms.date: 04/01/2021
 ms.author: bholtorf

@@ -8,8 +8,9 @@ ms.topic: conceptual
 ms.date: 02/23/2023
 ms.custom: bap-template
 ms.search.keywords: 'design, supply, planning, reordering, replenishment'
+ms.service: dynamics-365-business-central
 ---
-# <a name="design-details-supply-planning"></a>Сведения о проектировании: планирование поставок
+# Сведения о проектировании: планирование поставок
 
 Документация содержит подробные технические сведения о концепциях и принципах, используемых в функциях планирования поставок в [!INCLUDE[prod_short](includes/prod_short.md)].  
 
@@ -20,7 +21,7 @@ ms.search.keywords: 'design, supply, planning, reordering, replenishment'
 * Описывает логику центрального механизма балансировки поставок
 * Объясняет, как использовать политики повторного заказа в планировании запасов  
 
-## <a name="in-this-section"></a>В этом разделе
+## В этом разделе  
 
 [Сведения о проектировании: основные понятия системы планирования](design-details-central-concepts-of-the-planning-system.md)  
 [Сведения о проектировании: резервирование, трассировка заказов и отправка сообщений о действиях](design-details-reservation-order-tracking-and-action-messaging.md)  

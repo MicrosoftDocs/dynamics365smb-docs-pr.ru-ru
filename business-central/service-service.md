@@ -3,9 +3,7 @@ title: Сервисный центр
 description: 'Научитесь использовать функции Business Central, предназначенные для управления и отслеживания сервисов для поддержки операций ремонтных мастерских и выездного обслуживания.'
 author: brentholtorf
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.keywords: null
 ms.date: 06/23/2021
 ms.author: bholtorf

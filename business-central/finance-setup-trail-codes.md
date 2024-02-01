@@ -3,9 +3,7 @@ title: Настройка кодов для журналов аудита
 description: 'Узнайте, что нужно сделать для настройки кодов источников и кодов причин, которые можно использовать при отслеживании журналов аудита.'
 author: brentholtorf
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.keywords: 'accounting, auditing, bookkeeping'
 ms.search.form: '257, 259, 279'
 ms.date: 04/01/2021

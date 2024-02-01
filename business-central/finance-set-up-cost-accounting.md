@@ -3,9 +3,7 @@ title: Настройка учета затрат
 description: Перед началом работы с учетом затрат следует выполнить настройку. Для каждой операции затрат должен быть назначен тип затрат и место возникновения затрат или объект затрат.
 author: brentholtorf
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.form: '1100, 1112, 1113, 1122'
 ms.date: 10/09/2023
 ms.author: bholtorf

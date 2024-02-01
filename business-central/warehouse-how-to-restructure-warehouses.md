@@ -3,9 +3,7 @@ title: Изменение структуры складов
 description: 'Узнайте, как реструктурировать свой склад с использованием новых кодов ячеек и новых характеристик ячеек для достижения или поддержания более эффективной работы.'
 author: brentholtorf
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.keywords: null
 ms.search.form: '9813, 9814'
 ms.date: 06/25/2021

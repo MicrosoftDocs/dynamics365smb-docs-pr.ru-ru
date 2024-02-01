@@ -3,9 +3,7 @@ title: Создание аналитических отчетов
 description: 'Описывает процедуру создания новых аналитических отчетов для продаж, покупок и запасов, а также настройку шаблонов анализа.'
 author: brentholtorf
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.keywords: 'bi, power BI, analysis, KPI'
 ms.search.form: '555, 556, 557, 558, 9372, 9370, 9371'
 ms.date: 09/22/2022

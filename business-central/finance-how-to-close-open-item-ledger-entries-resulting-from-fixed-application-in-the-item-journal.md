@@ -3,9 +3,7 @@ title: 'Закрытие записей в книге товаров, получ
 description: 'Узнайте, как можно создать фиксированное применение между входящей транзакцией и исходной исходящей транзакцией в журнале товаров.'
 author: brentholtorf
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.form: 40
 ms.date: 12/12/2023
 ms.author: bholtorf

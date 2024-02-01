@@ -1,3 +1,6 @@
+---
+ms.service: dynamics-365-business-central
+---
 > [!NOTE]
 > Вступает в силу с ноября 2020 г.:
 > - Решение Common Data Service переименовано в Microsoft Dataverse. [Узнать больше](https://aka.ms/PAuAppBlog)

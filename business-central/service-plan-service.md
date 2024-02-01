@@ -3,14 +3,13 @@ title: Планирование сервисных процессов
 description: В этой теме описываются задачи по настройке правил и значений для определения политик и процессов сервиса.
 author: brentholtorf
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.keywords: 'service, work hours, configure, price, pricing'
 ms.date: 06/23/2021
 ms.author: bholtorf
+ms.service: dynamics-365-business-central
 ---
-# <a name="planning-services"></a>Планирование сервисов
+# Планирование сервисов
 С помощью [!INCLUDE[prod_short](includes/prod_short.md)] можно настраивать стандартные задачи, необходимые для выполнения требований службы поддержки клиентов. Для этого необходимо определить, какие сервисные товары и предложения поддерживает ваша сервисная организация, и по какой цене.   
 
 [!INCLUDE[prod_short](includes/prod_short.md)] также обеспечивает некоторые статистические инструменты, которые можно использовать для определения того, насколько хорошо идут дела, и выявления областей, в которых возможны улучшения.
@@ -25,7 +24,7 @@ ms.author: bholtorf
 |Узнайте о связи между статусами ремонта, и об их влиянии на выделенные ресурсы, и наоборот.|[Статус распределения и ремонта](service-allocation-status-and-repair-status.md)|  
 |Используйте статистические данные для анализа своих сервисных процессов. | [Просмотр сервисной статистики](service-service-statistics.md) |
 
-## <a name="see-also"></a>См. также
+## См. также
 [Выполнение контрактов на обслуживание](service-fulfill-service-contracts.md)  
 [Предоставление услуги](service-deliver-service.md)  
 [Настройка цен и дополнительных издержек для сервисов](service-how-setup-service-costs-pricing.md)  

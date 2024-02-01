@@ -3,9 +3,7 @@ title: Экспорт данных из Business Central в Excel
 description: Вы можете экспортировать финансовые отчеты и данные бизнес-аналитики из Business Central в Excel или открыть данные в Excel.
 author: brentholtorf
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.keywords: 'analysis, reporting, financial report, business intelligence, BI, Excel'
 ms.search.form: 9901
 ms.date: 04/01/2021

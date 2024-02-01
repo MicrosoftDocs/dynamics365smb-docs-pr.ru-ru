@@ -3,15 +3,14 @@ title: Обзор задач по настройке процессов прод
 description: 'Обзор задач, необходимых для настройки правил и значений, которые определяют ваши политики и процессы продаж, включая общую настройку и настройку продаж, связанных с финансами.'
 author: brentholtorf
 ms.topic: overview
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.keywords: 'trade, sell, configure'
 ms.search.form: '170, 172, 300, 301, 428, 456, 459, 1401'
 ms.date: 06/23/2021
 ms.author: bholtorf
+ms.service: dynamics-365-business-central
 ---
-# <a name="setting-up-sales"></a>Настройка продаж
+# Настройка продаж
 
 Прежде чем приступать к управлению процессами продажи, необходимо настроить правила и значения, которые определяют политики продажи в организации.
 
@@ -35,7 +34,7 @@ ms.author: bholtorf
 |Укажите отчеты по умолчанию, которые будут использоваться для различных типов документов.|[Выбор отчета в Business Central](across-report-selections.md)|
 |Укажите, разрешено ли пользователям учитывать счета продажи, и должны ли они учитывать их вместе с отгрузкой. |[Определение политики учета счетов для пользователей](admin-setup-invoice-posting-policy.md)|
 
-## <a name="see-also"></a>См. также
+## См. также
 [Продажи](sales-manage-sales.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
 

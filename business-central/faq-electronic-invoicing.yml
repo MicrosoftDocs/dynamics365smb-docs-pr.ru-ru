@@ -5,6 +5,7 @@ metadata:
   ms.topic: faq
   author: brentholtorf
   ms.author: bholtorf
+  ms.service: dynamics-365-business-central
 title: Вопросы и ответы по электронным счетам
 summary: |
   Встроенная служба обмена документами отправляет электронные счета в TradeShift — поставщику услуг, который пересылает электронные счета получателям PEPPOL или NemHandel. Но служба поддерживает ограниченное количество версий.   

@@ -3,12 +3,11 @@ title: Управление шифрованием данных | Докумен
 description: 'Можно зашифровать данные на Business Central Server, создав новые или импортировав существующие ключи шифрования, включаемые на сервере.'
 author: brentholtorf
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.keywords: null
 ms.date: 12/12/2023
 ms.author: bholtorf
+ms.service: dynamics-365-business-central
 ---
 # Управление шифрованием данных
 Можно зашифровать данные на сервере [!INCLUDE[prod_short](includes/prod_short.md)], создав новые или импортировав существующие ключи шифрования, включаемые на экземпляре сервера [!INCLUDE[prod_short](includes/prod_short.md)], подключенном к базе данных.

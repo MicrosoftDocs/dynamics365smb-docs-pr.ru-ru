@@ -3,12 +3,11 @@ title: Технические подробности приложения
 description: Это содержимое содержит подробные технические сведения о сложных функциях приложений в Business Central.
 author: brentholtorf
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.keywords: null
 ms.date: 12/13/2023
 ms.author: bholtorf
+ms.service: dynamics-365-business-central
 ---
 # Технические подробности приложения
 
@@ -18,7 +17,7 @@ ms.author: bholtorf
 
 |**Задача**|**Раздел**|  
 |------------|-------------|  
-|Поймите механизмы модуля учета затрат, такие как метод учета затрат и корректировка затрат, а также принципы учета, для которых они предназначены.|[Сведения о проектировании: себестоимость запасов](design-details-inventory-costing.md)|  
+|Получите представление о механизмах в модуле учета затрат, таких как метод расчета себестоимости и коррекция себестоимости, а также принципах бухгалтерского учета, для которых они предназначены.|[Технические подробности: учет себестоимости запасов](design-details-inventory-costing.md)|  
 |Узнайте, как пакетное задание "Коррекция себестоимости запасов" идентифицирует и назначает дату учета операциям стоимости, которые пакетное задание собирается создать.|[Подробности разработки: дата учета для операции коррекции стоимости](design-details-inventory-adjustment-value-entry-posting-date.md)|
 |Получение сведений о дизайне хранения и учета измерений, включая примеры кода по миграции и обновлению кода измерения.|[Сведения о проектировании: операции набора измерений](design-details-dimension-set-entries-overview.md)|
 |Дополнительные сведения о работе системы планирования и коррекции алгоритмов для выполнения требований планирования в различных средах.|[Сведения о проектировании: планирование поставок](design-details-supply-planning.md)|  
@@ -30,8 +29,8 @@ ms.author: bholtorf
 
 [Планирование](production-planning.md)  
 [Управление себестоимостью товаров](finance-manage-inventory-costs.md)  
-[Обзор Warehouse Management](design-details-warehouse-management.md)
-[Настройка сложных областей приложения с помощью рекомендаций](set-up-complex-application-areas-using-best-practices.md)  
+[Обзор управления складами](design-details-warehouse-management.md)  
+[Настройка сложных областей приложения с помощью рекомендаций](set-up-complex-application-areas-using-best-practices.md)    
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 
 ## [!INCLUDE[prod_short](includes/free_trial_md.md)]  

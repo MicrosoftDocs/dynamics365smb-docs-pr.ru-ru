@@ -3,6 +3,7 @@ author: brentholtorf
 ms.topic: include
 ms.date: 09/21/2023
 ms.author: bholtorf
+ms.service: dynamics-365-business-central
 ---
 
 В следующей таблице описаны некоторые ключевые отчеты в отчетности по кредиторской задолженности.

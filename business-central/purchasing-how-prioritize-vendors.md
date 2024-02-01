@@ -3,9 +3,7 @@ title: Назначение уровня приоритета поставщик
 description: Вы можете назначать номера поставщика для их приоритизации и поддержки функции предложений платежей в Business Central.
 author: brentholtorf
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.keywords: 'supplier, payment priority'
 ms.search.form: '26, 27'
 ms.date: 04/01/2021

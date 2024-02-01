@@ -3,12 +3,11 @@ title: Работы с учетными периодами и финансовы
 description: 'Узнайте, как работать с учетными периодами, чтобы определить, когда ваша организация отчитывается о финансовых показателях.'
 author: brentholtorf
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.form: 100
 ms.date: 08/25/2022
 ms.author: bholtorf
+ms.service: dynamics-365-business-central
 ---
 # Работа с учетными периодами и финансовыми годами
 

@@ -3,9 +3,7 @@ title: Быстрое начало закупок (содержит видео)
 description: 'Узнайте, как заполнить первые важные поля о поставщиках в Business Central, чтобы вы могли начать покупать продукты и услуги.'
 author: brentholtorf
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.keywords: quickstart
 ms.search.form: '26, 27, 50, 56'
 ms.date: 09/29/2021

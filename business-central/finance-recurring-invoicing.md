@@ -3,9 +3,7 @@ title: Работа с повторяющимся доходом
 description: Узнайте больше о доступных параметрах автоматической отправке счетов по подписке вашим клиентам и регистрации регулярных доходов.
 author: brentholtorf
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.keywords: 'recurring, invoicing, subscription, billing'
 ms.search.form: 283
 ms.reviewer: bholtorf

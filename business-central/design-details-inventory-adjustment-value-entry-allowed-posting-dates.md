@@ -3,9 +3,7 @@ title: Сообщение об ошибке "Дата учета вне пред
 description: 'Устраните ошибку, возникающую после сообщения «Дата учета вне пределов разрешенного диапазона дат учета» при выполнении пакетного задания Коррекция себестоимости запасов.'
 author: brentholtorf
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.keywords: null
 ms.date: 09/17/2021
 ms.author: bholtorf

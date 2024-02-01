@@ -3,9 +3,7 @@ title: Учет сервиса
 description: Функциональность учета сервиса позволяет эффективно обрабатывать документы и вести политику успешного обслуживания клиентов.
 author: brentholtorf
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.keywords: null
 ms.date: 06/23/2021
 ms.author: bholtorf

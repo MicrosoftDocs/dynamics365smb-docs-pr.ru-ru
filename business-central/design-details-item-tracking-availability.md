@@ -3,9 +3,7 @@ title: 'Сведения о проектировании: доступность
 description: 'На страницах "Строки трассировки товаров" и "Сводка по трассировке товара" содержатся динамические сведения о наличии серийных номеров или номеров партий, повышая прозрачность для пользователей.'
 author: brentholtorf
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.keywords: null
 ms.date: 06/15/2021
 ms.author: bholtorf

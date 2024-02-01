@@ -3,9 +3,7 @@ title: Ссылка закладки на страницу или отчет в 
 description: 'С помощью нового значка закладки вы можете добавить действие, которое открывает страницу или отчет из меню навигации ролевого центра.'
 author: brentholtorf
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.keywords: null
 ms.search.form: null
 ms.date: 06/23/2021

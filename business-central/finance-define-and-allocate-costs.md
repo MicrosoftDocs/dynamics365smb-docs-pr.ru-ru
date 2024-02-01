@@ -3,9 +3,7 @@ title: Определение и распределение затрат
 description: 'Распределения затрат перемещают затраты и доходы между типами затрат, местами возникновения затрат и объектами затрат. Можно определить любое необходимое число распределений.'
 author: brentholtorf
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.form: '1102, 1105, 1106, 1107, 1109, 1114'
 ms.date: 04/01/2021
 ms.author: bholtorf

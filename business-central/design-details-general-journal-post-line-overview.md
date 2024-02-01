@@ -3,9 +3,7 @@ title: Обзор строки учета финансового журнала
 description: 'В этом разделе представлены изменения в codeunit 12 "Фин. журнал - строка учета" и единственное место для вставки операций главной книги, НДС, книги поставщиков и клиентов.'
 author: brentholtorf
 ms.topic: overview
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.keywords: 'design, general ledger, post'
 ms.date: 06/15/2021
 ms.author: bholtorf

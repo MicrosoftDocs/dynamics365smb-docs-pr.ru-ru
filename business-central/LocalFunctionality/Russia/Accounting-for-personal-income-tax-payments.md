@@ -7,9 +7,10 @@ ms.search.keywords: null
 ms.date: 04/01/2021
 ms.reviewer: bholtorf
 ms.author: soalex
+ms.service: dynamics-365-business-central
 ---
 
-# <a name="accounting-for-personal-income-tax-payments"></a>Учет платежей подоходного налога
+# Учет платежей подоходного налога
 
 Фонд для исчисления и уплаты подоходного налога с физических лиц должен быть зарегистрирован в системе как налоговый орган поставщика.
 
@@ -25,7 +26,7 @@ ms.author: soalex
 
 НДФЛ уплачивается путем формирования платежного поручения в налоговый орган.
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Налоговый учет](Tax-Accounting.md)
 

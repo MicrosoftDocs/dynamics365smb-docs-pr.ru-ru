@@ -3,9 +3,7 @@ title: Применение платежей к неоплаченным док�
 description: 'Вы применяете суммы, уплаченные клиентами, к соответствующим документам продажи у учитываете платежи, чтобы обновить книги клиента, банка и ГК.'
 author: brentholtorf
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.keywords: 'payment process, cash receipts, customer payment'
 ms.search.form: '1290, 1294, 1287'
 ms.date: 04/01/2021

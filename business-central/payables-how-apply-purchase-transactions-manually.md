@@ -3,9 +3,7 @@ title: Выверка квитанций или возвратов платеж�
 description: 'Для обработки, сопоставления и выверки платежей клиентов и возмещений вручную вы применяете сумму к одной или нескольким открытым операциям поставщика.'
 author: brentholtorf
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.keywords: 'payment application, payment processing, match payments'
 ms.search.form: '62, 233, 522, 623'
 ms.date: 04/01/2021

@@ -3,16 +3,15 @@ title: Налог с продаж в версии по умолчанию
 description: 'Узнайте, как базовая версия Business Central поддерживает налог с продаж, и получите описание базовой концепции.'
 author: altotovi
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.keywords: 'tax, posting, sales tax'
 ms.search.form: '10, 315, 466, 467, 468, 469, 10015, 10016, 10101'
 ms.date: 07/21/2022
 ms.author: altotovi
+ms.service: dynamics-365-business-central
 ---
 
-# <a name="sales-tax-in-the-default-version-of-business-central"></a>Налог с продаж в версии Business Central по умолчанию
+# Налог с продаж в версии Business Central по умолчанию
 
 **Налог с продаж** — это налог, который применяется к покупке товаров и услуг для потребителей и к продаже товаров и услуг для предприятий. Налог с продаж в идеале должен применяться ко всему конечному потреблению с некоторыми исключениями. Освобождение от налога на конечное потребление зависит от местных органов власти, но в целом сделки между предприятиями освобождены от налога с продаж.  
 
@@ -23,7 +22,7 @@ ms.author: altotovi
 > [!IMPORTANT]
 > Хотя налог с продаж доступен в версии по умолчанию, Microsoft поддерживает использование налога с продаж только в США и Канаде.
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Отчет по налогу с продаж в США](localfunctionality/UnitedStates/us-sales-tax.md)  
 [Отчет по налогу с продаж в Канаде](localfunctionality/canada/ca-sales-tax.md)  

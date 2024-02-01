@@ -3,9 +3,7 @@ title: 'Технические подробности: невычитаемый 
 description: 'В этой статье приведена информация о невычитаемом налоге на добавленную стоимость (НДС), который подлежит уплате покупателем, но не подлежит вычету из собственного обязательства покупателя по уплате НДС.'
 author: altotovi
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.keywords: null
 ms.date: 07/04/2023
 ms.author: altotovi

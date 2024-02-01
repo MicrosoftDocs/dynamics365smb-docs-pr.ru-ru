@@ -3,9 +3,7 @@ title: Соответствие служб и SLA
 description: С точки зрения служб Business Central соответствует строгим требованиям и соблюдению SLA в нескольких сертификатах ISO и отраслевых сертификатах.
 author: sorenfriisalexandersen
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.keywords: null
 ms.reviewer: bholtorf
 ms.date: 06/14/2021

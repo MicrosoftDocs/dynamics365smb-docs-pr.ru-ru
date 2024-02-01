@@ -3,9 +3,7 @@ title: Ввод данных в Business Central
 description: 'Существует множество функций, которые помогают вам быстрее и точнее вводить данные. Здесь описаны основные принципы и дополнительные функции.'
 author: jswymer
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.keywords: 'decimal separator, data entry, focus'
 ms.search.form: '9020, 9022, 9026, 9027, 9030, 9000, 9009, 9004, 9005, 9024, 9006, 9007, 9010, 9016, 9017'
 ms.date: 03/23/2022

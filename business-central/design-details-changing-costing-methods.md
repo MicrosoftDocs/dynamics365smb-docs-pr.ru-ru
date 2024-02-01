@@ -3,9 +3,7 @@ title: Сведения о проектировании — изменение �
 description: 'Узнайте, как назначить товару другой метод учета себестоимости, хотя вы уже использовали этот товар в транзакциях.'
 author: brentholtorf
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.keywords: 'costing methods, costing, item cost'
 ms.search.form: 8645
 ms.date: 06/08/2021

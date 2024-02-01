@@ -3,15 +3,14 @@ title: Сенсорные жесты и жесты пером
 description: 'Узнайте о вводе с помощью сенсорных жестов и жестов пера, которые помогут вам эффективно работать с данными на планшетах и телефонах.'
 author: jswymer
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.keywords: 'accessibility, shortcuts, charts, tiles'
 ms.date: 04/29/2021
 ms.author: jswymer
+ms.service: dynamics-365-business-central
 ---
 
-# <a name="touch-and-pen-gestures-for-tablet-and-phones"></a>Сенсорные жесты и жесты пером для планшетов и телефонов
+# Сенсорные жесты и жесты пером для планшетов и телефонов 
 
 В этой статье представлены некоторые специальные жесты, которые можно использовать при работе с [!INCLUDE[prod_short](includes/prod_short.md)] на планшете или телефоне.
 
@@ -30,7 +29,7 @@ Business Central built-in charts display useful information about business data 
 
 -->
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Краткая справка по сочетаниям клавиш — только ПК](keyboard-shortcuts-cheatsheet.md)  
 [Вспомогательные функции](ui-accessibility.md)  

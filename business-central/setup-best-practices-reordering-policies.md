@@ -3,9 +3,7 @@ title: Рекомендации по настройке. Политики пов
 description: 'Поле Политика дозаказа в карточках товара содержит четыре разных метода планирования, которые определяют способ взаимодействия отдельных параметров планирования.'
 author: brentholtorf
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.keywords: null
 ms.date: 04/01/2021
 ms.author: bholtorf

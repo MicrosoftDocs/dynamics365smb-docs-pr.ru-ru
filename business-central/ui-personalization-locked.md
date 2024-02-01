@@ -3,9 +3,7 @@ title: Почему заблокирована персонализация ст
 description: 'Вам может быть заблокирована возможность персонализировать страницу. Прочтите здесь о том, что вы можете сделать, чтобы разблокировать ее, чтобы вы могли персонализировать.'
 author: brentholtorf
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.keywords: 'customize, personalize, personalization, hide columns, remove fields, move fields'
 ms.search.form: null
 ms.date: 04/01/2021

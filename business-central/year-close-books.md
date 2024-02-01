@@ -3,13 +3,12 @@ title: Обзор задач по закрытию книг
 description: 'Узнайте о процессе закрытия книг за финансовый год или период, а также о том, что происходит после закрытия в конце года.'
 author: jswymer
 ms.topic: overview
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.keywords: 'year closing, close accounting period, close fiscal year, bank account detailed trial balance'
 m.search.form: 100
 ms.date: 04/01/2021
 ms.author: jswymer
+ms.service: dynamics-365-business-central
 ---
 # Закрытие книг
 После проверки актуальности всех счетов и распределения затрат и прибылей можно закрыть книги для финансового года или периода.

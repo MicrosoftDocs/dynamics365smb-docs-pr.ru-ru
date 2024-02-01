@@ -3,9 +3,7 @@ title: Настройка автоматической регистрации в
 description: 'Вы можете автоматически записывать взаимодействия с клиентами, например документы продажи, покупки и сервиса, а также телефонные звонки.'
 author: jswymer
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.keywords: 'marketing, relationship, prospect, contact, client, customer'
 ms.date: 12/12/2023
 ms.author: jswymer

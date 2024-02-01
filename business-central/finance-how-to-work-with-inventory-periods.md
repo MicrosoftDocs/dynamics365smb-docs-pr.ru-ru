@@ -3,9 +3,7 @@ title: Работа с учетными периодами
 description: 'Определив учетные периоды, можно контролировать временные рамки, в пределах которых люди могут учитывать изменения в запасах.'
 author: brentholtorf
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.keywords: 'inventory, periods'
 ms.search.form: 5828
 ms.date: 04/01/2021

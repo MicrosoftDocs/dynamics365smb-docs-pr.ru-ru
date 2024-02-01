@@ -3,9 +3,7 @@ title: Стандарт Microsoft Pay
 description: 'Расширение Microsoft Pay добавляет ссылку Microsoft Pay в ваши документы продажи, чтобы клиент мог легко заплатить с помощью Microsoft Pay.'
 author: brentholtorf
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.form: '1080, 1081, 1083, 1085, 1087, 1089'
 ms.date: 12/12/2023
 ms.author: bholtorf

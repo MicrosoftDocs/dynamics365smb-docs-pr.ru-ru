@@ -3,9 +3,7 @@ title: Быстрое начало продаж (содержит видео)
 description: 'Узнайте, как заполнить первые важные поля о продуктах и клиентах в Business Central, чтобы вы могли начать продавать.'
 author: brentholtorf
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.keywords: quickstart
 ms.date: 09/29/2021
 ms.author: bholtorf

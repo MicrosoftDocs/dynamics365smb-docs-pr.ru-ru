@@ -3,13 +3,12 @@ title: Использование узла компании
 description: 'Предоставляет сведения о расширении узла компании, которое можно использовать для управления работой в нескольких компаниях в Business Central.'
 author: brentholtorf
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms. search.keywords: null
 ms.search.form: '1151, 1152, 1153, 1154, 1155, 1165, 1166, 1167,'
 ms.date: 04/01/2021
 ms.author: bholtorf
+ms.service: dynamics-365-business-central
 ---
 # Раздел организации для расширения Business Central
 

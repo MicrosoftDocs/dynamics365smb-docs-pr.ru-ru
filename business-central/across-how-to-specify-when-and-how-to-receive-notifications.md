@@ -3,9 +3,7 @@ title: Определение сроков и порядка получения 
 description: 'Когда вы настраиваете пользователей в рабочих процессах утверждения, вы можете указать, как и когда каждый пользователь утверждения будет получать уведомления.'
 author: brentholtorf
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.keywords: null
 ms.search.form: '663, 1500, 1512, 1513,'
 ms.date: 09/09/2022

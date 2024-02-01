@@ -3,9 +3,7 @@ title: О платформе обмена данными
 description: 'В этой статье рассматривается, как использовать Data Exchange Framework для управления обменом данными в бизнес-документах, таких как счета-фактуры, с вашими бизнес-партнерами.'
 author: brentholtorf
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.keywords: 'Data exchange framework, data files, data exchange, electronic document, invoice, Business Central, business document, standard-compliant file, OCR'
 ms.search.form: '189,'
 ms.date: 12/13/2023

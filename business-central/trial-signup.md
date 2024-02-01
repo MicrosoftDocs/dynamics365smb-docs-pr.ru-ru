@@ -5,18 +5,19 @@ author: brentholtorf
 ms.topic: get-started
 ms.custom: template-trial-setup
 ms.author: bholtorf
-ms.date: 12/19/2023
+ms.date: 01/17/2024
+ms.service: dynamics-365-business-central
 ---
 
-# <a name="sign-up-for-a-free-dynamics-365-business-central-trial"></a>Зарегистрироваться для бесплатного пробного пользования Dynamics 365 Business Central
+# Зарегистрироваться для бесплатного пробного пользования Dynamics 365 Business Central
 
-Business Central предлагает бесплатную пробную версию. После быстрой регистрации вы получите доступ ко многим из ключевых функций приложения. Пробная версия позволяет вам протестировать приложение с демонстрационными данными. Если вы хотите попробовать работу с собственными данными, вы можете перейти на бесплатную 30-дневную пробную версию. [Подробнее о функциях Business Central](across-business-functionality.md).  
+В Business Central предусмотрена бесплатная пробная версия, которую можно найти на странице **[продукта Dynamics 365 Business Central](https://www.microsoft.com/en-us/dynamics-365/products/business-central)**. После быстрой регистрации вы получите доступ ко многим из ключевых функций приложения. Пробная версия позволяет вам протестировать приложение с демонстрационными данными. Если вы хотите попробовать работу с собственными данными, вы можете перейти на бесплатную 30-дневную пробную версию. [Подробнее о функциях Business Central](across-business-functionality.md).  
 
-## <a name="to-sign-up-for-the-trial"></a>Для регистрации на пробную версию
+<!--## To sign up for the trial-->
 
 [!INCLUDE [trial-get](includes/trial-get.md)]
 
-## <a name="what-to-try"></a>Что попробовать?
+## Что попробовать?
 
 Пробная среда включает в себя те же функции, что и платная версия. По ссылкам ниже можно узнать некоторые ключевые особенности.
 
@@ -25,7 +26,7 @@ Business Central предлагает бесплатную пробную вер
 - [Станьте продуктивными](ui-work-product.md)  
 - [Краткие руководства](quick-start-business-central.md)  
 
-## <a name="get-started-with-a-subscription"></a>Начало работы с подпиской
+## Начало работы с подпиской
 
 При каждом выполнении входа во время пробного периода отображается уведомление вверху в синем поле с указанием оставшегося времени. Если вы решили оформить подписку, найдите партнера [!INCLUDE[prod_short](includes/prod_short.md)]. Для получения дополнительной информации см. раздел [Как найти партнера по перепродаже?](/dynamics365/business-central/across-faq#how-do-i-find-a-reselling-partner). Партнер может помочь вам настроить [!INCLUDE[prod_short](includes/prod_short.md)] в соответствии с особенностями вашего бизнеса, в том числе импортировать данные из вашей предыдущей системы. Вы также можете настроить [!INCLUDE[prod_short](includes/prod_short.md)], добавляя приложения из [коммерческой платформы Майкрософт](https://go.microsoft.com/fwlink/?linkid=2081646).  
 
@@ -38,7 +39,7 @@ Business Central предлагает бесплатную пробную вер
 
 Для получения дополнительной информации о том, что вы можете делать с [!INCLUDE [prod_short](includes/prod_short.md)], прочтите [Подготовьтесь к ведению бизнеса](ui-get-ready-business.md) и [Функциональные бизнес-возможности](across-business-functionality.md).  
 
-## <a name="additional-resources"></a>Дополнительные ресурсы
+## Дополнительные ресурсы
 
 - [Библиотека видео](across-videos.md)  
 - [Вопросы и ответы по пробной версии](trial-faq.md)  

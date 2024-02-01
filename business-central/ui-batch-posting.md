@@ -3,9 +3,7 @@ title: Одновременный учет нескольких документ
 description: 'Узнайте, как выбрать несколько неучтенных документов в списке для немедленного или запланированного пакетного учета в Business Central.'
 author: brentholtorf
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.form: null
 ms.reviewer: bholtorf
 ms.date: 06/25/2021

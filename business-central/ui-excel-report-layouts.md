@@ -3,9 +3,7 @@ title: Работа с макетами Excel
 description: 'Узнайте, как создавать и изменять макеты отчетов, созданные с помощью Excel.'
 author: jswymer
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.keywords: 'customized report, document layout, logo, personalize'
 ms.search.form: '9650, 9652'
 ms.date: 11/10/2022

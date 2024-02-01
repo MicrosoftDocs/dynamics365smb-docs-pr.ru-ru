@@ -3,9 +3,7 @@ title: Настройка нереализованного НДС
 description: 'Если используется учет на основании кассы, можно определить способ обработки нереализованного НДС для продаж и покупок.'
 author: brentholtorf
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.keywords: 'cash, VAT, unrealized, cash-based'
 ms.search.form: '118, 472, 473'
 ms.date: 04/01/2021

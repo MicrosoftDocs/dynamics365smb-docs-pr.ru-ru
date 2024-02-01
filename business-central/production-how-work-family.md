@@ -3,9 +3,7 @@ title: Работа с производственными семействами
 description: Главной задачей при настройке личного календаря для вашей организации или организации-партнера является внесение необходимых изменений статуса рабочих и нерабочих дней.
 author: brentholtorf
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.form: '99000790, 99000791, 99000792, 99000793'
 ms.date: 04/01/2021
 ms.author: bholtorf

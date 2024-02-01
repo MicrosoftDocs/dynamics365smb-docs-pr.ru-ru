@@ -3,9 +3,7 @@ title: Обновление пользовательских макетов от
 description: 'Узнайте, как обновить настраиваемый макет отчета, используемый в отчете, например, при изменении дизайна набора данных отчета.'
 author: brentholtorf
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.form: '9652, 9650'
 ms.date: 06/24/2021
 ms.author: bholtorf

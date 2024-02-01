@@ -3,14 +3,13 @@ title: Обзор задач управления расчетами с клие
 description: В этой теме описываются задачи по управлению дебиторской задолженностью и применению платежей к операциям книг клиентов и поставщиков.
 author: brentholtorf
 ms.topic: overview
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.keywords: 'customer payment, debtor, balance due, AR'
 ms.date: 06/23/2021
 ms.author: bholtorf
+ms.service: dynamics-365-business-central
 ---
-# <a name="managing-receivables"></a>Управление дебиторской задолженностью
+# Управление дебиторской задолженностью
 
 Стандартный шаг в любом финансовом процессе — выверка банковских счетов, для которого требуется применить входящие платежи к операциям книги клиентов или поставщиков, чтобы закрыть счета продажи и кредит-ноты покупки как оплаченные.
 
@@ -41,7 +40,7 @@ ms.author: bholtorf
 |Настройте отклонение, при котором система закрывает счет, даже если платеж, включая все скидки, не полностью покрывает сумму счета.|[Работа с отклонениями в оплате и отклонениями скидки по оплате](finance-payment-tolerance-and-payment-discount-tolerance.md)|
 | Прогноз просрочки платежей для документов продажи. | [Расширение "Прогнозирование просрочек оплаты"](ui-extensions-late-payment-prediction.md) |
 
-## <a name="see-also"></a>См. также
+## См. также
 [Продажи](sales-manage-sales.md)  
 [Управление кредиторской задолженностью](payables-manage-payables.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  

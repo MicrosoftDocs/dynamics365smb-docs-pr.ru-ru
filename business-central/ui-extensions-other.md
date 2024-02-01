@@ -3,9 +3,7 @@ title: Расширения для Business Central от других поста
 description: Эта тема содержит список приложений и расширений для настройки Business Central от других организаций.
 author: brentholtorf
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms. search.keywords: 'app, add-in, manifest, customize'
 ms.date: 06/24/2021
 ms.author: bholtorf

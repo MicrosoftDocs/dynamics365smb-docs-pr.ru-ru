@@ -3,9 +3,7 @@ title: Оптимизация Outlook для использования в ка�
 description: 'Узнайте о том, что вы можете сделать, чтобы улучшить работу с "Входящие" для бизнеса в Microsoft Outlook.'
 author: jswymer
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.keywords: 'Outlook, Microsoft 365, inbox, business inbox, WebView2, Edge, addin, add-in'
 ms.date: 12/06/2023
 ms.author: jswymer

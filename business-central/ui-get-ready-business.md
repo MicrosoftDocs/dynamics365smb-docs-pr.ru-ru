@@ -3,12 +3,11 @@ title: Подготовка к ведению бизнеса
 description: 'Описывает руководства по сопровождаемой настройке, видео, разделы и страницы справки и страницы, помогающие подготовиться к ведению бизнеса в Business Central.'
 author: brentholtorf
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.keywords: 'SMTP, mail, Microsoft 365, setup, wizard, experience'
 ms.date: 05/25/2022
 ms.author: bholtorf
+ms.service: dynamics-365-business-central
 ---
 # Подготовка к ведению бизнеса
 
