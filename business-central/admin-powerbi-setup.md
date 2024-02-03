@@ -8,13 +8,13 @@ ms.date: 01/28/2024
 ms.author: jswymer
 ms.service: dynamics-365-business-central
 ---
-# Включение интеграции Power BI с [!INCLUDE[prod_short](includes/prod_short.md)]
+# <a name="enabling-power-bi-integration-with-"></a>Включение интеграции Power BI с [!INCLUDE[prod_short](includes/prod_short.md)]
 
 [!INCLUDE[azure-ad-to-microsoft-entra-id](~/../shared-content/shared/azure-ad-to-microsoft-entra-id.md)]
 
 В этой статье описывается, как подготовить [!INCLUDE[prod_short](includes/prod_short.md)] к интеграции с Power BI. [!INCLUDE[prod_short](includes/prod_short.md)] Online уже включен для интеграции, хотя есть некоторая информация о лицензировании, которую вы, возможно, захотите прочитать. Для [!INCLUDE[prod_short](includes/prod_short.md)] On-Premises вам требуется настроить свою среду для подключения к Power BI, прежде чем пользователи смогут с ним работать.
 
-## <a name="license"></a>Лицензирование Power BI
+## <a name="power-bi-licensing"></a><a name="license"></a>Лицензирование Power BI
 
 С [!INCLUDE[prod_short](includes/prod_short.md)] пользователи получают бесплатную лицензию Power BI, которая обеспечивает доступ к наиболее распространенным функциям в [!INCLUDE[prod_short](includes/prod_short.md)] и Power BI. Вы также можете приобрести лицензию Power BI Pro, предоставляющую доступ к дополнительным функциям. В следующей таблице представлен обзор функций, доступных для каждой лицензии.
 
@@ -25,11 +25,11 @@ ms.service: dynamics-365-business-central
 
 Дополнительные сведения см. в разделе [Лицензирование службы Power BI для пользователей в вашей организации](/power-bi/admin/service-admin-licensing-organization) или [Регистрация на службу Power BI как физическое лицо](/power-bi/fundamentals/service-self-service-signup-for-power-bi).
 
-## <a name="exposedata"></a>Предоставлять данные через API или веб-службы OData
+## <a name="expose-data-through-api-or-odata-web-services"></a><a name="exposedata"></a>Предоставлять данные через API или веб-службы OData
 
 Business Central предлагает два способа предоставления данных, которые могут быть использованы отчетами Power BI: страницы или запросы API и веб-службы Open Data Protocol (OData).
 
-### Страницы и запросы API
+### <a name="api-pages-and-queries"></a>Страницы и запросы API
 
 > **ПРИМЕНЯЕТСЯ К:** только Business Central Online
 
@@ -44,17 +44,17 @@ Business Central Online также поддерживает настраивае
 >
 > В редких случаях поведение вызывает ошибку, когда пользователь пытается получить данные из API для отчета в Power BI Desktop. Однако если для пользовательского API необходимы модификации базы данных, пользователи Power BI Desktop могут форсировать такое поведение. Дополнительные сведения см. в разделе [Создание отчетов Power BI для отображения данных Business Central](across-how-use-financials-data-source-powerbi.md#fixing-problems).
 
-### Веб-службы OData
+### <a name="odata-web-services"></a>Веб-службы OData
 
 Вы можете публиковать объекты приложения Business Central, такие как модули кода, страницы и запросы, как [Веб-службы OData](/dynamics365/business-central/dev-itpro/webservices/odata-web-services). В Business Central Online по умолчанию публикуется множество веб-служб. Простой способ найти веб-службы — найти *веб-службы* в [!INCLUDE[prod_short](includes/prod_short.md)]. На странице **Веб-службы** убедитесь, что поле **Опубликовать** выбрано для веб-служб, перечисленных выше. Дополнительные сведения о публикации веб-служб см. в разделе [Публикация веб-службы](across-how-publish-web-service.md).
 
 Чтобы узнать, что вы можете сделать для обеспечения максимальной производительности веб-служб с точки зрения сервера Business Central Server (конечная точка) и потребителя (клиент), ознакомьтесь с разделом [Создание эффективных веб-служб](/dynamics365/business-central/dev-itpro/performance/performance-developer#writing-efficient-web-services).
 
-### Выбор использования страниц API или веб-служб OData
+### <a name="choosing-whether-to-use-api-pages-or-odata-web-services"></a>Выбор использования страниц API или веб-служб OData
 
 По возможности рекомендуется использовать страницы API вместо веб-службы OData. Страницы API обычно быстрее загружают данные в отчеты Power BI, чем веб-службы OData. Кроме того, они более гибкие, поскольку позволяют получать данные из полей таблицы, которые не определены в объекте страницы.
 
-## <a name="setup"></a>Настройка [!INCLUDE[prod_short](includes/prod_short.md)] On-Premises для интеграции с Power BI
+## <a name="set-up--on-premises-for-power-bi-integration"></a><a name="setup"></a>Настройка [!INCLUDE[prod_short](includes/prod_short.md)] On-Premises для интеграции с Power BI
 
 В этом разделе объясняются требования к развертыванию [!INCLUDE[prod_short](includes/prod_short.md)] On-Premises для интеграции с Power BI.
 
@@ -91,13 +91,13 @@ Business Central Online также поддерживает настраивае
 
     Для первоначального подключения откройте [!INCLUDE[prod_short](includes/prod_short.md)] и выполните на главной странице процедуру **Начало работы с Power BI**. Это действие проведет вас через процесс получения согласия и проверит вашу лицензию Power BI. При появлении запроса войдите в систему, используя учетную запись администратора Microsoft Entra. Дополнительные сведения см. в разделе [Подключение к Power BI — только один раз](across-working-with-powerbi.md#connect).
 
-## Настройка потоков данных
+## <a name="setting-up-dataflows"></a>Настройка потоков данных
 
 Потоки данных позволяют принимать, преобразовывать и загружать данные в рабочую область Power BI, а затем использовать эти данные в качестве основы для отчетов. В некоторых случаях в этих потоках данных могут возникать временные ошибки при выполнении запланированного обновления. Сообщение об ошибке выглядит следующим образом: `DataSource.Error: OData: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.` 
 
 Используя PowerAutomate, вы можете настроить количество повторных попыток для таких ситуаций. Дополнительную информацию см. в статье [Автоматический повтор потока данных в случае сбоя](/power-query/dataflows/automatically-retry-dataflow).
 
-## См. также
+## <a name="see-also"></a>См. также
 
 [Business Central и Power BI](admin-powerbi.md)  
 [Обзор компонентов и архитектуры интеграции Power BI для [!INCLUDE[prod_short](includes/prod_short.md)]](admin-powerbi-overview.md)  
