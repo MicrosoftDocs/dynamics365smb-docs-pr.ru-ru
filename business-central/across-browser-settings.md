@@ -3,24 +3,25 @@ title: Настройка браузера
 description: 'Описывается, как настроить браузеры для работы с решением Business Central и продуктами, которые с ним интегрируются.'
 author: jswymer
 ms.topic: get-started
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.keywords: 'Teams, web client, troubleshooting, errors'
-ms.date: 04/01/2021
+ms.date: 12/04/2023
 ms.author: jswymer
+ms.service: dynamics-365-business-central
 ---
-# <a name="setting-up-and-troubleshooting-your-browser-to-work-with-business-central-web-client"></a>Настройка и устранение неполадок браузера для работы с веб-клиентом Business Central
+# Настройка и устранение неполадок браузера для работы с веб-клиентом Business Central
 
 В этой статье объясняется, как настроить браузер так, чтобы [!INCLUDE[web_client](includes/web_client.md)] и все его функции работали правильно. Прочтите эту статью, если у вас возникли проблемы с открытием [!INCLUDE[web_client](includes/web_client.md)], потому что некоторые проблемы могут быть вызваны настройками вашего браузера.
 
 В статье подробно рассказывается о настройке Microsoft Edge, но требования для JavaScript, файлов cookie и всплывающих окон одинаковы для всех поддерживаемых браузеров. Для других браузеров обратитесь к инструкциям производителя.  
 
-## <a name="use-a-supported-browser"></a>Использование поддерживаемого браузера
+## Использование поддерживаемого браузера
 
-Убедитесь, что вы используете один из поддерживаемых браузеров. См. раздел [Минимальные требования для использования Business Central](product-requirements.md#browsers).  
+Убедитесь, что вы используете один из поддерживаемых браузеров. См. раздел [Минимальные требования для использования Business Central](product-requirements.md#browsers).
 
-## <a name="allow-javascript-from-business-central"></a>Разрешение JavaScript из Business Central
+Мы рекомендуем использовать версию браузера из стабильного канала, поскольку это самая надежная и стабильная версия, прошедшая тщательное тестирование и исправление ошибок. Это гарантирует вам комфортную работу и минимальную вероятность возникновения проблем при использовании веб-клиента.  
+
+## Разрешение JavaScript из Business Central
 
 *Проблема:*
 
@@ -32,16 +33,16 @@ The resource you are looking for has been removed, had its name changed, or is t
 *Исправление:*
 
 1. В Microsoft Edge перейдите к пункту **Настройки** > **Файлы cookie и разрешения сайтов** > **JavaScript**.
-2. Выполните один из следующих шагов. Выберите шаг, рекомендованный вашей организацией:
+2. Выполните один из следующих шагов. Выберите шаг, рекомендуемый вашей организацией:
 
     - Переместите выключатель **Разрешено** влево (Выкл.). Затем выберите **Добавить** и введите адрес (URL) для [!INCLUDE[prod_short](includes/prod_short.md)] в поле **Сайт**. Выберите **Добавить**, когда будете готовы.
     - Переместите выключатель **Разрешено** вправо (Вкл.).
 
-## <a name="allow-cookies-from-business-central"></a>Разрешение файлов cookie из Business Central
+## Разрешение файлов cookie из Business Central
 
 *Проблема:*
 
-Если браузер не разрешает файлы cookie, вы получите следующую ошибку:
+Если в браузере не разрешены файлы cookie, вы увидите следующую ошибку:
 
 **К сожалению, страница не найдена. Пожалуйста, проверьте адрес и попробуйте снова.** 
 
@@ -50,9 +51,9 @@ The resource you are looking for has been removed, had its name changed, or is t
 1. В Microsoft Edge перейдите к пункту **Настройки** > **Файлы cookie и разрешения сайтов** > **Файлы cookie и данные сайта**.
 2. Переместите выключатель **Разрешить сайтам сохранять и читать данные файлов cookie** вправо (Вкл.).  
 
-## <a name="allow-pop-ups-from-business-central"></a><a name="popup"></a>Разрешение всплывающих окон из Business Central
+## <a name="popup"></a>Разрешение всплывающих окон из Business Central
 
-[!INCLUDE[prod_short](includes/prod_short.md)] интегрируется с несколькими продуктами. В некоторых случаях, например, с Microsoft Teams, [!INCLUDE[prod_short](includes/prod_short.md)] открывается во всплывающем окне внутри продукта. Эта возможность требует, чтобы ваш браузер разрешал всплывающие окна из [!INCLUDE[prod_short](includes/prod_short.md)].
+[!INCLUDE[prod_short](includes/prod_short.md)] интегрируется с несколькими продуктами. В некоторых случаях, например при использовании Microsoft Teams, [!INCLUDE[prod_short](includes/prod_short.md)] открывается во всплывающем окне внутри продукта. Эта возможность требует, чтобы ваш браузер разрешал всплывающие окна из [!INCLUDE[prod_short](includes/prod_short.md)].
 
 *Проблема:*
 
@@ -75,7 +76,7 @@ Try again
 2. Переместите выключатель **Блокировать** вправо (Вкл.).
 3. Выберите **Добавить**. В поле **Сайт** введите `https://businesscentral.dynamics.com`, затем выберите **Добавить**.
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Устранение неполадок Teams](admin-teams-troubleshooting.md)  
 
