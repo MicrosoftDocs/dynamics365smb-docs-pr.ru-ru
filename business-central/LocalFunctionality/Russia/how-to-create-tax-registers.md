@@ -7,9 +7,10 @@ ms.search.keywords: null
 ms.date: 04/01/2021
 ms.reviewer: bholtorf
 ms.author: soalex
+ms.service: dynamics-365-business-central
 ---
 
-# <a name="create-tax-registers"></a>Расчет налоговых регистров
+# Расчет налоговых регистров
 
 В следующей процедуре показан порядок создания налоговых регистров.
 
@@ -53,7 +54,7 @@ ms.author: soalex
 
 12. Выберите **Показать связанные записи** для просмотра всех транзакций любой созданной книги операций.
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Налоговый учет](Tax-Accounting.md)  
 [Налоговые регистры](Tax-Registers.md)  

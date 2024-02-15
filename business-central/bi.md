@@ -3,15 +3,14 @@ title: Финансовая бизнес-аналитика
 description: 'Business Central содержит ряд функций, которые помогут вам собирать, анализировать и передавать коллегам ценные бизнес-данные вашей организации для бизнес-аналитики и принятия решений.'
 author: brentholtorf
 ms.topic: conceptual
-ms.devlang: na
-ms.tgt_pltfrm: na
-ms.workload: na
+ms.devlang: al
 ms.search.keywords: 'bi, power BI, analysis, KPI'
 ms.search.form: '103, 108, 198, 490'
 ms.date: 09/22/2022
 ms.author: bholtorf
+ms.service: dynamics-365-business-central
 ---
-# <a name="financial-business-intelligence"></a>Финансовая бизнес-аналитика
+# Финансовая бизнес-аналитика
 
 В ходе ежедневной работы каждая организация фиксирует огромные объемы данных. Эти данные, отражающие продажи, покупки, операционные расходы, зарплаты сотрудников и бюджеты, представляют собой ценную информацию, или бизнес-аналитику, для принятия решений. [!INCLUDE[prod_short](includes/prod_short.md)] содержит множество функций, помогающих собирать, анализировать и совместно использовать данные организации.
 
@@ -32,7 +31,7 @@ ms.author: bholtorf
 |Подготовка глобальной бухгалтерской отчетности в соответствии с требованиями международных бухгалтерских организаций с использованием стандарта eXtensible Business Reporting Language (XBRL).|[Создание отчетов с XBRL](bi-create-reports-with-xbrl.md)|
 |Изменение намерения доступа к базе данных для отчетов, страниц типа API и запросов, чтобы уменьшить нагрузку и повысить производительность.|[Управление намерением доступа к базе данных](admin-data-access-intent.md)|
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Финансы](finance.md)  
 [Использование Business Central в качестве источника данных Power BI](across-how-use-financials-data-source-powerbi.md)  
