@@ -1560,6 +1560,7 @@ ms.service: dynamics-365-business-central
 #### [Настройка экспедиторов](sales-how-to-set-up-shipping-agents.md)
 #### [Определение политики учета счетов для пользователей](admin-setup-invoice-posting-policy.md)
 #### [Обновление дат документов в соответствии с датами учета](across-link-doc-dates-to-posting-dates.md)
+#### [Отображение предупреждения о дефиците запасов](sales-setup-show-stockout-warning.md)
 ### Настройка покупок
 #### [Настройка покупок](purchasing-setup-purchasing.md)
 #### [Регистрация новых поставщиков](purchasing-how-register-new-vendors.md)
