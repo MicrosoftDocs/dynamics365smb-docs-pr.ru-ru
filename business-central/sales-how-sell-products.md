@@ -2,13 +2,14 @@
 title: Создание клиентского заказа на продажу и продажа продукции
 description: Описывается порядок создания заказа на продажу для записи вашего соглашения с клиентом на продажу продукции или торговлю ею на определенных условиях.
 author: brentholtorf
+ms.author: bholtorf
+ms.reviewer: soalex
 ms.topic: conceptual
-ms.devlang: al
 ms.search.keywords: 'trade, partial deliveries, customer sales order, shipping advice, partial shipments,'
 ms.search.form: '42, 48, 9305'
-ms.date: 11/03/2023
-ms.author: bholtorf
+ms.date: 02/01/2024
 ms.service: dynamics-365-business-central
+ms.custom: bap-template
 ---
 # Продажа продукции с помощью клиентского заказа на продажу
 
@@ -89,6 +90,12 @@ ms.service: dynamics-365-business-central
 ## Номер внешнего документа
 
 [!INCLUDE [ext-doc-no-sales](includes/ext-doc-no-sales.md)]
+
+## Работа с полями сумм
+
+Значения в полях, предназначенных для отображения сумм, могут быть положительными или отрицательными, в зависимости от того, представляет ли значение кредит или дебет. В этом видео показано, как работать с полями, в которых отображаются суммы.
+
+> [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RW1h96P]
 
 ## См. также
 
