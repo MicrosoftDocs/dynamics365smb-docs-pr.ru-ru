@@ -9,17 +9,17 @@ ms.date: 12/19/2023
 ms.author: bholtorf
 ms.service: dynamics-365-business-central
 ---
-# <a name="financial-reports-and-analytics-in-business-central"></a>Финансовые отчеты и аналитика в Business Central
+# Финансовые отчеты и аналитика в Business Central
 
 Финансовая отчетность в [!INCLUDE [prod_short](includes/prod_short.md)] позволяет профессионалам в области финансов и бизнеса создавать, поддерживать, развертывать и просматривать финансовые отчеты. Выходит за рамки традиционных ограничений отчетности, чтобы помочь вам эффективно разрабатывать различные типы отчетов. [!INCLUDE [prod_short](includes/prod_short.md)] включает несколько отчетов, функции отслеживания и инструменты, чтобы помочь аудиторам или контролерам, которые несут ответственность за отчетность перед финансовым отделом. Финансовая отчетность включает поддержку аналитик, поэтому сегменты или аналитики счетов становятся доступными сразу; никакие другие инструменты или шаги настройки не требуются.  
 
 [!INCLUDE [tip_open_report_from_docs](includes/tip-open-report-from-docs.md)]
 
-## <a name="reports"></a>Отчеты
+## Отчеты
 
 [!INCLUDE [finance_reports](includes/finance-reports-include.md)]
 
-## <a name="tasks"></a>Задачи
+## Задачи
 
 В следующих статьях описываются некоторые ключевые задачи анализа состояния вашего бизнеса:
 
@@ -31,7 +31,7 @@ ms.service: dynamics-365-business-central
 * [Создание отчетов с использованием XBRL](bi-create-reports-with-xbrl.md)  
 * [Управление намерением доступа к базе данных](admin-data-access-intent.md)  
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Создание бюджетов расходов](finance-create-cost-budgets.md)  
 [Подача отчета об НДС в налоговые органы](finance-how-report-vat.md)  

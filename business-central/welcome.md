@@ -8,7 +8,7 @@ ms.date: 05/22/2023
 ms.author: jswymer
 ms.service: dynamics-365-business-central
 ---
-# <a name="welcome-to-"></a>Добро пожаловать в [!INCLUDE[prod_long](includes/prod_long.md)]
+# Добро пожаловать в [!INCLUDE[prod_long](includes/prod_long.md)]
 
 [!INCLUDE[prod_short](includes/prod_short.md)] — это решение по управлению деятельностью для малых и средних предприятий, позволяющее автоматизировать и упростить бизнес процессы и лучше управлять бизнесом. Легко настраиваемое, с множеством полезных функций, [!INCLUDE[prod_short](includes/prod_short.md)] позволяет организациям управлять деятельностью, включая финансы, производство, продажи, отгрузку, управление проектом, оказание услуг и т. д. Решение позволяет легко добавлять функциональность, специфическую для региона, в котором осуществляется деятельность, а также для сферы деятельности организации. [!INCLUDE[prod_short](includes/prod_short.md)] быстрота реализации, удобство настройки и простота определяли и продолжают определять направление инноваций в области проектирования, разработки и внедрения программных продуктов, а также удобства эксплуатации.  
 
@@ -21,7 +21,7 @@ ms.service: dynamics-365-business-central
 
 [!INCLUDE [ua-get-help](includes/ua-get-help.md)]
 
-## <a name="microsoft-learn"></a>Microsoft Learn
+## Microsoft Learn
 
 На панели навигации слева вы можете найти информацию об использовании [!INCLUDE[prod_short](includes/prod_short.md)] в вашей компании. Найдите ссылки на описания наиболее часто используемых возможностей в разделе [Бизнес-процессы](#business-processes). См. также раздел [Узнайте больше, используя документацию по продукту](product-help-and-support.md#learn-more-using-the-product-documentation).
 
@@ -34,7 +34,7 @@ ms.service: dynamics-365-business-central
 
 В следующих разделах указаны ключевые статьи, которые помогут вам познакомиться с [!INCLUDE [prod_short](includes/prod_short.md)].  
 
-## <a name="business-processes"></a>Бизнес-процессы
+## Бизнес-процессы
 
 - [Подготовьтесь к ведению бизнеса](ui-get-ready-business.md)
 - [Настройка [!INCLUDE[prod_short](includes/prod_short.md)]](setup.md)
@@ -61,7 +61,7 @@ ms.service: dynamics-365-business-central
   - [Общие бизнес-функции](ui-across-business-areas.md)
   - [Локальная функциональность](about-localization.md)
 
-## <a name="development-and-administration-content"></a>Материалы для разработки и администрирования
+## Материалы для разработки и администрирования
 
 - [Разработка и администрирование](/dynamics365/business-central/dev-itpro/index)
 - [Пробные версии и подписки](/dynamics365/business-central/dev-itpro/administration/trials-subscriptions)  
@@ -69,13 +69,13 @@ ms.service: dynamics-365-business-central
 - [AL Development Environment](/dynamics365/business-central/dev-itpro/developer/devenv-reference-overview)
 - [Правила и рекомендации для кода AL](/dynamics365/business-central/dev-itpro/compliance/apptest-overview)
 
-## <a name="microsoft-learn-training"></a>Обучение Microsoft Learn
+## Обучение Microsoft Learn
 
 Найдите бесплатное электронное обучение по [!INCLUDE[prod_short](includes/prod_short.md)] на сайте [Обучение Microsoft Learn](/training/dynamics365/business-central?WT.mc_id=dyn365bc_landingpage-docs).
 
 Вы также можете просмотреть видеоролики о новых и часто используемых возможностях в нашей видеотеке. Для получения дополнительной информации см. раздел [Посетите нашу библиотеку видео](across-videos.md).  
 
-## <a name="community-resources"></a>Ресурсы сообщества
+## Ресурсы сообщества
 
 - [Форум сообщества Microsoft Dynamics 365 Business Central](https://community.dynamics.com/forums/thread/?groupid=e78817ab-a926-4d31-96cc-aef040a4eb04)  
 - [Microsoft Dynamics 365 Business Central в блоге Dynamics 365](https://cloudblogs.microsoft.com/dynamics365/it/product/business-central/)  
@@ -83,11 +83,11 @@ ms.service: dynamics-365-business-central
 - [Дорожная карта Microsoft Dynamics 365 Business Central](https://dynamics.microsoft.com/roadmap/business-central/)  
 - [Microsoft Partner Network \(требуется учетная запись члена Microsoft Partner Network\)](https://mspartner.microsoft.com/en/us/windows/index.aspx)  
 
-## <a name="get-notified-about-changes-through-an-rss-feed"></a>Получайте уведомления об изменениях через RSS-канал
+## Получайте уведомления об изменениях через RSS-канал
 
 [!INCLUDE [ua-rss](includes/ua-rss.md)]  
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Обучение Dynamics 365 Business Central](/training/dynamics365/business-central?WT.mc_id=dyn365bc_landingpage-docs)  
 [Краткие руководства по Business Central](quick-start-business-central.md)  

@@ -10,7 +10,7 @@ ms.author: jswymer
 ms.reviewer: jswymer
 ms.service: dynamics-365-business-central
 ---
-# <a name="create-users-according-to-licenses"></a>Создание пользователей в соответствии с лицензиями
+# Создание пользователей в соответствии с лицензиями
 
 [!INCLUDE[azure-ad-to-microsoft-entra-id](~/../shared-content/shared/azure-ad-to-microsoft-entra-id.md)]
 
@@ -25,7 +25,7 @@ ms.service: dynamics-365-business-central
 > [!NOTE]
 > Процесс управления пользователями и лицензиями зависит от того, развернуто ли [!INCLUDE[prod_short](includes/prod_short.md)] в сети или локально. Для [!INCLUDE [prod_short](includes/prod_short.md)] Online необходимо добавить пользователей из Microsoft 365. В локальных развертываниях вы можете создавать, редактировать и удалять пользователей напрямую.  
 
-## <a name="manage-users-and-licenses-in-online-tenants"></a>Управление пользователями и лицензиями в онлайн-клиентах
+## Управление пользователями и лицензиями в онлайн-клиентах
 
 Учетные записи пользователей в [!INCLUDE[prod_short](includes/prod_short.md)] необходимо сначала создать в Центре администрирования Microsoft 365. Эти учетные записи пользователей могут использоваться не только в [!INCLUDE [prod_short](includes/prod_short.md)]. Если вы подписаны на другие планы, их можно использовать для входа в другие приложения, например Power BI. Информацию о создании пользователей в Центре администрирования Microsoft 365 см. в разделе [Добавление пользователей в Центр администрирования Microsoft](/microsoft-365/admin/add-users/add-users).
 
@@ -60,7 +60,7 @@ ms.service: dynamics-365-business-central
 
 Дополнительные сведения см. в разделе [Делегированный доступ администратора к Business Central Online](/dynamics365/business-central/dev-itpro/administration/delegated-admin).  
 
-### <a name="configure-permissions-based-on-licenses"></a><a name="licensespermissions"></a>Конфигурирование разрешений на основе лицензий
+### <a name="licensespermissions"></a>Конфигурирование разрешений на основе лицензий
 
 [!INCLUDE [2022_releasewave1](includes/2022_releasewave1.md)]
 
@@ -90,7 +90,7 @@ ms.service: dynamics-365-business-central
 > [!IMPORTANT]
 > Эта настройка разрешений действует только для новых пользователей, которым вы назначаете соответствующую лицензию. Существующие пользователи не обновляются. Мы рекомендуем вам настроить разрешения, прежде чем вы начнете назначать лицензии пользователям в центре администрирования Microsoft 365.
 
-### <a name="to-add-users-or-update-user-information-and-license-assignments-in-business-central"></a><a name="adduser"></a>Добавление пользователей или обновление данных пользователей и назначений лицензий в Business Central
+### <a name="adduser"></a>Добавление пользователей или обновление данных пользователей и назначений лицензий в Business Central
 
 После добавления пользователей или изменения информации о пользователях в центре администрирования Microsoft 365 вы можете быстро импортировать информацию о пользователях в [!INCLUDE[prod_short](includes/prod_short.md)]. Импорт включает в себя назначение лицензий.  
 
@@ -114,7 +114,7 @@ ms.service: dynamics-365-business-central
 > [!NOTE]
 > Если вы используете внешнего бухгалтера для управления вашим учетом и финансовой отчетностью, вы можете пригласить его в свой экземпляр [!INCLUDE[prod_short](includes/prod_short.md)], чтобы он работал в вашими данными. Для получения дополнительной информации см. [Приглашение внешнего бухгалтера в ваш Business Central](finance-accounting.md#inviteaccountant).
 
-### <a name="to-remove-a-users-access-to-the-system"></a>Закрытие доступа пользователя к системе
+### Закрытие доступа пользователя к системе
 
 Вы можете удалить доступ пользователя к [!INCLUDE[prod_short](includes/prod_short.md)] Online. Все ссылки на пользователя сохраняются. Однако пользователь не может войти в систему, и активные сеансы для пользователя остановлены.
 
@@ -124,7 +124,7 @@ ms.service: dynamics-365-business-central
 
 Вы также можете удалить лицензию у пользователя в центре администрирования Microsoft 365. Затем пользователь не может войти в систему. Для получения дополнительной информации см. раздел [Удаление лицензий у пользователей](/microsoft-365/admin/manage/remove-licenses-from-users),
 
-### <a name="synchronization-with-microsoft-365"></a><a name="m365"></a>Синхронизация с Microsoft 365
+### <a name="m365"></a>Синхронизация с Microsoft 365
 
 Когда назначается лицензия для [!INCLUDE[prod_short](includes/prod_short.md)] пользователю в Microsoft 365, есть два способа создать пользователя в [!INCLUDE[prod_short](includes/prod_short.md)].  
 
@@ -149,13 +149,13 @@ ms.service: dynamics-365-business-central
 
 Ознакомьтесь с общими сведениями о доступе к [!INCLUDE[prod_short](includes/prod_short.md)] в Teams с использованием лицензий на Microsoft 365 по адресу [admin-access-with-m365-license](admin-access-with-m365-license.md).
 
-## <a name="manage-users-and-licenses-in-on-premises-deployments"></a>Управление пользователями и лицензиями в локальных развертываниях
+## Управление пользователями и лицензиями в локальных развертываниях
 
 Для локальных развертываний количество лицензий пользователей указывается в файле лицензии (.bclicense или .flf). Когда администратор или партнер Майкрософт отправляет файл лицензии, они могут указать, какие пользователи могут войти в [!INCLUDE[prod_short](includes/prod_short.md)].
 
 Для локальных развертываний администратор создает, редактирует и удаляет пользователей непосредственно со страницы **Пользователи**.
 
-### <a name="to-edit-or-delete-a-user-in-an-on-premises-deployment"></a>Редактирование или удаление пользователя в локальном развертывании
+### Редактирование или удаление пользователя в локальном развертывании
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Пользователи**, а затем выберите связанную ссылку.
 2. Выберите пользователя, которого требуется отредактировать, а затем выберите действие **Изменить**.
@@ -167,7 +167,7 @@ ms.service: dynamics-365-business-central
 >
 > Для получения дополнительной информации см. раздел [Типы аутентификации и учетных данных](/dynamics365/business-central/dev-itpro/administration/users-credential-types) в справке администрирования для [!INCLUDE[prod_short](includes/prod_short.md)].
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Назначение разрешений пользователям и группам](ui-define-granular-permissions.md)  
 [Управление профилями](admin-users-profiles-roles.md)  
