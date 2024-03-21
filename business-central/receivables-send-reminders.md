@@ -10,11 +10,11 @@ ms.date: 02/09/2022
 ms.author: bholtorf
 ms.service: dynamics-365-business-central
 ---
-# Отправка напоминаний о задолженностях
+# <a name="send-reminders-of-outstanding-balances"></a>Отправка напоминаний о задолженностях
 
 [!INCLUDE [receivables-reminders](includes/receivables-reminders.md)]
 
-## См. также
+## <a name="see-also"></a>См. также
 
 [Сбор задолженностей](receivables-collect-outstanding-balances.md)  
 [Настройка нескольких процентных ставок для отложенного платежа](finance-how-to-set-up-multiple-interest-rates.md)  

@@ -10,7 +10,7 @@ ms.date: 04/01/2021
 ms.author: bholtorf
 ms.service: dynamics-365-business-central
 ---
-# Настройка основных средств
+# <a name="setting-up-fixed-assets"></a>Настройка основных средств
 
 До начала работы с основными средствами необходимо определить несколько вещей.  
 
@@ -35,7 +35,7 @@ ms.service: dynamics-365-business-central
 | Изучите различные методы расчета амортизации основных средств. |[Методы амортизации](fa-depreciation-methods.md) |
 | Узнайте о том, как применять определенные пользователем методы амортизации. |[Настройка пользовательских методов амортизации](fa-how-setup-user-defined-depreciation-method.md) |
 
-## См. также
+## <a name="see-also"></a>См. также
 
 [Основные Средства](fa-manage.md)  
 [Финансы](finance.md)  
