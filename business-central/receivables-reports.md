@@ -9,15 +9,15 @@ ms.date: 07/13/2021
 ms.author: bholtorf
 ms.service: dynamics-365-business-central
 ---
-# <a name="accounts-receivable-reports-and-analytics-in-business-central"></a>Отчеты и аналитика по дебиторской задолженности в Business Central
+# Отчеты и аналитика по дебиторской задолженности в Business Central
 
 Чтобы помочь вам управлять своей дебиторской задолженностью в [!INCLUDE [prod_short](includes/prod_short.md)], встроены стандартные отчеты и аналитика. Функция выходит за рамки традиционных ограничений отчетности, чтобы помочь вам эффективно разрабатывать различные типы отчетов.  
 
-## <a name="reports"></a>Отчеты
+## Отчеты
 [!INCLUDE [receivable_reports](includes/receivable-reports-include.md)]
 
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Анализ финансовых отчетов в Microsoft Excel](finance-analyze-excel.md)  
 [Работа с измерениями](finance-dimensions.md)  
