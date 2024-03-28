@@ -9,7 +9,7 @@ ms.date: 04/01/2021
 ms.author: bholtorf
 ms.service: dynamics-365-business-central
 ---
-# Сопоставление полей при экспорте файлов платежей с использованием расширения AMC Banking 365 Fundamentals
+# <a name="field-mapping-when-exporting-payment-files-using-the-amc-banking-365-fundamentals-extension"></a>Сопоставление полей при экспорте файлов платежей с использованием расширения AMC Banking 365 Fundamentals
 При экспорте файлов платежей с использованием расширения AMC Banking 365 Fundamentals экспортируемые данные предоставляются поставщику услуг. Поставщик услуг отвечает за конфиденциальность этих данных. Дополнительные сведения о расширении AMC Banking 365 Fundamentals см. в разделе [Использование расширения AMC Banking 365 Fundamentals](ui-extensions-amc-banking.md).  
 
 > [!CAUTION]  
@@ -62,7 +62,7 @@ ms.service: dynamics-365-business-central
 |Название раздела финансового журнала|Код раздела журнала|Строка финансового журнала|Имя раздела финансового журнала, используемое для строки платежа.|  
 |Название банка отправителя - преобр. данных|Название банка – Преобр. данных|Банковский счет|Название банковского счета отправителя, запрашиваемое расширением AMC Banking 365 Fundamentals и указанное в карточке банковского счета|  
 
-## См. также  
+## <a name="see-also"></a>См. также
 [Настройка обмена данными](across-set-up-data-exchange.md)  
 [Электронный обмен данными](across-data-exchange.md)
 [Использование расширения AMC Banking 365 Fundamentals](ui-extensions-amc-banking.md)   

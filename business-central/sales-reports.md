@@ -9,14 +9,14 @@ ms.date: 12/19/2023
 ms.author: bholtorf
 ms.service: dynamics-365-business-central
 ---
-# Отчеты о покупках и аналитика в Business Central
+# <a name="sales-reports-and-analytics-in-business-central"></a>Отчеты о покупках и аналитика в Business Central
 
 Отчетность о покупках в [!INCLUDE [prod_short](includes/prod_short.md)] позволяет профессионалам по продажам и бизнесу получать информацию и статистические данные о текущей и прошлой деятельности по покупкам.  
 
-## Отчеты
+## <a name="reports"></a>Отчеты
 [!INCLUDE [sales_reports](includes/sales-reports-include.md)]
 
-## Задачи
+## <a name="tasks"></a>Задачи
 
 В следующих статьях описываются некоторые ключевые задачи анализа состояния вашего бизнеса:
 
@@ -24,7 +24,7 @@ ms.service: dynamics-365-business-central
 * [Просмотр наличия товара](inventory-how-availability-overview.md)
 
 
-## См. также
+## <a name="see-also"></a>См. также
 
 [Настройка продаж](sales-setup-sales.md)  
 [Продажи](sales-manage-sales.md)  
