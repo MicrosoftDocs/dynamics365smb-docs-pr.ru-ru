@@ -9,7 +9,7 @@ ms.date: 06/23/2021
 ms.author: bholtorf
 ms.service: dynamics-365-business-central
 ---
-# <a name="service-management"></a>Сервисный центр
+# Сервисный центр
 > [!NOTE]
 > Функциональная возможность, описанная в этом разделе и его подразделах, отображается в пользовательском университете только при наличии функционального уровня **Premium**. Дополнительные сведения см. в разделе [Изменение набора отображаемых функций](ui-experiences.md).
 
@@ -35,7 +35,7 @@ ms.service: dynamics-365-business-central
 |Создание и управление контрактными соглашениями между организацией и клиентами.|[Выполнение контрактов на обслуживание](service-fulfill-service-contracts.md)|  
 |Предоставление сервисных услуг клиентам и выставление счетов по сервисным заказам.|[Предоставление услуги](service-deliver-service.md)|  
 
-## <a name="see-also"></a>См. также
+## См. также  
 [Управление дебиторской задолженностью](receivables-manage-receivables.md)   
 [Работы](projects-how-create-jobs.md)   
 [Добро пожаловать в [!INCLUDE[prod_long](includes/prod_long.md)] ](welcome.md)

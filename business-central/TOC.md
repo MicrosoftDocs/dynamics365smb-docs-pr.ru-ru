@@ -139,6 +139,7 @@ ms.service: dynamics-365-business-central
 ## Продуктивная работа в Business Central
 ### [Обзор общей функциональности](ui-work-product.md)
 ### [Краткая сводка в удобном для печати виде](ui-work-product.md#cheatsheet)
+### [Чат с Copilot (предварительная версия)](chat-with-copilot.md)
 ### [Поиск страниц и информации с помощью функции "Что вы хотите сделать"](ui-search.md)
 ### [Вопросы и ответы о функции "Что вы хотите сделать"](ui-search-faq.md)
 ### [Поиск конкретных данных](ui-search-data.md)
@@ -201,6 +202,7 @@ ms.service: dynamics-365-business-central
 ### [Интеллектуальная аналитика (только сетевая версия)](about-intelligent-cloud.md)
 ## Вопросы и ответы
 ### [Вопросы и ответы](across-faq.yml)
+### [Вопросы и ответы о чате с Copilot (предварительная версия)](chat-with-copilot-faq.md)
 ### [Вопросы и ответы о функции "Что вы хотите сделать"](ui-search-faq.md)
 ### [Вопросы и ответы о поиске и фильтрации](ui-search-filter-faq.yml)
 ### [Вопросы и ответы о представлениях списков](ui-views-faq.yml)
@@ -374,6 +376,7 @@ ms.service: dynamics-365-business-central
 #### [Настройка оценки стоимости и учета себестоимости запасов](finance-set-up-inventory-valuation-and-costing.md)
 #### [Переоценка запасов](inventory-how-revalue-inventory.md)
 #### [Коррекция себестоимости товаров](inventory-how-adjust-item-costs.md)
+#### [Отслеживание коррекций себестоимости товаров](finance-track-inventory-costs.md)
 #### [Обработка себестоимости запасов и производства](finance-handle-inventory-and-manufacturing-costs.md)
 #### [Обновление стандартной себестоимости](finance-how-to-update-standard-costs.md)
 #### [Удаление и повторное применение операций книги товаров](finance-how-to-remove-and-reapply-item-entries.md)
@@ -388,7 +391,6 @@ ms.service: dynamics-365-business-central
 #### [Обзор движения денежных средств](finance-cash-flow-overview.md)
 #### [Анализ движения денежных средств в организации](finance-analyze-cash-flow.md)
 #### [Пошаговое руководство. Создание прогнозов движения денежных средств с помощью бухгалтерских отчетов](walkthrough-making-cash-flow-forecasts-by-using-account-schedules.md)
-
 
 ### Закрытие годов и периодов
 #### [Обзор закрытия года](year-close-years-periods.md)
@@ -408,6 +410,7 @@ ms.service: dynamics-365-business-central
 ### Работа с планом счетов и главной книгой (ГК)
 #### [Главная книга и план счетов](finance-general-ledger.md)
 #### [Проверка счетов](finance-review-accounts.md)
+#### [Переоценка сальдо счетов главной книги](finance-revalue-account-balances.md)
 #### [Учет транзакций непосредственно в главной книге](finance-how-post-transactions-directly.md)
 #### [Сторнирование учтенных журнальных операций и отмена приходных/расходных накладных](finance-how-reverse-journal-posting.md)
 #### [Регистрация и возмещение расходов сотрудников](finance-how-record-reimburse-employee-expenses.md)
@@ -459,24 +462,34 @@ ms.service: dynamics-365-business-central
 ##### [Работа с межфирменными документами и журналами](intercompany-how-work-documents-journals.md)
 ##### [Управление межфирменными папками входящих и исходящих](intercompany-how-manage-intercompany-inbox.md)
 ##### [Распределение затрат между межфирменными партнерами](intercompany-allocate-costs.md)
-
 ### [Интерфейсы для бухгалтеров в Business Central](finance-accounting.md)
 
+## Финансовая аналитика 
+### [Обзор финансовой аналитики](bi.md)
+### [Ведение бухгалтерской отчетности по филиалам или юридическим лицам](finance-consolidated-company-reporting.md)
+<!-- ### [Financial KPIs](bi-finance-kpis.md) -->
 
-## Финансовая бизнес-аналитика и отчетность
-### [Обзор финансовой бизнес-аналитики и отчетности](bi.md)
-### [Бухгалтерские отчеты](finance-reports.md)
-### [Анализ данных с помощью статистических счетов](bi-use-statistical-accounts.md)
-### [Анализ фактических сумм в сравнении с суммами бюджета](bi-how-analyze-actual-versus-budget.md)
-### [Подготовка бухгалтерской отчетности с помощью финансовых данных и категорий счетов](bi-how-work-account-schedule.md)
-### [Настройка и публикация веб-служб КПЭ, основанных на бухгалтерских отчетах](bi-how-to-set-up-and-publish-kpi-web-services-based-on-account-schedules.md)
-### [Анализ данных по измерениям](bi-how-analyze-data-dimension.md)
-### [Создание аналитических отчетов](bi-how-create-analysis-views-reports.md)
-### [Анализ бухгалтерских отчетов в Excel](finance-analyze-excel.md)
-### [Создание отчетов с использованием XBRL](bi-create-reports-with-xbrl.md)
-### [Управление намерением доступа к базе данных](admin-data-access-intent.md)
-### [Пошаговое руководство. Создание прогнозов движения денежных средств с помощью бухгалтерских отчетов](walkthrough-making-cash-flow-forecasts-by-using-account-schedules.md)
+### Бухгалтерская отчетность (реализация бухгалтерской отчетности и КПЭ)
+#### [Подготовка бухгалтерской отчетности](bi-how-work-account-schedule.md)
+#### [Пошаговое руководство. Использование бухгалтерской отчетности для создания прогнозов движения денежных средств](walkthrough-making-cash-flow-forecasts-by-using-account-schedules.md)
+#### [Настройка и публикация веб-службы КПЭ на основе бухгалтерской отчетности](bi-how-to-set-up-and-publish-kpi-web-services-based-on-account-schedules.md)
+#### [Анализ данных с помощью статистических счетов](bi-use-statistical-accounts.md)
+#### [Анализ данных по измерениям](bi-how-analyze-data-dimension.md)
+#### [Создание аналитических отчетов](bi-how-create-analysis-views-reports.md)
 
+<!-- ### [Ad-hoc analysis on finance data](ad-hoc-analysis-finance.md) -->
+
+### Встроенные инструменты финансового анализа
+#### [Анализ финансовых данных из плана счетов](finance-general-ledger.md)
+#### [Анализ фактических сумм в сравнении с суммами бюджета](bi-how-analyze-actual-versus-budget.md)
+#### [Анализ движения денежных средств](finance-analyze-cash-flow.md)
+
+### Встроенные бухгалтерские отчеты
+#### [Встроенные бухгалтерские отчеты в формате Excel](finance-analyze-excel.md)
+#### [Встроенные основные бухгалтерские отчеты](finance-reports.md)
+#### [Встроенные отчеты по основным средствам](fa-reports.md)
+#### [Встроенные отчеты по расчетам с клиентами](receivables-reports.md)
+#### [Встроенные отчеты по расчетам с поставщиками](payables-reports.md)
 
 ## Продажи
 ### [Обзор продаж](sales-manage-sales.md)
@@ -549,18 +562,20 @@ ms.service: dynamics-365-business-central
 ## Управление проектами
 ### [Обзор управления проектами](projects-manage-projects.md)
 ### [Отчеты по проектам](project-reports.md)
-### [Создание работ](projects-how-create-jobs.md)
+### [Создание проектов](projects-how-create-jobs.md)
 ### [Использование ресурсов для проектов](projects-how-use-resources.md)
 ### [Использование табелей учета рабочего времени](projects-how-use-time-sheets.md)
-### [Управление бюджетами работ](projects-how-manage-budgets.md)
-### [Регистрация потребления для работ](projects-how-record-job-usage.md)
-### [Управление поставками для работ](projects-how-manage-project-supplies.md)
+### [Управление бюджетами проектов](projects-how-manage-budgets.md)
+### [Регистрация потребления для проекта](projects-how-record-job-usage.md)
+### [Управление запасами для проекта](projects-how-manage-project-supplies.md)
 ### [Методы учета НЗП](projects-understanding-wip.md)
-### [Мониторинг хода выполнения работ](projects-how-monitor-progress-performance.md)
-### [Выставление счетов по работам](projects-how-invoice-jobs.md)
+### [Отслеживание хода выполнения проекта](projects-how-monitor-progress-performance.md)
+### [Выставление счетов по проектам](projects-how-invoice-jobs.md)
 
 ## Основные средства
 ### [Обзор основных средств](fa-manage.md)
+### [Настройка основных средств](fa-setup.md)
+### [Методы амортизации](fa-depreciation-methods.md)
 ### [Отчеты и аналитика по основным средствам](fa-reports.md)
 ### [Приобретение основных средств](fa-how-acquire.md)
 ### [Обслуживание основных средств](fa-how-maintain.md)
@@ -723,12 +738,12 @@ ms.service: dynamics-365-business-central
 ## Интернет-магазин с Shopify
 ### [Начало работы с соединителем Shopify](shopify/get-started.md)
 #### [Создание и настройка учетной записи Shopify](shopify/shopify-account.md)
-### [Синхронизация товаров с Shopify](shopify/synchronize-items.md)
-### [Синхронизация клиентов с Shopify](shopify/synchronize-customers.md)
+### [Синхронизация товаров и запасов с Shopify](shopify/synchronize-items.md)
+### [Синхронизация клиентов и организаций с Shopify](shopify/synchronize-customers.md)
 ### [Синхронизация и выполнение заказов на продажу в Shopify](shopify/synchronize-orders.md)
 ### [Синхронизация транзакций и выплат](shopify/transactions-and-payouts.md)
 ### [Настройка налогов для подключения к Shopify](shopify/setup-taxes.md)
-### [Запуск задач в фоновом режиме](shopify/background.md)
+### [Автоматизация синхронизации с Shopify с использованием очереди заданий](shopify/background.md)
 ### [Устранение неполадок с соединителем Shopify](shopify/troubleshoot.md)
 ### [Вопросы и ответы о соединителе Shopify](shopify/shopify-faq.md)
 ### [Пошаговое руководство. Настройка и использование соединителя Shopify](shopify/walkthrough-setting-up-and-using-shopify.md)
@@ -853,33 +868,66 @@ ms.service: dynamics-365-business-central
 #### [Пакет базовой локализации для чешской версии (расширение)](LocalFunctionality/Czech/ui-extensions-core-localization-pack-cz.md)
 #### [Пакет расширенной локализации для чешской версии (расширение)](LocalFunctionality/Czech/ui-extensions-advanced-localization-pack-cz.md)
 #### Базовые финансы  
-##### [Финансы](LocalFunctionality/Czech/finance.md)
+##### [Учет исправлений (красное сторно)](LocalFunctionality/Czech/how-to-use-corrections-posting.md)
+##### [Уставная информация об организации](LocalFunctionality/Czech/statutory-company-information.md)
+##### [Внутренние финансовые документы](LocalFunctionality/Czech/internal-financial-documents.md)
+##### [Выходные бухгалтерские документы](LocalFunctionality/Czech/accounting-output-documents.md)
+##### [Функция бухгалтерской отчетности](LocalFunctionality/Czech/how-to-use-accounting-schedule-feature.md)
+##### [Обязательные бухгалтерские отчеты](LocalFunctionality/Czech/statutory-statements.md)
 ##### [Операции при закрытии года](LocalFunctionality/Czech/year-close-operations.md)
 ##### [Применение операций главной книги](LocalFunctionality/Czech/general-ledger-entries-application.md)
 ##### [Обновление валютных курсов](LocalFunctionality/Czech/exchange-rate-update.md)
+##### [Многоконтурный учет](LocalFunctionality/Czech/how-to-use-multi-circuit-accounting.md)
 #### НДС
-##### [Финансы — НДС](LocalFunctionality/Czech/finance-vat.md)
+##### [Дата НДС](LocalFunctionality/Czech/how-to-setup-vat-date.md)
+##### [Декларация по НДС](LocalFunctionality/Czech/vat-statement.md)
+##### [Дополнительная декларация по НДС](LocalFunctionality/Czech/supplementary-vat-statement.md)
+##### [VIES](LocalFunctionality/Czech/vies-cz.md)
+##### [Экспорт VIES – CZ](LocalFunctionality/Czech/how-to-use-vies-cz-export.md)
+##### [Ненадежный плательщик](LocalFunctionality/Czech/unreliable-payer.md)
+##### [Валютный курс для НДС](LocalFunctionality/Czech/how-to-setup-vat-exchange-rate.md)
+##### [Настройка и учет обратного НДС](LocalFunctionality/Czech/how-to-setup-and-post-reverse-charge.md)
 ##### [Контрольный отчет по НДС](LocalFunctionality/Czech/vat-control-report.md)
+##### [Отчеты по НДС](LocalFunctionality/Czech/vat-reports-cz.md)
+##### [Корректировка НДС в местной валюте](LocalFunctionality/Czech/how-to-setup-vat-correction-local-currency.md)
+##### [Интрастат](LocalFunctionality/Czech/intrastat.md)
+##### [Интрастат для чешской версии (расширение)](LocalFunctionality/Czech/ui-extensions-intrastat-localization-cz.md)
 #### Основные средства
-##### [Основные средства](LocalFunctionality/Czech/fixed-assets.md)
 ##### [Локализация основных средств для чешской версии (расширение)](LocalFunctionality/Czech/ui-extensions-fixed-asset-localization-cz.md)
 #### Банковские операции и платежи
-##### [Банковская функциональность](LocalFunctionality/Czech/bank-feature.md)
 ##### [Локализация банковских документов для чешской версии (расширение)](LocalFunctionality/Czech/ui-extensions-banking-documents-localization-cz.md)
-##### [Управление кассами](LocalFunctionality/Czech/cash-desk-management.md)
 ##### [Локализация кассы для чешской версии (расширение)](LocalFunctionality/Czech/ui-extensions-cash-desk-localization-cz.md)
 ##### [Регистрация продаж (EET)](LocalFunctionality/Czech/eet.md)
-##### [Авансы](LocalFunctionality/Czech/advances.md)
 ##### [Локализация авансовых платежей для чешской версии (расширение)](LocalFunctionality/Czech/ui-extensions-advance-payments-localization-cz.md)
 #### Расчеты с поставщиками и клиентами
-##### [Расчеты с поставщиками и клиентами](LocalFunctionality/Czech/receivables-payables.md)
-##### [Интрастат](LocalFunctionality/Czech/intrastat.md)
-##### [Локализация компенсаций для чешской версии (расширение)](LocalFunctionality/Czech/ui-extensions-compensations-localization-cz.md)
+##### [Функция коррекции валютных курсов](LocalFunctionality/Czech/how-to-use-exchange-rates-adjustment-feature.md)
+##### [Несколько счетов кредиторской и дебиторской задолженности](LocalFunctionality/Czech/how-to-use-multiple-payables-receivables-accounts.md)
+##### [Выверки клиентов и поставщиков](LocalFunctionality/Czech/customers-vendors-reconciliations.md)
+##### [Корректирующие документы продаж](LocalFunctionality/Czech/sales-correcting-documents.md)
+##### [Обновление контактов из ARES](LocalFunctionality/Czech/how-to-update-contacts-from-ares.md)
+##### [Новый дизайн выходных документов](LocalFunctionality/Czech/new-design-of-output-documents.md)
+##### [Компенсации](LocalFunctionality/Czech/ui-extensions-compensations-localization-cz.md)
 #### Запасы
-##### [Запасы](LocalFunctionality/Czech/inventory.md)
+##### [Учет раундов в запасах](LocalFunctionality/Czech/how-to-setup-round-account-in-inventory.md)
+##### [Усовершенствования в выверке запасов в главной книге](LocalFunctionality/Czech/how-to-use-inventory-gl-reconciliation-enhancements.md)
+##### [Расширенная функция инвентаризации](LocalFunctionality/Czech/advanced-features-physical-inventory.md)
+##### [Документы инвентаризации](LocalFunctionality/Czech/how-to-use-inventory-counting-documents.md)
+##### [Документы по складским операциям](LocalFunctionality/Czech/how-to-use-inventory-operations-document.md)
+##### [Учетные группы в заказах на перемещение](LocalFunctionality/Czech/how-to-use-posting-groups-in-transfer-orders.md)
 #### Общее
 ##### [Расширенный контроль пользователей](LocalFunctionality/Czech/general.md)
-##### [Рекомендации](LocalFunctionality/Czech/best-practices.md)
+##### [Контроль изменения учетной группы](LocalFunctionality/Czech/check-of-posting-group-changing.md)
+##### [Контроль последовательности складских операций](LocalFunctionality/Czech/check-output-inventory-time-sequence.md)
+##### [Шаблоны перемещения запасов](LocalFunctionality/Czech/inventory-movement-templates.md)
+##### [Шаблоны единиц хранения](LocalFunctionality/Czech/stockkeeping-unit-templates.md)
+##### [Обязательный точный возврат себестоимости в производстве](LocalFunctionality/Czech/how-to-setup-mandatory-return-exact-costs-manufacturing.md)
+##### [Учетная бизнес-группа по умолчанию в производстве](LocalFunctionality/Czech/how-to-setup-default-bus-post-group-manufacturing.md)
+##### [Учетная бизнес-группа по умолчанию в заказах на сборку](LocalFunctionality/Czech/how-to-setup-default-bus-post-group-assembly-orders.md)
+##### [Автоматическое создание и обновление измерений](LocalFunctionality/Czech/how-to-setup-automatic-creation-and-update-dimensions.md)
+##### [Добавление полей в товарные операции](LocalFunctionality/Czech/how-to-use-add-fields-item-entries.md)
+##### [Общая производственная учетная группа в единице хранения](LocalFunctionality/Czech/how-to-setup-gen-prod-posting-group-from-sku.md)
+##### [Пропуск обновления для складской единицы при учете](LocalFunctionality/Czech/how-to-setup-skip-update-sku-on-posting.md)
+##### [Нумерация нескладируемых товаров](LocalFunctionality/Czech/how-to-setup-nonstock-item-numbering.md)
 
 ### Дания
 #### [Локальная функциональность в датской версии](LocalFunctionality/Denmark/denmark-local-functionality.md)
@@ -1523,6 +1571,7 @@ ms.service: dynamics-365-business-central
 #### [Работа с отклонениями в оплате и отклонениями скидок по оплате](finance-payment-tolerance-and-payment-discount-tolerance.md)
 #### [Работа с учетными периодами и финансовыми годами](finance-accounting-periods-and-fiscal-years.md)
 #### [Настройка условий и уровней напоминаний](finance-setup-reminders.md)
+#### [Автоматизация напоминаний при сборе задолженностей](finance-automate-reminders.md)
 #### [Настройка условий процент-нот](finance-setup-finance-charges.md)
 #### [Настройка налога на добавленную стоимость (НДС)](finance-setup-vat.md)
 #### [Настройка методов расчета и учета налога на добавленную стоимость (НДС)](finance-setup-vat.md)
@@ -1584,15 +1633,14 @@ ms.service: dynamics-365-business-central
 #### [Категоризация товаров](inventory-how-categorize-items.md)
 #### [Импорт множественных изображений товаров](inventory-how-import-item-pictures.md)
 ### Настройка управления проектами
-#### [Настройка проектов](projects-setup-projects.md)
+#### [Настройка управления проектами](projects-setup-projects.md)
 #### [Настройка ресурсов](projects-how-setup-resources.md)
 #### [Настройка табелей учета рабочего времени](projects-how-setup-time-sheets.md)
-#### [Настройка работ](projects-how-setup-jobs.md)
+#### [Настройка проектов](projects-how-setup-jobs.md)
 ### Настройка основных средств
 #### [Настройка основных средств](fa-setup.md)
 #### [Настройка общей информации об основных средствах](fa-how-setup-general.md)
 #### [Настройка амортизации основных средств](fa-how-setup-depreciation.md)
-#### [Определение методов амортизации](fa-depreciation-methods.md)
 #### [Настройка пользовательских методов амортизации](fa-how-setup-user-defined-depreciation-method.md)
 #### [Настройка страхования основных средств](fa-how-setup-insurance.md)
 #### [Настройка обслуживания основных средств](fa-how-setup-maintenance.md)
@@ -1726,11 +1774,14 @@ ms.service: dynamics-365-business-central
 #### [Задание принтера по умолчанию](ui-specify-printer-selection-reports.md)
 ### [Настройка онлайн-карт](across-online-maps-setup.md)
 ### [Работа с Business Central на мобильном устройстве](install-mobile-app.md)
-### [Работа с Business Central на настольном компьютере](install-desktop-app.md)
-<!--Reporting landing page-->
-# Бизнес-аналитика и отчетность 
+### [Работа с Business Central на компьютере](install-desktop-app.md)
 
-## [Обзор](reports-bi-reporting.md)
+<!--Reporting landing page-->
+# Анализ, бизнес-аналитика и отчетность 
+
+## [Обзор аналитики](reports-bi-reporting.md)
+## [Использование ключевых показателей эффективности (КПЭ) для достижения бизнес-целей](./analytics-about-kpis.md)
+## [Использование бухгалтерской отчетности](bi-how-work-account-schedule.md)
 
 ## Использование отчетов в повседневной работе
 ### [Обзор](reports-use-reports.md)
@@ -1773,10 +1824,10 @@ ms.service: dynamics-365-business-central
 #### [Аудит выверки между книгой запасов и главной книгой](finance-how-to-post-inventory-costs-to-the-general-ledger.md#to-audit-the-reconciliation-between-the-inventory-ledger-and-the-general-ledger)
 #### [Просмотр переброшенных товаров в отгрузке или журнале подбора](warehouse-how-to-cross-dock-items.md#to-view-cross-docked-items-in-a-shipment-or-pick-worksheet)
 
-### Проекты
+### Проект
 #### [Отчеты по проектам](project-reports.md)
-#### [Просмотр оценок потребления работы](projects-how-record-job-usage.md#to-view-job-usage-estimates-and-post-updates)
-#### [Мониторинг хода выполнения работ](projects-how-monitor-progress-performance.md)
+#### [Просмотр оценок потребления для проекта](projects-how-record-job-usage.md#to-view-project-usage-estimates-and-post-updates)
+#### [Отслеживание хода выполнения проекта](projects-how-monitor-progress-performance.md)
 
 ### Основные средства
 #### [Отчеты по основным средствам](fa-reports.md)
@@ -1933,6 +1984,7 @@ ms.service: dynamics-365-business-central
 #### [Расширения для Business Central от других поставщиков](ui-extensions-other.md)
 ## Интеграция с другими приложениями Dynamics 365
 ### [Интеграция с Dynamics 365 Sales посредством синхронизации данных](admin-prepare-dynamics-365-for-sales-for-integration.md)
+### [Интеграция с Microsoft Dynamics 365 Field Service](admin-integrate-field-service.md)
 ## Интеграция с Microsoft Dataverse
 ### [Интеграция с Dataverse посредством синхронизации данных](admin-common-data-service.md)
 ### [Модели владения данными для синхронизации](admin-cds-company-concept.md)
@@ -2025,18 +2077,36 @@ ms.service: dynamics-365-business-central
 ## [Производительность](/dynamics365/business-central/dev-itpro/performance/performance-overview?toc=/dynamics365/business-central/toc.json)
 ## [Удаленные или нерекомендуемые функции](/dynamics365/business-central/dev-itpro/upgrade/deprecated-features-w1?toc=/dynamics365/business-central/toc.json)
 # Возможности Copilot и ИИ
+## [О Copilot в Business Central](copilot-overview.md)
 ## Управление возможностями Copilot и ИИ
 ### [Настройка возможностей Copilot и ИИ](enable-ai.md)
-### [Перемещение данных Copilot по географическим регионам](ai-copilot-data-movement.md)
+### [Перемещение данных Copilot между географическими регионами](ai-copilot-data-movement.md)
 ### [Устранение неполадок с возможностями Copilot и ИИ](ai-copilot-troubleshooting.md)
-## Помощь в выверке банковского счета (предварительная версия)
+## Помощь при анализе (предварительная версия)
+### [Анализ данных в списках с помощью Copilot](analysis-assist.md)
+### [Вопросы и ответы о помощи при анализе](faqs-analysis-assist.md)
+## Помощь при выверке банковских счетов (предварительная версия)
 ### [Выверка банковских счетов с помощью Copilot](bank-reconciliation-with-copilot.md)
-### [Вопросы и ответы о помощи в выверке банковского счета](faqs-bank-reconciliation.md)
+### [Вопросы и ответы о помощи при выверке банковских счетов](faqs-bank-reconciliation.md)
+## Чат с Copilot (предварительная версия)
+### [Чат с Copilot](chat-with-copilot.md?toc=/dynamics365/business-central/toc.json)
+### [Вопросы и ответы о чате с Copilot](chat-with-copilot-faq.md?toc=/dynamics365/business-central/toc.json)
+### [Вопросы и ответы об ответственном применении ИИ для чата с Copilot](faqs-chat-with-copilot.md?toc=/dynamics365/business-central/toc.json)
 ## Предлагаемые маркетинговые тексты
 ### [Обзор предлагаемых маркетинговых текстов](ai-overview.md)
 ### [Создание маркетингового текста с помощью Copilot](item-marketing-text.md)
 ### [Вопросы и ответы о предлагаемых маркетинговых текстах](faqs-marketing-text.md)
+## Предложение строк продаж (предварительная версия)
+### [Предложение строк в заказах на продажу с помощью Copilot](sales-suggest-sales-lines-with-copilot.md)
+### [Вопросы и ответы о предложении строк продаж с помощью Copilot](faq-sales-suggest-sales-lines-with-copilot.md)
+## Сопоставление электронных документов (предварительная версия)
+### [Сопоставление электронных документов со строками заказов на покупку с помощью Copilot](map-edocuments-with-copilot.md)
+### [Вопросы и ответы о сопоставлении электронных документов с заказами на покупку с помощью Copilot](faqs-map-edocuments.md)
 # Ответственное применение ИИ
 ## [Обзор](responsible-ai-overview.md)
-## [Вопросы и ответы о помощи в выверке банковского счета (предварительная версия)](faqs-bank-reconciliation.md)
+## [Вопросы и ответы о помощи при анализе (предварительная версия)](faqs-analysis-assist.md)
+## [Вопросы и ответы о помощи при выверке банковских счетов (предварительная версия)](faqs-bank-reconciliation.md)
+## [Вопросы и ответы о чате с Copilot (предварительная версия)](faqs-chat-with-copilot.md)
 ## [Вопросы и ответы о предлагаемых маркетинговых текстах](faqs-marketing-text.md)
+## [Вопросы и ответы о предложении строк продаж с помощью Copilot (предварительная версия)](faq-sales-suggest-sales-lines-with-copilot.md)
+## [Вопросы и ответы о сопоставлении электронных документов с заказами на покупку с помощью Copilot (предварительная версия)](faqs-map-edocuments.md)
