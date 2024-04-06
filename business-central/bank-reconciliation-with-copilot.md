@@ -12,13 +12,13 @@ ms.date: 10/25/2023
 ms.custom: bap-template
 ---
 
-# Выверка банковских счетов с помощью Copilot (предварительная версия)
+# <a name="reconcile-bank-accounts-with-copilot-preview"></a>Выверка банковских счетов с помощью Copilot (предварительная версия)
 
 [!INCLUDE[production-ready-preview-dynamics365](includes/production-ready-preview-dynamics365.md)]
 
 В этой статье объясняется, как использовать помощник по выверке банковских счетов, чтобы сверить банковские операции с записями книги учета в Business Central.
 
-## О помощи в выверке банковского счета
+## <a name="about-bank-account-reconciliation-assist"></a>О помощи в выверке банковского счета
 
 Помощь в выверке банковских счетов — это набор функций на базе искусственного интеллекта, которые помогут вам выверять банковские счета. Помощь в выверке банковских счетов через Copilot предлагает вам две различные задачи:
 
@@ -36,14 +36,14 @@ ms.custom: bap-template
 
 
    
-## Предварительные требования
+## <a name="prerequisites"></a>Предварительные требования
 
 - Помощник по выверке банковских счетов включен и активирован. Эту задачу выполняет администратор. [Узнайте больше о включении возможностей Copilot и ИИ](enable-ai.md).
 - Банковские счета в Business Central, для которых вы хотите произвести выверку, связаны со счетом онлайн-банка или настроены с использованием формата импорта банковских выписок. 
 - Вы знакомы с выверкой банковских счетов в Business Central, как описано в разделе [Выверка банковских счетов](bank-how-reconcile-bank-accounts-separately.md). 
 
 <!--H2s. Required. A how-to article explains how to do a task. The bulk of each H2 should be a procedure.-->
-## Выверка банковских счетов с помощью Copilot
+## <a name="reconcile-bank-accounts-with-copilot"></a>Выверка банковских счетов с помощью Copilot
 
 <!-- Similar to the **Match Automatically** capability on the **Bank Acc. Reconciliation** page, Bank account reconciliation assist can also automatically matches transactions in banks statements with bank entries. The difference is that **Match Automatically** uses a native rules-based algorithm, while Bank account reconciliation assist is based AI technology though Copilot. Bank account reconciliation assist is intended to supplement the **Match Automatically** capability. While **Match Automatically** is fairly successful at matching transactions, there are some instances where it can't&mdash;which is where Bank account reconciliation assist comes. By using the **Reconcile with Copilot** action on **Bank Acc. Reconciliation** page, you can find even more matches.-->
 
@@ -87,7 +87,7 @@ Copilot при выверке банковских счетов предназн
 1. Проверьте предложенные сопоставления, как описано в следующем разделе. 
 ---
 
-### Просмотрите, сохраните или отмените предложенные сопоставления
+### <a name="review-save-or-discard-proposed-matches"></a>Просмотрите, сохраните или отмените предложенные сопоставления
 
 После запуска Copilot в окне **Выверка с помощью Copilot** отображаются подробные результаты, включая все предложенные сопоставления. На данный момент ни одно сопоставление, предложенное Copilot, не было сохранено, поэтому у вас есть возможность проверить предложения и сохранить или удалить их по своему усмотрению.
 
@@ -102,7 +102,7 @@ Copilot при выверке банковских счетов предназн
 |Конечное сальдо выписки|Определяет конечное сальдо в банковской выписке, с которой нужно провести выверку|
 |Учесть в случае полного применения|Включите этот переключатель, если вы хотите автоматически проводить выверку банковского счета, когда все строки (100%) сопоставлены и вы выбрали **Сохранить**.|
 
-#### Сохранение или отмена предложенных сопоставлений
+#### <a name="save-or-discard-proposed-matches"></a>Сохранение или отмена предложенных сопоставлений
 
 В разделе **Сопоставленные предложения** просмотрите предлагаемые сопоставления построчно, затем выполните соответствующие действия:
 
@@ -114,7 +114,7 @@ Copilot при выверке банковских счетов предназн
 - Чтобы сохранить сопоставления, отображаемые в данный момент в окне Copilot, выберите **Оставить**.
 
 
-## Перенос несопоставленных банковских транзакций на предложенные счета главной книги
+## <a name="transfer-unmatched-bank-transactions-to-suggested-general-ledger-accounts"></a>Перенос несопоставленных банковских транзакций на предложенные счета главной книги
 
 В этом разделе вы узнаете, как использовать Copilot для переноса невыверенных выписок по банковскому счету из книги банковских счетов на счет главной книги. Эту задачу можно выполнить только на основе существующей выверки. 
 
@@ -151,11 +151,11 @@ Copilot при выверке банковских счетов предназн
 
       Этот шаг подтверждает перенос выбранных в данный момент предложений из книги банковских счетов на счет главной книги. Он учитывает новые платежи по предлагаемым счетам ГК и применяет соответствующие строки к результирующим записям книги банковских счетов.
 
-## Дальнейшие шаги
+## <a name="next-steps"></a>Дальнейшие шаги
 
 [Проверка выверки банковских счетов](bank-how-reconcile-bank-accounts-separately.md#validate-your-bank-reconciliation)  
 
-## См. также
+## <a name="see-also"></a>См. также
 [Устранение неполадок с возможностями Copilot и ИИ](ai-copilot-troubleshooting.md)  
 [Вопросы и ответы по ответственному использованию ИИ для помощи в выверке банковского счета](faqs-bank-reconciliation.md)  
 [Настройка банковских операций](bank-setup-banking.md)  
