@@ -12,7 +12,7 @@ ms.collection:
   - bap-ai-copilot
 ---
 
-# Настройка возможностей Copilot и ИИ 
+# <a name="configure-copilot-and-ai-capabilities"></a>Настройка возможностей Copilot и ИИ
 
 <!--[!INCLUDE[ai-preview](includes/ai-preview.md)]-->
 
@@ -37,12 +37,12 @@ ms.collection:
 
 Если какие-либо из этих требований не выполняются, функция недоступна для использования.-->
 
-## Предварительные требования
+## <a name="prerequisites"></a>Предварительные требования
 
 - Вы используете Business Central Online <!--[preview version](ai-preview-getstarted.md) of Business Central that's enabled for Copilot.-->
 - У вас есть права администратора или суперпользователя в Business Central.  <!--For more information, go to [Configure AI-powered item marketing text with Copilot](enable-ai.md).-->
 
-## Разрешение перемещения данных между географическими регионами
+## <a name="allow-data-movement-across-geographies"></a>Разрешение перемещения данных между географическими регионами
 
 Эта задача применима только в том случае, если переключатель **Разрешить перемещение данных** появляется в верхней части страницы **Возможности Copilot и ИИ**. Если вместо переключателя **Разрешить перемещение данных** отображается ссылка **Как управлять своими данными Copilot?**, пропустите этот шаг.
 
@@ -79,7 +79,7 @@ Meanwhile, customers with environments outside the United States can use Copilot
 
 The information in the following table outlines the Azure OpenAI service that's used by the Copilot services based on the geography of their Dynamics 365 environment when they opt-in to share data.-->
 
-## Активирование функций
+## <a name="activate-features"></a>Активирование функций
 
 Все возможности Copilot и ИИ активны по умолчанию, когда предлагаются в качестве предварительной версии или становятся общедоступными. Используя страницу **Возможности Copilot и ИИ**, вы можете отключать и снова включать отдельные функции для всех пользователей.
 
@@ -95,7 +95,7 @@ The information in the following table outlines the Azure OpenAI service that's 
 <!-- don't review 
 
 <!-- For 2024 there are no AI features governed by **Feature Management**, so this section is not shown
-## Enable feature in Feature Management
+## <a name="enable-feature-in-feature-management"></a>Enable feature in Feature Management
 
 When individual Copilot capabilities are released in Business Central minor updates, these capabilities are optional until the next major update. **Feature Management** is used to turn on or off features that are in preview, like bank reconciliation, and some features that are generally available, like marketing text suggestions. [Learn more about feature management](/dynamics365/business-central/dev-itpro/administration/feature-management).
 
@@ -108,7 +108,7 @@ When individual Copilot capabilities are released in Business Central minor upda
 
    For more information about feature management in general, go to [Feature Management](/dynamics365/business-central/dev-itpro/administration/feature-management).-->
 
-## Предоставление доступа пользователям
+## <a name="granting-user-access"></a>Предоставление доступа пользователям
 
 Возможности Copilot и ИИ могут содержать функциональность, предназначенную для любых пользователей в вашей организации или для пользователей с конкретными ролями. Большинство возможностей Copilot и ИИ предусматривают управление доступом с использованием разрешений и наборов разрешений в системе управления разрешениями Business Central. [Узнайте больше о разрешениях и наборах разрешений](ui-define-granular-permissions.md).
 
@@ -123,7 +123,7 @@ When individual Copilot capabilities are released in Business Central minor upda
 
 Чтобы предоставить или запретить доступ к определенным возможностям помощника, не связанного с Microsoft, и ИИ, сверьтесь с документацией по этой функции или обратитесь к ее к издателю, чтобы узнать, какие разрешения необходимы.
 
-## Дальнейшие шаги
+## <a name="next-steps"></a>Дальнейшие шаги
 
 После того как вы активируете функции и дадите согласие на их использование, вы готовы опробовать их. Переходите к разделам:
 
@@ -132,7 +132,7 @@ When individual Copilot capabilities are released in Business Central minor upda
 - [Чат с Copilot](chat-with-copilot.md)
 - [Выверка с использованием помощи в выверке банковских счетов](bank-reconciliation-with-copilot.md)
 
-## См. также
+## <a name="see-also"></a>См. также
 
 [Устранение неполадок с возможностями Copilot и ИИ](ai-copilot-troubleshooting.md)  
 [Вопросы и ответы о помощи при анализе](faqs-analysis-assist.md)  

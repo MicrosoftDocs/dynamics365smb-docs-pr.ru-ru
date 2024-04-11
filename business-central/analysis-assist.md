@@ -10,7 +10,7 @@ ms.custom: bap-template
 ms.service: dynamics-365-business-central
 ms.search.form: '456, 457, 458, 459, 460, 461, 16, 22, 25, 26, 27, 31, 143, 144, 9300, 9301, 9303, 9304, 9305, 9306, 9307, 9309, 9310, 9311'
 ---
-# Анализ данных в списках с помощью Copilot (предварительная версия)
+# <a name="analyze-data-in-lists-with-help-from-copilot-preview"></a>Анализ данных в списках с помощью Copilot (предварительная версия)
 
 [!INCLUDE[preview-banner](includes/preview-banner.md)]
 
@@ -18,7 +18,7 @@ ms.search.form: '456, 457, 458, 459, 460, 461, 16, 22, 25, 26, 27, 31, 143, 144,
 
 [!INCLUDE[production-ready-preview-dynamics365](includes/production-ready-preview-dynamics365.md)]
 
-## Сведения о помощи при анализе
+## <a name="about-analysis-assist"></a>Сведения о помощи при анализе
 
 Помощь при анализе — это Copilot для [режима анализа](analysis-mode.md) на страницах списков в Business Central. Режим анализа обеспечивает интерактивный и универсальный способ для выполнения вычислений, подведения итогов и изучения данных. Для анализа данных в режиме анализа вы создаете вкладку *анализ*, на которой преобразуете данные для отображения нужных агрегаций и обобщений. Например, вы упорядочиваете поля в строках и столбцах, указываете фильтры, сортируете столбцы и сводите поля. С помощью при анализе вместо того, чтобы выполнять эту задачу вручную, вы достигаете почти того же, &mdash; или, по крайней мере, можете начать, &mdash; с помощью слов. Выражая нужную структуру на естественном языке, например «отсортировать по количеству от меньшего к большему» или «показать среднюю стоимость по категории», помощь при анализе использует искусственный интеллект для создания предлагаемого макета на вкладке анализа.
 
@@ -27,7 +27,7 @@ ms.search.form: '456, 457, 458, 459, 460, 461, 16, 22, 25, 26, 27, 31, 143, 144,
 
  However, the data analysis mode requires some understanding of how to structure fields to meet the desired aggregations and summarizations. It requires you to move fields around to the appropriate areas within analysis mode pane which data rows and columns to display, specify filters, sorting, grouping, pivoting and totals. Analysis assist minimizes these requirments by enabling you to express the desired layout in words. , like "group which data rows and columns to display, specify filters, sorting, grouping, pivoting and totals
 --> 
-## Предварительные требования
+## <a name="prerequisites"></a>Предварительные требования
 
 - Функция помощи при анализе активирована, и вам предоставлены разрешения на ее использование. Эта задача обычно выполняется администратором. [Подробнее о настройке возможностей Copilot и ИИ](enable-ai.md).
 - В качестве языка отображения в Business Central установлен один из следующих английских языков: en-AU, en-CA, en-GB, en-IE, en-IN, en-NZ, en-PH, en-SG, en-US, en-ZA. [Узнайте больше об изменении языка](ui-change-basic-settings.md#language).
@@ -37,7 +37,7 @@ ms.search.form: '456, 457, 458, 459, 460, 461, 16, 22, 25, 26, 27, 31, 143, 144,
 > [!NOTE]
 > You may notice some list pages that don't include the **Analyze** switch for changing to the analysis mode. The reason is that developers can disable analysis mode on specific pages by using the [AnalysisModeEnabled property](/dynamics365/business-central/dev-itpro/developer/properties/devenv-analysismodeenabled-property) in AL.-->
 
-## Начало работы
+## <a name="get-started"></a>Начало работы
 
 1. Откройте страницу списка, которую требуется проанализировать.
 
@@ -69,7 +69,7 @@ ms.search.form: '456, 457, 458, 459, 460, 461, 16, 22, 25, 26, 27, 31, 143, 144,
 
 1. Если хотите сохранить вкладку анализа, выберите **Оставить**. Если вы не хотите ее сохранять, выберите **Удалить**.
 
-## Советы и примеры запросов
+## <a name="prompt-tips-and-examples"></a>Советы и примеры запросов
 
 Создание эффективных запросов для Copilot необходимо для получения точных и актуальных предложений по анализу. Существуют также способы минимизировать текст, добавляемый в запросы, чтобы ускорить его ввод. Вот несколько советов и рекомендаций, сопровождаемых примерами:
 
@@ -81,7 +81,7 @@ ms.search.form: '456, 457, 458, 459, 460, 461, 16, 22, 25, 26, 27, 31, 143, 144,
 - Допускаются общепринятые сокращения.
 - Регистр букв не важен.
 
-### Примеры
+### <a name="examples"></a>Примеры
 
 В следующих примерах запросов используется помощь при анализе списка **Товары**. Страница товаров содержит три суммируемых поля для анализа: **Количество в наличии**, **Себестоимость единицы продукции**, **Цена за единицу**.
 
@@ -97,7 +97,7 @@ ms.search.form: '456, 457, 458, 459, 460, 461, 16, 22, 25, 26, 27, 31, 143, 144,
 
 Этот запрос создает сводную таблицу для поля **Количество в наличии** по параметрам **Базовая единица измерения** и **Тип**.
 
-## См. также
+## <a name="see-also"></a>См. также
 
 [Часто задаваемые вопросы об ответственном использовании ИИ для помощи при анализе](faqs-analysis-assist.md)  
 [Специальный анализ данных](reports-adhoc-analysis.md)  
