@@ -1,12 +1,12 @@
 ---
 title: Исправление или отмена учтенного счета продажи
-description: 'В этой теме описывается, как исправить или отменить учтенный счет продажи и применить кредит-ноту продажи.'
+description: 'В этой статье описывается, как исправить или отменить учтенный счет продажи и применить кредит-ноту продажи.'
 author: brentholtorf
 ms.author: bholtorf
 ms.reviewer: ivkoleti
 ms.topic: conceptual
 ms.search.keywords: 'undo, credit memo, return'
-ms.date: 02/20/2024
+ms.date: 03/05/2024
 ms.service: dynamics-365-business-central
 ms.custom: bap-template
 ---

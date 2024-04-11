@@ -5,7 +5,7 @@ author: brentholtorf
 ms.author: bholtorf
 ms.reviewer: ivkoleti
 ms.topic: conceptual
-ms.date: 06/28/2023
+ms.date: 03/08/2024
 ms.custom: bap-template
 ms.service: dynamics-365-business-central
 ---
@@ -70,6 +70,12 @@ ms.service: dynamics-365-business-central
 
 * Суммы в базовой валюте [!INCLUDE[prod_short](includes/cds_long_md.md)] конвертируются в местную валюту [!INCLUDE [prod_short](includes/prod_short.md)] на основе последнего обменного курса, синхронизированного с [!INCLUDE [prod_short](includes/prod_short.md)].
 * Суммы в местной валюте [!INCLUDE [prod_short](includes/prod_short.md)] синхронизируются с местной валютой [!INCLUDE [prod_short](includes/prod_short.md)] в одной из других (не базовых) валют в [!INCLUDE[prod_short](includes/cds_long_md.md)].
+
+## Что происходит, когда вы копируете компанию
+
+Вы можете безопасно копировать компании, которые интегрируются с [!INCLUDE[prod_short](includes/cds_long_md.md)] или [!INCLUDE[crm_md](includes/crm_md.md)]. Копирование компаний помогает снизить риск несогласованности данных и сэкономить ваше драгоценное время. Чтобы узнать больше о копировании компаний, перейдите в раздел [Копирование компании](about-new-company.md#copy-a-company).
+
+[!INCLUDE [dataverse-copy-company](includes/dataverse-copy-company.md)]
 
 ## См. также
 

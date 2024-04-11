@@ -6,7 +6,7 @@ ms.topic: conceptual
 ms.service: dynamics-365-business-central
 ms.search.keywords: 'find, search, Tell Me'
 ms.search.form: TellMe
-ms.date: 09/21/2023
+ms.date: 03/20/2024
 ms.author: bholtorf
 ms.reviewer: bholtorf
 ms.custom: bap-template
@@ -41,7 +41,7 @@ ms.custom: bap-template
 
 ## Доступна ли функция "Что вы хотите сделать" для всех форм-факторов?
 
-Да. На телефонах и планшетах она появилась в волне 2 выпуска Business Central 2023, однако ее необходимо включить на странице [Управление функциями](/dynamics365/business-central/dev-itpro/administration/feature-management) с помощью переключателя **Функция: поиск страниц и данных в мобильном приложении**. 
+Да. Она впервые появилась на телефонах и планшетах в волне 2 выпуска Business Central 2023 года. В волне 2 выпуска 2023 года эту функцию необходимо включить на странице [Управление функциями](/dynamics365/business-central/dev-itpro/administration/feature-management) с помощью переключателя **Функция: поиск страниц и данных в мобильном приложении**. В волне 1 выпуска 2024 года и более поздних версиях она всегда включена.
 
 <!-- removed in v20 because of Help pane
 ### Are the documentation results available in any language?

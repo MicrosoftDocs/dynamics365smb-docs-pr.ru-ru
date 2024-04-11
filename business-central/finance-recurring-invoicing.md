@@ -7,7 +7,7 @@ ms.devlang: al
 ms.search.keywords: 'recurring, invoicing, subscription, billing'
 ms.search.form: 283
 ms.reviewer: bholtorf
-ms.date: 04/01/2021
+ms.date: 03/07/2024
 ms.author: bholtorf
 ms.service: dynamics-365-business-central
 ---
@@ -28,19 +28,19 @@ ms.service: dynamics-365-business-central
 
 Дополнительные сведения см. в разделе [Работа с типовыми журналами](ui-work-general-journals.md#work-with-recurring-journals).  
 
-## Создание нескольких счетов на основе типового журнала работ
+## Создание нескольких счетов на основе типового журнала проекта
 
 Типовой журнал работ — более продвинутая альтернатива общему журналу. Вы определяете товары, ресурсы и счета ГК, которые должны повторяться для каждой работы, и указываете частоту повторения.  
 
-После публикации типовой журнал работы вы можете создать несколько счетов с помощью задания **Создать счет продаж работ**. Вы можете проверить и опубликовать созданные счета на странице **Счета продаж**.
+После публикации типовой журнал проекта вы можете создать несколько счетов с помощью задания **Создать счет продаж работ**. Вы можете проверить и опубликовать созданные счета на странице **Счета продаж**.
 
 ### Зачем использовать эту опцию
 
-Используя эту опцию, вы следуете стандартной процедуре выставления счетов со всеми ее преимуществами, включая стандартные и пользовательские макеты для коммуникации. Вы также можете определить цены для каждой работы в отдельности.
+Используя эту опцию, вы следуете стандартной процедуре выставления счетов со всеми ее преимуществами, включая стандартные и пользовательские макеты для коммуникации. Вы также можете определить цены для каждого проекта в отдельности.
 
-Однако для каждого нового клиента необходимо создать новую работу и добавить строки в типовой журнал. 
+Однако для каждого нового клиента необходимо создать новый проект и добавить строки в типовой журнал. 
 
-Для получения дополнительной информации см. [Создание строк журнала работ](projects-how-record-job-usage.md#to-create-job-journal-lines-manually) и [Создание нескольких счетов продажи по работам](projects-how-invoice-jobs.md#to-create-multiple-job-sales-invoices).
+Для получения дополнительной информации см. [Создание строк журнала проекта](projects-how-record-job-usage.md#to-create-project-journal-lines-manually) и [Создание нескольких счетов продажи по проектам](projects-how-invoice-jobs.md#to-create-multiple-project-sales-invoices).
 
 ## Создание нескольких счетов на основе типовых строк продаж
 
@@ -106,8 +106,8 @@ ms.service: dynamics-365-business-central
 
 [Формулы даты](ui-enter-date-ranges.md#use-date-formulas)  
 [Работа с типовыми журналами](ui-work-general-journals.md#work-with-recurring-journals)  
-[Создание строк журнала работ](projects-how-record-job-usage.md#to-create-job-journal-lines-manually)  
-[Создание нескольких счетов продажи по работам](projects-how-invoice-jobs.md#to-create-multiple-job-sales-invoices)  
+[Создание строк журнала проекта](projects-how-record-job-usage.md#to-create-project-journal-lines-manually)  
+[Создание нескольких счетов продажи по проекту](projects-how-invoice-jobs.md#to-create-multiple-project-sales-invoices)  
 [Создание типовых строк продажи и покупки](sales-how-work-standard-lines.md)  
 [Работа с сервисными контрактами и предложениями по сервисным контрактам](service-how-to-create-service-contracts-and-service-contract-quotes.md)  
 [Выставление счетов по нескольким сервисным контрактам](service-how-create-invoices.md#to-invoice-several-service-contracts)  

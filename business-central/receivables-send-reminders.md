@@ -1,14 +1,14 @@
 ---
 title: Отправка напоминания о непогашенных остатках задолженности
-description: 'Узнайте, как напомнить клиенту о просроченном платеже.  напоминания клиентам о предстоящих платежах, а также добавление штрафов к платежам из-за задержки с оплатой.'
+description: 'Узнайте, как напомнить клиенту о просроченном платеже.'
 author: brentholtorf
 ms.topic: conceptual
-ms.devlang: al
 ms.search.keywords: 'payment due, debt, overdue, fee, charge, reminder'
 ms.search.form: '436, 437, 442, 431, 432, 434'
-ms.date: 02/09/2022
+ms.date: 03/12/2024
 ms.author: bholtorf
 ms.service: dynamics-365-business-central
+ms.custom: bap-template
 ---
 # Отправка напоминаний о задолженностях
 

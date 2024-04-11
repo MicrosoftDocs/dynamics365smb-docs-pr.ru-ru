@@ -5,7 +5,7 @@ author: jswymer
 ms.topic: overview
 ms.custom: bap-template
 ms.search.keywords: version
-ms.date: 12/13/2023
+ms.date: 03/11/2024
 ms.review: jswymer
 ms.author: jswymer
 ms.service: dynamics-365-business-central
@@ -35,7 +35,7 @@ ms.service: dynamics-365-business-central
 
 ## Outlook
 
-**Приложения Outlook:** для использования [!INCLUDE[prod_short](includes/prod_short.md)] Online в качестве папки «Входящие» для бизнеса в Outlook требуется Outlook 2019 или более поздней версии либо Outlook в Интернете. Ваша организация также должна использовать Microsoft 365. Вы не можете использовать [!INCLUDE[prod_short](includes/prod_short.md)] Online как папку "Входящие" для бизнеса в Outlook, если ваша организация использует локальный сервер Exchange. 
+**Приложения Outlook:** для использования [!INCLUDE[prod_short](includes/prod_short.md)] Online в качестве папки «Входящие» для бизнеса в Outlook требуется Outlook 2021 или более поздней версии либо Outlook в Интернете. Ваша организация также должна использовать Microsoft 365. Вы не можете использовать [!INCLUDE[prod_short](includes/prod_short.md)] Online как папку "Входящие" для бизнеса в Outlook, если ваша организация использует локальный сервер Exchange. 
 
 **Браузеры:** при использовании [!INCLUDE[prod_short](includes/prod_short.md)] в качестве папки «Входящие» для бизнеса в Outlook в браузере надстройка требует, чтобы на компьютере был установлен один из браузеров, перечисленных в качестве поддерживаемых ранее в этой статье. 
 
@@ -51,7 +51,7 @@ ms.service: dynamics-365-business-central
 
 ## Excel
 
-**Изменить в Excel:** Для использования надстройки Excel для внесения изменений в Excel и оправки этих изменений обратно в [!INCLUDE[prod_short](includes/prod_short.md)] необходимо иметь Excel 2019 или более поздней версии. Дополнительные сведения см. в разделе [Анализ финансовых выписок в Microsoft Excel](finance-analyze-excel.md).  
+**Изменить в Excel:** Для использования надстройки Excel для внесения изменений в Excel и оправки этих изменений обратно в [!INCLUDE[prod_short](includes/prod_short.md)] необходимо иметь Excel 2021 или более поздней версии. Дополнительные сведения см. в разделе [Анализ финансовых выписок в Microsoft Excel](finance-analyze-excel.md).  
 
 ## <a name="TAC"></a> Использование центра администрирования Business Central
 

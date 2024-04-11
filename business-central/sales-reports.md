@@ -1,17 +1,17 @@
 ---
-title: Отчеты о покупках и аналитика
-description: 'Посмотрите, какие отчеты о покупках и аналитика доступны в стандартной версии Business Central, чтобы вы могли отслеживать свой бизнес.'
+title: Отчеты и аналитика по продажам
+description: 'Узнайте, какие средства отчетности и аналитики по продажам доступны в стандартной версии Business Central, чтобы вы могли отслеживать свой бизнес.'
 author: brentholtorf
 ms.topic: conceptual
 ms.search.keywords: reporting
 ms.search.form: 'Report_107, Report_111, Report_112, Report_113, Report_119, Report_121, Report_129, Report_209, Report_708, Report_713, Report_718, Report_813, Report_7313'
-ms.date: 12/19/2023
+ms.date: 01/29/2024
 ms.author: bholtorf
 ms.service: dynamics-365-business-central
 ---
-# Отчеты о покупках и аналитика в Business Central
+# Отчеты и аналитика по продажам в Business Central
 
-Отчетность о покупках в [!INCLUDE [prod_short](includes/prod_short.md)] позволяет профессионалам по продажам и бизнесу получать информацию и статистические данные о текущей и прошлой деятельности по покупкам.  
+Отчетность по продажам в [!INCLUDE [prod_short](includes/prod_short.md)] позволяет специалистам по продажам и бизнес-руководителям получать информацию и статистику по текущей и прошлой деятельности по продажам.  
 
 ## Отчеты
 [!INCLUDE [sales_reports](includes/sales-reports-include.md)]

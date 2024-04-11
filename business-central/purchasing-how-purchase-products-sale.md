@@ -6,7 +6,7 @@ ms.topic: conceptual
 ms.devlang: al
 ms.search.keywords: 'supply planning, sales demand, replenish'
 ms.search.form: '50, 51, 56, 9308'
-ms.date: 04/01/2021
+ms.date: 03/14/2024
 ms.author: bholtorf
 ms.service: dynamics-365-business-central
 ---
@@ -61,7 +61,7 @@ ms.service: dynamics-365-business-central
 ## См. также
 [Покупки](purchasing-manage-purchasing.md)  
 [Регистрация покупок](purchasing-how-record-purchases.md)  
-[Выставление счетов продажи](sales-how-invoice-sales.md)  
+[Выставление счетов по продаже](sales-how-invoice-sales.md)  
 [Регистрация новых поставщиков](purchasing-how-register-new-vendors.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
 

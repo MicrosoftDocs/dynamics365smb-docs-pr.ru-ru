@@ -2,11 +2,12 @@
 title: Подключение к Microsoft Dataverse (содержит видео)
 description: 'Настройка подключения между Business Central и Dataverse. Как правило, предприятия создают соединение для интеграции данных с другим бизнес-приложением Dynamics 365.'
 author: brentholtorf
+ms.author: bholtorf
+ms.reviewer: ivkoleti
 ms.topic: conceptual
 ms.search.keywords: null
 ms.search.forms: '7200, 7201'
-ms.date: 09/28/2023
-ms.author: bholtorf
+ms.date: 02/28/2024
 ms.service: dynamics-365-business-central
 ---
 # Подключение к Microsoft Dataverse
@@ -30,6 +31,12 @@ ms.service: dynamics-365-business-central
 > [!Note]
 > Эти шаги описывают процедуру для [!INCLUDE[prod_short](includes/prod_short.md)] Online.
 > Если вы используете локальную версию [!INCLUDE[prod_short](includes/prod_short.md)] и не используете учетную запись Microsoft Entra для подключения к [!INCLUDE [cds_long_md](includes/cds_long_md.md)], вы также должны указать имя пользователя и пароль учетной записи пользователя для интеграции. Эта учетная запись называется учетной записью "пользователя интеграции". Если вы используете учетную запись Microsoft Entra, учетная запись пользователя интеграции не требуется и не отображается. Пользователь интеграции будет настроен автоматически и не потребует лицензии.
+
+## Связывание сред Business Central и Dataverse
+
+Компании хотят, чтобы их данные были в безопасности и защищены в пределах своих границ конфиденциальности, особенно когда их приложение для управления бизнесом интегрируется с другими приложениями. Связывая среды [!INCLUDE [prod_short](includes/prod_short.md)] и [!INCLUDE[cds_long_md](includes/cds_long_md.md)], вы не только достигнете этих целей, но и предоставите своим администраторам более простой способ создания и поддержки вашей интеграции с другими приложениями Dynamics 365.
+
+В центре администрирования [!INCLUDE [prod_short](includes/prod_short.md)] вы можете связать свою среду [!INCLUDE [prod_short](includes/prod_short.md)] со своей средой [!INCLUDE [cds_long_md](includes/cds_long_md.md)]. [!INCLUDE [prod_short](includes/prod_short.md)] может использовать информацию по ссылке, чтобы упростить и повысить безопасность интеграции с другими приложениями Dynamics 365, такими как Sales и Field Service. Например, URL-адрес связанной среды [!INCLUDE [cds_long_md](includes/cds_long_md.md)] доступен по умолчанию на странице **Настройка подключения Dataverse** и при запуске мастера настройки **Настройка подключения Dataverse**.
 
 ## Использование разных валют
 

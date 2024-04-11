@@ -107,7 +107,7 @@ Most flows require you to fill in a field or two before you choose the **Run flo
 Некоторые задачи обычно выполняются администраторами или суперпользователями. Эти задачи требуют более обширных знаний о бизнес-процессах в [!INCLUDE[prod_short](includes/prod_short.md)]. Подробнее см. в следующих статьях в справке для разработчиков и ИТ-специалистов Business Central:
 
 - [Интеграция с Power Automate](/dynamics365/business-central/dev-itpro/powerplatform/power-automate-overview)
-- [Создание автоматизированных потоков](/dynamics365/business-central/dev-itpro/powerplatform/instant-flows) (в этой статье также рассматриваются потоки утверждения)
+- [Создание автоматизированных потоков](/dynamics365/business-central/dev-itpro/powerplatform/automate-workflows) (в этой статье также рассматриваются потоки утверждения)
 - [Создание мгновенных потоков](/dynamics365/business-central/dev-itpro/powerplatform/instant-flows)
 - [Управление потоками Power Automate](/dynamics365/business-central/dev-itpro/powerplatform/manage-power-automate-flows)
 <!-- 

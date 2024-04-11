@@ -1,7 +1,7 @@
 ---
 title: Вопросы и ответы об ответственном применении ИИ для Dynamics 365 Business Central
 description: 'Вопросы и ответы об ответственном применении ИИ содержат информацию о технологии ИИ, используемой в Business Central, включая ключевые соображения и сведения о том, как используется ИИ, как он тестировался и оценивался, а также о конкретных ограничениях, если они существуют.'
-ms.date: 10/29/2023
+ms.date: 03/27/2024
 ms.custom:
   - responsible-ai-faqs
 ms.topic: article
@@ -18,5 +18,9 @@ ms.collection:
 
 [!INCLUDE[responsible-ai-features](includes/responsible-ai-features.md)]
 
+- [Помощь при анализе (предварительная версия)](faqs-analysis-assist.md)
 - [Помощь в выверке банковского счета (предварительная версия)](faqs-bank-reconciliation.md)
+- [Чат с Copilot (предварительная версия)](faqs-chat-with-copilot.md)
 - [Предлагаемые маркетинговые тексты](faqs-marketing-text.md)
+- [Предложения строк продаж с помощью Copilot (предварительная версия)](faq-sales-suggest-sales-lines-with-copilot.md)
+- [Сопоставление электронных документов со строками заказов на покупку с помощью Copilot (предварительная версия)](map-edocuments-with-copilot.md)
