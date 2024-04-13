@@ -471,6 +471,8 @@ ms.service: dynamics-365-business-central
 
 ### Бухгалтерская отчетность (реализация бухгалтерской отчетности и КПЭ)
 #### [Подготовка бухгалтерской отчетности](bi-how-work-account-schedule.md)
+#### [Определения строк в бухгалтерской отчетности](bi-row-definitions.md)
+#### [Определения столбцов в бухгалтерской отчетности](bi-column-definitions.md)
 #### [Пошаговое руководство. Использование бухгалтерской отчетности для создания прогнозов движения денежных средств](walkthrough-making-cash-flow-forecasts-by-using-account-schedules.md)
 #### [Настройка и публикация веб-службы КПЭ на основе бухгалтерской отчетности](bi-how-to-set-up-and-publish-kpi-web-services-based-on-account-schedules.md)
 #### [Анализ данных с помощью статистических счетов](bi-use-statistical-accounts.md)
@@ -1049,6 +1051,7 @@ ms.service: dynamics-365-business-central
 
 ### Исландия
 #### [Локальная функциональность в исландской версии](LocalFunctionality/Iceland/iceland-local-functionality.md)
+#### [Настройка основного приложения Исландии W1](LocalFunctionality/Iceland/iceland-global-core-app.md)
 #### НДС
 ##### [Печать сводной информации об НДС в документах](LocalFunctionality/Iceland/how-to-print-vat-summary-information-on-documents.md)  
 ##### [Вывод особых данных и отчетов для налогового органа](LocalFunctionality/Iceland/special-data-output-and-reports-for-the-tax-authority.md)
@@ -1057,6 +1060,7 @@ ms.service: dynamics-365-business-central
 #### Общее  
 ##### [Сопоставление кодов IRS с планом счетов](LocalFunctionality/Iceland/how-to-map-irs-numbers-to-chart-of-accounts.md)  
 ##### [Удаление учтенных счетов и кредит-нот](LocalFunctionality/Iceland/deleting-posted-invoices-and-credit-memos.md)  
+##### [Регистрационный номер в исландской локализации](LocalFunctionality/Iceland/use-registration-no.md)
 
 ### Индия
 #### [Обзор](LocalFunctionality/India/india-local-functionality.md)
@@ -1386,7 +1390,7 @@ ms.service: dynamics-365-business-central
 ##### [НДС в российской версии](LocalFunctionality/Russia/VAT.md)
 ##### [Настройка книг НДС](LocalFunctionality/Russia/How-to-Set-Up-VAT-Ledgers.md)  
 ##### [Подготовка и учет операций НДС](LocalFunctionality/Russia/How-to-Prepare-VAT-Entries-for-Posting.md)  
-##### [Расчеты по VAT](LocalFunctionality/Russia/Settlement-VAT.md)  
+##### [Расчеты по НДС](LocalFunctionality/Russia/Settlement-VAT.md)  
 ##### [Отправка книг покупок и продаж и декларации НДС в формате XML](LocalFunctionality/Russia/upload-books-purchases-sales-xml-vat-declaration.md)  
 ##### [НДС с предоплаты клиента](LocalFunctionality/Russia/VAT-by-Customer-prepayments.md)  
 ##### [Восстановление НДС](LocalFunctionality/Russia/VAT-reinstatement.md)  
