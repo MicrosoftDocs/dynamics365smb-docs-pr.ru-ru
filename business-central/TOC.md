@@ -573,6 +573,7 @@ ms.service: dynamics-365-business-central
 ### [Методы учета НЗП](projects-understanding-wip.md)
 ### [Отслеживание хода выполнения проекта](projects-how-monitor-progress-performance.md)
 ### [Выставление счетов по проектам](projects-how-invoice-jobs.md)
+### [Сборка под проект](projects-assemble-to-project.md)
 
 ## Основные средства
 ### [Обзор основных средств](fa-manage.md)

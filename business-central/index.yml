@@ -9,7 +9,7 @@ metadata:
   ms.service: dynamics-365-business-central
   author: jswymer
   ms.author: jswymer
-  ms.date: 06/16/2023
+  ms.date: 04/11/2024
   hide_bc: true
 highlightedContent:
   items:
@@ -71,6 +71,14 @@ additionalContent:
               url: /dynamics365/business-central/across-onedrive-overview
     - title: Администрирование и разработка
       items:
+        - title: Возможности Copilot и ИИ
+          links:
+            - text: Настройка возможностей Copilot и ИИ
+              url: /dynamics365/business-central/enable-ai
+            - text: Расширение Copilot в Business Central
+              url: /dynamics365/business-central/dev-itpro/developer/ai-integration-landing-page
+            - text: Вопросы и ответы о функциях и ответственном применении ИИ
+              url: /dynamics365/business-central/responsible-ai-overview
         - title: Управление доступом пользователей
           links:
             - text: Создание пользователей
@@ -133,6 +141,20 @@ additionalContent:
               url: /dynamics365/business-central/dev-itpro/api-reference/v2.0/
     - title: Повышение продуктивности
       items:
+        - title: Copilot
+          links:
+            - text: Анализ данных списка
+              url: /dynamics365/business-central/analysis-assist
+            - text: Чат с Copilot
+              url: /dynamics365/business-central/chat-with-copilot
+            - text: Получение предлагаемых маркетинговых текстов
+              url: /dynamics365/business-central/ai-overview
+            - text: Сопоставление электронных документов
+              url: /dynamics365/business-central/map-edocuments-with-copilot
+            - text: Выверка банковских счетов
+              url: /dynamics365/business-central/bank-reconciliation-with-copilot
+            - text: Предложение предложений по строкам
+              url: /dynamics365/business-central/sales-suggest-sales-lines-with-copilot
         - title: Параметры рабочей области
           links:
             - text: "Язык, регион, рабочая дата, часовой пояс и т.\_д."
@@ -153,7 +175,7 @@ additionalContent:
               url: /dynamics365/business-central/across-share-onedrive
             - text: Совместная работа в Excel
               url: /dynamics365/business-central/across-work-with-excel
-        - title: 'Бизнес-аналитика, отчетность и анализ данных'
+        - title: 'BI, отчетность и анализ данных'
           links:
             - text: Обзор
               url: /dynamics365/business-central/reports-bi-reporting
@@ -163,9 +185,11 @@ additionalContent:
               url: /dynamics365/business-central/across-working-with-powerbi
             - text: Анализ данных списка в режиме анализа
               url: /dynamics365/business-central/analysis-mode
-            - text: Анализ данных отчета с помощью Excel
+            - text: Анализ данных отчетов с помощью Excel
               url: /dynamics365/business-central/report-analyze-excel
-        - title: Общая бизнес-функциональность
+    - title: Ведение деятельности
+      items:
+        - title: Общее
           links:
             - text: Финансовые журналы
               url: /dynamics365/business-central/ui-work-general-journals
@@ -175,8 +199,6 @@ additionalContent:
               url: /dynamics365/business-central/admin-job-queues-schedule-tasks
             - text: Входящие документы
               url: /dynamics365/business-central/across-income-documents
-    - title: Ведение деятельности
-      items:
         - title: Финансы
           links:
             - text: Обзор
