@@ -148,7 +148,7 @@ ms.service: dynamics-365-business-central
 
 ## <a name="fixing-problems"></a>Устранение проблем
 
-### <a name="cannot-insert-a-record-current-connection-intent-is-read-only-error-connecting-to-custom-api-page"></a>"Невозможно вставить запись. Назначение текущего подключения — только чтение". ошибка при подключении к странице пользовательского API
+### <a name="cant-insert-a-record-current-connection-intent-is-read-only-error-connecting-to-custom-api-page"></a>"Невозможно вставить запись. Назначение текущего подключения — только чтение". ошибка при подключении к странице пользовательского API
 
 > **ПРИМЕНЯЕТСЯ К:** Business Central Online
 

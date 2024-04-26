@@ -11,7 +11,7 @@ ms.author: jswymer
 ms.custom: bap-template
 ms.service: dynamics-365-business-central
 ---
-# <a name="introduction-to--and-power-bi"></a>Введение в [!INCLUDE[prod_short](includes/prod_short.md)] и Power BI
+# <a name="introduction-to-business-central-and-power-bi"></a>Введение в [!INCLUDE[prod_short](includes/prod_short.md)] и Power BI
 
 [!INCLUDE[azure-ad-to-microsoft-entra-id](~/../shared-content/shared/azure-ad-to-microsoft-entra-id.md)]
 
@@ -19,7 +19,7 @@ ms.service: dynamics-365-business-central
 
 ![Power BI и Business Central.](media/power-bi-intro.png)
 
-## <a name="what-you-can-do-with-power-bi-and-"></a>Что можно делать с Power BI и [!INCLUDE[prod_short](includes/prod_short.md)]
+## <a name="what-you-can-do-with-power-bi-and-business-central"></a>Что можно делать с Power BI и [!INCLUDE[prod_short](includes/prod_short.md)]
 
 Есть разные возможности для работы с [!INCLUDE[prod_short](includes/prod_short.md)] и Power BI. Некоторые вещи можете делать из Power BI, а все остальное делается из [!INCLUDE[prod_short](includes/prod_short.md)]. Кроме того, некоторые функции доступны только с [!INCLUDE[prod_short](includes/prod_short.md)] Online, но не с On-Premises. Следующая таблица дает вам обзор.
 
