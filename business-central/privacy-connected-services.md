@@ -5,13 +5,13 @@ author: jswymer
 ms.topic: overview
 ms.service: dynamics-365-business-central
 ms.search.keywords: 'privacy, trial, Microsoft services'
-ms.date: 12/12/2023
+ms.date: 04/14/2024
 ms.author: jswymer
 ms.reviewer: jswymer
 ms.collection:
   - bap-ai-copilot
 ---
-# <a name="trial-features-that-connect-to-other-microsoft-services"></a>Функции пробной версии, которые предполагают подключение к другим службам Майкрософт
+# Функции пробной версии, которые предполагают подключение к другим службам Майкрософт 
 
 [!INCLUDE[prod_long](includes/prod_long.md)] представляет собой комплексное решение для управления бизнесом, которое глубоко интегрировано с офисными приложениями Microsoft 365 и Power Platform. Ваша бесплатная пробная версия Business Central может подключаться к ряду служб Майкрософт, которые необходимо сначала настроить и включить. Чтобы вы могли использовать бесплатную пробную версию с максимальной пользой, некоторые из этих функций активированы для вас автоматически. Несмотря на наличие подключений из [!INCLUDE[prod_short](includes/prod_short.md)], эти службы не входят в пробную версию, и их необходимо приобретать отдельно, если у вас еще нет к ним доступа.
 
@@ -22,7 +22,7 @@ ms.collection:
 |Microsoft Teams|Да|Нет|Действие **Поделиться в Teams** на карточке **Товар** |[Управление интеграцией Teams с Business Central](admin-teams-integration.md)|  
 |Microsoft OneDrive для бизнеса|Да|Нет|Действие **Открыть в OneDrive** на вложениях **Товар** |[Управление интеграцией OneDrive с Business Central](admin-onedrive-integration.md#configure-onedrive-using-onedrive-setup)|  
 | Microsoft Power Automate |Да|Нет|Действия **Автоматизация** на карточке **Товар** |[Настройка интеграции с Power Automate](/dynamics365/business-central/dev-itpro/powerplatform/power-automate-setup)|
-| Автоматизация Microsoft Azure OpenAI |Да |Нет|**Copilot (предварительная версия)** |[Настройка создания маркетинговых текстов для товаров на базе ИИ с помощью Copilot](enable-ai.md)|
+| Служба Microsoft Azure OpenAI |Да |Нет|**Copilot** |[Настройка создания маркетинговых текстов для товаров на базе ИИ с помощью Copilot](enable-ai.md)|
 
 > [!NOTE]
 > Используя функции, которые подключаются к этим службам: 
