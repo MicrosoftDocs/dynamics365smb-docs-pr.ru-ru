@@ -9,7 +9,7 @@ ms.date: 07/13/2021
 ms.author: bholtorf
 ms.service: dynamics-365-business-central
 ---
-# <a name="accounts-payable-reports-and-analytics-in-business-central"></a>Отчеты и аналитика по кредиторской задолженности в Business Central
+# <a name="accounts-payable-reports-and-analytics"></a>Отчеты и аналитика по кредиторской задолженности в Business Central
 
 Чтобы помочь вам управлять своей кредиторской задолженностью в [!INCLUDE [prod_short](includes/prod_short.md)], встроены стандартные отчеты и аналитика. Функция выходит за рамки традиционных ограничений отчетности, чтобы помочь вам эффективно разрабатывать различные типы отчетов.  
 

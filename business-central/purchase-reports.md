@@ -9,21 +9,21 @@ ms.date: 02/04/2024
 ms.author: bholtorf
 ms.service: dynamics-365-business-central
 ---
-# Отчеты и аналитика по покупкам в Business Central
+# <a name="purchase-reporting-and-analytics"></a>Отчеты и аналитика по покупкам в Business Central
 
 Отчетность по покупкам в [!INCLUDE [prod_short](includes/prod_short.md)] позволяет специалистам по продажам и бизнес-руководителям получать информацию и статистику по текущей и прошлой деятельности по закупкам.  
 
-## Отчеты
+## <a name="reports"></a>Отчеты
 [!INCLUDE [purchase_reports](includes/purchase-reports-include.md)]
 
-## Задачи
+## <a name="tasks"></a>Задачи
 В следующих статьях описываются некоторые ключевые задачи анализа состояния вашего бизнеса:
 
 * [Создание аналитических отчетов](bi-how-create-analysis-views-reports.md)  
 * [Просмотр наличия товара](inventory-how-availability-overview.md)  
 
 
-## См. также
+## <a name="see-also"></a>См. также
 [Настройка покупки](purchasing-setup-purchasing.md)  
 [Покупки](purchasing-manage-purchasing.md)  
 
