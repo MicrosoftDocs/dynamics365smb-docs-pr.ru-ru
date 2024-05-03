@@ -9,14 +9,14 @@ ms.date: 01/29/2024
 ms.author: bholtorf
 ms.service: dynamics-365-business-central
 ---
-# <a name="sales-reports-and-analytics-in-business-central"></a>Отчеты и аналитика по продажам в Business Central
+# Отчеты и аналитика по продажам в Business Central
 
 Отчетность по продажам в [!INCLUDE [prod_short](includes/prod_short.md)] позволяет специалистам по продажам и бизнес-руководителям получать информацию и статистику по текущей и прошлой деятельности по продажам.  
 
-## <a name="reports"></a>Отчеты
+## Отчеты
 [!INCLUDE [sales_reports](includes/sales-reports-include.md)]
 
-## <a name="tasks"></a>Задачи
+## Задачи
 
 В следующих статьях описываются некоторые ключевые задачи анализа состояния вашего бизнеса:
 
@@ -24,7 +24,7 @@ ms.service: dynamics-365-business-central
 * [Просмотр наличия товара](inventory-how-availability-overview.md)
 
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Настройка продаж](sales-setup-sales.md)  
 [Продажи](sales-manage-sales.md)  
