@@ -12,7 +12,7 @@ ms.service: dynamics-365-business-central
 ms.custom: bap-template
 ---
 
-# <a name="financial-analytics-in-business-central"></a>Финансовая аналитика в Business Central
+# <a name="financial-analytics"></a>Финансовая аналитика в Business Central
 
 Предприятия собирают огромное количество данных в ходе повседневной деятельности, что обеспечивает ценную бизнес-аналитику (BI) для лиц, принимающих решения: 
 
