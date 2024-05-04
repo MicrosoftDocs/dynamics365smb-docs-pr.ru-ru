@@ -10,7 +10,7 @@ ms.author: bholtorf
 ms.service: dynamics-365-business-central
 ---
 
-# <a name="built-in-finance-reports-in-business-central"></a>Встроенные финансовые отчеты в Business Central
+# Встроенные финансовые отчеты в Business Central
 
 [!INCLUDE [prod_short](includes/prod_short.md)] включает несколько встроенных отчетов, функции отслеживания и инструменты, чтобы помочь аудиторам или контролерам, которые несут ответственность за отчетность перед финансовым отделом. 
 
@@ -19,7 +19,7 @@ ms.service: dynamics-365-business-central
 [!INCLUDE [finance_reports](includes/finance-reports-include.md)]
 
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Создание бюджетов затрат](finance-create-cost-budgets.md)  
 [Подача отчетности по НДС в налоговые органы](finance-how-report-vat.md)  
