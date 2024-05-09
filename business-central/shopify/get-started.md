@@ -10,13 +10,13 @@ author: brentholtorf
 ms.author: bholtorf
 ---
 
-# Начало работы с соединителем Shopify
+# <a name="get-started-with-the-shopify-connector"></a>Начало работы с соединителем Shopify
 
 Подключите свои магазины Shopify к [!INCLUDE [prod_short](../includes/prod_short.md)], чтобы максимально повысить эффективность своего бизнеса. Управляйте и просматривайте аналитику о своем бизнесе и вашем магазине Shopify как единое целое.
 
 Чтобы использовать Shopify с [!INCLUDE [prod_short](../includes/prod_short.md)], необходимо сначала выполнить определенные подготовительные действия. Эта статья представляет собой руководство по интеграции вашего магазина Shopify с [!INCLUDE [prod_short](../includes/prod_short.md)].
 
-## Предварительные требования для Shopify
+## <a name="prerequisites-for-shopify"></a>Предварительные требования для Shopify
 
 У вас должны быть:
 
@@ -25,7 +25,7 @@ ms.author: bholtorf
 
 Подробнее о том, как создавать пробные версии Shopify, а также о рекомендуемых параметрах см. в статье [Создание и настройка учетной записи Shopify](shopify-account.md).
 
-## Предварительные требования для Business Central
+## <a name="prerequisites-for-business-central"></a>Предварительные требования для Business Central
 
 - Убедитесь, что приложение **[Соединитель Shopify](https://go.microsoft.com/fwlink/?linkid=2196238)** установлено.
 
@@ -33,7 +33,7 @@ ms.author: bholtorf
 
 - Убедитесь, что пользователь обладает необходимыми правами. На соединитель Shopify распространяется набор разрешений **Shopify — Admin (SHPFY — ADMIN)**. Подробнее см. в статьях [Создание пользователей в соответствии с лицензиями](../ui-how-users-permissions.md) и [Назначение разрешений пользователям и группам](../ui-define-granular-permissions.md).
 
-## Установка приложения Dynamics 365 Business Central для вашего интернет-магазина Shopify
+## <a name="install-the-dynamics-365-business-central-app-to-your-shopify-online-store"></a>Установка приложения Dynamics 365 Business Central для вашего интернет-магазина Shopify
 
 Для существующих экземпляров [!INCLUDE[prod_short](../includes/prod_short.md)] этот шаг является необязательным и может быть пропущен.
 
@@ -45,7 +45,7 @@ ms.author: bholtorf
 4. Выберите **Зарегистрироваться**, чтобы начать пробный период [!INCLUDE[prod_short](../includes/prod_short.md)], или **Войти**, если у вас уже есть [!INCLUDE[prod_short](../includes/prod_short.md)]. Вы будете перенаправлены на свою страницу [Business Central](https://businesscentral.dynamics.com).
 5. В [!INCLUDE[prod_short](../includes/prod_short.md)] выполните следующие шаги:
 
-## Подключение Business Central к интернет-магазину Shopify
+## <a name="connect-business-central-to-the-shopify-online-store"></a>Подключение Business Central к интернет-магазину Shopify
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](../media/ui-search/search_small.png "Что вы хотите сделать") введите **Магазин Shopify** и выберите соответствующую ссылку.
 2. Выберите действие **Создать**.  
@@ -60,7 +60,7 @@ ms.author: bholtorf
 
 Повторите шаги 2–6 для всех интернет-магазинов, которые хотите подключить.
 
-### Известные проблемы
+### <a name="known-issues"></a>Известные проблемы
 
 - Браузер блокирует всплывающее окно. При включении переключателя **Включено** [!INCLUDE [prod_short](../includes/prod_short.md)] ожидает токен доступа от Shopify и в это время отображает страницу **Ожидание отклика — не закрывайте эту страницу**. Если эта страница будет закрыта или заблокирована, вы не сможете подключиться к Shopify. Подробнее см. в статье [Запрос токена доступа](troubleshoot.md#request-the-access-token).
 - Возможно, имеет смысл открыть панель администрирования Shopify в том же браузере, что и [!INCLUDE [prod_short](../includes/prod_short.md)].
@@ -69,7 +69,7 @@ ms.author: bholtorf
 - [Не удается подключиться из песочницы](troubleshoot.md#verify-and-enable-permissions-to-make-http-requests-in-a-non-production-environment)
 - Убедитесь, что вы ввели правильный URL-адрес в поле **URL-адрес Shopify**. Вы можете сформировать URL-адрес, объединив идентификатор магазина с URL-адресом панели администрирования. Например, объедините `admin.shopify.com/store/{shop}` и `.myshopify.com`, чтобы получить `https://{shop}.myshopify.com/`.
 
-## Дальнейшие шаги
+## <a name="next-steps"></a>Дальнейшие шаги
 
 Теперь ваш интернет-магазин подключен к [!INCLUDE[prod_short](../includes/prod_short.md)]. На следующих этапах вы определите, как и что синхронизировать.
 
@@ -77,7 +77,7 @@ ms.author: bholtorf
 - [Синхронизировать клиентов](synchronize-customers.md)
 - [Синхронизация заказов](synchronize-orders.md)
 
-## Стратегии тестирования
+## <a name="testing-strategies"></a>Стратегии тестирования
 
 Возможны разные подходы к тестированию интеграции, и каждый подход имеет свои плюсы и минусы.
 
@@ -85,13 +85,13 @@ ms.author: bholtorf
 
 Тесты синхронизации легко можно запускать многократно. Соединитель позволяет удалять импортированные данные, такие как продукты, клиенты и заказы, а затем снова их импортировать. Достаточно просто [сбросить синхронизацию](troubleshoot.md#reset-sync).
 
-### Песочница Shopify и песочница Business Central
+### <a name="shopify-sandbox-and-business-central-sandbox"></a>Песочница Shopify и песочница Business Central
 
 Это, пожалуй, самый безопасный способ протестировать интеграцию. Вместо использования песочницы Shopify вы также можете использовать пробную подписку или магазин для разработки (Development Store). В [!INCLUDE[prod_short](../includes/prod_short.md)] вы также можете использовать тестовую компанию в рабочей среде.
 
 Чтобы узнать больше о песочницах [!INCLUDE[prod_short](../includes/prod_short.md)], перейдите к разделу [Создание новой среды](/dynamics365/business-central/dev-itpro/administration/tenant-admin-center-environments#create-a-new-environment).
 
-### Песочница Shopify и рабочая среда Business Central
+### <a name="shopify-sandbox-and-business-central-production"></a>Песочница Shopify и рабочая среда Business Central
 
 Эта конфигурация *не* рекомендуется для тестирования, поскольку соединитель Shopify может создавать или изменять товары и клиентов. Он также может создавать документы продажи, такие как заказы и счета-фактуры. Эти документы может быть трудно отменить.
  
@@ -105,7 +105,7 @@ ms.author: bholtorf
 
 Дополнительные сведения см. в статье [Восстановление среды](/dynamics365/business-central/dev-itpro/administration/tenant-admin-center-backup-restore).
 
-### Рабочая среда Shopify и песочница Business Central
+### <a name="shopify-production-and-business-central-sandbox"></a>Рабочая среда Shopify и песочница Business Central
 
 Желательно сделать резервную копию ваших данных. Например, вы можете экспортировать свои продукты и клиентов. Дополнительные сведения см. в статье [Использование CSV-файлов для резервного копирования информации магазина](https://help.shopify.com/en/manual/shopify-admin/duplicate-store#using-csv-files-to-back-up-store-information).
 
@@ -116,7 +116,7 @@ ms.author: bholtorf
 *   Выберите **Черновик** в поле **Статус создания продукта**, чтобы гарантировать, что экспортированные продукты не будут доступны покупателям. Вы можете проверить, как продукты выглядят в интернет-магазине, а также синхронизировать цены, варианты и уровни запасов. Только не забудьте использовать фильтры на странице **Добавить товар в Shopify**, чтобы ограничить количество экспортируемых товаров.
 * Выключите переключатель **Экспорт клиента в Shopify**, чтобы не передавать клиентов в Shopify.
 
-## См. также
+## <a name="see-also"></a>См. также
 
 [Пошаговое руководство: настройка и использование соединителя Shopify](walkthrough-setting-up-and-using-shopify.md)  
 
