@@ -5,18 +5,18 @@ author: jswymer
 ms.topic: conceptual
 ms.devlang: al
 ms.search.keywords: 'business intelligence, KPI, Odata, Power App, SOAP, analysis'
-ms.date: 09/07/2022
+ms.date: 01/22/2024
 ms.author: jswymer
 ms.service: dynamics-365-business-central
 ---
 
-# <a name="building-power-bi-reports-to-display--data"></a>Создание отчетов Power BI для отображения данных [!INCLUDE [prod_long](includes/prod_long.md)]
+# Создание отчетов Power BI для отображения данных [!INCLUDE [prod_long](includes/prod_long.md)]
 
 Можно сделать данные [!INCLUDE[prod_long](includes/prod_long.md)] доступными в качестве источника данных в Power BI Desktop и создать мощные отчеты о состоянии вашего бизнеса.
 
 В этой статье рассказывается, как начать использовать Power BI Desktop для создания отчетов, отображающих данные [!INCLUDE[prod_long](includes/prod_long.md)].  После создания отчетов вы можете опубликовать их в своей службе Power BI или поделиться ими со всеми пользователями в вашей организации. Как только эти отчеты будут в службе Power BI, пользователи, которые настроены для нее, могут затем просматривать отчеты в [!INCLUDE[prod_long](includes/prod_long.md)].
 
-## <a name="get-ready"></a>Подготовка
+## Подготовка
 
 - Подпишитесь на службу Power BI.
 
@@ -30,14 +30,14 @@ ms.service: dynamics-365-business-central
 
   Для получения дополнительной информации прочитайте [Предоставлять данные через страницы API или веб-службы OData](admin-powerbi-setup.md#exposedata).
 
-- Для [!INCLUDE[prod_short](includes/prod_short.md)] On-Premises получите следующую информацию:
+<!--- For [!INCLUDE[prod_short](includes/prod_short.md)] on-premises, get the following information:
 
-  - URL-адрес OData для [!INCLUDE[prod_short](includes/prod_short.md)].
+  - The OData URL for [!INCLUDE[prod_short](includes/prod_short.md)].
   
-    Обычно этот URL-адрес имеет формат `http[s]://[computer]:[port]/[serverinstance]/ODataV4`, например `https://localhost:7048/BC190/ODataV4`. Если у вас есть развертывание в нескольких клиентах, включите клиент в URL-адрес, например `https://localhost:7048/BC190/ODataV4?tenant=tenant1`.
-  - Имя пользователя и ключ доступа к веб-сервису учетной записи [!INCLUDE[prod_short](includes/prod_short.md)].
+    Typically, this URL has the format `http[s]://[computer]:[port]/[serverinstance]/ODataV4`, for example, `https://localhost:7048/BC190/ODataV4`. If you have a multi-tenant deployment, include the tenant in the URL, for example, `https://localhost:7048/BC190/ODataV4?tenant=tenant1`.
+  - A user name and web service access key of a [!INCLUDE[prod_short](includes/prod_short.md)] account.
 
-    Чтобы получить данные из [!INCLUDE[prod_short](includes/prod_short.md)], Power BI использует базовую аутентификацию. Итак, для подключения вам понадобятся имя пользователя и ключ доступа к веб-службе. Учетная запись может быть вашей собственной учетной записью пользователя, или ваша организация может иметь специальную учетную запись для этой цели.
+    To get data from [!INCLUDE[prod_short](includes/prod_short.md)], Power BI uses basic authentication. So, you'll need a user name and web service access key to connect. The account might be your own user account, or your organization may have specific account for this purpose.-->
 
 - Загрузите тему отчета [!INCLUDE [prod_short](includes/prod_short.md)] (необязательно).
 
@@ -45,7 +45,7 @@ ms.service: dynamics-365-business-central
 
 [!INCLUDE[note-multicompany-reports](includes/note-multicompany-reports.md)]
 
-## <a name="add--as-a-data-source-in-power-bi-desktop"></a><a name="getdata"></a>Добавление [!INCLUDE[prod_short](includes/prod_short.md)] как источника данных в Power BI Desktop
+## <a name="getdata"></a>Добавление [!INCLUDE[prod_short](includes/prod_short.md)] как источника данных в Power BI Desktop
 
 Первая задача при создании отчетов — добавить [!INCLUDE[prod_short](includes/prod_short.md)] как источник данных в Power BI Desktop. После подключения вы можете приступить к созданию отчета.
 
@@ -57,7 +57,7 @@ ms.service: dynamics-365-business-central
 4. В области **Веб-службы** выполните одно из следующих действий:
 
     - Чтобы подключиться к [!INCLUDE [prod_short](includes/prod_short.md)] онлайн, выберите **Dynamics 365 Business Central**, затем **Подключить**.
-    - Чтобы подключиться к [!INCLUDE [prod_short](includes/prod_short.md)] локально, выберите **Dynamics 365 Business Central (локальная версия)**, затем **Подключить**.
+    <!--- To connect to  [!INCLUDE [prod_short](includes/prod_short.md)] on-premises, select **Dynamics 365 Business Central (on-premises)**, then **Connect**.-->
 
 5. Войдите в [!INCLUDE [prod_short](includes/prod_short.md)] (только один раз).
 
@@ -65,7 +65,7 @@ ms.service: dynamics-365-business-central
 
     - Для сетевой версии [!INCLUDE [prod_short](includes/prod_short.md)] выберите **Войти**, затем выберите соответствующую учетную запись. Используйте ту же учетную запись, которая используется для входа в [!INCLUDE [prod_short](includes/prod_short.md)]. Когда готово, выберите **Подключить**.
 
-    - Для локальной версии [!INCLUDE [prod_short](includes/prod_short.md)] сначала введите URL-адрес OData для [!INCLUDE[prod_short](includes/prod_short.md)], затем выберите **ОК**. Когда будет предложено, введите имя пользователя и пароль учетной записи, которая будет использоваться для подключения к [!INCLUDE[prod_short](includes/prod_short.md)]. В поле **Пароль** введите ключ доступа к веб-службе. Когда готово, выберите **Подключить**.
+    <!--- For [!INCLUDE [prod_short](includes/prod_short.md)] on-premises, first enter the OData URL for [!INCLUDE[prod_short](includes/prod_short.md)], then select **OK**. When prompted, enter the user name and password of the account to use for connecting to [!INCLUDE[prod_short](includes/prod_short.md)]. In the **Password** box, enter the web service access key. When done, select **Connect**.-->
 
     > [!NOTE]  
     > После успешного подключения к [!INCLUDE[prod_short](includes/prod_short.md)] выполнять повторный вход не требуется. [Как изменить или удалить учетную запись, которую я сейчас использую для подключения к Business Central из Power BI Desktop?](/dynamics365/business-central/power-bi-faq?tabs=designer#perms)
@@ -88,8 +88,9 @@ ms.service: dynamics-365-business-central
 
           В этой папке перечислены страницы, модули codeunit и запросы, опубликованные как веб-службы в Business Central.
 
+    <!--
     > [!NOTE]
-    > Структура локальной версии Business Central отличается, поскольку она не поддерживает страницы API.
+    > The structure for Business Central on-premises is different because it doesn't support API pages.-->
 
 7. Выберите источник данных или источники, которые требуется добавить в модель данных, а затем нажмите кнопку **Загрузить**.
 8. Если позже вы захотите добавить дополнительные данные Business Central, вы можете повторить предыдущие шаги.
@@ -99,45 +100,45 @@ ms.service: dynamics-365-business-central
 > [!TIP]
 > Дополнительные сведения об использовании Power BI Desktop см. в разделе [Приступая к работе с Power BI Desktop](/power-bi/fundamentals/desktop-getting-started).
 
-## <a name="creating-accessible-reports"></a>Создание доступных отчетов
+## Создание доступных отчетов
 
 Важно, чтобы ваши отчеты были доступны как можно большему количеству людей. Постарайтесь создавать отчеты так, чтобы они не требовали специальной адаптации для удовлетворения конкретных потребностей разных пользователей. Убедитесь, что дизайн позволяет пользователям использовать стандартные технологии специальных возможностей, например программы чтения с экрана. Power BI включает различные специальные возможности, инструменты и рекомендации, которые помогут вам в достижении этой цели. Для дополнительной информации см. [Разработка отчетов Power BI с учетом специальных возможностей](/power-bi/create-reports/desktop-accessibility-creating-reports) в документации Power BI.
 
-## <a name="creating-reports-to-display-data-associated-with-a-list"></a>Создание отчетов для отображения данных, связанных со списком
+## Создание отчетов для отображения данных, связанных со списком
 
 Вы можете создавать отчеты, которые отображаются на информационной панели страницы списка [!INCLUDE [prod_short](includes/prod_short.md)]. Отчеты могут содержать данные о записи, выбранной в списке. Создание этих отчетов аналогично созданию других отчетов, за исключением того, что вам нужно сделать несколько вещей, чтобы убедиться, что отчеты отображаются должным образом. Для получения дополнительной информации см. раздел [Создание отчетов Power BI для отображения данных списка в [!INCLUDE[prod_short](includes/prod_short.md)]](across-how-use-powerbi-reports-factbox.md).
 
-## <a name="using-the--report-theme-optional"></a><a name="theme"></a>Использование темы отчетов [!INCLUDE [prod_short](includes/prod_short.md)] (необязательно)
+## <a name="theme"></a>Использование темы отчетов [!INCLUDE [prod_short](includes/prod_short.md)] (необязательно)
 
 Перед построением отчета рекомендуется скачать и импортировать файл темы [!INCLUDE [prod_short](includes/prod_short.md)]. Файл темы создает цветовую палитру, чтобы можно было создавать отчеты с таким же цветовым стилем, что и приложения [!INCLUDE [prod_short](includes/prod_short.md)] без необходимости определения настраиваемых цветов для каждого визуального элемента.
 
 > [!NOTE]
 > Эта задача является необязательной. Вы всегда можете создать свои отчеты, затем скачать и применить шаблон стиля позже.
 
-### <a name="download-the-theme"></a>Скачивание темы
+### Скачивание темы
 
 Файл темы доступен как файл json в коллекции тем сообщества Microsoft Power BI. Чтобы скачать файл темы, выполните следующие действия:
 
 1. Перейдите в [Коллекцию тем сообщества Microsoft Power BI для Microsoft Dynamics 365 Business Central](https://community.powerbi.com/t5/Themes-Gallery/Microsoft-Dynamics-365-Business-Central/m-p/385875).
 2. Выберите скачивание вложения **Microsoft Dynamics Business Central.json**.
 
-### <a name="import-the-theme-on-a-report"></a>Импорт темы в отчет
+### Импорт темы в отчет
 
 После того, как вы скачали тему отчета [!INCLUDE [prod_short](includes/prod_short.md)], вы можете импортировать ее в свои отчеты. Чтобы импортировать тему, выберите **Представление** > **Темы** > **Поиск тем**. Дополнительные сведения см. в разделе [Power BI Desktop — импорт пользовательских тем отчетов](/power-bi/create-reports/desktop-report-themes#import-custom-report-theme-files).
 
-## <a name="publish-reports"></a>Публикация отчетов
+## Публикация отчетов
 
 После того как вы создали или изменили отчет, вы можете опубликовать его в своей службе Power BI, а также поделиться им с другими в вашей организации. После публикации вы увидите отчет в Power BI. Отчет также становится доступным для выбора в [!INCLUDE[prod_short](includes/prod_short.md)].
 
 Чтобы опубликовать отчет, выберите **Опубликовать** на вкладке **Главная** на ленте или из меню **файл**. Если вы вошли в службу Power BI, отчет публикуется в этой службе. В противном случае вам будет предложено войти в систему. 
 
-## <a name="distribute-or-share-a-report"></a>Распространение отчета или предоставление доступа к нему
+## Распространение отчета или предоставление доступа к нему
 
 Есть несколько способов отправить отчеты своим коллегам и другим людям:
 
 - Распространяйте отчеты в виде файлов .pbix.
 
-    Отчеты хранятся на вашем компьютере в виде файлов .pbix. Вы можете распространять файл отчета .pbix среди пользователей, как и любой другой файл. Затем пользователи могут отправить этот файл в свою службу Power BI. См. раздел [Отправить отчеты из файлов](across-working-with-business-central-in-powerbi.md#upload).
+    Отчеты хранятся на вашем компьютере в виде файлов .pbix. Вы можете распространять файл отчета .pbix среди пользователей, как и любой другой файл. Затем пользователи могут отправить этот файл в свою службу Power BI. См. раздел [Отправить отчеты из файлов](across-working-with-powerbi.md#upload).
 
     > [!NOTE]
     > Распространение отчетов таким образом означает, что обновление данных для отчетов будет выполняться каждым пользователем индивидуально. Эта ситуация может повлиять на производительность [!INCLUDE[prod_short](includes/prod_short.md)].
@@ -146,9 +147,9 @@ ms.service: dynamics-365-business-central
 
     Если у вас есть лицензия Power BI Pro, вы можете поделиться отчетом с другими прямо из своей службы Power BI. Дополнительные сведения см. в разделе [Power BI — предоставление доступа к панели мониторинга или отчету](/power-bi/collaborate-share/service-share-dashboards#share-a-dashboard-or-report).
 
-## <a name="fixing-problems"></a>Устранение проблем
+## Устранение проблем
 
-### <a name="cant-insert-a-record-current-connection-intent-is-read-only-error-connecting-to-custom-api-page"></a>"Невозможно вставить запись. Назначение текущего подключения — только чтение". ошибка при подключении к странице пользовательского API
+### «Невозможно вставить запись. Назначение текущего подключения — только чтение". ошибка при подключении к странице пользовательского API
 
 > **ПРИМЕНЯЕТСЯ К:** Business Central Online
 
@@ -160,7 +161,7 @@ ms.service: dynamics-365-business-central
 4. В окне **Навигатор** выберите конечную точку API, из которой вы хотите загрузить данные.
 5. На панели предварительного просмотра справа вы увидите следующую ошибку:
 
-   *Dynamics365BusinessCentral: ошибка запроса. Удаленный сервер вернул ошибку: (400) неверный запрос. (Невозможно вставить запись. Текущее намерение подключения доступно только для чтения. CorrelationId: [...])".*
+   *Dynamics365BusinessCentral: ошибка запроса. Удаленный сервер вернул ошибку: (400) неверный запрос. (Невозможно вставить запись. Текущее намерение подключения доступно только для чтения. CorrelationId: [...])».*
 
 6. Выберите **Преобразовать данные** вместо **Загрузить**, как вы обычно делаете.
 7. В **редакторе Power Query** выберите **Расширенный редактор** на ленте.
@@ -179,9 +180,9 @@ ms.service: dynamics-365-business-central
 9. Нажмите **Готово**.
 10. Выберите **Закрыть и применить** на ленте, чтобы сохранить изменения и закрыть редактор Power Query.
 
-## <a name="see-also"></a>См. также
+## См. также
 
-[Включение бизнес-данных для Power BI](admin-powerbi.md)  
+[Включение бизнес-данных для Power BI](admin-powerbi-setup.md)  
 [Бизнес-аналитика](bi.md)  
 [Подготовьтесь к ведению бизнеса](ui-get-ready-business.md)  
 [Импорт бизнес-данных из других финансовых систем](across-import-data-configuration-packages.md)  

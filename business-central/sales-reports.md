@@ -21,11 +21,13 @@ ms.service: dynamics-365-business-central
 В следующих статьях описываются некоторые ключевые задачи анализа состояния вашего бизнеса:
 
 * [Создание аналитических отчетов](bi-how-create-analysis-views-reports.md)  
-* [Просмотр наличия товара](inventory-how-availability-overview.md)
+* [Просмотр наличия товаров](inventory-how-availability-overview.md)
 
 
 ## См. также
 
+[Обзор аналитики продаж](sales-analytics-overview.md)   
+[Ad-hoc-анализ данных по продажам](ad-hoc-analysis-sales.md)    
 [Настройка продаж](sales-setup-sales.md)  
 [Продажи](sales-manage-sales.md)  
 [Резервирование товаров](inventory-how-to-reserve-items.md)
