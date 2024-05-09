@@ -408,7 +408,8 @@ ms.service: dynamics-365-business-central
 #### [Учет операции закрытия года](year-how-post-year-end-close-entry.md)
 
 ### Работа с планом счетов и главной книгой (ГК)
-#### [Главная книга и план счетов](finance-general-ledger.md)
+#### [Сведения о главной книге](finance-general-ledger.md)
+#### [Сведения о плане счетов](finance-chart-of-accounts.md)
 #### [Проверка счетов](finance-review-accounts.md)
 #### [Переоценка сальдо счетов главной книги](finance-revalue-account-balances.md)
 #### [Учет транзакций непосредственно в главной книге](finance-how-post-transactions-directly.md)
@@ -477,7 +478,6 @@ ms.service: dynamics-365-business-central
 #### [Настройка и публикация веб-службы КПЭ на основе бухгалтерской отчетности](bi-how-to-set-up-and-publish-kpi-web-services-based-on-account-schedules.md)
 #### [Анализ данных с помощью статистических счетов](bi-use-statistical-accounts.md)
 #### [Анализ данных по измерениям](bi-how-analyze-data-dimension.md)
-#### [Создание аналитических отчетов](bi-how-create-analysis-views-reports.md)
 
 <!-- ### [Ad-hoc analysis on finance data](ad-hoc-analysis-finance.md) -->
 
@@ -495,7 +495,12 @@ ms.service: dynamics-365-business-central
 
 ## Продажи
 ### [Обзор продаж](sales-manage-sales.md)
-### [Отчеты по продажам](sales-reports.md)
+### Аналитика продаж 
+#### [Обзор аналитики продаж](sales-analytics-overview.md)
+#### [Создание аналитических отчетов по продажам](bi-how-create-analysis-views-reports.md)
+#### [Специальный анализ данных по продажам](ad-hoc-analysis-sales.md)
+#### [Встроенные отчеты о продажах](sales-reports.md)
+
 ### [Пошаговое руководство. Проведение кампании по продажам](walkthrough-conducting-a-sales-campaign.md)
 ### [Пошаговое руководство. Настройка и выставление счетов на предоплату](walkthrough-setting-up-and-invoicing-sales-prepayments.md)
 ### [Регистрация новых клиентов](sales-how-register-new-customers.md)
@@ -522,7 +527,10 @@ ms.service: dynamics-365-business-central
 
 ## Покупки
 ### [Обзор покупок](purchasing-manage-purchasing.md)
-### [Отчеты по покупкам](purchase-reports.md)
+### Аналитика покупок 
+#### [Обзор аналитики покупок](purchasing-analytics-overview.md)
+#### [Специальный анализ данных по покупкам](ad-hoc-analysis-purchasing.md)
+#### [Встроенные отчеты по покупкам](purchase-reports.md)
 ### [Пошаговое руководство. Настройка и использование рабочего процесса утверждения покупки](walkthrough-setting-up-and-using-a-purchase-approval-workflow.md)
 ### [Регистрация покупок](purchasing-how-record-purchases.md)
 ### [Запрос предложений](purchasing-how-request-quotes.md)
@@ -577,9 +585,18 @@ ms.service: dynamics-365-business-central
 
 ## Основные средства
 ### [Обзор основных средств](fa-manage.md)
+### Аналитика основных средств
+#### [Обзор аналитики основных средств](fa-analytics-overview.md)
+#### Встроенные инструменты аналитики основных средств
+##### [Мониторинг затрат на обслуживание](fa-how-maintain.md#to-monitor-maintenance-costs)
+##### [Мониторинг страхового покрытия](fa-how-insure.md#to-monitor-insurance-coverage)
+##### [Просмотр измененных значений книги амортизации](fa-how-trans-split-combine.md#to-view-changed-depreciation-book-values-due-to-fixed-asset-reclassification)
+##### [Просмотр операций книги выбытия](fa-how-dispose-retire.md#to-view-disposal-ledger-entries)
+##### [Просмотр планируемых стоимостей реализации](fa-how-manage-budgets.md#to-view-projected-disposal-values)
+#### [Встроенные отчеты по основным средствам](fa-reports.md)
 ### [Настройка основных средств](fa-setup.md)
 ### [Методы амортизации](fa-depreciation-methods.md)
-### [Отчеты и аналитика по основным средствам](fa-reports.md)
+### [Управление бюджетами на основные средства](fa-how-manage-budgets.md)
 ### [Приобретение основных средств](fa-how-acquire.md)
 ### [Обслуживание основных средств](fa-how-maintain.md)
 ### [Страхование основных средств](fa-how-insure.md)
@@ -587,8 +604,8 @@ ms.service: dynamics-365-business-central
 ### [Переоценка основных средств](fa-how-revalue.md)
 ### [Амортизация основных средств](fa-how-depreciate-amortize.md)
 ### [Списание или выбытие основных средств](fa-how-dispose-retire.md)
-### [Управление бюджетами на основные средства](fa-how-manage-budgets.md)
 ### [Устранение проблем в операциях книги основных средств](fa-troubleshooting-fa-ledger-entries.md)
+
 
 ## Управление отношениями
 ### [Обзор управления отношениями](marketing-relationship-management.md)
@@ -1758,7 +1775,7 @@ ms.service: dynamics-365-business-central
 ###### [Создание отчетов для отображения данных списков](across-how-use-powerbi-reports-factbox.md)
 ##### Бизнес-пользователь
 ###### [Работа с отчетами Power BI в Business Central](across-working-with-powerbi.md)
-###### [Работа с данными Business Central в Power BI](across-working-with-business-central-in-powerbi.md)
+###### [Подключение к Power BI из локального экземпляра Business Central](across-working-with-business-central-in-powerbi.md)
 ###### [Использование приложений Business Central в Power BI](across-powerbi-business-central-apps.md)
 ##### [Вопросы и ответы](power-bi-faq.md)
 #### Использование Power Automate с Business Central
@@ -1787,6 +1804,20 @@ ms.service: dynamics-365-business-central
 ## [Обзор аналитики](reports-bi-reporting.md)
 ## [Использование ключевых показателей эффективности (КПЭ) для достижения бизнес-целей](./analytics-about-kpis.md)
 ## [Использование бухгалтерской отчетности](bi-how-work-account-schedule.md)
+
+## Специальный анализ данных
+### [Обзор](reports-adhoc-analysis.md)
+### [Сортировка, поиск и фильтрация](ui-enter-criteria-filters.md)
+### [Вопросы и ответы о поиске и фильтрации](ui-search-filter-faq.yml)
+### [Анализ данных страниц в Excel](across-work-with-excel.md)
+### [Анализ данных отчетов с помощью Excel](report-analyze-excel.md)
+### [Анализ данных списков и запросов в режиме анализа](analysis-mode.md)
+
+## Инструменты встроенной аналитики
+### [Обзор](reports-built-in-analytics.md)
+### [Работа с отчетами Power BI](across-working-with-powerbi.md)
+### [Интеллектуальная аналитика (локальная версия)](about-intelligent-cloud.md)
+### [Телеметрия использования отчетов](/dynamics365/business-central/dev-itpro/administration/telemetry-reports-trace)
 
 ## Использование отчетов в повседневной работе
 ### [Обзор](reports-use-reports.md)
@@ -1857,33 +1888,6 @@ ms.service: dynamics-365-business-central
 #### [Обзор сервисных предложений](service-how-to-allocate-resources.md#to-see-an-overview-of-service-orders-and-service-quotes)
 #### [Обзор учтенных сервисных документов](service-service-posting.md#to-view-information-about-a-posted-service-document)
 
-## Ad-hoc-анализ данных
-### [Обзор](reports-adhoc-analysis.md)
-### [Сортировка, поиск и фильтрация](ui-enter-criteria-filters.md)
-### [Вопросы и ответы о поиске и фильтрации](ui-search-filter-faq.yml)
-### [Анализ данных страниц в Excel](across-work-with-excel.md)
-### [Анализ данных отчетов с помощью Excel](report-analyze-excel.md)
-### [Анализ данных списков и запросов в режиме анализа](analysis-mode.md)
-### [Финансовая бизнес-аналитика](bi.md)
-
-## Встроенная аналитика 
-### [Обзор](reports-built-in-analytics.md)
-### [Интеллектуальная аналитика](about-intelligent-cloud.md)
-### [Работа с отчетами Power BI](across-working-with-powerbi.md)
-### [Финансовая бизнес-аналитика](bi.md)
-### [Анализ бухгалтерских отчетов с помощью Excel](finance-analyze-excel.md)
-### [Консолидация финансовых данных из нескольких организаций](finance-consolidated-company-reporting.md)
-### [Телеметрия использования отчетов](/dynamics365/business-central/dev-itpro/administration/telemetry-reports-trace)
-
-
-## Анализ данных в инструментах бизнес-аналитики
-### [Обзор](reports-external-analysis.md)
-### [Microsoft Fabric и Business Central](admin-fabric.md)
-### [Использование Power BI с Business Central](admin-powerbi.md)
-### [Анализ бухгалтерских отчетов с помощью Excel](finance-analyze-excel.md)
-### [Извлечение данных в хранилища данных или озера данных](/dynamics365/business-central/dev-itpro/performance/performance-developer#efficient-extracts-to-data-lakes-or-data-warehouses)
-### [Чтение данных с помощью API Business Central](/dynamics365/business-central/dev-itpro/api-reference/v2.0/)
-
 ## Разработка отчетов
 ### [Обзор](reports-develop-reports.md)
 ### Разработка макетов отчетов
@@ -1901,6 +1905,16 @@ ms.service: dynamics-365-business-central
 ### Разработка наборов данных отчетов
 #### [Руководство по разработке отчетов](/dynamics365/business-central/dev-itpro/developer/devenv-reports)
 #### [Руководство по настройке производительности отчетов](/dynamics365/business-central/dev-itpro/performance/performance-developer#writing-efficient-reports)
+
+## Анализ данных в инструментах бизнес-аналитики
+### [Обзор](reports-external-analysis.md)
+### [Microsoft Fabric и Business Central](admin-fabric.md)
+### [Использование Power BI с Business Central](admin-powerbi.md)
+### [Анализ бухгалтерских отчетов с помощью Excel](finance-analyze-excel.md)
+### [Извлечение данных в хранилища данных или озера данных](/dynamics365/business-central/dev-itpro/performance/performance-developer#efficient-extracts-to-data-lakes-or-data-warehouses)
+### [Чтение данных с помощью API Business Central](/dynamics365/business-central/dev-itpro/api-reference/v2.0/)
+
+
 
 # Безопасность, конфиденциальность и соответствие
 ## Защита и безопасность
