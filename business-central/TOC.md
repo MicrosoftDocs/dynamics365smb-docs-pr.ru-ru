@@ -449,9 +449,16 @@ ms.service: dynamics-365-business-central
 ### Настройка и использование электронных документов
 #### [Обзор электронных документов](finance-edocuments-overview.md)
 #### [Настройка электронных документов](finance-how-setup-edocuments.md)
-#### [Использование электронных документов при продажах и покупках](finance-how-use-edocuments.md)
+#### [Использование электронных документов при продажах](finance-how-use-edocuments.md)
+#### [Использование электронных документов при покупках](finance-how-use-edocuments-purchase.md)
 #### [Настройка соединителя "Электронные документы" с внешними конечными точками](finance-how-setup-edocuments-external.md)
 #### [Расширение функциональности электронных документов](/dynamics365/business-central/dev-itpro/developer/devenv-extend-edocuments)
+
+### Управление экологическим учетом
+#### [Обзор управления экологическим учетом](finance-manage-sustainability.md)
+#### [Настройка экологического учета](finance-sustainability-setup.md)
+#### [План счетов экологического учета и книги учета](finance-sustainability-accounts-ledger.md)
+#### [Регистрация выбросов парниковых газов (ПГ)](finance-sustainability-journal.md)
 
 ### [Организации с несколькими подразделениями и международные организации](finance-multi-site-organizations.md)
 #### Консолидация финансовых данных из нескольких организаций
@@ -479,7 +486,7 @@ ms.service: dynamics-365-business-central
 #### [Анализ данных с помощью статистических счетов](bi-use-statistical-accounts.md)
 #### [Анализ данных по измерениям](bi-how-analyze-data-dimension.md)
 
-<!-- ### [Ad-hoc analysis on finance data](ad-hoc-analysis-finance.md) -->
+### [Специальный анализ финансовых данных](ad-hoc-analysis-finance.md)
 
 ### Встроенные инструменты финансового анализа
 #### [Анализ финансовых данных из плана счетов](finance-general-ledger.md)
@@ -549,7 +556,10 @@ ms.service: dynamics-365-business-central
 
 ## Запасы
 ### [Обзор запасов](inventory-manage-inventory.md)
-### [Отчеты по запасам и складам](inventory-WMS-reports.md)
+### Аналитика запасов 
+#### [Обзор аналитики запасов](inventory-analytics-overview.md)
+#### [Специальный анализ данных запасов](ad-hoc-analysis-inventory.md)
+#### [Встроенные отчеты по запасам и складам](inventory-WMS-reports.md)
 ### [Регистрация новых товаров](inventory-how-register-new-items.md)
 ### [Работа со спецификациями](inventory-how-work-BOMs.md)
 ### [Категоризация товаров](inventory-how-categorize-items.md)
@@ -585,8 +595,10 @@ ms.service: dynamics-365-business-central
 
 ## Основные средства
 ### [Обзор основных средств](fa-manage.md)
+
 ### Аналитика основных средств
 #### [Обзор аналитики основных средств](fa-analytics-overview.md)
+#### [Специальный анализ данных по основным средствам](ad-hoc-analysis-fa.md)
 #### Встроенные инструменты аналитики основных средств
 ##### [Мониторинг затрат на обслуживание](fa-how-maintain.md#to-monitor-maintenance-costs)
 ##### [Мониторинг страхового покрытия](fa-how-insure.md#to-monitor-insurance-coverage)
@@ -594,6 +606,7 @@ ms.service: dynamics-365-business-central
 ##### [Просмотр операций книги выбытия](fa-how-dispose-retire.md#to-view-disposal-ledger-entries)
 ##### [Просмотр планируемых стоимостей реализации](fa-how-manage-budgets.md#to-view-projected-disposal-values)
 #### [Встроенные отчеты по основным средствам](fa-reports.md)
+
 ### [Настройка основных средств](fa-setup.md)
 ### [Методы амортизации](fa-depreciation-methods.md)
 ### [Управление бюджетами на основные средства](fa-how-manage-budgets.md)
@@ -650,7 +663,7 @@ ms.service: dynamics-365-business-central
 ### [Создание прогноза](production-how-to-create-a-forecast.md)
 ### [Создание производственных заказов из заказов на продажу](production-how-to-create-production-orders-from-sales-orders.md)
 ### [Планирование удовлетворения новых требований по заказам](production-how-to-plan-for-new-demand.md)
-### [Запуск полного планирования (MPS или MRP)](production-how-to-run-mps-and-mrp.md)
+### [Запуск полного планирования, MPS или MRP](production-how-to-run-mps-and-mrp.md)
 ### [Прямое перепланирование или обновление производственных заказов](production-how-to-replan-refresh-production-orders.md)
 ### [Отслеживание связей между требованиями и поставками](production-how-track-demand-supply.md)
 ### [Рабочий журнал заявок](production-about-planning-functionality.md#requisition-worksheet)
@@ -776,10 +789,11 @@ ms.service: dynamics-365-business-central
 <!--LF-->
 ## Локальная функциональность
 ### [Обзор локальной функциональности](about-localization.md)
+### [Разработка приложений проверенной локализации](about-validated-localization-apps.md)
 
 ### Австралия
 #### [Обзор австралийской версии](LocalFunctionality/Australia/australia-local-functionality.md)
-#### Налоги
+#### Налог
 ##### [Налоги в австралийской версии](LocalFunctionality/Australia/tax.md)
 ##### [Подоходный налог](LocalFunctionality/Australia/withholding-tax.md)
 ##### [Настройка подоходного налога](LocalFunctionality/Australia/how-to-set-up-withholding-tax.md)
@@ -871,7 +885,7 @@ ms.service: dynamics-365-business-central
 
 ### Канада
 #### [Локальная функциональность в канадской версии](LocalFunctionality/Canada/canada-local-functionality.md)
-#### Налоги
+#### Налог
 ##### [Отчетность по налогу на товары и услуги и гармонизированному налогу с продаж в Канаде](LocalFunctionality/Canada/sales-tax-goods-services.md)
 ##### [Отчетность по налогу с продаж в Канаде](LocalFunctionality/Canada/ca-sales-tax.md)
 ##### [Настройка нереализованного налога с продаж и скидок по оплате за продажи](LocalFunctionality/Canada/how-to-set-up-unrealized-sales-tax-and-sales-payment-discounts.md)
@@ -946,7 +960,7 @@ ms.service: dynamics-365-business-central
 ##### [Автоматическое создание и обновление измерений](LocalFunctionality/Czech/how-to-setup-automatic-creation-and-update-dimensions.md)
 ##### [Добавление полей в товарные операции](LocalFunctionality/Czech/how-to-use-add-fields-item-entries.md)
 ##### [Общая производственная учетная группа в единице хранения](LocalFunctionality/Czech/how-to-setup-gen-prod-posting-group-from-sku.md)
-##### [Пропуск обновления для складской единицы при учете](LocalFunctionality/Czech/how-to-setup-skip-update-sku-on-posting.md)
+##### [Пропуск обновления для единицы хранения при учете](LocalFunctionality/Czech/how-to-setup-skip-update-sku-on-posting.md)
 ##### [Нумерация нескладируемых товаров](LocalFunctionality/Czech/how-to-setup-nonstock-item-numbering.md)
 
 ### Дания
@@ -1141,14 +1155,14 @@ ms.service: dynamics-365-business-central
 ###### [Коррекция кредита и обязательства по GST](LocalFunctionality/India/GST-GST-Credit-and-Liability-Adjustment-for-Reverse-Charge-Service-Invoice.md)
 ###### [Выверка GST](LocalFunctionality/India/GST-Reconciliation.md)
 ###### [Электронная транспортная накладная с GST](LocalFunctionality/India/GST-E-Way-Bill.md)
-###### [Кредитовая коррекция входящего GST](LocalFunctionality/India/GST-Input-Tax-Credit-Adjustment.md)
-###### [Расчеты по GST](LocalFunctionality/India/GST-Settelement.md)
-###### [Электронный счет c GST](LocalFunctionality/India/GST-E-Invoice.md)
-##### Дополнительный сбор GST
-###### [Базовая настройка дополнительного сбора GST](LocalFunctionality/India/GST-Cess-Basic-Setup.md)
-###### [Расчет дополнительного сбора GST](LocalFunctionality/India/GST-Cess-Calculations.md)
-##### GST при управлении сервисом
-###### [GST при управлении сервисом](LocalFunctionality/India/GST-Service-Management.md)
+###### [Кредитовая коррекция входящего налога с продаж](LocalFunctionality/India/GST-Input-Tax-Credit-Adjustment.md)
+###### [Расчеты по налогу с продаж](LocalFunctionality/India/GST-Settelement.md)
+###### [Электронный счет c налогом с продаж](LocalFunctionality/India/GST-E-Invoice.md)
+##### Дополнительный сбор налога с продаж
+###### [Базовая настройка дополнительного сбора налога с продаж](LocalFunctionality/India/GST-Cess-Basic-Setup.md)
+###### [Расчет дополнительного сбора налога с продаж](LocalFunctionality/India/GST-Cess-Calculations.md)
+##### Налог с продаж при управлении сервисом
+###### [Налог с продаж при управлении сервисом](LocalFunctionality/India/GST-Service-Management.md)
 ##### GST при распределении входящих услуг
 ###### [Обзор GST при распределении входящих услуг](LocalFunctionality/India/GST-Input-Service-Distribution-Overview.md)
 ###### [Процесс обработки GST при распределении входящих услуг](LocalFunctionality/India/GST-Input-Service-Distribution-Process.md)
@@ -1232,7 +1246,7 @@ ms.service: dynamics-365-business-central
 
 ### Мексика
 #### [Локальная функциональность в мексиканской версии](LocalFunctionality/Mexico/mexico-local-functionality.md)
-#### Налоги
+#### Налог
 ##### [Настройка и формирование отчетов DIOT](LocalFunctionality/Mexico/ui-extensions-setup-and-generate-diot-report-mx.md)
 ##### [Типы налоговой идентификации для Мексики](LocalFunctionality/Mexico/tax-identification-types-for-mexico.md)
 ##### [Пересчет НДС](LocalFunctionality/Mexico/vat-recalculation.md)
@@ -1287,7 +1301,7 @@ ms.service: dynamics-365-business-central
 
 ### Новая Зеландия
 #### [Локальная функциональность в новозеландской версии](LocalFunctionality/NewZealand/new-zealand-local-functionality.md)
-#### Налоги
+#### Налог
 ##### [Подоходный налог](LocalFunctionality/NewZealand/withholding-tax.md)
 ##### [Настройка подоходного налога](LocalFunctionality/NewZealand/how-to-set-up-withholding-tax.md)
 ##### [Настройка типов доходов для подоходного налога](LocalFunctionality\NewZealand\how-to-set-up-revenue-types-for-withholding-tax.md)
@@ -1565,9 +1579,13 @@ ms.service: dynamics-365-business-central
 
 ### США
 #### [Локальная функциональность в версии для США](LocalFunctionality/UnitedStates/united-states-local-functionality.md)
-#### Налоги
+#### Налог
 ##### [Базовая настройка налогообложения](LocalFunctionality/UnitedStates/us-tax-setup.md)  
-##### [Отчетность по налогу с продаж в США](LocalFunctionality/UnitedStates/us-sales-tax.md)  
+##### [Отчетность по налогу с продаж в США](LocalFunctionality/UnitedStates/us-sales-tax.md)
+##### [Знакомство с формами IRS 1099 и их функциональностью](LocalFunctionality/UnitedStates/introduction-to-the-irs-forms.md)
+##### [Настройка и использование формы IRS 1099 для версии 24 (волна 1 выпуска 2024 г.)](LocalFunctionality/UnitedStates/set-up-use-irs1099-form-v24.md)
+#### [Использование формы IRS 1099](LocalFunctionality/UnitedStates/how-to-1099-use.md)
+#### [Отправка и создание отчета по формам IRS 1099](LocalFunctionality/UnitedStates/how-to-1099-report.md)       
 ##### [Настройка и использование формы IRS 1099](LocalFunctionality/UnitedStates/set-up-use-irs1099-form.md)
 ##### [Изменения формата 1099 и сведения о нем](LocalFunctionality/UnitedStates/tax-1099-changes.md)  
 ##### [Настройка и использование формы IRS 1096](LocalFunctionality/UnitedStates/set-up-use-irs1096-form.md)
@@ -1802,8 +1820,14 @@ ms.service: dynamics-365-business-central
 # Анализ, бизнес-аналитика и отчетность 
 
 ## [Обзор аналитики](reports-bi-reporting.md)
-## [Использование ключевых показателей эффективности (КПЭ) для достижения бизнес-целей](./analytics-about-kpis.md)
-## [Использование бухгалтерской отчетности](bi-how-work-account-schedule.md)
+## [Аналитика по функциональной области](analytics-by-functional-area.md)
+
+## КПЭ, панели мониторинга и финансовые отчеты
+### [Использование ключевых показателей эффективности (КПЭ) для достижения бизнес-целей](analytics-about-kpis.md)
+### [Знакомство с Business Central и Power BI](admin-powerbi.md)
+### [Работа с отчетами Power BI](across-working-with-powerbi.md)
+### [Отслеживание КПЭ с помощью метрик Power BI](track-kpis-with-power-bi-metrics.md)
+### [Использование бухгалтерской отчетности](bi-how-work-account-schedule.md)
 
 ## Специальный анализ данных
 ### [Обзор](reports-adhoc-analysis.md)
@@ -1812,12 +1836,7 @@ ms.service: dynamics-365-business-central
 ### [Анализ данных страниц в Excel](across-work-with-excel.md)
 ### [Анализ данных отчетов с помощью Excel](report-analyze-excel.md)
 ### [Анализ данных списков и запросов в режиме анализа](analysis-mode.md)
-
-## Инструменты встроенной аналитики
-### [Обзор](reports-built-in-analytics.md)
-### [Работа с отчетами Power BI](across-working-with-powerbi.md)
-### [Интеллектуальная аналитика (локальная версия)](about-intelligent-cloud.md)
-### [Телеметрия использования отчетов](/dynamics365/business-central/dev-itpro/administration/telemetry-reports-trace)
+### [Специальный анализ данных по функциональной области](ad-hoc-data-analysis-by-functional-area.md)
 
 ## Использование отчетов в повседневной работе
 ### [Обзор](reports-use-reports.md)
@@ -1834,44 +1853,21 @@ ms.service: dynamics-365-business-central
 ## Встроенные отчеты
 ### [Обзор отчетов](reports-available-reports.md)
 ### Финансы
-#### [Финансовая бизнес-аналитика](bi.md)
-#### [Анализ бухгалтерских отчетов с помощью Excel](finance-analyze-excel.md)
+#### [Подготовка бухгалтерской отчетности](bi-how-work-account-schedule.md)
 #### [Ключевые бухгалтерские отчеты](finance-reports.md)
 #### [Отчеты по расчетам с клиентами](receivables-reports.md)
 #### [Отчеты по расчетам с поставщиками](payables-reports.md)
-#### [Анализ движения денежных средств](finance-setup-cash-flow-analyses.md)
-#### [Консолидация финансовых данных из нескольких организаций](finance-consolidated-company-reporting.md)
 
-### Продажи
-#### [Отчеты по продажам](sales-reports.md)
-#### [Статус общего заказа на продажу](sales-how-to-create-blanket-sales-orders.md#to-view-the-status-of-a-blanket-sales-order)
-#### [Трассировка пакетов](sales-how-track-packages.md)
-#### [Просмотр неучтенных и учтенных строк общего заказа на продажу](sales-how-to-create-blanket-sales-orders.md#to-view-unposted-and-posted-blanket-sales-order-lines)
+### [Отчеты по продажам](sales-reports.md)
+### [Отчеты по покупкам](purchase-reports.md)
+### [Отчеты по запасам и складам](inventory-wms-reports.md)
 
-### Покупки
-#### [Отчеты по покупкам](purchase-reports.md)
-#### [Просмотр операций книги покупок](purchasing-how-record-purchases.md#viewing-ledger-entries)
-
-### Запасы и склады
-#### [Отчеты по запасам и складам](inventory-wms-reports.md)
-#### [Наличие товара](inventory-how-availability-overview.md)
-#### [Трассировка товаров по серийному номеру, номеру партии и номеру пакета](inventory-how-work-item-tracking.md)
-#### [Трассировка товаров, трассируемых по товарам](inventory-how-to-trace-item-tracked-items.md)
-#### [Аудит выверки между книгой запасов и главной книгой](finance-how-to-post-inventory-costs-to-the-general-ledger.md#to-audit-the-reconciliation-between-the-inventory-ledger-and-the-general-ledger)
-#### [Просмотр переброшенных товаров в отгрузке или журнале подбора](warehouse-how-to-cross-dock-items.md#to-view-cross-docked-items-in-a-shipment-or-pick-worksheet)
-
-### Проект
+### Проекты
 #### [Отчеты по проектам](project-reports.md)
 #### [Просмотр оценок потребления для проекта](projects-how-record-job-usage.md#to-view-project-usage-estimates-and-post-updates)
 #### [Отслеживание хода выполнения проекта](projects-how-monitor-progress-performance.md)
 
-### Основные средства
-#### [Отчеты по основным средствам](fa-reports.md)
-#### [Мониторинг затрат на обслуживание](fa-how-maintain.md#to-monitor-maintenance-costs)
-#### [Мониторинг страхового покрытия](fa-how-insure.md#to-monitor-insurance-coverage)
-#### [Просмотр измененных значений книги амортизации](fa-how-trans-split-combine.md#to-view-changed-depreciation-book-values-due-to-fixed-asset-reclassification)
-#### [Просмотр операций книги выбытия](fa-how-dispose-retire.md#to-view-disposal-ledger-entries)
-#### [Просмотр планируемых стоимостей реализации](fa-how-manage-budgets.md#to-view-projected-disposal-values)
+### [Отчеты по основным средствам](fa-reports.md)
 
 ### Управление сборкой
 #### [Отчеты по управлению сборкой](assembly-reports.md)
@@ -1887,6 +1883,9 @@ ms.service: dynamics-365-business-central
 #### [Обзор сервисных заказов](service-how-to-allocate-resources.md#to-see-an-overview-of-service-orders-and-service-quotes)
 #### [Обзор сервисных предложений](service-how-to-allocate-resources.md#to-see-an-overview-of-service-orders-and-service-quotes)
 #### [Обзор учтенных сервисных документов](service-service-posting.md#to-view-information-about-a-posted-service-document)
+
+### [Телеметрия использования отчетов](/dynamics365/business-central/dev-itpro/administration/telemetry-reports-trace)
+
 
 ## Разработка отчетов
 ### [Обзор](reports-develop-reports.md)
@@ -1909,11 +1908,9 @@ ms.service: dynamics-365-business-central
 ## Анализ данных в инструментах бизнес-аналитики
 ### [Обзор](reports-external-analysis.md)
 ### [Microsoft Fabric и Business Central](admin-fabric.md)
-### [Использование Power BI с Business Central](admin-powerbi.md)
-### [Анализ бухгалтерских отчетов с помощью Excel](finance-analyze-excel.md)
 ### [Извлечение данных в хранилища данных или озера данных](/dynamics365/business-central/dev-itpro/performance/performance-developer#efficient-extracts-to-data-lakes-or-data-warehouses)
 ### [Чтение данных с помощью API Business Central](/dynamics365/business-central/dev-itpro/api-reference/v2.0/)
-
+### [Интеллектуальная аналитика (локальная версия)](about-intelligent-cloud.md)
 
 
 # Безопасность, конфиденциальность и соответствие
