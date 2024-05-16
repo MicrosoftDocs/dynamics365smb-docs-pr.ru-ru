@@ -10,15 +10,15 @@ ms.search.form: 'Report_311, Report_312, Report_313, Report_320, Report_709, Rep
 ms.date: 04/26/2024
 ms.service: dynamics-365-business-central
 ---
-# Отчетность и аналитика по закупкам
+# <a name="purchase-reporting-and-analytics"></a>Отчетность и аналитика по закупкам
 
 Отчетность по покупкам позволяет специалистам по продажам и бизнес-руководителям получать информацию и статистику по текущей и прошлой деятельности по закупкам.  
 
-## Отчеты
+## <a name="reports"></a>Отчеты
 
 [!INCLUDE [purchase_reports](includes/purchase-reports-include.md)]
 
-## Задачи
+## <a name="tasks"></a>Задачи
 
 В следующих статьях описываются некоторые ключевые задачи анализа состояния ваших закупок:
 
@@ -26,7 +26,7 @@ ms.service: dynamics-365-business-central
 - [Расчет дат для покупок](purchasing-date-calculation-for-purchases.md)
 - [Просмотр операций книги покупок](purchasing-how-record-purchases.md#viewing-ledger-entries)
 
-## Знакомство с отчетами по закупкам с помощью обозревателя отчетов
+## <a name="explore-purchase-reports-with-report-explorer"></a>Знакомство с отчетами по закупкам с помощью обозревателя отчетов
 
 Чтобы ознакомиться с доступными отчетами для закупок, выберите **Все отчеты** на своей домашней странице. Откроется обозреватель ролей, в котором показаны только функции группы **Отчет и анализ**. Под заголовком **Покупки** выберите **Обзор**.
 
@@ -34,7 +34,7 @@ ms.service: dynamics-365-business-central
 
 Подробнее см. в статье [Поиск отчетов с помощью обозревателя ролей](ui-role-explorer.md). 
 
-## См. также
+## <a name="see-also"></a>См. также
 
 [Ad-hoc-анализ данных по покупкам](ad-hoc-analysis-purchasing.md)  
 [Обзор аналитики покупок](purchasing-analytics-overview.md)   
