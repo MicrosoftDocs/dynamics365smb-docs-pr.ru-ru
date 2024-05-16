@@ -12,18 +12,21 @@ ms.service: dynamics-365-business-central
 ---
 # Отчеты и аналитика по расчетам с поставщиками
 
-Чтобы помочь вам управлять своей кредиторской задолженностью в [!INCLUDE [prod_short](includes/prod_short.md)], встроены стандартные отчеты и аналитика. Функция выходит за рамки традиционных ограничений отчетности, чтобы помочь вам эффективно разрабатывать различные типы отчетов.  
+В [!INCLUDE [prod_short](includes/prod_short.md)] имеются встроенные отчеты и средства аналитики, которые помогут вам управлять своей кредиторской задолженностью. Возможности этих инструментов выходят за рамки традиционной отчетности и позволяют без труда разрабатывать различные типы отчетов.  
 
 ## Отчеты
+
 [!INCLUDE [payables_reports](includes/payables-reports-include.md)]
+
+## Знакомство с бухгалтерскими отчетами с помощью обозревателя отчетов
+
+[!INCLUDE [finance_reports_report_explorer](includes/finance-reports-report-explorer-include.md)]
 
 ## См. также
 
-[Анализ финансовых отчетов в Microsoft Excel](finance-analyze-excel.md)  
-[Работа с измерениями](finance-dimensions.md)  
-[Управление основными средствами](fa-manage.md)  
-[Обзор локальных функциональных возможностей](about-localization.md)  
+[Ad-hoc-анализ финансовых данных](ad-hoc-analysis-finance.md)  
+[Финансовая аналитика](bi.md)  
+[Аналитика покупок](purchasing-analytics-overview.md)  
 [Работа бухгалтера в [!INCLUDE[prod_long](includes/prod_long.md)]](finance-accounting.md)  
-
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

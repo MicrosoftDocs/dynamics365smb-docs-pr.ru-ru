@@ -11,15 +11,21 @@ ms.service: dynamics-365-business-central
 ---
 # Отчеты и аналитика по ОС в Business Central
 
-Чтобы помочь вам управлять своими основными средствами в [!INCLUDE [prod_short](includes/prod_short.md)], встроены стандартные отчеты и аналитика. Функция выходит за рамки традиционных ограничений отчетности, чтобы помочь вам эффективно разрабатывать различные типы отчетов.  
+Чтобы помочь вам управлять своими основными средствами в [!INCLUDE [prod_short](includes/prod_short.md)], встроены стандартные отчеты и аналитика. Возможности этих инструментов выходят за рамки традиционной отчетности и позволяют эффективно разрабатывать различные типы отчетов.  
 
 ## Отчеты
 [!INCLUDE [fa_reports](includes/fa-reports-include.md)]
 
 
+## Знакомство с бухгалтерскими отчетами с помощью обозревателя отчетов
+[!INCLUDE [finance_reports_report_explorer](includes/finance-reports-report-explorer-include.md)]
+
+
 ## См. также
 
+[Ad-hoc-анализ данных по основным средствам](ad-hoc-analysis-fa.md)     
 [Обзор аналитики по основным средствам](fa-analytics-overview.md)   
+[Обзор финансовой аналитики](bi.md)   
 [Управление основными средствами](fa-manage.md)  
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

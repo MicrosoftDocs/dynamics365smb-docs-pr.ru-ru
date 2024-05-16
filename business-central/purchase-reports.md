@@ -12,7 +12,7 @@ ms.service: dynamics-365-business-central
 ---
 # Отчетность и аналитика по закупкам
 
-Отчетность по покупкам в [!INCLUDE [prod_short](includes/prod_short.md)] позволяет специалистам по продажам и бизнес-руководителям получать информацию и статистику по текущей и прошлой деятельности по закупкам.  
+Отчетность по покупкам позволяет специалистам по продажам и бизнес-руководителям получать информацию и статистику по текущей и прошлой деятельности по закупкам.  
 
 ## Отчеты
 
@@ -20,13 +20,25 @@ ms.service: dynamics-365-business-central
 
 ## Задачи
 
-В следующих статьях описываются некоторые ключевые задачи анализа состояния вашего бизнеса:
+В следующих статьях описываются некоторые ключевые задачи анализа состояния ваших закупок:
 
-* [Создание аналитических отчетов](bi-how-create-analysis-views-reports.md)  
-* [Просмотр наличия товара](inventory-how-availability-overview.md)  
+- [Просмотр наличия товаров](inventory-how-availability-overview.md)  
+- [Расчет дат для покупок](purchasing-date-calculation-for-purchases.md)
+- [Просмотр операций книги покупок](purchasing-how-record-purchases.md#viewing-ledger-entries)
+
+## Знакомство с отчетами по закупкам с помощью обозревателя отчетов
+
+Чтобы ознакомиться с доступными отчетами для закупок, выберите **Все отчеты** на своей домашней странице. Откроется обозреватель ролей, в котором показаны только функции группы **Отчет и анализ**. Под заголовком **Покупки** выберите **Обзор**.
+
+:::image type="content" source="media/report-explorer-purchasing.png" alt-text="Пример отчетов в ролевом центре XXX." lightbox="media/report-explorer-purchasing.png":::
+
+Подробнее см. в статье [Поиск отчетов с помощью обозревателя ролей](ui-role-explorer.md). 
 
 ## См. также
+
+[Ad-hoc-анализ данных по покупкам](ad-hoc-analysis-purchasing.md)  
+[Обзор аналитики покупок](purchasing-analytics-overview.md)   
 [Настройка покупки](purchasing-setup-purchasing.md)  
-[Покупки](purchasing-manage-purchasing.md)  
+[Обзор покупок](purchasing-manage-purchasing.md)  
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

@@ -1,40 +1,39 @@
 ---
-title: Встроенные финансовые отчеты в Business Central
-description: 'Посмотрите, какие встроенные финансовые отчеты доступны в стандартной версии Business Central, чтобы вы могли отслеживать свой бизнес. Для отчетности о прибылях и убытках (P&L) используйте отчет 38.'
+title: Встроенные бухгалтерские отчеты в Business Central
+description: Знакомство со встроенными бухгалтерскими отчетами в стандартной версии Business Central.
 author: brentholtorf
+ms.author: bholtorf
+ms.reviewer: bholtorf
 ms.topic: conceptual
 ms.search.keywords: reporting
 ms.search.form: 'Report_4, Report_6, Report_7, Report_9, Report_25, Report_38'
-ms.date: 12/19/2023
-ms.author: bholtorf
+ms.date: 05/03/2024
+ms.custom: bap-template
 ms.service: dynamics-365-business-central
 ---
 
 # Встроенные финансовые отчеты в Business Central
 
-[!INCLUDE [prod_short](includes/prod_short.md)] включает несколько встроенных отчетов, функции отслеживания и инструменты, чтобы помочь аудиторам или контролерам, которые несут ответственность за отчетность перед финансовым отделом. 
+В [!INCLUDE [prod_short](includes/prod_short.md)] входит несколько встроенных отчетов, функций отслеживания и инструментов, назначение которых — помочь аудиторам или контролерам, отвечающим за отчетность перед финансовым отделом.
 
 [!INCLUDE [tip_open_report_from_docs](includes/tip-open-report-from-docs.md)]
 
 [!INCLUDE [finance_reports](includes/finance-reports-include.md)]
 
+## Знакомство с бухгалтерскими отчетами с помощью обозревателя отчетов
+
+[!INCLUDE [finance_reports_report_explorer](includes/finance-reports-report-explorer-include.md)]
 
 ## См. также
 
-[Создание бюджетов затрат](finance-create-cost-budgets.md)  
-[Подача отчетности по НДС в налоговые органы](finance-how-report-vat.md)  
-[Закрытие года и периодов](year-close-years-periods.md)  
-[Использование отчетов по предварительному закрытию](year-prepare-preclose-reports.md)  
-[Подготовка отчетов о закрытии](year-prepare-close-statement.md)  
-[Анализ финансовых отчетов в Microsoft Excel](finance-analyze-excel.md)  
-[Работа с измерениями](finance-dimensions.md)  
-[Отчеты о дебиторской задолженности и аналитика](receivables-reports.md)  
-[Отчеты о кредиторской задолженности и аналитика](payables-reports.md)  
-[Отчеты и аналитика основных средств](fa-reports.md)  
+[Отчеты и аналитика по расчетам с клиентами](receivables-reports.md)  
+[Отчеты и аналитика по расчетам с поставщиками](payables-reports.md)  
+[Отчеты и аналитика по основным средствам](fa-reports.md)  
+[Ad-hoc-анализ финансовых данных](ad-hoc-analysis-finance.md)  
+[Финансовая аналитика](bi.md)  
 [Настройка финансов](finance-setup-finance.md)  
 [Финансы](finance.md)  
-[Обзор локальных функциональных возможностей](about-localization.md)  
+[Обзор локальной функциональности](about-localization.md)  
 [Работа бухгалтера в [!INCLUDE[prod_long](includes/prod_long.md)]](finance-accounting.md)  
-
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

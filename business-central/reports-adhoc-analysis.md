@@ -21,6 +21,13 @@ ms.custom: bap-template
 | Просмотр и анализ данных из набора данных отчета в Excel | [Анализ данных отчета с помощью Excel и XML](report-analyze-excel.md) |
 | Анализ данных списка прямо со страницы |[Анализ данных списка с использованием режима анализа данных](analysis-mode.md)|
 
+## Ad-hoc-анализ данных по функциональной области
+
+Общие сведения об ad-hoc-анализе данных также доступны в специальных версиях для многих функциональных областей в [!INCLUDE[prod_short](includes/prod_short.md)]. 
+
+[!INCLUDE[ad-hoc-analysis-scenarios-table](includes/ad-hoc-analysis-scenarios-table.md)]
+
+
 ## См. также
 
 [Обзор бизнес-аналитики и отчетности](ui-work-report.md)

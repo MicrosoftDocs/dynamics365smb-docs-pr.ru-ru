@@ -14,16 +14,23 @@ ms.service: dynamics-365-business-central
 
 Чтобы помочь вам управлять своей дебиторской задолженностью в [!INCLUDE [prod_short](includes/prod_short.md)], встроены стандартные отчеты и аналитика. Функция выходит за рамки традиционных ограничений отчетности, чтобы помочь вам эффективно разрабатывать различные типы отчетов.  
 
+
 ## Отчеты
+
 [!INCLUDE [receivable_reports](includes/receivable-reports-include.md)]
+
+
+## Знакомство с бухгалтерскими отчетами с помощью обозревателя отчетов
+
+[!INCLUDE [finance_reports_report_explorer](includes/finance-reports-report-explorer-include.md)]
+
 
 ## См. также
 
-[Анализ финансовых отчетов в Microsoft Excel](finance-analyze-excel.md)  
-[Работа с измерениями](finance-dimensions.md)  
-[Управление основными средствами](fa-manage.md)  
-[Обзор локальных функциональных возможностей](about-localization.md)  
+[Ключевые бухгалтерские отчеты](finance-reports.md)  
+[Ad-hoc-анализ финансовых данных](ad-hoc-analysis-finance.md)   
+[Финансовая аналитика](bi.md)   
+[Аналитика продаж](sales-analytics-overview.md)  
 [Работа бухгалтера в [!INCLUDE[prod_long](includes/prod_long.md)]](finance-accounting.md)  
-
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

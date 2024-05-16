@@ -6,12 +6,12 @@ ms.topic: conceptual
 ms.devlang: al
 ms.search.keywords: 'Sustainability, ESG, emission, GHG, CSRD'
 ms.search.form: null
-ms.date: 03/29/2024
+ms.date: 04/23/2024
 ms.author: altotovi
 ms.service: dynamics-365-business-central
 ---
 
-# <a name="sustainability-management-overview"></a>Обзор экологического учета
+# Обзор экологического учета
 
 >[!IMPORTANT]
 >Эта функциональность будет доступна в Business Central начиная с **волны 1 выпуска 2024 года**, и все ссылки на справочные материалы будут работать, как только эти материалы станут доступны.
@@ -36,19 +36,19 @@ ms.service: dynamics-365-business-central
 
 О том, как начать работу с экологическим учетом, читайте в следующих статьях.  
 
-|  Статья  |  Описание  |  
+|  Статья  |  Описанием  |  
 |--------|--------------| 
 |[Настройка экологического учета](finance-sustainability-setup.md) | В этой статье представлена информация, которая поможет вам правильно настроить весь модуль "Экологический учет". |
 |[План счетов и книга экологического учета](finance-sustainability-accounts-ledger.md) | В этой статье представлена информация о том, как правильно настроить план счетов экологического учета, категории и подкатегории счетов, а также как анализировать информацию в операциях книги экологического учета. |
 |[Как регистрировать выбросы парниковых газов](finance-sustainability-journal.md) | Из этой статьи вы узнаете, как работать со всеми типами журналов экологического учета. |
 
 
-## <a name="see-also"></a>См. также
-[Настройка экологического учета](finance-sustainability-setup.md) 
-[План счетов и книга экологического учета](finance-sustainability-accounts-ledger.md) 
-[Как регистрировать выбросы ПГ](finance-sustainability-journal.md)
-[Финансы](finance.md)  
-[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+## См. также  
+[Настройка экологического учета](finance-sustainability-setup.md)   
+[План счетов и книга экологического учета](finance-sustainability-accounts-ledger.md)   
+[Как регистрировать выбросы ПГ](finance-sustainability-journal.md)  
+[Финансы](finance.md)    
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]
