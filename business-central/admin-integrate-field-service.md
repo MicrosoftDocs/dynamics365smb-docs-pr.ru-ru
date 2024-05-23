@@ -5,11 +5,11 @@ ms.date: 02/21/2024
 ms.topic: article
 author: brentholtorf
 ms.author: bholtorf
-ms.reviewer: ivkoleti
+ms.reviewer: bholtorf
 ms.custom: bap-template
 ---
 
-# <a name="integrate-with-microsoft-dynamics-365-field-service"></a>Интеграция с Microsoft Dynamics 365 Field Service
+# Интеграция с Microsoft Dynamics 365 Field Service
 
 Сервисным организациям требуется сквозное приложение, в котором финансы, запасы и закупки тесно связаны с предоставлением услуг. Они генерируют финансовые данные при каждой транзакции. Каждый заказ на работу представляет собой затраты и доходы, а каждый ресурс генерирует прибыль и убытки. Взаимодействия с клиентами добавляют записи в главную книгу. Интеграция между [!INCLUDE [prod_short](includes/prod_short.md)] и [!INCLUDE [field-service-short](includes/field-service-short.md)] упрощает сквозной процесс управления операциями обслуживания и обеспечивает плавный поток информации между двумя системами.  
 
@@ -19,27 +19,27 @@ ms.custom: bap-template
 
 Благодаря интеграции [!INCLUDE [prod_short](includes/prod_short.md)] с [!INCLUDE [field-service-short](includes/field-service-short.md)] вам не придется вводить данные вручную или дублировать усилия. Интеграция также обеспечивает комплексное представление об операциях обслуживания и финансовых показателях, что позволяет лучше принимать решения и повышать операционную эффективность.
 
-## <a name="prerequisites"></a>Предварительные требования
+## Предварительные требования
 
 Поскольку [!INCLUDE [field-service-short](includes/field-service-short.md)] построен на основе Dynamics 365 Sales, необходимо [настроить подключение к Dataverse](/dynamics365/business-central/admin-how-to-set-up-a-dynamics-crm-connection#to-use-the-dataverse-connection-setup-assisted-setup-guide) и [включить интеграцию с Dynamics 365 Sales](/dynamics365/business-central/admin-prepare-dynamics-365-for-sales-for-integration#connection-settings-in-the-setup-guide).
 
-### <a name="permissions-and-security-roles-for-user-accounts"></a>Разрешения и роли безопасности для учетных записей пользователей
+### Разрешения и роли безопасности для учетных записей пользователей
 
 При установке решения интеграции разрешения для учетной записи пользователя интеграции настраиваются. Если эти разрешения изменились, вам может потребоваться сбросить их. Для этого заново установите решение интеграции со страницы **Настройка подключения Dynamics 365**, выбрав **Повторить развертывание решения интеграции**. В следующих разделах перечислены разрешения и роли безопасности, которые решение развертывает для каждого приложения.
 
-#### <a name="sales"></a>Продажа
+#### Продажа
 
 * Администратор интеграции Dynamics 365 [!INCLUDE [prod_short](includes/prod_short.md)]
 * Пользователь интеграции с Dynamics 365 [!INCLUDE [prod_short](includes/prod_short.md)]
 * Пользователь наличия товара Dynamics 365 [!INCLUDE [prod_short](includes/prod_short.md)]
 
-#### <a name="business-central"></a>Business Central
+#### Business Central
 
 Пользователи, разносящие журналы проектов, должны иметь следующий набор разрешений:
 
 * Интеграция с Dynamics 365 Sales
 
-#### <a name="field-service"></a>Выездное обслуживание
+#### Выездное обслуживание
 
 Чтобы использовать интегрированные данные, пользователи должны иметь следующую роль безопасности:
 
@@ -60,7 +60,7 @@ ms.custom: bap-template
 > * У вас должны быть разрешения на **чтение** в отношении таблицы **Подключение к Dynamics 365 Business Central** (nav_connection).
 > * У вас должны быть разрешения на **чтение**, **запись** и **удаление** в отношении таблицы **Подключение к Dynamics 365 Business Central по умолчанию** (nav_defaultconnection).
 
-### <a name="other-settings-in-field-service"></a>Другие настройки в Field Service
+### Другие настройки в Field Service
 
 На странице **Настройки Field Service** внесите следующие изменения:
 
@@ -70,7 +70,7 @@ ms.custom: bap-template
 > [!NOTE]
 > Настройка подключения к [!INCLUDE [field-service-short](includes/field-service-short.md)] удаляет связь между ресурсами и продуктами. Чтобы сделать номенклатуры [!INCLUDE [prod_short](includes/prod_short.md)] доступными в [!INCLUDE [field-service-short](includes/field-service-short.md)], обновите поле **Тип продукта Field Service**, чтобы оно соответствовало полю **Тип** в номенкелатурах в [!INCLUDE [prod_short](includes/prod_short.md)]. Чтобы узнать больше, перейдите к разделу [Создание продукта или услуги](/dynamics365/field-service/create-product-or-service#create-a-product-or-service).
 
-## <a name="set-up-the-integration-in-business-central"></a>Настройка интеграции в Business Central
+## Настройка интеграции в Business Central
 
 После подключения к Dataverse и Sales вы можете настроить интеграцию с [!INCLUDE [field-service-short](includes/field-service-short.md)]. На странице **Мастер настройки** в [!INCLUDE [prod_short](includes/prod_short.md)] выберите **Настроить интеграцию с Dynamics 365 Field Service**, чтобы запустить руководство мастера настройки. В этом разделе описаны ключевые настройки в руководстве.
 
@@ -91,7 +91,7 @@ ms.custom: bap-template
 * Ресурсы, которые не заблокированы, не имеют выбранного флажка **Использовать табель** и имеют **Часы**, указанные как единица измерения, на странице **Настройка интеграции Dynamics 365 Field Service**.
 * Сервисные номенклатуры (требуется, чтобы вы используете премиум-версию в [!INCLUDE [prod_short](includes/prod_short.md)]).
 
-## <a name="standard-field-service-entity-mapping-for-synchronization"></a>Сопоставление стандартных сущностей Field Service для синхронизации
+## Сопоставление стандартных сущностей Field Service для синхронизации
 
 Основой синхронизации данных является сопоставление таблиц и полей в [!INCLUDE [prod_short](includes/prod_short.md)] с таблицами и столбцами в Dataverse, чтобы они могли обмениваться данными. Сопоставление происходит через таблицы интеграции. Чтобы узнать больше о сопоставлениях таблиц, перейдите к разделу [Сопоставление таблиц и полей для синхронизации](/dynamics365/business-central/admin-how-to-modify-table-mappings-for-synchronization).
 
@@ -103,11 +103,11 @@ ms.custom: bap-template
 * **RESOURCE-BOOKABLERSC** — сопоставляет ресурсы в [!INCLUDE [prod_short](includes/prod_short.md)] с резервируемыми ресурсами в [!INCLUDE [field-service-short](includes/field-service-short.md)].
 * **SVCITEM-CUSTASSET** — (только премиум-интерфейс) сопоставляет сервисные номенклатуры в [!INCLUDE [prod_short](includes/prod_short.md)] с активами клиента в [!INCLUDE [field-service-short](includes/field-service-short.md)].
 
-## <a name="use-data-in-both-applications"></a>Использование данных в обоих приложениях
+## Использование данных в обоих приложениях
 
 В следующих разделах описаны функции, в которых можно использовать данные, поступающие из [!INCLUDE [prod_short](includes/prod_short.md)] и [!INCLUDE [field-service-short](includes/field-service-short.md)].
 
-### <a name="field-service-1"></a>Выездное обслуживание
+### Выездное обслуживание
 
 Вы можете [создавать заказы на работу](/dynamics365/field-service/create-work-order), используя **обслуживаемую организацию** и **организацию-плательщика** из [!INCLUDE [prod_short](includes/prod_short.md)]. В заказах на работу необходимо выбрать **Задача проекта Business Central** в поле **Внешний проект**. Выбор проекта позволяет синхронизировать продукты и услуги заказа на работу с соответствующей задачей проекта в [!INCLUDE [prod_short](includes/prod_short.md)].
 
@@ -120,7 +120,7 @@ ms.custom: bap-template
 
 Вы можете зарезервировать ресурс и связать **Резервирования** с услугами заказов на работу, используя **Резервируемый ресурс** из [!INCLUDE [prod_short](includes/prod_short.md)].
 
-### <a name="business-central-1"></a>Business Central
+### Business Central
 
 В зависимости от ваших настроек на странице **Настройка интеграции Field Service**, когда заказы на работу включают продукты и услуги, информация о потреблении переносится и разносится с использованием **Журнала проекта** в [!INCLUDE [prod_short](includes/prod_short.md)].
 
@@ -135,7 +135,7 @@ ms.custom: bap-template
 >
 > Вы можете создать счет для номенклатуры типа **Услуга** из строки планирования оплачиваемого проекта и использовать строку планирования бюджетного проекта для регистрации затрат в ресурсе.
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Интеграция с Microsoft Dataverse посредством синхронизации данных](admin-common-data-service.md)  
 [Сопоставление таблиц и полей для синхронизации](admin-how-to-modify-table-mappings-for-synchronization.md)
