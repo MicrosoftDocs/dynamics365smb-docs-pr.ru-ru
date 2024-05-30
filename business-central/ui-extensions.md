@@ -9,7 +9,7 @@ ms.date: 09/27/2022
 ms.author: bholtorf
 ms.service: dynamics-365-business-central
 ---
-# <a name="customizing-business-central-online-with-apps"></a>Настройка Business Central Online с помощью приложений
+# <a name="customizing-business-central-online-using-apps"></a>Настройка Business Central Online с помощью приложений
 
 Вы можете изменить [!INCLUDE[prod_short](includes/prod_short.md)] интернет-версии за счет установки приложений, которые добавляют функциональность, изменяют поведение или, например, предоставляют доступ к новым интернет-службам. Эти приложения также называются *расширениями*, потому что они *расширяют* [!INCLUDE [prod_short](includes/prod_short.md)].
 
