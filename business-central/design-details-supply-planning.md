@@ -10,7 +10,7 @@ ms.custom: bap-template
 ms.search.keywords: 'design, supply, planning, reordering, replenishment'
 ms.service: dynamics-365-business-central
 ---
-# <a name="design-details-supply-planning"></a>Сведения о проектировании: планирование поставок
+# Сведения о проектировании: планирование поставок
 
 Документация содержит подробные технические сведения о концепциях и принципах, используемых в функциях планирования поставок в [!INCLUDE[prod_short](includes/prod_short.md)].  
 
@@ -21,13 +21,13 @@ ms.service: dynamics-365-business-central
 * Описывает логику центрального механизма балансировки поставок
 * Объясняет, как использовать политики повторного заказа в планировании запасов  
 
-## <a name="in-this-section"></a>В этом разделе
+## В этом разделе  
 
 [Сведения о проектировании: основные понятия системы планирования](design-details-central-concepts-of-the-planning-system.md)  
 [Сведения о проектировании: резервирование, трассировка заказов и отправка сообщений о действиях](design-details-reservation-order-tracking-and-action-messaging.md)  
-[Сведения о проектировании: балансировка спроса и поставки](design-details-balancing-demand-and-supply.md)  
-[Сведения о проектировании: обработка политик дозаказа](design-details-handling-reordering-policies.md)  
-[Сведения о проектировании: параметры планирования](design-details-planning-parameters.md)  
+[Технические подробности: балансировка спроса и поставок](design-details-balancing-demand-and-supply.md)  
+[Технические подробности: обработка политик дозаказа](design-details-handling-reordering-policies.md)  
+[Технические подробности: параметры планирования](design-details-planning-parameters.md)  
 [Сведения о проектировании: таблица "Назначение произ. плана"](design-details-planning-assignment-table.md)  
 [Сведения о проектировании: Планирование со складами и без складов](production-planning-with-without-locations.md)  
 [Сведения о проектировании: перемещения при планировании](design-details-transfers-in-planning.md)
