@@ -611,11 +611,11 @@ ms.service: dynamics-365-business-central
 ### [Методы амортизации](fa-depreciation-methods.md)
 ### [Управление бюджетами на основные средства](fa-how-manage-budgets.md)
 ### [Приобретение основных средств](fa-how-acquire.md)
+### [Амортизация основных средств](fa-how-depreciate-amortize.md)
 ### [Обслуживание основных средств](fa-how-maintain.md)
 ### [Страхование основных средств](fa-how-insure.md)
 ### [Перемещение, разделение или объединение основных средств](fa-how-trans-split-combine.md)
 ### [Переоценка основных средств](fa-how-revalue.md)
-### [Амортизация основных средств](fa-how-depreciate-amortize.md)
 ### [Списание или выбытие основных средств](fa-how-dispose-retire.md)
 ### [Устранение проблем в операциях книги основных средств](fa-troubleshooting-fa-ledger-entries.md)
 
