@@ -9,15 +9,15 @@ ms.date: 05/03/2024
 ms.author: bholtorf
 ms.service: dynamics-365-business-central
 ---
-# <a name="sales-reports-and-analytics-in-business-central"></a>Отчеты и аналитика по продажам в Business Central
+# Отчеты и аналитика по продажам в Business Central
 
 Отчетность по продажам позволяет специалистам по продажам и бизнес-руководителям получать информацию и статистику по текущей и прошлой деятельности по продажам.  
 
-## <a name="reports"></a>Отчеты
+## Отчеты
 
 [!INCLUDE [sales_reports](includes/sales-reports-include.md)]
 
-## <a name="tasks"></a>Задачи
+## Задачи
 
 В следующих статьях описываются некоторые ключевые задачи анализа состояния ваших продаж:
 
@@ -27,7 +27,7 @@ ms.service: dynamics-365-business-central
 * [Трассировка пакетов](sales-how-track-packages.md)
 * [Просмотр неучтенных и учтенных строк общего заказа на продажу](sales-how-to-create-blanket-sales-orders.md#to-view-unposted-and-posted-blanket-sales-order-lines)
 
-## <a name="explore-sales-reports-with-report-explorer"></a>Знакомство с отчетами по продажам помощью обозревателя отчетов
+## Знакомство с отчетами по продажам помощью обозревателя отчетов
 
 Чтобы ознакомиться с доступными отчетами для продаж, выберите **Все отчеты** на своей домашней странице. Откроется обозреватель ролей, в котором показаны только функции группы **Отчет и анализ**. Под заголовком **Продажи и маркетинг** выберите **Обзор**.
 
@@ -35,7 +35,7 @@ ms.service: dynamics-365-business-central
 
 Подробнее см. в статье [Поиск отчетов с помощью обозревателя ролей](ui-role-explorer.md).
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Ad-hoc-анализ данных по продажам](ad-hoc-analysis-sales.md)    
 [Обзор аналитики продаж](sales-analytics-overview.md)   

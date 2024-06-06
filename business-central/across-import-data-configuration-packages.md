@@ -10,7 +10,7 @@ ms.date: 04/26/2024
 ms.service: dynamics-365-business-central
 ms.custom: bap-template
 ---
-# <a name="import-business-data-from-other-finance-systems"></a>Импорт бизнес-данных из других финансовых систем
+# Импорт бизнес-данных из других финансовых систем
 
 При регистрации в [!INCLUDE[prod_short](includes/prod_short.md)] вы можете создать пустую организации, чтоб загрузить собственные данные и протестировать новую организацию [!INCLUDE[prod_short](includes/prod_short.md)]. В зависимости от финансового решения, которое вы используете сейчас, вы можете перенести информацию о клиентах, поставщиках, запасах и банковских счетах.  
 
@@ -21,11 +21,11 @@ ms.custom: bap-template
 > [!TIP]  
 > Рекомендуется использовать мастеры миграции данных для импорта данных из Dynamics GP, Dynamics NAV или QuickBooks. Для получения дополнительной информации см. раздел [Перенос локальных данных в Business Central Online](/dynamics365/business-central/dev-itpro/administration/migrate-data) в материалах для администраторов или [Перенос данных QuickBooks](ui-extensions-quickbooks-data-migration.md).
 
-## <a name="work-with-data-in-excel"></a>Работа с данными в Excel
+## Работа с данными в Excel
 
 Вы можете использовать надстройку Excel для подготовки существующих данных к использованию в [!INCLUDE [prod_short](includes/prod_short.md)]. Дополнительную информацию см. в разделе [Просмотр и редактирование в Excel из Business Central](across-work-with-excel.md).  
 
-## <a name="import-data-from-configuration-packages"></a>Импорт данных из пакетов конфигураций
+## Импорт данных из пакетов конфигураций
 
 Для внедрения больших объемов данных вы можете настроить пакеты конфигурации для конкретного решения. Дополнительные сведения см. в разделе [Настройка стандартных пакетов конфигурации компании](/dynamics365/business-central/dev-itpro/administration/set-up-standard-company-configuration-packages) в материалах для администраторов (только на английском языке).  
 
@@ -42,7 +42,7 @@ ms.custom: bap-template
 > [!NOTE]
 > Поля типа Blob не могут быть экспортированы/импортированы с использованием Excel.
 
-### <a name="tables-in-the-default-configuration-package"></a>Таблицы в пакете конфигурации по умолчанию
+### Таблицы в пакете конфигурации по умолчанию
 
 Пакет конфигурации по умолчанию поддерживает следующие таблицы:
 
@@ -73,7 +73,7 @@ ms.custom: bap-template
 - Цена продажи
 - Цена покупки
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Перенос локальных данных в Business Central Online (только на английском языке)](/dynamics365/business-central/dev-itpro/administration/migrate-data)  
 [Настройка пакетов конфигурации организации](/dynamics365/business-central/dev-itpro/administration/set-up-standard-company-configuration-packages)  

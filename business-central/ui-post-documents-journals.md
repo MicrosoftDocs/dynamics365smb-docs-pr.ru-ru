@@ -9,7 +9,7 @@ ms.search.form: null
 ms.author: bholtorf
 ms.service: dynamics-365-business-central
 ---
-# <a name="posting-documents-and-journals"></a>Учет документов и журналов
+# Учет документов и журналов
 
 Учет представляет бухгалтерское действие по записи бизнес-транзакций в различных книгах организации.
 
@@ -26,7 +26,7 @@ ms.service: dynamics-365-business-central
 | Предварительный просмотр на странице операций, которые будут созданы при учете. |[Предварительный просмотр результатов учета](ui-how-preview-post-results.md) |
 | Предварительный просмотр в отчете операций, которые будут созданы при учете. |[Просмотр тестовых отчетов перед учетом](ui-how-view-test-reports-posting.md) |
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Изменение учтенных документов](across-edit-posted-document.md)  
 [Поиск связанных операций для документов](ui-find-entries.md)  

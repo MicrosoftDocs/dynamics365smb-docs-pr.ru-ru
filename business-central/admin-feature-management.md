@@ -10,7 +10,7 @@ ms.author: mikebc
 ms.service: dynamics-365-business-central
 ---
 
-# <a name="enabling-new-and-upcoming-features-ahead-of-time"></a>Раннее включение новых и будущих функций
+# Раннее включение новых и будущих функций
 
 Некоторые новые функции можно включать заранее, что позволяет начать пользоваться ими как можно раньше. Раннее включение функций дает вам время протестировать их и подготовить свою организацию к изменениям.
 
@@ -18,7 +18,7 @@ ms.service: dynamics-365-business-central
 
 Подробнее об [управлении функциями](/dynamics365/business-central/dev-itpro/administration/feature-management).  
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Новые и планируемые функции](/dynamics365-release-plan/2021wave1/)  
 
