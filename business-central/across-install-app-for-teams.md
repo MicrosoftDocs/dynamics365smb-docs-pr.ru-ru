@@ -10,7 +10,7 @@ ms.author: jswymer
 ms.service: dynamics-365-business-central
 ---
 
-# Установите приложение [!INCLUDE [prod_short](includes/prod_short.md)] для Microsoft Teams
+# <a name="install-the--app-for-microsoft-teams"></a>Установите приложение [!INCLUDE [prod_short](includes/prod_short.md)] для Microsoft Teams
 
 [!INCLUDE [online_only](includes/online_only.md)]
 
@@ -19,7 +19,7 @@ ms.service: dynamics-365-business-central
 > [!NOTE]
 > Ваш администратор мог настроить все так, чтобы приложение автоматически устанавливалось для вас. Чтобы проверить, установлено ли приложение, откройте Teams, затем выберите **Приложения**. Найдите **Business Central**, затем выберите его, когда найдете. Если показано **Открыть** на странице **Business Central**, приложение уже установлено.  
 
-## Предварительные требования
+## <a name="prerequisites"></a>Предварительные требования
 
 - Учетная запись пользователя [!INCLUDE [prod_short](includes/prod_short.md)] Online требуется для приложения [!INCLUDE [prod_short](includes/prod_short.md)] для Teams.
 
@@ -29,7 +29,7 @@ ms.service: dynamics-365-business-central
 
 - Политики вашей организации должны позволять устанавливать приложения в Microsoft Teams.
 
-## Добавление приложения Business Central в Teams
+## <a name="add-the-business-central-app-to-teams"></a>Добавление приложения Business Central в Teams
 
 Установить приложение Business Central можно тремя способами:
 
@@ -66,11 +66,11 @@ ms.service: dynamics-365-business-central
 > [!NOTE]
 > В любом случае вас могут попросить войти в [!INCLUDE [prod_short](includes/prod_short.md)]. Выберите ссылку **Войти** и следуйте инструкциям, чтобы ввести имя для входа и пароль для [!INCLUDE [prod_short](includes/prod_short.md)].
 
-## Следующий шаг
+## <a name="next-step"></a>Следующий шаг
 
 Теперь вы готовы использовать приложение в Teams для поиска контактов или обмена записями Business Central. Для получения дополнительной информации см. [Поиск клиентов, поставщиков и других контактов из Microsoft Teams](across-search-contacts-teams.md) или [Общий доступ к записям в Microsoft Teams](across-working-with-teams.md).
 
-## См. также
+## <a name="see-also"></a>См. также
 
 [Обзор интеграции Business Central и Microsoft Teams](across-teams-overview.md)  
 [Вопросы и ответы по Teams](teams-faq.md)  

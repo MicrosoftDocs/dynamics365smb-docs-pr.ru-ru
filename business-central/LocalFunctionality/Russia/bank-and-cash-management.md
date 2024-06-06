@@ -10,11 +10,11 @@ ms.author: soalex
 ms.service: dynamics-365-business-central
 ---
 
-# Управление банками и кассами
+# <a name="bank-and-cash-management"></a>Управление банками и кассами
 
 Российская функциональность для управления банками и кассами рассматривается в нескольких статьях.
 
-## В этом разделе 
+## <a name="in-this-section"></a>В этом разделе
 
 [Управление банком](Bank-Management.md)
 

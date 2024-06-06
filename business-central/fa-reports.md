@@ -9,19 +9,19 @@ ms.date: 07/13/2021
 ms.author: bholtorf
 ms.service: dynamics-365-business-central
 ---
-# Отчеты и аналитика по ОС в Business Central
+# <a name="fixed-assets-reports-and-analytics-in-business-central"></a>Отчеты и аналитика по ОС в Business Central
 
 Чтобы помочь вам управлять своими основными средствами в [!INCLUDE [prod_short](includes/prod_short.md)], встроены стандартные отчеты и аналитика. Возможности этих инструментов выходят за рамки традиционной отчетности и позволяют эффективно разрабатывать различные типы отчетов.  
 
-## Отчеты
+## <a name="reports"></a>Отчеты
 [!INCLUDE [fa_reports](includes/fa-reports-include.md)]
 
 
-## Знакомство с бухгалтерскими отчетами с помощью обозревателя отчетов
+## <a name="explore-finance-reports-with-report-explorer"></a>Знакомство с бухгалтерскими отчетами с помощью обозревателя отчетов
 [!INCLUDE [finance_reports_report_explorer](includes/finance-reports-report-explorer-include.md)]
 
 
-## См. также
+## <a name="see-also"></a>См. также
 
 [Ad-hoc-анализ данных по основным средствам](ad-hoc-analysis-fa.md)     
 [Обзор аналитики по основным средствам](fa-analytics-overview.md)   
