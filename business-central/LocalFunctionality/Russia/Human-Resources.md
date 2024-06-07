@@ -10,7 +10,7 @@ ms.author: soalex
 ms.service: dynamics-365-business-central
 ---
 
-# <a name="human-resources"></a>Персонал и зарплата
+# Персонал и зарплата
 
 В этом разделе:
 

@@ -11,7 +11,7 @@ ms.date: 05/15/2024
 ms.service: dynamics-365-business-central
 ---
 
-# <a name="business-intelligence-quick-start"></a>Быстрый старт бизнес-аналитики
+# Быстрый старт бизнес-аналитики
 
 Возможность собирать и анализировать постоянно растущие объемы данных действенным способом — неоценимая часть ведения бизнеса в наши дни. [!INCLUDE[prod_short](includes/prod_short.md)] предлагает множество инструментов бизнес-аналитики (BI), &mdash; как встроенные, так и интегрированные с другими сервисами, &mdash; чтобы помочь вашей компании в процессе принятия решений.
 
@@ -28,7 +28,7 @@ ms.service: dynamics-365-business-central
 
 Чтобы узнать больше об аналитике, перейдите к  [Обзору аналитики](reports-bi-reporting.md).
 
-## <a name="analytics-by-functional-area"></a>Аналитика по функциональной области
+## Аналитика по функциональной области
 
 В следующей таблице приведены ссылки на статьи, описывающие, как работать с аналитикой в ​​конкретных функциональных областях [!INCLUDE[prod_short](includes/prod_short.md)].
 
@@ -39,7 +39,7 @@ ms.service: dynamics-365-business-central
 | Закупки | [Аналитика покупок](purchasing-analytics-overview.md) |
 | Управление основными средствами | [Аналитика основных средств](fa-analytics-overview.md) |
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Обзор аналитики](reports-bi-reporting.md)  
 [Краткие руководства по Business Central](quick-start-business-central.md)  

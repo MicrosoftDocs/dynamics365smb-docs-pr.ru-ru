@@ -10,14 +10,14 @@ ms.date: 04/24/2024
 ms.author: jswymer
 ms.service: dynamics-365-business-central
 ---
-# <a name="available-fonts"></a>Доступные шрифты
+# Доступные шрифты
 
 Онлайн-версия [!INCLUDE[prod_short](includes/prod_short.md)] содержит предварительно установленные шрифты на серверах, которые можно использовать при формировании отчетов. В следующих разделах указано, какие шрифты доступны.
 
 > [!NOTE]
 > В целях безопасности и по юридическим причинам вы не можете загружать пользовательские шрифты в среду [!INCLUDE[prod_short](includes/prod_short.md)].
 
-## <a name="document-fonts"></a>Шрифты документов
+## Шрифты документов
 
 Следующие шрифты установлены и доступны для использования в макетах отчетов Excel, Word и RDLC:
  
@@ -156,7 +156,7 @@ ms.service: dynamics-365-business-central
 * Yu Gothic UI Semibold
 * Yu Gothic UI Semilight
 
-## <a name="fonts-for-checks"></a>Шрифты для чеков
+## Шрифты для чеков
 
 Для вас установлены и доступны для использования шрифты Magnetic Ink Character Recognition (MICR). Поддерживаются стандарты E-13B и CMC-7.  
 
@@ -164,7 +164,7 @@ ms.service: dynamics-365-business-central
 
 Дополнительные сведения см. в разделе [Выбор макета платежного документа](finance-how-define-check-layouts.md).  
 
-## <a name="fonts-for-barcodes"></a>Шрифты для штрих-кодов
+## Шрифты для штрих-кодов
 Шрифты для создания штрихкодов установлены и доступны для использования в макетах отчетов Word и RDLC.
 
 Поддерживаются следующие символы одномерного штрихкода:
@@ -184,7 +184,7 @@ ms.service: dynamics-365-business-central
 
 Дополнительные сведения см. в разделе [Шрифты штрих-кода в Business Central Online](/dynamics365/business-central/dev-itpro/developer/devenv-report-barcode-fonts).
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Управление макетами отчетов](ui-manage-report-layouts.md)  
 [Выбор макета платежного документа](finance-how-define-check-layouts.md)  

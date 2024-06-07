@@ -11,7 +11,7 @@ ms.search.keywords: 'company, setup wizard'
 ms.search.form: '1803, 9020, 9022, 9026, 9027, 9030, 9000, 9009, 9004, 9005, 9024, 9006, 9007, 9010, 9016, 9017'
 ms.service: dynamics-365-business-central
 ---
-# <a name="create-new-companies-in-"></a>Создание новых организаций в [!INCLUDE[prod_short](includes/prod_short.md)]
+# Создание новых организаций в [!INCLUDE[prod_short](includes/prod_short.md)]
 
 В [!INCLUDE[prod_short](includes/prod_short.md)] контейнере для коммерческой информации, которая относится к филиалу или юридическому лицу, называются *организация*. При оформлении подписки на [!INCLUDE[prod_short](includes/prod_short.md)] вам предоставляется демонстрационная организация и пустая организация *Моя организация*. Переключаться между организациями легко: просто откройте **Мои настройки** и перейдите в другую организацию. Однако можно также создавать новые организации в [!INCLUDE[prod_short](includes/prod_short.md)] в зависимости от потребностей бизнеса.  
 
@@ -22,7 +22,7 @@ ms.service: dynamics-365-business-central
 
 [!INCLUDE [about-ui-learn](includes/about-ui-learn.md)]
 
-## <a name="choose-the-right-template"></a>Выберите правильный шаблон
+## Выберите правильный шаблон
 
 Если вы решите добавить организацию в вашу систему [!INCLUDE[prod_short](includes/prod_short.md)], для начала работы можно использовать мастер настройки **Создать новую организацию**. Мастер настройки доступен со страницы **Организации**, а также из поля с подстановкой **Организация** на странице **Мои настройки**.  
 
@@ -45,7 +45,7 @@ ms.service: dynamics-365-business-central
 
 Ваш администратор может узнать больше о пробных версиях и подписках [здесь](/dynamics365/business-central/dev-itpro/administration/trials-subscriptions).  
 
-## <a name="copy-a-company"></a>Копировать организацию
+## Копировать организацию
 
 На странице **Компании** вы можете использовать действие **Копировать**, чтобы создать вторую компанию на основе содержимого существующей компании. Копировать организацию удобно, например, когда вы хотите протестировать организацию без внесения изменений в рабочие данные.
 
@@ -56,7 +56,7 @@ ms.service: dynamics-365-business-central
 
 [!INCLUDE [dataverse-copy-company](includes/dataverse-copy-company.md)]
 
-## <a name="set-up-the-company"></a>Настройка организации
+## Настройка организации
 
 При входе в новую организацию мастер **Настройка организации** помогает вам начать работу. Этот мастер запрашивает информацию о вашем предприятии, такую как адрес, банковские реквизиты и метод оценки стоимости запасов. Эта информация используется во многих функциональных областях [!INCLUDE[prod_short](includes/prod_short.md)], и вам не придется настраивать их вручную.  
 
@@ -64,24 +64,24 @@ ms.service: dynamics-365-business-central
 
 После настройки основных параметров можно настроить остальные основные функциональные области. Затем вы будете готовы добавить коммерческие данные, таких как клиенты и поставщики. Дополнительные сведения см. в разделе [Настройка [!INCLUDE[prod_short](includes/prod_short.md)]](setup.md).  
 
-## <a name="companies-and-environments"></a>Компании и среды
+## Компании и среды
 
 [!INCLUDE [company_environment](includes/company_environment.md)]
 
 Дополнительные сведения см. в [Переключение на другую компанию или среду](ui-organization-switch.md). Дополнительные сведения о средах см. в [Общие сведения по инфраструктуре Business Central Online](/dynamics365/business-central/dev-itpro/administration/tenant-environment-topology) (только на английском языке).  
 
-## <a name="changing-a-companys-name"></a>Изменение названия компании
+## Изменение названия компании
 
 После создания организации изменить ее название невозможно. Вы можете, однако, изменить ее **Отображаемое имя**, то есть текст, отображаемый в качестве названия организации во всем приложении.  
 
 > [!TIP]
 > Вы можете переименовать компанию, если используете локальную версию [!INCLUDE[prod_short](includes/prod_short.md)] On-Premises.
 
-## <a name="add-contoso-coffee"></a>Добавить Contoso Coffee
+## Добавить Contoso Coffee
 
 Приложение Contoso Coffee предоставляет демонстрационные данные, которые помогут вам изучить расширенные возможности [!INCLUDE [prod_short](includes/prod_short.md)]. Найдите приложение в AppSource и установите его в пустой компании, например, в компании в среде песочницы. Для получения дополнительной информации см. [Введение в демонстрационные данные Contoso Coffee](contoso-coffee/contoso-coffee-intro.md).  
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Настройка Business Central](ui-customizing-overview.md)  
 [Настройка [!INCLUDE[prod_short](includes/prod_short.md)]](setup.md)  

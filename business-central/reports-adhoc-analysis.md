@@ -10,7 +10,7 @@ ms.date: 04/30/2024
 ms.service: dynamics-365-business-central
 ms.custom: bap-template
 ---
-# <a name="ad-hoc-data-analysis"></a>Ad-hoc-анализ данных
+# Ad-hoc-анализ данных
 
 Иногда возникает необходимость проанализировать данные в [!INCLUDE[prod_short](includes/prod_short.md)] способом, не предусмотренным в стандартных отчетах. Такой анализ часто называют «ad-hoc-анализом». В следующей таблице приведены ссылки на статьи, которые помогут вам научиться проводить ad-hoc-анализ.
 
@@ -21,14 +21,14 @@ ms.custom: bap-template
 | Просмотр и анализ данных из набора данных отчета в Excel | [Анализ данных отчета с помощью Excel и XML](report-analyze-excel.md) |
 | Анализ данных списка прямо со страницы |[Анализ данных списка с использованием режима анализа данных](analysis-mode.md)|
 
-## <a name="ad-hoc-data-analysis-by-functional-area"></a>Ad-hoc-анализ данных по функциональной области
+## Ad-hoc-анализ данных по функциональной области
 
 Общие сведения об ad-hoc-анализе данных также доступны в специальных версиях для многих функциональных областей в [!INCLUDE[prod_short](includes/prod_short.md)]. 
 
 [!INCLUDE[ad-hoc-analysis-scenarios-table](includes/ad-hoc-analysis-scenarios-table.md)]
 
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Обзор бизнес-аналитики и отчетности](ui-work-report.md)
 
