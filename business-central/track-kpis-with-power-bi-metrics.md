@@ -12,7 +12,7 @@ ms.custom: bap-template
 ms.service: dynamics-365-business-central
 ---
 
-# Отслеживание КПЭ вашего бизнеса с помощью метрик Power BI
+# <a name="track-your-business-kpis-with-power-bi-metrics"></a>Отслеживание КПЭ вашего бизнеса с помощью метрик Power BI
 
 Если вы используете Power BI для обработки данных [!INCLUDE[prod_short](includes/prod_short.md)], вы легко можете отслеживать важные для вас КПЭ или метрики.
 
@@ -32,7 +32,7 @@ ms.service: dynamics-365-business-central
 > [!NOTE]
 > Начиная с волны 2 выпуска Business Central 2023 можно встраивать системы показателей из метрик Power BI в [!INCLUDE[prod_short](includes/prod_short.md)].
 
-## См. также
+## <a name="see-also"></a>См. также
 
 [Использование ключевых показателей эффективности (КПЭ) для достижения бизнес-целей](analytics-about-kpis.md)  
 [Знакомство с Business Central и Power BI](admin-powerbi.md)  

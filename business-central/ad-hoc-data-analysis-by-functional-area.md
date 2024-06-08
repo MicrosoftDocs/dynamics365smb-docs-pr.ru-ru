@@ -11,14 +11,14 @@ ms.service: dynamics-365-business-central
 ms.custom: bap-template
 ---
 
-# Ad-hoc-анализ данных по функциональной области
+# <a name="ad-hoc-data-analysis-by-functional-area"></a>Ad-hoc-анализ данных по функциональной области
 
 Общие сведения об ad-hoc-анализе данных также доступны в специальных версиях для многих функциональных областей в [!INCLUDE[prod_short](includes/prod_short.md)]. 
 
 [!INCLUDE[ad-hoc-analysis-scenarios-table](includes/ad-hoc-analysis-scenarios-table.md)]
 
 
-## См. также
+## <a name="see-also"></a>См. также
 
 [Обзор ad-hoc-анализа данных](reports-adhoc-analysis.md)   
 [Обзор аналитики](reports-bi-reporting.md)  

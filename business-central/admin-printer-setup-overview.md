@@ -10,13 +10,13 @@ ms.date: 09/28/2023
 ms.custom: bap-template
 ---
 
-# Обзор настройки и управления принтером
+# <a name="printer-setup-and-management-overview"></a>Обзор настройки и управления принтером
 
 [!INCLUDE[azure-ad-to-microsoft-entra-id](~/../shared-content/shared/azure-ad-to-microsoft-entra-id.md)]
 
 Печать документов и отчетов из [!INCLUDE[prod_short](includes/prod_short.md)] — это важная задача для бизнес-пользователей. Вы обычно хотите отправлять задания на печать непосредственно на один из принтеров вашей организации&mdash;независимо от того, какой клиент или приложение [!INCLUDE[prod_short](includes/prod_short.md)] вы используете. Так как [!INCLUDE[prod_short](includes/prod_short.md)] Online — это облачная служба, она не может напрямую подключаться к локальным принтерам, подключенным к устройствам пользователей, но вы можете подключить ее к принтерам с поддержкой облака.
 
-## Каковы возможности вашего принтера в Business Central?
+## <a name="what-are-your-printer-possibilities-in-business-central"></a>Каковы возможности вашего принтера в Business Central?
 
 Чтобы удовлетворить ваши потребности в печати, [!INCLUDE[prod_short](includes/prod_short.md)] предлагает следующие функции:
 
@@ -31,13 +31,13 @@ ms.custom: bap-template
 > [!IMPORTANT]
 > В локальной версии Business Central универсальная печать и печать по электронной почте требуют использования проверки подлинности Microsoft Entra ID или по NavUserPassword.
 
-## Пользовательские расширения принтера
+## <a name="custom-printer-extensions"></a>Пользовательские расширения принтера
 
 [!INCLUDE[prod_short](includes/prod_short.md)] поддерживает другие настраиваемые расширения принтера, которые добавляют еще больше функций печати. Поэтому, если у вас установлены какие-либо пользовательские расширения принтера, ваше приложение может включать функции печати, которые не описаны в этой статье.
 
 Если вы являетесь разработчиком AL и хотите узнать, как создавать расширения для принтеров, перейдите к разделу [Разработка расширений для принтеров в Business Central](/dynamics365/business-central/dev-itpro/developer/devenv-reports-printing).
 
-## Дальнейшие шаги
+## <a name="next-steps"></a>Дальнейшие шаги
 
 - [Настройка принтеров универсальной печати](admin-printer-setup-universal-print.md)  
 - [Настройка принтеров с поддержкой электронной почты](admin-printer-setup-email.md)  
