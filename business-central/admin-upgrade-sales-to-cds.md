@@ -8,8 +8,9 @@ ms.search.keywords: 'sales, crm, integration, integrating'
 ms.date: 06/14/2021
 ms.author: bholtorf
 ms.service: dynamics-365-business-central
+ms.reviewer: bholtorf
 ---
-# <a name="upgrading-an-integration-with-dynamics-365-sales"></a>Обновление интеграции с Dynamics 365 Sales
+# Обновление интеграции с Dynamics 365 Sales
 [!INCLUDE[prod_short](includes/prod_short.md)] интегрируется с [!INCLUDE[prod_short](includes/cds_long_md.md)], что позволяет легко подключать и синхронизировать данные с другими приложениями Dynamics 365, такими как [!INCLUDE[crm_md](includes/crm_md.md)], или даже с приложениями, которые вы создаете сами. Если вы впервые выполняете интеграцию, мы рекомендуем сделать это через [!INCLUDE[prod_short](includes/cds_long_md.md)]. Дополнительные сведения см. в разделе [Интеграция с Dataverse](admin-common-data-service.md).
 
 Если вы уже интегрировали [!INCLUDE[crm_md](includes/crm_md.md)] с [!INCLUDE[prod_short](includes/prod_short.md)], вы можете продолжить синхронизацию данных, используя ваши настройки. Однако, если вы обновите [!INCLUDE[prod_short](includes/prod_short.md)] или выключите интеграцию [!INCLUDE[crm_md](includes/crm_md.md)], чтобы включить его снова, вы должны подключиться через [!INCLUDE[prod_short](includes/cds_long_md.md)]. 
@@ -17,7 +18,7 @@ ms.service: dynamics-365-business-central
 > [!NOTE]
 > При повторном подключении через [!INCLUDE[prod_short](includes/cds_long_md.md)] применяются настройки синхронизации по умолчанию и перезаписываются все ваши конфигурации. Например, будут применены сопоставления таблиц по умолчанию.
 
-## <a name="to-upgrade-your-connection-to-use-dataverse"></a>Обновление подключения для использования Dataverse
+## Обновление подключения для использования Dataverse
 1. Откройте страницу **Настройка подключения Microsoft Dynamics 365** затем выключите переключатель **Включено**. Затем закройте страницу, чтобы отключиться от [!INCLUDE[crm_md](includes/crm_md.md)].
 2. Откройте страницу **Настройка подключения Dataverse** и в поле **Модель ответственности** выберите **Человек**. Затем выберите переключатель **Включено**, чтобы включить подключение к [!INCLUDE[prod_short](includes/cds_long_md.md)].
   
@@ -33,7 +34,7 @@ ms.service: dynamics-365-business-central
    > [!IMPORTANT]
    > С помощью действия **Использовать настройку синхронизации по умолчанию** примените сопоставления таблиц интеграции по умолчанию. Все настраиваемые сопоставления будут перезаписаны. Если у вас есть настраиваемые сопоставления, которые вы хотите сохранить, мы рекомендуем вам экспортировать их в Excel или поговорить со своим партнером Майкрософт о других способах сохранения настраиваемых сопоставлений.    
 
-## <a name="see-also"></a>См. также
+## См. также
 [Интеграция с Dynamics 365 Sales](admin-prepare-dynamics-365-for-sales-for-integration.md)  
 [Интеграция с Microsoft Dataverse](admin-common-data-service.md)
 

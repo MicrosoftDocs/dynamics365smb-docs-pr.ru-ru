@@ -4,6 +4,7 @@ ms.topic: include
 ms.date: 04/01/2021
 ms.author: bholtorf
 ms.service: dynamics-365-business-central
+ms.reviewer: bholtorf
 ---
 [!INCLUDE[prod_short](prod_short.md)] Online регулируется в соответствии с [современной политикой жизненного цикла](https://support.microsoft.com/help/30881/modern-lifecycle-policy), Условия соглашения об уровне обслуживания описаны в документе, который можно загрузить из раздела **Соглашения об уровне обслуживания для Microsoft Online Services** на стр. [Условия лицензирования](https://www.microsoft.com/licensing/product-licensing/products).  
 

@@ -4,6 +4,7 @@ ms.topic: include
 ms.date: 01/29/2024
 ms.author: bholtorf
 ms.service: dynamics-365-business-central
+ms.reviewer: bholtorf
 ---
 
 В следующей таблице описаны некоторые ключевые отчеты отчетности по покупкам.

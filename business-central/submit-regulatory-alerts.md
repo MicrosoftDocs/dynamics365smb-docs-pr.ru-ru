@@ -10,11 +10,11 @@ ms.author: soalex
 ms.service: dynamics-365-business-central
 ---
 
-# <a name="submit-alerts-about-countryregion-specific-regulatory-features"></a>Отправка оповещений о новых нормативных требованиях в стране/регионе
+# Отправка оповещений о новых нормативных требованиях в стране/регионе
 
 Приглашаем вас использовать Microsoft Dynamics Lifecycle Services (LCS) для отправки нормативных оповещений через сервис отправки нормативных оповещений Dynamics.  
 
-## <a name="to-submit-a-regulatory-alert-in-lcs"></a>Для отправки нормативного оповещения в LCS
+## Для отправки нормативного оповещения в LCS
 
 1. Перейдите в [Lifecycle Services](https://lcs.dynamics.com) и войдите в систему.  
 
@@ -67,7 +67,7 @@ ms.service: dynamics-365-business-central
 
       После отправки оповещения вы получите подтверждение, что оповещение успешно отправлено в корпорацию Майкрософт.
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Локальная функциональность в [!INCLUDE[prod_long](includes/prod_long.md)]](about-localization.md)  
 [Изменение языка и языкового стандарта](about-locale-language.md)  

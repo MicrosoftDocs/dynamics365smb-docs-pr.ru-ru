@@ -8,8 +8,9 @@ ms.search.form: '9652, 9650'
 ms.date: 04/01/2021
 ms.author: bholtorf
 ms.service: dynamics-365-business-central
+ms.reviewer: bholtorf
 ---
-# <a name="legacy-import-and-export-custom-report-layouts"></a>(Устарело) Импорт и экспорт пользовательских макетов отчетов
+# (Устарело) Импорт и экспорт пользовательских макетов отчетов
 
 [!INCLUDE[legacy-custom-layouts](includes/legacy-custom-layouts.md)]
 
@@ -18,7 +19,7 @@ ms.service: dynamics-365-business-central
 > [!IMPORTANT]  
 >  Невозможно импортировать экспортировать встроенные макеты отчетов.  
 
-### <a name="to-export-a-report-layout-to-a-file"></a>Экспорт макета отчета в файл
+### Экспорт макета отчета в файл  
 
 1.  Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Выбор макета отчета**, а затем выберите связанную ссылку.  
 
@@ -28,7 +29,7 @@ ms.service: dynamics-365-business-central
 
 4.  В диалоговом окне **Экспорт файла** выберите кнопку **Сохранить** и сохраните файл в расположение на компьютере или в сети.  
 
-### <a name="to-import-a-report-layout-file"></a>Импорт файла макета отчета
+### Импорт файла макета отчета  
 
 1.  Убедитесь, что соответствующий файл, определяющий макет отчета, доступен на компьютере или в сети.  
 
@@ -44,7 +45,7 @@ ms.service: dynamics-365-business-central
 
  Исходный пользовательский макет отчета заменяется на импортированный макет отчета.  
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Создание и изменение пользовательского макета отчета](ui-how-create-custom-report-layout.md)   
 [Управление макетами отчетов и документов](ui-manage-report-layouts.md)  

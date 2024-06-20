@@ -4,6 +4,7 @@ ms.topic: include
 ms.date: 09/24/2021
 ms.author: bholtorf
 ms.service: dynamics-365-business-central
+ms.reviewer: bholtorf
 ---
 
 1. Выберите ![Лампочка, которая открывает функцию Что вы хотите сделать 11.](../media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Клиенты**, а затем выберите связанную ссылку.  

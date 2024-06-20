@@ -12,7 +12,7 @@ ms.custom: bap-template
 ms.service: dynamics-365-business-central
 ---
 
-# <a name="built-in-finance-reports-in-business-central"></a>Встроенные финансовые отчеты в Business Central
+# Встроенные финансовые отчеты в Business Central
 
 В [!INCLUDE [prod_short](includes/prod_short.md)] входит несколько встроенных отчетов, функций отслеживания и инструментов, назначение которых — помочь аудиторам или контролерам, отвечающим за отчетность перед финансовым отделом.
 
@@ -20,11 +20,11 @@ ms.service: dynamics-365-business-central
 
 [!INCLUDE [finance_reports](includes/finance-reports-include.md)]
 
-## <a name="explore-finance-reports-with-report-explorer"></a>Знакомство с бухгалтерскими отчетами с помощью обозревателя отчетов
+## Знакомство с бухгалтерскими отчетами с помощью обозревателя отчетов
 
 [!INCLUDE [finance_reports_report_explorer](includes/finance-reports-report-explorer-include.md)]
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Отчеты и аналитика по расчетам с клиентами](receivables-reports.md)  
 [Отчеты и аналитика по расчетам с поставщиками](payables-reports.md)  

@@ -3,7 +3,7 @@ title: Отслеживание КПЭ вашего бизнеса с помощ
 description: Обзор использования Power BI для получения аналитических сведений и КПЭ из данных Business Central.
 author: kennienp
 ms.author: kepontop
-ms.reviewer: jswymer
+ms.reviewer: bholtorf
 ms.topic: overview
 ms.search.keywords: 'account schedule, analysis, reporting, financial report, business intelligence, KPI'
 ms.search.form: '6316, 6317'
@@ -12,7 +12,7 @@ ms.custom: bap-template
 ms.service: dynamics-365-business-central
 ---
 
-# <a name="track-your-business-kpis-with-power-bi-metrics"></a>Отслеживание КПЭ вашего бизнеса с помощью метрик Power BI
+# Отслеживание КПЭ вашего бизнеса с помощью метрик Power BI
 
 Если вы используете Power BI для обработки данных [!INCLUDE[prod_short](includes/prod_short.md)], вы легко можете отслеживать важные для вас КПЭ или метрики.
 
@@ -32,7 +32,7 @@ ms.service: dynamics-365-business-central
 > [!NOTE]
 > Начиная с волны 2 выпуска Business Central 2023 можно встраивать системы показателей из метрик Power BI в [!INCLUDE[prod_short](includes/prod_short.md)].
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Использование ключевых показателей эффективности (КПЭ) для достижения бизнес-целей](analytics-about-kpis.md)  
 [Знакомство с Business Central и Power BI](admin-powerbi.md)  

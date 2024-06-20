@@ -4,6 +4,7 @@ ms.topic: include
 ms.date: 05/27/2021
 ms.author: bholtorf
 ms.service: dynamics-365-business-central
+ms.reviewer: bholtorf
 ---
 
 В документах продаж и журналах вы можете указать номер документа, который относится к системе нумерации клиента. <!--You can enter a maximum of ten characters, both numbers and letters.--> Используйте это поле для записи номера, который клиент присвоил заказу, счету-фактуре или кредит-ноте. Впоследствии, если нужно, можно будет осуществлять поиск учтенной записи по данному номеру.  

@@ -3,26 +3,26 @@ title: Управление доступом к Business Central
 description: Администраторы используют многоуровневый подход к управлению доступом к Business Central и возможностям системы.
 author: brentholtorf
 ms.author: bholtorf
-ms.reviewer: jswymer
+ms.reviewer: bholtorf
 ms.topic: overview
 ms.date: 04/04/2023
 ms.custom: bap-template
 ms.service: dynamics-365-business-central
 ---
 
-# <a name="manage-access-to-business-central"></a>Управление доступом к Business Central
+# Управление доступом к Business Central
 
 [!INCLUDE[azure-ad-to-microsoft-entra-id](~/../shared-content/shared/azure-ad-to-microsoft-entra-id.md)]
 
 В этой статье содержится ориентированный на администраторов и разработчикам приложений общий обзор того, как управлять доступом к [!INCLUDE [prod_short](includes/prod_short.md)] и возможностям системы. Используйте ссылки для перехода к другим статьям, которые содержат более подробную информацию по конкретным темам.
 
-## <a name="layered-access"></a>Многоуровневый доступ
+## Многоуровневый доступ
 
 В [!INCLUDE [prod_short](includes/prod_short.md)] используется многоуровневый подход к безопасности приложений, как показано на следующей схеме. Подробнее о каждом уровне см. в статье [Безопасность приложений в Business Central](/dynamics365/business-central/dev-itpro/security/security-application).
 
 :::image type="content" source="media/security-overview.png" alt-text="Многоуровневая безопасность приложений в Business Central.":::
 
-## <a name="licenses"></a>Лицензии
+## Лицензии
 
 Пользователям [!INCLUDE [prod_short](includes/prod_short.md)] назначается лицензия на **Dynamics 365 Business Central**, чтобы они могли просматривать и изменять свои бизнес-данные, а также выполнять действия с ними из любого пользовательского интерфейса. Подробнее о каждом уровне см. в статье [Лицензирование в Dynamics 365 Business Central](/dynamics365/business-central/dev-itpro/deployment/licensing).
 
@@ -30,7 +30,7 @@ ms.service: dynamics-365-business-central
 
 Для получения исчерпывающих сведений о различных типах лицензий и о том, как работает лицензирование в [!INCLUDE[prod_short](includes/prod_short.md)], [загрузите Руководство по лицензированию Dynamics 365](https://go.microsoft.com/fwlink/?LinkId=866544).
 
-## <a name="business-central-administrator-tasks"></a>Задачи администратора Business Central
+## Задачи администратора Business Central
 
 В следующей таблице указано, как администраторы могут управлять доступом к [!INCLUDE [prod_short](includes/prod_short.md)] и функциям, которые будут использовать пользователи. Некоторые из задач также помогают поддерживать настройки доступа в актуальном состоянии.
 
@@ -45,7 +45,7 @@ ms.service: dynamics-365-business-central
 |Тег службы Azure представляет группу IP-адресов, с которых может поступать или на которые может уходить трафик для службы. Используйте теги службы, чтобы настроить брандмауэры так, чтобы они пропускали трафик только от определенных служб. Тег **Dynamics365BusinessCentral** позволяет использовать правила брандмауэра и группы безопасности сети для ограничения входящего и исходящего трафика [!INCLUDE [prod_short](includes/prod_short.md)].| [Теги безопасности служб Azure](/dynamics365/business-central/dev-itpro/security/security-service-tags)|
 |При использовании проверки подлинности Microsoft Entra в сочетании с [!INCLUDE [prod_short](includes/prod_short.md)] рекомендуется использовать [многофакторную проверку подлинности (MFA) Microsoft Entra ID](/azure/active-directory/authentication/concept-mfa-howitworks). MFA обеспечивает дополнительный контроль доступа к приложению и данным.|[Многофакторная проверка подлинности для Dynamics 365 Business Central](/dynamics365/business-central/dev-itpro/security/multifactor-authentication)|
 
-## <a name="business-central-developer-tasks"></a>Задачи разработчика Business Central
+## Задачи разработчика Business Central
 
 Иметь дело с управлением доступом к [!INCLUDE [prod_short](includes/prod_short.md)] приходится также разработчикам. Например, разработчики и администраторы могут создавать и подключать к приложения [!INCLUDE [prod_short](includes/prod_short.md)], которые приносят пользу бизнесу:  
 
@@ -59,6 +59,6 @@ ms.service: dynamics-365-business-central
 |--|--|
 |С определением доступа к функциям связаны два основных понятия: права и разрешения. Права дают широкий доступ к объектам в соответствии с лицензиями или ролями Microsoft Entra. Разрешения и наборы разрешений позволяют точно настраивать доступ к объектам. |[Обзор прав и наборов разрешений](/dynamics365/business-central/dev-itpro/developer/devenv-entitlements-and-permissionsets-overview)|
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Безопасность в Business Central](/dynamics365/business-central/dev-itpro/security/security-and-protection)

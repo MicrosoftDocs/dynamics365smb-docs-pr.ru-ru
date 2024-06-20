@@ -8,9 +8,10 @@ ms.search.keywords: 'Teams, MS Teams, Microsoft Teams, Skype, Link, Microsoft 36
 ms.date: 04/12/2021
 ms.author: jswymer
 ms.service: dynamics-365-business-central
+ms.reviewer: jswymer
 ---
 
-# <a name="changing-company-and-other-settings-in-teams"></a>Изменение компании и других параметров в Teams
+# Изменение компании и других параметров в Teams
 
 [!INCLUDE [online_only](includes/online_only.md)]
 
@@ -26,7 +27,7 @@ ms.service: dynamics-365-business-central
 
    ![Параметры для Business Central из поля сообщения.](media/teams-settings-command-box.png)
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Обзор интеграции Business Central и Microsoft Teams](across-teams-overview.md)  
 [Установка приложения [!INCLUDE [prod_short](includes/prod_short.md)] для Microsoft Teams](across-install-app-for-teams.md)  

@@ -4,6 +4,7 @@ ms.topic: include
 ms.date: 08/16/2022
 ms.author: bholtorf
 ms.service: dynamics-365-business-central
+ms.reviewer: bholtorf
 ---
 Чтобы подписаться на канал Really Simple Syndication (RSS) со всеми обновлениями, относящимися к контенту бизнес-функций на learn.microsoft.com, для [!INCLUDE [prod_short](prod_short.md)], воспользуйтесь следующей ссылкой:
 

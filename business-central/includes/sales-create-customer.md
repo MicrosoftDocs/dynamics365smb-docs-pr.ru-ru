@@ -4,6 +4,7 @@ ms.topic: include
 ms.date: 05/27/2021
 ms.author: bholtorf
 ms.service: dynamics-365-business-central
+ms.reviewer: bholtorf
 ---
 
 Если клиент не зарегистрирован, выполните следующие действия:
