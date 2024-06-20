@@ -9,7 +9,7 @@ ms.date: 02/14/2024
 ms.author: bholtorf
 ms.reviewer: bholtorf
 ---
-# Обработка частичных отгрузок
+# <a name="process-partial-shipments"></a>Обработка частичных отгрузок
 
 При частичной отгрузке заказ не отправляется сразу. Например, из заказа на 100 единиц вы отгружаете 40 единиц сразу и 60 позже. Не существует ограничений по количеству отгрузок, которые можно выполнить для заказа.
 
@@ -19,7 +19,7 @@ ms.reviewer: bholtorf
 
 [!INCLUDE [order-ship-invoice_md](includes/order-ship-invoice.md)]
 
-## См. также
+## <a name="see-also"></a>См. также
 
 [Продажа товара с заказом продажи клиента](sales-how-sell-products.md)  
 [Отгрузка товаров](warehouse-how-ship-items.md)  

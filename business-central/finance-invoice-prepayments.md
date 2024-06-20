@@ -10,7 +10,7 @@ ms.author: bholtorf
 ms.service: dynamics-365-business-central
 ms.reviewer: bholtorf
 ---
-# Выставление счетов на предоплату
+# <a name="invoicing-prepayments"></a>Выставление счетов на предоплату
 
 [!INCLUDE [prepayment_def](includes/prepayment_def.md)]
 
@@ -29,7 +29,7 @@ ms.reviewer: bholtorf
 |Создание заказа, коррекция суммы предоплаты и выставление счета на сумму предоплаты.|[Создание счетов на предоплату](finance-how-to-create-prepayment-invoices.md)|  
 |Выставление дополнительного счета на предоплату для дополнительных товаров или дополнительного аванса по исходному заказу, или выдача кредит-ноты предоплаты.|[Корректировка предоплат](finance-how-to-correct-prepayments.md)|  
 
-## См. также
+## <a name="see-also"></a>См. также
 
 [Пошаговое руководство. Настройка и выставление счетов на продажу](walkthrough-setting-up-and-invoicing-sales-prepayments.md)  
 [Финансы](finance.md)  

@@ -11,7 +11,7 @@ ms.service: dynamics-365-business-central
 ms.custom: bap-template
 ---
 
-# Аналитика по функциональной области
+# <a name="analytics-by-functional-area"></a>Аналитика по функциональной области
 
 Общие сведения об аналитике также доступны в специальных версиях для многих функциональных областей в [!INCLUDE[prod_short](includes/prod_short.md)]. 
 
@@ -24,7 +24,7 @@ ms.custom: bap-template
 | Управление основными средствами | [Аналитика основных средств](fa-analytics-overview.md) |
 
 
-## См. также
+## <a name="see-also"></a>См. также
 
 [Обзор аналитики](reports-bi-reporting.md)  
 

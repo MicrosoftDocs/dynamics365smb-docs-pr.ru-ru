@@ -10,7 +10,7 @@ ms.author: soalex
 ms.service: dynamics-365-business-central
 ---
 
-# Загрузка КЛАДР
+# <a name="upload-kladr"></a>Загрузка КЛАДР
 
 [!INCLUDE[prod_short](../../includes/prod_short.md)] поддерживает работу с классификатором адресов РФ **КЛАДР** — ведомственным классификатором, созданным для распределения территорий между налоговыми инспекциями и автоматизированной рассылки корреспонденции.
 
@@ -26,7 +26,7 @@ ms.service: dynamics-365-business-central
 
 4. Нажмите ОК.
 
-## См. также
+## <a name="see-also"></a>См. также
 
 [Налоговый учет](Tax-Accounting.md)  
 

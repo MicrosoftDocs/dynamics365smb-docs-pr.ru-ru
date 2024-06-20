@@ -10,14 +10,14 @@ ms.author: bholtorf
 ms.service: dynamics-365-business-central
 ms.reviewer: bholtorf
 ---
-# Использование Business Central без Outlook
+# <a name="use-business-central-without-outlook"></a>Использование Business Central без Outlook
 [!INCLUDE[prod_short](includes/prod_short.md)] имеет глубокую интеграцию с Microsoft 365, и вы можете использовать [!INCLUDE[prod_short](includes/prod_short.md)] в качестве рабочего почтового ящика в Outlook. Но если у вас нет Outlook, вы можете работать с [!INCLUDE[prod_short](includes/prod_short.md)] в браузере или на мобильном устройстве.  
 
-## Отправка электронной почты
+## <a name="sending-email"></a>Отправка электронной почты
 Вы можете отправлять документы, например счета, по электронной почты, используя рабочий адрес эл. почты. В ролевом центре вы можете открыть руководство по настройке, помогающее настроить электронную почту. Если вы не используете учетную запись электронной почты Microsoft 365, вы должны указать техническую информацию о своем почтовом сервере. Если у вас нет этой информации, обратитесь к сотрудникам службы ИТ-поддержки.  
 
 
-## См. также
+## <a name="see-also"></a>См. также
 [Подготовка к ведению бизнеса](ui-get-ready-business.md)  
 [Использование Business Central в качестве папки "Входящие" для бизнеса в Outlook](admin-outlook.md)  
 [Получение Business Central на моем мобильном устройстве](install-mobile-app.md)  
