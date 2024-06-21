@@ -10,22 +10,22 @@ ms.author: bholtorf
 ms.service: dynamics-365-business-central
 ms.reviewer: bholtorf
 ---
-# Проектные отчеты и аналитика в Business Central
+# <a name="project-reports-and-analytics-in-business-central"></a>Проектные отчеты и аналитика в Business Central
 
 Проектная отчетность в [!INCLUDE [prod_short](includes/prod_short.md)] позволяет профессионалам проектов и бизнеса получать информацию и статистические данные о текущей и прошлой деятельности по проектам.  
 
-## Отчеты
+## <a name="reports"></a>Отчеты
 
 [!INCLUDE [project_reports](includes/project-reports-include.md)]
 
-## Задачи
+## <a name="tasks"></a>Задачи
 
 В следующих статьях описываются некоторые ключевые задачи анализа состояния вашего бизнеса:
 
 * [Отслеживание хода выполнения работ и производительности](projects-how-monitor-progress-performance.md)  
 
 
-## См. также
+## <a name="see-also"></a>См. также
 
 [Настройка управления проектами](projects-setup-projects.md)  
 [Управление проектами](projects-manage-projects.md)  

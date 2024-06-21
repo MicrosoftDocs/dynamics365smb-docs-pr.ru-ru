@@ -11,7 +11,7 @@ ms.author: bholtorf
 ms.service: dynamics-365-business-central
 ms.reviewer: bholtorf
 ---
-# Расширение Envestnet Yodlee Bank Feeds
+# <a name="the-envestnet-yodlee-bank-feeds-extension"></a>Расширение Envestnet Yodlee Bank Feeds
 
 Для быстрой выверки платежей на ваши банковские счета вы можете использовать службу Envestnet Yodlee Bank Feeds, которая позволяет связать банковский счет в вашей системе со счетом в интернет-банке. Это означает, что последняя банковская выписка автоматически или вручную будет передаваться в ваш журнал выверки, чтобы вы всегда обрабатывали последний платежи с минимальным риском ошибок.
 
@@ -34,13 +34,13 @@ ms.reviewer: bholtorf
 * Поддерживает ручной и автоматический ввод данных из банковских выписок.
 * Позволяет поручать выверку платежей бухгалтеру, предоставляя ему доступ к банковским выпискам.
 
-## Доступные банковские каналы
+## <a name="available-bank-feeds"></a>Доступные банковские каналы
 
 Вы можете проверить, поддерживается ли банк, настроив и подключившись к службе Envestnet Yodlee Bank Feeds. Банк появится в списке, если он поддерживается Envestnet Yodlee.
 
 Дополнительные сведения см. в разделе [Настройка службы Envestnet Yodlee Bank Feeds](bank-how-setup-bank-statement-service.md).
 
-## См. также
+## <a name="see-also"></a>См. также
 
 [Настройка [!INCLUDE[prod_short](includes/prod_short.md)] с помощью расширений](ui-extensions.md)  
 [Автоматическое применение платежей и выверка банковских счетов](receivables-apply-payments-auto-reconcile-bank-accounts.md)  

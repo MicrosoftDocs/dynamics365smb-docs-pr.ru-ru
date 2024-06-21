@@ -10,7 +10,7 @@ ms.date: 06/23/2021
 ms.author: bholtorf
 ms.service: dynamics-365-business-central
 ---
-# Настройка продаж
+# <a name="setting-up-sales"></a>Настройка продаж
 
 Прежде чем приступать к управлению процессами продажи, необходимо настроить правила и значения, которые определяют политики продажи в организации.
 
@@ -34,7 +34,7 @@ ms.service: dynamics-365-business-central
 |Укажите отчеты по умолчанию, которые будут использоваться для различных типов документов.|[Выбор отчета в Business Central](across-report-selections.md)|
 |Укажите, разрешено ли пользователям учитывать счета продажи, и должны ли они учитывать их вместе с отгрузкой. |[Определение политики учета счетов для пользователей](admin-setup-invoice-posting-policy.md)|
 
-## См. также
+## <a name="see-also"></a>См. также
 [Продажи](sales-manage-sales.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
 

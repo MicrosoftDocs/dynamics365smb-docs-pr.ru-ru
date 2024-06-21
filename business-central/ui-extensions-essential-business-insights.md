@@ -13,7 +13,7 @@ ms.service: dynamics-365-business-central
 ms.reviewer: bholtorf
 ---
 
-# Расширение Essential Business Insights
+# <a name="the-essential-business-insights-extension"></a>Расширение Essential Business Insights
 
 Расширение Essential Business Insights находит интересные бизнес-сведения в данных вашей организации и отображает их в виде газетных заголовков в ролевых центрах. В зависимости от того, что это расширение находит в данных, аналитика поступает за прошлую неделю, месяц или три месяца от текущей даты. Аналитика обновляется каждые 10 минут.  
 
@@ -32,7 +32,7 @@ ms.reviewer: bholtorf
 |Менеджер проекта| Отображает приветствие и ссылку на информацию о продукте.|
 |Администратор| Отображает приветствие и ссылку на информацию о продукте.|
 
-## См. также
+## <a name="see-also"></a>См. также
 
 [Настройка [!INCLUDE[prod_short](includes/prod_short.md)] с помощью расширений](ui-extensions.md)
 
