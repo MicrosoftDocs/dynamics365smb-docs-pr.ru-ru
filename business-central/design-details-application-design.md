@@ -10,7 +10,7 @@ ms.author: bholtorf
 ms.service: dynamics-365-business-central
 ms.reviewer: bholtorf
 ---
-# <a name="application-design-details"></a>Технические подробности приложения
+# Технические подробности приложения
 
 Статьи в этом разделе содержат подробные технические сведения о сложных функциях приложений в [!INCLUDE[prod_short](includes/prod_short.md)].  
 
@@ -26,7 +26,7 @@ ms.reviewer: bholtorf
 |Дополнительные сведения о предыдущей и текущей разработке функций трассировки товаров и ее интеграции с системой резервирования для включения серийных номеров/номеров партий в расчеты наличия.|[Сведения о проектировании: трассировка товара](design-details-item-tracking.md)|  
 |Узнайте о функции строки учета финансового журнала.|[Технические подробности: учет строки финансового журнала](design-details-general-journal-post-line.md)|
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Планирование](production-planning.md)  
 [Управление себестоимостью товаров](finance-manage-inventory-costs.md)  

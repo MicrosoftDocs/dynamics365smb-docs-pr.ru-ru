@@ -10,21 +10,21 @@ ms.author: bholtorf
 ms.service: dynamics-365-business-central
 ms.reviewer: bholtorf
 ---
-# <a name="assembly-reports-and-analytics-in-business-central"></a>Отчеты по сборке и аналитика в Business Central
+# Отчеты по сборке и аналитика в Business Central
 
 Отчетность по сборке в [!INCLUDE [prod_short](includes/prod_short.md)] позволяет профессионалам производства и бизнеса получать информацию и статистические данные о текущей и прошлой деятельности по сборке.  
 
-## <a name="reports"></a>Отчеты
+## Отчеты
 
 [!INCLUDE [assembly_reports](includes/assembly-reports-include.md)]
 
-## <a name="tasks"></a>Задачи
+## Задачи
 
 В следующих статьях описываются некоторые ключевые задачи анализа состояния вашего бизнеса:
 
 * [Просмотр наличия товара](inventory-how-availability-overview.md)
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Управление сборкой](assembly-assemble-items.md)  
 [Работа со сборочными спецификациями](assembly-how-work-assembly-boms.md)  

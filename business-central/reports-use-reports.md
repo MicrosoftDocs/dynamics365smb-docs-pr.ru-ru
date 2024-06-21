@@ -10,7 +10,7 @@ ms.author: bholtorf
 ms.service: dynamics-365-business-central
 ms.reviewer: bholtorf
 ---
-# <a name="use-reports-in-daily-work"></a>Используйте отчеты в повседневной работе
+# Используйте отчеты в повседневной работе
 
 Отчет в [!INCLUDE[prod_short](includes/prod_short.md)] собирает информацию на основе указанного набора критериев. Он систематизирует и представляет информацию в удобном для чтения формате, который вы можете распечатать или сохранить в виде файла.  
 
@@ -25,7 +25,7 @@ ms.reviewer: bholtorf
 | Узнайте, как изменить макет по умолчанию для отчета. | [Изменение макета отчета по умолчанию](ui-how-change-layout-currently-used-report.md) |
 | Просмотр и анализ данных из набора данных отчета в Microsoft Excel. | [Сохранение набора данных отчета в Excel со страницы запроса](/dynamics365-release-plan/2021wave1/smb/dynamics365-business-central/save-report-dataset-excel-request-page) |
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Обзор отчетов](reports-available-reports.md)  
 [Обзор бизнес-аналитики и отчетности](ui-work-report.md)  

@@ -6,7 +6,7 @@ ms.author: bholtorf
 ms.service: dynamics-365-business-central
 ms.reviewer: bholtorf
 ---
-## <a name="check-data-in-documents-and-journals-while-you-work"></a>Проверка данных в документах и журналах во время работы
+## Проверка данных в документах и журналах во время работы
 
 Ваш администратор может включить в [!INCLUDE [prod_short](prod_short.md)] проверку данных, которые вы вводите в документы и журналы, в режиме реального времени.
 

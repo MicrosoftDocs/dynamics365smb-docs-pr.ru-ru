@@ -11,7 +11,7 @@ ms.author: jswymer
 ms.custom: bap-template
 ms.service: dynamics-365-business-central
 ---
-# <a name="introduction-to-business-central-and-power-bi"></a>Знакомство с Business Central и Power BI
+# Знакомство с Business Central и Power BI
 
 [!INCLUDE[azure-ad-to-microsoft-entra-id](~/../shared-content/shared/azure-ad-to-microsoft-entra-id.md)]
 
@@ -19,7 +19,7 @@ ms.service: dynamics-365-business-central
 
 ![Power BI и Business Central.](media/power-bi-intro.png)
 
-## <a name="what-you-can-do-with-power-bi-and-business-central"></a>Что можно делать с Power BI и Business Central
+## Что можно делать с Power BI и Business Central
 
 Есть разные возможности для работы с [!INCLUDE[prod_short](includes/prod_short.md)] и Power BI. Некоторые вещи можете делать из Power BI, а все остальное делается из [!INCLUDE[prod_short](includes/prod_short.md)]. Кроме того, некоторые функции доступны только с [!INCLUDE[prod_short](includes/prod_short.md)] Online, но не с On-Premises. Следующая таблица дает вам обзор.
 
@@ -33,7 +33,7 @@ ms.service: dynamics-365-business-central
 
 <a name="onprem"><sup>*</sup></a> Для этой функции требуется зарегистрированное приложение для Business Central в Microsoft Azure. Дополнительные сведения см. в статье [Регистрация локального экземпляра Business Central в Microsoft Entra ID для интеграции с другими службами](/dynamics365/business-central/dev-itpro/administration/register-app-azure).
 
-## <a name="get-ready-to-use-power-bi"></a>Подготовка к использованию Power BI
+## Подготовка к использованию Power BI
 
 Есть несколько задач, которые необходимо выполнить, прежде чем вы сможете начать использовать Power BI с [!INCLUDE[prod_short](includes/prod_short.md)].<!-- Some of the tasks are typically only done by administrators or super users.--> Эти задачи зависят от вашей роли в вашей организации и от того, что вы хотите делать с Power BI:
 
@@ -49,12 +49,12 @@ ms.service: dynamics-365-business-central
 |Включение интеграции Power BI<br />(только локальная версия)||![это флажок.](media/check.png)||[Настройка локальной версии Business Central для интеграции Power BI](across-working-with-business-central-in-powerbi.md#setup)|
 
 
-## <a name="next-steps"></a>Дальнейшие шаги
+## Дальнейшие шаги
 
 - Если вы администратор, которому нужно настроить Power BI в [!INCLUDE[prod_short](includes/prod_short.md)], см. статью [Включение интеграции Power BI](admin-powerbi-setup.md).
 - Если интеграция с Power BI уже настроена и вы хотите опробовать ее функции, см. статью [Работа с отчетами Power BI в Business Central](across-working-with-powerbi.md).
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Обзор аналитики](reports-bi-reporting.md)   
 [TОтслеживание КПЭ с помощью метрик Power BI](track-kpis-with-power-bi-metrics.md)   

@@ -11,7 +11,7 @@ ms.author: bholtorf
 ms.service: dynamics-365-business-central
 ms.reviewer: bholtorf
 ---
-# <a name="setting-up-banking"></a>Настройка банковских операций
+# Настройка банковских операций
 
 Используя карточки банковских счетов, можно отслеживать все банковские счета в любой валюте. После настройки банковских счетов можно также использовать параметр печати платежных документов.
 
@@ -25,7 +25,7 @@ ms.reviewer: bholtorf
 
 [!INCLUDE [local-functionality](includes/local-functionality.md)]
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Выверка банковских счетов](bank-manage-bank-accounts.md)  
 [Управление дебиторской задолженностью](receivables-manage-receivables.md)  

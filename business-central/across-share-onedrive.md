@@ -9,7 +9,7 @@ ms.author: jswymer
 ms.service: dynamics-365-business-central
 ms.reviewer: jswymer
 ---
-# <a name="opening-and-sharing-business-central-files-in-microsoft-onedrive"></a>Открытие и совместное использование файлов Business Central в Microsoft OneDrive
+# Открытие и совместное использование файлов Business Central в Microsoft OneDrive
 
 [!INCLUDE[prod_short](includes/prod_short.md)] позволяет легко хранить файлы, а также управлять ими и делиться ими с другими людьми через Microsoft OneDrive для бизнеса. На большинстве страниц, где доступны файлы, например в папке входящих отчетов или в файлах, прикрепленных к записям, вы найдете действие **Открыть в OneDrive** и **Поделиться**.
 
@@ -20,7 +20,7 @@ ms.reviewer: jswymer
 :::image type="content" source="media/one-drive-attachments-w-outline.png" alt-text="Действия Открыть в OneDrive и Поделиться для вложений":::
 
 
-## <a name="open-in-onedrive"></a>Открыть в OneDrive
+## Открыть в OneDrive
 
 Действие **Открыть в OneDrive** копирует файл на ваш OneDrive и затем открывает файл в приложениях, таких как Microsoft Excel Online, Microsoft Word Online или Microsoft PowerPoint Online. 
 
@@ -32,7 +32,7 @@ ms.reviewer: jswymer
 
 Для других популярных типов файлов, таких как PDF, текстовые файлы и изображения, OneDrive дает средства просмотра файлов, которые предлагают функции для печати, совместного использования и т. д. Если файл нельзя просмотреть в OneDrive, вам может быть предложено загрузить его.
 
-## <a name="share"></a>Поделиться
+## Поделиться
 
 Действие **Поделиться** копирует файл в ваш OneDrive, чтобы вы видели, с кем вы уже поделились этим файлом, и могли и дальше делиться им с другими людьми. Когда вы выбираете действие **Поделиться**, откроется следующая страница.
 
@@ -54,7 +54,7 @@ ms.reviewer: jswymer
 > [!NOTE]
 > Действие **Поделиться** недоступно в приложении Business Central для мобильных устройств.
 
-## <a name="first-time-sign-in-from-business-central"></a>Первый вход в систему из Business Central
+## Первый вход в систему из Business Central
 
 Когда вы используете действие **Открыть в OneDrive** или **Поделиться** впервые, [!INCLUDE[prod_short](includes/prod_short.md)] делает следующее:
 
@@ -65,7 +65,7 @@ ms.reviewer: jswymer
 
 При следующем использовании действия **Открыть в OneDrive** или **Поделиться** [!INCLUDE[prod_short](includes/prod_short.md)] только копирует и открывает файл. 
 
-## <a name="managing-multiple-copies-of-a-file"></a>Управление несколькими копиями файла
+## Управление несколькими копиями файла
 
 Когда вы выбираете **Открыть в OneDrive** или **Поделиться**, файл копируется из [!INCLUDE[prod_short](includes/prod_short.md)] в вашу папку в OneDrive. Если вы отредактируете файл в OneDrive, этот файл будет отличаться от файла в [!INCLUDE[prod_short](includes/prod_short.md)]. Чтобы обновить файл в [!INCLUDE[prod_short](includes/prod_short.md)] в соответствии с последней его версией, удалите существующий файл из [!INCLUDE[prod_short](includes/prod_short.md)], а затем отправьте последнюю копию.
 
@@ -83,7 +83,7 @@ ms.reviewer: jswymer
 
   Этот вариант оставляет существующий файл как есть и сохраняет файл, выбранный вами в Business Central, под другим именем. Новое имя аналогично имени существующего файла, за исключением суффикса, такого как «Items (2).xlsx».
 
-## <a name="about-your-business-central-folder-on-onedrive"></a>О вашей папке Business Central в OneDrive
+## О вашей папке Business Central в OneDrive
 
 Папка и ее содержимое остаются личными, пока вы не решите поделиться ими с другими. Например, вы можете решить поделиться контентом с одним или несколькими коллегами или даже с людьми за пределами вашей организации. 
 
@@ -94,7 +94,7 @@ ms.reviewer: jswymer
 <!--## Extending the Connection to OneDrive
 You can create an extension and connect it to... For more information, see...-->
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Интеграция Business Central и OneDrive](across-onedrive-overview.md)  
 [Управление интеграцией OneDrive с Business Central](admin-onedrive-integration.md)  

@@ -10,7 +10,7 @@ ms.author: bholtorf
 ms.reviewer: bholtorf
 ---
 
-# <a name="introduction-to-contoso-coffee-warehousing"></a>Знакомство со складским хозяйством Contoso Coffee
+# Знакомство со складским хозяйством Contoso Coffee
 
 Contoso Coffee — вымышленная компания, производящая бытовые и коммерческие кофеварки. Приложения **Contoso Coffee** для Business Central добавляют демонстрационные данные, которые вы можете использовать, чтобы узнать, как использовать возможности Business Central для складского дела. Вы можете настраивать складские функции различными способами, см. [Обзор различных вариантов настройки](../../design-details-warehouse-management.md#overview-of-different-configuration-options).
 
@@ -28,7 +28,7 @@ Contoso Coffee — вымышленная компания, производящ
 
   Для этого склада используется расширенная конфигурация склада с расширенными подбором и размещением, что позволяет использовать более сложные правила перемещения товаров по складу.
 
-## <a name="set-up-contoso-coffee-warehousing-data"></a>Настройка данных Contoso Coffee для склада
+## Настройка данных Contoso Coffee для склада
 
 [!INCLUDE [contoso-coffee-app-install](../../includes/contoso-coffee-app-install.md)]
 
@@ -51,7 +51,7 @@ Contoso Coffee — вымышленная компания, производящ
 > [!IMPORTANT]
 > Если вы используете сценарии, рекомендуем убедиться, что ваш пользователь добавлен для выбранных складов. Дополнительные сведения см. в разделе [Настройка работников склада](../../warehouse-how-to-set-up-warehouse-employees.md).
 
-## <a name="scenarios"></a>Сценарии
+## Сценарии
 
 В настоящее время демонстрационные складские данные Contoso Coffee поддерживают следующие сценарии тестирования и обучения:
 
@@ -61,7 +61,7 @@ Contoso Coffee — вымышленная компания, производящ
 
 Прочитайте шаги для каждого сценария в соответствующей статье.  
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Настройка запасов](../../inventory-setup-inventory.md) 
 [Как настраивать склады](../../inventory-how-setup-locations.md) 

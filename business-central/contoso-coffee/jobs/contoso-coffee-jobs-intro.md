@@ -10,7 +10,7 @@ ms.service: dynamics-365-business-central
 ms.reviewer: bholtorf
 ---
 
-# <a name="introduction-to-contoso-coffee-jobs-and-project-management"></a>Знакомство с управлением работами и проектами Contoso Coffee
+# Знакомство с управлением работами и проектами Contoso Coffee
 
 Contoso Coffee — вымышленная компания, производящая бытовые и коммерческие кофеварки. Приложения **Contoso Coffee** предназначены для добавления демонстрационных данных, которые вы можете использовать для ознакомлений с возможностями управления работами и проектами в Business Central.
 
@@ -23,7 +23,7 @@ Contoso Coffee — вымышленная компания, производящ
 > Прежде чем запускать любой из сценариев для Contoso Coffee, разнесите все строки журнала номенклатур с начальным сальдо. Дополнительные требования см. в разделе [Настройка данных Contoso Coffee](#set-up-contoso-coffee-jobs-and-project-management-data).
 >
 > 
-## <a name="set-up-contoso-coffee-jobs-and-project-management-data"></a>Настройка данных управления работами проектами Contoso Coffee
+## Настройка данных управления работами проектами Contoso Coffee
 
 [!INCLUDE [contoso-coffee-app-install](../../includes/contoso-coffee-app-install.md)]
 
@@ -48,4 +48,4 @@ Contoso Coffee — вымышленная компания, производящ
 
 Когда будете готовы, выберите действие **Создать демонстрационные данные**. Добавление данных в базовую базу данных занимает несколько минут, но затем вы можете запускать различные сценарии.  
 
-## <a name="see-also"></a>См. также
+## См. также

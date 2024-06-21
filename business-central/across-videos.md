@@ -11,7 +11,7 @@ ms.author: bholtorf
 ms.service: dynamics-365-business-central
 ms.reviewer: bholtorf
 ---
-# <a name="visit-our-video-library"></a>Посетите нашу библиотеку видео
+# Посетите нашу библиотеку видео
 
 Вы нашли нашу документацию. Некоторые люди предпочитают смотреть контент, а не читать его. С этой целью мы создаем короткие, легко усваиваемые видеоролики. Большинство видео дополняют нашу помощь пользователям, а некоторые из них можно просматривать самостоятельно.  
 
@@ -24,7 +24,7 @@ ms.reviewer: bholtorf
 
 [!INCLUDE [about-ui-learn](includes/about-ui-learn.md)]
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Подготовьтесь к ведению бизнеса](ui-get-ready-business.md)  
 [Канал Dynamics 365 в YouTube](https://www.youtube.com/channel/UCJGCg4rB3QSs8y_1FquelBQ)  
