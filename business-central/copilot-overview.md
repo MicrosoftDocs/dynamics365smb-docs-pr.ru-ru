@@ -12,79 +12,79 @@ ms.date: 06/19/2024
 ms.custom: bap-template
 ---
 
-# О Copilot в Business Central
+# <a name="about-copilot-in-business-central"></a>О Copilot в Business Central
 
 В этой статье приведены ответы на распространенные вопросы о Microsoft Copilot в Dynamics 365 Business Central.
 
-## Что представляет собой Copilot в Business Central?
+## <a name="what-is-copilot-in-business-central"></a>Что представляет собой Copilot в Business Central?
 
 Copilot — это помощник на базе искусственного интеллекта, который стимулирует творческий подход, повышает продуктивность и избавляет от утомительных задач. Copilot в Business Central — это первый в мире помощник на базе ИИ во всех сферах бизнеса. Благодаря Copilot в Business Central малые и средние организации предоставляют своим сотрудникам интуитивно понятные инструменты на базе ИИ, которые повышают творческий потенциал и экономят время.
 
-## Где я могу найти список функций Copilot в Business Central?
+## <a name="where-can-i-find-the-list-of-copilot-features-in-business-central"></a>Где я могу найти список функций Copilot в Business Central?
 
 Copilot включает в себя постоянно расширяющийся набор возможностей, помогающих пользователям выполнять различные роли и задачи. [Узнайте больше о Copilot и других функциях ИИ в Business Central](https://aka.ms/BCAI).
 
-## Copilot бесплатный?
+## <a name="is-copilot-free"></a>Copilot бесплатный?
 
 В настоящее время Copilot в Business Central входит в вашу лицензию Business Central без дополнительной оплаты. Тем не менее, позднее могут быть введены политика добросовестного использования, квоты или цены.
 
-## Требуется ли для Copilot в Business Central минимальное количество пользователей?
+## <a name="does-copilot-in-business-central-require-a-minimum-number-of-users"></a>Требуется ли для Copilot в Business Central минимальное количество пользователей?
 
 В настоящее время не существует минимального количества пользователей, необходимых для начала использования Copilot в Business Central.
 
-## Как Copilot использует квоту времени Azure AI, предусмотренную лицензиями?
+## <a name="how-does-copilot-use-the-azure-ai-time-quota-that-is-included-with-licenses"></a>Как Copilot использует квоту времени Azure AI, предусмотренную лицензиями?
 
 Business Central предлагает множество функций на базе искусственного интеллекта. Некоторые функции, такие как прогнозирование продаж и запасов, используют специальные модели машинного обучения. Эти функции основаны на Azure AI и не связаны с Copilot. В руководстве по лицензированию Dynamics 365 указано, что в лицензии Business Central входит 30 минут времени Azure AI. Эта квота относится к функциям, не относящимся к Copilot, и потребление времени Azure AI не влияет на Copilot в Business Central.
 
-## Доступен ли Copilot в Business Central по всему миру?
+## <a name="is-copilot-in-business-central-available-worldwide"></a>Доступен ли Copilot в Business Central по всему миру?
 
 Copilot включает в себя постоянно расширяющийся набор возможностей, помогающих пользователям выполнять различные роли и задачи. Каждая возможность Copilot определяет свой собственный список поддерживаемых регионов и поддерживаемых языков. Хотя большинство функций, скорее всего, сначала будут доступны только на английском языке, мы стремимся со временем охватить больше языков и регионов. [Узнайте, на каких языках и в каких регионах доступен Copilot для бизнес-приложений](https://dynamics.microsoft.com/availability-reports/copilotreport).
 
-## Учитывает ли Copilot настройки, сделанные в среде?
+## <a name="is-copilot-aware-of-my-environment-customizations"></a>Учитывает ли Copilot настройки, сделанные в среде?
 
 Некоторые (но не все) функции Copilot могут работать с пользовательскими страницами и таблицами. Например, вы можете использовать [ помощь при анализе](analysis-assist.md) в пользовательских списках или [чат с Copilot](chat-with-copilot.md) для поиска записей в пользовательских таблицах. Узнать, какие из функций Copilot работают в сочетании с пользовательскими настройками, можно из статей по каждой функции.
 
-## Нужно ли обучать Copilot на своих собственных данных?
+## <a name="does-copilot-have-to-be-trained-on-my-data"></a>Нужно ли обучать Copilot на своих собственных данных?
 
 Copilot в Business Central опирается на мощные базовые модели искусственного интеллекта в сочетании с функциями управления данными платформы Business Central. Ваша организация может начать использовать Copilot с данными вашей компании без дорогостоящего или трудоемкого обучения.
 
-## Можно ли разрабатывать собственные помощники для Business Central?
+## <a name="can-i-develop-my-own-copilots-for-business-central"></a>Можно ли разрабатывать собственные помощники для Business Central?
 
 Вы можете расширять и совершенствовать Copilot в Business Central, используя инструменты, которые входят в состав стандартной платформы разработки Business Central. [Узнайте, как интегрировать ИИ с помощью инструментов разработчика для Copilot](/dynamics365/business-central/dev-itpro/developer/ai-integration-landing-page).
 
 Вы также можете подключать помощников, используя Copilot Studio. Кроме того, вы можете или реализовывать свои собственные автономные приложения и службы на базе искусственного интеллекта, которые будут подключаться к Business Central. [Узнайте, как разрабатывать или настраивать возможности помощников в Microsoft Cloud](/microsoft-cloud/dev/copilot/overview).
 
-## Как быть в курсе последних новостей о Copilot в Business Central?
+## <a name="how-do-i-stay-up-with-the-latest-news-about-copilot-in-business-central"></a>Как быть в курсе последних новостей о Copilot в Business Central?
 
 Чтобы получать новости о Copilot и других инновациях в области искусственного интеллекта в Business Central, следите за [планами выпуска](https://aka.ms/BCReleasePlan).
 
-## Как партнер Business Central, насколько легко я могу продемонстрировать Copilot в Business Central своим клиентам?
+## <a name="as-a-business-central-partner-how-easily-can-i-demonstrate-copilot-in-business-central-to-my-customers"></a>Как партнер Business Central, насколько легко я могу продемонстрировать Copilot в Business Central своим клиентам?
 
 Copilot в Business Central также автоматически доступен при подготовке клиента Microsoft Entra со средой Business Central на сайте [Customer Digital Experiences (CDX)](https://aka.ms/CDX). [Узнайте, как подготовить демонстрации Business Central](/dynamics365/business-central/dev-itpro/administration/demo-environment).
 
 В зависимости от среды, которую вы подготавливаете, может потребоваться дополнительная настройка. [Узнайте о настройке возможностей Copilot и ИИ](/dynamics365/business-central/enable-ai).
 
-## Есть ли разница между Copilot в Business Central и Copilot for Microsoft 365?
+## <a name="is-there-a-difference-between-copilot-in-business-central-and-copilot-for-microsoft-365"></a>Есть ли разница между Copilot в Business Central и Copilot for Microsoft 365?
 
 Майкрософт дает людям возможность достигать большего с помощью помощников, адаптированных к различным ситуациям. Например, Copilot for Microsoft 365 — это помощник на основе ИИ, предназначенный для работы с Microsoft Teams, Excel и другими приложениями для продуктивной работы. Copilot в Business Central — это помощник на основе искусственного интеллекта, созданный специально для приложения Business Central.
 
-## Работает ли Copilot в Business Central с Copilot for Microsoft 365?
+## <a name="does-copilot-in-business-central-work-with-copilot-for-microsoft-365"></a>Работает ли Copilot в Business Central с Copilot for Microsoft 365?
 
 В настоящее время связи между Copilot в Business Central и Copilot for Microsoft 365 нет.
 
-## Copilot доступен только для Business Central Online?
+## <a name="is-copilot-available-for-business-central-online-only"></a>Copilot доступен только для Business Central Online?
 
 Да, Copilot доступен только в Business Central Online. Поэтому он недоступен для других типов развертывания, таких как локальный экземпляр или частное облако.
 
-## Доступен ли Copilot для внедренных приложений Embed?
+## <a name="is-copilot-available-to-embed-applications"></a>Доступен ли Copilot для внедренных приложений Embed?
 
 В настоящее время из-за технических ограничений мы не можем предложить Copilot клиентам, использующим приложения Embed независимых поставщиков программного обеспечения. Независимые поставщики программного обеспечения могут расширять Copilot своими собственными функциями или предлагать альтернативные варианты использования генеративного ИИ.
 
-## Как Copilot подходит к безопасности ИИ?
+## <a name="how-does-copilot-approach-ai-safety"></a>Как Copilot подходит к безопасности ИИ?
 
 Генеративный ИИ в Copilot в Business Central соответствует принципам ответственного применения ИИ Майкрософт, включая: справедливость, надежность, безопасность, конфиденциальность и защищенность, инклюзивность, прозрачность и подотчетность. [Узнайте, как ответственно разрабатывалась каждая функция Copilot](responsible-ai-overview.md).
 
-## См. также
+## <a name="see-also"></a>См. также
 
 [Настройка возможностей Copilot и ИИ](enable-ai.md)  
 [Анализ данных в списках с помощью Copilot](analysis-assist.md)  

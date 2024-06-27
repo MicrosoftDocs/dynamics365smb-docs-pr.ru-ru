@@ -10,7 +10,7 @@ ms.date: 06/16/2024
 ms.author: soalex
 ms.service: dynamics-365-business-central
 ---
-# Соответствие служб
+# <a name="service-compliance"></a>Соответствие служб
 
 Эта статья содержит информацию о соответствии служб, связанных с [!INCLUDE[prod_short](../includes/prod_short.md)] Online.
 
@@ -20,11 +20,11 @@ Business Central представляет собой облачную служб
 
 Если вас интересует полный список предложений Майкрософт для соответствию, перейдите в [Центр доверия Майкрософт](https://www.microsoft.com/trustcenter/compliance/complianceofferings).
 
-## Условия предоставления услуг
+## <a name="service-terms"></a>Условия предоставления услуг
 
 [!INCLUDE[service-terms](../includes/service-terms.md)]
 
-## См. также
+## <a name="see-also"></a>См. также
 
 [Соответствие](compliance-overview.md)  
 [Соответствие приложений](compliance-application-compliance.md)  

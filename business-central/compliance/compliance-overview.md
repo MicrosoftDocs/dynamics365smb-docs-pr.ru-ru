@@ -10,7 +10,7 @@ ms.custom: bap-template
 ms.service: dynamics-365-business-central
 ---
 
-# Обзор соответствия
+# <a name="compliance-overview"></a>Обзор соответствия
 
 Это содержимое содержит сведения о соответствии в связи с [!INCLUDE[prod_long](../includes/prod_long.md)].
 
