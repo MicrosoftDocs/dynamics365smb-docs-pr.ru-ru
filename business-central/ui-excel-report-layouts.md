@@ -6,11 +6,12 @@ ms.topic: conceptual
 ms.devlang: al
 ms.search.keywords: 'customized report, document layout, logo, personalize'
 ms.search.form: '9650, 9652'
-ms.date: 11/10/2022
+ms.date: 05/30/2024
 ms.author: jswymer
 ms.service: dynamics-365-business-central
+ms.reviewer: jswymer
 ---
-# <a name="working-with-microsoft-excel-layouts"></a>Работа с макетами Microsoft Excel
+# Работа с макетами Microsoft Excel
 
 Макеты отчетов Microsoft Excel основаны на книгах Excel (файлы XLSX). С ними можно создавать отчеты, которые включают знакомые функции Excel для обобщения, анализа и представления данных, такие как формулы, сводные таблицы и сводные диаграммы.
 
@@ -18,7 +19,7 @@ ms.service: dynamics-365-business-central
 
 В этой статье объясняются некоторые важные вещи, которые вам нужно знать, чтобы начать работу с макетами Excel.
 
-## <a name="why-use-excel-layouts"></a>Зачем использовать макеты Excel?
+## Зачем использовать макеты Excel?
 
 Преимущества использования макетов Excel:
 
@@ -31,14 +32,17 @@ ms.service: dynamics-365-business-central
   - [Прогнозирование и анализ](https://support.microsoft.com/office/introduction-to-what-if-analysis-22bffa5f-e891-4acc-bf7a-e4645c446fb4)
 - Используйте установленные надстройки и интеграции приложений, таких как потоки Power Automate или OneDrive.
 
-## <a name="get-started"></a>Начать
+> [!TIP]
+> Если интеграция с OneDrive настроена, при запуске отчета с макетом Excel файл книги Excel копируется в OneDrive, а затем открывается в Excel Online. Подробнее см. в разделе [Сохранение книг Excel и файлов отчетов в OneDrive](./across-onedrive-overview.md#save-excel-workbooks-and-report-files-in-onedrive)
+
+## Начало работы
 
 В основном есть две задачи, связанные с настройкой макета Excel отчета:
 
 1. Создайте новый файл макета Excel.
 2. Добавьте новый макет в отчет.
 
-## <a name="task-1-create-the-excel-layout-file"></a>Задача 1. Создайте новый файл макета Excel
+## Задача 1. Создайте новый файл макета Excel
 
 Ниже приведены три способа создания файла макета Excel для отчета.
 
@@ -57,13 +61,13 @@ ms.service: dynamics-365-business-central
 
 Если для отчета уже существует макет Excel, вы можете использовать существующий макет в качестве отправной точки. Есть два подхода к получению копии макета. Вы можете экспортировать существующий макет со страницы **Макеты отчетов** или загрузить макет со страницы запроса отчета. Оба способа загружают файл макета Excel, который включает все листы существующего файла. Разница в том, что когда вы загружаете его со страницы запроса, макет включает фактические данные. (Эти данные не обязательны, но они помогают при разработке макета.)
 
-#### <a name="approach-1-export-the-layout-from-the-report-layouts-page"></a>Подход 1. Экспорт макета на странице **Макеты отчетов**
+#### Подход 1. Экспорт макета на странице **Макеты отчетов**
 
 [!INCLUDE[open-report-layouts-page](includes/open-report-layouts-page.md)]
 2. Выберите макет Excel из списка, затем выберите действие **Экспорт макета** в верхней части страницы.
 3. Откройте файл в Excel, внесите изменения, затем сохраните файл.
 
-#### <a name="approach-2-download-the-layout-from-the-reports-request-page"></a>Подход 2. Загрузите макет со страницы запроса отчета
+#### Подход 2. Загрузите макет со страницы запроса отчета
 
 [!INCLUDE[open-report-layouts-page](includes/open-report-layouts-page.md)]
 2. На странице **Макеты отчетов** выберите любой макет для отчета, затем выберите действие **Выполнить отчет**.
@@ -76,7 +80,7 @@ ms.service: dynamics-365-business-central
 
 ---
 
-## <a name="task-2-add-the-excel-layout-to-the-report"></a>Задача 2. Добавьте макет Excel в отчет
+## Задача 2. Добавьте макет Excel в отчет
 
 Когда у вас есть файл макета Excel, следующая задача — добавить его в качестве нового макета для отчета.
 
@@ -106,7 +110,7 @@ ms.service: dynamics-365-business-central
 3. Report metadata 
 -->
 
-## <a name="understanding-excel-layouts"></a>Сведения о макетах Excel
+## Сведения о макетах Excel
 
 Есть несколько вещей, которые следует знать или учитывать при создании или внесении изменений в макеты Excel. Каждый макет Excel должен включать два элемента: лист **Данные** и таблица **Данные**. Эти элементы составляют основу макета, определяя бизнес-данные из Business Central, с которыми вы можете работать. Вы можете думать о листе **Данные** как о своего рода контракте между макетом и бизнес-данными. Вы будете использовать эти данные в качестве источника расчетов и визуализаций, которые вы хотите представить на других листах.
 
@@ -128,15 +132,13 @@ ms.service: dynamics-365-business-central
 - Не добавляйте столбцы, если они не включены в набор данных отчета.
 - Вы можете размещать листы в любом порядке, с листом **Данные** первым или последним.
 
-## <a name="see-also"></a>См. также
-
+## См. также
+[Создание отчета с макетом Excel (документация для разработчиков)](/dynamics365/business-central/dev-itpro/developer/devenv-howto-excel-report-layout?toc=/dynamics365/business-central/toc.json)  
 [Управление макетами отчетов](ui-manage-report-layouts.md)  
 [Смена текущего макета отчета](ui-how-change-layout-currently-used-report.md)  
-[Импорт и экспорт пользовательского макета отчета или документа](ui-how-import-and-export-report-layout.md)  
-[Работа с отчетами, пакетными заданиями и XMLport](ui-work-report.md)  
-[Подготовка Financial Reporting с помощью финансовых данных и категорий счетов](bi-how-work-account-schedule.md)  
-[Бизнес-аналитика](bi.md)  
-[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
+[Импорт и экспорт пользовательского макета отчета или документа (устарело)](ui-how-import-and-export-report-layout.md)  
 [Анализ данных отчета с помощью Excel](report-analyze-excel.md)  
+[Работа с отчетами](ui-work-report.md)  
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]

@@ -1,12 +1,14 @@
 ---
 title: Добро пожаловать в Microsoft Dynamics 365 Business Central
-description: 'Узнайте о возможностях и рабочих сценариях в Business Central, которые помогают компаниям управлять своим бизнесом, включая финансы, производство, продажи, доставку, управление проектами, услуги и многое другое.'
+description: 'Узнайте о возможностях и сценариях работы в Business Central, которые помогают компаниям управлять своим бизнесом, включая финансы, производство, продажи, доставку, управление проектами, услуги и многое другое.'
 author: jswymer
 ms.topic: landing-page
 ms.devlang: al
-ms.date: 05/22/2023
+ms.date: 05/23/2024
 ms.author: jswymer
+ms.reviewer: bholtorf
 ms.service: dynamics-365-business-central
+ms.custom: bap-template
 ---
 # Добро пожаловать в [!INCLUDE[prod_long](includes/prod_long.md)]
 
@@ -15,7 +17,7 @@ ms.service: dynamics-365-business-central
 Если у вас уже есть [!INCLUDE[prod_short](includes/prod_short.md)], то войдите на [https://businesscentral.dynamics.com](https://businesscentral.dynamics.com). В противном случае, [просмотрите обзор](https://dynamics.microsoft.com/business-central/overview/), [пройдите тур с гидом](https://dynamics.microsoft.com/en-us/guidedtour/dynamics/business-central/1/1), затем [начните бесплатный пробный период](trial-signup.md). См. [статьи с краткими руководствами](quick-start-business-central.md), чтобы лучше узнать [!INCLUDE [prod_short](includes/prod_short.md)]. Дополнительные сведения об адаптации к [!INCLUDE[prod_short](includes/prod_short.md)] см. в разделе [Подготовьтесь к ведению бизнеса](ui-get-ready-business.md).  
 
 > [!TIP]
-> Вы перешли сюда из [!INCLUDE [prod_short](includes/prod_short.md)]? Если вы не уверены, где найти то, что ищете, вы можете **фильтровать по заголовкам** в панели навигации слева, или вы можете использовать поле **Поиск** в верхней части окна браузера.  
+> Вы перешли сюда из [!INCLUDE [prod_short](includes/prod_short.md)]? Если вы не уверены, где найти то, что ищете, вы можете **фильтровать по заголовкам** в панели навигации слева, или же использовать поле **Поиск** в верхней части окна браузера.  
 >
 > Вы также можете использовать возможности поиска в [!INCLUDE [prod_short](includes/prod_short.md)], чтобы найти соответствующую документацию. Дополнительные сведения см. в разделе [Поиск страниц и информации с помощью функции "Что вы хотите сделать"](ui-search.md).
 
@@ -36,7 +38,7 @@ ms.service: dynamics-365-business-central
 
 ## Бизнес-процессы
 
-- [Подготовьтесь к ведению бизнеса](ui-get-ready-business.md)
+- [Подготовка к ведению бизнеса](ui-get-ready-business.md)
 - [Настройка [!INCLUDE[prod_short](includes/prod_short.md)]](setup.md)
 - [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
 - [Администрация](admin-setup-and-administration.md)
@@ -69,19 +71,35 @@ ms.service: dynamics-365-business-central
 - [AL Development Environment](/dynamics365/business-central/dev-itpro/developer/devenv-reference-overview)
 - [Правила и рекомендации для кода AL](/dynamics365/business-central/dev-itpro/compliance/apptest-overview)
 
+## Материалы по Copilot и ИИ
+
+- [Обзор](copilot-overview.md)
+- Возможности
+  - [Анализ данных в списках с помощью Copilot](analysis-assist.md)
+  - [Выверка банковских счетов с помощью Copilot](bank-reconciliation-with-copilot.md)
+  - [Чат с Copilot](chat-with-copilot.md?toc=/dynamics365/business-central/toc.json)
+  - [Обзор предлагаемых маркетинговых текстов](ai-overview.md)
+  - [Предложение строк в заказах на продажу с помощью Copilot](sales-suggest-sales-lines-with-copilot.md)
+  - [Сопоставление электронных документов со строками заказов на покупку с помощью Copilot](map-edocuments-with-copilot.md)
+- Администрация
+  - [Настройка возможностей Copilot и ИИ](enable-ai.md)
+  - [Вопросы и ответы по ответственному применению ИИ](responsible-ai-overview.md)
+- Разработка
+  - [Расширение Copilot в Business Central](/dynamics365/business-central/dev-itpro/developer/ai-integration-landing-page)
+
 ## Обучение Microsoft Learn
 
 Найдите бесплатное электронное обучение по [!INCLUDE[prod_short](includes/prod_short.md)] на сайте [Обучение Microsoft Learn](/training/dynamics365/business-central?WT.mc_id=dyn365bc_landingpage-docs).
 
-Вы также можете просмотреть видеоролики о новых и часто используемых возможностях в нашей видеотеке. Для получения дополнительной информации см. раздел [Посетите нашу библиотеку видео](across-videos.md).  
+Вы также можете просмотреть видеоролики о новых и часто используемых возможностях в нашей видеотеке. Чтобы узнать больше, [посетите нашу видеотеку](across-videos.md).  
 
 ## Ресурсы сообщества
 
 - [Форум сообщества Microsoft Dynamics 365 Business Central](https://community.dynamics.com/forums/thread/?groupid=e78817ab-a926-4d31-96cc-aef040a4eb04)  
-- [Microsoft Dynamics 365 Business Central в блоге Dynamics 365](https://cloudblogs.microsoft.com/dynamics365/it/product/business-central/)  
+- [Microsoft Dynamics 365 Business Central в блоге Dynamics 365](https://www.microsoft.com/dynamics-365/blog/business-leader/product/dynamics-365-business-central/)  
 - [Планы выпуска Microsoft Dynamics 365](/dynamics365/release-plans/)  
-- [Дорожная карта Microsoft Dynamics 365 Business Central](https://dynamics.microsoft.com/roadmap/business-central/)  
-- [Microsoft Partner Network \(требуется учетная запись члена Microsoft Partner Network\)](https://mspartner.microsoft.com/en/us/windows/index.aspx)  
+- [Планы выпуска Microsoft Dynamics 365 Business Central](https://releaseplans.microsoft.com/?app=Business+Central&group=dynamics-365&subgroup=dynamics-365-business-central) 
+- [Microsoft Partner Network \(требуется учетная запись члена Microsoft Partner Network\)](https://mspartner.microsoft.com)  
 
 ## Получайте уведомления об изменениях через RSS-канал
 
@@ -104,8 +122,8 @@ ms.service: dynamics-365-business-central
 [Что нового и что изменилось](/dynamics365/business-central/dev-itpro/whatsnew/overview)  
 [Основные и незначительные обновления Business Central Online](/dynamics365/business-central/dev-itpro/administration/update-rollout-timeline)  
 [Документация по Dynamics 365](/dynamics365/)  
-[Dynamics 365 Business Central на microsoft.com](https://dynamics.microsoft.com/business-central/overview/)  
-[Изучение возможностей Dynamics 365 Business Central](https://dynamics.microsoft.com/business-central/capabilities/)  
+[Dynamics 365 Business Central на microsoft.com](https://www.microsoft.com/dynamics-365/products/business-central/)  
+[Изучение возможностей Dynamics 365 Business Central](https://www.microsoft.com/en-us/dynamics-365/products/business-central#Features)  
 
 ## [!INCLUDE[prod_short](includes/free_trial_md.md)]
 

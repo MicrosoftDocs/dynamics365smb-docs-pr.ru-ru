@@ -1,11 +1,11 @@
 ---
-title: Создание отчетов в Power BI Desktop для отображения данных Business Central | Документация Майкрософт
+title: Создание отчетов в Power BI Desktop для отображения данных Business Central
 description: Можно сделать данные доступными в качестве источника данных в Power BI и создать мощные отчеты о состоянии вашего бизнеса.
 author: jswymer
 ms.topic: conceptual
 ms.devlang: al
 ms.search.keywords: 'business intelligence, KPI, Odata, Power App, SOAP, analysis'
-ms.date: 01/22/2024
+ms.date: 06/12/2024
 ms.author: jswymer
 ms.service: dynamics-365-business-central
 ms.reviewer: jswymer
@@ -13,9 +13,9 @@ ms.reviewer: jswymer
 
 # Создание отчетов Power BI для отображения данных [!INCLUDE [prod_long](includes/prod_long.md)]
 
-Можно сделать данные [!INCLUDE[prod_long](includes/prod_long.md)] доступными в качестве источника данных в Power BI Desktop и создать мощные отчеты о состоянии вашего бизнеса.
+Вы можете сделать свои данные [!INCLUDE[prod_long](includes/prod_long.md)] доступными в качестве источника данных в Power BI Desktop и создавать мощные отчеты о состоянии вашего бизнеса.
 
-В этой статье рассказывается, как начать использовать Power BI Desktop для создания отчетов, отображающих данные [!INCLUDE[prod_long](includes/prod_long.md)].  После создания отчетов вы можете опубликовать их в своей службе Power BI или поделиться ими со всеми пользователями в вашей организации. Как только эти отчеты будут в службе Power BI, пользователи, которые настроены для нее, могут затем просматривать отчеты в [!INCLUDE[prod_long](includes/prod_long.md)].
+В этой статье рассказывается, как начать использовать Power BI Desktop для создания отчетов, отображающих данные [!INCLUDE[prod_long](includes/prod_long.md)]. После создания отчетов вы можете опубликовать их в своей службе Power BI или поделиться ими со всеми пользователями в вашей организации. Как только эти отчеты будут в службе Power BI, пользователи, которые имеют к ней доступ, смогут просматривать отчеты в [!INCLUDE[prod_long](includes/prod_long.md)].
 
 ## Подготовка
 
@@ -27,9 +27,7 @@ ms.reviewer: jswymer
 
   Power BI Desktop — это бесплатное приложение, которое вы устанавливаете на свой локальный компьютер. Для получения дополнительной информации см. раздел [Быстрый старт: подключение к данным в Power BI Desktop](/power-bi/desktop-quickstart-connect-to-data),
 
-- Убедитесь, что данные, которые вы хотите включить в отчет, доступны как страница API или опубликованы в виде веб-службы.
-
-  Для получения дополнительной информации прочитайте [Предоставлять данные через страницы API или веб-службы OData](admin-powerbi-setup.md#exposedata).
+- Убедитесь, что данные, которые вы хотите включить в отчет, доступны как страница API или опубликованы в виде веб-службы. Для получения дополнительной информации прочитайте [Предоставлять данные через страницы API или веб-службы OData](admin-powerbi-setup.md#exposedata).
 
 <!--- For [!INCLUDE[prod_short](includes/prod_short.md)] on-premises, get the following information:
 
@@ -69,17 +67,17 @@ ms.reviewer: jswymer
     <!--- For [!INCLUDE [prod_short](includes/prod_short.md)] on-premises, first enter the OData URL for [!INCLUDE[prod_short](includes/prod_short.md)], then select **OK**. When prompted, enter the user name and password of the account to use for connecting to [!INCLUDE[prod_short](includes/prod_short.md)]. In the **Password** box, enter the web service access key. When done, select **Connect**.-->
 
     > [!NOTE]  
-    > После успешного подключения к [!INCLUDE[prod_short](includes/prod_short.md)] выполнять повторный вход не требуется. [Как изменить или удалить учетную запись, которую я сейчас использую для подключения к Business Central из Power BI Desktop?](/dynamics365/business-central/power-bi-faq?tabs=designer#perms)
+    > После подключения к [!INCLUDE[prod_short](includes/prod_short.md)] входить в систему больше будет не нужно. [Как изменить или удалить учетную запись, которую я сейчас использую для подключения к Business Central из Power BI Desktop?](/dynamics365/business-central/power-bi-faq?tabs=designer#perms)
 
-6. После подключения Power BI связывается со службой Business Central. Появляется окно **Навигатор**, в котором отображаются доступные источники данных для построения отчетов. Выберите папку, чтобы развернуть ее и просмотреть доступные источники данных. 
+6. После подключения Power BI связывается со службой [!INCLUDE [prod_short](includes/prod_short.md)]. Появляется окно **Навигатор**, в котором отображаются доступные источники данных для построения отчетов. Выберите какую-либо папку, чтобы развернуть ее и просмотреть доступные источники данных.
 
-   Эти источники данных представляют все веб-службы и страницы API, которые опубликованы для [!INCLUDE [prod_short](includes/prod_short.md)]. Источники данных сгруппированы по средам Business Central и компаниям. С Business Central Online **Навигатор** имеет следующую структуру:
+   Эти источники данных представляют все веб-службы и страницы API, которые опубликованы для [!INCLUDE [prod_short](includes/prod_short.md)], сгруппированные по средам и организациям. С [!INCLUDE [prod_short](includes/prod_short.md)] Online окно **Навигатор** имеет следующую структуру:
 
     - **Имя среды**
       - **Название организации**
         - **Расширенные API**
 
-          В этой папке перечислены расширенные страницы API, опубликованные Microsoft, например [API автоматизации Business Central](/dynamics365/business-central/dev-itpro/administration/itpro-introduction-to-automation-apis) и [Настраиваемые страницы API для Business Central](/dynamics365/business-central/dev-itpro/developer/devenv-develop-custom-api). Страницы пользовательского API далее сгруппированы по папкам по свойствам [APIPublisher](/dynamics365/business-central/dev-itpro/developer/properties/devenv-apipublisher-property)/[APIGroup](/dynamics365/business-central/dev-itpro/developer/properties/devenv-apigroup-property) исходного кода страницы API.
+          В этой папке перечислены расширенные страницы API, опубликованные Microsoft, например [API автоматизации Business Central](/dynamics365/business-central/dev-itpro/administration/itpro-introduction-to-automation-apis) и [Настраиваемые страницы API для Business Central](/dynamics365/business-central/dev-itpro/developer/devenv-develop-custom-api). Страницы пользовательских API далее сгруппированы по папкам по свойствам [APIPublisher](/dynamics365/business-central/dev-itpro/developer/properties/devenv-apipublisher-property)/[APIGroup](/dynamics365/business-central/dev-itpro/developer/properties/devenv-apigroup-property) исходного кода страницы API.
 
         - **Стандартные API v2.0**
 
@@ -96,7 +94,7 @@ ms.reviewer: jswymer
 7. Выберите источник данных или источники, которые требуется добавить в модель данных, а затем нажмите кнопку **Загрузить**.
 8. Если позже вы захотите добавить дополнительные данные Business Central, вы можете повторить предыдущие шаги.
 
-После загрузки данных они отображаются в правой области навигации на странице. На этом шаге вы успешно подключились с данным [!INCLUDE[prod_short](includes/prod_short.md)] и можете начать создание отчета Power BI.  
+После загрузки данных они отображаются в правой области навигации на странице. На этом шаге вы успешно подключились к данным [!INCLUDE[prod_short](includes/prod_short.md)] и можете приступать к созданию отчета Power BI.  
 
 > [!TIP]
 > Дополнительные сведения об использовании Power BI Desktop см. в разделе [Приступая к работе с Power BI Desktop](/power-bi/fundamentals/desktop-getting-started).
@@ -107,7 +105,7 @@ ms.reviewer: jswymer
 
 ## Создание отчетов для отображения данных, связанных со списком
 
-Вы можете создавать отчеты, которые отображаются на информационной панели страницы списка [!INCLUDE [prod_short](includes/prod_short.md)]. Отчеты могут содержать данные о записи, выбранной в списке. Создание этих отчетов аналогично созданию других отчетов, за исключением того, что вам нужно сделать несколько вещей, чтобы убедиться, что отчеты отображаются должным образом. Для получения дополнительной информации см. раздел [Создание отчетов Power BI для отображения данных списка в [!INCLUDE[prod_short](includes/prod_short.md)]](across-how-use-powerbi-reports-factbox.md).
+Вы можете создавать отчеты, которые отображаются на информационной панели страницы списка [!INCLUDE [prod_short](includes/prod_short.md)]. Отчеты могут содержать данные о записи, выбранной в списке. Создание этих отчетов аналогично созданию других отчетов, за исключением того, что нужно выполнить определенные действия, чтобы убедиться, что отчеты отображаются должным образом. Для получения дополнительной информации см. раздел [Создание отчетов Power BI для отображения данных списка в [!INCLUDE[prod_short](includes/prod_short.md)]](across-how-use-powerbi-reports-factbox.md).
 
 ## <a name="theme"></a>Использование темы отчетов [!INCLUDE [prod_short](includes/prod_short.md)] (необязательно)
 
@@ -125,11 +123,11 @@ ms.reviewer: jswymer
 
 ### Импорт темы в отчет
 
-После того, как вы скачали тему отчета [!INCLUDE [prod_short](includes/prod_short.md)], вы можете импортировать ее в свои отчеты. Чтобы импортировать тему, выберите **Представление** > **Темы** > **Поиск тем**. Дополнительные сведения см. в разделе [Power BI Desktop — импорт пользовательских тем отчетов](/power-bi/create-reports/desktop-report-themes#import-custom-report-theme-files).
+Загрузив тему отчета [!INCLUDE [prod_short](includes/prod_short.md)], вы сможете импортировать ее в свои отчеты. Чтобы импортировать тему, выберите **Представление** > **Темы** > **Поиск тем**. Дополнительные сведения см. в разделе [Power BI Desktop — импорт пользовательских тем отчетов](/power-bi/create-reports/desktop-report-themes#import-custom-report-theme-files).
 
 ## Публикация отчетов
 
-После того как вы создали или изменили отчет, вы можете опубликовать его в своей службе Power BI, а также поделиться им с другими в вашей организации. После публикации вы увидите отчет в Power BI. Отчет также становится доступным для выбора в [!INCLUDE[prod_short](includes/prod_short.md)].
+После того как вы создали или изменили отчет, вы можете опубликовать его в своей службе Power BI, а также передать его другим пользователям в своей организации. После публикации отчет становится доступен в Power BI. Отчет также становится доступным для выбора в [!INCLUDE[prod_short](includes/prod_short.md)].
 
 Чтобы опубликовать отчет, выберите **Опубликовать** на вкладке **Главная** на ленте или из меню **файл**. Если вы вошли в службу Power BI, отчет публикуется в этой службе. В противном случае вам будет предложено войти в систему. 
 
@@ -148,19 +146,28 @@ ms.reviewer: jswymer
 
     Если у вас есть лицензия Power BI Pro, вы можете поделиться отчетом с другими прямо из своей службы Power BI. Дополнительные сведения см. в разделе [Power BI — предоставление доступа к панели мониторинга или отчету](/power-bi/collaborate-share/service-share-dashboards#share-a-dashboard-or-report).
 
+## Как разрабатывать отчеты Power BI, охватывающие несколько организаций или сред
+
+Конечные точки API [!INCLUDE[prod_short](includes/prod_short.md)] имеют префикс `https://api.businesscentral.dynamics.com/v2.0/<environment_name>/api/v2.0`, после которого идет `/companies({company_id})/accounts({id})` (здесь мы используем API `accounts` в качестве иллюстрации). Вы можете использовать эту структуру для создания запросов PowerQuery, которые загружают данные для нескольких организаций или нескольких сред, если у пользователя, читающего данные, есть к ним доступ.
+
+Чтобы создать запрос для загрузки данных для нескольких организаций, выполните следующие действия:
+
+1. Возьмите запрос PowerQuery, который загружает данные для одной организации. Преобразуйте его в пользовательскую функцию Power Query, которая принимает идентификатор организации (или, возможно, имя среды) в качестве параметров. Подробнее см. в статье [Использование пользовательских функций Power Query](/power-query/custom-function).
+1. Теперь используйте эту новую пользовательскую функцию в запросе PowerQuery, где вам нужно будет сопоставить эту функцию со списком компаний, а затем объединить наборы данных с помощью функции Power Query [Table.Combine](/powerquery-m/table-combine).
+
 ## Устранение проблем
 
 ### «Невозможно вставить запись. Назначение текущего подключения — только чтение". ошибка при подключении к странице пользовательского API
 
 > **ПРИМЕНЯЕТСЯ К:** Business Central Online
 
-С февраля 2022 г. новые отчеты, использующие данные Business Central, по умолчанию будут подключаться к доступной только для чтения реплике базы данных Business Central. В редких случаях, в зависимости от дизайна страницы, вы получите сообщение об ошибке при попытке подключения и получения данных со страницы.
+С февраля 2022 г. новые отчеты, в которых используются данные [!INCLUDE [prod_short](includes/prod_short.md)], по умолчанию будут подключаться к доступной только для чтения реплике базы данных [!INCLUDE [prod_short](includes/prod_short.md)]. В редких случаях, в зависимости от дизайна страницы, вы будете видеть сообщение об ошибке при попытке подключения и получения данных со страницы.
 
 1. Запустите Power BI Desktop.
 2. На ленте выберите **Получить данные** > **Веб-службы**.
 3. В области **Веб-службы** выберите **Dynamics 365 Business Central**, затем **Подключить**.
 4. В окне **Навигатор** выберите конечную точку API, из которой вы хотите загрузить данные.
-5. На панели предварительного просмотра справа вы увидите следующую ошибку:
+5. На панели предварительного просмотра отображается следующая ошибка:
 
    *Dynamics365BusinessCentral: ошибка запроса. Удаленный сервер вернул ошибку: (400) неверный запрос. (Невозможно вставить запись. Текущее намерение подключения доступно только для чтения. CorrelationId: [...])».*
 

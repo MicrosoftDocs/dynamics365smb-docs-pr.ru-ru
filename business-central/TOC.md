@@ -200,7 +200,7 @@ ms.service: dynamics-365-business-central
 #### [Сенсорные жесты и жесты пером](touch-gestures.md)
 ### [Устранение неполадок: доступ к камере и геолокации](ui-troubleshooting-camera-location.md)
 ### [Интеллектуальная аналитика (только сетевая версия)](about-intelligent-cloud.md)
-## Вопросы и ответы
+## Устранение неполадок и вопросы и ответы
 ### [Вопросы и ответы](across-faq.yml)
 ### [Вопросы и ответы о чате с Copilot (предварительная версия)](chat-with-copilot-faq.md)
 ### [Вопросы и ответы о функции "Что вы хотите сделать"](ui-search-faq.md)
@@ -211,6 +211,7 @@ ms.service: dynamics-365-business-central
 ### [Вопросы и ответы о Teams](teams-faq.md)
 ### [Вопросы и ответы об электронных счетах](faq-electronic-invoicing.yml)
 ### [Минимальные требования](product-requirements.md)
+### [Устранение неполадок в Business Central](/troubleshoot/dynamics-365/business-central/welcome-business-central)
 
 ## Справка и поддержка
 ### [Ресурсы для справки и поддержки](product-help-and-support.md)
@@ -458,7 +459,12 @@ ms.service: dynamics-365-business-central
 #### [Обзор управления экологическим учетом](finance-manage-sustainability.md)
 #### [Настройка экологического учета](finance-sustainability-setup.md)
 #### [План счетов экологического учета и книги учета](finance-sustainability-accounts-ledger.md)
-#### [Регистрация выбросов парниковых газов (ПГ)](finance-sustainability-journal.md)
+#### [Регистрация выбросов парниковых газов (GHG)](finance-sustainability-journal.md)
+#### Аналитика экологической устойчивости
+##### [Специальный анализ данных об экологической устойчивости](ad-hoc-analysis-sustainability.md)
+##### [Встроенные отчеты об экологической устойчивости](sustainability-reports.md)
+#### API экологической устойчивости
+##### [API экологической устойчивости](/dynamics365/business-central/dev-itpro/api-sustainability/sustainability-api?toc=/dynamics365/business-central/toc.json)
 
 ### [Организации с несколькими подразделениями и международные организации](finance-multi-site-organizations.md)
 #### Консолидация финансовых данных из нескольких организаций
@@ -600,7 +606,7 @@ ms.service: dynamics-365-business-central
 #### [Обзор аналитики основных средств](fa-analytics-overview.md)
 #### [Специальный анализ данных по основным средствам](ad-hoc-analysis-fa.md)
 #### Встроенные инструменты аналитики основных средств
-##### [Мониторинг затрат на обслуживание](fa-how-maintain.md#to-monitor-maintenance-costs)
+##### [Мониторинг затрат на обслуживание](fa-how-maintain.md#monitor-maintenance-costs)
 ##### [Мониторинг страхового покрытия](fa-how-insure.md#to-monitor-insurance-coverage)
 ##### [Просмотр измененных значений книги амортизации](fa-how-trans-split-combine.md#to-view-changed-depreciation-book-values-due-to-fixed-asset-reclassification)
 ##### [Просмотр операций книги выбытия](fa-how-dispose-retire.md#to-view-disposal-ledger-entries)
@@ -1857,6 +1863,7 @@ ms.service: dynamics-365-business-central
 #### [Ключевые бухгалтерские отчеты](finance-reports.md)
 #### [Отчеты по расчетам с клиентами](receivables-reports.md)
 #### [Отчеты по расчетам с поставщиками](payables-reports.md)
+#### [Отчеты об экологической устойчивости](sustainability-reports.md)
 
 ### [Отчеты по продажам](sales-reports.md)
 ### [Отчеты по покупкам](purchase-reports.md)

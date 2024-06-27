@@ -10,13 +10,13 @@ ms.date: 08/31/2022
 ms.author: bholtorf
 ms.service: dynamics-365-business-central
 ---
-# <a name="change-basic-settings"></a>Изменение базовых настроек
+# Изменение базовых настроек
 
 На странице **Мои настройки** вы можете просмотреть и изменить базовые настройки для вашего [!INCLUDE[prod_short](includes/prod_short.md)]. Изменения, которые вы вносите, влияют только на вашу рабочую область, но не на рабочие области других пользователей.  
 
 [!INCLUDE [about-ui-learn](includes/about-ui-learn.md)]
 
-## <a name="role"></a><a name="role-center"></a>Роль
+## <a name="role-center"></a>Роль
 
 Роль определяет начальную страницу — начальный экран, разработанный в соответствии с задачами конкретной роли в организации. В зависимости от вашей роли, домашняя страница или ролевой центр позволяет вам получить общее представление о компании, подразделении или ваших личных задачах. Он также помогает переходить к вашим ежедневным задачам и находить работу, которая вам назначена.
 
@@ -24,7 +24,7 @@ ms.service: dynamics-365-business-central
 
 * В центре вы найдете область **Действия**, в которой отображаются текущие данные; их можно выбрать для просмотра более подробной информации. Можно настроить ключевые показатели эффективности (КПЭ) для отображения выбранной диаграммы, чтобы иметь визуальное представление, например, движения денежных средств или прибылей и убытков. Также на начальной странице можно составить список "Избранные клиенты" для бизнес-организаций, с которыми вы работаете чаще и которые требуют особого внимания.
 
-### <a name="change-the-role"></a>Смена роли
+### Смена роли
 
 По умолчанию установлена роль **Бизнес-руководитель**, но вы можете выбрать другую роль, чтобы использовать ролевой центр, в большей степени отвечающий вашим потребностям.  
 
@@ -32,7 +32,7 @@ ms.service: dynamics-365-business-central
 2. На странице **Мои настройки** в поле **Роль** выберите роль, которую вы хотите использовать по умолчанию. Например, выберите **Бухгалтер**.
 3. Выберите **ОК**.
 
-## <a name="company"></a><a name="company"></a>Компания
+## <a name="company"></a>Компания
 
 Организация выполняет роль контейнера данных в [!INCLUDE[prod_short](includes/prod_short.md)]. В базе данных может быть несколько организаций, но одновременно можно выбрать только одну из них. Организация по умолчанию называется CRONUS и содержит только демонстрационные данные.
 
@@ -44,7 +44,7 @@ ms.service: dynamics-365-business-central
 Организация по умолчанию называется CRONUS и содержит только демонстрационные данные. Вы можете создать новую организацию с собственными данными. Дополнительные сведения см. в разделе [Создание новых организаций](about-new-company.md).
 
 <!--
-### <a name="to-change-the-company-name"></a>To change the company name
+### To change the company name
 
 The company name is always displayed at the top left corner and works as an action that you can choose to go back to the Role Center. You can change this name on the **Company Information** page.
 
@@ -52,7 +52,7 @@ The company name is always displayed at the top left corner and works as an acti
 2. In the **Name** field, enter the new company name.
 3. Leave the page. The system restarts and displays the new company in the top-left corner.
 
-### <a name="to-display-a-company-badge-for-quick-access-to-company-information"></a><a name="badge"></a>To display a company badge for quick access to company information
+### <a name="badge"></a>To display a company badge for quick access to company information
 
 You can add a customized badge in the top-right corner, which you can choose to quickly view company name and tenant information in a pop-up box. The company badge is also useful when [!INCLUDE[prod_short](includes/prod_short.md)] is embedded in another application, like Microsoft Teams or in some other web application. In these cases, because the [!INCLUDE[web_client](includes/web_client.md)] displays less surrounding contextual information, the company badge serves as the only way to determine which company or environment a record belongs to.
 
@@ -62,7 +62,7 @@ You can add a customized badge in the top-right corner, which you can choose to 
 > [!NOTE]
 > If a company badge is defined, then you cannot change the company name as described in [To change the company name](ui-change-basic-settings.md#to-change-the-company-name)-->
 
-## <a name="work-date"></a><a name="work-date"></a>Рабочая дата
+## <a name="work-date"></a>Рабочая дата
 
 Чаще всего в качестве рабочей даты используется сегодняшняя дата. Для выполнения таких задач, как проведение транзакций на определенную дату, отличную от текущей, может возникнуть потребность временно изменить рабочую дату.
 
@@ -72,7 +72,7 @@ You can add a customized badge in the top-right corner, which you can choose to 
 > [!IMPORTANT]  
 > Если после изменения рабочей даты выполнить выход или переключиться на другую организацию, восстанавливается рабочая дата по умолчанию. Поэтому при следующем входе или переключении обратно в исходную организацию может потребоваться снова задать рабочую дату.
 
-### <a name="work-date-indication"></a>Индикация рабочей даты
+### Индикация рабочей даты
 
 Рабочая дата играет решающую роль для страниц, которые можно редактировать. Когда рабочая дата не установлена на сегодняшнюю дату на редактируемой странице, на странице появляются два типа индикаторов:
 
@@ -82,11 +82,11 @@ You can add a customized badge in the top-right corner, which you can choose to 
 
 Если рабочая дата не установлена на текущий день (сегодня), то на всех страницах, в на которых возможно редактирование даты, текущая рабочая дата отображается в левом верхнем углу.
 
-## <a name="region"></a><a name="region"></a>Регион
+## <a name="region"></a> Регион
 
 Настройка **Регион** определяет способ отображения или форматирования дат, времени, чисел и валюты. Он также определяет, какой символ используется в качестве десятичного разделителя при использовании цифровой клавиатуры для ввода данных. Узнайте больше в разделе [Ввод данных](ui-enter-data.md#decimal).
 
-## <a name="language"></a><a name="language"></a>Язык
+## <a name="language"></a> Язык
 
 Позволяет изменить язык отображения. Это поле отображается только в случае, когда для выбора доступно несколько языков.
 
@@ -94,19 +94,19 @@ You can add a customized badge in the top-right corner, which you can choose to 
 
 Дополнительные языки для [!INCLUDE[prod_short](includes/prod_short.md)] можно установить из AppSource. В то время как все поддерживаемые языки отображаются в списке, администратор должен установить соответствующее приложение языка в арендатор, прежде чем пользователи смогут переключиться на новый язык в [!INCLUDE[prod_short](includes/prod_short.md)].  
 
-## <a name="time-zone"></a>Часовой пояс
+## Часовой пояс
 
 Определяет часовой пояс, в котором вы находитесь. При первом входе в систему [!INCLUDE [prod_short](includes/prod_short.md)] часовой пояс устанавливается на основе адреса вашей компании. Измените его, если он не соответствует вашему физическому местоположению.  
 
-## <a name="notifications"></a>Уведомления
+## Уведомления
 
 Выберите ссылку *Изменение времени получения уведомлений* для просмотра или изменения уведомлений, которые вы получаете об определенных событиях или изменениях статуса, например, когда вы собираетесь выставить счет клиенту, у которого имеется просроченная задолженность, или когда доступные запасы ниже количества, которое вы собираетесь продать. Узнайте больше в разделе [Управление уведомлениями](ui-smart-notifications.md).
 
-## <a name="teaching-tips"></a>Обучающие советы
+## Обучающие советы
 
 [!INCLUDE [ua-teachingtips](includes/ua-teachingtips.md)]
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 [Изменение набора отображаемых функций](ui-experiences.md)  
