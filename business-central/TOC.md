@@ -2127,6 +2127,7 @@ ms.service: dynamics-365-business-central
 ### [Вопросы и ответы о сопоставлении электронных документов с заказами на покупку с помощью Copilot](faqs-map-edocuments.md)
 # Ответственное применение ИИ
 ## [Обзор](responsible-ai-overview.md)
+## [Вопросы и ответы о безопасности и конфиденциальности данных Copilot](/dynamics365/faqs-copilot-data-security-privacy?toc=/dynamics365/business-central/toc.json)
 ## [Вопросы и ответы о помощи при анализе (предварительная версия)](faqs-analysis-assist.md)
 ## [Вопросы и ответы о помощи при выверке банковских счетов (предварительная версия)](faqs-bank-reconciliation.md)
 ## [Вопросы и ответы о чате с Copilot (предварительная версия)](faqs-chat-with-copilot.md)

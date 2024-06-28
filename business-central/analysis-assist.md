@@ -5,37 +5,32 @@ author: jswymer
 ms.author: jswymer
 ms.reviewer: jswymer
 ms.topic: how-to
-ms.date: 03/14/2024
+ms.date: 06/13/2024
 ms.custom: bap-template
 ms.service: dynamics-365-business-central
 ms.search.form: '456, 457, 458, 459, 460, 461, 16, 22, 25, 26, 27, 31, 143, 144, 9300, 9301, 9303, 9304, 9305, 9306, 9307, 9309, 9310, 9311'
 ---
 # Анализ данных в списках с помощью Copilot (предварительная версия)
 
-[!INCLUDE[preview-banner](includes/preview-banner.md)]
+[!INCLUDE [preview-banner](~/../shared-content/shared/preview-includes/preview-banner.md)]
 
 В этой статье объясняется, как использовать *помощь при анализе*, чтобы анализировать данные на страницах списков.
 
-[!INCLUDE[production-ready-preview-dynamics365](includes/production-ready-preview-dynamics365.md)]
+[!INCLUDE [preview-note](~/../shared-content/shared/preview-includes/production-ready-preview-dynamics365.md)]
 
 ## Сведения о помощи при анализе
 
 Помощь при анализе — это Copilot для [режима анализа](analysis-mode.md) на страницах списков в Business Central. Режим анализа обеспечивает интерактивный и универсальный способ для выполнения вычислений, подведения итогов и изучения данных. Для анализа данных в режиме анализа вы создаете вкладку *анализ*, на которой преобразуете данные для отображения нужных агрегаций и обобщений. Например, вы упорядочиваете поля в строках и столбцах, указываете фильтры, сортируете столбцы и сводите поля. С помощью при анализе вместо того, чтобы выполнять эту задачу вручную, вы достигаете почти того же, &mdash; или, по крайней мере, можете начать, &mdash; с помощью слов. Выражая нужную структуру на естественном языке, например «отсортировать по количеству от меньшего к большему» или «показать среднюю стоимость по категории», помощь при анализе использует искусственный интеллект для создания предлагаемого макета на вкладке анализа.
 
+## Доступные языки
 
-<!-- 
+[!INCLUDE[analysis-assist-language-support](includes/analysis-assist-language-support.md)]
 
- However, the data analysis mode requires some understanding of how to structure fields to meet the desired aggregations and summarizations. It requires you to move fields around to the appropriate areas within analysis mode pane which data rows and columns to display, specify filters, sorting, grouping, pivoting and totals. Analysis assist minimizes these requirments by enabling you to express the desired layout in words. , like "group which data rows and columns to display, specify filters, sorting, grouping, pivoting and totals
---> 
 ## Предварительные требования
 
 - Функция помощи при анализе активирована, и вам предоставлены разрешения на ее использование. Эта задача обычно выполняется администратором. [Подробнее о настройке возможностей Copilot и ИИ](enable-ai.md).
-- В качестве языка отображения в Business Central установлен один из следующих английских языков: en-AU, en-CA, en-GB, en-IE, en-IN, en-NZ, en-PH, en-SG, en-US, en-ZA. [Узнайте больше об изменении языка](ui-change-basic-settings.md#language).
-- Ваша среда Business Central находится в любой стране/регионе, кроме Канады (эта функция пока недоступна в Канаде).
-
-<!--
-> [!NOTE]
-> You may notice some list pages that don't include the **Analyze** switch for changing to the analysis mode. The reason is that developers can disable analysis mode on specific pages by using the [AnalysisModeEnabled property](/dynamics365/business-central/dev-itpro/developer/properties/devenv-analysismodeenabled-property) in AL.-->
+<!-- - The display language in Business Central is set to one the following English locales: en-AU, en-CA, en-GB, en-IE, en-IN, en-NZ, en-PH, en-SG, en-US, en-ZA. [Learn how to change the language](ui-change-basic-settings.md#language)-->
+<!-- - Your Business Central environment is in any country/region except Canada (this feature isn't yet available in Canada).-->
 
 ## Начало работы
 
@@ -48,7 +43,7 @@ ms.search.form: '456, 457, 458, 459, 460, 461, 16, 22, 25, 26, 27, 31, 143, 144,
     - На панели действий в верхней части страницы выберите ![Показать значок помощника](media/copilot-icon.png) **Copilot** > **Анализ списка**.
     - На панели действий вверху страницы выберите ![Показывает значок перехода в режим анализа](media/analysis-mode-icon.png) **Перейти в режим анализа**, затем выберите ![Показывает значок помощника](media/copilot-icon.png) **Copilot** > **Создать новый анализ**.
 
-1. В окне **Анализ** с Copilot введите описание нужного макета. Это описание известно как *запрос*.
+1. В окне **Анализ товаров с помощью Copilot** введите описание нужного вам макета. Это описание известно как *запрос*.
 
     ![Показывает помощник при анализе Copilot](media/analysis-assist.png)
 
@@ -59,9 +54,9 @@ ms.search.form: '456, 457, 458, 459, 460, 461, 16, 22, 25, 26, 27, 31, 143, 144,
 1. Просмотрите результаты на новой вкладке анализа.
 
    > [!NOTE]
-   > Если уйти с новой вкладки анализа (например, перейти на другую вкладку или страницу анализа) или внести изменения в макет на вкладке (например, выполнить сортировку столбцов или изменить настройки на вкладках **Столбцы** и **Фильтры анализа**), новая вкладка анализа автоматически сохраняется, и Copilot закрывается.
+   > Если вы уйдете с новой вкладки анализа (например, перейти на другую вкладку или страницу анализа) или внести изменения в макет на вкладке (например, отсортировать столбцы или изменить настройки на вкладках **Столбцы** и **Фильтры анализа**), новая вкладка анализа автоматически сохраняется, и Copilot закрывается.
 
-1. Если вы хотите изменить сгенерированный анализ, вы можете выполнить один из шагов:
+1. Если вы хотите изменить сгенерированный анализ, вы можете выполнить одно из следующих действий:
 
    - Чтобы использовать предыдущие инструкции, введите информацию в поле **Укажите больше подробностей об анализе**, затем выберите стрелку ![Показать стрелку корректировки](media/analysis-assist-adjust-button.png) **Корректировать**. Copilot запоминает ваши предыдущие инструкции и использует их для внесения корректировок.
 
@@ -87,7 +82,7 @@ ms.search.form: '456, 457, 458, 459, 460, 461, 16, 22, 25, 26, 27, 31, 143, 144,
 
 Запрос: `Show items by brand and unit of measure`
 
-В этом запросе делается попытка отобразить итоговые значения для всех суммируемых полей, сгруппированные по бренду и полю **Базовая единица измерения**. Но в этом случае «торговая марка» не соответствует ни одному имени поля, поэтому Copilot, вероятно, не сможет найти подходящее поле, и он попросит вас перефразировать запрос и повторить попытку.
+В этом запросе делается попытка отобразить итоговые значения для всех суммируемых полей, с группировкой по бренду и полю **Базовая единица измерения**. Но в этом случае «торговая марка» не соответствует ни одному имени поля, поэтому Copilot, вероятно, не сможет найти подходящее поле. В этом случае он попросит вас перефразировать запрос и повторить попытку.
 
 Запрос: `Show items by type and uom`
 
