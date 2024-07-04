@@ -12,7 +12,7 @@ ms.service: dynamics-365-business-central
 ms.reviewer: bholtorf
 ---
 
-# Обзор управления экологическим учетом
+# <a name="sustainability-management-overview"></a>Обзор управления экологическим учетом
 
 > [!IMPORTANT]
 > Эта функция будет доступна в Business Central начиная с **волны 1 выпуска 2024 г.**. Все ссылки на документацию будут активированы после того, как станут доступны.
@@ -49,7 +49,7 @@ ms.reviewer: bholtorf
 | **Интеграции** |             |
 | [API экологической устойчивости](/dynamics365/business-central/dev-itpro/api-sustainability/sustainability-api?toc=/dynamics365/business-central/toc.json) | В этой статье вы узнаете, как создавать подключенные приложения, которые устанавливают соединение точка-точка между Business Central и сторонними решениями или службами экологического менеджмента с помощью API. |
 
-## См. также
+## <a name="see-also"></a>См. также
 
 [Настройка экологического учета](finance-sustainability-setup.md)    
 [План счетов экологического учета и книги учета](finance-sustainability-accounts-ledger.md)    
