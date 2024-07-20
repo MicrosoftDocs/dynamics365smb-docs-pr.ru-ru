@@ -11,7 +11,7 @@ ms.custom: bap-template
 ms.service: dynamics-365-business-central
 ---
 
-# Управление приложениями AppSource
+# <a name="manage-appsource-apps"></a>Управление приложениями AppSource
  
 Внутри [!INCLUDE[prod_short](includes/prod_short.md)] вы можете находить, просматривать, сортировать и фильтровать доступные приложения AppSource, которые интегрируются с [!INCLUDE[prod_short](includes/prod_short.md)].
 
@@ -27,6 +27,6 @@ ms.service: dynamics-365-business-central
  
 Как и в случае с другими страницами списков, вы получаете поддержку, например, режима анализа, позволяющий группировать приложения по издателям. Используйте Copilot, чтобы создать для себя представление **Режим анализа**.
 
-## См. также
+## <a name="see-also"></a>См. также
 
 [Настройка Business Central Online с использованием приложений](ui-extensions.md)  
