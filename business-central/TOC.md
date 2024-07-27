@@ -835,7 +835,7 @@ ms.service: dynamics-365-business-central
 #### [Локальная функциональность в австрийской версии](LocalFunctionality/Austria/austria-local-functionality.md)
 #### НДС
 ##### [Создание отчета по НДС](LocalFunctionality/Austria/how-to-create-a-vat-statement.md)
-##### [Отчетность по НДС](LocalFunctionality/Austria/vat-reporting.md)
+##### [Отчеты по НДС](LocalFunctionality/Austria/vat-reporting.md)
 #### Банковские операции и платежи
 ##### [Печать отчетов со списками оплат поставщикам](LocalFunctionality/Austria/how-to-print-vendor-payments-list-reports.md)
 #### Покупки
@@ -930,6 +930,7 @@ ms.service: dynamics-365-business-central
 ##### [Контрольный отчет по НДС](LocalFunctionality/Czech/vat-control-report.md)
 ##### [Отчеты по НДС](LocalFunctionality/Czech/vat-reports-cz.md)
 ##### [Корректировка НДС в местной валюте](LocalFunctionality/Czech/how-to-setup-vat-correction-local-currency.md)
+##### [Невычитаемый НДС](LocalFunctionality/Czech/non-deductible-VAT.md)
 ##### [Интрастат](LocalFunctionality/Czech/intrastat.md)
 ##### [Интрастат для чешской версии (расширение)](LocalFunctionality/Czech/ui-extensions-intrastat-localization-cz.md)
 #### Основные средства
@@ -1055,7 +1056,7 @@ ms.service: dynamics-365-business-central
 #### НДС
 ##### [Настройка отчетов по НДС и Интрастат](LocalFunctionality/Germany/how-to-set-up-reports-for-vat-and-intrastat.md)  
 ##### [Настройка отчетов по НДС](LocalFunctionality/Germany/how-to-set-up-vat-reports.md)
-##### [Отчетность по НДС](LocalFunctionality/Germany/vat-reporting.md)
+##### [Отчеты по НДС](LocalFunctionality/Germany/vat-reporting.md)
 ##### [Создание отчетов по НДС](LocalFunctionality/Germany/how-to-create-vat-reports.md)
 ##### [Корректировка отчетов по НДС](LocalFunctionality/Germany/how-to-correct-vat-reports.md)  
 ##### [Предварительные уведомления об НДС по продажам](LocalFunctionality\Germany\how-to-set-up-and-export-sales-vat-advance-notifications.md)
@@ -1466,7 +1467,7 @@ ms.service: dynamics-365-business-central
 ### Испания
 #### [Локальная функциональность в испанской версии](LocalFunctionality/Spain/spain-local-functionality.md)
 #### НДС
-##### [Отчетность по НДС](LocalFunctionality/Spain/vat-reports.md)
+##### [Отчеты по НДС](LocalFunctionality/Spain/vat-reports.md)
 ##### [Отчет 340](LocalFunctionality/Spain/report-340.md)  
 ##### [Создание отчета 340](LocalFunctionality/Spain/how-to-create-report-340.md)  
 ##### [Отчет 347](LocalFunctionality/Spain/report-347.md)  
@@ -1583,11 +1584,11 @@ ms.service: dynamics-365-business-central
 ##### [Расширение "Почтовые индексы Великобритании GetAddress.io"](LocalFunctionality/UnitedKingdom/ui-extensions-getaddressio.md)
 ##### [Настройка расширения "Почтовые индексы Великобритании GetAddress.io"](LocalFunctionality/UnitedKingdom/uk-setup-postal-code-service.md)
 
-### США
+### Соединенные Штаты
 #### [Локальная функциональность в версии для США](LocalFunctionality/UnitedStates/united-states-local-functionality.md)
 #### Налог
 ##### [Базовая настройка налогообложения](LocalFunctionality/UnitedStates/us-tax-setup.md)  
-##### [Отчетность по налогу с продаж в США](LocalFunctionality/UnitedStates/us-sales-tax.md)
+##### [Налог с продаж в США](LocalFunctionality/UnitedStates/us-sales-tax.md)
 ##### [Знакомство с формами IRS 1099 и их функциональностью](LocalFunctionality/UnitedStates/introduction-to-the-irs-forms.md)
 ##### [Настройка и использование формы IRS 1099 для версии 24 (волна 1 выпуска 2024 г.)](LocalFunctionality/UnitedStates/set-up-use-irs1099-form-v24.md)
 #### [Использование формы IRS 1099](LocalFunctionality/UnitedStates/how-to-1099-use.md)
