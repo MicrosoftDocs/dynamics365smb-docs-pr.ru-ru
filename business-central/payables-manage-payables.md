@@ -8,10 +8,11 @@ ms.topic: overview
 ms.devlang: al
 ms.search.keywords: 'vendor payment, creditor, debt, balance due, AP'
 ms.search.form: '161, 254, 256, 347, 574, 599, 9002'
-ms.date: 06/06/2024
+ms.date: 07/12/2024
 ms.service: dynamics-365-business-central
 ---
-# <a name="managing-payables"></a>Управление кредиторской задолженностью
+
+# Управление кредиторской задолженностью
 
 Большая часть управлении кредиторской задолженностью заключается в оплате поставщикам или в возмещении расходов, понесенных сотрудниками. Вы можете использовать функции для добавления строк платежей в счета покупки к оплате на странице **Журнал платежей**. Чтобы отправить транзакции в банк, вы можете экспортировать несколько строк журнала платежей в файл, а затем отправить файл в банк. Кроме того, вы можете осуществлять оплату с помощью платежных документов, в том числе через электронные платежи.
 
@@ -29,12 +30,12 @@ ms.service: dynamics-365-business-central
 |Проверьте правильность переоценки запасов, назначив дополнительную себестоимость товаров, например за транспортировку, физическое обращение, страхование и другие расходы, которые вы несли при покупке.|[Использование товарных издержек для учета дополнительных торговых расходов](payables-how-assign-item-charges.md)|
 |Возмещайте личные средства, затраченные сотрудниками на служебные цели, путем платежей на их банковские счета.|[Регистрация и возмещение расходов сотрудников](finance-how-record-reimburse-employee-expenses.md)|
 
-## <a name="see-also"></a>См. также
-[Покупки](purchasing-manage-purchasing.md)  
-[Управление дебиторской задолженностью](receivables-manage-receivables.md)  
-[Использование товарных издержек для учета дополнительных торговых затрат](payables-how-assign-item-charges.md)  
-[Общие бизнес-функции](ui-across-business-areas.md)  
-[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)
+## См. также
+[Покупки](purchasing-manage-purchasing.md)    
+[Управление дебиторской задолженностью](receivables-manage-receivables.md)    
+[Используйте товарные наценки для учета дополнительных торговых расходов](payables-how-assign-item-charges.md)    
+[Общая бизнес-функциональность](ui-across-business-areas.md)    
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
 
 ## [!INCLUDE[prod_short](includes/free_trial_md.md)]  
 

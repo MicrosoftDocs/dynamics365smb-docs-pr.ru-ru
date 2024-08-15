@@ -7,10 +7,10 @@ ms.reviewer: bholtorf
 ms.topic: overview
 ms.devlang: al
 ms.search.keywords: 'customer payment, debtor, balance due, AR'
-ms.date: 06/10/2024
+ms.date: 07/08/2024
 ms.service: dynamics-365-business-central
 ---
-# <a name="managing-receivables"></a>Управление дебиторской задолженностью
+# Управление дебиторской задолженностью
 
 В любом финансовом цикле обычным шагом является выверка банковских счетов. Чтобы закрыть счета продажи и кредит-ноты покупки как оплаченные, вы применяете входящие платежи к операциям книги клиентов или поставщиков.
 
@@ -41,8 +41,7 @@ ms.service: dynamics-365-business-central
 |Настройка отклонения, при котором система закрывает счет, даже если платеж, включая возможные скидки, не полностью покрывает сумму счета.|[Работа с отклонениями в оплате и отклонениями скидок по оплате](finance-payment-tolerance-and-payment-discount-tolerance.md)|
 | Прогнозирование просрочки платежей для документов продажи. | [Расширение "Прогнозирование просрочек оплаты"](ui-extensions-late-payment-prediction.md) |
 
-## <a name="see-also"></a>См. также
-
+## См. также
 [Продажи](sales-manage-sales.md)  
 [Управление кредиторской задолженностью](payables-manage-payables.md)  
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
