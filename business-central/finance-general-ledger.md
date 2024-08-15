@@ -11,7 +11,7 @@ ms.author: bholtorf
 ms.service: dynamics-365-business-central
 ms.reviewer: bholtorf
 ---
-# <a name="understanding-the-general-ledger-and-chart-of-accounts"></a>Принципы работы с главной книгой и планом счетов
+# <a name="understand-the-general-ledger-and-chart-of-accounts"></a>Принципы работы с главной книгой и планом счетов
 
 В главной книге (ГК) хранятся ваши финансовые данные, а в плане счетов содержатся счета, на которых учитываются операции главной книги. [!INCLUDE[prod_short](includes/prod_short.md)] включает стандартный план счетов, готовый к использованию в вашей организации.
 

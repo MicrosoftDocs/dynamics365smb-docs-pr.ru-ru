@@ -65,7 +65,7 @@ ms.service: dynamics-365-business-central
 <!-- >[!NOTE]
 > User personalizations do not have anything to do with the *personal* lightweight changes a user can make to the user experience.-->
 
-## <a name="to-review-or-delete-user-personalizations"></a>Чтобы просмотреть или удалить персональные настройки пользователя
+## <a name="review-or-delete-user-personalizations"></a>Чтобы просмотреть или удалить персональные настройки пользователя
 
 1. Выберите ![Поиск страницы или отчета.](media/ui-search/search_small.png "Значок поиска страницы или отчета") значок, введите **Персонализированные страницы**, а затем выберите связанную ссылку.
 2. Это показывает список пользователей и их персонализированных страниц. Чтобы очистить персонализацию пользователя, щелкните соответствующую строку или выберите **Управление**, затем выберите **Удалить**.

@@ -11,7 +11,7 @@ ms.custom: bap-template
 ms.service: dynamics-365-business-central
 ms.reviewer: bholtorf
 ---
-# Расширение PayPal Payments Standard
+# <a name="the-paypal-payments-standard-extension"></a>Расширение PayPal Payments Standard
 
 Расширение PayPal Payments Standard поможет вам повысить уровень обслуживания клиентов, упростив для них оплату счетов.
 
@@ -29,7 +29,7 @@ ms.reviewer: bholtorf
 
 Чтобы узнать больше о настройке расширения, перейдите в раздел [Включение оплаты клиентами через PayPal](sales-how-enable-payment-service-extensions.md).
 
-## Автоматическая регистрация платежей для бизнес-счетов
+## <a name="register-payments-automatically-for-business-accounts"></a>Автоматическая регистрация платежей для бизнес-счетов
 
 [!INCLUDE [prod_short](includes/prod_short.md)] можете автоматически регистрировать платежи, если у вас есть учетная запись Business Merchant для торговой платформы PayPal. Когда ваши клиенты используют ссылку PayPal для оплаты счета, [!INCLUDE [prod_short](includes/prod_short.md)] отправляет записи и закрывает документ.
 
@@ -38,7 +38,7 @@ ms.reviewer: bholtorf
 > [!TIP]
 > Разработчики могут использовать учетные записи «песочницы» для тестирования настройки. Для этого измените URL-адрес PayPal на **sandbox.paypal.com**. [!INCLUDE [prod_short](includes/prod_short.md)] использует мгновенное уведомление о платеже PayPal (IPN) через notify_url.
 
-## См. также
+## <a name="see-also"></a>См. также
 
 [Настройка [!INCLUDE[prod_short](includes/prod_short.md)] с помощью расширений](ui-extensions.md)  
 [Настройка продаж](sales-setup-sales.md)  

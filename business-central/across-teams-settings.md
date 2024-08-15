@@ -27,7 +27,7 @@ ms.reviewer: jswymer
 
    ![Параметры для Business Central из поля сообщения.](media/teams-settings-command-box.png)
 
-## <a name="see-also"></a>См. также
+## <a name="related-information"></a>См. также
 
 [Обзор интеграции Business Central и Microsoft Teams](across-teams-overview.md)  
 [Установка приложения [!INCLUDE [prod_short](includes/prod_short.md)] для Microsoft Teams](across-install-app-for-teams.md)  

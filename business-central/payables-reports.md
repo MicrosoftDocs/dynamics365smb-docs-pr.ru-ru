@@ -10,19 +10,19 @@ ms.search.form: '347, Report_301, Report_304, Report_305, Report_312, Report_317
 ms.date: 07/15/2024
 ms.service: dynamics-365-business-central
 ---
-# Отчеты и аналитика по расчетам с поставщиками
+# <a name="accounts-payable-reports-and-analytics"></a>Отчеты и аналитика по расчетам с поставщиками
 
 В [!INCLUDE [prod_short](includes/prod_short.md)] имеются встроенные отчеты и средства аналитики, которые помогут вам управлять своей кредиторской задолженностью. Возможности этих инструментов выходят за рамки традиционной отчетности и позволяют без труда разрабатывать различные типы отчетов.  
 
-## Отчеты
+## <a name="reports"></a>Отчеты
 
 [!INCLUDE [payables_reports](includes/payables-reports-include.md)]
 
-## Знакомство с бухгалтерскими отчетами с помощью обозревателя отчетов
+## <a name="explore-finance-reports-with-report-explorer"></a>Знакомство с бухгалтерскими отчетами с помощью обозревателя отчетов
 
 [!INCLUDE [finance_reports_report_explorer](includes/finance-reports-report-explorer-include.md)]
 
-## См. также
+## <a name="see-also"></a>См. также
 
 [Ad-hoc-анализ финансовых данных](ad-hoc-analysis-finance.md)  
 [Финансовая аналитика](bi.md)  

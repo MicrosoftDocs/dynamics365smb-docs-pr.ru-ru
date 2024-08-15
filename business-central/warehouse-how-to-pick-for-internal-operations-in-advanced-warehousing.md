@@ -11,7 +11,7 @@ ms.custom: bap-template
 ms.service: dynamics-365-business-central
 ---
 
-# <a name="pick-for-production-assembly-or-jobs-in-advanced-warehouse-configurations"></a>Подбор для производства, сборки или заданий в расширенных конфигурациях склада
+# <a name="pick-for-production-assembly-or-projects-in-advanced-warehouse-configurations"></a>Подбор для производства, сборки или заданий в расширенных конфигурациях склада
 
 Способ подбора компонентов для заказов на производство, рабочих заказов или заказов на сборку зависит от того, как настроен склад. [Настройка управления складом](warehouse-setup-warehouse.md).
 
@@ -113,7 +113,7 @@ ms.service: dynamics-365-business-central
 
 8. Нажмите кнопку **ОК**.  
 
-## <a name="to-pick-items-for-a-productions-order-assembly-order-job"></a>Подбор товаров для производственного заказа, заказа на сборку, работы
+## <a name="to-pick-items-for-a-production-order-assembly-order-or-project"></a>Подбор товаров для производственного заказа, заказа на сборку, работы
 
 1. Выберите значок ![Лампочка, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать") значок, введите **Складской подбор**, а затем выберите связанную ссылку.  
 

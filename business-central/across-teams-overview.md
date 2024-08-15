@@ -76,7 +76,7 @@ ms.custom: bap-template
 3. Установка приложения [!INCLUDE [prod_short](includes/prod_short.md)] в Teams. См. [Установка приложения [!INCLUDE [prod_short](includes/prod_short.md)] для Microsoft Teams](across-install-app-for-teams.md).
 4. Как только приложение установлено, вы готовы к работе. См. [Поиск клиентов, поставщиков и других контактов из Microsoft Teams](across-search-contacts-teams.md) и [Общий доступ к записям в Microsoft Teams](across-working-with-teams.md).
 
-## <a name="see-also"></a>См. также
+## <a name="related-information"></a>См. также
 
 [Вопросы и ответы по Teams](teams-faq.md)  
 [Устранение неполадок Teams](admin-teams-troubleshooting.md)  

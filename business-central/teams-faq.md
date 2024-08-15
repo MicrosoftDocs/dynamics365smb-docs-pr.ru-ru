@@ -441,7 +441,7 @@ ms.reviewer: jswymer
 Действие **Отправка данных в Teams** можно найти в меню **Поделиться** на всех страницах, таких как страницы карточек и документов, страницы списка или рабочего листа, включая настраиваемые страницы. Действие недоступно в диалоговых окнах или страницах, отображаемых как диалоговые окна, например на страницах подстановки или мастерах.
 
 ---
-## <a name="see-also"></a>См. также
+## <a name="related-information"></a>См. также
 
 [Обзор интеграции [!INCLUDE [prod_short](includes/prod_short.md)] и Microsoft Teams](across-teams-overview.md)  
 [Установка приложения [!INCLUDE [prod_short](includes/prod_short.md)] для Microsoft Teams](across-install-app-for-teams.md)  
