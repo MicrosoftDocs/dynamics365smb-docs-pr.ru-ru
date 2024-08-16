@@ -1,26 +1,27 @@
 ---
-title: Сведения о проектировании — себестоимость запасов
+title: Детали проекта - калькуляция себестоимости запасов
 description: 'Документация содержит подробные технические сведения о концепциях и принципах, используемых в функциях учета стоимости товаров в Business Central.'
 author: brentholtorf
 ms.topic: conceptual
 ms.devlang: al
 ms.search.keywords: 'design, inventory, costing'
 ms.search.form: 8645
-ms.date: 06/08/2021
+ms.date: 07/29/2024
 ms.author: bholtorf
 ms.service: dynamics-365-business-central
 ms.reviewer: bholtorf
 ---
-# <a name="design-details-inventory-costing"></a>Сведения о проектировании: себестоимость запасов
+
+# Технические подробности: учет себестоимости запасов
 
 Документация содержит подробные технические сведения о концепциях и принципах, используемых в функциях учета стоимости товаров в [!INCLUDE[prod_short](includes/prod_short.md)].  
 
 Учет себестоимости запасов, который также называют управлением затратами, связан с записью и отчетностью по текущим бизнес-расходам.  
 
-## <a name="in-this-section"></a>В этом разделе
+## В этом разделе
 
-[Сведения о проектировании: методы учета себестоимости](design-details-costing-methods.md)  
-[Сведения о проектировании: применение товара](design-details-item-application.md)  
+[Технические подробности: методы учета себестоимости](design-details-costing-methods.md)  
+[Технические подробности: применение товара](design-details-item-application.md)  
 [Сведения о проектировании: известная проблема применения товара](design-details-inventory-zero-level-open-item-ledger-entries.md)  
 [Технические подробности: коррекция себестоимости](design-details-cost-adjustment.md)  
 [Подробности разработки: дата учета для операции коррекции стоимости](design-details-inventory-adjustment-value-entry-posting-date.md)  

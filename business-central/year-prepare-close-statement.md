@@ -5,12 +5,13 @@ author: jswymer
 ms.topic: overview
 ms.devlang: al
 ms.search.keywords: 'year closing, close accounting period, close fiscal year, aging, creditor payments, vendor payments, assets, liabilities, equity, analysis, reporting, financial report, business intelligence, BI, Power Bi, KPI'
-ms.date: 07/05/2024
+ms.date: 08/05/2024
 ms.author: jswymer
 ms.service: dynamics-365-business-central
 ms.reviewer: jswymer
 ---
-# <a name="preparing-closing-statements"></a>Подготовка заключительных заявлений
+
+# Подготовка заключительных заявлений
 
 [!INCLUDE [prod_short](includes/prod_short.md)] предлагает стандартные отчеты, которые помогут вам собрать информацию, необходимую для подготовки заключительных отчетов вашей компании. В следующей таблице приведены отчеты.  
 
@@ -26,11 +27,11 @@ ms.reviewer: jswymer
 
 Чтобы найти отчет, нажмите на значок ![лампочки, который открывает функцию Tell Me.](media/ui-search/search_small.png "Что вы хотите сделать") и введите имя, которое отображается в таблице, а затем выберите связанную ссылку.
 
-## <a name="see-also"></a>См. также
+## См. также
 
-[Закрытие годов и периодов](year-close-years-periods.md)  
-[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)  
-[Бизнес-аналитика](bi.md)
+[Заключительные годы и периоды](year-close-years-periods.md)    
+[Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)    
+[Бизнес-аналитика](bi.md)  
 
 
 [!INCLUDE[footer-include](includes/footer-banner.md)]
