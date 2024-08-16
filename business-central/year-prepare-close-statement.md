@@ -11,7 +11,7 @@ ms.service: dynamics-365-business-central
 ms.reviewer: jswymer
 ---
 
-# Подготовка заключительных заявлений
+# <a name="preparing-closing-statements"></a>Подготовка заключительных заявлений
 
 [!INCLUDE [prod_short](includes/prod_short.md)] предлагает стандартные отчеты, которые помогут вам собрать информацию, необходимую для подготовки заключительных отчетов вашей компании. В следующей таблице приведены отчеты.  
 
@@ -27,7 +27,7 @@ ms.reviewer: jswymer
 
 Чтобы найти отчет, нажмите на значок ![лампочки, который открывает функцию Tell Me.](media/ui-search/search_small.png "Что вы хотите сделать") и введите имя, которое отображается в таблице, а затем выберите связанную ссылку.
 
-## См. также
+## <a name="see-also"></a>См. также
 
 [Заключительные годы и периоды](year-close-years-periods.md)    
 [Работа с [!INCLUDE[prod_short](includes/prod_short.md)]](ui-work-product.md)    

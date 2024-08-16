@@ -11,15 +11,15 @@ ms.custom: bap-template
 ms.service: dynamics-365-business-central
 ---
 
-# Управление интеграцией Microsoft Teams с [!INCLUDE [prod_short](includes/prod_short.md)]
+# <a name="managing-microsoft-teams-integration-with-"></a>Управление интеграцией Microsoft Teams с [!INCLUDE [prod_short](includes/prod_short.md)]
 
 [!INCLUDE [online_only](includes/online_only.md)]
 
 В этой статье представлен обзор того, что вы можете делать как администратор для управления интеграцией Microsoft Teams с [!INCLUDE [prod_short](includes/prod_short.md)].
 
-## В Microsoft Teams
+## <a name="in-microsoft-teams"></a>В Microsoft Teams
 
-### Минимальные требования
+### <a name="minimum-requirements"></a>Минимальные требования
 
 В этом разделе описаны минимальные требования для работы функций приложения [!INCLUDE [prod_short](includes/prod_short.md)] в Teams.
 
@@ -42,7 +42,7 @@ ms.service: dynamics-365-business-central
 
     Параметр политики **Разрешить предварительный просмотр URL-адресов** должен быть включен. В противном случае невозможно создать карточку для ссылок [!INCLUDE [prod_short](includes/prod_short.md)], вставленных в беседу Teams. Для получения дополнительной информации об этом параметре см. [Управляйте политиками обмена сообщениями в Teams](/microsoftteams/messaging-policies-in-teams).
 
-### Управление приложением [!INCLUDE [prod_short](includes/prod_short.md)] (необязательно)
+### <a name="managing-the--app-optional"></a>Управление приложением [!INCLUDE [prod_short](includes/prod_short.md)] (необязательно)
 
 Как администратор Teams вы можете управлять всеми приложениями для своей организации, включая приложение [!INCLUDE [prod_short](includes/prod_short.md)]. Вы можете утвердить или установить приложение [!INCLUDE [prod_short](includes/prod_short.md)] для вашей организации, запретить пользователю устанавливать приложение и т. д.
 
@@ -51,9 +51,9 @@ ms.service: dynamics-365-business-central
 - [Управляйте своими приложениями в центре администрирования Microsoft Teams](/MicrosoftTeams/manage-apps)
 - [Управляйте политиками настройки приложений в Microsoft Teams](/microsoftteams/teams-app-setup-policies)
 
-## В [!INCLUDE [prod_short](includes/prod_short.md)]
+## <a name="in-"></a>В [!INCLUDE [prod_short](includes/prod_short.md)]
 
-### Минимальные требования
+### <a name="minimum-requirements-1"></a>Минимальные требования
 
 - Версия [!INCLUDE [prod_short](includes/prod_short.md)]:
 
@@ -75,7 +75,7 @@ ms.service: dynamics-365-business-central
     
     Сведения о разрешениях см. в разделе [Назначение разрешений пользователям и группам](ui-define-granular-permissions.md).
 
-## Установка приложения Business Central с помощью централизованного развертывания
+## <a name="installing-the-business-central-app-by-using-centralized-deployment"></a>Установка приложения Business Central с помощью централизованного развертывания
 
 В центре администрирования Microsoft Teams — это место, где вы настраиваете политики установки приложений Teams для организации. В центре администрирования Teams вы можете использовать функцию централизованного развертывания для автоматической установки приложения Business Central в Teams для всех пользователей в вашей организации, определенных групп или отдельных пользователей.
 
@@ -99,18 +99,18 @@ ms.service: dynamics-365-business-central
 > [!IMPORTANT]
 > Применение политики настройки приложения и развертывание приложения для пользователей может занять до 24 часов.
 
-## Управление конфиденциальностью и соблюдением требований 
+## <a name="managing-privacy-and-compliance"></a>Управление конфиденциальностью и соблюдением требований
 
 Microsoft Teams обеспечивает обширный контроль за соблюдением и управлением конфиденциальными или личными данными &mdash; включая данные, добавленные в чаты и каналы приложением [!INCLUDE [prod_short](includes/prod_short.md)].
 
-### Сведения о том, где хранятся карточки [!INCLUDE [prod_short](includes/prod_short.md)]
+### <a name="understanding-where--cards-are-stored"></a>Сведения о том, где хранятся карточки [!INCLUDE [prod_short](includes/prod_short.md)]
 
 После отправки карточки в чат она и поля, отображаемые на карточке, копируются в Teams. Эта информация регулируется политиками Teams для вашей организации, такими как политики хранения данных. При отображении сведений карточки никакие данные в окне сведений не хранятся в Teams. Данные остаются в [!INCLUDE [prod_short](includes/prod_short.md)] и будут извлечены Teams только тогда, когда пользователь решит просмотреть сведения. 
 
 - Чтобы узнать больше о том, где Teams хранит эти данные, см. раздел [Расположение данных в Microsoft Teams](/microsoftteams/location-of-data-in-teams).
 - Чтобы узнать больше о политиках хранения в Teams, см. раздел [Политики хранения в Microsoft Teams](/microsoftteams/retention-policies).
 
-### Ограничение доступа к карточкам 
+### <a name="restricting-sharing-of-cards"></a>Ограничение доступа к карточкам
 
 Вы запрещаете отдельным пользователям или группам отправлять карточки в чаты или каналы, настраивая политики обмена сообщениями, которые отключают настройку **Предварительный просмотр URL-адресов**. Для получения дополнительной информации об этом параметре см. [Управление политиками обмена сообщениями в Teams](/microsoftteams/messaging-policies-in-teams). 
 
@@ -118,7 +118,7 @@ Microsoft Teams обеспечивает обширный контроль за 
 
 Функции предотвращения потери данных в Центре безопасности и соответствия требованиям Microsoft 365 нельзя применять к самим карточкам. Но их можно применить к сообщениям чата, содержащим карточки. <!-- To track upcoming advanced features that include enabling DLP for cards, see [https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=67093](https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=67093).-->
 
-### Ответы на запросы данных
+### <a name="responding-to-data-requests"></a>Ответы на запросы данных
 
 Вы разрешаете членам групп и владельцам групп удалять сообщения, содержащие конфиденциальные карточки, путем настройки политик обмена сообщениями, например: **Владельцы могут удалять отправленные сообщения** и **Пользователи могут удалять отправленные сообщения**. Дополнительные сведения см. в разделе [Управление политиками обмена сообщениями в Teams](/microsoftteams/messaging-policies-in-teams).
 
@@ -126,7 +126,7 @@ Microsoft Teams обеспечивает обширный контроль за 
 
 Поскольку данные карточек в Teams являются копией данных в [!INCLUDE [prod_short](includes/prod_short.md)], вы также можете использовать функции [!INCLUDE [prod_short](includes/prod_short.md)] для экспорта данных клиента по запросу. Дополнительные сведения о конфиденциальности в [!INCLUDE [prod_short](includes/prod_short.md)] см. в разделе [Вопросы и ответы о конфиденциальности для клиентов Business Central](/dynamics365/business-central/dev-itpro/security/privacyfaq).
 
-## Отображение или скрытие данных записей на карточках
+## <a name="show-or-hide-record-data-on-cards"></a>Отображение или скрытие данных записей на карточках
 
 Когда кто-то делится записью с другими пользователями в чате или канале Teams, отображается карточка с полями, содержащими данные об этой записи. По умолчанию эти данные (или сводку записи) могут просматривать все получатели, независимо от имеющихся у них лицензий или разрешений в Business Central. Если вы являетесь администратором, вы можете использовать мастер настройки **Параметры карточек**, чтобы запретить отображение сводки записи на карточках в Teams. При скрытии сводки записи удаляются все поля и изображения, но на карточке по-прежнему отображается кнопка **Подробности** и другая не относящаяся к записи информация.
 
@@ -145,7 +145,7 @@ Microsoft Teams обеспечивает обширный контроль за 
 4. На странице **Видимость данных** включите параметр **Показывать сводку записи**, если нужно, чтобы данные отображались на карточках, либо выключите его, чтобы скрыть данные.
 5. Выберите **Далее** и завершите настройку, следуя инструкциям мастера.
 
-## См. также
+## <a name="related-information"></a>См. также
 
 [Обзор интеграции [!INCLUDE [prod_short](includes/prod_short.md)] и Microsoft Teams](across-teams-overview.md)  
 [Установка приложения [!INCLUDE [prod_short](includes/prod_short.md)] для Microsoft Teams](across-install-app-for-teams.md)  
