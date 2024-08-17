@@ -11,7 +11,7 @@ ms.date: 09/22/2022
 ms.custom: bap-template
 ---
 
-# Интеграция Business Central и Microsoft Teams
+# <a name="business-central-and-microsoft-teams-integration"></a>Интеграция Business Central и Microsoft Teams
 
 [!INCLUDE [online_only](includes/online_only.md)]
 
@@ -19,11 +19,11 @@ ms.custom: bap-template
 
 Приложение доступно в магазине Teams, и вы можете использовать его с настольным, мобильным или веб-приложением Teams.
 
-## Обзор возможностей
+## <a name="features-overview"></a>Обзор возможностей
 
 Приложение [!INCLUDE [prod_short](includes/prod_short.md)] для Teams предлагает следующие функции.
 
-### Поиск сведений о клиентах, поставщиках и других контактах
+### <a name="look-up-details-of-customers-vendors-and-other-contacts"></a>Поиск сведений о клиентах, поставщиках и других контактах
 
 Независимо от того, где вы находитесь в Teams, вы можете найти подробную информацию о клиентах, поставщиках и других контактах [!INCLUDE [prod_short](includes/prod_short.md)]. Эта функция не только позволяет просматривать общую информацию о контактах, но также дает доступ к истории взаимодействий, связанным документам и многому другому.
 
@@ -35,7 +35,7 @@ ms.custom: bap-template
 
 Дополнительные сведения см. в разделе [Поиск контактов из Microsoft Teams](across-search-contacts-teams.md).
 
-### Общий доступ к записям в разговорах
+### <a name="share-records-in-conversations"></a>Общий доступ к записям в разговорах
 
 Скопируйте ссылку на любую запись Business Central и вставьте ее в беседу Teams, чтобы поделиться ею с коллегами. Приложение затем развернет ссылку в компактную интерактивную карточку, отображающую информацию о записи.
 
@@ -45,7 +45,7 @@ ms.custom: bap-template
 
 Дополнительные сведения см. в разделе [Общий доступ к записям в Microsoft Teams](across-working-with-teams.md).
 
-### Делитесь ссылками со страниц в Business Central в Teams
+### <a name="share-links-from-pages-in-business-central-to-teams"></a>Делитесь ссылками со страниц в Business Central в Teams
 
 Непосредственно на большинстве страниц коллекций и сведений в Business Central вы можете использовать действие **Отправка данных в Teams** из ![!Значок меню «Поделиться» на страницах.](media/share-icon.png "Меню Поделиться отображается на карточке.") чтобы ввести сообщение, выбрать получателей, например членов команды, группы или каналы, и отправить сообщение со ссылкой на страницу Business Central.
 
@@ -55,7 +55,7 @@ ms.custom: bap-template
 
 Дополнительные сведения см. в разделе [Общий доступ к записям и ссылки страниц в Microsoft Teams](across-working-with-teams.md#share-link).
 
-### Добавление вкладки Business Central в канал или чат Teams
+### <a name="add-a-business-central-tab-to-teams-channel-or-chat"></a>Добавление вкладки Business Central в канал или чат Teams
 
 Установив приложение Business Central для Teams, вы можете добавить в канал или в чат вкладку, на которой будут отображаться данные из списков и страниц-карточек Business Central.
 
@@ -63,7 +63,7 @@ ms.custom: bap-template
 
 Дополнительные сведения см. в статье [Добавление вкладки Business Central в Teams](across-teams-tab.md).
 
-## Начало работы
+## <a name="get-started"></a>Начало работы
 
 1. Учетная запись пользователя [!INCLUDE [prod_short](includes/prod_short.md)] Online требуется для приложения [!INCLUDE [prod_short](includes/prod_short.md)] для Teams.
 
@@ -76,7 +76,7 @@ ms.custom: bap-template
 3. Установка приложения [!INCLUDE [prod_short](includes/prod_short.md)] в Teams. См. [Установка приложения [!INCLUDE [prod_short](includes/prod_short.md)] для Microsoft Teams](across-install-app-for-teams.md).
 4. Как только приложение установлено, вы готовы к работе. См. [Поиск клиентов, поставщиков и других контактов из Microsoft Teams](across-search-contacts-teams.md) и [Общий доступ к записям в Microsoft Teams](across-working-with-teams.md).
 
-## См. также
+## <a name="related-information"></a>См. также
 
 [Вопросы и ответы по Teams](teams-faq.md)  
 [Устранение неполадок Teams](admin-teams-troubleshooting.md)  

@@ -12,11 +12,11 @@ ms.service: dynamics-365-business-central
 ms.custom: bap-currencies
 ---
 
-# Валюты в Business Central
+# <a name="currencies-in-business-central"></a>Валюты в Business Central
 
 [!INCLUDE [finance-currencies-lcy-def](includes/finance-currencies-lcy-def.md)]
 
-## Валюты
+## <a name="currencies"></a>Валюты
 
 > [!TIP]  
 > В [!INCLUDE[prod_short](includes/prod_short.md)], если вы ищете информацию о курсах обмена иностранной валюты или исторических курсах в режиме реального времени, соответствующая функциональность называется валютой. В дополнение к этой статье см. также [Настройка дополнительной отчетной валюты](finance-how-setup-additional-currencies.md).
@@ -25,15 +25,15 @@ ms.custom: bap-currencies
 
 Вы указываете коды валют в списке **Валюты**, включая дополнительную информацию и настройки, необходимые для каждого кода валюты. Дополнительные сведения см. в разделе [Валюты](finance-set-up-currencies.md#curr)
 
-### Пример транзакции с валютой дебиторской задолженности
+### <a name="example-of-a-receivable-currency-transaction"></a>Пример транзакции с валютой дебиторской задолженности
 
 [!INCLUDE [finance-currencies-example](includes/finance-currencies-example.md)]
 
-## Валютные курсы
+## <a name="exchange-rates"></a>Валютные курсы
 
 Обменные курсы — это инструмент для расчета стоимости каждой валютной операции в местной валюте (МВ). Дополнительные сведения см. в разделе [Обновление валютных курсов](finance-how-update-currencies.md).  
 
-## См. также
+## <a name="see-also"></a>См. также
 
 [Настройка валют](finance-set-up-currencies.md)    
 [Обновить курсы обмена валют](finance-how-update-currencies.md)    
