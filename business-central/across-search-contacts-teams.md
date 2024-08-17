@@ -11,7 +11,7 @@ ms.service: dynamics-365-business-central
 ms.reviewer: jswymer
 ---
 
-# <a name="searching-for-customers-vendors-and-other-contacts-from-microsoft-teams"></a>Поиск клиентов, поставщиков и других контактов из Microsoft Teams
+# Поиск клиентов, поставщиков и других контактов из Microsoft Teams
 
 [!INCLUDE [online_only](includes/online_only.md)]. Представлено в выпуске волны 1 2021 года.
 
@@ -21,7 +21,7 @@ ms.reviewer: jswymer
 - Делиться контактом как карточкой в разговоре Teams.
 - Просматривать сведения о контактах, историю взаимодействия и другие аналитические сведения, например о невыплаченных платежах или открытых документах.
 
-## <a name="prerequisites"></a>Предварительные требования
+## Предварительные требования
 
 - У вас есть доступ к Microsoft Teams.
 - Вы установили приложение [!INCLUDE [prod_short](includes/prod_short.md)] в Teams. Для получения дополнительной информации см.[ Установка приложения [!INCLUDE [prod_short](includes/prod_short.md)] для Microsoft Teams](across-install-app-for-teams.md)
@@ -30,7 +30,7 @@ ms.reviewer: jswymer
 > [!NOTE]
 > Независимо от того, выполняете ли вы поиск из командного поля или из окна создания сообщения, вас могут попросить войти в систему или настроить приложение в первый раз. Этот шаг необходим для поиска контактов в нужной компании Business Central. Для получения информации о настройке приложения для выбора вашей компании см. раздел [Изменение компании и других параметров в Teams](across-teams-settings.md).
 
-## <a name="look-up-contacts-from-the-command-box"></a>Поиск контактов из командного поля
+## Поиск контактов из командного поля
 
 Командное поле находится в верхней части каждого экрана в Teams. Оно позволяет вам искать, предпринимать быстрые действия или запускать приложения, такие как приложение [!INCLUDE [prod_short](includes/prod_short.md)]. Поиск из командного поля отлично подходит для быстрого поиска контактов и связанных с ними данных для личного использования. Например, предположим, что вы хотите найти адрес электронной почты поставщика, чтобы назначить встречу в календаре. Или, может быть, вы хотите посмотреть историю взаимодействия во время встречи с клиентом.
 
@@ -51,7 +51,7 @@ ms.reviewer: jswymer
 
 Дополнительные общие сведения о командном поле в Teams см. в разделе [Teams — использование командного поля](https://support.microsoft.com/en-us/office/use-the-command-box-13c4e429-7324-4886-b377-5dbed539193b).
 
-## <a name="look-up-contacts-from-the-message-compose-box"></a>Поиск контактов из поля создания сообщения
+## Поиск контактов из поля создания сообщения
 
 Преимущество использования окна создания сообщения заключается в том, что вы можете добавить карточку контакта непосредственно в беседу, чтобы ее могли видеть другие.
 
@@ -74,13 +74,13 @@ ms.reviewer: jswymer
     > Карточка контакта не сразу отправляется в беседу, чтобы ее могли увидеть другие. У вас есть возможность просмотреть содержимое карточки и добавить текст до или после нее по своему усмотрению. Затем отправьте свое сообщение в чат, когда будете готовы.
 
 <!--
-### <a name="heres-another-way"></a>Here's another way
+### Here's another way
 
 1. Instead of using the **Business Central** icon, type **@Business Central** directly in the message compose box.
 2. Enter your search terms in the box.
 3. Use the up and down arrow keys on the keyboard to choose a contact, then select <kbd>Enter</kbd> to select it.-->
 
-## <a name="viewing-contact-card-details"></a>Просмотр сведений в карточке контакта
+## Просмотр сведений в карточке контакта
 
 Карточка контакта в Teams дает вам быстрый обзор клиента, поставщика или контакта. Карточка интерактивная &mdash; это означает, что вы можете просмотреть дополнительную информацию или даже изменить контакт с помощью кнопки **Сведения** или **В новом окне**.
 
@@ -91,7 +91,7 @@ ms.reviewer: jswymer
 > [!NOTE]
 > Все участники беседы Teams смогут просматривать карточки для контакта Business Central, которые вы отправляете в беседу. Но чтобы просмотреть более подробную информацию о записях, используя кнопки **Подробнее** или **Открыть на новой вкладке**, им потребуется доступ [!INCLUDE [prod_short](includes/prod_short.md)]. Дополнительные сведения см. в разделе [Управление интеграцией Microsoft Teams](admin-teams-integration.md#minimum-requirements-1).
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Обзор интеграции Business Central и Microsoft Teams](across-teams-overview.md)  
 [Установка приложения [!INCLUDE [prod_short](includes/prod_short.md)] для Microsoft Teams](across-install-app-for-teams.md)  
