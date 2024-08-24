@@ -6,7 +6,7 @@ ms.topic: how-to
 ms.service: dynamics-365-business-central
 ms.reviewer: jswymer
 ms.search.keywords: 'Teams, MS Teams, Microsoft Teams, Skype, Link, Microsoft 365, collaborate, collaboration, teamwork, share records'
-ms.date: 12/12/2023
+ms.date: 08/14/2024
 ms.author: jswymer
 ms.custom: bap-template
 ---
@@ -17,22 +17,9 @@ ms.custom: bap-template
 
 [!INCLUDE [prod_short](includes/prod_short.md)] дает несколько способов обмена данными из Business Central непосредственно в беседе Microsoft Teams:
 
-<!-- 
-## Overview
-In this article, you'll learn how to use the app to share [!INCLUDE [prod_short](includes/prod_short.md)] records, like a customer, sales order, or invoice, with coworkers in a Teams conversation.
-The [!INCLUDE [prod_short](includes/prod_short.md)] app lets you:
-[!INCLUDE [prod_short](includes/prod_short.md)] offers an app that connects Microsoft Teams to your business data in [!INCLUDE [prod_short](includes/prod_short.md)], so you can quickly share details across team members and respond faster to inquiries. In this article, you'll learn how to use the app to share [!INCLUDE [prod_short](includes/prod_short.md)] records, like a customer, sales order, or invoice, with coworkers in a Teams conversation.
-
--->
 - С помощью приложения [!INCLUDE [prod_short](includes/prod_short.md)], установленного в Teams, вы можете включить интерактивную карточку записи Business Central в беседу Teams.
 
-<!--   Copy a link from any Business Central record, like a customer or sales order, then paste the link into a Teams conversation. The app connects Microsoft Teams to your business data in [!INCLUDE [prod_short](includes/prod_short.md)]. It then expands the link into a compact, interactive card that displays information about the record. Once in the conversation, you and coworkers can view more details about the record, edit data, and take action&mdash;without leaving Teams.
-
-  [![Teams integration with Business Central.](media/teams-intro-v3.png)](media/teams-intro-v3.png#lightbox)-->
-
 - С установленным приложением или без него [!INCLUDE [prod_short](includes/prod_short.md)] вы можете поделиться ссылкой со страниц в Business Central в беседе в Teams.
-
-  <!-- ![!The Share menu displayed on a card.](media/teams-share-link.png "The Share menu displayed on a card.")-->
 
 В следующих разделах подробно описано, как использовать различные способы.
 
@@ -40,7 +27,7 @@ The [!INCLUDE [prod_short](includes/prod_short.md)] app lets you:
 
 С помощью приложения Business Central для Teams вы можете скопировать ссылку из любой записи Business Central, например клиента или заказа на продажу, и вставить ссылку в беседу Teams. Приложение подключает Microsoft Teams к вашим бизнес-данным в [!INCLUDE [prod_short](includes/prod_short.md)]\. Затем оно разворачивает ссылку превратится в компактную интерактивную карточку, отображающую информацию о записи. После разговора вы и ваши коллеги можете просматривать дополнительные сведения о записи, редактировать данные и принимать меры &mdash; не выходя из Teams.
 
-[![Интеграция Teams с Business Central.](media/teams-intro-vBC20.png)](media/teams-intro-vBC20.png#lightbox)
+[![Интеграция Teams с Business Central.](media/teams-intro-vBC24.png)](media/teams-intro-vBC24.png#lightbox)
 
 ### Предварительные требования
 
@@ -48,7 +35,7 @@ The [!INCLUDE [prod_short](includes/prod_short.md)] app lets you:
 - Вы установили приложение [!INCLUDE [prod_short](includes/prod_short.md)] в Teams. Для получения дополнительной информации см.[ Установка приложения [!INCLUDE [prod_short](includes/prod_short.md)] для Microsoft Teams](across-install-app-for-teams.md)
 
 > [!NOTE]
-> Все участники беседы Teams смогут просматривать карточки для записей Business Central, которые вы отправляете в беседу. Но чтобы просмотреть более подробную информацию о записях, используя кнопки **Подробнее** или **Открыть на новой вкладке**, им потребуется доступ [!INCLUDE [prod_short](includes/prod_short.md)]. Дополнительные сведения см. в разделе [Управление интеграцией Microsoft Teams](admin-teams-integration.md#minimum-requirements-1).
+> Все участники беседы Teams смогут просматривать карточки для записей Business Central, которые вы отправляете в беседу. Но чтобы просмотреть более подробную информацию о записях, используя кнопки **Подробнее** или **Открыть на новой вкладке**, им потребуется доступ [!INCLUDE [prod_short](includes/prod_short.md)]. Подробнее читайте в разделе [Управление Microsoft Teams интеграцией](admin-teams-integration.md#minimum-requirements-1).
 
 ### Включите карточку Business Central в беседу в Teams
 
@@ -64,7 +51,7 @@ The [!INCLUDE [prod_short](includes/prod_short.md)] app lets you:
 4. Перейдите в Teams и начните разговор, который может быть чатом с человеком, группой людей или групповым каналом.
 5. Вставьте ссылку (URL-адрес) в поле сообщение, в которое вы составляете сообщение.
 
-    ![Вставьте URL-адрес Business Central в Teams.](media/teams-paste-url-v2.png)
+    ![Вставьте URL-адрес Business Central в Teams.](media/teams-paste-url-v3.png)
 
     > [!TIP]
     > Если вы получили сообщение типа: *Business Central хочет показать предварительный просмотр этой ссылки.*, это означает, что у вас не установлено приложение Business Central для Teams. Чтобы установить приложение, выберите **Показать предварительный просмотр** и следуйте инструкциям.
@@ -90,7 +77,7 @@ The [!INCLUDE [prod_short](includes/prod_short.md)] app lets you:
 - Чтобы открыть сведения о карточке, пользователи должны иметь разрешение на странице и ее данных в [!INCLUDE [prod_short](includes/prod_short.md)]\.
 - Карточки в чатах Teams не обновляются автоматически при внесении изменений. Любые изменения, которые вы сохраняете в записи в окне сведений, сохраняются в [!INCLUDE [prod_short](includes/prod_short.md)]\. Но карточка в Teams не будет отображать изменения в преобразовании, пока вы снова не вставите ссылку.
 
-Подробнее о работе с карточками и сведениях о карточках см. в разделе [Вопросы и ответы по Teams](teams-faq.md).
+Подробнее о работе с Карточки и подробностях карточка читайте в разделе [Часто задаваемые вопросы по командам](teams-faq.md).
 
 ## <a name="share-link"></a>Делитесь ссылкой на страницу в Business Central в Teams
 
@@ -116,7 +103,7 @@ The [!INCLUDE [prod_short](includes/prod_short.md)] app lets you:
    Добавьте дополнительную информацию, если хотите, затем выберите **Поделиться**.
 6. Ссылка отправлена. Если вы хотите перейти к беседе, выберите **Перейти в Teams**.
 
-## См. также
+## Сопутствующая информация
 
 [Обзор интеграции Business Central и Microsoft Teams](across-teams-overview.md)  
 [Установка приложения [!INCLUDE [prod_short](includes/prod_short.md)] для Microsoft Teams](across-install-app-for-teams.md)  

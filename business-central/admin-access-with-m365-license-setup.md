@@ -6,18 +6,18 @@ ms.author: mikebc
 ms.reviewer: bholtorf
 ms.service: dynamics-365-business-central
 ms.topic: how-to
-ms.date: 09/28/2023
+ms.date: 08/12/2024
 ms.custom: bap-template
 ms.search.keywords: 'License, access, Microsoft 365, collaborate, collaboration, Teams, Microsoft Teams'
 ms.search.form: '9061,'
 ---
-# <a name="set-up-business-central-access-in-teams-with-microsoft-365-licenses"></a>Настройка доступа к Business Central в Teams с помощью лицензий на Microsoft 365
+# Настройка доступа к Business Central в Teams с помощью лицензий на Microsoft 365
 
 [!INCLUDE[azure-ad-to-microsoft-entra-id](~/../shared-content/shared/azure-ad-to-microsoft-entra-id.md)]
 
 Прежде чем пользователи смогут осуществлять доступ к [!INCLUDE [prod_short](includes/prod_short.md)] со своими лицензиями на Microsoft 365, администратору необходимо выполнить ряд действий. Приведенные ниже действия представляют собой минимум, необходимый для начала работы. Чтобы узнать больше о доступе с помощью лицензий Microsoft 365, перейдите на страницу [Доступ к Business Central Access с помощью лицензий Microsoft 365](admin-access-with-m365-license.md).
 
-## <a name="guidelines"></a>Методические рекомендации
+## Методические рекомендации
 
 Настройка доступа с лицензиями на Microsoft 365 предполагает выполнение следующих задач:
 
@@ -38,7 +38,7 @@ ms.search.form: '9061,'
 > 2. На странице **Мастер настройки** перейдите в раздел **Больше возможностей Business Central** и выберите **Доступ с лицензиями на Microsoft 365**.
 > 3. Следуйте инструкциям.  
 
-## <a name="configure-permissions"></a>Настройка разрешений
+## Настройка разрешений
 
 В [!INCLUDE [prod_short](includes/prod_short.md)] по умолчанию реализована защита: для минимизации рисков в стандартной конфигурации пользователям Microsoft 365 не предоставляются никакие разрешения. Администраторы должны настроить разрешения в отношении объектов, которые определяют, к каким таблицам, страницам и отчетам можно получать доступ в Teams, имея только лицензию на Microsoft 365. Эти разрешения представляют собой начальные разрешения, назначаемые, когда пользователь впервые входит в систему со своей лицензией на Microsoft 365. 
 
@@ -61,7 +61,7 @@ ms.search.form: '9061,'
 
 Подробнее см. в статье [Назначение разрешений пользователям и группам](ui-define-granular-permissions.md) и [Составление наборов разрешений](/dynamics365/business-central/dev-itpro/developer/devenv-permissionset-composing).
 
-## <a name="enable-access-with-microsoft-365-licenses"></a>Включение доступа с лицензиями на Microsoft 365
+## Включение доступа с лицензиями на Microsoft 365
 
 По умолчанию доступ с лицензиями на Microsoft 365 выключен. Доступ необходимо включать для каждой среды отдельно, что дает администраторам возможность его контролировать и позволяет выполнять поэтапное развертывание в организации. Включить доступ можно в центре администрирования [!INCLUDE [prod_short](includes/prod_short.md)]: 
 
@@ -71,17 +71,17 @@ ms.search.form: '9061,'
 4. На панели **Лицензии на Microsoft 365** включите переключатель. 
 5. Закончив, выберите **Сохранить** и примите подтверждение. Изменение вступает в силу немедленно.
 
-## <a name="choose-who-gets-access-by-using-security-group"></a>Выбор пользователей с доступом с помощью группы безопасности
+## Выбор пользователей с доступом с помощью группы безопасности
 
 [!INCLUDE[azure-ad-to-microsoft-entra-id](~/../shared-content/shared/azure-ad-to-microsoft-entra-id.md)]
 
-В центре администрирования Business Center среду можно назначить одной или нескольким группам безопасности для управления доступом. Вы можете назначить среде группу Microsoft Entra. При назначении среде группы Microsoft Entra доступ к среде получают только прямые и опосредованные члены этой группы. Опосредованные члены — это пользователи другой группы, которая сама является членом группы, назначенной среде. Хотя все лицензированные пользователи в Microsoft Entra ID будут добавлены в среду при ее синхронизации с Microsoft 365, входить в систему смогут только члены группы. Подробнее см. в статье [Управление доступом с помощью групп Microsoft Entra](/dynamics365/business-central/dev-itpro/administration/tenant-admin-center-manage-access#manage-access-using-azure-active-directory-groups) в справке для разработчиков и ИТ-специалистов.
+В центре администрирования Business Center среду можно назначить одной или нескольким группам безопасности для управления доступом. Вы можете назначить среде группу Microsoft Entra. При назначении среде группы Microsoft Entra доступ к среде получают только прямые и опосредованные члены этой группы. Опосредованные члены — это пользователи другой группы, которая сама является членом группы, назначенной среде. Хотя все лицензированные пользователи в Microsoft Entra ID будут добавлены в среду при ее синхронизации с Microsoft 365, входить в систему смогут только члены группы. Подробнее читайте в разделе [Управление доступом с помощью Microsoft Entra групп](/dynamics365/business-central/dev-itpro/administration/tenant-admin-center-manage-access#manage-access-using-azure-active-directory-groups) в справке для разработчиков и ИТ-специалистов.
 
-## <a name="deploy-the-business-central-app-for-teams"></a>Разверните приложение Business Central для Teams
+Лица из группы безопасности также должны иметь соответствующую Microsoft 365 лицензию для доступа к Business Central изнутри Microsoft Teams. Получите список применимых лицензий в [Business Central с доступом к Microsoft 365 лицензиям](admin-access-with-m365-license.md#requirements-for-individual-users-to-access-data-in-teams).
 
-Чтобы держатели лицензий на [!INCLUDE [prod_short](includes/prod_short.md)] могли делиться данными в Teams, а также чтобы держатели лицензий на Microsoft 365 могли осуществлять доступ к этим данным, и у тех, и у других должно быть установлено приложение [!INCLUDE [prod_short](includes/prod_short.md)] для Teams. Хотя пользователи могут установить это приложение самостоятельно, администраторам рекомендуется использовать централизованное развертывание. Централизованное развертывание позволяет развернуть приложение для более широкой аудитории в организации и минимизировать усилия отдельных пользователей. 
+## Разверните приложение Business Central для Teams
 
-О том, как централизованно развертывать приложение [!INCLUDE [prod_short](includes/prod_short.md)] для Teams, см. в статье [Установка приложения Business Central с помощью централизованного развертывания](admin-teams-integration.md#installing-the-business-central-app-by-using-centralized-deployment).
+Чтобы держатели лицензий на [!INCLUDE [prod_short](includes/prod_short.md)] могли делиться данными в Teams, а также чтобы держатели лицензий на Microsoft 365 могли осуществлять доступ к этим данным, и у тех, и у других должно быть установлено приложение [!INCLUDE [prod_short](includes/prod_short.md)] для Teams. Хотя пользователи могут установить это приложение самостоятельно, администраторам рекомендуется использовать централизованное развертывание. Централизованное развертывание позволяет развернуть приложение для более широкой аудитории в организации и минимизировать усилия отдельных пользователей. Подробнее читайте в разделе [Установка приложения Business Central с помощью централизованного развертывания](admin-teams-integration.md#installing-the-business-central-app-by-using-centralized-deployment).
 
 > [!NOTE]
 > Если вы запускали централизованное развертывание раньше и развернули приложение только для группы безопасности "лицензированные пользователи [!INCLUDE [prod_short](includes/prod_short.md)]", вам потребуется запустить его снова, чтобы развернуть приложение в дополнительных группах или во всей организации, — в зависимости от того, как вы планируете настроить доступ.
@@ -89,7 +89,7 @@ ms.search.form: '9061,'
 > [!TIP]
 > Ищете более быстрый способ начать работу с этой функцией? Тестовые пользователи могут установить приложение со страницы [aka.ms/BCgetTeamsApp](https://aka.ms/BCgetTeamsApp).
 
-## <a name="test-your-setup"></a>Тестирование конфигурации
+## Тестирование конфигурации
 
 Чтобы убедиться, что полученная конфигурация готова к работе, выполните следующие действия и проверьте, все ли работает должным образом.
 
@@ -111,9 +111,9 @@ ms.search.form: '9061,'
    2. В сообщении, отправленном тестовым пользователем А, нажмите кнопку "Подробности" на карточке. Если отображается клиент [!INCLUDE [prod_short](includes/prod_short.md)] и он доступен только для чтения, вы все настроили успешно.
 
 > [!TIP]
-> Что-то пошло не так? Прочитайте статью об [устранении неполадок в Business Central](/troubleshoot/dynamics-365/business-central/welcome-business-central).
+> Что-то пошло не так? Подробнее читайте в разделе [Устранение неполадок Business Central](/troubleshoot/dynamics-365/business-central/welcome-business-central).
 
-## <a name="see-also"></a>См. также
+## См. также
 
 [Обзор Business Central с лицензиями на Microsoft 365](admin-access-with-m365-license.md#minimum-requirements)  
 [Устранение неполадок с доступом с лицензиями на Microsoft 365](admin-access-with-m365-license-troubleshooting.md)  

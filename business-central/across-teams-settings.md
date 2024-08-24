@@ -5,13 +5,13 @@ author: jswymer
 ms.topic: get-started
 ms.devlang: al
 ms.search.keywords: 'Teams, MS Teams, Microsoft Teams, Skype, Link, Microsoft 365, settings, search'
-ms.date: 04/12/2021
+ms.date: 08/14/2024
 ms.author: jswymer
 ms.service: dynamics-365-business-central
 ms.reviewer: jswymer
 ---
 
-# <a name="changing-company-and-other-settings-in-teams"></a>Изменение компании и других параметров в Teams
+# Изменение компании и других параметров в Teams
 
 [!INCLUDE [online_only](includes/online_only.md)]
 
@@ -19,15 +19,15 @@ ms.reviewer: jswymer
 
 Есть два способа открыть страницу **Параметры**: 1) из окна создания сообщения или 2) из командного поля.
 
-1. Под полем создания сообщения щелкните правой кнопкой мыши значок приложения [!INCLUDE [prod_short](includes/prod_short.md)], затем выберите **Параметры**.
+1. Рядом с полем написания сообщения выберите **+**, щелкните правой кнопкой мыши значок [!INCLUDE [prod_short](includes/prod_short.md)] приложения, затем выберите **Настройки**.
 
-    ![Параметры для Business Central из командного поля.](media/teams-settings-message-box.png)
+    ![Параметры для Business Central из командного поля.](media/teams-settings-message-box-2.png)
 
-2. В командном поле вверху найдите **@Business Central**, выберите **... (Дополнительные параметры)**, затем выберите **Параметры**.
+2. В командном поле вверху найдите **/Business Central**, а затем выберите [!INCLUDE [prod_short](includes/prod_short.md)] значок приложения. Затем в сообщении, которое появится под полем **[поиск деловых контактов]**, выберите **... (Дополнительные параметры)**, а затем **Настройки**. Если сообщение не отображается, щелкните поле **[поиск деловых контактов]** .
 
-   ![Параметры для Business Central из поля сообщения.](media/teams-settings-command-box.png)
+   ![Параметры для Business Central из поля сообщения.](media/teams-settings-command-box-2.png)
 
-## <a name="related-information"></a>См. также
+## Сопутствующая информация
 
 [Обзор интеграции Business Central и Microsoft Teams](across-teams-overview.md)  
 [Установка приложения [!INCLUDE [prod_short](includes/prod_short.md)] для Microsoft Teams](across-install-app-for-teams.md)  

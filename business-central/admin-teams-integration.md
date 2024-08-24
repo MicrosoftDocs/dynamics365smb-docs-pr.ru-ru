@@ -4,22 +4,23 @@ description: Управление интеграцией Business Central с Mic
 author: jswymer
 ms.topic: overview
 ms.search.keywords: 'Teams, MS Teams, Microsoft Teams, Skype, Link, Microsoft 365, collaborate, collaboration, teamwork'
-ms.date: 02/03/2023
+ms.date: 08/14/2024
 ms.author: jswymer
 ms.reviewer: jswymer
 ms.custom: bap-template
 ms.service: dynamics-365-business-central
+ms.search.form: 2718_Primary
 ---
 
-# <a name="managing-microsoft-teams-integration-with-"></a>Управление интеграцией Microsoft Teams с [!INCLUDE [prod_short](includes/prod_short.md)]
+# Управление интеграцией Microsoft Teams с [!INCLUDE [prod_short](includes/prod_short.md)]
 
 [!INCLUDE [online_only](includes/online_only.md)]
 
 В этой статье представлен обзор того, что вы можете делать как администратор для управления интеграцией Microsoft Teams с [!INCLUDE [prod_short](includes/prod_short.md)].
 
-## <a name="in-microsoft-teams"></a>В Microsoft Teams
+## В Microsoft Teams
 
-### <a name="minimum-requirements"></a>Минимальные требования
+### Минимальные требования
 
 В этом разделе описаны минимальные требования для работы функций приложения [!INCLUDE [prod_short](includes/prod_short.md)] в Teams.
 
@@ -40,20 +41,20 @@ ms.service: dynamics-365-business-central
 
 - Разрешить предварительный просмотр URL-адресов
 
-    Параметр политики **Разрешить предварительный просмотр URL-адресов** должен быть включен. В противном случае невозможно создать карточку для ссылок [!INCLUDE [prod_short](includes/prod_short.md)], вставленных в беседу Teams. Для получения дополнительной информации об этом параметре см. [Управляйте политиками обмена сообщениями в Teams](/microsoftteams/messaging-policies-in-teams).
+    Параметр политики **Разрешить предварительный просмотр URL-адресов** должен быть включен. В противном случае невозможно создать карточку для ссылок [!INCLUDE [prod_short](includes/prod_short.md)], вставленных в беседу Teams. Подробнее об этом параметре читайте в статье [Управление политиками обмена сообщениями в Teams](/microsoftteams/messaging-policies-in-teams).
 
-### <a name="managing-the--app-optional"></a>Управление приложением [!INCLUDE [prod_short](includes/prod_short.md)] (необязательно)
+### Управление приложением [!INCLUDE [prod_short](includes/prod_short.md)] (необязательно)
 
 Как администратор Teams вы можете управлять всеми приложениями для своей организации, включая приложение [!INCLUDE [prod_short](includes/prod_short.md)]. Вы можете утвердить или установить приложение [!INCLUDE [prod_short](includes/prod_short.md)] для вашей организации, запретить пользователю устанавливать приложение и т. д.
 
-Для получения дополнительной информации см. следующие статьи в документации Microsoft Teams:
+Подробнее читайте в Microsoft Teams документации по адресу:
 
 - [Управляйте своими приложениями в центре администрирования Microsoft Teams](/MicrosoftTeams/manage-apps)
 - [Управляйте политиками настройки приложений в Microsoft Teams](/microsoftteams/teams-app-setup-policies)
 
-## <a name="in-"></a>В [!INCLUDE [prod_short](includes/prod_short.md)]
+## В [!INCLUDE [prod_short](includes/prod_short.md)]
 
-### <a name="minimum-requirements-1"></a>Минимальные требования
+### Минимальные требования
 
 - Версия [!INCLUDE [prod_short](includes/prod_short.md)]:
 
@@ -61,7 +62,7 @@ ms.service: dynamics-365-business-central
 
 - Codeunit **2718, поставщик сводки по страницам** публикуется как веб-сервис:
 
-    Этот codeunit публикуется как веб-служба по умолчанию. codeunit является частью системного приложения [!INCLUDE [prod_short](includes/prod_short.md)]. Он используется для получения данных поля для страницы [!INCLUDE [prod_short](includes/prod_short.md)], добавленной в беседу Teams. Сведения о публикации веб-служб см. в разделе [Публикация веб-службы](across-how-publish-web-service.md).
+    Этот codeunit публикуется как веб-служба по умолчанию. codeunit является частью системного приложения [!INCLUDE [prod_short](includes/prod_short.md)]. Он используется для получения данных поля для страницы [!INCLUDE [prod_short](includes/prod_short.md)], добавленной в беседу Teams. Подробнее о публикации веб-сервисов читайте в статье [Публикация веб-сервиса](across-how-publish-web-service.md).
 
 - <a name="permissions"></a>Разрешения пользователя:
 
@@ -73,9 +74,9 @@ ms.service: dynamics-365-business-central
     - Чтобы просмотреть подробную информацию о карте или открыть запись в [!INCLUDE [prod_short](includes/prod_short.md)], пользователи должны иметь разрешение на чтение страницы и ее данных.
     - Чтобы изменить данные, пользователю необходимо изменить разрешения.
     
-    Сведения о разрешениях см. в разделе [Назначение разрешений пользователям и группам](ui-define-granular-permissions.md).
+    Подробнее читайте в разделе [Назначение разрешений пользователям и группам](ui-define-granular-permissions.md).
 
-## <a name="installing-the-business-central-app-by-using-centralized-deployment"></a>Установка приложения Business Central с помощью централизованного развертывания
+## Установка приложения Business Central с помощью централизованного развертывания
 
 В центре администрирования Microsoft Teams — это место, где вы настраиваете политики установки приложений Teams для организации. В центре администрирования Teams вы можете использовать функцию централизованного развертывания для автоматической установки приложения Business Central в Teams для всех пользователей в вашей организации, определенных групп или отдельных пользователей.
 
@@ -93,40 +94,40 @@ ms.service: dynamics-365-business-central
        Business Central теперь должен отображаться в **Установленные приложения** для политики.
     5. При необходимости настройте дополнительные параметры и выберите **Сохранить**.
 
-    Дополнительные сведения о политиках настройки в Teams см. в разделе [Управляйте политиками настройки приложений в Microsoft Teams](/MicrosoftTeams/teams-app-setup-policies) в документации Teams.
+    Подробнее читайте в разделе [Управление политиками настройки приложений в Microsoft Teams](/MicrosoftTeams/teams-app-setup-policies) документации Teams.
 4. Вернитесь в **Централизованное развертывание приложений Teams** в Business Central и выберите **Готово**.
 
 > [!IMPORTANT]
 > Применение политики настройки приложения и развертывание приложения для пользователей может занять до 24 часов.
 
-## <a name="managing-privacy-and-compliance"></a>Управление конфиденциальностью и соблюдением требований
+## Управление конфиденциальностью и соблюдением требований 
 
 Microsoft Teams обеспечивает обширный контроль за соблюдением и управлением конфиденциальными или личными данными &mdash; включая данные, добавленные в чаты и каналы приложением [!INCLUDE [prod_short](includes/prod_short.md)].
 
-### <a name="understanding-where--cards-are-stored"></a>Сведения о том, где хранятся карточки [!INCLUDE [prod_short](includes/prod_short.md)]
+### Сведения о том, где хранятся карточки [!INCLUDE [prod_short](includes/prod_short.md)]
 
 После отправки карточки в чат она и поля, отображаемые на карточке, копируются в Teams. Эта информация регулируется политиками Teams для вашей организации, такими как политики хранения данных. При отображении сведений карточки никакие данные в окне сведений не хранятся в Teams. Данные остаются в [!INCLUDE [prod_short](includes/prod_short.md)] и будут извлечены Teams только тогда, когда пользователь решит просмотреть сведения. 
 
-- Чтобы узнать больше о том, где Teams хранит эти данные, см. раздел [Расположение данных в Microsoft Teams](/microsoftteams/location-of-data-in-teams).
-- Чтобы узнать больше о политиках хранения в Teams, см. раздел [Политики хранения в Microsoft Teams](/microsoftteams/retention-policies).
+- Узнайте больше о том, где Teams хранит эти данные: [Расположение данных Microsoft Teams](/microsoftteams/location-of-data-in-teams).
+- Подробнее о политиках хранения в Teams можно узнать в разделе [Политики хранения в Microsoft Teams](/microsoftteams/retention-policies).
 
-### <a name="restricting-sharing-of-cards"></a>Ограничение доступа к карточкам
+### Ограничение доступа к карточкам 
 
 Вы запрещаете отдельным пользователям или группам отправлять карточки в чаты или каналы, настраивая политики обмена сообщениями, которые отключают настройку **Предварительный просмотр URL-адресов**. Для получения дополнительной информации об этом параметре см. [Управление политиками обмена сообщениями в Teams](/microsoftteams/messaging-policies-in-teams). 
 
 Вы также можете использовать информационные барьеры, чтобы люди или группы не могли общаться друг с другом. Дополнительные сведения см. в разделе [Информационные барьеры в Microsoft Teams](/microsoftteams/information-barriers-in-teams).
 
-Функции предотвращения потери данных в Центре безопасности и соответствия требованиям Microsoft 365 нельзя применять к самим карточкам. Но их можно применить к сообщениям чата, содержащим карточки. <!-- To track upcoming advanced features that include enabling DLP for cards, see [https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=67093](https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=67093).-->
+Функции предотвращения потери данных в Центре безопасности и соответствия требованиям Microsoft 365 нельзя применять к самим карточкам. Но их можно применить к сообщениям чата, содержащим карточки.
 
-### <a name="responding-to-data-requests"></a>Ответы на запросы данных
+### Ответы на запросы данных
 
-Вы разрешаете членам групп и владельцам групп удалять сообщения, содержащие конфиденциальные карточки, путем настройки политик обмена сообщениями, например: **Владельцы могут удалять отправленные сообщения** и **Пользователи могут удалять отправленные сообщения**. Дополнительные сведения см. в разделе [Управление политиками обмена сообщениями в Teams](/microsoftteams/messaging-policies-in-teams).
+Вы разрешаете членам групп и владельцам групп удалять сообщения, содержащие конфиденциальные карточки, путем настройки политик обмена сообщениями, например: **Владельцы могут удалять отправленные сообщения** и **Пользователи могут удалять отправленные сообщения**. Подробнее см. в статье [Управление политиками обмена сообщениями в Teams](/microsoftteams/messaging-policies-in-teams).
 
 Функции поиска содержимого и соответствия eDiscovery в Центре безопасности и соответствия требованиям Microsoft 365 можно также применять к карточкам.
 
-Поскольку данные карточек в Teams являются копией данных в [!INCLUDE [prod_short](includes/prod_short.md)], вы также можете использовать функции [!INCLUDE [prod_short](includes/prod_short.md)] для экспорта данных клиента по запросу. Дополнительные сведения о конфиденциальности в [!INCLUDE [prod_short](includes/prod_short.md)] см. в разделе [Вопросы и ответы о конфиденциальности для клиентов Business Central](/dynamics365/business-central/dev-itpro/security/privacyfaq).
+Поскольку данные карточек в Teams являются копией данных в [!INCLUDE [prod_short](includes/prod_short.md)], вы также можете использовать функции [!INCLUDE [prod_short](includes/prod_short.md)] для экспорта данных клиента по запросу. Подробнее о конфиденциальности читайте в [!INCLUDE [prod_short](includes/prod_short.md)] разделе [Часто задаваемые вопросы о конфиденциальности для клиентов Business Central](/dynamics365/business-central/dev-itpro/security/privacyfaq).
 
-## <a name="show-or-hide-record-data-on-cards"></a>Отображение или скрытие данных записей на карточках
+## Отображение или скрытие данных записей на карточках
 
 Когда кто-то делится записью с другими пользователями в чате или канале Teams, отображается карточка с полями, содержащими данные об этой записи. По умолчанию эти данные (или сводку записи) могут просматривать все получатели, независимо от имеющихся у них лицензий или разрешений в Business Central. Если вы являетесь администратором, вы можете использовать мастер настройки **Параметры карточек**, чтобы запретить отображение сводки записи на карточках в Teams. При скрытии сводки записи удаляются все поля и изображения, но на карточке по-прежнему отображается кнопка **Подробности** и другая не относящаяся к записи информация.
 
@@ -140,16 +141,16 @@ Microsoft Teams обеспечивает обширный контроль за 
 
    > [!TIP]
    > Чтобы переключить среду, нажмите <kbd>Ctrl</kbd>+<kbd>O</kbd>.
-2. Нажмите значок ![Лупа, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Параметры карточек**, а затем выберите связанную ссылку. <!--Or, select [here](https://businesscentral.dynamics.com/?page=1833) to open the page directly.-->
+2. Нажмите значок ![Лупа, которая открывает функцию Что вы хотите сделать.](media/ui-search/search_small.png "Что вы хотите сделать"), введите **Параметры карточек**, а затем выберите связанную ссылку.
 3. Прочтите информацию о **параметрах карточек** и нажмите **Далее**, когда будете готовы.
 4. На странице **Видимость данных** включите параметр **Показывать сводку записи**, если нужно, чтобы данные отображались на карточках, либо выключите его, чтобы скрыть данные.
 5. Выберите **Далее** и завершите настройку, следуя инструкциям мастера.
 
-## <a name="related-information"></a>См. также
+## Сопутствующая информация
 
 [Обзор интеграции [!INCLUDE [prod_short](includes/prod_short.md)] и Microsoft Teams](across-teams-overview.md)  
 [Установка приложения [!INCLUDE [prod_short](includes/prod_short.md)] для Microsoft Teams](across-install-app-for-teams.md)  
-[Вопросы и ответы по Teams](teams-faq.md)  
+[Вопросы и ответы о Teams](teams-faq.md)  
 [Устранение неполадок Teams](admin-teams-troubleshooting.md)  
 [Разработка для интеграции Teams](/dynamics365/business-central/dev-itpro/developer/devenv-develop-for-teams)  
 
