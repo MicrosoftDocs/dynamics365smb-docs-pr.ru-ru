@@ -21,7 +21,7 @@ ms.reviewer: bholtorf
 - Регистрация времени для сервисного заказа
 - Учет сервисного заказа по контракту и выставление по нему счета
 
-## <a name="creation-of-service-items"></a>Создание сервисных товаров
+## <a name="create-service-items"></a>Создание сервисных товаров
 
 ### <a name="scenario"></a>Сценарий
 
@@ -45,7 +45,7 @@ ms.reviewer: bholtorf
 
 - Для клиента 10000 создается сервисный товар
 
-## <a name="invoicing-a-service-contract"></a>Выставление счетов по сервисному контракту
+## <a name="invoice-a-service-contract"></a>Выставление счетов по сервисному контракту
 
 ### <a name="scenario-1"></a>Сценарий
 

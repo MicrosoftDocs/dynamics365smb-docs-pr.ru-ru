@@ -11,7 +11,7 @@ ms.service: dynamics-365-business-central
 ms.reviewer: jswymer
 ---
 
-# Изменение компании и других параметров в Teams
+# <a name="changing-company-and-other-settings-in-teams"></a>Изменение компании и других параметров в Teams
 
 [!INCLUDE [online_only](includes/online_only.md)]
 
@@ -27,7 +27,7 @@ ms.reviewer: jswymer
 
    ![Параметры для Business Central из поля сообщения.](media/teams-settings-command-box-2.png)
 
-## Сопутствующая информация
+## <a name="related-information"></a>Сопутствующая информация
 
 [Обзор интеграции Business Central и Microsoft Teams](across-teams-overview.md)  
 [Установка приложения [!INCLUDE [prod_short](includes/prod_short.md)] для Microsoft Teams](across-install-app-for-teams.md)  
